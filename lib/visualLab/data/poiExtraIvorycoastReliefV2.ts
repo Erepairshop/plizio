@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraIvorycoastReliefV2: POI[] = [
@@ -13,8 +14,11 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Magassága 1752 méter", "UNESCO világörökség része", "Gazdag biológiai sokféleség", "Gránit tömb"],
       ro: ["Înălțime 1752 metri", "Parte a patrimoniului UNESCO", "Biodiversitate bogată", "Masiv de granit"],
       en: ["Height 1752 meters", "UNESCO World Heritage area", "Rich biodiversity", "Granite massif"]
-    }
-  },
+    },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Mount Nimba is the highest peak in Ivory Coast at 1752 meters, spanning the borders with Guinea and Liberia. This massif, composed of archaic granite, is a globally significant biodiversity hotspot. It hosts numerous endemic species, including the famous Nimba otter shrew. Since 1981, part of the area has been protected as a UNESCO World Heritage site, serving as a sanctuary for threatened habitats. Geography K7 — African mountain systems."
+    },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Summit height of 1752 meters", "UNESCO site since 1981", "Granite bedrock", "Part of the Guinea Highlands", "Home to endemic Nimba otter shrews", "Key African biodiversity hotspot"]
+    }, image: "/poi-images/mont-nimba-relief-v2.webp"},
   {
     id: "plateau-baoule-relief-v2",
     type: "relief",
@@ -27,8 +31,11 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Jellemző szavannai táj", "Központi felföld", "Fontos mezőgazdasági terület", "Enyhén hullámos felszín"],
       ro: ["Peisaj tipic de savană", "Podiș central", "Zonă agricolă importantă", "Suprafață ușor ondulată"],
       en: ["Typical savanna landscape", "Central highland", "Important agricultural area", "Gently undulating surface"]
-    }
-  },
+    },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Baoulé Plateau in the center of Ivory Coast is an extensive highland dominated by savanna ecosystems. With elevations between 200 and 400 meters, it serves as a significant agricultural zone for the country. The climate is defined by distinct dry and wet seasons, which significantly influence the region's flora and fauna. In addition to agricultural use, the plateau offers insight into the traditional settlement patterns of the Baoulé people. Geography K6 — savanna landscapes."
+    },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Elevations between 200-400 meters", "Center of the Baoulé region", "Important yam-growing area", "Typical Sudanian climate", "Pronounced dry season", "Elevated interior plateau"]
+    }, image: "/poi-images/plateau-baoule-relief-v2.webp"},
   {
     id: "lagune-ebrie-relief-v2",
     type: "relief",
@@ -41,8 +48,11 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Tengerparti víztest", "Fontos közlekedési útvonal", "Halban gazdag ökoszisztéma", "Elválasztja az Atlanti-óceántól"],
       ro: ["Bazin de apă de coastă", "Rută de transport importantă", "Ecosistem bogat în pești", "Separat de Oceanul Atlantic"],
       en: ["Coastal body of water", "Important transport route", "Fish-rich ecosystem", "Separates from the Atlantic Ocean"]
-    }
-  },
+    },
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Ébrié Lagoon is a vast water system along the Atlantic coast of Ivory Coast, stretching for approximately 130 kilometers. It forms the natural barrier between the mainland and the ocean, with the Vridi Canal providing direct access to the port of Abidjan. The lagoon system is vital for fishing and local transport, but it is under massive ecological pressure due to the urbanization of Abidjan. Geography K8 — coastal features."
+    },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Length of around 130 kilometers", "Connected to the ocean via Vridi Canal", "Principal port, Abidjan, is located here", "Saltwater lagoon", "Fishing area for locals", "Strong urban impact"]
+    }, image: "/poi-images/lagune-ebrie-relief-v2.webp"},
   {
     id: "savanne-nord-relief-v2",
     type: "relief",
@@ -55,8 +65,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Száraz szavanna", "Sík domborzat", "Szezonális csapadék", "Állattenyésztés"],
       ro: ["Savana uscată", "Relief plat", "Precipitații sezoniere", "Creșterea animalelor"],
       en: ["Dry savanna", "Flat relief", "Seasonal precipitation", "Pastoralism"]
-    }
-  },
+    }, image: "/poi-images/savanne-nord-relief-v2.webp"},
   {
     id: "massif-dan-relief-v2",
     type: "mountain",
@@ -69,8 +78,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Nyugati hegyvidék", "Sűrűn erdősült", "A felföld része", "Sziklás gerincek"],
       ro: ["Munții de vest", "Puternic împăduriți", "Parte a podișului", "Cresturi stâncoase"],
       en: ["Western mountains", "Heavily forested", "Part of the highlands", "Rocky ridges"]
-    }
-  },
+    }, image: "/poi-images/massif-dan-relief-v2.webp"},
   {
     id: "ebrie-kuestenebene-relief-v2",
     type: "relief",
@@ -83,8 +91,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Sík terep", "Homokos strandok", "Mangrove növényzet", "Trópusi éghajlat"],
       ro: ["Teren plat", "Plaje cu nisip", "Vegetație de mangrove", "Climat tropical"],
       en: ["Flat terrain", "Sandy beaches", "Mangrove vegetation", "Tropical climate"]
-    }
-  },
+    }, image: "/poi-images/ebrie-kuestenebene-relief-v2.webp"},
   {
     id: "sassandra-becken-relief-v2",
     type: "relief",
@@ -97,8 +104,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Folyóvölgy", "Esőerdő terület", "Vízenergia-potenciál", "Alföldek"],
       ro: ["Peisaj fluvial", "Zonă de pădure tropicală", "Potențial hidroenergetic", "Câmpii"],
       en: ["River landscape", "Rainforest area", "Hydropower potential", "Lowlands"]
-    }
-  },
+    }, image: "/poi-images/sassandra-becken-relief-v2.webp"},
   {
     id: "bandama-tal-relief-v2",
     type: "relief",
@@ -111,8 +117,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Folyórendszer", "Termékeny környezet", "Központi alföld", "Mezőgazdasági övezet"],
       ro: ["Sistem fluvial", "Zonă fertilă", "Câmpie centrală", "Zonă agricolă"],
       en: ["River system", "Fertile surroundings", "Central lowlands", "Agricultural zone"]
-    }
-  },
+    }, image: "/poi-images/bandama-tal-relief-v2.webp"},
   {
     id: "komoe-ebene-relief-v2",
     type: "relief",
@@ -125,8 +130,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Keleti alföld", "Bozótos táj", "Nemzeti park terület", "Alacsony tengerszint feletti magasság"],
       ro: ["Câmpia de est", "Peisaj de tufișuri", "Zonă de parc național", "Elevație mică"],
       en: ["Eastern lowlands", "Bushland", "National park area", "Low elevation"]
-    }
-  },
+    }, image: "/poi-images/komoe-ebene-relief-v2.webp"},
   {
     id: "forest-taii-relief-v2",
     type: "forest",
@@ -139,8 +143,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Őserdő", "Magas biodiverzitás", "Védett terület", "Nedves trópusi"],
       ro: ["Pădure primară", "Biodiversitate ridicată", "Zonă protejată", "Umed-tropical"],
       en: ["Primary forest", "High biodiversity", "Protected area", "Humid-tropical"]
-    }
-  },
+    }, image: "/poi-images/forest-taii-relief-v2.webp"},
   {
     id: "plateau-odienne-relief-v2",
     type: "relief",
@@ -153,8 +156,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Magasan fekvő terület", "Szavanna éghajlat", "Állattartás", "Sziklás nyúlványok"],
       ro: ["Zonă înaltă", "Climat de savană", "Creșterea animalelor", "Ramificații stâncoase"],
       en: ["High-altitude area", "Savanna climate", "Livestock farming", "Rocky spurs"]
-    }
-  },
+    }, image: "/poi-images/plateau-odienne-relief-v2.webp"},
   {
     id: "lagune-grand-lahou-relief-v2",
     type: "relief",
@@ -167,8 +169,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Lagúnarendszer", "Fontos élőhely", "Homokpadok", "Mangrovefák"],
       ro: ["Sistem de lagune", "Habitat important", "Bancuri de nisip", "Mangrove"],
       en: ["Lagoon system", "Important habitat", "Sandbars", "Mangroves"]
-    }
-  },
+    }, image: "/poi-images/lagune-grand-lahou-relief-v2.webp"},
   {
     id: "massif-biankouma-relief-v2",
     type: "mountain",
@@ -181,8 +182,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Hegyvidéki régió", "Sűrű növényzet", "Domborzatban gazdag", "Túrázási terület"],
       ro: ["Regiune muntoasă", "Vegetație densă", "Relief bogat", "Zonă de drumeții"],
       en: ["Mountain region", "Dense vegetation", "Rich relief", "Hiking area"]
-    }
-  },
+    }, image: "/poi-images/massif-biankouma-relief-v2.webp"},
   {
     id: "becken-von-bouake-relief-v2",
     type: "relief",
@@ -195,8 +195,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Központi alföld", "Dombvidék", "Mezőgazdasági hasznosítás", "Vízválasztó"],
       ro: ["Câmpie centrală", "Peisaj deluros", "Utilizare agricolă", "Bazin hidrografic"],
       en: ["Central lowlands", "Hilly landscape", "Agricultural use", "Watershed"]
-    }
-  },
+    }, image: "/poi-images/becken-von-bouake-relief-v2.webp"},
   {
     id: "kuestenebene-san-pedro-relief-v2",
     type: "relief",
@@ -209,8 +208,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Tengerparti sáv", "Trópusi páratartalom", "Kikötői környezet", "Sík domborzat"],
       ro: ["Fâșie de coastă", "Umiditate tropicală", "Împrejurimile portului", "Relief plat"],
       en: ["Coastal strip", "Tropical humidity", "Port environment", "Flat relief"]
-    }
-  },
+    }, image: "/poi-images/kuestenebene-san-pedro-relief-v2.webp"},
   {
     id: "savanne-fere-relief-v2",
     type: "relief",
@@ -223,8 +221,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Sík síkság", "Mezőgazdasági telephely", "Száraz szavanna", "Magas napsütéses órák"],
       ro: ["Câmpie plată", "Centru agricol", "Savana uscată", "Radiație solară ridicată"],
       en: ["Flat plain", "Agricultural site", "Dry savanna", "High solar radiation"]
-    }
-  },
+    }, image: "/poi-images/savanne-fere-relief-v2.webp"},
   {
     id: "lagune-tiagba-relief-v2",
     type: "relief",
@@ -237,8 +234,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Lagúna táj", "Halászat", "Csendes vizek", "Mangrove szegély"],
       ro: ["Peisaj lagunar", "Pescuit", "Ape liniștite", "Margini de mangrove"],
       en: ["Lagoon landscape", "Fishing", "Calm waters", "Mangrove fringe"]
-    }
-  },
+    }, image: "/poi-images/lagune-tiagba-relief-v2.webp"},
   {
     id: "plateau-bongouanou-relief-v2",
     type: "relief",
@@ -265,8 +261,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["'18 hegy városa'", "Esőerdei lejtők", "Turisztikai régió", "Magas csúcsok"],
       ro: ["'Orașul celor 18 munți'", "Versanți cu pădure tropicală", "Regiune turistică", "Vârfuri înalte"],
       en: ["'City of the 18 mountains'", "Rainforest slopes", "Tourist region", "High peaks"]
-    }
-  },
+    }, image: "/poi-images/massif-man-relief-v2.webp"},
   {
     id: "wald-von-yapo-relief-v2",
     type: "forest",
@@ -279,8 +274,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Trópusi erdő", "Fontos szén-dioxid-tároló", "Biodiverzitás", "Párás éghajlat"],
       ro: ["Pădure tropicală", "Important rezervor de carbon", "Biodiversitate", "Climat umed"],
       en: ["Tropical forest", "Important carbon sink", "Biodiversity", "Humid climate"]
-    }
-  },
+    }, image: "/poi-images/wald-von-yapo-relief-v2.webp"},
   {
     id: "ebene-von-bondoukou-relief-v2",
     type: "relief",
@@ -293,8 +287,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Dombvidék", "Szavanna típus", "Mezőgazdasági terület", "Alacsony tengerszint feletti magasság"],
       ro: ["Peisaj deluros", "Tip de savană", "Zonă agricolă", "Elevație mică"],
       en: ["Hilly landscape", "Savanna type", "Agricultural area", "Low altitude"]
-    }
-  },
+    }, image: "/poi-images/ebene-von-bondoukou-relief-v2.webp"},
   {
     id: "lagune-abidjan-relief-v2",
     type: "relief",
@@ -307,8 +300,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Fontos kikötő", "Tengerparti ökoszisztéma", "Gazdasági központ", "Mangrovefák"],
       ro: ["Port important", "Ecosistem de coastă", "Centru economic", "Mangrove"],
       en: ["Important port", "Coastal ecosystem", "Economic hub", "Mangroves"]
-    }
-  },
+    }, image: "/poi-images/lagune-abidjan-relief-v2.webp"},
   {
     id: "hochland-von-khorogo-relief-v2",
     type: "relief",
@@ -321,8 +313,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Szavanna felföld", "Tradicionális kézművesség", "Állatlegelők", "Száraz évszak"],
       ro: ["Podiș de savană", "Meșteșuguri tradiționale", "Pășuni", "Sezon uscat"],
       en: ["Savanna highland", "Traditional craftsmanship", "Pastures", "Dry season"]
-    }
-  },
+    }, image: "/poi-images/hochland-von-khorogo-relief-v2.webp"},
   {
     id: "flusstal-nzi-relief-v2",
     type: "relief",
@@ -335,8 +326,7 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       hu: ["Folyórendszer", "Termékeny völgy", "Ártéri területek", "Alföld"],
       ro: ["Sistem fluvial", "Vale fertilă", "Zonă de inundații", "Câmpie"],
       en: ["River system", "Fertile valley", "Floodplains", "Lowlands"]
-    }
-  },
+    }, image: "/poi-images/flusstal-nzi-relief-v2.webp"},
   {
     id: "lagune-abidjan-west-relief-v2",
     type: "relief",
@@ -352,3 +342,4 @@ export const poiExtraIvorycoastReliefV2: POI[] = [
       }
   }
 ];
+

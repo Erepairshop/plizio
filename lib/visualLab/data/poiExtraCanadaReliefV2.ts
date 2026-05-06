@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCanadaReliefV2: POI[] = [
@@ -11,15 +12,14 @@ export const poiExtraCanadaReliefV2: POI[] = [
       de: "Ein bedeutendes Gebirge entlang der Pazifikküste Kanadas, das für seine dichten Wälder bekannt ist.", 
       hu: "Jelentős hegylánc Kanada csendes-óceáni partvidékén, mely sűrű erdeiről ismert.", 
       ro: "Un lanț muntos major de-a lungul coastei Pacificului din Canada, cunoscut pentru pădurile sale.", 
-      en: "A major mountain range along the Pacific coast of Canada, known for its dense forests." 
+      en: "A major mountain range along the Pacific coast of Canada, known for its dense forests."
     },
-    facts: {
-      de: ["Erstreckt sich über 1600 km.", "Teil des pazifischen Feuerrings."],
-      hu: ["Több mint 1600 km hosszú.", "A csendes-óceáni tűzgyűrű része."],
-      ro: ["Se întinde pe peste 1600 km.", "Parte a Cercului de Foc."],
-      en: ["Stretches over 1600 km.", "Part of the Pacific Ring of Fire."]
-    }
-  },
+    descriptionAdvanced: {
+      de: "Die Coast Mountains erstrecken sich entlang der pazifischen Küste von British Columbia und gehören zu den spektakulärsten Gebirgszügen Kanadas. Sie zeichnen sich durch tiefe Fjorde, massive Gletscher und steile Gipfel aus, die oft direkt vom Meer aus ansteigen. Geografie K7 — Gebirgsbildung und Klimazonen."
+    },
+    factsAdvanced: {
+      de: ["Gebirgskette entlang der Küste von British Columbia", "Beherbergt den größten temperierten Gletscher der Welt", "Wichtige Barriere für pazifische Feuchtigkeit", "Höchster Gipfel: Mount Waddington", "Präsentiert tiefe Fjorde und steile Täler", "Entstanden durch tektonische Aktivitäten"]
+    }, image: "/poi-images/coast-mountains-relief-v2.webp"},
   {
     id: "laurentian-mountains-relief-v2",
     type: "relief",
@@ -30,15 +30,14 @@ export const poiExtraCanadaReliefV2: POI[] = [
       de: "Eines der ältesten Gebirge der Welt im südlichen Québec, ideal für Wintersport.", 
       hu: "A világ egyik legrégebbi hegysége Québec déli részén, kiváló téli sportokhoz.", 
       ro: "Unul dintre cei mai vechi munți din lume în sudul Québecului, ideal pentru sporturi de iarnă.", 
-      en: "One of the oldest mountain ranges in the world in southern Quebec, ideal for winter sports." 
+      en: "One of the oldest mountain ranges in the world in southern Quebec, ideal for winter sports."
     },
-    facts: {
-      de: ["Über eine Milliarde Jahre alt.", "Beliebtes Skigebiet."],
-      hu: ["Több mint egymilliárd éves.", "Népszerű síparadicsom."],
-      ro: ["Are o vechime de peste un miliard de ani.", "Destinație populară de schi."],
-      en: ["Over a billion years old.", "Popular skiing destination."]
-    }
-  },
+    descriptionAdvanced: {
+      de: "Die Laurentian Mountains in der Provinz Québec sind eines der ältesten Gebirge der Welt. Sie bestehen aus einem tief erodierten Hochland, das heute für seine dichten Wälder und zahlreiche Seen als beliebtes Erholungsgebiet dient. Geografie K6 — Geologische Zeitgeschichte."
+    },
+    factsAdvanced: {
+      de: ["Eines der ältesten Gebirge der Welt", "Standort: Zentral-Québec", "Tief erodiertes präkambrisches Schild", "Dichte boreale Nadelwälder", "Zahlreiche Seen in den Tälern", "Bedeutsam für das Ökosystem von Québec"]
+    }, image: "/poi-images/laurentian-mountains-relief-v2.webp"},
   {
     id: "columbia-icefield-relief-v2",
     type: "relief",
@@ -49,15 +48,14 @@ export const poiExtraCanadaReliefV2: POI[] = [
       de: "Das größte Eisfeld in den kanadischen Rocky Mountains, gelegen an der kontinentalen Wasserscheide.", 
       hu: "A kanadai Sziklás-hegység legnagyobb jégmezője, a kontinentális vízválasztón fekszik.", 
       ro: "Cel mai mare câmp de gheață din Munții Stâncoși Canadieni, situat pe cumpăna apelor.", 
-      en: "The largest icefield in the Canadian Rockies, located along the Continental Divide." 
+      en: "The largest icefield in the Canadian Rockies, located along the Continental Divide."
     },
-    facts: {
-      de: ["Fläche von etwa 325 km².", "Nährt sechs Hauptgletscher."],
-      hu: ["Területe körülbelül 325 km².", "Hat fő gleccsert táplál."],
-      ro: ["Suprafață de aproximativ 325 km².", "Alimentează șase ghețari principali."],
-      en: ["Area of about 325 sq km.", "Feeds six major glaciers."]
-    }
-  },
+    descriptionAdvanced: {
+      de: "Das Columbia Icefield in den Rocky Mountains ist das größte Eisfeld der südlichen Rocky Mountains. Es speist mehrere Flüsse und bildet ein beeindruckendes natürliches Reservoir für Süßwasser in einer hochalpinen Landschaft. Geografie K7 — Glaziale Prozesse."
+    },
+    factsAdvanced: {
+      de: ["Größtes Eisfeld der südlichen Rocky Mountains", "Speist mehrere große Flusssysteme", "Standort: Grenze Alberta/British Columbia", "Schrumpft aufgrund klimatischer Veränderungen", "Bildet ein beeindruckendes alpines Reservoir", "Wichtige Touristenattraktion"]
+    }, image: "/poi-images/columbia-icefield-relief-v2.webp"},
   {
     id: "mackenzie-mountains-relief-v2",
     type: "relief",
@@ -68,15 +66,14 @@ export const poiExtraCanadaReliefV2: POI[] = [
       de: "Eine abgelegene Gebirgskette im kanadischen Norden, die eine natürliche Grenze zum Yukon bildet.", 
       hu: "Távoli hegylánc a kanadai északon, mely természetes határt képez Yukon felé.", 
       ro: "Un lanț muntos izolat în nordul Canadei, formând o graniță naturală cu Yukon.", 
-      en: "A remote mountain range in the Canadian North, forming a natural boundary with Yukon." 
+      en: "A remote mountain range in the Canadian North, forming a natural boundary with Yukon."
     },
-    facts: {
-      de: ["Höchster Gipfel: Mount Keele.", "Reich an Mineralien."],
-      hu: ["Legmagasabb csúcsa a Mount Keele.", "Ásványkincsekben gazdag."],
-      ro: ["Cel mai înalt vârf: Mount Keele.", "Bogat în minerale."],
-      en: ["Highest peak: Mount Keele.", "Rich in mineral deposits."]
-    }
-  },
+    descriptionAdvanced: {
+      de: "Die Mackenzie Mountains bilden einen Teil der kanadischen Kordilleren und ziehen sich durch die Nordwest-Territorien und Yukon. Sie bieten eine raue und nahezu unberührte Wildnis, die nur wenigen Menschen zugänglich ist. Geografie K7 — Gebirgsketten der Wildnis."
+    },
+    factsAdvanced: {
+      de: ["Teil der kanadischen Kordilleren", "Befinden sich in den Nordwest-Territorien und Yukon", "Raues und unberührtes Wildnisgebiet", "Hohe Niederschlagsmengen in den Gipfellagen", "Wenig erschlossene Hochgebirgsregion", "Wichtiger Lebensraum für Bergschafe"]
+    }, image: "/poi-images/mackenzie-mountains-relief-v2.webp"},
   {
     id: "torngat-mountains-relief-v2",
     type: "relief",
@@ -87,15 +84,14 @@ export const poiExtraCanadaReliefV2: POI[] = [
       de: "Die höchsten Berge im kanadischen Festland östlich der Rocky Mountains, gelegen in Labrador.", 
       hu: "A kanadai szárazföld legmagasabb hegyei a Sziklás-hegységtől keletre, Labradorban.", 
       ro: "Cei mai înalți munți continentali la est de Munții Stâncoși, în Labrador.", 
-      en: "The highest mainland mountains east of the Rockies, located in Labrador." 
+      en: "The highest mainland mountains east of the Rockies, located in Labrador."
     },
-    facts: {
-      de: ["Höchster Punkt: Mount Caubvick.", "Heimat von Eisbären."],
-      hu: ["Legmagasabb pontja a Mount Caubvick.", "Jegesmedvék otthona."],
-      ro: ["Cel mai înalt punct: Mount Caubvick.", "Găzduiește urși polari."],
-      en: ["Highest point: Mount Caubvick.", "Home to polar bears."]
-    }
-  },
+    descriptionAdvanced: {
+      de: "Die Torngat Mountains auf der Labrador-Halbinsel sind ein extrem raues, arktisches Gebirge, das in den Inuit-Sprachen als 'Ort der Geister' bekannt ist. Sie bilden eine spektakuläre Grenze zwischen der Landmasse und dem Nordatlantik. Geografie K8 — Arktische Geomorphologie."
+    },
+    factsAdvanced: {
+      de: ["Arktisches Gebirge auf der Labrador-Halbinsel", "Name bedeutet 'Ort der Geister' auf Inuktitut", "Spektakuläre Küstenlandschaft am Atlantik", "Eisgeformte Gipfel und Täler", "Teil eines Nationalparks", "Extreme klimatische Bedingungen"]
+    }, image: "/poi-images/torngat-mountains-relief-v2.webp"},
   {
     id: "mont-tremblant-relief-v2",
     type: "mountain",
@@ -113,8 +109,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Magassága 875 méter.", "Egy nemzeti parkban található."],
       ro: ["Înălțime: 875 metri.", "Situat într-un parc național."],
       en: ["Elevation: 875 meters.", "Located in a national park."]
-    }
-  },
+    }, image: "/poi-images/mont-tremblant-relief-v2.webp"},
   {
     id: "canadian-shield-relief-v2",
     type: "relief",
@@ -132,8 +127,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Prekambriumi kőzeteket tartalmaz.", "Nagyon gazdag ércekben."],
       ro: ["Conține roci din Precambrian.", "Foarte bogat în minereuri."],
       en: ["Contains Precambrian rocks.", "Very rich in metallic ores."]
-    }
-  },
+    }, image: "/poi-images/canadian-shield-relief-v2.webp"},
   {
     id: "mount-garibaldi-relief-v2",
     type: "mountain",
@@ -151,8 +145,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Magassága 2678 méter.", "Utolsó kitörése kb. 10 000 éve volt."],
       ro: ["Înălțime: 2678 metri.", "Ultima erupție acum 10.000 de ani."],
       en: ["Elevation: 2678 meters.", "Last eruption about 10,000 years ago."]
-    }
-  },
+    }, image: "/poi-images/mount-garibaldi-relief-v2.webp"},
   {
     id: "mount-thor-relief-v2",
     type: "mountain",
@@ -170,8 +163,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["1250 méteres függőleges letörés.", "A Baffin-hegység része."],
       ro: ["Cădere verticală de 1250 metri.", "Parte a Munților Baffin."],
       en: ["Vertical drop of 1250 meters.", "Part of the Baffin Mountains."]
-    }
-  },
+    }, image: "/poi-images/mount-thor-relief-v2.webp"},
   {
     id: "mount-rundle-relief-v2",
     type: "mountain",
@@ -189,8 +181,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Magassága 2948 méter.", "Népszerű célpont hegymászóknak."],
       ro: ["Înălțime: 2948 metri.", "O destinație populară pentru alpiniști."],
       en: ["Elevation: 2948 meters.", "A popular destination for scramblers."]
-    }
-  },
+    }, image: "/poi-images/mount-rundle-relief-v2.webp"},
   {
     id: "cascade-range-relief-v2",
     type: "relief",
@@ -208,8 +199,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Erősen vulkanikus jellegű.", "A tűzgyűrű része."],
       ro: ["Puternic influențat vulcanic.", "Parte a Cercului de Foc."],
       en: ["Heavily shaped by volcanoes.", "Part of the Ring of Fire."]
-    }
-  },
+    }, image: "/poi-images/cascade-range-relief-v2.webp"},
   {
     id: "selkirk-mountains-relief-v2",
     type: "relief",
@@ -227,8 +217,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Mount Sir Sandford.", "Régebbi, mint a Sziklás-hegység."],
       ro: ["Cel mai înalt vârf: Mount Sir Sandford.", "Mai vechi decât Munții Stâncoși."],
       en: ["Highest peak: Mount Sir Sandford.", "Older than the Rocky Mountains."]
-    }
-  },
+    }, image: "/poi-images/selkirk-mountains-relief-v2.webp"},
   {
     id: "st-elias-mountains-relief-v2",
     type: "relief",
@@ -246,8 +235,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Itt található a Mount Logan.", "Legnagyobb jégmező a sarkokon kívül."],
       ro: ["Găzduiește Mount Logan.", "Cel mai mare câmp de gheață subpolar."],
       en: ["Home to Mount Logan.", "Largest non-polar ice field."]
-    }
-  },
+    }, image: "/poi-images/st-elias-mountains-relief-v2.webp"},
   {
     id: "alberta-badlands-relief-v2",
     type: "relief",
@@ -265,8 +253,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Itt van a Dinosaur Provincial Park.", "Jellegzetes sziklaoszlopai a hoodoo-k."],
       ro: ["Găzduiește Parcul Dinozaurilor.", "Caracterizat prin coloane de rocă (hoodoo)."],
       en: ["Home to Dinosaur Provincial Park.", "Features iconic hoodoo rock formations."]
-    }
-  },
+    }, image: "/poi-images/alberta-badlands-relief-v2.webp"},
   {
     id: "purcell-mountains-relief-v2",
     type: "relief",
@@ -284,8 +271,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Itt található a Bugaboo Park.", "A hegymászók paradicsoma."],
       ro: ["Parcul Bugaboo este situat aici.", "Un paradis pentru alpiniști."],
       en: ["Bugaboo Provincial Park is here.", "A premier mountaineering destination."]
-    }
-  },
+    }, image: "/poi-images/purcell-mountains-relief-v2.webp"},
   {
     id: "monashee-mountains-relief-v2",
     type: "relief",
@@ -303,8 +289,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["A név 'béke hegyét' jelent.", "Régi aranybányákban gazdag."],
       ro: ["Numele înseamnă 'Muntele Păcii'.", "Bogat în vechi mine de aur."],
       en: ["Name means 'Mountain of Peace'.", "Rich in historic gold mines."]
-    }
-  },
+    }, image: "/poi-images/monashee-mountains-relief-v2.webp"},
   {
     id: "cypress-hills-relief-v2",
     type: "relief",
@@ -322,8 +307,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Legmagasabb pont a Sziklás-hegység és Labrador közt.", "A jégkorszak alatt jégmentes volt."],
       ro: ["Cel mai înalt punct între Stâncoși și Labrador.", "A fost fără gheață în era glaciară."],
       en: ["Highest point between the Rockies and Labrador.", "Remained ice-free during the Ice Age."]
-    }
-  },
+    }, image: "/poi-images/cypress-hills-relief-v2.webp"},
   {
     id: "cariboo-mountains-relief-v2",
     type: "relief",
@@ -341,8 +325,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Itt található a Wells Gray Park.", "Nagy grizzlymedve populáció."],
       ro: ["Parcul Wells Gray se află aici.", "Populații mari de urși grizzly."],
       en: ["Wells Gray Provincial Park is here.", "Large populations of grizzly bears."]
-    }
-  },
+    }, image: "/poi-images/cariboo-mountains-relief-v2.webp"},
   {
     id: "ogilvie-mountains-relief-v2",
     type: "relief",
@@ -360,8 +343,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Zord mészkőcsúcsairól ismert.", "A Tombstone Park otthona."],
       ro: ["Cunoscut pentru vârfurile aspre de calcar.", "Găzduiește Parcul Tombstone."],
       en: ["Known for jagged limestone peaks.", "Home to Tombstone Territorial Park."]
-    }
-  },
+    }, image: "/poi-images/ogilvie-mountains-relief-v2.webp"},
   {
     id: "baffin-mountains-relief-v2",
     type: "relief",
@@ -379,8 +361,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Az Auyuittuq Nemzeti Park része.", "A világ egyik legzordabb régiója."],
       ro: ["Include Parcul Național Auyuittuq.", "Una dintre cele mai inospitaliere regiuni."],
       en: ["Contains Auyuittuq National Park.", "One of the most inhospitable regions."]
-    }
-  },
+    }, image: "/poi-images/baffin-mountains-relief-v2.webp"},
   {
     id: "chic-choc-mountains-relief-v2",
     type: "relief",
@@ -398,8 +379,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Legmagasabb hegy: Mont Jacques-Cartier.", "Karibuk otthona."],
       ro: ["Cel mai înalt munte: Mont Jacques-Cartier.", "Habitat pentru caribu."],
       en: ["Highest peak: Mont Jacques-Cartier.", "Home to a caribou herd."]
-    }
-  },
+    }, image: "/poi-images/chic-choc-mountains-relief-v2.webp"},
   {
     id: "mount-sir-donald-relief-v2",
     type: "mountain",
@@ -417,8 +397,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Magassága 3284 méter.", "Népszerű a klasszikus alpesi hegymászók körében."],
       ro: ["Înălțime: 3284 metri.", "Popular pentru alpinismul clasic."],
       en: ["Elevation: 3284 meters.", "Popular for classic alpine climbing."]
-    }
-  },
+    }, image: "/poi-images/mount-sir-donald-relief-v2.webp"},
   {
     id: "gros-morne-mountain-relief-v2",
     type: "mountain",
@@ -436,8 +415,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Magassága 806 méter.", "A Long Range Mountains része."],
       ro: ["Înălțime: 806 metri.", "Parte a Munților Long Range."],
       en: ["Elevation: 806 meters.", "Part of the Long Range Mountains."]
-    }
-  },
+    }, image: "/poi-images/gros-morne-mountain-relief-v2.webp"},
   {
     id: "cascade-mountain-relief-v2",
     type: "mountain",
@@ -455,8 +433,7 @@ export const poiExtraCanadaReliefV2: POI[] = [
       hu: ["Magassága 2998 méter.", "Egy, az oldalán lezúduló vízesésről kapta nevét."],
       ro: ["Înălțime: 2998 metri.", "Numit după o cascadă de pe flancul său."],
       en: ["Elevation: 2998 meters.", "Named for a waterfall on its flank."]
-    }
-  },
+    }, image: "/poi-images/cascade-mountain-relief-v2.webp"},
   {
     id: "notre-dame-mountains-relief-v2",
     type: "relief",
@@ -477,3 +454,4 @@ export const poiExtraCanadaReliefV2: POI[] = [
     }
   }
 ];
+

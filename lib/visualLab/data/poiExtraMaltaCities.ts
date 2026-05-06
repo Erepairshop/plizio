@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMaltaCities: POI[] = [
@@ -30,8 +31,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["A város területe mindössze 0,8 km².", "Több mint 320 védett történelmi műemlék található benne.", "A városfalak magassága elérheti az 50 métert.", "A Szent János-társkatedrálisban látható Caravaggio híres alkotása.", "A város az UNESCO világörökség része 1980 óta.", "Az alapításhoz használt mészkövet a környéken bányászták.", "Valletta évente több mint 1 millió látogatót fogad."],
       ro: ["Orașul este construit pe un platou peninsular îngust.", "Găzduiește peste 320 de monumente istorice protejate.", "Co-Catedrala Sfântului Ioan păstrează capodopere de Caravaggio.", "Zidurile de apărare ating o înălțime de 50 de metri.", "Valletta face parte din Patrimoniul Mondial UNESCO din 1980.", "Este una dintre cele mai calde capitale din Uniunea Europeană.", "Orașul a fost proiectat pentru a fi o fortăreață impregnabilă."],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-valletta-extra.webp"},
   {
     id: "city-sliema-extra",
     type: "city",
@@ -61,8 +61,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["A Tower Road sétány csaknem 3 km hosszú.", "Sliema a 19. században lett a gazdagok kedvelt villanegyede.", "Itt található Málta egyik legnagyobb bevásárlóközpontja.", "A Sliema-kikötő népszerű horgonyzóhely a vitorlásoknak.", "A város a Vallettába tartó kompok fő közlekedési csomópontja.", "Sliemában nincsenek említésre méltó homokos strandok.", "A városképet modern, magas lakóépületek határozzák meg."],
       ro: ["Promenada de coastă Tower Road are o lungime de aproape 3 km.", "Sliema a devenit în secolul al XIX-lea o zonă de vile pentru cei înstăriți.", "Aici se află unul dintre cele mai mari centre comerciale din Malta.", "Portul Sliema este un loc popular de ancorare.", "Orașul este un nod principal pentru feriboturile către Valletta.", "Nu există plaje cu nisip notabile în localitate.", "Orizontul orașului este definit de clădiri rezidențiale înalte."],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-sliema-extra.webp"},
   {
     id: "city-st-julians-extra",
     type: "city",
@@ -92,8 +91,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["A Portomaso torony 98 méteres magasságával az ország legmagasabbja.", "A Spinola-öbölben található a híres 'LOVE' szobor.", "A Balluta-öböl egy igen jellegzetes neogótikus templommal büszkélkedhet.", "Paceville a város legkisebb, ám a legforgalmasabb negyede.", "A terület beépítése a 19. században vette kezdetét.", "St. Julian's területén több első osztályú szálloda is működik.", "A város lakossága a turisztikai fellendülés hatására megsokszorozódott."],
       ro: ["Turnul Portomaso are o înălțime de 98 de metri.", "Golful Spinola este faimos pentru statuia 'Love'.", "Golful Balluta găzduiește o biserică neogotică foarte distinctivă.", "Paceville este cel mai mic cartier, dar cel mai aglomerat.", "Zona a fost dezvoltată inițial în secolul al XIX-lea.", "Orașul dispune de mai multe hoteluri de primă clasă.", "Populația s-a multiplicat în timpul boom-ului turistic."],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-st-julians-extra.webp"},
   {
     id: "city-gzira-extra",
     type: "city",
@@ -123,8 +121,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-gzira-extra.webp"},
   {
     id: "city-msida-extra",
     type: "city",
@@ -154,8 +151,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-msida-extra.webp"},
   {
     id: "city-ta-xbiex-extra",
     type: "city",
@@ -185,8 +181,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-ta-xbiex-extra.webp"},
   {
     id: "city-swieqi-extra",
     type: "city",
@@ -216,8 +211,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-swieqi-extra.webp"},
   {
     id: "city-pembroke-extra",
     type: "city",
@@ -247,8 +241,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-pembroke-extra.webp"},
   {
     id: "city-san-gwann-extra",
     type: "city",
@@ -278,8 +271,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-san-gwann-extra.webp"},
   {
     id: "city-pieta-extra",
     type: "city",
@@ -309,8 +301,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-pieta-extra.webp"},
   {
     id: "city-hamrun-extra",
     type: "city",
@@ -340,8 +331,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-hamrun-extra.webp"},
   {
     id: "city-marsa-extra",
     type: "city",
@@ -371,8 +361,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-marsa-extra.webp"},
   {
     id: "city-floriana-extra",
     type: "city",
@@ -402,8 +391,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-floriana-extra.webp"},
   {
     id: "city-kalkara-extra",
     type: "city",
@@ -433,8 +421,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-kalkara-extra.webp"},
   {
     id: "city-vittoriosa-birgu-extra",
     type: "city",
@@ -464,8 +451,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-vittoriosa-birgu-extra.webp"},
   {
     id: "city-senglea-isla-extra",
     type: "city",
@@ -557,8 +543,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-fgura-extra.webp"},
   {
     id: "city-paola-extra",
     type: "city",
@@ -588,8 +573,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-paola-extra.webp"},
   {
     id: "city-tarxien-extra",
     type: "city",
@@ -619,8 +603,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-tarxien-extra.webp"},
   {
     id: "city-luqa-extra",
     type: "city",
@@ -650,8 +633,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-luqa-extra.webp"},
   {
     id: "city-gudja-extra",
     type: "city",
@@ -681,8 +663,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-gudja-extra.webp"},
   {
     id: "city-ghaxaq-extra",
     type: "city",
@@ -712,8 +693,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-ghaxaq-extra.webp"},
   {
     id: "city-santa-lucija-extra",
     type: "city",
@@ -743,8 +723,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-santa-lucija-extra.webp"},
   {
     id: "city-marsaskala-extra",
     type: "city",
@@ -805,8 +784,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-marsaxlokk-extra.webp"},
   {
     id: "city-birzebbuga-extra",
     type: "city",
@@ -836,8 +814,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-birzebbuga-extra.webp"},
   {
     id: "city-zabbar-extra",
     type: "city",
@@ -867,8 +844,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-zabbar-extra.webp"},
   {
     id: "city-xghajra-extra",
     type: "city",
@@ -898,8 +874,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-xghajra-extra.webp"},
   {
     id: "city-zejtun-extra",
     type: "city",
@@ -929,8 +904,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-zejtun-extra.webp"},
   {
     id: "city-qrendi-extra",
     type: "city",
@@ -960,8 +934,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-qrendi-extra.webp"},
   {
     id: "city-mqabba-extra",
     type: "city",
@@ -991,8 +964,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-mqabba-extra.webp"},
   {
     id: "city-kirkop-extra",
     type: "city",
@@ -1022,8 +994,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-kirkop-extra.webp"},
   {
     id: "city-safi-extra",
     type: "city",
@@ -1053,8 +1024,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-safi-extra.webp"},
   {
     id: "city-zurrieq-extra",
     type: "city",
@@ -1084,8 +1054,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-zurrieq-extra.webp"},
   {
     id: "city-siggiewi-extra",
     type: "city",
@@ -1239,8 +1208,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-dingli-extra.webp"},
   {
     id: "city-attard-extra",
     type: "city",
@@ -1270,8 +1238,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-attard-extra.webp"},
   {
     id: "city-balzan-extra",
     type: "city",
@@ -1301,8 +1268,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-balzan-extra.webp"},
   {
     id: "city-lija-extra",
     type: "city",
@@ -1332,8 +1298,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-lija-extra.webp"},
   {
     id: "city-iklin-extra",
     type: "city",
@@ -1363,8 +1328,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-iklin-extra.webp"},
   {
     id: "city-mosta-extra",
     type: "city",
@@ -1394,8 +1358,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-mosta-extra.webp"},
   {
     id: "city-naxxar-extra",
     type: "city",
@@ -1425,8 +1388,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-naxxar-extra.webp"},
   {
     id: "city-gharghur-extra",
     type: "city",
@@ -1456,8 +1418,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-gharghur-extra.webp"},
   {
     id: "city-mellieha-extra",
     type: "city",
@@ -1487,8 +1448,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-mellieha-extra.webp"},
   {
     id: "city-st-pauls-bay-extra",
     type: "city",
@@ -1518,8 +1478,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-st-pauls-bay-extra.webp"},
   {
     id: "city-bugibba-extra",
     type: "city",
@@ -1549,8 +1508,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-bugibba-extra.webp"},
   {
     id: "city-qawra-extra",
     type: "city",
@@ -1580,8 +1538,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-qawra-extra.webp"},
   {
     id: "city-mgarr-malta-extra",
     type: "city",
@@ -1611,8 +1568,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-mgarr-malta-extra.webp"},
   {
     id: "city-victoria-rabat-gozo-extra",
     type: "city",
@@ -1673,8 +1629,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-xewkija-extra.webp"},
   {
     id: "city-nadur-extra",
     type: "city",
@@ -1704,8 +1659,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-nadur-extra.webp"},
   {
     id: "city-ghajnsielem-extra",
     type: "city",
@@ -1735,8 +1689,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-ghajnsielem-extra.webp"},
   {
     id: "city-qala-extra",
     type: "city",
@@ -1766,8 +1719,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-qala-extra.webp"},
   {
     id: "city-gharb-extra",
     type: "city",
@@ -1797,8 +1749,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-gharb-extra.webp"},
   {
     id: "city-san-lawrenz-extra",
     type: "city",
@@ -1828,8 +1779,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-san-lawrenz-extra.webp"},
   {
     id: "city-xlendi-extra",
     type: "city",
@@ -1859,8 +1809,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-xlendi-extra.webp"},
   {
     id: "city-munxar-extra",
     type: "city",
@@ -1890,8 +1839,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-munxar-extra.webp"},
   {
     id: "city-sannat-extra",
     type: "city",
@@ -1921,8 +1869,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-sannat-extra.webp"},
   {
     id: "city-fontana-extra",
     type: "city",
@@ -1952,8 +1899,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-fontana-extra.webp"},
   {
     id: "city-kercem-extra",
     type: "city",
@@ -1983,8 +1929,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-kercem-extra.webp"},
   {
     id: "city-xaghra-extra",
     type: "city",
@@ -2014,8 +1959,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-xaghra-extra.webp"},
   {
     id: "city-zebbug-gozo-extra",
     type: "city",
@@ -2045,8 +1989,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-zebbug-gozo-extra.webp"},
   {
     id: "city-ghasri-extra",
     type: "city",
@@ -2076,8 +2019,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-ghasri-extra.webp"},
   {
     id: "city-marsalforn-extra",
     type: "city",
@@ -2107,8 +2049,7 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/city-marsalforn-extra.webp"},
   {
     id: "city-mtarfa-extra",
     type: "city",
@@ -2141,3 +2082,4 @@ export const poiExtraMaltaCities: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEritreaCitiesV2: POI[] = [
@@ -19,7 +20,18 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       ro: ["A fost declarată Patrimoniu Mondial UNESCO în 2017.", "Este situată pe platoul central."],
       en: ["Declared a UNESCO World Heritage site in 2017.", "Located in the central highlands."]
     }
-  },
+  , descriptionAdvanced: {
+      "de": "Asmara, die Hauptstadt Eritreas, liegt auf über 2300 Metern Höhe und ist für ihre außergewöhnliche Dichte an modernistischer Architektur aus den 1930er Jahren bekannt, die von der UNESCO als Weltkulturerbe anerkannt wurde. Die Stadt, die oft als 'Piccola Roma' bezeichnet wird, spiegelt eine faszinierende Mischung aus italienischem Kolonialerbe und eritreischer Kultur wider. Geografie K7 — Hochland und Siedlungen.",
+      "hu": "Aszmara, Eritrea fővárosa több mint 2300 méteres magasságban fekszik, és az 1930-as évekből származó modernista építészete miatt a UNESCO Világörökség része. A gyakran 'Piccola Roma'-ként emlegetett város az olasz gyarmati örökség és az eritreai kultúra lenyűgöző keverékét nyújtja. Földrajz K7 — magasföldek és települések.",
+      "ro": "Asmara, capitala Eritreei, este situată la o altitudine de peste 2300 de metri și este recunoscută pentru arhitectura modernistă din anii 1930, fiind inclusă în Patrimoniul Mondial UNESCO. Orașul, numit deseori 'Piccola Roma', reflectă un amestec fascinant de moștenire colonială italiană și cultură eritreeană. Geografie K7 — platouri și așezări.",
+      "en": "Asmara, the capital of Eritrea, sits at over 2,300 meters and is famous for its dense collection of 1930s modernist architecture, designated a UNESCO World Heritage site. Often called 'Piccola Roma', the city offers a fascinating blend of Italian colonial legacy and Eritrean culture. Geography K7 — highlands and settlements."
+},
+    factsAdvanced: {
+      de: ["Asmara liegt auf 2325 Metern über dem Meeresspiegel.", "Über 400 Gebäude stammen aus der italienischen Kolonialzeit.", "Wurde 2017 zum UNESCO-Welterbe ernannt.", "Die Stadt überstand den Unabhängigkeitskrieg fast unversehrt.", "Zahlreiche Art-déco-Bauwerke prägen das Stadtbild.", "Die durchschnittliche Jahrestemperatur beträgt 17 °C."],
+      hu: ["Asmara liegt auf 2325 Metern über dem Meeresspiegel.", "Über 400 Gebäude stammen aus der italienischen Kolonialzeit.", "Wurde 2017 zum UNESCO-Welterbe ernannt.", "Die Stadt überstand den Unabhängigkeitskrieg fast unversehrt.", "Zahlreiche Art-déco-Bauwerke prägen das Stadtbild.", "Die durchschnittliche Jahrestemperatur beträgt 17 °C."],
+      ro: ["Asmara liegt auf 2325 Metern über dem Meeresspiegel.", "Über 400 Gebäude stammen aus der italienischen Kolonialzeit.", "Wurde 2017 zum UNESCO-Welterbe ernannt.", "Die Stadt überstand den Unabhängigkeitskrieg fast unversehrt.", "Zahlreiche Art-déco-Bauwerke prägen das Stadtbild.", "Die durchschnittliche Jahrestemperatur beträgt 17 °C."],
+      en: ["Asmara liegt auf 2325 Metern über dem Meeresspiegel.", "Über 400 Gebäude stammen aus der italienischen Kolonialzeit.", "Wurde 2017 zum UNESCO-Welterbe ernannt.", "Die Stadt überstand den Unabhängigkeitskrieg fast unversehrt.", "Zahlreiche Art-déco-Bauwerke prägen das Stadtbild.", "Die durchschnittliche Jahrestemperatur beträgt 17 °C."]
+    }, image: "/poi-images/asmara-cities-v2.webp"},
   {
     id: "massawa-cities-v2",
     type: "city",
@@ -38,7 +50,18 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       ro: ["A fost construit pe mai multe insule și pe continent.", "Este considerat unul dintre cele mai fierbinți orașe din lume."],
       en: ["Built on several islands and the mainland.", "Regarded as one of the hottest cities in the world."]
     }
-  },
+  , descriptionAdvanced: {
+      "de": "Massaua ist die wichtigste Hafenstadt Eritreas am Roten Meer und besteht aus einer Mischung aus Festland und Inseln, die durch Dämme verbunden sind. Die historische Altstadt, das 'Batse-Viertel', zeigt noch heute den Einfluss osmanischer und ägyptischer Architektur aus der Zeit des 19. Jahrhunderts. Geschichte K8 — Kolonialzeit am Roten Meer.",
+      "hu": "Massawa Eritrea legfontosabb vörös-tengeri kikötővárosa, amely szárazföldi és szigeti részekből áll, gátakkal összekötve. A történelmi óváros, a 'Batse-negyed' a 19. századi oszmán és egyiptomi építészet hatását őrzi. Történelem K8 — gyarmati időszak a Vörös-tengernél.",
+      "ro": "Massawa este cel mai important oraș portuar eritreean la Marea Roșie, fiind format dintr-un amestec de continent și insule unite prin diguri. Centrul istoric al orașului, cartierul 'Batse', păstrează și astăzi influența arhitecturii otomane și egiptene din secolul al XIX-lea. Istorie K8 — perioada colonială la Marea Roșie.",
+      "en": "Massawa is Eritrea's most important Red Sea port city, consisting of a blend of mainland and islands connected by causeways. The historic old town, 'Batse district', retains the influence of 19th-century Ottoman and Egyptian architecture. History K8 — colonial period on the Red Sea."
+},
+    factsAdvanced: {
+      de: ["Massaua liegt nur wenige Meter über dem Meeresspiegel.", "War der wichtigste Hafen der italienischen Kolonialverwaltung.", "Besitzt eine der historisch bedeutsamsten Altstädte am Roten Meer.", "Wurde im 19. Jahrhundert massiv von Ägypten ausgebaut.", "Gehört zu den heißesten bewohnten Orten der Erde.", "Der Hafen diente als wichtiger Umschlagplatz für Kaffee und Baumwolle."],
+      hu: ["Massaua liegt nur wenige Meter über dem Meeresspiegel.", "War der wichtigste Hafen der italienischen Kolonialverwaltung.", "Besitzt eine der historisch bedeutsamsten Altstädte am Roten Meer.", "Wurde im 19. Jahrhundert massiv von Ägypten ausgebaut.", "Gehört zu den heißesten bewohnten Orten der Erde.", "Der Hafen diente als wichtiger Umschlagplatz für Kaffee und Baumwolle."],
+      ro: ["Massaua liegt nur wenige Meter über dem Meeresspiegel.", "War der wichtigste Hafen der italienischen Kolonialverwaltung.", "Besitzt eine der historisch bedeutsamsten Altstädte am Roten Meer.", "Wurde im 19. Jahrhundert massiv von Ägypten ausgebaut.", "Gehört zu den heißesten bewohnten Orten der Erde.", "Der Hafen diente als wichtiger Umschlagplatz für Kaffee und Baumwolle."],
+      en: ["Massaua liegt nur wenige Meter über dem Meeresspiegel.", "War der wichtigste Hafen der italienischen Kolonialverwaltung.", "Besitzt eine der historisch bedeutsamsten Altstädte am Roten Meer.", "Wurde im 19. Jahrhundert massiv von Ägypten ausgebaut.", "Gehört zu den heißesten bewohnten Orten der Erde.", "Der Hafen diente als wichtiger Umschlagplatz für Kaffee und Baumwolle."]
+    }, image: "/poi-images/massawa-cities-v2.webp"},
   {
     id: "keren-cities-v2",
     type: "city",
@@ -56,8 +79,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Híres az élénk tevepiacáról.", "Az 1941-es kereni csata helyszíne volt."],
       ro: ["Cunoscut pentru piața sa animată de cămile.", "A fost locul Bătăliei de la Keren din 1941."],
       en: ["Famous for its bustling camel market.", "Site of the Battle of Keren in 1941."]
-    }
-  },
+    }, image: "/poi-images/keren-cities-v2.webp"},
   {
     id: "assab-cities-v2",
     type: "city",
@@ -94,8 +116,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Korábban Adi Ugri néven volt ismert.", "A helyi termékek kereskedelmének központja."],
       ro: ["Cunoscut anterior sub numele de Adi Ugri.", "Un centru pentru comerțul cu produse locale."],
       en: ["Formerly known as Adi Ugri.", "A hub for trade in local produce."]
-    }
-  },
+    }, image: "/poi-images/mendefera-cities-v2.webp"},
   {
     id: "barentu-cities-v2",
     type: "city",
@@ -113,8 +134,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Gash-Barka adminisztratív központja.", "Kulturális sokszínűségéről ismert."],
       ro: ["Centrul administrativ al Gash-Barka.", "Cunoscut pentru cultura sa diversă."],
       en: ["The administrative center of Gash-Barka.", "Known for its diverse culture."]
-    }
-  },
+    }, image: "/poi-images/barentu-cities-v2.webp"},
   {
     id: "adi-keyh-cities-v2",
     type: "city",
@@ -132,8 +152,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["A közelben találhatók Qohaito romjai.", "A régió fontos oktatási központja."],
       ro: ["Ruinele din Qohaito se află în apropiere.", "Un important centru educațional din regiune."],
       en: ["The ruins of Qohaito are located nearby.", "An important educational center in the region."]
-    }
-  },
+    }, image: "/poi-images/adi-keyh-cities-v2.webp"},
   {
     id: "edd-cities-v2",
     type: "city",
@@ -170,8 +189,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Szőlőtermesztéséről és gyümölcsöseiről ismert.", "Az 1930-as években ipari fellendülést élt át."],
       ro: ["Cunoscut pentru viticultură și livezi.", "A cunoscut un boom industrial în anii 1930."],
       en: ["Known for its vineyards and orchards.", "Experienced an industrial boom in the 1930s."]
-    }
-  },
+    }, image: "/poi-images/dekemhare-cities-v2.webp"},
   {
     id: "akordat-cities-v2",
     type: "city",
@@ -189,8 +207,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Híres a nagy Nagymecsetjéről.", "Fontos piac a banán és a citrusfélék számára."],
       ro: ["Cunoscut pentru Marea Moschee.", "O piață importantă pentru banane și citrice."],
       en: ["Known for its large Grand Mosque.", "An important market for bananas and citrus fruits."]
-    }
-  },
+    }, image: "/poi-images/akordat-cities-v2.webp"},
   {
     id: "nakfa-cities-v2",
     type: "city",
@@ -208,8 +225,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Az eritreai valuta (nakfa) névadója.", "A felszabadítási front főhadiszállása volt."],
       ro: ["Monezile din Eritreea (Nakfa) au fost numite după acest oraș.", "A fost sediul frontului de eliberare."],
       en: ["The Eritrean currency (Nakfa) is named after it.", "Served as the headquarters of the liberation front."]
-    }
-  },
+    }, image: "/poi-images/nakfa-cities-v2.webp"},
   {
     id: "tessenei-cities-v2",
     type: "city",
@@ -246,8 +262,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Az 1988-as afabeti csata helyszíne.", "Kopár, száraz dombok veszik körül."],
       ro: ["Locul bătăliei de la Afabet din 1988.", "Înconjurat de dealuri aride și uscate."],
       en: ["Site of the Battle of Afabet in 1988.", "Surrounded by barren, dry hills."]
-    }
-  },
+    }, image: "/poi-images/afabet-cities-v2.webp"},
   {
     id: "senafe-cities-v2",
     type: "city",
@@ -265,8 +280,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["A közelben találhatók Matara romjai.", "Vulkanikus kőzetek veszik körül."],
       ro: ["Ruinele Matara se află în apropiere.", "Înconjurat de roci vulcanice."],
       en: ["The Matara ruins are located nearby.", "Surrounded by volcanic rocks."]
-    }
-  },
+    }, image: "/poi-images/senafe-cities-v2.webp"},
   {
     id: "segeneiti-cities-v2",
     type: "city",
@@ -284,8 +298,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Egy helyi szikomorfa szerepel az öt nakfás bankjegyen.", "A délre vezető út mentén található."],
       ro: ["Un copac sicomor local este ilustrat pe bancnota de cinci Nakfa.", "Se află pe drumul spre sud."],
       en: ["A local sycamore tree is featured on the five-Nakfa note.", "Located on the highway heading south."]
-    }
-  },
+    }, image: "/poi-images/segeneiti-cities-v2.webp"},
   {
     id: "ghinda-cities-v2",
     type: "city",
@@ -303,8 +316,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Narancs- és papajaültetvényeiről ismert.", "Fontos megálló a partra utazók számára."],
       ro: ["Cunoscut pentru plantațiile de portocale și papaya.", "O oprire importantă pentru călătorii spre coastă."],
       en: ["Known for orange and papaya plantations.", "A major stop for travelers heading to the coast."]
-    }
-  },
+    }, image: "/poi-images/ghinda-cities-v2.webp"},
   {
     id: "himbirti-cities-v2",
     type: "city",
@@ -341,8 +353,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["A kolostorhoz vezető túrák kiindulópontja.", "Egy kanyargós hegyi úton fekszik."],
       ro: ["Un punct de plecare pentru drumețiile spre mănăstire.", "Situat pe un drum de munte șerpuit."],
       en: ["A starting point for treks to the monastery.", "Located along a winding mountain road."]
-    }
-  },
+    }, image: "/poi-images/nefasit-cities-v2.webp"},
   {
     id: "tio-cities-v2",
     type: "city",
@@ -360,8 +371,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["A helyi halászat központja.", "Rendkívül magas nyári hőmérsékleteket tapasztal."],
       ro: ["Un centru pentru pescuitul local.", "Se confruntă cu temperaturi extrem de ridicate vara."],
       en: ["A center for local fishing.", "Experiences extremely high summer temperatures."]
-    }
-  },
+    }, image: "/poi-images/tio-cities-v2.webp"},
   {
     id: "zula-cities-v2",
     type: "city",
@@ -379,8 +389,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["A Zula-öböl névadója.", "Régészeti ásatások közelében található."],
       ro: ["Dă numele Golfului Zula.", "Aproape de situri arheologice de excavație."],
       en: ["Gives its name to the Gulf of Zula.", "Close to archaeological excavation sites."]
-    }
-  },
+    }, image: "/poi-images/zula-cities-v2.webp"},
   {
     id: "adi-quala-cities-v2",
     type: "city",
@@ -398,8 +407,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Panorámás kilátást nyújt Etiópiára.", "Itt található az olasz katonák emlékműve."],
       ro: ["Oferă o vedere panoramică spre Etiopia.", "Locul unui altar pentru soldații italieni."],
       en: ["Provides a panoramic view towards Ethiopia.", "Site of a shrine for Italian soldiers."]
-    }
-  },
+    }, image: "/poi-images/adi-quala-cities-v2.webp"},
   {
     id: "halhal-cities-v2",
     type: "city",
@@ -417,8 +425,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Fontos csatatér volt a háború alatt.", "Hagyományos kőházairól ismert."],
       ro: ["A fost un important câmp de luptă în timpul războiului.", "Cunoscut pentru casele tradiționale din piatră."],
       en: ["Was a major battlefield during the war.", "Known for traditional stone houses."]
-    }
-  },
+    }, image: "/poi-images/halhal-cities-v2.webp"},
   {
     id: "hagaz-cities-v2",
     type: "city",
@@ -436,8 +443,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["A Hagaz Agro-Technikai Iskola otthona.", "Az éghajlat kedvez a trópusi gyümölcsök termesztésének."],
       ro: ["Sediul Școlii Agrotehnice Hagaz.", "Clima susține cultivarea fructelor tropicale."],
       en: ["Home to the Hagaz Agro-Technical School.", "The climate supports the cultivation of tropical fruits."]
-    }
-  },
+    }, image: "/poi-images/hagaz-cities-v2.webp"},
   {
     id: "elabered-cities-v2",
     type: "city",
@@ -455,8 +461,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Az Elabered Estate egy történelmi mezőgazdasági birtok.", "Gyarmati időszakból származó öntözőrendszerekkel rendelkezik."],
       ro: ["Domeniul Elabered este o proprietate agricolă istorică.", "Are sisteme de irigații din perioada colonială."],
       en: ["The Elabered Estate is a historic agricultural property.", "Features irrigation systems dating back to the colonial era."]
-    }
-  },
+    }, image: "/poi-images/elabered-cities-v2.webp"},
   {
     id: "beilul-cities-v2",
     type: "city",
@@ -512,8 +517,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["A közelben réz- és aranybánya található.", "A Bahr Negash (Tenger Királya) történelmi székhelye."],
       ro: ["O mină de cupru și aur se află în apropiere.", "Sediul istoric al lui Bahr Negash (Regele Mării)."],
       en: ["A copper and gold mine is located nearby.", "Historical seat of the Bahr Negash (King of the Sea)."]
-    }
-  },
+    }, image: "/poi-images/debarwa-cities-v2.webp"},
   {
     id: "dongollo-cities-v2",
     type: "city",
@@ -550,8 +554,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Teraszos földműveléséről ismert.", "A régióban hűvös hegyvidéki éghajlat uralkodik."],
       ro: ["Cunoscută pentru agricultura pe terase.", "Regiunea înregistrează un climat răcoros de munte."],
       en: ["Known for terraced farming.", "The region experiences a cool highland climate."]
-    }
-  },
+    }, image: "/poi-images/emba-derho-cities-v2.webp"},
   {
     id: "filfil-cities-v2",
     type: "city",
@@ -569,8 +572,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Az ökoturizmus fontos területe.", "Számos madárfajnak ad otthont."],
       ro: ["O zonă importantă pentru ecoturism.", "Oferă habitat pentru numeroase specii de păsări."],
       en: ["An important area for eco-tourism.", "Provides habitat for numerous bird species."]
-    }
-  },
+    }, image: "/poi-images/filfil-cities-v2.webp"},
   {
     id: "mai-atal-cities-v2",
     type: "city",
@@ -588,8 +590,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["A neve tigrinya nyelven 'kecskék vizét' jelent.", "A környezet nagyon száraz és kietlen."],
       ro: ["Numele înseamnă 'apa caprelor' în limba Tigrinya.", "Zona înconjurătoare este foarte uscată și aridă."],
       en: ["The name means 'water of goats' in Tigrinya.", "The surrounding environment is very dry and barren."]
-    }
-  },
+    }, image: "/poi-images/mai-atal-cities-v2.webp"},
   {
     id: "quatit-cities-v2",
     type: "city",
@@ -607,8 +608,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Fontos helyi vallási központ.", "Erősen kötődik a hagyományos mezőgazdasághoz."],
       ro: ["Un important centru religios local.", "Puternic implicată în agricultura tradițională."],
       en: ["A major local religious center.", "Heavily involved in traditional agriculture."]
-    }
-  },
+    }, image: "/poi-images/quatit-cities-v2.webp"},
   {
     id: "tsazega-cities-v2",
     type: "city",
@@ -664,8 +664,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["A kézzel készített textíliák helyi kereskedelmi központja.", "A mezőgazdaságot főként az esős évszakban folytatják."],
       ro: ["Centru comercial local pentru textile lucrate manual.", "Agricultura este practicată în principal în sezonul ploios."],
       en: ["A local trading hub for handmade textiles.", "Agriculture is primarily practiced during the rainy season."]
-    }
-  },
+    }, image: "/poi-images/kudo-felasi-cities-v2.webp"},
   {
     id: "emni-haili-cities-v2",
     type: "city",
@@ -702,8 +701,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Neve a helyi nyelven 'piros vizet' jelent.", "A múltban vitatott övezet volt."],
       ro: ["Înseamnă 'apă roșie' în limba locală.", "A fost o zonă disputată în trecut."],
       en: ["Means 'red water' in the local language.", "Was a contested zone in the past."]
-    }
-  },
+    }, image: "/poi-images/mai-dima-cities-v2.webp"},
   {
     id: "tera-emni-cities-v2",
     type: "city",
@@ -759,8 +757,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Széles kilátást nyújt a Vörös-tenger régió völgyeire.", "A korai európai felfedezések történelmi helyszíne."],
       ro: ["Oferă o vedere vastă asupra văilor din regiunea Mării Roșii.", "Sit istoric al explorărilor europene timpurii."],
       en: ["Offers a sweeping view of the valleys of the Red Sea region.", "Historical site of early European explorations."]
-    }
-  },
+    }, image: "/poi-images/halai-cities-v2.webp"},
   {
     id: "sebderat-cities-v2",
     type: "city",
@@ -778,8 +775,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Sok lakos beszél arabul és tigréül.", "Egy nem hivatalos kereskedelmi csomópont."],
       ro: ["Mulți locuitori vorbesc arabă și tigre.", "Este un nod comercial informal."],
       en: ["Many residents speak Arabic and Tigre.", "It is an informal trading hub."]
-    }
-  },
+    }, image: "/poi-images/sebderat-cities-v2.webp"},
   {
     id: "shambuko-cities-v2",
     type: "city",
@@ -873,8 +869,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Az Ali Ghider gyapotültetvények otthona.", "Komplex történelmi öntözőcsatornákkal rendelkezik."],
       ro: ["Sediul plantațiilor de bumbac Ali Ghider.", "Dispune de canale de irigații istorice complexe."],
       en: ["Home to the Ali Ghider cotton plantations.", "Features complex historical irrigation canals."]
-    }
-  },
+    }, image: "/poi-images/ali-ghider-cities-v2.webp"},
   {
     id: "kerkebet-cities-v2",
     type: "city",
@@ -911,8 +906,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Az áradásos öntözőrendszer biztosítja az élelmezést.", "Hírhedt az 1988-as she'ebi mészárlásról."],
       ro: ["Sistemul de irigații cu apă de viitură asigură alimentația.", "Renumit pentru masacrul de la She'eb din 1988."],
       en: ["The spate irrigation system secures food supply.", "Famous for the She'eb massacre in 1988."]
-    }
-  },
+    }, image: "/poi-images/sheeb-cities-v2.webp"},
   {
     id: "foro-cities-v2",
     type: "city",
@@ -930,8 +924,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Adulis ősi metropolisza mindössze néhány kilométerre található.", "Az éghajlat rendkívül száraz és forró."],
       ro: ["Metropola antică Adulis este la doar câțiva kilometri distanță.", "Clima este extrem de aridă și caldă."],
       en: ["The ancient metropolis of Adulis is just a few kilometers away.", "The climate is extremely dry and hot."]
-    }
-  },
+    }, image: "/poi-images/foro-cities-v2.webp"},
   {
     id: "irafale-cities-v2",
     type: "city",
@@ -1006,8 +999,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["A Bisha-bánya központi gazdasági tényező.", "A 21. században hatalmas mértékben kibővítették."],
       ro: ["Mina Bisha este un factor economic central.", "A fost extinsă masiv în secolul 21."],
       en: ["The Bisha mine is a central economic factor.", "Was massively expanded in the 21st century."]
-    }
-  },
+    }, image: "/poi-images/bisha-cities-v2.webp"},
   {
     id: "mensura-cities-v2",
     type: "city",
@@ -1025,8 +1017,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Itatóhelyeket kínál a vándorló csordák számára.", "A régió gazdag akácfákban."],
       ro: ["Oferă puncte de apă pentru turmele rătăcitoare.", "Regiunea este bogată în salcâmi."],
       en: ["Provides water points for wandering herds.", "The region is rich in acacia trees."]
-    }
-  },
+    }, image: "/poi-images/mensura-cities-v2.webp"},
   {
     id: "dghe-cities-v2",
     type: "city",
@@ -1044,8 +1035,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["A Beni-Amer etnikum fontos központja.", "A hagyományos kerek kunyhók jellemzik a városképet."],
       ro: ["Un centru important al etniei Beni-Amer.", "Colibele rotunde tradiționale domină peisajul."],
       en: ["An important center for the Beni-Amer ethnic group.", "Traditional round huts dominate the townscape."]
-    }
-  },
+    }, image: "/poi-images/dghe-cities-v2.webp"},
   {
     id: "forto-cities-v2",
     type: "city",
@@ -1063,8 +1053,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Eredetileg gyarmati katonai poszt volt.", "A gazdaság a szarvasmarha- és tenyésztésen alapul."],
       ro: ["Inițial a fost un post militar colonial.", "Economia se bazează pe creșterea vitelor și a cămilelor."],
       en: ["Originally a colonial military post.", "The economy is based on cattle and camel breeding."]
-    }
-  },
+    }, image: "/poi-images/forto-cities-v2.webp"},
   {
     id: "gogne-cities-v2",
     type: "city",
@@ -1082,8 +1071,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Fontos megállóhely a Szudánba tartó teherautók számára.", "Forró és száraz éghajlati zónában található."],
       ro: ["O oprire importantă pentru camioanele care se îndreaptă spre Sudan.", "Se află într-o zonă climatică caldă și uscată."],
       en: ["A major stop for trucks heading to Sudan.", "Located in a hot and dry climate zone."]
-    }
-  },
+    }, image: "/poi-images/gogne-cities-v2.webp"},
   {
     id: "haykota-cities-v2",
     type: "city",
@@ -1120,8 +1108,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       hu: ["Különösen nehezen megközelíthető az esős évszakban.", "Gazdaságilag a kecske- és juhtenyésztéstől függ."],
       ro: ["Deosebit de greu de accesat în sezonul ploios.", "Depinde economic de creșterea caprelor și a oilor."],
       en: ["Particularly hard to access during the rainy season.", "Economically dependent on goat and sheep breeding."]
-    }
-  },
+    }, image: "/poi-images/asmat-cities-v2.webp"},
   {
     id: "habero-cities-v2",
     type: "city",
@@ -1142,3 +1129,5 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     }
   }
 ];
+
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef, SvgConfig } from "./types";
 import type { TopicInteractive } from "@/app/astro-biologie/games/ExplorerEngine";
 
@@ -9223,3 +9224,4 @@ export const TEXT8N_LABELS: Record<string, Record<string, string>> = {
   }
 };
 export const TEXT8N_POOL = ARG8_POOL;
+

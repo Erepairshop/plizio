@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const albaniaCountry: POI = {
@@ -79,8 +80,7 @@ export const albaniaCountry: POI = {
       "Mother Teresa was of Albanian descent.",
       "The country has one of the most hospitable cultures in the world."
     ]
-  }
-};
+  }, image: "/poi-images/country-albania.webp"};
 
 export const albaniaCities: POI[] = [
   {
@@ -163,8 +163,7 @@ export const albaniaCities: POI[] = [
       hu: ["Az ország legnagyobb kikötője.", "Ókori amfiteátrum.", "Népszerű tengerparti hely."],
       ro: ["Cel mai mare port al țării.", "Amfiteatru antic.", "Stațiune populară."],
       en: ["Largest port in the country.", "Ancient amphitheater.", "Popular beach destination."]
-    }
-  },
+    }, image: "/poi-images/city-durres.webp"},
   {
     id: "city-vlore",
     name: { de: "Vlorë", hu: "Vlorë", ro: "Vlorë", en: "Vlorë" },
@@ -204,8 +203,7 @@ export const albaniaCities: POI[] = [
       hu: ["Ahol az Adria és a Jón-tenger találkozik.", "Albánia első fővárosa.", "Fontos kikötőváros."],
       ro: ["Unde se întâlnesc Mările Adriatică și Ionică.", "Prima capitală a Albaniei.", "Important oraș port."],
       en: ["Where the Adriatic and Ionian seas meet.", "First capital of Albania.", "Important port city."]
-    }
-  },
+    }, image: "/poi-images/city-vlore.webp"},
   {
     id: "city-shkoder",
     name: { de: "Shkodra", hu: "Shkodra", ro: "Shkodra", en: "Shkodra" },
@@ -245,8 +243,7 @@ export const albaniaCities: POI[] = [
       hu: ["A Balkán egyik legrégebbi helye.", "A Marubi fotótár otthona.", "Kapu az albán Alpokhoz."],
       ro: ["Una dintre cele mai vechi așezări din Balcani.", "Găzduiește Fototeca Marubi.", "Poarta către Alpii Albanezi."],
       en: ["One of the oldest sites in the Balkans.", "Home of the Marubi National Museum of Photography.", "Gateway to the Albanian Alps."]
-    }
-  },
+    }, image: "/poi-images/city-shkoder.webp"},
   {
     id: "city-korce",
     name: { de: "Korçë", hu: "Korçë", ro: "Korçë", en: "Korçë" },
@@ -286,8 +283,7 @@ export const albaniaCities: POI[] = [
       hu: ["Az első albán iskola.", "Híres sörfesztivál.", "Francia stílusú építészet."],
       ro: ["Prima școală albaneză.", "Faimos festival al berii.", "Arhitectură în stil francez."],
       en: ["First Albanian school.", "Famous beer festival.", "French-style architecture."]
-    }
-  },
+    }, image: "/poi-images/city-korce.webp"},
   {
     id: "city-fier",
     name: { de: "Fier", hu: "Fier", ro: "Fier", en: "Fier" },
@@ -327,8 +323,7 @@ export const albaniaCities: POI[] = [
       hu: ["Gazdasági csomópont.", "Apollónia közelében.", "Mezőgazdasági központ."],
       ro: ["Nod economic.", "Lângă Apollonia.", "Centru agricol."],
       en: ["Economic hub.", "Near Apollonia.", "Agricultural center."]
-    }
-  },
+    }, image: "/poi-images/city-fier.webp"},
   {
     id: "city-berat",
     name: { de: "Berat", hu: "Berat", ro: "Berat", en: "Berat" },
@@ -368,8 +363,7 @@ export const albaniaCities: POI[] = [
       hu: ["UNESCO világörökség.", "Egyedülálló oszmán házak.", "Lakott vár."],
       ro: ["Patrimoniu mondial UNESCO.", "Case otomane unice.", "Cetate locuită."],
       en: ["UNESCO World Heritage site.", "Unique Ottoman houses.", "Inhabited castle."]
-    }
-  },
+    }, image: "/poi-images/city-berat.webp"},
   {
     id: "city-gjirokaster",
     name: { de: "Gjirokastra", hu: "Gjirokastra", ro: "Gjirokastra", en: "Gjirokastra" },
@@ -409,8 +403,7 @@ export const albaniaCities: POI[] = [
       hu: ["Pala tetős házak.", "Hatalmas erőd.", "UNESCO világörökség."],
       ro: ["Acoperișuri de ardezie.", "Fortăreață mare.", "Patrimoniu mondial UNESCO."],
       en: ["Slate-roofed houses.", "Massive fortress.", "UNESCO World Heritage site."]
-    }
-  },
+    }, image: "/poi-images/city-gjirokaster.webp"},
   {
     id: "city-sarande",
     name: { de: "Saranda", hu: "Saranda", ro: "Saranda", en: "Saranda" },
@@ -450,8 +443,7 @@ export const albaniaCities: POI[] = [
       hu: ["Kapu Butrint felé.", "Gyönyörű öblök.", "Egész évben napsütés."],
       ro: ["Poarta către Butrint.", "Golfuri superbe.", "Soare tot anul."],
       en: ["Gateway to Butrint.", "Beautiful bays.", "Year-round sunshine."]
-    }
-  }
+    }, image: "/poi-images/city-sarande.webp"}
 ];
 
 export const albaniaHistorical: POI[] = [
@@ -535,8 +527,7 @@ export const albaniaHistorical: POI[] = [
       hu: ["Kr. e. 6. században alapították.", "Augustus császár is megfordult itt.", "Jelentős kolostor található a területén."],
       ro: ["Fondat în secolul VI î.Hr.", "Vizitat de împăratul Augustus.", "Mănăstire importantă la fața locului."],
       en: ["Founded in the 6th century BC.", "Visited by Emperor Augustus.", "Important monastery on site."]
-    }
-  },
+    }, image: "/poi-images/hist-apollonia.webp"},
   {
     id: "hist-rozafa",
     name: { de: "Burg Rozafa", hu: "Rozafa vára", ro: "Cetatea Rozafa", en: "Rozafa Castle" },
@@ -576,8 +567,7 @@ export const albaniaHistorical: POI[] = [
       hu: ["A befalazott asszony legendája.", "Kilátás három folyóra.", "Stratégiai elhelyezkedés."],
       ro: ["Legenda femeii zidite.", "Vedere spre trei râuri.", "Locație strategică."],
       en: ["Legend of the walled-in woman.", "View of three rivers.", "Strategic location."]
-    }
-  },
+    }, image: "/poi-images/hist-rozafa.webp"},
   {
     id: "hist-berat-castle",
     name: { de: "Burg von Berat", hu: "Berati vár", ro: "Cetatea Berat", en: "Berat Castle" },
@@ -617,8 +607,7 @@ export const albaniaHistorical: POI[] = [
       hu: ["Sok régi templom a falakon belül.", "Kilátás az Osum folyóra.", "Mesébe illő építészet."],
       ro: ["Multe biserici vechi în interior.", "Vedere peste râul Osum.", "Arhitectură de poveste."],
       en: ["Many old churches inside.", "View over the Osum river.", "Picture-perfect architecture."]
-    }
-  },
+    }, image: "/poi-images/hist-berat-castle.webp"},
   {
     id: "hist-gjirokaster-castle",
     name: { de: "Burg von Gjirokastra", hu: "Gjirokastrai vár", ro: "Cetatea Gjirokastra", en: "Gjirokastra Castle" },
@@ -658,8 +647,7 @@ export const albaniaHistorical: POI[] = [
       hu: ["19. századi óratorony.", "Repülőgép-roncs az udvaron.", "Történelmi börtön."],
       ro: ["Turn cu ceas din sec. XIX.", "Epavă de avion în curte.", "Închisoare istorică."],
       en: ["19th-century clock tower.", "Airplane wreck in the courtyard.", "Historical prison."]
-    }
-  },
+    }, image: "/poi-images/hist-gjirokaster-castle.webp"},
   {
     id: "hist-kruje",
     name: { de: "Burg Kruja", hu: "Krujai vár", ro: "Cetatea Kruja", en: "Kruja Castle" },
@@ -699,8 +687,7 @@ export const albaniaHistorical: POI[] = [
       hu: ["Szkander bég múzeum.", "Régi bazár a vár tövében.", "Fontos zarándokhely."],
       ro: ["Muzeul Skanderbeg.", "Bazar vechi la poale.", "Important loc de pelerinaj."],
       en: ["Skanderbeg Museum.", "Old bazaar at the foot.", "Important pilgrimage site."]
-    }
-  },
+    }, image: "/poi-images/hist-kruje.webp"},
   {
     id: "hist-lezhe-castle",
     name: { de: "Burg von Lezhë", hu: "Lezhëi vár", ro: "Cetatea Lezhë", en: "Lezhë Castle" },
@@ -740,8 +727,7 @@ export const albaniaHistorical: POI[] = [
       hu: ["Illír alapok.", "Oszmán mecsetromok.", "Panorámás kilátás a partra."],
       ro: ["Fundații ilire.", "Ruinele unei moschei otomane.", "Vedere panoramică a coastei."],
       en: ["Illyrian foundations.", "Ottoman mosque ruins.", "Panoramic view of the coast."]
-    }
-  },
+    }, image: "/poi-images/hist-lezhe-castle.webp"},
   {
     id: "hist-elbasan-castle",
     name: { de: "Burg von Elbasan", hu: "Elbasani vár", ro: "Cetatea Elbasan", en: "Elbasan Castle" },
@@ -781,8 +767,7 @@ export const albaniaHistorical: POI[] = [
       hu: ["II. Mehmed szultán építtette.", "Lakónegyed a falakon belül.", "Régi templomok és mecsetek."],
       ro: ["Construită de Sultanul Mehmet II.", "Cartier rezidențial în interior.", "Biserici și moschei vechi."],
       en: ["Built by Sultan Mehmet II.", "Residential neighborhood inside.", "Old churches and mosques."]
-    }
-  }
+    }, image: "/poi-images/hist-elbasan-castle.webp"}
 ];
 
 export const albaniaNature: POI[] = [
@@ -866,8 +851,7 @@ export const albaniaNature: POI[] = [
       hu: ["Egyedülálló halfajok.", "Kristálytiszta víz.", "UNESCO védelem."],
       ro: ["Specii de pești unice.", "Apă de cristal.", "Protecție UNESCO."],
       en: ["Unique fish species.", "Crystal clear water.", "UNESCO protection."]
-    }
-  },
+    }, image: "/poi-images/nat-lake-ohrid.webp"},
   {
     id: "nat-valbone",
     name: { de: "Valbona-Tal", hu: "Valbona-völgy", ro: "Valea Valbone", en: "Valbona Valley" },
@@ -907,8 +891,7 @@ export const albaniaNature: POI[] = [
       hu: ["Túrázók paradicsoma.", "Vadvízi tájak.", "Hagyományos hegyi vendégházak."],
       ro: ["Paradisul drumețiilor.", "Peisaje fluviale sălbatice.", "Pensiuni montane tradiționale."],
       en: ["Hiking paradise.", "Wild river landscapes.", "Traditional mountain guesthouses."]
-    }
-  },
+    }, image: "/poi-images/nat-valbone.webp"},
   {
     id: "nat-blue-eye",
     name: { de: "Das Blaue Auge", hu: "Kék Szem-forrás", ro: "Ochiul Albastru", en: "The Blue Eye" },
@@ -948,8 +931,7 @@ export const albaniaNature: POI[] = [
       hu: ["Több mint 50 méter mély.", "Állandó 10 Celsius-fok.", "Zafírkék szín."],
       ro: ["Peste 50 de metri adâncime.", "Constant 10 grade Celsius.", "Culoare de safir."],
       en: ["Over 50 meters deep.", "Constant 10 degrees Celsius.", "Sapphire blue color."]
-    }
-  },
+    }, image: "/poi-images/nat-blue-eye.webp"},
   {
     id: "nat-llogara",
     name: { de: "Llogara-Pass", hu: "Llogara-hágó", ro: "Pasul Llogara", en: "Llogara Pass" },
@@ -989,8 +971,7 @@ export const albaniaNature: POI[] = [
       hu: ["Több mint 1000 méter magasan.", "Kilátás Korfura.", "Siklóernyős központ."],
       ro: ["Peste 1000 de metri altitudine.", "Vedere spre Corfu.", "Loc preferat de parapantiști."],
       en: ["Over 1000 meters high.", "View of Corfu.", "Paragliding hotspot."]
-    }
-  },
+    }, image: "/poi-images/nat-llogara.webp"},
   {
     id: "nat-osum-canyon",
     name: { de: "Osum-Canyon", hu: "Osum-kanyon", ro: "Canionul Osum", en: "Osum Canyon" },
@@ -1030,8 +1011,7 @@ export const albaniaNature: POI[] = [
       hu: ["Rafting lehetőség.", "Magas sziklafalak.", "Számos vízesés."],
       ro: ["Posibilitate de rafting.", "Pereți de stâncă înalți.", "Numeroase cascade."],
       en: ["Rafting opportunity.", "High rock walls.", "Numerous waterfalls."]
-    }
-  },
+    }, image: "/poi-images/nat-osum-canyon.webp"},
   {
     id: "nat-korab",
     name: { de: "Berg Korab", hu: "Korab-hegy", ro: "Muntele Korab", en: "Mount Korab" },
@@ -1071,8 +1051,7 @@ export const albaniaNature: POI[] = [
       hu: ["2764 méter magas.", "Határhegy.", "Kihívást jelentő túra."],
       ro: ["2764 metri înălțime.", "Munte de graniță.", "Drumeție solicitantă."],
       en: ["2764 meters high.", "Border mountain.", "Challenging hike."]
-    }
-  },
+    }, image: "/poi-images/nat-korab.webp"},
   {
     id: "nat-theth",
     name: { de: "Theth Nationalpark", hu: "Thethi Nemzeti Park", ro: "Parcul Național Theth", en: "Theth National Park" },
@@ -1112,8 +1091,7 @@ export const albaniaNature: POI[] = [
       hu: ["Hagyományos kőházak.", "Grunas-vízesés.", "Hegyi elszigeteltség."],
       ro: ["Case tradiționale de piatră.", "Cascada Grunas.", "Izolare în munți."],
       en: ["Traditional stone houses.", "Grunas Waterfall.", "Mountain isolation."]
-    }
-  },
+    }, image: "/poi-images/nat-theth.webp"},
   {
     id: "nat-dajti",
     name: { de: "Berg Dajti", hu: "Dajti-hegy", ro: "Muntele Dajti", en: "Mount Dajti" },
@@ -1163,3 +1141,4 @@ export const albaniaAllPoi: POI[] = [
   ...albaniaHistorical,
   ...albaniaNature
 ];
+

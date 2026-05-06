@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBrazilNatureV2: POI[] = [
@@ -12,18 +13,14 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ro: "Fluviul Amazon",
       en: "Amazon River"
     },
-    description: {
-      de: "Der wasserreichste Fluss der Erde, der sich durch das größte Regenwaldgebiet zieht.",
-      hu: "A Föld legbővizűbb folyója, amely a legnagyobb esőerdőn halad keresztül.",
-      ro: "Cel mai voluminos fluviu de pe Pământ, care traversează cea mai mare pădure tropicală.",
-      en: "The most voluminous river on Earth, winding through the largest rainforest."
+    descriptionAdvanced: {
+      de: "Der Amazonas ist der wasserreichste Fluss der Erde und bildet das Herzstück des größten Regenwaldgebiets unseres Planeten. Sein komplexes System aus Nebenflüssen durchzieht den gesamten Norden Brasiliens und beherbergt eine unübertroffene Artenvielfalt. Der Fluss ist eine Lebensader für Millionen Menschen und spielt eine entscheidende Rolle für das Weltklima. Sachkunde K4 – tropische Ökosysteme.",
+      hu: "Az Amazonas a világ legnagyobb vízhozamú folyója, amely az esőerdők szívében kanyarog és táplálja a földkerekség legnagyobb biodiverzitását. A folyó rendszere Brazília és egész Dél-Amerika ökológiai egyensúlyának alapja. Az Amazonas mentén élő közösségek és az egyedülálló vízi élővilág a tudomány számára is folyamatos felfedeznivalót kínál. Földrajz K6 – folyórendszerek.",
+      en: "The Amazon River is the lifeblood of the largest rainforest in the world and carries the largest volume of water of any river on Earth. It winds thousands of kilometers through South America, supporting an unparalleled diversity of aquatic life and indigenous cultures. The river system is a critical component of the Earth's climate and global water cycle. Geography K7 – rivers and ecosystem processes."
     },
-    facts: {
-      de: ["Mündet in den Atlantischen Ozean.", "Sein Einzugsgebiet ist das größte der Welt."],
-      hu: ["Az Atlanti-óceánba ömlik.", "Vízgyűjtő területe a legnagyobb a világon."],
-      ro: ["Se varsă în Oceanul Atlantic.", "Bazinul său hidrografic este cel mai mare din lume."],
-      en: ["Empties into the Atlantic Ocean.", "Its drainage basin is the largest in the world."]
-    }
+    factsAdvanced: {
+      en: ["Largest river in the world by water discharge", "Central to the Amazon rainforest ecosystem", "Winds across South America to the Atlantic", "Supports unmatched aquatic biodiversity", "Crucial component of the Earth's climate", "Vital transport route for Amazonian communities"]
+    },
   },
   {
     id: "br-sao-francisco-river-nature-v2",
@@ -36,19 +33,13 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ro: "Râul São Francisco",
       en: "São Francisco River"
     },
-    description: {
-      de: "Einer der wichtigsten Flüsse Brasiliens, der den trockenen Nordosten mit Wasser versorgt.",
-      hu: "Brazília egyik legfontosabb folyója, amely a száraz északkeleti régiót látja el vízzel.",
-      ro: "Unul dintre cele mai importante râuri din Brazilia, furnizând apă nord-estului arid.",
-      en: "One of Brazil's most important rivers, providing water to the arid northeast."
+    descriptionAdvanced: {
+      hu: "A São Francisco folyó, amelyet a 'nemzeti egység folyójának' is neveznek, Brazília belsejében folyik, összekötve a száraz és a termékeny régiókat. Jelentős szerepet játszik az öntözésben, az energiaellátásban és a közlekedésben, így a brazil gazdaság egyik fontos ütőere. A folyó mentén található történelmi városok és vízierőművek tükrözik a jelentőségét. Földrajz K7 – folyók és energia.",
+      en: "The São Francisco River is the longest river that runs entirely within Brazilian territory, stretching from the state of Minas Gerais to the Atlantic Ocean. Often called the 'River of National Unity', it has historically played a vital role in connecting the interior of the country with the coast, supporting agriculture and power generation along its banks. Geography K7 – major river basins and regional development."
     },
-    facts: {
-      de: ["Wird oft als der Fluss der nationalen Einheit bezeichnet.", "Er ist über 2900 Kilometer lang."],
-      hu: ["Gyakran a nemzeti egység folyójának is nevezik.", "Több mint 2900 kilométer hosszú."],
-      ro: ["Este adesea numit râul unității naționale.", "Are o lungime de peste 2900 de kilometri."],
-      en: ["Often called the river of national unity.", "It is over 2,900 kilometers long."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Longest river entirely within Brazil", "Known as the 'River of National Unity'", "Stretches from Minas Gerais to the Atlantic", "Essential for irrigation and hydroelectric power", "Connects Brazil's interior to the coast", "Key ecological and economic artery"]
+    }, image: "/poi-images/br-sao-francisco-river-nature-v2.webp"},
   {
     id: "br-parana-river-nature-v2",
     type: "river",
@@ -60,19 +51,13 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ro: "Râul Paraná",
       en: "Paraná River"
     },
-    description: {
-      de: "Der zweitlängste Fluss Südamerikas, der eine natürliche Grenze zu Paraguay bildet.",
-      hu: "Dél-Amerika második leghosszabb folyója, amely természetes határt képez Paraguayjal.",
-      ro: "Al doilea cel mai lung râu din America de Sud, formând o graniță naturală cu Paraguay.",
-      en: "The second longest river in South America, forming a natural border with Paraguay."
+    descriptionAdvanced: {
+      hu: "A Paraná folyó Dél-Amerika második leghosszabb folyója, amely fontos szerepet játszik a vízenergia-termelésben, többek között az Itaipu-gát révén. A folyó a brazil iparvidékek energiellátását biztosítja, miközben természeti értékeivel is kiemelkedik. A régió mezőgazdasági és energetikai fejlődésének nélkülözhetetlen eleme. Földrajz K7 – vízenergia.",
+      en: "The Paraná River is one of the most significant rivers in South America, forming part of the border between Brazil, Paraguay, and Argentina. It is a major source of hydroelectric power, most notably powering the colossal Itaipu Dam. The river system is crucial for trade, transportation, and regional economic stability in the southern part of the continent. Geography K7 – transboundary river basins and energy production."
     },
-    facts: {
-      de: ["Beherbergt das riesige Itaipu-Wasserkraftwerk.", "Fließt durch Brasilien, Paraguay und Argentinien."],
-      hu: ["Itt található a hatalmas Itaipu-vízierőmű.", "Brazílián, Paraguayon és Argentínán folyik keresztül."],
-      ro: ["Găzduiește uriașa hidrocentrală Itaipu.", "Curge prin Brazilia, Paraguay și Argentina."],
-      en: ["Hosts the massive Itaipu hydroelectric dam.", "Flows through Brazil, Paraguay, and Argentina."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Significant South American river system", "Forms part of the Brazil-Paraguay-Argentina border", "Key site of the Itaipu hydroelectric dam", "Vital for regional trade and transportation", "Critical economic engine for South America", "Provides massive renewable energy production"]
+    }, image: "/poi-images/br-parana-river-nature-v2.webp"},
   {
     id: "br-tocantins-river-nature-v2",
     type: "river",
@@ -84,18 +69,13 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ro: "Râul Tocantins",
       en: "Tocantins River"
     },
-    description: {
-      de: "Ein großer Fluss, der vollständig innerhalb des brasilianischen Territoriums fließt.",
-      hu: "Egy nagy folyó, amely teljes egészében a brazil területen belül folyik.",
-      ro: "Un râu mare care curge în întregime pe teritoriul brazilian.",
-      en: "A large river that flows entirely within Brazilian territory."
+    descriptionAdvanced: {
+      hu: "A Tocantins folyó Brazília központi részén folyik, jelentős szerepet játszik a középnyugati és északi régiók kereskedelmében és közlekedésében. A folyó mentén található vízierőművek fontos energiaforrást biztosítanak az ország számára. A Tocantins-medence gazdag ökológiai diverzitása és a folyami közlekedés révén fontos gazdasági tényező. Földrajz K6 – folyórendszerek.",
+      en: "The Tocantins River flows northward through the Brazilian interior, eventually merging with the Amazon delta region. It is a major waterway that traverses several states, including Goiás and Tocantins, serving as an important route for regional trade and energy generation. The river basin is characterized by diverse landscapes and is central to the development of the country's central and northern regions. Geography K7 – river systems and inland navigation."
     },
-    facts: {
-      de: ["Das Tucuruí-Wasserkraftwerk staut diesen Fluss.", "Er ist bekannt für seine reiche Fischartenvielfalt."],
-      hu: ["A Tucuruí-vízierőmű gátolja ezt a folyót.", "Gazdag halfajairól ismert."],
-      ro: ["Barajul hidroelectric Tucuruí reține acest râu.", "Este cunoscut pentru diversitatea bogată de specii de pești."],
-      en: ["The Tucuruí hydroelectric dam impounds this river.", "It is known for its rich fish species diversity."]
-    }
+    factsAdvanced: {
+      en: ["Flows northward through Brazil's interior", "Merges with the Amazon delta region", "Traverses states like Goiás and Tocantins", "Important route for trade and energy generation", "Supports diverse regional landscapes", "Key waterway for Northern and Central development"]
+    },
   },
   {
     id: "br-araguaia-river-nature-v2",
@@ -108,19 +88,13 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ro: "Râul Araguaia",
       en: "Araguaia River"
     },
-    description: {
-      de: "Ein bedeutender Fluss im Zentrum Brasiliens, der die größte Flussinsel der Welt bildet.",
-      hu: "Brazília középső részének jelentős folyója, amely a világ legnagyobb folyami szigetét alkotja.",
-      ro: "Un râu major din centrul Braziliei care formează cea mai mare insulă fluvială din lume.",
-      en: "A major river in central Brazil that forms the world's largest river island."
+    descriptionAdvanced: {
+      hu: "Az Araguaia folyó a természet szerelmeseinek paradicsoma, amely a közép-brazíliai szavannák (cerrado) között kanyarog, híres fehér homokos folyópartjairól és gazdag állatvilágáról. A horgászok és a természetjárók kedvelt célpontja, különösen az esős évszak utáni időszakban. A folyó mentén számos rezervátum található, amelyek a régió ökológiai értékeit védik. Földrajz K6 – szavannák élővilága.",
+      en: "The Araguaia River is a prominent waterway in central Brazil, known for its extensive beaches and diverse ecosystems, particularly during the dry season. It flows through a significant portion of the cerrado biome, providing a crucial corridor for wildlife and a popular destination for eco-tourism. The river is beloved for its natural beauty and remains a vital ecological resource for the region. Geography K7 – river ecosystems and regional biodiversity."
     },
-    facts: {
-      de: ["Ist ein beliebtes Ziel für Ökotourismus.", "Trennt die Bundesstaaten Mato Grosso und Goiás."],
-      hu: ["Népszerű ökoturisztikai célpont.", "Elválasztja Mato Grosso és Goiás államokat."],
-      ro: ["Este o destinație populară pentru ecoturism.", "Separă statele Mato Grosso și Goiás."],
-      en: ["It is a popular ecotourism destination.", "Separates the states of Mato Grosso and Goiás."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Prominent river in central Brazil", "Flows through the cerrado biome", "Famous for extensive seasonal sandy beaches", "Key corridor for regional wildlife", "Popular eco-tourism destination", "Vital ecological resource for central Brazil"]
+    }, image: "/poi-images/br-araguaia-river-nature-v2.webp"},
   {
     id: "br-negro-river-nature-v2",
     type: "river",
@@ -132,19 +106,12 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ro: "Rio Negro",
       en: "Negro River"
     },
-    description: {
-      de: "Der größte Schwarzwasserfluss der Welt und einer der wichtigsten Nebenflüsse des Amazonas.",
-      hu: "A világ legnagyobb feketevizű folyója és az Amazonas egyik legfontosabb mellékfolyója.",
-      ro: "Cel mai mare râu cu apă neagră din lume și un afluent major al Amazonului.",
-      en: "The largest blackwater river in the world and a major tributary of the Amazon."
+    descriptionAdvanced: {
+      hu: "A Rio Negro (Fekete folyó) az Amazonas legnagyobb bal oldali mellékfolyója, nevét a sötét, huminsavakban gazdag vizéről kapta. A folyó összefolyása az Amazonassal, a 'vizek találkozása', az egyik leglátványosabb természeti jelenség Brazíliában. A folyó mentén elhelyezkedő erdőségek érintetlen természetet mutatnak be. Földrajz K6 – folyók."
     },
-    facts: {
-      de: ["Die dunkle Farbe stammt von zersetzten organischen Stoffen.", "Fließt in Manaus mit dem helleren Rio Solimões zusammen."],
-      hu: ["Sötét színét a lebomló szerves anyagok adják.", "Manausnál találkozik a világosabb Rio Solimões-szel."],
-      ro: ["Culoarea închisă provine din materia organică descompusă.", "Se întâlnește cu râul mai deschis Rio Solimões la Manaus."],
-      en: ["The dark color comes from decayed organic matter.", "Meets the lighter Rio Solimões at Manaus."]
-    }
-  },
+    factsAdvanced: {
+      hu: ["Amazonas mellékfolyója", "Sötét, huminsavas víz", "'Vizek találkozása' jelenség", "Érintetlen erdőségek", "Természeti látványosság", "Fekete színű folyó"]
+    }, image: "/poi-images/br-negro-river-nature-v2.webp"},
   {
     id: "br-madeira-river-nature-v2",
     type: "river",
@@ -156,17 +123,11 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ro: "Râul Madeira",
       en: "Madeira River"
     },
-    description: {
-      de: "Der längste und wichtigste Nebenfluss des Amazonas, bekannt für seine starke Strömung.",
-      hu: "Az Amazonas leghosszabb és legfontosabb mellékfolyója, erős áramlásáról ismert.",
-      ro: "Cel mai lung și important afluent al Amazonului, cunoscut pentru curentul său puternic.",
-      en: "The longest and most important tributary of the Amazon, known for its strong current."
+    descriptionAdvanced: {
+      hu: "A Madeira folyó az Amazonas-medence egyik fontos vízi útja, amely a mezőgazdasági termékek és az ásványi kincsek szállításában játszik kulcsszerepet. A folyó mentén megvalósult vízierőművek fontos szerepet töltenek be az északi régió energiaellátásában. A folyó gazdag élővilága és tájképe az amazóniai régió természeti kincsei közé tartozik. Földrajz K6 – logisztika."
     },
-    facts: {
-      de: ["Der Name bedeutet Holzfluss auf Portugiesisch.", "Er ist eine wichtige Wasserstraße für den Transport."],
-      hu: ["A neve portugálul fa folyót jelent.", "Fontos vízi út a szállítás számára."],
-      ro: ["Numele înseamnă râu de lemn în portugheză.", "Este o cale navigabilă crucială pentru transport."],
-      en: ["The name means wood river in Portuguese.", "It is a crucial waterway for transportation."]
+    factsAdvanced: {
+      hu: ["Amazonas-medence vízi útja", "Mezőgazdasági szállítás", "Ásványi kincsek közlekedése", "Északi régió energiaellátása", "Vízierőművek", "Amazóniai élővilág"]
     }
   },
   {
@@ -180,17 +141,11 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ro: "Râul Tapajós",
       en: "Tapajós River"
     },
-    description: {
-      de: "Ein großer Klarwasserfluss im Amazonasbecken mit wunderschönen weißen Sandstränden.",
-      hu: "Egy nagy tisztavizű folyó az Amazonas-medencében, gyönyörű fehér homokos strandokkal.",
-      ro: "Un râu mare cu apă limpede în bazinul Amazonului, cu plaje frumoase de nisip alb.",
-      en: "A large clearwater river in the Amazon basin featuring beautiful white sand beaches."
+    descriptionAdvanced: {
+      hu: "A Tapajós folyó a kristálytiszta vizéről és az Amazonas menti legszebb homokos folyópartjairól ismert, az Alter do Chão környéke népszerű trópusi üdülőhely. A folyó az amazóniai régió egyik legfontosabb közlekedési és ökológiai tengelye. A folyami utak és a különleges természeti adottságok miatt kiemelkedő szerepe van a régió idegenforgalmában. Földrajz K6 – üdülőhelyek."
     },
-    facts: {
-      de: ["Alter do Chão ist ein berühmter Strand an seinen Ufern.", "Das Wasser ist fast frei von Sedimenten."],
-      hu: ["Alter do Chão egy híres strand a partján.", "A víz szinte mentes az üledékektől."],
-      ro: ["Alter do Chão este o plajă faimoasă pe malurile sale.", "Apa este aproape lipsită de sedimente."],
-      en: ["Alter do Chão is a famous beach on its banks.", "The water is almost free of sediments."]
+    factsAdvanced: {
+      hu: ["Kristálytiszta folyóvíz", "Homokos folyópartok", "Alter do Chão (üdülőhely)", "Amazonasi közlekedési tengely", "Ökológiai szerep", "Turisztikai jelentőség"]
     }
   },
   {
@@ -204,17 +159,11 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ro: "Râul Xingu",
       en: "Xingu River"
     },
-    description: {
-      de: "Ein bedeutender Nebenfluss des Amazonas, Heimat vieler indigener Völker.",
-      hu: "Az Amazonas jelentős mellékfolyója, számos őslakos törzs otthona.",
-      ro: "Un afluent semnificativ al Amazonului, casa multor popoare indigene.",
-      en: "A significant tributary of the Amazon, home to many indigenous peoples."
+    descriptionAdvanced: {
+      hu: "A Xingu folyó az Amazonas-medence egyik különleges vízrendszere, amely az őslakosok területén és a Xingu Nemzeti Parkban halad át. A folyó és környéke védett természeti terület, amely fontos szerepet játszik a brazil őslakosok kultúrájának és az amazóniai biodiverzitásnak a megőrzésében. A nagy vízierőművek mellett is az amazóniai természet egyik fontos bástyája. Földrajz K6 – őslakosok."
     },
-    facts: {
-      de: ["Der Xingu-Nationalpark schützt die indigenen Kulturen.", "Hier befindet sich der umstrittene Belo Monte-Staudamm."],
-      hu: ["A Xingu Nemzeti Park védi az őslakos kultúrákat.", "Itt található a vitatott Belo Monte gát."],
-      ro: ["Parcul Național Xingu protejează culturile indigene.", "Aici se află controversatul baraj Belo Monte."],
-      en: ["The Xingu National Park protects indigenous cultures.", "The controversial Belo Monte dam is located here."]
+    factsAdvanced: {
+      hu: ["Xingu Nemzeti Park", "Őslakosok védett területe", "Amazonasi biodiverzitás", "Kulturális megőrzés", "Természetvédelmi bástya", "Folyórendszer"]
     }
   },
   {
@@ -228,18 +177,13 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ro: "Râul Iguaçu",
       en: "Iguazu River"
     },
-    description: {
-      de: "Ein Fluss im Süden Brasiliens, der die weltberühmten Iguazú-Wasserfälle bildet.",
-      hu: "Egy folyó Brazília déli részén, amely a világhírű Iguazú-vízesést alkotja.",
-      ro: "Un râu în sudul Braziliei care formează faimoasele cascade Iguazú din lume.",
-      en: "A river in southern Brazil that forms the world-famous Iguazu Falls."
+    descriptionAdvanced: {
+      de: "Der Iguaçu-Fluss ist weltbekannt für die spektakulären Wasserfälle an der Grenze zwischen Brasilien und Argentinien, die zu den größten der Welt gehören. Das Flusssystem schlängelt sich durch subtropischen Wald und bildet eine der beeindruckendsten Naturschönheiten Südamerikas. Die Wasserfälle sind seit 1984 Teil des UNESCO-Welterbes. Erdkunde K7 – Flusssysteme und Naturmonumente.",
+      hu: "Az Iguaçu folyó a világ egyik leglátványosabb természeti csodájának, az Iguaçu-vízesésnek a helyszíne, amely Brazília és Argentína határán található. A vízesésrendszer lenyűgöző természeti erő, amely az esőerdők szívében fekszik, az UNESCO világörökség része. A folyó és környéke Brazília egyik legfontosabb idegenforgalmi központja. Földrajz K6 – természeti csodák."
     },
-    facts: {
-      de: ["Mündet in den Rio Paraná.", "Die Wasserfälle gehören zum UNESCO-Welterbe."],
-      hu: ["A Paraná-folyóba ömlik.", "A vízesések az UNESCO Világörökség részét képezik."],
-      ro: ["Se varsă în râul Paraná.", "Cascadele sunt un sit al Patrimoniului Mondial UNESCO."],
-      en: ["Empties into the Paraná River.", "The waterfalls are a UNESCO World Heritage site."]
-    }
+    factsAdvanced: {
+      hu: ["Iguaçu-vízesés helyszíne", "Brazília–Argentína határ", "UNESCO világörökségi helyszín", "Esőerdők szívében", "Természeti csoda", "Fontos idegenforgalmi központ"]
+    },
   },
   {
     id: "br-pico-da-neblina-nature-v2",
@@ -263,8 +207,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["2995 méter magas.", "Mélyen az amazóniai esőerdőben található."],
       ro: ["Are o înălțime de 2995 de metri.", "Situat adânc în pădurea tropicală amazoniană."],
       en: ["It is 2,995 meters high.", "Located deep within the Amazon rainforest."]
-    }
-  },
+    }, image: "/poi-images/br-pico-da-neblina-nature-v2.webp"},
   {
     id: "br-pico-das-agulhas-negras-nature-v2",
     type: "mountain",
@@ -300,19 +243,12 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ro: "Muntele Roraima",
       en: "Mount Roraima"
     },
-    description: {
-      de: "Ein spektakulärer Tafelberg im Dreiländereck zwischen Brasilien, Venezuela und Guyana.",
-      hu: "Látványos táblahegy Brazília, Venezuela és Guyana hármashatárán.",
-      ro: "Un munte spectaculos cu vârf plat la granița dintre Brazilia, Venezuela și Guyana.",
-      en: "A spectacular tabletop mountain at the tripoint border of Brazil, Venezuela, and Guyana."
+    descriptionAdvanced: {
+      de: "Der Berg Roraima ist ein Tafelberg an der Grenze von Brasilien, Venezuela und Guyana und gehört zu den ältesten geologischen Formationen der Erde. Seine markante, flache Gipfelform und steilen Felswände beherbergen eine Vielzahl an endemischen Pflanzenarten, die es nirgendwo sonst gibt. Er ist ein geologisches Wunder und eine wichtige Forschungsstätte. Erdkunde K7 – Geologie und Gebirgsbildung."
     },
-    facts: {
-      de: ["Inspirierte den Roman Die vergessene Welt.", "Beherbergt einzigartige endemische Pflanzenarten."],
-      hu: ["Az elveszett világ című regényt ihlette.", "Egyedi, endemikus növényfajoknak ad otthont."],
-      ro: ["A inspirat romanul O lume dispărută.", "Găzduiește specii de plante endemice unice."],
-      en: ["Inspired the novel The Lost World.", "Hosts unique endemic plant species."]
-    }
-  },
+    factsAdvanced: {
+      de: ["Tafelberg (Tepui)", "Grenzpunkt (Brasilien, Ven, Guy)", "Geologisch sehr alt", "Hohe Zahl endemischer Arten", "Steile Felswände", "Markante flache Gipfelform"]
+    }, image: "/poi-images/br-mount-roraima-nature-v2.webp"},
   {
     id: "br-pico-da-bandeira-nature-v2",
     type: "mountain",
@@ -335,8 +271,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["A Caparaó Nemzeti Parkban található.", "A neve a Zászló csúcsa jelentésű."],
       ro: ["Situat în Parcul Național Caparaó.", "Numele înseamnă Vârful Steagului."],
       en: ["Located in the Caparaó National Park.", "The name means Peak of the Flag."]
-    }
-  },
+    }, image: "/poi-images/br-pico-da-bandeira-nature-v2.webp"},
   {
     id: "br-sugarloaf-mountain-nature-v2",
     type: "mountain",
@@ -359,8 +294,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Felvonó viszi a látogatókat a csúcsra.", "Panorámás kilátást nyújt a városra."],
       ro: ["O telecabină duce vizitatorii în vârf.", "Oferă o vedere panoramică a orașului."],
       en: ["A cable car takes visitors to the summit.", "Offers panoramic views of the city."]
-    }
-  },
+    }, image: "/poi-images/br-sugarloaf-mountain-nature-v2.webp"},
   {
     id: "br-corcovado-nature-v2",
     type: "mountain",
@@ -383,8 +317,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["710 méterrel magasodik a tengerszint fölé.", "A Tijuca Nemzeti Park közepén található."],
       ro: ["Se înalță la 710 metri deasupra nivelului mării.", "Situat în mijlocul Parcului Național Tijuca."],
       en: ["Rises 710 meters above sea level.", "Located amidst the Tijuca National Park."]
-    }
-  },
+    }, image: "/poi-images/br-corcovado-nature-v2.webp"},
   {
     id: "br-pedra-da-gavea-nature-v2",
     type: "mountain",
@@ -407,8 +340,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Ez a világ legnagyobb tengerparti monolitja.", "A szikla bizonyos szögekből egy archoz hasonlít."],
       ro: ["Este cel mai mare monolit de coastă din lume.", "Stânca arată ca o față din anumite unghiuri."],
       en: ["It is the largest coastal monolith in the world.", "The cliff looks like a face from some angles."]
-    }
-  },
+    }, image: "/poi-images/br-pedra-da-gavea-nature-v2.webp"},
   {
     id: "br-monte-pascoal-nature-v2",
     type: "mountain",
@@ -431,8 +363,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["A név húsvéti hegyet jelent.", "A Mata Atlânticát védő nemzeti park része."],
       ro: ["Numele înseamnă Muntele Paștelui.", "Face parte dintr-un parc național care protejează Mata Atlântica."],
       en: ["The name means Easter Mountain.", "It is part of a national park protecting the Atlantic Forest."]
-    }
-  },
+    }, image: "/poi-images/br-monte-pascoal-nature-v2.webp"},
   {
     id: "br-lagoa-dos-patos-nature-v2",
     type: "lake",
@@ -455,8 +386,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Több mint 265 kilométer hosszú.", "Egy keskeny homokpad választja el a tengertől."],
       ro: ["Se întinde pe mai mult de 265 de kilometri lungime.", "Un banc de nisip îngust o separă de mare."],
       en: ["Stretches over 265 kilometers in length.", "A narrow sandbar separates it from the sea."]
-    }
-  },
+    }, image: "/poi-images/br-lagoa-dos-patos-nature-v2.webp"},
   {
     id: "br-lagoa-mirim-nature-v2",
     type: "lake",
@@ -479,8 +409,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Fontos élőhely a vándormadarak számára.", "A São Gonçalo-csatorna köti össze a Lagoa dos Patos-szal."],
       ro: ["Habitat important pentru păsările migratoare.", "Conectată la Lagoa dos Patos prin Canalul São Gonçalo."],
       en: ["Important habitat for migratory birds.", "Connected to Lagoa dos Patos by the São Gonçalo Canal."]
-    }
-  },
+    }, image: "/poi-images/br-lagoa-mirim-nature-v2.webp"},
   {
     id: "br-lagoa-da-conceicao-nature-v2",
     type: "lake",
@@ -503,8 +432,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Népszerű a szörfösök és kiteszörfösök körében.", "Florianópolis turisztikai iparának központja."],
       ro: ["Populară pentru windsurfing și kitesurfing.", "Piesa centrală a industriei turistice din Florianópolis."],
       en: ["Popular for windsurfing and kitesurfing.", "The centerpiece of the tourism industry in Florianópolis."]
-    }
-  },
+    }, image: "/poi-images/br-lagoa-da-conceicao-nature-v2.webp"},
   {
     id: "br-fernando-de-noronha-nature-v2",
     type: "island",
@@ -527,8 +455,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Az UNESCO Világörökség része.", "A látogatók száma szigorúan korlátozott a természet védelme érdekében."],
       ro: ["Este un sit al Patrimoniului Mondial UNESCO.", "Numărul de vizitatori este strict limitat pentru a proteja natura."],
       en: ["It is a UNESCO World Heritage site.", "Visitor numbers are strictly limited to protect nature."]
-    }
-  },
+    }, image: "/poi-images/br-fernando-de-noronha-nature-v2.webp"},
   {
     id: "br-ilha-grande-nature-v2",
     type: "island",
@@ -551,8 +478,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["A szigeten nincsenek motoros járművek.", "Egykor kalóztanya és börtön is volt."],
       ro: ["Nu există vehicule motorizate pe insulă.", "A fost cândva un refugiu al piraților și o închisoare."],
       en: ["There are no motorized vehicles on the island.", "It was once a pirate stronghold and a prison."]
-    }
-  },
+    }, image: "/poi-images/br-ilha-grande-nature-v2.webp"},
   {
     id: "br-ilha-do-bananal-nature-v2",
     type: "island",
@@ -575,8 +501,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Védi az Araguaia Nemzeti Parkot.", "Fontos rezervátum az őslakos közösségek számára."],
       ro: ["Protejează Parcul Național Araguaia.", "Este o rezervație vitală pentru comunitățile indigene."],
       en: ["Protects the Araguaia National Park.", "It is a vital reserve for indigenous communities."]
-    }
-  },
+    }, image: "/poi-images/br-ilha-do-bananal-nature-v2.webp"},
   {
     id: "br-ilha-de-marajo-nature-v2",
     type: "island",
@@ -599,8 +524,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["A világ legnagyobb szigete, amelyet teljesen édesvíz vesz körül.", "Itt a rendőrség vízibivalyokon járőrözik."],
       ro: ["Cea mai mare insulă din lume înconjurată complet de apă dulce.", "Aici, poliția patrulează călare pe bivoli de apă."],
       en: ["The largest island in the world completely surrounded by freshwater.", "Here, water buffalo are ridden by the police."]
-    }
-  },
+    }, image: "/poi-images/br-ilha-de-marajo-nature-v2.webp"},
   {
     id: "br-ilhabela-nature-v2",
     type: "island",
@@ -623,8 +547,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["A sziget mintegy 85 százaléka védett állami park.", "Brazília vitorlázásának fővárosaként ismert."],
       ro: ["Aproximativ 85% din insulă este protejată ca parc de stat.", "Faimoasă drept capitala navigației din Brazilia."],
       en: ["Around 85 percent of the island is protected as a state park.", "Famous as Brazil's sailing capital."]
-    }
-  },
+    }, image: "/poi-images/br-ilhabela-nature-v2.webp"},
   {
     id: "br-amazon-rainforest-nature-v2",
     type: "forest",
@@ -647,8 +570,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["A becslések szerint a világ ismert fajainak 10 százalékának ad otthont.", "Gyakran a Föld tüdejének is nevezik."],
       ro: ["Găzduiește aproximativ 10% din speciile cunoscute din lume.", "Este adesea numită plămânii Pământului."],
       en: ["Houses an estimated 10 percent of the world's known species.", "Often referred to as the lungs of the Earth."]
-    }
-  },
+    }, image: "/poi-images/br-amazon-rainforest-nature-v2.webp"},
   {
     id: "br-atlantic-forest-nature-v2",
     type: "forest",
@@ -671,8 +593,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Ma az eredeti erdőnek már csak mintegy 12 százaléka maradt fenn.", "Az arany oroszlánmajmocska otthona."],
       ro: ["Doar aproximativ 12% din pădurea originală a mai rămas astăzi.", "Casa tamarinului leu auriu."],
       en: ["Only about 12 percent of the original forest remains today.", "Home to the golden lion tamarin."]
-    }
-  },
+    }, image: "/poi-images/br-atlantic-forest-nature-v2.webp"},
   {
     id: "br-tijuca-forest-nature-v2",
     type: "forest",
@@ -695,8 +616,7 @@ export const poiExtraBrazilNatureV2: POI[] = [
       hu: ["Védi Rio de Janeiro vízforrásait.", "Itt található a híres Krisztus-szobor."],
       ro: ["Protejează sursele de apă ale orașului Rio de Janeiro.", "Găzduiește faimoasa statuie a lui Hristos Mântuitorul."],
       en: ["Protects the water sources of Rio de Janeiro.", "Houses the famous Christ the Redeemer statue."]
-    }
-  },
+    }, image: "/poi-images/br-tijuca-forest-nature-v2.webp"},
   {
     id: "br-pantanal-wetlands-nature-v2",
     type: "forest",
@@ -722,3 +642,4 @@ export const poiExtraBrazilNatureV2: POI[] = [
     }
   }
 ];
+

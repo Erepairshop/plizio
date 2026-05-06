@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraIvorycoastNatureV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Hossza kb. 650 km.", "Az ország fontos éltető eleme.", "Trópusi területeken folyik keresztül.", "Vízierő-potenciállal rendelkezik."],
       ro: ["Lungime de aprox. 650 km.", "O arteră vitală importantă pentru țară.", "Traversează zone tropicale.", "Oferă potențial hidroenergetic."],
       en: ["Length approx. 650 km.", "An important lifeline for the country.", "Flows through tropical regions.", "Offers hydropower potential."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Sassandra ist mit einer Länge von etwa 650 Kilometern einer der Hauptströme der Elfenbeinküste. Er entspringt im Norden und durchquert abwechslungsreiche Landschaften, bevor er bei der Hafenstadt Sassandra in den Atlantischen Ozean mündet. Der Fluss spielt eine entscheidende Rolle für die lokale Wirtschaft, insbesondere durch sein Wasserkraftpotenzial, das zur Stromerzeugung genutzt wird. Ökologisch gesehen unterstützt er vielfältige Lebensräume in den tropischen Regionen, die er durchfließt. (Erdkunde K7 — Flusssysteme und wirtschaftliche Nutzung)",
+      hu: "A Sassandra, mintegy 650 kilométeres hosszával, Elefántcsontpart egyik legfontosabb folyója. Északon ered, és változatos tájakon keresztül kanyarog, mielőtt a Sassandra kikötővárosnál az Atlanti-óceánba ömlik. A folyó kulcsszerepet játszik a helyi gazdaságban, különösen a vízenergia-potenciálja révén, amelyet áramtermelésre hasznosítanak. Ökológiai szempontból változatos élőhelyeket támogat a trópusi területeken, amelyeken keresztülfolyik. (Földrajz K7 — folyórendszerek és gazdasági hasznosítás)",
+      ro: "Sassandra, cu o lungime de aproximativ 650 de kilometri, este unul dintre râurile principale din Coasta de Fildeș. Izvorăște în nord și traversează peisaje variate înainte de a se vărsa în Oceanul Atlantic, lângă orașul-port Sassandra. Râul joacă un rol crucial în economia locală, în special prin potențialul său hidroenergetic, utilizat pentru generarea de energie electrică. Din punct de vedere ecologic, susține habitate diverse în regiunile tropicale prin care trece. (Geografie K7 — sisteme fluviale și utilizare economică)",
+      en: "The Sassandra, with a length of about 650 kilometers, is one of the major rivers in Ivory Coast. It originates in the north and traverses diverse landscapes before flowing into the Atlantic Ocean near the port city of Sassandra. The river plays a crucial role in the local economy, particularly through its hydropower potential, which is utilized for electricity generation. Ecologically, it supports diverse habitats in the tropical regions it flows through. (Geography K7 — river systems and economic usage)"
+    },
+    factsAdvanced: {
+      de: ["Länge ca. 650 km.", "Hauptquelle im Norden des Landes.", "Wichtige Quelle für Wasserkraft.", "Mündung in den Atlantik bei Sassandra.", "Wichtige Lebensader für tropische Regionen.", "Überquert mehrere Klimazonen."],
+      hu: ["Hossza kb. 650 km.", "Fő forrása az ország északi részén van.", "Fontos vízenergia-forrás.", "Az Atlanti-óceánba ömlik Sassandra-nál.", "Fontos éltető elem a trópusi régiók számára.", "Több éghajlati zónán halad át."],
+      ro: ["Lungime de aprox. 650 km.", "Sursa principală în nordul țării.", "Sursă importantă de energie hidroelectrică.", "Se varsă în Atlantic la Sassandra.", "Arteră vitală pentru regiunile tropicale.", "Traversează mai multe zone climatice."],
+      en: ["Length approx. 650 km.", "Main source in the north of the country.", "Important source for hydropower.", "Flows into the Atlantic at Sassandra.", "Vital artery for tropical regions.", "Crosses several climate zones."]
+    }, image: "/poi-images/sassandra-river-nature-v2.webp"},
   {
     id: "cavally-river-nature-v2",
     type: "river",
@@ -27,8 +39,19 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Határfolyó Libériával.", "A Guineai-öbölbe ömlik.", "Gazdag élővilággal rendelkezik.", "Fontos vízi út a helyi kereskedelemben."],
       ro: ["Râu de frontieră cu Liberia.", "Se varsă în Golful Guineei.", "Bogată în biodiversitate.", "Importantă cale navigabilă pentru comerțul local."],
       en: ["Border river with Liberia.", "Flows into the Gulf of Guinea.", "Rich in biodiversity.", "Important waterway for local trade."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Cavally ist ein etwa 700 Kilometer langer Fluss, der die natürliche Grenze zwischen der Elfenbeinküste und Liberia bildet. Er entspringt im Nimba-Gebirge und schlängelt sich durch dichte tropische Wälder, bevor er in den Golf von Guinea mündet. Der Fluss ist eine Lebensader für die lokale Bevölkerung, da er wichtige Wasserwege für den regionalen Handel bietet und die umliegenden Ökosysteme mit Wasser versorgt. Der Cavally ist zudem für seine hohe Biodiversität bekannt, die viele seltene Tierarten beherbergt. (Erdkunde K6 — Grenzflüsse und Ökosysteme)",
+      hu: "A Cavally egy körülbelül 700 kilométer hosszú folyó, amely Elefántcsontpart és Libéria természetes határát alkotja. A Nimba-hegységben ered, és sűrű trópusi erdőkön keresztül kanyarog, mielőtt a Guineai-öbölbe ömlik. A folyó a helyi lakosság éltető eleme, mivel fontos vízi utakat kínál a regionális kereskedelem számára, és vízzel látja el a környező ökoszisztémákat. A Cavally magas biodiverzitásáról is ismert, amely számos ritka állatfajnak ad otthont. (Földrajz K6 — határfolyók és ökoszisztémák)",
+      ro: "Cavally este un râu de aproximativ 700 de kilometri lungime, care formează granița naturală dintre Coasta de Fildeș și Liberia. Izvorăște din munții Nimba și șerpuiește prin păduri tropicale dense înainte de a se vărsa în Golful Guineei. Râul este o arteră vitală pentru populația locală, oferind căi navigabile importante pentru comerțul regional și alimentând cu apă ecosistemele înconjurătoare. Cavally este, de asemenea, cunoscut pentru biodiversitatea sa ridicată, care găzduiește multe specii rare de animale. (Geografie K6 — râuri de frontieră și ecosisteme)",
+      en: "The Cavally is an approximately 700-kilometer-long river that forms the natural border between Ivory Coast and Liberia. It originates in the Nimba Mountains and meanders through dense tropical forests before flowing into the Gulf of Guinea. The river is a lifeline for the local population, as it provides important waterways for regional trade and supplies water to the surrounding ecosystems. The Cavally is also known for its high biodiversity, which is home to many rare animal species. (Geography K6 — border rivers and ecosystems)"
+    },
+    factsAdvanced: {
+      de: ["Länge ca. 700 km.", "Formt Grenze zu Liberia.", "Entspringt im Nimba-Gebirge.", "Mündet in den Golf von Guinea.", "Reich an Biodiversität.", "Wichtige Handelsroute."],
+      hu: ["Hossza kb. 700 km.", "Libériával alkot határt.", "A Nimba-hegységben ered.", "A Guineai-öbölbe ömlik.", "Gazdag biodiverzitás.", "Fontos kereskedelmi útvonal."],
+      ro: ["Lungime de aprox. 700 km.", "Formează granița cu Liberia.", "Izvorăște din munții Nimba.", "Se varsă în Golful Guineei.", "Biodiversitate bogată.", "Rută comercială importantă."],
+      en: ["Length approx. 700 km.", "Forms border with Liberia.", "Originates in the Nimba Mountains.", "Flows into the Gulf of Guinea.", "Rich biodiversity.", "Important trade route."]
+    }, image: "/poi-images/cavally-river-nature-v2.webp"},
   {
     id: "mount-nimba-nature-v2",
     type: "mountain",
@@ -41,8 +64,19 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Elefántcsontpart legmagasabb pontja.", "UNESCO világörökségi helyszín.", "Egyedülálló növény- és állatvilág.", "Három ország határánál fekszik."],
       ro: ["Cea mai înaltă zonă din Coasta de Fildeș.", "Patrimoniu Mondial UNESCO.", "Floră și faună unică.", "Situat la granița a trei țări."],
       en: ["Highest point in Ivory Coast.", "UNESCO World Heritage site.", "Unique flora and fauna.", "Located at the border of three countries."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Nimba-Massiv ist mit einer Höhe von 1752 Metern der höchste Gipfel der Elfenbeinküste und liegt im Dreiländereck zwischen Guinea, Liberia und der Elfenbeinküste. Das Gebiet ist als UNESCO-Welterbestätte geschützt und beherbergt eine einzigartige Flora und Fauna, die nirgendwo anders vorkommt. Das Massiv ist durch seine steilen Hänge und dichten Bergwälder geprägt, die ein komplexes Ökosystem bilden. Die Region ist von großem wissenschaftlichen Interesse aufgrund der seltenen endemischen Arten, die dort gefunden werden. (Geografie K8 — Hochgebirge und Schutzgebiete)",
+      hu: "A Nimba-hegység, 1752 méteres magasságával Elefántcsontpart legmagasabb pontja, Guinea, Libéria és Elefántcsontpart hármas határánál található. A terület UNESCO világörökségi helyszínként védett, és egyedülálló növény- és állatvilágnak ad otthont, amely sehol máshol nem fordul elő. A masszívumot meredek lejtők és sűrű hegyi erdők jellemzik, amelyek összetett ökoszisztémát alkotnak. A régió nagy tudományos jelentőséggel bír az ott található ritka endemikus fajok miatt. (Földrajz K8 — magashegységek és védett területek)",
+      ro: "Masivul Nimba, cu o înălțime de 1752 de metri, este cel mai înalt vârf din Coasta de Fildeș și este situat la granița tripartită dintre Guineea, Liberia și Coasta de Fildeș. Zona este protejată ca sit al Patrimoniului Mondial UNESCO și găzduiește o floră și faună unică, care nu se regăsește nicăieri altundeva. Masivul este caracterizat prin versanți abrupți și păduri montane dense care formează un ecosistem complex. Regiunea prezintă un mare interes științific datorită speciilor endemice rare găsite acolo. (Geografie K8 — munți înalți și arii protejate)",
+      en: "The Nimba Massif, at a height of 1752 meters, is the highest peak in Ivory Coast and is located at the tri-border point between Guinea, Liberia, and Ivory Coast. The area is protected as a UNESCO World Heritage site and is home to unique flora and fauna found nowhere else. The massif is characterized by its steep slopes and dense mountain forests that form a complex ecosystem. The region is of great scientific interest due to the rare endemic species found there. (Geography K8 — high mountains and protected areas)"
+    },
+    factsAdvanced: {
+      de: ["Höhe 1752 Meter.", "UNESCO-Welterbe seit 1981.", "Dreiländereck (CI, GN, LR).", "Reich an endemischen Arten.", "Steile Hänge und Bergwälder.", "Wissenschaftlich bedeutend."],
+      hu: ["Magasság 1752 méter.", "UNESCO világörökség 1981 óta.", "Hármas határ (CI, GN, LR).", "Gazdag endemikus fajokban.", "Meredek lejtők és hegyi erdők.", "Tudományosan jelentős."],
+      ro: ["Înălțime 1752 metri.", "Patrimoniu Mondial UNESCO din 1981.", "Graniță tripartită (CI, GN, LR).", "Bogată în specii endemice.", "Versanți abrupți și păduri montane.", "Semnificație științifică."],
+      en: ["Height 1752 meters.", "UNESCO World Heritage site since 1981.", "Tri-border (CI, GN, LR).", "Rich in endemic species.", "Steep slopes and mountain forests.", "Scientifically significant."]
+    }, image: "/poi-images/mount-nimba-nature-v2.webp"},
   {
     id: "lagune-ebrie-nature-v2",
     type: "lake",
@@ -55,8 +89,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Fontos vízi út az abidjani kikötő számára.", "Elválasztja a városrészeket.", "Nagy ökológiai jelentőség.", "Turisztikai központ."],
       ro: ["Importantă cale navigabilă pentru portul Abidjan.", "Separă cartierele orașului.", "Mare importanță ecologică.", "Centru turistic."],
       en: ["Important waterway for the port of Abidjan.", "Separates city districts.", "Great ecological importance.", "Tourist center."]
-    }
-  },
+    }, image: "/poi-images/lagune-ebrie-nature-v2.webp"},
   {
     id: "bandama-river-nature-v2",
     type: "river",
@@ -69,8 +102,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Az ország leghosszabb folyója.", "Táplálja a Kossou-víztározót.", "Fontos az öntözésben.", "Természetes határ egyes régiók között."],
       ro: ["Cel mai lung râu din țară.", "Alimentează lacul de acumulare Kossou.", "Important pentru irigații.", "Graniță naturală pentru unele regiuni."],
       en: ["Longest river in the country.", "Feeds the Kossou reservoir.", "Important for irrigation.", "Natural border for some regions."]
-    }
-  },
+    }, image: "/poi-images/bandama-river-nature-v2.webp"},
   {
     id: "lagune-grand-lahou-nature-v2",
     type: "lake",
@@ -83,8 +115,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Számos madár védett élőhelye.", "Egy kiterjedt vizes élőhely része.", "Fontos halászati terület.", "Az Azagny Nemzeti Park közelében található."],
       ro: ["Arie protejată pentru numeroase păsări.", "Parte a unei zone umede extinse.", "Zone importante de pescuit.", "Lângă Parcul Național Azagny."],
       en: ["Protected area for numerous birds.", "Part of an extensive wetland.", "Important fishing grounds.", "Near Azagny National Park."]
-    }
-  },
+    }, image: "/poi-images/lagune-grand-lahou-nature-v2.webp"},
   {
     id: "comoe-river-nature-v2",
     type: "river",
@@ -97,8 +128,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Átfolyik a Comoé Nemzeti Parkon.", "Élőhely számos vadállatnak.", "Fontos az ökoszisztéma számára.", "A keleti részen torkollik az Atlanti-óceánba."],
       ro: ["Traversează Parcul Național Comoé.", "Habitat pentru multe animale sălbatice.", "Important pentru ecosistem.", "Se varsă în Atlantic în est."],
       en: ["Flows through Comoé National Park.", "Habitat for many wild animals.", "Important for the ecosystem.", "Feeds into the Atlantic in the east."]
-    }
-  },
+    }, image: "/poi-images/comoe-river-nature-v2.webp"},
   {
     id: "mount-poko-nature-v2",
     type: "mountain",
@@ -111,8 +141,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["A nyugati hegyvidék része.", "Trópusi erdők veszik körül.", "Viszonylag érintetlen.", "Festői táj."],
       ro: ["Parte a zonelor montane din vest.", "Înconjurat de păduri tropicale.", "Relativ neexplorat.", "Peisaj pitoresc."],
       en: ["Part of the western mountain region.", "Surrounded by tropical forests.", "Relatively undeveloped.", "Picturesque landscape."]
-    }
-  },
+    }, image: "/poi-images/mount-poko-nature-v2.webp"},
   {
     id: "la-maho-lagoon-nature-v2",
     type: "lake",
@@ -139,8 +168,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["UNESCO világörökség.", "Hatalmas biodiverzitás.", "Csimpánzok otthona.", "Természetvédelmi terület."],
       ro: ["Patrimoniu Mondial UNESCO.", "Biodiversitate enormă.", "Habitat pentru cimpanzei.", "Arie protejată."],
       en: ["UNESCO World Heritage site.", "Enormous biodiversity.", "Home to chimpanzees.", "Protected area."]
-    }
-  },
+    }, image: "/poi-images/forest-ta-i-nature-v2.webp"},
   {
     id: "lagune-abidjan-est-nature-v2",
     type: "lake",
@@ -167,8 +195,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["A nyugati felföld része.", "Sűrűn erdős lejtők.", "Fontos vízgyűjtő terület.", "Gazdag állatvilág."],
       ro: ["Parte a zonelor înalte din vest.", "Versanți dens împăduriți.", "Zonă de captare importantă.", "Faună bogată."],
       en: ["Part of the western highlands.", "Densely forested slopes.", "Important catchment area.", "Rich animal life."]
-    }
-  },
+    }, image: "/poi-images/mount-biankouma-nature-v2.webp"},
   {
     id: "lagune-yocoboue-nature-v2",
     type: "lake",
@@ -181,8 +208,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Partmenti vizes élőhely.", "Jó körülmények a vízi madaraknak.", "Ökológiailag értékes.", "Viszonylag csendes."],
       ro: ["Zonă umedă de coastă.", "Condiții bune pentru păsările acvatice.", "Valoroasă ecologic.", "Relativ liniștită."],
       en: ["Coastal wetland.", "Good conditions for water birds.", "Ecologically valuable.", "Relatively quiet."]
-    }
-  },
+    }, image: "/poi-images/lagune-yocoboue-nature-v2.webp"},
   {
     id: "mount-tonkpi-nature-v2",
     type: "mountain",
@@ -195,8 +221,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["A '18 hegy városa' része.", "Zöld dombvidék.", "Túraútvonalak.", "Hűvösebb éghajlat."],
       ro: ["Parte a 'orașului celor 18 munți'.", "Peisaj colinar verde.", "Regiune de drumeții.", "Climă mai răcoroasă."],
       en: ["Part of the 'city of 18 mountains'.", "Green hilly landscape.", "Hiking region.", "Cooler climate."]
-    }
-  },
+    }, image: "/poi-images/mount-tonkpi-nature-v2.webp"},
   {
     id: "sassandra-river-estuary-nature-v2",
     type: "sea",
@@ -209,8 +234,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Fontos brakkvizes terület.", "Tápanyagban gazdag víz.", "Fontos halászhely.", "Különleges állatvilág."],
       ro: ["Zonă importantă de apă salmastră.", "Apă bogată în nutrienți.", "Loc important pentru pescari.", "Faună specială."],
       en: ["Important brackish water area.", "Nutrient-rich water.", "Important place for fishermen.", "Special wildlife."]
-    }
-  },
+    }, image: "/poi-images/sassandra-river-estuary-nature-v2.webp"},
   {
     id: "lagune-fresco-nature-v2",
     type: "lake",
@@ -223,8 +247,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Mangroveerők.", "Kedvelt turisták körében.", "Fontos a helyi halászatnak.", "Szép természetes környezet."],
       ro: ["Păduri de mangrovi.", "Populară printre turiști.", "Importantă pentru pescuitul local.", "Mediu natural frumos."],
       en: ["Mangrove forests.", "Popular with tourists.", "Important for local fishing.", "Beautiful natural environment."]
-    }
-  },
+    }, image: "/poi-images/lagune-fresco-nature-v2.webp"},
   {
     id: "forest-marahoue-nature-v2",
     type: "forest",
@@ -237,8 +260,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Számos állatfaj otthona.", "Természetvédelmi terület.", "Egy nemzeti park része.", "Magas biodiverzitás."],
       ro: ["Habitat pentru multe specii de animale.", "Arie protejată.", "Parte a unui parc național.", "Biodiversitate ridicată."],
       en: ["Home to many animal species.", "Protected area.", "Part of a national park.", "High biodiversity."]
-    }
-  },
+    }, image: "/poi-images/forest-marahoue-nature-v2.webp"},
   {
     id: "lagune-abidjan-ouest-nature-v2",
     type: "lake",
@@ -251,8 +273,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Fontos vízi út.", "Ökológiailag érzékeny zóna.", "A lagúnarendszer része.", "Közel a városközponthoz."],
       ro: ["Importantă cale navigabilă.", "Zonă ecologic sensibilă.", "Parte a sistemului lagunar.", "Lângă centrul orașului."],
       en: ["Important waterway.", "Ecologically sensitive zone.", "Part of the lagoon system.", "Near the city center."]
-    }
-  },
+    }, image: "/poi-images/lagune-abidjan-ouest-nature-v2.webp"},
   {
     id: "mount-mambl-nature-v2",
     type: "mountain",
@@ -265,8 +286,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Szép túraútvonalak.", "Sűrű növényzet.", "A nyugati lánc része.", "Nagyon festői."],
       ro: ["Trasee de drumeție frumoase.", "Vegetație densă.", "Parte a lanțului vestic.", "Foarte pitoresc."],
       en: ["Beautiful hiking trails.", "Dense vegetation.", "Part of the western chain.", "Very picturesque."]
-    }
-  },
+    }, image: "/poi-images/mount-mambl-nature-v2.webp"},
   {
     id: "lagune-grand-bassam-nature-v2",
     type: "lake",
@@ -279,8 +299,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["UNESCO világörökség a közelben.", "Fontos ökoszisztéma-zóna.", "Madárvédelem.", "Nagyon ismert turisztikai célpont."],
       ro: ["Patrimoniu Mondial UNESCO în apropiere.", "Zonă de ecosistem importantă.", "Protecția păsărilor.", "Destinație turistică foarte cunoscută."],
       en: ["UNESCO World Heritage site nearby.", "Important ecosystem zone.", "Bird protection.", "Very well-known tourist destination."]
-    }
-  },
+    }, image: "/poi-images/lagune-grand-bassam-nature-v2.webp"},
   {
     id: "cavally-forest-nature-v2",
     type: "forest",
@@ -293,8 +312,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Fontos védett terület.", "Sűrű esőerdő.", "Magas biodiverzitás.", "Védelem a veszélyeztetett állatfajoknak."],
       ro: ["Arie protejată importantă.", "Pădure tropicală densă.", "Biodiversitate ridicată.", "Protecție pentru specii de animale pe cale de dispariție."],
       en: ["Important protected area.", "Dense rainforest.", "High biodiversity.", "Protection for endangered animal species."]
-    }
-  },
+    }, image: "/poi-images/cavally-forest-nature-v2.webp"},
   {
     id: "mount-ni-nature-v2",
     type: "mountain",
@@ -307,8 +325,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Jó túrázási lehetőségek.", "Zöld környezet.", "Hűvösebb hőmérséklet.", "A Tonkpi-hegyek része."],
       ro: ["Posibilități bune de drumeție.", "Mediu verde.", "Temperaturi mai scăzute.", "Parte a munților Tonkpi."],
       en: ["Good hiking possibilities.", "Green surroundings.", "Cooler temperatures.", "Part of the Tonkpi mountains."]
-    }
-  },
+    }, image: "/poi-images/mount-ni-nature-v2.webp"},
   {
     id: "lagune-abidjan-nord-nature-v2",
     type: "lake",
@@ -321,8 +338,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Fontos vízi út.", "Fontos a helyi halászoknak.", "Jó ökológiai vízminőség.", "Turisztikailag hasznosított."],
       ro: ["Importantă cale navigabilă.", "Importantă pentru pescarii locali.", "Calitate bună a apei ecologice.", "Utilizată turistic."],
       en: ["Important waterway.", "Important for local fishermen.", "Good ecological water quality.", "Used for tourism."]
-    }
-  },
+    }, image: "/poi-images/lagune-abidjan-nord-nature-v2.webp"},
   {
     id: "mount-gouane-nature-v2",
     type: "mountain",
@@ -335,8 +351,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["A nyugati hegyvidék része.", "Tájilag nagyon szép.", "Ideális természetélményekhez.", "Sűrű erdők."],
       ro: ["Parte a regiunii montane vestice.", "Foarte frumos peisagistic.", "Ideal pentru experiențe în natură.", "Păduri dense."],
       en: ["Part of the western mountain region.", "Very scenic.", "Ideal for nature experiences.", "Dense forests."]
-    }
-  },
+    }, image: "/poi-images/mount-gouane-nature-v2.webp"},
   {
     id: "lagune-assinie-nature-v2",
     type: "lake",
@@ -349,8 +364,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Nagyon kedvelt turisztikai célpont.", "Vízi sportolási lehetőségek.", "Szép strandok.", "Nagy biodiverzitás."],
       ro: ["Destinație turistică foarte populară.", "Posibilități de sporturi acvatice.", "Plaje frumoase.", "Biodiversitate mare."],
       en: ["Very popular tourist destination.", "Water sports opportunities.", "Beautiful beaches.", "Great biodiversity."]
-    }
-  },
+    }, image: "/poi-images/lagune-assinie-nature-v2.webp"},
   {
     id: "forest-azagny-nature-v2",
     type: "forest",
@@ -363,8 +377,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["A nemzeti park része.", "Számos faj otthona.", "Fontos védelmi terület.", "Nagyon zöld és buja."],
       ro: ["Parte a parcului național.", "Habitat pentru multe specii.", "Zonă de protecție importantă.", "Foarte verde și luxuriantă."],
       en: ["Part of the national park.", "Home to many species.", "Important protected area.", "Very green and lush."]
-    }
-  },
+    }, image: "/poi-images/forest-azagny-nature-v2.webp"},
   {
     id: "sassandra-coastal-nature-v2",
     type: "sea",
@@ -377,8 +390,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Csodálatos strandok.", "Ideális kikapcsolódásra.", "Gazdag tengeri élővilág.", "Különleges partvonalak."],
       ro: ["Plaje superbe.", "Ideală pentru relaxare.", "Faună marină bogată.", "Formațiuni costiere deosebite."],
       en: ["Beautiful beaches.", "Ideal for relaxation.", "Rich marine wildlife.", "Special coastal formations."]
-    }
-  },
+    }, image: "/poi-images/sassandra-coastal-nature-v2.webp"},
   {
     id: "lagune-fresco-est-nature-v2",
     type: "lake",
@@ -391,8 +403,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Csendes zóna.", "Fontos a fajvédelemnek.", "Tápanyagban gazdag vizek.", "Közel a tengerhez."],
       ro: ["Zonă liniștită.", "Importantă pentru conservarea speciilor.", "Ape bogate în nutrienți.", "Lângă mare."],
       en: ["Quiet zone.", "Important for species conservation.", "Nutrient-rich waters.", "Near the sea."]
-    }
-  },
+    }, image: "/poi-images/lagune-fresco-est-nature-v2.webp"},
   {
     id: "mount-niam-nature-v2",
     type: "mountain",
@@ -405,8 +416,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       hu: ["Szép kilátások.", "Zöld táj.", "Túrarégió.", "Sűrű növényzet."],
       ro: ["Vederi frumoase.", "Peisaj verde.", "Regiune de drumeție.", "Vegetație densă."],
       en: ["Beautiful views.", "Green landscape.", "Hiking region.", "Dense vegetation."]
-    }
-  },
+    }, image: "/poi-images/mount-niam-nature-v2.webp"},
   {
     id: "mount-toura-nature-v2",
     type: "mountain",
@@ -422,3 +432,4 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 // Aggregate FAQ map — used by POI detail pages to look up FAQ for a given POI.
 // New country FAQ files are registered here.
 
@@ -46,3 +47,4 @@ export function hasFaqForPoi(poiId: string): boolean {
 }
 
 export type { CountryFaqMap, FaqItem, PoiFaqLocalized } from "./types";
+

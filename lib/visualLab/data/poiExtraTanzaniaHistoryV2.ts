@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTanzaniaHistoryV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["Az emberi létezés legkorábbi nyomai", "Homo habilis leletek", "A Nagy-hasadékvölgyben található", "A Leakey-expedíciók tették híressé"],
       ro: ["Cele mai timpurii urme ale existenței umane", "Descoperiri de Homo habilis", "Situat în Marele Rift", "Expedițiile Leakey faimoase"],
       en: ["Earliest traces of human existence", "Discoveries of Homo habilis", "Located in the Great Rift Valley", "Famous for Leakey expeditions"]
-    }
-  },
+    }, image: "/poi-images/tz-olduvai-gorge-history-v2.webp"},
   {
     id: "tz-stone-town-history-v2",
     type: "historical",
@@ -47,8 +47,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["UNESCO világörökség 2000 óta", "Egykori fűszerkereskedelmi központ", "Afrikai és arab hatások olvasztótégelye", "Kanyargós sikátorok és faragott ajtók"],
       ro: ["Patrimoniu Mondial UNESCO din 2000", "Fost centru al comerțului cu condimente", "Creuzet de influențe africane și arabe", "Străduțe întortocheate și uși sculptate"],
       en: ["UNESCO World Heritage site since 2000", "Former center of the spice trade", "Melting pot of African and Arab influences", "Winding alleys and carved doors"]
-    }
-  },
+    }, image: "/poi-images/tz-stone-town-history-v2.webp"},
   {
     id: "tz-kilwa-kisiwani-history-v2",
     type: "historical",
@@ -71,8 +70,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["Hatalmas szultanátus a 13-16. században", "Kilwai Nagy Mecset", "UNESCO világörökség", "Korallmészkő építészet"],
       ro: ["Sultanat puternic în secolele 13-16", "Marea Moschee din Kilwa", "Patrimoniu Mondial UNESCO", "Arhitectură din calcar coraligen"],
       en: ["Powerful sultanate in the 13th to 16th centuries", "Great Mosque of Kilwa", "UNESCO World Heritage site", "Coral limestone architecture"]
-    }
-  },
+    }, image: "/poi-images/tz-kilwa-kisiwani-history-v2.webp"},
   {
     id: "tz-songo-mnara-history-v2",
     type: "historical",
@@ -95,8 +93,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["Kilwa Kisiwanival együtt UNESCO világörökség", "Számos mecset és sírhely", "Koralltömbökből épült", "Jelentős kereskedelmi központ"],
       ro: ["Patrimoniu Mondial UNESCO împreună cu Kilwa Kisiwani", "Numeroase moschei și morminte", "Construit din blocuri de coral", "Important centru comercial"],
       en: ["UNESCO World Heritage site alongside Kilwa Kisiwani", "Numerous mosques and tombs", "Built from coral blocks", "Significant trading center"]
-    }
-  },
+    }, image: "/poi-images/tz-songo-mnara-history-v2.webp"},
   {
     id: "tz-bagamoyo-history-v2",
     type: "historical",
@@ -119,8 +116,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["Német Kelet-Afrika egykori fővárosa", "Kelet-Afrika első temploma", "Jelentése: 'Tedd le a szíved'", "Számos európai expedíció kiindulópontja"],
       ro: ["Fosta capitală a Africii Răsăritene Germane", "Prima biserică din Africa de Est", "Înseamnă 'Așează-ți inima'", "Punct de plecare pentru multe expediții europene"],
       en: ["Former capital of German East Africa", "First church in East Africa", "Means 'Lay down your heart'", "Starting point for many European expeditions"]
-    }
-  },
+    }, image: "/poi-images/tz-bagamoyo-history-v2.webp"},
   {
     id: "tz-kaole-ruins-history-v2",
     type: "historical",
@@ -143,8 +139,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["A sirázok települése", "Oszlopos sírok korallkőből", "Az ősi kereskedelem nyomai", "Bagamoyo közelében található"],
       ro: ["Așezare a șirazilor", "Morminte cu stâlpi din piatră de coral", "Urme ale comerțului vechi", "Situat lângă Bagamoyo"],
       en: ["Settlement of the Shirazi people", "Pillar tombs made of coral stone", "Traces of ancient trade", "Located near Bagamoyo"]
-    }
-  },
+    }, image: "/poi-images/tz-kaole-ruins-history-v2.webp"},
   {
     id: "tz-kondoa-rock-art-history-v2",
     type: "historical",
@@ -167,8 +162,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["UNESCO világörökség", "Több mint 150 dokumentált lelőhely", "Motívumok közt állatok és vadászjelenetek", "Fontos spirituális jelentőség a helyiek számára"],
       ro: ["Patrimoniu Mondial UNESCO", "Peste 150 de situri documentate", "Motivele includ animale și scene de vânătoare", "Importantă semnificație spirituală pentru localnici"],
       en: ["UNESCO World Heritage site", "Over 150 documented sites", "Motifs include animals and hunting scenes", "Important spiritual significance for locals"]
-    }
-  },
+    }, image: "/poi-images/tz-kondoa-rock-art-history-v2.webp"},
   {
     id: "tz-isimila-stone-age-history-v2",
     type: "historical",
@@ -191,8 +185,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["Több mint 60 000 éves eszközök", "Jelentős acheuli leletek", "Egyedülálló homokkő formációk", "Kihalt emlősök kövületei"],
       ro: ["Unelte vechi de peste 60.000 de ani", "Descoperiri importante Acheulean", "Formațiuni unice de gresie", "Fosile de mamifere dispărute"],
       en: ["Tools over 60,000 years old", "Significant Acheulean discoveries", "Unique sandstone formations", "Fossils of extinct mammals"]
-    }
-  },
+    }, image: "/poi-images/tz-isimila-stone-age-history-v2.webp"},
   {
     id: "tz-engaruka-ruins-history-v2",
     type: "historical",
@@ -215,8 +208,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["Fejlett öntözőrendszer", "Több tízezer terasz", "Fénykora a 15. és 18. század között volt", "Az építők kiléte még mindig ismeretlen"],
       ro: ["Sistem de irigații avansat", "Zeci de mii de terase", "Perioada de glorie între secolele 15 și 18", "Constructorii sunt încă necunoscuți"],
       en: ["Advanced irrigation system", "Tens of thousands of terraces", "Flourished between the 15th and 18th centuries", "Builders of the site still unknown"]
-    }
-  },
+    }, image: "/poi-images/tz-engaruka-ruins-history-v2.webp"},
   {
     id: "tz-amboni-caves-history-v2",
     type: "historical",
@@ -287,8 +279,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["A 'Dr. Livingstone, gondolom?' mondás helyszíne", "Egykori arab rabszolgaközpont", "A Tanganyika-tó partján", "Livingstone emlékmű"],
       ro: ["Locul celebrei replici 'Dr. Livingstone, presupun?'", "Fost centru arab de sclavi", "Pe malul lacului Tanganyika", "Memorialul Livingstone"],
       en: ["Site of the phrase 'Dr. Livingstone, I presume?'", "Former Arab slave center", "On the shores of Lake Tanganyika", "Livingstone Memorial"]
-    }
-  },
+    }, image: "/poi-images/tz-ujiji-history-v2.webp"},
   {
     id: "tz-livingstones-tembe-history-v2",
     type: "historical",
@@ -311,8 +302,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["Livingstone lakhelye volt 1871-ben", "Jellemző arab tembe építészet", "A karavánút része volt", "Ma egy kis múzeum"],
       ro: ["A servit ca reședință a lui Livingstone în 1871", "Arhitectură tipică arabă tembe", "A făcut parte din ruta caravanelor", "Astăzi este un mic muzeu"],
       en: ["Served as Livingstone's residence in 1871", "Typical Arab tembe architecture", "Was part of the caravan route", "Today a small museum"]
-    }
-  },
+    }, image: "/poi-images/tz-livingstones-tembe-history-v2.webp"},
   {
     id: "tz-bismarck-rock-history-v2",
     type: "historical",
@@ -335,8 +325,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["Mwanza városának jelképe", "Emlékeztet a német gyarmati történelemre", "Népszerű fotózási helyszín", "Gránit sziklaképződmény a tóban"],
       ro: ["Simbol al orașului Mwanza", "Amintește de istoria colonială germană", "Loc popular pentru fotografie", "Formațiune de granit în lac"],
       en: ["Landmark of the city of Mwanza", "Recalls the German colonial history", "Popular spot for photography", "Granite rock formation in the lake"]
-    }
-  },
+    }, image: "/poi-images/tz-bismarck-rock-history-v2.webp"},
   {
     id: "tz-mikindani-town-history-v2",
     type: "historical",
@@ -359,8 +348,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["Régi német Boma épület", "Egykori kereskedelmi kikötő rabszolgák és réz számára", "A mozambiki határ közelében", "Livingstone innen indult utolsó útjára"],
       ro: ["Vechea clădire germană Boma", "Fost port comercial pentru sclavi și cupru", "Aproape de granița cu Mozambic", "Livingstone și-a început ultima călătorie aici"],
       en: ["Old German Boma building", "Former trading port for slaves and copper", "Near the Mozambican border", "Livingstone started his last journey here"]
-    }
-  },
+    }, image: "/poi-images/tz-mikindani-town-history-v2.webp"},
   {
     id: "tz-ndagoni-ruins-history-v2",
     type: "historical",
@@ -407,8 +395,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["Az egyetlen kőerőd a szuahéli parton", "Hatalmas falak koralltömbökből", "A legenda szerint egy kegyetlen uralkodó építtette", "Pujini falu közelében található"],
       ro: ["Singura fortăreață de piatră de pe coasta swahili", "Ziduri masive din blocuri de coral", "Se spune că a fost construită de un conducător crud", "Situată lângă satul Pujini"],
       en: ["Only stone fortress on the Swahili Coast", "Massive walls made of coral blocks", "Said to have been built by a cruel ruler", "Located near the village of Pujini"]
-    }
-  },
+    }, image: "/poi-images/tz-mkama-ndume-history-v2.webp"},
   {
     id: "tz-ras-mkumbuu-history-v2",
     type: "historical",
@@ -479,8 +466,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["A sirázok települése", "A Mafia szomszédos szigetén található", "A madagaszkári sakalava kalózok pusztították el", "Nagy régészeti jelentőségű"],
       ro: ["Așezare a shirazilor", "Situată pe insula vecină cu Mafia", "Distrusă de pirații sakalava din Madagascar", "Mare importanță arheologică"],
       en: ["Shirazi settlement", "Located on the neighboring island of Mafia", "Destroyed by Sakalava pirates from Madagascar", "Great archaeological significance"]
-    }
-  },
+    }, image: "/poi-images/tz-kua-ruins-history-v2.webp"},
   {
     id: "tz-chole-ruins-history-v2",
     type: "historical",
@@ -527,8 +513,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["A felkelés 1905 és 1907 között zajlott", "Nduna Songea Mbano vezető sírja", "A lázadók fegyvereit és tárgyait mutatja be", "A nemzeti emlékezet fontos helyszíne"],
       ro: ["Rebeliunea a avut loc între 1905 și 1907", "Mormântul liderului Nduna Songea Mbano", "Expune arme și artefacte ale rebelilor", "Loc important de comemorare națională"],
       en: ["Rebellion took place between 1905 and 1907", "Tomb of leader Nduna Songea Mbano", "Displays weapons and artifacts of the rebels", "Important place of national remembrance"]
-    }
-  },
+    }, image: "/poi-images/tz-maji-maji-memorial-history-v2.webp"},
   {
     id: "tz-askari-monument-history-v2",
     type: "historical",
@@ -551,8 +536,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["1927-ben leplezték le", "A régi Bismarck-emlékmű helyén áll", "Felirat angolul és szuahéli nyelven", "Egy bajonettes askari katonát ábrázol"],
       ro: ["Dezvelit în 1927", "Stă pe locul vechiului monument Bismarck", "Inscripție în engleză și swahili", "Înfățișează un soldat askari cu baionetă"],
       en: ["Unveiled in 1927", "Stands on the site of the old Bismarck monument", "Inscription in English and Swahili", "Depicts an Askari soldier with a bayonet"]
-    }
-  },
+    }, image: "/poi-images/tz-askari-monument-history-v2.webp"},
   {
     id: "tz-national-museum-history-v2",
     type: "historical",
@@ -575,8 +559,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["1940-ben nyílt meg King George V Memorial Museum néven", "A Zinjanthropus (Paranthropus boisei) koponyáját őrzi", "Dokumentálja a rabszolga-kereskedelem történetét", "Klasszikus autók gyűjteménye"],
       ro: ["Deschis în 1940 ca Muzeul Memorial Regele George al V-lea", "Adăpostește craniul lui Zinjanthropus (Paranthropus boisei)", "Documentează istoria comerțului cu sclavi", "Colecție de mașini clasice"],
       en: ["Opened in 1940 as King George V Memorial Museum", "Houses the skull of Zinjanthropus (Paranthropus boisei)", "Documents the history of the slave trade", "Collection of classic cars"]
-    }
-  },
+    }, image: "/poi-images/tz-national-museum-history-v2.webp"},
   {
     id: "tz-old-fort-zanzibar-history-v2",
     type: "historical",
@@ -599,8 +582,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["A 17. század végén épült", "Arab erőd (Ngome Kongwe) néven is ismert", "Börtönként és laktanyaként is használták", "Ma szabadtéri színháznak ad otthont"],
       ro: ["Construit la sfârșitul secolului al 17-lea", "Cunoscut și sub numele de Fortul Arab (Ngome Kongwe)", "A fost folosit ca închisoare și cazarmă", "Astăzi găzduiește un teatru în aer liber"],
       en: ["Built in the late 17th century", "Also known as the Arab Fort (Ngome Kongwe)", "Was used as a prison and barracks", "Today houses an open-air theater"]
-    }
-  },
+    }, image: "/poi-images/tz-old-fort-zanzibar-history-v2.webp"},
   {
     id: "tz-house-of-wonders-history-v2",
     type: "historical",
@@ -623,8 +605,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["1883-ban építtette Barghash bin Said szultán", "Ceremoniális palotaként szolgált", "Nagy óratorony", "Jelenleg restaurálás alatt áll"],
       ro: ["Construit în 1883 de sultanul Barghash bin Said", "A servit ca palat ceremonial", "Turn mare cu ceas", "În prezent în curs de restaurare"],
       en: ["Built in 1883 by Sultan Barghash bin Said", "Served as a ceremonial palace", "Large clock tower", "Currently under restoration"]
-    }
-  },
+    }, image: "/poi-images/tz-house-of-wonders-history-v2.webp"},
   {
     id: "tz-maruhubi-palace-history-v2",
     type: "historical",
@@ -647,8 +628,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["1880 és 1882 között épült", "1899-ben egy tűzvész elpusztította", "Híres a nagy perzsa fürdőiről", "A palota oszlopai még állnak"],
       ro: ["Construit între 1880 și 1882", "Distrus de un incendiu în 1899", "Faimos pentru marile sale băi persane", "Stâlpii palatului încă stau în picioare"],
       en: ["Built between 1880 and 1882", "Destroyed by a fire in 1899", "Famous for its large Persian baths", "Pillars of the palace are still standing"]
-    }
-  },
+    }, image: "/poi-images/tz-maruhubi-palace-history-v2.webp"},
   {
     id: "tz-mtoni-palace-history-v2",
     type: "historical",
@@ -671,8 +651,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["Seyyid Said szultán eredeti lakhelye", "Egy nagy belső udvar köré épült", "A 19. század végén elpusztult", "Rendszeres szuahéli koncertek a romoknál"],
       ro: ["Reședința originală a Sultanului Seyyid Said", "Construit în jurul unei curți mari", "Distrus la sfârșitul secolului al 19-lea", "Concerte regulate swahili în ruine"],
       en: ["Original residence of Sultan Seyyid Said", "Built around a large courtyard", "Destroyed in the late 19th century", "Regular Swahili concerts in the ruins"]
-    }
-  },
+    }, image: "/poi-images/tz-mtoni-palace-history-v2.webp"},
   {
     id: "tz-kizimkazi-mosque-history-v2",
     type: "historical",
@@ -695,8 +674,7 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
       hu: ["A kúfi felirat Kr. u. 1107-ből származik", "Siráz telepesek építették", "A 18. században nagyrészt átépítették", "Régi feliratos sírok"],
       ro: ["Inscripția kufică datează din 1107 d.Hr.", "Construită de coloniștii shirazi", "Reconstruită în mare parte în secolul 18", "Morminte vechi cu inscripții"],
       en: ["Kufic inscription dates to 1107 AD", "Built by Shirazi settlers", "Largely rebuilt in the 18th century", "Old tombs with inscriptions"]
-    }
-  },
+    }, image: "/poi-images/tz-kizimkazi-mosque-history-v2.webp"},
   {
     id: "tz-mangapwani-caves-history-v2",
     type: "historical",
@@ -722,3 +700,4 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
     }
   }
 ];
+

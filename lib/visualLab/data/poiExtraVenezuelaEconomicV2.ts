@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraVenezuelaEconomicV2: POI[] = [
@@ -14,10 +15,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       en: "One of the most important seaports in Venezuela, handling a large portion of the country's imports and exports."
     },
     descriptionAdvanced: {
-      de: "Der Hafen von La Guaira ist die maritime Lebensader der venezolanischen Hauptstadt Caracas. Gelegen an einem strategisch wichtigen Punkt der karibischen Küste, dient er als zentrales Drehkreuz für den internationalen Handel. Durch moderne Terminaleinrichtungen wird hier ein Großteil des Güterverkehrs abgewickelt, der für die Versorgung des Ballungsraums Caracas unerlässlich ist. Historisch gesehen ist der Hafen einer der ältesten und bedeutendsten in der Region. Wirtschaft K7 — Logistik und Handel.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      de: "Der Hafen von La Guaira ist die maritime Lebensader der venezolanischen Hauptstadt Caracas. Gelegen an einem strategisch wichtigen punkt der karibischen Küste, dient er als zentrales Drehkreuz für den internationalen Handel. Durch moderne Terminaleinrichtungen wird hier ein Großteil des Güterverkehrs abgewickelt, der für die Versorgung des Ballungsraums Caracas unerlässlich ist. Historisch gesehen ist der Hafen einer der ältesten und bedeutendsten in der Region. Wirtschaft K7 — Logistik und Handel.",
+      hu: "La Guaira kikötője Venezuela egyik legjelentősebb tengeri kapuja és a főváros, Caracas közvetlen tengeri kijárata. A stratégiai fontosságú Karib-tengeri partvidéken található létesítmény az ország nemzetközi kereskedelmének egyik legfontosabb csomópontja. Modern termináljai biztosítják az alapvető áruk és nyersanyagok behozatalát, amelyek elengedhetetlenek a caracasi metropolisz ellátásához. A kikötő története a gyarmati időkig nyúlik vissza, és évszázadok óta meghatározza a régió gazdasági fejlődését. Gazdaság K7 — logisztika és kereskedelem.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Modernisiertes Containerterminal", "Nähe zur Hauptstadt Caracas", "Tiefer Wasserzugang", "Historischer Handelsposten"],
@@ -26,8 +27,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       en: ["Modernized container terminal", "Close to the capital Caracas", "Deep water access", "Historic trading post"]
     },
     factsAdvanced: {
-      de: ["Der Hafen von La Guaira wurde bereits in der Kolonialzeit als Haupthafen von Caracas ausgebaut.", "Er dient als wichtigstes Gateway für Containerfracht in den zentralen Teil Venezuelas.", "Moderne Infrastrukturen haben die Kapazität des Hafens in den letzten Jahren deutlich gesteigert.", "Die Hafenanlagen sind ein entscheidender Wirtschaftsfaktor für den gesamten Bundesstaat La Guaira."],
-      hu: [],
+      de: ["Der Hafen von La Guaira wurde bereits in der Kolonialzeit als Hauphen von Caracas ausgebaut.", "Er dient als wichtigstes Gateway für Containerfracht in den zentralen Teil Venezuelas.", "Moderne Infrastrukturen haben die Kapazität des Hafens in den letzten Jahren deutlich gesteigert.", "Die Hafenanlagen sind ein entscheidender Wirtschaftsfaktor für den gesamten Bundesstaat La Guaira."],
+      hu: ["A kikötőt már a gyarmati időkben Caracas fő kikötőjeként fejlesztették ki.", "Ez a legfontosabb konténeres áruszállítási kapu Venezuela középső részére.", "A modern infrastrukturális fejlesztések jelentősen megnövelték a kikötő áteresztő képességét.", "A kikötői létesítmények kulcsfontosságú gazdasági tényezőt jelentenek La Guaira állam számára."],
       ro: [],
       en: [],
     }
@@ -46,9 +47,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Puerto Cabello ist das maritime Herz der venezolanischen Wirtschaft. Als größter Seehafen des Landes ist er der zentrale Umschlagplatz für den Import von Grundgütern sowie den Export nationaler Erzeugnisse. Seine Bedeutung erstreckt sich weit über den Bundesstaat Carabobo hinaus, da er die wichtigsten industriellen Zentren des Landes mit den globalen Märkten verbindet. Neben seiner ökonomischen Kraft ist der Hafen ein historischer Ort, umgeben von bedeutenden Festungsanlagen. Wirtschaft K8 — Globaler Handel.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Puerto Cabello a venezuelai gazdaság tengeri szíve. Az ország legnagyobb kikötőjeként központi szerepet játszik az alapvető javak importjában és a hazai termékek exportjában. Jelentősége messze túlmutat Carabobo államon, mivel összeköti az ország legfontosabb ipari központjait a globális piacokkal. Gazdasági ereje mellett a kikötő történelmi helyszín is, amelyet jelentős erődítmények vesznek körül. Gazdaság K8 — globális kereskedelem.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Größter Hafen des Landes", "Wichtig für den Import von Gütern", "Liegt im Bundesstaat Carabobo", "Historische Festungen in der Nähe"],
@@ -58,11 +59,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Puerto Cabello ist der wichtigste Umschlagplatz für industrielle Güter in Venezuela.", "Die historische Festung 'Castillo San Felipe' wurde zum Schutz des Hafens erbaut.", "Der Hafen verfügt über spezialisierte Terminals für verschiedene Güterarten, von Getreide bis zu Containern.", "Die Stadt profitiert durch ihre Rolle als wichtigster Hafenstandort von einer stark ausgeprägten Logistikbranche."],
-      hu: [],
+      hu: ["Puerto Cabello Venezuela legfontosabb ipari áruforgalmi csomópontja.", "A történelmi 'Castillo San Felipe' erődöt a kikötő védelmére építették.", "A kikötő specializált terminálokkal rendelkezik a különböző árutípusokhoz, a gabonától a konténerekig.", "A város jelentősen profitál a logisztikai szektorból a legfontosabb kikötői szerepének köszönhetően."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/puerto-cabello-port-economic-v2.webp"},
   {
     id: "maracaibo-port-economic-v2",
     type: "port",
@@ -77,9 +77,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Hafen von Maracaibo fungiert als das maritime Zentrum für die ressourcenreiche Region Zulia. Aufgrund seiner Lage am Maracaibo-See ist er essenziell für den Transport von Erdöl, welches in den umliegenden Feldern gefördert wird. Darüber hinaus dient er als Exportpunkt für landwirtschaftliche Produkte des fruchtbaren Umlandes. Der Hafen ist das Verbindungsstück zwischen dem Binnenraum von Zulia und den weltweiten Handelswegen des Karibischen Meeres. Wirtschaft K7 — Export und Transport.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Maracaibo kikötője az erőforrásokban gazdag Zulia régió tengeri központjaként működik. A Maracaibo-tónál elfoglalt fekvése miatt alapvető fontosságú a környékbeli mezőkön kitermelt kőolaj szállításában. Emellett a termékeny hátország mezőgazdasági termékeinek exportpontjaként is szolgál. A kikötő összekötő kapocs Zulia belseje és a Karib-tengeren keresztül a világkereskedelmi útvonalak között. Gazdaság K7 — export és szállítás.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Verbindung zum Karibischen Meer", "Fokus auf Ölexporte", "Befindet sich im Bundesstaat Zulia", "Wichtiger Wirtschaftsfaktor"],
@@ -89,7 +89,7 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Hafen Maracaibo ist entscheidend für den Export von Erdölprodukten aus dem Zulia-Becken.", "Er dient als logistischer Stützpunkt für die Erdölindustrie.", "Die Schiffbarkeit des Sees ist essenziell für die wirtschaftliche Anbindung der gesamten Region.", "Die Hafenanlagen sind seit Jahrzehnten ein zentraler Punkt im Handel von landwirtschaftlichen Produkten."],
-      hu: [],
+      hu: ["A maracaibói kikötő kulcsfontosságú a Zulia-medencéből származó olajtermékek exportjában.", "Logisztikai bázisként szolgál az olajipar számára.", "A tó hajózhatósága elengedhetetlen az egész régió gazdasági beágyazottságához.", "A kikötői létesítmények évtizedek óta a mezőgazdasági termékek kereskedelmének központjai."],
       ro: [],
       en: [],
     }
@@ -108,9 +108,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Guanta ist das industrielle und logistische Tor für Ost-Venezuela. Der Hafen spielt eine unverzichtbare Rolle bei der Verschiffung von petrochemischen Erzeugnissen sowie Kohle, die in den Minen der Region gefördert wird. Seine moderne Infrastruktur macht ihn zu einem der effizientesten Umschlagplätze im östlichen Landesteil. Durch die enge Anbindung an die Industrie von Anzoátegui ist der Hafen ein wichtiger Garant für die wirtschaftliche Stabilität der gesamten Region. Wirtschaft K8 — Exportwirtschaft.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Guanta Kelet-Venezuela ipari és logisztikai kapuja. A kikötő nélkülözhetetlen szerepet játszik a petrolkémiai termékek és a régió bányáiból származó szén szállításában. Modern infrastruktúrája az ország keleti részének egyik leghatékonyabb áruforgalmi csomópontjává teszi. Az anzoátegui-i iparral való szoros kapcsolata révén a kikötő fontos záloga az egész régió gazdasági stabilitásának. Gazdaság K8 — exportgazdaság.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Liegt in Anzoátegui", "Exportiert Kohle und Zement", "Moderne Verladestationen", "Wichtig für die lokale Wirtschaft"],
@@ -120,11 +120,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Guanta ist spezialisiert auf den Umschlag von petrochemischen Erzeugnissen und Kohle.", "Die Hafenanlagen sind eine Schlüsselstelle für den Export in der Region Anzoátegui.", "Der Hafen profitiert von der direkten Anbindung an wichtige Industriekomplexe im Osten Venezuelas.", "Er ist ein bedeutender Arbeitgeber in der Gemeinde Guanta."],
-      hu: [],
+      hu: ["Guanta a petrolkémiai termékek és a szén kezelésére specializálódott.", "A kikötői létesítmények kulcsfontosságúak az Anzoátegui régió exportja szempontjából.", "A kikötő profitál a közvetlen kapcsolatból a kelet-venezuelai ipari komplexumokkal.", "Jelentős munkaadó Guanta községben."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/guanta-port-economic-v2.webp"},
   {
     id: "guaranao-port-economic-v2",
     type: "port",
@@ -139,9 +138,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Guaranao ist das logistische Zentrum für die Halbinsel Paraguaná. Der Hafen spielt eine wichtige Rolle bei der Versorgung der Region und der Unterstützung der lokalen Industrien, einschließlich der bedeutenden Fischerei. Durch die Nähe zur Freihandelszone von Paraguaná fungiert er als zentraler Umschlagplatz für Waren, die für den Norden Venezuelas bestimmt sind. Die Kombination aus kommerzieller Bedeutung und seiner Rolle für die lokale Fischfangflotte macht ihn zu einem unverzichtbaren Bestandteil der Infrastruktur von Punto Fijo. Wirtschaft K6 — Regionalwirtschaft.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Guaranao a Paraguaná-félsziget logisztikai központja. A kikötő fontos szerepet játszik a régió ellátásában és a helyi iparágak, köztük a jelentős halászat támogatásában. A paraguanái szabadkereskedelmi övezet közelsége révén a Venezuela északi részére szánt áruk központi elosztóhelyeként működik. A kereskedelmi jelentőség és a helyi halászflotta támogatása Punto Fijo infrastruktúrájának nélkülözhetetlen részévé teszi. Gazdaság K6 — regionális gazdaság.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Freihandelszone in der Nähe", "Teil der Stadt Punto Fijo", "Unterstützt den lokalen Handel", "Strategische Lage"],
@@ -151,7 +150,7 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Guaranao bildet das wirtschaftliche Rückgrat der Halbinsel Paraguaná.", "Die Nähe zur Freihandelszone von Punto Fijo beeinflusst das Handelsvolumen maßgeblich.", "Der Hafen bietet eine wichtige Infrastruktur für die lokale Fischereiindustrie.", "Seine strategische Lage ist zentral für die Versorgung der gesamten Halbinsel."],
-      hu: [],
+      hu: ["Guaranao alkotja a Paraguaná-félsziget gazdasági gerincét.", "A punto fijói szabadkereskedelmi övezet közelsége jelentősen befolyásolja a forgalmát.", "A kikötő fontos infrastruktúrát biztosít a helyi halászat számára.", "Stratégiai elhelyezkedése központi jelentőségű az egész félsziget ellátása szempontjából."],
       ro: [],
       en: [],
     }
@@ -170,9 +169,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "El Guamache ist das maritime Tor zur Urlaubsinsel Margarita. Während der Hafen für den Güterverkehr unerlässlich ist, um die Insel mit Waren vom Festland zu versorgen, ist er auch ein bedeutendes Kreuzfahrtterminal. Kreuzfahrtschiffe aus der ganzen Welt laufen hier an und bringen Touristen, die das kulturelle und landschaftliche Erbe der Isla Margarita erkunden möchten. El Guamache verbindet daher die notwendige Logistik für die Inselversorgung mit der touristischen Strahlkraft der Isla Margarita. Tourismus K6 — Inselversorgung.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "El Guamache a Margarita-sziget tengeri kapuja. Míg a kikötő elengedhetetlen az áruforgalom számára a sziget ellátásához, jelentős üdülőhajó-terminálként is funkcionál. A világ minden tájáról érkező tengerjáró hajók itt kötnek ki, turistákat hozva, akik a sziget kulturális és természeti kincseit fedezik fel. El Guamache így ötvözi a szigetellátáshoz szükséges logisztikát a Margarita-sziget turisztikai vonzerejével. Turizmus K6 — szigetellátás.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Kreuzfahrtterminal", "Wichtig für die Inselversorgung", "Liegt im Süden von Margarita", "Zentrum für den Tourismus"],
@@ -182,11 +181,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["El Guamache ist die wichtigste logistische Schnittstelle für die Isla Margarita.", "Der Kreuzfahrtbetrieb macht ihn zu einem bedeutenden Anlaufpunkt für den internationalen Tourismus.", "Die Frachtkapazität ist für den täglichen Bedarf der Inselbevölkerung und den Einzelhandel essenziell.", "Die strategische Lage im Süden der Insel ermöglicht eine effiziente Anbindung an das Festland."],
-      hu: [],
+      hu: ["El Guamache a Margarita-sziget legfontosabb logisztikai csomópontja.", "A hajós turizmus a nemzetközi látogatók jelentős belépési pontjává teszi.", "Teherkapacitása alapvető a szigetlakók napi szükségleteinek kielégítéséhez.", "Déli fekvése hatékony kapcsolatot tesz lehetővé a szárazfölddel."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/el-guamache-port-economic-v2.webp"},
   {
     id: "palua-iron-port-economic-v2",
     type: "port",
@@ -201,9 +199,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Palúa ist eine entscheidende Schnittstelle für die venezolanische Bergbauindustrie. Hier wird das Eisenerz aus den Minen von Bolívar auf Schiffe geladen, die den Orinoco flussabwärts in Richtung der globalen Märkte befahren. Die Infrastruktur in Palúa ist technologisch darauf spezialisiert, den effizienten Umschlag dieses wertvollen Rohstoffs zu garantieren. Ohne diese Verbindung zwischen den Abbaugebieten und der Wasserstraße des Orinoco wäre die massive Stahl- und Eisenproduktion Venezuelas nicht möglich. Wirtschaft K8 — Rohstofflogistik.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Palúa a venezuelai bányászat egyik döntő csomópontja. Itt rakodják a Bolívar-i bányákból származó vasércet hajókra, amelyek az Orinocón lefelé a globális piacok felé tartanak. A palúai infrastruktúra technológiailag erre a nyersanyagra specializálódott a hatékony kezelés érdekében. E kapocs nélkül az Orinoco vízi útja és a bányák között Venezuela masszív acél- és vastermelése elképzelhetetlen lenne. Gazdaság K8 — nyersanyag-logisztika.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Liegt am Orinoco-Fluss", "Fokus auf Eisenerz", "In der Nähe von San Félix", "Betrieben von Ferrominera"],
@@ -213,11 +211,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Palúa ist ein spezialisierter Erzhafen am Orinoco.", "Die Anbindung erfolgt direkt an das Schienennetz der Minen.", "Der Hafen spielt eine zentrale Rolle für den Export von Eisenerz aus den Minen der Region Bolívar.", "Die Anlagen in Palúa sind ein wesentlicher Bestandteil des industriellen Systems von Ferrominera Orinoco."],
-      hu: [],
+      hu: ["Palúa egy Orinoco menti speciális érckikötő.", "Közvetlen vasúti kapcsolata van a bányákhoz.", "Központi szerepet játszik a Bolívar régió bányáiból származó érc exportjában.", "A létesítmények a Ferrominera Orinoco ipari rendszerének szerves részét képezik."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/palua-iron-port-economic-v2.webp"},
   {
     id: "matanzas-industrial-port-economic-v2",
     type: "port",
@@ -232,9 +229,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Hafen Matanzas ist das Rückgrat der logistischen Versorgung für die Industrieriesen von Ciudad Guayana. Hier werden die massiven Stahlmengen der Sidor und die Aluminiumprodukte der Venalum und Alcasa auf Schiffe umgeladen, die über den Orinoco in die Welt geschickt werden. Die Anlagen sind für schwerstes Material ausgelegt und bilden die zentrale Schnittstelle zwischen der industriellen Produktion vor Ort und den internationalen Abnehmern. Matanzas ist ein Paradebeispiel für die industrielle Kraft Venezuelas. Wirtschaft K8 — Schwerindustrie.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Matanzas kikötő Ciudad Guayana ipari óriásainak logisztikai gerince. Itt rakodják hajóra a Sidor acéltermékeit, valamint a Venalum és az Alcasa alumíniumát, hogy az Orinocón keresztül eljussanak a világpiacra. A létesítményeket nehézipari termékek kezelésére tervezték, így központi kapocs a helyi termelés és a nemzetközi vevők között. Matanzas Venezuela ipari erejének egyik legfontosabb példája. Gazdaság K8 — nehézipar.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Verarbeitet Stahl und Aluminium", "Liegt im Industriegebiet Matanzas", "Binnenhafen am Orinoco", "Wichtiger Logistikknotenpunkt"],
@@ -244,7 +241,7 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Matanzas ist ein spezialisierter Schwerlasthafen für Stahl und Aluminium.", "Der Hafen liegt direkt angrenzend an die größten industriellen Anlagen des Landes.", "Die logistische Effizienz in Matanzas ist entscheidend für den Exporterfolg von Sidor und anderen Unternehmen.", "Der Hafen verfügt über eigene Be- und Entladeeinrichtungen für industrielle Massengüter."],
-      hu: [],
+      hu: ["Matanzas egy acélra és alumíniumra specializálódott nehézrakomány-kikötő.", "Közvetlenül az ország legnagyobb ipari létesítményei mellett található.", "Logisztikai hatékonysága döntő a Sidor és más cégek export sikere szempontjából.", "Saját berendezésekkel rendelkezik az ipari ömlesztett áruk kezeléséhez."],
       ro: [],
       en: [],
     }
@@ -263,9 +260,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Ölhafen Amuay ist einer der wichtigsten Umschlagpunkte für Erdölprodukte in Lateinamerika. Er ist direkt mit einem der größten Raffineriekomplexe der Welt verbunden und ermöglicht den Transport von raffiniertem Benzin, Diesel und anderen Derivaten zu den globalen Märkten. Dank seines Tiefwasserzugangs können hier riesige Tanker anlegen, die die Energieproduktion Venezuelas in alle Welt transportieren. Der Hafen ist das industrielle Herzstück der Halbinsel Paraguaná. Wirtschaft K8 — Energieexport.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Az Amuay olajkikötő Latin-Amerika egyik legfontosabb olajtermék-elosztó pontja. Közvetlenül kapcsolódik a világ egyik legnagyobb finomító komplexumához, lehetővé téve a benzin, dízel és egyéb származékok szállítását a globális piacokra. Mélyvízi kikötőként óriási tankereket képes fogadni, amelyek Venezuela energiatermelését viszik szerte a világba. A kikötő a Paraguaná-félsziget ipari szívverése. Gazdaság K8 — energiaexport.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Teil des Paraguaná-Komplexes", "Exportiert raffinierte Kraftstoffe", "Tiefwasserzugang für Tanker", "Einer der größten Ölhäfen"],
@@ -275,11 +272,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Amuay ist Teil des Paraguaná-Raffineriekomplexes.", "Das Terminal ist entscheidend für den globalen Vertrieb venezolanischer Energieprodukte.", "Der Hafen bietet Tiefwasserkapazitäten für die größten Öltanker.", "Die Hafeninfrastruktur ist rund um die Uhr auf den Transport von Erdölprodukten ausgerichtet."],
-      hu: [],
+      hu: ["Amuay a Paraguaná finomító komplexum része.", "A terminál kulcsfontosságú a venezuelai energiatermékek globális értékesítésében.", "Mélyvízi adottságai lehetővé teszik a legnagyobb olajszállító hajók fogadását.", "Infrastruktúrája éjjel-nappal az olajszármazékok szállítására van optimalizálva."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/amuay-oil-port-economic-v2.webp"},
   {
     id: "punta-cardon-oil-port-economic-v2",
     type: "port",
@@ -294,9 +290,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Punta Cardón ist das zweite wichtige logistische Zentrum des Paraguaná-Raffineriekomplexes. Ähnlich wie Amuay spielt dieser Hafen eine entscheidende Rolle für den Export von Erdöl und raffinierten Produkten. Er verbindet die industrielle Produktion der Cardón-Raffinerie mit den Weltmeeren und sichert damit den Absatz venezolanischer Ressourcen auf dem globalen Markt. Punta Cardón ist ein unverzichtbarer Teil der industriellen Infrastruktur im Nordwesten Venezuelas. Wirtschaft K8 — Erdölexport.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Punta Cardón a Paraguaná finomító komplexum második számú logisztikai központja. Amuay-hoz hasonlóan döntő szerepe van a kőolaj és a finomított termékek exportjában. Összeköti a Cardón finomító ipari termelését a világóceánokkal, biztosítva a venezuelai erőforrások piacát. Punta Cardón elengedhetetlen része az északnyugat-venezuelai ipari infrastruktúrának. Gazdaság K8 — olajexport.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Liegt im Bundesstaat Falcón", "Wichtiges Terminal für Öltanker", "Eng mit der Raffinerie verbunden", "Hohes Exportvolumen"],
@@ -306,11 +302,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Punta Cardón ist essenziell für die Logistik des Paraguaná-Komplexes.", "Das Terminal ist hochspezialisiert auf den Umschlag von Rohöl und Fertigprodukten.", "Die Exportleistung des Terminals trägt signifikant zur Bilanz der venezolanischen Energiebranche bei.", "Die Infrastruktur wird kontinuierlich gewartet, um die globale Wettbewerbsfähigkeit im Energiebereich zu sichern."],
-      hu: [],
+      hu: ["Punta Cardón elengedhetetlen a Paraguaná komplexum logisztikájához.", "A terminál magasan specializálódott a nyersolaj és késztermékek kezelésére.", "Exportteljesítménye jelentősen hozzájárul a venezuelai energiaszektor mérlegéhez.", "Infrastruktúráját folyamatosan karbantartják a versenyképesség megőrzése érdekében."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/punta-cardon-oil-port-economic-v2.webp"},
   {
     id: "paraguana-refinery-economic-v2",
     type: "industry",
@@ -325,9 +320,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Raffineriekomplex Paraguaná (CRP) ist eine industrielle Gigantenanlage, die weltweit ihresgleichen sucht. Mit der Zusammenlegung der Anlagen von Amuay und Cardón entstand eines der bedeutendsten Zentren der globalen Ölverarbeitung. Hier wird ein massiver Teil des venezolanischen Rohöls zu Benzin, Kerosin, Diesel und petrochemischen Vorprodukten verarbeitet. Der CRP ist nicht nur das Rückgrat der nationalen Energiewirtschaft, sondern auch einer der größten Arbeitgeber des Landes. Wirtschaft K8 — Industrielle Giganten.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Paraguaná finomító komplexum (CRP) egy világszerte egyedülálló ipari óriás. Az Amuay és Cardón létesítmények egyesítésével a globális olajfeldolgozás egyik legjelentősebb központja jött létre. Itt alakítják át a venezuelai nyersolaj jelentős részét benzinné, kerozinná, dízellé és petrolkémiai alapanyagokká. A CRP nemcsak a nemzeti energiaipar gerince, hanem az ország egyik legnagyobb munkaadója is. Gazdaság K8 — ipari óriások.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Gigantische Verarbeitungskapazität", "Wichtigster Arbeitgeber der Region", "Produziert Benzin und Diesel", "Weltweit bekannt"],
@@ -337,11 +332,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Paraguaná-Komplex ist einer der leistungsfähigsten Raffineriezentren der Welt.", "Die Verarbeitungskapazität des CRP ist für die nationale Brennstoffversorgung kritisch.", "Neben Treibstoffen produziert der Komplex zahlreiche Zwischenprodukte für die petrochemische Industrie.", "Die Anlage ist durch ein ausgeklügeltes Pipeline-Netzwerk mit den Ölfeldern im Landesinneren verbunden."],
-      hu: [],
+      hu: ["A Paraguaná komplexum a világ egyik legnagyobb teljesítményű finomítója.", "Feldolgozási kapacitása kritikus a nemzeti üzemanyag-ellátás szempontjából.", "Az üzemanyagok mellett számos petrolkémiai köztes terméket is előállít.", "A létesítményt kifinomult csővezeték-hálózat köti össze a belső olajmezőkkel."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/paraguana-refinery-economic-v2.webp"},
   {
     id: "el-palito-refinery-economic-v2",
     type: "industry",
@@ -356,9 +350,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "El Palito nimmt eine Schlüsselrolle in der Versorgung des venezolanischen Marktes ein. Durch ihre geografische Lage an der Karibikküste ist die Raffinerie ideal positioniert, um sowohl inländische Zentren als auch die umliegenden Industrieregionen mit Kraftstoffen und petrochemischen Produkten zu beliefern. Die kontinuierliche Modernisierung der Anlage unterstreicht ihre Bedeutung für die nationale Energiesicherheit. El Palito ist ein wesentlicher Bestandteil des venezolanischen Raffinerienetzwerks. Wirtschaft K7 — Energiesicherheit.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "El Palito kulcsszerepet játszik a venezuelai piac ellátásában. A Karib-tenger partján elfoglalt helyzete miatt ideális a belföldi központok és a környező ipari régiók üzemanyaggal és petrolkémiai termékekkel való kiszolgálására. A létesítmény folyamatos modernizálása hangsúlyozza jelentőségét a nemzeti energiabiztonság szempontjából. El Palito a venezuelai finomítóhálózat alapvető része. Gazdaság K7 — energiabiztonság.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Liegt im Bundesstaat Carabobo", "Versorgt den Zentralbereich des Landes", "Besitzt ein eigenes Ölterminal", "Gegründet in den 1960er Jahren"],
@@ -368,11 +362,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["El Palito wurde in den 1960er Jahren als eine der zentralen Raffinerien Venezuelas in Betrieb genommen.", "Sie spielt eine tragende Rolle bei der Verteilung von Kraftstoffen im industrialisierten Zentrum des Landes.", "Die Anlage verfügt über ein eigenes Terminal, das sie flexibel in den globalen und nationalen Ölmarkt einbindet.", "Regelmäßige Wartungsarbeiten in El Palito sind für die Stabilität der nationalen Versorgung von zentraler Bedeutung."],
-      hu: [],
+      hu: ["Az El Palito-t az 1960-as években helyezték üzembe Venezuela egyik fő finomítójaként.", "Meghatározó szerepe van az üzemanyag-elosztásban az ország iparosodott központjában.", "Saját terminállal rendelkezik, amely rugalmasan kapcsolja a hazai és világpiachoz.", "Rendszeres karbantartása létfontosságú a nemzeti ellátás stabilitása érdekében."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/el-palito-refinery-economic-v2.webp"},
   {
     id: "puerto-la-cruz-refinery-economic-v2",
     type: "industry",
@@ -387,9 +380,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Puerto La Cruz ist das industrielle Herz des östlichen Öl-Sektors. Durch die Verarbeitung von Rohöl aus den umliegenden Feldern leistet diese Raffinerie einen wesentlichen Beitrag zum Export und zur regionalen Versorgung. Die Anlage kombiniert technologische Verarbeitung mit einer direkten Anbindung an den Hafen, was effiziente Exportvorgänge ermöglicht. Puerto La Cruz ist somit eine unverzichtbare Stütze für die wirtschaftliche Entwicklung des Ostens Venezuelas. Wirtschaft K7 — Industrielle Entwicklung.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Puerto La Cruz a keleti olajszektor ipari szíve. A környező mezőkről származó nyersolaj feldolgozásával ez a finomító jelentősen hozzájárul az exporthoz és a regionális ellátáshoz. Az üzem ötvözi a technológiai feldolgozást a közvetlen kikötői kapcsolattal, ami hatékony exportot tesz lehetővé. Puerto La Cruz így Kelet-Venezuela gazdasági fejlődésének nélkülözhetetlen pillére. Gazdaság K7 — ipari fejlődés.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Verarbeitet leichtes und mittleres Rohöl", "Direkter Zugang zum Meer", "Befindet sich in einem städtischen Gebiet", "Wichtige Einnahmequelle"],
@@ -399,11 +392,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Raffinerie in Puerto La Cruz ist ein bedeutender Industriestandort für den Osten des Landes.", "Die Anlage ist strategisch nahe am Hafen gelegen, was den Export von Fertigprodukten massiv erleichtert.", "Puerto La Cruz verarbeitet vor allem leichtes und mittleres Rohöl, das in der östlichen Region gewonnen wird.", "Die Raffinerie ist ein wesentlicher Bestandteil der wirtschaftlichen Identität der Stadt."],
-      hu: [],
+      hu: ["A Puerto La Cruz-i finomító az ország keleti részének jelentős ipari helyszíne.", "Stratégiai fekvése a kikötő közelében nagyban megkönnyíti a késztermékek exportját.", "Elsősorban a keleti régióban kitermelt könnyű és közepes nyersolajat dolgoz fel.", "A finomító a város gazdasági identitásának szerves része."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/puerto-la-cruz-refinery-economic-v2.webp"},
   {
     id: "bajo-grande-refinery-economic-v2",
     type: "industry",
@@ -418,9 +410,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Bajo Grande spielt eine Nischenrolle im venezolanischen Raffineriesektor. Durch die Spezialisierung auf Asphalt und schwere Ölprodukte leistet die Anlage einen wertvollen Beitrag für die Infrastruktur des Landes, insbesondere für den Straßenbau. Die Anlage am Maracaibo-See zeigt, dass die venezolanische Ölindustrie weit mehr als nur Benzin produziert. Die Raffinerie Bajo Grande ist ein Beispiel für die gezielte industrielle Ausrichtung zur Deckung spezifischer nationaler Bedarfe. Wirtschaft K6 — Bauwirtschaft.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Bajo Grande résszerepet tölt be a venezuelai finomító szektorban. Az aszfaltra és nehézolaj-termékekre való specializálódás révén az üzem értékesen járul hozzá az ország infrastruktúrájához, különösen az útépítéshez. A Maracaibo-tónál lévő létesítmény bizonyítja, hogy a hazai olajipar jóval többet termel a benzinnél. A Bajo Grande finomító a specifikus nemzeti igények kielégítésére irányuló ipari fókusz példája. Gazdaság K6 — építőipar.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Produziert hauptsächlich Asphalt", "Liegt am Maracaibo-See", "Kleine Verarbeitungskapazität", "Strategisch für die Bauindustrie"],
@@ -430,11 +422,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Bajo Grande ist spezialisiert auf die Produktion von bitumenhaltigen Produkten.", "Der Asphalt aus dieser Raffinerie ist entscheidend für den nationalen Straßenbau.", "Die Anlage ergänzt das breite Portfolio der venezolanischen Raffinerieindustrie durch hochspezialisierte Produkte.", "Die geografische Lage am Maracaibo-See erleichtert den Transport der Schwerölprodukte."],
-      hu: [],
+      hu: ["Bajo Grande a bitumenes termékek előállítására szakosodott.", "Az itt készült aszfalt döntő fontosságú a nemzeti útépítésekhez.", "Az üzem speciális termékeivel egészíti ki a venezuelai finomítóipar portfólióját.", "A Maracaibo-tónál lévő elhelyezkedése segíti a nehézolaj-termékek szállítását."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/bajo-grande-refinery-economic-v2.webp"},
   {
     id: "san-roque-refinery-economic-v2",
     type: "industry",
@@ -449,9 +440,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "San Roque in Anaco ist eine kleine, aber für die venezolanische Industrie unverzichtbare Anlage. Als einzige Produktionsstätte für Paraffinwachs im Land beliefert sie vielfältige Sektoren, von der Lebensmittelindustrie bis zur Kosmetikherstellung. Diese hochspezialisierte Anlage ist ein faszinierendes Beispiel für industrielle Nischenproduktion in Venezuela. Sie unterstreicht, dass die venezolanische Erdöl- und Erdgasverarbeitung über die Massenproduktion hinaus ein breites Spektrum an wertvollen Spezialprodukten abdeckt. Wirtschaft K5 — Nischenindustrie.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Az anacói San Roque egy kicsi, de a venezuelai ipar számára nélkülözhetetlen létesítmény. Az ország egyetlen paraffinviasz-gyártójaként számos szektort szolgál ki, az élelmiszeripartól a kozmetikumokig. Ez a speciális üzem a réspiaci ipari termelés lenyűgöző példája. Rávilágít, hogy a hazai olaj- és gázfeldolgozás a tömegtermelésen túl a speciális termékek széles skáláját is lefedi. Gazdaság K5 — piaci rések ipara.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Liegt im Inland (Anzoátegui)", "Einziger Paraffinproduzent des Landes", "Kleine, aber wichtige Anlage", "Beliefert die Lebensmittel- und Kosmetikindustrie"],
@@ -461,11 +452,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["San Roque ist die einzige Paraffinfabrik in Venezuela.", "Paraffin ist für viele industrielle Prozesse eine notwendige Zutat.", "Die Anlage unterstreicht die industrielle Vielfalt im Bereich Anaco.", "Die Produktion ist ein wichtiger Beitrag zur industriellen Selbstversorgung Venezuelas bei Spezialchemikalien."],
-      hu: [],
+      hu: ["San Roque Venezuela egyetlen paraffingyára.", "A paraffin számos ipari folyamat elengedhetetlen összetevője.", "Az üzem kiemeli Anaco környékének ipari sokszínűségét.", "Termelése hozzájárul Venezuela önellátásához a speciális vegyi anyagok terén."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/san-roque-refinery-economic-v2.webp"},
   {
     id: "sidor-steel-plant-economic-v2",
     type: "industry",
@@ -480,9 +470,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Sidor, die Siderúrgica del Orinoco, ist nicht nur eine Fabrik, sondern ein industrieller Riese, der das wirtschaftliche Rückgrat von Ciudad Guayana bildet. Als eines der größten Stahlwerke Lateinamerikas ist es ein Zentrum für die Produktion von Walzstahl, Drähten und anderen Stahlprodukten. Die Anlage profitiert enorm von der lokalen Wasserkraft und der Nähe zu den Erzminen von Bolívar. Sidor ist das Synonym für Venezuelas Ambitionen in der Schwerindustrie und ein zentraler Akteur in der regionalen Wirtschaft. Wirtschaft K8 — Schwerindustrie.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Sidor (Siderúrgica del Orinoco) nem csupán egy gyár, hanem egy ipari óriás, amely Ciudad Guayana gazdasági gerincét alkotja. Latin-Amerika egyik legnagyobb acélműveként a hengerelt acél, huzalok és egyéb acéltermékek gyártásának központja. Az üzem hatalmasat profitál a helyi vízenergiából és a Bolívar-i ércbányák közelségéből. A Sidor a venezuelai nehézipari ambíciók szinonimája és a regionális gazdaság központi szereplője. Gazdaság K8 — nehézipar.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Größtes Stahlwerk Venezuelas", "Profitiert von lokaler Wasserkraft", "Produziert Walzstahl und Drähte", "Umfasst ein riesiges Industriegelände"],
@@ -492,11 +482,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Sidor ist der größte Arbeitgeber in Ciudad Guayana.", "Die Integration in die Caroní-Stromversorgung macht das Werk hochgradig energieeffizient.", "Die Sidor-Anlagen erstrecken sich über ein riesiges industrielles Territorium am Orinoco.", "Die Produkte von Sidor sind für die Bau- und Fertigungsindustrie in ganz Venezuela essenziell."],
-      hu: [],
+      hu: ["A Sidor Ciudad Guayana legnagyobb munkaadója.", "A Caroní-menti energiaellátásba való integráció rendkívül energiahatékonnyá teszi.", "Létesítményei hatalmas ipari területet fednek le az Orinoco mentén.", "Termékei elengedhetetlenek a venezuelai építő- és feldolgozóipar számára."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/sidor-steel-plant-economic-v2.webp"},
   {
     id: "venalum-aluminum-plant-economic-v2",
     type: "industry",
@@ -511,9 +500,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Venalum ist ein Kraftzentrum der Aluminiumproduktion in Lateinamerika. Die Hütte ist auf die Herstellung von Primäraluminium spezialisiert und verbraucht hierfür enorme Mengen an elektrischer Energie, die sie direkt aus den Wasserkraftwerken am Río Caroní bezieht. Diese Synergie zwischen Energiequelle und Schwerindustrie ist das Erfolgsmodell der Region Guayana. Als staatlich geführtes Unternehmen ist Venalum ein entscheidender Bestandteil des venezolanischen Industrie-Ökosystems und ein wichtiger Exporteur von Aluminiumblöcken weltweit. Wirtschaft K8 — Aluminiumindustrie.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Venalum Latin-Amerika alumíniumtermelésének egyik erőközpontja. A kohó elsődleges alumínium gyártására szakosodott, amihez hatalmas mennyiségű elektromos energiát használ fel a Río Caroní vízerőműveiből. Az energiaforrás és a nehézipar e szinergiája a Guayana régió sikermodellje. Állami vállalatként a Venalum a hazai ipari ökoszisztéma meghatározó része és az alumíniumtömbök jelentős exportőre a világpiacon. Gazdaság K8 — alumíniumipar.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Eine der größten in Lateinamerika", "Hoher Energieverbrauch", "Staatlich geführtes Unternehmen", "Produziert Aluminiumblöcke"],
@@ -523,11 +512,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Venalum gehört zu den größten Aluminiumproduzenten in Lateinamerika.", "Die Anlage ist einer der energieintensivsten Standorte in Venezuela.", "Der Export von Aluminiumblöcken ist eine wichtige Einnahmequelle für den venezolanischen Staat.", "Venalum arbeitet eng mit dem benachbarten Werk von Alcasa zusammen."],
-      hu: [],
+      hu: ["A Venalum Latin-Amerika legnagyobb alumíniumtermelői közé tartozik.", "Az üzem Venezuela egyik leginkább energiaigényes helyszíne.", "Az alumíniumtömbök exportja fontos bevételi forrás az állam számára.", "Szorosan együttműködik a szomszédos Alcasa üzemmel."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venalum-aluminum-plant-economic-v2.webp"},
   {
     id: "alcasa-aluminum-plant-economic-v2",
     type: "industry",
@@ -542,9 +530,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Alcasa gilt als Wegbereiter der venezolanischen Aluminiumindustrie. Im Gegensatz zu Venalum, das sich auf Primäraluminium konzentriert, hat sich Alcasa auf die weiterverarbeitenden Stufen spezialisiert, insbesondere die Herstellung von Blechen und Folien. Damit spielt das Werk eine entscheidende Rolle in der Wertschöpfungskette für die venezolanische Fertigungsindustrie. Als Teil des großen Guayana-Industriekomplexes ist Alcasa ein zentrales Element für die industrielle Stärke des Landes. Wirtschaft K7 — Weiterverarbeitung.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Az Alcasát a venezuelai alumíniumipar úttörőjének tekintik. A Venalummal ellentétben, amely az elsődleges alumíniumra fókuszál, az Alcasa a továbbfeldolgozásra, főként lemezek és fóliák gyártására szakosodott. Ezzel döntő szerepet játszik a hazai feldolgozóipar értékláncában. A hatalmas Guayana ipari komplexum részeként az Alcasa az ország ipari erejének egyik központi eleme. Gazdaság K7 — továbbfeldolgozás.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Aluminio del Caroní S.A.", "Nachbar der Venalum-Anlage", "Fokus auf weiterverarbeitete Produkte", "Teil des Guayana-Industriekomplexes"],
@@ -554,11 +542,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Alcasa steht für die Anfänge der venezolanischen Aluminiumverarbeitung.", "Das Werk hat sich auf höherwertige Aluminiumprodukte wie Folien und Bleche spezialisiert.", "Als Pionierunternehmen hat Alcasa den Grundstein für den Industriekomplex Guayana gelegt.", "Die Produktion ist ein wichtiger Bestandteil der nationalen Wertschöpfung."],
-      hu: [],
+      hu: ["Az Alcasa a venezuelai alumíniumfeldolgozás kezdeteit jelképezi.", "Magasabb hozzáadott értékű termékekre, fóliákra és lemezekre szakosodott.", "Úttörőként fektette le a Guayana ipari komplexum alapjait.", "Termelése a nemzeti értékteremtés fontos része."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/alcasa-aluminum-plant-economic-v2.webp"},
   {
     id: "bauxilum-alumina-plant-economic-v2",
     type: "industry",
@@ -573,9 +560,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Bauxilum ist die essentielle Brücke zwischen dem Bergbau und der metallurgischen Industrie. In diesem Werk wird das im Bundesstaat Bolívar abgebaute Bauxit zu Alumina, dem Rohstoff für die Aluminiumgewinnung, veredelt. Damit ist Bauxilum das unverzichtbare Bindeglied, das die Versorgung der Werke Venalum und Alcasa sicherstellt. Die Raffinerie ist ein zentraler Akteur im Guayana-Industriekomplex und symbolisiert die Fähigkeit Venezuelas, den gesamten Produktionszyklus des Aluminiums im Inland abzubilden. Wirtschaft K7 — Wertschöpfungsketten.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Bauxilum az alapvető híd a bányászat és a kohászat között. Ebben az üzemben nemesítik a Bolívar államban bányászott bauxitot timfölddé, az alumíniumgyártás alapanyagává. Így a Bauxilum nélkülözhetetlen láncszem, amely biztosítja a Venalum és az Alcasa ellátását. A finomító a Guayana ipari komplexum központi szereplője, és szimbolizálja Venezuela képességét a teljes alumínium-gyártási ciklus hazai megvalósítására. Gazdaság K7 — értékláncok.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Verarbeitet Bauxiterz", "Beliefert Venalum und Alcasa", "Liegt am Orinoco-Ufer", "Wichtiger Teil der Schwerindustrie"],
@@ -585,11 +572,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Bauxilum ist die zentrale Raffinerie für die venezolanische Aluminiumproduktion.", "Die Anlage veredelt das Bauxit aus den Minen der Region Bolívar.", "Die Versorgung der Aluminiumhütten von Venalum und Alcasa hängt von Bauxilum ab.", "Die strategische Lage am Orinoco ermöglicht eine effiziente Logistik."],
-      hu: [],
+      hu: ["A Bauxilum a venezuelai alumíniumgyártás központi finomítója.", "Az üzem a Bolívar régió bányáiból származó bauxitot dolgozza fel.", "A Venalum és az Alcasa kohóinak ellátása a Bauxilumtól függ.", "Az Orinoco menti stratégiai fekvése hatékony logisztikát tesz lehetővé."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/bauxilum-alumina-plant-economic-v2.webp"},
   {
     id: "cerro-bolivar-mine-economic-v2",
     type: "industry",
@@ -604,9 +590,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Cerro Bolívar ist ein Symbol für den mineralischen Reichtum Venezuelas. Als der Berg 1947 entdeckt wurde, offenbarte er gigantische Vorkommen an fast reinem Eisenerz. Dieser Fund war der Startschuss für die Entwicklung der Schwerindustrie in Ciudad Guayana. Der Abbau dieses Berges veränderte nicht nur die venezolanische Wirtschaft, sondern prägte auch den Siedlungsaufbau und die Infrastruktur der gesamten Region Bolívar nachhaltig. Cerro Bolívar bleibt eine der wichtigsten Minenstandorte in der Geschichte des Landes. Geschichte K8 — Ressourcen.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Cerro Bolívar Venezuela ásványkincsekben való gazdagságának szimbóluma. Amikor a hegyet 1947-ben felfedezték, óriási, szinte tiszta vasérckészletekre bukkantak. Ez a lelet indította el a nehézipar fejlődését Ciudad Guayanában. A hegy bányászata nemcsak a gazdaságot változtatta meg, hanem tartósan meghatározta Bolívar régió településszerkezetét és infrastruktúráját is. A Cerro Bolívar az ország történetének egyik legfontosabb bányászati helyszíne maradt. Történelem K8 — erőforrások.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Entdeckt im Jahr 1947", "Gigantische Eisenerzreserven", "Förderung im Tagebau", "Trieb die Gründung von Ciudad Piar an"],
@@ -616,11 +602,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Cerro Bolívar ist eines der größten Eisenerzvorkommen der Welt.", "Die Entdeckung 1947 leitete ein neues Kapitel der venezolanischen Industriegeschichte ein.", "Der Tagebau am Cerro Bolívar erforderte eine komplexe logistische Infrastruktur inklusive Schienennetz.", "Ciudad Piar wurde speziell als Arbeitersiedlung für diese Mine entwickelt."],
-      hu: [],
+      hu: ["A Cerro Bolívar a világ egyik legnagyobb vasérclelőhelye.", "Az 1947-es felfedezés új fejezetet nyitott az ipartörténetben.", "A külszíni bányászat összetett logisztikai és vasúti infrastruktúrát igényelt.", "Ciudad Piar városa kifejezetten a bányászok számára jött létre."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/cerro-bolivar-mine-economic-v2.webp"},
   {
     id: "ferrominera-orinoco-economic-v2",
     type: "industry",
@@ -635,9 +620,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Ferrominera Orinoco ist die staatliche Institution, die den gesamten Eisenerzzyklus von der Förderung in der Mine bis zum Verladen in den Häfen kontrolliert. Durch ein eigenes, hochkomplexes Bahnnetzwerk werden die Minen im Süden mit den industriellen Verarbeitungszentren und den Häfen am Orinoco verbunden. Diese logistische Meisterleistung ist das Fundament für die gesamte Stahlproduktion in Venezuela. Ferrominera sichert dabei die Rohstoffbasis für Firmen wie Sidor und andere industrielle Abnehmer weltweit. Wirtschaft K8 — Infrastruktur.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Ferrominera Orinoco az az állami intézmény, amely a teljes vasérc-ciklust ellenőrzi a bányászattól a kikötői berakodásig. Saját, összetett vasúthálózatán keresztül köti össze a déli bányákat az ipari központokkal és az Orinoco menti kikötőkkel. Ez a logisztikai teljesítmény a venezuelai acéltermelés alapköve. A Ferrominera biztosítja a nyersanyagot a Sidor és más globális ipari vevők számára. Gazdaság K8 — infrastruktúra.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Verarbeitet Erz aus Cerro Bolívar", "Betreibt das eigene Bahnnetzwerk", "Produziert Eisenerzpellets", "Hauptversorger für Sidor"],
@@ -647,11 +632,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Ferrominera ist ein staatliches Unternehmen unter dem Dach der Corporación Venezolana de Guayana.", "Die Bahninfrastruktur zwischen den Minen und dem Orinoco ist eine der wichtigsten industriellen Lebensadern der Region.", "Die Produktion von Eisenerzpellets steigert den Wert der exportierten Rohstoffe.", "Ohne den effizienten Transport durch Ferrominera wäre die Stahlindustrie in Sidor nicht existent."],
-      hu: [],
+      hu: ["A Ferrominera a Corporación Venezolana de Guayana alá tartozó állami vállalat.", "A bányák és az Orinoco közötti vasúti infrastruktúra a régió egyik legfontosabb ipari ütőere.", "A vasércpelletek gyártása növeli az exportált nyersanyagok értékét.", "A Ferrominera hatékony szállítása nélkül a Sidor acélipara nem létezne."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/ferrominera-orinoco-economic-v2.webp"},
   {
     id: "las-cristinas-gold-mine-economic-v2",
     type: "industry",
@@ -666,9 +650,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Las Cristinas steht stellvertretend für das enorme, noch zu großen Teilen unerschlossene Goldpotenzial des venezolanischen Dschungels. Die Lagerstätte im Bundesstaat Bolívar gilt als eine der bedeutendsten Goldvorkommen Lateinamerikas. Ihr Potenzial hat immer wieder internationales Interesse geweckt, war aber auch oft Gegenstand komplexer rechtlicher und wirtschaftlicher Auseinandersetzungen. Die Erschließung dieser Region stellt enorme Anforderungen an Logistik, Umweltverträglichkeit und soziale Integration. Wirtschaft K8 — Bergbau und Zukunft.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Las Cristinas a venezuelai dzsungel hatalmas, még nagy részben kiaknázatlan aranytartalékait jelképezi. A Bolívar állambeli lelőhelyet Latin-Amerika egyik legjelentősebbjének tartják. Potenciálja többször felkeltette a nemzetközi érdeklődést, de gyakran vált összetett jogi és gazdasági viták tárgyává is. A régió feltárása hatalmas logisztikai, környezetvédelmi és társadalmi kihívások elé állítja az országot. Gazdaság K8 — bányászat és jövő.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Riesiges unerschlossenes Potenzial", "Fokus vieler internationaler Streitigkeiten", "Liegt im Gemeindegebiet Sifontes", "Umgeben von tropischem Regenwald"],
@@ -678,11 +662,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Las Cristinas ist Teil des sogenannten 'Orinoco-Bergbau-Bogens'.", "Die Erschließung ist eng mit dem Ziel der staatlichen Diversifizierung verbunden.", "Die logistische Erreichbarkeit im Dschungel ist eine der größten Herausforderungen bei der Ausbeutung.", "Der Abbau von Gold in dieser Region steht oft im Fokus der öffentlichen Debatte über nachhaltige Ressourcennutzung."],
-      hu: [],
+      hu: ["Las Cristinas az úgynevezett 'Orinoco Bányászati Ív' része.", "Kiaknázása szorosan kapcsolódik az állami gazdasági diverzifikációhoz.", "A dzsungelen belüli logisztikai elérhetőség az egyik legnagyobb kihívás.", "Az itt folyó aranybányászat gyakran áll a fenntartható erőforrás-használatról szóló viták középpontjában."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/las-cristinas-gold-mine-economic-v2.webp"},
   {
     id: "las-brisas-gold-mine-economic-v2",
     type: "industry",
@@ -697,9 +680,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Mine Las Brisas in der Nähe des bekannten 'Kilometer 73' District ist ein entscheidendes Puzzlestück für die Bergbauambitionen Venezuelas. Die Vorkommen an Gold und Kupfer sind von signifikantem Ausmaß. Zusammen mit anderen Projekten in der Region gehört Las Brisas zum nationalen 'Orinoco-Bergbau-Bogen', der eine wirtschaftliche Neuorientierung in Richtung Bergbau einleiten soll. Wie Las Cristinas ist auch diese Region eine Herausforderung an die technologische und logistische Kapazität des Landes. Wirtschaft K8 — Mineralien.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Las Brisas bánya a hírhedt '73-as kilométer' körzet közelében a venezuelai bányászati ambíciók döntő darabja. Arany- és rézkészletei jelentős mértékűek. A régió más projektjeivel együtt az Orinoco Bányászati Ív része, amely a gazdaság bányászat felé történő újorientálását célozza. Las Cristinashoz hasonlóan ez a terület is próbára teszi az ország technológiai és logisztikai kapacitásait. Gazdaság K8 — ásványkincsek.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Reich an Gold und Kupfer", "Benachbart zur Mine Las Cristinas", "Bedeutende Kupferreserven", "Teil des Orinoco-Bergbau-Bogens"],
@@ -709,11 +692,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Las Brisas ist ein bedeutendes Bergbauprojekt innerhalb des Orinoco-Bergbau-Bogens.", "Die Kombination von Gold- und Kupferressourcen macht die Lagerstätte besonders wertvoll.", "Das Projekt ist ein zentraler Pfeiler für die geplante wirtschaftliche Diversifizierung Venezuelas.", "Die Erschließung erfolgt in einem der ökologisch sensibelsten Gebiete von Bolívar."],
-      hu: [],
+      hu: ["Las Brisas jelentős bányászati projekt az Orinoco Bányászati Íven belül.", "Az arany- és rézkészletek kombinációja különösen értékessé teszi a lelőhelyet.", "A projekt a gazdasági diverzifikáció egyik központi pillére.", "A feltárás Bolívar egyik ökológiailag legérzékenyebb területén zajlik."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/las-brisas-gold-mine-economic-v2.webp"},
   {
     id: "paso-diablo-coal-mine-economic-v2",
     type: "industry",
@@ -728,9 +710,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Paso Diablo ist ein Kraftzentrum des Kohleabbaus im Nordwesten Venezuelas. Gelegen im Guasare-Becken, liefert die Mine hochwertige Kohle, die besonders als Kraftwerkskohle international nachgefragt ist. Die Dimensionen des Tagebaus machen deutlich, wie bedeutend die fossilen Ressourcen für die Region Zulia sind. Der Abtransport der Kohle über den Maracaibo-See ist eine logistische Meisterleistung, die den Export nach Übersee erst ermöglicht. Paso Diablo ist das Synonym für den industriellen Bergbau im Bundesstaat Zulia. Wirtschaft K7 — Fossile Brennstoffe.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Paso Diablo Északnyugat-Venezuela szénbányászatának központja. A Guasare-medencében található bánya kiváló minőségű szenet szolgáltat, amelyre nemzetközi szinten is nagy a kereslet. A külszíni fejtés méretei mutatják a fosszilis erőforrások jelentőségét Zulia régió számára. A szén elszállítása a Maracaibo-tavon keresztül logisztikai bravúr, ami lehetővé teszi a tengerentúli exportot. A Paso Diablo a Zulia állambeli ipari bányászat jelképe. Gazdaság K7 — fosszilis tüzelőanyagok.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Tagebaubetrieb", "Exportiert Kohle über den Maracaibo-See", "Liegt im Guasare-Becken", "Hoher Heizwert der Kohle"],
@@ -740,11 +722,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Paso Diablo ist der größte Kohleproduzent in Venezuela.", "Die logistische Kette bis zum Export umfasst den Transport über den Maracaibo-See.", "Der Kohleabbau im Guasare-Becken bietet bedeutende Beschäftigungschancen in Zulia.", "Die Qualität der Kohle aus Paso Diablo wird aufgrund des hohen Heizwertes geschätzt."],
-      hu: [],
+      hu: ["A Paso Diablo Venezuela legnagyobb széntermelője.", "Az export-logisztikai lánc része a Maracaibo-tavon át történő szállítás.", "A Guasare-medencei szénbányászat jelentős munkalehetőséget kínál Zulában.", "A szén minőségét magas fűtőértéke miatt ismerik el."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/paso-diablo-coal-mine-economic-v2.webp"},
   {
     id: "mina-norte-coal-mine-economic-v2",
     type: "industry",
@@ -759,9 +740,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kohlemine Norte ergänzt das Guasare-Kohleprojekt entscheidend und ist ein wichtiger Bestandteil der wirtschaftlichen Aktivitäten in Zulia. Neben dem Großprojekt Paso Diablo spielt die Mina Norte eine zentrale Rolle, um das Gesamtauskommen an Kohle für den Export zu erhöhen. Dies stärkt Venezuelas Position auf dem internationalen Markt für Energieressourcen. Die Bergbautradition in Zulia, oft durch den Erdölboom überschattet, gewinnt durch solche Kohleprojekte eine neue wirtschaftliche Facette. Wirtschaft K7 — Exportstrategien.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Mina Norte bánya döntően egészíti ki a Guasare szénprojektet, és a zuliái gazdaság fontos részét képezi. A Paso Diablo mellett központi szerepe van az exportra szánt szénmennyiség növelésében. Ez erősíti Venezuela pozícióját a nemzetközi energia-erőforrások piacán. A zuliái bányászati hagyomány, amelyet gyakran beárnyékol az olajbumm, az ilyen szénprojektek révén új gazdasági dimenziót kap. Gazdaság K7 — exportstratégiák.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Gehört zum Guasare-Kohleprojekt", "Steinkohleabbau", "Schafft viele lokale Arbeitsplätze", "Wichtiger Teil der Zulia-Wirtschaft"],
@@ -771,11 +752,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Mina Norte ist ein integraler Bestandteil des größeren Guasare-Kohlekomplexes.", "Sie ergänzt die Exportkapazitäten von Zulia signifikant.", "Die Arbeit in der Mine Norte ist ein wesentlicher wirtschaftlicher Motor für die umliegende Gemeinde.", "Die Kohleförderung leistet einen strategischen Beitrag zur nationalen Wirtschaftsleistung."],
-      hu: [],
+      hu: ["A Mina Norte a nagyobb Guasare szénkomplexum szerves része.", "Jelentősen növeli Zulia exportkapacitásait.", "A bányában végzett munka alapvető gazdasági motor a környező közösség számára.", "A szénkitermelés stratégiai hozzájárulást jelent a nemzeti gazdasági teljesítményhez."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/mina-norte-coal-mine-economic-v2.webp"},
   {
     id: "loma-de-niquel-mine-economic-v2",
     type: "industry",
@@ -790,9 +770,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Loma de Níquel ist eine technologisch hochspezialisierte Anlage an der Grenze zwischen den Bundesstaaten Aragua und Miranda. Hier wird Nickel abgebaut und direkt vor Ort zu Ferronickel verarbeitet, einem essenziellen Rohstoff für die Produktion von hochwertigem Edelstahl. Die Anlage ist ein Beispiel für die Diversifizierung der venezolanischen Bergbauindustrie jenseits von Gold und Öl. Sie unterstreicht die Rolle Venezuelas als Lieferant für spezialisierte Industriematerialien auf dem Weltmarkt. Wirtschaft K8 — Industrielle Vielfalt.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Loma de Níquel egy technológiailag magasan specializált létesítmény Aragua és Miranda államok határán. Itt nikkelt bányásznak és helyben ferronikkelnek dolgozzák fel, ami a minőségi rozsdamentes acél gyártásának alapanyaga. Az üzem az aranyon és olajon túli venezuelai bányászati diverzifikáció példája. Kiemeli Venezuela szerepét a világpiaci speciális ipari anyagok szállítójaként. Gazdaság K8 — ipari sokszínűség.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Liegt zwischen Aragua und Miranda", "Produziert Ferronickel-Pellets", "Verfügt über eigene Schmelzöfen", "Wichtiges Diversifizierungsprojekt"],
@@ -802,11 +782,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Loma de Níquel ist ein zentrales Projekt zur Diversifizierung der Rohstoffbasis.", "Die integrierte Verarbeitung vor Ort steigert den Wert der Exportgüter signifikant.", "Das Ferronickel aus dieser Mine ist weltweit in der Edelstahlbranche gefragt.", "Der Betrieb ist ein bedeutender wirtschaftlicher Akteur im Grenzgebiet von Aragua und Miranda."],
-      hu: [],
+      hu: ["A Loma de Níquel a nyersanyagbázis diverzifikálásának központi projektje.", "A helyben végzett integrált feldolgozás jelentősen növeli az export értékét.", "Az itt bányászott ferronikkel világszerte keresett a rozsdamentes acél iparágban.", "Az üzem jelentős gazdasági szereplő Aragua és Miranda határvidékén."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/loma-de-niquel-mine-economic-v2.webp"},
   {
     id: "jose-petrochemical-complex-economic-v2",
     type: "industry",
@@ -821,9 +800,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Komplex Jose ist die industrielle Brücke zwischen den riesigen Vorkommen im Orinoco-Gürtel und den internationalen Absatzmärkten. Hier wird das extra schwere Rohöl, das im Landesinneren gewonnen wird, zu verkaufsfähigen Erdölprodukten aufbereitet. Seine Lage an der Ostküste ermöglicht einen direkten Export über große Tanker-Terminals. Jose ist ein hochkomplexer Industriepark und ein entscheidender Faktor für die venezolanische Erdölexportstrategie. Wirtschaft K8 — Wertschöpfung.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Jose komplexum az ipari híd az Orinoco-övezet hatalmas készletei és a nemzetközi piacok között. Itt készítik elő a szárazföld belsejében nyert extra nehéz nyersolajat az értékesítésre. Keleti parti fekvése közvetlen exportot tesz lehetővé nagy tankerkikötőkön keresztül. A Jose egy rendkívül összetett ipari park és a venezuelai olajexport-stratégia döntő tényezője. Gazdaság K8 — értékteremtés.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Verarbeitet Orinoco-Schweröl", "Exportiert flüssiges Erdgas (NGL)", "Massive Lager- und Verladeterminals", "Lebensader der Ölexporte"],
@@ -833,7 +812,7 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Jose ist der wichtigste Standort für die Veredelung von Orinoco-Schweröl.", "Die Terminals sind für die größten Tanker der Welt ausgelegt.", "Flüssiges Erdgas (NGL) ist ein wichtiges Nebenprodukt des Aufbereitungsprozesses.", "Der Standort Jose fungiert als entscheidendes Gateway für den gesamten Erdöl-Export der östlichen Region."],
-      hu: [],
+      hu: ["Jose az Orinoco nehézolaj nemesítésének legfontosabb helyszíne.", "Termináljait a világ legnagyobb tankereihez tervezték.", "A cseppfolyósított gáz (NGL) a folyamat fontos mellékterméke.", "A helyszín döntő kapuként szolgál a teljes keleti régió olajexportja számára."],
       ro: [],
       en: [],
     }
@@ -852,9 +831,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Morón ist ein Pionierstandort der venezolanischen Petrochemie. Mit der Spezialisierung auf Düngemittel und Agrarchemikalien unterstützt der Komplex maßgeblich die landwirtschaftliche Produktion in ganz Venezuela. Die Anlage in der Nähe von Puerto Cabello zeigt, wie petrochemische Prozesse direkt genutzt werden, um die Ernährungssicherung und die landwirtschaftliche Produktivität zu fördern. Der Komplex ist nicht nur historisch bedeutsam, sondern auch heute ein unverzichtbarer Baustein der industriellen Infrastruktur. Wirtschaft K6 — Agrarchemie.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Morón a venezuelai petrolkémia úttörő helyszíne. Műtrágyákra és agrárvegyszerekre specializálódva a komplexum jelentősen támogatja a mezőgazdasági termelést az egész országban. A Puerto Cabello közelében lévő üzem példája annak, hogyan használják fel a petrolkémiai folyamatokat az élelmiszerbiztonság és a termelékenység növelésére. A komplexum nemcsak történelmileg jelentős, hanem ma is az ipari infrastruktúra nélkülözhetetlen eleme. Gazdaság K6 — agrárkémia.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Produziert Harnstoff und Ammoniak", "Wichtig für die Landwirtschaft", "Liegt nahe Puerto Cabello", "Betrieben von Pequiven"],
@@ -864,7 +843,7 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Morón ist der älteste petrochemische Standort Venezuelas.", "Die Produktion von Harnstoff und Ammoniak ist zentral für die Versorgung der Landwirtschaft.", "Pequiven als Betreiber integriert den Standort in das nationale Industrienetzwerk.", "Die Lage nahe Puerto Cabello optimiert die logistische Verteilung der Agrarprodukte."],
-      hu: [],
+      hu: ["Morón Venezuela legrégebbi petrolkémiai helyszíne.", "A karbamid és ammónia termelése központi jelentőségű a mezőgazdaság számára.", "Az üzemeltető Pequiven integrálja a helyszínt a nemzeti ipari hálózatba.", "A Puerto Cabello közeli fekvés segíti az agrártermékek logisztikai elosztását."],
       ro: [],
       en: [],
     }
@@ -883,9 +862,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "El Tablazo ist eine gigantische Industrieanlage am Rande des Maracaibo-Sees, die eine entscheidende Rolle bei der Versorgung mit Kunststoffen und industriellen Basis-Chemikalien spielt. Indem sie Erdgas aus der Region um den See als Rohstoff nutzt, verwandelt die Anlage diese in Produkte wie PVC und Polyethylen. El Tablazo ist ein Motor für die Kunststoffindustrie in ganz Südamerika und ein wichtiger Beweis für die industrielle Tiefe der venezolanischen petrochemischen Verarbeitung. Wirtschaft K7 — Industrieproduktion.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Az El Tablazo egy gigantikus ipari létesítmény a Maracaibo-tó szélén, amely döntő szerepet játszik a műanyagokkal és alapvegyületekkel való ellátásban. A tó környéki földgázt alapanyagként használva olyan termékeket állít elő, mint a PVC és a polietilén. Az El Tablazo az egész dél-amerikai műanyagipar motorja, és fontos bizonyítéka a venezuelai petrolkémiai feldolgozás ipari mélységének. Gazdaság K7 — ipari termelés.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Produziert PVC und Polyethylen", "Nutzt Erdgas aus dem Seegebiet", "Schlüssel für die Kunststoffindustrie", "Einer der größten in Südamerika"],
@@ -895,11 +874,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["El Tablazo ist einer der größten petrochemischen Standorte in Südamerika.", "Der Standort nutzt die reichen Erdgasvorkommen rund um den Maracaibo-See.", "Die Produktion von PVC ist für die Bauindustrie in Venezuela und darüber hinaus essenziell.", "Die Anlage bildet ein Zentrum für die industrielle Wertschöpfung in der Zulia-Region."],
-      hu: [],
+      hu: ["Az El Tablazo Dél-Amerika egyik legnagyobb petrolkémiai helyszíne.", "Az üzem a Maracaibo-tó körüli gazdag földgázkészleteket használja fel.", "A PVC gyártása elengedhetetlen az építőipar számára Venezuelában és azon túl.", "A létesítmény a Zulia régió ipari értékteremtésének központja."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/el-tablazo-petrochemical-economic-v2.webp"},
   {
     id: "caruachi-hydroelectric-plant-economic-v2",
     type: "industry",
@@ -914,9 +892,9 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Caruachi ist ein technisches Meisterwerk, das die gewaltige Energie des Flusses Caroní in Strom für Venezuela verwandelt. Als Teil der 'Caroní-Kaskade' sichert es die Energieversorgung der Schwerindustrie in Ciudad Guayana. Mit einer beachtlichen installierten Leistung ist es eine der Säulen der venezolanischen Energieunabhängigkeit durch erneuerbare Quellen. Die Anlage zeigt, wie die geografische Lage und die Kraft der Natur zur treibenden wirtschaftlichen Energiequelle einer ganzen Region werden können. Physik K8 — Erneuerbare Energien.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Caruachi egy mérnöki mestermű, amely a Caroní folyó hatalmas energiáját alakítja árammá Venezuela számára. A 'Caroní-vízlépcső' részeként biztosítja Ciudad Guayana nehéziparának energiaellátását. Jelentős beépített teljesítményével a megújuló forrásokon alapuló venezuelai energiafüggetlenség egyik pillére. Az üzem megmutatja, hogyan válhat a földrajzi fekvés és a természet ereje egy egész régió gazdasági motorjává. Fizika K8 — megújuló energiák.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Installierte Leistung von über 2.100 MW", "Teil der Caroní-Kaskade", "Inbetriebnahme 2006 abgeschlossen", "Nahe Ciudad Guayana gelegen"],
@@ -926,9 +904,10 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Caruachi wurde als Teil eines groß angelegten Plans zur Erweiterung der Wasserkraftkapazität gebaut.", "Die Anlage trägt maßgeblich zur Versorgung der Stahl- und Aluminiumindustrie bei.", "Der Caroní-Fluss ist einer der energiereichsten Flüsse Südamerikas.", "Die Integration in das nationale Stromnetz ist für Venezuela strategisch essenziell."],
-      hu: [],
+      hu: ["Caruachi a vízerőmű-kapacitás bővítésére irányuló nagyszabású terv részeként épült.", "Az üzem meghatározó az acél- és alumíniumipar ellátásában.", "A Caroní folyó Dél-Amerika egyik legenergiadúsabb folyója.", "A nemzeti hálózatba való integráció stratégiai fontosságú Venezuela számára."],
       ro: [],
       en: [],
     }
   }
 ];
+

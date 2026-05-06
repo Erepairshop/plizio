@@ -43,8 +43,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Carved out of solid rock by slaves.",
         "Provides a shortcut to Fort Fincastle."
       ]
-    }
-  },
+    }, image: "/poi-images/queens-staircase-nassau-landmarks-v2.webp"},
   {
     id: "christ-church-cathedral-landmarks-v2",
     type: "landmark",
@@ -131,8 +130,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Popular meeting point for city tours.",
         "Connects the port to Parliament."
       ]
-    }
-  },
+    }, image: "/poi-images/rawson-square-nassau-landmarks-v2.webp"},
   {
     id: "fort-fincastle-landmarks-v2",
     type: "landmark",
@@ -175,8 +173,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Constructed from local limestone.",
         "Offers a panoramic view of the city."
       ]
-    }
-  },
+    }, image: "/poi-images/fort-fincastle-landmarks-v2.webp"},
   {
     id: "sir-sidney-poitier-bridge-landmarks-v2",
     type: "landmark",
@@ -219,8 +216,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Offers a great view of the harbor.",
         "Replaced older bridge structures."
       ]
-    }
-  },
+    }, image: "/poi-images/sir-sidney-poitier-bridge-landmarks-v2.webp"},
   {
     id: "baha-mar-resort-landmarks-v2",
     type: "landmark",
@@ -263,8 +259,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Features the largest casino in the Bahamas.",
         "Modern architectural landmark."
       ]
-    }
-  },
+    }, image: "/poi-images/baha-mar-resort-landmarks-v2.webp"},
   {
     id: "gregorys-arch-landmarks-v2",
     type: "landmark",
@@ -307,8 +302,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Serves as an access tunnel.",
         "Historical symbol of city development."
       ]
-    }
-  },
+    }, image: "/poi-images/gregorys-arch-landmarks-v2.webp"},
   {
     id: "nassau-cenotaph-landmarks-v2",
     type: "landmark",
@@ -351,8 +345,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Constructed of white limestone.",
         "Contains memorial plaques with names."
       ]
-    }
-  },
+    }, image: "/poi-images/nassau-cenotaph-landmarks-v2.webp"},
   {
     id: "villa-doyle-landmarks-v2",
     type: "landmark",
@@ -395,8 +388,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Restored in the 1990s.",
         "Example of classic colonial architecture."
       ]
-    }
-  },
+    }, image: "/poi-images/villa-doyle-landmarks-v2.webp"},
   {
     id: "dundas-centre-landmarks-v2",
     type: "landmark",
@@ -439,8 +431,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Regularly hosts local theatrical plays.",
         "Important venue for Bahamian artists."
       ]
-    }
-  },
+    }, image: "/poi-images/dundas-centre-landmarks-v2.webp"},
   {
     id: "hole-in-the-wall-lighthouse-landmarks-v2",
     type: "landmark",
@@ -483,8 +474,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Was important for British shipping routes.",
         "Accessible only via unpaved roads."
       ]
-    }
-  },
+    }, image: "/poi-images/hole-in-the-wall-lighthouse-landmarks-v2.webp"},
   {
     id: "dixon-hill-lighthouse-landmarks-v2",
     type: "landmark",
@@ -527,8 +517,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Offers a spectacular view.",
         "Is still wound by hand."
       ]
-    }
-  },
+    }, image: "/poi-images/dixon-hill-lighthouse-landmarks-v2.webp"},
   {
     id: "great-isaac-lighthouse-landmarks-v2",
     type: "landmark",
@@ -571,8 +560,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Was abandoned in 1969.",
         "A popular destination for adventurous divers."
       ]
-    }
-  },
+    }, image: "/poi-images/great-isaac-lighthouse-landmarks-v2.webp"},
   {
     id: "dolphin-house-museum-landmarks-v2",
     type: "landmark",
@@ -615,8 +603,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Considered Bimini's 'Taj Mahal'.",
         "Withstands strong hurricanes."
       ]
-    }
-  },
+    }, image: "/poi-images/dolphin-house-museum-landmarks-v2.webp"},
   {
     id: "preachers-cave-landmarks-v2",
     type: "landmark",
@@ -659,8 +646,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Features an inscription on the wall.",
         "An important historical natural landmark."
       ]
-    }
-  },
+    }, image: "/poi-images/preachers-cave-landmarks-v2.webp"},
   {
     id: "ocean-atlas-statue-landmarks-v2",
     type: "landmark",
@@ -703,8 +689,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Designed by artist Jason deCaires Taylor.",
         "Acts as an artificial reef to encourage marine life."
       ]
-    }
-  },
+    }, image: "/poi-images/ocean-atlas-statue-landmarks-v2.webp"},
   {
     id: "royal-victoria-hotel-ruins-landmarks-v2",
     type: "landmark",
@@ -747,8 +732,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Destroyed by a fire in 1990.",
         "The surrounding tropical garden is still present."
       ]
-    }
-  },
+    }, image: "/poi-images/royal-victoria-hotel-ruins-landmarks-v2.webp"},
   {
     id: "hermitage-tomb-landmarks-v2",
     type: "landmark",
@@ -791,8 +775,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Testament to plantation life in the 18th century.",
         "Surrounded by dense local vegetation."
       ]
-    }
-  },
+    }, image: "/poi-images/hermitage-tomb-landmarks-v2.webp"},
   {
     id: "great-stirrup-cay-lighthouse-landmarks-v2",
     type: "landmark",
@@ -835,8 +818,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "One of the oldest surviving lighthouses in the country.",
         "The island is now primarily used by cruise ships."
       ]
-    }
-  },
+    }, image: "/poi-images/great-stirrup-cay-lighthouse-landmarks-v2.webp"},
   {
     id: "supreme-court-landmarks-v2",
     type: "landmark",
@@ -879,8 +861,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Replaced earlier courthouse buildings on the same site.",
         "Frequent location for solemn judicial ceremonies."
       ]
-    }
-  },
+    }, image: "/poi-images/supreme-court-landmarks-v2.webp"},
   {
     id: "shirley-street-post-office-landmarks-v2",
     type: "landmark",
@@ -923,8 +904,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Located near many other historical landmarks.",
         "Iconic pink exterior."
       ]
-    }
-  },
+    }, image: "/poi-images/shirley-street-post-office-landmarks-v2.webp"},
   {
     id: "saint-matthews-anglican-church-landmarks-v2",
     type: "landmark",
@@ -967,8 +947,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Features a historic cemetery.",
         "Important spiritual center of the community."
       ]
-    }
-  },
+    }, image: "/poi-images/saint-matthews-anglican-church-landmarks-v2.webp"},
   {
     id: "thomas-a-robinson-stadium-landmarks-v2",
     type: "landmark",
@@ -1011,8 +990,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Named after a famous Bahamian sprinter.",
         "Hosted the IAAF World Relays."
       ]
-    }
-  },
+    }, image: "/poi-images/thomas-a-robinson-stadium-landmarks-v2.webp"},
   {
     id: "ss-sapona-shipwreck-landmarks-v2",
     type: "landmark",
@@ -1055,8 +1033,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Ran aground during a hurricane in 1926.",
         "Later served as a target for bombing practice."
       ]
-    }
-  },
+    }, image: "/poi-images/ss-sapona-shipwreck-landmarks-v2.webp"},
   {
     id: "compass-point-studios-landmarks-v2",
     type: "landmark",
@@ -1099,8 +1076,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Closed its doors in the early 2000s.",
         "An important site in pop music history."
       ]
-    }
-  },
+    }, image: "/poi-images/compass-point-studios-landmarks-v2.webp"},
   {
     id: "kendal-isaacs-gymnasium-landmarks-v2",
     type: "landmark",
@@ -1143,8 +1119,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Often used for basketball tournaments.",
         "Also served as an emergency shelter during hurricanes."
       ]
-    }
-  },
+    }, image: "/poi-images/kendal-isaacs-gymnasium-landmarks-v2.webp"},
   {
     id: "clifton-heritage-ruins-landmarks-v2",
     type: "landmark",
@@ -1187,8 +1162,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Known for stone slave hut remnants.",
         "An important site for archaeological studies."
       ]
-    }
-  },
+    }, image: "/poi-images/clifton-heritage-ruins-landmarks-v2.webp"},
   {
     id: "st-francis-xavier-cathedral-landmarks-v2",
     type: "landmark",
@@ -1231,8 +1205,7 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
         "Expanded with a new main building in 2004.",
         "A prominent landmark in the downtown area."
       ]
-    }
-  },
+    }, image: "/poi-images/st-francis-xavier-cathedral-landmarks-v2.webp"},
   {
     id: "pink-sands-hotel-architecture-landmarks-v2",
     type: "landmark",

@@ -18,8 +18,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Kozponti arukezelo pont.", "Kozel a fovaroshoz.", "Fontos import es export hely."],
       ro: ["Nod central pentru marfuri.", "Aproape de centrul capitalei.", "Important pentru import si export."],
       en: ["Central cargo transfer point.", "Close to the capital center.", "Important for imports and exports."]
-    }
-  },
+    }, image: "/poi-images/bs-nassau-cargo-port-economic-v2.webp"},
   {
     id: "bs-prince-george-wharf-economic-v2",
     type: "port",
@@ -37,8 +36,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Fontos turisztikai pont.", "Kozvetlen kapcsolat a belvarossal.", "Nagy utasforgalom."],
       ro: ["Factor puternic de turism.", "Acces direct la centrul vechi.", "Trafic mare de pasageri."],
       en: ["Major tourism driver.", "Direct access to downtown Nassau.", "High passenger traffic."]
-    }
-  },
+    }, image: "/poi-images/bs-prince-george-wharf-economic-v2.webp"},
   {
     id: "bs-arawak-cay-fish-port-economic-v2",
     type: "port",
@@ -56,8 +54,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Fontos halaszati rakodopont.", "Ellatja az ettermeket es piacokat.", "Kozel a belvaroshoz."],
       ro: ["Punct important pentru captura.", "Aprovizioneaza restaurante si piete.", "Aproape de centrul orasului."],
       en: ["Important catch landing point.", "Supplies restaurants and markets.", "Near the city center."]
-    }
-  },
+    }, image: "/poi-images/bs-arawak-cay-fish-port-economic-v2.webp"},
   {
     id: "bs-clifton-pier-industrial-economic-v2",
     type: "industry",
@@ -75,8 +72,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Logisztikai fekves.", "Tamogatja a kikotoi szolgaltatasokat.", "Tipikus ipari zona."],
       ro: ["Pozitie buna pentru logistica.", "Sprijina serviciile portuare.", "Zona comerciala tipica."],
       en: ["Logistics-friendly location.", "Supports port services.", "Typical business district."]
-    }
-  },
+    }, image: "/poi-images/bs-clifton-pier-industrial-economic-v2.webp"},
   {
     id: "bs-carmichael-road-business-economic-v2",
     type: "industry",
@@ -94,8 +90,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Sok kis vallalkozas.", "Fontos munkahelyi helyszin.", "Kozel a fo kozlekedesi utakhoz."],
       ro: ["Multe afaceri mici.", "Loc important de munca.", "Aproape de artere principale."],
       en: ["Many small businesses.", "Important employment site.", "Near major road links."]
-    }
-  },
+    }, image: "/poi-images/bs-carmichael-road-business-economic-v2.webp"},
   {
     id: "bs-cowpen-road-industrial-economic-v2",
     type: "industry",
@@ -113,8 +108,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Eros kiskereskedelem.", "Tobb uzleti blokkot kot ossze.", "Fontos varosszeli zona."],
       ro: ["Comert local puternic.", "Leaga mai multe blocuri comerciale.", "Zona urbana importanta."],
       en: ["Strong local trade.", "Connects several business blocks.", "Important edge-of-city zone."]
-    }
-  },
+    }, image: "/poi-images/bs-cowpen-road-industrial-economic-v2.webp"},
   {
     id: "bs-lynden-pindling-cargo-economic-v2",
     type: "industry",
@@ -132,8 +126,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Fontos a legi fuvarozasban.", "Gyors elosztas a szigeten.", "Nagy logisztikai ertek."],
       ro: ["Important pentru marfuri aeriene.", "Distribuire rapida pe insula.", "Valoare logistica mare."],
       en: ["Important for air freight.", "Fast distribution on the island.", "High logistics value."]
-    }
-  },
+    }, image: "/poi-images/bs-lynden-pindling-cargo-economic-v2.webp"},
   {
     id: "bs-port-lucaya-marina-economic-v2",
     type: "port",
@@ -151,8 +144,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Nehany jachtos kedvenc helye.", "Fontos turisztikai bevétel.", "Kozel az udulonegyedhez."],
       ro: ["Popular printre proprietarii de iahturi.", "Important pentru veniturile turistice.", "Aproape de zona de resort."],
       en: ["Popular with yacht owners.", "Important for tourism income.", "Near the resort district."]
-    }
-  },
+    }, image: "/poi-images/bs-port-lucaya-marina-economic-v2.webp"},
   {
     id: "bs-grand-bahama-shipyard-economic-v2",
     type: "industry",
@@ -189,8 +181,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Szabadkereskedelmi kozelseg.", "Sok raktar.", "Fontos kereskedelmi helyszin."],
       ro: ["Aproape de zona libera.", "Multe depozite.", "Loc important pentru comert."],
       en: ["Near the free trade zone.", "Many warehouses.", "Important trade location."]
-    }
-  },
+    }, image: "/poi-images/bs-freeport-industrial-park-economic-v2.webp"},
   {
     id: "bs-west-end-ferry-port-economic-v2",
     type: "port",
@@ -208,8 +199,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Kozel az amerikai utvonalhoz.", "Fontos kozelseg az USA-hoz.", "Eros utasforgalom."],
       ro: ["Aproape de ruta spre SUA.", "Punct important de proximitate.", "Trafic mare de pasageri."],
       en: ["Near the US route.", "Important cross-border link.", "Strong passenger traffic."]
-    }
-  },
+    }, image: "/poi-images/bs-west-end-ferry-port-economic-v2.webp"},
   {
     id: "bs-marsh-harbour-boat-yard-economic-v2",
     type: "industry",
@@ -227,8 +217,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Ellatja a vitorlazosokat es halaszokat.", "A kikotoi gazdasag kozepe.", "Kis tengeri vallalkozasok."],
       ro: ["Deserveste navigatorii si pescarii.", "Nucleul economiei portuare.", "Mici afaceri maritime."],
       en: ["Serves sailors and fishers.", "Core of the harbor economy.", "Small marine businesses."]
-    }
-  },
+    }, image: "/poi-images/bs-marsh-harbour-boat-yard-economic-v2.webp"},
   {
     id: "bs-man-o-war-cay-boatbuilders-economic-v2",
     type: "industry",
@@ -246,8 +235,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Hires kezmuves muhelyek.", "Faipari export is jelen van.", "Helyi gazdasagi ikon."],
       ro: ["Ateliere artizanale cunoscute.", "Export local de lucrari din lemn.", "Icon al economiei locale."],
       en: ["Famous craft workshops.", "Local timber exports.", "Economic icon of the island."]
-    }
-  },
+    }, image: "/poi-images/bs-man-o-war-cay-boatbuilders-economic-v2.webp"},
   {
     id: "bs-treasure-cay-marina-economic-v2",
     type: "port",
@@ -284,8 +272,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Ellatja a kozoseget.", "Fontos postahajo megallo.", "A helyi kapcsolatok kozepe."],
       ro: ["Aprovizioneaza comunitatea.", "Escala importanta pentru posta maritima.", "Nucleu de conexiuni locale."],
       en: ["Supplies the community.", "Important mailboat stop.", "Core local connection point."]
-    }
-  },
+    }, image: "/poi-images/bs-green-turtle-cay-dock-economic-v2.webp"},
   {
     id: "bs-spanish-wells-lobster-port-economic-v2",
     type: "port",
@@ -303,8 +290,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Fontos fogasi bazis.", "Eros tengeri export.", "Meghatarozza a helyi gazdasagot."],
       ro: ["Baza importanta pentru captura.", "Export puternic de fructe de mare.", "Defineste economia locala."],
       en: ["Important landing base.", "Strong seafood exports.", "Shapes the local economy."]
-    }
-  },
+    }, image: "/poi-images/bs-spanish-wells-lobster-port-economic-v2.webp"},
   {
     id: "bs-north-eleuthera-fish-plant-economic-v2",
     type: "industry",
@@ -322,8 +308,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Hideglanc a fogasokhoz.", "Ellatja a szigeti piacokat.", "Tamogatja a halasz csaladokat."],
       ro: ["Lant frigorific pentru captura.", "Aprovizioneaza pietele insulei.", "Sprijina familiile de pescari."],
       en: ["Cold chain for catch.", "Supplies island markets.", "Supports fishing families."]
-    }
-  },
+    }, image: "/poi-images/bs-north-eleuthera-fish-plant-economic-v2.webp"},
   {
     id: "bs-governors-harbour-pineapple-economic-v2",
     type: "industry",
@@ -341,8 +326,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Kapcsolja a mezogazdasagot es a kereskedelmet.", "Fontos szigeti uzem.", "Eros regionlis szerep."],
       ro: ["Leaga agricultura de comert.", "Operatiune importanta pe insula.", "Rol regional puternic."],
       en: ["Links farming and trade.", "Important island operation.", "Strong regional role."]
-    }
-  },
+    }, image: "/poi-images/bs-governors-harbour-pineapple-economic-v2.webp"},
   {
     id: "bs-rock-sound-salt-works-economic-v2",
     type: "industry",
@@ -360,8 +344,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Hagyomanyos szigeti uzem.", "Nehez, de stabil munka.", "Helyi exportertek."],
       ro: ["Operatiune traditionala insulara.", "Munca grea, dar stabila.", "Valoare de export locala."],
       en: ["Traditional island operation.", "Hard but steady work.", "Local export value."]
-    }
-  },
+    }, image: "/poi-images/bs-rock-sound-salt-works-economic-v2.webp"},
   {
     id: "bs-tarpum-bay-farming-depot-economic-v2",
     type: "industry",
@@ -379,8 +362,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Tamogatja a farmerokat.", "Osszegyujti a termest.", "Fontos a szigeti ellatasban."],
       ro: ["Sprijina fermierii.", "Colecteaza recolta.", "Important pentru aprovizionarea insulei."],
       en: ["Supports farmers.", "Collects harvest goods.", "Important for island supply."]
-    }
-  },
+    }, image: "/poi-images/bs-tarpum-bay-farming-depot-economic-v2.webp"},
   {
     id: "bs-george-town-marina-economic-v2",
     type: "port",
@@ -398,8 +380,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Eros jachtforgalom.", "Exuma utazasok csomopontja.", "Tamogatja a turizmust."],
       ro: ["Trafic intens de iahturi.", "Nod pentru calatoriile in Exuma.", "Sprijina turismul."],
       en: ["Heavy yacht traffic.", "Hub for Exuma travel.", "Supports tourism."]
-    }
-  },
+    }, image: "/poi-images/bs-george-town-marina-economic-v2.webp"},
   {
     id: "bs-rolleville-fisheries-coop-economic-v2",
     type: "industry",
@@ -417,8 +398,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Erositi a helyi halaszokat.", "Koordinalja az ertekesitest.", "Fontos kozossegi uzem."],
       ro: ["Intareste pescarii locali.", "Coordoneaza vanzarile.", "Operatiune comunitara importanta."],
       en: ["Strengthens local fishers.", "Coordinates sales.", "Important community enterprise."]
-    }
-  },
+    }, image: "/poi-images/bs-rolleville-fisheries-coop-economic-v2.webp"},
   {
     id: "bs-black-point-dock-economic-v2",
     type: "port",
@@ -436,8 +416,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Ellatja a kozelbeli telepulest.", "Kis, de rendszeres forgalom.", "Fontos szigeti kapcsolat."],
       ro: ["Aprovizioneaza asezarea apropiata.", "Trafic mic, dar regulat.", "Conexiune insulara importanta."],
       en: ["Supplies the nearby settlement.", "Small but regular traffic.", "Important island link."]
-    }
-  },
+    }, image: "/poi-images/bs-black-point-dock-economic-v2.webp"},
   {
     id: "bs-long-island-salt-works-economic-v2",
     type: "industry",
@@ -455,8 +434,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Regionlis nyersanyagbázis.", "Fontos exportagazat.", "Beagyazva a szigeti hagyomanyba."],
       ro: ["Baza regionala de materii prime.", "Ramura importanta de export.", "Ancorata in traditia insulei."],
       en: ["Regional raw material base.", "Important export branch.", "Rooted in island tradition."]
-    }
-  },
+    }, image: "/poi-images/bs-long-island-salt-works-economic-v2.webp"},
   {
     id: "bs-deadmans-cay-agri-depot-economic-v2",
     type: "industry",
@@ -474,8 +452,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Tamogatja a helyi farmokat.", "Fontos az elosztasban.", "Kozel a repuloterhez."],
       ro: ["Sprijina fermele locale.", "Important pentru distributie.", "Aproape de aeroport."],
       en: ["Supports local farms.", "Important for distribution.", "Near the airport."]
-    }
-  },
+    }, image: "/poi-images/bs-deadmans-cay-agri-depot-economic-v2.webp"},
   {
     id: "bs-andros-crab-plant-economic-v2",
     type: "industry",
@@ -493,8 +470,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Eros fogasi szektor.", "Szezonalis munkat tamogat.", "Fontos szigeti ipar."],
       ro: ["Sector puternic de captura.", "Sprijina munca sezoniera.", "Industrie importanta a insulei."],
       en: ["Strong catch sector.", "Supports seasonal work.", "Important island industry."]
-    }
-  },
+    }, image: "/poi-images/bs-andros-crab-plant-economic-v2.webp"},
   {
     id: "bs-congo-town-dock-economic-v2",
     type: "port",
@@ -512,8 +488,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Fontos szigeti szerep.", "Andros del reszet szolgalja ki.", "Egyszeru, de stabil kapcsolat."],
       ro: ["Functie insulara importanta.", "Deserveste sudul lui Andros.", "Conexiune simpla, dar stabila."],
       en: ["Important island function.", "Serves southern Andros.", "Simple but steady connection."]
-    }
-  },
+    }, image: "/poi-images/bs-congo-town-dock-economic-v2.webp"},
   {
     id: "bs-kemps-bay-marina-economic-v2",
     type: "port",
@@ -531,8 +506,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Vitorlazosok es hajosok hasznaljak.", "Eros szabadidos forgalom.", "Helyi gazdasagi motor."],
       ro: ["Folosit de navigatori si marinari.", "Trafic puternic de agrement.", "Motor economic local."],
       en: ["Used by boaters and sailors.", "Strong leisure traffic.", "Local economic driver."]
-    }
-  },
+    }, image: "/poi-images/bs-kemps-bay-marina-economic-v2.webp"},
   {
     id: "bs-matthew-town-salt-pans-economic-v2",
     type: "industry",
@@ -550,8 +524,7 @@ export const poiExtraBahamasEconomicV2: POI[] = [
       hu: ["Nagy nyersanyag-szektor.", "Meghatarozza a sziget termeleset.", "Fontos exportbazis."],
       ro: ["Sector important de materii prime.", "Defineste productia insulei.", "Baza importanta de export."],
       en: ["Major raw material sector.", "Defines island production.", "Important export base."]
-    }
-  },
+    }, image: "/poi-images/bs-matthew-town-salt-pans-economic-v2.webp"},
   {
     id: "bs-abrahams-bay-trading-post-economic-v2",
     type: "industry",

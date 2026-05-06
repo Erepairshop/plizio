@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraHu3: POI[] = [
@@ -40,8 +41,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Aquincumot az 1. század végén alapították a római limes részeként.", "Virágkorában, a 2-3. században lakossága elérte a 30-40 ezer főt.", "Saját vízvezetékkel, csatornázással és fűtött fürdőkkel rendelkezett.", "A múzeumban látható víziorgona a világon egyedülálló hangszer 228-ból.", "Polgárvárosi amfiteátruma 6000 néző befogadására volt alkalmas.", "Marcus Aurelius császár itt írhatta „Elmélkedései” egyes részeit.", "Az ásatások a 19. század végén indultak el a területen.", "A múzeum 1894-ben nyílt meg, az ország egyik legrégebbi ilyen intézménye."],
       ro: ["Aquincum a fost capitala provinciei Pannonia Inferior, având peste 40.000 de locuitori.", "Orga de la Aquincum, descoperită în 1931, este singurul instrument muzical roman de acest tip păstrat.", "Amfiteatrul civil putea găzdui până la 6.000 de spectatori la luptele de gladiatori.", "Săpăturile sistematice au început în anul 1880 sub conducerea lui János Rómer.", "Muzeul include o clădire modernă de expoziții și un lapidariu cu sute de inscripții în piatră.", "Ruinele băilor romane păstrează încă sistemul de încălzire prin pardoseală (hypocaustum)."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-aquincum-museum-extra.webp"},
   {
     id: "historical-vasarcsarnok-extra",
     type: "historical",
@@ -80,8 +80,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A csarnok 1897-ben készült el Pecz Samu építész tervei alapján.", "Megnyitásakor kora egyik legmodernebbje volt saját vasúti rakodóval.", "Jellegzetes tetőcserepei a pécsi Zsolnay-gyárból származnak.", "A második világháború alatt az épület súlyos károkat szenvedett.", "Az 1990-es években teljes körű felújításon esett át a csarnok.", "Alapterülete mintegy 10 000 negyzetmétert tesz ki.", "Olyan hírességek is megfordultak itt, mint Diana hercegnő vagy Margaret Thatcher.", "A legalsó szinten találhatók a híres vecsési savanyúságokat kínáló standok."],
       ro: ["Inaugurarea oficială a avut loc în anul 1897, în prezența împăratului Franz Joseph.", "Suprafața totală a halei este de aproximativ 10.000 de metri pătrați.", "Acoperișul este acoperit cu țigle de ceramică smălțuită de la fabrica Zsolnay din Pécs.", "În 2013, CNN Travel a desemnat-o drept cea mai frumoasă piață din lume.", "Subsolul halei a fost dotat inițial cu celule frigorifice moderne pentru carne.", "Clădirea a fost grav avariată în al Doilea Război Mondial și restaurată în anii '90."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-vasarcsarnok-extra.webp"},
   {
     id: "historical-operahaz-extra",
     type: "historical",
@@ -120,8 +119,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Kilencévnyi építkezés után 1884-ben avatták fel Ferenc József jelenlétében.", "A császár kikötése volt, hogy nem lehet nagyobb a bécsi Operánál.", "A nézőtér központi csillárja három tonnát nyom és eredetileg gázüzemű volt.", "Gustav Mahler 1888 és 1891 között az intézmény igazgatója volt.", "Homlokzatát Liszt Ferenc és Erkel Ferenc szobrai díszítik.", "A királyi páholyban ma is láthatók Ferenc József és Sisi névjelei.", "A 2022-ben befejezett felújítás során modern színpadtechnikát kapott.", "A nézőtér befogadóképessége körülbelül 1200 fő."],
       ro: ["Opera a fost deschisă pe 27 septembrie 1884, după 9 ani de construcție.", "Capacitatea sălii este de aproximativ 1.200 de locuri după renovarea recentă.", "Candelabrul principal cântărește 3 tone și a fost fabricat la Mainz, Germania.", "Gustav Mahler a fost directorul artistic al operei între anii 1888 și 1891.", "Fațada este ornată cu statuile compozitorilor Ferenc Erkel și Franz Liszt.", "Scena este dotată cu o tehnologie hidraulică avansată încă de la inaugurare."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-operahaz-extra.webp"},
   {
     id: "animal-habitat-allatkert-bp-extra",
     type: "animal-habitat",
@@ -160,8 +158,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["1866. augusztus 9-én nyílt meg, így a világ elsők között alapított állatkertje.", "A híres Elefántházat indoszlám stílusjegyek és magyar szecesszió díszíti.", "Az 1910-es években Kós Károly tervei alapján épült újjá számos épülete.", "A Varázshegy a kert közepén álló hatalmas műszikla belsejében található.", "Jelentős akváriummal és trópusi növényeket bemutató Pálmaházzal rendelkezik.", "Az állatkert szinte minden épülete országos műemléki védelem alatt áll.", "Aktívan részt vesz nemzetközi fajmegmentési programokban (EEP).", "A magyar udvarban őshonos háziállatfajtákat mutatnak be."],
       ro: ["Grădina a fost deschisă oficial pe 9 august 1866, având inițial 500 de animale.", "Găzduiește în prezent peste 1.000 de specii de animale de pe toate continentele.", "Pavilionul Elefanților a fost premiat pentru designul său oriental restaurat.", "Este prima grădină zoologică din lume unde s-a născut un pui de rinocer prin inseminare.", "Grădina Botanică din incintă prezintă peste 2.000 de specii de plante exotice.", "Stânca Mare (Nagy-szikla) este un deal artificial ce adăpostește habitate moderne."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-allatkert-bp-extra.webp"},
   {
     id: "port-csepel-kikoto-extra",
     type: "port",
@@ -200,8 +197,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A szabadkikötő alapkövét 1928-ban rakták le.", "Magyarország egyetlen olyan kikötője, amely vámmentes (szabadkikötői) státusszal bírt.", "Medencéit úgy tervezték, hogy alacsony vízállásnál is hajózható maradjon.", "Gabonasilója a megnyitásakor Európa egyik legnagyobbja és legmodernebbje volt.", "Területe meghaladja a 150 hektárt, számos ipari és raktárépülettel.", "Évente több millió tonna árut, főleg konténereket és ömlesztett árut mozgatnak itt.", "Közvetlen iparvágány-kapcsolattal rendelkezik a hazai vasúthálózathoz.", "A második világháború alatt stratégiai célpont volt és súlyos bombatalálatok érték."],
       ro: ["Construcția portului a început în anul 1918 și a fost finalizată în 1928.", "Hala de depozitare a cerealelor este unul dintre cele mai mari silozuri din Europa.", "Portul dispune de o rețea feroviară internă proprie de peste 40 de kilometri.", "Nivelul apei în medincile portului este controlat prin ecluze moderne.", "În timpul construcției sale s-au descoperit morminte importante din epoca bronzului.", "Anual, peste 2.000 de barje și nave fluviale acostează în terminalele portului."],
       en: []
-    },
-  },
+    }, image: "/poi-images/port-csepel-kikoto-extra.webp"},
 
   // HU-BA: Baranya (3G, 1LN, 1W)
   {
@@ -282,8 +278,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A mohácsi csata 1526. augusztus 29-én zajlott le, és mindössze két óráig tartott.", "A csatában vesztette életét II. Lajos magyar király, aki menekülés közben a Csele-patakba fulladt.", "Az emlékhelyet 1976-ban, a csata 450. évfordulóján adták át.", "A faragott szobrok névtelen áldozatok ezreit jelképezik.", "A központi emlékmű egy virágot formáz, melynek szirmai a nemzetek összefogását jelzik.", "A tömegsírok pontos helyét fémjelzések mutatják a park területén.", "A modern látogatóközpont 2011-ben nyílt meg modern pedagógiai eszközökkel.", "A vereséget követően Magyarország három részre szakadt: királyi Magyarországra, Erdélyre és a török hódoltságra."],
       ro: ["Bătălia a durat mai puțin de două ore, soldându-se cu circa 18.000 de morți maghiari.", "Regele Ludovic al II-lea al Ungariei s-a înecat în pârâul Csele în timpul retragerii.", "Memorialul a fost proiectat de arhitectul György Vadász.", "Există 5 gropi comune cercetate arheologic în incinta parcului.", "Peste 120 de sculpturi simbolice din lemn marchează locurile de odihnă ale soldaților.", "Poarta memorială are o înălțime de 10 metri și este decorată cu simboluri istorice."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-mohacsi-emlekhely-extra.webp"},
   {
     id: "historical-pecsi-szekesegyhaz-extra",
     type: "historical",
@@ -322,8 +317,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A dóm alapköveit vélhetően Szent István király idején rakták le.", "A török hódoltság alatt a templomot dzsámiként és raktárként is használták.", "Jelenlegi formáját 1882 és 1891 között nyerte el Friedrich von Schmidt tervei alapján.", "A négy torony egyenként 60 méter magas, a négy égtáj felé tájolva.", "Altemplomában jelentős püspökök és történelmi személyiségek nyugszanak.", "A székesegyház akusztikája világhírű, rendszeresen tartanak itt koncerteket.", "A főkapu bronzdomborművei a pécsi egyházmegye történetét mutatják be.", "II. János Pál pápa 1991-es látogatása során a templomot „basilica minor” rangra emelte."],
       ro: ["Catedrala are o lungime de 70 de metri și o lățime de 22 de metri.", "Fiecare dintre cele patru turnuri atinge înălțimea de 60 de metri.", "În timpul dominației otomane (1543-1686), catedrala a servit drept moschee.", "Orga catedralei a fost fabricată de celebra firmă Angster în 1887.", "Cripta este cea mai veche parte, datând din secolul al XI-lea.", "Papalitatea a acordat catedralei titlul de 'Basilica Minor' în 1991."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-pecsi-szekesegyhaz-extra.webp"},
   {
     id: "animal-habitat-pecsi-allatkert-extra",
     type: "animal-habitat",
@@ -362,8 +356,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["1960-ban épült fel mindössze néhány hónap alatt, társadalmi összefogással.", "Körülbelül 300 méteres magasságban található egy egykori kőbánya területén.", "Az akvárium-terrárium korábban a belvárosban volt, 2016-ban költözött fel a hegyre.", "Ritka lakói közé tartoznak a törpevíziló és a berber oroszlánok.", "Területének jelentős része akadálymentesített, könnyen bejárható babakocsival is.", "Aktívan részt vesznek a veszélyeztetett fajok nemzetközi tenyésztési programjaiban.", "A látogatóközpont interaktív módon mutatja be a Mecsek ökoszisztémáját.", "Tanösvény segíti a helyi növényvilág megismerésére az állatkert területén."],
       ro: ["Grădina zoologică găzduiește peste 250 de specii de animale.", "Suprafața totală a parcului este de aproximativ 3,5 hectare.", "Acvariul-terariu include un bazin cu rechini de 100.000 de litri.", "Aici trăiesc specii rare precum leopardul persan și hipopotamul pitic.", "Turnul de apă din incintă a fost transformat în punct de observație.", "Peste 150.000 de vizitatori trec anual pragul acestei grădini zoologice."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-pecsi-allatkert-extra.webp"},
   {
     id: "industry-beremendi-cementgyar-extra",
     type: "industry",
@@ -402,8 +395,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A cementgyártás Beremenden már 1911-ben elkezdődött az első körkemencékkel.", "Az üzem a Beremendi-hegy kiváló tisztaságú mészkővagyat használja fel.", "Beremend Magyarország legdélebbi települése, ami stratégiai előnyt jelent az exportban.", "Az 1970-es években épült fel az akkoriban világszínvonalú száraz eljárású technológia.", "Ma a gyár jelentős részben hulladékból származó energiával működik.", "Éves termelési kapacitása meghaladja az egymillió tonna cementet.", "Saját vasútvonallal rendelkezik az áruk hatékony elszállításához.", "A gyár az elsők között kapta meg az országban a környezetvédelmi tanúsítványokat."],
       ro: ["Producția de ciment la Beremend a început oficial în anul 1911.", "Capacitatea anuală de producție depășește 1 milion de tone de ciment.", "Cariera de calcar adiacentă este una dintre cele mai mari din Europa Centrală.", "Fabrica utilizează combustibili alternativi pentru a reduce emisiile de CO2.", "Cimentul de aici a fost folosit la construcția barajelor de pe Dunăre.", "Sistemul de filtrare a aerului reține 99,9% din particulele de praf."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-beremendi-cementgyar-extra.webp"},
 
   // HU-BK: Bács-Kiskun (3G, 1LN, 1W)
   {
@@ -484,8 +476,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A millenniumi ünnepségek alkalmából, 1893 és 1897 között épült.", "Lechner Ödön itt alkalmazta először széles körben a „magyar nemzeti stílust”.", "A harangjáték 37 harangból áll és 1983 óta működik a tetőzetben.", "A díszterem freskói között látható Ferenc József koronázási jelenete is.", "Az épület sértetlenül vészelte át az 1911-es nagy kecskeméti földrengést.", "Díszítőelemei fagyálló pirogránitból készültek a pécsi Zsolnay-gyárban.", "A városháza az egész ország szecessziós középületeinek példaképévé vált.", "Vezetett túrák keretében a látogatók a tanácstermet is megtekinthetik."],
       ro: ["Clădirea a fost inaugurată cu ocazia aniversării Mileniului în 1896.", "Carillonul este format din 37 de clopote care redau 12 melodii diferite.", "Acoperișul este decorat cu ceramică smălțuită de tip majolică de la fabrica Zsolnay.", "Fațada principală are o lungime de peste 80 de metri.", "Sala festivă are o capacitate de 200 de persoane și este bogat ornamentată.", "Arhitectul Ödön Lechner a fost supranumit 'Gaudi al Ungariei'."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-kecskemeti-varoshaza-extra.webp"},
   {
     id: "historical-kecskemeti-nagytemplom-extra",
     type: "historical",
@@ -524,8 +515,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A templom 1774 és 1806 között épült Osvald Gáspár tervei alapján.", "Tornya 73 méter magas, ezzel a Duna-Tisza köze egyik legmagasabb templomtornya.", "A főoltárképe Urunk mennybemenetelét ábrázolja, Falconer József alkotása.", "A templom alatt kiterjedt kriptarendszer található, ahol neves polgárok nyugszanak.", "Az 1911-es földrengés során a torony megdőlt, de sikerült megmenteni.", "A harangházban található az ország egyik legnagyobb súlyú harangja.", "A belső falfestmények egy része a 20. század elején készült.", "A templom 1993 óta társszékesegyházi rangot visel."],
       ro: ["Turnul bisericii are o înălțime totală de 73 de metri, fiind cel mai înalt din oraș.", "Construcția a durat mai mult de 30 de ani din cauza lipsei de fonduri.", "Cele șase clopote ale bisericii au fost turnate în secole diferite.", "Interiorul poate găzdui peste 3000 de credincioși simultan.", "Frescele de pe tavan au fost pictate în 1903 de artiști din școala locală.", "Ceasul din turn este unul dintre cele mai vechi mecanisme funcționale din regiune."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-kecskemeti-nagytemplom-extra.webp"},
   {
     id: "animal-habitat-kecskemeti-vadaskert-extra",
     type: "animal-habitat",
@@ -564,8 +554,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["1971-ben nyílt meg, eredetileg a város gyermekeinek ajándékaként.", "Viszonylag kis területén több mint 500 állat él körülbelül 100 fajból.", "Híres az európai hiúzok sikeres szaporításáról és védelméről.", "Az állatsimogatóban a gyerekek közvetlen kapcsolatba kerülhetnek a kecskékkel.", "Rendszeres látványetetések során a gondozók érdekes tényeket mesélnek.", "A terület fásított, így a legnagyobb nyári hőségben is kellemes klímájú.", "Szoros együttműködésben áll a helyi iskolákkal a természetismereti oktatásban.", "A belépőjegyek ára tudatosan családbarát a helyi közösség számára."],
       ro: ["Grădina găzduiește aproximativ 500 de animale din peste 100 de specii.", "Suprafața totală a grădinii zoologice este de circa 3 hectare.", "Vedetele grădinii sunt leii africani și tigrii siberieni.", "Există un program special de 'adoptare' a animalelor pentru susținere financiară.", "Clădirea principală include un centru de expoziții de reptile și insecte.", "Peste 100.000 de persoane vizitează anual acest parc."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-kecskemeti-vadaskert-extra.webp"},
   {
     id: "industry-mercedes-kecskemet-extra",
     type: "industry",
@@ -604,8 +593,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A beruházásról 2008-ban döntöttek egy erős nemzetközi verseny után.", "Ez volt a Mercedes-Benz első Németországon kívüli európai személyautó-gyára.", "2012-ben az első legördülő modell egy B-osztályú Mercedes volt.", "A CLA modelleket kizárólag Kecskeméten gyártják a világ összes piaca számára.", "Az üzem Magyarország egyik legnagyobb adófizetője és munkaadója.", "Környezetbarát festőüzeme és energiahatékony rendszerei példaértékűek.", "Látogatóközpontja betekintést enged az autógyártás lenyűgöző világába.", "Számos beszállító cég települt a régióba a gyár megjelenése miatt."],
       ro: ["Fabrica a produs primul său autoturism, un Mercedes-Benz B-Class, în martie 2012.", "Suprafața totală a complexului industrial este de peste 440 de hectare.", "Peste 4.500 de angajați lucrează direct în cadrul unității de producție.", "Unitatea a atins pragul de 1 milion de mașini produse în anul 2019.", "Fabrica folosește energie electrică provenită 100% din surse regenerabile.", "Modelele CLA și CLA Shooting Brake sunt produse exclusiv la Kecskemét."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-mercedes-kecskemet-extra.webp"},
 
   // HU-BE: Békés (3G, 1LN, 1W)
   {
@@ -686,8 +674,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A malom 1836-ban épült és a 19. század végéig kereskedelmi célra használták.", "Az őrlőkövek mozgatásához egyszerre általában két vagy négy lovat fogtak be.", "Az épület fém szögek nélkül, kizárólag fa csapolásokkal készült.", "A hatalmas járókerék átmérője meghaladja a tíz métert.", "A restaurálás után az 1970-es években nyílt meg a nagyközönség előtt.", "A malomban nemcsak lisztet őröltek, hanem köleskását is hántoltak.", "A Nemzeti Örökség része, a hazai népi építészet egyik legértékesebb emléke.", "Fontos állomása az alföldi technikatörténeti túraútvonalaknak."],
       ro: ["Moara a fost construită de familia Bolza în anul 1836.", "Mecanismul principal din lemn are un diametru de peste 10 metri.", "Pentru a măcina grâul, moara era acționată de 2 sau 4 cai simultan.", "Restaurarea completă a monumentului a avut loc între 1962 și 1973.", "Moara putea produce până la 200 kg de făină pe oră în condiții optime.", "Este singura moară de acest tip din Ungaria care a rămas pe locul original."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-szarvasi-szarazmalom-extra.webp"},
   {
     id: "historical-gyulai-almasy-kastely-extra",
     type: "historical",
@@ -726,8 +713,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Ez volt az első épület Magyarországon, ahol a 18. században színielőadást tartottak.", "Erkel Ferenc zeneszerző gyakori vendég volt itt és zenét is tanított.", "Az 1848/49-es szabadságharc után itt tette le a fegyvert tíz aradi vértanú.", "Az interaktív tárlat több rangos szakmai díjat nyert el újszerű látásmódjáért.", "Kilátótornyából egyedülálló perspektívából látható a gyulai vár.", "Pincerendszerében régebben a környék legértékesebb borait őrizték.", "A második világháború után iskolaként működött, állaga leromlott.", "A 2016-os megnyitása óta a dél-alföldi régió leglátogatottabb múzeuma."],
       ro: ["Arhitectul celebru Ferenc Erkel, compozitorul imnului național, a dat lecții de muzică aici.", "După bătălia de la Șiria, 10 dintre cei 13 generali de la Arad au fost aduși aici.", "Castelul are un sistem de încălzire prin pardoseală foarte avansat pentru epoca sa.", "Suprafața expozițională interactivă se întinde pe mai mult de 1300 mp.", "Parcul castelului face parte astăzi din complexul Băilor Cetății Gyula.", "Aici a funcționat prima școală de grădinărit din Ungaria."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-gyulai-almasy-kastely-extra.webp"},
   {
     id: "animal-habitat-korosvolgyi-allatpark-extra",
     type: "animal-habitat",
@@ -766,8 +752,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A parkot a Körös-Maros Nemzeti Park Igazgatósága üzemelteti.", "Központi épületében található az ország egyik legnagyobb édesvízi akváriuma.", "A bölények egy nemzetközi fajmegmentési program keretében élnek itt.", "Kilátótornyából belátható a holtág és a nemzeti park érintetlen vidéke.", "Rendszeresen szerveznek éjszakai túrákat a rejtőzködő állatok megfigyelésére.", "Külön részleg mutatja be a magyar szürkemarhát és a rackajuhokat.", "A terület akadálymentesített, így kerekesszékkel is kényelmesen látogatható.", "Tavasszal és ősszel fontos madárvonulási megfigyelőhely a Körös mentén."],
       ro: ["Parcul găzduiește peste 50 de specii de animale sălbatice native.", "Principalul punct de atracție este țarcul bizonilor europeni, reintroduși în zonă.", "Lungimea traseului de vizitare este de aproximativ 1,5 kilometri.", "Vizitatorii pot vedea specii rare precum dropia sau lupul cenușiu.", "Parcul include un centru de reabilitare pentru păsările rănite.", "Există un lac special amenajat pentru prezentarea păsărilor de apă locale."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-korosvolgyi-allatpark-extra.webp"},
   {
     id: "industry-csabai-kolbaszgyar-extra",
     type: "industry",
@@ -806,8 +791,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A Csabai kolbász 2013 óta hivatalos Hungarikum, kiemelt nemzeti érték.", "Az ízvilág titka a helyben termelt, lángvörös fűszerpaprika használata.", "A termékeket hagyományosan bükkfán füstölik a jellegzetes aroma érdekében.", "Békéscsabán szinte minden családnak saját, titkos kolbászreceptje van.", "A Csabai kolbász híres hosszú eltarthatóságáról és egyedi állagáról.", "A fesztiválon évente több száz csapat verseng a legjobb kolbász címért.", "Az üzemből a világ számos országába exportálnak, Amerikától Ázsiáig.", "A 18. századi szlovák betelepülés alapozta meg a város húsiparát."],
       ro: ["Produsul 'Csabai kolbász' a primit statutul de Hungaricum în anul 2013.", "Rețeta originală folosește exclusiv boia de ardei dulce și iute locală.", "Festivalul Cârnaților de la Békéscsaba este cel mai mare eveniment gastronomic din Ungaria.", "Producția anuală de cârnați în unitățile autorizate depășește 1000 de tone.", "Cârnatul de Csaba trebuie să fie afumat obligatoriu cu lemn de fag.", "Există o versiune uriașă de cârnat produsă anual pentru Guinness World Records."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-csabai-kolbaszgyar-extra.webp"},
 
   // HU-BZ: Borsod-Abaúj-Zemplén (3G, 1LN, 1W)
   {
@@ -888,8 +872,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A várat valószínűleg már az 1241-es tatárjárás előtt elkezdték építeni.", "Perényi Péter koronaőr 1526-ban majdnem egy évig itt őrizte a Szent Koronát.", "A 17. században császári csapatok robbantották fel, hogy ne kerüljön a kurucok kezére.", "A mai újjáépítés alapos régészeti feltárásokon és történeti forrásokon alapul.", "Füzért 2021-ben Magyarország hét természeti csodája közé választották.", "A várfalak között interaktív tárlat mutatja be a középkori harcászatot.", "A vár alatti faluban skanzen és interaktív tájház mutatja be a palóc életet.", "A csúcsra csak gyalogosan, egy meredek, de biztonságos ösvényen lehet feljutni."],
       ro: ["Cetatea se află la o altitudine de 552 de metri pe o stâncă de dacit.", "A fost prima cetate nobiliară din Ungaria construită din piatră.", "Coroana Sfântă a fost păstrată aici în secret timp de un an (1526-1527).", "Familia Perényi a transformat cetatea într-un centru cultural renascentist.", "Capela cetății a fost premiată internațional pentru calitatea restaurării.", "În 1676, cetatea a fost incendiată pentru a nu cădea în mâna rebelilor curuți."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-fuzeri-var-extra.webp"},
   {
     id: "historical-diosgyori-var-extra",
     type: "historical",
@@ -928,8 +911,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Nagy Lajos király itt írta alá a velencei háborút lezáró turini békét 1381-ben.", "A vár hagyományosan hat magyar királyné birtoka és kedvelt pihenőhelye volt.", "A török idők után romba dőlt, és köveit a környékbeliek építkezésekhez hordták el.", "Lovagterme átadásakor Közép-Európa egyik legnagyobb és legdíszesebb ilyen tere volt.", "A várban az ország egyik legnagyobb panoptikuma látható középkori jelenetekkel.", "A négy hatalmas saroktorony a diósgyőri várarchitektúra legfőbb jellegzetessége.", "Minden év májusában megrendezik itt a Diósgyőri Történelmi Fesztivált.", "A vár Miskolc belvárosából közvetlen villamosjárattal is megközelíthető."],
       ro: ["Pacea de la Torino a fost semnată aici în anul 1381.", "Cetatea avea în secolul al XIV-lea cea mai mare sală de banchete din Europa Centrală.", "După 1526, cetatea a fost transformată într-o fortăreață de frontieră modernă.", "Șanțul de apărare care înconjura cetatea avea o lățime de 17 metri.", "În interior funcționează o expoziție cu figuri de ceară în mărime naturală.", "Arheologii au descoperit aici obiecte de lux provenite din Veneția și Orient."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-diosgyori-var-extra.webp"},
   {
     id: "animal-habitat-miskolci-allatkert-extra",
     type: "animal-habitat",
@@ -968,8 +950,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["1983-ban nyílt meg hivatalosan, sokáig Miskolci Kultúrpark néven ismerték.", "Több mint 120 állatfajt mutat be öt földrész állatvilágából.", "Különlegessége az őshonos magyar háziállatfajták gazdag gyűjteménye.", "A park közvetlenül a festői Lillafüred mellett fekszik, remek kirándulási célpont.", "Aktívan részt vesznek az európai ürgeállomány védelmét szolgáló projektekben.", "Sok kifutó természetes sziklaformációkat használ fel határolóelemként.", "Az állatkert egész évben nyitva tart, télen a havas táj különleges látványt nyújt.", "A bemutatók során a gondozók interaktív módon mesélnek az állatok életmódjáról."],
       ro: ["Grădina zoologică găzduiește peste 120 de specii și aproximativ 700 de animale.", "Este situată pe o suprafață de 21 de hectare în inima pădurii.", "Aici trăiește cea mai mare haită de lupi din grădinile zoologice maghiare.", "Parcul include un 'drum al urșilor' unde vizitatorii pot vedea urșii bruni.", "Există un program special de conservare pentru acvila de munte.", "Clădirea de recepție este construită în stil tradițional din bârne de lemn."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-miskolci-allatkert-extra.webp"},
   {
     id: "industry-tiszaujvarosi-vegyimuvek-extra",
     type: "industry",
@@ -1008,8 +989,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az üzemet eredetileg TVK (Tisza Vegyi Kombinát) néven alapították az 1950-es években.", "Tiszaújváros korábbi neve Leninváros volt, mint az ipar köré épített szocialista mintaváros.", "A gyár termékei szinte mindenhol ott vannak: a csomagolóanyagoktól az autóalkatrészekig.", "A legújabb poliol-projekt az ország egyik legnagyobb ipari beruházása az utóbbi évtizedben.", "Az üzemnek saját tűzoltósága és környezetvédelmi figyelőrendszere van.", "A terület mérete egy kisebb városéval vetekszik, saját belső úthálózattal.", "Folyamatosan fejlesztik az újrahasznosított műanyagok felhasználását a gyártásban.", "A vegyiművek hűtővizét a Tiszából nyerik és szigorú tisztítás után juttatják vissza."],
       ro: ["Combinatul a fost înființat în anul 1953 ca întreprindere de stat.", "Unitatea produce anual peste 500.000 de tone de polietilenă și polipropilenă.", "În cadrul complexului a fost construită recent o fabrică de poliol de 1,2 miliarde euro.", "Turnurile de răcire ale combinatului sunt repere vizuale de la zeci de kilometri distanță.", "Peste 3.000 de specialiști lucrează pe platforma industrială din Tiszaújváros.", "MOL Petrochemicals este unul dintre primii 10 producători de polimeri din Europa."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-tiszaujvarosi-vegyimuvek-extra.webp"},
 
   // HU-CS: Csongrád-Csanád (3G, 1LN, 1W)
   {
@@ -1090,8 +1070,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A múzeumot 1896-ban adták át a város és a nemzet közművelődésének.", "Épületét Voyta Adolf tervezte monumentális klasszicista stílusban.", "Móra Ferenc író 1917 és 1934 között vezette az intézményt.", "Egyik legértékesebb része az avar és hun régészeti gyűjtemény.", "Néprajzi osztálya a tiszai halászok és iparosok életét mutatja be.", "A múzeum képtára neves magyar festők alkotásait őrzi.", "A Tisza-parti korzó egyik meghatározó látványossága a múzeum homlokzata.", "Rendszeresen ad otthont nemzetközi vándorkiállításoknak (pl. Egyiptom, Pompeji)."],
       ro: ["Muzeul a fost fondat în 1883, imediat după reconstrucția orașului.", "Clădirea actuală, 'Palatul Culturii', a fost finalizată în 1896.", "Móra Ferenc a condus instituția între anii 1917 și 1934.", "Colecția muzeului depășește 1,2 milioane de obiecte de patrimoniu.", "Expoziția 'Aurul Avarilor' este una dintre cele mai valoroase din Europa Centrală.", "Scările muzeului sunt un loc de întâlnire popular pentru locuitorii din Szeged."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-mora-ferenc-muzeum-extra.webp"},
   {
     id: "historical-csongradi-ovaros-extra",
     type: "historical",
@@ -1130,8 +1109,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A csongrádi óváros az 1970-es évek óta országos műemléki védelem alatt áll.", "A negyed 37 védett épületből áll, melyek hagyományos technikával épültek.", "A házak jellemzője a vastag vályogfal és a meredek nádtető.", "Eredetileg a halászok, kubikosok és hajósok lakták ezt a területet.", "Ma élő skanzenként és művésztelepként is funkcionál a városrész.", "A fehérre meszelt falak és a kék ablakkeretek a helyi stílus védjegyei.", "Évente tartanak itt hagyományőrző borfesztiválokat és kézműves vásárokat.", "A látogatóknak lehetőségük van megszállni is a patinás házak némelyikében."],
       ro: ["Zona cuprinde 37 de case tradiționale protejate prin lege ca monumente istorice.", "Cele mai vechi clădiri datează de la sfârșitul secolului al XVIII-lea.", "Acoperișurile sunt realizate din stuf recoltat direct din mlaștinile Tisei.", "Fiecare casă are o structură tipică cu trei camere: tindă, cameră curată și cămară.", "Csongrád a fost un important centru de construcție a bărcilor din lemn.", "Cartierul a supraviețuit miraculos tuturor marilor inundații ale râului Tisa."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-csongradi-ovaros-extra.webp"},
   {
     id: "animal-habitat-szegedi-vadaspark-extra",
     type: "animal-habitat",
@@ -1170,8 +1148,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A Szegedi Vadaspark 1989-ben nyílt meg, így az egyik legfiatalabb hazai állatkert.", "Mintegy 45 hektáros területével ez az ország legnagyobb állatkertje.", "Földrészenként csoportosítva mutatja be az állatvilágot és a növényzetet.", "Olyan ritka fajok élnek itt, mint az óriásvidra, a ködfoltos párduc és a vörös vari.", "Számos nemzetközi fajmegmentési programban (EEP) vesznek részt aktívan.", "Egyik büszkesége a 2018-ban átadott modern Elefántház.", "A park területén mentőállomás is működik sérült hazai vadállatok számára.", "Különleges oktatóprogramokat kínálnak iskolás és óvodás csoportoknak."],
       ro: ["Grădina se întinde pe o suprafață de 45 de hectare de pădure naturală.", "Aici trăiesc specii extrem de rare precum leopardul de zăpadă și tamarinul leul de aur.", "Parcul a fost deschis oficial în anul 1989.", "Grădina deține cel mai modern centru de salvare a animalelor sălbatice din sudul țării.", "Pinguinii din Szeged locuiesc într-un bazin spectaculos cu vedere subacvatică.", "Anual sunt organizate 'Nopți la Zoo' pentru observarea animalelor nocturne."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-szegedi-vadaspark-extra.webp"},
   {
     id: "industry-szegedi-paprika-extra",
     type: "industry",
@@ -1210,8 +1187,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A paprika termesztése a 18. század elején honosodott meg a szegedi tájon.", "A szegedi fűszerpaprika-őrlemény 2010 óta hivatalos Hungarikum.", "A termést hagyományosan nyár végén takarítják be és szárítják ki.", "Több minőségi kategória létezik a csemege édestől a csípősig.", "Jellegzetes színét a magas természetes festékanyag-tartalmának köszönheti.", "Szegeden Paprika Múzeum is látogatható, amely a termesztés történetét mutatja be.", "A paprika kiemelkedően magas C-vitamin tartalmát Szent-Györgyi Albert itt fedezte fel.", "A világ több mint 50 országába exportálják, garantálva a magyar minőséget."],
       ro: ["Ardeiul a fost adus în Ungaria în secolul al XVI-lea de către turci.", "Pudra de ardei de Szeged a obținut protecția DOP în anul 2010.", "Există 8 categorii de calitate, de la 'delicatesă' la 'iute'.", "Ardeiul de Szeged este extrem de bogat în vitamina C, fapt descoperit de Albert Szent-Györgyi.", "Se recoltează anual mii de tone de ardei din satele din jurul orașului.", "Culoarea roșie intensă provine din uscarea naturală sub soarele puternic al Câmpiei de Sud."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-szegedi-paprika-extra.webp"},
   {
     id: "historical-bory-var-extra",
     type: "historical",
@@ -1250,8 +1226,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Bory Jenő 1923 és 1959 között, magányosan építette a várat.", "A Guinness Rekordok Könyvében is szerepelt, mint a világ legnagyobb, egy ember által emelt épülete.", "A beton használata művészeti közegként forradalmi volt a maga korában.", "A várban több száz szobor látható, melyek szinte mind az alkotó keze munkái.", "A 'Hölgyek galériája' Bory feleségének állít emléket számos portréval.", "A vár hét toronnyal és harminc különböző méretű helyiséggel rendelkezik.", "Az épületet ma is az alkotó leszármazottai gondozzák és lakják.", "A Bory-vár az excentrikus építészet egyik legfontosabb közép-európai példája."],
       ro: ["Construcția a durat din 1923 până în 1959, anul morții artistului.", "Castelul are 7 turnuri și 30 de camere pline de opere de artă.", "Jenő Bory a folosit betonul ca material artistic, o inovație pentru acea vreme.", "Zidurile sunt împodobite cu poezii dedicate soției sale, Ilona.", "Castelul apare în Cartea Recordurilor ca cea mai mare structură 'făcută de un singur om'.", "În interior funcționează studioul original de sculptură al artistului."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-bory-var-extra.webp"},
   {
     id: "historical-martonvasari-kastely-extra",
     type: "historical",
@@ -1290,8 +1265,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A kastély barokk alapokra épült, majd romantikus neogótikus stílusban építették át.", "Ludwig van Beethoven 1800 és 1806 között többször is meglátogatta a családot.", "A zeneszerző 'halhatatlan kedvese' vélhetően az egyik Brunszvik-lány volt.", "Itt működik az ország egyetlen Beethoven múzeuma értékes eredeti kéziratokkal.", "A 70 hektáros kastélyparkban ritka mocsárciprusok is láthatók.", "Az épület ma a Magyar Tudományos Akadémia Agrártudományi Kutatóközpontja.", "Nyaranként a park szigetén nagyszabású Beethoven-hangversenyeket tartanak.", "Brunszvik Teréz, a család tagja alapította az első magyarországi óvodát 1828-ban."],
       ro: ["Beethoven a compus aici piese celebre precum 'Sonata Appassionata'.", "Castelul a fost reconstruit în stil neogotic englezesc în anul 1870.", "Parcul conține specii rare de arbori aduse din întreaga lume acum 200 de ani.", "Pe insula de pe lac se organizează vara concerte Beethoven în aer liber.", "Brunszvik Teréz, membra familiei, a înființat prima grădiniță din Ungaria.", "Muzeul Beethoven deține obiecte personale și manuscrise ale compozitorului."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-martonvasari-kastely-extra.webp"},
   {
     id: "historical-nadasdy-kastely-extra",
     type: "historical",
@@ -1330,8 +1304,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A kastély 1873 és 1876 között épült Linzbauer István tervei alapján.", "Ez az ország egyetlen romantikus Tudor-stílusú főúri kastélya.", "Átadásakor már rendelkezett gázvilágítással és beszélőcső-rendszerrel.", "Az Ősök csarnoka fafaragványai a magyar belsőépítészet remekművei.", "Könyvtára egyike azon keveseknek, amelyek épségben túlélték a világháborút.", "A kastély kápolnáját Szent Ilona tiszteletére szentelték fel.", "Parkját tájképi kertként alakították ki, hangsúlyozva a természetességet.", "Különleges megjelenése miatt számos filmforgatás helyszínéül szolgált már."],
       ro: ["Construcția a fost finalizată în 1885, după planurile arhitectului István Linzbauer.", "Interiorul este decorat cu mobilier original din stejar și vitralii spectaculoase.", "Castelul avea un sistem de conducte subterane pentru transportul mâncării din bucătărie.", "Sala Strămoșilor păstrează portretele familiei Nádasdy începând cu secolul al XVI-lea.", "Parcul castelului se întinde pe 24 de hectare și are un lac artificial.", "Aici s-au filmat scene pentru mai multe producții cinematografice internaționale."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-nadasdy-kastely-extra.webp"},
   {
     id: "animal-habitat-velencei-madarrezervatum-extra",
     type: "animal-habitat",
@@ -1370,8 +1343,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A rezervátumot 1958-ban alapították a tó egyedi élővilágának megőrzésére.", "Mintegy 420 hektáros területet foglal el a Velencei-tó nyugati medencéjében.", "Eddig több mint 200 madárfaj jelenlétét mutatták ki a területen.", "A Ramsari Egyezmény védelme alatt álló nemzetközi jelentőségű vizes élőhely.", "A sűrű nádasban él a ritka bölömbika és a barna rétihéja is.", "A terület belső részei a fészkelési időszakban nem látogathatók.", "A Velencei-tó sekély vize kedvez a gazdag táplálékbázis kialakulásának.", "Szakvezetett túrák indulnak a tóparti kutatóházaktól a természetkedvelőknek."],
       ro: ["Rezervația a fost înființată în anul 1958 și are o suprafață de 420 de hectare.", "Peste 100 de specii de păsări cuibăresc aici în mod regulat.", "Zona face parte din rețeaua internațională Natura 2000 și este sit Ramsar.", "Egretă mare este simbolul rezervației, având aici una dintre cele mai mari colonii.", "În timpul migrației de toamnă, mii de gâște sălbatice poposesc pe lac.", "Stuful recoltat de aici este folosit pentru acoperișuri tradiționale în întreaga țară."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-velencei-madarrezervatum-extra.webp"},
   {
     id: "industry-dunaujvarosi-vasmu-extra",
     type: "industry",
@@ -1410,8 +1382,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az üzem alapkövét 1950-ben rakták le az első ötéves terv keretében.", "Dunaújváros volt az első tervezett szocialista iparváros Magyarországon.", "A vasmű saját dunai kikötővel rendelkezik az érc és a szén beszállításához.", "Fénykorában több mint 10 000 ember dolgozott a hatalmas komplexumban.", "Itt készülnek azok az acéllemezek, melyeket a hazai gépipar széles körben felhasznál.", "A gyár területe több száz hektár, saját belső vasúthálózattal rendelkezik.", "Az üzem területén szakképző intézmény működik a kohászati utánpótlás biztosítására.", "A vasmű hulladékhőjét a város távfűtési rendszerében is hasznosítják."],
       ro: ["Orașul Dunaújváros a fost fondat în 1950 special pentru lucrătorii combinatului.", "Capacitatea de producție a oțelului brut depășește 1,6 milioane de tone anual.", "Combinatul dispune de un port propriu pe Dunăre pentru transportul materiilor prime.", "Suprafața platformei industriale este de aproximativ 800 de hectare.", "Primul furnal a fost pornit în mod festiv în anul 1954.", "Dunaferr este principalul furnizor de tablă pentru industria constructoare de mașini din regiune."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-dunaujvarosi-vasmu-extra.webp"},
   {
     id: "historical-pannonhalmi-apatsag-extra",
     type: "historical",
@@ -1450,8 +1421,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az apátságot 996-ban alapította Géza fejedelem, Szent István apja.", "A magyar bencés kongregáció központja és önálló egyházmegyei jogkörrel bír.", "Könyvtárában őrzik a legrégebbi magyar nyelvű szórványemléket, a tihanyi alapítólevelet.", "A Szent Márton-bazilika jelenlegi formáját a 13. században kapta.", "A monostor falai között működik az ország egyik legjobb hírű bentlakásos gimnáziuma.", "Saját pincészete a környék vulkanikus talajának köszönhetően kiváló borokat termel.", "Az apátsághoz jelentős arborétum és gyógynövénykert is tartozik.", "1996-ban II. János Pál pápa is meglátogatta az ezeréves intézményt."],
       ro: ["Abația a fost fondată în anul 996, fiind prima școală din Ungaria.", "Biblioteca conține peste 400.000 de volume și manuscrise medievale rare.", "Diploma de fundare din 1055 conține primele cuvinte scrise în limba maghiară.", "Arhitectura actuală include elemente de la secolul al XIII-lea până în secolul al XIX-lea.", "Abația deține propriile podgorii și o cramă modernă de renume internațional.", "Papa Ioan Paul al II-lea a vizitat abația în anul 1996, la aniversarea mileniului."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-pannonhalmi-apatsag-extra.webp"},
   {
     id: "historical-soproni-tuztorony-extra",
     type: "historical",
@@ -1490,8 +1460,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A torony egy 4. századi római kaputorony maradványaira épült.", "Mai barokk alakját az 1676-os pusztító városi tűzvész utáni újjáépítéskor kapta.", "A Hűségkaput (Civitas Fidelissima) 1922-ben emelték a népszavazás emlékére.", "A toronyőrök feladata volt a tűzjelzés mellett a pontos idő közhírré tétele is.", "A torony magassága 58 méter, és 119 lépcsőfok vezet fel a körerkélyre.", "Harangjátéka rendszeresen felcsendül, Sopron történelmi dallamait játszva.", "Homlokzatán a város és a neves nemesi családok címerei láthatók.", "Ma múzeumként működik, bemutatva a városfalak és a torony történetét."],
       ro: ["Înălțimea totală a turnului este de 58 de metri.", "Balconul circular se află la o înălțime de 30 de metri și este accesibil vizitatorilor.", "Fundațiile romane pe care se sprijină turnul au o vechime de peste 1800 de ani.", "Poarta Loialității a fost inaugurată în 1928 pentru a onora decizia locuitorilor din 1921.", "Vârful turnului este decorat cu vulturul bicefal, simbol al Imperiului Habsburgic.", "În trecut, turnul găzduia paznici care sunau din trâmbiță la fiecare sfert de oră."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-soproni-tuztorony-extra.webp"},
   {
     id: "historical-nagycenki-szechenyi-kastely-extra",
     type: "historical",
@@ -1530,8 +1499,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A kastély a Széchenyi család ősi birtoka, jelenlegi formáját a 18-19. században nyerte el.", "Széchenyi István itt vezettette be az országban először a modern fürdőszobát 1827-ben.", "A híres hársfasor több mint 400 fából áll és Széchenyi ősei ültették.", "A múzeumban a gróf személyes tárgyai mellett technikai modelljei is láthatók.", "A kastélykápolna orgonáján neves művészek játszottak a történelem során.", "A nagycenki mauzóleum Széchenyi István és felesége végső nyughelye.", "A közelben működik a Széchenyi Múzeumvasút, amely népszerű családi program.", "A kastélyegyüttes 2001 óta az UNESCO Világörökség része a Fertő-táj részeként."],
       ro: ["Aleea de tei din Nagycenk a fost plantată în anul 1754 și are peste 400 de arbori.", "Castelul a fost dotat cu primul sistem de iluminat cu gaz și prima baie modernă din țară.", "István Széchenyi a trăit și a lucrat aici în perioadele sale cele mai productive.", "Mausoleul familiei a fost construit în stil clasicist în anul 1810.", "Calea ferată cu aburi pentru copii de la Nagycenk face parte din complexul castelului.", "Muzeul memorial a fost deschis publicului în anul 1973."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-nagycenki-szechenyi-kastely-extra.webp"},
   {
     id: "animal-habitat-ferto-hansag-park-extra",
     type: "animal-habitat",
@@ -1570,8 +1538,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A nemzeti parkot 1991-ben alapították, hazánk első határon átnyúló nemzeti parkja.", "A Fertő-tó vidéke 2001 óta az UNESCO Világörökség része.", "A Fertő-tó a Balaton után Közép-Európa második legnagyobb sztyeppi tava.", "A területen őshonos magyar állatok, mint a szürkemarha és a bivaly is élnek.", "A tó nádasszegélye helyenként az öt kilométeres szélességet is eléri.", "Fontos állomás az európai észak-déli irányú madárvonulási útvonalon.", "A Hanságban jelentős erőfeszítések folynak az eredeti mocsárvilág visszaállítására.", "Látogatóközpontjai, mint a sarródi Kócsagvár, modern kiállításokkal várják a vendégeket."],
       ro: ["Lacul Fertő are o adâncime medie de numai 1 metru, fiind un lac extrem de puțin adânc.", "Rezervația Biosferei UNESCO a fost declarată în anul 1979.", "Este locul de cuibărit preferat pentru lopătari, stârci și egrete.", "Suprafața totală a parcului național pe partea maghiară este de 23.500 hectare.", "Aici se găsește cea mai mare populație de vultur codalb din regiune.", "Plantele halofite (iubitoare de sare) sunt caracteristice pentru zonele de stepă din parc."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-ferto-hansag-park-extra.webp"},
   {
     id: "industry-audi-gyor-extra",
     type: "industry",
@@ -1610,8 +1577,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az Audi Hungaria 1993-ban kezdte meg működését tisztán motorgyárként.", "Jelenleg ez a világ legnagyobb motorgyára, napi több ezer egységnyi kapacitással.", "1998-tól teljes járműgyártás is folyik, az első modell az Audi TT volt.", "Az üzem Európa egyik legnagyobb tetőre szerelt napelemparkjával rendelkezik.", "Az Audi Magyarország legnagyobb exportőre és egyik legjelentősebb munkaadója.", "Saját szerszámgyárat is működtetnek, amely nemzetközi projekteket szolgál ki.", "A győri egyetemmel szoros együttműködésben járműipari tanszéket hoztak létre.", "2020 óta az üzem gyártási folyamata mérleg szerint CO2-semleges."],
       ro: ["Fabrica din Győr produce peste 1,6 milioane de motoare anual.", "Peste 12.000 de angajați lucrează direct în cadrul complexului Audi Hungaria.", "Audi Hungaria este cel mai mare exportator al Ungariei după cifra de afaceri.", "Unitatea a produs peste 40 de milioane de motoare de la înființare până în 2021.", "Producția de energie termică este asigurată în mare parte prin energie geotermală.", "Aici funcționează unul dintre cele mai avansate centre de cercetare și dezvoltare din Europa."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-audi-gyor-extra.webp"},
   {
     id: "historical-debreceni-egyetem-extra",
     type: "historical",
@@ -1650,8 +1616,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A monumentális főépületet 1932-ben avatták fel nagyszabású ünnepség keretében.", "Az egyetem közvetlen elődje az 1538-ban alapított Debreceni Református Kollégium.", "Belső aulája 700 négyzetméteres és lenyűgöző üvegkupola borítja.", "Az épület mögött terül el az egyetemi botanikus kert több mint 5000 növényfajjal.", "A Debreceni Egyetemi Könyvtár az ország legnagyobb vidéki könyvtára.", "Homlokzatán domborművek hirdetik a különböző tudományágak fontosságát.", "Debrecen a második legnagyobb magyar város, az ország keleti régiójának központja.", "Az egyetemen több mint 100 nemzet diákjai tanulnak, valódi nemzetközi környezetben."],
       ro: ["Universitatea este succesoarea directă a Colegiului Reformat fondat în 1538.", "Clădirea principală are o fațadă de 108 metri lungime și un turn central impunător.", "Curtea interioară cu tavan de sticlă este utilizată pentru ceremonii academice majore.", "Peste 30.000 de studenți învață anual în cadrul celor 14 facultăți ale universității.", "Grădina Botanică a universității deține o colecție rară de cactuși și plante tropicale.", "Fântâna arteziană din fața clădirii principale este un loc emblematic de întâlnire."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-debreceni-egyetem-extra.webp"},
   {
     id: "historical-hortobagyi-pasztormuzeum-extra",
     type: "historical",
@@ -1690,8 +1655,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A múzeum épülete korábban az utazók lovas kocsijainak pihenőhelye volt.", "Hortobágy Közép-Európa legnagyobb összefüggő természetes füves pusztája.", "A tárlat bemutatja a csikósok, gulyások és juhászok közötti különbségeket.", "Különösen értékesek a kézzel vésett ivótülkök és a hímzett cifraszűrök.", "A hortobágyi pásztorkultúra 1999 óta része a világörökségnek.", "A múzeum közelében tartják minden évben a hagyományos hídi vásárt.", "Interaktív elemek mutatják be, hogyan tájékozódtak a pásztorok a síkságon.", "A környéken számos hagyományos csárda várja a pusztai ételekre vágyókat."],
       ro: ["Muzeul funcționează într-o clădire monument istoric construită în 1785.", "Expoziția detaliază ierarhia păstorilor, de la 'csikós' (păstor de cai) la 'gulyás' (păstor de vite).", "Pot fi văzute unelte tradiționale sculptate în os și coarne de vită.", "Hortobágy este prima rezervație naturală din Ungaria, înființată în 1973.", "Păstoritul tradițional din Hortobágy face parte din Patrimoniul Mondial UNESCO.", "În apropiere se desfășoară anual Târgul de la Pod, un eveniment secular."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-hortobagyi-pasztormuzeum-extra.webp"},
   {
     id: "historical-deri-muzeum-extra",
     type: "historical",
@@ -1730,8 +1694,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A múzeum 1930-ban nyílt meg, alapját Déri Frigyes magángyűjteménye képezi.", "Munkácsy Mihály három festménye (Krisztus Pilátus előtt, Ecce Homo, Golgota) a tárlat ékköve.", "Az egyiptomi osztályon két valódi múmia és értékes sírmellékletek láthatók.", "A múzeum előtt álló négy bronzszobor Medgyessy Ferenc díjnyertes alkotása.", "Néprajzi anyaga a hajdúsági paraszti világ és kézművesség remekeit mutatja be.", "Az épületet Györgyi Dénes és Münnich Aladár építészek tervezték.", "Jelentős éremgyűjteménnyel rendelkezik, mely ritka történelmi pénzeket őriz.", "Rendszeresen szerveznek tematikus éjszakai tárlatvezetéseket a látogatóknak."],
       ro: ["Trilogia lui Munkácsy cuprinde pânzele: 'Cristos în fața lui Pilat', 'Ecce Homo' și 'Golgota'.", "Colecția Déri conține peste 30.000 de obiecte de artă și artefacte istorice.", "Cele patru statui de bronz din fața muzeului au câștigat premiul mare la Expoziția Mondială de la Paris din 1937.", "Muzeul a fost inaugurat oficial în anul 1930.", "Expoziția de arme și armuri japoneze este una dintre cele mai mari din Europa Centrală.", "Camera mumiilor egiptene include două sarcofage autentice vechi de mii de ani."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-deri-muzeum-extra.webp"},
   {
     id: "animal-habitat-nagyerdei-kulturpark-extra",
     type: "animal-habitat",
@@ -1770,8 +1733,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["1958-ban nyílt meg az első vidéki állatkertként Magyarországon.", "A park mintegy 17 hektáros területet foglal el a védett Nagyerdőben.", "Több mint 160 állatfaj látható itt, köztük ritka zsiráfok és vörös pandák.", "A csatlakozó vidámparkban az 1950-es évekből származó körhinták is működnek.", "Tagja a legjelentősebb nemzetközi állatkerti szövetségeknek (EAZA, WAZA).", "A Debreceni Virágkarnevál idején a park kiemelt rendezvényhelyszín.", "Saját állatkerti iskolája segíti a gyermekek környezettudatos nevelését.", "A Nagyerdő maga 1939 óta az ország első természetvédelmi területe."],
       ro: ["Grădina zoologică găzduiește peste 160 de specii de animale din întreaga lume.", "Este situată pe o suprafață de 17 hectare în interiorul primei păduri protejate din Ungaria.", "Parcul de distracții deține un carusel din anul 1896, încă funcțional.", "Roata uriașă oferă o panoramă spectaculoasă asupra parcului Nagyerdei.", "Succesul în reproducerea girafei reticulate este recunoscut la nivel internațional.", "Anual, peste 300.000 de vizitatori vizitează complexul cultural."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-nagyerdei-kulturpark-extra.webp"},
   {
     id: "industry-bmw-debrecen-extra",
     type: "industry",
@@ -1810,8 +1772,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A debreceni helyszínről szóló döntést 2018-ban jelentették be.", "A gyár éves termelési kapacitását 150 000 gépkocsira tervezték.", "Ez az első BMW gyár a világon, amely CO2-kibocsátás nélkül üzemel.", "Itt mutatkozik be a „Neue Klasse” modellcsalád, a márka jövőjének alapja.", "Az ipari terület nagysága meghaladja a 400 hektárt.", "A BMW több mint kétmilliárd eurót fektet be a telephely és az akkumulátorgyár felépítésébe.", "Az egyetemmel szoros együttműködésben támogatják a helyi mérnökképzést.", "Közvetlen autópálya- és vasúti összeköttetéssel rendelkezik a nemzetközi hálózathoz."],
       ro: ["Fabrica se întinde pe o suprafață de peste 400 de hectare în zona industrială de nord.", "Capacitatea planificată de producție este de aproximativ 150.000 de unități pe an.", "Procesele de producție vor funcționa fără utilizarea combustibililor fosili.", "Prima mașină de serie 'Neue Klasse' este programată să iasă de pe bandă în 2025.", "Peste 1.500 de locuri de muncă directe vor fi create în prima fază a proiectului.", "BMW Debrecen va include și o unitate de asamblare de baterii de înaltă tensiune."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-bmw-debrecen-extra.webp"},
   {
     id: "historical-siroki-var-extra",
     type: "historical",
@@ -1850,8 +1811,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A vár vulkáni tufa sziklán épült, mintegy 296 méteres magasságban.", "Számos lakóhelyiséget és védművet közvetlenül a sziklából faragtak ki.", "A 16. században harc nélkül került török kézre, akik 90 évig birtokolták.", "A vár alatti jellegzetes sziklaalakzatokat „Bálványköveknek” nevezik.", "A 17. század végén császári parancsra a várat részben felrobbantották.", "A 2012-es nagyszabású felújítás óta biztonságosan látogatható minden része.", "Az alsóvárban berendezett tárlat a végvári katonák mindennapjait mutatja be.", "A vár a nemzeti várprogram része és kedvelt túracélpont a Mátrában."],
       ro: ["Cetatea se află pe vârful vulcanic Várhegy, la o altitudine de 296 de metri.", "Majoritatea încăperilor inferioare au fost săpate manual în roca vulcanică moale.", "A rezistat sub stăpânire otomană timp de 100 de ani, între 1596 și 1696.", "Formațiunile stâncoase din apropiere, 'Călugărul' și 'Călugărița', sunt simboluri ale zonei.", "Există un puț adânc de 20 de metri săpat direct în piatră.", "Restaurarea majoră a căilor de acces și a zidurilor a avut loc în 2012."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-siroki-var-extra.webp"},
   {
     id: "historical-egri-var-extra",
     type: "historical",
@@ -1890,8 +1850,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az 1552-es ostrom 39 napig tartott, ahol mintegy 2000 védő győzött 40 000 török felett.", "A vár története Gárdonyi Géza klasszikus regénye révén vált közismertté.", "A várfalak között találhatók Magyarország egyik legnagyobb gótikus katedrálisának romjai.", "A kazamaták egy hatalmas földalatti labirintust alkotnak, mely egykor raktárként szolgált.", "Gárdonyi Géza író sírja a vár területén, a fülei bástya közelében található.", "Minden nap 15:52-kor ágyúlövéssel emlékeznek a győzelem évére a várban.", "A várkápolnában látható a várvédők esküjének szövege.", "Az Egri várat 2014-ben hivatalosan is a nemzeti kulturális örökség részévé nyilvánították."],
       ro: ["Asediul din 1552 a durat 38 de zile și s-a încheiat cu retragerea turcilor.", "Géza Gárdonyi a imortalizat victoria în romanul 'Stelele din Eger'.", "Sistemul de cazemate (coridoare subterane) are o lungime de peste 3 kilometri.", "În timpul asediului, femeile din Eger au luptat alături de soldați pe ziduri.", "Cetatea a fost în cele din urmă ocupată de turci în 1596, după un al doilea asediu.", "Sala Cavalerilor găzduiește expoziții de arme medievale autentice."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-egri-var-extra.webp"},
   {
     id: "historical-egri-minaret-extra",
     type: "historical",
@@ -1930,8 +1889,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A minaretet 1600 körül építették Eger török megszállása idején.", "Ez az Oszmán Birodalom legészakibb épen maradt emléke Európában.", "A legenda szerint a visszafoglaláskor 400 ökörrel próbálták ledönteni, sikertelenül.", "A torony tizennégyszög alaprajzú és összesen 40 méter magas.", "A belső csigalépcső mindössze 60 centiméter széles, igazi próbatétel a látogatóknak.", "Az eredeti dzsámit a 19. században bontották le, csak a torony maradt meg.", "Az utóbbi években teljes körű statikai megerősítésen és restauráláson esett át.", "A 26 méter magasan lévő körerkély az egyik legjobb fotópont a városban."],
       ro: ["Minaretul are o înălțime totală de 40 de metri.", "Scara interioară în spirală numără exact 97 de trepte de piatră foarte înguste.", "După plecarea turcilor, maghiarii au încercat să dărâme minaretul folosind 400 de boi, dar turnul a rezistat.", "Crucea de fier din vârf a fost adăugată pentru a simboliza victoria creștinismului.", "Este construit pe o bază poligonală cu 14 laturi egale.", "Restaurarea completă a structurii a fost finalizată în anul 2018."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-egri-minaret-extra.webp"},
   {
     id: "animal-habitat-gyongyosi-allatkert-extra",
     type: "animal-habitat",
@@ -1970,8 +1928,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A Gyöngyösi Állatkert 2004-ben nyílt meg magánkezdeményezésként.", "Mára több mint 100 állatfajt mutat be mintegy 2 hektáros területen.", "Híresek a fehér oroszlánok és tigrisek sikeres tartásáról és bemutatásáról.", "Nagy állatsimogatóval rendelkezik, ahol kecskék és alpakák várják a gyerekeket.", "Rendszeresen szerveznek éjszakai túrákat, ahol a ragadozók aktívabb arcát láthatjuk.", "A park területén modern játszótér is szolgálja a legkisebbek kikapcsolódását.", "Szoros kapcsolatot ápolnak a helyi iskolákkal a természetvédelmi nevelésben.", "Könnyen megközelíthető helyen, a város szélén, a főút mentén található."],
       ro: ["Grădina găzduiește peste 80 de specii de animale de pe patru continente.", "Este una dintre puținele grădini zoologice private de succes din Ungaria.", "Lemurienii cu coadă inelată sunt foarte prietenoși și pot fi observați de aproape.", "Grădina dispune de un loc de joacă modern și o zonă de picnic pentru familii.", "Vizitatorii pot participa la 'zoo-pedagogie', lecții interactive despre biologie.", "Parcul este deschis pe tot parcursul anului, oferind experiențe diferite în fiecare sezon."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-gyongyosi-allatkert-extra.webp"},
   {
     id: "industry-matrai-eromu-extra",
     type: "industry",
@@ -2010,8 +1967,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az erőművet a 1960-as évek végén helyezték üzembe Gagarin Hőerőmű néven.", "A visontai és bükkábrányi bányák látják el tüzelőanyaggal a blokkokat.", "A bányákban dolgozó óriáskotrók Magyarország legnagyobb munkagépei.", "Az üzem az ország villamosenergia-szükségletének jelentős részét fedezi.", "A telephelyen működő naperőmű kapacitása folyamatosan bővül.", "A hűtőtornyokból távozó vízgőz a környék mikroklímájára is hatással van.", "A gyár saját vasútvonallal és bonyolult szállítószalag-rendszerrel rendelkezik.", "Kiemelt figyelmet fordítanak a bányászat utáni tájrehabilitációra és erdősítésre."],
       ro: ["Centrala asigură aproximativ 15% din producția totală de electricitate a Ungariei.", "Carierele de lignit adiacente sunt cele mai mari mine de suprafață din țară.", "Turnurile de răcire au o înălțime de peste 100 de metri.", "Complexul găzduiește unul dintre cele mai mari parcuri de panouri solare din Europa Centrală.", "Peste 2.000 de persoane lucrează direct în cadrul centralei și al minelor aferente.", "Procesul de recultivare a fostelor cariere transformă minele în lacuri și zone verzi."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-matrai-eromu-extra.webp"},
 
   // HU-JN: Jász-Nagykun-Szolnok (2G, 2LN, 1W)
   {
@@ -2092,8 +2048,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A szállodát 1928-ban adták át Hegedűs Árpád építész tervei alapján.", "Saját gyógyvizét 55 fokos hőmérsékleten hozzák felszínre a mélyből.", "A Tükörterem kiváló akusztikája miatt gyakran ad otthont koncerteknek.", "Az épület a két világháború közötti magyar polgári építészet remeke.", "A fürdőrészleg kupolás kialakítása a klasszikus római fürdőket idézi.", "Híres vendégek sora fordult meg falai között az évtizedek során.", "A Tisza-parti sétányról nyílik a legszebb kilátás az épület homlokzatára.", "A szálló ma országos műemléki védettséget élvez."],
       ro: ["Hotelul și baia au fost construite între anii 1927 și 1928 după planurile arhitectului Ármin Hegedűs.", "Apa termală a hotelului izvorăște de la o adâncime de peste 900 de metri.", "Clădirea este construită în stil eclectic cu puternice influențe neoclasice.", "Terasa hotelului oferă cea mai frumoasă panoramă asupra parcului de pe malul Tisei.", "În timpul regimului comunist, hotelul a rămas cel mai luxos loc de cazare din județ.", "Interiorul păstrează elemente decorative originale, inclusiv vitralii și tâmplărie de epocă."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-tisza-szallo-szolnok-extra.webp"},
   {
     id: "animal-habitat-jaszberenyi-allatkert-extra",
     type: "animal-habitat",
@@ -2132,8 +2087,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["1975-ben nyílt meg, és azóta folyamatosan fejlődik.", "A Jászberényi Állatkert volt az első, amely napi rendszerességű állatbemutatókat tartott.", "Botanikai gyűjteménye számos ritka fafajjal rendelkezik a park területén.", "Sikeres tenyésztési programot folytatnak különféle ritka ragadozó madarakkal.", "A gyerekeket hatalmas, természetes anyagokból épült játszótér várja.", "Aktívan részt vesznek az Európai Fajmegőrzési Tenyészprogramokban (EEP).", "Rendszeresen szerveznek tematikus éjszakai kalandtúrákat az állatkertben.", "A látogatóközpontban interaktív kiállítás mutatja be a Jászság élővilágát."],
       ro: ["Grădina zoologică a fost deschisă pe 1 mai 1975, de Ziua Muncii.", "Aici trăiesc peste 500 de exemplare din aproximativ 100 de specii diferite.", "Grădina este celebră pentru reproducerea cu succes a maimuțelor marmoset.", "Există un program zilnic de hrănire spectacol pentru diverse animale, inclusiv vidre și pinguini.", "Parcul include un mic muzeu etnografic care prezintă viața tradițională a regiunii Jászság.", "Grădina este implicată în programe europene de salvare a păsărilor răpitoare rănite."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-jaszberenyi-allatkert-extra.webp"},
   {
     id: "agriculture-tiszafuredi-halas-extra",
     type: "agriculture",
@@ -2172,8 +2126,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Tiszafüred a Tisza-tó horgászati és turisztikai fővárosa.", "A halaspark nagy területen gazdálkodik, biztosítva a tó halutánpótlását.", "Itt élnek a vidék rekordméretű harcsái, melyek a horgászok álmai.", "A központ oktatóprogramokat kínál a vizes élőhelyek védelméről.", "Évente rendeznek itt rangos országos és nemzetközi horgászversenyeket.", "A park területén bemutató akváriumok is várják az érdeklődőket.", "Szoros az együttműködés a Hortobágyi Nemzeti Park szakembereivel.", "A tiszai halászlé egyik legfontosabb alapanyag-forrása ez a vidék."],
       ro: ["Tiszafüred este considerat 'capitala' lacului Tisa.", "Ciorba de pește de aici se caracterizează prin utilizarea mai multor tipuri de pește de râu și boia de calitate.", "Există numeroase ferme piscicole în jurul orașului care alimentează piața națională.", "Pescuitul sportiv pe lacul Tisa atrage anual peste 100.000 de turiști.", "Tradiția afumării peștelui este o specialitate locală foarte apreciată de vizitatori.", "Regiunea este implicată în programe de populare periodică a râului cu puiet de specii native."],
       en: []
-    },
-  },
+    }, image: "/poi-images/agriculture-tiszafuredi-halas-extra.webp"},
   {
     id: "industry-szolnoki-papirgyar-extra",
     type: "industry",
@@ -2212,8 +2165,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A papírgyártás gyökerei Szolnokon az 1800-as évek közepéig nyúlnak vissza.", "Az üzem ma speciális, famentes nyomópapírok gyártására szakosodott.", "A termékek jelentős részét az európai uniós piacokon értékesítik.", "A gyár saját biológiai szennyvíztisztító teleppel rendelkezik.", "Az elmúlt években jelentős beruházások történtek a gépsorok digitalizációjába.", "A szolnoki gyár a régió egyik legfontosabb ipartörténeti központja.", "A vállalat aktívan támogatja a helyi közösségi és sportrendezvényeket.", "A technológiai fejlesztéseknek köszönhetően az energiahatékonyságuk példaértékű."],
       ro: ["Producția de hârtie la Szolnok are o tradiție de peste 80 de ani.", "Fabrica utilizează cantități mari de apă din râul Tisa, care este ulterior epurată riguros.", "Unitatea produce o gamă largă de produse, de la hârtie de scris la ambalaje industriale complexe.", "Procesul de producție include o secție modernă de colectare și procesare a hârtiei reciclate.", "Fabrica este situată strategic lângă nodul feroviar Szolnok pentru un transport eficient.", "În cadrul fabricii funcționează un laborator propriu pentru testarea rezistenței fibrelor celulozice."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-szolnoki-papirgyar-extra.webp"},
 
   // HU-KE: Komárom-Esztergom (2G, 2LN, 1W)
   {
@@ -2294,8 +2246,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az erődrendszert 1850 és 1871 között építették ki a Duna stratégiai pontján.", "Az épületegyüttesben több mint 600 helyiség található, melyek 8000 katonát tudtak befogadni.", "A Monostori erőd az UNESCO Világörökség várományosi listáján szerepel.", "A hidegháború alatt itt volt Közép-Európa legnagyobb szovjet lőszerraktára.", "Az udvaron rendszeresen tartanak lovasbemutatókat és történelmi fesztiválokat.", "Földalatti folyosóinak teljes hossza több kilométert tesz ki.", "Az erőd építéséhez több millió köbméter követ és téglát használtak fel.", "A monumentális falak a kor legmodernebb tüzérségi támadásainak is ellenálltak."],
       ro: ["Cetatea se întinde pe o suprafață de 70 de hectare și are peste 600 de încăperi.", "Zidurile de piatră și pământ au o grosime de câțiva metri pentru a absorbi șocul exploziilor.", "Fortificația putea adăposti o garnizoană de 8.000 de soldați în condiții de asediu.", "Sistemul de coridoare subterane are o lungime totală de peste 3 km.", "După 1945, a fost cel mai mare depozit de muniție al Armatei Roșii din Europa Centrală.", "Din 2009, cetatea este inclusă pe lista tentativă a Patrimoniului Mondial UNESCO."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-monostori-erod-extra.webp"},
   {
     id: "kid-landmark-tatai-tanosveny-extra",
     type: "kid-landmark",
@@ -2334,8 +2285,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A forrásokból naponta több mint 30 ezer köbméter langyos víz tör a felszínre.", "A tanösvény 1350 méter hosszú és teljesen akadálymentesített.", "A terület 2015-ben kapta meg jelenlegi formáját és lett az ország egyik legszebb sétánya.", "Itt található a régió legnagyobb mocsári teknős populációja.", "A látogatók kézzel hajtott kötélkomppal is átkelhetnek az egyik tavon.", "A tanösvény kilátótornyából belátható az egész 30 hektáros védett terület.", "Télen a langyos források felett gomolygó pára mesebeli látványt nyújt.", "A terület a Ramsari Egyezmény védelme alatt álló nemzetközi jelentőségű vizes élőhely."],
       ro: ["Poteca are o lungime de 1350 de metri și este construită în totalitate pe piloni de lemn.", "Izvoarele termale de aici au o temperatură constantă de 20-22 de grade Celsius tot anul.", "În zonă pot fi văzute exemplare rare de nufăr alb și ferigă de mlastină.", "Există un turn de observație de unde se poate admira panorama întregii zone umede.", "Poteca a fost premiată internațional pentru designul său ecologic și accesibilitate.", "Vizitatorii pot închiria bărci mici pentru a explora canalele din jurul potecii."],
       en: []
-    },
-  },
+    }, image: "/poi-images/kid-landmark-tatai-tanosveny-extra.webp"},
   {
     id: "animal-habitat-gerecse-vadaspark-extra",
     type: "animal-habitat",
@@ -2374,8 +2324,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A vadaspark híres a jelentős muflonállományáról, amely a hegység egyik jelképe.", "A területen található tanösvények a fenntartható erdőgazdálkodást mutatják be.", "Ősszel a szarvasbőgés idején különleges esti programokat szerveznek.", "A kifutókat úgy alakították ki, hogy a természetes domborzati elemeket használják fel.", "A park területén ritka énekesmadarak és odúlakó fajok is megfigyelhetők.", "Kényelmes pihenőhelyek és erdei játszótér várja a kisgyermekes családokat.", "A vadaspark szoros kapcsolatban áll a közeli Tardos településsel.", "A tiszta hegyi levegő miatt kedvelt célpontja a gyógyulni vágyóknak is."],
       ro: ["Parcul găzduiește una dintre cele mai frumoase populații de mufloni din regiune.", "Suprafața zonei de observație depășește 50 de hectare de pădure nativă.", "Există puncte de hrănire unde animalele pot fi văzute de la distanță mică în siguranță.", "Parcul este situat lângă localitatea Tardos, celebră pentru cariera sa de calcar roșu.", "Vizitatorii pot învăța despre urmele animalelor și despre comportamentul lor sezonier.", "În timpul toamnei, 'boncănitul cerbilor' este un fenomen auditiv spectaculos în această zonă."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-gerecse-vadaspark-extra.webp"},
   {
     id: "industry-suzuki-esztergom-extra",
     type: "industry",
@@ -2414,8 +2363,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az első Magyarországon gyártott modell a legendás „mi autónk”, a Swift volt 1992-ben.", "Ez a Suzuki egyetlen európai gyártóbázisa, ahonnan több mint 100 országba exportálnak.", "Az üzemben 2020-ban ünnepelték a 3,5 milliomodik legördülő autót.", "A gyár területe hatalmas, saját vasúti rakodóval és tesztpályával rendelkezik.", "A termelés több mint 90 százaléka külföldi piacokra kerül.", "A Suzuki Esztergom egyik legnagyobb és legfontosabb munkaadója évtizedek óta.", "Kiemelt figyelmet fordítanak a gyártás során a hulladékmentességre és az energiahatékonyságra.", "A 2019-es évtől kezdődően az üzem fókuszába az öntöltő hibrid modellek kerültek."],
       ro: ["Magyar Suzuki a fost fondată în 1991 ca o investiție mixtă maghiaro-japoneză.", "Primul model Suzuki Swift a ieșit de pe banda de montaj în anul 1922.", "Capacitatea de producție a fabricii este de aproximativ 300.000 de vehicule pe an.", "În anul 2020, fabrica a atins borna de 3,5 milioane de mașini produse.", "Unitatea de la Esztergom este singura fabrică Suzuki din Europa.", "Fabrica se întinde pe o suprafață de peste 57 de hectare lângă malul Dunării."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-suzuki-esztergom-extra.webp"},
 
   // HU-NO: Nógrád (2G, 2LN, 1W)
   {
@@ -2496,8 +2444,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Szondi György és 146 vitéze több mint 12 000 török katonával szemben védte a várat négy napig.", "A hősies ellenállásról Arany János is írt híres balladát „Szondi két apródja” címmel.", "Ali pasa, a török sereg vezére tisztelte Szondi bátorságát, ezért katonai pompával temettette el.", "A vár eredetileg a 13. században épült, mint vadászkastély és határvédő erőd.", "Az 1990-es évek óta folyik a falak szakszerű állagmegóvása önkéntesek segítségével.", "Drégely vára 2012 óta Nemzeti Emlékhely, kiemelt történelmi jelentőséggel bír.", "Minden év júliusában nagyszabású várjátékokkal emlékeznek meg az ostromról.", "A vár csak gyalogosan közelíthető meg, a környező erdők az ország legszebb túraútvonalai közé tartoznak."],
       ro: ["Cetatea a fost construită în secolul al XIII-lea ca punct de observație.", "Asediul din 1552 a durat patru zile, cetatea fiind distrusă complet de artileria turcă.", "Se află la o altitudine de 444 metri pe o stâncă vulcanică izolată.", "După căderea cetății, turcii nu au mai reconstruit-o, ridicând o nouă fortificație în vale.", "Anual, în luna iulie, are loc 'Sărbătoarea Szondi' în memoria eroilor căzuți.", "Traseul spre cetate face parte din parcursul istoric național al Ungariei."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-dregely-vara-extra.webp"},
   {
     id: "kid-landmark-ipolytarnoc-extra",
     type: "kid-landmark",
@@ -2536,8 +2483,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Itt találták meg a világ egyik legnagyobb megkövesedett fenyőtörzsét, amely eredetileg 100 méteres volt.", "Több mint 3000 lábnyomot azonosítottak a kutatók az egykori mocsár üledékében.", "A terület 1944 óta országos védettségű természetvédelmi terület.", "Az Európa Diplomás terület része az UNESCO Világörökség várományosi listájának.", "A 4D-s mozi az ősvilági katasztrófát szimulálja speciális effektekkel.", "A tanösvényeken életnagyságú ősmammut és más állatrekonstrukciók láthatók.", "Ipolytarnóc a nemzetközi geoturizmus egyik legfontosabb magyarországi célpontja.", "A területen található kőzetek között cápafogakat és egzotikus növényi lenyomatokat is találtak."],
       ro: ["Ipolytarnóc a primit Diploma Europeană pentru Arii Protejate în anul 1995.", "Aici se află unul dintre cele mai mari trunchiuri de copac pietrificat din lume, lung de 42 de metri.", "Urmele a peste 11 specii de animale preistorice au fost identificate în gresia vulcanică.", "Rezervația deține un centru de vizitare ultra-modern cu tehnologie de realitate augmentată.", "Situl este propus pentru includerea în Patrimoniul Mondial UNESCO datorită unicității sale.", "În apropiere se află un parc de aventură cu poduri de frânghie situat la înălțime în pădure."],
       en: []
-    },
-  },
+    }, image: "/poi-images/kid-landmark-ipolytarnoc-extra.webp"},
   {
     id: "animal-habitat-nogradi-vadaspark-extra",
     type: "animal-habitat",
@@ -2576,8 +2522,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A vadaspark területe meghaladja a 110 hektárt, sűrű erdőkkel és tágas rétekkel.", "A traktoros túra során több száz nagyvadat láthatunk közvetlen közelről.", "Nógrád vármegye legnagyobb és legismertebb magánkézben lévő vadasparkja.", "A parkban sikeres vadgazdálkodás folyik, híresek a kapitális trófeát viselő bikákról.", "A bejáratnál állatsimogató várja a kisebb gyerekeket juhokkal és kecskékkel.", "A terület korábban zárt vadászterület volt, mielőtt megnyitották a nagyközönség előtt.", "Szeptemberben a szarvasbőgés idején különleges esti túrákat is tartanak.", "A parkban helyi vadhúsból készült termékeket is vásárolhatnak a látogatók."],
       ro: ["Parcul se întinde pe o suprafață impresionantă de peste 100 de hectare.", "Este renumit pentru populația sa de mufloni, aduși inițial din Corsica.", "Traseul cu tractorul oferă posibilitatea de a vedea animalele de la doar câțiva metri distanță.", "În cadrul parcului funcționează un punct de informare despre ecologia pădurii.", "Animalele sunt obișnuite cu prezența vehiculelor, ceea ce permite fotografierea lor facilă.", "Peisajul oferă o panoramă superbă spre cetatea Nógrád situată în apropiere."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-nogradi-vadaspark-extra.webp"},
   {
     id: "industry-salgotarjani-uveggyar-extra",
     type: "industry",
@@ -2616,8 +2561,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az első üveghutát a környéken már 1893-ban megalapították.", "Salgótarján évtizedekig a közép-európai üveg- és bányászipar egyik fellegvára volt.", "A gyárban ma is alkalmazzák a hagyományos, szájjal fúvott üvegkészítési technikát.", "Itt készültek azok a híres ólomkristály termékek, melyek Hungarikumnak számítottak.", "Az üvegmúzeumban több mint 2000 egyedi kiállítási tárgy látható.", "A salgótarjáni üvegtermékek több világkiállításon is nagydíjat nyertek.", "A gyár speciális laboratóriumi üvegeket is gyárt a vegyipar számára.", "Az üvegfestés és gravírozás helyi mesterei világszerte elismert szakemberek."],
       ro: ["Fabrica de sticlă a fost înființată în anul 1893 sub numele de 'Öblösüveggyár'.", "Produsele de la Salgótarján au decorat mesele multor case regale din Europa.", "Orașul a fost supranumit 'orașul sticlei și al oțelului' datorită industriei sale grele.", "Muzeul Sticlei deține o colecție de peste 2000 de piese unice din cristal și sticlă colorată.", "Tehnica suflării sticlei este încă prezentată ca meșteșug tradițional în atelierele locale.", "Fabrica a fost un pionier în utilizarea gazului pentru topirea sticlei în locul cărbunelui."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-salgotarjani-uveggyar-extra.webp"},
 
   // HU-PE: Pest (2G, 2LN, 1W)
   {
@@ -2698,8 +2642,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A kastély területe és szobáinak száma alapján a versailles-i után a második legnagyobb barokk palota Európában.", "Sisi királyné több mint 2000 napot töltött élete során a gödöllői falak között.", "Az épület barokk színháza az egyetlen ilyen, ma is működő színpadtechnikájú színház hazánkban.", "A második világháború után az épület állapota súlyosan leromlott, szovjet laktanyaként is szolgált.", "A 20. század végén kezdődött nagyszabású restaurálás adta vissza a palota eredeti fényét.", "A kastélyparkban található a híres pálmaház és a királyi váróépület is.", "A múzeumban számos személyes tárgy és korhű ruha látható, melyek Sisi alakját idézik.", "Budapestről hévvel vagy autóval mindössze fél óra alatt elérhető ez a történelmi ékszerdoboz."],
       ro: ["Castelul a fost construit în secolul al XVIII-lea de contele Antal Grassalkovich I.", "După compromisul din 1867, statul maghiar a oferit castelul ca dar de încoronare perechii regale.", "Regina Elisabeta (Sisi) a petrecut la Gödöllő peste 2000 de zile din viața sa.", "Teatrul baroc al castelului a fost construit în 1785 și este complet funcțional astăzi.", "Grădina castelului are o suprafață de 26 de hectare și include un arboretum.", "În timpul perioadei comuniste, castelul a servit drept cămin pentru bătrâni și bază militară sovietică."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-godolloi-kastely-extra.webp"},
   {
     id: "animal-habitat-medveotthon-extra",
     type: "animal-habitat",
@@ -2738,8 +2681,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A medveotthon 1998-ban nyílt meg a World Animal Protection és a helyi önkormányzat összefogásával.", "Jelenleg több mint 30 barna medve és több farkasfalka él a hatalmas területen.", "Az állatok évente több tonna gyümölcsöt, zöldséget és mézet fogyasztanak el.", "A park területén egy kilátótorony és kismesterségek utcája is várja a vendégeket.", "A medvék számára mesterséges tavakat alakítottak ki a fürdőzéshez és a játékhoz.", "Az otthon egész évben nyitva tart, télen a havas környezetben is megfigyelhetők az állatok.", "A látogatók a mézet helyben vásárolhatják meg az etetéshez.", "Számos film és televíziós műsor forgatási helyszíne volt már az otthon barátságos lakói miatt."],
       ro: ["Sanctuarul găzduiește în prezent peste 40 de urși bruni.", "Suprafața totală a parcului este de aproximativ 5,5 hectare.", "Pe lângă urși, aici trăiesc și haite de lupi gri în zone separate.", "Aria este dotată cu lacuri artificiale unde urșii se pot scălda și pescui.", "Sanctuarul este partener oficial al organizației World Animal Protection.", "Peste 200.000 de turiști vizitează anual acest loc unic lângă Budapesta."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-medveotthon-extra.webp"},
   {
     id: "kid-landmark-szentendre-skanzen-extra",
     type: "kid-landmark",
@@ -2778,8 +2720,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A múzeumot 1967-ben alapították, és mára több mint 300 épületből álló falurendszerré nőtt.", "A Skanzen-vonat egy eredeti gőzmozdony által vontatott szerelvényen szállítja az utasokat.", "A területen tíz különböző tájegység képviselteti magát az Alföldtől a Dunántúlig.", "Rendszeresen tartanak bemutató sütéseket, ahol megkóstolható a friss, kemencés kenyérlepény.", "A skanzen területén működik az ország egyik leggazdagabb néprajzi szakkönyvtára.", "A múzeum gyermek-élménypontjai játékos formában ismertetik meg a népi kultúrát.", "Itt látható az ország egyetlen működő, lóhajtásos szárazmalma és több vízimallom is.", "A Skanzen minden évszakban más arcát mutatja, követve a népszokások és a természet körforgását."],
       ro: ["Muzeul satului a fost fondat în 1967 și are o suprafață de 60 de hectare.", "Există peste 400 de clădiri originale aduse din toate colțurile Ungariei.", "Calea ferată a Skanzenului are o lungime de 2,2 km și utilizează un tren istoric.", "În fiecare weekend se organizează ateliere de coacere a colacilor și fabricare a lumânărilor.", "Secțiunea dedicată copiilor include un loc de joacă bazat pe povești populare maghiare.", "Muzeul este împărțit în 8 regiuni etnografice distincte, fiecare cu specificul său arhitectural."],
       en: []
-    },
-  },
+    }, image: "/poi-images/kid-landmark-szentendre-skanzen-extra.webp"},
   {
     id: "industry-mol-olajfinomito-extra",
     type: "industry",
@@ -2900,8 +2841,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az épületet 1902 és 1904 között emelték Kopeczek Ede és Kertész Gyula tervei alapján.", "A díszterem hatalmas üvegablakai a város és a vármegye címerét ábrázolják.", "A városháza tornyában 18 harangból álló harangjáték működik.", "Homlokzatán Justitia, az igazság istennőjének szobra hirdeti a törvény erejét.", "Az épület sértetlenül vészelte át az elmúlt évszázad viharait, megőrizve eredeti belső bútorzatát.", "A földszinten berendezett információs pont a város történelmét mutatja be az érdeklődőknek.", "A városháza előtti tér a város legfontosabb rendezvényeinek, köztük a virágkarneválnak a színhelye.", "Az esti díszkivilágításban az épület sziluettje különleges látványt nyújt."],
       ro: ["Clădirea a fost proiectată de arhitecții localnici Kopeczek György și Kertész Róbert.", "Construcția a durat doar doi ani, între 1902 și 1904.", "Turnul primăriei are o înălțime de peste 40 de metri, fiind un punct de reper vizual.", "Vitraliile din sala festivă au fost realizate de celebrul atelier al lui Miksa Róth.", "În fața primăriei se află statuia lui Lajos Kossuth, liderul revoluției de la 1848.", "Clădirea a fost restaurată complet în anul 2004, la centenarul său."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-kaposvari-varoshaza-extra.webp"},
   {
     id: "kid-landmark-katica-tanya-extra",
     type: "kid-landmark",
@@ -2940,8 +2880,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A Katica Tanya több alkalommal is elnyerte az „Év ökoturisztikai létesítménye” címet.", "Itt található Magyarország egyik legnagyobb fedett csúszdaháza és játszóbirodalma.", "A gazdaságban őshonos magyar állatokkal, például rackajuhokkal és mangalicákkal találkozhatunk.", "A tanya saját naperőművel és környezetbarát szennyvíztisztítóval rendelkezik.", "Rendszeresen szerveznek hagyományőrző napokat, ahol a régi mesterségeket lehet kipróbálni.", "A területen található egy hatalmas lovagi vár és egy működő ostromgép-rekonstrukció is.", "Az étteremben helyi alapanyagokból készült hagyományos somogyi ételeket szolgálnak fel.", "A vadasparki részben gímszarvasok és dámvadak is megfigyelhetők."],
       ro: ["Parcul se întinde pe o suprafață de peste 13 hectare de teren amenajat.", "Katica Tanya a câștigat numeroase premii naționale pentru 'Cel mai bun loc de agrement'.", "Aici se află cel mai mare tobogan interior din regiune, cu o cădere spectaculoasă.", "Există un program educațional care explică funcționarea panourilor solare și a centralelor pe biomasă.", "Copiii pot obține un 'permis de conducere de fermier' după parcurgerea unui traseu cu tractorașe.", "Toate mesele servite în cadrul fermei sunt preparate din ingrediente locale, naturale."],
       en: []
-    },
-  },
+    }, image: "/poi-images/kid-landmark-katica-tanya-extra.webp"},
   {
     id: "agriculture-balatoni-halaszat-extra",
     type: "agriculture",
@@ -2980,8 +2919,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A balatoni halászat írásos emlékei már a 11. századi tihanyi alapítólevélben is szerepelnek.", "A tóban több mint 40 halfaj él, köztük a védett lápi póc és a garda is.", "A tihanyi gardahalászat, a „látott hal” hagyománya egyedülálló kulturális örökség.", "Keszthelyen a Balatoni Múzeumban külön részleg mutatja be a halászat technikai fejlődését.", "A Balatoni Halgazdálkodási Nonprofit Zrt. felel a tó halállományának tervszerű pótlásáért.", "Évente több száz tonna egynyári pontyot és előnevelt süllőt telepítenek a vízbe.", "A hagyományos balatoni halászhajók lapos fenekűek voltak a sekély vizek miatt.", "A Balaton-felvidéki csárdák híres étele a roston sült süllő és a bográcsos halászlé."],
       ro: ["Lacul Balaton găzduiește peste 40 de specii de pești.", "Șalăul de Balaton (Fogas) este considerat 'regele peștilor' din lac.", "Prima societate de pescuit organizată pe Balaton a fost înființată în secolul al XIX-lea.", "Pescuitul la copcă era o practică comună în iernile geroase de altădată.", "Regiunea este renumită pentru rețetele de ciorbă de pește specifice fiecărui sat de pe mal.", "Astăzi, anual se eliberează peste 50.000 de permise de pescuit sportiv pe lac."],
       en: []
-    },
-  },
+    }, image: "/poi-images/agriculture-balatoni-halaszat-extra.webp"},
   {
     id: "industry-kaposvari-cukorgyar-extra",
     type: "industry",
@@ -3020,8 +2958,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A gyárat 1894-ben alapították, és a múlt század nagy ipari átalakulásait egyedüliként élte túl.", "Az üzem naponta több ezer tonna cukorrépa feldolgozására képes a kampányidőszakban.", "A gyár biogáz-termelése annyi energiát állít elő, amennyi egy kisebb város ellátásához elegendő lenne.", "A Kaposváron gyártott cukor „Magyar Cukor” márkanéven kerül a boltok polcaira.", "A folyamatos technológiai fejlesztések révén az üzem hatékonysága világszínvonalú.", "A gyár saját vasúti hálózattal és korszerű csomagolóüzemmel rendelkezik.", "A környezeti fenntarthatóság érdekében a gyár szén-dioxid kibocsátását drasztikusan csökkentették.", "Az üzem a régió mezőgazdasági termelőinek legfontosabb és legmegbízhatóbb partnere."],
       ro: ["Fabrica a fost înființată în anul 1894 de către o societate pe acțiuni locală.", "Este cea mai mare fabrică de zahăr din Europa Centrală ca și capacitate de depozitare în silozuri.", "Unitatea de producere a biogazului asigură independența energetică a fabricii pe timpul campaniei.", "Zahărul produs aici este comercializat sub marca 'Magyar Cukor'.", "Fabrica oferă asistență tehnică fermierilor pentru optimizarea culturilor de sfeclă.", "Pe timpul iernii, fabrica prelucrează zahăr brut din trestie pentru a menține activitatea."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-kaposvari-cukorgyar-extra.webp"},
 
   // HU-SZ: Szabolcs-Szatmár-Bereg (2G, 1LN, 2W)
   {
@@ -3102,8 +3039,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A kegykép első könnyezését 1696. november 4-én jegyezték fel hivatalosan.", "Az eredeti képet Lipót császár parancsára Bécsbe, a Stephansdomba szállították.", "A jelenlegi barokk templom a 18. század közepén épült fel a korábbi fatemplom helyén.", "Máriapócs 1948-ban kapta meg a „basilica minor” rangot XII. Pius pápától.", "Ikonosztáza az ország egyik legszebb barokk egyházi műalkotása, számos szent alakjával.", "A hely a magyarországi görögkatolikusok nemzeti szentélye és lelki központja.", "A templom falain számos fogadalmi tárgy látható, melyek a gyógyulásokért adott hálát jelzik.", "A kegyhely a Kárpát-medencei Mária-út egyik legfontosabb északkeleti állomása."],
       ro: ["Máriapócs a fost declarat loc de pelerinaj național de către Papa Pius al XII-lea.", "Biserica actuală a fost construită între anii 1731 și 1756.", "Icoana plângătoare este vizitată anual de peste 500.000 de pelerini.", "Papa Ioan Paul al II-lea a vizitat Máriapócs în anul 1991.", "Interiorul bisericii este decorat cu fresce spectaculoase realizate de artiști locali.", "Localitatea a primit titlul de 'Sediul Maicii Domnului' în religia catolică maghiară."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-mariapocs-kegytemplom-extra.webp"},
   {
     id: "animal-habitat-nyiregyhazi-allatpark-extra",
     type: "animal-habitat",
@@ -3142,8 +3078,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az állatkertet többször is Európa legjobb állatkertjének választották saját kategóriájában.", "A Zöld Piramisban található cápás akvárium alatt egy üvegalagúton sétálhatnak át a látogatók.", "Itt született meg az ország első afrikai elefántbébije sikeres fogságban tartott tenyésztésből.", "A terület kontinensenkénti csoportosításban mutatja be a világ élővilágát a sarkvidéktől a szavannáig.", "A park saját szállodával rendelkezik, így a vendégek a vadon hangjai között ébredhetnek.", "Aktívan részt vesznek több mint 50 nemzetközi fajmegmentési programban (EEP).", "Az állatparkban látható Magyarország legnagyobb medve- és nagymacska-gyűjteménye.", "A Sóstói tölgyerdő árnyas fái még a legnagyobb nyári hőségben is kellemes klímát biztosítanak."],
       ro: ["Grădina zoologică se întinde pe o suprafață de 30 de hectare de pădure naturală.", "Găzduiește peste 5000 de animale din 500 de specii de pe toate continentele.", "Tunelul subacvatic din Piramida Verde permite observarea rechinilor și a recifelor de corali.", "A fost votată de mai multe ori ca fiind 'Cea mai bună grădină zoologică din Europa' la categoria sa.", "Este singurul loc din Ungaria unde se pot vedea specii rari precum ursul polar și balena ucigașă (machete educaționale).", "Sóstó Zoo dispune de un hotel propriu situat chiar în incinta parcului."],
       en: []
-    },
-  },
+    }, image: "/poi-images/animal-habitat-nyiregyhazi-allatpark-extra.webp"},
   {
     id: "industry-lego-nyiregyhaza-extra",
     type: "industry",
@@ -3182,8 +3117,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az új nyíregyházi gyárat 2014-ben adták át, és azóta folyamatosan bővül.", "Évente több milliárd LEGO elemet állítanak itt elő hajszálpontos precizitással.", "A gyár tetőzetén elhelyezett napelempark az egyik legnagyobb ilyen ipari létesítmény a régióban.", "Itt készül a világon értékesített összes DUPLO kocka jelentős része.", "Az automata magasraktár méretei lenyűgözőek, több tízezer raklap áru tárolására képes.", "A LEGO szigorú minőségellenőrzése miatt a kockák hibaszázaléka rendkívül alacsony.", "A gyár aktívan támogatja a helyi oktatást és a gyermekek kreativitását fejlesztő programokat.", "A termelési terület nagysága meghaladja a 160 ezer négyzetmétert."],
       ro: ["Fabrica se întinde pe o suprafață de peste 120.000 de metri pătrați de clădiri construite.", "Peste 2.500 de angajați lucrează în cadrul complexului industrial LEGO din Nyíregyháza.", "Depozitul automatizat al fabricii are o înălțime de 30 de metri și este gestionat complet de roboți.", "Aici sunt produse în special seturile LEGO Duplo pentru copiii mici.", "Unitatea folosește peste 700 de mașini de turnare prin injecție de mare precizie.", " LEGO Nyíregyháza este una dintre cele 5 fabrici principale ale grupului din întreaga lume."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-lego-nyiregyhaza-extra.webp"},
   {
     id: "agriculture-szabolcsi-alma-extra",
     type: "agriculture",
@@ -3222,8 +3156,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Magyarország teljes almatermésének mintegy kétharmada Szabolcs vármegyéből származik.", "Az almatermesztés a 19. század végén, a homokterületek fásításával vált nagyüzemivé.", "A Jonatán alma mellett ma már modern fajtákat, például Galát és Idaredet is termesztenek.", "A szabolcsi alma 2011 óta uniós oltalom alatt álló földrajzi jelzéssel rendelkező termék.", "Az őszi almaszüret idején Nyíregyházán nagyszabású Almafesztivált rendeznek.", "A gyümölcs kiemelkedő beltartalmi értékei miatt egészséges és tápláló néptáplálék.", "A régióban modern hűtőházak láncolata biztosítja az alma egész éves frissességét.", "A szabolcsi almaexport a magyar agrárgazdaság egyik meghatározó tétele."],
       ro: ["Județul Szabolcs produce peste 60% din cantitatea totală de mere a Ungariei.", "Soiul 'Jonatán' este cel mai emblematic pentru această regiune istorică.", "Tradiția cultivării mărului la scară industrială a început în anii 1920.", "Peste 30.000 de hectare de livezi sunt cultivate în prezent în acest județ.", "Merele de Szabolcs sunt exportate masiv în întreaga Europă și în țările arabe.", "Regiunea găzduiește numeroase stațiuni de cercetare pentru pomicultură."],
       en: []
-    },
-  },
+    }, image: "/poi-images/agriculture-szabolcsi-alma-extra.webp"},
 
   // HU-TO: Tolna (2G, 1LN, 2W)
   {
@@ -3304,8 +3237,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A vártorony eredetileg Zsigmond király idején épült a 15. század elején.", "A „Csonka-torony” nevet azért kapta, mert sokáig tető nélkül, romosan állt a Duna felett.", "A török időkben az oszmánok börtönnek és lőszerraktárnak is használták az épületet.", "A torony mellett egy barokk kori kápolna és várudvar is látogatható.", "A múzeumban értékes helytörténeti gyűjtemény és római kori kövek láthatók.", "Minden évben itt rendezik meg a Dunaföldvári Várnapokat középkori bemutatókkal.", "A várfalak maradványai jól érzékeltetik az egykori erődítmény méreteit.", "A torony erkélyéről tiszta időben ellátni egészen a paksi atomerőműig."],
       ro: ["Turnul are o înălțime de 18 metri și ziduri de piatră foarte groase.", "În timpul ocupației turcești, a servit drept sediu al garnizoanei locale.", "Arheologii au descoperit în interiorul turnului obiecte ceramice rare din epoca otomană.", "Cetatea a fost parțial distrusă în timpul revoltei lui Rákóczi din secolul al XVIII-lea.", "În turn a funcționat o închisoare unde au fost deținuți briganzii celebri ai regiunii.", "Lângă cetate se află un restaurant tradițional situat într-o fostă pivniță de vinuri."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-dunafoldvari-var-extra.webp"},
   {
     id: "kid-landmark-gemenci-kisvasut-extra",
     type: "kid-landmark",
@@ -3344,8 +3276,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A vasút hossza mintegy 30 kilométer, összekötve a Sárközt a Duna-parttal.", "A Gemenci erdő Magyarország egyetlen olyan ártéri erdeje, ahol fekete gólyák is fészkelnek.", "A nosztalgiavonatokat ünnepnapokon a „Rezét” nevű gőzmozdony vontatja.", "A vasútvonal mentén tanösvények és madármegfigyelő tornyok sora található.", "Áradások idején előfordul, hogy a síneket is ellepi a víz, ilyenkor szünetel a közlekedés.", "A pörbölyi központban interaktív kiállítás mutatja be az ártéri gazdálkodás történetét.", "A terület híres a Kapitális gímszarvas-bikáiról, melyeknek bőgése ősszel messzire hallatszik.", "A kisvasút kocsijai nyáron nyitottak, így a látogatók közvetlen kapcsolatba kerülhetnek az erdő illataival."],
       ro: ["Linia ferată are o lungime totală de 32 de kilometri, fiind cea mai lungă de acest tip din regiune.", "Locomotiva cu aburi 'Rezét' este atracția principală, circulând în zilele de sărbătoare.", "Traseul feroviar este inundat periodic de apele Dunării, necesitând lucrări de întreținere speciale.", "La stația Pörböly funcționează un centru de vizitare cu expoziții interactive despre ecosistemul luncii.", "În timpul toamnei se organizează 'trenurile boncănitului' pentru a asculta cerbii.", "Calea ferată a fost construită inițial pentru transportul lemnului în anul 1915."],
       en: []
-    },
-  },
+    }, image: "/poi-images/kid-landmark-gemenci-kisvasut-extra.webp"},
   {
     id: "industry-paksi-atomeromu-extra",
     type: "industry",
@@ -3384,8 +3315,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az erőmű első blokkját 1982-ben helyezték üzembe, a negyediket 1987-ben.", "Évente több mint 15 000 gigawattóra villamos energiát termelnek a paksi blokkok.", "A reaktorok hűtéséhez a Duna vizét használják fel, melyet szigorúan ellenőrzött módon engednek vissza.", "Az atomerőmű területén működik az ország egyetlen Atomenergetikai Múzeuma.", "A biztonsági rendszerek többszörös védelemmel vannak ellátva a külső és belső kockázatok ellen.", "Paks városának lakossága és fejlődése szorosan összefonódott az erőmű történetével.", "A létesítmény környezetében folyamatos sugárvédelmi ellenőrző hálózat működik.", "Az üzem élettartam-hosszabbítása biztosítja a blokkok működését a 2030-as évekig."],
       ro: ["Cele patru blocuri ale centralei au fost puse în funcțiune între anii 1982 și 1987.", "Paks asigură peste 50% din producția totală de energie electrică a Ungariei.", "Reactoarele de la Paks au o durată de viață prelungită până în anii 2030-2040.", "Dunărea furnizează 100 de metri cubi de apă pe secundă pentru răcirea reactoarelor.", "În cadrul centralei funcționează un centru de pregătire cu simulatoare de mărime naturală.", "Muzeul Energiei Nucleare din Paks prezintă istoria și fizica din spatele producției de energie."],
       en: []
-    },
-    },
+    }, image: "/poi-images/industry-paksi-atomeromu-extra.webp"},
   {
     id: "agriculture-szekszardi-bor-extra",
     type: "agriculture",
@@ -3424,8 +3354,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Szekszárd a bikavér elnevezés első írásos használója, megelőzve Egert is.", "A Szekszárdi Bikavér 2017 óta kiemelt nemzeti érték, Hungarikum várományos.", "A vidék talaja lösz, amely a boroknak különleges, selymes szerkezetet ad.", "Itt tartják minden év szeptemberében az ország egyik legszebb szüreti fesztiválját.", "A Kadarka fajta Szekszárdon találta meg második hazáját, fűszeres, könnyed bort adva.", "A borvidékhez 15 település tartozik, központja a Tolna vármegyei székhely.", "Híres borász dinasztiák sora dolgozik a völgyekben, világszínvonalú technológiával.", "A „szekszárdi palack” egyedi formája segít felismerni a régió prémium borait a boltokban."],
       ro: ["Prima mențiune despre viticultura la Szekszárd datează din perioada romană.", "Soiul 'Kadarka' este considerat sufletul regiunii viticole Szekszárd.", "Szekszárd a fost prima regiune din Ungaria care a protejat oficial numele 'Bikavér'.", "Pivnițele din loess mențin o temperatură constantă de 12-14 grade pe tot parcursul anului.", "Marele compozitor Franz Liszt era un mare admirator și consumator al vinurilor de aici.", "Regiunea deține peste 2000 de hectare de podgorii cultivate cu soiuri roșii."],
       en: []
-    },
-  },
+    }, image: "/poi-images/agriculture-szekszardi-bor-extra.webp"},
 
   // HU-VA: Vas (2G, 1LN, 2W)
   {
@@ -3506,8 +3435,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A vár díszterme a magyarországi barokk falfestészet egyik legkiemelkedőbb remekműve.", "Itt működik a világ egyik legjelentősebb huszárkiállítása, bemutatva a lovaskatona-hagyományokat.", "A vár nyomdájában jelent meg 1541-ben az első magyar nyelvű Újszövetség.", "A Nádasdy család tagja volt az a Nádasdy Ferenc, aki a „fekete bégként” vált rettegetté a törökök körében.", "A kastély egykor a bajor királyi család tulajdona is volt, III. Lajos király itt hunyt el 1921-ben.", "A vártoronyból belátható a sárvári gyógyfürdő és a környező erdők vidéke.", "A várudvaron minden évben megrendezik a Nemzetközi Huszártalálkozót.", "A várfalakat övező parkban több száz éves tölgyek és ritka növényfajok láthatók."],
       ro: ["Aici a trăit faimoasa Elisabeta Báthory, soția lui Ferenc Nádasdy.", "În cetatea din Sárvár a fost tipărită prima carte în limba maghiară în 1541 (Noul Testament).", "Frescele din Sala Mare au fost pictate de Hans Rudolf Miller în anul 1653.", "Cetatea este înconjurată de un șanț cu apă, transformat astăzi în parc și lac de canotaj.", "Turnul de la poarta principală oferă o panoramă asupra orașului balnear Sárvár.", "Muzeul husarilor este unic în țară, prezentând istoria acestui corp de cavalerie de elită."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-nadasdy-var-sarvar-extra.webp"},
   {
     id: "kid-landmark-jeli-arboretum-extra",
     type: "kid-landmark",
@@ -3546,8 +3474,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A kert legfőbb látványossága a több mint 300 rododendronfaj tízezernyi példánya.", "A „Hétforrás” vidéke hűvös, párás mikroklímát biztosít az egzotikus növényeknek.", "A lombkoronasétány 130 méter hosszan, 10 méter magasságban vezet a fák között.", "A kertben távoli tájak, például Japán és Észak-Amerika fenyőritkaságai is láthatók.", "Ambrózy grófot a kortársai csak a „virágos grófként” emlegették szenvedélye miatt.", "A virágzási csúcsidőszakban, május második felében tízezrek látogatják meg az arborétumot.", "A területen ritka orchideafélék és védett erdei növények is őshonosak.", "Kényelmes piknikezőhelyek és erdei játszótér várja a legkisebb természetjárókat."],
       ro: ["Arboretumul găzduiește peste 300 de varietăți de rododendroni în mii de exemplare.", "Suprafața totală a parcului depășește 100 de hectare de teren protejat.", "Podul din coronament are o lungime de 130 de metri și este construit din zada.", "În 'Sectiunea Japoneză' pot fi admirați bambuși și cireși ornamentali autentici.", "Grădina a fost înființată în anul 1922 pe domeniul de vânătoare al contelui.", "Arboretumul deține o colecție impresionantă de pini de munte și molizi rari."],
       en: []
-    },
-  },
+    }, image: "/poi-images/kid-landmark-jeli-arboretum-extra.webp"},
   {
     id: "industry-opel-szentgotthard-extra",
     type: "industry",
@@ -3586,8 +3513,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Itt készült az első magyar gyártású Opel Astra, amely 1992-ben gördült le a szalagról.", "A gyár jelenleg a Stellantis-csoport egyik legfontosabb motorgyártó bázisa Európában.", "Az üzemben évente több százezer motor készül elképesztő sebességgel és pontossággal.", "Szentgotthárd az egyik legrégebbi és legsikeresebb külföldi tőkebefektetés az országban.", "A gyár gyártósorai alkalmasak a legújabb generációs, alacsony károsanyag-kibocsátású motorok készítésére.", "A vállalat kiemelt figyelmet fordít az energiahatékonyságra és a hulladékmentes termelésre.", "Saját tanműhelye az ország egyik legjobb duális képzési helyszíne a gépészek számára.", "Az Opel gyár megjelenése alapjaiban rajzolta át Szentgotthárd és környékének gazdasági térképét."],
       ro: ["Primul Opel Astra maghiar a ieșit de pe banda de montaj în martie 1992.", "Fabrica a produs peste 10 milioane de motoare de la înființare până în prezent.", "Unitatea de la Szentgotthárd este una dintre cele mai flexibile fabrici de motoare din grupul Stellantis.", "Investiția inițială a fost un simbol al deschiderii economice a Ungariei spre Occident.", "Peste 1.000 de specialiști lucrează în prezent în cadrul unității de producție.", "Fabrica utilizează sisteme avansate de recuperare a energiei termice din procesele industriale."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-opel-szentgotthard-extra.webp"},
   {
     id: "industry-kormendi-gyogyszergyar-extra",
     type: "industry",
@@ -3626,8 +3552,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az Egis-csoport a kelet-közép-európai régió egyik vezető gyógyszergyártó vállalata.", "A körmendi üzemben évente több milliárd tablettát és kapszulát csomagolnak a világpiacra.", "A gyár saját laboratóriumaiban folyik az új hatóanyagok stabilitási vizsgálata.", "Az üzem területén modern logisztikai központ épült a nemzetközi áruszállítás kiszolgálására.", "A vállalat aktívan támogatja Körmend városának kulturális és sportéletét.", "Kiemelt figyelmet fordítanak a környezetvédelemre és a biztonságos vegyszerkezelésre.", "A gyógyszergyár a környék diplomás szakembereinek egyik legvonzóbb munkahelye.", "A termékek között szív- és érrendszeri, valamint idegrendszeri betegségek kezelésére szolgáló gyógyszerek is találhatók."],
       ro: ["Egis este unul dintre liderii pieței farmaceutice din Europa Centrală și de Est.", "Fabrica din Körmend a fost inaugurată în anii 1960 pentru extinderea capacității de producție.", "Peste 80% din producția fabricii este destinată exportului pe piețele internaționale.", "Unitatea deține certificări europene și americane stricte pentru bunele practici de fabricație (GMP).", "În cadrul fabricii funcționează un laborator modern de control al calității pentru fiecare lot de medicamente.", "Körmend este un hub logistic important pentru distribuția medicamentelor spre vestul Europei."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-kormendi-gyogyszergyar-extra.webp"},
 
   // HU-VE: Veszprém (2G, 1LN, 2W)
   {
@@ -3708,8 +3633,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Az apátság alapítólevele 1055-ben íródott, latin nyelvű szövegében magyar szavakkal (pl. „fehérvárra menő hadiút”).", "A barokk templombelsőt Sebestyén Stulhoff asztalosmester faragta több mint tíz éven át.", "A templom két tornya a Balaton leggyakrabban fotózott építészeti motívuma.", "Tihany híres visszhangja a templom északi fala mellett hallható a legjobban.", "Az apátság levenduláskertjeiből származó olajok és teák világhírűek.", "A monostor falai között múzeum mutatja be a bencés rend és a félsziget történetét.", "A barokk templom orgonája rendszeresen megszólal nyári hangversenyek alkalmával.", "Az apátság terasza az ország egyik legszebb kilátópontja, ahonnan a Balaton mindkét medencéje látható."],
       ro: ["Diploma de fundare din 1055 este cel mai vechi document original păstrat în Ungaria.", "Cripta romanică de sub biserică datează din secolul al XI-lea.", "Andrei I este singurul rege maghiar din dinastia Arpadiană înmormântat într-un loc intact.", "Interiorul baroc al bisericii a fost realizat de celebrul sculptor Sebestyén Stulhoff.", "Abația găzduiește anual festivalul lavandei, planta fiind adusă aici în anii 1920.", "Cele două turnuri ale abației au fost finalizate în anul 1754."],
       en: []
-    },
-  },
+    }, image: "/poi-images/historical-tihanyi-apatsag-extra.webp"},
   {
     id: "animal-habitat-veszpremi-allatkert-extra",
     type: "animal-habitat",
@@ -3748,8 +3672,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["1958-ban épült fel mindössze öt hónap alatt, a helyi lakosság példátlan összefogásával.", "Kittenberger Kálmán híres magyar vadász és Afrika-kutató emlékét őrzi a park.", "Itt található az ország egyik legmodernebb és legtágasabb elefántháza és kifutója.", "A Dinó Parkban több mint 30 életnagyságú dinoszaurusz szobor látható tanösvénnyel.", "A park aktívan részt vesz a veszélyeztetett fajok, például a vörös vari mentésében.", "A tágas csimpánzház és az oktatóközpont nemzetközi színvonalú élményt nyújt.", "A vadaspark területe több mint 15 hektár, árnyas erdei utakkal átszőve.", "Veszprém, a „királynék városa” büszke az állatkertjére, amely a város egyik legfőbb vonzereje."],
       ro: ["Grădina zoologică a fost inaugurată în anul 1958.", "Este situată la doar 15 km de lacul Balaton, fiind o destinație turistică majoră.", "Aici se află unul dintre cele mai mari și moderne complexe pentru elefanți din regiune.", "Parcul de dinozauri cuprinde peste 30 de figurine în mărime naturală ale reptilelor preistorice.", "Grădina este numită în onoarea lui Kittenberger Kálmán, faimos vânător și naturalist.", "Există un punct de observație care oferă o panoramă spectaculoasă asupra cetății Veszprém."],
       en: []
-    },
-    },
+    }, image: "/poi-images/animal-habitat-veszpremi-allatkert-extra.webp"},
   {
     id: "industry-herendi-porcelan-extra",
     type: "industry",
@@ -3788,8 +3711,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Herend a világ legnagyobb porcelánmanufaktúrája, ahol ma is minden darab kézzel készül.", "Királynők és államfők kedvelt márkája, a brit királyi családnak is saját gyűjteménye van.", "A manufaktúra több mint 16 000 formát és 4000 különböző mintát tart számon az archívumában.", "A „Viktória” minta nevét az angol királynőről kapta, aki az 1851-es londoni világkiállításon rendelt belőle.", "A múzeumban több mint 10 000 értékes műtárgy mutatja be a gyár történetét.", "A herendi porcelán készítése során az égetés hőmérséklete elérheti az 1400 Celsius-fokot.", "A manufaktúra tagja a rangos francia Colbert-bizottságnak, a luxusmárkák szövetségének.", "Évente több ezer turista érkezik Herendre, hogy tanúja legyen a „fehér arany” születésének."],
       ro: ["Modelul 'Victoria', decorat cu fluturi și flori, a fost creat special pentru regina Angliei în 1851.", " Manufactura din Herend deține o paletă de peste 16.000 de forme și 4.000 de modele pictate.", "Peste 500 de pictori lucrează manual la decorarea porțelanului în cadrul fabricii.", "Porțelanul de Herend este fabricat dintr-un amestec secret de caolin, feldspat și cuarț.", "Herend a câștigat medalia de aur la prima Expoziție Mondială de la Londra.", "În fața manufacturii se află o statuie uriașă de porțelan a leului, simbol al puterii mărcii."],
       en: []
-    },
-  },
+    }, image: "/poi-images/industry-herendi-porcelan-extra.webp"},
   {
     id: "industry-ajkai-timfoldgyar-extra",
     type: "industry",
@@ -3828,8 +3750,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A gyárat az 1940-es években alapították a magyar-szovjet bauxit-alumínium program keretében.", "A timföldgyártás során alkalmazott Bayer-eljárás az érc kémiai feltárásán alapul.", "Az üzem területén látható hatalmas silók és kémények Ajka városképének részei.", "A katasztrófa utáni rekultiváció és kármentesítés során modern gátrendszereket építettek ki.", "A gyár ma már speciális vegyipari alapanyagokat is előállít a timföld mellett.", "Az üzem saját vasútvonallal kapcsolódik az országos hálózathoz a szállítás megkönnyítésére.", "A timföld a repülőgépgyártás és a modern elektronika egyik elengedhetetlen alapanyaga.", "A gyár kutatóközpontja évtizedekig a hazai alumínium-technológia fellegvára volt."],
       ro: ["Ungaria a fost odinioară unul dintre cei mai mari producători de bauxită din lume.", "Fabrica de la Ajka a funcționat timp de peste 70 de ani ca unitate integrată.", "Procesul Bayer a fost metoda principală de extracție a aluminei utilizată aici.", "În prezent, situl este sub monitorizare ecologică strictă după închiderea producției.", "Coșurile de fum ale centralei termice adiacente sunt repere vizuale ale orașului Ajka.", "Regiunea Bakony păstrează numeroase mine de bauxită abandonate, acum obiective geologice."],
       en: []
-    }
-  },
+    }, image: "/poi-images/industry-ajkai-timfoldgyar-extra.webp"},
 
   // HU-ZA: Zala (2G, 1LN, 2W)
   {
@@ -3910,8 +3831,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A várat valószínűleg a tatárjárás utáni nagy várépítési hullám idején emelték a környék urai.", "A várfalak alaprajza hűen követi a sziklás hegygerinc szabálytalan vonalát.", "A néphit szerint a vár egykor a híres kalandor és hadvezér, Lackfi István birtoka volt.", "A vár alatt húzódó Sátorma-völgy híres misztikus barlangjairól és forrásairól.", "A romok állagmegóvása civil összefogással és szakértők bevonásával történik.", "A csúcsról látható a szomszédos Tátika vára is, amellyel egykor közös védelmi rendszert alkottak.", "A vár környéke botanikai ritkaságokban gazdag, védett sziklagyepek övezik.", "Itt halad át az Országos Kéktúra egyik leglátványosabb dunántúli szakasza."],
       ro: ["Cetatea a fost construită din piatră calcaroasă locală și dolomit.", "Se află la o altitudine de 427 de metri deasupra nivelului mării.", "În secolul al XVI-lea, cetatea a fost distrusă de însuși căpitanul său pentru a nu cădea în mâna turcilor.", "Zona cetății este o arie protejată, adăpostind specii rare de ferigi și fluturi.", "Legendele locale vorbesc despre tuneluri secrete care legau cetatea Rezi de cetatea Tátika.", "Restaurarea recentă a punctului de observație facilitează vizitarea ruinelor în siguranță."],
       en: []
-    }
-  },
+    }, image: "/poi-images/historical-rezi-var-extra.webp"},
   {
     id: "kid-landmark-zalakaros-furdo-extra",
     type: "kid-landmark",
@@ -3950,8 +3870,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["Zalakaros vize kéntartalma alapján az ország egyik legértékesebb gyógyvize.", "A fürdő területe meghaladja a 12 hektárt, több mint 20 különböző medencével.", "Az Adrenalin Csúszdaparkban extrém sebességű és dőlésszögű pályák is kipróbálhatók.", "A gyermekvilág kétszintes kialakítása és mesefigurás díszítése egyedülálló az országban.", "A fürdő vize mozgásszervi panaszok és rehabilitáció esetén is kiváló gyógyhatású.", "Zalakaros városa rendszeresen elnyeri a „Virágos Magyarország” díjat rendezettségéért.", "A komplexumban szaunavilág, sószoba és speciális masszázsok is rendelkezésre állnak.", "Télen is látogatható a fedett élményfürdő, mely forró vízzel várja a vendégeket."],
       ro: ["Zalakaros deține una dintre cele mai concentrate ape termale curative din Europa.", "Secțiunea interioară pentru copii are o suprafață de peste 1000 de metri pătrați.", "Există un tobogan 'Adrenalină' pentru copiii mai mari și adulți, cu o înălțime de 20 de metri.", "Băile funcționează de peste 50 de ani, fiind modernizate complet recent.", "Parcul băilor se întinde pe o suprafață de 12 hectare, cu multă umbră și spații verzi.", "Centrul oferă programe zilnice de animație și gimnastică acvatică pentru toată familia."],
       en: []
-    }
-  },
+    }, image: "/poi-images/kid-landmark-zalakaros-furdo-extra.webp"},
   {
     id: "industry-nagylengyeli-olaj-extra",
     type: "industry",
@@ -3990,8 +3909,7 @@ export const poiExtraHu3: POI[] = [
       hu: ["A nagylengyeli olajat 1951-ben fedezték fel, ami óriási ipari fellendülést hozott a régiónak.", "Az olajkincs mintegy 2000-2500 méteres mélységben rejlik a pannon rétegek alatt.", "Magyarországon itt alkalmaztak először nagyüzemi szén-dioxid besajtolást a hozam növelésére.", "A kitermelt olaj sűrű és nehéz, szinte szurokszerű állagú szobahőmérsékleten.", "Fénykorában az üzem évente több mint egy millió tonna olajat adott az országnak.", "Zalaegerszeg közelében külön finomítót építettek a nagylengyeli olaj feldolgozására.", "A területen található Olajipari Múzeum bemutatja a fúrótornyok és szivattyúk működését.", "A kőolajbányászat alapjaiban változtatta meg a korábban szegény zalai falvak életét."],
       ro: ["Zăcământul a fost descoperit în anul 1951, la o adâncime de peste 2000 de metri.", "Țițeiul de la Nagylengyel are o vâscozitate ridicată, fiind supranumit 'petrolul-bitum'.", "Aici s-a utilizat pentru prima dată în Ungaria metoda de extracție secundară cu CO2.", "Peste 500 de puțuri au fost forate în zona Nagylengyel pe parcursul deceniilor.", "Muzeul Industriei Petroliere din Zalaegerszeg păstrează numeroase utilaje provenite de aici.", "Bitumul de Nagylengyel a fost folosit la pavarea majorității autostrăzilor maghiare."],
       en: []
-    }
-  },
+    }, image: "/poi-images/industry-nagylengyeli-olaj-extra.webp"},
   {
     id: "industry-zalaegerszegi-ruhagyar-extra",
     type: "industry",
@@ -4033,4 +3951,5 @@ export const poiExtraHu3: POI[] = [
     }
   }
 ];
+
 

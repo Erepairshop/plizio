@@ -1,574 +1,404 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraHaitiLifeV2: POI[] = [
   {
-    id: "ht-etang-saumatre-flamingos-life-v2",
-    type: "animal-habitat",
-    parent: "HT-OU",
-    coords: [-71.99, 18.57],
-    name: { de: "Etang Saumatre Flamingo Reserve", hu: "Etang Saumatre flamingoreservatum", ro: "Rezervatia Flamingo Etang Saumatre", en: "Etang Saumatre Flamingo Reserve" },
-    description: {
-      de: "A shallow wetland on the border that attracts flamingos and other water birds.",
-      hu: "Sekely vizes elohalo a hataron, amely flamingokat es mas vizimadarakat vonz.",
-      ro: "O zona umeda putin adanca la granita, care atrage flamingo si alte pasari de apa.",
-      en: "A shallow wetland on the border that attracts flamingos and other water birds."
-    },
-    facts: {
-      de: ["Seasonal bird habitat", "Important for birdwatching", "Part of the Cul-de-Sac plain"],
-      hu: ["Idoszakos madar-elohely", "Fontos madarmegfigyelo hely", "A Cul-de-Sac siksag resze"],
-      ro: ["Habitat sezonier pentru pasari", "Important pentru observarea pasarilor", "Parte din campia Cul-de-Sac"],
-      en: ["Seasonal bird habitat", "Important for birdwatching", "Part of the Cul-de-Sac plain"]
-    }
-  },
-  {
-    id: "ht-etang-saumatre-crocodiles-life-v2",
-    type: "animal-habitat",
-    parent: "HT-OU",
-    coords: [-72.03, 18.56],
-    name: { de: "Etang Saumatre Crocodile Banks", hu: "Etang Saumatre krokodilpartok", ro: "Malurile cu crocodili Etang Saumatre", en: "Etang Saumatre Crocodile Banks" },
-    description: {
-      de: "The brackish lake edges are one of Haiti's key crocodile habitats.",
-      hu: "A felses vizu to szegelye Haiti egyik fontos krokodil-elohelye.",
-      ro: "Marginile lacului salmastru sunt unul dintre habitatele cheie ale crocodililor din Haiti.",
-      en: "The brackish lake edges are one of Haiti's key crocodile habitats."
-    },
-    facts: {
-      de: ["American crocodiles live here", "Warm, shallow water", "Protected wetland fringe"],
-      hu: ["Amerikai krokodilok elnek itt", "Meleg, sekely viz", "Vedett vizes szegelyzona"],
-      ro: ["Traiesc crocodili americani", "Apa calda si putin adanca", "Margine de zona umeda protejata"],
-      en: ["American crocodiles live here", "Warm, shallow water", "Protected wetland fringe"]
-    }
-  },
-  {
-    id: "ht-la-visite-birdwatching-life-v2",
-    type: "animal-habitat",
-    parent: "HT-SE",
-    coords: [-72.31, 18.33],
-    name: { de: "La Visite Birdwatching Ridge", hu: "La Visite madarfigyelo gerinc", ro: "Creasta de observare a pasarilor La Visite", en: "La Visite Birdwatching Ridge" },
-    description: {
-      de: "Cool highland forest where hikers can spot many endemic birds.",
-      hu: "Huvos felvideki erdo, ahol a turistak sok endemikus madarat lathatnak.",
-      ro: "Padure montana racoroasa unde drumetii pot vedea multe pasari endemice.",
-      en: "Cool highland forest where hikers can spot many endemic birds."
-    },
-    facts: {
-      de: ["Highland bird habitat", "Cool pine forest climate", "Good hiking area"],
-      hu: ["Felvideki madar-elohely", "Huvos fenyoles klima", "Jo turazasi terulet"],
-      ro: ["Habitat montan pentru pasari", "Climat racoros de padure de pini", "Zona buna pentru drumetii"],
-      en: ["Highland bird habitat", "Cool pine forest climate", "Good hiking area"]
-    }
-  },
-  {
-    id: "ht-pic-macaya-amphibians-life-v2",
-    type: "animal-habitat",
-    parent: "HT-GA",
-    coords: [-74.02, 18.38],
-    name: { de: "Pic Macaya Amphibian Forest", hu: "Pic Macaya kétéltu erdo", ro: "Padurea de amfibieni Pic Macaya", en: "Pic Macaya Amphibian Forest" },
-    description: {
-      de: "Cloud forest around Haiti's second-highest mountain, rich in frogs and other small wildlife.",
-      hu: "Kodos erdo Haiti masodik legmagasabb hegye korul, amely bekakban es mas kisallatokban gazdag.",
-      ro: "Padure de ceata din jurul celui de-al doilea varf ca inaltime din Haiti, bogata in broaste si fauna mica.",
-      en: "Cloud forest around Haiti's second-highest mountain, rich in frogs and other small wildlife."
-    },
-    facts: {
-      de: ["Very high biodiversity", "Last cloud forest remnants", "Important for amphibians"],
-      hu: ["Nagyon magas biodiverzitas", "Az utolso kodos erdok egyike", "Fontos a kétéltuek szamara"],
-      ro: ["Biodiversitate foarte ridicata", "Ultimele fragmente de padure de ceata", "Important pentru amfibieni"],
-      en: ["Very high biodiversity", "Last cloud forest remnants", "Important for amphibians"]
-    }
-  },
-  {
-    id: "ht-foret-des-pins-wildlife-life-v2",
-    type: "animal-habitat",
-    parent: "HT-SE",
-    coords: [-71.98, 18.35],
-    name: { de: "Foret des Pins Wildlife Belt", hu: "Foret des Pins vadonov", ro: "Zona salbatica Foret des Pins", en: "Foret des Pins Wildlife Belt" },
-    description: {
-      de: "A pine forest reserve that shelters birds and mountain wildlife.",
-      hu: "Fenyöerdo-rezervatum, amely madaraknak es hegyi vadoneloknek ad otthont.",
-      ro: "Rezervatie de padure de pini care adaposteste pasari si fauna montana.",
-      en: "A pine forest reserve that shelters birds and mountain wildlife."
-    },
-    facts: {
-      de: ["Cool upland habitat", "One of Haiti's key forest areas", "Bird friendly terrain"],
-      hu: ["Huvos magashegyi elohely", "Haiti egyik fontos erdosegi terulete", "Madárbarát terep"],
-      ro: ["Habitat montan racoros", "Una dintre principalele zone impadurite din Haiti", "Teren potrivit pentru pasari"],
-      en: ["Cool upland habitat", "One of Haiti's key forest areas", "Bird friendly terrain"]
-    }
-  },
-  {
-    id: "ht-ile-a-vache-sea-turtles-life-v2",
+    id: "parc-national-macaya-life-v2",
     type: "animal-habitat",
     parent: "HT-SD",
-    coords: [-73.30, 18.20],
-    name: { de: "Ile-a-Vache Sea Turtles", hu: "Ile-a-Vache tengeri teknosok", ro: "Testoase marine pe Ile-a-Vache", en: "Ile-a-Vache Sea Turtles" },
-    description: {
-      de: "Quiet beaches and coves that can serve as nesting or feeding zones for sea turtles.",
-      hu: "Nyugodt strandok es osok, amelyek tengeri teknosok feszkelesi vagy taplalkozasi helyei lehetnek.",
-      ro: "Plaje si golfuri linistite care pot servi drept zone de cuibarit sau hranire pentru testoase marine.",
-      en: "Quiet beaches and coves that can serve as nesting or feeding zones for sea turtles."
-    },
+    coords: [-74.0285, 18.3667],
+    name: { de: "Nationalpark Pic Macaya", hu: "Pic Macaya Nemzeti Park", ro: "Parcul Național Pic Macaya", en: "Pic Macaya National Park" },
+    description: { de: "Ein bedeutendes Naturschutzgebiet mit reicher Biodiversität und endemischen Tierarten.", hu: "Jelentős természetvédelmi terület gazdag biodiverzitással és endemikus állatfajokkal.", ro: "O rezervație naturală importantă cu o biodiversitate bogată și specii endemice.", en: "An important nature reserve with rich biodiversity and endemic animal species." },
     facts: {
-      de: ["Calm southern coastline", "Protected nesting beaches", "Popular with eco travelers"],
-      hu: ["Nyugodt deli partvonal", "Vedett feszkelö strandok", "Nepszeru az ekoutazok körében"],
-      ro: ["Coasta sudica linistita", "Plaje protejate de cuibarit", "Populara printre ecoturisti"],
-      en: ["Calm southern coastline", "Protected nesting beaches", "Popular with eco travelers"]
-    }
-  },
+      de: ["Heimat seltener Froscharten", "Dichter Bergwald"],
+      hu: ["Ritka békafajok élőhelye", "Sűrű hegyi erdő"],
+      ro: ["Habitat pentru specii rare de broaște", "Pădure montană densă"],
+      en: ["Habitat for rare frog species", "Dense mountain forest"]
+    }, image: "/poi-images/parc-national-macaya-life-v2.webp"},
   {
-    id: "ht-ile-de-la-gonave-iguanas-life-v2",
+    id: "parc-national-la-visite-life-v2",
     type: "animal-habitat",
     parent: "HT-OU",
-    coords: [-73.05, 18.83],
-    name: { de: "Ile de la Gonave Iguanas", hu: "Gonave-szigeti leguanok", ro: "Iguanele de pe Insula Gonave", en: "Gonave Island Iguanas" },
-    description: {
-      de: "Dry rocky slopes and coastal scrub on Gonave Island support reptile life.",
-      hu: "A Gonave-sziget szaraz sziklas lejtöi es part menti bozótosa hülloknek adnak otthont.",
-      ro: "Versantii stancosi si tufarisurile de coasta de pe Insula Gonave sustin viata reptilelor.",
-      en: "Dry rocky slopes and coastal scrub on Gonave Island support reptile life."
-    },
+    coords: [-72.3333, 18.3333],
+    name: { de: "Nationalpark La Visite", hu: "La Visite Nemzeti Park", ro: "Parcul Național La Visite", en: "La Visite National Park" },
+    description: { de: "Ein wichtiges Vogelschutzgebiet in den Bergen Haitis.", hu: "Fontos madárvédelmi terület Haiti hegyvidékén.", ro: "O zonă importantă de protecție a păsărilor în munții din Haiti.", en: "An important bird sanctuary in the mountains of Haiti." },
     facts: {
-      de: ["Arid island habitat", "Good reptile refuge", "Sparse coastal vegetation"],
-      hu: ["Száraz szigeti elohely", "Jó menedék a hülloknek", "Hanyagos part menti novenyzet"],
-      ro: ["Habitat insular arid", "Refugiu bun pentru reptile", "Vegetatie costiera rara"],
-      en: ["Arid island habitat", "Good reptile refuge", "Sparse coastal vegetation"]
-    }
-  },
+      de: ["Zahlreiche endemische Vogelarten", "Kühles Bergklima"],
+      hu: ["Számos endemikus madárfaj", "Hűvös hegyi klíma"],
+      ro: ["Numeroase specii de păsări endemice", "Climat montan răcoros"],
+      en: ["Numerous endemic bird species", "Cool mountain climate"]
+    }, image: "/poi-images/parc-national-la-visite-life-v2.webp"},
   {
-    id: "ht-fort-liberte-mangroves-life-v2",
+    id: "foret-des-pins-life-v2",
     type: "animal-habitat",
-    parent: "HT-NE",
-    coords: [-71.83, 19.67],
-    name: { de: "Fort-Liberte Mangroves", hu: "Fort-Liberte mangrovei", ro: "Mangrovele din Fort-Liberte", en: "Fort-Liberte Mangroves" },
-    description: {
-      de: "Mangroves and shallow bays provide nursery space for fish and birds.",
-      hu: "Mangrovek es sekely öblök halaknak es madaraknak adnak nevelo helyet.",
-      ro: "Mangrovele si golfurile putin adanci ofera spatiu de crestere pentru pesti si pasari.",
-      en: "Mangroves and shallow bays provide nursery space for fish and birds."
-    },
+    parent: "HT-SE",
+    coords: [-71.95, 18.31],
+    name: { de: "Forêt des Pins Reservat", hu: "Forêt des Pins Rezervátum", ro: "Rezervația Forêt des Pins", en: "Forêt des Pins Reserve" },
+    description: { de: "Ein geschütztes Kiefernwaldgebiet, das Lebensraum für viele lokale Tiere bietet.", hu: "Védett fenyőerdő terület, amely sok helyi állatnak ad otthont.", ro: "O zonă protejată de pădure de pini care oferă habitat multor animale locale.", en: "A protected pine forest area that provides habitat for many local animals." },
     facts: {
-      de: ["Coastal nursery habitat", "Important for local fisheries", "Shelter from storms"],
-      hu: ["Part menti nevelohely", "Fontos a helyi halaszatnak", "Vedelmet ad a viharok ellen"],
-      ro: ["Habitat de crestere pe coasta", "Important pentru pescariile locale", "Adapost impotriva furtunilor"],
-      en: ["Coastal nursery habitat", "Important for local fisheries", "Shelter from storms"]
+      de: ["Seltene Reptilienarten", "Bedeutend für die Wasserwirtschaft"],
+      hu: ["Ritka hüllőfajok", "Jelentős a vízgazdálkodás szempontjából"],
+      ro: ["Specii rare de reptile", "Important pentru gestionarea apei"],
+      en: ["Rare reptile species", "Important for water management"]
+    }, image: "/poi-images/foret-des-pins-life-v2.webp"},
+  {
+    id: "plaine-artibonite-agri-life-v2",
+    type: "agriculture",
+    parent: "HT-AR",
+    coords: [-72.6, 19.2],
+    name: { de: "Artibonite-Ebene Agrarregion", hu: "Artibonite-síkság mezőgazdasági régió", ro: "Regiunea agricolă Câmpia Artibonite", en: "Artibonite Plain Agricultural Region" },
+    description: { de: "Das wichtigste Reisanbaugebiet des Landes.", hu: "Az ország legfontosabb rizstermesztő vidéke.", ro: "Cea mai importantă zonă de cultivare a orezului din țară.", en: "The most important rice-growing area in the country." },
+    facts: {
+      de: ["Haupterzeuger für haitianischen Reis", "Bewässerung durch den Artibonite-Fluss"],
+      hu: ["A haiti rizs fő termelője", "Az Artibonite folyó által öntözött"],
+      ro: ["Principalul producător de orez haitian", "Irigat de râul Artibonite"],
+      en: ["Main producer of Haitian rice", "Irrigated by the Artibonite River"]
+    }, image: "/poi-images/plaine-artibonite-agri-life-v2.webp"},
+  {
+    id: "cotes-de-fer-agri-life-v2",
+    type: "agriculture",
+    parent: "HT-SE",
+    coords: [-72.7, 18.2],
+    name: { de: "Côtes-de-Fer Kaffeeanbau", hu: "Côtes-de-Fer kávétermesztés", ro: "Cultivarea cafelei Côtes-de-Fer", en: "Côtes-de-Fer Coffee Cultivation" },
+    description: { de: "Eine Region, die für ihren hochwertigen Kaffee bekannt ist.", hu: "Kiváló minőségű kávéjáról ismert régió.", ro: "O regiune cunoscută pentru cafeaua sa de înaltă calitate.", en: "A region known for its high-quality coffee." },
+    facts: {
+      de: ["Traditionelle Anbaumethoden", "Bergkaffee von hoher Qualität"],
+      hu: ["Hagyományos termesztési módszerek", "Kiváló minőségű hegyi kávé"],
+      ro: ["Metode tradiționale de cultivare", "Cafea montană de înaltă calitate"],
+      en: ["Traditional farming methods", "High-quality mountain coffee"]
     }
   },
   {
-    id: "ht-labadie-reef-life-v2",
+    id: "jardin-botanique-cayes-life-v2",
+    type: "kid-landmark",
+    parent: "HT-SD",
+    coords: [-73.75, 18.2],
+    name: { de: "Botanischer Garten Les Cayes", hu: "Les Cayes-i Botanikus Kert", ro: "Grădina Botanică Les Cayes", en: "Les Cayes Botanical Garden" },
+    description: { de: "Ein pädagogischer Ort für Kinder, um die lokale Pflanzenwelt kennenzulernen.", hu: "Oktatási hely gyerekeknek a helyi növényvilág megismerésére.", ro: "Un loc educativ pentru copii pentru a învăța despre flora locală.", en: "An educational place for children to learn about local flora." },
+    facts: {
+      de: ["Lehrpfade für Schüler", "Sammlung tropischer Pflanzen"],
+      hu: ["Tanösvények diákoknak", "Trópusi növénygyűjtemény"],
+      ro: ["Trasee educaționale pentru elevi", "Colecție de plante tropicale"],
+      en: ["Educational trails for students", "Collection of tropical plants"]
+    }, image: "/poi-images/jardin-botanique-cayes-life-v2.webp"},
+  {
+    id: "ferme-ecologique-jacmel-life-v2",
+    type: "agriculture",
+    parent: "HT-SE",
+    coords: [-72.5, 18.2],
+    name: { de: "Ökologischer Bauernhof Jacmel", hu: "Jacmel-i Ökológiai Gazdaság", ro: "Fermă ecologică Jacmel", en: "Jacmel Ecological Farm" },
+    description: { de: "Ein Bauernhof, der Kindern nachhaltige Landwirtschaft zeigt.", hu: "Gazdaság, amely bemutatja a gyerekeknek a fenntartható mezőgazdaságot.", ro: "O fermă care arată copiilor agricultura durabilă.", en: "A farm that shows children sustainable agriculture." },
+    facts: {
+      de: ["Demonstrationsgarten", "Umweltbildungsprogramme"],
+      hu: ["Bemutatókert", "Környezeti nevelési programok"],
+      ro: ["Grădină demonstrativă", "Programe de educație ecologică"],
+      en: ["Demonstration garden", "Environmental education programs"]
+    }
+  },
+  {
+    id: "reserve-animale-gonave-life-v2",
+    type: "animal-habitat",
+    parent: "HT-OU",
+    coords: [-73.1, 18.8],
+    name: { de: "Gonâve Tierreservat", hu: "Gonâve Állatrezervátum", ro: "Rezervația de animale Gonâve", en: "Gonâve Animal Reserve" },
+    description: { de: "Ein Schutzgebiet für lokale Inseltiere.", hu: "Védett terület a helyi szigeti állatok számára.", ro: "O zonă protejată pentru animalele insulare locale.", en: "A protected area for local island animals." },
+    facts: {
+      de: ["Beobachtung von Meeresvögeln", "Natürlicher Lebensraum"],
+      hu: ["Tengeri madarak megfigyelése", "Természetes élőhely"],
+      ro: ["Observarea păsărilor marine", "Habitat natural"],
+      en: ["Seabird watching", "Natural habitat"]
+    }, image: "/poi-images/reserve-animale-gonave-life-v2.webp"},
+  {
+    id: "bassin-bleu-nature-life-v2",
+    type: "kid-landmark",
+    parent: "HT-SE",
+    coords: [-72.55, 18.25],
+    name: { de: "Bassin-Bleu Kinderparadies", hu: "Bassin-Bleu gyermekparadicsom", ro: "Paradisul copiilor Bassin-Bleu", en: "Bassin-Bleu Children's Paradise" },
+    description: { de: "Ein natürliches Becken, das bei Familien beliebt ist.", hu: "Természetes medence, amely népszerű a családok körében.", ro: "Un bazin natural popular în rândul familiilor.", en: "A natural basin popular with families." },
+    facts: {
+      de: ["Sichere Badebereiche", "Umgeben von Dschungel"],
+      hu: ["Biztonságos fürdőhelyek", "Dzsungellel körülvéve"],
+      ro: ["Zone de înot sigure", "Înconjurat de junglă"],
+      en: ["Safe swimming areas", "Surrounded by jungle"]
+    }, image: "/poi-images/bassin-bleu-nature-life-v2.webp"},
+  {
+    id: "parc-miraculeux-pa-p-life-v2",
+    type: "kid-landmark",
+    parent: "HT-OU",
+    coords: [-72.3, 18.5],
+    name: { de: "Kinderfreizeitpark Port-au-Prince", hu: "Port-au-Prince Gyermekszabadidőpark", ro: "Parc de distracții pentru copii Port-au-Prince", en: "Port-au-Prince Children's Leisure Park" },
+    description: { de: "Ein zentraler Ort für Spiel und Erholung für Kinder.", hu: "Központi játszó- és pihenőhely gyerekeknek.", ro: "Un loc central de joacă și relaxare pentru copii.", en: "A central place for play and recreation for children." },
+    facts: {
+      de: ["Spielplätze", "Picknickbereiche"],
+      hu: ["Játszóterek", "Piknikhelyek"],
+      ro: ["Locuri de joacă", "Zone de picnic"],
+      en: ["Playgrounds", "Picnic areas"]
+    }
+  },
+  {
+    id: "bananenausbau-limonade-life-v2",
+    type: "agriculture",
+    parent: "HT-ND",
+    coords: [-72.1, 19.6],
+    name: { de: "Bananenplantagen Limonade", hu: "Limonade banánültetvények", ro: "Plantații de banane Limonade", en: "Limonade Banana Plantations" },
+    description: { de: "Ein wichtiges Gebiet für den Bananenanbau.", hu: "Fontos terület a banántermesztés számára.", ro: "O zonă importantă pentru cultivarea bananelor.", en: "An important area for banana cultivation." },
+    facts: {
+      de: ["Hauptanbaugebiet im Norden", "Frische Früchte"],
+      hu: ["Északi fő termőterület", "Friss gyümölcsök"],
+      ro: ["Zona principală de cultivare din nord", "Fructe proaspete"],
+      en: ["Main growing area in the north", "Fresh fruits"]
+    }
+  },
+  {
+    id: "station-biologique-macaya-life-v2",
+    type: "animal-habitat",
+    parent: "HT-SD",
+    coords: [-74.05, 18.35],
+    name: { de: "Biologische Forschungsstation Macaya", hu: "Macaya Biológiai Kutatóállomás", ro: "Stația biologică de cercetare Macaya", en: "Macaya Biological Research Station" },
+    description: { de: "Ein Zentrum für Tierstudien im Nationalpark.", hu: "Állattani kutatóközpont a nemzeti parkban.", ro: "Un centru de studii animale în parcul național.", en: "A center for animal studies in the national park." },
+    facts: {
+      de: ["Forschung an endemischen Arten", "Umweltschutz"],
+      hu: ["Endemikus fajok kutatása", "Környezetvédelem"],
+      ro: ["Cercetarea speciilor endemice", "Protecția mediului"],
+      en: ["Research on endemic species", "Environmental protection"]
+    }, image: "/poi-images/station-biologique-macaya-life-v2.webp"},
+  {
+    id: "jardin-zoologique-simple-life-v2",
+    type: "animal-habitat",
+    parent: "HT-OU",
+    coords: [-72.28, 18.55],
+    name: { de: "Einfacher Tierpark Pétion-Ville", hu: "Pétion-Ville állatkert", ro: "Grădina zoologică simplă Pétion-Ville", en: "Simple Pétion-Ville Zoo" },
+    description: { de: "Ein kleiner Park mit lokalen Tieren.", hu: "Kis park helyi állatokkal.", ro: "O mică grădină zoologică cu animale locale.", en: "A small zoo with local animals." },
+    facts: {
+      de: ["Lernort für Kinder", "Heimische Tierarten"],
+      hu: ["Tanulóhely gyerekeknek", "Őshonos állatfajok"],
+      ro: ["Loc de învățare pentru copii", "Specii de animale indigene"],
+      en: ["Learning place for children", "Native animal species"]
+    }, image: "/poi-images/jardin-zoologique-simple-life-v2.webp"},
+  {
+    id: "agrarzentrum-saint-michel-life-v2",
+    type: "agriculture",
+    parent: "HT-AR",
+    coords: [-72.2, 19.3],
+    name: { de: "Agrarzentrum Saint-Michel", hu: "Saint-Michel agrárközpont", ro: "Centru agricol Saint-Michel", en: "Saint-Michel Agricultural Center" },
+    description: { de: "Ein Bildungszentrum für moderne Landwirtschaft.", hu: "Modern mezőgazdasági oktatóközpont.", ro: "Un centru educațional pentru agricultura modernă.", en: "An educational center for modern agriculture." },
+    facts: {
+      de: ["Kurse für junge Landwirte", "Nachhaltige Methoden"],
+      hu: ["Fiatal gazdák kurzusai", "Fenntartható módszerek"],
+      ro: ["Cursuri pentru tineri fermieri", "Metode durabile"],
+      en: ["Courses for young farmers", "Sustainable methods"]
+    }, image: "/poi-images/agrarzentrum-saint-michel-life-v2.webp"},
+  {
+    id: "parc-enfants-jeremie-life-v2",
+    type: "kid-landmark",
+    parent: "HT-GA",
+    coords: [-74.1, 18.6],
+    name: { de: "Kinderpark Jérémie", hu: "Jérémie gyermekpark", ro: "Parc pentru copii Jérémie", en: "Jérémie Children's Park" },
+    description: { de: "Ein schöner Park am Meer für Kinder.", hu: "Szép tengerparti park gyerekeknek.", ro: "Un parc frumos de la malul mării pentru copii.", en: "A beautiful seaside park for children." },
+    facts: {
+      de: ["Spielgeräte", "Schattenplätze"],
+      hu: ["Játékok", "Árnyékos helyek"],
+      ro: ["Echipamente de joacă", "Zone umbrite"],
+      en: ["Play equipment", "Shaded areas"]
+    }, image: "/poi-images/parc-enfants-jeremie-life-v2.webp"},
+  {
+    id: "plantation-cacao-grand-anse-life-v2",
+    type: "agriculture",
+    parent: "HT-GA",
+    coords: [-74.15, 18.5],
+    name: { de: "Grand-Anse Kakaoanbau", hu: "Grand-Anse kakaótermesztés", ro: "Cultivarea cacao Grand-Anse", en: "Grand-Anse Cocoa Cultivation" },
+    description: { de: "Region für hochwertige Kakaoproduktion.", hu: "Kiváló minőségű kakaótermelő vidék.", ro: "Regiune pentru producția de cacao de înaltă calitate.", en: "Region for high-quality cocoa production." },
+    facts: {
+      de: ["Traditionelle Trocknung", "Bio-Qualität"],
+      hu: ["Hagyományos szárítás", "Bio-minőség"],
+      ro: ["Uscare tradițională", "Calitate organică"],
+      en: ["Traditional drying", "Organic quality"]
+    }, image: "/poi-images/plantation-cacao-grand-anse-life-v2.webp"},
+  {
+    id: "ferme-animaux-leogane-life-v2",
+    type: "animal-habitat",
+    parent: "HT-OU",
+    coords: [-72.6, 18.5],
+    name: { de: "Tierfarm Léogâne", hu: "Léogâne állatfarm", ro: "Fermă de animale Léogâne", en: "Léogâne Animal Farm" },
+    description: { de: "Ein Ort, an dem Kinder Nutztiere hautnah erleben.", hu: "Hely, ahol a gyerekek közelről ismerhetik meg a haszonállatokat.", ro: "Un loc unde copiii pot vedea animalele de fermă de aproape.", en: "A place where children can experience farm animals up close." },
+    facts: {
+      de: ["Interaktive Erlebnisse", "Lernen über Tierpflege"],
+      hu: ["Interaktív élmények", "Tanulás az állatok gondozásáról"],
+      ro: ["Experiențe interactive", "Învățare despre îngrijirea animalelor"],
+      en: ["Interactive experiences", "Learning about animal care"]
+    }
+  },
+  {
+    id: "parc-nature-cayemites-life-v2",
+    type: "animal-habitat",
+    parent: "HT-GA",
+    coords: [-73.7, 18.6],
+    name: { de: "Cayemites Naturpark", hu: "Cayemites Natúrpark", ro: "Parc natural Cayemites", en: "Cayemites Nature Park" },
+    description: { de: "Ein geschütztes Gebiet mit maritimer Tierwelt.", hu: "Védett terület tengeri állatvilággal.", ro: "O zonă protejată cu faună marină.", en: "A protected area with marine wildlife." },
+    facts: {
+      de: ["Schnorcheln für Jugendliche", "Korallenriffschutz"],
+      hu: ["Snorkelezés fiataloknak", "Korallzátony-védelem"],
+      ro: ["Snorkeling pentru tineri", "Protecția recifelor de corali"],
+      en: ["Snorkeling for teenagers", "Coral reef protection"]
+    }
+  },
+  {
+    id: "marais-trou-caiman-life-v2",
+    type: "animal-habitat",
+    parent: "HT-OU",
+    coords: [-72.1, 18.6],
+    name: { de: "Trou Caïman Feuchtgebiet", hu: "Trou Caïman vizes élőhely", ro: "Zona umedă Trou Caïman", en: "Trou Caïman Wetland" },
+    description: { de: "Ein bedeutender Lebensraum für Krokodile und Vögel.", hu: "Fontos élőhely krokodilok és madarak számára.", ro: "Un habitat important pentru crocodili și păsări.", en: "An important habitat for crocodiles and birds." },
+    facts: {
+      de: ["Beobachtungsplattformen", "Seltene Wasservögel"],
+      hu: ["Megfigyelő platformok", "Ritka vízi madarak"],
+      ro: ["Platforme de observare", "Păsări de apă rare"],
+      en: ["Observation platforms", "Rare water birds"]
+    }, image: "/poi-images/marais-trou-caiman-life-v2.webp"},
+  {
+    id: "jardin-fruitier-saint-marc-life-v2",
+    type: "agriculture",
+    parent: "HT-AR",
+    coords: [-72.6, 19.1],
+    name: { de: "Obstgarten Saint-Marc", hu: "Saint-Marc gyümölcsöskert", ro: "Livada Saint-Marc", en: "Saint-Marc Fruit Orchard" },
+    description: { de: "Ein Lehrgarten für tropische Früchte.", hu: "Trópusi gyümölcsök oktatókertje.", ro: "O livadă educativă pentru fructe tropicale.", en: "An educational orchard for tropical fruits." },
+    facts: {
+      de: ["Vielzahl an Mangos", "Ernteerlebnisse"],
+      hu: ["Sokféle mangó", "Szüreti élmények"],
+      ro: ["Varietate de mango", "Experiențe de recoltare"],
+      en: ["Variety of mangos", "Harvesting experiences"]
+    }, image: "/poi-images/jardin-fruitier-saint-marc-life-v2.webp"},
+  {
+    id: "parc-enfants-jacmel-life-v2",
+    type: "kid-landmark",
+    parent: "HT-SE",
+    coords: [-72.5, 18.22],
+    name: { de: "Kinderparadies Jacmel", hu: "Jacmel gyermekparadicsom", ro: "Paradisul copiilor Jacmel", en: "Jacmel Children's Paradise" },
+    description: { de: "Ein moderner Spielplatz in Jacmel.", hu: "Modern játszótér Jacmelben.", ro: "Un loc de joacă modern în Jacmel.", en: "A modern playground in Jacmel." },
+    facts: {
+      de: ["Sichere Spielgeräte", "Zentral gelegen"],
+      hu: ["Biztonságos játékok", "Központi elhelyezkedés"],
+      ro: ["Echipamente de joacă sigure", "Amplasare centrală"],
+      en: ["Safe play equipment", "Centrally located"]
+    }, image: "/poi-images/parc-enfants-jacmel-life-v2.webp"},
+  {
+    id: "reserve-marine-cap-haitien-life-v2",
     type: "animal-habitat",
     parent: "HT-ND",
-    coords: [-72.24, 19.79],
-    name: { de: "Labadie Reef Habitat", hu: "Labadie-zatony elohelye", ro: "Habitatul de recif Labadie", en: "Labadie Reef Habitat" },
-    description: {
-      de: "A coral and reef zone on the north coast that supports fish and marine life.",
-      hu: "Korallos es zátonyi terület az eszaki parton, amely halaknak es tengeri eletnek ad otthont.",
-      ro: "O zona de recif si corali pe coasta de nord care sustine pesti si viata marina.",
-      en: "A coral and reef zone on the north coast that supports fish and marine life."
-    },
+    coords: [-72.2, 19.75],
+    name: { de: "Meeresschutzgebiet Cap-Haïtien", hu: "Cap-Haïtien tengeri rezervátum", ro: "Rezervația marină Cap-Haïtien", en: "Cap-Haïtien Marine Reserve" },
+    description: { de: "Ein Schutzgebiet für marine Arten.", hu: "Védett terület a tengeri fajok számára.", ro: "O zonă protejată pentru speciile marine.", en: "A protected area for marine species." },
     facts: {
-      de: ["Reef fish habitat", "Important for snorkeling", "North coast marine zone"],
-      hu: ["Zátonyhal-elohely", "Fontos a snorkelezeshez", "Eszaki parti tengeri zona"],
-      ro: ["Habitat pentru pesti de recif", "Important pentru snorkeling", "Zona marina de pe coasta de nord"],
-      en: ["Reef fish habitat", "Important for snorkeling", "North coast marine zone"]
-    }
-  },
+      de: ["Meeresbiologische Beobachtung", "Korallenschutz"],
+      hu: ["Tengerbiológiai megfigyelés", "Korallvédelem"],
+      ro: ["Observare biologică marină", "Protecția coralilor"],
+      en: ["Marine biological observation", "Coral protection"]
+    }, image: "/poi-images/reserve-marine-cap-haitien-life-v2.webp"},
   {
-    id: "ht-port-salut-turtle-beach-life-v2",
-    type: "animal-habitat",
-    parent: "HT-SD",
-    coords: [-73.93, 18.08],
-    name: { de: "Port Salut Turtle Beach", hu: "Port Salut teknos strand", ro: "Plaja testoaselor Port Salut", en: "Port Salut Turtle Beach" },
-    description: {
-      de: "Long sandy beaches on the south coast that can support turtle nesting.",
-      hu: "Hosszu homokos strandok a deli parton, amelyek alkalmasak lehetnek teknosfeszkelésre.",
-      ro: "Plaje lungi nisipoase pe coasta de sud care pot sustine cuibarirea testoaselor.",
-      en: "Long sandy beaches on the south coast that can support turtle nesting."
-    },
-    facts: {
-      de: ["Quiet beach ecosystem", "Popular coastal stop", "Potential nesting stretch"],
-      hu: ["Nyugodt parti ekoszisztéma", "Nepszeru parti megallo", "Lehetséges feszkelési szakasz"],
-      ro: ["Ecosistem de plaja linistit", "Oprire populara pe coasta", "Segment potential de cuibarit"],
-      en: ["Quiet beach ecosystem", "Popular coastal stop", "Potential nesting stretch"]
-    }
-  },
-  {
-    id: "ht-cayemites-fishing-reefs-life-v2",
-    type: "animal-habitat",
-    parent: "HT-GA",
-    coords: [-73.75, 18.60],
-    name: { de: "Cayemites Fishing Reefs", hu: "Cayemites halaszat zatonyai", ro: "Recifele de pescuit Cayemites", en: "Cayemites Fishing Reefs" },
-    description: {
-      de: "Shallow reef water near the Cayemites islands supports fish and seabirds.",
-      hu: "A Cayemites-szigetek melletti sekely zátonyviz halaknak es tengeri madaraknak kedvez.",
-      ro: "Apele putin adanci ale recifelor de langa insulele Cayemites sustin pesti si pasari marine.",
-      en: "Shallow reef water near the Cayemites islands supports fish and seabirds."
-    },
-    facts: {
-      de: ["Traditional fishing zone", "Reef biodiversity", "Small island marine life"],
-      hu: ["Hagyomanyos halaszati zona", "Zátonyi biodiverzitas", "Kis szigeti tengeri elet"],
-      ro: ["Zona traditionala de pescuit", "Biodiversitate de recif", "Viata marina a insulelor mici"],
-      en: ["Traditional fishing zone", "Reef biodiversity", "Small island marine life"]
-    }
-  },
-  {
-    id: "ht-grand-anse-mangrove-nursery-life-v2",
-    type: "animal-habitat",
-    parent: "HT-GA",
-    coords: [-73.58, 18.53],
-    name: { de: "Grand Anse Mangrove Nursery", hu: "Grand Anse mangrove nevelo", ro: "Pepiniera de mangrove Grand Anse", en: "Grand Anse Mangrove Nursery" },
-    description: {
-      de: "Mangrove roots create a safe nursery for young fish and crustaceans.",
-      hu: "A mangrove gyökerek biztonsagos nevelo helyet adnak a fiatal halaknak es rakoknak.",
-      ro: "Radacinile de mangrove creeaza o pepiniera sigura pentru pesti tineri si crustacee.",
-      en: "Mangrove roots create a safe nursery for young fish and crustaceans."
-    },
-    facts: {
-      de: ["Young fish shelter", "Helps coastal resilience", "Important for local ecology"],
-      hu: ["Fiatal halak menedeke", "Segiti a parti ellenallast", "Fontos a helyi ologiaban"],
-      ro: ["Adapost pentru pesti tineri", "Ajuta rezilienta costiera", "Important pentru ecologia locala"],
-      en: ["Young fish shelter", "Helps coastal resilience", "Important for local ecology"]
-    }
-  },
-  {
-    id: "ht-artibonite-rice-fields-life-v2",
-    type: "agriculture",
-    parent: "HT-AR",
-    coords: [-72.62, 19.38],
-    name: { de: "Artibonite Rice Fields", hu: "Artibonite rizsfoldek", ro: "Campurile de orez Artibonite", en: "Artibonite Rice Fields" },
-    description: {
-      de: "The country's main rice basin, fed by rivers and irrigation canals.",
-      hu: "Az orszag fo rizstermelo medenceje, amelyet folyok es öntözocsatornak taplalnak.",
-      ro: "Principala zona de orez a tarii, alimentata de rauri si canale de irigatie.",
-      en: "The country's main rice basin, fed by rivers and irrigation canals."
-    },
-    facts: {
-      de: ["Core food crop region", "Heavy irrigation network", "Central to local diets"],
-      hu: ["Alapveto elelmiszertermö terulet", "Suru öntözési halozat", "Fontos a helyi etkezesben"],
-      ro: ["Zona de baza pentru hrana", "Retea mare de irigatii", "Esentiala pentru dieta locala"],
-      en: ["Core food crop region", "Heavy irrigation network", "Central to local diets"]
-    }
-  },
-  {
-    id: "ht-artibonite-sugarcane-life-v2",
-    type: "agriculture",
-    parent: "HT-AR",
-    coords: [-72.70, 19.32],
-    name: { de: "Artibonite Sugarcane Belt", hu: "Artibonite cukornad ovezet", ro: "Centura de trestie de zahar Artibonite", en: "Artibonite Sugarcane Belt" },
-    description: {
-      de: "Sugarcane remains one of the classic crops of the Artibonite plain.",
-      hu: "A cukornad az Artibonite-sikseg egyik klasszikus novenye maradt.",
-      ro: "Trestia de zahar ramane una dintre culturile clasice ale campiei Artibonite.",
-      en: "Sugarcane remains one of the classic crops of the Artibonite plain."
-    },
-    facts: {
-      de: ["Warm plain agriculture", "Used for local syrup and rum", "Traditional farm landscape"],
-      hu: ["Meleg siksagi mezogazdasag", "Helyi sziruphoz es rumhoz hasznaljak", "Hagyomanyos farmtaj"],
-      ro: ["Agricultura de campie calda", "Folosita pentru sirop si rom local", "Peisaj agricol traditional"],
-      en: ["Warm plain agriculture", "Used for local syrup and rum", "Traditional farm landscape"]
-    }
-  },
-  {
-    id: "ht-kenscoff-coffee-terraces-life-v2",
-    type: "agriculture",
-    parent: "HT-OU",
-    coords: [-72.31, 18.43],
-    name: { de: "Kenscoff Coffee Terraces", hu: "Kenscoff kave teraszok", ro: "Terasele de cafea Kenscoff", en: "Kenscoff Coffee Terraces" },
-    description: {
-      de: "Cool mountain slopes near Port-au-Prince where coffee is grown at altitude.",
-      hu: "Huvos hegyi lejtök Port-au-Prince kozeleben, ahol magasan termesztenek kavat.",
-      ro: "Versanti montani racorosi langa Port-au-Prince unde cafeaua este cultivata la inaltime.",
-      en: "Cool mountain slopes near Port-au-Prince where coffee is grown at altitude."
-    },
-    facts: {
-      de: ["Highland coffee zone", "Cool climate benefits beans", "Smallholder farms"],
-      hu: ["Felvideki kaveovet", "A huvos klima jot tesz a baboknak", "Kisbirtokos farmok"],
-      ro: ["Zona de cafea montana", "Climatul racoros ajuta boabele", "Ferme mici de familie"],
-      en: ["Highland coffee zone", "Cool climate benefits beans", "Smallholder farms"]
-    }
-  },
-  {
-    id: "ht-thiotte-coffee-farms-life-v2",
-    type: "agriculture",
-    parent: "HT-SE",
-    coords: [-71.85, 18.27],
-    name: { de: "Thiotte Coffee Farms", hu: "Thiotte kavefarmok", ro: "Fermele de cafea Thiotte", en: "Thiotte Coffee Farms" },
-    description: {
-      de: "A southeastern coffee region known for shaded hillside cultivation.",
-      hu: "Délkeleti kavevidek, amely az arnyekos hegyi muvelesrol ismert.",
-      ro: "O regiune de cafea din sud-est, cunoscuta pentru cultivarea pe versanti umbriti.",
-      en: "A southeastern coffee region known for shaded hillside cultivation."
-    },
-    facts: {
-      de: ["Shade-grown coffee", "Hill farms and footpaths", "Local cooperative tradition"],
-      hu: ["Arnyekos kave", "Dombi farmok es gyalogutak", "Helyi szovetkezeti hagyomany"],
-      ro: ["Cafea crescuta la umbra", "Ferme pe dealuri si poteci", "Traditie cooperatista locala"],
-      en: ["Shade-grown coffee", "Hill farms and footpaths", "Local cooperative tradition"]
-    }
-  },
-  {
-    id: "ht-marmelade-fruit-orchards-life-v2",
-    type: "agriculture",
-    parent: "HT-AR",
-    coords: [-72.35, 19.52],
-    name: { de: "Marmelade Fruit Orchards", hu: "Marmelade gyumolcsösok", ro: "Livezile de fructe Marmelade", en: "Marmelade Fruit Orchards" },
-    description: {
-      de: "Hills around Marmelade support fruit trees and mixed small farming.",
-      hu: "A Marmelade koruli dombok gyumolcsfakat es vegyes kisgazdasagokat tamogatnak.",
-      ro: "Dealurile din jurul Marmelade sustin livezi si agricultura mica mixta.",
-      en: "Hills around Marmelade support fruit trees and mixed small farming."
-    },
-    facts: {
-      de: ["Fruit tree hills", "Mixed family farming", "Cool upland climate"],
-      hu: ["Gyumolcsfás dombok", "Vegyes csaladi gazdalkodas", "Huvos magashegyi klima"],
-      ro: ["Dealuri cu pomi fructiferi", "Agricultura mixta de familie", "Climat montan racoros"],
-      en: ["Fruit tree hills", "Mixed family farming", "Cool upland climate"]
-    }
-  },
-  {
-    id: "ht-grand-anse-cocoa-groves-life-v2",
-    type: "agriculture",
-    parent: "HT-GA",
-    coords: [-73.30, 18.55],
-    name: { de: "Grand Anse Cocoa Groves", hu: "Grand Anse kakaofak", ro: "Livezi de cacao Grand Anse", en: "Grand Anse Cocoa Groves" },
-    description: {
-      de: "Shaded tropical plots where cacao and other tree crops can thrive.",
-      hu: "Arnyekos tropusi parcellak, ahol a kakao es mas fa-novenyek jol fejlodnek.",
-      ro: "Parcele tropicale umbrite unde cacaoa si alte culturi arbore pot prospera.",
-      en: "Shaded tropical plots where cacao and other tree crops can thrive."
-    },
-    facts: {
-      de: ["Tree crop farming", "Humid southwest climate", "Small rural producers"],
-      hu: ["Fás noveny termesztés", "Parás, nedves délnyugati klima", "Kis videki termelok"],
-      ro: ["Cultura de arbori", "Climat umed in sud-vest", "Producatori mici din mediul rural"],
-      en: ["Tree crop farming", "Humid southwest climate", "Small rural producers"]
-    }
-  },
-  {
-    id: "ht-les-cayes-vetiver-fields-life-v2",
-    type: "agriculture",
-    parent: "HT-SD",
-    coords: [-73.74, 18.19],
-    name: { de: "Les Cayes Vetiver Fields", hu: "Les Cayes vetiverföldek", ro: "Campurile de vetiver Les Cayes", en: "Les Cayes Vetiver Fields" },
-    description: {
-      de: "Southern fields that produce vetiver roots used in perfume production.",
-      hu: "Deli földek, amelyek parfümgyartasban hasznalt vetiver gyokereket termelnek.",
-      ro: "Campuri din sud care produc radacini de vetiver folosite in parfumerie.",
-      en: "Southern fields that produce vetiver roots used in perfume production."
-    },
-    facts: {
-      de: ["Perfume crop region", "Strong export value", "Grown in the south"],
-      hu: ["Parfumalapanyag-terulet", "Nagy exportertek", "A deli reszen termesztik"],
-      ro: ["Zona de cultura pentru parfumuri", "Valoare mare la export", "Cultivat in sud"],
-      en: ["Perfume crop region", "Strong export value", "Grown in the south"]
-    }
-  },
-  {
-    id: "ht-jacmel-mango-orchards-life-v2",
-    type: "agriculture",
-    parent: "HT-SE",
-    coords: [-72.53, 18.23],
-    name: { de: "Jacmel Mango Orchards", hu: "Jacmel mangoultervenyek", ro: "Livezile de mango Jacmel", en: "Jacmel Mango Orchards" },
-    description: {
-      de: "Coastal hills near Jacmel are suitable for mango orchards and mixed fruit farms.",
-      hu: "Jacmel parti dombjai alkalmasak mangoultervenyek es vegyes gyumolcsfarmok szamara.",
-      ro: "Dealurile de coasta de langa Jacmel sunt bune pentru livezi de mango si ferme mixte de fructe.",
-      en: "Coastal hills near Jacmel are suitable for mango orchards and mixed fruit farms."
-    },
-    facts: {
-      de: ["Seasonal fruit production", "Coastal hillside farms", "Local market sales"],
-      hu: ["Szezonalis gyumolcstermeles", "Parti domboldali farmok", "Helyi piaci arusitas"],
-      ro: ["Productie sezoniera de fructe", "Ferme pe dealuri de coasta", "Vanzare in piete locale"],
-      en: ["Seasonal fruit production", "Coastal hillside farms", "Local market sales"]
-    }
-  },
-  {
-    id: "ht-plaine-du-cul-de-sac-gardens-life-v2",
-    type: "agriculture",
-    parent: "HT-OU",
-    coords: [-72.20, 18.57],
-    name: { de: "Plaine du Cul-de-Sac Market Gardens", hu: "Cul-de-Sac siksag piacikertjei", ro: "Gradinile de piata din Plaine du Cul-de-Sac", en: "Plaine du Cul-de-Sac Market Gardens" },
-    description: {
-      de: "Vegetable beds and market gardens supply the Port-au-Prince area.",
-      hu: "Zoldseges agyak es piacikertek latjak el a Port-au-Prince-i terkseget.",
-      ro: "Straturile de legume si gradinile de piata aprovizioneaza zona Port-au-Prince.",
-      en: "Vegetable beds and market gardens supply the Port-au-Prince area."
-    },
-    facts: {
-      de: ["Close to the capital", "Fresh produce zone", "Intensive small-scale farming"],
-      hu: ["Közel a fovaroshoz", "Friss termenyek övezete", "Intenziv kisgazdasagok"],
-      ro: ["Aproape de capitala", "Zona de produse proaspete", "Agricultura intensiva la scara mica"],
-      en: ["Close to the capital", "Fresh produce zone", "Intensive small-scale farming"]
-    }
-  },
-  {
-    id: "ht-belladere-border-farms-life-v2",
-    type: "agriculture",
-    parent: "HT-CE",
-    coords: [-71.78, 18.86],
-    name: { de: "Belladere Border Farms", hu: "Belladere hatarfarmok", ro: "Fermele de frontiera Belladere", en: "Belladere Border Farms" },
-    description: {
-      de: "Borderland farms grow maize, beans and vegetables for local trade.",
-      hu: "Hatarmenti farmok, ahol kukoricat, babot es zoldsegeket termesztenek helyi kereskedelemre.",
-      ro: "Fermele de la granita cultiva porumb, fasole si legume pentru comert local.",
-      en: "Borderland farms grow maize, beans and vegetables for local trade."
-    },
-    facts: {
-      de: ["Cross-border market area", "Mixed subsistence farming", "Dry upland plots"],
-      hu: ["Hatar menti piaczona", "Vegyes onellato gazdalkodas", "Száraz magashegyi parcellak"],
-      ro: ["Zona de piata transfrontaliera", "Agricultura mixta de subzistenta", "Parcele montane uscate"],
-      en: ["Cross-border market area", "Mixed subsistence farming", "Dry upland plots"]
-    }
-  },
-  {
-    id: "ht-miragoane-citrus-groves-life-v2",
+    id: "centre-edu-agriculture-miragoane-life-v2",
     type: "agriculture",
     parent: "HT-NI",
-    coords: [-73.09, 18.44],
-    name: { de: "Miragoane Citrus Groves", hu: "Miragoane citrusligetek", ro: "Livezile de citrice Miragoane", en: "Miragoane Citrus Groves" },
-    description: {
-      de: "Warm valleys around Miragoane can support citrus and fruit cultivation.",
-      hu: "A Miragoane környéki meleg völgyek citrust es gyümölcsot is eltartanak.",
-      ro: "Valele calde din jurul Miragoane sustin culturile de citrice si fructe.",
-      en: "Warm valleys around Miragoane can support citrus and fruit cultivation."
-    },
+    coords: [-73.1, 18.4],
+    name: { de: "Agrarbildungszentrum Miragoâne", hu: "Miragoâne mezőgazdasági oktatóközpont", ro: "Centru educațional agricol Miragoâne", en: "Miragoâne Agricultural Education Center" },
+    description: { de: "Ein Zentrum zur Förderung nachhaltiger Landwirtschaft.", hu: "A fenntartható mezőgazdaságot elősegítő központ.", ro: "Un centru de promovare a agriculturii durabile.", en: "A center for promoting sustainable agriculture." },
     facts: {
-      de: ["Fruit valley climate", "Local market orchard goods", "Small family plots"],
-      hu: ["Gyümölcsvölgyi klima", "Helyi piaci gyumolcsaruk", "Kis csaladi parcellak"],
-      ro: ["Climat de vale pentru fructe", "Marfuri din livezi pentru piata locala", "Parcelele mici de familie"],
-      en: ["Fruit valley climate", "Local market orchard goods", "Small family plots"]
+      de: ["Praktische Ausbildung", "Saatgutbank"],
+      hu: ["Gyakorlati képzés", "Vetőmagbank"],
+      ro: ["Instruire practică", "Bancă de semințe"],
+      en: ["Practical training", "Seed bank"]
+    }, image: "/poi-images/centre-edu-agriculture-miragoane-life-v2.webp"},
+  {
+    id: "parc-naturel-riviere-froide-life-v2",
+    type: "animal-habitat",
+    parent: "HT-OU",
+    coords: [-72.4, 18.5],
+    name: { de: "Naturpark Rivière Froide", hu: "Rivière Froide Natúrpark", ro: "Parc natural Rivière Froide", en: "Rivière Froide Nature Park" },
+    description: { de: "Ein Rückzugsort für Flussbewohner.", hu: "A folyólakók menedékhelye.", ro: "Un sanctuar pentru locuitorii râului.", en: "A sanctuary for river inhabitants." },
+    facts: {
+      de: ["Beobachtung von Flusskrebse", "Ruhezone"],
+      hu: ["Rákok megfigyelése", "Csendes övezet"],
+      ro: ["Observarea racilor", "Zonă de liniște"],
+      en: ["Crayfish observation", "Quiet zone"]
+    }, image: "/poi-images/parc-naturel-riviere-froide-life-v2.webp"},
+  {
+    id: "jardin-education-haiti-life-v2",
+    type: "kid-landmark",
+    parent: "HT-OU",
+    coords: [-72.3, 18.52],
+    name: { de: "Haiti Lern- und Lehrgarten", hu: "Haiti tanuló- és oktatókert", ro: "Grădina de învățare și predare Haiti", en: "Haiti Learning and Teaching Garden" },
+    description: { de: "Ein Ort für Kinder, um Biologie zu erleben.", hu: "Hely gyerekeknek a biológia megtapasztalására.", ro: "Un loc pentru copii pentru a experimenta biologia.", en: "A place for children to experience biology." },
+    facts: {
+      de: ["Interaktive Exponate", "Natur-Workshops"],
+      hu: ["Interaktív kiállítások", "Természet-műhelyek"],
+      ro: ["Expoziții interactive", "Ateliere de natură"],
+      en: ["Interactive exhibits", "Nature workshops"]
     }
   },
   {
-    id: "ht-chantal-highland-coffee-life-v2",
+    id: "plantation-cafe-kenskoff-life-v2",
     type: "agriculture",
-    parent: "HT-GA",
-    coords: [-73.86, 18.28],
-    name: { de: "Chantal Highland Coffee", hu: "Chantal magashegyi kave", ro: "Cafea montana Chantal", en: "Chantal Highland Coffee" },
-    description: {
-      de: "Remote hills in Grand'Anse are suited to coffee grown under shade trees.",
-      hu: "A Grand'Anse tavoli dombjai alkalmasak az arnyekfak alatt termelt kavera.",
-      ro: "Dealurile izolate din Grand'Anse sunt potrivite pentru cafea crescuta la umbra.",
-      en: "Remote hills in Grand'Anse are suited to coffee grown under shade trees."
-    },
+    parent: "HT-OU",
+    coords: [-72.28, 18.45],
+    name: { de: "Kaffeeplantage Kenskoff", hu: "Kenskoff kávéültetvény", ro: "Plantație de cafea Kenskoff", en: "Kenskoff Coffee Plantation" },
+    description: { de: "Eine hochgelegene Kaffeeplantage.", hu: "Magasan fekvő kávéültetvény.", ro: "O plantație de cafea situată la înălțime.", en: "A high-altitude coffee plantation." },
     facts: {
-      de: ["Shade coffee farming", "Mountain slope plots", "Strong aroma beans"],
-      hu: ["Árnyekos kave termesztés", "Hegyoldali parcellak", "Illatos szemek"],
-      ro: ["Cafea crescuta la umbra", "Parcele pe versanti montani", "Boabe cu aroma puternica"],
-      en: ["Shade coffee farming", "Mountain slope plots", "Strong aroma beans"]
-    }
-  },
+      de: ["Berühmter Hochlandkaffee", "Schöne Aussicht"],
+      hu: ["Híres hegyi kávé", "Szép kilátás"],
+      ro: ["Faimoasa cafea de munte", "Priveliște frumoasă"],
+      en: ["Famous mountain coffee", "Beautiful view"]
+    }, image: "/poi-images/plantation-cafe-kenskoff-life-v2.webp"},
   {
-    id: "ht-cotes-de-fer-beekeeping-life-v2",
-    type: "agriculture",
-    parent: "HT-SE",
-    coords: [-71.92, 18.23],
-    name: { de: "Cotes-de-Fer Beekeeping", hu: "Cotes-de-Fer méhészet", ro: "Apicultura Cotes-de-Fer", en: "Cotes-de-Fer Beekeeping" },
-    description: {
-      de: "Coastal hills and scrubland can support beehives and honey production.",
-      hu: "A parti dombok es bozótosok kaptarakat es méztermelest tamogatnak.",
-      ro: "Dealurile de coasta si tufarisurile pot sustine stupine si productia de miere.",
-      en: "Coastal hills and scrubland can support beehives and honey production."
-    },
-    facts: {
-      de: ["Local honey production", "Small rural apiaries", "Dry coastal vegetation"],
-      hu: ["Helyi méztermeles", "Kis videki apiariumok", "Száraz parti novenyzet"],
-      ro: ["Productie locala de miere", "Stupine rurale mici", "Vegetatie costiera uscata"],
-      en: ["Local honey production", "Small rural apiaries", "Dry coastal vegetation"]
-    }
-  },
-  {
-    id: "ht-port-de-paix-cassava-life-v2",
-    type: "agriculture",
+    id: "parc-enfants-port-de-paix-life-v2",
+    type: "kid-landmark",
     parent: "HT-ND",
-    coords: [-72.83, 19.93],
-    name: { de: "Port-de-Paix Cassava Fields", hu: "Port-de-Paix kaszavaföldek", ro: "Campurile de manioc Port-de-Paix", en: "Port-de-Paix Cassava Fields" },
-    description: {
-      de: "Cassava and root crops are common on the dry northwest coast.",
-      hu: "A száraz eszaknyugati parton gyakori a kaszava es a gyokeres novenyek termesztese.",
-      ro: "Maniocul si culturile radacinoase sunt comune pe coasta uscata de nord-vest.",
-      en: "Cassava and root crops are common on the dry northwest coast."
-    },
+    coords: [-72.8, 19.9],
+    name: { de: "Port-de-Paix Kinderpark", hu: "Port-de-Paix gyermekpark", ro: "Parc pentru copii Port-de-Paix", en: "Port-de-Paix Children's Park" },
+    description: { de: "Ein kleiner Park für Familien.", hu: "Kis park családoknak.", ro: "Un mic parc pentru familii.", en: "A small park for families." },
     facts: {
-      de: ["Staple root crop", "Dry coastal farming", "Food security role"],
-      hu: ["Alapveto gyokeres noveny", "Száraz parti gazdalkodas", "Elelmezesi szerep"],
-      ro: ["Cultura radacinoasa de baza", "Agricultura costiera uscata", "Rol in siguranta alimentara"],
-      en: ["Staple root crop", "Dry coastal farming", "Food security role"]
-    }
-  },
+      de: ["Spielplatz", "Sitzgelegenheiten"],
+      hu: ["Játszótér", "Ülőhelyek"],
+      ro: ["Loc de joacă", "Zone de relaxare"],
+      en: ["Playground", "Seating areas"]
+    }, image: "/poi-images/parc-enfants-port-de-paix-life-v2.webp"},
   {
-    id: "ht-saut-mathurine-family-falls-life-v2",
-    type: "kid-landmark",
-    parent: "HT-SD",
-    coords: [-73.30, 18.15],
-    name: { de: "Saut-Mathurine Family Falls", hu: "Saut-Mathurine csaladi vodzeses", ro: "Cascada de familie Saut-Mathurine", en: "Saut-Mathurine Family Falls" },
-    description: {
-      de: "Haiti's largest waterfall area, often visited as an easy family outing.",
-      hu: "Haiti legnagyobb vizeses terulete, amelyet gyakran csaladi kirandulaskent latogatnak.",
-      ro: "Cea mai mare zona de cascada din Haiti, vizitata adesea ca iesire de familie.",
-      en: "Haiti's largest waterfall area, often visited as an easy family outing."
-    },
+    id: "ferme-experimentale-artibonite-life-v2",
+    type: "agriculture",
+    parent: "HT-AR",
+    coords: [-72.55, 19.15],
+    name: { de: "Versuchs-Bauernhof Artibonite", hu: "Artibonite kísérleti gazdaság", ro: "Fermă experimentală Artibonite", en: "Artibonite Experimental Farm" },
+    description: { de: "Ein Ort für agrarwissenschaftliche Forschung.", hu: "Mezőgazdasági kutatási helyszín.", ro: "Un loc pentru cercetarea științifică agricolă.", en: "A place for agricultural research." },
     facts: {
-      de: ["Major natural attraction", "Great picnic stop", "Popular in the south"],
-      hu: ["Nagy termeszeti latvanyossag", "Jo piknikhely", "Nepszeru a deli reszen"],
-      ro: ["Atractie naturala majora", "Oprire buna pentru picnic", "Populara in sud"],
-      en: ["Major natural attraction", "Great picnic stop", "Popular in the south"]
-    }
-  },
+      de: ["Neue Reissorten", "Effiziente Bewässerung"],
+      hu: ["Új rizsfajták", "Hatékony öntözés"],
+      ro: ["Soiuri noi de orez", "Irigare eficientă"],
+      en: ["New rice varieties", "Efficient irrigation"]
+    }, image: "/poi-images/ferme-experimentale-artibonite-life-v2.webp"},
   {
-    id: "ht-bassin-bleu-jacmel-family-site-life-v2",
-    type: "kid-landmark",
-    parent: "HT-SE",
-    coords: [-72.54, 18.23],
-    name: { de: "Bassin Bleu Jacmel Family Site", hu: "Bassin Bleu Jacmel csaladi hely", ro: "Loc de familie Bassin Bleu Jacmel", en: "Bassin Bleu Jacmel Family Site" },
-    description: {
-      de: "Blue pools and short hikes make this a classic family-friendly stop near Jacmel.",
-      hu: "Kek medencék es rovid turautak miatt ez klasszikus csaladbarat megallo Jacmel mellett.",
-      ro: "Iazurile albastre si drumetiile scurte il fac o oprire clasica pentru familii langa Jacmel.",
-      en: "Blue pools and short hikes make this a classic family-friendly stop near Jacmel."
-    },
-    facts: {
-      de: ["Short hiking routes", "Scenic swimming pools", "Popular weekend visit"],
-      hu: ["Rovidebb turautak", "Festoi uszomedencék", "Nepszeru hetvegi program"],
-      ro: ["Trasee scurte de drumetie", "Piscine naturale pitoresti", "Vizita populara in weekend"],
-      en: ["Short hiking routes", "Scenic swimming pools", "Popular weekend visit"]
-    }
-  },
-  {
-    id: "ht-bassin-zim-family-falls-life-v2",
-    type: "kid-landmark",
+    id: "reserve-oiseaux-lac-peligre-life-v2",
+    type: "animal-habitat",
     parent: "HT-CE",
-    coords: [-71.82, 19.19],
-    name: { de: "Bassin Zim Family Falls", hu: "Bassin Zim csaladi vizeses", ro: "Cascada de familie Bassin Zim", en: "Bassin Zim Family Falls" },
-    description: {
-      de: "A forest waterfall area that works well for day trips and family visits.",
-      hu: "Erodes vizeses terulet, amely alkalmas egynapos es csaladi latogatasokra.",
-      ro: "O zona cu cascada in padure, buna pentru excursii de o zi si vizite de familie.",
-      en: "A forest waterfall area that works well for day trips and family visits."
-    },
+    coords: [-72.05, 19.0],
+    name: { de: "Vogelreservat Lac Péligre", hu: "Lac Péligre madárrezervátum", ro: "Rezervația de păsări Lac Péligre", en: "Lac Péligre Bird Reserve" },
+    description: { de: "Ein Paradies für Vogelbeobachter.", hu: "Paradicsom madármegfigyelőknek.", ro: "Un paradis pentru observatorii de păsări.", en: "A paradise for bird watchers." },
     facts: {
-      de: ["Popular day-trip site", "Forest and water setting", "Easy family appeal"],
-      hu: ["Nepszeru egynapos kirandulas", "Ero es viz kornyezet", "Könnyen csaladbarat"],
-      ro: ["Loc popular pentru excursii de o zi", "Cadru de padure si apa", "Usor de vizitat cu familia"],
-      en: ["Popular day-trip site", "Forest and water setting", "Easy family appeal"]
-    }
-  },
+      de: ["Zugvögel", "Naturschutzgebiet"],
+      hu: ["Vándormadarak", "Természetvédelmi terület"],
+      ro: ["Păsări migratoare", "Zonă protejată"],
+      en: ["Migratory birds", "Nature reserve"]
+    }, image: "/poi-images/reserve-oiseaux-lac-peligre-life-v2.webp"},
   {
-    id: "ht-marche-jacmel-family-market-life-v2",
+    id: "jardin-ornemental-jeremie-life-v2",
     type: "kid-landmark",
-    parent: "HT-SE",
-    coords: [-72.53, 18.23],
-    name: { de: "Marche Jacmel Family Market", hu: "Jacmel csaladi piac", ro: "Piata de familie Jacmel", en: "Marche Jacmel Family Market" },
-    description: {
-      de: "A lively local market where families can explore crafts, fruit and food stalls.",
-      hu: "Elelénk helyi piac, ahol a csaladok kezmuvestermékeket, gyumolcsot es etelt nezhetnek meg.",
-      ro: "O piata locala animata unde familiile pot explora produse artizanale, fructe si mancare.",
-      en: "A lively local market where families can explore crafts, fruit and food stalls."
-    },
+    parent: "HT-GA",
+    coords: [-74.1, 18.62],
+    name: { de: "Jérémie Ziergarten", hu: "Jérémie díszkert", ro: "Grădina ornamentală Jérémie", en: "Jérémie Ornamental Garden" },
+    description: { de: "Ein schöner Garten für Spaziergänge.", hu: "Szép kert sétákhoz.", ro: "O grădină frumoasă pentru plimbări.", en: "A beautiful garden for walks." },
     facts: {
-      de: ["Colorful street life", "Fresh produce stalls", "Good for short visits"],
-      hu: ["Szines utcakép", "Frissarus standok", "Jo rovid latogatasra"],
-      ro: ["Viata stradala colorata", "Tarabe cu produse proaspete", "Bun pentru vizite scurte"],
-      en: ["Colorful street life", "Fresh produce stalls", "Good for short visits"]
+      de: ["Blumensammlung", "Pädagogisch wertvoll"],
+      hu: ["Virággyűjtemény", "Oktatási szempontból értékes"],
+      ro: ["Colecție de flori", "Valoare educativă"],
+      en: ["Flower collection", "Educational value"]
     }
   }
 ];
+

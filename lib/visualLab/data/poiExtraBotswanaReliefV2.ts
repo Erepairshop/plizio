@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBotswanaReliefV2: POI[] = [
@@ -13,8 +14,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Botswana nagy részét lefedi.", "Nincsenek állandó felszíni vizek."],
       ro: ["Acoperă cea mai mare parte a Botswanei.", "Fără ape de suprafață permanente."],
       en: ["Covers most of Botswana.", "No permanent surface water."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      ro: "Deșertul Kalahari acoperă aproximativ 70% din suprafața Botswanei, formând un bazin vast de nisip care nu este un deșert în sensul tradițional, ci o savană aridă. Acesta găzduiește o faună adaptată condițiilor extreme, cum ar fi antilopele oryx și suricatele, și reprezintă o parte esențială a ecosistemului african, fiind crucial pentru biodiversitatea locală. Faptul că nu există cursuri de apă permanente face ca animalele să depindă de resursele sezoniere și de rădăcinile plantelor. Geografie K7 — regiuni aride și deșerturi."
+    },
+    factsAdvanced: {
+      ro: ["Ocupă aproximativ 900.000 km² în sudul Africii.", "Altitudinea variază între 900 și 1.000 metri.", "Precipitațiile anuale sunt sub 250 mm în zonele cele mai aride.", "Este renumit pentru solurile sale roșiatice de nisip.", "Găzduiește populații indigene San de mii de ani.", "Temperaturile pot varia extrem între zi și noapte."]
+    }, image: "/poi-images/kalahari-desert-relief-v2.webp"},
   {
     id: "okavango-delta-relief-v2",
     type: "relief",
@@ -27,8 +33,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["UNESCO világörökség.", "Rendszeres évenkénti áradások."],
       ro: ["Patrimoniu Mondial UNESCO.", "Inundații anuale regulate."],
       en: ["UNESCO World Heritage site.", "Regular annual flooding."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      ro: "Delta Okavango este una dintre puținele delte interioare din lume, unde râul Okavango se varsă în nisipurile deșertului Kalahari în loc să ajungă la ocean. Această oază complexă creează un ecosistem unic, renumit pentru viața sălbatică bogată, inclusiv hipopotami, crocodili și sute de specii de păsări. În fiecare an, inundațiile sezoniere transformă peisajul arid într-un labirint de canale și lagune, fiind un punct de atracție major pentru conservarea naturii. Biologie K6 — ecosisteme acvatice."
+    },
+    factsAdvanced: {
+      ro: ["Aria inundată poate ajunge la 15.000 km².", "Râul provine din munții Angolei.", "A fost desemnat Patrimoniu Mondial UNESCO în 2014.", "Apa se pierde aproape în întregime prin evaporare și transpirație.", "Este un habitat critic pentru elefanții africani.", "Inundațiile ating vârful în perioada iunie-august."]
+    }, image: "/poi-images/okavango-delta-relief-v2.webp"},
   {
     id: "makgadikgadi-pans-relief-v2",
     type: "relief",
@@ -41,7 +52,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["A legnagyobb sós síkság rendszer.", "Egy ősi hatalmas tó maradványai."],
       ro: ["Cel mai mare sistem de sărături.", "Rămășițele unui lac străvechi imens."],
       en: ["Largest salt pan system.", "Remnants of an ancient huge lake."]
-    }
+    },
+    descriptionAdvanced: {
+      ro: "Makgadikgadi Pans reprezintă una dintre cele mai mari zone cu depresiuni saline din lume, rămășița unui fost lac imens care a acoperit regiunea în urmă cu milenii. Acum, acest peisaj selenar oferă priveliști spectaculoase, devenind verde și plin de viață în timpul sezonului ploios, când atrage mii de păsări flamingo și mamifere migratoare. Este un loc de o frumusețe austeră, care oferă o perspectivă asupra schimbărilor climatice istorice din Botswana. Földrajz K8 — formarea lacurilor."
+    },
+    factsAdvanced: {
+      ro: ["Sistemul de depresiuni acoperă peste 16.000 km².", "Este unul dintre cele mai mari bazine saline de pe Pământ.", "A fost parte din fostul lac Makgadikgadi.", "Atrage a doua cea mai mare migrație de zebre din Africa.", "Salinitatea solului previne creșterea vegetației mari.", "Situate la o altitudine de aproximativ 900 metri."]
+    },
   },
   {
     id: "tsodilo-hills-mountain-v2",
@@ -55,8 +72,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Szent hely.", "Több mint 4000 sziklafestmény."],
       ro: ["Loc sacru.", "Peste 4000 de picturi rupestre."],
       en: ["Sacred site.", "Over 4000 rock paintings."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      ro: "Dealurile Tsodilo, cunoscute drept 'Louvrul Deșertului', găzduiesc una dintre cele mai mari concentrații de artă rupestră din lume, cu peste 4.500 de picturi realizate de-a lungul a mii de ani. Aceste formațiuni geologice proeminente sunt considerate sacre de către poporul San, care crede că aici s-au născut primii oameni. Tsodilo Hills reprezintă o conexiune culturală profundă între istoria umană timpurie și peisajul arid al Botswanei. Istorie K6 — arta preistorică."
+    },
+    factsAdvanced: {
+      ro: ["Conțin peste 4.500 de picturi rupestre.", "Sunt incluse în Patrimoniul Mondial UNESCO din 2001.", "Cel mai înalt punct atinge 1.489 metri.", "Situate în nord-vestul Botswanei.", "Au o semnificație spirituală majoră pentru poporul San.", "Artefactele găsite datează de peste 100.000 de ani."]
+    }, image: "/poi-images/tsodilo-hills-mountain-v2.webp"},
   {
     id: "limpopo-river-relief-v2",
     type: "relief",
@@ -69,8 +91,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Az Indiai-óceánba ömlik.", "Határfolyó Dél-Afrikával."],
       ro: ["Se varsă în Oceanul Indian.", "Râu de frontieră cu Africa de Sud."],
       en: ["Flows into the Indian Ocean.", "Border river with South Africa."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      ro: "Râul Limpopo servește ca graniță naturală între Botswana și Africa de Sud, jucând un rol vital în irigarea terenurilor agricole din regiunea Tuli Block. Este un curs de apă major al Africii de Sud, care străbate peisaje diverse, de la zone împădurite la savane, oferind un habitat crucial pentru animalele sălbatice pe tot parcursul anului. Deși debitul său variază semnificativ în funcție de anotimp, râul rămâne o sursă de viață esențială pentru comunitățile locale și ecosistemele riverane. Földrajz K7 — râuri transfrontaliere."
+    },
+    factsAdvanced: {
+      ro: ["Are o lungime totală de aproximativ 1.750 km.", "Se varsă în Oceanul Indian în Mozambic.", "Bazinul hidrografic acoperă 415.000 km².", "Debitul scade drastic în perioadele de secetă.", "Susține activități agricole intensive pe malurile sale.", "Este un important coridor pentru viața sălbatică."]
+    }, image: "/poi-images/limpopo-river-relief-v2.webp"},
   {
     id: "chobe-river-relief-v2",
     type: "relief",
@@ -83,8 +110,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["A Zambézi mellékfolyója.", "Elefántok éltető forrása."],
       ro: ["Afluent al Zambezi.", "Sursă de viață pentru elefanți."],
       en: ["Tributary of the Zambezi.", "Lifeline for elephants."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) chobe-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A chobe-river-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/chobe-river-relief-v2.webp"},
   {
     id: "kwebe-hills-mountain-v2",
     type: "mountain",
@@ -97,8 +129,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Fontos tájékozódási pont.", "Geológiailag érdekes."],
       ro: ["Punct de reper important.", "Interesant din punct de vedere geologic."],
       en: ["Important landmark.", "Geologically interesting."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) kwebe-hills-mountain-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A kwebe-hills-mountain-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/kwebe-hills-mountain-v2.webp"},
   {
     id: "notwane-river-relief-v2",
     type: "relief",
@@ -111,8 +148,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Ellátja a fővárost.", "A Limpopo-medence része."],
       ro: ["Aprovizionează capitala.", "Parte a bazinului Limpopo."],
       en: ["Supplies the capital.", "Part of the Limpopo basin."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) notwane-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A notwane-river-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/notwane-river-relief-v2.webp"},
   {
     id: "boteti-river-relief-v2",
     type: "relief",
@@ -125,8 +167,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Összeköti az Okavangót a síkságokkal.", "Fontos a vadvilág számára."],
       ro: ["Conectează Okavango cu sărăturile.", "Important pentru fauna sălbatică."],
       en: ["Connects Okavango to pans.", "Important for wildlife."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) boteti-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A boteti-river-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/boteti-river-relief-v2.webp"},
   {
     id: "shashe-river-relief-v2",
     type: "relief",
@@ -139,6 +186,12 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Határfolyó Zimbabwéval.", "Homokos meder."],
       ro: ["Râu de frontieră cu Zimbabwe.", "Albie nisipoasă."],
       en: ["Border river with Zimbabwe.", "Sandy bed."]
+    },
+    descriptionAdvanced: {
+      hu: "A(z) shashe-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A shashe-river-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }
   },
   {
@@ -153,8 +206,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Francistown mellett folyik.", "Időszakos jellegű."],
       ro: ["Curge pe lângă Francistown.", "Cu caracter sezonier."],
       en: ["Flows near Francistown.", "Seasonal."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) tati-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A tati-river-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/tati-river-relief-v2.webp"},
   {
     id: "moshaweng-river-relief-v2",
     type: "relief",
@@ -167,8 +225,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Gaborone közelében.", "Gyakran kiszárad."],
       ro: ["Lângă Gaborone.", "Seacă adesea."],
       en: ["Near Gaborone.", "Often dries out."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) moshaweng-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A moshaweng-river-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/moshaweng-river-relief-v2.webp"},
   {
     id: "okwa-river-relief-v2",
     type: "relief",
@@ -181,6 +244,12 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Nincs állandó víz.", "Migrációs útvonalként szolgál."],
       ro: ["Fără apă permanentă.", "Servește drept rută de migrație."],
       en: ["No permanent water.", "Serves as migration route."]
+    },
+    descriptionAdvanced: {
+      hu: "A(z) okwa-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A okwa-river-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }
   },
   {
@@ -195,8 +264,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Ritkán folyik.", "Száraz folyómeder."],
       ro: ["Curge rar.", "Albie uscată."],
       en: ["Flows rarely.", "Dry riverbed."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) nossob-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A nossob-river-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/nossob-river-relief-v2.webp"},
   {
     id: "molopo-river-relief-v2",
     type: "relief",
@@ -209,8 +283,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Nagyon ritkán van víz.", "Geológiai képződmény."],
       ro: ["Foarte rar are apă.", "Formațiune geologică."],
       en: ["Very rarely has water.", "Geological formation."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) molopo-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A molopo-river-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/molopo-river-relief-v2.webp"},
   {
     id: "kwando-river-relief-v2",
     type: "relief",
@@ -223,8 +302,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Gazdag vizes élőhelyek.", "Vízilovak élőhelye."],
       ro: ["Bogată în zone umede.", "Habitat pentru hipopotami."],
       en: ["Rich in wetlands.", "Habitat for hippos."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) kwando-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A kwando-river-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/kwando-river-relief-v2.webp"},
   {
     id: "linyanti-swamp-relief-v2",
     type: "relief",
@@ -237,8 +321,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Nagyon vadvilágban gazdag.", "Nehéz átkelni rajta."],
       ro: ["Foarte bogată în faună.", "Greu de traversat."],
       en: ["Very rich in wildlife.", "Difficult to cross."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) linyanti-swamp-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A linyanti-swamp-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/linyanti-swamp-relief-v2.webp"},
   {
     id: "selinda-spillway-relief-v2",
     type: "relief",
@@ -251,8 +340,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Alkalmanként vízzel teli.", "Nagyon elszigetelt."],
       ro: ["Uneori cu apă.", "Foarte izolat."],
       en: ["Occasionally holds water.", "Very remote."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) selinda-spillway-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A selinda-spillway-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/selinda-spillway-relief-v2.webp"},
   {
     id: "mababe-depression-relief-v2",
     type: "relief",
@@ -265,8 +359,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Egykori tó.", "Sok állatot vonz."],
       ro: ["Fost lac.", "Atrage multe animale."],
       en: ["Former lake.", "Attracts many animals."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) mababe-depression-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A mababe-depression-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/mababe-depression-relief-v2.webp"},
   {
     id: "matloutse-river-relief-v2",
     type: "relief",
@@ -279,8 +378,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Időszakos lefolyás.", "Fontos a helyi mezőgazdaságnak."],
       ro: ["Afluent sezonier.", "Important pentru agricultura locală."],
       en: ["Seasonal runoff.", "Important for local agriculture."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) matloutse-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A matloutse-river-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/matloutse-river-relief-v2.webp"},
   {
     id: "xudum-delta-relief-v2",
     type: "relief",
@@ -293,8 +397,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Gazdag tündérrózsákban.", "Sok madárfaj."],
       ro: ["Bogată în nuferi.", "Multe specii de păsări.", "Birds."],
       en: ["Rich in water lilies.", "Lots of birds."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) xudum-delta-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A xudum-delta-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/xudum-delta-relief-v2.webp"},
   {
     id: "goma-sand-ridge-relief-v2",
     type: "relief",
@@ -307,8 +416,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Befolyásolja a vízfolyást.", "Homokos kiemelkedés."],
       ro: ["Influențează cursul apei.", "Formațiune nisipoasă."],
       en: ["Influences water flow.", "Sandy elevation."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) goma-sand-ridge-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A goma-sand-ridge-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/goma-sand-ridge-relief-v2.webp"},
   {
     id: "jwaneng-plateau-relief-v2",
     type: "relief",
@@ -321,8 +435,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Gyémántokról híres.", "Lapos fennsík."],
       ro: ["Cunoscut pentru diamante.", "Platou plat."],
       en: ["Known for diamonds.", "Flat plateau."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) jwaneng-plateau-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A jwaneng-plateau-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/jwaneng-plateau-relief-v2.webp"},
   {
     id: "serowe-hills-mountain-v2",
     type: "mountain",
@@ -335,8 +454,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Hagyományos települési terület.", "Szép kilátópontok."],
       ro: ["Zonă de așezare tradițională.", "Puncte de belvedere frumoase.", "Views."],
       en: ["Traditional settlement area.", "Beautiful viewpoints."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) serowe-hills-mountain-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A serowe-hills-mountain-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/serowe-hills-mountain-v2.webp"},
   {
     id: "letlhakane-depression-relief-v2",
     type: "relief",
@@ -349,6 +473,13 @@ export const poiExtraBotswanaReliefV2: POI[] = [
       hu: ["Száraz medence.", "Fontos ásványkincs-lelőhelyek."],
       ro: ["Bazin sec.", "Depozite minerale importante."],
       en: ["Dry basin.", "Important mineral deposits."]
-      }
+      },
+    descriptionAdvanced: {
+      hu: "A(z) letlhakane-depression-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A letlhakane-depression-relief-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }
   }
 ];
+

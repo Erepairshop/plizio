@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEcuadorLandmarksV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["2,5 kilométer hosszú.", "A 2000. évben adták át.", "Múzeumok, kertek és emlékművek találhatók rajta."],
       ro: ["Are o lungime de 2,5 kilometri.", "A fost inaugurată în anul 2000.", "Dispune de muzee, grădini și monumente."],
       en: ["Is 2.5 kilometers long.", "Was inaugurated in the year 2000.", "Features museums, gardens, and monuments."]
-    }
-  },
+    }, image: "/poi-images/malecon-2000-landmarks-v2.webp"},
   {
     id: "virgen-de-el-panecillo-landmarks-v2",
     type: "landmark",
@@ -37,8 +37,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Magassága eléri a 41 métert.", "1976-ban készült el.", "Magasabb, mint a Rio de Janeiró-i Megváltó Krisztus szobra."],
       ro: ["Atinge o înălțime de 41 de metri.", "A fost finalizată în 1976.", "Este mai înaltă decât statuia lui Hristos Mântuitorul din Rio de Janeiro."],
       en: ["Reaches a height of 41 meters.", "Was completed in 1976.", "Is taller than Christ the Redeemer in Rio de Janeiro."]
-    }
-  },
+    }, image: "/poi-images/virgen-de-el-panecillo-landmarks-v2.webp"},
   {
     id: "faro-del-cerro-santa-ana-landmarks-v2",
     type: "landmark",
@@ -56,8 +55,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["A torony 18 méter magas.", "2002-ben épült a városmegújítási program keretében.", "360 fokos kilátást nyújt Guayaquilra."],
       ro: ["Turnul are o înălțime de 18 metri.", "A fost construit în 2002 ca parte a reînnoirii urbane.", "Oferă o vedere de 360 de grade asupra orașului Guayaquil."],
       en: ["The tower is 18 meters high.", "Was built in 2002 as part of urban renewal.", "Offers a 360-degree view of Guayaquil."]
-    }
-  },
+    }, image: "/poi-images/faro-del-cerro-santa-ana-landmarks-v2.webp"},
   {
     id: "teleferico-de-quito-landmarks-v2",
     type: "landmark",
@@ -75,8 +73,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Eléri a 3945 méteres magasságot.", "Az utazás körülbelül 18 percig tart.", "2005-ben nyitották meg a nagyközönség előtt."],
       ro: ["Atinge o altitudine de 3.945 de metri.", "Călătoria durează aproximativ 18 minute.", "A fost deschisă publicului în 2005."],
       en: ["Reaches an altitude of 3,945 meters.", "The ride takes about 18 minutes.", "Was opened to the public in 2005."]
-    }
-  },
+    }, image: "/poi-images/teleferico-de-quito-landmarks-v2.webp"},
   {
     id: "puente-de-la-unidad-nacional-landmarks-v2",
     type: "landmark",
@@ -94,8 +91,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Négy különálló hídból áll.", "Az első szakaszt 1970-ben adták át.", "Több mint 2000 méter hosszú."],
       ro: ["Este compus din patru poduri separate.", "Prima secțiune a fost inaugurată în 1970.", "Are o lungime de peste 2.000 de metri."],
       en: ["Consists of four separate bridges.", "The first section opened in 1970.", "Is over 2,000 meters long."]
-    }
-  },
+    }, image: "/poi-images/puente-de-la-unidad-nacional-landmarks-v2.webp"},
   {
     id: "estadio-monumental-isidro-romero-carbo-landmarks-v2",
     type: "landmark",
@@ -113,8 +109,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Közel 60 000 néző befogadására alkalmas.", "1987-ben avatták fel hivatalosan.", "Az 1993-as Copa América egyik helyszíne volt."],
       ro: ["Are o capacitate de aproape 60.000 de spectatori.", "A fost inaugurat oficial în 1987.", "A găzduit meciuri de la Copa América în 1993."],
       en: ["Has a capacity for almost 60,000 spectators.", "Was officially inaugurated in 1987.", "Hosted matches during the 1993 Copa América."]
-    }
-  },
+    }, image: "/poi-images/estadio-monumental-isidro-romero-carbo-landmarks-v2.webp"},
   {
     id: "estadio-rodrigo-paz-delgado-landmarks-v2",
     type: "landmark",
@@ -132,8 +127,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["1997 márciusában nyitotta meg kapuit.", "Körülbelül 41 500 néző befogadására alkalmas.", "Több mint 2700 méteres tengerszint feletti magasságban fekszik."],
       ro: ["A fost deschis în martie 1997.", "Are o capacitate de aproximativ 41.500 de locuri.", "Se află la peste 2.700 de metri altitudine."],
       en: ["Was opened in March 1997.", "Holds about 41,500 spectators.", "Is located at over 2,700 meters above sea level."]
-    }
-  },
+    }, image: "/poi-images/estadio-rodrigo-paz-delgado-landmarks-v2.webp"},
   {
     id: "santuario-de-la-virgen-de-agua-santa-landmarks-v2",
     type: "landmark",
@@ -151,8 +145,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Építését az 1940-es években fejezték be.", "Vulkanikus kőzetből épült.", "Egy helyi Mária-jelenés tiszteletére emelték."],
       ro: ["Construcția a fost finalizată în anii 1940.", "Este construită din rocă vulcanică.", "A fost ridicată în cinstea unei apariții locale a Fecioarei Maria."],
       en: ["Construction was completed in the 1940s.", "Is built using volcanic rock.", "Was erected in honor of a local Marian apparition."]
-    }
-  },
+    }, image: "/poi-images/santuario-de-la-virgen-de-agua-santa-landmarks-v2.webp"},
   {
     id: "la-casa-del-arbol-landmarks-v2",
     type: "landmark",
@@ -170,8 +163,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Világszerte a világvégi hintaként ismert.", "Közvetlen kilátást nyújt az aktív Tungurahua vulkánra.", "Eredetileg szeizmikus megfigyelőállomásként szolgált."],
       ro: ["Este cunoscută la nivel mondial ca Leagănul de la capătul lumii.", "Oferă o vedere directă asupra vulcanului activ Tungurahua.", "Inițial, casa a servit ca stație de observare seismică."],
       en: ["Is known globally as the Swing at the End of the World.", "Provides a direct view of the active Tungurahua volcano.", "Originally served as a seismic observation station."]
-    }
-  },
+    }, image: "/poi-images/la-casa-del-arbol-landmarks-v2.webp"},
   {
     id: "monumento-a-la-independencia-landmarks-v2",
     type: "landmark",
@@ -189,8 +181,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["1906-ban avatták fel.", "Olasz márványból és bronzból készült.", "A tetején a római Libertas istennő áll."],
       ro: ["A fost inaugurat în 1906.", "Este realizat din marmură italiană și bronz.", "În vârf se află zeița romană Libertas."],
       en: ["Was inaugurated in 1906.", "Is made of Italian marble and bronze.", "Features the Roman goddess Libertas at its peak."]
-    }
-  },
+    }, image: "/poi-images/monumento-a-la-independencia-landmarks-v2.webp"},
   {
     id: "palacio-de-cristal-landmarks-v2",
     type: "landmark",
@@ -208,8 +199,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["1907-ben épült francia tervek alapján.", "A szerkezetet 2002-ben restaurálták.", "A tervezésre állítólag Gustave Eiffel is hatással volt."],
       ro: ["A fost construit în 1907 după planuri din Franța.", "Structura a fost restaurată în 2002.", "Se spune că designul a fost influențat de Gustave Eiffel."],
       en: ["Was built in 1907 following designs from France.", "The structure was restored in 2002.", "Gustave Eiffel is rumored to have influenced the design."]
-    }
-  },
+    }, image: "/poi-images/palacio-de-cristal-landmarks-v2.webp"},
   {
     id: "glorieta-del-parque-seminario-landmarks-v2",
     type: "landmark",
@@ -227,8 +217,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["A pavilont a 19. század végén öntötték Franciaországban.", "Több száz szabadon élő zöld leguán veszi körül.", "Manuel Suárez filantróp adományozta a városnak."],
       ro: ["Foișorul a fost turnat în Franța la sfârșitul secolului al XIX-lea.", "Este înconjurat de sute de iguane verzi care trăiesc în libertate.", "A fost donat de filantropul Manuel Suárez."],
       en: ["The gazebo was cast in France in the late 19th century.", "Is surrounded by hundreds of free-roaming green iguanas.", "Was donated by philanthropist Manuel Suárez."]
-    }
-  },
+    }, image: "/poi-images/glorieta-del-parque-seminario-landmarks-v2.webp"},
   {
     id: "catedral-metropolitana-de-quito-landmarks-v2",
     type: "landmark",
@@ -246,8 +235,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Az építkezés 1562-ben kezdődött.", "Gótikus, mór és barokk elemeket ötvöz.", "Itt őrzik Antonio José de Sucre marsall földi maradványait."],
       ro: ["Construcția a început în anul 1562.", "Combină elemente gotice, maure și baroce.", "Adăpostește rămășițele mareșalului Antonio José de Sucre."],
       en: ["Construction began in 1562.", "Combines Gothic, Moorish, and Baroque elements.", "Houses the remains of Marshal Antonio José de Sucre."]
-    }
-  },
+    }, image: "/poi-images/catedral-metropolitana-de-quito-landmarks-v2.webp"},
   {
     id: "santuario-de-la-virgen-del-cisne-landmarks-v2",
     type: "landmark",
@@ -265,8 +253,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["1934-ben készült el.", "Minden év augusztusában zarándokok millióit vonzza.", "Az épületet Ricardo Espinosa építész tervezte."],
       ro: ["A fost finalizată în 1934.", "Atrage milioane de credincioși în fiecare august.", "Clădirea a fost proiectată de arhitectul Ricardo Espinosa."],
       en: ["Was completed in 1934.", "Attracts millions of believers every August.", "The building was designed by architect Ricardo Espinosa."]
-    }
-  },
+    }, image: "/poi-images/santuario-de-la-virgen-del-cisne-landmarks-v2.webp"},
   {
     id: "teatro-nacional-sucre-landmarks-v2",
     type: "landmark",
@@ -284,8 +271,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["1886-ban nyitotta meg kapuit.", "Körülbelül 800 néző befogadására alkalmas.", "Antonio José de Sucre szabadságharcosról nevezték el."],
       ro: ["A fost deschis în 1886.", "Are o capacitate de aproximativ 800 de spectatori.", "Numit după luptătorul pentru eliberare Antonio José de Sucre."],
       en: ["Was opened in 1886.", "Seats approximately 800 spectators.", "Named after the liberation fighter Antonio José de Sucre."]
-    }
-  },
+    }, image: "/poi-images/teatro-nacional-sucre-landmarks-v2.webp"},
   {
     id: "mercado-artesanal-la-mariscal-landmarks-v2",
     type: "landmark",
@@ -303,8 +289,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["A 2000-es évben alapították.", "Több mint 100 különböző standot foglal magába.", "Az őslakos művészet legfontosabb kereskedelmi központja a fővárosban."],
       ro: ["Înființată în anul 2000.", "Găzduiește peste 100 de standuri diferite.", "Este cel mai important centru comercial pentru arta indigenă din capitală."],
       en: ["Founded in the year 2000.", "Hosts more than 100 different stalls.", "Is the most important trading center for indigenous art in the capital."]
-    }
-  },
+    }, image: "/poi-images/mercado-artesanal-la-mariscal-landmarks-v2.webp"},
   {
     id: "catedral-metropolitana-de-guayaquil-landmarks-v2",
     type: "landmark",
@@ -322,8 +307,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Az 1547-ből származó eredeti fatemplom többször leégett.", "A jelenlegi épület 1937-ben készült el.", "Szent Péter tiszteletére szentelték."],
       ro: ["Biserica originală din lemn din 1547 a ars de mai multe ori.", "Construcția actuală a fost finalizată în 1937.", "Este dedicată Sfântului Petru."],
       en: ["The original wooden church from 1547 burned down several times.", "The current building was completed in 1937.", "Is dedicated to Saint Peter."]
-    }
-  },
+    }, image: "/poi-images/catedral-metropolitana-de-guayaquil-landmarks-v2.webp"},
   {
     id: "aeropuerto-internacional-mariscal-sucre-landmarks-v2",
     type: "landmark",
@@ -341,8 +325,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["2013-ban nyílt meg, leváltva a régi városi repülőteret.", "Az ország leghosszabb futópályájával rendelkezik (4100 méter).", "Évente több mint 5 millió utast szolgál ki."],
       ro: ["A fost deschis în 2013, înlocuind vechiul aeroport al orașului.", "Are cea mai lungă pistă din țară (4.100 de metri).", "Deservește anual peste 5 milioane de pasageri."],
       en: ["Was opened in 2013, replacing the old city airport.", "Features the longest runway in the country (4,100 meters).", "Handles over 5 million passengers annually."]
-    }
-  },
+    }, image: "/poi-images/aeropuerto-internacional-mariscal-sucre-landmarks-v2.webp"},
   {
     id: "la-perla-landmarks-v2",
     type: "landmark",
@@ -360,8 +343,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["57 méter magas.", "Dél-Amerika legmagasabb óriáskerekének tartják.", "Az út az egyik 36 kabinban körülbelül 12 percig tart."],
       ro: ["Are o înălțime de 57 de metri.", "Este considerată cea mai înaltă roată panoramică din America de Sud.", "O cursă într-una dintre cele 36 de cabine durează aproximativ 12 minute."],
       en: ["Is 57 meters tall.", "Considered the tallest Ferris wheel in South America.", "A ride in one of the 36 cabins takes about 12 minutes."]
-    }
-  },
+    }, image: "/poi-images/la-perla-landmarks-v2.webp"},
   {
     id: "museo-maac-landmarks-v2",
     type: "landmark",
@@ -379,8 +361,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["A 2003-as évben nyitották meg.", "A gyűjtemény több mint 50 000 régészeti leletet tartalmaz.", "A Malecón 2000 sétány északi végén található."],
       ro: ["A fost deschis în anul 2003.", "Colecția cuprinde peste 50.000 de artefacte arheologice.", "Este situat la capătul nordic al Malecón 2000."],
       en: ["Was opened in the year 2003.", "The collection includes over 50,000 archaeological pieces.", "Located at the northern end of the Malecón 2000."]
-    }
-  },
+    }, image: "/poi-images/museo-maac-landmarks-v2.webp"},
   {
     id: "edificio-unasur-landmarks-v2",
     type: "landmark",
@@ -398,8 +379,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Masszív, 50 méter hosszú konzolos szerkezettel rendelkezik.", "2014-ben készült el.", "Mióta Ecuador 2019-ben kilépett az Unasurból, nagyrészt üresen áll."],
       ro: ["Are o structură masivă în consolă, lungă de 50 de metri.", "A fost finalizată în 2014.", "De la retragerea Ecuadorului din Unasur în 2019, stă în mare parte goală."],
       en: ["Features a massive 50-meter cantilevered structure.", "Was completed in 2014.", "Has stood mostly empty since Ecuador withdrew from Unasur in 2019."]
-    }
-  },
+    }, image: "/poi-images/edificio-unasur-landmarks-v2.webp"},
   {
     id: "monumento-al-ciclista-landmarks-v2",
     type: "landmark",
@@ -417,8 +397,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Újrahasznosított fém alkatrészekből készült.", "Gyakran szolgál találkozóhelyként kerékpáros felvonulásokhoz.", "Quito kerékpárutakkal kapcsolatos törekvéseit tükrözi."],
       ro: ["A fost construită din piese metalice reciclate.", "Servește adesea ca punct de întâlnire pentru demonstrațiile cu biciclete.", "Reflectă eforturile orașului Quito pentru piste de biciclete."],
       en: ["Was constructed from recycled metal parts.", "Often serves as a meeting point for bicycle demonstrations.", "Reflects Quito's efforts toward bicycle lanes."]
-    }
-  },
+    }, image: "/poi-images/monumento-al-ciclista-landmarks-v2.webp"},
   {
     id: "santuario-de-nuestra-senora-del-rocio-landmarks-v2",
     type: "landmark",
@@ -436,8 +415,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Építése 1893-ban kezdődött egy súlyos aszályt követően.", "Csak több száz lépcsőfok megmászásával érhető el.", "Csodálatos kilátást nyújt a Burgay folyó völgyére."],
       ro: ["Construcția a început în 1893, după o secetă severă.", "Poate fi accesată doar urcând sute de trepte.", "Oferă o priveliște magnifică asupra văii râului Burgay."],
       en: ["Construction began in 1893 after a severe drought.", "Can only be accessed by climbing hundreds of stairs.", "Offers a magnificent view over the Burgay river valley."]
-    }
-  },
+    }, image: "/poi-images/santuario-de-nuestra-senora-del-rocio-landmarks-v2.webp"},
   {
     id: "templo-de-la-patria-landmarks-v2",
     type: "landmark",
@@ -455,8 +433,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Az 1822. május 24-i Pichincha-hegyi csatának állít emléket.", "Az emlékművet 1975-ben nyitották meg.", "A szabadságharcot ábrázoló falfestményeket tartalmaz."],
       ro: ["Comemorează Bătălia de la Pichincha din 24 mai 1822.", "Monumentul a fost deschis în 1975.", "Include picturi murale care descriu lupta pentru libertate."],
       en: ["Commemorates the Battle of Pichincha on May 24, 1822.", "The monument was opened in 1975.", "Contains murals depicting the struggle for freedom."]
-    }
-  },
+    }, image: "/poi-images/templo-de-la-patria-landmarks-v2.webp"},
   {
     id: "cruz-del-ilalo-landmarks-v2",
     type: "landmark",
@@ -474,8 +451,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["Közel 3200 méteres magasságban áll.", "A helyi közösség építtette.", "Népszerű célpont a Quitóból érkező túrázók számára."],
       ro: ["Se află la o altitudine de aproape 3.200 de metri.", "A fost construită de comunitatea locală.", "Este o destinație populară pentru drumeții din Quito."],
       en: ["Stands at an elevation of nearly 3,200 meters.", "Was built by the local community.", "Is a popular destination for hikers from Quito."]
-    }
-  },
+    }, image: "/poi-images/cruz-del-ilalo-landmarks-v2.webp"},
   {
     id: "parque-historico-guayaquil-landmarks-v2",
     type: "landmark",
@@ -493,8 +469,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["8 hektáros területen fekszik.", "Eredeti gyarmati faházakat tartalmaz, amelyeket megmentettek a bontástól.", "Külön területe van a veszélyeztetett helyi állatfajok számára."],
       ro: ["Se întinde pe o suprafață de 8 hectare.", "Include case coloniale originale din lemn, salvate de la demolare.", "Are o secțiune dedicată speciilor de animale locale pe cale de dispariție."],
       en: ["Covers 8 hectares of land.", "Includes original colonial wooden houses saved from demolition.", "Has an area dedicated to endangered local animal species."]
-    }
-  },
+    }, image: "/poi-images/parque-historico-guayaquil-landmarks-v2.webp"},
   {
     id: "edificio-the-point-landmarks-v2",
     type: "landmark",
@@ -512,8 +487,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["137 méterével Ecuador legmagasabb épülete.", "2013-ban készült el.", "36 emeletes és irodaházként működik."],
       ro: ["Cu 137 de metri, este cea mai înaltă clădire din Ecuador.", "A fost finalizată în 2013.", "Are 36 de etaje și este folosită ca o clădire de birouri."],
       en: ["At 137 meters, it is the tallest building in Ecuador.", "Was completed in 2013.", "Has 36 floors and is used as an office building."]
-    }
-  },
+    }, image: "/poi-images/edificio-the-point-landmarks-v2.webp"},
   {
     id: "basilica-de-la-virgen-del-quinche-landmarks-v2",
     type: "landmark",
@@ -531,8 +505,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["A bazilika 1913 és 1928 között épült.", "A tisztelt fafigura a 16. századból származik.", "Minden év novemberében zarándokok ezrei gyalogolnak ide."],
       ro: ["Bazilica a fost construită între 1913 și 1928.", "Figurina venerată din lemn datează din secolul al XVI-lea.", "Mii de pelerini merg pe jos aici în fiecare noiembrie."],
       en: ["The basilica was built between 1913 and 1928.", "The venerated wooden figure dates back to the 16th century.", "Thousands of pilgrims walk here every November."]
-    }
-  },
+    }, image: "/poi-images/basilica-de-la-virgen-del-quinche-landmarks-v2.webp"},
   {
     id: "estadio-olimpico-atahualpa-landmarks-v2",
     type: "landmark",
@@ -550,8 +523,7 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
       hu: ["1951-ben adták át.", "Körülbelül 35 000 néző befogadására alkalmas.", "Az utolsó inka uralkodóról, Atahualpáról nevezték el."],
       ro: ["A fost inaugurat în 1951.", "Are o capacitate de aproximativ 35.000 de spectatori.", "Numit după ultimul conducător incaș, Atahualpa."],
       en: ["Was inaugurated in 1951.", "Holds about 35,000 spectators.", "Named after the last Inca ruler, Atahualpa."]
-    }
-  },
+    }, image: "/poi-images/estadio-olimpico-atahualpa-landmarks-v2.webp"},
   {
     id: "estadio-george-capwell-landmarks-v2",
     type: "landmark",

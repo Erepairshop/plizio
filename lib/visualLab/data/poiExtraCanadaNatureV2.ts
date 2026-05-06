@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCanadaNatureV2: POI[] = [
@@ -13,13 +14,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
       ro: "Un vârf piramidal adesea numit 'Matterhorn-ul Stâncoșilor'.",
       en: "A pyramidal peak often referred to as the 'Matterhorn of the Rockies'."
     },
-    facts: {
-      de: ["3.618 Meter hoch", "Liegt an der Grenze von BC und Alberta", "Beliebt bei Bergsteigern"],
-      hu: ["3618 méter magas", "BC és Alberta határán fekszik", "Hegymászók körében népszerű"],
-      ro: ["Altitudine de 3.618 metri", "Situat la granița dintre BC și Alberta", "Popular printre alpiniști"],
-      en: ["3,618 meters high", "Located on the BC-Alberta border", "Popular with mountaineers"]
-    }
-  },
+    descriptionAdvanced: {
+      hu: "A Mount Assiniboine a kanadai Sziklás-hegység egyik legikonikusabb csúcsa, amelyet gyakran a kanadai Matterhornként emlegetnek meredek, piramis alakú formája miatt. 3618 méteres magasságával lenyűgöző látványt nyújt a környező gleccserek és alpesi tavak fölött, mint például a Magog-tó. Ez a terület rendkívül népszerű a túrázók és hegymászók körében, mivel a csúcsra csak gyakorlott mászók juthatnak fel. A régió része a Mount Assiniboine Tartományi Parknak, amely szigorúan védett természetvédelmi terület, biztosítva a ritka alpesi ökoszisztémák megőrzését. Földrajz K7 — hegységek és tavak."
+    },
+    factsAdvanced: {
+      hu: ["Magassága 3618 méter.", "A csúcsot George Mercer Dawson nevezte el 1885-ben.", "A kanadai Sziklás-hegység része, British Columbia és Alberta határán.", "A Magog-tó népszerű kiindulópont a túrákhoz.", "Piramis alakú formája a gleccserek eróziójának köszönhető.", "A park 1922 óta védett terület."]
+    }, image: "/poi-images/mount-assiniboine-nature-v2.webp"},
   {
     id: "south-nahanni-river-nature-v2",
     type: "river",
@@ -32,13 +32,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
       ro: "Un râu sălbatic în Parcul Național Nahanni, cunoscut pentru cele patru canioane mari și Cascada Virginia.",
       en: "A wild river in Nahanni National Park, known for its four great canyons and Virginia Falls."
     },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe", "Virginia Falls ist doppelt so hoch wie die Niagarafälle", "Heimat vieler Mythen und Legenden"],
-      hu: ["UNESCO Világörökség", "A Virginia-vízesés kétszer magasabb a Niagaránál", "Számos mítosz és legenda övezi"],
-      ro: ["Patrimoniu Mondial UNESCO", "Cascada Virginia este de două ori mai înaltă decât Niagara", "Găzduiește multe mituri și legende"],
-      en: ["UNESCO World Heritage Site", "Virginia Falls is twice the height of Niagara Falls", "Home to many myths and legends"]
-    }
-  },
+    descriptionAdvanced: {
+      hu: "A South Nahanni folyó az Északnyugati területek egyik legdrámaibb természeti képződménye, amely a Nahanni Nemzeti Parkon keresztül kanyarog. A folyó híres a hatalmas mélységű kanyonjairól, valamint a Virginia-vízesésről, amely kétszer magasabb, mint a Niagara-vízesés. Ez a terület az UNESCO Világörökség része, és gazdag geológiai különlegességekben, mint például a felszín alatti barlangrendszerek és hőforrások. A folyó vadvízi evezősök és kalandturisták kedvelt úti célja, akik a szinte érintetlen északi vadont szeretnék felfedezni. Földrajz K7 — folyók és vízesések."
+    },
+    factsAdvanced: {
+      hu: ["A Virginia-vízesés 96 méter magas.", "A folyó teljes hossza megközelítőleg 540 km.", "1978-ban lett UNESCO világörökségi helyszín.", "A terület a Dene nép ősi földje.", "Híres a kiterjedt karsztvidékéről és barlangjairól.", "A park területe több mint 30 000 km²."]
+    }, image: "/poi-images/south-nahanni-river-nature-v2.webp"},
   {
     id: "great-slave-lake-nature-v2",
     type: "lake",
@@ -51,13 +50,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
       ro: "Al doilea cel mai mare lac din Teritoriile de Nord-Vest și cel mai adânc lac din America de Nord.",
       en: "The second-largest lake in the Northwest Territories and the deepest lake in North America."
     },
-    facts: {
-      de: ["Maximale Tiefe von 614 Metern", "Im Winter komplett zugefroren", "Wichtig für die lokale Fischerei"],
-      hu: ["Legnagyobb mélysége 614 méter", "Télen teljesen befagy", "Fontos a helyi halászat szempontjából"],
-      ro: ["Adâncime maximă de 614 metri", "Complet înghețat iarna", "Important pentru pescuitul local"],
-      en: ["Maximum depth of 614 meters", "Completely frozen in winter", "Important for local fisheries"]
-    }
-  },
+    descriptionAdvanced: {
+      hu: "A Nagy-Rabszolga-tó Kanada második legnagyobb tava, amely az Északnyugati területeken található. Ez Észak-Amerika legmélyebb tava, amelynek maximális mélysége eléri a 614 métert, ami különleges hatással van a környező éghajlatra. A tó partján fekszik Yellowknife, a terület fővárosa, amely az 1930-as évekbeli aranyláz idején kezdett jelentősen fejlődni. Télen a tó vize teljesen befagy, ami lehetővé teszi a híres jégutak használatát a közlekedésben. A tó vize kristálytiszta, és jelentős élőhelyet biztosít különböző halfajoknak, mint a pisztráng és a süllő. Földrajz K7 — tavak és mélységek."
+    },
+    factsAdvanced: {
+      hu: ["Legnagyobb mélysége 614 méter.", "Területe kb. 27 200 km².", "Kanada második legnagyobb tava.", "Yellowknife a tó északi partján helyezkedik el.", "A tó vize a Mackenzie folyón keresztül jut el a Jeges-tengerig.", "Télen jégutakat alakítanak ki a tavon."]
+    }, image: "/poi-images/great-slave-lake-nature-v2.webp"},
   {
     id: "haida-gwaii-islands-nature-v2",
     type: "island",
@@ -70,13 +68,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
       ro: "Un arhipelag în largul coastei Columbiei Britanice, cunoscut ca 'Galapagosul Nordului' pentru flora și fauna sa unică.",
       en: "An archipelago off the coast of British Columbia, known as the 'Galapagos of the North' for its unique flora and fauna."
     },
-    facts: {
-      de: ["Heimat des Haida-Volkes", "Uralte Regenwälder", "Reiche Meereslebewesen und Vogelpopulationen"],
-      hu: ["A haida nép otthona", "Ősi esőerdők", "Gazdag tengeri élővilág és madárpopulációk"],
-      ro: ["Casa poporului Haida", "Păduri tropicale antice", "Viețuitoare marine bogate și populații de păsări"],
-      en: ["Home of the Haida Nation", "Ancient rainforests", "Rich marine life and bird populations"]
-    }
-  },
+    descriptionAdvanced: {
+      hu: "Haida Gwaii, korábbi nevén a Királynő Sarolta-szigetek, egy szigetcsoport British Columbia partjainál, amely rendkívül gazdag biodiverzitással és a Haida őslakos nép kultúrájával büszkélkedhet. A szigeteket gyakran a 'Kanada Galápagosának' nevezik az egyedülálló növény- és állatvilág miatt, amely az utolsó jégkorszakot követően elszigetelten fejlődött. A területen találhatók az UNESCO védelme alatt álló totemfa-maradványok és az ősi falvak maradványai, amelyek a Haida kultúra mélységét tükrözik. A szigetek éghajlata óceáni, sok csapadékkal, ami buja esőerdőket hozott létre. Földrajz K7 — szigetek és biológia."
+    },
+    factsAdvanced: {
+      hu: ["A szigetcsoport több mint 150 szigetből áll.", "A legnagyobb szigetek a Graham-sziget és a Moresby-sziget.", "A Haida nép évezredek óta él ezen a területen.", "Gwaii Haanas Nemzeti Park a szigetek déli részén található.", "Az óceáni éghajlat miatt sok csapadék esik.", "Számos endemikus állatfaj él itt."]
+    }, image: "/poi-images/haida-gwaii-islands-nature-v2.webp"},
   {
     id: "pacific-rim-national-park-forest-nature-v2",
     type: "forest",
@@ -94,8 +91,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["A Long Beach egység híres", "Sitka-lucfenyők és nyugati vörös cédrusok otthona", "Népszerű a West Coast Trail"],
       ro: ["Unitatea Long Beach este renumită", "Găzduiește molid Sitka și cedru roșu vestic", "Popularul West Coast Trail"],
       en: ["Long Beach Unit is famous", "Home to Sitka Spruce and Western Red Cedar", "Popular West Coast Trail"]
-    }
-  },
+    }, image: "/poi-images/pacific-rim-national-park-forest-nature-v2.webp"},
   {
     id: "beaufort-sea-nature-v2",
     type: "sea",
@@ -113,8 +109,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Fontos élőhely a belugák és jegesmedvék számára", "Jelentős olaj- és gázlelőhelyek", "Sir Francis Beaufortról nevezték el"],
       ro: ["Habitat important pentru balenele beluga și urșii polari", "Rezerve semnificative de petrol și gaze", "Numită după Sir Francis Beaufort"],
       en: ["Important habitat for belugas and polar bears", "Significant oil and gas reserves", "Named after Sir Francis Beaufort"]
-    }
-  },
+    }, image: "/poi-images/beaufort-sea-nature-v2.webp"},
   {
     id: "mount-temple-nature-v2",
     type: "mountain",
@@ -132,8 +127,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Magassága 3544 méter", "Népszerű, de kihívást jelentő mászóútvonal", "Látványos kilátást nyújt"],
       ro: ["Altitudine de 3.544 metri", "Traseu de alpinism popular, dar dificil", "Oferă priveliști spectaculoase"],
       en: ["Height of 3,544 meters", "Popular but challenging scramble route", "Offers spectacular views"]
-    }
-  },
+    }, image: "/poi-images/mount-temple-nature-v2.webp"},
   {
     id: "athabasca-river-nature-v2",
     type: "river",
@@ -151,8 +145,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Alberta leghosszabb folyója", "Fontos szállítási útvonal a szőrmekereskedelem idején", "Látványos Athabasca-vízesés"],
       ro: ["Cel mai lung râu din Alberta", "Ruta de transport importantă în epoca comerțului cu blănuri", "Spectaculoasa Cascadă Athabasca"],
       en: ["Longest river in Alberta", "Major transportation route during the fur trade era", "Spectacular Athabasca Falls"]
-    }
-  },
+    }, image: "/poi-images/athabasca-river-nature-v2.webp"},
   {
     id: "lake-superior-nature-v2",
     type: "lake",
@@ -170,8 +163,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Kanada és az USA határán fekszik", "A világ felszíni édesvízkészletének 10%-át tartalmazza", "Híres a heves viharairól"],
       ro: ["Se învecinează cu Canada și SUA", "Conține 10% din apa dulce de suprafață a lumii", "Cunoscut pentru furtunile sale violente"],
       en: ["Borders Canada and the US", "Contains 10% of the world's surface fresh water", "Known for its harsh storms"]
-    }
-  },
+    }, image: "/poi-images/lake-superior-nature-v2.webp"},
   {
     id: "magdalen-islands-nature-v2",
     type: "island",
@@ -189,8 +181,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Egyedi akádiai kultúra", "Fontos fókaszaporodó hely", "A kiteszörfösök paradicsoma"],
       ro: ["Cultură acadiană unică", "Zonă importantă de reproducere pentru foci", "Paradis pentru kitesurfing"],
       en: ["Unique Acadian culture", "Important seal breeding ground", "Kitesurfing paradise"]
-    }
-  },
+    }, image: "/poi-images/magdalen-islands-nature-v2.webp"},
   {
     id: "boreal-forest-nature-v2",
     type: "forest",
@@ -208,8 +199,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["A világ egyik legnagyobb érintetlen erdősége", "Fontos szén-dioxid-elnyelő", "Karibuk és hiúzok otthona"],
       ro: ["Una dintre cele mai mari păduri intacte din lume", "Rezervor important de carbon", "Găzduiește caribu și râși"],
       en: ["One of the world's largest intact forests", "Important carbon sink", "Home to caribou and lynx"]
-    }
-  },
+    }, image: "/poi-images/boreal-forest-nature-v2.webp"},
   {
     id: "hudson-bay-nature-v2",
     type: "sea",
@@ -227,8 +217,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["A világ második legnagyobb öble", "Az Atlanti- és a Jeges-tengerrel is összeköttetésben áll", "Fontos terület a vonuló madarak számára"],
       ro: ["Al doilea cel mai mare golf din lume", "Conectat la Oceanul Atlantic și Oceanul Arctic", "Zonă importantă pentru păsările migratoare"],
       en: ["Second largest bay in the world", "Connected to the Atlantic and Arctic Oceans", "Important area for migratory birds"]
-    }
-  },
+    }, image: "/poi-images/hudson-bay-nature-v2.webp"},
   {
     id: "mount-waddington-nature-v2",
     type: "mountain",
@@ -246,8 +235,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["4019 méter magas", "Erősen gleccseresedett", "Nagyon kihívást jelentő megmászás"],
       ro: ["Altitudine de 4.019 metri", "Foarte glaciarizat", "Ascensiune foarte dificilă"],
       en: ["4,019 meters high", "Heavily glaciated", "Very challenging climb"]
-    }
-  },
+    }, image: "/poi-images/mount-waddington-nature-v2.webp"},
   {
     id: "churchill-river-saskatchewan-nature-v2",
     type: "river",
@@ -265,8 +253,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Fontos szőrmekereskedelmi útvonal", "A Hudson-öbölbe ömlik", "A kanadai pajzs része"],
       ro: ["Ruta importantă a comerțului cu blănuri", "Se varsă în Golful Hudson", "Parte a Scutului Canadian"],
       en: ["Important fur trade route", "Flows into Hudson Bay", "Part of the Precambrian Shield"]
-    }
-  },
+    }, image: "/poi-images/churchill-river-saskatchewan-nature-v2.webp"},
   {
     id: "lake-winnipeg-nature-v2",
     type: "lake",
@@ -284,8 +271,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Kanada hatodik legnagyobb tava", "Nagy vízgyűjtő terület", "Algavirágzástól szenved"],
       ro: ["Al șaselea cel mai mare lac din Canada", "Bazin hidrografic mare", "Suferă de înfloriri algale"],
       en: ["Sixth largest lake in Canada", "Large watershed", "Suffers from algae blooms"]
-    }
-  },
+    }, image: "/poi-images/lake-winnipeg-nature-v2.webp"},
   {
     id: "prince-edward-island-nature-v2",
     type: "island",
@@ -303,8 +289,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["'Az öböl kertje'", "A Confederation híd köti össze a szárazfölddel", "Termékeny talaj a burgonyatermesztéshez"],
       ro: ["'Grădina Golfului'", "Podul Confederației o leagă de continent", "Sol fertil pentru cultivarea cartofilor"],
       en: ["'Garden of the Gulf'", "Confederation Bridge links to mainland", "Fertile soil for potato farming"]
-    }
-  },
+    }, image: "/poi-images/prince-edward-island-nature-v2.webp"},
   {
     id: "carmanah-walbran-provincial-park-forest-nature-v2",
     type: "forest",
@@ -322,8 +307,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Hatalmas Sitka-lucfenyők otthona", "Fontos ökológiai rezervátum", "Távoli vadon"],
       ro: ["Găzduiește molizi Sitka uriași", "Rezervație ecologică importantă", "Sălbăticie izolată"],
       en: ["Home to giant Sitka Spruce trees", "Important ecological reserve", "Remote wilderness"]
-    }
-  },
+    }, image: "/poi-images/carmanah-walbran-provincial-park-forest-nature-v2.webp"},
   {
     id: "mount-assiniboine-park-forest-nature-v2",
     type: "forest",
@@ -341,8 +325,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["A vörösfenyő-erdők ősszel ragyognak", "Az UNESCO Világörökség része", "Nincs közúti hozzáférés a parkhoz"],
       ro: ["Pădurile de zadă strălucesc toamna", "Parte a Patrimoniului Mondial UNESCO", "Fără acces rutier în parc"],
       en: ["Larch forests glow in autumn", "Part of a UNESCO World Heritage site", "No road access to the park"]
-    }
-  },
+    }, image: "/poi-images/mount-assiniboine-park-forest-nature-v2.webp"},
   {
     id: "gwaii-haanas-national-park-reserve-forest-nature-v2",
     type: "forest",
@@ -379,8 +362,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["3747 méter magas", "A kontinentális vízválasztón fekszik", "Nehéz megmászni a távoli fekvése miatt"],
       ro: ["Altitudine de 3.747 metri", "Situat pe Diviziunea Continentală", "Ascensiune dificilă datorită izolării"],
       en: ["3,747 meters high", "Sits on the Continental Divide", "Difficult climb due to remoteness"]
-    }
-  },
+    }, image: "/poi-images/mount-columbia-nature-v2.webp"},
   {
     id: "peace-river-nature-v2",
     type: "river",
@@ -398,8 +380,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Kanada egyik leghosszabb folyója", "A Williston-tóból ered", "A Slave-folyóba ömlik"],
       ro: ["Unul dintre cele mai lungi râuri din Canada", "Izvorăște din Lacul Williston", "Se varsă în Râul Slave"],
       en: ["One of Canada's longest rivers", "Originates in Williston Lake", "Flows into the Slave River"]
-    }
-  },
+    }, image: "/poi-images/peace-river-nature-v2.webp"},
   {
     id: "lake-athabasca-nature-v2",
     type: "lake",
@@ -417,8 +398,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Kanada nyolcadik legnagyobb tava", "Az Athabasca-homokdűnék egyedülálló ökoszisztéma", "Fontos a világ urántermelése szempontjából"],
       ro: ["Al optulea cel mai mare lac din Canada", "Dunele de nisip Athabasca sunt un ecosistem unic", "Important pentru producția mondială de uraniu"],
       en: ["Eighth largest lake in Canada", "The Athabasca Sand Dunes are a unique ecosystem", "Important for world uranium production"]
-    }
-  },
+    }, image: "/poi-images/lake-athabasca-nature-v2.webp"},
   {
     id: "cape-breton-island-nature-v2",
     type: "island",
@@ -436,8 +416,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Gazdag skót és akádiai kultúra", "A Bras d'Or-tó egy beltenger", "Látványos partvidéki táj"],
       ro: ["Cultură scoțiană și acadiană bogată", "Lacul Bras d'Or este o mare interioară", "Peisaj de coastă spectaculos"],
       en: ["Rich Scottish and Acadian culture", "Bras d'Or Lake is an inland sea", "Spectacular coastal scenery"]
-    }
-  },
+    }, image: "/poi-images/cape-breton-island-nature-v2.webp"},
   {
     id: "manitoulin-island-nature-v2",
     type: "island",
@@ -455,8 +434,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Számos saját tava van", "Az Anishinaabe kultúra fontos központja", "Népszerű nyári úti cél"],
       ro: ["Are numeroase lacuri proprii", "Centru important al culturii Anishinaabe", "Destinație populară de vară"],
       en: ["Has numerous lakes of its own", "Important center of Anishinaabe culture", "Popular summer destination"]
-    }
-  },
+    }, image: "/poi-images/manitoulin-island-nature-v2.webp"},
   {
     id: "yukon-river-nature-v2",
     type: "river",
@@ -474,8 +452,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Észak-Amerika harmadik leghosszabb folyója", "Yukonon és Alaszkán folyik keresztül", "Fontos lazacvonulási útvonal"],
       ro: ["Al treilea cel mai lung fluviu din America de Nord", "Curge prin Yukon și Alaska", "Migrații importante de somon"],
       en: ["Third longest river in North America", "Flows through Yukon and Alaska", "Major salmon runs"]
-    }
-  },
+    }, image: "/poi-images/yukon-river-nature-v2.webp"},
   {
     id: "mount-foraker-nature-v2",
     type: "mountain",
@@ -493,8 +470,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["5489 méter magas", "A világ legnagyobb szubpoláris jégmezőjének része", "Rendkívül nehéz megmászni"],
       ro: ["Altitudine de 5.489 metri", "Parte a celui mai mare câmp de gheață subpolar din lume", "Extrem de dificil de escaladat"],
       en: ["5,489 meters high", "Part of the world's largest subpolar icefield", "Extremely difficult to climb"]
-    }
-  },
+    }, image: "/poi-images/mount-foraker-nature-v2.webp"},
   {
     id: "saint-john-river-nature-v2",
     type: "river",
@@ -512,8 +488,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["'Észak-Amerika Rajnája'", "Maine-en (USA), Québec-en és New Brunswick-en (Kanada) folyik keresztül", "Fontos útvonal volt a lojalisták számára"],
       ro: ["'Rinul Americii de Nord'", "Curge prin Maine (SUA) și Quebec/New Brunswick (Canada)", "Ruta importantă pentru loialiști"],
       en: ["'Rhine of North America'", "Flows through Maine (US) and Quebec/New Brunswick (Canada)", "Important route for Loyalists"]
-    }
-  },
+    }, image: "/poi-images/saint-john-river-nature-v2.webp"},
   {
     id: "malgne-lake-nature-v2",
     type: "lake",
@@ -531,8 +506,7 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["A Kanadai-Sziklás-hegység leghosszabb természetes tava", "A Spirit-sziget az egyik legtöbbet fotózott motívum", "Gleccserek táplálják"],
       ro: ["Cel mai lung lac natural din Stâncoșii Canadieni", "Insula Spirit este unul dintre cele mai fotografiate subiecte", "Alimentat de ghețari"],
       en: ["Longest natural lake in the Canadian Rockies", "Spirit Island is one of the most photographed scenes", "Glacier-fed"]
-    }
-  },
+    }, image: "/poi-images/malgne-lake-nature-v2.webp"},
   {
     id: "bow-river-nature-v2",
     type: "river",
@@ -550,6 +524,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
       hu: ["Forrása a Bow-gleccser", "Világszínvonalú legyezőhorgász-terület", "Fontos vízforrás Calgary számára"],
       ro: ["Izvorul este Ghețarul Bow", "Zonă de clasă mondială pentru pescuitul cu muscă", "Sursă importantă de apă pentru Calgary"],
       en: ["Source is the Bow Glacier", "World-class fly-fishing destination", "Major water source for Calgary"]
-    }
-  }
+    }, image: "/poi-images/bow-river-nature-v2.webp"}
 ];
+

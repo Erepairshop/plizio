@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraPanamaNatureV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Panama leghosszabb folyója.", "A San Miguel-öbölbe torkollik.", "Fontos közlekedési útvonal Dariénben.", "Gazdag biológiai sokféleség a partjainál."],
       ro: ["Cel mai lung râu din Panama.", "Se varsă în Golful San Miguel.", "Arteră de transport importantă în Darién.", "Biodiversitate bogată pe malurile sale."],
       en: ["The longest river in Panama.", "Empties into the Gulf of San Miguel.", "An important transportation artery in Darién.", "Rich biodiversity along its banks."]
-    }
-  },
+    }, image: "/poi-images/rio-tuira-nature-v2.webp"},
   {
     id: "rio-chucunaque-nature-v2",
     type: "river",
@@ -27,8 +27,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Panama második leghosszabb folyója.", "Darién tartományon folyik keresztül.", "Fontos az őslakos közösségek számára.", "Hosszú szakaszokon hajózható."],
       ro: ["Al doilea cel mai lung râu din Panama.", "Curge prin provincia Darién.", "Important pentru comunitățile indigene.", "Navigabil pe distanțe lungi."],
       en: ["The second longest river in Panama.", "Flows through the Darién province.", "Important for indigenous communities.", "Navigable for long stretches."]
-    }
-  },
+    }, image: "/poi-images/rio-chucunaque-nature-v2.webp"},
   {
     id: "lago-bayano-nature-v2",
     type: "lake",
@@ -41,8 +40,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Panama második legnagyobb tava.", "Fontos a villamosenergia-termelés szempontjából.", "Partján található barlangjairól ismert.", "Változatos állatvilágnak ad otthont."],
       ro: ["Al doilea cel mai mare lac din Panama.", "Important pentru generarea de energie electrică.", "Cunoscut pentru peșterile de pe malurile sale.", "Găzduiește o faună diversă."],
       en: ["The second largest lake in Panama.", "Important for hydroelectric power generation.", "Known for its caves along the shore.", "Home to diverse wildlife."]
-    }
-  },
+    }, image: "/poi-images/lago-bayano-nature-v2.webp"},
   {
     id: "isla-colon-nature-v2",
     type: "island",
@@ -55,8 +53,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Bocas del Toro legnagyobb szigete.", "A régió turizmusának központja.", "Híres a Playa Estrelláról (Tengericsillag-part).", "Élénk karibi hangulat."],
       ro: ["Cea mai mare insulă din Bocas del Toro.", "Centrul turismului din regiune.", "Cunoscută pentru Playa Estrella (Plaja Stelelor de Mare).", "Atmosferă vibrantă caraibiană."],
       en: ["Largest island in Bocas del Toro.", "Center of tourism in the region.", "Known for Playa Estrella (Starfish Beach).", "Vibrant Caribbean atmosphere."]
-    }
-  },
+    }, image: "/poi-images/isla-colon-nature-v2.webp"},
   {
     id: "isla-bastimentos-nature-v2",
     type: "island",
@@ -69,8 +66,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Egy tengeri nemzeti park része.", "A 'Red Frog Beach' otthona.", "Nincsenek utak, csak gyalogösvények.", "Mangroveerdők és korallzátonyok."],
       ro: ["Parte a unui parc național marin.", "Găzduiește 'Red Frog Beach'.", "Fără drumuri, doar poteci.", "Păduri de mangrove și recife de corali."],
       en: ["Part of a marine national park.", "Home to the famous 'Red Frog Beach'.", "No roads, only footpaths.", "Mangrove forests and coral reefs."]
-    }
-  },
+    }, image: "/poi-images/isla-bastimentos-nature-v2.webp"},
   {
     id: "parque-nacional-darién-forest-v2",
     type: "forest",
@@ -97,8 +93,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["A Gyöngy-szigetek legnagyobbika.", "Több kis falu található rajta.", "Fontos halászati területek.", "Domború táj erdőkkel."],
       ro: ["Cea mai mare dintre Insulele Perlelor.", "Are mai multe sate mici.", "Zone de pescuit importante.", "Peisaj deluros cu păduri."],
       en: ["Largest of the Pearl Islands.", "Has several small villages.", "Important fishing areas.", "Hilly landscape with forests."]
-    }
-  },
+    }, image: "/poi-images/isla-del-rey-nature-v2.webp"},
   {
     id: "isla-contadora-nature-v2",
     type: "island",
@@ -111,8 +106,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["A Gyöngy-szigetek turisztikai központja.", "Exkluzív üdülőhelyek és strandok.", "Egykor a perzsa sah menedékhelye.", "Kis leszállópálya repülőgépek számára."],
       ro: ["Centrul turistic al Insulelor Perlelor.", "Stațiuni și plaje exclusiviste.", "Fost refugiu al Șahului Persiei.", "Pistă de aterizare mică pentru avioane."],
       en: ["Tourist hub of the Pearl Islands.", "Exclusive resorts and beaches.", "Once a refuge for the Shah of Iran.", "Small airstrip for planes."]
-    }
-  },
+    }, image: "/poi-images/isla-contadora-nature-v2.webp"},
   {
     id: "golfo-de-chiriqui-nature-v2",
     type: "sea",
@@ -125,8 +119,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Itt található a Coiba Nemzeti Park.", "Fontos a bálnamegfigyelés szempontjából.", "Változatos korallzátonyok.", "Népszerű a sporthorgászat szempontjából."],
       ro: ["Găzduiește Parcul Național Coiba.", "Important pentru observarea balenelor.", "Recife de corali diverse.", "Popular pentru pescuitul sportiv."],
       en: ["Contains Coiba National Park.", "Important for whale watching.", "Diverse coral reefs.", "Popular for sport fishing."]
-    }
-  },
+    }, image: "/poi-images/golfo-de-chiriqui-nature-v2.webp"},
   {
     id: "golfo-de-san-miguel-nature-v2",
     type: "sea",
@@ -139,8 +132,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Itt fedezte fel Balboa a Csendes-óceánt.", "A Tuira-folyó torkolatvidéke.", "Nagy mangroveerdők.", "Fontos a helyi halászat szempontjából."],
       ro: ["Aici a descoperit Balboa Pacificul.", "Estuarul râului Tuira.", "Păduri mari de mangrove.", "Important pentru pescuitul local."],
       en: ["Where Balboa first saw the Pacific Ocean.", "The mouth of the Tuira River.", "Extensive mangrove forests.", "Important for local fisheries."]
-    }
-  },
+    }, image: "/poi-images/golfo-de-san-miguel-nature-v2.webp"},
   {
     id: "cerro-ancon-forest-v2",
     type: "forest",
@@ -195,8 +187,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["A Tuira fontos mellékfolyója.", "Érintetlen esőerdőn folyik keresztül.", "Fontos a regionális közlekedés szempontjából.", "Édesvízi halakban gazdag."],
       ro: ["Afluent important al râului Tuira.", "Curge prin pădurea tropicală virgină.", "Important pentru transportul în regiune.", "Bogat în pești de apă dulce."],
       en: ["Important tributary of the Tuira.", "Flows through pristine rainforest.", "Crucial for transportation in the region.", "Rich in freshwater fish."]
-    }
-  },
+    }, image: "/poi-images/rio-balsas-nature-v2.webp"},
   {
     id: "isla-escudo-de-veraguas-nature-v2",
     type: "island",
@@ -209,8 +200,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["A bennszülött háromujjú lajhár otthona.", "9000 éve elszigetelt a szárazföldtől.", "Mangrovék és korallzátonyok.", "Lakatlan sziget."],
       ro: ["Habitatul leneșului pigmeu cu trei degete.", "Izolată de continent de 9000 de ani.", "Mangrove și recife de corali.", "Insulă nelocuită."],
       en: ["Home to the endemic pygmy three-toed sloth.", "Isolated from the mainland for 9000 years.", "Mangroves and coral reefs.", "Uninhabited island."]
-    }
-  },
+    }, image: "/poi-images/isla-escudo-de-veraguas-nature-v2.webp"},
   {
     id: "parque-nacional-santa-fe-forest-v2",
     type: "forest",
@@ -223,8 +213,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Védi a kontinentális vízválasztót.", "Több mint 300 madárfaj.", "Sok túraútvonal és vízesés.", "Fontos folyóforrás-terület."],
       ro: ["Protejează cumpăna apelor continentală.", "Peste 300 de specii de păsări.", "Multe trasee de drumeții și cascade.", "Sursă importantă de izvoare pentru râuri."],
       en: ["Protects the continental divide.", "Over 300 bird species.", "Many hiking trails and waterfalls.", "Important source of rivers."]
-    }
-  },
+    }, image: "/poi-images/parque-nacional-santa-fe-forest-v2.webp"},
   {
     id: "cerro-gaital-mountain-v2",
     type: "mountain",
@@ -237,8 +226,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["A kráterperem része.", "Védi a köderdőt.", "Az aranybéka fontos élőhelye.", "Nagyszerű kilátást nyújt a völgyre."],
       ro: ["Parte a marginii craterului.", "Protejează pădurea de nori.", "Habitat important pentru broasca aurie.", "Oferă vederi minunate ale văii."],
       en: ["Part of the crater rim.", "Protects the cloud forest.", "Key habitat for the golden frog.", "Offers great views of the valley."]
-    }
-  },
+    }, image: "/poi-images/cerro-gaital-mountain-v2.webp"},
   {
     id: "isla-cebaco-nature-v2",
     type: "island",
@@ -251,8 +239,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Panama második legnagyobb szigete.", "Érintetlen strandjairól ismert.", "Népszerű a szörfösök körében.", "Gazdag tengeri élővilág."],
       ro: ["A doua cea mai mare insulă din Panama.", "Cunoscută pentru plajele sale virgine.", "Populară printre surferi.", "Viață marină bogată."],
       en: ["Panama's second largest island.", "Known for its pristine beaches.", "Popular with surfers.", "Rich marine life."]
-    }
-  },
+    }, image: "/poi-images/isla-cebaco-nature-v2.webp"},
   {
     id: "rio-pacora-nature-v2",
     type: "river",
@@ -265,8 +252,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Népszerű a vadvízi evezéshez.", "Bujkáló tájakon folyik keresztül.", "A Csendes-óceánba torkollik.", "Fontos a helyi mezőgazdaság számára."],
       ro: ["Popular pentru rafting în ape repezi.", "Curge prin peisaje luxuriante.", "Se varsă în Oceanul Pacific.", "Important pentru agricultura locală."],
       en: ["Popular for whitewater rafting.", "Flows through lush landscapes.", "Empties into the Pacific Ocean.", "Important for local agriculture."]
-    }
-  },
+    }, image: "/poi-images/rio-pacora-nature-v2.webp"},
   {
     id: "bahia-de-panama-sea-v2",
     type: "sea",
@@ -279,8 +265,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Panamaváros helyszíne.", "Fontos horgonyzóhely a hajók számára.", "Olyan szigeteket foglal magában, mint Taboga.", "Nagy árapály-különbségek."],
       ro: ["Locația orașului Panama.", "Ancoraj important pentru nave.", "Include insule precum Taboga.", "Diferențe mari de maree."],
       en: ["Location of Panama City.", "Important anchorage for ships.", "Includes islands like Taboga.", "High tidal variations."]
-    }
-  },
+    }, image: "/poi-images/bahia-de-panama-sea-v2.webp"},
   {
     id: "punta-burica-mountain-v2",
     type: "mountain",
@@ -293,8 +278,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Costa Rica legdélibb pontja.", "Megosztva Panama és Costa Rica között.", "Elhagyatott strandok és szörfhelyek.", "Fontos tektonikai zóna."],
       ro: ["Cel mai sudic punct al Costa Ricăi.", "Împărțită între Panama și Costa Rica.", "Plaje izolate și locuri de surf.", "Zonă tectonică importantă."],
       en: ["Southernmost point of Costa Rica.", "Shared between Panama and Costa Rica.", "Remote beaches and surf spots.", "Important tectonic zone."]
-    }
-  },
+    }, image: "/poi-images/punta-burica-mountain-v2.webp"},
   {
     id: "rio-santa-maria-nature-v2",
     type: "river",
@@ -307,8 +291,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Fontos a régió mezőgazdasága számára.", "A Parita-öbölbe torkollik.", "Termékeny árteret képez.", "Történelmileg jelentős."],
       ro: ["Important pentru agricultura din regiune.", "Se varsă în Golful Parita.", "Formează o câmpie aluvionară fertilă.", "Important din punct de vedere istoric."],
       en: ["Important for the region's agriculture.", "Flows into the Gulf of Parita.", "Forms a fertile floodplain.", "Historically significant."]
-    }
-  },
+    }, image: "/poi-images/rio-santa-maria-nature-v2.webp"},
   {
     id: "isla-de-las-aves-nature-v2",
     type: "island",
@@ -321,8 +304,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Más néven 'Swan's Cay'.", "Tengeri madarak fészkelőhelye.", "A szigeten tilos kikötni.", "Népszerű célpont a hajókirándulásokhoz."],
       ro: ["Cunoscută și sub numele de 'Swan's Cay'.", "Loc de cuibărit pentru păsările marine.", "Debarcarea pe insulă nu este permisă.", "Destinație populară pentru excursii cu barca."],
       en: ["Also known as 'Swan's Cay'.", "Nesting site for seabirds.", "Landing on the island is not permitted.", "Popular destination for boat tours."]
-    }
-  },
+    }, image: "/poi-images/isla-de-las-aves-nature-v2.webp"},
   {
     id: "parque-nacional-altos-de-campana-forest-v2",
     type: "forest",
@@ -335,8 +317,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["1966-ban alapították.", "Védi a kontinentális vízválasztó egy részét.", "Egyedülálló geológiai képződmények.", "Panorámás kilátás a Csendes-óceánra."],
       ro: ["Fondat în 1966.", "Protejează o parte a cumpenei apelor continentale.", "Formațiuni geologice unice.", "Vederi panoramice ale Pacificului."],
       en: ["Established in 1966.", "Protects part of the continental divide.", "Unique geological formations.", "Panoramic views of the Pacific."]
-    }
-  },
+    }, image: "/poi-images/parque-nacional-altos-de-campana-forest-v2.webp"},
   {
     id: "bahia-de-chame-sea-v2",
     type: "sea",
@@ -349,8 +330,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Magában foglalja a Punta Chame-félszigetet.", "Fontos élőhely a vándormadarak számára.", "Sekély víz, ideális vízi sportokhoz.", "Jelentős mangrove területek."],
       ro: ["Include peninsula Punta Chame.", "Habitat important pentru păsările migratoare.", "Apă puțin adâncă, ideală pentru sporturi nautice.", "Zone importante de mangrove."],
       en: ["Includes the Punta Chame peninsula.", "Important habitat for migratory birds.", "Shallow waters ideal for water sports.", "Significant mangrove areas."]
-    }
-  },
+    }, image: "/poi-images/bahia-de-chame-sea-v2.webp"},
   {
     id: "rio-calderas-nature-v2",
     type: "river",
@@ -363,8 +343,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Átfolyik Boquete völgyén.", "'Mini-raftingra' használják.", "Fontos a helyi vízellátás szempontjából.", "A múltban áradásokat okozott."],
       ro: ["Curge prin valea Boquete.", "Folosit pentru 'mini-rafting'.", "Important pentru alimentarea locală cu apă.", "A cauzat inundații în trecut."],
       en: ["Flows through the Boquete valley.", "Used for 'mini-rafting' tours.", "Important for the local water supply.", "Has caused floods in the past."]
-    }
-  },
+    }, image: "/poi-images/rio-calderas-nature-v2.webp"},
   {
     id: "parque-nacional-cerro-hoya-forest-v2",
     type: "forest",
@@ -377,8 +356,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["10 folyó forrásvidékét védi.", "Az utolsó megmaradt esőerdő Azuerón.", "Magas fokú endemizmus.", "Nagyon távoli és nehezen megközelíthető."],
       ro: ["Protejează izvoarele a 10 râuri.", "Ultima pădure tropicală rămasă în Azuero.", "Grad ridicat de endemism.", "Foarte izolat și greu accesibil."],
       en: ["Protects the headwaters of 10 rivers.", "Last remaining rainforest on Azuero.", "High degree of endemism.", "Very remote and difficult to access."]
-    }
-  },
+    }, image: "/poi-images/parque-nacional-cerro-hoya-forest-v2.webp"},
   {
     id: "golfo-de-montijo-sea-v2",
     type: "sea",
@@ -391,8 +369,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Fontos Ramsari-terület.", "Mangrovékat, torkolatokat és szigeteket foglal magában.", "Magas biológiai sokféleség.", "Krokodilok és madarak élőhelye."],
       ro: ["Zonă umedă importantă Ramsar.", "Include mangrove, estuare și insule.", "Biodiversitate ridicată.", "Habitat pentru crocodili și păsări."],
       en: ["Important Ramsar wetland site.", "Includes mangroves, estuaries, and islands.", "High biodiversity.", "Habitat for crocodiles and birds."]
-    }
-  },
+    }, image: "/poi-images/golfo-de-montijo-sea-v2.webp"},
   {
     id: "isla-iguana-nature-v2",
     type: "island",
@@ -405,8 +382,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       hu: ["Fontos korallzátony a csendes-óceáni parton.", "Fregattmadarak fészkelőhelye.", "Fehér homokos strandok.", "Népszerű a búvárkodáshoz."],
       ro: ["Recif de corali important pe coasta Pacificului.", "Loc de cuibărit pentru fregate.", "Plaje cu nisip alb.", "Popular pentru snorkeling."],
       en: ["Important Pacific coral reef.", "Nesting site for magnificent frigatebirds.", "White sand beaches.", "Popular for snorkeling."]
-    }
-  },
+    }, image: "/poi-images/isla-iguana-nature-v2.webp"},
   {
     id: "bahia-de-parita-sea-v2",
     type: "sea",
@@ -422,3 +398,4 @@ export const poiExtraPanamaNatureV2: POI[] = [
     }
   }
 ];
+

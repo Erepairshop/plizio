@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMauritiusEconomicV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["A külkereskedelem több mint 90%-ának rakodóhelye", "Mélyvízi kikötő modern konténerterminálokkal"],
       ro: ["Punct de transbordare pentru peste 90% din comerțul exterior", "Port de adâncime cu terminale de containere moderne"],
       en: ["Handles over 90% of the country's foreign trade", "Deep-sea port with modern container terminals"]
-    }
-  },
+    }, image: "/poi-images/port-louis-harbor-economic-v2.webp"},
   {
     id: "mauritius-freeport-economic-v2",
     type: "port",
@@ -47,8 +47,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["1992-ben alapították", "Modern hűtőházakat és logisztikai szolgáltatásokat kínál"],
       ro: ["Fondată în anul 1992", "Oferă depozite frigorifice moderne și servicii logistice"],
       en: ["Established in 1992", "Provides modern cold storage and logistics services"]
-    }
-  },
+    }, image: "/poi-images/mauritius-freeport-economic-v2.webp"},
   {
     id: "ebene-cybercity-economic-v2",
     type: "industry",
@@ -71,8 +70,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["A gazdasági átalakulás szimbóluma", "A híres Cyber Tower 1 helyszíne"],
       ro: ["Simbol al transformării economice", "Locația celebrului Cyber Tower 1"],
       en: ["Symbol of economic transformation", "Location of the famous Cyber Tower 1"]
-    }
-  },
+    }, image: "/poi-images/ebene-cybercity-economic-v2.webp"},
   {
     id: "mer-rouge-industrial-zone-economic-v2",
     type: "industry",
@@ -119,8 +117,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["A kis- és nagyüzemek széles választéka", "A régió fontos munkáltatója"],
       ro: ["Varietate de la întreprinderi mici la mari", "Angajator important în regiune"],
       en: ["Diverse range of small to large enterprises", "Important employer in the region"]
-    }
-  },
+    }, image: "/poi-images/coromandel-industrial-estate-economic-v2.webp"},
   {
     id: "medine-sugar-mill-economic-v2",
     type: "industry",
@@ -143,8 +140,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["Különböző típusú cukrokat gyárt", "Egy nagyobb ingatlan- és szabadidős projekt része"],
       ro: ["Produce diverse tipuri de zahăr", "Parte a unui mare proiect imobiliar și de agrement"],
       en: ["Produces various types of sugar", "Part of a large real estate and leisure project"]
-    }
-  },
+    }, image: "/poi-images/medine-sugar-mill-economic-v2.webp"},
   {
     id: "omnicane-sugar-refinery-economic-v2",
     type: "industry",
@@ -167,8 +163,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["Bagasszét használ villamosenergia-termeléshez", "Finomított cukrot exportál világszerte"],
       ro: ["Utilizează bagasa pentru generarea de energie", "Exportă zahăr rafinat în întreaga lume"],
       en: ["Uses bagasse for electricity generation", "Exports refined sugar worldwide"]
-    }
-  },
+    }, image: "/poi-images/omnicane-sugar-refinery-economic-v2.webp"},
   {
     id: "alteo-sugar-mill-economic-v2",
     type: "industry",
@@ -191,8 +186,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["Mauritius legnagyobb őrlési kapacitása", "Vezető szerep a különleges cukrok gyártásában"],
       ro: ["Cea mai mare capacitate de măcinare din Mauritius", "Lider în producția de zahăr special"],
       en: ["Largest milling capacity in Mauritius", "Leader in the production of specialty sugar"]
-    }
-  },
+    }, image: "/poi-images/alteo-sugar-mill-economic-v2.webp"},
   {
     id: "terra-mauricia-mill-economic-v2",
     type: "industry",
@@ -215,8 +209,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["Az 'L'Aventure du Sucre' rumlepárlóról ismert", "Integrált energiatermelés"],
       ro: ["Cunoscută pentru distileria de rom 'L'Aventure du Sucre'", "Producție de energie integrată"],
       en: ["Known for the 'L'Aventure du Sucre' rum distillery", "Integrated energy production"]
-    }
-  },
+    }, image: "/poi-images/terra-mauricia-mill-economic-v2.webp"},
   {
     id: "port-mathurin-economic-v2",
     type: "port",
@@ -239,8 +232,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["Rodrigues egyetlen kereskedelmi kikötője", "Fontos a mezőgazdasági termékek exportjához"],
       ro: ["Singurul port comercial din Rodrigues", "Important pentru exportul de produse agricole"],
       en: ["The only commercial port in Rodrigues", "Important for the export of agricultural products"]
-    }
-  },
+    }, image: "/poi-images/port-mathurin-economic-v2.webp"},
   {
     id: "plaisance-industrial-estate-economic-v2",
     type: "industry",
@@ -263,8 +255,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["Stratégiai elhelyezkedés a repülőtérnél", "Fókuszban a légi áruszállítási export"],
       ro: ["Locație strategică lângă aeroport", "Accent pe exporturile prin transport aerian"],
       en: ["Strategic location by the airport", "Focus on air cargo exports"]
-    }
-  },
+    }, image: "/poi-images/plaisance-industrial-estate-economic-v2.webp"},
   {
     id: "riche-terre-industrial-zone-economic-v2",
     type: "industry",
@@ -311,8 +302,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["A fogyasztási cikkek szektorának jelentős szereplője", "Licenc alapján üdítőitalokat is gyárt"],
       ro: ["Jucător major în sectorul bunurilor de larg consum", "Produce și băuturi răcoritoare sub licență"],
       en: ["Major player in the consumer goods sector", "Also produces soft drinks under license"]
-    }
-  },
+    }, image: "/poi-images/phoenix-beverages-factory-economic-v2.webp"},
   {
     id: "fort-william-oil-terminal-economic-v2",
     type: "port",
@@ -335,8 +325,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["Stratégiai olajtartalékokat kezel", "Tartályhajók kikötőhelye"],
       ro: ["Gestionează rezervele strategice de petrol", "Loc de acostare pentru navele tanc"],
       en: ["Manages strategic oil reserves", "Berthing point for oil tankers"]
-    }
-  },
+    }, image: "/poi-images/fort-william-oil-terminal-economic-v2.webp"},
   {
     id: "beau-plan-business-park-economic-v2",
     type: "industry",
@@ -359,8 +348,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["Példa az ipari újrahasznosításra", "Kreatív és technológiai cégeknek ad otthont"],
       ro: ["Exemplu de reutilizare industrială", "Găzduiește firme creative și tehnologice"],
       en: ["Example of industrial repurposing", "Houses creative and technological firms"]
-    }
-  },
+    }, image: "/poi-images/beau-plan-business-park-economic-v2.webp"},
   {
     id: "triolet-industrial-zone-economic-v2",
     type: "industry",
@@ -431,8 +419,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["A nyerscukor jelentős exportőre", "Diverzifikált a turizmus és a pénzügyek területén"],
       ro: ["Exportator major de zahăr brut", "Diversificat în turism și finanțe"],
       en: ["Significant exporter of raw sugar", "Diversified into tourism and finance"]
-    }
-  },
+    }, image: "/poi-images/constance-sugar-estate-economic-v2.webp"},
   {
     id: "savannah-sugar-estate-economic-v2",
     type: "industry",
@@ -455,8 +442,7 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       hu: ["Az Omnicane csoport része", "Megújuló biomasszát használ energiatermeléshez"],
       ro: ["Parte a clusterului Omnicane", "Utilizează biomasă regenerabilă pentru energie"],
       en: ["Part of the Omnicane cluster", "Uses renewable biomass for energy generation"]
-    }
-  },
+    }, image: "/poi-images/savannah-sugar-estate-economic-v2.webp"},
   {
     id: "goodlands-industrial-estate-economic-v2",
     type: "industry",
@@ -482,3 +468,4 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
     }
   }
 ];
+

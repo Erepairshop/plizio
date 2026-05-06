@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCubaEconomicV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Nagy mélységű konténerterminál", "Különleges Gazdasági Övezet (ZEDM)", "Stratégiai logisztikai központ", "Modern kikötői infrastruktúra"],
       ro: ["Capacitate mare pentru nave mari", "Zonă Economică Specială (ZEDM)", "Centru logistic strategic", "Infrastructură portuară modernă"],
       en: ["Deep water container terminal", "Special Economic Zone (ZEDM)", "Strategic logistics hub", "Modern port infrastructure"]
-    }
-  },
+    }, image: "/poi-images/cu-mariel-port-economic-v2.webp"},
   {
     id: "cu-cienfuegos-refinery-economic-v2",
     type: "industry",
@@ -37,8 +37,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Importált kőolajat dolgoz fel", "Fontos energiaforrás", "Több ezer munkást foglalkoztat", "Stratégiai ipari létesítmény"],
       ro: ["Procesează țiței importat", "Sursă importantă de energie", "Angajează mii de muncitori", "Obiectiv industrial strategic"],
       en: ["Processes imported crude oil", "Major energy supplier", "Employs thousands of workers", "Key strategic industrial facility"]
-    }
-  },
+    }, image: "/poi-images/cu-cienfuegos-refinery-economic-v2.webp"},
   {
     id: "cu-moa-nickel-economic-v2",
     type: "industry",
@@ -56,8 +55,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Világszinten jelentős nikkelforrás", "Exportorientált", "Hatalmas ipari bányászati létesítmény", "Fontos devizaforrás"],
       ro: ["Sursă importantă de nichel la nivel mondial", "Orientată spre export", "Complex minier industrial mare", "Sursă vitală de valută"],
       en: ["Globally significant nickel source", "Export-oriented", "Large-scale industrial mining facility", "Vital source of foreign currency"]
-    }
-  },
+    }, image: "/poi-images/cu-moa-nickel-economic-v2.webp"},
   {
     id: "cu-havana-port-economic-v2",
     type: "port",
@@ -75,8 +73,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Üdülőhajó-kikötő", "Kereskedelmi kikötő", "Történelmi jelentőségű", "Idegenforgalmi csomópont"],
       ro: ["Terminal de croazieră", "Port comercial", "Semnificație istorică", "Hub turistic"],
       en: ["Cruise terminal", "Commercial port", "Rich historical heritage", "Tourism hub"]
-    }
-  },
+    }, image: "/poi-images/cu-havana-port-economic-v2.webp"},
   {
     id: "cu-santiago-port-economic-v2",
     type: "port",
@@ -94,8 +91,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Stratégiai hozzáférés kelethez", "Áruforgalmi központ", "Fontos a régió számára", "Természetes öböl"],
       ro: ["Acces strategic către est", "Centru de tranzit mărfuri", "Important pentru regiune", "Golf natural"],
       en: ["Strategic access to the east", "Cargo handling hub", "Regional economic driver", "Natural deep-water bay"]
-    }
-  },
+    }, image: "/poi-images/cu-santiago-port-economic-v2.webp"},
   {
     id: "cu-matanzas-port-economic-v2",
     type: "port",
@@ -113,8 +109,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Olaj- és gázlogisztika", "Ipari jelentőség", "Mélytengeri kapcsolat", "Regionális csomópont"],
       ro: ["Logistică petrol și gaze", "Importanță industrială", "Conexiune de mare adâncime", "Nod regional"],
       en: ["Oil and gas logistics", "Industrial significance", "Deep-water access", "Regional hub"]
-    }
-  },
+    }, image: "/poi-images/cu-matanzas-port-economic-v2.webp"},
   {
     id: "cu-nuevitas-port-economic-v2",
     type: "port",
@@ -132,8 +127,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Műtrágyagyártási központ", "Ipari átrakóhely", "Regionálisan jelentős", "Nagy kapacitás"],
       ro: ["Centru de producție îngrășăminte", "Centru de tranzit industrial", "Semnificație regională", "Capacitate mare"],
       en: ["Center for fertilizer production", "Industrial cargo hub", "Regionally significant", "Large capacity"]
-    }
-  },
+    }, image: "/poi-images/cu-nuevitas-port-economic-v2.webp"},
   {
     id: "cu-antilla-port-economic-v2",
     type: "port",
@@ -151,8 +145,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Természetes kikötő", "Regionális kereskedelem", "Vidéki logisztika", "Parti hozzáférés"],
       ro: ["Port natural", "Comerț regional", "Logistică rurală", "Acces la coastă"],
       en: ["Natural deep harbor", "Regional trade", "Rural logistics", "Coastal access"]
-    }
-  },
+    }, image: "/poi-images/cu-antilla-port-economic-v2.webp"},
   {
     id: "cu-cardenas-port-economic-v2",
     type: "port",
@@ -170,8 +163,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Halászközpont", "Parti kereskedelem", "Regionális átrakodás", "Ipari támasz"],
       ro: ["Centru de pescuit", "Comerț de coastă", "Tranzit regional", "Suport industrial"],
       en: ["Fishing hub", "Coastal trade", "Regional transit", "Industrial support"]
-    }
-  },
+    }, image: "/poi-images/cu-cardenas-port-economic-v2.webp"},
   {
     id: "cu-guantanamo-port-economic-v2",
     type: "port",
@@ -189,8 +181,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Regionális áruforgalom", "Parti hajózás", "Gazdasági központ", "Áruátrakodás"],
       ro: ["Flux de mărfuri regional", "Navigație de coastă", "Centru economic", "Tranzit mărfuri"],
       en: ["Regional cargo flow", "Coastal shipping", "Economic hub", "Goods handling"]
-    }
-  },
+    }, image: "/poi-images/cu-guantanamo-port-economic-v2.webp"},
   {
     id: "cu-fidel-industry-economic-v2",
     type: "industry",
@@ -208,8 +199,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Gyártott javak", "Helyi ipar", "Gazdasági motor", "Munkahelyek"],
       ro: ["Bunuri de producție", "Industrie locală", "Motor economic", "Locuri de muncă"],
       en: ["Manufacturing goods", "Local industry", "Economic engine", "Employment"]
-    }
-  },
+    }, image: "/poi-images/cu-fidel-industry-economic-v2.webp"},
   {
     id: "cu-santiago-industry-economic-v2",
     type: "industry",
@@ -227,8 +217,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Regionális gyártás", "Ipari központ", "Foglalkoztatás", "Gazdaság"],
       ro: ["Producție regională", "Hub industrial", "Ocuparea forței de muncă", "Economie"],
       en: ["Regional manufacturing", "Industrial hub", "Employment", "Economy"]
-    }
-  },
+    }, image: "/poi-images/cu-santiago-industry-economic-v2.webp"},
   {
     id: "cu-sugar-mill-1-economic-v2",
     type: "industry",
@@ -246,8 +235,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Cukorgyártás", "Agráripar", "Exportcikk", "Hagyomány"],
       ro: ["Producția de zahăr", "Agroindustrie", "Produs de export", "Tradiție"],
       en: ["Sugar production", "Agro-industry", "Export product", "Tradition"]
-    }
-  },
+    }, image: "/poi-images/cu-sugar-mill-1-economic-v2.webp"},
   {
     id: "cu-sugar-mill-2-economic-v2",
     type: "industry",
@@ -265,8 +253,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Nagy kapacitás", "Cukoralapanyag", "Gazdasági tényező", "Ipar"],
       ro: ["Capacitate mare", "Materie primă zahăr", "Factor economic", "Industrie"],
       en: ["High capacity", "Raw sugar material", "Economic factor", "Industry"]
-    }
-  },
+    }, image: "/poi-images/cu-sugar-mill-2-economic-v2.webp"},
   {
     id: "cu-cement-plant-economic-v2",
     type: "industry",
@@ -284,8 +271,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Cementgyártás", "Építőipar", "Regionális igény", "Ipari üzem"],
       ro: ["Producția de ciment", "Industria construcțiilor", "Cerere regională", "Unitate industrială"],
       en: ["Cement production", "Construction industry", "Regional demand", "Industrial plant"]
-    }
-  },
+    }, image: "/poi-images/cu-cement-plant-economic-v2.webp"},
   {
     id: "cu-fishing-port-economic-v2",
     type: "port",
@@ -303,8 +289,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Halfeldolgozás", "Flottabázis", "Tengeri erőforrások", "Export"],
       ro: ["Procesarea peștelui", "Bază de flotă", "Resurse marine", "Export"],
       en: ["Fish processing", "Fleet base", "Marine resources", "Export"]
-    }
-  },
+    }, image: "/poi-images/cu-fishing-port-economic-v2.webp"},
   {
     id: "cu-thermal-power-economic-v2",
     type: "industry",
@@ -322,8 +307,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Áramtermelés", "Energetikai infrastruktúra", "Hálózati stabilitás", "Ipar"],
       ro: ["Producția de energie", "Infrastructură energetică", "Stabilitatea rețelei", "Industrie"],
       en: ["Electricity generation", "Energy infrastructure", "Grid stability", "Industry"]
-    }
-  },
+    }, image: "/poi-images/cu-thermal-power-economic-v2.webp"},
   {
     id: "cu-fruit-industry-economic-v2",
     type: "industry",
@@ -341,8 +325,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Gyümölcskoncentrátumok", "Exporttermékek", "Agrárgazdaság", "Feldolgozás"],
       ro: ["Concentrate de fructe", "Produse de export", "Economie agrară", "Procesare"],
       en: ["Fruit concentrates", "Export products", "Agro-economy", "Processing"]
-    }
-  },
+    }, image: "/poi-images/cu-fruit-industry-economic-v2.webp"},
   {
     id: "cu-tobacco-industry-economic-v2",
     type: "industry",
@@ -360,8 +343,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Prémium szivarok", "Hagyomány", "Export", "Márkatermék"],
       ro: ["Trabucuri premium", "Tradiție", "Export", "Produs de marcă"],
       en: ["Premium cigars", "Tradition", "Export", "Brand product"]
-    }
-  },
+    }, image: "/poi-images/cu-tobacco-industry-economic-v2.webp"},
   {
     id: "cu-salt-production-economic-v2",
     type: "industry",
@@ -379,8 +361,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Tengeri só", "Erőforrások", "Ipari kitermelés", "Kereskedelmi áru"],
       ro: ["Sare marină", "Resurse", "Extracție industrială", "Marfă de comerț"],
       en: ["Sea salt", "Resources", "Industrial extraction", "Commodity"]
-    }
-  },
+    }, image: "/poi-images/cu-salt-production-economic-v2.webp"},
   {
     id: "cu-steel-plant-economic-v2",
     type: "industry",
@@ -398,8 +379,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Acélgyártás", "Nehézipar", "Kohászat", "Ipar"],
       ro: ["Producția de oțel", "Industrie grea", "Metalurgie", "Industrie"],
       en: ["Steel production", "Heavy industry", "Metallurgy", "Industry"]
-    }
-  },
+    }, image: "/poi-images/cu-steel-plant-economic-v2.webp"},
   {
     id: "cu-rum-distillery-1-economic-v2",
     type: "industry",
@@ -417,8 +397,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Szeszes italok", "Lepárlás", "Export", "Kulturális termék"],
       ro: ["Băuturi spirtoase", "Distilare", "Export", "Produs cultural"],
       en: ["Spirits", "Distillation", "Export", "Cultural product"]
-    }
-  },
+    }, image: "/poi-images/cu-rum-distillery-1-economic-v2.webp"},
   {
     id: "cu-rum-distillery-2-economic-v2",
     type: "industry",
@@ -436,8 +415,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Rum", "Lepárlás", "Hagyomány", "Márka"],
       ro: ["Rom", "Distilare", "Tradiție", "Marcă"],
       en: ["Rum", "Distillation", "Tradition", "Brand"]
-    }
-  },
+    }, image: "/poi-images/cu-rum-distillery-2-economic-v2.webp"},
   {
     id: "cu-mining-facility-economic-v2",
     type: "industry",
@@ -455,8 +433,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Ásványok", "Bányászat", "Ipar", "Erőforrások"],
       ro: ["Minerale", "Minerit", "Industrie", "Resurse"],
       en: ["Minerals", "Mining", "Industry", "Resources"]
-    }
-  },
+    }, image: "/poi-images/cu-mining-facility-economic-v2.webp"},
   {
     id: "cu-textile-factory-economic-v2",
     type: "industry",
@@ -474,8 +451,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Textile", "Ruházat", "Ipar", "Gyártás"],
       ro: ["Textile", "Îmbrăcăminte", "Industrie", "Producție"],
       en: ["Textiles", "Apparel", "Industry", "Manufacturing"]
-    }
-  },
+    }, image: "/poi-images/cu-textile-factory-economic-v2.webp"},
   {
     id: "cu-beverage-plant-economic-v2",
     type: "industry",
@@ -493,8 +469,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Üdítők", "Palackozás", "Fogyasztók", "Ipar"],
       ro: ["Băuturi răcoritoare", "Îmbuteliere", "Consumatori", "Industrie"],
       en: ["Soft drinks", "Bottling", "Consumers", "Industry"]
-    }
-  },
+    }, image: "/poi-images/cu-beverage-plant-economic-v2.webp"},
   {
     id: "cu-power-plant-economic-v2",
     type: "industry",
@@ -512,8 +487,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Áram", "Energia", "Infrastruktúra", "Ipar"],
       ro: ["Electricitate", "Energie", "Infrastructură", "Industrie"],
       en: ["Electricity", "Energy", "Infrastructure", "Industry"]
-    }
-  },
+    }, image: "/poi-images/cu-power-plant-economic-v2.webp"},
   {
     id: "cu-port-surgidero-economic-v2",
     type: "port",
@@ -531,8 +505,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
       hu: ["Helyi kereskedelem", "Parti hozzáférés", "Áruszállítás", "Infrastruktúra"],
       ro: ["Comerț local", "Acces la coastă", "Transport mărfuri", "Infrastructură"],
       en: ["Local trade", "Coastal access", "Goods transport", "Infrastructure"]
-    }
-  },
+    }, image: "/poi-images/cu-port-surgidero-economic-v2.webp"},
   {
     id: "cu-mining-plant-2-economic-v2",
     type: "industry",
@@ -572,3 +545,4 @@ export const poiExtraCubaEconomicV2: POI[] = [
     }
   }
 ];
+

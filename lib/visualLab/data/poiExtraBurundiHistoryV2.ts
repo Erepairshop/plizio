@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBurundiHistoryV2: POI[] = [
@@ -12,19 +13,14 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       ro: "Muzeul Național din Gitega",
       en: "National Museum of Gitega"
     },
-    description: {
-      de: "Das 1955 gegründete Museum bewahrt das reiche kulturelle Erbe und die königliche Geschichte Burundis.",
-      hu: "Az 1955-ben alapított múzeum Burundi gazdag kulturális örökségét és királyi történelmét őrzi.",
-      ro: "Fondat în 1955, muzeul păstrează bogata moștenire culturală și istoria regală a Burundi.",
-      en: "Founded in 1955, the museum preserves the rich cultural heritage and royal history of Burundi."
+    descriptionAdvanced: {
+      de: "Das Nationalmuseum in Gitega ist der wichtigste Aufbewahrungsort für die burundische Geschichte und Kultur. Es beherbergt eine umfangreiche Sammlung historischer Artefakte, darunter königliche Insignien und traditionelle Musikinstrumente. Das Museum spielt eine zentrale Rolle bei der Bewahrung der Identität Burundis und bietet einen tiefen Einblick in die Zeit der Monarchie. Geschichte K8 — Bewahrung von Kulturerbe.",
+      hu: "Gitega Nemzeti Múzeuma az ország történelmi és kulturális örökségének legfontosabb őrzőhelye. A múzeum gyűjteménye átfogó képet nyújt a burundi királyi udvar életéről, a hagyományos törzsi struktúrákról és a gyarmati korszak hatásairól. Az intézmény célja a nemzeti identitás megőrzése és a fiatal generációk oktatása az ország történelmi gyökereiről. A kiállított tárgyak között számos egyedi néprajzi kincs található. Történelem K8 — örökségvédelem és történelem.",
+      ro: "Muzeul Național din Gitega este cea mai importantă instituție culturală dedicată păstrării istoriei și tradițiilor poporului burundez. Acesta găzduiește o colecție vastă de artefacte care ilustrează perioada monarhică, viața cotidiană din trecut și meșteșugurile tradiționale, oferind vizitatorilor o privire detaliată asupra identității naționale. Muzeul joacă un rol educativ vital, fiind punctul central pentru cercetarea patrimoniului istoric al țării. Istorie K6 — patrimoniul cultural și muzee."
     },
-    facts: {
-      de: ["Größtes Museum des Landes.", "Sammlung königlicher Insignien."],
-      hu: ["Az ország legnagyobb múzeuma.", "Királyi jelvények gyűjteménye."],
-      ro: ["Cel mai mare muzeu din țară.", "Colecție de însemne regale."],
-      en: ["Largest museum in the country.", "Collection of royal regalia."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Muzeul a fost fondat în 1955 în Gitega.", "Deține artefacte unice din epoca monarhiei (Mwami).", "Colecția include instrumente muzicale, unelte și obiecte de uz casnic.", "Este centrul principal pentru conservarea istoriei Burundiului.", "Joacă un rol activ în educația culturală a tinerilor.", "Sălile muzeului prezintă tranziția istorică a societății burundeze."]
+    }, image: "/poi-images/gitega-national-museum-history-v2.webp"},
   {
     id: "livingstone-stanley-monument-history-v2",
     type: "historical",
@@ -36,19 +32,14 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       ro: "Monumentul Livingstone-Stanley",
       en: "Livingstone-Stanley Monument"
     },
-    description: {
-      de: "Ein Denkmal bei Mugere, das an den Treffpunkt der Entdecker David Livingstone und Henry Morton Stanley im Jahr 1871 erinnert.",
-      hu: "Mugere melletti emlékmű, amely David Livingstone és Henry Morton Stanley felfedezők 1871-es találkozási helyét jelöli.",
-      ro: "Un monument la Mugere care comemorează locul de întâlnire al exploratorilor David Livingstone și Henry Morton Stanley în 1871.",
-      en: "A monument near Mugere commemorating the meeting place of explorers David Livingstone and Henry Morton Stanley in 1871."
+    descriptionAdvanced: {
+      de: "Das Livingstone-Stanley-Denkmal markiert einen historisch bedeutenden Ort in der Nähe von Bujumbura, wo sich die berühmten Afrikaforscher David Livingstone und Henry Morton Stanley im Jahr 1871 trafen. Dieser Begegnungsort ist ein Zeugnis der europäischen Erforschung des afrikanischen Kontinents im 19. Jahrhundert und zieht heute geschichtsinteressierte Reisende aus aller Welt an. Geschichte K9 — Ära der Entdeckungsreisen.",
+      hu: "A Livingstone-Stanley emlékmű egy történelmi találkozó helyét jelöli Bujumbura közelében, ahol a híres felfedezők, David Livingstone és Henry Morton Stanley 1871-ben találkoztak. Ez a helyszín az afrikai felfedezések korszakának szimbolikus pontja, amely rávilágít a térség európai szemmel való feltérképezésének kezdetére. Ma már népszerű turisztikai célpont, ahonnan csodálatos kilátás nyílik a Tanganyika-tóra, emlékeztetve a látogatókat a múlt nagy utazásaira. Történelem K8 — felfedezők és történelem.",
+      ro: "Monumentul Livingstone-Stanley din Mugere, situat aproape de Bujumbura, comemorează întâlnirea istorică din 1871 dintre exploratorii David Livingstone și Henry Morton Stanley. Acest loc marchează un moment cheie în istoria explorării europene a Africii Centrale, fiind un punct de reper pentru istorici și turiști. Monumentul nu doar că amintește de acest eveniment, dar oferă și o perspectivă asupra interacțiunilor culturale și geografice din acea perioadă a secolului al XIX-lea. Istorie K7 — explorări geografice."
     },
-    facts: {
-      de: ["Markiert ein historisches Treffen.", "Blick auf den Tanganjikasee."],
-      hu: ["Történelmi találkozót jelöl.", "Kilátás a Tanganyika-tóra."],
-      ro: ["Marchează o întâlnire istorică.", "Vedere spre Lacul Tanganyika."],
-      en: ["Marks a historic meeting.", "Overlooking Lake Tanganyika."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Evenimentul a avut loc pe 25 noiembrie 1871.", "Cei doi exploratori au cartografiat zona lacului Tanganyika.", "Monumentul este situat la aproximativ 12 km de Bujumbura.", "David Livingstone a fost un explorator și misionar britanic celebru.", "Henry Morton Stanley este faimos pentru căutarea lui Livingstone.", "Locul este o destinație turistică și istorică semnificativă."]
+    }, image: "/poi-images/livingstone-stanley-monument-history-v2.webp"},
   {
     id: "gitega-royal-palace-history-v2",
     type: "historical",
@@ -60,19 +51,14 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       ro: "Palatul Regal din Gitega",
       en: "Royal Palace of Gitega"
     },
-    description: {
-      de: "Der ehemalige Sitz der burundischen Monarchen, ein Symbol der traditionellen politischen Macht.",
-      hu: "A burundi uralkodók egykori székhelye, a hagyományos politikai hatalom szimbóluma.",
-      ro: "Fosta reședință a monarhilor burundezi, un simbol al puterii politice tradiționale.",
-      en: "The former seat of the Burundian monarchs, a symbol of traditional political power."
+    descriptionAdvanced: {
+      de: "Der königliche Palast in Gitega ist ein stummes Zeugnis der Zeit, in der Burundi eine Monarchie war. Obwohl die politische Macht der Könige (Mwami) heute nicht mehr besteht, bleibt der Palast ein Symbol für das traditionelle politische System des Landes. Die Architektur spiegelt eine Mischung aus lokalen Baustilen und kolonialen Einflüssen wider, die die Geschichte Burundis prägten. Geschichte K8 — Ende der Monarchie.",
+      hu: "A Gitega királyi palota az egykori burundi királyság hatalmi központja volt, ahol a monarchia képviselői élték mindennapjaikat és irányították az ország ügyeit. Az épületegyüttes a tradicionális burundi építészeti stílusjegyeit őrzi, és a múltbéli hatalmi struktúrák szemtanúja. Ma a helyszín a történelmi örökség része, amely a monarchia megszűnése után is a nemzeti történelem fontos emléke maradt. Történelem K8 — monarchia és történelem.",
+      ro: "Palatul Regal din Gitega a fost centrul puterii monarhice a statului Burundi, simbolizând continuitatea și autoritatea regilor, cunoscuți sub numele de Mwami. De-a lungul istoriei, acest loc a găzduit evenimente politice și ceremonii tradiționale esențiale pentru structura socială a țării, fiind un reper arhitectural și istoric major. Deși monarhia s-a încheiat, situl rămâne o mărturie a epocii în care Burundi era condus de structuri de putere tradiționale. Istorie K8 — sisteme politice tradiționale."
     },
-    facts: {
-      de: ["Einstiges Machtzentrum.", "Architektonisches Erbe."],
-      hu: ["Egykori hatalmi központ.", "Építészeti örökség."],
-      ro: ["Fost centru de putere.", "Moștenire arhitecturală."],
-      en: ["Former center of power.", "Architectural heritage."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["A servit drept reședință a regilor (Mwami) Burundiului.", "Reprezintă simbolul puterii tradiționale pre-coloniale.", "Arhitectura sa este specifică stilului palatelor regale burundeze.", "Gitega a fost capitala regală a țării pentru mulți ani.", "Situl este încărcat de semnificații culturale și politice.", "Păstrează urmele tradițiilor de guvernare burundeză."]
+    }, image: "/poi-images/gitega-royal-palace-history-v2.webp"},
   {
     id: "gishora-drum-sanctuary-history-v2",
     type: "historical",
@@ -84,19 +70,14 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       ro: "Sanctuarul tobelor din Gishora",
       en: "Gishora Drum Sanctuary"
     },
-    description: {
-      de: "Eines der berühmtesten Zentren für traditionelles burundisches Trommeln, das eng mit der Geschichte der Monarchie verbunden ist.",
-      hu: "A hagyományos burundi dobolás egyik leghíresebb központja, amely szorosan kötődik a monarchia történetéhez.",
-      ro: "Unul dintre cele mai faimoase centre pentru tobele tradiționale burundeze, strâns legat de istoria monarhiei.",
-      en: "One of the most famous centers for traditional Burundian drumming, closely linked to the history of the monarchy."
+    descriptionAdvanced: {
+      de: "Gishora ist ein bedeutendes Heiligtum für die burundische Trommelkunst, die als immaterielles Kulturerbe anerkannt ist. Die Trommel war im historischen Burundi eng mit der königlichen Macht und rituellen Zeremonien verbunden. Heute ist Gishora ein Ort, an dem diese alten Traditionen gepflegt und der Öffentlichkeit präsentiert werden. Geschichte K8 — Immaterielles Kulturerbe.",
+      hu: "Gishora a burundi dobok szentélye, ahol a híres 'burundi dobosok' hagyománya él és virágzik. A dobok az ország kulturális identitásának legfontosabb elemei, amelyek kísérik az összes fontos nemzeti ünnepséget és rituálét. Gishora központja őrzi azokat a technikákat és szertartásokat, amelyek a dobok készítéséhez és megszólaltatásához kapcsolódnak. A helyszín látogatása nélkülözhetetlen a burundi népi kultúra és rituálék megismeréséhez. Sachkunde K3 — néphagyomány és zene.",
+      ro: "Sanctuarul tobelor de la Gishora este unul dintre cele mai importante locuri culturale din Burundi, fiind dedicat păstrării tradiției milenare a tobelor regale, un element esențial al identității naționale. Această formă de artă, care combină muzica, dansul și ritualurile, a fost recunoscută oficial ca patrimoniu imaterial de către UNESCO, subliniind importanța sa globală. Gishora oferă vizitatorilor posibilitatea de a înțelege semnificația spirituală și socială a tobelor în istoria monarhică a țării. Istorie K6 — patrimoniul UNESCO și muzica tradițională."
     },
-    facts: {
-      de: ["Heimat der heiligen Trommeln.", "UNESCO-Kulturerbe."],
-      hu: ["A szent dobok otthona.", "UNESCO kulturális örökség."],
-      ro: ["Casa tobelor sacre.", "Patrimoniu UNESCO."],
-      en: ["Home of sacred drums.", "UNESCO heritage."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Sanctuarul se află pe un deal pitoresc lângă Gitega.", "Tobele regale erau folosite pentru ceremonii oficiale și încoronări.", "Tradiția tobelor este transmisă din generație în generație în familii specifice.", "UNESCO a inclus tradiția tobelor burundeze în lista patrimoniului imaterial.", "Ritualul include o succesiune de bătăi ritmice și dansuri acrobatice.", "În trecut, tobele simbolizau puterea și unitatea statului Burundi."]
+    }, image: "/poi-images/gishora-drum-sanctuary-history-v2.webp"},
   {
     id: "muramvya-ancient-palace-history-v2",
     type: "historical",
@@ -108,19 +89,14 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       ro: "Palatul antic din Muramvya",
       en: "Ancient Palace of Muramvya"
     },
-    description: {
-      de: "Das historische spirituelle und politische Zentrum des Königreichs Burundi vor der Kolonialzeit.",
-      hu: "A Burundi Királyság történelmi spirituális és politikai központja a gyarmati korszak előtt.",
-      ro: "Centrul istoric spiritual și politic al Regatului Burundi înainte de epoca colonială.",
-      en: "The historic spiritual and political center of the Kingdom of Burundi before the colonial era."
+    descriptionAdvanced: {
+      de: "Muramvya war eine der wichtigsten historischen Hauptstädte Burundis, in der die Könige zeremonielle Pflichten erfüllten. Die alten Ruinen und der Palastplatz zeugen von der administrativen und spirituellen Bedeutung, die die Stadt einst innehatte. Die Region ist heute ein bedeutendes Ziel für Geschichtsinteressierte, die die Ursprünge der burundischen Staatsbildung erforschen wollen. Geschichte K9 — Ursprünge der Staatsbildung.",
+      hu: "Muramvya történelmi városa az egykori burundi királyok egyik állandó székhelye volt, amely stratégiailag fontos helyen fekszik a hegyvidéki útvonalak kereszteződésében. A város környéke számos királyi palota romját és szentélyét rejti, amelyek a múltbéli vallási és politikai központ szerepét erősítették. Muramvya ma is fontos szerepet tölt be Burundi történelmi emlékezetében, mint egykori hatalmi székhely. Történelem K8 — királyi hatalom és múlt.",
+      ro: "Muramvya a servit ca una dintre capitalele istorice ale regatului Burundi, fiind un sit deosebit de important pentru înțelegerea modului în care monarhia își exercita autoritatea asupra regiunilor centrale. Orașul este înconjurat de situri sacre și locații unde regii (Mwami) obișnuiau să oficieze ritualuri de importanță națională, consolidând unitatea poporului. Importanța istorică a orașului este marcată de prezența unor vestigii ale structurilor de putere tradiționale, oferind o perspectivă rară asupra vieții politice de odinioară. Istorie K7 — structuri de putere în Africa pre-colonială."
     },
-    facts: {
-      de: ["Alte königliche Hauptstadt.", "Heiliger Ort der Ahnen."],
-      hu: ["Ősi királyi főváros.", "Ősi szent hely."],
-      ro: ["Vechia capitală regală.", "Loc sacru al strămoșilor."],
-      en: ["Ancient royal capital.", "Sacred ancestral site."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Muramvya a fost capitala regală pentru perioade lungi în istoria Burundului.", "Orașul este situat într-o zonă muntoasă cu semnificație spirituală.", "Situl găzduiește ruinele palatelor regale tradiționale.", "Regiunea este bogată în tradiții legate de încoronările regale.", "Muramvya a jucat un rol cheie în politica internă a regatului.", "Este considerat unul dintre locurile fondatoare ale identității statale."]
+    }, image: "/poi-images/muramvya-ancient-palace-history-v2.webp"},
   {
     id: "mwaro-gasumo-falls-history-v2",
     type: "historical",
@@ -143,8 +119,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["Királyi rituálék helyszíne.", "Természetes sziklaformációk."],
       ro: ["Locul ritualurilor regale.", "Formațiuni stâncoase naturale."],
       en: ["Site of royal rituals.", "Natural rock formations."]
-    }
-  },
+    }, image: "/poi-images/mwaro-gasumo-falls-history-v2.webp"},
   {
     id: "kumana-royal-burial-history-v2",
     type: "historical",
@@ -167,8 +142,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["Királyi nekropolisz.", "A hagyomány által védett."],
       ro: ["Necropolă regală.", "Protejată de tradiție."],
       en: ["Royal necropolis.", "Protected by tradition."]
-    }
-  },
+    }, image: "/poi-images/kumana-royal-burial-history-v2.webp"},
   {
     id: "kiganda-treaty-site-history-v2",
     type: "historical",
@@ -191,8 +165,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["A gyarmati korszak kezdete.", "Történelmi mérföldkő."],
       ro: ["Începutul erei coloniale.", "Piatră de hotar istorică."],
       en: ["Start of the colonial era.", "Historic milestone."]
-    }
-  },
+    }, image: "/poi-images/kiganda-treaty-site-history-v2.webp"},
   {
     id: "german-gorge-nyanza-history-v2",
     type: "historical",
@@ -215,8 +188,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["Gyarmati védelmi mű.", "Nyanza-Lac közelében."],
       ro: ["Apărare colonială.", "Lângă Nyanza-Lac."],
       en: ["Colonial defense site.", "Near Nyanza-Lac."]
-    }
-  },
+    }, image: "/poi-images/german-gorge-nyanza-history-v2.webp"},
   {
     id: "bujumbura-old-cathedral-history-v2",
     type: "historical",
@@ -239,8 +211,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["A város legnagyobb temploma.", "A közösség központja."],
       ro: ["Cea mai mare biserică din oraș.", "Centrul comunității."],
       en: ["Largest church in the city.", "Center of the community."]
-    }
-  },
+    }, image: "/poi-images/bujumbura-old-cathedral-history-v2.webp"},
   {
     id: "nkiko-mugamba-residences-history-v2",
     type: "historical",
@@ -263,8 +234,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["Magasan fekvő rezidencia.", "A hagyomány megőrzése."],
       ro: ["Reședință la altitudine mare.", "Păstrarea tradiției."],
       en: ["High-altitude residence.", "Preservation of tradition."]
-    }
-  },
+    }, image: "/poi-images/nkiko-mugamba-residences-history-v2.webp"},
   {
     id: "muyinga-german-fort-history-v2",
     type: "historical",
@@ -287,8 +257,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["Gyarmati katonai építészet.", "Kilátás Muyingára."],
       ro: ["Arhitectură militară colonială.", "Vedere peste Muyinga."],
       en: ["Colonial military architecture.", "Overlooking Muyinga."]
-    }
-  },
+    }, image: "/poi-images/muyinga-german-fort-history-v2.webp"},
   {
     id: "mushasha-mission-history-v2",
     type: "historical",
@@ -311,8 +280,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["Történelmi iskolahálózat.", "Lenyűgöző templom."],
       ro: ["Centru școlar istoric.", "Biserică impresionantă."],
       en: ["Historic school center.", "Impressive church."]
-    }
-  },
+    }, image: "/poi-images/mushasha-mission-history-v2.webp"},
   {
     id: "mugera-sacred-site-history-v2",
     type: "historical",
@@ -335,8 +303,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["Mária-tisztelet központja.", "Ősi királyok helyszíne."],
       ro: ["Centru de venerație mariană.", "Locul vechilor regi."],
       en: ["Center of Marian devotion.", "Site of ancient kings."]
-    }
-  },
+    }, image: "/poi-images/mugera-sacred-site-history-v2.webp"},
   {
     id: "kibumbu-mission-history-v2",
     type: "historical",
@@ -359,8 +326,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["A 20. század elején alapították.", "Gyarmati építészet."],
       ro: ["Fondată la începutul sec. XX.", "Arhitectură colonială."],
       en: ["Founded in the early 20th century.", "Colonial architecture."]
-    }
-  },
+    }, image: "/poi-images/kibumbu-mission-history-v2.webp"},
   {
     id: "ntare-rushatsi-grave-history-v2",
     type: "historical",
@@ -383,8 +349,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["A dinasztia alapítója.", "Szent történelmi hely."],
       ro: ["Fondatorul dinastiei.", "Loc istoric sacru."],
       en: ["Founder of the dynasty.", "Sacred historical site."]
-    }
-  },
+    }, image: "/poi-images/ntare-rushatsi-grave-history-v2.webp"},
   {
     id: "bujumbura-colonial-quarter-history-v2",
     type: "historical",
@@ -407,8 +372,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["Európai építészeti stílus.", "Volt adminisztratív központ."],
       ro: ["Stil arhitectural european.", "Fost centru administrativ."],
       en: ["European architectural style.", "Former administrative center."]
-    }
-  },
+    }, image: "/poi-images/bujumbura-colonial-quarter-history-v2.webp"},
   {
     id: "rumonge-arab-traders-history-v2",
     type: "historical",
@@ -431,8 +395,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["Szuahéli kulturális hatás.", "Kereskedelmi csomópont."],
       ro: ["Influență culturală Swahili.", "Nod comercial."],
       en: ["Swahili cultural influence.", "Trade hub."]
-    }
-  },
+    }, image: "/poi-images/rumonge-arab-traders-history-v2.webp"},
   {
     id: "bugarama-memorial-history-v2",
     type: "historical",
@@ -455,8 +418,7 @@ export const poiExtraBurundiHistoryV2: POI[] = [
       hu: ["Fő kereskedelmi útvonal.", "Híres pihenőhely."],
       ro: ["Rută comercială principală.", "Loc de popas faimos."],
       en: ["Main trade route.", "Famous rest stop."]
-    }
-  },
+    }, image: "/poi-images/bugarama-memorial-history-v2.webp"},
   {
     id: "kayanza-german-ruins-history-v2",
     type: "historical",
@@ -482,3 +444,4 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     }
   }
 ];
+

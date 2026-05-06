@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraRwandaReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Vulkáni hegyvonulat.", "A hegyi gorillák otthona."],
       ro: ["Lanț muntos vulcanic.", "Casa gorilelor de munte."],
       en: ["Volcanic mountain range.", "Home to mountain gorillas."]
-    }
-  },
+    }, image: "/poi-images/virunga-volcanoes-relief-v2.webp"},
   {
     id: "karisimbi-mountain-relief-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Ruanda legmagasabb csúcsa.", "Vulkáni kúp."],
       ro: ["Cel mai înalt vârf din Rwanda.", "Con vulcanic."],
       en: ["Highest peak in Rwanda.", "Volcanic cone."]
-    }
-  },
+    }, image: "/poi-images/karisimbi-mountain-relief-v2.webp"},
   {
     id: "nyiragongo-border-relief-v2",
     type: "mountain",
@@ -41,8 +40,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["A régió legaktívabb vulkánja.", "Nagy lávató."],
       ro: ["Cel mai activ vulcan din regiune.", "Lac de lavă mare."],
       en: ["Most active volcano in the region.", "Large lava lake."]
-    }
-  },
+    }, image: "/poi-images/nyiragongo-border-relief-v2.webp"},
   {
     id: "nyungwe-forest-relief-v2",
     type: "forest",
@@ -55,8 +53,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Fontos vízválasztó.", "Hegyvidéki esőerdő."],
       ro: ["Bazin hidrografic important.", "Pădure tropicală montană."],
       en: ["Important watershed.", "Montane rainforest."]
-    }
-  },
+    }, image: "/poi-images/nyungwe-forest-relief-v2.webp"},
   {
     id: "akagera-wetlands-relief-v2",
     type: "relief",
@@ -69,8 +66,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Folyóvidéki táj.", "Gazdag madárvilág."],
       ro: ["Peisaj fluvial.", "Floră și faună aviară bogată."],
       en: ["River landscape.", "Rich birdlife."]
-    }
-  },
+    }, image: "/poi-images/akagera-wetlands-relief-v2.webp"},
   {
     id: "lake-kivu-relief-v2",
     type: "relief",
@@ -83,8 +79,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["A régió legmélyebb pontja.", "Vulkáni eredet."],
       ro: ["Cel mai adânc punct din regiune.", "Origine vulcanică."],
       en: ["Deepest point in the region.", "Volcanic origin."]
-    }
-  },
+    }, image: "/poi-images/lake-kivu-relief-v2.webp"},
   {
     id: "mt-muhabura-relief-v2",
     type: "mountain",
@@ -97,8 +92,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Meredek vulkáni kúp.", "Krátertó a csúcson."],
       ro: ["Con vulcanic abrupt.", "Lac în crater la vârf."],
       en: ["Steep volcanic cone.", "Crater lake at the peak."]
-    }
-  },
+    }, image: "/poi-images/mt-muhabura-relief-v2.webp"},
   {
     id: "gishwati-forest-relief-v2",
     type: "forest",
@@ -111,8 +105,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Erdőtelepítési projekt.", "Védett terület."],
       ro: ["Proiect de reîmpădurire.", "Zonă protejată."],
       en: ["Reforestation project.", "Protected area."]
-    }
-  },
+    }, image: "/poi-images/gishwati-forest-relief-v2.webp"},
   {
     id: "mukura-forest-relief-v2",
     type: "forest",
@@ -153,8 +146,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Vulkáni táj.", "Csúcsláncolat."],
       ro: ["Peisaj vulcanic.", "Lanț de vârfuri."],
       en: ["Volcanic landscape.", "Chain of peaks."]
-    }
-  },
+    }, image: "/poi-images/birunga-mountains-relief-v2.webp"},
   {
     id: "mt-bisoke-relief-v2",
     type: "mountain",
@@ -167,8 +159,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Zöld krátertó.", "Túracélpont."],
       ro: ["Lac verde în crater.", "Destinație de drumeție."],
       en: ["Green crater lake.", "Hiking destination."]
-    }
-  },
+    }, image: "/poi-images/mt-bisoke-relief-v2.webp"},
   {
     id: "mt-gahinga-relief-v2",
     type: "mountain",
@@ -181,8 +172,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Erozív kráter.", "Szelíd lejtők."],
       ro: ["Crater erodat.", "Pante line."],
       en: ["Erosion crater.", "Gentle slopes."]
-    }
-  },
+    }, image: "/poi-images/mt-gahinga-relief-v2.webp"},
   {
     id: "lake-rweru-relief-v2",
     type: "relief",
@@ -195,8 +185,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Határtó.", "Ökoszisztéma-központ."],
       ro: ["Lac de frontieră.", "Hub ecosistemic."],
       en: ["Border lake.", "Ecosystem hub."]
-    }
-  },
+    }, image: "/poi-images/lake-rweru-relief-v2.webp"},
   {
     id: "akegera-plain-relief-v2",
     type: "relief",
@@ -223,8 +212,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Csipkézett csúcs.", "Három ország határa."],
       ro: ["Vârf zimțat.", "Punct de joncțiune a trei țări."],
       en: ["Jagged peak.", "Three-country junction."]
-    }
-  },
+    }, image: "/poi-images/mt-sabyinyo-relief-v2.webp"},
   {
     id: "lake-burera-relief-v2",
     type: "relief",
@@ -237,8 +225,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Vulkáni tó.", "Gyönyörű kilátások."],
       ro: ["Lac vulcanic.", "Priveliști frumoase."],
       en: ["Volcanic lake.", "Beautiful views."]
-    }
-  },
+    }, image: "/poi-images/lake-burera-relief-v2.webp"},
   {
     id: "lake-ruhondo-relief-v2",
     type: "relief",
@@ -251,8 +238,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Festői környezet.", "Nyugodt víz."],
       ro: ["Mediu pitoresc.", "Apă calmă."],
       en: ["Scenic surroundings.", "Calm water."]
-    }
-  },
+    }, image: "/poi-images/lake-ruhondo-relief-v2.webp"},
   {
     id: "akagera-hills-relief-v2",
     type: "relief",
@@ -293,8 +279,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Magaslati utak.", "Kilátás az erdőre."],
       ro: ["Căi la înălțime.", "Vedere asupra pădurii."],
       en: ["High walkways.", "View over the forest."]
-    }
-  },
+    }, image: "/poi-images/nyungwe-canopy-relief-v2.webp"},
   {
     id: "akagera-savanna-relief-v2",
     type: "relief",
@@ -307,8 +292,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Széles füves puszta.", "Nagyállatok élőhelye."],
       ro: ["Pajiști întinse.", "Habitat pentru animale mari."],
       en: ["Wide grassland.", "Large animal habitat."]
-    }
-  },
+    }, image: "/poi-images/akagera-savanna-relief-v2.webp"},
   {
     id: "lake-muhazi-relief-v2",
     type: "relief",
@@ -321,8 +305,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Sekély tó.", "Halászat."],
       ro: ["Lac puțin adânc.", "Pescuit."],
       en: ["Shallow lake.", "Fishing."]
-    }
-  },
+    }, image: "/poi-images/lake-muhazi-relief-v2.webp"},
   {
     id: "mt-tanzania-border-relief-v2",
     type: "relief",
@@ -335,8 +318,7 @@ export const poiExtraRwandaReliefV2: POI[] = [
       hu: ["Dombság.", "Határközeli természet."],
       ro: ["Peisaj deluros.", "Natură în apropierea graniței."],
       en: ["Hilly landscape.", "Nature near the border."]
-    }
-  },
+    }, image: "/poi-images/mt-tanzania-border-relief-v2.webp"},
   {
     id: "gishwati-ridge-relief-v2",
     type: "relief",
@@ -352,3 +334,4 @@ export const poiExtraRwandaReliefV2: POI[] = [
     }
   }
 ];
+

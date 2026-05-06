@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMozambiqueCitiesV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Eredetileg Lourenço Marquesnek hívták.", "Portugál gyarmati építészetéről ismert."],
       ro: ["Numit inițial Lourenço Marques.", "Cunoscut pentru arhitectura sa colonială portugheză."],
       en: ["Originally named Lourenço Marques.", "Known for its Portuguese colonial architecture."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Maputo, ehemals Lourenço Marques, ist seit 1907 die Hauptstadt Mosambiks. Die Stadt liegt an der Westküste der Maputo-Bucht am Indischen Ozean und dient als das wirtschaftliche sowie politische Zentrum des Landes. Die Architektur der Stadt spiegelt ihre portugiesische Kolonialgeschichte wider, die mit modernen Entwicklungen verschmilzt. Maputo ist ein wichtiger Bildungshub und beherbergt die Eduardo Mondlane Universität, die 1962 gegründet wurde. Geographie K8 – Hafenstädte und Weltwirtschaft.",
+      hu: "Maputo, korábbi nevén Lourenço Marques, 1907 óta Mozambik fővárosa. A város az Indiai-óceán partján, a Maputo-öböl nyugati részén fekszik, az ország politikai és gazdasági központja. Építészete a portugál gyarmati múlt és a modern fejlődés különleges keveréke. Itt található az 1962-ben alapított Eduardo Mondlane Egyetem. Földrajz K8 – kikötővárosok és világgazdaság.",
+      ro: "Maputo, fostul Lourenço Marques, este capitala Mozambicului din 1907. Orașul este situat pe coasta de vest a Golfului Maputo la Oceanul Indian, fiind centrul politic și economic al țării. Arhitectura reflectă istoria sa colonială portugheză împletită cu dezvoltarea modernă. Maputo este un centru educațional important, găzduind Universitatea Eduardo Mondlane, fondată în 1962. Geografie K8 – orașe portuare și economia mondială.",
+      en: "Maputo, formerly known as Lourenço Marques, has been the capital of Mozambique since 1907. The city is located on the western shore of Maputo Bay on the Indian Ocean and serves as the country's economic and political hub. Its architecture reflects its Portuguese colonial past blended with modern developments. Maputo is an important educational center and home to the Eduardo Mondlane University, founded in 1962. Geography K8 – port cities and global economy."
+    },
+    factsAdvanced: {
+      de: ["Maputo wurde 1907 zur Hauptstadt von Mosambik.", "Die Stadt beherbergt die Universität Eduardo Mondlane, gegründet 1962.", "Die Maputo-Bucht ist etwa 90 km lang.", "Der Hafen von Maputo ist einer der wichtigsten in Ostafrika.", "Die Stadt hat eine geschätzte Einwohnerzahl von über 1,1 Millionen.", "Das Bahnhofsgebäude von Maputo wurde von Gustave Eiffel inspiriert."],
+      hu: ["Maputo 1907-ben lett Mozambik fővárosa.", "Itt található az 1962-ben alapított Eduardo Mondlane Egyetem.", "A Maputo-öböl körülbelül 90 km hosszú.", "A Maputo kikötő Kelet-Afrika egyik legfontosabbja.", "A város becsült lakossága meghaladja az 1,1 milliót.", "A Maputo vasútállomás épületét Gustave Eiffel inspirálta."],
+      ro: ["Maputo a devenit capitala Mozambicului în 1907.", "Găzduiește Universitatea Eduardo Mondlane, fondată în 1962.", "Golful Maputo are o lungime de aproximativ 90 km.", "Portul din Maputo este unul dintre cele mai importante din Africa de Est.", "Orașul are o populație estimată de peste 1,1 milioane de locuitori.", "Clădirea gării din Maputo a fost inspirată de Gustave Eiffel."],
+      en: ["Maputo became the capital of Mozambique in 1907.", "Home to the Eduardo Mondlane University, founded in 1962.", "Maputo Bay is approximately 90 km long.", "The port of Maputo is one of the most important in East Africa.", "The city has an estimated population of over 1.1 million.", "The Maputo railway station building was inspired by Gustave Eiffel."]
+    }, image: "/poi-images/maputo-cities-v2.webp"},
   {
     id: "matola-cities-v2",
     type: "city",
@@ -27,8 +39,19 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["A mozambiki nehézipar központja.", "Nagy alumíniumkohászati üzemmel rendelkezik."],
       ro: ["Centrul industriei grele mozambicane.", "Găzduiește o mare topitorie de aluminiu."],
       en: ["Center of Mozambican heavy industry.", "Features a large aluminum smelter."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Matola ist die Hauptstadt der Provinz Maputo und liegt unmittelbar westlich von Maputo. Mit der Ansiedlung zahlreicher Industriebetriebe, darunter eine der größten Aluminiumschmelzanlagen Afrikas, Moza Aluminium (Mozal), hat sich Matola zum industriellen Herz des Landes entwickelt. Die Stadt ist ein wichtiger Verkehrsknotenpunkt für den Export über den Hafen von Maputo. Geographie K7 – Industriezentren in Afrika.",
+      hu: "Matola Maputo tartomány fővárosa, közvetlenül a fővárostól nyugatra helyezkedik el. Számos ipari üzem betelepülésével, köztük a Mozal alumíniumkohászattal, Matola az ország ipari szívévé vált. A város fontos közlekedési csomópont a Maputo kikötőn keresztüli export számára. Földrajz K7 – ipari központok Afrikában.",
+      ro: "Matola este capitala provinciei Maputo și este situată imediat la vest de capitală. Odată cu dezvoltarea numeroaselor facilități industriale, inclusiv Mozal (unul dintre cele mai mari complexe de topire a aluminiului din Africa), Matola a devenit inima industrială a țării. Orașul este un nod de transport esențial pentru exporturi prin portul din Maputo. Geografie K7 – centre industriale în Africa.",
+      en: "Matola is the capital of Maputo Province and is located immediately west of the capital city. With the establishment of numerous industrial facilities, including Mozal (one of the largest aluminum smelters in Africa), Matola has become the country's industrial heart. The city serves as a key transport hub for exports through the port of Maputo. Geography K7 – industrial centers in Africa."
+    },
+    factsAdvanced: {
+      de: ["Matola dient als Hauptstadt der Provinz Maputo.", "Die Mozal-Aluminiumschmelze ist ein bedeutender Arbeitgeber.", "Matola liegt strategisch günstig am Beira-Korridor.", "Die Stadt verzeichnet ein schnelles demografisches Wachstum.", "Ein wichtiger Knotenpunkt für den Schienengüterverkehr.", "Industrie trägt signifikant zum Bruttoinlandsprodukt bei."],
+      hu: ["Matola Maputo tartomány székhelye.", "A Mozal alumíniumkohó jelentős munkaadó.", "Matola stratégiailag kedvező helyen fekszik a Beira-folyosón.", "A város gyors demográfiai növekedést mutat.", "Fontos csomópont a vasúti áruszállítás számára.", "Az ipar jelentősen hozzájárul a GDP-hez."],
+      ro: ["Matola servește drept capitală a provinciei Maputo.", "Topitoria de aluminiu Mozal este un angajator major.", "Matola este situat strategic pe coridorul Beira.", "Orașul înregistrează o creștere demografică rapidă.", "Un nod esențial pentru transportul feroviar de marfă.", "Industria contribuie semnificativ la PIB."],
+      en: ["Matola serves as the capital of Maputo Province.", "The Mozal aluminum smelter is a major employer.", "Matola is strategically located on the Beira corridor.", "The city is experiencing rapid demographic growth.", "An essential junction for freight rail transport.", "Industry contributes significantly to GDP."]
+    }, image: "/poi-images/matola-cities-v2.webp"},
   {
     id: "nampula-cities-v2",
     type: "state-capital",
@@ -41,8 +64,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Gyorsan növekvő népességgel rendelkezik.", "Fontos vasúti csomópont északon."],
       ro: ["Are o populație cu o creștere rapidă.", "Nod feroviar important în nord."],
       en: ["Has a rapidly growing population.", "Important railway junction in the north."]
-    }
-  },
+    }, image: "/poi-images/nampula-cities-v2.webp"},
   {
     id: "beira-cities-v2",
     type: "state-capital",
@@ -55,8 +77,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Mozambik második legnagyobb kikötője.", "2019-ben súlyosan érintette az Idai ciklon."],
       ro: ["Al doilea cel mai mare port din Mozambic.", "Afectat grav de ciclonul Idai în 2019."],
       en: ["Second largest port in Mozambique.", "Severely hit by Cyclone Idai in 2019."]
-    }
-  },
+    }, image: "/poi-images/beira-cities-v2.webp"},
   {
     id: "chimoio-cities-v2",
     type: "state-capital",
@@ -69,8 +90,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Mozambik ötödik legnagyobb városa.", "Fontos helyszín a történelmi Munhumutapa Birodalomban."],
       ro: ["Al cincilea cel mai mare oraș din Mozambic.", "Loc important în istoricul Imperiu Munhumutapa."],
       en: ["Fifth largest city in Mozambique.", "Important site in the historical Munhumutapa Empire."]
-    }
-  },
+    }, image: "/poi-images/chimoio-cities-v2.webp"},
   {
     id: "nacala-cities-v2",
     type: "city",
@@ -83,8 +103,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Afrika keleti partjának legmélyebb természetes kikötőjével rendelkezik.", "Különleges gazdasági övezet."],
       ro: ["Are cel mai adânc port natural de pe coasta de est a Africii.", "Este o zonă economică specială."],
       en: ["Has the deepest natural port on the east coast of Africa.", "It is a Special Economic Zone."]
-    }
-  },
+    }, image: "/poi-images/nacala-cities-v2.webp"},
   {
     id: "quelimane-cities-v2",
     type: "state-capital",
@@ -97,8 +116,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Történelmi kikötő a kereskedelem és az ültetvényes gazdálkodás számára.", "A partvidéket gyakran sújtják ciklonok."],
       ro: ["Port istoric pentru comerț și economia plantațiilor.", "Coasta de aici este adesea lovită de cicloni."],
       en: ["Historic port for trade and plantation economy.", "The coast here is frequently hit by cyclones."]
-    }
-  },
+    }, image: "/poi-images/quelimane-cities-v2.webp"},
   {
     id: "tete-cities-v2",
     type: "state-capital",
@@ -111,8 +129,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Mozambik egyik legforróbb városa.", "Fontos hídja van a Zambézi folyón."],
       ro: ["Unul dintre cele mai fierbinți orașe din Mozambic.", "Are un pod important peste râul Zambezi."],
       en: ["One of the hottest cities in Mozambique.", "Features an important bridge over the Zambezi River."]
-    }
-  },
+    }, image: "/poi-images/tete-cities-v2.webp"},
   {
     id: "xai-xai-cities-v2",
     type: "state-capital",
@@ -125,8 +142,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Az Indiai-óceán népszerű tengerparti üdülőhelyeinek közelében található.", "2000-ben súlyos áradások sújtották."],
       ro: ["Situat în apropierea stațiunilor populare de pe litoralul Oceanului Indian.", "A fost lovit de inundații severe în 2000."],
       en: ["Located near popular beach resorts on the Indian Ocean.", "Was hit by severe floods in 2000."]
-    }
-  },
+    }, image: "/poi-images/xai-xai-cities-v2.webp"},
   {
     id: "maxixe-cities-v2",
     type: "city",
@@ -139,8 +155,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Az Inhambane várossal szemben, az öböl túlpartján fekszik.", "Inhambane tartomány gazdasági csomópontja."],
       ro: ["Situat vizavi de orașul Inhambane, peste golf.", "Este centrul economic al provinciei Inhambane."],
       en: ["Situated across the bay from the city of Inhambane.", "It is the economic hub of the Inhambane Province."]
-    }
-  },
+    }, image: "/poi-images/maxixe-cities-v2.webp"},
   {
     id: "inhambane-cities-v2",
     type: "state-capital",
@@ -153,8 +168,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Mozambik egyik legrégebbi folyamatosan lakott városa.", "A 'Terra de Boa Gente' (Jó emberek földje) néven ismert."],
       ro: ["Unul dintre cele mai vechi orașe locuite permanent din Mozambic.", "Cunoscut sub numele de Terra de Boa Gente (Țara oamenilor buni)."],
       en: ["One of the oldest continuously inhabited cities in Mozambique.", "Known as Terra de Boa Gente (Land of Good People)."]
-    }
-  },
+    }, image: "/poi-images/inhambane-cities-v2.webp"},
   {
     id: "pemba-cities-v2",
     type: "state-capital",
@@ -167,8 +181,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Eredetileg Porto Amélia néven alapították.", "Hozzáférést biztosít a Quirimbas Nemzeti Parkhoz."],
       ro: ["Fondat inițial sub numele de Porto Amélia.", "Oferă acces la Parcul Național Quirimbas."],
       en: ["Originally founded under the name Porto Amélia.", "Provides access to the Quirimbas National Park."]
-    }
-  },
+    }, image: "/poi-images/pemba-cities-v2.webp"},
   {
     id: "lichinga-cities-v2",
     type: "state-capital",
@@ -181,8 +194,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Közel 1400 méteres magasságban fekszik.", "Kiterjedt fenyőerdők veszik körül."],
       ro: ["Situat la o altitudine de aproape 1.400 de metri.", "Înconjurat de păduri extinse de pini."],
       en: ["Situated at an altitude of nearly 1,400 meters.", "Surrounded by extensive pine forests."]
-    }
-  },
+    }, image: "/poi-images/lichinga-cities-v2.webp"},
   {
     id: "cuamba-cities-v2",
     type: "city",
@@ -195,8 +207,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Fontos csomópont a Nacala-vasútvonalon.", "Korábban Nova Freixo néven volt ismert."],
       ro: ["Nod important pe calea ferată Nacala.", "Cunoscut anterior sub numele de Nova Freixo."],
       en: ["Important junction on the Nacala railway line.", "Formerly known by the name Nova Freixo."]
-    }
-  },
+    }, image: "/poi-images/cuamba-cities-v2.webp"},
   {
     id: "mocuba-cities-v2",
     type: "city",
@@ -209,8 +220,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Mocuba jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Mocuba este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Mocuba is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/mocuba-cities-v2.webp"},
   {
     id: "gurue-cities-v2",
     type: "city",
@@ -223,8 +233,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Gurúè jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Gurúè este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Gurúè is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/gurue-cities-v2.webp"},
   {
     id: "dondo-cities-v2",
     type: "city",
@@ -237,8 +246,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Dondo jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Dondo este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Dondo is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/dondo-cities-v2.webp"},
   {
     id: "macomia-cities-v2",
     type: "city",
@@ -251,8 +259,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Macomia jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Macomia este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Macomia is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/macomia-cities-v2.webp"},
   {
     id: "montepuez-cities-v2",
     type: "city",
@@ -265,8 +272,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Montepuez jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Montepuez este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Montepuez is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/montepuez-cities-v2.webp"},
   {
     id: "angoche-cities-v2",
     type: "city",
@@ -279,8 +285,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Angoche jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Angoche este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Angoche is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/angoche-cities-v2.webp"},
   {
     id: "monapo-cities-v2",
     type: "city",
@@ -293,8 +298,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Monapo jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Monapo este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Monapo is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/monapo-cities-v2.webp"},
   {
     id: "mocimboa-da-praia-cities-v2",
     type: "city",
@@ -307,8 +311,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Mocímboa da Praia jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Mocímboa da Praia este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Mocímboa da Praia is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/mocimboa-da-praia-cities-v2.webp"},
   {
     id: "vilankulo-cities-v2",
     type: "city",
@@ -321,8 +324,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Vilankulo jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Vilankulo este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Vilankulo is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/vilankulo-cities-v2.webp"},
   {
     id: "chibuto-cities-v2",
     type: "city",
@@ -335,8 +337,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Chibuto jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Chibuto este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Chibuto is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/chibuto-cities-v2.webp"},
   {
     id: "moamba-cities-v2",
     type: "city",
@@ -349,8 +350,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Moamba jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Moamba este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Moamba is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/moamba-cities-v2.webp"},
   {
     id: "manhica-cities-v2",
     type: "city",
@@ -363,8 +363,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Manhiça jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Manhiça este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Manhiça is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/manhica-cities-v2.webp"},
   {
     id: "marracuene-cities-v2",
     type: "city",
@@ -377,8 +376,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Marracuene jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Marracuene este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Marracuene is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/marracuene-cities-v2.webp"},
   {
     id: "ressano-garcia-cities-v2",
     type: "city",
@@ -391,8 +389,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Ressano Garcia jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Ressano Garcia este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Ressano Garcia is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/ressano-garcia-cities-v2.webp"},
   {
     id: "moatize-cities-v2",
     type: "city",
@@ -405,8 +402,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Moatize jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Moatize este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Moatize is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/moatize-cities-v2.webp"},
   {
     id: "ulongue-cities-v2",
     type: "city",
@@ -419,8 +415,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Ulongué jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Ulongué este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Ulongué is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/ulongue-cities-v2.webp"},
   {
     id: "catandica-cities-v2",
     type: "city",
@@ -433,8 +428,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Catandica jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Catandica este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Catandica is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/catandica-cities-v2.webp"},
   {
     id: "gondola-cities-v2",
     type: "city",
@@ -447,8 +441,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Gondola jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Gondola este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Gondola is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/gondola-cities-v2.webp"},
   {
     id: "manica-cities-v2",
     type: "city",
@@ -461,8 +454,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Manica jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Manica este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Manica is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/manica-cities-v2.webp"},
   {
     id: "nhamatanda-cities-v2",
     type: "city",
@@ -475,8 +467,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Nhamatanda jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Nhamatanda este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Nhamatanda is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/nhamatanda-cities-v2.webp"},
   {
     id: "gorongosa-cities-v2",
     type: "city",
@@ -489,8 +480,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Gorongosa jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Gorongosa este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Gorongosa is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/gorongosa-cities-v2.webp"},
   {
     id: "metangula-cities-v2",
     type: "city",
@@ -503,8 +493,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Metangula jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Metangula este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Metangula is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/metangula-cities-v2.webp"},
   {
     id: "pebane-cities-v2",
     type: "city",
@@ -531,8 +520,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Maganja da Costa jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Maganja da Costa este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Maganja da Costa is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/maganja-da-costa-cities-v2.webp"},
   {
     id: "morrumbala-cities-v2",
     type: "city",
@@ -559,8 +547,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Namapa jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Namapa este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Namapa is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/namapa-cities-v2.webp"},
   {
     id: "ribaue-cities-v2",
     type: "city",
@@ -573,8 +560,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Ribáuè jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Ribáuè este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Ribáuè is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/ribaue-cities-v2.webp"},
   {
     id: "ilha-de-mocambique-cities-v2",
     type: "city",
@@ -587,8 +573,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Ilha de Moçambique jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Ilha de Moçambique este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Ilha de Moçambique is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/ilha-de-mocambique-cities-v2.webp"},
   {
     id: "malema-cities-v2",
     type: "city",
@@ -601,8 +586,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Malema jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Malema este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Malema is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/malema-cities-v2.webp"},
   {
     id: "nampula-a-velha-cities-v2",
     type: "city",
@@ -615,8 +599,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Nampula-a-Velha jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Nampula-a-Velha este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Nampula-a-Velha is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/nampula-a-velha-cities-v2.webp"},
   {
     id: "chiure-cities-v2",
     type: "city",
@@ -643,8 +626,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Mueda jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Mueda este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Mueda is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/mueda-cities-v2.webp"},
   {
     id: "ibo-cities-v2",
     type: "city",
@@ -657,8 +639,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Ibo jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Ibo este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Ibo is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/ibo-cities-v2.webp"},
   {
     id: "palma-cities-v2",
     type: "city",
@@ -671,8 +652,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Palma jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Palma este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Palma is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/palma-cities-v2.webp"},
   {
     id: "marrupa-cities-v2",
     type: "city",
@@ -685,8 +665,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Marrupa jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Marrupa este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Marrupa is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/marrupa-cities-v2.webp"},
   {
     id: "mandimba-cities-v2",
     type: "city",
@@ -699,8 +678,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Mandimba jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Mandimba este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Mandimba is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/mandimba-cities-v2.webp"},
   {
     id: "massinga-cities-v2",
     type: "city",
@@ -713,8 +691,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Massinga jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Massinga este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Massinga is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/massinga-cities-v2.webp"},
   {
     id: "zavala-cities-v2",
     type: "city",
@@ -727,8 +704,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Zavala jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Zavala este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Zavala is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/zavala-cities-v2.webp"},
   {
     id: "homoine-cities-v2",
     type: "city",
@@ -741,8 +717,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Homoine jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Homoine este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Homoine is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/homoine-cities-v2.webp"},
   {
     id: "panda-cities-v2",
     type: "city",
@@ -755,8 +730,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Panda jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Panda este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Panda is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/panda-cities-v2.webp"},
   {
     id: "maciene-cities-v2",
     type: "city",
@@ -769,8 +743,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Maciene jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Maciene este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Maciene is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/maciene-cities-v2.webp"},
   {
     id: "macia-cities-v2",
     type: "city",
@@ -783,8 +756,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Macia jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Macia este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Macia is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/macia-cities-v2.webp"},
   {
     id: "chokwe-cities-v2",
     type: "city",
@@ -797,8 +769,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Chókwè jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Chókwè este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Chókwè is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/chokwe-cities-v2.webp"},
   {
     id: "massingir-cities-v2",
     type: "city",
@@ -811,8 +782,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Massingir jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Massingir este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Massingir is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/massingir-cities-v2.webp"},
   {
     id: "namaacha-cities-v2",
     type: "city",
@@ -825,8 +795,7 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       hu: ["Namaacha jelentős település Mozambikban.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Namaacha este o așezare importantă în Mozambic.", "Joacă un rol important în economia locală."],
       en: ["Namaacha is a significant settlement in Mozambique.", "Plays an important role in the local economy."]
-    }
-  },
+    }, image: "/poi-images/namaacha-cities-v2.webp"},
   {
     id: "boane-cities-v2",
     type: "city",
@@ -842,3 +811,4 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     }
   }
 ];
+

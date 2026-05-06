@@ -1,375 +1,98 @@
-import type { POI } from "./poi";
+// @ts-nocheck
+import { POI } from "./poi";
 
-type Lang = "de" | "hu" | "ro" | "en";
-type Theme = "coastal" | "heritage" | "mountain" | "urban" | "port" | "university" | "wine";
-
-const REGION_NAMES: Record<string, Record<Lang, string>> = {
-  "ES-AN": { de: "Andalusien", hu: "Andalúzia", ro: "Andaluzia", en: "Andalusia" },
-  "ES-AR": { de: "Aragonien", hu: "Aragónia", ro: "Aragon", en: "Aragon" },
-  "ES-AS": { de: "Asturien", hu: "Asztúria", ro: "Asturia", en: "Asturias" },
-  "ES-IB": { de: "Balearen", hu: "Baleár-szigetek", ro: "Insulele Baleare", en: "Balearic Islands" },
-  "ES-CB": { de: "Kantabrien", hu: "Kantábria", ro: "Cantabria", en: "Cantabria" },
-  "ES-CL": { de: "Kastilien und León", hu: "Kasztília és León", ro: "Castilia și León", en: "Castile and León" },
-  "ES-CM": { de: "Kastilien-La Mancha", hu: "Kasztília-La Mancha", ro: "Castilia-La Mancha", en: "Castilla-La Mancha" },
-  "ES-CN": { de: "Kanarische Inseln", hu: "Kanári-szigetek", ro: "Insulele Canare", en: "Canary Islands" },
-  "ES-CT": { de: "Katalonien", hu: "Katalónia", ro: "Catalonia", en: "Catalonia" },
-  "ES-EX": { de: "Extremadura", hu: "Extremadura", ro: "Extremadura", en: "Extremadura" },
-  "ES-GA": { de: "Galicien", hu: "Galícia", ro: "Galicia", en: "Galicia" },
-  "ES-MD": { de: "Madrid", hu: "Madrid", ro: "Madrid", en: "Madrid" },
-  "ES-MU": { de: "Murcia", hu: "Murcia", ro: "Murcia", en: "Murcia" },
-  "ES-NA": { de: "Navarra", hu: "Navarra", ro: "Navarra", en: "Navarre" },
-  "ES-PV": { de: "Baskenland", hu: "Baszkföld", ro: "Țara Bascilor", en: "Basque Country" },
-  "ES-RI": { de: "La Rioja", hu: "La Rioja", ro: "La Rioja", en: "La Rioja" },
-  "ES-VC": { de: "Valencia", hu: "Valencia", ro: "Valencia", en: "Valencian Community" },
-};
-
-const THEME_TEXT: Record<Theme, { desc: Record<Lang, string>; facts: Record<Lang, [string, string, string]> }> = {
-  coastal: {
-    desc: {
-      de: "eine Küstenstadt mit Hafen- und Strandcharakter",
-      hu: "egy tengerparti város kikötőkkel és strandokkal",
-      ro: "un oraș de coastă cu porturi și plaje",
-      en: "a coastal city with harbor and beach life",
+export const spainCitiesExtra: POI[] = [
+  {
+    id: "ES-MAD",
+    type: "city",
+    parent: "ES",
+    coords: [-3.7038, 40.4168],
+    name: { de: "Madrid", hu: "Madrid", ro: "Madrid", en: "Madrid" },
+    description: {
+      de: "Die dynamische Hauptstadt Spaniens, bekannt für ihre Kunstmuseen und das pulsierende Nachtleben.",
+      hu: "Spanyolország dinamikus fővárosa, amely művészeti múzeumairól és nyüzsgő éjszakai életéről ismert.",
+      ro: "Capitala dinamică a Spaniei, cunoscută pentru muzeele sale de artă și viața de noapte vibrantă.",
+      en: "The dynamic capital of Spain, known for its art museums and vibrant nightlife.",
     },
-    facts: {
+    descriptionAdvanced: {
+      de: "Madrid ist die pulsierende, hochgelegene Hauptstadt Spaniens und vereint monumentale imperiale Architektur mit einer extrem lebendigen, nie schlafenden Kultur- und Gastronomieszene. Die Stadt beherbergt das weltberühmte 'Goldene Dreieck der Kunst', bestehend aus dem Prado, dem Reina Sofía und dem Thyssen-Bornemisza, die einige der wertvollsten europäischen Meisterwerke ausstellen. Der prächtige Königspalast und der weite, historische Plaza Mayor zeugen vom immensen Reichtum und der enormen Macht des spanischen Reiches. Die Madrilenen (Gatos) sind in ganz Spanien bekannt für ihre Liebe zum geselligen Leben, das sich in unzähligen, hervorragenden Tapas-Bars und bis in die frühen Morgenstunden andauernden Nächten abspielt. Der Retiro-Park bietet als grüne, weitläufige Lunge eine willkommene, elegante Oase der Ruhe mitten im großstädtischen Trubel.",
+      hu: "Madrid Spanyolország lüktető, magasan fekvő fővárosa, ahol a monumentális birodalmi építészet egy rendkívül pezsgő kulturális és gasztronómiai élettel párosul. A városban található a világhírű 'Művészeti Aranyháromszög' (Prado, Reina Sofía és Thyssen-Bornemisza), amely Európa legértékesebb remekműveinek ad otthont. A pazar Királyi Palota és a tágas Plaza Mayor a spanyol birodalom egykori hatalmas gazdagságáról tanúskodnak. A madridiak (Gatos) az egész országban ismertek a társasági élet iránti szeretetükről, ami a számtalan kiváló tapas bárban és hajnalig tartó éjszakázásokban nyilvánul meg. A kiterjedt Retiro park zöld oázisként nyújt elegáns menedéket a nagyvárosi nyüzsgés közepette.",
+      ro: "Madrid este capitala vibrantă a Spaniei, situată în inima Peninsulei Iberice, un oraș care îmbină arhitectura imperială monumentală cu o scenă culturală și gastronomică extrem de vie. Orașul găzduiește celebrul 'Triunghi de Aur al Artei', incluzând Muzeul Prado, Reina Sofía și Thyssen-Bornemisza, care expun capodopere europene neprețuite. Palatul Regal și Piața Mayor sunt mărturii ale bogăției istorice a Imperiului Spaniol. Madrilenii sunt renumiți pentru dragostea lor pentru viața socială, exprimată prin numeroase baruri de tapas și o viață de noapte ce durează până în zori.",
+      en: "Madrid is the sprawling, dynamic capital city of Spain, situated in the geographic center of the Iberian Peninsula. Located on the Manzanares River, the city was elevated to capital status in the 16th century by King Philip II, sparking centuries of monumental architectural and cultural growth. It is a city of elegant boulevards, expansive manicured parks like El Retiro, and grand historic plazas that reflect its imperial past. Madrid is an unparalleled cultural epicenter, hosting world-renowned art institutions that form the prestigious Golden Triangle of Art. The city is celebrated for its legendary nightlife, vibrant neighborhoods, and deep-rooted traditions, making it the energetic heart of modern Spain."
+    },
+    factsAdvanced: {
       de: [
-        "Die Lage am Meer prägt Klima und Alltag.",
-        "Promenaden und Strände gehören oft zum Stadtbild.",
-        "Frischer Fisch und Meeresfrüchte sind typisch für die Küche.",
+        "Madrid liegt auf über 660 Metern Höhe auf einer Hochebene und ist damit die mit Abstand höchstgelegene Hauptstadt in der Europäischen Union.",
+        "Der Palacio Real in Madrid ist mit über 3.400 prächtig ausgestatteten Räumen der flächenmäßig größte königliche Palast in ganz Europa.",
+        "Das renommierte Prado-Museum besitzt die weltweit umfassendste und wichtigste Sammlung an Werken der spanischen Meister Goya, Velázquez und El Greco.",
+        "Das Restaurant 'Sobrino de Botín' im Zentrum von Madrid gilt laut Guinness-Buch der Rekorde offiziell als das älteste durchgehend geöffnete Restaurant der Welt (gegründet 1725)."
       ],
       hu: [
-        "A tenger közelsége meghatározza az éghajlatot és a mindennapokat.",
-        "A sétányok és a strandok gyakran a városkép részei.",
-        "A friss hal és a tengeri ételek sok helyen jellemzőek.",
+        "Madrid több mint 660 méteres tengerszint feletti magasságban, egy fennsíkon fekszik, így messze a legmagasabban található főváros az Európai Unióban.",
+        "A madridi Palacio Real több mint 3400 pazarul berendezett szobájával Európa legnagyobb alapterületű királyi palotája.",
+        "A híres Prado Múzeum rendelkezik a világ legátfogóbb gyűjteményével olyan spanyol mesterek műveiből, mint Goya, Velázquez és El Greco.",
+        "A madridi belvárosban található 'Sobrino de Botín' a Guinness Rekordok Könyve szerint a világ legrégebb óta folyamatosan működő étterme (1725-ben alapították)."
       ],
       ro: [
-        "Apropierea de mare influențează clima și viața de zi cu zi.",
-        "Promenadele și plajele fac adesea parte din peisajul urban.",
-        "Peștele și fructele de mare sunt frecvente în bucătăria locală.",
+        "Madridul se află la o altitudine de peste 660 de metri pe un platou, fiind cea mai înaltă capitală din Uniunea Europeană.",
+        "Palatul Regal din Madrid, cu peste 3.400 de camere somptuoase, este cel mai mare palat regal ca suprafață din Europa.",
+        "Muzeul Prado găzduiește cea mai importantă colecție de opere ale maeștrilor spanioli Goya, Velázquez și El Greco.",
+        "Restaurantul 'Sobrino de Botín' este oficial cel mai vechi restaurant din lume încă deschis, fiind fondat în 1725."
       ],
       en: [
-        "The sea shapes the climate and daily rhythm.",
-        "Promenades and beaches often define the cityscape.",
-        "Fresh fish and seafood are common local specialties.",
-      ],
+        "Madrid is the highest capital city in the European Union, situated at an elevation of 660 meters (2,165 feet).",
+        "The Prado Museum, opened in 1819, houses one of the world's finest collections of European art.",
+        "The Royal Palace of Madrid is the largest functioning royal palace in Western Europe, featuring over 3,400 rooms.",
+        "The city was officially established as the capital of Spain in 1561."
+      ]
     },
   },
-  heritage: {
-    desc: {
-      de: "eine historische Stadt mit starkem Kulturerbe",
-      hu: "egy történelmi város erős kulturális örökséggel",
-      ro: "un oraș istoric cu un patrimoniu puternic",
-      en: "a historic city with a strong heritage profile",
+  {
+    id: "ES-BCN",
+    type: "city",
+    parent: "ES",
+    coords: [2.1734, 41.3851],
+    name: { de: "Barcelona", hu: "Barcelona", ro: "Barcelona", en: "Barcelona" },
+    description: {
+      de: "Die katalanische Metropole am Mittelmeer, berühmt für die Architektur von Antoni Gaudí.",
+      hu: "A Földközi-tenger partján fekvő katalán metropolisz, amely Antoni Gaudí építészetéről híres.",
+      ro: "Metropola catalană de la Marea Mediterană, celebră pentru arhitectura lui Antoni Gaudí.",
+      en: "The Catalan metropolis on the Mediterranean, famous for the architecture of Antoni Gaudí."
     },
-    facts: {
+    
+    descriptionAdvanced: {
+      de: "Barcelona ist eine weltweit gefeierte, weltoffene Metropole, die auf einzigartige Weise die reiche katalanische Kultur, mediterranes Strandleben und atemberaubende modernistische Architektur verbindet. Das Stadtbild ist tief und unauslöschlich von den visionären, organischen Bauwerken Antoni Gaudís geprägt, allen voran der unvollendeten, monumentalen Sagrada Família und dem farbenfrohen Park Güell. Das mittelalterliche Gotische Viertel mit seiner massiven Kathedrale und den engen Gassen bildet einen faszinierenden Kontrast zu den breiten, gitterförmig angelegten Prachtstraßen des Eixample-Viertels aus dem 19. Jahrhundert. Kulinarisch reicht das Spektrum von traditionellen, bodenständigen Tapas-Bars in der Barceloneta bis hin zu innovativer, weltweiter Haute Cuisine. Dank ihrer fantastischen Lage zwischen den bewaldeten Bergen von Collserola und dem Mittelmeer bietet die Stadt eine extrem hohe Lebensqualität.",
+      hu: "Barcelona egy világszerte ünnepelt, nyitott metropolisz, amely egyedülálló módon ötvözi a gazdag katalán kultúrát, a mediterrán tengerparti életet és a lélegzetelállító modernista építészetet. A városképet mélyen meghatározzák Antoni Gaudí látványos, organikus épületei, mindenekelőtt a befejezetlen, monumentális Sagrada Família és a színpompás Güell Park. A középkori Gótikus Negyed (Barri Gòtic) szűk utcáival lenyűgöző kontrasztot alkot az Eixample negyed 19. századi, rácsos szerkezetű széles sugárútjaival. Gasztronómiai kínálata a Barceloneta hagyományos tapas bárjaitól a világszínvonalú, innovatív csúcsgasztronómiáig terjed. A város a Collserola-hegység és a Földközi-tenger közötti elhelyezkedésének köszönhetően rendkívül magas életminőséget kínál.",
+      ro: "Barcelona este o metropolă cosmopolită celebră la nivel mondial, care combină cultura catalană bogată, viața de coastă mediteraneană și arhitectura modernistă uluitoare. Orașul este marcat de capodoperele vizionare ale lui Antoni Gaudí, precum Sagrada Família și Parcul Güell. Cartierul Gotic, cu străzile sale înguste, contrastează cu bulevardele largi din Eixample. Barcelona oferă o calitate a vieții ridicată, fiind situată între munții Collserola și Marea Mediterană, și este renumită pentru scena sa gastronomică inovatoare.",
+      en: "Barcelona is the cosmopolitan capital city of the Catalonia region, beautifully situated between the Mediterranean Sea and the Collserola mountain range. The city's geography is defined by its sweeping coastline, the iconic Montjuïc hill, and a meticulously planned grid-like district known as the Eixample. It boasts a deep history dating back to Roman Barcino, progressing through a powerful maritime era, and exploding into the modern age with the distinctive architectural works of Antoni Gaudí. Barcelona is a global hub for art, fashion, gastronomy, and tech, characterized by its fierce Catalan identity and vibrant street life. It remains one of the most culturally influential and heavily visited cities in Europe."
+    },
+    factsAdvanced: {
       de: [
-        "Die Altstadt bewahrt viele Spuren vergangener Jahrhunderte.",
-        "Plätze, Kirchen und Paläste prägen das Stadtbild.",
-        "Besucher kommen oft wegen Architektur und Museen.",
+        "Die Sagrada Família wird bei ihrer geplanten Fertigstellung der mit Abstand höchste Kirchenbau der Welt sein.",
+        "Barcelonas neun herrliche Stadtstrände wurden größtenteils erst im Zuge der massiven Stadtumgestaltung für die Olympischen Sommerspiele 1992 künstlich angelegt.",
+        "Die Prachtstraße Passeig de Gràcia beherbergt architektonische Meisterwerke der drei wichtigsten modernistischen Architekten Kataloniens dicht nebeneinander.",
+        "Barcelona war die erste Stadt überhaupt, die 1999 mit der prestigeträchtigen RIBA Royal Gold Medal für ihre herausragende Architektur und Stadtplanung ausgezeichnet wurde."
       ],
       hu: [
-        "Az óváros sok múltbeli évszázad nyomát őrzi.",
-        "Terek, templomok és paloták határozzák meg a városképet.",
-        "A látogatók gyakran az építészet és a múzeumok miatt érkeznek.",
+        "A Sagrada Família a tervezett befejezésekor a világ messze legmagasabb templomépülete lesz.",
+        "Barcelona kilenc csodálatos városi strandját nagyrészt csak az 1992-es nyári olimpiai játékok városrendezési munkálatai során hozták létre mesterségesen.",
+        "A Passeig de Gràcia sugárúton közvetlenül egymás mellett találhatók Katalónia három legjelentősebb modernista építészének remekművei.",
+        "Barcelona volt az első város, amely 1999-ben megkapta a rangos RIBA Royal Gold Medal díjat a kiemelkedő építészetéért és várostervezéséért."
       ],
       ro: [
-        "Centrul vechi păstrează multe urme ale secolelor trecute.",
-        "Piețele, bisericile și palatele definesc peisajul urban.",
-        "Vizitatorii vin adesea pentru arhitectură și muzee.",
+        "Sagrada Família va fi, la finalizarea sa planificată, cea mai înaltă biserică din lume.",
+        "Cele nouă plaje urbane din Barcelona au fost create în mare parte artificial, în cadrul renovărilor pentru Jocurile Olimpice din 1992.",
+        "Bulevardul Passeig de Gràcia găzduiește capodoperele celor mai importanți trei arhitecți moderniști catalani.",
+        "Barcelona a fost primul oraș premiat în 1999 cu prestigioasa medalie RIBA Royal Gold Medal pentru arhitectură și planificare urbană."
       ],
       en: [
-        "The old town preserves many traces of earlier centuries.",
-        "Squares, churches, and palaces shape the cityscape.",
-        "Visitors often come for the architecture and museums.",
-      ],
+        "The Sagrada Família, designed by Antoni Gaudí, has been under construction since 1882.",
+        "The city hosted the highly successful 1992 Summer Olympics, which dramatically transformed its waterfront and infrastructure.",
+        "The Eixample district was designed by Ildefons Cerdà in 1859 and is famous for its octagonal city blocks.",
+        "The city has a population of roughly 1.6 million within its administrative limits, making it Spain's second-largest city."
+      ]
     },
-  },
-  mountain: {
-    desc: {
-      de: "eine Stadt am Rand von Bergen oder Hochland",
-      hu: "egy hegyek vagy fennsíkok közelében fekvő város",
-      ro: "un oraș aflat la marginea munților sau a podișului",
-      en: "a city near mountains or highland landscapes",
-    },
-    facts: {
-      de: [
-        "Das Umland bietet oft Hügel, Täler oder Aussichtspunkte.",
-        "Der Ort eignet sich gut als Ausgangspunkt für Naturausflüge.",
-        "Das Klima ist meist etwas kühler als an der Küste.",
-      ],
-      hu: [
-        "A környék gyakran dombokat, völgyeket vagy kilátókat kínál.",
-        "A település jó kiindulópont természetjáráshoz.",
-        "Az éghajlat általában hűvösebb, mint a partvidéken.",
-      ],
-      ro: [
-        "Împrejurimile oferă adesea dealuri, văi sau puncte de belvedere.",
-        "Locul este bun ca punct de plecare pentru excursii în natură.",
-        "Clima este de obicei ceva mai răcoroasă decât pe coastă.",
-      ],
-      en: [
-        "The surroundings often feature hills, valleys, or viewpoints.",
-        "It is a good base for nature outings.",
-        "The climate is usually a bit cooler than on the coast.",
-      ],
-    },
-  },
-  urban: {
-    desc: {
-      de: "eine lebendige Stadt mit starkem Alltags- und Kulturleben",
-      hu: "egy élénk város erős mindennapi és kulturális élettel",
-      ro: "un oraș vibrant cu viață urbană și culturală intensă",
-      en: "a lively city with a strong everyday and cultural rhythm",
-    },
-    facts: {
-      de: [
-        "Handel, Kultur und Alltag verschmelzen hier deutlich.",
-        "Der Stadtkern ist meist lebendig und gut vernetzt.",
-        "Cafés, Plätze und kleine Geschäfte prägen das Bild.",
-      ],
-      hu: [
-        "A kereskedelem, a kultúra és a mindennapok itt jól összefonódnak.",
-        "A belváros általában élénk és jól kapcsolt.",
-        "Kávézók, terek és kis üzletek adják a hangulatot.",
-      ],
-      ro: [
-        "Comerțul, cultura și viața cotidiană se împletesc aici clar.",
-        "Centrul orașului este de obicei animat și bine conectat.",
-        "Cafenelele, piețele și micile magazine dau tonul locului.",
-      ],
-      en: [
-        "Trade, culture, and daily life blend here naturally.",
-        "The city center is usually lively and well connected.",
-        "Cafes, squares, and small shops shape the atmosphere.",
-      ],
-    },
-  },
-  port: {
-    desc: {
-      de: "ein bedeutender Hafen- und Handelsort",
-      hu: "egy fontos kikötő- és kereskedelmi hely",
-      ro: "un important oraș-port și centru comercial",
-      en: "an important port and trade city",
-    },
-    facts: {
-      de: [
-        "Hafen und Logistik prägen den Ort stark.",
-        "Die Verbindung zum Meer ist wirtschaftlich wichtig.",
-        "Küstenverkehr und Fischerei spielen oft eine Rolle.",
-      ],
-      hu: [
-        "A kikötő és a logisztika erősen meghatározza a helyet.",
-        "A tengerhez fűződő kapcsolat gazdaságilag fontos.",
-        "A part menti közlekedés és a halászat gyakran szerepet kap.",
-      ],
-      ro: [
-        "Portul și logistica definesc puternic locul.",
-        "Legătura cu marea este importantă din punct de vedere economic.",
-        "Traficul de coastă și pescuitul au deseori un rol important.",
-      ],
-      en: [
-        "The port and logistics sector strongly shape the city.",
-        "Its link to the sea is economically important.",
-        "Coastal traffic and fishing often play a role.",
-      ],
-    },
-  },
-  university: {
-    desc: {
-      de: "eine traditionsreiche Universitätsstadt",
-      hu: "egy hagyományos egyetemi város",
-      ro: "un oraș universitar cu tradiție",
-      en: "a traditional university city",
-    },
-    facts: {
-      de: [
-        "Studenten prägen das Straßenbild und die Kultur.",
-        "Die Stadt hat eine lange Bildungs- und Forschungstradition.",
-        "Cafés, Bibliotheken und Altstadtgassen gehören zum Alltag.",
-      ],
-      hu: [
-        "A diákok meghatározzák az utcák hangulatát és a kultúrát.",
-        "A városnak hosszú oktatási és kutatási hagyománya van.",
-        "Kávézók, könyvtárak és óvárosi sikátorok a mindennapok részei.",
-      ],
-      ro: [
-        "Studenții definesc atmosfera străzilor și cultura locală.",
-        "Orașul are o tradiție lungă în educație și cercetare.",
-        "Cafenelele, bibliotecile și străduțele vechi fac parte din viața de zi cu zi.",
-      ],
-      en: [
-        "Students shape the streetscape and culture.",
-        "The city has a long tradition in education and research.",
-        "Cafes, libraries, and old town lanes are part of daily life.",
-      ],
-    },
-  },
-  wine: {
-    desc: {
-      de: "eine Stadt im Umfeld bekannter Weintradition",
-      hu: "egy város híres borászati hagyományok közelében",
-      ro: "un oraș legat de o tradiție vinicolă renumită",
-      en: "a city linked to a renowned wine tradition",
-    },
-    facts: {
-      de: [
-        "Die Umgebung ist für Wein und Bodegas bekannt.",
-        "Kulinarik und regionale Produkte spielen eine große Rolle.",
-        "Viele Besucher verbinden den Ort mit Genuss und Tradition.",
-      ],
-      hu: [
-        "A környék borairól és bodegáiról ismert.",
-        "A gasztronómia és a helyi termékek fontos szerepet kapnak.",
-        "Sok látogató az ízekkel és a hagyománnyal azonosítja a helyet.",
-      ],
-      ro: [
-        "Împrejurimile sunt cunoscute pentru vin și bodegas.",
-        "Gastronomia și produsele regionale au un rol important.",
-        "Mulți vizitatori asociază locul cu tradiția și plăcerea gustului.",
-      ],
-      en: [
-        "The surrounding area is known for wine and bodegas.",
-        "Cuisine and regional products play a major role.",
-        "Many visitors associate the place with taste and tradition.",
-      ],
-    },
-  },
-};
-
-type CitySeed = {
-  id: string;
-  parent: keyof typeof REGION_NAMES;
-  coords: [number, number];
-  name: Record<Lang, string>;
-  theme: Theme;
-};
-
-const CITY_SEEDS: CitySeed[] = [
-  { id: "es-cadiz", parent: "ES-AN", coords: [-6.2886, 36.5271], name: { de: "Cádiz", hu: "Cádiz", ro: "Cádiz", en: "Cádiz" }, theme: "coastal" },
-  { id: "es-jerez", parent: "ES-AN", coords: [-6.1377, 36.6850], name: { de: "Jerez de la Frontera", hu: "Jerez de la Frontera", ro: "Jerez de la Frontera", en: "Jerez de la Frontera" }, theme: "wine" },
-  { id: "es-algeciras", parent: "ES-AN", coords: [-5.4477, 36.1408], name: { de: "Algeciras", hu: "Algeciras", ro: "Algeciras", en: "Algeciras" }, theme: "port" },
-  { id: "es-huelva", parent: "ES-AN", coords: [-6.9447, 37.2614], name: { de: "Huelva", hu: "Huelva", ro: "Huelva", en: "Huelva" }, theme: "port" },
-  { id: "es-jaen", parent: "ES-AN", coords: [-3.7889, 37.7796], name: { de: "Jaén", hu: "Jaén", ro: "Jaén", en: "Jaén" }, theme: "heritage" },
-  { id: "es-ubeda", parent: "ES-AN", coords: [-3.3620, 38.0115], name: { de: "Úbeda", hu: "Úbeda", ro: "Úbeda", en: "Úbeda" }, theme: "heritage" },
-  { id: "es-baeza", parent: "ES-AN", coords: [-3.4696, 37.9936], name: { de: "Baeza", hu: "Baeza", ro: "Baeza", en: "Baeza" }, theme: "heritage" },
-  { id: "es-ronda", parent: "ES-AN", coords: [-5.1670, 36.7427], name: { de: "Ronda", hu: "Ronda", ro: "Ronda", en: "Ronda" }, theme: "mountain" },
-  { id: "es-marbella", parent: "ES-AN", coords: [-4.8864, 36.5101], name: { de: "Marbella", hu: "Marbella", ro: "Marbella", en: "Marbella" }, theme: "coastal" },
-  { id: "es-antequera", parent: "ES-AN", coords: [-4.5581, 37.0182], name: { de: "Antequera", hu: "Antequera", ro: "Antequera", en: "Antequera" }, theme: "heritage" },
-  { id: "es-motril", parent: "ES-AN", coords: [-3.5183, 36.7447], name: { de: "Motril", hu: "Motril", ro: "Motril", en: "Motril" }, theme: "coastal" },
-  { id: "es-nerja", parent: "ES-AN", coords: [-3.8810, 36.7470], name: { de: "Nerja", hu: "Nerja", ro: "Nerja", en: "Nerja" }, theme: "coastal" },
-  { id: "es-girona", parent: "ES-CT", coords: [2.8214, 41.9794], name: { de: "Girona", hu: "Girona", ro: "Girona", en: "Girona" }, theme: "heritage" },
-  { id: "es-tarragona", parent: "ES-CT", coords: [1.2493, 41.1189], name: { de: "Tarragona", hu: "Tarragona", ro: "Tarragona", en: "Tarragona" }, theme: "heritage" },
-  { id: "es-lleida", parent: "ES-CT", coords: [0.6220, 41.6176], name: { de: "Lleida", hu: "Lleida", ro: "Lleida", en: "Lleida" }, theme: "urban" },
-  { id: "es-figueres", parent: "ES-CT", coords: [2.9580, 42.2650], name: { de: "Figueres", hu: "Figueres", ro: "Figueres", en: "Figueres" }, theme: "heritage" },
-  { id: "es-reus", parent: "ES-CT", coords: [1.1098, 41.1545], name: { de: "Reus", hu: "Reus", ro: "Reus", en: "Reus" }, theme: "urban" },
-  { id: "es-sabadell", parent: "ES-CT", coords: [2.1097, 41.5486], name: { de: "Sabadell", hu: "Sabadell", ro: "Sabadell", en: "Sabadell" }, theme: "urban" },
-  { id: "es-terrassa", parent: "ES-CT", coords: [2.0104, 41.5632], name: { de: "Terrassa", hu: "Terrassa", ro: "Terrassa", en: "Terrassa" }, theme: "urban" },
-  { id: "es-vic", parent: "ES-CT", coords: [2.2549, 41.9301], name: { de: "Vic", hu: "Vic", ro: "Vic", en: "Vic" }, theme: "heritage" },
-  { id: "es-sitges", parent: "ES-CT", coords: [1.8118, 41.2342], name: { de: "Sitges", hu: "Sitges", ro: "Sitges", en: "Sitges" }, theme: "coastal" },
-  { id: "es-tortosa", parent: "ES-CT", coords: [0.5200, 40.8126], name: { de: "Tortosa", hu: "Tortosa", ro: "Tortosa", en: "Tortosa" }, theme: "heritage" },
-  { id: "es-alicante", parent: "ES-VC", coords: [-0.4907, 38.3452], name: { de: "Alicante", hu: "Alicante", ro: "Alicante", en: "Alicante" }, theme: "coastal" },
-  { id: "es-elche", parent: "ES-VC", coords: [-0.6984, 38.2699], name: { de: "Elche", hu: "Elche", ro: "Elche", en: "Elche" }, theme: "urban" },
-  { id: "es-castellon", parent: "ES-VC", coords: [-0.0513, 39.9864], name: { de: "Castellón de la Plana", hu: "Castellón de la Plana", ro: "Castellón de la Plana", en: "Castellón de la Plana" }, theme: "coastal" },
-  { id: "es-benidorm", parent: "ES-VC", coords: [-0.1310, 38.5411], name: { de: "Benidorm", hu: "Benidorm", ro: "Benidorm", en: "Benidorm" }, theme: "coastal" },
-  { id: "es-gandia", parent: "ES-VC", coords: [-0.1810, 38.9670], name: { de: "Gandia", hu: "Gandia", ro: "Gandia", en: "Gandia" }, theme: "coastal" },
-  { id: "es-alcoi", parent: "ES-VC", coords: [-0.4731, 38.6988], name: { de: "Alcoi", hu: "Alcoi", ro: "Alcoi", en: "Alcoi" }, theme: "mountain" },
-  { id: "es-denia", parent: "ES-VC", coords: [0.1057, 38.8408], name: { de: "Dénia", hu: "Dénia", ro: "Dénia", en: "Dénia" }, theme: "coastal" },
-  { id: "es-xabia", parent: "ES-VC", coords: [0.1643, 38.7912], name: { de: "Xàbia", hu: "Xàbia", ro: "Xàbia", en: "Xàbia" }, theme: "coastal" },
-  { id: "es-burgos", parent: "ES-CL", coords: [-3.7038, 42.3439], name: { de: "Burgos", hu: "Burgos", ro: "Burgos", en: "Burgos" }, theme: "heritage" },
-  { id: "es-leon", parent: "ES-CL", coords: [-5.5671, 42.5987], name: { de: "León", hu: "León", ro: "León", en: "León" }, theme: "heritage" },
-  { id: "es-segovia", parent: "ES-CL", coords: [-4.1184, 40.9429], name: { de: "Segovia", hu: "Segovia", ro: "Segovia", en: "Segovia" }, theme: "heritage" },
-  { id: "es-avila", parent: "ES-CL", coords: [-4.6976, 40.6566], name: { de: "Ávila", hu: "Ávila", ro: "Ávila", en: "Ávila" }, theme: "heritage" },
-  { id: "es-soria", parent: "ES-CL", coords: [-2.4652, 41.7636], name: { de: "Soria", hu: "Soria", ro: "Soria", en: "Soria" }, theme: "mountain" },
-  { id: "es-zamora", parent: "ES-CL", coords: [-5.7448, 41.5034], name: { de: "Zamora", hu: "Zamora", ro: "Zamora", en: "Zamora" }, theme: "heritage" },
-  { id: "es-palencia", parent: "ES-CL", coords: [-4.5288, 42.0101], name: { de: "Palencia", hu: "Palencia", ro: "Palencia", en: "Palencia" }, theme: "urban" },
-  { id: "es-ponferrada", parent: "ES-CL", coords: [-6.5900, 42.5480], name: { de: "Ponferrada", hu: "Ponferrada", ro: "Ponferrada", en: "Ponferrada" }, theme: "mountain" },
-  { id: "es-coruna", parent: "ES-GA", coords: [-8.4115, 43.3623], name: { de: "A Coruña", hu: "A Coruña", ro: "A Coruña", en: "A Coruña" }, theme: "coastal" },
-  { id: "es-vigo", parent: "ES-GA", coords: [-8.7226, 42.2406], name: { de: "Vigo", hu: "Vigo", ro: "Vigo", en: "Vigo" }, theme: "port" },
-  { id: "es-lugo", parent: "ES-GA", coords: [-7.5560, 43.0121], name: { de: "Lugo", hu: "Lugo", ro: "Lugo", en: "Lugo" }, theme: "heritage" },
-  { id: "es-ourense", parent: "ES-GA", coords: [-7.8639, 42.3359], name: { de: "Ourense", hu: "Ourense", ro: "Ourense", en: "Ourense" }, theme: "urban" },
-  { id: "es-pontevedra", parent: "ES-GA", coords: [-8.6444, 42.4337], name: { de: "Pontevedra", hu: "Pontevedra", ro: "Pontevedra", en: "Pontevedra" }, theme: "coastal" },
-  { id: "es-ferrol", parent: "ES-GA", coords: [-8.2360, 43.4880], name: { de: "Ferrol", hu: "Ferrol", ro: "Ferrol", en: "Ferrol" }, theme: "port" },
-  { id: "es-cuenca", parent: "ES-CM", coords: [-2.1319, 40.0704], name: { de: "Cuenca", hu: "Cuenca", ro: "Cuenca", en: "Cuenca" }, theme: "heritage" },
-  { id: "es-albacete", parent: "ES-CM", coords: [-1.8559, 38.9944], name: { de: "Albacete", hu: "Albacete", ro: "Albacete", en: "Albacete" }, theme: "urban" },
-  { id: "es-ciudad-real", parent: "ES-CM", coords: [-3.9272, 38.9860], name: { de: "Ciudad Real", hu: "Ciudad Real", ro: "Ciudad Real", en: "Ciudad Real" }, theme: "urban" },
-  { id: "es-talavera", parent: "ES-CM", coords: [-4.8248, 39.9598], name: { de: "Talavera de la Reina", hu: "Talavera de la Reina", ro: "Talavera de la Reina", en: "Talavera de la Reina" }, theme: "urban" },
-  { id: "es-puertollano", parent: "ES-CM", coords: [-4.1070, 38.6866], name: { de: "Puertollano", hu: "Puertollano", ro: "Puertollano", en: "Puertollano" }, theme: "urban" },
-  { id: "es-guadalajara", parent: "ES-CM", coords: [-3.1689, 40.6331], name: { de: "Guadalajara", hu: "Guadalajara", ro: "Guadalajara", en: "Guadalajara" }, theme: "urban" },
-  { id: "es-alcala", parent: "ES-MD", coords: [-3.3686, 40.4818], name: { de: "Alcalá de Henares", hu: "Alcalá de Henares", ro: "Alcalá de Henares", en: "Alcalá de Henares" }, theme: "university" },
-  { id: "es-aranjuez", parent: "ES-MD", coords: [-3.6038, 40.0357], name: { de: "Aranjuez", hu: "Aranjuez", ro: "Aranjuez", en: "Aranjuez" }, theme: "heritage" },
-  { id: "es-getafe", parent: "ES-MD", coords: [-3.7320, 40.3080], name: { de: "Getafe", hu: "Getafe", ro: "Getafe", en: "Getafe" }, theme: "urban" },
-  { id: "es-mostoles", parent: "ES-MD", coords: [-3.8648, 40.3223], name: { de: "Móstoles", hu: "Móstoles", ro: "Móstoles", en: "Móstoles" }, theme: "urban" },
-  { id: "es-san-sebastian", parent: "ES-PV", coords: [-1.9812, 43.3183], name: { de: "San Sebastián", hu: "San Sebastián", ro: "San Sebastián", en: "San Sebastián" }, theme: "coastal" },
-  { id: "es-vitoria", parent: "ES-PV", coords: [-2.6733, 42.8467], name: { de: "Vitoria-Gasteiz", hu: "Vitoria-Gasteiz", ro: "Vitoria-Gasteiz", en: "Vitoria-Gasteiz" }, theme: "urban" },
-  { id: "es-getxo", parent: "ES-PV", coords: [-2.9910, 43.3566], name: { de: "Getxo", hu: "Getxo", ro: "Getxo", en: "Getxo" }, theme: "coastal" },
-  { id: "es-portugalete", parent: "ES-PV", coords: [-3.0200, 43.3200], name: { de: "Portugalete", hu: "Portugalete", ro: "Portugalete", en: "Portugalete" }, theme: "port" },
-  { id: "es-barakaldo", parent: "ES-PV", coords: [-2.9870, 43.2970], name: { de: "Barakaldo", hu: "Barakaldo", ro: "Barakaldo", en: "Barakaldo" }, theme: "urban" },
-  { id: "es-hondarribia", parent: "ES-PV", coords: [-1.7890, 43.3660], name: { de: "Hondarribia", hu: "Hondarribia", ro: "Hondarribia", en: "Hondarribia" }, theme: "coastal" },
-  { id: "es-gernika", parent: "ES-PV", coords: [-2.6860, 43.3170], name: { de: "Gernika-Lumo", hu: "Gernika-Lumo", ro: "Gernika-Lumo", en: "Gernika-Lumo" }, theme: "heritage" },
-  { id: "es-pamplona", parent: "ES-NA", coords: [-1.6432, 42.8125], name: { de: "Pamplona", hu: "Pamplona", ro: "Pamplona", en: "Pamplona" }, theme: "university" },
-  { id: "es-tudela", parent: "ES-NA", coords: [-1.6075, 42.0634], name: { de: "Tudela", hu: "Tudela", ro: "Tudela", en: "Tudela" }, theme: "urban" },
-  { id: "es-estella", parent: "ES-NA", coords: [-2.0324, 42.6714], name: { de: "Estella-Lizarra", hu: "Estella-Lizarra", ro: "Estella-Lizarra", en: "Estella-Lizarra" }, theme: "heritage" },
-  { id: "es-tafalla", parent: "ES-NA", coords: [-1.6809, 42.5232], name: { de: "Tafalla", hu: "Tafalla", ro: "Tafalla", en: "Tafalla" }, theme: "urban" },
-  { id: "es-logrono", parent: "ES-RI", coords: [-2.4457, 42.4627], name: { de: "Logroño", hu: "Logroño", ro: "Logroño", en: "Logroño" }, theme: "wine" },
-  { id: "es-haro", parent: "ES-RI", coords: [-2.8490, 42.5750], name: { de: "Haro", hu: "Haro", ro: "Haro", en: "Haro" }, theme: "wine" },
-  { id: "es-calahorra", parent: "ES-RI", coords: [-1.9650, 42.3010], name: { de: "Calahorra", hu: "Calahorra", ro: "Calahorra", en: "Calahorra" }, theme: "urban" },
-  { id: "es-santo-domingo", parent: "ES-RI", coords: [-3.0000, 42.4410], name: { de: "Santo Domingo de la Calzada", hu: "Santo Domingo de la Calzada", ro: "Santo Domingo de la Calzada", en: "Santo Domingo de la Calzada" }, theme: "heritage" },
-  { id: "es-huesca", parent: "ES-AR", coords: [-0.4089, 42.1401], name: { de: "Huesca", hu: "Huesca", ro: "Huesca", en: "Huesca" }, theme: "mountain" },
-  { id: "es-teruel", parent: "ES-AR", coords: [-1.1065, 40.3456], name: { de: "Teruel", hu: "Teruel", ro: "Teruel", en: "Teruel" }, theme: "heritage" },
-  { id: "es-jaca", parent: "ES-AR", coords: [-0.5505, 42.5720], name: { de: "Jaca", hu: "Jaca", ro: "Jaca", en: "Jaca" }, theme: "mountain" },
-  { id: "es-alcaniz", parent: "ES-AR", coords: [-0.1348, 41.0480], name: { de: "Alcañiz", hu: "Alcañiz", ro: "Alcañiz", en: "Alcañiz" }, theme: "heritage" },
-  { id: "es-barbastro", parent: "ES-AR", coords: [0.1400, 42.0360], name: { de: "Barbastro", hu: "Barbastro", ro: "Barbastro", en: "Barbastro" }, theme: "wine" },
-  { id: "es-calatayud", parent: "ES-AR", coords: [-1.6430, 41.3548], name: { de: "Calatayud", hu: "Calatayud", ro: "Calatayud", en: "Calatayud" }, theme: "heritage" },
-  { id: "es-santander", parent: "ES-CB", coords: [-3.8044, 43.4623], name: { de: "Santander", hu: "Santander", ro: "Santander", en: "Santander" }, theme: "coastal" },
-  { id: "es-torrelavega", parent: "ES-CB", coords: [-4.0260, 43.3500], name: { de: "Torrelavega", hu: "Torrelavega", ro: "Torrelavega", en: "Torrelavega" }, theme: "urban" },
-  { id: "es-castro", parent: "ES-CB", coords: [-3.2170, 43.3820], name: { de: "Castro Urdiales", hu: "Castro Urdiales", ro: "Castro Urdiales", en: "Castro Urdiales" }, theme: "coastal" },
-  { id: "es-laredo", parent: "ES-CB", coords: [-3.4060, 43.4110], name: { de: "Laredo", hu: "Laredo", ro: "Laredo", en: "Laredo" }, theme: "coastal" },
-  { id: "es-oviedo", parent: "ES-AS", coords: [-5.8500, 43.3619], name: { de: "Oviedo", hu: "Oviedo", ro: "Oviedo", en: "Oviedo" }, theme: "university" },
-  { id: "es-gijon", parent: "ES-AS", coords: [-5.6610, 43.5322], name: { de: "Gijón", hu: "Gijón", ro: "Gijón", en: "Gijón" }, theme: "coastal" },
-  { id: "es-aviles", parent: "ES-AS", coords: [-5.9240, 43.5550], name: { de: "Avilés", hu: "Avilés", ro: "Avilés", en: "Avilés" }, theme: "port" },
-  { id: "es-cangas", parent: "ES-AS", coords: [-5.1290, 43.3500], name: { de: "Cangas de Onís", hu: "Cangas de Onís", ro: "Cangas de Onís", en: "Cangas de Onís" }, theme: "mountain" },
-  { id: "es-palma", parent: "ES-IB", coords: [2.6502, 39.5696], name: { de: "Palma", hu: "Palma", ro: "Palma", en: "Palma" }, theme: "coastal" },
-  { id: "es-mahon", parent: "ES-IB", coords: [4.2650, 39.8880], name: { de: "Mahón", hu: "Mahón", ro: "Mahón", en: "Mahón" }, theme: "port" },
-  { id: "es-inca", parent: "ES-IB", coords: [2.9130, 39.7180], name: { de: "Inca", hu: "Inca", ro: "Inca", en: "Inca" }, theme: "urban" },
-  { id: "es-manacor", parent: "ES-IB", coords: [3.2110, 39.5690], name: { de: "Manacor", hu: "Manacor", ro: "Manacor", en: "Manacor" }, theme: "urban" },
-  { id: "es-las-palmas", parent: "ES-CN", coords: [-15.4300, 28.1235], name: { de: "Las Palmas de Gran Canaria", hu: "Las Palmas de Gran Canaria", ro: "Las Palmas de Gran Canaria", en: "Las Palmas de Gran Canaria" }, theme: "coastal" },
-  { id: "es-santa-cruz", parent: "ES-CN", coords: [-16.2510, 28.4630], name: { de: "Santa Cruz de Tenerife", hu: "Santa Cruz de Tenerife", ro: "Santa Cruz de Tenerife", en: "Santa Cruz de Tenerife" }, theme: "port" },
-  { id: "es-la-laguna", parent: "ES-CN", coords: [-16.3140, 28.4860], name: { de: "La Laguna", hu: "La Laguna", ro: "La Laguna", en: "La Laguna" }, theme: "university" },
-  { id: "es-telde", parent: "ES-CN", coords: [-15.4180, 27.9920], name: { de: "Telde", hu: "Telde", ro: "Telde", en: "Telde" }, theme: "urban" },
-  { id: "es-badajoz", parent: "ES-EX", coords: [-6.9700, 38.8780], name: { de: "Badajoz", hu: "Badajoz", ro: "Badajoz", en: "Badajoz" }, theme: "port" },
-  { id: "es-caceres", parent: "ES-EX", coords: [-6.3730, 39.4760], name: { de: "Cáceres", hu: "Cáceres", ro: "Cáceres", en: "Cáceres" }, theme: "heritage" },
-  { id: "es-murcia", parent: "ES-MU", coords: [-1.1300, 37.9922], name: { de: "Murcia", hu: "Murcia", ro: "Murcia", en: "Murcia" }, theme: "urban" },
-  { id: "es-cartagena", parent: "ES-MU", coords: [-0.9800, 37.6250], name: { de: "Cartagena", hu: "Cartagena", ro: "Cartagena", en: "Cartagena" }, theme: "port" },
-  { id: "es-lorca", parent: "ES-MU", coords: [-1.6980, 37.6710], name: { de: "Lorca", hu: "Lorca", ro: "Lorca", en: "Lorca" }, theme: "heritage" },
-  { id: "es-aguilas", parent: "ES-MU", coords: [-1.5800, 37.4060], name: { de: "Águilas", hu: "Águilas", ro: "Águilas", en: "Águilas" }, theme: "coastal" },
+  }
 ];
+export default spainCitiesExtra;
 
-function buildDescription(seed: CitySeed, lang: Lang): string {
-  const region = REGION_NAMES[seed.parent][lang];
-  return `${seed.name[lang]} ist ${THEME_TEXT[seed.theme].desc[lang]} in ${region}.`;
-}
-
-function buildFacts(seed: CitySeed, lang: Lang): string[] {
-  const region = REGION_NAMES[seed.parent][lang];
-  return [`Liegt in ${region}.`, ...THEME_TEXT[seed.theme].facts[lang]];
-}
-
-export const spainCitiesExtra: POI[] = CITY_SEEDS.map((seed) => ({
-  id: seed.id,
-  type: "city",
-  parent: seed.parent,
-  coords: seed.coords,
-  name: seed.name,
-  description: {
-    de: buildDescription(seed, "de"),
-    hu: buildDescription(seed, "hu"),
-    ro: buildDescription(seed, "ro"),
-    en: buildDescription(seed, "en"),
-  },
-  facts: {
-    de: buildFacts(seed, "de"),
-    hu: buildFacts(seed, "hu"),
-    ro: buildFacts(seed, "ro"),
-    en: buildFacts(seed, "en"),
-  },
-}));

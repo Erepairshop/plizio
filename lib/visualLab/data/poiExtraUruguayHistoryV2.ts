@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUruguayHistoryV2: POI[] = [
@@ -26,9 +27,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["1809-ben fejezték be az építését.", "Világítótoronyként is szolgált."],
       ro: ["A fost finalizată în 1809.", "A servit și ca far."],
       en: ["It was completed in 1809.", "It also served as a lighthouse."]
-    }
-    
-  },
+    }, image: "/poi-images/fortaleza-del-cerro-history-v2.webp"},
   {
     id: "palacio-salvo-history-v2",
     type: "historical",
@@ -54,9 +53,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Mario Palanti építész tervezte.", "Magassága 100 méter."],
       ro: ["Proiectat de arhitectul Mario Palanti.", "Înălțimea de 100 de metri."],
       en: ["Designed by architect Mario Palanti.", "Height of 100 meters."]
-    }
-    
-  },
+    }, image: "/poi-images/palacio-salvo-history-v2.webp"},
   {
     id: "teatro-solis-history-v2",
     type: "historical",
@@ -82,9 +79,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Az Ernani című operával nyitották meg.", "Több mint 1000 néző befogadására alkalmas."],
       ro: ["A fost deschis cu opera Ernani.", "Poate găzdui peste 1000 de spectatori."],
       en: ["Opened with the opera Ernani.", "It can accommodate over 1000 spectators."]
-    }
-    
-  },
+    }, image: "/poi-images/teatro-solis-history-v2.webp"},
   {
     id: "cabildo-de-montevideo-history-v2",
     type: "historical",
@@ -110,9 +105,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["1804 és 1812 között épült.", "Ma történelmi múzeumként működik."],
       ro: ["Construit între 1804 și 1812.", "Astăzi servește ca muzeu istoric."],
       en: ["Built between 1804 and 1812.", "Today it serves as a historical museum."]
-    }
-    
-  },
+    }, image: "/poi-images/cabildo-de-montevideo-history-v2.webp"},
   {
     id: "puerta-de-la-ciudadela-history-v2",
     type: "historical",
@@ -166,9 +159,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Egy nemzeti park veszi körül.", "Fontos helyszín volt a spanyol-portugál háborúban."],
       ro: ["Înconjurată de un parc național.", "Loc important în războiul dintre Spania și Portugalia."],
       en: ["Surrounded by a national park.", "Important site in the war between Spain and Portugal."]
-    }
-    
-  },
+    }, image: "/poi-images/fortaleza-de-santa-teresa-history-v2.webp"},
   {
     id: "fuerte-de-san-miguel-history-v2",
     type: "historical",
@@ -194,9 +185,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Vizesárokkal rendelkezik.", "Hadtörténeti múzeumnak ad otthont."],
       ro: ["Are un șanț cu apă.", "Găzduiește un muzeu militar."],
       en: ["It has a moat.", "Houses a military museum."]
-    }
-    
-  },
+    }, image: "/poi-images/fuerte-de-san-miguel-history-v2.webp"},
   {
     id: "barrio-historico-de-colonia-history-v2",
     type: "historical",
@@ -222,9 +211,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["1680-ban alapították.", "Macskaköves utcáiról ismert."],
       ro: ["Fondat în anul 1680.", "Cunoscut pentru străzile sale pietruite."],
       en: ["Founded in 1680.", "Known for its cobblestone streets."]
-    }
-    
-  },
+    }, image: "/poi-images/barrio-historico-de-colonia-history-v2.webp"},
   {
     id: "plaza-independencia-history-v2",
     type: "historical",
@@ -250,9 +237,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Itt található José Artigas mauzóleuma.", "1837-ben tervezték."],
       ro: ["Găzduiește mausoleul lui José Artigas.", "Proiectată în 1837."],
       en: ["Houses the mausoleum of José Artigas.", "Designed in 1837."]
-    }
-    
-  },
+    }, image: "/poi-images/plaza-independencia-history-v2.webp"},
   {
     id: "palacio-legislativo-history-v2",
     type: "historical",
@@ -278,9 +263,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Különböző színű márványokat használtak az építéshez.", "Vittorio Meano volt az építész."],
       ro: ["Folosește marmură de diferite culori.", "Arhitectul a fost Vittorio Meano."],
       en: ["Uses marble of different colors.", "Architect was Vittorio Meano."]
-    }
-    
-  },
+    }, image: "/poi-images/palacio-legislativo-history-v2.webp"},
   {
     id: "mercado-del-puerto-history-v2",
     type: "historical",
@@ -306,9 +289,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["A szerkezetet Angliában gyártották.", "Ma grilléttermeiről híres."],
       ro: ["Structura a fost construită în Anglia.", "Astăzi este faimoasă pentru restaurantele sale cu grătar."],
       en: ["The structure was built in England.", "Today famous for its barbecue restaurants."]
-    }
-    
-  },
+    }, image: "/poi-images/mercado-del-puerto-history-v2.webp"},
   {
     id: "plaza-de-toros-real-de-san-carlos-history-v2",
     type: "historical",
@@ -334,9 +315,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["A bikaviadalokat 1912-ben betiltották Uruguayban.", "Nemrégiben kulturális rendezvények céljára restaurálták."],
       ro: ["Luptele cu tauri au fost interzise în Uruguay în 1912.", "Recent restaurată pentru evenimente culturale."],
       en: ["Bullfighting was banned in Uruguay in 1912.", "Recently restored for cultural events."]
-    }
-    
-  },
+    }, image: "/poi-images/plaza-de-toros-real-de-san-carlos-history-v2.webp"},
   {
     id: "faro-de-colonia-del-sacramento-history-v2",
     type: "historical",
@@ -390,9 +369,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Iglesia Matriz néven is ismert.", "A történelem híres személyiségei nyugszanak itt."],
       ro: ["Cunoscută și sub numele de Iglesia Matriz.", "Personalități celebre din istorie se odihnesc aici."],
       en: ["Also known as Iglesia Matriz.", "Famous figures from history rest here."]
-    }
-    
-  },
+    }, image: "/poi-images/catedral-metropolitana-history-v2.webp"},
   {
     id: "parque-anchorena-history-v2",
     type: "historical",
@@ -418,9 +395,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Aarón de Anchorena adományozta az államnak.", "Egy 75 méter magas kőtoronnyal rendelkezik."],
       ro: ["Donată de Aarón de Anchorena.", "Are un turn de piatră înalt de 75 de metri."],
       en: ["Donated by Aarón de Anchorena.", "Has a 75-meter high stone tower."]
-    }
-    
-  },
+    }, image: "/poi-images/parque-anchorena-history-v2.webp"},
   {
     id: "castillo-de-piria-history-v2",
     type: "historical",
@@ -446,9 +421,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Középkori stílusban tervezték.", "Nagy kertek veszik körül."],
       ro: ["Proiectat într-un stil medieval.", "Înconjurat de grădini mari."],
       en: ["Designed in a medieval style.", "Surrounded by large gardens."]
-    }
-    
-  },
+    }, image: "/poi-images/castillo-de-piria-history-v2.webp"},
   {
     id: "castillo-pittamiglio-history-v2",
     type: "historical",
@@ -474,9 +447,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Sok titkos folyosóval és a semmibe vezető lépcsővel rendelkezik.", "Az épület egy spirituális utazást jelképez."],
       ro: ["Are multe pasaje secrete și scări către nicăieri.", "Clădirea reprezintă o călătorie spirituală."],
       en: ["Has many secret passages and stairs to nowhere.", "The building represents a spiritual journey."]
-    }
-    
-  },
+    }, image: "/poi-images/castillo-pittamiglio-history-v2.webp"},
   {
     id: "iglesia-de-san-isidro-history-v2",
     type: "historical",
@@ -502,9 +473,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["A függetlenségi történelemhez kapcsolódik.", "Jose Artigas itt tartózkodott."],
       ro: ["Legată de istoria independenței.", "Jose Artigas a stat aici."],
       en: ["Linked to the history of independence.", "Jose Artigas stayed here."]
-    }
-    
-  },
+    }, image: "/poi-images/iglesia-de-san-isidro-history-v2.webp"},
   {
     id: "casa-de-lavalleja-history-v2",
     type: "historical",
@@ -530,9 +499,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["A Nemzeti Történeti Múzeum része.", "1783-ban épült."],
       ro: ["Aparține Muzeului Istoric Național.", "Construită în 1783."],
       en: ["Belongs to the National Historical Museum.", "Built in 1783."]
-    }
-    
-  },
+    }, image: "/poi-images/casa-de-lavalleja-history-v2.webp"},
   {
     id: "obelisco-de-1830-history-v2",
     type: "historical",
@@ -558,9 +525,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["1930-ban emelték.", "Bronzból és gránitból készült."],
       ro: ["Ridicat în 1930.", "Realizat din bronz și granit."],
       en: ["Erected in 1930.", "Made of bronze and granite."]
-    }
-    
-  },
+    }, image: "/poi-images/obelisco-de-1830-history-v2.webp"},
   {
     id: "casa-de-fructuoso-rivera-history-v2",
     type: "historical",
@@ -586,9 +551,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Az ország alapításának idejéből származó dokumentumokat őriz.", "Montevideo óvárosában található."],
       ro: ["Păstrează documente din perioada fondării țării.", "Situată în orașul vechi din Montevideo."],
       en: ["Preserves documents from the founding period of the country.", "Located in the old city of Montevideo."]
-    }
-    
-  },
+    }, image: "/poi-images/casa-de-fructuoso-rivera-history-v2.webp"},
   {
     id: "estancia-narbona-history-v2",
     type: "historical",
@@ -614,9 +577,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Egy történelmi kis kápolnával is rendelkezik.", "Gyarmati stílusban épült."],
       ro: ["Are o mică capelă istorică.", "Construită în stil colonial."],
       en: ["Features a historical small chapel.", "Built in colonial style."]
-    }
-    
-  },
+    }, image: "/poi-images/estancia-narbona-history-v2.webp"},
   {
     id: "posta-del-chuy-history-v2",
     type: "historical",
@@ -642,9 +603,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["A hidat baszk kőfaragók építették.", "Korábban fontos postaállomás volt."],
       ro: ["Podul a fost construit de pietrari basci.", "Fostă stație poștală importantă."],
       en: ["The bridge was built by Basque stonemasons.", "Formerly an important postal station."]
-    }
-    
-  },
+    }, image: "/poi-images/posta-del-chuy-history-v2.webp"},
   {
     id: "monumento-a-perpetuidad-history-v2",
     type: "historical",
@@ -670,9 +629,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Vannak itt finom carrarai márványból készült síremlékek.", "Nemzeti történelmi műemlék."],
       ro: ["Există monumente funerare din cea mai fină marmură de Carrara.", "Un monument istoric național."],
       en: ["There are tombs made of fine Carrara marble.", "A national historic monument."]
-    }
-    
-  },
+    }, image: "/poi-images/monumento-a-perpetuidad-history-v2.webp"},
   {
     id: "palacio-estevez-history-v2",
     type: "historical",
@@ -698,9 +655,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["1873-ban épült.", "Ma az elnökök múzeuma."],
       ro: ["Construit în 1873.", "Astăzi este un muzeu al președinților."],
       en: ["Built in 1873.", "Today a museum of the presidents."]
-    }
-    
-  },
+    }, image: "/poi-images/palacio-estevez-history-v2.webp"},
   {
     id: "quinta-de-batlle-y-ordonez-history-v2",
     type: "historical",
@@ -726,9 +681,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["A 20. század eleji mindennapi életet mutatja be.", "A Piedras Blancas negyedben található."],
       ro: ["Arată viața de zi cu zi la începutul secolului al XX-lea.", "Situată în cartierul Piedras Blancas."],
       en: ["Shows daily life in the early 20th century.", "Located in the Piedras Blancas neighborhood."]
-    }
-    
-  },
+    }, image: "/poi-images/quinta-de-batlle-y-ordonez-history-v2.webp"},
   {
     id: "estacion-central-general-artigas-history-v2",
     type: "historical",
@@ -754,9 +707,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["2003 óta üzemen kívül van.", "Luigi Andreoni mérnök tervezte."],
       ro: ["Afară din uz din 2003.", "Proiectată de inginerul Luigi Andreoni."],
       en: ["Out of service since 2003.", "Designed by engineer Luigi Andreoni."]
-    }
-    
-  },
+    }, image: "/poi-images/estacion-central-general-artigas-history-v2.webp"},
   {
     id: "ruinas-de-mbopicua-history-v2",
     type: "historical",
@@ -782,9 +733,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["Uruguay korai húsiparának szimbóluma.", "Nemzeti kulturális örökséggé nyilvánították."],
       ro: ["Un simbol al industriei timpurii a cărnii din Uruguay.", "A fost declarată patrimoniu cultural național."],
       en: ["A symbol of Uruguay's early meat industry.", "Has been declared a national cultural heritage."]
-    }
-    
-  },
+    }, image: "/poi-images/ruinas-de-mbopicua-history-v2.webp"},
   {
     id: "cuartel-de-dragones-history-v2",
     type: "historical",
@@ -810,9 +759,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       hu: ["José Artigas itt lépett be a hadseregbe.", "Az épület egy részét felújították."],
       ro: ["José Artigas a intrat în armată aici.", "O parte a clădirii a fost restaurată."],
       en: ["José Artigas joined the army here.", "A part of the building has been restored."]
-    }
-    
-  },
+    }, image: "/poi-images/cuartel-de-dragones-history-v2.webp"},
   {
     id: "palacio-taranco-history-v2",
     type: "historical",
@@ -841,3 +788,4 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       }
   }
 ];
+

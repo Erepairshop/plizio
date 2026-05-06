@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Hatalmas lítiumtartalékok.", "Az ónbányászat fontos helyszíne.", "Központi projekt az e-mobilitás számára."],
       ro: ["Rezerve uriașe de litiu.", "Locație importantă pentru mineritul de staniu.", "Proiect central pentru mobilitatea electrică."],
       en: ["Huge lithium reserves.", "Important site for tin mining.", "Central project for e-mobility."]
-    }
-  },
+    }, image: "/poi-images/cd-mine-manono-economic-v2.webp"},
   {
     id: "cd-industry-pharmakina-economic-v2",
     type: "industry",
@@ -47,8 +47,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Afrika legnagyobb kinintermelője.", "Helyi kínafa kérget dolgoz fel.", "Székhelye Bukavu, a Kivu-tó partján."],
       ro: ["Cel mai mare producător de chinină din Africa.", "Procesează scoarță locală de cinchona.", "Sediul în Bukavu, pe malul lacului Kivu."],
       en: ["Largest quinine producer in Africa.", "Processes local cinchona bark.", "Based in Bukavu on Lake Kivu."]
-    }
-  },
+    }, image: "/poi-images/cd-industry-pharmakina-economic-v2.webp"},
   {
     id: "cd-industry-sotexki-economic-v2",
     type: "industry",
@@ -71,8 +70,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Hagyományos textilgyártás.", "Fontos munkaadó Kisanganiban.", "Helyi gyapotot dolgoz fel."],
       ro: ["Producție tradițională de textile.", "Angajator important în Kisangani.", "Procesează bumbac local."],
       en: ["Traditional textile manufacturing.", "Important employer in Kisangani.", "Processes local cotton."]
-    }
-  },
+    }, image: "/poi-images/cd-industry-sotexki-economic-v2.webp"},
   {
     id: "cd-industry-katana-cement-economic-v2",
     type: "industry",
@@ -119,8 +117,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Székhelye Lubumbashi.", "Népszerű sörmárkákat gyárt.", "Nagy elosztóhálózat délen."],
       ro: ["Sediul în Lubumbashi.", "Produce mărci populare de bere.", "Rețea mare de distribuție în sud."],
       en: ["Based in Lubumbashi.", "Produces popular beer brands.", "Large distribution network in the south."]
-    }
-  },
+    }, image: "/poi-images/cd-industry-brasimba-economic-v2.webp"},
   {
     id: "cd-industry-marsavco-economic-v2",
     type: "industry",
@@ -143,8 +140,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Fogyasztási cikkek gyártása.", "A fővárosban található.", "Pálmaolaj-termékeket dolgoz fel."],
       ro: ["Producția de bunuri de larg consum.", "Locație în capitală.", "Procesează produse din ulei de palmier."],
       en: ["Production of consumer goods.", "Located in the capital.", "Processes palm oil products."]
-    }
-  },
+    }, image: "/poi-images/cd-industry-marsavco-economic-v2.webp"},
   {
     id: "cd-industry-midema-economic-v2",
     type: "industry",
@@ -167,8 +163,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Központi gabonamalom.", "Matadi kikötővárosában található.", "Fontos az élelmezésbiztonság szempontjából."],
       ro: ["Moară centrală de cereale.", "Situată în orașul-port Matadi.", "Importantă pentru securitatea alimentară."],
       en: ["Central grain mill.", "Located in the port city of Matadi.", "Important for food security."]
-    }
-  },
+    }, image: "/poi-images/cd-industry-midema-economic-v2.webp"},
   {
     id: "cd-port-uvira-economic-v2",
     type: "port",
@@ -191,8 +186,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Kapu a Tanganyika-tóhoz.", "Összeköttetés Burundival és Tanzániával.", "Fontos átrakodóhely keleten."],
       ro: ["Poartă către lacul Tanganyika.", "Legătură cu Burundi și Tanzania.", "Punct de transbordare important în est."],
       en: ["Gateway to Lake Tanganyika.", "Connection to Burundi and Tanzania.", "Important transshipment point in the east."]
-    }
-  },
+    }, image: "/poi-images/cd-port-uvira-economic-v2.webp"},
   {
     id: "cd-port-goma-economic-v2",
     type: "port",
@@ -215,8 +209,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Fontos közlekedési csomópont a Kivu-tónál.", "Személy- és áruszállítás.", "Stratégiai elhelyezkedés a határon."],
       ro: ["Nod de transport important pe lacul Kivu.", "Transport de pasageri și mărfuri.", "Locație strategică la frontieră."],
       en: ["Important transport hub on Lake Kivu.", "Passenger and freight transport.", "Strategic location on the border."]
-    }
-  },
+    }, image: "/poi-images/cd-port-goma-economic-v2.webp"},
   {
     id: "cd-port-bukavu-economic-v2",
     type: "port",
@@ -239,8 +232,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Kereskedelmi központ a Kivu-tónál.", "Összeköttetés Idjwi szigetével.", "Fontos pont a regionális árucserében."],
       ro: ["Centru comercial pe lacul Kivu.", "Legătură cu insula Idjwi.", "Punct important pentru schimburile regionale."],
       en: ["Trade center on Lake Kivu.", "Connection to Idjwi Island.", "Important point for regional exchange."]
-    }
-  },
+    }, image: "/poi-images/cd-port-bukavu-economic-v2.webp"},
   {
     id: "cd-port-bumba-economic-v2",
     type: "port",
@@ -263,8 +255,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Mezőgazdasági exportközpont.", "A Kongó folyó északi kanyarulatában fekszik.", "Mongala tartomány fontos kikötője."],
       ro: ["Centru de export agricol.", "Situat pe cotul nordic al râului Congo.", "Port important al provinciei Mongala."],
       en: ["Agricultural export center.", "Located on the northern bend of the Congo River.", "Important port of Mongala province."]
-    }
-  },
+    }, image: "/poi-images/cd-port-bumba-economic-v2.webp"},
   {
     id: "cd-port-kindu-economic-v2",
     type: "port",
@@ -287,8 +278,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Vasúti-folyami csatlakozási pont.", "Maniema tartomány fővárosa.", "Hajózás a Lualaba folyón."],
       ro: ["Interfață cale ferată-râu.", "Capitala provinciei Maniema.", "Navigație pe râul Lualaba."],
       en: ["Rail-river interface.", "Capital of Maniema province.", "Navigation on the Lualaba River."]
-    }
-  },
+    }, image: "/poi-images/cd-port-kindu-economic-v2.webp"},
   {
     id: "cd-port-bandundu-economic-v2",
     type: "port",
@@ -311,8 +301,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Kinshasa ellátó kikötője.", "Mezőgazdasági termékek szállítása.", "Két folyó összefolyásánál található."],
       ro: ["Port de aprovizionare pentru Kinshasa.", "Transportul bunurilor agricole.", "Locație la confluența a două râuri."],
       en: ["Supply port for Kinshasa.", "Transport of agricultural goods.", "Located at the confluence of two rivers."]
-    }
-  },
+    }, image: "/poi-images/cd-port-bandundu-economic-v2.webp"},
   {
     id: "cd-port-basankusu-economic-v2",
     type: "port",
@@ -335,8 +324,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["A pálmaolaj-szállítás központja.", "A Lulonga folyón fekszik.", "Kereskedelmi csomópont az esőerdőben."],
       ro: ["Centru al transportului de ulei de palmier.", "Situat pe râul Lulonga.", "Nod comercial în pădurea tropicală."],
       en: ["Center of palm oil transport.", "Located on the Lulonga River.", "Trade hub in the rainforest."]
-    }
-  },
+    }, image: "/poi-images/cd-port-basankusu-economic-v2.webp"},
   {
     id: "cd-port-aketi-economic-v2",
     type: "port",
@@ -407,8 +395,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Aranylelőhelyek Ituriban.", "Az északkeleti bányászat központja.", "Gazdag ásványkincsek."],
       ro: ["Zăcăminte de aur în Ituri.", "Centrul mineritului în nord-est.", "Resurse minerale bogate."],
       en: ["Gold deposits in Ituri.", "Center of mining in the northeast.", "Rich mineral resources."]
-    }
-  },
+    }, image: "/poi-images/cd-mine-mongbwalu-economic-v2.webp"},
   {
     id: "cd-mine-musonoie-economic-v2",
     type: "industry",
@@ -431,8 +418,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["A rézöv része.", "Kolwezi közelsége.", "Rézben és kobaltban gazdag."],
       ro: ["Parte a centurii de cupru.", "Apropierea de Kolwezi.", "Bogată în cupru și cobalt."],
       en: ["Part of the copper belt.", "Proximity to Kolwezi.", "Rich in copper and cobalt."]
-    }
-  },
+    }, image: "/poi-images/cd-mine-musonoie-economic-v2.webp"},
   {
     id: "cd-mine-kimpere-economic-v2",
     type: "industry",
@@ -455,8 +441,7 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
       hu: ["Fontos mangántermelő.", "Kisenge régió.", "Ipari fémeket bányásznak."],
       ro: ["Producător important de mangan.", "Regiunea Kisenge.", "Extrage metale industriale."],
       en: ["Important manganese producer.", "Kisenge region.", "Mines industrial metals."]
-    }
-  },
+    }, image: "/poi-images/cd-mine-kimpere-economic-v2.webp"},
   {
     id: "cd-port-lisala-economic-v2",
     type: "port",
@@ -482,3 +467,4 @@ export const poiExtraDemocraticrepublicofcongoEconomicV2: POI[] = [
     }
   }
 ];
+

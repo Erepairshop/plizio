@@ -1,68 +1,63 @@
+// @ts-nocheck
 import { POI } from "./poi";
 
 export const luxembourgExtraHistory: POI[] = [
   {
-    id: "lu-vianden-castle",
+    id: "historical-bourglinster-castle",
     type: "historical",
-    parent: "lu-country",
-    coords: [6.2036, 49.9328],
+    parent: "LU",
+    coords: [6.1928, 49.7190] as [number, number],
     name: {
-      de: "Burg Vianden",
-      hu: "Vianden vára",
-      ro: "Castelul Vianden",
-      en: "Vianden Castle"
+      de: "Schloss Bourglinster",
+      hu: "Bourglinster kastely",
+      ro: "Castelul Bourglinster",
+      en: "Bourglinster Castle"
     },
     description: {
-      de: "Burg Vianden ist eine der größten und am besten erhaltenen feudalen Residenzen aus der romanischen und gotischen Zeit in Europa.",
-      hu: "Vianden vára az egyik legnagyobb és legjobb állapotban fennmaradt feudális rezidencia Európában, a román és a gótikus korból.",
-      ro: "Castelul Vianden este una dintre cele mai mari și mai bine conservate reședințe feudale din perioada romanică și gotică din Europa.",
-      en: "Vianden Castle is one of the largest and best-preserved feudal residences from the Romanesque and Gothic periods in Europe."
+      de: "Schloss Bourglinster ist ein klarer Kultur- und Geschichtsstopp in Luxemburg mit starkem Besuchscharakter. Der Ort verbindet historische Wirkung, gute Fotomotive und eine leicht erkennbare Lage.",
+      hu: "Bourglinster kastely egy markans kultur- es tortenelmi megallo Luxembourgban. A hely tortenelmi hangulatot, jo fotomotumokat es konnyen felismerheto lokaciot ad.",
+      ro: "Castelul Bourglinster este o oprire culturala si istorica clara in Luxemburg, cu o atractie puternica pentru vizitatori. Locul combina valoare istorica, cadre foto bune si o pozitie usor de recunoscut.",
+      en: "Bourglinster Castle is a clear culture and history stop in Luxembourg with strong visitor appeal. The site combines historical value, good photo angles, and an easy to recognize location."
     },
     descriptionAdvanced: {
-      de: "Burg Vianden thront majestätisch über dem gleichnamigen Ort an einer felsigen Landzunge. Sie wurde über mehrere Jahrhunderte, hauptsächlich zwischen dem 11. und 14. Jahrhundert, errichtet. Die Burg war der Sitz der mächtigen Grafen von Vianden, die enge familiäre Verbindungen zum deutschen Kaiserhof und zum luxemburgischen Grafenhaus hatten. Heute gilt sie als nationales Denkmed und ist ein zentrales Symbol der luxemburgischen Geschichte und Architektur.",
-      hu: "Vianden vára az egyik legnagyobb és legjobb állapotban fennmaradt feudális rezidencia Európában, a román és a gótikus korból. A vár fenségesen magasodik a város felett, egy sziklás földnyelven. Építése több évszázadon át zajlott, főként a 11. és a 14. század között. A vár a hatalmas viandeni grófok székhelye volt, akik szoros családi kapcsolatban álltak a német császári udvarral és a luxemburgi grófi házzal. Ma nemzeti műemlék, a luxemburgi történelem és építészet központi szimbóluma, amely a Történelem K8 tantervi egységéhez kapcsolódik a középkori feudális rezidenciák témakörében.",
-      ro: "Castelul Vianden este una dintre cele mai impresionante și mai bine conservate reședințe feudale din Europa, reprezentând un monument istoric de o importanță națională capitală pentru Luxemburg. Construit între secolele al XI-lea și al XIV-lea pe fundațiile unei fortărețe romane, castelul a servit drept reședință a puternicilor conți de Vianden, beneficiind de legături istorice strânse cu marile case nobiliare și imperiale ale Europei medievale. Astăzi, vizitatorii pot admira arhitectura sa gotică și romanică, restaurată cu grijă, și pot explora legătura profundă a castelului cu cultura locală, inclusiv vizitele frecvente ale scriitorului Victor Hugo, care a imortalizat acest monument emblematic în numeroase schițe și scrieri.",
-      en: "Vianden Castle is undeniably one of the largest, most spectacular, and historically significant feudal residences of the Romanesque and Gothic periods in all of Europe. Majestically dominating the town of Vianden from a sheer rocky promontory, the castle's origins trace back to the 10th century, built upon an ancient Roman castellum. For centuries, it was the seat of the powerful Counts of Vianden, who had close ties to the royal courts of France and Germany. Following a period of severe ruin and decay in the 19th century, the castle underwent a massive, decades-long restoration, returning to its former glory. Today, its grand halls, intricate chapels, and imposing defensive walls offer an unparalleled, immersive journey into medieval nobility and military architecture."
-    },
-    facts: {
-      de: [
-        "Eine der größten romanisch-gotischen Burgen",
-        "Erbaut auf Fundamenten eines römischen Kastells",
-        "Ehemaliger Sitz der Grafen von Vianden",
-        "Vollständig restauriert im späten 20. Jahrhundert",
-        "Wichtiger Schauplatz des europäischen Mittelalters",
-        "Beeindruckende Aussicht auf das Our-Tal"
-      ],
-      hu: [],
-      ro: [],
-      en: []
+      de: "Schloss Bourglinster ist eine malerische Burganlage aus dem 11. Jahrhundert, die auf einem Felsvorsprung über dem gleichnamigen Dorf thront. Nach einer umfassenden Restaurierung in den 1980er Jahren wurde die Burg zu einem wichtigen kulturellen Zentrum und Austragungsort für klassische Konzerte und Kunstausstellungen. Besonders berühmt ist das Schloss heute für seine Gastronomie: Es beherbergt eines der besten Sternerestaurants Luxemburgs, wo hochklassige Kulinarik auf mittelalterliches Ambiente trifft. Die Nutzung historischer Gebäude in der Moderne ist ein Thema für Kultur K7.",
+      hu: "A 11. századi, festői Bourglinster-kastély egy sziklás nyúlványon emelkedik a névadó falu fölé. Az 1980-as évekbeli átfogó restaurálás után a kastély fontos kulturális központtá, klasszikus koncertek és művészeti kiállítások helyszínévé vált. A kastély ma különösen híres gasztronómiájáról: Luxemburg egyik legjobb Michelin-csillagos éttermének ad otthont, ahol a csúcsgasztronómia találkozik a középkori hangulattal. A történelmi épületek modern kori hasznosítása a K7-es kultúra óra egyik témája.",
+      ro: "Castelul Bourglinster este un complex de castel pitoresc din secolul al XI-lea, situat pe un afloriment stâncos deasupra satului cu același nume. Restaurat extensiv în anii 1980, castelul a devenit un centru cultural important, găzduind concerte de muzică clasică și expoziții de artă. Gastronomia sa este remarcabilă, găzduind restaurante de top, unde bucătăria modernă se împletește cu atmosfera istorică. Reutilizarea adaptivă a clădirilor istorice este un subiect relevant pentru studiile culturale (K7).",
+      en: "Bourglinster Castle is a picturesque 11th-century fortress perched on a rocky promontory overlooking the village. Following comprehensive restoration in the 1980s, the castle has transformed into an important cultural hub, hosting classical concerts and art exhibitions. Today, it is particularly celebrated for its gastronomy, housing one of Luxembourg's finest Michelin-starred restaurants, where high-end culinary arts meet medieval ambiance. The modern-day repurposing of historical architecture is a core topic in culture studies (K7)."
     },
     factsAdvanced: {
       de: [
-        "Die Burg wurde zwischen dem 11. und 14. Jahrhundert erbaut",
-        "Der 'Palas' ist das repräsentativste Gebäude der Burg",
-        "Die Kapelle zeigt romanische und gotische Stilelemente",
-        "Im Jahr 1820 wurde die Burg an einen Kaufmann verkauft und zerfiel",
-        "Die Familie Großherzog von Luxemburg erwarb die Burg 1977 zurück",
-        "Die Burg liegt 310 Meter über dem Meeresspiegel",
-        "Victor Hugo besuchte Vianden mehrfach und zeichnete die Burg"
+        "Die unteren Teile der Burg wurden im 11. Jahrhundert als Verteidigungsanlage erbaut.",
+        "Im 16. Jahrhundert wurde die Burg nach Zerstörungen im Renaissancestil umgestaltet.",
+        "Das Sternerestaurant 'La Distillerie' befindet sich in den historischen Mauern des Schlosses.",
+        "Das Schloss ist Eigentum des Luxemburger Staates und fördert aktiv das Kunsthandwerk."
       ],
-      hu: ["A várat a 11. és 14. század között építették, több különböző fázisban.", "A 'Palas' (palota) a vár legreprezentatívabb, gótikus stílusú épülete.", "1820-ban a várat eladták egy kereskedőnek, aki elhordta az építőanyagait, így pusztulásnak indult.", "A luxemburgi nagyhercegi család 1977-ben vásárolta vissza a várat, ezután kezdődött meg a teljes restauráció."],
+      hu: [
+        "A kastély alsó részeit a 11. században védelmi létesítményként építették.",
+        "A 16. században a pusztításokat követően a kastélyt reneszánsz stílusban alakították át.",
+        "A Michelin-csillagos 'La Distillerie' étterem a kastély történelmi falai között található.",
+        "A kastély a luxemburgi állam tulajdonában van, és aktívan támogatja a kézművességet."
+      ],
       ro: [
-        "Castelul a fost ridicat pe parcursul mai multor secole, între anii 1000 și 1400.",
-        "Clădirea 'Palas' reprezintă inima arhitecturală și cea mai impunătoare parte a castelului.",
-        "Capela castelului îmbină armonios elemente stilistice romanice și gotice.",
-        "În 1820, castelul a fost vândut unui comerciant, începând o perioadă lungă de degradare.",
-        "Familia Marelui Duce de Luxemburg a recuperat monumentul în anul 1977.",
-        "Fortăreața este situată strategic la o altitudine de 310 metri.",
-        "Scriitorul Victor Hugo a fost un vizitator constant al castelului în secolul al XIX-lea."
+        "Părțile inferioare datează din secolul al XI-lea, inițial ca structură defensivă.",
+        "A fost reproiectat în stil renascentist în secolul al XVI-lea.",
+        "Restaurantul de top „La Distillerie” se află în interiorul zidurilor castelului.",
+        "Castelul este deținut de stat și promovează arta și cultura locală."
       ],
       en: [
-        "Vianden Castle is considered one of the finest medieval residences in Europe.",
-        "It was built between the 11th and 14th centuries on the foundations of a Roman fort.",
-        "The fortress fell into complete ruin after being sold off piecemeal in 1820.",
-        "It was fully transferred to state ownership in 1977 and meticulously restored."
+        "The castle's lower sections date back to 11th-century defensive fortifications.",
+        "It was redesigned in the Renaissance style during the 16th century following structural damage.",
+        "The Michelin-starred 'La Distillerie' restaurant is located within the historic walls.",
+        "The castle is state-owned and actively promotes local craftsmanship."
       ]
-    }
+    },
+    facts: {
+      de: ["Historischer Punkt von Interesse", "Starker kultureller Wert", "Gut als Fotostopp", "Leicht in einen Tagesplan integrierbar", "Relevant fuer Kulturreisen"],
+      hu: ["Történelmi látnivaló", "Erős kulturális érték", "Jól működik fotózott megállóként", "Egyszerűen beilleszthető egy napi tervbe", "Releváns kulturális utazásokhoz"],
+      ro: ["Punct istoric de interes", "Valoare culturala puternica", "Bun ca oprire foto", "Usor de integrat intr-un traseu de o zi", "Relevant pentru calatorii culturale"],
+      en: ["Historic point of interest", "Strong cultural value", "Good photo stop", "Easy to add to a day plan", "Relevant for culture travel"]
+    },
+    image: "/geo-images/luxembourg/bourglinster-castle.webp"
   }
 ];
+

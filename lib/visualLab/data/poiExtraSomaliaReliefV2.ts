@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSomaliaReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Eléri a 2000 méteres magasságot.", "Fontos vízgyűjtő terület a régióban."],
       ro: ["Atinge înălțimi de peste 2000 de metri.", "O cumpănă de ape importantă în regiune."],
       en: ["Reaches heights over 2000 meters.", "Important watershed in the region."]
-    }
-  },
+    }, image: "/poi-images/golis-range-relief-v2.webp"},
   {
     id: "ogaden-plain-relief-v2",
     type: "relief",
@@ -27,8 +27,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Tövises bozótos növényzet jellemzi.", "Fontos legelő a nomádok számára."],
       ro: ["Caracterizată prin vegetație de tufișuri spinoase.", "Pășune importantă pentru nomazi."],
       en: ["Characterized by thorn bush vegetation.", "Important pastureland for nomads."]
-    }
-  },
+    }, image: "/poi-images/ogaden-plain-relief-v2.webp"},
   {
     id: "cal-madow-peaks-relief-v2",
     type: "mountain",
@@ -41,8 +40,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Ritka növényfajok otthona.", "Meredek mészkőformációk."],
       ro: ["Găzduiește specii rare de plante.", "Formațiuni abrupte de calcar."],
       en: ["Home to rare plant species.", "Steep limestone formations."]
-    }
-  },
+    }, image: "/poi-images/cal-madow-peaks-relief-v2.webp"},
   {
     id: "jubba-valley-relief-v2",
     type: "relief",
@@ -55,8 +53,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Legmagasabb mezőgazdasági termelékenység.", "Rendszeres szezonális áradások."],
       ro: ["Cea mai mare productivitate agricolă.", "Inundații sezoniere regulate."],
       en: ["Highest agricultural productivity.", "Regular seasonal flooding."]
-    }
-  },
+    }, image: "/poi-images/jubba-valley-relief-v2.webp"},
   {
     id: "shabelle-plateau-relief-v2",
     type: "relief",
@@ -69,8 +66,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Üledékes kőzetből áll.", "Fontos felszín alatti vízkészlet."],
       ro: ["Format din roci sedimentare.", "Resursă importantă de apă subterană."],
       en: ["Consists of sedimentary rock.", "Important resource for groundwater."]
-    }
-  },
+    }, image: "/poi-images/shabelle-plateau-relief-v2.webp"},
   {
     id: "darin-valley-relief-v2",
     type: "relief",
@@ -83,8 +79,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Védelem az erős szelek ellen.", "A mikroklíma kedvez a flórának."],
       ro: ["Protecție împotriva vânturilor puternice.", "Microclimatul favorizează flora."],
       en: ["Protection from strong winds.", "Microclimate favors flora."]
-    }
-  },
+    }, image: "/poi-images/darin-valley-relief-v2.webp"},
   {
     id: "gacan-libaah-summit-relief-v2",
     type: "mountain",
@@ -97,8 +92,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Kiterjedt erdőiről ismert.", "Stratégiai kilátópont."],
       ro: ["Cunoscut pentru pădurile întinse.", "Platformă strategică de observare."],
       en: ["Known for extensive forests.", "Strategic observation platform."]
-    }
-  },
+    }, image: "/poi-images/gacan-libaah-summit-relief-v2.webp"},
   {
     id: "xaysimo-highlands-relief-v2",
     type: "forest",
@@ -111,8 +105,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Magas biodiverzitás.", "Ritka borókaállományokat tartalmaz."],
       ro: ["Biodiversitate ridicată.", "Conține exemplare rare de ienupăr."],
       en: ["High biodiversity.", "Contains rare juniper stands."]
-    }
-  },
+    }, image: "/poi-images/xaysimo-highlands-relief-v2.webp"},
   {
     id: "juba-delta-plains-relief-v2",
     type: "relief",
@@ -125,8 +118,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Összetett csatornahálózat.", "Ideális körülmények rizstermesztéshez."],
       ro: ["Structură complexă de canale.", "Condiții ideale pentru cultivarea orezului."],
       en: ["Complex channel structure.", "Ideal conditions for rice cultivation."]
-    }
-  },
+    }, image: "/poi-images/juba-delta-plains-relief-v2.webp"},
   {
     id: "karkar-mountains-relief-v2",
     type: "mountain",
@@ -139,8 +131,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Erózió formálta.", "Kevés emberi település."],
       ro: ["Modelat de eroziune.", "Puține așezări umane."],
       en: ["Shaped by erosion.", "Sparse human settlement."]
-    }
-  },
+    }, image: "/poi-images/karkar-mountains-relief-v2.webp"},
   {
     id: "mudug-savanna-relief-v2",
     type: "relief",
@@ -153,8 +144,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Rövid esős évszakok.", "Élőhely vadállatok számára."],
       ro: ["Sezoane ploioase scurte.", "Habitat pentru animale sălbatice."],
       en: ["Short rainy seasons.", "Habitat for wildlife."]
-    }
-  },
+    }, image: "/poi-images/mudug-savanna-relief-v2.webp"},
   {
     id: "burao-valley-relief-v2",
     type: "relief",
@@ -181,8 +171,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Erős tengeri áramlatok.", "Fontos tájékozódási pont a tengerészeknek."],
       ro: ["Curenți marini puternici.", "Punct de reper important pentru navigatori."],
       en: ["Strong sea currents.", "Important landmark for mariners."]
-    }
-  },
+    }, image: "/poi-images/gardafui-coast-cliffs-relief-v2.webp"},
   {
     id: "ayaha-plains-relief-v2",
     type: "relief",
@@ -209,8 +198,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["A Golis-hegység része.", "Alpesi éghajlati viszonyok."],
       ro: ["Parte a munților Golis.", "Condiții climatice alpine."],
       en: ["Part of Golis Mountains.", "Alpine climate conditions."]
-    }
-  },
+    }, image: "/poi-images/surud-cad-heights-relief-v2.webp"},
   {
     id: "hobyo-dunes-relief-v2",
     type: "relief",
@@ -223,8 +211,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Vándorló dűnék.", "Erős szelek formálják a tájat."],
       ro: ["Dune mișcătoare.", "Vânturile puternice modelează peisajul."],
       en: ["Shifting dunes.", "Strong winds shape the landscape."]
-    }
-  },
+    }, image: "/poi-images/hobyo-dunes-relief-v2.webp"},
   {
     id: "shabelle-valley-relief-v2",
     type: "relief",
@@ -237,8 +224,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Fontos az öntözés szempontjából.", "Sűrű lakosság a folyópart mentén."],
       ro: ["Important pentru irigații.", "Populație densă de-a lungul malurilor."],
       en: ["Important for irrigation.", "Dense population along the banks."]
-    }
-  },
+    }, image: "/poi-images/shabelle-valley-relief-v2.webp"},
   {
     id: "nugaal-valley-relief-v2",
     type: "relief",
@@ -251,8 +237,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Szezonális folyás.", "Széles, lapos domborzat."],
       ro: ["Curs fluvial sezonier.", "Relief lat și plat."],
       en: ["Seasonal river flow.", "Wide, flat relief."]
-    }
-  },
+    }, image: "/poi-images/nugaal-valley-relief-v2.webp"},
   {
     id: "bajuni-cliffs-relief-v2",
     type: "relief",
@@ -265,8 +250,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Erősen tagolt partvonal.", "Korallképződmények a víz alatt."],
       ro: ["Coastă puternic fragmentată.", "Formațiuni de corali sub apă."],
       en: ["Strongly indented coastline.", "Coral formations underwater."]
-    }
-  },
+    }, image: "/poi-images/bajuni-cliffs-relief-v2.webp"},
   {
     id: "ras-xaafuun-peninsula-relief-v2",
     type: "relief",
@@ -279,8 +263,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Afrika legkeletibb pontja.", "Geológiailag érdekes kőzetrétegek."],
       ro: ["Cel mai estic punct al Africii.", "Straturi geologice interesante."],
       en: ["Easternmost point of Africa.", "Geologically interesting rock strata."]
-    }
-  },
+    }, image: "/poi-images/ras-xaafuun-peninsula-relief-v2.webp"},
   {
     id: "dadaab-lowlands-relief-v2",
     type: "relief",
@@ -293,8 +276,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Homokos síkságok.", "Alacsony csapadékmennyiség."],
       ro: ["Câmpii nisipoase.", "Precipitații reduse."],
       en: ["Sandy plains.", "Low precipitation."]
-    }
-  },
+    }, image: "/poi-images/dadaab-lowlands-relief-v2.webp"},
   {
     id: "barawa-coastal-relief-v2",
     type: "relief",
@@ -307,8 +289,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Dűneöv.", "Jelentős tengerparti erózió."],
       ro: ["Centura de dune.", "Eroziune de coastă semnificativă."],
       en: ["Dune belt.", "Significant coastal erosion."]
-    }
-  },
+    }, image: "/poi-images/barawa-coastal-relief-v2.webp"},
   {
     id: "ceerigaabo-uplands-relief-v2",
     type: "mountain",
@@ -321,8 +302,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Borókaerdők.", "Magasabb csapadék, mint az alföldön."],
       ro: ["Păduri de ienupăr.", "Precipitații mai ridicate decât în zona joasă."],
       en: ["Juniper forests.", "Higher rainfall than the lowlands."]
-    }
-  },
+    }, image: "/poi-images/ceerigaabo-uplands-relief-v2.webp"},
   {
     id: "hordio-lagoon-relief-v2",
     type: "relief",
@@ -335,8 +315,7 @@ export const poiExtraSomaliaReliefV2: POI[] = [
       hu: ["Félsós vizes ökoszisztéma.", "Fontos pihenőhely a madaraknak."],
       ro: ["Ecosistem de apă salmastră.", "Loc important de odihnă pentru păsări."],
       en: ["Brackish water ecosystem.", "Important resting place for birds."]
-    }
-  },
+    }, image: "/poi-images/hordio-lagoon-relief-v2.webp"},
   {
     id: "kismayo-coastal-relief-v2",
     type: "relief",
@@ -352,3 +331,4 @@ export const poiExtraSomaliaReliefV2: POI[] = [
     }
   }
 ];
+

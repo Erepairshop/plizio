@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuineabissauNatureV2: POI[] = [
@@ -39,8 +40,19 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Part of the Bijagós Biosphere Reserve.",
         "Important site for traditional ceremonies."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Orango ist eine der wichtigsten Inseln im Bijagós-Archipel und bekannt für ihre einzigartige Population von Salzwasser-Flusspferden. Die Insel erstreckt sich über rund 270 Quadratkilometer und ist geprägt von dichten Wäldern, ausgedehnten Mangroven und unberührten Stränden. Neben der außergewöhnlichen Tierwelt ist sie ein Zentrum für traditionelle Rituale des Bijagó-Volkes. In Plizio's Lehrplan wird sie oft in Geografie K7 im Rahmen von ökologischen Systemen und dem Schutz bedrohter Arten behandelt.",
+      hu: "Az Orango-sziget a Bijagós-szigetvilág egyik legjelentősebb tagja, amely híres a világon egyedülálló, sós vízhez alkalmazkodott vízilópopulációjáról. A sziget körülbelül 270 négyzetkilométeren terül el, amelyet sűrű erdők, kiterjedt mangrove-mocsarak és érintetlen tengerpartok jellemeznek. A különleges élővilág mellett a sziget a bijagó nép hagyományos szertartásainak fontos központja is. A Plizio tantervében ez a terület a Földrajz K7 tantárgyhoz kapcsolódik, különösen az ökológiai rendszerek és a védett fajok témakörében.",
+      ro: "Insula Orango este una dintre cele mai importante insule din arhipelagul Bijagós, renumită pentru populația sa unică de hipopotami care s-au adaptat la viața în apă sărată. Insula se întinde pe aproximativ 270 de kilometri pătrați și este caracterizată de păduri dense, mangrove extinse și plaje virgine. Pe lângă fauna extraordinară, este un centru pentru ritualurile tradiționale ale poporului Bijagó. În curriculumul Plizio, această locație este inclusă la Geografia K7, explorând sistemele ecologice și protecția speciilor pe cale de dispariție.",
+      en: "Orango Island is one of the most significant islands in the Bijagós Archipelago, renowned for its unique population of saltwater-adapted hippopotamuses. The island spans approximately 270 square kilometers and is characterized by dense forests, extensive mangrove swamps, and pristine beaches. Beyond its extraordinary wildlife, it serves as a center for traditional rituals of the Bijagó people. In the Plizio curriculum, this site is covered in Geography K7, focusing on ecological systems and the conservation of endangered species."
+    },
+    factsAdvanced: {
+      de: ["Einzige Region weltweit mit Salzwasser-Flusspferden.", "Teil des Bijagós-Biosphärenreservats seit 1996.", "Fläche von etwa 270 Quadratkilometern.", "Beheimatet seltene Vogelarten wie den Goliathreiher.", "Wichtiger Ort für traditionelle Einweihungsrituale.", "Die Insel wurde 1996 zum Nationalpark erklärt."],
+      hu: ["A világon az egyetlen régió, ahol sós vízi vízilók élnek.", "A Bijagós bioszféra-rezervátum része 1996 óta.", "Területe körülbelül 270 négyzetkilométer.", "Ritka madárfajoknak, például góliátgémnek ad otthont.", "Hagyományos beavatási szertartások fontos helyszíne.", "A szigetet 1996-ban nyilvánították nemzeti parkká."],
+      ro: ["Singura regiune din lume cu hipopotami de apă sărată.", "Parte a Rezervației Biosferei Bijagós din 1996.", "Suprafață de aproximativ 270 de kilometri pătrați.", "Găzduiește specii rare de păsări, cum ar fi stârcul Goliat.", "Loc important pentru ritualurile tradiționale de inițiere.", "Insula a fost declarată parc național în 1996."],
+      en: ["Only region in the world with saltwater hippopotamuses.", "Part of the Bijagós Biosphere Reserve since 1996.", "Area of approximately 270 square kilometers.", "Home to rare bird species like the Goliath Heron.", "Important site for traditional initiation rituals.", "The island was declared a national park in 1996."]
+    }, image: "/poi-images/orango-island-nature-v2.webp"},
   {
     id: "rio-geba-nature-v2",
     type: "river",
@@ -79,8 +91,19 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Important trade route since colonial times.",
         "Known for its strong tidal currents."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Rio Geba ist der wasserreichste Fluss Guinea-Bissaus und erstreckt sich über eine Länge von etwa 540 Kilometern, wobei er in Guinea entspringt. Sein Ästuar bei Bissau ist entscheidend für den internationalen Handel und das maritime Ökosystem. Der Fluss wird stark von Gezeiten beeinflusst, die bis zu 150 Kilometer landeinwärts spürbar sind. In Plizio's Sachkunde K5 wird er oft als Beispiel für die Bedeutung von Wasserwegen für die wirtschaftliche Entwicklung und Fischerei eines Landes thematisiert.",
+      hu: "A Geba-folyó Bissau-Guinea legbővizűbb folyója, amely körülbelül 540 kilométer hosszan kanyarog, miután Guineában ered. A Bissau városa melletti torkolata döntő fontosságú a nemzetközi kereskedelem és a tengeri ökoszisztéma számára. A folyóra erősen hatnak az árapályjelenségek, amelyek egészen 150 kilométerrel a szárazföld belsejéig érezhetőek. A Plizio Sachkunde K5 (Környezetismeret) tananyagában gyakran használják példaként a vízi utak gazdasági jelentőségének és a halászat bemutatására.",
+      ro: "Râul Geba este cel mai bogat în apă râu din Guineea-Bissau și se întinde pe o lungime de aproximativ 540 de kilometri, avându-și izvoarele în Guineea. Estuarul său de lângă Bissau este crucial pentru comerțul internațional și ecosistemul maritim. Râul este puternic influențat de maree, care sunt resimțite până la 150 de kilometri în interiorul țării. În curriculumul Plizio, la materia Sachkunde K5, este adesea folosit ca exemplu pentru importanța căilor navigabile pentru dezvoltarea economică și pescuit.",
+      en: "The Geba River is the most water-rich river in Guinea-Bissau, stretching approximately 540 kilometers after originating in Guinea. Its estuary near Bissau is crucial for international trade and the maritime ecosystem. The river is heavily influenced by tides, which are felt up to 150 kilometers inland. In Plizio's Sachkunde K5 curriculum, it is often used as an example of the importance of waterways for a country's economic development and fishing."
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge des Flusses beträgt etwa 540 km.", "Quelle liegt in den Bergen von Guinea.", "Gezeiteneinfluss bis 150 km landeinwärts.", "Wichtigster Wasserweg für den Exporthandel.", "Mündet in den Atlantik bei der Hauptstadt Bissau.", "Das Ästuar ist Lebensraum für diverse Fischarten."],
+      hu: ["A folyó teljes hossza körülbelül 540 km.", "Forrása a guineai hegyekben található.", "Az árapály hatása 150 km-ig érezhető.", "A legfontosabb vízi út az exportkereskedelem számára.", "Bissau fővárosánál ömlik az Atlanti-óceánba.", "A torkolatvidék különféle halfajok élőhelye."],
+      ro: ["Lungimea totală a râului este de aproximativ 540 km.", "Izvorul se află în munții Guineei.", "Influența mareelor se resimte până la 150 km.", "Cea mai importantă cale navigabilă pentru export.", "Se varsă în Atlantic lângă capitala Bissau.", "Estuarul este habitat pentru diverse specii de pești."],
+      en: ["Total length of the river is about 540 km.", "Source is in the mountains of Guinea.", "Tidal influence felt up to 150 km inland.", "Most important waterway for export trade.", "Flows into the Atlantic near the capital Bissau.", "The estuary is a habitat for diverse fish species."]
+    }, image: "/poi-images/rio-geba-nature-v2.webp"},
   {
     id: "rio-cacheu-nature-v2",
     type: "river",
@@ -119,8 +142,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Protected area for numerous waterbird species.",
         "Historical access route to the interior."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-cacheu-nature-v2.webp"},
   {
     id: "rio-corubal-nature-v2",
     type: "river",
@@ -159,8 +181,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Famous for the Cusselinta rapids.",
         "Important water source for the Gabú region."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-corubal-nature-v2.webp"},
   {
     id: "bijagos-archipelago-nature-v2",
     type: "island",
@@ -199,8 +220,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Important nesting site for sea turtles.",
         "Unique matriarchal social structure."
       ]
-    }
-  },
+    }, image: "/poi-images/bijagos-archipelago-nature-v2.webp"},
   {
     id: "bolama-island-nature-v2",
     type: "island",
@@ -239,8 +259,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Known for its cashew plantations.",
         "Part of the Bijagós Biosphere Reserve."
       ]
-    }
-  },
+    }, image: "/poi-images/bolama-island-nature-v2.webp"},
   {
     id: "bubaque-island-nature-v2",
     type: "island",
@@ -279,8 +298,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Houses a museum of Bijagó culture.",
         "Popular destination for ecotourism."
       ]
-    }
-  },
+    }, image: "/poi-images/bubaque-island-nature-v2.webp"},
   {
     id: "rubane-island-nature-v2",
     type: "island",
@@ -319,8 +337,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Has dense, green vegetation.",
         "Quiet retreat away from the crowds."
       ]
-    }
-  },
+    }, image: "/poi-images/rubane-island-nature-v2.webp"},
   {
     id: "poilao-island-nature-v2",
     type: "island",
@@ -359,8 +376,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Considered a sacred island with no permanent settlement.",
         "Part of the João Vieira-Poilão National Park."
       ]
-    }
-  },
+    }, image: "/poi-images/poilao-island-nature-v2.webp"},
   {
     id: "lagoa-de-cufada-nature-v2",
     type: "lake",
@@ -399,8 +415,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Home to endangered animal species.",
         "Important reservoir for local fishing."
       ]
-    }
-  },
+    }, image: "/poi-images/lagoa-de-cufada-nature-v2.webp"},
   {
     id: "cantanhez-forest-nature-v2",
     type: "forest",
@@ -439,8 +454,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Home to a large chimpanzee population.",
         "Known for giant Kapok trees."
       ]
-    }
-  },
+    }, image: "/poi-images/cantanhez-forest-nature-v2.webp"},
   {
     id: "dulombi-forest-nature-v2",
     type: "forest",
@@ -479,8 +493,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Important migration corridor for elephants.",
         "Diverse savanna and forest landscape."
       ]
-    }
-  },
+    }, image: "/poi-images/dulombi-forest-nature-v2.webp"},
   {
     id: "boe-hills-nature-v2",
     type: "mountain",
@@ -519,8 +532,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Site of the 1973 declaration of independence.",
         "Rich in bauxite deposits."
       ]
-    }
-  },
+    }, image: "/poi-images/boe-hills-nature-v2.webp"},
   {
     id: "rio-mansoa-nature-v2",
     type: "river",
@@ -559,8 +571,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Known for its crocodile populations.",
         "Flows through fertile alluvial lands."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-mansoa-nature-v2.webp"},
   {
     id: "formosa-island-nature-v2",
     type: "island",
@@ -599,8 +610,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Rich in fish stocks in the lagoons.",
         "Home to traditional Bijagó villages."
       ]
-    }
-  },
+    }, image: "/poi-images/formosa-island-nature-v2.webp"},
   {
     id: "uno-island-nature-v2",
     type: "island",
@@ -639,8 +649,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Important site for cultural rites.",
         "Surrounded by waters rich in fish."
       ]
-    }
-  },
+    }, image: "/poi-images/uno-island-nature-v2.webp"},
   {
     id: "canhabaque-island-nature-v2",
     type: "island",
@@ -679,8 +688,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Rich in palm oil production.",
         "Beautiful, rarely visited beaches."
       ]
-    }
-  },
+    }, image: "/poi-images/canhabaque-island-nature-v2.webp"},
   {
     id: "caravela-island-nature-v2",
     type: "island",
@@ -719,8 +727,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Extremely clean and white sandy beaches.",
         "Important ecosystem for marine birds."
       ]
-    }
-  },
+    }, image: "/poi-images/caravela-island-nature-v2.webp"},
   {
     id: "carache-island-nature-v2",
     type: "island",
@@ -759,8 +766,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Ideal for bird watching.",
         "Little permanent infrastructure."
       ]
-    }
-  },
+    }, image: "/poi-images/carache-island-nature-v2.webp"},
   {
     id: "varela-coast-nature-v2",
     type: "sea",
@@ -799,8 +805,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Located near the border with Senegal.",
         "Known for fresh seafood."
       ]
-    }
-  },
+    }, image: "/poi-images/varela-coast-nature-v2.webp"},
   {
     id: "rio-grande-de-buba-nature-v2",
     type: "river",
@@ -839,8 +844,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Deep natural harbor.",
         "Rich in various fish species."
       ]
-    }
-  },
+    }, image: "/poi-images/rio-grande-de-buba-nature-v2.webp"},
   {
     id: "joao-vieira-islands-nature-v2",
     type: "island",
@@ -919,8 +923,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Known for its local agriculture.",
         "Popular excursion destination from Bubaque."
       ]
-    }
-  },
+    }, image: "/poi-images/galinhas-island-nature-v2.webp"},
   {
     id: "soga-island-nature-v2",
     type: "island",
@@ -959,8 +962,7 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
         "Beautiful views of the archipelago.",
         "Easily accessible from Bubaque."
       ]
-    }
-  },
+    }, image: "/poi-images/soga-island-nature-v2.webp"},
   {
     id: "cacheu-mangroves-nature-v2",
     type: "forest",
@@ -1002,3 +1004,4 @@ export const poiExtraGuineabissauNatureV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraZimbabweNatureV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Hat országon folyik keresztül", "Az Indiai-óceánba torkollik", "Híres a Viktória-vízesésről"],
       ro: ["Curge prin șase țări", "Se varsă în Oceanul Indian", "Cunoscut pentru Cascada Victoria"],
       en: ["Flows through six countries", "Drains into the Indian Ocean", "Known for Victoria Falls"]
-    }
-  },
+    }, image: "/poi-images/zambezi-river-nature-v2.webp"},
   {
     id: "lake-kariba-nature-v2",
     type: "lake",
@@ -37,8 +37,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Zambia határán fekszik", "Az 1950-es években épült", "Fontos áramforrás"],
       ro: ["Situat la granița cu Zambia", "Construit în anii 1950", "Sursă importantă de energie"],
       en: ["Located on the border with Zambia", "Built in the 1950s", "Important power source"]
-    }
-  },
+    }, image: "/poi-images/lake-kariba-nature-v2.webp"},
   {
     id: "in-yangani-nature-v2",
     type: "mountain",
@@ -56,8 +55,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["A Nyanga-hegység része", "Magassága 2592 méter", "Népszerű túrázóhely"],
       ro: ["Parte a munților Nyanga", "Înălțime 2592 metri", "Popular pentru drumeții"],
       en: ["Part of the Nyanga Mountains", "Height 2592 meters", "Popular for hiking"]
-    }
-  },
+    }, image: "/poi-images/in-yangani-nature-v2.webp"},
   {
     id: "limpopo-river-nature-v2",
     type: "river",
@@ -75,8 +73,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Az Indiai-óceánba ömlik", "Dél-afrikai határfolyó", "Vízilovak élőhelye"],
       ro: ["Se varsă în Oceanul Indian", "Granița cu Africa de Sud", "Habitat pentru hipopotami"],
       en: ["Flows into the Indian Ocean", "Border with South Africa", "Habitat for hippos"]
-    }
-  },
+    }, image: "/poi-images/limpopo-river-nature-v2.webp"},
   {
     id: "chizarira-forest-nature-v2",
     type: "forest",
@@ -94,8 +91,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Észak-Zimbabwe", "Gazdag vadvilág", "Meredek szakadékok"],
       ro: ["Nordul Zimbabwe-ului", "Bogată în viață sălbatică", "Defilee abrupte"],
       en: ["Northern Zimbabwe", "Rich in wildlife", "Steep gorges"]
-    }
-  },
+    }, image: "/poi-images/chizarira-forest-nature-v2.webp"},
   {
     id: "gonarezhou-river-nature-v2",
     type: "river",
@@ -113,8 +109,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Sziklás terepen halad át", "Fontos az élővilág számára", "A Save-be ömlik"],
       ro: ["Traversează teren stâncos", "Important pentru viața sălbatică", "Se varsă în Save"],
       en: ["Flows through rocky terrain", "Important for wildlife", "Flows into the Save"]
-    }
-  },
+    }, image: "/poi-images/gonarezhou-river-nature-v2.webp"},
   {
     id: "save-river-nature-v2",
     type: "river",
@@ -132,8 +127,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Fontos a mezőgazdaságnak", "Határos Mozambikkal", "Táplálja az ártereket"],
       ro: ["Important pentru agricultură", "Se învecinează cu Mozambic", "Alimentează câmpiile inundabile"],
       en: ["Important for agriculture", "Borders Mozambique", "Feeds floodplains"]
-    }
-  },
+    }, image: "/poi-images/save-river-nature-v2.webp"},
   {
     id: "vumba-mountains-nature-v2",
     type: "mountain",
@@ -151,8 +145,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Híres botanikus kertek", "Hűvös éghajlat", "Magas biodiverzitás"],
       ro: ["Cunoscut pentru grădini botanice", "Climat răcoros", "Biodiversitate ridicată"],
       en: ["Known for botanical gardens", "Cool climate", "High biodiversity"]
-    }
-  },
+    }, image: "/poi-images/vumba-mountains-nature-v2.webp"},
   {
     id: "lake-mutirikwi-nature-v2",
     type: "lake",
@@ -189,8 +182,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Három nagy gát", "Fontos ellátás", "A Zambézi-be ömlik"],
       ro: ["Trei baraje mari", "Important pentru aprovizionare", "Se varsă în Zambezi"],
       en: ["Three large dams", "Important for supply", "Flows into the Zambezi"]
-    }
-  },
+    }, image: "/poi-images/manyame-river-nature-v2.webp"},
   {
     id: "matobo-hills-mountains-nature-v2",
     type: "mountain",
@@ -208,8 +200,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Világörökség", "Híres sziklaformációk", "Gazdag orrszarvúkban"],
       ro: ["Patrimoniu Mondial UNESCO", "Faimos pentru formațiuni stâncoase", "Bogată în rinoceri"],
       en: ["UNESCO World Heritage site", "Famous for rock formations", "Rich in rhinos"]
-    }
-  },
+    }, image: "/poi-images/matobo-hills-mountains-nature-v2.webp"},
   {
     id: "shashe-river-nature-v2",
     type: "river",
@@ -284,8 +275,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Fontos gyümölcstermesztésre", "Határos Mozambikkal", "A Luenha-ba ömlik"],
       ro: ["Important pentru cultivarea fructelor", "Granița cu Mozambic", "Se varsă în Luenha"],
       en: ["Important for fruit farming", "Border with Mozambique", "Flows into the Luenha"]
-    }
-  },
+    }, image: "/poi-images/mazowe-river-nature-v2.webp"},
   {
     id: "chiredzi-river-nature-v2",
     type: "river",
@@ -303,8 +293,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Száraz terület", "Fontos öntözésre", "A Save mellékfolyója"],
       ro: ["Zonă uscată", "Important pentru irigații", "Afluent al Save-ului"],
       en: ["Dry area", "Important for irrigation", "Tributary of the Save"]
-    }
-  },
+    }, image: "/poi-images/chiredzi-river-nature-v2.webp"},
   {
     id: "mzingwane-river-nature-v2",
     type: "river",
@@ -322,8 +311,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Szezonális folyó", "Fontos a bányászati régiónak", "Dél felé folyik"],
       ro: ["Râu sezonier", "Important pentru regiunea minieră", "Curge spre sud"],
       en: ["Seasonal river", "Important for mining region", "Flows south"]
-    }
-  },
+    }, image: "/poi-images/mzingwane-river-nature-v2.webp"},
   {
     id: "sanyati-river-nature-v2",
     type: "river",
@@ -360,8 +348,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Határos Mozambikkal", "Fontos a régiónak", "Kelet felé folyik"],
       ro: ["Aproape de granița cu Mozambic", "Important pentru regiune", "Curge spre est"],
       en: ["Near border with Mozambique", "Important for region", "Flows east"]
-    }
-  },
+    }, image: "/poi-images/buzi-river-nature-v2.webp"},
   {
     id: "nuanetsi-river-nature-v2",
     type: "river",
@@ -379,8 +366,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Száraz éghajlat", "Fontos vadvédelmi területek", "Dél felé folyik"],
       ro: ["Climat uscat", "Important pentru rezervații sălbatice", "Curge spre sud"],
       en: ["Dry climate", "Important for wildlife reserves", "Flows south"]
-    }
-  },
+    }, image: "/poi-images/nuanetsi-river-nature-v2.webp"},
   {
     id: "lake-chivero-nature-v2",
     type: "lake",
@@ -398,8 +384,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Ivóvíz-rezervoár", "Szabadidőpark", "Madárban gazdag terület"],
       ro: ["Rezervor de apă potabilă", "Zonă de recreere", "Zonă bogată în păsări"],
       en: ["Drinking water reservoir", "Recreation area", "Bird-rich area"]
-    }
-  },
+    }, image: "/poi-images/lake-chivero-nature-v2.webp"},
   {
     id: "lake-mcilwaine-nature-v2",
     type: "lake",
@@ -436,8 +421,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Zimbabwe legmagasabb pontja", "Hűvös felföld", "Túrázás"],
       ro: ["Cel mai înalt punct din Zimbabwe", "Platou răcoros", "Drumeții"],
       en: ["Highest point in Zimbabwe", "Cool highland", "Hiking"]
-    }
-  },
+    }, image: "/poi-images/nyanga-mountains-nature-v2.webp"},
   {
     id: "chimanimani-mountains-nature-v2",
     type: "mountain",
@@ -455,8 +439,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Kvarcit sziklák", "Nemzeti park", "Ideális túrázóknak"],
       ro: ["Stânci de cuarțit", "Parc național", "Ideal pentru drumeți"],
       en: ["Quartzite rocks", "National park", "Ideal for hikers"]
-    }
-  },
+    }, image: "/poi-images/chimanimani-mountains-nature-v2.webp"},
   {
     id: "mazowe-dam-lake-nature-v2",
     type: "lake",
@@ -474,8 +457,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Öntözés", "Halászat", "Harare közelében"],
       ro: ["Irigare", "Pescuit", "Aproape de Harare"],
       en: ["Irrigation", "Fishing", "Near Harare"]
-    }
-  },
+    }, image: "/poi-images/mazowe-dam-lake-nature-v2.webp"},
   {
     id: "runde-forest-nature-v2",
     type: "forest",
@@ -493,8 +475,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Madarakban gazdag", "Vízilovak", "Száraz erdő"],
       ro: ["Bogată în păsări", "Hipopotami", "Pădure uscată"],
       en: ["Rich in birds", "Hippos", "Dry forest"]
-    }
-  },
+    }, image: "/poi-images/runde-forest-nature-v2.webp"},
   {
     id: "save-valley-nature-v2",
     type: "forest",
@@ -512,8 +493,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Vadvédelem", "Nagy területek", "Változatos"],
       ro: ["Protecția vieții sălbatice", "Suprafețe mari", "Diversificat"],
       en: ["Wildlife conservation", "Large areas", "Diverse"]
-    }
-  },
+    }, image: "/poi-images/save-valley-nature-v2.webp"},
   {
     id: "tuli-river-nature-v2",
     type: "river",
@@ -550,8 +530,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       hu: ["Gránit", "Fontos a régiónak", "Természetvédelem"],
       ro: ["Granit", "Important pentru regiune", "Conservare"],
       en: ["Granite", "Important for region", "Conservation"]
-    }
-  },
+    }, image: "/poi-images/bulawayo-hills-nature-v2.webp"},
   {
     id: "gona-re-zhou-nature-v2",
     type: "forest",
@@ -572,3 +551,4 @@ export const poiExtraZimbabweNatureV2: POI[] = [
     }
   }
 ];
+

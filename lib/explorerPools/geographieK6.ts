@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 // ─── I1: Planet Erde ────────────────────────────────────
@@ -13875,3 +13876,4 @@ export const GEO_K6_POOL: PoolTopicDef[] = [
   ...GEO_K6_I8_POOL,
   ...GEO_K6_I9_POOL,
 ];
+

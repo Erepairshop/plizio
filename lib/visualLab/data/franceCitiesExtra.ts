@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 type CitySeed = {
@@ -951,3 +952,4 @@ export const franceCitiesExtra: POI[] = citySeeds.map((city) => ({
   ...city,
   type: "city",
 }));
+

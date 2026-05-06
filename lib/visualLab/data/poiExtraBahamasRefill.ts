@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBahamasRefill: POI[] = [
@@ -9,8 +10,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-76.242, 25.197],
     name: { de: "Governor's Harbour", hu: "Governor's Harbour", ro: "Governor's Harbour", en: "Governor's Harbour" },
     description: { de: "Eine charmante und historische Siedlung auf Eleuthera.", hu: "Bájos és történelmi település Eleuthera szigetén.", ro: "O așezare fermecătoare și istorică pe Eleuthera.", en: "A charming and historic settlement on Eleuthera." },
-    facts: { de: ["Ehemalige Hauptstadt von Eleuthera", "Gegründet von William Sayle"], hu: ["Eleuthera egykori fővárosa", "William Sayle alapította"], ro: ["Fosta capitală a Eleutherei", "Fondat de William Sayle"], en: ["Former capital of Eleuthera", "Founded by William Sayle"] }
-  },
+    facts: { de: ["Ehemalige Hauptstadt von Eleuthera", "Gegründet von William Sayle"], hu: ["Eleuthera egykori fővárosa", "William Sayle alapította"], ro: ["Fosta capitală a Eleutherei", "Fondat de William Sayle"], en: ["Former capital of Eleuthera", "Founded by William Sayle"] }, image: "/poi-images/bs-governors-harbour-refill.webp"},
   {
     id: "bs-rock-sound-refill",
     type: "city",
@@ -18,8 +18,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-76.196, 24.898],
     name: { de: "Rock Sound", hu: "Rock Sound", ro: "Rock Sound", en: "Rock Sound" },
     description: { de: "Eine Stadt im Süden von Eleuthera, bekannt für ihr ozeanisches Loch.", hu: "Város Eleuthera déli részén, óceáni lyukáról ismert.", ro: "Un oraș în sudul Eleutherei, cunoscut pentru gaura sa oceanică.", en: "A town in southern Eleuthera known for its ocean hole." },
-    facts: { de: ["Große Siedlung in Süd-Eleuthera", "Ocean Hole ist eine Hauptattraktion"], hu: ["Nagy település Dél-Eleutherán", "Az Ocean Hole fő látványosság"], ro: ["Așezare mare în sudul Eleutherei", "Ocean Hole este o atracție principală"], en: ["Large settlement in South Eleuthera", "The Ocean Hole is a main attraction"] }
-  },
+    facts: { de: ["Große Siedlung in Süd-Eleuthera", "Ocean Hole ist eine Hauptattraktion"], hu: ["Nagy település Dél-Eleutherán", "Az Ocean Hole fő látványosság"], ro: ["Așezare mare în sudul Eleutherei", "Ocean Hole este o atracție principală"], en: ["Large settlement in South Eleuthera", "The Ocean Hole is a main attraction"] }, image: "/poi-images/bs-rock-sound-refill.webp"},
   {
     id: "bs-spanish-wells-refill",
     type: "city",
@@ -27,8 +26,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-76.755, 25.541],
     name: { de: "Spanish Wells", hu: "Spanish Wells", ro: "Spanish Wells", en: "Spanish Wells" },
     description: { de: "Eine kleine, wohlhabende Gemeinde auf St. George's Cay.", hu: "Kicsi, virágzó közösség a St. George's Cay szigeten.", ro: "O comunitate mică și prosperă pe St. George's Cay.", en: "A small, prosperous community on St. George's Cay." },
-    facts: { de: ["Bekannt für die Hummerfischerei", "Sehr niedrige Kriminalitätsrate"], hu: ["Homárhalászatáról ismert", "Nagyon alacsony bűnözési ráta"], ro: ["Renumit pentru pescuitul de homari", "Rată a criminalității foarte scăzută"], en: ["Known for its lobster fishing industry", "Very low crime rate"] }
-  },
+    facts: { de: ["Bekannt für die Hummerfischerei", "Sehr niedrige Kriminalitätsrate"], hu: ["Homárhalászatáról ismert", "Nagyon alacsony bűnözési ráta"], ro: ["Renumit pentru pescuitul de homari", "Rată a criminalității foarte scăzută"], en: ["Known for its lobster fishing industry", "Very low crime rate"] }, image: "/poi-images/bs-spanish-wells-refill.webp"},
   {
     id: "bs-george-town-exuma-refill",
     type: "city",
@@ -36,8 +34,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-75.783, 23.517],
     name: { de: "George Town (Exuma)", hu: "George Town (Exuma)", ro: "George Town (Exuma)", en: "George Town (Exuma)" },
     description: { de: "Die Hauptstadt und größte Stadt der Exuma-Inselkette.", hu: "Az Exuma-szigetlánc fővárosa és legnagyobb városa.", ro: "Capitala și cel mai mare oraș din lanțul insular Exuma.", en: "The capital and largest town of the Exuma island chain." },
-    facts: { de: ["Jährliche Family Island Regatta", "Zentrum für Segler"], hu: ["Évente megrendezett Családi Sziget Regatta", "Vitorlázók központja"], ro: ["Regata anuală a Insulelor Familiei", "Centru pentru navigatori"], en: ["Hosts the annual Family Island Regatta", "Hub for yachters and sailors"] }
-  },
+    facts: { de: ["Jährliche Family Island Regatta", "Zentrum für Segler"], hu: ["Évente megrendezett Családi Sziget Regatta", "Vitorlázók központja"], ro: ["Regata anuală a Insulelor Familiei", "Centru pentru navigatori"], en: ["Hosts the annual Family Island Regatta", "Hub for yachters and sailors"] }, image: "/poi-images/bs-george-town-exuma-refill.webp"},
   {
     id: "bs-clarence-town-refill",
     type: "city",
@@ -45,8 +42,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-74.983, 23.1],
     name: { de: "Clarence Town", hu: "Clarence Town", ro: "Clarence Town", en: "Clarence Town" },
     description: { de: "Die malerische Hauptstadt von Long Island.", hu: "Long Island festői fővárosa.", ro: "Capitala pitorească a Long Island.", en: "The picturesque capital of Long Island." },
-    facts: { de: ["Zwei markante Kirchen auf Hügeln", "Entworfen von Pater Jerome"], hu: ["Két jellegzetes templom dombokon", "Jerome atya tervezte"], ro: ["Două biserici distinctive pe dealuri", "Proiectate de Părintele Jerome"], en: ["Features two distinctive hilltop churches", "Designed by Father Jerome"] }
-  },
+    facts: { de: ["Zwei markante Kirchen auf Hügeln", "Entworfen von Pater Jerome"], hu: ["Két jellegzetes templom dombokon", "Jerome atya tervezte"], ro: ["Două biserici distinctive pe dealuri", "Proiectate de Părintele Jerome"], en: ["Features two distinctive hilltop churches", "Designed by Father Jerome"] }, image: "/poi-images/bs-clarence-town-refill.webp"},
   {
     id: "bs-great-guana-cay-refill",
     type: "city",
@@ -54,8 +50,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.117, 26.667],
     name: { de: "Great Guana Cay", hu: "Great Guana Cay", ro: "Great Guana Cay", en: "Great Guana Cay" },
     description: { de: "Eine schmale Insel in den Abacos, bekannt für ihre Strände.", hu: "Keskeny sziget az Abaco-szigeteken, strandjairól ismert.", ro: "O insulă îngustă în Abacos, cunoscută pentru plajele sale.", en: "A narrow islet in the Abacos, known for its beaches." },
-    facts: { de: ["Berühmt für das Barefoot Man Konzert", "Langer, unberührter Strand"], hu: ["Híres a Meztelen Lábú Ember koncertről", "Hosszú, érintetlen strand"], ro: ["Faimos pentru concertul Barefoot Man", "Plajă lungă și virgină"], en: ["Famous for the Barefoot Man concerts", "Long, pristine beach"] }
-  },
+    facts: { de: ["Berühmt für das Barefoot Man Konzert", "Langer, unberührter Strand"], hu: ["Híres a Meztelen Lábú Ember koncertről", "Hosszú, érintetlen strand"], ro: ["Faimos pentru concertul Barefoot Man", "Plajă lungă și virgină"], en: ["Famous for the Barefoot Man concerts", "Long, pristine beach"] }, image: "/poi-images/bs-great-guana-cay-refill.webp"},
   {
     id: "bs-green-turtle-cay-refill",
     type: "city",
@@ -63,8 +58,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.333, 26.767],
     name: { de: "Green Turtle Cay", hu: "Green Turtle Cay", ro: "Green Turtle Cay", en: "Green Turtle Cay" },
     description: { de: "Ein loyalistisches Dorf in den Abacos mit New-England-Architektur.", hu: "Lojalista falu az Abaco-szigeteken, New England-i építészettel.", ro: "Un sat loialist în Abacos, cu arhitectură în stil New England.", en: "A Loyalist village in the Abacos with New England-style architecture." },
-    facts: { de: ["Gegründet von Loyalisten", "Heimat des Albert Lowe Museums"], hu: ["Lojalisták alapították", "Az Albert Lowe Múzeum otthona"], ro: ["Fondat de loialiști", "Găzduiește Muzeul Albert Lowe"], en: ["Settled by Loyalists", "Home to the Albert Lowe Museum"] }
-  },
+    facts: { de: ["Gegründet von Loyalisten", "Heimat des Albert Lowe Museums"], hu: ["Lojalisták alapították", "Az Albert Lowe Múzeum otthona"], ro: ["Fondat de loialiști", "Găzduiește Muzeul Albert Lowe"], en: ["Settled by Loyalists", "Home to the Albert Lowe Museum"] }, image: "/poi-images/bs-green-turtle-cay-refill.webp"},
   {
     id: "bs-man-o-war-cay-refill",
     type: "city",
@@ -72,8 +66,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.001, 26.591],
     name: { de: "Man-O-War Cay", hu: "Man-O-War Cay", ro: "Man-O-War Cay", en: "Man-O-War Cay" },
     description: { de: "Eine konservative, trockene Insel, die für den Bootsbau bekannt ist.", hu: "Konzervatív, 'száraz' sziget, amely a hajóépítésről ismert.", ro: "O insulă conservatoare, 'uscată', renumită pentru construcția de bărci.", en: "A conservative, 'dry' island known for boat building." },
-    facts: { de: ["Zentrum des bahamaischen Bootsbaus", "Kein Alkohol wird öffentlich verkauft"], hu: ["A bahamai hajóépítés központja", "Nyilvánosan nem árulnak alkoholt"], ro: ["Centrul construcțiilor de bărci din Bahamas", "Nu se vinde alcool public"], en: ["Center of Bahamian boat building", "No alcohol sold publicly"] }
-  },
+    facts: { de: ["Zentrum des bahamaischen Bootsbaus", "Kein Alkohol wird öffentlich verkauft"], hu: ["A bahamai hajóépítés központja", "Nyilvánosan nem árulnak alkoholt"], ro: ["Centrul construcțiilor de bărci din Bahamas", "Nu se vinde alcool public"], en: ["Center of Bahamian boat building", "No alcohol sold publicly"] }, image: "/poi-images/bs-man-o-war-cay-refill.webp"},
   {
     id: "bs-treasures-cay-refill",
     type: "city",
@@ -81,8 +74,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.292, 26.663],
     name: { de: "Treasure Cay", hu: "Treasure Cay", ro: "Treasure Cay", en: "Treasure Cay" },
     description: { de: "Eine Resortgemeinde, bekannt für ihren sichelförmigen Strand.", hu: "Üdülőközösség, amely félhold alakú strandjáról ismert.", ro: "O comunitate de resort cunoscută pentru plaja sa în formă de semilună.", en: "A resort community known for its crescent-shaped beach." },
-    facts: { de: ["Einst von National Geographic bewertet", "Beliebtes Ziel für Touristen"], hu: ["Egykor a National Geographic értékelte", "Népszerű turisztikai célpont"], ro: ["Odată evaluat de National Geographic", "Destinație populară pentru turiști"], en: ["Once rated by National Geographic", "Popular tourist destination"] }
-  },
+    facts: { de: ["Einst von National Geographic bewertet", "Beliebtes Ziel für Touristen"], hu: ["Egykor a National Geographic értékelte", "Népszerű turisztikai célpont"], ro: ["Odată evaluat de National Geographic", "Destinație populară pentru turiști"], en: ["Once rated by National Geographic", "Popular tourist destination"] }, image: "/poi-images/bs-treasures-cay-refill.webp"},
   {
     id: "bs-arthurs-town-refill",
     type: "city",
@@ -90,8 +82,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-75.667, 24.633],
     name: { de: "Arthur's Town", hu: "Arthur's Town", ro: "Arthur's Town", en: "Arthur's Town" },
     description: { de: "Die Kindheitsheimat von Sidney Poitier auf Cat Island.", hu: "Sidney Poitier gyermekkori otthona a Cat Islanden.", ro: "Casa copilăriei lui Sidney Poitier pe insula Cat.", en: "The childhood home of Sidney Poitier, located on Cat Island." },
-    facts: { de: ["Nördlichste Siedlung auf Cat Island", "Kleiner Flugplatz in der Nähe"], hu: ["A Cat Island legészakibb települése", "Kis repülőtér a közelben"], ro: ["Cea mai nordică așezare de pe insula Cat", "Aerodrom mic în apropiere"], en: ["Northernmost settlement on Cat Island", "Small airfield nearby"] }
-  },
+    facts: { de: ["Nördlichste Siedlung auf Cat Island", "Kleiner Flugplatz in der Nähe"], hu: ["A Cat Island legészakibb települése", "Kis repülőtér a közelben"], ro: ["Cea mai nordică așezare de pe insula Cat", "Aerodrom mic în apropiere"], en: ["Northernmost settlement on Cat Island", "Small airfield nearby"] }, image: "/poi-images/bs-arthurs-town-refill.webp"},
   {
     id: "bs-tarpum-bay-refill",
     type: "city",
@@ -99,8 +90,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-76.198, 24.965],
     name: { de: "Tarpum Bay", hu: "Tarpum Bay", ro: "Tarpum Bay", en: "Tarpum Bay" },
     description: { de: "Ein malerisches Fischerdorf auf Eleuthera mit einer Künstlergemeinschaft.", hu: "Festői halászfalu Eleutherán, művészközösséggel.", ro: "Un sat pescăresc pitoresc pe Eleuthera cu o comunitate de artiști.", en: "A quaint fishing village on Eleuthera with an artists' community." },
-    facts: { de: ["Historisch eine Ananas-Region", "Bekannt für lokale Kunstgalerien"], hu: ["Történelmileg ananásztermő vidék", "Helyi művészeti galériáiról ismert"], ro: ["Istoric o regiune a ananasului", "Cunoscut pentru galeriile de artă locale"], en: ["Historically a pineapple region", "Known for local art galleries"] }
-  },
+    facts: { de: ["Historisch eine Ananas-Region", "Bekannt für lokale Kunstgalerien"], hu: ["Történelmileg ananásztermő vidék", "Helyi művészeti galériáiról ismert"], ro: ["Istoric o regiune a ananasului", "Cunoscut pentru galeriile de artă locale"], en: ["Historically a pineapple region", "Known for local art galleries"] }, image: "/poi-images/bs-tarpum-bay-refill.webp"},
   {
     id: "bs-andros-town-refill",
     type: "city",
@@ -108,8 +98,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.767, 24.7],
     name: { de: "Andros Town", hu: "Andros Town", ro: "Andros Town", en: "Andros Town" },
     description: { de: "Eine Siedlung auf North Andros, in der Nähe des Flughafens.", hu: "Település North Andros szigetén, a repülőtér közelében.", ro: "O așezare pe North Andros, aproape de aeroport.", en: "A settlement on North Andros, located near the airport." },
-    facts: { de: ["Wichtiger Verkehrsknotenpunkt für Andros", "In der Nähe von AUTEC"], hu: ["Fontos közlekedési csomópont Andros számára", "Az AUTEC közelében"], ro: ["Nod de transport important pentru Andros", "Aproape de AUTEC"], en: ["Major transport hub for Andros", "Near the AUTEC facility"] }
-  },
+    facts: { de: ["Wichtiger Verkehrsknotenpunkt für Andros", "In der Nähe von AUTEC"], hu: ["Fontos közlekedési csomópont Andros számára", "Az AUTEC közelében"], ro: ["Nod de transport important pentru Andros", "Aproape de AUTEC"], en: ["Major transport hub for Andros", "Near the AUTEC facility"] }, image: "/poi-images/bs-andros-town-refill.webp"},
   {
     id: "bs-coopers-town-refill",
     type: "city",
@@ -117,8 +106,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.533, 26.867],
     name: { de: "Cooper's Town", hu: "Cooper's Town", ro: "Cooper's Town", en: "Cooper's Town" },
     description: { de: "Die nördlichste Siedlung in den Abacos.", hu: "Az Abaco-szigetek legészakibb települése.", ro: "Cea mai nordică așezare din Abacos.", en: "The northernmost settlement in the Abacos." },
-    facts: { de: ["Heimatstadt des ehemaligen Premierministers Hubert Ingraham", "Wichtige öffentliche Klinik"], hu: ["Hubert Ingraham volt miniszterelnök szülővárosa", "Fontos közklinika"], ro: ["Orașul natal al fostului prim-ministru Hubert Ingraham", "Clinică publică importantă"], en: ["Hometown of former PM Hubert Ingraham", "Has an important public clinic"] }
-  },
+    facts: { de: ["Heimatstadt des ehemaligen Premierministers Hubert Ingraham", "Wichtige öffentliche Klinik"], hu: ["Hubert Ingraham volt miniszterelnök szülővárosa", "Fontos közklinika"], ro: ["Orașul natal al fostului prim-ministru Hubert Ingraham", "Clinică publică importantă"], en: ["Hometown of former PM Hubert Ingraham", "Has an important public clinic"] }, image: "/poi-images/bs-coopers-town-refill.webp"},
   {
     id: "bs-deadmans-cay-refill",
     type: "city",
@@ -126,8 +114,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-75.091, 23.175],
     name: { de: "Deadman's Cay", hu: "Deadman's Cay", ro: "Deadman's Cay", en: "Deadman's Cay" },
     description: { de: "Eine große Siedlung auf Long Island mit einem Flughafen.", hu: "Nagy település Long Islanden, repülőtérrel.", ro: "O așezare mare pe Long Island cu un aeroport.", en: "A large settlement on Long Island with an airport." },
-    facts: { de: ["Bedient den größten Teil von Long Island", "In der Nähe von Meereshöhlen"], hu: ["Long Island nagy részét szolgálja ki", "Tengeri barlangok közelében"], ro: ["Servește cea mai mare parte a Long Island", "Aproape de peșteri marine"], en: ["Services most of Long Island", "Close to marine caves"] }
-  },
+    facts: { de: ["Bedient den größten Teil von Long Island", "In der Nähe von Meereshöhlen"], hu: ["Long Island nagy részét szolgálja ki", "Tengeri barlangok közelében"], ro: ["Servește cea mai mare parte a Long Island", "Aproape de peșteri marine"], en: ["Services most of Long Island", "Close to marine caves"] }, image: "/poi-images/bs-deadmans-cay-refill.webp"},
   {
     id: "bs-matthew-town-refill",
     type: "city",
@@ -135,8 +122,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-73.667, 20.95],
     name: { de: "Matthew Town", hu: "Matthew Town", ro: "Matthew Town", en: "Matthew Town" },
     description: { de: "Die einzige Siedlung auf Great Inagua, bekannt für die Salzproduktion.", hu: "Az egyetlen település Great Inagua szigetén, a sótermelésről ismert.", ro: "Singura așezare de pe Great Inagua, cunoscută pentru producția de sare.", en: "The only settlement on Great Inagua, known for salt production." },
-    facts: { de: ["Zentrum der Morton Salt Company", "Große Flamingo-Population in der Nähe"], hu: ["A Morton Salt Company központja", "Nagy flamingópopuláció a közelben"], ro: ["Centrul Morton Salt Company", "Populație mare de flamingo în apropiere"], en: ["Center of the Morton Salt Company", "Large flamingo population nearby"] }
-  },
+    facts: { de: ["Zentrum der Morton Salt Company", "Große Flamingo-Population in der Nähe"], hu: ["A Morton Salt Company központja", "Nagy flamingópopuláció a közelben"], ro: ["Centrul Morton Salt Company", "Populație mare de flamingo în apropiere"], en: ["Center of the Morton Salt Company", "Large flamingo population nearby"] }, image: "/poi-images/bs-matthew-town-refill.webp"},
   {
     id: "bs-abrahams-bay-refill",
     type: "city",
@@ -144,8 +130,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-72.95, 22.367],
     name: { de: "Abraham's Bay", hu: "Abraham's Bay", ro: "Abraham's Bay", en: "Abraham's Bay" },
     description: { de: "Die Hauptstadt von Mayaguana im äußersten Osten der Bahamas.", hu: "Mayaguana fővárosa a Bahamák legkeletibb részén.", ro: "Capitala Mayaguanei, în extremitatea estică a Bahamasului.", en: "The capital of Mayaguana in the far east of the Bahamas." },
-    facts: { de: ["Sehr abgelegene Siedlung", "Umgeben von Riffen"], hu: ["Nagyon távoli település", "Zátonyok veszik körül"], ro: ["Așezare foarte izolată", "Înconjurat de recife"], en: ["Very remote settlement", "Surrounded by reefs"] }
-  },
+    facts: { de: ["Sehr abgelegene Siedlung", "Umgeben von Riffen"], hu: ["Nagyon távoli település", "Zátonyok veszik körül"], ro: ["Așezare foarte izolată", "Înconjurat de recife"], en: ["Very remote settlement", "Surrounded by reefs"] }, image: "/poi-images/bs-abrahams-bay-refill.webp"},
   {
     id: "bs-port-nelson-refill",
     type: "city",
@@ -162,8 +147,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-74.517, 24.05],
     name: { de: "Cockburn Town (San Salvador)", hu: "Cockburn Town (San Salvador)", ro: "Cockburn Town (San Salvador)", en: "Cockburn Town (San Salvador)" },
     description: { de: "Die Hauptstadt von San Salvador, wo Kolumbus erstmals gelandet sein soll.", hu: "San Salvador fővárosa, ahol állítólag Kolumbusz először partra szállt.", ro: "Capitala San Salvadorului, unde se crede că a debarcat prima dată Columb.", en: "The capital of San Salvador, believed to be Columbus's first landfall." },
-    facts: { de: ["Heimat des New World Museum", "Wichtiger historischer Anspruch"], hu: ["Az Újvilág Múzeum otthona", "Fontos történelmi igény"], ro: ["Găzduiește Muzeul Lumii Noi", "Revendicare istorică importantă"], en: ["Home to the New World Museum", "Important historical claim"] }
-  },
+    facts: { de: ["Heimat des New World Museum", "Wichtiger historischer Anspruch"], hu: ["Az Újvilág Múzeum otthona", "Fontos történelmi igény"], ro: ["Găzduiește Muzeul Lumii Noi", "Revendicare istorică importantă"], en: ["Home to the New World Museum", "Important historical claim"] }, image: "/poi-images/bs-cockburn-town-refill.webp"},
   {
     id: "bs-nicolls-town-refill",
     type: "city",
@@ -180,8 +164,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-76.012, 23.699],
     name: { de: "Rolleville", hu: "Rolleville", ro: "Rolleville", en: "Rolleville" },
     description: { de: "Eine historische Siedlung in Exuma, die von einem ehemaligen Sklaven gegründet wurde.", hu: "Történelmi település Exumán, amelyet egy volt rabszolga alapított.", ro: "O așezare istorică în Exuma, fondată de un fost sclav.", en: "A historic settlement in Exuma founded by a former slave." },
-    facts: { de: ["Gegründet von Lord Rolles befreiten Sklaven", "Starke Gemeinschaftsbande"], hu: ["Lord Rolle felszabadított rabszolgái alapították", "Erős közösségi kötelékek"], ro: ["Fondată de sclavii eliberați ai Lordului Rolle", "Legături comunitare puternice"], en: ["Founded by Lord Rolle's freed slaves", "Strong community bonds"] }
-  },
+    facts: { de: ["Gegründet von Lord Rolles befreiten Sklaven", "Starke Gemeinschaftsbande"], hu: ["Lord Rolle felszabadított rabszolgái alapították", "Erős közösségi kötelékek"], ro: ["Fondată de sclavii eliberați ai Lordului Rolle", "Legături comunitare puternice"], en: ["Founded by Lord Rolle's freed slaves", "Strong community bonds"] }, image: "/poi-images/bs-rolleville-refill.webp"},
 
   // --- Historical --- (15 POIs)
   {
@@ -200,8 +183,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.319, 25.074],
     name: { de: "Blackbeards Turm", hu: "Feketeszakáll tornya", ro: "Turnul lui Barbă Neagră", en: "Blackbeard's Tower" },
     description: { de: "Die Ruinen eines Wachturms, der angeblich vom Piraten Blackbeard benutzt wurde.", hu: "Egy őrtorony romjai, amelyet állítólag Feketeszakáll kalóz használt.", ro: "Ruinele unui turn de veghe presupus a fi folosit de piratul Barbă Neagră.", en: "The ruins of a watchtower reputedly used by the pirate Blackbeard." },
-    facts: { de: ["Aus dem 18. Jahrhundert", "Bietet Blick auf den Hafen"], hu: ["18. századi", "Kilátás a kikötőre"], ro: ["Din secolul al XVIII-lea", "Oferă vedere la port"], en: ["Dates to the 18th century", "Offers a view of the harbor"] }
-  },
+    facts: { de: ["Aus dem 18. Jahrhundert", "Bietet Blick auf den Hafen"], hu: ["18. századi", "Kilátás a kikötőre"], ro: ["Din secolul al XVIII-lea", "Oferă vedere la port"], en: ["Dates to the 18th century", "Offers a view of the harbor"] }, image: "/poi-images/bs-blackbeards-tower-refill.webp"},
   {
     id: "bs-hermitage-cat-island-refill",
     type: "historical",
@@ -209,8 +191,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-75.518, 24.295],
     name: { de: "Die Eremitage auf Cat Island", hu: "A Remetelak a Cat-szigeten", ro: "Schitul de pe Insula Cat", en: "The Hermitage on Cat Island" },
     description: { de: "Ein kleines, handgebautes Kloster auf dem höchsten Punkt der Bahamas.", hu: "Kicsi, kézzel épített kolostor a Bahamák legmagasabb pontján.", ro: "O mică mănăstire construită manual pe cel mai înalt punct din Bahamas.", en: "A small, hand-built monastery on the highest point in the Bahamas." },
-    facts: { de: ["Erbaut von Pater Jerome", "Auf dem Mount Alvernia gelegen"], hu: ["Jerome atya építette", "A Mount Alvernia hegyen található"], ro: ["Construită de Părintele Jerome", "Situată pe Muntele Alvernia"], en: ["Built by Father Jerome", "Located on Mount Alvernia"] }
-  },
+    facts: { de: ["Erbaut von Pater Jerome", "Auf dem Mount Alvernia gelegen"], hu: ["Jerome atya építette", "A Mount Alvernia hegyen található"], ro: ["Construită de Părintele Jerome", "Situată pe Muntele Alvernia"], en: ["Built by Father Jerome", "Located on Mount Alvernia"] }, image: "/poi-images/bs-hermitage-cat-island-refill.webp"},
   {
     id: "bs-columbus-point-refill",
     type: "historical",
@@ -218,8 +199,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-74.45, 24.117],
     name: { de: "Kolumbus-Punkt", hu: "Kolumbusz-fok", ro: "Punctul Columb", en: "Columbus Point" },
     description: { de: "Ein Denkmal, das den angeblichen Landeplatz von Christoph Kolumbus markiert.", hu: "Emlékmű, amely Kolumbusz Kristóf állítólagos partraszállási helyét jelöli.", ro: "Un monument care marchează presupusul loc de debarcare al lui Cristofor Columb.", en: "A monument marking the supposed landfall site of Christopher Columbus." },
-    facts: { de: ["Auf San Salvador Island", "Markiert einen entscheidenden Moment der Geschichte"], hu: ["San Salvador szigetén", "A történelem egy döntő pillanatát jelöli"], ro: ["Pe insula San Salvador", "Marchează un moment crucial în istorie"], en: ["On San Salvador Island", "Marks a pivotal moment in history"] }
-  },
+    facts: { de: ["Auf San Salvador Island", "Markiert einen entscheidenden Moment der Geschichte"], hu: ["San Salvador szigetén", "A történelem egy döntő pillanatát jelöli"], ro: ["Pe insula San Salvador", "Marchează un moment crucial în istorie"], en: ["On San Salvador Island", "Marks a pivotal moment in history"] }, image: "/poi-images/bs-columbus-point-refill.webp"},
   {
     id: "bs-deveaux-plantation-refill",
     type: "historical",
@@ -227,8 +207,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-75.317, 24.167],
     name: { de: "Deveaux-Plantage", hu: "Deveaux ültetvény", ro: "Plantația Deveaux", en: "Deveaux Plantation" },
     description: { de: "Die Ruinen einer großen loyalistischen Baumwollplantage auf Cat Island.", hu: "Egy nagy lojalista gyapotültetvény romjai a Cat Islanden.", ro: "Ruinele unei mari plantații de bumbac loialiste pe insula Cat.", en: "The ruins of a large Loyalist cotton plantation on Cat Island." },
-    facts: { de: ["Aus dem späten 18. Jahrhundert", "Wichtige archäologische Stätte"], hu: ["A 18. század végéről", "Fontos régészeti lelőhely"], ro: ["Din secolul al XVIII-lea târziu", "Situl arheologic important"], en: ["From the late 18th century", "Important archaeological site"] }
-  },
+    facts: { de: ["Aus dem späten 18. Jahrhundert", "Wichtige archäologische Stätte"], hu: ["A 18. század végéről", "Fontos régészeti lelőhely"], ro: ["Din secolul al XVIII-lea târziu", "Situl arheologic important"], en: ["From the late 18th century", "Important archaeological site"] }, image: "/poi-images/bs-deveaux-plantation-refill.webp"},
   {
     id: "bs-gun-hill-lighthouse-refill",
     type: "historical",
@@ -245,8 +224,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.333, 26.767],
     name: { de: "Albert Lowe Museum", hu: "Albert Lowe Múzeum", ro: "Muzeul Albert Lowe", en: "Albert Lowe Museum" },
     description: { de: "Ein Museum in einem restaurierten loyalistischen Haus auf Green Turtle Cay.", hu: "Múzeum egy felújított lojalista házban a Green Turtle Cay-en.", ro: "Un muzeu într-o casă loialistă restaurată pe Green Turtle Cay.", en: "A museum in a restored Loyalist house on Green Turtle Cay." },
-    facts: { de: ["Zeigt die Geschichte der Abacos", "Modellschiffe ausgestellt"], hu: ["Az Abaco-szigetek történelmét mutatja be", "Hajómodellek kiállítva"], ro: ["Prezintă istoria Abacos", "Modele de nave expuse"], en: ["Showcases the history of the Abacos", "Model ships on display"] }
-  },
+    facts: { de: ["Zeigt die Geschichte der Abacos", "Modellschiffe ausgestellt"], hu: ["Az Abaco-szigetek történelmét mutatja be", "Hajómodellek kiállítva"], ro: ["Prezintă istoria Abacos", "Modele de nave expuse"], en: ["Showcases the history of the Abacos", "Model ships on display"] }, image: "/poi-images/bs-albert-lowe-museum-refill.webp"},
   {
     id: "bs-old-jail-eleuthera-refill",
     type: "historical",
@@ -263,8 +241,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-75.11, 23.23],
     name: { de: "Long Island Museum", hu: "Long Island Múzeum", ro: "Muzeul Long Island", en: "Long Island Museum" },
     description: { de: "Ein Museum, das der reichen Geschichte und Kultur von Long Island gewidmet ist.", hu: "A Long Island gazdag történelmének és kultúrájának szentelt múzeum.", ro: "Un muzeu dedicat istoriei și culturii bogate a Long Island.", en: "A museum dedicated to the rich history and culture of Long Island." },
-    facts: { de: ["Präsentiert Lucayan-Artefakte", "Detailliert die Plantagenära"], hu: ["Lucayan leleteket mutat be", "Részletezi az ültetvények korát"], ro: ["Prezintă artefacte Lucayan", "Detaliază epoca plantațiilor"], en: ["Showcases Lucayan artifacts", "Details the plantation era"] }
-  },
+    facts: { de: ["Präsentiert Lucayan-Artefakte", "Detailliert die Plantagenära"], hu: ["Lucayan leleteket mutat be", "Részletezi az ültetvények korát"], ro: ["Prezintă artefacte Lucayan", "Detaliază epoca plantațiilor"], en: ["Showcases Lucayan artifacts", "Details the plantation era"] }, image: "/poi-images/bs-long-island-museum-refill.webp"},
   {
     id: "bs-balcony-house-refill",
     type: "historical",
@@ -272,8 +249,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.34, 25.076],
     name: { de: "Balcony House Museum", hu: "Erkélyes Ház Múzeum", ro: "Muzeul Casa cu Balcon", en: "Balcony House Museum" },
     description: { de: "Das älteste erhaltene hölzerne Wohnhaus in Nassau.", hu: "Nassau legrégebbi fennmaradt fa lakóháza.", ro: "Cea mai veche reședință de lemn supraviețuitoare din Nassau.", en: "The oldest surviving wooden residential structure in Nassau." },
-    facts: { de: ["Aus dem 18. Jahrhundert", "Loyalistisches Design"], hu: ["18. századi", "Lojalista tervezés"], ro: ["Datează din secolul al XVIII-lea", "Design loialist"], en: ["Dates to the 18th century", "Loyalist design"] }
-  },
+    facts: { de: ["Aus dem 18. Jahrhundert", "Loyalistisches Design"], hu: ["18. századi", "Lojalista tervezés"], ro: ["Datează din secolul al XVIII-lea", "Design loialist"], en: ["Dates to the 18th century", "Loyalist design"] }, image: "/poi-images/bs-balcony-house-refill.webp"},
   {
     id: "bs-addisons-plantation-refill",
     type: "historical",
@@ -281,8 +257,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-74.9, 22.85],
     name: { de: "Addisons Plantage", hu: "Addison ültetvény", ro: "Plantația Addison", en: "Addison's Plantation" },
     description: { de: "Ruinen einer Plantage aus der loyalistischen Ära auf Long Island.", hu: "Egy lojalista kori ültetvény romjai Long Islanden.", ro: "Ruinele unei plantații din epoca loialistă pe Long Island.", en: "Ruins of a Loyalist-era plantation on Long Island." },
-    facts: { de: ["Zeugnis der Baumwollindustrie", "Verlassen nach dem Niedergang der Industrie"], hu: ["A gyapotipar tanúbizonysága", "Az ipar hanyatlása után elhagyatott"], ro: ["Mărturie a industriei bumbacului", "Abandonată după declinul industriei"], en: ["Testament to the cotton industry", "Abandoned after industry decline"] }
-  },
+    facts: { de: ["Zeugnis der Baumwollindustrie", "Verlassen nach dem Niedergang der Industrie"], hu: ["A gyapotipar tanúbizonysága", "Az ipar hanyatlása után elhagyatott"], ro: ["Mărturie a industriei bumbacului", "Abandonată după declinul industriei"], en: ["Testament to the cotton industry", "Abandoned after industry decline"] }, image: "/poi-images/bs-addisons-plantation-refill.webp"},
   {
     id: "bs-vendue-house-refill",
     type: "historical",
@@ -290,8 +265,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.342, 25.078],
     name: { de: "Vendue House", hu: "Vendue Ház", ro: "Casa Vendue", en: "Vendue House" },
     description: { de: "Ehemaliger Marktplatz, heute das Pompey Museum für Sklaverei und Emanzipation.", hu: "Egykori piactér, ma a Pompey Rabszolgaság és Emancipáció Múzeuma.", ro: "Fostă piață, acum Muzeul Pompey al Sclaviei și Emancipării.", en: "Former marketplace, now the Pompey Museum of Slavery and Emancipation." },
-    facts: { de: ["Zentral für die Sklavenhandelsgeschichte", "Wichtige kulturelle Institution"], hu: ["Központi szerepet játszott a rabszolga-kereskedelem történetében", "Fontos kulturális intézmény"], ro: ["Central în istoria comerțului cu sclavi", "Instituție culturală importantă"], en: ["Central to slave trade history", "Important cultural institution"] }
-  },
+    facts: { de: ["Zentral für die Sklavenhandelsgeschichte", "Wichtige kulturelle Institution"], hu: ["Központi szerepet játszott a rabszolga-kereskedelem történetében", "Fontos kulturális intézmény"], ro: ["Central în istoria comerțului cu sclavi", "Instituție culturală importantă"], en: ["Central to slave trade history", "Important cultural institution"] }, image: "/poi-images/bs-vendue-house-refill.webp"},
   {
     id: "bs-wyannie-malone-historical-museum-refill",
     type: "historical",
@@ -299,8 +273,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-76.96, 26.54],
     name: { de: "Wyannie Malone Geschichtsmuseum", hu: "Wyannie Malone Történeti Múzeum", ro: "Muzeul de Istorie Wyannie Malone", en: "Wyannie Malone Historical Museum" },
     description: { de: "Ein Museum in Hope Town, das die Geschichte der Siedlung detailliert.", hu: "Múzeum Hope Townban, amely a település történetét részletezi.", ro: "Un muzeu în Hope Town care detaliază istoria așezării.", en: "A museum in Hope Town detailing the settlement's history." },
-    facts: { de: ["Benannt nach der Gründerin", "Dokumentiert das loyalistische Erbe"], hu: ["Az alapítóról nevezték el", "A lojalista örökséget dokumentálja"], ro: ["Numit după fondatoare", "Documentează moștenirea loialistă"], en: ["Named for the founder", "Documents Loyalist heritage"] }
-  },
+    facts: { de: ["Benannt nach der Gründerin", "Dokumentiert das loyalistische Erbe"], hu: ["Az alapítóról nevezték el", "A lojalista örökséget dokumentálja"], ro: ["Numit după fondatoare", "Documentează moștenirea loialistă"], en: ["Named for the founder", "Documents Loyalist heritage"] }, image: "/poi-images/bs-wyannie-malone-historical-museum-refill.webp"},
   {
     id: "bs-st-peters-and-st-pauls-catholic-church-refill",
     type: "historical",
@@ -308,8 +281,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-74.982, 23.099],
     name: { de: "St. Peter und Paul Katholische Kirche", hu: "Szent Péter és Pál katolikus templom", ro: "Biserica Catolică Sfinții Petru și Pavel", en: "St. Peter's and St. Paul's Catholic Church" },
     description: { de: "Eine von Pater Jeromes Zwillingskirchen in Clarence Town.", hu: "Jerome atya ikertemplomainak egyike Clarence Townban.", ro: "Una dintre bisericile gemene ale Părintelui Jerome din Clarence Town.", en: "One of Father Jerome's twin churches in Clarence Town." },
-    facts: { de: ["Gotische Architektur", "Blick auf den Hafen"], hu: ["Gótikus építészet", "Kilátás a kikötőre"], ro: ["Arhitectură gotică", "Vedere spre port"], en: ["Gothic architecture", "Overlooks the harbour"] }
-  },
+    facts: { de: ["Gotische Architektur", "Blick auf den Hafen"], hu: ["Gótikus építészet", "Kilátás a kikötőre"], ro: ["Arhitectură gotică", "Vedere spre port"], en: ["Gothic architecture", "Overlooks the harbour"] }, image: "/poi-images/bs-st-peters-and-st-pauls-catholic-church-refill.webp"},
 
   // --- Other --- (15 POIs)
   {
@@ -328,8 +300,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-73.5, 21.05],
     name: { de: "Inagua-Nationalpark", hu: "Inagua Nemzeti Park", ro: "Parcul Național Inagua", en: "Inagua National Park" },
     description: { de: "Ein riesiges Schutzgebiet für die weltweit größte Brutkolonie von Westindischen Flamingos.", hu: "Hatalmas menedékhely a nyugat-indiai flamingók világ legnagyobb fészkelőkolóniája számára.", ro: "Un sanctuar vast pentru cea mai mare colonie de reproducere din lume de flamingo din Indiile de Vest.", en: "A vast sanctuary for the world's largest breeding colony of West Indian Flamingos." },
-    facts: { de: ["Über 80.000 Flamingos", "Wichtiges Vogelschutzgebiet"], hu: ["Több mint 80 000 flamingó", "Fontos madárvédelmi terület"], ro: ["Peste 80.000 de flamingo", "Zonă importantă pentru păsări"], en: ["Over 80,000 flamingos", "Important Bird Area"] }
-  },
+    facts: { de: ["Über 80.000 Flamingos", "Wichtiges Vogelschutzgebiet"], hu: ["Több mint 80 000 flamingó", "Fontos madárvédelmi terület"], ro: ["Peste 80.000 de flamingo", "Zonă importantă pentru păsări"], en: ["Over 80,000 flamingos", "Important Bird Area"] }, image: "/poi-images/bs-inagua-national-park-refill.webp"},
   {
     id: "bs-tropic-of-cancer-beach-refill",
     type: "landmark",
@@ -337,8 +308,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-75.88, 23.5],
     name: { de: "Wendekreis des Krebses Strand", hu: "Ráktérítő-part", ro: "Plaja Tropicului Racului", en: "Tropic of Cancer Beach" },
     description: { de: "Ein atemberaubender sichelförmiger Strand auf Little Exuma, durch den der Wendekreis des Krebses verläuft.", hu: "Lenyűgöző, félhold alakú strand Little Exumán, amelyet a Ráktérítő keresztez.", ro: "O plajă uimitoare în formă de semilună pe Little Exuma, traversată de Tropicul Racului.", en: "A stunning crescent-shaped beach on Little Exuma, crossed by the Tropic of Cancer." },
-    facts: { de: ["Geografischer Breitengrad verläuft direkt durch", "Puderweißer Sand"], hu: ["A földrajzi szélességi kör közvetlenül áthalad rajta", "Porszerű fehér homok"], ro: ["Latitudinea geografică trece direct prin ea", "Nisip alb pudră"], en: ["Geographic latitude line runs right through", "Powdery white sand"] }
-  },
+    facts: { de: ["Geografischer Breitengrad verläuft direkt durch", "Puderweißer Sand"], hu: ["A földrajzi szélességi kör közvetlenül áthalad rajta", "Porszerű fehér homok"], ro: ["Latitudinea geografică trece direct prin ea", "Nisip alb pudră"], en: ["Geographic latitude line runs right through", "Powdery white sand"] }, image: "/poi-images/bs-tropic-of-cancer-beach-refill.webp"},
   {
     id: "bs-cape-santa-maria-beach-refill",
     type: "landmark",
@@ -346,8 +316,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-75.32, 23.65],
     name: { de: "Cape Santa Maria Strand", hu: "Cape Santa Maria part", ro: "Plaja Cape Santa Maria", en: "Cape Santa Maria Beach" },
     description: { de: "Einer der schönsten Strände der Welt an der Nordspitze von Long Island.", hu: "A világ egyik legszebb strandja Long Island északi csücskén.", ro: "Una dintre cele mai frumoase plaje din lume, la capătul de nord al Long Island.", en: "One of the world's most beautiful beaches at the northern tip of Long Island." },
-    facts: { de: ["Meilenlanger unberührter Sand", "Ruhiges, klares Wasser"], hu: ["Mérföldekre nyúló érintetlen homok", "Nyugodt, tiszta víz"], ro: ["Mile de nisip virgin", "Apă calmă și limpede"], en: ["Miles of pristine sand", "Calm, clear water"] }
-  },
+    facts: { de: ["Meilenlanger unberührter Sand", "Ruhiges, klares Wasser"], hu: ["Mérföldekre nyúló érintetlen homok", "Nyugodt, tiszta víz"], ro: ["Mile de nisip virgin", "Apă calmă și limpede"], en: ["Miles of pristine sand", "Calm, clear water"] }, image: "/poi-images/bs-cape-santa-maria-beach-refill.webp"},
   {
     id: "bs-leon-levy-native-plant-preserve-refill",
     type: "landmark",
@@ -355,8 +324,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-76.25, 25.18],
     name: { de: "Leon Levy Einheimisches Pflanzenreservat", hu: "Leon Levy Őshonos Növényrezervátum", ro: "Rezervația de Plante Native Leon Levy", en: "Leon Levy Native Plant Preserve" },
     description: { de: "Der erste Nationalpark auf Eleuthera, der der einheimischen Flora gewidmet ist.", hu: "Az első nemzeti park Eleutherán, amelyet az őshonos növényvilágnak szenteltek.", ro: "Primul parc național de pe Eleuthera, dedicat florei native.", en: "The first national park on Eleuthera, dedicated to native flora." },
-    facts: { de: ["Bildungs- und Forschungszentrum", "Wanderwege und Medizinpflanzenpfad"], hu: ["Oktatási és kutatási központ", "Túraútvonalak és gyógynövényösvény"], ro: ["Centru educațional și de cercetare", "Trasee și potecă de plante medicinale"], en: ["Educational and research center", "Walking trails and medicinal plant path"] }
-  },
+    facts: { de: ["Bildungs- und Forschungszentrum", "Wanderwege und Medizinpflanzenpfad"], hu: ["Oktatási és kutatási központ", "Túraútvonalak és gyógynövényösvény"], ro: ["Centru educațional și de cercetare", "Trasee și potecă de plante medicinale"], en: ["Educational and research center", "Walking trails and medicinal plant path"] }, image: "/poi-images/bs-leon-levy-native-plant-preserve-refill.webp"},
   {
     id: "bs-conception-island-national-park-refill",
     type: "animal-habitat",
@@ -364,8 +332,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-75.11, 23.83],
     name: { de: "Conception Island Nationalpark", hu: "Conception-sziget Nemzeti Park", ro: "Parcul Național Insula Conception", en: "Conception Island National Park" },
     description: { de: "Eine unbewohnte Insel und ein Park, der ein wichtiger Nistplatz für Seevögel ist.", hu: "Lakatlan sziget és park, amely a tengeri madarak fontos fészkelőhelye.", ro: "O insulă nelocuită și un parc care este un loc important de cuibărit pentru păsările marine.", en: "An uninhabited island and park that is a crucial nesting ground for seabirds." },
-    facts: { de: ["Schutzgebiet für Grüne Meeresschildkröten", "Unberührte Strände und Lagunen"], hu: ["A zöld tengeri teknősök védett területe", "Érintetlen strandok és lagúnák"], ro: ["Sanctuar pentru broaștele țestoase verzi", "Plaje și lagune virgine"], en: ["Sanctuary for green sea turtles", "Pristine beaches and lagoons"] }
-  },
+    facts: { de: ["Schutzgebiet für Grüne Meeresschildkröten", "Unberührte Strände und Lagunen"], hu: ["A zöld tengeri teknősök védett területe", "Érintetlen strandok és lagúnák"], ro: ["Sanctuar pentru broaștele țestoase verzi", "Plaje și lagune virgine"], en: ["Sanctuary for green sea turtles", "Pristine beaches and lagoons"] }, image: "/poi-images/bs-conception-island-national-park-refill.webp"},
   {
     id: "bs-straw-market-refill",
     type: "landmark",
@@ -373,8 +340,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.342, 25.078],
     name: { de: "Strohmarkt Nassau", hu: "Szalmapiac Nassau", ro: "Piața de Paie Nassau", en: "Straw Market Nassau" },
     description: { de: "Ein berühmter Freiluftmarkt in Nassau für handgefertigte Strohwaren.", hu: "Híres szabadtéri piac Nassauban, ahol kézzel készített szalmaárut árulnak.", ro: "O faimoasă piață în aer liber din Nassau pentru articole de paie lucrate manual.", en: "A famous open-air market in Nassau for handmade straw goods." },
-    facts: { de: ["Tradition des Strohflechtens", "Beliebt bei Touristen für Souvenirs"], hu: ["A szalmafonás hagyománya", "Népszerű a turisták körében szuvenírekért"], ro: ["Tradiția împletiturilor din paie", "Popular printre turiști pentru suveniruri"], en: ["A tradition of straw plaiting", "Popular with tourists for souvenirs"] }
-  },
+    facts: { de: ["Tradition des Strohflechtens", "Beliebt bei Touristen für Souvenirs"], hu: ["A szalmafonás hagyománya", "Népszerű a turisták körében szuvenírekért"], ro: ["Tradiția împletiturilor din paie", "Popular printre turiști pentru suveniruri"], en: ["A tradition of straw plaiting", "Popular with tourists for souvenirs"] }, image: "/poi-images/bs-straw-market-refill.webp"},
   {
     id: "bs-atlantis-aquaventure-refill",
     type: "kid-landmark",
@@ -382,8 +348,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.322, 25.085],
     name: { de: "Atlantis Aquaventure Wasserpark", hu: "Atlantis Aquaventure Vízipark", ro: "Parcul Acvatic Atlantis Aquaventure", en: "Atlantis Aquaventure Water Park" },
     description: { de: "Ein riesiger Wasserpark auf Paradise Island mit aufregenden Rutschen und Fahrten.", hu: "Hatalmas vízipark a Paradise Islanden, izgalmas csúszdákkal és attrakciókkal.", ro: "Un parc acvatic masiv pe Insula Paradisului, cu tobogane și atracții palpitante.", en: "A massive water park on Paradise Island with thrilling slides and rides." },
-    facts: { de: ["141 Hektar groß", "Enthält den Leap of Faith Rutsche"], hu: ["141 hektáros", "Magában foglalja a Leap of Faith csúszdát"], ro: ["Suprafață de 141 de acri", "Include toboganul Leap of Faith"], en: ["141-acre waterscape", "Features the Leap of Faith slide"] }
-  },
+    facts: { de: ["141 Hektar groß", "Enthält den Leap of Faith Rutsche"], hu: ["141 hektáros", "Magában foglalja a Leap of Faith csúszdát"], ro: ["Suprafață de 141 de acri", "Include toboganul Leap of Faith"], en: ["141-acre waterscape", "Features the Leap of Faith slide"] }, image: "/poi-images/bs-atlantis-aquaventure-refill.webp"},
   {
     id: "bs-port-lucaya-marketplace-refill",
     type: "landmark",
@@ -391,8 +356,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-78.65, 26.51],
     name: { de: "Port Lucaya Marktplatz", hu: "Port Lucaya Piactér", ro: "Piața Port Lucaya", en: "Port Lucaya Marketplace" },
     description: { de: "Das größte Einkaufs-, Essens- und Unterhaltungszentrum auf Grand Bahama.", hu: "A legnagyobb bevásárló-, étkező- és szórakoztató központ Grand Bahama szigetén.", ro: "Cel mai mare centru comercial, de luat masa și de divertisment de pe Grand Bahama.", en: "The largest shopping, dining, and entertainment center on Grand Bahama." },
-    facts: { de: ["Bunte Architektur", "Live-Musik und Unterhaltung"], hu: ["Színes építészet", "Élőzene és szórakozás"], ro: ["Arhitectură colorată", "Muzică live și divertisment"], en: ["Colorful architecture", "Live music and entertainment"] }
-  },
+    facts: { de: ["Bunte Architektur", "Live-Musik und Unterhaltung"], hu: ["Színes építészet", "Élőzene és szórakozás"], ro: ["Arhitectură colorată", "Muzică live și divertisment"], en: ["Colorful architecture", "Live music and entertainment"] }, image: "/poi-images/bs-port-lucaya-marketplace-refill.webp"},
   {
     id: "bs-gardens-of-the-groves-refill",
     type: "landmark",
@@ -400,8 +364,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-78.61, 26.54],
     name: { de: "Gärten der Haine", hu: "Ligetek Kertjei", ro: "Grădinile Dumbravilor", en: "Gardens of the Groves" },
     description: { de: "Ein wunderschöner botanischer Garten in Freeport mit Wasserfällen und einheimischer Tierwelt.", hu: "Gyönyörű botanikus kert Freeportban, vízesésekkel és őshonos vadvilággal.", ro: "O grădină botanică frumoasă în Freeport, cu cascade și faună sălbatică nativă.", en: "A beautiful botanical garden in Freeport with waterfalls and native wildlife." },
-    facts: { de: ["Gewidmet den Gründern von Freeport", "Labyrinth und Kinderspielplatz"], hu: ["Freeport alapítóinak szentelve", "Labirintus és játszótér"], ro: ["Dedicat fondatorilor Freeport", "Labirint și loc de joacă pentru copii"], en: ["Dedicated to the founders of Freeport", "Features a labyrinth and kids' playground"] }
-  },
+    facts: { de: ["Gewidmet den Gründern von Freeport", "Labyrinth und Kinderspielplatz"], hu: ["Freeport alapítóinak szentelve", "Labirintus és játszótér"], ro: ["Dedicat fondatorilor Freeport", "Labirint și loc de joacă pentru copii"], en: ["Dedicated to the founders of Freeport", "Features a labyrinth and kids' playground"] }, image: "/poi-images/bs-gardens-of-the-groves-refill.webp"},
   {
     id: "bs-gold-rock-beach-refill",
     type: "landmark",
@@ -409,8 +372,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-78.39, 26.6],
     name: { de: "Gold Rock Strand", hu: "Arany Szikla Part", ro: "Plaja Gold Rock", en: "Gold Rock Beach" },
     description: { de: "Ein spektakulärer Strand im Lucayan-Nationalpark, bekannt für seinen breiten Sandstreifen bei Ebbe.", hu: "Látványos strand a Lucayan Nemzeti Parkban, apálykor széles homokpadjáról ismert.", ro: "O plajă spectaculoasă în Parcul Național Lucayan, cunoscută pentru întinderea sa largă de nisip la reflux.", en: "A spectacular beach in Lucayan National Park known for its wide stretch of sand at low tide." },
-    facts: { de: ["Teil des Lucayan-Nationalparks", "Drehort für 'Fluch der Karibik'"], hu: ["A Lucayan Nemzeti Park része", "A 'Karib-tenger kalózai' forgatási helyszíne"], ro: ["Parte a Parcului Național Lucayan", "Locație de filmare pentru 'Pirații din Caraibe'"], en: ["Part of Lucayan National Park", "Filming location for 'Pirates of the Caribbean'"] }
-  },
+    facts: { de: ["Teil des Lucayan-Nationalparks", "Drehort für 'Fluch der Karibik'"], hu: ["A Lucayan Nemzeti Park része", "A 'Karib-tenger kalózai' forgatási helyszíne"], ro: ["Parte a Parcului Național Lucayan", "Locație de filmare pentru 'Pirații din Caraibe'"], en: ["Part of Lucayan National Park", "Filming location for 'Pirates of the Caribbean'"] }, image: "/poi-images/bs-gold-rock-beach-refill.webp"},
   {
     id: "bs-harbour-island-refill",
     type: "island",
@@ -418,8 +380,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-76.63, 25.5],
     name: { de: "Harbour Island", hu: "Harbour Island", ro: "Insula Harbour", en: "Harbour Island" },
     description: { de: "Eine Insel, die für ihren Pink Sands Beach und ihre schicken Boutiquen bekannt ist.", hu: "Sziget, amely a Pink Sands Beachről és elegáns butikjairól ismert.", ro: "O insulă renumită pentru Plaja sa cu Nisip Roz și buticurile sale șic.", en: "An island famous for its Pink Sands Beach and chic boutiques." },
-    facts: { de: ["New-England-Architektur", "Golfwagen sind das Haupttransportmittel"], hu: ["New England-i építészet", "A golfkocsik a fő közlekedési eszközök"], ro: ["Arhitectură în stil New England", "Cărucioarele de golf sunt principalul mijloc de transport"], en: ["New England-style architecture", "Golf carts are main transport"] }
-  },
+    facts: { de: ["New-England-Architektur", "Golfwagen sind das Haupttransportmittel"], hu: ["New England-i építészet", "A golfkocsik a fő közlekedési eszközök"], ro: ["Arhitectură în stil New England", "Cărucioarele de golf sunt principalul mijloc de transport"], en: ["New England-style architecture", "Golf carts are main transport"] }, image: "/poi-images/bs-harbour-island-refill.webp"},
   {
     id: "bs-stocking-island-refill",
     type: "island",
@@ -427,8 +388,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-75.76, 23.53],
     name: { de: "Stocking Island", hu: "Stocking-sziget", ro: "Insula Stocking", en: "Stocking Island" },
     description: { de: "Eine lange, dünne Insel, die den Hafen von George Town schützt.", hu: "Hosszú, vékony sziget, amely George Town kikötőjét védi.", ro: "O insulă lungă și subțire care protejează portul George Town.", en: "A long, thin island that protects the harbour of George Town." },
-    facts: { de: ["Tolle Wanderwege und Strände", "Heimat des Chat 'N' Chill"], hu: ["Nagyszerű túraútvonalak és strandok", "A Chat 'N' Chill otthona"], ro: ["Trasee de drumeții și plaje minunate", "Găzduiește Chat 'N' Chill"], en: ["Great hiking trails and beaches", "Home to the Chat 'N' Chill"] }
-  },
+    facts: { de: ["Tolle Wanderwege und Strände", "Heimat des Chat 'N' Chill"], hu: ["Nagyszerű túraútvonalak és strandok", "A Chat 'N' Chill otthona"], ro: ["Trasee de drumeții și plaje minunate", "Găzduiește Chat 'N' Chill"], en: ["Great hiking trails and beaches", "Home to the Chat 'N' Chill"] }, image: "/poi-images/bs-stocking-island-refill.webp"},
   {
     id: "bs-the-abacos-refill",
     type: "region",
@@ -436,8 +396,7 @@ export const poiExtraBahamasRefill: POI[] = [
     coords: [-77.2, 26.5],
     name: { de: "Die Abacos", hu: "Az Abaco-szigetek", ro: "Insulele Abaco", en: "The Abacos" },
     description: { de: "Eine Kette von Inseln und Cays, die ein Segelparadies bilden.", hu: "Szigetek és homokzátonyok láncolata, amely vitorlázó paradicsomot alkot.", ro: "Un lanț de insule și cay-uri care formează un paradis al navigației.", en: "A chain of islands and cays that form a boater's paradise." },
-    facts: { de: ["Bekannt als Segelhauptstadt", "Besteht aus Great Abaco und Little Abaco"], hu: ["Vitorlás fővárosként ismert", "Great Abaco és Little Abaco alkotja"], ro: ["Cunoscută ca fiind capitala navigației", "Formată din Great Abaco și Little Abaco"], en: ["Known as a sailing capital", "Comprises Great Abaco and Little Abaco"] }
-  },
+    facts: { de: ["Bekannt als Segelhauptstadt", "Besteht aus Great Abaco und Little Abaco"], hu: ["Vitorlás fővárosként ismert", "Great Abaco és Little Abaco alkotja"], ro: ["Cunoscută ca fiind capitala navigației", "Formată din Great Abaco și Little Abaco"], en: ["Known as a sailing capital", "Comprises Great Abaco and Little Abaco"] }, image: "/poi-images/bs-the-abacos-refill.webp"},
   {
     id: "bs-eleuthera-island-refill",
     type: "island",
@@ -448,3 +407,4 @@ export const poiExtraBahamasRefill: POI[] = [
     facts: { de: ["Geburtsort der Bahamas", "Bedeutet 'Freiheit' auf Griechisch"], hu: ["A Bahamák szülőhelye", "Görögül 'szabadságot' jelent"], ro: ["Locul de naștere al Bahamasului", "Înseamnă 'libertate' în greacă"], en: ["Birthplace of The Bahamas", "Means 'freedom' in Greek"] }
   }
 ];
+

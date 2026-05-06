@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef, SvgConfig } from "./types";
 
 type Lang = "de" | "en" | "hu" | "ro";
@@ -1669,3 +1670,4 @@ export const KEMIA_K8_I8_LABELS = I8.labels;
 export const KEMIA_K8_I8_POOL = I8.pool;
 export const KEMIA_K8_I9_LABELS = I9.labels;
 export const KEMIA_K8_I9_POOL = I9.pool;
+

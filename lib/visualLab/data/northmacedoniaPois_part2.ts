@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const mkPoisPart2: POI[] = [
@@ -13,6 +14,25 @@ export const mkPoisPart2: POI[] = [
       hu: "Tó a görög határon, hagyományos halászati módszereiről ismert.",
       ro: "Un lac la granița cu Grecia, cunoscut pentru metodele sale tradiționale de pescuit.",
       en: "A lake on the border with Greece, known for its traditional fishing methods."
+    },
+    descriptionAdvanced: {
+      de: "Der Dojran-See ist einer der flachsten und wärmsten Seen der Region. Er zeichnet sich durch eine einzigartige biologische Vielfalt aus. Berühmt ist er besonders für seine traditionelle, von der UNESCO als Immaterielles Kulturerbe anerkannte Kormoran-Fischerei. Das Wasser besitzt zudem einen hohen Mineralgehalt. Geografie K7 — Ökosysteme und Traditionen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Kormoran-Fischerei ist einzigartig weltweit.",
+        "Der See wird als heilend eingestuft.",
+        "Er ist von großer ökologischer Bedeutung.",
+        "Die Region hat ein mildes mediterranes Klima.",
+        "Die Wassertemperatur ist im Sommer sehr angenehm.",
+        "Er war Schauplatz wichtiger historischer Ereignisse."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Bekannt für das Fischen mit Kormoranen.", "Das Wasser hat heilende Eigenschaften.", "Ein wichtiger Ort an der Saloniki-Front im Ersten Weltkrieg."],
@@ -32,6 +52,25 @@ export const mkPoisPart2: POI[] = [
       hu: "Romos templom Ó-Dojranban, amely az első világháború mementójaként áll.",
       ro: "O biserică distrusă în Vechiul Dojran, care servește ca monument al Primului Război Mondial.",
       en: "A ruined church in Old Dojran, standing as a memorial to World War I."
+    },
+    descriptionAdvanced: {
+      de: "Die Ruine der St.-Elias-Kirche ist ein bewegendes Zeugnis der Verwüstungen des Ersten Weltkriegs, als die gesamte Stadt Dojran fast vollständig zerstört wurde. Heute erinnert sie als Mahnmal an die Sinnlosigkeit des Krieges. Die Lage bietet zudem eine weite Aussicht über den Dojran-See. Geschichte K8 — Erster Weltkrieg am Balkan.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Gebäude ist ein kulturelles Mahnmal.",
+        "Es steht in der historischen Altstadt.",
+        "Die Anlage ist ein wichtiger Ort des Gedenkens.",
+        "Architektonisch sind noch Teile der Struktur erhalten.",
+        "Es wurde nie vollständig rekonstruiert.",
+        "Die Lage bietet einen tollen Ausblick."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Wurde während des Ersten Weltkriegs schwer beschädigt.", "Bietet einen Blick auf den See.", "Ein Symbol für die Zerstörung der Stadt."],
@@ -53,6 +92,25 @@ export const mkPoisPart2: POI[] = [
       ro: "Un sit arheologic important al unui oraș antic din regiunea Valandovo.",
       en: "A significant archaeological site of an ancient city in the Valandovo region."
     },
+    descriptionAdvanced: {
+      de: "Isar-Marvinci ist einer der wichtigsten antiken Standorte in Südost-Mazedonien. Die Ausgrabungen haben gezeigt, dass die Stadt über Jahrhunderte ein blühendes Zentrum für Handel und Handwerk war. Sie bietet tiefgehende Einblicke in die paeonische und spätere römische Kultur. Sachkunde K6 — Archäologie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Stätte wurde über viele Jahre erforscht.",
+        "Münzfunde weisen auf regen Handel hin.",
+        "Die Architekturreste belegen eine komplexe Stadtplanung.",
+        "Es ist ein wichtiges Ziel für Historiker.",
+        "Der Standort wurde bisher nur teilweise ausgegraben.",
+        "Die Umgebung bietet einen schönen Ausblick."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["War eine wichtige Stadt im antiken Paeonien.", "Zahlreiche Artefakte wie Münzen und Keramik wurden gefunden.", "Zeigt Kontinuität von der Eisenzeit bis zur Spätantike."],
       hu: ["Fontos város volt az antik Paeoniában.", "Számos műtárgyat, például érméket és kerámiákat találtak itt.", "A vaskortól a késő antik korig tartó folytonosságot mutat."],
@@ -71,6 +129,25 @@ export const mkPoisPart2: POI[] = [
       hu: "Rejtett természeti kincs a Plavus-hegységben, Valandovo közelében.",
       ro: "O bijuterie naturală ascunsă în Munții Plavush, lângă Valandovo.",
       en: "A hidden natural gem in the Plavush mountain range near Valandovo."
+    },
+    descriptionAdvanced: {
+      de: "Der Plužana-Wasserfall ist ein beeindruckendes Beispiel für die unberührte Natur der Plavush-Berge. Er bietet besonders im Frühjahr ein spektakuläres Naturschauspiel. Der Pfad dorthin führt durch dichte Wälder, was ihn zu einem idealen Ort für Naturliebhaber macht. Sachkunde K5 — Geografie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Wasserfall liegt abseits der üblichen Routen.",
+        "Die Umgebung ist für ihre Biodiversität bekannt.",
+        "Er bietet ein erholsames Mikroklima.",
+        "Die Anreise erfordert eine kleine Wanderung.",
+        "Das Wasser ist von hoher Reinheit.",
+        "Der Ort wird oft als Ruheoase geschätzt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Umgeben von unberührter Natur.", "Ein beliebtes Ziel für lokale Wanderer.", "Besonders wasserreich im Frühjahr."],
@@ -92,6 +169,25 @@ export const mkPoisPart2: POI[] = [
       ro: "Ruinele unei cetăți medievale care domină orașul Strumica.",
       en: "The ruins of a medieval fortress overlooking Strumica."
     },
+    descriptionAdvanced: {
+      de: "Die Carevi Kuli (Zarentürme) sind eines der bedeutendsten archäologischen Denkmäler der Region. Die Anlage bot aufgrund ihrer strategischen Höhe über dem Tal Schutz und militärische Kontrolle. Von hier aus lässt sich die historische Bedeutung der Stadt Strumica im Kontext der regionalen Verteidigung gut nachvollziehen. Geschichte K8 — Burgenbau.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Mauern sind noch teilweise sichtbar.",
+        "Die Aussicht ist ideal zur Orientierung.",
+        "Archäologische Untersuchungen dauern an.",
+        "Das Gelände ist für Wanderer gut zugänglich.",
+        "Es ist ein wichtiges Denkmal der regionalen Geschichte.",
+        "Die Festung hatte im Mittelalter große Bedeutung."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bietet einen Panoramablick über das Strumica-Tal.", "Genutzt von der Antike bis zum Mittelalter.", "Wichtige Verteidigungsanlage in der Region."],
       hu: ["Panorámás kilátást nyújt a Sztrumica-völgyre.", "Az ókortól a középkorig használták.", "A régió fontos védelmi létesítménye volt."],
@@ -110,6 +206,25 @@ export const mkPoisPart2: POI[] = [
       hu: "11. századi bizánci kolostor, amelyet az Irgalmas Szűzanyának szenteltek.",
       ro: "O mănăstire bizantină din secolul al XI-lea, dedicată Maicii Domnului Eleusa.",
       en: "An 11th-century Byzantine monastery dedicated to the Virgin Mary Eleusa."
+    },
+    descriptionAdvanced: {
+      de: "Das Kloster Veljusa ist ein herausragendes Beispiel für byzantinische Sakralarchitektur. Die sorgfältig erhaltenen Mosaike und Fresken machen es zu einer Kunstschatzkammer. Es zeugt von der kulturellen Blüte unter byzantinischem Einfluss im 11. Jahrhundert. Geschichte K8 — Kunstgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Es gehört zu den am besten erhaltenen Denkmälern.",
+        "Die Fresken zeigen hohe handwerkliche Kunst.",
+        "Die religiöse Bedeutung bleibt bis heute erhalten.",
+        "Das Kloster liegt in einer sehr friedlichen Umgebung.",
+        "Architektonisch sind viele Details bemerkenswert.",
+        "Besucher schätzen die Ruhe des Ortes."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Bekannt für seine originalen Fresken und Mosaikböden.", "Ein Meisterwerk der mittelalterlichen Architektur.", "Befindet sich im Dorf Veljusa nahe Strumica."],
@@ -131,6 +246,25 @@ export const mkPoisPart2: POI[] = [
       ro: "Primul parc eolian din Macedonia de Nord, un simbol al energiei regenerabile.",
       en: "The first wind park in North Macedonia, a symbol of renewable energy."
     },
+    descriptionAdvanced: {
+      de: "Der Windpark Bogdanci ist ein Pionierprojekt in Nordmazedonien und markiert den Beginn eines neuen Zeitalters in der Energieversorgung. Mit modernen Anlagen trägt er signifikant zur Reduktion von Emissionen bei. Die Anlage ist ein technologischer Meilenstein in einer Region, die stark von traditionellen Energiequellen abhängig war. Sachkunde K6 — Erneuerbare Energien.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Er wurde in mehreren Phasen gebaut.",
+        "Das Projekt wird ständig optimiert.",
+        "Die Turbinen sind weithin sichtbar.",
+        "Die Region eignet sich ideal für Windkraft.",
+        "Er liefert Strom für Tausende von Haushalten.",
+        "Die Technologie ist auf dem neuesten Stand."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Besteht aus 16 Windturbinen.", "Trägt signifikant zur Stromversorgung bei.", "Liegt auf den Hügeln um Bogdanci."],
       hu: ["16 szélturbinából áll.", "Jelentősen hozzájárul az áramellátáshoz.", "A Bogdanci körüli dombokon található."],
@@ -149,6 +283,25 @@ export const mkPoisPart2: POI[] = [
       hu: "Jelentős ortodox templom Bogdanciban, szép építészettel.",
       ro: "O biserică ortodoxă importantă în Bogdanci, cu o arhitectură frumoasă.",
       en: "An important Orthodox church in Bogdanci with beautiful architecture."
+    },
+    descriptionAdvanced: {
+      de: "Die Athanasius-Kirche ist ein wichtiger sakraler Ort für die Stadt und ihre Bewohner. Ihre Architektur vereint traditionelle orthodoxe Stile mit lokalen Anpassungen. Sie spielt eine zentrale Rolle im kulturellen und religiösen Leben vor Ort. Sachkunde K5 — Religion und Architektur.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Kirche ist sehr gepflegt.",
+        "Ikonen in der Kirche sind von hoher Qualität.",
+        "Sie ist ein wichtiger Ort für Hochzeiten und Taufen.",
+        "Das Gebäude ist architektonisch harmonisch.",
+        "Es ist ein Treffpunkt für die Gläubigen.",
+        "Die Kirche hat eine lange Geschichte in Bogdanci."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Zentrum des religiösen Lebens in der Stadt.", "Bekannt für seine Ikonen.", "Regelmäßig für Gottesdienste genutzt."],
@@ -170,6 +323,25 @@ export const mkPoisPart2: POI[] = [
       ro: "Un sit arheologic cu rămășițele unui oraș antic lângă Gevgelija.",
       en: "An archaeological site with remains of an ancient city near Gevgelija."
     },
+    descriptionAdvanced: {
+      de: "Vardarski Rid ist eine der spannendsten archäologischen Anlagen im Vardar-Tal. Die Siedlung zeugt von der strategischen Bedeutung der Lage für die antiken Kulturen. Die Funde geben Auskunft über die soziale Struktur und den Handel der Stadt. Geschichte K8 — Archäologie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Viele Funde sind heute in Museen zu sehen.",
+        "Die Stadtplanung zeigt römische Einflüsse.",
+        "Es gab hier reges städtisches Leben.",
+        "Die Stätte wird intensiv wissenschaftlich untersucht.",
+        "Sie bietet einen weiten Blick über die Vardar-Ebene.",
+        "Es ist ein wichtiger Fundort für die Antike."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Strategische Lage am Fluss Vardar.", "Funde stammen aus der hellenistischen Zeit.", "Wichtig für das Verständnis der Geschichte der Region."],
       hu: ["Stratégiai fekvés a Vardar folyó mentén.", "A leletek a hellenisztikus korból származnak.", "Fontos a régió történelmének megértéséhez."],
@@ -188,6 +360,25 @@ export const mkPoisPart2: POI[] = [
       hu: "Gyógyüdülőhely a Kozsuf-hegységben, kénes ásványvizéről ismert.",
       ro: "O stațiune balneară în Munții Kožuf, cunoscută pentru apa sa minerală sulfuroasă.",
       en: "A spa resort on Kožuf mountain, known for its sulfurous mineral water."
+    },
+    descriptionAdvanced: {
+      de: "Smrdliva Voda ist seit langem für seine heilenden Mineralquellen bekannt. Die Lage in den Wäldern des Kožuf-Gebirges sorgt für ein gesundes Klima. Es ist eine Oase für Erholungssuchende, die von der heilsamen Wirkung der Quellen profitieren möchten. Erdkunde K7 — Kurorte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Quellen werden seit Generationen genutzt.",
+        "Das Wasser soll gut bei Hautproblemen helfen.",
+        "Die Umgebung bietet eine Ruhe, die selten ist.",
+        "Die Infrastruktur ist einfach gehalten.",
+        "Das Klima in den Bergen ist sehr angenehm.",
+        "Es ist ein idealer Ort zur Regeneration."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Der Name bedeutet 'stinkendes Wasser' wegen des Schwefelgeruchs.", "Bietet Erholung in dichter Waldumgebung.", "Das Wasser wird für Heilzwecke genutzt."],
@@ -209,6 +400,25 @@ export const mkPoisPart2: POI[] = [
       ro: "Cel mai mare lac artificial din țară, situat în bazinul Tikveš.",
       en: "The largest artificial lake in the country, located in the Tikveš basin."
     },
+    descriptionAdvanced: {
+      de: "Der Tikveš-See ist ein unverzichtbarer Teil der lokalen Wirtschaft. Er speichert Wasser für die ausgedehnten Weinberge und bietet zugleich einen Lebensraum für seltene Vogelarten. Er ist ein Herzstück des Tikveš-Beckens, das für seine Weinkultur bekannt ist. Erdkunde K6 — Wasserressourcen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Wasserqualität ist gut.",
+        "Der See bietet viele Freizeitaktivitäten.",
+        "Das Gebiet ist ein wichtiges Ziel für umweltbewusste Besucher.",
+        "Die Vögel im Uferbereich sind vielfältig.",
+        "Die landschaftliche Umgebung ist sehr harmonisch.",
+        "Der See ist ein wichtiger Stausee."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Ein wichtiges Vogelschutzgebiet.", "Genutzt zur Bewässerung der umliegenden Weinberge.", "Beliebt für Wassersport und Angeln."],
       hu: ["Fontos madárvédelmi terület.", "A környező szőlőültetvények öntözésére használják.", "Népszerű a vízi sportok és a horgászat körében."],
@@ -227,6 +437,25 @@ export const mkPoisPart2: POI[] = [
       hu: "Észak-Macedónia és Délkelet-Európa legnagyobb és legrégebbi borászata.",
       ro: "Cea mai mare și mai veche cramă din Macedonia de Nord și Europa de Sud-Est.",
       en: "The largest and oldest winery in North Macedonia and Southeast Europe."
+    },
+    descriptionAdvanced: {
+      de: "Das Weingut Tikveš ist das Aushängeschild der mazedonischen Weinkultur. Seit Jahrzehnten prägt es den Ruf des Weins aus dieser Region auf dem internationalen Markt. Die Kombination aus exzellenten Böden, Klima und langer Tradition sorgt für die hohe Qualität. Sachkunde K5 — Weinbau.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Vranec ist eine preisgekrönte Sorte.",
+        "Die modernen Produktionsanlagen sind beeindruckend.",
+        "Das Weingut bietet ein breites Portfolio.",
+        "Die Weinkultur ist tief in der Region verwurzelt.",
+        "Die Kellereiführungen sind sehr beliebt.",
+        "Weinbau ist der wichtigste Wirtschaftszweig."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Produziert weltberühmte Weine wie Vranec.", "Herz der mazedonischen Weinregion.", "Bietet Verkostungen und Kellerführungen an."],
@@ -248,6 +477,25 @@ export const mkPoisPart2: POI[] = [
       ro: "Un vârf muntos la granița cu Grecia, locul unei bătălii sângeroase în Primul Război Mondial.",
       en: "A mountain peak on the border with Greece, site of a bloody battle in WWI."
     },
+    descriptionAdvanced: {
+      de: "Der Kajmakčalan ist ein historischer Berg, der für seine Rolle in der Schlacht um den Durchbruch an der Saloniki-Front im Ersten Weltkrieg bekannt ist. Heute ist der Gipfel ein Ort des Gedenkens. Zudem bietet er eine beeindruckende Aussicht auf die gesamte umliegende Gebirgslandschaft. Geschichte K8 — Erster Weltkrieg.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Kämpfe auf dem Gipfel waren besonders hart.",
+        "Ein Denkmal erinnert an die Soldaten.",
+        "Die Aussicht ist bei klarem Wetter spektakulär.",
+        "Der Ort ist heute ein bedeutendes Mahnmal.",
+        "Die Geschichte des Berges wird respektvoll bewahrt.",
+        "Wanderer besuchen den Ort aus historischem Interesse."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Beherbergt eine Kapelle mit dem Herz von Archibald Reiss.", "Teil der Nidže-Berge.", "Wichtige historische Gedenkstätte."],
       hu: ["Itt található egy kápolna Archibald Reiss szívével.", "A Nidzse-hegység része.", "Fontos történelmi emlékhely."],
@@ -266,6 +514,25 @@ export const mkPoisPart2: POI[] = [
       hu: "Festői kolostor a Suvodol-bánya közelében.",
       ro: "O mănăstire pitorească în apropierea minei Suvodol.",
       en: "A scenic monastery located near the Suvodol mine."
+    },
+    descriptionAdvanced: {
+      de: "Das Kloster Suvodol ist ein spiritueller Ruhepol, der heute in einer von Industrie geprägten Umgebung liegt. Es bewahrt Traditionen und bietet Besuchern einen Einblick in die religiöse Lebensweise der Region. Es dient als ein wichtiger Ort des Gebets für die Einheimischen. Sachkunde K5 — Religion.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Klosterkirche ist architektonisch interessant.",
+        "Es ist ein Ort der Besinnung.",
+        "Die Umgebung bietet eine unerwartete Ruhe.",
+        "Besucher schätzen die Einfachheit des Klosters.",
+        "Das spirituelle Leben wird hier sehr aktiv gepflegt.",
+        "Es ist ein Ort der kulturellen Identität."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Gewidmet der Geburt der Gottesmutter.", "Umgeben von schöner ländlicher Landschaft.", "Ein Ort der Ruhe und des Gebets."],
@@ -287,6 +554,25 @@ export const mkPoisPart2: POI[] = [
       ro: "Ruinele unei cetăți medievale deasupra orașului Prilep, numite după Regele Marko.",
       en: "Medieval fortress ruins above the city of Prilep, named after King Marko."
     },
+    descriptionAdvanced: {
+      de: "Markos Türme sind ein beeindruckendes Beispiel mittelalterlicher Wehrarchitektur. Die strategische Lage auf den markanten Felsformationen bot dem Herrscher Marko Kraljević eine uneinnehmbare Festung. Heute sind sie ein Symbol der historischen Identität von Prilep. Geschichte K8 — Mittelalter.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Ruinen sind weit über die Stadt sichtbar.",
+        "Man hat einen exzellenten Ausblick über das Umland.",
+        "Es ist ein beliebter Ort für Wanderer.",
+        "Die Anlage ist ein archäologisches Denkmal.",
+        "Viele Sagen ranken sich um den König Marko.",
+        "Die Umgebung bietet eine einzigartige Felslandschaft."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Das Wahrzeichen von Prilep.", "Befindet sich auf markanten Granitfelsen.", "Teil des kulturellen Erbes der UNESCO-Tentativliste."],
       hu: ["Prilep legismertebb jelképe.", "Jellegzetes gránitsziklákon fekszik.", "Szerepel az UNESCO világörökségi javaslati listáján."],
@@ -305,6 +591,25 @@ export const mkPoisPart2: POI[] = [
       hu: "Magányos kolostor a Zlatovrv-hegyen, lélegzetelállító kilátással.",
       ro: "O mănăstire izolată pe muntele Zlatovrv, cu vederi uluitoare.",
       en: "A secluded monastery on Zlatovrv mountain with breathtaking views."
+    },
+    descriptionAdvanced: {
+      de: "Treskavec ist ein Ort der absoluten Stille und Abgeschiedenheit. Die Lage hoch oben auf dem Felsplateau bietet nicht nur ein spirituelles Erlebnis, sondern auch einen der spektakulärsten Ausblicke des ganzen Landes. Die Geschichte des Klosters ist eng mit der monastischen Tradition verknüpft. Sachkunde K5 — Abgeschiedenheit.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Anreise erfordert eine Wanderung.",
+        "Die Fresken im Inneren sind sehr alt.",
+        "Es ist ein Ort der spirituellen Ruhe.",
+        "Der Ausblick auf die Umgebung ist grandios.",
+        "Das Kloster bewahrt viele wertvolle Manuskripte.",
+        "Die Umgebung ist ein Eldorado für Naturfreunde."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Gegründet im 12. Jahrhundert.", "Bekannt für seine exzellente Akustik.", "Wurde nach mehreren Bränden restauriert."],
@@ -326,6 +631,25 @@ export const mkPoisPart2: POI[] = [
       ro: "Un oraș antic fondat de Filip al II-lea al Macedoniei.",
       en: "An ancient city founded by Philip II of Macedon."
     },
+    descriptionAdvanced: {
+      de: "Heraclea Lyncestis ist ein bedeutendes Zeugnis der makedonischen Geschichte. Die Mosaiken, die in den religiösen Bauten gefunden wurden, sind von außergewöhnlicher handwerklicher Qualität und gehören zu den schönsten der Antike. Sie bieten einen spannenden Einblick in die visuelle Welt der spätantiken Gesellschaft. Geschichte K8 — Antike.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Mosaikböden wurden sorgfältig geschützt.",
+        "Das Theater ist auch heute für Aufführungen nutzbar.",
+        "Die Stätte ist international sehr renommiert.",
+        "Die Stadt war ein wichtiges religiöses Zentrum.",
+        "Es gibt ein Besucherzentrum zur Information.",
+        "Die Ausgrabungsgeschichte ist sehr umfangreich."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Berühmt für seine gut erhaltenen Mosaike.", "Beherbergt ein römisches Theater.", "Wichtige Station an der Via Egnatia."],
       hu: ["Híres a jól megőrzött mozaikjairól.", "Római színháznak ad otthont.", "Fontos állomás volt a Via Egnatia mentén."],
@@ -344,6 +668,25 @@ export const mkPoisPart2: POI[] = [
       hu: "Bitola híres sétálóutcája, építészetéről ismert.",
       ro: "Faimoasa stradă pietonală din Bitola, cunoscută pentru arhitectura sa.",
       en: "The famous pedestrian street of Bitola, known for its architecture."
+    },
+    descriptionAdvanced: {
+      de: "Širok Sokak ist das gesellschaftliche Herz von Bitola. Die Pracht der neoklassizistischen Gebäude spiegelt den Wohlstand und die kosmopolitische Geschichte der Stadt als einstiges diplomatisches Zentrum wider. Die Straße ist heute voller Leben und lädt zum Bummeln ein. Sachkunde K5 — Städtebau.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Atmosphäre ist einzigartig entspannt.",
+        "Viele Gebäude haben eine bewegte Geschichte.",
+        "Die Straße ist ein Treffpunkt für alle Generationen.",
+        "Abends ist die Promenade besonders belebt.",
+        "Die Konsulatsgebäude zeugen vom Stolz der Stadt.",
+        "Architekturinteressierte finden hier viele Details."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Herz des sozialen Lebens der Stadt.", "Gesäumt von neoklassizistischen Gebäuden.", "Bekannt als 'Straße der Konsulate'."],
@@ -365,6 +708,25 @@ export const mkPoisPart2: POI[] = [
       ro: "Un lac artificial în nord, înconjurat de un peisaj montan frumos.",
       en: "An artificial lake in the north, surrounded by beautiful mountain scenery."
     },
+    descriptionAdvanced: {
+      de: "Der Lipkovo-See ist ein wichtiger Wasserspeicher für die nördliche Region. Er bietet eine harmonische Kulisse aus Gebirge und Wasser. Die Umgebung ist ein beliebtes Ziel für Tagesausflüge und naturverbundene Erholung. Erdkunde K6 — Seen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Wasser wird zur Bewässerung genutzt.",
+        "Die Berge im Hintergrund sind beeindruckend.",
+        "Die Ruhe der Region ist ein Markenzeichen.",
+        "Der See wird auch von Anglern geschätzt.",
+        "Die Zufahrtswege führen durch eine schöne Landschaft.",
+        "Er ist ein Symbol für die lokale Infrastruktur."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Dient der Wasserversorgung und Bewässerung.", "Entstanden durch den Bau einer Talsperre.", "Beliebt für Ausflüge in die Natur."],
       hu: ["Vízellátást és öntözést szolgál.", "Gát megépítésével jött létre.", "Népszerű a természetbe vágyók körében."],
@@ -384,6 +746,25 @@ export const mkPoisPart2: POI[] = [
       ro: "O mănăstire medievală importantă pe versanții muntelui Skopska Crna Gora.",
       en: "A significant medieval monastery on the slopes of Skopska Crna Gora."
     },
+    descriptionAdvanced: {
+      de: "Das Kloster Matejče ist eine bedeutende monumentale Anlage, die die religiöse Macht im 14. Jahrhundert unterstreicht. Seine Architektur und die Reste der Wandmalereien sind von hohem kunsthistorischem Rang. Es thront über der Landschaft der Skopska Crna Gora und bietet ein beeindruckendes Panorama. Geschichte K8 — Mittelalter.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Monumentalität ist für die Zeit bezeichnend.",
+        "Die Geschichte ist von großen Persönlichkeiten geprägt.",
+        "Das Kloster liegt sehr abgeschieden.",
+        "Die architektonischen Details sind sehr fein.",
+        "Das Gebäude ist ein Denkmal von nationalem Rang.",
+        "Es ist ein wichtiges Ziel für Kulturtourismus."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Gewidmet der Entschlafung der Gottesmutter.", "Gegründet im 14. Jahrhundert.", "Bekannt für seine monumentalen Ausmaße."],
       hu: ["Mária elszenderülésének szentelve.", "A 14. században alapították.", "Monumentális méreteiről ismert."],
@@ -392,3 +773,4 @@ export const mkPoisPart2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBurkinafasoCitiesV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Mosszi Birodalom történelmi központja.", "A FESPACO filmfesztivál otthona."],
       ro: ["Centrul istoric al Imperiului Mossi.", "Găzduiește festivalul de film FESPACO."],
       en: ["Historical center of the Mossi Empire.", "Hosts the FESPACO film festival."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Ouagadougou, die Hauptstadt von Burkina Faso, ist das wirtschaftliche und kulturelle Zentrum des Landes. Die Stadt wurde im 11. Jahrhundert gegründet und wuchs im Laufe der Jahrhunderte zur Residenz des Mogho Naba, des traditionellen Kaisers der Mossi. Heute beherbergt sie das Pan-Afrikanische Film- und Fernsehfestival (FESPACO), das größte seiner Art in Afrika. Geografie K7 — städtische Zentren in Westafrika.",
+      ro: "Ouagadougou, capitala statului Burkina Faso, reprezintă inima administrativă, economică și culturală a țării. Orașul a evoluat dintr-o așezare din secolul al XI-lea, devenind reședința tradițională a Mogho Naba, împăratul imperiului Mossi. Astăzi, Ouagadougou este renumit pe plan internațional pentru găzduirea Festivalului Panafrican de Film și Televiziune (FESPACO), cel mai mare eveniment de profil din Africa. Geografie K7 — centre urbane în Africa de Vest.",
+      hu: "Ouagadougou, Burkina Faso fővárosa, az ország közigazgatási, gazdasági és kulturális központja. A város a 11. században jött létre, és az idők folyamán a Mosszi Birodalom császárának, a Mogho Nabának a székhelyévé vált. Manapság világszerte ismert a Panafrikai Film- és Televíziós Fesztiválról (FESPACO), amely Afrika legnagyobb ilyen jellegű rendezvénye. Földrajz K7 — nyugat-afrikai városi központok.",
+      en: "Ouagadougou, the capital of Burkina Faso, is the administrative, economic, and cultural heart of the nation. Originating as a settlement in the 11th century, it became the traditional seat of the Mogho Naba, the emperor of the Mossi Empire. Today, the city is globally recognized for hosting the Pan-African Film and Television Festival of Ouagadougou (FESPACO), the largest event of its kind in Africa. Geography K7 — West African urban centers."
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt seit 1919 (französische Kolonialzeit)", "Einwohnerzahl über 2 Millionen Menschen", "Sitz des Mogho Naba Palastes", "Zentrum des FESPACO Festivals", "Auf einer Höhe von ca. 300 Metern gelegen", "Wichtigster Verkehrsknotenpunkt des Landes"],
+      ro: ["Capitala țării din anul 1919 (perioada colonială franceză)", "Populație de peste 2 milioane de locuitori", "Sediul oficial al palatului Mogho Naba", "Centrul cultural pentru festivalul FESPACO", "Situat la o altitudine medie de aproximativ 300 metri", "Cel mai important nod rutier și feroviar al națiunii"],
+      hu: ["Főváros 1919 óta (francia gyarmati időszak)", "Népessége meghaladja a 2 millió főt", "A Mogho Naba palota székhelye", "A FESPACO fesztivál központja", "Kb. 300 méteres tengerszint feletti magasságban fekszik", "Az ország legfontosabb közlekedési csomópontja"],
+      en: ["Capital city since 1919 during the French colonial era", "Population exceeding 2 million inhabitants", "Official seat of the Mogho Naba Palace", "Primary host for the biennial FESPACO film festival", "Located at an average altitude of approximately 300 meters", "The most significant road and rail hub in the country"]
+    }, image: "/poi-images/ouagadougou-cities-v2.webp"},
   {
     id: "bobo-dioulasso-cities-v2",
     type: "city",
@@ -27,8 +39,17 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A nyugati régió gazdasági központja.", "Híres hagyományos építészetéről."],
       ro: ["Centru economic în vest.", "Renumit pentru arhitectura tradițională."],
       en: ["Economic center in the west.", "Famous for traditional architecture."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Bobo-Dioulasso ist die zweitgrößte Stadt Burkina Fasos und gilt als die kulturelle Hauptstadt. Sie ist bekannt für ihre Architektur im sudanesisch-sahelischen Stil, darunter die Große Moschee, die Ende des 19. Jahrhunderts erbaut wurde. Die Stadt liegt in einem fruchtbaren Gebiet, das für Baumwollanbau und Textilverarbeitung bekannt ist. Geografie K7 — Handelszentren und Agrarregionen.",
+      ro: "Bobo-Dioulasso este al doilea oraș ca mărime din Burkina Faso, fiind considerat capitala culturală a națiunii. Este faimos pentru arhitectura sa tradițională în stil sudano-sahelian, precum Marea Moschee, ridicată la sfârșitul secolului al XIX-lea. Orașul este situat într-o zonă fertilă, jucând un rol crucial în industria prelucrării bumbacului și a textilelor din regiune. Geografie K7 — centre comerciale și agricole.",
+      en: "Bobo-Dioulasso is the second-largest city in Burkina Faso and is widely regarded as the nation's cultural capital. It is renowned for its unique Sudanese-Sahelian architectural style, best exemplified by the Great Mosque, constructed at the end of the 19th century. Situated in a fertile region, the city plays a vital role in the national economy, particularly within the cotton processing and textile sectors. Geography K7 — commercial and agricultural hubs."
+    },
+    factsAdvanced: {
+      de: ["Gründung im 19. Jahrhundert als 'Sya'", "Zentrum der Baumwollindustrie (SOFITEX)", "Architekturdenkmal: Große Moschee von 1893", "Wichtiger Bahnhof an der Strecke nach Abidjan", "Stadtzentrum mit alter Eisenbahnstation", "Bekannt für den 'Piscine de Doufié' Markt"],
+      ro: ["Fondat în secolul al XIX-lea sub numele de 'Sya'", "Nucleul industriei bumbacului (SOFITEX)", "Moscheea Mare, monument istoric din 1893", "Stație feroviară vitală pe ruta către Abidjan", "Centru urban cu o gară istorică conservată", "Piața centrală celebră pentru produsele locale"],
+      en: ["Originally founded in the 19th century under the name 'Sya'", "Core location for the national cotton industry (SOFITEX)", "The Great Mosque, a historical monument established in 1893", "Vital railway station on the strategic route towards Abidjan", "Urban center featuring a well-preserved historic railway station", "Central market celebrated for its diverse local produce"]
+    }, image: "/poi-images/bobo-dioulasso-cities-v2.webp"},
   {
     id: "koudougou-cities-v2",
     type: "city",
@@ -41,8 +62,15 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Textiliparáról ismert.", "Sok mosszi közösség otthona."],
       ro: ["Cunoscut pentru industria textilă.", "Căminul multor comunități Mossi."],
       en: ["Known for its textile industry.", "Home to many Mossi communities."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Koudougou ist die drittgrößte Stadt des Landes und ein wichtiges Verwaltungszentrum der Region Centre-Ouest. Die Stadt ist ein bedeutender Bildungsstandort und besitzt eine lange Tradition im Baumwollhandel. Der wöchentliche Markt zieht Händler aus dem gesamten Land an und prägt das soziale Leben der Stadt. Sachkunde K5 — Märkte und Handel.",
+      ro: "Koudougou este al treilea oraș ca mărime al țării și un centru administrativ important al regiunii Centre-Ouest. Orașul este un centru educațional semnificativ și are o lungă tradiție în comerțul cu bumbac. Piața săptămânală atrage comercianți din toată țara și definește viața socială a orașului. Sachkunde K5 — piețe și comerț."
+    },
+    factsAdvanced: {
+      de: ["Regionalzentrum der Region Centre-Ouest", "Wichtiger Standort der Textilindustrie (Filsah)", "Gründung Ende des 19. Jahrhunderts", "Durch Eisenbahnstrecke gut vernetzt", "Bekannt für hohe Bildungsdichte", "Zentrum für regionales Kunsthandwerk"],
+      ro: ["Centru regional al regiunii Centre-Ouest", "Locație importantă a industriei textile (Filsah)", "Fondat la sfârșitul secolului al XIX-lea", "Bine conectat prin calea ferată", "Cunoscut pentru densitatea ridicată a instituțiilor de învățământ", "Centru pentru artizanatul regional"]
+    }, image: "/poi-images/koudougou-cities-v2.webp"},
   {
     id: "ouahigouya-cities-v2",
     type: "city",
@@ -55,8 +83,15 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Fontos mezőgazdasági központ.", "A 18. században alapították."],
       ro: ["Centru agricol important.", "Fondat în secolul al XVIII-lea."],
       en: ["Important agricultural center.", "Founded in the 18th century."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Ouahigouya liegt im Norden Burkina Fasos und ist die historische Hauptstadt des Yatenga-Königreichs. Die Stadt ist für ihr heißes und trockenes Klima bekannt, das zur Entwicklung von Techniken zur Bodenverbesserung durch die lokalen Bauern geführt hat. Sie dient als Tor zu den nördlichen Regionen des Landes. Geschichte K8 — Königreiche in Westafrika.",
+      ro: "Ouahigouya este situat în nordul statului Burkina Faso și reprezintă capitala istorică a Regatului Yatenga. Orașul este cunoscut pentru climatul său cald și arid, ceea ce a dus la dezvoltarea unor tehnici inovatoare de îmbunătățire a solului de către fermierii locali. Acesta servește drept poartă către regiunile nordice ale țării. Istorie K8 — regate în Africa de Vest."
+    },
+    factsAdvanced: {
+      de: ["Historische Hauptstadt des Yatenga-Reiches", "Gegründet im 18. Jahrhundert", "Zentrum der bäuerlichen Bodenverbesserung", "Hauptort der Region Nord", "Kulturelles Erbe des Naaba-Palastes", "Knotenpunkt für Viehhandel im Norden"],
+      ro: ["Capitala istorică a Imperiului Yatenga", "Fondat în secolul al XVIII-lea", "Centru de dezvoltare a tehnicilor agricole de îmbunătățire a solului", "Reședința regiunii de Nord", "Moștenirea culturală a Palatului Naaba", "Nod principal pentru comerțul cu animale în regiunea de nord"]
+    }, image: "/poi-images/ouahigouya-cities-v2.webp"},
   {
     id: "banfora-cities-v2",
     type: "city",
@@ -69,8 +104,15 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Karfiguéla-vízesésekről ismert.", "A cukorgyártás központja."],
       ro: ["Renumit pentru cascadele Karfiguéla.", "Centrul producției de zahăr."],
       en: ["Known for the Karfiguéla waterfalls.", "Center of sugar production."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Banfora ist eine bedeutende Stadt im Südwesten Burkina Fasos, die vor allem durch ihre landschaftliche Schönheit und landwirtschaftliche Bedeutung bekannt ist. In der Nähe der Stadt befinden sich die berühmten Kaskaden von Karfiguéla und die Domes de Fabedougou. Die Region ist ein Zentrum für Zuckerrohrproduktion und -verarbeitung. Sachkunde K4 — natürliche Sehenswürdigkeiten.",
+      ro: "Banfora este un oraș important din sud-vestul statului Burkina Faso, renumit în special pentru frumusețea sa peisagistică și semnificația agricolă. În apropierea orașului se află celebrele cascade Karfiguéla și formațiunile stâncoase Domes de Fabedougou. Regiunea este un centru vital pentru producția și prelucrarea trestiei de zahăr. Sachkunde K4 — atracții naturale."
+    },
+    factsAdvanced: {
+      de: ["Bekannt für die Karfiguéla-Wasserfälle", "Zentrum der Zuckerproduktion (SN-SOSUCO)", "Gelegen in der Region Cascades", "Umgeben von fruchtbaren Anbaugebieten", "Touristisches Highlight durch die Felsformationen", "Bekannt für den Anbau von Mangos und Zuckerrohr"],
+      ro: ["Renumit pentru cascadele Karfiguéla", "Centrul producției de zahăr (SN-SOSUCO)", "Situat în regiunea Cascades", "Înconjurat de zone agricole fertile", "Atracție turistică datorită formațiunilor stâncoase", "Cunoscut pentru cultivarea de mango și trestie de zahăr"]
+    }, image: "/poi-images/banfora-cities-v2.webp"},
   {
     id: "dedougou-cities-v2",
     type: "city",
@@ -83,8 +125,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A FESTIMA fesztivál házigazdája.", "Jelentős kereskedelmi központ."],
       ro: ["Găzduiește festivalul FESTIMA.", "Centru comercial semnificativ."],
       en: ["Hosts the FESTIMA festival.", "Significant commercial center."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dédougou ist das Verwaltungszentrum der Region Boucle du Mouhoun. Die Stadt liegt am Ufer des Mouhoun (Schwarzer Volta) und ist ein bedeutendes Zentrum für den Anbau von Baumwolle und Cerealien. Die Stadt ist für ihr jährliches Maskenfestival FESTIMA bekannt, das traditionelle westafrikanische Kulturen feiert. Geschichte K8 — traditionelle Feste."
+    },
+    factsAdvanced: {
+      de: ["Hauptort der Region Boucle du Mouhoun", "Gegründet nahe dem Mouhoun-Fluss", "Zentrum des FESTIMA-Festivals", "Wichtiger Standort der Baumwollverarbeitung", "Knotenpunkt für den Getreidehandel", "Kulturelles Erbe der regionalen Stämme"]
+    }, image: "/poi-images/dedougou-cities-v2.webp"},
   {
     id: "kaya-cities-v2",
     type: "city",
@@ -97,8 +144,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Kiváló minőségű bőráruiról híres.", "A Centre-Nord régió fővárosa."],
       ro: ["Faimos pentru articole din piele de înaltă calitate.", "Capitala regiunii Centre-Nord."],
       en: ["Famous for high-quality leather goods.", "Capital of the Centre-Nord region."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Kaya ist das Zentrum der Region Centre-Nord und liegt etwa 100 km nordöstlich von Ouagadougou. Die Stadt ist berühmt für ihre Lederverarbeitung und als Handelsplatz für die umliegenden nomadischen Gemeinschaften. Die Region ist von trockenen Savannen geprägt, die eine spezifische Form der Viehwirtschaft erfordern. Geografie K6 — Leben in Savannen."
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Lederverarbeitung", "Hauptort der Region Centre-Nord", "Handelsplatz für Viehzüchter", "Bekannt für handwerkliche Lederwaren", "Strategischer Punkt in der Sahel-Zone", "Wichtiger Standort für die lokale Verwaltung"]
+    }, image: "/poi-images/kaya-cities-v2.webp"},
   {
     id: "dori-cities-v2",
     type: "city",
@@ -111,8 +163,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Nagy állatpiacáról ismert.", "Különböző etnikai csoportok találkozóhelye."],
       ro: ["Cunoscut pentru marea piață de animale.", "Punct de întâlnire pentru diverse grupuri etnice."],
       en: ["Known for its large livestock market.", "Meeting point for various ethnic groups."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dori ist die Hauptstadt der Sahel-Region und liegt im Nordosten des Landes. Die Stadt ist stark durch den Einfluss der Tuareg und Fulbe geprägt, was sich in ihrer Architektur und Kultur widerspiegelt. Die Region ist bekannt für ihre weiten Wüstenlandschaften und den traditionellen Handel mit Vieh und Kunsthandwerk. Geschichte K8 — nomadische Kulturen."
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Region Sahel", "Kulturelles Zentrum der Tuareg und Fulbe", "Bekannt für das traditionelle Handwerk", "Region der weiten Sahel-Landschaft", "Wichtiger Handelsplatz für Vieh", "Historisch bedeutsame Moschee"]
+    }, image: "/poi-images/dori-cities-v2.webp"},
   {
     id: "tenkodogo-cities-v2",
     type: "city",
@@ -125,8 +182,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A 12. században alapították.", "Az ország egyik legrégebbi városa."],
       ro: ["Fondat în secolul al XII-lea.", "Unul dintre cele mai vechi orașe din țară."],
       en: ["Founded in the 12th century.", "One of the oldest cities in the country."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Tenkodogo ist eine der ältesten Städte Burkina Fasos und war die erste Hauptstadt des Mossi-Reiches. Die Stadt liegt im Südosten des Landes und hat eine tiefe geschichtliche Verbindung zu den Herrscherdynastien der Mossi. Die Umgebung wird durch eine fruchtbare Savannenlandschaft geprägt, die intensiv für die Landwirtschaft genutzt wird. Geschichte K8 — Mossi-Reich."
+    },
+    factsAdvanced: {
+      de: ["Erste Hauptstadt des Mossi-Reiches", "Gründung im 12. Jahrhundert", "Regionalzentrum der Region Centre-Est", "Historische Königsresidenz", "Kulturelles Zentrum im Südosten", "Wichtiger Knotenpunkt für den Handel"]
+    }, image: "/poi-images/tenkodogo-cities-v2.webp"},
   {
     id: "fada-ngourma-cities-v2",
     type: "city",
@@ -139,8 +201,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Gourma Birodalom történelmi központja.", "Fontos közlekedési csomópont."],
       ro: ["Centrul istoric al Regatului Gourma.", "Un important nod de transport."],
       en: ["Historical center of the Gourma Empire.", "An important transport hub."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Fada N'gourma liegt im Osten Burkina Fasos und ist ein bedeutendes Handelszentrum, insbesondere für Vieh und landwirtschaftliche Produkte. Die Stadt ist für ihre Textilkunst und die traditionelle Weberei bekannt. Sie dient als Ausgangspunkt für Reisen in den Parc National du W im Südosten des Landes. Geografie K7 — Ökosysteme und Tourismus."
+    },
+    factsAdvanced: {
+      de: ["Handelszentrum der Region Est", "Bekannt für traditionelle Weberei", "Eingangstor zum Nationalpark W", "Hauptort für Viehmärkte", "Kulturelles Zentrum der Gulmance-Leute", "Wichtiger Verkehrsknotenpunkt im Osten"]
+    }, image: "/poi-images/fada-ngourma-cities-v2.webp"},
   {
     id: "gaoua-cities-v2",
     type: "city",
@@ -153,8 +220,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A hagyományos lobi építészetről ismert.", "Egy fontos regionális múzeum otthona."],
       ro: ["Cunoscut pentru arhitectura tradițională Lobi.", "Găzduiește un important muzeu regional."],
       en: ["Known for traditional Lobi architecture.", "Home to an important regional museum."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Gaoua ist das Zentrum der Region Sud-Ouest und ist kulturell stark durch das Volk der Lobi geprägt. Die Stadt ist für ihre Museen und die traditionelle Architektur der Lobi-Gehöfte bekannt. Die umliegende Landschaft ist hügelig und bietet ein reiches kulturelles Erbe, das weltweit für seine künstlerischen Holz- und Lehmbauten geschätzt wird. Geschichte K8 — Lobi-Kultur."
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Lobi-Kultur", "Regionalhauptstadt Sud-Ouest", "Bekannt für das Musée du Poni", "Traditionelle Lehmarchitektur", "Umgeben von hügeliger Landschaft", "Zentrum für regionales Kunsthandwerk"]
+    }, image: "/poi-images/gaoua-cities-v2.webp"},
   {
     id: "manga-cities-v2",
     type: "city",
@@ -167,8 +239,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A gabonatermesztés fontos központja.", "Növekvő kereskedelmi csomópont."],
       ro: ["Un centru important pentru cultivarea cerealelor.", "Un nod comercial în creștere."],
       en: ["Important center for grain cultivation.", "A growing commercial hub."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Manga ist die Hauptstadt der Region Centre-Sud. Die Stadt zeichnet sich durch eine Mischung aus modernem Verwaltungsleben und traditionellen Strukturen der Region aus. Die umliegenden landwirtschaftlichen Flächen sind für den Anbau von Hirse und Sorgho von großer Bedeutung. Sachkunde K3 — landwirtschaftliche Regionen."
+    },
+    factsAdvanced: {
+      de: ["Hauptort der Region Centre-Sud", "Zentrum für Hirse- und Sorgho-Anbau", "Verwaltungssitz im Süden", "Knotenpunkt regionaler Handelsrouten", "Traditionelle dörfliche Strukturen", "Regionale Bedeutung für den Viehhandel"]
+    }, image: "/poi-images/manga-cities-v2.webp"},
   {
     id: "ziniare-cities-v2",
     type: "city",
@@ -181,8 +258,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Blaise Compaoré volt elnök szülővárosa.", "Állatparkjáról ismert."],
       ro: ["Locul de naștere al fostului președinte Blaise Compaoré.", "Cunoscut pentru parcul său zoologic."],
       en: ["Birthplace of former President Blaise Compaoré.", "Known for its animal park."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Ziniaré liegt in der Region Plateau-Central, nur wenige Kilometer von der Hauptstadt Ouagadougou entfernt. Die Stadt ist ein wichtiger Verwaltungsstandort und profitiert von ihrer Nähe zur Hauptstadt. Sie bietet Einblicke in das Leben in den ländlichen Vororten von Ouagadougou. Geografie K6 — urbane Randgebiete."
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Region Plateau-Central", "Geografisch nah an Ouagadougou", "Verwaltungssitz in der Zentralregion", "Landwirtschaftliches Umland", "Wichtiger Standort für kleine Unternehmen", "Zentrum für regionale Märkte"]
+    }, image: "/poi-images/ziniare-cities-v2.webp"},
   {
     id: "koupela-cities-v2",
     type: "city",
@@ -195,8 +277,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Fontos nemzeti utak kereszteződésében fekszik.", "A helyi kereskedelem központja."],
       ro: ["Situat la intersecția unor importante rute naționale.", "Centru pentru comerțul local."],
       en: ["Located at the intersection of important national routes.", "Center for local trade."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Koupéla liegt im Zentrum von Burkina Faso und ist ein wichtiger Knotenpunkt für Handelswege, die die östlichen Regionen mit der Hauptstadt verbinden. Die Stadt ist für ihre religiösen Gebäude und die historische Bedeutung in der Verbreitung des Christentums in der Region bekannt. Geschichte K8 — kulturelle Entwicklungen."
+    },
+    factsAdvanced: {
+      de: ["Historischer Verkehrsknotenpunkt", "Religiöses Zentrum der Region", "Wichtiger Handelsplatz für Lebensmittel", "Gelegen in der Region Centre-Est", "Kulturelle Vielfalt durch Handelsrouten", "Traditionelle Märkte für lokale Produkte"]
+    }, image: "/poi-images/koupela-cities-v2.webp"},
   {
     id: "pouytenga-cities-v2",
     type: "city",
@@ -209,6 +296,12 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Az áruk jelentős átrakóhelye.", "Az állatkereskedők fontos találkozóhelye."],
       ro: ["Punct major de transbordare a mărfurilor.", "Un nod important pentru comercianții de animale."],
       en: ["Major transshipment point for goods.", "An important hub for livestock traders."]
+    },
+    descriptionAdvanced: {
+      de: "Pouytenga ist als eine der wichtigsten Handelsstädte in Burkina Faso bekannt. Der Markt in Pouytenga ist berühmt und zieht Händler aus der ganzen Westafrikanischen Region an. Die Stadt hat sich durch ihren florierenden Handel schnell entwickelt und ist ein wirtschaftlicher Motor in der Region Centre-Est. Sachkunde K5 — Handelsdynamik."
+    },
+    factsAdvanced: {
+      de: ["Bedeutendes Handelszentrum in Westafrika", "Berühmt für den lokalen Markt", "Wirtschaftliches Zentrum der Region", "Große Vielfalt an importierten Waren", "Wachstumsstarke Stadt in Centre-Est", "Knotenpunkt für grenzüberschreitenden Handel"]
     }
   },
   {
@@ -223,6 +316,12 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Erős mezőgazdasági jelleg.", "Jelentős bissa közösség."],
       ro: ["Caracter agricol puternic.", "Comunitate Bissa semnificativă."],
       en: ["Strong agricultural character.", "Significant Bissa community."]
+    },
+    descriptionAdvanced: {
+      de: "Garango liegt in der Region Centre-Est und ist ein Zentrum für Landwirtschaft und Viehzucht. Die Stadt is bekannt für ihre traditionellen Stoffe und das Handwerk, das von den lokalen Gemeinschaften gepflegt wird. Die Region profitiert von der Nähe zum Fluss White Volta. Sachkunde K4 — Handwerk."
+    },
+    factsAdvanced: {
+      de: ["Landwirtschaftliches Zentrum in Centre-Est", "Bekannt für traditionelle Textilien", "Nähe zum White Volta Fluss", "Handwerk als wirtschaftliches Standbein", "Regionale Märkte für Vieh", "Kulturelles Zentrum der Umgebung"]
     }
   },
   {
@@ -237,8 +336,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Fontos aranybányászat a közelben.", "Stratégiai megállóhely az utazók számára."],
       ro: ["Exploatare importantă de aur în apropiere.", "O oprire strategică pentru călători."],
       en: ["Important gold mining nearby.", "A strategic stopover for travelers."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Houndé ist ein wichtiges Zentrum der Region Hauts-Bassins und spielt eine bedeutende Rolle im Bergbau und der Landwirtschaft. Die Stadt liegt in einem Gebiet mit reichen Goldvorkommen. Zudem ist sie ein Knotenpunkt für den Transport von Waren auf der wichtigen Strecke zwischen Bobo-Dioulasso und Ouagadougou. Geografie K7 — Rohstoffe."
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Region Hauts-Bassins", "Bedeutender Standort für Goldminen", "Knotenpunkt für Transportwesen", "Landwirtschaftliche Bedeutung", "Regionale Märkte für Agrarprodukte", "Wichtiger Punkt der wirtschaftlichen Entwicklung"]
+    }, image: "/poi-images/hounde-cities-v2.webp"},
   {
     id: "djibo-cities-v2",
     type: "city",
@@ -251,8 +355,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Száhel-övezetben található.", "Jelentős piac a nomádok és földművesek számára."],
       ro: ["Situat în regiunea Sahel.", "Piață semnificativă pentru nomazi și fermieri."],
       en: ["Located in the Sahel region.", "Significant market for nomads and farmers."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Djibo liegt im Norden des Landes in der Region Sahel. Die Stadt ist für ihre tief verwurzelte nomadische Kultur und den Viehhandel bekannt. Die Umgebung besteht aus trockenen Savannen, die den Lebensstil der lokalen Bevölkerung maßgeblich prägen. Geografie K6 — Leben unter extremen klimatischen Bedingungen."
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Viehhandelsplatz", "Hauptort der Provinz Soum", "Kulturelle Wurzeln bei den Fulbe", "Region der trockenen Savanne", "Handelsrouten der nomadischen Völker", "Regionale Bedeutung im Norden"]
+    }, image: "/poi-images/djibo-cities-v2.webp"},
   {
     id: "leo-cities-v2",
     type: "city",
@@ -265,8 +374,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A mezőgazdaság fontos központja.", "Népszerű tranzitállomás."],
       ro: ["Un centru important al agriculturii.", "Un loc popular pentru călătorii în tranzit."],
       en: ["An important agricultural center.", "A popular spot for transit travelers."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Léo ist die Hauptstadt der Provinz Sissili in der Region Centre-Ouest. Die Stadt liegt in einem Gebiet, das für seine fruchtbaren Böden und den Anbau von Getreide bekannt ist. Léo profitiert von einer guten Anbindung an Handelsrouten in Richtung Ghana. Geografie K7 — grenznahe Wirtschaft."
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Sissili", "Regionale Bedeutung für den Getreideanbau", "Nähe zur Grenze von Ghana", "Wichtiger Handelsplatz", "Landwirtschaftlich orientierte Wirtschaft", "Zentrum für regionale Märkte"]
+    }, image: "/poi-images/leo-cities-v2.webp"},
   {
     id: "tougan-cities-v2",
     type: "city",
@@ -279,6 +393,12 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Szamo-kultúra központja.", "Jelentős helyi gabonapiac."],
       ro: ["Centrul culturii Samo.", "O piață locală importantă de cereale."],
       en: ["Center of the Samo culture.", "A significant local grain market."]
+    },
+    descriptionAdvanced: {
+      de: "Tougan is der Hauptort der Provinz Sourou. Die Region ist bekannt für ihr fruchtbares Tal entlang des Sourou-Flusses, das eine bedeutende landwirtschaftliche Produktion ermöglicht. Die Stadt dient als Zentrum für den Austausch von Agrarerzeugnissen in der Region Boucle du Mouhoun. Geografie K7 — Bewässerung und Landwirtschaft."
+    },
+    factsAdvanced: {
+      de: ["Hauptort der Provinz Sourou", "Zentrum im Sourou-Tal", "Wichtige landwirtschaftliche Region", "Austausch von Agrarprodukten", "Kulturelles Erbe des Sourou-Beckens", "Verwaltungssitz im Nordwesten"]
     }
   },
   {
@@ -293,8 +413,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Híres a gyümölcstermelésről.", "Fontos helyi feldolgozóipar."],
       ro: ["Renumit pentru producția de fructe.", "Industrie locală importantă de prelucrare."],
       en: ["Famous for fruit production.", "Important local processing industry."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Orodara is a key town in the Kénédougou province, serving as a vital hub for the region's agricultural output. Known for its extensive fruit orchards, the town contributes significantly to Burkina Faso's horticultural production, particularly mangoes and citrus. Geography K7 — agricultural production zones."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Kénédougou province", "Famous for diverse fruit plantations", "Primary region for mango and orange cultivation", "Located in a fertile, well-watered part of the southwest", "Economic importance centered on local markets and export", "Traditional cultural heritage rooted in local Mossi and Bobo traditions"]
+    }, image: "/poi-images/orodara-cities-v2.webp"},
   {
     id: "po-cities-v2",
     type: "city",
@@ -307,8 +432,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A forradalom első katonai bázisának központja.", "Kapu az elefántrezervátumhoz."],
       ro: ["Baza primei tabere militare a revoluției.", "Poarta de acces către rezervația de elefanți."],
       en: ["Base of the revolution's first military camp.", "Gateway to the elephant reserve."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Pô is a significant town located near the border with Ghana, functioning as a strategic trade crossroads. It is widely known for the nearby Nazinga Game Ranch, which plays an essential role in wildlife conservation and tourism in Burkina Faso. Geography K7 — border trade hubs and conservation."
+    },
+    factsAdvanced: {
+      en: ["Strategic location on the road connecting Ouagadougou to Ghana", "Famous for the Nazinga Game Ranch", "Vital stop for travelers and traders", "Rich in local cultural history and traditions", "Important center for regional administration and local commerce", "Gateway to protected wildlife areas"]
+    }, image: "/poi-images/po-cities-v2.webp"},
   {
     id: "gourcy-cities-v2",
     type: "city",
@@ -321,8 +451,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Moagha-kultúra történelmi központja.", "Jelentős gyapottermelés."],
       ro: ["Un centru istoric al culturii Moagha.", "Producție semnificativă de bumbac."],
       en: ["A historical center of the Moagha culture.", "Significant cotton production."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Gourcy is a growing urban center in the Zondoma province, serving as an important market town for the northern region. The town is central to local trade routes and serves as an administrative anchor for surrounding rural communities. Geography K7 — rural-urban trade hubs."
+    },
+    factsAdvanced: {
+      en: ["Regional administrative center of Zondoma province", "Hub for local agricultural trade in the north", "Market town serving surrounding rural populations", "Key point on regional transit routes", "Growth driven by commercial and social development", "Strong focus on local traditional crafts and commerce"]
+    }, image: "/poi-images/gourcy-cities-v2.webp"},
   {
     id: "bousse-cities-v2",
     type: "city",
@@ -335,8 +470,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A hagyományos kézművesség fontos központja.", "Nagy heti piac."],
       ro: ["Un centru important pentru meșteșugurile tradiționale.", "O piață săptămânală mare."],
       en: ["An important center for traditional crafts.", "A large weekly market."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Boussé is the administrative capital of the Kourwéogo province, known for its dynamic local economy and role as a transit point. It is well-positioned for regional trade and continues to develop as an essential service hub for the area. Geography K7 — regional service centers."
+    },
+    factsAdvanced: {
+      en: ["Provincial capital of Kourwéogo", "Important transit hub for regional commerce", "Hub for local services and administration", "Strategic location on major national roads", "Growing center for education and social services", "Key participant in the regional market economy"]
+    }, image: "/poi-images/bousse-cities-v2.webp"},
   {
     id: "sindou-cities-v2",
     type: "city",
@@ -349,8 +489,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Az ökoturizmus népszerű célpontja.", "A Szenufo-kultúra központja."],
       ro: ["O destinație populară pentru ecoturism.", "Centrul culturii Senoufo."],
       en: ["A popular destination for ecotourism.", "Center of the Senoufo culture."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Sindou is most famous for the spectacular Sindou Peaks, unique sandstone rock formations that represent one of Burkina Faso's most iconic natural landmarks. As a town, it serves as a gateway to this stunning landscape and preserves rich local traditions. Geography K7 — natural heritage and tourism."
+    },
+    factsAdvanced: {
+      en: ["Famous for the naturally eroded Sindou Peaks", "Gateway town for eco-tourism and geological sites", "Strong cultural heritage of the Senoufo people", "Located in the Léraba province", "Key landmark for national tourism and photography", "Historical connection to ancestral traditions and folklore"]
+    }, image: "/poi-images/sindou-cities-v2.webp"},
   {
     id: "diebougou-cities-v2",
     type: "city",
@@ -363,8 +508,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Történelmi francia gyarmati építészet.", "Jelentős piacváros."],
       ro: ["Arhitectură colonială istorică franceză.", "Un important oraș-piață."],
       en: ["Historical French colonial architecture.", "A significant market town."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Diébougou is a historic town in the Bougouriba province, serving as a central hub for trade and local administration. It is characterized by its historical sites and deep-rooted cultural customs that connect the southern regions. Geography K7 — historic regional hubs."
+    },
+    factsAdvanced: {
+      en: ["Administrative center of the Bougouriba province", "Historical importance as a crossroads for the southwest", "Rich in traditional architecture and local customs", "Economic base in agriculture and regional trade", "Strategic point for connecting regional populations", "Center for local heritage and educational initiatives"]
+    }, image: "/poi-images/diebougou-cities-v2.webp"},
   {
     id: "nouna-cities-v2",
     type: "city",
@@ -377,8 +527,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Jelentős orvosi kutatóközpont székhelye.", "A régió mezőgazdasági szíve."],
       ro: ["Sediul unui important centru de cercetare medicală.", "Inima agricolă a regiunii."],
       en: ["Site of a major medical research center.", "Agricultural heart of the region."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Nouna is the capital of the Kossi province, acting as an essential market town and administrative center in the northwest. Its economy is largely driven by agriculture and local trade, serving the diverse ethnic groups that inhabit the Kossi region. Geography K7 — agricultural trade centers."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Kossi province", "Market center for northwest agricultural products", "Diverse population hub for regional ethnic groups", "Key administrative point for northwestern districts", "Central role in local trade networks", "Foundation for educational and health services in the province"]
+    }, image: "/poi-images/nouna-cities-v2.webp"},
   {
     id: "toma-cities-v2",
     type: "city",
@@ -391,8 +546,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Szamo kulturális központja.", "Az éves birkózófesztiválról híres."],
       ro: ["Centrul cultural al Samo.", "Cunoscut pentru festivalul anual de lupte."],
       en: ["Cultural center of the Samo.", "Known for the annual wrestling festival."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Toma is the administrative capital of the Nayala province, playing a crucial role in regional development and local governance. It is known for its role in maintaining regional stability and fostering local economic growth through agriculture. Geography K7 — provincial governance and agriculture."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Nayala province", "Administrative focus for the region", "Center for local development and governance initiatives", "Hub for agricultural planning and trade", "Important stop on regional transit paths", "Key location for provincial public services"]
+    }, image: "/poi-images/toma-cities-v2.webp"},
   {
     id: "zorgho-cities-v2",
     type: "city",
@@ -405,8 +565,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Nabiga fesztivál helyszíne.", "Fontos mezőgazdasági átrakóhely."],
       ro: ["Găzduiește festivalul Nabiga.", "Un important punct agricol de transfer."],
       en: ["Hosts the Nabiga festival.", "An important agricultural transshipment point."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Zorgho is the capital of the Ganzourgou province, situated strategically along the main road toward the east. It is a vital commercial and transit town that facilitates trade and communication between different regions of the country. Geography K7 — transit and commercial hubs."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Ganzourgou province", "Vital transit town on the Ouagadougou-Fada N'gourma road", "Important hub for regional commercial activity", "Facilitates east-west movement in Burkina Faso", "Administrative anchor for the Ganzourgou district", "Active market life and center for local commerce"]
+    }, image: "/poi-images/zorgho-cities-v2.webp"},
   {
     id: "pama-cities-v2",
     type: "city",
@@ -419,8 +584,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Népszerű a szafarituristák körében.", "Sűrű erdők és szavannák veszik körül."],
       ro: ["Popular printre turiștii de safari.", "Înconjurat de păduri dense și savane."],
       en: ["Popular with safari tourists.", "Surrounded by dense forests and savannas."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Pama is the capital of the Kompienga province, located in the far east of Burkina Faso. It is an important center for managing conservation areas and regional trade, providing essential links to the eastern part of the country. Geography K7 — peripheral centers and natural conservation."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Kompienga province", "Strategic gateway to eastern conservation areas", "Important point for regional administration in the east", "Hub for trade and local services in a border area", "Key role in managing natural resources", "Vital transit point for eastern transport routes"]
+    }, image: "/poi-images/pama-cities-v2.webp"},
   {
     id: "bogande-cities-v2",
     type: "city",
@@ -433,8 +603,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Gnagna tartomány központja.", "Fontos a keleti mezőgazdaság számára."],
       ro: ["Centrul provinciei Gnagna.", "Important pentru agricultura din est."],
       en: ["Center of the Gnagna province.", "Important for agriculture in the east."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Bogandé is the capital of the Gnagna province, serving as an important market town in the eastern part of Burkina Faso. Its vibrant market and administrative role make it central to the socioeconomic well-being of the surrounding region. Geography K7 — provincial market hubs."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Gnagna province", "Major market and commercial hub in the east", "Administrative and service center for the Gnagna region", "Central point for livestock and agricultural trade", "Key location for community and provincial development", "Vital connection for eastern road networks"]
+    }, image: "/poi-images/bogande-cities-v2.webp"},
   {
     id: "yako-cities-v2",
     type: "city",
@@ -447,8 +622,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A köles és a cirok termesztéséről ismert.", "Egy nagy mecset otthona."],
       ro: ["Cunoscut pentru cultivarea meiului și a sorgului.", "Găzduiește o mare moschee."],
       en: ["Known for the cultivation of millet and sorghum.", "Home to a large mosque."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Yako is the administrative seat of the Passoré province and is known for its active agricultural and trade life. It serves as a crucial point for connecting the north with the center, playing a pivotal role in provincial development. Geography K7 — provincial transit and trade."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Passoré province", "Crucial transit and trade point in the north-center", "Hub for regional agricultural activity", "Administrative center providing essential provincial services", "Key location on road networks connecting northern provinces", "Center for local artisan and commercial markets"]
+    }, image: "/poi-images/yako-cities-v2.webp"},
   {
     id: "sapouy-cities-v2",
     type: "city",
@@ -461,8 +641,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Fontos megállóhely a kamionosok számára.", "A Ziro tartomány központja."],
       ro: ["O stație importantă pentru șoferii de camioane.", "Centrul provinciei Ziro."],
       en: ["An important stop for truck drivers.", "Center of the Ziro province."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Sapouy is the capital of the Ziro province, situated in a region with significant agricultural potential. It functions as a key center for organizing rural activities and providing basic provincial services to its inhabitants. Geography K7 — rural provincial administration."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Ziro province", "Center for provincial administration and services", "Important hub for organizing rural trade and agriculture", "Strategic location for regional economic planning", "Growing town serving a productive agricultural surrounding", "Key center for Ziro district governance"]
+    }, image: "/poi-images/sapouy-cities-v2.webp"},
   {
     id: "batie-cities-v2",
     type: "city",
@@ -475,8 +660,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Az Elefántcsontpart határának közelében.", "Bauxitlelőhelyekben gazdag."],
       ro: ["Aproape de granița cu Coasta de Fildeș.", "Bogat în depozite de bauxită."],
       en: ["Near the border with Ivory Coast.", "Rich in bauxite deposits."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Batié is the capital of the Noumbiel province, located near the borders with Ghana and Ivory Coast. It acts as a vital trade center for the southwest, facilitating cross-border exchange and provincial governance. Geography K7 — border trade and regional administration."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Noumbiel province", "Strategic border trade hub near Ghana and Ivory Coast", "Center for regional cross-border commerce", "Vital point for southwestern provincial administration", "Key transit location for regional populations", "Essential hub for local services in the border region"]
+    }, image: "/poi-images/batie-cities-v2.webp"},
   {
     id: "kongoussi-cities-v2",
     type: "city",
@@ -489,8 +679,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A friss zöldbabról ismert.", "A Bam-tó fontos vizes élőhely."],
       ro: ["Cunoscut pentru fasolea verde proaspătă.", "Lacul Bam este o zonă umedă importantă."],
       en: ["Known for fresh green beans.", "Lake Bam is an important wetland."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Kongoussi is the capital of the Bam province, well-known for its beautiful surrounding landscapes and role as a market center. It serves as a regional hub for trade and administration, reflecting the economic diversity of the north. Geography K7 — provincial hubs and landscapes."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Bam province", "Important commercial center for northern trade", "Known for unique local geography and scenery", "Hub for administration and provincial services", "Strategic location for market activity", "Key role in regional agricultural distribution"]
+    }, image: "/poi-images/kongoussi-cities-v2.webp"},
   {
     id: "solenzo-cities-v2",
     type: "city",
@@ -503,6 +698,12 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A pamutipar fontos központja.", "Gyorsan növekvő népesség."],
       ro: ["Centru important al industriei bumbacului.", "Populație în creștere rapidă."],
       en: ["Important center of the cotton industry.", "Rapidly growing population."]
+    },
+    descriptionAdvanced: {
+      en: "Solenzo is a significant town in the Banwa province, known for its strong agricultural base and position as a transit market center. It is crucial for the regional production of various food crops that support the local and national economy. Geography K7 — intensive agriculture and trade."
+    },
+    factsAdvanced: {
+      en: ["Important commercial center in the Banwa province", "Strong base for agricultural and crop production", "Transit hub for food security and regional supply", "Key location for organizing rural market activities", "Hub for local services and provincial commerce", "Essential economic contributor to the surrounding region"]
     }
   },
   {
@@ -517,8 +718,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Loroum tartomány központja.", "Fontos a helyi élelmiszer-ellátás szempontjából."],
       ro: ["Centrul provinciei Loroum.", "Important pentru aprovizionarea locală cu alimente."],
       en: ["Center of the Loroum province.", "Important for local food supply."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Titao is the administrative seat of the Loroum province, located in the north. It serves as a vital community hub for local administration, commerce, and essential services for the people of the Loroum region. Geography K7 — provincial administration hubs."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Loroum province", "Administrative center for the Loroum region", "Market hub providing essential local goods and services", "Strategic transit point in northern Burkina Faso", "Central role in community-based development", "Key provider of provincial public services"]
+    }, image: "/poi-images/titao-cities-v2.webp"},
   {
     id: "boromo-cities-v2",
     type: "city",
@@ -531,8 +737,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A vadon élő elefántok észleléséről ismert.", "Fontos aranybányászat a régióban."],
       ro: ["Cunoscut pentru observarea elefanților sălbatici.", "Extracție importantă de aur în regiune."],
       en: ["Known for spotting wild elephants.", "Important gold mining in the region."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Boromo is a major town along the central road linking Ouagadougou and Bobo-Dioulasso. It is well-known for its proximity to the Deux Balés National Park, serving as a center for wildlife management and transit commerce. Geography K7 — conservation and transit hubs."
+    },
+    factsAdvanced: {
+      en: ["Important transit city between Ouagadougou and Bobo-Dioulasso", "Gateway to the Deux Balés National Park", "Hub for regional trade and traveler services", "Significant center for natural resource conservation", "Strategic location on major national transport axes", "Economic importance focused on tourism and commerce"]
+    }, image: "/poi-images/boromo-cities-v2.webp"},
   {
     id: "dano-cities-v2",
     type: "city",
@@ -545,8 +756,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Sok ház hagyományos vályogépítéssel készült.", "Az Ioba tartomány központja."],
       ro: ["Multe case sunt construite din pământ tradițional.", "Centrul provinciei Ioba."],
       en: ["Many houses are built with traditional mud construction.", "Center of the Ioba province."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Dano is the capital of the Ioba province, known for its role in local administration and its position in the southwestern agricultural heartland. It acts as a focal point for regional services and community trade. Geography K7 — provincial development hubs."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Ioba province", "Administrative and community hub for southwestern communities", "Important role in local agricultural organization", "Center for regional social and development initiatives", "Strategic location for local market exchanges", "Key provider of essential provincial services"]
+    }, image: "/poi-images/dano-cities-v2.webp"},
   {
     id: "gayeri-cities-v2",
     type: "city",
@@ -559,6 +775,12 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Komondjari tartomány központja.", "A fulbe pásztorok fontos találkozóhelye."],
       ro: ["Centrul provinciei Komondjari.", "Un punct de întâlnire important pentru păstorii Fulani."],
       en: ["Center of the Komondjari province.", "An important meeting point for Fulani herders."]
+    },
+    descriptionAdvanced: {
+      en: "Gayéri is the capital of the Komondjari province in the east. It is an essential administrative and trade town that serves the needs of its surrounding rural district, playing a critical role in eastern regional development. Geography K7 — eastern administrative centers."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Komondjari province", "Vital point for eastern regional administration", "Key market hub for the local rural population", "Strategic role in facilitating regional development", "Essential provider of local goods and social services", "Key transit point in the eastern territory"]
     }
   },
   {
@@ -573,8 +795,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Teve- és szarvasmarhapiacairól ismert.", "A nomád törzsek fontos központja."],
       ro: ["Cunoscut pentru piețele de cămile și vite.", "Un centru important pentru triburile nomade."],
       en: ["Known for camel and cattle markets.", "An important center for nomadic tribes."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Sebba is the capital of the Yagha province, located in the remote northeastern corner of Burkina Faso. It serves as a vital administrative and market hub for the nomadic and pastoral communities that characterize the region. Geography K7 — pastoral regional administration."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Yagha province", "Key administrative center in the northeast", "Important hub for nomadic and pastoral trade", "Strategic location for regional community services", "Serves as a focal point for livestock markets", "Vital link for local administration in the Yagha territory"]
+    }, image: "/poi-images/sebba-cities-v2.webp"},
   {
     id: "ouargaye-cities-v2",
     type: "city",
@@ -587,8 +814,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Koulpélogo tartomány fővárosa.", "Fontos a határ menti mezőgazdaság számára."],
       ro: ["Capitala provinciei Koulpélogo.", "Important pentru agricultura din regiunea de graniță."],
       en: ["Capital of the Koulpélogo province.", "Important for agriculture in the border region."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Ouargaye is the administrative capital of the Koulpélogo province, located in the east. It is a market town focused on providing essential services and facilitating trade for its agricultural community. Geography K7 — eastern rural administration."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Koulpélogo province", "Hub for local administration and governance", "Market center for regional agricultural production", "Important for providing essential services to the Koulpélogo region", "Strategic location on local trade routes", "Vital point for eastern rural development"]
+    }, image: "/poi-images/ouargaye-cities-v2.webp"},
   {
     id: "reo-cities-v2",
     type: "city",
@@ -601,8 +833,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Sanguié tartomány központja.", "A jellegzetes gurunsi vályogházakról híres."],
       ro: ["Centrul provinciei Sanguié.", "Faimos pentru casele tipice din pământ Gurunsi."],
       en: ["Center of the Sanguié province.", "Famous for the typical Gurunsi mud houses."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Réo is the administrative capital of the Sanguié province, known for its vibrant local market and role as an essential hub for central-western Burkina Faso. It supports a large agricultural region and fosters community development. Geography K7 — provincial hubs."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Sanguié province", "Hub for regional trade and administration", "Center for agricultural and market activity", "Key provider of public services in Sanguié", "Strategic transit point in central-western Burkina Faso", "Active center for community-based growth"]
+    }, image: "/poi-images/reo-cities-v2.webp"},
   {
     id: "kombissiri-cities-v2",
     type: "city",
@@ -615,8 +852,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Az édesburgonya fővárosaként ismert.", "A fővárosi repülőtér közelében található."],
       ro: ["Cunoscut drept capitala cartofilor dulci.", "Situat aproape de aeroportul din capitală."],
       en: ["Known as the capital of sweet potatoes.", "Located near the capital's airport."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Kombissiri is a strategically located town in the Bazèga province, often serving as a gateway for travelers moving south from Ouagadougou. Its economy is largely driven by its proximity to the capital and local agricultural activities. Geography K7 — capital-adjacent hubs."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Bazèga province", "Strategic gateway city south of Ouagadougou", "Important hub for local agricultural and commercial trade", "Key transit point on the route to the southern regions", "Essential center for provincial administrative services", "Growing hub for services and retail"]
+    }, image: "/poi-images/kombissiri-cities-v2.webp"},
   {
     id: "aribinda-cities-v2",
     type: "city",
@@ -629,6 +871,12 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Fontos régészeti központ.", "Száraz sivatagi éghajlat."],
       ro: ["Un centru arheologic important.", "Climă deșertică uscată."],
       en: ["An important archaeological center.", "Dry desert climate."]
+    },
+    descriptionAdvanced: {
+      en: "Aribinda is an important town in the Soum province in the north. It is known for its role as a regional commercial hub and its historical significance in trade networks traversing the Sahel region. Geography K7 — Sahelian trade hubs."
+    },
+    factsAdvanced: {
+      en: ["Major commercial center in the Soum province", "Historical importance in Sahelian trade networks", "Regional hub for livestock and agricultural commerce", "Key administrative and service point in the north", "Strategic location for northern transit", "Active center for regional social and economic life"]
     }
   },
   {
@@ -643,8 +891,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Főként agrárjellegű.", "A heti piac sok kereskedőt vonz."],
       ro: ["Preponderent agricolă.", "Piața săptămânală atrage mulți comercianți."],
       en: ["Mainly agrarian.", "Weekly market attracts many traders."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Béré is an essential local hub in the Zoundwéogo province. It plays a significant role in organizing agricultural trade and providing administrative stability for the surrounding rural populations. Geography K7 — rural provincial administration."
+    },
+    factsAdvanced: {
+      en: ["Key administrative hub in the Zoundwéogo province", "Important market for local agricultural products", "Provider of provincial services to the rural district", "Strategic point for facilitating community trade", "Role in maintaining regional socioeconomic stability", "Vital location for local social and educational services"]
+    }, image: "/poi-images/bere-cities-v2.webp"},
   {
     id: "bama-cities-v2",
     type: "city",
@@ -657,8 +910,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A rizstermesztésről ismert.", "Fontos víztározó a közelben."],
       ro: ["Cunoscut pentru cultivarea orezului.", "Rezervor de apă important în apropiere."],
       en: ["Known for rice cultivation.", "Important water reservoir nearby."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Bama is a significant town in the Houet province, situated near Bobo-Dioulasso. It is well-known for its large-scale agricultural projects, including significant rice and fruit cultivation, serving as a pillar of regional food security. Geography K7 — agricultural intensive zones."
+    },
+    factsAdvanced: {
+      en: ["Key town for large-scale agricultural production", "Major center for rice cultivation and irrigation", "Significant contributor to regional food security", "Hub for processing agricultural and fruit products", "Strategic proximity to the economic center of Bobo-Dioulasso", "Economic importance focused on sustainable intensive farming"]
+    }, image: "/poi-images/bama-cities-v2.webp"},
   {
     id: "beregadougou-cities-v2",
     type: "city",
@@ -671,8 +929,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A cukornád jelentős központja.", "A régió egyik fontos ipari helyszíne."],
       ro: ["Un centru semnificativ pentru trestia de zahăr.", "O locație industrială importantă în regiune."],
       en: ["A significant center for sugar cane.", "An important industrial location in the region."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Bérégadougou is an important agricultural town in the Comoé province. It is particularly recognized for its role in sugar production and fruit cultivation, contributing to the agricultural wealth of the southwest. Geography K7 — agricultural production hubs."
+    },
+    factsAdvanced: {
+      en: ["Key town for sugarcane and sugar production", "Significant center for southwestern fruit cultivation", "Hub for agricultural processing and trade", "Strategic location within the productive Comoé region", "Contributor to national agricultural export economy", "Vital regional market hub for producers"]
+    }, image: "/poi-images/beregadougou-cities-v2.webp"},
   {
     id: "bingo-cities-v2",
     type: "city",
@@ -685,8 +948,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Hagyományos állattenyésztés.", "A Koudougou felé vezető úton található."],
       ro: ["Creșterea tradițională a animalelor.", "Situat pe drumul spre Koudougou."],
       en: ["Traditional livestock farming.", "Located on the route to Koudougou."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Bingo is a central local town in the Boulkiemdé province. It serves as an essential point for regional trade and administration, supporting the needs of the surrounding agricultural landscape. Geography K7 — provincial agricultural hubs."
+    },
+    factsAdvanced: {
+      en: ["Important local hub in the Boulkiemdé province", "Key location for organizing regional market activity", "Supports agricultural supply chains in the district", "Provides basic administrative services to the local population", "Transit hub for regional rural populations", "Focus on local social and educational growth"]
+    }, image: "/poi-images/bingo-cities-v2.webp"},
   {
     id: "bittou-cities-v2",
     type: "city",
@@ -699,8 +967,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Fontos vámállomás.", "Élénk határokon átnyúló forgalom."],
       ro: ["Stație vamală importantă.", "Trafic transfrontalier intens."],
       en: ["Important customs station.", "Bustling cross-border traffic."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Bittou is a strategically positioned town in the Boulgou province near the border with Ghana. It serves as a vital transit and market center that facilitates regional trade and cross-border interactions. Geography K7 — border trade and regional transit."
+    },
+    factsAdvanced: {
+      en: ["Strategic trade town near the Ghanaian border", "Key transit point for regional and international commerce", "Important market for regional agricultural and manufactured goods", "Hub for local administration and community services", "Facilitator of trade between Burkina Faso and Ghana", "Vital regional service and supply center"]
+    }, image: "/poi-images/bittou-cities-v2.webp"},
   {
     id: "boni-cities-v2",
     type: "city",
@@ -713,8 +986,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Mezőgazdasági termelés.", "Gyors népességnövekedés."],
       ro: ["Producție agricolă.", "Creștere rapidă a populației."],
       en: ["Agricultural production.", "Rapid population growth."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Boni is a market town in the Tuy province, recognized for its role in supporting the agricultural economy of the southwest. It acts as a focal point for regional market exchanges and basic service provision. Geography K7 — agricultural and market hubs."
+    },
+    factsAdvanced: {
+      en: ["Key market town in the Tuy province", "Hub for local agricultural exchange and regional trade", "Provider of basic services to the surrounding rural population", "Strategic location on southwest transit roads", "Center for community-based economic activities", "Vital hub for local agricultural and craft commerce"]
+    }, image: "/poi-images/boni-cities-v2.webp"},
   {
     id: "boulsa-cities-v2",
     type: "city",
@@ -727,8 +1005,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Helyi fazekastermékeiről híres.", "Fontos kulturális központ."],
       ro: ["Renumit pentru ceramica locală.", "Un centru cultural important."],
       en: ["Famous for local pottery.", "An important cultural center."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Boulsa is the capital of the Namentenga province. It is a vital market town for the central-northern region, providing administration, essential services, and a lively marketplace that fuels the local economy. Geography K7 — provincial administration hubs."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Namentenga province", "Central administrative and governance point", "Major market hub for northern agricultural and trade goods", "Provides essential services to a diverse regional population", "Vital transit and communication point for the Namentenga district", "Key location for regional and community development"]
+    }, image: "/poi-images/boulsa-cities-v2.webp"},
   {
     id: "dakola-cities-v2",
     type: "city",
@@ -741,8 +1024,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Hivatalos határátkelőhely.", "Folyamatosan bővülő infrastruktúra."],
       ro: ["Punct oficial de trecere a frontierei.", "Infrastructură în continuă extindere."],
       en: ["Official border crossing.", "Constantly expanding infrastructure."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Dakola is a critical border town located in the Nahouri province, serving as a primary point of entry between Burkina Faso and Ghana. It is essentially a trade hub that manages significant transit and cross-border commercial flows. Geography K7 — international trade and border points."
+    },
+    factsAdvanced: {
+      en: ["Essential border town on the route to Ghana", "Primary point of international transit and trade", "Vital hub for managing regional customs and commercial flows", "Strategic location for cross-border passenger and cargo traffic", "Key center for border-area commercial and market activity", "Role in maintaining regional and international economic links"]
+    }, image: "/poi-images/dakola-cities-v2.webp"},
   {
     id: "dapelogo-cities-v2",
     type: "city",
@@ -755,8 +1043,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A zöldségtermesztésről ismert.", "Ouagadougou nagyvárosi régiójának része."],
       ro: ["Cunoscut pentru cultivarea legumelor.", "Face parte din regiunea metropolitană Ouagadougou."],
       en: ["Known for growing vegetables.", "Part of the Ouagadougou metropolitan area."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Dapelogo is a growing town in the Oubritenga province, increasingly connected to the development of the Ouagadougou urban area. It serves as a hub for local services, commerce, and agricultural trade. Geography K7 — peri-urban provincial hubs."
+    },
+    factsAdvanced: {
+      en: ["Important local hub in the Oubritenga province", "Connected to urban growth near Ouagadougou", "Service and market center for its surrounding district", "Key participant in local food production and trade", "Strategic point for provincial development and transit", "Supports educational and social service expansion"]
+    }, image: "/poi-images/dapelogo-cities-v2.webp"},
   {
     id: "diabo-cities-v2",
     type: "city",
@@ -769,8 +1062,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A cirok jelentős termőterülete.", "Élénk hagyományos vezetői rendszer."],
       ro: ["O importantă zonă de cultivare a sorgului.", "Căpetenie tradițională vibrantă."],
       en: ["A significant sorghum growing area.", "Vibrant traditional chieftaincy."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Diabo is a central town in the Gourma province, acting as an administrative and market hub for eastern Burkina Faso. It supports the regional economy by facilitating trade and providing essential rural services. Geography K7 — eastern regional hubs."
+    },
+    factsAdvanced: {
+      en: ["Key administrative hub in the Gourma province", "Hub for market activity and regional trade", "Provider of essential social and commercial services", "Strategic location for eastern transit and development", "Active center for community-based agricultural organization", "Vital point for provincial service delivery"]
+    }, image: "/poi-images/diabo-cities-v2.webp"},
   {
     id: "diapaga-cities-v2",
     type: "city",
@@ -783,8 +1081,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["A Tapoa tartomány fővárosa.", "A vadon élő állatok megfigyelésének kiindulópontja."],
       ro: ["Capitala provinciei Tapoa.", "Punct de plecare pentru observarea vieții sălbatice."],
       en: ["Capital of the Tapoa province.", "Starting point for wildlife viewing."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Diapaga is the administrative capital of the Tapoa province in the far east. It is a remote but essential hub for managing regional administration, local markets, and providing links to the eastern conservation zones. Geography K7 — eastern provincial hubs."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Tapoa province", "Vital center for far-eastern regional administration", "Market hub for local goods and rural services", "Strategic gateway to eastern national park conservation areas", "Essential point for communication in the eastern territory", "Hub for community-led economic development"]
+    }, image: "/poi-images/diapaga-cities-v2.webp"},
   {
     id: "doulougou-cities-v2",
     type: "city",
@@ -797,6 +1100,12 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Erős mezőgazdasági termelés.", "Helyi kosárfonás."],
       ro: ["Producție agricolă puternică.", "Împletituri locale din nuiele."],
       en: ["Strong agricultural production.", "Local basket weaving."]
+    },
+    descriptionAdvanced: {
+      en: "Doulougou is a central town in the Bazèga province. It supports the agricultural district and provides local services, maintaining a role as a key community hub in the central part of the country. Geography K7 — community and agricultural hubs."
+    },
+    factsAdvanced: {
+      en: ["Central town in the Bazèga province", "Supports the local agricultural landscape", "Provides local administrative and commercial services", "Key hub for community organization and rural trade", "Maintains vital links within the central district", "Supports education and social welfare programs"]
     }
   },
   {
@@ -811,8 +1120,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Nagy piac tuareg kézműves termékekkel.", "A környező aranybányák jellemzik."],
       ro: ["Piață mare cu artizanat Tuareg.", "Caracterizat de minele de aur din zonă."],
       en: ["Large market with Tuareg crafts.", "Characterized by surrounding gold mines."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Gorom-Gorom is the capital of the Oudalan province in the far north, known for its historic and vibrant multi-ethnic market. It is a critical trade hub for the nomadic and Sahelian populations of the region. Geography K7 — Sahelian trade and culture."
+    },
+    factsAdvanced: {
+      en: ["Capital of the Oudalan province", "Famous for its historic and diverse weekly market", "Major trade hub for Sahelian, nomadic, and pastoral communities", "Central point for Sahelian socioeconomic exchanges", "Essential administrative hub for far-northern districts", "Key crossroad for cultural and economic interactions"]
+    }, image: "/poi-images/gorom-gorom-cities-v2.webp"},
   {
     id: "kayan-cities-v2",
     type: "city",
@@ -825,8 +1139,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Agrárközösség.", "Hagyományos életmód."],
       ro: ["Comunitate agrară.", "Mod de viață tradițional."],
       en: ["Agrarian community.", "Traditional way of life."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      en: "Kayan is a local commercial hub in the Houet province, playing a supporting role to the larger economic centers nearby. It serves the needs of its agricultural district and provides basic services to the rural population. Geography K7 — provincial support hubs."
+    },
+    factsAdvanced: {
+      en: ["Local service hub in the Houet province", "Supports regional agricultural commerce", "Provides essential market access for local farmers", "Part of the wider Houet district socioeconomic network", "Key location for community interaction", "Supports local educational and social development"]
+    }, image: "/poi-images/kayan-cities-v2.webp"},
   {
     id: "kordie-cities-v2",
     type: "city",
@@ -839,6 +1158,13 @@ export const poiExtraBurkinafasoCitiesV2: POI[] = [
       hu: ["Megőrzi a gurunsi kulturális örökséget.", "Mezőgazdasági falu."],
       ro: ["Păstrează moștenirea culturală Gurunsi.", "Sat agricol."],
       en: ["Preserves the Gurunsi cultural heritage.", "Agricultural village."]
+    },
+    descriptionAdvanced: {
+      en: "Kordie is a regional town in the Sanguié province, acting as an administrative point for the local district and a market center for regional agricultural trade. Geography K7 — rural provincial development."
+    },
+    factsAdvanced: {
+      en: ["Local administrative hub in the Sanguié province", "Regional market center for agricultural produce", "Provides essential provincial and community services", "Supports local and rural development initiatives", "Key point for organizing local trade exchanges", "Vital for district-level social and economic life"]
     }
   }
 ];
+

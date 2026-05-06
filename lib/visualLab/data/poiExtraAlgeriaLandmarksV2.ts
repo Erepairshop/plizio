@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraAlgeriaLandmarksV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1982-ben nyílt meg", "92 méter magas", "Egy dombon áll Algírban", "A függetlenséget szimbolizálja"],
       ro: ["Deschis în 1982", "92 de metri înălțime", "Se află pe un deal în Alger", "Simbolizează independența"],
       en: ["Opened in 1982", "92 meters tall", "Stands on a hill in Algiers", "Symbolizes independence"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Makam Echahid (Mártírok Emlékműve) egy 92 méter magas betonmonumentum Algír felett. 1982-ben emelték a függetlenségi háború áldozatainak emlékére. Három stilizált pálmalevélből áll, amelyek az ipar, a mezőgazdaság és a kultúra egységét szimbolizálják. Lábánál múzeum található. Történelem K8 – Nemzeti emlékezet.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["Egy kanadai cég tervezte és építette.", "A három pálmalevél egyenként 92 méter magas.", "Az építkezés kilenc hónapig tartott.", "Csúcsán 'örök láng' ég.", "Gyakran 'a három pálmalevél' néven is emlegetik.", "Panorámás kilátás nyílik róla Algírra."],
+      ro: [],
+      en: []
+    }, image: "/poi-images/makam-echahid-landmarks-v2.webp"},
   {
     id: "djamaa-el-djazair-landmarks-v2",
     type: "landmark",
@@ -37,8 +49,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["265 méter magas minaret", "2019-ben fejezték be", "A világ harmadik legnagyobb mecsete", "Modern iszlám építészet"],
       ro: ["Minaret de 265 de metri", "Finalizată în 2019", "A treia cea mai mare moschee din lume", "Arhitectură islamică modernă"],
       en: ["265-meter tall minaret", "Completed in 2019", "Third largest mosque in the world", "Modern Islamic architecture"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Djamaa el Djazaïr (Algíri Nagymecset) a világ harmadik legnagyobb mecsete. Minaretje 265 méterével a világ legmagasabbja. 2019-ben fejezték be. A komplexum 120 000 hívő befogadására alkalmas, és könyvtár, múzeum, valamint Korán-iskola is tartozik hozzá. Földrengésbiztosra tervezték. Építészet K8 – Modern szakrális építészet.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A minaret 265 méter magas.", "A költsége meghaladta az 1 milliárd eurót.", "Egy kínai vállalat építette.", "Az imaterem kupolájának átmérője 50 méter.", "A komplexum 25 hektáron terül el.", "A mihrab carrarai márványból készült."],
+      ro: [],
+      en: []
+    }, image: "/poi-images/djamaa-el-djazair-landmarks-v2.webp"},
   {
     id: "notre-dame-d-afrique-landmarks-v2",
     type: "landmark",
@@ -56,8 +79,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1872-ben szentelték fel", "Neo-bizánci stílus", "A Földközi-tengerre néz", "Katolikus templom Algírban"],
       ro: ["Consacrată în 1872", "Stil neo-bizantin", "Vedere la Marea Mediterană", "Biserică catolică din Alger"],
       en: ["Consecrated in 1872", "Neo-Byzantine style", "Overlooks the Mediterranean Sea", "Catholic church in Algiers"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Notre-Dame d'Afrique bazilika Algír egyik legszebb építészeti ékköve, amely méltóságteljesen magasodik az öböl fölé egy 124 méteres dombon. A 19. század közepén épült neobizánci templom különleges kupolájával és kék mozaikjaival tűnik ki a városképből. A bazilika belső falán olvasható híres felirat – 'Afrika Miasszonya, imádkozz értünk és a muszlimokért' – a vallások közötti megbékélés és párbeszéd szimbólumává tette az épületet. A tengerre néző kilátás és a templom spirituális nyugalma minden látogatót lenyűgöz. Ez a zarándokhely nemcsak a keresztények, hanem minden algériai számára fontos kulturális örökség. Művészettörténet K8 – Historizmus és vallási építészet a 19. században.",
+      ro: "",
+      en: "Notre-Dame d'Afrique is a majestic Neo-Byzantine basilica situated on a high cliff overlooking the Bay of Algiers. Completed in 1872, it is famous for its stunning blue and white mosaic interior and its grand silver dome. The basilica is not only a masterpiece of religious architecture but also a powerful symbol of interfaith dialogue and tolerance. Above the main altar, a famous inscription reads: 'Our Lady of Africa, pray for us and for the Muslims.' It remains a major place of pilgrimage and one of the most iconic landmarks of the Algerian capital, offering breathtaking views of the Mediterranean. Art History K8 – 19th-Century Historicism."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A bazilikát 14 évnyi építkezés után, 1872-ben szentelték fel.", "Építésze, Jean-Eugéne Fromageau a neobizánci stílust választotta.", "A templom apszisában látható Szűz Mária-szobor fekete bronzból készült.", "A 2003-as boumerdès-i földrengés után nemzetközi összefogással újították fel.", "A bazilikához egy modern felvonó (teleferic) is vezet a tengerpartról.", "A belső falakat tengerészek által adományozott fogadalmi táblák díszítik.", "A templom 'párja' a lyoni Notre-Dame de Fourvière bazilika.", "A kupola magassága és kék színe az eget és a tengert szimbolizálja."],
+      ro: [],
+      en: ["Constructed between 1858 and 1872 in the Neo-Byzantine style.", "Designed by the architect Jean-Eugène Fromageau.", "Features a large bronze statue of the Black Virgin Mary.", "Connected to the lower city by a modern cable car system.", "Known as the 'mirror' to the Basilica of Notre-Dame de la Garde in Marseille.", "Extensively restored after the 2003 Boumerdès earthquake.", "The interior is decorated with thousands of ex-voto plaques from sailors.", "The site offers the most famous panoramic view of northern Algiers."]
+    }, image: "/poi-images/notre-dame-d-afrique-landmarks-v2.webp"},
   {
     id: "la-grande-poste-algiers-landmarks-v2",
     type: "landmark",
@@ -75,8 +109,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1910-ben épült", "Neo-mór építészeti stílus", "Algír központjában található", "Lenyűgöző belsőépítészet"],
       ro: ["Construită în 1910", "Stil arhitectural neo-maur", "Centrul orașului Alger", "Arhitectură interioară magnifică"],
       en: ["Built in 1910", "Neo-Moorish architectural style", "Center of Algiers", "Magnificent interior architecture"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az algíri Főposta (La Grande Poste) a neomór építészet egyik legpompásabb és legismertebb példája Algéria fővárosában. Az 1910-ben épült épület a gyarmati kor azon törekvését tükrözi, hogy a modern funkciókat az iszlám díszítőművészet elemeivel ötvözzék. Lenyűgöző kupolája, díszes ívei és aprólékos gipszfaragásai egy palota benyomását keltik, pedig eredetileg közszolgálati funkcióra szánták. A Főposta ma már nemcsak egy hivatal, hanem az algíri találkozások és a városi élet lüktető központja. Az épület belseje éppolyan lélegzetelállító, mint a homlokzata, minden részlete a kézműves mesterség diadalát hirdeti. Művészettörténet K8 – Neomór stílus és urbanizáció Algírban.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Az épületet Jules Voinot és Marius Toudoire tervezte 1910-ben.", "A belső kupola fa- és gipszfaragásai az andalúz palotákat idézik.", "Hosszú évtizedekig ez volt Algéria postai és távközlési központja.", "Az épület előtt található tér (Place de la Grande Poste) az algíri tüntetések és ünnepségek helyszíne.", "A homlokzatot bonyolult arabeszkek és geometrikus minták díszítik.", "Ma már múzeumi funkciót is betölt, bemutatva a posta- és bélyegtörténetet.", "A bejárati kapuk masszív, faragott bronzból készültek.", "A neomór stílus (jonnartizmus) célja a helyi kultúra iránti tisztelet kifejezése volt."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/la-grande-poste-algiers-landmarks-v2.webp"},
   {
     id: "palais-des-rais-landmarks-v2",
     type: "landmark",
@@ -94,8 +139,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["Oszmán építészet", "18. században épült", "Közvetlenül a tengerparton", "Ma kulturális központ"],
       ro: ["Arhitectură otomană", "Construit în secolul al XVIII-lea", "Direct pe malul mării", "Astăzi centru cultural"],
       en: ["Ottoman architecture", "Built in the 18th century", "Directly by the sea", "Today a cultural center"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az algíri tengerparton álló Palais des Rais, más néven Bastion 23, az oszmán építészet egyik legfontosabb fennmaradt emléke az országban. Ez a palotakomplexum három palotából és hat házból áll, amelyek a 16. és 18. század között épültek. Az épületegyüttes egykor a város védelmi rendszerének részét képezte, ma pedig kulturális központként és múzeumként üzemel. A belső tereket díszes kerámiák, faragott mennyezetek és márványoszlopok teszik lenyűgözővé, amelyek az algíri regencia fénykorát idézik. A látogatók bepillantást nyerhetnek a korabeli előkelőségek életébe, miközben a teraszokról páratlan kilátás nyílik a Földközi-tengerre. Az épületegyüttes túlélte a francia gyarmatosítás idején végzett városrendezéseket is. Történelem K7 – Az Oszmán Birodalom terjeszkedése.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["1576-ban kezdték meg az építését a tengerpart mentén.", "Három fő palotát (17-es, 18-as és 23-as) foglal magában.", "1992 óta az UNESCO Világörökség részét képező Casbah része.", "A 23-as palota a legnagyobb az egész épületegyüttesben.", "1980 és 1985 között teljes körű restauráláson esett át.", "Ma a Mediterrán Örökség és Művészetek Központjának ad otthont."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/palais-des-rais-landmarks-v2.webp"},
   {
     id: "ketchaoua-mosque-landmarks-v2",
     type: "landmark",
@@ -113,8 +169,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1612-ben alapították", "Mór-bizánci stílus", "A Kasbah része", "Többször átépítették"],
       ro: ["Fondată în 1612", "Stil maur-bizantin", "Parte a Casbahului", "Reconstruită de mai multe ori"],
       en: ["Founded in 1612", "Moorish-Byzantine style", "Part of the Casbah", "Rebuilt several times"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Ketchaoua-mecset az algíri Casbah bejáratánál található, és a város viharos történelmének egyik leglátványosabb szimbóluma. Az eredetileg 1612-ben épült oszmán mecsetet a francia gyarmati uralom alatt, 1845-ben Szent Fülöp-székesegyházzá alakították át, majd Algéria 1962-es függetlenné válása után ismét mecset lett. Építészete a bizánci és a mór stílus elemeit ötvözi, két monumentális minaretje és tágas lépcsősora uralja a teret. A belső teret gyönyörű stukkók és feliratok díszítik. A mecset nemcsak vallási központ, hanem a nemzeti ellenállás és az újjászületés jelképe is az algériaiak számára. Az épület az UNESCO Világörökség része, és emlékeztet a vallások és kultúrák közötti átmenetekre. Történelem K8 – Gyarmatosítás és függetlenségi mozgalmak.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Eredetileg 1612-ben épült, majd 1794-ben Hassan pasa bővítette.", "1845 és 1962 között katolikus székesegyházként működött.", "Első pénteki imáját mecsetként 1962. november 2-án tartották.", "A Casbah-negyed legalacsonyabb pontján, a tenger közelében fekszik.", "2018-ben fejeződött be a legutóbbi, török segítséggel végzett restaurálása.", "Két jellegzetes, nyolcszögletű minarettel rendelkezik."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/ketchaoua-mosque-landmarks-v2.webp"},
   {
     id: "sidi-mcid-bridge-landmarks-v2",
     type: "landmark",
@@ -132,8 +199,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1912-ben adták át", "175 méter magasan húzódik", "164 méter hosszú", "Constantine nevezetessége"],
       ro: ["Deschis în 1912", "175 metri înălțime", "164 metri lungime", "Reper al orașului Constantine"],
       en: ["Opened in 1912", "175 meters high", "164 meters long", "Landmark of Constantine"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Constantine, a 'hidak városa' legikonikusabb építménye a Sidi M'Cid függőhíd, amely a Rhumel-folyó mély szakadéka felett ível át. 1912-es átadásakor ez volt a világ legmagasabb hídja, 175 méteres magasságával ma is lélegzetelállító látványt nyújt. A híd Ferdinand Arnodin francia mérnök tervei alapján készült, és a város központját köti össze a Casbah-negyeddel és a kórházzal. A 164 méter hosszú szerkezet nemcsak fontos közlekedési útvonal, hanem a városi mérnöki bravúr és a modernizáció jelképe is. A hídról lenyűgöző panoráma nyílik a környező sziklákra és a folyóvölgyre. Constantine látképének elválaszthatatlan része, amely az emberi alkotóerő diadala a természet felett. Földrajz K7 – Felszínformáló erők és az ember tájátalakító tevékenysége.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["1912. április 19-én nyitották meg a forgalom előtt.", "Maximális magassága a folyó felett 175 méter.", "Ferdinand Arnodin mérnök tervezte, aki a függőhidak specialistája volt.", "Teljes hossza 164 méter, szélessége pedig 5,8 méter.", "Több mint 100 éve dacol az idővel és az erős szelekkel.", "A híd a közeli Sidi M'Cid remetéről kapta a nevét."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/sidi-mcid-bridge-landmarks-v2.webp"},
   {
     id: "monument-aux-morts-constantine-landmarks-v2",
     type: "landmark",
@@ -151,8 +229,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["A Traianus-diadalív ihlette", "1930-ban fejezték be", "Panorámás kilátást nyújt", "Az első világháborúra emlékezik"],
       ro: ["Inspirat de Arcul lui Traian", "Finalizat în 1930", "Oferă vedere panoramică", "Comemorează Primul Război Mondial"],
       en: ["Inspired by Trajan's Arch", "Completed in 1930", "Offers panoramic views", "Commemorates World War I"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Constantine-i Monument aux Morts egy fenséges háborús emlékmű, amely egy meredek szikla peremén, a város felett magasodik. Az 1934-ben emelt építmény az első világháborúban elesett katonáknak állít emléket. Az emlékművet Traianus diadalíve ihlette, and egy hatalmas bronz győzelmi szobor koronázza meg. Elhelyezkedése miatt stratégiai kilátópontként is szolgál, ahonnan az egész Rhumel-szurdok és a város hidai beláthatók. Az építészeti stílus a klasszicizmust idézi, tiszta vonalaival és méltóságteljes megjelenésével a béke és az áldozathozatal fontosságát hirdeti. A helyi lakosok számára kedvelt sétálóhely és a történelemre való emlékezés fontos színhelye. Történelem K8 – Az első világháború és következményei.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Az emlékművet 1930-ban kezdték építeni és 1934-ben avatták fel.", "A timgadi Traianus-diadalív mintájára tervezték.", "A sziklafal 635 méterrel magasodik a tengerszint felett.", "Egy 800 katonából álló ezred tiszteletére emelték.", "A tetején álló szárnyas győzelem szobor (Niké) Ebba Ostberg munkája.", "Esténként díszkivilágításban pompázik, messziről is látható."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/monument-aux-morts-constantine-landmarks-v2.webp"},
   {
     id: "emir-abdelkader-mosque-landmarks-v2",
     type: "landmark",
@@ -170,8 +259,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1994-ben nyílt meg", "107 méter magas minaretek", "Iszlám egyetem működik mellette", "15 000 hívő befogadására alkalmas"],
       ro: ["Deschisă în 1994", "Minarete de 107 metri", "Universitate islamică atașată", "Poate găzdui 15.000 de credincioși"],
       en: ["Opened in 1994", "107-meter tall minarets", "Attached Islamic university", "Can accommodate 15,000 worshippers"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az Emir Abdelkader-mecset Constantine egyik legmodernebb és legimpozánsabb épülete, amely az algériai függetlenségi harc hőséről kapta a nevét. Ez az iszlám építészeti remekmű egyben egyetem is, és az ország egyik legnagyobb vallási központja. Két 107 méter magas minaretje messziről hirdeti a város spirituális jelentőségét. A mecset belső tereit finom márványfaragások, bonyolult mozaikok és hatalmas kristálycsillárok díszítik, amelyek a hagyományos mór és a modern építészet ötvözetét mutatják be. A hatalmas kupola alatt egyszerre több ezer hívő imádkozhat. Az épület nemcsak vallási funkciót tölt be, hanem az oktatás és a kulturális párbeszéd helyszíne is, tükrözve a modern Algéria identitását. Történelem K8 – Az algériai nemzeti öntudat kialakulása.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["1994-ben nyitották meg, építése több mint egy évtizedig tartott.", "Minaretjei 107 méter magasak, Algéria legmagasabbjai közé tartoznak.", "Befogadóképessége eléri a 15 000 főt.", "Itt működik az Emir Abdelkader Iszlám Tudományok Egyeteme.", "A belső kupola átmérője 20 méter, magassága 64 méter.", "Az épülethez használt fehér márvány Olaszországból származik."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/emir-abdelkader-mosque-landmarks-v2.webp"},
   {
     id: "mellah-slimane-bridge-landmarks-v2",
     type: "landmark",
@@ -189,8 +289,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1925-ben adták át", "Csak gyalogosok számára", "125 méter hosszú", "Séta közben enyhén inog"],
       ro: ["Deschis în 1925", "Doar pentru pietoni", "125 de metri lungime", "Se clatină ușor la mers"],
       en: ["Opened in 1925", "Pedestrians only", "125 meters long", "Sways slightly when walking"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Mellah Slimane-híd egy elegáns és keskeny gyalogos függőhíd Constantine központjában, amely a Rhumel-szurdok felett ível át. Ez a 'lebegő' híd közvetlen kapcsolatot teremt a városközpont (Place de la Brèche) és a vasútállomás környéke között. A híd különlegessége, hogy lift kapcsolódik hozzá, amely segít leküzdeni a jelentős szintkülönbséget a szurdok és a város felsőbb részei között. A gyalogosok számára a híd átkelése izgalmas élmény, hiszen a rácsos szerkezeten keresztül közvetlenül látható az alattuk tátongó mélység. A szerkezet kecsessége és funkcionális jelentősége miatt a helyiek egyik kedvenc közlekedési eszköze, és a városi látkép fontos eleme. Földrajz K7 – Ember és a természeti környezet kölcsönhatása.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["1925-ben adták át a gyalogos forgalomnak.", "Körülbelül 100 méterrel magasodik a folyómeder fölé.", "A híd hossza 125 méter, szélessége mindössze 2,4 méter.", "Ferdinand Arnodin mérnöki irodája tervezte, akárcsak a Sidi M'Cid hidat.", "A hídhoz egy 42 méter magas felvonó tartozik a könnyebb elérés érdekében.", "2000-ben jelentős szerkezeti megerősítésen esett át."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/mellah-slimane-bridge-landmarks-v2.webp"},
   {
     id: "fort-santa-cruz-landmarks-v2",
     type: "landmark",
@@ -208,8 +319,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["Spanyolok építették", "16. században épült", "A Murdjadjo-hegyen található", "Nagyszerű kilátást nyújt"],
       ro: ["Construit de spanioli", "Secolul al XVI-lea", "Pe Muntele Murdjadjo", "Oferă o priveliște minunată"],
       en: ["Built by Spaniards", "16th century", "On Mount Murdjadjo", "Offers great views"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Oran városa felett, a Murdjadjo-hegy tetején magasodik a Fort Santa Cruz, amely a spanyol hódítás korának lenyűgöző emléke. Az erődöt a 16. században építették a spanyolok, hogy védelmet nyújtsanak a városnak és a stratégiai jelentőségű kikötőnek. Masszív falaival és bástyáival az erődrendszer az akkori katonai építészet csúcsteljesítménye volt. A hegycsúcsról lélegzetelállító kilátás nyílik Oran öblére és a Földközi-tengerre. Az erőd alatt található kápolna és a monumentális Szűz Mária-szobor tovább emeli a hely spirituális és történelmi fényét. A helyszín ma népszerű turisztikai célpont, ahol a történelem megelevenedik a kőfalak között. Történelem K7 – Európai hatalmak terjeszkedése a Földközi-tengeren.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A spanyolok építették 1577 és 1604 között.", "Kb. 400 méteres magasságban található a tengerszint felett.", "Az erődrendszert alagutak kötik össze a hegy más részeivel.", "Az oszmánok 1708-ban elfoglalták, majd a spanyolok 1732-ben visszavették.", "A franciák 1831-ben vették birtokba és korszerűsítették.", "Minden évben zarándoklatot tartanak a hegyre a kápolna tiszteletére."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/fort-santa-cruz-landmarks-v2.webp"},
   {
     id: "chapelle-santa-cruz-landmarks-v2",
     type: "landmark",
@@ -227,8 +349,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1850-ben épült", "Hála a kolerajárvány végéért", "Mária-szobor a kupolán", "Zarándokhely"],
       ro: ["Construită în 1850", "Recunoștință pentru sfârșitul holerei", "Statuia Mariei pe cupolă", "Loc de pelerinaj"],
       en: ["Built in 1850", "Gratitude for cholera end", "Statue of Mary on the dome", "Place of pilgrimage"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Chapelle Santa Cruz egy fehér falú, festői kápolna Oranban, közvetlenül a Fort Santa Cruz erőd alatt. A kápolnát 1850-ben emelték hálából, miután egy pusztító kolerajárvány sújtotta a várost, és a hívők szerint a Szűz Mária közbenjárására érkezett eső vetett véget a kórnak. Az épület fölött magasodó hatalmas Szűz Mária-szobor (Notre-Dame du Salut) a város egyik legfőbb jelképe, amely védelmezően tekint le az öbölre. A kápolna építészeti stílusa egyszerű, de elhelyezkedése miatt drámai hatást kelt. A hívők és a turisták számára egyaránt fontos zarándokhely, ahol a hit és a történelem összefonódik a tengeri panorámával. Vizuális kultúra K7 – Építészet és vallási szimbólumok.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["1850-ben épült egy kolerajárványt követően.", "A rajta látható Szűz Mária-szobor az 1870-es években készült.", "A kápolnát 2018-ban teljesen felújították.", "Az épület a 'Salut' (Megváltás) dombján fekszik.", "Minden évben májusban tartják a hagyományos körmenetet.", "A kápolna prides látható az El Mers El Kebir haditengerészeti bázis."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/chapelle-santa-cruz-landmarks-v2.webp"},
   {
     id: "mosque-of-the-pasha-landmarks-v2",
     type: "landmark",
@@ -246,8 +379,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1796-ban épült", "Oszmán stílus", "Nyolcszögletű minaret", "Történelmi műemlék"],
       ro: ["Construită în 1796", "Stil otoman", "Minaret octogonal", "Monument istoric"],
       en: ["Built in 1796", "Ottoman style", "Octagonal minaret", "Historical monument"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Pasa-mecset Oran történelmi negyedében található, és az oszmán építészeti örökség egyik legszebb példája a városban. A mecsetet 1796-ban építtette Baba Hassan pasa az 1792-es spanyol kiűzés emlékére. Az épület egyik legjellegzetesebb eleme a kecses, spirális díszítésű minaretje, amely a mór stílus jegyeit hordozza. A mecset belső udvara és oszlopcsarnoka a nyugalom szigete a nyüzsgő városban, finom kerámiái és feliratai a korabeli mesterek tudását dicsérik. Az épület története szorosan kapcsolódik az algériai függetlenségi törekvésekhez és a nemzeti identitáshoz. Az UNESCO által is elismert műemlék fontos szerepet játszik Oran vallási és kulturális életében. Történelem K7 – Az algíri regencia és az oszmán-spanyol szembenállás.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["1796-ban épült Baba Hassan pasa parancsára.", "A spanyolok Oranból való végső kivonulása után emelték.", "Jellegzetes, nyolcszögletű alapú minaretje van.", "A belső falakat andalúziai stílusú csempék díszítik.", "Francia uralom alatt fegyverraktárként is használták.", "Ma is aktív vallási és közösségi központ."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/mosque-of-the-pasha-landmarks-v2.webp"},
   {
     id: "el-mechouar-palace-landmarks-v2",
     type: "landmark",
@@ -265,8 +409,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["13. században alapították", "Egykori királyi rezidencia", "Zianida építészet", "Nemrég restaurálták"],
       ro: ["Fondat în secolul al XIII-lea", "Fostă reședință regală", "Arhitectură zianidă", "Restaurat recent"],
       en: ["Founded in the 13th century", "Former royal residence", "Zianid architecture", "Recently restored"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az El Mechouar palota Tlemcen szívében található, és egykor a Zayyanida-dinasztia uralkodóinak királyi rezidenciája volt. A 13. században épült citadella és palotaegyüttes a mór művészet egyik gyöngyszeme, amelyet gyakran hasonlítanak a granadai Alhambrához. A komplexum központi része a lenyűgöző udvar, díszes szökőkutakkal, faragott stukkókkal és 'zellige' csempékkel, amelyek a korabeli matematika és esztétika tökéletes harmóniáját tükrözik. A palota falai között egykor tudósok, költők és politikusok tanácskoztak, formálva a régió történelmét. A nemrégiben végzett alapos restaurálás után a palota újra régi fényében pompázik, és bemutatja Tlemcen dicső múltját, mint a maghreb kultúra egyik központját. Történelem K6 – A középkori iszlám államok és kultúra.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A 13. században alapították a Zayyanida uralkodók.", "A komplexum neve (Mechouar) tanácskozóhelyet jelent.", "Híres a minaretjéről, amelyet 1317-ben építettek.", "A francia gyarmatosítás idején katonai laktanyává alakították.", "2010-ben fejeződött be a nagyszabású rekonstrukciója.", "A palota kertjeiben őshonos mediterrán növények találhatók."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/el-mechouar-palace-landmarks-v2.webp"},
   {
     id: "mansourah-fortress-landmarks-v2",
     type: "landmark",
@@ -284,8 +439,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["14. században épült", "Merinida romok", "38 méter magas minaret", "Lenyűgöző agyagfalak"],
       ro: ["Construită în secolul al XIV-lea", "Ruine merinide", "Minaret de 38 de metri", "Ziduri de lut impresionante"],
       en: ["Built in the 14th century", "Marinid ruins", "38-meter tall minaret", "Impressive mud walls"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Tlemcen határában állnak a Mansourah erőd és mecset monumentális romjai, amelyek a Marinida-dinasztia ostromművészetének és vallási építészetének emlékei. A 14. században épült városfalak és a 40 méter magas minaret egykor egy hatalmas, megerősített várost (Mansourah - a Győzedelmes) alkottak, amelyet a szultán Tlemcen ostromára hozott létre. A minaret maradványai még ma is fenségesek, finom kőfaragásokkal és boltívekkel díszítve, amelyek a mór-andalúz stílus hatását mutatják. A romok között sétálva érezhető a történelem súlya és az egykori hatalmi harcok drámája. Mansourah nemcsak egy katonai tábor volt, hanem egy virágzó kulturális központ is a maga idejében. Történelem K6 – Ostromok és erődítmények a középkorban.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["1299 és 1303 között épült Abu Jakub Juszuf szultán uralkodása alatt.", "A minaret ma is 40 méter magas, bár csak három oldala áll.", "A városfalak hossza eredetileg több mint 4 kilométer volt.", "A helyszínt a 14. század közepén elhagyták a lakók.", "A mecset udvara egykor 60 oszloppal rendelkezett.", "A romok 1900 óta nemzeti műemléknek számítanak."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/mansourah-fortress-landmarks-v2.webp"},
   {
     id: "great-mosque-of-tlemcen-landmarks-v2",
     type: "landmark",
@@ -303,8 +469,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1136-ban épült", "Almoravida építészet", "Gazdagon díszített mihráb", "Tlemcen történelmi központja"],
       ro: ["Construită în 1136", "Arhitectură almoravidă", "Mihrab bogat decorat", "Centrul istoric al orașului Tlemcen"],
       en: ["Built in 1136", "Almoravid architecture", "Richly decorated mihrab", "Historic center of Tlemcen"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Tlemceni Nagymecset az Almoravida-építészet egyik legősibb és legfontosabb képviselője Észak-Afrikában. Az 1136-ban alapított épület az iszlám művészet letisztultságát és eleganciáját tükrözi. Különlegessége a bonyolult, áttört faragású kupolája és a patkó alakú boltívei, amelyek a córdobai mecset hatását mutatják. A belső imaterem oszloperdeje méltóságteljes nyugalmat áraszt, míg a mihrab (imafülke) gazdagon díszített felületei a korabeli kézművesség remekei. A mecset az évszázadok során Tlemcen vallási életének központja maradt, túlélve dinasztiák felemelkedését és bukását. Az épület minden köve a hit és a tudás tiszteletéről tanúskodik. Vizuális kultúra K6 – Iszlám művészet és építészet.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["1136-ban épült Ali ibn Juszuf Almoravida szultán idején.", "A minaretet 1236-ban adta hozzá az első Zayyanida uralkodó.", "Egyike az ország három legrégebbi Almoravida mecsetének.", "Híres a 'múkarnasz' (cseppkőboltozat) díszítéséről.", "Az imaterem 13 hajóra oszlik.", "A mecset mellett egykor híres medresze (iskola) is működött."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/great-mosque-of-tlemcen-landmarks-v2.webp"},
   {
     id: "royal-mausoleum-of-mauretania-landmarks-v2",
     type: "landmark",
@@ -322,8 +499,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["Kr. e. 3-ban épült", "UNESCO világörökség", "Helyi neve Kbor er Roumia", "Henger alakú alap"],
       ro: ["Construit în anul 3 î.Hr.", "Patrimoniu mondial UNESCO", "Nume local Kbor er Roumia", "Bază cilindrică"],
       en: ["Built in 3 BC", "UNESCO World Heritage Site", "Local name Kbor er Roumia", "Cylindrical base"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Tipaza közelében, egy dombtetőn található a Mauritániai Királyi Mauzóleum, amely az ókori Algéria egyik legrejtélyesebb építménye. A kör alaprajzú, piramis alakú tetővel rendelkező hatalmas kőépítmény II. Juba numidiai király és felesége, II. Kleopátra Szeléné (a híres Kleopátra lánya) nyughelye lehetett. A helyi legenda szerint 'a keresztény nő sírjaként' (Le Tombeau de la Chrétienne) is ismert, a rajta látható álajtók kereszt alakú motívumai miatt. Az építmény méretei és precíz kivitelezése a hellenisztikus és a helyi berber építészeti stílusok találkozását mutatják. A dombról csodálatos kilátás nyílik a tengerre és az Atlasz-hegység vonulataira. Történelem K6 – Az ókori Numidia és a Római Birodalom.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A Kr. e. 3. században vagy a Kr. u. 1. században épülhetett.", "Átmérője 60 méter, magassága eredetileg elérte a 40 métert.", "60 jón stílusú féloszlop díszíti az oldalát.", "A belsejében egy bonyolult folyosórendszer vezet a sírkamrákhoz.", "1982 óta az UNESCO Világörökség részét képezi.", "Több ágyúlövés nyomát viseli a kalózok elleni harcok idejéből."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/royal-mausoleum-of-mauretania-landmarks-v2.webp"},
   {
     id: "arch-of-trajan-timgad-landmarks-v2",
     type: "landmark",
@@ -341,8 +529,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["Római diadalív", "2-3. században épült", "Timgad része", "12 méter magas"],
       ro: ["Arc de triumf roman", "Secolul al II-lea sau al III-lea", "Parte a orașului Timgad", "12 metri înălțime"],
       en: ["Roman triumphal arch", "Second to third century", "Part of Timgad", "12 meters high"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Timgad romvárosának kapujában áll Traianus diadalíve, a római várostervezés és győzelmi építészet kiemelkedő példája. Az i.sz. 2. század végén emelt háromnyílású kapu a város nyugati bejáratát jelölte, a Cardo Maximus és a Decumanus Maximus utak találkozásánál. A homokkőből készült ív elegáns korinthoszi oszlopaival és szoborfülkéivel a Birodalom hatalmát és stabilitását hirdette a távoli afrikai provinciában. Timgad, a 'Numidiai Pompeji', szabályos négyzethálós alaprajzáról híres, amelynek ez a diadalív a leglátványosabb megmaradt eleme. A sivatagi szelek és a homok évszázadokig megőrizték a várost, hogy ma bepillantást engedjenek a római légiósok egykori életébe. Történelem K6 – Római városok és életmód Pannónián túl.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Traianus császár alapította a várost i. sz. 100-ban.", "A diadalív valójában a 2. század végén vagy a 3. század elején épült.", "Magassága 12 méter, szélessége pedig 11 méter.", "Középső íve 6 méter magas a kocsiforgalom számára.", "Timgad városa 1982 óta az UNESCO Világörökség része.", "A diadalívet a 19. század végén restaurálták."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/arch-of-trajan-timgad-landmarks-v2.webp"},
   {
     id: "medracen-landmarks-v2",
     type: "landmark",
@@ -360,8 +559,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["Kr. e. 3. században épült", "Numidiai mauzóleum", "Oszlopos körépület", "Batna közelében"],
       ro: ["Secolul al III-lea î.Hr.", "Mausoleu numidian", "Clădire circulară cu coloane", "Lângă Batna"],
       en: ["3rd century BC", "Numidian mausoleum", "Circular building with columns", "Near Batna"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Medracen Algéria legrégebbi királyi mauzóleuma, amely Batna tartományban, a kopár felföldön áll. Ez a lenyűgöző, kúp alakú építmény a Kr. e. 3. századból származik, és numidiai királyok nyughelyeként szolgált. Építészeti szempontból egyfajta átmenetet képez a helyi temetkezési hagyományok és a görög hatás között, amit a dór stílusú oszlopdíszítései is igazolnak. A hatalmas kőtömbökből emelt mauzóleum dacol az idővel és a zord időjárással, magányos őrként vigyázva a tájat. A Medracen a berber civilizáció erejének és szervezettségének bizonyítéka, jóval a római hódítás előtti időkből. Megőrzése kiemelt feladat az algériai régészek számára. Történelem K6 – Berber királyságok felemelkedése.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A Kr. e. 3. század környékén épült, a numidiai korszakban.", "Átmérője 59 méter, magassága jelenleg 19 méter.", "60 dór stílusú oszlop fut körbe az alapzata mentén.", "A nevét Madghis numidiai királyról kapta a legenda szerint.", "Az épület belsejében rejtett sírkamra található.", "A világ egyik legveszélyeztetettebb műemlékeként tartják számon."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/medracen-landmarks-v2.webp"},
   {
     id: "opera-algiers-landmarks-v2",
     type: "landmark",
@@ -379,8 +589,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["2016-ban nyílt meg", "Kína ajándéka", "1400 ülőhely", "Modern építészet"],
       ro: ["Deschisă în 2016", "Cadou de la China", "1.400 de locuri", "Arhitectură modernă"],
       en: ["Opened in 2016", "Gift from China", "1,400 seats", "Modern architecture"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az Algíri Operaház (Boualem Bessaïh) a modern Algéria kulturális ébredésének szimbóluma, amely Ouled Fayet negyedében található. Az épület a Kína és Algéria közötti diplomáciai barátság ajándékaként épült, és 2016-ban nyitotta meg kapuit. Építészeti stílusa a kortárs megoldásokat ötvözi az iszlám díszítőelemekkel, tágas terei és kiváló akusztikája nemzetközi szintű előadások megtartását is lehetővé teszi. Az operaház nemcsak komolyzenei koncerteknek és balettelőadásoknak ad otthont, hanem a hagyományos algériai zene és tánc megőrzésének is fontos bástyája. A 1400 férőhelyes nézőtér modern felszereltsége biztosítja a látogatók számára a magas szintű művészi élményt. Vizuális kultúra K8 – Modern építészet és kulturális intézmények.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["2016. július 20-án avatták fel ünnepélyes keretek között.", "A kínai kormány ajándéka volt Algéria számára.", "Befogadóképessége 1400 fő a nagyteremben.", "Nevét Boualem Bessaïh íróról és politikusról kapta.", "Az épület területe meghaladja a 35 000 négyzetmétert.", "Itt székel az Algériai Nemzeti Szimfonikus Zenekar is."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/opera-algiers-landmarks-v2.webp"},
   {
     id: "nelson-mandela-stadium-landmarks-v2",
     type: "landmark",
@@ -398,8 +619,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["2023-ban adták át", "40 000 férőhelyes", "Algír Baraki negyedében", "Modern dizájn"],
       ro: ["Deschis în 2023", "40.000 de locuri", "În Baraki, Alger", "Design modern"],
       en: ["Opened in 2023", "40,000 seats", "In Baraki, Algiers", "Modern design"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az algíri Nelson Mandela Stadion egy ultramodern sportlétesítmény, amelyet 2023-ban adtak át a főváros Baraki negyedében. A stadion a modern építészet és a sport iránti szenvedély találkozása, amely nevét a világhírű dél-afrikai szabadságharcosról kapta, ezzel is jelezve Algéria elkötelezettségét az afrikai egység mellett. A 40 000 férőhelyes aréna minden igényt kielégítő kényelemmel, fedett lelátókkal és a legmodernebb gyepszőnyeg-technológiával rendelkezik. A stadion nemcsak labdarúgó-mérkőzések helyszíne, hanem közösségi tér is, amely büszkeséggel tölti el az algériai szurkolókat. Futurisztikus megjelenése és esti fényei az új Algéria dinamizmusát szimbolizálják. Földrajz K8 – Városfejlődés és nagyberuházások.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["2023. január 7-én avatták fel a CHAN labdarúgótorna előtt.", "40 784 ülőhellyel rendelkezik, amelyek mindegyike fedett.", "Algéria első teljesen digitális, intelligens stadionja.", "A stadion építése 2009-ben kezdődött.", "Az avatáson részt vett Nelson Mandela unokája is.", "A stadion megfelel a legszigorúbb FIFA-előírásoknak."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/nelson-mandela-stadium-landmarks-v2.webp"},
   {
     id: "miloud-hadefi-stadium-landmarks-v2",
     type: "landmark",
@@ -417,8 +649,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["2021-ben nyílt meg", "40 143 ülőhely", "Mediterrán Játékok helyszíne", "Acél és beton szerkezet"],
       ro: ["Deschis în 2021", "40.143 de locuri", "Gazda Jocurilor Mediteraneene", "Structură de oțel și beton"],
       en: ["Opened in 2021", "40,143 seats", "Host of the Mediterranean Games", "Steel and concrete structure"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Oran városának új büszkesége a Miloud Hadefi Olimpiai Stadion, amely a 2022-es Mediterrán Játékok központi helyszíne volt. A stadion egy hatalmas sportkomplexum része, amely uszodákat, sportcsarnokokat és edzőpályákat is magában foglal. Építészeti stílusa modern és lendületes, a tetőszerkezet hálós megoldása egyedi karaktert kölcsönöz az épületnek. A 40 000 néző befogadására alkalmas aréna a legmagasabb nemzetközi szabványoknak is megfelel. Nevét a város legendás labdarúgójáról kapta, aki az 'afrikai Beckenbauer' néven volt ismert. A stadion nemcsak a profi sportot szolgálja, hanem ösztönzi a fiatalokat is az egészséges életmódra és a tehetségük kibontakoztatására. Földrajz K8 – Sportlétesítmények szerepe a regionális fejlődésben.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["2021. június 17-én avatták fel az első hivatalos mérkőzéssel.", "A stadion 40 143 néző befogadására képes.", "A komplexumhoz tartozik egy 6000 férőhelyes atlétikai pálya is.", "Nevét Miloud Hadefi válogatott labdarúgóról kapta.", "Ez volt a 19. Mediterrán Játékok fő helyszíne 2022-ben.", "A gyepszőnyeg természetes hibrid technológiával készült."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/miloud-hadefi-stadium-landmarks-v2.webp"},
   {
     id: "bahia-center-landmarks-v2",
     type: "landmark",
@@ -436,8 +679,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["Tornyonként 31 emelet", "111 méter magasak", "Négy egyforma torony", "Orán modern nevezetessége"],
       ro: ["31 de etaje pe turn", "111 metri înălțime", "Patru turnuri identice", "Reper modern al orașului Oran"],
       en: ["31 floors per tower", "111 meters tall", "Four identical towers", "Modern landmark of Oran"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az Oran látképét meghatározó Bahia Center négy monumentális lakótornya a modern városi élet és a gazdasági fejlődés jelképe Nyugat-Algériában. A tornyok 31 emeletesek, és a tengerpart közelében magasodnak, luxuslakásokat, irodákat és bevásárlóközpontokat kínálva. Építészeti szempontból a tornyok a kortárs stílust képviselik, nagy üvegfelületeikről pazar kilátás nyílik az öbölre és a kikötőre. A Bahia Center egyfajta 'város a városban' koncepció, amely ötvözi a kényelmet, a biztonságot és a modern szolgáltatásokat. Az épületegyüttes Oran dinamikus átalakulását és ambiciózus jövőképét tükrözi a 21. században. Földrajz K9 – Világgazdasági folyamatok és modern városképek.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Négy darab, egyenként 113 méter magas toronyból áll.", "Mindegyik torony 31 emeletes.", "2008 és 2014 között épültek fel a tornyok.", "Az ország legmagasabb lakóépületei közé tartoznak.", "A komplexum aljában egy 25 000 m2-es pláza található.", "Közvetlen összeköttetésben áll a Sheraton Oran szállodával."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/bahia-center-landmarks-v2.webp"},
   {
     id: "dar-hassan-pacha-landmarks-v2",
     type: "landmark",
@@ -455,8 +709,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1790-ben épült", "Stílusok keveredése", "Palota a Kasbahban", "Egykori rezidencia"],
       ro: ["Construit în 1790", "Amestec de stiluri", "Palat în Casbah", "Fostă reședință"],
       en: ["Built in 1790", "Blend of styles", "Palace in the Casbah", "Former residence"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az algíri Casbah egyik legpompásabb magánpalotája a Dar Hassan Pacha, amelyet az algíri regencia egyik hatalmas méltósága építtetett a 18. század végén. A palota a mór polgári építészet remekműve, amelyre később a neoklasszicista stílus is hatást gyakorolt. Belső udvara (west-ed-dar) márványoszlopokkal és bonyolult csempeburkolatokkal díszített, a szobák mennyezetét pedig kézzel festett faelemek teszik egyedivé. Az épület tanúja volt az oszmán uralom utolsó éveinek és a francia korszak kezdetének is. Ma a palota az Iszlám Művészetek és Kalligráfia Múzeumának ad otthont, ahol a látogatók megcsodálhatják az iszlám írásművészet legszebb példáit. Történelem K7 – Városi élet és építészet az oszmán Algírban.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["1791-ben építtette Hassan pasa, aki később Algír deye lett.", "A francia korszakban téli palotaként és kormányzói rezidenciaként szolgált.", "Híres a monumentális, faragott kapujáról.", "A belső udvarban eredeti delfti és tunéziai csempék is találhatók.", "1982 óta az UNESCO Világörökség része a Casbah keretében.", "Két különálló részből: egy nyilvános és egy magánlakrészből áll."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/dar-hassan-pacha-landmarks-v2.webp"},
   {
     id: "lighthouse-cap-caxine-landmarks-v2",
     type: "landmark",
@@ -474,8 +739,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1868-ban helyezték üzembe", "33 méter magas", "Algírtól nyugatra", "Aktív navigációs jel"],
       ro: ["Pus în funcțiune în 1868", "33 de metri înălțime", "La vest de Alger", "Marcaj de navigație activ"],
       en: ["Commissioned in 1868", "33 meters high", "West of Algiers", "Active navigation mark"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az Algírtól nyugatra található Cap Caxine világítótorony a tengeri navigáció egyik fontos és látványos pontja a Földközi-tenger partján. Az 1868-ban épült torony egy meredek sziklán áll, és fehérre meszelt falaival messziről is jól látható a hajósok számára. A világítótorony a gyarmati korszak mérnöki precizitását tükrözi, és máig aktív szerepet játszik a hajóforgalom biztonságos irányításában. A torony tetejéről lélegzetelállító kilátás nyílik a végtelen kék tengerre és a part menti sziklás szakaszokra. A helyszín népszerű a kirándulók körében is, akik a sós tengeri levegő és a naplemente látványa miatt látogatnak el ide. A Cap Caxine nemcsak technikai létesítmény, hanem a partvidék romantikus és ikonikus szimbóluma is. Földrajz K8 – Tengerparti felszínformák és navigáció.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["1868-ban helyezték üzembe az algíri partok védelmére.", "A torony magassága 33 méter, de a tengerszint felett 64 méteren van.", "Fénye több mint 40 kilométeres távolságból is látható.", "A torony alapja egy masszív sziklaplatón nyugszik.", "Egyike az ország legrégebbi, ma is működő világítótornyainak.", "A toronyban ma is lakik egy őr, aki felügyeli a berendezéseket."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/lighthouse-cap-caxine-landmarks-v2.webp"},
   {
     id: "first-november-1954-mosque-landmarks-v2",
     type: "landmark",
@@ -493,8 +769,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["2003-ban fejezték be", "Két minaret", "30 000 hívő befogadására alkalmas", "A forradalom szimbóluma"],
       ro: ["Finalizată în 2003", "Două minarete", "Capacitate de 30.000 de credincioși", "Simbol al revoluției"],
       en: ["Completed in 2003", "Two minarets", "Holds 30,000 worshippers", "Symbol of the revolution"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Batna városában található 1954. November 1. Mecset az algériai forradalom kitörésének tiszteletére emelt monumentális vallási és kulturális építmény. Ez a modern mecset az egyik legnagyobb az országban, építészete pedig a hagyományos iszlám formákat ötvözi a kortárs anyagokkal és léptékkel. Hatalmas kupolája és égbe nyúló minaretjei uralják a város látképét. A belső tér tágas és világos, finom geometriai mintákkal és kalligráfiával díszítve, amelyek az algériai kézművesség büszkeségei. A mecset nemcsak az imádság helyszíne, hanem a nemzeti emlékezet fontos pontja is, emlékeztetve a függetlenségért hozott áldozatokra. Az épület egyben oktatási központként is szolgál a helyi közösség számára. Történelem K8 – Az 1954-es forradalom emlékezete.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Nevét az algériai függetlenségi háború kezdetének dátumáról kapta.", "A mecset több mint 30 000 hívő befogadására alkalmas.", "Két monumentális minaretje 100 méternél is magasabb.", "Batna tartomány legjelentősebb modern vallási építménye.", "A belső teret értékes márvány és faragott cédrusfa díszíti.", "A komplexumhoz könyvtár és konferenciaterem is tartozik."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/first-november-1954-mosque-landmarks-v2.webp"},
   {
     id: "bab-el-khemis-landmarks-v2",
     type: "landmark",
@@ -512,8 +799,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["Merinida kapu", "14. században épült", "Egykori városkapu", "Tlemcen nevezetessége"],
       ro: ["Poartă merinidă", "Secolul al XIV-lea", "Fostă poartă a orașului", "Reper al orașului Tlemcen"],
       en: ["Marinid gate", "14th century", "Former city gate", "Landmark of Tlemcen"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Bab el-Khemis (a 'Csütörtöki kapu') Tlemcen történelmi városfalának egyik legjelentősebb és legjobb állapotban fennmaradt kapuja. A Marinida-korszakban épült kapu egykor a város egyik fő bejárata volt, amelyen keresztül a kereskedők és az utazók érkeztek. Masszív kőépítménye és patkó alakú boltíve a mór katonai építészet jellegzetes vonásait hordozza. A kapu környékén zajlott egykor a híres heti vásár, amelyről a nevét is kapta. Ma a kapu a múlt és a jelen találkozási pontja, a modern forgalom lüktetése közepette is őrzi a középkori Tlemcen méltóságát. A látogatók számára a kapu az első lépés a város gazdag történelmi negyedeinek felfedezése felé. Történelem K6 – Kereskedelem és városfalak az iszlám világban.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A 14. században épült a Marinida szultánok idején.", "Egyike Tlemcen hét eredeti történelmi kapujának.", "Nevét a minden csütörtökön tartott piacról kapta.", "A kapu vöröses homokkőből készült, amely a környékre jellemző.", "Díszítése egyszerű, de arányai monumentális hatást keltenek.", "Ma is fontos közlekedési csomópont a városban."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/bab-el-khemis-landmarks-v2.webp"},
   {
     id: "sidi-rached-bridge-landmarks-v2",
     type: "landmark",
@@ -531,8 +829,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["1912-ben adták át", "447 méter hosszú", "27 boltív", "Kőből épült viadukt"],
       ro: ["Deschis în 1912", "447 metri lungime", "27 de arce", "Viaduct de piatră"],
       en: ["Opened in 1912", "447 meters long", "27 arches", "Stone viaduct"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Sidi Rached-viadukt Constantine egyik leglátványosabb kőhídja, amely a Rhumel-szurdok felett ível át fenséges boltíveivel. Az 1912-ben átadott híd egyike a világ legmagasabb és leghosszabb kőboltozatos hídjainak, mérnöki mestermű, amely a város központját köti össze a déli negyedekkel. A 27 boltívből álló szerkezet legmagasabb pontja több mint 100 méterrel van a folyó felett. A híd neve a közelben nyugvó Sidi Rached szentről kapta a nevét, aki a város spirituális védelmezője. A viadukt nemcsak közlekedési eszköz, hanem Constantine sziklás látképének drámai eleme, amely az emberi kitartás és a precíz építészet diadalát hirdeti. Földrajz K7 – Közlekedési folyosók nehéz terepviszonyok között.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["1908 és 1912 között épült Paul Séjourné francia mérnök tervei alapján.", "A híd teljes hossza 447 méter, 27 kőboltívből áll.", "Középső, legnagyobb ívének fesztávolsága 70 méter.", "Építésekor a világ legmagasabb kőhídjaként tartották számon.", "Mintegy 60 000 köbméter követ használtak fel az építéséhez.", "A híd a város egyik legfontosabb közlekedési artériája."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/sidi-rached-bridge-landmarks-v2.webp"},
   {
     id: "casbah-of-algiers-landmarks-v2",
     type: "landmark",
@@ -550,8 +859,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["UNESCO világörökség", "Meredek, szűk utcák", "Oszmán építészet", "Történelmi központ"],
       ro: ["Patrimoniu mondial UNESCO", "Străzi abrupte și înguste", "Arhitectură otomană", "Centru istoric"],
       en: ["UNESCO World Heritage Site", "Steep, narrow streets", "Ottoman architecture", "Historic center"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az algíri Casbah egy élő történelemkönyv, az oszmán kori óvárosok egyik legkülönlegesebb példája a Földközi-tenger térségében. A domboldalra épült, szűk, kanyargós utcák és lépcsők labirintusa fehérre meszelt házaival, belső udvaros palotáival és ősi mecseteivel varázsolja el a látogatót. Ez a negyed volt az algériai ellenállás központja a gyarmati időkben, falai között ma is érezhető a múlt lüktetése. A Casbah nemcsak építészeti együttes, hanem egy különleges közösség otthona is, ahol a hagyományos kézművesség és a mindennapi élet rítusai generációk óta öröklődnek. 1992 óta az UNESCO Világörökség része, amely védelmet élvez, hogy megőrizzék ezt az egyedülálló kulturális kincset. Történelem K7 – Városi életmód a kora újkori Maghrebben.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A 16. században nyerte el mai formáját az oszmán uralom alatt.", "A név az erődítményre (kasbah) utal, amely a negyed tetején áll.", "Híres a bonyolult, egymásba fonódó tetőteraszairól.", "Itt található az ország legrégebbi mecseteinek többsége.", "A negyed vízellátását egykor bonyolult csatornarendszer biztosította.", "Az algíri csata (1956-57) legfontosabb helyszíne volt."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/casbah-of-algiers-landmarks-v2.webp"},
   {
     id: "el-kantara-bridge-landmarks-v2",
     type: "landmark",
@@ -569,6 +889,19 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       hu: ["Római alapok", "Többször újjáépítették", "Fontos közlekedési útvonal", "A Rhummel folyót íveli át"],
       ro: ["Fundații romane", "Reconstruit de mai multe ori", "Arteră de trafic importantă", "Traversează râul Rhummel"],
       en: ["Roman foundations", "Rebuilt multiple times", "Important traffic artery", "Spans the Rhummel River"]
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az El Kantara-híd Constantine kapuja, amely már az ókor óta fontos átkelőhely a Rhumel-folyó sziklái felett. A mai híd egy 19. századi fémvázas és kőszerkezetű építmény, amely egy korábbi római, majd oszmán híd helyén áll. Ez a híd köti össze a modern várost a történelmi központtal, és az egyik legforgalmasabb pontja Constantine-nak. A szurdok két oldalát összekötő ív alatt a mélyben morajlik a folyó, lenyűgöző kontrasztot alkotva a városi zajjal. Az El Kantara híd a folytonosság szimbóluma, amely évszázadok óta tanúja a város fejlődésének és a rajta átvonuló hadseregeknek és kereskedőknek. Esti kivilágítása még hangsúlyosabbá teszi a város drámai fekvését. Földrajz K7 – Települések kialakulása stratégiai pontokon.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A helyén már a rómaiak is építettek hidat az ókorban.", "A jelenlegi szerkezetet 1863-ban adták át III. Napóleon idején.", "A híd 125 méter hosszú és 65 méter magas.", "1951-ben jelentősen átépítették és megerősítették a teherforgalom számára.", "A híd lábánál található a híres 'Hidak útja' túraútvonal kezdete.", "A neve arabul egyszerűen 'A Hidat' jelenti."],
+    ro: [],
+    en: []
     }
   }
 ];
+

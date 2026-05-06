@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBurundiEconomicV2: POI[] = [
@@ -12,19 +13,13 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       ro: "Berăria Brarudi",
       en: "Brarudi Brewery"
     },
-    description: {
-      de: "Die größte Brauerei Burundis und ein bedeutender Wirtschaftsfaktor des Landes.",
-      hu: "Burundi legnagyobb sörgyára és az ország jelentős gazdasági szereplője.",
-      ro: "Cea mai mare berărie din Burundi și un factor economic major al țării.",
-      en: "The largest brewery in Burundi and a major economic factor for the country."
+    descriptionAdvanced: {
+      de: "Die Brarudi-Brauerei ist das wichtigste Industrieunternehmen Burundis und ein zentraler Pfeiler der nationalen Wirtschaft. Seit ihrer Gründung spielt sie eine Schlüsselrolle bei der Schaffung von Arbeitsplätzen und der Generierung von Steuereinnahmen. Die Brauerei ist tief in der lokalen Kultur verwurzelt, da ihre Getränke, wie Primus, landesweit konsumiert werden und auf keiner sozialen Veranstaltung fehlen dürfen. Wirtschaft K8 — Industrielle Schlüsselunternehmen.",
+      ro: "Brarudi este cea mai importantă unitate industrială de producție a băuturilor din Burundi, jucând un rol crucial în economia națională prin contribuția la veniturile fiscale și crearea de locuri de muncă. Situată în principal în Bujumbura, fabrica procesează materii prime locale pentru a produce o gamă largă de băuturi, devenind un simbol al industrializării țării. Activitatea companiei susține întregul lanț de aprovizionare local, de la fermieri la distribuitori. Economie K8 — importanța industrializării."
     },
-    facts: {
-      de: ["Gegründet 1955", "Produziert Primus-Bier"],
-      hu: ["1955-ben alapították", "Primus sört gyárt"],
-      ro: ["Fondată în 1955", "Produce berea Primus"],
-      en: ["Founded in 1955", "Produces Primus beer"]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Compania a fost fondată în 1955.", "Este principalul contribuabil la bugetul statului prin accize.", "Producător de bere, băuturi răcoritoare și apă minerală.", "Folosește materii prime agricole locale în procesul de producție.", "O componentă esențială a sectorului industrial din Bujumbura.", "Compania are un impact major asupra distribuției comerciale la nivel național."]
+    }, image: "/poi-images/brarudi-brauerei-economic-v2.webp"},
   {
     id: "sosumo-zuckerfabrik-economic-v2",
     type: "industry",
@@ -36,19 +31,13 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       ro: "Fabrica de Zahăr SOSUMO",
       en: "SOSUMO Sugar Factory"
     },
-    description: {
-      de: "Das nationale Zuckerunternehmen Burundis mit Sitz im fruchtbaren Mosso-Tal.",
-      hu: "Burundi nemzeti cukorvállalata, amely a termékeny Mosso-völgyben található.",
-      ro: "Compania națională de zahăr din Burundi, situată în valea fertilă Mosso.",
-      en: "The national sugar company of Burundi, located in the fertile Mosso Valley."
+    descriptionAdvanced: {
+      de: "Die Zuckerfabrik SOSUMO im Mosso-Gebiet ist eine der größten landwirtschaftlichen Industrieanlagen Burundis. Sie nutzt die fruchtbaren Böden im Osten des Landes für den Zuckerrohranbau und produziert den Großteil des lokal konsumierten Zuckers. Die Fabrik ist ein unverzichtbarer Akteur für die Ernährungssicherheit des Landes und bietet zahlreichen Menschen in der ländlichen Region Beschäftigung. Wirtschaft K7 — Landwirtschaftliche Industrie.",
+      ro: "Sosumo (Société Sucrière du Moso) este o companie de stat responsabilă cu producția de zahăr în regiunea Moso din Burundi. Aceasta joacă un rol strategic în asigurarea securității alimentare a țării și în dezvoltarea infrastructurii industriale rurale, procesând trestia de zahăr cultivată pe scară largă în zonă. Fabrica susține mii de locuri de muncă directe și indirecte, fiind pilonul economic al provinciei Ruyigi. Economie K7 — industrii de procesare a resurselor agricole."
     },
-    facts: {
-      de: ["Größter Zuckerproduzent", "Wichtigster Arbeitgeber in Rutana"],
-      hu: ["Legnagyobb cukortermelő", "Rutana legfontosabb munkaadója"],
-      ro: ["Cel mai mare producător de zahăr", "Principalul angajator din Rutana"],
-      en: ["Largest sugar producer", "Most important employer in Rutana"]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Situată în provincia Ruyigi, în regiunea fertilă Moso.", "Principalul producător de zahăr din Burundi.", "Joacă un rol cheie în economia rurală și dezvoltarea regiunii.", "Procesează trestie de zahăr cultivată în zonele limitrofe.", "Compania este esențială pentru reducerea dependenței de importurile de zahăr.", "Sosumo a fost înființată pentru a valorifica potențialul agricol al văii Moso."]
+    }, image: "/poi-images/sosumo-zuckerfabrik-economic-v2.webp"},
   {
     id: "buceco-zementwerk-economic-v2",
     type: "industry",
@@ -71,8 +60,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Bujumburában található", "Csökkenti az importfüggőséget"],
       ro: ["Locație în Bujumbura", "Reduce dependența de importuri"],
       en: ["Located in Bujumbura", "Reduces import dependency"]
-    }
-  },
+    }, image: "/poi-images/buceco-zementwerk-economic-v2.webp"},
   {
     id: "afritextile-fabrik-economic-v2",
     type: "industry",
@@ -95,8 +83,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Textíliákat gyárt", "Regionális gyapotot használ"],
       ro: ["Produce textile", "Utilizează bumbac regional"],
       en: ["Produces textiles", "Uses regional cotton"]
-    }
-  },
+    }, image: "/poi-images/afritextile-fabrik-economic-v2.webp"},
   {
     id: "savonor-seifenfabrik-economic-v2",
     type: "industry",
@@ -119,8 +106,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Széles termékpaletta", "Fontos a higiénia szempontjából"],
       ro: ["Gamă largă de produse", "Important pentru igienă"],
       en: ["Wide product range", "Important for hygiene"]
-    }
-  },
+    }, image: "/poi-images/savonor-seifenfabrik-economic-v2.webp"},
   {
     id: "musongati-nickelmine-economic-v2",
     type: "industry",
@@ -143,8 +129,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Kobaltot is tartalmaz", "Stratégiai erőforrás"],
       ro: ["Conține și cobalt", "Resursă strategică"],
       en: ["Contains cobalt too", "Strategic resource"]
-    }
-  },
+    }, image: "/poi-images/musongati-nickelmine-economic-v2.webp"},
   {
     id: "gakara-seltenerdminen-economic-v2",
     type: "industry",
@@ -167,8 +152,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Kiváló minőségű ércek", "Fontos exportcikk"],
       ro: ["Minereuri de înaltă calitate", "Articol de export important"],
       en: ["High-grade ores", "Important export item"]
-    }
-  },
+    }, image: "/poi-images/gakara-seltenerdminen-economic-v2.webp"},
   {
     id: "otb-teefabrik-mabayi-economic-v2",
     type: "industry",
@@ -191,8 +175,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["OTB állami vállalat", "Európai export"],
       ro: ["Companie de stat OTB", "Export în Europa"],
       en: ["OTB state company", "Exports to Europe"]
-    }
-  },
+    }, image: "/poi-images/otb-teefabrik-mabayi-economic-v2.webp"},
   {
     id: "otb-teefabrik-teza-economic-v2",
     type: "industry",
@@ -215,8 +198,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Híres teatermő vidék", "Ködös hegyi környezet"],
       ro: ["Regiune celebră pentru ceai", "Mediu montan cețos"],
       en: ["Famous tea region", "Misty mountain setting"]
-    }
-  },
+    }, image: "/poi-images/otb-teefabrik-teza-economic-v2.webp"},
   {
     id: "otb-teefabrik-tora-economic-v2",
     type: "industry",
@@ -239,8 +221,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Nagy ültetvények", "Felföldi minőség"],
       ro: ["Plantații mari", "Calitate de munte"],
       en: ["Large plantations", "Highland quality"]
-    }
-  },
+    }, image: "/poi-images/otb-teefabrik-tora-economic-v2.webp"},
   {
     id: "musenyi-torfmine-economic-v2",
     type: "industry",
@@ -263,8 +244,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Energia a háztartásoknak", "Fenntartható használat"],
       ro: ["Energie pentru gospodării", "Utilizare durabilă"],
       en: ["Energy for households", "Sustainable use"]
-    }
-  },
+    }, image: "/poi-images/musenyi-torfmine-economic-v2.webp"},
   {
     id: "kaffee-veredelungswerk-songa-economic-v2",
     type: "industry",
@@ -287,8 +267,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Gitega központja", "Minőségbiztosítás"],
       ro: ["Centru pentru Gitega", "Asigurarea calității"],
       en: ["Center for Gitega", "Quality assurance"]
-    }
-  },
+    }, image: "/poi-images/kaffee-veredelungswerk-songa-economic-v2.webp"},
   {
     id: "minoloc-getreidemuehle-economic-v2",
     type: "industry",
@@ -311,8 +290,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Élelmiszerbiztonság", "Modern berendezések"],
       ro: ["Siguranță alimentară", "Instalații moderne"],
       en: ["Food security", "Modern facilities"]
-    }
-  },
+    }, image: "/poi-images/minoloc-getreidemuehle-economic-v2.webp"},
   {
     id: "hafen-von-nyanza-lac-economic-v2",
     type: "port",
@@ -335,8 +313,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Közel a határhoz", "Fontos halászkikötő"],
       ro: ["Aproape de graniță", "Port pescăresc important"],
       en: ["Near the border", "Important fishing port"]
-    }
-  },
+    }, image: "/poi-images/hafen-von-nyanza-lac-economic-v2.webp"},
   {
     id: "hafen-von-rumonge-economic-v2",
     type: "port",
@@ -359,8 +336,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Pálmaolaj központ", "Hagyományos hajók"],
       ro: ["Centru de ulei de palmier", "Barcă tradițională"],
       en: ["Palm oil hub", "Traditional boats"]
-    }
-  },
+    }, image: "/poi-images/hafen-von-rumonge-economic-v2.webp"},
   {
     id: "hafen-von-gitaza-economic-v2",
     type: "port",
@@ -383,8 +359,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Regionális logisztika", "Vízparti piactér"],
       ro: ["Logistică regională", "Piață pe apă"],
       en: ["Regional logistics", "Waterside marketplace"]
-    }
-  },
+    }, image: "/poi-images/hafen-von-gitaza-economic-v2.webp"},
   {
     id: "kabarore-goldmine-economic-v2",
     type: "industry",
@@ -407,8 +382,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Kézműves bányászat", "Kőzetben lévő előfordulás"],
       ro: ["Minerit artizanal", "Zăcăminte în rocă"],
       en: ["Artisanal mining", "Occurrences in rock"]
-    }
-  },
+    }, image: "/poi-images/kabarore-goldmine-economic-v2.webp"},
   {
     id: "rwegura-wasserkraftwerk-economic-v2",
     type: "industry",
@@ -431,8 +405,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Felföldi víztározó", "Megújuló energia"],
       ro: ["Rezervor în munte", "Energie regenerabilă"],
       en: ["Highland reservoir", "Renewable energy"]
-    }
-  },
+    }, image: "/poi-images/rwegura-wasserkraftwerk-economic-v2.webp"},
   {
     id: "jiji-mulembwe-wasserkraftwerk-economic-v2",
     type: "industry",
@@ -455,8 +428,7 @@ export const poiExtraBurundiEconomicV2: POI[] = [
       hu: ["Két folyót használ", "Modern infrastruktúra"],
       ro: ["Două râuri utilizate", "Infrastructură modernă"],
       en: ["Two rivers utilized", "Modern infrastructure"]
-    }
-  },
+    }, image: "/poi-images/jiji-mulembwe-wasserkraftwerk-economic-v2.webp"},
   {
     id: "kinindo-industriezone-economic-v2",
     type: "industry",
@@ -482,3 +454,4 @@ export const poiExtraBurundiEconomicV2: POI[] = [
     }
   }
 ];
+

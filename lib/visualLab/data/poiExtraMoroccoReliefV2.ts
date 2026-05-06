@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMoroccoReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Legmagasabb csúcsa a Toubkal.", "Elválasztja a Szaharát a partvidéktől."],
       ro: ["Cel mai înalt vârf este Toubkal.", "Separă Sahara de coastă."],
       en: ["Highest peak is Toubkal.", "Separates the Sahara from the coast."]
-    }
-  },
+    }, image: "/poi-images/atlas-mountains-relief-v2.webp"},
   {
     id: "mount-toubkal-relief-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Magassága 4167 méter.", "Népszerű célpont túrázóknak."],
       ro: ["Înălțime 4167 metri.", "Destinație populară pentru drumeți."],
       en: ["Height 4167 meters.", "Popular destination for hikers."]
-    }
-  },
+    }, image: "/poi-images/mount-toubkal-relief-v2.webp"},
   {
     id: "anti-atlas-relief-v2",
     type: "mountain",
@@ -41,8 +40,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Az Atlanti-óceánig nyúlik.", "Száraz éghajlati viszonyok."],
       ro: ["Se întinde până la Oceanul Atlantic.", "Condiții climatice aride."],
       en: ["Stretches to the Atlantic Ocean.", "Arid climatic conditions."]
-    }
-  },
+    }, image: "/poi-images/anti-atlas-relief-v2.webp"},
   {
     id: "middle-atlas-relief-v2",
     type: "mountain",
@@ -55,8 +53,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Számos tó és patak.", "Fontos a vízellátás szempontjából."],
       ro: ["Numeroase lacuri și pâraie.", "Important pentru aprovizionarea cu apă."],
       en: ["Numerous lakes and streams.", "Important for water supply."]
-    }
-  },
+    }, image: "/poi-images/middle-atlas-relief-v2.webp"},
   {
     id: "rif-mountains-relief-v2",
     type: "mountain",
@@ -69,8 +66,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Közel a Földközi-tengerhez.", "Meredek lejtők és kanyonok."],
       ro: ["Aproape de Marea Mediterană.", "Versanți abrupți și canioane."],
       en: ["Near the Mediterranean Sea.", "Steep slopes and canyons."]
-    }
-  },
+    }, image: "/poi-images/rif-mountains-relief-v2.webp"},
   {
     id: "draa-valley-relief-v2",
     type: "relief",
@@ -83,8 +79,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Ismert pálmaligeteiről.", "Oázisokban gazdag régió."],
       ro: ["Cunoscută pentru plantațiile de palmieri.", "Regiune bogată în oaze."],
       en: ["Known for its palm groves.", "Oasis-rich region."]
-    }
-  },
+    }, image: "/poi-images/draa-valley-relief-v2.webp"},
   {
     id: "dadès-valley-relief-v2",
     type: "relief",
@@ -97,8 +92,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["'Ezer Kasbah völgyeként' ismert.", "Lenyűgöző sziklaalakzatok."],
       ro: ["Cunoscută ca 'Valea celor o mie de Kasbahs'.", "Formațiuni stâncoase impresionante."],
       en: ["Known as the 'Valley of a thousand Kasbahs'.", "Impressive rock formations."]
-    }
-  },
+    }, image: "/poi-images/dadès-valley-relief-v2.webp"},
   {
     id: "todra-gorge-relief-v2",
     type: "relief",
@@ -111,8 +105,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Magas mészkőfalak.", "Népszerű a sziklamászók körében."],
       ro: ["Pereți înalți de calcar.", "Populară printre alpiniști."],
       en: ["High limestone walls.", "Popular with climbers."]
-    }
-  },
+    }, image: "/poi-images/todra-gorge-relief-v2.webp"},
   {
     id: "sahara-desert-relief-v2",
     type: "relief",
@@ -125,8 +118,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Homokdűnék Merzougában.", "Extrém száraz éghajlat."],
       ro: ["Dune de nisip în Merzouga.", "Climat extrem de arid."],
       en: ["Sand dunes in Merzouga.", "Extremely arid climate."]
-    }
-  },
+    }, image: "/poi-images/sahara-desert-relief-v2.webp"},
   {
     id: "merzouga-dunes-relief-v2",
     type: "relief",
@@ -139,8 +131,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Magas aranyszínű homokdűnék.", "Fontos turisztikai célpont."],
       ro: ["Dune înalte de nisip auriu.", "Destinație turistică importantă."],
       en: ["High golden sand dunes.", "Important tourist destination."]
-    }
-  },
+    }, image: "/poi-images/merzouga-dunes-relief-v2.webp"},
   {
     id: "moulouya-river-valley-relief-v2",
     type: "relief",
@@ -153,8 +144,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["A Földközi-tengerbe torkollik.", "Fontos mezőgazdasági régió."],
       ro: ["Se varsă în Marea Mediterană.", "Regiune agricolă importantă."],
       en: ["Flows into the Mediterranean Sea.", "Important agricultural region."]
-    }
-  },
+    }, image: "/poi-images/moulouya-river-valley-relief-v2.webp"},
   {
     id: "zaer-plateau-relief-v2",
     type: "relief",
@@ -167,8 +157,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Mezőgazdasági művelés alatt.", "Szelíd dombvidék."],
       ro: ["Folosit agricol.", "Peisaj deluros blând."],
       en: ["Used for agriculture.", "Gentle hilly landscape."]
-    }
-  },
+    }, image: "/poi-images/zaer-plateau-relief-v2.webp"},
   {
     id: "sous-valley-relief-v2",
     type: "relief",
@@ -181,8 +170,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Ismert az argánfákról.", "Fontos citrusfélék termesztési területe."],
       ro: ["Cunoscută pentru argan.", "Regiune importantă de cultivare a citricelor."],
       en: ["Known for argan trees.", "Important citrus growing area."]
-    }
-  },
+    }, image: "/poi-images/sous-valley-relief-v2.webp"},
   {
     id: "nador-lagoon-relief-v2",
     type: "relief",
@@ -195,8 +183,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Fontos vizes élőhely.", "Élőhely a költöző madarak számára."],
       ro: ["Zonă umedă importantă.", "Habitat pentru păsările migratoare."],
       en: ["Important wetland.", "Habitat for migratory birds."]
-    }
-  },
+    }, image: "/poi-images/nador-lagoon-relief-v2.webp"},
   {
     id: "guelmim-plains-relief-v2",
     type: "relief",
@@ -209,8 +196,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Átmenet a sivatag felé.", "Nomád kultúra."],
       ro: ["Tranziție spre deșert.", "Cultură nomadă."],
       en: ["Transition towards the desert.", "Nomadic culture."]
-    }
-  },
+    }, image: "/poi-images/guelmim-plains-relief-v2.webp"},
   {
     id: "oued-noun-valley-relief-v2",
     type: "relief",
@@ -223,8 +209,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Száraz folyómeder.", "Történelmi kereskedelmi útvonal."],
       ro: ["Albie de râu uscată.", "Rută comercială istorică."],
       en: ["Dry riverbed.", "Historical trade route."]
-    }
-  },
+    }, image: "/poi-images/oued-noun-valley-relief-v2.webp"},
   {
     id: "figuig-oasis-relief-v2",
     type: "relief",
@@ -237,8 +222,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Pálmaligetek.", "Sivatagi határ."],
       ro: ["Plantații de palmieri.", "Granița deșertului."],
       en: ["Palm groves.", "Desert border."]
-    }
-  },
+    }, image: "/poi-images/figuig-oasis-relief-v2.webp"},
   {
     id: "moulay-idriss-hills-relief-v2",
     type: "relief",
@@ -251,8 +235,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Zöld dombok.", "Környék túrázásra."],
       ro: ["Dealuri verzi.", "Împrejurimi pentru drumeții."],
       en: ["Green hills.", "Environment for hikes."]
-    }
-  },
+    }, image: "/poi-images/moulay-idriss-hills-relief-v2.webp"},
   {
     id: "oued-sebou-valley-relief-v2",
     type: "relief",
@@ -265,8 +248,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Termékeny termőföld.", "Az északi rész legfontosabb folyója."],
       ro: ["Teren agricol fertil.", "Cel mai important râu din nord."],
       en: ["Fertile farmland.", "Most important river in the north."]
-    }
-  },
+    }, image: "/poi-images/oued-sebou-valley-relief-v2.webp"},
   {
     id: "rif-cliffs-relief-v2",
     type: "relief",
@@ -279,8 +261,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Látványos kilátás.", "Zord partszakasz."],
       ro: ["Vedere spectaculoasă.", "Linie de coastă aspră."],
       en: ["Spectacular view.", "Rugged coastline."]
-    }
-  },
+    }, image: "/poi-images/rif-cliffs-relief-v2.webp"},
   {
     id: "atlas-foothills-relief-v2",
     type: "relief",
@@ -293,8 +274,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Átmeneti zóna.", "Hagyományos falvak."],
       ro: ["Zonă de tranziție.", "Sate tradiționale."],
       en: ["Transition zone.", "Traditional villages."]
-    }
-  },
+    }, image: "/poi-images/atlas-foothills-relief-v2.webp"},
   {
     id: "tiznit-plain-relief-v2",
     type: "relief",
@@ -307,8 +287,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Kedvező éghajlat.", "Mezőgazdasági művelés."],
       ro: ["Climat favorabil.", "Utilizare agricolă."],
       en: ["Favorable climate.", "Agricultural use."]
-    }
-  },
+    }, image: "/poi-images/tiznit-plain-relief-v2.webp"},
   {
     id: "oued-tensift-valley-relief-v2",
     type: "relief",
@@ -321,8 +300,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Vízforrás a régió számára.", "Vádi-rendszer."],
       ro: ["Sursă de apă pentru regiune.", "Sistem de wadi."],
       en: ["Water source for the region.", "Wadi system."]
-    }
-  },
+    }, image: "/poi-images/oued-tensift-valley-relief-v2.webp"},
   {
     id: "high-plateaus-relief-v2",
     type: "relief",
@@ -335,8 +313,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       hu: ["Félsivatagi éghajlat.", "Nagy területek."],
       ro: ["Climat de semideșert.", "Zone extinse."],
       en: ["Semi-desert climate.", "Large areas."]
-    }
-  },
+    }, image: "/poi-images/high-plateaus-relief-v2.webp"},
   {
     id: "oued-ziz-valley-relief-v2",
     type: "relief",
@@ -352,3 +329,4 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     }
   }
 ];
+

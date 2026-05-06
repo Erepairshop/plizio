@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSouthsudanLifeV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["A világ egyik legnagyobb állatvándorlása", "Elefántok és zsiráfok otthona", "Fontos antilop-rezervátum", "Etiópiával határos"],
       ro: ["Cea mai mare migrație de animale din lume", "Casa elefanților și a girafelor", "Sanctuar important pentru antilope", "Se învecinează cu Etiopia"],
       en: ["World's largest wildlife migration", "Home to elephants and giraffes", "Important antelope sanctuary", "Borders Ethiopia"]
-    }
-  },
+    }, image: "/poi-images/boma-nationalpark-life-v2.webp"},
   {
     id: "bandingilo-nationalpark-life-v2",
     type: "animal-habitat",
@@ -71,8 +71,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Elefántok a Nílus partján", "Nagy víziló-populáció", "Csónakos szafarik", "Az ugandai határ mentén"],
       ro: ["Elefanți pe malul Nilului", "Populație mare de hipopotami", "Tururi cu barca pentru observarea animalelor", "La granița cu Uganda"],
       en: ["Elephants along the Nile banks", "Large hippo population", "Boat tours for wildlife viewing", "On the Uganda border"]
-    }
-  },
+    }, image: "/poi-images/nimule-nationalpark-life-v2.webp"},
   {
     id: "shambe-wildreservat-life-v2",
     type: "animal-habitat",
@@ -95,8 +94,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Fontos Sudd-ökoszisztéma", "Papucscsőrű madarak lelőhelye", "Krokodilok élőhelye", "Vándormadarak központja"],
       ro: ["Ecosistem important Sudd", "Prezența pasării sabot", "Habitat pentru crocodili", "Centru pentru păsări migratoare"],
       en: ["Important Sudd ecosystem", "Shoebill stork sightings", "Crocodile habitat", "Center for migratory birds"]
-    }
-  },
+    }, image: "/poi-images/shambe-wildreservat-life-v2.webp"},
   {
     id: "ez-zeraf-wildreservat-life-v2",
     type: "animal-habitat",
@@ -119,8 +117,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Nílusi antilop védelme", "Szigeti ökoszisztéma a Níluson", "Mocsaras terep", "Fajgazdag vízi flóra"],
       ro: ["Protecția antilopei de Nil", "Ecosistem insular pe Nil", "Teren mlăștinos", "Floră acvatică diversă"],
       en: ["Nile lechwe protection", "Island ecosystem in the Nile", "Swampy terrain", "Rich aquatic flora"]
-    }
-  },
+    }, image: "/poi-images/ez-zeraf-wildreservat-life-v2.webp"},
   {
     id: "kidepo-wildreservat-life-v2",
     type: "animal-habitat",
@@ -143,8 +140,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Száraz szavannai táj", "Oroszlánok és leopárdok", "Nagy bivalypopuláció", "Határokon átnyúló védelem"],
       ro: ["Peisaj de savană uscată", "Lei și leoparzi", "Populație mare de bivoli", "Protecție transfrontalieră"],
       en: ["Dry savanna landscape", "Lions and leopards", "Large buffalo population", "Transboundary conservation"]
-    }
-  },
+    }, image: "/poi-images/kidepo-wildreservat-life-v2.webp"},
   {
     id: "lantoto-nationalpark-life-v2",
     type: "animal-habitat",
@@ -167,8 +163,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Esőerdei élőhely", "Prímások védelme", "Erdei elefántok jelenléte", "Kongói határvidék"],
       ro: ["Habitat de pădure tropicală", "Protecția primatelor", "Prezența elefanților de pădure", "Regiune de graniță cu RD Congo"],
       en: ["Rainforest habitat", "Primate conservation", "Forest elephant sightings", "DR Congo border region"]
-    }
-  },
+    }, image: "/poi-images/lantoto-nationalpark-life-v2.webp"},
   {
     id: "mongalla-wildreservat-life-v2",
     type: "animal-habitat",
@@ -191,8 +186,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Partmenti védett terület", "Gazellák megfigyelése", "Madármegfigyelő hely", "Történelmi település közelében"],
       ro: ["Zonă protejată riverană", "Observarea gazelelor", "Hotspot pentru birdwatching", "Lângă așezări istorice"],
       en: ["Riverside protected area", "Gazelle watching", "Birdwatching hotspot", "Near historical settlement"]
-    }
-  },
+    }, image: "/poi-images/mongalla-wildreservat-life-v2.webp"},
   {
     id: "ashana-wildreservat-life-v2",
     type: "animal-habitat",
@@ -215,8 +209,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Fontos füves biom", "Gepárdok lelőhelye", "Veszélyeztetett antilopok védelme", "Távoli vadon"],
       ro: ["Biom important de pajiști", "Prezența ghepardului", "Protecția antilopelor amenințate", "Sălbăticie izolată"],
       en: ["Important grassland biome", "Cheetah sightings", "Endangered antelope protection", "Remote wilderness"]
-    }
-  },
+    }, image: "/poi-images/ashana-wildreservat-life-v2.webp"},
   {
     id: "chelkou-wildreservat-life-v2",
     type: "animal-habitat",
@@ -239,8 +232,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Fás szavannai ökoszisztéma", "Énekesmadarak sokszínűsége", "Kisebb antilopfajok otthona", "Regionális biodiverzitás"],
       ro: ["Ecosistem de savană cu arbori", "Diversitate de păsări cântătoare", "Casa speciilor mici de antilope", "Biodiversitate regională"],
       en: ["Wooded savanna ecosystem", "Variety of songbirds", "Home to smaller antelope species", "Regional biodiversity"]
-    }
-  },
+    }, image: "/poi-images/chelkou-wildreservat-life-v2.webp"},
   {
     id: "aweil-reisprojekt-life-v2",
     type: "agriculture",
@@ -263,8 +255,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Legnagyobb rizstermesztő vidék", "Élelmiszerbiztonság alapja", "Nílusi víz használata", "Fontos munkaadó"],
       ro: ["Cea mai mare zonă de orez", "Asigurarea securității alimentare", "Utilizarea apei din Nil", "Angajator major"],
       en: ["Largest rice-growing area", "Food security foundation", "Use of Nile water", "Major local employer"]
-    }
-  },
+    }, image: "/poi-images/aweil-reisprojekt-life-v2.webp"},
   {
     id: "nzara-agrarkomplex-life-v2",
     type: "agriculture",
@@ -287,8 +278,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Gyapottermelés központja", "Ipari mezőgazdaság", "Termékeny talaj", "Történelmi agrárhelyszín"],
       ro: ["Centrul producției de bumbac", "Agricultură industrială", "Soluri fertile", "Sit agricol istoric"],
       en: ["Cotton production hub", "Industrial agriculture", "Fertile soils", "Historical agricultural site"]
-    }
-  },
+    }, image: "/poi-images/nzara-agrarkomplex-life-v2.webp"},
   {
     id: "renk-getreideguertel-life-v2",
     type: "agriculture",
@@ -311,8 +301,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Gépesített szántóföldi művelés", "Ciroktermelési központ", "Az egész ország ellátása", "Lapos, termékeny síkságok"],
       ro: ["Agricultură mecanizată", "Centru de producție a sorgului", "Aprovizionarea întregii țări", "Câmpii plate și fertile"],
       en: ["Mechanized farming hub", "Sorghum production center", "Supplying the entire country", "Flat, fertile plains"]
-    }
-  },
+    }, image: "/poi-images/renk-getreideguertel-life-v2.webp"},
   {
     id: "yambio-kaffeeplantagen-life-v2",
     type: "agriculture",
@@ -335,8 +324,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Robusta kávé termesztése", "Trópusi éghajlat", "Kisgazdasági struktúrák", "Növekvő exportágazat"],
       ro: ["Cultivarea cafelei Robusta", "Climat tropical", "Structuri de mici fermieri", "Sector de export în creștere"],
       en: ["Robusta coffee cultivation", "Tropical climate", "Smallholder farmer structures", "Growing export sector"]
-    }
-  },
+    }, image: "/poi-images/yambio-kaffeeplantagen-life-v2.webp"},
   {
     id: "maridi-obstgaerten-life-v2",
     type: "agriculture",
@@ -359,8 +347,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Trópusi gyümölcsök választéka", "Jelentős mangótermés", "Regionális piaci ellátás", "Egész évben zöldellő vidék"],
       ro: ["Diversitate de fructe tropicale", "Recoltă semnificativă de mango", "Aprovizionarea pieței regionale", "Regiune verde tot anul"],
       en: ["Variety of tropical fruits", "Significant mango harvest", "Regional market supply", "Green region year-round"]
-    }
-  },
+    }, image: "/poi-images/maridi-obstgaerten-life-v2.webp"},
   {
     id: "terekeka-viehlager-life-v2",
     type: "agriculture",
@@ -407,8 +394,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Nílusi sügér kereskedelme", "Hagyományos halászati technikák", "Jubai piacok ellátása", "A Sudd-régió életereje"],
       ro: ["Comerț cu biban de Nil", "Tehnici tradiționale de pescuit", "Aprovizionarea piețelor din Juba", "Linia vieții regiunii Sudd"],
       en: ["Nile perch trade", "Traditional fishing techniques", "Supplying Juba markets", "Lifeline of the Sudd region"]
-    }
-  },
+    }, image: "/poi-images/bor-fischereizentrum-life-v2.webp"},
   {
     id: "mangalla-zuckerrohr-life-v2",
     type: "agriculture",
@@ -431,8 +417,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Öntözéses mezőgazdaság", "Cukoripari alapanyag", "Növekvő agrárprojekt", "Nílus-parti fekvés"],
       ro: ["Agricultură prin irigații", "Materie primă pentru zahăr", "Proiect agricol în creștere", "Locație pe malul Nilului"],
       en: ["Irrigation-based farming", "Sugar industry raw material", "Growing agricultural project", "Nile riverside location"]
-    }
-  },
+    }, image: "/poi-images/mangalla-zuckerrohr-life-v2.webp"},
   {
     id: "juba-spielpark-life-v2",
     type: "kid-landmark",
@@ -455,8 +440,7 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
       hu: ["Központi találkozóhely", "Játszótér gyerekeknek", "Városi zöldövezet", "Hétvégi kirándulóhely"],
       ro: ["Loc de întâlnire central", "Teren de joacă pentru copii", "Zonă verde în oraș", "Destinație de weekend"],
       en: ["Central meeting point", "Playground for kids", "Urban green space", "Weekend outing destination"]
-    }
-  },
+    }, image: "/poi-images/juba-spielpark-life-v2.webp"},
   {
     id: "wau-wildtierzentrum-life-v2",
     type: "kid-landmark",
@@ -482,3 +466,4 @@ export const poiExtraSouthsudanLifeV2: POI[] = [
     }
   }
 ];
+

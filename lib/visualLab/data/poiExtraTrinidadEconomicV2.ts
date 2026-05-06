@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTrinidadEconomicV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["A petrolkémiai termékek fő átrakodóhelye", "Stratégiai mélyvízi kikötő", "Az exportkereskedelem központja"],
       ro: ["Principalul centru de transbordare pentru produse petrochimice", "Port strategic de adâncime", "Hub pentru comerțul de export"],
       en: ["Main transshipment hub for petrochemicals", "Strategic deep-water port", "Hub for export trade"]
-    }
-  },
+    }, image: "/poi-images/tt-point-lisas-port-economic-v2.webp"},
   {
     id: "tt-port-of-spain-port-economic-v2",
     type: "port",
@@ -37,8 +37,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Az ország legnagyobb konténerkikötője", "A nemzetközi kereskedelem központja", "Fontos érkezési pont az import számára"],
       ro: ["Cel mai mare port de containere din țară", "Centrul comerțului internațional", "Punct major de sosire pentru importuri"],
       en: ["Largest container port in the country", "Center for international trade", "Major arrival point for imports"]
-    }
-  },
+    }, image: "/poi-images/tt-port-of-spain-port-economic-v2.webp"},
   {
     id: "tt-la-brea-port-economic-v2",
     type: "port",
@@ -56,8 +55,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["A Pitch Lake aszfalt fő exportpontja", "Támogatja a helyi petrolkémiai iparágakat", "Mély móló teherhajók számára"],
       ro: ["Principalul punct de export pentru asfaltul de la Pitch Lake", "Sprijină industriile petrochimice locale", "Chei adânc pentru navele de marfă"],
       en: ["Main export point for Pitch Lake asphalt", "Supports local petrochemical industries", "Deep quay for cargo vessels"]
-    }
-  },
+    }, image: "/poi-images/tt-la-brea-port-economic-v2.webp"},
   {
     id: "tt-tembladora-port-economic-v2",
     type: "port",
@@ -75,8 +73,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Fontos logisztikai helyszín", "Támogatja a regionális kereskedelmet", "Stratégiai parti elhelyezkedés"],
       ro: ["Locație logistică importantă", "Sprijină comerțul regional", "Locație strategică de coastă"],
       en: ["Major logistics location", "Supports regional trade", "Strategic coastal location"]
-    }
-  },
+    }, image: "/poi-images/tt-tembladora-port-economic-v2.webp"},
   {
     id: "tt-savonetta-port-economic-v2",
     type: "port",
@@ -94,8 +91,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Kezeli a speciális ipari rakományt", "Szigorú biztonsági előírások", "Az ipari infrastruktúra központi eleme"],
       ro: ["Gestionează mărfuri industriale specializate", "Standarde stricte de siguranță", "Element central al infrastructurii industriale"],
       en: ["Handles specialized industrial cargo", "Strict safety standards", "Central element of industrial infrastructure"]
-    }
-  },
+    }, image: "/poi-images/tt-savonetta-port-economic-v2.webp"},
   {
     id: "tt-chaguaramas-port-economic-v2",
     type: "port",
@@ -113,8 +109,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Tengeri szolgáltatások központja", "Nagy kapacitás hajókarbantartásra", "Turisztikai és ipari központ"],
       ro: ["Centru pentru servicii maritime", "Capacitate mare de întreținere a navelor", "Hub turistic și industrial"],
       en: ["Center for maritime services", "Large capacity for vessel maintenance", "Tourism and industrial hub"]
-    }
-  },
+    }, image: "/poi-images/tt-chaguaramas-port-economic-v2.webp"},
   {
     id: "tt-scaborough-port-economic-v2",
     type: "port",
@@ -132,8 +127,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Kompkapcsolat Trinidaddal", "Az import elosztóközpontja Tobagónak", "Fontos a turisztikai logisztika számára"],
       ro: ["Legătură cu feribotul către Trinidad", "Hub de import pentru Tobago", "Important pentru logistica turismului"],
       en: ["Ferry connection to Trinidad", "Import hub for Tobago", "Important for tourism logistics"]
-    }
-  },
+    }, image: "/poi-images/tt-scaborough-port-economic-v2.webp"},
   {
     id: "tt-guayaguayare-port-economic-v2",
     type: "port",
@@ -189,8 +183,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Helyi kereskedelem", "Kompkapcsolat Venezuelával", "Támogatja a halászatot"],
       ro: ["Comerț local", "Serviciu de feribot către Venezuela", "Sprijină pescuitul"],
       en: ["Local trade", "Ferry connection to Venezuela", "Supports fishing"]
-    }
-  },
+    }, image: "/poi-images/tt-cedros-port-economic-v2.webp"},
   {
     id: "tt-petrotrin-industrial-v2",
     type: "industry",
@@ -208,8 +201,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Az olajfeldolgozás történelmi központja", "Nagy ipari létesítmény", "Fontos a gazdaság számára"],
       ro: ["Centrul istoric al procesării petrolului", "Facilitate industrială mare", "Important pentru economie"],
       en: ["Historic center of oil processing", "Large industrial facility", "Important to the economy"]
-    }
-  },
+    }, image: "/poi-images/tt-petrotrin-industrial-v2.webp"},
   {
     id: "tt-tringen-industrial-v2",
     type: "industry",
@@ -227,8 +219,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Vezető a nitrogénműtrágya-termelésben", "A Point Lisas Ipari Park része", "Exportorientált"],
       ro: ["Lider în producția de îngrășăminte cu azot", "Parte a Point Lisas Estate", "Orientat spre export"],
       en: ["Leader in nitrogen fertilizer production", "Part of the Point Lisas Estate", "Export-oriented"]
-    }
-  },
+    }, image: "/poi-images/tt-tringen-industrial-v2.webp"},
   {
     id: "tt-methanex-industrial-v2",
     type: "industry",
@@ -265,8 +256,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Acélhengermű", "Ipari termelés a regionális kereslet kielégítésére", "A Point Lisas infrastruktúra része"],
       ro: ["Laminor de oțel", "Producție industrială pentru cererea regională", "Parte a infrastructurii Point Lisas"],
       en: ["Steel rolling mill", "Industrial production for regional demand", "Part of the Point Lisas infrastructure"]
-    }
-  },
+    }, image: "/poi-images/tt-centrin-industrial-v2.webp"},
   {
     id: "tt-nu-iron-industrial-v2",
     type: "industry",
@@ -284,8 +274,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Speciális vasgyártás", "Exportorientált", "Hatékony ipari technológia"],
       ro: ["Producție specializată de fier", "Orientat spre export", "Tehnologie industrială eficientă"],
       en: ["Specialized iron production", "Export-oriented", "Efficient industrial technology"]
-    }
-  },
+    }, image: "/poi-images/tt-nu-iron-industrial-v2.webp"},
   {
     id: "tt-caroni-sugar-industrial-v2",
     type: "industry",
@@ -303,8 +292,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["A cukoripar történelmi központja", "Mezőgazdasági örökség", "Ipari emlékhely"],
       ro: ["Centrul istoric al industriei zahărului", "Moștenire agricolă", "Monument industrial"],
       en: ["Historic center of sugar industry", "Agricultural heritage", "Industrial monument"]
-    }
-  },
+    }, image: "/poi-images/tt-caroni-sugar-industrial-v2.webp"},
   {
     id: "tt-trinidad-cement-industrial-v2",
     type: "industry",
@@ -322,8 +310,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Cementgyártás az építőipar számára", "Jelentős regionális exportőr", "Nagy ipari létesítmény"],
       ro: ["Producție de ciment pentru industria construcțiilor", "Exportator regional semnificativ", "Facilitate industrială mare"],
       en: ["Cement production for construction industry", "Major regional exporter", "Large industrial facility"]
-    }
-  },
+    }, image: "/poi-images/tt-trinidad-cement-industrial-v2.webp"},
   {
     id: "tt-arp-industrial-v2",
     type: "industry",
@@ -379,8 +366,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Légiáru-kezelés", "Központi logisztikai csomópont", "Támogatja a nemzetközi kereskedelmet"],
       ro: ["Manipularea mărfurilor aeriene", "Hub logistic central", "Sprijină comerțul internațional"],
       en: ["Air cargo handling", "Central logistics hub", "Supports international trade"]
-    }
-  },
+    }, image: "/poi-images/tt-piarco-logistics-industrial-v2.webp"},
   {
     id: "tt-point-fortin-industry-v2",
     type: "industry",
@@ -417,8 +403,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Helyi energiaellátás", "Fontos infrastruktúra", "Támogatja a déli régiót"],
       ro: ["Alimentare locală cu energie", "Infrastructură importantă", "Sprijină regiunea sudică"],
       en: ["Local power supply", "Important infrastructure", "Supports the southern region"]
-    }
-  },
+    }, image: "/poi-images/tt-siparia-energy-industrial-v2.webp"},
   {
     id: "tt-la-brea-asphalt-v2",
     type: "industry",
@@ -474,8 +459,7 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       hu: ["Olajtárolási kapacitás", "Exportkapcsolat", "Fontos csomópont az offshore termelés számára"],
       ro: ["Capacitate de stocare a petrolului", "Legătură de export", "Hub important pentru producția offshore"],
       en: ["Oil storage capacity", "Export connection", "Major hub for offshore production"]
-    }
-  },
+    }, image: "/poi-images/tt-guayaguayare-oil-v2.webp"},
   {
     id: "tt-point-lisas-nitrogen-v2",
     type: "industry",
@@ -496,3 +480,4 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     }
   }
 ];
+

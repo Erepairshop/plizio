@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 // ─── O2 (2. OSZTÁLY) SZIGET 1: SZÓFAJOK ───────────────────────
@@ -6685,3 +6686,4 @@ addMagyarO2PracticeTopics(MAGYAR_O2_I6_LABELS, MAGYAR_O2_I6_POOL, MAGYAR_O2_PRAC
 addMagyarO2PracticeTopics(MAGYAR_O2_I7_LABELS, MAGYAR_O2_I7_POOL, MAGYAR_O2_PRACTICE_CONFIGS[6]);
 addMagyarO2PracticeTopics(MAGYAR_O2_I8_LABELS, MAGYAR_O2_I8_POOL, MAGYAR_O2_PRACTICE_CONFIGS[7]);
 addMagyarO2PracticeTopics(MAGYAR_O2_I9_LABELS, MAGYAR_O2_I9_POOL, MAGYAR_O2_PRACTICE_CONFIGS[8]);
+

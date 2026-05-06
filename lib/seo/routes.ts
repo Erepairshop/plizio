@@ -19,7 +19,7 @@ import type { POI } from "@/lib/visualLab/data/poi";
 
 export const SITE_URL = "https://plizio.com";
 
-function localizedValue(value: { de: string; hu: string; ro: string; en: string } | undefined, lang: Lang) {
+function localizedValue(value: Partial<Record<Lang, string>> | undefined, lang: Lang) {
   return value?.[lang] || value?.de || "";
 }
 

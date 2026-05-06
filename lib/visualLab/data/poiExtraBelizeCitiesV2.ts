@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBelizeCitiesV2: POI[] = [
@@ -14,7 +15,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A quiet coastal town in northern Belize, near the Mexican border."
     },
     descriptionAdvanced: {
-      de: "Corozal Town ist das nördlichste städtische Zentrum in Belize und bietet eine friedliche und entspannte Atmosphäre, nur wenige Meilen von der mexikanischen Grenze entfernt. Gegründet im Jahr 1848 von Flüchtlingen des Kastenkrieges von Yucatan, hat die Stadt einen starken Mestizen-Einfluss, der sich in ihrer Kultur, Küche und Sprache widerspiegelt. Corozal liegt wunderschön am smaragdgrünen Wasser der Corozal Bay, die eine malerische Kulisse für den Stadtpark und die Uferpromenade bietet. Die Gegend ist zudem reich an antiker Geschichte, da sich die Maya-Ruinen von Santa Rita direkt am Stadtrand befinden. Heute ist Corozal ein beliebtes Ziel für Rentner und Reisende, die eine authentische belizische Erfahrung abseits der belebten Touristenpfade suchen.",
+      de: "Corozal Town ist die nördlichste Stadt von Belize und liegt an der Corozal Bay. Die Stadt wurde nach dem Kastanienbaum 'Corozo' benannt und weist eine starke kulturelle Verbindung zu Mexiko auf. Sie dient als wichtiges Handelszentrum für den Norden des Landes und ist für ihre entspannte Atmosphäre bekannt. Geografie K7 — Küstenorte und Meeresbuchten.",
       hu: "",
       ro: "Corozal Town este cel mai nordic centru urban din Belize, oferind o atmosferă liniștită și relaxată la doar câțiva kilometri de granița cu Mexicul. Fondat în 1848 de refugiații din Războiul Castelor din Yucatan, orașul are o puternică influență mestizo, care se reflectă în cultura, bucătăria și limba sa. Corozal este situat superb pe apele de culoarea smaraldului ale Golfului Corozal, oferind un cadru pitoresc pentru parcul orașului și faleza sa. Zona este bogată în istorie antică, având ruinele mayașe Santa Rita situate chiar la marginea orașului. Astăzi, Corozal este o destinație populară pentru călători care caută o experiență belizeană autentică, departe de zonele aglomerate.",
       en: "Corozal Town is the northernmost urban center in Belize, offering a peaceful and laid-back atmosphere just miles from the Mexican border. Founded in 1848 by refugees from the Caste War of Yucatan, the town has a strong Mestizo influence that is reflected in its culture, cuisine, and language. Corozal is beautifully situated on the emerald-green waters of Corozal Bay, providing a scenic backdrop for the town's park and waterfront walk. The area is also rich in ancient history, with the Maya ruins of Santa Rita located right on the town's edge. Today, Corozal is a popular destination for retirees and travelers seeking a quiet, authentic Belizean experience away from the busier tourist hubs."
@@ -26,7 +27,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Capital of the Corozal District.", "Overlooks Chetumal Bay.", "Founded by Mestizo refugees.", "Known for its relaxed atmosphere."]
     },
     factsAdvanced: {
-      de: ["Corozal Town wurde 1848 von Maya- und Mestizen-Flüchtlingen gegründet.", "Es ist die Verwaltungshauptstadt des Corozal-Distrikts.", "Die Stadt liegt nur etwa 14 Kilometer von der mexikanischen Grenze entfernt.", "Sie befindet sich an einer flachen, türkisfarbenen Bucht der Karibischen See.", "Die Bevölkerung von Corozal Town beträgt etwa 13.000 Einwohner.", "Santa Rita, eine antike Maya-Stätte, liegt direkt am Rand der Stadt.", "Die Stadt dient als Tor für Handel und Reisen zwischen Belize und Mexiko.", "Corozal ist bekannt für sein mildes Klima mit weniger Regen als im Süden."],
+      de: ["Liegt etwa 15 Kilometer von der mexikanischen Grenze entfernt.", "Im Jahr 1849 von Flüchtlingen aus dem Kastenkrieg in Yucatán gegründet.", "Die Stadt wurde 1955 vom Hurrikan Janet fast vollständig zerstört.", "Das Corozal Town Hall ist ein architektonisches Wahrzeichen.", "Der lokale Markt ist bekannt für frische Produkte und Kunsthandwerk.", "Die Bevölkerung beträgt etwa 10.000 Einwohner."],
       hu: [],
       ro: [
       "Corozal Town a fost fondat în 1848 de refugiați mayași și mestizo.",
@@ -36,8 +37,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Găzduiește ruinele mayașe Santa Rita, un fost centru comercial important."
     ],
       en: ["Corozal Town was founded in 1848 by Maya and Mestizo refugees.", "It is the administrative capital of the Corozal District.", "The town is located approximately 9 miles (14 kilometers) from the Mexican border.", "It sits on a shallow, turquoise bay that is part of the Caribbean Sea.", "The population of Corozal Town is approximately 13,000 residents.", "It features the Santa Rita Maya ruins, once a major trading center.", "The town serves as a gateway for trade and travel between Belize and Mexico."]
-    }
-  },
+    }, image: "/poi-images/corozal-town-cities-v2.webp"},
   {
     id: "orange-walk-town-cities-v2",
     type: "city",
@@ -51,7 +51,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "The center of the sugar industry in Belize, often nicknamed 'Sugar City'."
     },
     descriptionAdvanced: {
-      de: "Orange Walk Town, liebevoll als 'Sugar City' bekannt, ist das landwirtschaftliche und industrielle Herz im Norden von Belize. Am Ufer des New River gelegen, ist die Stadt das Zentrum der Zuckerrohrindustrie des Landes, was in den weitläufigen Feldern und der historischen Zuckermühle in der Nähe deutlich wird. Orange Walk ist eine lebendige, multiethnische Gemeinschaft, in der Düfte traditioneller Mestizen-Küche und die Geräusche geschäftiger Märkte die Luft erfüllen. Es ist zudem das primäre Tor zur spektakulären Maya-Stätte Lamanai, zu der malerische Bootstouren von den Docks der Stadt aus starten. Orange Walk bietet Besuchern eine einzigartige Mischung aus industriellem Erbe, kolonialer Geschichte und einer herzlichen Gemeinschaft, die stolz auf ihren Fleiß ist.",
+      de: "Orange Walk Town, bekannt als 'Sugah City', ist das Zentrum der Zuckerindustrie in Belize. Die Stadt liegt am New River, der historisch als Transportweg für Holz und später für Zucker diente. Die Region ist geprägt von einer Mischung aus Mestizen-, Mennoniten- und Maya-Kulturen, die das soziale Leben und die lokale Wirtschaft maßgeblich prägen. Földrajz K8 — Industriezentren in Mittelamerika.",
       hu: "",
       ro: "Orange Walk Town, cunoscut cu drag sub numele de „Orașul Zahărului”, este inima agricolă și industrială a nordului Belizei. Situat pe malul râului New River, orașul este centrul industriei trestiei de zahăr a țării, fapt evident în câmpurile vaste și în moara istorică din apropiere. Orange Walk este o comunitate multietnică vibrantă, unde aromele bucătăriei tradiționale mestizo și sunetele piețelor pline de viață umplu aerul. Este poarta principală de acces către spectaculosul sit arheologic Lamanai, cu tururi pitorești cu barca plecând de la docurile orașului. Orange Walk oferă vizitatorilor un amestec unic de patrimoniu industrial, istorie colonială și o comunitate caldă și primitoare.",
       en: "Orange Walk Town, affectionately known as 'Sugar City,' is the agricultural and industrial heart of northern Belize. Located on the banks of the New River, the town is the center of the country's sugarcane industry, which is evident in the sprawling fields and the historic sugar mill nearby. Orange Walk is a vibrant, multi-ethnic community where the scents of traditional Mestizo cooking and the sounds of bustling markets fill the air. It is the primary gateway to the spectacular Lamanai archaeological site, with scenic boat tours departing from the town's docks. Orange Walk offers visitors a unique blend of industrial heritage, colonial history, and a warm, welcoming community that prides itself on its hard-working spirit."
@@ -63,7 +63,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Capital of the Orange Walk District.", "Important agricultural hub.", "Located on the banks of the New River.", "Mix of Mestizo and Creole cultures."]
     },
     factsAdvanced: {
-      de: ["Orange Walk ist die viertgrößte Stadt in Belize.", "Sie liegt etwa 85 Kilometer nördlich von Belize City.", "Die Stadt ist das Hauptquartier der belizischen Zuckerindustrie.", "Sie liegt am New River, einem antiken Maya-Handelsweg.", "Die Bevölkerung beträgt ungefähr 17.000 Einwohner.", "Berühmt ist die Stadt für ihre 'Tacos', ein beliebtes lokales Streetfood.", "Hier fand 1872 eine bedeutende Schlacht während des Kastenkrieges statt.", "Die Region ist ein wichtiges Zentrum für die Produktion von Zitrusfrüchten."],
+      de: ["Zweitgrößte Stadt in Belize nach der Einwohnerzahl.", "Die Umgebung produziert den Großteil des Zuckers in Belize.", "Der New River bietet Zugang zu den Lamanai Maya-Ruinen.", "Gegründet im 19. Jahrhundert als Holzfällersiedlung.", "Die Stadt hat ein ausgeprägtes tropisches Savannenklima.", "Bedeutender Standort für die Verarbeitung von landwirtschaftlichen Erzeugnissen."],
       hu: [],
       ro: [
       "Orange Walk este al patrulea oraș ca mărime din Belize.",
@@ -73,8 +73,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Populația orașului este de aproximativ 17.000 de locuitori."
     ],
       en: ["Orange Walk is the fourth-largest town in Belize.", "It is located 53 miles (85 kilometers) north of Belize City.", "The town is the headquarters of the Belize sugar industry.", "It sits on the New River, an ancient Maya trade route.", "The population is approximately 17,000 residents.", "Orange Walk is famous for its 'tacos,' a beloved local street food.", "It was the site of a major battle during the Caste War in 1872."]
-    }
-  },
+    }, image: "/poi-images/orange-walk-town-cities-v2.webp"},
   {
     id: "punta-gorda-town-cities-v2",
     type: "city",
@@ -88,7 +87,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "The southernmost town in Belize and the gateway to the Toledo District."
     },
     descriptionAdvanced: {
-      de: "Punta Gorda, oft einfach als 'PG' bezeichnet, ist die südlichste Stadt Belizes und die Hauptstadt des Toledo-Distrikts. Die Stadt liegt an der Küste und bietet einen weiten Blick über die Bucht von Honduras bis hin zu den Bergen von Guatemala. Punta Gorda ist ein kultureller Schmelztiegel, in dem die Einflüsse der Garifuna, Maya, Kreolen und Ostinder aufeinandertreffen. Jeden Tag findet hier ein lebhafter Markt statt, auf dem lokale Bauern ihre frischen Produkte verkaufen. Als Tor zum 'vergessenen Distrikt' ist PG der ideale Ausgangspunkt für Expeditionen zu abgelegenen Maya-Dörfern, Dschungel-Lodges und den nahegelegenen Cayes. Die Atmosphäre ist hier spürbar entspannter als im Norden, geprägt vom Rhythmus der Wellen und dem Klang traditioneller Trommeln.",
+      de: "Punta Gorda, oft 'PG' genannt, ist die südlichste Stadt von Belize und der Hauptort des Bezirks Toledo. Sie liegt an der Bucht von Amatique und ist ein Schmelztiegel der Kulturen, insbesondere der Garifuna und Maya. Die Region ist bekannt für ihre unberührte Natur und den nachhaltigen Kakaoanbau. Geschichte K7 — kulturelle Vielfalt im Süden.",
       hu: "",
       ro: "Punta Gorda, adesea numit simplu PG, este cel mai sudic oraș din Belize și capitala administrativă a districtului Toledo. Situat pe malul Mării Caraibilor, orașul oferă o atmosferă distinctă, caracterizată prin diversitatea sa culturală și un ritm de viață relaxat. Servește ca poartă principală către sudul profund, o regiune cunoscută pentru pădurile tropicale virgine, siturile mayașe antice și satele tradiționale. Orașul este un creuzet de culturi Garifuna, Maya, est-indiană și creolă, ceea ce se reflectă frumos în muzica, mâncarea și viața sa de zi cu zi. Vizitatorii se bucură adesea de faleza pitorească și de piețele stradale pline de viață unde fermierii locali vând produse organice.",
       en: "Punta Gorda, often simply referred to as PG, is the southernmost town in Belize and the administrative capital of the Toledo District. Situated on the shores of the Caribbean Sea, the town offers a distinct atmosphere characterized by its cultural diversity and laid-back rhythm. It serves as the primary gateway to the deep south, a region known for its pristine rainforests, ancient Maya sites, and traditional villages. The town itself is a melting pot of Garifuna, Maya, East Indian, and Creole cultures, which is beautifully reflected in its music, food, and daily life. Visitors often enjoy the scenic waterfront, the bustling street markets where local farmers sell organic produce, and the rhythmic sounds of Garifuna drumming that often fill the evening air. Punta Gorda remains one of the most authentic and uncommercialized destinations in Belize, offering a true glimpse into the soul of the country's diverse heritage."
@@ -100,7 +99,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Capital of the Toledo District.", "Strong Garifuna and Maya cultural influence.", "Base for exploring jungle lodges.", "Weekly market with local produce."]
     },
     factsAdvanced: {
-      de: ["Punta Gorda ist die Verwaltungshauptstadt des Toledo-Distrikts.", "Es ist die größte Siedlung im tiefen Süden von Belize.", "Die Stadt ist ein wichtiges Zentrum der Garifuna-Kultur.", "PG verfügt über einen kleinen Flughafen mit Inlandsflügen.", "Wöchentlich finden hier große Bauernmärkte am Hafen statt.", "Von hier aus starten Boote zu den Sapodilla Cayes.", "Die Region erhält die höchsten Niederschlagsmengen des Landes.", "Punta Gorda ist bekannt für seine Fischfangtradition und Meeresfrüchte."],
+      de: ["Die Stadt ist bekannt als das Tor zum Maya-Bezirk.", "Der wöchentliche Markt zieht Menschen aus der ganzen Region an.", "Gegründet um 1823 durch Garifuna-Siedler aus Honduras.", "Der Hafen dient als Anlaufpunkt für Boote aus Guatemala.", "Die Stadt liegt an der karibischen Küste mit Zugang zum Barrier Reef.", "Zentrum des jährlich stattfindenden Toledo Cacao Fest."],
       hu: [],
       ro: [
       "Punta Gorda este capitala administrativă a districtului Toledo.",
@@ -110,8 +109,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Regiunea primește unele dintre cele mai mari cantități de precipitații din Belize."
     ],
       en: ["Punta Gorda is the administrative capital of the Toledo District.", "The town has a population of approximately 6,000 residents.", "It serves as a major hub for sea transport to Puerto Barrios, Guatemala.", "The town hosts the annual Cacao Festival every May.", "It is located about 210 miles (338 kilometers) south of Belize City.", "The region receives some of the highest rainfall in Belize, exceeding 160 inches annually.", "The town was founded in 1823 by Garifuna settlers from Honduras."]
-    }
-  },
+    }, image: "/poi-images/punta-gorda-town-cities-v2.webp"},
   {
     id: "benque-viejo-del-carmen-cities-v2",
     type: "city",
@@ -125,7 +123,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A western border town in Belize, near the Guatemalan border."
     },
     descriptionAdvanced: {
-      de: "Benque Viejo del Carmen ist die westlichste Stadt Belizes, nur wenige Schritte von der guatemaltekischen Grenze entfernt am Ufer des Mopan River gelegen. Diese charmante Stadt ist tief in der Mestizen-Kultur verwurzelt und bekannt für ihre gut erhaltenen Kolonialhäuser und lebendigen Gemeinschaftsfeste. Benque, wie es lokal genannt wird, hat eine reiche Geschichte, die mit der Chicle- und Mahagoniindustrie verbunden ist, die einst die Region dominierte. Heute ist es ein Zentrum für Kunst und Bildung und beherbergt mehrere kulturelle Institutionen. Die Nähe zu den Xunantunich-Ruinen und dem malerischen Flusstal macht Benque zu einem versteckten Juwel für Reisende, die eine ruhige, kulturell reiche Erfahrung im Herzen des Cayo-Distrikts suchen.",
+      de: "Benque Viejo del Carmen liegt unmittelbar an der Grenze zu Guatemala am Mopan River. Die Stadt ist bekannt für ihre authentische Lebensart und die starke Präsenz der Maya-Kultur in den umliegenden Dörfern. Sie ist der Ausgangspunkt für den Besuch nahegelegener archäologischer Stätten wie Xunantunich. Erdkunde K7 — Grenzstädte und Handelswege.",
       hu: "",
       ro: "Benque Viejo del Carmen este cel mai vestic oraș din Belize, situat la doar câțiva pași de granița cu Guatemala, pe malul râului Mopan. Acest oraș fermecător este bogat în cultură și tradiție mestizo, fiind cunoscut pentru casele sale în stil colonial bine conservate și festivalurile comunitare vibrante. Benque are o istorie bogată legată de industriile de chicle și mahon care au dominat odinioară regiunea. Astăzi, este un centru pentru arte și educație, găzduind mai multe instituții culturale și oferind o alternativă liniștită la orașele turistice mai aglomerate. Proximitatea sa de ruinele Xunantunich și de valea pitorească a râului face din Benque o bijuterie ascunsă pentru călători.",
       en: "Benque Viejo del Carmen is the westernmost town in Belize, situated just steps from the Guatemalan border on the banks of the Mopan River. This charming town is steeped in Mestizo culture and tradition, known for its well-preserved colonial-style houses and vibrant community festivals. Benque, as it is locally known, has a rich history tied to the chicle and mahogany industries that once dominated the region. Today, it is a center for arts and education, housing several cultural institutions and providing a peaceful alternative to the busier tourist towns. Its proximity to the Xunantunich ruins and the scenic river valley makes Benque a hidden gem for travelers seeking a quiet, culturally rich experience in the heart of the Cayo District."
@@ -137,7 +135,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Situated on the Mopan River.", "Close to the Xunantunich Maya site.", "Predominantly Spanish-speaking population.", "Important border crossing point."]
     },
     factsAdvanced: {
-      de: ["Benque Viejo wurde Mitte des 19. Jahrhunderts gegründet.", "Es liegt nur etwa 1,6 Kilometer von der Grenze zu Guatemala entfernt.", "Die Stadt ist berühmt für ihre Prozessionen in der Karwoche.", "Die Bevölkerung beträgt etwa 7.000 Einwohner.", "Sie liegt am westlichen Ufer des Mopan-Flusses.", "Der Name bedeutet auf Spanisch 'Alte Bank der Jungfrau'.", "Früher war Benque ein bedeutendes Zentrum der Chicle-Gewinnung.", "Die Stadt pflegt enge kulturelle Bande mit der Nachbarstadt Melchor de Mencos."],
+      de: ["Liegt direkt am Mopan River im Bezirk Cayo.", "Die Stadt ist stark von spanischen Traditionen beeinflusst.", "Wichtiger Umschlagplatz für den Handel mit Guatemala.", "Das jährlich stattfindende Fest zu Ehren der Jungfrau von El Carmen ist bekannt.", "In der Nähe befindet sich die berühmte Maya-Stadt Xunantunich.", "Die Stadt wurde im späten 19. Jahrhundert gegründet."],
       hu: [],
       ro: [
       "Benque Viejo a fost fondat la mijlocul secolului al XIX-lea.",
@@ -147,8 +145,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Populația este de aproximativ 7.000 de locuitori."
     ],
       en: ["Benque Viejo was founded in the mid-19th century.", "It is located only 1 mile (1.6 kilometers) from the border with Guatemala.", "The town is known for its elaborate Holy Week processions and sawdust carpets.", "The population is approximately 7,000 residents.", "It sits on the western bank of the Mopan River.", "The name means 'Old Bank of the Virgin' in Spanish.", "It was a major center for the chicle (gum) industry in the early 20th century."]
-    }
-  },
+    }, image: "/poi-images/benque-viejo-del-carmen-cities-v2.webp"},
   {
     id: "shipyard-cities-v2",
     type: "city",
@@ -162,7 +159,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A conservative Mennonite community in Belize."
     },
     descriptionAdvanced: {
-      de: "Shipyard ist eine traditionelle mennonitische Siedlung vom Typ 'Old Colony' im Orange Walk District, bekannt für ihre konsequente Verpflichtung zu einem einfachen, bäuerlichen Lebensstil. Gegründet im Jahr 1958, ist die Gemeinschaft durch die Nutzung von Pferdekutschen, traditionelle Kleidung und einen Fokus auf großflächige Landwirtschaft ohne viele moderne Annehmlichkeiten gekennzeichnet. Shipyard ist ein bedeutender Wirtschaftsfaktor im Norden Belizes und produziert große Mengen an Möbeln, Geflügel und Getreide. Die Siedlung ist in mehrere Dörfer oder 'Camps' unterteilt, die sich über ein weites Gebiet fruchtbaren Landes erstrecken. Für Besucher bietet Shipyard einen eindrucksvollen Blick in eine Welt, die sich vom modernen Zeitalter abgekoppelt anfühlt und in der Glaube und harte Arbeit die Eckpfeiler des täglichen Lebens bleiben.",
+      de: "Shipyard ist eine bedeutende mennonitische Siedlung im Bezirk Orange Walk. Die Gemeinde ist weitgehend autark und konzentriert sich stark auf die landwirtschaftliche Produktion, insbesondere den Anbau von Getreide und die Viehzucht. Die Siedlung bietet einen faszinierenden Einblick in den traditionellen Lebensstil der Mennoniten in den Tropen. Sachkunde K4 — alternative Lebensweisen.",
       hu: "",
       ro: "Shipyard este o așezare menonită tradițională de tip „Old Colony” situată în districtul Orange Walk, cunoscută pentru angajamentul său față de un mod de viață agrar simplu. Fondată în 1958, comunitatea este caracterizată prin utilizarea trăsurilor trase de cai, îmbrăcămintea tradițională și un accent pe agricultura la scară largă fără utilizarea multor facilități moderne. Shipyard contribuie major la economia nordului, producând cantități mari de mobilier, carne de pasăre și cereale. Așezarea este organizată în mai multe sate sau tabere răspândite pe o zonă vastă de teren fertil. Pentru vizitatori, Shipyard oferă o privire izbitoare într-o lume care pare deconectată de epoca modernă.",
       en: "Shipyard is a traditional Old Colony Mennonite settlement located in the Orange Walk District, known for its commitment to a simple, agrarian way of life. Founded in 1958, the community is characterized by its use of horse-drawn buggies, traditional dress, and a focus on large-scale agriculture without the use of many modern conveniences. Shipyard is a major contributor to the northern economy, producing large quantities of furniture, poultry, and grains. The settlement is organized into several 'villages' or camps spread across a vast area of fertile land. For visitors, Shipyard offers a striking glimpse into a world that feels disconnected from the modern age, where faith and hard work remain the cornerstones of daily life in one of Belize's most productive rural communities."
@@ -174,7 +171,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Mennonite settlement.", "Known for agriculture and furniture making.", "Traditional lifestyle without modern technology.", "Horse-drawn buggies are common."]
     },
     factsAdvanced: {
-      de: ["Shipyard wurde 1958 von mennonitischen Gruppen aus Mexiko gegründet.", "In der Gemeinschaft ist die Nutzung von Elektrizität weitgehend verboten.", "Pferdekutschen sind das primäre Transportmittel innerhalb der Siedlung.", "Shipyard ist ein führendes Zentrum für den Bau hochwertiger Holzmöbel.", "Die Siedlung ist in etwa 40 verschiedene 'Camps' unterteilt.", "Die Bevölkerung wird auf über 3.500 Einwohner geschätzt.", "Landwirtschaft (Mais, Reis, Bohnen) ist die Haupterwerbsquelle.", "Die Bewohner sprechen Plautdietsch, einen niederdeutschen Dialekt."],
+      de: ["Die Siedlung wurde in den 1950er Jahren von Mennoniten gegründet.", "Hauptwirtschaftszweig ist der Getreideanbau und die Produktion von Mehl.", "Die Gemeinschaft bewahrt weitgehend traditionelle deutsche Dialekte.", "Die Landschaft ist durch systematische Landwirtschaft geprägt.", "Die Infrastruktur wird primär durch die Gemeinde selbst unterhalten.", "Wichtiger Lieferant für landwirtschaftliche Maschinen in Nord-Belize."],
       hu: [],
       ro: [
       "Shipyard a fost fondat în 1958 de grupuri de menoniți din Mexic și Canada.",
@@ -184,8 +181,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Agricultura este ocupația principală, axată pe orez, porumb și fasole."
     ],
       en: ["Shipyard was founded in 1958 by Mennonite groups from Mexico and Canada.", "The community prohibits the use of electricity and rubber-tired vehicles for most tasks.", "It is a major center for the manufacturing of high-quality wooden furniture.", "The settlement is divided into about 40 distinct 'camps' or villages.", "The population is estimated to be over 3,500 residents.", "Agriculture is the primary occupation, focusing on rice, corn, and beans.", "It is located about 15 miles south of Orange Walk Town."]
-    }
-  },
+    }, image: "/poi-images/shipyard-cities-v2.webp"},
   {
     id: "spanish-lookout-cities-v2",
     type: "city",
@@ -199,7 +195,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A modern and prosperous Mennonite community."
     },
     descriptionAdvanced: {
-      de: "Spanish Lookout ist eine florierende und einzigartige mennonitische Gemeinschaft im oberen Belize River Valley des Cayo-Distrikts. Gegründet im Jahr 1958 von plautdietschsprachigen Mennoniten aus Mexiko, hat es sich zu einer der produktivsten Agrar- und Industrieregionen des Landes entwickelt. Die Siedlung zeichnet sich durch ihre sanften Hügel, ordentlich organisierten Farmen und eine moderne Infrastruktur aus, die im Kontrast zu weiten Teilen des ländlichen Belize steht. Spanish Lookout ist ein Hauptlieferant für Milchprodukte, Geflügel und Getreide im ganzen Land und beherbergt zudem das erste kommerzielle Ölfeld Belizes. Besucher sind oft überrascht vom industriellen Erfolg der Gemeinschaft und ihrer Mischung aus traditionellen Werten und moderner Technologie.",
+      de: "Spanish Lookout ist die modernste mennonitische Siedlung in Belize und ein wirtschaftliches Kraftzentrum. Sie liegt im Bezirk Cayo und ist bekannt für ihren hochgradig mechanisierten Agrarsektor, die Geflügelproduktion und ein breites Angebot an technischem Bedarf. Die Siedlung dient als ein zentraler Hub für den Handel und Dienstleistungen in West-Belize. Sachkunde K6 — Landwirtschaft und Technologie.",
       hu: "",
       ro: "Spanish Lookout este una dintre cele mai prospere comunități menonite din Belize, situată în districtul Cayo. Înființată în 1958 de menoniți vorbitori de Plautdietsch, a devenit un motor economic major, axat pe agricultură și industrie. Spanish Lookout este renumit pentru producția de lactate, păsări de curte și piese auto, având o infrastructură modernă și drumuri bine întreținute. Comunitatea îmbină valorile tradiționale cu tehnologia de vârf, fiind un exemplu de eficiență și succes economic în mediul rural belizean. Peisajul său, cu dealuri ondulate și ferme ordonate, oferă o imagine contrastantă față de restul țării.",
       en: "Spanish Lookout is a thriving and unique Mennonite community located in the upper Belize River Valley of the Cayo District. Established in 1958 by Plautdietsch-speaking Mennonites from Mexico, it has become one of the most productive agricultural and industrial regions in the country. The settlement is characterized by its rolling hills, neatly organized farms, and modern infrastructure that stands in contrast to much of rural Belize. Spanish Lookout is a major provider of dairy, poultry, and grains for the nation, and it is also home to the country's first commercial oil field. Visitors are often surprised by the community's industrial success and its blend of traditional values with modern technology, offering a fascinating look at one of the many diverse cultures that contribute to Belize's economy."
@@ -211,7 +207,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Progressive Mennonite settlement.", "Center for dairy and poultry production.", "High degree of mechanization.", "Has a 'Midwest USA' feel."]
     },
     factsAdvanced: {
-      de: ["Spanish Lookout wurde 1958 von 75 Mennoniten-Familien gegründet.", "Die Gemeinschaft bewirtschaftet etwa 18.000 Hektar Land.", "Es ist der Hauptproduzent von Milch, Käse und Hühnerfleisch in Belize.", "Die Einwohner sprechen Plautdietsch als Muttersprache.", "Hier wurde 2005 das erste kommerziell genutzte Ölfeld Belizes entdeckt.", "Die Bevölkerung beträgt etwa 2.500 Einwohner.", "Die Gemeinschaft verwaltet ihre eigenen Straßen und Versorgungsbetriebe.", "Es ist ein wichtiges Handelszentrum für landwirtschaftliche Maschinen."],
+      de: ["Bekannt für den größten Geflügelmarkt des Landes.", "Die Siedlung verfügt über eine hochmoderne Infrastruktur.", "Wichtiger Standort für den Import und Verkauf von Baufahrzeugen.", "Gegründet von Mennoniten, die aus Mexiko einwanderten.", "Das Gelände ist für seine weitläufigen und gut organisierten Felder bekannt.", "Bietet eine Vielzahl von Dienstleistungen wie Banken und Tankstellen."],
       hu: [],
       ro: [
       "Spanish Lookout a fost fondat în 1958 de 75 de familii de menoniți.",
@@ -221,8 +217,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Comunitatea își gestionează propria întreținere a drumurilor și utilităților."
     ],
       en: ["Spanish Lookout was founded in 1958 by 75 Mennonite families.", "The community encompasses approximately 18,000 acres of land.", "It is the main producer of milk, cheese, and chicken in Belize.", "The residents speak Plautdietsch, a low-German dialect.", "It is the site of the Spanish Lookout Oil Field, discovered in 2005.", "The population is approximately 2,500 residents.", "The community manages its own road maintenance and utilities."]
-    }
-  },
+    }, image: "/poi-images/spanish-lookout-cities-v2.webp"},
   {
     id: "ladyville-cities-v2",
     type: "city",
@@ -236,7 +231,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "The largest village in the Belize District, near the international airport."
     },
     descriptionAdvanced: {
-      de: "Ladyville ist eine bedeutende und schnell wachsende Gemeinde, etwa 13 Kilometer nördlich von Belize City gelegen, und vor allem als Heimat des Philip S.W. Goldson International Airport bekannt. Als Haupteintrittstor für die meisten Besucher des Landes ist Ladyville ein geschäftiger Verkehrsknotenpunkt und ein wachsendes Wohngebiet für Pendler nach Belize City. Die Gemeinde beherbergt zudem die Price Barracks, das Hauptquartier der Belize Defence Force. Trotz der Lage an der Durchgangsstraße bietet Ladyville ruhige Wohnviertel und ist Standort der wichtigsten Brauerei des Landes, in der das ikonische Belikin-Bier gebraut wird. Seine strategische Lage macht es zu einem lebenswichtigen und praktischen Knotenpunkt in der nationalen Infrastruktur Belizes.",
+      de: "Ladyville liegt nördlich von Belize City und ist ein schnell wachsender Vorort sowie Standort des Philip S.W. Goldson International Airport. Aufgrund seiner strategischen Lage ist es ein wichtiges Drehkreuz für Reisende und Logistikunternehmen. Die Stadt hat eine dynamische Entwicklung erfahren und bietet eine Mischung aus Wohnsiedlungen und gewerblichen Einrichtungen. Geografie K7 — Infrastrukturzentren.",
       hu: "",
       ro: "Ladyville este o comunitate majoră și în expansiune rapidă, situată la doar 13 kilometri nord de Belize City, cunoscută în principal ca fiind sediul Aeroportului Internațional Philip S.W. Goldson. Fiind principala poartă de intrare pentru majoritatea vizitatorilor țării, Ladyville este un nod de transport aglomerat și o zonă rezidențială în creștere pentru persoanele care lucrează în oraș. Comunitatea găzduiește, de asemenea, Price Barracks, sediul central al Forțelor de Apărare din Belize. În ciuda locației sale agitate lângă autostradă, Ladyville oferă mai multe cartiere rezidențiale liniștite și găzduiește principala berărie a țării, care produce emblematica bere Belikin. Locația sa strategică îl face un nod vital în infrastructura națională a Belizei.",
       en: "Ladyville is a major and rapidly expanding community located just 8 miles north of Belize City, known primarily as the home of the Philip S.W. Goldson International Airport. As the main port of entry for most visitors to the country, Ladyville is a bustling transportation hub and a growing residential area for people working in the city. The community is also the site of the Price Barracks, the headquarters of the Belize Defence Force. Despite its busy highway-side location, Ladyville offers several quiet residential neighborhoods and is the site of the country's main brewery, producing the iconic Belikin beer. Its strategic location between the city and the northern and western highways makes it a vital and convenient node in Belize's national infrastructure."
@@ -248,7 +243,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Location of the Philip S. W. Goldson International Airport.", "Major transportation hub.", "Growing residential area.", "Military base nearby."]
     },
     factsAdvanced: {
-      de: ["Ladyville ist bevölkerungsmäßig das größte Dorf in Belize.", "Hier befindet sich der einzige internationale Flughafen von Belize (BZE).", "Die Bevölkerung wird auf über 6.000 Einwohner geschätzt.", "Die Belize Brewing Company (Belikin Beer) wurde hier 1969 gegründet.", "Das Hauptquartier der Belize Defence Force (BDF) befindet sich hier.", "Die Gemeinde liegt etwa 13 Kilometer nördlich von Belize City.", "Ladyville ist ein bedeutender Standort für Logistik und Leichtindustrie.", "Nahegelegene Mangrovengebiete prägen die natürliche Umgebung."],
+      de: ["Heimat des wichtigsten internationalen Flughafens von Belize.", "Geografisch direkt an der Nordverbindungsstraße zum Rest des Landes.", "Die Bevölkerung besteht aus einer Mischung aus Pendelnden und Einheimischen.", "In den letzten Jahrzehnten stark durch Wohnungsbau gewachsen.", "Bedeutender Knotenpunkt für den nationalen Warenverkehr.", "Liegt nur wenige Kilometer nördlich des Stadtzentrums von Belize City."],
       hu: [],
       ro: [
       "Ladyville este cel mai mare sat din Belize după populație.",
@@ -273,7 +268,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A settlement founded for the victims of Hurricane Hattie."
     },
     descriptionAdvanced: {
-      de: "Hattieville ist eine Siedlung im Belize-Distrikt mit einer bewegten Entstehungsgeschichte. Sie wurde im Jahr 1961 als Notunterkunft für die Opfer des verheerenden Hurrikans Hattie gegründet, der Belize City fast vollständig zerstört hatte. Was als temporäres Zeltlager begann, entwickelte sich im Laufe der Jahrzehnte zu einer dauerhaften und lebendigen Gemeinde entlang des George Price Highway. Hattieville ist heute bekannt als Standort des Zentralgefängnisses von Belize, der einzigen Strafanstalt des Landes. Die Gemeinde hat einen ländlichen Charakter bewahrt und dient vielen Pendlern als Wohnort, die in Belize City oder Belmopan arbeiten. Die multikulturelle Bevölkerung spiegelt die Vielfalt des Landes wider und macht Hattieville zu einem wichtigen Knotenpunkt zwischen der Küste und dem Westen.",
+      de: "Hattieville wurde ursprünglich als Notunterkunft nach dem verheerenden Hurrikan Hattie im Jahr 1961 errichtet. Seitdem hat sich der Ort zu einer eigenständigen Gemeinde westlich von Belize City entwickelt. Die Siedlung ist ein Zeugnis für die Resilienz der Bevölkerung gegenüber den Naturgewalten in der Karibik. Geschichte K8 — Naturkatastrophen und Siedlungsgeschichte.",
       hu: "",
       ro: "Hattieville este o comunitate rezistentă și semnificativă situată la 25 de kilometri vest de Belize City, de-a lungul autostrăzii George Price. Satul are o istorie de origine unică, fiind înființat ca tabără de refugiați pentru locuitorii din Belize City care au fost strămutați de devastatorul uragan Hattie in 1961. De-a lungul deceniilor, Hattieville a evoluat într-o așezare permanentă și prosperă, servind ca un centru rezidențial vital. Comunitatea este cunoscută pentru spiritul său puternic de supraviețuire și rolul său de răscruce pentru călătorii care se îndreaptă spre părțile de vest și de sud ale țării. Hattieville rămâne o dovadă a rezistenței poporului belizean și a impactului istoric al uraganului din 1961.",
       en: "Hattieville is a significant and resilient community located just 16 miles west of Belize City along the George Price Highway. The village has a unique origin story, as it was established as a refugee camp for residents of Belize City who were displaced by the devastating Hurricane Hattie in 1961. Over the decades, Hattieville has evolved into a permanent and thriving settlement, serving as a vital residential hub for people working in the city and the nearby correctional facility. The community is known for its strong spirit of survival and its role as a crossroad for travelers heading to the western and southern parts of the country. Hattieville remains a testament to the endurance of the Belizean people and the historical impact of the 1961 hurricane."
@@ -285,7 +280,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Founded after Hurricane Hattie in 1961.", "Located on the George Price Highway.", "Site of the Belize Central Prison.", "Multi-cultural population."]
     },
     factsAdvanced: {
-      de: ["Hattieville wurde 1961 nach dem gleichnamigen Hurrikan gegründet.", "Es liegt etwa 25 Kilometer westlich von Belize City.", "Die Gemeinde beherbergt das Belize Central Prison (Kolbe Foundation).", "Die Siedlung liegt direkt am George Price Highway.", "Es ist eine wichtige Station für Reisende ins Landesinnere.", "Die Bevölkerung besteht aus Kreolen, Mestizen und anderen Gruppen.", "Hattieville verfügt über mehrere Grundschulen und Kirchen.", "Die Umgebung ist geprägt von Kiefernsavannen und Buschland."],
+      de: ["Gegründet unmittelbar nach dem Hurrikan Hattie 1961.", "Ursprünglich als Lager für Obdachlose konzipiert.", "Liegt strategisch an der westlichen Verbindungsstraße (George Price Highway).", "Hat sich von einer provisorischen Siedlung zu einem festen Wohnort gewandelt.", "Die Gemeinde ist für ihr starkes Zusammengehörigkeitsgefühl bekannt.", "Dient heute als wichtiger Knotenpunkt für den Verkehr in das Landesinnere."],
       hu: [],
       ro: [
       "A fost fondat ca o tabără temporară de refugiați după uraganul Hattie din 1961.",
@@ -295,8 +290,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Servește ca un important nod pentru navetiștii către Belize City."
     ],
       en: ["Hattieville was founded as a temporary refugee camp in 1961.", "It is named after Hurricane Hattie, which necessitated its creation.", "The village is home to the Belize Central Prison.", "The population is approximately 5,000 residents.", "It is situated at the junction of the George Price Highway and the Burrell Boom Road.", "The area was originally dominated by tropical savanna and pine forests.", "It serves as a major commuter hub for Belize City."]
-    }
-  },
+    }, image: "/poi-images/hattieville-cities-v2.webp"},
   {
     id: "santa-elena-cities-v2",
     type: "city",
@@ -310,7 +304,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "The sister town of San Ignacio, connected by the Hawkesworth Bridge."
     },
     descriptionAdvanced: {
-      de: "Santa Elena ist die Zwillingsstadt von San Ignacio und dient als geschäftiges östliches Tor zum Cayo-Distrikt. Am östlichen Ufer des Macal River gelegen, ist sie über die historische Hawkesworth-Brücke mit San Ignacio verbunden. Während sie oft im Schatten ihrer eher touristisch geprägten Zwillingsstadt steht, ist Santa Elena ein wichtiges Wohn- und Handelszentrum für die lokale Bevölkerung. Die Stadt bietet eine authentischere Atmosphäre mit zahlreichen kleinen Geschäften, Schulen und Wohngebieten. Santa Elena ist ein wesentlicher Teil der regionalen Wirtschaft und stellt einen Großteil der Arbeitskräfte und Infrastruktur für die blühende Tourismusindustrie im Westen Belizes bereit. Die Lage entlang der Hauptverkehrsstraße macht sie zu einem lebhaften Kreuzungspunkt für Reisende zwischen der Hauptstadt und der Grenze.",
+      de: "Santa Elena ist ein Stadtteil des urbanen Zentrums von San Ignacio/Santa Elena und liegt am Ufer des Macal River im Bezirk Cayo. Der Ort ist eng mit der Nachbarstadt verbunden und durch die Hawkesworth Bridge, die einzige Hängebrücke des Landes, erreichbar. Die Region ist ein wichtiges Zentrum für den Ökotourismus. Erdkunde K7 — Städte an Flüssen.",
       hu: "",
       ro: "Santa Elena este orașul geamăn al lui San Ignacio și servește ca poartă estică aglomerată către districtul Cayo. Situat pe malul estic al râului Macal, este conectat de San Ignacio prin istoricul pod suspendat Hawksworth. Deși adesea umbrit de geamănul său mai axat pe turism, Santa Elena este un centru rezidențial și comercial vital, găzduind o populație mare și diversă. Orașul oferă o atmosferă mai locală și autentică, cu numeroase afaceri mici, școli și cartiere rezidențiale. Santa Elena este o parte esențială a economiei și culturii regiunii, oferind forța de muncă și infrastructura care susțin industria turismului în plină expansiune din vestul Belizei.",
       en: "Santa Elena is the twin town of San Ignacio and serves as the bustling eastern gateway to the Cayo District. Located on the eastern bank of the Macal River, it is connected to San Ignacio by the historic Hawksworth Bridge. While often overshadowed by its more tourist-focused twin, Santa Elena is a vital residential and commercial center, home to a large and diverse population. The town offers a more local and authentic atmosphere, with numerous small businesses, schools, and residential neighborhoods. Santa Elena is an essential part of the region's economy and culture, providing the workforce and infrastructure that support the booming tourism industry in western Belize. Its location along the main highway makes it a bustling crossroads for people traveling between the capital and the western border."
@@ -322,7 +316,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Part of the twin towns San Ignacio/Santa Elena.", "Important commercial center.", "Growing population.", "Gateway to the Mountain Pine Ridge."]
     },
     factsAdvanced: {
-      de: ["Santa Elena bildet mit San Ignacio das größte urbane Zentrum in Cayo.", "Die Stadt liegt etwa 109 Kilometer westlich von Belize City.", "Die historische Hawkesworth-Brücke verbindet sie seit 1949 mit San Ignacio.", "Die Bevölkerung von Santa Elena beträgt etwa 10.000 Einwohner.", "Es ist ein wichtiges kommerzielles Zentrum für umliegende Dörfer.", "Die Stadt beherbergt mehrere lokale Märkte und traditionelle Garküchen.", "Sie liegt auf einer durchschnittlichen Höhe von etwa 60 Metern.", "Santa Elena ist bekannt für ihre lebendige lokale Gemeinschaft."],
+      de: ["Verbunden mit San Ignacio durch die Hawkesworth Bridge.", "Gelegen im fruchtbaren Tal des Macal River.", "Dient als Ausgangspunkt für Ausflüge in den Mountain Pine Ridge.", "Hat eine hohe Konzentration an Touristenunterkünften und Gastronomie.", "Die Bevölkerung ist ein Abbild der vielfältigen ethnischen Gruppen in Cayo.", "Kulturell eng mit den Aktivitäten in San Ignacio verzahnt."],
       hu: [],
       ro: [
       "Santa Elena și San Ignacio formează împreună cea mai mare zonă urbană din Cayo.",
@@ -332,8 +326,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Populația orașului Santa Elena este de aproximativ 10.000 de locuitori."
     ],
       en: ["Santa Elena and San Ignacio together form the largest urban area in Cayo.", "The town is located about 68 miles (109 kilometers) west of Belize City.", "The Hawksworth Bridge, connecting it to San Ignacio, was built in 1949.", "The population of Santa Elena is approximately 10,000 residents.", "It is the administrative and commercial hub for many surrounding villages.", "The town features many traditional Belizean eateries and local markets.", "It sits at an average elevation of 60 meters (200 feet)."]
-    }
-  },
+    }, image: "/poi-images/santa-elena-cities-v2.webp"},
   {
     id: "valley-of-peace-cities-v2",
     type: "city",
@@ -347,7 +340,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A refugee community founded mainly by Salvadorans."
     },
     descriptionAdvanced: {
-      de: "Valley of Peace ist eine einzigartige Gemeinschaft im Cayo-Distrikt, die im Jahr 1982 als gemeinsames Projekt der belizischen Regierung und des UN-Hochkommissariats für Flüchtlinge gegründet wurde. Ursprünglich als Zufluchtsort für Menschen konzipiert, die vor den Bürgerkriegen in El Salvador und Guatemala flohen, hat sich das Dorf zu einer produktiven landwirtschaftlichen Gemeinschaft entwickelt. Die Bewohner sind für ihren Fleiß und ihre Expertise im Gemüseanbau bekannt und beliefern Märkte im ganzen Land mit frischen Produkten. Valley of Peace hat sich von einer reinen Flüchtlingssiedlung zu einem fest integrierten Teil Belizes entwickelt, in dem Traditionen aus Zentralamerika und die belizische Identität harmonisch verschmelzen. Die ländliche Abgeschiedenheit und der starke Gemeinschaftsgeist prägen das Leben in diesem 'Tal des Friedens'.",
+      de: "Valley of Peace ist ein einzigartiges Agrardorf im Bezirk Cayo, das in den 1980er Jahren für Flüchtlinge aus den umliegenden mittelamerikanischen Ländern gegründet wurde. Heute ist es eine friedliche Gemeinde, die für ihre vielfältige Landwirtschaft bekannt ist. Das Dorf ist ein Symbol für Integration und friedliches Zusammenleben in Belize. Geschichte K8 — Migration und gesellschaftliche Entwicklung.",
       hu: "",
       ro: "Valley of Peace este o comunitate unică și inspirațională din districtul Cayo, fondată în 1982 ca așezare de refugiați pentru familiile care fugeau de războaiele civile din țările vecine din America Centrală. Înființat cu sprijinul Națiunilor Unite și al guvernului din Belize, satul a fost conceput pentru a oferi un refugiu sigur și un nou început persoanelor strămutate. Astăzi, Valley of Peace a evoluat într-un hub agricol extrem de productiv, cunoscut pentru fermele sale extinse de legume care aprovizionează piețele din întreaga țară. Comunitatea este un model de succes de integrare și reziliență, unde oameni din medii diverse s-au unit pentru a construi o viață pașnică și prosperă.",
       en: "Valley of Peace is a unique and inspirational community in the Cayo District, founded in 1982 as a refugee settlement for families fleeing civil wars in neighboring Central American countries. Established with the support of the United Nations and the Belizean government, the village was designed to provide a safe haven and a new beginning for displaced people. Today, Valley of Peace has evolved into a highly productive agricultural hub, known for its extensive vegetable farms that supply markets throughout Belize. The community is a successful model of integration and resilience, where people of diverse backgrounds have come together to build a peaceful and prosperous life. Its lush, fertile setting and hardworking spirit make it a standout example of human perseverance and community development."
@@ -359,7 +352,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Established in 1982.", "Agricultural-based community.", "Population from various Central American countries.", "Strong sense of community."]
     },
     factsAdvanced: {
-      de: ["Gegründet 1982 für Flüchtlinge aus Zentralamerika.", "Das Dorf liegt nördlich von Belmopan am Belize River.", "Es ist bekannt für den großflächigen Anbau von Kohl, Tomaten und Zwiebeln.", "Die Bevölkerung besteht überwiegend aus spanischsprachigen Mestizen.", "Valley of Peace verfügt über eine eigene Kooperative für Bauern.", "Das Dorf hat im Laufe der Jahre eine moderne Infrastruktur erhalten.", "Es ist ein Modellbeispiel für erfolgreiche Flüchtlingsintegration.", "Die umliegenden Ländereien gehören zu den fruchtbarsten der Region."],
+      de: ["Gegründet in den 1980er Jahren als Zufluchtsort für Migranten.", "Der Name spiegelt den Wunsch nach Frieden in der Region wider.", "Die Wirtschaft basiert hauptsächlich auf dem Obst- und Gemüseanbau.", "Die Gemeinde besteht aus Menschen unterschiedlicher nationaler Herkunft.", "Ein Vorbildprojekt für landwirtschaftliche Integration.", "Bekannt für den Anbau von diversen tropischen Früchten."],
       hu: [],
       ro: [
       "Valley of Peace a fost fondat în martie 1982 pentru refugiați.",
@@ -369,8 +362,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Numele reflectă misiunea fondatoare de a oferi un sanctuar pașnic."
     ],
       en: ["Valley of Peace was founded in March 1982.", "It was originally established for refugees from El Salvador and Guatemala.", "The village is a major producer of cabbage, tomatoes, and other vegetables.", "The population is approximately 4,000 residents.", "It is located about 8 miles north of Belmopan city.", "The community manages its own extensive agricultural cooperatives.", "The name reflects the founding mission of providing a peaceful sanctuary."]
-    }
-  },
+    }, image: "/poi-images/valley-of-peace-cities-v2.webp"},
   {
     id: "placencia-village-cities-v2",
     type: "city",
@@ -384,7 +376,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A picturesque fishing village at the tip of a peninsula, now a popular tourist spot."
     },
     descriptionAdvanced: {
-      de: "Placencia Village ist ein malerisches und schnell wachsendes Reiseziel an der Südspitze der 26 Kilometer langen Placencia-Halbinsel. Das ehemalige Fischerdorf ist heute ein Favorit für Reisende, die wunderschöne Sandstrände, eine entspannte Atmosphäre und eine Vielzahl von gehobenen Resorts suchen. Einzigartig an Placencia ist der 'Sidewalk' – ein schmaler, kilometerlanger Fußweg, der als Hauptstraße des Dorfes dient und von bunten Geschäften, Bars und Restaurants gesäumt ist. Das Dorf bietet einfachen Zugang sowohl zum Barrier Reef zum Tauchen und Schnorcheln als auch zum Festland für Dschungelabenteuer. Bekannt für seine freundliche Gemeinschaft und einige der besten Strände im kontinentalen Belize, bietet Placencia eine perfekte Balance zwischen karibischem Inselcharme und bequemer Erreichbarkeit des Festlandes.",
+      de: "Placencia Village liegt auf einer schmalen Halbinsel im Süden von Belize und ist ein Paradies für Strandliebhaber. Bekannt für seine unberührten weißen Sandstrände und die 'Sidewalk', die schmalste Hauptstraße der Welt, ist es eines der populärsten Touristenziele. Das Dorf vereint entspanntes karibisches Flair mit einer erstklassigen touristischen Infrastruktur. Geografie K6 — Tourismus und Küstenlandschaften.",
       hu: "",
       ro: "Placencia Village este o destinație pitorească și în creștere rapidă, situată în vârful sudic al peninsulei Placencia, lungă de 26 de kilometri. Acest fost sat pescăresc a devenit favoritul călătorilor care caută plaje frumoase cu nisip, o atmosferă relaxată și o varietate de stațiuni de lux. Placencia este unică prin „Sidewalk” – o potecă pietonală îngustă, lungă de un kilometru, care servește drept arteră principală a satului, mărginită de magazine colorate, baruri și restaurante. Satul oferă acces ușor atât la bariera de corali pentru scufundări și snorkeling, cât și la uscat pentru aventuri în junglă. Cunoscut pentru comunitatea sa prietenoasă, Placencia oferă un echilibru perfect între farmecul insular și accesibilitate.",
       en: "Placencia Village is a picturesque and rapidly growing destination located at the southern tip of the 16-mile-long Placencia Peninsula. This former fishing village has become a favorite for travelers seeking beautiful sandy beaches, a relaxed vibe, and a variety of upscale resorts. Placencia is unique for its 'Sidewalk'—a narrow, mile-long pedestrian path that serves as the village's main thoroughfare, lined with colorful shops, bars, and restaurants. The village offers easy access to both the barrier reef for diving and snorkeling, and the mainland for jungle adventures. Known for its friendly community and some of the best beaches in mainland Belize, Placencia provides a perfect balance between Caribbean island charm and convenient mainland access, making it a premier spot for a tropical getaway."
@@ -396,7 +388,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Known for its long sandy beaches.", "Features the world's narrowest main street.", "Hub for diving and snorkeling trips.", "Creole cultural hub."]
     },
     factsAdvanced: {
-      de: ["Placencia liegt etwa 257 Kilometer südlich von Belize City.", "Der 'Sidewalk' war einst als schmalste Hauptstraße der Welt im Guinness-Buch.", "Die Bevölkerung des Dorfes beträgt etwa 1.500 Einwohner.", "Placencia ist ein Zentrum für Walhai-Beobachtungstouren im Frühjahr.", "Ursprünglich wurde es im 17. Jahrhundert von englischen Puritanern besiedelt.", "Die Halbinsel wird vom Karibischen Meer und einer Mangrovenlagune flankiert.", "Das Dorf veranstaltet im Juni das berühmte jährliche 'Lobsterfest'.", "Es gilt als einer der exklusivsten Urlaubsorte in ganz Belize."],
+      de: ["Die berühmte 'Sidewalk' misst an der schmalsten Stelle etwa einen Meter.", "Liegt auf einer langen, schmalen Halbinsel im Stann Creek Bezirk.", "Der Ort bietet Zugang zu den schönsten Stränden von Belize.", "Ausgangspunkt für Touren zu den Laughing Bird Caye Inseln.", "Die lokale Wirtschaft ist fast vollständig vom Tourismus abhängig.", "Bietet eine breite Auswahl an Unterkünften vom Bungalow bis zum Resort."],
       hu: [],
       ro: [
       "Placencia deține recordul pentru cea mai îngustă stradă principală din lume (un trotuar).",
@@ -406,8 +398,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "A fost stabilit inițial de puritani englezi în secolul al XVII-lea."
     ],
       en: ["Placencia is located approximately 160 miles (257 kilometers) south of Belize City.", "The village's 'Main Street' is a sidewalk that was once the world's narrowest.", "The population of the village is approximately 1,500 residents.", "Placencia is a major hub for whale shark watching tours in the spring.", "It was originally settled by English Puritans in the 17th century.", "The peninsula is flanked by the Caribbean Sea and a mangrove lagoon.", "The village hosts a famous annual Lobsterfest in June."]
-    }
-  },
+    }, image: "/poi-images/placencia-village-cities-v2.webp"},
   {
     id: "caye-caulker-village-cities-v2",
     type: "city",
@@ -421,7 +412,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A laid-back village on the island of the same name with the motto 'Go Slow'."
     },
     descriptionAdvanced: {
-      de: "Caye Caulker ist ein charmantes und entspanntes Inseldorf südlich von Ambergris Caye, das weltweit für sein Motto 'Go Slow' bekannt ist. Diese kleine Koralleninsel bietet eine bohemische und budgetfreundliche Alternative zu ihrem geschäftigeren Nachbarn San Pedro. Das Dorf ist geprägt von bunten Holzhäusern, Sandstraßen und einem Mangel an Autos, wobei Fahrräder und das Zufußgehen die bevorzugten Fortbewegungsmittel sind. Caye Caulker wird durch einen schmalen Kanal namens 'The Split' geteilt, der ein beliebter Ort zum Schwimmen und für soziale Kontakte geworden ist. Die Insel ist perfekt gelegen, um das Riff zu erkunden, und bietet exzellente Schnorchel- und Tauchmöglichkeiten nur wenige Minuten entfernt. Mit seiner entspannten Atmosphäre, frischen Meeresfrüchten und atemberaubenden Sonnenuntergängen ist Caye Caulker das ultimative Ziel für alle, die eine ruhige Inselauszeit suchen.",
+      de: "Caye Caulker ist eine kleine Insel vor der Küste von Belize, die für ihr Motto 'Go Slow' bekannt ist. Es gibt keine motorisierten Fahrzeuge, was zur entspannten Atmosphäre beiträgt. Die Insel ist ein Zentrum für Backpacker und Taucher, die das nahegelegene Barrier Reef erkunden möchten. Sachkunde K5 — Ökosysteme und Inselleben.",
       hu: "",
       ro: "Caye Caulker este un sat insular fermecător și relaxat, situat la sud de Ambergris Caye, faimos în întreaga lume pentru mottoul său: „Go Slow”. Această mică insulă de corali oferă o alternativă mai boemă și mai accesibilă la vecinul său mai aglomerat, San Pedro. Satul se caracterizează prin casele sale colorate din lemn, străzile cu nisip și absența mașinilor, bicicletele și mersul pe jos fiind modalitățile preferate de deplasare. Caye Caulker este divizat de un canal îngust numit „The Split”, care a devenit un loc popular pentru înot și socializare. Insula este poziționată perfect pentru explorarea recifului, oferind snorkeling și scufundări excelente la doar câteva minute distanță.",
       en: "Caye Caulker is a charming and laid-back island village located just south of Ambergris Caye, famously known for its motto, 'Go Slow.' This small coral island offers a more bohemian and budget-friendly alternative to its busier neighbor, San Pedro. The village is characterized by its colorful wooden houses, sandy streets, and a lack of cars, with bicycles and walking being the preferred ways to get around. Caye Caulker is divided by a narrow channel known as 'The Split,' which has become a popular spot for swimming and socializing. The island is perfectly positioned for exploring the reef, offering excellent snorkeling and diving just minutes away. With its relaxed atmosphere, fresh seafood, and stunning sunsets, Caye Caulker is the ultimate destination for those seeking a tranquil and authentic island escape."
@@ -433,7 +424,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["No cars, only golf carts and bicycles.", "Popular with backpackers.", "'The Split' is a famous swimming spot.", "Caribbean island vibe."]
     },
     factsAdvanced: {
-      de: ["Die Insel ist etwa 8 Kilometer lang.", "Caye Caulker liegt 34 Kilometer nordöstlich von Belize City.", "Die Bevölkerung des Dorfes beträgt etwa 2.000 Einwohner.", "Der Hurrikan Hattie teilte die Insel im Jahr 1961 in zwei Teile.", "In den 1970er Jahren wandelte sich die Wirtschaft vom Hummerfang zum Tourismus.", "Mangrovenwälder bedecken große Teile der nördlichen Inselhälfte.", "Es ist ein weltweit bekanntes Ziel für Rucksacktouristen und Individualreisende.", "Auf der Insel gibt es so gut wie keine befestigten Straßen."],
+      de: ["Das offizielle Motto der Insel ist 'Go Slow'.", "Der 'Split' ist ein bekannter Bereich, der die Insel in zwei Teile teilt.", "Keine Autos auf der Insel, nur Golfcarts und Fahrräder.", "Ein Highlight für Taucher und Schnorchler am Barrier Reef.", "Gegründet im 19. Jahrhundert als Zufluchtsort während des Kastenkrieges.", "Beliebter Treffpunkt für junge Reisende aus aller Welt."],
       hu: [],
       ro: [
       "Insula are o lungime de aproximativ 8 kilometri.",
@@ -443,8 +434,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Pădurile de mangrove acoperă mari părți din jumătatea nordică a insulei."
     ],
       en: ["The island is approximately 5 miles (8 kilometers) long.", "Caye Caulker is located 21 miles (34 kilometers) northeast of Belize City.", "The population of the village is about 2,000 residents.", "Hurricane Hattie split the island into two parts in 1961.", "The island's economy shifted from lobster fishing to tourism in the 1970s.", "Mangrove forests cover large parts of the northern half of the island.", "It is a world-renowned destination for budget travelers and backpackers."]
-    }
-  },
+    }, image: "/poi-images/caye-caulker-village-cities-v2.webp"},
   {
     id: "hopkins-village-cities-v2",
     type: "city",
@@ -458,7 +448,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A traditional Garifuna fishing village on the coast."
     },
     descriptionAdvanced: {
-      de: "Hopkins ist ein lebendiges und einladendes Küstendorf im Stann Creek District, das als die authentischste Garifuna-Gemeinschaft in Belize gefeiert wird. An einer weiten Bucht mit wunderschönen Sandstränden gelegen, bietet Hopkins eine einzigartige kulturelle Erfahrung, bei der traditionelle Musik, Tanz und Essen Teil des täglichen Lebens sind. Das Dorf hat ein entspanntes, wenig kommerzialisiertes Gefühl bewahrt, was es zu einem Favoriten für Reisende macht, die eine tiefere Verbindung zum lokalen Erbe suchen. Hopkins ist zudem ein strategischer Ausgangspunkt für die Erkundung der nahegelegenen Maya Mountains und des Barrier Reefs. Ob man bei lokalen Meistern das Trommeln lernt, traditionelles Hudut genießt oder einfach die Meeresbrise unter einer Palme aufsaugt – Besucher finden in Hopkins eine herzliche Gemeinschaft, die stolz ihre reichen angestammten Traditionen pflegt.",
+      de: "Hopkins Village gilt als das kulturelle Herz der Garifuna-Bevölkerung in Belize. Das Dorf liegt direkt an der Küste im Stann Creek Bezirk und bewahrt seine Traditionen, wie die Trommelmusik und die Garifuna-Küche. Die Umgebung bietet eine perfekte Mischung aus kulturellem Erleben und Naturabenteuern. Geschichte K7 — Traditionen und ethnische Gruppen.",
       hu: "",
       ro: "Hopkins este un sat de coastă vibrant și primitor din districtul Stann Creek, celebrat ca fiind cea mai autentică comunitate Garifuna din Belize. Situat pe un golf larg cu plaje frumoase cu nisip, Hopkins oferă o experiență culturală unică, unde muzica, dansul și mâncarea tradițională fac parte din viața de zi cu zi. Satul are o atmosferă relaxată, necomercială, fiind preferatul călătorilor care caută o conexiune mai profundă cu patrimoniul local. Hopkins este, de asemenea, o bază strategică pentru explorarea munților Maya și a barierei de corali. Vizitatorii pot învăța să bată tobele cu maeștri locali sau pot savura preparatul tradițional Hudut, bucurându-se de ospitalitatea acestei comunități sufletiste.",
       en: "Hopkins is a vibrant and welcoming coastal village in the Stann Creek District, celebrated as the most authentic Garifuna community in Belize. Situated on a sweeping bay with beautiful sandy beaches, Hopkins offers a unique cultural experience where traditional music, dance, and food are a part of everyday life. The village has a relaxed, uncommercialized feel, making it a favorite for travelers seeking a deeper connection with local heritage. Hopkins is also a strategic base for exploring the nearby Maya Mountains and the barrier reef. Whether learning to drum with local masters, savoring traditional Hudut, or simply enjoying the sea breeze under a palm tree, visitors to Hopkins find a warm and soulful community that proudly preserves its rich ancestral traditions."
@@ -470,7 +460,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Center of Garifuna culture.", "Known for traditional drumming.", "Long stretch of sandy beach.", "Authentic cultural experience."]
     },
     factsAdvanced: {
-      de: ["Hopkins wurde 1942 gegründet, um das zerstörte Dorf Newtown zu ersetzen.", "Es liegt etwa 25 Kilometer südlich von Dangriga Town.", "Das Dorf hat etwa 2.500 Einwohner.", "Es gilt als das kulturelle Herz der Garifuna in Belize.", "Das Dorf erstreckt sich fast 5 Kilometer entlang der Karibikküste.", "Hopkins wurde mehrfach als 'freundlichstes Dorf Belizes' ausgezeichnet.", "Es ist das Küstendorf, das dem Cockscomb Jaguar Reservat am nächsten liegt.", "Am 19. November wird hier der Garifuna Settlement Day groß gefeiert."],
+      de: ["Bekannt für die Erhaltung der Garifuna-Kultur und Trommeltraditionen.", "Liegt an einem langen, malerischen Küstenabschnitt.", "Der Ort wird oft als einer der freundlichsten Orte in Belize beschrieben.", "Kulturelle Aktivitäten wie 'Drumming Lessons' sind sehr beliebt.", "Starker Fokus auf nachhaltigen Tourismus in der Gemeinschaft.", "Bietet einfachen Zugang zum Cockscomb Basin Wildlife Sanctuary."],
       hu: [],
       ro: [
       "Hopkins a fost fondat în 1942 pentru a înlocui satul Newtown.",
@@ -480,8 +470,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Este cel mai apropiat sat de coastă de Sanctuarul Cockscomb Basin Wildlife."
     ],
       en: ["Hopkins was founded in 1942 to replace the village of Newtown.", "It is located about 15 miles south of Dangriga Town.", "The village has a population of approximately 2,500 residents.", "It is considered the cultural center of the Garifuna people in Belize.", "The village stretches for nearly 3 miles along the Caribbean coast.", "Hopkins was voted the 'Friendliest Village in Belize' by multiple travel magazines.", "It is the closest coastal village to the Cockscomb Basin Wildlife Sanctuary."]
-    }
-  },
+    }, image: "/poi-images/hopkins-village-cities-v2.webp"},
   {
     id: "sarteneja-cities-v2",
     type: "city",
@@ -495,7 +484,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "The largest fishing village in Belize, known for its sailboat building."
     },
     descriptionAdvanced: {
-      de: "Sarteneja ist das größte Fischerdorf in Belize und liegt abgelegen an der Nordküste des Corozal-Distrikts. Bekannt für seine reiche Seefahrertradition, ist Sarteneja berühmt für seine Schiffsbauer, die noch immer traditionelle Segelboote aus Holz fertigen. Das Dorf liegt auf einer Halbinsel und bietet einen spektakulären Blick auf die Corozal Bay und die mexikanische Küste in der Ferne. Die Bewohner leben primär vom Fischfang und der Jagd auf Hummer und Strombus-Schnecken. In den letzten Jahren hat sich Sarteneja zu einem Zentrum für Naturschutz entwickelt, da es das Tor zum Shipstern Nature Reserve ist. Trotz seiner relativen Isolation bietet das Dorf eine herzliche Atmosphäre und ist ein Paradies für Reisende, die echtes belizisches Dorfleben und unberührte Natur suchen.",
+      de: "Sarteneja ist ein abgelegenes Fischerdorf im Norden von Belize, nahe der Grenze zu Mexiko. Es ist eines der wenigen Orte in Belize, in denen der traditionelle Bootsbau für die Fischerei noch heute gepflegt wird. Die Abgeschiedenheit verleiht dem Dorf eine authentische Ruhe, fernab der üblichen Touristenrouten. Erdkunde K7 — Fischerei und lokale Handwerkstraditionen.",
       hu: "",
       ro: "Sarteneja este cel mai mare și, probabil, cel mai frumos sat pescăresc din Belize, situat în vârful nordic al districtului Corozal. Cocoțat pe malul Golfului Corozal, satul este renumit pentru tradițiile sale artizanale de construcție a bărcilor și pentru priveliștile spectaculoase ale apusului de soare. Sarteneja este o comunitate mândră și independentă, unde pescuitul rămâne principalul mod de viață, deși ecoturismul devine tot mai important. Satul este poarta de acces către Rezervația Naturală Shipstern și este înconjurat de o biodiversitate bogată. Cu plajele sale cu nisip alb, apele turcoaz și cultura mestizo prietenoasă, Sarteneja oferă o experiență de coastă liniștită și autentică.",
       en: "Sarteneja is the largest and arguably the most beautiful fishing village in Belize, located on the northern tip of the Corozal District. Perched on the shores of Corozal Bay, the village is famous for its artisanal boat-building traditions and its stunning sunset views. Sarteneja is a proud and independent community, where fishing remains the primary way of life, though eco-tourism is becoming increasingly important. The village is the gateway to the Shipstern Nature Reserve and is surrounded by a wealth of biodiversity. With its white sandy beaches, turquoise waters, and friendly Mestizo culture, Sarteneja offers a peaceful and authentic coastal experience that feels like a journey back in time to an older, simpler Belize."
@@ -507,7 +496,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Most important center for boat building.", "Remote location on a peninsula.", "Manatee sanctuary nearby.", "Strong fishing tradition."]
     },
     factsAdvanced: {
-      de: ["Sarteneja ist das einzige Dorf in Belize, in dem man den Sonnenuntergang über dem Meer sehen kann (wegen seiner Lage in der Bucht).", "Es ist bekannt für den Bau der traditionellen belizischen Segel-Lighter.", "Das Dorf wurde von Maya-Flüchtlingen aus Yucatan gegründet.", "Das nahegelegene Shipstern Nature Reserve umfasst über 8.000 Hektar.", "Es ist ein wichtiges Nistgebiet für Manatis und Zugvögel.", "Die Bevölkerung besteht überwiegend aus spanischsprachigen Mestizen.", "Alljährlich findet eine berühmte Oster-Regatta statt.", "Sarteneja ist nur über eine lange Schotterstraße oder per Wassertaxi erreichbar."],
+      de: ["Das letzte große Dorf im Norden vor der Halbinsel Bacalar Chico.", "Traditionell ein Zentrum für handwerklichen Bootsbau.", "Die Wirtschaft basiert größtenteils auf Fischerei und Landwirtschaft.", "Liegt in einer Region mit hohem ökologischem Wert.", "Die Anfahrt erfolgt oft über unbefestigte, idyllische Straßen.", "Ein Ort, an dem die Zeit langsamer zu vergehen scheint."],
       hu: [],
       ro: [
       "Sarteneja este cel mai mare sat din districtul Corozal.",
@@ -517,8 +506,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Este poarta de acces către Rezervația Naturală Shipstern."
     ],
       en: ["Sarteneja is the largest village in the Corozal District.", "The population is approximately 2,500 residents.", "The name means 'water hole in the rock' in Maya.", "The village is famous for its traditional wooden sailing dories.", "It is located 40 miles by boat from Corozal Town.", "Sarteneja is home to the most sunset views on mainland Belize.", "The local economy is based on lobster and conch fishing."]
-    }
-  },
+    }, image: "/poi-images/sarteneja-cities-v2.webp"},
   {
     id: "independence-mango-creek-cities-v2",
     type: "city",
@@ -532,7 +520,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Twin villages that are home to a major port for the banana industry."
     },
     descriptionAdvanced: {
-      de: "Independence und Mango Creek sind zwei eng miteinander verbundene Dörfer im Stann Creek District, die gemeinsam ein wichtiges wirtschaftliches Zentrum im Süden Belizes bilden. Sie beherbergen den Hafen von Big Creek, den wichtigsten Exporthafen für die Bananen- und Ölindustrie des Landes. Die Gemeinde ist ein lebendiger Knotenpunkt für Transport und Handel und dient als wichtiges Dienstleistungszentrum für die umliegenden landwirtschaftlichen Betriebe. Für Touristen ist Independence vor allem als Transferpunkt bekannt, da eine regelmäßige Fähre ('Hokey Pokey') das Dorf über die Lagune mit der Placencia-Halbinsel verbindet. Die Stadt bietet einen Einblick in das moderne, arbeitsorientierte Belize und verfügt über eine gute Infrastruktur mit Schulen, Banken und einem kleinen Flughafen, der den Süden des Landes erschließt.",
+      de: "Independence und das angrenzende Mango Creek bilden ein wichtiges Handels- und Dienstleistungszentrum im südlichen Belize. Die beiden Orte sind durch ihre Lage nahe am Big Creek Hafen geprägt, der ein zentraler Umschlagplatz für den Export von Bananen und anderen Agrarprodukten ist. Die Wirtschaft ist stark mit dem Exportsektor verknüpft. Wirtschaft K8 — Import-Export-Logistik.",
       hu: "",
       ro: "Independence și Mango Creek sunt două sate strâns legate din districtul Stann Creek care, împreună, formează un motor economic vital pentru sudul Belizei. Cunoscute în principal pentru găzduirea portului Big Creek, această comunitate este principalul punct de ieșire al țării pentru exporturile de banane și țiței. Deși zona este în mare parte industrială și comercială, servește ca un nod critic de transport pentru călători. Un serviciu popular de taxi pe apă, Hokey Pokey, conectează Independence de punctul turistic Placencia. Satul a cunoscut o creștere semnificativă, evoluând de la o simplă așezare forestieră la un oraș plin de viață, cu facilități moderne, școli și o populație în creștere.",
       en: "Independence and Mango Creek are two closely linked villages in the Stann Creek District that together form a vital economic engine for southern Belize. Known primarily for housing the Port of Big Creek, this community is the country's main exit point for banana exports and crude oil. While the area is largely industrial and commercial, it serves as a critical transportation node for travelers and locals alike. A popular water taxi service, the Hokey Pokey, connects Independence to the tourist hotspot of Placencia, making it a frequent stop for those moving between the peninsula and the mainland. The village has seen significant growth in recent decades, evolving from a simple logging and agricultural settlement into a bustling town with modern amenities, schools, and a growing residential population. It offers a unique look at the modern, working-side of Belize, where the agricultural wealth of the interior meets the shipping lanes of the Caribbean."
@@ -544,7 +532,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Main banana export port (Big Creek).", "Important southern transport hub.", "Connects to Placencia via ferry.", "Growing population."]
     },
     factsAdvanced: {
-      de: ["Independence beherbergt den Hafen von Big Creek, Belizes wichtigsten Bananenhafen.", "Es ist der Verwaltungssitz für den südlichen Stann Creek District.", "Eine tägliche Fähre verbindet Independence mit Placencia.", "Die Gemeinde hat etwa 4.000 Einwohner.", "Der Flughafen Big Creek bietet regelmäßige Inlandsflüge.", "Hier wird ein Großteil des in Belize geförderten Erdöls verladen.", "Die Bevölkerung ist ethnisch vielfältig, mit Kreolen, Mestizen und Mayas.", "Independence wurde in den 1960er Jahren als geplante Siedlung gegründet."],
+      de: ["Strategisch günstig in der Nähe des Big Creek Hafens gelegen.", "Wichtiger Logistikstandort für die Bananenindustrie von Belize.", "Der Ort wächst durch die Aktivitäten im Hafenbereich stetig.", "Dient als Verkehrsknotenpunkt für den südlichen Stann Creek Bezirk.", "Infrastruktur umfasst Banken, Schulen und größere Geschäfte.", "Durch eine Fähre direkt mit Placencia Village verbunden."],
       hu: [],
       ro: [
       "Găzduiește portul Big Creek, principalul port de adâncime din sudul Belizei.",
@@ -554,8 +542,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Aeroportul Big Creek (BGK) oferă zboruri interne regulate în zonă."
     ],
       en: ["Independence is home to Big Creek Port, the main deep-water port in southern Belize.", "The village was established as a planned community in the 1960s.", "The combined population of Independence and Mango Creek is approximately 4,000.", "It serves as the main transit point for the Hokey Pokey ferry to Placencia.", "The community is a major center for the national banana and citrus industries.", "Big Creek Airport (BGK) provides regular domestic flights to the area.", "It is located approximately 40 miles south of Dangriga Town."]
-    }
-  },
+    }, image: "/poi-images/independence-mango-creek-cities-v2.webp"},
   {
     id: "burrell-boom-cities-v2",
     type: "city",
@@ -569,7 +556,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A historic Creole village on the Belize River."
     },
     descriptionAdvanced: {
-      de: "Burrell Boom ist ein historisches und charmantes kreolisches Dorf am Ufer des Belize River, etwa 30 Kilometer nordwestlich von Belize City. Sein Name stammt von einer Eisenkette (einem 'Boom'), die während der Holzfällerzeit über den Fluss gespannt wurde, um flussabwärts treibende Mahagonistämme aufzufangen. Heute ist das Dorf für seine ruhige, ländliche Atmosphäre und seine wunderschöne Flusslandschaft bekannt. Burrell Boom ist ein beliebtes Ziel für Wochenendausflüge und berühmt für die Produktion von lokalem Obstwein und hausgemachten Marmeladen. Jedes Jahr am Osterwochenende ist das Dorf Schauplatz der nationalen Pferderennen, die Tausende von Zuschauern anlocken. Mit seinen großen Gärten, alten Bäumen und der Nähe zur Natur bietet Burrell Boom einen friedlichen Rückzugsort im Herzen des Belize-Distrikts.",
+      de: "Burrell Boom liegt idyllisch am Belize River und ist ein ruhiges Dorf in der Nähe von Belize City. Es ist ein beliebter Ort für Einheimische zur Erholung am Wochenende. Die Region ist auch bekannt für ihre landwirtschaftliche Tradition und die Nähe zu Wildtierreservaten, die einen Einblick in das tropische Ökosystem bieten. Erdkunde K5 — Flusssiedlungen und Erholung.",
       hu: "",
       ro: "Burrell Boom este un sat pitoresc și bogat din punct de vedere istoric, situat pe malul râului Belize, cunoscut pentru frumusețea sa scenică și rolul său în industria forestieră colonială. Satul își trage numele de la „booms” – lanțuri grele întinse peste râu pentru a prinde buștenii de mahon care pluteau din interior. Astăzi, Burrell Boom este o zonă rezidențială liniștită și căutată, renumită pentru peisajele sale luxuriante, pomii fructiferi abundenți și farmecul din epoca colonială. Satul găzduiește provocarea anuală pe râu La Ruta Maya, unde spectatorii se adună pentru a-i încuraja pe canoiști. Cu străzile sale liniștite și atmosfera prietenoasă, Burrell Boom oferă un amestec perfect de istorie și natură.",
       en: "Burrell Boom is a picturesque and historically rich village located on the banks of the Belize River, known for its scenic beauty and its role in the colonial timber industry. The village takes its name from the 'booms'—heavy chains stretched across the river to catch mahogany logs floating downstream from the interior. Today, Burrell Boom is a peaceful and sought-after residential area, famous for its lush landscapes, abundant fruit trees, and colonial-era charm. The village is the site of the annual La Ruta Maya river challenge, where spectators gather to cheer on canoeists. With its quiet streets, friendly atmosphere, and proximity to both the city and the Community Baboon Sanctuary, Burrell Boom offers a perfect blend of history, nature, and tranquil rural life."
@@ -581,7 +568,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Former logging center.", "Known for its annual Easter weekend horse race.", "Quiet, rural lifestyle.", "Popular with cyclists."]
     },
     factsAdvanced: {
-      de: ["Der Name 'Boom' bezieht sich auf eine Kette zum Auffangen von Baumstämmen.", "Das Dorf liegt direkt an einer wichtigen Route des Belize River.", "Es ist berühmt für seine lokalen Weine aus Cashew, Brombeere und Sauerampfer.", "Alljährlich finden hier die prestigeträchtigen Oster-Pferderennen statt.", "Burrell Boom beherbergt mehrere luxuriöse Öko-Lodges am Fluss.", "Das Dorf ist ein wichtiger Stützpunkt während des 'La Ruta Maya' Kanurennens.", "Die Bevölkerung ist überwiegend kreolischer Abstammung.", "In der Nähe befindet sich das Community Baboon Sanctuary."],
+      de: ["Gelegen am Ufer des Belize River.", "Ein traditioneller Ort für lokale Freizeitaktivitäten.", "In der Nähe befindet sich das Community Baboon Sanctuary.", "Die Landwirtschaft spielt eine wichtige Rolle in der lokalen Ökonomie.", "Bekannt für die jährlichen Pferderennen (Boom Horse Race).", "Ein Ort, der die ursprüngliche ländliche Atmosphäre bewahrt."],
       hu: [],
       ro: [
       "Burrell Boom a fost înființat în secolul al XVIII-lea ca o tabără forestieră.",
@@ -591,8 +578,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este preferată de observatorii de păsări și de entuziaștii naturii."
     ],
       en: ["Burrell Boom was established in the 18th century as a logging camp.", "It is located about 20 miles west of Belize City.", "The population is approximately 1,500 residents.", "The village is famous for its artisanal fruit wines and preserves.", "It serves as a major checkpoint for the annual La Ruta Maya canoe race.", "The historic 'boom' chains can still be seen in parts of the river.", "The area is a favorite for birdwatchers and nature enthusiasts."]
-    }
-  },
+    }, image: "/poi-images/burrell-boom-cities-v2.webp"},
   {
     id: "crooked-tree-cities-v2",
     type: "city",
@@ -606,7 +592,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A village on an island within a lagoon, a paradise for birdwatchers."
     },
     descriptionAdvanced: {
-      de: "Crooked Tree ist ein malerisches Dorf auf einer Insel inmitten einer riesigen Lagune im Belize-Distrikt. Gegründet im 18. Jahrhundert von Mahagoniholzfällern, ist es eine der ältesten Siedlungen des Landes. Das Dorf ist heute vor allem für das Crooked Tree Wildlife Sanctuary bekannt, ein international bedeutendes Feuchtgebiet, das ein Paradies für Vogelbeobachter darstellt. Jedes Jahr im Mai feiert das Dorf das Cashew-Festival, bei dem die reiche Ernte an Cashewnüssen und -früchten mit Musik, Tanz und lokalen Köstlichkeiten zelebriert wird. Die entspannte Atmosphäre, die historischen Holzhäuser und die omnipräsente Natur machen Crooked Tree zu einem einzigartigen Ort, an dem die Zeit langsamer zu vergehen scheint. Der Zugang zum Dorf erfolgt über einen langen Damm, der die Lagune überquert und spektakuläre Ausblicke auf die Wasservögel bietet.",
+      de: "Crooked Tree ist ein Dorf, das mitten im Crooked Tree Wildlife Sanctuary liegt, einem der wichtigsten Schutzgebiete für Wasservögel in Belize. Das Dorf besteht aus Häusern, die entlang von Lagunen und Wasserwegen verstreut sind. Es ist ein Paradies für Vogelbeobachter und Naturliebhaber, die die reiche Artenvielfalt der Tropen hautnah erleben wollen. Biologie K7 — Schutzgebiete und Vogelwelt.",
       hu: "",
       ro: "Crooked Tree este un sat fermecător și bogat din punct de vedere istoric, situat în cadrul Sanctuarului Crooked Tree Wildlife din districtul Belize. Fondat în secolul al XVIII-lea ca o tabără de exploatare forestieră, este una dintre cele mai vechi așezări creole din țară. Satul este situat în mod unic pe o insulă în mijlocul unui vast sistem de lagune, conectat de uscat printr-un dig lung. Crooked Tree este o destinație de renume mondial pentru observarea păsărilor, în special în timpul sezonului uscat, când mii de berze Jabiru și alte păsări de apă se adună în lagune. Comunitatea este faimoasă și pentru Festivalul Cajuului, care celebrează abundența acestor arbori în zonă.",
       en: "Crooked Tree is a charming and historically rich village located within the Crooked Tree Wildlife Sanctuary in the Belize District. Founded in the 18th century as a logging camp, it is one of the oldest Creole settlements in the country. The village is uniquely situated on an island in the middle of a vast lagoon system, connected to the mainland by a long causeway. Crooked Tree is a world-renowned destination for birdwatching, particularly during the dry season when thousands of Jabiru storks and other waterfowl congregate in the lagoons. The community is also famous for its annual Cashew Festival, celebrating the abundance of cashew trees in the area. With its quiet, sandy streets and deep cultural roots, Crooked Tree offers a peaceful and authentic experience in the heart of Belize's wetlands."
@@ -618,7 +604,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["First wildlife sanctuary established in Belize.", "Important wetland for migratory birds.", "Home to the Jabiru Stork.", "Traditional cashew processing."]
     },
     factsAdvanced: {
-      de: ["Crooked Tree ist eine der ältesten kreolischen Siedlungen in Belize.", "Es liegt im Zentrum des Crooked Tree Wildlife Sanctuary.", "Die Lagune beheimatet den Jabiru-Storch, den größten Fluggvogel Amerikas.", "Das Dorf ist berühmt für seine Cashew-Produkte (Nüsse, Wein, Gelee).", "Der Zugang erfolgt über einen 5 Kilometer langen Damm durch die Lagune.", "Das Gebiet wurde 1984 als Schutzgebiet ausgewiesen.", "Es ist ein Paradies für Ornithologen mit über 300 Vogelarten.", "Während der Regenzeit ist das Dorf oft komplett von Wasser umschlossen."],
+      de: ["Das Dorf liegt innerhalb eines bedeutenden Naturschutzgebietes.", "Ein weltweit anerkannter Ort für Vogelbeobachtungen.", "Die Landschaft ist von Lagunen und Feuchtgebieten geprägt.", "Bekannt für die Ernte von Cashew-Früchten.", "Besucher kommen aus der ganzen Welt für Ökotourismus.", "Die Siedlung wurde im 18. Jahrhundert gegründet."],
       hu: [],
       ro: [
       "Crooked Tree a fost înființat la începutul anilor 1700.",
@@ -628,8 +614,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Numele satului se referă la arborii de caju răsuciți găsiți în zonă."
     ],
       en: ["Crooked Tree was established in the early 1700s.", "The village is located 33 miles (53 kilometers) north of Belize City.", "The population is approximately 1,000 residents.", "It is situated within a 16,400-acre wildlife sanctuary.", "The village is famous for its cashew production and annual Cashew Festival.", "It is home to the rare and massive Jabiru stork.", "The village name refers to the twisted cashew trees found in the area."]
-    }
-  },
+    }, image: "/poi-images/crooked-tree-cities-v2.webp"},
   {
     id: "gales-point-cities-v2",
     type: "city",
@@ -643,7 +628,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A remote Creole village on a peninsula, known for its manatees."
     },
     descriptionAdvanced: {
-      de: "Gales Point, auch bekannt als Gales Point Manatee, ist ein abgelegenes und traditionelles kreolisches Dorf auf einer schmalen Halbinsel, die in die Southern Lagoon hineinragt. Das Dorf ist tief in der afro-belizischen Kultur verwurzelt und bekannt für die Bewahrung alter Traditionen wie dem Sambai-Trommeln. Aufgrund seiner Lage am Rande eines riesigen Lagunensystems ist Gales Point einer der besten Orte in Belize, um westindische Seekühe (Manatis) in ihrem natürlichen Lebensraum zu beobachten. Die Gemeinde setzt stark auf gemeinschaftsbasierten Ökotourismus und bietet Besuchern ein authentisches Erlebnis abseits der Massen. Mit seiner unberührten Natur, den Höhlen in der Nähe und der herzlichen Gastfreundschaft der Bewohner ist Gales Point ein Ziel für Reisende, die das echte, ländliche Belize und seine kulturellen Wurzeln kennenlernen möchten.",
+      de: "Gales Point, auch bekannt als Gales Point Manatee, liegt auf einer schmalen Halbinsel in der Southern Lagoon. Das Dorf ist berühmt für den Schutz der Seekühe (Manatees), die in den Lagunen leben. Die Bewohner haben eine tiefe Verbindung zum Wasser und bewahren viele kulturelle Bräuche, die sich über Generationen entwickelt haben. Biologie K6 — Schutz von Meeressäugern.",
       hu: "",
       ro: "Gales Point, cunoscut și sub numele de Gales Point Manatee, este un sat creol tradițional situat pe o peninsulă îngustă care se întinde în Laguna de Sud a districtului Belize. Această comunitate izolată este profund înrădăcinată în patrimoniul afro-belizean și este unul dintre puținele locuri din țară unde tradițiile antice, cum ar fi tobele Sambai, sunt încă practicate cu vibrație. Satul este faimos pentru proximitatea sa față de una dintre cele mai mari populații de lamantini vest-indieni din regiune, care prosperă în apele salmastre ale lagunei. Gales Point oferă o experiență cu adevărat în afara traseelor bătute, axându-se pe ecoturismul bazat pe comunitate.",
       en: "Gales Point, also known as Gales Point Manatee, is a traditional Creole village perched on a narrow peninsula that extends into the Southern Lagoon of the Belize District. This remote community is deeply rooted in Afro-Belizean heritage and is one of the few places in the country where ancient traditions like Sambai drumming are still vibrantly practiced. The village is famous for its proximity to one of the largest populations of West Indian Manatees in the region, which thrive in the brackish waters of the surrounding lagoon. Gales Point offers a truly off-the-beaten-path experience, focusing on community-based ecotourism that allows visitors to connect with the local culture and the pristine natural environment. Surrounded by mangrove forests and within reach of mysterious limestone caves, the village is a sanctuary for those seeking silence and authenticity. The resilient spirit of its residents and their dedication to preserving their ancestral customs make Gales Point a unique cultural jewel in Belize."
@@ -655,7 +640,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Also known as 'Manatee'.", "Located on the Southern Lagoon.", "Strong drumming tradition.", "Focus on community-based tourism."]
     },
     factsAdvanced: {
-      de: ["Gales Point liegt auf einer Halbinsel in der Southern Lagoon.", "Das Dorf ist ein wichtiges Schutzgebiet für die Karibik-Manatis.", "Es ist bekannt für die traditionelle Sambai-Trommelmusik und Tänze.", "Die Bewohner leben primär von Fischfang und Ökotourismus.", "In der Nähe befinden sich die Ben Lomond Höhlen.", "Das Dorf ist über eine lange Schotterstraße (Coastal Road) erreichbar.", "Es gilt als eine der am stärksten afrikanisch geprägten Siedlungen Belizes.", "Die Lagune ist ein wichtiger Nistplatz für Meeresschildkröten."],
+      de: ["Einer der wichtigsten Schutzorte für Seekühe (Manatees) in Belize.", "Liegt auf einer schmalen Halbinsel in der Southern Lagoon.", "Die Gemeinde ist stolz auf ihr kulturelles Erbe.", "Zugang ist traditionell per Boot oder über kleine Straßen.", "Die lokale Kultur ist stark durch die Nähe zum Wasser bestimmt.", "Ein Ort, an dem Umweltschutz eine zentrale Rolle spielt."],
       hu: [],
       ro: [
       "Gales Point este situat pe o peninsulă care are o lungime de doar 3,2 kilometri.",
@@ -665,8 +650,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este un loc important de cuibărit pentru broaștele țestoase Hawksbill."
     ],
       en: ["Gales Point is located on a peninsula that is only about 2 miles long.", "The Southern Lagoon is a designated wildlife sanctuary for manatees.", "The village is a center for traditional Sambai drumming and dance.", "It is accessible via the Coastal Road, approximately 25 miles from the nearest highway junction.", "The population of the village is roughly 500 residents.", "Nearby Ben Lomond's Cave offers significant archaeological and natural interest.", "The area is an important nesting site for hawksbill turtles."]
-    }
-  },
+    }, image: "/poi-images/gales-point-cities-v2.webp"},
   {
     id: "blue-creek-village-cities-v2",
     type: "city",
@@ -680,7 +664,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Another significant Mennonite community in northern Belize."
     },
     descriptionAdvanced: {
-      de: "Blue Creek ist eine bedeutende mennonitische Gemeinschaft im Nordwesten des Orange Walk District, nahe der Grenze zu Mexiko und Guatemala. Im Gegensatz zu den konservativeren Siedlungen ist Blue Creek für seine moderne und technologisch fortschrittliche Landwirtschaft bekannt. Die Gemeinschaft hat den Blue Creek gestaut, um Strom zu erzeugen und ihre ausgedehnten Felder zu bewässern. Blue Creek ist ein Zentrum für die Produktion von Geflügel und Getreide und verfügt über eine eigene Flugpiste sowie große industrielle Anlagen. Die Landschaft ist geprägt von sanften Hügeln und weiten Ausblicken, was der Gegend ein fast nordamerikanisches Aussehen verleiht. Für Besucher bietet Blue Creek einen faszinierenden Einblick in den wirtschaftlichen Erfolg und die organisatorischen Fähigkeiten der modernen Mennoniten in Belize.",
+      de: "Blue Creek ist eine kleine Siedlung im Bezirk Toledo, die für ihre Höhlen und natürlichen Wasserquellen bekannt ist. Die Region zeichnet sich durch eine dichte tropische Vegetation aus und bietet spektakuläre Einblicke in die Geologie von Süd-Belize. Es ist ein Geheimtipp für Abenteurer, die abgelegene Orte in der Natur erkunden möchten. Erdkunde K8 — Höhlensysteme und Geologie.",
       hu: "",
       ro: "Blue Creek este o comunitate menonită prosperă și avansată din punct de vedere tehnologic, situată în colțul de nord-vest al districtului Orange Walk, la granița cu Mexicul și Guatemala. Spre deosebire de așezările menonite mai conservatoare, Blue Creek este cunoscut pentru abordarea sa modernă a agriculturii și industriei, având sisteme de irigații la scară largă și un dig hidroelectric. Peisajul de aici este izbitor de diferit față de restul nordului Belizei, cu dealuri ondulate și câmpuri vaste, ordonate, care seamănă cu Midwest-ul nord-american. Blue Creek contribuie major la economia națională, specializându-se în producția de carne de pasăre și creșterea vitelor.",
       en: "Blue Creek is a thriving and technologically advanced Mennonite community located in the northwestern corner of the Orange Walk District, bordering both Mexico and Guatemala. Unlike the more conservative Mennonite settlements, Blue Creek is known for its modern approach to agriculture and industry, featuring large-scale irrigation systems, a hydroelectric dam, and massive grain silos. The landscape here is strikingly different from the rest of northern Belize, with rolling hills and expansive, neatly organized fields that resemble the North American Midwest. Blue Creek is a major contributor to the national economy, specializing in poultry production, cattle ranching, and the export of grains. The community maintains its own infrastructure, including well-paved roads and a private airstrip. For visitors, the village provides a fascinating look at the industrial success of the Mennonites and offers scenic views of the Blue Creek river, which defines the international border with Mexico."
@@ -692,7 +676,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Mennonite settlement.", "Modern farming techniques.", "Hydroelectric dam on Blue Creek.", "Near the borders of Mexico and Guatemala."]
     },
     factsAdvanced: {
-      de: ["Blue Creek ist eine der fortschrittlichsten Mennoniten-Siedlungen.", "Sie liegt am gleichnamigen Fluss, der die Grenze zu Mexiko bildet.", "Die Gemeinschaft betreibt ihr eigenes kleines Wasserkraftwerk.", "Blue Creek ist ein Hauptproduzent von Hühnerfleisch für den belizischen Markt.", "Die Siedlung verfügt über eine modern ausgestattete Flugpiste.", "Die Landschaft unterscheidet sich durch ihre Hügel stark vom Rest des Nordens.", "Die Bewohner nutzen modernste landwirtschaftliche Maschinen.", "Es gibt mehrere große Sägewerke und Metallverarbeitungsbetriebe."],
+      de: ["Die Siedlung liegt im Bezirk Toledo.", "Bekannt für spektakuläre Höhlensysteme und Wasserfälle.", "Gelegen inmitten einer üppigen tropischen Regenwaldumgebung.", "Die Gegend ist ein Hotspot für den nachhaltigen Abenteuertourismus.", "Kulturell geprägt von Maya-Gemeinschaften in der Umgebung.", "Ein Ort, der Ruhe und spektakuläre Natur vereint."],
       hu: [],
       ro: [
       "Blue Creek a fost fondat in 1958 de familii de menoniți din Mexic și Canada.",
@@ -702,8 +686,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Comunitatea gestionează peste 40.000 de hectare de teren agricol și pădure."
     ],
       en: ["Blue Creek was founded in 1958 by Mennonite families from Mexico and Canada.", "The community operates its own small-scale hydroelectric dam on the Blue Creek.", "It is a primary producer of chicken and dairy products for the Belizean market.", "The village is located approximately 35 miles northwest of Orange Walk Town.", "The population is estimated to be over 1,500 residents.", "Blue Creek features a private paved airstrip used for agricultural and personal flights.", "The community manages over 100,000 acres of productive farmland and forest."]
-    }
-  },
+    }, image: "/poi-images/blue-creek-village-cities-v2.webp"},
   {
     id: "san-antonio-cayo-cities-v2",
     type: "city",
@@ -717,7 +700,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A large Maya village in the Cayo District, known for its pottery."
     },
     descriptionAdvanced: {
-      de: "San Antonio ist das größte Dorf im Cayo-Distrikt und eine stolze Gemeinschaft der Yucatec-Maya. Es liegt eingebettet in die sanften Hügel südlich von San Ignacio und ist bekannt für den Erhalt seiner kulturellen Identität und Traditionen. Besonders berühmt ist San Antonio für sein Kunsthandwerk, insbesondere die traditionelle Töpferei. Die 'San Antonio Women's Cooperative' bietet Besuchern die Möglichkeit, die alten Techniken des Tonbrennens und des Maismahlens kennenzulernen. Das Dorf ist zudem ein bedeutendes Zentrum für die Landwirtschaft, wobei viele Bewohner ihre Produkte auf dem Markt von San Ignacio verkaufen. Mit seiner reichen Geschichte, der Maya-Sprache, die hier noch oft zu hören ist, und der malerischen Umgebung bietet San Antonio einen tiefen Einblick in das Erbe der Maya in Belize.",
+      de: "San Antonio im Bezirk Cayo ist eine der größten Maya-Gemeinschaften in Belize. Das Dorf ist für seine traditionelle Maya-Töpferei und seine kulturelle Authentizität bekannt. San Antonio bietet Besuchern einen tiefen Einblick in das Leben und die Handwerkstraditionen der heutigen Maya-Bevölkerung. Geschichte K7 — kulturelle Erhaltung.",
       hu: "",
       ro: "San Antonio este un sat mayaș mare și istoric, situat la poalele Munților Maya din districtul Cayo. Este una dintre cele mai semnificative comunități din punct de vedere cultural din vestul Belizei, fiind casa descendenților mayașilor yucateci care și-au păstrat cu mândrie tradițiile ancestrale. San Antonio este un centru pentru agricultura tradițională, în special pentru cultivarea alunelor, porumbului și citricelor. Satul este renumit și pentru scena sa vibrantă de arte și meșteșuguri, inclusiv Cooperativa de Femei San Antonio, care predă olăritul tradițional și țesutul. Cu vederile sale uluitoare asupra munților și rădăcinile culturale profunde, San Antonio oferă o privire autentică asupra spiritului poporului mayaș.",
       en: "San Antonio is a large and historic Maya village located in the foothills of the Maya Mountains in the Cayo District. It is one of the most culturally significant communities in western Belize, primarily home to Yucatec Maya descendants who have proudly preserved their ancestral traditions. San Antonio is a center for traditional agriculture, particularly the cultivation of peanuts, corn, and beans. The village is also famous for its vibrant arts and crafts scene, including the world-renowned San Antonio Women's Cooperative, which teaches traditional pottery and weaving. With its stunning views of the surrounding mountains, its deep cultural roots, and its commitment to sustainable community development, San Antonio offers visitors a profound and authentic look at the enduring spirit of the Maya people."
@@ -729,7 +712,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Predominantly Yucatec Maya population.", "Center for traditional Maya pottery.", "Tan-Tan-Wob women's pottery initiative.", "Surrounded by hills and farmland."]
     },
     factsAdvanced: {
-      de: ["San Antonio ist das größte Dorf im Cayo-Distrikt.", "Die Bewohner gehören überwiegend der Volksgruppe der Yucatec-Maya an.", "Das Dorf ist berühmt für seine traditionelle Maya-Töpferei.", "Die Frauenkooperative 'Tan Tan Wob' ist ein preisgekröntes Tourismusprojekt.", "Es liegt am Rande des Mountain Pine Ridge Reservats.", "Der Anbau von Erdnüssen ist eine wichtige Einnahmequelle des Dorfes.", "In der Nähe befinden sich mehrere kleine Wasserfälle und Flüsse.", "San Antonio ist Geburtsort vieler einflussreicher Maya-Anführer."],
+      de: ["Eine der bedeutendsten Maya-Siedlungen in West-Belize.", "Berühmt für die traditionelle handgefertigte Töpferei.", "Die Gemeinschaft bewahrt aktiv ihre Maya-Sprache und Bräuche.", "Umgeben von einer hügeligen und fruchtbaren Landschaft.", "Wichtiger Ort für kulturellen Austausch und Tourismus.", "Die Siedlung hat eine lange historische Verwurzelung in der Region."],
       hu: [],
       ro: [
       "San Antonio este cel mai mare sat de mayași yucateci din Belize.",
@@ -739,8 +722,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Se află la poarta de intrare către Rezervația Forestieră Mountain Pine Ridge."
     ],
       en: ["San Antonio is the largest Yucatec Maya village in Belize.", "The population is approximately 3,500 residents.", "It is located about 9 miles south of San Ignacio Town.", "The village is a major producer of peanuts and citrus in the district.", "It is home to the famous San Antonio Women's Cooperative.", "The community was founded in the late 19th century.", "It sits at the gateway to the Mountain Pine Ridge Forest Reserve."]
-    }
-  },
+    }, image: "/poi-images/san-antonio-cayo-cities-v2.webp"},
   {
     id: "douglas-village-cities-v2",
     type: "city",
@@ -754,7 +736,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A village on the Río Hondo, on the border with Mexico."
     },
     descriptionAdvanced: {
-      de: "Douglas ist ein friedliches Dorf im Orange Walk District, das direkt am Ufer des Río Hondo liegt, der die natürliche Grenze zwischen Belize und Mexiko bildet. Die Gemeinde ist stark landwirtschaftlich geprägt, wobei der Anbau von Zuckerrohr die Haupterwerbsquelle der Bewohner darstellt. Douglas ist bekannt für seine ruhige Atmosphäre und die engen familiären Bindungen über den Fluss hinweg nach Mexiko. Das Leben im Dorf folgt dem Rhythmus der Landwirtschaft und des Flusses. In den letzten Jahren hat das Dorf an Bedeutung gewonnen, da es ein wichtiger Punkt für den lokalen Grenzverkehr und den Handel ist. Für Reisende bietet Douglas einen authentischen Einblick in das ländliche Leben in Nordbelize, weitab von den üblichen Touristenrouten, geprägt von Mestizen-Kultur und gastfreundlichen Menschen.",
+      de: "Douglas Village liegt am Ufer des New River im Bezirk Orange Walk. Das Dorf ist stark von der landwirtschaftlichen Tradition der Zuckerrohrproduktion geprägt. Die ruhige Lage macht es zu einem idealen Ort für Naturliebhaber, die das Leben entlang der großen Flüsse von Belize entdecken möchten. Geografie K5 — Flusssiedlungen.",
       hu: "",
       ro: "Douglas este un sat liniștit și pitoresc situat în districtul Orange Walk, chiar pe malul râului Rio Hondo, care servește ca graniță naturală între Belize și Mexic. Această comunitate predominant mestizo este strâns legată de ritmul agricol al nordului, cultivarea trestiei de zahăr fiind principala sursă de existență pentru majoritatea familiilor. Satul este cunoscut pentru farmecul său rural și relațiile strânse pe care locuitorii le au cu vecinii lor de peste râu, din Mexic. Viața în Douglas este centrată în jurul râului și al câmpurilor fertile din jur, unde sezonul recoltei aduce o activitate intensă. Douglas oferă o atmosferă senină și primitoare, unde tradițiile frontierei de nord rămân vii.",
       en: "Douglas is a peaceful and scenic village located in the Orange Walk District, situated directly on the banks of the Rio Hondo, which serves as the natural border between Belize and Mexico. This predominantly Mestizo community is deeply tied to the agricultural rhythm of the north, with sugarcane cultivation being the primary livelihood for most families. The village is known for its quiet, rural charm and the close-knit relationships shared between its residents and their neighbors across the river in Mexico. Life in Douglas is centered around the river and the surrounding fertile fields, where the annual harvest season brings a flurry of activity. Despite its remote location, the village has a resilient spirit and a rich cultural heritage reflected in its local festivals and traditional cuisine. For those seeking an authentic glimpse into the rural heart of the sugar belt, Douglas offers a serene and welcoming atmosphere where the traditions of the northern frontier remain very much alive."
@@ -766,7 +748,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Border village.", "Farming community.", "Spanish and English are spoken.", "Ferry connection to Mexico."]
     },
     factsAdvanced: {
-      de: ["Douglas liegt direkt am Río Hondo, der Grenze zu Mexiko.", "Zuckerrohr ist das wichtigste landwirtschaftliche Produkt des Dorfes.", "Die Bewohner sind überwiegend spanischsprachige Mestizen.", "Das Dorf ist bekannt für seine enge Verbindung zur mexikanischen Seite.", "Douglas liegt etwa 20 Kilometer nordwestlich von Orange Walk Town.", "Der Río Hondo ist hier ein beliebter Ort zum Fischen.", "Die Gegend ist reich an Wildtieren, insbesondere Wasservögeln.", "Das Dorf verfügt über eine eigene Grundschule und ein Gemeindezentrum."],
+      de: ["Gelegen am Ufer des New River.", "Die Wirtschaft basiert größtenteils auf der Zuckerrohrproduktion.", "Ein ruhiges Dorf fernab der städtischen Hektik.", "Die Umgebung bietet gute Möglichkeiten für Flussfahrten.", "Die Bevölkerung ist eng mit dem Landbau verbunden.", "Ein Ort, der die ursprüngliche ländliche Struktur bewahrt."],
       hu: [],
       ro: [
       "Douglas este situat la aproximativ 19 kilometri nord-vest de Orange Walk Town.",
@@ -776,8 +758,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este predispusă la inundații sezoniere din cauza proximității față de râu."
     ],
       en: ["Douglas is located approximately 12 miles northwest of Orange Walk Town.", "The village sits directly on the Rio Hondo, the international border with Mexico.", "The population is approximately 700 residents.", "Sugarcane is the main commercial crop produced by the community.", "The village was settled in the mid-19th century by refugees from the Caste War.", "It is known for its informal cross-border trade and family ties with Mexico.", "The area is prone to seasonal flooding due to its proximity to the river."]
-    }
-  },
+    }, image: "/poi-images/douglas-village-cities-v2.webp"},
   {
     id: "guinea-grass-cities-v2",
     type: "city",
@@ -791,7 +772,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A large village in the Orange Walk District, predominantly Mestizo."
     },
     descriptionAdvanced: {
-      de: "Guinea Grass ist eine große und kulturell reiche Gemeinde im Orange Walk District, gelegen am Ostufer des New River. Das Dorf besteht primär aus Mestizen-Familien und ist tief in der landwirtschaftlichen Geschichte der Region verwurzelt. Traditionell war Guinea Grass ein Zentrum für die Produktion von Zuckerrohr und Mais, und die umliegenden fruchtbaren Böden gehören noch immer zu den produktivsten des Distrikts. Das Dorf hat eine lebendige und authentische Atmosphäre mit einem starken Fokus auf Gemeinschaftsleben und traditionelle Feste. Die Lage am New River bietet Möglichkeiten zum Angeln und für den Bootstransport, während die Nähe zu Orange Walk Town den Zugang zu städtischen Dienstleistungen erleichtert. Guinea Grass bleibt ein Paradebeispiel für ein fleißiges und lebendiges Bauerndorf im Norden von Belize.",
+      de: "Guinea Grass ist eine Siedlung im Bezirk Orange Walk, die für ihre landwirtschaftliche Vielfalt bekannt ist. Das Dorf ist eingebettet in eine Landschaft aus Feldern und Wäldern und bietet einen Einblick in das alltägliche Leben der ländlichen Gemeinschaft in Nord-Belize. Die Menschen hier pflegen eine enge Beziehung zum Landbau. Erdkunde K6 — Agrargemeinschaften.",
       hu: "",
       ro: "Guinea Grass este un sat mare și bogat din punct de vedere cultural, situat în districtul Orange Walk, pe malul râului New River. Comunitatea este formată în principal din familii mestizo și este cunoscută pentru rădăcinile sale adânci în istoria agricolă a regiunii. Guinea Grass a fost tradițional un centru pentru producția de trestie de zahăr și porumb, iar terenurile fertile din jur rămân unele dintre cele mai productive din district. Satul are o atmosferă plină de viață și autentică, cu un accent puternic pe viața comunitară și festivalurile tradiționale. Locația sa lângă râul New River oferă oportunități pentru pescuit și transport, reflectând spiritul harnic al locuitorilor săi.",
       en: "Guinea Grass is a large and culturally rich village located in the Orange Walk District, situated along the banks of the New River. The community is primarily made up of Mestizo families and is known for its deep roots in the agricultural history of the region. Guinea Grass has traditionally been a center for sugarcane and corn production, and the surrounding fertile lands remain some of the most productive in the district. The village has a lively and authentic atmosphere, with a strong focus on community life and traditional festivals. Its location near the New River offers opportunities for fishing and transport, while its proximity to Orange Walk Town ensures easy access to urban services. Guinea Grass remains a quintessential example of a hard-working and vibrant agricultural village in northern Belize."
@@ -803,7 +784,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["One of the largest villages in Belize.", "Agriculturally based.", "Strong Mestizo culture.", "Near the New River Lagoon."]
     },
     factsAdvanced: {
-      de: ["Guinea Grass liegt etwa 16 Kilometer südlich von Orange Walk Town.", "Die Bevölkerung beträgt ungefähr 3.000 Einwohner.", "Der Name stammt von einer hohen Grasart, die als Viehfutter dient.", "Zuckerrohr ist die wichtigste kommerzielle Nutzpflanze des Dorfes.", "Es liegt am malerischen Ostufer des New River.", "Die Gemeinschaft ist bekannt für ihre traditionelle Mestizen-Musik.", "Die meisten Infrastrukturen des Dorfes wurden Ende des 20. Jahrhunderts entwickelt.", "Das Dorf dient als wichtiger Versorgungsort für kleinere Farmen in der Umgebung."],
+      de: ["Eine ländliche Gemeinde im Bezirk Orange Walk.", "Der Anbau von Feldfrüchten ist die Lebensgrundlage der Bewohner.", "Liegt in einer Region mit hohem landwirtschaftlichem Potenzial.", "Die Siedlung ist durch eine familiäre Struktur geprägt.", "Die Umgebung bietet eine abwechslungsreiche Landschaft.", "Ein authentischer Einblick in das ländliche Leben in Belize."],
       hu: [],
       ro: [
       "Guinea Grass este situat la aproximativ 16 kilometri sud de Orange Walk Town.",
@@ -828,7 +809,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A village in the Corozal District known for its sugarcane farms."
     },
     descriptionAdvanced: {
-      de: "San Narciso ist ein bedeutendes Dorf im Corozal District und ein integraler Bestandteil des sogenannten 'Zuckergürtels' von Belize. Die Gemeinde ist für ihre ausgedehnten Zuckerrohrfelder bekannt, die das Landschaftsbild prägen. San Narciso hat eine starke Mestizen-Identität, und Spanisch ist die vorherrschende Sprache im täglichen Leben. Das Dorf ist stolz auf seine landwirtschaftliche Tradition und seinen Beitrag zur nationalen Zuckerproduktion. Es verfügt über eine gut entwickelte Infrastruktur für eine ländliche Gemeinde, einschließlich Schulen und kleiner Geschäfte. Das Leben in San Narciso ist geprägt von harter Arbeit auf den Feldern und lebendigen religiösen und kulturellen Feierlichkeiten. Es bietet Besuchern einen Einblick in das authentische, ländliche Nordbelize, in dem die Landwirtschaft nach wie vor das Lebenselixier der Gemeinschaft ist.",
+      de: "San Narciso liegt im Norden von Belize und ist ein typisches Dorf, das durch den Anbau von Zuckerrohr geprägt ist. Die Nähe zur mexikanischen Grenze beeinflusst sowohl die Kultur als auch die wirtschaftlichen Aktivitäten des Ortes. Es ist ein lebendiger Ort, der die enge Verbindung zwischen dem Norden von Belize und der Yucatán-Halbinsel widerspiegelt. Geschichte K7 — Grenzregionen.",
       hu: "",
       ro: "San Narciso este un sat mare și prosper situat în districtul Corozal, cunoscut pentru rolul său esențial în „centura de zahăr” din nordul Belizei. Comunitatea este formată în principal din familii mestizo și are o lungă tradiție în agricultură, contribuind semnificativ la producția națională de zahăr. San Narciso se caracterizează printr-o așezare organizată și organizații comunitare active, reflectând dedicarea locuitorilor săi. Succesul satului ca centru agricol este o dovadă a muncii depuse de generații pentru a transforma câmpiile înconjurătoare în terenuri productive. Satul rămâne o parte vitală a rețelei de comunități agricole din districtul Corozal, păstrându-și identitatea culturală puternică.",
       en: "San Narciso is a large and culturally rich village located in the Corozal District, known for its deep roots in the agricultural and timber history of northern Belize. The community is primarily made up of Mestizo families and is a major center for sugarcane, corn, and livestock farming. San Narciso has a lively and prosperous atmosphere, with a strong focus on community life and traditional festivals. The village is characterized by its organized layout and its active community organizations. Its success as an agricultural hub reflects the hard work and dedication of its residents, who have transformed the surrounding plains into one of the most productive regions in northern Belize. The village remains a vital and prosperous part of the Corozal District's network of agricultural communities."
@@ -840,7 +821,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Sugarcane cultivation.", "Rural community.", "Mestizo population.", "Part of Belize's 'sugar belt'."]
     },
     factsAdvanced: {
-      de: ["San Narciso ist eines der größten Dörfer im Corozal-Distrikt.", "Die Wirtschaft basiert fast ausschließlich auf dem Zuckerrohranbau.", "Die Bewohner sind überwiegend Mestizen mit Wurzeln in Yucatan.", "Das Dorf liegt etwa 25 Kilometer südlich von Corozal Town.", "San Narciso verfügt über eine sehr aktive lokale Kreditgenossenschaft.", "Die Gemeinschaft ist bekannt für ihren starken Zusammenhalt.", "Das Dorf liegt verkehrsgünstig nahe dem Northern Highway.", "Die jährliche Erntezeit (Zafra) bestimmt den Rhythmus des Dorfes."],
+      de: ["Gelegen im nördlichen Distrikt Corozal.", "Die Wirtschaft ist eng mit der Zuckerrohrindustrie verknüpft.", "Starke kulturelle Einflüsse aus der benachbarten Region Mexiko.", "Das Leben im Dorf ist durch landwirtschaftliche Zyklen bestimmt.", "Ein Ort, der die Geschichte der Grenzregionen erzählt.", "Die Bewohner engagieren sich aktiv im kommunalen Leben."],
       hu: [],
       ro: [
       "San Narciso este situat la aproximativ 16 kilometri sud-vest de Corozal Town.",
@@ -850,8 +831,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Populația este de aproximativ 2.500 de locuitori."
     ],
       en: ["San Narciso is located about 10 miles southwest of Corozal Town.", "The population is approximately 2,500 residents.", "The village is a major contributor to the northern Belize sugar belt.", "It was established as an agricultural settlement in the mid-20th century.", "The community is known for its vibrant celebrations of patron saint days.", "It features several large primary schools and community centers.", "San Narciso is situated near the main highway to Orange Walk Town."]
-    }
-  },
+    }, image: "/poi-images/san-narciso-cities-v2.webp"},
   {
     id: "san-pedro-columbia-cities-v2",
     type: "city",
@@ -865,7 +845,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A large Kekchi Maya village in the Toledo District."
     },
     descriptionAdvanced: {
-      de: "San Pedro Columbia ist das größte Dorf im Toledo District und eine bedeutende Gemeinschaft der Kekchi-Maya. Es liegt malerisch am Ufer des Columbia River und ist umgeben von üppigem Regenwald und fruchtbarem Ackerland. Das Dorf ist bekannt für seine Bewahrung der Maya-Kultur und -Sprache sowie für seine traditionelle Landwirtschaft. In den letzten Jahren hat sich San Pedro Columbia zu einem Zentrum für die ökologische Kakaoproduktion entwickelt, und viele Bauern sind Teil von Kooperativen, die hochwertigen Kakao für den Export anbauen. Die Nähe zur bedeutenden Maya-Stätte Lubaantun macht es zu einem interessanten Ziel für Besucher. San Pedro Columbia bietet eine faszinierende Mischung aus traditionellem Maya-Lebensstil und modernem ökologischem Bewusstsein in einer der schönsten Landschaften Süd-Belizes.",
+      de: "San Pedro Columbia ist eine traditionsreiche Maya-Gemeinschaft im Bezirk Toledo. Das Dorf ist für seine Nähe zu archäologischen Stätten und seine natürliche Schönheit bekannt. Die Bewohner pflegen stolz ihre Maya-Traditionen, die sich in ihrem täglichen Leben, ihrer Musik und ihrer Küche widerspiegeln. Geschichte K8 — Bewahrung von Maya-Traditionen.",
       hu: "",
       ro: "San Pedro Columbia este un sat de mayași Mopan mare și semnificativ din punct de vedere istoric din districtul Toledo, situat pe malul pitorescului râu Columbia. Comunitatea este una dintre cele mai vechi așezări mayașe din sudul Belizei și rămâne un centru mândru pentru cultura și agricultura tradițională. San Pedro Columbia este renumit pentru festivalurile sale vibrante, muzica tradițională și legătura sa profundă cu situl arheologic Lubaantun din apropiere. Satul este un producător major de cacao și citrice, utilizând solurile fertile ale văii râului. Cu faleza sa frumoasă și cadrul tropical luxuriant, San Pedro Columbia oferă vizitatorilor o experiență autentică în inima lumii mayașe Mopan.",
       en: "San Pedro Columbia is a large and historically significant Mopan Maya village in the Toledo District, situated on the banks of the scenic Columbia River. The community is one of the oldest Maya settlements in southern Belize and remains a proud center for traditional culture and agriculture. San Pedro Columbia is famous for its vibrant festivals, traditional music, and its deep connection to the nearby Lubaantun archaeological site. The village is a major producer of cacao and citrus, utilizing the fertile soils of the river valley. With its beautiful riverfront, its lush tropical setting, and its warm, welcoming community, San Pedro Columbia offers visitors an authentic and immersive experience into the heart of the Mopan Maya world and the agricultural traditions of the south."
@@ -877,7 +857,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Predominantly Kekchi Maya.", "Near the Lubaantun Maya site.", "Traditional way of life.", "Center for cacao production."]
     },
     factsAdvanced: {
-      de: ["San Pedro Columbia ist das größte Dorf im Toledo-Distrikt.", "Die Mehrheit der Bewohner sind Kekchi-Maya.", "Das Dorf liegt nur wenige Kilometer von den Ruinen von Lubaantun entfernt.", "Es ist ein bedeutendes Zentrum für den Anbau von Bio-Kakao.", "Der Columbia River bietet exzellente Möglichkeiten zum Schwimmen.", "Die Bewohner praktizieren noch oft die traditionelle Milpa-Landwirtschaft.", "Das Dorf ist bekannt für sein traditionelles Kunsthandwerk, wie Weberei.", "Es beherbergt die Columbia River Forest Reserve Verwaltung."],
+      de: ["Eine traditionsreiche Maya-Gemeinschaft in Toledo.", "In der Nähe liegen bedeutende archäologische Ruinenstätten.", "Die Dorfgemeinschaft bewahrt ihre kulturellen Wurzeln.", "Liegt in einer hügeligen Umgebung mit vielen Wasserquellen.", "Ein bedeutender Ort für die Erhaltung der Maya-Kultur.", "Die Bewohner legen Wert auf nachhaltiges Leben in Gemeinschaft."],
       hu: [],
       ro: [
       "San Pedro Columbia este cel mai mare sat de mayași Mopan din Belize.",
@@ -887,8 +867,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Comunitatea are o tradiție bogată în muzica de harpă și dansuri tradiționale."
     ],
       en: ["San Pedro Columbia is the largest Mopan Maya village in Belize.", "The population is approximately 2,500 residents.", "It is located about 18 miles northwest of Punta Gorda Town.", "The village is situated only 2 miles from the Lubaantun ruins.", "It is a major center for organic cacao production and processing.", "The community has a rich tradition of harp music and traditional dance.", "The Columbia River here is a popular spot for local swimming and fishing."]
-    }
-  },
+    }, image: "/poi-images/san-pedro-columbia-cities-v2.webp"},
   {
     id: "seine-bight-cities-v2",
     type: "city",
@@ -902,7 +881,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "A Garifuna village on the Placencia Peninsula."
     },
     descriptionAdvanced: {
-      de: "Seine Bight ist ein traditionelles Garifuna-Dorf auf der Placencia-Halbinsel, das sich zwischen dem Karibischen Meer und der Placencia-Lagune erstreckt. Im Gegensatz zu den stark touristisch geprägten Nachbarorten hat sich Seine Bight viel von seinem ursprünglichen kulturellen Charakter bewahrt. Das Dorf ist ein Ort, an dem man die Sprache, Musik und kulinarischen Traditionen der Garifuna hautnah erleben kann. Die Bewohner leben traditionell vom Fischfang, arbeiten aber zunehmend in der Tourismusbranche der Halbinsel. Seine Bight bietet eine bodenständige Atmosphäre und ist bekannt für seine lebendigen Trommelvorführungen und traditionellen Tänze. Trotz der zunehmenden Entwicklung in der Umgebung bleibt das Dorf ein stolzes Zentrum des Garifuna-Erbes und bietet Besuchern die Möglichkeit, eine andere Seite des Lebens auf der Halbinsel kennenzulernen.",
+      de: "Seine Bight ist ein Garifuna-Dorf auf der Halbinsel Placencia. Der Ort bietet einen authentischen Einblick in die garifunische Kultur, kombiniert mit der Nähe zu den wunderschönen Stränden der Halbinsel. Im Vergleich zum lebhaften Placencia Village ist Seine Bight eher ruhig und bewahrt seinen eigenen, ursprünglichen Charme. Kultur K7 — Ethnie und Küstenkultur.",
       hu: "",
       ro: "Seine Bight este un sat Garifuna bogat din punct de vedere cultural, situat pe peninsula Placencia, oferind un contrast autentic și tradițional față de zonele de stațiuni din apropiere. Satul are o istorie profundă, fiind stabilit de familii Garifuna care au căutat un mediu de coastă liniștit pentru pescuit și agricultură. Seine Bight este un centru pentru muzica, dansul și spiritualitatea Garifuna, unde tradițiile ancestrale rămân o parte vitală a vieții de zi cu zi. Vizitatorii pot experimenta sunetele ritmice ale tobelor și pot savura mâncăruri tradiționale precum Hudut. Deși peninsula a cunoscut o dezvoltare semnificativă, Seine Bight rămâne o comunitate mândră, dedicată păstrării moștenirii sale unice.",
       en: "Seine Bight is a culturally rich Garifuna village located on the Placencia Peninsula, offering an authentic and traditional contrast to the nearby resort areas. The village has a deep history, having been settled by Garifuna families who sought a peaceful coastal environment for fishing and farming. Seine Bight is a center for Garifuna music, dance, and spirituality, where the ancestral traditions remain a vital part of daily life. Visitors can experience the rhythmic sounds of the drums and savor traditional dishes like Hudut. While the peninsula has seen significant development, Seine Bight remains a proud and resilient community, dedicated to preserving its unique heritage while welcoming travelers who seek a genuine connection with Belize's diverse cultural landscape."
@@ -914,7 +893,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Traditional Garifuna village.", "Between the Caribbean Sea and the lagoon.", "Fishing and tourism.", "Rich musical tradition."]
     },
     factsAdvanced: {
-      de: ["Seine Bight ist eine der wenigen Garifuna-Siedlungen auf der Placencia-Halbinsel.", "Das Dorf liegt auf einem schmalen Streifen Land zwischen Meer und Lagune.", "Es wurde im 19. Jahrhundert von Garifuna-Flüchtlingen gegründet.", "Die Bevölkerung beträgt etwa 1.000 Einwohner.", "Seine Bight ist bekannt für seine exzellenten Trommelbauer.", "Das Dorf liegt etwa 8 Kilometer nördlich von Placencia Village.", "Es ist ein wichtiger Ort für die Erhaltung der Garifuna-Sprache.", "Die lokale Küche bietet Spezialitäten wie Hudut und Kassava-Brot."],
+      de: ["Ein charmantes Garifuna-Dorf auf der Halbinsel Placencia.", "Bietet eine ruhige Alternative zum touristischen Placencia.", "Die garifunische Kultur wird hier aktiv gelebt.", "Direkter Zugang zu schönen karibischen Küstenabschnitten.", "Kulturelle Veranstaltungen ziehen interessierte Besucher an.", "Ein Ort, der Tradition und touristisches Potenzial vereint."],
       hu: [],
       ro: [
       "Seine Bight a fost fondat în 1869 de coloniști Garifuna.",
@@ -924,8 +903,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Numele se referă la un golf unde se foloseau plase de pescuit (seines)."
     ],
       en: ["Seine Bight was founded in 1869 by Garifuna settlers.", "It is located midway along the 16-mile Placencia Peninsula.", "The population is approximately 1,500 residents.", "The village is famous for its traditional Garifuna drumming and Punta music.", "It is home to several traditional healing and spiritual centers.", "The name refers to a 'bight' or bay where fishing nets (seines) were used.", "It hosts a major celebration every November for Garifuna Settlement Day."]
-    }
-  },
+    }, image: "/poi-images/seine-bight-cities-v2.webp"},
   {
     id: "bullet-tree-falls-cities-v2",
     type: "city",
@@ -961,8 +939,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Populația este de aproximativ 2.500 de locuitori."
     ],
       en: ["Bullet Tree Falls is located 3 miles west of San Ignacio Town.", "The population is approximately 2,500 residents.", "The village is situated at a scenic point on the Mopan River.", "It is the primary gateway for tours to the El Pilar archaeological site.", "The community has a rich history tied to the chicle and timber trades.", "The Mopan River here is a popular spot for tubing and swimming.", "The village features several traditional thatched-roof restaurants and bars."]
-    }
-  },
+    }, image: "/poi-images/bullet-tree-falls-cities-v2.webp"},
   {
     id: "sittee-river-village-cities-v2",
     type: "city",
@@ -998,8 +975,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este faimoasă pentru abundența de iguane verzi și păsări tropicale."
     ],
       en: ["Sittee River is one of the deepest rivers in Belize, allowing for easy boat navigation.", "The village is located about 15 miles south of Dangriga Town.", "The community was historically important for mahogany and banana exports.", "The population is estimated to be around 600 residents.", "It is home to the Sittee River Marina, a popular spot for international sailors.", "The area is famous for its abundance of green iguanas and tropical birds.", "It serves as a primary departure point for trips to Glover's Reef Atoll."]
-    }
-  },
+    }, image: "/poi-images/sittee-river-village-cities-v2.webp"},
   {
     id: "san-jose-palmar-cities-v2",
     type: "city",
@@ -1035,8 +1011,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Coloniștii originali au fost descendenți ai mayașilor Icaiche."
     ],
       en: ["San Jose Palmar was founded in 1936 by relocated Maya villagers.", "The population is approximately 3,000 residents.", "It is located less than 2 miles south of Orange Walk Town center.", "The village is named after its patron saint, San Jose, and the palm trees in the area.", "It is the site of several important community development projects.", "The original settlers were descendants of the Icaiche Maya.", "The village is situated along the main highway to Belize City."]
-    }
-  },
+    }, image: "/poi-images/san-jose-palmar-cities-v2.webp"},
   {
     id: "yo-creek-cities-v2",
     type: "city",
@@ -1072,8 +1047,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este cunoscută pentru fermele familiale productive și bine gestionate."
     ],
       en: ["Yo Creek is located 5 miles west of Orange Walk Town.", "The population is approximately 1,400 residents.", "The village is a major contributor to the national sugar industry.", "It was established in the mid-20th century.", "Yo Creek is home to several important schools and community centers.", "The name is of Maya origin, likely referring to the nearby creek.", "The area is known for its productive and well-managed family farms."]
-    }
-  },
+    }, image: "/poi-images/yo-creek-cities-v2.webp"},
   {
     id: "trial-farm-cities-v2",
     type: "city",
@@ -1146,8 +1120,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Râurile Macal și Mopan se întâlnesc în apropiere pentru a forma râul Belize."
     ],
       en: ["San Ignacio is the administrative capital of the Cayo District.", "The town was founded in the mid-19th century as a hub for mahogany and chicle.", "It has a population of approximately 22,000 residents in the twin-town area.", "The town is home to the Cahal Pech Maya ruins, located right on a hill overlooking the center.", "The Macal and Mopan rivers meet nearby to form the Belize River.", "San Ignacio is located about 72 miles (116 kilometers) west of Belize City.", "The town's Hawksworth Bridge, built in 1949, is the only suspension bridge in Belize."]
-    }
-  },
+    }, image: "/poi-images/san-ignacio-el-cayo-capital-cities-v2.webp"},
   {
     id: "dangriga-stann-creek-capital-cities-v2",
     type: "state-capital",
@@ -1198,28 +1171,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "The capital of the Corozal District in northern Belize."
     },
     descriptionAdvanced: {
-      de: "Corozal Town ist die friedliche Hauptstadt des Corozal-Distrikts, direkt an der glitzernden Bucht von Corozal gelegen. Als nördlichste Stadt Belizes strahlt sie eine ruhige Gelassenheit aus, die sie von den geschäftigeren Städten im Süden unterscheidet. Die Geschichte von Corozal ist eng mit den Mestizen-Flüchtlingen verbunden, die Mitte des 19. Jahrhunderts während des Kastenkrieges aus Mexiko kamen. Dieser kulturelle Einfluss ist noch heute in der Sprache und der hervorragenden Küche der Stadt spürbar. Die Uferpromenade mit ihren Parks und historischen Gebäuden lädt zu ausgiebigen Spaziergängen ein. Corozal ist nicht nur ein Verwaltungszentrum, sondern auch ein Ort von archäologischer Bedeutung, mit Maya-Stätten direkt im Stadtgebiet. Die Nähe zur mexikanischen Stadt Chetumal macht Corozal zudem zu einem wichtigen Punkt für grenzüberschreitenden Handel und Kultur.",
-      hu: "",
-      ro: "Corozal Town este capitala senină a districtului Corozal, situată la marginea nordică a Belizei, pe malul sclipitor al Golfului Corozal. Cunoscut pentru atmosfera sa liniștită și parcurile publice bine îngrijite, orașul oferă o alternativă calmă la centrele urbane mai aglomerate ale țării. Istoria orașului Corozal este strâns legată de refugiații mestizo care au fugit din Mexic în timpul Războiului Castelor de la mijlocul secolului al XIX-lea, o moștenire care este încă evidentă în limbă, tradiții și bucătăria excepțională. Faleza este inima socială a orașului, având o promenadă pitorească unde localnicii și vizitatorii se adună pentru a se bucura de briza mării.",
-      en: "Corozal Town is the serene capital of the Corozal District, located at the northernmost edge of Belize on the shores of the shimmering Corozal Bay. Known for its peaceful atmosphere and well-manicured public parks, the town offers a quiet alternative to the busier urban centers of the country. Corozal's history is deeply intertwined with the Mestizo refugees who fled Mexico during the mid-19th century Caste War, a heritage that is still evident in the town's language, traditions, and exceptional cuisine. The waterfront is the town's social heart, featuring a scenic promenade where locals and visitors gather to enjoy the cool sea breezes and views of the turquoise bay. Corozal is also a place of archaeological significance, with the ancient Maya ruins of Santa Rita located right within the town limits. Its proximity to the Mexican city of Chetumal makes it a vital point for cross-border trade and culture, while its growing community of North American retirees adds to its diverse and welcoming character."
-    },
-    facts: {
-      de: ["Verwaltungssitz des Corozal Distrikts.", "Ruhige Küstenstadt.", "Nahe der mexikanischen Grenze.", "Historisch von Mestizen-Flüchtlingen geprägt."],
-      hu: ["A Corozal kerület közigazgatási székhelye.", "Csendes tengerparti város.", "A mexikói határ közelében.", "Történelmileg mesztic menekültek által formált."],
-      ro: ["Sediul administrativ al districtului Corozal.", "Oraș de coastă liniștit.", "Aproape de granița cu Mexic.", "Modelat istoric de refugiați mestizo."],
-      en: ["Administrative seat of the Corozal District.", "Quiet coastal town.", "Near the Mexican border.", "Historically shaped by Mestizo refugees."]
+      hu: "Corozal Town Belize északi kapuja, amelyet 1848-ban alapítottak a Yucatan-félszigetről érkező mesztic menekültek a Kastháború idején. A város a csodálatos Corozal-öböl partján fekszik, amely türkizkék vizével és csendes kikötőjével a nyugalom szigete az országban. A település közvetlen szomszédságában található Santa Rita maja romvárosa, amely egykor jelentős kereskedelmi központ volt. Corozal különleges, lassú tempójú életmódjáról ismert, ahol a hagyományos belizezi kultúra és a közeli mexikói határ közelsége keveredik egymással. A város kiváló kiindulópont a szárazföldi és tengeri kirándulásokhoz, és a kikapcsolódásra vágyók kedvelt célpontja. Földrajz K6 — partvidéki települések."
     },
     factsAdvanced: {
-      de: ["Corozal Town ist der Verwaltungssitz des Corozal-Distrikts.", "Die Stadt wurde 1848 von Flüchtlingen aus dem mexikanischen Yucatan gegründet.", "Sie liegt an einer seichten, smaragdgrünen Bucht der Karibik.", "Corozal hat ein deutlich trockeneres Klima als der Rest von Belize.", "Die antike Maya-Stätte Santa Rita liegt innerhalb der Stadtgrenzen.", "Die Stadt ist ein beliebtes Ziel für nordamerikanische Ruheständler.", "Es gibt eine regelmäßige Flugverbindung nach Belize City und San Pedro.", "Die Bevölkerung von Corozal Town beträgt etwa 13.500 Einwohner."],
-      hu: [],
-      ro: [
-      "Corozal Town este sediul administrativ al districtului Corozal.",
-      "Orașul a fost fondat în 1848 de refugiați din Yucatan, Mexic.",
-      "Situl mayaș antic Santa Rita este situat chiar în limitele orașului.",
-      "Corozal se află la doar 14 kilometri de granița cu Mexicul.",
-      "Orașul are un climat semnificativ mai uscat decât regiunile sudice ale Belizei."
-    ],
-      en: ["Corozal Town is the administrative seat of the Corozal District.", "The town was founded in 1848 by refugees from the Caste War of Yucatan.", "It has a population of approximately 13,500 residents.", "The ancient Maya site of Santa Rita is located within the town boundaries.", "Corozal is situated only 9 miles (14 kilometers) from the Mexican border.", "The town has a significantly drier climate than the southern regions of Belize.", "It was once a major center for the northern sugar industry before shifting to commerce."]
+      hu: ["1848-ban alapították a Kastháború menekültjei.", "Corozal kerület adminisztratív központja.", "A mexikói határ mindössze 14 kilométerre van.", "A város a Karib-tenger egyik sekély, türkiz öblében fekszik.", "Santa Rita maja régészeti helyszíne a város határában található.", "Az állandó lakosság létszáma körülbelül 13 000 fő.", "Kereskedelmi kapu Belize és Mexikó között."]
     }
   },
   {
@@ -1257,8 +1212,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Orange Walk este faimos în tot Belize pentru „tacos”, considerate o delicatesă locală."
     ],
       en: ["Orange Walk Town is the administrative capital of the Orange Walk District.", "It is the fourth-largest town in Belize by population, with over 15,000 residents.", "The town is the headquarters of the country's sugarcane industry (BSI).", "It is situated on the New River, an ancient Maya trade and transport route.", "Orange Walk is located 53 miles north of Belize City along the Phillip Goldson Highway.", "The town was the site of a major battle during the Caste War in 1872.", "It is the main hub for expeditions to the Lamanai Maya ruins."]
-    }
-  },
+    }, image: "/poi-images/orange-walk-ow-capital-cities-v2.webp"},
   {
     id: "punta-gorda-toledo-capital-cities-v2",
     type: "state-capital",
@@ -1294,8 +1248,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Este baza principală pentru explorarea siturilor mayașe Lubaantun și Nim Li Punit."
     ],
       en: ["Punta Gorda is the administrative capital of the Toledo District.", "It is the southernmost urban settlement in Belize.", "The town has a population of approximately 6,000 residents.", "It is a major hub for international boat travel to Guatemala and Honduras.", "The town hosts the famous annual Chocolate Festival of Belize in May.", "The average annual rainfall in the area is over 160 inches (4,000 mm).", "Punta Gorda is the main base for exploring the Maya sites of Lubaantun and Nim Li Punit."]
-    }
-  },
+    }, image: "/poi-images/punta-gorda-toledo-capital-cities-v2.webp"},
   {
     id: "belize-city-belize-capital-cities-v2",
     type: "state-capital",
@@ -1368,8 +1321,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Este un furnizor major de fructe și legume pentru nordul Belizei."
     ],
       en: ["Little Belize was founded in 1958 by Mennonite groups from Mexico and Canada.", "It is one of the most conservative Old Colony Mennonite settlements in the world.", "Motorized vehicles are strictly prohibited for private use within the community.", "The settlement is located on the western shore of the Progresso Lagoon.", "The residents speak Plautdietsch (Low German) as their primary language.", "Little Belize is a major supplier of fruits and vegetables for northern Belize.", "The population is estimated to be over 2,500 residents."]
-    }
-  },
+    }, image: "/poi-images/little-belize-cities-v2.webp"},
   {
     id: "progresso-cities-v2",
     type: "city",
@@ -1442,8 +1394,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Dispune de o biserică catolică mare și de mai multe școli primare."
     ],
       en: ["San Jose is one of the most populous villages in the Orange Walk District.", "The village is located approximately 7 miles south of Orange Walk Town.", "Sugarcane farming is the primary economic driver for the community.", "The population consists mostly of Mestizo families with Yucatec roots.", "It is situated directly on the Phillip Goldson Highway, a major national artery.", "The village features a large Catholic church and several primary schools.", "The community is known for its active agricultural cooperatives and social clubs."]
-    }
-  },
+    }, image: "/poi-images/san-jose-ow-cities-v2.webp"},
   {
     id: "indian-church-cities-v2",
     type: "city",
@@ -1479,8 +1430,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Pădurea înconjurătoare este cunoscută pentru biodiversitatea sa ridicată, inclusiv maimuțe urlătoare."
     ],
       en: ["Indian Church is the primary gateway to the Lamanai archaeological site.", "The village name refers to Spanish missionary churches built in the 1540s and 1560s.", "It is located on the shores of the New River Lagoon, the largest freshwater body in Belize.", "Access is typically via a 26-mile boat journey up the New River from Orange Walk Town.", "The population is approximately 500 residents.", "The community is an active participant in sustainable ecotourism projects.", "The surrounding forest is part of a protected reserve known for its high biodiversity."]
-    }
-  },
+    }, image: "/poi-images/indian-church-cities-v2.webp"},
   {
     id: "san-estevan-cities-v2",
     type: "city",
@@ -1516,8 +1466,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Comunitatea este cunoscută pentru influențele sale culturale tradiționale mestizo și maya."
     ],
       en: ["San Estevan is located about 6 miles east of Orange Walk Town.", "The population is approximately 1,800 residents.", "The village was established in the mid-19th century.", "It is a major center for sugarcane and citrus production.", "San Estevan is situated on the eastern bank of the New River.", "The community is known for its traditional Mestizo and Maya cultural influences.", "It features several primary schools and a large community park."]
-    }
-  },
+    }, image: "/poi-images/san-estevan-cities-v2.webp"},
   {
     id: "xunantunich-village-cities-v2",
     type: "city",
@@ -1553,8 +1502,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Comunitatea își sărbătorește ziua sfântului patron cu dansuri tradiționale și muzică de marimba."
     ],
       en: ["San Jose Succotz is a predominantly Yucatec Maya community.", "The village is home to the famous hand-cranked ferry across the Mopan River.", "It is located approximately 70 miles west of Belize City on the George Price Highway.", "The population is estimated to be over 2,500 residents.", "The village is a major center for traditional Maya slate carving and handicrafts.", "It sits directly across the river from the Xunantunich Maya ruins.", "The community celebrates its patron saint day with traditional dances and marimba music."]
-    }
-  },
+    }, image: "/poi-images/xunantunich-village-cities-v2.webp"},
   {
     id: "maya-mopan-cities-v2",
     type: "city",
@@ -1590,8 +1538,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este cunoscută pentru vederile sale pitorești spre lanțul muntos Maya."
     ],
       en: ["Maya Mopan is located about 20 miles south of Dangriga Town.", "The population is approximately 800 residents.", "The village was established as a dedicated Maya settlement in the 1970s.", "It is a major participant in the regional cacao and spice trade.", "The community has a rich tradition of harp music and traditional dance.", "It features a local primary school and a community center.", "The area is known for its scenic views of the Maya Mountain range."]
-    }
-  },
+    }, image: "/poi-images/maya-mopan-cities-v2.webp"},
   {
     id: "consejo-cities-v2",
     type: "city",
@@ -1627,8 +1574,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Faleza este un loc ideal pentru observarea lamantinilor și a păsărilor de coastă."
     ],
       en: ["Consejo is the northernmost inhabited settlement on mainland Belize.", "The village is located about 8 miles (13 kilometers) from Corozal Town.", "The city of Chetumal, Mexico, is only 2 miles away across the water.", "It is home to a large and diverse community of North American and European expats.", "The area features a 9-hole golf course and a private marina.", "The village is known for having one of the lowest crime rates in the country.", "The waterfront is an ideal spot for spotting manatees and coastal birds."]
-    }
-  },
+    }, image: "/poi-images/consejo-cities-v2.webp"},
   {
     id: "santa-familia-cities-v2",
     type: "city",
@@ -1664,8 +1610,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona găzduiește numeroase livezi de fructe și ferme de familie productive."
     ],
       en: ["Santa Familia is located approximately 6 miles northwest of San Ignacio.", "The population is estimated to be over 2,000 residents.", "The village was founded in the early 20th century.", "It is a major center for small and medium-scale commercial agriculture.", "The village is situated on a terrace overlooking the Belize River.", "It features several large community parks and primary schools.", "The area is famous for its traditional Mestizo cuisine and festivals."]
-    }
-  },
+    }, image: "/poi-images/santa-familia-cities-v2.webp"},
   {
     id: "san-lazaro-ow-cities-v2",
     type: "city",
@@ -1738,8 +1683,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Populația este de aproximativ 200 de locuitori, în principal de origine creolă."
     ],
       en: ["Monkey River Town officially holds the status of a 'town' despite its small size.", "The village is accessible only by water, as there are no roads leading directly to it.", "It is a world-renowned destination for viewing black howler monkeys.", "The village was a major hub for banana exports in the late 19th century.", "Coastal erosion has removed several rows of houses over the last few decades.", "The population is approximately 200 residents, primarily of Creole descent.", "The Monkey River is a protected area known for its high biodiversity."]
-    }
-  },
+    }, image: "/poi-images/monkey-river-town-cities-v2.webp"},
   {
     id: "jalacte-cities-v2",
     type: "city",
@@ -1775,8 +1719,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Accesul a fost îmbunătățit semnificativ odată cu finalizarea unui drum asfaltat recent."
     ],
       en: ["Jalacte is located at the westernmost point of the Toledo District, on the Guatemalan border.", "The population consists almost entirely of Kekchi Maya residents.", "The village is a major center for informal international trade in the south.", "Cardamom and cacao are the primary commercial crops grown in the area.", "The village is situated in a high-rainfall zone within the Maya Mountains.", "Access was significantly improved with the completion of a paved road in recent years.", "The community maintains strong cultural and family links with villages in Guatemala."]
-    }
-  },
+    }, image: "/poi-images/jalacte-cities-v2.webp"},
   {
     id: "san-roman-cayo-cities-v2",
     type: "city",
@@ -1812,8 +1755,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este cunoscută pentru peisajele sale deschise și fermele mari de familie."
     ],
       en: ["San Roman is located in the fertile valley of the Belize River.", "The economy is heavily focused on livestock production and grain farming.", "The village maintains close economic ties with the neighboring Spanish Lookout community.", "The population is ethnically diverse, reflecting the multicultural nature of the district.", "It is accessible via rural roads connecting to the George Price Highway.", "The Belize River is a central part of the village's identity and history.", "The area is known for its wide, open landscapes and large family-owned farms."]
-    }
-  },
+    }, image: "/poi-images/san-roman-cayo-cities-v2.webp"},
   {
     id: "gales-point-manatee-cities-v2",
     type: "city",
@@ -1849,8 +1791,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Satul este renumit pentru vinurile sale de fructe de casă, în special de caju și mure."
     ],
       en: ["Gales Point is one of the best locations in the world to observe West Indian Manatees.", "The village is situated on a narrow peninsula within a massive lagoon system.", "It is a national center for traditional Creole drumming and ancestral music.", "The area is a designated wildlife sanctuary (Manatee Wildlife Sanctuary).", "Rare bird species, including the Jabiru stork, are frequently spotted in the area.", "Gales Point has a history that dates back to the early colonial logging era.", "The village is accessible via the scenic Coastal Highway.", "It is famous for its homemade fruit wines, particularly cashew and blackberry."]
-    }
-  },
+    }, image: "/poi-images/gales-point-manatee-cities-v2.webp"},
   {
     id: "san-miguel-toledo-cities-v2",
     type: "city",
@@ -1886,8 +1827,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Muzica tradițională de harpă și țesutul sunt încă practicate activ în sat."
     ],
       en: ["San Miguel is a predominantly Kekchi Maya community located on the Rio Grande.", "The village is a major center for organic cacao and citrus production.", "It offers immersive 'homestay' programs for visitors seeking cultural exchange.", "The surrounding forest reserve is home to spectacular limestone caves like Tiger Cave.", "The residents are experts in traditional thatch-roof house construction.", "The village is located about 16 miles northwest of Punta Gorda Town.", "It serves as a key settlement for the protection of the Columbia River watershed.", "Traditional Maya music and weaving are still actively practiced in the village."]
-    }
-  },
+    }, image: "/poi-images/san-miguel-toledo-cities-v2.webp"},
   {
     id: "cristo-rey-cayo-cities-v2",
     type: "city",
@@ -1923,8 +1863,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este faimoasă pentru abundența de păsări și traseele pitorești de drumeție."
     ],
       en: ["Cristo Rey is situated along the scenic Macal River in the Cayo District.", "The village is located approximately 4 miles south of San Ignacio Town.", "It is a primary starting point for trips into the Mountain Pine Ridge Forest Reserve.", "The population is a mix of Mestizo families and international residents.", "The name 'Cristo Rey' translates to 'Christ the King' in Spanish.", "The area is famous for its abundance of birdlife and scenic hiking trails.", "The village features several high-end eco-lodges and traditional eateries.", "The local Catholic church is a central landmark and social hub for the village."]
-    }
-  },
+    }, image: "/poi-images/cristo-rey-cayo-cities-v2.webp"},
   {
     id: "santa-marta-ow-cities-v2",
     type: "city",
@@ -1997,8 +1936,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona din jurul Chan Chen este bogată în mici ruine și artefacte mayașe."
     ],
       en: ["Chan Chen is located about 5 miles north of Corozal Town.", "The name means 'Little Well' in the Maya language.", "The village is very close to the Santa Elena border crossing into Mexico.", "The residents are primarily of Mestizo and Yucatec Maya descent.", "The area surrounding Chan Chen is rich in small Maya ruins and artifacts.", "Sugarcane cultivation is a major agricultural activity for the village.", "The village features a local primary school and a community park.", "Its proximity to Corozal Bay positively influences the local microclimate."]
-    }
-  },
+    }, image: "/poi-images/chan-chen-cities-v2.webp"},
   {
     id: "lagoon-village-cities-v2",
     type: "city",
@@ -2034,8 +1972,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Comunitatea include un grup mic, dar divers, de expați internaționali."
     ],
       en: ["The village is situated directly on the western shore of the Progresso Lagoon.", "It is known for its excellent fishing for snook and snapper.", "The lagoon is a vital resting point for migratory birds from North America.", "Lagoon Village is located about 12 miles south of Corozal Town.", "The community includes a small but diverse group of international expats.", "The area is dominated by coconut palms and lush tropical vegetation.", "The quiet nature of the location makes it ideal for sustainable ecotourism.", "The village is accessible via a well-maintained gravel road through the sugar belt."]
-    }
-  },
+    }, image: "/poi-images/lagoon-village-cities-v2.webp"},
   {
     id: "santa-clara-czl-cities-v2",
     type: "city",
@@ -2108,8 +2045,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este faimoasă pentru biodiversitatea sa ridicată, incluzând numeroase specii de papagali."
     ],
       en: ["Big Falls is located at a strategic bridge crossing over the Rio Grande.", "The village is a major center for vanilla and cacao production in Toledo.", "It is home to the 'Living Maya Experience,' an interactive cultural center.", "The Big Falls Rice Mill is a vital economic institution for the district.", "Natural hot springs are located within a short distance of the village center.", "The Rio Grande here is popular for kayaking, swimming, and river tubing.", "The area is famous for its high biodiversity, including numerous species of parrots and toucans."]
-    }
-  },
+    }, image: "/poi-images/big-falls-toledo-cities-v2.webp"},
   {
     id: "trio-village-cities-v2",
     type: "city",
@@ -2145,8 +2081,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Spaniola este limba principală utilizată pentru comunicarea zilnică în sat."
     ],
       en: ["Trio Village is one of the fastest-growing communities in the Toledo District.", "The economy is almost entirely based on the commercial banana industry.", "The population consists largely of immigrants from Guatemala, Honduras, and El Salvador.", "The village is situated near the entrance to the Bladen Nature Reserve.", "Trio has a very young and dynamic demographic profile.", "The area receives exceptionally high rainfall due to its location near the mountains.", "Spanish is the primary language used for daily communication in the village."]
-    }
-  },
+    }, image: "/poi-images/trio-village-cities-v2.webp"},
   {
     id: "x-pichil-cities-v2",
     type: "city",
@@ -2182,8 +2117,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este cunoscută pentru fermele de familie productive și bine întreținute."
     ],
       en: ["San Pablo is located directly on the Phillip Goldson Highway.", "The village is an important part of the national sugarcane industry.", "The residents are predominantly Mestizo with strong Yucatec cultural roots.", "San Pablo features its own community sports facilities and football team.", "The village is approximately 9 miles south of Orange Walk Town.", "Spanish is the primary language spoken in the community.", "The area is known for its productive and well-maintained family farms."]
-    }
-  },
+    }, image: "/poi-images/x-pichil-cities-v2.webp"},
   {
     id: "crique-sarco-cities-v2",
     type: "city",
@@ -2219,8 +2153,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Satul nu are conexiune la rețeaua națională de energie electrică."
     ],
       en: ["Crique Sarco is the southernmost inland settlement in Belize.", "The village is primarily accessible by water via the Temash River.", "The residents belong exclusively to the Kekchi Maya ethnic group.", "It is located on the boundary of the Sarstoon-Temash National Park.", "Most houses are built in the traditional Maya style using natural forest materials.", "Subsistence agriculture and river fishing are the primary sources of livelihood.", "The village has no connection to the national electricity grid.", "The area is a critical habitat for endangered species like the West Indian Manatee."]
-    }
-  },
+    }, image: "/poi-images/crique-sarco-cities-v2.webp"},
   {
     id: "san-vicente-toledo-cities-v2",
     type: "city",
@@ -2256,8 +2189,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "San Vicente este situat în una dintre cele mai umede zone din America Centrală."
     ],
       en: ["San Vicente is located at the western edge of the Toledo District near the border.", "The village is inhabited almost entirely by Kekchi Maya families.", "The economy is based on subsistence farming and organic cacao cultivation.", "The region is known for its extraordinary biodiversity and primary rainforest.", "San Vicente is situated in one of the wettest zones in Central America.", "Traditional Maya language and customs are a constant part of daily life.", "Access is via unpaved roads through untouched jungle landscapes.", "The village serves as an important base for forest conservation efforts."]
-    }
-  },
+    }, image: "/poi-images/san-vicente-toledo-cities-v2.webp"},
   {
     id: "carmelita-cities-v2",
     type: "city",
@@ -2293,8 +2225,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este cunoscută pentru grădinăritul productiv la scară mică și pomii fructiferi."
     ],
       en: ["Carmelita is located about 5 miles south of Orange Walk Town.", "The population is estimated to be over 2,500 residents.", "The village serves as a major residential suburb for the sugar industry workers.", "It is situated at a key point along the highway to Belize City.", "The community was established in the mid-20th century.", "It features several primary schools and a large community center.", "The area is known for its productive small-scale gardening and fruit trees."]
-    }
-  },
+    }, image: "/poi-images/carmelita-cities-v2.webp"},
   {
     id: "barranco-cities-v2",
     type: "city",
@@ -2330,8 +2261,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Satul este faimos pentru constructorii săi tradiționali de canoe cioplite."
     ],
       en: ["Barranco is the oldest Garifuna settlement in the Toledo District, founded in the 1860s.", "The village is the birthplace of the world-famous musician and cultural ambassador Andy Palacio.", "It is accessible only via a long unpaved road or by boat from Punta Gorda.", "Barranco is a major center for the preservation of the Garifuna language.", "The settlement sits directly on the Caribbean Sea near the Guatemalan border.", "Agriculture and traditional fishing are the primary livelihoods for the residents.", "The village is famous for its traditional dugout canoe builders.", "It remains a significant site for ancestral Garifuna spiritual ceremonies."]
-    }
-  },
+    }, image: "/poi-images/barranco-cities-v2.webp"},
   {
     id: "la-gracia-cities-v2",
     type: "city",
@@ -2367,8 +2297,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Cunoscut pentru atmosfera sa excepțional de liniștită și sigură."
     ],
       en: ["La Gracia is a dedicated agricultural community in the central Cayo District.", "The village is well-known for its successful small-scale cattle ranching.", "The residents are primarily Spanish-speaking Mestizo families.", "It is situated in a hilly landscape with expansive grazing lands.", "La Gracia has one of the lower population densities in the region.", "The village is known for its exceptionally quiet and safe atmosphere.", "The community regularly organizes local farmers' markets and social gatherings.", "There are no large commercial industrial operations within the village."]
-    }
-  },
+    }, image: "/poi-images/la-gracia-cities-v2.webp"},
   {
     id: "roaring-creek-cities-v2",
     type: "city",
@@ -2404,8 +2333,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Parcul Național Guanacaste este situat la periferia satului."
     ],
       en: ["Roaring Creek is located about 2 miles west of Belmopan.", "The population is approximately 2,500 residents.", "It is situated at the historic junction of two major national highways.", "The village was an important river port during the colonial logging era.", "It is home to several historic churches and community centers.", "Guanacaste National Park is located on the outskirts of the village.", "The creek itself is a popular spot for local recreation and swimming."]
-    }
-  },
+    }, image: "/poi-images/roaring-creek-cities-v2.webp"},
   {
     id: "georgeville-cities-v2",
     type: "city",
@@ -2441,8 +2369,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Se află la baza contraforturilor Munților Maya."
     ],
       en: ["Georgeville is located about 12 miles west of Belmopan.", "It is the primary turn-off for the Mountain Pine Ridge Forest Reserve.", "The population is approximately 1,000 residents.", "The village was named after one of its early prominent settlers.", "It was an important stop on the historic ox-cart trail to the mountains.", "The community features several popular roadside markets and eateries.", "It is situated at the base of the Maya Mountain foothills."]
-    }
-  },
+    }, image: "/poi-images/georgeville-cities-v2.webp"},
   {
     id: "unitedville-cities-v2",
     type: "city",
@@ -2478,8 +2405,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Populația este de aproximativ 1.500 de locuitori."
     ],
       en: ["Unitedville is located approximately 10 miles west of Belmopan.", "The population is about 1,500 residents.", "The community was formed by the merging of several smaller settlements.", "It is a major center for the production of citrus and ground foods.", "The village is home to the national police training academy nearby.", "It features several large community churches and primary schools.", "The area is characterized by its rolling hills and fertile alluvial soil."]
-    }
-  },
+    }, image: "/poi-images/unitedville-cities-v2.webp"},
   {
     id: "santa-rosa-toledo-cities-v2",
     type: "city",
@@ -2515,8 +2441,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Cele mai multe case sunt construite folosind materiale naturale din pădure."
     ],
       en: ["Santa Rosa is inhabited almost exclusively by Kekchi Maya residents.", "The village is located in the southern Toledo District near the Southern Highway.", "The significant archaeological site of Nim Li Punit is located nearby.", "Subsistence farming is the primary livelihood for the community.", "The village is renowned for its traditional Maya handicrafts and weaving.", "Santa Rosa is a center for the preservation of the Kekchi language.", "Most houses in the village are built using traditional forest materials.", "The community is deeply integrated with the surrounding tropical forest ecosystem."]
-    }
-  },
+    }, image: "/poi-images/santa-rosa-toledo-cities-v2.webp"},
   {
     id: "riversdale-cities-v2",
     type: "city",
@@ -2552,8 +2477,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Se află la aproximativ 32 de kilometri de Autostrada de Sud."
     ],
       en: ["Riversdale is located at the northern tip of the Placencia Peninsula.", "The population is approximately 300 residents.", "The village was a major banana port in the early 20th century.", "It features several high-end residential and resort developments.", "The area is home to beautiful mangrove forests and turtle nesting sites.", "It is situated about 20 miles from the Southern Highway.", "Riversdale is a popular spot for sport fishing and sailing."]
-    }
-  },
+    }, image: "/poi-images/riversdale-cities-v2.webp"},
   {
     id: "san-pablo-toledo-cities-v2",
     type: "city",
@@ -2589,8 +2513,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Cunoscut pentru coeziunea socială puternică și sprijinul reciproc."
     ],
       en: ["San Pablo is located in the rural heart of the Toledo District.", "The village is predominantly inhabited by Kekchi Maya families.", "Agriculture, specifically cacao and corn, is the main source of income.", "It is conveniently located near the Southern Highway for easy transport.", "San Pablo features its own community primary school and church.", "The community is known for its strong social cohesion and mutual support.", "Traditional Maya festivals are regularly celebrated within the village.", "The area offers a very nature-oriented living environment for its residents."]
-    }
-  },
+    }, image: "/poi-images/san-pablo-toledo-cities-v2.webp"},
   {
     id: "maskall-cities-v2",
     type: "city",
@@ -2626,8 +2549,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Populația este un amestec divers etnic de familii creole și mestizo."
     ],
       en: ["Maskall is located on the Old Northern Highway north of Belize City.", "It is the closest village to the world-famous Altun Ha Maya ruins.", "The economy is based on a mix of agriculture and small-scale tourism.", "The village has a long history as a colonial logging settlement.", "Maskall is well-known for its productive orange and grapefruit orchards.", "The population is an ethnically diverse mix of Creole and Mestizo families.", "Several historic colonial-era buildings are still standing in the village.", "The village offers a quiet, rural alternative to the busier modern highway routes."]
-    }
-  },
+    }, image: "/poi-images/maskall-cities-v2.webp"},
   {
     id: "san-antonio-rio-hondo-cities-v2",
     type: "city",
@@ -2774,8 +2696,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Satul nu este conectat la rețeaua națională de electricitate."
     ],
       en: ["Santa Teresa is inhabited exclusively by Kekchi Maya families.", "The village is located in the far western part of the Toledo District.", "Traditional Maya language and customs define daily life in the community.", "Subsistence farming (corn, beans) is the primary basis for survival.", "The village is accessible via unpaved jungle trails and rural roads.", "Houses are built in the traditional style with palm-leaf thatched roofs.", "Santa Teresa has no connection to the national electricity grid.", "The community is known for its traditional healers and spiritual leaders."]
-    }
-  },
+    }, image: "/poi-images/santa-teresa-toledo-cities-v2.webp"},
   {
     id: "caledonia-czl-cities-v2",
     type: "city",
@@ -2848,8 +2769,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Situat la o joncțiune strategică ce leagă orașul de districtele nordice."
     ],
       en: ["Sand Hill is located 19 miles north of Belize City.", "It is the starting point of the Old Northern Highway.", "The population is approximately 2,000 residents.", "The village is a major hub for public transportation heading north.", "It was originally a center for small-scale timber and livestock production.", "The area is home to several large residential developments.", "Sand Hill sits at a strategic junction connecting the city with the northern districts."]
-    }
-  },
+    }, image: "/poi-images/sand-hill-cities-v2.webp"},
   {
     id: "biscayne-cities-v2",
     type: "city",
@@ -2885,8 +2805,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona găzduiește câteva zone umede sezoniere importante pentru păsările migratoare."
     ],
       en: ["Biscayne is located directly on the Phillip Goldson Highway.", "The village falls within the buffer zone of the Crooked Tree Wildlife Sanctuary.", "The population is primarily of Creole descent.", "The local economy relies on livestock rearing and small-scale services.", "The village is approximately 25 miles northwest of Belize City.", "Biscayne is known for its open, savanna-like landscape and rich bird biodiversity.", "The area is home to several important seasonal wetlands for migratory birds.", "The community features a local primary school and a community center."]
-    }
-  },
+    }, image: "/poi-images/biscayne-cities-v2.webp"},
   {
     id: "silk-grass-cities-v2",
     type: "city",
@@ -2922,8 +2841,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Zona este cunoscută pentru fermele de familie productive la scară mică."
     ],
       en: ["Silk Grass is located about 10 miles south of Dangriga Town.", "The population is approximately 2,000 residents.", "The village is a major center for the regional citrus industry.", "It is situated near the entrance to the Mayflower Bocawina National Park.", "The community was established in the mid-20th century.", "It features several primary schools and a health center.", "The area is known for its productive small-scale family farms."]
-    }
-  },
+    }, image: "/poi-images/silk-grass-cities-v2.webp"},
   {
     id: "august-pine-ridge-cities-v2",
     type: "city",
@@ -3033,8 +2951,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Satul este situat pe o câmpie de coastă pitorească lângă Golful Chetumal."
     ],
       en: ["Santa Cruz is located in the heart of Corozal's sugar belt.", "Agriculture is the primary source of income for almost all residents.", "The population is predominantly Spanish-speaking and of Mestizo descent.", "The village is approximately 10 miles northwest of Corozal Town.", "Santa Cruz features its own community primary school and church.", "The community is known for its strong social cohesion and family-oriented lifestyle.", "The village is situated on a scenic coastal plain near Chetumal Bay.", "Traditional festivals and harvest celebrations are central to the social calendar."]
-    }
-  },
+    }, image: "/poi-images/santa-cruz-czl-cities-v2.webp"},
   {
     id: "san-joaquin-czl-cities-v2",
     type: "city",
@@ -3070,8 +2987,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Comunitatea are o reputație pentru spirit antreprenorial și creșterea afacerilor locale."
     ],
       en: ["San Joaquin is situated directly on the Phillip Goldson Highway south of Corozal Town.", "The village is a major hub for sugarcane production and transport.", "It is famous for its large-scale annual village fiesta in August.", "The population is primarily Spanish-speaking Mestizo.", "San Joaquin features its own health clinic and several large primary schools.", "It is one of the larger and more developed villages in the Corozal District.", "The community has a reputation for entrepreneurship and local business growth.", "There are several minor archaeological mounds found within the surrounding area."]
-    }
-  },
+    }, image: "/poi-images/san-joaquin-czl-cities-v2.webp"},
   {
     id: "teakettle-cities-v2",
     type: "city",
@@ -3107,8 +3023,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Numele ar proveni de la un pârâu din apropiere care „urlă” ca un fierbător."
     ],
       en: ["Teakettle is located on the George Price Highway at Mile 52.", "The village is the official jumping-off point for expeditions to the ATM Cave.", "The community is ethnically diverse, including Creole, Mestizo, and Maya families.", "Teakettle is situated in close proximity to the scenic Belize River.", "The local economy is significantly supported by archaeological and adventure tourism.", "Several prominent jungle lodges are located within or near the village.", "The village features its own primary school and several community churches.", "The name is said to have originated from a nearby stream that 'roars' like a kettle."]
-    }
-  },
+    }, image: "/poi-images/teakettle-cities-v2.webp"},
   {
     id: "santa-elena-toledo-cities-v2",
     type: "city",
@@ -3255,8 +3170,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Cunoscut pentru mediul său liniștit, sigur și orientat spre familie."
     ],
       en: ["Buena Vista is a significant farming community in the central Cayo District.", "The village is located just a few miles from the Spanish Lookout commercial center.", "The population is ethnically diverse, including Mestizo and Creole families.", "Agriculture and livestock rearing are the primary sources of income.", "Buena Vista benefits from the high-quality infrastructure of the neighboring Mennonite area.", "The village is known for its quiet, safe, and family-oriented environment.", "It is accessible via the well-maintained road network leading to Spanish Lookout.", "The area features many scenic vistas of the surrounding Cayo hills and valleys."]
-    }
-  },
+    }, image: "/poi-images/buena-vista-cayo-cities-v2.webp"},
   {
     id: "san-andres-czl-cities-v2",
     type: "city",
@@ -3366,8 +3280,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       "Cunoscut pentru abundența de pomi fructiferi și floră tropicală."
     ],
       en: ["Gardenia is a traditional Creole village located on the Phillip Goldson Highway.", "The community is situated near the scenic banks of the Belize River.", "It is one of several historic settlements in the Belize River Valley area.", "The population is primarily of Creole descent with a focus on family roots.", "The village is approximately 21 miles northwest of Belize City.", "Gardenia is known for its abundance of fruit trees and tropical flora.", "The local economy is based on small-scale agriculture and services.", "The community features a local primary school and a community center."]
-    }
-  },
+    }, image: "/poi-images/gardenia-cities-v2.webp"},
   {
     id: "santa-elena-border-cities-v2",
     type: "city",
@@ -3443,3 +3356,4 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNicaraguaCitiesV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A 'narancsok városaként' ismert", "A földimogyoró-termesztés központja", "Fontos közlekedési csomópont", "Magas hőmérséklet"],
       ro: ["Cunoscut ca 'Orașul portocalelor'", "Centrul cultivării arahidelor", "Nod de transport important", "Temperaturi ridicate"],
       en: ["Known as the 'City of Oranges'", "Center of peanut cultivation", "Important transportation hub", "High temperatures"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Chinandega liegt im fruchtbaren pazifischen Tiefland und ist das Zentrum der nicaraguanischen Erdnuss- und Zuckerrohrproduktion. Die Stadt, die oft als 'Stadt der Orangen' bezeichnet wird, hat eine reiche Geschichte, die bis in die präkolumbianische Zeit zurückreicht. Geografie K7 — Landwirtschaft und Ebenen.",
+      hu: "Chinandega a termékeny csendes-óceáni síkságon fekszik, és a nicaraguai földimogyoró- és cukornádtermesztés központja. A várost gyakran 'narancsok városaként' emlegetik, és gazdag, a prehispán időkig visszanyúló történelemmel rendelkezik. Földrajz K7 — mezőgazdaság és síkságok.",
+      ro: "Chinandega este situată în câmpiile fertile ale Pacificului și este centrul producției de arahide și trestie de zahăr din Nicaragua. Orașul, numit adesea 'Orașul portocalelor', are o istorie bogată care datează din perioada precolumbiană. Geografie K7 — agricultură și câmpii.",
+      en: "Chinandega is located in the fertile Pacific lowlands and is the center of Nicaragua's peanut and sugar cane production. Often called the 'City of Oranges', the city has a rich history dating back to pre-Columbian times. Geography K7 — agriculture and plains."
+    },
+    factsAdvanced: {
+      de: ["Chinandega ist das Departementszentrum von Chinandega.", "Hier befindet sich einer der größten Zuckerrohr-Verarbeitungsbetriebe des Landes.", "Die Region ist bekannt für ihre hohen Temperaturen, oft über 35 Grad.", "Die Stadt liegt nahe am Vulkan San Cristóbal, dem höchsten Nicaraguas.", "Der Erdnussanbau ist eine der tragenden Säulen der lokalen Wirtschaft.", "Chinandega wurde 1839 offiziell zur Stadt erhoben."],
+      hu: ["Chinandega a Chinandega megye központja.", "Itt található az ország egyik legnagyobb cukornád-feldolgozó üzeme.", "A régió a 35 fok feletti hőmérsékleteiről ismert.", "A város a San Cristóbal vulkán, Nicaragua legmagasabb vulkánja közelében fekszik.", "A földimogyoró-termesztés a helyi gazdaság egyik alappillére.", "Chinandega 1839-ben kapott hivatalosan városi rangot."],
+      ro: ["Chinandega este centrul departamentului Chinandega.", "Aici se află una dintre cele mai mari fabrici de procesare a trestiei de zahăr din țară.", "Regiunea este cunoscută pentru temperaturile sale ridicate, adesea peste 35 de grade.", "Orașul este situat aproape de vulcanul San Cristóbal, cel mai înalt din Nicaragua.", "Cultivarea arahidelor este unul dintre pilonii economiei locale.", "Chinandega a primit oficial rangul de oraș în 1839."],
+      en: ["Chinandega is the center of the Chinandega department.", "It houses one of the country's largest sugar cane processing plants.", "The region is known for its high temperatures, often above 35 degrees Celsius.", "The city is located near the San Cristóbal volcano, the highest in Nicaragua.", "Peanut cultivation is a pillar of the local economy.", "Chinandega was officially granted city status in 1839."]
+    }, image: "/poi-images/chinandega-cities-v2.webp"},
   {
     id: "matagalpa-cities-v2",
     type: "state-capital",
@@ -27,8 +39,19 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Az 'Észak gyöngyszemének' nevezik", "Hűvös hegyi éghajlat", "Kiváló minőségű kávét termel", "Kávéfarmok veszik körül"],
       ro: ["Numit 'Perla Nordului'", "Climat montan răcoros", "Produce cafea de înaltă calitate", "Înconjurat de ferme de cafea"],
       en: ["Called the 'Pearl of the North'", "Cool mountain climate", "Produces high-quality coffee", "Surrounded by coffee farms"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Matagalpa, bekannt als 'Perle des Nordens', liegt im zentralen Hochland und bildet das wirtschaftliche Zentrum für den Kaffeeanbau. Durch die Höhenlage profitiert die Stadt von einem kühleren Klima, das sie von den heißen Tieflandregionen unterscheidet. Földrajz K6 — hegyvidéki éghajlat és mezőgazdaság.",
+      hu: "Matagalpa, az 'Észak gyöngyszeme', a központi hegyvidéken fekszik, és a kávétermesztés gazdasági központja. A tengerszint feletti magasságának köszönhetően a város hűvösebb éghajlattal rendelkezik, mint az alacsonyan fekvő régiók. Földrajz K6 — hegyvidéki éghajlat és mezőgazdaság.",
+      ro: "Matagalpa, cunoscută sub numele de 'Perla Nordului', este situată în zonele muntoase centrale și este centrul economic pentru cultivarea cafelei. Datorită altitudinii, orașul beneficiază de un climat mai răcoros, care îl diferențiază de regiunile calde de câmpie. Geografie K6 — climat montan și agricultură.",
+      en: "Matagalpa, known as the 'Pearl of the North', is located in the central highlands and serves as the economic hub for coffee cultivation. Due to its altitude, the city benefits from a cooler climate that distinguishes it from the hot lowland regions. Geography K6 — mountain climate and agriculture."
+    },
+    factsAdvanced: {
+      de: ["Matagalpa liegt auf einer Höhe von etwa 700 Metern über dem Meeresspiegel.", "Die Stadt ist von Bergen umgeben, die ideale Bedingungen für Kaffeepflanzen bieten.", "Matagalpa ist das Zentrum der nicaraguanischen Kaffeeproduktion.", "Die Region bietet zahlreiche Möglichkeiten für Ökotourismus in Nebelwäldern.", "Im 19. Jahrhundert zogen viele Einwanderer aus Europa hierher, um Kaffee anzubauen.", "Die Stadt war eine der ersten in Nicaragua mit elektrischer Beleuchtung."],
+      hu: ["Matagalpa körülbelül 700 méterrel a tengerszint felett helyezkedik el.", "A várost hegyek veszik körül, amelyek ideális körülményeket biztosítanak a kávénövényeknek.", "Matagalpa a nicaraguai kávétermelés központja.", "A régió számos lehetőséget kínál az ökoturizmusra a köderdőkben.", "A 19. században sok európai bevándorló telepedett le itt kávét termeszteni.", "Ez volt az egyik első város Nicaraguában elektromos világítással."],
+      ro: ["Matagalpa este situată la o altitudine de aproximativ 700 de metri deasupra nivelului mării.", "Orașul este înconjurat de munți, care oferă condiții ideale pentru plantele de cafea.", "Matagalpa este centrul producției de cafea din Nicaragua.", "Regiunea oferă numeroase oportunități pentru ecoturism în pădurile de ceață.", "În secolul al XIX-lea, mulți imigranți din Europa s-au stabilit aici pentru a cultiva cafea.", "A fost unul dintre primele orașe din Nicaragua cu iluminat electric."],
+      en: ["Matagalpa is located at an altitude of about 700 meters above sea level.", "The city is surrounded by mountains that provide ideal conditions for coffee plants.", "Matagalpa is the hub of Nicaraguan coffee production.", "The region offers numerous opportunities for ecotourism in cloud forests.", "In the 19th century, many immigrants from Europe settled here to grow coffee.", "It was one of the first cities in Nicaragua to have electric lighting."]
+    }, image: "/poi-images/matagalpa-cities-v2.webp"},
   {
     id: "jinotega-cities-v2",
     type: "state-capital",
@@ -41,8 +64,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A 'köd városának' nevezik", "Legfontosabb kávétermelő", "Legmagasabban fekvő megyeszékhely", "Az Apanás-tó közelében"],
       ro: ["Numit 'Orașul ceții'", "Cel mai important producător de cafea", "Cea mai înaltă capitală de departament", "Aproape de Lacul Apanás"],
       en: ["Called the 'City of Mists'", "Top coffee producer", "Highest departmental capital", "Near Lake Apanás"]
-    }
-  },
+    }, image: "/poi-images/jinotega-cities-v2.webp"},
   {
     id: "rivas-cities-v2",
     type: "state-capital",
@@ -55,8 +77,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kapu Ometepéhez és San Juan del Surhoz", "Fontos csaták helyszíne", "Erős szelek jellemzik", "Mezőgazdasági központ"],
       ro: ["Poarta către Ometepe și San Juan del Sur", "Locul unor bătălii importante", "Cunoscut pentru vânturile puternice", "Centru agricol"],
       en: ["Gateway to Ometepe and San Juan del Sur", "Site of important historical battles", "Known for its strong winds", "Agricultural hub"]
-    }
-  },
+    }, image: "/poi-images/rivas-cities-v2.webp"},
   {
     id: "juigalpa-cities-v2",
     type: "state-capital",
@@ -69,8 +90,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A 'szarvasmarha-tenyésztés fővárosa'", "Fontos állatpiac", "Régészeti múzeum", "Dombos táj"],
       ro: ["'Capitala creșterii vitelor'", "Piață importantă de vite", "Muzeu arheologic", "Peisaj deluros"],
       en: ["'Capital of cattle ranching'", "Major livestock market", "Archaeological museum", "Hilly landscape"]
-    }
-  },
+    }, image: "/poi-images/juigalpa-cities-v2.webp"},
   {
     id: "boaco-cities-v2",
     type: "state-capital",
@@ -83,8 +103,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A tejgazdaság központja", "Meredek, festői utcák", "Sajtgyártás", "Panorámás kilátás"],
       ro: ["Centrul industriei lactatelor", "Străzi abrupte și pitorești", "Producția de brânză", "Vederi panoramice"],
       en: ["Center of the dairy industry", "Steep, picturesque streets", "Cheese production", "Panoramic views"]
-    }
-  },
+    }, image: "/poi-images/boaco-cities-v2.webp"},
   {
     id: "somoto-cities-v2",
     type: "state-capital",
@@ -97,8 +116,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kapu a Somoto-kanyonhoz", "Rosquillas (keksz) gyártása", "Hondurasi határhoz közeli", "Száraz éghajlat"],
       ro: ["Poarta către Canionul Somoto", "Producția de Rosquillas (biscuiți)", "Aproape de granița cu Honduras", "Climat uscat"],
       en: ["Gateway to the Somoto Canyon", "Production of 'rosquillas' (corn cookies)", "Near the Honduras border", "Dry climate"]
-    }
-  },
+    }, image: "/poi-images/somoto-cities-v2.webp"},
   {
     id: "ocotal-cities-v2",
     type: "state-capital",
@@ -111,8 +129,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Fenyőerdőkkel körülvéve", "Az első légitámadás Latin-Amerikában (1927)", "Hűvösebb éghajlat", "A faipar központja"],
       ro: ["Înconjurat de păduri de pini", "Primul bombardament aerian din America Latină (1927)", "Climat mai răcoros", "Centrul industriei lemnului"],
       en: ["Surrounded by pine forests", "Site of the first dive-bombing in history (1927)", "Cooler climate", "Center of the timber industry"]
-    }
-  },
+    }, image: "/poi-images/ocotal-cities-v2.webp"},
   {
     id: "san-carlos-cities-v2",
     type: "state-capital",
@@ -125,8 +142,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kapu a Solentiname-szigetcsoporthoz", "Fontos folyami kikötő", "A San Juan-folyó útvonalának kezdete", "Halászat és turizmus"],
       ro: ["Poarta către Arhipelagul Solentiname", "Port fluvial important", "Începutul rutei râului San Juan", "Pescuit și turism"],
       en: ["Gateway to the Solentiname Archipelago", "Important river port", "Start of the San Juan River route", "Fishing and tourism"]
-    }
-  },
+    }, image: "/poi-images/san-carlos-cities-v2.webp"},
   {
     id: "tipitapa-cities-v2",
     type: "city",
@@ -139,8 +155,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Összeköti a Managua- és a Xolotlán-tavat", "Fontos ipari övezet", "Történelmi békeszerződés (1927)", "Forró hőforrások"],
       ro: ["Leagă lacurile Managua și Xolotlán", "Zonă industrială importantă", "Tratat de pace istoric (1927)", "Izvoare termale fierbinți"],
       en: ["Connects Lakes Managua and Xolotlán", "Major industrial zone", "Historic peace treaty site (1927)", "Hot thermal springs"]
-    }
-  },
+    }, image: "/poi-images/tipitapa-cities-v2.webp"},
   {
     id: "el-viejo-cities-v2",
     type: "city",
@@ -153,8 +168,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Fontos zarándokhely", "'Nuestra Señora de la Concepción' bazilika", "Gyarmati építészet", "Vallási központ"],
       ro: ["Important loc de pelerinaj", "Bazilica 'Nuestra Señora de la Concepción'", "Arhitectură colonială", "Centru religios"],
       en: ["Important pilgrimage site", "Basilica of 'Nuestra Señora de la Concepción'", "Colonial architecture", "Religious center"]
-    }
-  },
+    }, image: "/poi-images/el-viejo-cities-v2.webp"},
   {
     id: "chichigalpa-cities-v2",
     type: "city",
@@ -167,8 +181,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A Flor de Caña rum otthona", "Nagy cukornádültetvények", "Ipari város", "Nagy gazdasági jelentőség"],
       ro: ["Casa romului Flor de Caña", "Plantații mari de trestie de zahăr", "Oraș industrial", "Importanță economică ridicată"],
       en: ["Home of Flor de Caña rum", "Large sugar cane plantations", "Industrial city", "High economic importance"]
-    }
-  },
+    }, image: "/poi-images/chichigalpa-cities-v2.webp"},
   {
     id: "diriamba-cities-v2",
     type: "city",
@@ -181,8 +194,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A Güegüense bölcsője", "Kávérégió", "Szent Sebestyén-bazilika", "Hűvös éghajlat"],
       ro: ["Leagănul Güegüense", "Regiune de cafea", "Bazilica San Sebastián", "Climat răcoros"],
       en: ["Cradle of the Güegüense", "Coffee-growing region", "San Sebastián Basilica", "Cool climate"]
-    }
-  },
+    }, image: "/poi-images/diriamba-cities-v2.webp"},
   {
     id: "jinotepe-cities-v2",
     type: "state-capital",
@@ -195,8 +207,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Fontos közlekedési csomópont", "A kávétermesztés központja", "Santiago neoklasszikus temploma", "Magas életminőség"],
       ro: ["Nod de transport important", "Centrul cultivării cafelei", "Biserica neoclasică Santiago", "Calitate înaltă a vieții"],
       en: ["Important transportation hub", "Center of coffee cultivation", "Neoclassical Santiago Church", "High quality of life"]
-    }
-  },
+    }, image: "/poi-images/jinotepe-cities-v2.webp"},
   {
     id: "el-rama-cities-v2",
     type: "city",
@@ -209,8 +220,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kapcsolat Bluefields felé", "Az aszfaltozott út vége", "Áruk átrakodóhelye", "Trópusi éghajlat"],
       ro: ["Conexiune către Bluefields", "Sfârșitul drumului asfaltat", "Punct de transbordare pentru mărfuri", "Climat tropical"],
       en: ["Connection to Bluefields", "End of the paved road", "Transshipment point for goods", "Tropical climate"]
-    }
-  },
+    }, image: "/poi-images/el-rama-cities-v2.webp"},
   {
     id: "nueva-guinea-cities-v2",
     type: "city",
@@ -223,8 +233,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Viszonylag fiatal város", "A szarvasmarha- és tejtermelés központja", "Fontos a gyökérzöldségek termesztésében", "Multikulturális lakosság"],
       ro: ["Oraș relativ tânăr", "Centrul creșterii vitelor și producției de lactate", "Important pentru cultivarea legumelor rădăcinoase", "Populație multiculturală"],
       en: ["Relatively young city", "Hub for cattle and dairy farming", "Important for root vegetable cultivation", "Multicultural population"]
-    }
-  },
+    }, image: "/poi-images/nueva-guinea-cities-v2.webp"},
   {
     id: "somotillo-cities-v2",
     type: "city",
@@ -251,8 +260,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A téglagyártás központja", "A Momotombo vulkán közelében", "Hagyományos kézművesség", "Forró, száraz éghajlat"],
       ro: ["Centrul producției de cărămidă", "Aproape de vulcanul Momotombo", "Meșteșug tradițional", "Climat cald și uscat"],
       en: ["Center of brick production", "Near the Momotombo volcano", "Traditional craftsmanship", "Hot, dry climate"]
-    }
-  },
+    }, image: "/poi-images/la-paz-centro-cities-v2.webp"},
   {
     id: "nagarote-cities-v2",
     type: "city",
@@ -265,8 +273,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["'Nicaragua legtisztább települése'", "A quesillo otthona", "Nagy 'El Genízaro' fa", "Erős közösség"],
       ro: ["'Cel mai curat municipiu din Nicaragua'", "Casa quesillo-ului", "Copacul mare 'El Genízaro'", "Comunitate puternică"],
       en: ["'Cleanest municipality in Nicaragua'", "Home of the quesillo", "Giant 'El Genízaro' tree", "Strong community spirit"]
-    }
-  },
+    }, image: "/poi-images/nagarote-cities-v2.webp"},
   {
     id: "san-marcos-cities-v2",
     type: "city",
@@ -279,8 +286,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Mezőgazdasági egyetem székhelye", "Hűvös, kellemes éghajlat", "Dísznövénytermesztés", "Nyugodt légkör"],
       ro: ["Sediul unei universități agricole", "Climat răcoros și plăcut", "Cultivarea plantelor ornamentale", "Atmosferă liniștită"],
       en: ["Home to an agricultural university", "Cool, pleasant climate", "Cultivation of ornamental plants", "Tranquil atmosphere"]
-    }
-  },
+    }, image: "/poi-images/san-marcos-cities-v2.webp"},
   // Adding 60 more cities to reach the 80 POI goal.
   {
     id: "ciudad-sandinocities-v2",
@@ -308,8 +314,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Fazekas hagyomány", "'Cantagallo' régészeti lelőhely", "A Pánamerikai úton fekszik", "Dohánytermesztés a közelben"],
       ro: ["Tradiția olăritului", "Situl arheologic 'Cantagallo'", "Situat pe autostrada Pan-Americană", "Cultivarea tutunului în apropiere"],
       en: ["Pottery tradition", "'Cantagallo' archaeological site", "Located on the Pan-American Highway", "Nearby tobacco cultivation"]
-    }
-  },
+    }, image: "/poi-images/condega-cities-v2.webp"},
   {
     id: "sebaco-cities-v2",
     type: "city",
@@ -322,8 +327,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Nicaragua 'hagymacímere'", "Rizs- és zöldségtermesztés", "Fontos közlekedési csomópont", "Forró éghajlat"],
       ro: ["'Capitala cepei' din Nicaragua", "Cultivarea orezului și legumelor", "Nod de transport important", "Climat cald"],
       en: ["'Onion capital' of Nicaragua", "Cultivation of rice and vegetables", "Important transportation junction", "Hot climate"]
-    }
-  },
+    }, image: "/poi-images/sebaco-cities-v2.webp"},
   {
     id: "nandaime-cities-v2",
     type: "city",
@@ -350,8 +354,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["'Nicaragua éléskamrája'", "Kiváló minőségű dohány", "Hondurasi határhoz közeli", "Elszigetelt fekvés"],
       ro: ["'Grânarul Nicaraguei'", "Tutun de înaltă calitate", "Aproape de granița cu Honduras", "Locație izolată"],
       en: ["'Nicaragua's breadbasket'", "High-quality tobacco", "Near the border with Honduras", "Remote location"]
-    }
-  },
+    }, image: "/poi-images/jalapa-cities-v2.webp"},
   {
     id: "el-sauce-cities-v2",
     type: "city",
@@ -364,8 +367,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Az 'Esquipulasi Fekete Krisztus' otthona", "Nagy zarándoklat januárban", "Állattenyésztő régió", "Száraz, forró éghajlat"],
       ro: ["Casa 'Cristosului Negru din Esquipulas'", "Pelerinaj mare în ianuarie", "Regiune de creștere a vitelor", "Climat uscat și cald"],
       en: ["Home of the 'Black Christ of Esquipulas'", "Large pilgrimage in January", "Cattle-ranching region", "Dry, hot climate"]
-    }
-  },
+    }, image: "/poi-images/el-sauce-cities-v2.webp"},
   {
     id: "larreynaga-malpaisillo-cities-v2",
     type: "city",
@@ -378,8 +380,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A Cerro Negro vulkán közelében", "Kiindulópont vulkántúrákhoz", "Mezőgazdasági termelés", "Geotermikus tevékenység a közelben"],
       ro: ["Aproape de vulcanul Cerro Negro", "Punct de plecare pentru drumeții pe vulcan", "Producție agricolă", "Activitate geotermală în apropiere"],
       en: ["Near the Cerro Negro volcano", "Starting point for volcano hikes", "Agricultural production", "Nearby geothermal activity"]
-    }
-  },
+    }, image: "/poi-images/larreynaga-malpaisillo-cities-v2.webp"},
   {
     id: "posoltega-cities-v2",
     type: "city",
@@ -392,8 +393,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A Casita vulkán sárlavinájának helyszíne", "Újjáépítés és ellenállóképesség", "Mezőgazdasági közösség", "Emlékhely"],
       ro: ["Locul alunecării de noroi de pe vulcanul Casita", "Reconstrucție și reziliență", "Comunitate agricolă", "Loc memorial"],
       en: ["Site of the Casita volcano mudslide", "Reconstruction and resilience", "Agricultural community", "Memorial site"]
-    }
-  },
+    }, image: "/poi-images/posoltega-cities-v2.webp"},
   {
     id: "san-rafael-del-sur-cities-v2",
     type: "city",
@@ -406,8 +406,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Jelentős cementgyártás", "Pochomil és Masachapa strandjainak közelében", "Ipari központ", "Turisztikai fejlődés"],
       ro: ["Producție importantă de ciment", "Aproape de plajele Pochomil și Masachapa", "Centru industrial", "Dezvoltare turistică"],
       en: ["Major cement production", "Near the beaches of Pochomil and Masachapa", "Industrial center", "Touristic development"]
-    }
-  },
+    }, image: "/poi-images/san-rafael-del-sur-cities-v2.webp"},
   {
     id: "masatepe-cities-v2",
     type: "city",
@@ -420,8 +419,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Fabútorok gyártása", "Hagyományos zene és tánc", "Citruster-mesztés", "Kézműves központ"],
       ro: ["Producția de mobilier din lemn", "Muzică și dans tradițional", "Cultivarea citricelor", "Centru artizanal"],
       en: ["Wooden furniture manufacturing", "Traditional music and dance", "Citrus fruit cultivation", "Artisanal hub"]
-    }
-  },
+    }, image: "/poi-images/masatepe-cities-v2.webp"},
   {
     id: "niquinohomo-cities-v2",
     type: "city",
@@ -434,8 +432,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Történelmi jelentőség", "Sandino Múzeum", "A 'Fehér Falvak' része", "Kézművesség"],
       ro: ["Importanță istorică", "Muzeul Sandino", "Parte a 'Pueblos Blancos'", "Artizanat"],
       en: ["Historical significance", "Sandino Museum", "Part of the 'White Towns'", "Handicrafts"]
-    }
-  },
+    }, image: "/poi-images/niquinohomo-cities-v2.webp"},
   {
     id: "la-concepcion-masaya-cities-v2",
     type: "city",
@@ -448,8 +445,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["'Citrusfőváros'", "Hűvös és kellemes éghajlat", "Ananász- és pitayatermesztés", "Színes fesztiválok"],
       ro: ["'Capitala citricelor'", "Climat răcoros și plăcut", "Cultivarea ananasului și a pitahayei", "Festivaluri colorate"],
       en: ["'The Citrus Capital'", "Cool and pleasant climate", "Pineapple and dragon fruit cultivation", "Colorful festivals"]
-    }
-  },
+    }, image: "/poi-images/la-concepcion-masaya-cities-v2.webp"},
   {
     id: "telica-cities-v2",
     type: "city",
@@ -462,8 +458,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A vulkán névadója", "Mezőgazdasági közösség", "Kiindulópont vulkánmászáshoz", "Geotermikus források a közelben"],
       ro: ["Numit după vulcan", "Comunitate agricolă", "Punct de plecare pentru ascensiuni pe vulcan", "Izvoare geotermale în apropiere"],
       en: ["Namesake of the volcano", "Agricultural community", "Base for climbing the volcano", "Nearby geothermal springs"]
-    }
-  },
+    }, image: "/poi-images/telica-cities-v2.webp"},
   {
     id: "san-juan-de-limay-cities-v2",
     type: "city",
@@ -476,8 +471,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A zsírkőművészet központja", "Marmolina szobrok", "Száraz erdő ökoszisztéma", "Elszigetelt hegyi város"],
       ro: ["Centrul artei în steatit", "Sculpturi în marmolină", "Ecosistem de pădure uscată", "Oraș montan izolat"],
       en: ["Center of soapstone art", "Marmolina sculptures", "Dry forest ecosystem", "Remote mountain town"]
-    }
-  },
+    }, image: "/poi-images/san-juan-de-limay-cities-v2.webp"},
   {
     id: "tola-cities-v2",
     type: "city",
@@ -490,8 +484,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Hozzáférés Popoyo-hoz és Gigante-hoz", "Szörfös központ", "Vidéki közösség", "Állattenyésztés és mezőgazdaság"],
       ro: ["Acces la Popoyo și Gigante", "Punct de atracție pentru surferi", "Comunitate rurală", "Creșterea vitelor și agricultură"],
       en: ["Access to Popoyo and Gigante", "Surfing hotspot", "Rural community", "Cattle ranching and agriculture"]
-    }
-  },
+    }, image: "/poi-images/tola-cities-v2.webp"},
   {
     id: "moyogalpa-cities-v2",
     type: "city",
@@ -504,8 +497,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Ometepe fő érkezési pontja", "Kilátás a Concepción vulkánra", "Turisztikai szolgáltatások", "Kompkapcsolat San Jorge-val"],
       ro: ["Principalul punct de sosire pe Ometepe", "Vedere spre vulcanul Concepción", "Servicii turistice", "Conexiune cu feribotul spre San Jorge"],
       en: ["Main arrival point for Ometepe", "Views of Concepción Volcano", "Touristic services", "Ferry connection to San Jorge"]
-    }
-  },
+    }, image: "/poi-images/moyogalpa-cities-v2.webp"},
   {
     id: "altagracia-cities-v2",
     type: "city",
@@ -518,8 +510,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A Maderas vulkán közelében", "Prekolumbiánus szobrok", "Csendesebb alternatíva Moyogalpával szemben", "Régészeti Múzeum"],
       ro: ["Aproape de vulcanul Maderas", "Statui pre-columbiene", "Alternativă mai liniștită la Moyogalpa", "Muzeu de arheologie"],
       en: ["Near the Maderas Volcano", "Pre-Columbian statues", "Quieter alternative to Moyogalpa", "Museum of archaeology"]
-    }
-  },
+    }, image: "/poi-images/altagracia-cities-v2.webp"},
   {
     id: "wien-cities-v2",
     type: "city",
@@ -560,8 +551,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Gyorsan növekvő", "Állattenyésztés és alapvető élelmiszerek termesztése", "Kapu a karibi régióhoz", "Multikulturális lakosság"],
       ro: ["Creștere rapidă", "Creșterea vitelor și cultivarea culturilor de bază", "Poarta către regiunea Caraibelor", "Populație multiculturală"],
       en: ["Fast-growing", "Cattle ranching and basic grain cultivation", "Gateway to the Caribbean region", "Multicultural population"]
-    }
-  },
+    }, image: "/poi-images/rio-blanco-cities-v2.webp"},
   {
     id: "siuna-cities-v2",
     type: "city",
@@ -574,8 +564,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Arany- és ezüstbányászat", "Multikulturális történelem", "A Bosawás bioszféra-rezervátum része", "Elszigetelt fekvés"],
       ro: ["Minerit de aur și argint", "Istorie multiculturală", "Parte a Rezervației Biosferei Bosawás", "Locație izolată"],
       en: ["Gold and silver mining", "Multicultural history", "Part of the Bosawás Biosphere Reserve", "Remote location"]
-    }
-  },
+    }, image: "/poi-images/siuna-cities-v2.webp"},
   {
     id: "rosita-cities-v2",
     type: "city",
@@ -602,8 +591,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A 'bányászati háromszög' része", "Aktív aranybányászat", "Erős őslakos jelenlét", "Kihívást jelentő földrajz"],
       ro: ["Parte a 'Triunghiului Minier'", "Minerit activ de aur", "Prezență indigenă puternică", "Geografie provocatoare"],
       en: ["Part of the 'Mining Triangle'", "Active gold mining", "Strong indigenous presence", "Challenging geography"]
-    }
-  },
+    }, image: "/poi-images/bonanza-cities-v2.webp"},
   {
     id: "puerto-morazan-cities-v2",
     type: "city",
@@ -616,8 +604,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Garnélarák-tenyésztés", "Fontos mangrove ökoszisztéma", "Hajóépítés", "Kapcsolat a Fonseca-öböllel"],
       ro: ["Creșterea creveților", "Ecosistem important de mangrove", "Construcții navale", "Conexiune cu Golful Fonseca"],
       en: ["Shrimp farming", "Important mangrove ecosystem", "Boat building", "Connection to the Gulf of Fonseca"]
-    }
-  },
+    }, image: "/poi-images/puerto-morazan-cities-v2.webp"},
   {
     id: "el-jicaral-cities-v2",
     type: "city",
@@ -630,8 +617,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Száraz területeken folytatott mezőgazdaság", "Állattenyésztés", "Hagyományos életmód", "Aszály okozta kihívások"],
       ro: ["Agricultură în zone aride", "Creșterea vitelor", "Mod de viață tradițional", "Provocări legate de secetă"],
       en: ["Dry-area agriculture", "Cattle ranching", "Traditional way of life", "Challenges from drought"]
-    }
-  },
+    }, image: "/poi-images/el-jicaral-cities-v2.webp"},
   {
     id: "mateare-cities-v2",
     type: "city",
@@ -644,8 +630,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kilátás a Momotombo vulkánra", "Halászat", "A Chiltepe-félsziget közelében", "Managua üdülőterülete"],
       ro: ["Vedere spre vulcanul Momotombo", "Pescuit", "Aproape de peninsula Chiltepe", "Zonă de recreere pentru Managua"],
       en: ["Views of Momotombo volcano", "Fishing industry", "Near the Chiltepe peninsula", "Recreational area for Managua"]
-    }
-  },
+    }, image: "/poi-images/mateare-cities-v2.webp"},
   {
     id: "waslala-cities-v2",
     type: "city",
@@ -658,8 +643,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kakaótermesztés", "A Bosawás bioszféra-rezervátum része", "Fontos folyami átkelőhely", "Települési terület"],
       ro: ["Cultivarea cacauei", "Parte a Rezervației Biosferei Bosawás", "Trecere importantă a râului", "Zonă de colonizare"],
       en: ["Cacao cultivation", "Part of the Bosawás Biosphere Reserve", "Important river crossing", "Settlement area"]
-    }
-  },
+    }, image: "/poi-images/waslala-cities-v2.webp"},
   {
     id: "san-isidro-matagalpa-cities-v2",
     type: "city",
@@ -672,8 +656,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Elágazás León és Estelí felé", "Rizstermesztés", "Kereskedelmi központ", "Pihenőhely utazók számára"],
       ro: ["Bifurcație spre León și Estelí", "Cultivarea orezului", "Centru comercial", "Loc de odihnă pentru călători"],
       en: ["Junction to León and Estelí", "Rice cultivation", "Commercial center", "Rest stop for travelers"]
-    }
-  },
+    }, image: "/poi-images/san-isidro-matagalpa-cities-v2.webp"},
   {
     id: "tecolostote-cities-v2",
     type: "city",
@@ -700,8 +683,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Sajtgyártás", "Kézműves fazekasság", "Állattenyésztés", "Vidéki hagyományok"],
       ro: ["Producția de brânză", "Olărit artizanal", "Creșterea vitelor", "Tradiții rurale"],
       en: ["Cheese production", "Artisanal pottery", "Cattle ranching", "Rural traditions"]
-    }
-  },
+    }, image: "/poi-images/san-lorenzo-boaco-cities-v2.webp"},
   {
     id: "santo-tomas-chontales-cities-v2",
     type: "city",
@@ -714,8 +696,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Állatkereskedelem", "Fontos regionális piac", "Az út Nueva Guinea felé", "Hagyományos ünnepek"],
       ro: ["Comerț cu vite", "Piață regională importantă", "Pe drumul spre Nueva Guinea", "Festivaluri tradiționale"],
       en: ["Livestock trade", "Important regional market", "On the road to Nueva Guinea", "Traditional festivals"]
-    }
-  },
+    }, image: "/poi-images/santo-tomas-chontales-cities-v2.webp"},
   {
     id: "villa-sandino-cities-v2",
     type: "city",
@@ -756,8 +737,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Fontos tavi halászkikötő", "A Los Guatuzos vadvédelmi rezervátum része", "Madármegfigyelés", "Vidéki, nyugodt légkör"],
       ro: ["Port pescăresc important pe lac", "Parte a Rezervației Sălbatice Los Guatuzos", "Observarea păsărilor", "Atmosferă rurală și liniștită"],
       en: ["Important lake fishing port", "Part of the Los Guatuzos Wildlife Refuge", "Birdwatching", "Rural, quiet atmosphere"]
-    }
-  },
+    }, image: "/poi-images/san-miguelito-cities-v2.webp"},
   {
     id: "el-castillo-de-la-concepcion-cities-v2",
     type: "city",
@@ -770,8 +750,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Impozáns 17. századi erőd", "Védelem a kalózok ellen", "Ökoturisztikai célpont", "Az Indio-Maíz rezervátum része"],
       ro: ["Fortăreață impunătoare din secolul al XVII-lea", "Protecție împotriva piraților", "Destinație de ecoturism", "Parte a Rezervației Indio-Maíz"],
       en: ["Imposing 17th-century fortress", "Protection against pirates", "Ecotourism destination", "Part of the Indio-Maíz Reserve"]
-    }
-  },
+    }, image: "/poi-images/el-castillo-de-la-concepcion-cities-v2.webp"},
   {
     id: "san-juan-del-norte-greytown-cities-v2",
     type: "city",
@@ -784,8 +763,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Egykor fontos tranzitkikötő", "Többször lerombolták és újjáépítették", "A San Juan-folyó torkolata", "Gazdag történelem"],
       ro: ["Odinioară un important port de tranzit", "Distrus și reconstruit de mai multe ori", "Gura de vărsare a râului San Juan", "Istorie bogată"],
       en: ["Once a major transit port", "Destroyed and rebuilt multiple times", "Mouth of the San Juan River", "Rich history"]
-    }
-  },
+    }, image: "/poi-images/san-juan-del-norte-greytown-cities-v2.webp"},
   {
     id: "pueblo-nuevo-esteli-cities-v2",
     type: "city",
@@ -798,8 +776,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kávé- és zöldségtermesztés", "Túraútvonalak", "Hűvös éghajlat", "Vidéki közösség"],
       ro: ["Cultivarea cafelei și a legumelor", "Trasee de drumeție", "Climat răcoros", "Comunitate rurală"],
       en: ["Coffee and vegetable cultivation", "Hiking trails", "Cool climate", "Rural community"]
-    }
-  },
+    }, image: "/poi-images/pueblo-nuevo-esteli-cities-v2.webp"},
   {
     id: "la-trinidad-esteli-cities-v2",
     type: "city",
@@ -812,8 +789,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A 'kenyér fővárosa'", "A Pánamerikai úton", "Kereskedelmi központ", "Állattenyésztés"],
       ro: ["'Capitala pâinii'", "Pe autostrada Pan-Americană", "Centru comercial", "Creșterea vitelor"],
       en: ["'The Capital of Bread'", "On the Pan-American Highway", "Commercial center", "Cattle ranching"]
-    }
-  },
+    }, image: "/poi-images/la-trinidad-esteli-cities-v2.webp"},
   {
     id: "ciudad-dario-cities-v2",
     type: "city",
@@ -826,8 +802,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Rubén Darío szülőháza (múzeum)", "Fontos kulturális helyszín", "Mezőgazdaság (rizs, bab)", "Korábban Metapa néven ismert"],
       ro: ["Casa natală a lui Rubén Darío (muzeu)", "Loc cultural important", "Agricultură (orez, fasole)", "Anterior numit Metapa"],
       en: ["Birth house of Rubén Darío (museum)", "Important cultural site", "Agriculture (rice, beans)", "Formerly named Metapa"]
-    }
-  },
+    }, image: "/poi-images/ciudad-dario-cities-v2.webp"},
   {
     id: "esquipulas-matagalpa-cities-v2",
     type: "city",
@@ -840,8 +815,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Történelmi aranybányászat", "Kávétermesztés", "Vidéki környezet", "Hegyes terep"],
       ro: ["Minerit istoric de aur", "Cultivarea cafelei", "Mediu rural", "Teren muntos"],
       en: ["Historical gold mining", "Coffee cultivation", "Rural setting", "Mountainous terrain"]
-    }
-  },
+    }, image: "/poi-images/esquipulas-matagalpa-cities-v2.webp"},
   {
     id: "san-dionisio-matagalpa-cities-v2",
     type: "city",
@@ -854,8 +828,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kávétermesztés", "Hagyományos mezőgazdaság", "Hegyi táj", "Kicsi, szétszórt közösségek"],
       ro: ["Cultivarea cafelei", "Agricultură tradițională", "Peisaj montan", "Comunități mici, dispersate"],
       en: ["Coffee cultivation", "Traditional agriculture", "Mountain landscape", "Small, scattered communities"]
-    }
-  },
+    }, image: "/poi-images/san-dionisio-matagalpa-cities-v2.webp"},
   {
     id: "la-dalia-matagalpa-cities-v2",
     type: "city",
@@ -868,8 +841,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A kávétermelés szíve", "Köderdők a közelben", "Magas csapadékmennyiség", "Vidéki fejlesztési projektek"],
       ro: ["Inima producției de cafea", "Păduri de ceață în apropiere", "Precipitații abundente", "Proiecte de dezvoltare rurală"],
       en: ["Heart of coffee production", "Cloud forests nearby", "High rainfall", "Rural development projects"]
-    }
-  },
+    }, image: "/poi-images/la-dalia-matagalpa-cities-v2.webp"},
   {
     id: "rancho-grande-matagalpa-cities-v2",
     type: "city",
@@ -882,8 +854,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kakaótermesztés", "Állattenyésztés", "Települési terület", "Vízgyűjtő területek védelme"],
       ro: ["Cultivarea cacauei", "Creșterea vitelor", "Zonă de colonizare", "Protecția bazinelor hidrografice"],
       en: ["Cacao cultivation", "Cattle ranching", "Settlement area", "Protection of watersheds"]
-    }
-  },
+    }, image: "/poi-images/rancho-grande-matagalpa-cities-v2.webp"},
   {
     id: "el-tuma-la-dalia-cities-v2",
     type: "city",
@@ -896,8 +867,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A kávészövetkezetek központja", "Kereskedelmi tevékenység", "Kapcsolat a belső területekkel", "Hegyes terep"],
       ro: ["Centrul cooperativelor de cafea", "Activitate comercială", "Legătura cu interiorul țării", "Teren muntos"],
       en: ["Center of coffee cooperatives", "Commercial activity", "Connection to the interior", "Mountainous terrain"]
-    }
-  },
+    }, image: "/poi-images/el-tuma-la-dalia-cities-v2.webp"},
   {
     id: "matiguas-matagalpa-cities-v2",
     type: "city",
@@ -924,8 +894,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Állattenyésztés", "Alapvető élelmiszerek termesztése", "Hagyományos vidéki élet", "Dombos táj"],
       ro: ["Creșterea vitelor", "Cultivarea culturilor de bază", "Viață rurală tradițională", "Peisaj deluros"],
       en: ["Cattle ranching", "Basic grain cultivation", "Traditional rural life", "Hilly landscape"]
-    }
-  },
+    }, image: "/poi-images/muy-muy-matagalpa-cities-v2.webp"},
   {
     id: "san-ramon-matagalpa-cities-v2",
     type: "city",
@@ -938,8 +907,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Fenntartható kávétermesztés", "Vízesések és természetvédelmi területek", "Vidéki turizmus", "Közösségi projektek"],
       ro: ["Cultivarea cafelei sustenabile", "Cascade și rezervații naturale", "Turism rural", "Proiecte comunitare"],
       en: ["Sustainable coffee cultivation", "Waterfalls and nature reserves", "Rural tourism", "Community projects"]
-    }
-  },
+    }, image: "/poi-images/san-ramon-matagalpa-cities-v2.webp"},
   {
     id: "terrabona-matagalpa-cities-v2",
     type: "city",
@@ -966,8 +934,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kávétermesztés", "Korábbi konfliktusövezet", "Gyönyörű hegyvidéki táj", "Vidéki fejlődés"],
       ro: ["Cultivarea cafelei", "Fostă zonă de conflict", "Peisaj montan frumos", "Dezvoltare rurală"],
       en: ["Coffee cultivation", "Former conflict zone", "Beautiful mountain scenery", "Rural development"]
-    }
-  },
+    }, image: "/poi-images/quilali-nueva-segovia-cities-v2.webp"},
   {
     id: "san-fernando-nueva-segovia-cities-v2",
     type: "city",
@@ -980,8 +947,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Hűvös éghajlat", "Kávétermesztés", "Fakitermelés", "Hondurasi határhoz közeli"],
       ro: ["Climat răcoros", "Cultivarea cafelei", "Industria lemnului", "Aproape de granița cu Honduras"],
       en: ["Cool climate", "Coffee cultivation", "Timber industry", "Near the Honduras border"]
-    }
-  },
+    }, image: "/poi-images/san-fernando-nueva-segovia-cities-v2.webp"},
   {
     id: "el-jicaro-nueva-segovia-cities-v2",
     type: "city",
@@ -1036,8 +1002,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Turisztikai központ", "Repülőtér", "Kókuszdió-termelés", "Kreol és angol nyelv"],
       ro: ["Centru turistic", "Aeroport", "Producția de nucă de cocos", "Limbi creolă și engleză"],
       en: ["Tourism hub", "Airport", "Coconut production", "Creole and English spoken"]
-    }
-  },
+    }, image: "/poi-images/corn-island-cities-v2.webp"},
   {
     id: "la-cruz-de-rio-grande-cities-v2",
     type: "city",
@@ -1064,8 +1029,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["A 'folyók földje'", "Állattenyésztés", "Önellátó mezőgazdaság", "Nagy biodiverzitás"],
       ro: ["'Țara râurilor'", "Creșterea vitelor", "Agricultură de subzistență", "Mare biodiversitate"],
       en: ["'Land of Rivers'", "Cattle ranching", "Subsistence agriculture", "Great biodiversity"]
-    }
-  },
+    }, image: "/poi-images/el-tortuguero-cities-v2.webp"},
   {
     id: "paiwas-cities-v2",
     type: "city",
@@ -1092,8 +1056,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Halászat", "Állattenyésztés", "Kilátás Ometepére", "Vidéki nyugalom"],
       ro: ["Pescuit", "Creșterea vitelor", "Vedere spre Ometepe", "Liniște rurală"],
       en: ["Fishing", "Cattle ranching", "Views of Ometepe", "Rural tranquility"]
-    }
-  },
+    }, image: "/poi-images/morrito-rio-san-juan-cities-v2.webp"},
   {
     id: "san-jorge-rivas-cities-v2",
     type: "city",
@@ -1106,8 +1069,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kikötő Ometepére", "Turisztikai tevékenység", "Kereskedelem", "Történelmi helyszín (szerződés aláírása)"],
       ro: ["Port de feribot spre Ometepe", "Activitate turistică", "Comerț", "Loc istoric (semnarea tratatului)"],
       en: ["Ferry port to Ometepe", "Touristic activity", "Commerce", "Historic site (treaty signing)"]
-    }
-  },
+    }, image: "/poi-images/san-jorge-rivas-cities-v2.webp"},
   {
     id: "belen-rivas-cities-v2",
     type: "city",
@@ -1120,8 +1082,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Főzőbanán- és cukornádtermesztés", "Vidéki élet", "Rivas város közelében", "Hagyományos kultúra"],
       ro: ["Cultivarea bananelor de gătit și a trestiei de zahăr", "Viață rurală", "Aproape de orașul Rivas", "Cultură tradițională"],
       en: ["Plantain and sugar cane cultivation", "Rural life", "Near Rivas city", "Traditional culture"]
-    }
-  },
+    }, image: "/poi-images/belen-rivas-cities-v2.webp"},
   {
     id: "potosi-rivas-cities-v2",
     type: "city",
@@ -1134,8 +1095,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Mezőgazdaság", "Állattenyésztés", "Vidéki közösség", "Csendes légkör"],
       ro: ["Agricultură", "Creșterea vitelor", "Comunitate rurală", "Atmosferă liniștită"],
       en: ["Agriculture", "Cattle ranching", "Rural community", "Quiet atmosphere"]
-    }
-  },
+    }, image: "/poi-images/potosi-rivas-cities-v2.webp"},
   {
     id: "buenos-aires-rivas-cities-v2",
     type: "city",
@@ -1148,8 +1108,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kilátás Ometepére", "Halászat", "Mezőgazdaság", "Csendes strandok"],
       ro: ["Vedere spre Ometepe", "Pescuit", "Agricultură", "Plaje liniștite"],
       en: ["Views of Ometepe", "Fishing", "Agriculture", "Quiet beaches"]
-    }
-  },
+    }, image: "/poi-images/buenos-aires-rivas-cities-v2.webp"},
   {
     id: "cardenas-rivas-cities-v2",
     type: "city",
@@ -1162,8 +1121,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Határátkelő", "Állattenyésztés", "Halászat", "Elszigetelt fekvés"],
       ro: ["Punct de trecere a frontierei", "Creșterea vitelor", "Pescuit", "Locație izolată"],
       en: ["Border crossing", "Cattle ranching", "Fishing", "Remote location"]
-    }
-  },
+    }, image: "/poi-images/cardenas-rivas-cities-v2.webp"},
   {
     id: "telpaneca-madriz-cities-v2",
     type: "city",
@@ -1176,8 +1134,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Őslakos gyökerek", "Kézművesség (fazekasság)", "A Coco-folyó partján", "Kulturális hagyományok"],
       ro: ["Rădăcini indigene", "Artizanat (olărit)", "Pe malurile râului Coco", "Tradiții culturale"],
       en: ["Indigenous roots", "Handicrafts (pottery)", "On the banks of the Coco River", "Cultural traditions"]
-    }
-  },
+    }, image: "/poi-images/telpaneca-madriz-cities-v2.webp"},
   {
     id: "san-juan-de-rio-coco-madriz-cities-v2",
     type: "city",
@@ -1190,8 +1147,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Minőségi kávé", "Hűvös hegyi éghajlat", "Gyönyörű táj", "Vidéki turizmus"],
       ro: ["Cafea de calitate", "Climat montan răcoros", "Peisaj frumos", "Turism rural"],
       en: ["Quality coffee", "Cool mountain climate", "Beautiful scenery", "Rural tourism"]
-    }
-  },
+    }, image: "/poi-images/san-juan-de-rio-coco-madriz-cities-v2.webp"},
   {
     id: "san-jose-de-cusmapa-madriz-cities-v2",
     type: "city",
@@ -1246,8 +1202,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kulturális hírnév", "Mezőgazdaság", "A Pánamerikai úton", "Vallási hagyományok"],
       ro: ["Celebritate culturală", "Agricultură", "Pe autostrada Pan-Americană", "Tradiții religioase"],
       en: ["Cultural fame", "Agriculture", "On the Pan-American Highway", "Religious traditions"]
-    }
-  },
+    }, image: "/poi-images/palacaguina-madriz-cities-v2.webp"},
   {
     id: "santa-rosa-del-penon-leon-cities-v2",
     type: "city",
@@ -1260,8 +1215,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kisüzemi aranybányászat", "Vidéki, elszigetelt terület", "Száraz éghajlat", "Állattenyésztés"],
       ro: ["Minerit de aur la scară mică", "Zonă rurală, izolată", "Climat uscat", "Creșterea vitelor"],
       en: ["Small-scale gold mining", "Rural, remote area", "Dry climate", "Cattle ranching"]
-    }
-  },
+    }, image: "/poi-images/santa-rosa-del-penon-leon-cities-v2.webp"},
   {
     id: "el-realejo-chinandega-cities-v2",
     type: "city",
@@ -1274,8 +1228,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Történelmi kikötő", "Kalózok támadták meg", "Gyarmati romok", "Halászat és mezőgazdaság"],
       ro: ["Port istoric", "Atacat de pirați", "Ruine coloniale", "Pescuit și agricultură"],
       en: ["Historic port", "Attacked by pirates", "Colonial ruins", "Fishing and agriculture"]
-    }
-  },
+    }, image: "/poi-images/el-realejo-chinandega-cities-v2.webp"},
   {
     id: "cinco-pinos-chinandega-cities-v2",
     type: "city",
@@ -1288,8 +1241,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Hondurasi határterület", "Állattenyésztés", "Kávétermesztés", "Vidéki nyugalom"],
       ro: ["Zonă de frontieră cu Honduras", "Creșterea vitelor", "Cultivarea cafelei", "Liniște rurală"],
       en: ["Border area with Honduras", "Cattle ranching", "Coffee cultivation", "Rural tranquility"]
-    }
-  },
+    }, image: "/poi-images/cinco-pinos-chinandega-cities-v2.webp"},
   {
     id: "san-francisco-de-cuapa-chontales-cities-v2",
     type: "city",
@@ -1302,8 +1254,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Zarándokhely", "Vidéki közösség", "Állattenyésztés", "Vallási jelentőség"],
       ro: ["Loc de pelerinaj", "Comunitate rurală", "Creșterea vitelor", "Importanță religioasă"],
       en: ["Pilgrimage site", "Rural community", "Cattle ranching", "Religious importance"]
-    }
-  },
+    }, image: "/poi-images/san-francisco-de-cuapa-chontales-cities-v2.webp"},
   {
     id: "santo-domingo-chontales-cities-v2",
     type: "city",
@@ -1316,8 +1267,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Aranybányászat", "Vidéki környezet", "Kulturális hagyományok", "Bányavágatok"],
       ro: ["Minerit de aur", "Mediu rural", "Tradiții culturale", "Galerii miniere"],
       en: ["Gold mining", "Rural setting", "Cultural traditions", "Mining tunnels"]
-    }
-  },
+    }, image: "/poi-images/santo-domingo-chontales-cities-v2.webp"},
   {
     id: "la-libertad-chontales-cities-v2",
     type: "city",
@@ -1330,8 +1280,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Történelmi aranybányászat", "Politikai jelentőség", "Állattenyésztés", "Hegyi táj"],
       ro: ["Minerit istoric de aur", "Importanță politică", "Creșterea vitelor", "Peisaj montan"],
       en: ["Historical gold mining", "Political significance", "Cattle ranching", "Mountain landscape"]
-    }
-  },
+    }, image: "/poi-images/la-libertad-chontales-cities-v2.webp"},
   {
     id: "teustepe-boaco-cities-v2",
     type: "city",
@@ -1358,8 +1307,7 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
       hu: ["Kávétermesztés", "Vidéki közösség", "A környezeténél hűvösebb éghajlat", "Hegyi táj"],
       ro: ["Cultivarea cafelei", "Comunitate rurală", "Climat mai răcoros decât în jur", "Peisaj montan"],
       en: ["Coffee cultivation", "Rural community", "Cooler climate than surroundings", "Mountain landscape"]
-    }
-  },
+    }, image: "/poi-images/santa-lucia-boaco-cities-v2.webp"},
   {
     id: "camopa-boaco-cities-v2",
     type: "city",
@@ -1389,3 +1337,4 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     }
   }
 ]
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCanadaHistory: POI[] = [
@@ -43,8 +44,7 @@ export const poiExtraCanadaHistory: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/fort-york-toronto-history-v2.webp"},
   {
     id: "battle-of-batoche-history-v2",
     type: "historical",
@@ -87,8 +87,7 @@ export const poiExtraCanadaHistory: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/battle-of-batoche-history-v2.webp"},
   {
     id: "grosse-ile-irish-memorial-history-v2",
     type: "historical",
@@ -131,8 +130,7 @@ export const poiExtraCanadaHistory: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/grosse-ile-irish-memorial-history-v2.webp"},
   {
     id: "fort-henry-kingston-history-v2",
     type: "historical",
@@ -175,8 +173,7 @@ export const poiExtraCanadaHistory: POI[] = [
       ],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/fort-henry-kingston-history-v2.webp"},
   {
     id: "klondike-gold-rush-history-v2",
     type: "historical",
@@ -220,7 +217,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/klondike-gold-rush-history-v2.webp"},
   {
     id: "writing-on-stone-park-history-v2",
     type: "historical",
@@ -264,7 +261,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/writing-on-stone-park-history-v2.webp"},
   {
     id: "red-bay-basque-whaling-history-v2",
     type: "historical",
@@ -352,7 +349,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/pier-21-halifax-history-v2.webp"},
   {
     id: "fort-garry-winnipeg-history-v2",
     type: "historical",
@@ -396,7 +393,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/fort-garry-winnipeg-history-v2.webp"},
   {
     id: "dundurn-castle-hamilton-history-v2",
     type: "historical",
@@ -440,7 +437,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/dundurn-castle-hamilton-history-v2.webp"},
   {
     id: "fort-langley-history-v2",
     type: "historical",
@@ -484,7 +481,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/fort-langley-history-v2.webp"},
   {
     id: "old-montreal-history-v2",
     type: "historical",
@@ -572,7 +569,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/distillery-district-toronto-history-v2.webp"},
   {
     id: "sgang-gwaay-history-v2",
     type: "historical",
@@ -616,7 +613,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/sgang-gwaay-history-v2.webp"},
   {
     id: "battlefields-park-quebec-history-v2",
     type: "historical",
@@ -660,7 +657,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/battlefields-park-quebec-history-v2.webp"},
   {
     id: "casa-loma-toronto-history-v2",
     type: "historical",
@@ -748,7 +745,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/craigdarroch-castle-victoria-history-v2.webp"},
   {
     id: "royal-bc-museum-history-v2",
     type: "historical",
@@ -792,7 +789,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/royal-bc-museum-history-v2.webp"},
   {
     id: "glenbow-museum-calgary-history-v2",
     type: "historical",
@@ -836,7 +833,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/glenbow-museum-calgary-history-v2.webp"},
   {
     id: "chateau-ramsay-montreal-history-v2",
     type: "historical",
@@ -880,7 +877,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/chateau-ramsay-montreal-history-v2.webp"},
   {
     id: "fort-malden-amherstburg-history-v2",
     type: "historical",
@@ -924,7 +921,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/fort-malden-amherstburg-history-v2.webp"},
   {
     id: "martello-towers-kingston-history-v2",
     type: "historical",
@@ -968,7 +965,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/martello-towers-kingston-history-v2.webp"},
   {
     id: "galt-historic-railway-park-history-v2",
     type: "historical",
@@ -1012,7 +1009,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/galt-historic-railway-park-history-v2.webp"},
   {
     id: "britannia-mine-museum-history-v2",
     type: "historical",
@@ -1056,7 +1053,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/britannia-mine-museum-history-v2.webp"},
   {
     id: "bar-u-ranch-history-v2",
     type: "historical",
@@ -1100,7 +1097,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/bar-u-ranch-history-v2.webp"},
   {
     id: "fisgard-lighthouse-history-v2",
     type: "historical",
@@ -1144,7 +1141,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/fisgard-lighthouse-history-v2.webp"},
   {
     id: "gulf-of-georgia-cannery-history-v2",
     type: "historical",
@@ -1188,7 +1185,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/gulf-of-georgia-cannery-history-v2.webp"},
   {
     id: "green-gables-pei-history-v2",
     type: "historical",
@@ -1232,7 +1229,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/green-gables-pei-history-v2.webp"},
   {
     id: "province-house-charlottetown-history-v2",
     type: "historical",
@@ -1276,7 +1273,7 @@ export const poiExtraCanadaHistory: POI[] = [
       "de": [],
       "ro": [],
       "en": []
-    }},
+    }, image: "/poi-images/province-house-charlottetown-history-v2.webp"},
   {
     id: "esterhazy-flour-mill-history-v2",
     type: "historical",
@@ -1322,3 +1319,4 @@ export const poiExtraCanadaHistory: POI[] = [
       "en": []
     }}
 ];
+

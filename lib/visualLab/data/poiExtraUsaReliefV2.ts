@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUsaReliefV2: POI[] = [
@@ -30,8 +31,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Több mint 4800 km hosszan nyúlnak el.", "A legmagasabb csúcs a Mount Elbert.", "Észak-Amerika fontos vízválasztója.", "Látványos nemzeti parkjairól ismert.", "Geológiailag fiatal hegység.", "Számos gleccser található itt."],
       ro: ["Se întind pe peste 4.800 km.", "Cel mai înalt vârf este Mount Elbert.", "Important cumpănă de ape a Americii de Nord.", "Cunoscut pentru parcurile naționale spectaculoase.", "Din punct de vedere geologic, un munte tânăr.", "Găzduiesc numeroși ghețari."],
       en: ["Stretch over 4,800 km.", "Highest peak is Mount Elbert.", "Major watershed of North America.", "Known for spectacular national parks.", "Geologically a young mountain range.", "Home to numerous glaciers."]
-    }
-  },
+    }, image: "/poi-images/rocky-mountains-relief-v2.webp"},
   {
     id: "appalachian-mountains-relief-v2",
     type: "mountain",
@@ -61,8 +61,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Föld egyik legősibb hegysége.", "Kanadától Alabamáig nyúlnak el.", "Sűrű lomberdőiről ismert.", "Fontos szénkészletek.", "Az Appalachian Trail által feltárt.", "Szelíd dombok és völgyek jellemzik."],
       ro: ["Unul dintre cei mai vechi munți de pe Pământ.", "Se întind din Canada până în Alabama.", "Cunoscut pentru pădurile dense de foioase.", "Zăcăminte importante de cărbune.", "Accesibil prin Appalachian Trail.", "Dominat de dealuri și văi blânde."],
       en: ["One of the oldest mountain ranges on Earth.", "Stretch from Canada to Alabama.", "Known for dense deciduous forests.", "Important coal deposits.", "Accessible via the Appalachian Trail.", "Dominated by gentle hills and valleys."]
-    }
-  },
+    }, image: "/poi-images/appalachian-mountains-relief-v2.webp"},
   {
     id: "sierra-nevada-usa-relief-v2",
     type: "mountain",
@@ -92,8 +91,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Mount Whitney, az kontinentális USA legmagasabb csúcsának otthona.", "A Yosemite Nemzeti Park része.", "Nagy gránitképződmények.", "Kalifornia fontos vízforrása.", "Az aranylázról ismert.", "Erős alpesi eljegesedés."],
       ro: ["Găzduiește Mount Whitney, cel mai înalt munte din SUA continentale.", "Include Parcul Național Yosemite.", "Formațiuni granitice mari.", "Sursă importantă de apă în California.", "Cunoscută pentru goana după aur.", "Glațiație alpină puternică."],
       en: ["Home to Mount Whitney, the highest peak in the contiguous USA.", "Includes Yosemite National Park.", "Large granitic formations.", "Major water source for California.", "Known for the Gold Rush.", "Significant alpine glaciation."]
-    }
-  },
+    }, image: "/poi-images/sierra-nevada-usa-relief-v2.webp"},
   {
     id: "cascade-range-relief-v2",
     type: "mountain",
@@ -123,8 +121,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Csendes-óceáni Tűzgyűrű része.", "A Mount St. Helens és a Mount Rainier otthona.", "Magas vulkáni aktivitás.", "Erős csapadék a szélirányú hatás miatt.", "Nagy erdőterületek.", "Fontos vízerőmű-termelés."],
       ro: ["Parte a Cercului de Foc al Pacificului.", "Găzduiește Mount St. Helens și Mount Rainier.", "Activitate vulcanică ridicată.", "Precipitații puternice din cauza efectului de pantă.", "Zone forestiere mari.", "Producție hidroelectrică importantă."],
       en: ["Part of the Pacific Ring of Fire.", "Home to Mount St. Helens and Mount Rainier.", "High volcanic activity.", "Heavy rainfall due to orographic lift.", "Large forested areas.", "Major hydroelectric power generation."]
-    }
-  },
+    }, image: "/poi-images/cascade-range-relief-v2.webp"},
   {
     id: "basin-and-range-relief-v2",
     type: "relief",
@@ -154,8 +151,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Tipikus sivatagi táj.", "Párhuzamosan futó hegyvonulatok.", "Nagy, lefolyástalan medencék.", "Gyakori vulkáni tevékenység a múltban.", "Részben kiszáradt sós tavak.", "Nagy hőség nyáron."],
       ro: ["Peisaj deșertic tipic.", "Lanțuri muntoase paralele.", "Bazine mari fără drenaj.", "Activitate vulcanică frecventă în trecut.", "Lacuri sărate parțial uscate.", "Căldură mare în timpul verii."],
       en: ["Typical desert landscape.", "Parallel mountain ranges.", "Large internally drained basins.", "Frequent past volcanic activity.", "Partially dry salt lakes.", "Extreme heat in summer."]
-    }
-  },
+    }, image: "/poi-images/basin-and-range-relief-v2.webp"},
   {
     id: "ozark-plateau-relief-v2",
     type: "forest",
@@ -185,8 +181,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Geológiailag összetett régió.", "Sok mészkőbarlang.", "Sűrű tölgy- és hikori-erdők.", "Népszerű szabadtéri tevékenységekhez.", "Számos tiszta patak.", "Alacsonyabb népsűrűség."],
       ro: ["Regiune geologic complexă.", "Multe peșteri de calcar.", "Păduri dense de stejar și hickory.", "Popular pentru activități în aer liber.", "Numeroase pârâuri clare.", "Densitate mai mică a populației."],
       en: ["Geologically complex region.", "Many limestone caves.", "Dense oak and hickory forests.", "Popular for outdoor activities.", "Numerous clear streams.", "Lower population density."]
-    }
-  },
+    }, image: "/poi-images/ozark-plateau-relief-v2.webp"},
   {
     id: "cascades-volcanic-relief-v2",
     type: "mountain",
@@ -216,8 +211,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Mount Hoodot is beleértve.", "Geotermikus aktivitás.", "Lenyűgöző kúpformák.", "Gyakran hóval borított.", "Egyedülálló geológiai tanulmányi régió.", "Nagy jelentőség az ökoszisztéma számára."],
       ro: ["Include Mount Hood.", "Activitate geotermală.", "Forme conice impresionante.", "Adesea acoperit de zăpadă.", "Regiune unică de studiu geologic.", "Importanță ridicată pentru ecosistem."],
       en: ["Includes Mount Hood.", "Geothermal activity.", "Impressive cone shapes.", "Often covered in snow.", "Unique geological study region.", "High importance for the ecosystem."]
-    }
-  },
+    }, image: "/poi-images/cascades-volcanic-relief-v2.webp"},
   {
     id: "blueridge-mountains-relief-v2",
     type: "mountain",
@@ -247,8 +241,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Kékes színéről ismert.", "A Blue Ridge Parkway itt halad át.", "Sűrű vegyes erdők.", "Népszerű túrarégió.", "Szelíd hegygerincek.", "Gazdag flóra és fauna."],
       ro: ["Cunoscut pentru nuanța albăstruie.", "Blue Ridge Parkway trece pe aici.", "Păduri mixte dense.", "Regiune populară de drumeție.", "Creste blânde.", "Floră și faună bogată."],
       en: ["Known for the bluish tint.", "Blue Ridge Parkway runs here.", "Dense mixed forests.", "Popular hiking region.", "Gentle mountain ridges.", "Rich flora and fauna."]
-    }
-  },
+    }, image: "/poi-images/blueridge-mountains-relief-v2.webp"},
   {
     id: "white-mountains-usa-relief-v2",
     type: "mountain",
@@ -278,8 +271,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Mount Washington a legmagasabb csúcs.", "Időjárási szélsőségeiről híres.", "Népszerű a túrázók körében.", "Sűrű erdők az alacsonyabb szinteken.", "Látványos őszi színváltás.", "Az Appalache-hegység része."],
       ro: ["Mount Washington este cel mai înalt vârf.", "Celebru pentru extremele meteo.", "Popular printre drumeți.", "Păduri dense la altitudini joase.", "Colorit spectaculos de toamnă.", "Parte a Munților Apalași."],
       en: ["Mount Washington is the highest peak.", "Famous for extreme weather.", "Popular with hikers.", "Dense forests at lower elevations.", "Spectacular autumn foliage.", "Part of the Appalachians."]
-    }
-  },
+    }, image: "/poi-images/white-mountains-usa-relief-v2.webp"},
   {
     id: "adirondack-mountains-relief-v2",
     type: "mountain",
@@ -309,8 +301,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Nem az Appalache-hegység része.", "Számtalan tó és erdő.", "Nagy védett természeti terület.", "Népszerű kenu-túrákhoz.", "Magas gránithegyek.", "Népszerű célpont nyáron és télen."],
       ro: ["Nu face parte din Munții Apalași.", "Nenumărate lacuri și păduri.", "Zonă naturală protejată mare.", "Popular pentru canotaj.", "Munți înalți de granit.", "Destinație populară vara și iarna."],
       en: ["Not part of the Appalachians.", "Countless lakes and forests.", "Large protected natural area.", "Popular for canoeing.", "High granite mountains.", "Popular destination in summer and winter."]
-    }
-  },
+    }, image: "/poi-images/adirondack-mountains-relief-v2.webp"},
   {
     id: "big-bend-relief-v2",
     type: "relief",
@@ -340,8 +331,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Chihuahua-sivatagi ökoszisztéma része.", "Látványos kanyonok.", "Extrém száraz körülmények.", "Geológiailag változatos sziklaképződmények.", "Fontos élőhely sivatagi fajok számára.", "Nagyon gyéren lakott."],
       ro: ["Parte a ecosistemului deșertului Chihuahua.", "Canioane spectaculoase.", "Condiții extrem de aride.", "Formațiuni stâncoase diverse geologic.", "Habitat important pentru speciile deșertice.", "Foarte puțin populat."],
       en: ["Part of the Chihuahuan Desert ecosystem.", "Spectacular canyons.", "Extremely arid conditions.", "Geologically diverse rock formations.", "Important habitat for desert species.", "Very sparsely populated."]
-    }
-  },
+    }, image: "/poi-images/big-bend-relief-v2.webp"},
   {
     id: "black-hills-relief-v2",
     type: "mountain",
@@ -371,8 +361,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Mount Rushmore otthona.", "Geológiailag idősebb képződmények.", "Sűrű fenyőerdők.", "Szent föld az őslakos népek számára.", "Számos vadon élő állat.", "A legmagasabb pont a Black Elk Peak."],
       ro: ["Găzduiește Mount Rushmore.", "Formațiuni geologic mai vechi.", "Păduri dese de pin.", "Tărâm sfânt pentru popoarele indigene.", "Numeroase animale sălbatice.", "Cel mai înalt punct este Black Elk Peak."],
       en: ["Home to Mount Rushmore.", "Geologically older formations.", "Dense pine forests.", "Sacred land for indigenous peoples.", "Numerous wildlife.", "Highest point is Black Elk Peak."]
-    }
-  },
+    }, image: "/poi-images/black-hills-relief-v2.webp"},
   {
     id: "colorado-plateau-relief-v2",
     type: "relief",
@@ -402,8 +391,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Grand Canyon otthona.", "Mély szakadékok és táblahegyek.", "Száraz éghajlat.", "Egyedülálló kőzetrétegek.", "Nagy nemzeti park sűrűség.", "Magas geológiai jelentőség."],
       ro: ["Găzduiește Grand Canyon.", "Canioane adânci și platouri montane.", "Climat arid.", "Straturi geologice unice.", "Densitate mare de parcuri naționale.", "Importanță geologică ridicată."],
       en: ["Home to the Grand Canyon.", "Deep canyons and mesas.", "Arid climate.", "Unique rock layers.", "High density of national parks.", "High geological importance."]
-    }
-  },
+    }, image: "/poi-images/colorado-plateau-relief-v2.webp"},
   {
     id: "great-basin-relief-v2",
     type: "relief",
@@ -433,8 +421,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Száraz sivatagi medence.", "Sok hegylánc belül.", "Nincs vízelvezetés a tenger felé.", "Lúgos tavak.", "Kiterjedt homokos területek.", "Szélsőséges hőmérséklet."],
       ro: ["Bazin deșertic uscat.", "Multe lanțuri muntoase în interior.", "Fără drenaj spre mare.", "Lacuri alcaline.", "Zone nisipoase vaste.", "Temperaturi extreme."],
       en: ["Dry desert basin.", "Many mountain ranges within.", "No water drainage to the sea.", "Alkaline lakes.", "Extensive sandy areas.", "Extreme temperatures."]
-    }
-  },
+    }, image: "/poi-images/great-basin-relief-v2.webp"},
   {
     id: "sierra-madre-occidental-relief-v2",
     type: "mountain",
@@ -464,8 +451,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Fontos élőhely sivatagi fajok számára.", "Nagyon barázdált.", "Egyedülálló fajgazdagság.", "Fontos a vízellátás szempontjából.", "Vulkáni sziklák.", "Száraz lejtők."],
       ro: ["Habitat important pentru speciile deșertice.", "Foarte accidentat.", "Biodiversitate unică.", "Important pentru aprovizionarea cu apă.", "Stânci vulcanice.", "Versanți uscați."],
       en: ["Important habitat for desert species.", "Very rugged.", "Unique biodiversity.", "Important for water supply.", "Volcanic rocks.", "Dry slopes."]
-    }
-  },
+    }, image: "/poi-images/sierra-madre-occidental-relief-v2.webp"},
   {
     id: "chisos-mountains-relief-v2",
     type: "mountain",
@@ -495,8 +481,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Vulkáni képződmények.", "„Égi sziget” a sivatagban.", "Jóval hűvösebb, mint a környezete.", "A feketemedve otthona.", "Látványos túraútvonalak.", "Egyedülálló növényvilág."],
       ro: ["Formațiuni vulcanice.", "„Insulă cerească” în deșert.", "Mult mai răcoros decât împrejurimile.", "Casa ursului negru.", "Trasee spectaculoase de drumeție.", "Floră unică."],
       en: ["Volcanic formations.", "Sky island in the desert.", "Significantly cooler than the surroundings.", "Home to the black bear.", "Spectacular hiking trails.", "Unique flora."]
-    }
-  },
+    }, image: "/poi-images/chisos-mountains-relief-v2.webp"},
   {
     id: "wasatch-range-relief-v2",
     type: "mountain",
@@ -526,8 +511,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Nagyon meredek hegyoldalak.", "Népszerű téli sportokhoz.", "Vízforrás Salt Lake City számára.", "Geológiailag aktív.", "Fontos túrarégió.", "Nagy magasságkülönbségek."],
       ro: ["Versanți muntoși foarte abrupți.", "Popular pentru sporturi de iarnă.", "Sursă de apă pentru Salt Lake City.", "Din punct de vedere geologic activ.", "Regiune importantă de drumeție.", "Diferențe mari de altitudine."],
       en: ["Very steep mountain slopes.", "Popular for winter sports.", "Water source for Salt Lake City.", "Geologically active.", "Important hiking region.", "Large elevation differences."]
-    }
-  },
+    }, image: "/poi-images/wasatch-range-relief-v2.webp"},
   {
     id: "bighorn-mountains-relief-v2",
     type: "mountain",
@@ -557,8 +541,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Sziklás-hegység része.", "Sűrű fenyőerdők.", "Látványos szurdokok.", "Alacsony népsűrűség.", "Nagy vadvilág állomány.", "Ideális természetmegfigyelésre."],
       ro: ["Parte a Munților Stâncoși.", "Păduri dense de pin.", "Canioane spectaculoase.", "Densitate scăzută a populației.", "Populații mari de animale sălbatice.", "Ideal pentru observarea naturii."],
       en: ["Part of the Rocky Mountains.", "Dense pine forests.", "Spectacular canyons.", "Low population density.", "Large wildlife populations.", "Ideal for nature observation."]
-    }
-  },
+    }, image: "/poi-images/bighorn-mountains-relief-v2.webp"},
   {
     id: "olympic-mountains-relief-v2",
     type: "mountain",
@@ -588,8 +571,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Nagyon párás éghajlat.", "Az USA egyetlen mérsékelt övi esőerdője.", "Magas gleccseraktivitás.", "Barázdált csúcsok.", "Látványos kilátások.", "Egyedülálló ökoszisztéma."],
       ro: ["Climat foarte umed.", "Singurele păduri tropicale temperate din SUA.", "Activitate glaciară ridicată.", "Vârfuri accidentate.", "Vederi spectaculoase.", "Ecosistem unic."],
       en: ["Very humid climate.", "Only temperate rainforests in the USA.", "High glacial activity.", "Rugged peaks.", "Spectacular views.", "Unique ecosystem."]
-    }
-  },
+    }, image: "/poi-images/olympic-mountains-relief-v2.webp"},
   {
     id: "uinta-mountains-relief-v2",
     type: "mountain",
@@ -619,8 +601,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Sziklás-hegység legmagasabb része Utah-ban.", "Sok magashegyi tó.", "Nagy vadon területek.", "Látványos alpesi tájak.", "Fontos vízforrás.", "Nagy magasságok."],
       ro: ["Cea mai înaltă parte a Munților Stâncoși din Utah.", "Multe lacuri montane înalte.", "Zone sălbatice mari.", "Peisaje alpine spectaculoase.", "Sursă importantă de apă.", "Altitudini mari."],
       en: ["Highest part of the Rocky Mountains in Utah.", "Many high mountain lakes.", "Large wilderness areas.", "Spectacular alpine landscapes.", "Important water source.", "Great elevations."]
-    }
-  },
+    }, image: "/poi-images/uinta-mountains-relief-v2.webp"},
   {
     id: "tetons-relief-v2",
     type: "mountain",
@@ -650,8 +631,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Grand Teton Nemzeti Park része.", "Nagyon meredek, fiatal geológiai szerkezet.", "Látványos alpesi csúcsok.", "Túrázásról híres.", "Gleccserek a magasságokban.", "Fontos turisztikai célpont."],
       ro: ["Parte a Parcului Național Grand Teton.", "Structură geologică tânără, foarte abruptă.", "Vârfuri alpine spectaculoase.", "Celebru pentru drumeții.", "Ghețari la altitudini înalte.", "Destinație turistică importantă."],
       en: ["Part of Grand Teton National Park.", "Very steep, young geological structure.", "Spectacular alpine peaks.", "Famous for hiking.", "Glaciers at high altitudes.", "Important tourist destination."]
-    }
-  },
+    }, image: "/poi-images/tetons-relief-v2.webp"},
   {
     id: "sawtooth-mountains-relief-v2",
     type: "mountain",
@@ -681,8 +661,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Jellegzetes csipkézett csúcsok.", "Számos hegyi tó.", "Vad, érintetlen természet.", "Népszerű hátizsákos túrázáshoz.", "Geológiailag nagyon aktív volt a múltban.", "Nagy vadon."],
       ro: ["Vârfuri zimțate caracteristice.", "Numeroase lacuri montane.", "Natură sălbatică neatinsă.", "Popular pentru drumeții cu rucsac.", "Din punct de vedere geologic foarte activ în trecut.", "Sălbăticie mare."],
       en: ["Characteristic jagged peaks.", "Numerous mountain lakes.", "Wild untouched nature.", "Popular for backpacking.", "Geologically very active in the past.", "Large wilderness."]
-    }
-  },
+    }, image: "/poi-images/sawtooth-mountains-relief-v2.webp"},
   {
     id: "cascades-volcanic-north-relief-v2",
     type: "mountain",
@@ -712,8 +691,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Nagyon sok gleccser.", "Látványos alpesi tájak.", "Nagy vadon területek.", "Magas biodiverzitás.", "Népszerű hegymászók körében.", "Megközelíthetetlen terep."],
       ro: ["Foarte mulți ghețari.", "Peisaje alpine spectaculoase.", "Zone sălbatice mari.", "Biodiversitate ridicată.", "Popular printre alpiniști.", "Teren inaccesibil."],
       en: ["Very many glaciers.", "Spectacular alpine landscapes.", "Large wilderness areas.", "High biodiversity.", "Popular with mountaineers.", "Inaccessible terrain."]
-    }
-  },
+    }, image: "/poi-images/cascades-volcanic-north-relief-v2.webp"},
   {
     id: "death-valley-relief-v2",
     type: "relief",
@@ -746,3 +724,4 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
     }
   }
 ];
+

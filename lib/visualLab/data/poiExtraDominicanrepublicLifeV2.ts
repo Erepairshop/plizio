@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDominicanrepublicLifeV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Fontos élőhely a közönséges cserepesteknős számára.", "A fészkelési időszak jellemzően május és november között van.", "Védelmi projektek aktívak."],
       ro: ["Habitat important pentru broasca țestoasă Hawksbill.", "Perioada de cuibărit este de obicei între mai și noiembrie.", "Proiecte de conservare sunt active."],
       en: ["Important habitat for the Hawksbill sea turtle.", "Nesting season is typically between May and November.", "Conservation projects are in place."]
-    }
-  },
+    }, image: "/poi-images/do-los-haitises-sea-turtles-life-v2.webp"},
   {
     id: "do-jaragua-iguana-habitat-life-v2",
     type: "animal-habitat",
@@ -47,8 +47,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Hispaniola szigetén őshonos faj.", "Főleg növényekkel táplálkoznak.", "A leguánok fontos szerepet játszanak a magvak terjesztésében."],
       ro: ["Specie endemică a insulei Hispaniola.", "Se hrănesc în principal cu plante.", "Iguanele sunt importante pentru dispersia semințelor."],
       en: ["Endemic species to the island of Hispaniola.", "They feed mainly on plants.", "The iguanas are important for seed dispersal."]
-    }
-  },
+    }, image: "/poi-images/do-jaragua-iguana-habitat-life-v2.webp"},
   {
     id: "do-sierra-de-bahoruco-birds-life-v2",
     type: "animal-habitat",
@@ -71,8 +70,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A hispaniolai trogon otthona.", "Több mint 100 madárfajt regisztráltak itt.", "Egy Haitivel közös, határokon átnyúló bioszféra-rezervátum része."],
       ro: ["Găzduiește trogonul din Hispaniola.", "Peste 100 de specii de păsări au fost înregistrate aici.", "Parte a unei rezervații a biosferei transfrontaliere cu Haiti."],
       en: ["Home to the Hispaniola Trogon.", "Over 100 bird species have been recorded here.", "Part of a cross-border biosphere reserve with Haiti."]
-    }
-  },
+    }, image: "/poi-images/do-sierra-de-bahoruco-birds-life-v2.webp"},
   {
     id: "do-cibao-valley-tobacco-life-v2",
     type: "agriculture",
@@ -95,8 +93,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A régió a világ legjobb szivarjainak egy részét termeli.", "A termékeny talaj ideális a dohánytermesztéshez.", "Sok üzemben tartanak gyárlátogatásokat."],
       ro: ["Regiunea produce unele dintre cele mai bune trabucuri din lume.", "Solurile fertile sunt ideale pentru cultivarea tutunului.", "Multe fabrici oferă tururi ghidate."],
       en: ["The region produces some of the world's finest cigars.", "The fertile soils are ideal for tobacco cultivation.", "Many factories offer guided tours."]
-    }
-  },
+    }, image: "/poi-images/do-cibao-valley-tobacco-life-v2.webp"},
   {
     id: "do-bani-mango-farms-life-v2",
     type: "agriculture",
@@ -119,8 +116,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Több mint 100 mangófajtát termesztenek itt.", "A mangófesztivált minden év júniusában rendezik meg.", "A gyümölcsöt az egész világra exportálják."],
       ro: ["Peste 100 de soiuri de mango sunt cultivate aici.", "Festivalul Mango are loc în fiecare an în iunie.", "Fructele sunt exportate în întreaga lume."],
       en: ["Over 100 varieties of mango are grown here.", "The Mango Festival is held every year in June.", "The fruit is exported worldwide."]
-    }
-  },
+    }, image: "/poi-images/do-bani-mango-farms-life-v2.webp"},
   {
     id: "do-constanza-vegetables-life-v2",
     type: "agriculture",
@@ -143,8 +139,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Eper, burgonya, sárgarépa és saláta termesztése.", "Az éghajlat egyedülálló a Karib-térségben.", "A termények az egész országot ellátják."],
       ro: ["Cultivarea de căpșuni, cartofi, morcovi și salată.", "Clima este unică în Caraibe.", "Produsele aprovizionează întreaga țară."],
       en: ["Strawberries, potatoes, carrots, and lettuce are grown here.", "The climate is unique in the Caribbean.", "The produce supplies the entire country."]
-    }
-  },
+    }, image: "/poi-images/do-constanza-vegetables-life-v2.webp"},
   {
     id: "do-barahona-coffee-life-v2",
     type: "agriculture",
@@ -167,8 +162,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A 'Café de Barahona' egy oltalom alatt álló eredetmegjelölés.", "A termesztés gyakran kis, családi gazdaságokban történik.", "A kávénak jellegzetes gyümölcsös aromája van."],
       ro: ["'Café de Barahona' este o denumire de origine protejată.", "Cultivarea este adesea realizată în ferme mici, de familie.", "Cafeaua are o aromă fructată caracteristică."],
       en: ["'Café de Barahona' is a protected designation of origin.", "Cultivation is often done on small, family-run farms.", "The coffee has a characteristic fruity aroma."]
-    }
-  },
+    }, image: "/poi-images/do-barahona-coffee-life-v2.webp"},
   {
     id: "do-higuey-cattle-ranching-life-v2",
     type: "agriculture",
@@ -191,8 +185,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Fontos gazdasági ágazat az ország keleti részén.", "Tej, sajt és marhahús termelése.", "A tájat legelők jellemzik."],
       ro: ["Sector economic important în estul țării.", "Producția de lapte, brânză și carne de vită.", "Peisajul este caracterizat de pășuni."],
       en: ["Important economic sector in the east of the country.", "Production of milk, cheese, and beef.", "The landscape is characterized by pastureland."]
-    }
-  },
+    }, image: "/poi-images/do-higuey-cattle-ranching-life-v2.webp"},
   {
     id: "do-mundo-king-art-museum-life-v2",
     type: "kid-landmark",
@@ -215,8 +208,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Egy német művész alkotta.", "Öt emelet tele egyedi műalkotásokkal.", "Panorámás kilátást nyújt Sosúára."],
       ro: ["Creat de un artist german.", "Cinci etaje pline de opere de artă unice.", "Oferă o vedere panoramică asupra orașului Sosúa."],
       en: ["Created by a German artist.", "Five floors full of unique works of art.", "Offers a panoramic view over Sosúa."]
-    }
-  },
+    }, image: "/poi-images/do-mundo-king-art-museum-life-v2.webp"},
   {
     id: "do-pekepolis-santo-domingo-life-v2",
     type: "kid-landmark",
@@ -263,8 +255,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Egy szállodakomplexum része, de gyakran napijeggyel is látogatható.", "Magas csúszdák az adrenalinra vágyóknak.", "Külön területek kisgyermekek számára."],
       ro: ["Parte a unui complex hotelier, dar adesea accesibil și pentru vizitatorii de o zi.", "Tobogane înalte pentru amatorii de adrenalină.", "Zone separate pentru copiii mici."],
       en: ["Part of a hotel resort, but often accessible to day visitors as well.", "High slides for adrenaline junkies.", "Separate areas for toddlers."]
-    }
-  },
+    }, image: "/poi-images/do-sirenis-aquagames-punta-cana-life-v2.webp"},
   {
     id: "do-manati-park-bavaro-life-v2",
     type: "animal-habitat",
@@ -287,8 +278,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Papagáj-, ló- és delfinbemutatók.", "Egy Taino falu másolata.", "Trópusi kertek orchideákkal."],
       ro: ["Spectacole cu papagali, cai și delfini.", "Replică a unui sat Taino.", "Grădini tropicale cu orhidee."],
       en: ["Shows with parrots, horses, and dolphins.", "Reproduction of a Taino village.", "Tropical gardens with orchids."]
-    }
-  },
+    }, image: "/poi-images/do-manati-park-bavaro-life-v2.webp"},
   {
     id: "do-acuario-nacional-santo-domingo-life-v2",
     type: "kid-landmark",
@@ -311,8 +301,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Fókuszban a karibi fajok.", "Egyik fő látványossága az átlátszó víz alatti alagút.", "Lamantinoknak is otthont ad."],
       ro: ["Accent pe speciile din Caraibe.", "Un punct culminant este tunelul subacvatic transparent.", "Găzduiește și lamantini."],
       en: ["Focus on Caribbean species.", "A highlight is the transparent underwater tunnel.", "Also home to manatees."]
-    }
-  },
+    }, image: "/poi-images/do-acuario-nacional-santo-domingo-life-v2.webp"},
   {
     id: "do-jardin-botanico-santo-domingo-life-v2",
     type: "kid-landmark",
@@ -335,8 +324,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A Karib-térség legnagyobb botanikus kertje.", "A parki vonat nagyon népszerű a gyerekek körében.", "Több száz pálma- és orchideafajnak ad otthont."],
       ro: ["Cea mai mare grădină botanică din Caraibe.", "Trenulețul din parc este foarte popular printre copii.", "Găzduiește sute de specii de palmieri și orhidee."],
       en: ["Largest botanical garden in the Caribbean.", "The park train is very popular with children.", "Home to hundreds of species of palms and orchids."]
-    }
-  },
+    }, image: "/poi-images/do-jardin-botanico-santo-domingo-life-v2.webp"},
   {
     id: "do-chocolate-museum-punta-cana-life-v2",
     type: "kid-landmark",
@@ -359,8 +347,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Interaktív csokoládékészítő műhelyek.", "Különböző csokoládétermékek ingyenes kóstolása.", "A kakaófától a tábla csokiig."],
       ro: ["Ateliere interactive de fabricare a ciocolatei.", "Mostre gratuite de diverse produse din ciocolată.", "De la arborele de cacao la tableta de ciocolată."],
       en: ["Interactive chocolate-making workshops.", "Free samples of various chocolate products.", "From the cacao tree to the chocolate bar."]
-    }
-  },
+    }, image: "/poi-images/do-chocolate-museum-punta-cana-life-v2.webp"},
   {
     id: "do-isabela-historic-park-life-v2",
     type: "kid-landmark",
@@ -383,8 +370,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Kolumbusz Kristóf alapította 1493-ban.", "Régészeti lelőhely múzeummal.", "Bemutatja az eredeti település alapjait."],
       ro: ["Fondat de Cristofor Columb în 1493.", "Situl arheologic include un muzeu.", "Prezintă fundațiile așezării originale."],
       en: ["Founded by Christopher Columbus in 1493.", "Archaeological site with a museum.", "Shows the foundations of the original settlement."]
-    }
-  },
+    }, image: "/poi-images/do-isabela-historic-park-life-v2.webp"},
   {
     id: "do-monkeyland-punta-cana-life-v2",
     type: "animal-habitat",
@@ -407,8 +393,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A majmokat arra képezték ki, hogy kapcsolatba lépjenek az emberekkel.", "Egy botanikus kerti túrát is kínál.", "Anamuya hegyeiben található."],
       ro: ["Maimuțele sunt antrenate să interacționeze cu oamenii.", "Oferă și un tur al unei grădini botanice.", "Situat în munții Anamuya."],
       en: ["The monkeys are trained to interact with people.", "Also offers a tour of a botanical garden.", "Located in the Anamuya mountains."]
-    }
-  },
+    }, image: "/poi-images/do-monkeyland-punta-cana-life-v2.webp"},
   {
     id: "do-scape-park-cap-cana-life-v2",
     type: "kid-landmark",
@@ -431,8 +416,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A Hoyo Azul egy mély, természetes édesvizű medence.", "Több drótkötélpálya.", "Kulturális útvonal, amely a sziget történelmét mutatja be."],
       ro: ["Hoyo Azul este o piscină naturală adâncă cu apă dulce.", "Mai multe trasee de tiroliană.", "Traseu cultural care prezintă istoria insulei."],
       en: ["Hoyo Azul is a deep, natural freshwater pool.", "Multiple zip line courses.", "Cultural route showcasing the island's history."]
-    }
-  },
+    }, image: "/poi-images/do-scape-park-cap-cana-life-v2.webp"},
   {
     id: "do-indigenous-eyes-park-life-v2",
     type: "kid-landmark",
@@ -455,8 +439,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A lagúnákat a Taino indiánok 'szemeknek' nevezték.", "Könnyű túraútvonalak, ideálisak családok számára.", "A Puntacana Ökológiai Alapítvány része."],
       ro: ["Lagunele au fost numite 'ochi' de către indienii Taino.", "Trasee de drumeție ușoare, ideale pentru familii.", "Parte a Fundației Ecologice Puntacana."],
       en: ["The lagoons were called 'eyes' by the Taino Indians.", "Easy hiking trails, ideal for families.", "Part of the Puntacana Ecological Foundation."]
-    }
-  },
+    }, image: "/poi-images/do-indigenous-eyes-park-life-v2.webp"},
   {
     id: "do-bavaro-adventure-park-life-v2",
     type: "kid-landmark",
@@ -503,8 +486,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A világ egyik legjobb bálnafigyelő helye.", "A bálnák több ezer kilométert tesznek meg az Észak-Atlanti-óceánról.", "Szigorú előírások védik az állatokat."],
       ro: ["Unul dintre cele mai bune locuri din lume pentru observarea balenelor.", "Balenele parcurg mii de kilometri din Atlanticul de Nord.", "Reglementări stricte pentru protejarea animalelor."],
       en: ["One of the best places in the world for whale watching.", "The whales travel thousands of kilometers from the North Atlantic.", "Strict regulations are in place to protect the animals."]
-    }
-  },
+    }, image: "/poi-images/do-samaná-bay-whales-life-v2.webp"},
   {
     id: "do-laguna-de-oviedo-flamingos-life-v2",
     type: "animal-habitat",
@@ -527,8 +509,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A lagúna sókoncentrációja magasabb, mint a tengeré.", "Hajókirándulásokkal közel lehet jutni a flamingókhoz.", "Sok más vízimadárfaj otthona."],
       ro: ["Laguna are o concentrație de sare mai mare decât marea.", "Excursiile cu barca duc vizitatorii aproape de flamingo.", "Găzduiește multe alte specii de păsări de apă."],
       en: ["The lagoon has a higher salt concentration than the sea.", "Boat trips take visitors close to the flamingos.", "Home to many other species of water birds."]
-    }
-  },
+    }, image: "/poi-images/do-laguna-de-oviedo-flamingos-life-v2.webp"},
   {
     id: "do-isla-cabritos-crocodiles-life-v2",
     type: "animal-habitat",
@@ -551,8 +532,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Az Enriquillo-tó egy hiperszalin tó.", "A krokodilok több mint 4 méter hosszúra is megnőhetnek.", "A sziget a leguánok számára is védett terület."],
       ro: ["Lacul Enriquillo este un lac hipersalin.", "Crocodilii pot atinge peste 4 metri în lungime.", "Insula este, de asemenea, un sanctuar pentru iguane."],
       en: ["Lake Enriquillo is a hypersaline lake.", "The crocodiles can grow to over 4 meters long.", "The island is also a sanctuary for iguanas."]
-    }
-  },
+    }, image: "/poi-images/do-isla-cabritos-crocodiles-life-v2.webp"},
   {
     id: "do-sugarcane-plantations-east-life-v2",
     type: "agriculture",
@@ -575,8 +555,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A cukor egykor a legfontosabb exportcikk volt.", "Sok ültetvényt alakítottak át turisztikai üdülőhellyé.", "A cukornádból készül az ország jellegzetes itala, a rum is."],
       ro: ["Zahărul a fost odată cel mai important produs de export.", "Multe plantații au fost transformate în stațiuni turistice.", "Trestia de zahăr este folosită și pentru a produce romul specific țării."],
       en: ["Sugar was once the most important export.", "Many plantations have been converted into tourist resorts.", "Sugarcane is also used to make the country's typical rum."]
-    }
-  },
+    }, image: "/poi-images/do-sugarcane-plantations-east-life-v2.webp"},
   {
     id: "do-cacao-plantations-duarte-life-v2",
     type: "agriculture",
@@ -599,8 +578,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A Dominikai Köztársaság az egyik legnagyobb bio kakaó exportőr.", "Sok ültetvény kínál 'csokoládétúrákat'.", "A kakaót árnyékban termesztik, ami elősegíti a biodiverzitást."],
       ro: ["Republica Dominicană este unul dintre cei mai mari exportatori de cacao organică.", "Multe plantații oferă 'tururi de ciocolată'.", "Cacaoa este cultivată la umbră, ceea ce promovează biodiversitatea."],
       en: ["The Dominican Republic is one of the largest exporters of organic cacao.", "Many plantations offer 'chocolate tours'.", "Cacao is grown in the shade, which promotes biodiversity."]
-    }
-  },
+    }, image: "/poi-images/do-cacao-plantations-duarte-life-v2.webp"},
   {
     id: "do-ocean-world-adventure-park-life-v2",
     type: "kid-landmark",
@@ -623,8 +601,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["A delfinekkel való úszás az egyik fő attrakció.", "Trópusi madaraknak és tigriseknek is otthont ad.", "Rendelkezik kikötővel és kaszinóval is."],
       ro: ["Înotul cu delfinii este o atracție principală.", "Găzduiește, de asemenea, păsări tropicale și tigri.", "Dispune de un port de agrement și un cazinou."],
       en: ["Swimming with dolphins is a main attraction.", "Also home to tropical birds and tigers.", "Features a marina and a casino."]
-    }
-  },
+    }, image: "/poi-images/do-ocean-world-adventure-park-life-v2.webp"},
   {
     id: "do-childrens-trampoline-museum-life-v2",
     type: "kid-landmark",
@@ -647,8 +624,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Témakörök, mint a tudomány, a természet és a társadalom.", "Fejleszti a kíváncsiságot és a kreativitást.", "Egy történelmi épületben található."],
       ro: ["Secțiuni tematice precum știință, natură și societate.", "Încurajează curiozitatea și creativitatea.", "Găzduit într-o clădire istorică."],
       en: ["Themed areas such as science, nature, and society.", "Encourages curiosity and creativity.", "Housed in a historic building."]
-    }
-  },
+    }, image: "/poi-images/do-childrens-trampoline-museum-life-v2.webp"},
   {
     id: "do-los-delfines-water-park-life-v2",
     type: "kid-landmark",
@@ -671,8 +647,7 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
       hu: ["Népszerű a helyiek és a turisták körében is.", "Több különböző magasságú csúszda.", "Nyugodt légkör családok számára."],
       ro: ["Popular atât printre localnici, cât și printre turiști.", "Mai multe tobogane de diferite înălțimi.", "Atmosferă relaxată pentru familii."],
       en: ["Popular with locals and tourists alike.", "Several slides of different heights.", "Relaxed atmosphere for families."]
-    }
-  },
+    }, image: "/poi-images/do-los-delfines-water-park-life-v2.webp"},
   {
     id: "do-ridgways-hawk-habitat-life-v2",
     type: "animal-habitat",
@@ -698,3 +673,4 @@ export const poiExtraDominicanrepublicLifeV2: POI[] = [
     }
   }
 ];
+

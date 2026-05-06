@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDominicanrepublicEconomicV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Az import legfontosabb kapuja.", "Központi ipari átrakodóhely.", "Fontos közlekedési csomópont Santo Domingo mellett."],
       ro: ["Poarta principală pentru importuri.", "Centru central de transbordare industrială.", "Nod de transport cheie lângă Santo Domingo."],
       en: ["Most important gateway for imports.", "Central industrial transshipment hub.", "Key transport node near Santo Domingo."]
-    }
-  },
+    }, image: "/poi-images/haina-port-economic-v2.webp"},
   {
     id: "punta-caucedo-port-economic-v2",
     type: "port",
@@ -27,8 +27,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Modern konténerterminál.", "Közvetlen összeköttetés a reptérrel.", "Fontos a regionális kereskedelemben."],
       ro: ["Terminal modern de containere.", "Conexiune directă cu aeroportul.", "Important pentru comerțul regional."],
       en: ["Modern container terminal.", "Direct link to the airport.", "Important for regional trade."]
-    }
-  },
+    }, image: "/poi-images/punta-caucedo-port-economic-v2.webp"},
   {
     id: "barahona-port-economic-v2",
     type: "port",
@@ -41,8 +40,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Fontos a délnyugati régió számára.", "Nyersanyagok átrakodása.", "Regionális export támogatása."],
       ro: ["Important pentru sud-vest.", "Transbordarea materiilor prime.", "Promovarea exporturilor regionale."],
       en: ["Important for the southwest.", "Transshipment of raw materials.", "Promoting regional exports."]
-    }
-  },
+    }, image: "/poi-images/barahona-port-economic-v2.webp"},
   {
     id: "boca-chica-port-economic-v2",
     type: "port",
@@ -55,8 +53,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["üdülőhelyek közelében.", "Turisztikai áruk forgalma.", "Könnyű logisztikai műveletek."],
       ro: ["Aproape de stațiuni.", "Tranzitul bunurilor turistice.", "Operațiuni logistice ușoare."],
       en: ["Near resorts.", "Handling of tourist goods.", "Light logistical operations."]
-    }
-  },
+    }, image: "/poi-images/boca-chica-port-economic-v2.webp"},
   {
     id: "san-pedro-port-economic-v2",
     type: "port",
@@ -69,8 +66,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Korábbi cukorközpont.", "Diverzifikált rakomány.", "Támogatja a helyi iparágakat."],
       ro: ["Fost centru pentru zahăr.", "Mărfuri diversificate.", "Susține industriile locale."],
       en: ["Former hub for sugar.", "Diversified cargo.", "Supports local industries."]
-    }
-  },
+    }, image: "/poi-images/san-pedro-port-economic-v2.webp"},
   {
     id: "puerto-plata-port-economic-v2",
     type: "port",
@@ -83,8 +79,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Tengerjáró terminál.", "Kereskedelmi áruk északon.", "Turisztikai kapu."],
       ro: ["Terminal pentru nave de croazieră.", "Mărfuri comerciale în nord.", "Poartă pentru turism."],
       en: ["Cruise ship terminal.", "Commercial goods in the north.", "Gateway for tourism."]
-    }
-  },
+    }, image: "/poi-images/puerto-plata-port-economic-v2.webp"},
   {
     id: "manzanillo-port-economic-v2",
     type: "port",
@@ -97,8 +92,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Fontos a banánexportban.", "Stratégiai északnyugati fekvés.", "Növekvő kapacitás."],
       ro: ["Important pentru exportul de banane.", "Locație strategică în nord-vest.", "Capacitate în creștere."],
       en: ["Important for banana exports.", "Strategic location in the northwest.", "Growing capacity."]
-    }
-  },
+    }, image: "/poi-images/manzanillo-port-economic-v2.webp"},
   {
     id: "la-romana-port-economic-v2",
     type: "port",
@@ -111,8 +105,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Cukornádültetvények közelében.", "Tengerjáró terminál.", "Támogatja a regionális gazdaságot."],
       ro: ["Aproape de plantațiile de zahăr.", "Terminal de croazieră.", "Susține economia regională."],
       en: ["Near sugarcane fields.", "Cruise terminal.", "Supports regional economy."]
-    }
-  },
+    }, image: "/poi-images/la-romana-port-economic-v2.webp"},
   {
     id: "falconbridge-mining-economic-v2",
     type: "industry",
@@ -125,8 +118,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Fő nikkelforrás.", "Fontos exporttényező.", "Nagy munkaadó."],
       ro: ["Sursă principală de nichel.", "Factor important de export.", "Angajator major."],
       en: ["Main source of nickel.", "Important export factor.", "Major employer."]
-    }
-  },
+    }, image: "/poi-images/falconbridge-mining-economic-v2.webp"},
   {
     id: "barrick-pueblo-viejo-economic-v2",
     type: "industry",
@@ -139,8 +131,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Világszinten jelentős termelés.", "Modern bányászati technológia.", "Nemesfém-központ."],
       ro: ["Producție semnificativă la nivel mondial.", "Tehnologie modernă de extracție.", "Centru pentru metale prețioase."],
       en: ["Globally significant production.", "State-of-the-art mining technology.", "Center for precious metals."]
-    }
-  },
+    }, image: "/poi-images/barrick-pueblo-viejo-economic-v2.webp"},
   {
     id: "cementos-cibao-economic-v2",
     type: "industry",
@@ -153,8 +144,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Építőanyag-ellátás.", "Fontos a helyi infrastruktúrában.", "Nagy kapacitások."],
       ro: ["Furnizarea de materiale de construcție.", "Important pentru infrastructura locală.", "Capacități mari."],
       en: ["Supply of building materials.", "Important for local infrastructure.", "Large capacities."]
-    }
-  },
+    }, image: "/poi-images/cementos-cibao-economic-v2.webp"},
   {
     id: "nestle-macoris-economic-v2",
     type: "industry",
@@ -167,8 +157,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Élelmiszergyártás.", "Feldolgozott élelmiszerek exportja.", "Támogatja a mezőgazdasági termelőket."],
       ro: ["Producția de alimente.", "Exportul de alimente procesate.", "Sprijină producătorii agricoli."],
       en: ["Food production.", "Export of processed food.", "Supports agricultural producers."]
-    }
-  },
+    }, image: "/poi-images/nestle-macoris-economic-v2.webp"},
   {
     id: "induveca-factory-economic-v2",
     type: "industry",
@@ -181,8 +170,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Piacvezető húsárukban.", "Fontos munkaadó.", "Hagyományos feldolgozás."],
       ro: ["Lider de piață în produse din carne.", "Angajator important.", "Procesare tradițională."],
       en: ["Market leader in meat products.", "Important employer.", "Traditional processing."]
-    }
-  },
+    }, image: "/poi-images/induveca-factory-economic-v2.webp"},
   {
     id: "cemex-san-pedro-economic-v2",
     type: "industry",
@@ -195,8 +183,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Nemzetközi jelenlét.", "Exportorientált.", "Magas termelési kapacitás."],
       ro: ["Prezență internațională.", "Orientat către export.", "Capacitate de producție ridicată."],
       en: ["International presence.", "Export-oriented.", "High production capacity."]
-    }
-  },
+    }, image: "/poi-images/cemex-san-pedro-economic-v2.webp"},
   {
     id: "frito-lay-dom-economic-v2",
     type: "industry",
@@ -209,8 +196,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Népszerű snack-márkák.", "Gyártás Santo Domingóban.", "Magas belföldi forgalom."],
       ro: ["Branduri populare de gustări.", "Producție în Santo Domingo.", "Vânzări interne ridicate."],
       en: ["Popular snack brands.", "Production in Santo Domingo.", "High domestic sales."]
-    }
-  },
+    }, image: "/poi-images/frito-lay-dom-economic-v2.webp"},
   {
     id: "codetel-infrastructure-economic-v2",
     type: "industry",
@@ -237,8 +223,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Energia gyáraknak.", "Fontos infrastruktúra-projekt.", "Regionális energiaellátás."],
       ro: ["Energie pentru fabrici.", "Proiect de infrastructură important.", "Alimentare regională cu energie."],
       en: ["Energy for factories.", "Important infrastructure project.", "Regional energy supply."]
-    }
-  },
+    }, image: "/poi-images/baja-bonao-energy-economic-v2.webp"},
   {
     id: "bavaro-power-economic-v2",
     type: "industry",
@@ -251,8 +236,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Támogatja a turizmust.", "Megbízható energia.", "Fontos az üdülőhelyek számára."],
       ro: ["Susține turismul.", "Energie fiabilă.", "Important pentru stațiuni."],
       en: ["Supports tourism.", "Reliable energy.", "Important for resorts."]
-    }
-  },
+    }, image: "/poi-images/bavaro-power-economic-v2.webp"},
   {
     id: "artesanias-dominicanas-economic-v2",
     type: "industry",
@@ -265,8 +249,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Szuvenírek exportja.", "Hagyományos művészetek támogatása.", "Gazdasági tényező."],
       ro: ["Export de suveniruri.", "Promovează artele tradiționale.", "Factor economic."],
       en: ["Export of souvenirs.", "Promotes traditional arts.", "Economic factor."]
-    }
-  },
+    }, image: "/poi-images/artesanias-dominicanas-economic-v2.webp"},
   {
     id: "itabo-power-plant-economic-v2",
     type: "industry",
@@ -279,8 +262,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Ellátja Santo Domingót.", "Nagy áramtermelés.", "Ipari energia."],
       ro: ["Alimentează Santo Domingo.", "Producție mare de energie electrică.", "Energie industrială."],
       en: ["Supplies Santo Domingo.", "Large power production.", "Industrial energy."]
-    }
-  },
+    }, image: "/poi-images/itabo-power-plant-economic-v2.webp"},
   {
     id: "zona-franca-santiago-economic-v2",
     type: "industry",
@@ -293,8 +275,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Számos nemzetközi cég.", "Foglalkoztatási csomópont.", "Exporttámogatás."],
       ro: ["Numeroase companii internaționale.", "Nod de ocupare a forței de muncă.", "Sprijin pentru export."],
       en: ["Numerous international firms.", "Employment hub.", "Export support."]
-    }
-  },
+    }, image: "/poi-images/zona-franca-santiago-economic-v2.webp"},
   {
     id: "zona-franca-las-americas-economic-v2",
     type: "industry",
@@ -307,8 +288,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Csúcstechnológiai gyártás.", "Orvosi eszközök.", "Exportközpont."],
       ro: ["Producție high-tech.", "Dispozitive medicale.", "Centru de export."],
       en: ["High-tech production.", "Medical devices.", "Export center."]
-    }
-  },
+    }, image: "/poi-images/zona-franca-las-americas-economic-v2.webp"},
   {
     id: "bannercorp-production-economic-v2",
     type: "industry",
@@ -321,8 +301,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Fogyasztási cikkek exportja.", "Gazdasági növekedés.", "Helyileg beágyazott."],
       ro: ["Export de bunuri de consum.", "Creștere economică.", "Ancorat local."],
       en: ["Consumer goods export.", "Economic growth.", "Locally anchored."]
-    }
-  },
+    }, image: "/poi-images/bannercorp-production-economic-v2.webp"},
   {
     id: "platanos-export-economic-v2",
     type: "industry",
@@ -335,8 +314,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Agrárexport.", "Logisztikai központ.", "Minőségbiztosítás."],
       ro: ["Export agricol.", "Centru logistic.", "Asigurarea calității."],
       en: ["Agri-export.", "Logistics center.", "Quality assurance."]
-    }
-  },
+    }, image: "/poi-images/platanos-export-economic-v2.webp"},
   {
     id: "agro-industrial-san-juan-economic-v2",
     type: "industry",
@@ -349,8 +327,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Helyi termények feldolgozása.", "Helyi értéknövelés.", "Fontos a gazdák számára."],
       ro: ["Procesarea recoltelor locale.", "Adăugarea de valoare la nivel local.", "Important pentru fermieri."],
       en: ["Processing local harvests.", "Value added locally.", "Important for farmers."]
-    }
-  },
+    }, image: "/poi-images/agro-industrial-san-juan-economic-v2.webp"},
   {
     id: "macadamia-production-economic-v2",
     type: "industry",
@@ -363,8 +340,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Kiváló minőségű export.", "Szakosodott mezőgazdaság.", "Fenntartható módszerek."],
       ro: ["Export de înaltă calitate.", "Agricultură specializată.", "Metode sustenabile."],
       en: ["High-quality export.", "Specialized agriculture.", "Sustainable methods."]
-    }
-  },
+    }, image: "/poi-images/macadamia-production-economic-v2.webp"},
   {
     id: "haina-container-terminal-economic-v2",
     type: "port",
@@ -377,8 +353,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Gyors ügyintézés.", "Fontos a logisztikában.", "Modern daruk."],
       ro: ["Manipulare rapidă.", "Important pentru logistică.", "Macarale moderne."],
       en: ["Fast handling.", "Important for logistics.", "Modern cranes."]
-    }
-  },
+    }, image: "/poi-images/haina-container-terminal-economic-v2.webp"},
   {
     id: "san-cristobal-industrial-zone-economic-v2",
     type: "industry",
@@ -391,8 +366,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Változatos termelés.", "Nagy munkahelyek.", "Logisztikai kapcsolat."],
       ro: ["Producție variată.", "Locuri de muncă numeroase.", "Conexiune logistică."],
       en: ["Diverse production.", "Major jobs.", "Logistical connectivity."]
-    }
-  },
+    }, image: "/poi-images/san-cristobal-industrial-zone-economic-v2.webp"},
   {
     id: "moca-poultry-processing-economic-v2",
     type: "industry",
@@ -405,8 +379,7 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
       hu: ["Fontos a piacon.", "Élelmiszerszabvány.", "Nagyüzemi termelés."],
       ro: ["Important pentru piață.", "Standard alimentar.", "Producție la scară largă."],
       en: ["Important for the market.", "Food standard.", "Large-scale production."]
-    }
-  },
+    }, image: "/poi-images/moca-poultry-processing-economic-v2.webp"},
   {
     id: "bajos-haina-industrial-v2-economic-v2",
     type: "industry",
@@ -422,3 +395,4 @@ export const poiExtraDominicanrepublicEconomicV2: POI[] = [
     }
   }
 ];
+

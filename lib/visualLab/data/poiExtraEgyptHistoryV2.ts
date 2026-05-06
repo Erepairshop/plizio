@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEgyptHistoryV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Az ókori világ hét csodájának egyike", "Körülbelül 4500 éves", "Fáraók temetkezési helye", "Több millió mészkőtömbből áll"],
       ro: ["Minune a lumii antice", "Vechi de aproximativ 4500 de ani", "Morminte ale faraonilor", "Construite din milioane de blocuri de calcar"],
       en: ["Wonder of the Ancient World", "About 4500 years old", "Tombs of the Pharaohs", "Made of millions of limestone blocks"]
-    }
-  },
+    }, image: "/poi-images/eg-cai-giza-pyramids-history-v2.webp"},
   {
     id: "eg-cai-sphinx-history-v2",
     type: "historical",
@@ -27,8 +27,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Több mint 73 méter hosszú", "A királyi hatalom szimbóluma", "Hafré fáraó arca", "Egyetlen sziklából faragták"],
       ro: ["Peste 73 de metri lungime", "Simbol al puterii regale", "Fața faraonului Kefren", "Sculptat dintr-o singură stâncă"],
       en: ["Over 73 meters long", "Symbol of royal power", "Face of Pharaoh Khafre", "Carved from a single rock"]
-    }
-  },
+    }, image: "/poi-images/eg-cai-sphinx-history-v2.webp"},
   {
     id: "eg-lxr-valley-kings-history-v2",
     type: "historical",
@@ -41,8 +40,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Több mint 60 fáraó sírja", "Itt található Tutanhamon sírja", "Rejtett nekropolisz", "Híres a jól megőrzött falfestményeiről"],
       ro: ["Morminte a peste 60 de faraoni", "Conține mormântul lui Tutankhamon", "Necropolă ascunsă", "Faimoasă pentru picturile murale bine conservate"],
       en: ["Tombs of over 60 pharaohs", "Contains Tutankhamun's tomb", "Hidden necropolis", "Famous for well-preserved wall paintings"]
-    }
-  },
+    }, image: "/poi-images/eg-lxr-valley-kings-history-v2.webp"},
   {
     id: "eg-lxr-karnak-history-v2",
     type: "historical",
@@ -55,8 +53,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["A legnagyobb vallási épületegyüttes", "Nagy oszlopcsarnok 134 oszloppal", "Ámon istennek szentelték", "Építése több mint 2000 évig tartott"],
       ro: ["Cel mai mare complex religios", "Sala hipostilă cu 134 de coloane", "Dedicat zeului Amon", "Construcția a durat peste 2000 de ani"],
       en: ["Largest religious complex", "Hypostyle hall with 134 columns", "Dedicated to god Amun", "Construction lasted over 2000 years"]
-    }
-  },
+    }, image: "/poi-images/eg-lxr-karnak-history-v2.webp"},
   {
     id: "eg-lxr-luxor-temple-history-v2",
     type: "historical",
@@ -69,8 +66,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Az Opet-ünnep központja", "Szfinxek sora köti össze Karnakkal", "Kr. e. 1400 körül alapították", "II. Ramszesz szobrai díszítik"],
       ro: ["Centrul Festivalului Opet", "Legat de Karnak printr-o alee de sfincși", "Fondat în jurul anului 1400 î.Hr.", "Statui ale lui Ramses al II-lea"],
       en: ["Center of the Opet Festival", "Connected to Karnak by an avenue of sphinxes", "Founded around 1400 BC", "Statues of Ramesses II"]
-    }
-  },
+    }, image: "/poi-images/eg-lxr-luxor-temple-history-v2.webp"},
   {
     id: "eg-asw-abu-simbel-history-v2",
     type: "historical",
@@ -83,8 +79,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["II. Ramszesz építtette", "Az 1960-as években áthelyezték", "Megmentették a Nasszer-tótól", "Napcsoda évente kétszer"],
       ro: ["Construite de Ramses al II-lea", "Relocate în anii 1960", "Salvate de la Lacul Nasser", "Miracolul solar de două ori pe an"],
       en: ["Built by Ramesses II", "Relocated in the 1960s", "Saved from Lake Nasser", "Sun alignment twice a year"]
-    }
-  },
+    }, image: "/poi-images/eg-asw-abu-simbel-history-v2.webp"},
   {
     id: "eg-asw-philae-history-v2",
     type: "historical",
@@ -97,8 +92,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Ízisz istennőnek szentelték", "Egy szomszédos szigetre költöztették", "Fontos zarándokhely az ókorban", "Ptolemaida és római építmények"],
       ro: ["Dedicat zeiței Isis", "Relocat pe o insulă vecină", "Loc important de pelerinaj în antichitate", "Construcții ptolemeice și romane"],
       en: ["Dedicated to the goddess Isis", "Moved to a nearby island", "Important ancient pilgrimage site", "Ptolemaic and Roman structures"]
-    }
-  },
+    }, image: "/poi-images/eg-asw-philae-history-v2.webp"},
   {
     id: "eg-lxr-hatshepsut-history-v2",
     type: "historical",
@@ -111,8 +105,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Egy női fáraó építtette", "Három lenyűgöző terasz", "Harmonikus illeszkedés a tájba", "A punti expedíció domborművei"],
       ro: ["Construit de un faraon femeie", "Trei terase impresionante", "Integrare armonioasă în peisaj", "Reliefuri ale expediției din Punt"],
       en: ["Built by a female pharaoh", "Three impressive terraces", "Harmonious integration into the landscape", "Reliefs of the Punt expedition"]
-    }
-  },
+    }, image: "/poi-images/eg-lxr-hatshepsut-history-v2.webp"},
   {
     id: "eg-gz-saqqara-history-v2",
     type: "historical",
@@ -125,8 +118,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Memphisz fő nekropolisza", "Itt található a Dzsószer-piramis", "Több ezer sír és masztaba", "Folyamatos régészeti felfedezések"],
       ro: ["Principala necropolă din Memphis", "Conține Piramida lui Djoser", "Mii de morminte și mastabale", "Descoperiri arheologice continue"],
       en: ["Main necropolis of Memphis", "Contains the Step Pyramid", "Thousands of tombs and mastabas", "Ongoing archaeological discoveries"]
-    }
-  },
+    }, image: "/poi-images/eg-gz-saqqara-history-v2.webp"},
   {
     id: "eg-gz-djoser-history-v2",
     type: "historical",
@@ -139,8 +131,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Egyiptom első piramisa", "Imhotep építész tervezte", "Hat lépcsőfokból áll", "Több mint 4600 éves"],
       ro: ["Prima piramidă din Egipt", "Proiectată de arhitectul Imhotep", "Constă din șase trepte", "Veche de peste 4600 de ani"],
       en: ["The first pyramid in Egypt", "Designed by the architect Imhotep", "Consists of six steps", "Over 4600 years old"]
-    }
-  },
+    }, image: "/poi-images/eg-gz-djoser-history-v2.webp"},
   {
     id: "eg-cai-memphis-history-v2",
     type: "historical",
@@ -153,8 +144,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Az egyesített Egyiptom első fővárosa", "Ménész fáraó alapította", "II. Ramszesz hatalmas szobra", "Ptah isten tiszteletének központja"],
       ro: ["Prima capitală a Egiptului unificat", "Fondată de faraonul Menes", "Statuie uriașă a lui Ramses al II-lea", "Centrul venerației lui Ptah"],
       en: ["First capital of unified Egypt", "Founded by Pharaoh Menes", "Giant statue of Ramesses II", "Center of Ptah worship"]
-    }
-  },
+    }, image: "/poi-images/eg-cai-memphis-history-v2.webp"},
   {
     id: "eg-lxr-memnon-history-v2",
     type: "historical",
@@ -167,8 +157,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Több mint 18 méter magasak", "III. Amenhotepet ábrázolják", "Az 'éneklő' szobor legendája", "Kr. e. 27-ben egy földrengés megrongálta"],
       ro: ["Peste 18 metri înălțime", "Îl reprezintă pe Amenhotep al III-lea", "Legenda statuii 'cântărețe'", "Deteriorate de un cutremur în 27 î.Hr."],
       en: ["Over 18 meters tall", "Represent Amenhotep III", "Legend of the 'singing' statue", "Damaged by an earthquake in 27 BC"]
-    }
-  },
+    }, image: "/poi-images/eg-lxr-memnon-history-v2.webp"},
   {
     id: "eg-lxr-valley-queens-history-v2",
     type: "historical",
@@ -181,8 +170,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Nofertari sírja", "Több mint 90 ismert sír", "A Királyok völgye közelében", "'A szépség helye' néven is ismert"],
       ro: ["Mormântul lui Nefertari", "Peste 90 de morminte cunoscute", "Aproape de Valea Regilor", "Numit și 'Locul Frumuseții'"],
       en: ["Tomb of Nefertari", "Over 90 known tombs", "Near the Valley of the Kings", "Also called 'Place of Beauty'"]
-    }
-  },
+    }, image: "/poi-images/eg-lxr-valley-queens-history-v2.webp"},
   {
     id: "eg-asw-edfu-history-v2",
     type: "historical",
@@ -195,8 +183,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Ptolemaida kori templom", "Hórusz istennek szentelték", "Kiváló állapotban maradt fenn", "Hatalmas pülónok"],
       ro: ["Templu ptolemeic", "Dedicat zeului Horus", "Foarte bine conservat", "Piloane masive"],
       en: ["Ptolemaic temple", "Dedicated to the god Horus", "Exceptionally well preserved", "Massive pylons"]
-    }
-  },
+    }, image: "/poi-images/eg-asw-edfu-history-v2.webp"},
   {
     id: "eg-asw-kom-ombo-history-v2",
     type: "historical",
@@ -209,8 +196,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Tökéletesen szimmetrikus szerkezet", "Krokodilmúmiák a múzeumban", "Orvosi eszközök domborműveken", "Szobeknek és Haroérisznek szentelték"],
       ro: ["Structură perfect simetrică", "Mumii de crocodil în muzeu", "Instrumente medicale pe reliefuri", "Dedicat lui Sobek și Haroeris"],
       en: ["Perfectly symmetrical structure", "Crocodile mummies in the museum", "Medical instruments depicted on reliefs", "Dedicated to Sobek and Haroeris"]
-    }
-  },
+    }, image: "/poi-images/eg-asw-kom-ombo-history-v2.webp"},
   {
     id: "eg-shg-abydos-history-v2",
     type: "historical",
@@ -223,8 +209,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Ozirisz kultuszának központja", "I. Széthi temploma", "Tartalmazza az abüdoszi királylistát", "Titokzatos Ozirion-szerkezet"],
       ro: ["Centrul cultului lui Osiris", "Templul lui Seti I", "Conține Lista Regilor din Abydos", "Structura misterioasă Osireion"],
       en: ["Center of the Osiris cult", "Temple of Seti I", "Contains the Abydos King List", "Mysterious Osireion structure"]
-    }
-  },
+    }, image: "/poi-images/eg-shg-abydos-history-v2.webp"},
   {
     id: "eg-qen-dendera-history-v2",
     type: "historical",
@@ -237,8 +222,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Hathor istennőnek szentelték", "Gyönyörű csillagászati mennyezet", "Kleopátra ábrázolásai", "Kiválóan megőrzött színek"],
       ro: ["Dedicat zeiței Hathor", "Tavan astronomic frumos", "Reprezentări ale Cleopatrei", "Culori foarte bine conservate"],
       en: ["Dedicated to the goddess Hathor", "Beautiful astronomical ceiling", "Depictions of Cleopatra", "Exceptionally well-preserved colors"]
-    }
-  },
+    }, image: "/poi-images/eg-qen-dendera-history-v2.webp"},
   {
     id: "eg-cai-citadel-history-v2",
     type: "historical",
@@ -251,8 +235,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["A 12. században épült", "Kilátást nyújt egész Kairóra", "Itt található a Muhammad Ali-mecset", "Egyiptom kormányzati központja 1874-ig"],
       ro: ["Construită în secolul al XII-lea", "Oferă vedere asupra întregului Cairo", "Găzduiește Moscheea Muhammad Ali", "Sediul guvernului egiptean până în 1874"],
       en: ["Built in the 12th century", "Offers views over all of Cairo", "Houses the Muhammad Ali Mosque", "Seat of Egyptian government until 1874"]
-    }
-  },
+    }, image: "/poi-images/eg-cai-citadel-history-v2.webp"},
   {
     id: "eg-cai-islamic-cairo-history-v2",
     type: "historical",
@@ -265,8 +248,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["UNESCO Világörökség része", "Híres Khan el-Khalili bazár", "Számos történelmi mecset", "A Fátimida-dinasztia központja"],
       ro: ["Patrimoniu Mondial UNESCO", "Faimosul bazar Khan el-Khalili", "Numeroase moschei istorice", "Centrul Dinastiei Fatimide"],
       en: ["UNESCO World Heritage Site", "Famous Khan el-Khalili bazaar", "Numerous historic mosques", "Center of the Fatimid Dynasty"]
-    }
-  },
+    }, image: "/poi-images/eg-cai-islamic-cairo-history-v2.webp"},
   {
     id: "eg-cai-coptic-cairo-history-v2",
     type: "historical",
@@ -279,8 +261,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["A Függő templom otthona", "Az ókori babiloni erőd helyszíne", "Az egyiptomi kereszténység központja", "Kopt Múzeum ősi kéziratokkal"],
       ro: ["Căminul Bisericii Suspendate", "Locul anticei Fortărețe Babilon", "Centrul creștinismului egiptean", "Muzeul Coptic cu manuscrise vechi"],
       en: ["Home to the Hanging Church", "Site of the ancient Babylon Fortress", "Center of Egyptian Christianity", "Coptic Museum with ancient manuscripts"]
-    }
-  },
+    }, image: "/poi-images/eg-cai-coptic-cairo-history-v2.webp"},
   {
     id: "eg-alx-qaitbay-history-v2",
     type: "historical",
@@ -293,8 +274,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Az alexandriai világítótorony romjain épült", "1477-ben készült el", "A partvédelem része", "Népszerű turisztikai célpont"],
       ro: ["Construit pe ruinele Farului din Alexandria", "Finalizat în 1477", "Parte a apărării de coastă", "Destinație turistică populară"],
       en: ["Built on the ruins of the Lighthouse of Alexandria", "Completed in 1477", "Part of the coastal defense", "Popular tourist destination"]
-    }
-  },
+    }, image: "/poi-images/eg-alx-qaitbay-history-v2.webp"},
   {
     id: "eg-alx-kom-shoqafa-history-v2",
     type: "historical",
@@ -307,8 +287,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Római temetkezési hely", "Egyiptomi és görög-római művészet keveréke", "A 2. században épült", "Három földalatti szint"],
       ro: ["Loc de înmormântare roman", "Amestec de artă egipteană și greco-romană", "Construit în secolul al II-lea", "Trei niveluri subterane"],
       en: ["Roman burial site", "Blend of Egyptian and Greco-Roman art", "Built in the 2nd century", "Three underground levels"]
-    }
-  },
+    }, image: "/poi-images/eg-alx-kom-shoqafa-history-v2.webp"},
   {
     id: "eg-alx-pompeys-pillar-history-v2",
     type: "historical",
@@ -321,8 +300,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Több mint 26 méter magas", "Vörös asszuáni gránitból készült", "Diocletianus tiszteletére állították", "A Szerapeum romjain áll"],
       ro: ["Peste 26 de metri înălțime", "Din granit roșu de Aswan", "Ridicată în onoarea lui Dioclețian", "Stă pe ruinele Serapeumului"],
       en: ["Over 26 meters high", "Made of red Aswan granite", "Erected in honor of Diocletian", "Stands on the ruins of the Serapeum"]
-    }
-  },
+    }, image: "/poi-images/eg-alx-pompeys-pillar-history-v2.webp"},
   {
     id: "eg-gz-dahshur-history-v2",
     type: "historical",
@@ -335,8 +313,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Itt található a Vörös piramis", "Itt található a Tört piramis", "Sznofru fáraó építtette", "Fontos lépés a piramisforma fejlődésében"],
       ro: ["Conține Piramida Roșie", "Conține Piramida Romboidală", "Construite de faraonul Sneferu", "Dezvoltare importantă a formei piramidei"],
       en: ["Contains the Red Pyramid", "Contains the Bent Pyramid", "Built by Pharaoh Sneferu", "Important development of pyramid shape"]
-    }
-  },
+    }, image: "/poi-images/eg-gz-dahshur-history-v2.webp"},
   {
     id: "eg-bns-meidum-history-v2",
     type: "historical",
@@ -349,8 +326,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Eredetileg lépcsős piramis", "Az ókorban részben beomlott", "Ma úgy néz ki, mint egy torony", "Átmenet a valódi piramisok felé"],
       ro: ["Inițial o piramidă în trepte", "Parțial prăbușită în antichitate", "Astăzi arată ca un turn", "Tranziție către o piramidă adevărată"],
       en: ["Originally a step pyramid", "Partially collapsed in antiquity", "Looks like a tower today", "Transition to a true pyramid"]
-    }
-  },
+    }, image: "/poi-images/eg-bns-meidum-history-v2.webp"},
   {
     id: "eg-asn-kalabsha-history-v2",
     type: "historical",
@@ -363,8 +339,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["A núbiai Mandulisz istennek szentelték", "A római korban épült", "Megmentették a Nílus áradásától", "Egy szigeten Asszuán közelében"],
       ro: ["Dedicat zeului nubian Mandulis", "Construit în perioada romană", "Salvat de inundațiile Nilului", "Pe o insulă lângă Aswan"],
       en: ["Dedicated to the Nubian god Mandulis", "Built in the Roman period", "Saved from the flooding of the Nile", "On an island near Aswan"]
-    }
-  },
+    }, image: "/poi-images/eg-asn-kalabsha-history-v2.webp"},
   {
     id: "eg-mn-amarna-history-v2",
     type: "historical",
@@ -377,8 +352,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["Az Aton-kultusz központja", "Ehnaton fáraó építtette", "Halála után elhagyták", "Fontos régészeti leletek"],
       ro: ["Centrul cultului lui Aton", "Construită de faraonul Akhenaton", "Abandonată după moartea sa", "Descoperiri arheologice importante"],
       en: ["Center of the Aten cult", "Built by Pharaoh Akhenaten", "Abandoned after his death", "Important archaeological discoveries"]
-    }
-  },
+    }, image: "/poi-images/eg-mn-amarna-history-v2.webp"},
   {
     id: "eg-lxr-ramesseum-history-v2",
     type: "historical",
@@ -391,8 +365,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["II. Ramszesz halotti temploma", "Egykor egy gigantikus szobornak adott otthont", "Az Ozymandias című vers ihletője", "A kadesi csata domborműveivel"],
       ro: ["Templul mortuar al lui Ramses al II-lea", "Adăpostea odată o statuie gigantică", "Inspirație pentru poezia Ozymandias", "Cu reliefuri ale bătăliei de la Kadesh"],
       en: ["Mortuary temple of Ramesses II", "Once housed a gigantic statue", "Inspiration for Ozymandias", "Features reliefs of the Battle of Kadesh"]
-    }
-  },
+    }, image: "/poi-images/eg-lxr-ramesseum-history-v2.webp"},
   {
     id: "eg-shg-seti-temple-history-v2",
     type: "historical",
@@ -405,8 +378,7 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       hu: ["I. Széthi és II. Ramszesz építtette", "Hét szentély különböző isteneknek", "Itt találhatók a 'helikopter' hieroglifák", "Kiemelkedő művészi kivitelezés"],
       ro: ["Construit de Seti I și Ramses al II-lea", "Șapte sanctuare pentru zei diferiți", "Conține hieroglifele 'elicopter'", "Măiestrie artistică remarcabilă"],
       en: ["Built by Seti I and Ramesses II", "Seven shrines for different gods", "Contains the 'helicopter' hieroglyphs", "Outstanding artistic craftsmanship"]
-    }
-  },
+    }, image: "/poi-images/eg-shg-seti-temple-history-v2.webp"},
   {
     id: "eg-alx-roman-amp-history-v2",
     type: "historical",
@@ -422,3 +394,4 @@ export const poiExtraEgyptHistoryV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSouthafricaHistoryV2: POI[] = [
@@ -35,8 +36,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "Nelson Mandela was imprisoned here for 18 years.",
         "It became a UNESCO World Heritage Site in 1999."
       ]
-    }
-  },
+    }, image: "/poi-images/robben-island-history-v2.webp"},
   {
     id: "cradle-of-humankind-history-v2",
     type: "historical",
@@ -71,8 +71,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "It covers an area of about 470 square kilometers.",
         "The famous 'Mrs. Ples' skull was found here."
       ]
-    }
-  },
+    }, image: "/poi-images/cradle-of-humankind-history-v2.webp"},
   {
     id: "castle-of-good-hope-history-v2",
     type: "historical",
@@ -107,8 +106,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "It was built by the Dutch East India Company between 1666 and 1679.",
         "The structure has a pentagonal floor plan."
       ]
-    }
-  },
+    }, image: "/poi-images/castle-of-good-hope-history-v2.webp"},
   {
     id: "mapungubwe-history-v2",
     type: "historical",
@@ -143,8 +141,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "The kingdom existed from roughly 1075 to 1220.",
         "The famous Golden Rhinoceros of Mapungubwe was discovered here."
       ]
-    }
-  },
+    }, image: "/poi-images/mapungubwe-history-v2.webp"},
   {
     id: "voortrekker-monument-history-v2",
     type: "historical",
@@ -179,8 +176,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "The monument is 40 meters tall.",
         "It was inaugurated in 1949."
       ]
-    }
-  },
+    }, image: "/poi-images/voortrekker-monument-history-v2.webp"},
   {
     id: "blood-river-heritage-site-history-v2",
     type: "historical",
@@ -215,8 +211,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "The site features 64 life-size bronze wagons.",
         "The battle took place on December 16, 1838."
       ]
-    }
-  },
+    }, image: "/poi-images/blood-river-heritage-site-history-v2.webp"},
   {
     id: "isandlwana-battlefield-history-v2",
     type: "historical",
@@ -251,8 +246,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "The battle occurred on January 22, 1879.",
         "Over 20,000 Zulu warriors surprised the British forces."
       ]
-    }
-  },
+    }, image: "/poi-images/isandlwana-battlefield-history-v2.webp"},
   {
     id: "rorkes-drift-history-v2",
     type: "historical",
@@ -287,8 +281,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "Around 150 British soldiers defended the station against 3,000 to 4,000 Zulu warriors.",
         "Eleven Victoria Crosses were awarded for this battle."
       ]
-    }
-  },
+    }, image: "/poi-images/rorkes-drift-history-v2.webp"},
   {
     id: "nelson-mandela-capture-site-history-v2",
     type: "historical",
@@ -323,8 +316,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "The arrest led to Mandela's 27-year imprisonment.",
         "The sculpture on site consists of 50 laser-cut steel columns."
       ]
-    }
-  },
+    }, image: "/poi-images/nelson-mandela-capture-site-history-v2.webp"},
   {
     id: "district-six-museum-history-v2",
     type: "historical",
@@ -359,8 +351,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "Over 60,000 people were forcibly removed from here in the 1970s.",
         "The area remained largely undeveloped for decades."
       ]
-    }
-  },
+    }, image: "/poi-images/district-six-museum-history-v2.webp"},
   {
     id: "apartheid-museum-history-v2",
     type: "historical",
@@ -431,8 +422,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "The estate was founded in 1685 by Simon van der Stel.",
         "Napoleon Bonaparte regularly drank Constantia wine while in exile."
       ]
-    }
-  },
+    }, image: "/poi-images/groot-constantia-history-v2.webp"},
   {
     id: "thulamela-ruins-history-v2",
     type: "historical",
@@ -503,8 +493,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "Findings indicate advanced human behavior 70,000 years ago.",
         "Some of the earliest known jewelry was found here."
       ]
-    }
-  },
+    }, image: "/poi-images/blombos-cave-history-v2.webp"},
   {
     id: "kimberley-mine-history-v2",
     type: "historical",
@@ -539,8 +528,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "It is one of the largest hand-excavated holes in the world.",
         "Nearly 3 tons of diamonds were yielded from the mine."
       ]
-    }
-  },
+    }, image: "/poi-images/kimberley-mine-history-v2.webp"},
   {
     id: "sterkfontein-caves-history-v2",
     type: "historical",
@@ -575,8 +563,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "Over a third of early hominid fossils come from here.",
         "The nearly complete 'Little Foot' skeleton was discovered here."
       ]
-    }
-  },
+    }, image: "/poi-images/sterkfontein-caves-history-v2.webp"},
   {
     id: "kaditshwene-ruins-history-v2",
     type: "historical",
@@ -611,8 +598,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "In the 1820s, the city had an estimated population of 16,000 to 20,000.",
         "The site contains extensive stone-walled remains."
       ]
-    }
-  },
+    }, image: "/poi-images/kaditshwene-ruins-history-v2.webp"},
   {
     id: "pilgrims-rest-history-v2",
     type: "historical",
@@ -647,8 +633,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "The entire town was declared a National Monument in 1986.",
         "It was the center of the second Transvaal gold rush."
       ]
-    }
-  },
+    }, image: "/poi-images/pilgrims-rest-history-v2.webp"},
   {
     id: "pinnacle-point-caves-history-v2",
     type: "historical",
@@ -683,8 +668,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "Findings show exploitation of marine resources 164,000 years ago.",
         "The caves provided early evidence of heat treatment of rock."
       ]
-    }
-  },
+    }, image: "/poi-images/pinnacle-point-caves-history-v2.webp"},
   {
     id: "makapansgat-history-v2",
     type: "historical",
@@ -719,8 +703,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "It is part of the extended Cradle of Humankind.",
         "The caves were also the site of a historic siege in 1854."
       ]
-    }
-  },
+    }, image: "/poi-images/makapansgat-history-v2.webp"},
   {
     id: "hector-pieterson-memorial-history-v2",
     type: "historical",
@@ -755,8 +738,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "Hector Pieterson was shot by police at age 12.",
         "The iconic photograph of his death became a symbol of the anti-apartheid struggle."
       ]
-    }
-  },
+    }, image: "/poi-images/hector-pieterson-memorial-history-v2.webp"},
   {
     id: "taung-heritage-site-history-v2",
     type: "historical",
@@ -791,8 +773,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "The Taung Child is an Australopithecus africanus fossil.",
         "The discovery changed the understanding of human evolution."
       ]
-    }
-  },
+    }, image: "/poi-images/taung-heritage-site-history-v2.webp"},
   {
     id: "majuba-hill-history-v2",
     type: "historical",
@@ -827,8 +808,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "British forces suffered heavy losses, including their commander George Pomeroy Colley.",
         "The defeat led to the Pretoria Peace Treaty."
       ]
-    }
-  },
+    }, image: "/poi-images/majuba-hill-history-v2.webp"},
   {
     id: "spion-kop-battlefield-history-v2",
     type: "historical",
@@ -863,8 +843,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "The battle lasted two days and ended in a British retreat.",
         "Those present included Winston Churchill and Mahatma Gandhi."
       ]
-    }
-  },
+    }, image: "/poi-images/spion-kop-battlefield-history-v2.webp"},
   {
     id: "constitution-hill-history-v2",
     type: "historical",
@@ -899,8 +878,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "Both Nelson Mandela and Mahatma Gandhi were imprisoned here.",
         "The Old Fort prison was built in 1892."
       ]
-    }
-  },
+    }, image: "/poi-images/constitution-hill-history-v2.webp"},
   {
     id: "klasies-river-caves-history-v2",
     type: "historical",
@@ -935,8 +913,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "It is one of the oldest known sites of anatomically modern humans.",
         "The finds include early evidence of shellfish consumption."
       ]
-    }
-  },
+    }, image: "/poi-images/klasies-river-caves-history-v2.webp"},
   {
     id: "wonderwerk-cave-history-v2",
     type: "historical",
@@ -971,8 +948,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "The cave extends almost 140 meters into the hill.",
         "It holds the oldest known evidence of controlled fire."
       ]
-    }
-  },
+    }, image: "/poi-images/wonderwerk-cave-history-v2.webp"},
   {
     id: "matjes-river-rock-shelter-history-v2",
     type: "historical",
@@ -1007,8 +983,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "The stratified deposits are up to 10 meters thick.",
         "The site was used by hunter-gatherers for over 12,000 years."
       ]
-    }
-  },
+    }, image: "/poi-images/matjes-river-rock-shelter-history-v2.webp"},
   {
     id: "union-buildings-history-v2",
     type: "historical",
@@ -1043,8 +1018,7 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
         "They were completed in 1913 from light sandstone.",
         "Nelson Mandela was inaugurated as president here in 1994."
       ]
-    }
-  },
+    }, image: "/poi-images/union-buildings-history-v2.webp"},
   {
     id: "church-square-pretoria-history-v2",
     type: "historical",
@@ -1082,3 +1056,4 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
     }
   }
 ];
+

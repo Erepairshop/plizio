@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraAlgeriaHistoryV2: POI[] = [
@@ -23,8 +24,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Krisztus után 100-ban alapították.", "1982 óta UNESCO világörökség."],
       ro: ["Fondat în anul 100 d.Hr.", "Patrimoniul Mondial UNESCO din 1982."],
       en: ["Founded in 100 AD.", "UNESCO World Heritage Site since 1982."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Timgad, az ókori Thamugadi, a Római Birodalom egyik legjobb állapotban fennmaradt városa. Traianus császár alapította Kr. u. 100 körül. Rácsos utcaszerkezete tökéletesen megmaradt. Lenyűgöző diadalív, színház és könyvtár romjai is láthatók. UNESCO Világörökségi helyszín. Történelem K6 – Római várostervezés.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["'A sivatag Pompeji'-jeként is emlegetik.", "A Traianus-kapu a város jelképe.", "A színházat ma is használják fesztiválokhoz.", "Egy felirat szerint a helyiek mottója volt: 'Vadászni, fürdeni, játszani, nevetni – ez az élet!'", "A könyvtárban egykor 28 000 tekercs lehetett.", "Homok őrizte meg az évszázadok során."],
+      ro: [],
+      en: []
+    }, image: "/poi-images/timgad-roman-ruins-history-v2.webp"},
   {
     id: "djemila-cuicul-history-v2",
     type: "historical",
@@ -47,8 +59,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Eredeti neve Cuicul volt.", "Római mozaikjairól híres."],
       ro: ["Numit inițial Cuicul.", "Renumit pentru mozaicurile sale romane."],
       en: ["Originally named Cuicul.", "Famous for its Roman mosaics."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Djémila, az ókori Cuicul, egy hegyvidéki római romváros. A 1. század végén alapították. A hegyvidéki terephez igazodó, egyedi elrendezés jellemzi. Két fórum, templomok és gazdagon díszített házak romjai találhatók itt. Múzeuma jelentős mozaikgyűjteménnyel rendelkezik. UNESCO Világörökségi helyszín. Történelem K6 – Római művészet.",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A Legio III Augusta veteránjai alapították.", "A Caracalla-diadalív Kr. u. 216-ban épült.", "A Severus-kori fórum az egyik legimpozánsabb épületegyüttes.", "A múzeum mozaikjai kiváló állapotban maradtak fenn.", "Saját capitoliuma és piaca (macellum) is volt.", "A város neve arabul 'a gyönyörű'-t jelenti."],
+      ro: [],
+      en: []
+    }, image: "/poi-images/djemila-cuicul-history-v2.webp"},
   {
     id: "tipasa-ruins-history-v2",
     type: "historical",
@@ -71,8 +94,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Közvetlenül a Földközi-tenger partján fekszik.", "Föníciai és római maradványokat tartalmaz."],
       ro: ["Situat direct pe Marea Mediterană.", "Conține rămășițe feniciene și romane."],
       en: ["Located right on the Mediterranean Sea.", "Contains Phoenician and Roman remains."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Tipasa az ókori világ egyik különleges gyöngyszeme, ahol a föníciai, pun és római civilizációk emlékei találkoznak a Földközi-tenger azúrkék partjával. A város eredetileg pun kereskedelmi állomásként jött létre, majd a Római Birodalom fontos központjává vált Mauretania Caesariensis provinciában. A romterületen barangolva feltárulnak előttünk a monumentális keresztény bazilikák maradványai, a római színház, az amfiteátrum és a tengerparti villák mozaikjai. Tipasa nemcsak építészeti emlékei, hanem természeti szépsége miatt is megihlette a Nobel-díjas Albert Camus-t. Az UNESCO Világörökség részét képező helyszín kiváló példája az antik városfejlődésnek és a vallási építészet átalakulásának. Történelem K6 – Római városok és kereszténység az ókorban.",
+      ro: "",
+      en: "The archaeological site of Tipasa is a unique ensemble where Punic, Roman, and Byzantine ruins blend seamlessly with the Mediterranean landscape. Originally a Punic trading post, it was transformed into a major Roman colony and a center for early Christianity in North Africa. The ruins, scattered across three hills overlooking the sea, include a massive amphitheater, grand basilicas, and well-preserved Roman villas with intricate mosaics. The site's poetic beauty famously inspired the writer Albert Camus, who celebrated its harmony between nature and history. It is a UNESCO World Heritage site of exceptional value. History K6 – Cultural Synthesis and Classical Archaeology."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A várost eredetileg a föníciaiak alapították kereskedelmi állomásként.", "Claudius császár adományozott római városi jogokat Tipasának.", "A Nagy Bazilika a 4. században épült, és Észak-Afrika egyik legnagyobb keresztény temploma volt.", "A terület 1982 óta az UNESCO Világörökség részét képezi.", "A római színház egyedülálló módon közvetlenül a tengerpart közelében található.", "A város körüli védőfal hossza eredetileg több mint 2 kilométer volt.", "A vandálok 430-ban foglalták el a várost, ami a hanyatlás kezdetét jelentette.", "Albert Camus 'Nász Tipasában' című esszéjében örökítette meg a hely szellemét."],
+      ro: [],
+      en: ["Designated a UNESCO World Heritage site in 1982.", "The Great Basilica is one of the largest early Christian buildings in Africa.", "The Punic necropolis dates back to the 6th century BC.", "Features a Roman theater and a 4th-century amphitheater.", "The site is located about 70 kilometers west of Algiers.", "Albert Camus wrote his famous essay 'Nuptials at Tipasa' here.", "The Royal Mausoleum of Mauretania is located just a few kilometers away.", "Known for its stunning location directly on the coastal cliffs."]
+    }, image: "/poi-images/tipasa-ruins-history-v2.webp"},
   {
     id: "kasbah-algiers-history-v2",
     type: "historical",
@@ -95,8 +129,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["A 16. századból származik.", "A berber kalózok fontos központja volt."],
       ro: ["Datează din secolul al XVI-lea.", "A fost un centru important al corsarilor berberi."],
       en: ["Dates back to the 16th century.", "Was a major center for the Barbary corsairs."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "Algír Kaszbája egy élő történelemkönyv, amely az oszmán építészet és a hagyományos arab városszerkezet lenyűgöző ötvözete. A 16. században virágzó negyed meredek, labirintusszerű utcáival és sűrűn épült fehér házaival emelkedik a tenger fölé. Ez a terület war a berber kalózok és a dey-ek (helyi uralkodók) hatalmi központja, ahol pazar paloták, ősi mecsetek és nyüzsgő piacok váltják egymást. A Kaszba nemcsak a múlt emléke, hanem az algériai ellenállás szimbóluma is a francia gyarmati uralom idején. A szűk sikátorok között sétálva felfedezhetjük a Ketchaoua-mecsetet és a különleges belső udvaros házakat. Történelem K7 – Az Oszmán Birodalom és az iszlám városépítészet.",
+      ro: "",
+      en: "The Kasbah of Algiers is an extraordinary example of a traditional Islamic city, or medina, perched on a steep hill overlooking the Mediterranean. This UNESCO World Heritage site is a dense maze of narrow, winding alleys, whitewashed houses, and magnificent Ottoman-era palaces. It represents the heart of old Algiers, having served as a strategic fortress and the seat of the Deys during the Regency of Algiers. The Kasbah was also a legendary stronghold of the resistance during the Algerian War of Independence. Its unique architecture and social fabric continue to be a vital symbol of national identity. History K7 – Ottoman Urbanism and Resistance."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A Kaszbát 1992-ben nyilvánították az UNESCO Világörökség részévé.", "A negyed legmagasabb pontján található a citadella, amely a dey rezidenciája volt.", "Az utcák olyan szűkek, hogy sok helyen csak szamarakkal lehet közlekedni.", "A terület több mint 10 jelentős történelmi mecsetet foglal magában.", "Az 1827-es 'legyező-incidens' itt történt, ami a francia megszálláshoz vezetett.", "A házak belső udvarai (szahn) segítik a természetes szellőzést a forró nyárban.", "A negyed központi szerepet játszott az 1954-62-es függetlenségi háborúban.", "A Ketchaoua-mecsetet a franciák idején katedrálissá alakították, majd 1962-ben lett ismét mecset."],
+      ro: [],
+      en: ["The 'kasbah' is the old citadel at the highest point of the city.", "Includes spectacular mosques like Ketchaoua and the Great Mosque.", "The Palace of the Deys (Dar as-Sultan) was the center of power.", "The steep streets often consist of stairways known as 'rampes'.", "Played a central role in the 1966 film 'The Battle of Algiers'.", "Declared a UNESCO World Heritage site in 1992.", "Features traditional hammams and vibrant artisan workshops.", "Home to thousands of people living in historic multi-story houses."]
+    }, image: "/poi-images/kasbah-algiers-history-v2.webp"},
   {
     id: "qala-beni-hammad-history-v2",
     type: "historical",
@@ -119,8 +164,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["1007-ben alapították.", "Egy 25 méter magas minarettel rendelkezik."],
       ro: ["Fondat în 1007.", "Are un minaret de 25 de metri înălțime."],
       en: ["Founded in 1007.", "Features a 25-meter-high minaret."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A Qal'a von Beni Hammad romjai a Hodna-hegység vadregényes táján, több mint 1000 méteres magasságban tanúskodnak a Hammádida-dinasztia egykori dicsőségéről. Az 1007-ben alapított város az első fővárosuk volt, és a középkori muszlim építészet egyik legfontosabb észak-afrikai központjává vált. A régészeti feltárások során felszínre kerültek a hatalmas palotakomplexumok, a díszes kertek és Algéria egyik legnagyobb mecsetének maradványai. A 25 méter magas minaret ma is büszkén hirdeti a város hajdani méreteit. Ez az erődített város stratégiai elhelyezkedése miatt fontos védelmi pont is volt a sivatagi útvonalak mentén. Történelem K7 – Iszlám államok és építészet a középkori Maghrebben.",
+      ro: "",
+      en: "The Qal'a of Beni Hammad is the site of the first capital of the Hammadid dynasty, established in 1007 in a dramatic mountain setting. This fortified city was once a brilliant center of Islamic civilization, rivaling the great capitals of the time in its architectural and cultural splendor. The ruins include a massive mosque with a 20-meter high minaret, one of the oldest in the country, and several palaces that reveal sophisticated artistic influences from both the East and the Maghreb. Abandoned in the 12th century, the site remains a powerful testimony to the power and creativity of early Islamic Algeria. History K7 – Medieval Islamic Dynasties."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A várost Hammad ibn Buluggin alapította 1007-ben.", "A mecset udvara egykor 7 hektár területet foglalt el.", "A minaret 25 méter magas, és stílusa a marokkói-andalúz építészet előfutára.", "A 'Csillagpalota' (Palais de l'Étoile) a korszak luxusának egyik legjobb példája.", "A várost 1152-ben az Almohádok pusztították el.", "Az UNESCO 1980-ban vette fel a világörökségi listára.", "A romok között egy hatalmas víztározó maradványai is megtalálhatók.", "A területen végzett ásatások gazdag kerámia- és ékszerleleteket hoztak felszínre."],
+      ro: [],
+      en: ["Founded by Hammad ibn Buluggin on a high plateau (1,000m+).", "The minaret is the second oldest intact minaret in Algeria.", "The Great Mosque was once one of the largest in North Africa.", "The Dar al-Bahr (Palace of the Sea) featured a massive pool.", "The city was destroyed by the Almohads in 1152.", "A UNESCO World Heritage site since 1980.", "Represents the first authentically Berber-Islamic capital.", "The site is located in the Hodna Mountains of M'Sila province."]
+    }, image: "/poi-images/qala-beni-hammad-history-v2.webp"},
   {
     id: "mzab-valley-history-v2",
     type: "historical",
@@ -143,8 +199,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Ghardaïa a legfőbb település.", "Egyedülálló hagyományos építészet jellemzi."],
       ro: ["Ghardaia este orașul principal.", "Arhitectură tradițională unică."],
       en: ["Ghardaia is the main town.", "Unique traditional architecture."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "A M'zab-völgy a Szaharában egy egyedülálló, ötezer éves civilizációs modell, amelyet az ibádita közösségek hoztak létre a 11. században. Az öt erődített városból (kszur) álló együttes – Ghardaïa, Melika, Beni Isguen, Bou Noura és El Atteuf – tökéletesen alkalmazkodott a sivatagi környezethez. Minden város egy dombra épült, központjában egy mecsettel, amely egyben őrtoronyként is szolgált. Az épületek puritán stílusa és funkcionális kialakítása a közösségi egyenlőséget tükrözi. A völgy híres ötletes öntözőrendszeréről és a vízzel való gazdálkodás ősi módszereiről, amelyek lehetővé tették az életet ebben a kietlen tájban. Földrajz K7 – Ember és környezet a sivatagi oázisokban.",
+      ro: "",
+      en: "The M'zab Valley is a remarkable UNESCO World Heritage site consisting of five fortified desert towns (ksour) built in the 11th century. Established by Ibadite Berbers fleeing persecution, the towns—including Ghardaïa and Beni Isguen—are masterpieces of architectural adaptation to a harsh Saharan environment. Each town is built around a central mosque on a hilltop, with houses radiating downwards in a functional and egalitarian layout. The valley's unique urbanism and traditional water management systems have fascinated modern architects like Le Corbusier. It remains a vibrant bastion of Mozabite culture, religion, and social organization. Architecture K8 – Sustainable Urbanism and Cultural Identity."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: ["A völgy városait 1012 és 1350 között alapították.", "Minden kszar spirál alakban épült a mecset köré.", "Ghardaïa a legnagyobb és legismertebb település az öt közül.", "Az építkezéshez kizárólag helyi anyagokat (vályog, pálmafa) használtak.", "A völgy 1982 óta az UNESCO Világörökség része.", "A mecsetek minaretjei fegyverraktárként és figyelőpontként is funkcionáltak.", "A nyári lakhelyek a pálmaligetekben (pálmériákban) találhatók a hőség ellen.", "A közösségi szabályok szigorúan tiltják a hivalkodó építkezést."],
+      ro: [],
+      en: ["The towns are Ghardaïa, Melika, Beni Isguen, Bou Noura, and El Atteuf.", "Founded between 1012 and 1350 AD.", "The architecture emphasizes simplicity, utility, and communal living.", "Beni Isguen is the most traditional town, closed to outsiders at night.", "The Mozabites follow the Ibadite school of Islam.", "Features an ancient and highly efficient underground irrigation system.", "The white and ochre houses create a striking geometric landscape.", "Le Corbusier visited the valley and drew inspiration for his work."]
+    }, image: "/poi-images/mzab-valley-history-v2.webp"},
   {
     id: "mausoleum-mauretania-history-v2",
     type: "historical",
@@ -167,8 +234,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Krisztus előtt a 3. században épült.", "Helyi neve Kbour-er-Roumia."],
       ro: ["Construit în secolul al III-lea î.Hr.", "Numele local este Kbour-er-Roumia."],
       en: ["Built in the 3rd century BC.", "Local name is Kbour-er-Roumia."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Mauretániai Királyi Mauzóleum, amelyet a helyiek Kbour-er-Roumia néven ismernek, egy monumentális kör alakú építmény Tipaza közelében. Ez a lenyűgöző síremlék II. Juba numidiai király és felesége, II. Kleopátra Szeléné (a híres egyiptomi királynő lánya) nyughelye volt. Az építmény stílusa az egyiptomi piramisok és a hellenisztikus építészet elemeit ötvözi, 60 dór oszloppal díszítve. A mauzóleum méretei és precíz kivitelezése a korabeli berber királyság gazdagságáról és kifinomult kultúrájáról tanúskodik. Rejtélyes folyosói és vakajtói évszázadok óta foglalkoztatják a régészeket és a kalandorokat. Történelem K6 – Berber királyságok és a Római Birodalom kapcsolata.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Az építmény átmérője 60,9 méter, magassága eredetileg elérte a 40 métert.", "II. Juba és II. Kleopátra Szeléné uralkodása alatt épült, Kr. e. 3 körül.", "A mauzóleum belső folyosórendszere egy központi kamrához vezet.", "A legenda szerint a síremlékben hatalmas kincsek voltak elrejtve.", "Az épületen 60 dór stílusú féloszlop található.", "A 16. században egy bég megpróbálta lerombolni ágyúkkal, de az épület ellenállt.", "UNESCO Világörökségi helyszín Tipaza romjaival együtt.", "A négy világtáj felé néző bejáratai közül három vakajtó."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/mausoleum-mauretania-history-v2.webp"},
   {
     id: "lambaesis-history-v2",
     type: "historical",
@@ -191,8 +269,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Krisztus után 81 körül alapították.", "Templomokat és amfiteátrumot is tartalmaz."],
       ro: ["Fondat în jurul anului 81 d.Hr.", "Include temple și un amfiteatru."],
       en: ["Founded around 81 AD.", "Includes temples and an amphitheater."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Lambaesis az ókori Numidia tartomány katonai szíve volt, ahol a híres Legio III Augusta állomásozott. A Kr. u. 81 körül alapított tábor fokozatosan várossá fejlődött, és a római határvédelem (Limes) kulcsfontosságú bázisává vált Észak-Afrikában. A romok között ma is látható a monumentális praetorium (a parancsnokság épülete), amely rendkívüli állapotban maradt fenn. A városban két amfiteátrum, számos templom és fürdő is található, ami jelzi a katonai és civil élet összefonódását. Lambaesis története rávilágít a római hadsereg urbanizációs szerepére és a birodalom távoli provinciáinak szervezettségére. Történelem K6 – Római hadsereg és határvédelem Afrikában.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A város a Legio III Augusta állandó bázisa volt több mint két évszázadon át.", "A praetorium 92 méter hosszú és 20 méter magas, ma is impozáns látvány.", "Két amfiteátrummal rendelkezett: egy katonaival és egy civil lakossági használatúval.", "Itt található Septimius Severus diadalíve is.", "A várost Hadrianus császár is meglátogatta Kr. u. 128-ban.", "Lambaesis volt Numidia provincia fővárosa a 3. században.", "A területen végzett ásatások során több ezer latin nyelvű feliratot találtak.", "A romok mellett épült fel a modern Lambèse település."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/lambaesis-history-v2.webp"},
   {
     id: "tiddis-ruins-history-v2",
     type: "historical",
@@ -215,8 +304,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Eredetileg berber erőd volt.", "A vörös talaj vasban gazdag."],
       ro: ["Inițial o cetate berberă.", "Solurile roșii sunt bogate în fier."],
       en: ["Originally a Berber fortress.", "The red soils are rich in iron."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Tiddis, vagy más néven Castellum Tidditanorum, az ókori római várostervezés egyik leglátványosabb példája Algériában. A város nem a megszokott rácsos szerkezetben, hanem a meredek vörös sziklák természetes formáit követve, teraszosan épült fel. A romok között sétálva felfedezhetjük az ókori víztározókat, a Mithrász-szentélyt és a díszes diadalíveket. Tiddis különlegessége a vöröses színű kőzet, amelyből épült, és amely naplementekor különleges fénybe öltözteti a várost. Az egykori berber településből vált római kolónia kiválóan mutatja az antik kultúrák alkalmazkodását a nehéz terepviszonyokhoz. Történelem K6 – Római városépítészet és vallási sokszínűség.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A várost teraszosan alakították ki, hogy alkalmazkodjanak a meredek hegyoldalhoz.", "Híres volt fazekasiparáról és a vörös agyagból készült edényeiről.", "Itt található a Lollius család monumentális kör alakú mauzóleuma.", "A város vízellátását egy bonyolult ciszternarendszer biztosította.", "A területen keresztény bazilikák és pogány szentélyek maradványai is láthatók.", "Tiddis közel fekszik Constantine-hoz (Cirta), annak egyik előretolt bástyája volt.", "A város kapuit a sziklába vájták.", "A romokat az 1940-es években kezdték el feltárni André Berthier régész."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/tiddis-ruins-history-v2.webp"},
   {
     id: "mansourah-mosque-history-v2",
     type: "historical",
@@ -239,8 +339,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["A minaret 38 méter magas.", "Abu Jakub Juszuf szultán építtette."],
       ro: ["Minaretul are 38 de metri înălțime.", "Construit de sultanul Abu Yaqub Yusuf."],
       en: ["The minaret is 38 meters high.", "Erected by Sultan Abu Yaqub Yusuf."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Mansourah romjai Tlemcen mellett a 14. századi hatalmi harcok és a Merinida építészet monumentális emlékei. A várost eredetileg ostromtáborként alapították, amikor a marokkói szultán megpróbálta elfoglalni Tlemcent. A mecset és annak 38 méter magas minaretje a korszak legkiválóbb művészeti törekvéseit tükrözi, bár az épület fele mára az enyészeté lett. A vöröses agyagfalak és a hatalmas kapuk ma is félelmetes erődítmény benyomását keltik. Mansourah története a rivalizáló dinasztiák küzdelméről és a rövid életű, de pompás városok tündökléséről mesél. Építészet K7 – Középkori erődök és mecsetek a Maghrebben.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A várost Abu Jakub Juszuf merinida szultán alapította 1299-ben.", "A minaret 38 méter magas, és stílusában hasonlít a sevillai Giralda-hoz.", "A mecset udvarát eredetileg 13 bejárat díszítette.", "Az ostrom nyolc évig tartott, ezalatt Mansourah valóságos várossá fejlődött.", "Amikor a szultánt meggyilkolták, a várost elhagyták, és Tlemcen lakói elhordták köveit.", "A falak kerülete eredetileg több mint 4 kilométer volt.", "A romokat ma nemzeti műemlékként védik Algériában.", "A minaret egyik oldala teljesen leomlott, így betekintést nyújt a belső szerkezetbe."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/mansourah-mosque-history-v2.webp"},
   {
     id: "khemissa-thubursicum-history-v2",
     type: "historical",
@@ -263,8 +374,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Kelet-Algériában található.", "A színház mintegy 3000 nézőt fogadott be."],
       ro: ["Situat în estul Algeriei.", "Teatrul avea o capacitate de aproximativ 3.000 de spectatori."],
       en: ["Located in eastern Algeria.", "The theater accommodated around 3,000 spectators."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Khemissa, az ókori Thubursicum Numidarum, az észak-algériai dombvidék egyik legszebb fekvésű romvárosa. A város legfőbb vonzereje az egyik legjobb állapotban fennmaradt római színház, amely egy domboldalba simulva néz a völgy felé. A romok között monumentális közfürdők, fórumok és egy bizánci erőd maradványai is megtalálhatók. Thubursicum fontos kereskedelmi csomópont volt az antikvitásban, ahol a numidiai hagyományok és a római kultúra találkozott. A csendes, vidéki környezetben fekvő romok betekintést nyújtanak egy virágzó provincia mindennapi jólétébe és szórakozási szokásaiba. Történelem K6 – Római szórakoztatás és városi infrastruktúra.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A színház kapacitása körülbelül 3000-4000 fő volt.", "A város fóruma rendkívül tágas, és számos oszlopcsarnok vette körül.", "A 2. század végén, Septimius Severus idején érte el virágkorát.", "A közelben található egy hatalmas víztározó, amely a fürdőket látta el.", "A bizánciak később erődítményt emeltek a római épületek köveiből.", "A területen végzett ásatások során gazdag szoborleleteket találtak.", "Khemissa fontos megállóhely volt a Hippo Regius-ba vezető úton.", "A város lakói híresek voltak mezőgazdasági termékeikről, főleg az olívaolajról."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/khemissa-thubursicum-history-v2.webp"},
   {
     id: "madauros-history-v2",
     type: "historical",
@@ -287,8 +409,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Hippói Szent Ágoston is itt tanult.", "Eredetileg pun település volt."],
       ro: ["Locul de studiu al lui Augustin de Hippo.", "Inițial o așezare punică."],
       en: ["Place of study for Augustine of Hippo.", "Originally a Punic settlement."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Madaurus (a mai Madauros) az ókori Észak-Afrika egyik legfontosabb szellemi központja volt, ahol a numidiai gyökerek mélyen összefonódtak a római műveltséggel. Ez a város volt a híres író, Apuleius szülőhelye, és itt kezdte tanulmányait Hippói Szent Ágoston is. A romok között feltárul a fórum, a színház és a kora keresztény bazilikák maradványai, amelyek tanúskodnak a város kulturális súlyáról. Madaurus nemcsak építészeti emlékeivel, hanem az antik filozófia és irodalom bölcsőjeként is kiemelkedik a régió történetéből. A táj nyugalma ma is idézi az egykori tudósok és diákok világát. Történelem K6 – Oktatás és irodalom a római Afrikában.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Itt született Kr. u. 125 körül Apuleius, az 'Aranymamár' szerzője.", "Szent Ágoston itt tanult latint és retorikát 12 éves korától.", "A város egykor híres volt filozófiai iskolájáról.", "A romterületen egy 4. századi bizánci erőd is található.", "A színház érdekessége, hogy viszonylag kicsi, de gazdagon díszített volt.", "Madaurus eredetileg egy fontos numidiai település volt a római hódítás előtt.", "A területen több ókori olajprés maradványait is megtalálták.", "A város a 7. századi arab hódítás után indult hanyatlásnak."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/madauros-history-v2.webp"},
   {
     id: "hippo-regius-history-v2",
     type: "historical",
@@ -311,8 +444,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["A mai Annaba közelében fekszik.", "A vandálok pusztították el 430-ban."],
       ro: ["Situat lângă Annaba actuală.", "Distrus de vandali în 430 d.Hr."],
       en: ["Located near modern Annaba.", "Destroyed by the Vandals in 430 AD."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Hippo Regius az antikvitás egyik legjelentősebb kikötővárosa volt, amely föníciai alapításától kezdve fontos szerepet játszott a mediterrán kereskedelemben. A város örökre összefonódott Hippói Szent Ágoston nevével, aki itt szolgált püspökként a 4. és 5. század fordulóján. A romok között látható az egykori püspöki rezidencia, a hatalmas fórum és a díszes fürdők, amelyek a város gazdagságát hirdették. Hippo Regius tragikus sorsa, a vandálok 430-as ostroma jelképezi a római világrend összeomlását Afrikában. A tengerparti fekvés és a modern bazilika látványa különleges hangulatot áraszt. Történelem K6 – A kereszténység és a népvándorlás kora Észak-Afrikában.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A várost a föníciaiak alapították a Kr. e. 12. század körül.", "Szent Ágoston 430-ban, a vandál ostrom alatt halt meg a falak között.", "Itt található a Római Birodalom egyik legnagyobb fóruma (76x43 méter).", "A területen feltárt mozaikok az algériai múzeumok féltett kincsei.", "A vandál hódítás után Hippo Regius lett a királyságuk első fővárosa.", "A romok feletti dombon áll a 19. században épült Szent Ágoston-bazilika.", "A várost a bizánciak 534-ben visszafoglalták a vandáloktól.", "A kikötő stratégiai fontosságú volt a Róma felé irányuló gabonaszállításban."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/hippo-regius-history-v2.webp"},
   {
     id: "calama-guelma-history-v2",
     type: "historical",
@@ -335,8 +479,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["A színházat a modern korban újjáépítették.", "Ókori mitológiai szobrokat állít ki."],
       ro: ["Teatrul a fost reconstruit în epoca modernă.", "Afișează statui din mitologia antică."],
       en: ["The theater was reconstructed in modern times.", "Displays statues from ancient mythology."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Calama, a mai Guelma elődje, egy virágzó római település volt Numidiában, amely ma leginkább lenyűgözően helyreállított ókori színházáról ismert. A 2. században épült színház ma is használatban van, és több mint 4500 néző befogadására alkalmas, így a modern kulturális élet részévé vált. A romok között egy kis szabadtéri múzeum található, ahol római szobrok és feliratok mesélnek a város múltjáról. Calama fontos vallási központ is volt, püspökségét Possidius, Szent Ágoston barátja vezette. A város története jól példázza az antik örökség és a modern városi élet harmonikus együttélését. Történelem K6 – Színházi élet és római kultúra a tartományokban.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A színházat a 20. század elején szinte teljesen újjáépítették az eredeti tervek alapján.", "Calama fontos állomás volt a Cirta és Hippo Regius közötti úton.", "Possidius püspök itt írta meg Szent Ágoston első életrajzát.", "A város híres volt termálforrásairól, amelyeket a rómaiak is használtak.", "A múzeumban található Jupiter-szobor a régió egyik legszebb lelete.", "A bizánciak a 6. században egy hatalmas erődfallal vették körül a várost.", "A színházban ma is tartanak nemzetközi kulturális fesztiválokat.", "A város eredetileg föníciai kereskedelmi lerakat volt."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/calama-guelma-history-v2.webp"},
   {
     id: "fort-santa-cruz-oran-history-v2",
     type: "historical",
@@ -359,8 +514,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["1577 és 1604 között épült.", "Panorámás kilátást nyújt Orán városára."],
       ro: ["Construit între 1577 și 1604.", "Oferă o vedere panoramică asupra Oranului."],
       en: ["Built between 1577 and 1604.", "Offers a panoramic view of Oran."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Santa Cruz-erőd Orán legmeghatározóbb jelképe, amely a Murdjadjo-hegy sziklás csúcsáról tekint le a városra és a Földközi-tengerre. A spanyolok építették a 16. században Orán védelmére, miután elfoglalták a várost a móroktól. Az erőd masszív kőfalai, bástyái és titkos járatai a korszak fejlett katonai építészetét dicsérik. Stratégiai elhelyezkedése miatt szinte bevehetetlennek tartották, és kulcsszerepet játszott a spanyol és az oszmán erők közötti évszázados küzdelemben. Az erőd alatt található kápolna és a panoráma egyedülálló spirituális és vizuális élményt nyújt. Történelem K8 – Spanyol-török vetélkedés a Földközi-tengeren.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Az erődöt 1577 és 1604 között építették a spanyol hódítók.", "Tengerszint feletti magassága meghaladja a 400 métert.", "Egy földalatti alagút kötötte össze az erődöt a lenti tengerparttal.", "A spanyolok 1792-ig uralták az erődöt, mielőtt átadták az oszmánoknak.", "A falak között saját víztározó és lőszerraktár biztosította a védők ellátását.", "Az erőd közelében álló kápolnát 1850-ben emelték egy kolerajárvány után.", "A Santa Cruz-erőd Orán három nagy erődítményének egyike.", "Ma népszerű turisztikai célpont, ahonnan tiszta időben messzire látni a tengeren."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/fort-santa-cruz-oran-history-v2.webp"},
   {
     id: "medracen-history-v2",
     type: "historical",
@@ -383,8 +549,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Időszámításunk előtt a 3. századra datálják.", "Körülbelül 18 méter magas."],
       ro: ["Datat în secolul al III-lea î.Hr.", "Aproximativ 18 metri înălțime."],
       en: ["Dates back to the 3rd century BC.", "Around 18 meters high."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Medracen egy rejtélyes és monumentális síremlék Algéria északi részén, amely a Numidiai Királyság korai időszakából származik. Ez a henger alakú, kúpos tetővel ellátott építmény Észak-Afrika legrégebbi királyi mauzóleuma, amely valószínűleg numidiai uralkodók nyughelyeként szolgált a Kr. e. 3. században. Az épület dór oszlopokkal díszített homlokzata a hellenisztikus építészet hatását tükrözi, miközben formája a berber temetkezési hagyományokat őrzi. A Medracen magányosan magasodik a kopár tájban, hirdetve egy egykor hatalmas és büszke királyság örökségét. Megőrzése ma nemzetközi jelentőségű feladat. Történelem K6 – A Numidiai Királyság felemelkedése és kultúrája.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Az építmény átmérője 59 méter, magassága pedig 18,5 méter.", "Kr. e. 3. században épült, így megelőzi a tipazai mauzóleumot.", "A homlokzatát 60 dór stílusú féloszlop díszíti.", "A belső sírkamrát egy rejtett folyosón keresztül lehet megközelíteni.", "A legenda szerint Medracen a numidiaiak ősatyja volt.", "Az épület állapota a földrengések és a gondozatlanság miatt romlott az évek során.", "A Világműemléki Alap (WMF) listáján is szerepel mint veszélyeztetett helyszín.", "A régészek szerint az épület csúcsát egykor egy szobor díszíthette."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/medracen-history-v2.webp"},
   {
     id: "cirta-ruins-history-v2",
     type: "historical",
@@ -407,8 +584,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["A rómaiak hódították meg.", "A mai Constantine város őse."],
       ro: ["A fost cucerită de romani.", "Originea Constantinului de astăzi."],
       en: ["Was conquered by the Romans.", "Origin of present-day Constantine."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Cirta, az ókori Numidiai Királyság büszke fővárosa, a mai Constantine sziklás fennsíkján feküdt. A város stratégiai elhelyezkedése a Rhummel-folyó mély szurdoka felett szinte bevehetetlenné tette a történelem során. Cirta Massinissa király uralkodása alatt vált a régió kereskedelmi és politikai központjává, ahol a numidiai kultúra virágzott. A római hódítás után a város tovább fejlődött, és végül Constantine császárról kapta mai nevét a 4. században. A romok között feltáruló emlékek a sziklába vájt utakról, hidakról és monumentális épületekről mesélnek, amelyek megalapozták a 'hidak városa' hírnevét. Történelem K6 – Massinissa és Numidia felemelkedése.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Cirta jelentése pun nyelven 'várost' jelentett.", "Massinissa király tette meg fővárosának a Kr. e. 2. században.", "A város híres volt gabonakereskedelméről, amiért a rómaiak is küzdöttek.", "Kr. u. 313-ban Constantine császár újjáépíttette a várost.", "A sziklafalak természetes védelmet nyújtottak minden oldalról.", "Itt zajlott a jugurthai háború több fontos eseménye.", "A romok egy része a modern Constantine épületei alatt fekszik.", "A város vízellátását már az ókorban is hatalmas viaduktok biztosították."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/cirta-ruins-history-v2.webp"},
   {
     id: "sigus-megaliths-history-v2",
     type: "historical",
@@ -431,8 +619,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["A történelem előtti időkből származik.", "A régió korai betelepülésének bizonyítéka."],
       ro: ["Datează din timpurile preistorice.", "Dovada așezării timpurii în regiune."],
       en: ["Dates back to prehistoric times.", "Evidence of early settlement in the region."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Sigus környékén található megalitikus emlékek Algéria távoli múltjába, a történelem előtti időkbe repítenek vissza bennünket. Ez a terület Észak-Afrika egyik leggazdagabb dolmen-lelőhelye, ahol hatalmas kőtömbökből álló sírok és rituális helyszínek tanúskodnak az egykori pásztornépek kultúrájáról. A Sigus-hegy lábánál fekvő nekropolisz több száz kőépítményt foglal magában, amelyek évezredek óta dacolnak az elemekkel. Ezek a megalitok nemcsak temetkezési helyek voltak, hanem valószínűleg csillagászati vagy közösségi események színhelyei is. Felfedezésük segít megérteni a berber népek ősi hitvilágát és társadalmi szervezettségét a római hódítás előtti korokban. Történelem K5 – Megalitikus kultúrák a Földközi-tenger medencéjében.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A sigusi dolmenek a bronzkortól a vaskorig terjedő időszakban épültek.", "Több mint 200 különböző méretű kősírt azonosítottak a területen.", "Némelyik fedőlap súlya eléri a több tonnát.", "A sírok gyakran csoportosan, kör alakban helyezkednek el.", "A lelőhelyen végzett ásatások során ősi kerámiákat és fegyvereket találtak.", "A megalitok elrendezése utalhat az egykori törzsi határokra.", "Sigus városa később római településként is fontos szerepet játszott.", "A terület a mai napig nincs teljesen feltárva régészetileg."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/sigus-megaliths-history-v2.webp"},
   {
     id: "roknia-dolmens-history-v2",
     type: "historical",
@@ -455,8 +654,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Afrika egyik legnagyobb dolmen-gyűjteménye.", "Ókori temetkezési rituálékról tanúskodik."],
       ro: ["Una dintre cele mai mari colecții de dolmene din Africa.", "Depune mărturie despre ritualurile funerare antice."],
       en: ["One of the largest dolmen collections in Africa.", "Bears witness to ancient burial rituals."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A rokniai dolmenek nekropolisza a világ egyik legnagyobb és leglenyűgözőbb megalitikus temetkezőhelye, ahol több mint 1500 ősi sír található egy viszonylag kis területen. A Kelet-Algériában fekvő helyszín a prehisztorikus korok emberének mérnöki tudásáról és spirituális világáról tanúskodik. A hatalmas kőlapokból összeállított dolmenek évezredek óta őrzik a tájat, különleges, misztikus hangulatot árasztva. Roknia nemcsak a régészek számára kincs, hanem minden látogatónak, aki szeretne betekinteni az emberiség hajnalába. A sírok sokfélesége és száma egy sűrűn lakott és szervezett ókori közösség képét vetíti elénk. Történelem K5 – Temetkezési szokások a történelem előtti időkben.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A nekropolisz területén több mint 1500 dolment regisztráltak.", "A sírok kora körülbelül 3000-4000 évre tehető.", "A dolmenek stílusa változatos: a kis kőkamráktól a monumentális építményekig.", "A terület 7 kilométer hosszan húzódik a sziklafalak mentén.", "A sírokban talált csontvázak és mellékletek a berber ősök életéről mesélnek.", "Roknia Algéria egyik legfontosabb prehisztorikus emlékhelye.", "A kövek megmunkálása és mozgatása komoly közösségi összefogást igényelt.", "A helyszín még ma is viszonylag kevéssé ismert a tömegturizmus számára."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/roknia-dolmens-history-v2.webp"},
   {
     id: "zana-diana-veteranorum-history-v2",
     type: "historical",
@@ -479,8 +689,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Traianus császár alatt épült.", "A Macrinus diadalívről ismert."],
       ro: ["Construit sub împăratul Traian.", "Cunoscut pentru arcul de triumf al lui Macrinus."],
       en: ["Erected under Emperor Trajan.", "Known for the Macrinus triumphal arch."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Zana, ókori nevén Diana Veteranorum, egy különleges római katonai kolónia volt, amelyet Traianus császár alapított a Legio III Augusta veteránjai számára. A város neve Diana vadászistennőre és az itt letelepedett kiszolgált katonákra utal. A romok leglátványosabb eleme a Macrinus császár tiszteletére emelt diadalív, amely ma is büszkén hirdeti a birodalom egykori nagyságát. Zana fontos mezőgazdasági és kereskedelmi központ volt Numidiában, ahol a katonai fegyelem és a békés polgári élet találkozott. A fórum, a bazilika és a fürdők maradványai egy jól szervezett antik város képét mutatják be. Történelem K6 – Katonai kolóniák és veteránok élete a római provinciákban.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A várost Kr. u. 100 körül alapították a római hadseregből leszerelt katonák számára.", "A Macrinus-diadalív az egyik legritkább ilyen jellegű emlék Afrikában.", "A fórumon álló bazilikát a 4. században építették.", "A város fontos szerepet játszott a környék gabonatermelésének irányításában.", "Zana lakói római polgárjoggal rendelkeztek, ami kiváltságnak számított.", "A bizánciak később egy kis erődöt építettek a fórum közepén.", "A területen számos sírfelirat maradt fenn, amely a veteránok nevét és rangját őrzi.", "Diana Veteranorum püspöki székhely is volt a kora keresztény korban."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/zana-diana-veteranorum-history-v2.webp"},
   {
     id: "tobna-tubunae-history-v2",
     type: "historical",
@@ -503,8 +724,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["A római Numidia provincia része volt.", "Stratégiailag fontos kereskedelmi útvonal."],
       ro: ["Făcea parte din provincia romană Numidia.", "Ruta comercială de importanță strategică."],
       en: ["Was part of the Roman province of Numidia.", "Strategically important trade route."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Tobna, az ókori Tubunae, egykor Algéria egyik legfontosabb városa volt, amely a római kortól kezdve egészen a középkori iszlám időkig virágzott. Stratégiai elhelyezkedése a sivatag és a termékeny északi területek határán fontos kereskedelmi és katonai csomóponttá tette. A romok között feltárulnak a római erődítmények, a bizánci vár és az iszlám kori mecsetek alapjai, tükrözve a város sokszínű történelmét. Tobna volt a Hodna-régió fővárosa a kora középkorban, ahol karavánok és hadseregek vonultak át. Bár mára nagyrészt elhagyatott, a föld alatti maradványok egy gazdag és mozgalmas múlt titkait őrzik. Történelem K7 – A Maghreb átalakulása az ókorból a középkorba.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Tubunae a római Limes (határvonal) egyik kulcsfontosságú városa volt.", "A 8. században az Abbászidák idején fontos tartományi központ volt.", "A várost hatalmas téglafal vette körül, amelynek ma már csak nyomai látszanak.", "Híres volt gyapottermesztéséről és textiliparáról a középkorban.", "Itt zajlott a lázadó Abu Jazid és a Fátimidák közötti egyik nagy csata.", "A területen talált római mozaikok ma a batnai múzeumban láthatók.", "A várost a 11. században a Banu Hilal törzsek pusztították el.", "Tobna püspöke, Cresconius részt vett a 411-es carthágói zsinaton."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/tobna-tubunae-history-v2.webp"},
   {
     id: "ksar-beni-abbes-history-v2",
     type: "historical",
@@ -527,8 +759,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Karavánok történelmi pihenőhelye.", "Vályogtégla építészet jellemzi."],
       ro: ["Popas istoric pentru rulote.", "Arhitectura din cărămidă de noroi."],
       en: ["Historic resting place for caravans.", "Mudbrick architecture."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Béni Abbès kszárja a Saoura-völgy egyik legszebb oázis-erődítménye, amely az algériai Szahara szívében található. A vályogtéglából épült, vöröses színű óváros szűk, fedett utcái hűvös menedéket nyújtanak a perzselő sivatagi nap elől. A kszár története szorosan összefonódik a transz-szaharai kereskedelemmel, hiszen évszázadokon át fontos pihenőhely volt a karavánok számára. A település híres különleges pálmaligeteiről és a közeli dűnékről, amelyeket a 'Szahara gyöngyének' is neveznek. Béni Abbès nemcsak építészeti emlék, hanem a sivatagi közösségek túlélési stratégiáinak és kultúrájának élő tanúja. Földrajz K7 – Oázisok élete és gazdálkodása a Szaharában.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A kszár házai hagyományos módon, szárított vályogtéglából készültek.", "Az utcák azért fedettek, hogy csökkentsék a párolgást és árnyékot adjanak.", "Itt található Charles de Foucauld atya híres remetelaka.", "A település központjában egy ősi mecset és egy közösségi tér áll.", "A kszár mellett található pálmaliget skorpió alakú, ha felülről nézzük.", "Béni Abbès híres a 'szaharai múzeumáról', amely a régió élővilágát mutatja be.", "A karácsonyi időszakban minden évben nagy fesztivált tartanak itt.", "A vizet egy ősi, gravitációs elven működő csatornarendszer (foggaras) biztosítja."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/ksar-beni-abbes-history-v2.webp"},
   {
     id: "el-mechouar-palace-history-v2",
     type: "historical",
@@ -551,8 +794,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Jaghuraszan ibn Ziján építtette.", "A 21. században alaposan felújították."],
       ro: ["Construit de Yaghmurasan Ibn Zyan.", "A fost amplu restaurat în secolul 21."],
       en: ["Built by Yaghmurasan Ibn Zyan.", "Was extensively restored in the 21st century."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Az El-Mechouar palota Tlemcen szívében a Zianida-dinasztia hatalmának és művészi kifinomultságának legpompásabb emléke. A 13. században épült palotakomplexum az uralkodók rezidenciájaként és a kormányzat központjaként szolgált. Bár az évszázadok során sok pusztítás érte, a 21. századi alapos restaurálásnak köszönhetően ma újra régi fényében tündököl. A díszes stukkók, a színes zellige csempék és a belső udvarok csobogó kútjai az andalúz-mór stílus legszebb példáit idézik. El-Mechouar nemcsak egy épület, hanem Tlemcen mint 'a Maghreb Granada-ja' hírnevének legfőbb bizonyítéka. Művészettörténet K7 – Az iszlám díszítőművészet és palotaépítészet.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A palotát I. Jágmuraszan bég alapította a 13. század közepén.", "A komplexum falai között egykor több palota, mecset és fürdő is volt.", "A 'Mechouar' név jelentése 'tanácskozóhely'.", "A belső falakat bonyolult arabeszkek és kalligrafikus feliratok díszítik.", "A francia gyarmati időkben a palotát katonai kórházzá és laktanyává alakították.", "A restaurálás során kizárólag hagyományos kézműves technikákat alkalmaztak.", "A palota udvarán álló óramű egykor híres technikai csoda volt.", "Ma kulturális központként és múzeumként látogatható."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/el-mechouar-palace-history-v2.webp"},
   {
     id: "tlemcen-great-mosque-history-v2",
     type: "historical",
@@ -575,8 +829,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["1136 körül alapították.", "Az andalúz-mór művészet remekműve."],
       ro: ["Fondat în jurul anului 1136.", "O capodoperă a artei andaluz-maure."],
       en: ["Founded around 1136.", "A masterpiece of Andalusian-Moorish art."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Tlemceni Nagymecset az Almorávida építészet egyik legépebben maradt és legszebb példája az egész Maghreb-térségben. Az 1136-ban alapított mecset letisztult formáival és lenyűgöző belső tereivel a középkori iszlám művészet csúcspontját képviseli. Különösen híres a mihrábja (imasüllyesztéke), amelyet bonyolult gipszfaragások és áttört kupola díszít, beengedve a lágy fényt az imaterembe. A mecset nemcsak vallási központ, hanem Tlemcen történelmi identitásának oszlopa is. Az andalúz hatások az épület minden részletében, az árkádoktól a minaretig felfedezhetők, hidat képezve a spanyolországi és az észak-afrikai iszlám művészet között. Építészet K7 – Az Almorávida és Almohád építészet öröksége.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A mecsetet Ali ibn Juszuf almorávida uralkodó építtette 1136-ban.", "A minaretet később, a 13. században a Zianidák magasították meg.", "A központi hajó feletti kupola 12 bordából áll, ami technikai bravúr volt akkoriban.", "A mecset belső udvarát patkó alakú ívek veszik körül.", "A csillárok között található egy hatalmas, 13. századi bronz darab is.", "A mecset egyszerre 2000 hívő befogadására alkalmas.", "A mihráb körüli feliratok a Koránból vett idézeteket tartalmaznak.", "Ez az egyik legrégebbi, folyamatosan használt vallási épület Algériában."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/tlemcen-great-mosque-history-v2.webp"},
   {
     id: "bida-ruins-history-v2",
     type: "historical",
@@ -599,8 +864,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Az ókori határvédelem része volt.", "Idegenforgalmilag alig feltárt."],
       ro: ["Parte a sistemului antic de protecție a frontierei.", "Abia dezvoltat pentru turism."],
       en: ["Part of the ancient border protection system.", "Hardly developed for tourism."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Bida ókori romjai a mai Bouira tartományban találhatók, és a római Mauretania provincia egyik kevésbé ismert, de annál titokzatosabb emlékhelyét képviselik. Ez a település egykor a Limes Mauretaniae védelmi rendszerének részét képezte, amelynek feladata a birodalom határainak védelme volt a nomád törzsek ellen. A romok között feltárulnak az egykori erődök falai, lakóházak alapjai és mezőgazdasági építmények maradványai. Bida története rávilágít a rómaiak és a helyi berber lakosság közötti feszültségre és együttműködésre. A helyszín érintetlensége különleges élményt nyújt azoknak, aki a tömegturizmustól távol keresik az antik múlt emlékeit. Történelem K6 – Határvidéki élet és védelem a római birodalomban.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Bida stratégiai pont volt a hegyek és a síkság közötti útvonalon.", "A város neve valószínűleg berber eredetű, amit a rómaiak latinosítottak.", "A területen számos olajprés maradványát találták, utalva a mezőgazdasági jólétre.", "A római hódítás előtt egy fontos berber település volt a helyszínen.", "A várost egy kisebb fal vette körül, amely a biztonságot szolgálta.", "A régészeti feltárások során katonai felszereléseket és érméket is találtak.", "Bida elhelyezkedése lehetővé tette a környező völgyek ellenőrzését.", "Mára a természet részben visszahódította a romokat, romantikus látványt nyújtva."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/bida-ruins-history-v2.webp"},
   {
     id: "portus-magnus-history-v2",
     type: "historical",
@@ -623,8 +899,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["A neve latinul 'Nagy Kikötő'-t jelentett.", "A búza fontos exportáló helye volt."],
       ro: ["Însemna „Marele Port” în latină.", "Important punct de export pentru grâu."],
       en: ["Meant 'Great Port' in Latin.", "Important export point for wheat."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Portus Magnus, ahogy neve is sejteti – 'Nagy Kikötő' –, az ókori rómaiak egyik legfontosabb tengeri kapuja volt Észak-Afrikában. A mai Bethioua közelében fekvő romok egykor nyüzsgő kikötői életnek, hatalmas raktáraknak és díszes villáknak adtak otthont. Innen szállították a birodalom szívébe, Rómába az afrikai gabonát, olívaolajat és bort. A város fóruma és a tengerre néző házak mozaikjai a kereskedelemből származó hatalmas vagyonról tanúskodnak. Portus Magnus nemcsak gazdasági, hanem stratégiai pont is volt, amely biztosította a Római Birodalom tengeri fölényét a térségben. A romok ma is büszkén tekintenek a tengerre. Történelem K6 – Kereskedelem és hajózás a Római Birodalomban.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A kikötőváros a Kr. u. 2. és 3. században érte el fejlődése csúcspontját.", "Híres volt hatalmas gabonasilóiról, amelyek hónapokig tárolták a termést.", "A város mozaikjai közül több ma az oráni múzeumban látható.", "Portus Magnus rendelkezett egy saját színházzal és több fürdőkomplexummal is.", "A várost a vandálok pusztították el az 5. században.", "A régészeti területen feltárták az egykori kikötői mólók maradványait.", "A település lakossága rendkívül sokszínű volt: rómaiak, punok és berberek éltek itt együtt.", "A romok egy része a modern ipari létesítmények közelében található."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/portus-magnus-history-v2.webp"},
   {
     id: "nedroma-historic-town-history-v2",
     type: "historical",
@@ -647,8 +934,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["A 12. században alapították.", "Egy 1145-ből származó nagymecsettel büszkélkedhet."],
       ro: ["Fondat în secolul al XII-lea.", "Se mândrește cu o Mare Moschee datând din 1145."],
       en: ["Founded in the 12th century.", "Boasts a Great Mosque dating back to 1145."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Nédroma az algériai történelem egyik rejtett ékköve, egy ősi andalúz város, amely a Reconquista után menekülő mórok egyik legfontosabb menedékhelyévé vált. A város megőrizte középkori városszerkezetét, szűk utcáit és a híres Almorávida nagymecsetet, amely 1145-ben épült. Nédroma híres volt kézművesiparáról, különösen a pamutszövésről és a finom kerámiákról. Az itt élők büszkén őrizik andalúziai örökségüket a zenében, a gasztronómiában és az építészetben egyaránt. A város fekvése a hegyek között stratégiai védelmet nyújtott az évszázadok során, lehetővé téve a kulturális folytonosságot. Történelem K7 – Az andalúz örökség továbbélése a Maghrebben.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A várost Abd al-Mumin, az Almohád-dinasztia alapítója is kedvelte.", "A Nagymecset minaretje az egyik legrégebbi és legszebb a régióban.", "Nédroma híres a tradicionális 'Malouf' zenéjéről.", "A város egykor fontos szellemi központ volt, számos híres tudós és költő élt itt.", "A 'Hammam el-Bali' Észak-Afrika egyik legrégebbi, ma is működő fürdője.", "A város falai és kapui részben még ma is láthatók.", "Nédroma lakói híresek voltak vendégszeretetükről és műveltségükről.", "A település a 12. században vált fontos várossá a térségben."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/nedroma-historic-town-history-v2.webp"},
   {
     id: "palace-of-the-dey-history-v2",
     type: "historical",
@@ -671,8 +969,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Az 1827-es híres 'legyező-incidens' helyszíne.", "A Kaszbában található."],
       ro: ["Locul celebrului „incident al fanilor” din 1827.", "Situat în Kasbah."],
       en: ["Site of the famous 'Fan Incident' of 1827.", "Located in the Kasbah."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "A Dey palotája az algíri Kaszba legmagasabb pontján álló hatalmas erődítmény, amely az oszmán korszak utolsó évtizedeiben Algéria politikai hatalmának központja volt. Itt rezideált a dey, aki névleg az oszmán szultán vazallusa, de a gyakorlatban független uralkodó volt. A palota pazar termeiben zajlottak a diplomáciai tárgyalások és a tengeri hadjáratok tervezése. Itt történt 1827-ben a hírhedt 'legyező-incidens' is, amikor a dey egy legyezővel megütötte a francia konzult, ami ürügyet szolgáltatott Franciaországnak Algéria megszállására. A palota ma múzeumként mutatja be az algériai államiság és a gyarmatosítás előtti kor emlékeit. Történelem K8 – Az algériai oszmán állam és a francia hódítás kezdete.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["A palotát a 16. században kezdték építeni, de mai formáját a 19. század elején nyerte el.", "A komplexum magában foglalta a dey lakosztályait, a háremet és az állami kincstárat is.", "A falakról lenyűgöző kilátás nyílik az egész Algíri-öbölre.", "Az 1827-es incidens után a palota a francia katonai parancsnokság székhelye lett.", "Belső udvarait márvány oszlopok és csobogó szökőkutak díszítették.", "A palota védelmét egy külön janicsár alakulat látta el.", "A restaurálási munkálatok során több titkos menekülőutat is találtak a falakban.", "Ma a látogatók megtekinthetik az egykori audienciás termet is."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/palace-of-the-dey-history-v2.webp"},
   {
     id: "cherchell-caesarea-history-v2",
     type: "historical",
@@ -695,8 +1004,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["Egykor II. Juba otthona volt.", "Egy kiemelkedő régészeti múzeumnak ad otthont."],
       ro: ["Fosta reședință a lui Juba al II-lea.", "Găzduiește un muzeu arheologic remarcabil."],
       en: ["Formerly home to Juba II.", "Houses an outstanding archaeological museum."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Cherchell, az ókori Caesarea, a Római Birodalom egyik legműveltebb és leggazdagabb városa volt Észak-Afrikában. II. Juba király tette meg Mauretania fővárosává, és a korszak egyik legfontosabb kulturális központjává fejlesztette, görög szobrokkal, könyvtárakkal és színházakkal díszítve. A város építészete az athéni és római mintákat követte, tükrözve az uralkodó kozmopolita szellemét. A mai kikötőváros alatt és környékén található romok, mint a monumentális színház és a fürdők, ma is jelzik az egykori Caesarea nagyságát. Cherchell múzeuma a világ egyik legjelentősebb antik szoborgyűjteményének ad otthont. Történelem K6 – Hellenisztikus kultúra és római városszerkezet Afrikában.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["II. Juba, a város alapítója, a híres II. Kleopátra Szelénét vette feleségül.", "A város színháza az egyik legnagyobb volt a régióban, 5000 nézőt is befogadott.", "Caesarea híres volt tudósairól és művészeiről a Kr. u. 1. században.", "A várost 371-ben a berber lázadó, Firmus pusztította el részben.", "Cherchell múzeumában olyan ritka görög másolatok vannak, amelyek eredetije elveszett.", "A római vízvezeték maradványai még ma is láthatók a város határában.", "A város kikötője stratégiai fontosságú volt a tengeri kereskedelemben.", "Cherchell ma az algériai haditengerészeti akadémia otthona is."],
+    ro: [],
+    en: []
+    }, image: "/poi-images/cherchell-caesarea-history-v2.webp"},
   {
     id: "ksar-ouargla-history-v2",
     type: "historical",
@@ -719,6 +1039,19 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       hu: ["A sivatagi éghajlatra optimalizált építészet jellemzi.", "Jelentős kereskedelmi központ volt."],
       ro: ["Arhitectură optimizată pentru un climat deșertic.", "A fost un centru comercial major."],
       en: ["Architecture optimized for a desert climate.", "Was a major trade center."]
+    },
+    descriptionAdvanced: {
+    de: "",
+    hu: "Ouargla kszárja egy ősi sivatagi metropolisz szíve, amely évszázadokon át a Szahara kereskedelmi útvonalainak legfontosabb csomópontja volt. Az óváros kanyargós, szűk utcái és vályogházai az iszlám városépítészet klasszikus példái, amelyek a forró klímához alkalmazkodtak. Ouargla híres volt 'a Szahara kapujaként', ahol a délről érkező arany-, só- és rabszolgakaravánok találkoztak az északi kereskedőkkel. A kszár központi mecsetje és a nyüzsgő piacok ma is idézik a város egykori gazdagságát. Bár a modern olajipar átalakította a régiót, az óváros megőrizte titokzatos és tradicionális hangulatát. Földrajz K7 – Karavánutak és kereskedelem a Szaharában.",
+    ro: "",
+    en: ""
+    },
+    factsAdvanced: {
+    de: [],
+    hu: ["Ouargla városa egy hatalmas oázis központjában fekszik, több mint egymillió pálmafával.", "A kszár házai sajátos 'szaharai barokk' stílusban épültek, gazdag stukkódíszekkel.", "A város egykor a Rustamidák, majd a Beni Szinan dinasztia uralma alatt állt.", "A kszárban élő közösségek szigorú társadalmi rend szerint tagozódtak.", "Híres volt datolyatermesztéséről, különösen a 'Deglet Nour' fajtáról.", "A területen található Malika kszár a nők számára fenntartott vallási hely volt.", "Az 1850-es években a francia sivatagi hadtest fontos bázisa lett.", "A kszár építészete természetes hűtést biztosít, még 45 fok feletti hőségben is."],
+    ro: [],
+    en: []
     }
   }
 ];
+

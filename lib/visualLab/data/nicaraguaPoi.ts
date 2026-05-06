@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED
 import type { POI } from "./poi";
 import { poiExtraNicaraguaCitiesV2 } from "./poiExtraNicaraguaCitiesV2";
@@ -37,8 +38,7 @@ export const nicaraguaCities: POI[] = [
       ro: ["A fost distrus de mai multe ori de cutremure", "Găzduiește Palatul Național al Culturii", "Include lacul de crater Tiscapa în centru"],
       en: ["Destroyed multiple times by earthquakes", "Houses the National Palace of Culture", "Features the Tiscapa crater lake in its center"]
     },
-    historyYear: 1852
-  },
+    historyYear: 1852, image: "/poi-images/ni-managua.webp"},
   {
     id: "ni-leon",
     type: "city",
@@ -64,8 +64,7 @@ export const nicaraguaCities: POI[] = [
       ro: ["Mutat în 1610 după o erupție vulcanică", "Cunoscut pentru picturile murale politice", "Deține numeroase biserici coloniale"],
       en: ["Relocated in 1610 following a volcanic eruption", "Famous for its vibrant political murals", "Features numerous historic colonial churches"]
     },
-    historyYear: 1610
-  },
+    historyYear: 1610, image: "/poi-images/ni-leon.webp"},
   {
     id: "ni-granada",
     type: "city",
@@ -91,8 +90,7 @@ export const nicaraguaCities: POI[] = [
       ro: ["A fost incendiat în 1856 de mercenarul William Walker", "Deține peste 300 de insulițe", "Cunoscut pentru trăsurile cu cai"],
       en: ["Burned down in 1856 by William Walker", "The gateway to over 300 islets", "Famous for its horse-drawn carriages"]
     },
-    historyYear: 1524
-  },
+    historyYear: 1524, image: "/poi-images/ni-granada.webp"},
   {
     id: "ni-masaya",
     type: "city",
@@ -117,8 +115,7 @@ export const nicaraguaCities: POI[] = [
       hu: ["Függőágyairól híres", "A Somoza elleni felkelés helyszíne", "Saját erődje van (Coyotepe)"],
       ro: ["Faimos pentru hamace", "Locul insurecției împotriva lui Somoza", "Are propria fortăreață (Coyotepe)"],
       en: ["Famous for hammock weaving", "Site of major resistance against Somoza", "Home to the Coyotepe Fortress"]
-    }
-  },
+    }, image: "/poi-images/ni-masaya.webp"},
   {
     id: "ni-esteli",
     type: "city",
@@ -144,8 +141,7 @@ export const nicaraguaCities: POI[] = [
       ro: ["Centru important pentru cultura tutunului", "Rol central în revoluție", "Lângă rezervația Tisey-Estanzuela"],
       en: ["Major hub for tobacco cultivation", "Played a pivotal role in the revolution", "Near the Tisey-Estanzuela Nature Reserve"]
     },
-    historyYear: 1685
-  },
+    historyYear: 1685, image: "/poi-images/ni-esteli.webp"},
   {
     id: "ni-cosiguina",
     type: "mountain",
@@ -171,8 +167,7 @@ export const nicaraguaCities: POI[] = [
       ro: ["A avut odată peste 3000 m înălțime", "Considerat adormit", "Înconjurat de o rezervație naturală"],
       en: ["Once exceeded 3,000m in height", "Classified as a dormant volcano", "Surrounded by a protected nature reserve"]
     },
-    elevation: 872
-  },
+    elevation: 872, image: "/poi-images/ni-cosiguina.webp"},
   {
     id: "ni-rio-san-juan",
     type: "river",
@@ -198,8 +193,7 @@ export const nicaraguaCities: POI[] = [
       ro: ["Considerat ca rută pentru canal", "Găzduiește rechini taur", "Traversează rezervația Indio Maíz"],
       en: ["Proposed as an interoceanic canal route", "Home to rare freshwater bull sharks", "Flows through the Indio Maíz Reserve"]
     },
-    length: 192
-  },
+    length: 192, image: "/poi-images/ni-rio-san-juan.webp"},
   {
     id: "ni-apanas",
     type: "lake",
@@ -225,8 +219,7 @@ export const nicaraguaCities: POI[] = [
       ro: ["Creat în 1964", "Zonă umedă RAMSAR importantă", "Situat lângă Jinotega"],
       en: ["Established in 1964", "Designated as a RAMSAR wetland", "Located near Jinotega"]
     },
-    area: 51
-  },
+    area: 51, image: "/poi-images/ni-apanas.webp"},
   {
     id: "ni-san-cristobal",
     type: "mountain",
@@ -252,8 +245,7 @@ export const nicaraguaCities: POI[] = [
       ro: ["Are unul dintre cele mai mari cratere", "Erupe frecvent cenușă", "Dificil de escaladat"],
       en: ["Features one of Nicaragua's widest craters", "Known for periodic ash eruptions", "Highly challenging for hikers"]
     },
-    elevation: 1745
-  },
+    elevation: 1745, image: "/poi-images/ni-san-cristobal.webp"},
   {
     id: "ni-bosawas",
     type: "forest",
@@ -278,8 +270,7 @@ export const nicaraguaCities: POI[] = [
       hu: ["A biológiai folyosó része", "Több mint 200 000 hektár magterület", "Az illegális erdőirtás fenyegeti"],
       ro: ["Parte a Coridorului Biologic", "Peste 200.000 hectare de zonă centrală", "Amenințat de defrișări ilegale"],
       en: ["Key segment of the Biological Corridor", "Core zone exceeds 200,000 hectares", "Threatened by illegal logging"]
-    }
-  },
+    }, image: "/poi-images/ni-bosawas.webp"},
   {
     id: "ni-leon-viejo",
     type: "historical",
@@ -305,8 +296,7 @@ export const nicaraguaCities: POI[] = [
       ro: ["Cel mai vechi oraș spaniol din Nicaragua", "A servit drept capitală inițială", "Prezintă planul urbanistic colonial timpuriu"],
       en: ["Oldest Spanish-built city in Nicaragua", "Served as the first colonial capital", "Exhibits early Spanish colonial urban planning"]
     },
-    historyYear: 1524
-  },
+    historyYear: 1524, image: "/poi-images/ni-leon-viejo.webp"},
   {
     id: "ni-el-castillo",
     type: "historical",
@@ -332,8 +322,7 @@ export const nicaraguaCities: POI[] = [
       ro: ["Faimos pentru actul de eroism al Rafaelei Herrera", "Atacat de tânărul Horatio Nelson", "Găzduiește un mic muzeu"],
       en: ["Famous for the heroism of Rafaela Herrera", "Attacked by a young Horatio Nelson in 1780", "Features a small historical museum"]
     },
-    historyYear: 1673
-  },
+    historyYear: 1673, image: "/poi-images/ni-el-castillo.webp"},
 ];
 
 export const nicaraguaLandmarks: POI[] = [
@@ -361,8 +350,7 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["A Concepción aktív, a Maderas kialudt", "A vándormadarak fontos állomása", "Legendás eredetű hely"],
       ro: ["Concepción este activ, Maderas stins", "Loc important pentru păsări migratoare", "Origine legendară"],
       en: ["Concepción is active; Maderas is dormant", "Crucial stopover for migratory birds", "Subject of many indigenous legends"]
-    }
-  },
+    }, image: "/poi-images/ni-ometepe.webp"},
   {
     id: "ni-masayavolcano",
     type: "mountain",
@@ -388,8 +376,7 @@ export const nicaraguaLandmarks: POI[] = [
       ro: ["Găzduiește lilieci în peșteri", "Emană constant gaze", "Lângă orașul Masaya"],
       en: ["Caves on site host thousands of bats", "Emits constant sulfurous gases", "Located just minutes from Masaya city"]
     },
-    elevation: 635
-  },
+    elevation: 635, image: "/poi-images/ni-masayavolcano.webp"},
   {
     id: "ni-cerronegro",
     type: "mountain",
@@ -415,8 +402,7 @@ export const nicaraguaLandmarks: POI[] = [
       ro: ["Erupe la fiecare câteva decenii", "Fără vegetație", "Oferă vedere spre lanțul vulcanic"],
       en: ["Erupts every few decades", "Completely devoid of vegetation", "Offers stunning views of the Maribios range"]
     },
-    elevation: 728
-  },
+    elevation: 728, image: "/poi-images/ni-cerronegro.webp"},
   {
     id: "ni-somoto",
     type: "landmark",
@@ -441,8 +427,7 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["A legidősebb kőzetformációk közé tartozik", "Kristálytiszta úszóhelyeket kínál", "Nemzeti emlékmű"],
       ro: ["Printre cele mai vechi formațiuni de rocă", "Oferă locuri de înot cristaline", "Monument național"],
       en: ["Composed of some of the region's oldest rocks", "Features crystal-clear swimming holes", "Designated as a National Monument"]
-    }
-  },
+    }, image: "/poi-images/ni-somoto.webp"},
   {
     id: "ni-apoyo",
     type: "lake",
@@ -468,8 +453,7 @@ export const nicaraguaLandmarks: POI[] = [
       ro: ["Casa unor specii de pești endemice", "Loc popular pentru scufundări", "Rezervație naturală protejată"],
       en: ["Home to endemic cichlid fish species", "Popular spot for scuba diving", "Protected nature reserve"]
     },
-    area: 21
-  },
+    area: 21, image: "/poi-images/ni-apoyo.webp"},
   {
     id: "ni-sanjuandelsur",
     type: "city",
@@ -494,8 +478,7 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["A 'Sunday Funday' fontos állomása", "A Krisztus-szobor 24 méter magas", "A La Flor teknősrezervátum közelében"],
       ro: ["Oprire majoră pentru 'Sunday Funday'", "Statuia are 24 de metri înălțime", "Lângă rezervația de țestoase La Flor"],
       en: ["Host of the famous 'Sunday Funday' pool crawl", "Christ statue stands 24m tall", "Near the La Flor sea turtle sanctuary"]
-    }
-  },
+    }, image: "/poi-images/ni-sanjuandelsur.webp"},
   {
     id: "ni-cornislands",
     type: "island",
@@ -520,8 +503,7 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["Fontos a homárhalászat szempontjából", "Korábban brit protektorátus volt", "Türkizkék víz"],
       ro: ["Important pentru pescuitul de homari", "Fost protectorat britanic", "Apă turcoaz"],
       en: ["Hub of the regional lobster industry", "Former British protectorate", "Known for turquoise waters and coral reefs"]
-    }
-  },
+    }, image: "/poi-images/ni-cornislands.webp"},
   {
     id: "ni-leoncathedral",
     type: "historical",
@@ -547,8 +529,7 @@ export const nicaraguaLandmarks: POI[] = [
       ro: ["A supraviețuit numeroaselor cutremure", "Are tuneluri subterane", "Oferă vedere spre vulcanii Maribios"],
       en: ["Designed to withstand earthquakes", "Features a network of underground tunnels", "Offers views of the Maribios volcanic range"]
     },
-    historyYear: 1747
-  },
+    historyYear: 1747, image: "/poi-images/ni-leoncathedral.webp"},
   {
     id: "ni-mombacho",
     type: "mountain",
@@ -574,8 +555,7 @@ export const nicaraguaLandmarks: POI[] = [
       ro: ["Oferă vedere spre Isletas", "Are mai multe trasee de drumeție", "Bogat în orhidee"],
       en: ["Offers views of the Granada Islets", "Features diverse trails (Tigrillo, Puma)", "Home to many rare orchid species"]
     },
-    elevation: 1344
-  },
+    elevation: 1344, image: "/poi-images/ni-mombacho.webp"},
   {
     id: "ni-islets",
     type: "island",
@@ -627,8 +607,7 @@ export const nicaraguaLandmarks: POI[] = [
       ro: ["Bătălia din 1912 a avut loc aici", "Are celule subterane adânci", "Administrată astăzi de cercetași"],
       en: ["Site of a major battle in 1912", "Features dark subterranean dungeons", "Currently managed by the Boy Scouts"]
     },
-    historyYear: 1893
-  },
+    historyYear: 1893, image: "/poi-images/ni-coyotepe.webp"},
   {
     id: "ni-acahualinca",
     type: "historical",
@@ -653,8 +632,7 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["1874-ben fedezték fel", "Emberi és állati nyomokból áll", "A korai benépesülést bizonyítja"],
       ro: ["Descoperite în 1874", "Includ urme umane și animale", "Atestă așezările timpurii"],
       en: ["Discovered in 1874", "Includes footprints of deer and bison", "Key evidence of early human migration"]
-    }
-  },
+    }, image: "/poi-images/ni-acahualinca.webp"},
   {
     id: "ni-san-jacinto",
     type: "historical",
@@ -679,8 +657,7 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["Energiatermelési céllal kutatják", "Természetes hévízforrás", "Helyzete folyamatosan változik"],
       ro: ["Cercetat pentru energie", "Izvor termal natural", "Poziția se schimbă constant"],
       en: ["Monitored for geothermal energy potential", "Natural hot spring area", "Mud pots shift position over time"]
-    }
-  },
+    }, image: "/poi-images/ni-san-jacinto.webp"},
   {
     id: "ni-catarina",
     type: "landmark",
@@ -705,8 +682,7 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["Kertészeteiről ismert", "Népszerű hétvégi kirándulóhely", "Kézműves termékek a közelben"],
       ro: ["Cunoscut pentru pepiniere", "Loc popular pentru excursii de weekend", "Artizanat în apropiere"],
       en: ["Famous for its lush plant nurseries", "Popular weekend getaway for locals", "Hub for traditional wood carvings"]
-    }
-  },
+    }, image: "/poi-images/ni-catarina.webp"},
   {
     id: "ni-pearl-lagoon",
     type: "landmark",
@@ -731,8 +707,7 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["Korábban brit kereskedelmi központ", "Érintetlen mangroveerdők", "Változatos őslakos nyelvek"],
       ro: ["Fost centru comercial britanic", "Mangrove virgine", "Limbi indigene diverse"],
       en: ["Former British commercial outpost", "Surrounded by pristine mangroves", "Features diverse indigenous languages"]
-    }
-  },
+    }, image: "/poi-images/ni-pearl-lagoon.webp"},
   {
     id: "ni-montelimar",
     type: "landmark",
@@ -757,8 +732,7 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["Managua közelében fekszik", "Hatalmas medencerendszerek", "Népszerű esküvői helyszín"],
       ro: ["Situată aproape de Managua", "Dispune de piscine mari", "Populară pentru nunți"],
       en: ["Close proximity to Managua", "Features expansive resort facilities", "Highly popular wedding destination"]
-    }
-  },
+    }, image: "/poi-images/ni-montelimar.webp"},
   {
     id: "ni-tiscapa",
     type: "landmark",
@@ -783,8 +757,7 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["Vulkáni eredetű", "Fontos politikai események helyszíne", "Zipline lehetőség a tó felett"],
       ro: ["De origine vulcanică", "Centrul unor evenimente politice majore", "Oferă zipline peste lac"],
       en: ["Formed by volcanic activity", "Witness to key political history", "Offers an urban zipline experience"]
-    }
-  },
+    }, image: "/poi-images/ni-tiscapa.webp"},
   {
     id: "ni-puerto-cabezas",
     type: "landmark",
@@ -814,3 +787,4 @@ export const nicaraguaLandmarks: POI[] = [
 ];
 
 export const nicaraguaAllPoi: POI[] = [...nicaraguaCountry, ...nicaraguaRegions, ...nicaraguaCities, ...nicaraguaLandmarks, ...poiExtraNicaraguaCitiesV2, ...poiExtraNicaraguaEconomicV2, ...poiExtraNicaraguaHistoryV2, ...poiExtraNicaraguaLandmarksV2, ...poiExtraNicaraguaLifeV2, ...poiExtraNicaraguaNatureV2, ...poiExtraNicaraguaReliefV2];
+

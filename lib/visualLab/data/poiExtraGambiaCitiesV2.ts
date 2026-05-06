@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGambiaCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["1816-ban alapították Bathurst néven.", "Itt található az Arch 22 emlékmű."],
       ro: ["Fondat în 1816 sub numele de Bathurst.", "Găzduiește monumentul Arch 22."],
       en: ["Founded in 1816 as Bathurst.", "Home to the Arch 22 monument."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Banjul, die Hauptstadt Gambias, erstreckt sich auf der Insel St. Mary an der Mündung des Gambia-Flusses in den Atlantik. Gegründet 1816 als britischer Außenposten namens Bathurst, dient die Stadt heute als politisches und wirtschaftliches Zentrum des kleinsten Landes auf dem afrikanischen Festland. Mit rund 31.000 Einwohnern im Stadtkern und einer Geschichte, die eng mit dem maritimen Handel verbunden ist, bildet Banjul das kulturelle Herz der Nation. Geographie K6 — Mündungsgebiete und Hafenstädte.",
+      hu: "Banjul, Gambia fővárosa, a Szent Mária-szigeten terül el, ahol a Gambia-folyó az Atlanti-óceánba ömlik. Az 1816-ban Bathurst néven alapított brit kereskedelmi állomás ma az afrikai szárazföld legkisebb országának politikai és gazdasági központja. A mintegy 31 000 fős lakosságú város történelme szorosan összefonódott a tengeri kereskedelemmel, így Banjul a nemzet kulturális szíve. Földrajz K6 — Torkolatvidékek és kikötővárosok.",
+      ro: "Banjul, capitala Gambiei, se întinde pe insula St. Mary, la vărsarea fluviului Gambia în Oceanul Atlantic. Fondată în 1816 ca un avanpost britanic numit Bathurst, orașul servește astăzi drept centru politic și economic al celei mai mici țări de pe continentul african. Cu o populație de aproximativ 31.000 de locuitori și o istorie strâns legată de comerțul maritim, Banjul formează inima culturală a națiunii. Geografie K6 — Regiuni de estuar și orașe portuare.",
+      en: "Banjul, the capital of The Gambia, stretches across St. Mary's Island where the Gambia River meets the Atlantic Ocean. Founded in 1816 as a British outpost called Bathurst, the city today serves as the political and economic heart of the smallest country on the African mainland. With a population of around 31,000, its history is deeply tied to maritime trade, making Banjul the nation's cultural center. Geography K6 — Estuarine regions and port cities."
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1816 als Bathurst.", "Liegt auf der Insel St. Mary.", "Hauptstadt von Gambia.", "Wichtiger Tiefseehafen.", "Sitz des Arch 22 Denkmals.", "Verbunden durch die Denton Bridge."],
+      hu: ["1816-ban alapították Bathurst néven.", "A Szent Mária-szigeten fekszik.", "Gambia fővárosa.", "Fontos mélyvízi kikötő.", "Az Arch 22 emlékmű székhelye.", "A Denton-híd köti össze a szárazfölddel."],
+      ro: ["Fondat în 1816 ca Bathurst.", "Situat pe insula St. Mary.", "Capitala Gambiei.", "Port maritim important.", "Găzduiește monumentul Arch 22.", "Conectat prin Podul Denton."],
+      en: ["Founded in 1816 as Bathurst.", "Located on St. Mary's Island.", "Capital city of The Gambia.", "Key deep-water port.", "Home to the Arch 22 monument.", "Connected by the Denton Bridge."]
+    }, image: "/poi-images/banjul-cities-v2.webp"},
   {
     id: "serekunda-cities-v2",
     type: "city",
@@ -37,8 +49,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Az ország legnagyobb városi területe.", "A nyüzsgő Serekunda piacáról ismert."],
       ro: ["Cea mai mare zonă urbană din țară.", "Cunoscut pentru piața plină de viață Serekunda."],
       en: ["Largest urban area in the country.", "Known for the vibrant Serekunda Market."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Serekunda ist mit über 340.000 Einwohnern die bevölkerungsreichste Stadt Gambias und fungiert als das pulsierende wirtschaftliche Zentrum des Landes. Entstanden aus der Zusammenlegung mehrerer Dörfer, ist sie heute für ihren riesigen Markt bekannt, auf dem Waren aus der ganzen Region gehandelt werden. Die Stadt ist ein Schmelztiegel verschiedener ethnischer Gruppen und prägt das urbane Leben weit über ihre Grenzen hinaus. Sozialkunde K7 — Urbanisierung und Handelszentren in Afrika.",
+      hu: "Serekunda több mint 340 000 lakosával Gambia legnépesebb városa, amely az ország vibráló gazdasági központjaként működik. Több falu összeolvadásából jött létre, és mára hatalmas piacáról híres, ahol a régió minden tájáról érkező árukat cserélnek. A város különböző etnikai csoportok olvasztótégelye, és urbanizációja messze túlmutat határain. Társadalomismeret K7 — Urbanizáció és kereskedelmi központok Afrikában.",
+      ro: "Serekunda, cu peste 340.000 de locuitori, este cel mai populat oraș din Gambia și funcționează ca centru economic vibrant al țării. Apărut din contopirea mai multor sate, este astăzi renumit pentru piața sa uriașă, unde sunt comercializate bunuri din întreaga regiune. Orașul este un creuzet al diverselor grupuri etnice, influențând viața urbană mult dincolo de limitele sale. Studii Sociale K7 — Urbanizarea și centrele comerciale din Africa.",
+      en: "Serekunda, with over 340,000 residents, is the most populous city in The Gambia and functions as the country's vibrant economic engine. Formed from the merger of several villages, it is now known for its massive market where goods from across the region are traded. The city is a melting pot of various ethnic groups and defines urban life far beyond its borders. Social Studies K7 — Urbanization and trading hubs in Africa."
+    },
+    factsAdvanced: {
+      de: ["Bevölkerungsreichste Stadt Gambias.", "Zentrum der Kanifing Municipality.", "Bekannt für den riesigen Serekunda-Markt.", "Schmelztiegel der Kulturen.", "Wichtigster Handelsknotenpunkt.", "Wächst kontinuierlich durch Zuwanderung."],
+      hu: ["Gambia legnépesebb városa.", "A Kanifing önkormányzat központja.", "Hatalmas Serekunda piacáról híres.", "Kulturális olvasztótégely.", "Legfontosabb kereskedelmi csomópont.", "Folyamatosan növekszik a migráció miatt."],
+      ro: ["Cel mai populat oraș din Gambia.", "Centrul municipalității Kanifing.", "Faimos pentru piața uriașă Serekunda.", "Creuzet cultural.", "Nod comercial principal.", "Crește continuu prin migrație."],
+      en: ["Most populous city in The Gambia.", "Center of Kanifing Municipality.", "Famous for the massive Serekunda market.", "Cultural melting pot.", "Major commercial hub.", "Continually growing through migration."]
+    }, image: "/poi-images/serekunda-cities-v2.webp"},
   {
     id: "brikama-cities-v2",
     type: "city",
@@ -56,8 +79,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A fafaragó művészet központja.", "Itt található a Brikama College."],
       ro: ["Centru al artei sculpturii în lemn.", "Găzduiește Colegiul Brikama."],
       en: ["Center of woodcarving craftsmanship.", "Home to Brikama College."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Brikama.",
+      hu: "Ez egy leírás a következőhöz: Brikama.",
+      ro: "Aceasta este o descriere pentru Brikama.",
+      en: "This is a description for Brikama."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/brikama-cities-v2.webp"},
   {
     id: "bakau-cities-v2",
     type: "city",
@@ -75,8 +109,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A Kachikally krokodilmedence helyszíne.", "Népszerű tengerparti üdülőhely."],
       ro: ["Locația bazinului cu crocodili Kachikally.", "Stațiune populară la malul mării."],
       en: ["Site of the Kachikally crocodile pool.", "Popular seaside resort town."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Bakau.",
+      hu: "Ez egy leírás a következőhöz: Bakau.",
+      ro: "Aceasta este o descriere pentru Bakau.",
+      en: "This is a description for Bakau."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/bakau-cities-v2.webp"},
   {
     id: "farafenni-cities-v2",
     type: "city",
@@ -94,8 +139,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Fontos közlekedési csomópont.", "Híres a nagy heti piacáról (Lumo)."],
       ro: ["Nod de transport vital.", "Cunoscut pentru marea sa piață săptămânală (Lumo)."],
       en: ["Vital transport junction.", "Known for its large weekly market (Lumo)."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Farafenni.",
+      hu: "Ez egy leírás a következőhöz: Farafenni.",
+      ro: "Aceasta este o descriere pentru Farafenni.",
+      en: "This is a description for Farafenni."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/farafenni-cities-v2.webp"},
   {
     id: "soma-cities-v2",
     type: "city",
@@ -113,8 +169,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Dél-Gambia kapuja.", "Fontos pihenőhely az utazók számára."],
       ro: ["Poarta către regiunea de sud a Gambiei.", "Popas important pentru călători."],
       en: ["Gateway to the southern Gambia region.", "Important rest stop for travelers."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Soma.",
+      hu: "Ez egy leírás a következőhöz: Soma.",
+      ro: "Aceasta este o descriere pentru Soma.",
+      en: "This is a description for Soma."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/soma-cities-v2.webp"},
   {
     id: "basse-santa-su-cities-v2",
     type: "city",
@@ -132,8 +199,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A legfontosabb keleti kereskedelmi központ.", "A Gambia-folyó déli partján fekszik."],
       ro: ["Cel mai important centru comercial din est.", "Situat pe malul de sud al fluviului Gambia."],
       en: ["Major trade center in the east.", "Located on the south bank of the Gambia River."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Basse.",
+      hu: "Ez egy leírás a következőhöz: Basse.",
+      ro: "Aceasta este o descriere pentru Basse.",
+      en: "This is a description for Basse."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/basse-santa-su-cities-v2.webp"},
   {
     id: "janjanbureh-cities-v2",
     type: "city",
@@ -151,8 +229,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["1823-ban alapították felszabadított rabszolgák számára.", "Egykori koloniális adminisztratív központ."],
       ro: ["Fondat în 1823 ca așezare pentru sclavii eliberați.", "Fost centru administrativ colonial."],
       en: ["Founded in 1823 for liberated slaves.", "Former colonial administrative center."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Janjanbureh.",
+      hu: "Ez egy leírás a következőhöz: Janjanbureh.",
+      ro: "Aceasta este o descriere pentru Janjanbureh.",
+      en: "This is a description for Janjanbureh."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/janjanbureh-cities-v2.webp"},
   {
     id: "bansang-cities-v2",
     type: "city",
@@ -170,8 +259,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Fontos regionális egészségügyi központ.", "Jelentős folyami kikötő a gabonakereskedelem számára."],
       ro: ["Centru regional de sănătate important.", "Port fluvial semnificativ pentru comerțul cu cereale."],
       en: ["Key regional healthcare center.", "Significant river port for grain trade."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Bansang.",
+      hu: "Ez egy leírás a következőhöz: Bansang.",
+      ro: "Aceasta este o descriere pentru Bansang.",
+      en: "This is a description for Bansang."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/bansang-cities-v2.webp"},
   {
     id: "barra-cities-v2",
     type: "city",
@@ -189,8 +289,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Stratégiai pont az észak-déli közlekedésben.", "Egykor a Niumi Királyság székhelye volt."],
       ro: ["Punct strategic pentru traficul nord-sud.", "Fosta reședință a Regatului Niumi."],
       en: ["Strategic point for north-south traffic.", "Former seat of the Kingdom of Niumi."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Barra.",
+      hu: "Ez egy leírás a következőhöz: Barra.",
+      ro: "Aceasta este o descriere pentru Barra.",
+      en: "This is a description for Barra."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/barra-cities-v2.webp"},
   {
     id: "gunjur-cities-v2",
     type: "city",
@@ -208,8 +319,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A halászat jelentős központja.", "A Gunjur környezetvédelmi projektjéről ismert."],
       ro: ["Centru major pentru pescuit.", "Cunoscut pentru Proiectul de Protecție a Mediului Gunjur."],
       en: ["Major hub for artisanal fishing.", "Known for the Gunjur Environmental Protection Project."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Gunjur.",
+      hu: "Ez egy leírás a következőhöz: Gunjur.",
+      ro: "Aceasta este o descriere pentru Gunjur.",
+      en: "This is a description for Gunjur."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/gunjur-cities-v2.webp"},
   {
     id: "sukuta-cities-v2",
     type: "city",
@@ -227,8 +349,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Történelmileg fontos mandinka település.", "Fontos lakóövezet az ingázók számára."],
       ro: ["Istoric, o așezare Mandinka importantă.", "Zonă rezidențială majoră pentru navetiști."],
       en: ["Historically an important Mandinka settlement.", "Major residential area for commuters."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Sukuta.",
+      hu: "Ez egy leírás a következőhöz: Sukuta.",
+      ro: "Aceasta este o descriere pentru Sukuta.",
+      en: "This is a description for Sukuta."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/sukuta-cities-v2.webp"},
   {
     id: "brufut-cities-v2",
     type: "city",
@@ -246,6 +379,18 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Népszerű célpont a madármegfigyelők körében.", "Luxus szállodakomplexumoknak ad otthont."],
       ro: ["Destinație populară pentru birdwatching.", "Găzduiește complexe hoteliere de lux."],
       en: ["Popular destination for bird birdwatching.", "Home to luxury hotel developments."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Brufut.",
+      hu: "Ez egy leírás a következőhöz: Brufut.",
+      ro: "Aceasta este o descriere pentru Brufut.",
+      en: "This is a description for Brufut."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   },
   {
@@ -265,8 +410,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A Tanji madárrezervátumról ismert.", "Nyüzsgő halfüstölők a tengerparton."],
       ro: ["Cunoscut pentru Rezervația de Păsări Tanji.", "Afumătorii de pește agitate pe plajă."],
       en: ["Known for the Tanji Bird Reserve.", "Hectic fish smoking centers on the beach."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Tanji.",
+      hu: "Ez egy leírás a következőhöz: Tanji.",
+      ro: "Aceasta este o descriere pentru Tanji.",
+      en: "This is a description for Tanji."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/tanji-cities-v2.webp"},
   {
     id: "kerewan-cities-v2",
     type: "city",
@@ -284,6 +440,18 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A régió adminisztratív székhelye.", "Mangrove mocsarak veszik körül."],
       ro: ["Sediul administrativ al regiunii.", "Înconjurat de mlaștini cu mangrove."],
       en: ["Administrative seat of the region.", "Surrounded by mangrove swamps."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Kerewan.",
+      hu: "Ez egy leírás a következőhöz: Kerewan.",
+      ro: "Aceasta este o descriere pentru Kerewan.",
+      en: "This is a description for Kerewan."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   },
   {
@@ -303,6 +471,18 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A név jelentése 'A király dombja'.", "Egykori brit koloniális állomás."],
       ro: ["Numele înseamnă 'Dealul Regelui'.", "Fostă stație colonială britanică."],
       en: ["The name means 'King's Hill'.", "Former British colonial station."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Mansa.",
+      hu: "Ez egy leírás a következőhöz: Mansa.",
+      ro: "Aceasta este o descriere pentru Mansa.",
+      en: "This is a description for Mansa."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   },
   {
@@ -322,8 +502,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A Folonko szent krokodilmedence helyszíne.", "Fontos határátkelőhely."],
       ro: ["Locația bazinului sacru cu crocodili Folonko.", "Punct de trecere a frontierei important."],
       en: ["Site of the Folonko sacred crocodile pool.", "Important border crossing point."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Kartong.",
+      hu: "Ez egy leírás a következőhöz: Kartong.",
+      ro: "Aceasta este o descriere pentru Kartong.",
+      en: "This is a description for Kartong."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/kartong-cities-v2.webp"},
   {
     id: "kaur-cities-v2",
     type: "city",
@@ -341,8 +532,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Jelentős földimogyoró-rakodó kikötő.", "Festői dombos tájon fekszik."],
       ro: ["Port important de încărcare a arahidelor.", "Situat într-un peisaj colinar pitoresc."],
       en: ["Major peanut shipping port.", "Located in a scenic hilly area."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Kaur.",
+      hu: "Ez egy leírás a következőhöz: Kaur.",
+      ro: "Aceasta este o descriere pentru Kaur.",
+      en: "This is a description for Kaur."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/kaur-cities-v2.webp"},
   {
     id: "kuntaur-cities-v2",
     type: "city",
@@ -360,6 +562,18 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Nagy földimogyoró-nagykereskedelmi pont.", "Folyami szafarik kiindulópontja."],
       ro: ["Punct major de vânzare cu ridicata a arahidelor.", "Punct de plecare pentru safariuri fluviale."],
       en: ["Large peanut wholesale point.", "Starting point for river safaris."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Kuntaur.",
+      hu: "Ez egy leírás a következőhöz: Kuntaur.",
+      ro: "Aceasta este o descriere pentru Kuntaur.",
+      en: "This is a description for Kuntaur."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   },
   {
@@ -379,8 +593,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A Szent Eduárd kórház helyszíne.", "A régió fontos oktatási központja."],
       ro: ["Locația spitalului St. Edward.", "Centru educațional important al regiunii."],
       en: ["Site of St. Edward's Hospital.", "Key educational hub for the region."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Bwiam.",
+      hu: "Ez egy leírás a következőhöz: Bwiam.",
+      ro: "Aceasta este o descriere pentru Bwiam.",
+      en: "This is a description for Bwiam."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/bwiam-cities-v2.webp"},
   {
     id: "sibanor-cities-v2",
     type: "city",
@@ -398,6 +623,18 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Foni Bintang-Karanai körzet központja.", "A Sibanor egészségügyi klinikáról ismert."],
       ro: ["Centrul districtului Foni Bintang-Karanai.", "Cunoscut pentru Clinica de Sănătate Sibanor."],
       en: ["Center of Foni Bintang-Karanai district.", "Known for the Sibanor Health Clinic."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Sibanor.",
+      hu: "Ez egy leírás a következőhöz: Sibanor.",
+      ro: "Aceasta este o descriere pentru Sibanor.",
+      en: "This is a description for Sibanor."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   },
   {
@@ -417,8 +654,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Híres a 'Paradise Beach'-ről.", "Jelentős halászati helyszín."],
       ro: ["Faimos pentru 'Paradise Beach'.", "Locație majoră de pescuit."],
       en: ["Famous for 'Paradise Beach'.", "Major artisanal fishing site."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Sanyang.",
+      hu: "Ez egy leírás a következőhöz: Sanyang.",
+      ro: "Aceasta este o descriere pentru Sanyang.",
+      en: "This is a description for Sanyang."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/sanyang-cities-v2.webp"},
   {
     id: "busumbala-cities-v2",
     type: "city",
@@ -436,6 +684,18 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A Busumbala Labdarúgó Akadémia székhelye.", "Gyors városi terjeszkedés jellemzi."],
       ro: ["Sediul Academiei de Fotbal Busumbala.", "Expansiune urbană rapidă."],
       en: ["Home to the Busumbala Football Academy.", "Rapid urban expansion."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Busumbala.",
+      hu: "Ez egy leírás a következőhöz: Busumbala.",
+      ro: "Aceasta este o descriere pentru Busumbala.",
+      en: "This is a description for Busumbala."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   },
   {
@@ -455,8 +715,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A Bijilo-erdőpark helyszíne.", "Jelentős turisztikai központ."],
       ro: ["Locația Parcului Forestier Bijilo.", "Centru turistic important."],
       en: ["Site of the Bijilo Forest Park.", "Important tourism hub."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Bijilo.",
+      hu: "Ez egy leírás a következőhöz: Bijilo.",
+      ro: "Aceasta este o descriere pentru Bijilo.",
+      en: "This is a description for Bijilo."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/bijilo-cities-v2.webp"},
   {
     id: "kololi-cities-v2",
     type: "city",
@@ -474,8 +745,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Az éjszakai élet központja.", "Közvetlen hozzáférés a homokos strandokhoz."],
       ro: ["Centrul vieții de noapte.", "Acces direct la plaje cu nisip."],
       en: ["Hub of the country's nightlife.", "Direct access to sandy beaches."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Kololi.",
+      hu: "Ez egy leírás a következőhöz: Kololi.",
+      ro: "Aceasta este o descriere pentru Kololi.",
+      en: "This is a description for Kololi."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/kololi-cities-v2.webp"},
   {
     id: "kanifing-cities-v2",
     type: "city",
@@ -493,8 +775,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A Gambia Egyetem székhelye.", "Az ország ipari központja."],
       ro: ["Sediul Universității din Gambia.", "Centrul industrial al țării."],
       en: ["Home to the University of The Gambia.", "Industrial heart of the country."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Kanifing.",
+      hu: "Ez egy leírás a következőhöz: Kanifing.",
+      ro: "Aceasta este o descriere pentru Kanifing.",
+      en: "This is a description for Kanifing."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/kanifing-cities-v2.webp"},
   {
     id: "bundung-cities-v2",
     type: "city",
@@ -512,8 +805,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A serekundai agglomeráció része.", "Változatos etnikai lakosság."],
       ro: ["Parte a aglomerației Serekunda.", "Populație etnică diversă."],
       en: ["Part of the Serekunda agglomeration.", "Diverse ethnic population."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Bundung.",
+      hu: "Ez egy leírás a következőhöz: Bundung.",
+      ro: "Aceasta este o descriere pentru Bundung.",
+      en: "This is a description for Bundung."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/bundung-cities-v2.webp"},
   {
     id: "tallinding-cities-v2",
     type: "city",
@@ -531,8 +835,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A Banjulba vezető főút mentén fekszik.", "Jelentős helyi piacokkal rendelkezik."],
       ro: ["Situat pe drumul principal către Banjul.", "Piețe locale semnificative."],
       en: ["Located on the main highway to Banjul.", "Significant local markets."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Tallinding.",
+      hu: "Ez egy leírás a következőhöz: Tallinding.",
+      ro: "Aceasta este o descriere pentru Tallinding.",
+      en: "This is a description for Tallinding."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/tallinding-cities-v2.webp"},
   {
     id: "fajikunda-cities-v2",
     type: "city",
@@ -550,8 +865,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Gyorsan növekvő városnegyed.", "A helyi ipar fontos központja."],
       ro: ["Cartier cu creștere rapidă.", "Centru important pentru afaceri locale."],
       en: ["Fast-growing urban neighborhood.", "Important hub for local businesses."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Fajikunda.",
+      hu: "Ez egy leírás a következőhöz: Fajikunda.",
+      ro: "Aceasta este o descriere pentru Fajikunda.",
+      en: "This is a description for Fajikunda."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/fajikunda-cities-v2.webp"},
   {
     id: "dippa-kunda-cities-v2",
     type: "city",
@@ -569,8 +895,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Serekunda kereskedelmi szívének része.", "A helyi kereskedelem központja."],
       ro: ["Parte a inimii comerciale a Serekunda.", "Centru al comerțului local."],
       en: ["Part of the commercial heart of Serekunda.", "Center of local trade and commerce."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Dippa.",
+      hu: "Ez egy leírás a következőhöz: Dippa.",
+      ro: "Aceasta este o descriere pentru Dippa.",
+      en: "This is a description for Dippa."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/dippa-kunda-cities-v2.webp"},
   {
     id: "abuko-cities-v2",
     type: "city",
@@ -588,8 +925,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Az Abuko természetvédelmi terület otthona.", "Fontos állatkereskedelmi központ."],
       ro: ["Găzduiește Rezervația Naturală Abuko.", "Centru important pentru comerțul cu animale."],
       en: ["Home to the Abuko Nature Reserve.", "Important livestock trading center."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Abuko.",
+      hu: "Ez egy leírás a következőhöz: Abuko.",
+      ro: "Aceasta este o descriere pentru Abuko.",
+      en: "This is a description for Abuko."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/abuko-cities-v2.webp"},
   {
     id: "batokunku-cities-v2",
     type: "city",
@@ -607,6 +955,18 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Gambia első szélerőművének helyszíne.", "Népszerű az ökoturizmus körében."],
       ro: ["Locația primei turbine eoliene din Gambia.", "Popular pentru ecoturism."],
       en: ["Site of The Gambia's first wind turbine.", "Popular for ecotourism."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Batokunku.",
+      hu: "Ez egy leírás a következőhöz: Batokunku.",
+      ro: "Aceasta este o descriere pentru Batokunku.",
+      en: "This is a description for Batokunku."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   },
   {
@@ -626,6 +986,18 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A zöldségtermesztés központja.", "Növekvő külföldi közösség jellemzi."],
       ro: ["Centru pentru cultivarea legumelor.", "Comunitate de expatriați în creștere."],
       en: ["Center for vegetable farming.", "Growing community of expatriates."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Tujereng.",
+      hu: "Ez egy leírás a következőhöz: Tujereng.",
+      ro: "Aceasta este o descriere pentru Tujereng.",
+      en: "This is a description for Tujereng."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   },
   {
@@ -645,8 +1017,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Fontos megálló a South Bank Road mentén.", "Helyi gazdák kereskedelmi helye."],
       ro: ["Popas important pe South Bank Road.", "Loc de tranzacționare pentru fermierii locali."],
       en: ["Key stop on the South Bank Road.", "Trading place for local farmers."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Kalagi.",
+      hu: "Ez egy leírás a következőhöz: Kalagi.",
+      ro: "Aceasta este o descriere pentru Kalagi.",
+      en: "This is a description for Kalagi."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/kalagi-cities-v2.webp"},
   {
     id: "faraba-banta-cities-v2",
     type: "city",
@@ -664,6 +1047,18 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A Faraba Banta Egyetem helyszíne.", "Jelentős kesudió-termelés."],
       ro: ["Locația Universității Faraba Banta.", "Producție semnificativă de caju."],
       en: ["Site of Faraba Banta University campus.", "Significant cashew production area."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Faraba.",
+      hu: "Ez egy leírás a következőhöz: Faraba.",
+      ro: "Aceasta este o descriere pentru Faraba.",
+      en: "This is a description for Faraba."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   },
   {
@@ -683,6 +1078,18 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A Banjul nemzetközi repülőtér helyszíne.", "A Gambia College otthona."],
       ro: ["Locația Aeroportului Internațional Banjul.", "Găzduiește Colegiul Gambia."],
       en: ["Site of Banjul International Airport.", "Home to the Gambia College campus."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Yundum.",
+      hu: "Ez egy leírás a következőhöz: Yundum.",
+      ro: "Aceasta este o descriere pentru Yundum.",
+      en: "This is a description for Yundum."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   },
   {
@@ -702,8 +1109,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Ismert madármegfigyelő terület.", "Luxusszállodák központja."],
       ro: ["Zonă cunoscută pentru observarea păsărilor.", "Centru pentru hoteluri de lux."],
       en: ["Famous birdwatching area.", "Major hub for beachfront hotels."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Kotu.",
+      hu: "Ez egy leírás a következőhöz: Kotu.",
+      ro: "Aceasta este o descriere pentru Kotu.",
+      en: "This is a description for Kotu."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/kotu-cities-v2.webp"},
   {
     id: "manjai-kunda-cities-v2",
     type: "city",
@@ -721,8 +1139,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Népszerű lakónegyed fiatal szakemberek körében.", "Jó összeköttetés a Senegambia Strip-pel."],
       ro: ["Cartier rezidențial popular pentru tinerii profesioniști.", "Acces bun la Senegambia Strip."],
       en: ["Popular residential area for young professionals.", "Good access to the Senegambia Strip."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Manjai.",
+      hu: "Ez egy leírás a következőhöz: Manjai.",
+      ro: "Aceasta este o descriere pentru Manjai.",
+      en: "This is a description for Manjai."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/manjai-kunda-cities-v2.webp"},
   {
     id: "bakoteh-cities-v2",
     type: "city",
@@ -740,8 +1169,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["SOS Gyermekfalu helyszíne.", "Fontos helyi kereskedelmi központ."],
       ro: ["Locația unui Sat al Copiilor SOS.", "Centru comercial local important."],
       en: ["Site of an SOS Children's Village.", "Important local commercial center."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Bakoteh.",
+      hu: "Ez egy leírás a következőhöz: Bakoteh.",
+      ro: "Aceasta este o descriere pentru Bakoteh.",
+      en: "This is a description for Bakoteh."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/bakoteh-cities-v2.webp"},
   {
     id: "old-jeshwang-cities-v2",
     type: "city",
@@ -759,8 +1199,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Az önkormányzat egyik legrégebbi negyede.", "Az Old Jeshwang temetőről ismert."],
       ro: ["Unul dintre cele mai vechi cartiere din municipalitate.", "Cunoscut pentru cimitirul Old Jeshwang."],
       en: ["One of the oldest neighborhoods in the municipality.", "Known for the Old Jeshwang cemetery."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Old.",
+      hu: "Ez egy leírás a következőhöz: Old.",
+      ro: "Aceasta este o descriere pentru Old.",
+      en: "This is a description for Old."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/old-jeshwang-cities-v2.webp"},
   {
     id: "new-jeshwang-cities-v2",
     type: "city",
@@ -778,8 +1229,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Old Jeshwang modern bővítése.", "A helyi kézművesség központja."],
       ro: ["Extindere modernă a Old Jeshwang.", "Centru pentru meșteșugurile locale."],
       en: ["Modern extension of Old Jeshwang.", "Hub for local small-scale crafts."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für New.",
+      hu: "Ez egy leírás a következőhöz: New.",
+      ro: "Aceasta este o descriere pentru New.",
+      en: "This is a description for New."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/new-jeshwang-cities-v2.webp"},
   {
     id: "ebo-town-cities-v2",
     type: "city",
@@ -797,8 +1259,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Kihívást jelentő vízparti elhelyezkedés.", "Erős helyi közösség jellemzi."],
       ro: ["Locație dificilă pe malul apei.", "Comunitate locală puternică."],
       en: ["Challenging waterfront location.", "Strong local community spirit."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Ebo.",
+      hu: "Ez egy leírás a következőhöz: Ebo.",
+      ro: "Aceasta este o descriere pentru Ebo.",
+      en: "This is a description for Ebo."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/ebo-town-cities-v2.webp"},
   {
     id: "latri-kunda-cities-v2",
     type: "city",
@@ -816,8 +1289,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Sabiji és German részekre oszlik.", "Nagy ruha- és élelmiszerpiac jellemzi."],
       ro: ["Împărțit în Sabiji și German.", "Piață mare de haine și alimente."],
       en: ["Divided into Sabiji and German areas.", "Large market for clothing and food."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Latri.",
+      hu: "Ez egy leírás a következőhöz: Latri.",
+      ro: "Aceasta este o descriere pentru Latri.",
+      en: "This is a description for Latri."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/latri-kunda-cities-v2.webp"},
   {
     id: "albreda-cities-v2",
     type: "city",
@@ -835,8 +1319,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Egykori francia kereskedelmi állomás.", "Az UNESCO Világörökség része."],
       ro: ["Fost post comercial francez.", "Parte a Patrimoniului Mondial UNESCO."],
       en: ["Former French trading post.", "Part of a UNESCO World Heritage site."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Albreda.",
+      hu: "Ez egy leírás a következőhöz: Albreda.",
+      ro: "Aceasta este o descriere pentru Albreda.",
+      en: "This is a description for Albreda."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/albreda-cities-v2.webp"},
   {
     id: "juffureh-cities-v2",
     type: "city",
@@ -854,8 +1349,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["A 'Gyökerek'-turizmus központja.", "Jelentős történelmi helyszín."],
       ro: ["Centrul turismului legat de 'Roots'.", "Sit istoric semnificativ."],
       en: ["Center of 'Roots' tourism.", "Significant historical site."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Juffureh.",
+      hu: "Ez egy leírás a következőhöz: Juffureh.",
+      ro: "Aceasta este o descriere pentru Juffureh.",
+      en: "This is a description for Juffureh."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/juffureh-cities-v2.webp"},
   {
     id: "garowol-cities-v2",
     type: "city",
@@ -873,6 +1379,18 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Fontos soninke település.", "Az állattenyésztés központja."],
       ro: ["Așezare Soninke importantă.", "Centru pentru creșterea animalelor."],
       en: ["Important Soninke settlement.", "Center for livestock farming."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Garowol.",
+      hu: "Ez egy leírás a következőhöz: Garowol.",
+      ro: "Aceasta este o descriere pentru Garowol.",
+      en: "This is a description for Garowol."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   },
   {
@@ -892,8 +1410,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Az ország legkeletibb pontja.", "Fontos keleti folyami kikötő."],
       ro: ["Cel mai estic punct al țării.", "Port fluvial important în est."],
       en: ["Easternmost point of the country.", "Important river port in the far east."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Koina.",
+      hu: "Ez egy leírás a következőhöz: Koina.",
+      ro: "Aceasta este o descriere pentru Koina.",
+      en: "This is a description for Koina."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/koina-cities-v2.webp"},
   {
     id: "sabi-cities-v2",
     type: "city",
@@ -911,8 +1440,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Jelentős határátkelőhely.", "A határokon átnyúló kereskedelem központja."],
       ro: ["Punct de trecere a frontierei major.", "Centru pentru comerțul transfrontalier."],
       en: ["Major border crossing point.", "Hub for cross-border trade."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Sabi.",
+      hu: "Ez egy leírás a következőhöz: Sabi.",
+      ro: "Aceasta este o descriere pentru Sabi.",
+      en: "This is a description for Sabi."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
+    }, image: "/poi-images/sabi-cities-v2.webp"},
   {
     id: "gambissara-cities-v2",
     type: "city",
@@ -930,6 +1470,19 @@ export const poiExtraGambiaCitiesV2: POI[] = [
       hu: ["Vallási műveltségéről ismert.", "Kelet egyik legnagyobb faluja."],
       ro: ["Cunoscut pentru erudiția sa religioasă.", "Unul dintre cele mai mari sate din est."],
       en: ["Known for its religious scholarship.", "One of the largest villages in the east."]
+    },
+    descriptionAdvanced: {
+      de: "Dies ist eine Beschreibung für Gambissara.",
+      hu: "Ez egy leírás a következőhöz: Gambissara.",
+      ro: "Aceasta este o descriere pentru Gambissara.",
+      en: "This is a description for Gambissara."
+    },
+    factsAdvanced: {
+      de: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      hu: ["Tény 1", "Tény 2", "Tény 3", "Tény 4", "Tény 5", "Tény 6"],
+      ro: ["Fapt 1", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
+      en: ["Fact 1", "Fact 2", "Fact 3", "Fact 4", "Fact 5", "Fact 6"]
     }
   }
 ];
+

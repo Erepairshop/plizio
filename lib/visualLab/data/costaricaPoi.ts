@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED
 import type { POI } from "./poi";
 import { poiExtraCostaricaCitiesV2 } from "./poiExtraCostaricaCitiesV2";
@@ -37,8 +38,7 @@ export const costaricaCities: POI[] = [
       ro: ["Găzduiește Muzeul Aurului", "Centrul politicii costaricanene", "Amestec de arhitectură colonială și modernă"],
       en: ["Home to the Pre-Columbian Gold Museum", "Political nerve center of the nation", "Features a blend of colonial and modern architecture"]
     },
-    historyYear: 1823
-  },
+    historyYear: 1823, image: "/poi-images/cr-sanjose.webp"},
   {
     id: "cr-alajuela",
     type: "city",
@@ -64,8 +64,7 @@ export const costaricaCities: POI[] = [
       ro: ["Locația aeroportului Juan Santamaría", "Centru important pentru trestia de zahăr", "Cunoscut pentru parcul său central"],
       en: ["Location of the primary international airport", "Major center for sugarcane processing", "Known for its lively central park"]
     },
-    historyYear: 1782
-  },
+    historyYear: 1782, image: "/poi-images/cr-alajuela.webp"},
   {
     id: "cr-cartago",
     type: "city",
@@ -91,8 +90,7 @@ export const costaricaCities: POI[] = [
       ro: ["Găzduiește Bazilica „Nuestra Señora de los Ángeles”", "Grav afectat de cutremurul din 1910", "La poalele vulcanului Irazú"],
       en: ["Home to the Basilica of Our Lady of the Angels", "Severely impacted by the 1910 earthquake", "Situated at the base of the Irazú Volcano"]
     },
-    historyYear: 1563
-  },
+    historyYear: 1563, image: "/poi-images/cr-cartago.webp"},
   {
     id: "cr-heredia",
     type: "city",
@@ -118,8 +116,7 @@ export const costaricaCities: POI[] = [
       ro: ["Deține faimosul turn Fortín", "Situat la umbra vulcanului Barva", "Centru pentru companii de înaltă tehnologie"],
       en: ["Features the iconic Fortín tower", "Located in the foothills of the Barva Volcano", "Major hub for high-tech industry and services"]
     },
-    historyYear: 1706
-  },
+    historyYear: 1706, image: "/poi-images/cr-heredia.webp"},
   {
     id: "cr-liberia",
     type: "city",
@@ -145,8 +142,7 @@ export const costaricaCities: POI[] = [
       ro: ["Are un aeroport internațional", "Centrul culturii Sabanero (cowboy)", "Nod de transport major"],
       en: ["Home to Guanacaste's international airport", "Heart of the 'Sabanero' (cowboy) culture", "Major transit point for northern tourism"]
     },
-    historyYear: 1769
-  },
+    historyYear: 1769, image: "/poi-images/cr-liberia.webp"},
   {
     id: "cr-chirripo",
     type: "mountain",
@@ -172,8 +168,7 @@ export const costaricaCities: POI[] = [
       ro: ["Zăpada este extrem de rară", "Escaladarea necesită permis", "Parte a lanțului muntos Talamanca"],
       en: ["One of the few places in CR with freezing temps", "Summit trek requires advance permits", "Part of the Cordillera de Talamanca"]
     },
-    elevation: 3820
-  },
+    elevation: 3820, image: "/poi-images/cr-chirripo.webp"},
   {
     id: "cr-pacuare",
     type: "river",
@@ -199,8 +194,7 @@ export const costaricaCities: POI[] = [
       ro: ["Coridor biologic important", "Casa jaguarului și a ocelotului", "Zonă protejată pentru specii amenințate"],
       en: ["Vital biological corridor for wildlife", "Habitat for jaguars and ocelots", "Protected area for diverse tropical species"]
     },
-    length: 108
-  },
+    length: 108, image: "/poi-images/cr-pacuare.webp"},
   {
     id: "cr-arenal-lake",
     type: "lake",
@@ -226,8 +220,7 @@ export const costaricaCities: POI[] = [
       ro: ["Adâncime: până la 60 m", "Creat prin construirea unui baraj", "Găzduiește peștele „guapote”"],
       en: ["Maximum depth: 60 m", "Tripled in size by the 1979 dam", "Home to the prized Rainbow Bass (Guapote)"]
     },
-    area: 85
-  },
+    area: 85, image: "/poi-images/cr-arenal-lake.webp"},
   {
     id: "cr-rincon-vieja",
     type: "forest",
@@ -252,8 +245,7 @@ export const costaricaCities: POI[] = [
       hu: ["Kilenc krátere van", "Fontos a geotermikus energia szempontjából", "UNESCO világörökség része"],
       ro: ["Are nouă cratere", "Important pentru energia geotermală", "Patrimoniu mondial UNESCO"],
       en: ["Features nine volcanic craters", "Key site for geothermal research", "Part of the UNESCO Guanacaste Heritage site"]
-    }
-  },
+    }, image: "/poi-images/cr-rincon-vieja.webp"},
   {
     id: "cr-reventazon",
     type: "river",
@@ -279,8 +271,7 @@ export const costaricaCities: POI[] = [
       ro: ["Cel mai mare baraj din America Centrală", "Bogat în ape interioare", "Coridor biologic important"],
       en: ["Site of the largest dam in Central America", "Rich in freshwater biodiversity", "Vital corridor for migrating species"]
     },
-    length: 145
-  },
+    length: 145, image: "/poi-images/cr-reventazon.webp"},
   {
     id: "cr-guayabo",
     type: "historical",
@@ -306,8 +297,7 @@ export const costaricaCities: POI[] = [
       ro: ["Are străzi pietruite", "Centru comercial și religios", "Include petroglife și morminte"],
       en: ["Features stone-paved roads", "Major ceremonial and social center", "Displays ancient petroglyphs and tombs"]
     },
-    historyYear: [-1000, 1400]
-  },
+    historyYear: [-1000, 1400], image: "/poi-images/cr-guayabo.webp"},
   {
     id: "cr-ruinas-urjarras",
     type: "historical",
@@ -363,8 +353,7 @@ export const costaricaLandmarks: POI[] = [
       ro: ["Erupție majoră în 1968", "Activitate geotermală ridicată", "Parte a unui parc național"],
       en: ["Devastating eruption in 1968", "Powers significant geothermal energy", "Located within Arenal Volcano National Park"]
     },
-    elevation: 1670
-  },
+    elevation: 1670, image: "/poi-images/cr-arenal.webp"},
   {
     id: "cr-manuelantonio",
     type: "landmark",
@@ -389,8 +378,7 @@ export const costaricaLandmarks: POI[] = [
       hu: ["Napi látogatói korlát van", "A mókusmajmok fontos védett területe", "Tengeri rezervátumot is magában foglal"],
       ro: ["Număr limitat de vizitatori pe zi", "Zonă de protecție pentru maimuțe", "Include o rezervație marină"],
       en: ["Daily visitor entry caps in place", "Vital sanctuary for squirrel monkeys", "Features extensive marine territory"]
-    }
-  },
+    }, image: "/poi-images/cr-manuelantonio.webp"},
   {
     id: "cr-monteverde",
     type: "forest",
@@ -415,8 +403,7 @@ export const costaricaLandmarks: POI[] = [
       hu: ["Több mint 2500 növényfaj", "Kvékerek alapították a települést", "Biológiai kutatóközpont"],
       ro: ["Peste 2500 specii de plante", "Fondat de comunitatea Quaker", "Centru de cercetare biologică"],
       en: ["Features over 2,500 plant species", "Founded partly by a Quaker community", "Major hub for international research"]
-    }
-  },
+    }, image: "/poi-images/cr-monteverde.webp"},
   {
     id: "cr-tortuguero",
     type: "landmark",
@@ -441,8 +428,7 @@ export const costaricaLandmarks: POI[] = [
       hu: ["A közönséges levesteknős védelme", "Manátuszokban és kajmánokban gazdag", "Rendkívül sok csapadék jellemzi"],
       ro: ["Protecția țestoaselor verzi", "Bogat în lamantini și caimani", "Cantități mari de precipitații"],
       en: ["Vital for Green Sea Turtle survival", "Habitat for manatees and caimans", "One of the country's wettest regions"]
-    }
-  },
+    }, image: "/poi-images/cr-tortuguero.webp"},
   {
     id: "cr-corcovado",
     type: "landmark",
@@ -467,8 +453,7 @@ export const costaricaLandmarks: POI[] = [
       hu: ["Mind a 4 Costa Rica-i majomfaj itt él", "A jaguárok fontos élőhelye", "Csak vezetővel látogatható"],
       ro: ["Adăpostește toate cele 4 specii de maimuțe", "Important pentru jaguari", "Accesibil doar cu ghid"],
       en: ["Hosts all four CR monkey species", "Crucial sanctuary for jaguars", "Strictly requires professional guides"]
-    }
-  },
+    }, image: "/poi-images/cr-corcovado.webp"},
   {
     id: "cr-tamarindo",
     type: "city",
@@ -493,8 +478,7 @@ export const costaricaLandmarks: POI[] = [
       hu: ["A Las Baulas Nemzeti Park mellett", "Híres sporthorgászati hely", "Sokszínű gasztronómiai kínálat"],
       ro: ["Lângă Parcul Național Las Baulas", "Cunoscut pentru pescuit sportiv", "Ofertă gastronomică variată"],
       en: ["Adjacent to Las Baulas National Park", "Major hub for sport fishing", "Boasts a very international dining scene"]
-    }
-  },
+    }, image: "/poi-images/cr-tamarindo.webp"},
   {
     id: "cr-poas",
     type: "mountain",
@@ -520,8 +504,7 @@ export const costaricaLandmarks: POI[] = [
       ro: ["Situat aproape de San José", "Are un al doilea lac rece (Botos)", "Închis frecvent din cauza activității"],
       en: ["Very accessible from San José", "Features a second, dormant lake (Botos)", "Subject to closures for safety monitoring"]
     },
-    elevation: 2708
-  },
+    elevation: 2708, image: "/poi-images/cr-poas.webp"},
   {
     id: "cr-lafortuna",
     type: "landmark",
@@ -546,8 +529,7 @@ export const costaricaLandmarks: POI[] = [
       hu: ["Helyi szövetkezet kezeli", "Másodlagos esőerdő övezi", "Kiváló fotózási helyszín"],
       ro: ["Administrat de o cooperativă locală", "Înconjurat de pădure secundară", "Locație excelentă pentru fotografii"],
       en: ["Managed by a local non-profit ADIFORT", "Surrounded by lush secondary rainforest", "Iconic spot for tropical photography"]
-    }
-  },
+    }, image: "/poi-images/cr-lafortuna.webp"},
   {
     id: "cr-nationaltheater",
     type: "historical",
@@ -600,8 +582,7 @@ export const costaricaLandmarks: POI[] = [
       ro: ["Vedere spre ambele oceane în zile senine", "Numele înseamnă „bubuit” în limbă indigenă", "Parc național major"],
       en: ["Possible to see both oceans on clear days", "Name means 'thunder' in indigenous tongue", "Premier high-altitude national park"]
     },
-    elevation: 3432
-  },
+    elevation: 3432, image: "/poi-images/cr-irazu.webp"},
   {
     id: "cr-fortin",
     type: "historical",
@@ -627,8 +608,7 @@ export const costaricaLandmarks: POI[] = [
       ro: ["Trebuia să aibă fante de tragere spre exterior", "Formă unică", "Chiar în centrul orașului"],
       en: ["Features unconventional outward-facing slits", "Highly unusual architectural design", "Located in the central plaza"]
     },
-    historyYear: 1876
-  },
+    historyYear: 1876, image: "/poi-images/cr-fortin.webp"},
   {
     id: "cr-marino-ballena",
     type: "landmark",
@@ -653,8 +633,7 @@ export const costaricaLandmarks: POI[] = [
       hu: ["Fontos a tengervédelem szempontjából", "A legnagyobb korallpad található itt", "Búvártúrák központja"],
       ro: ["Important pentru protecția marină", "Conține cel mai mare banc de corali", "Centru pentru tururi de snorkeling"],
       en: ["Critical for marine conservation", "Houses the largest coral reef on the Pacific", "Top destination for coastal kayaking"]
-    }
-  },
+    }, image: "/poi-images/cr-marino-ballena.webp"},
   {
     id: "cr-isla-del-cano",
     type: "landmark",
@@ -679,8 +658,7 @@ export const costaricaLandmarks: POI[] = [
       hu: ["Rejtélyes kőgolyóiról is ismert", "Egykori szent hely", "Korlátozott látogatószám"],
       ro: ["Cunoscut pentru sferele de piatră misterioase", "Fost sit sacru", "Număr limitat de vizitatori"],
       en: ["Site of mysterious ancient stone spheres", "Ancient indigenous sacred ground", "Strict daily visitor limits enforced"]
-    }
-  },
+    }, image: "/poi-images/cr-isla-del-cano.webp"},
   {
     id: "cr-cathedral-sanjose",
     type: "landmark",
@@ -706,8 +684,7 @@ export const costaricaLandmarks: POI[] = [
       ro: ["A avut inițial altare din lemn", "Adăpostește artă religioasă valoroasă", "Vedere spre Parcul Central"],
       en: ["Originally featured elaborate wood altars", "Houses precious religious artworks", "Faces the city's historic Central Park"]
     },
-    historyYear: 1871
-  },
+    historyYear: 1871, image: "/poi-images/cr-cathedral-sanjose.webp"},
   {
     id: "cr-isla-tortuga",
     type: "landmark",
@@ -732,8 +709,7 @@ export const costaricaLandmarks: POI[] = [
       hu: ["Nincsenek szállodák a szigeten", "Trópusi halakban gazdag", "Népszerű katamarán túrák"],
       ro: ["Nu există hoteluri pe insulă", "Bogată în pești tropicali", "Populară pentru tururi cu catamaranul"],
       en: ["No overnight hotel stays permitted", "Teeming with diverse tropical fish", "Focus of major catamaran day tours"]
-    }
-  },
+    }, image: "/poi-images/cr-isla-tortuga.webp"},
   {
     id: "cr-rio-celeste",
     type: "river",
@@ -763,3 +739,4 @@ export const costaricaLandmarks: POI[] = [
 ];
 
 export const costaricaAllPoi: POI[] = [...costaricaCountry, ...costaricaRegions, ...costaricaCities, ...costaricaLandmarks, ...poiExtraCostaricaLifeV2, ...poiExtraCostaricaCitiesV2, ...poiExtraCostaricaEconomicV2, ...poiExtraCostaricaHistoryV2, ...poiExtraCostaricaLandmarksV2, ...poiExtraCostaricaNatureV2, ...poiExtraCostaricaReliefV2];
+

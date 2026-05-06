@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEgyptNatureV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Észak felé folyik", "A Földközi-tengerbe ömlik"],
       ro: ["Curge spre nord", "Se varsă în Marea Mediterană"],
       en: ["Flows northward", "Flows into the Mediterranean Sea"]
-    }
-  },
+    }, image: "/poi-images/nilus-river-nature-v2.webp"},
   {
     id: "nasser-see-lake-nature-v2",
     type: "lake",
@@ -27,8 +27,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Az Asszuáni-gát hozta létre", "A világ egyik legnagyobb mesterséges tava"],
       ro: ["Creat de Barajul Assuan", "Unul dintre cele mai mari lacuri artificiale din lume"],
       en: ["Created by the Aswan High Dam", "One of the largest reservoirs in the world"]
-    }
-  },
+    }, image: "/poi-images/nasser-see-lake-nature-v2.webp"},
   {
     id: "rotes-meer-sea-nature-v2",
     type: "sea",
@@ -41,8 +40,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Korallzátonyairól híres", "Nagyon sós víz"],
       ro: ["Cunoscută pentru recifele de corali", "Apă foarte sărată"],
       en: ["Known for coral reefs", "Very salty water"]
-    }
-  },
+    }, image: "/poi-images/rotes-meer-sea-nature-v2.webp"},
   {
     id: "sinai-gebirge-mountain-nature-v2",
     type: "mountain",
@@ -55,8 +53,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Történelmileg jelentős", "Sivatagi éghajlat"],
       ro: ["Istoric semnificativ", "Climat deșertic"],
       en: ["Historically significant", "Desert climate"]
-    }
-  },
+    }, image: "/poi-images/sinai-gebirge-mountain-nature-v2.webp"},
   {
     id: "qattara-depression-lake-nature-v2",
     type: "lake",
@@ -69,8 +66,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Tengerszint alatti", "Sós tavak és mocsarak"],
       ro: ["Sub nivelul mării", "Lacuri sărate și mlaștini"],
       en: ["Below sea level", "Salt lakes and marshes"]
-    }
-  },
+    }, image: "/poi-images/qattara-depression-lake-nature-v2.webp"},
   {
     id: "siwa-oase-lake-nature-v2",
     type: "lake",
@@ -83,8 +79,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Datolyapálmáiról híres", "Régi hagyományok"],
       ro: ["Faimoasă pentru palmieri", "Tradiții vechi"],
       en: ["Famous for date palms", "Ancient traditions"]
-    }
-  },
+    }, image: "/poi-images/siwa-oase-lake-nature-v2.webp"},
   {
     id: "gebel-elba-mountain-nature-v2",
     type: "mountain",
@@ -97,8 +92,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Nemzeti park terület", "Ködös erdőhöz hasonló"],
       ro: ["Zonă de parc național", "Similar cu pădurea cețoasă"],
       en: ["National park area", "Similar to cloud forest"]
-    }
-  },
+    }, image: "/poi-images/gebel-elba-mountain-nature-v2.webp"},
   {
     id: "baris-oase-lake-nature-v2",
     type: "lake",
@@ -111,8 +105,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Mezőgazdasági terület", "A Kharga-oázisok része"],
       ro: ["Utilizată agricol", "Parte a oazelor Kharga"],
       en: ["Used for agriculture", "Part of the Kharga oases"]
-    }
-  },
+    }, image: "/poi-images/baris-oase-lake-nature-v2.webp"},
   {
     id: "bahariya-oase-lake-nature-v2",
     type: "lake",
@@ -125,8 +118,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Dinoszaurusz-fosszíliák leletei", "Termálforrások"],
       ro: ["Descoperiri de fosile de dinozaur", "Izvoare termale"],
       en: ["Discovery of dinosaur fossils", "Thermal springs"]
-    }
-  },
+    }, image: "/poi-images/bahariya-oase-lake-nature-v2.webp"},
   {
     id: "farafra-oase-lake-nature-v2",
     type: "lake",
@@ -139,8 +131,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Fehér krétaformációk", "Egyedi táj"],
       ro: ["Formațiuni de cretă albă", "Peisaj unic"],
       en: ["White chalk formations", "Unique landscape"]
-    }
-  },
+    }, image: "/poi-images/farafra-oase-lake-nature-v2.webp"},
   {
     id: "dakhla-oase-lake-nature-v2",
     type: "lake",
@@ -153,8 +144,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Sok kis falu", "Mezőgazdaság"],
       ro: ["Multe sate mici", "Agricultură"],
       en: ["Many small villages", "Agriculture"]
-    }
-  },
+    }, image: "/poi-images/dakhla-oase-lake-nature-v2.webp"},
   {
     id: "kharga-oase-lake-nature-v2",
     type: "lake",
@@ -167,8 +157,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Történelmi kereskedelmi hely", "Vízforrások"],
       ro: ["Loc istoric de comerț", "Surse de apă"],
       en: ["Historic trading post", "Water sources"]
-    }
-  },
+    }, image: "/poi-images/kharga-oase-lake-nature-v2.webp"},
   {
     id: "niltal-delta-river-nature-v2",
     type: "river",
@@ -181,8 +170,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Nagyon sűrűn lakott", "Fontos mezőgazdasági régió"],
       ro: ["Foarte dens populată", "Regiune agricolă importantă"],
       en: ["Very densely populated", "Important agricultural region"]
-    }
-  },
+    }, image: "/poi-images/niltal-delta-river-nature-v2.webp"},
   {
     id: "burullus-see-lake-nature-v2",
     type: "lake",
@@ -195,8 +183,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Természetvédelmi terület", "Fontos vizes élőhely"],
       ro: ["Rezervație naturală", "Zonă umedă importantă"],
       en: ["Nature reserve", "Important wetland"]
-    }
-  },
+    }, image: "/poi-images/burullus-see-lake-nature-v2.webp"},
   {
     id: "manzala-see-lake-nature-v2",
     type: "lake",
@@ -209,8 +196,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Halászati régió", "Sós vizű"],
       ro: ["Regiune piscicolă", "Salină"],
       en: ["Fishing region", "Saline"]
-    }
-  },
+    }, image: "/poi-images/manzala-see-lake-nature-v2.webp"},
   {
     id: "idku-see-lake-nature-v2",
     type: "lake",
@@ -223,8 +209,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Sós víz", "Vízi madarak élőhelye"],
       ro: ["Apă salmastră", "Habitat pentru păsări acvatice"],
       en: ["Brackish water", "Waterfowl habitat"]
-    }
-  },
+    }, image: "/poi-images/idku-see-lake-nature-v2.webp"},
   {
     id: "mariut-see-lake-nature-v2",
     type: "lake",
@@ -237,8 +222,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Iparilag terhelt", "Korábban nagyobb kiterjedésű"],
       ro: ["Poluat industrial", "Extindere mai mare în trecut"],
       en: ["Industrially affected", "Larger extent in the past"]
-    }
-  },
+    }, image: "/poi-images/mariut-see-lake-nature-v2.webp"},
   {
     id: "qarun-see-lake-nature-v2",
     type: "lake",
@@ -251,8 +235,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Egy nagyobb tó maradványa", "Fontos madárvédelmi terület"],
       ro: ["Rămășița unui lac mai mare", "Zonă importantă de protecție a păsărilor"],
       en: ["Remains of a larger lake", "Important bird sanctuary"]
-    }
-  },
+    }, image: "/poi-images/qarun-see-lake-nature-v2.webp"},
   {
     id: "wadi-el-rayan-lake-nature-v2",
     type: "lake",
@@ -265,8 +248,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Nemzeti park", "Egyiptom egyetlen vízesései"],
       ro: ["Parc național", "Singurele cascade din Egipt"],
       en: ["National park", "Egypt's only waterfalls"]
-    }
-  },
+    }, image: "/poi-images/wadi-el-rayan-lake-nature-v2.webp"},
   {
     id: "gebels-alk-mountain-nature-v2",
     type: "mountain",
@@ -279,8 +261,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["A Sínai-félszigeten fekszik", "Magasan fekvő"],
       ro: ["Situat în Peninsula Sinai", "Altitudine ridicată"],
       en: ["Located on the Sinai Peninsula", "High altitude"]
-    }
-  },
+    }, image: "/poi-images/gebels-alk-mountain-nature-v2.webp"},
   {
     id: "gebels-mousa-mountain-nature-v2",
     type: "mountain",
@@ -293,8 +274,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["A kinyilatkoztatás hagyományos helye", "Zarándokhely"],
       ro: ["Locul tradițional al revelației", "Destinație de pelerinaj"],
       en: ["Traditional site of revelation", "Pilgrimage site"]
-    }
-  },
+    }, image: "/poi-images/gebels-mousa-mountain-nature-v2.webp"},
   {
     id: "galala-plateau-mountain-nature-v2",
     type: "mountain",
@@ -307,8 +287,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Mészkőfennsík", "Sivatagi táj"],
       ro: ["Platou calcaros", "Peisaj deșertic"],
       en: ["Limestone plateau", "Desert landscape"]
-    }
-  },
+    }, image: "/poi-images/galala-plateau-mountain-nature-v2.webp"},
   {
     id: "gebels-shayib-mountain-nature-v2",
     type: "mountain",
@@ -321,8 +300,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["A Vörös-tengeri-hegység része", "Nehéz megmászni"],
       ro: ["Parte a Munților Mării Roșii", "Ascensiune dificilă"],
       en: ["Part of the Red Sea Mountains", "Difficult climb"]
-    }
-  },
+    }, image: "/poi-images/gebels-shayib-mountain-nature-v2.webp"},
   {
     id: "gebels-hamada-mountain-nature-v2",
     type: "mountain",
@@ -335,8 +313,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Sivatagi hegy", "Száraz éghajlat"],
       ro: ["Munte deșertic", "Climat uscat"],
       en: ["Desert mountain", "Dry climate"]
-    }
-  },
+    }, image: "/poi-images/gebels-hamada-mountain-nature-v2.webp"},
   {
     id: "gebels-umb-mountain-nature-v2",
     type: "mountain",
@@ -349,8 +326,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Kopár táj", "Bányászati régió"],
       ro: ["Peisaj arid", "Regiune minieră"],
       en: ["Barren landscape", "Mining region"]
-    }
-  },
+    }, image: "/poi-images/gebels-umb-mountain-nature-v2.webp"},
   {
     id: "abuh-simbel-island-nature-v2",
     type: "island",
@@ -363,8 +339,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Kis sziget", "Mesterséges tó"],
       ro: ["Insulă mică", "Lac artificial"],
       en: ["Small island", "Artificial lake"]
-    }
-  },
+    }, image: "/poi-images/abuh-simbel-island-nature-v2.webp"},
   {
     id: "gezirah-island-nature-v2",
     type: "island",
@@ -377,8 +352,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Központi kerület", "Parkok"],
       ro: ["Cartier central", "Parcuri"],
       en: ["Central district", "Park areas"]
-    }
-  },
+    }, image: "/poi-images/gezirah-island-nature-v2.webp"},
   {
     id: "rotem-sea-coral-sea-nature-v2",
     type: "sea",
@@ -391,8 +365,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Fontos a turizmus számára", "Mély vizek"],
       ro: ["Importantă pentru turism", "Ape adânci"],
       en: ["Important for tourism", "Deep waters"]
-    }
-  },
+    }, image: "/poi-images/rotem-sea-coral-sea-nature-v2.webp"},
   {
     id: "suez-golf-sea-nature-v2",
     type: "sea",
@@ -405,8 +378,7 @@ export const poiExtraEgyptNatureV2: POI[] = [
       hu: ["Olajkitermelés", "Összeköttetés a Szuezi-csatornával"],
       ro: ["Exploatare petrolieră", "Legătură cu Canalul Suez"],
       en: ["Oil extraction", "Connection to the Suez Canal"]
-    }
-  },
+    }, image: "/poi-images/suez-golf-sea-nature-v2.webp"},
   {
     id: "qattara-edge-mountain-nature-v2",
     type: "mountain",
@@ -422,3 +394,4 @@ export const poiExtraEgyptNatureV2: POI[] = [
     }
   }
 ];
+

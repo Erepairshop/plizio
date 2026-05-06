@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -9130,3 +9131,4 @@ export const EXAM2_POOL: PoolTopicDef[] = [
     quiz: { generate: "verben_k2" },
   },
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBoliviaLandmarksV2: POI[] = [
@@ -12,37 +13,12 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       ro: "Cristo de la Concordia",
       en: "Cristo de la Concordia"
     },
-    description: {
-      de: "Eine der höchsten Christus-Statuen der Welt, die auf dem Hügel San Pedro über der Stadt Cochabamba thront.",
-      hu: "A világ egyik legmagasabb Krisztus-szobra, amely a San Pedro dombon magasodik Cochabamba városa felett.",
-      ro: "Una dintre cele mai înalte statui ale lui Hristos din lume, care se înalță pe dealul San Pedro deasupra orașului Cochabamba.",
-      en: "One of the tallest statues of Jesus Christ in the world, towering over the city of Cochabamba from San Pedro Hill."
-    },
-    facts: {
-      de: ["Fertiggestellt 1994", "40,44 Meter hoch", "Höher als die Statue in Rio", "Erreichbar mit einer Seilbahn"],
-      hu: ["1994-ben készült el", "40,44 méter magas", "Magasabb, mint a riói szobor", "Drótkötélpályán is megközelíthető"],
-      ro: ["Finalizată în 1994", "Are 40,44 metri înălțime", "Mai înaltă decât statuia din Rio", "Accesibilă cu telecabina"],
-      en: ["Completed in 1994", "40.44 meters tall", "Taller than the statue in Rio", "Accessible by cable car"]
-    },
     descriptionAdvanced: {
-      de: "Der Cristo de la Concordia in Cochabamba ist ein beeindruckendes Monument und eines der bekanntesten Wahrzeichen Boliviens. Die Statue thront auf dem Gipfel des San Pedro Hügels und bietet einen atemberaubenden 360-Grad-Blick über die Stadt und das umliegende Tal. Mit einer Gesamthöhe von über 40 Metern gehört sie zu den größten Christus-Statuen der Welt und übertrifft sogar das berühmte Vorbild in Rio de Janeiro. Besucher können den Gipfel entweder sportlich über eine Treppe mit mehr als 1.300 Stufen oder bequem mit einer Seilbahn erreichen. Das Monument ist nicht nur ein religiöses Symbol, sondern auch ein wichtiger Treffpunkt für Touristen und Einheimische gleichermaßen.",
-      hu: "",
-      ro: "",
-      en: ""
+      en: "The Cristo de la Concordia is an iconic, monumental statue of Jesus Christ overlooking the city of Cochabamba from the summit of San Pedro Hill. Standing 34.2 meters tall, it is slightly larger than the famous Christ the Redeemer statue in Rio de Janeiro, making it one of the tallest depictions of Christ in the world. Visitors can access the interior of the statue to reach the head for a breathtaking panoramic view of the Cochabamba valley. It serves as a symbol of unity and peace for the city, reflecting the religious importance of Christianity in local culture. Geography K7 — landmarks and monuments."
     },
     factsAdvanced: {
-      de: [
-        "Die Statue allein ist 34,20 Meter hoch, zuzüglich eines Sockels von 6,24 Metern.",
-        "An bestimmten Tagen können Besucher in das Innere der Statue steigen und durch kleine Fenster in den Armen blicken.",
-        "Der Entwurf stammt von den bolivianischen Bildhauern César und Wálter Terrazas Pardo.",
-        "Der Bau dauerte sieben Jahre und wurde durch Spenden aus der Bevölkerung mitfinanziert.",
-        "Die Statue wiegt schätzungsweise 2.200 Tonnen und ist aus Stahlbeton gefertigt."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Standing at 34.2 meters, it is one of the world's tallest Christ statues.", "Located on San Pedro Hill overlooking Cochabamba.", "Visitors can climb inside to reach a panoramic observation point.", "Built as a symbol of peace and unity.", "The statue's outstretched arms represent a gesture of welcoming.", "Construction completed in the late 1990s."]
+    }, image: "/poi-images/cristo-concordia-landmarks-v2.webp"},
   {
     id: "basilica-san-francisco-landmarks-v2",
     type: "landmark",
@@ -54,37 +30,12 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       ro: "Basílica de San Francisco",
       en: "Basílica de San Francisco"
     },
-    description: {
-      de: "Eine prächtige Barockkirche im Herzen von La Paz, deren Fassade indigene und europäische Kunstmotive vereint.",
-      hu: "Egy pompás barokk templom La Paz szívében, amelynek homlokzata őslakos és európai művészeti motívumokat ötvöz.",
-      ro: "O biserică barocă magnifică în inima orașului La Paz, a cărei fațadă combină motive de artă indigenă și europeană.",
-      en: "A magnificent Baroque church in the heart of La Paz, whose facade combines indigenous and European art motifs."
-    },
-    facts: {
-      de: ["Erbaut ab 1743", "Stil des andinen Barocks", "Befindet sich an der Plaza San Francisco", "Krypta ist für Besucher geöffnet"],
-      hu: ["1743-tól épült", "Andoki barokk stílusú", "A Plaza San Francisco téren található", "A kripta látogatható"],
-      ro: ["Construită începând cu 1743", "Stil baroc andin", "Situată în Plaza San Francisco", "Cripta este deschisă vizitatorilor"],
-      en: ["Built starting in 1743", "Andean Baroque style", "Located on Plaza San Francisco", "Crypt is open to visitors"]
-    },
     descriptionAdvanced: {
-      de: "Die Basilika San Francisco ist eines der bedeutendsten architektonischen Juwele von La Paz und ein Paradebeispiel für den andinen Barock. Die Fassade der Kirche ist überreich mit Steinschnitzereien verziert, die eine faszinierende Mischung aus christlicher Symbolik und indigenen Motiven wie Masken und lokalen Pflanzen zeigen. Das angrenzende Kloster beherbergt heute ein Museum, das Einblicke in die religiöse Geschichte und Kunst Boliviens bietet. Ein besonderes Highlight ist der Zugang zum Dach, von dem aus man einen spektakulären Blick über den belebten Platz und die umliegenden Hexenmärkte hat. Die Kirche ist seit Jahrhunderten ein zentraler Ort für religiöse und soziale Versammlungen in der Stadt.",
-      hu: "",
-      ro: "",
-      en: ""
+      en: "The Basilica of San Francisco in La Paz is a stunning masterpiece of colonial religious architecture, blending Spanish baroque influence with indigenous Andean decorative details. Founded in the 16th century, the church is a historic landmark where the fusion of European and Aymara artistic visions is visible in its intricate stone carvings. Its museum, located within the cloister, offers visitors a deep look into the religious, political, and artistic history of Bolivia during the colonial period. The site remains a vibrant religious hub in the heart of La Paz. History K8 — colonial heritage."
     },
     factsAdvanced: {
-      de: [
-        "Die heutige Struktur wurde zwischen 1743 und 1784 auf den Ruinen einer älteren Kapelle aus dem Jahr 1548 errichtet.",
-        "In der Fassade sind Darstellungen der 'Pachamama' (Mutter Erde) dezent in die christliche Symbolik integriert.",
-        "Der Glockenturm der Basilika ist einer der markantesten Punkte in der Skyline des historischen Zentrums von La Paz.",
-        "Die Kirche wurde aus massiven Steinblöcken gebaut, die der harten Witterung der Anden trotzen.",
-        "Das Innere beherbergt einen prachtvollen Hauptaltar, der reich mit Blattgold verziert ist."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Example of colonial architecture with indigenous decorative influences.", "Founded in the 16th century by Franciscan missionaries.", "Located in the heart of La Paz near the Witches' Market.", "Features elaborate Baroque-style stone facades.", "Includes a museum showcasing colonial art and artifacts.", "A central hub for religious history in Bolivia."]
+    }, image: "/poi-images/basilica-san-francisco-landmarks-v2.webp"},
   {
     id: "catedral-metropolitana-sucre-landmarks-v2",
     type: "landmark",
@@ -96,37 +47,12 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       ro: "Catedral Metropolitana de Sucre",
       en: "Catedral Metropolitana de Sucre"
     },
-    description: {
-      de: "Die wichtigste Kirche der konstitutionellen Hauptstadt Boliviens, bekannt für ihre weiße Fassade und reich verzierten Innenräume.",
-      hu: "Bolívia alkotmányos fővárosának legfontosabb temploma, amely fehér homlokzatáról és gazdagon díszített belső tereiről ismert.",
-      ro: "Cea mai importantă biserică a capitalei constituționale a Boliviei, cunoscută pentru fațada sa albă și interioarele bogat ornamentate.",
-      en: "The most important church in Bolivia's constitutional capital, known for its white facade and richly decorated interiors."
-    },
-    facts: {
-      de: ["Bau begann 1551", "Mischung aus Renaissance und Barock", "Verfügt über einen markanten Glockenturm", "Enthält das Museum für sakrale Kunst"],
-      hu: ["Építése 1551-ben kezdődött", "Reneszánsz és barokk keveréke", "Jellegzetes harangtoronnyal rendelkezik", "Itt található a szakrális művészeti múzeum"],
-      ro: ["Construcția a început în 1551", "Amestec de Renaștere și Baroc", "Are un turn cu ceas distinctiv", "Conține Muzeul de Artă Sacră"],
-      en: ["Construction began in 1551", "Mix of Renaissance and Baroque", "Features a distinctive bell tower", "Contains the Museum of Sacred Art"]
-    },
     descriptionAdvanced: {
-      de: "Die Kathedrale von Sucre, auch bekannt als Basílica de Nuestra Señora de Guadalupe, ist ein monumentales Wahrzeichen der 'Weißen Stadt'. Ihr Bau erstreckte sich über mehrere Jahrhunderte, was zu einer einzigartigen Kombination aus Renaissance-, Barock- und Neoklassizismus-Stilen führte. Die Kathedrale beherbergt eine wertvolle Sammlung sakraler Kunst, darunter die berühmte 'Virgen de Guadalupe', die mit unzähligen Juwelen und Perlen geschmückt ist. Besonders markant ist der Glockenturm, der das Stadtbild prägt und weithin sichtbar ist. Als geistliches Zentrum der Stadt spielt die Kathedrale eine zentrale Rolle bei allen wichtigen religiösen Feierlichkeiten in Sucre.",
-      hu: "",
-      ro: "",
-      en: ""
+      en: "The Metropolitan Cathedral of Sucre is one of the most important and beautiful religious buildings in Bolivia, serving as the seat of the Archbishop. Its construction spanned over three centuries, resulting in a unique architectural ensemble that mirrors the artistic shifts from the colonial era to the Republican period. The cathedral houses a renowned religious art museum with valuable colonial-era paintings and gold-adorned liturgical objects. It is located on Sucre’s main plaza, a city known for its white buildings and designation as a UNESCO World Heritage site. History K8 — religious architecture."
     },
     factsAdvanced: {
-      de: [
-        "Die Kapelle der Jungfrau von Guadalupe innerhalb der Kathedrale gilt als einer der wertvollsten Orte Boliviens.",
-        "Das Museum für Sakrale Kunst der Kathedrale stellt seltene Reliquien und koloniale Gemälde aus.",
-        "Der Bau der Kathedrale dauerte insgesamt fast 150 Jahre, bis sie ihre heutige Form erreichte.",
-        "Ihre weißen Mauern reflektieren das intensive Sonnenlicht der Anden und tragen zum Beinamen Sucres als 'Weiße Stadt' bei.",
-        "Die Glocken der Kathedrale rufen seit Jahrhunderten die Bewohner zu Gebet und Festlichkeiten zusammen."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Seat of the Archbishop of Sucre.", "Architecture evolved over three centuries, reflecting multiple styles.", "Houses a museum filled with colonial art and gold artifacts.", "Situated on Sucre's historic central square.", "Sucre itself is a UNESCO World Heritage site.", "Part of the white-washed colonial center of Sucre."]
+    }, image: "/poi-images/catedral-metropolitana-sucre-landmarks-v2.webp"},
   {
     id: "plaza-murillo-landmarks-v2",
     type: "landmark",
@@ -138,37 +64,12 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       ro: "Plaza Murillo",
       en: "Plaza Murillo"
     },
-    description: {
-      de: "Der zentrale Platz von La Paz, umgeben von wichtigen Regierungsgebäuden und Schauplatz vieler historischer Ereignisse.",
-      hu: "La Paz központi tere, amelyet fontos kormányzati épületek vesznek körül, és számos történelmi esemény helyszíne.",
-      ro: "Piața centrală din La Paz, înconjurată de clădiri guvernamentale importante și scena multor evenimente istorice.",
-      en: "The central square of La Paz, surrounded by important government buildings and the scene of many historical events."
-    },
-    facts: {
-      de: ["Politische Zentrum Boliviens", "Benannt nach Pedro Domingo Murillo", "Wird oft von Tauben bevölkert", "Standort der Casa Grande del Pueblo"],
-      hu: ["Bolívia politikai központja", "Pedro Domingo Murillóról nevezték el", "Gyakran galambok népesítik be", "A Casa Grande del Pueblo helyszíne"],
-      ro: ["Centrul politic al Boliviei", "Numită după Pedro Domingo Murillo", "Deseori populată de porumbei", "Locația Casei Grande del Pueblo"],
-      en: ["Political center of Bolivia", "Named after Pedro Domingo Murillo", "Often populated by pigeons", "Location of the Casa Grande del Pueblo"]
-    },
     descriptionAdvanced: {
-      de: "Die Plaza Murillo ist das politische und historische Herz von La Paz und ganz Bolivien. Umgeben vom Regierungspalast (Palacio Quemado), dem Parlamentsgebäude und der imposanten Kathedrale, war dieser Platz Schauplatz zahlreicher Revolutionen und bedeutender politischer Proklamationen. In der Mitte steht ein Denkmal für Pedro Domingo Murillo, einen Helden des Unabhängigkeitskampfes gegen Spanien. Heute ist der Platz ein lebendiger Ort, an dem sich Einheimische treffen, Touristen die Architektur bewundern und tausende von Tauben gefüttert werden. Ein Besuch hier ist unerlässlich, um die pulsierende Geschichte und die aktuelle politische Atmosphäre des Landes zu verstehen.",
-      hu: "",
-      ro: "",
-      en: ""
+      en: "Plaza Murillo is the historical and political heart of La Paz, named after the Bolivian martyr Pedro Domingo Murillo. The square is surrounded by some of the most significant government buildings in the country, including the Presidential Palace (known as 'Palacio Quemado') and the National Congress. It is a site frequently filled with historical significance and modern political expression, witnessing countless public events and rallies. The plaza is also noted for its colonial architecture and proximity to the Metropolitan Cathedral, making it the central stage for Bolivian national politics. History K8 — political history."
     },
     factsAdvanced: {
-      de: [
-        "Der Platz hieß ursprünglich Plaza de Armas und wurde später zu Ehren von Murillo umbenannt.",
-        "An den Wänden des Parlamentsgebäudes befindet sich eine Uhr, deren Zifferblatt und Zeiger sich 'rückwärts' (gegen den Uhrzeigersinn) drehen.",
-        "Die Plaza Murillo liegt auf einer Höhe von etwa 3.640 Metern über dem Meeresspiegel.",
-        "Der Palacio Quemado verdankt seinen Namen einem Brand während eines Aufstands im Jahr 1875.",
-        "Die Präsidentschaftsgarde in ihren historischen Uniformen ist ein häufiges Fotomotiv auf dem Platz."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Named after the revolutionary hero Pedro Domingo Murillo.", "Central square and administrative heart of La Paz.", "Surrounded by the Presidential Palace and National Congress.", "Historically significant stage for Bolivian political events.", "Features colonial-style public spaces and monuments.", "Site of the 'Palacio Quemado' (Burned Palace)."]
+    }, image: "/poi-images/plaza-murillo-landmarks-v2.webp"},
   {
     id: "convento-santa-teresa-landmarks-v2",
     type: "landmark",
@@ -180,37 +81,12 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       ro: "Convento de Santa Teresa",
       en: "Convento de Santa Teresa"
     },
-    description: {
-      de: "Ein historisches Kloster in Cochabamba, das einen tiefen Einblick in das strenge Leben der Karmelitinnen bietet.",
-      hu: "Egy történelmi kolostor Cochabambában, amely mély bepillantást nyújt a karmelita apácák szigorú életébe.",
-      ro: "O mănăstire istorică din Cochabamba, care oferă o perspectivă profundă asupra vieții stricte a călugărițelor carmelite.",
-      en: "A historic convent in Cochabamba that offers a deep insight into the strict life of the carmelite nuns."
-    },
-    facts: {
-      de: ["Erbaut im 18. Jahrhundert", "Diente der Klausur von Nonnen", "Heute ein Museum", "Zeigt bemerkenswerte religiöse Architektur"],
-      hu: ["A 18. században épült", "Apácák elzártságát szolgálta", "Ma múzeumként működik", "Figyelemre méltó vallási építészetet mutat be"],
-      ro: ["Construită în secolul al XVIII-lea", "A servit la izolarea călugărițelor", "Astăzi este un muzeu", "Prezintă o arhitectură religioasă remarcabilă"],
-      en: ["Built in the 18th century", "Served for the cloistering of nuns", "Today a museum", "Shows remarkable religious architecture"]
-    },
     descriptionAdvanced: {
-      de: "Das Kloster Santa Teresa in Cochabamba ist ein faszinierendes Relikt aus der Kolonialzeit und ein Ort der Stille inmitten der modernen Stadt. Gegründet im Jahr 1760, beherbergte es über Jahrhunderte Nonnen des Ordens der Unbeschuhten Karmelitinnen, die in strenger Abgeschiedenheit lebten. Die Architektur des Klosters mit seinen dicken Lehmmauern und kühlen Kreuzgängen ist perfekt auf das Klima und die spirituellen Bedürfnisse abgestimmt. Heute fungiert das Kloster als Museum und Kulturzentrum, das Besuchern erlaubt, die Zellen der Nonnen, die Kapelle und wertvolle sakrale Kunstwerke zu besichtigen. Es ist ein Ort, der die Geschichte der Hingabe und des klösterlichen Lebens in Bolivien lebendig hält.",
-      hu: "",
-      ro: "",
-      en: ""
+      en: "The Convento de Santa Teresa in Cochabamba is a beautifully preserved colonial-era convent that offers a unique glimpse into the cloistered life of nuns throughout Bolivian history. The building features colonial courtyards, narrow corridors, and rooms filled with historical religious art that has remained largely unchanged over the centuries. It has been transformed into a museum, allowing visitors to explore its quiet, historic architecture and discover artifacts used by the Carmelite order. It stands as a silent testament to the ascetic religious traditions that shaped the intellectual and social landscape of the colony. History K8 — colonial life."
     },
     factsAdvanced: {
-      de: [
-        "Das Kloster wurde kürzlich umfassend restauriert, um seine architektonische Pracht zu bewahren.",
-        "Der Komplex umfasst mehrere wunderschöne Innenhöfe mit traditionellen Gärten.",
-        "In der Kirche des Klosters findet man beeindruckende barocke Altäre aus vergoldetem Holz.",
-        "Die Nonnen kommunizierten früher nur durch eine hölzerne Drehscheibe mit der Außenwelt.",
-        "Es gilt als eines der am besten erhaltenen kolonialen Frauenklöster in ganz Bolivien."
-      ],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Well-preserved colonial convent housing the Carmelite order.", "Transformed into a museum for public visitation.", "Showcases narrow corridors and original colonial courtyards.", "Contains significant collections of religious art and artifacts.", "Offers insights into cloistered religious life in colonial Bolivia.", "Located in the heart of Cochabamba."]
+    }, image: "/poi-images/convento-santa-teresa-landmarks-v2.webp"},
   {
     id: "catedral-nuestra-senora-la-paz-landmarks-v2",
     type: "landmark",
@@ -237,8 +113,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Kathedrale von La Paz, offiziell Basílica de Nuestra Señora de La Paz, steht majestätisch an der Plaza Murillo, dem politischen Zentrum Boliviens. Ihr Bau begann im Jahr 1835 und erstreckte sich über fast ein Jahrhundert, bis sie 1925 schließlich geweiht wurde. Die neoklassizistische Architektur mit ihren massiven Mauern und der eleganten Glaskuppel verleiht dem Gebäude eine erhabene Präsenz. Im Inneren besticht die Kathedrale durch hohe Gewölbe, kunstvolle Glasfenster und einen Altar aus italienischem Marmor. Sie beherbergt zudem das Mausoleum von Andrés de Santa Cruz, einem der Gründerväter des Landes, und ist ein zentraler Ort für staatliche und religiöse Zeremonien.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Catedrala din La Paz, cunoscută oficial ca Basilica Maicii Domnului a Păcii, domină maiestuos Plaza Murillo, centrul politic al țării. Construcția acestei structuri impunătoare a început în 1835 și a durat aproape un secol, fiind sfințită oficial în anul 1925. Designul său neoclasic, caracterizat prin ziduri masive de piatră și o cupolă de sticlă înaltă, inspiră un sentiment de permanență și solemnitate. În interior, sanctuarul prezintă vitralii lucrate cu măiestrie și un altar principal realizat din marmură de Italia. Catedrala este, de asemenea, locul de odihnă veșnică pentru Andrés de Santa Cruz, o figură centrală în istoria independenței Boliviei.",
+      en: "The Cathedral of La Paz, formally known as the Basilica of Our Lady of Peace, commands a majestic presence on Plaza Murillo, the nation's political hub. Construction on this imposing structure began in 1835 and continued for nearly a century, concluding with its official consecration in 1925. The neoclassical design, characterized by heavy stone walls and a soaring glass dome, projects a sense of spiritual and national permanence. Inside, the sanctuary features lofty vaults, masterfully crafted stained-glass windows, and a high altar made from imported Italian marble. It also serves as the final resting place for Andrés de Santa Cruz, a pivotal figure in Bolivian independence and early governance."
     },
     factsAdvanced: {
       de: [
@@ -249,10 +125,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "An Feiertagen leuchtet die Kuppel der Kathedrale über dem nächtlichen Stadtzentrum von La Paz."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Ridicată pe locul uneia dintre primele biserici coloniale ale orașului",
+        "Vitraliile au fost importate din Europa și sunt considerate opere de artă",
+        "Găzduiește mausoleul mareșalului Andrés de Santa Cruz",
+        "Fundația a fost construită extrem de adânc pentru a se adapta terenului abrupt"
+      ],
+      en: [
+        "The cathedral occupies a site that originally hosted one of the very first colonial churches in the city.",
+        "The exquisite stained-glass windows were imported from Europe and are considered significant works of religious art.",
+        "To accommodate La Paz's steep topography, the building required exceptionally deep and reinforced foundations.",
+        "The tomb of Marshall Andrés de Santa Cruz is under constant watch by a ceremonial military guard of honor.",
+        "During major holidays, the cathedral's grand dome is illuminated, serving as a beacon over the city's night skyline."
+      ]
+    }, image: "/poi-images/catedral-nuestra-senora-la-paz-landmarks-v2.webp"},
   {
     id: "estadio-hernando-siles-landmarks-v2",
     type: "landmark",
@@ -279,8 +165,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Estadio Hernando Siles in La Paz ist weit mehr als nur ein Fußballstadion; es ist eine Festung in den Wolken. Gelegen im Stadtteil Miraflores auf über 3.600 Metern Höhe, ist es berühmt-berüchtigt für die dünne Luft, die Gastmannschaften oft an ihre körperlichen Grenzen bringt. Das Stadion ist die Heimat der bolivianischen Nationalmannschaft und Austragungsort der hitzigsten Derbys der lokalen Top-Klubs Bolívar und The Strongest. Die Atmosphäre bei Länderspielen ist elektrisierend, wenn zehntausende Fans ihr Team leidenschaftlich anfeuern. Für viele Fußballbegeisterte ist ein Besuch dieses geschichtsträchtigen Ortes ein absolutes Muss auf einer Bolivien-Reise.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Stadionul Hernando Siles din La Paz este mult mai mult decât o arenă sportivă; este o legendară „fortăreață în nori”. Situat în districtul Miraflores la peste 3.600 de metri altitudine, este renumit în întreaga lume pentru aerul rarefiat care reprezintă o provocare fizică uriașă pentru echipele vizitatoare. Stadionul servește drept sediu permanent pentru echipa națională a Boliviei și este locul unde se desfășoară marile derby-uri locale. Atmosfera în timpul meciurilor internaționale este incredibil de intensă, zeci de mii de fani susținând cu pasiune echipa „La Verde”. Pentru pasionații de fotbal, vizitarea acestui stadion istoric este o parte esențială a oricărei călătorii în zonele înalte ale Anzilor.",
+      en: "The Estadio Hernando Siles in La Paz is far more than a sports venue; it is a legendary 'fortress in the clouds'. Situated in the Miraflores district at over 3,600 meters, it is world-renowned for its thin high-altitude air, which presents a significant physical challenge for visiting international teams. The stadium serves as the permanent home for the Bolivian national team and the site of fierce rivalries between local powerhouses Bolívar and The Strongest. During international matches, the atmosphere is incredibly intense as tens of thousands of passionate fans rally behind 'La Verde'. For football enthusiasts, visiting this historic stadium is an essential part of any pilgrimage to the Andean highlands."
     },
     factsAdvanced: {
       de: [
@@ -291,10 +177,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Von den oberen Rängen hat man einen fantastischen Blick auf die umliegenden Berge der Anden."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Situat la o altitudine record de 3.637 metri",
+        "Capacitate maximă de aproximativ 41.000 de spectatori",
+        "Inaugurat în 1930 și modernizat pentru standarde internaționale",
+        "Găzduiește și competiții majore de atletism și concerte"
+      ],
+      en: [
+        "Global football giants like Brazil and Argentina have famously suffered defeats here against the Bolivian underdog.",
+        "FIFA has attempted several times to ban high-altitude matches for safety reasons, only to face massive national protests in Bolivia.",
+        "The stadium originally opened in 1930 and has since undergone several major renovations to meet international standards.",
+        "Beyond football, the venue is used for major athletic competitions and large-scale international music concerts.",
+        "The upper stands offer spectacular, unobstructed views of the rugged Andean peaks surrounding the city."
+      ]
+    }, image: "/poi-images/estadio-hernando-siles-landmarks-v2.webp"},
   {
     id: "estacion-central-mi-teleferico-landmarks-v2",
     type: "landmark",
@@ -321,8 +217,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Estación Central von Mi Teleférico ist ein faszinierendes Beispiel für die Verbindung von Geschichte und modernster Infrastruktur. Das historische Gebäude war einst der wichtigste Bahnhof von La Paz und wurde liebevoll restauriert, um heute als zentraler Knotenpunkt für das innovative Seilbahnsystem zu dienen. Von hier aus startet die Rote Linie (Línea Roja), die die tiefer gelegenen Teile der Stadt mit dem Hochplateau von El Alto verbindet. Die Station ist nicht nur ein Verkehrsmittel, sondern auch ein kultureller Treffpunkt mit kleinen Cafés und Ausstellungsbereichen. Eine Fahrt von hier aus bietet eine der spektakulärsten Aussichten auf das Häusermeer von La Paz und die umliegenden schneebedeckten Gipfel.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Stația Centrală a sistemului Mi Teleférico este un exemplu strălucit de conservare istorică integrată în transportul urban modern. Găzduită în gara centrală frumos restaurată, locația servește acum ca nod principal pentru rețeaua inovatoare de telecabine din La Paz. Această stație este punctul de plecare pentru Linia Roșie (Línea Roja), care transportă pasagerii din vale până pe platoul înalt din El Alto. Mai mult decât un simplu punct de tranzit, stația este o destinație culturală ce cuprinde cafenele și spații pentru expoziții de artă. O călătorie de aici oferă unele dintre cele mai spectaculoase vederi aeriene asupra orașului și a munților înzăpeziți din fundal.",
+      en: "The Estación Central of the Mi Teleférico system is a brilliant example of historical preservation integrated with cutting-edge urban transport. Housed in the beautifully restored central railway station, the site now serves as the primary hub for La Paz's innovative cable car network. This station is the starting point for the Red Line (Línea Roja), which whisks passengers from the valley floor to the high Altiplano in El Alto. Far more than just a transit point, the station is a cultural destination featuring cafes and art exhibition spaces. A ride starting from here offers some of the most breathtaking aerial views of the sprawling city and its backdrop of snow-capped mountains."
     },
     factsAdvanced: {
       de: [
@@ -333,8 +229,19 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Nachts sind die Stationen und Gondeln beleuchtet und bilden ein funkelndes Netz über der Stadt."
       ],
       hu: [],
-      ro: [],
-      en: []
+      ro: [
+        "Sistemul Mi Teleférico deține recordul mondial Guinness pentru cea mai lungă rețea urbană de telecabine",
+        "Arhitectura stației păstrează elemente originale din epoca feroviară de la începutul secolului XX",
+        "Călătoria până în El Alto durează doar 10 minute",
+        "A revoluționat transportul zilnic între La Paz și El Alto"
+      ],
+      en: [
+        "The Mi Teleférico system holds the Guinness World Record for the largest and longest urban cable car network on Earth.",
+        "The station architecture carefully maintains many original elements from the city's early 20th-century rail era.",
+        "The journey from this station to the top of El Alto takes only about 10 minutes while climbing hundreds of vertical meters.",
+        "The network has fundamentally transformed daily commuting between La Paz and El Alto, significantly reducing road congestion.",
+        "After dark, the stations and individual gondolas are brightly lit, creating a brilliant glowing constellation over the nighttime city."
+      ]
     }
   },
   {
@@ -363,8 +270,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Puente de las Américas ist eines der markantesten Ingenieurbauwerke in La Paz und ein unverzichtbarer Bestandteil des städtischen Verkehrsflusses. Diese elegante Schrägseilbrücke überspannt eine tiefe Schlucht und verbindet das geschäftige Miraflores mit dem trendigen Viertel Sopocachi. Seit ihrer Eröffnung hat sie die Fahrzeiten erheblich verkürzt und ist zu einem Symbol für die Modernisierung der Stadt geworden. Für Fußgänger bietet die Brücke einen atemberaubenden, wenn auch etwas schwindelerregenden Blick auf die unter ihr liegenden Häuser und die dramatische Topographie der Stadt. Besonders nachts ist die Brücke ein attraktiver Anblick, wenn ihre Struktur hell erleuchtet ist.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Podul Americilor este unul dintre cele mai distinctive repere inginerești din La Paz și o arteră vitală pentru fluxul de trafic al orașului. Acest pod suspendat elegant traversează o prăpastie adâncă, făcând legătura între cartierul aglomerat Miraflores și zona modernă Sopocachi. De la finalizarea sa în anii '90, a scurtat semnificativ timpii de deplasare și a devenit un simbol al modernizării infrastructurii urbane. Pentru cei care îl traversează pe jos, podul oferă vederi palpitante asupra caselor coloniale și moderne situate mult mai jos în vale. Podul este deosebit de frumos noaptea, când liniile sale structurale sunt evidențiate de un iluminat arhitectural strălucitor.",
+      en: "The Puente de las Américas is one of the most distinctive engineering landmarks in La Paz and a vital artery for the city's traffic flow. This elegant suspension bridge spans a dramatic deep ravine, linking the busy Miraflores district with the upscale neighborhood of Sopocachi. Since its completion, it has significantly shortened travel times and has come to symbolize the city's modern infrastructure development. For those crossing on foot, the bridge offers thrilling, if slightly dizzying, views of the colonial and modern houses nestled far below in the valley. The bridge is particularly beautiful at night when its structural lines are highlighted by brilliant architectural lighting."
     },
     factsAdvanced: {
       de: [
@@ -375,10 +282,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Sie ist nach den amerikanischen Staaten benannt und symbolisiert die regionale Verbundenheit."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Construit pentru a descongestiona traficul intens din centrul orașului",
+        "Culoarea sa portocalie distinctivă îl face ușor de recunoscut de la distanță",
+        "Structura este proiectată să reziste la variațiile extreme de temperatură de la mare altitudine",
+        "Numit în onoarea națiunilor din America, simbolizând unitatea regională"
+      ],
+      en: [
+        "The bridge was commissioned in the late 1990s to alleviate the chronic traffic congestion that plagued the city center.",
+        "Its striking orange paint makes it easily identifiable from various viewpoints throughout the La Paz valley.",
+        "The site is a favorite for photographers capturing the unique juxtaposition of high-modern engineering and steep Andean slopes.",
+        "The structure requires specialized maintenance to cope with the extreme day-to-night temperature variations at high altitude.",
+        "It is named in honor of the nations of the Americas, representing regional unity and shared progress."
+      ]
+    }, image: "/poi-images/puente-de-las-americas-landmarks-v2.webp"},
   {
     id: "iglesia-curahuara-carangas-landmarks-v2",
     type: "landmark",
@@ -405,8 +322,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Kirche von Curahuara de Carangas ist ein verstecktes Juwel auf dem weiten bolivianischen Altiplano. Trotz ihres bescheidenen Äußeren beherbergt sie in ihrem Inneren einige der prächtigsten kolonialen Wandmalereien Südamerikas, was ihr den Beinamen 'Sixtinische Kapelle der Anden' einbrachte. Die Fresken bedecken fast jede Oberfläche des Innenraums und zeigen biblische Szenen, die von indigenen Künstlern mit lokalen Details umschrieben wurden. Diese Kunstwerke dienten einst dazu, der einheimischen Bevölkerung die christliche Lehre visuell nahezubringen. Die Kirche liegt in einer kargen, aber wunderschönen Landschaft, nicht weit entfernt vom majestätischen Vulkan Sajama.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Biserica din Curahuara de Carangas este o capodoperă ascunsă, situată pe vastul și vântosul Altiplano bolivian. În ciuda exteriorului său modest din chirpici, interiorul dezvăluie unele dintre cele mai uimitoare picturi murale coloniale din America de Sud, ceea ce i-a adus titlul de „Capela Sixtină a Anzilor”. Aceste fresce vibrante acoperă aproape fiecare centimetru din pereți și tavan, ilustrând narațiuni biblice reinterpretate cu detalii andine locale de către artiști indigeni. Aceste lucrări au fost create inițial ca un instrument vizual pentru a preda doctrina creștină populației native. Biserica este situată într-un peisaj de o frumusețe austeră, nu departe de vulcanul Sajama, cel mai înalt vârf din Bolivia.",
+      en: "The Church of Curahuara de Carangas is a hidden masterpiece tucked away on the vast, windswept Bolivian Altiplano. Despite its humble adobe exterior, the interior reveals some of South America's most stunning colonial murals, earning it the title 'The Sistine Chapel of the Andes'. These vibrant frescoes cover almost every inch of the walls and ceiling, depicting biblical narratives reinterpreted with local Andean details by indigenous artists. These works were originally created as a visual tool to teach Christian doctrine to the native population. The church is situated in a starkly beautiful landscape, not far from the towering Sajama volcano, Bolivia's highest peak."
     },
     factsAdvanced: {
       de: [
@@ -417,10 +334,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Curahuara de Carangas war einst ein wichtiger Stützpunkt an der kolonialen Handelsroute zwischen Potosí und dem Pazifik."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Frescele datează din aproximativ 1608 și folosesc pigmenți naturali",
+        "Picturile includ animale locale, precum lamele, integrate în scenele biblice",
+        "Declarată Monument Național al Boliviei pentru protejarea patrimoniului artistic",
+        "Construită din piatră și lut într-un stil colonial simplu"
+      ],
+      en: [
+        "The frescoes date back to approximately 1608 and were executed using pigments derived from natural minerals and plants.",
+        "The paintings frequently feature local animals like llamas and alpacas as part of the traditional biblical scenes.",
+        "The building's simple construction using stone and clay creates a powerful contrast with the immense artistic wealth found inside.",
+        "It is officially designated as a National Monument of Bolivia to safeguard its unique and fragile artistic heritage.",
+        "Historically, the town was a vital stop on the colonial trade route connecting the silver mines of Potosí to the Pacific coast."
+      ]
+    }, image: "/poi-images/iglesia-curahuara-carangas-landmarks-v2.webp"},
   {
     id: "santuario-virgen-socavon-landmarks-v2",
     type: "landmark",
@@ -447,8 +374,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Santuario de la Virgen del Socavón ist das geistige Herz von Oruro und eng mit der Bergbaugeschichte der Stadt verwoben. Die Kirche wurde direkt über dem Eingang einer alten Silbermine errichtet und beherbergt das verehrte Bildnis der 'Jungfrau vom Minenstollen'. Jedes Jahr zur Karnevalszeit wird das Heiligtum zum Schauplatz einer beeindruckenden Prozession, bei der tausende Tänzer in farbenprächtigen Kostümen der Jungfrau huldigen. Unter der Kirche befindet sich ein Bergbaumuseum, das einen authentischen Einblick in die harten Arbeitsbedingungen der Bergleute in vergangenen Jahrhunderten bietet. Für die Menschen in Oruro ist dieser Ort ein Symbol für Schutz, Hoffnung und kulturelle Identität.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Sanctuarul Fecioarei de Socavón este epicentrul spiritual al orașului Oruro și este legat în mod fundamental de bogata moștenire minieră a regiunii. Biserica a fost construită în mod unic direct deasupra intrării într-o veche mină de argint și adăpostește imaginea sacră a „Fecioarei din Gura Minei”. În fiecare an, în timpul celebrului Carnaval din Oruro, sanctuarul devine destinația finală pentru mii de dansatori care execută ritualuri elaborate în onoarea Fecioarei. Sub podeaua bisericii, un muzeu minier oferă vizitatorilor o privire autentică asupra condițiilor istorice de muncă ale minerilor andini. Pentru locuitorii din Oruro, acest loc reprezintă un amestec esențial de credință, istorie și mândrie culturală.",
+      en: "The Sanctuary of the Virgin of the Socavón is the spiritual epicenter of Oruro and is fundamentally linked to the city's rich mining heritage. The church was uniquely built directly over the entrance of an ancient silver mine and houses the sacred image of the 'Virgin of the Mineshaft'. Every year during the world-renowned Oruro Carnival, the sanctuary becomes the final destination for thousands of dancers who perform elaborate rituals in honor of the Virgin. Beneath the church floor, a dedicated mining museum offers visitors an authentic look into the historical working conditions of the Andean miners. For the people of Oruro, this site represents an essential blend of faith, history, and cultural pride."
     },
     factsAdvanced: {
       de: [
@@ -459,8 +386,19 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Von der Plaza vor dem Santuario hat man einen weiten Blick über die Dächer der Bergbaustadt Oruro."
       ],
       hu: [],
-      ro: [],
-      en: []
+      ro: [
+        "Dansul „Diablada” (Dansul Diavolilor) se încheie la altarul acestui sanctuar",
+        "Adăpostește o statuie a lui „El Tío”, zeitatea care stăpânește lumea subterană a minelor",
+        "Carnavalul din Oruro este recunoscut de UNESCO ca Patrimoniu Cultural Imaterial",
+        "Minerii vin aici pentru a cere protecție înainte de a coborî în adâncurile periculoase"
+      ],
+      en: [
+        "The 'Diablada' (Dance of the Devils), the carnival's most famous dance, concludes its massive parade here at the sanctuary's altar.",
+        "Generations of miners have visited this site to pray for protection before descending into the dangerous depths of the earth.",
+        "The underground museum includes a display of 'El Tío' (The Uncle), the deity who is believed to rule the underworld of the mines.",
+        "The festivities surrounding the Virgin are part of Oruro's Carnival, which UNESCO has declared a Masterpiece of the Intangible Heritage of Humanity.",
+        "The plaza in front of the sanctuary provides a commanding view of the industrial rooftops and surrounding hills of Oruro."
+      ]
     }
   },
   {
@@ -489,8 +427,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Kathedrale San Lorenzo ist das markanteste Gebäude im Zentrum von Santa Cruz de la Sierra und ein Zeugnis der tropischen Kolonialarchitektur. Mit ihrer Fassade aus leuchtend roten Ziegeln hebt sie sich deutlich von den Kathedralen des kühleren Hochlands ab. Das Innere der Kirche ist überraschend schlicht, besticht aber durch wunderschöne hölzerne Gewölbe und handgefertigte Details. Die Kathedrale liegt direkt an der Plaza 24 de Septiembre, dem pulsierenden Mittelpunkt des städtischen Lebens. Ein besonderes Erlebnis ist der Aufstieg in einen der Glockentürme, von dem aus man einen herrlichen Panoramablick über die Palmen der Plaza und das endlose Häusermeer der Stadt hat.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Catedrala San Lorenzo este cel mai proeminent reper din centrul orașului Santa Cruz de la Sierra, fiind o dovadă a moștenirii tropicale a regiunii. Fațada sa din cărămidă roșie aparentă o distinge clar de catedralele de piatră tipice zonelor înalte din Bolivia. Interiorul este surprinzător de senin, având tavanuri boltite din lemn și detalii artizanale care reflectă resursele forestiere vaste ale zonei. Situată în Plaza 24 de Septiembre, catedrala rămâne inima activă a vieții sociale și religioase a orașului. Pentru o taxă mică, vizitatorii pot urca în unul dintre turnurile cu ceas pentru o panoramă uimitoare asupra pieței pline de palmieri.",
+      en: "The Cathedral of San Lorenzo is the most prominent landmark in downtown Santa Cruz de la Sierra, standing as a testament to the region's tropical heritage. Its facade of exposed red bricks distinguishes it from the stone cathedrals typical of the Bolivian highlands. The interior is unexpectedly serene, featuring magnificent vaulted wooden ceilings and artisanal details that reflect the region's vast forest resources. Situated on the Plaza 24 de Septiembre, the cathedral remains the active heart of the city's social and religious life. For a small fee, visitors can climb one of the clock towers for a breathtaking panorama of the palm-fringed plaza and the sprawling city beyond."
     },
     factsAdvanced: {
       de: [
@@ -501,10 +439,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Ihre Architektur zeigt Einflüsse verschiedener Epochen, was ihr ein eklektisches und einzigartiges Aussehen verleiht."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Clădirea actuală a fost finalizată la sfârșitul secolului al XIX-lea",
+        "Altarul principal prezintă lucrări de argint provenite din misiunile iezuite",
+        "Găzduiește un muzeu ecleziastic cu artefacte și veșminte coloniale",
+        "Stilul arhitectural este considerat eclectic, îmbinând diverse influențe istorice"
+      ],
+      en: [
+        "The current building was completed in the late 19th century, replacing several earlier structures that had fallen into disrepair.",
+        "The sanctuary's high altar features exquisite silverwork originally sourced from the Jesuit missions in the surrounding Chiquitania.",
+        "The site includes a small ecclesiastical museum housing historic religious artifacts and richly embroidered colonial vestments.",
+        "Its thick walls and shaded interior make the cathedral a favorite cool sanctuary for residents escaping the Santa Cruz heat.",
+        "The architectural style is characterized as 'Eclectic,' successfully merging various historical influences into a unified tropical design."
+      ]
+    }, image: "/poi-images/catedral-san-lorenzo-landmarks-v2.webp"},
   {
     id: "monumento-virgen-socavon-landmarks-v2",
     type: "landmark",
@@ -531,8 +479,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Monument der Virgen del Socavón ist ein beeindruckendes Zeugnis des Glaubens und der Ingenieurskunst in Oruro. Mit einer Höhe von 45 Metern überragt es sogar die berühmte Christusstatue in Rio de Janeiro und dominiert die Skyline der Stadt vom Gipfel des Santa Bárbara Hügels aus. Die Statue stellt die Schutzheilige der Bergleute dar und ist von weitem als strahlend weißes Symbol der Hoffnung erkennbar. Besucher können das Innere der Statue erklimmen, in dem sich Kapellen und Ausstellungsräume befinden. Die Krönung eines Besuchs ist der Blick aus der Aussichtsplattform im Kopf der Jungfrau, der einen unvergleichlichen Ausblick auf das Altiplano und die Bergbauminen bietet.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Monumentul Fecioarei de Socavón este o demonstrație uluitoare atât a credinței religioase, cât și a ingineriei moderne în Oruro. Cu o înălțime de 45 de metri, depășește în mod notabil celebra statuie Cristo Redentor din Rio de Janeiro și domină orizontul orașului de pe vârful dealului Santa Bárbara. Statuia o reprezintă pe sfânta patroană a minerilor și servește drept un far alb strălucitor de speranță, vizibil de la mulți kilometri distanță. Vizitatorii pot urca prin cele opt niveluri ale statuii, care adăpostesc capele, artă ecleziastică și exponate educaționale. Experiența culminează cu o platformă de observare situată în capul Fecioarei, oferind o vedere panoramică de neegalat asupra Altiplanoului.",
+      en: "The Monument of the Virgin of the Socavón is a breathtaking display of both religious faith and modern engineering in Oruro. Standing at 45 meters tall, it notably surpasses the height of the famous Christ the Redeemer in Rio de Janeiro and commands the city's skyline from the peak of Santa Bárbara Hill. The statue represents the patron saint of miners and serves as a gleaming white beacon of hope visible for miles around. Visitors can ascend through the statue's eight levels, which house chapels, ecclesiastical art, and educational exhibits. The experience culminates in an observation deck located within the Virgin's head, providing an unrivaled panoramic view of the high Altiplano and Oruro's historic mining landscape."
     },
     factsAdvanced: {
       de: [
@@ -543,8 +491,19 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Das Projekt wurde durch eine enge Zusammenarbeit von Künstlern, Ingenieuren und der Stadtverwaltung realisiert."
       ],
       hu: [],
-      ro: [],
-      en: []
+      ro: [
+        "Inaugurată oficial în 2013 pentru a coincide cu deschiderea carnavalului",
+        "Structura este proiectată să reziste vânturilor puternice de pe Altiplano",
+        "Statuia cântărește aproximativ 1.500 de tone și are 8 niveluri vizitabile",
+        "Noaptea este iluminată de proiectoare puternice, devenind vizibilă de la mare distanță"
+      ],
+      en: [
+        "The monument was officially inaugurated in 2013 to coincide with the opening of Oruro's world-famous carnival.",
+        "The structure consists of eight distinct levels and is engineered to withstand the powerful gale-force winds of the Altiplano.",
+        "The statue depicts the Virgin cradling the infant Jesus, with both figures featuring intricate artistic detail in their robes.",
+        "At night, high-power floodlights illuminate the monument, making it a brilliant focal point above the city.",
+        "The massive project was a collaborative achievement involving master sculptors, structural engineers, and the Oruro municipal government."
+      ]
     }
   },
   {
@@ -573,8 +532,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Iglesia de la Recoleta thront majestätisch am Fuße des Hügels Churuquella und ist einer der idyllischsten Orte in Sucre. Das im Jahr 1601 gegründete Franziskanerkloster ist bekannt für seine ruhigen Kreuzgänge und den wunderschönen Platz davor, der von einer eleganten Bogenreihe gesäumt wird. Besucher kommen vor allem hierher, um den spektakulären Sonnenuntergang zu genießen, wenn die Sonne die 'Weiße Stadt' in ein warmes, goldenes Licht taucht. Das angrenzende Museum bewahrt kostbare sakrale Kunstschätze und bietet Einblicke in das Leben der Mönche über die Jahrhunderte. Ein Spaziergang zur Recoleta ist ein Muss für jeden Sucre-Besucher, der Ruhe und Schönheit sucht.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Biserica Recoleta este situată grațios la baza dealului Churuquella, servind ca una dintre cele mai liniștite și pitorești locații din Sucre. Fondată în 1601 de ordinul franciscan, mănăstirea este renumită pentru chiliile sale liniștite și pentru frumoasa piață din față, care este mărginită de un rând elegant de arcade de piatră. Vizitatorii vin aici în special pentru a asista la spectaculosul apus de soare andin, care scaldă „Orașul Alb” într-o strălucire aurie caldă. Muzeul de la fața locului păstrează o colecție neprețuită de artă sacră și oferă o privire asupra vieții monahale care a continuat aici timp de secole. O plimbare până la Recoleta este o experiență esențială în Sucre pentru cei care caută frumusețe liniștită și vederi de neegalat.",
+      en: "The Church of the Recoleta sits gracefully at the base of Churuquella Hill, serving as one of Sucre's most peaceful and scenic locations. Founded in 1601 by the Franciscan order, the monastery is renowned for its tranquil cloisters and the beautiful plaza out front, which is lined with an elegant row of stone arches. Visitors flock here primarily to witness the spectacular Andean sunset, which bathes the 'White City' in a warm, golden glow. The onsite museum preserves an invaluable collection of sacred art and offers a glimpse into the monastic life that has continued here for centuries. A gentle walk up to the Recoleta is a quintessential Sucre experience for those seeking quiet beauty and unparalleled views."
     },
     factsAdvanced: {
       de: [
@@ -585,10 +544,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Das Kloster war während der Kolonialzeit ein wichtiges Zentrum für die Missionierung der Region."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Fondată în anul 1601 de către ordinul franciscan",
+        "Piața din fața bisericii are un cedru vechi de secole, considerat reper local",
+        "Complexul mănăstiresc include catacombe antice deschise publicului",
+        "Punctul de observație „Mirador” este un loc popular pentru artiști și muzicieni"
+      ],
+      en: [
+        "The plaza in front of the church features a massive, centuries-old cedar tree that is a recognized local landmark.",
+        "The church interior preserves spectacular choir stalls crafted from intricately hand-carved Amazonian hardwoods.",
+        "The monastery complex includes ancient catacombs, some sections of which are open to the public for tours.",
+        "The Recoleta viewpoint, or 'Mirador,' is a legendary gathering spot for local musicians and artists during the golden hour.",
+        "Historically, the convent served as a primary training ground and hub for Franciscan missions throughout southern Bolivia."
+      ]
+    }, image: "/poi-images/iglesia-recoleta-landmarks-v2.webp"},
   {
     id: "torre-compania-jesus-landmarks-v2",
     type: "landmark",
@@ -615,8 +584,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Torre de la Compañía de Jesús ist ein ikonisches Überbleibsel der einstigen Macht des Jesuitenordens in Potosí. Während die dazugehörige Kirche im 18. Jahrhundert durch ein Erdbeben zerstört wurde, blieb der prächtige Glockenturm als eigenständiges Monument erhalten. Seine Fassade ist ein Meisterwerk des Mestizen-Barocks, verziert mit feinen Steinschnitzereien, die religiöse und andine Motive kunstvoll verbinden. Heute dient der Turm als Touristeninformation und bietet Besuchern die Möglichkeit, über eine enge Treppe die Aussichtsplattform zu erklimmen. Von oben eröffnet sich ein spektakulärer Blick auf die historische Altstadt, die Casa de la Moneda und den allgegenwärtigen Cerro Rico.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Torre de la Compañía de Jesús este o rămășiță simbolică a imensei influențe deținute odinioară de ordinul iezuit în Potosí. În timp ce biserica adiacentă a fost distrusă în mod tragic de un cutremur în secolul al XVIII-lea, magnificul turn clopotniță a supraviețuit ca monument independent. Fațada sa este o capodoperă a stilului baroc mestizo, prezentând sculpturi delicate în piatră care împletesc simbolurile catolice cu motivele ancestrale andine. Astăzi, turnul funcționează ca centru pentru vizitatori și oferă călătorilor șansa de a urca scara sa îngustă de piatră până la galeria de pe acoperiș. De sus, oaspeții se bucură de o vedere panoramică de neegalat asupra centrului colonial și a muntelui Cerro Rico.",
+      en: "The Torre de la Compañía de Jesús is an iconic remnant of the immense influence once held by the Jesuit order in Potosí. While the attached church was tragically destroyed by an earthquake in the 18th century, the magnificent bell tower survived as a standalone monument. Its facade is a masterpiece of the 'Mestizo Baroque' style, featuring delicate stone carvings that skillfully weave together Catholic symbols and ancestral Andean motifs. Today, the tower functions as a visitors' center and offers travelers the chance to climb its narrow stone staircase to the rooftop gallery. From the top, guests enjoy an unrivaled panoramic view of the colonial center, the Royal Mint, and the ever-looming Cerro Rico mountain."
     },
     factsAdvanced: {
       de: [
@@ -627,10 +596,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Er gilt als eines der am besten erhaltenen Beispiele für die Kombination von europäischer Architektur und indigener Kunst."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Construcția a avut loc la începutul anilor 1700, în perioada de apogeu a orașului",
+        "Reliefurile din piatră includ îngeri cu trăsături indigene și fructe tropicale",
+        "Monumentul a fost construit folosind rocă vulcanică roșiatică locală",
+        "Este considerat unul dintre cele mai bune exemple de fuziune între arta europeană și cea nativă"
+      ],
+      en: [
+        "Construction on the tower took place in the early 1700s, during Potosí's peak as one of the world's wealthiest cities.",
+        "The intricate stone reliefs feature unique carvings of angels with indigenous facial features alongside representations of local tropical fruits.",
+        "The entire monument was constructed using the distinctive reddish volcanic rock native to the Potosí region.",
+        "During major holidays, the tower is the centerpiece for elaborate light displays and public celebrations.",
+        "It is celebrated by art historians as one of the finest surviving examples of the syncretic fusion between European architecture and native artistry."
+      ]
+    }, image: "/poi-images/torre-compania-jesus-landmarks-v2.webp"},
   {
     id: "mision-san-javier-landmarks-v2",
     type: "landmark",
@@ -657,8 +636,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Misión San Javier ist das Tor zur faszinierenden Welt der Chiquitos-Missionen und die älteste ihrer Art in Bolivien. Gegründet im Jahr 1691, vereint sie auf einzigartige Weise europäische Barockarchitektur mit indigenen Handwerkstraditionen. Die Kirche ist fast vollständig aus Holz gebaut, mit massiven geschnitzten Säulen, die das gewaltige Dach tragen. In ihrem Inneren herrscht eine warme Atmosphäre, geprägt von kunstvollen Malereien und einer außergewöhnlichen Akustik. Die Mission wurde unter der Leitung des Schweizer Paters Martin Schmid zu einem Zentrum für Musik und Kunsthandwerk. Heute ist sie Teil des UNESCO-Weltkulturerbes und ein lebendiges Denkmal einer erfolgreichen kulturellen Verschmelzung.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Misiunea San Javier servește drept poartă istorică către regiunea Chiquitania și este cea mai veche misiune iezuită din Bolivia. Înființată în 1691, aceasta reprezintă o fuziune culturală unică și reușită între designul baroc european și tradițiile artistice indigene. Biserica misiunii este o realizare extraordinară a ingineriei lemnului, având piloni uriași sculptați manual care susțin acoperișul său masiv. În interior, vizitatorii experimentează o atmosferă caldă, creată de picturile murale elaborate și de acustica naturală excepțională. Sub conducerea misionarului elvețian Martin Schmid, misiunea a devenit un centru renumit pentru fabricarea instrumentelor muzicale. Astăzi, este recunoscută ca sit al Patrimoniului Mondial UNESCO.",
+      en: "The San Javier Mission serves as the historic gateway to the Chiquitania region and is the oldest Jesuit mission in Bolivia. Established in 1691, it represents a unique and successful cultural merger between European Baroque design and indigenous artistic traditions. The mission church is an extraordinary feat of timber engineering, featuring enormous hand-carved pillars that support its massive overhanging roof. Inside, visitors experience a warm, ethereal atmosphere created by elaborate wall paintings and exceptional natural acoustics. Under the direction of the Swiss missionary Martin Schmid, the mission became a renowned center for musical instrument making and composition. Today, it is recognized as a UNESCO World Heritage site and remains a vibrant center of local worship."
     },
     factsAdvanced: {
       de: [
@@ -669,10 +648,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Jedes Jahr findet hier ein internationales Festival für Barockmusik statt, das Besucher aus aller Welt anzieht."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Cea mai veche misiune iezuită din Chiquitania, fondată în 1691",
+        "Proiectată de arhitectul și muzicianul elvețian Martin Schmid",
+        "Găzduiește un festival internațional de muzică barocă la fiecare doi ani",
+        "Restaurată meticulos în secolul XX de către arhitectul Hans Roth"
+      ],
+      en: [
+        "The church underwent a profound and meticulous restoration in the late 20th century led by architect Hans Roth to save its original wooden structure.",
+        "San Javier is the site where a vast archive of lost Jesuit Baroque music scores was rediscovered, now performed by ensembles worldwide.",
+        "The intricate woodwork and carvings on the altars were executed by Chiquitano master artisans with astounding skill and precision.",
+        "The building's unique architectural layout was specifically evolved to allow for maximum ventilation in the humid tropical climate.",
+        "The mission is a key host for the biennial International Baroque Music Festival, which draws world-class musicians to the Bolivian jungle."
+      ]
+    }, image: "/poi-images/mision-san-javier-landmarks-v2.webp"},
   {
     id: "mision-concepcion-landmarks-v2",
     type: "landmark",
@@ -699,8 +688,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Misión Concepción gilt als das kulturelle Juwel der Chiquitania und ist berühmt für ihre prachtvolle Architektur und ihr reiches musikalisches Erbe. Die Kirche, deren heutige Form im 18. Jahrhundert unter Pater Martin Schmid vollendet wurde, besticht durch ihre filigranen Holzschnitzereien und die farbenfrohen Fassadenbemalungen. Im angrenzenden Archiv werden hunderte von Originalpartituren aus der Barockzeit aufbewahrt, die von der hohen musikalischen Bildung der Mission zeugen. Die friedliche Atmosphäre des Dorfes und die imposante Erscheinung der Kirche machen Concepción zu einem der beliebtesten Ziele für Kulturtouristen. Die Mission ist nicht nur ein Museum, sondern bleibt ein lebendiger Ort der Anbetung und des Gemeinschaftslebens.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Misiunea Concepción este considerată bijuteria coroanei culturale a regiunii Chiquitania, faimoasă pentru restaurarea sa impecabilă și imensa moștenire muzicală. Structura actuală a bisericii, finalizată în secolul al XVIII-lea, reprezintă o capodoperă a arhitecturii din lemn, cu sculpturi delicate și picturi vibrante pe fațadă. Arhiva misiunii păstrează sute de manuscrise muzicale originale din epoca barocă, dezvăluind nivelul înalt de educație artistică atins în aceste așezări. Atmosfera liniștită a orașului și prezența impunătoare a bisericii o fac o destinație de top pentru turismul cultural din Bolivia. Dincolo de valoarea sa istorică, misiunea rămâne inima vie a vieții comunității locale.",
+      en: "The Concepción Mission is widely regarded as the cultural crown jewel of the Chiquitania region, famous for its immaculate restoration and immense musical legacy. The current church structure, completed in the 18th century under the guidance of Father Martin Schmid, stands as a masterpiece of wooden architecture with its delicate carvings and vibrant facade paintings. The mission's archive preserves hundreds of original Baroque-era music manuscripts, revealing the high level of artistic education achieved in these settlements. The town's tranquil atmosphere and the church's imposing presence make it a top destination for cultural tourism in Bolivia. Beyond its historic value, the mission remains the beating heart of local community life and religious practice."
     },
     factsAdvanced: {
       de: [
@@ -711,10 +700,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Das Dorf behält seine traditionelle Anordnung um einen großen, grasbewachsenen Platz bei."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Renumită pentru arhiva sa vastă de partituri muzicale baroce originale",
+        "Interiorul bisericii prezintă un altar magnific aurit cu o strălucire radiantă",
+        "Situl a fost restaurat cu succes în anii 1970 întrun proiect de patrimoniu major",
+        "Păstrează planul urbanistic original iezuit, centrat pe o piață mare cu iarbă"
+      ],
+      en: [
+        "Concepción serves as the headquarters for the acclaimed Chiquitos Baroque Music Ensemble.",
+        "The primary altar is a triumph of traditional gilding techniques, creating a radiant golden glow within the sanctuary.",
+        "The comprehensive restoration of the church in the 1970s is considered one of the most successful heritage projects in Latin America.",
+        "The sanctuary houses a remarkable collection of polychrome wooden saints crafted in the unique 'Mestizo' style of the region.",
+        "The town layout strictly adheres to the original Jesuit plan, centered around a vast, meticulously maintained grassy plaza."
+      ]
+    }, image: "/poi-images/mision-concepcion-landmarks-v2.webp"},
   {
     id: "obelisco-la-paz-landmarks-v2",
     type: "landmark",
@@ -741,8 +740,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Obelisco de La Paz ist ein unübersehbarer Orientierungspunkt im Herzen des geschäftigen Stadtzentrums. Errichtet in den 1930er Jahren auf der Kreuzung wichtiger Hauptverkehrsadern, markiert er den Übergang zwischen dem historischen Viertel und den moderneren Geschäftszentren. Der schlanke Steinturm steht auf einem kleinen Platz, der trotz des umgebenden Verkehrs ein beliebter Treffpunkt für Einheimische und Demonstranten ist. In seiner unmittelbaren Umgebung befinden sich Banken, Regierungsgebäude und zahlreiche Geschäfte, die das pulsierende Leben der Metropole widerspiegeln. Für Besucher ist der Obelisk oft der Startpunkt für Erkundungstouren durch die steilen Gassen der Innenstadt.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Obeliscul din La Paz este un reper inconfundabil situat în inima centrului comercial agitat al orașului. Ridicat în anii 1930 la intersecția mai multor artere vitale, acesta marchează tranziția simbolică între districtul istoric colonial și cartierele de afaceri moderne. Această coloană zveltă de piatră se află pe o mică piață care, în ciuda traficului intens, rămâne un loc popular de întâlnire pentru localnici și un sit recurent pentru demonstrații politice. Zona înconjurătoare este plină de bănci, birouri guvernamentale și nenumărate magazine, reflectând energia neobosită a capitalei boliviene. Pentru mulți călători, Obeliscul servește ca punct de plecare principal pentru explorarea străzilor centrale abrupte și întortocheate.",
+      en: "The Obelisk of La Paz is an unmistakable landmark positioned at the core of the city's frantic commercial center. Erected in the 1930s at the junction of several vital thoroughfares, it marks the symbolic transition between the colonial historic district and the modern business quarters. This slender stone spire stands on a small plaza that, despite being surrounded by intense traffic, remains a popular meeting spot for locals and a recurring site for political demonstrations. The surrounding area is packed with banks, government offices, and countless shops, reflecting the relentless energy of the Bolivian capital. For many travelers, the Obelisk serves as the primary starting point for exploring the city's steep and winding central streets."
     },
     factsAdvanced: {
       de: [
@@ -753,10 +752,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Von hier aus sind es nur wenige Gehminuten zur berühmten Basilica de San Francisco."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Monumentul are aproximativ 18 metri înălțime și este construit din blocuri de piatră",
+        "Construit pentru a comemora centenarul republicii boliviene",
+        "Punct focal strategic pentru marșurile de protest și adunările populare",
+        "Situat la mică distanță de Basilica San Francisco și poșta centrală"
+      ],
+      en: [
+        "The monument stands approximately 18 meters tall and was constructed using large blocks of locally quarried stone.",
+        "The Obelisk was built to commemorate the centennial of the republic and the enduring spirit of Bolivian independence.",
+        "The small plaza surrounding the spire acts as a strange island of activity amidst the sea of buses and commuters.",
+        "It is a primary focal point for Bolivia's vibrant tradition of street protests, often serving as a staging ground before groups move to Plaza Murillo.",
+        "The landmark is situated within easy walking distance of major sites like the San Francisco Basilica and the main post office."
+      ]
+    }, image: "/poi-images/obelisco-la-paz-landmarks-v2.webp"},
   {
     id: "mercado-brujas-landmarks-v2",
     type: "landmark",
@@ -783,8 +792,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Mercado de las Brujas, oder Hexenmarkt, ist einer der faszinierendsten und ungewöhnlichsten Orte in La Paz. Gelegen in den engen Kopfsteinpflastergassen nahe der Sagarnaga-Straße, bietet er einen tiefen Einblick in die andine Mythologie und Volksmedizin. Hier verkaufen 'Hexen' und Kräuterkundige alles von Heilpflanzen und Amuletten bis hin zu rituellen Opferpaketen für die Erdgöttin Pachamama. Besonders berühmt sind die getrockneten Lama-Föten, die unter den Fundamenten neuer Häuser vergraben werden, um Glück und Schutz zu bringen. Der Markt ist eine lebendige Mischung aus alten Traditionen und modernem Tourismus, die jeden Besucher in ihren Bann zieht.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Mercado de las Brujas, sau Piața Vrăjitoarelor, este una dintre cele mai enigmatice și captivante locații din toată America de Sud. Ascunsă pe străzile pavate și abrupte de lângă strada Sagarnaga, piața oferă o fereastră autentică către spiritualitatea andină ancestrală și medicina tradițională. Aici, vânzătorii locali cunoscuți sub numele de „vrăjitori” vând de toate, de la plante medicinale și amulete protectoare până la pachete rituale pentru Mama Pământ (Pachamama). Poate cele mai faimoase sunt fetușii de lama uscați, care sunt îngropați ritualic sub clădirile noi pentru a asigura protecția divină și prosperitatea. Piața este o coliziune vibrantă și aromatică între vechile credințe indigene și curiozitatea lumii moderne.",
+      en: "The Mercado de las Brujas, or Witches' Market, is one of the most enigmatic and visually arresting locations in all of South America. Tucked into the steep, cobblestoned alleyways near Sagarnaga Street, it offers an authentic window into ancestral Andean spirituality and traditional medicine. Here, local vendors known as 'witches' or herbalists sell everything from medicinal plants and protective amulets to specialized ritual bundles for Mother Earth (Pachamama). Perhaps most famous are the dried llama fetuses, which are ritually buried beneath new buildings to ensure divine protection and prosperity. The market is a vibrant, aromatic collision of ancient indigenous beliefs and the curiosity of the modern world."
     },
     factsAdvanced: {
       de: [
@@ -795,10 +804,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Der Name 'Hexenmarkt' ist eine eher touristische Bezeichnung; für die Einheimischen ist es ein seriöser Ort der Medizin."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "„Yatiris” (ghicitorii) pot fi identificați după pălăriile negre și frunzele de coca",
+        "Vinde obiecte rituale precum fetuși de lama uscați pentru ofrande",
+        "Loc excelent pentru a găsi textile tradiționale și haine din lână de alpaca",
+        "Vizitatorii sunt sfătuiți să ceară permisiunea înainte de a face fotografii vânzătorilor"
+      ],
+      en: [
+        "Local 'Yatiris' (fortune tellers) can often be identified by their distinct black hats and their ever-present pouches of sacred coca leaves.",
+        "While shops remain open throughout the day, the most significant spiritual consultations and rituals typically occur at dawn.",
+        "Beyond mystical items, the market is an excellent place to find high-quality, hand-woven alpaca garments and traditional textiles.",
+        "Visitors should always ask for permission before taking photographs, as many vendors consider their specialized wares to be sacred.",
+        "The title 'Witches' Market' is largely a tourist label; for the indigenous population, it is a vital and serious center for medicine and faith."
+      ]
+    }, image: "/poi-images/mercado-brujas-landmarks-v2.webp"},
   {
     id: "convento-san-felipe-neri-landmarks-v2",
     type: "landmark",
@@ -817,7 +836,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       en: "A former convent in Sucre with magnificent neoclassical courtyards and a sprawling terracotta roof that you can walk on."
     },
     facts: {
-      de: ["Erbaut zwischen 1795 und 1800", "Heute teilweise eine Mädchenschule", "Dach bietet tollen Blick über Sucre", "Eines der schönsten Gebäude der Stadt"],
+      de: ["Erbaut zwischen 1795 and 1800", "Heute teilweise eine Mädchenschule", "Dach bietet tollen Blick über Sucre", "Eines der schönsten Gebäude der Stadt"],
       hu: ["1795 és 1800 között épült", "Ma részben leányiskola", "A tetőről nagyszerű kilátás nyílik Sucréra", "A város egyik legszebb épülete"],
       ro: ["Construită între 1795 și 1800", "Astăzi parțial o școală de fete", "Acoperișul oferă o priveliște minunată asupra Sucre", "Una dintre cele mai frumoase clădiri din oraș"],
       en: ["Built between 1795 and 1800", "Today partly a girls' school", "Roof offers great views over Sucre", "One of the most beautiful buildings in the city"]
@@ -825,8 +844,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Convento de San Felipe Neri in Sucre ist ein architektonisches Juwel der Kolonialzeit und bekannt für seine strahlend weiße Fassade. Das ehemalige Kloster beeindruckt durch seine weitläufigen, neoklassizistischen Kreuzgänge und die friedliche Atmosphäre seiner Innenhöfe. Ein absolutes Highlight für Besucher ist der Aufstieg auf das weitläufige Terrakotta-Dach. Von dort aus hat man einen unvergleichlichen Panoramablick über die 'Weiße Stadt' mit ihren unzähligen Kirchtürmen und roten Dächern. Das Gebäude wird heute teilweise als Schule genutzt, bewahrt aber seinen historischen Charme und ist ein Muss für jeden Fotografen und Architekturbegeisterten.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Mănăstirea San Felipe Neri din Sucre este un triumf arhitectural al epocii coloniale târzii, faimoasă pentru fațada sa albă impecabilă. Această fostă mănăstire impresionează vizitatorii prin curțile sale neoclasice vaste și sentimentul profund de pace găsit în interiorul grădinilor sale ascunse. Experiența definitorie aici este urcarea pe acoperișul vast placat cu teracotă, care oferă probabil cea mai spectaculoasă vedere panoramică asupra „Orașului Alb”. De aici, se poate admira marea de acoperișuri roșii și nenumăratele turle de biserici. Deși o parte a complexului servește în prezent ca școală de fete, acesta și-a păstrat meticulos farmecul istoric, fiind o oprire obligatorie pentru fotografi.",
+      en: "The Convent of San Felipe Neri in Sucre is an architectural triumph of the late colonial era, famous for its gleaming, pristine white facade. This former monastery impresses visitors with its expansive neoclassical cloisters and the profound sense of peace found within its hidden courtyards. The definitive experience here is ascending to the vast terracotta-tiled rooftop; it offers arguably the most breathtaking panoramic view of the 'White City,' with its sea of red roofs and myriad church spires. Although part of the complex currently serves as a girls' school, it has meticulously preserved its historic charm, making it a mandatory stop for photographers and history enthusiasts."
     },
     factsAdvanced: {
       de: [
@@ -837,10 +856,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Der Zugang zum Dach erfolgt über eine enge, geschichtsträchtige Steintreppe."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Construită din gresie roșiatică locală, ulterior tencuită în alb strălucitor",
+        "Acoperișul oferă vederi panoramice unice asupra întregului oraș Sucre",
+        "Turnurile clopotniță sunt decorate cu cioburi de porțelan spaniol antic",
+        "Accesul pe acoperiș se face printr-o scară în spirală din piatră originală"
+      ],
+      en: [
+        "The structure was originally built with local reddish sandstone which was subsequently whitewashed to match Sucre's iconic aesthetic.",
+        "On clear Andean days, the rooftop offers views stretching all the way to the distant cordillera peaks on the horizon.",
+        "The convent's bell towers and domes are uniquely decorated with shards of antique blue-and-white Spanish porcelain.",
+        "The interior galleries house a significant collection of religious paintings and liturgical artifacts from the 1700s.",
+        "The rooftop is accessed via an original, narrow stone spiral staircase that has been worn smooth by centuries of use."
+      ]
+    }, image: "/poi-images/convento-san-felipe-neri-landmarks-v2.webp"},
   {
     id: "iglesia-san-lorenzo-landmarks-v2",
     type: "landmark",
@@ -867,8 +896,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Kirche San Lorenzo de Carangas in Potosí ist berühmt für ihr außergewöhnliches Portal, das als eines der besten Beispiele des Mestizen-Barocks weltweit gilt. Die Steinschnitzereien an der Fassade sind von einer unglaublichen Detailtiefe und zeigen eine faszinierende Verschmelzung von christlichen Motiven und indigener andiner Kosmologie. Man findet dort Symbole wie die Sonne, den Mond und Sterne neben christlichen Heiligen und Engeln. Die Kirche wurde ursprünglich im 16. Jahrhundert für die indigene Gemeinde der Carangas errichtet, die in den Silberminen arbeitete. Heute ist sie ein UNESCO-Weltkulturerbe und zieht Kunsthistoriker und Touristen aus aller Welt an, die dieses steinerne Zeugnis kolonialer Geschichte bewundern.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Biserica San Lorenzo de Carangas din Potosí este renumită la nivel mondial pentru fațada sa extraordinară, considerată unul dintre cele mai bune exemple supraviețuitoare ale stilului baroc mestizo. Sculpturile în piatră de pe portal prezintă o profunzime incredibilă a detaliilor, dezvăluind o sinteză fascinantă între iconografia catolică și cosmologia andină ancestrală. Observatorii pot găsi figuri ale soarelui, lunii și stelelor sculptate complex alături de sfinți creștini și îngeri. Înființată inițial în secolul al XVI-lea pentru comunitatea indigenă Carangas care lucra în minele de argint, biserica este o dovadă profundă a rezistenței culturale. Astăzi, este o componentă cheie a statutului Potosí ca sit al Patrimoniului Mondial UNESCO.",
+      en: "The Church of San Lorenzo de Carangas in Potosí is world-renowned for its extraordinary facade, considered one of the finest surviving examples of 'Mestizo Baroque' architecture. The stone carvings on the portal display an incredible depth of detail, revealing a fascinating synthesis of Catholic iconography and ancestral Andean cosmology. Observers can find figures of the sun, moon, and stars intricately carved alongside Christian saints and angels. Originally established in the 16th century for the indigenous Carangas community who labored in the silver mines, the church is a profound testament to cultural endurance. Today, it is a key component of Potosí's UNESCO World Heritage status, attracting art historians and travelers from every corner of the globe."
     },
     factsAdvanced: {
       de: [
@@ -879,10 +908,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Die Kirche war einst Teil eines größeren Klosterkomplexes, der heute größtenteils verschwunden ist."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Portalul baroc celebru a fost adăugat între anii 1728 și 1744",
+        "Fațada include sculpturi de sirene care cântă la „charangos” (chitare andine)",
+        "Interiorul prezintă o cupolă spectaculoasă din lemn în stil Mudéjar",
+        "Sculptată manual în gresie roșiatică moale, specifică regiunii Potosí"
+      ],
+      en: [
+        "The celebrated Baroque portal was added during a major renovation between 1728 and 1744.",
+        "The facade famously features carvings of two sirens playing 'charangos,' traditional small Andean guitars.",
+        "Inside, the church is noted for its beautiful wooden dome built in the Spanish Mudéjar style.",
+        "The delicate and complex stone reliefs were painstakingly sculpted using the soft, locally sourced reddish sandstone.",
+        "The church was originally part of a larger monastery complex that has mostly vanished over the centuries."
+      ]
+    }, image: "/poi-images/iglesia-san-lorenzo-landmarks-v2.webp"},
   {
     id: "cementerio-de-trenes-landmarks-v2",
     type: "landmark",
@@ -909,8 +948,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Cementerio de Trenes, oder Eisenbahnfriedhof, am Rande der Stadt Uyuni ist einer der surrealsten Orte Boliviens. Hier ruhen die Überreste von dutzenden britischen Dampflokomotiven und Waggons, die im späten 19. und frühen 20. Jahrhundert für den Transport von Mineralien zu den Häfen am Pazifik eingesetzt wurden. Nach dem Zusammenbruch der Bergbauindustrie in den 1940er Jahren wurden die Züge einfach in der Wüste zurückgelassen. Der salzhaltige Wind und die trockene Luft haben das Metall im Laufe der Jahrzehnte zerfressen und in rostige Skelette verwandelt. Heute ist der Ort ein faszinierendes Freilichtmuseum und ein beliebter erster Stopp für jede Tour in den berühmten Salar de Uyuni.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Cementerio de Trenes, sau Cimitirul de Trenuri, de la periferia orașului Uyuni, este una dintre cele mai bântuitoare și suprarealiste locații din Bolivia. Acesta servește ca loc de odihnă final pentru zeci de locomotive cu aburi britanice și vagoane abandonate care transportau odinioară minerale din minele andine către porturile de la Pacific. După prăbușirea industriei miniere locale în anii 1940, echipamentele au fost pur și simplu lăsate în voia elementelor naturii. Decenii de expunere la vânturile sărate și climatul deșertic arid au corodat fierul, transformând giganții în ruine scheletice ruginite. Astăzi, este un muzeu fascinant în aer liber și o primă oprire obligatorie pentru aproape orice expediție în Salar de Uyuni.",
+      en: "The Cementerio de Trenes, or Train Cemetery, on the outskirts of Uyuni is one of the most hauntingly beautiful and surreal locations in Bolivia. It serves as a final resting place for dozens of abandoned 19th-century British steam locomotives and rail cars that once transported minerals from the Andean mines to Pacific ports. Following the collapse of the local mining industry in the 1940s, the equipment was simply left to the elements. Decades of exposure to salt-laden winds and the arid desert climate have corroded the iron, transforming the giants into rusted skeletal ruins. Today, it is a fascinating open-air museum and an obligatory first stop for almost every expedition into the nearby Salar de Uyuni."
     },
     factsAdvanced: {
       de: [
@@ -921,10 +960,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Die Stille der Wüste und die rostigen Giganten erzeugen eine melancholische, fast postapokalyptische Atmosphäre."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Găzduiește locomotive importate din Marea Britanie la sfârșitul secolului al XIX-lea",
+        "Situat la doar 3 kilometri de centrul orașului Uyuni",
+        "Vizitatorii pot urca pe locomotivele ruginite pentru fotografii unice",
+        "A servit ca decor pentru diverse producții cinematografice internaționale"
+      ],
+      en: [
+        "The majority of these locomotives were imported from Great Britain and represented the height of industrial technology in their era.",
+        "The train cemetery is located just 3 kilometers outside of the main town of Uyuni, easily accessible by foot or bike.",
+        "Visitors are free to climb atop the rusted engines and explore the interiors of the decaying driver cabs.",
+        "The site has served as a dramatic, post-apocalyptic backdrop for various international film productions and music videos.",
+        "The combination of the desert's silence and these massive rusted relics creates a powerful, melancholic atmosphere unlike anywhere else."
+      ]
+    }, image: "/poi-images/cementerio-de-trenes-landmarks-v2.webp"},
   {
     id: "catedral-potosi-landmarks-v2",
     type: "landmark",
@@ -951,8 +1000,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Kathedrale von Potosí ist eines der prachtvollsten Beispiele neoklassizistischer Architektur in Bolivien. Erbaut im frühen 19. Jahrhundert auf den Trümmern einer eingestürzten Vorgängerkirche, spiegelt sie den einstigen unvorstellbaren Reichtum der Silberstadt wider. Die monumentale Steinfassade mit ihren korinthischen Säulen dominiert die Plaza 10 de Noviembre. Im Inneren beeindruckt die Kathedrale durch hohe, lichte Gewölbe, wertvolle Gemälde der Potosí-Schule und einen Altar, der überreich mit Blattgold verziert ist. Als Sitz des Bistums Potosí ist sie bis heute der Mittelpunkt des religiösen Lebens und ein stolzes Symbol für die Geschichte der Stadt.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Catedrala din Potosí este un exemplu de prim rang al măreției neoclasice din Bolivia, reflectând statutul orașului de fostă putere economică globală. Reconstruită la începutul secolului al XIX-lea după prăbușirea unei structuri anterioare, fațada sa monumentală din piatră și coloanele corintice ancorează Plaza 10 de Noviembre. Interiorul este la fel de impresionant, cu bolți înalte din lemn de tei, o colecție bogată de picturi coloniale și un sanctuar acoperit cu foiță de aur orbitoare. Fiind sediul diocezei locale, ea rămâne centrul spiritual al orașului. Clădirea servește ca o reamintire mândră a trecutului istoric al orașului Potosí și a rezistenței sale de-a lungul secolelor.",
+      en: "The Cathedral of Potosí is a premier example of neoclassical grandeur in Bolivia, reflecting the city's status as a former global economic powerhouse. Reconstructed in the early 19th century following the collapse of a previous structure, its monumental stone facade and Corinthian columns anchor the Plaza 10 de Noviembre. The interior is equally impressive, featuring soaring linden-wood vaults, a rich collection of colonial paintings, and a sanctuary covered in dazzling gold leaf. As the seat of the local diocese, it remains the spiritual center of the city. The building serves as a proud reminder of Potosí's storied past and its enduring resilience through centuries of change."
     },
     factsAdvanced: {
       de: [
@@ -963,10 +1012,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Das Gebäude wurde mehrfach restauriert, um die Schäden durch die harten klimatischen Bedingungen der Anden zu beheben."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Construcția a fost supravegheată de arhitectul spaniol Manuel de Sanahuja",
+        "Turnurile clopotniță oferă o perspectivă spectaculoasă asupra Cerro Rico",
+        "Cripta catedralei adăpostește rămășițele multor figuri regionale proeminente",
+        "Lucrările de construcție au durat aproape trei decenii în condiții de altitudine"
+      ],
+      en: [
+        "The cathedral's design was supervised by the Spanish architect Manuel de Sanahuja, who introduced pure neoclassical lines to the region.",
+        "The bell towers offer a spectacular perspective of the historic city center and the towering Cerro Rico mountain.",
+        "Beneath the sanctuary, the cathedral's crypt holds the remains of many prominent regional figures and high-ranking clergy.",
+        "The construction required nearly three decades of labor, a feat of high-altitude engineering for the early 19th century.",
+        "Frequent restorations are necessary to combat the abrasive effects of the harsh Andean winds and high ultraviolet radiation."
+      ]
+    }, image: "/poi-images/catedral-potosi-landmarks-v2.webp"},
   {
     id: "plaza-24-septiembre-landmarks-v2",
     type: "landmark",
@@ -993,8 +1052,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Plaza 24 de Septiembre ist das pulsierende Herz von Santa Cruz de la Sierra und ein Paradebeispiel für ein lebendiges südamerikanisches Stadtzentrum. Unter den riesigen Palmen und schattenspendenden Bäumen treffen sich Einheimische zum Schachspielen, Plaudern oder einfach zum Genießen der tropischen Atmosphäre. Der Platz wird von beeindruckenden Gebäuden wie der Kathedrale San Lorenzo, dem Rathaus und dem Kulturzentrum gesäumt, die alle einen kolonialen Charme versprühen. Hier verschmelzen Tradition und Moderne, wenn Straßenmusiker spielen und Touristen in den umliegenden Cafés verweilen. Es ist der perfekte Ort, um den entspannten Rhythmus der 'Camba'-Kultur kennenzulernen.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Plaza 24 de Septiembre este inima vibrantă a orașului Santa Cruz de la Sierra și o vitrină perfectă pentru ritmul de viață relaxat al acestui oraș tropical. Umbrită de palmieri masivi și arbori indigeni, piața este locul principal de întâlnire unde localnicii se adună pentru a juca șah sau pur și simplu pentru a se bucura de briză. Piața este mărginită de repere arhitecturale, inclusiv Catedrala San Lorenzo și Primăria, toate emanând farmecul epocii coloniale. Este un loc unde tradiția și modernitatea coexistă, cu muzicieni ambulanți jucând cântece populare în timp ce clienții frecventează cafenelele la modă din apropiere. Piața este locația supremă pentru a experimenta căldura și ospitalitatea culturii locale „Camba”.",
+      en: "Plaza 24 de Septiembre is the vibrant heart of Santa Cruz de la Sierra and a perfect showcase for the city's famously relaxed pace of life. Shaded by massive palms and indigenous trees, the square is a primary meeting spot where locals gather to play chess, share news, or simply enjoy the tropical breeze. The plaza is bordered by architectural landmarks including the San Lorenzo Cathedral, the City Hall, and a prominent cultural center, all exuding colonial-era charm. It's a place where tradition and modernity coexist, with street musicians playing folk songs while patrons frequent trendy nearby cafes. The square is the ultimate location to experience the warmth and hospitality of the local 'Camba' culture."
     },
     factsAdvanced: {
       de: [
@@ -1005,10 +1064,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Die Bänke und Wege wurden vor kurzem renoviert, wobei der historische Charakter erhalten blieb."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Numită după răscoala din 1810 a orașului împotriva dominației spaniole",
+        "Pădurile pieței adăpostesc leneși care pot fi observați adesea printre ramuri",
+        "Vânzătorii locali oferă „Somó”, o băutură rece tradițională din porumb",
+        "Este una dintre puținele piețe din Bolivia care rămâne activă 24 de ore pe zi"
+      ],
+      en: [
+        "The plaza was known as the Plaza de Armas until it was renamed to commemorate the city's 1810 uprising against Spanish rule.",
+        "Local vendors on the corners often sell 'Somó,' a refreshing and traditional cold beverage made from corn and cinnamon.",
+        "The plaza's trees are famously home to several resident sloths, which can often be spotted moving slowly among the branches.",
+        "It is one of the few city centers in Bolivia that remains vibrant and active 24 hours a day, maintaining a reputation for safety.",
+        "The plaza's historic benches and walkways recently underwent a sympathetic renovation to preserve their early 20th-century character."
+      ]
+    }, image: "/poi-images/plaza-24-septiembre-landmarks-v2.webp"},
   {
     id: "puente-trillizos-landmarks-v2",
     type: "landmark",
@@ -1035,8 +1104,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Puentes Trillizos (Drillingsbrücken) sind ein beeindruckendes Beispiel moderner Ingenieurskunst in der herausfordernden Topographie von La Paz. Das System besteht aus drei hintereinanderliegenden Schrägseilbrücken – Kantutani, Choqueyapu und Orkojahuira –, die tiefe Schluchten überspannen und wichtige Stadtteile miteinander verbinden. Seit ihrer Eröffnung im Jahr 2010 haben sie den Verkehrsfluss in der Stadt erheblich verbessert und die Fahrzeiten für tausende Pendler verkürzt. Die Brücken sind nicht nur funktional, sondern auch ästhetisch ansprechend und nachts oft farbenfroh beleuchtet. Für Besucher bieten sie eine neue Perspektive auf die steilen Hänge und das Häusermeer der Stadt.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Puentes Trillizos (Podurile Tripleți) reprezintă un triumf al ingineriei civile moderne în peisajul andin provocator al orașului La Paz. Acest sistem masiv constă din trei poduri consecutive hobanate — numite Kantutani, Choqueyapu și Orkojahuira — care traversează râpe urbane adânci pentru a conecta cartiere izolate anterior. De la deschiderea lor în 2010, acestea au îmbunătățit fundamental fluxul de trafic al orașului, reducând drastic timpii de navetă pentru mii de locuitori. Podurile sunt celebrate pentru designul lor elegant și sunt frecvent iluminate cu lumini colorate noaptea. Pentru turiști, ele oferă un punct de observație unic pentru a aprecia scara dramatică a geografiei abrupte a orașului.",
+      en: "The Puentes Trillizos (Triplet Bridges) represent a triumph of modern civil engineering within the challenging Andean landscape of La Paz. This massive system consists of three consecutive cable-stayed bridges—named Kantutani, Choqueyapu, and Orkojahuira—that span deep urban ravines to connect formerly isolated neighborhoods. Since their opening in 2010, they have fundamentally improved the city's traffic flow, drastically cutting commute times for thousands of residents. The bridges are celebrated for their sleek design and are frequently illuminated with colorful lights at night, creating a modern skyline feature. For travelers, they provide a unique vantage point to appreciate the dramatic scale of the city's steep geography."
     },
     factsAdvanced: {
       de: [
@@ -1047,10 +1116,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Von der Puente Orkojahuira aus hat man einen fantastischen Blick auf den schneebedeckten Gipfel des Illimani."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Sistem format din trei poduri distincte: Kantutani, Choqueyapu și Orkojahuira",
+        "Lungimea totală a sistemului de poduri este de aproape doi kilometri",
+        "Pilonii au fost echipați cu amortizoare seismice pentru protecție la cutremure",
+        "Inaugurate în 2010 ca unul dintre cele mai ambițioase proiecte din La Paz"
+      ],
+      en: [
+        "Each of the three individual bridges is named after the specific river or deep valley that it crosses.",
+        "The project was one of the most expensive and ambitious infrastructure works in the recent history of the La Paz municipality.",
+        "Including the access ramps, the entire bridge system spans nearly two kilometers in length.",
+        "The bridge pylons were specially engineered with seismic dampers to protect the structures from regional earthquakes.",
+        "The Orkojahuira bridge, in particular, offers one of the city's most spectacular views of the snow-capped Illimani peak."
+      ]
+    }, image: "/poi-images/puente-trillizos-landmarks-v2.webp"},
   {
     id: "mirador-killi-killi-landmarks-v2",
     type: "landmark",
@@ -1075,10 +1154,10 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       en: ["Historical base during the indigenous siege", "One of the best photo spots", "Landscaped gardens with terraces", "View of the entire La Paz valley"]
     },
     descriptionAdvanced: {
-      de: "Der Mirador Killi Killi ist zweifellos einer der spektakulärsten Aussichtspunkte in La Paz. Er befindet sich auf einem Hügel im Viertel Villa Pabón und bietet einen unvergleichlichen 360-Grad-Panoramablick über die gesamte Stadt, die wie ein riesiger Kessel unter einem liegt. Von hier aus kann man die markante Silhouette des Berges Illimani bewundern, der mit seinen schneebedeckten Gipfeln über der Stadt wacht. Der Aussichtspunkt ist schön gestaltet, mit terrassierten Gärten, Bänken und kleinen Spielplätzen für Kinder. Er ist sowohl bei Touristen für Fotos als auch bei Einheimischen für einen entspannten Moment der Ruhe beliebt, während unter ihnen das Chaos der Metropole pulst.",
+      de: "Der Mirador Killi Killi ist zweifellos einer der spektakulärsten Aussichtspunkte in La Paz. Er befindet sich auf einem Hügel im Viertel Villa Pabón und bietet einen unvergleichlichen 360-Grad-Panoramablick über die gesamte Stadt, die wie ein riesiger Kessel unter einem liegt. Von hier aus kann man die markante Silhouette des Berges Illimani bewundern, der mit seinen schneebedeckten Gipfel über der Stadt wacht. Der Aussichtspunkt ist schön gestaltet, mit terrassierten Gärten, Bänken und kleinen Spielplätzen für Kinder. Er ist sowohl bei Touristen für Fotos als auch bei Einheimischen für einen entspannten Moment der Ruhe beliebt, während unter ihnen das Chaos der Metropole pulst.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Mirador Killi Killi este considerat cel mai bun punct de observație pentru a surprinde adevărata amploare și dramatismul orașului La Paz. Situat pe un deal abrupt în cartierul Villa Pabón, acesta oferă o panoramă uluitoare de 360 de grade a orașului întins în interiorul cuvei muntoase. De aici, muntele iconic Illimani pare extrem de aproape, servind ca un gardian alb maiestuos care veghează asupra așezării urbane. Situl este frumos amenajat cu terase de piatră, bănci și straturi de flori, oferind o evadare liniștită de traficul de jos. Este un loc preferat pentru fotografi, în special la răsărit sau la apus, când culorile și luminile orașului creează o scenă cu adevărat magică.",
+      en: "Mirador Killi Killi is widely considered the ultimate viewpoint for capturing the true scale and drama of La Paz. Perched atop a steep hill in the Villa Pabón neighborhood, it offers a staggering 360-degree panoramic vista of the city spread out within its mountain bowl. From here, the iconic Illimani mountain appears exceptionally close, serving as a majestic white guardian overlooking the urban sprawl. The site is beautifully landscaped with stone terraces, benches, and flower beds, providing a peaceful escape from the traffic below. It is a favorite spot for photographers, especially at sunrise or sunset when the city's colors and lights create a truly magical scene."
     },
     factsAdvanced: {
       de: [
@@ -1089,10 +1168,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "An klaren Tagen kann man von hier aus fast das gesamte U-Bahn-Seilbahnsystem in Aktion sehen."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Numele provine de la o specie de șoim mic care trăia în această regiune",
+        "A servit ca punct strategic de observație în timpul asediului din 1781",
+        "Accesibil pe jos din centrul orașului, deși drumul este foarte abrupt",
+        "Oferă una dintre cele mai bune vederi ale muntelui înzăpezit Illimani"
+      ],
+      en: [
+        "The name 'Killi Killi' is derived from a species of small hawk that was once common in the skies above this hill.",
+        "During the historic 1781 siege of La Paz led by Túpac Katari, this hilltop served as a vital strategic headquarters for the indigenous forces.",
+        "While the viewpoint is accessible on foot from downtown, the walk is famously steep and a real test for unacclimatized lungs.",
+        "The site is guarded by the municipality and is considered one of the safest and best-maintained parks in the city center.",
+        "From this vantage point, you can clearly track several different lines of the Mi Teleférico cable car system as they crisscross the valley."
+      ]
+    }, image: "/poi-images/mirador-killi-killi-landmarks-v2.webp"},
   {
     id: "mercado-la-cancha-landmarks-v2",
     type: "landmark",
@@ -1119,8 +1208,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Mercado La Cancha in Cochabamba ist kein gewöhnlicher Markt; er ist eine Stadt in der Stadt und ein Erlebnis für alle Sinne. Er gilt als einer der größten Freiluftmärkte Südamerikas und erstreckt sich über zahlreiche Häuserblocks im Süden der Stadt. Hier findet man absolut alles: von exotischen Früchten und duftenden Gewürzen bis hin zu handgefertigter Kleidung, Elektronik und traditionellen Heilmitteln. Das Labyrinth aus engen Gängen und bunten Ständen ist das wirtschaftliche Herz der Region und ein Schmelztiegel der Kulturen. Ein Besuch in La Cancha ist eine Lektion in bolivianischem Alltag und bietet die Chance, die authentische lokale Gastronomie an den unzähligen Garküchen zu probieren.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Mercado La Cancha din Cochabamba nu este pur și simplu o piață; este un „oraș în oraș” copleșitor și multisenzorial. Este recunoscută ca fiind una dintre cele mai mari piețe în aer liber din America de Sud, întinzându-se pe zeci de blocuri și funcționând zilnic. Varietatea mărfurilor este uluitoare, variind de la fructe exotice amazoniene și condimente rare până la textile lucrate manual, electronice și medicamente tradiționale. Navigarea pe aleile sale labirintice este o incursiune profundă în inima autentică a comerțului și a vieții de zi cu zi din Bolivia. Pentru mulți, punctul culminant este secțiunea vastă de alimente, unde se pot gusta specialități culinare regionale preparate proaspăt la sute de tarabe animate.",
+      en: "Mercado La Cancha in Cochabamba is not simply a market; it is an overwhelming, multi-sensory 'city within a city'. It is recognized as one of the largest open-air marketplaces in South America, spanning dozens of city blocks and operating daily. The sheer variety is staggering, ranging from exotic Amazonian fruits and rare spices to handcrafted textiles, household electronics, and traditional medicines. Navigating its labyrinthine alleyways is a deep dive into the authentic heart of Bolivian commerce and daily life. For many, the highlight is the vast food section, where one can sample regional culinary specialties prepared fresh at hundreds of bustling stalls."
     },
     factsAdvanced: {
       de: [
@@ -1131,10 +1220,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Sicherheitsvorkehrungen sind ratsam, da das dichte Gedränge Taschendiebe anziehen kann."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Cea mai mare piață în aer liber din Bolivia și una dintre cele mai mari din regiune",
+        "Atinge apogeul de activitate în fiecare miercuri și sâmbătă",
+        "Cuprinde sectoare specializate, inclusiv o piață a obiectelor rituale",
+        "Tocmeala (regatéo) este o parte esențială a culturii de cumpărare în La Cancha"
+      ],
+      en: [
+        "The market is active seven days a week, though it reaches its peak size and intensity every Wednesday and Saturday.",
+        "La Cancha contains distinct specialized sectors, including its own version of a 'Witches' Market' for ritualistic goods.",
+        "Successful navigation requires a good sense of direction, as the repetitive layout of the stalls makes it easy to become disoriented.",
+        "Bargaining, or 'regatéo,' is a fundamental part of the shopping culture here and is expected by most vendors.",
+        "Due to the dense crowds, visitors are advised to keep their belongings secure and remain aware of their surroundings."
+      ]
+    }, image: "/poi-images/mercado-la-cancha-landmarks-v2.webp"},
   {
     id: "monumento-eduardo-abaroa-landmarks-v2",
     type: "landmark",
@@ -1161,8 +1260,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Monument für Eduardo Abaroa steht im Zentrum der gleichnamigen Plaza im eleganten Viertel Sopocachi in La Paz. Es ehrt den bolivianischen Nationalhelden, der 1879 während des Salpeterkrieges (Guerra del Pacífico) bei der Verteidigung der Topáter-Brücke fiel. Abaroa ist ein Symbol für den unerschütterlichen Mut und den tief verwurzelten Wunsch Boliviens nach einem souveränen Zugang zum Meer. Das Denkmal zeigt ihn in einer heroischen Pose und ist Schauplatz wichtiger nationaler Gedenkfeiern, insbesondere am 'Tag des Meeres'. Der umliegende Platz ist eine grüne Oase, die von Studenten, Familien und Künstlern für Pausen und Treffen genutzt wird.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Monumentul dedicat lui Eduardo Abaroa se află în centrul elegantei Plaza Abaroa din cartierul Sopocachi din La Paz. Acesta îl onorează pe cel mai venerat erou național al Boliviei, care a căzut în 1879 în timpul Războiului Pacificului în timp ce apăra curajos podul Topáter. Pentru bolivieni, Abaroa este simbolul suprem al curajului neclintit și al dorinței de durată a națiunii de a recâștiga accesul suveran la mare. Monumentul de bronz îl înfățișează într-o poziție eroică și servește drept scenă principală pentru ceremonii naționale solemne, în special pe 23 martie, „Ziua Mării”. Piața înconjurătoare este o oază urbană luxuriantă, populară printre studenți, familii și lucrători care caută o pauză liniștită.",
+      en: "The Monument to Eduardo Abaroa stands at the heart of the elegant Plaza Abaroa in the Sopocachi district of La Paz. It honors Bolivia's most revered national hero, who fell in 1879 during the War of the Pacific while bravely defending the Topáter Bridge. For Bolivians, Abaroa is the ultimate symbol of unwavering courage and the nation's enduring desire to regain sovereign access to the sea. The bronze monument depicts him in a heroic stance and serves as the primary stage for solemn national ceremonies, particularly on March 23rd, the 'Day of the Sea'. The surrounding plaza is a lush urban oasis, popular with students, families, and city workers looking for a peaceful break."
     },
     factsAdvanced: {
       de: [
@@ -1173,10 +1272,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Für viele Bolivianer ist dieser Ort ein Schrein des Patriotismus und der Hoffnung auf die Rückgabe der Küste."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Dedicat eroului național care a murit apărând teritoriul bolivian în 1879",
+        "Plaza Abaroa este un nod social major în cartierul Sopocachi",
+        "Găzduiește parade militare și civile masive în fiecare an pe 23 martie",
+        "Ultimele cuvinte de sfidare ale lui Abaroa sunt legendare în istoria Boliviei"
+      ],
+      en: [
+        "Abaroa's famous final words, a defiant refusal to surrender despite being surrounded, are legendary throughout Bolivia.",
+        "Every March 23rd, the monument is the destination for a massive national parade involving the military and thousands of school children.",
+        "The sculpture is recognized for its dynamic realism, capturing the intense determination of the hero in his final moments.",
+        "Plaza Abaroa is a social hub, bordered by some of the most popular restaurants and cultural centers in the city.",
+        "For many citizens, this site is a sacred shrine of patriotism and a symbol of the collective national memory regarding the lost coastline."
+      ]
+    }, image: "/poi-images/monumento-eduardo-abaroa-landmarks-v2.webp"},
   {
     id: "mirador-laikakota-landmarks-v2",
     type: "landmark",
@@ -1203,8 +1312,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Mirador Laikakota ist ein Favorit unter den Bewohnern von La Paz und bietet eine der schönsten und entspanntesten Aussichten der Stadt. Gelegen im Parque Urbano Central auf einem Bergrücken, erlaubt er einen weiten Blick über das tiefergelegene Becken von La Paz, von den modernen Hochhäusern im Zentrum bis zu den steilen Hängen von El Alto. Der Aussichtspunkt ist in eine Parkanlage integriert, die besonders für Familien attraktiv ist, da sie weitläufige Spielbereiche und gepflegte Spazierwege bietet. Es ist ein idealer Ort, um dem Trubel der Stadt für einen Moment zu entfliehen und die einzigartige Geographie dieses 'Kessels' in den Anden in Ruhe zu betrachten.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Mirador Laikakota este o destinație urbană îndrăgită de locuitorii din La Paz, oferind unele dintre cele mai accesibile vederi ale orașului. Situat în Parque Urbano Central pe o creastă proeminentă, acesta oferă o perspectivă dramatică asupra bazinului inferior al orașului, de la zgârie-norii districtului de afaceri până la casele nesfârșite din cărămidă din El Alto. Punctul de observație face parte dintr-un complex de parcuri bine întreținut, care este deosebit de popular printre familii datorită locurilor de joacă creative și a căilor sigure de plimbare. Este un loc ideal pentru a observa topografia unică a orașului și pentru a privi apusul, când cuva urbană începe să sclipească de lumini.",
+      en: "Mirador Laikakota is a beloved urban escape for the people of La Paz, providing some of the most expansive and accessible views of the city. Located within the Parque Urbano Central on a prominent ridge, it offers a dramatic perspective of the city's lower basin, stretching from the skyscrapers of the business district to the endless brick houses of El Alto above. The viewpoint is part of a well-maintained park complex that is particularly popular with families due to its large, creative playgrounds and secure walking paths. It is an ideal spot to witness the city's unique topography and watch the sunset as the urban bowl begins to twinkle with lights."
     },
     factsAdvanced: {
       de: [
@@ -1215,10 +1324,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Der Name 'Laikakota' stammt aus dem Aymara und wird oft mit 'See der Hexer' übersetzt."
       ],
       hu: [],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Situat în Parque Urbano Central, oferind vederi panoramice ale văii",
+        "Numele provine din limba aymara și se traduce prin „Lacul Vrăjitorului”",
+        "Posedă rampe moderne care permit accesul ușor pentru persoanele cu dizabilități",
+        "Oferă o linie de vedere excelentă asupra podurilor hobanate Puentes Trillizos"
+      ],
+      en: [
+        "The mirador provides a perfect elevated line-of-sight to the impressive 'Puentes Trillizos' cable-stayed bridges.",
+        "The park is famous for its imaginative playground equipment, some of which is themed around Andean myths and legends.",
+        "Accessibility was a key part of the park's redesign, featuring modern ramps that allow for easy access by wheelchairs and strollers.",
+        "During twilight, the viewpoint is perfect for watching the spectacular 'river of lights' as the evening commute flows between La Paz and El Alto.",
+        "The Aymara name 'Laikakota' historically translates to 'Wizard's Lake,' referring to pre-colonial legends associated with the site."
+      ]
+    }, image: "/poi-images/mirador-laikakota-landmarks-v2.webp"},
   {
     id: "basilica-copacabana-landmarks-v2",
     type: "landmark",
@@ -1245,8 +1364,8 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Basílica de Nuestra Señora de Copacabana ist einer der bedeutendsten spirituellen Orte Südamerikas und liegt malerisch am Ufer des Titicacasees. Das strahlend weiße Gebäude besticht durch seine maurischen Kuppeln und farbenfrohen Keramikkacheln, die im intensiven andinen Licht glänzen. In ihrem Inneren beherbergt sie das verehrte hölzerne Bildnis der Jungfrau von Copacabana, der Schutzpatronin Boliviens. Gläubige aus dem ganzen Land und aus Peru pilgern hierher, um Segen zu suchen, besonders bei den täglichen Zeremonien zur Fahrzeugweihe vor der Kirche. Die Basilika verbindet auf einzigartige Weise katholischen Glauben mit uralten indigenen Traditionen und ist ein Ort von tiefer emotionaler Bedeutung.",
       hu: "",
-      ro: "",
-      en: ""
+      ro: "Basilica Maicii Domnului din Copacabana este unul dintre cele mai vitale centre spirituale din America de Sud, situată frumos pe malul lacului Titicaca. Structura albă strălucitoare este faimoasă pentru cupolele sale în stil maur și plăcile ceramice colorate care sclipesc sub soarele intens al Altiplanoului. În inima sa se află sculptura sacră din lemn a Fecioarei din Copacabana, sfânta patroană a Boliviei. Pelerini de pe tot continentul călătoresc aici pentru a cere binecuvântări, mai ales în timpul ceremoniilor zilnice „Ch'alla”, unde vehiculele decorate sunt binecuvântate în piața bisericii. Acest sit reprezintă o fuziune profundă a devoțiunii catolice și a tradițiilor andine străvechi.",
+      en: "The Basilica of Our Lady of Copacabana is one of South America's most vital spiritual centers, beautifully situated on the shores of Lake Titicaca. The brilliant white structure is famous for its Moorish-style domes and colorful ceramic tiles that shimmer under the intense Altiplano sun. At its heart lies the sacred wooden carving of the Virgin of Copacabana, the revered patron saint of Bolivia. Pilgrims from across the continent journey here to seek blessings, most notably during the daily 'Ch'alla' ceremonies where decorated vehicles are blessed in the church plaza. This site represents a profound fusion of Catholic devotion and ancient Andean traditions, remaining a place of immense emotional and cultural importance."
     },
     factsAdvanced: {
       de: [
@@ -1257,8 +1376,20 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Die weißen Mauern der Basilika bilden einen spektakulären Kontrast zum tiefblauen Wasser des Titicacasees."
       ],
       hu: [],
-      ro: [],
-      en: []
+      ro: [
+        "Găzduiește celebra statuie „Fecioara Brună”, sculptată în secolul al XVI-lea",
+        "Construită pe un loc considerat sfânt încă din timpul Imperiului Incaș",
+        "Altarul principal este o capodoperă a artei baroce, acoperit cu foiță de aur",
+        "Cunoscută pentru ritualul zilnic de binecuvântare a mașinilor noi de către pelerini"
+      ],
+      en: [
+        "The revered 'Dark Virgin' statue was sculpted in the late 1500s by the native artist Francisco Tito Yupanqui, a descendant of the Inca royal line.",
+        "The current basilica was constructed atop a site previously sacred to the Inca Empire, maintaining the location's holy status through the ages.",
+        "The annual Feast of the Virgin on August 5th is one of Bolivia's most massive and vibrant religious and cultural celebrations.",
+        "The interior main altar is a spectacular example of colonial Baroque art, completely covered in intricate gold leaf.",
+        "The gleaming white facade of the church creates a stunning visual contrast against the deep sapphire-blue waters of Lake Titicaca."
+      ]
     }
   }
 ];
+

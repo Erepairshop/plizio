@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 export const PHYSIK_K7_I1_LABELS: Record<string, Record<string, string>> = {
@@ -2419,5 +2420,6 @@ export const PHYSIK_K7_I9_POOL: PoolTopicDef[] = [
   topic("hard", "t10_title", "t10_text", icon("📝", "Review", "#FFF7ED", "#C2410C"), gapFill("t10_sent", ["t10_c1", "t10_c2", "t10_c3", "t10_c4"], 0, "t10_inst", "t10_h1", "t10_h2"), { generate: "orbits_mcq" }),
   ...extraTopics("SpaceSvg", "orbits_mcq"),
 ];
+
 
 

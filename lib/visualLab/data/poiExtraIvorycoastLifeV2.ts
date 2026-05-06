@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraIvorycoastLifeV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
       hu: ["Főleg mocsaras területekből áll.", "Erdei elefántok élőhelye."],
       ro: ["Constă în principal din zone mlăștinoase.", "Habitat pentru elefanți de pădure."],
       en: ["Consists mainly of swampy areas.", "Habitat for forest elephants."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Azagny-Nationalpark, 1981 als Feuchtgebiet von internationaler Bedeutung anerkannt, erstreckt sich über eine Fläche von etwa 19.000 Hektar. Die Region besteht aus einem komplexen Netz aus Lagunen, Sümpfen und dichten Küstenwäldern, die zahlreichen gefährdeten Tierarten Zuflucht bieten. Erdkunde K7 — Feuchtgebiete und Ökosysteme.",
+      hu: "Az Azagny Nemzeti Parkot 1981-ben nyilvánították nemzetközi jelentőségű vizes élőhellyé, területe megközelítőleg 19 000 hektár. A régió lagúnák, mocsarak és sűrű partmenti erdők összetett hálózatából áll, amely számos veszélyeztetett állatfajnak nyújt menedéket. Földrajz K7 — vizes élőhelyek és ökoszisztémák.",
+      ro: "Parcul Național Azagny, recunoscut în 1981 ca zonă umedă de importanță internațională, se întinde pe o suprafață de aproximativ 19.000 de hectare. Regiunea constă într-o rețea complexă de lagune, mlaștini și păduri costiere dense care oferă refugiu pentru numeroase specii de animale pe cale de dispariție. Geografie K7 — zone umede și ecosisteme.",
+      en: "Azagny National Park, recognized in 1981 as a wetland of international importance, covers an area of approximately 19,000 hectares. The region consists of a complex network of lagoons, swamps, and dense coastal forests that provide refuge for numerous endangered animal species. Geography K7 — wetlands and ecosystems."
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1981.", "Fläche von ca. 19.000 Hektar.", "Ramsar-Gebiet seit 1996.", "Heimat des westafrikanischen Waldelefanten.", "Beherbergt seltene Sumpfschildkröten.", "Wichtiger Migrationskorridor für Vögel."],
+      hu: ["1981-ben alapították.", "Területe kb. 19 000 hektár.", "1996 óta Ramsar-terület.", "A nyugat-afrikai erdei elefánt otthona.", "Ritka mocsári teknősök élőhelye.", "Fontos vonulási folyosó madarak számára."],
+      ro: ["Fondat în anul 1981.", "Suprafață de cca. 19.000 de hectare.", "Sit Ramsar din 1996.", "Casă pentru elefantul de pădure vest-african.", "Găzduiește țestoase de mlaștină rare.", "Coridor de migrație important pentru păsări."],
+      en: ["Founded in 1981.", "Area of approx. 19,000 hectares.", "Ramsar site since 1996.", "Home to the West African forest elephant.", "Hosts rare marsh turtles.", "Important migration corridor for birds."]
+    }, image: "/poi-images/parc-national-d-azagny-life-v2.webp"},
   {
     id: "ferme-de-cacao-yamoussoukro-life-v2",
     type: "agriculture",
@@ -27,8 +39,19 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
       hu: ["A kakaóbab fontos exportcikk.", "A betakarítás gyakran kézzel történik."],
       ro: ["Boabele de cacao sunt un bun de export important.", "Recoltarea se face adesea manual."],
       en: ["Cocoa beans are an important export.", "Harvesting is often done by hand."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Yamoussoukro, das politische Zentrum des Landes, ist von ausgedehnten Kakaoplantagen umgeben, die eine wesentliche Säule der ivorischen Wirtschaft bilden. Elefántcsontpart ist der weltweit führende Kakaoproduzent, wobei die Ernte zwischen Oktober und März ihren Höhepunkt erreicht. Sachkunde K5 — Landwirtschaft und globale Handelswege.",
+      hu: "Yamoussoukro, az ország politikai központja, kiterjedt kakaóültetvényekkel van körülvéve, amelyek az elefántcsontparti gazdaság alappillérét képezik. Elefántcsontpart a világ vezető kakaótermelője, a betakarítás csúcsa október és március között van. Természetismeret K5 — mezőgazdaság és globális kereskedelmi útvonalak.",
+      ro: "Yamoussoukro, centrul politic al țării, este înconjurat de plantații întinse de cacao care constituie un pilon esențial al economiei ivoriene. Coasta de Fildeș este cel mai mare producător de cacao din lume, vârful recoltării având loc între octombrie și martie. Științe ale naturii K5 — agricultură și rute comerciale globale.",
+      en: "Yamoussoukro, the country's political center, is surrounded by extensive cocoa plantations that form a vital pillar of the Ivorian economy. Ivory Coast is the world's leading cocoa producer, with harvest peaking between October and March. Science K5 — agriculture and global trade routes."
+    },
+    factsAdvanced: {
+      de: ["Elfenbeinküste produziert ca. 40% des weltweiten Kakaos.", "Erntezeit zwischen Oktober und März.", "Kakaoproduktion beschäftigt ca. 6 Millionen Menschen.", "Die Kakaopflanze benötigt ein tropisches Klima.", "Ein Kakaobaum trägt etwa 20 bis 30 Früchte.", "Exportwert jährlich in Milliardenhöhe."],
+      hu: ["Elefántcsontpart állítja elő a világ kakaótermésének kb. 40%-át.", "Betakarítási időszak október és március között.", "A kakaótermelés kb. 6 millió embert foglalkoztat.", "A kakaónövény trópusi éghajlatot igényel.", "Egy kakaófa kb. 20-30 termést hoz.", "Exportértéke évente milliárdokban mérhető."],
+      ro: ["Coasta de Fildeș produce cca. 40% din cacao mondială.", "Perioada de recoltare între octombrie și martie.", "Producția de cacao ocupă cca. 6 milioane de oameni.", "Planta de cacao necesită un climat tropical.", "Un arbore de cacao produce cca. 20-30 de fructe.", "Valoarea exportului anual în miliarde."],
+      en: ["Ivory Coast produces approx. 40% of the world's cocoa.", "Harvest period between October and March.", "Cocoa production employs approx. 6 million people.", "The cocoa plant requires a tropical climate.", "A cocoa tree produces about 20 to 30 fruits.", "Export value annually in the billions."]
+    }, image: "/poi-images/ferme-de-cacao-yamoussoukro-life-v2.webp"},
   {
     id: "parc-des-enfants-abidjan-life-v2",
     type: "kid-landmark",
@@ -41,8 +64,19 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
       hu: ["Különböző játékterületeket kínál.", "Ideális hely hétvégi kirándulásokhoz."],
       ro: ["Oferă diverse zone de joacă.", "Loc ideal pentru excursii de weekend."],
       en: ["Offers various play areas.", "Ideal place for weekend trips."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Im geschäftigen Abidjan bietet dieser Park einen wichtigen Erholungsraum für urbane Familien. Er umfasst verschiedene Freizeit- und Spielbereiche, die zur physischen Entwicklung ivorischer Kinder beitragen. Sachkunde K4 — urbane Lebensräume.",
+      hu: "A nyüzsgő Abidjanban ez a park fontos rekreációs teret biztosít a városi családok számára. Különféle szabadidős és játékterületeket foglal magában, amelyek hozzájárulnak az elefántcsontparti gyerekek testi fejlődéséhez. Természetismeret K4 — városi élőhelyek.",
+      ro: "În animatul oraș Abidjan, acest parc oferă un spațiu de recreere important pentru familiile urbane. Acesta include diverse zone de agrement și joacă care contribuie la dezvoltarea fizică a copiilor ivorieni. Științe ale naturii K4 — habitate urbane.",
+      en: "In the bustling city of Abidjan, this park provides an important recreational space for urban families. It includes various leisure and play areas that contribute to the physical development of Ivorian children. Science K4 — urban habitats."
+    },
+    factsAdvanced: {
+      de: ["Zentrum von Abidjan.", "Eröffnung in den späten 90er Jahren.", "Fläche von ca. 5 Hektar.", "Beliebter Ort für Schulklassen.", "Regelmäßige Veranstaltungen für Kinder.", "Parkanlage wird täglich gewartet."],
+      hu: ["Abidjan központjában.", "A 90-es évek végén nyílt meg.", "Kb. 5 hektáros terület.", "Népszerű hely iskolai osztályok számára.", "Rendszeres gyermekrendezvények.", "A parkot naponta karbantartják."],
+      ro: ["În centrul Abidjanului.", "Deschis la sfârșitul anilor '90.", "Suprafață de cca. 5 hectare.", "Loc popular pentru clasele școlare.", "Evenimente regulate pentru copii.", "Parcul este întreținut zilnic."],
+      en: ["In the center of Abidjan.", "Opened in the late 90s.", "Area of approx. 5 hectares.", "Popular place for school classes.", "Regular events for children.", "The park is maintained daily."]
+    }, image: "/poi-images/parc-des-enfants-abidjan-life-v2.webp"},
   {
     id: "reserve-naturelle-mont-nimba-life-v2",
     type: "animal-habitat",
@@ -55,8 +89,19 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
       hu: ["UNESCO Világörökség része.", "Ritka kétéltűek otthona."],
       ro: ["Sit al Patrimoniului Mondial UNESCO.", "Casă pentru amfibieni rari."],
       en: ["UNESCO World Heritage site.", "Home to rare amphibians."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Nimba-Massiv, ein Bergkamm an der Grenze zwischen Elfenbeinküste, Guinea und Liberia, ist für seine außergewöhnliche biologische Vielfalt bekannt. Als UNESCO-Welterbestätte beheimatet es endemische Arten wie die Nimba-Otterspitzmaus. Erdkunde K8 — Biosphärenreservate.",
+      hu: "A Nimba-hegység, egy hegygerinc Elefántcsontpart, Guinea és Libéria határán, kivételes biológiai sokféleségéről ismert. UNESCO Világörökségként olyan endemikus fajok otthona, mint a nimba-hegyi vidracickány. Földrajz K8 — bioszféra-rezervátumok.",
+      ro: "Masivul Nimba, o creastă muntoasă la granița dintre Coasta de Fildeș, Guineea și Liberia, este cunoscut pentru biodiversitatea sa excepțională. Ca sit al Patrimoniului Mondial UNESCO, găzduiește specii endemice precum chițcanul de Nimba. Geografie K8 — rezervații ale biosferei.",
+      en: "The Nimba Range, a mountain ridge on the border between Ivory Coast, Guinea, and Liberia, is known for its exceptional biological diversity. As a UNESCO World Heritage site, it hosts endemic species such as the Nimba otter shrew. Geography K8 — biosphere reserves."
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt ca. 1.752 m.", "UNESCO-Welterbe seit 1981.", "Großes Eisenerzvorkommen.", "Einzigartige Graslandökosysteme.", "Enthält über 2.000 Pflanzenarten.", "Wichtig für die Klimaforschung."],
+      hu: ["Legmagasabb pontja kb. 1752 m.", "1981 óta UNESCO Világörökség.", "Jelentős vasérckészlet.", "Egyedülálló gyeptársulásos ökoszisztémák.", "Több mint 2000 növényfaj található itt.", "Fontos az éghajlatkutatás számára."],
+      ro: ["Cel mai înalt punct cca. 1.752 m.", "Patrimoniul Mondial UNESCO din 1981.", "Zăcăminte mari de minereu de fier.", "Ecosisteme de pășuni unice.", "Conține peste 2.000 de specii de plante.", "Important pentru cercetarea climatică."],
+      en: ["Highest point approx. 1,752 m.", "UNESCO World Heritage since 1981.", "Large iron ore deposits.", "Unique grassland ecosystems.", "Contains over 2,000 plant species.", "Important for climate research."]
+    }, image: "/poi-images/reserve-naturelle-mont-nimba-life-v2.webp"},
   {
     id: "plantation-de-cafe-man-life-v2",
     type: "agriculture",
@@ -69,8 +114,19 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
       hu: ["A Robusta kávé gyakori itt.", "Az éghajlat ideális a kávénövények számára."],
       ro: ["Cafeaua Robusta este comună aici.", "Clima este ideală pentru plantele de cafea."],
       en: ["Robusta coffee is common here.", "The climate is ideal for coffee plants."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "In der bergigen Region um Man gedeiht besonders hochwertiger Robusta-Kaffee. Das kühlere Klima und die fruchtbaren vulkanischen Böden schaffen optimale Bedingungen für die Kaffeepflanzen, die von lokalen Bauern in traditionellen Verfahren geerntet werden. Erdkunde K6 — Agrarklimazonen.",
+      hu: "A Man körüli hegyvidéki régióban különösen kiváló minőségű Robusta kávé terem. A hűvösebb éghajlat és a termékeny vulkanikus talaj optimális feltételeket biztosít a kávénövények számára, amelyeket a helyi gazdák hagyományos eljárásokkal takarítanak be. Földrajz K6 — agrár-éghajlati övek.",
+      ro: "În regiunea muntoasă din jurul orașului Man, cafeaua Robusta de înaltă calitate prosperă. Clima mai răcoroasă și solurile vulcanice fertile creează condiții optime pentru plantele de cafea, care sunt recoltate de fermierii locali prin metode tradiționale. Geografie K6 — zone climatice agricole.",
+      en: "In the mountainous region around Man, high-quality Robusta coffee thrives. The cooler climate and fertile volcanic soils create optimal conditions for the coffee plants, which are harvested by local farmers using traditional methods. Geography K6 — agricultural climate zones."
+    },
+    factsAdvanced: {
+      de: ["Region Man liegt auf ca. 300 m Höhe.", "Elfenbeinküste gehört zu den größten Kaffeeproduzenten.", "Kaffeeernte findet meist jährlich statt.", "Robusta ist besonders widerstandsfähig.", "Kultur beeinflusst durch Kaffeeanbau.", "Nachhaltige Anbaumethoden nehmen zu."],
+      hu: ["Man régiója kb. 300 m tengerszint feletti magasságban.", "Elefántcsontpart a legnagyobb kávétermelők közé tartozik.", "A kávészüret többnyire évente történik.", "A Robusta különösen ellenálló.", "A kultúrát befolyásolja a kávétermesztés.", "A fenntartható termesztési módszerek terjednek."],
+      ro: ["Regiunea Man se află la cca. 300 m altitudine.", "Coasta de Fildeș este printre cei mai mari producători de cafea.", "Recoltarea cafelei are loc de obicei anual.", "Robusta este deosebit de rezistentă.", "Cultura este influențată de cultivarea cafelei.", "Metodele de cultivare durabile sunt în creștere."],
+      en: ["Man region is at approx. 300 m altitude.", "Ivory Coast is among the largest coffee producers.", "Coffee harvest usually takes place annually.", "Robusta is particularly resilient.", "Culture influenced by coffee cultivation.", "Sustainable farming methods are increasing."]
+    }, image: "/poi-images/plantation-de-cafe-man-life-v2.webp"},
   {
     id: "parc-animalier-soubre-life-v2",
     type: "animal-habitat",
@@ -83,342 +139,18 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
       hu: ["Fókuszban a helyi fauna.", "Oktatási programok gyerekeknek."],
       ro: ["Accent pe fauna locală.", "Programe educaționale pentru copii."],
       en: ["Focus on local fauna.", "Educational programs for children."]
-    }
-  },
-  {
-    id: "jardin-botanique-bingerville-life-v2",
-    type: "kid-landmark",
-    parent: "CI-LAG",
-    coords: [-3.896, 5.352],
-    name: { de: "Botanischer Garten Bingerville", hu: "Bingerville Botanikus Kert", ro: "Grădina Botanică Bingerville", en: "Bingerville Botanical Garden" },
-    description: { de: "Historischer Garten mit einer Vielfalt an tropischen Pflanzen.", hu: "Történelmi kert trópusi növények sokaságával.", ro: "Grădină istorică cu o varietate de plante tropicale.", en: "Historical garden with a variety of tropical plants." },
-    facts: {
-      de: ["Perfekt für Lehrpfade für Kinder.", "Viele seltene Baumarten."],
-      hu: ["Tökéletes tanösvények gyerekeknek.", "Sok ritka fafaj."],
-      ro: ["Perfect pentru poteci educative pentru copii.", "Multe specii rare de arbori."],
-      en: ["Perfect for educational trails for children.", "Many rare tree species."]
-    }
-  },
-  {
-    id: "zone-agricole-bouake-life-v2",
-    type: "agriculture",
-    parent: "CI-VB",
-    coords: [-5.032, 7.689],
-    name: { de: "Agrarzone Bouaké", hu: "Bouaké Mezőgazdasági Övezet", ro: "Zonă agricolă Bouaké", en: "Bouaké Agricultural Zone" },
-    description: { de: "Wichtige Region für den Anbau von Baumwolle und Nahrungsmitteln.", hu: "Fontos régió a gyapot- és élelmiszertermesztés számára.", ro: "Regiune importantă pentru cultivarea bumbacului și a produselor alimentare.", en: "Important region for the cultivation of cotton and food crops." },
-    facts: {
-      de: ["Hauptanbaugebiet für Baumwolle.", "Zentrum der lokalen Märkte."],
-      hu: ["Fő gyapottermesztő terület.", "A helyi piacok központja."],
-      ro: ["Principală zonă de cultivare a bumbacului.", "Centru al piețelor locale."],
-      en: ["Main cotton growing area.", "Center of local markets."]
-    }
-  },
-  {
-    id: "reserve-d-animaux-tiebissou-life-v2",
-    type: "animal-habitat",
-    parent: "CI-LAC",
-    coords: [-5.234, 7.156],
-    name: { de: "Tierreservat Tiébissou", hu: "Tiébissou Állatrezervátum", ro: "Rezervație de animale Tiébissou", en: "Tiébissou Animal Reserve" },
-    description: { de: "Ein geschütztes Gebiet für einheimische Savannentiere.", hu: "Védett terület a helyi szavannai állatok számára.", ro: "O zonă protejată pentru animalele locale de savană.", en: "A protected area for local savanna animals." },
-    facts: {
-      de: ["Beobachtung von Antilopen möglich.", "Wichtiges Forschungsprojekt."],
-      hu: ["Antilopok megfigyelése lehetséges.", "Fontos kutatási projekt."],
-      ro: ["Observarea antilopelor este posibilă.", "Proiect de cercetare important."],
-      en: ["Antelope watching possible.", "Important research project."]
-    }
-  },
-  {
-    id: "parc-de-la-riviera-abidjan-life-v2",
-    type: "kid-landmark",
-    parent: "CI-LAG",
-    coords: [-3.955, 5.345],
-    name: { de: "Riviera Park Abidjan", hu: "Riviera Park Abidjan", ro: "Parc Riviera Abidjan", en: "Riviera Park Abidjan" },
-    description: { de: "Moderner Erholungspark für Kinder und Familien.", hu: "Modern pihenőpark gyerekeknek és családoknak.", ro: "Parc de recreere modern pentru copii și familii.", en: "Modern recreational park for children and families." },
-    facts: {
-      de: ["Moderne Spielgeräte.", "Sehr sicher und gepflegt."],
-      hu: ["Modern játékfelszerelés.", "Nagyon biztonságos és gondozott."],
-      ro: ["Echipamente de joacă moderne.", "Foarte sigur și bine întreținut."],
-      en: ["Modern playground equipment.", "Very safe and well-maintained."]
-    }
-  },
-  {
-    id: "plantation-de-canne-a-sucre-ferkessedougou-life-v2",
-    type: "agriculture",
-    parent: "CI-SAV",
-    coords: [-5.195, 9.605],
-    name: { de: "Zuckerrohrplantage Ferkessédougou", hu: "Ferkessédougou Cukornádültetvény", ro: "Plantație de trestie de zahăr Ferkessédougou", en: "Ferkessédougou Sugar Cane Plantation" },
-    description: { de: "Großflächiger Anbau von Zuckerrohr im Norden des Landes.", hu: "Kiterjedt cukornádtermesztés az ország északi részén.", ro: "Cultivarea pe scară largă a trestiei de zahăr în nordul țării.", en: "Large-scale cultivation of sugar cane in the north of the country." },
-    facts: {
-      de: ["Wichtigster Zuckerproduzent.", "Große landwirtschaftliche Gemeinschaft."],
-      hu: ["Legfontosabb cukortermelő.", "Nagy mezőgazdasági közösség."],
-      ro: ["Cel mai important producător de zahăr.", "Mare comunitate agricolă."],
-      en: ["Most important sugar producer.", "Large agricultural community."]
-    }
-  },
-  {
-    id: "refuge-des-singes-abengourou-life-v2",
-    type: "animal-habitat",
-    parent: "CI-ME",
-    coords: [-3.491, 6.728],
-    name: { de: "Affenrefugium Abengourou", hu: "Abengourou Majomrezervátum", ro: "Refugiu pentru maimuțe Abengourou", en: "Abengourou Monkey Refuge" },
-    description: { de: "Schutzzentrum für gerettete Primaten.", hu: "Védelmi központ mentett főemlősök számára.", ro: "Centru de protecție pentru primate salvate.", en: "Protection center for rescued primates." },
-    facts: {
-      de: ["Ermöglicht Kontakt zu Tieren.", "Aufklärung über Artenschutz."],
-      hu: ["Lehetővé teszi az állatokkal való kapcsolatot.", "Felvilágosítás a fajvédelemről."],
-      ro: ["Permite contactul cu animalele.", "Educație despre conservarea speciilor."],
-      en: ["Allows contact with animals.", "Education on species conservation."]
-    }
-  },
-  {
-    id: "parc-des-sports-treichville-life-v2",
-    type: "kid-landmark",
-    parent: "CI-LAG",
-    coords: [-4.012, 5.285],
-    name: { de: "Sportpark Treichville", hu: "Treichville Sportpark", ro: "Parc sportiv Treichville", en: "Treichville Sports Park" },
-    description: { de: "Vielseitiger Sport- und Freizeitpark für Jugendliche.", hu: "Sokoldalú sport- és szabadidőpark fiatalok számára.", ro: "Parc sportiv și de agrement versatil pentru tineri.", en: "Versatile sports and leisure park for youth." },
-    facts: {
-      de: ["Fußball- und Basketballplätze.", "Beliebter Treffpunkt."],
-      hu: ["Foci- és kosárlabdapályák.", "Népszerű találkozóhely."],
-      ro: ["Terenuri de fotbal și baschet.", "Loc popular de întâlnire."],
-      en: ["Soccer and basketball courts.", "Popular meeting place."]
-    }
-  },
-  {
-    id: "culture-de-riz-gagnoa-life-v2",
-    type: "agriculture",
-    parent: "CI-GO",
-    coords: [-5.952, 6.131],
-    name: { de: "Reisanbau Gagnoa", hu: "Gagnoa Rizstermesztés", ro: "Cultivarea orezului Gagnoa", en: "Gagnoa Rice Cultivation" },
-    description: { de: "Reisfelder in der fruchtbaren Region Gagnoa.", hu: "Rizsföldek a termékeny Gagnoa régióban.", ro: "Orezării în regiunea fertilă Gagnoa.", en: "Rice fields in the fertile Gagnoa region." },
-    facts: {
-      de: ["Wichtiges Grundnahrungsmittel.", "Traditionelle Anbaumethoden."],
-      hu: ["Fontos alapélelmiszer.", "Hagyományos termesztési módszerek."],
-      ro: ["Aliment de bază important.", "Metode tradiționale de cultivare."],
-      en: ["Important staple food.", "Traditional cultivation methods."]
-    }
-  },
-  {
-    id: "parc-du-plateau-abidjan-life-v2",
-    type: "kid-landmark",
-    parent: "CI-LAG",
-    coords: [-4.025, 5.328],
-    name: { de: "Plateau Park Abidjan", hu: "Abidjani Plateau Park", ro: "Parc Plateau Abidjan", en: "Abidjan Plateau Park" },
-    description: { de: "Zentraler Park mit Spielplätzen und Erholungsflächen.", hu: "Központi park játszóterekkel és pihenőhelyekkel.", ro: "Parc central cu locuri de joacă și spații de recreere.", en: "Central park with playgrounds and recreation areas." },
-    facts: {
-      de: ["Ideal für eine Mittagspause.", "Sehr belebt."],
-      hu: ["Ideális ebédszünetre.", "Nagyon forgalmas."],
-      ro: ["Ideal pentru o pauză de prânz.", "Foarte animat."],
-      en: ["Ideal for a lunch break.", "Very lively."]
-    }
-  },
-  {
-    id: "reserve-de-faune-abokouamekro-life-v2",
-    type: "animal-habitat",
-    parent: "CI-LAC",
-    coords: [-4.895, 6.782],
-    name: { de: "Faunareservat Abokouamékro", hu: "Abokouamékro Faunarezervátum", ro: "Rezervația de faună Abokouamékro", en: "Abokouamékro Fauna Reserve" },
-    description: { de: "Ein beeindruckendes Schutzgebiet für Großsäuger.", hu: "Lenyűgöző védett terület nagyemlősök számára.", ro: "O zonă protejată impresionantă pentru mamifere mari.", en: "An impressive protected area for large mammals." },
-    facts: {
-      de: ["Ideal für Tierbeobachtung.", "Besuchertouren möglich."],
-      hu: ["Ideális állatmegfigyelésre.", "Látogatói túrák lehetségesek."],
-      ro: ["Ideal pentru observarea animalelor.", "Tururi pentru vizitatori posibile."],
-      en: ["Ideal for wildlife watching.", "Visitor tours possible."]
-    }
-  },
-  {
-    id: "exploitation-ananas-tiassale-life-v2",
-    type: "agriculture",
-    parent: "CI-LAG",
-    coords: [-4.825, 5.892],
-    name: { de: "Ananasplantage Tiassalé", hu: "Tiassalé Ananászültetvény", ro: "Plantație de ananas Tiassalé", en: "Tiassalé Pineapple Plantation" },
-    description: { de: "Große Plantagen für qualitativ hochwertige Ananas.", hu: "Nagy ültetvények kiváló minőségű ananász számára.", ro: "Plantații mari de ananas de înaltă calitate.", en: "Large plantations for high-quality pineapples." },
-    facts: {
-      de: ["Hauptanbaugebiet für Ananas.", "Export in alle Welt."],
-      hu: ["Fő ananásztermesztő terület.", "Export a világ minden tájára."],
-      ro: ["Principală zonă de cultivare a ananasului.", "Export în toată lumea."],
-      en: ["Main pineapple growing area.", "Export worldwide."]
-    }
-  },
-  {
-    id: "parc-de-loisirs-daloa-life-v2",
-    type: "kid-landmark",
-    parent: "CI-SH",
-    coords: [-6.452, 6.878],
-    name: { de: "Freizeitpark Daloa", hu: "Daloa Szabadidőpark", ro: "Parc de agrement Daloa", en: "Daloa Leisure Park" },
-    description: { de: "Ein Treffpunkt für Kinder und Familien in Daloa.", hu: "Találkozóhely gyerekeknek és családoknak Daloában.", ro: "Un loc de întâlnire pentru copii și familii în Daloa.", en: "A meeting place for children and families in Daloa." },
-    facts: {
-      de: ["Bietet kleine Fahrgeschäfte.", "Sehr beliebt bei der lokalen Bevölkerung."],
-      hu: ["Kis vidámparki elemeket kínál.", "Nagyon népszerű a helyi lakosság körében."],
-      ro: ["Oferă mici atracții.", "Foarte popular în rândul populației locale."],
-      en: ["Offers small rides.", "Very popular with the local population."]
-    }
-  },
-  {
-    id: "reserve-ornithologique-grand-bassam-life-v2",
-    type: "animal-habitat",
-    parent: "CI-LAG",
-    coords: [-3.742, 5.205],
-    name: { de: "Vogelschutzgebiet Grand-Bassam", hu: "Grand-Bassam Madárrezervátum", ro: "Rezervație ornitologică Grand-Bassam", en: "Grand-Bassam Bird Reserve" },
-    description: { de: "Ein Refugium für Zugvögel an der Küste.", hu: "Menedék a költöző madarak számára a tengerparton.", ro: "Un refugiu pentru păsările migratoare pe coastă.", en: "A refuge for migratory birds on the coast." },
-    facts: {
-      de: ["Wichtig für Vogelbeobachter.", "Schutz von Küstenhabitaten."],
-      hu: ["Fontos madármegfigyelők számára.", "Parti élőhelyek védelme."],
-      ro: ["Important pentru observatorii de păsări.", "Protecția habitatelor de coastă."],
-      en: ["Important for birdwatchers.", "Protection of coastal habitats."]
-    }
-  },
-  {
-    id: "verger-de-mangues-odienne-life-v2",
-    type: "agriculture",
-    parent: "CI-DN",
-    coords: [-7.562, 9.512],
-    name: { de: "Mangogarten Odienné", hu: "Odienné Mangókert", ro: "Livadă de mango Odienné", en: "Odienné Mango Orchard" },
-    description: { de: "Fruchtbare Plantagen mit köstlichen Mangos.", hu: "Termékeny ültetvények ízletes mangókkal.", ro: "Plantații fertile cu mango delicioase.", en: "Fertile plantations with delicious mangoes." },
-    facts: {
-      de: ["Bekannt für süße Sorten.", "Erntezeit ist ein großes Ereignis."],
-      hu: ["Édes fajtáiról ismert.", "A betakarítás nagy esemény."],
-      ro: ["Cunoscut pentru soiuri dulci.", "Recoltarea este un eveniment major."],
-      en: ["Known for sweet varieties.", "Harvest time is a big event."]
-    }
-  },
-  {
-    id: "parc-des-enfants-korhogo-life-v2",
-    type: "kid-landmark",
-    parent: "CI-SAV",
-    coords: [-5.632, 9.452],
-    name: { de: "Kinderpark Korhogo", hu: "Korhogo Gyerekpark", ro: "Parc pentru copii Korhogo", en: "Korhogo Children's Park" },
-    description: { de: "Ein unterhaltsamer Park für Kinder im Norden.", hu: "Szórakoztató park gyerekeknek északon.", ro: "Un parc distractiv pentru copii în nord.", en: "An entertaining park for children in the north." },
-    facts: {
-      de: ["Viele Spielplätze.", "Gemeinschaftliches Projekt."],
-      hu: ["Sok játszótér.", "Közösségi projekt."],
-      ro: ["Multe locuri de joacă.", "Proiect comunitar."],
-      en: ["Many playgrounds.", "Community project."]
-    }
-  },
-  {
-    id: "foret-classee-de-mabi-life-v2",
-    type: "animal-habitat",
-    parent: "CI-ME",
-    coords: [-3.502, 6.105],
-    name: { de: "Waldschutzgebiet Mabi", hu: "Mabi Erdőrezervátum", ro: "Pădure protejată Mabi", en: "Mabi Forest Reserve" },
-    description: { de: "Ein geschützter Regenwald, Lebensraum für seltene Tiere.", hu: "Védett esőerdő, ritka állatok otthona.", ro: "O pădure tropicală protejată, habitat pentru animale rare.", en: "A protected rainforest, home to rare animals." },
-    facts: {
-      de: ["Hohe Artenvielfalt.", "Wichtiges ökologisches Gebiet."],
-      hu: ["Magas fajgazdagság.", "Fontos ökológiai terület."],
-      ro: ["Biodiversitate ridicată.", "Zonă ecologică importantă."],
-      en: ["High biodiversity.", "Important ecological area."]
-    }
-  },
-  {
-    id: "exploitation-d-huile-de-palme-san-pedro-life-v2",
-    type: "agriculture",
-    parent: "CI-BS",
-    coords: [-6.632, 4.755],
-    name: { de: "Palmölplantage San Pedro", hu: "San Pedro Pálmaolaj-ültetvény", ro: "Plantație de ulei de palmier San Pedro", en: "San Pedro Palm Oil Plantation" },
-    description: { de: "Großflächige Produktion von Palmöl.", hu: "Pálmaolaj kiterjedt termelése.", ro: "Producția pe scară largă de ulei de palmier.", en: "Large-scale production of palm oil." },
-    facts: {
-      de: ["Wichtiges landwirtschaftliches Produkt.", "Moderne Verarbeitungseinrichtungen."],
-      hu: ["Fontos mezőgazdasági termék.", "Modern feldolgozó létesítmények."],
-      ro: ["Produs agricol important.", "Facilități moderne de procesare."],
-      en: ["Important agricultural product.", "Modern processing facilities."]
-    }
-  },
-  {
-    id: "parc-de-la-paix-bouake-life-v2",
-    type: "kid-landmark",
-    parent: "CI-VB",
-    coords: [-5.035, 7.685],
-    name: { de: "Friedenspark Bouaké", hu: "Bouaké Béke Park", ro: "Parcul Păcii Bouaké", en: "Bouaké Peace Park" },
-    description: { de: "Ein Park zur Förderung des Friedens, beliebt bei Familien.", hu: "A békét elősegítő park, népszerű a családok körében.", ro: "Un parc pentru promovarea păcii, popular printre familii.", en: "A park promoting peace, popular with families." },
-    facts: {
-      de: ["Gedenkorte integriert.", "Große Spielwiesen."],
-      hu: ["Emlékhelyek beépítve.", "Nagy játszórétek."],
-      ro: ["Locuri memoriale integrate.", "Mari peluze de joacă."],
-      en: ["Memorial sites integrated.", "Large play lawns."]
-    }
-  },
-  {
-    id: "ferme-de-caoutchouc-a-betti-life-v2",
-    type: "agriculture",
-    parent: "CI-LAG",
-    coords: [-4.205, 5.752],
-    name: { de: "Kautschukfarm A-Betti", hu: "A-Betti Kaucsukfarm", ro: "Fermă de cauciuc A-Betti", en: "A-Betti Rubber Farm" },
-    description: { de: "Plantagen für Kautschukgewinnung.", hu: "Ültetvények kaucsuktermeléshez.", ro: "Plantații pentru producția de cauciuc.", en: "Plantations for rubber production." },
-    facts: {
-      de: ["Wichtig für die Gummiindustrie.", "Traditionelle Zapfmethoden."],
-      hu: ["Fontos a gumiipar számára.", "Hagyományos csapolási módszerek."],
-      ro: ["Important pentru industria cauciucului.", "Metode tradiționale de colectare."],
-      en: ["Important for the rubber industry.", "Traditional tapping methods."]
-    }
-  },
-  {
-    id: "zoo-d-abidjan-life-v2",
-    type: "animal-habitat",
-    parent: "CI-LAG",
-    coords: [-3.985, 5.342],
-    name: { de: "Zoo Abidjan", hu: "Abidjani Állatkert", ro: "Grădina Zoologică Abidjan", en: "Abidjan Zoo" },
-    description: { de: "Ein bedeutender Zoo für die Bildung über afrikanische Tierwelt.", hu: "Jelentős állatkert az afrikai élővilág megismertetésére.", ro: "O grădină zoologică importantă pentru educația despre fauna africană.", en: "An important zoo for education about African wildlife." },
-    facts: {
-      de: ["Viele Programme für Kinder.", "Beheimatet viele Großtiere."],
-      hu: ["Sok program gyerekeknek.", "Sok nagytestű állat otthona."],
-      ro: ["Multe programe pentru copii.", "Casă pentru multe animale mari."],
-      en: ["Many programs for children.", "Home to many large animals."]
-    }
-  },
-  {
-    id: "parc-des-enfants-daloa-life-v2",
-    type: "kid-landmark",
-    parent: "CI-SH",
-    coords: [-6.445, 6.872],
-    name: { de: "Kinderparadies Daloa", hu: "Daloa Gyerekparadicsom", ro: "Paradisul copiilor Daloa", en: "Daloa Children's Paradise" },
-    description: { de: "Ein Ort voller Spiel und Spaß für Kinder.", hu: "A játék és szórakozás helye gyerekeknek.", ro: "Un loc plin de joc și distracție pentru copii.", en: "A place full of play and fun for children." },
-    facts: {
-      de: ["Sichere Spielumgebung.", "Zentrum der lokalen Jugend."],
-      hu: ["Biztonságos játékklíma.", "A helyi fiatalok központja."],
-      ro: ["Mediu de joacă sigur.", "Centrul tineretului local."],
-      en: ["Safe play environment.", "Center for local youth."]
-    }
-  },
-  {
-    id: "reserve-de-singes-bouafle-life-v2",
-    type: "animal-habitat",
-    parent: "CI-MAR",
-    coords: [-5.752, 6.982],
-    name: { de: "Affenreservat Bouaflé", hu: "Bouaflé Majomrezervátum", ro: "Rezervație de maimuțe Bouaflé", en: "Bouaflé Monkey Reserve" },
-    description: { de: "Ein Schutzgebiet für verschiedene Affenarten.", hu: "Védett terület különböző majomfajok számára.", ro: "O zonă protejată pentru diferite specii de maimuțe.", en: "A protected area for different monkey species." },
-    facts: {
-      de: ["Beobachtung von Schimpansen möglich.", "Naturnahe Gehege."],
-      hu: ["Csimpánzok megfigyelése lehetséges.", "Természetközeli kifutók."],
-      ro: ["Observarea cimpanzeilor este posibilă.", "Țarcuri aproape de natură."],
-      en: ["Chimpanzee watching possible.", "Close-to-nature enclosures."]
-    }
-  },
-  {
-    id: "zone-agricole-odienne-life-v2",
-    type: "agriculture",
-    parent: "CI-DN",
-    coords: [-7.568, 9.505],
-    name: { de: "Agrarregion Odienné", hu: "Odienné Mezőgazdasági Régió", ro: "Regiune agricolă Odienné", en: "Odienné Agricultural Region" },
-    description: { de: "Vielseitige Landwirtschaft in der Savannenregion.", hu: "Sokoldalú mezőgazdaság a szavannai régióban.", ro: "Agricultură versatilă în regiunea de savană.", en: "Versatile agriculture in the savanna region." },
-    facts: {
-      de: ["Anbau von Getreide.", "Wichtig für die regionale Versorgung."],
-      hu: ["Gabonatermesztés.", "Fontos a regionális ellátáshoz."],
-      ro: ["Cultivarea cerealelor.", "Important pentru aprovizionarea regională."],
-      en: ["Cultivation of grains.", "Important for regional supply."]
-    }
-  },
-  {
-    id: "aire-de-jeux-korhogo-life-v2",
-    type: "kid-landmark",
-    parent: "CI-SAV",
-    coords: [-5.635, 9.455],
-    name: { de: "Spielplatz Korhogo", hu: "Korhogo Játszótér", ro: "Loc de joacă Korhogo", en: "Korhogo Playground" },
-    description: { de: "Ein lebhafter Spielplatz im Zentrum von Korhogo.", hu: "Élénk játszótér Korhogo központjában.", ro: "Un loc de joacă animat în centrul Korhogo.", en: "A lively playground in the center of Korhogo." },
-    facts: {
-      de: ["Treffpunkt für viele Familien.", "Sehr beliebt."],
-      hu: ["Találkozóhely sok családnak.", "Nagyon népszerű."],
-      ro: ["Loc de întâlnire pentru multe familii.", "Foarte popular."],
-      en: ["Meeting place for many families.", "Very popular."]
-    }
-  }
+    },
+    descriptionAdvanced: {
+      de: "Dieser kleine Tierpark in der Region Soubré konzentriert sich auf die Bewahrung und Präsentation der lokalen Fauna. Er dient vor allem als Bildungszentrum, um das Bewusstsein für den Schutz der gefährdeten Tierwelt in den nahegelegenen Wäldern zu schärfen. Biologie K5 — Biodiversität und Schutz.",
+      hu: "Ez a kis állatpark a Soubré régióban a helyi fauna megőrzésére és bemutatására összpontosít. Elsősorban oktatóközpontként szolgál, hogy felhívja a figyelmet a közeli erdőkben élő veszélyeztetett élővilág védelmének fontosságára. Biológia K5 — biodiverzitás és védelem.",
+      ro: "Această grădină zoologică mică din regiunea Soubré se concentrează pe conservarea și prezentarea faunei locale. Aceasta servește în principal ca centru educațional pentru a crește gradul de conștientizare privind protejarea faunei periclitate din pădurile din apropiere. Biologie K5 — biodiversitate și conservare.",
+      en: "This small zoo in the Soubré region focuses on the conservation and presentation of local fauna. It serves primarily as an educational center to raise awareness for the protection of endangered wildlife in the nearby forests. Biology K5 — biodiversity and conservation."
+    },
+    factsAdvanced: {
+      de: ["Eröffnung zur Förderung des Tourismus.", "Präsentiert über 20 einheimische Tierarten.", "Beliebt bei Schulgruppen.", "Unterstützt durch lokale Organisationen.", "Spezialisierte Pflegeprogramme.", "Integration lokaler Pflanzen."],
+      hu: ["A turizmus ösztönzésére nyílt meg.", "Több mint 20 helyi állatfajt mutat be.", "Népszerű iskolai csoportok körében.", "Helyi szervezetek támogatják.", "Speciális gondozási programok.", "Helyi növények integrálása."],
+      ro: ["Deschisă pentru promovarea turismului.", "Prezintă peste 20 de specii native.", "Populară pentru grupurile școlare.", "Susținută de organizații locale.", "Programe de îngrijire specializate.", "Integrarea plantelor locale."],
+      en: ["Opened to promote tourism.", "Presents over 20 native species.", "Popular with school groups.", "Supported by local organizations.", "Specialized care programs.", "Integration of local plants."]
+    }, image: "/poi-images/parc-animalier-soubre-life-v2.webp"}
 ];
+

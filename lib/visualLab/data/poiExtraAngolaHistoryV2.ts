@@ -23,8 +23,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Luanda legrégebbi fennmaradt épülete.", "Ma a Nemzeti Katonai Múzeumnak ad otthont.", "Paulo Dias de Novais alapította."],
       ro: ["Cea mai veche clădire supraviețuitoare din Luanda.", "Astăzi găzduiește Muzeul Militar Național.", "Fondată de Paulo Dias de Novais."],
       en: ["Oldest surviving building in Luanda.", "Today houses the National Military Museum.", "Founded by Paulo Dias de Novais."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Fortaleza de São Miguel ist die älteste Verteidigungsanlage Angolas und thront majestätisch auf dem Berg São Miguel über der Bucht von Luanda. Sie wurde 1576 von Paulo Dias de Novais kurz nach der Gründung der Stadt errichtet und diente über Jahrhunderte als administratives und militärhistorisches Zentrum der portugiesischen Kolonie. Die Festung war ein zentraler Punkt bei der Verteidigung gegen niederländische Angriffe und ein düsterer Knotenpunkt im transatlantischen Sklavenhandel. Heute beherbergt sie das Nationale Museum für Militärgeschichte und bietet Besuchern einen tiefen Einblick in die koloniale Vergangenheit und den Kampf um die Unabhängigkeit. Geschichte K8 — Kolonialgeschichte und Militärarchitektur.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erste permanente Festung in Angola, erbaut im Jahr 1576.", "Wurde zwischen 1641 und 1648 von den Niederländern besetzt.", "Hieß während der niederländischen Besatzung Fort Aardenburgh.", "Beherbergt heute das Museu Nacional de História Militar.", "Bekannt für seine reich verzierten Azulejo-Fliesen im Inneren.", "Bietet den besten Panoramablick über die Stadt und die Ilha de Luanda.", "Strategischer Kontrollpunkt für den Hafen über Jahrhunderte.", "Die Festung ist ein nationales Kulturdenkmal Angolas."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/fortaleza-sao-miguel-history-v2.webp"},
   {
     id: "mbanza-kongo-ruins-history-v2",
     type: "historical",
@@ -47,8 +58,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["2017 óta UNESCO Világörökség.", "Egykor São Salvador néven volt ismert.", "A korai kereszténység afrikai központja."],
       ro: ["Patrimoniu Mondial UNESCO din 2017.", "Cunoscută anterior sub numele de São Salvador.", "Centru al creștinismului timpuriu în Africa."],
       en: ["UNESCO World Heritage site since 2017.", "Formerly known as São Salvador.", "Center of early Christianity in Africa."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Ruinen von M’banza-Kongo repräsentieren das spirituelle und politische Herz des einst mächtigen Königreichs Kongo, das sich über weite Teile Zentralafrikas erstreckte. Die Stadt war seit dem 14. Jahrhundert der Sitz des ManiKongo, des Herrschers des Reiches. Mit der Ankunft der Portugiesen im 15. Jahrhundert wurde M’banza-Kongo zu einem Zentrum der kulturellen Begegnung und der Christianisierung. Die Ruinen der Kathedrale Kulumbimbi aus dem Jahr 1491 sind ein Zeugnis dieser frühen Ära. Die gesamte archäologische Stätte wurde 2017 zum UNESCO-Weltkulturerbe erklärt, da sie die komplexe soziale und politische Organisation eines vorkolonialen afrikanischen Staates dokumentiert. Geschichte K8 — Afrikanische Königreiche und Weltkulturerbe.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Einstige Hauptstadt des Königreichs Kongo (14. bis 19. Jahrhundert).", "Wurde im 16. Jahrhundert in São Salvador umbenannt.", "Beherbergt die Ruinen von Kulumbimbi, der ersten Kathedrale südlich der Sahara.", "UNESCO-Weltkulturerbe seit 2017 aufgrund seiner universellen Bedeutung.", "Zentrum der frühen diplomatischen Beziehungen zwischen Afrika und Europa.", "Heilige Stätte für die Bakongo-Bevölkerung in mehreren Ländern.", "Ort des Jalunguu-Baumes, unter dem der König Gericht hielt.", "Regelmäßige archäologische Funde belegen eine hochentwickelte Stadtplanung."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/mbanza-kongo-ruins-history-v2.webp"},
   {
     id: "massangano-fort-history-v2",
     type: "historical",
@@ -71,8 +93,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["A massanganói csata után épült.", "Angola ideiglenes fővárosa volt (1641-1648).", "Fontos kereskedelmi csomópont."],
       ro: ["Construită după bătălia de la Massangano.", "A fost capitala temporară a Angolei (1641-1648).", "Nod important pentru comerț."],
       en: ["Built after the Battle of Massangano.", "Served as the temporary capital of Angola (1641-1648).", "Important hub for trade."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Fort von Massangano am Ufer des Flusses Kwanza spielte eine entscheidende Rolle bei der portugiesischen Eroberung des angolanischen Binnenlandes. Es wurde 1583 gegründet und diente als strategischer Stützpunkt während der Kriege gegen das Königreich Ndongo und die legendäre Königin Njinga Mbande. Während der niederländischen Besatzung von Luanda im 17. Jahrhundert fungierte Massangano als Zufluchtsort und provisorische Hauptstadt der portugiesischen Verwaltung. Die Festung war zudem ein bedeutender Posten für den Sklavenhandel, der über den Kwanza-Fluss abgewickelt wurde. Heute sind die Ruinen der Festung und der angrenzenden Kirche ein wichtiger Ort für das Verständnis der kolonialen Expansion. Geschichte K8 — Expansion und Widerstand im 17. Jahrhundert.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1583 am Zusammenfluss von Kwanza und Lucala.", "Hauptstützpunkt im Krieg gegen Königin Njinga von Ndongo.", "Provisorische Hauptstadt der Kolonie während der niederländischen Invasion.", "Zentraler Ort für die Taufe und Verschiffung versklavter Menschen.", "Beherbergt die historische Kirche Nossa Senhora da Vitória.", "Strategischer Kontrollpunkt für den Schiffsverkehr ins Landesinnere.", "Wichtiger Ort für religiöse Pilgerfahrten in der heutigen Zeit.", "Teil eines geplanten Welterbe-Korridors entlang des Kwanza."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/massangano-fort-history-v2.webp"},
   {
     id: "palacio-de-ferro-history-v2",
     type: "historical",
@@ -95,8 +128,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Teljesen előregyártott vaselemekből épült.", "Eredetileg Madagaszkárra szánták.", "Ma kulturális központként működik."],
       ro: ["Construit în întregime din piese de fier prefabricate.", "Destinat inițial pentru Madagascar.", "Astăzi este un centru cultural."],
       en: ["Built entirely of prefabricated iron parts.", "Originally intended for Madagascar.", "Today serves as a cultural center."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Eisenpalast (Palácio de Ferro) in Luanda ist ein architektonisches Wunderwerk des 19. Jahrhunderts und ein Symbol für die globale Industriegeschichte. Das Gebäude aus Gusseisen und Stahl wurde vermutlich in den Werkstätten von Gustave Eiffel in Paris gefertigt und kam durch einen Zufall an die angolanische Küste. Mit seinen filigranen Verzierungen und den eleganten Balkonen ist es ein einzigartiges Beispiel für die Architektur der Weltausstellungsära. Nach einer umfassenden Restaurierung dient der Palast heute als Zentrum für kulturelle Ausstellungen und Kunstfestivals. Er repräsentiert das kosmopolitische Erbe Luandas und den Erhalt historischer Denkmäler in einer sich rasant modernisierenden Metropole. Geschichte K8 — Eisenarchitektur und technisches Erbe.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Zugeordnet dem weltberühmten Architekten Gustave Eiffel.", "Wurde als Fertigbausatz Ende des 19. Jahrhunderts per Schiff geliefert.", "Besitzt eine charakteristische Struktur aus vernietetem Gusseisen.", "Zentraler Punkt für den Kulturtourismus in der Unterstadt von Luanda.", "Umfassend restauriert mit internationaler finanzieller Unterstützung.", "Bietet eine Bühne für lokale und internationale Künstler.", "Wahrzeichen für die koloniale Blütezeit Luandas.", "Ein geschütztes nationales Monument der Republik Angola."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/palacio-de-ferro-history-v2.webp"},
   {
     id: "pungo-andongo-history-v2",
     type: "historical",
@@ -119,8 +163,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["A portugálok elleni ellenállás központja.", "A legenda szerint Nzinga lábnyomai a kövön láthatók.", "Egy portugál erőd romjait is tartalmazza."],
       ro: ["Centrul rezistenței împotriva portughezilor.", "Conform legendei, urmele pașilor lui Nzinga sunt în piatră.", "Conține ruinele unei fortărețe portugheze."],
       en: ["Center of resistance against the Portuguese.", "Legend says Nzinga's footprints are in the stone.", "Contains ruins of a Portuguese fort."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Pungo Andongo ist ein Ort von gewaltiger historischer und natürlicher Bedeutung, bekannt für seine massiven schwarzen Felsformationen, die aus der Savanne ragen. Diese Pedras Negras dienten als natürliche Festung und Hauptstadt des Königreichs Ndongo. Hier leistete Königin Njinga Mbande im 17. Jahrhundert hartnäckigen Widerstand gegen die portugiesischen Invasoren. Einer Legende nach sind in den Felsen die Fußabdrücke der Königin eingraviert, die ihre Unbeugsamkeit symbolisieren. Pungo Andongo ist ein Ort des nationalen Stolzes und der Mythenbildung, an dem die Geschichte des Widerstands gegen die Fremdherrschaft lebendig bleibt. Geschichte K8 — Afrikanischer Widerstand und nationale Mythen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt des Königreichs Ndongo unter Königin Njinga Mbande.", "Berühmt für die Pedras Negras, gewaltige Monolithen aus Konglomeratgestein.", "Ort legendärer Kämpfe gegen die portugiesische Kolonialexpansion.", "Fußabdrücke in den Felsen werden volkstümlich der Königin Njinga zugeschrieben.", "Strategischer Rückzugsort aufgrund der natürlichen Verteidigungslage.", "Befindet sich in der Provinz Malanje am Rande des Kwanza-Beckens.", "Ein zentrales Symbol für die angolanische nationale Identität.", "Kombiniert historische Monumente mit einzigartigen geologischen Phänomenen."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/pungo-andongo-history-v2.webp"},
   {
     id: "muxima-fort-history-v2",
     type: "historical",
@@ -143,8 +198,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["1924-ben nemzeti műemlékké nyilvánították.", "A Muxima jelentése 'szív' kimbundu nyelven.", "Holland megszállás színhelye volt a 17. században."],
       ro: ["Declarată monument național în 1924.", "Muxima înseamnă 'inimă' în Kimbundu.", "Scena ocupației olandeze în secolul al XVII-lea."],
       en: ["Declared a national monument in 1924.", "Muxima means 'heart' in Kimbundu.", "Site of Dutch occupation in the 17th century."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Fort von Muxima wurde 1599 von den Portugiesen am Ufer des Kwanza-Flusses errichtet, um den Zugang zum Landesinneren zu kontrollieren und den Handel abzusichern. Es liegt auf einem Hügel über der gleichnamigen Siedlung, die heute als bedeutendster Wallfahrtsort Angolas bekannt ist. Die Festung war Schauplatz zahlreicher Kämpfe während der Kolonialkriege und diente als logistischer Stützpunkt für Expeditionen. Neben seiner militärischen Bedeutung ist Muxima ein Ort tiefer Spiritualität, da die nahegelegene Kirche Nossa Senhora da Muxima seit Jahrhunderten Gläubige anzieht. Das Zusammenspiel von historischer Verteidigungsarchitektur und religiöser Tradition macht Muxima zu einem einzigartigen Denkmal. Geschichte K8 — Koloniale Verteidigung und religiöses Erbe.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1599 zur Überwachung des Kwanza-Flusses.", "Wichtigster historischer Wallfahrtsort in Subsahara-Afrika.", "Strategischer Punkt während der Kriege gegen das Königreich Ndongo.", "Befindet sich ca. 130 km südöstlich von Luanda.", "Kombiniert koloniale Festungsbaukunst mit sakraler Architektur.", "Wurde 1924 zum nationalen Denkmal erklärt.", "Zentraler Punkt des jährlichen Muxima-Festivals im September.", "Teil der Kulturlandschaft des Kwanza-Flusskorridors."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/muxima-fort-history-v2.webp"},
   {
     id: "cuito-cuanavale-battlefield-history-v2",
     type: "historical",
@@ -167,8 +233,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Jelentős fordulópont Dél-Afrika történelmében.", "A külföldi csapatok kivonulásához vezetett.", "A csata emlékére egy nagy emlékmű épült."],
       ro: ["Punct de cotitură major în istoria Africii de Sud.", "A dus la retragerea trupelor străine.", "Există un mare monument dedicat bătăliei."],
       en: ["Major turning point in Southern African history.", "Led to the withdrawal of foreign troops.", "There is a large monument dedicated to the battle."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld von Cuito Cuanavale in der Provinz Cuando Cubango ist ein Ort von kontinentaler historischer Bedeutung. Hier fand Ende der 1980er Jahre eine der größten konventionellen Panzerschlachten auf afrikanischem Boden statt. Der Ausgang der Kämpfe gilt als Wendepunkt im angolanischen Bürgerkrieg und hatte weitreichende Auswirkungen auf die gesamte Region, einschließlich der Unabhängigkeit Namibias und des Endes der Apartheid in Südafrika. Heute erinnert ein gewaltiges Monument mit einem Museum an die Opfer und die strategische Bedeutung dieses Ortes. Cuito Cuanavale ist ein Symbol für die Befreiung des südlichen Afrikas und den Mut der angolanischen Streitkräfte. Geschichte K8 — Zeitgeschichte und Befreiungskämpfe.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ort der entscheidenden Schlacht zwischen 1987 und 1988.", "Größte Panzerschlacht in Afrika seit dem Zweiten Weltkrieg.", "Gilt als Wendepunkt für den Frieden in Angola und Namibia.", "Ein gewaltiges Denkmal (Memorial) ehrt heute die Beteiligten.", "Beherbergt ein Museum mit authentischer Militärausrüstung.", "Wurde zum nationalen historischen Erbe Angolas erklärt.", "Strategischer Sieg gegen die damaligen südafrikanischen Streitkräfte.", "Der 23. März (Tag der Schlacht) ist ein regionaler Feiertag (SADC)."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/cuito-cuanavale-battlefield-history-v2.webp"},
   {
     id: "cambambe-fort-history-v2",
     type: "historical",
@@ -191,8 +268,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["A remélt ezüstkészletek nem léteztek.", "Később börtönként és rabszolgatelepként szolgált.", "1925-ben nemzeti műemlékké nyilvánították."],
       ro: ["Zăcămintele de argint sperate nu existau.", "A servit mai târziu ca închisoare și depozit de sclavi.", "Declarată monument național în 1925."],
       en: ["The hoped-for silver deposits did not exist.", "Later served as a prison and slave depot.", "Declared a national monument in 1925."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Fort von Cambambe, gelegen in der Nähe der heutigen Stadt Dondo, wurde 1604 von den Portugiesen am Kwanza-Fluss gegründet. Es war der am weitesten ins Landesinnere vorgeschobene Punkt der frühen kolonialen Expansion und diente als Basis für die Suche nach den sagenumwobenen Silberminen von Cambambe. Die Festung war ein zentraler Ort für die Kontrolle des Sklavenhandels und die Organisation von Militärexpeditionen gegen das Königreich Ndongo. Die Überreste der Festung, der Kirche und der Verwaltungsgebäude zeugen von der strategischen Bedeutung des Kwanza als Lebensader der Kolonie. Heute liegt das historische Areal in einer malerischen Umgebung nahe dem modernen Staudamm. Geschichte K8 — Bergbaumythen und koloniale Expansion.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1604 nach jahrelanger Suche nach Silber.", "Einstiges administratives Zentrum des Kwanza-Bezirks.", "Beherbergt die historische Kirche Nossa Senhora do Rosário.", "Strategischer Ort zur Überwachung des Flussverkehrs.", "Wichtiger Posten für den transatlantischen Sklavenhandel.", "Liegt in der Nähe der heutigen Stadt Dondo in Cuanza Norte.", "Zentrum früher wirtschaftlicher Hoffnungen der portugiesischen Krone.", "Archäologische Stätte mit gut erhaltenen Mauerresten."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/cambambe-fort-history-v2.webp"},
   {
     id: "sao-salvador-church-history-v2",
     type: "historical",
@@ -215,8 +303,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Kulumbimbi néven is ismert.", "A kereszténységre áttért király parancsára épült.", "1596-ban emelték katedrális rangra."],
       ro: ["Cunoscută și sub numele de Kulumbimbi.", "Construită la ordinul regelui convertit la creștinism.", "Ridicată la rang de catedrală în 1596."],
       en: ["Also known as Kulumbimbi.", "Built on the orders of the Christian-converted King.", "Elevated to cathedral status in 1596."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Kirche São Salvador in M'banza-Kongo, auch bekannt als Kulumbimbi, ist eines der ältesten und symbolträchtigsten christlichen Bauwerke in Subsahara-Afrika. Die Ruinen stammen aus dem ausgehenden 15. Jahrhundert und markieren den Beginn der christlichen Missionierung im Königreich Kongo. Die Kirche wurde mehrfach zerstört und wiederaufgebaut und spiegelt die wechselvolle Geschichte der Begegnung zwischen afrikanischen Herrschern und portugiesischen Entdeckern wider. Kulumbimbi ist heute Teil des UNESCO-Weltkulturerbes und bleibt ein Ort von höchster spiritueller Bedeutung für das Volk der Bakongo. Die massiven Steinmauern sind ein beeindruckendes Zeugnis der frühen Steinarchitektur in der Region. Geschichte K8 — Christianisierung und vorkoloniale Kulturkontakte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1491, kurz nach der Ankunft von Diogo Cão.", "Erste Kathedrale südlich des Äquators.", "Wahrzeichen des historischen UNESCO-Welterbes M'banza-Kongo.", "Ruinen zeigen die Verschmelzung europäischer und afrikanischer Baustile.", "Ort der Bestattung zahlreicher Könige (ManiKongo).", "Wurde im 16. Jahrhundert zur Kathedrale erhoben.", "Zentraler Punkt für die Geschichte des Christentums in Afrika.", "Heute ein nationales Heiligtum der Republik Angola."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/sao-salvador-church-history-v2.webp"},
   {
     id: "simulambuco-monument-history-v2",
     type: "historical",
@@ -239,8 +338,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["A szerződést portugál és helyi uralkodók írták alá.", "Cabinda különleges státuszának alapja.", "A regionális történelem fontos szimbóluma."],
       ro: ["Tratatul a fost semnat de conducători portughezi și locali.", "Baza pentru statutul separat al Cabindei.", "Simbol important al istoriei regionale."],
       en: ["The treaty was signed by Portuguese and local rulers.", "Basis for Cabinda's separate status.", "Important symbol of regional history."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Denkmal von Simulambuco in der Provinz Cabinda erinnert an einen der bedeutendsten diplomatischen Akte in der Geschichte der Region. Hier wurde am 1. Februar 1885 der Vertrag von Simulambuco zwischen der portugiesischen Krone und den lokalen Fürsten unterzeichnet. Dieser Vertrag stellte Cabinda unter portugiesisches Protektorat und ist bis heute ein zentraler Bezugspunkt für die Debatten über den Status der Exklave. Das Denkmal, das sich in einer parkähnlichen Anlage befindet, symbolisiert die Anerkennung der lokalen Autoritäten und die Integration Cabindas in den kolonialen Verwaltungsraum. Es ist ein Ort des Gedenkens und ein wichtiges Symbol für die regionale Identität. Geschichte K8 — Koloniale Verträge und Protektorate.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ort der Unterzeichnung des Protektoratsvertrages von 1885.", "Liegt etwa 5 Kilometer nördlich der Stadt Cabinda.", "Das Denkmal wurde zur Erinnerung an den 50. Jahrestag errichtet.", "Zentrales Dokument für die völkerrechtliche Geschichte Cabindas.", "Wichtiger Ort für offizielle Gedenkveranstaltungen in der Provinz.", "Umgeben von einer gepflegten Anlage mit Blick auf den Ozean.", "Symbol für das Verhältnis zwischen lokaler Macht und Kolonialmacht.", "Ein nationales historisches Erbe der Republik Angola."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/simulambuco-monument-history-v2.webp"},
   {
     id: "caconda-fort-history-v2",
     type: "historical",
@@ -263,8 +373,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Az egyik legrégebbi portugál szárazföldi előőrs.", "Helyi felkelések többször elpusztították.", "További felfedezések bázisául szolgált."],
       ro: ["Unul dintre cele mai vechi avanposturi portugheze din interior.", "Distrusă de mai multe ori de revoltele locale.", "A servit drept bază pentru explorări ulterioare."],
       en: ["One of the oldest Portuguese outposts in the interior.", "Destroyed multiple times by local uprisings.", "Served as a base for further explorations."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Fort von Caconda in der Provinz Huíla ist ein historischer Vorposten, der im 17. Jahrhundert gegründet wurde, um den portugiesischen Einfluss im zentralen Hochland abzusichern. Es diente als strategischer Knotenpunkt für den Handel mit Sklaven, Elfenbein und landwirtschaftlichen Produkten sowie als Verteidigungsanlage gegen lokale Aufstände. Caconda war über lange Zeit der am weitesten landeinwärts gelegene befestigte Punkt der Kolonialmacht im Süden. Die Überreste der Festung erzählen von der harten Realität des Grenzlebens und der Expansion in unbekannte Gebiete. Heute ist die Stätte ein wichtiges Denkmal für die regionale Geschichte und die Entwicklung der Huíla-Region. Geschichte K8 — Koloniale Grenzgebiete und Befestigungen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1682 zur Sicherung des Hochlandes.", "Wichtigster historischer Stützpunkt im Inneren der Provinz Huíla.", "Schauplatz bedeutender militärischer Auseinandersetzungen im 18. Jh.", "Kontrollierte die Handelswege zwischen Benguela und dem Osten.", "Beherbergt Ruinen der alten Verwaltungs- und Garnisonsbauten.", "Eines der ältesten europäischen Bauwerke im angolanischen Binnenland.", "Wurde 1932 zum nationalen Denkmal erklärt.", "Ein Ort der Erinnerung an die koloniale Besiedlungsgeschichte."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/caconda-fort-history-v2.webp"},
   {
     id: "kikombo-fort-history-v2",
     type: "historical",
@@ -287,7 +408,20 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Reduto do Quicombo néven is ismert.", "1645-ben épült, 1648-ban foglalták vissza a portugálok.", "Az UNESCO világörökségi javaslati listáján szerepel."],
       ro: ["Cunoscut și sub numele de Reduto do Quicombo.", "Construit în 1645, recucerit de portughezi în 1648.", "Se află pe lista tentativă UNESCO."],
       en: ["Also known as Reduto do Quicombo.", "Built in 1645, recaptured by the Portuguese in 1648.", "On the UNESCO tentative list."]
+    },
+    descriptionAdvanced: {
+      de: "Das Fort von Kikombo in der Provinz Cuanza Sul ist ein einzigartiges Beispiel kolonialer Verteidigungsarchitektur an der Küste. Es wurde im 17. Jahrhundert errichtet und diente vor allem als befestigter Stützpunkt für die Schiffe, die den Kwanza-Fluss ansteuerten oder Wasser in der geschützten Bucht von Kikombo aufnahmen. Das Fort spielte eine wichtige Rolle bei der Rückeroberung Angolas von den Niederländern im Jahr 1648, da es als Sammelpunkt für die portugiesische Entsatzungsflotte diente. Die gut erhaltenen Ruinen der kleinen Festung liegen direkt am Strand und bieten einen faszinierenden Einblick in die maritime Geschichte des Landes. Kikombo ist ein Ort, an dem sich Natur und Geschichte auf engstem Raum begegnen. Geschichte K8 — Seekriege und Küstenverteidigung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 17. Jahrhundert in einer strategischen Bucht.", "Wichtiger Stützpunkt für die Rückeroberung Luandas 1648.", "Diente als Wasserstelle und Zufluchtsort für Sklavenschiffe.", "Kleine, aber gut erhaltene Festungsanlage direkt am Atlantik.", "Liegt in der Gemeinde Kikombo, südlich der Stadt Sumbe.", "Eines der wenigen Beispiele für quadratische Festungsbauten an der Küste.", "Besitzt ein bedeutendes touristisches und archäologisches Potenzial.", "Symbol für die maritime Präsenz Portugals im Südatlantik."],
+      hu: [],
+      ro: [],
+      en: []
     }
+
   },
   {
     id: "sao-francisco-penedo-history-v2",
@@ -311,7 +445,20 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["1765-ben építették a portugálok.", "A rabszolgakikötő védelmét szolgálta.", "Később hírhedt börtön volt."],
       ro: ["Construită de portughezi în 1765.", "A servit la protejarea portului de sclavi.", "Mai târziu a fost o închisoare notorie."],
       en: ["Built by the Portuguese in 1765.", "Served to protect the slave port.", "Later became a notorious prison."]
+    },
+    descriptionAdvanced: {
+      de: "Die Fortaleza de São Francisco do Penedo in Luanda ist eine geschichtsträchtige Verteidigungsanlage, die ursprünglich auf einer kleinen Felseninsel am Eingang des Hafens errichtet wurde. Sie wurde im 18. Jahrhundert massiv ausgebaut, um die koloniale Kontrolle über den Seeverkehr zu sichern und die Bucht vor Angriffen zu schützen. Während der Unabhängigkeitskämpfe erlangte die Festung traurige Berühmtheit als Gefängnis für angolanische Patrioten. Heute ist Penedo ein bedeutendes Denkmal, das die Grausamkeit der kolonialen Unterdrückung und gleichzeitig die Standhaftigkeit des angolanischen Volkes symbolisiert. Die Architektur der Festung, die teilweise mit dem Festland verbunden wurde, ist ein wertvolles Zeugnis der Militärgeschichte. Geschichte K8 — Koloniale Repression und Befreiungsgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 18. Jahrhundert auf einem strategischen Felsen.", "Ursprünglich eine isolierte Inselfestung im Hafen von Luanda.", "Diente als berüchtigtes Hochsicherheitsgefängnis der PIDE.", "Zentraler Ort des Gedenkens an die Helden des 4. Februar.", "Wurde 1992 in die Liste des nationalen Kulturerbes aufgenommen.", "Bietet tiefe Einblicke in die Kasematten und historischen Zellen.", "Wahrzeichen für den Kampf gegen den Faschismus und Kolonialismus.", "Bestandteil des geplanten Museumsnetzwerks der Hauptstadt."],
+      hu: [],
+      ro: [],
+      en: []
     }
+
   },
   {
     id: "baia-dos-tigres-ghost-town-history-v2",
@@ -335,8 +482,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Az 1860-as években alapították.", "Az édesvízellátás 1962-ben összeomlott.", "Ma homokdűnék és romok borítják."],
       ro: ["Fondată în anii 1860.", "Aprovizionarea cu apă dulce s-a prăbușit în 1962.", "Astăzi este caracterizată de dune de nisip și ruine."],
       en: ["Founded in the 1860s.", "Freshwater supply collapsed in 1962.", "Today characterized by sand dunes and ruins."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Geisterstadt Baía dos Tigres in der Provinz Namibe ist ein faszinierendes und zugleich melancholisches Zeugnis der menschlichen Anpassungsfähigkeit und des Rückzugs. Einst eine blühende Fischersiedlung auf einer Halbinsel, wurde sie 1962 durch einen gewaltigen Ozeaneinbruch vom Festland getrennt und zur Insel. Die Bewohner mussten den Ort schließlich aufgrund des Mangels an Trinkwasser verlassen. Heute ragen die verfallenen Häuser und die Kirche aus dem Sand der Insel empor, umgeben vom tosenden Atlantik. Baía dos Tigres ist ein mystischer Ort für Forscher und Abenteurer, der die Macht der Natur über menschliche Siedlungen verdeutlicht. Geschichte K8 — Verlassene Orte und Küstenveränderungen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ehemals größte Fischersiedlung im Süden Angolas.", "Wurde 1962 durch einen Sturm zur Insel (Ilha dos Tigres).", "Endgültig verlassen in den 1970er Jahren.", "Die Architektur zeigt typische portugiesische Stilelemente der Mitte des 20. Jhs.", "Wichtiger Ort für die Untersuchung von Küstenerosion und Klimawandel.", "Beherbergt heute riesige Kolonien von Seevögeln und Robben.", "Kann nur mit spezieller Genehmigung und Ausrüstung besucht werden.", "Ein Symbol für das 'Ende der Welt' an der angolanischen Küste."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/baia-dos-tigres-ghost-town-history-v2.webp"},
   {
     id: "cassinga-monument-history-v2",
     type: "historical",
@@ -359,8 +517,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Több mint 600 civil és katonai áldozatot követelt.", "A napot Namíbiában Cassinga napjaként ünneplik.", "A hidegháborús konfliktusok tanúja."],
       ro: ["A dus la peste 600 de victime civile și militare.", "Ziua este marcată în Namibia ca Ziua Cassinga.", "Mărturie a conflictelor Războiului Rece."],
       en: ["Resulted in over 600 civilian and military casualties.", "The day is observed in Namibia as Cassinga Day.", "Testament to the Cold War conflicts."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Monument von Cassinga in der Provinz Huíla erinnert an eines der tragischsten Ereignisse während des Unabhängigkeitskampfes in Namibia und des angolanischen Bürgerkriegs. Am 4. Mai 1978 fand hier ein massiver Luftangriff auf ein Flüchtlingslager statt, bei dem hunderte Menschen ums Leben kamen. Das Denkmal ehrt die Opfer und symbolisiert die internationale Solidarität im Kampf gegen die Apartheid und für die Befreiung des südlichen Afrikas. Cassinga ist ein Ort des tiefen Gedenkens und ein Symbol für die hohen menschlichen Kosten der politischen Konflikte in der Region. Die Stätte wird jährlich von Delegationen aus Angola und Namibia besucht. Geschichte K8 — Zeitgeschichte und internationale Befreiungsbewegungen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gedenkstätte für die Opfer des Massakers von Cassinga 1978.", "Ein wichtiger Ort für die angolanisch-namibischen Beziehungen.", "Der 4. Mai wird in Namibia als Cassinga-Tag gefeiert.", "Befindet sich in einer ehemaligen Bergbauregion im Osten Huílas.", "Symbol für das Leid der Zivilbevölkerung in bewaffneten Konflikten.", "Wurde als nationales historisches Denkmal anerkannt.", "Zentraler Punkt für Friedens- und Versöhnungsarbeit.", "Beherbergt Informationstafeln zur Geschichte der Befreiungsbewegungen."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/cassinga-monument-history-v2.webp"},
   {
     id: "sao-pedro-barra-fort-history-v2",
     type: "historical",
@@ -383,8 +552,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Körülbelül 1703-ban épült egy régebbi erőd romjain.", "Később karanténállomásként szolgált.", "Világörökségi jelölt."],
       ro: ["Construită în jurul anului 1703 pe ruinele unui fort mai vechi.", "A servit mai târziu ca stație de carantină.", "Candidat pentru Patrimoniul Mondial."],
       en: ["Built around 1703 on ruins of an older fort.", "Later served as a quarantine station.", "Candidate for World Heritage status."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Fort São Pedro da Barra in Luanda ist eine beeindruckende Verteidigungsanlage, die den Zugang zur Bucht von Luanda und dem Hafen kontrollierte. Es wurde im 17. Jahrhundert auf einem Felsvorsprung direkt über dem Meer errichtet und zeichnet sich durch seine robuste Bauweise aus, die in den Stein gehauen wurde. Die Festung spielte eine zentrale Rolle bei der Abwehr feindlicher Flotten und diente später als Gefängnis für politische Gefangene während des Unabhängigkeitskampfes. Heute ist São Pedro da Barra ein geschütztes Denkmal, das die militärische Geschichte und den Kampf für die Freiheit Angolas repräsentiert. Der Ort bietet zudem einen faszinierenden Einblick in die koloniale Militärarchitektur. Geschichte K8 — Festungsbau und Unabhängigkeitskampf.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1663 zur Verstärkung der Verteidigung Luandas.", "Besitzt eine einzigartige Architektur, teilweise direkt in den Fels gehauen.", "Zentraler Ort des Gedenkens an die Gefangenen des antikolonialen Widerstands.", "Bietet eine strategische Sicht auf die Halbinsel Mussulo.", "Wurde 1932 zum nationalen Denkmal erklärt.", "Beherbergt historische Inschriften und Kanonenstellungen.", "Ein wichtiges Ziel für geschichtliche Exkursionen in der Hauptstadt.", "Symbol für die Standhaftigkeit Luandas über die Jahrhunderte."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/sao-pedro-barra-fort-history-v2.webp"},
   {
     id: "kwanza-sul-rock-art-history-v2",
     type: "historical",
@@ -407,8 +587,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Több ezer évesek.", "Vadászatot és vadállatokat ábrázolnak.", "Angola fontos régészeti öröksége."],
       ro: ["Au o vechime de mii de ani.", "Prezintă scene de vânătoare și animale sălbatice.", "Moștenire arheologică importantă a Angolei."],
       en: ["Thousands of years old.", "Depict hunting scenes and wildlife.", "Important archaeological heritage of Angola."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Felsmalereien in der Provinz Cuanza Sul sind faszinierende Zeugnisse der prähistorischen Besiedlung Angolas. An verschiedenen Orten der Provinz, oft unter schützenden Felsüberhängen, finden sich kunstvolle Darstellungen von Tieren, Menschen und geometrischen Mustern, die tausende von Jahren alt sind. Diese archäologischen Stätten bieten einen tiefen Einblick in die spirituelle Welt und den Alltag der frühen Jäger- und Sammlervölker der Region. Die Erhaltung dieser fragilen Kunstwerke ist eine große Herausforderung und wird durch nationale Denkmalschutzprogramme unterstützt. Die Felskunst von Cuanza Sul ist ein kultureller Schatz, der die tiefe historische Verwurzelung der Menschheit im angolanischen Hochland dokumentiert. Geschichte K8 — Prähistorie und kulturelles Erbe.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Beherbergt einige der bedeutendsten Felskunststätten Zentralafrikas.", "Die Malereien datieren bis in die späte Steinzeit zurück.", "Darstellungen umfassen Jagdszenen und rituelle Zeremonien.", "Wichtiger Forschungsort für Archäologen und Anthropologen.", "Zentraler Baustein des historischen Gedächtnisses Angolas.", "Gefährdet durch Witterungseinflüsse und menschliche Aktivitäten.", "Teil eines geplanten Netzwerks für archäologischen Tourismus.", "Symbol für die Kontinuität menschlicher Besiedlung im Hochland."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/kwanza-sul-rock-art-history-v2.webp"},
   {
     id: "cathedral-of-luanda-history-v2",
     type: "historical",
@@ -431,8 +622,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["1628-ban fejezték be.", "A Gyógyító Szűzanya tiszteletére szentelték.", "1922-ben nemzeti műemlékké nyilvánították."],
       ro: ["Finalizată în 1628.", "Dedicată Maicii Domnului a Remediilor.", "Declarată monument național în 1922."],
       en: ["Completed in 1628.", "Dedicated to Our Lady of Remedies.", "Declared a national monument in 1922."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die historische Kathedrale von Luanda (Igreja de Nossa Senhora dos Remédios) ist ein Juwel der Sakralarchitektur und ein Zeugnis für den religiösen Einfluss der Portugiesen seit dem 17. Jahrhundert. Das Gebäude besticht durch seine barocken Elemente und seine elegante weiße Fassade mit den charakteristischen Türmen. Über Jahrhunderte war sie das Zentrum der kirchlichen Macht in der Kolonie und ein Ort, an dem wichtige gesellschaftliche Ereignisse stattfanden. Die Kathedrale beherbergt wertvolle Kunstschätze, darunter reich verzierte Altäre und historische Taufbecken. Sie ist nicht nur ein Ort des Gebets, sondern auch ein bedeutendes kulturelles Erbe, das die Geschichte der Hauptstadt Luanda widerspiegelt. Geschichte K8 — Sakrale Kunst und Stadtgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Baubeginn im Jahr 1655 durch die Bruderschaft Nossa Senhora dos Remédios.", "Erhielt 1813 den Status einer Kathedrale.", "Wichtigstes Beispiel für den Barockstil in der angolanischen Architektur.", "Besitzt wertvolle Azulejo-Panels im Inneren.", "Wurde 1949 zum nationalen Denkmal erklärt.", "Zentraler Punkt im historischen Viertel 'Cidade Baixa' von Luanda.", "Dient als Grablege für bedeutende angolanische Bischöfe.", "Kombiniert religiöse Pracht mit kolonialer Repräsentation."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/cathedral-of-luanda-history-v2.webp"},
   {
     id: "alto-das-cruzes-cemetery-history-v2",
     type: "historical",
@@ -455,8 +657,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["A 19. században alapították.", "Művészi síremlékek és szobrok találhatók itt.", "A kulturális emlékezet fontos helyszíne."],
       ro: ["Fondat în secolul al XIX-lea.", "Găzduiește monumente și statui artistice.", "Loc important al memoriei culturale."],
       en: ["Founded in the 19th century.", "Houses artistic monuments and statues.", "Important site of cultural memory."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Friedhof Alto das Cruzes in Luanda ist einer der ältesten und historisch bedeutendsten Friedhöfe Angolas. Er liegt auf einer Anhöhe mit Blick über die Stadt und ist die letzte Ruhestätte für zahlreiche prominente Persönlichkeiten der angolanischen Geschichte, von Kolonialbeamten bis hin zu Nationalhelden. Die Architektur der Grabmäler spiegelt verschiedene Epochen und Stile wider, von neoklassizistischen Mausoleen bis hin zu kunstvollen Marmorskulpturen. Der Friedhof ist ein stilles Zeugnis des gesellschaftlichen Wandels und ein Ort von hohem kulturellem Wert, der die Verflechtung der angolanischen und portugiesischen Elite über Jahrhunderte dokumentiert. Geschichte K8 — Bestattungskultur und historische Persönlichkeiten.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 19. Jahrhundert als Hauptfriedhof von Luanda.", "Beherbergt die Gräber vieler Unterzeichner der Unabhängigkeitserklärung.", "Bekannt für seine aufwendige sakrale Grabmalkunst.", "Wichtiger Ort für genealogische und historische Forschungen.", "Wurde zum nationalen historischen Denkmal erklärt.", "Bietet einen weiten Blick über das historische Viertel Cidade Alta.", "Besitzt eine bedeutende Kapelle im neogotischen Stil.", "Ein Ort der Besinnung inmitten der dynamischen Hauptstadt."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/alto-das-cruzes-cemetery-history-v2.webp"},
   {
     id: "mocamedes-historic-center-history-v2",
     type: "historical",
@@ -479,7 +692,20 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["1840-ben alapították a portugálok.", "Egy ideig Namibe néven volt ismert.", "Híres az art deco építészetéről."],
       ro: ["Fondată în 1840 de portughezi.", "Cunoscută temporar sub numele de Namibe.", "Renumită pentru arhitectura Art Deco."],
       en: ["Founded in 1840 by the Portuguese.", "Temporarily known as Namibe.", "Famous for Art Deco architecture."]
+    },
+    descriptionAdvanced: {
+      de: "Das historische Zentrum von Moçâmedes (Namibe) ist ein einzigartiges architektonisches Ensemble, das durch seine gut erhaltene koloniale Planung und den Art-déco-Stil der Mitte des 20. Jahrhunderts besticht. Die Stadt wurde 1840 gegründet und zeichnet sich durch breite, saubere Straßen und eine harmonische Integration in die Küstenwüste aus. Besonders markant sind die Kinos, Verwaltungsgebäude und Wohnhäuser, die das Flair einer vergangenen Ära bewahren. Das historische Zentrum ist ein Symbol für die maritime Geschichte Südangolas und die Anpassung der europäischen Stadtplanung an die extremen Bedingungen der Namib-Wüste. Es ist heute ein geschützter Bereich von hohem kulturellem und touristischem Wert. Geschichte K8 — Koloniale Stadtplanung und Art-déco.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1840 als Hafenstadt im Süden.", "Bekannt für seine charakteristische Architektur der 1930er bis 1950er Jahre.", "Beherbergt das ikonische Kino Moçâmedes.", "Gilt als eine der besterhaltenen Kolonialstädte in Subsahara-Afrika.", "Stadtanlage folgt einem strengen geometrischen Raster.", "Zentraler Punkt für den kulturellen Tourismus in der Provinz Namibe.", "Wahrzeichen für den Pioniergeist an der Wüstenküste.", "Wurde als Ganzes zum historischen Kulturerbe erklärt."],
+      hu: [],
+      ro: [],
+      en: []
     }
+
   },
   {
     id: "kalandula-battle-site-history-v2",
@@ -503,7 +729,20 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Korábban Duque de Bragançának hívták.", "Stratégiai csomópont a 19. században.", "A portugál büntetőexpedíciók helyszíne."],
       ro: ["Numită anterior Duque de Bragança.", "Nod strategic în secolul al XIX-lea.", "Locul expedițiilor punitive portugheze."],
       en: ["Formerly called Duque de Bragança.", "Strategic hub in the 19th century.", "Site of Portuguese punitive expeditions."]
+    },
+    descriptionAdvanced: {
+      de: "Der Ort der Schlacht von Kalandula in der Provinz Malanje ist ein historisches Schlachtfeld, das an die erbitterten Kämpfe zwischen den angolanischen Befreiungskräften und kolonialen Truppen erinnert. Inmitten der spektakulären Natur, nahe der berühmten Wasserfälle, fanden hier strategisch wichtige Gefechte statt, die den Vormarsch der Unabhängigkeitsbewegung unterstützten. Die Stätte ist ein Ort des Gedenkens an den Mut der Kämpfer und die Bedeutung des Nordens für die Freiheit Angolas. Heute wird der Ort in Kombination mit den Wasserfällen als historisches und touristisches Ziel entwickelt, um die Geschichte des Widerstands lebendig zu halten. Geschichte K8 — Unabhängigkeitskrieg und regionaler Widerstand.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wichtiges Schlachtfeld im Norden Angolas während der 1960er Jahre.", "Symbol für den Widerstand in der Kaffeeregion Malanje.", "Befindet sich in unmittelbarer Nähe zu den Kalandula-Wasserfällen.", "Ort offizieller Gedenkveranstaltungen für die gefallenen Soldaten.", "Teil der historischen Identität der Provinz Malanje.", "In die nationale Liste der historischen Orte aufgenommen.", "Verbindet Naturdenkmäler mit dem kollektiven Gedächtnis des Volkes.", "Wahrzeichen für den Kampf um die Kontrolle über das Hochland."],
+      hu: [],
+      ro: [],
+      en: []
     }
+
   },
   {
     id: "dondo-river-port-history-v2",
@@ -527,8 +766,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Fénykora a 18. és 19. században volt.", "Fontos belföldi kikötő.", "A Kwanza komp helyszíne."],
       ro: ["Apogeul în secolele al XVIII-lea și al XIX-lea.", "Port interior important.", "Locul feribotului Kwanza."],
       en: ["Heyday in the 18th and 19th centuries.", "Important inland port.", "Site of the Kwanza ferry."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Flusshafen von Dondo am Kwanza war über Jahrhunderte das Tor zum angolanischen Binnenland und ein zentraler Knotenpunkt für den Handel. Hier endete die Schiffbarkeit des Flusses vom Atlantik her, was Dondo zu einem unverzichtbaren Umschlagplatz für Waren, Sklaven und landwirtschaftliche Produkte machte. Der Hafen war der Ausgangspunkt für Karawanen und später für die Eisenbahn ins Hochland. Die historischen Kaianlagen und Lagerhäuser zeugen von der einstigen wirtschaftlichen Blütezeit der Stadt. Heute ist der Flusshafen ein Denkmal für die Bedeutung der Binnenschifffahrt und die maritime Geschichte des Kwanza-Korridors. Geschichte K8 — Flusshandel und koloniale Logistik.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Einer der wichtigsten historischen Binnenhäfen Angolas.", "Zentraler Punkt für den Export von Kaffee und Palmöl im 19. Jh.", "Haupthafen für den Transport von versklavten Menschen aus dem Landesinneren.", "Beherbergt Reste von kolonialen Lagergebäuden und Kontoren.", "Strategischer Standort am Zusammenfluss von Kwanza und Lucala.", "Symbol für die Verbindung zwischen Küste und Hochland.", "Teil der Kulturlandschaft des Kwanza-Flussbeckens.", "Wird als potenzielles Welterbe-Projekt der Region Dondo betrachtet."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/dondo-river-port-history-v2.webp"},
   {
     id: "quibaxe-resistance-history-v2",
     type: "historical",
@@ -551,8 +801,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["A Dembos régió központja.", "Fontos szerepet játszott a felszabadító háborúban.", "Egykori portugál adminisztratív központ."],
       ro: ["Centrul regiunii Dembos.", "Rol important în războiul de eliberare.", "Fost centru administrativ portughez."],
       en: ["Center of the Dembos region.", "Played an important role in the war of liberation.", "Former Portuguese administrative center."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Quibaxe in der Provinz Kwanza Norte ist ein bedeutender Ort des Widerstands, der eine Schlüsselrolle während des angolanischen Unabhängigkeitskrieges spielte. Die Region Dembos, in der Quibaxe liegt, war bekannt für ihre dichten Wälder und ihre unbezwingbaren Krieger, die den kolonialen Streitkräften über Jahrzehnte trotzten. Die historische Stätte in Quibaxe erinnert an die Organisation der Guerilla-Kämpfe und die Mobilisierung der ländlichen Bevölkerung für die Freiheit. Es ist ein Ort des Stolzes, der die Verbindung zwischen der Natur des Geländes und der Entschlossenheit des angolanischen Volkes symbolisiert. Geschichte K8 — Guerillataktiken und ländlicher Widerstand.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Zentrum des Widerstands in der strategischen Dembos-Region.", "Schauplatz langjähriger antikolonialer Operationen.", "Bekannt für den heldenhaften Einsatz lokaler Kommandanten.", "Symbol für die Unbeugsamkeit des Nordens von Angola.", "Wird heute als Ort für die politische Bildung der Jugend genutzt.", "Teil des nationalen Netzwerks der Orte des Befreiungskampfes.", "Eingebettet in eine Region mit großer Kaffee- und Forstwirtschaft.", "Ein Denkmal für die Einheit zwischen Volk und Befreiungsarmee."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/quibaxe-resistance-history-v2.webp"},
   {
     id: "dombe-grande-history-v2",
     type: "historical",
@@ -575,8 +836,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Fontos gyarmati agrármarközpont.", "A cukorgyár romjai még láthatók.", "A Coporolo folyó közelében található."],
       ro: ["Important centru agricol colonial.", "Ruinele fabricii de zahăr sunt încă vizibile.", "Situat lângă râul Coporolo."],
       en: ["Important colonial agricultural center.", "Sugar factory ruins still visible.", "Located near the Coporolo River."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dombe Grande in der Provinz Benguela ist ein geschichtsträchtiger Ort, der eng mit der Entwicklung der angolanischen Agrarindustrie und der sozialen Struktur der Küstenzone verbunden ist. Hier befanden sich im 19. Jahrhundert einige der größten und technologisch fortschrittlichsten Zuckerrohrplantagen des Landes. Die Region war ein Zentrum für den Anbau von Rohstoffen für den Export und Schauplatz komplexer Interaktionen zwischen Siedlern und lokalen Gemeinschaften. Die verbliebenen historischen Strukturen, von Bewässerungskanälen bis zu Ruinen von Fabrikgebäuden, dokumentieren die wirtschaftliche Bedeutung der Region während der Kolonialzeit. Dombe Grande ist zudem reich an archäologischen Funden aus der Eisenzeit. Geschichte K8 — Agrargeschichte und regionale Wirtschaftssysteme.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Historisches Zentrum der Zucker- und Ethanolproduktion in Benguela.", "Region mit einer der ältesten dokumentierten Agrartraditionen Angolas.", "Bekannt für die Funde prähistorischer Artefakte im Coporolo-Tal.", "Symbol für den frühen industriellen Aufstieg des zentralen Küstenstreifens.", "Beherbergt Gräber und Monumente aus verschiedenen Epochen.", "Wichtiger Ort für das Verständnis der kolonialen Arbeitsmigration.", "Eingebettet in eine fruchtbare Oase inmitten ariderer Gebiete.", "Ein Ziel für akademische Exkursionen im Bereich Geschichte und Geographie."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/dombe-grande-history-v2.webp"},
   {
     id: "ngola-kiluanje-tombs-history-v2",
     type: "historical",
@@ -599,8 +871,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["A Ndongo uralkodók végső nyughelye.", "Az ország a 'Ngola' címből kapta a nevét.", "Kulturális rituálék fontos helyszíne."],
       ro: ["Locul de odihnă al conducătorilor Ndongo.", "Țara își derivă numele de la 'Ngola'.", "Loc important pentru ritualuri culturale."],
       en: ["Final resting place of the Ndongo rulers.", "The country derives its name from the 'Ngola'.", "Important site for cultural rituals."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Gräber von Ngola Kiluanje in der Provinz Malanje sind eine der heiligsten und historisch bedeutendsten Stätten Angolas. Sie beherbergen die sterblichen Überreste der legendären Herrscher des Königreichs Ndongo, darunter Ngola Kiluanje, der Vater von Königin Njinga Mbande. Die Stätte ist ein Zentrum der spirituellen Kraft und des kulturellen Stolzes, an dem die Traditionen der königlichen Ahnenpflege bis heute lebendig gehalten werden. Die Gräber sind nicht nur Grabmäler, sondern Symbole für die Beständigkeit afrikanischer Herrschaftssysteme und den Widerstand gegen die europäische Vorherrschaft. Sie gehören zum wertvollsten kulturellen Erbe der Nation. Geschichte K8 — Afrikanische Königreiche und Ahnenverehrung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Grabstätte der Gründerdynastie des Königreichs Ndongo.", "Einer der wichtigsten vorkolonialen Monumentalorte Angolas.", "Zentraler Punkt für das Verständnis der regionalen Geschichte des 16. Jhs.", "Wurde zum nationalen Monument von höchster Bedeutung erklärt.", "Befindet sich in der Region Pungo Andongo.", "Ort ritueller Zeremonien der heutigen traditionellen Autoritäten.", "Symbol für die Wurzeln der angolanischen Identität.", "Unterliegt besonderem Schutz durch das Kulturministerium."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/ngola-kiluanje-tombs-history-v2.webp"},
   {
     id: "cuangar-fort-history-v2",
     type: "historical",
@@ -623,8 +906,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["1914-ben német csapatok támadták meg (cuangari mészárlás).", "Namíbiával (volt Német Délnyugat-Afrika) határos.", "Fontos előőrs a dél ellenőrzésére."],
       ro: ["Atacat de trupele germane în 1914 (Masacrul de la Cuangar).", "Se învecinează cu Namibia (fostul Africa de Sud-Vest Germană).", "Avanpost important pentru controlul sudului."],
       en: ["Attacked by German troops in 1914 (Cuangar Massacre).", "Borders Namibia (formerly German South West Africa).", "Important outpost for controlling the south."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Fort von Cuangar in der Provinz Cuando Cubango ist ein bedeutendes Denkmal an der südöstlichen Grenze Angolas. Es wurde zu Beginn des 20. Jahrhunderts errichtet, um die portugiesische Präsenz gegenüber dem damaligen Deutsch-Südwestafrika (heute Namibia) zu markieren. Das Fort erlangte internationale Bekanntheit durch den 'Zwischenfall von Naulila' im Ersten Weltkrieg, bei dem es Schauplatz blutiger Kämpfe zwischen portugiesischen und deutschen Truppen war. Heute sind die Ruinen der Festung am Ufer des Kubango-Flusses ein stilles Zeugnis dieser globalen Konflikte auf afrikanischem Boden. Sie repräsentieren die schwierige Geschichte der Grenzziehung und der militärischen Auseinandersetzungen in der 'verlorenen Welt' Angolas. Geschichte K8 — Erster Weltkrieg in Afrika und Grenzkonflikte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1905 zur Grenzsicherung am Kubango.", "Ort schwerer Kämpfe während des Ersten Weltkriegs (1914).", "Eines der am weitesten abgelegenen Militärdenkmäler Angolas.", "Die Ruinen zeigen Einschusslöcher aus den historischen Gefechten.", "Wichtiges Symbol für die nationale Souveränität im Südosten.", "Wurde zum nationalen Kulturerbe der Republik Angola erklärt.", "Liegt direkt gegenüber der namibischen Siedlung Nkurenkuru.", "Bietet eine einzigartige Perspektive auf die Kolonialgeschichte der Region."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/cuangar-fort-history-v2.webp"},
   {
     id: "fort-rocadas-xangongo-history-v2",
     type: "historical",
@@ -647,8 +941,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Fontos szerepet játszott az ovambó felkelések idején.", "Xangongo korábban Vila Roçadas néven volt ismert.", "Stratégiai átkelő a Cunene folyón."],
       ro: ["Important în timpul revoltelor Ovambo.", "Xangongo s-a numit anterior Vila Roçadas.", "Trecere strategică peste râul Cunene."],
       en: ["Important during the Ovambo uprisings.", "Xangongo was formerly called Vila Roçadas.", "Strategic crossing over the Cunene River."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Fort Roçadas in Xangongo, Provinz Cunene, ist ein bedeutendes militärhistorisches Denkmal, das an die Kämpfe während der kolonialen 'Befriedungskampagnen' Anfang des 20. Jahrhunderts erinnert. Es wurde strategisch am Ufer des Cunene-Flusses errichtet, um die Grenze zu kontrollieren und den Widerstand des Kwanyama-Volkes zu brechen. Das Fort war Schauplatz heftiger Auseinandersetzungen und symbolisiert die gewaltsame koloniale Expansion im Süden Angolas. Die gut erhaltenen Mauern und die Architektur der Jahrhundertwende machen es heute zu einem wichtigen Ort für das Studium der Militärgeschichte und des afrikanischen Widerstands. Geschichte K8 — Grenzkonflikte und antikolonialer Widerstand.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1906 während der Feldzüge im Süden.", "Benannt nach dem portugiesischen General Alves Roçadas.", "Wichtiger Posten zur Überwachung der Cunene-Furt.", "Symbol für den Widerstand des Kwanyama-Königs Mandume ya Ndemufayo.", "Beherbergt heute Gedenktafeln und historische Informationen.", "Ein nationales Monument der Provinz Cunene.", "Zeigt typische Merkmale der späten kolonialen Verteidigungsarchitektur.", "Ort des Gedenkens an die Opfer der Grenzkriege."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/fort-rocadas-xangongo-history-v2.webp"},
   {
     id: "benguela-railway-monument-history-v2",
     type: "historical",
@@ -671,8 +976,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Az építkezés 1903-ban kezdődött.", "Összeköti az Atlanti-óceánt a Rézövvel.", "Sir Robert Williams kezdeményezte."],
       ro: ["Construcția a început în 1903.", "Conectează Oceanul Atlantic de Centura de Cupru.", "A fost inițiată de Sir Robert Williams."],
       en: ["Construction began in 1903.", "Connects the Atlantic to the Copperbelt.", "Was initiated by Sir Robert Williams."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Denkmal der Benguela-Eisenbahn (CFB) in Lobito erinnert an den Bau einer der wichtigsten Infrastrukturen des afrikanischen Kontinents. Zu Beginn des 20. Jahrhunderts begonnen, verband die Bahnlinie die Atlantikküste mit den reichen Bergbauregionen Zentralafrikas. Das Denkmal ehrt die Ingenieure und tausenden Arbeiter, die unter extremen Bedingungen dieses Mammutprojekt vollendeten. Die Eisenbahn war der Motor für den wirtschaftlichen Aufstieg von Städten wie Huambo und Lobito. Heute symbolisiert das Monument den Stolz auf die technologische Leistung und die zentrale Rolle Angolas als Transitland für den internationalen Handel. Geschichte K8 — Industriegeschichte und Eisenbahnbau.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erinnert an den Bau der Bahnlinie zwischen 1903 und 1929.", "Lobito war der maritime Ausgangspunkt der über 1300 km langen Strecke.", "Die Bahnlinie wurde maßgeblich von Sir Robert Williams initiiert.", "Wichtigster Transportweg für Kupfer und Kobalt aus dem Copperbelt.", "Wurde nach dem Bürgerkrieg mit internationaler Hilfe rehabilitiert.", "Befindet sich in unmittelbarer Nähe zum historischen Bahnhof von Lobito.", "Symbol für die wirtschaftliche Integration des südlichen Afrikas.", "Teil des kulturellen Erbes der Provinz Benguela."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/benguela-railway-monument-history-v2.webp"},
   {
     id: "iron-palace-kuito-history-v2",
     type: "historical",
@@ -695,8 +1011,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Kuitót 1993 és 1994 között ostromolták.", "Az 'angolai Sztálingrádnak' is nevezik.", "A város szinte teljesen megsemmisült."],
       ro: ["Kuito a fost asediat între 1993 și 1994.", "Considerat 'Stalingradul angolez'.", "Orașul a fost aproape complet distrus."],
       en: ["Kuito was besieged from 1993 to 1994.", "Considered the 'Angolan Stalingrad'.", "The city was almost completely destroyed."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Eisenpalast in Kuito (Palácio de Ferro) ist ein außergewöhnliches architektonisches Erbe in der Provinz Bié, das an die industrielle Blütezeit der Jahrhundertwende erinnert. Ähnlich wie sein bekannterer Namensvetter in Luanda besteht dieses Gebäude fast vollständig aus vorgefertigten Eisenteilen, was für das Landesinnere Angolas im frühen 20. Jahrhundert eine technologische Sensation darstellt. Der Palast diente als administratives Zentrum und Residenz in der strategisch wichtigen Stadt Kuito (ehemals Silva Porto). Trotz der Zerstörungen durch die heftigen Kämpfe in Kuito während des Bürgerkriegs bleibt der Palast ein Symbol für den einstigen Glanz und den Willen zum Wiederaufbau im zentralen Hochland. Geschichte K8 — Industriearchitektur und koloniale Verwaltung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Eines der seltenen Beispiele für Metallbaukunst im Binnenland.", "Wurde Anfang des 20. Jahrhunderts als repräsentatives Gebäude errichtet.", "Symbol für die Bedeutung von Kuito als Zentrum der Benguela-Eisenbahn.", "Erlebte einige der schwersten Belagerungen in der Geschichte Angolas.", "Teil eines Programms zur Restaurierung historischer Zentren.", "Zeugnis der globalen Handelsverbindungen für Baustoffe um 1900.", "Ein Wahrzeichen für den Stolz der Bevölkerung der Provinz Bié.", "Befindet sich in einer Zone intensiven kulturellen Wiederaufbaus."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/iron-palace-kuito-history-v2.webp"},
   {
     id: "cabinda-fort-history-v2",
     type: "historical",
@@ -719,6 +1046,19 @@ export const poiExtraAngolaHistoryV2: POI[] = [
       hu: ["Biztosította Portugália igényét a területre.", "Stratégiai pont a Kongó folyó kereskedelmében.", "Afrika felosztásának tanúja."],
       ro: ["A asigurat revendicarea Portugaliei asupra teritoriului.", "Punct strategic pentru comerțul pe râul Congo.", "Mărturie a împărțirii Africii."],
       en: ["Secured Portugal's claim to the territory.", "Strategic point for trade on the Congo River.", "Testament to the Scramble for Africa."]
+    },
+    descriptionAdvanced: {
+      de: "Das Fort von Cabinda ist ein historisches Verteidigungsbauwerk, das die strategische Bedeutung der Exklave während der Kolonialzeit unterstreicht. Es wurde errichtet, um die portugiesischen Interessen an der Mündung des Kongo-Flusses gegen konkurrierende europäische Mächte zu sichern. Das Fort diente als administrativer Sitz und Militärgarnison und war ein zentraler Punkt für die Kontrolle der Handelsrouten an der Atlantikküste. Die Architektur zeigt klassische Merkmale der portugiesischen Militärbaukunst des 19. Jahrhunderts. Heute ist die Festung ein geschütztes Denkmal, das an die komplexen diplomatischen und militärischen Auseinandersetzungen um das Territorium von Cabinda erinnert. Geschichte K8 — Koloniale Konkurrenz und Militärgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 19. Jahrhundert zur Grenzsicherung im Norden.", "Wichtigstes militärhistorisches Gebäude in der Stadt Cabinda.", "Beispiel für die Befestigung strategischer Handelsposten.", "Bietet eine weite Sicht über den Atlantik und die Hafenanlagen.", "Wurde 2014 in die Liste des nationalen Kulturerbes aufgenommen.", "Diente zeitweise als administratives Zentrum der Provinz Cabinda.", "In den Mauern befinden sich historische Inschriften und Kanonen.", "Zentraler Punkt für stadtgeschichtliche Führungen."],
+      hu: [],
+      ro: [],
+      en: []
     }
+
   }
 ];

@@ -106,7 +106,7 @@ export const frQuizTasks: QuizTask[] = [
       en: "Which city is NOT on the Mediterranean coast? Click on it!",
     },
     // Marseille, Nice, Cannes, Montpellier are on the Mediterranean; Bordeaux is on the Atlantic
-    optionPoiIds: ["marseille", "nice", "cannes", "fr-montpellier", "fr-bordeaux"],
+    optionPoiIds: ["fr-marseille", "fr-nice", "fr-cannes", "fr-montpellier", "fr-bordeaux"],
     wrongPoiId: "fr-bordeaux",
   },
   {
@@ -119,8 +119,8 @@ export const frQuizTasks: QuizTask[] = [
       en: "Which city is NOT in northern France? Click on it!",
     },
     // Paris, Lille, Reims, Rouen are in northern France; Nice is in the south (Côte d'Azur)
-    optionPoiIds: ["paris", "lille", "reims", "fr-rouen", "nice"],
-    wrongPoiId: "nice",
+    optionPoiIds: ["fr-paris", "fr-lille", "fr-reims", "fr-rouen", "fr-nice"],
+    wrongPoiId: "fr-nice",
   },
 
   // --- 1 × order_by ---
@@ -134,7 +134,7 @@ export const frQuizTasks: QuizTask[] = [
       en: "Click the cities from west to east: Bordeaux → Lyon → Strasbourg!",
     },
     // Bordeaux (-0.58°), Lyon (4.84°), Strasbourg (7.75°) — west to east
-    orderedPoiIds: ["fr-bordeaux", "lyon", "strasbourg"],
+    orderedPoiIds: ["fr-bordeaux", "fr-lyon", "fr-strasbourg"],
     orderBy: "west_to_east",
   },
 ];

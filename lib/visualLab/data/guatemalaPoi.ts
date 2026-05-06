@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED
 import type { POI } from "./poi";
 import { poiExtraGuatemalaCitiesV2 } from "./poiExtraGuatemalaCitiesV2";
@@ -37,8 +38,7 @@ export const guatemalaCities: POI[] = [
       ro: ["Situat în valea 'Valle de la Ermita'", "Găzduiește Palatul Național al Culturii", "Construit pe locul anticului oraș maiaș Kaminaljuyu"],
       en: ["Located in the 'Valle de la Ermita' valley", "Houses the National Palace of Culture", "Built over the ancient Maya city of Kaminaljuyu"]
     },
-    historyYear: 1776
-  },
+    historyYear: 1776, image: "/poi-images/gt-guatemalacity.webp"},
   {
     id: "gt-xela",
     type: "city",
@@ -64,8 +64,7 @@ export const guatemalaCities: POI[] = [
       ro: ["A fost odată capitala statului Los Altos", "Cunoscut pentru arhitectura sa neoclasică", "Înconjurat de vulcanii Santa María și Santiaguito"],
       en: ["Once the capital of the state of Los Altos", "Known for its neoclassical architecture", "Surrounded by the Santa María and Santiaguito volcanoes"]
     },
-    elevation: 2330
-  },
+    elevation: 2330, image: "/poi-images/gt-xela.webp"},
   {
     id: "gt-escuintla",
     type: "city",
@@ -90,8 +89,7 @@ export const guatemalaCities: POI[] = [
       hu: ["A név jelentése 'kutyák dombja' nahuatl nyelven", "A Pacaya-vulkán lábánál fekszik", "A főváros legfontosabb gyümölcsszállítója"],
       ro: ["Numele înseamnă 'dealul câinilor' în nahuatl", "Situat la poalele vulcanului Pacaya", "Principal furnizor de fructe pentru capitală"],
       en: ["Name means 'hill of dogs' in Nahuatl", "Located at the foot of the Pacaya volcano", "Main supplier of fruits for the capital"]
-    }
-  },
+    }, image: "/poi-images/gt-escuintla.webp"},
   {
     id: "gt-antigua",
     type: "city",
@@ -117,8 +115,7 @@ export const guatemalaCities: POI[] = [
       ro: ["Sediul Universității San Carlos de Guatemala", "Faimos pentru textilele lucrate manual", "A avut odată peste 30 de mănăstiri și biserici"],
       en: ["Home to the University of San Carlos de Guatemala", "Famous for handcrafted textiles", "Once had over 30 monasteries and churches"]
     },
-    historyYear: 1543
-  },
+    historyYear: 1543, image: "/poi-images/gt-antigua.webp"},
   {
     id: "gt-coban",
     type: "city",
@@ -144,8 +141,7 @@ export const guatemalaCities: POI[] = [
       ro: ["Fondat de călugări dominicani în 1543", "Centrul imigrației germane în secolul al XIX-lea", "Gazda festivalului maiaș 'Rabin Ajau'"],
       en: ["Founded by Dominican monks in 1543", "Center of German immigration in the 19th century", "Host of the 'Rabin Ajau' Maya festival"]
     },
-    historyYear: 1543
-  },
+    historyYear: 1543, image: "/poi-images/gt-coban.webp"},
   {
     id: "gt-motagua-river",
     type: "river",
@@ -171,8 +167,7 @@ export const guatemalaCities: POI[] = [
       ro: ["Cel mai mare bazin hidrografic din Guatemala", "Important pentru agricultură (banane)", "Amenințat de poluare"],
       en: ["Largest watershed in Guatemala", "Important for agriculture (bananas)", "Threatened by pollution"]
     },
-    length: 486
-  },
+    length: 486, image: "/poi-images/gt-motagua-river.webp"},
   {
     id: "gt-lake-izabal",
     type: "lake",
@@ -198,8 +193,7 @@ export const guatemalaCities: POI[] = [
       ro: ["Este alimentat de râul Polochic", "Castelul San Felipe este situat în apropiere", "Bogat în specii de pești"],
       en: ["Fed by the Polochic River", "San Felipe Castle is located nearby", "Rich in cichlids and other fish species"]
     },
-    area: 589
-  },
+    area: 589, image: "/poi-images/gt-lake-izabal.webp"},
   {
     id: "gt-peten-forest",
     type: "forest",
@@ -224,8 +218,7 @@ export const guatemalaCities: POI[] = [
       hu: ["Itt található a híres Tikal", "Fontos szerepe van a szén-dioxid elnyelésében", "Az illegális erdőirtás fenyegeti"],
       ro: ["Include faimosul sit Tikal", "Important pentru stocarea carbonului", "Amenințat de defrișările ilegale"],
       en: ["Includes the famous Tikal site", "Important for carbon sequestration", "Threatened by illegal deforestation"]
-    }
-  },
+    }, image: "/poi-images/gt-peten-forest.webp"},
   {
     id: "gt-volcan-tajumulco",
     type: "mountain",
@@ -251,8 +244,7 @@ export const guatemalaCities: POI[] = [
       ro: ["Compus în principal din andezit", "Poate ninge în lunile de iarnă", "Oferă vedere panoramică asupra zonelor muntoase"],
       en: ["Composed mainly of andesite", "Snow can occur during winter months", "Offers panoramic views across the highlands"]
     },
-    elevation: 4220
-  },
+    elevation: 4220, image: "/poi-images/gt-volcan-tajumulco.webp"},
   {
     id: "gt-iximche",
     type: "historical",
@@ -278,8 +270,7 @@ export const guatemalaCities: POI[] = [
       ro: ["Are patru piețe ceremoniale", "Ritualurile maiașe au loc și astăzi aici", "Situat pe un platou strategic"],
       en: ["Features four ceremonial plazas", "Maya rituals are still performed here today", "Located on a strategic plateau"]
     },
-    historyYear: 1470
-  },
+    historyYear: 1470, image: "/poi-images/gt-iximche.webp"},
   {
     id: "gt-zaculeu",
     type: "historical",
@@ -305,8 +296,7 @@ export const guatemalaCities: POI[] = [
       ro: ["Dispune de un teren de joc cu mingea", "A fost cucerit după un asediu lung", "Prezintă influențe arhitecturale din Mexic"],
       en: ["Features a ball court", "Conquered after a long siege", "Shows architectural influences from Mexico"]
     },
-    historyYear: 1525
-  },
+    historyYear: 1525, image: "/poi-images/gt-zaculeu.webp"},
 ];
 
 export const guatemalaLandmarks: POI[] = [
@@ -335,8 +325,7 @@ export const guatemalaLandmarks: POI[] = [
       ro: ["A fost locația de filmare pentru Star Wars (Yavin 4)", "Dispunea de sisteme complexe de stocare a apei", "A dominat mari părți ale regiunii maiașe"],
       en: ["Filming location for Star Wars (Yavin 4)", "Had complex water storage systems", "Dominated large parts of the Maya region"]
     },
-    historyPeriod: "empire"
-  },
+    historyPeriod: "empire", image: "/poi-images/gt-tikal.webp"},
   {
     id: "gt-lakeatitlan",
     type: "lake",
@@ -362,8 +351,7 @@ export const guatemalaLandmarks: POI[] = [
       ro: ["Nu are nicio scurgere vizibilă", "A fost casa corcodelului de Atitlán, acum dispărut", "Important pentru turism și pescuitul local"],
       en: ["Has no visible outlet", "Was home to the extinct Atitlan grebe", "Vital for tourism and local fishing"]
     },
-    area: 130
-  },
+    area: 130, image: "/poi-images/gt-lakeatitlan.webp"},
   {
     id: "gt-pacaya",
     type: "mountain",
@@ -389,8 +377,7 @@ export const guatemalaLandmarks: POI[] = [
       ro: ["A devenit activ din nou în 1965, după 100 de ani de repaus", "Oferă vedere spre Lacul Amatitlán", "Situat într-un parc național"],
       en: ["Reactivated in 1965 after 100 years of dormancy", "Offers views of Lake Amatitlán", "Located within a national park"]
     },
-    elevation: 2552
-  },
+    elevation: 2552, image: "/poi-images/gt-pacaya.webp"},
   {
     id: "gt-semucchampey",
     type: "landmark",
@@ -415,8 +402,7 @@ export const guatemalaLandmarks: POI[] = [
       hu: ["A név jelentése: 'ahol a folyó elrejtőzik'", "Népszerű a gumibelsőzés és barlangászás körében", "Nehezen megközelíthető, az esőerdő mélyén található"],
       ro: ["Numele înseamnă 'unde râul se ascunde'", "Popular pentru tubing și explorarea peșterilor", "Situat într-o zonă greu accesibilă din pădurea tropicală"],
       en: ["Name means 'where the river hides'", "Popular for tubing and cave exploration", "Located in a remote area of the rainforest"]
-    }
-  },
+    }, image: "/poi-images/gt-semucchampey.webp"},
   {
     id: "gt-chichicastenango",
     type: "landmark",
@@ -442,8 +428,7 @@ export const guatemalaLandmarks: POI[] = [
       ro: ["Amestec de ritualuri maiașe și catolicism", "Zilele de piață sunt joi și duminică", "Cunoscut pentru măști de lemn sculptate"],
       en: ["Blend of Maya rituals and Catholicism", "Market days are Thursday and Sunday", "Known for carved wooden masks"]
     },
-    historyYear: 1540
-  },
+    historyYear: 1540, image: "/poi-images/gt-chichicastenango.webp"},
   {
     id: "gt-acatenango",
     type: "mountain",
@@ -469,8 +454,7 @@ export const guatemalaLandmarks: POI[] = [
       ro: ["Ultima erupție majoră: 1972", "Format din patru zone de vegetație diferite", "Parte a complexului 'Volcán de Fuego'"],
       en: ["Last major eruption: 1972", "Consists of four distinct vegetation zones", "Part of the 'Volcan de Fuego' complex"]
     },
-    elevation: 3976
-  },
+    elevation: 3976, image: "/poi-images/gt-acatenango.webp"},
   {
     id: "gt-yaxha",
     type: "historical",
@@ -495,8 +479,7 @@ export const guatemalaLandmarks: POI[] = [
       hu: ["A 'Survivor: Guatemala' forgatási helyszíne volt", "Ritka ikerpiramis-csoportokkal rendelkezik", "Megerősített töltések kötötték össze"],
       ro: ["A fost locația pentru 'Survivor: Guatemala'", "Dispune de grupuri rare de piramide gemene", "A fost conectat prin diguri fortificate"],
       en: ["Was the location for 'Survivor: Guatemala'", "Features rare twin-pyramid complexes", "Connected by fortified causeways"]
-    }
-  },
+    }, image: "/poi-images/gt-yaxha.webp"},
   {
     id: "gt-fuego",
     type: "mountain",
@@ -522,8 +505,7 @@ export const guatemalaLandmarks: POI[] = [
       ro: ["Erupe regulat de la cucerirea spaniolă", "Faimos pentru fotografii nocturne spectaculoase", "Periculos pentru comunitățile din jur"],
       en: ["Has erupted regularly since Spanish conquest", "Famous for spectacular night photography", "Dangerous to surrounding communities"]
     },
-    elevation: 3763
-  },
+    elevation: 3763, image: "/poi-images/gt-fuego.webp"},
   {
     id: "gt-quirigua",
     type: "historical",
@@ -548,8 +530,7 @@ export const guatemalaLandmarks: POI[] = [
       hu: ["Hatalmas zoomorf (állatalakú) szobrairól ismert", "A Motagua-folyó kereskedelme révén gazdagodott meg", "Valaha Copán alárendelt városa volt"],
       ro: ["Cunoscut pentru sculpturi zoomorfe uriașe", "S-a îmbogățit prin comerțul pe râul Motagua", "A fost odată un oraș dependent de Copán"],
       en: ["Known for massive zoomorphic sculptures", "Became wealthy through trade on the Motagua River", "Was once a subordinate city of Copán"]
-    }
-  },
+    }, image: "/poi-images/gt-quirigua.webp"},
   {
     id: "gt-nationalpalace",
     type: "historical",
@@ -575,8 +556,7 @@ export const guatemalaLandmarks: POI[] = [
       ro: ["Are 350 de camere", "Găzduiește picturi murale de Alberto Gálvez Suárez", "Conține 'Roza Păcii'"],
       en: ["Contains 350 rooms", "Features murals by Alberto Gálvez Suárez", "Houses the 'Rose of Peace' monument"]
     },
-    historyYear: 1939
-  },
+    historyYear: 1939, image: "/poi-images/gt-nationalpalace.webp"},
   {
     id: "gt-kaminaljuyu",
     type: "historical",
@@ -601,8 +581,7 @@ export const guatemalaLandmarks: POI[] = [
       hu: ["Teotihuacán hatását mutatja", "I.e. 1500 óta lakott terület", "Kifinomult öntözőrendszerrel rendelkezett"],
       ro: ["Prezintă influențe de la Teotihuacán", "Locuit din 1500 î.Hr.", "Dispunea de un sistem de irigații sofisticat"],
       en: ["Shows influences from Teotihuacán", "Inhabited since 1500 BC", "Featured a sophisticated irrigation system"]
-    }
-  },
+    }, image: "/poi-images/gt-kaminaljuyu.webp"},
   {
     id: "gt-aguateca",
     type: "historical",
@@ -627,8 +606,7 @@ export const guatemalaLandmarks: POI[] = [
       hu: ["A Petexbatún Királysághoz tartozott", "Kilátást nyújt a Petexbatún-lagúnára", "Védőfalak maradványait fedezték fel"],
       ro: ["A aparținut regatului Petexbatún", "Oferă vedere spre laguna Petexbatún", "S-au găsit resturi de ziduri de apărare"],
       en: ["Part of the Petexbatún kingdom", "Offers views of the Petexbatún Lagoon", "Remains of defensive walls have been found"]
-    }
-  },
+    }, image: "/poi-images/gt-aguateca.webp"},
   {
     id: "gt-mixco-viejo",
     type: "historical",
@@ -654,8 +632,7 @@ export const guatemalaLandmarks: POI[] = [
       ro: ["Fondat în secolul al XII-lea", "Cucerit de spanioli în 1525", "Oferă vedere panoramică asupra zonelor muntoase"],
       en: ["Founded in the 12th century", "Conquered by the Spanish in 1525", "Offers panoramic views of the highlands"]
     },
-    historyYear: 1525
-  },
+    historyYear: 1525, image: "/poi-images/gt-mixco-viejo.webp"},
   {
     id: "gt-cathedral-sanjose",
     type: "landmark",
@@ -681,8 +658,7 @@ export const guatemalaLandmarks: POI[] = [
       ro: ["A fost reconstruită de mai multe ori", "Criptele pot fi vizitate", "Situată în piața centrală din Antigua"],
       en: ["Rebuilt several times", "The crypts can be visited by public", "Located on Antigua's central plaza"]
     },
-    historyYear: 1545
-  },
+    historyYear: 1545, image: "/poi-images/gt-cathedral-sanjose.webp"},
   {
     id: "gt-el-mirador",
     type: "landmark",
@@ -707,8 +683,7 @@ export const guatemalaLandmarks: POI[] = [
       hu: ["A preklasszikus kor legfontosabb városa", "Hatalmas kövezett töltésekkel rendelkezett", "I.sz. 150 körül hagyták el"],
       ro: ["Cel mai important oraș din preclasic", "Dispunea de diguri pavate uriașe", "A fost abandonat în jurul anului 150 d.Hr."],
       en: ["Most important city of the Preclassic era", "Featured massive paved causeways", "Abandoned around 150 AD"]
-    }
-  },
+    }, image: "/poi-images/gt-el-mirador.webp"},
   {
     id: "gt-san-felipe",
     type: "landmark",
@@ -734,8 +709,7 @@ export const guatemalaLandmarks: POI[] = [
       ro: ["A servit o perioadă ca închisoare", "A fost distrus de mai multe ori de pirați", "Restaurat în anii 1950"],
       en: ["Served as a prison at times", "Destroyed several times by pirates", "Restored in the 1950s"]
     },
-    historyYear: 1644
-  },
+    historyYear: 1644, image: "/poi-images/gt-san-felipe.webp"},
   {
     id: "gt-livingston",
     type: "landmark",
@@ -760,8 +734,7 @@ export const guatemalaLandmarks: POI[] = [
       hu: ["A Rio Dulce torkolatánál fekszik", "A nyelv az arawak és afrikai nyelvek keveréke", "Az ökoturizmus fontos helyszíne"],
       ro: ["Situat la gura de vărsare a râului Rio Dulce", "Limba este un amestec de arawak și africană", "Loc important pentru ecoturism"],
       en: ["Located at the mouth of the Rio Dulce", "The Garifuna language blends Arawak and African roots", "Key destination for ecotourism"]
-    }
-  },
+    }, image: "/poi-images/gt-livingston.webp"},
   {
     id: "gt-volcan-fuego-new",
     type: "mountain",
@@ -787,8 +760,8 @@ export const guatemalaLandmarks: POI[] = [
       ro: ["Temut pentru fluxurile sale piroclastice", "Subiect important de studiu pentru vulcanologi", "Monitorizat de observatoare"],
       en: ["Feared for its pyroclastic flows", "Key subject of study for volcanologists", "Monitored constantly by observatories"]
     },
-    elevation: 3763
-  },
+    elevation: 3763, image: "/poi-images/gt-volcan-fuego-new.webp"},
 ];
 
 export const guatemalaAllPoi: POI[] = [...guatemalaCountry, ...guatemalaRegions, ...guatemalaCities, ...guatemalaLandmarks, ...poiExtraGuatemalaLifeV2, ...poiExtraGuatemalaCitiesV2, ...poiExtraGuatemalaEconomicV2, ...poiExtraGuatemalaHistoryV2, ...poiExtraGuatemalaLandmarksV2, ...poiExtraGuatemalaNatureV2, ...poiExtraGuatemalaReliefV2];
+

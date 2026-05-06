@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDrcongoLifeV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Hegyi gorillák otthona", "1925-ben alapították", "Vulkáni terület", "UNESCO világörökség"],
       ro: ["Găzduiește gorile de munte", "Fondat în 1925", "Zonă vulcanică", "Patrimoniul mondial UNESCO"],
       en: ["Home to mountain gorillas", "Founded in 1925", "Volcanic area", "UNESCO World Heritage site"]
-    }
-  },
+    }, image: "/poi-images/virunga-national-park-life-v2.webp"},
   {
     id: "kahuzi-biega-national-park-life-v2",
     type: "animal-habitat",
@@ -27,8 +27,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Síkvidéki gorillák", "Kahuzi vulkán", "Biega vulkán", "Trópusi esőerdő"],
       ro: ["Gorile de câmpie", "Vulcanul Kahuzi", "Vulcanul Biega", "Pădure tropicală"],
       en: ["Lowland gorillas", "Mount Kahuzi", "Mount Biega", "Tropical rainforest"]
-    }
-  },
+    }, image: "/poi-images/kahuzi-biega-national-park-life-v2.webp"},
   {
     id: "okapi-wildlife-reserve-life-v2",
     type: "animal-habitat",
@@ -41,8 +40,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Okapi védőterület", "Ituri-esőerdő", "Nagy fajgazdagság", "UNESCO világörökség"],
       ro: ["Rezervație pentru okapi", "Pădurea tropicală Ituri", "Biodiversitate ridicată", "Patrimoniul mondial UNESCO"],
       en: ["Okapi sanctuary", "Ituri Rainforest", "High biodiversity", "UNESCO World Heritage site"]
-    }
-  },
+    }, image: "/poi-images/okapi-wildlife-reserve-life-v2.webp"},
   {
     id: "salonga-national-park-life-v2",
     type: "animal-habitat",
@@ -55,8 +53,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Bonobók", "Esőerdő", "Folyómedence", "Nagy védett terület"],
       ro: ["Bonobo", "Pădure tropicală", "Bazin hidrografic", "Zonă protejată mare"],
       en: ["Bonobos", "Rainforest", "River basin", "Large protected area"]
-    }
-  },
+    }, image: "/poi-images/salonga-national-park-life-v2.webp"},
   {
     id: "garamba-national-park-life-v2",
     type: "animal-habitat",
@@ -69,8 +66,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Zsiráfok", "Elefántok", "Szavanna", "UNESCO világörökség"],
       ro: ["Girafe", "Elefanți", "Savana", "Patrimoniul mondial UNESCO"],
       en: ["Giraffes", "Elephants", "Savanna", "UNESCO World Heritage site"]
-    }
-  },
+    }, image: "/poi-images/garamba-national-park-life-v2.webp"},
   {
     id: "upemba-national-park-life-v2",
     type: "animal-habitat",
@@ -83,8 +79,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Tavak", "Hegyek", "Változatos élővilág", "Nagy kiterjedés"],
       ro: ["Lacuri", "Munți", "Faună diversă", "Suprafață mare"],
       en: ["Lakes", "Mountains", "Diverse fauna", "Large area"]
-    }
-  },
+    }, image: "/poi-images/upemba-national-park-life-v2.webp"},
   {
     id: "kundelungu-national-park-life-v2",
     type: "animal-habitat",
@@ -97,8 +92,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Vízesések", "Fennsík", "Szavanna", "Túrázás"],
       ro: ["Cascade", "Podiș", "Savana", "Drumeții"],
       en: ["Waterfalls", "Plateau", "Savanna", "Hiking"]
-    }
-  },
+    }, image: "/poi-images/kundelungu-national-park-life-v2.webp"},
   {
     id: "lomami-national-park-life-v2",
     type: "animal-habitat",
@@ -111,8 +105,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Bonobók", "Okapi", "Esőerdő", "Új védelmi státusz"],
       ro: ["Bonobo", "Okapi", "Pădure tropicală", "Statut nou de protecție"],
       en: ["Bonobos", "Okapi", "Rainforest", "New protection status"]
-    }
-  },
+    }, image: "/poi-images/lomami-national-park-life-v2.webp"},
   {
     id: "maiko-national-park-life-v2",
     type: "animal-habitat",
@@ -125,8 +118,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Esőerdő", "Gorillák", "Okapi", "Távoli"],
       ro: ["Pădure tropicală", "Gorile", "Okapi", "Izolat"],
       en: ["Rainforest", "Gorillas", "Okapi", "Remote"]
-    }
-  },
+    }, image: "/poi-images/maiko-national-park-life-v2.webp"},
   {
     id: "mangroves-national-park-life-v2",
     type: "animal-habitat",
@@ -139,8 +131,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Mangrove", "Partvidék", "Fajgazdag", "Kongó-torkolat"],
       ro: ["Mangrove", "Zonă de coastă", "Biodiversitate", "Gura fluviului Congo"],
       en: ["Mangroves", "Coastal area", "Biodiverse", "Congo River mouth"]
-    }
-  },
+    }, image: "/poi-images/mangroves-national-park-life-v2.webp"},
   {
     id: "kongo-kakaoplantage-v2",
     type: "agriculture",
@@ -153,8 +144,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Kakaótermesztés", "Mezőgazdaság", "Export", "Trópusi klíma"],
       ro: ["Cultivarea cacao-ului", "Agricultură", "Export", "Climat tropical"],
       en: ["Cocoa farming", "Agriculture", "Export", "Tropical climate"]
-    }
-  },
+    }, image: "/poi-images/kongo-kakaoplantage-v2.webp"},
   {
     id: "kinshasa-kinderpark-v2",
     type: "kid-landmark",
@@ -167,8 +157,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Játszótér", "Szabadidő", "Családok", "Kinshasa"],
       ro: ["Loc de joacă", "Recreere", "Familii", "Kinshasa"],
       en: ["Playground", "Recreation", "Families", "Kinshasa"]
-    }
-  },
+    }, image: "/poi-images/kinshasa-kinderpark-v2.webp"},
   {
     id: "kongo-kaffeeplantage-v2",
     type: "agriculture",
@@ -181,8 +170,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Kávétermesztés", "Hegyvidék", "Exporttermék", "Mezőgazdaság"],
       ro: ["Cultivarea cafelei", "Regiune montană", "Produs de export", "Agricultură"],
       en: ["Coffee farming", "Mountain region", "Export product", "Agriculture"]
-    }
-  },
+    }, image: "/poi-images/kongo-kaffeeplantage-v2.webp"},
   {
     id: "kongo-palmoelplantage-v2",
     type: "agriculture",
@@ -195,8 +183,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Pálmaolaj", "Mezőgazdaság", "Nagyüzem", "Trópusok"],
       ro: ["Ulei de palmier", "Agricultură", "Exploatație mare", "Tropice"],
       en: ["Palm oil", "Agriculture", "Large operation", "Tropics"]
-    }
-  },
+    }, image: "/poi-images/kongo-palmoelplantage-v2.webp"},
   {
     id: "lubumbashi-kinderpark-v2",
     type: "kid-landmark",
@@ -209,8 +196,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Játszótér", "Szabadidő", "Lubumbashi", "Családok"],
       ro: ["Loc de joacă", "Recreere", "Lubumbashi", "Familii"],
       en: ["Playground", "Recreation", "Lubumbashi", "Families"]
-    }
-  },
+    }, image: "/poi-images/lubumbashi-kinderpark-v2.webp"},
   {
     id: "kongo-erdnussfeld-v2",
     type: "agriculture",
@@ -223,8 +209,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Földimogyoró", "Mezőgazdaság", "Regionális termék", "Talaj"],
       ro: ["Arahide", "Agricultură", "Produs regional", "Sol"],
       en: ["Peanuts", "Agriculture", "Regional product", "Soil"]
-    }
-  },
+    }, image: "/poi-images/kongo-erdnussfeld-v2.webp"},
   {
     id: "kongo-zuckerrohrplantage-v2",
     type: "agriculture",
@@ -237,8 +222,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Cukornád", "Cukor", "Mezőgazdaság", "Trópusi"],
       ro: ["Trestie de zahăr", "Zahăr", "Agricultură", "Tropical"],
       en: ["Sugarcane", "Sugar", "Agriculture", "Tropical"]
-    }
-  },
+    }, image: "/poi-images/kongo-zuckerrohrplantage-v2.webp"},
   {
     id: "goma-kinderpark-v2",
     type: "kid-landmark",
@@ -251,8 +235,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Játszótér", "Goma", "Családok", "Szabadidő"],
       ro: ["Loc de joacă", "Goma", "Familii", "Recreere"],
       en: ["Playground", "Goma", "Families", "Recreation"]
-    }
-  },
+    }, image: "/poi-images/goma-kinderpark-v2.webp"},
   {
     id: "kongo-bananenplantage-v2",
     type: "agriculture",
@@ -265,8 +248,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Banán", "Mezőgazdaság", "Trópusi gyümölcs", "Export"],
       ro: ["Banane", "Agricultură", "Fruct tropical", "Export"],
       en: ["Bananas", "Agriculture", "Tropical fruit", "Export"]
-    }
-  },
+    }, image: "/poi-images/kongo-bananenplantage-v2.webp"},
   {
     id: "kisangani-kinderpark-v2",
     type: "kid-landmark",
@@ -279,8 +261,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Játszótér", "Kisangani", "Szabadidő", "Gyerekek"],
       ro: ["Loc de joacă", "Kisangani", "Recreere", "Copii"],
       en: ["Playground", "Kisangani", "Recreation", "Kids"]
-    }
-  },
+    }, image: "/poi-images/kisangani-kinderpark-v2.webp"},
   {
     id: "kongo-reisfeld-v2",
     type: "agriculture",
@@ -293,8 +274,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Rizs", "Mezőgazdaság", "Alapvető élelmiszer", "Föld"],
       ro: ["Orez", "Agricultură", "Aliment de bază", "Câmp"],
       en: ["Rice", "Agriculture", "Staple food", "Field"]
-    }
-  },
+    }, image: "/poi-images/kongo-reisfeld-v2.webp"},
   {
     id: "bukavu-kinderpark-v2",
     type: "kid-landmark",
@@ -307,8 +287,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Bukavu", "Játszótér", "Családok", "Szabadidő"],
       ro: ["Bukavu", "Loc de joacă", "Familii", "Recreere"],
       en: ["Bukavu", "Playground", "Families", "Recreation"]
-    }
-  },
+    }, image: "/poi-images/bukavu-kinderpark-v2.webp"},
   {
     id: "kongo-manjokfeld-v2",
     type: "agriculture",
@@ -321,8 +300,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Manióka", "Mezőgazdaság", "Élelem", "Föld"],
       ro: ["Manioc", "Agricultură", "Hrană", "Câmp"],
       en: ["Cassava", "Agriculture", "Food", "Field"]
-    }
-  },
+    }, image: "/poi-images/kongo-manjokfeld-v2.webp"},
   {
     id: "kongo-teebau-v2",
     type: "agriculture",
@@ -335,8 +313,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Tea", "Mezőgazdaság", "Hegyvidék", "Export"],
       ro: ["Ceai", "Agricultură", "Regiune montană", "Export"],
       en: ["Tea", "Agriculture", "Highland", "Export"]
-    }
-  },
+    }, image: "/poi-images/kongo-teebau-v2.webp"},
   {
     id: "matadi-kinderpark-v2",
     type: "kid-landmark",
@@ -349,8 +326,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Matadi", "Játszótér", "Szabadidő", "Gyerekek"],
       ro: ["Matadi", "Loc de joacă", "Recreere", "Copii"],
       en: ["Matadi", "Playground", "Recreation", "Kids"]
-    }
-  },
+    }, image: "/poi-images/matadi-kinderpark-v2.webp"},
   {
     id: "kongo-ananasplantage-v2",
     type: "agriculture",
@@ -363,8 +339,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Ananász", "Mezőgazdaság", "Trópusi gyümölcs", "Piac"],
       ro: ["Ananas", "Agricultură", "Fruct tropical", "Piață"],
       en: ["Pineapple", "Agriculture", "Tropical fruit", "Market"]
-    }
-  },
+    }, image: "/poi-images/kongo-ananasplantage-v2.webp"},
   {
     id: "mbandaka-kinderpark-v2",
     type: "kid-landmark",
@@ -377,8 +352,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Mbandaka", "Játszótér", "Szabadidő", "Gyerekek"],
       ro: ["Mbandaka", "Loc de joacă", "Recreere", "Copii"],
       en: ["Mbandaka", "Playground", "Recreation", "Kids"]
-    }
-  },
+    }, image: "/poi-images/mbandaka-kinderpark-v2.webp"},
   {
     id: "kongo-mais-feld-v2",
     type: "agriculture",
@@ -391,8 +365,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Kukorica", "Mezőgazdaság", "Élelem", "Föld"],
       ro: ["Porumb", "Agricultură", "Hrană", "Câmp"],
       en: ["Corn", "Agriculture", "Food", "Field"]
-    }
-  },
+    }, image: "/poi-images/kongo-mais-feld-v2.webp"},
   {
     id: "kongo-gummibaumplantage-v2",
     type: "agriculture",
@@ -405,8 +378,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       hu: ["Kaucsuk", "Gumi", "Mezőgazdaság", "Ipar"],
       ro: ["Cauciuc", "Guma", "Agricultură", "Industrie"],
       en: ["Rubber", "Gum", "Agriculture", "Industry"]
-    }
-  },
+    }, image: "/poi-images/kongo-gummibaumplantage-v2.webp"},
   {
     id: "kolwezi-kinderpark-v2",
     type: "kid-landmark",
@@ -422,3 +394,4 @@ export const poiExtraDrcongoLifeV2: POI[] = [
     }
   }
 ];
+

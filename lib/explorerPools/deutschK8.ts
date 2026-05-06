@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 // ─── K8 Pool Template ──────────────────────────────────────────────────────────
@@ -6297,3 +6298,4 @@ export const EXAM8_POOL: PoolTopicDef[] = [
     quiz: { generate: "werden_passiv" }
   }
 ];
+

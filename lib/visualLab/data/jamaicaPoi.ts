@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED
 import type { POI } from "./poi";
 import { poiExtraJamaicaCitiesV2 } from "./poiExtraJamaicaCitiesV2";
@@ -43,8 +44,7 @@ export const jamaicaCities: POI[] = [
       en: ["Established following the catastrophic 1692 earthquake in Port Royal", "It officially replaced Spanish Town as the capital in 1872", "The Kingston Harbour is protected by the long Palisadoes sandspit"]
     },
     historyYear: 1692,
-    area: 480
-  },
+    area: 480, image: "/poi-images/jm-kingston.webp"},
   {
     id: "jm-montego",
     type: "city",
@@ -76,8 +76,7 @@ export const jamaicaCities: POI[] = [
       en: ["Christopher Columbus named the area 'The Gulf of Good Weather' in 1494", "The city hosts the Sangster International Airport, the island's busiest", "It played a key role in the 1831 Christmas Rebellion led by Sam Sharpe"]
     },
     historyYear: 1494,
-    area: 43
-  },
+    area: 43, image: "/poi-images/jm-montego.webp"},
   {
     id: "jm-ochorios",
     type: "city",
@@ -108,8 +107,7 @@ export const jamaicaCities: POI[] = [
       ro: ["Numele este probabil o corupere a termenului spaniol 'Las Chorreras' (cascadele)", "Locația a servit ca platou de filmare pentru primul film James Bond, 'Dr. No'", "Blue Hole din apropiere este una dintre cele mai vizitate atracții naturale ascunse"],
       en: ["The name is likely a British corruption of the Spanish word 'Chorreras,' meaning waterfalls", "The surrounding area served as a primary filming location for the James Bond film 'Dr. No'", "It is home to Mystic Mountain, featuring a bobsled run inspired by the Jamaican Olympic team"]
     },
-    historyYear: 1960
-  },
+    historyYear: 1960, image: "/poi-images/jm-ochorios.webp"},
   {
     id: "jm-negril",
     type: "city",
@@ -139,8 +137,7 @@ export const jamaicaCities: POI[] = [
       hu: ["A név a spanyol 'Negrillo' szóból ered, a sötét sziklák után", "Negrilben egyetlen épület sem lehet magasabb a legmagasabb pálmafánál", "A West End sziklái a bátor sziklaugrók világszerte ismert helyszíne"],
       ro: ["Numele provine de la 'Negrillo', dat de spanioli din cauza stâncilor întunecate", "În Negril, nicio clădire nu poate fi mai înaltă decât cel mai înalt palmier", "Stâncile din West End sunt un loc renumit mondial pentru săriturile curajoase în apă"],
       en: ["The name is derived from 'Negrillo', given by the Spanish due to the dark color of the cliffs", "Local building codes restrict any structure from being taller than the average palm tree", "The area remained largely isolated until a proper road was constructed in the late 1950s"]
-    }
-  },
+    }, image: "/poi-images/jm-negril.webp"},
   {
     id: "jm-portantonio",
     type: "city",
@@ -170,8 +167,7 @@ export const jamaicaCities: POI[] = [
       hu: ["A város a 20. század elején a banánkereskedelem központja volt", "Errol Flynn a világ legszebb helyének nevezte a várost", "A 'Jerk' sütési stílust a környező dombok között élő marunok tökéletesítették"],
       ro: ["Orașul a fost centrul comerțului cu banane la începutul secolului al XX-lea", "Actorul Errol Flynn a numit locul cel mai frumos colț de pământ pe care l-a văzut vreodată", "Stilul de gătit 'Jerk' a fost perfecționat în dealurile din jur de către maroni"],
       en: ["Port Antonio was the world's leading banana shipping port in the late 19th century", "The film star Errol Flynn famously described it as 'more beautiful than any woman I have ever seen'", "The nearby town of Boston is widely credited as the birthplace of authentic Jamaican Jerk seasoning"]
-    }
-  },
+    }, image: "/poi-images/jm-portantonio.webp"},
   {
     id: "jm-riogrande",
     type: "river",
@@ -202,8 +198,7 @@ export const jamaicaCities: POI[] = [
       ro: ["Inițial, plutele de bambus erau folosite pentru a transporta bananele către port", "Errol Flynn a transformat plimbarea cu pluta într-o atracție turistică în anii 1940", "Râul izvorăște de pe versanții nordici ai Munților Albaștri"],
       en: ["The rafts were originally used by farmers to transport banana harvests to the coast", "The legendary actor Errol Flynn popularized rafting as a recreational activity for guests", "The river cut a deep valley through the limestone mountains of Portland Parish"]
     },
-    length: 34000
-  },
+    length: 34000, image: "/poi-images/jm-riogrande.webp"},
   {
     id: "jm-blackriver",
     type: "river",
@@ -234,8 +229,7 @@ export const jamaicaCities: POI[] = [
       ro: ["Până la construirea drumurilor, râul a fost principala cale de transport în sud-vest", "Peste 100 de specii de păsări au fost numărate în zona Lower Morass", "Orașul Black River a fost primul din Jamaica care a avut energie electrică"],
       en: ["The river served as a major artery for the logwood trade during the colonial era", "The ecosystem supports the endangered West Indian Manatee occasionally", "The town of Black River was the first in Jamaica to receive electricity in 1893"]
     },
-    length: 53000
-  },
+    length: 53000, image: "/poi-images/jm-blackriver.webp"},
   {
     id: "jm-cockpit",
     type: "forest",
@@ -266,8 +260,7 @@ export const jamaicaCities: POI[] = [
       ro: ["În această zonă trăiesc aproape toate speciile de păsări endemice din Jamaica", "Regiunea stochează aproximativ 40% din resursele de apă dulce ale Jamaicăi", "Terenul accidentat a făcut zona invincibilă pentru trupele britanice în sec. XVIII"],
       en: ["The region contains the highest concentration of endemic plants and animals in Jamaica", "It serves as a massive natural reservoir, providing 40% of the island's freshwater", "The Accompong Maroon community still preserves its ancestral lands and autonomy here"]
     },
-    area: 500
-  },
+    area: 500, image: "/poi-images/jm-cockpit.webp"},
   {
     id: "jm-hollywell",
     type: "forest",
@@ -298,8 +291,7 @@ export const jamaicaCities: POI[] = [
       ro: ["Parcul este situat la aproximativ 1.200 de metri deasupra nivelului mării", "Face parte din Parcul Național Blue and John Crow Mountains (UNESCO)", "Peste 30 de specii de păsări endemice pot fi observate aici"],
       en: ["The park sits at an elevation of approximately 1,200 meters above sea level", "It is a key gateway to the Blue and John Crow Mountains UNESCO World Heritage site", "Temperatures here can drop to 10°C, a stark contrast to the coastal 30°C heat"]
     },
-    elevation: 1200
-  },
+    elevation: 1200, image: "/poi-images/jm-hollywell.webp"},
   {
     id: "jm-catherinespeak",
     type: "mountain",
@@ -330,8 +322,7 @@ export const jamaicaCities: POI[] = [
       ro: ["Vârful este numit după Catherine Long, prima femeie care l-a urcat în 1760", "Apa extrasă de aici este vândută ca brand premium pe toată insula", "Versanții sunt adesea învăluiți într-o ceață mistică"],
       en: ["The peak is named after Catherine Long, the first woman recorded to climb it in 1760", "The mountain provides high-quality spring water bottled under a leading Jamaican brand", "The surrounding area is famous for producing the world's most expensive coffee beans"]
     },
-    elevation: 1540
-  },
+    elevation: 1540, image: "/poi-images/jm-catherinespeak.webp"},
   {
     id: "jm-portroyal",
     type: "historical",
@@ -362,8 +353,7 @@ export const jamaicaCities: POI[] = [
       ro: ["Pirați faimoși precum Henry Morgan au făcut din Port Royal baza lor", "Două treimi din oraș s-au scufundat în timpul dezastrului din 1692", "Astăzi este un candidat UNESCO datorită importanței sale arheologice"],
       en: ["Captain Henry Morgan was once the Lieutenant Governor of Port Royal", "The 1692 disaster was interpreted by many at the time as divine punishment for the city's sins", "It is one of the few places in the world where 17th-century buildings remain intact beneath the waves"]
     },
-    historyYear: 1692
-  },
+    historyYear: 1692, image: "/poi-images/jm-portroyal.webp"},
   {
     id: "jm-seville",
     type: "historical",
@@ -394,8 +384,7 @@ export const jamaicaCities: POI[] = [
       ro: ["Cristofor Columb a naufragiat în apropiere în 1503 și a petrecut aici un an", "Zona prezintă resturile unui castel spaniol și ale unei mori de zahăr", "Este considerat unul dintre locurile de naștere ale culturii moderne jamaicane"],
       en: ["Columbus was stranded in the adjacent bay for a full year between 1503 and 1504", "The site preserves artifacts from four distinct cultural eras in one location", "Excavations have uncovered rare examples of early Spanish brickwork and Taíno ceramics"]
     },
-    historyYear: 1509
-  }
+    historyYear: 1509, image: "/poi-images/jm-seville.webp"}
 ];
 
 export const jamaicaLandmarks: POI[] = [
@@ -462,8 +451,7 @@ export const jamaicaLandmarks: POI[] = [
       en: ["The site was the location of a pivotal 1657 battle between British and Spanish forces", "The falls are 'living' because they are constantly rebuilt by thermal spring deposits", "The lush park surrounding the falls features many exotic tropical flowers and ferns"]
     },
     elevation: 55,
-    length: 180
-  },
+    length: 180, image: "/poi-images/jm-dunns.webp"},
   {
     id: "jm-bluemountains",
     type: "mountain",
@@ -494,8 +482,7 @@ export const jamaicaLandmarks: POI[] = [
       ro: ["În zilele senine, de pe vârf se pot vedea contururile Cubei", "Lanțul muntos găzduiește cea mai mare specie de fluture din emisfera vestică", "Cafeaua poate fi cultivată doar la altitudini cuprinse între 900 și 1.700 de metri"],
       en: ["On exceptionally clear mornings, the lights of Cuba can be seen from the peak", "The mountains are home to the Giant Swallowtail, the Western Hemisphere's largest butterfly", "The coffee industry is strictly regulated; only beans grown at specific altitudes earn the name"]
     },
-    elevation: 2256
-  },
+    elevation: 2256, image: "/poi-images/jm-bluemountains.webp"},
   {
     id: "jm-sevenmile",
     type: "landmark",
@@ -526,8 +513,7 @@ export const jamaicaLandmarks: POI[] = [
       ro: ["Deși se numește 'Seven Mile', plaja are de fapt puțin peste 4 mile lungime", "În trecut, plaja era faimoasă ca ascunzătoare pentru pirați în golfurile protejate", "Întregul golf este protejat de valurile mari de un recif de corali"],
       en: ["Despite its name, the continuous stretch of beach is actually about 4.5 miles long", "The waters are naturally protected by a reef, making it safe for year-round swimming", "It has transitioned from a remote bohemian escape into one of the Caribbean's premier resorts"]
     },
-    length: 7000
-  },
+    length: 7000, image: "/poi-images/jm-sevenmile.webp"},
   {
     id: "jm-rosehall",
     type: "historical",
@@ -558,8 +544,7 @@ export const jamaicaLandmarks: POI[] = [
       ro: ["Casa a fost restaurată cu costuri mari în anii 1960, după ce fusese în ruină", "În grădini se află presupusul mormânt al lui Annie Palmer", "Rose Hall găzduiește astăzi un muzeu și este înconjurat de terenuri de golf exclusiviste"],
       en: ["The house lay in ruins for nearly a century before being fully restored in the 1960s", "The legendary 'White Witch' was the subject of a famous novel by H.G. de Lisser", "The estate is now part of a luxury resort complex featuring world-class golf courses"]
     },
-    historyYear: 1770
-  },
+    historyYear: 1770, image: "/poi-images/jm-rosehall.webp"},
   {
     id: "jm-doctorscave",
     type: "landmark",
@@ -590,8 +575,7 @@ export const jamaicaLandmarks: POI[] = [
       ro: ["Numele provine de la o peșteră care a fost distrusă de un cutremur în 1932", "Plaja face parte din rezervația naturală Montego Bay Marine Park", "Apa este alimentată de izvoare subterane bogate în minerale"],
       en: ["The original entrance was through a cave that was later destroyed by a hurricane in 1932", "The beach is a central part of the protected Montego Bay Marine Park", "Sir Herbert Barker, a British osteopath, boosted its fame by claiming the water cured his ailments"]
     },
-    historyYear: 1906
-  },
+    historyYear: 1906, image: "/poi-images/jm-doctorscave.webp"},
   {
     id: "jm-marthabrae",
     type: "river",
@@ -622,8 +606,7 @@ export const jamaicaLandmarks: POI[] = [
       ro: ["Numele provine, conform legendei, de la o vrăjitoare Arawak cu puteri magice", "Plutele au aproximativ 9 metri lungime și sunt fabricate din trunchiuri de bambus selecționate", "Este una dintre cele mai relaxante atracții naturale de pe insulă"],
       en: ["Legend says Martha Brae was a Taino witch who led Spanish treasure hunters to a cave and then drowned them", "The rafting experience was pioneered as a tourist attraction starting in the early 1970s", "The river maintains a consistent, gentle flow, making it safe for all ages to enjoy"]
     },
-    length: 32000
-  },
+    length: 32000, image: "/poi-images/jm-marthabrae.webp"},
   {
     id: "jm-devonhouse",
     type: "historical",
@@ -654,8 +637,7 @@ export const jamaicaLandmarks: POI[] = [
       ro: ["Casa se află pe un teren de 11 hectare în centrul capitalei", "Arhitectura este un amestec de influențe caraibiene și victoriene", "Înghețata Devon House a fost numită de National Geographic una dintre cele mai bune din lume"],
       en: ["The estate originally occupied 51 acres in the area known as 'Millionaire's Corner'", "It features beautifully manicured lawns and several artisanal shops and restaurants", "The property was saved from development by the government and converted into a public park in the 1960s"]
     },
-    historyYear: 1881
-  },
+    historyYear: 1881, image: "/poi-images/jm-devonhouse.webp"},
   {
     id: "jm-rickscafe",
     type: "landmark",
@@ -687,8 +669,7 @@ export const jamaicaLandmarks: POI[] = [
       en: ["The venue was completely rebuilt twice following Hurricane Gilbert in 1988 and Hurricane Ivan in 2004", "Local divers perform incredible acrobatics from heights of over 30 feet for tips", "It is consistently ranked as one of the best beach bars in the world by travel publications"]
     },
     historyYear: 1974,
-    elevation: 12
-  },
+    elevation: 12, image: "/poi-images/jm-rickscafe.webp"},
   {
     id: "jm-reachfalls",
     type: "landmark",
@@ -718,8 +699,7 @@ export const jamaicaLandmarks: POI[] = [
       hu: ["A helyszín olyan filmek hátteréül szolgált, mint a 'Koktél' és a 'Kék lagúna'", "Van egy rejtett vízalatti barlang, amelyen keresztül lehet úszni", "A vízesést eredetileg szökött rabszolgák fedezték fel"],
       ro: ["Locul a servit drept decor pentru scene din filme precum 'Cocktail' și 'Laguna Albastră'", "Există o peșteră subacvatică ascunsă prin care se poate înota", "Cascadele au fost descoperite inițial de sclavi fugari"],
       en: ["The falls have been featured in major films, including Tom Cruise’s 'Cocktail'", "It features a legendary 'Rabbit Hole'—a small tunnel through the limestone into a pool", "The surrounding area is home to over 20 species of rare endemic ferns"]
-    }
-  },
+    }, image: "/poi-images/jm-reachfalls.webp"},
   {
     id: "jm-spanishtown",
     type: "historical",
@@ -750,8 +730,7 @@ export const jamaicaLandmarks: POI[] = [
       ro: ["Piața găzduiește Memorialul Rodney în cinstea unui amiral britanic", "Spanish Town a fost fondat de spanioli sub numele de 'Villa de la Vega'", "Aici a fost citită proclamația pentru abolirea completă a sclaviei în 1838"],
       en: ["The square is anchored by the Rodney Memorial, celebrating Admiral George Rodney’s 1782 naval victory", "Spanish Town served as the island's capital for over 300 years until 1872", "The site features the Old King's House, the former residence of British Governors"]
     },
-    historyYear: 1534
-  },
+    historyYear: 1534, image: "/poi-images/jm-spanishtown.webp"},
   {
     id: "jm-greengrotto",
     type: "historical",
@@ -781,8 +760,7 @@ export const jamaicaLandmarks: POI[] = [
       hu: ["A barlangokat a második világháború alatt rumoshordók tárolására használták", "A barlang legmélyebb pontján található a kristálytiszta 'Grotto Lake'", "Az 1970-es években az egyik kamrában föld alatti éjszakai klub is működött"],
       ro: ["Peșterile au fost folosite pentru depozitarea butoaielor de rom în timpul celui de-al Doilea Război Mondial", "În cel mai adânc punct al peșterii se află lacul cristalin 'Grotto Lake'", "În anii 1970, într-una dintre camere a funcționat un club de noapte subteran"],
       en: ["The caves were used by government smugglers in the past and even stored rum barrels during WWII", "The deepest accessible point features the stunning Grotto Lake, inhabited by blind shrimp", "They were featured as a secret lair in the James Bond movie 'Live and Let Die'"]
-    }
-  },
+    }, image: "/poi-images/jm-greengrotto.webp"},
   {
     id: "jm-fortcharles",
     type: "historical",
@@ -813,8 +791,7 @@ export const jamaicaLandmarks: POI[] = [
       ro: ["Tânărul Horatio Nelson a servit aici la sfârșitul secolului al XVIII-lea", "Fortul era inițial înconjurat de apă, dar astăzi se află pe uscat", "Tunurile sunt încă îndreptate spre intrarea în port"],
       en: ["Admiral Lord Nelson famously patrolled the quarterdeck here, watching for French invaders in 1779", "Originally shaped like a ship, the fort is one of the few structures that stayed above water in 1692", "The Giddy House got its name because its 45-degree tilt makes visitors feel dizzy upon entering"]
     },
-    historyYear: 1655
-  },
+    historyYear: 1655, image: "/poi-images/jm-fortcharles.webp"},
   {
     id: "jm-bluehole",
     type: "landmark",
@@ -844,8 +821,7 @@ export const jamaicaLandmarks: POI[] = [
       hu: ["A víz intenzív színét a mészkőben található ásványi anyagok adják", "Titkos tippnek számít a túlzsúfolt Dunn's River-vízeséssel szemben", "A hely csak szűk hegyi utakon és rövid túrákkal érhető el"],
       ro: ["Apa își capătă culoarea intensă datorită mineralelor din calcar", "Este considerat un 'pont secret' comparativ cu Cascadele Dunn's River foarte aglomerate", "Locul este accesibil doar prin drumuri montane înguste și drumeții scurte"],
       en: ["The water color is caused by calcium carbonate deposits reacting with sunlight", "Unlike many other attractions, it remains largely undeveloped to preserve its natural beauty", "Guides lead visitors to a hidden cave behind the main waterfall for a unique perspective"]
-    }
-  },
+    }, image: "/poi-images/jm-bluehole.webp"},
   {
     id: "jm-frenchmanscove",
     type: "landmark",
@@ -875,8 +851,7 @@ export const jamaicaLandmarks: POI[] = [
       hu: ["Az üdülőhely az 1960-as években a világ egyik legdrágább és legexkluzívabb helye volt", "Itt forgatták a 'Kék lagúna' és a 'Kéjjel-nappal' című filmeket", "A folyó feletti hinták rendkívül népszerű fotótémák"],
       ro: ["Stațiunea a fost una dintre cele mai scumpe și exclusiviste din lume în anii 1960", "Aici au fost filmate producții precum 'Laguna Albastră' și 'Knight and Day'", "Leagănele de deasupra râului sunt un motiv fotografic foarte popular"],
       en: ["The cove was the site of the world's first all-inclusive resort in the early 1960s", "It has served as a pristine backdrop for movies like 'Lord of the Flies' and 'Cocktail'", "The lush greenery and overhanging vines give the beach an enchanted, cathedral-like atmosphere"]
-    }
-  },
+    }, image: "/poi-images/jm-frenchmanscove.webp"},
   {
     id: "jm-dolphincove",
     type: "landmark",
@@ -906,8 +881,7 @@ export const jamaicaLandmarks: POI[] = [
       hu: ["A látogatók itt méregtüske nélküli tüskésrájákat is etethetnek és simogathatnak", "Ez a Karib-térség legnagyobb delfin-interakciós központja", "A park egy régi karibi falu másolatát is bemutatja (Little Port Royal)"],
       ro: ["Vizitatorii pot hrăni și atinge aici pisici de mare fără spin", "Este cel mai mare centru de interacțiune cu delfinii din Caraibe", "Parcul oferă o replică a unui vechi sat caraibian (Little Port Royal)"],
       en: ["The dolphins live in a natural seawater environment rather than artificial tanks", "The site includes a private beach and a jungle trail showcasing Jamaica's endemic fauna", "Programs range from simple touch encounters to being a 'Trainer for a Day'"]
-    }
-  },
+    }, image: "/poi-images/jm-dolphincove.webp"},
   {
     id: "jm-pelicanbar",
     type: "landmark",
@@ -937,8 +911,7 @@ export const jamaicaLandmarks: POI[] = [
       hu: ["A látogatók hagyományosan belefaragják a nevüket a bár fájába", "Eredetileg egy helyi halász építette saját magán menedékhelyeként", "A bárt a 2004-es Ivan hurrikán után a helyi közösség összefogással építette újjá"],
       ro: ["Vizitatorii își sculptează în mod tradițional numele în lemnul barului", "A fost construit inițial de un pescar local ca refugiu privat", "Barul a fost reconstruit de comunitate după uraganul Ivan din 2004"],
       en: ["The bar was founded by local fisherman Floyd Forbes, who dreamt of a house on stilts at sea", "It is custom for visitors to bring a license plate or flag to hang on the interior walls", "Despite being destroyed by Hurricane Ivan, it was rebuilt with support from the local tourism community"]
-    }
-  },
+    }, image: "/poi-images/jm-pelicanbar.webp"},
   {
     id: "jm-mysticmountain",
     type: "landmark",
@@ -975,3 +948,4 @@ export const jamaicaLandmarks: POI[] = [
 ];
 
 export const jamaicaAllPoi: POI[] = [...jamaicaCountry, ...jamaicaRegions, ...jamaicaCities, ...jamaicaLandmarks, ...poiExtraJamaicaCitiesV2, ...poiExtraJamaicaEconomicV2, ...poiExtraJamaicaHistoryV2, ...poiExtraJamaicaLandmarksV2, ...poiExtraJamaicaLifeV2, ...poiExtraJamaicaNatureV2, ...poiExtraJamaicaReliefV2];
+

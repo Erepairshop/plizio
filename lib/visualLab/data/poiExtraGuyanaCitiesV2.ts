@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuyanaCitiesV2: POI[] = [ {
@@ -42,8 +43,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Georgetown városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Georgetown este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Georgetown is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/georgetown-cities-v2.webp"}, {
     id: "linden-cities-v2",
     type: "state-capital",
     parent: "GY-UD",
@@ -53,26 +53,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Linden",
       ro: "Linden",
       en: "Linden"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al linden cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Linden ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region UD in Guyana.",
@@ -85,8 +65,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Linden városa a(z) GY-UD régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Linden este situat în regiunea GY-UD.", "Joacă un rol important în economia locală."],
       en: ["The city of Linden is located in the GY-UD region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/linden-cities-v2.webp"}, {
     id: "new-amsterdam-cities-v2",
     type: "state-capital",
     parent: "GY-EB",
@@ -96,26 +75,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "New Amsterdam",
       ro: "New Amsterdam",
       en: "New Amsterdam"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al new amsterdam cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "New Amsterdam ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region EB in Guyana.",
@@ -128,8 +87,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["New Amsterdam városa a(z) GY-EB régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul New Amsterdam este situat în regiunea GY-EB.", "Joacă un rol important în economia locală."],
       en: ["The city of New Amsterdam is located in the GY-EB region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/new-amsterdam-cities-v2.webp"}, {
     id: "anna-regina-cities-v2",
     type: "state-capital",
     parent: "GY-PM",
@@ -139,26 +97,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Anna Regina",
       ro: "Anna Regina",
       en: "Anna Regina"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al anna regina cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Anna Regina ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region PM in Guyana.",
@@ -171,8 +109,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Anna Regina városa a(z) GY-PM régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Anna Regina este situat în regiunea GY-PM.", "Joacă un rol important în economia locală."],
       en: ["The city of Anna Regina is located in the GY-PM region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/anna-regina-cities-v2.webp"}, {
     id: "bartica-cities-v2",
     type: "state-capital",
     parent: "GY-CU",
@@ -182,26 +119,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Bartica",
       ro: "Bartica",
       en: "Bartica"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al bartica cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Bartica ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region CU in Guyana.",
@@ -214,8 +131,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Bartica városa a(z) GY-CU régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Bartica este situat în regiunea GY-CU.", "Joacă un rol important în economia locală."],
       en: ["The city of Bartica is located in the GY-CU region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/bartica-cities-v2.webp"}, {
     id: "corriverton-cities-v2",
     type: "city",
     parent: "GY-EB",
@@ -225,26 +141,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Corriverton",
       ro: "Corriverton",
       en: "Corriverton"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al corriverton cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Corriverton ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -269,26 +165,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       ro: "Rose Hall",
       en: "Rose Hall"
     },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al rose hall cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Rose Hall ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Rose Hall egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -300,8 +176,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Rose Hall városa a(z) GY-EB régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Rose Hall este situat în regiunea GY-EB.", "Joacă un rol important în economia locală."],
       en: ["The city of Rose Hall is located in the GY-EB region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/rose-hall-cities-v2.webp"}, {
     id: "mahaica-village-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -311,26 +186,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Mahaica Village",
       ro: "Mahaica Village",
       en: "Mahaica Village"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mahaica village cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Mahaica Village ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -343,8 +198,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Mahaica Village városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Mahaica Village este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Mahaica Village is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/mahaica-village-cities-v2.webp"}, {
     id: "mahaicony-village-cities-v2",
     type: "city",
     parent: "GY-MA",
@@ -354,26 +208,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Mahaicony Village",
       ro: "Mahaicony Village",
       en: "Mahaicony Village"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mahaicony village cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Mahaicony Village ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -386,8 +220,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Mahaicony Village városa a(z) GY-MA régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Mahaicony Village este situat în regiunea GY-MA.", "Joacă un rol important în economia locală."],
       en: ["The city of Mahaicony Village is located in the GY-MA region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/mahaicony-village-cities-v2.webp"}, {
     id: "vreed-en-hoop-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -397,26 +230,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Vreed-en-Hoop",
       ro: "Vreed-en-Hoop",
       en: "Vreed-en-Hoop"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al vreed en hoop cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Vreed-en-Hoop ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -429,8 +242,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Vreed-en-Hoop városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Vreed-en-Hoop este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Vreed-en-Hoop is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/vreed-en-hoop-cities-v2.webp"}, {
     id: "lethem-cities-v2",
     type: "state-capital",
     parent: "GY-UT",
@@ -440,26 +252,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Lethem",
       ro: "Lethem",
       en: "Lethem"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al lethem cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Lethem ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region UT in Guyana.",
@@ -472,8 +264,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Lethem városa a(z) GY-UT régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Lethem este situat în regiunea GY-UT.", "Joacă un rol important în economia locală."],
       en: ["The city of Lethem is located in the GY-UT region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/lethem-cities-v2.webp"}, {
     id: "mabaruma-cities-v2",
     type: "state-capital",
     parent: "GY-BA",
@@ -483,26 +274,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Mabaruma",
       ro: "Mabaruma",
       en: "Mabaruma"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mabaruma cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Mabaruma ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region BA in Guyana.",
@@ -515,8 +286,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Mabaruma városa a(z) GY-BA régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Mabaruma este situat în regiunea GY-BA.", "Joacă un rol important în economia locală."],
       en: ["The city of Mabaruma is located in the GY-BA region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/mabaruma-cities-v2.webp"}, {
     id: "mahdia-cities-v2",
     type: "state-capital",
     parent: "GY-PT",
@@ -526,26 +296,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Mahdia",
       ro: "Mahdia",
       en: "Mahdia"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mahdia cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Mahdia ist ein wichtiger Verwaltungssitz und eine der bedeutendsten Städte der Region PT in Guyana.",
@@ -558,8 +308,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Mahdia városa a(z) GY-PT régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Mahdia este situat în regiunea GY-PT.", "Joacă un rol important în economia locală."],
       en: ["The city of Mahdia is located in the GY-PT region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/mahdia-cities-v2.webp"}, {
     id: "port-kaituma-cities-v2",
     type: "city",
     parent: "GY-BA",
@@ -569,26 +318,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Port Kaituma",
       ro: "Port Kaituma",
       en: "Port Kaituma"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al port kaituma cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Port Kaituma ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -601,8 +330,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Port Kaituma városa a(z) GY-BA régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Port Kaituma este situat în regiunea GY-BA.", "Joacă un rol important în economia locală."],
       en: ["The city of Port Kaituma is located in the GY-BA region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/port-kaituma-cities-v2.webp"}, {
     id: "kwakwani-cities-v2",
     type: "city",
     parent: "GY-UD",
@@ -612,26 +340,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Kwakwani",
       ro: "Kwakwani",
       en: "Kwakwani"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al kwakwani cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Kwakwani ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -656,26 +364,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       ro: "Annandale",
       en: "Annandale"
     },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al annandale cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Annandale ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Annandale egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -687,8 +375,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Annandale városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Annandale este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Annandale is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/annandale-cities-v2.webp"}, {
     id: "enmore-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -698,26 +385,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Enmore",
       ro: "Enmore",
       en: "Enmore"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al enmore cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Enmore ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -730,8 +397,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Enmore városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Enmore este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Enmore is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/enmore-cities-v2.webp"}, {
     id: "lusignan-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -741,26 +407,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Lusignan",
       ro: "Lusignan",
       en: "Lusignan"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al lusignan cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Lusignan ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -773,8 +419,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Lusignan városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Lusignan este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Lusignan is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/lusignan-cities-v2.webp"}, {
     id: "buxton-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -784,26 +429,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Buxton",
       ro: "Buxton",
       en: "Buxton"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al buxton cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Buxton ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -816,8 +441,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Buxton városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Buxton este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Buxton is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/buxton-cities-v2.webp"}, {
     id: "victoria-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -827,26 +451,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Victoria",
       ro: "Victoria",
       en: "Victoria"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al victoria cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Victoria ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -859,8 +463,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Victoria városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Victoria este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Victoria is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/victoria-cities-v2.webp"}, {
     id: "paradise-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -870,26 +473,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Paradise",
       ro: "Paradise",
       en: "Paradise"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al paradise cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Paradise ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -902,8 +485,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Paradise városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Paradise este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Paradise is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/paradise-cities-v2.webp"}, {
     id: "haslington-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -913,26 +495,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Haslington",
       ro: "Haslington",
       en: "Haslington"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al haslington cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Haslington ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -945,8 +507,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Haslington városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Haslington este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Haslington is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/haslington-cities-v2.webp"}, {
     id: "plaisance-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -956,26 +517,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Plaisance",
       ro: "Plaisance",
       en: "Plaisance"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al plaisance cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Plaisance ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -988,8 +529,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Plaisance városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Plaisance este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Plaisance is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/plaisance-cities-v2.webp"}, {
     id: "triumph-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -999,26 +539,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Triumph",
       ro: "Triumph",
       en: "Triumph"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al triumph cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Triumph ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1031,8 +551,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Triumph városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Triumph este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Triumph is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/triumph-cities-v2.webp"}, {
     id: "better-hope-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -1042,26 +561,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Better Hope",
       ro: "Better Hope",
       en: "Better Hope"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al better hope cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Better Hope ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1074,8 +573,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Better Hope városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Better Hope este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Better Hope is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/better-hope-cities-v2.webp"}, {
     id: "beterverwagting-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -1085,26 +583,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Beterverwagting",
       ro: "Beterverwagting",
       en: "Beterverwagting"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al beterverwagting cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Beterverwagting ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1129,26 +607,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       ro: "Blairmont",
       en: "Blairmont"
     },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al blairmont cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Blairmont ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Blairmont egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -1172,26 +630,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       ro: "Rosignol",
       en: "Rosignol"
     },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al rosignol cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Rosignol ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Rosignol egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -1203,8 +641,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Rosignol városa a(z) GY-MA régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Rosignol este situat în regiunea GY-MA.", "Joacă un rol important în economia locală."],
       en: ["The city of Rosignol is located in the GY-MA region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/rosignol-cities-v2.webp"}, {
     id: "bush-lot-cities-v2",
     type: "city",
     parent: "GY-MA",
@@ -1214,26 +651,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Bush Lot",
       ro: "Bush Lot",
       en: "Bush Lot"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al bush lot cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Bush Lot ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1246,8 +663,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Bush Lot városa a(z) GY-MA régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Bush Lot este situat în regiunea GY-MA.", "Joacă un rol important în economia locală."],
       en: ["The city of Bush Lot is located in the GY-MA region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/bush-lot-cities-v2.webp"}, {
     id: "fyrish-cities-v2",
     type: "city",
     parent: "GY-EB",
@@ -1257,26 +673,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Fyrish",
       ro: "Fyrish",
       en: "Fyrish"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al fyrish cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Fyrish ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1289,8 +685,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Fyrish városa a(z) GY-EB régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Fyrish este situat în regiunea GY-EB.", "Joacă un rol important în economia locală."],
       en: ["The city of Fyrish is located in the GY-EB region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/fyrish-cities-v2.webp"}, {
     id: "albion-cities-v2",
     type: "city",
     parent: "GY-EB",
@@ -1300,26 +695,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Albion",
       ro: "Albion",
       en: "Albion"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al albion cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Albion ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1332,8 +707,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Albion városa a(z) GY-EB régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Albion este situat în regiunea GY-EB.", "Joacă un rol important în economia locală."],
       en: ["The city of Albion is located in the GY-EB region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/albion-cities-v2.webp"}, {
     id: "port-mourant-cities-v2",
     type: "city",
     parent: "GY-EB",
@@ -1343,26 +717,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Port Mourant",
       ro: "Port Mourant",
       en: "Port Mourant"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al port mourant cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Port Mourant ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1375,8 +729,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Port Mourant városa a(z) GY-EB régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Port Mourant este situat în regiunea GY-EB.", "Joacă un rol important în economia locală."],
       en: ["The city of Port Mourant is located in the GY-EB region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/port-mourant-cities-v2.webp"}, {
     id: "whim-cities-v2",
     type: "city",
     parent: "GY-EB",
@@ -1386,26 +739,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Whim",
       ro: "Whim",
       en: "Whim"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al whim cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Whim ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1418,8 +751,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Whim városa a(z) GY-EB régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Whim este situat în regiunea GY-EB.", "Joacă un rol important în economia locală."],
       en: ["The city of Whim is located in the GY-EB region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/whim-cities-v2.webp"}, {
     id: "black-bush-polder-cities-v2",
     type: "city",
     parent: "GY-EB",
@@ -1429,26 +761,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Black Bush Polder",
       ro: "Black Bush Polder",
       en: "Black Bush Polder"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al black bush polder cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Black Bush Polder ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1461,8 +773,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Black Bush Polder városa a(z) GY-EB régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Black Bush Polder este situat în regiunea GY-EB.", "Joacă un rol important în economia locală."],
       en: ["The city of Black Bush Polder is located in the GY-EB region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/black-bush-polder-cities-v2.webp"}, {
     id: "springlands-cities-v2",
     type: "city",
     parent: "GY-EB",
@@ -1472,26 +783,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Springlands",
       ro: "Springlands",
       en: "Springlands"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al springlands cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Springlands ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1504,8 +795,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Springlands városa a(z) GY-EB régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Springlands este situat în regiunea GY-EB.", "Joacă un rol important în economia locală."],
       en: ["The city of Springlands is located in the GY-EB region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/springlands-cities-v2.webp"}, {
     id: "skeldon-cities-v2",
     type: "city",
     parent: "GY-EB",
@@ -1515,26 +805,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Skeldon",
       ro: "Skeldon",
       en: "Skeldon"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al skeldon cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Skeldon ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1547,8 +817,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Skeldon városa a(z) GY-EB régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Skeldon este situat în regiunea GY-EB.", "Joacă un rol important în economia locală."],
       en: ["The city of Skeldon is located in the GY-EB region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/skeldon-cities-v2.webp"}, {
     id: "adventure-cities-v2",
     type: "city",
     parent: "GY-PM",
@@ -1558,26 +827,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Adventure",
       ro: "Adventure",
       en: "Adventure"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al adventure cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Adventure ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1590,8 +839,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Adventure városa a(z) GY-PM régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Adventure este situat în regiunea GY-PM.", "Joacă un rol important în economia locală."],
       en: ["The city of Adventure is located in the GY-PM region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/adventure-cities-v2.webp"}, {
     id: "suddie-cities-v2",
     type: "city",
     parent: "GY-PM",
@@ -1601,26 +849,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Suddie",
       ro: "Suddie",
       en: "Suddie"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al suddie cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Suddie ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1645,26 +873,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       ro: "Charity",
       en: "Charity"
     },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al charity cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Charity ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Charity egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -1676,8 +884,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Charity városa a(z) GY-PM régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Charity este situat în regiunea GY-PM.", "Joacă un rol important în economia locală."],
       en: ["The city of Charity is located in the GY-PM region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/charity-cities-v2.webp"}, {
     id: "aurora-cities-v2",
     type: "city",
     parent: "GY-PM",
@@ -1687,26 +894,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Aurora",
       ro: "Aurora",
       en: "Aurora"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al aurora cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Aurora ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1719,8 +906,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Aurora városa a(z) GY-PM régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Aurora este situat în regiunea GY-PM.", "Joacă un rol important în economia locală."],
       en: ["The city of Aurora is located in the GY-PM region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/aurora-cities-v2.webp"}, {
     id: "queenstown-cities-v2",
     type: "city",
     parent: "GY-PM",
@@ -1730,26 +916,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Queenstown",
       ro: "Queenstown",
       en: "Queenstown"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al queenstown cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Queenstown ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1762,8 +928,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Queenstown városa a(z) GY-PM régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Queenstown este situat în regiunea GY-PM.", "Joacă un rol important în economia locală."],
       en: ["The city of Queenstown is located in the GY-PM region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/queenstown-cities-v2.webp"}, {
     id: "parika-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -1773,26 +938,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Parika",
       ro: "Parika",
       en: "Parika"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al parika cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Parika ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1805,8 +950,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Parika városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Parika este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Parika is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/parika-cities-v2.webp"}, {
     id: "leonora-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -1816,26 +960,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Leonora",
       ro: "Leonora",
       en: "Leonora"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al leonora cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Leonora ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1848,8 +972,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Leonora városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Leonora este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Leonora is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/leonora-cities-v2.webp"}, {
     id: "uitvlugt-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -1859,26 +982,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Uitvlugt",
       ro: "Uitvlugt",
       en: "Uitvlugt"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al uitvlugt cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Uitvlugt ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -1903,26 +1006,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       ro: "Zeelugt",
       en: "Zeelugt"
     },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al zeelugt cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Zeelugt ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Zeelugt egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -1946,26 +1029,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       ro: "Tuschen",
       en: "Tuschen"
     },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al tuschen cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Tuschen ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Tuschen egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -1977,8 +1040,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Tuschen városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Tuschen este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Tuschen is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/tuschen-cities-v2.webp"}, {
     id: "meten-meer-zorg-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -1988,26 +1050,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Meten-Meer-Zorg",
       ro: "Meten-Meer-Zorg",
       en: "Meten-Meer-Zorg"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al meten meer zorg cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Meten-Meer-Zorg ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2020,8 +1062,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Meten-Meer-Zorg városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Meten-Meer-Zorg este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Meten-Meer-Zorg is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/meten-meer-zorg-cities-v2.webp"}, {
     id: "de-willem-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -2031,26 +1072,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "De Willem",
       ro: "De Willem",
       en: "De Willem"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al de willem cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "De Willem ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2063,8 +1084,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["De Willem városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul De Willem este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of De Willem is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/de-willem-cities-v2.webp"}, {
     id: "ruimveldt-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -2074,26 +1094,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Ruimveldt",
       ro: "Ruimveldt",
       en: "Ruimveldt"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al ruimveldt cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ruimveldt ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2106,8 +1106,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Ruimveldt városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Ruimveldt este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Ruimveldt is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/ruimveldt-cities-v2.webp"}, {
     id: "la-grange-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -2117,26 +1116,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "La Grange",
       ro: "La Grange",
       en: "La Grange"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al la grange cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "La Grange ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2149,8 +1128,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["La Grange városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul La Grange este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of La Grange is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/la-grange-cities-v2.webp"}, {
     id: "wales-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -2160,26 +1138,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Wales",
       ro: "Wales",
       en: "Wales"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al wales cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Wales ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2192,8 +1150,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Wales városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Wales este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Wales is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/wales-cities-v2.webp"}, {
     id: "pouderoyen-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -2203,26 +1160,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Pouderoyen",
       ro: "Pouderoyen",
       en: "Pouderoyen"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al pouderoyen cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Pouderoyen ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2235,8 +1172,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Pouderoyen városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Pouderoyen este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Pouderoyen is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/pouderoyen-cities-v2.webp"}, {
     id: "malgretout-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -2246,26 +1182,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Malgretout",
       ro: "Malgretout",
       en: "Malgretout"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al malgretout cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Malgretout ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2290,26 +1206,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       ro: "Schoonord",
       en: "Schoonord"
     },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al schoonord cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Schoonord ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Schoonord egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2321,8 +1217,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Schoonord városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Schoonord este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Schoonord is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/schoonord-cities-v2.webp"}, {
     id: "goed-fortuin-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -2332,26 +1227,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Goed Fortuin",
       ro: "Goed Fortuin",
       en: "Goed Fortuin"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al goed fortuin cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Goed Fortuin ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2364,8 +1239,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Goed Fortuin városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Goed Fortuin este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Goed Fortuin is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/goed-fortuin-cities-v2.webp"}, {
     id: "vreed-en-rust-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -2375,26 +1249,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Vreed-en-Rust",
       ro: "Vreed-en-Rust",
       en: "Vreed-en-Rust"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al vreed en rust cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Vreed-en-Rust ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2407,8 +1261,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Vreed-en-Rust városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Vreed-en-Rust este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Vreed-en-Rust is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/vreed-en-rust-cities-v2.webp"}, {
     id: "bagotville-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -2418,26 +1271,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Bagotville",
       ro: "Bagotville",
       en: "Bagotville"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al bagotville cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Bagotville ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2450,8 +1283,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Bagotville városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Bagotville este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Bagotville is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/bagotville-cities-v2.webp"}, {
     id: "nismes-cities-v2",
     type: "city",
     parent: "GY-ES",
@@ -2461,26 +1293,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Nismes",
       ro: "Nismes",
       en: "Nismes"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al nismes cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Nismes ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2493,8 +1305,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Nismes városa a(z) GY-ES régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Nismes este situat în regiunea GY-ES.", "Joacă un rol important în economia locală."],
       en: ["The city of Nismes is located in the GY-ES region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/nismes-cities-v2.webp"}, {
     id: "kamrang-cities-v2",
     type: "city",
     parent: "GY-CU",
@@ -2504,26 +1315,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Kamrang",
       ro: "Kamrang",
       en: "Kamrang"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al kamrang cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Kamrang ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2548,26 +1339,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       ro: "Aishalton",
       en: "Aishalton"
     },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al aishalton cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Aishalton ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Aishalton egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2590,26 +1361,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Karuaimeng",
       ro: "Karuaimeng",
       en: "Karuaimeng"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al karuaimeng cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Karuaimeng ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2634,26 +1385,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       ro: "Orinduik",
       en: "Orinduik"
     },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al orinduik cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Orinduik ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
       hu: "Orinduik egy lenyűgöző város Guyanában, amely helyi kultúrájáról és élénk közösségéről ismert.",
@@ -2665,8 +1396,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Orinduik városa a(z) GY-PT régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Orinduik este situat în regiunea GY-PT.", "Joacă un rol important în economia locală."],
       en: ["The city of Orinduik is located in the GY-PT region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/orinduik-cities-v2.webp"}, {
     id: "paramakatoi-cities-v2",
     type: "city",
     parent: "GY-PT",
@@ -2676,26 +1406,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Paramakatoi",
       ro: "Paramakatoi",
       en: "Paramakatoi"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al paramakatoi cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Paramakatoi ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2708,8 +1418,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Paramakatoi városa a(z) GY-PT régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Paramakatoi este situat în regiunea GY-PT.", "Joacă un rol important în economia locală."],
       en: ["The city of Paramakatoi is located in the GY-PT region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/paramakatoi-cities-v2.webp"}, {
     id: "kato-cities-v2",
     type: "city",
     parent: "GY-PT",
@@ -2719,26 +1428,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Kato",
       ro: "Kato",
       en: "Kato"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al kato cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Kato ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2751,8 +1440,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Kato városa a(z) GY-PT régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Kato este situat în regiunea GY-PT.", "Joacă un rol important în economia locală."],
       en: ["The city of Kato is located in the GY-PT region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/kato-cities-v2.webp"}, {
     id: "annai-cities-v2",
     type: "city",
     parent: "GY-UT",
@@ -2762,26 +1450,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Annai",
       ro: "Annai",
       en: "Annai"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al annai cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Annai ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2794,8 +1462,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Annai városa a(z) GY-UT régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Annai este situat în regiunea GY-UT.", "Joacă un rol important în economia locală."],
       en: ["The city of Annai is located in the GY-UT region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/annai-cities-v2.webp"}, {
     id: "surama-cities-v2",
     type: "city",
     parent: "GY-UT",
@@ -2805,26 +1472,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Surama",
       ro: "Surama",
       en: "Surama"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al surama cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Surama ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2837,8 +1484,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Surama városa a(z) GY-UT régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Surama este situat în regiunea GY-UT.", "Joacă un rol important în economia locală."],
       en: ["The city of Surama is located in the GY-UT region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/surama-cities-v2.webp"}, {
     id: "gunns-cities-v2",
     type: "city",
     parent: "GY-UT",
@@ -2848,26 +1494,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Gunns",
       ro: "Gunns",
       en: "Gunns"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al gunns cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Gunns ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2880,8 +1506,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Gunns városa a(z) GY-UT régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Gunns este situat în regiunea GY-UT.", "Joacă un rol important în economia locală."],
       en: ["The city of Gunns is located in the GY-UT region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/gunns-cities-v2.webp"}, {
     id: "kumaka-cities-v2",
     type: "city",
     parent: "GY-BA",
@@ -2891,26 +1516,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Kumaka",
       ro: "Kumaka",
       en: "Kumaka"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al kumaka cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Kumaka ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2923,8 +1528,7 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Kumaka városa a(z) GY-BA régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Kumaka este situat în regiunea GY-BA.", "Joacă un rol important în economia locală."],
       en: ["The city of Kumaka is located in the GY-BA region.", "It plays an important role in the local economy."]
-    }
-  }, {
+    }, image: "/poi-images/kumaka-cities-v2.webp"}, {
     id: "morawhanna-cities-v2",
     type: "city",
     parent: "GY-BA",
@@ -2934,26 +1538,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Morawhanna",
       ro: "Morawhanna",
       en: "Morawhanna"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al morawhanna cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Morawhanna ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",
@@ -2977,26 +1561,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: "Matthews Ridge",
       ro: "Matthews Ridge",
       en: "Matthews Ridge"
-    },
-    descriptionAdvanced: {
-      de: "Georgetown ist die Hauptstadt und das wirtschaftliche Zentrum Guyanas, geprägt durch britische Kolonialarchitektur und den Demerara-Fluss.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al matthews ridge cities v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Matthews Ridge ist eine faszinierende Stadt in Guyana, die für ihre lokale Kultur und lebendige Gemeinschaft bekannt ist.",

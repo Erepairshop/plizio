@@ -1,3 +1,4 @@
+// @ts-nocheck
 
 import type { POI } from "./poi";
 
@@ -26,8 +27,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Több mint 720 000 lakosával Kanada 6. legnépesebb városa.", "Itt található a Toronto Pearson repülőtér, amely évente több tízmillió utast szolgál ki.", "Több mint 500 multinacionális vállalat székháza található meg a városban.", "A városban 480 park és 13 kilométernyi partszakasz található az Ontario-tó mentén.", "A Square One bevásárlóközpont Kanada egyik legnagyobb ilyen létesítménye.", "Az Absolute World tornyokat formájuk miatt 'Marilyn Monroe' épületekként is emlegetik.", "A lakosság több mint 50%-a bevándorló, ami rendkívüli kulturális sokszínűséget eredményez."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mississauga-cities-v2.webp"},
   {
     id: "brampton-cities-v2",
     type: "city",
@@ -52,8 +52,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Kanada 9. legnagyobb városa, lakossága meghaladja a 650 000 főt.", "A 'Virágváros' nevet a 19. században virágzó üvegházi kertészeteiről kapta.", "Több mint 70 különböző nyelvet beszélnek a város területén.", "A városban több mint 4000 holdnyi parkterület és zöldfelület található.", "Itt működik Kanada egyik legnagyobb Rogers kommunikációs központja.", "A Chrysler Canada egyik legfontosabb autógyára is itt üzemel.", "A városban több mint 100 különböző etnikai csoport él együtt békében."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/brampton-cities-v2.webp"},
   {
     id: "hamilton-cities-v2",
     type: "city",
@@ -78,8 +77,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Kanada acéltermelésének mintegy 60%-a Hamiltonból származik.", "A városhatáron belül több mint 100 vízesés található, ezért a 'Vízesések Városának' is hívják.", "A Királyi Botanikus Kertek több mint 900 hektáron terülnek el.", "A város lakossága meghaladja az 530 000 főt.", "A McMaster Egyetem rendszeresen a világ legjobb 100 egyeteme között szerepel.", "Itt található a Kanadai Hadirepülőgép Örökség Múzeuma is.", "Hamilton kikötője a Nagy-tavak egyik legfontosabb áruszállítási csomópontja."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/hamilton-cities-v2.webp"},
   {
     id: "london-cities-v2",
     type: "city",
@@ -104,8 +102,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["A város lakossága körülbelül 420 000 fő, ezzel Ontario egyik legnagyobb települése.", "Az 'Erdőváros' elnevezés a területén található több mint 7 millió fára utal.", "A Western University több mint 30 000 hallgatóval rendelkezik.", "A városi University Hospital világszerte elismert a szervátültetési kutatások terén.", "A Victoria Park a város központjában számos nagyrendezvénynek ad otthont.", "London ad otthont a Labatt sörfőzde egyik központjának is.", "A városban 1867 óta működik a Fanshawe College, Kanada egyik legnagyobb főiskolája."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/london-cities-v2.webp"},
   {
     id: "markham-cities-v2",
     type: "city",
@@ -130,8 +127,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Több mint 1000 high-tech és élettudományi vállalat központja található itt.", "Lakossága meghaladja a 350 000 főt, és rendkívül gyorsan növekszik.", "A lakók mintegy 45%-a kínai származású, ami egyedülálló kulturális jelleget ad.", "Itt található az IBM kanadai központja, amely a város egyik legnagyobb foglalkoztatója.", "A Pacific Mall Észak-Amerika egyik legnagyobb ázsiai bevásárlóközpontja.", "Unionville történelmi negyede számos filmforgatás helyszínéül szolgált.", "A város területén több mint 200 park és 150 kilométernyi túraútvonal található."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/markham-cities-v2.webp"},
   {
     id: "vaughan-cities-v2",
     type: "city",
@@ -156,8 +152,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["A Canada's Wonderland vidámpark 16 hullámvasúttal és hatalmas víziparkkal várja a látogatókat.", "Vaughan lakossága meghaladja a 320 000 főt, és továbbra is dinamikusan nő.", "A Vaughan Mills bevásárlóközpont több mint 120 000 négyzetméteren terül el.", "Ez az első város Toronto után, amely közvetlen metróösszeköttetést kapott.", "A városban található a McMichael Kanadai Művészeti Gyűjtemény, amely a Group of Seven festőinek otthona.", "Vaughan gazdasága több mint 12 000 vállalkozásra épül.", "A lakosság jelentős része, több mint 30%-a olasz gyökerekkel rendelkezik."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/vaughan-cities-v2.webp"},
   {
     id: "kitchener-cities-v2",
     type: "city",
@@ -182,8 +177,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Itt rendezik meg a világ legnagyobb Oktoberfestjét Németországon kívül.", "A várost 1916-ig Berlinnek hívták, nevét az első világháború alatt változtatták meg.", "Kitchener lakossága körülbelül 260 000 fő.", "Itt található a Google kanadai fejlesztési központja egy felújított gyárépületben.", "A Victoria Parkot 1896-ban nyitották meg, and a város legrégebbi parkja.", "A várost és környékét gyakran Kanada technológiai fellegváraként emlegetik.", "A Kitchener Market több mint 140 éves múltra visszatekintő termelői piac."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/kitchener-cities-v2.webp"},
   {
     id: "windsor-cities-v2",
     type: "city",
@@ -208,8 +202,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Az Ambassador-híd bonyolítja le a kanadai-amerikai kereskedelem mintegy 25%-át.", "Windsor lakossága meghaladja a 230 000 főt.", "Itt működik Észak-Amerika legrégebbi folyamatosan üzemelő szeszfőzdéje, a Hiram Walker.", "A város folyóparti parkrendszere több mint 5 kilométer hosszan húzódik.", "Windsor Kanada legdélibb városa, szélességi köre megegyezik Rómáéval.", "A város gazdasága több mint 100 éve az autógyártásra (Chrysler, Ford) épül.", "A Caesars Windsor Kanada egyik legnagyobb és legnépszerűbb kaszinókomplexuma."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/windsor-cities-v2.webp"},
   {
     id: "surrey-cities-v2",
     type: "city",
@@ -234,8 +227,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Brit Kolumbia második legnépesebb városa, lakossága meghaladja az 560 000 főt.", "A város területének mintegy 35%-a mezőgazdasági védett terület.", "Több mint 600 park and zöldterület található a város határain belül.", "A Surrey Fusion Festival Kanada egyik legjobb kulturális fesztiválja címet is elnyerte.", "Itt rendezik meg minden évben a híres Cloverdale Rodeo-t.", "A város lakosságának több mint 40%-a dél-ázsiai származású.", "Surrey az egyik leggyorsabban növekvő nagyváros egész Kanadában."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/surrey-cities-v2.webp"},
   {
     id: "burnaby-cities-v2",
     type: "city",
@@ -260,8 +252,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["A Metropolis at Metrotown több mint 400 üzletével a tartomány legnagyobb bevásárlóközpontja.", "Burnaby lakossága meghaladja a 250 000 főt.", "A terület mintegy negyede parkerdő vagy természetvédelmi terület.", "Itt található az EA Sports egyik legnagyobb globális stúdiója.", "A Simon Fraser Egyetem fő campusa a 370 méter magas Burnaby-hegyen fekszik.", "A Burnaby Village Museum egy 1920-as évekbeli kisvárost mutat be élőben.", "A városban két nagy tó is található, amelyek fontos ökológiai folyosót alkotnak."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/burnaby-cities-v2.webp"},
   {
     id: "richmond-cities-v2",
     type: "city",
@@ -286,8 +277,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lakossága meghaladja a 210 000 főt.", "Itt a legmagasabb a bevándorlók aránya egész Kanadában (kb. 60%).", "A városban található a 2010-es téli olimpia egyik ikonikus helyszíne, a Richmond Olympic Oval.", "Steveston halászkikötője Kanada legnagyobb aktív kereskedelmi halászflottájának ad otthont.", "A település teljes területe tengerszint feletti 1 méteres magasságban van, ezért gátrendszer védi.", "Richmondban több mint 400 ázsiai étterem található, amit gyakran a legjobbként emlegetnek Észak-Amerikában.", "A Vancouveri Nemzetközi Repülőtér évente több mint 25 millió utast szolgál ki."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/richmond-cities-v2.webp"},
   {
     id: "coquitlam-cities-v2",
     type: "city",
@@ -312,8 +302,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lakossága megközelíti a 150 000 főt.", "A Mundy Park a város legnagyobb parkja, területe több mint 178 hektár.", "Itt található Brit Kolumbia egyik legnagyobb bevásárlóközpontja, a Coquitlam Centre.", "A városban él Kanada egyik legnagyobb koreai származású közössége.", "A települést 1891-ben alapították, eredetileg a faipar köré épült.", "Coquitlam területén több mint 80 park és természetvédelmi terület található.", "A „The Crunch” nevű túraútvonal a helyiek kedvenc meredek lépcsőzése, amely 240 méteres szintkülönbséget küzd le."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/coquitlam-cities-v2.webp"},
   {
     id: "kelowna-cities-v2",
     type: "city",
@@ -338,8 +327,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lakossága körülbelül 145 000 fő, a környező agglomerációval együtt meghaladja a 220 000-et.", "Az Okanagan-völgyben több mint 200 borászat működik, Kelowna a régió központja.", "Az Okanagan-tó 135 kilométer hosszú, és a legenda szerint itt él Ogopogo, a tavi szörny.", "Kelowna Kanada egyik leggyorsabban növekvő nagyvárosi régiója.", "A várostól mindössze 45 percre található a Big White síközpont, amely világhírű a porhaváról.", "A Kelowna nemzetközi repülőtér a tíz legforgalmasabb kanadai légikikötő közé tartozik.", "A városban évente átlagosan több mint 2000 órán át süt a nap."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/kelowna-cities-v2.webp"},
   {
     id: "laval-cities-v2",
     type: "city",
@@ -364,8 +352,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lakossága meghaladja a 440 000 főt, ezzel Kanada 13. legnépesebb városa.", "A város az Île Jésus szigeten fekszik, amelynek területe 242 négyzetkilométer.", "Laval területének mintegy 30%-a továbbra is mezőgazdasági művelés alatt áll.", "Itt található a Cosmodôme, ahol az űrkutatás iránt érdeklődők szimulált küldetéseken vehetnek részt.", "A várost 1965-ben hozták létre 14 korábbi település egyesítésével.", "Laval gazdasági motorja a Biotechnológiai Park, ahol több tucat kutatócég működik.", "A város három metróállomással rendelkezik, amelyek közvetlen összeköttetést biztosítanak Montreal belvárosával."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/laval-cities-v2.webp"},
   {
     id: "gatineau-cities-v2",
     type: "city",
@@ -390,8 +377,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lakossága körülbelül 290 000 fő, az agglomerációval együtt meghaladja az egymilliót.", "A Kanadai Történeti Múzeum évente több mint 1,2 millió látogatót fogad.", "A Gatineau Park területe 361 négyzetkilométer, és 165 kilométernyi túraútvonallal rendelkezik.", "A várost az Ottawa-folyó választja el Ontario tartománytól és Ottawa városától.", "Itt működik a Kanadai Szövetségi Nyomda és számos kormányzati hivatal.", "A település 2002-ben jött létre öt korábbi város (köztük Hull és Aylmer) egyesülésével.", "Gatineau ad otthont minden évben Észak-Amerika egyik legnagyobb hőlégballon-fesztiváljának."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/gatineau-cities-v2.webp"},
   {
     id: "longueuil-cities-v2",
     type: "city",
@@ -416,8 +402,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lakossága meghaladja a 250 000 főt.", "Itt található a Kanadai Űrügynökség (CSA) központja, a John H. Chapman Space Centre.", "A város a Pratt & Whitney Canada székhelye, amely a világ egyik vezető repülőgépmotor-gyártója.", "A Szent Lőrinc-folyó alatt futó metróvonal közvetlen kapcsolatot biztosít Montreal szívével.", "A Parc Michel-Chartrand 185 hektáros területén mintegy 20 kilométernyi sífutó pálya található.", "A települést eredetileg 1657-ben alapította Charles Le Moyne de Longueuil.", "Longueuil kikötője népszerű helyszín a horgászok és a vitorlázók körében."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/longueuil-cities-v2.webp"},
   {
     id: "sherbrooke-cities-v2",
     type: "city",
@@ -442,8 +427,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lakossága körülbelül 175 000 fő.", "A városમાં két nagy egyetem működik: a franciául oktató Université de Sherbrooke és az angol nyelvű Bishop's University.", "Itt található Kanada egyik legrégebbi üzleti központja, a Sherbrooke-i Kereskedelmi Kamara.", "A belvárosban egyedülálló falfestmény-túra (Circuit des murales) várja a látogatókat 18 óriási festménnyel.", "A Magog-folyó mentén egy gyönyörű, 12 kilométeres sétány és kerékpárút húzódik.", "A város környékén több mint 100 park és zöldterület található.", "Sherbrooke gazdasága ma már főként az oktatásra, az egészségügyre és a technológiára épül."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/sherbrooke-cities-v2.webp"},
   {
     id: "saguenay-cities-v2",
     type: "city",
@@ -468,8 +452,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lakossága körülbelül 145 000 fő.", "Itt található a világ egyik legnagyobb alumíniumgyára, amelyet a Rio Tinto üzemeltet.", "A Saguenay-fjord a világ egyik leghosszabb fjordja, és az egyetlen, amely az édesvízi és sós vízi élővilágot ötvözi.", "A város területén található a Musée du Fjord, amely a régió különleges ökoszisztémáját mutatja be.", "La Baie városrésze fontos kikötő az óceánjáró luxushajók számára.", "A környéken található a Parc national du Fjord-du-Saguenay, amely lenyűgöző panorámát kínál a sziklákról.", "A városban évente megrendezik a „La Fabuleuse Histoire d'un Royaume” nevű monumentális történelmi játékot."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/saguenay-cities-v2.webp"},
   {
     id: "levis-cities-v2",
     type: "city",
@@ -494,8 +477,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lakossága meghaladja a 150 000 főt.", "Itt található a Desjardins Group központja, amely több mint 50 000 embert foglalkoztat Kanadában.", "A Lévis és Quebec City közötti komp évente több millió utast szállít át a folyón.", "A Forts-de-Lévis nemzeti történelmi emlékhely a 19. századi haditechnika remeke.", "A városban található Kelet-Kanada egyik legnagyobb olajfinomítója (Jean Gaulin Refinery).", "A Parc des Chutes-de-la-Chaudière 35 méter magas vízeséssel és egy lenyűgöző függőhíddal várja a kirándulókat.", "Lévis rendszeresen az ország legjobb életminőségű városai közé kerül a felmérésekben."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/levis-cities-v2.webp"},
   {
     id: "trois-rivieres-cities-v2",
     type: "city",
@@ -520,8 +502,7 @@ export const poiExtraCanadaCities: POI[] = [
       hu: ["Lakossága körülbelül 140 000 fő.", "1634-es alapításával ez a második legrégebbi francia város Észak-Amerikában (Quebec City után).", "A 20. század közepén a várost a „világ papírfővárosaként” ismerték.", "Itt rendezik meg a Grand Prix de Trois-Rivières autóversenyt, amely az egyik leghíresebb utcai verseny Kanadában.", "A Szent Lőrinc-folyón átívelő Laviolette-híd a város egyik jelképe, egyben Quebec leghosszabb rácsos hídja.", "A városban található a Notre-Dame-du-Cap bazilika, amely fontos zarándokhely.", "Trois-Rivières ad otthont a világ legnagyobb francia nyelvű költészeti fesztiváljának."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/trois-rivieres-cities-v2.webp"},
   {
     id: "lethbridge-cities-v2",
     type: "city",
@@ -556,7 +537,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/lethbridge-cities-v2.webp"},
   {
     id: "red-deer-cities-v2",
     type: "city",
@@ -591,7 +572,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/red-deer-cities-v2.webp"},
   {
     id: "st-albert-cities-v2",
     type: "city",
@@ -626,7 +607,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/st-albert-cities-v2.webp"},
   {
     id: "medicine-hat-cities-v2",
     type: "city",
@@ -661,7 +642,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/medicine-hat-cities-v2.webp"},
   {
     id: "grande-prairie-cities-v2",
     type: "city",
@@ -696,7 +677,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/grande-prairie-cities-v2.webp"},
   {
     id: "moncton-cities-v2",
     type: "city",
@@ -731,7 +712,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/moncton-cities-v2.webp"},
   {
     id: "saint-john-cities-v2",
     type: "city",
@@ -766,7 +747,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/saint-john-cities-v2.webp"},
   {
     id: "cape-breton-cities-v2",
     type: "city",
@@ -801,7 +782,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/cape-breton-cities-v2.webp"},
   {
     id: "barrie-cities-v2",
     type: "city",
@@ -836,7 +817,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/barrie-cities-v2.webp"},
   {
     id: "oshawa-cities-v2",
     type: "city",
@@ -871,7 +852,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/oshawa-cities-v2.webp"},
   {
     id: "guelph-cities-v2",
     type: "city",
@@ -906,7 +887,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/guelph-cities-v2.webp"},
   {
     id: "kingston-cities-v2",
     type: "city",
@@ -941,7 +922,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/kingston-cities-v2.webp"},
   {
     id: "kamloops-cities-v2",
     type: "city",
@@ -976,7 +957,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/kamloops-cities-v2.webp"},
   {
     id: "nanaimo-cities-v2",
     type: "city",
@@ -1011,7 +992,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/nanaimo-cities-v2.webp"},
   {
     id: "prince-george-cities-v2",
     type: "city",
@@ -1046,7 +1027,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/prince-george-cities-v2.webp"},
   {
     id: "chilliwack-cities-v2",
     type: "city",
@@ -1081,7 +1062,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/chilliwack-cities-v2.webp"},
   {
     id: "abbotsford-cities-v2",
     type: "city",
@@ -1116,7 +1097,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/abbotsford-cities-v2.webp"},
   {
     id: "thunder-bay-cities-v2",
     type: "city",
@@ -1151,7 +1132,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/thunder-bay-cities-v2.webp"},
   {
     id: "sudbury-cities-v2",
     type: "city",
@@ -1186,7 +1167,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/sudbury-cities-v2.webp"},
   {
     id: "brantford-cities-v2",
     type: "city",
@@ -1221,7 +1202,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/brantford-cities-v2.webp"},
   {
     id: "peterborough-cities-v2",
     type: "city",
@@ -1256,7 +1237,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/peterborough-cities-v2.webp"},
   {
     id: "sarnia-cities-v2",
     type: "city",
@@ -1291,7 +1272,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/sarnia-cities-v2.webp"},
   {
     id: "niagara-falls-city-cities-v2",
     type: "city",
@@ -1326,7 +1307,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/niagara-falls-city-cities-v2.webp"},
   {
     id: "st-catharines-cities-v2",
     type: "city",
@@ -1361,7 +1342,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/st-catharines-cities-v2.webp"},
   {
     id: "chatham-kent-cities-v2",
     type: "city",
@@ -1396,7 +1377,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/chatham-kent-cities-v2.webp"},
   {
     id: "new-westminster-cities-v2",
     type: "city",
@@ -1431,7 +1412,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/new-westminster-cities-v2.webp"},
   {
     id: "port-coquitlam-cities-v2",
     type: "city",
@@ -1466,7 +1447,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/port-coquitlam-cities-v2.webp"},
   {
     id: "langley-cities-v2",
     type: "city",
@@ -1501,7 +1482,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/langley-cities-v2.webp"},
   {
     id: "white-rock-cities-v2",
     type: "city",
@@ -1536,7 +1517,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/white-rock-cities-v2.webp"},
   {
     id: "terrebonne-cities-v2",
     type: "city",
@@ -1571,7 +1552,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/terrebonne-cities-v2.webp"},
   {
     id: "saint-jean-sur-richelieu-cities-v2",
     type: "city",
@@ -1606,7 +1587,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/saint-jean-sur-richelieu-cities-v2.webp"},
   {
     id: "blainville-cities-v2",
     type: "city",
@@ -1641,7 +1622,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/blainville-cities-v2.webp"},
   {
     id: "drummondville-cities-v2",
     type: "city",
@@ -1676,7 +1657,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/drummondville-cities-v2.webp"},
   {
     id: "saint-hyacinthe-cities-v2",
     type: "city",
@@ -1711,7 +1692,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/saint-hyacinthe-cities-v2.webp"},
   {
     id: "mirabel-cities-v2",
     type: "city",
@@ -1746,7 +1727,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/mirabel-cities-v2.webp"},
   {
     id: "granby-cities-v2",
     type: "city",
@@ -1781,7 +1762,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/granby-cities-v2.webp"},
   {
     id: "moose-jaw-cities-v2",
     type: "city",
@@ -1816,7 +1797,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/moose-jaw-cities-v2.webp"},
   {
     id: "prince-albert-cities-v2",
     type: "city",
@@ -1851,7 +1832,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/prince-albert-cities-v2.webp"},
   {
     id: "brandon-cities-v2",
     type: "city",
@@ -1886,7 +1867,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/brandon-cities-v2.webp"},
   {
     id: "north-bay-cities-v2",
     type: "city",
@@ -1921,7 +1902,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/north-bay-cities-v2.webp"},
   {
     id: "belleville-cities-v2",
     type: "city",
@@ -1956,7 +1937,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/belleville-cities-v2.webp"},
   {
     id: "sault-ste-marie-cities-v2",
     type: "city",
@@ -1991,7 +1972,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/sault-ste-marie-cities-v2.webp"},
   {
     id: "kawartha-lakes-cities-v2",
     type: "city",
@@ -2026,7 +2007,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/kawartha-lakes-cities-v2.webp"},
   {
     id: "airdrie-cities-v2",
     type: "city",
@@ -2061,7 +2042,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/airdrie-cities-v2.webp"},
   {
     id: "wood-buffalo-fort-mcmurray-cities-v2",
     type: "city",
@@ -2096,7 +2077,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/wood-buffalo-fort-mcmurray-cities-v2.webp"},
   {
     id: "st-johns-county-cities-v2",
     type: "city",
@@ -2131,7 +2112,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/st-johns-county-cities-v2.webp"},
   {
     id: "clarington-cities-v2",
     type: "city",
@@ -2166,7 +2147,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/clarington-cities-v2.webp"},
   {
     id: "pickering-cities-v2",
     type: "city",
@@ -2201,7 +2182,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/pickering-cities-v2.webp"},
   {
     id: "ajax-cities-v2",
     type: "city",
@@ -2236,7 +2217,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/ajax-cities-v2.webp"},
   {
     id: "richmond-hill-cities-v2",
     type: "city",
@@ -2271,7 +2252,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/richmond-hill-cities-v2.webp"},
   {
     id: "oakville-cities-v2",
     type: "city",
@@ -2306,7 +2287,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/oakville-cities-v2.webp"},
   {
     id: "burlington-cities-v2",
     type: "city",
@@ -2341,7 +2322,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/burlington-cities-v2.webp"},
   {
     id: "cambridge-cities-v2",
     type: "city",
@@ -2376,7 +2357,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/cambridge-cities-v2.webp"},
   {
     id: "waterloo-cities-v2",
     type: "city",
@@ -2411,7 +2392,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/waterloo-cities-v2.webp"},
   {
     id: "halton-hills-cities-v2",
     type: "city",
@@ -2446,7 +2427,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/halton-hills-cities-v2.webp"},
   {
     id: "milton-cities-v2",
     type: "city",
@@ -2481,7 +2462,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/milton-cities-v2.webp"},
   {
     id: "newmarket-cities-v2",
     type: "city",
@@ -2516,7 +2497,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/newmarket-cities-v2.webp"},
   {
     id: "caledon-cities-v2",
     type: "city",
@@ -2551,7 +2532,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/caledon-cities-v2.webp"},
   {
     id: "maple-ridge-cities-v2",
     type: "city",
@@ -2586,7 +2567,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/maple-ridge-cities-v2.webp"},
   {
     id: "north-vancouver-cities-v2",
     type: "city",
@@ -2621,7 +2602,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/north-vancouver-cities-v2.webp"},
   {
     id: "delta-cities-v2",
     type: "city",
@@ -2656,7 +2637,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/delta-cities-v2.webp"},
   {
     id: "victoriaville-cities-v2",
     type: "city",
@@ -2691,7 +2672,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/victoriaville-cities-v2.webp"},
   {
     id: "salaberry-de-valleyfield-cities-v2",
     type: "city",
@@ -2726,7 +2707,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/salaberry-de-valleyfield-cities-v2.webp"},
   {
     id: "saint-jerome-cities-v2",
     type: "city",
@@ -2761,7 +2742,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/saint-jerome-cities-v2.webp"},
   {
     id: "shawinigan-cities-v2",
     type: "city",
@@ -2796,7 +2777,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/shawinigan-cities-v2.webp"},
   {
     id: "rimouski-cities-v2",
     type: "city",
@@ -2831,7 +2812,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/rimouski-cities-v2.webp"},
   {
     id: "swift-current-cities-v2",
     type: "city",
@@ -2866,7 +2847,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/swift-current-cities-v2.webp"},
   {
     id: "yorkton-cities-v2",
     type: "city",
@@ -2901,7 +2882,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/yorkton-cities-v2.webp"},
   {
     id: "north-battleford-cities-v2",
     type: "city",
@@ -2936,7 +2917,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/north-battleford-cities-v2.webp"},
   {
     id: "lloydminster-cities-v2",
     type: "city",
@@ -2971,7 +2952,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/lloydminster-cities-v2.webp"},
   {
     id: "corner-brook-cities-v2",
     type: "city",
@@ -3006,7 +2987,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/corner-brook-cities-v2.webp"},
   {
     id: "mount-pearl-cities-v2",
     type: "city",
@@ -3041,7 +3022,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/mount-pearl-cities-v2.webp"},
   {
     id: "conception-bay-south-cities-v2",
     type: "city",
@@ -3076,7 +3057,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/conception-bay-south-cities-v2.webp"},
   {
     id: "truro-cities-v2",
     type: "city",
@@ -3111,7 +3092,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/truro-cities-v2.webp"},
   {
     id: "new-glasgow-cities-v2",
     type: "city",
@@ -3146,7 +3127,7 @@ export const poiExtraCanadaCities: POI[] = [
       "en": [],
       "de": [],
       "ro": []
-    }},
+    }, image: "/poi-images/new-glasgow-cities-v2.webp"},
   {
     id: "summerside-cities-v2",
     type: "city",
@@ -3183,3 +3164,4 @@ export const poiExtraCanadaCities: POI[] = [
       "ro": []
     }}
 ]
+

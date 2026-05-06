@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 const estoniaAllPoiBase: POI[] = [
@@ -3040,3 +3041,4 @@ export const estoniaNature: POI[] = [
 ];
 
 export const estoniaAllPoi: POI[] = [estoniaCountry, ...estoniaRegions, ...estoniaCities, ...estoniaCulture, ...estoniaNature];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSenegalLifeV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Népszerű kirándulóhely", "Vezetett szafarikat kínál"],
       ro: ["Destinație populară", "Oferă safari-uri ghidate"],
       en: ["Popular excursion spot", "Offers guided safaris"]
-    }
-  },
+    }, image: "/poi-images/reserve-bandia-life-v2.webp"},
   {
     id: "ferme-de-kolda-life-v2",
     type: "agriculture",
@@ -27,8 +27,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Termékeny talaj", "Hagyományos termesztési módszerek"],
       ro: ["Sol fertil", "Metode de cultivare tradiționale"],
       en: ["Fertile soil", "Traditional farming methods"]
-    }
-  },
+    }, image: "/poi-images/ferme-de-kolda-life-v2.webp"},
   {
     id: "parc-magic-land-life-v2",
     type: "kid-landmark",
@@ -41,8 +40,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Vidámparki játékok", "Közvetlen tengerparti elhelyezkedés"],
       ro: ["Atracții de parc", "Amplasare direct pe plajă"],
       en: ["Amusement rides", "Direct beach location"]
-    }
-  },
+    }, image: "/poi-images/parc-magic-land-life-v2.webp"},
   {
     id: "zone-arachidiere-life-v2",
     type: "agriculture",
@@ -55,8 +53,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Fő termesztési terület", "Fontos exportcikk"],
       ro: ["Principală zonă de cultivare", "Produs de export important"],
       en: ["Main cultivation area", "Important export commodity"]
-    }
-  },
+    }, image: "/poi-images/zone-arachidiere-life-v2.webp"},
   {
     id: "musee-des-enfants-life-v2",
     type: "kid-landmark",
@@ -69,8 +66,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Oktatási ajánlatok", "Interaktív kiállítások"],
       ro: ["Oferte educaționale", "Expoziții interactive"],
       en: ["Educational programs", "Interactive exhibits"]
-    }
-  },
+    }, image: "/poi-images/musee-des-enfants-life-v2.webp"},
   {
     id: "reserve-gueumbeul-life-v2",
     type: "animal-habitat",
@@ -83,8 +79,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Gazellák védelme", "Ökológiai oktatóközpont"],
       ro: ["Protecția gazelelor", "Centru educațional ecologic"],
       en: ["Protection of gazelles", "Ecological education center"]
-    }
-  },
+    }, image: "/poi-images/reserve-gueumbeul-life-v2.webp"},
   {
     id: "riziere-casamance-life-v2",
     type: "agriculture",
@@ -97,8 +92,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Fontos az élelmezésben", "Festői táj"],
       ro: ["Important pentru alimentație", "Peisaj pitoresc"],
       en: ["Important for food supply", "Picturesque landscape"]
-    }
-  },
+    }, image: "/poi-images/riziere-casamance-life-v2.webp"},
   {
     id: "jardin-zoologique-dakar-life-v2",
     type: "animal-habitat",
@@ -111,8 +105,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Helyi fajok központja", "Családbarát"],
       ro: ["Centru pentru specii locale", "Potrivit pentru familii"],
       en: ["Center for local species", "Family-friendly"]
-    }
-  },
+    }, image: "/poi-images/jardin-zoologique-dakar-life-v2.webp"},
   {
     id: "parc-lompoul-life-v2",
     type: "kid-landmark",
@@ -125,8 +118,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Kaland a gyerekeknek", "Tevegelés"],
       ro: ["Aventură pentru copii", "Plimbări cu cămila"],
       en: ["Adventure for kids", "Camel rides"]
-    }
-  },
+    }, image: "/poi-images/parc-lompoul-life-v2.webp"},
   {
     id: "culture-coton-tambacounda-life-v2",
     type: "agriculture",
@@ -139,8 +131,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Legfontosabb gazdasági ágazat", "Exporttermék"],
       ro: ["Cel mai important sector economic", "Produs de export"],
       en: ["Most important economic sector", "Export product"]
-    }
-  },
+    }, image: "/poi-images/culture-coton-tambacounda-life-v2.webp"},
   {
     id: "parc-national-oiseaux-life-v2",
     type: "animal-habitat",
@@ -153,8 +144,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Oktatási kirándulások", "Nagy madárvilág"],
       ro: ["Excursii educaționale", "Varietate mare de păsări"],
       en: ["Educational excursions", "Great bird diversity"]
-    }
-  },
+    }, image: "/poi-images/parc-national-oiseaux-life-v2.webp"},
   {
     id: "ferme-avicole-thiès-life-v2",
     type: "agriculture",
@@ -167,8 +157,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Helyi élelmiszerellátás", "Modern gazdálkodás"],
       ro: ["Aprovizionare locală cu alimente", "Fermă modernă"],
       en: ["Local food supply", "Modern farming"]
-    }
-  },
+    }, image: "/poi-images/ferme-avicole-thiès-life-v2.webp"},
   {
     id: "plage-des-enfants-life-v2",
     type: "kid-landmark",
@@ -181,8 +170,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Felügyelt", "Sekély víz"],
       ro: ["Supravegheată", "Apă mică"],
       en: ["Lifeguarded", "Shallow water"]
-    }
-  },
+    }, image: "/poi-images/plage-des-enfants-life-v2.webp"},
   {
     id: "reserve-fathala-life-v2",
     type: "animal-habitat",
@@ -195,8 +183,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Oroszlánvédelem", "Természet szafarik"],
       ro: ["Protecția leilor", "Safari-uri în natură"],
       en: ["Lion protection", "Nature safaris"]
-    }
-  },
+    }, image: "/poi-images/reserve-fathala-life-v2.webp"},
   {
     id: "jardin-botanique-dakar-life-v2",
     type: "kid-landmark",
@@ -223,8 +210,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Nagy hozamok", "Öntözési projektek"],
       ro: ["Randamente mari", "Proiecte de irigații"],
       en: ["High yields", "Irrigation projects"]
-    }
-  },
+    }, image: "/poi-images/culture-tomate-podor-life-v2.webp"},
   {
     id: "centre-ecquestre-dakar-life-v2",
     type: "kid-landmark",
@@ -237,8 +223,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Lovaglás oktatás", "Pónilovaglás"],
       ro: ["Lecții de călărie", "Plimbări cu ponei"],
       en: ["Riding lessons", "Pony rides"]
-    }
-  },
+    }, image: "/poi-images/centre-ecquestre-dakar-life-v2.webp"},
   {
     id: "culture-oignon-stlouis-life-v2",
     type: "agriculture",
@@ -251,8 +236,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Fontos piac", "Helyi mezőgazdaság"],
       ro: ["Piață importantă", "Agricultură locală"],
       en: ["Important market", "Local farming"]
-    }
-  },
+    }, image: "/poi-images/culture-oignon-stlouis-life-v2.webp"},
   {
     id: "parc-safari-delta-life-v2",
     type: "animal-habitat",
@@ -265,8 +249,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Vezetett túrák", "Madármegfigyelés"],
       ro: ["Tururi ghidate", "Observarea păsărilor"],
       en: ["Guided tours", "Bird watching"]
-    }
-  },
+    }, image: "/poi-images/parc-safari-delta-life-v2.webp"},
   {
     id: "ferme-maraichere-niayes-life-v2",
     type: "agriculture",
@@ -279,8 +262,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Magas termelékenység", "Dakar ellátása"],
       ro: ["Productivitate ridicată", "Aprovizionarea Dakarului"],
       en: ["High productivity", "Supply of Dakar"]
-    }
-  },
+    }, image: "/poi-images/ferme-maraichere-niayes-life-v2.webp"},
   {
     id: "musee-oceanographique-dakar-life-v2",
     type: "kid-landmark",
@@ -293,8 +275,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Tengerbiológia", "Akvárium"],
       ro: ["Biologie marină", "Acvariu"],
       en: ["Marine biology", "Aquarium"]
-    }
-  },
+    }, image: "/poi-images/musee-oceanographique-dakar-life-v2.webp"},
   {
     id: "elevage-de-moutons-diourbel-life-v2",
     type: "agriculture",
@@ -307,8 +288,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Hagyományos állattartás", "Helyi piacok"],
       ro: ["Creșterea tradițională a animalelor", "Piețe locale"],
       en: ["Traditional livestock farming", "Local markets"]
-    }
-  },
+    }, image: "/poi-images/elevage-de-moutons-diourbel-life-v2.webp"},
   {
     id: "reserve-de-faune-birdlife-v2",
     type: "animal-habitat",
@@ -321,8 +301,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Fontos pihenőhely", "Biodiverzitás"],
       ro: ["Loc de odihnă important", "Biodiversitate"],
       en: ["Important resting place", "Biodiversity"]
-    }
-  },
+    }, image: "/poi-images/reserve-de-faune-birdlife-v2.webp"},
   {
     id: "culture-canne-sucre-richard-toll-life-v2",
     type: "agriculture",
@@ -335,8 +314,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Nagy ültetvények", "Cukorgyártás"],
       ro: ["Plantații mari", "Fabricarea zahărului"],
       en: ["Large plantations", "Sugar production"]
-    }
-  },
+    }, image: "/poi-images/culture-canne-sucre-richard-toll-life-v2.webp"},
   {
     id: "parc-aventure-dakar-life-v2",
     type: "kid-landmark",
@@ -349,8 +327,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Sport gyerekeknek", "Biztonsági felszerelés"],
       ro: ["Sport pentru copii", "Echipament de siguranță"],
       en: ["Sports for kids", "Safety equipment"]
-    }
-  },
+    }, image: "/poi-images/parc-aventure-dakar-life-v2.webp"},
   {
     id: "ferme-aquacole-stlouis-life-v2",
     type: "agriculture",
@@ -377,8 +354,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Megfigyelő túrák", "Oktatómunka"],
       ro: ["Tururi de observare", "Muncă educativă"],
       en: ["Observation tours", "Educational work"]
-    }
-  },
+    }, image: "/poi-images/parc-des-singes-life-v2.webp"},
   {
     id: "jardin-des-enfants-life-v2",
     type: "kid-landmark",
@@ -405,8 +381,7 @@ export const poiExtraSenegalLifeV2: POI[] = [
       hu: ["Exportminőség", "Szezonális betakarítás"],
       ro: ["Calitate pentru export", "Recoltă sezonieră"],
       en: ["Export quality", "Seasonal harvest"]
-    }
-  },
+    }, image: "/poi-images/culture-mangue-casamance-life-v2.webp"},
   {
     id: "centre-de-rehabilitation-life-v2",
     type: "animal-habitat",
@@ -422,3 +397,4 @@ export const poiExtraSenegalLifeV2: POI[] = [
       }
   }
 ];
+

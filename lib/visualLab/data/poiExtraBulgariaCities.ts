@@ -1,4 +1,4 @@
-import { POI } from "./poi";
+﻿import { POI } from "./poi";
 
 export const poiExtraBulgariaCities: POI[] = [
   {

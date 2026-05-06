@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSudanReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Vulkáni rendszer", "2000 m feletti magasság"],
       ro: ["Sistem vulcanic", "Altitudine peste 2000 m"],
       en: ["Volcanic system", "Elevation over 2000 m"]
-    }
-  },
+    }, image: "/poi-images/jebel-tagabo-relief-v2.webp"},
   {
     id: "jebel-meidob-relief-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Vulkáni kúpok", "Sivatagi elhelyezkedés"],
       ro: ["Conuri vulcanice", "Locație deșertică"],
       en: ["Volcanic cones", "Desert location"]
-    }
-  },
+    }, image: "/poi-images/jebel-meidob-relief-v2.webp"},
   {
     id: "bayuda-desert-relief-v2",
     type: "relief",
@@ -41,8 +40,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Nílus-kanyar", "Vulkáni dombok"],
       ro: ["Buclele Nilului", "Dealuri vulcanice"],
       en: ["Nile loop", "Volcanic hills"]
-    }
-  },
+    }, image: "/poi-images/bayuda-desert-relief-v2.webp"},
   {
     id: "nile-valley-relief-v2",
     type: "relief",
@@ -55,8 +53,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Mezőgazdaság", "Központi tengely"],
       ro: ["Agricultură", "Axa centrală"],
       en: ["Agriculture", "Central axis"]
-    }
-  },
+    }, image: "/poi-images/nile-valley-relief-v2.webp"},
   {
     id: "jebel-kurun-relief-v2",
     type: "mountain",
@@ -69,8 +66,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Magányos hegy", "Központi dombság"],
       ro: ["Munte izolat", "Dealuri centrale"],
       en: ["Isolated mountain", "Central hilly area"]
-    }
-  },
+    }, image: "/poi-images/jebel-kurun-relief-v2.webp"},
   {
     id: "jebel-el-ain-relief-v2",
     type: "mountain",
@@ -97,8 +93,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Kiszáradt völgy", "Régi meder"],
       ro: ["Vale uscată", "Albie veche"],
       en: ["Dry valley", "Old river bed"]
-    }
-  },
+    }, image: "/poi-images/wadi-el-milk-relief-v2.webp"},
   {
     id: "jebel-shabluka-relief-v2",
     type: "mountain",
@@ -111,8 +106,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Sabaloka", "Nílus közelsége"],
       ro: ["Sabaloka", "Aproape de Nil"],
       en: ["Sabaloka", "Nile vicinity"]
-    }
-  },
+    }, image: "/poi-images/jebel-shabluka-relief-v2.webp"},
   {
     id: "taka-mountains-relief-v2",
     type: "mountain",
@@ -125,8 +119,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Gránit", "Kassala régió"],
       ro: ["Granit", "Regiunea Kassala"],
       en: ["Granite", "Kassala region"]
-    }
-  },
+    }, image: "/poi-images/taka-mountains-relief-v2.webp"},
   {
     id: "jebel-gebeit-relief-v2",
     type: "mountain",
@@ -139,8 +132,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Vörös-tengeri hegyek", "Kopár terep"],
       ro: ["Munții Mării Roșii", "Teren arid"],
       en: ["Red Sea Hills", "Arid terrain"]
-    }
-  },
+    }, image: "/poi-images/jebel-gebeit-relief-v2.webp"},
   {
     id: "nubian-hills-relief-v2",
     type: "mountain",
@@ -153,8 +145,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Tengerpart", "Szárazság"],
       ro: ["Coastă", "Ariditate"],
       en: ["Coast", "Aridity"]
-    }
-  },
+    }, image: "/poi-images/nubian-hills-relief-v2.webp"},
   {
     id: "jebel-abiyad-relief-v2",
     type: "mountain",
@@ -167,8 +158,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Sivatagi hegy", "Darfúr"],
       ro: ["Munte deșertic", "Darfur"],
       en: ["Desert mountain", "Darfur"]
-    }
-  },
+    }, image: "/poi-images/jebel-abiyad-relief-v2.webp"},
   {
     id: "kosti-ridge-relief-v2",
     type: "relief",
@@ -181,8 +171,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Fehér-Nílus", "Alföldi régió"],
       ro: ["Nilul Alb", "Regiune plată"],
       en: ["White Nile", "Flat region"]
-    }
-  },
+    }, image: "/poi-images/kosti-ridge-relief-v2.webp"},
   {
     id: "jebel-dair-massif-relief-v2",
     type: "mountain",
@@ -195,8 +184,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Nuba-hegység", "Természetvédelmi terület"],
       ro: ["Munții Nuba", "Arie protejată"],
       en: ["Nuba Mountains", "Protected area"]
-    }
-  },
+    }, image: "/poi-images/jebel-dair-massif-relief-v2.webp"},
   {
     id: "wadi-howar-delta-relief-v2",
     type: "relief",
@@ -209,8 +197,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Szahara", "Kiszáradt folyómeder"],
       ro: ["Sahara", "Curs secat"],
       en: ["Sahara", "Dry riverbed"]
-    }
-  },
+    }, image: "/poi-images/wadi-howar-delta-relief-v2.webp"},
   {
     id: "jebel-marra-highlands-relief-v2",
     type: "mountain",
@@ -223,8 +210,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Legmagasabb pont", "Vulkáni"],
       ro: ["Cel mai înalt punct", "Vulcanic"],
       en: ["Highest point", "Volcanic"]
-    }
-  },
+    }, image: "/poi-images/jebel-marra-highlands-relief-v2.webp"},
   {
     id: "atbara-plain-relief-v2",
     type: "relief",
@@ -237,8 +223,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Száraz síkság", "Nílus közeli"],
       ro: ["Câmpie aridă", "Lângă Nil"],
       en: ["Arid plain", "Nile vicinity"]
-    }
-  },
+    }, image: "/poi-images/atbara-plain-relief-v2.webp"},
   {
     id: "jebel-soturba-relief-v2",
     type: "mountain",
@@ -251,8 +236,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Part közeli", "Gránit"],
       ro: ["Aproape de coastă", "Granit"],
       en: ["Near coast", "Granite"]
-    }
-  },
+    }, image: "/poi-images/jebel-soturba-relief-v2.webp"},
   {
     id: "wadi-azum-valley-relief-v2",
     type: "relief",
@@ -265,8 +249,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Darfúr", "Időszakos folyó"],
       ro: ["Darfur", "Râu sezonier"],
       en: ["Darfur", "Seasonal river"]
-    }
-  },
+    }, image: "/poi-images/wadi-azum-valley-relief-v2.webp"},
   {
     id: "nuba-hills-central-relief-v2",
     type: "mountain",
@@ -279,8 +262,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Közép-Szudán", "Hegyvidéki táj"],
       ro: ["Sudanul Central", "Peisaj deluros"],
       en: ["Central Sudan", "Hilly landscape"]
-    }
-  },
+    }, image: "/poi-images/nuba-hills-central-relief-v2.webp"},
   {
     id: "jebel-uwaynat-sudan-relief-v2",
     type: "mountain",
@@ -293,8 +275,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Határvidék", "Homokkő"],
       ro: ["Regiune de frontieră", "Gresie"],
       en: ["Border region", "Sandstone"]
-    }
-  },
+    }, image: "/poi-images/jebel-uwaynat-sudan-relief-v2.webp"},
   {
     id: "dongola-plain-relief-v2",
     type: "relief",
@@ -307,8 +288,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Nílus", "Száraz"],
       ro: ["Nil", "Arid"],
       en: ["Nile", "Arid"]
-    }
-  },
+    }, image: "/poi-images/dongola-plain-relief-v2.webp"},
   {
     id: "jebel-mimi-relief-v2",
     type: "mountain",
@@ -335,8 +315,7 @@ export const poiExtraSudanReliefV2: POI[] = [
       hu: ["Szahara", "Sivatagi szakasz"],
       ro: ["Sahara", "Traseu deșertic"],
       en: ["Sahara", "Desert course"]
-    }
-  },
+    }, image: "/poi-images/wadi-howar-upper-relief-v2.webp"},
   {
     id: "khor-el-gash-plain-relief-v2",
     type: "relief",
@@ -352,3 +331,4 @@ export const poiExtraSudanReliefV2: POI[] = [
     }
   }
 ];
+

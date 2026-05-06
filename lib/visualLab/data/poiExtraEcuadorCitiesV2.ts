@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEcuadorCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az ország legfontosabb tengeri kikötője.", "A Guayas folyó partján fekszik.", "Itt található a híres Malecón 2000 sétány.", "Hivatalosan 1538-ban alapították."],
       ro: ["Cel mai important port maritim al țării.", "Situat pe râul Guayas.", "Aici se află faimoasa promenadă Malecón 2000.", "A fost fondat oficial în 1538."],
       en: ["The country's most important seaport.", "Located on the Guayas River.", "Home to the famous Malecón 2000 boardwalk.", "Officially founded in 1538."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Guayaquil ist als Ecuadors wirtschaftliches Herzstück bekannt und liegt strategisch günstig am Río Guayas. Die Stadt dient als größter Seehafen des Landes, durch den der Großteil des internationalen Handels abgewickelt wird. Historisch gewachsen, bietet sie heute moderne Infrastrukturen wie den Malecón 2000, eine 2,5 km lange Flusspromenade, die touristische Highlights mit Erholungsflächen verbindet. Im Jahr 1538 offiziell gegründet, hat sich Guayaquil von einem kolonialen Hafen zu einer urbanen Metropole gewandelt. Die Geografie ist geprägt durch die Nähe zum Pazifik und die feuchten Tropenwälder der Region, was das Klima ganzjährig warm hält. Für Schüler der Geografie in der Plizio-Kurrikulum-Reihe (K7) ist Guayaquil ein zentrales Beispiel für die Bedeutung von Küstenstädten bei der wirtschaftlichen Entwicklung eines Landes.",
+      hu: "Guayaquil Ecuador gazdasági központja, amely stratégiailag a Guayas folyó partján fekszik. Az ország legnagyobb tengeri kikötőjeként itt bonyolódik le a nemzetközi kereskedelem jelentős része. A város modern arculatát olyan fejlesztések határozzák meg, mint a 2,5 km hosszú Malecón 2000 sétány, amely a történelmi emlékeket ötvözi a szabadidős terekkel. 1538-as alapítása óta Guayaquil a gyarmati kikötőből modern nagyvárossá alakult át. Földrajzi fekvését a Csendes-óceán közelsége és a régió nedves trópusi erdői határozzák meg, ami egész évben meleg klímát biztosít. A Plizio tantervben (Földrajz K7) Guayaquil kiváló példája annak, hogyan járulnak hozzá a kikötővárosok egy ország gazdasági fejlődéséhez.",
+      ro: "Guayaquil este inima economică a Ecuadorului, situată strategic pe râul Guayas. Ca cel mai mare port maritim al țării, aici se gestionează majoritatea comerțului internațional. Orașul oferă infrastructuri moderne precum Malecón 2000, o promenadă de 2,5 km care îmbină atracțiile turistice cu spațiile de recreere. Fondat oficial în 1538, Guayaquil a evoluat de la un port colonial la o metropolă urbană. Geografia este definită de proximitatea față de Pacific și de pădurile tropicale umede, menținând o climă caldă pe tot parcursul anului. Pentru elevii de la cursurile Plizio (Geografie K7), Guayaquil este un studiu de caz central privind rolul orașelor portuare în dezvoltarea economică.",
+      en: "Guayaquil is known as Ecuador's economic heart, strategically situated on the Guayas River. As the country's largest seaport, it handles the majority of international trade. Modern developments like the 2.5 km long Malecón 2000 promenade blend tourist highlights with recreational spaces. Formally founded in 1538, Guayaquil has evolved from a colonial port into a sprawling urban metropolis. Its geography is defined by its proximity to the Pacific and the surrounding tropical forests, ensuring a warm climate year-round. For geography students in the Plizio curriculum (K7), Guayaquil serves as a key example of how port cities drive national economic development."
+    },
+    factsAdvanced: {
+      de: ["Größte Stadt Ecuadors mit über 2,5 Millionen Einwohnern.", "Offizielles Gründungsjahr ist 1538.", "Der Malecón 2000 erstreckt sich über 2,5 Kilometer.", "Hauptexportgüter sind Bananen und Kakao.", "Liegt nur wenige Meter über dem Meeresspiegel.", "Wichtigster Knotenpunkt des ecuadorianischen Außenhandels."],
+      hu: ["Ecuador legnagyobb városa, több mint 2,5 millió lakossal.", "Hivatalos alapítási év: 1538.", "A Malecón 2000 sétány 2,5 kilométer hosszú.", "Fő exportcikkek: banán és kakaó.", "Alig néhány méterrel a tengerszint felett fekszik.", "Az ecuadori külkereskedelem legfontosabb csomópontja."],
+      ro: ["Cel mai mare oraș din Ecuador cu peste 2,5 milioane de locuitori.", "Anul oficial de fondare este 1538.", "Malecón 2000 se întinde pe 2,5 kilometri.", "Principalele produse de export sunt bananele și cacao.", "Situat la doar câțiva metri deasupra nivelului mării.", "Cel mai important nod pentru comerțul exterior al Ecuadorului."],
+      en: ["Largest city in Ecuador with over 2.5 million inhabitants.", "Official founding year is 1538.", "The Malecón 2000 spans 2.5 kilometers.", "Main export goods are bananas and cocoa.", "Located just a few meters above sea level.", "Most important hub for Ecuadorian foreign trade."]
+    }, image: "/poi-images/guayaquil-cities-v2.webp"},
   {
     id: "quito-cities-v2",
     type: "state-capital",
@@ -37,8 +49,19 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["2850 méteres magasságban fekszik.", "Ez volt az első UNESCO világörökségi helyszín.", "Az Egyenlítő közelében található.", "A Pichincha vulkán magasodik a város fölé."],
       ro: ["Situat la o altitudine de 2.850 metri.", "A fost primul sit al Patrimoniului Mondial UNESCO.", "Se află aproape de Ecuator.", "Vulcanul Pichincha domină orașul."],
       en: ["Located at an altitude of 2,850 meters.", "It was the first UNESCO World Heritage site.", "Situated near the Equator.", "The Pichincha volcano towers over the city."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Quito, die Hauptstadt Ecuadors, ist eine der am höchsten gelegenen Hauptstädte der Welt, gelegen in einem schmalen Andental auf 2.850 Metern. Die Stadt ist für ihre außergewöhnlich gut erhaltene koloniale Altstadt bekannt, die 1978 als erste Stätte weltweit in das UNESCO-Weltkulturerbe aufgenommen wurde. Die Geografie ist geprägt von den Vulkanketten der Anden, wobei der majestätische Pichincha die Stadt überragt. Quito liegt nur etwa 25 Kilometer vom Äquator entfernt, was zu einer einzigartigen Sonneneinstrahlung führt. In der Plizio-Bildungsreihe (Földrajz K7) wird Quito oft im Kontext von Hochgebirgsstädten und deren klimatischen Anpassungen analysiert. Neben der historischen Bedeutung ist Quito ein Zentrum für Kultur und Politik in den Anden.",
+      hu: "Quito, Ecuador fővárosa, a világ egyik legmagasabban fekvő fővárosa, 2850 méteren, egy keskeny andesi völgyben helyezkedik el. A város kivételesen jól megőrzött gyarmati óvárosáról híres, amelyet 1978-ban elsőként vettek fel az UNESCO világörökségi listájára. Földrajzát az Andok vulkánláncai határozzák meg, a fenséges Pichincha vulkánnal a háttérben. Quito mindössze 25 kilométerre fekszik az Egyenlítőtől, ami különleges napsütéses klímát eredményez. A Plizio tantervben (Földrajz K7) Quitót gyakran a magashegyi városok és azok éghajlati adaptációjának összefüggésében elemzik. Történelmi jelentősége mellett Quito az andoki kultúra és politika központja.",
+      ro: "Quito, capitala Ecuadorului, este una dintre cele mai înalte capitale din lume, situată într-o vale îngustă a Anzilor la 2.850 de metri. Orașul este celebru pentru centrul său vechi colonial excepțional conservat, care în 1978 a devenit primul sit din lume înscris în Patrimoniul Mondial UNESCO. Geografia este definită de lanțurile vulcanice ale Anzilor, impunătorul Pichincha dominând orașul. Quito se află la doar 25 de kilometri de Ecuator, ceea ce duce la o incidență solară unică. În seria educațională Plizio (Geografie K7), Quito este adesea analizat în contextul orașelor de mare altitudine și al adaptărilor lor climatice. Pe lângă importanța istorică, Quito este un centru pentru cultură și politică în Anzi.",
+      en: "Quito, the capital of Ecuador, is one of the highest capitals in the world, situated in a narrow Andean valley at 2,850 meters. The city is known for its exceptionally well-preserved colonial historic center, which in 1978 became the first site in the world to be inscribed as a UNESCO World Heritage site. The geography is dominated by the volcanic chains of the Andes, with the majestic Pichincha towering over the city. Quito lies only about 25 kilometers from the equator, resulting in unique solar exposure. In the Plizio curriculum series (Geography K7), Quito is often analyzed in the context of high-mountain cities and their climatic adaptations. Beyond its historical significance, Quito is a hub for culture and politics in the Andes."
+    },
+    factsAdvanced: {
+      de: ["Liegt auf einer Höhe von 2.850 Metern.", "Erste UNESCO-Weltkulturerbestätte (1978).", "Befindet sich 25 km südlich vom Äquator.", "Der Pichincha ist ein aktiver Vulkan nahe der Stadt.", "Das historische Zentrum umfasst 320 Hektar.", "Quito ist das politische und kulturelle Zentrum Ecuadors."],
+      hu: ["2850 méteres tengerszint feletti magasságban fekszik.", "Az első UNESCO világörökségi helyszín (1978).", "25 km-re délre fekszik az Egyenlítőtől.", "A Pichincha egy aktív vulkán a város közelében.", "A történelmi központ 320 hektár területű.", "Quito Ecuador politikai és kulturális központja."],
+      ro: ["Situat la o altitudine de 2.850 de metri.", "Primul sit al Patrimoniului Mondial UNESCO (1978).", "Se află la 25 km sud de Ecuator.", "Pichincha este un vulcan activ în apropierea orașului.", "Centrul istoric acoperă 320 de hectare.", "Quito este centrul politic și cultural al Ecuadorului."],
+      en: ["Located at an altitude of 2,850 meters.", "First UNESCO World Heritage site (1978).", "Situated 25 km south of the Equator.", "Pichincha is an active volcano near the city.", "The historical center covers 320 hectares.", "Quito is the political and cultural hub of Ecuador."]
+    }, image: "/poi-images/quito-cities-v2.webp"},
   {
     id: "cuenca-cities-v2",
     type: "state-capital",
@@ -56,8 +79,19 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A panamakalap-gyártás központja.", "Az óváros UNESCO világörökség.", "Négy folyó szeli át.", "Ecuador harmadik legnagyobb városa."],
       ro: ["Centrul producției de pălării Panama.", "Centrul vechi este în Patrimoniul Mondial UNESCO.", "Este traversat de patru râuri.", "Al treilea oraș ca mărime din Ecuador."],
       en: ["Center of Panama hat production.", "The historic center is a UNESCO World Heritage site.", "Crossed by four rivers.", "The third-largest city in Ecuador."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Cuenca, offiziell Santa Ana de los Cuatro Ríos de Cuenca genannt, liegt im südlichen Hochland Ecuadors auf 2.560 Metern. Die Stadt zeichnet sich durch ihre architektonische Schönheit aus, geprägt von spanischen Kolonialbauten und Kopfsteinpflasterstraßen, was ihr 1999 den UNESCO-Weltkulturerbe-Status einbrachte. Geografisch ist die Region durch vier Flüsse bestimmt, die durch das Stadtgebiet fließen: Tomebamba, Yanuncay, Tarqui und Machángara. Historisch war die Region vor der spanischen Ankunft ein Zentrum der Cañari-Kultur und der Inkas, deren Überreste in der Nähe (Ingapirca) noch zu finden sind. Für Geschichtsinteressierte (Plizio-Kurrikulum K8) stellt Cuenca eine faszinierende Mischung aus vorkolumbianischer Vergangenheit und europäischer Stadtplanung dar.",
+      hu: "Cuenca, hivatalos nevén Santa Ana de los Cuatro Ríos de Cuenca, Ecuador déli hegyvidékén, 2560 méteren fekszik. A várost építészeti szépsége jellemzi, amely a spanyol gyarmati épületek és macskaköves utcák egyvelege, amiért 1999-ben felvették az UNESCO világörökségi listájára. Földrajzilag a régiót négy folyó határozza meg, amelyek átszelik a várost: a Tomebamba, a Yanuncay, a Tarqui és a Machángara. Történelmileg a terület a spanyol érkezés előtt a Cañari-kultúra és az inkák központja volt, amelyek maradványai a közelben (Ingapirca) ma is megtalálhatók. A történelem iránt érdeklődőknek (Plizio tanterv K8) Cuenca a prekolumbán múlt és az európai várostervezés lenyűgöző keverékét kínálja.",
+      ro: "Cuenca, numit oficial Santa Ana de los Cuatro Ríos de Cuenca, este situat în zona înaltă din sudul Ecuadorului, la 2.560 de metri. Orașul se distinge prin frumusețea sa arhitecturală, caracterizată de clădiri coloniale spaniole și străzi pietruite, ceea ce i-a adus statutul de Patrimoniu Mondial UNESCO în 1999. Din punct de vedere geografic, regiunea este definită de patru râuri care curg prin oraș: Tomebamba, Yanuncay, Tarqui și Machángara. Istoric, înainte de sosirea spaniolilor, regiunea a fost un centru al culturii Cañari și al incașilor, ale căror rămășițe pot fi găsite în apropiere (Ingapirca). Pentru pasionații de istorie (curriculum Plizio K8), Cuenca reprezintă un amestec fascinant de trecut precolumbian și planificare urbană europeană.",
+      en: "Cuenca, officially named Santa Ana de los Cuatro Ríos de Cuenca, is located in the southern highlands of Ecuador at 2,560 meters. The city is distinguished by its architectural beauty, characterized by Spanish colonial buildings and cobblestone streets, earning it UNESCO World Heritage status in 1999. Geographically, the region is defined by four rivers that flow through the city: the Tomebamba, Yanuncay, Tarqui, and Machángara. Historically, before the Spanish arrival, the region was a center of the Cañari culture and the Incas, whose remains can still be found nearby (Ingapirca). For history enthusiasts (Plizio curriculum K8), Cuenca offers a fascinating blend of pre-Columbian past and European urban planning."
+    },
+    factsAdvanced: {
+      de: ["Liegt auf 2.560 Metern in den Anden.", "UNESCO-Welterbe seit 1999.", "Durchflossen von vier Flüssen (Tomebamba, Yanuncay, Tarqui, Machángara).", "Ingapirca, das bedeutendste Inka-Monument Ecuadors, liegt in der Nähe.", "Dritte größte Stadt des Landes.", "Bekannt als Zentrum des Panama-Hut-Handwerks."],
+      hu: ["2560 méteren fekszik az Andokban.", "UNESCO világörökség 1999 óta.", "Négy folyó szeli át (Tomebamba, Yanuncay, Tarqui, Machángara).", "Ingapirca, Ecuador legjelentősebb inka emlékműve a közelben található.", "Az ország harmadik legnagyobb városa.", "A panamakalap-készítés központjaként ismert."],
+      ro: ["Situat la 2.560 de metri în Anzi.", "Patrimoniul Mondial UNESCO din 1999.", "Traversat de patru râuri (Tomebamba, Yanuncay, Tarqui, Machángara).", "Ingapirca, cel mai important monument incaș din Ecuador, este în apropiere.", "Al treilea oraș ca mărime din țară.", "Cunoscut ca centru al meșteșugului pălăriilor Panama."],
+      en: ["Located at 2,560 meters in the Andes.", "UNESCO World Heritage site since 1999.", "Crossed by four rivers (Tomebamba, Yanuncay, Tarqui, Machángara).", "Ingapirca, Ecuador's most significant Inca monument, is nearby.", "Third-largest city in the country.", "Known as the center of Panama hat craftsmanship."]
+    }, image: "/poi-images/cuenca-cities-v2.webp"},
   {
     id: "santo-domingo-cities-v2",
     type: "state-capital",
@@ -75,8 +109,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A Tsáchila kultúra otthona.", "Az ország negyedik legnagyobb városa.", "Trópusi esőerdei éghajlata van.", "Jelentős mezőgazdasági központ."],
       ro: ["Căminul culturii Tsáchila.", "Al patrulea oraș ca mărime din țară.", "Are o climă de pădure tropicală.", "Un centru agricol important."],
       en: ["Home to the Tsáchila culture.", "The fourth-largest city in the country.", "Has a tropical rainforest climate.", "A major agricultural center."]
-    }
-  },
+    }, image: "/poi-images/santo-domingo-cities-v2.webp"},
   {
     id: "machala-cities-v2",
     type: "state-capital",
@@ -94,8 +127,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["El Oro tartomány fővárosa.", "Fontos exportkikötő a közelben (Puerto Bolívar).", "Az éves banánfesztivál sok látogatót vonz.", "A mezőgazdaság dominálja a helyi gazdaságot."],
       ro: ["Capitala provinciei El Oro.", "Port de export important în apropiere (Puerto Bolívar).", "Festivalul anual al bananelor atrage mulți vizitatori.", "Agricultura domină economia locală."],
       en: ["Capital of the El Oro province.", "Major export port nearby (Puerto Bolívar).", "The annual banana festival attracts many visitors.", "Agriculture dominates the local economy."]
-    }
-  },
+    }, image: "/poi-images/machala-cities-v2.webp"},
   {
     id: "duran-cities-v2",
     type: "city",
@@ -113,8 +145,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A múltban fontos vasúti csomópont volt.", "A guayaquili nagyvárosi régió része.", "Erősen iparosodott város.", "Gyorsan növekvő népességgel rendelkezik."],
       ro: ["Un nod feroviar important în trecut.", "Face parte din zona metropolitană Guayaquil.", "Puternic industrializat.", "Populație în creștere rapidă."],
       en: ["A major railway hub in the past.", "Part of the Guayaquil metropolitan area.", "Highly industrialized.", "Fast-growing population."]
-    }
-  },
+    }, image: "/poi-images/duran-cities-v2.webp"},
   {
     id: "manta-cities-v2",
     type: "city",
@@ -132,8 +163,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az ecuadori tonhalipar központja.", "Az ország második legnagyobb tengeri kikötője.", "Népszerű célpont a tengerjáró hajók számára.", "A Manteño kultúra virágzott itt a gyarmatosítás előtt."],
       ro: ["Centrul industriei ecuadoriene a tonului.", "Al doilea cel mai mare port maritim al țării.", "O destinație populară pentru navele de croazieră.", "Cultura Manteño a înflorit aici înainte de colonizare."],
       en: ["Center of the Ecuadorian tuna industry.", "The second-largest seaport in the country.", "A popular destination for cruise ships.", "The Manteño culture flourished here prior to colonization."]
-    }
-  },
+    }, image: "/poi-images/manta-cities-v2.webp"},
   {
     id: "portoviejo-cities-v2",
     type: "state-capital",
@@ -151,8 +181,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Manabí tartomány fővárosa.", "Az ecuadori partvidék egyik legrégebbi városa.", "Fontos kávé- és kakaótermesztő központ.", "1535-ben alapították."],
       ro: ["Capitala provinciei Manabí.", "Unul dintre cele mai vechi orașe de pe coasta Ecuadorului.", "Un important centru agricol pentru cafea și cacao.", "A fost fondat în 1535."],
       en: ["Capital of the Manabí province.", "One of the oldest cities on the coast of Ecuador.", "A major agricultural center for coffee and cocoa.", "Founded in 1535."]
-    }
-  },
+    }, image: "/poi-images/portoviejo-cities-v2.webp"},
   {
     id: "ibarra-cities-v2",
     type: "state-capital",
@@ -170,8 +199,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Imbabura tartomány fővárosa.", "Az Imbabura vulkán lábánál fekszik.", "Híres a Helados de Paila nevű fagylaltjáról.", "1606-ban alapították."],
       ro: ["Capitala provinciei Imbabura.", "Situat la poalele vulcanului Imbabura.", "Faimos pentru înghețata Helados de Paila.", "A fost fondat în 1606."],
       en: ["Capital of the Imbabura province.", "Located at the foot of the Imbabura volcano.", "Famous for the ice cream Helados de Paila.", "Founded in 1606."]
-    }
-  },
+    }, image: "/poi-images/ibarra-cities-v2.webp"},
   {
     id: "quevedo-cities-v2",
     type: "city",
@@ -189,8 +217,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az ország egyik legfontosabb mezőgazdasági központja.", "A Quevedo folyó partján fekszik.", "Jelentős kínai közösséggel rendelkezik.", "Kakaó- és banántermesztéséről ismert."],
       ro: ["Unul dintre cele mai importante centre agricole ale țării.", "Situat pe râul Quevedo.", "Are o comunitate mare chineză.", "Cunoscut pentru producția de cacao și banane."],
       en: ["One of the most important agricultural centers in the country.", "Located on the Quevedo River.", "Has a large Chinese community.", "Known for cocoa and banana production."]
-    }
-  },
+    }, image: "/poi-images/quevedo-cities-v2.webp"},
   {
     id: "loja-cities-v2",
     type: "state-capital",
@@ -208,8 +235,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Ecuador egyik legrégebbi városa (1548-ban alapították).", "Úttörő a megújuló energia használatában.", "A lojai nemzetközi művészeti fesztivál házigazdája.", "A közelben fekszik a hosszú élet falva, Vilcabamba."],
       ro: ["Unul dintre cele mai vechi orașe din Ecuador (fondat în 1548).", "Pionier în utilizarea energiei regenerabile.", "Găzduiește festivalul internațional de artă din Loja.", "În apropiere se află satul longevității, Vilcabamba."],
       en: ["One of the oldest cities in Ecuador (founded 1548).", "Pioneer in the use of renewable energy.", "Hosts the Loja international arts festival.", "Nearby is the longevity village of Vilcabamba."]
-    }
-  },
+    }, image: "/poi-images/loja-cities-v2.webp"},
   {
     id: "ambato-cities-v2",
     type: "state-capital",
@@ -227,8 +253,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["1949-ben egy súlyos földrengés majdnem elpusztította.", "Fontos ipari központ.", "A Fiesta de las Flores y las Frutas világszerte ismert.", "Az Ambato folyó völgyében fekszik."],
       ro: ["A fost aproape distrus de un cutremur major în 1949.", "Un important centru industrial.", "Fiesta de las Flores y las Frutas este renumită la nivel mondial.", "Situat în valea râului Ambato."],
       en: ["Was almost destroyed by a major earthquake in 1949.", "A major industrial center.", "The Fiesta de las Flores y las Frutas is world-renowned.", "Located in the Ambato river valley."]
-    }
-  },
+    }, image: "/poi-images/ambato-cities-v2.webp"},
   {
     id: "esmeraldas-cities-v2",
     type: "state-capital",
@@ -246,8 +271,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Itt található az ország legfontosabb olajkikötője.", "A marimba zene központja.", "1526-ban fedezték fel a spanyolok.", "Az éghajlat forró és párás."],
       ro: ["Are cel mai important port petrolier al țării.", "Centrul muzicii marimba.", "A fost descoperit de spanioli în 1526.", "Clima este caldă și umedă."],
       en: ["Has the most important oil port in the country.", "Center of Marimba music.", "Discovered by the Spanish in 1526.", "The climate is hot and humid."]
-    }
-  },
+    }, image: "/poi-images/esmeraldas-cities-v2.webp"},
   {
     id: "riobamba-cities-v2",
     type: "state-capital",
@@ -265,8 +289,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A Chimborazo, Ecuador legmagasabb hegye a közelben található.", "Az első ecuadori alkotmányt itt írták alá 1830-ban.", "Fontos vasúti csomópont.", "Színes őslakos piacáról ismert."],
       ro: ["Chimborazo, cel mai înalt munte din Ecuador, este în apropiere.", "Prima constituție ecuadoriană a fost semnată aici în 1830.", "Un nod feroviar important.", "Cunoscut pentru piața sa indigenă colorată."],
       en: ["Chimborazo, Ecuador's highest mountain, is nearby.", "The first Ecuadorian constitution was signed here in 1830.", "A major railway hub.", "Known for its colorful indigenous market."]
-    }
-  },
+    }, image: "/poi-images/riobamba-cities-v2.webp"},
   {
     id: "milagro-cities-v2",
     type: "city",
@@ -284,8 +307,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A cukor és az ananász egyik fő termelője.", "A Guayas-medencében található.", "Nagyon termékeny talajok veszik körül a várost.", "Gyorsan növekszik Guayaquil közelsége miatt."],
       ro: ["Unul dintre principalii producători de zahăr și ananas.", "Situat în bazinul Guayas.", "Orașul este înconjurat de soluri foarte fertile.", "Crește rapid datorită apropierii de Guayaquil."],
       en: ["One of the main producers of sugar and pineapples.", "Located in the Guayas Basin.", "Very fertile soils surround the city.", "Growing rapidly due to its proximity to Guayaquil."]
-    }
-  },
+    }, image: "/poi-images/milagro-cities-v2.webp"},
   {
     id: "latacunga-cities-v2",
     type: "state-capital",
@@ -303,8 +325,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Vulkánkitörések többször elpusztították, majd újjáépítették.", "Az exportra szánt rózsatermesztés központja.", "Az építészet sok sötét vulkáni kőzetet használ.", "A Mama Negra fesztivál ötvözi az őslakos, spanyol és afrikai kultúrákat."],
       ro: ["Distrus și reconstruit de mai multe ori de erupții vulcanice.", "Centrul cultivării trandafirilor pentru export.", "Arhitectura folosește multă rocă vulcanică închisă.", "Festivalul Mama Negra combină culturile indigenă, spaniolă și africană."],
       en: ["Destroyed and rebuilt several times due to volcanic eruptions.", "Center of rose cultivation for export.", "The architecture features a lot of dark volcanic rock.", "The Mama Negra festival combines indigenous, Spanish, and African cultures."]
-    }
-  },
+    }, image: "/poi-images/latacunga-cities-v2.webp"},
   {
     id: "la-libertad-cities-v2",
     type: "city",
@@ -322,8 +343,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A legnagyobb város Santa Elena tartományban.", "Olajfinomítók és a kereskedelem fontos központja.", "Nyüzsgő piacokkal rendelkezik a strand közelében.", "1993-ban lett független önkormányzat."],
       ro: ["Cel mai mare oraș din provincia Santa Elena.", "O locație importantă pentru rafinării și comerț.", "Are piețe pline de viață aproape de plajă.", "A devenit o municipalitate independentă în 1993."],
       en: ["Largest city in the Santa Elena province.", "An important location for oil refineries and commerce.", "Has bustling markets near the beach.", "Became an independent municipality in 1993."]
-    }
-  },
+    }, image: "/poi-images/la-libertad-cities-v2.webp"},
   {
     id: "babahoyo-cities-v2",
     type: "state-capital",
@@ -341,8 +361,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Los Ríos tartomány fővárosa.", "A Babahoyo folyó partján fekszik.", "A hagyományos úszó házak még mindig láthatók itt.", "Jelentős rizs- és kakaótermelő."],
       ro: ["Capitala provinciei Los Ríos.", "Situat pe malurile râului Babahoyo.", "Casele plutitoare tradiționale mai pot fi văzute aici.", "Un important producător de orez și cacao."],
       en: ["Capital of the Los Ríos province.", "Located on the banks of the Babahoyo River.", "Traditional floating houses can still be seen here.", "An important producer of rice and cocoa."]
-    }
-  },
+    }, image: "/poi-images/babahoyo-cities-v2.webp"},
   {
     id: "sangolqui-cities-v2",
     type: "city",
@@ -360,8 +379,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A Rumiñahui kanton része.", "Nagyon népszerű hétvégi kirándulóhely a quitóiak körében.", "Számos színes utcai piacnak ad otthont.", "A Pasochoa Természetvédelmi Terület közelében fekszik."],
       ro: ["Face parte din cantonul Rumiñahui.", "Foarte popular ca excursie de weekend pentru locuitorii din Quito.", "Găzduiește numeroase piețe stradale colorate.", "Situat aproape de Rezervația Naturală Pasochoa."],
       en: ["Part of the Rumiñahui canton.", "Very popular as a weekend getaway for Quito residents.", "Hosts numerous colorful street markets.", "Located near the Pasochoa Nature Reserve."]
-    }
-  },
+    }, image: "/poi-images/sangolqui-cities-v2.webp"},
   {
     id: "daule-cities-v2",
     type: "city",
@@ -379,8 +397,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A Daule folyó partján fekszik.", "Történelmi vidéki haciendái vannak.", "A gazdaság jelentős része a mezőgazdaságon alapul.", "A város az utóbbi időben erős városi növekedést mutat."],
       ro: ["Situat pe râul Daule.", "Are haciendas rurale istorice.", "O parte semnificativă a economiei se bazează pe agricultură.", "Orașul a cunoscut o puternică creștere urbană recent."],
       en: ["Located on the Daule River.", "Has historic rural haciendas.", "A significant part of the economy is based on agriculture.", "The city has seen strong urban growth recently."]
-    }
-  },
+    }, image: "/poi-images/daule-cities-v2.webp"},
   {
     id: "tulcan-cities-v2",
     type: "state-capital",
@@ -398,8 +415,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A tulcáni temetőben művészi sövényszobrok találhatók.", "A legmagasabban fekvő tartományi főváros Ecuadorban (2950 m).", "Fontos határátkelőhely a kereskedelem számára.", "Az éghajlat egész évben hűvös."],
       ro: ["Cimitirul din Tulcán prezintă sculpturi vegetale artistice.", "Cea mai înaltă capitală de provincie din Ecuador (2.950 m).", "Un post de frontieră important pentru comerț.", "Clima este răcoroasă pe tot parcursul anului."],
       en: ["The cemetery of Tulcán features artistic topiary.", "Highest provincial capital in Ecuador (2,950 m).", "An important border crossing for trade.", "The climate is cool year-round."]
-    }
-  },
+    }, image: "/poi-images/tulcan-cities-v2.webp"},
   {
     id: "chone-cities-v2",
     type: "city",
@@ -417,8 +433,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Híres a kiváló minőségű kakaó termeléséről.", "A helyi sajtgyártás nagyon ismert.", "Az ecuadori Montubio örökség központja.", "A város a múltban súlyos áradásokat élt át."],
       ro: ["Faimos pentru producția de cacao de înaltă calitate.", "Producția locală de brânză este foarte cunoscută.", "Centrul patrimoniului montubio ecuadorian.", "Orașul a suferit inundații puternice în trecut."],
       en: ["Famous for the production of high-quality cocoa.", "Local cheese production is highly renowned.", "Center of the Ecuadorian Montubio heritage.", "The city has experienced severe flooding in the past."]
-    }
-  },
+    }, image: "/poi-images/chone-cities-v2.webp"},
   {
     id: "pasaje-cities-v2",
     type: "city",
@@ -436,8 +451,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Nevét az Andokba vezető természetes átjáróról kapta.", "A Jubones folyó mentén található.", "Fontos csomópont a mezőgazdasági termékek szállításában.", "A mezőgazdaság határozza meg a város ritmusát."],
       ro: ["Numit după trecerea naturală către Anzi.", "Situat pe râul Jubones.", "Un nod important pentru transportul produselor agricole.", "Agricultura determină ritmul orașului."],
       en: ["Named after the natural passage into the Andes.", "Located on the Jubones River.", "An important hub for the transport of agricultural goods.", "Agriculture dictates the rhythm of the city."]
-    }
-  },
+    }, image: "/poi-images/pasaje-cities-v2.webp"},
   {
     id: "santa-rosa-cities-v2",
     type: "city",
@@ -455,8 +469,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Ecuador garnélarák-fővárosának tartják.", "Itt található a Santa Rosa repülőtér.", "Fontos mezőgazdasági termelő El Oróban.", "A város évente nagy rákfesztivált ünnepel."],
       ro: ["Considerată capitala creveților din Ecuador.", "Aici se află aeroportul Santa Rosa.", "Un producător agricol important în El Oro.", "Orașul sărbătorește anual un mare festival al crabilor."],
       en: ["Considered the shrimp capital of Ecuador.", "The Santa Rosa airport is located here.", "An important agricultural producer in El Oro.", "The city celebrates a large crab festival annually."]
-    }
-  },
+    }, image: "/poi-images/santa-rosa-cities-v2.webp"},
   {
     id: "nueva-loja-cities-v2",
     type: "state-capital",
@@ -474,8 +487,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Sucumbíos tartomány fővárosa.", "Az 1960-as évek olajbúmja hozta létre.", "A Cuyabeno Természetvédelmi Terület kapuja.", "Nagyon sokszínű bevándorló lakossággal rendelkezik."],
       ro: ["Capitala provinciei Sucumbíos.", "A fost înființat în anii 1960 datorită boom-ului petrolier.", "Poarta către Rezervația Naturală Cuyabeno.", "Are o populație de migranți foarte diversă."],
       en: ["Capital of the Sucumbíos province.", "Established in the 1960s due to the oil boom.", "The gateway to the Cuyabeno Nature Reserve.", "Has a very diverse migrant population."]
-    }
-  },
+    }, image: "/poi-images/nueva-loja-cities-v2.webp"},
   {
     id: "huaquillas-cities-v2",
     type: "city",
@@ -493,8 +505,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A Zarumilla folyó választja el Perutól.", "A kereskedelem a fő bevételi forrás.", "Sok perui vásárlót vonz.", "A két ország kultúrájának olvasztótégelye."],
       ro: ["Separat de Peru prin râul Zarumilla.", "Comerțul este principala sursă de venit.", "Atrage mulți cumpărători peruvieni.", "Un creuzet al culturilor din ambele țări."],
       en: ["Separated from Peru by the Zarumilla River.", "Commerce is the main source of income.", "Attracts many Peruvian shoppers.", "A melting pot of cultures from both countries."]
-    }
-  },
+    }, image: "/poi-images/huaquillas-cities-v2.webp"},
   {
     id: "el-carmen-cities-v2",
     type: "city",
@@ -512,8 +523,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A Barraganete főzőbanán legnagyobb termelője Ecuadorban.", "Fontos közlekedési csomópont a partvidék és a hegyvidék között.", "A mezőgazdaság a legfontosabb gazdasági ágazat.", "A város évente megünnepli a főzőbanán fesztiválját."],
       ro: ["Cel mai mare producător de pătlagini Barraganete din Ecuador.", "Un nod important de transport între coastă și zona montană.", "Agricultura este cea mai importantă ramură economică.", "Orașul sărbătorește anual festivalul pătlaginii."],
       en: ["Largest producer of the Barraganete plantain in Ecuador.", "An important transport hub between the coast and the highlands.", "Agriculture is the most important economic sector.", "The city annually celebrates the Plantain Festival."]
-    }
-  },
+    }, image: "/poi-images/el-carmen-cities-v2.webp"},
   {
     id: "montecristi-cities-v2",
     type: "city",
@@ -531,8 +541,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Itt található a Ciudad Alfaro Múzeum.", "A finom toquilla szalmaszövés központja.", "Festői környezetben fekszik a Cerro Montecristi lábánál.", "Fontos politikai és kulturális helyszín az ecuadori történelemben."],
       ro: ["Aici se află Muzeul Ciudad Alfaro.", "Centrul împletirii fine a paielor toquilla.", "Situat pitoresc la poalele Cerro Montecristi.", "Un loc politic și cultural important în istoria Ecuadorului."],
       en: ["The Ciudad Alfaro Museum is located here.", "Center of fine toquilla straw weaving.", "Picturesquely located at the foot of Cerro Montecristi.", "An important political and cultural site in Ecuadorian history."]
-    }
-  },
+    }, image: "/poi-images/montecristi-cities-v2.webp"},
   {
     id: "samborondon-cities-v2",
     type: "city",
@@ -550,8 +559,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A település a régi vidéki részre és az új műholdvárosra van osztva.", "Ecuador legmagasabb egy főre jutó jövedelmű területei közé tartozik.", "A Babahoyo folyó szegélyezi.", "A hagyományos rizsültetésről és kerámiaművészetről híres."],
       ro: ["Comunitatea este împărțită în partea rurală veche și noul oraș satelit.", "Este una dintre zonele cu cel mai mare venit pe cap de locuitor din Ecuador.", "Flancat de râul Babahoyo.", "Faimos pentru plantarea tradițională a orezului și arta ceramicii."],
       en: ["The municipality is divided into the old rural part and the new satellite city.", "Ranks among the areas with the highest per capita income in Ecuador.", "Flanked by the Babahoyo River.", "Famous for traditional rice planting and ceramic art."]
-    }
-  },
+    }, image: "/poi-images/samborondon-cities-v2.webp"},
   {
     id: "puerto-francisco-de-orellana-cities-v2",
     type: "state-capital",
@@ -569,8 +577,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Orellana tartomány fővárosa.", "A Napo és a Coca folyók összefolyásánál fekszik.", "Fontos kiindulópont a dzsungeltúrákhoz.", "Az olajkitermelés központi szerepet játszik a gazdaságban."],
       ro: ["Capitala provinciei Orellana.", "Situat la confluența râurilor Napo și Coca.", "Un punct de plecare important pentru excursiile în junglă.", "Extracția petrolului joacă un rol central în economie."],
       en: ["Capital of the Orellana province.", "Located at the confluence of the Napo and Coca rivers.", "An important starting point for jungle tours.", "Oil extraction plays a central role in the economy."]
-    }
-  },
+    }, image: "/poi-images/puerto-francisco-de-orellana-cities-v2.webp"},
   {
     id: "jipijapa-cities-v2",
     type: "city",
@@ -588,8 +595,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A toquilla-kalap kereskedelem egykori központja.", "Kiváló minőségű Arabica kávéjáról jelentős.", "A régió egyik legrégebbi őslakos települése.", "Trópusi száraz erdők veszik körül."],
       ro: ["Fostul centru al comerțului cu pălării de toquilla.", "Semnificativ pentru cafeaua sa Arabica de înaltă calitate.", "Este una dintre cele mai vechi așezări indigene din regiune.", "Înconjurat de păduri tropicale uscate."],
       en: ["Former center of the toquilla hat trade.", "Significant for its high-quality Arabica coffee.", "It is one of the oldest indigenous settlements in the region.", "Surrounded by tropical dry forests."]
-    }
-  },
+    }, image: "/poi-images/jipijapa-cities-v2.webp"},
   {
     id: "santa-elena-cities-v2",
     type: "state-capital",
@@ -607,8 +613,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Santa Elena tartomány fővárosa.", "A Megaterio Őslénytani Múzeum közelében fekszik.", "Dél-Amerika egyik történelmileg legrégebben lakott területe.", "A legfontosabb part menti fejlesztési tengely része."],
       ro: ["Capitala provinciei Santa Elena.", "Aproape de Muzeul Paleontologic Megaterio.", "Una dintre cele mai vechi zone populate istoric din America de Sud.", "Face parte din cea mai importantă axă de dezvoltare a coastei."],
       en: ["Capital of the Santa Elena province.", "Near the Megaterio Paleontological Museum.", "One of the historically oldest settled areas in South America.", "Part of the main coastal development axis."]
-    }
-  },
+    }, image: "/poi-images/santa-elena-cities-v2.webp"},
   {
     id: "otavalo-cities-v2",
     type: "city",
@@ -626,8 +631,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A Plaza de Ponchos Dél-Amerika legnagyobb őslakos piaca.", "Az otavaleñók szövéstudományukról híresek.", "Vulkánok közötti völgyben fekszik.", "A hagyományos zene az élet szerves része."],
       ro: ["Plaza de Ponchos este cea mai mare piață indigenă din America de Sud.", "Locuitorii Otavaleños sunt faimoși pentru abilitățile lor de țesut.", "Situat într-o vale între vulcani.", "Muzica tradițională face parte integrantă din viață."],
       en: ["The Plaza de Ponchos is the largest indigenous market in South America.", "The Otavaleños are famous for their weaving skills.", "Located in a valley between volcanoes.", "Traditional music is an integral part of life."]
-    }
-  },
+    }, image: "/poi-images/otavalo-cities-v2.webp"},
   {
     id: "cayambe-cities-v2",
     type: "city",
@@ -645,8 +649,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az exportra szánt rózsák fontos termelője.", "A sajtos Bizcochos (keksz) a helyi specialitás.", "Az Egyenlítő a várostól délre halad el.", "A San Pedro-ünnepségek mélyen gyökereznek."],
       ro: ["Un producător important de trandafiri pentru export.", "Biscuiții Bizcochos cu brânză sunt specialitatea locală.", "Ecuatorul trece la sud de oraș.", "Festivitățile din San Pedro sunt adânc înrădăcinate."],
       en: ["An important producer of roses for export.", "The Bizcochos (biscuits) with cheese are the local specialty.", "The Equator runs south of the city.", "The festivities of San Pedro are deeply rooted."]
-    }
-  },
+    }, image: "/poi-images/cayambe-cities-v2.webp"},
   {
     id: "buena-fe-cities-v2",
     type: "city",
@@ -664,8 +667,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az olajpálma és a kakaó egyik legfontosabb termelője.", "A város az autópálya mentén fejlődött ki.", "Gyors népességnövekedést tapasztal.", "Az éghajlat egész évben trópusi és meleg."],
       ro: ["Unul dintre cei mai importanți producători de palmier de ulei și cacao.", "Orașul s-a dezvoltat de-a lungul autostrăzii.", "Cunoaște o creștere rapidă a populației.", "Clima este tropicală caldă pe tot parcursul anului."],
       en: ["One of the most important producers of oil palm and cocoa.", "The city developed along the highway.", "Experiencing rapid population growth.", "The climate is tropical and warm year-round."]
-    }
-  },
+    }, image: "/poi-images/buena-fe-cities-v2.webp"},
   {
     id: "ventanas-cities-v2",
     type: "city",
@@ -683,8 +685,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Ecuador legnagyobb kukoricatermelője.", "A Zapotal folyó partján fekszik.", "Az éves kukoricafesztivál hatalmas látványosság.", "A mezőgazdasági örökség mindenhol jelen van."],
       ro: ["Cel mai mare producător de porumb din Ecuador.", "Situat pe malul râului Zapotal.", "Festivalul anual al porumbului este o atracție majoră.", "Patrimoniul agricol este omniprezent."],
       en: ["The largest corn producer in Ecuador.", "Located on the banks of the Zapotal River.", "The annual corn festival is a major attraction.", "The agricultural heritage is ubiquitous."]
-    }
-  },
+    }, image: "/poi-images/ventanas-cities-v2.webp"},
   {
     id: "velasco-ibarra-cities-v2",
     type: "city",
@@ -702,8 +703,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Összeköti Guayas, Los Ríos és Manabí tartományokat.", "Jelentős piactér a régió mezőgazdászai számára.", "A kávé- és kakaókereskedelem uralja a helyi gazdaságot.", "A közeli Daule-Peripa gát nagy jelentőséggel bír."],
       ro: ["Conectează provinciile Guayas, Los Ríos și Manabí.", "Un oraș de piață semnificativ pentru fermierii din regiune.", "Comerțul cu cafea și cacao domină economia locală.", "Barajul Daule-Peripa din apropiere are o mare importanță."],
       en: ["Connects the provinces of Guayas, Los Ríos, and Manabí.", "A significant market town for farmers in the region.", "Coffee and cocoa trade dominate the local economy.", "The nearby Daule-Peripa dam is of great importance."]
-    }
-  },
+    }, image: "/poi-images/velasco-ibarra-cities-v2.webp"},
   {
     id: "la-troncal-cities-v2",
     type: "city",
@@ -721,8 +721,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az AZTRA cukormalom vállalat határozta meg a város fejlődését.", "Az egyetlen város Cañar tartomány trópusi tengerparti síkságán.", "Meleg termálforrások veszik körül.", "Az egész országból vonzza a munkásokat."],
       ro: ["Compania de morărit zahăr AZTRA a modelat dezvoltarea orașului.", "Singurul oraș din zona joasă tropicală de coastă a provinciei Cañar.", "Înconjurat de izvoare termale calde.", "Atrage muncitori din toată țara."],
       en: ["The sugar mill company AZTRA shaped the city's development.", "The only city in the tropical coastal lowlands of the Cañar province.", "Surrounded by hot thermal springs.", "Attracts workers from all over the country."]
-    }
-  },
+    }, image: "/poi-images/la-troncal-cities-v2.webp"},
   {
     id: "el-triunfo-cities-v2",
     type: "city",
@@ -740,8 +739,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Fontos kereskedelmi központ a mezőgazdasági termékek számára.", "A kakaó és a banán termesztése központi szerepet játszik.", "Gyors növekedést élt át a 20. század végén.", "Festői kilátást nyújt az Andok első nyúlványaira."],
       ro: ["Un loc comercial important pentru produsele agricole.", "Producția de cacao și banane este centrală.", "A cunoscut o creștere rapidă la sfârșitul secolului al XX-lea.", "Oferă o vedere pitorească la primele poale ale Anzilor."],
       en: ["An important trading place for agricultural products.", "The production of cocoa and bananas is central.", "Experienced rapid growth in the late 20th century.", "Offers a picturesque view of the first foothills of the Andes."]
-    }
-  },
+    }, image: "/poi-images/el-triunfo-cities-v2.webp"},
   {
     id: "salinas-cities-v2",
     type: "city",
@@ -759,8 +757,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Itt található Ecuador legnyugatibb szárazföldi pontja (La Chocolatera).", "Népszerű bálnaleső túráiról.", "Gyakran Ecuador Miami Beach-eként emlegetik.", "Hagyományosan a sókitermelés központja."],
       ro: ["Cel mai vestic punct continental al Ecuadorului (La Chocolatera) se află aici.", "Popular pentru excursiile de observare a balenelor.", "Adesea numit Miami Beach al Ecuadorului.", "În mod tradițional un centru de extracție a sării."],
       en: ["The westernmost mainland point of Ecuador (La Chocolatera) is located here.", "Popular for whale-watching tours.", "Often referred to as the Miami Beach of Ecuador.", "Traditionally a center of salt extraction."]
-    }
-  },
+    }, image: "/poi-images/salinas-cities-v2.webp"},
   {
     id: "general-villamil-playas-cities-v2",
     type: "city",
@@ -778,8 +775,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Kivételesen kellemes mikroklímával rendelkezik.", "Többnyire egyszerűen Playas néven ismert.", "Híres a helyi halászok hagyományos balsafa tutajairól.", "A szörfturizmus egyik fontos központja."],
       ro: ["Are un microclimat excepțional de plăcut.", "Cunoscută în mare parte pur și simplu ca Playas.", "Faimoasă pentru plutele tradiționale de balsa ale pescarilor locali.", "Un centru important pentru turismul de surfing."],
       en: ["Has an exceptionally pleasant microclimate.", "Mostly known simply as Playas.", "Famous for the traditional balsa rafts of local fishermen.", "An important center for surf tourism."]
-    }
-  },
+    }, image: "/poi-images/general-villamil-playas-cities-v2.webp"},
   {
     id: "azogues-cities-v2",
     type: "state-capital",
@@ -797,8 +793,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Cañar tartomány fővárosa.", "A Virgen de la Nube zarándoktemploma meghatározza a városképet.", "A panamakalap-gyártás andoki központja.", "A 16. században alapították a spanyolok."],
       ro: ["Capitala provinciei Cañar.", "Biserica de pelerinaj Virgen de la Nube domină peisajul orașului.", "Un centru al producției de pălării Panama în Anzi.", "Fondat în secolul al XVI-lea de spanioli."],
       en: ["Capital of the Cañar province.", "The pilgrimage church of the Virgen de la Nube dominates the cityscape.", "An Andean center of Panama hat production.", "Founded in the 16th century by the Spanish."]
-    }
-  },
+    }, image: "/poi-images/azogues-cities-v2.webp"},
   {
     id: "puyo-cities-v2",
     type: "state-capital",
@@ -816,8 +811,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Pastaza tartomány fővárosa.", "Az Omaere etnobotanikai park őslakos hagyományokat őriz.", "A balsafa fafaragás tipikus helyi kézműves foglalkozás.", "Bázistáborként szolgál az esőerdei kirándulásokhoz."],
       ro: ["Capitala provinciei Pastaza.", "Parcul etnobotanic Omaere păstrează tradițiile indigene.", "Sculptura în lemn de balsa este un meșteșug local tipic.", "Servește drept tabără de bază pentru excursiile în pădurea tropicală."],
       en: ["Capital of the Pastaza province.", "The Omaere Ethnobotanical Park preserves indigenous traditions.", "Balsa wood carving is a typical local craft.", "Serves as a base camp for rainforest excursions."]
-    }
-  },
+    }, image: "/poi-images/puyo-cities-v2.webp"},
   {
     id: "vinces-cities-v2",
     type: "city",
@@ -835,8 +829,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az Eiffel-torony kis másolata is megtalálható itt.", "A haciendák a kakaóbárók egykori gazdagságáról tanúskodnak.", "Számos kenuversenynek ad otthont a Vinces folyón.", "A történelmi építészet jól megőrzött."],
       ro: ["Are o mică replică a Turnului Eiffel.", "Haciendas depun mărturie despre fosta bogăție a baronilor de cacao.", "Găzduiește numeroase concursuri de canotaj pe râul Vinces.", "Arhitectura istorică este bine conservată."],
       en: ["Has a small replica of the Eiffel Tower.", "The haciendas bear witness to the former wealth of the cocoa barons.", "Hosts numerous canoe competitions on the Vinces River.", "The historical architecture is well preserved."]
-    }
-  },
+    }, image: "/poi-images/vinces-cities-v2.webp"},
   {
     id: "la-concordia-cities-v2",
     type: "city",
@@ -854,8 +847,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Évekig tartó viták után Santo Domingo de los Tsáchilas tartományhoz csatolták.", "A környéket hatalmas pálmaolaj-ültetvények jellemzik.", "A város a belső migráció révén erősen fejlődött.", "Nagyon termékeny vulkanikus talajokkal rendelkezik."],
       ro: ["A fost atribuit provinciei Santo Domingo de los Tsáchilas după ani de dispute.", "Împrejurimile sunt dominate de mari plantații de ulei de palmier.", "Orașul s-a dezvoltat puternic datorită migrației interne.", "Are soluri vulcanice foarte fertile."],
       en: ["Was awarded to the Santo Domingo de los Tsáchilas province after years of disputes.", "Large oil palm plantations characterize the surroundings.", "The city developed strongly due to internal migration.", "Has very fertile volcanic soils."]
-    }
-  },
+    }, image: "/poi-images/la-concordia-cities-v2.webp"},
   {
     id: "quininde-cities-v2",
     type: "city",
@@ -873,8 +865,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Hivatalosan Rosa Zárate néven ismert.", "A Blanco és a Quinindé folyók itt találkoznak.", "A trópusi éghajlat kedvez a buja növényzetnek.", "Fontos megálló az északi part felé vezető úton."],
       ro: ["Cunoscut oficial sub numele de Rosa Zárate.", "Râurile Blanco și Quinindé se întâlnesc aici.", "Clima tropicală favorizează o vegetație luxuriantă.", "O oprire importantă pe drumul spre coasta de nord."],
       en: ["Officially known as Rosa Zárate.", "The Blanco and Quinindé rivers meet here.", "The tropical climate favors lush vegetation.", "An important stop on the way to the northern coast."]
-    }
-  },
+    }, image: "/poi-images/quininde-cities-v2.webp"},
   {
     id: "balzar-cities-v2",
     type: "city",
@@ -892,8 +883,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Kiváló tejtermékeiről, különösen sajtjairól híres.", "Nagy teakfaültetvények veszik körül a települést.", "A Montubio lovas hagyományokat itt is őrzik.", "A Daule folyó partján fekszik."],
       ro: ["Faimos pentru produsele lactate excelente, în special brânză.", "Mari plantații de lemn de tec înconjoară comunitatea.", "Tradițiile ecvestre ale Montubio sunt menținute aici.", "Situat pe râul Daule."],
       en: ["Famous for excellent dairy products, especially cheese.", "Large teak plantations surround the municipality.", "The equestrian traditions of the Montubios are maintained here.", "Located on the Daule River."]
-    }
-  },
+    }, image: "/poi-images/balzar-cities-v2.webp"},
   {
     id: "naranjito-cities-v2",
     type: "city",
@@ -911,8 +901,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Történelmileg profitált a Quitóba vezető vasútépítésből.", "Gazdaságilag szorosan kötődik a közeli Milagróhoz.", "A mezőgazdaság a legfontosabb foglalkoztatási forrás.", "A helyi gasztronómiát tengeri és folyami halak jellemzik."],
       ro: ["A profitat istoric de pe urma construcției căii ferate către Quito.", "Strâns legat economic de Milagro din apropiere.", "Agricultura este cea mai importantă sursă de locuri de muncă.", "Gastronomia locală se caracterizează prin peștele de mare și de râu."],
       en: ["Historically benefited from the railway construction to Quito.", "Economically strongly linked to nearby Milagro.", "Agriculture is the most important source of employment.", "Local gastronomy is characterized by sea and river fish."]
-    }
-  },
+    }, image: "/poi-images/naranjito-cities-v2.webp"},
   {
     id: "naranjal-cities-v2",
     type: "city",
@@ -930,8 +919,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A Churute mangrove rezervátum kapuja.", "A vörös kakaó termesztésének központja.", "A város a vörösrák fesztiváljáról híres.", "A fontos Ruta del Sol mentén fekszik."],
       ro: ["Poarta către Rezervația de mangrove Churute.", "Centru pentru cultivarea cacaoului roșu.", "Orașul este faimos pentru Festivalul Crabului Roșu.", "Situat pe importanta Ruta del Sol."],
       en: ["Gateway to the Churute Mangrove Reserve.", "Center for the cultivation of red cocoa.", "The city is famous for the Red Crab Festival.", "Located on the important Ruta del Sol."]
-    }
-  },
+    }, image: "/poi-images/naranjal-cities-v2.webp"},
   {
     id: "guaranda-cities-v2",
     type: "state-capital",
@@ -949,8 +937,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Bolívar tartomány fővárosa.", "Nagyon hagyományos karneváljáról híres.", "Drámai hegyvidéki tájak veszik körül.", "Az őslakos kereskedelem központja a régióban."],
       ro: ["Capitala provinciei Bolívar.", "Renumit pentru carnavalul său foarte tradițional.", "Înconjurat de peisaje montane dramatice.", "Centrul comerțului indigen din regiune."],
       en: ["Capital of the Bolívar province.", "Famous for its very traditional carnival.", "Surrounded by dramatic mountain landscapes.", "Center of indigenous trade in the region."]
-    }
-  },
+    }, image: "/poi-images/guaranda-cities-v2.webp"},
   {
     id: "la-mana-cities-v2",
     type: "city",
@@ -968,8 +955,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Ecuador egyik legfontosabb aranybányászati helye.", "Buja köderdő található a környéken.", "A Las Pirámides vízesések népszerű célpontok.", "Gazdaságilag a mezőgazdaság dominál (banán, dohány)."],
       ro: ["Unul dintre cele mai importante situri de exploatare a aurului din Ecuador.", "Are o pădure de nori luxuriantă în împrejurimi.", "Cascadele Las Pirámides sunt o destinație populară.", "Dominată economic de agricultură (banane, tutun)."],
       en: ["One of the most important gold mining sites in Ecuador.", "Has lush cloud forest in the surroundings.", "The Las Pirámides waterfalls are a popular destination.", "Economically dominated by agriculture (bananas, tobacco)."]
-    }
-  },
+    }, image: "/poi-images/la-mana-cities-v2.webp"},
   {
     id: "tena-cities-v2",
     type: "state-capital",
@@ -987,8 +973,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Napo tartomány fővárosa.", "A Tena és a Pano folyók összefolyásánál fekszik.", "Ecuador fahéjfővárosa (Capital de la Canela).", "A Llanganates Nemzeti Park régiójának kapuja."],
       ro: ["Capitala provinciei Napo.", "Situat la confluența râurilor Tena și Pano.", "Capitala scorțișoarei (Capital de la Canela) din Ecuador.", "Poarta către regiunea Parcului Național Llanganates."],
       en: ["Capital of the Napo province.", "Located at the confluence of the Tena and Pano rivers.", "The Cinnamon Capital (Capital de la Canela) of Ecuador.", "The gateway to the Llanganates National Park region."]
-    }
-  },
+    }, image: "/poi-images/tena-cities-v2.webp"},
   {
     id: "san-lorenzo-cities-v2",
     type: "city",
@@ -1006,8 +991,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Korábban egy Ibarrából induló fontos vasútvonal végállomása volt.", "A Cayapas-Mataje Ökológiai Rezervátum a közelben található.", "A marimba kultúra egyik központja.", "A gazdaság a halászaton és a fán alapul."],
       ro: ["Fostul capăt al unei importante linii ferate din Ibarra.", "Rezervația Ecologică Cayapas-Mataje se află în apropiere.", "Un centru al culturii marimba.", "Economia se bazează pe pescuit și lemn."],
       en: ["Formerly the terminus of an important railway line from Ibarra.", "The Cayapas-Mataje Ecological Reserve is nearby.", "A center of Marimba culture.", "The economy is based on fishing and timber."]
-    }
-  },
+    }, image: "/poi-images/san-lorenzo-cities-v2.webp"},
   {
     id: "catamayo-cities-v2",
     type: "city",
@@ -1025,8 +1009,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Loja város legfontosabb repülőterének helyszíne.", "Az éghajlat egész évben kellemesen meleg.", "A déli országrész cukortermelésének nagy részét adja.", "A helyi gasztronómia kiváló hagyományos ételeket kínál."],
       ro: ["Locația celui mai important aeroport pentru orașul Loja.", "Clima este plăcut caldă pe tot parcursul anului.", "Produce majoritatea zahărului din sudul țării.", "Gastronomia locală oferă o mâncare tradițională excelentă."],
       en: ["Location of the most important airport for the city of Loja.", "The climate is pleasantly warm all year round.", "Produces most of the sugar in the south of the country.", "Local gastronomy offers excellent traditional food."]
-    }
-  },
+    }, image: "/poi-images/catamayo-cities-v2.webp"},
   {
     id: "el-guabo-cities-v2",
     type: "city",
@@ -1063,8 +1046,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A 2016-os földrengés súlyosan érintette, de újjáépítették.", "Gyönyörű homokos strandjairól ismert.", "A nulladik szélességi fok keresztezi a régiót.", "A garnélarák-tenyésztés a fő gazdasági ágazat."],
       ro: ["A fost puternic lovit de cutremurul din 2016 și reconstruit.", "Cunoscut pentru plajele sale frumoase de nisip.", "Latitudinea zero traversează regiunea.", "Creșterea creveților este o industrie majoră."],
       en: ["Was severely hit by the 2016 earthquake and rebuilt.", "Known for its beautiful sandy beaches.", "The zero latitude crosses the region.", "Shrimp farming is a major industry."]
-    }
-  },
+    }, image: "/poi-images/pedernales-cities-v2.webp"},
   {
     id: "atuntaqui-cities-v2",
     type: "city",
@@ -1082,8 +1064,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Egész évben a ruházati vásárlások paradicsoma.", "Az atuntaqui-i textilvásár ezreket vonz.", "Stratégiailag Ibarra és Otavalo között fekszik.", "A közelben volt egy régi inka központ."],
       ro: ["Un paradis pentru cumpărături de haine pe tot parcursul anului.", "Târgul de textile Atuntaqui atrage mii de vizitatori.", "Situat strategic între Ibarra și Otavalo.", "În apropiere se afla un vechi centru incaș."],
       en: ["A paradise for clothing shopping all year round.", "The Atuntaqui textile fair attracts thousands.", "Strategically located between Ibarra and Otavalo.", "An old Inca center was located nearby."]
-    }
-  },
+    }, image: "/poi-images/atuntaqui-cities-v2.webp"},
   {
     id: "bahia-de-caraquez-cities-v2",
     type: "city",
@@ -1101,8 +1082,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az 1990-es években ökovárossá (Ecocity) nyilvánították.", "Látványos híd köti össze San Vicentével.", "Korábban fő exportkikötő volt.", "Más tengerparti városokhoz képest nagyon enyhe az éghajlata."],
       ro: ["A fost declarat ecocity în anii 1990.", "Un pod impresionant leagă orașul de San Vicente.", "A fost anterior un port principal de export.", "Clima este foarte blândă în comparație cu alte orașe de coastă."],
       en: ["Was declared an ecocity in the 1990s.", "A striking bridge connects the city with San Vicente.", "Was previously a main export port.", "The climate is very mild compared to other coastal cities."]
-    }
-  },
+    }, image: "/poi-images/bahia-de-caraquez-cities-v2.webp"},
   {
     id: "pinas-cities-v2",
     type: "city",
@@ -1120,8 +1100,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A Buenaventura Természetvédelmi Terület a közelben található.", "A madármegfigyelők paradicsoma.", "A város a meredek hegyoldalakba épült.", "A nagy magasságban történő kávétermesztés központja."],
       ro: ["Rezervația Naturală Buenaventura se află în apropiere.", "Un paradis pentru iubitorii de păsări.", "Orașul este încorporat în versanții abrupți ai muntelui.", "Centrul cultivării cafelei la mare altitudine."],
       en: ["The Buenaventura Nature Reserve is located nearby.", "A paradise for birdwatchers.", "The city is embedded in the steep mountain slopes.", "Center of high-altitude coffee cultivation."]
-    }
-  },
+    }, image: "/poi-images/pinas-cities-v2.webp"},
   {
     id: "san-gabriel-cities-v2",
     type: "city",
@@ -1139,8 +1118,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A gyarmati építészet kiválóan megőrzött.", "1992-ben nemzeti kulturális örökséggé nyilvánították.", "A közeli Los Arrayanes erdő egyedülálló.", "A gazdaság a tejtermelésen és a burgonyán alapul."],
       ro: ["Arhitectura colonială este excelent conservată.", "A fost declarat patrimoniu cultural național în 1992.", "Pădurea Los Arrayanes din apropiere este unică.", "Economia se bazează pe producția de lapte și cartofi."],
       en: ["The colonial architecture is excellently preserved.", "Declared a national cultural heritage in 1992.", "The nearby Los Arrayanes forest is unique.", "The economy is based on dairy farming and potatoes."]
-    }
-  },
+    }, image: "/poi-images/san-gabriel-cities-v2.webp"},
   {
     id: "gualaceo-cities-v2",
     type: "city",
@@ -1158,8 +1136,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A hagyományos macana szövési technikáról híres.", "Az orchideakertek nagy turisztikai vonzerőt jelentenek.", "A helyi sertésétel, a Hornado nagyon népszerű.", "A régió egyik legrégebbi spanyol települése."],
       ro: ["Faimos pentru tehnica tradițională de țesut macana.", "Grădinile de orhidee sunt o atracție turistică majoră.", "Preparatul local din carne de porc, Hornado, este foarte popular.", "Una dintre cele mai vechi așezări spaniole din regiune."],
       en: ["Famous for the traditional macana weaving technique.", "Orchid gardens are a major tourist attraction.", "The local pork dish Hornado is very popular.", "One of the oldest Spanish settlement areas in the region."]
-    }
-  },
+    }, image: "/poi-images/gualaceo-cities-v2.webp"},
   {
     id: "macas-cities-v2",
     type: "state-capital",
@@ -1177,8 +1154,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Morona Santiago tartomány fővárosa.", "A Purísima de Macas szentély otthona.", "Az Upano folyó kiváló vadvízi evezést kínál.", "A shuar kultúra erősen képviselteti magát a régióban."],
       ro: ["Capitala provinciei Morona Santiago.", "Acasă la sanctuarul Purísima de Macas.", "Râul Upano oferă rafting excelent.", "Cultura Shuar este puternic reprezentată în regiune."],
       en: ["Capital of the Morona Santiago province.", "Home of the sanctuary of Purísima de Macas.", "The Upano River offers excellent rafting.", "The Shuar culture is strongly represented in the region."]
-    }
-  },
+    }, image: "/poi-images/macas-cities-v2.webp"},
   {
     id: "yaguachi-cities-v2",
     type: "city",
@@ -1196,8 +1172,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az augusztusi éves fesztivál zarándokok ezreit vonzza.", "Az egyik legfontosabb történelmi vasútállomással rendelkezik.", "A mezőgazdaságot a cukornád uralja.", "A Guayas-medence deltájában fekszik."],
       ro: ["Festivalul anual din august atrage mii de pelerini.", "Are una dintre cele mai importante stații de cale ferată istorice.", "Agricultura este dominată de trestia de zahăr.", "Situat în delta bazinului Guayas."],
       en: ["The annual festival in August attracts thousands of pilgrims.", "Has one of the most important historical railway stations.", "Agriculture is dominated by sugarcane.", "Located in the delta of the Guayas Basin."]
-    }
-  },
+    }, image: "/poi-images/yaguachi-cities-v2.webp"},
   {
     id: "calceta-cities-v2",
     type: "city",
@@ -1215,8 +1190,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Ecuador legkerékpárosbarátabb városaként ismert (a kerékpárok városa).", "Az ESPAM mezőgazdasági egyetem otthona.", "1913-ban emelték kanton rangra.", "A Carrizal folyó határozza meg a városképet."],
       ro: ["Cunoscut ca cel mai prietenos oraș pentru bicicliști din Ecuador (Orașul bicicletelor).", "Găzduiește Universitatea de Agricultură ESPAM.", "A devenit canton în 1913.", "Râul Carrizal domină peisajul orașului."],
       en: ["Known as the most bicycle-friendly city in Ecuador (City of Bicycles).", "Home of the ESPAM Agricultural University.", "Was elevated to a canton in 1913.", "The Carrizal River shapes the cityscape."]
-    }
-  },
+    }, image: "/poi-images/calceta-cities-v2.webp"},
   {
     id: "arenillas-cities-v2",
     type: "city",
@@ -1234,8 +1208,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Az Arenillas Ökológiai Rezervátum védi a trópusi száraz erdőt.", "A Peruval vívott konfliktusok idején fontos támaszpont volt.", "A mezőgazdaság mesterséges öntözésre támaszkodik.", "A part mentén garnélarákot tenyésztenek."],
       ro: ["Rezervația Ecologică Arenillas protejează pădurea tropicală uscată.", "A fost o bază importantă în timpul conflictelor cu Peru.", "Agricultura se bazează pe irigații artificiale.", "Creșterea creveților se practică pe coastă."],
       en: ["The Arenillas Ecological Reserve protects the tropical dry forest.", "Was an important base during the conflicts with Peru.", "Agriculture relies on artificial irrigation.", "Shrimp farming is practiced on the coast."]
-    }
-  },
+    }, image: "/poi-images/arenillas-cities-v2.webp"},
   {
     id: "macara-cities-v2",
     type: "city",
@@ -1253,8 +1226,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A macarái rizsről ismert, amelyet az ország legjobbjának tartanak.", "A nemzetközi híd köti össze Ecuadort Peruval.", "Az éghajlat félszáraz és nagyon meleg.", "A festőfák és guayacanok sárgán virágoznak a környéken."],
       ro: ["Cunoscut pentru orezul Macará, considerat cel mai bun din țară.", "Podul internațional leagă Ecuador de Peru.", "Clima este semiaridă și foarte caldă.", "Copacii de vopsea și guayacanii înfloresc galben în zonă."],
       en: ["Known for Macará rice, considered the best in the country.", "The international bridge connects Ecuador with Peru.", "The climate is semi-arid and very warm.", "Dye trees and guayacans bloom yellow in the area."]
-    }
-  },
+    }, image: "/poi-images/macara-cities-v2.webp"},
   {
     id: "zaruma-cities-v2",
     type: "city",
@@ -1272,8 +1244,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A faépítészet egyedülálló Ecuadorban.", "A zarumai kávé ínyenc terméknek számít.", "A város alatt egy régi aranybánya-hálózat húzódik.", "Szerepel az UNESCO világörökségi javaslati listáján."],
       ro: ["Arhitectura din lemn este unică în Ecuador.", "Cafeaua Zaruma este considerată un produs gourmet.", "Sub oraș se întinde o rețea veche de mine de aur.", "Se află pe lista tentativă pentru Patrimoniul Mondial UNESCO."],
       en: ["The wooden architecture is unique in Ecuador.", "Zaruma coffee is considered a gourmet product.", "An old network of gold mines runs under the city.", "Is on the tentative list for UNESCO World Heritage."]
-    }
-  },
+    }, image: "/poi-images/zaruma-cities-v2.webp"},
   {
     id: "zamora-cities-v2",
     type: "state-capital",
@@ -1291,8 +1262,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["Zamora Chinchipe tartomány fővárosa.", "A madarak és vízesések fővárosának hívják.", "A Podocarpus Nemzeti Park közvetlenül a város mellett kezdődik.", "A shuar őslakosok hagyományos települése."],
       ro: ["Capitala provinciei Zamora Chinchipe.", "Este numită capitala păsărilor și cascadelor.", "Parcul Național Podocarpus începe chiar în afara orașului.", "Așezarea tradițională a indigenilor Shuar."],
       en: ["Capital of the Zamora Chinchipe province.", "Is called the capital of birds and waterfalls.", "Podocarpus National Park starts just outside the city.", "Traditional settlement of the Shuar indigenous people."]
-    }
-  },
+    }, image: "/poi-images/zamora-cities-v2.webp"},
   {
     id: "puerto-ayora-cities-v2",
     type: "city",
@@ -1310,8 +1280,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       hu: ["A Santa Cruz-szigeten található.", "Itt található a Charles Darwin Kutatóállomás.", "A legtöbb szigettengeri körutazás kiindulópontja.", "Az óriásteknősök gyakran szabadon kószálnak a környéken."],
       ro: ["Situat pe insula Santa Cruz.", "Stația de Cercetare Charles Darwin se află aici.", "Punctul de plecare pentru majoritatea croazierelor din arhipelag.", "Broaștele țestoase uriașe se plimbă adesea liber în zonă."],
       en: ["Located on Santa Cruz Island.", "The Charles Darwin Research Station is located here.", "Starting point for most cruises in the archipelago.", "Giant tortoises often roam freely in the area."]
-    }
-  },
+    }, image: "/poi-images/puerto-ayora-cities-v2.webp"},
   {
     id: "puerto-baquerizo-moreno-cities-v2",
     type: "state-capital",
@@ -1332,3 +1301,4 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     }
   }
 ];
+

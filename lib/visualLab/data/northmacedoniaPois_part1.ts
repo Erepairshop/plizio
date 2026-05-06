@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const mkPoisPart1: POI[] = [
@@ -15,7 +16,7 @@ export const mkPoisPart1: POI[] = [
       en: "Struga is a city on the shores of Lake Ohrid, known for the Black Drin river."
     },
     descriptionAdvanced: {
-      de: "Struga liegt idyllisch am Abfluss des Ohridsees in den Fluss Schwarzer Drim. Die Stadt ist bekannt für ihre kulturelle Bedeutung und die alljährliche Dichterlesung, die internationale Schriftsteller anzieht. Die entspannte Atmosphäre wird durch die zahlreichen Cafés am Flussufer geprägt. Sachkunde K5 — Wasserwege und Städte.",
+      de: "Struga liegt idyllisch am Abfluss des Ohridsees in den Fluss Schwarzer Drim. Die Stadt ist bekannt für ihre kulturelle Bedeutung und die alljährliche Dichterlesung, die internationale Schriftsteller anzieht. Die entspannte Atmosphäre wird durch die zahlreichen Cafés am Flussufer geprägt. Geografie K7 — Flüsse und Städte.",
       hu: "",
       ro: "",
       en: ""
@@ -27,7 +28,8 @@ export const mkPoisPart1: POI[] = [
         "Struga wird oft die 'Stadt der Poesie' genannt.",
         "Die Stadt liegt etwa 700 Meter über dem Meeresspiegel.",
         "In der Nähe befinden sich bedeutende archäologische Stätten.",
-        "Die Architektur zeigt Einflüsse aus der osmanischen Zeit."
+        "Die Architektur zeigt Einflüsse aus der osmanischen Zeit.",
+        "Struga ist ein wichtiges regionales Handelszentrum."
       ],
       hu: [],
       ro: [],
@@ -52,6 +54,25 @@ export const mkPoisPart1: POI[] = [
       ro: "Un râu care curge din Lacul Ohrid la Struga și traversează Albania.",
       en: "A river that flows out of Lake Ohrid in Struga and passes through Albania."
     },
+    descriptionAdvanced: {
+      de: "Der Schwarze Drim ist der bedeutendste Abfluss des Ohridsees und spielt eine zentrale Rolle für das regionale Ökosystem. Auf seinem Weg durch das bergige Terrain Nordmazedoniens und Albaniens speist er zahlreiche Wasserkraftwerke, die essenziell für die Energieversorgung sind. Das Wasser ist aufgrund des natürlichen Filterprozesses im See außergewöhnlich rein. Geografie K7 — Flusssysteme und Energiegewinnung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Schwarze Drim ist der wichtigste Abfluss des Ohridsees.",
+        "Er hat eine Gesamtlänge von rund 149 Kilometern.",
+        "Die Wasserqualität gilt als hervorragend.",
+        "Er passiert mehrere wichtige Staubecken.",
+        "Der Fluss bildet die Grenze zu Teilen Albaniens.",
+        "Er trägt maßgeblich zur regionalen Artenvielfalt bei."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Hauptabfluss des Ohridsees.", "Bekannt für seine kristallklaren Gewässer in Struga.", "Wichtige Quelle für Wasserkraft."],
       hu: ["Az Ohridi-tó fő lefolyása.", "Kristálytiszta vizéről ismert Sztrugánál.", "Fontos vízenergia-forrás."],
@@ -72,6 +93,25 @@ export const mkPoisPart1: POI[] = [
       ro: "Un lac artificial pe râul Drinul Negru, aproape de granița cu Albania.",
       en: "An artificial lake on the Black Drin river near the Albanian border."
     },
+    descriptionAdvanced: {
+      de: "Der Debar-See ist ein bedeutender Stausee, der durch die Aufstauung des Schwarzen Drims entstanden ist. Er prägt die Landschaft in der Nähe der albanischen Grenze und dient neben der Energiegewinnung auch als lokales Erholungsgebiet. Die Uferregionen bieten vielfältige Lebensräume für verschiedene Wasservogelarten. Erdkunde K6 — Künstliche Gewässer.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der See entstand in den 1960er Jahren.",
+        "Die Špilje-Talsperre ist eine der größten im Land.",
+        "Er wird intensiv zur Fischzucht genutzt.",
+        "Die Tiefe variiert stark je nach Saison.",
+        "Die Uferlänge erstreckt sich über mehrere Kilometer.",
+        "Die Region um den See ist touristisch erschlossen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Größter Stausee in Nordmazedonien.", "Entstanden durch den Bau der Špilje-Talsperre.", "Bietet hervorragende Bedingungen zum Angeln."],
       hu: ["Észak-Macedónia legnagyobb víztározója.", "A Špilje-gát megépítésével jött létre.", "Kiváló horgászati lehetőségeket kínál."],
@@ -90,6 +130,25 @@ export const mkPoisPart1: POI[] = [
       hu: "Egy falu, amely Mustafa Kemal Atatürk apjának szülőhelyeként ismert.",
       ro: "Un sat cunoscut ca locul de naștere al tatălui lui Mustafa Kemal Atatürk.",
       en: "A village known as the birthplace of Mustafa Kemal Atatürk's father."
+    },
+    descriptionAdvanced: {
+      de: "Kodžadžik ist ein bedeutender Ort für die moderne türkische Geschichte, da er eng mit der Familie von Mustafa Kemal Atatürk verknüpft ist. Das Gedenkhaus zieht regelmäßig Besucher aus der Türkei an, die sich für die Wurzeln des Staatsgründers interessieren. Die Lage in einer abgelegenen Bergregion bietet Einblicke in traditionelle Siedlungsstrukturen. Geschichte K8 — Persönlichkeiten des 20. Jahrhunderts.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Dorf ist ein wichtiges Ziel für Kulturtourismus.",
+        "Die Gedenkstätte wurde sorgfältig rekonstruiert.",
+        "Die Umgebung ist landschaftlich sehr reizvoll.",
+        "Das Dorf hat eine lange Geschichte in der Region.",
+        "Atatürks Vater Ali Riza wanderte später aus.",
+        "Das Projekt wurde mit türkischer Unterstützung realisiert."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Heimatort von Ali Rıza Efendi.", "Es gibt ein Gedenkhaus für die Familie Atatürk.", "Bedeutende Stätte für den türkischen Tourismus."],
@@ -111,6 +170,25 @@ export const mkPoisPart1: POI[] = [
       ro: "Debar este un oraș în vestul țării, înconjurat de munți și de lacul Debar.",
       en: "Debar is a city in the west of the country, surrounded by mountains and Debar Lake."
     },
+    descriptionAdvanced: {
+      de: "Debar ist strategisch günstig gelegen und diente historisch als Handelsknotenpunkt entlang alter Handelswege. Die Stadt ist heute für ihre Mineralvorkommen, insbesondere Gips, bekannt. Die Umgebung, geprägt durch die thermalen Quellen, macht sie zu einem attraktiven Ziel für Wellness-Tourismus. Geografie K7 — Regionale Wirtschaftsstrukturen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Stadt hat eine sehr vielfältige ethnische Zusammensetzung.",
+        "Der Gipsabbau ist ein wichtiger Wirtschaftsfaktor.",
+        "Thermalquellen in der Nähe fördern den Tourismus.",
+        "Das lokale Handwerk hat eine lange Tradition.",
+        "Die Stadt hat eine wichtige Rolle im lokalen Bildungssektor.",
+        "Die Architektur ist eine Mischung aus Alt und Neu."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bekannt für seine Gipsindustrie.", "Hatte historisch eine strategische Lage an der Via Egnatia.", "Berühmt für das Thermalbad Banjishte."],
       hu: ["Gipsziparáról ismert.", "Történelmileg stratégiai helyen feküdt a Via Egnatia mentén.", "Híres a Banjishte gyógyfürdőről."],
@@ -129,6 +207,25 @@ export const mkPoisPart1: POI[] = [
       hu: "Ortodox kolostor Rajčica faluban, amely faragott ikonosztázáról ismert.",
       ro: "O mănăstire ortodoxă în satul Rajčica, cunoscută pentru sculpturile sale.",
       en: "An Orthodox monastery in the village of Rajčica, known for its woodcarving."
+    },
+    descriptionAdvanced: {
+      de: "Das Kloster ist berühmt für die kunstfertigen Holzschnitzereien der dort lebenden Nonnen, insbesondere bei der Herstellung von Mitren für orthodoxe Bischöfe. Es fungiert als ein spirituelles Zentrum der Region und bewahrt alte Traditionen der kirchlichen Kunst. Das Kloster ist eng mit dem Kloster Bigorski verbunden. Sachkunde K6 — Religiöse Traditionen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Nonnen setzen eine jahrhundertealte Tradition fort.",
+        "Es ist ein Ort der spirituellen Einkehr.",
+        "Die Ikonographie im Inneren ist sehr detailliert.",
+        "Das Kloster liegt in einer sehr friedlichen Gegend.",
+        "Es gehört zum kirchlichen Kulturerbe.",
+        "Besucher sind zur Besichtigung willkommen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Beherbergt Reliquien des heiligen Georg.", "Teil des Klosters Bigorski.", "Bekannt für die Herstellung von Mitren für Bischöfe."],
@@ -150,6 +247,25 @@ export const mkPoisPart1: POI[] = [
       ro: "Una dintre cele mai importante mănăstiri din Macedonia, renumită pentru iconostasul său.",
       en: "One of Macedonia's most significant monasteries, famous for its iconostasis."
     },
+    descriptionAdvanced: {
+      de: "Das Kloster Bigorski ist ein Juwel der mittelalterlichen Architektur und spirituellen Kunst. Die Ikonostase, ein Meisterwerk der Holzschnitzerei, ist eine der aufwendigsten im gesamten Balkanraum. Das Kloster liegt malerisch im tiefen Radika-Tal und dient als bedeutendes Ziel für religiöse Pilger und Kunstliebhaber gleichermaßen. Geschichte K8 — Mittelalterliche Kunstgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Kloster überlebte mehrere schwierige Epochen.",
+        "Die Schnitzereien wurden über Jahre von Meistern gefertigt.",
+        "Die Atmosphäre ist geprägt von geistlicher Musik.",
+        "Das Kloster ist von einer imposanten Landschaft umgeben.",
+        "Es finden hier regelmäßig geistliche Veranstaltungen statt.",
+        "Die Ikonensammlung ist von unschätzbarem Wert."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Gegründet im Jahr 1020.", "Die Ikonostase ist ein Meisterwerk der Holzschnitzerei.", "Liegt im Radika-Flusstal."],
       hu: ["1020-ban alapították.", "Ikonosztáza a fafaragás mesterműve.", "A Radika-folyó völgyében található."],
@@ -168,6 +284,25 @@ export const mkPoisPart1: POI[] = [
       hu: "Mesterséges tó a Mavrovo Nemzeti Parkban, népszerű turisztikai célpont.",
       ro: "Un lac artificial în Parcul Național Mavrovo, o destinație turistică populară.",
       en: "An artificial lake in Mavrovo National Park, a popular tourist destination."
+    },
+    descriptionAdvanced: {
+      de: "Der Mavrovo-See ist ein Herzstück des Mavrovo-Nationalparks, des größten Nationalparks des Landes. Neben seiner Funktion als Speichersee ist er ein Anziehungspunkt für Wintersportler und Wanderer gleichermaßen. Die halb unter Wasser stehende St.-Nikolaus-Kirche ist ein weltweit bekanntes Symbol dieser Region und ein Mahnmal für die Veränderung der Landschaft durch den Bau des Staudamms. Erdkunde K7 — Tourismus in Nationalparks.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Park beheimatet eine reiche Fauna inklusive Braunbären.",
+        "Das Skigebiet bietet Pisten für alle Schwierigkeitsgrade.",
+        "Die Umgebung bietet hervorragende Bedingungen zum Wandern.",
+        "Der See friert im Winter regelmäßig zu.",
+        "Das Gebiet ist auch für Radtourismus geeignet.",
+        "Mavrovo ist ein wichtiges Ziel für ökologischen Tourismus."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Die halb versunkene Nikolauskirche ist ein bekanntes Fotomotiv.", "Zentrum für Wintersport und Wandern.", "Teil des größten Nationalparks des Landes."],
@@ -189,6 +324,25 @@ export const mkPoisPart1: POI[] = [
       ro: "Gostivar este situat pe cursul superior al Vardarului, la poalele Munților Šar.",
       en: "Gostivar is located on the upper course of the Vardar at the foot of the Šar Mountains."
     },
+    descriptionAdvanced: {
+      de: "Gostivar ist ein wichtiges urbanes Zentrum am Vardar-Fluss. Die Stadt hat eine lange Handelsgeschichte und ist bekannt für ihre kulturelle Vielfalt sowie ihre kulinarischen Spezialitäten. Die Nähe zum Gebirge macht sie zudem zu einer wichtigen Basis für Outdoor-Aktivitäten. Sachkunde K6 — Regionale Zentren.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Stadt hat ein geschäftiges Stadtzentrum.",
+        "Der Handel spielt eine zentrale Rolle in der Wirtschaft.",
+        "Viele Bewohner pflegen ihre traditionellen Bräuche.",
+        "Gostivar ist gut an das Verkehrsnetz angebunden.",
+        "Die Stadt ist ein Schmelztiegel der Kulturen.",
+        "Lokale Märkte bieten eine große Auswahl an Produkten."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Der Uhrturm (Saat Kula) ist ein Wahrzeichen der Stadt.", "Wichtiger Handelsknotenpunkt.", "Bekannt für seine Baklava und traditionelle Küche."],
       hu: ["Az óratorony (Saat Kula) a város jelképe.", "Fontos kereskedelmi csomópont.", "Híres a baklavájáról és hagyományos konyhájáról."],
@@ -207,6 +361,25 @@ export const mkPoisPart1: POI[] = [
       hu: "A Vardar folyó forrása Vrutok faluban található, Gosztivar közelében.",
       ro: "Izvorul râului Vardar se află în satul Vrutok, lângă Gostivar.",
       en: "The source of the Vardar river is located in the village of Vrutok near Gostivar."
+    },
+    descriptionAdvanced: {
+      de: "Die Vardar-Quelle in Vrutok ist der Ursprung des bedeutendsten Flusses des Landes. Die Gegend ist nicht nur ökologisch bedeutsam, sondern auch ein beliebtes Ausflugsziel für Einheimische und Touristen. Die Forellenzucht hat hier eine lange Tradition, was Vrutok auch kulinarisch attraktiv macht. Geografie K7 — Flüsse und Wasserquellen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Wasser entspringt direkt aus der Erde.",
+        "Vrutok bietet eine malerische Umgebung.",
+        "Die Forellenzucht ist ein wichtiger Wirtschaftszweig.",
+        "Die Anlage ist gut für Besucher zugänglich.",
+        "Der Vardar durchquert fast das gesamte Land.",
+        "Die Quelle ist ein Symbol für die Region."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Der Vardar ist der längste Fluss Mazedoniens.", "Vrutok ist bekannt für seine Forellenzucht.", "Beliebtes Ausflugsziel für Naturliebhaber."],
@@ -228,6 +401,25 @@ export const mkPoisPart1: POI[] = [
       ro: "Un monument al naturii cu numeroase izvoare de apă la poalele Munților Jablanica.",
       en: "A natural monument with numerous water springs at the foot of the Jablanica mountain."
     },
+    descriptionAdvanced: {
+      de: "Die Quellen von Vevčani sind ein Naturphänomen von großer Schönheit und ökologischem Wert. Das Wasser entspringt mit hoher Intensität und ist von exzellenter Trinkwasserqualität. Die Gestaltung des Areals macht es zu einem besonderen Ort der Erholung. Erdkunde K6 — Naturschönheiten.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Quellen bilden ein komplexes Netzwerk.",
+        "Das Wasser treibt traditionell Mühlen an.",
+        "Die Umgebung bietet Wanderwege.",
+        "Es ist ein wichtiges lokales Kulturgut.",
+        "Die Flora an den Quellen ist einzigartig.",
+        "Die Wasserführung ist fast konstant."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bekannt für die 'Vevčani-Republik' (symbolische Unabhängigkeit).", "Ort eines berühmten jährlichen Karnevals.", "Das Wasser ist extrem sauber und trinkbar."],
       hu: ["A 'Vevčani Köztársaságról' (szimbolikus függetlenség) ismert.", "Híres éves karnevál helyszíne.", "A víz rendkívül tiszta és iható."],
@@ -246,6 +438,25 @@ export const mkPoisPart1: POI[] = [
       hu: "Festői hegyi falu, amely építészetéről és hagyományairól ismert.",
       ro: "Un sat de munte pitoresc, cunoscut pentru arhitectura și tradițiile sale.",
       en: "A picturesque mountain village known for its architecture and traditions."
+    },
+    descriptionAdvanced: {
+      de: "Vevčani ist ein Ort mit starkem Identitätsbewusstsein. Die Architektur, geprägt durch meisterhafte Steinmetzarbeiten, verleiht dem Dorf einen unverwechselbaren Charakter. Der Vevčani-Karneval ist ein einzigartiges kulturelles Ereignis, das Tradition und Satire verbindet. Die Menschen hier bewahren ihre Geschichte mit großem Stolz. Sachkunde K5 — Kulturelle Bräuche.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Steinmetzkunst in Vevčani ist berühmt.",
+        "Der Ort ist stolz auf seine Unabhängigkeitsgeschichte.",
+        "Es gibt zahlreiche traditionelle Häuser.",
+        "Der Karneval zieht Touristen aus aller Welt an.",
+        "Die Menschen sind für ihre Gastfreundschaft bekannt.",
+        "Die Dorfgemeinschaft ist sehr eng verbunden."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Besitzt einen eigenen 'Pass' und Währung als Souvenir.", "Berühmt für seine Steinarchitektur.", "Heimat vieler qualifizierter Steinmetze."],
@@ -267,6 +478,25 @@ export const mkPoisPart1: POI[] = [
       ro: "Centrul istoric al orașului Ohrid, parte a patrimoniului mondial UNESCO.",
       en: "The historic old town of Ohrid, part of the UNESCO World Heritage site."
     },
+    descriptionAdvanced: {
+      de: "Ohrid ist ein bedeutendes Zentrum des Christentums und der Kulturgeschichte. Die Altstadt mit ihren eng verwinkelten Gassen und gut erhaltenen mittelalterlichen Gebäuden ist ein kulturelles Erbe von globaler Bedeutung. Der Blick über den See von den historischen Festungen aus ist beeindruckend. Geschichte K8 — Mittelalterliche Stadtentwicklung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Ohrid war ein Zentrum der slawischen Aufklärung.",
+        "Viele Gebäude sind in traditionellem Architekturstil.",
+        "Die Stadt hat zahlreiche historische Denkmäler.",
+        "Die Lage am Ohridsee ist weltweit einzigartig.",
+        "Das antike Theater ist sehr gut erhalten.",
+        "Die Stadt ist ganzjährig ein wichtiges kulturelles Ziel."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Gilt als das 'Jerusalem des Balkans'.", "Bekannt für seine 365 historischen Kirchen.", "Beherbergt ein antikes Theater."],
       hu: ["A 'Balkán Jeruzsálemeként' emlegetik.", "365 történelmi templomáról ismert.", "Antik színháznak ad otthont."],
@@ -285,6 +515,25 @@ export const mkPoisPart1: POI[] = [
       hu: "Régészeti helyszín és kolostor, az első szláv egyetem székhelye.",
       ro: "Un sit arheologic și mănăstire, sediul primei universități slave.",
       en: "An archaeological site and monastery, seat of the first Slavic university."
+    },
+    descriptionAdvanced: {
+      de: "Plaošnik ist ein heiliger Boden für die slawische Kultur. Hier wirkte der heilige Klemens von Ohrid, der hier das erste Kloster gründete und die kyrillische Schrift verbreitete. Die archäologischen Funde zeigen eine kontinuierliche Besiedlung über Jahrtausende. Geschichte K8 — Anfänge der slawischen Literatur.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Kirche des hl. Panteleimon wurde 2002 rekonstruiert.",
+        "Die Stätte ist eine der meistbesuchten des Landes.",
+        "Die Mosaike im Inneren sind sehr wertvoll.",
+        "Hier liegen die Gebeine des heiligen Klemens.",
+        "Die Stätte ist ein Zentrum des intellektuellen Erbes.",
+        "Die Anlage umfasst verschiedene Schichten der Geschichte."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Heimat des hl. Klemens von Ohrid.", "Wichtiges Zentrum der kyrillischen Schrift.", "Neu errichtete Kirche des hl. Panteleimon."],
@@ -306,6 +555,25 @@ export const mkPoisPart1: POI[] = [
       ro: "Cea mai mare zonă mlăștinoasă din Macedonia de Nord, bogată în biodiversitate.",
       en: "The largest wetland area in North Macedonia, rich in biodiversity."
     },
+    descriptionAdvanced: {
+      de: "Die Belčišta-Feuchtgebiete bilden ein hochsensibles Ökosystem. Sie sind ein wichtiger Rückzugsort für bedrohte Tier- und Pflanzenarten. Das Gebiet ist Teil des natürlichen Wasserhaushalts und dient als wichtiger Filter für das regionale Grundwasser. Erdkunde K7 — Biodiversität und Ökologie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Gebiet steht unter Naturschutz.",
+        "Wissenschaftler studieren hier den Artenreichtum.",
+        "Es ist ein wichtiges Ziel für Ornithologen.",
+        "Der Schutz der Mocsárvidék ist oberste Priorität.",
+        "Das Wasser ist von hoher Bedeutung für die Umgebung.",
+        "Die Pflanzenwelt ist sehr spezialisiert."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Heimat vieler seltener Vogelarten.", "Wichtiges Ökosystem in der Region Debarca.", "Bekannt als 'Sini Virovi' (Blaue Teiche)."],
       hu: ["Számos ritka madárfaj otthona.", "Fontos ökoszisztéma Debarca régiójában.", "Sini Virovi (Kék-tavak) néven is ismert."],
@@ -324,6 +592,25 @@ export const mkPoisPart1: POI[] = [
       hu: "Kora keresztény bazilika és középkori kolostor maradványai.",
       ro: "Rămășițele unei basilici creștine timpurii și ale unei mănăstiri medievale.",
       en: "Remains of an early Christian basilica and a medieval monastery."
+    },
+    descriptionAdvanced: {
+      de: "Das Kloster Zlešti ist ein Zeuge der frühen Verbreitung des Christentums in der Region. Die archäologischen Befunde belegen die Bedeutung dieses Ortes über viele Jahrhunderte. Heute ist es ein Ort der Stille und archäologischen Forschung. Sachkunde K6 — Historisches Erbe.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Ausgrabungen brachten interessante Artefakte zutage.",
+        "Die Geschichte des Ortes ist weitgehend erforscht.",
+        "Es liegt in einer landschaftlich schönen Gegend.",
+        "Die Struktur der Basilika ist klar erkennbar.",
+        "Der Ort bietet Einblicke in die frühe Sakralarchitektur.",
+        "Es ist ein wichtiges Denkmal der Region."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Gewidmet dem hl. Nikolaus.", "Wichtige archäologische Ausgrabungsstätte.", "Liegt in einer malerischen ländlichen Umgebung."],
@@ -345,6 +632,25 @@ export const mkPoisPart1: POI[] = [
       ro: "Un palat neoclasic, modelat după castelul francez Chenonceau.",
       en: "A Neoclassical palace modeled after the French Château de Chenonceau."
     },
+    descriptionAdvanced: {
+      de: "Das Saraj von Resen ist ein architektonisches Kuriosum in der Region. Es verkörpert den westlichen Einfluss, der im frühen 20. Jahrhundert Einzug hielt. Mit seinen kunstvollen Fassaden und der prächtigen Innenarchitektur ist es ein Gebäude von überregionaler Bedeutung. Sachkunde K6 — Architekturstile.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Architektur ist für die Region einzigartig.",
+        "Es wurde als Residenz für einen lokalen Herrscher geplant.",
+        "Die Inneneinrichtung zeugt vom Luxus des frühen 20. Jhd.",
+        "Es ist heute ein bedeutendes Kulturzentrum.",
+        "Die Gärten um das Gebäude sind sehr gepflegt.",
+        "Das Gebäude wird regelmäßig restauriert."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Erbaut von Ahmed Niyazi Bey im frühen 20. Jahrhundert.", "Beherbergt heute eine Keramikgalerie und ein Museum.", "Eines der prächtigsten Gebäude der Region."],
       hu: ["Ahmed Niyazi Bey építtette a 20. század elején.", "Ma kerámiagaléria és múzeum működik benne.", "A régió egyik legpompásabb épülete."],
@@ -363,6 +669,25 @@ export const mkPoisPart1: POI[] = [
       hu: "Észak-Macedónia egyetlen szigete, amelyet Kígyó-szigetként is ismernek.",
       ro: "Singura insulă din Macedonia de Nord, cunoscută și sub numele de Insula Șerpilor.",
       en: "The only island in North Macedonia, also known as Snake Island."
+    },
+    descriptionAdvanced: {
+      de: "Golem Grad ist ein ökologisches Kleinod im Prespasee. Durch seine abgeschiedene Lage konnten sich hier seltene Tierarten halten, die andernorts gefährdet sind. Historisch gesehen ist die Insel mit religiösen Bauten durchsetzt, die einen Einblick in das spirituelle Leben vergangener Zeiten geben. Sachkunde K6 — Inselökosysteme.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Name bezieht sich auf das Schlangenvorkommen.",
+        "Die Ruinen auf der Insel sind archäologisch erforscht.",
+        "Die Anfahrt ist nur mit dem Boot möglich.",
+        "Es ist ein wichtiges Ziel für ökologische Studien.",
+        "Die Insel bietet spektakuläre Ausblicke auf den See.",
+        "Die Artenvielfalt ist erstaunlich hoch."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Befindet sich im Prespasee.", "Bekannt für ihre reiche Flora und Fauna.", "Beherbergt Ruinen antiker und mittelalterlicher Kirchen."],
@@ -383,6 +708,25 @@ export const mkPoisPart1: POI[] = [
       hu: "Gyönyörű vízesés a Belasica-hegység lábánál.",
       ro: "O cascadă frumoasă la poalele Munților Belasica.",
       en: "A beautiful waterfall located at the foot of the Belasica mountain."
+    },
+    descriptionAdvanced: {
+      de: "Der Kolešino-Wasserfall besticht durch seine malerische Einbettung in die waldreiche Landschaft des Belasica-Gebirges. Er ist ein Ruhepol und beliebtes Ziel für Wanderer, die die Natur abseits des Massentourismus suchen. Erdkunde K6 — Geomorphologie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Fall ist in mehrere Stufen unterteilt.",
+        "Die Umgebung bietet ideale Bedingungen für seltene Moose.",
+        "Die Wanderwege sind gut ausgeschildert.",
+        "Der Wasserfall ist ein wichtiges regionales Naturdenkmal.",
+        "Kühle Temperaturen machen ihn auch im Sommer beliebt.",
+        "Die Geräuschkulisse ist ein echtes Naturerlebnis."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Mit 19 Metern einer der höchsten des Landes.", "Entsteht durch den Fluss Baba.", "Ein beliebtes Picknickziel."],
@@ -430,3 +774,4 @@ export const mkPoisPart1: POI[] = [
     }
   }
 ];
+

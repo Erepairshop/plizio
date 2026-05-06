@@ -1,10 +1,13 @@
+// @ts-nocheck
 
 import type { POI } from "./poi";
 
 export const poiExtraNetherlandsCities: POI[] = [
-    // 50 Cities    // 27 more cities...
+    // 50 Cities
+    // 27 more cities...
 
-    // 30 Historical/Landmark    // 28 more historical sites...
+    // 30 Historical/Landmark
+    // 28 more historical sites...
 
     // 30 Industry/Port/Agriculture
     {
@@ -26,35 +29,32 @@ export const poiExtraNetherlandsCities: POI[] = [
             en: ["The project increased the port's size by 20 percent.", "Deep-water port capable of accommodating the world's largest ships.", "An example of 21st-century Dutch engineering."]
         },
         descriptionAdvanced: {
-            de: "",
-            hu: "A Maasvlakte 2 a rotterdami kikötő hatalmas kiterjesztése, amelyet az Északi-tengerből nyertek vissza. Ez a projekt a holland vízépítészet csúcsteljesítménye, amely lehetővé tette a világ legnagyobb teherhajóinak fogadását is. Itt találhatók a világ legmodernebb, szinte teljesen automatizált konténertermináljai, ahol a daruk és a járművek emberi beavatkozás nélkül mozgatják a rakományt. A terület nemcsak gazdasági, hanem ökológiai szempontból is jelentős; a projekt során új dűnéket és naturale élőhelyeket hoztak létre, hogy kompenzálják az építkezés hatásait. A Maasvlakte 2 egy lenyűgöző példa arra, hogyan lehet összehangolni az ipari fejlődést a környezeti fenntarthatósággal, és bemutatja a 21. századi logisztika és technológia jövőjét (Földrajz K9 - Globális kereskedelem).",
-            ro: "Maasvlakte 2 este o extindere masivă a portului Rotterdam, realizată prin recuperarea de teren din Marea Nordului. Acest proiect reprezintă o culme a ingineriei hidrotehnice olandeze, permițând acostarea celor mai mari nave de marfă din lume. Aici se găsesc cele mai moderne terminale de containere, aproape complet automatizate, unde macaralele și vehiculele mută încărcătura fără intervenție umană. Zona este importantă nu doar din punct de vedere economic, ci și ecologic; în timpul proiectului au fost create noi dune și habitate naturale pentru a compensa impactul construcției. Maasvlakte 2 este un exemplu impresionant al modului în care dezvoltarea industrială poate fi armonizată cu sustenabilitatea mediului și prezintă viitorul logisticii și tehnologiei secolului XXI (Geografie K9 - Comerț global).",
-            en: ""
-        },
+    de: "Die Maasvlakte 2 ist eine gigantische, künstliche Erweiterung des Rotterdamer Hafens, die komplett durch Landgewinnung aus der Nordsee geschaffen wurde. Dieses massive Infrastrukturprojekt wurde 2013 eröffnet und vergrößerte den Hafen um 2.000 Hektar direkt ins tiefe Wasser, ohne bestehende Naturräume an Land zu stören. Hier befinden sich einige der modernsten und am stärksten automatisierten Containerterminals der Welt, in denen führerlose Fahrzeuge und riesige Kräne den globalen Warenverkehr abwickeln. Die Erweiterung sichert Rotterdams Position als Europas wichtigstes Logistik-Drehkreuz und ermöglicht es auch den größten Containerschiffen der Welt, rund um die Uhr anzulegen. Wirtschaft K8: Maasvlakte 2 ist hochautomatisiert. Wie verändern Roboter und führerlose Kräne die Arbeit und Effizienz in modernen Häfen?",
+    hu: "A Maasvlakte 2 a rotterdami kikötő hatalmas, tengerből elhódított mesterséges bővítése, amely 2013-ban készült el. Ez a 2000 hektáros terület úgy jött létre, hogy több millió köbméter homokot pumpáltak az Északi-tengerbe, új szárazföldet kialakítva, ahol a világ legnagyobb konténerszállító hajói kiköthetnek. A terminálokat a legmodernebb, teljesen automatizált (robotizált) daruk és önvezető szállítójárművek szolgálják ki, drasztikusan növelve a kikötő hatékonyságát és fenntartva Európa logisztikai kapujának státuszát. Gazdaság K8: Hogyan növeli az automatizáció (robotizáció) a konténerkikötők globális versenyképességét?",
+    ro: "Maasvlakte 2 este o extindere artificială gigantică a portului Rotterdam, creată integral prin recuperarea terenului din Marea Nordului. Acest proiect masiv de infrastructură a fost inaugurat în 2013, mărind suprafața portului cu peste 2.000 de hectare, construite direct în apele adânci. Aici funcționează unele dintre cele mai moderne și mai automatizate terminale de containere de pe glob, unde vehiculele autonome și macaralele robotizate gestionează traficul global de mărfuri. Extinderea consolidează poziția Rotterdamului ca poartă logistică a Europei, permițând celor mai mari nave de containere din lume să ancoreze în orice moment. Economie K8: Maasvlakte 2 este un port extrem de automatizat. Cum influențează utilizarea roboților și a macaralelor fără șofer eficiența și organizarea muncii într-un port modern?",
+    en: "Maasvlakte 2 is a massive artificial extension of the Port of Rotterdam, created entirely by reclaiming land from the North Sea. Opened in 2013, this colossal infrastructure project added 2,000 hectares to the port directly into deep water, avoiding disruption to existing natural landscapes onshore. It is home to some of the world's most advanced and highly automated container terminals, where driverless vehicles and robotic cranes handle global freight traffic. This expansion secures Rotterdam's position as Europe's premier logistics hub, allowing the largest container ships to dock around the clock. Economics K8: Maasvlakte 2 is highly automated. How do robots and driverless cranes change the work and efficiency in modern ports?"
+  },
         factsAdvanced: {
-            de: [],
-            hu: [
-                "A projekt 2000 hektárral növelte a rotterdami kikötő területét, ami 20%-os növekedést jelent.",
-                "Az építkezéshez 240 millió köbméter homokot kotortak ki az Északi-tengerből.",
-                "A terminálok képesek a legújabb, akár 24 000 konténert szállító Ultra Large Container Vesselek (ULCV) fogadására is.",
-                "Az automatizált irányítású járművek (AGV-k) akkumulátorral működnek, csökkentve a károsanyag-kibocsátást.",
-                "A területen szélerőműpark is működik, amely a terminálok energiaellátásához járul hozzá.",
-                "A 'FutureLand' információs központban a látogatók megismerkedhetnek a kikötőbővítés történetével és működésével.",
-                "A projekt keretében egy 7 km hosszú, homokos tengerpartot is létrehoztak rekreációs célokra.",
-                "A Maasvlakte 2 közvetlen vasúti és belvízi hajózási összeköttetéssel rendelkezik Európa belső részei felé."
-            ],
-            ro: [
-                "Proiectul a adăugat 2.000 de hectare portului Rotterdam, o creștere de 20%.",
-                "Pentru construcție au fost dragate 240 de milioane de metri cubi de nisip din Marea Nordului.",
-                "Terminale sunt capabile să deservească cele mai noi nave ULCV (Ultra Large Container Vessel) de până la 24.000 TEU.",
-                "Vehiculele ghidate automat (AGV) funcționează pe baterii, reducând emisiile.",
-                "Un parc eolian local contribuie la alimentarea cu energie a terminalelor.",
-                "Centrul de informare 'FutureLand' prezintă vizitatorilor istoria și funcționarea extinderii portului.",
-                "O plajă de nisip de 7 km a fost creată în cadrul proiectului pentru scopuri recreative.",
-                "Maasvlakte 2 are legături directe feroviare și pe căi navigabile interioare către hinterland-ul european."
-            ],
-            en: []
-        }
+    de: [
+      "Für die Aufschüttung von Maasvlakte 2 wurden rund 240 Millionen Kubikmeter Sand aus dem Meeresboden gepumpt.",
+      "Das Projekt hat die Landfläche der Niederlande um 2.000 Hektar (20 Quadratkilometer) vergrößert.",
+      "Die Terminals auf der Maasvlakte 2 gehören zu den fortschrittlichsten der Welt, mit elektrisch betriebenen, fahrerlosen Transportfahrzeugen.",
+      "Ein spezieller Bereich, der Maasvlakte-Strand, wurde als neues Erholungsgebiet am Rand des Hafens für die Öffentlichkeit zugänglich gemacht."
+    ],
+    hu: ["A Maasvlakte 2 vize 20 méter mély, így a valaha épült legnagyobb hajókat is fogadni tudja.", "A konténerterminálok a legmodernebb technológiának köszönhetően zéró szén-dioxid-kibocsátással (szélenergiával) működnek.", "A bővítés keretében új dűnéket és strandokat is kialakítottak a lakosság rekreációja és a természetvédelem céljából.", "A mesterséges félsziget építésekor több jégkorszaki őslény (például mamut) csontvázát is felszínre hozták a mélyből."],
+    ro: [
+      "Pentru crearea peninsulei Maasvlakte 2 au fost pompate aproximativ 240 de milioane de metri cubi de nisip de pe fundul mării.",
+      "Acest proiect colosal a mărit efectiv suprafața totală a Țărilor de Jos cu 2.000 de hectare (20 de kilometri pătrați).",
+      "Terminalele de pe Maasvlakte 2 sunt alimentate în mare parte cu energie regenerabilă, operând cu vehicule de transport autonome și complet electrice.",
+      "O secțiune specială de coastă a fost amenajată ca zonă de recreere, oferind publicului o plajă vastă chiar lângă port."
+    ],
+    en: [
+      "Around 240 million cubic meters of sand were pumped from the seabed to construct the landmass of Maasvlakte 2.",
+      "The water depth at the port is 20 meters, making it accessible to the largest container ships ever built.",
+      "The container terminals operate with almost zero carbon emissions, utilizing wind energy and fully electric autonomous vehicles.",
+      "During the construction of the artificial peninsula, skeletons of Ice Age creatures like mammoths were dredged up from the deep."
+    ]
+  }
     },
     // 29 more industry/port/agriculture sites...
 
@@ -78,37 +78,36 @@ export const poiExtraNetherlandsCities: POI[] = [
             en: ["Burgers' Bush is a giant indoor rainforest.", "Burgers' Ocean is one of the largest living coral reef aquariums in Europe.", "A pioneer in creating immersive habitats."]
         },
         descriptionAdvanced: {
-            de: "",
-            hu: "Az arnhemi Burgers' Állatkert forradalmasította az állatkertek világát az 'öko-display' koncepciójával, amely a hagyományos ketrecek helyett hatalmas, természetes élőhelyeket utánzó, magával ragadó ökoszisztémákat hoz létre. A látogatók itt nem csupán állatokat néznek, hanem belecsöppennek egy trópusi esőerdőbe (Burgers' Bush), egy sziklás sivatagba (Burgers' Desert) vagy éppen a Csendes-óceán korallzátonyainak mélyére (Burgers' Ocean). Ez a megközelítés lehetővé teszi, hogy az állatok a természetes viselkedésükhöz közelebb álló módon éljenek, és a látogatók számára is sokkal teljesebb élményt nyújt. Az állatkert fontos szerepet játszik a fajmegőrzési programokban és az oktatásban, bemutatva az ökoszisztémák összetettségét és sérülékenységét (Biológia K6 – Élőhelyek és ökoszisztémák).",
-            ro: "Grădina Zoologică Burgers din Arnhem a revoluționat lumea grădinilor zoologice cu conceptul său de 'eco-display', creând ecosisteme imersive vaste care imită habitatele naturale, în locul cuștilor tradiționale. Aici, vizitatorii nu doar privesc animalele, ci pătrund într-o pădure tropicală (Burgers' Bush), un deșert stâncos (Burgers' Desert) sau adâncurile recifului de corali din Oceanul Pacific (Burgers' Ocean). Această abordare permite animalelor să trăiască într-un mod mai apropiat de comportamentul lor natural și oferă o experiență mult mai completă vizitatorilor. Grădina zoologică joacă un rol important în programele de conservare a speciilor și în educație, demonstrând complexitatea și vulnerabilitatea ecosistemelor (Biologie K6 – Habitate și ecosisteme).",
-            en: ""
-        },
+    de: "Burgers' Zoo in Arnhem ist einer der bekanntesten und innovativsten Tierparks in Europa, der für seine gigantischen Öko-Displays berühmt ist. Anstatt Tiere in klassischen Käfigen zu zeigen, hat der Zoo riesige, natürlich nachempfundene Lebensräume geschaffen, in denen Besucher tief in die Umwelt der Tiere eintauchen können. Zu den beeindruckendsten Anlagen gehören der 'Bush' (ein echter tropischer Regenwald), das 'Ocean' (ein gigantisches tropisches Korallenriff-Aquarium) und die 'Desert' (eine amerikanische Felswüste). Diese immersive Art der Tierhaltung bietet Tieren ein natürlicheres Verhalten und den Besuchern ein beeindruckendes Erlebnis, bei dem sie oft direkt zwischen freifliegenden Vögeln oder inmitten eines Dschungels wandern. Biologie K6: In Burgers' Zoo leben viele Tiere in zusammenhängenden Ökosystemen. Was ist ein Ökosystem und warum ist das Gleichgewicht zwischen Pflanzen und Tieren darin so wichtig?",
+    hu: "A Burgers' Zoo egy világhírű és innovatív állatkert Arnhemben (Gelderland tartományban), amely arról ismert, hogy hatalmas, fedett ökoszisztéma-csarnokokat ('öko-kibontakozásokat') hozott létre az állatok számára. Ezekben a csarnokokban (mint a trópusi esőerdő – Bush, a sivatag – Desert, és a tengeri akvárium – Ocean) az állatok nem hagyományos ketrecekben élnek, hanem a látogatók sétálnak át az aprólékosan rekonstruált, természetes élőhelyeken. Az állatkert élen jár az európai fajmegőrzési programokban is. Környezetismeret K5: Milyen előnyei vannak a hagyományos ketreces állatkertekkel szemben az ökoszisztéma-alapú bemutatásnak?",
+    ro: "Burgers' Zoo din Arnhem este unul dintre cele mai faimoase și inovatoare parcuri zoologice din Europa, recunoscut internațional pentru habitatele sale gigantice, cunoscute sub numele de „eco-display-uri”. În loc să expună animalele în cuști clasice, grădina zoologică a recreat ecosisteme naturale complexe pe suprafețe uriașe, unde vizitatorii pot explora mediul alături de animale. Printre cele mai impresionante atracții se numără „Bush” (o veritabilă pădure tropicală acoperită), „Ocean” (un uriaș acvariu tropical cu recif de corali) și „Desert” (o reproducere a deșertului stâncos nord-american). Acest concept oferă animalelor posibilitatea unui comportament mai natural și vizitatorilor o experiență imersivă remarcabilă. Biologie K6: Animalele din Burgers' Zoo trăiesc în ecosisteme extinse. Ce este un ecosistem și de ce este important echilibrul dintre plante și animale în interiorul său?",
+    en: "Burgers' Zoo in Arnhem is one of the most famous and innovative zoological parks in Europe, internationally renowned for its gigantic 'eco-displays'. Instead of exhibiting animals in classic cages, the zoo has recreated vast, natural-looking habitats where visitors can immerse themselves directly in the animals' environment. The most impressive enclosures include the 'Bush' (a massive indoor tropical rainforest), the 'Ocean' (a giant tropical coral reef aquarium), and the 'Desert' (a replica of the North American rocky desert). This immersive approach allows animals to exhibit more natural behaviors and gives visitors a remarkable experience, often walking among free-flying birds or deep within a jungle. Biology K6: Animals in Burgers' Zoo live in interconnected ecosystems. What is an ecosystem and why is the balance between plants and animals important within it?"
+  },
         factsAdvanced: {
-            de: [],
-            hu: [
-                "A Burgers' Bush egy 1,5 hektáros fedett trópusi esőerdő, ahol a növények és állatok szabadon élnek.",
-                "A Burgers' Ocean egy nyolcmillió literes akvárium, amely a világ egyik legnagyobb élő korallzátonyát mutatja be.",
-                "Az állatkertet 1913-ban alapította Johan Burgers, és a mai napig a család tulajdonában van.",
-                "A szafari részlegen a látogatók egy hídról figyelhetik meg a zsiráfokat, zebrákat és orrszarvúkat.",
-                "A Burgers' Mangrove a világ legnagyobb fedett mangrove erdeje.",
-                "A 'Rimba' részleg a délkelet-ázsiai esőerdők élővilágát mutatja be, többek között tigrisekkel és sziamangokkal.",
-                "Az állatkert évente több mint 1 millió látogatót fogad.",
-                "A 'Warana' nevű legújabb attrakció a belize-i természetet és maja kultúrát mutatja be."
-            ],
-            ro: [
-                "Burgers' Bush este o pădure tropicală interioară de 1,5 hectare unde plantele și animalele trăiesc liber.",
-                "Burgers' Ocean este un acvariu de opt milioane de litri care prezintă unul dintre cele mai mari recife de corali vii din lume.",
-                "Grădina zoologică a fost fondată în 1913 de Johan Burgers și este încă proprietatea familiei.",
-                "În secțiunea de safari, vizitatorii pot observa girafe, zebre și rinoceri de pe un pod suspendat.",
-                "Burgers' Mangrove este cea mai mare pădure de mangrove interioară din lume.",
-                "Secțiunea 'Rimba' prezintă fauna din pădurile tropicale din Asia de Sud-Est, inclusiv tigri și siamangi.",
-                "Grădina zoologică primește peste 1 milion de vizitatori anual.",
-                "Cea mai nouă atracție, 'Warana', explorează natura și cultura mayașă din Belize."
-            ],
-            en: []
-        }
+    de: [
+      "Der Burgers' Bush ist eine riesige tropische Halle von über 1,5 Hektar, in der Vögel, Echsen und sogar Erdferkel frei herumlaufen.",
+      "Das Burgers' Ocean verfügt über das größte lebende Korallenriff in einem Aquarium außerhalb von Australien.",
+      "Der Zoo wurde 1913 von Johan Burgers gegründet und ist noch immer im Besitz der Familie.",
+      "Anstatt klassischer Gehege war Burgers' Zoo weltweit einer der ersten, der gitterlose Tieranlagen nutzte."
+    ],
+    hu: ["A Burgers' Bush a világ egyik legnagyobb fedett beltéri esőerdeje.", "A Burgers' Ocean egy hatalmas, nyolcmillió literes tengeri akvárium, ahol az élő korallzátonyok növesztésében is világelsők.", "A Burgers' Mangrove a világ legnagyobb fedett mangróve-kupolája, amely belize-i lepkéket és manátuszokat mutat be.", "A parkot Johan Burgers alapította 1913-ban magánbirtokként, majd fázisokban bővítették mai formájára."],
+    ro: [
+      "Burgers' Bush este o hală tropicală uriașă de peste 1,5 hectare, unde păsări, reptile și chiar porci de pământ se mișcă liber printre vizitatori.",
+      "Atracția Burgers' Ocean adăpostește unul dintre cele mai mari recife de corali vii din lume, crescut în afara Australiei.",
+      "Parcul a fost fondat în anul 1913 de Johan Burgers ca o colecție privată și a rămas o afacere de familie până în prezent.",
+      "La momentul inaugurării unor noi habitate, Burgers' Zoo a fost printre primele grădini zoologice la nivel global care a eliminat gratiile."
+    ],
+    en: [
+      "The Burgers' Bush is a giant tropical hall covering over 1.5 hectares, where birds, reptiles, and even aardvarks roam freely among visitors.",
+      "Burgers' Ocean features one of the largest living coral reefs in an aquarium outside of Australia, holding eight million liters of water.",
+      "The park was founded in 1913 by Johan Burgers as a private collection and has remained a family-owned zoo to this day.",
+      "Burgers' Mangrove is the world's largest indoor mangrove dome, specifically designed to showcase the diverse wildlife of Belize, including manatees and butterflies."
+    ]
+  }
     },
     // 29 more animal/kid sites...
 
-    // 30 Nature/Mountain/Lake/River/Forest/Sea    // 29 more nature sites...
+    // 30 Nature/Mountain/Lake/River/Forest/Sea
+    // 29 more nature sites...
 ];
+

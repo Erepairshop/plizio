@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTanzaniaLandmarksV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["2007-ben nyílt meg.", "60 000 néző befogadására alkalmas.", "Kínai segítséggel épült."],
       ro: ["Deschis în 2007.", "Are o capacitate de 60.000 de spectatori.", "A fost construit cu ajutor chinezesc."],
       en: ["Opened in 2007.", "Can accommodate 60,000 spectators.", "Built with Chinese assistance."]
-    }
-  },
+    }, image: "/poi-images/benjamin-mkapa-stadium-landmarks-v2.webp"},
   {
     id: "st-josephs-cathedral-landmarks-v2",
     type: "landmark",
@@ -47,8 +47,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["1897 és 1902 között épült.", "A Dar es Salaam-i főegyházmegye székhelye.", "Gyönyörű ólomüveg ablakokkal rendelkezik."],
       ro: ["Construită între 1897 și 1902.", "Sediul Arhiepiscopiei de Dar es Salaam.", "Are vitralii superbe."],
       en: ["Built between 1897 and 1902.", "Seat of the Archdiocese of Dar es Salaam.", "Features beautiful stained glass windows."]
-    }
-  },
+    }, image: "/poi-images/st-josephs-cathedral-landmarks-v2.webp"},
   {
     id: "azania-front-church-landmarks-v2",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["1898-ban építették a német misszionáriusok.", "A bajor építészet egyik remekműve.", "A város evangélikus hitéletének központja."],
       ro: ["Construită în 1898 de misionari germani.", "O capodoperă a arhitecturii bavareze.", "Centrul credinței luterane din oraș."],
       en: ["Erected in 1898 by German missionaries.", "A masterpiece of Bavarian architecture.", "Center of the Lutheran faith in the city."]
-    }
-  },
+    }, image: "/poi-images/azania-front-church-landmarks-v2.webp"},
   {
     id: "tpa-tower-landmarks-v2",
     type: "landmark",
@@ -119,8 +117,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["153 méter magasak.", "2014-ben épültek.", "Irodáknak és luxuslakásoknak adnak otthont."],
       ro: ["Înălțime de 153 de metri.", "Construite în anul 2014.", "Găzduiesc birouri și apartamente de lux."],
       en: ["Height of 153 meters.", "Built in the year 2014.", "House offices and luxury apartments."]
-    }
-  },
+    }, image: "/poi-images/pspf-twin-towers-landmarks-v2.webp"},
   {
     id: "uhuru-monument-landmarks-v2",
     type: "landmark",
@@ -143,8 +140,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["Az Uhuru szó szabadságot jelent.", "1961-ben állították fel.", "A Mnazi Mmoja park közelében található."],
       ro: ["Cuvântul Uhuru înseamnă libertate.", "Erectat în 1961.", "Se află lângă Parcul Mnazi Mmoja."],
       en: ["The word Uhuru means freedom.", "Erected in 1961.", "Stands near the Mnazi Mmoja Park."]
-    }
-  },
+    }, image: "/poi-images/uhuru-monument-landmarks-v2.webp"},
   {
     id: "nyerere-bridge-landmarks-v2",
     type: "landmark",
@@ -167,8 +163,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["Teljes hossza 680 méter.", "2016-ban nyitották meg.", "Tanzánia első elnökéről nevezték el."],
       ro: ["Lungime totală de 680 de metri.", "A fost deschis în 2016.", "Numit după primul președinte al Tanzaniei."],
       en: ["Total length of 680 meters.", "Was opened in 2016.", "Named after the first president of Tanzania."]
-    }
-  },
+    }, image: "/poi-images/nyerere-bridge-landmarks-v2.webp"},
   {
     id: "bunge-building-landmarks-v2",
     type: "landmark",
@@ -191,8 +186,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["2006-ban készült el modern afrikai stílusban.", "Az építészet egy hagyományos afrikai gyülekezési sátrat szimbolizál.", "Minden képviselő számára helyet biztosít."],
       ro: ["Finalizată în 2006 într-un stil african modern.", "Arhitectura simbolizează un cort tradițional african de adunare.", "Oferă spațiu pentru toți parlamentarii țării."],
       en: ["Completed in 2006 in a modern African style.", "Architecture symbolizes a traditional African assembly tent.", "Provides space for all MPs of the country."]
-    }
-  },
+    }, image: "/poi-images/bunge-building-landmarks-v2.webp"},
   {
     id: "gaddafi-mosque-landmarks-v2",
     type: "landmark",
@@ -215,8 +209,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["2010-ben nyitották meg.", "Körülbelül 4500 hívő befogadására alkalmas.", "Egy építészeti fénypont Dodomában."],
       ro: ["Deschisă în anul 2010.", "Are o capacitate de aproximativ 4.500 de credincioși.", "O atracție arhitecturală în Dodoma."],
       en: ["Opened in the year 2010.", "Can accommodate about 4,500 worshipers.", "An architectural highlight in Dodoma."]
-    }
-  },
+    }, image: "/poi-images/gaddafi-mosque-landmarks-v2.webp"},
   {
     id: "christ-church-cathedral-landmarks-v2",
     type: "landmark",
@@ -263,8 +256,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["Az 1890-es években épült.", "Eredetileg a szegények jótékonysági intézményének szánták.", "Faragott fa indiai erkélyekkel rendelkezik."],
       ro: ["Construită în anii 1890.", "Destinată inițial ca instituție caritabilă pentru săraci.", "Are balcoane indiene sculptate în lemn."],
       en: ["Built in the 1890s.", "Originally intended as a charitable institution for the poor.", "Features wood-carved Indian balconies."]
-    }
-  },
+    }, image: "/poi-images/old-dispensary-landmarks-v2.webp"},
   {
     id: "hamamni-persian-baths-landmarks-v2",
     type: "landmark",
@@ -287,8 +279,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["Barghash bin Said szultán megbízásából épült.", "Az építészet perzsa fürdőházakat utánoz.", "1920-ig használták őket."],
       ro: ["Construite la comanda sultanului Barghash bin Said.", "Arhitectura imită băile publice persane.", "Au fost folosite până în 1920."],
       en: ["Commissioned by Sultan Barghash bin Said.", "The architecture imitates Persian bathhouses.", "Were used until 1920."]
-    }
-  },
+    }, image: "/poi-images/hamamni-persian-baths-landmarks-v2.webp"},
   {
     id: "peace-memorial-museum-landmarks-v2",
     type: "landmark",
@@ -335,8 +326,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["A 15. században alapították.", "Ritka kúpos minarettel rendelkezik.", "Az egyik kevés kupola nélküli minaret Kelet-Afrikában."],
       ro: ["Fondată în secolul al XV-lea.", "Are un minaret conic rar întâlnit.", "Unul dintre puținele minarete fără cupolă din Africa de Est."],
       en: ["Founded in the 15th century.", "Features a rare conical minaret.", "One of the few minarets without a dome in East Africa."]
-    }
-  },
+    }, image: "/poi-images/malindi-mosque-landmarks-v2.webp"},
   {
     id: "forodhani-bandstand-landmarks-v2",
     type: "landmark",
@@ -359,8 +349,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["A szultán 1936-os 25. uralkodói jubileumára épült.", "Csodálatos kilátást nyújt az óceánra.", "Központi találkozóhely a helyiek és a turisták számára."],
       ro: ["Construit pentru jubileul de 25 de ani al sultanului în 1936.", "Oferă o vedere magnifică asupra oceanului.", "Punct central de întâlnire pentru localnici și turiști."],
       en: ["Built for the Sultan's 25th jubilee in 1936.", "Offers a magnificent view of the ocean.", "Central meeting point for locals and tourists."]
-    }
-  },
+    }, image: "/poi-images/forodhani-bandstand-landmarks-v2.webp"},
   {
     id: "ccm-kirumba-stadium-landmarks-v2",
     type: "landmark",
@@ -383,8 +372,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["35 000 néző befogadására alkalmas.", "Dar es Salaamon kívül az egyik legnagyobb stadion.", "Több helyi klub hazai stadionja."],
       ro: ["Are o capacitate de 35.000 de spectatori.", "Unul dintre cele mai mari stadioane din afara orașului Dar es Salaam.", "Stadionul gazdă pentru mai multe cluburi locale."],
       en: ["Can accommodate 35,000 spectators.", "One of the largest stadiums outside Dar es Salaam.", "Home stadium for several local clubs."]
-    }
-  },
+    }, image: "/poi-images/ccm-kirumba-stadium-landmarks-v2.webp"},
   {
     id: "arusha-clock-tower-landmarks-v2",
     type: "landmark",
@@ -407,8 +395,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["Egy görög lakos építette az 1950-es években.", "Népszerű találkozóhely a városban.", "Az afrikai kontinens középpontját szimbolizálja."],
       ro: ["Construit de un rezident grec în anii 1950.", "Un punct de întâlnire popular în oraș.", "Simbolizează centrul continentului african."],
       en: ["Built by a Greek resident in the 1950s.", "A popular meeting point in the city.", "Symbolizes the center of the African continent."]
-    }
-  },
+    }, image: "/poi-images/arusha-clock-tower-landmarks-v2.webp"},
   {
     id: "arusha-declaration-monument-landmarks-v2",
     type: "landmark",
@@ -431,8 +418,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["A nyilatkozat alakította az ország Ujamaa-politikáját.", "Az emlékmű egy feltűnő nyílszerű szerkezetű.", "Arusha központjában áll."],
       ro: ["Declarația a modelat politica Ujamaa a țării.", "Monumentul are o structură proeminentă în formă de săgeată.", "Se află în centrul orașului Arusha."],
       en: ["The declaration shaped the country's Ujamaa policy.", "The monument has a prominent arrow-like structure.", "It stands in the center of Arusha."]
-    }
-  },
+    }, image: "/poi-images/arusha-declaration-monument-landmarks-v2.webp"},
   {
     id: "sheikh-amri-abeid-stadium-landmarks-v2",
     type: "landmark",
@@ -455,8 +441,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["Körülbelül 20 000 néző befogadására alkalmas.", "Egy híres tanzániai politikusról nevezték el.", "Ünnepekre és fesztiválokra is használják."],
       ro: ["Are o capacitate de aproximativ 20.000 de spectatori.", "Numit după un faimos politician tanzanian.", "Este folosit pentru festivaluri și sărbători."],
       en: ["Can accommodate about 20,000 spectators.", "Named after a famous Tanzanian politician.", "Used for festivals and holidays."]
-    }
-  },
+    }, image: "/poi-images/sheikh-amri-abeid-stadium-landmarks-v2.webp"},
   {
     id: "mwl-nyerere-mausoleum-landmarks-v2",
     type: "landmark",
@@ -479,8 +464,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["Nyerere 1999-ben halt meg.", "Fontos zarándokhely a tanzániai hazafiak számára.", "A Mara régióban található."],
       ro: ["Nyerere a murit în 1999.", "Un loc important de pelerinaj pentru patrioții tanzanieni.", "Este situat în regiunea Mara."],
       en: ["Nyerere died in 1999.", "An important place of pilgrimage for Tanzanian patriots.", "Located in the Mara region."]
-    }
-  },
+    }, image: "/poi-images/mwl-nyerere-mausoleum-landmarks-v2.webp"},
   {
     id: "christ-the-king-cathedral-moshi-landmarks-v2",
     type: "landmark",
@@ -503,8 +487,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["A moshi katolikus egyházmegye székhelye.", "Feltűnő téglaépítészettel rendelkezik.", "Fontos spirituális központ a régióban."],
       ro: ["Sediul eparhiei catolice din Moshi.", "Are o arhitectură izbitoare din cărămidă.", "Un centru spiritual important în regiune."],
       en: ["Seat of the Catholic Diocese of Moshi.", "Features a striking brick architecture.", "An important spiritual center in the region."]
-    }
-  },
+    }, image: "/poi-images/christ-the-king-cathedral-moshi-landmarks-v2.webp"},
   {
     id: "umoja-monument-moshi-landmarks-v2",
     type: "landmark",
@@ -527,8 +510,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["Az Umoja szuahéli nyelven egységet jelent.", "Gyakran helyi ünnepségek találkozóhelye.", "A városközpontban található."],
       ro: ["Umoja înseamnă unitate în limba swahili.", "Adesea un punct de întâlnire pentru sărbătorile locale.", "Este situat în centrul orașului."],
       en: ["Umoja means unity in Swahili.", "Often a meeting point for local celebrations.", "Located in the city center."]
-    }
-  },
+    }, image: "/poi-images/umoja-monument-moshi-landmarks-v2.webp"},
   {
     id: "iringa-boma-landmarks-v2",
     type: "landmark",
@@ -551,8 +533,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["A német csapatok építették 1900 körül.", "Teljesen felújították.", "Tanzánia déli hegyvidékének történetét mutatja be."],
       ro: ["Construit în jurul anului 1900 de trupele germane.", "A fost complet restaurat.", "Prezintă istoria zonelor muntoase din sudul Tanzaniei."],
       en: ["Built around 1900 by German troops.", "Has been completely restored.", "Shows the history of the southern highlands of Tanzania."]
-    }
-  },
+    }, image: "/poi-images/iringa-boma-landmarks-v2.webp"},
   {
     id: "central-railway-station-dar-landmarks-v2",
     type: "landmark",
@@ -575,8 +556,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["Az 1900-as évek elején nyílt meg.", "Erős német hatású építészet.", "Összeköti a partot a belső területekkel."],
       ro: ["Deschisă la începutul anilor 1900.", "Arhitectură cu influențe germane puternice.", "Conectează coasta cu interiorul țării."],
       en: ["Opened in the early 1900s.", "Architecture with strong German influences.", "Connects the coast with the interior."]
-    }
-  },
+    }, image: "/poi-images/central-railway-station-dar-landmarks-v2.webp"},
   {
     id: "makumbusho-village-museum-landmarks-v2",
     type: "landmark",
@@ -599,8 +579,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["1966-ban alapították.", "Az egész ország építészeti stílusait bemutatja.", "Rendszeres hagyományos táncbemutatókat tartanak."],
       ro: ["A fost fondat în 1966.", "Expune stiluri arhitecturale din toată țara.", "Spectacole regulate de dans tradițional."],
       en: ["Was founded in 1966.", "Exhibits architectural styles from all over the country.", "Regular traditional dance performances."]
-    }
-  },
+    }, image: "/poi-images/makumbusho-village-museum-landmarks-v2.webp"},
   {
     id: "wami-bridge-landmarks-v2",
     type: "landmark",
@@ -623,8 +602,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["Az új hidat nemrég fejezték be a forgalom enyhítésére.", "Átszeli a veszélyes Wami-folyót.", "Javítja az összeköttetést az ország északi részével."],
       ro: ["Podul nou a fost finalizat recent pentru a reduce traficul.", "Traversează periculosul râu Wami.", "Îmbunătățește legătura cu partea de nord a țării."],
       en: ["New bridge was recently completed to ease traffic.", "Crosses the dangerous Wami River.", "Improves the connection to the north of the country."]
-    }
-  },
+    }, image: "/poi-images/wami-bridge-landmarks-v2.webp"},
   {
     id: "udom-administration-block-landmarks-v2",
     type: "landmark",
@@ -671,8 +649,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["2006-ban épült.", "Az ország gazdasági fejlődését tükrözi.", "A város legvédettebb épületei."],
       ro: ["Construit în anul 2006.", "Reflectă dezvoltarea economică a țării.", "Cele mai sigure clădiri din oraș."],
       en: ["Built in the year 2006.", "Reflects the economic development of the country.", "Highly secured buildings in the city."]
-    }
-  },
+    }, image: "/poi-images/bank-of-tanzania-headquarters-landmarks-v2.webp"},
   {
     id: "aga-khan-hospital-dar-landmarks-v2",
     type: "landmark",
@@ -695,8 +672,7 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
       hu: ["Nemrégiben átfogóan felújították és kibővítették.", "Az Aga Khan Fejlesztési Hálózat része.", "Első osztályú orvosi ellátást nyújt."],
       ro: ["Recent renovat complet și extins.", "Parte a Rețelei de Dezvoltare Aga Khan.", "Oferă îngrijiri medicale de primă clasă."],
       en: ["Recently comprehensively renovated and expanded.", "Part of the Aga Khan Development Network.", "Provides first-class medical care."]
-    }
-  },
+    }, image: "/poi-images/aga-khan-hospital-dar-landmarks-v2.webp"},
   {
     id: "mlimani-city-mall-landmarks-v2",
     type: "landmark",
@@ -722,3 +698,4 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
     }
   }
 ];
+

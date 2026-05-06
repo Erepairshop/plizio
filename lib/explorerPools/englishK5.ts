@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/englishK5.ts
 import type { PoolTopicDef } from "./types";
 

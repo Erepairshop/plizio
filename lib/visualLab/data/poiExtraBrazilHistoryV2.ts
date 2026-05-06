@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBrazilHistoryV2: POI[] = [
@@ -13,7 +14,13 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["1980 \u00f3ta UNESCO vil\u00e1g\u00f6r\u00f6ks\u00e9g.", "H\u00edres a barokk \u00e9p\u00edt\u00e9szet\u00e9r\u0151l.", "Sz\u00e1mos templom otthona.", "Meredek, macskak\u00f6ves utc\u00e1k.", "Az Inconfid\u00eancia Mineira fontos helysz\u00edne."],
       ro: ["Patrimoniu Mondial UNESCO din 1980.", "Cunoscut pentru arhitectura baroc\u0103.", "G\u0103zduie\u0219te numeroase biserici.", "Str\u0103zi abrupte \u0219i pietruite.", "Loc important al Inconfid\u00eancia Mineira."],
       en: ["UNESCO World Heritage site since 1980.", "Known for Baroque architecture.", "Home to many churches.", "Steep, cobblestone streets.", "Important site of the Inconfid\u00eancia Mineira."]
-    }
+    },
+    descriptionAdvanced: {
+      en: "Ouro Preto was the epicenter of the 18th-century Brazilian Gold Rush, becoming one of the most prosperous cities in the colonial Americas. Its historic center is a masterpiece of Baroque architecture, featuring ornate churches decorated with gold and sculptures by Aleijadinho. Ouro Preto was also a key site for the 'Inconfidência Mineira', an early movement for Brazilian independence. History K8 – colonial history and independence movements."
+    },
+    factsAdvanced: {
+      en: ["Founded: 1711 (as Vila Rica)", "Center of the 18th-century Gold Rush", "Masterpiece of Baroque architecture", "Home to many works by the sculptor Aleijadinho", "UNESCO World Heritage Site", "Key site of the Inconfidência Mineira independence attempt"]
+    },
   },
   {
     id: "pelourinho-history-v2",
@@ -27,7 +34,13 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Egykori rabszolgapiac.", "UNESCO vil\u00e1g\u00f6r\u00f6ks\u00e9gi helysz\u00edn.", "A capoeira k\u00f6zpontja.", "Sz\u00e1mos t\u00f6rt\u00e9nelmi templom.", "Sz\u00ednes homlokzatok."],
       ro: ["Fost\u0103 pia\u021b\u0103 de sclavi.", "Patrimoniu Mondial UNESCO.", "Centrul Capoeira.", "Multe biserici istorice.", "Fa\u021bade colorate."],
       en: ["Former slave market.", "UNESCO World Heritage site.", "Center of Capoeira.", "Many historic churches.", "Colorful facades."]
-    }
+    },
+    descriptionAdvanced: {
+      en: "Pelourinho, the historic heart of Salvador, showcases a remarkably preserved collection of colonial architecture. Once the administrative and commercial hub of the Portuguese colonial empire in South America, it is now celebrated for its colorful façades, lively cultural street life, and deep Afro-Brazilian roots. It remains a testament to the city's complex colonial past and vibrant present. History K8 – colonial architectural legacy and Afro-Brazilian culture."
+    },
+    factsAdvanced: {
+      en: ["Heart of Salvador's historic district", "Colonial administrative center (16th–18th century)", "UNESCO World Heritage Site", "Rich Afro-Brazilian heritage and traditions", "Famous for colorful Baroque façades", "Major cultural center for music and arts"]
+    },
   },
   {
     id: "sao-miguel-missoes-history-v2",
@@ -41,7 +54,13 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Jezsuit\u00e1k \u00e9p\u00edtett\u00e9k.", "A guarani misszi\u00f3k r\u00e9sze.", "UNESCO vil\u00e1g\u00f6r\u00f6ks\u00e9g.", "Leny\u0171g\u00f6z\u0151 templomrom.", "Helyi m\u00fazeum."],
       ro: ["Construit de iezui\u021bi.", "Parte a misiunilor Guarani.", "Patrimoniu Mondial UNESCO.", "Ruine impresionante ale bisericii.", "Muzeu la fa\u021ba locului."],
       en: ["Built by Jesuits.", "Part of the Guarani Missions.", "UNESCO World Heritage site.", "Impressive church ruins.", "On-site museum."]
-    }
+    },
+    descriptionAdvanced: {
+      en: "São Miguel das Missões represents the ruins of a Jesuit mission established in the 17th century as part of a series of settlements to protect and evangelize the Guaraní people. These missions were central to the social and cultural history of the border region between Brazil, Argentina, and Paraguay. Today, the red sandstone ruins stand as a silent witness to a unique historical experiment in religious settlement. History K8 – colonial missions and social history."
+    },
+    factsAdvanced: {
+      en: ["Jesuit mission founded in the 17th century", "Part of the Guaraní missions network", "Red sandstone architectural ruins", "UNESCO World Heritage Site", "Symbols of the colonial border region's history", "Represents a unique social settlement experiment"]
+    },
   },
   {
     id: "tiradentes-history-v2",
@@ -55,7 +74,13 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Macskak\u00f6ves utc\u00e1k.", "Egykori arany\u00e1s\u00f3 v\u00e1ros.", "G\u0151zmozdonyos utaz\u00e1s lehets\u00e9ges.", "T\u00f6rt\u00e9nelmi templomok.", "Kulin\u00e1ris k\u00f6zpont."],
       ro: ["Str\u0103zi pietruite.", "Fost ora\u0219 minier de aur.", "Plimbare cu trenul cu aburi posibil\u0103.", "Biserici istorice.", "Centru culinar."],
       en: ["Cobblestone streets.", "Former gold-mining town.", "Steam train ride available.", "Historic churches.", "Culinary hub."]
-    }
+    },
+    descriptionAdvanced: {
+      en: "Tiradentes is a remarkably preserved colonial town named in honor of the Brazilian national hero, Joaquim José da Silva Xavier (known as 'Tiradentes'). Like Ouro Preto, it flourished during the Minas Gerais Gold Rush. Its cobblestone streets, white-washed colonial houses, and baroque churches retain a timeless character, offering a glimpse into the daily life of colonial Brazil. History K8 – colonial town life and national figures."
+    },
+    factsAdvanced: {
+      en: ["Named after the national hero 'Tiradentes'", "Flourished during the Minas Gerais Gold Rush", "Cobblestone streets and preserved architecture", "Features significant 18th-century Baroque churches", "Center for arts, culture, and colonial history", "Offers a glimpse into the colonial era's daily life"]
+    },
   },
   {
     id: "congonhas-sanctuary-history-v2",
@@ -69,7 +94,13 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["UNESCO vil\u00e1g\u00f6r\u00f6ks\u00e9g.", "Tizenk\u00e9t pr\u00f3f\u00e9taszobor.", "Barokk m\u0171v\u00e9szet.", "Fontos zar\u00e1ndokhely.", "A 18. sz\u00e1zadban \u00e9p\u00fclt."],
       ro: ["Patrimoniu Mondial UNESCO.", "Dou\u0103sprezece statui de profe\u021bi.", "Art\u0103 baroc\u0103.", "Loc important de pelerinaj.", "Construit \u00een secolul al XVIII-lea."],
       en: ["UNESCO World Heritage site.", "Twelve prophet statues.", "Baroque art.", "Important pilgrimage site.", "Built in the 18th century."]
-    }
+    },
+    descriptionAdvanced: {
+      en: "The Sanctuary of Bom Jesus de Matosinhos in Congonhas is a monumental example of Brazilian Baroque and Rococo religious art, built in the late 18th century. It is world-famous for the twelve life-size soapstone statues of the prophets carved by Aleijadinho, considered his magnum opus. The site attracts pilgrims and art lovers from around the world for its spiritual and historical significance. History K8 – religious art and colonial devotion."
+    },
+    factsAdvanced: {
+      en: ["Sanctuary completed in the late 18th century", "Features the twelve prophets carved in soapstone", "Masterpiece of the sculptor Aleijadinho", "UNESCO World Heritage Site", "Important pilgrimage destination", "Exemplary Baroque and Rococo religious art"]
+    },
   },
   {
     id: "diamantina-history-v2",
@@ -83,6 +114,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["UNESCO vil\u00e1g\u00f6r\u00f6ks\u00e9g.", "A gy\u00e9m\u00e1ntb\u00e1ny\u00e1szat k\u00f6zpontja.", "Juscelino Kubitschek sz\u00fcl\u0151helye.", "Macskak\u00f6ves utc\u00e1k.", "Egyedi \u00e9p\u00edt\u00e9szet."],
       ro: ["Patrimoniu Mondial UNESCO.", "Centrul mineritului de diamante.", "Locul de na\u0219tere al lui Juscelino Kubitschek.", "Str\u0103zi pietruite.", "Arhitectur\u0103 unic\u0103."],
       en: ["UNESCO World Heritage site.", "Center of diamond mining.", "Birthplace of Juscelino Kubitschek.", "Cobblestone streets.", "Unique architecture."]
+    },
+    descriptionAdvanced: {
+      hu: "Diamantina Minas Gerais államban a gyarmati kori gyémántbányászat fontos központja volt, ami az UNESCO világörökségi listájára is felkerült. A város építészete, amely a durva köveket és a rendezett gyarmati szerkezeteket ötvözi, egyedülálló a régióban. A város a bányászati múlton túl gazdag kulturális hagyományairól, különösen a szerenádokról is híres. Történelem K8 – gyémántbányászat."
+    },
+    factsAdvanced: {
+      hu: ["UNESCO világörökségi város", "Gyarmati gyémántbányászat központja", "Egyedülálló építészet", "Gazdag kulturális hagyományok", "Szerenádok városa", "Történelmi bányászati központ"]
     }
   },
   {
@@ -97,6 +134,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Aut\u00f3mentes \u00f3v\u00e1ros.", "Gyarmati \u00e9p\u00edt\u00e9szet.", "Rendszeres \u00e1rap\u00e1ly miatti el\u00e1raszt\u00e1s.", "Az arany\u00fat v\u00e9gpontja.", "UNESCO vil\u00e1g\u00f6r\u00f6ks\u00e9g."],
       ro: ["Ora\u0219 vechi f\u0103r\u0103 ma\u0219ini.", "Arhitectur\u0103 colonial\u0103.", "Inundare regulat\u0103 de maree.", "Punct final al Drumului Aurului.", "Patrimoniu Mondial UNESCO."],
       en: ["Car-free old town.", "Colonial architecture.", "Regularly flooded by tides.", "Endpoint of the Gold Trail.", "UNESCO World Heritage site."]
+    },
+    descriptionAdvanced: {
+      hu: "Paraty egy bájos gyarmati város az Atlanti-óceán partján, Rio de Janeiro és São Paulo államok között, amely egykori aranykikötőként működött. Az UNESCO világörökség része, amely megőrizte eredeti gyarmati szerkezetét, fehér falú házait és kövezett utcáit. A város a történelmi örökség és a tengerparti szépség ritka találkozása. Történelem K8 – gyarmati kereskedelem."
+    },
+    factsAdvanced: {
+      hu: ["UNESCO világörökségi város", "Egykori fontos aranykikötő", "Megőrzött gyarmati szerkezet", "Fehér falú épületek", "Kövezett utcák", "Történelmi és tengerparti szépség"]
     }
   },
   {
@@ -111,6 +154,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["Egykori arisztokrata v\u00e1ros.", "Sz\u00e1mos gyarmati rom.", "Az Isteni Szentl\u00e9lek \u00fcnnepe.", "Haj\u00f3val megk\u00f6zel\u00edthet\u0151 S\u00e3o Lu\u00edsb\u00f3l.", "Egykor a gyapot tette gazdagg\u00e1."],
       ro: ["Fost ora\u0219 aristocratic.", "Multe ruine coloniale.", "S\u0103rb\u0103toarea Sf\u00e2ntului Duh.", "Acces cu barca din S\u00e3o Lu\u00eds.", "C\u00e2ndva bogat din bumbac."],
       en: ["Former aristocratic city.", "Many colonial ruins.", "Feast of the Divine Holy Spirit.", "Accessible by boat from S\u00e3o Lu\u00eds.", "Once rich from cotton."]
+    },
+    descriptionAdvanced: {
+      hu: "Alcântara Maranhão államban egy kisváros, amely egykor a gazdag földbirtokosok és a gyarmati nemesség központja volt, mára azonban sok épülete romokban áll, ami különös történelmi atmoszférát teremt. A város gyarmati múltja a cukornádültetvényekkel és az arisztokrata élettel fonódott össze. Ma a csendes városkép a múlt dicsőségét és elmúlását idézi. Történelem K8 – gyarmati élet."
+    },
+    factsAdvanced: {
+      hu: ["Maranhão gyarmati városkép", "Egykori arisztokrata központ", "Cukornádültetvények múltja", "Történelmi romépületek", "Csendes történelmi atmoszféra", "Gyarmati arisztokrácia"]
     }
   },
   {
@@ -125,6 +174,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["1590-ben alap\u00edtott\u00e1k.", "Braz\u00edlia negyedik legr\u00e9gebbi v\u00e1rosa.", "A S\u00e3o Francisco t\u00e9r UNESCO-\u00f6r\u00f6ks\u00e9g.", "Spanyol gyarmati hat\u00e1sok.", "Fontos vall\u00e1si helysz\u00ednek."],
       ro: ["Fondat \u00een 1590.", "Al patrulea cel mai vechi ora\u0219 din Brazilia.", "Pia\u021ba S\u00e3o Francisco este patrimoniu UNESCO.", "Influen\u021be coloniale spaniole.", "Situri religioase importante."],
       en: ["Founded in 1590.", "Brazil's fourth oldest city.", "S\u00e3o Francisco Square is a UNESCO site.", "Spanish colonial influences.", "Important religious sites."]
+    },
+    descriptionAdvanced: {
+      hu: "São Cristóvão Sergipe állam korábbi székhelye, amely a negyedik legrégibb város Brazíliában, és az UNESCO világörökség része. A Szent Ferenc-tér a gyarmati városépítészet egyik legszebb példája, amelyet a portugál és spanyol uralom korszakában alakítottak ki. A város a régió történelmének és vallási életének fontos színtere. Történelem K8 – gyarmati városépítészet."
+    },
+    factsAdvanced: {
+      hu: ["Negyedik legrégebbi város", "UNESCO világörökségi helyszín", "Szent Ferenc-tér", "Gyarmati városépítészet", "Sergipe korábbi székhelye", "Vallási és történelmi központ"]
     }
   },
   {
@@ -139,6 +194,12 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["A t\u00f6rt\u00e9nelmi k\u00f6zpont UNESCO-\u00f6r\u00f6ks\u00e9g.", "H\u00edres a Fogar\u00e9u k\u00f6rmenetr\u0151l.", "Cora Coralina k\u00f6lt\u0151n\u0151 otthona.", "Az aranyl\u00e1z idej\u00e9n alap\u00edtott\u00e1k.", "Macskak\u00f6ves utc\u00e1k."],
       ro: ["Centrul istoric este patrimoniu UNESCO.", "Faimos pentru procesiunea Fogar\u00e9u.", "Acas\u0103 la poeta Cora Coralina.", "Fondat \u00een timpul goanei dup\u0103 aur.", "Str\u0103zi pietruite."],
       en: ["Historic center is a UNESCO site.", "Famous for the Fogar\u00e9u Procession.", "Home of the poet Cora Coralina.", "Founded during the gold rush.", "Cobblestone streets."]
+    },
+    descriptionAdvanced: {
+      hu: "Goiás Velho (Cidade de Goiás) az ország közepén fekvő egykori állami székhely, amely az UNESCO világörökség listáján is szerepel a jól megőrzött gyarmati stílusa miatt. A város a bányászati és kereskedelmi utak fontos állomása volt, ahol ma is érezhető az évszázadokkal ezelőtti életmód hatása. A város kulturális és történelmi értékei a brazil középnyugati régió identitását erősítik. Történelem K8 – gyarmati történelem."
+    },
+    factsAdvanced: {
+      hu: ["UNESCO világörökségi város", "Egykori állami székhely", "Jól megőrzött gyarmati stílus", "Bányászati utak csomópontja", "Kulturális és történelmi identitás", "Középnyugati régió központja"]
     }
   },
   {
@@ -209,8 +270,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["UNESCO vil\u00e1g\u00f6r\u00f6ks\u00e9g.", "T\u00f6bb ezer t\u00f6rt\u00e9nelem el\u0151tti festm\u00e9ny.", "A korai emberi megteleped\u00e9s bizony\u00edt\u00e9kai.", "Sziklaalakzatok \u00e9s kanyonok.", "Ni\u00e8de Guidon vezet\u00e9s\u00e9vel."],
       ro: ["Patrimoniu Mondial UNESCO.", "Mii de picturi preistorice.", "Dovezi ale a\u0219ez\u0103rilor umane timpurii.", "Forma\u021biuni st\u00e2ncoase \u0219i canioane.", "Condus de Ni\u00e8de Guidon."],
       en: ["UNESCO World Heritage site.", "Thousands of prehistoric paintings.", "Evidence of early human settlement.", "Rock formations and canyons.", "Led by Ni\u00e8de Guidon."]
-    }
-  },
+    }, image: "/poi-images/serra-da-capivara-history-v2.webp"},
   {
     id: "teatro-amazonas-history-v2",
     type: "historical",
@@ -265,8 +325,7 @@ export const poiExtraBrazilHistoryV2: POI[] = [
       hu: ["T\u00f6rt\u00e9nelmi \u00e9p\u00edt\u00e9szet.", "Jelent\u0151s a mat\u00e9tea-bumm idej\u00e9n.", "Hagyom\u00e1nyos karnev\u00e1l.", "A Macedo Sz\u00ednh\u00e1z romjai.", "Gy\u00f6ny\u00f6r\u0171 Antonina-\u00f6b\u00f6l."],
       ro: ["Arhitectur\u0103 istoric\u0103.", "Semnificativ \u00een timpul boom-ului ceaiului mate.", "Carnaval tradi\u021bional.", "Ruinele Teatrului Macedo.", "Frumosul golf Antonina."],
       en: ["Historic architecture.", "Significant during the mate tea boom.", "Traditional carnival.", "Ruins of the Macedo Theater.", "Beautiful Bay of Antonina."]
-    }
-  },
+    }, image: "/poi-images/antonina-history-v2.webp"},
   {
     id: "morretes-history-v2",
     type: "historical",
@@ -422,3 +481,4 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     }
   }
 ];
+

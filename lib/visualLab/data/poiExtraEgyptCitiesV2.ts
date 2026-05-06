@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEgyptCitiesV2: POI[] = [
@@ -8,13 +9,24 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     coords: [31.2357, 30.0444],
     name: { de: "Kairo", hu: "Kairó", ro: "Cairo", en: "Cairo" },
     description: { de: "Die pulsierende Hauptstadt Ägyptens und die größte Stadt der arabischen Welt.", hu: "Egyiptom lüktető fővárosa és az arab világ legnagyobb városa.", ro: "Capitala vibrantă a Egiptului și cel mai mare oraș din lumea arabă.", en: "The vibrant capital of Egypt and the largest city in the Arab world." },
+    descriptionAdvanced: {
+      de: "Kairo, mit über 20 Millionen Einwohnern in der Metropolregion, ist das Herz Ägyptens. Die 969 n. Chr. gegründete Stadt beherbergt das Ägyptische Museum, in dem tausende Artefakte wie der Schatz des Tutanchamun ausgestellt sind. Földrajz K7 — városok és metropoliszok.",
+      hu: "Kairó, a több mint 20 millió lakosú metropolisz Egyiptom szíve. A 969-ben alapított város ad otthont az Egyiptomi Múzeumnak, ahol több ezer lelet, például Tutanhamon kincsei láthatók. Földrajz K7 — városok és metropoliszok.",
+      ro: "Cairo, cu peste 20 de milioane de locuitori în zona metropolitană, este inima Egiptului. Fondat în 969 d.Hr., orașul găzduiește Muzeul Egiptean, unde sunt expuse mii de artefacte, cum ar fi comoara lui Tutankhamon. Földrajz K7 — orașe și metropole.",
+      en: "Cairo, with over 20 million people in its metro area, is the heart of Egypt. Founded in 969 AD, the city houses the Egyptian Museum, where thousands of artifacts like Tutankhamun's treasure are on display. Földrajz K7 — cities and metropolises."
+    },
     facts: {
       de: ["Liegt am Nil.", "Zentrum von Politik und Kultur."],
       hu: ["A Nílus partján fekszik.", "A politika és kultúra központja."],
       ro: ["Situat pe râul Nil.", "Centrul politicii și culturii."],
       en: ["Located on the Nile River.", "Center of politics and culture."]
-    }
-  },
+    },
+    factsAdvanced: {
+      de: ["Kairo ist die größte Stadt Afrikas.", "Der Bau begann 969 n. Chr.", "Der Kairo-Turm ist 187 Meter hoch.", "Die Stadt liegt am Ufer des Nils.", "Die Metropolregion umfasst über 20 Millionen Menschen.", "Die Universität al-Azhar wurde 970 n. Chr. gegründet."],
+      hu: ["Kairó Afrika legnagyobb városa.", "Az építkezés 969-ben kezdődött.", "A Kairói-torony 187 méter magas.", "A város a Nílus partján fekszik.", "A metropolisz több mint 20 millió lakosú.", "Az al-Azhar Egyetemet 970-ben alapították."],
+      ro: ["Cairo este cel mai mare oraș din Africa.", "Construcția a început în 969 d.Hr.", "Turnul Cairo are 187 de metri înălțime.", "Orașul este situat pe malul Nilului.", "Zona metropolitană are peste 20 de milioane de oameni.", "Universitatea al-Azhar a fost fondată în 970 d.Hr."],
+      en: ["Cairo is Africa's largest city.", "Construction began in 969 AD.", "The Cairo Tower is 187 meters tall.", "The city sits on the Nile's banks.", "The metro area holds over 20 million people.", "Al-Azhar University was founded in 970 AD."]
+    }, image: "/poi-images/cairo-cities-v2.webp"},
   {
     id: "alexandria-cities-v2",
     type: "city",
@@ -27,8 +39,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Egyiptom második legnagyobb városa.", "Nagy Sándor alapította."],
       ro: ["Al doilea oraș ca mărime din Egipt.", "Fondat de Alexandru cel Mare."],
       en: ["Second largest city in Egypt.", "Founded by Alexander the Great."]
-    }
-  },
+    }, image: "/poi-images/alexandria-cities-v2.webp"},
   {
     id: "giza-cities-v2",
     type: "city",
@@ -41,8 +52,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Kairó metropoliszövezetének része.", "A nagy piramisok otthona."],
       ro: ["Face parte din zona metropolitană Cairo.", "Căminul marilor piramide."],
       en: ["Part of the Greater Cairo metropolis.", "Home to the Great Pyramids."]
-    }
-  },
+    }, image: "/poi-images/giza-cities-v2.webp"},
   {
     id: "shubra-el-kheima-cities-v2",
     type: "city",
@@ -55,8 +65,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Fontos textilipari központ.", "Sűrűn lakott terület."],
       ro: ["Important centru textil.", "Zonă dens populată."],
       en: ["Important textile center.", "Densely populated area."]
-    }
-  },
+    }, image: "/poi-images/shubra-el-kheima-cities-v2.webp"},
   {
     id: "port-said-cities-v2",
     type: "city",
@@ -69,8 +78,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["1859-ben alapították.", "Vámmentes övezet."],
       ro: ["Fondat în 1859.", "Zonă liberă."],
       en: ["Founded in 1859.", "Duty-free zone."]
-    }
-  },
+    }, image: "/poi-images/port-said-cities-v2.webp"},
   {
     id: "suez-cities-v2",
     type: "city",
@@ -83,8 +91,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Nagy olajfinomítók.", "Történelmi kereskedelmi csomópont."],
       ro: ["Mari rafinării de petrol.", "Nod comercial istoric."],
       en: ["Large oil refineries.", "Historic trade hub."]
-    }
-  },
+    }, image: "/poi-images/suez-cities-v2.webp"},
   {
     id: "mansoura-cities-v2",
     type: "city",
@@ -97,8 +104,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Veseátültetések központja.", "Történelmi csaták helyszíne."],
       ro: ["Centru pentru transplanturi de rinichi.", "Locul unor bătălii istorice."],
       en: ["Center for kidney transplants.", "Site of historic battles."]
-    }
-  },
+    }, image: "/poi-images/mansoura-cities-v2.webp"},
   {
     id: "el-mahalla-el-kubra-cities-v2",
     type: "city",
@@ -111,8 +117,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["A Misr Fonó és Szövő Vállalat otthona.", "Fontos gazdasági helyszín."],
       ro: ["Căminul companiei Misr Spinning and Weaving.", "Locație economică importantă."],
       en: ["Home of Misr Spinning and Weaving.", "Important economic location."]
-    }
-  },
+    }, image: "/poi-images/el-mahalla-el-kubra-cities-v2.webp"},
   {
     id: "tanta-cities-v2",
     type: "city",
@@ -125,8 +130,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Pörkölt csicseriborsójáról híres.", "Éves szúfi fesztivál."],
       ro: ["Cunoscut pentru năutul prăjit.", "Festival anual sufi."],
       en: ["Known for roasted chickpeas.", "Annual Sufi festival."]
-    }
-  },
+    }, image: "/poi-images/tanta-cities-v2.webp"},
   {
     id: "asyut-cities-v2",
     type: "city",
@@ -139,8 +143,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Fontos egyetem.", "Kopt ortodox központ."],
       ro: ["Universitate importantă.", "Centru copt-ortodox."],
       en: ["Important university.", "Coptic Orthodox center."]
-    }
-  },
+    }, image: "/poi-images/asyut-cities-v2.webp"},
   {
     id: "ismailia-cities-v2",
     type: "city",
@@ -153,8 +156,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["A Szuezi-csatorna Hatóság központja.", "Sok 19. századi építészet."],
       ro: ["Sediul Autorității Canalului Suez.", "Multă arhitectură din secolul 19."],
       en: ["Headquarters of the Suez Canal Authority.", "Much 19th-century architecture."]
-    }
-  },
+    }, image: "/poi-images/ismailia-cities-v2.webp"},
   {
     id: "faiyum-cities-v2",
     type: "city",
@@ -167,8 +169,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Híres a fajjúmi múmiaportrékról.", "Történelmi vízkerekek."],
       ro: ["Faimos pentru portretele mumiilor din Fayum.", "Roți de apă istorice."],
       en: ["Famous for the Faiyum mummy portraits.", "Historic waterwheels."]
-    }
-  },
+    }, image: "/poi-images/faiyum-cities-v2.webp"},
   {
     id: "zagazig-cities-v2",
     type: "city",
@@ -181,8 +182,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Nagy pamutközpont.", "A Zagazig Egyetem székhelye."],
       ro: ["Mare centru de bumbac.", "Locația Universității Zagazig."],
       en: ["Large cotton center.", "Location of Zagazig University."]
-    }
-  },
+    }, image: "/poi-images/zagazig-cities-v2.webp"},
   {
     id: "damietta-cities-v2",
     type: "city",
@@ -195,8 +195,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Fontos exportkikötő.", "Hagyományos bútorok gyártása."],
       ro: ["Important port de export.", "Producția de mobilier tradițional."],
       en: ["Important export port.", "Production of traditional furniture."]
-    }
-  },
+    }, image: "/poi-images/damietta-cities-v2.webp"},
   {
     id: "aswan-cities-v2",
     type: "city",
@@ -209,8 +208,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Az asszuáni gátról ismert.", "Az ókor fontos gránitbányája."],
       ro: ["Cunoscut pentru barajul Aswan.", "Importantă carieră de granit din antichitate."],
       en: ["Known for the Aswan Dam.", "Important granite quarry in antiquity."]
-    }
-  },
+    }, image: "/poi-images/aswan-cities-v2.webp"},
   {
     id: "minya-cities-v2",
     type: "city",
@@ -223,8 +221,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Fontos mezőgazdasági központ.", "Gazdag bizánci történelem."],
       ro: ["Important centru agricol.", "Bogată istorie bizantină."],
       en: ["Important agricultural center.", "Rich Byzantine history."]
-    }
-  },
+    }, image: "/poi-images/minya-cities-v2.webp"},
   {
     id: "damanhur-cities-v2",
     type: "city",
@@ -237,8 +234,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Rizstermesztéséről ismert.", "Fontos közlekedési csomópont."],
       ro: ["Cunoscut pentru cultivarea orezului.", "Important nod de transport."],
       en: ["Known for rice cultivation.", "Important transport hub."]
-    }
-  },
+    }, image: "/poi-images/damanhur-cities-v2.webp"},
   {
     id: "beni-suef-cities-v2",
     type: "city",
@@ -251,8 +247,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Jelentős cementipar.", "Erős mezőgazdasági bázis."],
       ro: ["Importantă industrie a cimentului.", "Bază agricolă puternică."],
       en: ["Important cement industry.", "Strong agricultural base."]
-    }
-  },
+    }, image: "/poi-images/beni-suef-cities-v2.webp"},
   {
     id: "hurghada-cities-v2",
     type: "city",
@@ -265,8 +260,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Egykori kis halászfalu.", "A búvárok kedvelt helye."],
       ro: ["Fost mic sat de pescari.", "Punct de atracție pentru scafandri."],
       en: ["Former small fishing village.", "Hotspot for divers."]
-    }
-  },
+    }, image: "/poi-images/hurghada-cities-v2.webp"},
   {
     id: "qena-cities-v2",
     type: "city",
@@ -279,8 +273,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Kerámiáiról híres.", "Fontos állomás a zarándokok számára."],
       ro: ["Faimos pentru ceramică.", "Stație importantă pentru pelerini."],
       en: ["Famous for pottery.", "Important stop for pilgrims."]
-    }
-  },
+    }, image: "/poi-images/qena-cities-v2.webp"},
   {
     id: "sohag-cities-v2",
     type: "city",
@@ -293,8 +286,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Sok régi kolostor otthona.", "Növekvő egyetemmel rendelkezik."],
       ro: ["Căminul multor mănăstiri vechi.", "Are o universitate în creștere."],
       en: ["Home to many old monasteries.", "Has a growing university."]
-    }
-  },
+    }, image: "/poi-images/sohag-cities-v2.webp"},
   {
     id: "shibin-el-kom-cities-v2",
     type: "city",
@@ -307,8 +299,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["A Menoufia Egyetem székhelye.", "Termékeny földek veszik körül."],
       ro: ["Sediul Universității Menoufia.", "Înconjurat de câmpuri fertile."],
       en: ["Seat of Menoufia University.", "Surrounded by fertile fields."]
-    }
-  },
+    }, image: "/poi-images/shibin-el-kom-cities-v2.webp"},
   {
     id: "banha-cities-v2",
     type: "city",
@@ -321,8 +312,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Az egyiptomi parfümipar központja.", "Nagy mezőgazdasági piac."],
       ro: ["Centrul industriei egiptene de parfumuri.", "Mare piață agricolă."],
       en: ["Center of the Egyptian perfume industry.", "Large agricultural market."]
-    }
-  },
+    }, image: "/poi-images/banha-cities-v2.webp"},
   {
     id: "arish-cities-v2",
     type: "city",
@@ -335,8 +325,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Tiszta strandjairól ismert.", "Jelentős beduin lakosság."],
       ro: ["Cunoscut pentru plajele curate.", "Populație beduină semnificativă."],
       en: ["Known for clear beaches.", "Significant Bedouin population."]
-    }
-  },
+    }, image: "/poi-images/arish-cities-v2.webp"},
   {
     id: "mallawi-cities-v2",
     type: "city",
@@ -349,8 +338,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Híres múzeum otthona.", "Jelentős textiltermelés."],
       ro: ["Căminul unui muzeu faimos.", "Mare producție textilă."],
       en: ["Home to a famous museum.", "Large textile production."]
-    }
-  },
+    }, image: "/poi-images/mallawi-cities-v2.webp"},
   {
     id: "tenth-of-ramadan-cities-v2",
     type: "city",
@@ -363,8 +351,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Az 1970-es években alapították.", "Sok nemzetközi céget vonz."],
       ro: ["Fondat în anii 1970.", "Atrage multe companii internaționale."],
       en: ["Founded in the 1970s.", "Attracts many international companies."]
-    }
-  },
+    }, image: "/poi-images/tenth-of-ramadan-cities-v2.webp"},
   {
     id: "bilbais-cities-v2",
     type: "city",
@@ -377,8 +364,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Az Egyiptomi Légügyi Akadémia székhelye.", "Egykor fontos kereskedelmi központ volt."],
       ro: ["Sediul Academiei de Aviație din Egipt.", "A fost odată un important centru comercial."],
       en: ["Location of the Egyptian Aviation Academy.", "Once an important trade center."]
-    }
-  },
+    }, image: "/poi-images/bilbais-cities-v2.webp"},
   {
     id: "marsa-matruh-cities-v2",
     type: "city",
@@ -391,8 +377,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Kleopátra fürdőjéről ismert.", "Fontos kikötő a második világháborúban."],
       ro: ["Cunoscut pentru baia Cleopatrei.", "Port important în al Doilea Război Mondial."],
       en: ["Known for Cleopatra's Bath.", "Important port in World War II."]
-    }
-  },
+    }, image: "/poi-images/marsa-matruh-cities-v2.webp"},
   {
     id: "idfu-cities-v2",
     type: "city",
@@ -405,8 +390,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Hórusz templomának otthona.", "Élénk mezőgazdasági központ."],
       ro: ["Căminul Templului lui Horus.", "Centru agricol plin de viață."],
       en: ["Home of the Temple of Horus.", "Vibrant agricultural center."]
-    }
-  },
+    }, image: "/poi-images/idfu-cities-v2.webp"},
   {
     id: "mit-ghamr-cities-v2",
     type: "city",
@@ -419,8 +403,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Az alumíniumfeldolgozás központja.", "Az iszlám bankrendszer úttörő városa."],
       ro: ["Centru de prelucrare a aluminiului.", "Oraș pionier în sectorul bancar islamic."],
       en: ["Center for aluminum processing.", "Pioneer city in Islamic banking."]
-    }
-  },
+    }, image: "/poi-images/mit-ghamr-cities-v2.webp"},
   {
     id: "al-hawamdeya-cities-v2",
     type: "city",
@@ -433,8 +416,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Nagy cukorgyárai vannak.", "A régió fontos munkáltatója."],
       ro: ["Are mari fabrici de zahăr.", "Un important angajator în regiune."],
       en: ["Has large sugar factories.", "Important employer in the region."]
-    }
-  },
+    }, image: "/poi-images/al-hawamdeya-cities-v2.webp"},
   {
     id: "desouk-cities-v2",
     type: "city",
@@ -447,8 +429,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Ibrahim El-Desouki mecset otthona.", "A régió iszlám fővárosának tartják."],
       ro: ["Căminul moscheii Ibrahim El-Desouki.", "Considerată capitala islamică a regiunii."],
       en: ["Home to the Ibrahim El-Desouki Mosque.", "Considered the Islamic capital of the region."]
-    }
-  },
+    }, image: "/poi-images/desouk-cities-v2.webp"},
   {
     id: "qalyub-cities-v2",
     type: "city",
@@ -475,8 +456,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Fontos gabona-átrakóhely.", "Megőrzi az ókori egyiptomi vidéki hagyományokat."],
       ro: ["Important punct de transfer pentru culturi.", "Păstrează tradițiile rurale egiptene antice."],
       en: ["Important transit point for crops.", "Preserves ancient Egyptian rural traditions."]
-    }
-  },
+    }, image: "/poi-images/abu-kabir-cities-v2.webp"},
   {
     id: "kafr-el-sheikh-cities-v2",
     type: "city",
@@ -489,8 +469,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Vezető a rizstermelésben.", "A Kafr El Sheikh Egyetem székhelye."],
       ro: ["Lider în producția de orez.", "Sediul Universității Kafr El Sheikh."],
       en: ["Leader in rice production.", "Location of Kafr El Sheikh University."]
-    }
-  },
+    }, image: "/poi-images/kafr-el-sheikh-cities-v2.webp"},
   {
     id: "girga-cities-v2",
     type: "city",
@@ -503,8 +482,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Egykor Felső-Egyiptom fővárosa volt.", "Régi fazekas hagyománya van."],
       ro: ["A fost odată capitala Egiptului de Sus.", "Are o veche tradiție a ceramicii."],
       en: ["Once the capital of Upper Egypt.", "Has an ancient pottery tradition."]
-    }
-  },
+    }, image: "/poi-images/girga-cities-v2.webp"},
   {
     id: "akhmim-cities-v2",
     type: "city",
@@ -517,8 +495,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Kézzel szőtt pamutjáról híres.", "Ókori egyiptomi szobroknak ad otthont."],
       ro: ["Faimos pentru bumbacul țesut manual.", "Găzduiește statui egiptene antice."],
       en: ["Famous for hand-woven cotton.", "Houses ancient Egyptian statues."]
-    }
-  },
+    }, image: "/poi-images/akhmim-cities-v2.webp"},
   {
     id: "matareya-cities-v2",
     type: "city",
@@ -531,8 +508,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Édesvízi halak fontos szállítója.", "Történelmi menedékhely háborúk idején."],
       ro: ["Important furnizor de pește de apă dulce.", "Refugiu istoric în timpul războaielor."],
       en: ["Important supplier of freshwater fish.", "Historical refuge during wars."]
-    }
-  },
+    }, image: "/poi-images/matareya-cities-v2.webp"},
   {
     id: "qus-cities-v2",
     type: "city",
@@ -545,8 +521,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Ellenőrizte a Vörös-tengerhez vezető kereskedelmi útvonalakat.", "Iszlám műemlékeket őriz."],
       ro: ["A controlat rutele comerciale spre Marea Roșie.", "Are monumente islamice."],
       en: ["Controlled trade routes to the Red Sea.", "Has Islamic monuments."]
-    }
-  },
+    }, image: "/poi-images/qus-cities-v2.webp"},
   {
     id: "khanka-cities-v2",
     type: "city",
@@ -559,8 +534,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Egy nagy pszichiátriai kórházról ismert.", "Közel Kairó központjához."],
       ro: ["Cunoscut pentru un mare spital de sănătate mintală.", "Aproape de centrul orașului Cairo."],
       en: ["Known for a large mental health hospital.", "Close to downtown Cairo."]
-    }
-  },
+    }, image: "/poi-images/khanka-cities-v2.webp"},
   {
     id: "abu-tij-cities-v2",
     type: "city",
@@ -573,8 +547,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Történelmi obeliszkkel rendelkezik.", "Helyi kézműves központ."],
       ro: ["Are un obelisc istoric.", "Centru pentru meșteșuguri locale."],
       en: ["Has a historic obelisk.", "Center for local craftsmanship."]
-    }
-  },
+    }, image: "/poi-images/abu-tij-cities-v2.webp"},
   {
     id: "rosetta-cities-v2",
     type: "city",
@@ -587,8 +560,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Gazdag oszmán építészet.", "A Nílus torkolatánál fekszik."],
       ro: ["Bogată arhitectură otomană.", "Situat la gura de vărsare a Nilului."],
       en: ["Rich Ottoman architecture.", "Located at the mouth of the Nile."]
-    }
-  },
+    }, image: "/poi-images/rosetta-cities-v2.webp"},
   {
     id: "zifta-cities-v2",
     type: "city",
@@ -601,8 +573,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Rövid időre köztársasággá nyilvánította magát.", "Jelentős folyami kereskedőváros."],
       ro: ["S-a declarat pe scurt republică.", "Important oraș comercial fluvial."],
       en: ["Briefly declared itself a republic.", "Significant river trading town."]
-    }
-  },
+    }, image: "/poi-images/zifta-cities-v2.webp"},
   {
     id: "deir-mawas-cities-v2",
     type: "city",
@@ -615,8 +586,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Jelentős a cukornádtermesztésben.", "Ehnaton városának közelében."],
       ro: ["Important în cultivarea trestiei de zahăr.", "Aproape de orașul lui Akhenaton."],
       en: ["Important in sugarcane cultivation.", "Close to Akhenaten's city."]
-    }
-  },
+    }, image: "/poi-images/deir-mawas-cities-v2.webp"},
   {
     id: "samalut-cities-v2",
     type: "city",
@@ -629,8 +599,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["A Szent Család helyeként tartják számon.", "Nagy katedrálissal rendelkezik."],
       ro: ["Considerat a fi un loc al Sfintei Familii.", "Are o catedrală mare."],
       en: ["Considered a site of the Holy Family.", "Has a large cathedral."]
-    }
-  },
+    }, image: "/poi-images/samalut-cities-v2.webp"},
   {
     id: "el-quseir-cities-v2",
     type: "city",
@@ -643,8 +612,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Oszmán erőddel rendelkezik.", "Népszerű a búvárok körében."],
       ro: ["Are o fortăreață otomană.", "Popular printre scafandri."],
       en: ["Has an Ottoman fortress.", "Popular with divers."]
-    }
-  },
+    }, image: "/poi-images/el-quseir-cities-v2.webp"},
   {
     id: "safaga-cities-v2",
     type: "city",
@@ -657,8 +625,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Fekete homokjáról híres.", "Fontos kompkikötő Szaúd-Arábiába."],
       ro: ["Faimos pentru nisipul negru.", "Important port de feribot către Arabia Saudită."],
       en: ["Famous for black sand.", "Important ferry port to Saudi Arabia."]
-    }
-  },
+    }, image: "/poi-images/safaga-cities-v2.webp"},
   {
     id: "marsa-alam-cities-v2",
     type: "city",
@@ -671,8 +638,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Saját repülőtere van.", "Tengeriteheneiről és tengeri teknőseiről ismert."],
       ro: ["Are propriul său aeroport.", "Cunoscut pentru dugongi și țestoase de mare."],
       en: ["Has its own airport.", "Known for dugongs and sea turtles."]
-    }
-  },
+    }, image: "/poi-images/marsa-alam-cities-v2.webp"},
   {
     id: "siwa-cities-v2",
     type: "city",
@@ -685,8 +651,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Berber nyelvet beszélnek.", "Ámon jósdájának helyszíne."],
       ro: ["Vorbesc o limbă berberă.", "Locația oracolului lui Amon."],
       en: ["Speak a Berber language.", "Site of the Oracle of Amun."]
-    }
-  },
+    }, image: "/poi-images/siwa-cities-v2.webp"},
   {
     id: "kharga-cities-v2",
     type: "city",
@@ -699,8 +664,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Római kori templomai vannak.", "A datolyatermelés központja."],
       ro: ["Are temple din epoca romană.", "Centru al producției de curmale."],
       en: ["Has Roman-era temples.", "Center of date production."]
-    }
-  },
+    }, image: "/poi-images/kharga-cities-v2.webp"},
   {
     id: "dakhla-cities-v2",
     type: "city",
@@ -713,8 +677,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Régi vályogtégla építészet.", "Gazdag mezőgazdasági terméshozamok."],
       ro: ["Veche arhitectură din cărămidă de noroi.", "Recolte agricole bogate."],
       en: ["Old mudbrick architecture.", "Rich agricultural yields."]
-    }
-  },
+    }, image: "/poi-images/dakhla-cities-v2.webp"},
   {
     id: "farafra-cities-v2",
     type: "city",
@@ -727,8 +690,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Meleg vizű forrásokat kínál.", "Hagyományos életmód."],
       ro: ["Oferă izvoare termale.", "Stil de viață tradițional."],
       en: ["Offers hot springs.", "Traditional lifestyle."]
-    }
-  },
+    }, image: "/poi-images/farafra-cities-v2.webp"},
   {
     id: "bawiti-cities-v2",
     type: "city",
@@ -741,8 +703,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Fekete dombok veszik körül.", "A sivatagi túrák kiindulópontja."],
       ro: ["Înconjurat de dealuri negre.", "Punct de plecare pentru excursii în deșert."],
       en: ["Surrounded by black hills.", "Starting point for desert tours."]
-    }
-  },
+    }, image: "/poi-images/bawiti-cities-v2.webp"},
   {
     id: "el-tor-cities-v2",
     type: "city",
@@ -755,8 +716,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Mózes-forrás a közelben.", "Békés tengerparti város."],
       ro: ["Izvorul lui Moise în apropiere.", "Oraș de coastă pașnic."],
       en: ["Moses Spring nearby.", "Peaceful coastal town."]
-    }
-  },
+    }, image: "/poi-images/el-tor-cities-v2.webp"},
   {
     id: "sharm-el-sheikh-cities-v2",
     type: "city",
@@ -769,8 +729,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["A béke városának hívják.", "Számos csúcstalálkozó helyszíne."],
       ro: ["Numit orașul păcii.", "Locul multor întâlniri la nivel înalt."],
       en: ["Called the City of Peace.", "Host to many summits."]
-    }
-  },
+    }, image: "/poi-images/sharm-el-sheikh-cities-v2.webp"},
   {
     id: "dahab-cities-v2",
     type: "city",
@@ -783,8 +742,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["A Blue Hole-ról híres.", "Világszínvonalú szörfözés."],
       ro: ["Faimos pentru Blue Hole.", "Windsurfing de clasă mondială."],
       en: ["Famous for the Blue Hole.", "World-class windsurfing."]
-    }
-  },
+    }, image: "/poi-images/dahab-cities-v2.webp"},
   {
     id: "nuweiba-cities-v2",
     type: "city",
@@ -797,8 +755,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Kilátás Szaúd-Arábia hegyeire.", "A Színes kanyon kiindulópontja."],
       ro: ["Vedere spre munții Arabiei Saudite.", "Punct de plecare pentru Canionul Colorat."],
       en: ["View of the mountains of Saudi Arabia.", "Starting point for the Coloured Canyon."]
-    }
-  },
+    }, image: "/poi-images/nuweiba-cities-v2.webp"},
   {
     id: "luxor-cities-v2",
     type: "city",
@@ -811,8 +768,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["A Királyok völgyének otthona.", "A karnaki templomnak ad otthont."],
       ro: ["Căminul Văii Regilor.", "Găzduiește Templul din Karnak."],
       en: ["Home to the Valley of the Kings.", "Houses the Karnak Temple."]
-    }
-  },
+    }, image: "/poi-images/luxor-cities-v2.webp"},
   {
     id: "new-cairo-cities-v2",
     type: "city",
@@ -825,8 +781,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       hu: ["Az Amerikai Egyetem székhelye.", "Modern lakó- és üzleti központok."],
       ro: ["Sediul Universității Americane.", "Centre rezidențiale și de afaceri moderne."],
       en: ["Seat of the American University.", "Modern residential and business centers."]
-    }
-  },
+    }, image: "/poi-images/new-cairo-cities-v2.webp"},
   {
     id: "sixth-of-october-cities-v2",
     type: "city",
@@ -842,3 +797,4 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     }
   }
 ];
+

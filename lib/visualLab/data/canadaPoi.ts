@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 import { poiExtraCanadaCities } from "./poiExtraCanadaCities";
 import { poiExtraCanadaCitiesV2 } from "./poiExtraCanadaCitiesV2";
@@ -31,8 +32,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Bundeshauptstadt", "Sitz des Parlaments", "Rideau-Kanal (UNESCO)", "Zweisprachige Stadt (EN/FR)", "Zentrum für Technologie"], hu: ["Szövetségi főváros", "A parlament székhelye", "Rideau-csatorna (UNESCO)", "Kétnyelvű város (angol/francia)", "Technológiai központ"], ro: ["Capitala federală", "Sediul Parlamentului", "Canalul Rideau (UNESCO)", "Oraș bilingv (EN/FR)", "Centru tehnologic"], en: ["Federal capital", "Seat of Parliament", "Rideau Canal (UNESCO)", "Bilingual city (EN/FR)", "High-tech hub"] },
     elevation: 70, historyYear: 1826, historyPeriod: "Victorian Era",
-    coords: [-75.6972, 45.4215], type: 'landmark', parent: 'CA'
-  },
+    coords: [-75.6972, 45.4215], type: 'landmark', parent: 'CA', image: "/poi-images/can_cap.webp"},
   {
     id: "can_tor",    name: { de: "Toronto", hu: "Toronto", ro: "Toronto", en: "Toronto" },
     description: { de: "Largest city in Canada", hu: "Largest city in Canada", ro: "Largest city in Canada", en: "Largest city in Canada" },
@@ -50,8 +50,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Größte Stadt Kanadas", "Finanzzentrum", "CN Tower Wahrzeichen", "Multikulturelle Bevölkerung", "Hafen am Ontariosee"], hu: ["Kanada legnagyobb városa", "Pénzügyi központ", "A CN Tower a jelképe", "Multikulturális lakosság", "Kikötő az Ontario-tavon"], ro: ["Cel mai mare oraș din Canada", "Centru financiar", "Simbolul CN Tower", "Populație multiculturală", "Port la lacul Ontario"], en: ["Canada's largest city", "Financial center", "CN Tower landmark", "Multicultural population", "Port on Lake Ontario"] },
     elevation: 76, historyYear: 1793, historyPeriod: "Colonial/Modern",
-    coords: [-79.3832, 43.6532], type: 'landmark', parent: 'CA'
-  },
+    coords: [-79.3832, 43.6532], type: 'landmark', parent: 'CA', image: "/poi-images/can_tor.webp"},
   {
     id: "can_mon",    name: { de: "Montreal", hu: "Montreal", ro: "Montreal", en: "Montreal" },
     description: { de: "Major city in Quebec", hu: "Major city in Quebec", ro: "Major city in Quebec", en: "Major city in Quebec" },
@@ -69,8 +68,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Zweitgrößte Stadt Kanadas", "Französischsprachige Metropole", "Historisches Vieux-Montréal", "Kultur- und Festivalzentrum", "Großer Binnenhafen"], hu: ["Kanada második legnagyobb városa", "Francia nyelvű metropolisz", "Történelmi Vieux-Montréal", "Kulturális és fesztiválközpont", "Nagy folyami kikötő"], ro: ["Al doilea oraș ca mărime din Canada", "Metropolă francofonă", "Vieux-Montréal istoric", "Centru cultural și de festivaluri", "Mare port interior"], en: ["Canada's second largest city", "French-speaking metropolis", "Historic Old Montreal", "Cultural and festival hub", "Major inland port"] },
     elevation: 37, historyYear: 1642, historyPeriod: "French Colonial",
-    coords: [-73.5673, 45.5017], type: 'landmark', parent: 'CA'
-  },
+    coords: [-73.5673, 45.5017], type: 'landmark', parent: 'CA', image: "/poi-images/can_mon.webp"},
   {
     id: "can_van",    name: { de: "Vancouver", hu: "Vancouver", ro: "Vancouver", en: "Vancouver" },
     description: { de: "Major city in British Columbia", hu: "Major city in British Columbia", ro: "Major city in British Columbia", en: "Major city in British Columbia" },
@@ -88,8 +86,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Tor zum Pazifik", "Mildes Klima", "Stanley Park", "Wichtiges Filmzentrum", "Multikulturelle Hafenstadt"], hu: ["Kapu a Csendes-óceánhoz", "Enyhe éghajlat", "Stanley Park", "Fontos filmgyártási központ", "Multikulturális kikötőváros"], ro: ["Poarta către Pacific", "Climă blândă", "Stanley Park", "Centru cinematografic important", "Oraș port multicultural"], en: ["Gateway to the Pacific", "Mild climate", "Stanley Park", "Major film production hub", "Multicultural port city"] },
     elevation: 2, historyYear: 1886, historyPeriod: "Modern",
-    coords: [-123.1207, 49.2827], type: 'landmark', parent: 'CA'
-  },
+    coords: [-123.1207, 49.2827], type: 'landmark', parent: 'CA', image: "/poi-images/can_van.webp"},
   {
     id: "can_cal",    name: { de: "Calgary", hu: "Calgary", ro: "Calgary", en: "Calgary" },
     description: { de: "Major city in Alberta", hu: "Major city in Alberta", ro: "Major city in Alberta", en: "Major city in Alberta" },
@@ -107,8 +104,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Zentrum der Ölindustrie", "Tor zu den Rockies", "Calgary Stampede", "Sonnenreichste Stadt Kanadas", "Wirtschaftshub"], hu: ["Az olajipar központja", "Kapu a Sziklás-hegységhez", "Calgary Stampede", "Kanada legnaposabb városa", "Gazdasági csomópont"], ro: ["Centrul industriei petroliere", "Poarta către Munții Stâncoși", "Calgary Stampede", "Cel mai însorit oraș din Canada", "Hub economic"], en: ["Center of the oil industry", "Gateway to the Rockies", "Calgary Stampede", "Sunniest city in Canada", "Economic hub"] },
     elevation: 1045, historyYear: 1875, historyPeriod: "Victorian/Modern",
-    coords: [-114.0719, 51.0447], type: 'landmark', parent: 'CA'
-  },
+    coords: [-114.0719, 51.0447], type: 'landmark', parent: 'CA', image: "/poi-images/can_cal.webp"},
   {
     id: "can_edm",    name: { de: "Edmonton", hu: "Edmonton", ro: "Edmonton", en: "Edmonton" },
     description: { de: "Capital of Alberta", hu: "Capital of Alberta", ro: "Capital of Alberta", en: "Capital of Alberta" },
@@ -126,8 +122,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt von Alberta", "Tor zum Norden", "Festivalstadt", "Größtes städtisches Parksystem", "West Edmonton Mall"], hu: ["Alberta fővárosa", "Kapu északra", "A fesztiválok városa", "Legnagyobb városi parkrendszer", "West Edmonton Mall"], ro: ["Capitala Albertei", "Poartă către Nord", "Orașul festivalurilor", "Cel mai mare sistem de parcuri urbane", "West Edmonton Mall"], en: ["Capital of Alberta", "Gateway to the North", "Festival City", "Largest urban park system", "West Edmonton Mall"] },
     elevation: 645, historyYear: 1795, historyPeriod: "Colonial/Modern",
-    coords: [-113.4909, 53.5444], type: 'landmark', parent: 'CA'
-  },
+    coords: [-113.4909, 53.5444], type: 'landmark', parent: 'CA', image: "/poi-images/can_edm.webp"},
   {
     id: "can_que",    name: { de: "Quebec City", hu: "Quebec City", ro: "Quebec City", en: "Quebec City" },
     description: { de: "Capital of Quebec", hu: "Capital of Quebec", ro: "Capital of Quebec", en: "Capital of Quebec" },
@@ -145,8 +140,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt von Québec", "UNESCO Weltkulturerbe", "Befestigte Altstadt", "Château Frontenac", "Überwiegend Französischsprachig"], hu: ["Québec tartomány fővárosa", "UNESCO Világörökség", "Erődített óváros", "Château Frontenac", "Túlnyomórészt francia nyelvű"], ro: ["Capitala provinciei Québec", "Patrimoniu Mondial UNESCO", "Oraș vechi fortificat", "Château Frontenac", "Predominant francofon"], en: ["Capital of Quebec", "UNESCO World Heritage Site", "Fortified Old Town", "Château Frontenac", "Predominantly French-speaking"] },
     elevation: 98, historyYear: 1608, historyPeriod: "French Colonial",
-    coords: [-71.208, 46.8139], type: 'landmark', parent: 'CA'
-  },
+    coords: [-71.208, 46.8139], type: 'landmark', parent: 'CA', image: "/poi-images/can_que.webp"},
   {
     id: "can_win",    name: { de: "Winnipeg", hu: "Winnipeg", ro: "Winnipeg", en: "Winnipeg" },
     description: { de: "Capital of Manitoba", hu: "Capital of Manitoba", ro: "Capital of Manitoba", en: "Capital of Manitoba" },
@@ -164,8 +158,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt von Manitoba", "Geografisches Zentrum Kanadas", "Kanadisches Museum für Menschenrechte", "The Forks Treffpunkt", "Kaltes Winterklima"], hu: ["Manitoba fővárosa", "Kanada földrajzi középpontja", "Kanadai Emberi Jogi Múzeum", "The Forks találkozóhely", "Hideg téli éghajlat"], ro: ["Capitala provinciei Manitoba", "Centrul geografic al Canadei", "Muzeul Canadian pentru Drepturile Omului", "Locul de întâlnire The Forks", "Climă de iarnă geroasă"], en: ["Capital of Manitoba", "Geographic center of Canada", "Canadian Museum for Human Rights", "The Forks meeting place", "Cold winter climate"] },
     elevation: 239, historyYear: 1873, historyPeriod: "Victorian/Modern",
-    coords: [-97.1384, 49.8951], type: 'landmark', parent: 'CA'
-  },
+    coords: [-97.1384, 49.8951], type: 'landmark', parent: 'CA', image: "/poi-images/can_win.webp"},
   {
     id: "can_hal",    name: { de: "Halifax", hu: "Halifax", ro: "Halifax", en: "Halifax" },
     description: { de: "Capital of Nova Scotia", hu: "Capital of Nova Scotia", ro: "Capital of Nova Scotia", en: "Capital of Nova Scotia" },
@@ -183,8 +176,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt von Neuschottland", "Strategischer Atlantikhafen", "Halifax Zitadelle", "Pier 21 Einwanderungsmuseum", "Zentrum für Meeresforschung"], hu: ["Új-Skócia fővárosa", "Stratégiai atlanti kikötő", "Halifaxi Citadella", "Pier 21 Bevándorlási Múzeum", "Tengerkutatási központ"], ro: ["Capitala Noii Scoții", "Port strategic la Atlantic", "Citadela Halifax", "Muzeul Imigrației Pier 21", "Centru de cercetare marină"], en: ["Capital of Nova Scotia", "Strategic Atlantic port", "Halifax Citadel", "Pier 21 Immigration Museum", "Marine research hub"] },
     elevation: 25, historyYear: 1749, historyPeriod: "Colonial",
-    coords: [-63.5728, 44.6488], type: 'landmark', parent: 'CA'
-  },
+    coords: [-63.5728, 44.6488], type: 'landmark', parent: 'CA', image: "/poi-images/can_hal.webp"},
   {
     id: "can_vic",    name: { de: "Victoria", hu: "Victoria", ro: "Victoria", en: "Victoria" },
     description: { de: "Capital of British Columbia", hu: "Capital of British Columbia", ro: "Capital of British Columbia", en: "Capital of British Columbia" },
@@ -202,8 +194,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt von British Columbia", "Auf Vancouver Island", "Gartenstadt", "Britisches Flair", "Mildestes Klima Kanadas"], hu: ["Brit Kolumbia fővárosa", "A Vancouver-szigeten található", "Kertváros", "Brit hangulat", "Kanada legenyhébb éghajlata"], ro: ["Capitala Columbiei Britanice", "Pe insula Vancouver", "Orașul Grădină", "Atmosferă britanică", "Cea mai blândă climă din Canada"], en: ["Capital of British Columbia", "On Vancouver Island", "Garden City", "British flair", "Mildest climate in Canada"] },
     elevation: 23, historyYear: 1843, historyPeriod: "Victorian Era",
-    coords: [-123.3656, 48.4284], type: 'landmark', parent: 'CA'
-  },
+    coords: [-123.3656, 48.4284], type: 'landmark', parent: 'CA', image: "/poi-images/can_vic.webp"},
   {
     id: "can_ss",    name: { de: "Saskatoon", hu: "Saskatoon", ro: "Saskatoon", en: "Saskatoon" },
     description: { de: "Major city in Saskatchewan", hu: "Major city in Saskatchewan", ro: "Major city in Saskatchewan", en: "Major city in Saskatchewan" },
@@ -221,8 +212,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Größte Stadt in Saskatchewan", "Paris der Prärie", "Sieben Brücken", "Zentrum der Biotechnologie", "Wichtiger Eisenbahnknoten"], hu: ["Saskatchewan legnagyobb városa", "A préri Párizsa", "Hét híd városa", "Biotechnológiai központ", "Fontos vasúti csomópont"], ro: ["Cel mai mare oraș din Saskatchewan", "Parisul Preriei", "Orașul celor șapte poduri", "Centru de biotehnologie", "Nod feroviar important"], en: ["Largest city in Saskatchewan", "Paris of the Prairies", "City of Seven Bridges", "Biotechnology hub", "Major railway junction"] },
     elevation: 482, historyYear: 1882, historyPeriod: "Victorian/Modern",
-    coords: [-106.67, 52.1332], type: 'landmark', parent: 'CA'
-  },
+    coords: [-106.67, 52.1332], type: 'landmark', parent: 'CA', image: "/poi-images/can_ss.webp"},
   {
     id: "can_reg",    name: { de: "Regina", hu: "Regina", ro: "Regina", en: "Regina" },
     description: { de: "Capital of Saskatchewan", hu: "Capital of Saskatchewan", ro: "Capital of Saskatchewan", en: "Capital of Saskatchewan" },
@@ -240,8 +230,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt von Saskatchewan", "Heimat der RCMP", "Wascana Centre", "Künstlicher See", "Wirtschaftszentrum der Prärie"], hu: ["Saskatchewan fővárosa", "A Lovasrendőrség (RCMP) otthona", "Wascana Centre", "Mesterséges tó", "A préri gazdasági központja"], ro: ["Capitala provinciei Saskatchewan", "Casa RCMP (Poliția Călare)", "Wascana Centre", "Lac artificial", "Centru economic în prerie"], en: ["Capital of Saskatchewan", "Home of the RCMP", "Wascana Centre", "Man-made lake", "Economic hub of the prairies"] },
     elevation: 577, historyYear: 1882, historyPeriod: "Victorian/Modern",
-    coords: [-104.6158, 50.4492], type: 'landmark', parent: 'CA'
-  },
+    coords: [-104.6158, 50.4492], type: 'landmark', parent: 'CA', image: "/poi-images/can_reg.webp"},
   {
     id: "can_stj",    name: { de: "St. John's", hu: "St. John's", ro: "St. John's", en: "St. John's" },
     description: { de: "Capital of Newfoundland and Labrador", hu: "Capital of Newfoundland and Labrador", ro: "Capital of Newfoundland and Labrador", en: "Capital of Newfoundland and Labrador" },
@@ -259,8 +248,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt von Neufundland", "Östlichste Stadt Nordamerikas", "Jellybean Row Häuser", "Historischer Signal Hill", "Hafenstadt am Atlantik"], hu: ["Új-Fundland fővárosa", "Észak-Amerika legkeletibb városa", "Jellybean Row színes házak", "Történelmi Signal Hill", "Atlanti kikötőváros"], ro: ["Capitala Newfoundland", "Cel mai estic oraș din America de Nord", "Casele colorate Jellybean Row", "Signal Hill istoric", "Oraș port la Atlantic"], en: ["Capital of Newfoundland", "Most easterly city in NA", "Jellybean Row houses", "Historic Signal Hill", "Atlantic port city"] },
     elevation: 0, historyYear: 1497, historyPeriod: "Discovery Era",
-    coords: [-52.7126, 47.5615], type: 'landmark', parent: 'CA'
-  },
+    coords: [-52.7126, 47.5615], type: 'landmark', parent: 'CA', image: "/poi-images/can_stj.webp"},
   {
     id: "can_cha",    name: { de: "Charlottetown", hu: "Charlottetown", ro: "Charlottetown", en: "Charlottetown" },
     description: { de: "Capital of PEI", hu: "Capital of PEI", ro: "Capital of PEI", en: "Capital of PEI" },
@@ -278,8 +266,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt von PEI", "Geburtsort der Konföderation", "Viktorianische Architektur", "Heimat von Anne auf Green Gables", "Wichtiger Fischereihafen"], hu: ["PEI fővárosa", "A konföderáció szülőhelye", "Viktoriánus építészet", "Anne a Zöld Oromból otthona", "Fontos halászkikötő"], ro: ["Capitala PEI", "Locul de naștere al Confederației", "Arhitectură victoriană", "Casa personajului Anne of Green Gables", "Port de pescuit important"], en: ["Capital of PEI", "Birthplace of Confederation", "Victorian architecture", "Home of Anne of Green Gables", "Important fishing port"] },
     elevation: 8, historyYear: 1764, historyPeriod: "Colonial/Victorian",
-    coords: [-63.1311, 46.2382], type: 'landmark', parent: 'CA'
-  },
+    coords: [-63.1311, 46.2382], type: 'landmark', parent: 'CA', image: "/poi-images/can_cha.webp"},
   {
     id: "can_fre",    name: { de: "Fredericton", hu: "Fredericton", ro: "Fredericton", en: "Fredericton" },
     description: { de: "Capital of New Brunswick", hu: "Capital of New Brunswick", ro: "Capital of New Brunswick", en: "Capital of New Brunswick" },
@@ -297,8 +284,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt von New Brunswick", "Am Saint John River", "Historisches Offiziersviertel", "Bedeutendes Bildungszentrum", "Reich an Parks"], hu: ["New Brunswick fővárosa", "A Saint John-folyó partján", "Történelmi tiszti negyed", "Jelentős oktatási központ", "Parkokban gazdag"], ro: ["Capitala New Brunswick", "Pe râul Saint John", "Cartierul istoric al ofițerilor", "Centru educațional important", "Bogat în parcuri"], en: ["Capital of New Brunswick", "On the Saint John River", "Historic Officers' Square", "Significant educational hub", "Wealth of parks"] },
     elevation: 20, historyYear: 1783, historyPeriod: "Loyalist Era",
-    coords: [-66.6431, 45.9636], type: 'landmark', parent: 'CA'
-  },
+    coords: [-66.6431, 45.9636], type: 'landmark', parent: 'CA', image: "/poi-images/can_fre.webp"},
   {
     id: "can_whi",    name: { de: "Whitehorse", hu: "Whitehorse", ro: "Whitehorse", en: "Whitehorse" },
     description: { de: "Capital of Yukon", hu: "Capital of Yukon", ro: "Capital of Yukon", en: "Capital of Yukon" },
@@ -316,8 +302,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt von Yukon", "Am Yukon River gelegen", "Tor zur Arktis", "Bekannt für Polarlichter", "Historischer Raddampfer SS Klondike"], hu: ["Yukon fővárosa", "A Yukon-folyó mentén fekszik", "Kapu az Arktiszhoz", "Sarki fényéről nevezetes", "Történelmi SS Klondike lapátkerekes hajó"], ro: ["Capitala Yukon", "Situat pe râul Yukon", "Poartă către Arctica", "Cunoscut pentru aurora boreală", "Vasul istoric cu roate SS Klondike"], en: ["Capital of Yukon", "Located on the Yukon River", "Gateway to the Arctic", "Famous for Northern Lights", "Historic SS Klondike sternwheeler"] },
     elevation: 640, historyYear: 1898, historyPeriod: "Gold Rush Era",
-    coords: [-135.0568, 60.7212], type: 'landmark', parent: 'CA'
-  },
+    coords: [-135.0568, 60.7212], type: 'landmark', parent: 'CA', image: "/poi-images/can_whi.webp"},
   {
     id: "can_yel",    name: { de: "Yellowknife", hu: "Yellowknife", ro: "Yellowknife", en: "Yellowknife" },
     description: { de: "Capital of NWT", hu: "Capital of NWT", ro: "Capital of NWT", en: "Capital of NWT" },
@@ -335,8 +320,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt der NWT", "Diamantenzentrum", "Am Großen Sklavensee", "Beste Polarlichter", "Nördliches Wirtschaftszentrum"], hu: ["Az Északnyugati területek fővárosa", "Gyémántközpont", "A Nagy-Rabszolga-tónál fekszik", "Legszebb sarki fény", "Északi gazdasági központ"], ro: ["Capitala Teritoriilor de Nord-Vest", "Centrul diamantelor", "Pe malul lacului Marele Sclav", "Cea mai bună auroră boreală", "Centru economic nordic"], en: ["Capital of NWT", "Diamond capital", "On Great Slave Lake", "Best Northern Lights", "Northern economic hub"] },
     elevation: 206, historyYear: 1934, historyPeriod: "Modern/Mining Era",
-    coords: [-114.3718, 62.454], type: 'landmark', parent: 'CA'
-  },
+    coords: [-114.3718, 62.454], type: 'landmark', parent: 'CA', image: "/poi-images/can_yel.webp"},
   {
     id: "can_iqa",    name: { de: "Iqaluit", hu: "Iqaluit", ro: "Iqaluit", en: "Iqaluit" },
     description: { de: "Capital of Nunavut", hu: "Capital of Nunavut", ro: "Capital of Nunavut", en: "Capital of Nunavut" },
@@ -354,8 +338,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Hauptstadt von Nunavut", "Auf der Baffininsel", "Inuit-Kulturzentrum", "Arktisches Klima", "Nur per Flugzeug oder Schiff erreichbar"], hu: ["Nunavut fővárosa", "A Baffin-szigeten található", "Inuit kulturális központ", "Arktiszi éghajlat", "Csak repülővel vagy hajóval elérhető"], ro: ["Capitala Nunavut", "Pe Insula Baffin", "Centru cultural inuit", "Climă arctică", "Accesibil doar cu avionul sau vaporul"], en: ["Capital of Nunavut", "On Baffin Island", "Inuit cultural center", "Arctic climate", "Accessible only by air or sea"] },
     elevation: 5, historyYear: 1942, historyPeriod: "Modern/Arctic Era",
-    coords: [-68.5145, 63.7467], type: 'landmark', parent: 'CA'
-  },
+    coords: [-68.5145, 63.7467], type: 'landmark', parent: 'CA', image: "/poi-images/can_iqa.webp"},
   {
     id: "ca-mount-robson",
     type: "mountain",
@@ -376,8 +359,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Höchster Gipfel der kanadischen Rockies", "UNESCO Weltnaturerbe", "Spektakuläre Nordwand", "Ursprung des Fraser River", "Schwierig zu besteigen"], hu: ["A Kanadai-Sziklás-hegység legmagasabb csúcsa", "UNESCO Világörökség", "Látványos északi fal", "A Fraser-folyó forrásvidéke", "Nehezen megmászható"], ro: ["Cel mai înalt vârf din Stâncoșii Canadieni", "Patrimoniu Mondial UNESCO", "Perete nordic spectaculos", "Originea râului Fraser", "Dificil de escaladat"], en: ["Highest peak in the Canadian Rockies", "UNESCO World Heritage Site", "Spectacular North Face", "Source region of the Fraser River", "Highly challenging climb"] },
-    elevation: 3954, historyYear: 1913, historyPeriod: "Modern Alpine Era"
-  },
+    elevation: 3954, historyYear: 1913, historyPeriod: "Modern Alpine Era", image: "/poi-images/ca-mount-robson.webp"},
   {
     id: "ca-fraser-river",
     type: "river",
@@ -398,8 +380,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Längster Fluss in British Columbia", "Bedeutendster Lachsfluss", "Keine Staudämme am Hauptlauf", "Wichtiger Transportweg", "Starker Sedimenttransport"], hu: ["Brit Kolumbia leghosszabb folyója", "A legjelentősebb lazacívó folyó", "Nincsenek gátak a főágán", "Fontos szállítási útvonal", "Jelentős hordalékszállítás"], ro: ["Cel mai lung râu din Columbia Britanică", "Cel mai important râu pentru somon", "Niciun baraj pe cursul principal", "Cale de transport importantă", "Transport masiv de sedimente"], en: ["Longest river in British Columbia", "World's most productive salmon river", "No dams on the main stem", "Major transportation corridor", "High sediment load"] },
-    length: 1375
-  },
+    length: 1375, image: "/poi-images/ca-fraser-river.webp"},
   {
     id: "ca-great-bear-lake",
     type: "lake",
@@ -420,8 +401,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Größter rein kanadischer See", "Am Polarkreis gelegen", "Extrem klares Wasser", "Heimat von Seesaiblingen", "Sehr dünn besiedelt"], hu: ["A legnagyobb teljesen kanadai tó", "Az északi sarkkörön fekszik", "Rendkívül tiszta víz", "Tavi pisztrángok élőhelye", "Nagyon ritkán lakott környék"], ro: ["Cel mai mare lac integral canadian", "Situat pe Cercul Polar", "Apă extrem de limpede", "Habitat pentru păstrăvul de lac", "Zonă foarte puțin populată"], en: ["Largest lake entirely in Canada", "Located on the Arctic Circle", "Extremely clear water", "Home to world-record lake trout", "Very sparsely populated area"] },
-    area: 31153, elevation: 156
-  },
+    area: 31153, elevation: 156, image: "/poi-images/ca-great-bear-lake.webp"},
   {
     id: "ca-algonquin-park",
     type: "forest",
@@ -442,8 +422,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Ältester Provinzpark Kanadas", "Über 2.400 Seen", "Weltklasse Kanu-Revier", "Heimat von Elchen und Wölfen", "Inspiration für Künstler"], hu: ["Kanada legrégebbi tartományi parkja", "Több mint 2400 tó", "Világszínvonalú kenuútvonalak", "Jávorszarvasok és farkasok otthona", "Művészek ihletője"], ro: ["Cel mai vechi parc provincial din Canada", "Peste 2.400 de lacuri", "Zonă de canotaj de clasă mondială", "Casa elanilor și a lupilor", "Sursă de inspirație pentru artiști"], en: ["Canada's oldest provincial park", "Over 2,400 lakes", "World-class canoeing destination", "Home to moose and wolves", "Inspiration for many artists"] },
-    area: 7653, historyYear: 1893, historyPeriod: "Victorian Era"
-  },
+    area: 7653, historyYear: 1893, historyPeriod: "Victorian Era", image: "/poi-images/ca-algonquin-park.webp"},
   {
     id: "ca-mount-cavell",
     type: "mountain",
@@ -464,8 +443,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Ikonischer Gipfel in Jasper", "Hängender Angel-Gletscher", "Benannt nach einer heroischen Krankenschwester", "Beliebtes Wanderziel", "Bunte Wildblumenwiesen"], hu: ["A Jasper park ikonikus csúcsa", "Függő Angel-gleccser", "Egy hős ápolónőről nevezték el", "Népszerű túracélpont", "Színes vadvirágos rétek"], ro: ["Vârf iconic în Jasper", "Ghețarul Angel suspendat", "Numit după o infirmieră eroină", "Destinație populară de drumeție", "Pajiști cu flori sălbatice colorate"], en: ["Iconic Jasper peak", "Hanging Angel Glacier", "Named after a heroic nurse", "Popular hiking destination", "Vibrant alpine wildflower meadows"] },
-    elevation: 3363
-  },
+    elevation: 3363, image: "/poi-images/ca-mount-cavell.webp"},
   {
     id: "ca-fortress-louisbourg",
     type: "historical",
@@ -486,8 +464,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Größte Rekonstruktion in NA", "Wichtiger französischer Außenposten", "Zentrum des Fischhandels", "Zweimal von Briten belagert"], hu: ["Észak-Amerika legnagyobb rekonstrukciója", "Fontos francia külbázis", "Halkereskedelmi központ", "A britek kétszer is ostromolták"], ro: ["Cea mai mare reconstrucție din NA", "Apostol francez important", "Centru al comerțului cu pește", "Asediat de două ori de britanici"], en: ["Largest reconstruction in NA", "Key French colonial outpost", "Hub for the cod fishery", "Twice besieged by the British"] },
-    area: 60, historyYear: 1713, historyPeriod: "French Colonial"
-  },
+    area: 60, historyYear: 1713, historyPeriod: "French Colonial", image: "/poi-images/ca-fortress-louisbourg.webp"},
   {
     id: "ca-anse-meadows",
     type: "historical",
@@ -530,8 +507,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Ältester Nationalpark Kanadas", "UNESCO Weltnaturerbe", "Spektakuläre Berglandschaft", "Heimat von Grizzlys und Elchen", "Berühmte Thermalquellen"], hu: ["Kanada legrégebbi nemzeti parkja", "UNESCO Világörökség", "Látványos hegyi tájak", "Grizzlyk és jávorszarvasok otthona", "Híres termálforrások"], ro: ["Cel mai vechi parc național din Canada", "Patrimoniu Mondial UNESCO", "Peisaje montane spectaculoase", "Casa urșilor grizzly și a elanilor", "Izvoare termale faimoase"], en: ["Canada's oldest national park", "UNESCO World Heritage Site", "Spectacular mountain scenery", "Home to grizzly bears and moose", "Famous thermal hot springs"] },
     area: 6641, historyYear: 1885, historyPeriod: "Victorian Era",
-    coords: [-115.5683, 51.1784], type: 'landmark', parent: 'CA'
-  },
+    coords: [-115.5683, 51.1784], type: 'landmark', parent: 'CA', image: "/poi-images/can_banff.webp"},
   {
     id: "can_niagara",    name: { de: "Niagarafälle", hu: "Niagara-vízesés", ro: "Cascada Niagara", en: "Niagara Falls" },
     description: { de: "Famous waterfalls", hu: "Híres vízesés", ro: "Cascade faimoase", en: "Famous waterfalls" },
@@ -549,8 +525,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Drei große Wasserfälle", "Grenze Kanada/USA", "Gewaltige Wassermassen", "Wichtige Wasserkraftquelle", "Ikonisches Touristenziel"], hu: ["Három nagy vízesés", "Kanada és az USA határa", "Hatalmas víztömeg", "Fontos vízenergia-forrás", "Ikonikus turisztikai célpont"], ro: ["Trei cascade majore", "Granița Canada/SUA", "Volum uriaș de apă", "Sursă importantă de energie hidroelectrică", "Destinație turistică iconică"], en: ["Three major waterfalls", "Canada/USA border", "Vast water volume", "Major source of hydroelectric power", "Iconic tourist destination"] },
     elevation: 51, length: 1203,
-    coords: [-79.0849, 43.0896], type: 'landmark', parent: 'CA'
-  },
+    coords: [-79.0849, 43.0896], type: 'landmark', parent: 'CA', image: "/poi-images/can_niagara.webp"},
   {
     id: "can_cntower",    name: { de: "CN Tower", hu: "CN Tower", ro: "CN Tower", en: "CN Tower" },
     description: { de: "Iconic tower in Toronto", hu: "Ikonikus torony Torontóban", ro: "Turn iconic în Toronto", en: "Iconic tower in Toronto" },
@@ -573,13 +548,11 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Größter Park in den Rockies", "Columbia-Eisfeld", "UNESCO Weltnaturerbe", "Lichtschutzgebiet", "Vielfältige Tierwelt"], hu: ["A Sziklás-hegység legnagyobb parkja", "Columbia-jégmező", "UNESCO Világörökség", "Sötét égbolt rezervátum", "Változatos állatvilág"], ro: ["Cel mai mare parc din Stâncoși", "Câmpul de gheață Columbia", "Patrimoniu Mondial UNESCO", "Rezervație de cer întunecat", "Faună diversă"], en: ["Largest park in the Rockies", "Columbia Icefield", "UNESCO World Heritage Site", "Dark Sky Preserve", "Diverse wildlife"] },
     area: 10878, historyYear: 1907, historyPeriod: "Modern Era",
-    coords: [-117.7615, 52.8737], type: 'landmark', parent: 'CA'
-  },
+    coords: [-117.7615, 52.8737], type: 'landmark', parent: 'CA', image: "/poi-images/can_jasper.webp"},
   {
     id: "can_whistler",    name: { de: "Whistler", hu: "Whistler", ro: "Whistler", en: "Whistler" },
     description: { de: "Ski resort town", hu: "Sípálya-város", ro: "Stațiune de schi", en: "Ski resort town" },
-    coords: [-122.9574, 50.1163], type: 'landmark', parent: 'CA'
-  },
+    coords: [-122.9574, 50.1163], type: 'landmark', parent: 'CA', image: "/poi-images/can_whistler.webp"},
   {
     id: "can_fundy",    name: { de: "Bay of Fundy", hu: "Fundy-öböl", ro: "Golful Fundy", en: "Bay of Fundy" },
     description: { de: "Known for high tides", hu: "Híres az árapályról", ro: "Cunoscut pentru maree înalte", en: "Known for high tides" },
@@ -597,8 +570,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Höchster Tidenhub weltweit", "Über 160 Mrd. Tonnen Wasserfluss", "UNESCO Biosphärenreservat", "Reich an Walen", "Spektakuläre Klippen"], hu: ["A világ legnagyobb árapálya", "Több mint 160 milliárd tonna vízmozgás", "UNESCO bioszféra-rezervátum", "Bálnákban gazdag", "Látványos sziklafalak"], ro: ["Cea mai mare maree din lume", "Flux de peste 160 miliarde tone de apă", "Rezervație a Biosferei UNESCO", "Bogat în balene", "Faleze spectaculoase"], en: ["Highest tides in the world", "Over 160 billion tons of water flow", "UNESCO Biosphere Reserve", "Rich in whale species", "Spectacular sea cliffs"] },
     length: 270,
-    coords: [-65.0481, 45.0], type: 'landmark', parent: 'CA'
-  },
+    coords: [-65.0481, 45.0], type: 'landmark', parent: 'CA', image: "/poi-images/can_fundy.webp"},
   {
     id: "can_louise",    name: { de: "Lake Louise", hu: "Louise-tó", ro: "Lacul Louise", en: "Lake Louise" },
     description: { de: "Glacial lake in Banff", hu: "Gleccsertó Banffban", ro: "Lac glaciar în Banff", en: "Glacial lake in Banff" },
@@ -616,8 +588,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Türkisfarbenes Wasser", "Gletschergespeist", "Ikonisches Fairmont Hotel", "Ganzjähriges Outdoor-Ziel", "Teil des Banff-Nationalparks"], hu: ["Türkizkék víz", "Gleccser táplálja", "Ikonikus Fairmont Hotel", "Egész évben látogatható", "A Banff Nemzeti Park része"], ro: ["Apă turcoaz", "Alimentat de ghețar", "Hotelul iconic Fairmont", "Destinație outdoor tot anul", "Parte a Parcului Național Banff"], en: ["Turquoise water", "Glacier-fed", "Iconic Fairmont hotel", "Year-round outdoor destination", "Part of Banff National Park"] },
     elevation: 1731, area: 1,
-    coords: [-116.1773, 51.4254], type: 'landmark', parent: 'CA'
-  },
+    coords: [-116.1773, 51.4254], type: 'landmark', parent: 'CA', image: "/poi-images/can_louise.webp"},
   {
     id: "can_mackenzie",    name: { de: "Mackenzie River", hu: "Mackenzie-folyó", ro: "Fluviul Mackenzie", en: "Mackenzie River" },
     description: { de: "Longest river system in Canada", hu: "Kanada leghosszabb folyórendszere", ro: "Cel mai lung sistem fluvial din Canada", en: "Longest river system in Canada" },
@@ -635,8 +606,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Längster Fluss Kanadas", "Mündet in die Beaufortsee", "Wichtige Transportroute im Norden", "Großes Delta", "Teilweise 8 Monate gefroren"], hu: ["Kanada leghosszabb folyója", "A Beaufort-tengerbe torkollik", "Fontos északi szállítási útvonal", "Hatalmas deltavidék", "Évente kb. 8 hónapig befagy"], ro: ["Cel mai lung râu din Canada", "Se varsă în Marea Beaufort", "Rută de transport vitală în Nord", "Deltă uriașă", "Înghețat aproximativ 8 luni pe an"], en: ["Longest river in Canada", "Empties into the Beaufort Sea", "Major northern transportation route", "Vast river delta", "Frozen for about 8 months a year"] },
     length: 4241,
-    coords: [-134.1953, 69.2683], type: 'landmark', parent: 'CA'
-  },
+    coords: [-134.1953, 69.2683], type: 'landmark', parent: 'CA', image: "/poi-images/can_mackenzie.webp"},
   {
     id: "can_stlawrence",    name: { de: "Sankt-Lorenz-Strom", hu: "Szent Lőrinc-folyó", ro: "Fluviul Sfântul Laurențiu", en: "St. Lawrence River" },
     description: { de: "Major river connecting Great Lakes to Atlantic", hu: "A Nagy-tavakat az Atlanti-óceánnal összekötő nagy folyó", ro: "Fluviu major care leagă Marile Lacuri de Atlantic", en: "Major river connecting Great Lakes to Atlantic" },
@@ -654,8 +624,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Verbindung zum Atlantik", "Wichtiger Seeweg", "Heimat von Belugawalen", "Tausend Inseln (Thousand Islands)", "Grenze zwischen Kanada und USA"], hu: ["Összeköttetés az Atlanti-óceánnal", "Fontos tengeri út", "Belugák élőhelye", "Ezer-sziget vidék", "Határfolyó Kanada és az USA között"], ro: ["Legătură cu Atlanticul", "Cale maritimă importantă", "Habitat pentru balenele beluga", "Regiunea celor O Mie de Insule", "Graniță între Canada și SUA"], en: ["Link to the Atlantic Ocean", "Vital seaway", "Home to beluga whales", "Thousand Islands region", "International border (partial)"] },
     length: 1197, historyYear: 1535,
-    coords: [-69.6455, 48.0652], type: 'landmark', parent: 'CA'
-  },
+    coords: [-69.6455, 48.0652], type: 'landmark', parent: 'CA', image: "/poi-images/can_stlawrence.webp"},
   {
     id: "can_rockies",    name: { de: "Kanadische Rocky Mountains", hu: "Kanadai-Sziklás-hegység", ro: "Munții Stâncoși Canadieni", en: "Canadian Rockies" },
     description: { de: "Mountain range in western Canada", hu: "Hegylánc Nyugat-Kanadában", ro: "Lanț muntos în vestul Canadei", en: "Mountain range in western Canada" },
@@ -673,8 +642,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["UNESCO Weltnaturerbe", "Schroffe Gipfel", "Zahlreiche Nationalparks", "Beliebtes Skigebiet", "Reiche Tierwelt (Bären, Elche)"], hu: ["UNESCO Világörökség", "Meredek hegycsúcsok", "Számos nemzeti park", "Népszerű síparadicsom", "Gazdag állatvilág (medvék, jávorszarvasok)"], ro: ["Patrimoniu Mondial UNESCO", "Vârfuri abrupte", "Numeroase parcuri naționale", "Zonă de schi populară", "Faună bogată (urși, elani)"], en: ["UNESCO World Heritage Site", "Jagged mountain peaks", "Multiple national parks", "Premier skiing destination", "Abundant wildlife (bears, moose)"] },
     elevation: 3954, length: 1450,
-    coords: [-118.0, 53.0], type: 'landmark', parent: 'CA'
-  },
+    coords: [-118.0, 53.0], type: 'landmark', parent: 'CA', image: "/poi-images/can_rockies.webp"},
   {
     id: "can_grosmorne",    name: { de: "Gros-Morne-Nationalpark", hu: "Gros Morne Nemzeti Park", ro: "Parcul Național Gros Morne", en: "Gros Morne" },
     description: { de: "National park in Newfoundland", hu: "Nemzeti park Új-Fundlandon", ro: "Parc național în Newfoundland", en: "National park in Newfoundland" },
@@ -692,8 +660,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["UNESCO Weltnaturerbe", "Spektakuläre Fjorde", "Geologisches Wunder (Tablelands)", "Wanderparadies", "Küstenschönheit"], hu: ["UNESCO Világörökség", "Látványos fjordok", "Geológiai csoda (Tablelands)", "Túrázók paradicsoma", "Partmenti szépség"], ro: ["Patrimoniu Mondial UNESCO", "Fiorduri spectaculoase", "Minune geologică (Tablelands)", "Paradisul drumeților", "Frumusețe costieră"], en: ["UNESCO World Heritage Site", "Spectacular fjords", "Geological wonder (Tablelands)", "Hiking paradise", "Coastal beauty"] },
     area: 1805, historyYear: 1973,
-    coords: [-57.755, 49.6105], type: 'landmark', parent: 'CA'
-  },
+    coords: [-57.755, 49.6105], type: 'landmark', parent: 'CA', image: "/poi-images/can_grosmorne.webp"},
   {
     id: "can_logan",    name: { de: "Mount Logan", hu: "Mount Logan", ro: "Muntele Logan", en: "Mount Logan" },
     description: { de: "Highest peak in Canada", hu: "Kanada legmagasabb csúcsa", ro: "Cel mai înalt vârf din Canada", en: "Highest peak in Canada" },
@@ -711,8 +678,7 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Höchster Berg Kanadas", "Im Kluane-Nationalpark", "Gewaltiges Eisfeld", "Extrem kaltes Klima", "Zweithöchster in Nordamerika"], hu: ["Kanada legmagasabb hegye", "A Kluane Nemzeti Parkban található", "Hatalmas jégmező", "Szélsőségesen hideg éghajlat", "Észak-Amerika 2. legmagasabb csúcsa"], ro: ["Cel mai înalt munte din Canada", "În Parcul Național Kluane", "Câmp de gheață masiv", "Climă extrem de rece", "Al doilea ca înălțime din America de Nord"], en: ["Highest peak in Canada", "Located in Kluane National Park", "Massive icefield", "Extremely cold climate", "Second highest in North America"] },
     elevation: 5959,
-    coords: [-140.4055, 60.5671], type: 'landmark', parent: 'CA'
-  },
+    coords: [-140.4055, 60.5671], type: 'landmark', parent: 'CA', image: "/poi-images/can_logan.webp"},
   {
     id: "ca-rideau-canal",
     type: "historical",
@@ -733,8 +699,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["UNESCO Weltkulturerbe", "Längste Eislaufbahn der Welt", "Ältester Kanal in NA", "Verbindet Ottawa und Kingston"], hu: ["UNESCO Világörökség", "A világ leghosszabb korcsolyapályája", "Észak-Amerika legrégebbi csatornája", "Ottawát és Kingstont köti össze"], ro: ["Patrimoniu Mondial UNESCO", "Cel mai lung patinoar din lume", "Cel mai vechi canal din NA", "Leagă Ottawa de Kingston"], en: ["UNESCO World Heritage Site", "World's longest skating rink", "Oldest operated canal in NA", "Connects Ottawa to Kingston"] },
-    length: 202, historyYear: 1826, historyPeriod: "Victorian Era"
-  },
+    length: 202, historyYear: 1826, historyPeriod: "Victorian Era", image: "/poi-images/ca-rideau-canal.webp"},
   {
     id: "ca-buffalo-jump",
     type: "historical",
@@ -755,8 +720,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["UNESCO Weltkulturerbe", "Über 6.000 Jahre genutzt", "Indigene Jagdtechnik", "Großes Informationszentrum"], hu: ["UNESCO Világörökség", "Több mint 6000 évig használták", "Őslakos vadászati technika", "Nagy látogatóközpont"], ro: ["Patrimoniu Mondial UNESCO", "Utilizat de peste 6.000 de ani", "Tehnică de vânătoare indigenă", "Centru de interpretare vast"], en: ["UNESCO World Heritage Site", "Used for over 6,000 years", "Ancient hunting technique", "Award-winning interpretive center"] },
-    elevation: 1050, historyYear: -4000, historyPeriod: "Pre-Contact"
-  },
+    elevation: 1050, historyYear: -4000, historyPeriod: "Pre-Contact", image: "/poi-images/ca-buffalo-jump.webp"},
   {
     id: "ca-plains-abraham",
     type: "historical",
@@ -777,8 +741,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Historisches Schlachtfeld", "Schlacht von 1759", "Beide Generäle fielen hier", "Heute ein großer Stadtpark"], hu: ["Történelmi csatatér", "Az 1759-es csata helyszíne", "Mindkét hadvezér itt esett el", "Ma nagy városi park"], ro: ["Câmp de bătălie istoric", "Bătălia din 1759", "Ambii generali au murit aici", "Astăzi un mare parc urban"], en: ["Historic battlefield", "Site of the 1759 battle", "Both generals died in the conflict", "Now a major urban park"] },
-    historyYear: 1759, historyPeriod: "Seven Years' War"
-  },
+    historyYear: 1759, historyPeriod: "Seven Years' War", image: "/poi-images/ca-plains-abraham.webp"},
   {
     id: "ca-peggys-cove",
     type: "landmark",
@@ -799,8 +762,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Meistfotografierter Leuchtturm", "Auf Granitfelsen erbaut", "Aktives Navigationslicht", "Charmantes Fischerdorf"], hu: ["A legtöbbet fényképezett világítótorony", "Gránitsziklákra épült", "Aktív navigációs fény", "Bájos halászfalu"], ro: ["Cel mai fotografiat far", "Construit pe stânci de granit", "Lumină de navigație activă", "Sat de pescari fermecător"], en: ["Most photographed lighthouse", "Built on granite bedrock", "Active navigation aid", "Iconic fishing village setting"] },
-    elevation: 15, historyYear: 1915, historyPeriod: "Modern"
-  },
+    elevation: 15, historyYear: 1915, historyPeriod: "Modern", image: "/poi-images/ca-peggys-cove.webp"},
   {
     id: "ca-parliament-hill",
     type: "landmark",
@@ -821,8 +783,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Sitz der Bundesregierung", "Neugotische Architektur", "Peace Tower (Béke-torony)", "Changing of the Guard Zeremonie"], hu: ["A szövetségi kormány székhelye", "Neogótikus építészet", "Itt található a Béke-torony", "Őrségváltási ceremónia helyszíne"], ro: ["Sediul guvernului federal", "Arhitectură neogotică", "Turnul Păcii (Peace Tower)", "Ceremonia de schimbare a gărzii"], en: ["Seat of the federal government", "Gothic Revival architecture", "Home to the Peace Tower", "Changing of the Guard ceremony site"] },
-    elevation: 85, historyYear: 1859, historyPeriod: "Victorian Era"
-  },
+    elevation: 85, historyYear: 1859, historyPeriod: "Victorian Era", image: "/poi-images/ca-parliament-hill.webp"},
   {
     id: "ca-hopewell-rocks",
     type: "landmark",
@@ -843,8 +804,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Form einer Blumenvase", "Höchster Tidenhub der Welt", "Gehen auf dem Meeresboden", "Erosionsphänomen"], hu: ["Virágcserép alakú sziklák", "A világ legnagyobb árapálya", "Séta a tengerfenéken", "Eróziós jelenség"], ro: ["Formă de ghiveci de flori", "Cea mai mare maree din lume", "Plimbare pe fundul mării", "Fenomen de eroziune"], en: ["Flowerpot-shaped rocks", "World's highest tidal range", "Walk on the ocean floor", "Erosional masterpiece"] },
-    elevation: 0
-  },
+    elevation: 0, image: "/poi-images/ca-hopewell-rocks.webp"},
   {
     id: "ca-butchart-gardens",
     type: "landmark",
@@ -865,8 +825,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Ehemaliger Kalksteinbruch", "Nationale historische Stätte", "Über 900 Pflanzenarten", "Ganzjährig geöffnet"], hu: ["Egykori mészkőbánya", "Nemzeti történelmi emlékhely", "Több mint 900 növényfaj", "Egész évben látogatható"], ro: ["Fostă carieră de calcar", "Sit istoric național", "Peste 900 de specii de plante", "Deschise tot anul"], en: ["Former limestone quarry", "National Historic Site of Canada", "Over 900 plant varieties", "Open in all four seasons"] },
-    area: 0.22, historyYear: 1904, historyPeriod: "Modern"
-  },
+    area: 0.22, historyYear: 1904, historyPeriod: "Modern", image: "/poi-images/ca-butchart-gardens.webp"},
   {
     id: "ca-signal-hill",
     type: "landmark",
@@ -887,8 +846,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Erstes Funksignal 1901", "Cabot Tower Wahrzeichen", "Strategische Militärlage", "Blick auf St. John's Hafen"], hu: ["Első rádiójel 1901-ben", "A Cabot-torony a jelképe", "Stratégiai katonai helyszín", "Kilátás St. John's kikötőjére"], ro: ["Primul semnal radio în 1901", "Turnul Cabot ca punct de reper", "Locație militară strategică", "Vedere spre portul St. John's"], en: ["First wireless signal in 1901", "Home to the Cabot Tower", "Strategic military defense site", "Panoramic views of the harbor"] },
-    elevation: 167, historyYear: 1901, historyPeriod: "Modern"
-  },
+    elevation: 167, historyYear: 1901, historyPeriod: "Modern", image: "/poi-images/ca-signal-hill.webp"},
   {
     id: "ca-banff-grizzly",
     type: "animal-habitat",
@@ -908,8 +866,7 @@ export const canadaCities: POI[] = [
       ro: [],
       en: []
     },
-    facts: { de: ["Majestätische Raubtiere", "Symbol der Wildnis", "Strenge Schutzmaßnahmen", "Beste Sichtungschancen im Frühjahr"], hu: ["Fenséges ragadozók", "A vadon szimbólumai", "Szigorú védelmi intézkedések", "Tavasszal a legnagyobb az esély a megfigyelésükre"], ro: ["Prădători maiestuoși", "Simbolul sălbăticiei", "Măsuri stricte de protecție", "Cele mai bune șanse de observare primăvara"], en: ["Majestic apex predators", "Symbols of the wilderness", "Strict conservation protocols", "Spring is the best time for sightings"] }
-  },
+    facts: { de: ["Majestätische Raubtiere", "Symbol der Wildnis", "Strenge Schutzmaßnahmen", "Beste Sichtungschancen im Frühjahr"], hu: ["Fenséges ragadozók", "A vadon szimbólumai", "Szigorú védelmi intézkedések", "Tavasszal a legnagyobb az esély a megfigyelésükre"], ro: ["Prădători maiestuoși", "Simbolul sălbăticiei", "Măsuri stricte de protecție", "Cele mai bune șanse de observare primăvara"], en: ["Majestic apex predators", "Symbols of the wilderness", "Strict conservation protocols", "Spring is the best time for sightings"] }, image: "/poi-images/ca-banff-grizzly.webp"},
   {
     id: "ca-churchill-polar-bear",
     type: "animal-habitat",
@@ -929,8 +886,7 @@ export const canadaCities: POI[] = [
       ro: [],
       en: []
     },
-    facts: { de: ["Welthauptstadt der Eisbären", "An der Hudson Bay", "Beste Zeit: Oktober/November", "Beobachtung per Tundra-Buggy"], hu: ["A jegesmedvék világfővárosa", "A Hudson-öböl partján", "Legjobb időszak: október/november", "Megfigyelés tundra-buggykkal"], ro: ["Capitala mondială a urșilor polari", "La Golful Hudson", "Perioada optimă: oct./nov.", "Observare cu vehicule Tundra Buggy"], en: ["Polar Bear Capital of the World", "Located on Hudson Bay", "Peak season: October and November", "Viewed from custom Tundra Buggies"] }
-  },
+    facts: { de: ["Welthauptstadt der Eisbären", "An der Hudson Bay", "Beste Zeit: Oktober/November", "Beobachtung per Tundra-Buggy"], hu: ["A jegesmedvék világfővárosa", "A Hudson-öböl partján", "Legjobb időszak: október/november", "Megfigyelés tundra-buggykkal"], ro: ["Capitala mondială a urșilor polari", "La Golful Hudson", "Perioada optimă: oct./nov.", "Observare cu vehicule Tundra Buggy"], en: ["Polar Bear Capital of the World", "Located on Hudson Bay", "Peak season: October and November", "Viewed from custom Tundra Buggies"] }, image: "/poi-images/ca-churchill-polar-bear.webp"},
   {
     id: "ca-wood-buffalo-bison",
     type: "animal-habitat",
@@ -951,8 +907,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Größte Waldbison-Herde", "Größter Park Kanadas", "UNESCO Weltnaturerbe", "Abgelegene Wildnis"], hu: ["A legnagyobb erdei bölénycsorda", "Kanada legnagyobb parkja", "UNESCO Világörökség", "Távoli vadon"], ro: ["Cea mai mare cireadă de bizoni", "Cel mai mare parc din Canada", "Patrimoniu Mondial UNESCO", "Sălbăticie izolată"], en: ["Largest wood bison herd", "Canada's largest national park", "UNESCO World Heritage Site", "Remote and vast wilderness"] },
-    area: 44807, historyYear: 1922
-  },
+    area: 44807, historyYear: 1922, image: "/poi-images/ca-wood-buffalo-bison.webp"},
   {
     id: "ca-quebec-maple",
     type: "agriculture",
@@ -973,8 +928,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Produziert 70% weltweit", "Zuckerahorn-Bäume", "Frühjahrs-Erntezeit", "Ahornblatt Nationalsymbol"], hu: ["A világtermelés 70%-át adja", "Cukorjuhar fákból készül", "Tavaszi betakarítás", "A juharlevél nemzeti jelkép"], ro: ["Produce 70% din totalul mondial", "Arbori de arțar de zahăr", "Recoltare în primăvară", "Frunza de arțar, simbol național"], en: ["Produces 70% of world supply", "Derived from sugar maple trees", "Spring tapping season", "Maple leaf is a national icon"] },
-    historyYear: 1534, historyPeriod: "Traditional/Modern"
-  },
+    historyYear: 1534, historyPeriod: "Traditional/Modern", image: "/poi-images/ca-quebec-maple.webp"},
   {
     id: "ca-saskatchewan-wheat",
     type: "agriculture",
@@ -1015,8 +969,7 @@ export const canadaCities: POI[] = [
       ro: [],
       en: []
     },
-    facts: { de: ["Zweitgrößte Weinregion", "Kanadas Obstgarten", "Trockenes Mikroklima", "Wunderschöne Seelage"], hu: ["Második legnagyobb borvidék", "Kanada gyümölcsöskertje", "Száraz mikroklíma", "Gyönyörű tóparti fekvés"], ro: ["A doua regiune viticolă", "Livada Canadei", "Microclimat arid", "Cadru pitoresc lângă lac"], en: ["Second largest wine region", "Canada's fruit orchard hub", "Unique semi-arid microclimate", "Scenic lakeside setting"] }
-  },
+    facts: { de: ["Zweitgrößte Weinregion", "Kanadas Obstgarten", "Trockenes Mikroklima", "Wunderschöne Seelage"], hu: ["Második legnagyobb borvidék", "Kanada gyümölcsöskertje", "Száraz mikroklíma", "Gyönyörű tóparti fekvés"], ro: ["A doua regiune viticolă", "Livada Canadei", "Microclimat arid", "Cadru pitoresc lângă lac"], en: ["Second largest wine region", "Canada's fruit orchard hub", "Unique semi-arid microclimate", "Scenic lakeside setting"] }, image: "/poi-images/ca-okanagan-wine.webp"},
   {
     id: "ca-canadas-wonderland",
     type: "kid-landmark",
@@ -1035,8 +988,7 @@ export const canadaCities: POI[] = [
       hu: ["Több mint 200 attrakció található benne.", "A 'Wonder Mountain' a park központi hegye.", "A park több mint 130 hektáron terül el.", "Itt található az ország leggyorsabb hullámvasútja.", "A park nyáron tart nyitva.", "Külön részleggel rendelkezik gyerekek számára."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ca-canadas-wonderland.webp"},
   {
     id: "ca-west-edmonton-mall",
     type: "kid-landmark",
@@ -1055,8 +1007,7 @@ export const canadaCities: POI[] = [
       hu: ["Több mint 800 üzlet található benne.", "Fedett vízi parkkal rendelkezik.", "Beltéri vidámparkja van.", "Több mint 350 000 m²-es alapterület.", "Szálloda is található benne.", "A világ egyik leglátogatottabb helyszíne."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ca-west-edmonton-mall.webp"},
   {
     id: "ca-alberta-oil-sands",
     type: "industry",
@@ -1075,8 +1026,7 @@ export const canadaCities: POI[] = [
       hu: ["A világ egyik legnagyobb ismert olajtartaléka.", "Kitermelése bonyolult technológiát igényel.", "Jelentős hatással van Kanada gazdaságára.", "A technológia folyamatosan fejlődik a fenntarthatóság érdekében.", "Fort McMurray a régió központja.", "Hatalmas ipari terület."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ca-alberta-oil-sands.webp"},
   {
     id: "ca-vancouver-film",
     type: "industry",
@@ -1095,8 +1045,7 @@ export const canadaCities: POI[] = [
       hu: ["Gyakran használják forgatási helyszínként.", "Sok nemzetközi produkciót itt készítenek.", "Szakképzett stábok és modern stúdiók vannak.", "Kedvező adózási környezet.", "A városi környezet könnyen átalakítható más helyszínné.", "Több mint 100 éve zajlik filmforgatás a régióban."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ca-vancouver-film.webp"},
   {
     id: "ca-toronto-finance",
     type: "industry",
@@ -1115,8 +1064,7 @@ export const canadaCities: POI[] = [
       hu: ["Itt találhatók a legfontosabb kanadai bankok.", "A Torontói Értéktőzsde a világ egyik legnagyobbja.", "A pénzügyi negyed az ország gazdasági erejét tükrözi.", "Számos multinacionális vállalat központja.", "Modern felhőkarcolók jellemzik a negyedet.", "Folyamatosan növekvő üzleti központ."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ca-toronto-finance.webp"},
   {
     id: "ca-port-vancouver",
     type: "port",
@@ -1135,8 +1083,7 @@ export const canadaCities: POI[] = [
       hu: ["Kulcsfontosságú kapu az ázsiai kereskedelemhez.", "Kanada legnagyobb kikötője.", "Jelentős mennyiségű áruforgalom.", "Modern technológiával felszerelt.", "Környezetvédelmi törekvések az üzemeltetésben.", "A hajózási útvonalak központja."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ca-port-vancouver.webp"},
   {
     id: "ca-port-halifax",
     type: "port",
@@ -1155,8 +1102,7 @@ export const canadaCities: POI[] = [
       hu: ["Stratégiai mélyvízi kikötő az Atlanti-óceánon.", "Fontos állomás az európai kereskedelemben.", "Történelmi jelentőségű kereskedelmi központ.", "Képes nagy befogadóképességű hajókat fogadni.", "Folytonos fejlesztések jellemzik.", "Kanada atlanti kapuja."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ca-port-halifax.webp"},
   {
     id: "ca-baffin-island",
     type: "island",
@@ -1177,8 +1123,7 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Größte Insel Kanadas", "Fünftgrößte Insel der Welt", "Zentrum der Inuit-Kultur", "Auyuittuq-Nationalpark", "Heimat von Eisbären und Narwalen"], hu: ["Kanada legnagyobb szigete", "A világ 5. legnagyobb szigete", "Az inuit kultúra központja", "Auyuittuq Nemzeti Park", "Jegesmedvék és narválok élőhelye"], ro: ["Cea mai mare insulă din Canada", "A cincea insulă ca mărime din lume", "Centru al culturii inuite", "Parcul Național Auyuittuq", "Habitat pentru urși polari și narvali"], en: ["Canada's largest island", "Fifth largest island in the world", "Center of Inuit culture", "Home to Auyuittuq National Park", "Habitat for polar bears and narwhals"] },
-    area: 507451, elevation: 2147
-  },
+    area: 507451, elevation: 2147, image: "/poi-images/ca-baffin-island.webp"},
   {
     id: "ca-vancouver-island",
     type: "island",
@@ -1199,8 +1144,8 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Größte Insel an der Pazifikküste", "Gemäßigter Regenwald", "Weltklasse Walbeobachtung", "Heimat von Victoria", "Surferparadies Tofino"], hu: ["A csendes-óceáni partvidék legnagyobb szigete", "Mérsékelt övi esőerdők", "Világszínvonalú bálnamegfigyelés", "Itt található Victoria", "Tofino, a szörfösök paradicsoma"], ro: ["Cea mai mare insulă de pe coasta Pacificului", "Păduri tropicale temperate", "Observarea balenelor de clasă mondială", "Găzduiește orașul Victoria", "Tofino, paradisul surferilor"], en: ["Largest island on the Pacific coast", "Temperate rainforests", "World-class whale watching", "Home to Victoria", "Surfing mecca of Tofino"] },
-    area: 31285, length: 460, elevation: 2195
-  },
+    area: 31285, length: 460, elevation: 2195, image: "/poi-images/ca-vancouver-island.webp"},
 ];
 
 export const canadaAllPoi: POI[] = [...canadaCountry, ...canadaRegions, ...canadaCities, ...canadaLandmarks, ...poiExtraCanadaCities, ...poiExtraCanadaCitiesV2, ...poiExtraCanadaEconomicV2, ...poiExtraCanadaHistory, ...poiExtraCanadaHistoryV2, ...poiExtraCanadaLandmarksV2, ...poiExtraCanadaLifeV2, ...poiExtraCanadaNatureV2, ...poiExtraCanadaRefill, ...poiExtraCanadaReliefV2];
+

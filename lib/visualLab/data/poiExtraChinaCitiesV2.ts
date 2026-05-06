@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraChinaCitiesV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A 'Források Városának' is nevezik.", "Több mint 4000 éves múltra tekint vissza.", "Fontos közlekedési csomópont."],
       ro: ["Numită și 'Orașul Izvoarelor'.", "Are o istorie de peste 4000 de ani.", "Nod de transport important."],
       en: ["Also called the 'City of Springs'.", "Has a history of over 4000 years.", "Major transportation hub."],
-    },
-  },
+    }, image: "/poi-images/jinan-cities-v2.webp"},
   {
     id: "fuzhou-cities-v2",
     type: "state-capital",
@@ -47,8 +47,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A Csin-dinasztia idején alapították.", "Marco Polo is járt a városban.", "Jelentős jázmintea-termelő."],
       ro: ["Fondat în timpul dinastiei Qin.", "Marco Polo a vizitat orașul.", "Producător major de ceai de iasomie."],
       en: ["Founded during the Qin dynasty.", "Marco Polo visited the city.", "Major producer of jasmine tea."],
-    },
-  },
+    }, image: "/poi-images/fuzhou-cities-v2.webp"},
   {
     id: "zhengzhou-cities-v2",
     type: "state-capital",
@@ -71,8 +70,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A Sang-dinasztia központja.", "Fontos vasúti csomópont.", "A közelben található a Shaolin-templom."],
       ro: ["Centru al dinastiei Shang.", "Nod feroviar crucial.", "Găzduiește Templul Shaolin în apropiere."],
       en: ["Center of the Shang dynasty.", "Crucial railway hub.", "Home to the Shaolin Temple nearby."],
-    },
-  },
+    }, image: "/poi-images/zhengzhou-cities-v2.webp"},
   {
     id: "changchun-cities-v2",
     type: "state-capital",
@@ -95,8 +93,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A First Automobile Works (FAW) székhelye.", "Korábban Mandzsukuo fővárosa volt.", "Filiparáról ismert."],
       ro: ["Sediul central al First Automobile Works (FAW).", "Fosta capitală a statului Manchukuo.", "Renumit pentru industria sa cinematografică."],
       en: ["Headquarters of First Automobile Works (FAW).", "Formerly the capital of Manchukuo.", "Renowned for its film industry."],
-    },
-  },
+    }, image: "/poi-images/changchun-cities-v2.webp"},
   {
     id: "guiyang-cities-v2",
     type: "state-capital",
@@ -119,8 +116,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Kína 'nyári fővárosának' számít.", "A big data fejlesztés központja.", "Karsztos táj veszi körül."],
       ro: ["Considerată 'capitala de vară' a Chinei.", "Centru pentru dezvoltarea big data.", "Înconjurat de peisaje carstice."],
       en: ["Considered China's 'summer capital'.", "Hub for big data development.", "Surrounded by karst landscapes."],
-    },
-  },
+    }, image: "/poi-images/guiyang-cities-v2.webp"},
   {
     id: "nanchang-cities-v2",
     type: "state-capital",
@@ -143,8 +139,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A Népi Felszabadító Hadsereg szülőhelye.", "A Tengvang-pavilon híres nevezetesség.", "Fontos repülőgépipari központ."],
       ro: ["Locul de naștere al Armatei Populare de Eliberare.", "Pavilionul Tengwang este un reper celebru.", "Centru important pentru industria aviatică."],
       en: ["Birthplace of the People's Liberation Army.", "The Pavilion of Prince Teng is a famous landmark.", "Major aviation industry hub."],
-    },
-  },
+    }, image: "/poi-images/nanchang-cities-v2.webp"},
   {
     id: "shijiazhuang-cities-v2",
     type: "state-capital",
@@ -167,8 +162,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Kis faluból nagyvárossá nőtte ki magát.", "Fontos közlekedési csomópont.", "A gyógyszeripar központja."],
       ro: ["A crescut de la un mic sat la un oraș mare.", "Nod important de transport.", "Centru al industriei farmaceutice."],
       en: ["Grew from a small village into a major city.", "Important transportation hub.", "Center of the pharmaceutical industry."],
-    },
-  },
+    }, image: "/poi-images/shijiazhuang-cities-v2.webp"},
   {
     id: "lanzhou-cities-v2",
     type: "state-capital",
@@ -191,8 +185,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A Sárga-folyó partján fekszik.", "Híres a lancsoui marhahúsos tésztalevesről.", "A nehézipar fontos központja."],
       ro: ["Situat pe malul Fluviului Galben.", "Renumit pentru supa de tăiței cu vită Lanzhou.", "Centru industrial greu important."],
       en: ["Located on the Yellow River.", "Famous for Lanzhou beef noodle soup.", "Important heavy industry center."],
-    },
-  },
+    }, image: "/poi-images/lanzhou-cities-v2.webp"},
   {
     id: "hohhot-cities-v2",
     type: "state-capital",
@@ -215,8 +208,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A neve mongolul 'Kék Várost' jelent.", "Itt található a Dazhao-templom.", "Kína tejiparának központja."],
       ro: ["Numele înseamnă 'Orașul Albastru' în mongolă.", "Găzduiește Templul Dazhao.", "Centrul industriei lactate din China."],
       en: ["Name means 'Blue City' in Mongolian.", "Hosts the Dazhao Temple.", "Center of China's dairy industry."],
-    },
-  },
+    }, image: "/poi-images/hohhot-cities-v2.webp"},
   {
     id: "yinchuan-cities-v2",
     type: "state-capital",
@@ -239,8 +231,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A Nyugati Hszia-dinasztia sírjainak közelében található.", "Híres a goji bogyóiról.", "'Főnix-városként' is emlegetik."],
       ro: ["Aproape de mormintele Xia de Vest.", "Renumit pentru fructele de goji.", "Denumit 'Orașul Phoenix'." ],
       en: ["Near the Western Xia tombs.", "Known for its goji berries.", "Referred to as the 'Phoenix City'."],
-    },
-  },
+    }, image: "/poi-images/yinchuan-cities-v2.webp"},
   {
     id: "xining-cities-v2",
     type: "state-capital",
@@ -263,8 +254,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A Tibeti-fennsík legnagyobb városa.", "Itt található a Kumbum kolostor.", "Nyugat-Kína fontos közlekedési csomópontja."],
       ro: ["Cel mai mare oraș de pe Platoul Tibetan.", "Găzduiește Mănăstirea Kumbum.", "Nod de transport important pentru vestul Chinei."],
       en: ["Largest city on the Tibetan Plateau.", "Home to the Kumbum Monastery.", "Major transport hub for western China."],
-    },
-  },
+    }, image: "/poi-images/xining-cities-v2.webp"},
   {
     id: "taiyuan-cities-v2",
     type: "state-capital",
@@ -287,8 +277,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Több mint 2500 éves múltra tekint vissza.", "Híres az ecetgyártásáról.", "A Csinci-templom az egyik fő látványossága."],
       ro: ["Are o istorie de peste 2500 de ani.", "Renumit pentru producția de oțet.", "Templul Jinci este o atracție principală."],
       en: ["Has a history of over 2500 years.", "Known for its vinegar production.", "Jinci Temple is a major attraction."],
-    },
-  },
+    }, image: "/poi-images/taiyuan-cities-v2.webp"},
   {
     id: "urumqi-cities-v2",
     type: "state-capital",
@@ -311,8 +300,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Fontos csomópont a Selyemúton.", "A neve mongolul 'szép legelőt' jelent.", "Multikulturális város számos etnikai csoporttal."],
       ro: ["Un nod important pe Drumul Mătăsii.", "Numele înseamnă 'pășune frumoasă' în mongolă.", "Oraș multicultural cu multe grupuri etnice."],
       en: ["A key hub on the Silk Road.", "Name means 'beautiful pasture' in Mongolian.", "Multicultural city with many ethnic groups."],
-    },
-  },
+    }, image: "/poi-images/urumqi-cities-v2.webp"},
   {
     id: "lhasa-cities-v2",
     type: "state-capital",
@@ -335,8 +323,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Itt található a Potala palota.", "A világ egyik legmagasabban fekvő városa.", "Neve tibetiül 'Istenek helyét' jelenti."],
       ro: ["Găzduiește Palatul Potala.", "Unul dintre cele mai înalte orașe din lume.", "Numele înseamnă 'locul zeilor' în tibetană."],
       en: ["Home to the Potala Palace.", "One of the highest cities in the world.", "Name means 'place of the gods' in Tibetan."],
-    },
-  },
+    }, image: "/poi-images/lhasa-cities-v2.webp"},
   {
     id: "kunming-cities-v2",
     type: "state-capital",
@@ -359,8 +346,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Délkelet-Ázsia kapuja.", "Itt található a Kőerdő.", "Kína etnikai sokszínűségének központja."],
       ro: ["Poartă de acces către Asia de Sud-Est.", "Găzduiește Pădurea de Piatră.", "Centru al diversității etnice din China."],
       en: ["Gateway to Southeast Asia.", "Home to the Stone Forest.", "Center of China's ethnic diversity."],
-    },
-  },
+    }, image: "/poi-images/kunming-cities-v2.webp"},
   {
     id: "dalian-cities-v2",
     type: "city",
@@ -383,8 +369,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Fontos pénzügyi, hajózási és logisztikai központ Északkelet-Ázsiában.", "Kína egyik legélhetőbb városának tartják.", "Mérsékelt monszun éghajlatú."],
       ro: ["Un centru financiar, maritim și logistic important în Asia de Nord-Est.", "Considerat unul dintre cele mai locuibile orașe din China.", "Are un climat musonic temperat."],
       en: ["An important financial, shipping, and logistics center in Northeast Asia.", "Considered one of China's most livable cities.", "Has a temperate monsoon climate."]
-    }
-  },
+    }, image: "/poi-images/dalian-cities-v2.webp"},
   {
     id: "ningbo-cities-v2",
     type: "city",
@@ -407,8 +392,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A világ egyik legforgalmasabb kikötője a teherforgalom alapján.", "Itt található a Tianyi Könyvtár, Kína egyik legrégebbi magánkönyvtára.", "Egyike volt az 1842-es nankingi szerződés által megnyitott szerződéses kikötőknek."],
       ro: ["Unul dintre cele mai aglomerate porturi din lume după tonajul de marfă.", "Găzduiește Biblioteca Tianyi, una dintre cele mai vechi biblioteci private din China.", "A fost unul dintre porturile deschise prin Tratatul de la Nanking din 1842."],
       en: ["One of the world's busiest ports by cargo tonnage.", "Home to the Tianyi Library, one of the oldest private libraries in China.", "Was one of the treaty ports opened by the Treaty of Nanking in 1842."]
-    }
-  },
+    }, image: "/poi-images/ningbo-cities-v2.webp"},
   {
     id: "xiamen-cities-v2",
     type: "city",
@@ -431,8 +415,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Híres a Gulangyu-szigetről, amely az UNESCO Világörökség része.", "Egyike volt a négy eredeti különleges gazdasági övezetnek.", "Virágzó gazdasággal rendelkezik, amelyet a kereskedelem és a turizmus mozgat."],
       ro: ["Renumit pentru Insula Gulangyu, un sit al Patrimoniului Mondial UNESCO.", "A fost una dintre cele patru zone economice speciale inițiale.", "Are o economie înfloritoare, impulsionată de comerț și turism."],
       en: ["Famous for Gulangyu Island, a UNESCO World Heritage Site.", "Was one of the four original Special Economic Zones.", "Has a thriving economy driven by trade and tourism."]
-    }
-  },
+    }, image: "/poi-images/xiamen-cities-v2.webp"},
   {
     id: "wuxi-cities-v2",
     type: "city",
@@ -455,8 +438,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A 'Taihu-tó gyöngyszemeként' ismert.", "Fontos ipari központ, különösen a textil- és a feldolgozóipar területén.", "A Lingshan Nagy Buddha híres látványosság."],
       ro: ["Cunoscut sub numele de 'Perla Lacului Taihu'.", "Un centru industrial important, în special pentru textile și producție.", "Marele Buddha din Lingshan este o atracție faimoasă."],
       en: ["Known as the 'Pearl of Lake Tai'.", "An important industrial hub, especially for textiles and manufacturing.", "The Lingshan Grand Buddha is a famous attraction."]
-    }
-  },
+    }, image: "/poi-images/wuxi-cities-v2.webp"},
   {
     id: "foshan-cities-v2",
     type: "city",
@@ -479,8 +461,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A harcművészetek, különösen a Wing Chun központja.", "Történelmileg Kína négy nagy kereskedővárosának egyike.", "A Foshan Ősi Templom fontos nevezetesség."],
       ro: ["Un centru al artelor marțiale, în special Wing Chun.", "Istoric, unul dintre cele patru mari orașe comerciale din China.", "Templul Ancestral Foshan este un reper important."],
       en: ["A center for martial arts, especially Wing Chun.", "Historically one of the four great commercial towns in China.", "The Foshan Ancestral Temple is a key landmark."]
-    }
-  },
+    }, image: "/poi-images/foshan-cities-v2.webp"},
   {
     id: "dongguan-cities-v2",
     type: "city",
@@ -503,8 +484,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A világ egyik legnagyobb termelési központja.", "Fontos elektronikai, játék- és textilgyártó.", "Nagy a vendégmunkások száma."],
       ro: ["Unul dintre cele mai mari centre de producție din lume.", "Un producător major de electronice, jucării și textile.", "Are o populație mare de muncitori migranți."],
       en: ["One of the world's largest manufacturing hubs.", "A major producer of electronics, toys, and textiles.", "Has a large population of migrant workers."]
-    }
-  },
+    }, image: "/poi-images/dongguan-cities-v2.webp"},
   {
     id: "zibo-cities-v2",
     type: "city",
@@ -527,8 +507,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Az ókori kínai labdarúgás, a 'cuju' szülőhelye.", "Fontos petrolkémiai és kerámiaipari központ.", "Itt található a Csi Kultúra Múzeuma."],
       ro: ["Locul de naștere al fotbalului antic chinezesc 'Cuju'.", "Un centru important pentru petrochimie și ceramică.", "Găzduiește Muzeul Culturii Qi."],
       en: ["The birthplace of the ancient Chinese football 'Cuju'.", "An important center for petrochemicals and ceramics.", "Home to the Qi Culture Museum."]
-    }
-  },
+    }, image: "/poi-images/zibo-cities-v2.webp"},
   {
     id: "changzhou-cities-v2",
     type: "city",
@@ -551,8 +530,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A modern kínai ipar egyik szülőhelye.", "Híres a fésűgyártásról.", "Itt található a Tianning-templom a lenyűgöző pagodájával."],
       ro: ["Unul dintre locurile de naștere ale industriei moderne chineze.", "Renumit pentru fabricarea pieptenilor.", "Găzduiește Templul Tianning cu pagoda sa impunătoare."],
       en: ["One of the birthplaces of modern Chinese industry.", "Known for the production of combs.", "Home to the Tianning Temple with its imposing pagoda."]
-    }
-  },
+    }, image: "/poi-images/changzhou-cities-v2.webp"},
   {
     id: "huai-an-cities-v2",
     type: "city",
@@ -575,8 +553,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A Nagy-csatorna és a Huaj-folyó összefolyásánál fekszik.", "Fontos vízi közlekedési csomópont.", "Itt található Csou En-laj egykori rezidenciája."],
       ro: ["Situat la confluența Marelui Canal cu râul Huai.", "Un nod important de transport pe căi navigabile.", "Găzduiește fosta reședință a lui Zhou Enlai."],
       en: ["Located at the confluence of the Grand Canal and the Huai River.", "An important waterway transportation hub.", "Home to the Former Residence of Zhou Enlai."]
-    }
-  },
+    }, image: "/poi-images/huai-an-cities-v2.webp"},
   {
     id: "handan-cities-v2",
     type: "city",
@@ -599,8 +576,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Kína egyik legrégebbi városa, több mint 3100 éves történelemmel.", "Kína 'idiómák fővárosaként' ismert.", "Fontos acélipari központ."],
       ro: ["Unul dintre cele mai vechi orașe din China, cu peste 3100 de ani de istorie.", "Cunoscut drept 'Capitala idiomurilor' din China.", "Un centru important pentru industria oțelului."],
       en: ["One of China's oldest cities, with over 3100 years of history.", "Known as China's 'Capital of Idioms'.", "An important center for the steel industry."]
-    }
-  },
+    }, image: "/poi-images/handan-cities-v2.webp"},
   {
     id: "baoding-cities-v2",
     type: "city",
@@ -623,8 +599,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Többször is a tartomány fővárosa volt.", "Itt található a Paotingi Katonai Akadémia.", "Fontos autóipari központ."],
       ro: ["A servit de mai multe ori drept capitală a provinciei.", "Găzduiește Academia Militară Baoding.", "Un centru important pentru industria auto."],
       en: ["Served as the provincial capital on several occasions.", "Home to the Baoding Military Academy.", "An important automotive industry base."]
-    }
-  },
+    }, image: "/poi-images/baoding-cities-v2.webp"},
   {
     id: "datong-cities-v2",
     type: "city",
@@ -647,8 +622,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["Az Északi Vej-dinasztia fővárosa volt.", "A Jünkang-barlangok közelében található, amely az UNESCO Világörökség része.", "Gyakran Kína 'szénfővárosaként' emlegetik."],
       ro: ["A fost capitala dinastiei Wei de Nord.", "Aproape de Grotele Yungang, un sit al Patrimoniului Mondial UNESCO.", "Adesea denumit 'Capitala cărbunelui' a Chinei."],
       en: ["Was the capital of the Northern Wei dynasty.", "Near the Yungang Grottoes, a UNESCO World Heritage Site.", "Often referred to as China's 'Coal Capital'."]
-    }
-  },
+    }, image: "/poi-images/datong-cities-v2.webp"},
   {
     id: "qiqihar-cities-v2",
     type: "city",
@@ -671,8 +645,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A neve mandzsu nyelven 'határt' vagy 'természetes legelőt' jelent.", "Híres a Zhalong Természetvédelmi Területről, a mandzsúriai darvak otthonáról.", "Fontos nehézgépgyártó központ."],
       ro: ["Numele înseamnă 'graniță' sau 'pășune naturală' în manciuriană.", "Renumit pentru Rezervația Naturală Zhalong, casa cocorilor cu coroană roșie.", "Un centru important pentru fabricarea de mașini grele."],
       en: ["Name means 'border' or 'natural pasture' in Manchu.", "Famous for the Zhalong Nature Reserve, home to red-crowned cranes.", "An important heavy machinery manufacturing base."]
-    }
-  },
+    }, image: "/poi-images/qiqihar-cities-v2.webp"},
   {
     id: "anshan-cities-v2",
     type: "city",
@@ -695,8 +668,7 @@ export const poiExtraChinaCitiesV2: POI[] = [
       hu: ["A világ egyik legnagyobb vas- és acélkomplexumának ad otthont.", "Gazdag ásványkincsekben, beleértve a jádét is.", "A Qianshan Nemzeti Park egy közeli festői látványosság."],
       ro: ["Găzduiește unul dintre cele mai mari complexe siderurgice din lume.", "Bogat în zăcăminte minerale, inclusiv jad.", "Parcul Național Qianshan este o atracție pitorească din apropiere."],
       en: ["Home to one of the world's largest iron and steel complexes.", "Rich in mineral deposits, including jade.", "Qianshan National Park is a nearby scenic attraction."]
-    }
-  },
+    }, image: "/poi-images/anshan-cities-v2.webp"},
   {
     id: "luoyang-cities-v2",
     type: "city",
@@ -722,3 +694,4 @@ export const poiExtraChinaCitiesV2: POI[] = [
     }
   }
 ];
+

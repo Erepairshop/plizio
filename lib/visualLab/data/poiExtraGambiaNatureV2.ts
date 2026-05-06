@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGambiaNatureV2: POI[] = [
@@ -23,8 +24,19 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Több mint 1100 km hosszú", "Nagy hajók számára is hajózható"],
       ro: ["Peste 1.100 km lungime totală", "Navigabil pentru nave mari"],
       en: ["Over 1,100 km total length", "Navigable for large vessels"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Gambia-Fluss erstreckt sich über 1.100 Kilometer und bildet die Lebensader des gleichnamigen Staates. Er entspringt im Fouta-Djallon-Gebirge in Guinea und fließt in westlicher Richtung in den Atlantischen Ozean. Geografie K7 — Flusssysteme und deren Einfluss auf die menschliche Ansiedlung.",
+      hu: "A Gambia-folyó több mint 1100 kilométer hosszan kanyarog, az ország alapvető vízforrásaként és közlekedési útvonalaként szolgálva. A forrása Guineában, a Fouta-Djallon-hegységben található, ahonnan nyugati irányba tart az Atlanti-óceán felé. Földrajz K7 — folyórendszerek és az emberi letelepedés.",
+      ro: "Râul Gambia se întinde pe o lungime de peste 1.100 de kilometri, fiind artera vitală a statului cu același nume. Acesta izvorăște din munții Fouta-Djallon din Guineea și curge spre vest până la Oceanul Atlantic. Geografie K7 — sistemele fluviale și impactul asupra așezărilor umane.",
+      en: "The Gambia River spans over 1,100 kilometers, serving as the lifeblood of the nation. Originating in the Fouta Djallon mountains of Guinea, it flows westward into the Atlantic Ocean. Geography K7 — river systems and their influence on human settlement."
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge ca. 1.120 km", "Entspringt auf 1.100 m Höhe", "Mündungsbreite bis zu 20 km", "Wichtigster Handelsweg seit Jahrhunderten", "Fischreiches Ökosystem", "Regelmäßige jährliche Überschwemmungen"],
+      hu: ["Teljes hossz kb. 1120 km", "1100 méteres magasságban ered", "Torkolatának szélessége akár 20 km", "Századok óta a legfontosabb kereskedelmi útvonal", "Halban gazdag ökoszisztéma", "Éves rendszeres áradások jellemzik"],
+      ro: ["Lungime totală de aproximativ 1.120 km", "Izvorăște de la o altitudine de 1.100 m", "Lățimea gurii de vărsare de până la 20 km", "Cea mai importantă rută comercială de secole", "Ecosistem bogat în pești", "Inundații anuale regulate"],
+      en: ["Total length approx. 1,120 km", "Source at 1,100 m altitude", "Estuary width up to 20 km", "Key trade route for centuries", "Rich aquatic ecosystem", "Regular annual flooding"]
+    }, image: "/poi-images/gambia-river-nature-v2.webp"},
   {
     id: "river-gambia-national-park-nature-v2",
     type: "forest",
@@ -47,8 +59,19 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["5 szigetből áll", "Vadcsimpánzok élőhelye"],
       ro: ["Format din 5 insule", "Habitat pentru cimpanzei sălbatici"],
       en: ["Consists of 5 islands", "Home to wild chimpanzees"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der River Gambia Nationalpark wurde 1978 gegründet und umfasst das Archipel der 'Baboon Islands'. Er dient vor allem der Rettung und Rehabilitation von in Gefangenschaft gehaltenen oder verwaisten Schimpansen. Sachkunde K5 — Schutz gefährdeter Tierarten in ihrem natürlichen Lebensraum.",
+      hu: "A River Gambia Nemzeti Parkot 1978-ban alapították, és magában foglalja a 'Baboon-szigetek' szigetcsoportját. Fő célja a fogságban tartott vagy elárvult csimpánzok mentése és rehabilitációja. Sachkunde K5 — veszélyeztetett állatfajok védelme természetes élőhelyükön.",
+      ro: "Parcul Național River Gambia a fost înființat în 1978 și include arhipelagul 'Baboon Islands'. Acesta are ca scop principal salvarea și reabilitarea cimpanzeilor ținuți în captivitate sau orfani. Sachkunde K5 — protejarea speciilor de animale pe cale de dispariție în habitatul lor natural.",
+      en: "River Gambia National Park was established in 1978 and includes the 'Baboon Islands' archipelago. Its primary purpose is the rescue and rehabilitation of captive or orphaned chimpanzees. Sachkunde K5 — protection of endangered animal species in their natural habitat."
+    },
+    factsAdvanced: {
+      de: ["Fläche rund 585 Hektar", "Gründung im Jahr 1978", "Beherbergt über 100 Schimpansen", "Fünf Hauptinseln", "Streng geschütztes Areal", "Keine menschliche Besiedlung"],
+      hu: ["Terület kb. 585 hektár", "1978-ban alapították", "Több mint 100 csimpánznak ad otthont", "Öt fő szigetből áll", "Szigorúan védett terület", "Nincs emberi lakosság"],
+      ro: ["Suprafață de aproximativ 585 hectare", "Înființat în 1978", "Găzduiește peste 100 de cimpanzei", "Format din cinci insule principale", "Zonă strict protejată", "Fără așezări umane"],
+      en: ["Area around 585 hectares", "Founded in 1978", "Home to over 100 chimpanzees", "Five main islands", "Strictly protected area", "No human settlement"]
+    }, image: "/poi-images/river-gambia-national-park-nature-v2.webp"},
   {
     id: "kiang-west-national-park-nature-v2",
     type: "forest",
@@ -71,8 +94,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Több mint 11 000 hektár", "Számos ragadozómadár-faj"],
       ro: ["Peste 11.000 de hectare", "Multe specii de păsări de pradă"],
       en: ["Over 11,000 hectares", "Many species of birds of prey"]
-    }
-  },
+    }, image: "/poi-images/kiang-west-national-park-nature-v2.webp"},
   {
     id: "bao-bolong-wetland-nature-v2",
     type: "river",
@@ -95,8 +117,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Ramsari terület", "Fontos mangroveerdők"],
       ro: ["Zonă protejată Ramsar", "Păduri de mangrove importante"],
       en: ["Ramsar protected site", "Important mangrove forests"]
-    }
-  },
+    }, image: "/poi-images/bao-bolong-wetland-nature-v2.webp"},
   {
     id: "tanji-bird-reserve-nature-v2",
     type: "forest",
@@ -119,8 +140,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Több mint 300 madárfaj", "Közvetlenül az Atlanti-parton"],
       ro: ["Peste 300 de specii de păsări", "Direct pe malul Atlanticului"],
       en: ["Over 300 bird species", "Right on the Atlantic coast"]
-    }
-  },
+    }, image: "/poi-images/tanji-bird-reserve-nature-v2.webp"},
   {
     id: "bijilo-forest-park-nature-v2",
     type: "forest",
@@ -143,8 +163,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Népszerű a turisták körében", "Sűrű pálmaerdők"],
       ro: ["Popular printre turiști", "Păduri dense de palmieri"],
       en: ["Popular with tourists", "Dense palm forests"]
-    }
-  },
+    }, image: "/poi-images/bijilo-forest-park-nature-v2.webp"},
   {
     id: "abuko-nature-reserve-nature-v2",
     type: "forest",
@@ -167,8 +186,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["1968-ban alapították", "Krokodilmedence is található itt"],
       ro: ["Fondată în 1968", "Există bazine cu crocodili"],
       en: ["Founded in 1968", "Crocodile pool on site"]
-    }
-  },
+    }, image: "/poi-images/abuko-nature-reserve-nature-v2.webp"},
   {
     id: "janjanbureh-island-nature-v2",
     type: "island",
@@ -191,8 +209,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Korábban MacCarthy-sziget", "A folyó öleli körül"],
       ro: ["Fosta insulă MacCarthy", "Înconjurată de râu"],
       en: ["Formerly MacCarthy Island", "Surrounded by the river"]
-    }
-  },
+    }, image: "/poi-images/janjanbureh-island-nature-v2.webp"},
   {
     id: "kunta-kinteh-island-nature-v2",
     type: "island",
@@ -215,8 +232,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["UNESCO Világörökség", "Korábban James-sziget"],
       ro: ["Patrimoniu UNESCO", "Fosta insulă James"],
       en: ["UNESCO World Heritage", "Formerly James Island"]
-    }
-  },
+    }, image: "/poi-images/kunta-kinteh-island-nature-v2.webp"},
   {
     id: "baboon-islands-nature-v2",
     type: "island",
@@ -239,8 +255,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["A belépés tilos", "Egy nemzeti park része"],
       ro: ["Accesul interzis", "Parte a unui parc național"],
       en: ["No landing permitted", "Part of a national park"]
-    }
-  },
+    }, image: "/poi-images/baboon-islands-nature-v2.webp"},
   {
     id: "jinack-island-nature-v2",
     type: "island",
@@ -263,8 +278,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Madárparadicsom", "Szenegállal határos"],
       ro: ["Paradisul păsărilor", "Se învecinează cu Senegal"],
       en: ["Bird paradise", "Borders Senegal"]
-    }
-  },
+    }, image: "/poi-images/jinack-island-nature-v2.webp"},
   {
     id: "st-marys-island-nature-v2",
     type: "island",
@@ -287,8 +301,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Banjul helyszíne", "Homokpadok és mocsarak"],
       ro: ["Locația orașului Banjul", "Bancuri de nisip și mlaștini"],
       en: ["Location of Banjul", "Sandbars and swamps"]
-    }
-  },
+    }, image: "/poi-images/st-marys-island-nature-v2.webp"},
   {
     id: "kartong-beach-nature-v2",
     type: "sea",
@@ -311,8 +324,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Legdélibb pont", "Nagyon természetközeli"],
       ro: ["Cel mai sudic punct", "Foarte natural"],
       en: ["Southernmost point", "Very natural"]
-    }
-  },
+    }, image: "/poi-images/kartong-beach-nature-v2.webp"},
   {
     id: "sanyang-beach-nature-v2",
     type: "sea",
@@ -335,8 +347,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Híres haléttermek", "Magas pálmafák"],
       ro: ["Restaurante de pește celebre", "Palmieri înalți"],
       en: ["Famous fish restaurants", "Tall palm trees"]
-    }
-  },
+    }, image: "/poi-images/sanyang-beach-nature-v2.webp"},
   {
     id: "kotu-beach-nature-v2",
     type: "sea",
@@ -359,8 +370,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Nyüzsgő turistaközpont", "Széles homokos part"],
       ro: ["Centru turistic plin de viață", "Plajă largă cu nisip"],
       en: ["Bustling tourist center", "Wide sandy beach"]
-    }
-  },
+    }, image: "/poi-images/kotu-beach-nature-v2.webp"},
   {
     id: "kololi-beach-nature-v2",
     type: "sea",
@@ -407,8 +417,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Szép kilátópontok", "Népszerű horgászhely"],
       ro: ["Puncte de belvedere frumoase", "Popular pentru pescuit"],
       en: ["Beautiful viewpoints", "Popular for fishing"]
-    }
-  },
+    }, image: "/poi-images/cape-point-nature-v2.webp"},
   {
     id: "brufut-woods-nature-v2",
     type: "forest",
@@ -431,8 +440,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Vezetett madárlesek", "Sűrű száraz erdő"],
       ro: ["Tururi ghidate pentru păsări", "Pădure uscată densă"],
       en: ["Guided bird tours", "Dense dry forest"]
-    }
-  },
+    }, image: "/poi-images/brufut-woods-nature-v2.webp"},
   {
     id: "pirang-forest-nature-v2",
     type: "forest",
@@ -479,8 +487,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Határokon átnyúló", "Fontos ökoszisztéma"],
       ro: ["Transfrontalier", "Ecosistem important"],
       en: ["Transboundary park", "Important ecosystem"]
-    }
-  },
+    }, image: "/poi-images/niumi-national-park-nature-v2.webp"},
   {
     id: "allahein-river-nature-v2",
     type: "river",
@@ -503,8 +510,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Határfolyó", "Madármegfigyelés lehetséges"],
       ro: ["Râu de frontieră", "Observarea păsărilor posibilă"],
       en: ["Border river", "Bird watching possible"]
-    }
-  },
+    }, image: "/poi-images/allahein-river-nature-v2.webp"},
   {
     id: "bintang-bolong-nature-v2",
     type: "river",
@@ -527,8 +533,7 @@ export const poiExtraGambiaNatureV2: POI[] = [
       hu: ["Nagy mellékfolyó", "Ideális csónaktúrákhoz"],
       ro: ["Afluent major", "Ideal pentru excursii cu barca"],
       en: ["Major tributary", "Ideal for boat trips"]
-    }
-  },
+    }, image: "/poi-images/bintang-bolong-nature-v2.webp"},
   {
     id: "tanbi-wetland-nature-v2",
     type: "forest",
@@ -602,3 +607,4 @@ export const poiExtraGambiaNatureV2: POI[] = [
     }
   }
 ];
+

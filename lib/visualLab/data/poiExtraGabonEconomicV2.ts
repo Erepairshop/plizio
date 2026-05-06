@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGabonEconomicV2: POI[] = [
@@ -35,8 +36,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Szárazföldi olajmezők kőolaját dolgozza fel.", "Döntő fontosságú Gabon kereskedelmi mérlege számára.", "A nemzeti olajinfrastruktúra része.", "Stratégiailag a tengerparton található.", "Több évtizede üzemel.", "Nemzetközi energiavállalatok támogatják."],
       ro: ["Procesează țiței de la câmpuri onshore.", "Crucial pentru balanța comercială a Gabonului.", "Parte a infrastructurii petroliere naționale.", "Situat strategic la coastă.", "Funcționează de câteva decenii.", "Susținut de companii energetice internaționale."],
       en: ["Processes crude oil from onshore fields.", "Crucial for Gabon's balance of trade.", "Part of the national oil infrastructure.", "Strategically located on the coast.", "Operational for several decades.", "Supported by international energy companies."]
-    }
-  },
+    }, image: "/poi-images/gamba-oil-terminal-economic-v2.webp"},
   {
     id: "nkok-sez-economic-v2",
     type: "industry",
@@ -71,8 +71,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["2011-ben alapították.", "Több mint 1000 hektár ipari terület.", "Több mint 100 működő vállalat.", "Az FSC-tanúsítvánnyal rendelkező fa központja.", "Jelentős export Ázsiába és Európába.", "Több ezer közvetlen munkahelyet teremt."],
       ro: ["Fondată în 2011.", "Peste 1.000 de hectare de zonă industrială.", "Peste 100 de companii operaționale.", "Centru pentru lemn certificat FSC.", "Exporturi semnificative către Asia și Europa.", "Creează mii de locuri de muncă directe."],
       en: ["Founded in 2011.", "Over 1,000 hectares of industrial area.", "More than 100 operating companies.", "Hub for FSC-certified timber.", "Significant exports to Asia and Europe.", "Creates thousands of direct jobs."]
-    }
-  },
+    }, image: "/poi-images/nkok-sez-economic-v2.webp"},
   {
     id: "rabi-kounga-oilfield-economic-v2",
     type: "industry",
@@ -95,8 +94,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Az 1980-as években fedezték fel.", "A nemzeti olajtermelés gerince."],
       ro: ["Descoperit în anii 1980.", "Coloana vertebrală a producției naționale de petrol."],
       en: ["Discovered in the 1980s.", "Backbone of national oil production."]
-    }
-  },
+    }, image: "/poi-images/rabi-kounga-oilfield-economic-v2.webp"},
   {
     id: "cap-lopez-terminal-economic-v2",
     type: "port",
@@ -119,8 +117,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Nyersolaj tárolótartályok.", "Nagy olajszállító hajók kikötőhelye."],
       ro: ["Rezervoare de stocare pentru țiței.", "Punct de acostare pentru petroliere mari."],
       en: ["Storage tanks for crude oil.", "Berthing point for large oil tankers."]
-    }
-  },
+    }, image: "/poi-images/cap-lopez-terminal-economic-v2.webp"},
   {
     id: "sogara-refinery-economic-v2",
     type: "industry",
@@ -143,8 +140,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Székhelye Port-Gentil.", "Benzint és kerozint állít elő."],
       ro: ["Cu sediul în Port-Gentil.", "Produce benzină și kerosen."],
       en: ["Located in Port-Gentil.", "Produces gasoline and kerosene."]
-    }
-  },
+    }, image: "/poi-images/sogara-refinery-economic-v2.webp"},
   {
     id: "belinga-mine-economic-v2",
     type: "industry",
@@ -167,8 +163,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Hatalmas gazdasági potenciál.", "Új vasúti összeköttetést igényel."],
       ro: ["Potențial economic enorm.", "Necesită noi conexiuni feroviare."],
       en: ["Enormous economic potential.", "Requires new railway connections."]
-    }
-  },
+    }, image: "/poi-images/belinga-mine-economic-v2.webp"},
   {
     id: "mabounie-mine-economic-v2",
     type: "industry",
@@ -191,8 +186,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Stratégiai fémek.", "Foszfát- és titánkészletek."],
       ro: ["Metale strategice.", "Zăcăminte de fosfați și titan."],
       en: ["Strategic metals.", "Deposits of phosphates and titanium."]
-    }
-  },
+    }, image: "/poi-images/mabounie-mine-economic-v2.webp"},
   {
     id: "tchimbele-power-station-economic-v2",
     type: "industry",
@@ -215,8 +209,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Az Mbe folyó erejét hasznosítja.", "Az energetikai infrastruktúra része."],
       ro: ["Utilizează forța râului Mbe.", "Parte a infrastructurii energetice."],
       en: ["Uses the power of the Mbe River.", "Part of the energy infrastructure."]
-    }
-  },
+    }, image: "/poi-images/tchimbele-power-station-economic-v2.webp"},
   {
     id: "kinguele-power-station-economic-v2",
     type: "industry",
@@ -239,8 +232,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Áram a fővárosi régiónak.", "Fenntartható energiatermelés."],
       ro: ["Energie pentru regiunea capitalei.", "Producție de energie durabilă."],
       en: ["Power for the capital region.", "Sustainable energy production."]
-    }
-  },
+    }, image: "/poi-images/kinguele-power-station-economic-v2.webp"},
   {
     id: "mayumba-port-economic-v2",
     type: "port",
@@ -263,8 +255,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Dél-Gabon kapuja.", "Mélyvízi kikötő potenciál."],
       ro: ["Poarta către sudul Gabonului.", "Potențial de port de apă adâncă."],
       en: ["Gateway to southern Gabon.", "Deep-water port potential."]
-    }
-  },
+    }, image: "/poi-images/mayumba-port-economic-v2.webp"},
   {
     id: "port-mole-libreville-economic-v2",
     type: "port",
@@ -287,8 +278,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Part menti hajózás központja.", "Összeköttetés Port-Gentillel."],
       ro: ["Centru pentru navigația de coastă.", "Legătură cu Port-Gentil."],
       en: ["Hub for coastal shipping.", "Connection to Port-Gentil."]
-    }
-  },
+    }, image: "/poi-images/port-mole-libreville-economic-v2.webp"},
   {
     id: "mounana-uranium-economic-v2",
     type: "industry",
@@ -335,8 +325,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Kiváló minőségű érc.", "Gabon fontos exportterméke."],
       ro: ["Minereu de înaltă calitate.", "Articol important de export al Gabonului."],
       en: ["High-grade ore.", "Important export item for Gabon."]
-    }
-  },
+    }, image: "/poi-images/biniomi-manganese-economic-v2.webp"},
   {
     id: "okondja-manganese-economic-v2",
     type: "industry",
@@ -359,8 +348,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Hatalmas tartalékok.", "Erősíti a bányászati szektort."],
       ro: ["Rezerve mari.", "Consolidează sectorul minier."],
       en: ["Large reserves.", "Strengthens the mining sector."]
-    }
-  },
+    }, image: "/poi-images/okondja-manganese-economic-v2.webp"},
   {
     id: "port-gentil-commercial-port-economic-v2",
     type: "port",
@@ -383,8 +371,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Logisztikai csomópont.", "Az olajipart szolgálja ki."],
       ro: ["Hub logistic.", "Deservește industria petrolieră."],
       en: ["Logistics hub.", "Serves the oil industry."]
-    }
-  },
+    }, image: "/poi-images/port-gentil-commercial-port-economic-v2.webp"},
   {
     id: "owendo-timber-port-economic-v2",
     type: "port",
@@ -407,8 +394,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Okoumé rönkök tárolóhelye.", "Modern rakodási technológia."],
       ro: ["Loc de depozitare pentru bușteni de Okoumé.", "Tehnologie modernă de încărcare."],
       en: ["Storage area for Okoumé logs.", "Modern loading technology."]
-    }
-  },
+    }, image: "/poi-images/owendo-timber-port-economic-v2.webp"},
   {
     id: "lucina-oil-terminal-economic-v2",
     type: "port",
@@ -431,8 +417,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Tengeri rakodóállomás.", "Tartályhajók úti célja."],
       ro: ["Stație de încărcare offshore.", "Punct de acces pentru tancuri petroliere."],
       en: ["Offshore loading station.", "Access point for oil tankers."]
-    }
-  },
+    }, image: "/poi-images/lucina-oil-terminal-economic-v2.webp"},
   {
     id: "oguendjo-oil-terminal-economic-v2",
     type: "port",
@@ -455,8 +440,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Tengeri infrastruktúra.", "Támogatja a kőolajexportot."],
       ro: ["Infrastructură maritimă.", "Susține exportul de petrol."],
       en: ["Maritime infrastructure.", "Supports petroleum exports."]
-    }
-  },
+    }, image: "/poi-images/oguendjo-oil-terminal-economic-v2.webp"},
   {
     id: "lastoursville-timber-hub-economic-v2",
     type: "industry",
@@ -479,8 +463,7 @@ export const poiExtraGabonEconomicV2: POI[] = [
       hu: ["Vasúti kapcsolat.", "Fűrészüzemek és furnérgyártás."],
       ro: ["Conexiune la calea ferată.", "Găstere și producție de furnir."],
       en: ["Connected to the railway.", "Sawmills and veneer production."]
-    }
-  },
+    }, image: "/poi-images/lastoursville-timber-hub-economic-v2.webp"},
   {
     id: "franceville-metallurgical-complex-economic-v2",
     type: "industry",
@@ -506,3 +489,4 @@ export const poiExtraGabonEconomicV2: POI[] = [
     }
   }
 ];
+

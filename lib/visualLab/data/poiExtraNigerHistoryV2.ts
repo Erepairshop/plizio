@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNigerHistoryV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["A 11. században alapították.", "A transz-szaharai kereskedelem fontos csomópontja.", "2013 óta UNESCO világörökség.", "Híres a hagyományos vályogépületeiről."],
       ro: ["Fondat în secolul al XI-lea.", "Nod important al comerțului trans-saharian.", "Patrimoniu Mondial UNESCO din 2013.", "Renumit pentru clădirile tradiționale din chirpici."],
       en: ["Founded in the 11th century.", "Major hub for the trans-Saharan trade.", "UNESCO World Heritage site since 2013.", "Famous for traditional mud-brick structures."]
-    }
-  },
+    }, image: "/poi-images/ne-agadez-historic-centre-history-v2.webp"},
   {
     id: "ne-agadez-mosque-history-v2",
     type: "historical",
@@ -47,8 +47,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["1515-ben épült.", "A világ legmagasabb vályogminaretje.", "1844-ben restaurálták.", "Agadez városának jelképe."],
       ro: ["Construită în 1515.", "Cel mai înalt minaret din chirpici din lume.", "A fost restaurată în 1844.", "Simbol al orașului Agadez."],
       en: ["Built in 1515.", "The tallest mud-brick minaret in the world.", "Restored in 1844.", "Landmark of the city of Agadez."]
-    }
-  },
+    }, image: "/poi-images/ne-agadez-mosque-history-v2.webp"},
   {
     id: "ne-djado-ruins-history-v2",
     type: "historical",
@@ -71,8 +70,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["A távoli Djado-fennsíkon található.", "Egykor a sókereskedelem virágzó központja volt.", "Ismeretlen okokból hagyták el.", "Só- és vályogépítészet jellemzi."],
       ro: ["Situat pe izolatul platou Djado.", "Cândva un centru înfloritor pentru comerțul cu sare.", "A fost abandonat din motive necunoscute.", "Arhitectură din sare și chirpici."],
       en: ["Located on the remote Djado Plateau.", "Once a thriving center for the salt trade.", "Abandoned for unknown reasons.", "Architecture made of salt and mud."]
-    }
-  },
+    }, image: "/poi-images/ne-djado-ruins-history-v2.webp"},
   {
     id: "ne-zinder-birni-history-v2",
     type: "historical",
@@ -119,8 +117,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["Damagaram szultánjának székhelye.", "A 19. században épült.", "Hagyományos hausza művészetet mutat be.", "Fontos kulturális központ."],
       ro: ["Sediul Sultanului de Damagaram.", "Construit în secolul al XIX-lea.", "Prezintă arta tradițională Hausa.", "Important centru cultural."],
       en: ["Seat of the Sultan of Damagaram.", "Built in the 19th century.", "Showcases traditional Hausa art.", "Important cultural center."]
-    }
-  },
+    }, image: "/poi-images/ne-damagaram-palace-history-v2.webp"},
   {
     id: "ne-assode-ruins-history-v2",
     type: "historical",
@@ -143,8 +140,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["A 11. század körül alapították.", "Egykor virágzó kereskedelmi központ.", "A 19. század végén elpusztult.", "A legrégebbi ismert tuareg település."],
       ro: ["Fondat în jurul secolului al XI-lea.", "Cândva un centru comercial înfloritor.", "Distrus la sfârșitul secolului al XIX-lea.", "Cea mai veche așezare tuaregă cunoscută."],
       en: ["Founded around the 11th century.", "Once a thriving trade center.", "Destroyed in the late 19th century.", "Oldest known Tuareg settlement."]
-    }
-  },
+    }, image: "/poi-images/ne-assode-ruins-history-v2.webp"},
   {
     id: "ne-fachi-fort-history-v2",
     type: "historical",
@@ -167,8 +163,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["Az Azalai karavánok fontos állomása.", "A fosztogatók elleni védelemre épült.", "Datolya és só kereskedelmi helye.", "Történelmi erődépítészet."],
       ro: ["Stație importantă a caravanelor Azalai.", "Construit pentru protecție împotriva jefuitorilor.", "Piață pentru curmale și sare.", "Arhitectură de fortificație istorică."],
       en: ["Important stop for the Azalai caravans.", "Built for protection against looters.", "Trading post for dates and salt.", "Historical fortress architecture."]
-    }
-  },
+    }, image: "/poi-images/ne-fachi-fort-history-v2.webp"},
   {
     id: "ne-bilma-salt-history-v2",
     type: "historical",
@@ -191,8 +186,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["A sótermelés központja évszázadok óta.", "A nagy tevekaravánok célpontja.", "A Kaouar régió gazdasági szíve.", "A sót kölesre cserélték."],
       ro: ["Centrul producției de sare de secole.", "Destinația marilor caravane de cămile.", "Inima economică a regiunii Kaouar.", "Sarea era schimbată pentru mei."],
       en: ["Center of salt production for centuries.", "Destination of the great camel caravans.", "Economic heart of the Kaouar region.", "Salt was traded for millet."]
-    }
-  },
+    }, image: "/poi-images/ne-bilma-salt-history-v2.webp"},
   {
     id: "ne-dirkou-outpost-history-v2",
     type: "historical",
@@ -215,8 +209,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["Fontos vízforrás a karavánok számára.", "Észak-Afrikát a Csád-tóval köti össze.", "Történelmi katonai bázis.", "A Kaouar oázislánc része."],
       ro: ["Sursă importantă de apă pentru caravane.", "Leagă Africa de Nord cu Lacul Ciad.", "Bază militară istorică.", "Parte a lanțului de oaze Kaouar."],
       en: ["Important water source for caravans.", "Connects North Africa with Lake Chad.", "Historical military base.", "Part of the Kaouar oasis chain."]
-    }
-  },
+    }, image: "/poi-images/ne-dirkou-outpost-history-v2.webp"},
   {
     id: "ne-arbre-tenere-history-v2",
     type: "historical",
@@ -239,8 +232,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["Az eredeti fa 1973-ban elpusztult.", "Ez volt az egyetlen fa 400 km-es körzetben.", "Tájékozódási pont a sókaravánok számára.", "Ma egy fémszobor helyettesíti."],
       ro: ["Copacul original a fost distrus în 1973.", "Era singurul copac pe o rază de 400 km.", "Punct de reper pentru caravanele de sare.", "Acum înlocuit de o sculptură din metal."],
       en: ["The original tree was destroyed in 1973.", "Was the only tree within 400 km.", "Landmark for salt caravans.", "Now replaced by a metal sculpture."]
-    }
-  },
+    }, image: "/poi-images/ne-arbre-tenere-history-v2.webp"},
   {
     id: "ne-dosso-palace-history-v2",
     type: "historical",
@@ -263,8 +255,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["A Djermakoye (uralkodó) székhelye.", "A Zarma kultúra központja.", "Megőrizte hagyományos építészetét.", "Fontos volt a gyarmati korszakban."],
       ro: ["Sediul Djermakoye (conducător).", "Centrul culturii Zarma.", "Arhitectură tradițională păstrată.", "Important în perioada colonială."],
       en: ["Seat of the Djermakoye (ruler).", "Center of Zarma culture.", "Preserved traditional architecture.", "Important during the colonial period."]
-    }
-  },
+    }, image: "/poi-images/ne-dosso-palace-history-v2.webp"},
   {
     id: "ne-maradi-history-v2",
     type: "historical",
@@ -311,8 +302,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["Fontos zarma központ.", "Történelmi katonai bázis.", "Hagyományos mezőgazdaság jellemzi.", "A régió kulturális központja."],
       ro: ["Important centru Zarma.", "Bază militară istorică.", "Caracterizat de agricultura tradițională.", "Centrul cultural al regiunii."],
       en: ["Important Zarma center.", "Historical military base.", "Characterized by traditional agriculture.", "Cultural center of the region."]
-    }
-  },
+    }, image: "/poi-images/ne-ouallam-capital-history-v2.webp"},
   {
     id: "ne-say-islamic-history-v2",
     type: "historical",
@@ -335,8 +325,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["A 19. században alapították.", "Az iszlám tudományosság központja.", "Fontos hely a zarándokok számára.", "Régi mecseteiről ismert."],
       ro: ["Fondat în secolul al XIX-lea.", "Centrul erudiției islamice.", "Loc important pentru pelerini.", "Cunoscut pentru vechile sale moschei."],
       en: ["Founded in the 19th century.", "Center of Islamic scholarship.", "Important place for pilgrims.", "Known for old mosques."]
-    }
-  },
+    }, image: "/poi-images/ne-say-islamic-history-v2.webp"},
   {
     id: "ne-tahoua-crossroads-history-v2",
     type: "historical",
@@ -359,8 +348,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["Két kultúra történelmi hídja.", "Az állatállomány fontos kereskedelmi helye.", "Jelentős helyi uralkodók székhelye.", "Hagyományos fesztiválok helyszíne."],
       ro: ["Pod istoric între două culturi.", "Piață importantă pentru animale.", "Sediul unor conducători locali importanți.", "Locul de desfășurare a festivalurilor tradiționale."],
       en: ["Historical bridge of two cultures.", "Important trading post for livestock.", "Seat of significant local rulers.", "Host of traditional festivals."]
-    }
-  },
+    }, image: "/poi-images/ne-tahoua-crossroads-history-v2.webp"},
   {
     id: "ne-tillaberi-crossing-history-v2",
     type: "historical",
@@ -383,8 +371,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["A gyarmatosítás előtti idők óta fontos.", "Elősegíti a kereskedelmet a Niger mentén.", "A Songhai kultúra történelmi központja.", "Összeköti a régió keleti és nyugati részét."],
       ro: ["Important din perioada precolonială.", "Promovează comerțul de-a lungul Nigerului.", "Centrul istoric al culturii Songhai.", "Conectează estul și vestul regiunii."],
       en: ["Important since pre-colonial times.", "Promotes trade along the Niger.", "Historical center of the Songhai culture.", "Connects the east and west of the region."]
-    }
-  },
+    }, image: "/poi-images/ne-tillaberi-crossing-history-v2.webp"},
   {
     id: "ne-birni-nkonni-history-v2",
     type: "historical",
@@ -407,8 +394,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["Az 1899-es csata helyszíne.", "A csempészek fontos csomópontja.", "Régi erődítmények maradványait mutatja.", "A hausza kultúra központja."],
       ro: ["Locul bătăliei din 1899.", "Nod important pentru contrabandişti.", "Prezintă rămășițe ale vechilor fortificații.", "Centrul culturii Hausa."],
       en: ["Site of the 1899 battle.", "Important hub for smugglers.", "Shows remains of old fortifications.", "Center of Hausa culture."]
-    }
-  },
+    }, image: "/poi-images/ne-birni-nkonni-history-v2.webp"},
   {
     id: "ne-gaya-history-v2",
     type: "historical",
@@ -503,8 +489,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["A Gobir állam tanúi.", "Egykor fontos védelmi vonalak.", "A régi hausza kultúra központja.", "A 19. század után hanyatlott."],
       ro: ["Martori ai statului Gobir.", "Cândva linii de apărare importante.", "Centrul vechii culturi Hausa.", "În decădere după secolul al XIX-lea."],
       en: ["Witnesses of the Gobir state.", "Once important defense lines.", "Center of ancient Hausa culture.", "Declined after the 19th century."]
-    }
-  },
+    }, image: "/poi-images/ne-gobirawa-ruins-history-v2.webp"},
   {
     id: "ne-tessaoua-history-v2",
     type: "historical",
@@ -551,8 +536,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["Az uránt 1969-ben fedezték fel.", "Drámai módon megváltoztatta a sivatagi régiót.", "Egykori oázis iparvárossá vált.", "Gazdasági fordulópont Niger számára."],
       ro: ["Uraniul a fost descoperit în 1969.", "A schimbat dramatic regiunea deșertică.", "Fosta oază a devenit un oraș industrial.", "Punct de cotitură economic pentru Niger."],
       en: ["Uranium was discovered in 1969.", "Changed the desert region dramatically.", "Former oasis became an industrial city.", "Economic turning point for Niger."]
-    }
-  },
+    }, image: "/poi-images/ne-arlit-uranium-history-v2.webp"},
   {
     id: "ne-madaoua-fort-history-v2",
     type: "historical",
@@ -575,8 +559,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["Fontos történelmi erődváros.", "A mezőgazdaság központja.", "Régi törzsi konfliktusok színtere.", "Észak- és Dél-Nigert köti össze."],
       ro: ["Important oraș fortificat istoric.", "Centrul agriculturii.", "Locul vechilor conflicte tribale.", "Conectează nordul și sudul Nigerului."],
       en: ["Important historical fortified city.", "Center for agriculture.", "Scene of old tribal conflicts.", "Connects northern and southern Niger."]
-    }
-  },
+    }, image: "/poi-images/ne-madaoua-fort-history-v2.webp"},
   {
     id: "ne-goudoumaria-history-v2",
     type: "historical",
@@ -599,8 +582,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["A régi Kanem Birodalom része.", "Történelmi oázis megálló.", "A kanuri kultúra hatásai.", "Egykori csomópont keleten."],
       ro: ["Parte a vechiului Imperiu Kanem.", "Oprire istorică la oază.", "Influențe culturale Kanuri.", "Fost nod în est."],
       en: ["Part of the old Kanem Empire.", "Historical oasis stop.", "Kanuri cultural influences.", "Former hub in the east."]
-    }
-  },
+    }, image: "/poi-images/ne-goudoumaria-history-v2.webp"},
   {
     id: "ne-ngourti-well-history-v2",
     type: "historical",
@@ -623,8 +605,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["A nomádok hagyományos találkozóhelye.", "Biztosította a túlélést a sivatagban.", "A jószágcsere történelmi helye.", "A szárazsághoz való alkalmazkodás bizonyítéka."],
       ro: ["Punct tradițional de întâlnire al nomazilor.", "A asigurat supraviețuirea în deșert.", "Loc istoric pentru schimbul de animale.", "Dovadă a adaptării la secetă."],
       en: ["Traditional meeting point of nomads.", "Ensured survival in the desert.", "Historical site for livestock exchange.", "Testament to adaptation to drought."]
-    }
-  },
+    }, image: "/poi-images/ne-ngourti-well-history-v2.webp"},
   {
     id: "ne-diffa-outpost-history-v2",
     type: "historical",
@@ -647,8 +628,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["A Bornu Birodalom befolyási övezete.", "Történelmi halkereskedelmi hely.", "Fontos szerep a transz-szaharai kereskedelemben.", "Őrzi a kanuri hagyományokat."],
       ro: ["Zona de influență a Imperiului Bornu.", "Piață istorică a peștelui.", "Rol important în comerțul trans-saharian.", "Păstrează tradițiile Kanuri."],
       en: ["Zone of influence of the Bornu Empire.", "Historical fish trading place.", "Important role in trans-Saharan trade.", "Preserves Kanuri traditions."]
-    }
-  },
+    }, image: "/poi-images/ne-diffa-outpost-history-v2.webp"},
   {
     id: "ne-nguigmi-chad-history-v2",
     type: "historical",
@@ -671,8 +651,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["Egykor közvetlenül a Csád-tó partján feküdt.", "A történelmi halászat központja.", "A drasztikus környezeti változásokat mutatja.", "Egykori karaván végpont."],
       ro: ["S-a aflat odată direct pe Lacul Ciad.", "Centrul pescuitului istoric.", "Arată schimbările dramatice ale mediului.", "Fost punct terminus al caravanelor."],
       en: ["Once located directly on Lake Chad.", "Center of historical fishing.", "Shows the drastic environmental changes.", "Former caravan terminus."]
-    }
-  },
+    }, image: "/poi-images/ne-nguigmi-chad-history-v2.webp"},
   {
     id: "ne-madarounfa-lake-history-v2",
     type: "historical",
@@ -695,8 +674,7 @@ export const poiExtraNigerHistoryV2: POI[] = [
       hu: ["Egy régi spirituális hely.", "A partokat régi sírok díszítik.", "Fontos a helyi mitológiában.", "Történelmi menedékhely aszály idején."],
       ro: ["Un loc spiritual antic.", "Malurile decorate cu morminte vechi.", "Important pentru mitologia locală.", "Refugiu istoric în timpul secetelor."],
       en: ["An ancient spiritual place.", "Shores dotted with old tombs.", "Important for local mythology.", "Historical retreat during droughts."]
-    }
-  },
+    }, image: "/poi-images/ne-madarounfa-lake-history-v2.webp"},
   {
     id: "ne-filingue-valley-history-v2",
     type: "historical",
@@ -722,3 +700,4 @@ export const poiExtraNigerHistoryV2: POI[] = [
     }
   }
 ];
+

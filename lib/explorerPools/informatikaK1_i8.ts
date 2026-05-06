@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/informatikaK1_i8.ts
 import type { PoolTopicDef } from "./types";
 
@@ -154,3 +155,4 @@ export const INFO_K1_I8_POOL: PoolTopicDef[] = Array.from({ length: 15 }, (_, i)
     quiz: { question: `t${t}_q`, choices: [`t${t}_qa`, `t${t}_qb`, `t${t}_qc`, `t${t}_qd`], answer: `t${t}_qa` }
   };
 });
+

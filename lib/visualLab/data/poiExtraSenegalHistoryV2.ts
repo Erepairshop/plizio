@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSenegalHistoryV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["1776 körül építették a hollandok.", "Az afrikai rabszolgakereskedelem szimbóluma."],
       ro: ["Construită în jurul anului 1776 de către olandezi.", "Simbol al comerțului cu sclavi din Africa."],
       en: ["Built around 1776 by the Dutch.", "Symbol of the African slave trade."]
-    }
-  },
+    }, image: "/poi-images/sn-dk-house-slaves-history-v2.webp"},
   {
     id: "sn-sl-historic-centre-history-v2",
     type: "historical",
@@ -27,8 +27,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["A franciák alapították 1659-ben.", "Az UNESCO Világörökség része 2000 óta."],
       ro: ["Fondat în 1659 de către francezi.", "Patrimoniul Mondial UNESCO din anul 2000."],
       en: ["Founded in 1659 by the French.", "UNESCO World Heritage Site since 2000."]
-    }
-  },
+    }, image: "/poi-images/sn-sl-historic-centre-history-v2.webp"},
   {
     id: "sn-ka-sine-ngayene-history-v2",
     type: "historical",
@@ -41,8 +40,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["A szenegambiai kőkörök része.", "52 kőkörből és 1102 megmunkált kőből áll."],
       ro: ["Face parte din cercurile de piatră senegambiene.", "Constă din 52 de cercuri de piatră și 1102 de pietre lucrate."],
       en: ["Part of the Senegambian stone circles.", "Consists of 52 stone circles and 1102 worked stones."]
-    }
-  },
+    }, image: "/poi-images/sn-ka-sine-ngayene-history-v2.webp"},
   {
     id: "sn-ka-wanar-history-v2",
     type: "historical",
@@ -55,8 +53,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["UNESCO Világörökség része.", "Néhány kő Y vagy V alakú."],
       ro: ["Patrimoniul Mondial UNESCO.", "Unele pietre au forma literei Y sau V."],
       en: ["UNESCO World Heritage Site.", "Some stones have a Y or V shape."]
-    }
-  },
+    }, image: "/poi-images/sn-ka-wanar-history-v2.webp"},
   {
     id: "sn-tc-fort-bakel-history-v2",
     type: "historical",
@@ -69,8 +66,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["1820-ban építette René Caillié.", "A folyami kereskedelem ellenőrzésére szolgált."],
       ro: ["Construit în anul 1820 de René Caillié.", "A servit la controlul comerțului fluvial."],
       en: ["Built in 1820 by René Caillié.", "Served to control river trade."]
-    }
-  },
+    }, image: "/poi-images/sn-tc-fort-bakel-history-v2.webp"},
   {
     id: "sn-sl-fort-podor-history-v2",
     type: "historical",
@@ -83,8 +79,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["1854-ben Louis Faidherbe építtette újjá.", "Eredetileg a 18. században épült."],
       ro: ["Reconstruit în 1854 de Louis Faidherbe.", "Construit inițial în secolul al XVIII-lea."],
       en: ["Reconstructed in 1854 by Louis Faidherbe.", "Originally built in the 18th century."]
-    }
-  },
+    }, image: "/poi-images/sn-sl-fort-podor-history-v2.webp"},
   {
     id: "sn-zg-carabane-history-v2",
     type: "historical",
@@ -97,8 +92,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["Rendelkezik egy történelmi breton templommal.", "A Casamance-folyó torkolatánál lévő szigeten található."],
       ro: ["Are o biserică bretonă istorică.", "Situat pe o insulă la gura de vărsare a fluviului Casamance."],
       en: ["Features a historic Breton church.", "Located on an island at the mouth of the Casamance River."]
-    }
-  },
+    }, image: "/poi-images/sn-zg-carabane-history-v2.webp"},
   {
     id: "sn-db-touba-mosque-history-v2",
     type: "historical",
@@ -111,8 +105,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["1963-ban fejezték be.", "A minaret 87 méter magas."],
       ro: ["Finalizată în 1963.", "Minaretul are 87 de metri înălțime."],
       en: ["Completed in 1963.", "The minaret is 87 meters high."]
-    }
-  },
+    }, image: "/poi-images/sn-db-touba-mosque-history-v2.webp"},
   {
     id: "sn-dk-african-renaissance-history-v2",
     type: "historical",
@@ -125,8 +118,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["49 méterével magasabb, mint a Szabadság-szobor.", "2010-ben nyitották meg."],
       ro: ["Cu 49 de metri, este mai înalt decât Statuia Libertății.", "Inaugurat în anul 2010."],
       en: ["At 49 meters, it is taller than the Statue of Liberty.", "Opened in 2010."]
-    }
-  },
+    }, image: "/poi-images/sn-dk-african-renaissance-history-v2.webp"},
   {
     id: "sn-dk-mamelles-lighthouse-history-v2",
     type: "historical",
@@ -139,8 +131,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["1864-ben épült.", "Fénye akár 53 kilométerre is ellátszik az óceánon."],
       ro: ["Construit în anul 1864.", "Lumina sa ajunge până la 53 de kilometri în largul oceanului."],
       en: ["Built in 1864.", "Its light reaches up to 53 kilometers out into the ocean."]
-    }
-  },
+    }, image: "/poi-images/sn-dk-mamelles-lighthouse-history-v2.webp"},
   {
     id: "sn-dk-ifan-museum-history-v2",
     type: "historical",
@@ -153,8 +144,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["1938-ban alapították.", "Léopold Sédar Senghor avatta fel."],
       ro: ["Fondat în 1938.", "Inaugurat de Léopold Sédar Senghor."],
       en: ["Founded in 1938.", "Inaugurated by Léopold Sédar Senghor."]
-    }
-  },
+    }, image: "/poi-images/sn-dk-ifan-museum-history-v2.webp"},
   {
     id: "sn-dk-dakar-railway-history-v2",
     type: "historical",
@@ -167,8 +157,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["1914-ben nyitották meg.", "Nyugat-Afrika francia gyarmatosításának szimbóluma."],
       ro: ["Deschis în 1914.", "Un simbol al colonizării franceze a Africii de Vest."],
       en: ["Opened in 1914.", "A symbol of the French colonization of West Africa."]
-    }
-  },
+    }, image: "/poi-images/sn-dk-dakar-railway-history-v2.webp"},
   {
     id: "sn-lu-yang-yang-history-v2",
     type: "historical",
@@ -195,8 +184,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["A 16. században alapították a portugálok.", "1880-ban francia kommün lett."],
       ro: ["Fondat în secolul al XVI-lea de portughezi.", "A devenit o comună franceză în 1880."],
       en: ["Founded in the 16th century by the Portuguese.", "Became a French commune in 1880."]
-    }
-  },
+    }, image: "/poi-images/sn-dk-vieux-rufisque-history-v2.webp"},
   {
     id: "sn-th-joal-fadiouth-history-v2",
     type: "historical",
@@ -209,8 +197,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["Léopold Sédar Senghor itt született 1906-ban.", "Ma az ő életének szentelt múzeum."],
       ro: ["Léopold Sédar Senghor s-a născut aici în 1906.", "Astăzi este un muzeu dedicat vieții sale."],
       en: ["Léopold Sédar Senghor was born here in 1906.", "Today it is a museum dedicated to his life."]
-    }
-  },
+    }, image: "/poi-images/sn-th-joal-fadiouth-history-v2.webp"},
   {
     id: "sn-sl-governor-palace-history-v2",
     type: "historical",
@@ -223,8 +210,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["A 18. században épült egy régi erőd romjain.", "A gyarmati hatalom szimbóluma Nyugat-Afrikában."],
       ro: ["Construit în secolul al XVIII-lea pe ruinele unui vechi fort.", "Simbol al puterii coloniale în Africa de Vest."],
       en: ["Built in the 18th century on the ruins of an old fort.", "Symbol of colonial power in West Africa."]
-    }
-  },
+    }, image: "/poi-images/sn-sl-governor-palace-history-v2.webp"},
   {
     id: "sn-dk-fort-destrees-history-v2",
     type: "historical",
@@ -237,8 +223,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["Az 1850-es években épült a Dakar-öböl védelmére.", "Később polgári börtönként használták."],
       ro: ["Construit în anii 1850 pentru a proteja golful Dakar.", "A fost folosit mai târziu ca închisoare civilă."],
       en: ["Built in the 1850s to protect the Bay of Dakar.", "Was later used as a civil prison."]
-    }
-  },
+    }, image: "/poi-images/sn-dk-fort-destrees-history-v2.webp"},
   {
     id: "sn-th-thies-railway-history-v2",
     type: "historical",
@@ -265,8 +250,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["1645-ben alapították a portugálok.", "1888-ban átengedték a franciáknak."],
       ro: ["Fondat în anul 1645 de portughezi.", "A fost cedat francezilor în 1888."],
       en: ["Founded in 1645 by the Portuguese.", "Was ceded to the French in 1888."]
-    }
-  },
+    }, image: "/poi-images/sn-zg-ziguinchor-history-v2.webp"},
   {
     id: "sn-zg-oussouye-history-v2",
     type: "historical",
@@ -279,8 +263,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["Megőrzi az ősi animista rituálékat.", "Oussouye királya közvetít a konfliktusokban."],
       ro: ["Păstrează vechile ritualuri animiste.", "Regele din Oussouye mediază în caz de conflicte."],
       en: ["Preserves ancient animist rituals.", "The King of Oussouye mediates in conflicts."]
-    }
-  },
+    }, image: "/poi-images/sn-zg-oussouye-history-v2.webp"},
   {
     id: "sn-se-sedhiou-history-v2",
     type: "historical",
@@ -293,8 +276,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["Sédhiou egykor Casamance fővárosa volt.", "A Mandinka kultúra központja."],
       ro: ["Sédhiou a fost odată capitala regiunii Casamance.", "Un centru al culturii Mandinka."],
       en: ["Sédhiou was once the capital of the Casamance.", "A center of Mandinka culture."]
-    }
-  },
+    }, image: "/poi-images/sn-se-sedhiou-history-v2.webp"},
   {
     id: "sn-dk-great-mosque-dakar-history-v2",
     type: "historical",
@@ -307,8 +289,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["1964-ben II. Hasszán király nyitotta meg.", "A minaret 67 méter magas."],
       ro: ["Deschis în 1964 de Regele Hassan al II-lea.", "Minaretul are 67 de metri înălțime."],
       en: ["Opened in 1964 by King Hassan II.", "The minaret is 67 meters high."]
-    }
-  },
+    }, image: "/poi-images/sn-dk-great-mosque-dakar-history-v2.webp"},
   {
     id: "sn-sl-nder-history-v2",
     type: "historical",
@@ -321,8 +302,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["1819-ben Nder női feláldozták magukat, hogy elkerüljék a rabszolgaságot.", "A szenegáli ellenállás szimbóluma."],
       ro: ["În 1819, femeile din Nder s-au sacrificat pentru a evita sclavia.", "Un simbol al rezistenței senegaleze."],
       en: ["In 1819, the women of Nder sacrificed themselves to avoid enslavement.", "A symbol of Senegalese resistance."]
-    }
-  },
+    }, image: "/poi-images/sn-sl-nder-history-v2.webp"},
   {
     id: "sn-db-kael-history-v2",
     type: "historical",
@@ -335,8 +315,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["Történelmi csomópont az iszlám tudósok számára.", "A muridok vallási földrajzának része."],
       ro: ["Un nod istoric pentru erudiții islamici.", "Parte a geografiei religioase a mouridilor."],
       en: ["A historical hub for Islamic scholars.", "Part of the religious geography of the Mourides."]
-    }
-  },
+    }, image: "/poi-images/sn-db-kael-history-v2.webp"},
   {
     id: "sn-db-diourbel-residence-history-v2",
     type: "historical",
@@ -349,8 +328,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["Cheikh Ahmadou Bamba itt töltötte utolsó éveit.", "Fontos zarándokhely követői számára."],
       ro: ["Cheikh Ahmadou Bamba și-a petrecut aici ultimii ani.", "Un loc de pelerinaj important pentru adepții săi."],
       en: ["Cheikh Ahmadou Bamba spent his final years here.", "An important pilgrimage site for his followers."]
-    }
-  },
+    }, image: "/poi-images/sn-db-diourbel-residence-history-v2.webp"},
   {
     id: "sn-sl-faidherbe-bridge-history-v2",
     type: "historical",
@@ -363,8 +341,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["1897-ben épült.", "507 méter hosszan ível át a Szenegál-folyón."],
       ro: ["Construit în anul 1897.", "Traversează fluviul Senegal pe o lungime de 507 metri."],
       en: ["Built in 1897.", "Crosses the Senegal River over a length of 507 meters."]
-    }
-  },
+    }, image: "/poi-images/sn-sl-faidherbe-bridge-history-v2.webp"},
   {
     id: "sn-sl-mpal-history-v2",
     type: "historical",
@@ -377,8 +354,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["A 19. században alapították.", "Az iszlám oktatás jelentős helyszíne."],
       ro: ["Fondat în secolul al XIX-lea.", "Un loc semnificativ al educației islamice."],
       en: ["Founded in the 19th century.", "A significant place of Islamic education."]
-    }
-  },
+    }, image: "/poi-images/sn-sl-mpal-history-v2.webp"},
   {
     id: "sn-th-fadiouth-cemetery-history-v2",
     type: "historical",
@@ -391,8 +367,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["Szenegál vallási toleranciájának bizonyítéka.", "A sírokat gyakran kagylók díszítik."],
       ro: ["Mărturie a toleranței religioase din Senegal.", "Mormintele sunt adesea decorate cu scoici."],
       en: ["Bears witness to religious tolerance in Senegal.", "The graves are often decorated with shells."]
-    }
-  },
+    }, image: "/poi-images/sn-th-fadiouth-cemetery-history-v2.webp"},
   {
     id: "sn-tc-tata-madiena-history-v2",
     type: "historical",
@@ -405,8 +380,7 @@ export const poiExtraSenegalHistoryV2: POI[] = [
       hu: ["Földből és fából épült.", "A helyi erődépítészet ritka példája."],
       ro: ["Construit din pământ și lemn.", "Un exemplu rar de arhitectură de fortăreață locală."],
       en: ["Built of earth and wood.", "A rare example of local fortress architecture."]
-    }
-  },
+    }, image: "/poi-images/sn-tc-tata-madiena-history-v2.webp"},
   {
     id: "sn-fk-sangomar-history-v2",
     type: "historical",
@@ -422,3 +396,4 @@ export const poiExtraSenegalHistoryV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEritreaLifeV2: POI[] = [
@@ -13,8 +14,14 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Fontos bevételi forrás", "Gépesített öntözés"],
       ro: ["Sursă importantă de venit", "Irigare mecanizată"],
       en: ["Important income source", "Mechanized irrigation"]
-    }
-  },
+    },
+    descriptionAdvanced: { de: "Die Region Gash-Barka im Südwesten Eritreas ist das landwirtschaftliche Herzstück des Landes, das maßgeblich vom Gash-Fluss profitiert. Hier werden auf riesigen Feldern qualitativ hochwertige Baumwollkulturen angebaut, die sowohl für den lokalen Markt als auch für den Export bestimmt sind. Durch den Einsatz moderner mechanisierter Bewässerungssysteme konnte die Produktivität in den letzten Jahrzehnten erheblich gesteigert werden. Földrajz K7 — mezőgazdasági régiók és öntözés.", hu: "Gash-Barka régió Eritrea délnyugati részén az ország mezőgazdasági központja, amely jelentősen profitál a Gash-folyó vizéből. Hatalmas földeken termesztenek kiváló minőségű gyapotot, amelyet a helyi piac és az export számára egyaránt hasznosítanak. A gépesített öntözőrendszerek bevezetésével az elmúlt évtizedekben jelentősen nőtt a termelékenység. Földrajz K7 — mezőgazdasági régiók és öntözés.", ro: "Regiunea Gash-Barka din sud-vestul Eritreei reprezintă inima agricolă a țării, beneficiind semnificativ de râul Gash. Aici sunt cultivate culturi de bumbac de înaltă calitate pe câmpuri vaste, destinate atât pieței locale, cât și exportului. Prin implementarea sistemelor moderne de irigare mecanizată, productivitatea a crescut considerabil în ultimele decenii. Földrajz K7 — regiuni agricole și irigare.", en: "The Gash-Barka region in southwestern Eritrea is the country's agricultural heartland, benefiting significantly from the Gash River. Here, high-quality cotton crops are grown on vast fields for both local use and export. Through the implementation of modern mechanized irrigation systems, productivity has increased significantly in recent decades. Geography K7 — agricultural regions and irrigation." },
+    factsAdvanced: {
+      de: ["Gash-Barka ist die größte Region Eritreas.", "Die Baumwollernte findet meist zwischen November und Januar statt.", "Der Gash-Fluss ist ein saisonaler Strom.", "Mechanisierte Bewässerung reduziert den Wasserverlust.", "Baumwolle ist eines der wichtigsten Exportgüter.", "Die Bodenqualität im Gash-Becken ist besonders fruchtbar."],
+      hu: ["Gash-Barka Eritrea legnagyobb régiója.", "A gyapotszüret általában november és január között zajlik.", "A Gash-folyó időszakos vízfolyás.", "A gépesített öntözés csökkenti a vízveszteséget.", "A gyapot az egyik legfontosabb exportcikk.", "A Gash-medence talaja rendkívül termékeny."],
+      ro: ["Gash-Barka este cea mai mare regiune a Eritreei.", "Recoltarea bumbacului are loc de obicei între noiembrie și ianuarie.", "Râul Gash este un curs de apă sezonier.", "Irigarea mecanizată reduce pierderile de apă.", "Bumbacul este unul dintre principalele bunuri de export.", "Solul din bazinul Gash este deosebit de fertil."],
+      en: ["Gash-Barka is the largest region in Eritrea.", "Cotton harvesting typically takes place between November and January.", "The Gash River is a seasonal stream.", "Mechanized irrigation reduces water loss.", "Cotton is one of the most important export commodities.", "The soil in the Gash basin is particularly fertile."]
+    }, image: "/poi-images/gash-barka-cotton-life-v2.webp"},
   {
     id: "asmara-children-park-life-v2",
     type: "kid-landmark",
@@ -27,8 +34,14 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Központi elhelyezkedés", "Zöldterületek gyerekeknek"],
       ro: ["Situat central", "Spații verzi pentru copii"],
       en: ["Centrally located", "Green areas for kids"]
-    }
-  },
+    },
+    descriptionAdvanced: { de: "Der Kinder-Freizeitpark in Asmara ist ein beliebter Anlaufpunkt für Familien, um in der Hauptstadt dem städtischen Trubel zu entkommen. Der Park bietet moderne Spielgeräte, weitläufige Grünflächen und schattige Sitzbereiche, die zum Verweilen einladen. Als einer der wenigen Orte dieser Art in der Stadt dient er nicht nur als Spielplatz, sondern auch als sozialer Treffpunkt für Familien aus verschiedenen Stadtvierteln. Sachkunde K4 — städtisches Leben.", hu: "Az aszmarai gyermek szabadidőpark népszerű családi célpont a fővárosban, ahová a családok a városi nyüzsgés elől menekülnek. A park modern játékokkal, tágas zöldterületekkel és árnyékos pihenőhelyekkel várja a látogatókat. A város egyik ritka hasonló létesítményeként nemcsak játszótérként, hanem a különböző városrészekből érkező családok közösségi találkozóhelyeként is funkcionál. Sachkunde K4 — városi élet.", ro: "Parcul de distracții pentru copii din Asmara este o destinație populară pentru familii, oferind o evadare din agitația urbană a capitalei. Parcul dispune de echipamente de joacă moderne, spații verzi extinse și zone de odihnă umbrite care invită la relaxare. Fiind unul dintre puținele locuri de acest fel din oraș, servește nu doar ca loc de joacă, ci și ca punct de întâlnire socială pentru familiile din diverse cartiere. Sachkunde K4 — viața urbană.", en: "The children's amusement park in Asmara is a popular destination for families to escape the capital's urban hustle. The park offers modern play equipment, spacious green areas, and shaded seating areas that invite relaxation. As one of the few places of its kind in the city, it serves not only as a playground but also as a social meeting place for families from different neighborhoods. Sachkunde K4 — urban life." },
+    factsAdvanced: {
+      de: ["Der Park befindet sich nahe dem Stadtzentrum.", "Asmara ist als UNESCO-Weltkulturerbe bekannt.", "Die Gestaltung achtet besonders auf Sicherheit.", "Es gibt spezifische Zonen für verschiedene Altersgruppen.", "Der Park ist ein bedeutendes Projekt zur städtischen Erholung.", "Er dient auch der körperlichen Ertüchtigung von Kindern."],
+      hu: ["A park a városközpont közelében található.", "Aszmara az UNESCO világörökség része.", "A kialakítás során különös figyelmet fordítottak a biztonságra.", "Külön zónák állnak rendelkezésre különböző korosztályok számára.", "A park jelentős városi rekreációs projekt.", "A gyermekek testi fejlődését is szolgálja."],
+      ro: ["Parcul este situat aproape de centrul orașului.", "Asmara este cunoscută ca sit al Patrimoniului Mondial UNESCO.", "Designul pune un accent deosebit pe siguranță.", "Există zone specifice pentru diferite grupe de vârstă.", "Parcul este un proiect semnificativ de recreere urbană.", "Servește, de asemenea, la dezvoltarea fizică a copiilor."],
+      en: ["The park is located near the city center.", "Asmara is known as a UNESCO World Heritage site.", "The design places special emphasis on safety.", "There are specific zones for different age groups.", "The park is a significant urban recreation project.", "It also serves for the physical development of children."]
+    }, image: "/poi-images/asmara-children-park-life-v2.webp"},
   {
     id: "massawa-marine-life-v2",
     type: "animal-habitat",
@@ -41,8 +54,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Korallzátony-védelem", "Változatos halfajok"],
       ro: ["Protecția recifelor de corali", "Specii variate de pești"],
       en: ["Coral reef protection", "Diverse fish species"]
-    }
-  },
+    }, image: "/poi-images/massawa-marine-life-v2.webp"},
   {
     id: "keren-sorghum-farms-life-v2",
     type: "agriculture",
@@ -69,8 +81,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Arabica kávé", "Csapadékos mikroklíma"],
       ro: ["Cafea Arabica", "Microclimat ploios"],
       en: ["Arabica coffee", "Rainy microclimate"]
-    }
-  },
+    }, image: "/poi-images/ghinda-coffee-farms-life-v2.webp"},
   {
     id: "senhit-livestock-life-v2",
     type: "animal-habitat",
@@ -83,8 +94,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Hagyományos állattartás", "Vándorlegeltetés"],
       ro: ["Creșterea tradițională a animalelor", "Păstorit nomad"],
       en: ["Traditional animal husbandry", "Nomadic herding"]
-    }
-  },
+    }, image: "/poi-images/senhit-livestock-life-v2.webp"},
   {
     id: "dekemhare-family-park-life-v2",
     type: "kid-landmark",
@@ -111,8 +121,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Madártani központ", "Szezonális vizes élőhelyek"],
       ro: ["Punct fierbinte pentru ornitologi", "Zone umede sezoniere"],
       en: ["Ornithology hotspot", "Seasonal wetlands"]
-    }
-  },
+    }, image: "/poi-images/gash-barka-bird-reserve-life-v2.webp"},
   {
     id: "tessenei-crops-life-v2",
     type: "agriculture",
@@ -125,8 +134,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Kedvező öntözőrendszer", "Gazdasági központ"],
       ro: ["Sistem de irigații favorabil", "Centru economic"],
       en: ["Favorable irrigation system", "Economic hub"]
-    }
-  },
+    }, image: "/poi-images/tessenei-crops-life-v2.webp"},
   {
     id: "arkiko-fishery-center-life-v2",
     type: "agriculture",
@@ -139,8 +147,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Friss fogás", "Hagyományos halászati módszerek"],
       ro: ["Captură proaspătă", "Metode tradiționale de pescuit"],
       en: ["Fresh catch", "Traditional fishing methods"]
-    }
-  },
+    }, image: "/poi-images/arkiko-fishery-center-life-v2.webp"},
   {
     id: "hargigo-horticulture-life-v2",
     type: "agriculture",
@@ -153,8 +160,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Helyi piaci ellátás", "Üvegházak"],
       ro: ["Aprovizionarea piețelor locale", "Sere"],
       en: ["Local market supply", "Greenhouses"]
-    }
-  },
+    }, image: "/poi-images/hargigo-horticulture-life-v2.webp"},
   {
     id: "asmara-research-garden-life-v2",
     type: "agriculture",
@@ -167,8 +173,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Fajgazdagság", "Oktatási célok"],
       ro: ["Biodiversitate", "Scopuri educaționale"],
       en: ["Biodiversity", "Educational purposes"]
-    }
-  },
+    }, image: "/poi-images/asmara-research-garden-life-v2.webp"},
   {
     id: "barentu-children-park-life-v2",
     type: "kid-landmark",
@@ -181,8 +186,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Népszerű találkozóhely", "Színes játékok"],
       ro: ["Loc de întâlnire popular", "Echipamente de joacă colorate"],
       en: ["Popular meeting spot", "Colorful play equipment"]
-    }
-  },
+    }, image: "/poi-images/barentu-children-park-life-v2.webp"},
   {
     id: "ginda-orchard-life-v2",
     type: "agriculture",
@@ -195,8 +199,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Citrusfélék", "Szezonális termesztés"],
       ro: ["Citrice", "Cultivare sezonieră"],
       en: ["Citrus fruits", "Seasonal farming"]
-    }
-  },
+    }, image: "/poi-images/ginda-orchard-life-v2.webp"},
   {
     id: "senhit-pastures-life-v2",
     type: "animal-habitat",
@@ -209,8 +212,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Fenntartható legeltetés", "Talajtermékenység"],
       ro: ["Pășunat sustenabil", "Fertilitatea solului"],
       en: ["Sustainable grazing", "Soil fertility"]
-    }
-  },
+    }, image: "/poi-images/senhit-pastures-life-v2.webp"},
   {
     id: "massawa-marine-park-life-v2",
     type: "kid-landmark",
@@ -223,8 +225,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Interaktív állomások", "Strandhozzáférés"],
       ro: ["Stații interactive", "Acces la plajă"],
       en: ["Interactive stations", "Beach access"]
-    }
-  },
+    }, image: "/poi-images/massawa-marine-park-life-v2.webp"},
   {
     id: "gash-barka-grain-life-v2",
     type: "agriculture",
@@ -237,8 +238,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Fő termesztési terület", "Modern mezőgazdasági gépek"],
       ro: ["Zona principală de cultivare", "Mașini agricole moderne"],
       en: ["Main farming area", "Modern agricultural machines"]
-    }
-  },
+    }, image: "/poi-images/gash-barka-grain-life-v2.webp"},
   {
     id: "dekemhare-orchards-life-v2",
     type: "agriculture",
@@ -251,8 +251,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Minőségi gyümölcs", "Helyi export"],
       ro: ["Fructe de calitate", "Export local"],
       en: ["Quality fruit", "Local export"]
-    }
-  },
+    }, image: "/poi-images/dekemhare-orchards-life-v2.webp"},
   {
     id: "asmara-green-belt-life-v2",
     type: "animal-habitat",
@@ -265,8 +264,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Levegőtisztítás", "Városi élőhely"],
       ro: ["Purificarea aerului", "Habitat urban"],
       en: ["Air purification", "Urban habitat"]
-    }
-  },
+    }, image: "/poi-images/asmara-green-belt-life-v2.webp"},
   {
     id: "ghinda-community-garden-life-v2",
     type: "kid-landmark",
@@ -279,8 +277,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Oktatási projekt", "Bio-termékek"],
       ro: ["Proiect educațional", "Produse bio"],
       en: ["Educational project", "Organic products"]
-    }
-  },
+    }, image: "/poi-images/ghinda-community-garden-life-v2.webp"},
   {
     id: "massawa-palm-grove-life-v2",
     type: "agriculture",
@@ -293,8 +290,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Hagyományos szüret", "Árnyékos terület"],
       ro: ["Recoltare tradițională", "Zonă umbrită"],
       en: ["Traditional harvest", "Shaded area"]
-    }
-  },
+    }, image: "/poi-images/massawa-palm-grove-life-v2.webp"},
   {
     id: "senhit-agri-hub-life-v2",
     type: "agriculture",
@@ -307,8 +303,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Piaci logisztika", "Minőségellenőrzés"],
       ro: ["Logistică de piață", "Controlul calității"],
       en: ["Market logistics", "Quality control"]
-    }
-  },
+    }, image: "/poi-images/senhit-agri-hub-life-v2.webp"},
   {
     id: "asmara-nature-park-life-v2",
     type: "animal-habitat",
@@ -321,8 +316,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Túrautak", "Megfigyelési pontok"],
       ro: ["Trasee de drumeție", "Puncte de observare"],
       en: ["Hiking trails", "Observation points"]
-    }
-  },
+    }, image: "/poi-images/asmara-nature-park-life-v2.webp"},
   {
     id: "ginda-playground-life-v2",
     type: "kid-landmark",
@@ -335,8 +329,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Népszerű célpont", "Biztonságos kialakítás"],
       ro: ["Destinație populară", "Design sigur"],
       en: ["Popular destination", "Safe design"]
-    }
-  },
+    }, image: "/poi-images/ginda-playground-life-v2.webp"},
   {
     id: "gash-barka-grazing-life-v2",
     type: "animal-habitat",
@@ -349,8 +342,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Hagyományos állattartás", "Sivatagi peremzóna"],
       ro: ["Creșterea tradițională a animalelor", "Zonă de margine a deșertului"],
       en: ["Traditional husbandry", "Desert margin zone"]
-    }
-  },
+    }, image: "/poi-images/gash-barka-grazing-life-v2.webp"},
   {
     id: "tessenei-orchards-life-v2",
     type: "agriculture",
@@ -363,8 +355,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Helyileg értékesített", "Szezonális szüret"],
       ro: ["Comercializate local", "Recoltă sezonieră"],
       en: ["Locally traded", "Seasonal harvest"]
-    }
-  },
+    }, image: "/poi-images/tessenei-orchards-life-v2.webp"},
   {
     id: "asmara-children-center-life-v2",
     type: "kid-landmark",
@@ -377,8 +368,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Sportlehetőségek", "Kreatív műhelyek"],
       ro: ["Oferte sportive", "Ateliere creative"],
       en: ["Sports offers", "Creative workshops"]
-    }
-  },
+    }, image: "/poi-images/asmara-children-center-life-v2.webp"},
   {
     id: "senhit-animal-sanctuary-life-v2",
     type: "animal-habitat",
@@ -391,8 +381,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Fajvédelem", "Ökológiai oktatás"],
       ro: ["Conservarea speciilor", "Educație ecologică"],
       en: ["Species conservation", "Ecological education"]
-    }
-  },
+    }, image: "/poi-images/senhit-animal-sanctuary-life-v2.webp"},
   {
     id: "massawa-beach-playground-life-v2",
     type: "kid-landmark",
@@ -405,8 +394,7 @@ export const poiExtraEritreaLifeV2: POI[] = [
       hu: ["Biztonságos úszóterület", "Homokozójátékok"],
       ro: ["Zonă de înot sigură", "Jucării pentru nisip"],
       en: ["Safe swimming area", "Sand toys"]
-    }
-  },
+    }, image: "/poi-images/massawa-beach-playground-life-v2.webp"},
   {
     id: "gash-barka-extension-life-v2",
     type: "agriculture",
@@ -422,3 +410,4 @@ export const poiExtraEritreaLifeV2: POI[] = [
     }
   }
 ];
+

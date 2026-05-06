@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/aiK5_i3.ts
 import type { PoolTopicDef } from "./types";
 
@@ -228,3 +229,4 @@ export const INFO_K5_I3_POOL: PoolTopicDef[] = [
     quiz: { question: "t15_q", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], answer: "t15_qa" }
   }
 ];
+

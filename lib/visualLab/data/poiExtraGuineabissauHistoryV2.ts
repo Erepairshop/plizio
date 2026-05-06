@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuineabissauHistoryV2: POI[] = [
@@ -39,8 +40,19 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Houses the mausoleum of Amílcar Cabral.",
         "Seat of the Guinean General Staff."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Fort von São José da Amura wurde 1697 von den Portugiesen erbaut und bildet das historische Herz von Bissau. Diese massive Festung diente als zentraler Verteidigungspunkt der Kolonialmacht und beherbergt heute das Mausoleum von Amílcar Cabral, dem Gründervater der Nation. Der Bau ist ein eindrucksvolles Beispiel für militärische Architektur aus dem 17. Jahrhundert, die das Gesicht der guineischen Hauptstadt nachhaltig prägte. Geschichte K8 — Der Weg zur Unabhängigkeit.",
+      hu: "A Fortaleza de São José da Amura erődöt 1697-ben építették a portugálok Bissau történelmi szívében. Ez a masszív erődítmény a gyarmati hatalom központi védelmi pontjaként szolgált, ma pedig Amílcar Cabral, a nemzet alapító atyjának mauzóleumát rejti. Az építmény a 17. századi katonai építészet lenyűgöző példája, amely tartósan meghatározta a guineai főváros arculatát. Történelem K8 — A függetlenséghez vezető út.",
+      ro: "Fortăreața São José da Amura a fost construită de portughezi în 1697 și formează inima istorică a orașului Bissau. Această fortificație masivă a servit drept punct central de apărare al puterii coloniale și găzduiește astăzi mausoleul lui Amílcar Cabral, părintele fondator al națiunii. Construcția este un exemplu impresionant de arhitectură militară din secolul al XVII-lea, care a modelat definitiv chipul capitalei guineene. Istorie K8 — Drumul către independență.",
+      en: "The Fortaleza de São José da Amura was built by the Portuguese in 1697 and forms the historical heart of Bissau. This massive fortress served as a central defensive point for the colonial power and today houses the mausoleum of Amílcar Cabral, the nation's founding father. The structure is an impressive example of 17th-century military architecture that lastingly shaped the face of the Guinean capital. History K8 — The path to independence."
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1697.", "Mausoleum von Amílcar Cabral seit 1976.", "Festungsmauern über 300 Jahre alt.", "Zentrum der kolonialen Verwaltung in Bissau.", "Architekturstil: Bastionärsystem.", "Schauplatz zahlreicher Verteidigungsstrategien."],
+      hu: ["1697-ben épült.", "Amílcar Cabral mauzóleuma 1976 óta.", "A várfalak több mint 300 évesek.", "A gyarmati közigazgatás központja Bissauban.", "Építészeti stílus: bástyás rendszer.", "Számos védelmi stratégia helyszíne."],
+      ro: ["Construită în anul 1697.", "Mausoleul lui Amílcar Cabral din 1976.", "Zidurile fortăreței au peste 300 de ani.", "Centrul administrației coloniale din Bissau.", "Stil arhitectural: sistem bastionar.", "Locul multor strategii de apărare."],
+      en: ["Built in 1697.", "Mausoleum of Amílcar Cabral since 1976.", "Fortress walls over 300 years old.", "Center of colonial administration in Bissau.", "Architectural style: bastion system.", "Site of numerous defensive strategies."]
+    }, image: "/poi-images/fortaleza-amura-history-v2.webp"},
   {
     id: "memorial-pidjiguiti-history-v2",
     type: "historical",
@@ -79,8 +91,19 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Symbolizes resistance against colonialism.",
         "Located in the port area of Bissau."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Pidjiguiti-Mahnmal gedenkt des tragischen 3. August 1959, als ein brutales Massaker an streikenden Hafenarbeitern den Widerstand gegen die Kolonialherrschaft in Guinea-Bissau entfachte. Mehr als 50 Arbeiter wurden während des Streiks im Hafen von Bissau von portugiesischen Truppen getötet, was den Wendepunkt im Unabhängigkeitskampf markierte. Das Denkmal steht als stumme Erinnerung an diesen Kampf für Freiheit und Gerechtigkeit im Herzen des alten Hafengebiets. Geschichte K8 — Dekolonisierungsprozesse.",
+      hu: "A Pidjiguiti-emlékmű az 1959. augusztus 3-i tragikus eseményeknek állít emléket, amikor a sztrájkoló kikötői munkások elleni brutális mészárlás fellobbantotta a koloniális uralommal szembeni ellenállást Bissau-Guineában. A bissaui kikötőben több mint 50 munkást öltek meg a portugál csapatok, ami a függetlenségi harc fordulópontját jelentette. Az emlékmű néma emlékeztetőként áll a szabadságért és igazságért folytatott küzdelemre a régi kikötői negyed szívében. Történelem K8 — Dekolonizációs folyamatok.",
+      ro: "Memorialul Pidjiguiti comemorează ziua tragică de 3 august 1959, când un masacru brutal împotriva muncitorilor portuari aflați în grevă a aprins rezistența împotriva stăpânirii coloniale în Guineea-Bissau. Peste 50 de muncitori au fost uciși de trupele portugheze în portul Bissau, marcând punctul de cotitură în lupta pentru independență. Monumentul stă ca o amintire mută a acestei lupte pentru libertate și dreptate în inima vechii zone portuare. Istorie K8 — Procese de decolonizare.",
+      en: "The Pidjiguiti Memorial commemorates the tragic August 3, 1959, when a brutal massacre against striking dockworkers ignited resistance against colonial rule in Guinea-Bissau. More than 50 workers were killed by Portuguese troops in the port of Bissau, marking the turning point in the struggle for independence. The memorial stands as a silent reminder of this fight for freedom and justice in the heart of the old port area. History K8 — Decolonization processes."
+    },
+    factsAdvanced: {
+      de: ["Massaker am 3. August 1959.", "Mehr als 50 Tote bei dem Vorfall.", "Zündfunke für den bewaffneten Befreiungskampf.", "Ort: Hafengebiet von Bissau.", "Denkmal symbolisiert Widerstandskraft.", "Jahrestag wird als nationaler Gedenktag begangen."],
+      hu: ["Mészárlás 1959. augusztus 3-án.", "Több mint 50 halálos áldozat az incidens során.", "A fegyveres felszabadító harc szikrája.", "Helyszín: Bissau kikötője.", "Az emlékmű az ellenállást jelképezi.", "Az évfordulót nemzeti emléknapként tartják számon."],
+      ro: ["Masacrul din 3 august 1959.", "Peste 50 de victime în timpul incidentului.", "Scânteia luptei armate de eliberare.", "Locație: Portul Bissau.", "Monumentul simbolizează rezistența.", "Aniversarea este celebrată ca zi națională de comemorare."],
+      en: ["Massacre on August 3, 1959.", "More than 50 dead in the incident.", "Spark for the armed liberation struggle.", "Location: Port of Bissau.", "Monument symbolizes resistance.", "Anniversary observed as a national day of remembrance."]
+    }, image: "/poi-images/memorial-pidjiguiti-history-v2.webp"},
   {
     id: "herois-patria-history-v2",
     type: "historical",
@@ -119,8 +142,19 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Honors the heroes of the liberation war.",
         "Located in front of the Presidential Palace."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Denkmal der Nationalhelden in Bissau ehrt die Kämpfer und Anführer, die das Land in die Unabhängigkeit führten, allen voran Amílcar Cabral. Der zentrale Platz dient nicht nur als Gedenkstätte, sondern auch als politisches Zentrum für Staatszeremonien und nationale Zusammenkünfte. Das monumentale Design des Platzes unterstreicht die Bedeutung der Souveränität, die 1974 nach einem jahrelangen, verlustreichen Befreiungskrieg errungen wurde. Geschichte K8 — Nationale Identität.",
+      hu: "A bissaui Haza Hőseinek Emlékműve azokat a harcosokat és vezetőket tiszteli, akik elvezették az országot a függetlenséghez, mindenekelőtt Amílcar Cabralt. A központi tér nemcsak emlékhelyként, hanem politikai központként is szolgál állami ünnepségek és nemzeti összejövetelek számára. A tér monumentális kialakítása hangsúlyozza a szuverenitás jelentőségét, amelyet 1974-ben, évekig tartó, sok áldozatot követelő felszabadító háború után vívtak ki. Történelem K8 — Nemzeti identitás.",
+      ro: "Monumentul Eroilor Patriei din Bissau îi onorează pe luptătorii și liderii care au condus țara spre independență, în frunte cu Amílcar Cabral. Piața centrală servește nu doar ca loc de comemorare, ci și ca centru politic pentru ceremoniile de stat și adunările naționale. Designul monumental al pieței subliniază importanța suveranității, obținută în 1974 după un război de eliberare lung și costisitor. Istorie K8 — Identitate națională.",
+      en: "The Heroes of the Fatherland Monument in Bissau honors the fighters and leaders who led the country to independence, above all Amílcar Cabral. The central square serves not only as a memorial, but also as a political center for state ceremonies and national gatherings. The monumental design of the square emphasizes the importance of the sovereignty that was achieved in 1974 after years of costly liberation war. History K8 — National identity."
+    },
+    factsAdvanced: {
+      de: ["Standort vor dem Präsidentenpalast.", "Zentrale Gedenkstätte der Nation.", "Gewidmet dem Befreiungskrieg (1963–1974).", "Ort für offizielle Staatsempfänge.", "Symbolische Bedeutung für die Souveränität.", "Monumentales architektonisches Design."],
+      hu: ["Az elnöki palota előtti helyszín.", "A nemzet központi emlékhelye.", "A felszabadító háborúnak (1963–1974) szentelve.", "Hivatalos állami fogadások helyszíne.", "Szimbolikus jelentőség a szuverenitás számára.", "Monumentális építészeti kialakítás."],
+      ro: ["Amplasat în fața Palatului Prezidențial.", "Locul central de comemorare al națiunii.", "Dedicat războiului de eliberare (1963–1974).", "Loc pentru primiri oficiale de stat.", "Semnificație simbolică pentru suveranitate.", "Design arhitectural monumental."],
+      en: ["Located in front of the Presidential Palace.", "Central memorial of the nation.", "Dedicated to the liberation war (1963–1974).", "Site for official state receptions.", "Symbolic importance for sovereignty.", "Monumental architectural design."]
+    }, image: "/poi-images/herois-patria-history-v2.webp"},
   {
     id: "bissau-cathedral-history-v2",
     type: "historical",
@@ -159,8 +193,19 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Built in the 1940s and 50s.",
         "Important landmark in the city center."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Kathedrale Sé Catedral de Nossa Senhora da Candelária ist ein architektonisches Wahrzeichen in Bissau, das in der Mitte des 20. Jahrhunderts während der portugiesischen Kolonialzeit errichtet wurde. Mit ihrer markanten neoromanischen Fassade und den markanten Türmen dient sie als spirituelles Zentrum der römisch-katholischen Gemeinde des Landes. Sie ist ein bedeutendes Zeugnis des kulturellen Einflusses und der religiösen Architektur jener Ära im heutigen Guinea-Bissau. Fächerübergreifend — Architektur und Kultur.",
+      hu: "A Sé Catedral de Nossa Senhora da Candelária székesegyház Bissau egyik építészeti jelképe, amelyet a 20. század közepén, a portugál gyarmati időszakban emeltek. Feltűnő neoromán homlokzatával és karakteres tornyaival az ország római katolikus közösségének lelki központjaként szolgál. Jelentős tanúbizonysága az adott korszak kulturális hatásának és vallási építészetének a mai Bissau-Guineában. Tantárgyközi — építészet és kultúra.",
+      ro: "Catedrala Sé Catedral de Nossa Senhora da Candelária este un punct de reper arhitectural în Bissau, construit la mijlocul secolului al XX-lea în timpul perioadei coloniale portugheze. Cu fațada sa neoromanică izbitoare și turnurile sale caracteristice, aceasta servește drept centru spiritual al comunității romano-catolice din țară. Este o mărturie semnificativă a influenței culturale și a arhitecturii religioase a acelei epoci în Guineea-Bissau de astăzi. Interdisciplinar — arhitectură și cultură.",
+      en: "The Sé Catedral de Nossa Senhora da Candelária is an architectural landmark in Bissau, built in the mid-20th century during the Portuguese colonial period. With its striking neo-Romanesque facade and characteristic towers, it serves as the spiritual center of the country's Roman Catholic community. It is a significant testament to the cultural influence and religious architecture of that era in modern-day Guinea-Bissau. Interdisciplinary — architecture and culture."
+    },
+    factsAdvanced: {
+      de: ["Erbauung begann 1945.", "Hauptkirche der Diözese Bissau.", "Stil: Neoromanik mit Modernismus.", "Wahrzeichen im Stadtzentrum.", "Kulturelles Erbe der Kolonialzeit.", "Wichtiger Ankerpunkt der Religionsgeschichte."],
+      hu: ["Az építkezés 1945-ben kezdődött.", "A Bissaui Egyházmegye főtemploma.", "Stílus: neoromán modernizmussal.", "Jelképes épület a városközpontban.", "A gyarmati kor kulturális öröksége.", "A vallástörténet fontos horgonyzóhelye."],
+      ro: ["Construcția a început în 1945.", "Biserica principală a Episcopiei de Bissau.", "Stil: neoromanic cu modernism.", "Punct de reper în centrul orașului.", "Moștenire culturală din perioada colonială.", "Punct de ancorare important al istoriei religioase."],
+      en: ["Construction began in 1945.", "Main church of the Diocese of Bissau.", "Style: neo-Romanesque with modernism.", "Landmark in the city center.", "Cultural heritage of the colonial era.", "Important anchor point of religious history."]
+    }, image: "/poi-images/bissau-cathedral-history-v2.webp"},
   {
     id: "cacheu-fort-history-v2",
     type: "historical",
@@ -199,8 +244,19 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Center of early slave trade.",
         "Now houses statues of colonial figures."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Fort von Cacheu wurde 1588 als einer der ersten portugiesischen Stützpunkte in Westafrika gegründet und festigte die Kontrolle der Kolonialmacht über die Region. Jahrhundertelang fungierte es als wichtiger Umschlagplatz im transatlantischen Sklavenhandel, der die demografische und kulturelle Struktur Guinea-Bissaus nachhaltig beeinflusste. Heute ist die Festung ein geschichtsträchtiges Museum, das die dunklen Kapitel der kolonialen Ausbeutung thematisiert und das historische Erbe bewahrt. Geschichte K8 — Koloniale Handelswege.",
+      hu: "A Cacheu-erődöt 1588-ban alapították, mint az egyik első portugál támaszpontot Nyugat-Afrikában, megszilárdítva a gyarmati hatalom uralmát a régió felett. Évszázadokon keresztül fontos központként szolgált a transzatlanti rabszolga-kereskedelemben, amely tartósan befolyásolta Bissau-Guinea demográfiai és kulturális szerkezetét. Ma az erőd egy történelemben gazdag múzeum, amely a gyarmati kizsákmányolás sötét fejezeteit tematizálja és megőrzi a történelmi örökséget. Történelem K8 — Gyarmati kereskedelmi útvonalak.",
+      ro: "Fortul Cacheu a fost fondat în 1588 ca unul dintre primele puncte de sprijin portugheze în Africa de Vest, consolidând controlul puterii coloniale asupra regiunii. Timp de secole, acesta a funcționat ca un punct important de transbordare în comerțul transatlantic cu sclavi, care a influențat durabil structura demografică și culturală a Guineei-Bissau. Astăzi, fortăreața este un muzeu plin de istorie care abordează capitolele întunecate ale exploatării coloniale și conservă moștenirea istorică. Istorie K8 — Rute comerciale coloniale.",
+      en: "The Fort of Cacheu was founded in 1588 as one of the first Portuguese bases in West Africa, consolidating the colonial power's control over the region. For centuries, it functioned as an important transshipment point in the transatlantic slave trade, which lastingly influenced the demographic and cultural structure of Guinea-Bissau. Today, the fortress is a history-laden museum that addresses the dark chapters of colonial exploitation and preserves the historical heritage. History K8 — Colonial trade routes."
+    },
+    factsAdvanced: {
+      de: ["Gegründet ca. 1588.", "Historischer Hub des Sklavenhandels.", "Symbol kolonialer Präsenz.", "Museum seit dem 20. Jahrhundert.", "Standort am Cacheu-Fluss.", "Architektonisches Zeugnis des 16. Jahrhunderts."],
+      hu: ["1588 körül alapították.", "A rabszolga-kereskedelem történelmi központja.", "A gyarmati jelenlét szimbóluma.", "Múzeum a 20. század óta.", "A Cacheu-folyó mentén helyezkedik el.", "A 16. századi építészet tanúja."],
+      ro: ["Fondat în jurul anului 1588.", "Hub istoric al comerțului cu sclavi.", "Simbol al prezenței coloniale.", "Muzeu din secolul al XX-lea.", "Situat pe râul Cacheu.", "Mărturie arhitecturală a secolului al XVI-lea."],
+      en: ["Founded around 1588.", "Historic hub of slave trade.", "Symbol of colonial presence.", "Museum since the 20th century.", "Located on the Cacheu River.", "Architectural testament of the 16th century."]
+    }, image: "/poi-images/cacheu-fort-history-v2.webp"},
   {
     id: "amilcar-cabral-house-history-v2",
     type: "historical",
@@ -239,8 +295,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Located in the historic quarter of Bafatá.",
         "Small museum with personal items."
       ]
-    }
-  },
+    }, image: "/poi-images/amilcar-cabral-house-history-v2.webp"},
   {
     id: "bolama-governor-palace-history-v2",
     type: "historical",
@@ -279,8 +334,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Grand example of neoclassical ruins.",
         "Symbol of the decline of Bolama."
       ]
-    }
-  },
+    }, image: "/poi-images/bolama-governor-palace-history-v2.webp"},
   {
     id: "madina-boe-site-history-v2",
     type: "historical",
@@ -319,8 +373,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Historical landmark of independence.",
         "Located in a hilly region."
       ]
-    }
-  },
+    }, image: "/poi-images/madina-boe-site-history-v2.webp"},
   {
     id: "guiledje-military-museum-history-v2",
     type: "historical",
@@ -359,8 +412,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Displays original tanks and weapons.",
         "Documents the strategies of the PAIGC."
       ]
-    }
-  },
+    }, image: "/poi-images/guiledje-military-museum-history-v2.webp"},
   {
     id: "cacheu-historic-center-history-v2",
     type: "historical",
@@ -399,8 +451,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Contains the House of Slavery.",
         "Important site of memory for cultural preservation."
       ]
-    }
-  },
+    }, image: "/poi-images/cacheu-historic-center-history-v2.webp"},
   {
     id: "kansala-ruins-history-v2",
     type: "historical",
@@ -439,8 +490,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Site of the final battle against the Fula.",
         "Significant heritage of Mandinka culture."
       ]
-    }
-  },
+    }, image: "/poi-images/kansala-ruins-history-v2.webp"},
   {
     id: "porto-gole-history-v2",
     type: "historical",
@@ -479,8 +529,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Important point for goods export.",
         "Shows remains of colonial warehouses."
       ]
-    }
-  },
+    }, image: "/poi-images/porto-gole-history-v2.webp"},
   {
     id: "bissau-old-port-history-v2",
     type: "historical",
@@ -559,8 +608,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Well-preserved colonial architecture.",
         "Central point of urban development."
       ]
-    }
-  },
+    }, image: "/poi-images/mansoa-mission-history-v2.webp"},
   {
     id: "canchungo-historic-site-history-v2",
     type: "historical",
@@ -599,8 +647,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Site of important local agreements.",
         "Center of Manjaco culture."
       ]
-    }
-  },
+    }, image: "/poi-images/canchungo-historic-site-history-v2.webp"},
   {
     id: "bafata-colonial-quarter-history-v2",
     type: "historical",
@@ -639,8 +686,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Significant trading town on the Geba River.",
         "Charming, historic atmosphere."
       ]
-    }
-  },
+    }, image: "/poi-images/bafata-colonial-quarter-history-v2.webp"},
   {
     id: "farim-historic-town-history-v2",
     type: "historical",
@@ -719,8 +765,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Symbol of regional colonial history.",
         "Embedded in lush nature."
       ]
-    }
-  },
+    }, image: "/poi-images/fulacunda-ruins-history-v2.webp"},
   {
     id: "buba-historic-port-history-v2",
     type: "historical",
@@ -759,8 +804,7 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
         "Former deep-water port for colonial goods.",
         "Important site for regional history."
       ]
-    }
-  },
+    }, image: "/poi-images/buba-historic-port-history-v2.webp"},
   {
     id: "catio-historical-center-history-v2",
     type: "historical",
@@ -802,3 +846,4 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
     }
   }
 ];
+

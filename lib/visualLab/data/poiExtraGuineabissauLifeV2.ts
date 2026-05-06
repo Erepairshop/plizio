@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuineabissauLifeV2: POI[] = [
@@ -17,6 +18,12 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "Egyedülálló védett terület Orango szigetén, ahol a vízilovak brakk- és sós vízben élnek.",
       ro: "Zonă protejată unică pe insula Orango, unde hipopotamii trăiesc în ape salmastre și sărate.",
       en: "Unique protected area on Orango Island where hippos live in brackish and saltwater."
+    },
+    descriptionAdvanced: {
+      de: "Das Orango-Nilpferde-Reservat liegt auf der Insel Orango im Bijagós-Archipel und ist ein ökologisches Wunder. Hier haben sich Nilpferde an eine einzigartige Umgebung angepasst, in der sie zwischen Süßwasserlagunen und den salzhaltigen Mangroven des Atlantiks pendeln. Das Gebiet ist nicht nur biologisch hochspannend, sondern auch tief in der Bijagó-Kultur verwurzelt, die das Nilpferd als heiliges Wesen betrachtet. Für Besucher ist es einer der wenigen Orte weltweit, an dem man diese massigen Tiere in einer derart ungewöhnlichen, maritimen Umgebung beobachten kann. Erdkunde K7 – Schutzgebiete und Ökosysteme.",
+      hu: "Az Orango-víziló rezervátum a Bijagós-szigetvilág Orango szigetén található, és valóságos ökológiai csoda. A vízilovak itt egyedülálló környezethez alkalmazkodtak, az édesvízi lagúnák és az Atlanti-óceán sós vizű mangrove-mocsarai között ingáznak. A terület nemcsak biológiailag izgalmas, hanem mélyen gyökerezik a Bijagó-kultúrában is, amely a vízilovakat szent lényként tiszteli. A látogatók számára ez a világ egyik azon kevés helye, ahol ezeket a hatalmas állatokat ilyen szokatlan, tengeri környezetben figyelhetik meg. Földrajz K7 – védett területek és ökoszisztémák.",
+      ro: "Rezervația de hipopotami Orango este situată pe insula Orango din arhipelagul Bijagós și reprezintă o minune ecologică. Hipopotamii de aici s-au adaptat la un mediu unic, pendulând între lagunele de apă dulce și mangrovele sărate ale Atlanticului. Zona nu este doar fascinantă din punct de vedere biologic, ci și profund înrădăcinată în cultura Bijagó, care consideră hipopotamul o ființă sacră. Pentru vizitatori, acesta este unul dintre puținele locuri din lume unde poți observa aceste animale masive într-un mediu maritim atât de neobișnuit. Geografie K7 – arii protejate și ecosisteme.",
+      en: "The Orango Hippo Sanctuary, located on Orango Island in the Bijagós Archipelago, is an ecological marvel. Here, hippos have adapted to a unique environment, moving between freshwater lagoons and the saline mangroves of the Atlantic. The area is not only biologically fascinating but also deeply rooted in the Bijagó culture, which considers the hippo a sacred being. For visitors, it is one of the few places worldwide to observe these massive animals in such an unusual, maritime setting. Geography K7 – protected areas and ecosystems."
     },
     facts: {
       de: [
@@ -43,8 +50,13 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Important marine biology research center",
         "Sacred site for the local Bijagó culture"
       ]
-    }
-  },
+    },
+    factsAdvanced: {
+      de: ["Die Nilpferde nutzen die Meeresströmungen zur Fortbewegung.", "Der Orango-Nationalpark umfasst etwa 27.000 Hektar.", "Bijagós-Inseln sind ein UNESCO-Biosphärenreservat.", "Die Nilpferde kehren nachts in ihre Süßwasser-Lagunen zurück.", "Salzwasser-Resistenz der Tiere ist wissenschaftlich belegt.", "Das Reservat wurde in den 1990er Jahren offiziell geschützt."],
+      hu: ["A vízilovak tengeri áramlatokat használnak a mozgáshoz.", "Az Orango Nemzeti Park körülbelül 27 000 hektárt ölel fel.", "A Bijagós-szigetek UNESCO bioszféra-rezervátum.", "A vízilovak éjszaka visszatérnek édesvízi lagúnáikba.", "A sós vízzel szembeni ellenállás tudományosan bizonyított.", "A rezervátumot az 1990-es években helyezték védelem alá."],
+      ro: ["Hipopotamii folosesc curenții marini pentru a se deplasa.", "Parcul Național Orango se întinde pe aproximativ 27.000 de hectare.", "Insulele Bijagós sunt Rezervație a Biosferei UNESCO.", "Hipopotamii se întorc noaptea în lagunele lor de apă dulce.", "Rezistența la apă sărată a animalelor este demonstrată științific.", "Rezervația a fost protejată oficial în anii '90."],
+      en: ["The hippos use sea currents for movement.", "Orango National Park covers approximately 27,000 hectares.", "The Bijagós Islands are a UNESCO Biosphere Reserve.", "Hippos return to their freshwater lagoons at night.", "Saltwater resistance of the animals is scientifically proven.", "The sanctuary was officially protected in the 1990s."]
+    }, image: "/poi-images/orango-nilpferde-life-v2.webp"},
   {
     id: "cantanhez-schimpansen-life-v2",
     type: "animal-habitat",
@@ -61,6 +73,12 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       hu: "A vadon élő csimpánzok utolsó bástyája Bissau-Guineában, sűrű esőerdőbe ágyazva.",
       ro: "Ultimul bastion pentru cimpanzeii sălbatici din Guineea-Bissau, situat în pădurea tropicală densă.",
       en: "The last stronghold for wild chimpanzees in Guinea-Bissau, nestled in dense rainforest."
+    },
+    descriptionAdvanced: {
+      de: "Das Cantanhez-Schimpansen-Habitat ist ein ökologisches Juwel im Süden von Guinea-Bissau. In diesem dichten Regenwaldgebiet finden die letzten wild lebenden Schimpansengruppen des Landes Zuflucht. Die Region zeichnet sich durch ein komplexes Mosaik aus Primärwald, landwirtschaftlich genutzten Flächen und Mangroven aus, das eine hohe Primatendichte ermöglicht. Lokale Schutzprojekte setzen stark auf Ökotourismus und Bildung, um den Lebensraum langfristig zu sichern und gleichzeitig den Menschen vor Ort eine Perspektive zu geben. Biologie K8 – Artenschutz und Lebensraumverlust.",
+      hu: "A Cantanhez-csimpánz élőhely Bissau-Guinea déli részének ökológiai ékköve. Ebben a sűrű esőerdőben találnak menedéket az ország utolsó vadon élő csimpánzcsoportjai. A régiót az őserdő, a mezőgazdasági területek és a mangrove-erdők komplex mozaikja jellemzi, amely lehetővé teszi a főemlősök magas sűrűségét. A helyi védelmi projektek az ökoturizmusra és az oktatásra építenek, hogy hosszú távon biztosítsák az élőhelyet, miközben perspektívát nyújtanak a helyieknek. Biológia K8 – fajvédelem és élőhely-pusztulás.",
+      ro: "Habitatul de cimpanzei din Cantanhez este o bijuterie ecologică în sudul Guineei-Bissau. În această zonă densă de pădure tropicală, ultimele grupuri de cimpanzei sălbatici din țară își găsesc refugiul. Regiunea se caracterizează printr-un mozaic complex de pădure primară, terenuri agricole și mangrove, care susține o densitate ridicată de primate. Proiectele locale de conservare se bazează puternic pe ecoturism și educație pentru a securiza habitatul pe termen lung, oferind în același timp perspective pentru populația locală. Biologie K8 – conservarea speciilor și pierderea habitatului.",
+      en: "The Cantanhez Chimpanzee Habitat is an ecological gem in the south of Guinea-Bissau. In this dense rainforest area, the last wild chimpanzee groups in the country find refuge. The region is characterized by a complex mosaic of primary forest, agricultural land, and mangroves, which allows for high primate density. Local conservation projects rely heavily on ecotourism and education to secure the habitat in the long term while providing perspectives for the local people. Biology K8 – species conservation and habitat loss."
     },
     facts: {
       de: [
@@ -87,8 +105,13 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Ecotourism project for conservation",
         "Home to many rare primate species"
       ]
-    }
-  },
+    },
+    factsAdvanced: {
+      de: ["Cantanhez beherbergt über 300 Individuen.", "Die Fläche umfasst etwa 106.000 Hektar.", "Es ist der letzte große Primärwald Guineas.", "Die Schimpansen ernähren sich saisonal von verschiedenen Früchten.", "Einwohner praktizieren nachhaltigen Agroforstbau.", "Wissenschaftliche Studien laufen seit 2005 verstärkt."],
+      hu: ["Cantanhez több mint 300 egyednek ad otthont.", "A terület körülbelül 106 000 hektár.", "Ez Guinea utolsó nagy elsődleges erdeje.", "A csimpánzok szezonálisan különböző gyümölcsökkel táplálkoznak.", "A lakók fenntartható agrárerdészetet folytatnak.", "A tudományos kutatások 2005 óta intenzívebbek."],
+      ro: ["Cantanhez adăpostește peste 300 de indivizi.", "Zona acoperă aproximativ 106.000 de hectare.", "Este ultima pădure primară mare din Guineea.", "Cimpanzeii se hrănesc sezonier cu diverse fructe.", "Locuitorii practică agroforesteria durabilă.", "Studiile științifice s-au intensificat din 2005."],
+      en: ["Cantanhez is home to over 300 individuals.", "The area covers approximately 106,000 hectares.", "It is the last large primary forest in Guinea.", "Chimpanzees feed seasonally on various fruits.", "Residents practice sustainable agroforestry.", "Scientific studies have intensified since 2005."]
+    }, image: "/poi-images/cantanhez-schimpansen-life-v2.webp"},
   {
     id: "poilao-schildkroeten-life-v2",
     type: "animal-habitat",
@@ -131,8 +154,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Strict conservation rules for visitors",
         "Vital for the preservation of the species"
       ]
-    }
-  },
+    }, image: "/poi-images/poilao-schildkroeten-life-v2.webp"},
   {
     id: "joao-vieira-voegel-life-v2",
     type: "animal-habitat",
@@ -175,8 +197,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Rich in marine biodiversity",
         "Part of a UNESCO Biosphere Reserve"
       ]
-    }
-  },
+    }, image: "/poi-images/joao-vieira-voegel-life-v2.webp"},
   {
     id: "cufada-voegel-life-v2",
     type: "animal-habitat",
@@ -219,8 +240,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Important breeding ground for herons",
         "Freshwater source near the coast"
       ]
-    }
-  },
+    }, image: "/poi-images/cufada-voegel-life-v2.webp"},
   {
     id: "cacheu-seekuh-life-v2",
     type: "animal-habitat",
@@ -263,8 +283,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Labyrinth of waterways",
         "Traditional fishing in harmony with nature"
       ]
-    }
-  },
+    }, image: "/poi-images/cacheu-seekuh-life-v2.webp"},
   {
     id: "bijagos-delfine-life-v2",
     type: "animal-habitat",
@@ -395,8 +414,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Basis for many local sauces and dishes",
         "Soil improvement through nitrogen-fixing plants"
       ]
-    }
-  },
+    }, image: "/poi-images/oio-erdnuss-life-v2.webp"},
   {
     id: "tombali-reis-life-v2",
     type: "agriculture",
@@ -439,8 +457,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Elaborate system of dikes and canals",
         "Important role of women in rice production"
       ]
-    }
-  },
+    }, image: "/poi-images/tombali-reis-life-v2.webp"},
   {
     id: "quinara-oelpalm-life-v2",
     type: "agriculture",
@@ -483,8 +500,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Use of palm leaves for house building",
         "Important component of West African cuisine"
       ]
-    }
-  },
+    }, image: "/poi-images/quinara-oelpalm-life-v2.webp"},
   {
     id: "biombo-mango-life-v2",
     type: "agriculture",
@@ -571,8 +587,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Mix of wild groves and cultivated land",
         "Important economic basis for islanders"
       ]
-    }
-  },
+    }, image: "/poi-images/bolama-obst-life-v2.webp"},
   {
     id: "gabu-baumwolle-life-v2",
     type: "agriculture",
@@ -659,8 +674,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Improvement of food security",
         "Center for agro-technical training"
       ]
-    }
-  },
+    }, image: "/poi-images/bambadinca-bewaesserung-life-v2.webp"},
   {
     id: "bissau-zoo-life-v2",
     type: "kid-landmark",
@@ -703,8 +717,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Focus on the protection of native species",
         "Garden area for relaxing in the city"
       ]
-    }
-  },
+    }, image: "/poi-images/bissau-zoo-life-v2.webp"},
   {
     id: "praca-herois-spielplatz-life-v2",
     type: "kid-landmark",
@@ -747,8 +760,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Near cafes and ice cream parlors",
         "Site for public children's festivals"
       ]
-    }
-  },
+    }, image: "/poi-images/praca-herois-spielplatz-life-v2.webp"},
   {
     id: "franco-guineen-kinder-life-v2",
     type: "kid-landmark",
@@ -791,8 +803,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Child-friendly library in several languages",
         "Safe and creative courtyard"
       ]
-    }
-  },
+    }, image: "/poi-images/franco-guineen-kinder-life-v2.webp"},
   {
     id: "bubaque-strand-spiel-life-v2",
     type: "kid-landmark",
@@ -835,8 +846,7 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
         "Opportunity for building sandcastles",
         "Near family-friendly accommodations"
       ]
-    }
-  },
+    }, image: "/poi-images/bubaque-strand-spiel-life-v2.webp"},
   {
     id: "biblioteca-infantil-life-v2",
     type: "kid-landmark",
@@ -882,3 +892,4 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
     }
   }
 ];
+

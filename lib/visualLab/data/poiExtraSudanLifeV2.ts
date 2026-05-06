@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSudanLifeV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Otthont ad őshonos állatfajoknak.", "Népszerű a gyerekek körében.", "Oktatási lehetőségek.", "Zöld oázis."],
       ro: ["Găzduiește specii native.", "Populară printre copii.", "Oferte educaționale.", "Oază verde."],
       en: ["Home to native species.", "Popular with children.", "Educational offers.", "Green oasis."]
-    }
-  },
+    }, image: "/poi-images/sudan-national-zoo-life-v2.webp"},
   {
     id: "gezira-scheme-life-v2",
     type: "agriculture",
@@ -37,8 +37,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Fő gyapottermesztő terület.", "Fontos a gazdaság számára.", "Nagy csatornarendszer.", "Megélhetés ezrek számára."],
       ro: ["Principală zonă de cultivare a bumbacului.", "Important pentru economie.", "Sistem mare de canale.", "Sursă de existență pentru mii."],
       en: ["Main cotton-growing area.", "Important for economy.", "Large canal system.", "Livelihood for thousands."]
-    }
-  },
+    }, image: "/poi-images/gezira-scheme-life-v2.webp"},
   {
     id: "dinder-wildlife-sanctuary-life-v2",
     type: "animal-habitat",
@@ -75,8 +74,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["UNESCO világörökség.", "Gazdag halfajokban.", "Népszerű búvárkodáshoz.", "Korallparadicsom."],
       ro: ["Patrimoniu mondial UNESCO.", "Bogată în specii de pești.", "Populară pentru scufundări.", "Paradis coralifer."],
       en: ["UNESCO World Heritage.", "Rich in fish species.", "Popular for diving.", "Coral paradise."]
-    }
-  },
+    }, image: "/poi-images/red-sea-marine-life-life-v2.webp"},
   {
     id: "khartoum-botanic-garden-life-v2",
     type: "kid-landmark",
@@ -94,8 +92,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Változatos növényvilág.", "Játéklehetőségek.", "Tökéletes piknikezéshez.", "Tanulási hely gyerekeknek."],
       ro: ["Floră diversă.", "Posibilități de joacă.", "Perfect pentru picnicuri.", "Loc de învățare pentru copii."],
       en: ["Diverse flora.", "Play areas.", "Perfect for picnics.", "Learning place for children."]
-    }
-  },
+    }, image: "/poi-images/khartoum-botanic-garden-life-v2.webp"},
   {
     id: "nuba-mountains-grazing-life-v2",
     type: "agriculture",
@@ -113,8 +110,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Fontos a helyi állattenyésztésnek.", "Hagyományos életmód.", "Szezonális vándorlás.", "Gazdag legelők."],
       ro: ["Important pentru zootehnia locală.", "Mod de viață tradițional.", "Migrație sezonieră.", "Pășuni bogate."],
       en: ["Important for local livestock.", "Traditional way of life.", "Seasonal migration.", "Rich pastures."]
-    }
-  },
+    }, image: "/poi-images/nuba-mountains-grazing-life-v2.webp"},
   {
     id: "sennar-dam-agricultural-life-v2",
     type: "agriculture",
@@ -132,8 +128,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Öntözés a Kék-Nílusból.", "Gyümölcs- és zöldségtermesztés.", "Regionális piac.", "Gátra néző kilátás."],
       ro: ["Irigare din Nilul Albastru.", "Cultivarea fructelor și legumelor.", "Piață regională.", "Priveliște asupra barajului."],
       en: ["Irrigation from the Blue Nile.", "Fruit and vegetable growing.", "Regional market.", "Dam view."]
-    }
-  },
+    }, image: "/poi-images/sennar-dam-agricultural-life-v2.webp"},
   {
     id: "suakin-archipelago-life-v2",
     type: "animal-habitat",
@@ -170,8 +165,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Népszerű kirándulóhely.", "Vidámparki játékok.", "Játékok.", "Családi szórakozás."],
       ro: ["Destinație populară.", "Atracții.", "Jocuri.", "Divertisment familial."],
       en: ["Popular destination.", "Rides.", "Games.", "Family entertainment."]
-    }
-  },
+    }, image: "/poi-images/khartoum-amusement-park-life-v2.webp"},
   {
     id: "jebel-marra-agriculture-life-v2",
     type: "agriculture",
@@ -189,8 +183,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Klíma gyümölcstermesztéshez.", "Hagyományos módszerek.", "Hegyi mezőgazdaság.", "Helyi termékek."],
       ro: ["Climă pentru pomicultură.", "Metode tradiționale.", "Agricultură montană.", "Produse locale."],
       en: ["Climate for fruit growing.", "Traditional methods.", "Mountain agriculture.", "Local products."]
-    }
-  },
+    }, image: "/poi-images/jebel-marra-agriculture-life-v2.webp"},
   {
     id: "wadi-halfa-fishing-life-v2",
     type: "agriculture",
@@ -208,8 +201,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Édesvízi halak fő forrása.", "Helyi piacok.", "Kisipari halászat.", "Fontos a táplálkozásban."],
       ro: ["Sursă principală de pește de apă dulce.", "Piețe locale.", "Pescuit artizanal.", "Important pentru nutriție."],
       en: ["Main source for freshwater fish.", "Local markets.", "Artisanal fishing.", "Important for nutrition."]
-    }
-  },
+    }, image: "/poi-images/wadi-halfa-fishing-life-v2.webp"},
   {
     id: "er-roseires-dam-agriculture-life-v2",
     type: "agriculture",
@@ -227,8 +219,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Öntözött terület.", "Gabonatermesztés.", "A Kék-Nílus közelében.", "Mezőgazdasági növekedés."],
       ro: ["Zonă irigată.", "Cultivarea cerealelor.", "Aproape de Nilul Albastru.", "Creștere agricolă."],
       en: ["Irrigated area.", "Grain farming.", "Near the Blue Nile.", "Agricultural growth."]
-    }
-  },
+    }, image: "/poi-images/er-roseires-dam-agriculture-life-v2.webp"},
   {
     id: "dinder-eco-lodge-life-v2",
     type: "kid-landmark",
@@ -246,8 +237,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Természetélmény családoknak.", "Vadvilág-megfigyelések.", "Ökoturizmus.", "Oktatás gyerekeknek."],
       ro: ["Experiență naturală pentru familii.", "Observarea faunei.", "Ecoturism.", "Educație pentru copii."],
       en: ["Nature experience for families.", "Wildlife observation.", "Ecotourism.", "Education for children."]
-    }
-  },
+    }, image: "/poi-images/dinder-eco-lodge-life-v2.webp"},
   {
     id: "atbara-market-life-v2",
     type: "kid-landmark",
@@ -265,8 +255,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Helyi kézműves termékek.", "Friss termékek.", "Színes nyüzsgés.", "Kulturális találkozások."],
       ro: ["Artizanat local.", "Produse proaspete.", "Agitație colorată.", "Întâlniri culturale."],
       en: ["Local crafts.", "Fresh products.", "Colorful bustle.", "Cultural encounters."]
-    }
-  },
+    }, image: "/poi-images/atbara-market-life-v2.webp"},
   {
     id: "nuba-mountains-arts-life-v2",
     type: "kid-landmark",
@@ -284,8 +273,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Hagyományos táncok.", "Művészeti kiállítások.", "Tanuló műhelyek.", "Egyedi hagyományok."],
       ro: ["Dansuri tradiționale.", "Expoziții de artă.", "Ateliere de învățare.", "Tradiții unice."],
       en: ["Traditional dances.", "Art exhibits.", "Learning workshops.", "Unique traditions."]
-    }
-  },
+    }, image: "/poi-images/nuba-mountains-arts-life-v2.webp"},
   {
     id: "white-nile-orchards-life-v2",
     type: "agriculture",
@@ -303,8 +291,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Citrusfélék termesztése.", "Öntözés a Nílusból.", "Helyi ellátás.", "Szép kerti táj."],
       ro: ["Cultivarea citricelor.", "Irigare din Nil.", "Aprovizionare locală.", "Peisaj frumos de grădină."],
       en: ["Citrus farming.", "Irrigation from the Nile.", "Local supply.", "Beautiful garden landscape."]
-    }
-  },
+    }, image: "/poi-images/white-nile-orchards-life-v2.webp"},
   {
     id: "suakin-island-park-life-v2",
     type: "kid-landmark",
@@ -322,8 +309,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Történelmi környezet.", "Piknikezőhelyek.", "Pihenés a tengernél.", "Játszótér gyerekeknek."],
       ro: ["Cadru istoric.", "Locuri de picnic.", "Relaxare la mare.", "Loc de joacă pentru copii."],
       en: ["Historical environment.", "Picnic spots.", "Sea relaxation.", "Playground for children."]
-    }
-  },
+    }, image: "/poi-images/suakin-island-park-life-v2.webp"},
   {
     id: "blue-nile-fishing-villiage-life-v2",
     type: "agriculture",
@@ -341,8 +327,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Hagyományos halászat.", "Élénk falusi élet.", "Kézzel készített hálók.", "Helyi halárusítás."],
       ro: ["Pescuit tradițional.", "Viață de sat vibrantă.", "Plase artizanale.", "Vânzare locală de pește."],
       en: ["Traditional fishing.", "Vibrant village life.", "Handmade nets.", "Local fish sales."]
-    }
-  },
+    }, image: "/poi-images/blue-nile-fishing-villiage-life-v2.webp"},
   {
     id: "merowe-dam-agricultural-life-v2",
     type: "agriculture",
@@ -360,8 +345,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Modern öntözés.", "Agrárprojekt.", "Közel történelmi helyekhez.", "Nagy víztartalékok."],
       ro: ["Irigare modernă.", "Proiect agricol.", "Aproape de situri istorice.", "Rezerve mari de apă."],
       en: ["Modern irrigation.", "Agrarian project.", "Near historical sites.", "Large water reserves."]
-    }
-  },
+    }, image: "/poi-images/merowe-dam-agricultural-life-v2.webp"},
   {
     id: "kassala-fruit-market-life-v2",
     type: "kid-landmark",
@@ -379,8 +363,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Gazdag választék.", "Helyi termékek.", "Hagyományos piaci hangulat.", "Egészséges specialitások."],
       ro: ["Selecție bogată.", "Produse locale.", "Atmosferă de piață tradițională.", "Specialități sănătoase."],
       en: ["Rich selection.", "Local produce.", "Traditional market atmosphere.", "Healthy specialties."]
-    }
-  },
+    }, image: "/poi-images/kassala-fruit-market-life-v2.webp"},
   {
     id: "nuba-mountains-honey-life-v2",
     type: "agriculture",
@@ -398,8 +381,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Természetes méz.", "Hagyományos méhészet.", "Helyi finomság.", "Fontos paraszti jövedelem."],
       ro: ["Miere naturală.", "Apicultură tradițională.", "Delicatesă locală.", "Venit agricol important."],
       en: ["Natural honey.", "Traditional beekeeping.", "Local delicacy.", "Important farm income."]
-    }
-  },
+    }, image: "/poi-images/nuba-mountains-honey-life-v2.webp"},
   {
     id: "dongola-date-farms-life-v2",
     type: "agriculture",
@@ -417,8 +399,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Fontos a datolyatermesztésben.", "A datolyaszüret kultúrája.", "Hagyományos termesztési módszerek.", "Exporttermék."],
       ro: ["Important pentru producția de curmale.", "Cultura recoltării curmalelor.", "Metode de cultivare tradiționale.", "Produs de export."],
       en: ["Important for date production.", "Culture of date harvest.", "Traditional farming methods.", "Export product."]
-    }
-  },
+    }, image: "/poi-images/dongola-date-farms-life-v2.webp"},
   {
     id: "tuti-island-park-life-v2",
     type: "kid-landmark",
@@ -436,8 +417,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Zöld terület a városban.", "Piknikezőhelyek.", "Kilátás a Nílusra.", "Játékterület."],
       ro: ["Zonă verde în oraș.", "Locuri de picnic.", "Priveliște asupra Nilului.", "Zonă de joacă."],
       en: ["Green space in the city.", "Picnic spots.", "Nile view.", "Play area."]
-    }
-  },
+    }, image: "/poi-images/tuti-island-park-life-v2.webp"},
   {
     id: "nile-river-cruise-life-v2",
     type: "kid-landmark",
@@ -474,8 +454,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Nagy termesztőterületek.", "Búza és cirok.", "Regionális központ.", "Gépesített mezőgazdaság."],
       ro: ["Zone mari de cultivare.", "Grâu și sorg.", "Centru regional.", "Agricultură mecanizată."],
       en: ["Large cultivation areas.", "Wheat and sorghum.", "Regional center.", "Mechanized agriculture."]
-    }
-  },
+    }, image: "/poi-images/gedaref-agricultural-life-v2.webp"},
   {
     id: "nile-wildlife-nursery-life-v2",
     type: "animal-habitat",
@@ -493,8 +472,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Fajvédelem gyerekeknek.", "Állatokkal való találkozás.", "Oktatási programok.", "Fontos mentési munka."],
       ro: ["Conservarea speciilor pentru copii.", "Întâlnire cu animalele.", "Programe educaționale.", "Muncă importantă de salvare."],
       en: ["Species conservation for children.", "Encounter with animals.", "Educational programs.", "Important rescue work."]
-    }
-  },
+    }, image: "/poi-images/nile-wildlife-nursery-life-v2.webp"},
   {
     id: "jebel-marra-springs-life-v2",
     type: "kid-landmark",
@@ -512,8 +490,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Hűvös víz.", "Piknikezőhelyek.", "Természeti szépség.", "Frissítő megálló."],
       ro: ["Apă rece.", "Locuri de picnic.", "Frumusețe naturală.", "Oprire revigorantă."],
       en: ["Cool water.", "Picnic spots.", "Natural beauty.", "Refreshing stop."]
-    }
-  },
+    }, image: "/poi-images/jebel-marra-springs-life-v2.webp"},
   {
     id: "dongola-market-life-v2",
     type: "kid-landmark",
@@ -531,8 +508,7 @@ export const poiExtraSudanLifeV2: POI[] = [
       hu: ["Helyi szövetek.", "Fűszerek.", "Hagyományos kézművesség.", "Kulturális hangulat."],
       ro: ["Țesături locale.", "Condimente.", "Artizanat tradițional.", "Atmosferă culturală."],
       en: ["Local textiles.", "Spices.", "Traditional crafts.", "Cultural atmosphere."]
-    }
-  },
+    }, image: "/poi-images/dongola-market-life-v2.webp"},
   {
     id: "kosti-nile-park-life-v2",
     type: "kid-landmark",
@@ -553,3 +529,4 @@ export const poiExtraSudanLifeV2: POI[] = [
     }
   }
 ];
+

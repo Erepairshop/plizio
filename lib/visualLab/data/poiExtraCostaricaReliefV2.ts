@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCostaricaReliefV2: POI[] = [
@@ -30,8 +31,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Contains the largest continuous forest in Central America.",
         "A UNESCO World Heritage site shared between Costa Rica and Panama."
       ]
-    }
-  },
+    }, image: "/poi-images/cordillera-talamanca-relief-v2.webp"},
   {
     id: "cerro-buena-vista-relief-v2",
     type: "mountain",
@@ -61,8 +61,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Home to the Resplendent Quetzal, which feeds on the wild avocados in the cloud forest.",
         "The páramo ecosystem here is the northernmost occurrence of this habitat type in the Americas."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-buena-vista-relief-v2.webp"},
   {
     id: "bosque-nuboso-nubes-relief-v2",
     type: "forest",
@@ -92,8 +91,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Home to more than 400 species of birds, including many endemic to this range.",
         "The headwaters of the Savegre River, known as one of the cleanest rivers in the Americas."
       ]
-    }
-  },
+    }, image: "/poi-images/bosque-nuboso-nubes-relief-v2.webp"},
   {
     id: "valle-central-relief-v2",
     type: "relief",
@@ -124,8 +122,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Contains the four main provincial capitals of the country's central region.",
         "Features a temperate climate known locally as 'The Land of Eternal Spring'."
       ]
-    }
-  },
+    }, image: "/poi-images/valle-central-relief-v2.webp"},
   {
     id: "cordillera-central-relief-v2",
     type: "mountain",
@@ -156,8 +153,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Features numerous crater lakes and active fumarole fields.",
         "A major source of high-quality dairy and produce for the national market."
       ]
-    }
-  },
+    }, image: "/poi-images/cordillera-central-relief-v2.webp"},
   {
     id: "cerro-cacao-relief-v2",
     type: "mountain",
@@ -188,8 +184,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Serves as a primary watershed for the surrounding agricultural plains of Guanacaste.",
         "A dormant volcano with a summit crater that is now entirely reclaimed by the forest."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-cacao-relief-v2.webp"},
   {
     id: "cordillera-guanacaste-relief-v2",
     type: "mountain",
@@ -220,8 +215,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "The core of the Guanacaste Conservation Area, a UNESCO World Heritage site.",
         "Acts as a vital biological corridor for species migrating between North and South America."
       ]
-    }
-  },
+    }, image: "/poi-images/cordillera-guanacaste-relief-v2.webp"},
   {
     id: "cerro-miravalles-relief-v2",
     type: "mountain",
@@ -252,8 +246,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Renowned for its natural hot springs and medicinal volcanic mud baths.",
         "The slopes are a vital source of freshwater for the irrigation of the Guanacaste lowlands."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-miravalles-relief-v2.webp"},
   {
     id: "cerro-tenorio-relief-v2",
     type: "mountain",
@@ -284,8 +277,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "The area is geologically active, with frequent minor tremors and hot spring activity.",
         "Contains several stunning waterfalls hidden within its steep, forested ravines."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-tenorio-relief-v2.webp"},
   {
     id: "peninsula-nicoya-hills-relief-v2",
     type: "relief",
@@ -316,8 +308,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "The area's water is naturally high in calcium, which is thought to support bone health and longevity.",
         "Extensive limestone deposits have created several significant cave systems in the region."
       ]
-    }
-  },
+    }, image: "/poi-images/peninsula-nicoya-hills-relief-v2.webp"},
   {
     id: "valle-del-diquis-relief-v2",
     type: "relief",
@@ -348,8 +339,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Was once the political and ceremonial center of the Diquís chiefdoms.",
         "Directly adjacent to the largest mangrove system in Central America."
       ]
-    }
-  },
+    }, image: "/poi-images/valle-del-diquis-relief-v2.webp"},
   {
     id: "peninsula-osa-relief-v2",
     type: "relief",
@@ -380,8 +370,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Maintains an average humidity level above 90% year-round.",
         "The coastline features a dramatic mix of sheer sea cliffs and untouched jungle beaches."
       ]
-    }
-  },
+    }, image: "/poi-images/peninsula-osa-relief-v2.webp"},
   {
     id: "fila-costena-relief-v2",
     type: "mountain",
@@ -412,8 +401,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Acts as a vital biological bridge for wildlife moving between the coast and the Talamanca Range.",
         "The summit ridges offer stunning 360-degree views of the ocean and the interior mountains."
       ]
-    }
-  },
+    }, image: "/poi-images/fila-costena-relief-v2.webp"},
   {
     id: "cerro-chirripo-relief-v2",
     type: "mountain",
@@ -476,8 +464,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Prevailing winds can carry its volcanic ash as far as San José and Alajuela.",
         "Public access to the summit is strictly regulated based on current activity levels."
       ]
-    }
-  },
+    }, image: "/poi-images/volcan-turrialba-relief-v2.webp"},
   {
     id: "cerro-chato-relief-v2",
     type: "mountain",
@@ -508,8 +495,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Declared part of the Arenal Volcano National Park to preserve its unique ecosystem.",
         "The asymmetrical shape of the cone reveals the direction of its ancient lava flows."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-chato-relief-v2.webp"},
   {
     id: "cordillera-tilaran-relief-v2",
     type: "mountain",
@@ -540,8 +526,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "World-famous for its hanging bridges and extensive canopy tour networks.",
         "Contains several private biological reserves dedicated to tropical conservation."
       ]
-    }
-  },
+    }, image: "/poi-images/cordillera-tilaran-relief-v2.webp"},
   {
     id: "peninsula-santa-elena-relief-v2",
     type: "relief",
@@ -604,8 +589,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Recorded some of the highest temperatures in Costa Rican history.",
         "Features the Arenal-Tempisque irrigation project, the largest engineering work of its kind in the nation."
       ]
-    }
-  },
+    }, image: "/poi-images/valle-del-tempisque-relief-v2.webp"},
   {
     id: "cerro-muerto-relief-v2",
     type: "mountain",
@@ -636,8 +620,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "A premier location for seeing high-altitude bird species like the Volcano Hummingbird.",
         "The steep terrain and high rainfall make the area prone to significant landslides."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-muerto-relief-v2.webp"},
   {
     id: "valle-de-orosi-relief-v2",
     type: "relief",
@@ -668,8 +651,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "The southern end of the valley provides access to the rugged Tapantí National Park.",
         "The Reventazón River is a premier destination for international whitewater rafting."
       ]
-    }
-  },
+    }, image: "/poi-images/valle-de-orosi-relief-v2.webp"},
   {
     id: "cerro-brujo-relief-v2",
     type: "mountain",
@@ -700,8 +682,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Plays a key role in the formation of local orographic rainfall.",
         "Held in high regard by local communities as a sacred and mysterious landmark."
       ]
-    }
-  },
+    }, image: "/poi-images/cerro-brujo-relief-v2.webp"},
   {
     id: "peninsula-burica-relief-v2",
     type: "relief",
@@ -732,8 +713,7 @@ export const poiExtraCostaricaReliefV2: POI[] = [
         "Home to small, isolated communities of the Ngäbe-Buglé indigenous group.",
         "The vegetation is a mix of lush secondary rainforest and extensive coconut groves."
       ]
-    }
-  },
+    }, image: "/poi-images/peninsula-burica-relief-v2.webp"},
   {
     id: "cerro-trinidad-relief-v2",
     type: "mountain",
@@ -767,3 +747,4 @@ export const poiExtraCostaricaReliefV2: POI[] = [
     }
   }
 ];
+

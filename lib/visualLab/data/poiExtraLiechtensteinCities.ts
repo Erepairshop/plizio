@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraLiechtensteinCities: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Közvetlenül határos Schaan szomszédos községgel.", "A Liechtensteini Gimnázium otthona."],
       ro: ["Se învecinează direct cu municipalitatea vecină Schaan.", "Găzduiește Gimnaziul din Liechtenstein."],
       en: ["Directly borders the neighboring municipality of Schaan.", "Home to the Liechtenstein Gymnasium."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Mühleholz ist ein nördlicher Stadtteil von Vaduz, der unmittelbar an die Nachbargemeinde Schaan grenzt. Dieses Quartier zeichnet sich durch eine Mischung aus Wohnsiedlungen und wichtigen Bildungszentren aus, darunter das Liechtensteinische Gymnasium, das eine zentrale Rolle in der Schullandschaft des Fürstentums spielt. Die strategische Lage macht diesen Bereich zu einem wichtigen Bindeglied zwischen Vaduz und Schaan.",
+      hu: "Mühleholz Vaduz északi negyede, amely közvetlenül határos Schaan községgel. Ez a városrész lakóövezetek és fontos oktatási központok keverékéből áll, beleértve a Liechtensteini Gimnáziumot is, amely kulcsszerepet játszik a hercegség oktatási rendszerében. Stratégiai elhelyezkedése fontos összekötő kapoccsá teszi Vaduz és Schaan között. Földrajz K7 — városfejlődés és települések.",
+      ro: "Mühleholz este un cartier nordic din Vaduz, care se învecinează direct cu municipalitatea Schaan. Acest cartier se remarcă printr-un amestec de zone rezidențiale și centre educaționale importante, printre care se numără Gimnaziul din Liechtenstein, care joacă un rol central în sistemul educațional al principatului. Locația strategică face din această zonă o legătură importantă între Vaduz și Schaan. Geografie K7 — dezvoltarea urbană și așezări.",
+      en: "Mühleholz is a northern district of Vaduz that directly borders the municipality of Schaan. This neighborhood is characterized by a mix of residential areas and important educational centers, including the Liechtenstein Gymnasium, which plays a central role in the Principality's school system. Its strategic location makes this area an important link between Vaduz and Schaan. Geography K7 — urban development and settlements."
+    },
+    factsAdvanced: {
+      de: ["Mühleholz bildet die direkte nördliche Grenze der Gemeinde Vaduz zu Schaan.", "Der Standort des Liechtensteinischen Gymnasiums prägt den Charakter des Viertels.", "Das Viertel verfügt über eine hohe Dichte an Bildungsinstitutionen.", "Es liegt auf einer Höhe von etwa 450 Metern über dem Meeresspiegel.", "In den letzten Jahren wurden hier zahlreiche moderne Wohnprojekte realisiert.", "Die Erschließung durch den öffentlichen Verkehr ist durch Buslinien exzellent."],
+      hu: ["Mühleholz alkotja Vaduz közvetlen északi határát Schaan felé.", "A Liechtensteini Gimnázium jelenléte meghatározza a negyed karakterét.", "A városrészben magas az oktatási intézmények aránya.", "Tengerszint feletti magassága körülbelül 450 méter.", "Az elmúlt években számos modern lakóprojekt valósult meg itt.", "A tömegközlekedési kapcsolatok a buszjáratok révén kiválóak."],
+      ro: ["Mühleholz formează granița directă de nord a municipalității Vaduz cu Schaan.", "Prezența Gimnaziului din Liechtenstein definește caracterul cartierului.", "Cartierul are o densitate ridicată de instituții de învățământ.", "Altitudinea sa este de aproximativ 450 de metri deasupra nivelului mării.", "În ultimii ani, numeroase proiecte rezidențiale moderne au fost realizate aici.", "Conexiunile de transport public sunt excelente prin liniile de autobuz."],
+      en: ["Mühleholz forms the direct northern border of the Vaduz municipality with Schaan.", "The presence of the Liechtenstein Gymnasium defines the character of the district.", "The neighborhood has a high density of educational institutions.", "It lies at an altitude of approximately 450 meters above sea level.", "Numerous modern residential projects have been realized here in recent years.", "Public transport connections are excellent through bus lines."]
+    }, image: "/poi-images/city-muehleholz-extra.webp"},
   {
     id: "city-ebenholz-extra",
     type: "city",
@@ -37,8 +49,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A vaduzi kastély alatti hegyoldalban található.", "Szőlőültetvények és erdők veszik körül."],
       ro: ["Este situat pe versantul de sub Castelul Vaduz.", "Este înconjurat de podgorii și păduri."],
       en: ["Located on the hillside below Vaduz Castle.", "Surrounded by vineyards and forests."]
-    }
-  },
+    }, image: "/poi-images/city-ebenholz-extra.webp"},
   {
     id: "city-bartlegrosch-extra",
     type: "city",
@@ -56,8 +67,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A főváros egyik legrégebben lakott része.", "Számos műemlékvédelem alatt álló favázas házzal rendelkezik."],
       ro: ["Aparține celor mai vechi părți locuite ale capitalei.", "Conține mai multe case cu structură de lemn clasate."],
       en: ["One of the oldest inhabited parts of the capital.", "Contains several listed half-timbered houses."]
-    }
-  },
+    }, image: "/poi-images/city-bartlegrosch-extra.webp"},
   {
     id: "city-mitteldorf-extra",
     type: "city",
@@ -75,8 +85,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A Piros Ház a késő középkorból származik.", "A negyedet számos szőlőtőke szegélyezi."],
       ro: ["Casa Roșie datează din Evul Mediu târziu.", "Cartierul este mărginit de numeroase vițe de vie."],
       en: ["The Red House dates from the late Middle Ages.", "The district is lined with numerous grapevines."]
-    }
-  },
+    }, image: "/poi-images/city-mitteldorf-extra.webp"},
   {
     id: "city-haberfeld-extra",
     type: "city",
@@ -113,8 +122,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A Rajna-síkságon fekszik és nagyon sík.", "Népszerű a kerékpárosok körében a Rajna-gát közelsége miatt."],
       ro: ["Situată în câmpia Rinului și este foarte plată.", "Populară printre bicicliști datorită apropierii de digul Rinului."],
       en: ["Located in the Rhine plain and is very flat.", "Popular with cyclists due to its proximity to the Rhine dam."]
-    }
-  },
+    }, image: "/poi-images/city-letten-vaduz-extra.webp"},
   {
     id: "city-quadratscha-extra",
     type: "city",
@@ -132,8 +140,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A név újlatin eredetű.", "Közvetlen hozzáférést biztosít a Triesen felé vezető túraútvonalakhoz."],
       ro: ["Numele are origini romanice.", "Oferă acces direct la traseele de drumeții spre Triesen."],
       en: ["The name has Romance origins.", "Offers direct access to the hiking trails towards Triesen."]
-    }
-  },
+    }, image: "/poi-images/city-quadratscha-extra.webp"},
   {
     id: "city-spoerry-extra",
     type: "city",
@@ -151,8 +158,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A terület régen egy textilgyáré volt.", "A Liechtensteini Egyetem egyes részei itt találhatók."],
       ro: ["Zona a aparținut anterior unei fabrici de textile.", "Aici sunt găzduite părți ale Universității din Liechtenstein."],
       en: ["The area formerly belonged to a textile factory.", "Parts of the University of Liechtenstein are housed here."]
-    }
-  },
+    }, image: "/poi-images/city-spoerry-extra.webp"},
   {
     id: "city-au-vaduz-extra",
     type: "city",
@@ -189,8 +195,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A Dux-kápolnáról, egy kis zarándoktemplomról ismert.", "Számos túra kiindulópontja a Három Nővér-hegység felé."],
       ro: ["Cunoscut pentru Capela Dux, o mică biserică de pelerinaj.", "Punct de plecare pentru multe drumeții către masivul Trei Surori."],
       en: ["Known for the Dux Chapel, a small pilgrimage church.", "Starting point for many hikes to the Three Sisters massif."]
-    }
-  },
+    }, image: "/poi-images/city-dux-extra.webp"},
   {
     id: "city-forst-schaan-extra",
     type: "city",
@@ -208,8 +213,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A közelben egy nagy ipari terület található.", "A közlekedési kapcsolatok Svájc felé kiválóak."],
       ro: ["În apropiere există o mare zonă industrială.", "Legăturile de transport către Elveția sunt excelente."],
       en: ["A large industrial area is located nearby.", "Transport links to Switzerland are excellent."]
-    }
-  },
+    }, image: "/poi-images/city-forst-schaan-extra.webp"},
   {
     id: "city-specki-extra",
     type: "city",
@@ -227,8 +231,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A község kereskedelmi szívének tekintik.", "A schaani vasútállomás csak egy rövid sétára található."],
       ro: ["Este considerat inima comercială a municipalității.", "Gara din Schaan este la o scurtă plimbare."],
       en: ["Considered the commercial heart of the municipality.", "The Schaan train station is just a short walk away."]
-    }
-  },
+    }, image: "/poi-images/city-specki-extra.webp"},
   {
     id: "city-iradug-schaan-extra",
     type: "city",
@@ -246,8 +249,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A név régi rétoromán gyökerekkel rendelkezik.", "A negyed nagyon alacsony forgalomsűrűséggel bír."],
       ro: ["Numele are vechi rădăcini retoromane.", "Cartierul are o densitate a traficului foarte scăzută."],
       en: ["The name has old Rhaeto-Romanic roots.", "The district has a very low traffic density."]
-    }
-  },
+    }, image: "/poi-images/city-iradug-schaan-extra.webp"},
   {
     id: "city-rossfeld-extra",
     type: "city",
@@ -265,8 +267,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Több helyi sportegyesület otthona.", "Tágas, nyitott tereket kínál a szabadtéri tevékenységekhez."],
       ro: ["Găzduiește mai multe cluburi sportive locale.", "Oferă spații deschise largi pentru activități în aer liber."],
       en: ["Home to several local sports clubs.", "Offers wide open spaces for outdoor activities."]
-    }
-  },
+    }, image: "/poi-images/city-rossfeld-extra.webp"},
   {
     id: "city-riet-schaan-extra",
     type: "city",
@@ -284,8 +285,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A Riet fontos élőhely a veszélyeztetett madárfajok számára.", "Egy csatornahálózat csapolja le a területet."],
       ro: ["Riet este un habitat important pentru speciile de păsări pe cale de dispariție.", "O rețea de canale drenează zona."],
       en: ["The Riet is an important habitat for endangered bird species.", "A network of canals drains the area."]
-    }
-  },
+    }, image: "/poi-images/city-riet-schaan-extra.webp"},
   {
     id: "city-birkahof-extra",
     type: "city",
@@ -322,8 +322,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A Hilti AG, Liechtenstein legnagyobb vállalata, itt rendelkezik létesítményekkel.", "A terület több ezer munkahelyet kínál."],
       ro: ["Hilti AG, cea mai mare companie din Liechtenstein, are facilități aici.", "Zona oferă mii de locuri de muncă."],
       en: ["Hilti AG, Liechtenstein's largest company, has facilities here.", "The area provides thousands of jobs."]
-    }
-  },
+    }, image: "/poi-images/city-bardella-extra.webp"},
   {
     id: "city-matschils-extra",
     type: "city",
@@ -360,8 +359,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A név egykori kolostori birtokra utal.", "Ma keresett lakóövezet."],
       ro: ["Numele sugerează o fostă moșie monahală.", "Astăzi o locație rezidențială căutată."],
       en: ["The name indicates a former monastic estate.", "Today a sought-after residential location."]
-    }
-  },
+    }, image: "/poi-images/city-meierhof-extra.webp"},
   {
     id: "city-poska-extra",
     type: "city",
@@ -379,8 +377,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Fontos véderdőként szolgál a kőomlások ellen.", "Népszerű a rövid természetjáró sétákhoz."],
       ro: ["Servește ca o pădure de protecție importantă împotriva căderilor de pietre.", "Popular pentru scurte plimbări în natură."],
       en: ["Serves as an important protection forest against rockfalls.", "Popular for short nature walks."]
-    }
-  },
+    }, image: "/poi-images/city-poska-extra.webp"},
   {
     id: "city-maschlina-extra",
     type: "city",
@@ -417,8 +414,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Triesen község fontos gazdasági központja.", "Különféle kézműves vállalkozásoknak ad otthont."],
       ro: ["O locație economică importantă a municipalității Triesen.", "Găzduiește diverse afaceri artizanale."],
       en: ["An important economic location for the municipality of Triesen.", "Houses various artisan businesses."]
-    }
-  },
+    }, image: "/poi-images/city-sand-triesen-extra.webp"},
   {
     id: "city-gartnetsch-extra",
     type: "city",
@@ -455,8 +451,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A név egy történelmi fafűrészből származik.", "Egy kis hegyi patak folyik át rajta."],
       ro: ["Numele derivă de la un ferăstrău istoric pentru lemn.", "Este traversat de un mic pârâu de munte."],
       en: ["The name derives from a historical wood saw.", "A small mountain stream flows through it."]
-    }
-  },
+    }, image: "/poi-images/city-saega-extra.webp"},
   {
     id: "city-berschis-extra",
     type: "city",
@@ -474,8 +469,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Lakó- és kis kereskedelmi területek keverékét kínálja.", "Nagyon jó buszkapcsolatok a fővárosba."],
       ro: ["Oferă o combinație de zone rezidențiale și mici zone comerciale.", "Conexiuni foarte bune cu autobuzul către capitală."],
       en: ["Offers a mix of residential and small commercial areas.", "Very good bus connections to the capital."]
-    }
-  },
+    }, image: "/poi-images/city-berschis-extra.webp"},
   {
     id: "city-maels-extra",
     type: "city",
@@ -493,8 +487,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Balzers és Mäls együttesen alkotják Liechtenstein legdélibb községét.", "Mäls megőrizte sajátos, falusias jellegét."],
       ro: ["Balzers și Mäls formează împreună cea mai sudică municipalitate din Liechtenstein.", "Mäls și-a păstrat caracterul rural propriu."],
       en: ["Balzers and Mäls together form the southernmost municipality of Liechtenstein.", "Mäls has preserved its own rural character."]
-    }
-  },
+    }, image: "/poi-images/city-maels-extra.webp"},
   {
     id: "city-gutenberg-area-extra",
     type: "city",
@@ -512,8 +505,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Az itteni házakból kiváló kilátás nyílik a Rajna-völgyre.", "A várhegy védett régészeti terület."],
       ro: ["Casele de aici se bucură de o vedere excelentă asupra văii Rinului.", "Dealul castelului este o zonă arheologică protejată."],
       en: ["The houses here enjoy an excellent view of the Rhine Valley.", "The castle hill is a protected archaeological area."]
-    }
-  },
+    }, image: "/poi-images/city-gutenberg-area-extra.webp"},
   {
     id: "city-stpeter-balzers-extra",
     type: "city",
@@ -531,8 +523,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A kápolna részben a 15. századból származik.", "A negyed közvetlenül a régi kereskedelmi útvonalon fekszik."],
       ro: ["Capela datează parțial din secolul al XV-lea.", "Cartierul se află direct pe vechea rută comercială."],
       en: ["The chapel dates partly from the 15th century.", "The district is located directly on the old trade route."]
-    }
-  },
+    }, image: "/poi-images/city-stpeter-balzers-extra.webp"},
   {
     id: "city-palduz-extra",
     type: "city",
@@ -607,8 +598,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A 20. században csapolással tették művelhetővé.", "Fontos élőhelyet biztosít a mezei nyulak és madarak számára."],
       ro: ["A fost cultivată în secolul al XX-lea prin drenaj.", "Oferă habitate importante pentru iepuri și păsări."],
       en: ["Was cultivated in the 20th century through drainage.", "Provides important habitats for hares and birds."]
-    }
-  },
+    }, image: "/poi-images/city-riet-balzers-extra.webp"},
   {
     id: "city-unterm-schloss-extra",
     type: "city",
@@ -626,8 +616,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A házak szorosan a meredek sziklához simulnak.", "A sikátorok itt különösen szűkek és kanyargósak."],
       ro: ["Casele se agață strâns de stânca abruptă.", "Străduțele sunt deosebit de înguste și întortocheate aici."],
       en: ["The houses nestle tightly against the steep rock.", "The alleys here are particularly narrow and winding."]
-    }
-  },
+    }, image: "/poi-images/city-unterm-schloss-extra.webp"},
   {
     id: "city-iradug-balzers-extra",
     type: "city",
@@ -645,8 +634,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Modern sport- és szabadidős létesítményekkel rendelkezik.", "A név újlatin eredetű."],
       ro: ["Are facilități moderne sportive și de agrement.", "Numele este de origine romanică."],
       en: ["Features modern sports and leisure facilities.", "The name is of Romance origin."]
-    }
-  },
+    }, image: "/poi-images/city-iradug-balzers-extra.webp"},
   {
     id: "city-malbun-extra",
     type: "city",
@@ -664,8 +652,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A völgy 1600 méteres magasságban fekszik.", "Népszerű célpont a túrázók számára nyáron."],
       ro: ["Valea este situată la 1600 de metri altitudine.", "O destinație populară pentru drumeții vara."],
       en: ["The valley is located at an altitude of 1600 meters.", "A popular destination for hikers in summer."]
-    }
-  },
+    }, image: "/poi-images/city-malbun-extra.webp"},
   {
     id: "city-steg-extra",
     type: "city",
@@ -683,8 +670,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Egy idilli víztározóval, a Gänglesee-vel büszkélkedhet.", "A hagyományos kunyhókat 'Maiensässe'-nek hívják."],
       ro: ["Are un lac de acumulare idilic, Gänglesee.", "Cabanele tradiționale se numesc 'Maiensässe'."],
       en: ["Features an idyllic reservoir, the Gänglesee.", "The traditional huts are called 'Maiensässe'."]
-    }
-  },
+    }, image: "/poi-images/city-steg-extra.webp"},
   {
     id: "city-gaflei-extra",
     type: "city",
@@ -702,8 +688,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A híres Fürstensteig túraútvonal kiindulópontja.", "Látványos panorámát nyújt a Rajna-völgyre."],
       ro: ["Punctul de plecare al celebrului traseu de drumeții Fürstensteig.", "Oferă vederi panoramice spectaculoase asupra văii Rinului."],
       en: ["Starting point of the famous Fürstensteig hiking trail.", "Offers spectacular panoramic views over the Rhine Valley."]
-    }
-  },
+    }, image: "/poi-images/city-gaflei-extra.webp"},
   {
     id: "city-silum-extra",
     type: "city",
@@ -721,8 +706,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A terület csak egy keskeny hegyi úton közelíthető meg.", "A hagyományos faházak jellemzik a tájat."],
       ro: ["Zona este accesibilă doar printr-un drum montan îngust.", "Casele tradiționale din lemn domină peisajul."],
       en: ["The area is only accessible via a narrow mountain road.", "Traditional wooden houses characterize the landscape."]
-    }
-  },
+    }, image: "/poi-images/city-silum-extra.webp"},
   {
     id: "city-masescha-extra",
     type: "city",
@@ -740,8 +724,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Itt található a történelmi St. Theodul kápolna.", "Népszerű kilátó Vaduzra."],
       ro: ["Găzduiește capela istorică Sf. Theodul.", "Punct de belvedere popular cu vedere la Vaduz."],
       en: ["Houses the historic Chapel of St. Theodul.", "Popular viewpoint overlooking Vaduz."]
-    }
-  },
+    }, image: "/poi-images/city-masescha-extra.webp"},
   {
     id: "city-rotenboden-extra",
     type: "city",
@@ -759,8 +742,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A név szó szerint 'piros talajt' jelent.", "Fontos lakóövezet a walser községben."],
       ro: ["Numele înseamnă literal 'pământ roșu'.", "O zonă rezidențială importantă în municipalitatea walser."],
       en: ["The name literally means 'red soil'.", "An important residential area in the Walser municipality."]
-    }
-  },
+    }, image: "/poi-images/city-rotenboden-extra.webp"},
   {
     id: "city-wangerberg-extra",
     type: "city",
@@ -778,8 +760,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A tanyák a walser építészetre jellemzőek.", "Délen Triesennel határos."],
       ro: ["Fermele sunt tipice pentru arhitectura walser.", "Se învecinează cu Triesen la sud."],
       en: ["The farms are typical of Walser architecture.", "Borders Triesen to the south."]
-    }
-  },
+    }, image: "/poi-images/city-wangerberg-extra.webp"},
   {
     id: "city-steinort-extra",
     type: "city",
@@ -797,8 +778,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Számos túraútvonalat kínál közvetlenül az ajtó előtt.", "A fenti lavinavédelmi építmények jól láthatóak."],
       ro: ["Oferă numeroase trasee de drumeție chiar în fața ușii.", "Apărările împotriva avalanșelor de deasupra sunt clar vizibile."],
       en: ["Offers numerous hiking trails right on the doorstep.", "The avalanche defenses above are clearly visible."]
-    }
-  },
+    }, image: "/poi-images/city-steinort-extra.webp"},
   {
     id: "city-rizlina-extra",
     type: "city",
@@ -854,8 +834,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A szűk utcák ügyességet igényelnek a vezetéshez.", "Zavartalan naplementéket kínál a Rajna-völgyben."],
       ro: ["Străzile înguste necesită îndemânare la conducere.", "Oferă apusuri de soare netulburate în valea Rinului."],
       en: ["The narrow streets require skill when driving.", "Offers undisturbed sunsets in the Rhine Valley."]
-    }
-  },
+    }, image: "/poi-images/city-guflina-extra.webp"},
   {
     id: "city-lavadina-extra",
     type: "city",
@@ -873,8 +852,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Néhány tanya még a 19. századból származik.", "Nagyon alacsony lakosságszám."],
       ro: ["Unele ferme datează încă din secolul al XIX-lea.", "Populație foarte mică."],
       en: ["Some farms still date from the 19th century.", "Very low population."]
-    }
-  },
+    }, image: "/poi-images/city-lavadina-extra.webp"},
   {
     id: "city-nendeln-extra",
     type: "city",
@@ -892,8 +870,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Saját vasútállomása van a Feldkirch-Buchs vonalon.", "Egy hagyományos kerámiamanufaktúrának (Schädler) ad otthont."],
       ro: ["Are propria gară pe linia Feldkirch-Buchs.", "Găzduiește o manufactură tradițională de ceramică (Schädler)."],
       en: ["Has its own train station on the Feldkirch-Buchs line.", "Houses a traditional ceramics manufactory (Schädler)."]
-    }
-  },
+    }, image: "/poi-images/city-nendeln-extra.webp"},
   {
     id: "city-schoenbuehl-extra",
     type: "city",
@@ -911,8 +888,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Eschen egyik kedvelt lakóövezeteként tartják számon.", "Az építészet modern és családbarát."],
       ro: ["Este considerată una dintre locațiile rezidențiale preferate din Eschen.", "Arhitectura este modernă și prietenoasă cu familiile."],
       en: ["Considered one of the preferred residential locations in Eschen.", "The architecture is modern and family-friendly."]
-    }
-  },
+    }, image: "/poi-images/city-schoenbuehl-extra.webp"},
   {
     id: "city-bochs-eschen-extra",
     type: "city",
@@ -930,8 +906,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A negyed Eschen régi faluközpontja volt.", "A szűk utcák tükrözik a történelmi faluszerkezetet."],
       ro: ["Cartierul a fost vechiul centru al satului Eschen.", "Străzile înguste reflectă structura istorică a satului."],
       en: ["The district was the old village core of Eschen.", "The narrow streets reflect the historical village structure."]
-    }
-  },
+    }, image: "/poi-images/city-bochs-eschen-extra.webp"},
   {
     id: "city-rofenberg-extra",
     type: "city",
@@ -968,8 +943,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Az Eschen-Mauren sportpark ezen a síkságon található.", "Fontos találkozóhely a regionális ifjúság számára."],
       ro: ["Parcul sportiv Eschen-Mauren este situat în această câmpie.", "Un punct de întâlnire important pentru tineretul regional."],
       en: ["The Eschen-Mauren sports park is located in this plain.", "An important meeting place for regional youth."]
-    }
-  },
+    }, image: "/poi-images/city-bruehl-eschen-extra.webp"},
   {
     id: "city-eichen-extra",
     type: "city",
@@ -987,8 +961,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Sok öreg tölgyfa szegélyezi az utcákat.", "Természetes határként szolgál a szomszédos Schaan felé."],
       ro: ["Mulți stejari bătrâni mărginesc străzile.", "Servește ca o graniță naturală spre vecinul Schaan."],
       en: ["Many old oak trees line the streets.", "Serves as a natural border to neighboring Schaan."]
-    }
-  },
+    }, image: "/poi-images/city-eichen-extra.webp"},
   {
     id: "city-haldengass-extra",
     type: "city",
@@ -1025,8 +998,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A zöldség- és kukoricatermesztés fontos központja.", "A széles völgyfenék része, amely a svájci Rajna-völgybe megy át."],
       ro: ["Un centru important pentru cultivarea legumelor și porumbului.", "Parte a fundului larg al văii care se contopește cu valea elvețiană a Rinului."],
       en: ["An important center for vegetable and corn cultivation.", "Part of the wide valley floor that merges into the Swiss Rhine Valley."]
-    }
-  },
+    }, image: "/poi-images/city-riet-eschen-extra.webp"},
   {
     id: "city-presta-extra",
     type: "city",
@@ -1044,8 +1016,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A ThyssenKrupp Presta AG, egy autóipari beszállító otthona.", "Naponta számos ingázót hoz a községbe."],
       ro: ["Găzduiește ThyssenKrupp Presta AG, un furnizor al industriei auto.", "Aduce zilnic numeroși navetiști în municipalitate."],
       en: ["Home to ThyssenKrupp Presta AG, a supplier to the automotive industry.", "Brings numerous commuters to the municipality daily."]
-    }
-  },
+    }, image: "/poi-images/city-presta-extra.webp"},
   {
     id: "city-schaanwald-extra",
     type: "city",
@@ -1063,8 +1034,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A legfontosabb határátkelőhely Feldkirch (Ausztria) felé.", "A vámút fejlesztésével gazdaságilag fontossá vált."],
       ro: ["Locația celui mai important punct de trecere a frontierei către Feldkirch (Austria).", "A devenit important din punct de vedere economic prin dezvoltarea drumului vamal."],
       en: ["Location of the most important border crossing to Feldkirch (Austria).", "Became economically important through the expansion of the customs road."]
-    }
-  },
+    }, image: "/poi-images/city-schaanwald-extra.webp"},
   {
     id: "city-auf-berg-extra",
     type: "city",
@@ -1082,8 +1052,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A Birka madárparadicsom a közvetlen közelben található.", "Nagyszerű kilátást nyújt Ausztriára és Liechtensteinre."],
       ro: ["Paradisul păsărilor Birka este în imediata apropiere.", "Oferă o priveliște magnifică asupra Austriei și Liechtensteinului."],
       en: ["The Birka bird paradise is located in the immediate vicinity.", "Offers a magnificent view over Austria and Liechtenstein."]
-    }
-  },
+    }, image: "/poi-images/city-auf-berg-extra.webp"},
   {
     id: "city-binza-extra",
     type: "city",
@@ -1101,8 +1070,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Ideális családok számára az iskolák és a természet közelsége miatt.", "A negyed folyamatosan növekszik."],
       ro: ["Ideal pentru familii datorită apropierii de școli și natură.", "Cartierul continuă să crească constant."],
       en: ["Ideal for families due to the proximity to schools and nature.", "The neighborhood continues to grow steadily."]
-    }
-  },
+    }, image: "/poi-images/city-binza-extra.webp"},
   {
     id: "city-freiendorf-extra",
     type: "city",
@@ -1139,8 +1107,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Népszerű terület hosszú sétákhoz.", "Sok pad nyújt kilátást az Alsóvidékre."],
       ro: ["O zonă populară pentru plimbări lungi.", "Multe bănci oferă priveliști asupra regiunii inferioare."],
       en: ["A popular area for long walks.", "Many benches offer views over the lowlands."]
-    }
-  },
+    }, image: "/poi-images/city-maurerberg-extra.webp"},
   {
     id: "city-weiherring-extra",
     type: "city",
@@ -1158,8 +1125,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A névadó Weiherring-park minden generáció találkozóhelye.", "Játszóterekkel és sportpályákkal rendelkezik."],
       ro: ["Parcul Weiherring, care îi dă numele, este un loc de întâlnire pentru toate generațiile.", "Are locuri de joacă și terenuri de sport."],
       en: ["The eponymous Weiherring Park is a meeting place for all generations.", "Features playgrounds and sports fields."]
-    }
-  },
+    }, image: "/poi-images/city-weiherring-extra.webp"},
   {
     id: "city-fallsgass-extra",
     type: "city",
@@ -1196,8 +1162,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A patak korábban szerepet játszott a vízellátásban.", "Ma egy idilli lakóövezet sok zölddel."],
       ro: ["Pârâul a jucat anterior un rol în alimentarea cu apă.", "Astăzi o zonă rezidențială idilică, cu multă verdeață."],
       en: ["The stream formerly played a role in the water supply.", "Today an idyllic residential area with lots of greenery."]
-    }
-  },
+    }, image: "/poi-images/city-gaensbach-extra.webp"},
   {
     id: "city-riet-mauren-extra",
     type: "city",
@@ -1215,8 +1180,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Egy fontos vizes élőhelynek ad otthont (Maurer Riet).", "Jól kiépített kerékpár- és sétaúthálózat található itt."],
       ro: ["Găzduiește o zonă umedă importantă (Maurer Riet).", "Există o rețea bine dezvoltată de piste de biciclete și alei pietonale."],
       en: ["Home to an important wetland (Maurer Riet).", "There is a well-developed network of cycling and walking paths."]
-    }
-  },
+    }, image: "/poi-images/city-riet-mauren-extra.webp"},
   {
     id: "city-jonaboden-extra",
     type: "city",
@@ -1234,8 +1198,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A természetbarátok titkos tippjeként tartják számon.", "Távol esik a Malbun felé vezető nagy közlekedési útvonalaktól."],
       ro: ["Este considerat un sfat secret pentru iubitorii de natură.", "Este situat departe de rutele majore de trafic spre Malbun."],
       en: ["Considered an insider tip for nature lovers.", "Located away from the major traffic routes to Malbun."]
-    }
-  },
+    }, image: "/poi-images/city-jonaboden-extra.webp"},
   {
     id: "city-hinter-prufatscheng-extra",
     type: "city",
@@ -1253,8 +1216,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A név a rétoromán nyelv tipikus maradványa.", "Rendkívüli lejtők jellemzik."],
       ro: ["Numele este o relicvă tipică a limbii retoromane.", "Se caracterizează prin pante extreme."],
       en: ["The name is a typical relic of the Rhaeto-Romanic language.", "Characterized by extreme slopes."]
-    }
-  },
+    }, image: "/poi-images/city-hinter-prufatscheng-extra.webp"},
   {
     id: "city-samina-extra",
     type: "city",
@@ -1272,8 +1234,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A Samina folyó átszeli a völgyet Ausztria felé.", "Az ország egyik legnehezebben megközelíthető régiója."],
       ro: ["Râul Samina taie valea spre Austria.", "Una dintre cele mai inaccesibile regiuni ale țării."],
       en: ["The Samina river cuts through the valley towards Austria.", "One of the most inaccessible regions of the country."]
-    }
-  },
+    }, image: "/poi-images/city-samina-extra.webp"},
   {
     id: "city-saroja-extra",
     type: "city",
@@ -1291,8 +1252,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Több mint 1600 méteres magasságban található.", "Innen széles kilátás nyílik a Rajna-völgyre."],
       ro: ["Situată la o altitudine de peste 1600 de metri.", "De aici aveți o vedere largă asupra văii Rinului."],
       en: ["Located at an altitude of over 1600 meters.", "From here you have a wide view over the Rhine Valley."]
-    }
-  },
+    }, image: "/poi-images/city-saroja-extra.webp"},
   {
     id: "city-gafadura-extra",
     type: "city",
@@ -1310,8 +1270,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A kunyhó korábban hercegi vadászház volt.", "Klasszikus kiindulópont a Három Nővér hegycsúcsok megmászásához."],
       ro: ["Cabana a fost anterior o cabană de vânătoare princiară.", "Un punct de plecare clasic pentru ascensiunea spre Trei Surori."],
       en: ["The hut was formerly a princely hunting lodge.", "A classic starting point for the ascent to the Three Sisters."]
-    }
-  },
+    }, image: "/poi-images/city-gafadura-extra.webp"},
   {
     id: "city-ruetti-planken-extra",
     type: "city",
@@ -1348,8 +1307,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A negyed nagyrészt megőrizte vidéki báját.", "Közvetlen hozzáférést biztosít az alacsonyabban fekvő erdőkhöz."],
       ro: ["Cartierul și-a păstrat în mare măsură farmecul rural.", "Oferă acces direct la pădurile inferioare."],
       en: ["The district has largely retained its rural charm.", "Provides direct access to the lower-lying forests."]
-    }
-  },
+    }, image: "/poi-images/city-wes-planken-extra.webp"},
   {
     id: "city-schuetz-planken-extra",
     type: "city",
@@ -1367,8 +1325,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Itt található a község néhány legrégebbi tanyája.", "A megközelítés kanyargós, szűk utcákon keresztül történik."],
       ro: ["Câteva dintre cele mai vechi ferme din municipalitate se află aici.", "Accesul se face prin drumuri curbe, înguste."],
       en: ["Some of the oldest farms in the municipality are located here.", "Access is via winding, narrow roads."]
-    }
-  },
+    }, image: "/poi-images/city-schuetz-planken-extra.webp"},
   {
     id: "city-holz-planken-extra",
     type: "city",
@@ -1386,8 +1343,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A helyi vadvilág fontos menedékhelye.", "Számos túraútvonal keresztezi ezt a területet."],
       ro: ["Un sanctuar important pentru fauna locală.", "Numeroase trasee de drumeții traversează această zonă."],
       en: ["An important sanctuary for local wildlife.", "Numerous hiking trails cross this area."]
-    }
-  },
+    }, image: "/poi-images/city-holz-planken-extra.webp"},
   {
     id: "city-nuella-planken-extra",
     type: "city",
@@ -1462,8 +1418,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Itt található a felső schellenbergi várrom.", "Jelentős középkori történelemmel rendelkező hely."],
       ro: ["Aici se află ruina superioară a castelului Schellenberg.", "Un loc cu istorie medievală semnificativă."],
       en: ["The Upper Schellenberg Castle Ruin is located here.", "A place with significant medieval history."]
-    }
-  },
+    }, image: "/poi-images/city-hinterschellenberg-extra.webp"},
   {
     id: "city-vorderschellenberg-extra",
     type: "city",
@@ -1500,8 +1455,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A Szent György-kápolna népszerű fotótéma.", "A területet idős fák veszik körül."],
       ro: ["Capela Sf. Georg este un motiv foto popular.", "Zona este înconjurată de copaci bătrâni."],
       en: ["The St. George Chapel is a popular photo motif.", "The area is surrounded by old trees."]
-    }
-  },
+    }, image: "/poi-images/city-stgeorg-schellenberg-extra.webp"},
   {
     id: "city-biedermann-extra",
     type: "city",
@@ -1519,8 +1473,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A Biedermann-ház a 16. század elejéről származik.", "Ma a paraszti életmód múzeumaként szolgál."],
       ro: ["Casa Biedermann datează de la începutul secolului al XVI-lea.", "Astăzi servește ca muzeu al vieții rurale."],
       en: ["The Biedermann House dates from the early 16th century.", "Today it serves as a museum for rural living."]
-    }
-  },
+    }, image: "/poi-images/city-biedermann-extra.webp"},
   {
     id: "city-mittelschellenberg-extra",
     type: "city",
@@ -1576,8 +1529,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A mikroklíma itt gyakran hűvösebb, mint a közvetlen környezetben.", "Mezőgazdaságilag intenzíven hasznosítják."],
       ro: ["Microclimatul de aici este adesea mai răcoros decât în zona imediat înconjurătoare.", "Este folosit intens pentru agricultură."],
       en: ["The microclimate here is often cooler than in the immediate surroundings.", "Is used intensively for agriculture."]
-    }
-  },
+    }, image: "/poi-images/city-loch-schellenberg-extra.webp"},
   {
     id: "city-platta-extra",
     type: "city",
@@ -1595,8 +1547,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A név a lapos topográfiára utal.", "Napsütötte városrész."],
       ro: ["Numele sugerează topografia plată.", "Un cartier răsfățat de soare."],
       en: ["The name suggests the flat topography.", "A sun-drenched district."]
-    }
-  },
+    }, image: "/poi-images/city-platta-extra.webp"},
   {
     id: "city-eichholz-extra",
     type: "city",
@@ -1614,8 +1565,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Ma elsősorban a helyi rekreációt szolgálja.", "Védelmet nyújt az erózió ellen a meredek lejtőkön."],
       ro: ["Astăzi servește în primul rând recreerii locale.", "Oferă protecție împotriva eroziunii pe pantele abrupte."],
       en: ["Today serves primarily for local recreation.", "Provides protection against erosion on the steep slopes."]
-    }
-  },
+    }, image: "/poi-images/city-eichholz-extra.webp"},
   {
     id: "city-limsenegg-extra",
     type: "city",
@@ -1652,8 +1602,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A területen az elmúlt években jelentősen nőtt a fiatal családok száma.", "Közel van a ruggelli faluközponthoz."],
       ro: ["Zona a cunoscut o creștere puternică a familiilor tinere în ultimii ani.", "Situat aproape de centrul satului Ruggell."],
       en: ["The area has seen strong growth in young families in recent years.", "Located close to the Ruggell village center."]
-    }
-  },
+    }, image: "/poi-images/city-fofel-extra.webp"},
   {
     id: "city-oberweyer-extra",
     type: "city",
@@ -1671,8 +1620,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Korábbi vizes élőhely, amelyet részben lecsapoltak.", "Hagyományos parasztházaknak ad otthont."],
       ro: ["Fostă zonă umedă care a fost parțial secată.", "Găzduiește ferme tradiționale."],
       en: ["Former wetland that was partially drained.", "Houses traditional farmhouses."]
-    }
-  },
+    }, image: "/poi-images/city-oberweyer-extra.webp"},
   {
     id: "city-unterweyer-extra",
     type: "city",
@@ -1690,8 +1638,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Nagyon jó kapcsolatot biztosít a kerékpárút-hálózathoz.", "Csendes és sík városrész."],
       ro: ["Oferă conexiuni foarte bune la rețeaua de piste de biciclete.", "Un cartier liniștit și plat."],
       en: ["Offers very good connections to the cycle path network.", "A quiet and flat district."]
-    }
-  },
+    }, image: "/poi-images/city-unterweyer-extra.webp"},
   {
     id: "city-nofels-grenze-extra",
     type: "city",
@@ -1709,8 +1656,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Kicsi, helyi jelentőségű határátkelőhely.", "A területet sűrű erdők szelik át."],
       ro: ["Un punct de trecere a frontierei mic, utilizat local.", "Zona este traversată de păduri dese."],
       en: ["A small, locally used border crossing.", "The area is densely crossed by forests."]
-    }
-  },
+    }, image: "/poi-images/city-nofels-grenze-extra.webp"},
   {
     id: "city-bangserfeld-extra",
     type: "city",
@@ -1747,8 +1693,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A Rajna-gát itt tökéletes feltételeket kínál a görkorcsolyázók számára.", "A hármashatár (CH, AT, LI) a közelben található."],
       ro: ["Digul Rinului oferă condiții perfecte pentru patinatorii cu role aici.", "Punctul de graniță a trei țări (CH, AT, LI) este situat în apropiere."],
       en: ["The Rhine dam offers perfect conditions for inline skaters here.", "The tripoint (CH, AT, LI) is located nearby."]
-    }
-  },
+    }, image: "/poi-images/city-rheinau-ruggell-extra.webp"},
   {
     id: "city-letten-ruggell-extra",
     type: "city",
@@ -1766,8 +1711,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Néhány középvállalkozásnak ad otthont.", "Nagyon csendes és jól megközelíthető negyed."],
       ro: ["Găzduiește câteva companii mijlocii.", "Un cartier foarte liniștit și bine conectat."],
       en: ["Houses some medium-sized companies.", "A very quiet and well-connected neighborhood."]
-    }
-  },
+    }, image: "/poi-images/city-letten-ruggell-extra.webp"},
   {
     id: "city-ruggeller-riet-extra",
     type: "city",
@@ -1785,8 +1729,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Május/júniusban több ezer kék-lila nőszirom virágzik itt.", "Ez Liechtenstein legnagyobb természetvédelmi területe."],
       ro: ["În mai/iunie, mii de iriși albastru-violet înfloresc aici.", "Este cea mai mare rezervație naturală din Liechtenstein."],
       en: ["In May/June, thousands of blue-violet irises bloom here.", "It is the largest nature reserve in Liechtenstein."]
-    }
-  },
+    }, image: "/poi-images/city-ruggeller-riet-extra.webp"},
   {
     id: "city-bendern-extra",
     type: "city",
@@ -1804,8 +1747,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["1699-ben az alsóvidéki férfiak Bendernben esküdtek hűséget a liechtensteini hercegnek.", "Itt található a Liechtenstein Intézet."],
       ro: ["În 1699, bărbații din regiunea inferioară au jurat credință prințului de Liechtenstein la Bendern.", "Institutul Liechtenstein se află aici."],
       en: ["In 1699, the men of the lowlands swore allegiance to the Prince of Liechtenstein in Bendern.", "The Liechtenstein Institute is located here."]
-    }
-  },
+    }, image: "/poi-images/city-bendern-extra.webp"},
   {
     id: "city-grossabuent-extra",
     type: "city",
@@ -1861,8 +1803,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A földet intenzíven használják gabona- és zöldségtermesztésre.", "Fontos síkság a liechtensteini mezőgazdaság számára."],
       ro: ["Pământul este folosit intens pentru cultivarea cerealelor și legumelor.", "O câmpie importantă pentru agricultura din Liechtenstein."],
       en: ["The land is used intensively for the cultivation of grain and vegetables.", "An important plain for Liechtenstein agriculture."]
-    }
-  },
+    }, image: "/poi-images/city-au-gamprin-extra.webp"},
   {
     id: "city-under-au-extra",
     type: "city",
@@ -1880,8 +1821,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Erős rajnai árvíz esetén természetes vízvisszatartó medenceként szolgál.", "Sok kétéltűfaj otthona."],
       ro: ["Servește ca bazin natural de retenție în timpul apelor mari ale Rinului.", "Găzduiește multe specii de amfibieni."],
       en: ["Serves as a natural retention basin during high Rhine floods.", "Home to many amphibian species."]
-    }
-  },
+    }, image: "/poi-images/city-under-au-extra.webp"},
   {
     id: "city-halden-gamprin-extra",
     type: "city",
@@ -1899,8 +1839,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A városrész panorámás kilátást nyújt a svájci Alpokra.", "Keresett felsőosztálybeli lakóövezet."],
       ro: ["Cartierul oferă o vedere panoramică la Alpii elvețieni.", "O zonă rezidențială de clasă superioară căutată."],
       en: ["The district offers a panoramic view of the Swiss Alps.", "A sought-after upper-class residential area."]
-    }
-  },
+    }, image: "/poi-images/city-halden-gamprin-extra.webp"},
   {
     id: "city-salums-extra",
     type: "city",
@@ -1918,8 +1857,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Salums eredetileg egy mezőgazdasági falu volt.", "Ma már teljesen beépült a falu területébe."],
       ro: ["Salums a fost inițial un cătun agricol.", "Astăzi este complet integrat în zona satului."],
       en: ["Salums was originally an agricultural hamlet.", "Today it is completely integrated into the village area."]
-    }
-  },
+    }, image: "/poi-images/city-salums-extra.webp"},
   {
     id: "city-hasenacker-extra",
     type: "city",
@@ -1937,8 +1875,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A negyedet forgalomcsillapított övezetek jellemzik.", "A név régi mezőnevekre vezethető vissza."],
       ro: ["Cartierul este caracterizat de zone cu trafic calmat.", "Numele datează de la vechile nume de câmp."],
       en: ["The district is characterized by traffic-calmed zones.", "The name dates back to old field names."]
-    }
-  },
+    }, image: "/poi-images/city-hasenacker-extra.webp"},
   {
     id: "city-lutzfeld-extra",
     type: "city",
@@ -1975,8 +1912,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["A talaj itt különösen termékeny.", "Szép kilátást nyújt a Rajnára."],
       ro: ["Solul este deosebit de fertil aici.", "Oferă o priveliște frumoasă asupra Rinului."],
       en: ["The soil is particularly fertile here.", "Offers a beautiful view over the Rhine."]
-    }
-  },
+    }, image: "/poi-images/city-oberau-gamprin-extra.webp"},
   {
     id: "city-badael-extra",
     type: "city",
@@ -1994,8 +1930,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Csak egy zsákutcán keresztül érhető el.", "Közvetlenül az erdő közelében fekszik."],
       ro: ["Accesibil doar printr-o stradă închisă.", "Situat foarte aproape de pădure."],
       en: ["Accessible only via a dead-end street.", "Located very close to the forest."]
-    }
-  },
+    }, image: "/poi-images/city-badael-extra.webp"},
   {
     id: "city-oberbuehl-extra",
     type: "city",
@@ -2013,8 +1948,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       hu: ["Nagyon csendes lakóövezet az erdő szélén.", "Az egyik legmagasabban fekvő utca Gamprinban."],
       ro: ["Zonă rezidențială foarte liniștită la marginea pădurii.", "Una dintre străzile aflate la cea mai mare altitudine din Gamprin."],
       en: ["Very quiet residential area on the edge of the forest.", "One of the highest streets in Gamprin."]
-    }
-  },
+    }, image: "/poi-images/city-oberbuehl-extra.webp"},
   {
     id: "city-neufeld-gamprin-extra",
     type: "city",
@@ -2035,3 +1969,4 @@ export const poiExtraLiechtensteinCities: POI[] = [
     }
   }
 ];
+

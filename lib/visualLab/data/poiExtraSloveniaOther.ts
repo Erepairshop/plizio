@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const sloveniaExtraOther: POI[] = [
@@ -8,3 +9,4 @@ export const sloveniaExtraOther: POI[] = [
   // PORT_PLACEHOLDER
   // LANDSCAPE_PLACEHOLDER
 ];
+

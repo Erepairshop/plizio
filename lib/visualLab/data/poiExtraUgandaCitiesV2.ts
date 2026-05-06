@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUgandaCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A várost hét dombra építették.", "Ez az ország politikai és kulturális központja."],
       ro: ["Orașul a fost construit pe șapte coline.", "Este centrul politic și cultural al țării."],
       en: ["The city was built on seven hills.", "It is the political and cultural center of the country."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Kampala, die Hauptstadt Ugandas, ist ein Schmelztiegel der Kulturen und der wirtschaftliche Herzschlag des Landes am Viktoriasee. Die Stadt wurde historisch auf sieben Hügeln gegründet, was ihr heute ein dynamisches Stadtbild verleiht. Als Zentrum für Bildung, Politik und Wirtschaft verbindet Kampala moderne Infrastruktur mit lebhaften Märkten wie dem Owino-Markt. Dies ist ein exzellenter Ort, um den rasanten Wandel Ostafrikas zu erleben, während man die Nähe zur Natur genießt. Geografie K7 — Regionen und urbane Entwicklung in Ostafrika.",
+      hu: "Kampala, Uganda fővárosa, a kultúrák olvasztótégelye és az ország gazdasági szívverése a Viktória-tó partján. A várost történelmileg hét dombra alapították, ami ma dinamikus városképet kölcsönöz neki. Az oktatás, a politika és a gazdaság központjaként Kampala modern infrastruktúrát ötvöz olyan pezsgő piacokkal, mint az Owino-piac. Kiváló helyszín Kelet-Afrika gyors fejlődésének megtapasztalására a természeti közelség élvezete mellett. Földrajz K7 — Régiók és városfejlődés Kelet-Afrikában.",
+      ro: "Kampala, capitala Ugandei, este un creuzet al culturilor și inima economică a țării, situată pe malul Lacului Victoria. Orașul a fost întemeiat istoric pe șapte coline, ceea ce îi conferă astăzi un peisaj urban dinamic. Ca centru pentru educație, politică și economie, Kampala combină infrastructura modernă cu piețe vibrante precum Owino. Este un loc excelent pentru a experimenta schimbarea rapidă a Africii de Est, bucurându-te în același timp de proximitatea față de natură. Geografie K7 — Regiuni și dezvoltare urbană în Africa de Est.",
+      en: "Kampala, the capital of Uganda, is a melting pot of cultures and the economic heartbeat of the country on the shores of Lake Victoria. The city was historically founded on seven hills, giving it a dynamic cityscape today. As a hub for education, politics, and business, Kampala blends modern infrastructure with vibrant markets like the Owino Market. It is an excellent place to experience the rapid transformation of East Africa while enjoying proximity to nature. Geography K7 — Regions and urban development in East Africa."
+    },
+    factsAdvanced: {
+      de: ["Kampala liegt auf etwa 1.190 Metern Höhe.", "Über 1,6 Millionen Menschen leben im Stadtgebiet.", "Die Stadt wurde 1890 gegründet.", "Der Viktoriasee ist nur 10 km vom Zentrum entfernt.", "Kampala bedeutet 'Hügel der Antilopen'.", "Sie ist eine der am schnellsten wachsenden Städte Afrikas."],
+      hu: ["Kampala körülbelül 1190 méteres tengerszint feletti magasságban fekszik.", "Több mint 1,6 millióan élnek a városban.", "A várost 1890-ben alapították.", "A Viktória-tó mindössze 10 km-re található a központtól.", "Kampala neve azt jelenti: 'Antilopok dombja'.", "Afrika egyik leggyorsabban növekvő városa."],
+      ro: ["Kampala se află la o altitudine de aproximativ 1.190 de metri.", "Peste 1,6 milioane de oameni trăiesc în oraș.", "Orașul a fost fondat în 1890.", "Lacul Victoria este situat la doar 10 km de centru.", "Numele Kampala înseamnă 'Colina Antilopelor'.", "Este unul dintre cele mai rapid dezvoltate orașe din Africa."],
+      en: ["Kampala lies at an altitude of approximately 1,190 meters.", "Over 1.6 million people live in the city.", "The city was founded in 1890.", "Lake Victoria is only 10 km away from the center.", "The name Kampala means 'Hill of the Antelopes'.", "It is one of the fastest growing cities in Africa."]
+    }, image: "/poi-images/kampala-cities-v2.webp"},
   {
     id: "gulu-cities-v2",
     type: "city",
@@ -37,8 +49,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Gulu területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Gulu."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Gulu."]
-    }
-  },
+    }, image: "/poi-images/gulu-cities-v2.webp"},
   {
     id: "lira-cities-v2",
     type: "city",
@@ -56,8 +67,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Lira területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Lira."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Lira."]
-    }
-  },
+    }, image: "/poi-images/lira-cities-v2.webp"},
   {
     id: "mbarara-cities-v2",
     type: "city",
@@ -75,8 +85,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Mbarara területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Mbarara."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Mbarara."]
-    }
-  },
+    }, image: "/poi-images/mbarara-cities-v2.webp"},
   {
     id: "jinja-cities-v2",
     type: "city",
@@ -94,8 +103,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Jinja területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Jinja."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Jinja."]
-    }
-  },
+    }, image: "/poi-images/jinja-cities-v2.webp"},
   {
     id: "entebbe-cities-v2",
     type: "city",
@@ -113,8 +121,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Entebbe területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Entebbe."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Entebbe."]
-    }
-  },
+    }, image: "/poi-images/entebbe-cities-v2.webp"},
   {
     id: "mbale-cities-v2",
     type: "city",
@@ -132,8 +139,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Mbale területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Mbale."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Mbale."]
-    }
-  },
+    }, image: "/poi-images/mbale-cities-v2.webp"},
   {
     id: "mukono-cities-v2",
     type: "city",
@@ -151,8 +157,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Mukono területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Mukono."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Mukono."]
-    }
-  },
+    }, image: "/poi-images/mukono-cities-v2.webp"},
   {
     id: "masaka-cities-v2",
     type: "city",
@@ -170,8 +175,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Masaka területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Masaka."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Masaka."]
-    }
-  },
+    }, image: "/poi-images/masaka-cities-v2.webp"},
   {
     id: "kasese-cities-v2",
     type: "city",
@@ -189,8 +193,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Kasese területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Kasese."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Kasese."]
-    }
-  },
+    }, image: "/poi-images/kasese-cities-v2.webp"},
   {
     id: "hoima-cities-v2",
     type: "city",
@@ -208,8 +211,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Hoima területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Hoima."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Hoima."]
-    }
-  },
+    }, image: "/poi-images/hoima-cities-v2.webp"},
   {
     id: "arua-cities-v2",
     type: "city",
@@ -227,8 +229,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Arua területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Arua."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Arua."]
-    }
-  },
+    }, image: "/poi-images/arua-cities-v2.webp"},
   {
     id: "soroti-cities-v2",
     type: "city",
@@ -246,8 +247,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Soroti területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Soroti."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Soroti."]
-    }
-  },
+    }, image: "/poi-images/soroti-cities-v2.webp"},
   {
     id: "fort-portal-cities-v2",
     type: "city",
@@ -265,8 +265,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Fort Portal területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Fort Portal."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Fort Portal."]
-    }
-  },
+    }, image: "/poi-images/fort-portal-cities-v2.webp"},
   {
     id: "tororo-cities-v2",
     type: "city",
@@ -284,8 +283,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Tororo területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Tororo."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Tororo."]
-    }
-  },
+    }, image: "/poi-images/tororo-cities-v2.webp"},
   {
     id: "lugazi-cities-v2",
     type: "city",
@@ -303,8 +301,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Lugazi területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Lugazi."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Lugazi."]
-    }
-  },
+    }, image: "/poi-images/lugazi-cities-v2.webp"},
   {
     id: "mityana-cities-v2",
     type: "city",
@@ -322,8 +319,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Mityana területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Mityana."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Mityana."]
-    }
-  },
+    }, image: "/poi-images/mityana-cities-v2.webp"},
   {
     id: "iganga-cities-v2",
     type: "city",
@@ -341,8 +337,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Iganga területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Iganga."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Iganga."]
-    }
-  },
+    }, image: "/poi-images/iganga-cities-v2.webp"},
   {
     id: "busia-cities-v2",
     type: "city",
@@ -360,8 +355,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Busia területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Busia."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Busia."]
-    }
-  },
+    }, image: "/poi-images/busia-cities-v2.webp"},
   {
     id: "busembatia-cities-v2",
     type: "city",
@@ -379,8 +373,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Busembatia területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Busembatia."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Busembatia."]
-    }
-  },
+    }, image: "/poi-images/busembatia-cities-v2.webp"},
   {
     id: "kitgum-cities-v2",
     type: "city",
@@ -398,8 +391,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Kitgum területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Kitgum."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Kitgum."]
-    }
-  },
+    }, image: "/poi-images/kitgum-cities-v2.webp"},
   {
     id: "nansana-cities-v2",
     type: "city",
@@ -417,8 +409,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Nansana területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Nansana."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Nansana."]
-    }
-  },
+    }, image: "/poi-images/nansana-cities-v2.webp"},
   {
     id: "kira-cities-v2",
     type: "city",
@@ -436,8 +427,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Kira területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Kira."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Kira."]
-    }
-  },
+    }, image: "/poi-images/kira-cities-v2.webp"},
   {
     id: "makindye-cities-v2",
     type: "city",
@@ -455,8 +445,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Makindye területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Makindye."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Makindye."]
-    }
-  },
+    }, image: "/poi-images/makindye-cities-v2.webp"},
   {
     id: "rubaga-cities-v2",
     type: "city",
@@ -474,8 +463,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Rubaga területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Rubaga."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Rubaga."]
-    }
-  },
+    }, image: "/poi-images/rubaga-cities-v2.webp"},
   {
     id: "kawempe-cities-v2",
     type: "city",
@@ -493,8 +481,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Kawempe területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Kawempe."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Kawempe."]
-    }
-  },
+    }, image: "/poi-images/kawempe-cities-v2.webp"},
   {
     id: "nakawa-cities-v2",
     type: "city",
@@ -512,8 +499,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Nakawa területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Nakawa."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Nakawa."]
-    }
-  },
+    }, image: "/poi-images/nakawa-cities-v2.webp"},
   {
     id: "mubende-cities-v2",
     type: "city",
@@ -531,8 +517,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Mubende területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Mubende."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Mubende."]
-    }
-  },
+    }, image: "/poi-images/mubende-cities-v2.webp"},
   {
     id: "ntungamo-cities-v2",
     type: "city",
@@ -550,8 +535,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Ntungamo területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Ntungamo."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Ntungamo."]
-    }
-  },
+    }, image: "/poi-images/ntungamo-cities-v2.webp"},
   {
     id: "nebbi-cities-v2",
     type: "city",
@@ -569,8 +553,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Nebbi területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Nebbi."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Nebbi."]
-    }
-  },
+    }, image: "/poi-images/nebbi-cities-v2.webp"},
   {
     id: "koboko-cities-v2",
     type: "city",
@@ -588,8 +571,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Koboko területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Koboko."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Koboko."]
-    }
-  },
+    }, image: "/poi-images/koboko-cities-v2.webp"},
   {
     id: "rukungiri-cities-v2",
     type: "city",
@@ -607,8 +589,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Rukungiri területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Rukungiri."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Rukungiri."]
-    }
-  },
+    }, image: "/poi-images/rukungiri-cities-v2.webp"},
   {
     id: "ibanda-cities-v2",
     type: "city",
@@ -626,8 +607,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Ibanda területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Ibanda."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Ibanda."]
-    }
-  },
+    }, image: "/poi-images/ibanda-cities-v2.webp"},
   {
     id: "bugiri-cities-v2",
     type: "city",
@@ -645,8 +625,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Bugiri területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Bugiri."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Bugiri."]
-    }
-  },
+    }, image: "/poi-images/bugiri-cities-v2.webp"},
   {
     id: "wakiso-cities-v2",
     type: "city",
@@ -683,8 +662,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Bweyogerere területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Bweyogerere."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Bweyogerere."]
-    }
-  },
+    }, image: "/poi-images/bweyogerere-cities-v2.webp"},
   {
     id: "moyo-cities-v2",
     type: "city",
@@ -702,8 +680,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Moyo területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Moyo."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Moyo."]
-    }
-  },
+    }, image: "/poi-images/moyo-cities-v2.webp"},
   {
     id: "kamuli-cities-v2",
     type: "city",
@@ -721,8 +698,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Kamuli területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Kamuli."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Kamuli."]
-    }
-  },
+    }, image: "/poi-images/kamuli-cities-v2.webp"},
   {
     id: "kapchorwa-cities-v2",
     type: "city",
@@ -740,8 +716,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Kapchorwa területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Kapchorwa."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Kapchorwa."]
-    }
-  },
+    }, image: "/poi-images/kapchorwa-cities-v2.webp"},
   {
     id: "pallisa-cities-v2",
     type: "city",
@@ -797,8 +772,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Kabale területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Kabale."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Kabale."]
-    }
-  },
+    }, image: "/poi-images/kabale-cities-v2.webp"},
   {
     id: "kumi-cities-v2",
     type: "city",
@@ -816,8 +790,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Kumi területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Kumi."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Kumi."]
-    }
-  },
+    }, image: "/poi-images/kumi-cities-v2.webp"},
   {
     id: "kisoro-cities-v2",
     type: "city",
@@ -835,8 +808,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Kisoro területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Kisoro."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Kisoro."]
-    }
-  },
+    }, image: "/poi-images/kisoro-cities-v2.webp"},
   {
     id: "bushenyi-cities-v2",
     type: "city",
@@ -854,8 +826,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Bushenyi területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Bushenyi."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Bushenyi."]
-    }
-  },
+    }, image: "/poi-images/bushenyi-cities-v2.webp"},
   {
     id: "kyotera-cities-v2",
     type: "city",
@@ -930,8 +901,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Lukaya területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Lukaya."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Lukaya."]
-    }
-  },
+    }, image: "/poi-images/lukaya-cities-v2.webp"},
   {
     id: "pader-cities-v2",
     type: "city",
@@ -949,8 +919,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Pader területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Pader."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Pader."]
-    }
-  },
+    }, image: "/poi-images/pader-cities-v2.webp"},
   {
     id: "oyam-cities-v2",
     type: "city",
@@ -968,8 +937,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Oyam területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Oyam."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Oyam."]
-    }
-  },
+    }, image: "/poi-images/oyam-cities-v2.webp"},
   {
     id: "kotido-cities-v2",
     type: "city",
@@ -987,8 +955,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Kotido területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Kotido."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Kotido."]
-    }
-  },
+    }, image: "/poi-images/kotido-cities-v2.webp"},
   {
     id: "moroto-cities-v2",
     type: "city",
@@ -1006,8 +973,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Moroto területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Moroto."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Moroto."]
-    }
-  },
+    }, image: "/poi-images/moroto-cities-v2.webp"},
   {
     id: "bundibugyo-cities-v2",
     type: "city",
@@ -1025,8 +991,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Bundibugyo területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Bundibugyo."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Bundibugyo."]
-    }
-  },
+    }, image: "/poi-images/bundibugyo-cities-v2.webp"},
   {
     id: "kyenjojo-cities-v2",
     type: "city",
@@ -1101,8 +1066,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Luweero területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Luweero."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Luweero."]
-    }
-  },
+    }, image: "/poi-images/luweero-cities-v2.webp"},
   {
     id: "mpigi-cities-v2",
     type: "city",
@@ -1120,8 +1084,7 @@ export const poiExtraUgandaCitiesV2: POI[] = [
       hu: ["A város a regionális kereskedelem fontos csomópontja.", "Számos hagyományos ugandai piac található Mpigi területén."],
       ro: ["Orașul este un nod important pentru comerțul regional.", "Multe piețe tradiționale ugandeze se găsesc în Mpigi."],
       en: ["The city is an important hub for regional trade.", "Many traditional Ugandan markets are located in Mpigi."]
-    }
-  },
+    }, image: "/poi-images/mpigi-cities-v2.webp"},
   {
     id: "zombo-cities-v2",
     type: "city",

@@ -1,0 +1,109 @@
+{
+  "lang": "hu",
+  "country": "brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sao-paulo-cities-v2",
+      "descriptionAdvanced": "São Paulo több mint 12 millió lakosával Brazília és egész Dél-Amerika legnagyobb metropolisza, a kontinens pénzügyi és kereskedelmi ütőere. A várost 1554-ben jezsuita misszióként alapították, de a 19. századi kávéültetvények fellendülése tette globális központtá. Ma a kulturális sokszínűség olvasztótégelye, ahol ultramodern felhőkarcolók és történelmi negyedek találkoznak. Földrajz K7 – globális megavárosok és gazdasági központok.",
+      "factsAdvanced": ["Alapítás: 1554", "Lakosság: több mint 12 millió fő", "Dél-Amerika legfontosabb pénzügyi központja", "Az Avenida Paulista a város fő ütőere", "Itt található a MASP művészeti múzeum", "A kávékereskedelem formálta építészet"]
+    },
+    {
+      "id": "rio-de-janeiro-cities-v2",
+      "descriptionAdvanced": "Rio de Janeiro, a híres 'Csodálatos Város' (Cidade Maravilhosa), Brazília egykori fővárosa, amelyet az ikonikus Megváltó Krisztus szobor és a Cukorsüveg-hegy tesz felejthetetlenné. A 16. században alapított város évszázadokon át az ország politikai és kulturális központja volt, mielőtt 1960-ban Brasília átvette volna ezt a szerepet. Ma a világhírű karneváli ünnepségek és a Copacabana strand otthona. Történelem K8 – gyarmati örökség és modern fejlődés.",
+      "factsAdvanced": ["Alapítás: 1565", "Korábbi főváros: 1763–1960", "Megváltó Krisztus-szobor: 30 méter magas", "Cukorsüveg-hegy: gránit csúcs", "Világhírű karnevál helyszíne", "UNESCO világörökségi helyszín (táj)"]
+    },
+    {
+      "id": "brasilia-cities-v2",
+      "descriptionAdvanced": "Brasília, Brazília 1960-ban átadott, modernista stílusban épült fővárosa, amelyet Oscar Niemeyer építész és Lúcio Costa várostervező álmodott meg. A város alaprajza felülről nézve egy repülőgépre vagy madárra emlékeztet, jelképezve az ország jövőbe vetett hitét. A város központja az UNESCO világörökség része, amely a modern építészet csúcsteljesítményének számít. Földrajz K7 – tervezett városok és építészet.",
+      "factsAdvanced": ["Fővárossá vált: 1960", "Építészet fő tervezője: Oscar Niemeyer", "Várostervező: Lúcio Costa", "Repülőgép alakú alaprajz", "UNESCO világörökségi védelem", "Száraz éghajlatú fennsíkon fekszik"]
+    },
+    {
+      "id": "salvador-cities-v2",
+      "descriptionAdvanced": "Salvador, Brazília első fővárosa és Bahia állam székhelye, ahol az afrikai és portugál kultúra különleges keveréke él tovább. A történelmi városrész, a Pelourinho, színes gyarmati épületeivel és macskaköves utcáival az UNESCO világörökség része. A város a brazíliai afro-kultúra és a candomblé vallás egyik legfontosabb központja, amely pezsgő éjszakai életéről híres. Történelem K8 – gyarmati Brazília.",
+      "factsAdvanced": ["Brazília első fővárosa: 1549–1763", "Pelourinho történelmi városrész", "Afro-brazil kultúra központja", "Fekvése: az Atlanti-óceán partvidéke", "Híres étele az acarajé", "UNESCO világörökségi védelem"]
+    },
+    {
+      "id": "fortaleza-cities-v2",
+      "descriptionAdvanced": "Fortaleza Ceará állam fővárosa, amely Brazília északkeleti részének egyik legnépszerűbb turisztikai és kereskedelmi központja. A város hosszú, pálmafás tengerpartjáról és a városi élet pezsgéséről ismert. A térség gazdasága a turizmus mellett a textiliparra és a mezőgazdasági termékek feldolgozására épül, fontos kikötője pedig a régió kereskedelmét szolgálja. Földrajz K6 – tengerparti régiók és gazdaság.",
+      "factsAdvanced": ["Állami székhely: Ceará", "Gazdaság: turizmus és textilipar", "Hosszú homokos strandok", "Jelentős regionális kikötő", "Forró trópusi éghajlat", "Kulturális központ"]
+    },
+    {
+      "id": "belo-horizonte-cities-v2",
+      "descriptionAdvanced": "Belo Horizonte, Minas Gerais állam fővárosa, Brazília első tervezett modern városa, amely a 19. század végén született meg Ouro Preto felváltására. A város hegyvidéki környezetben fekszik, és ismert a Pampulha-komplexumról, amely Oscar Niemeyer korai munkáit mutatja be. Ma a város fejlett technológiai és gazdasági központ, az ország bányászati régiójának szívében. Földrajz K7 – bányászat és urbanizáció.",
+      "factsAdvanced": ["Alapítás: 1897", "Pampulha modernista épületegyüttes", "Minas Gerais állam székhelye", "Jelentős bányászati régió központja", "Technológiai központ", "Hegyvidéki klíma"]
+    },
+    {
+      "id": "manaus-cities-v2",
+      "descriptionAdvanced": "Manaus az Amazonas esőerdő szívében elhelyezkedő metropolisz, amely az Amazonas és a Rio Negro folyók összefolyásánál épült. A 19. századi kaucsuk-boom idején a város mesés gazdagságra tett szert, ami az Operaház építésében is megmutatkozott. Ma Manaus fontos ipari központ és az amazóniai turizmus kapuja, ahonnan a világ legnagyobb esőerdejének természeti csodái érhetők el. Földrajz K6 – esőerdők és folyók.",
+      "factsAdvanced": ["Alapítás: 1669", "Fekvés: az Amazonas-medence szívében", "Kaucsuk-boom emlékei", "Amazonasi Operaház", "Jelentős ipari övezet", "Folyók találkozása"]
+    },
+    {
+      "id": "curitiba-cities-v2",
+      "descriptionAdvanced": "Curitiba Paraná állam székhelye, amelyet Brazília legélhetőbb és egyik legkörnyezettudatosabb városának tartanak. Az 1970-es évektől kezdve úttörő várostervezési megoldásokat vezettek be, többek között a hatékony tömegközlekedési rendszert és a nagy kiterjedésű zöldövezeteket. A város az európai bevándorlók, különösen az olasz és lengyel közösségek örökségét őrzi. Földrajz K7 – környezettudatos várostervezés.",
+      "factsAdvanced": ["Paraná állam székhelye", "Úttörő tömegközlekedési rendszer", "Sok zöldövezet és park", "Európai bevándorlók öröksége", "Környezettudatos városi modell", "Magasan fekvő városi központ"]
+    },
+    {
+      "id": "recife-cities-v2",
+      "descriptionAdvanced": "Recife Pernambuco állam fővárosa, amelyet gyakran a 'brazíliai Velencének' neveznek a számos csatorna és híd miatt, amelyek átszelik a várost. A 16. században alapított település jelentős cukoripari és kereskedelmi központ volt, történelmi negyedei pedig a holland megszállás emlékeit is őrzik. A város ma a technológiai fejlesztések és a kulturális hagyományok ötvözetét kínálja. Történelem K8 – gyarmati kereskedelem.",
+      "factsAdvanced": ["Alapítás: 1537", "'Brazíliai Velence' (sok csatorna)", "Cukoripari múlt", "Holland örökség emlékei", "Jelentős kikötőváros", "Pernambuco állam székhelye"]
+    },
+    {
+      "id": "goiania-cities-v2",
+      "descriptionAdvanced": "Goiânia Goiás állam tervezett fővárosa, amelyet 1933-ban alapítottak azzal a céllal, hogy felgyorsítsák a brazil középnyugati régió benépesítését. Art déco stílusú központja és tágas parkjai révén a város az urbanisztikai gondolkodás érdekes példája. Ma a régió mezőgazdasági és kereskedelmi központjaként ismert, modern infrastruktúrával és dinamikus növekedéssel. Földrajz K7 – tervezett városok.",
+      "factsAdvanced": ["Alapítás: 1933", "Goiás állam székhelye", "Art déco építészeti stílus", "Parkok és zöldfelületek", "Mezőgazdasági régió központja", "Dinamikus városi növekedés"]
+    },
+    {
+      "id": "belem-cities-v2",
+      "descriptionAdvanced": "Belém Pará állam fővárosa az Amazonas torkolatvidékén, a 17. században alapított város, amely gazdag gyarmati múlttal rendelkezik. A város a trópusi termékek, például az acai és a kaucsuk kereskedelmének egyik fontos állomása volt. Ma Belém nyüzsgő piacaival, mint a Ver-o-Peso, és a trópusi kultúra központjaként vonzza a látogatókat. Földrajz K6 – folyótorkolatok és kereskedelem.",
+      "factsAdvanced": ["Alapítás: 1616", "Amazonas-torkolat vidéke", "Ver-o-Peso piac", "Pará állam székhelye", "Trópusi alapanyagok központja", "Gyarmati építészeti emlékek"]
+    },
+    {
+      "id": "porto-alegre-cities-v2",
+      "descriptionAdvanced": "Porto Alegre Rio Grande do Sul állam székhelye, amely a Guahyba-tó partján fekszik, és Brazília legdélebbi nagyvárosai közé tartozik. A 18. században alapított város az európai, különösen német és olasz bevándorlók fontos központja volt. Ma Porto Alegre egy pezsgő oktatási és kulturális központ, amely az ország déli részének gazdasági növekedésében játszik kulcsszerepet. Történelem K8 – bevándorlás.",
+      "factsAdvanced": ["Alapítás: 1772", "Rio Grande do Sul állam székhelye", "Fekvése: Guahyba-tó partja", "Német és olasz bevándorlók", "Kulturális és oktatási központ", "Déli gazdasági régió"]
+    },
+    {
+      "id": "guarulhos-cities-v2",
+      "descriptionAdvanced": "Guarulhos São Paulo nagyvárosi régiójának része, amely elsősorban a hatalmas nemzetközi repülőteréről, Brazília legforgalmasabb légikikötőjéről ismert. A város dinamikusan fejlődött ipari övezeteivel, és mára São Paulo gazdasági életének szerves részévé vált. Stratégiai elhelyezkedése miatt fontos közlekedési és logisztikai központ az ország legnépesebb államában. Földrajz K6 – közlekedési csomópontok.",
+      "factsAdvanced": ["São Paulo agglomerációjának része", "Brazília legforgalmasabb repülőtere", "Jelentős logisztikai központ", "Ipari fejlesztések", "Gyorsan fejlődő városi népesség", "Stratégiai elhelyezkedés"]
+    },
+    {
+      "id": "campinas-cities-v2",
+      "descriptionAdvanced": "Campinas São Paulo állam egyik fontos ipari és technológiai központja, amely a kávétermesztés egykori fellegvárából vált modern tudományos várossá. Számos kutatóintézetnek és egyetemnek ad otthont, ami az ország innovációs törekvéseinek fontos színterévé teszi. Gazdasága a technológiai fejlesztések mellett az ipari gyártásra és a szolgáltatói szektorra támaszkodik. Földrajz K7 – innováció és technológia.",
+      "factsAdvanced": ["Gazdasági központ: São Paulo állam", "Kutatási és technológiai központ", "Egyetemi város", "Kávétermesztési múlt", "Innovatív ipari szektor", "Jelentős oktatási intézmények"]
+    },
+    {
+      "id": "sao-luis-cities-v2",
+      "descriptionAdvanced": "São Luís Maranhão állam fővárosa, amely egy szigeten fekszik, és az egyetlen brazil város, amelyet franciák alapítottak a 17. században. Történelmi központja az UNESCO világörökség része, amely híres a csempével díszített (azulejos) gyarmati épületeiről. A város a brazil kultúra, különösen a népzene és a folklór egyik különleges régiója. Történelem K8 – gyarmati örökség.",
+      "factsAdvanced": ["Alapítás: 1612 (francia)", "Maranhão állam székhelye", "UNESCO világörökségi központ", "Azulejos csempeborítások", "Népzenei hagyományok", "Szigeten fekvő város"]
+    },
+    {
+      "id": "sao-goncalo-cities-v2",
+      "descriptionAdvanced": "São Gonçalo Rio de Janeiro állam egyik sűrűn lakott városa, amely a nagyvárosi agglomeráció része, és fontos szerepet játszik a régió kereskedelmi életében. A város lakossága az elmúlt évtizedekben dinamikusan nőtt, köszönhetően az ipari és szolgáltatási szektor fejlődésének. Bár közvetlenül Rio de Janeiro mellett fekszik, São Gonçalo önálló gazdasági dinamikával bír az államon belül. Földrajz K6 – urbanizáció.",
+      "factsAdvanced": ["Rio de Janeiro nagyvárosi régiója", "Sűrűn lakott városi terület", "Ipari és kereskedelmi szektor", "Dinamikus lakosságnövekedés", "Agglomerációs központ", "Szoros kapcsolat Rio de Janeiróval"]
+    },
+    {
+      "id": "maceio-cities-v2",
+      "descriptionAdvanced": "Maceió Alagoas állam fővárosa, amelyet Brazília egyik legszebb tengerparti városának tartanak a türkizkék tengere és a korallzátonyai miatt. A város gazdasága a turizmus mellett a cukornád-feldolgozásra és a vegyiparra épül. A környező lagúnák és a trópusi éghajlat ideális úti céllá teszik a természet szerelmesei számára. Földrajz K6 – tengerparti környezet.",
+      "factsAdvanced": ["Alagoas állam székhelye", "Türkizkék tengervíz", "Korallzátonyok a közelben", "Cukornád-feldolgozás", "Vegyipari központ", "Trópusi éghajlat"]
+    },
+    {
+      "id": "duque-de-caxias-cities-v2",
+      "descriptionAdvanced": "Duque de Caxias Rio de Janeiro állam egyik fontos ipari városa, amely a nagyvárosi régió északi részén helyezkedik el. A város jelentős olajipari központ, itt található az ország egyik legnagyobb olajfinomítója, amely kulcsfontosságú szerepet játszik Brazília energetikai ellátásában. Ipari jelentősége mellett kereskedelmi központként is funkcionál az államon belül. Földrajz K7 – ipar és energia.",
+      "factsAdvanced": ["Rio de Janeiro nagyvárosi régiója", "Jelentős olajipari központ", "Az ország egyik legnagyobb olajfinomítója", "Energetikai ellátás", "Ipari és kereskedelmi csomópont", "Dinamikus városi fejlődés"]
+    },
+    {
+      "id": "campo-grande-cities-v2",
+      "descriptionAdvanced": "Campo Grande Mato Grosso do Sul állam fővárosa, amely egy fontos mezőgazdasági és állattenyésztési régió szívében található. A város az elmúlt évtizedekben gyors fejlődésen ment keresztül, modern infrastruktúrával és kiterjedt zöldövezetekkel várja a lakókat. Elhelyezkedése miatt stratégiai központ a középnyugati régió kereskedelmében és szállításában. Földrajz K7 – mezőgazdasági régiók.",
+      "factsAdvanced": ["Mato Grosso do Sul állam székhelye", "Mezőgazdasági és állattenyésztési központ", "Gyorsan fejlődő infrastruktúra", "Zöldövezetek és parkok", "Stratégiai közlekedési csomópont", "Középnyugati régió központja"]
+    },
+    {
+      "id": "natal-cities-v2",
+      "descriptionAdvanced": "Natal Rio Grande do Norte állam fővárosa, amelyet 'napos városnak' is neveznek, mivel évente több mint 300 napsütéses nap jellemzi. A város híres hatalmas dűnéiről, különösen a Genipabu-dűnékről, amelyek közkedvelt turisztikai célpontok. Gazdasága a turizmus mellett a halászatra és a gyümölcstermesztésre, különösen a kesudióra épül. Földrajz K6 – tengerparti régiók.",
+      "factsAdvanced": ["Rio Grande do Norte székhelye", "'Napos város' (sok napsütés)", "Hatalmas homokdűnék (Genipabu)", "Kesudió-termelés", "Jelentős turisztikai központ", "Halászati ipar"]
+    }
+  ]
+}

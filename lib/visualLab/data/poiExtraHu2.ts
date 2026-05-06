@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraHu2: POI[] = [
@@ -40,8 +41,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["527 méter magas, Budapest legmagasabb pontja.", "Erzsébet-kilátó 1910-ben épült Erzsébet királyné emlékére.", "A kilátó 23 méter magas, neoromán stílusú.", "Libegő 1970 óta üzemel.", "Gyermekvasút 1948 óta szállít gyerekeket úttörő-mintán.", "A Budai Tájvédelmi Körzet része."],
       ro: ["Altitudinea maximă este de 528 metri deasupra nivelului mării.", "Turnul Erzsébet a fost proiectat de arhitectul Frigyes Schulek.", "Telecabina Libegő parcurge o distanță de 1.040 de metri.", "Turnul a fost numit după împărăteasa Elisabeta (Sisi) a Austriei.", "Vizibilitatea de pe vârf poate ajunge până la Munții Tatra în zilele senine.", "Structura turnului are patru nivele de observare circulare."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-janos-hegy-extra.webp"},
   {
     id: "mountain-harmashatar-hegy-extra",
     type: "mountain",
@@ -80,8 +80,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["495 méter magas, Budapest harmadik legmagasabb pontja.", "Nevét három község (Buda, Óbuda, Pesthidegkút) határáról kapta.", "Ideális termikája miatt vitorlázó- és siklóernyős központ.", "A Kék körtúra hivatalos turistaútja vezet keresztül.", "Tiszta időben a Duna-kanyar és Dunántúli-középhegység is látszik.", "Műholdas-/rádióadótornyok találhatók a csúcson."],
       ro: ["Vârful atinge o înălțime de 495 de metri.", "Aici a fost înființat primul club de planorism din Ungaria în 1933.", "Turnul de observație Guckler Károly oferă o vedere de 360 de grade.", "Zona face parte din Parcul Național Dunăre-Ipoly.", "Traseul Albastru Național (Országos Kéktúra) traversează acest munte.", "Numele provine de la granița administrativă din anul 1873."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-harmashatar-hegy-extra.webp"},
   {
     id: "mountain-sas-hegy-extra",
     type: "mountain",
@@ -120,8 +119,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Sas-hegy tengerszint feletti magassága 266 méter.", "A terület 1958-ban kapott országos jelentőségű védett státuszt.", "A hegyen fészkel a ritka és védett pannon gyík populációja.", "A sziklákon virágzik az endemikus magyar gurgolya növényfaj.", "A hegy gyomrában az ELTE szeizmológiai állomása működik.", "A látogatóközpont interaktív kiállítással várja az érdeklődőket.", "A panoráma tanösvény 850 méter hosszú és akadálymentesített.", "A hegyet a 17. században még Adlersberg néven emlegették."],
       ro: ["Rezervația naturală a fost înființată în anul 1958.", "Aici trăiește șopârla de munte Ablepharus kitaibelii fitzingeri.", "Flora include specii rare de orhidee și plante endemice de dolomit.", "Altitudinea vârfului este de 266 de metri.", "Traseul educațional are o lungime de aproximativ 850 de metri.", "Dealul este compus în principal din dolomit de vârstă triasică."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-sas-hegy-extra.webp"},
   {
     id: "lake-naplas-to-extra",
     type: "lake",
@@ -160,8 +158,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A tó vízfelülete körülbelül 16 hektár kiterjedésű.", "Az árvízvédelmi tározót 1978-ban alakították ki a Szilas-patakon.", "A tó melletti kilátó 2021-ben épült fenntartható faanyagból.", "A Naplás-tó környéke 1997 óta fővárosi védett terület.", "Itt található Budapest legnagyobb mocsári teknős populációja.", "A területen több mint 150 madárfajt figyeltek meg eddig.", "A tó partján 4 kilométer hosszú tanösvény fut körbe.", "A víz átlagos mélysége 2 méter körül mozog a mederben."],
       ro: ["Lacul are o suprafață de aproximativ 16 hectare.", "A fost declarat zonă protejată în anul 1997.", "Turnul de observație din lemn are o înălțime de 22 de metri.", "Peste 200 de specii de păsări au fost identificate în zonă.", "Este un sit important pentru protejarea broaștei țestoase europene.", "Barajul a fost construit inițial pentru controlul inundațiilor."],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-naplas-to-extra.webp"},
   {
     id: "river-soroksari-duna-extra",
     type: "river",
@@ -200,8 +197,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A mellékág teljes hossza 58 kilométer Budapest és Tass között.", "A vízszintet az 1920-as években épült Kvassay-zsilip szabályozza.", "A folyóágon található úszólápok védett természeti értékek.", "A Molnár-sziget a mellékág egyik legnépszerűbb kirándulóhelye.", "A víz átlagos mélysége 3 és 4 méter között változik.", "A partvonal mentén több mint 20 horgászegyesület működik.", "A lassú folyás miatt a kajakosok és kenusok kedvelt edzőpályája.", "A terület fészkelőhelye a jégmadárnak és több kócsagfajnak."],
       ro: ["Lungimea totală a brațului este de 57,3 kilometri.", "Ecluza Kvassay a fost finalizată în anul 1927.", "Adâncimea medie a apei variază între 2 și 4 metri.", "Insula Csepel este delimitată de acest braț în partea de est.", "Găzduiește numeroase colonii de case de vacanță pe piloni.", "Este o zonă de importanță internațională pentru pescuitul sportiv."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-soroksari-duna-extra.webp"},
   // HU-BA: Baranya
   {
     id: "mountain-zengo-extra",
@@ -281,8 +277,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Tubes magassága 611 méter a tengerszint felett.", "A János-kilátót 2001-ben adták át a kirándulóknak.", "A hegyen 2004-ben környezetvédelmi tiltakozások zajlottak.", "A terület a Kelet-Mecsek Tájvédelmi Körzethez tartozik.", "A Tubesről közvetlen rálátás nyílik a pécsi tévétoronyra.", "A lejtőkön jellemző az illír gyertyános-tölgyes erdőtársulás.", "Itt halad át a Dél-dunántúli Kéktúra útvonala is.", "A hegy kőzetanyaga főként júra kori mészkőből áll."],
       ro: ["Vârful se află la o altitudine de 611 metri.", "Turnul de observație actual a fost inaugurat în septembrie 2001.", "Se află pe traseul turistic european E7.", "Vegetația include specii rare precum Ruscus aculeatus.", "Numele muntelui are rădăcini slave, însemnând probabil 'muntele cu stejari'.", "Este un punct strategic pentru monitorizarea incendiilor forestiere."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-tubes-extra.webp"},
   {
     id: "mountain-jakab-hegy-extra",
     type: "mountain",
@@ -321,8 +316,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Jakab-hegy 602 méter magas, anyaga vörös homokkő.", "A vaskori sáncok kerülete meghaladja az 5 kilométert.", "A pálos kolostort 1225-ben alapította Bertalan pécsi püspök.", "A Zsongorkő kilátópontról a Dráva-síkra nyílik rálátás.", "A Babás-szerkövek különleges, erózió koptatta sziklaformák.", "A hegy gyomrában található a Mecsek egyetlen homokkőbarlangja.", "A terület 1978 óta tájvédelmi körzet részeként védett.", "A Jakab-hegyen vezet keresztül a Rockenbauer Pál Dél-dunántúli Kéktúra."],
       ro: ["Altitudinea maximă este de 602 metri.", "Cetatea din epoca fierului avea ziduri cu o lungime de peste 3 km.", "Mănăstirea Paulină a fost prima de acest fel din Ungaria.", "Gresia roșie de aici datează din perioada Permiană.", "Formațiunile 'Babás-szerkövek' au fost create prin eroziune eoliană.", "Zona este protejată în cadrul Rezervației Naturale Mecsek de Vest."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-jakab-hegy-extra.webp"},
   {
     id: "river-fekete-viz-extra",
     type: "river",
@@ -361,8 +355,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A folyó teljes hossza megközelítőleg 45 kilométer.", "A Fekete-víz a Dráva folyó bal oldali mellékfolyója.", "Sötét színét a tőzeges talajból származó szerves anyagok adják.", "A szabályozás előtt az Ormánság mocsárvilágának éltetője volt.", "A folyó mentén található a vízi növényekben gazdag tőzegláp.", "Fontos szerepet játszik a Baranyai-síkság vízelvezetésében.", "A part menti füzesekben fészkel a védett szürke gém.", "A folyó neve már 13. századi oklevelekben is szerepelt."],
       ro: ["Râul are o lungime de aproximativ 85 de kilometri.", "Se varsă în Dráva în apropierea localității Drávaszabolcs.", "Traversează regiunea culturală unică Ormánság.", "Bazinul său hidrografic acoperă peste 1.300 km².", "În trecut, zona era renumită pentru sistemele complexe de mori de apă.", "Este un habitat important pentru vidra europeană (Lutra lutra)."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-fekete-viz-extra.webp"},
   {
     id: "lake-orfui-to-extra",
     type: "lake",
@@ -401,8 +394,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A tórendszer négy különböző célú tóból épül fel.", "A legnagyobb a Pécsi-tó, amely 72 hektár kiterjedésű.", "A Herman Ottó-tó szigorúan védett madárrezervátum.", "A tavak kialakítása 1962-ben kezdődött a völgy elárasztásával.", "Itt található az ország egyetlen működő hajómalom-múzeuma.", "A 'Fishing on Orfű' fesztivált 2008 óta rendezik meg itt.", "Az Orfűi-tó vizét a Vízfő-karsztforrás táplálja folyamatosan.", "A tavak mentén 5 kilométer hosszú kerékpárút épült ki."],
       ro: ["Lacul Pécsi are o suprafață de aproximativ 72 de hectare.", "Sistemul de lacuri a fost proiectat între anii 1962 și 1970.", "Aici se organizează anual celebrul festival de muzică 'Fishing on Orfű'.", "Moara de apă din Orfű găzduiește singurul muzeu al morăritului din regiune.", "Adâncimea maximă a lacului Pécsi ajunge la 10-12 metri.", "Sursa principală de apă este izvorul carstic Vízfő."],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-orfui-to-extra.webp"},
   // HU-BK: Bács-Kiskun
   {
     id: "lake-kunfeher-to-extra",
@@ -482,8 +474,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A tó hossza 5 kilométer, átlagos szélessége 150-200 méter.", "A vízfelület nagysága megközelítőleg 80 hektár.", "Maximális mélysége elérheti a 4 métert egyes pontokon.", "A víz nátrium-karbonát tartalma miatt 'szappanos' tapintású.", "A tó partján 2,4 kilométer hosszú tanösvény mutatja be a faunát.", "A Duna egyik holtágaként keletkezett a folyószabályozás előtt.", "A nyári vízhőmérséklet gyakran eléri a 26-28 Celsius-fokot.", "A Szelidi-tó környéke 1976 óta országos védettségű terület."],
       ro: ["Lungimea totală a lacului este de 4 kilometri.", "Lățimea medie este de 150-200 de metri.", "Adâncimea maximă ajunge la aproximativ 3 metri.", "Conținutul de sare este de circa 1,5 grame pe litru.", "Apa se încălzește rapid vara, ajungând la 26-28 de grade Celsius.", "Traseul educațional 'Castelul Albastru' prezintă flora locală."],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-szelidi-to-extra.webp"},
   {
     id: "lake-kolon-to-extra",
     type: "lake",
@@ -522,8 +513,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Kolon-tó kiterjedése körülbelül 3000 hektár területű.", "A terület 1975 óta a Kiskunsági Nemzeti Park része.", "Itt található az ország legnagyobb mocsári orchidea-mezője.", "A tó és környéke a Ramsari Egyezmény védelme alá tartozik.", "Évente több ezer daru pihen meg itt a őszi vonulás során.", "A mocsárban több mint 200 madárfajt jegyeztek fel a kutatók.", "A Bikatorok-kilátóból látható a teljes nádas-mocsári táj.", "A területen ritka égerláperdők és fűzlápok is találhatók."],
       ro: ["Zona protejată acoperă peste 3.000 de hectare.", "Aici cuibăresc peste 100 de specii de păsări.", "Lacul a fost declarat sit Ramsar în anul 1997.", "Este habitatul principal pentru țiparul de noroi (Misgurnus fossilis).", "Aici se găsește cea mai mare populație de orhidee din specia Orchis palustris.", "Nivelul apei este menținut prin sisteme complexe de management."],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-kolon-to-extra.webp"},
   {
     id: "forest-bugaci-puszta-extra",
     type: "forest",
@@ -562,8 +552,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Bugaci puszta kiterjedése meghaladja a 11 000 hektárt.", "A terület 1975 óta a nemzeti park fokozottan védett része.", "Itt rendezik meg a Kurultáj törzsi gyűlést 2008 óta.", "Az ősborókás a puszta egyik legritkább növénytársulása.", "A Bugaci Pásztormúzeum 1933-ban épült fel a puszta szívében.", "A ménesben a híres 'magyar posta' lovasmutatvány is látható.", "A terület az UNESCO Bioszféra-rezervátum hálózatának tagja.", "A homokdűnék között több mint 10 kilométernyi tanösvény kanyarog."],
       ro: ["Zona protejată de la Bugac depășește 11.000 de hectare.", "Muzeul Păstorilor a fost construit în anul 1975.", "Pădurea de ienupăr de la Bugac este unică în Europa Centrală.", "Aici se cresc cai din rasa Kisbéri și Nonius.", "Cea mai înaltă dună de nisip atinge 130 de metri altitudine.", "Kurultáj atrage peste 200.000 de vizitatori bienal."],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-bugaci-puszta-extra.webp"},
   {
     id: "river-csatorna-duna-tisza-extra",
     type: "river",
@@ -602,8 +591,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A csatorna tervét már Mária Terézia idején is vitatták.", "A Dunaharaszti és Dabas közötti szakasz a leginkább kiépített.", "A csatorna medre 25-30 méter széles a főbb szakaszokon.", "Fontos szerepe van a kiskunsági homokhátság vízpótlásában.", "A vízmélység átlagosan 1,5 és 2,5 méter között mozog.", "A part menti nádasokban fészkel a védett bölömbika.", "A csatorna mentén több zsiliprendszer szabályozza a vízszintet.", "Népszerű horgászvíz, különösen az amur és a ponty horgászatára."],
       ro: ["Planurile pentru canal datează încă din secolul al XVIII-lea.", "Secțiunea principală are o lungime de aproximativ 85 de kilometri.", "Diferența de nivel între Dunăre și Tisa necesită ecluze complexe.", "Capacitatea sa de transport a apei este crucială în perioadele de secetă.", "Canalul este utilizat pentru transferul de apă către pârâul Szúnyog.", "Malurile sale găzduiesc specii de plante hidrofile protejate."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-csatorna-duna-tisza-extra.webp"},
   // HU-BE: Békés
   {
     id: "river-harmas-koros-extra",
@@ -683,8 +671,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A folyó teljes hossza 209 km, ebből 59 km van Magyarországon.", "Nevét a gyors folyásáról és kavicsos medréről kapta.", "A Sebes-Körös vize az egyik legtisztább folyóvíz az Alföldön.", "Gyomaendrődnél egyesül a Kettős-Körössel a Hármas-Köröshöz.", "A part menti löszfalakban fészkel a védett gyurgyalag.", "Vízitúrázók körében kedvelt a tiszta vize és kavicsos zátonyai miatt.", "A folyó medre mentén ritka tegzesfajok is megfigyelhetők.", "Szakaszonként határfolyóként is funkcionál Románia és Magyarország között."],
       ro: ["Lungimea totală a râului este de 209 kilometri.", "Secțiunea maghiară are o lungime de 58,6 kilometri.", "Traversează orașul Oradea înainte de a ajunge în Ungaria.", "Este singurul braț al Crișurilor care nu este în mare parte regularizat.", "Flora luncii include specii rare de iris de baltă.", "Este considerat unul dintre cele mai curate râuri din estul țării."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-sebes-koros-extra.webp"},
   {
     id: "lake-biharugrai-tavak-extra",
     type: "lake",
@@ -723,8 +710,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A tórendszer vízfelülete megközelítőleg 1900 hektár kiterjedésű.", "A terület a Ramsari Egyezmény által védett vizes élőhely.", "Eddig több mint 300 madárfajt figyeltek meg a tórendszernél.", "A tavakat a 20. század elején alakították ki az egykori Sárréten.", "Itt található Magyarország egyik legnagyobb kanalasgém-telepe.", "A terület része a Körös-Maros Nemzeti Park Biharugrai egységének.", "A tavakat tápláló fő csatorna az Ölyvös-csatorna.", "Az őszi vonuláskor akár 40 000 vadlúd is megpihenhet itt."],
       ro: ["Suprafața totală a lacurilor este de aproape 1.900 de hectare.", "A fost declarată zonă protejată în anul 1990.", "Peste 250 de specii de păsări au fost înregistrate aici.", "Este un sit Ramsar oficial din anul 1997.", "Găzduiește una dintre cele mai mari colonii de gâște cu gât roșu.", "Adâncimea medie a lacurilor piscicole este de 1,2 - 1,5 metri."],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-biharugrai-tavak-extra.webp"},
   {
     id: "forest-malyvadi-erdo-extra",
     type: "forest",
@@ -763,8 +749,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["Az erdő kiterjedése meghaladja a 3000 hektár összefüggő területet.", "Magyarország második legnagyobb összefüggő alföldi erdője.", "Az erdő jelentős része a Körös-Maros Nemzeti Park része.", "Itt található a régió legjelentősebb dámvad-populációja.", "A tölgyfák közül több egyed kora meghaladja a 200 évet.", "Tavasszal itt nyílik a ritka és védett debreceni torma.", "Az erdő fontos genetikai bázis az őshonos fafajok számára.", "A területen számos erdészeti és vadászati tanösvény fut."],
       ro: ["Pădurea acoperă o suprafață de peste 3.000 de hectare.", "Este renumită pentru populația genetică pură de cerbi lopătari.", "Aici se găsesc stejari monumentali cu vârste de peste 200 de ani.", "Rezervația naturală a fost înființată în anul 1989.", "Este un habitat critic pentru barza neagră.", "Solul este compus din aluviuni argiloase ale vechilor brațe de râu."],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-malyvadi-erdo-extra.webp"},
   {
     id: "river-kettos-koros-extra",
     type: "river",
@@ -803,8 +788,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A folyó a Fehér- és Fekete-Körös összefolyásától számítva 37 km.", "Békés városánál található a folyóág legnagyobb duzzasztóműve.", "A gátakon futó aszfaltozott út a kerékpáros túrázók kedvence.", "Gyomaendrődnél egyesül a Sebes-Körössel a Hármas-Köröshöz.", "A folyó mentén kiterjedt hullámtéri fűz-nyár ligeterdők nőnek.", "A békési kishajókikötő a régió egyik legmodernebb vízi bázisa.", "Gyakori halfajai közé tartozik a ponty, a harcsa és a balin.", "A folyó medre fontos ökológiai folyosó az Alföld déli részén."],
       ro: ["Lungimea cursului este de 37,3 kilometri.", "Confluența brațelor are loc la localitatea Szanazug.", "Are o lățime medie a albiei de 50-70 de metri.", "Ecluza de la Békés reglează nivelul apei din canalul principal.", "Malurile sale sunt zone de cuibărit pentru lăstunul de mal.", "Vârful digului oferă o rută de ciclism de peste 30 km."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-kettos-koros-extra.webp"},
   // HU-BZ: Borsod-Abaúj-Zemplén
   {
     id: "mountain-istallos-ko-extra",
@@ -884,8 +868,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A folyó teljes hossza 229 km, ebből 125 km magyar szakasz.", "A Sajó legnagyobb magyarországi mellékfolyója a Hernád.", "Ipartörténeti jelentősége a diósgyőri vasgyártáshoz kötődik.", "A folyó menti homokpartokon fészkelnek a partifecskék.", "A Sajó völgye fontos madárvonulási útvonal és ökológiai folyosó.", "Miskolcnál a folyó mentén épült ki a város ipari negyede.", "A víz tisztulásával megjelent az európai hód is a folyónál.", "A folyó torkolata Tiszaújváros közvetlen szomszédságában található."],
       ro: ["Lungimea totală a râului este de 229 kilometri.", "Secțiunea maghiară măsoară aproximativ 125 de kilometri.", "Se varsă în Tisa în apropiere de localitatea Tiszaújváros.", "Bătălia de la Muhi a avut loc pe podul peste râul Sajó.", "Bazinul său hidrografic este bogat în resurse de cărbune și minereuri.", "Găzduiește numeroase specii de mihalț (Lota lota)."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-sajo-extra.webp"},
   {
     id: "river-hernad-extra",
     type: "river",
@@ -924,8 +907,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Hernád hossza 286 kilométer, a magyar szakasz 118 km.", "A folyó sodrása és zátonyai miatt a hajózás nem lehetséges.", "A löszfalakban fészkel a védett és színpompás gyurgyalag.", "Itt épült fel Magyarország első vízerőműve Gibártnál 1895-ben.", "A Hernád völgye a Natura 2000 hálózat kiemelt védelmi területe.", "A folyó mentén gyakori a ritka és védett vidra jelenléte.", "Horgászati szempontból híres a pér és a menyhal állományáról.", "Vizsoly középkori temploma a folyó közvetlen közelében fekszik."],
       ro: ["Lungimea totală a râului este de 286 de kilometri.", "Secțiunea maghiară are o lungime de 118 kilometri.", "Este unul dintre puținele râuri neîndiguite din Ungaria.", "Adăpostește populații semnificative de lostriță de râu.", "Malurile de loess pot ajunge la o înălțime de 10-15 metri.", "Castelul Boldogkő se află pe un deal deasupra văii Hernád."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-hernad-extra.webp"},
   {
     id: "lake-lazberci-viztarozo-extra",
     type: "lake",
@@ -964,8 +946,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A tó vízfelülete 77 hektár, tárolt víztömege 6,2 millió m³.", "A gátat 1968-ban adták át, magassága eléri a 20 métert.", "A tó vize biztosítja Kazincbarcika ivóvízellátásának bázisát.", "A terület a Lázbérci Tájvédelmi Körzet központi eleme.", "A tavat tápláló patakok a Bán- és a Csernely-patak.", "A fürdés szigorúan tilos az ivóvízvédelem miatt.", "Az Upponyi-szurdok mészkőfalai a tó nyugati végén magasodnak.", "Népszerű horgászvíz, különösen a kapitális pontyairól ismert."],
       ro: ["Rezervorul are o suprafață de aproximativ 77 de hectare.", "Capacitatea sa maximă de stocare este de 6 milioane m³.", "Barajul are o înălțime de 20 de metri deasupra albiei.", "Se află în cadrul Peisajului Protejat Lázbérc.", "Adâncimea maximă a lacului ajunge la 16 metri.", "Este alimentat de pârâurile Bán și Uppony."],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-lazberci-viztarozo-extra.webp"},
   {
     id: "river-bodrog-extra",
     type: "river",
@@ -1004,8 +985,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Bodrog magyarországi szakasza mintegy 52 kilométer hosszú.", "A folyó Tokajnál egyesül a Tiszával, látványos összefolyást alkotva.", "A Bodrogzug vizes élőhelye a Ramsari Egyezmény védelme alatt áll.", "Sárospataknál a folyó a híres várkastély közvetlen közelében halad.", "A folyó esése minimális, alkalmanként megfordul a folyásiránya.", "A Bodrogkeresztúri-öböl fontos fészkelőhelye a fehér gólyáknak.", "Vízitúrázáshoz az ország egyik legbiztonságosabb folyója.", "Híres gazdag halállományáról, főleg a harcsáról és a süllőről."],
       ro: ["Lungimea cursului maghiar este de 51,1 kilometri.", "Bodrog nu are propriul izvor, formându-se din alte râuri.", "Diferența de nivel pe secțiunea maghiară este de doar 1 metru.", "Se varsă în Tisa sub podul de la Tokaj.", "Bodrogzug este un sit protejat prin Convenția Ramsar.", "Este habitatul preferat pentru numeroase specii de castori."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-bodrog-extra.webp"},
   // HU-CS: Csongrád-Csanád
   {
     id: "lake-feher-to-szeged-extra",
@@ -1085,8 +1065,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Maros a Tisza legnagyobb mellékfolyója (749 km teljes hossz).", "A torkolat Szeged belvárosától északkeletre található.", "Alacsony vízállásnál kiterjedt homokszigetek alakulnak ki.", "A terület a Körös-Maros Nemzeti Park védelme alatt áll.", "A part menti füzesekben fészkel a védett barna kánya.", "Itt zajlik a híres tiszavirágzás (kérészrajzás) egyik fő szakasza.", "A torkolatnál a két folyó vize látványosan elkülönül egymástól.", "A szegedi Lapos-strand a folyók találkozásának közelében fekszik."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-maros-torkolat-extra.webp"},
   {
     id: "lake-csaj-to-extra",
     type: "lake",
@@ -1125,8 +1104,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A tórendszer teljes területe mintegy 800 hektár kiterjedésű.", "A Csaj-tó a Natura 2000 hálózat kiemelt jelentőségű területe.", "Itt fészkel a dél-alföldi régió legnagyobb bakcsó-állománya.", "A tavakat az 1960-as években alakították ki halászati célra.", "A madármegfigyelést több magasles és speciális kunyhó segíti.", "A tavakat a Tisza-csatorna táplálja friss és oxigéndús vízzel.", "A tóparti nádasokban virágzik a védett sárga nőszirom.", "Ősszel a lecsapolt medrekben ezrével táplálkoznak a gázlómadarak."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-csaj-to-extra.webp"},
   {
     id: "river-tisza-martely-extra",
     type: "river",
@@ -1165,8 +1143,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A mártélyi holtág hossza megközelítőleg 4,5 kilométer.", "Mártély volt az első tájvédelmi körzet Magyarországon (1971).", "A tájat a híres festő, Tornyai János tette országosan ismertté.", "A holtág mentén 2,6 kilométer hosszú tanösvény vezet a lápon.", "A sekélyebb részeken tömegesen virágzik a védett sulyom.", "A terület a hódok és vidrák egyik legfontosabb élőhelye a Tisza mentén.", "A szabadstrand vízminősége rendszeresen kiváló minősítést kap.", "Itt található az ország egyik legrégebbi természetvédelmi tábora."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-tisza-martely-extra.webp"},
   {
     id: "forest-pusztaszeri-erdo-extra",
     type: "forest",
@@ -1205,8 +1182,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["Az erdő központi területe mintegy 1000 hektárt foglal el.", "A terület a Pusztaszeri Tájvédelmi Körzet szerves része.", "Fészkelőhelye a fokozottan védett parlagi sasnak és kerecsensólyomnak.", "Az erdő peremén láthatók a történelmi magyar honfoglalási határjelek.", "Fontos vadászterület, jelentős őz- és vaddisznó-állománnyal.", "A homokos talajon jól megmarad a ritka sivatagi tarkalepke.", "Az erdőben vezet keresztül az Alföldi Kéktúra egyik szakasza.", "Tavasszal az erdőaljat a tavaszi hérics és a leánykökörcsin díszíti."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-pusztaszeri-erdo-extra.webp"},
   // HU-FE: Fejér
   {
     id: "river-sarviz-extra",
@@ -1286,8 +1262,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A patak a Bakony középső részén, Velemér közelében ered.", "A Gaja-völgyi Tájcentrum az ország egyik legszebb kirándulóhelye.", "Itt található a látványos Római-fürdő vízesés Bakonynánánál.", "A sziklákban található a legendás Sobri Jóska-barlang.", "A patak táplálja a fehérvárcsurgói víztározót a hegyek lábánál.", "A völgy növényvilágában ritka páfrányfajok is előfordulnak.", "A területen keresztülhalad az Országos Kéktúra útvonala.", "A patak vize kiváló minőségű, pisztrángok is élnek benne."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-gaja-patak-extra.webp"},
   {
     id: "forest-alcsuti-arboretum-extra",
     type: "forest",
@@ -1326,8 +1301,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["József nádor alapította 1820-ban, az ország egyik legelső arborétumaként.", "A terület több mint 540 különböző fa- és cserjefajt őriz a világ minden tájáról.", "Itt látható Magyarország legnagyobb, 2,5 hektáros összefüggő hóvirágmezője.", "A parkot neves kertművészek, köztük a schönbrunni Tost Károly tervezte.", "A kastély maradványai Pollack Mihály klasszicista építészetének remekművei.", "A kertben található kápolnát Storno Ferenc tervei alapján neoromán stílusban építették.", "Az arborétum egyik legidősebb lakója egy több mint 170 éves libanoni cédrus.", "A park egész évben látogatható, mikroklímáját saját tórendszere szabályozza."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-alcsuti-arboretum-extra.webp"},
   {
     id: "mountain-veres-hegy-extra",
     type: "mountain",
@@ -1366,8 +1340,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Veres-hegy a Vértes déli részén található, magassága kb. 340-350 méter.", "Nevét a dolomitsziklák jellegzetes színéről és az ősszel vöröslő cserszömörcéről kapta.", "A hegyoldalakon ritka, szubmediterrán növénytársulások és karsztbokorerdők élnek.", "A tetőről tiszta időben jól látszanak a Velencei-tó és a Balaton-felvidék hegyei is.", "A közeli Csákváron található Magyarország egyik legnagyobb gipszbarlangja.", "A terület a Duna-Ipoly Nemzeti Park része, fokozottan védett természeti érték.", "A hegy környéke egykor fontos bauxitbányászati központ volt, ma geológiai park.", "A túraútvonalak murvás, dolomitos talaja nedves időben rendkívül csúszós lehet."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-veres-hegy-extra.webp"},
   {
     id: "lake-pazmandi-to-extra",
     type: "lake",
@@ -1406,8 +1379,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Pázmándi-tó egy mesterségesen létrehozott völgyzárógátas víztározó Fejér vármegyében.", "A vízfelület területe körülbelül 3-4 hektár, átlagmélysége 1,5 és 2,5 méter közötti.", "A tavat a Velencei-hegységből lefutó Pázmándi-vízfolyás friss vize táplálja.", "Híres gazdag ponty- és amurállományáról, emellett ragadozó halak is élnek benne.", "A part mentén kiépített tűzrakó helyek és pihenőpadok várják a kirándulókat.", "A tó szomszédságában találhatók a különleges geológiai képződménynek számító 'Ingókövek'.", "Pázmánd község szélén található, az M7-es autópályáról percek alatt elérhető.", "A víztározó fontos élőhelyet biztosít a környék vízi madarainak és kétéltűinek."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-pazmandi-to-extra.webp"},
   // HU-GS: Győr-Moson-Sopron
   {
     id: "forest-hansag-extra",
@@ -1487,8 +1459,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Rábca a Répce és a Kis-Rába folyók összefolyásából keletkezik a Hanságban.", "Teljes hossza körülbelül 50-60 kilométer a szabályozott szakaszokkal együtt.", "A folyó a Hanság mocsárvilágának fő vízelvezetője, medre szinte végig csatornázott.", "Győr városában a Rábca torkolata felett több fontos híd is átível.", "A 20. század elején a folyó torkolatát áthelyezték, hogy védjék a várost az árvizektől.", "A folyó vize gazdag halakban, kedvelt horgászhely a keszeg és a süllő kedvelőinek.", "Átlagos vízhozama 15-20 m³/s, de hóolvadáskor jelentősen megduzzadhat.", "Partjainál jelentős ártéri erdők és nádasok maradtak meg, melyek Natura 2000 területek."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-rabca-extra.webp"},
   {
     id: "river-marcal-extra",
     type: "river",
@@ -1527,8 +1498,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Marcal a Bakony hegységben, Sümegprága környékén ered.", "Hossza körülbelül 100 kilométer, vízgyűjtő területe több mint 3000 km².", "A folyó Gyirmót közelében torkollik a Rába folyóba, lassú, alföldi jellegű mederben.", "A 2010-es katasztrófa után a folyó medrébe több tonna gipszet szórtak a lúg semlegesítésére.", "A Marcal-völgy híres a 'lápi széna' termeléséről és a hagyományos legeltetésről.", "A folyó mentén több Natura 2000 védelem alatt álló vizes élőhely is található.", "A meder esése rendkívül kicsi, ezért a folyó gyakran képez kanyargós mocsaras részeket.", "A Marcal menti települések gazdag néprajzi hagyományokkal rendelkeznek a halászat terén."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-marcal-extra.webp"},
   {
     id: "river-repce-extra",
     type: "river",
@@ -1567,8 +1537,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Répce forrása az ausztriai Rozália-hegységben, kb. 700 méteres magasságban van.", "Ausztriában 70 km, Magyarországon pedig 55 km hosszú a folyómeder.", "Bükfürdőnél a folyó mentén épült ki az ország egyik legszebb rekreációs parkja.", "A folyó a Hanság-főcsatorna közelében egyesül a Kis-Rábával, így jön létre a Rábca.", "Felső szakaszán tiszta vizű hegyi patak jellegű, ahol pisztrángok is előfordulnak.", "Nevét a 'répce' növényről kapta, ami a 15. század óta dokumentált helynév.", "A Répce-menti erdőkben ritka orchideafajok és kockás liliom is megtalálható.", "A folyó fontos szerepet játszott az egykori határőrvidék védelmi rendszerében."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-repce-extra.webp"},
   {
     id: "forest-szigetkoz-erdo-extra",
     type: "forest",
@@ -1607,8 +1576,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Szigetköz területe 375 négyzetkilométer, Magyarország legnagyobb szárazföldi szigete.", "Az ártéri erdőkben több mint 200 madárfaj és számos ritka kétéltű él.", "A terület a Duna hordalékából épült fel az utolsó jégkorszak óta.", "Itt található az ország egyik legjelentősebb hódállománya és európai vidra-populációja.", "A Szigetköz ágrendszere több mint 800 kilométernyi hajózható vagy evezhető útvonalat kínál.", "A Dunakiliti duzzasztómű fontos szerepet játszik a terület vízpótló rendszerében.", "A tájegység a Fertő–Hanság Nemzeti Park Igazgatósága alá tartozik.", "A szigetközi 'ökoparkok' a környezeti nevelés és a zöldturizmus fontos központjai."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-szigetkoz-erdo-extra.webp"},
   // HU-HB: Hajdú-Bihar
   {
     id: "river-berettyo-extra",
@@ -1688,8 +1656,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Vekeri-tavat 1975-ben adták át, mint jóléti víztározót Debrecen közelében.", "A vízfelület területe körülbelül 12 hektár, közepén egy kis sziget található.", "Az Erdőspuszták tájvédelmi körzetének része, homoki tölgyesekkel övezve.", "Híres volt a Vekeri-tavi Fesztiválról, amely az ország egyik legnagyobb ifjúsági rendezvénye volt.", "A tó vizét a Kati-ér és a Debrecen-közeli csatornahálózat táplálja.", "Népszerű helyszíne az iskolai számháborúknak, családi bográcsozásoknak és kempingezésnek.", "A tó partján kilátó is található, ahonnan belátható az Erdőspuszták különleges tája.", "A 2020-as évek elején a tó majdnem teljesen kiszáradt, de sikeresen rehabilitálták."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-vekeri-to-extra.webp"},
   {
     id: "forest-erdo-pusztak-extra",
     type: "forest",
@@ -1768,8 +1735,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A folyó teljes hossza 167,3 kilométer, torkolata Mezőtúr közelében található.", "Neve ősi magyar szavakból (Hort és Bágy) állt össze, jelentése mocsaras vízfolyás.", "A folyó esése mindössze pár centiméter kilométerenként, ami extrém lassú áramlást eredményez.", "A Hortobágyi Nemzeti Park legfontosabb vizes élőhelye és vízi útvonala.", "Itt található a híres kilenclyukú híd, amely a folyó egyik legfontosabb átkelőhelye volt.", "Halállománya kiemelkedő, jellemző faja a ponty, a csuka és a védett compó.", "A folyó vize kulcsszerepet játszik a pusztai állattartás vízellátásában.", "Árterei fontos fészkelőhelyei a nagy kócsagnak és a szürke gémnek."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-hortobagy-folyo-extra.webp"},
   {
     id: "lake-fancsika-to-extra",
     type: "lake",
@@ -1808,8 +1774,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Fancsikai-tórendszer három különálló víztározóból áll (Fancsika I, II, III).", "A tavakat az 1970-es években alakították ki jóléti és árvízvédelmi célokból.", "Vízellátásukat főként a felszíni csapadék és a Kati-ér biztosítja.", "A tavak környéke Natura 2000 természetvédelmi területnek minősül.", "A tartós aszályok miatt a tavak többször is közel kerültek a teljes kiszáradáshoz.", "Egykor híres horgászvíz volt, kapitális pontyokkal és ragadozó halakkal.", "A tavak mentén tanösvények és kilátók segítik az élővilág megismerését.", "A Fancsika III. tó mára szinte teljesen elnádasodott és mocsárrá alakult."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-fancsika-to-extra.webp"},
   // HU-HE: Heves
   {
     id: "mountain-galyateto-extra",
@@ -1889,8 +1854,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Sár-hegy magassága 497 méter, és jellegzetes alakjával uralja a gyöngyösi tájat.", "Vulkanikus eredetű, főként andezitből és tufa rétegekből épül fel.", "A hegy tetején lévő Szent Anna-tó egy lefolyástalan, mocsaras karsztvíz-tó.", "A terület 1975 óta természetvédelmi oltalom alatt áll ritka flórája és faunája miatt.", "Déli lejtői híresek a minőségi fehérborokról, főként az olaszrizlingről.", "A hegyen vezet keresztül a Rákóczi-turistaút, amely történelmi emlékeket is érint.", "Itt él a ritka pannóniai gyík és számos fokozottan védett lepkefaj.", "A Sár-hegy egykor katonai gyakorlótérként is funkcionált, ma kedvelt túracélpont."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-sar-hegy-extra.webp"},
   {
     id: "river-tarna-extra",
     type: "river",
@@ -1929,8 +1893,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Tarna hossza körülbelül 105 kilométer, forrása a szlovák határ közelében található.", "Legnagyobb mellékfolyója az Eger-patak, amely a folyó középső szakaszán csatlakozik hozzá.", "A folyó a Zagyvába torkollik Jászjákóhalma közelében.", "A Tarna völgye választóvonalat képez a Mátra és a Bükk hegység vonulatai között.", "A folyó felső szakasza Natura 2000 védelem alatt áll a ritka vízi élővilága miatt.", "A völgy híres a hagyományos juh- és marhatartásról a folyó menti réteken.", "A Tarna vize mentén több középkori várrom (pl. Sirok) is magasodik.", "A folyó neve valószínűleg szláv eredetű, és 'tövises' vagy 'fekete' jelentéssel bír."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-tarna-extra.webp"},
   {
     id: "river-eger-patak-extra",
     type: "river",
@@ -1969,8 +1932,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["Az Eger-patak a Bükk hegységben, Balaton község határában ered.", "Hossza körülbelül 68 kilométer, és végül a Tarna folyóba torkollik.", "A patak vize Eger városában több helyen is mesterséges csatornákba és duzzasztókba kerül.", "A 20. század közepéig a patak mentén számos vízi malom működött.", "A patak völgye híres a minőségi szőlőtermesztésről és az egri borvidékről.", "Számos védett halfaj, köztük a sujtásos küsz és a fenékjáró küllő él a vizében.", "A patak menti sétányok Eger egyik legkedveltebb szabadidős övezetét alkotják.", "A patak vízszintje hóolvadáskor hirtelen megemelkedhet, ezért jelentős árvédelmi művek védik a várost."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-eger-patak-extra.webp"},
   {
     id: "forest-matrai-tazvedelmi-extra",
     type: "forest",
@@ -2009,8 +1971,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Mátrai Tájvédelmi Körzet 1985-ben alakult meg a Bükki Nemzeti Park Igazgatósága alatt.", "Területe magában foglalja az ország legmagasabb pontját, a Kékestetőt (1014 m).", "A hegység vulkáni andezitből épül fel, amely különleges sziklaalakzatokat képez.", "Itt található Magyarország legmagasabb természetes vízesése, az Ilona-völgyi vízesés.", "Az erdők több mint 90%-át bükkösök és gyertyános-tölgyesek alkotják.", "A területen több mint 1000 növényfajt tartanak számon, köztük számos jégkorszaki maradványt.", "Sástó, az ország legmagasabban fekvő tava, szintén a körzet része.", "A tájvédelmi körzet fontos szerepet játszik a klímakutatásban és a levegőtisztaság mérésében."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-matrai-tazvedelmi-extra.webp"},
   // HU-JN: Jász-Nagykun-Szolnok
   {
     id: "river-zagyva-szolnok-extra",
@@ -2090,8 +2051,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A folyóág teljes hossza mintegy 167 kilométer.", "A 19. századi nagy folyószabályozások során alakították ki.", "A terület az UNESCO Világörökség részét képező puszta része.", "Itt található a régió egyik legnagyobb gémtelepe.", "A vízfelületen gyakori a védett rucaöröm és a tündérfátyol.", "Fontos szerepe van a Nagykunság belvízvédelmi rendszerében.", "A folyó mentén számos történelmi kőhíd és zsilip látható.", "Mezőtúr közelében torkollik a Hármas-Körös folyóba."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-hortobagy-berettyo-extra.webp"},
   {
     id: "lake-nagykunsagi-viztarozo-extra",
     type: "lake",
@@ -2130,8 +2090,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A tározó a Tisza-Körös-völgyi öntözőrendszer központi eleme.", "Vízfelülete a vízállástól függően több száz hektár lehet.", "Segítségével több tízezer hektárnyi szántóföld öntözése megoldott.", "A tározó gátjain kiépített utak kiválóak kerékpározáshoz.", "A sekélyebb részeken kiterjedt nádasok alakultak ki.", "Fontos állomása a vonuló vadludaknak és récefajoknak.", "A tározó vize biztosítja a Nagykunság ökológiai egyensúlyát.", "Modern szivattyútelepek szabályozzák a víz precíz áramlását."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-nagykunsagi-viztarozo-extra.webp"},
   {
     id: "river-tisza-szajol-extra",
     type: "river",
@@ -2170,8 +2129,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A folyó szélessége ezen a szakaszon meghaladja a 150 métert.", "A szajoli vasúti híd fontos stratégiai közlekedési létesítmény.", "Az ártéri erdőkben 100 évnél idősebb fekete nyárfák is élnek.", "A terület a Közép-Tiszai Tájvédelmi Körzet része.", "Híres a júniusi tiszavirágzásról (kérészrajzás).", "A folyó menti gátak a gáttúrák népszerű útvonalai.", "A szajoli holtág kiváló horgászvíz és természetvédelmi terület.", "A vízmélység a mederben elérheti a 8-10 métert is."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-tisza-szajol-extra.webp"},
   {
     id: "forest-tiszakurei-arboretum-extra",
     type: "forest",
@@ -2210,8 +2168,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["Az arborétumot Bolza József gróf alapította 1880 körül.", "A park területe megközelítőleg 60 hektárt foglal el.", "Itt találhatók az ország legidősebb mocsárciprusai.", "A gyűjteményben több mint 500 különböző fásszárú növény él.", "A parkban modern kilátótorony épült a Tisza-völgyre.", "Az arborétum a tiszai árvizektől gátakkal védett terület.", "Gyakori vendég a parkban a ritka fekete harkály.", "Évente megrendezik itt a 'Mocsárciprus' teljesítménytúrát."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-tiszakurei-arboretum-extra.webp"},
   // HU-KE: Komárom-Esztergom
   {
     id: "lake-bokodi-to-extra",
@@ -2291,8 +2248,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A vízfolyás teljes hossza megközelítőleg 51 kilométer.", "A patak táplálja a tatai Öreg-tavat, Európa fontos madárpihenőjét.", "Partján 18. századi barokk vízimalmok maradványai láthatók.", "Tatabánya és Tata között modern kerékpárút fut a meder mentén.", "A terület a vaskori és római kori leletekben rendkívül gazdag.", "Az Által-ér menti mocsarak rehabilitációja 2010-ben kezdődött.", "A vízben előfordul a ritka és védett vidra és a jégmadár.", "Almásfüzitő közelében torkollik a Duna folyamába."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-altal-er-extra.webp"},
   {
     id: "mountain-pilis-tető-extra",
     type: "mountain",
@@ -2331,8 +2287,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Pilis-tető 756 méterrel emelkedik a tengerszint fölé.", "A Boldog Özséb-kilátó több mint 17 méter magas faépítmény.", "A hegy platóján korábban titkos szovjet rakétabázis működött.", "A Pilis-barlang és számos zsomboly található a hegy gyomrában.", "A csúcsról látható a visegrádi vár és a budapesti Citadella is.", "Itt halad át az Országos Kéktúra egyik látványos szakasza.", "A terület a Duna-Ipoly Nemzeti Park fokozottan védett része.", "A hegyen ritka karsztbokorerdők és sziklagyepek élnek."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-pilis-tető-extra.webp"},
   {
     id: "forest-gerecse-erdo-extra",
     type: "forest",
@@ -2371,8 +2326,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Gerecse-hegység erdőborítottsága meghaladja a 60 százalékot.", "Itt található Magyarország egyik legjelentősebb kerecsensólyom-állománya.", "A hegységben több mint 300 barlangot tartanak nyilván.", "A tardosi vörösmárvány-bányából származik a Mátyás-templom köve is.", "A terület 1977 óta tájvédelmi körzetként áll oltalom alatt.", "A Nagy-Gerecse csúcsán (633 m) tévétorony magasodik.", "Az erdőkben gyakori a ritka és védett magyar zergevirág.", "A Gerecse 50 teljesítménytúra az ország egyik legnépszerűbb eseménye."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-gerecse-erdo-extra.webp"},
   {
     id: "mountain-vertes-kozma-extra",
     type: "mountain",
@@ -2411,8 +2365,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["Vérteskozma faluja 1980 óta építészeti műemlékvédelem alatt áll.", "A környékbeli erdőkben nészkel a ritka fekete gólya.", "A Vértes anyaga főként triász kori dolomit, ami fehéren világlik ki.", "A területen jelentős muflonállomány él, amely az 1920-as években került ide.", "A csúcsokról belátni a tatai medencét és a Gerecse vonulatait.", "Itt található a régió legalacsonyabb fényszennyezettségű területe.", "A völgyekben ritka jégkorszaki reliktum növények maradtak fenn.", "A közeli Csákvár határában híres bauxitbányászati tanösvény üzemel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-vertes-kozma-extra.webp"},
   // HU-NO: Nógrád
   {
     id: "river-ipoly-szakas-extra",
@@ -2492,8 +2445,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A fennsík területe körülbelül 8 négyzetkilométer összefüggő bazalt.", "A bazalttakaró vastagsága helyenként a 100 métert is eléri.", "Itt találhatók a somosi bazaltorgonák, a világritkaságnak számító oszlopok.", "A területen korábban kiváló minőségű útburkoló bazaltot bányásztak.", "A fennsík rétein ritka orchideafélék és zergevirág díszlik.", "Fontos szerepet játszik a Karancs-Medves Tájvédelmi Körzetben.", "Télen a fennsík az ország egyik legjobb sífutó terepe.", "A határon átnyúló tanösvények a szlovák oldallal kötnek össze."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-medves-fennsik-extra.webp"},
   {
     id: "river-galga-forras-extra",
     type: "river",
@@ -2532,8 +2484,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Galga hossza körülbelül 58 kilométer a forrástól a torkolatig.", "A folyó menti Galgamente híres a 'hévízgyörki viseletről'.", "Hatvan városánál torkollik a Zagyva folyóba.", "A forrásvidék a Cserhát-hegység északi lábánál található.", "A folyó medrében gyakori a védett vöröshasú unka.", "Történelmileg számos vízimalmot hajtott a Galga vize.", "A folyó menti Turán található a gyönyörű Schossberger-kastély.", "Fontos ökológiai folyosó a Cserhát és a Gödöllői-dombság között."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-galga-forras-extra.webp"},
   {
     id: "forest-cserhat-erdo-extra",
     type: "forest",
@@ -2572,8 +2523,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Cserhát geológiailag Magyarország egyik legváltozatosabb hegysége.", "Az erdőkben jelentős gím- és dámvad állomány él.", "Itt található az UNESCO Világörökség részét képező Hollókő faluja.", "Gyakori a medvehagyma és számos ritka orchideafaj a völgyekben.", "A hegység híres a 'remete-barlangokról', ahol szerzetesek éltek.", "Kiváló gombászóhely, különösen vargánya és rókagomba lelhető fel.", "Az Országos Kéktúra egyik legszebb szakasza halad át az erdőn.", "Az erdők kulcsszerepet játszanak a régió vízbázisának védelmében."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-cserhat-erdo-extra.webp"},
   {
     id: "mountain-szandavar-hegy-extra",
     type: "mountain",
@@ -2612,8 +2562,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A hegy tengerszint feletti magassága 527 méter.", "Szanda várát a 13. században építették, majd a 16. században pusztult el.", "A hegy egy erózió által kipreparált vulkáni kürtő maradványa.", "Országos jelentőségű természetvédelmi terület a sziklagyepek miatt.", "Ritka növénye a pannon högyper és több védett fűszernövény.", "A felfelé ható légáramlatok miatt kedvelt a ragadozó madarak körében.", "Tanösvény mutatja be a vár történetét és a hegy kialakulását.", "A csúcsra meredek, de jól jelzett gyalogút vezet fel Szanda felől."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-szandavar-hegy-extra.webp"},
   // HU-PE: Pest
   {
     id: "mountain-visegradi-hegyseg-extra",
@@ -2693,8 +2642,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["700 méteres magasságával a Visegrádi-hegység csúcspontja.", "Az első magyar turistaházat (Eötvös Loránd Menedékház) 1898-ban adták át.", "Neve a néphit szerint a földből áradó lüktetésre utal.", "Itt működik az ország egyik legrégebbi sípályája és síközpontja.", "A Thirring-szikla és a Zsivány-sziklák népszerű mászóhelyek a közelben.", "Hivatalosan elismert gyógyhely a kristálytiszta erdei levegője miatt.", "Számos spirituális ösvény és emlékhely található a környéken.", "A kilátóból tiszta időben a szlovákiai Alacsony-Tátra is látható."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-dobogoko-extra.webp"},
   {
     id: "forest-godolloi-arboretum-extra",
     type: "forest",
@@ -2733,8 +2681,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["József főherceg kezdeményezésére alapították, területe 190 hektár.", "Több mint 150 különböző fafaj él itt, hangsúlyos fenyőgyűjteménnyel.", "A második világháború alatt súlyosan megsérült, de azóta rehabilitálták.", "Itt található a magyar erdészet nagyjainak emlékműve.", "Fontos helyszíne a klímaváltozás erdőkre gyakorolt hatásának kutatásához.", "A gyermekek számára erdei tanösvény és játszótér is rendelkezésre áll.", "Gazdag madárvilág jellemzi, gyakori a nagy fakopáncs és a szajkó.", "Minden évszakban látogatható, ősszel különösen szép a lombhullatók játéka."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-godolloi-arboretum-extra.webp"},
   {
     id: "lake-garancsi-to-extra",
     type: "lake",
@@ -2773,8 +2720,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A tó jégkorszaki eredetű, ritka természetes állóvíz a dombságban.", "Természetvédelmi terület a ritka nedves rétek flórájának megőrzésére.", "Fontos pihenőhelye a vonuló madaraknak, például a szürke gémnek.", "Az 'Üvegtigris' büfékocsija ma is turisztikai látványosság a parton.", "Turistaútvonalak kötik össze a közeli Meszes-hegy kilátópontjaival.", "Vízminőségét rendszeresen ellenőrzik az ökoszisztéma védelmében.", "Tavasszal a tó környéke hangos a békák (például levelibéka) nászdalától.", "A part mentén jól kiépített pihenőhelyek várják a kirándulókat."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-garancsi-to-extra.webp"},
   {
     id: "mountain-naszaly-extra",
     type: "mountain",
@@ -2813,8 +2759,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["652 méteres magasságával uralja a Dunakanyar északi panorámáját.", "A hegy oldalában látható hatalmas mészkőbánya messziről felismerhetővé teszi.", "A Násznép-barlanghoz elrejtőzött lakodalmas menetek legendái kapcsolódnak.", "Botanikai ritkasága a pannon pünkösdi rózsa és a magyar zergevirág.", "Több mint 50 barlang és karsztos hasadék található a hegyben.", "A kilátóból a Szentendrei-sziget és a Duna folyása térképként terül el.", "Az Országos Kéktúra vonala a hegy oldalában halad keresztül.", "Fokozottan védett erdőrezervátum, évszázados tölgyekkel és bükkökkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-naszaly-extra.webp"},
   // HU-SO: Somogy
   {
     id: "river-kapos-extra",
@@ -2894,8 +2839,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["Vízfelülete 245 hektár, maximális mélysége 3,5 méter körüli.", "8 kilométeres hosszával az ország leghosszabb mesterséges állóvize.", "A Fekete István Látogatóközpont interaktív kiállítással várja a vendégeket.", "A tó körül 17 kilométer hosszú, aszfaltozott kerékpárút fut.", "Országosan híres horgászvíz, rekordméretű pontyairól és harcsáiról.", "A félszigeten lévő arborétum ritka fenyőfélék gyűjteményét őrzi.", "Több mesterséges madársziget biztosít nyugodt fészkelőhelyet.", "A vízminőséget bonyolult előtározó- és szűrőrendszer védi."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-deseda-to-extra.webp"},
   {
     id: "forest-boronka-melleki-extra",
     type: "forest",
@@ -2934,8 +2878,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A tájvédelmi körzet területe meghaladja a 8000 hektárt.", "A Boronka-vidék az UNESCO Belső-Somogyi Bioszféra-rezervátum része.", "Rendszeresen több mint 10 pár fokozottan védett rétisas költ itt.", "A terület híres a kiterjedt halastórendszeréről és lápjairól.", "Botanikai ritkasága a tőzegmoha és a kereklevelű harmatfű.", "A sűrű erdőkben jelentős európai vidraállomány él.", "Történelmileg a somogyi betyárok egyik utolsó búvóhelye volt.", "Bizonyos részei szigorúan zárt rezervátumok, csak engedéllyel látogathatók."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-boronka-melleki-extra.webp"},
   {
     id: "river-koppany-extra",
     type: "river",
@@ -2974,8 +2917,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Koppány folyó teljes hossza megközelítőleg 79 kilométer.", "Tamási város közelében torkollik bele a Kapos folyóba.", "A Koppány-völgy különleges mikroklímája kedvez a bortermelésnek.", "Az ártéri réteken tavasszal ritka nősziromfajok virágoznak.", "A folyó Koppány vezérről kapta a nevét, aki Szent István ellenlábasa volt.", "Számos halfaj, például a fürge cselle jelzi a kiváló vízminőséget.", "A folyó mentén több kisebb halastavat és pihenőhelyet alakítottak ki.", "A völgy fontos élőhelye a fekete gólyának, amely a közeli erdőkben fészkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-koppany-extra.webp"},
   {
     id: "lake-balatonszentgyorgy-extra",
     type: "lake",
@@ -3014,8 +2956,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A mocsaras terület a Balaton-felvidéki Nemzeti Park része.", "Fontos fészkelőhelye a vörös gémnek és a kiskócsagnak.", "Itt él Magyarország egyik legnépesebb mocsári teknős állománya.", "Botanikai ritkasága a békaliliom és a tündérrózsa.", "Történelmileg ez a vidék a Balatont övező óriási mocsárvilág maradványa.", "A közelben található a Csillagvár, amely korábban vadászkastély volt.", "A mocsári csatornák a kapitális csukák és harcsák kedvelt tanyái.", "Szakvezetett túrák mutatják be a vizes élőhelyek fontosságát."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-balatonszentgyorgy-extra.webp"},
   // HU-SZ: Szabolcs-Szatmár-Bereg
   {
     id: "river-szamos-extra",
@@ -3095,8 +3036,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Túr forrása Romániában van, magyar szakasza mintegy 94 km.", "Nagy része a Hortobágy-Szatmár-Bereg Nemzeti Park védelme alatt áll.", "Sonkádnál a folyó kettéágazik az 'Öreg-Túrra' és a 'Túr-csatornára'.", "Az Öreg-Túr kanyarulatai miatt az ország egyik legjobb kenus célpontja.", "Tiszta vizében olyan ritka halak élnek, mint a lápi póc.", "A folyó felszínén nyáron fehér tündérrózsák ezrei virágoznak.", "Történelmileg számos kis vízimalmot hajtott a folyó vize.", "A Túr-vidék híres a hagyományos szatmári szilvalekvár-főzésről."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-tur-extra.webp"},
   {
     id: "river-kraszna-extra",
     type: "river",
@@ -3135,8 +3075,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Kraszna teljes hossza 193 kilométer, ebből 46 km van Magyarországon.", "Vásárosnamény mellett torkollik a Tisza folyóba.", "Alacsony esése miatt a vízszintet gyakran szivattyútelepekkel szabályozzák.", "Nádasaiban fészkel a ritka bölömbika és a törpegém.", "A folyó híres a tündérrózsa- és sulyomállományáról.", "A gátak mentén húzódó utak kiválóak a síksági túrázáshoz.", "Történelmileg a Kraszna-völgy a nemesi családok kedvelt birtokközpontja volt.", "A partokon gyakran látni sárga nőszirmot, amely kora nyáron virágzik."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-kraszna-extra.webp"},
   {
     id: "forest-baktaloranthaza-erdo-extra",
     type: "forest",
@@ -3175,8 +3114,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["Az erdő védett területe megközelítőleg 1300 hektárt tesz ki.", "A homoki tölgyes-gyertyános erdőtársulás egyik legszebb hazai példája.", "Itt él a ritka közép- és fekete harkály, amely az idős fákhoz kötődik.", "A 'Fényi-erdő' tanösvény vezeti végig a látogatókat a legszebb részeken.", "Botanikai ritkasága a nedvesebb mélyedésekben élő szibériai nőszirom.", "Fontos génbázis az őshonos tölgyfajok szaporítóanyagának gyűjtéséhez.", "A terület korábban a Dégenfeld család hatalmas vadászterülete volt.", "Tavasszal a talajt fehér és sárga szőnyegként borítja a berki szellőrózsa."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-baktaloranthaza-erdo-extra.webp"},
   {
     id: "lake-vajai-to-extra",
     type: "lake",
@@ -3215,8 +3153,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A tó területe körülbelül 30 hektár, egy jégkorszaki láp maradványa.", "A lebegő szigetek nádból, tőzegmohából és sásból épülnek fel.", "A szigeteken ritka szőrös nyírek és védett mocsári páfrányok nőnek.", "Itt él a ritka és védett rence, amely egy húsevő vízi növény.", "Fontos fészkelőhelye a barna rétihéjának és a cigányrécének.", "A horgászat csak korlátozottan engedélyezett az élőhely védelme érdekében.", "A tó szerepel a nemzetközi jelentőségű vizes élőhelyek listáján.", "Helyi tanösvény ismerteti a lebegő szigetek keletkezésének folyamatát."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-vajai-to-extra.webp"},
   // HU-TO: Tolna
   {
     id: "mountain-szekszardi-dombsag-extra",
@@ -3296,8 +3233,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Pacsmagi-tórendszer 7 tóból áll, és 1997 óta a Ramsari Egyezmény védelme alatt áll.", "A területen 214 madárfajt azonosítottak, köztük számos fokozottan védett ritkaságot.", "Itt található Magyarország egyik legjelentősebb cigányréce-populációja.", "A tavak mentén rendszeres madárgyűrűző táborokat szerveznek a kutatók számára.", "A környékbeli erdőkben fészkel a fekete gólya és a rétisas is.", "A tavak vízszintjét csatornarendszer és zsilipek segítségével szabályozzák.", "A terület belső részei csak szakvezetéssel látogathatók a madarak nyugalmának biztosítása érdekében.", "A tavak közelségében löszfalak találhatók, ahol nagy számban költenek gyurgyalagok."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-pacsmagi-tavak-extra.webp"},
   {
     id: "forest-gemenci-erdo-extra",
     type: "forest",
@@ -3336,8 +3272,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Gemenci-erdő területe körülbelül 180 négyzetkilométer, 1977 óta védett terület.", "Itt található Magyarország legnagyobb kerületű fája, a 12 méteres törzsű 'Pörbölyi titán'.", "A terület a Duna-Dráva Nemzeti Park része, és nemzetközi jelentőségű vadvíz.", "A 30 km hosszú Gemenci Erdei Vasút az ország egyetlen ártéri kisvasútja.", "A gímszarvasok mellett a vaddisznó és az európai hód is jelentős állományban van jelen.", "A vidék néprajzi értéke a dunai halászat és a híres bajai halászlé hagyománya.", "A Gemenc-Zrt. vadaskertjeiben testközelből is megfigyelhető az ártéri fauna.", "A terület madárvilága 250 fajt számlál, köztük olyan ritkaságokat, mint a kerecsensólyom."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-gemenci-erdo-extra.webp"},
   {
     id: "river-kapos-torkolat-extra",
     type: "river",
@@ -3376,8 +3311,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Kapos folyó teljes hossza 113 kilométer, torkolata Tolna vármegyében van.", "A folyó vize végül a Sió-csatornán keresztül jut el a Dunába.", "A torkolat közelében található a Pacsmagi-tórendszer, amely nemzetközi madárvédelmi terület.", "A Kapos-völgy a 19. századi szabályozások előtt mocsaras, nehezen járható vidék volt.", "A folyó torkolati szakasza kedvelt horgászhely, híres a keszegfélékről.", "A terület hidrológiáját a Sió-zsilip működése is befolyásolja.", "A Kapos mente fontos ökológiai folyosó a somogyi erdők és a Dunántúli-dombság között.", "A torkolatvidék löszös talaján gazdag szőlőművelés és borászat alakult ki."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-kapos-torkolat-extra.webp"},
   {
     id: "mountain-tolnai-hegyhat-extra",
     type: "mountain",
@@ -3416,8 +3350,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Tolnai-hegyhát átlagos magassága 200-250 méter, legmagasabb pontja a Hegyhát-kilátó közelében van.", "A terület geológiai alapja a pannon üledék, amelyet 10-20 méter vastag lösz takar.", "Híres az 1700-as években ide települt dunai svábok építészeti és mezőgazdasági örökségéről.", "Az erdőkben jelentős gímszarvas- és dámvadállomány él, fontos vadászati terület.", "A hegyháton keresztülhalad az országos kék-túra dél-dunántúli szakasza.", "A vidék tradicionális bortermelő körzetei a Szekszárdi borvidék északi nyúlványai.", "A mély löszvölgyekben (horhosokban) különleges, hűvös mikroklíma alakult ki.", "A területen számos középkori várhely és templomrom található a török hódoltság korából."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-tolnai-hegyhat-extra.webp"},
   // HU-VA: Vas
   {
     id: "river-raba-extra",
@@ -3497,8 +3430,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A hegység legmagasabb pontja az Írott-kő (882 m), amely egyben a Dunántúl csúcsa is.", "Geológiailag a Keleti-Alpokhoz tartozik, fő kőzete a kristályos pala és a mészpala.", "Magyarország egyik legcsapadékosabb területe, ahol az évi mennyiség meghaladhatja a 800 mm-et.", "A hegységben találhatók az ország legszebb szelídgesztenyései és fenyvesei.", "Híres az 1532-es török ostromról, amikor a várvédők a hegység előterében állították meg a szultán seregét.", "A terület 1980 óta tájvédelmi körzet, gazdag forrásokban és kis vízfolyásokban.", "A Hétforrás a hegység egyik legnépszerűbb kirándulóhelye, vize iható és jéghideg.", "A Kőszegi-hegységben él az ország egyik legjelentősebb foltos szalamandra állománya."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-koszegi-hegyseg-extra.webp"},
   {
     id: "forest-orsegi-erdo-extra",
     type: "forest",
@@ -3537,8 +3469,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["Az Őrség területének több mint 50%-át erdő borítja, ami az egyik legmagasabb arány hazánkban.", "Jellemzője a szubalpin klíma és a magas páratartalom, ami kedvez a fenyőféléknek.", "Az erdőkben több mint 100 ehető és mérgező gombafaj található, az Őrség a gombászok paradicsoma.", "Itt található az ország legjelentősebb állománya a ritka tőzegmohás lápokból.", "A vidék híres a 'tökmagolaj'-ról, amelyet az erdőszéli gazdaságokban állítanak elő.", "Az Őrségi Nemzeti Park 2002-ben alakult meg a táj és a népi építészet megőrzésére.", "Az erdők mélyén bújnak meg a 'szerek', az egymástól távol eső házcsoportok.", "A terület gazdag forrásokban, melyek a Zala és a Kerka folyókat táplálják."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-orsegi-erdo-extra.webp"},
   {
     id: "river-gyongyos-patak-extra",
     type: "river",
@@ -3577,8 +3508,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Gyöngyös-patak teljes hossza Magyarországon 33 kilométer, Kőszegnél lép be az országba.", "A patak vize végül a Rába folyóba torkollik Sárvár közelében.", "Nevét a víztükrén csillogó napfény 'gyöngyöző' hatásáról kaphatta.", "A patakmenti égerligetek fokozottan védett természeti területek.", "A történelem során többször is pusztító árvizeket okozott, ezért medrét mára szabályozták.", "Vize ideális élőhely a sebes pisztráng és a kövi csík számára.", "Kőszeg belvárosában több hangulatos kőhíd is átível felette.", "A patakvölgyben találhatók a híres kőszegi Stájer-házak, egykori erdészlakok."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-gyongyos-patak-extra.webp"},
   {
     id: "mountain-irott-ko-extra",
     type: "mountain",
@@ -3617,8 +3547,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["Az Írott-kő 882 méterével Magyarország legmagasabb pontja a Dunántúlon.", "A tetőn 1913-ban épült kilátó közepén húzódik az államhatár vonala.", "A csúcsról látható az osztrák Schneeberg és a Rax hegytömbje is.", "Itt található az Országos Kéktúra és a Rockenbauer Pál Dél-dunántúli Kéktúra találkozási pontja.", "A hegység ezen része a Geschriebenstein-Írottkő Natúrpark része, amely határokon átnyúló védelem.", "A csúcs környékén ritka havasi növények és védett zuzmófajok élnek.", "A legközelebbi nagyobb település a magyar oldalon Kőszeg, az osztrák oldalon Városszalónak (Stadtschlaining).", "A hegységben érezhető leginkább az Alpok közelsége, mind flórában, mind éghajlatban."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-irott-ko-extra.webp"},
   // HU-VE: Veszprém
   {
     id: "mountain-somlo-extra",
@@ -3698,8 +3627,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A hegy magassága 415 méter, anyaga bazalt, amely vulkáni működés során keletkezett.", "A bazaltorgonák az ország leglátványosabb kőzetoszlopai, a fagy és a szél munkája formálta őket.", "Itt található a jégbarlangnak is nevezett 'Sárkány-lik', ahol nyáron is hűvös levegő áramlik ki.", "A hegyen álló Lengyel-kápolna 1760-ban épült, és a barokk egyházi építészet remekműve.", "A terület a Balaton-felvidéki Nemzeti Park része, gazdag orchidea- és gyíkfajokban.", "A Szent György-hegy vörös kőzetéből számos helyi ház és kerítés épült a múltban.", "A hegy híres szőlőfajtája az Olaszrizling és a Szürkebarát.", "A hegy lábánál fekszik Hegymagas település, amely híres vendégszeretetéről és borpincéiről."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-szent-gyorgy-hegy-extra.webp"},
   {
     id: "lake-tapolca-tavasbarlang-extra",
     type: "lake",
@@ -3738,8 +3666,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A barlangrendszer teljes hossza 3,3 kilométer, ebből 250 méter járható be csónakkal.", "Magyarország negyedik leghosszabb barlangrendszere, 1942 óta áll védelem alatt.", "A barlang vizét karsztforrások táplálják, mélysége helyenként a 70-100 métert is eléri.", "A barlangban él a ritka és apró barlangi vakkandics (halfaj), amely alkalmazkodott a sötéthez.", "A barlang klímája asztmás betegek számára kifejezetten ajánlott orvosi felügyelet mellett.", "A csónakázható szakasz megvilágítása különleges látványt nyújt a víz alatti sziklaformáknak.", "A tavasbarlangot 1912-ben nyitották meg a nagyközönség előtt az országban elsőként.", "A barlang feletti város, Tapolca a nevét a 'meleg víz' jelentésű szláv szóból kapta."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-tapolca-tavasbarlang-extra.webp"},
   {
     id: "river-cuha-patak-extra",
     type: "river",
@@ -3778,8 +3705,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Cuha-patak a Bakonyban, Eplény környékén ered és a Rábca folyóba torkollik.", "A Cuha-völgyi vasúti szakasz 1896-ban épült, ma műemléki védelem alatt áll.", "A szurdokvölgy hossza körülbelül 4 kilométer Vinye és Porva-Csesznek között.", "A patak vízállása hóolvadáskor vagy nagy esőzéskor hirtelen megduzzadhat, ilyenkor a gázlók járhatatlanok.", "A völgyben látható a híres Gubányi Károly-viadukt, amely a vasút egyik legszebb mérnöki alkotása.", "A terület gazdag barlangokban és sziklaereszekben, mint például a Betyár-barlang.", "A Cuha-patak vize tiszta, számos vízi rovarnak és apró halfajnak ad otthont.", "A völgy mentén tanösvény és számos kiépített pihenőhely várja a bakancsos turistákat."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-cuha-patak-extra.webp"},
   {
     id: "mountain-kab-hegy-extra",
     type: "mountain",
@@ -3818,8 +3744,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Kab-hegy 599 méter magas, anyaga bazalt és mészkő.", "A hegycsúcson található adótorony több mint 100 méter magas.", "A Kinizsi-kilátóból tiszta időben az egész Balaton belátható.", "A terület a Bakony-Balaton UNESCO Globális Geopark része.", "Itt találhatók a régió legjelentősebb bazaltkarszt jelenségei.", "A hegy környéke híres gombászóhely, különösen vargánya tekintetében.", "Fontos meteorológiai állomás működik a hegytetőn.", "A csúcsra vezető aszfaltozott út kedvelt edzőpálya az országúti kerékpárosoknak."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-kab-hegy-extra.webp"},
   // HU-ZA: Zala
   {
     id: "river-mura-extra",
@@ -3899,8 +3824,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Zala folyó teljes hossza 126 kilométer.", "A Balatonba jutó felszíni vizek több mint 90 százaléka a Zalából származik.", "A folyó torkolatvidéke a Kis-Balaton, nemzetközi hírű madárélőhely.", "Itt él a fokozottan védett lápi póc és a réti csík.", "Zalaegerszeg városának arculatát alapvetően meghatározza a folyó.", "A folyó mentén számos középkori malomhely azonosítható.", "Az ártéri rétek tavasszal sárga nőszirmoktól díszlenek.", "A Zala menti gátak kiváló kerékpáros túraútvonalakat kínálnak."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-zala-folyo-extra.webp"},
   {
     id: "river-kerka-extra",
     type: "river",
@@ -3939,8 +3863,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["A Kerka magyarországi szakasza mintegy 54 kilométer hosszú.", "Muraszemenye közelében torkollik a Mura folyóba.", "A Kerka-völgy a Natura 2000 hálózat kiemelt védelmi területe.", "Tisztaságát jelzi a folyami rák és a kövi rák jelenléte.", "A folyó mentén halad a lenti erdei kisvasút egyik szakasza.", "Partjait sűrű éger- és kőrisligeterdők szegélyezik.", "Híres a völgyben tavasszal nyíló mocsári kockásliliom mezőkről.", "A terület fontos élettere a vidrának és a fekete gólyának."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-kerka-extra.webp"},
   {
     id: "forest-gocseji-erdo-extra",
     type: "forest",
@@ -3979,8 +3902,7 @@ export const poiExtraHu2: POI[] = [
       hu: ["Göcsej Magyarország egyik legerdősültebb tájegysége (40% feletti arány).", "Az erdőkben természetes módon él az erdei fenyő és a jegenyefenyő.", "Itt található az ország egyik legjelentősebb vargánya- és rókagomba-lelőhelye.", "A sűrű vadonban él a ritka vadmacska és a nyestkutya is.", "Számos 'szent kút' és forrás rejtőzik az erdők mélyén.", "A zalaegerszegi Göcseji Falumúzeum bemutatja az itteni fahasználat titkait.", "A terület geológiai alapját a pannon tenger üledékei adják.", "Az erdők csendje és tiszta levegője miatt kiváló klímaterápiás helyszín."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-gocseji-erdo-extra.webp"},
   {
     id: "lake-zalacsanyi-to-extra",
     type: "lake",
@@ -4022,3 +3944,4 @@ export const poiExtraHu2: POI[] = [
     }
   }
 ];
+

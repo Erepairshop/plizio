@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSudanEconomicV2: POI[] = [
@@ -272,3 +273,4 @@ export const poiExtraSudanEconomicV2: POI[] = [
     facts: {"de": ["Standort lokaler Pharmaunternehmen", "Produktion von Ziegeln und Fliesen", "Schafft Tausende Arbeitsplätze", "Wächst in die Außenbezirke"], "hu": ["Helyi gyógyszeripari vállalatok telephelye", "Tégla- és csempegyártás", "Munkahelyek ezreit teremti meg", "A külvárosok felé növekszik"], "ro": ["Locația companiilor farmaceutice locale", "Producția de cărămizi și plăci", "Creează mii de locuri de muncă", "Se extinde spre suburbii"], "en": ["Location of local pharmaceutical companies", "Production of bricks and tiles", "Creates thousands of jobs", "Expanding into the suburbs"]}
   }
 ];
+

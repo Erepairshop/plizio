@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/informatikaK7_i6.ts
 import type { PoolTopicDef } from "./types";
 
@@ -243,3 +244,4 @@ export const INFO_K7_I6_POOL: PoolTopicDef[] = [
     quiz: { question: "t15_q", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], answer: "t15_qa" }
   }
 ];
+

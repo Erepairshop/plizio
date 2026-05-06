@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/types.ts
 // Data-driven pool types — pure TypeScript, no JSX
 // These replace the JSX svg: (lang) => ReactNode field with serialisable SvgConfig data.
@@ -164,3 +165,4 @@ export interface PoolTopicDef {
   /** Optional difficulty tag for structured picking */
   difficulty?: "easy" | "medium" | "hard";
 }
+

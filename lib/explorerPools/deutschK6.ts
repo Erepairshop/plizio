@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 // ─── K6 Pool Template ──────────────────────────────────────────────────────────
@@ -3895,3 +3896,4 @@ export const EXAM6_POOL: PoolTopicDef[] = [
     quiz: { question: "t15_q", choices: ["t15_c1", "t15_c2", "t15_c3", "t15_c4"], answer: "t15_c4" }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuineaCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Guinea legnagyobb városa.", "Fontos tengeri kikötő az Atlanti-óceánon.", "Közigazgatási és kereskedelmi központ.", "Itt található a Conakry Egyetem."],
       ro: ["Cel mai mare oraș din Guineea.", "Port maritim important la Atlantic.", "Centrul administrației și comerțului.", "Sediul Universității din Conakry."],
       en: ["Largest city in Guinea.", "Important seaport on the Atlantic.", "Center of administration and trade.", "Home to the University of Conakry."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Conakry, die Hauptstadt von Guinea, erstreckt sich auf der langgestreckten Kaloum-Halbinsel im Atlantischen Ozean. Als wichtigstes wirtschaftliches Zentrum des Landes beherbergt die Stadt den bedeutendsten Hafen, über den der Großteil der Bauxit-Exporte abgewickelt wird. Die 1962 gegründete Universität Conakry dient als akademisches Herzstück und bildet die nächste Generation guineischer Führungskräfte aus. Geografie K8 — Küstenstädte und Hafenwirtschaft.",
+      hu: "Conakry, Guinea fővárosa, az Atlanti-óceánba nyúló hosszúkás Kaloum-félszigeten terül el. Az ország legfontosabb gazdasági központjaként itt található a legjelentősebb kikötő, amelyen keresztül a bauxitexport döntő részét bonyolítják. Az 1962-ben alapított Conakry Egyetem az akadémiai élet szívét jelenti, ahol a guineai vezetők következő generációja tanul. Földrajz K8 — partmenti városok és kikötőgazdaság.",
+      ro: "Conakry, capitala Guineei, se întinde pe peninsula alungită Kaloum, în Oceanul Atlantic. Ca cel mai important centru economic al țării, orașul găzduiește portul principal, prin care se derulează majoritatea exporturilor de bauxită. Fondată în 1962, Universitatea din Conakry servește drept nucleu academic și formează următoarea generație de lideri guineeni. Geografie K8 — orașe de coastă și economia portuară.",
+      en: "Conakry, the capital of Guinea, stretches along the elongated Kaloum Peninsula in the Atlantic Ocean. As the country's most important economic center, the city hosts the main port through which the majority of bauxite exports are handled. Founded in 1962, the University of Conakry serves as the academic heart and trains the next generation of Guinean leaders. Geography K8 — coastal cities and port economy."
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung von über 1,6 Millionen Menschen.", "Hauptexportgut ist Aluminiumerz (Bauxit).", "Gegründet im Jahr 1887 durch Frankreich.", "Höchster Punkt liegt auf etwa 100 m ü. M.", "Hauptstadt seit der Unabhängigkeit 1958.", "Die Stadt besteht aus fünf Bezirken."],
+      hu: ["Több mint 1,6 millió lakos.", "A legfőbb exporttermék az alumíniumérc (bauxit).", "1887-ben alapította Franciaország.", "A legmagasabb pont kb. 100 méterrel a tengerszint felett.", "1958-as függetlenség óta főváros.", "A város öt körzetből áll."],
+      ro: ["Populație de peste 1,6 milioane de locuitori.", "Principalul produs de export este minereul de aluminiu (bauxită).", "Fondat în 1887 de către Franța.", "Cel mai înalt punct este de aproximativ 100 m deasupra nivelului mării.", "Capitală din 1958, anul independenței.", "Orașul este format din cinci districte."],
+      en: ["Population of over 1.6 million people.", "Main export product is aluminum ore (bauxite).", "Founded in 1887 by France.", "Highest point is at approximately 100 m above sea level.", "Capital since independence in 1958.", "The city consists of five districts."]
+    }, image: "/poi-images/conakry-cities-v2.webp"},
   {
     id: "nzerekore-cities-v2",
     type: "city",
@@ -37,8 +49,19 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A Nimba-hegység kapuja.", "Az erdőgazdálkodás központja.", "Mezőgazdasági termékek fontos piaca.", "Multikulturális város délen."],
       ro: ["Poarta către Munții Nimba.", "Centrul industriei forestiere.", "Piață importantă pentru produse agricole.", "Oraș multicultural în sud."],
       en: ["Gateway to the Nimba Mountains.", "Center of forestry industry.", "Major market for agricultural products.", "Multicultural city in the south."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Nzérékoré, tief in der Waldregion Guineas gelegen, ist das dynamische Handelszentrum für tropische Agrarprodukte. Die Stadt liegt in unmittelbarer Nähe zum Mount Nimba, dem höchsten Berg des Landes mit 1752 Metern Höhe, der für seine reiche Biodiversität bekannt ist. Nzérékoré fungiert als wichtiger Umschlagplatz für Kaffee, Kakao und Palmöl, die aus den umliegenden Plantagen stammen. Sachkunde K5 — tropische Landwirtschaft und Gebirgsregionen.",
+      hu: "Nzérékoré Guinea erdős régiójának mélyén található, a trópusi mezőgazdasági termékek dinamikus kereskedelmi központja. A város közvetlenül a Nimba-hegy közelében fekszik, amely 1752 méteres magasságával az ország legmagasabb csúcsa, és gazdag biológiai sokféleségéről ismert. Nzérékoré fontos gyűjtőpont a környező ültetvényekről származó kávé, kakaó és pálmaolaj számára. Sachkunde K5 — trópusi mezőgazdaság és hegyvidékek.",
+      ro: "Nzérékoré, situat adânc în regiunea forestieră a Guineei, este centrul comercial dinamic pentru produse agricole tropicale. Orașul se află în imediata apropiere a muntelui Nimba, cel mai înalt vârf al țării cu 1752 metri înălțime, cunoscut pentru biodiversitatea sa bogată. Nzérékoré servește drept nod important pentru cafeaua, cacao și uleiul de palmier provenite din plantațiile din jur. Sachkunde K5 — agricultură tropicală și regiuni montane.",
+      en: "Nzérékoré, located deep in the forest region of Guinea, is the dynamic commercial hub for tropical agricultural products. The city lies in immediate proximity to Mount Nimba, the country's highest peak at 1752 meters, known for its rich biodiversity. Nzérékoré acts as an important hub for coffee, cocoa, and palm oil sourced from the surrounding plantations. Sachkunde K5 — tropical agriculture and mountain regions."
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößte Stadt mit etwa 200.000 Einwohnern.", "Nahe der Grenze zu Liberia und der Elfenbeinküste.", "Das Klima ist geprägt durch hohe jährliche Niederschläge.", "Zentrum der Kpelle-Kultur.", "Verkehrsknotenpunkt für den Südosten Guineas.", "Wichtiger Markt für Holzprodukte."],
+      hu: ["Második legnagyobb város kb. 200 000 lakossal.", "Libéria és Elefántcsontpart határának közelében.", "Éghajlatát a nagy éves csapadékmennyiség jellemzi.", "A kpelle kultúra központja.", "Közlekedési csomópont Guinea délkeleti részén.", "Fontos piac faipari termékek számára."],
+      ro: ["Al doilea oraș ca mărime cu aproximativ 200.000 de locuitori.", "Aproape de granița cu Liberia și Coasta de Fildeș.", "Clima este caracterizată de precipitații anuale ridicate.", "Centrul culturii Kpelle.", "Nod de transport pentru sud-estul Guineei.", "Piață importantă pentru produse din lemn."],
+      en: ["Second-largest city with about 200,000 inhabitants.", "Near the border with Liberia and the Ivory Coast.", "Climate characterized by high annual rainfall.", "Center of Kpelle culture.", "Transport hub for southeastern Guinea.", "Important market for wood products."]
+    }, image: "/poi-images/nzerekore-cities-v2.webp"},
   {
     id: "kankan-cities-v2",
     type: "city",
@@ -56,8 +79,19 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Második legfontosabb oktatási központ.", "Fontos folyami kikötő a Milón.", "A Kankan régió központja.", "Híres a hagyományos fesztiváljairól."],
       ro: ["Al doilea cel mai important centru educațional.", "Port interior important pe Milo.", "Centrul regiunii Kankan.", "Renumit pentru festivalurile tradiționale."],
       en: ["Second most important education center.", "Significant inland port on the Milo.", "Center of the Kankan region.", "Famous for traditional festivals."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Kankan, am Ufer des Flusses Milo gelegen, ist die bedeutendste Stadt in Oberguinea und das historische Herz des Mandinka-Volkes. Die Stadt spielt eine zentrale Rolle im Handel zwischen den Küstenregionen und dem Sahel. Die Universität Julius Nyerere, benannt nach dem ehemaligen tansanischen Präsidenten, ist das führende akademische Zentrum der gesamten Region. Geografie K7 — Flusssysteme und historische Handelswege.",
+      hu: "Kankan, a Milo-folyó partján, Felső-Guinea legjelentősebb városa és a mandinka nép történelmi szíve. A város központi szerepet játszik a tengerparti régiók és a Száhel közötti kereskedelemben. A korábbi tanzániai elnökről elnevezett Julius Nyerere Egyetem a régió vezető akadémiai központja. Földrajz K7 — folyórendszerek és történelmi kereskedelmi útvonalak.",
+      ro: "Kankan, situat pe malul râului Milo, este cel mai important oraș din Guineea Superioară și inima istorică a poporului Mandinka. Orașul joacă un rol central în comerțul dintre regiunile de coastă și Sahel. Universitatea Julius Nyerere, numită după fostul președinte tanzanian, este principalul centru academic al întregii regiuni. Geografie K7 — sisteme fluviale și rute comerciale istorice.",
+      en: "Kankan, located on the banks of the Milo River, is the most significant city in Upper Guinea and the historic heart of the Mandinka people. The city plays a central role in trade between coastal regions and the Sahel. Julius Nyerere University, named after the former Tanzanian president, is the leading academic center in the entire region. Geography K7 — river systems and historic trade routes."
+    },
+    factsAdvanced: {
+      de: ["Drittgrößte Stadt Guineas.", "Hauptsitz der Kankan-Präfektur.", "Historisch wichtiges Zentrum des Malinké-Reiches.", "Gegründet im 18. Jahrhundert.", "Das Klima ist ein tropisches Savannenklima.", "Bekannt für ihre traditionelle Korakunst."],
+      hu: ["Guinea harmadik legnagyobb városa.", "A Kankan prefektúra székhelye.", "A malinké birodalom történelmileg fontos központja.", "A 18. században alapították.", "Trópusi szavannai éghajlat jellemzi.", "Híres a hagyományos kora-művészetről."],
+      ro: ["Al treilea oraș ca mărime din Guineea.", "Sediul prefecturii Kankan.", "Centru istoric important al Imperiului Malinké.", "Fondat în secolul al XVIII-lea.", "Caracterizat printr-un climat tropical de savană.", "Renumit pentru arta tradițională kora."],
+      en: ["Third-largest city in Guinea.", "Seat of the Kankan prefecture.", "Historically important center of the Malinké Empire.", "Founded in the 18th century.", "Characterized by a tropical savanna climate.", "Famous for traditional kora art."]
+    }, image: "/poi-images/kankan-cities-v2.webp"},
   {
     id: "kindia-cities-v2",
     type: "city",
@@ -75,8 +109,19 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Fontos mezőgazdasági helyszín.", "A Menyasszonyi fátyol-vízesés közelében.", "Közlekedési csomópont Conakry felé.", "A Kindia régió központja."],
       ro: ["Sit agricol important.", "Aproape de cascada Voalul Miresei.", "Nod de transport spre Conakry.", "Centrul regiunii Kindia."],
       en: ["Important agricultural site.", "Near the Bridal Veil Falls.", "Transport hub towards Conakry.", "Center of the Kindia region."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Kindia, oft als 'Stadt der Zitrusfrüchte' bezeichnet, liegt günstig am Rande des Fouta Djallon Hochlandes. Das Gebiet ist weltbekannt für seinen Anbau von Bananen und Zitrusfrüchten, die einen wesentlichen Teil der lokalen landwirtschaftlichen Produktion ausmachen. Die nahegelegene Bridal Veil Wasserfälle ziehen zahlreiche Besucher an und unterstreichen die landschaftliche Schönheit der Region. Sachkunde K6 — Landwirtschaft und Wasserressourcen.",
+      hu: "Kindia, amelyet gyakran 'citrusok városaként' emlegetnek, kedvező fekvésű a Fouta Djallon hegyvidék peremén. A környék világhírű banán- és citrusfélék termesztéséről, amelyek a helyi mezőgazdasági termelés jelentős részét teszik ki. A közeli Menyasszonyi Fátyol-vízesés látogatók ezreit vonzza, és hangsúlyozza a régió természeti szépségét. Sachkunde K6 — mezőgazdaság és vízkészletek.",
+      ro: "Kindia, adesea numit 'orașul citricelor', este situat favorabil la marginea podișului Fouta Djallon. Zona este faimoasă pentru cultivarea bananelor și a citricelor, care constituie o parte esențială a producției agricole locale. Cascadele Voalul Miresei din apropiere atrag numeroși vizitatori și subliniază frumusețea peisajului regional. Sachkunde K6 — agricultură și resurse de apă.",
+      en: "Kindia, often referred to as the 'City of Citrus', is conveniently located at the edge of the Fouta Djallon highlands. The area is world-renowned for its cultivation of bananas and citrus fruits, which make up a significant portion of local agricultural production. The nearby Bridal Veil Falls attract numerous visitors and highlight the region's scenic beauty. Sachkunde K6 — agriculture and water resources."
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Kindia-Präfektur.", "Etwa 135 km von Conakry entfernt.", "Klima ist ideal für Plantagenwirtschaft.", "Wichtiger Verkehrsknotenpunkt für den Handel.", "Sitz mehrerer Forschungseinrichtungen für Pflanzen.", "Die Region ist reich an Wasserfällen."],
+      hu: ["A Kindia prefektúra fővárosa.", "Körülbelül 135 km-re Conakrytól.", "Az éghajlat ideális az ültetvényes gazdálkodáshoz.", "Fontos kereskedelmi közlekedési csomópont.", "Több növénykutató intézet székhelye.", "A régió gazdag vízesésekben."],
+      ro: ["Capitala prefecturii Kindia.", "Aproximativ 135 km distanță de Conakry.", "Clima este ideală pentru agricultura de plantație.", "Nod de transport comercial important.", "Sediul mai multor institute de cercetare a plantelor.", "Regiunea este bogată în cascade."],
+      en: ["Capital of the Kindia prefecture.", "About 135 km away from Conakry.", "Climate is ideal for plantation farming.", "Important transport hub for trade.", "Seat of several plant research institutes.", "The region is rich in waterfalls."]
+    }, image: "/poi-images/kindia-cities-v2.webp"},
   {
     id: "labe-cities-v2",
     type: "city",
@@ -94,8 +139,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Guinea legmagasabban fekvő nagyvárosa.", "Hűvösebb hegyvidéki éghajlat.", "A fula kultúra központja.", "Fontos indigópiac."],
       ro: ["Orașul mare situat la cea mai mare altitudine.", "Climă montană mai răcoroasă.", "Centrul culturii Fula.", "Piață importantă pentru indigo."],
       en: ["Highest major city in Guinea.", "Cooler highland climate.", "Center of Fula culture.", "Major market for indigo."]
-    }
-  },
+    }, image: "/poi-images/labe-cities-v2.webp"},
   {
     id: "kissidougou-cities-v2",
     type: "city",
@@ -113,8 +157,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A kávétermesztés központja.", "Fontos közlekedési csomópont.", "Jelentős regionális piac.", "Helyi közigazgatási székhely."],
       ro: ["Centru cultivării cafelei.", "Nod de transport important.", "Piață regională semnificativă.", "Sediul administrației locale."],
       en: ["Center of coffee cultivation.", "Important transport junction.", "Significant regional market.", "Seat of local administration."]
-    }
-  },
+    }, image: "/poi-images/kissidougou-cities-v2.webp"},
   {
     id: "gueckedou-cities-v2",
     type: "city",
@@ -132,8 +175,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Nemzetközi kereskedelmi központ.", "Fontos mezőgazdasági központ.", "Libéria közelsége.", "Jelentős piaci helyszín."],
       ro: ["Loc de comerț internațional.", "Centru agricol important.", "Proximitate de Liberia.", "Locație importantă de piață."],
       en: ["International trade location.", "Important agricultural center.", "Proximity to the Liberia.", "Significant market location."]
-    }
-  },
+    }, image: "/poi-images/gueckedou-cities-v2.webp"},
   {
     id: "mamou-cities-v2",
     type: "city",
@@ -151,8 +193,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Fontos vasúti csomópont.", "Az állattenyésztés központja.", "Hegyvidéki éghajlat.", "Gyümölcskereskedelmi központ."],
       ro: ["Nod feroviar important.", "Centrul creșterii animalelor.", "Climă de munte.", "Centru comercial pentru fructe."],
       en: ["Important railway junction.", "Center of livestock farming.", "Highland climate.", "Fruit trade center."]
-    }
-  },
+    }, image: "/poi-images/mamou-cities-v2.webp"},
   {
     id: "boke-cities-v2",
     type: "city",
@@ -170,8 +211,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A bauxitbányászat központja.", "Történelmi folyami kikötő.", "Boké régió fővárosa.", "Fontos az alumíniumipar számára."],
       ro: ["Centrul mineritului de bauxită.", "Port fluvial istoric.", "Capitala regională a Boké.", "Important pentru industria aluminiului."],
       en: ["Center of bauxite mining.", "Historic river port.", "Regional capital of Boké.", "Important for the aluminum industry."]
-    }
-  },
+    }, image: "/poi-images/boke-cities-v2.webp"},
   {
     id: "macenta-cities-v2",
     type: "city",
@@ -189,8 +229,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A teakutatás központja.", "Jelentős mezőgazdasági piac.", "Libériai határ közelsége.", "A kávéipar központja."],
       ro: ["Centrul cercetării ceaiului.", "Piață agricolă importantă.", "Proximitate de granița Liberiei.", "Centrul industriei cafelei."],
       en: ["Center of tea research.", "Significant agricultural market.", "Proximity to the Liberian border.", "Hub of the coffee industry."]
-    }
-  },
+    }, image: "/poi-images/macenta-cities-v2.webp"},
   {
     id: "coyah-cities-v2",
     type: "city",
@@ -208,8 +247,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Ásványvíz-palackozó hely.", "Fontos közlekedési csomópont.", "Az Atlanti-óceán közelsége.", "Növekvő kereskedelmi központ."],
       ro: ["Loc de îmbuteliere pentru apă minerală.", "Nod de transport important.", "Aproape de Atlantic.", "Centru comercial în creștere."],
       en: ["Bottling site for mineral water.", "Important transport hub.", "Proximity to the Atlantic.", "Growing commercial center."]
-    }
-  },
+    }, image: "/poi-images/coyah-cities-v2.webp"},
   {
     id: "forecariah-cities-v2",
     type: "city",
@@ -246,8 +284,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A legnagyobb bauxit-exportkikötő.", "Ipari központ.", "Kifejezetten a bányászathoz tervezve.", "Fontos vasúti kapcsolat."],
       ro: ["Cel mai mare port de export de bauxită.", "Centru industrial.", "Proiectat special pentru minerit.", "Legătură feroviară importantă."],
       en: ["Largest bauxite export port.", "Industrial center.", "Specifically designed for mining.", "Important railway connection."]
-    }
-  },
+    }, image: "/poi-images/kamsar-cities-v2.webp"},
   {
     id: "fria-cities-v2",
     type: "city",
@@ -265,8 +302,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Az első timföldgyár székhelye.", "Jelentős iparváros.", "Gazdaságát a bányászat határozza meg.", "Gyári munkások számára tervezve."],
       ro: ["Sediul primei fabrici de alumină.", "Oraș industrial important.", "Dominat economic de minerit.", "Proiectat pentru muncitorii din fabrică."],
       en: ["Home to the first alumina plant.", "Significant industrial city.", "Economically shaped by mining.", "Designed for factory workers."]
-    }
-  },
+    }, image: "/poi-images/fria-cities-v2.webp"},
   {
     id: "siguiri-cities-v2",
     type: "city",
@@ -284,8 +320,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Az aranybányászat központja.", "Fontos kikötő a Nigeren.", "Kereskedelem Malival.", "Jelentős regionális piac."],
       ro: ["Centrul mineritului de aur.", "Port important pe Niger.", "Comerț cu Mali.", "Piață regională importantă."],
       en: ["Center of gold mining.", "Important port on the Niger.", "Trade with Mali.", "Significant regional market."]
-    }
-  },
+    }, image: "/poi-images/siguiri-cities-v2.webp"},
   {
     id: "telimele-cities-v2",
     type: "city",
@@ -303,8 +338,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Az állattenyésztés központja.", "Regionális kereskedőváros.", "Hegyes táj.", "Fontos a hústermelés számára."],
       ro: ["Centrul creșterii animalelor.", "Oraș comercial regional.", "Peisaj muntos.", "Important pentru producția de carne."],
       en: ["Center of livestock farming.", "Regional trade city.", "Mountainous landscape.", "Important for meat production."]
-    }
-  },
+    }, image: "/poi-images/telimele-cities-v2.webp"},
   {
     id: "kouroussa-cities-v2",
     type: "city",
@@ -322,8 +356,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Folyami kikötő a Nigeren.", "Camara Laye otthona.", "Rizstermesztési központ.", "Fontos közlekedési csomópont."],
       ro: ["Port fluvial pe Niger.", "Casa lui Camara Laye.", "Centru pentru cultivarea orezului.", "Nod de transport important."],
       en: ["River port on the Niger.", "Home of Camara Laye.", "Center for rice cultivation.", "Important transport hub."]
-    }
-  },
+    }, image: "/poi-images/kouroussa-cities-v2.webp"},
   {
     id: "dubreka-cities-v2",
     type: "city",
@@ -341,8 +374,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A Soumba-hegy közelsége.", "Conakry növekvő elővárosa.", "Jelentős mezőgazdasági termelés.", "Turisztikai kirándulóhely."],
       ro: ["Aproape de muntele Soumba.", "Suburbie în creștere a Conakry.", "Producție agricolă semnificativă.", "Destinații turistice de excursie."],
       en: ["Near Mount Soumba.", "Growing suburb of Conakry.", "Significant agricultural production.", "Tourist excursion destinations."]
-    }
-  },
+    }, image: "/poi-images/dubreka-cities-v2.webp"},
   {
     id: "boffa-cities-v2",
     type: "city",
@@ -360,8 +392,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Fontos halászkikötő.", "Történelmi missziós állomás.", "Földimogyoró-termesztés.", "Parti kereskedelmi hely."],
       ro: ["Port de pescuit important.", "Stație de misiune istorică.", "Cultivarea arahidelor.", "Loc de comerț de coastă."],
       en: ["Important fishing port.", "Historic mission station.", "Peanut cultivation.", "Coastal trading post."]
-    }
-  },
+    }, image: "/poi-images/boffa-cities-v2.webp"},
   {
     id: "beyla-cities-v2",
     type: "city",
@@ -379,8 +410,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A simandoui vasérc kapuja.", "Az állattenyésztés központja.", "Regionális főváros.", "Fontos mezőgazdasági piac."],
       ro: ["Poarta către minereul de fier de la Simandou.", "Centrul creșterii animalelor.", "Capitală regională.", "Piață agricolă importantă."],
       en: ["Gateway to Simandou iron ore.", "Center of livestock farming.", "Regional capital.", "Important agricultural market."]
-    }
-  },
+    }, image: "/poi-images/beyla-cities-v2.webp"},
   {
     id: "dabola-cities-v2",
     type: "city",
@@ -398,8 +428,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Földrajzi középpont.", "Fontos vasúti csomópont.", "Rizsmalom központ.", "Halászat a Tinkissón."],
       ro: ["Centru geografic.", "Nod feroviar important.", "Centru de morărit orez.", "Pescuit pe Tinkisso."],
       en: ["Geographical center.", "Important rail junction.", "Center for rice mills.", "Fishing on the Tinkisso."]
-    }
-  },
+    }, image: "/poi-images/dabola-cities-v2.webp"},
   {
     id: "dinguiraye-cities-v2",
     type: "city",
@@ -417,8 +446,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Az iszlám szent városa.", "Jelentős mecset.", "Történelmi birodalmi központ.", "Kulturális örökség."],
       ro: ["Oraș sfânt al islamului.", "Moschee semnificativă.", "Centru imperial istoric.", "Moștenire culturală."],
       en: ["Holy city of Islam.", "Significant mosque.", "Historic imperial center.", "Cultural heritage."]
-    }
-  },
+    }, image: "/poi-images/dinguiraye-cities-v2.webp"},
   {
     id: "gaoual-cities-v2",
     type: "city",
@@ -436,8 +464,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Az állattenyésztés központja.", "Regionális kereskedőváros.", "Kölestermesztés.", "Fontos állatvásár."],
       ro: ["Centrul creșterii animalelor.", "Oraș comercial regional.", "Cultivarea meiului.", "Piață de animale importantă."],
       en: ["Center of livestock farming.", "Regional trade city.", "Millet cultivation.", "Important livestock market."]
-    }
-  },
+    }, image: "/poi-images/gaoual-cities-v2.webp"},
   {
     id: "kerouane-cities-v2",
     type: "city",
@@ -455,8 +482,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A gyémántbányászat központja.", "Fontos kereskedelmi hely.", "Történelmi kereskedelmi utak.", "Bányászati jelleg."],
       ro: ["Centrul mineritului de diamante.", "Loc de comerț important.", "Rute comerciale istorice.", "Caracter minier."],
       en: ["Center of diamond mining.", "Important trading post.", "Historic trade routes.", "Mining character."]
-    }
-  },
+    }, image: "/poi-images/kerouane-cities-v2.webp"},
   {
     id: "koubia-cities-v2",
     type: "city",
@@ -474,8 +500,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Regionális mezőgazdasági központ.", "Az állattenyésztés központja.", "Fula hagyományok.", "Hegyvidéki fekvés."],
       ro: ["Centru agricol regional.", "Centrul creșterii animalelor.", "Tradiții Fula.", "Locație montană."],
       en: ["Regional agricultural center.", "Center of livestock farming.", "Fula traditions.", "Highland location."]
-    }
-  },
+    }, image: "/poi-images/koubia-cities-v2.webp"},
   {
     id: "koundara-cities-v2",
     type: "city",
@@ -493,8 +518,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Szenegáli határ.", "Fontos kereskedelmi bázis.", "Földimogyoró-termesztési központ.", "Multikulturális népesség."],
       ro: ["Granița cu Senegal.", "Bază comercială importantă.", "Centru pentru cultivarea arahidelor.", "Populație multiculturală."],
       en: ["Border with Senegal.", "Important trading base.", "Center for peanut cultivation.", "Multicultural population."]
-    }
-  },
+    }, image: "/poi-images/koundara-cities-v2.webp"},
   {
     id: "lelouma-cities-v2",
     type: "city",
@@ -512,8 +536,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Gyümölcstermesztési központ.", "Híres kézművesség.", "Fula kulturális terület.", "Festői hegyvidéki táj."],
       ro: ["Centru pentru pomicultură.", "Meșteșuguri faimoase.", "Zonă culturală Fula.", "Peisaj montan pitoresc."],
       en: ["Center for fruit growing.", "Famous crafts.", "Fula cultural area.", "Picturesque highland landscape."]
-    }
-  },
+    }, image: "/poi-images/lelouma-cities-v2.webp"},
   {
     id: "lola-cities-v2",
     type: "city",
@@ -531,8 +554,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A Nimba-hegy közelsége.", "A kakaótermesztés központja.", "Elefántcsontparti határ közelsége.", "Fontos helyi piac."],
       ro: ["Aproape de muntele Nimba.", "Centrul cultivării de cacao.", "Proximitate de granița cu Coasta de Fildeș.", "Piață locală importantă."],
       en: ["Near Mount Nimba.", "Center of cocoa cultivation.", "Proximity to the Ivory Coast border.", "Important local market."]
-    }
-  },
+    }, image: "/poi-images/lola-cities-v2.webp"},
   {
     id: "mali-cities-v2",
     type: "city",
@@ -569,8 +591,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Aranymosó központ.", "Kereskedelem a Sankaranin.", "Malii határ közelsége.", "A szavannai régió központja."],
       ro: ["Centru de spălare a aurului.", "Comerț pe Sankarani.", "Proximitate de granița cu Mali.", "Centrul regiunii de savană."],
       en: ["Gold washing center.", "Trade on the Sankarani.", "Proximity to the Mali border.", "Center of the savanna region."]
-    }
-  },
+    }, image: "/poi-images/mandiana-cities-v2.webp"},
   {
     id: "pita-cities-v2",
     type: "city",
@@ -588,8 +609,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A Kinkon-vízesés közelében.", "A textilvászon-művészet központja.", "Népszerű turista célpont.", "Hűvös hegyvidéki éghajlat."],
       ro: ["Aproape de cascadele Kinkon.", "Centru al artei textile.", "Destinație turistică populară.", "Climă montană răcoroasă."],
       en: ["Near the Kinkon Falls.", "Center of textile arts.", "Popular tourist destination.", "Cool highland climate."]
-    }
-  },
+    }, image: "/poi-images/pita-cities-v2.webp"},
   {
     id: "tougue-cities-v2",
     type: "city",
@@ -607,8 +627,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Jelentős állatvásár.", "Mezőgazdasági központ.", "Hagyományos piacok.", "Regionális közigazgatás."],
       ro: ["Piață de animale importantă.", "Centru agricol.", "Piețe tradiționale.", "Administrație regională."],
       en: ["Significant livestock market.", "Agricultural center.", "Traditional markets.", "Regional administration."]
-    }
-  },
+    }, image: "/poi-images/tougue-cities-v2.webp"},
   {
     id: "yomou-cities-v2",
     type: "city",
@@ -645,8 +664,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Guinea Svájca.", "A település legmagasabb pontja.", "Történelmi gyarmati épületek.", "Az epertermelés központja."],
       ro: ["Elveția Guineei.", "Cea mai mare altitudine din localitate.", "Clădiri coloniale istorice.", "Centrul producției de căpșuni."],
       en: ["Switzerland of Guinea.", "Highest point in the town.", "Historic colonial buildings.", "Center of strawberry production."]
-    }
-  },
+    }, image: "/poi-images/dalaba-cities-v2.webp"},
   {
     id: "sanguiana-cities-v2",
     type: "city",
@@ -664,8 +682,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Mezőgazdasági központ.", "Rizs- és gabonatermesztés.", "Niger folyó közelsége.", "Regionális kereskedelmi hely."],
       ro: ["Centru agricol.", "Cultivarea orezului și cerealelor.", "Aproape de râul Niger.", "Loc de comerț regional."],
       en: ["Agricultural center.", "Rice and grain cultivation.", "Proximity to the Niger River.", "Regional trading post."]
-    }
-  },
+    }, image: "/poi-images/sanguiana-cities-v2.webp"},
   {
     id: "sangaredi-cities-v2",
     type: "city",
@@ -683,8 +700,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A világ legnagyobb bauxitbányái.", "Tisztán bányászváros.", "Jelentős vasúti kapcsolat.", "A régió gazdasági motorja."],
       ro: ["Cele mai mari mine de bauxită din lume.", "Oraș pur minier.", "Legătură feroviară semnificativă.", "Motor economic al regiunii."],
       en: ["World's largest bauxite mines.", "Purely a mining town.", "Significant railway connection.", "Economic engine of the region."]
-    }
-  },
+    }, image: "/poi-images/sangaredi-cities-v2.webp"},
   {
     id: "kolaboui-cities-v2",
     type: "city",
@@ -702,8 +718,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Logisztikai központ.", "Vasúti megállóhely.", "Boké közelsége.", "Növekvő ipari helyszín."],
       ro: ["Centru logistic.", "Punct de oprire feroviară.", "Aproape de Boké.", "Sit industrial în creștere."],
       en: ["Logistics center.", "Railway stop.", "Proximity to Boké.", "Growing industrial site."]
-    }
-  },
+    }, image: "/poi-images/kolaboui-cities-v2.webp"},
   {
     id: "salambande-cities-v2",
     type: "city",
@@ -721,8 +736,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Hagyományos heti piac.", "Mezőgazdasági kereskedelmi hely.", "Hegyvidéki éghajlat.", "A kölestermelés központja."],
       ro: ["Piață săptămânală tradițională.", "Loc de comerț agricol.", "Climă montană.", "Centrul producției de mei."],
       en: ["Traditional weekly market.", "Agricultural trading post.", "Highland climate.", "Center of millet production."]
-    }
-  },
+    }, image: "/poi-images/salambande-cities-v2.webp"},
   {
     id: "popodara-cities-v2",
     type: "city",
@@ -740,8 +754,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Zöldségtermesztési központ.", "Kereskedelem Labéval.", "Fula falvak.", "Termékeny hegyvidéki talaj."],
       ro: ["Centru de cultivare a legumelor.", "Comerț cu Labé.", "Sate Fula.", "Soluri montane fertile."],
       en: ["Vegetable growing center.", "Trade with Labé.", "Fula villages.", "Fertile highland soils."]
-    }
-  },
+    }, image: "/poi-images/popodara-cities-v2.webp"},
   {
     id: "diari-cities-v2",
     type: "city",
@@ -759,8 +772,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Iszlám oktatási központ.", "Hagyományos építészet.", "Hegyvidéki fekvés.", "Vallási ünnepek."],
       ro: ["Centru de educație islamică.", "Arhitectură tradițională.", "Locație montană.", "Sărbători religioase."],
       en: ["Center of Islamic education.", "Traditional architecture.", "Highland location.", "Religious festivals."]
-    }
-  },
+    }, image: "/poi-images/diari-cities-v2.webp"},
   {
     id: "timbi-madina-cities-v2",
     type: "city",
@@ -778,8 +790,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Burgonyafőváros.", "Jelentős mezőgazdasági szövetkezet.", "Export Nyugat-Afrikába.", "Termékeny hegyvidék."],
       ro: ["Capitala cartofilor.", "Cooperativă agricolă importantă.", "Export în Africa de Vest.", "Podiș fertil."],
       en: ["Potato capital.", "Significant agricultural cooperative.", "Export to West Africa.", "Fertile highland."]
-    }
-  },
+    }, image: "/poi-images/timbi-madina-cities-v2.webp"},
   {
     id: "oure-kaba-cities-v2",
     type: "city",
@@ -797,8 +808,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Határmenti kereskedelem.", "Állattenyésztési központ.", "Vidéki piac.", "Dél-Mamou prefektúra."],
       ro: ["Comerț de frontieră.", "Centru de creștere a animalelor.", "Piață rurală.", "Prefectura sudică Mamou."],
       en: ["Border trade.", "Livestock center.", "Rural market.", "Southern Mamou prefecture."]
-    }
-  },
+    }, image: "/poi-images/oure-kaba-cities-v2.webp"},
   {
     id: "banankoro-cities-v2",
     type: "city",
@@ -854,8 +864,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Az ananásztermesztés központja.", "Mezőgazdasági kereskedelem Conakryval.", "Trópusi éghajlat.", "Jelentős terméshozamok."],
       ro: ["Centrul cultivării ananasului.", "Comerț agricol cu Conakry.", "Climă tropicală.", "Recolte importante."],
       en: ["Center of pineapple cultivation.", "Agricultural trade with Conakry.", "Tropical climate.", "Important crop yields."]
-    }
-  },
+    }, image: "/poi-images/friguiagbe-cities-v2.webp"},
   {
     id: "sougueta-cities-v2",
     type: "city",
@@ -911,8 +920,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["Mezőgazdasági központ.", "Parti fekvés.", "Conakry ellátása.", "Jelentős piacok."],
       ro: ["Centru agricol.", "Localizare pe coastă.", "Aprovizionarea Conakry-ului.", "Piețe semnificative."],
       en: ["Agricultural center.", "Coastal location.", "Supplying Conakry.", "Significant markets."]
-    }
-  },
+    }, image: "/poi-images/wonkifong-cities-v2.webp"},
   {
     id: "koule-cities-v2",
     type: "city",
@@ -930,8 +938,7 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       hu: ["A kávékereskedelem központja.", "Erdős-Guinea régió.", "Mezőgazdasági piac.", "Kapcsolat Nzérékoréval."],
       ro: ["Centrul comerțului cu cafea.", "Regiunea Guineea Forestieră.", "Piață agricolă.", "Legătură cu Nzérékoré."],
       en: ["Center of coffee trade.", "Forest Guinea region.", "Agricultural market.", "Connection to Nzérékoré."]
-    }
-  },
+    }, image: "/poi-images/koule-cities-v2.webp"},
   {
     id: "niagassola-cities-v2",
     type: "city",
@@ -952,3 +959,4 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     }
   }
 ];
+

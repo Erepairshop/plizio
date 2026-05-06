@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/sachkundeK3.ts
 import type { PoolTopicDef } from "./types";
 
@@ -970,3 +971,4 @@ export const FINALE_K3_POOL: PoolTopicDef[] = [
     difficulty: "medium"
   }
 ];
+

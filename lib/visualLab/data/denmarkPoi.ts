@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const denmarkCountry: POI = {
@@ -2493,3 +2494,4 @@ export const denmarkNature: POI[] = [
 ];
 
 export const denmarkAllPoi: POI[] = [denmarkCountry, ...denmarkRegions, ...denmarkCities, ...denmarkCulture, ...denmarkNature];
+

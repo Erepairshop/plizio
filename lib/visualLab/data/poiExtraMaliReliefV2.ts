@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMaliReliefV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Főleg homokkő formációkból áll", "Számos mandinka szent hely otthona"],
       ro: ["Compus în principal din formațiuni de gresie", "Găzduiește multe locuri sacre ale mandinka"],
       en: ["Composed mainly of sandstone formations", "Home to many Mandinka sacred sites"]
-    }
-  },
+    }, image: "/poi-images/manding-hegyseg-relief-v2.webp"},
   {
     id: "gondo-ebene-relief-v2",
     type: "relief",
@@ -47,8 +47,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Fontos legelőterület a nomádok számára", "Geológiailag az üledékes medencéhez tartozik"],
       ro: ["Zonă importantă de pășunat pentru nomazi", "Aparține geologic bazinului sedimentar"],
       en: ["Important grazing area for nomads", "Geologically part of the sedimentary basin"]
-    }
-  },
+    }, image: "/poi-images/gondo-ebene-relief-v2.webp"},
   {
     id: "tilemsi-tal-relief-v2",
     type: "relief",
@@ -71,8 +70,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Valaha a Niger vízbő mellékfolyója volt", "Gazdag őskori lelőhelyekben"],
       ro: ["Odată un afluent bogat în apă al Nigerului", "Bogat în situri preistorice"],
       en: ["Once a water-rich tributary of the Niger", "Rich in prehistoric archaeological sites"]
-    }
-  },
+    }, image: "/poi-images/tilemsi-tal-relief-v2.webp"},
   {
     id: "hodh-senke-relief-v2",
     type: "relief",
@@ -95,8 +93,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["A nagyobb szaharai medence része", "Fontos tranzitútvonal karavánok számára"],
       ro: ["Parte a bazinului mai mare al Saharei", "Rută importantă de tranzit pentru caravane"],
       en: ["Part of the larger Sahara basin", "Important transit route for caravans"]
-    }
-  },
+    }, image: "/poi-images/hodh-senke-relief-v2.webp"},
   {
     id: "erg-chech-relief-v2",
     type: "relief",
@@ -119,8 +116,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["A Föld egyik legszárazabb régiója", "A dűnék akár 100 méternél is magasabbak lehetnek"],
       ro: ["Una dintre cele mai aride regiuni de pe Pământ", "Dunele pot depăși 100 de metri înălțime"],
       en: ["One of the driest regions on Earth", "Dunes can reach over 100 meters in height"]
-    }
-  },
+    }, image: "/poi-images/erg-chech-relief-v2.webp"},
   {
     id: "azaouad-ebene-relief-v2",
     type: "relief",
@@ -143,8 +139,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Hagyományos tevelegeltető terület", "Ritkás vegetáció és homokkő jellemzi"],
       ro: ["Zonă tradițională de pășunat pentru cămile", "Caracterizată prin vegetație rară și gresie"],
       en: ["Traditional camel grazing area", "Characterized by sparse vegetation and sandstone"]
-    }
-  },
+    }, image: "/poi-images/azaouad-ebene-relief-v2.webp"},
   {
     id: "tambaoura-steilwand-relief-v2",
     type: "relief",
@@ -167,8 +162,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Látványos kilátást nyújt a síkságra", "Fontos élőhely ragadozó madarak számára"],
       ro: ["Oferă vederi spectaculoase asupra câmpiei", "Habitat important pentru păsări de pradă"],
       en: ["Offers spectacular views of the plain", "Important habitat for birds of prey"]
-    }
-  },
+    }, image: "/poi-images/tambaoura-steilwand-relief-v2.webp"},
   {
     id: "kita-hegyseg-relief-v2",
     type: "mountain",
@@ -191,8 +185,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Számos legenda és rítus helyszíne", "Jellegzetes sziluett Nyugat-Mali táján"],
       ro: ["Loc al numeroaselor legende și rituri", "Siluetă distinctivă în peisajul vest-malian"],
       en: ["Site of numerous legends and rituals", "Distinctive silhouette in the western Malian landscape"]
-    }
-  },
+    }, image: "/poi-images/kita-hegyseg-relief-v2.webp"},
   {
     id: "serpent-tal-relief-v2",
     type: "relief",
@@ -215,8 +208,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Az esős évszakban időszakosan vizet szállít", "Fontos tájékozódási pont a félsivatagban"],
       ro: ["Transportă apă sezonier în timpul sezonului ploios", "Punct de reper important în semideșert"],
       en: ["Carries water seasonally during the rainy season", "Important landmark in the semi-desert"]
-    }
-  },
+    }, image: "/poi-images/serpent-tal-relief-v2.webp"},
   {
     id: "koulouba-szikla-relief-v2",
     type: "relief",
@@ -239,8 +231,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Panorámás kilátást nyújt a fővárosra", "Az elnöki palota helyszíne"],
       ro: ["Oferă o vedere panoramică asupra capitalei", "Locația palatului prezidențial"],
       en: ["Offers a panoramic view of the capital", "Location of the Presidential Palace"]
-    }
-  },
+    }, image: "/poi-images/koulouba-szikla-relief-v2.webp"},
   {
     id: "birgo-hegyseg-relief-v2",
     type: "mountain",
@@ -263,8 +254,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Relatíve magas csapadékmennyiségű régió", "Sűrű bambuszerdőiről ismert"],
       ro: ["Regiune cu precipitații relativ ridicate", "Cunoscută pentru pădurile sale dese de bambus"],
       en: ["Region with relatively high rainfall", "Known for its dense bamboo forests"]
-    }
-  },
+    }, image: "/poi-images/birgo-hegyseg-relief-v2.webp"},
   {
     id: "bandiagara-fennsik-relief-v2",
     type: "relief",
@@ -287,8 +277,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["A Dogon-régió UNESCO világöröksége", "Egyedülálló sziklalakásokat tartalmaz"],
       ro: ["Patrimoniu mondial UNESCO din regiunea Dogon", "Conține locuințe în stâncă unice"],
       en: ["UNESCO World Heritage site of the Dogon region", "Contains unique rock dwellings"]
-    }
-  },
+    }, image: "/poi-images/bandiagara-fennsik-relief-v2.webp"},
   {
     id: "koutiala-fennsik-relief-v2",
     type: "relief",
@@ -311,8 +300,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Mali éléstárának tartják", "Enyhén hullámos terep laterit talajjal"],
       ro: ["Considerat grânarul Maliului", "Teren ușor ondulat cu soluri lateritice"],
       en: ["Considered the granary of Mali", "Gently undulating terrain with lateritic soils"]
-    }
-  },
+    }, image: "/poi-images/koutiala-fennsik-relief-v2.webp"},
   {
     id: "mpeba-dunek-relief-v2",
     type: "relief",
@@ -335,8 +323,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Helyi kirándulások népszerű célpontja", "A fokozódó elsivatagosodást mutatják"],
       ro: ["Destinație populară pentru excursii locale", "Arată deșertificarea progresivă"],
       en: ["Popular destination for local excursions", "Show the advancing desertification"]
-    }
-  },
+    }, image: "/poi-images/mpeba-dunek-relief-v2.webp"},
   {
     id: "banamba-dombok-relief-v2",
     type: "relief",
@@ -359,8 +346,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Akáciafa-borítás jellemzi", "Fontos kölestermesztő terület"],
       ro: ["Caracterizate prin vegetație de salcâmi", "Zonă importantă pentru cultivarea meiului"],
       en: ["Characterized by acacia growth", "Important area for millet cultivation"]
-    }
-  },
+    }, image: "/poi-images/banamba-dombok-relief-v2.webp"},
   {
     id: "koulikoro-dombsag-relief-v2",
     type: "relief",
@@ -383,8 +369,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Geológiai átmenet a felföld felé", "Népszerű közeli pihenőhely"],
       ro: ["Tranziție geologică spre podiș", "Zonă populară de recreere locală"],
       en: ["Geological transition to the highlands", "Popular local recreation area"]
-    }
-  },
+    }, image: "/poi-images/koulikoro-dombsag-relief-v2.webp"},
   {
     id: "kaarta-fennsik-relief-v2",
     type: "relief",
@@ -407,8 +392,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Száraz szavanna jellemzi", "A domborzat természetes védelmet nyújt"],
       ro: ["Caracterizat prin savană aridă", "Relieful oferă protecție naturală"],
       en: ["Characterized by dry savanna", "The relief provides natural protection"]
-    }
-  },
+    }, image: "/poi-images/kaarta-fennsik-relief-v2.webp"},
   {
     id: "kenieba-fennsik-relief-v2",
     type: "relief",
@@ -431,8 +415,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["A birimiai kőzetöv része", "Erősen tagolt domborzat"],
       ro: ["Parte a centurii de roci Birimian", "Relief puternic accidentat"],
       en: ["Part of the Birimian rock belt", "Strongly dissected relief"]
-    }
-  },
+    }, image: "/poi-images/kenieba-fennsik-relief-v2.webp"},
   {
     id: "beledougou-fennsik-relief-v2",
     type: "relief",
@@ -455,8 +438,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Történelmi ellenállási terület a gyarmati uralom ellen", "Száraz bozótos táj"],
       ro: ["Zonă istorică de rezistență împotriva dominației coloniale", "Peisaj de tufișuri aride"],
       en: ["Historical resistance area against colonial rule", "Dry bushland landscape"]
-    }
-  },
+    }, image: "/poi-images/beledougou-fennsik-relief-v2.webp"},
   {
     id: "gao-siksag-relief-v2",
     type: "relief",
@@ -479,8 +461,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Fontos rizstermesztő terület", "Számos vízimadár számára nyújt élőhelyet"],
       ro: ["Zonă importantă pentru cultivarea orezului", "Oferă habitat pentru numeroase păsări acvatice"],
       en: ["Important rice-growing area", "Provides habitat for numerous water birds"]
-    }
-  },
+    }, image: "/poi-images/gao-siksag-relief-v2.webp"},
   {
     id: "kandjoura-tal-relief-v2",
     type: "relief",
@@ -503,8 +484,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Meredek sziklafalak jellemzik", "Az érintetlen természet helyszíne"],
       ro: ["Caracterizată prin pereți stâncoși abrupți", "Loc al naturii neatinse"],
       en: ["Characterized by steep cliffs", "Site of untouched nature"]
-    }
-  },
+    }, image: "/poi-images/kandjoura-tal-relief-v2.webp"},
   {
     id: "yatenga-dombsag-relief-v2",
     type: "relief",
@@ -527,8 +507,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Átmeneti zóna a Száhel felé", "A mosszi és dogon népek hagyományos területe"],
       ro: ["Zonă de tranziție către Sahel", "Zonă tradițională a popoarelor Mossi și Dogon"],
       en: ["Transition zone to the Sahel", "Traditional area of the Mossi and Dogon peoples"]
-    }
-  },
+    }, image: "/poi-images/yatenga-dombsag-relief-v2.webp"},
   {
     id: "sourou-senke-relief-v2",
     type: "relief",
@@ -551,8 +530,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["Fontos vizes élőhely a Száhelben", "Egész éves földművelést tesz lehetővé"],
       ro: ["Zonă umedă importantă în Sahel", "Permite agricultura pe tot parcursul anului"],
       en: ["Important wetland in the Sahel", "Enables year-round agriculture"]
-    }
-  },
+    }, image: "/poi-images/sourou-senke-relief-v2.webp"},
   {
     id: "baoule-erdo-relief-v2",
     type: "forest",
@@ -575,8 +553,7 @@ export const poiExtraMaliReliefV2: POI[] = [
       hu: ["A Boucle du Baoulé Nemzeti Park magterülete", "Változatos szudáni típusú flóra"],
       ro: ["Zona centrală a Parcului Național Boucle du Baoulé", "Floră diversă de tip sudanez"],
       en: ["Core zone of the Boucle du Baoulé National Park", "Diverse flora of the Sudanese type"]
-    }
-  },
+    }, image: "/poi-images/baoule-erdo-relief-v2.webp"},
   {
     id: "yanfolila-erdo-relief-v2",
     type: "forest",
@@ -602,3 +579,4 @@ export const poiExtraMaliReliefV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraColombiaLifeV2: POI[] = [
@@ -23,10 +24,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Deschis în 2008.", "Găzduiește cel mai mare acvariu de apă dulce din America de Sud."],
       en: ["Opened in 2008.", "Features South America's largest freshwater aquarium."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Opened in 2008 in the Aranjuez neighborhood, this center was a cornerstone of Medellín's urban transformation. It features over 300 interactive science exhibits and the largest freshwater aquarium in South America. The architecture, designed by Alejandro Echeverri, consists of four red boxes that have become iconic symbols of the city's modernization. It serves as a vital educational hub, fostering curiosity about science and technology among local youth and tourists alike."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 1.", "O atracție culturală remarcabilă în zona Life 1."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Inaugurated in 2008 as part of a city-wide social urbanism initiative.", "Features over 300 interactive experiences across various thematic rooms.", "Houses the largest freshwater aquarium in South America.", "Designed by award-winning architect Alejandro Echeverri."] }, image: "/poi-images/parque-explora-life-v2.webp"},
 
   {
     id: "parque-del-cafe-life-v2",
@@ -50,10 +50,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Are montagne ruse și spectacole despre cafea.", "A fost fondat în 1995."],
       en: ["Features roller coasters and coffee shows.", "It was founded in 1995."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Located in the heart of Colombia's coffee-growing region, this theme park was founded in 1995 by the National Federation of Coffee Growers. It covers 125 hectares of lush landscape and is dedicated to preserving and celebrating the country's coffee heritage. Visitors can explore a comprehensive Coffee Museum, ride world-class roller coasters, and witness the traditional Coffee Show. The park has played a crucial role in boosting tourism in the Quindío department, transforming it into a top destination."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 2.", "O atracție culturală remarcabilă în zona Life 2."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Founded in 1995 by the National Federation of Coffee Growers.", "Covers 125 hectares in the municipality of Montenegro.", "Features 58 attractions ranging from cultural to high-thrill rides.", "Attracts over one million visitors annually."] }, image: "/poi-images/parque-del-cafe-life-v2.webp"},
 
   {
     id: "hacienda-napoles-life-v2",
@@ -77,10 +76,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Cunoscut pentru hipopotamii săi sălbatici.", "Este situat în regiunea Antioquia."],
       en: ["Known for its wild hippopotamus population.", "Located in the Antioquia region."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "This vast estate was originally the private luxury retreat of Pablo Escobar before being transformed into a family-friendly theme park. Today, it operates as a conservation site and tourist attraction, famous for its population of cocaine hippos that escaped after Escobar's death. The park features a safari zoo, multiple water attractions, and several museums that detail the complex history of the property. It stands as a symbol of Colombia's resilience and its transition from a dark past to a vibrant present."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 3.", "O atracție culturală remarcabilă în zona Life 3."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Transformed from a private estate into a theme park in 2008.", "Famous for its wild hippopotamus population, the largest outside Africa.", "Includes the African Safari, the Great Savannah, and a Jurassic Park area.", "Located in Puerto Triunfo, halfway between Medellín and Bogotá."] }, image: "/poi-images/hacienda-napoles-life-v2.webp"},
 
   {
     id: "parque-jaime-duque-life-v2",
@@ -96,7 +94,7 @@ export const poiExtraColombiaLifeV2: POI[] = [
     description: {
       de: "Ein Familien-Freizeitpark in der Nähe von Bogotá mit Nachbildungen von Weltwundern und einem Zoo.",
       hu: "Családi vidámpark Bogotá közelében, a világcsodák másolataival és állatkerttel.",
-      ro: "Un parc de distracții pentru familii lângă Bogotá, cu replici ale minunilor lumii și o grădină zoologică.",
+      ro: "Un parc de distracții pentru familii lângă Bogotá, cu replici ale minunilor lumii és o grădină zoologică.",
       en: "A family theme park near Bogotá featuring replicas of world wonders and a zoo." },
     facts: {
       de: ["Beinhaltet eine Nachbildung des Taj Mahal.", "Wurde 1983 eröffnet."],
@@ -104,10 +102,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Include o replică a Taj Mahal-ului.", "A fost deschis în 1983."],
       en: ["Includes a replica of the Taj Mahal.", "It opened its doors in 1983."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Established in 1983 by Jaime Duque Grisales, a pioneering Colombian pilot, this park is a unique blend of culture, history, and recreation. Its most famous landmark is a meticulously built full-scale replica of the Taj Mahal, which houses an art gallery. The park also features a biopark with over 200 species, a replica of the Seven Wonders of the Ancient World, and an extensive collection of historical aircraft. All proceeds from the park are donated to charitable organizations, continuing the founder's philanthropic legacy."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 4.", "O atracție culturală remarcabilă în zona Life 4."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Opened on February 27, 1983, by Captain Jaime Duque Grisales.", "Features a life-size replica of the Taj Mahal and the Seven Wonders.", "Home to the Wakatá Biopark, which focuses on animal rescue and rehabilitation.", "Operates as a non-profit foundation benefiting children and the elderly."] }, image: "/poi-images/parque-jaime-duque-life-v2.webp"},
 
   {
     id: "maloka-museo-interactivo-life-v2",
@@ -131,10 +128,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Are o cupolă iconică pentru filme 3D.", "Promovează știința și tehnologia."],
       en: ["Features an iconic dome for 3D films.", "Promotes science and technology education."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Located in the Fontibón district of Bogotá, Maloka is Colombia's first large-scale science and technology center. Since its opening in 1998, it has become a leader in social appropriation of science through interactive learning. The center features a distinctive glass pyramid entrance and an 8-story high Dome Cinema, one of the most advanced in the region. Its exhibits cover topics from neuroscience and physics to sustainability and the origins of the universe."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 5.", "O atracție culturală remarcabilă în zona Life 5."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Inaugurated in 1998 as South America's first interactive science center.", "Features the Cine Domo, a giant curved screen for immersive 3D films.", "The underground facility covers over 17,000 square meters of exhibition space.", "Recognized as a model for scientific education in Latin America."] }, image: "/poi-images/maloka-museo-interactivo-life-v2.webp"},
 
   {
     id: "salitre-magico-life-v2",
@@ -158,10 +154,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Oferă divertisment pentru toate vârstele.", "Este situat central în capitală."],
       en: ["Offers entertainment for all ages.", "Centrally located in the capital."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "This classic amusement park is situated within the larger Simón Bolívar Metropolitan Park and has been a favorite for generations of Bogotá residents. It is home to iconic rides such as the Double Loop and the Screamer, which were among the first of their kind in the country. The park underwent a major renovation in 2000, modernizing its facilities and adding themed zones for children and thrill-seekers. It remains one of the most visited entertainment venues in the capital, offering a mix of nostalgia and modern excitement."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 6.", "O atracție culturală remarcabilă în zona Life 6."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Originally opened in 1973 as El Salitre before its 2000 renovation.", "Home to the Double Loop, one of Colombia's most famous roller coasters.", "Located within the 400-hectare Simón Bolívar Metropolitan Park.", "Regularly hosts major seasonal events and music festivals."] }, image: "/poi-images/salitre-magico-life-v2.webp"},
 
   {
     id: "mundo-aventura-life-v2",
@@ -185,10 +180,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Unul dintre cele mai vizitate parcuri din țară.", "Dispune de montagne ruse extreme."],
       en: ["One of the most visited parks in the country.", "Features extreme roller coasters."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Owned and operated by the Chamber of Commerce of Bogotá, Mundo Aventura is a non-profit park designed to provide affordable entertainment for the masses. Since 1998, it has focused on social impact, offering free or discounted entry to thousands of low-income families every year. The park is divided into several thematic zones, including a natural farm area and high-intensity rides like the X-Treme and Quantum. Its location in the Kennedy district makes it an accessible and vital part of the city's social fabric."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 7.", "O atracție culturală remarcabilă în zona Life 7."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Opened in 1998 as a social project of the Bogotá Chamber of Commerce.", "Consistently ranked as the most visited amusement park in Colombia.", "Covers 13 hectares and features over 35 mechanical attractions.", "Operates with a strong focus on corporate social responsibility."] }, image: "/poi-images/mundo-aventura-life-v2.webp"},
 
   {
     id: "piscilago-life-v2",
@@ -212,10 +206,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Este printre cele mai vizitate parcuri acvatice din America de Sud.", "Găzduiește multe specii de animale native."],
       en: ["Ranks among the most visited water parks in South America.", "Houses many native animal species."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Piscilago is a massive water park and conservation forest located in the warm lowlands of Cundinamarca, managed by the Colsubsidio compensation fund. It is consistently ranked among the top 10 most visited water parks in the world due to its wide range of slides and pools. Beyond the water attractions, it houses a significant zoo and botanical garden dedicated to the protection of endangered Colombian species. The park's commitment to sustainability and environmental education makes it a unique destination in the region."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 8.", "O atracție culturală remarcabilă în zona Life 8."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Consistently ranked among the top 10 water parks globally by attendance.", "Home to a diverse zoo with over 1,000 animals from 200 species.", "Managed by Colsubsidio, providing social benefits to workers.", "Covers an area of 80 hectares with a focus on ecological preservation."] }, image: "/poi-images/piscilago-life-v2.webp"},
 
   {
     id: "parque-panaca-life-v2",
@@ -239,10 +232,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Promovează înțelegerea agriculturii.", "Oferă spectacole spectaculoase cu animale."],
       en: ["Promotes understanding of agriculture.", "Offers spectacular animal shows."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "PANACA is the world's first agricultural theme park, dedicated to reconnecting urban populations with the traditions of the countryside. Located in Quimbaya, it features ten thematic stations where visitors can interact with over 4,500 domestic animals. The park's philosophy, 'Without field there is no city,' is demonstrated through interactive shows and educational displays on farming and livestock. It has successfully expanded its model to other countries, promoting a deep respect for agricultural labor."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 9.", "O atracție culturală remarcabilă în zona Life 9."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Opened in 1999 as the world's first agricultural theme park.", "Features over 4,500 animals across 10 interactive thematic stations.", "Home to spectacular shows including 'The World of the Horse' and 'The World of the Dog'.", "Located in the heart of the UNESCO-listed Coffee Cultural Landscape."] }, image: "/poi-images/parque-panaca-life-v2.webp"},
 
   {
     id: "bioparque-ukumari-life-v2",
@@ -266,10 +258,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Unul dintre cele mai mari bioparcuri din America Latină.", "Animalele trăiesc în habitate naturale recreate."],
       en: ["One of the largest bioparks in Latin America.", "Animals live in recreated natural habitats."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Ukumarí represents a new generation of animal conservation centers, replacing the historic Matecaña Zoo in Pereira. It is designed as a biopark where animals live in environments that closely replicate their natural habitats across different continents. The project is one of the most ambitious in Latin America, focusing on the rescue, rehabilitation, and eventual release of native wildlife. Visitors can explore the African Savannah and the Andean Forest zones, gaining a profound understanding of global biodiversity."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 10.", "O atracție culturală remarcabilă în zona Life 10."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Opened in 2015 as the largest biopark project in Latin America.", "Replaced the 64-year-old Matecaña Zoo to provide better animal welfare.", "Spans over 44 hectares of land dedicated to conservation and education.", "Features immersive habitats for lions, elephants, rhinos, and jaguars."] }, image: "/poi-images/bioparque-ukumari-life-v2.webp"},
 
   {
     id: "zoologico-de-cali-life-v2",
@@ -293,10 +284,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Găzduiește peste 2500 de animale.", "Este situat pe malurile pitorești ale râului Cali."],
       en: ["Houses over 2,500 animals.", "Located on the scenic banks of the Cali River."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Cali Zoo is widely regarded as one of the best in Latin America due to its high standards of animal welfare and successful breeding programs. Founded in 1969, it is situated along the banks of the Cali River, providing a lush, naturalistic setting for its residents. The zoo places a strong emphasis on native Colombian fauna, featuring a spectacular butterfly house and an immersive Amazonian exhibit. It plays a leading role in international conservation efforts for species such as the Andean bear and various primates."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 11.", "O atracție culturală remarcabilă în zona Life 11."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Founded in 1969 and managed by the non-profit Cali Zoo Foundation.", "Accredited by the Association of Zoos and Aquariums (AZA).", "Home to over 2,500 animals representing more than 230 different species.", "Renowned for its research and conservation of the spectacled bear."] }, image: "/poi-images/zoologico-de-cali-life-v2.webp"},
 
   {
     id: "aviario-nacional-colombia-life-v2",
@@ -320,10 +310,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Una dintre cele mai mari voliere din America.", "Are trei zone de ecosistem diferite."],
       en: ["One of the largest aviaries in the Americas.", "Features three different ecosystem zones."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Located on the Barú Peninsula near Cartagena, this is the largest aviary in the Americas and the sixth largest in the world. It was established to showcase Colombia's status as the country with the highest bird diversity on Earth. The facility is divided into three major ecosystems: tropical rainforest, coastal, and desert, each housing species in near-natural conditions. It serves as a critical center for the conservation of endangered birds, including the Harpy Eagle and the Andean Condor."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 12.", "O atracție culturală remarcabilă în zona Life 12."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Opened in 2016 as the largest aviary in the Americas.", "Houses approximately 1,700 birds from over 170 different species.", "Features three distinct ecosystem paths: Rainforest, Coastal, and Desert.", "Conducts vital breeding programs for the endangered Blue-billed Curassow."] }, image: "/poi-images/aviario-nacional-colombia-life-v2.webp"},
 
   {
     id: "acuario-del-rodadero-life-v2",
@@ -347,10 +336,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Accesibil doar cu barca din Santa Marta.", "Oferă hrăniri pentru delfini și rechini."],
       en: ["Accessible only by boat from Santa Marta.", "Offers dolphin and shark feeding shows."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Founded in 1965 by Captain Francisco Ospina Navia, this aquarium and maritime museum is a pioneer of marine conservation in Santa Marta. It is uniquely built directly into the coastline, using natural seawater pools to house its diverse collection of Caribbean species. The aquarium is famous for its dolphin shows and its efforts to rescue and rehabilitate sea turtles and injured marine mammals. It also houses a museum dedicated to the pre-Columbian Tayrona culture and the maritime history of the region."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 13.", "O atracție culturală remarcabilă în zona Life 13."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Founded in 1965 by Captain Francisco Ospina Navia.", "Accessible only by a short boat ride from Rodadero beach.", "Features 13 large pools and 15 glass-walled aquariums.", "Home to a maritime museum highlighting Tayrona culture and history."] }, image: "/poi-images/acuario-del-rodadero-life-v2.webp"},
 
   {
     id: "oceanario-islas-del-rosario-life-v2",
@@ -364,7 +352,7 @@ export const poiExtraColombiaLifeV2: POI[] = [
       en: "Rosario Islands Oceanarium"
     },
     description: {
-      de: "Ein Aquarium auf einer Insel im Rosario-Archipel, das dem Schutz des marinen Ökosystems dient.",
+      de: "Ein Aquarium auf einer island im Rosario-Archipel, das dem Schutz des marinen Ökosystems dient.",
       hu: "Akvárium a Rosario-szigetcsoport egyik szigetén, amely a tengeri ökoszisztéma védelmét szolgálja.",
       ro: "Un acvariu pe o insulă din Arhipelagul Rosario dedicat protejării ecosistemului marin.",
       en: "An aquarium on an island in the Rosario Archipelago dedicated to protecting the marine ecosystem." },
@@ -374,10 +362,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Situat în mijlocul unui recif de corali protejat.", "Vizitatorii pot vedea broaște țestoase de mare de aproape."],
       en: ["Located in the middle of a protected coral reef.", "Visitors can see sea turtles up close."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "This open-sea aquarium is located on San Martín de Pajarales Island within the Rosario and San Bernardo Corals National Park. It provides a unique opportunity to see marine life in a semi-natural environment, as the enclosures are directly connected to the surrounding Caribbean Sea. The oceanarium focuses on the conservation of coral reefs and the protection of species like sharks, dolphins, and large groupers. Its educational programs emphasize the fragile balance of the marine ecosystem and the importance of reef preservation."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 14.", "O atracție culturală remarcabilă în zona Life 14."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Located within the Rosario and San Bernardo Corals National Natural Park.", "Founded in 1978 to promote marine education and conservation.", "Enclosures use natural seawater exchange from the surrounding Caribbean.", "Features educational presentations with dolphins and nurse sharks."] }, image: "/poi-images/oceanario-islas-del-rosario-life-v2.webp"},
 
   {
     id: "santuario-los-flamencos-life-v2",
@@ -401,10 +388,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Flamingii se hrănesc cu creveți de saramură.", "O stație esențială pentru multe păsări migratoare."],
       en: ["The flamingos feed on brine shrimp.", "An essential stopover for many migratory birds."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Located in the Camarones district of La Guajira, this wildlife sanctuary is a vital wetland for migratory and resident bird species. It is most famous for its large populations of American Flamingos, which find abundant food in the shallow coastal lagoons. The sanctuary is also a cultural hotspot, as the local Wayuu indigenous community works as guides and guardians of the area. Visitors can explore the lagoons in traditional wooden canoes, ensuring a low-impact and authentic nature experience."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 15.", "O atracție culturală remarcabilă în zona Life 15."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Established as a National Natural Landmark in 1977.", "Covers 7,000 hectares of coastal lagoons and dry forest.", "Home to thousands of pink flamingos during the peak season.", "Managed in collaboration with the local Wayuu indigenous community."] }, image: "/poi-images/santuario-los-flamencos-life-v2.webp"},
 
   {
     id: "bioparque-los-ocarros-life-v2",
@@ -428,10 +414,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Numit după tatuul uriaș (Ocarro).", "Prezintă caimani, anaconde și jaguari rari."],
       en: ["Named after the giant armadillo (Ocarro).", "Features caimans, anacondas, and rare jaguars."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Named after the giant armadillo native to the region, this biopark in Villavicencio is dedicated to the flora and fauna of the Colombian Llanos. It serves as a rescue center for animals affected by habitat loss or illegal trade in the Orinoco river basin. The park's design follows a circular path that takes visitors through various exhibits featuring anacondas, caimans, pumas, and a wide array of birds. It is an essential site for understanding the unique ecological transition between the Andes and the Amazon."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 16.", "O atracție culturală remarcabilă în zona Life 16."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Founded in 2003 to showcase the biodiversity of the Orinoco region.", "Named after the Ocarro or giant armadillo (Priodontes maximus).", "Features a large central lake inhabited by several species of caimans.", "Houses over 1,200 animals across 30 different thematic exhibits."] }, image: "/poi-images/bioparque-los-ocarros-life-v2.webp"},
 
   {
     id: "zoologico-de-barranquilla-life-v2",
@@ -455,10 +440,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Găzduiește elefantul african și lamantinul.", "A fost fondată încă din anii 1950."],
       en: ["Houses the African elephant and the manatee.", "It was founded back in the 1950s."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Established in the early 1950s, the Barranquilla Zoo is one of the oldest and most beloved cultural institutions in the Colombian Caribbean. It was the first zoo in the country to focus on environmental education and species conservation in an urban setting. Despite its relatively small size, it houses a diverse collection of animals from all continents, with a special emphasis on the Magdalena River basin. The zoo is a green oasis in the industrial city, providing a vital space for community engagement and wildlife protection."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 17.", "O atracție culturală remarcabilă în zona Life 17."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Founded in 1953, making it one of Colombia's oldest zoos.", "Originally built on the grounds of a former plant nursery.", "Home to Tantor, a famous African elephant that lived there for decades.", "Managed by the Botanical and Zoological Foundation of Barranquilla."] }, image: "/poi-images/zoologico-de-barranquilla-life-v2.webp"},
 
   {
     id: "otun-quimbaya-life-v2",
@@ -482,10 +466,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Deosebit de renumit pentru observarea păsărilor.", "Protejează pădurile de nori fragile din Anzi."],
       en: ["Particularly famous for bird watching.", "Protects the fragile cloud forests of the Andes."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "This protected area in the department of Risaralda is a prime example of the successful restoration of Andean cloud forests. It serves as a critical biological corridor connecting the Los Nevados National Park with the lower coffee-growing valleys. The sanctuary is a world-renowned destination for birdwatchers, who come to see the endemic Cauca Guan and various species of colorful tanagers. It also protects a significant population of Red Howler Monkeys, whose calls can be heard echoing through the mist-covered trees."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 18.", "O atracție culturală remarcabilă în zona Life 18."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Established as a Flora and Fauna Sanctuary in 1996.", "Protects 489 hectares of Andean cloud forest and sub-Andean forest.", "Home to the Cauca Guan, a bird species once thought to be extinct.", "Located just 14 kilometers from the city of Pereira."] }, image: "/poi-images/otun-quimbaya-life-v2.webp"},
 
   {
     id: "cueva-de-los-guacharos-life-v2",
@@ -509,10 +492,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Fondat în 1960 ca primul parc național.", "Protejează importanta zonă de izvor a râului Suaza."],
       en: ["Founded in 1960 as the first national park.", "Protects the important headwaters of the Suaza River."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Created in 1960, this was the first national park established in Colombia to protect a unique karst ecosystem. It is named after the Guácharo or Oilbird, a nocturnal fruit-eating bird that nests in the park's deep limestone caves. The park is a UNESCO Biosphere Reserve and is essential for the protection of the headwaters of the Suaza River. Its rugged terrain and ancient forests provide a habitat for the endangered spectacled bear and the mountain tapir."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 19.", "O atracție culturală remarcabilă în zona Life 19."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Designated as Colombia's first National Natural Park in 1960.", "Part of the UNESCO Cinturón Andino Biosphere Reserve.", "Home to thousands of oilbirds (Steatornis caripensis), the only nocturnal fruit-eating birds.", "Protects the transition between the Andean forest and the Amazonian jungle."] }, image: "/poi-images/cueva-de-los-guacharos-life-v2.webp"},
 
   {
     id: "pnn-amacayacu-life-v2",
@@ -532,14 +514,13 @@ export const poiExtraColombiaLifeV2: POI[] = [
       en: "A vast protected area in the Amazon basin, home to pink river dolphins and countless primate species." },
     facts: {
       de: ["Umfasst extrem dichten tropischen Regenwald.", "Über 400 Vogelarten wurden hier bereits registriert."],
-      hu: ["Rendkívül sűrű trópusi esőerdőt foglal magában.", "Több mint 400 madárfajt regisztráltak már itt."],
+      hu: ["Rendkívül sűrű trópusi esőerdőt foglal magában.", "Több mint 400 madárfajt regisztrálták már itt."],
       ro: ["Cuprinde o pădure tropicală extrem de densă.", "Peste 400 de specii de păsări au fost înregistrate aici."],
       en: ["Encompasses extremely dense tropical rainforest.", "Over 400 bird species have been recorded here."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Located in the Trapecio Amazónico, Amacayacu was the first protected area created in the Colombian Amazon. It is home to an incredible array of biodiversity, including over 490 bird species and several types of primates, such as the tiny pygmy marmoset. The park is also the ancestral territory of the Ticuna indigenous people, who play an active role in its management and ecotourism programs. Visitors can explore the flooded forests (igapós) and the majestic Amazon River, searching for the elusive pink and gray river dolphins."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 20.", "O atracție culturală remarcabilă în zona Life 20."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Established in 1975 as the first national park in the Colombian Amazon.", "Spans over 293,000 hectares of tropical rainforest.", "Ancestral home to the Ticuna indigenous people.", "Features the highest concentration of primates in the world."] }, image: "/poi-images/pnn-amacayacu-life-v2.webp"},
 
   {
     id: "pnn-utria-life-v2",
@@ -563,10 +544,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Balenele cu cocoașă își nasc puii aici în fiecare an.", "Peisajul constă din mangrove, păduri tropicale și mare."],
       en: ["Humpback whales give birth to their calves here every year.", "The landscape consists of mangroves, rainforest, and sea."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "This park on the Chocó Pacific coast is often called the nursery of the world because its calm, warm waters are a preferred calving ground for humpback whales. The landscape is a rare meeting point of rainforest, mangroves, and coral reefs, creating one of the most biodiverse environments on the planet. The local Emberá and Afro-Colombian communities maintain a deep spiritual and physical connection to the land, practicing sustainable fishing and tourism. The park is accessible mainly by boat, preserving its pristine and isolated character."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 21.", "O atracție culturală remarcabilă în zona Life 21."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Established in 1987 to protect the Ensenada de Utría.", "Critical breeding and calving site for humpback whales (July to October).", "Protects four species of mangroves and one of the few coral reefs in the Pacific.", "Inhabited by Emberá indigenous and Afro-Colombian communities."] }, image: "/poi-images/pnn-utria-life-v2.webp"},
 
   {
     id: "pnn-chingaza-life-v2",
@@ -590,10 +570,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Furnizează apă potabilă capitalei Bogotá.", "Găzduiește floră andină rară, cum ar fi caracteristica Espeletia."],
       en: ["Supplies the capital city of Bogotá with drinking water.", "Home to rare Andean flora such as the characteristic Espeletia."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Located in the Eastern Cordillera of the Andes, Chingaza is a vital source of water for Bogotá, providing nearly 80% of the capital's needs. The park is dominated by the Páramo ecosystem, a high-altitude moorland characterized by thousands of Frailejones (Espeletia plants). It was a sacred site for the Muisca indigenous people, who performed rituals at its high-altitude lagoons, such as Siecha and Chingaza. Today, it is one of the best places in Colombia to spot the endangered spectacled bear in its natural habitat."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 22.", "O atracție culturală remarcabilă în zona Life 22."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Created in 1977 and spans 76,600 hectares.", "Source of over 80% of the drinking water for Bogotá via the Chuza reservoir.", "Sacred territory for the Muisca people, containing several ritual lagoons.", "Home to more than 40 species of frailejones, many of which are endemic."] }, image: "/poi-images/pnn-chingaza-life-v2.webp"},
 
   {
     id: "zoologico-santacruz-life-v2",
@@ -613,14 +592,13 @@ export const poiExtraColombiaLifeV2: POI[] = [
       en: "A zoo in Cundinamarca created through the loving rescue of animals from the illegal trade." },
     facts: {
       de: ["Starker Fokus auf Umweltbildung.", "Bietet spezielle Nacht-Touren für neugierige Besucher an."],
-      hu: ["Erős hangsúlyt fektet a környezeti nevelésre.", "Különleges éjszakai túrákat kínál a kíváncsi látogatóknak."],
+      hu: ["Erős hangsúlyt fektet a környezeti nevelésre.", "Küléönleges éjszakai túrákat kínál a kíváncsi látogatóknak."],
       ro: ["Concentrare puternică pe educația de mediu.", "Oferă tururi speciale de noapte pentru vizitatorii curioși."],
       en: ["Strong focus on environmental education.", "Offers special night tours for curious visitors."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Founded in 1975, this zoo in the Tequendama region was originally a private collection of animals rescued from various sources. Over time, it evolved into a recognized center for environmental education and animal rehabilitation, focusing on species native to Colombia. The zoo is built on a steep hillside, providing a unique challenge for visitors but a naturalistic environment for the animals. It is particularly active in educating school groups about the importance of stopping the illegal wildlife trade."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 23.", "O atracție culturală remarcabilă în zona Life 23."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Established in 1975 as a private foundation for animal rescue.", "Located near the historic Salto del Tequendama waterfall.", "Features a specialized clinic for the rehabilitation of seized wildlife.", "Operates an extensive educational program for rural schools in Cundinamarca."] }, image: "/poi-images/zoologico-santacruz-life-v2.webp"},
 
   {
     id: "kolumbianische-kaffeeachse-life-v2",
@@ -644,9 +622,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Face oficial parte din Patrimoniul Mondial UNESCO.", "Produce unele dintre cele mai bune cafele din lume."],
       en: ["Officially part of the UNESCO World Heritage.", "Produces some of the best coffees in the entire world."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "This region, also known as the Eje Cafetero, was recognized as a UNESCO World Heritage site in 2011 for its unique cultural landscape. It encompasses parts of the Caldas, Quindío, and Risaralda departments, where coffee has been grown on steep hillsides for over a century. The region's architecture, characterized by colorful wooden houses with wrap-around balconies, reflects the wealth and tradition of the coffee boom. Beyond agriculture, the area is famous for its thermal springs, wax palms, and the warm hospitality of its people."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 24.", "O atracție culturală remarcabilă în zona Life 24."], en: [] }
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Inscribed as a UNESCO World Heritage site in 2011.", "Produced primarily on small family farms known as fincas.", "Home to the Cocora Valley and its 60-meter-tall Wax Palms.", "Consists of six distinct coffee landscapes across 47 municipalities."] }
   },
 
   {
@@ -671,10 +649,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Numele vine de la Recorrido de la Cultura Cafetera.", "Vizitatorii pot ajuta la recoltare în haine tradiționale."],
       en: ["The name stands for Recorrido de la Cultura Cafetera.", "Visitors can help with the harvest in traditional clothing."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Recuca, which stands for Recorrido de la Cultura Cafetera, offers one of the most immersive coffee experiences in Colombia. Located near Armenia, the farm allows visitors to dress in traditional Chapolera costumes and participate in the entire coffee process, from picking beans to roasting them. The tour is designed to be humorous and educational, emphasizing the hard work and pride of the Colombian coffee farmer. It is a vital site for preserving the intangible heritage of the region's agricultural traditions."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 25.", "O atracție culturală remarcabilă în zona Life 25."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Located in the municipality of Calarcá, Quindío.", "Recipient of the National Tourism Award for its cultural innovation.", "Interactive tour includes traditional food like Bogadera and Sancocho.", "Employs local farmers as guides to provide authentic insights."] }, image: "/poi-images/finca-recuca-life-v2.webp"},
 
   {
     id: "finca-el-ocaso-life-v2",
@@ -698,10 +675,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Oferă degustări profesionale de cafea.", "Situată în frumosul peisaj montan din Anzi."],
       en: ["Offers professional coffee tastings.", "Located in the beautiful mountainous landscape of the Andes."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Situated just outside the picturesque town of Salento, El Ocaso is a traditional coffee farm that has successfully transitioned to sustainable, organic production. It offers professional coffee tours that explain the delicate balance between high-quality Arabica production and forest conservation. The farm's location provides stunning views of the Cocora Valley and the surrounding Andean peaks. It has become a must-visit for international travelers seeking to understand the science behind the perfect cup of Colombian coffee."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 26.", "O atracție culturală remarcabilă în zona Life 26."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Located 5 kilometers from Salento in the Quindío department.", "Specializes in Specialty Coffee with international quality certifications.", "Features a historic main house over 100 years old.", "Offers bird-watching tours alongside its coffee production."] }, image: "/poi-images/finca-el-ocaso-life-v2.webp"},
 
   {
     id: "uraba-bananenplantagen-life-v2",
@@ -725,9 +701,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Columbia este unul dintre cei mai mari exportatori de banane la nivel mondial.", "Regiunea furnizează banane proaspete în întreaga lume."],
       en: ["Colombia is one of the largest banana exporters globally.", "The region supplies fresh bananas all over the world."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The Urabá region in northwestern Antioquia is the backbone of Colombia's banana industry, one of the largest in the world. This fertile lowland area near the Caribbean coast has a history deeply tied to international trade and the development of large-scale commercial agriculture. The industry provides livelihoods for tens of thousands of families and has been a driver of infrastructure development in the region. In recent years, there has been a significant push toward fair trade and environmentally friendly cultivation practices."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 27.", "O atracție culturală remarcabilă în zona Life 27."], en: [] }
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Colombia is the world's fourth-largest exporter of bananas.", "Urabá accounts for over 70% of the country's total banana production.", "The region's fertile soils are of volcanic and alluvial origin.", "Major export ports include Turbo and the newer Puerto Antioquia."] }
   },
 
   {
@@ -752,10 +728,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Oferă cazare fermecătoare iubitorilor de cafea.", "Are o vilă principală istorică de aproape 100 de ani."],
       en: ["Offers charming accommodations for coffee lovers.", "Features a nearly 100-year-old historic main villa."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "This historic coffee estate near Manizales is renowned for its elegant architecture and its deep roots in the Caldas coffee tradition. The main house, or Casa Principal, is a perfectly preserved example of the Antioquian colonization style, with vibrant colors and lush gardens. Hacienda Venecia has won multiple awards for its Seed to Cup tours, which detail the complexities of global coffee markets and local production. It also offers a variety of workshops, including coffee-based cooking and professional tasting sessions."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 28.", "O atracție culturală remarcabilă în zona Life 28."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["A working coffee farm with over 100 years of history.", "Recipient of the Best Coffee Tour award by several international agencies.", "Located in the Coffee Triangle near the city of Manizales.", "Offers diverse lodging options from luxury villas to a coffee hostel."] }, image: "/poi-images/hacienda-venecia-life-v2.webp"},
 
   {
     id: "jardin-botanico-quindio-life-v2",
@@ -779,10 +754,9 @@ export const poiExtraColombiaLifeV2: POI[] = [
       ro: ["Uriașul Mariposario are forma unui fluture.", "Prezintă una dintre cele mai mari colecții de ferigi andine."],
       en: ["The giant Mariposario is shaped like a butterfly.", "Features one of the largest collections of Andean ferns."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "Founded in 1978 by Alberto Gómez Mejía, this botanical garden is a leader in plant conservation and environmental education in Colombia. Its most iconic structure is a giant butterfly-shaped Mariposario which houses over 1,500 butterflies from 30 different species. The garden also contains a national collection of palms, featuring almost every species native to Colombia. Its trails lead visitors through a restored forest that serves as a sanctuary for hundreds of bird species and local wildlife."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 29.", "O atracție culturală remarcabilă în zona Life 29."], en: [] }
-  },
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Founded in 1978 and covers 15 hectares of Andean forest.", "Home to the world's most famous butterfly house shaped like a Lepidoptera.", "Contains the National Collection of Palms, with over 210 species.", "Features a 22-meter-high observation tower for bird watching."] }, image: "/poi-images/jardin-botanico-quindio-life-v2.webp"},
 
   {
     id: "zuckerrohrplantagen-cauca-life-v2",
@@ -803,12 +777,13 @@ export const poiExtraColombiaLifeV2: POI[] = [
     facts: {
       de: ["Produziert fast den gesamten Zucker Kolumbiens.", "Dank des Klimas läuft die Ernte das ganze Jahr über ununterbrochen."],
       hu: ["Kolumbia cukortermelésének szinte egészét adja.", "Az éghajlatnak köszönhetően a betakarítás egész évben megszakítás nélkül folyik."],
-      ro: ["Produce aproape tot zahărul din Columbia.", "Datorită climei, recolta continuă fără întrerupere pe tot parcursul anului."],
+      ro: ["Produce aproape tot zahărul din Columbia.", "Datorité climei, recolta continuă fără întrerupere pe tot parcursul anului."],
       en: ["Produces nearly all of Colombia's sugar.", "Thanks to the climate, harvesting continues uninterrupted year-round."]
     },
-    descriptionAdvanced: { de: "", hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.", ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.", en: ""
+    descriptionAdvanced: { de: "", hu: "", ro: "", en: "The vast, flat plains of the Cauca River Valley are the center of Colombia's sugar and ethanol industry. This region's unique microclimate allows for year-round harvesting, a rarity in the global sugar market. The industry has shaped the social and economic history of the department, leading to the creation of massive mills (ingenios) and a distinct sugar culture. Recently, the sector has diversified into green energy, producing a significant portion of the country's biofuels."
     },
-    factsAdvanced: { de: [], hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."], ro: ["Un element istoric cheie pentru Life 31.", "O atracție culturală remarcabilă în zona Life 31."], en: []
+    factsAdvanced: { de: [], hu: [], ro: [], en: ["Colombia is the second-largest producer of sugarcane in South America.", "The Valle del Cauca produces nearly 100% of the country's sugar.", "Harvesting occurs 365 days a year due to the absence of a distinct winter.", "Major mills include Incauca, Manuelita, and Mayagüez."]
     }
   }
 ];
+

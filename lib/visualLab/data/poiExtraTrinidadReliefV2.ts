@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTrinidadReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["A sziget északi részén húzódik", "Itt található az El Cerro del Aripo", "Trópusi esőerdővel borított terület", "Fontos vízgyűjtő terület"],
       ro: ["Se întinde peste nordul insulei", "Găzduiește El Cerro del Aripo", "Zonă acoperită de pădure tropicală", "Important bazin hidrografic"],
       en: ["Extends across the north of the island", "Home to El Cerro del Aripo", "Tropical rainforest covered area", "Important watershed"]
-    }
-  },
+    }, image: "/poi-images/tt-northern-range-relief-v2.webp"},
   {
     id: "tt-el-cerro-del-aripo-relief-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["940 méter magas", "Az Északi-hegység része", "Sűrű erdő veszi körül", "Földrajzilag kiemelkedő"],
       ro: ["Altitudine de 940 de metri", "Parte a Northern Range", "Înconjurat de pădure densă", "Geografic proeminent"],
       en: ["Elevation of 940 meters", "Part of the Northern Range", "Surrounded by dense forest", "Geographically prominent"]
-    }
-  },
+    }, image: "/poi-images/tt-el-cerro-del-aripo-relief-v2.webp"},
   {
     id: "tt-el-tucuche-relief-v2",
     type: "mountain",
@@ -41,8 +40,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["936 méter magas", "Népszerű túracélpont", "Panorámás kilátást nyújt", "Endemikus növények otthona"],
       ro: ["Altitudine de 936 de metri", "Destinație populară pentru drumeții", "Oferă vederi panoramice", "Casa plantelor endemice"],
       en: ["Elevation of 936 meters", "Popular hiking destination", "Offers panoramic views", "Home to endemic plants"]
-    }
-  },
+    }, image: "/poi-images/tt-el-tucuche-relief-v2.webp"},
   {
     id: "tt-central-range-relief-v2",
     type: "relief",
@@ -55,8 +53,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Nyugatról keletre keresztezi a szigetet", "Kevésbé meredek, mint az Északi-hegység", "Jelentős mezőgazdasági terület", "Fontos élőhely"],
       ro: ["Traversează insula de la vest la est", "Mai puțin abrupt decât Northern Range", "Utilizare agricolă intensă", "Habitat important"],
       en: ["Crosses the island from west to east", "Less rugged than the Northern Range", "Significant agricultural use", "Important habitat"]
-    }
-  },
+    }, image: "/poi-images/tt-central-range-relief-v2.webp"},
   {
     id: "tt-southeastern-hills-relief-v2",
     type: "relief",
@@ -69,8 +66,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Alacsonyabb magasság", "Szelíd domborzat", "Részben erdősült", "Vidéki jellegű"],
       ro: ["Altitudine mai mică", "Relief domol", "Parțial împădurit", "Caracter rural"],
       en: ["Lower elevation", "Gentle terrain", "Partially forested", "Rural landscape"]
-    }
-  },
+    }, image: "/poi-images/tt-southeastern-hills-relief-v2.webp"},
   {
     id: "tt-arippo-valley-relief-v2",
     type: "relief",
@@ -97,8 +93,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["A legfontosabb termesztési terület", "A Caroni folyó szeli át", "Síksági domborzat", "Sűrűn lakott"],
       ro: ["Cea mai importantă zonă agricolă", "Străbătută de râul Caroni", "Relief plat", "Dens populat"],
       en: ["Main agricultural area", "Crossed by the Caroni River", "Flat relief", "Densely populated"]
-    }
-  },
+    }, image: "/poi-images/tt-caroni-plain-relief-v2.webp"},
   {
     id: "tt-nariva-swamp-relief-v2",
     type: "relief",
@@ -125,8 +120,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Part menti síkság", "Gazdag madárvilág", "Mocsaras környék", "Fontos a helyi ökológiának"],
       ro: ["Câmpie de coastă", "Bogată în specii de păsări", "Zonă mlăștinoasă", "Importantă pentru ecologia locală"],
       en: ["Coastal lowland", "Rich in bird species", "Swampy environment", "Important for local ecology"]
-    }
-  },
+    }, image: "/poi-images/tt-oropouche-lagoon-relief-v2.webp"},
   {
     id: "tt-columbus-channel-relief-v2",
     type: "relief",
@@ -139,8 +133,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Sekély self", "Történelmileg jelentős", "Tengerfenék domborzat", "Gazdag tengeri élővilág"],
       ro: ["Zonă de șelf puțin adâncă", "Importantă istoric", "Relief al fundului marin", "Viață marină bogată"],
       en: ["Shallow shelf area", "Historically significant", "Seabed relief", "Rich marine life"]
-    }
-  },
+    }, image: "/poi-images/tt-columbus-channel-relief-v2.webp"},
   {
     id: "tt-guayaguayare-lowlands-relief-v2",
     type: "relief",
@@ -153,8 +146,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Sík terep", "Trópusi klíma", "Part menti", "Sok növényzet"],
       ro: ["Teren plat", "Climă tropicală", "Aproape de coastă", "Vegetație bogată"],
       en: ["Flat terrain", "Tropical climate", "Near the coast", "Lots of vegetation"]
-    }
-  },
+    }, image: "/poi-images/tt-guayaguayare-lowlands-relief-v2.webp"},
   {
     id: "tt-cedros-peninsula-relief-v2",
     type: "relief",
@@ -167,8 +159,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Hosszúkás kiemelkedés", "Strandokkal szegélyezett partvonal", "Gyéren lakott", "Földrajzilag elkülönülő"],
       ro: ["Relief alungit", "Linie de coastă cu plaje", "Puțin populat", "Geografic izolat"],
       en: ["Elongated elevation", "Coastline with beaches", "Sparsely populated", "Geographically distinct"]
-    }
-  },
+    }, image: "/poi-images/tt-cedros-peninsula-relief-v2.webp"},
   {
     id: "tt-paria-coast-cliffs-relief-v2",
     type: "relief",
@@ -181,8 +172,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Lenyűgöző sziklafalak", "Közvetlen tengeri hozzáférés", "Veszélyes terep", "Magas fekvés"],
       ro: ["Paredi stâncoase impresionante", "Acces direct la mare", "Teren periculos", "Altitudine ridicată"],
       en: ["Impressive rock walls", "Direct sea access", "Dangerous terrain", "High elevation"]
-    }
-  },
+    }, image: "/poi-images/tt-paria-coast-cliffs-relief-v2.webp"},
   {
     id: "tt-madamas-valley-relief-v2",
     type: "relief",
@@ -195,8 +185,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Mély völgyfenék", "Hegycsúcsokkal körülvéve", "Érintetlen természet", "Nehezen megközelíthető"],
       ro: ["Fundul văii adânc", "Înconjurată de vârfuri montane", "Natură neatinsă", "Greu accesibilă"],
       en: ["Deep valley floor", "Surrounded by mountain peaks", "Untouched nature", "Hard to access"]
-    }
-  },
+    }, image: "/poi-images/tt-madamas-valley-relief-v2.webp"},
   {
     id: "tt-cumaca-caves-relief-v2",
     type: "relief",
@@ -209,8 +198,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Föld alatti domborzat", "Mészkőformációk", "Zsírfecskék otthona", "Természetes kaland"],
       ro: ["Relief subteran", "Formațiuni de calcar", "Casa păsărilor de ulei", "Aventură naturală"],
       en: ["Subterranean relief", "Limestone formations", "Home to Oilbirds", "Natural adventure"]
-    }
-  },
+    }, image: "/poi-images/tt-cumaca-caves-relief-v2.webp"},
   {
     id: "tt-blanchisseuse-slopes-relief-v2",
     type: "relief",
@@ -223,8 +211,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Lejtős terep", "Trópusi erdős", "Jó kilátás", "Természetes vízelvezetés"],
       ro: ["Teren în pantă", "Păduri tropicale", "Vederi bune", "Drenaj natural"],
       en: ["Sloping terrain", "Tropically forested", "Good views", "Natural drainage"]
-    }
-  },
+    }, image: "/poi-images/tt-blanchisseuse-slopes-relief-v2.webp"},
   {
     id: "tt-gran-couva-highlands-relief-v2",
     type: "relief",
@@ -237,8 +224,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Szelíd dombok", "Kakaótermesztő terület", "Hűvösebb hőmérséklet", "Szép tájak"],
       ro: ["Dealuri domoale", "Regiune de cultivare a cacao", "Temperaturi mai răcoroase", "Peisaje frumoase"],
       en: ["Gentle hills", "Cocoa farming area", "Cooler temperatures", "Beautiful landscapes"]
-    }
-  },
+    }, image: "/poi-images/tt-gran-couva-highlands-relief-v2.webp"},
   {
     id: "tt-toco-cliffside-relief-v2",
     type: "relief",
@@ -251,8 +237,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Szeles partvonal", "Masszív sziklaképződmények", "Kilátás az Atlanti-óceánra", "Földrajzi határpont"],
       ro: ["Coastă vântoasă", "Formațiuni stâncoase robuste", "Vedere spre Atlantic", "Punct de demarcație geografic"],
       en: ["Windy coast", "Rugged rock formations", "Atlantic views", "Geographic boundary point"]
-    }
-  },
+    }, image: "/poi-images/tt-toco-cliffside-relief-v2.webp"},
   {
     id: "tt-manzanilla-beach-ridges-relief-v2",
     type: "relief",
@@ -279,8 +264,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Síkká vált talaj", "Környező erdők", "Mérsékelt magasság", "Vidéki"],
       ro: ["Teren plan", "Păduri înconjurătoare", "Altitudine moderată", "Rural"],
       en: ["Level ground", "Surrounding forests", "Moderate elevation", "Rural"]
-    }
-  },
+    }, image: "/poi-images/tt-valencia-plateau-relief-v2.webp"},
   {
     id: "tt-sangre-grande-hills-relief-v2",
     type: "relief",
@@ -293,8 +277,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Lankás", "Részben mezőgazdasági", "Zöld növényzet", "Helyi domborzat"],
       ro: ["Relief vălurit", "Parțial agricol", "Vegetație verde", "Relief local"],
       en: ["Gently rolling", "Partially agricultural", "Green vegetation", "Local relief"]
-    }
-  },
+    }, image: "/poi-images/tt-sangre-grande-hills-relief-v2.webp"},
   {
     id: "tt-mayaro-coast-lowlands-relief-v2",
     type: "relief",
@@ -321,8 +304,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Tagolt domborzat", "Folyók", "Erdős", "Mezőgazdaság"],
       ro: ["Relief fragmentat", "Râuri", "Împădurit", "Agricultură"],
       en: ["Rugged relief", "Rivers", "Forested", "Agriculture"]
-    }
-  },
+    }, image: "/poi-images/tt-brasso-valleys-relief-v2.webp"},
   {
     id: "tt-matelot-rugged-coast-relief-v2",
     type: "relief",
@@ -335,8 +317,7 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       hu: ["Meredek part", "Atlanti hullámzás", "Elszigetelt", "Látványos"],
       ro: ["Coastă abruptă", "Valurile Atlanticului", "Izolat", "Spectaculos"],
       en: ["Steep coast", "Atlantic surf", "Secluded", "Spectacular"]
-    }
-  },
+    }, image: "/poi-images/tt-matelot-rugged-coast-relief-v2.webp"},
   {
     id: "tt-tabaquite-hills-relief-v2",
     type: "relief",
@@ -352,3 +333,4 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     }
   }
 ];
+

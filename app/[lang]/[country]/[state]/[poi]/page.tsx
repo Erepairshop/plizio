@@ -112,12 +112,14 @@ export default async function PoiPage({
   const countryCopy = COUNTRY_COPY[countryId][resolved.lang as Lang];
   const related = getRelatedPois(poi);
   const geoFacts = geographicFacts(poi);
-  const description = poi.description?.[resolved.lang as Lang] || poi.description?.de || "";
-  const advanced = poi.descriptionAdvanced?.[resolved.lang as Lang] || poi.descriptionAdvanced?.de || "";
+  const description = (poi.description as Record<string, string> | undefined)?.[resolved.lang as Lang] || poi.description?.de || "";
+  const advanced = (poi.descriptionAdvanced as Record<string, string> | undefined)?.[resolved.lang as Lang] || (poi.descriptionAdvanced as Record<string, string> | undefined)?.de || "";
   const facts = [
-    ...(poi.facts?.[resolved.lang as Lang] || poi.facts?.de || []),
-    ...((poi.factsAdvanced?.[resolved.lang as Lang] || poi.factsAdvanced?.de || []) as string[]),
+    ...((poi.facts as Record<string, string[]> | undefined)?.[resolved.lang as Lang] || poi.facts?.de || []),
+    ...(((poi.factsAdvanced as Record<string, string[]> | undefined)?.[resolved.lang as Lang] || (poi.factsAdvanced as Record<string, string[]> | undefined)?.de || []) as string[]),
   ];
+  const regionName = (region.name as Record<string, string | undefined>)[resolved.lang as Lang] || region.name.de || "";
+  const poiName = (poi.name as Record<string, string | undefined>)[resolved.lang as Lang] || poi.name.de || "";
 
   return (
     <main className="min-h-screen bg-[#020408] text-white">
@@ -126,8 +128,8 @@ export default async function PoiPage({
           items={[
             { name: copy.home, href: "/" },
             { name: countryCopy.name, href: buildCountryPath(resolved.lang as Lang, countryId) },
-            { name: region.name[resolved.lang as Lang] || region.name.de, href: buildStatePath(resolved.lang as Lang, region.id) },
-            { name: poi.name[resolved.lang as Lang] || poi.name.de, href: buildPoiPath(resolved.lang as Lang, poi) },
+            { name: regionName, href: buildStatePath(resolved.lang as Lang, region.id) },
+            { name: poiName, href: buildPoiPath(resolved.lang as Lang, poi) },
           ]}
         />
 
@@ -137,7 +139,7 @@ export default async function PoiPage({
               {(() => {
                 const src = getPoiImage(poi);
                 return src ? (
-                  <img src={src} alt={poiImageAlt(poi, resolved.lang as Lang, region.name[resolved.lang as Lang] || region.name.de, countryCopy.name)} loading="lazy" className="h-full w-full object-cover" />
+                  <img src={src} alt={poiImageAlt(poi, resolved.lang as Lang, regionName, countryCopy.name)} loading="lazy" className="h-full w-full object-cover" />
                 ) : (
                   <div className="flex h-full items-center justify-center text-white/35">Visual Lab</div>
                 );
@@ -238,7 +240,7 @@ export default async function PoiPage({
             <section className="mt-10">
               <h2 className="text-2xl font-semibold tracking-tight">FAQ</h2>
               <div className="mt-4 space-y-3">
-                {faqList.map((item, i) => (
+                {faqList.map((item: { q: string; a: string }, i: number) => (
                   <details key={i} className="rounded-2xl border border-white/10 bg-white/[0.03] p-4 open:bg-white/[0.05]">
                     <summary className="cursor-pointer text-base font-semibold text-cyan-200">{item.q}</summary>
                     <p className="mt-2 text-white/75 leading-7">{item.a}</p>

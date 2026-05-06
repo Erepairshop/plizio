@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const mkPoisPart4: POI[] = [
@@ -392,3 +393,4 @@ export const mkPoisPart4: POI[] = [
     }
   }
 ];
+

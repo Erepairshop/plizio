@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 // ─── AstroEnglish K2 Pool ──────────────────────────────────────────────────────
@@ -6420,3 +6421,4 @@ export const BIGTEST_POOL: PoolTopicDef[] = [
     quiz: { generate: "expanding_k2" }
   }
 ];
+

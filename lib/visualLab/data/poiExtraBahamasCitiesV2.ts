@@ -25,8 +25,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A világ egyik legjobb bonefishing horgászhelyeként tartják számon.", "A lakosság főként néhány halászcsaládból áll.", "Közvetlenül az Acklins-öböl sekély vizei mellett fekszik.", "A hagyományos kézművességet, például a kosárfonást ma is űzik.", "A település évtizedek óta megőrizte eredeti karakterét.", "A közelben gyarmati korból származó történelmi sólepárlók találhatók."],
       ro: ["Este considerat unul dintre cele mai bune locuri de pescuit bonefish din lume.", "Populația este formată în principal din câteva familii de pescari.", "Situat direct lângă apele puțin adânci ale Bight of Acklins.", "Meșteșugurile tradiționale, cum ar fi împletitul coșurilor, sunt încă practicate.", "Așezarea și-a păstrat caracterul original de zeci de ani.", "În apropiere se află saline istorice din perioada colonială."],
       en: ["Ranked as one of the premier bonefishing destinations globally.", "The population consists mainly of a few dedicated fishing families.", "Situated directly on the shallow waters of the Bight of Acklins.", "Traditional crafts like basket weaving are still actively practiced.", "The settlement has maintained its original character for decades.", "Historic salt ponds from the colonial era are located nearby."]
-    }
-  },
+    }, image: "/poi-images/snug-corner-cities-v2.webp"},
   {
     id: "gregory-town-cities-v2",
     type: "city",
@@ -51,8 +50,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["1988 óta ad otthont az éves Ananász Fesztiválnak.", "A 'Sugar Loaf' ananászt a világ legédesebb fajtájának tartják.", "Egy festői öbölben fekszik, amely védelmet nyújt a halászhajóknak.", "A Surfer's Beach a Bahamák egyik legjobb szörfhelye.", "A város egykor az USA-ba irányuló ananászexport jelentős központja volt.", "Eleuthera egyik legkeskenyebb szakaszán található."],
       ro: ["Găzduiește festivalul anual al ananasului din 1988.", "Ananasul 'Sugar Loaf' este considerat cel mai dulce soi din lume.", "Situat într-un golf pitoresc care oferă adăpost bărcilor de pescuit.", "Surfer's Beach este considerat unul dintre cele mai bune locuri de surf din Bahamas.", "Orașul a fost odinioară un centru major pentru exportul de ananas în SUA.", "Se află pe una dintre cele mai înguste secțiuni ale insulei Eleuthera."],
       en: ["Has hosted the annual Pineapple Festival since 1988.", "The 'Sugar Loaf' pineapple is considered the sweetest variety in the world.", "Situated in a picturesque cove that protects local fishing vessels.", "Surfer's Beach is renowned as one of the best surf spots in the Bahamas.", "The town was once a major hub for pineapple exports to the United States.", "Located on one of the narrowest points of the Eleuthera mainland."]
-    }
-  },
+    }, image: "/poi-images/gregory-town-cities-v2.webp"},
   {
     id: "freetown-cities-v2",
     type: "city",
@@ -77,8 +75,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["1841 körül alapították felszabadított rabszolgák.", "A település mélyen gyökerező közösségi kultúrájáról ismert.", "A látványos Gold Rock Beach közelében található.", "A környék fontos mangrove-ökoszisztémáknak ad otthont.", "A hagyományos gyógynövényes orvoslást ma is gyakran alkalmazzák.", "Freetown fontos történelmi ásatások helyszíne volt."],
       ro: ["Fondat în jurul anului 1841 de sclavi eliberați.", "Așezarea este cunoscută pentru cultura sa comunitară profundă.", "Situat în apropierea spectaculoasei plaje Gold Rock.", "Împrejurimile găzduiesc ecosisteme importante de mangrove.", "Medicina tradițională pe bază de plante este încă practicată frecvent.", "Freetown a fost locul unor importante excavații istorice."],
       en: ["Established around 1841 by liberated Africans.", "The settlement is known for its deep-rooted community culture.", "Located near the spectacular Gold Rock Beach within the national park.", "The surrounding area supports vital mangrove ecosystems.", "Traditional herbal medicine practices are still observed by locals.", "Freetown has been the site of significant archaeological discoveries."]
-    }
-  },
+    }, image: "/poi-images/freetown-cities-v2.webp"},
   {
     id: "bluff-cities-v2",
     type: "city",
@@ -103,8 +100,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Észak-Eleuthera mezőgazdasági szívének tartják.", "A települést a 18. században lojalisták alapították.", "Banán-, mangó- és citrusféle-termesztéséről ismert.", "A sziget egyik legrégebbi iskolájával rendelkezik.", "A közösség rendszeresen tart hálaadási és aratási ünnepeket.", "A halban gazdag északi vizek közvetlen közelében fekszik."],
       ro: ["Este considerat inima agricolă a nordului Eleuthera.", "Așezarea a fost co-fondată de loialiști în secolul al XVIII-lea.", "Cunoscut pentru cultivarea bananelor, mangoului și citricelor.", "Are una dintre cele mai vechi școli de pe insulă.", "Comunitatea organizează regulat festivaluri ale recoltei.", "Situat în imediata apropiere a apelor bogate în pește din nord."],
       en: ["Regarded as the agricultural heart of Northern Eleuthera.", "The settlement was co-founded by Loyalists during the late 1700s.", "Famed for its production of bananas, mangoes, and various citrus fruits.", "Home to one of the longest-standing schools on the island.", "The community regularly hosts traditional harvest festivals.", "Strategically located near the highly productive fishing grounds of the north."]
-    }
-  },
+    }, image: "/poi-images/bluff-cities-v2.webp"},
   {
     id: "dunmore-cities-v2",
     type: "city",
@@ -129,8 +125,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["John Murray-ről, Dunmore 4. grófjáról nevezték el.", "Hozzáférést biztosít az atlanti partvidék látványos szikláihoz.", "A település hagyományos kecsketenyésztéséről ismert.", "A közelben ősi arawak barlangrendszerek találhatók.", "A közösség évente helyi védőszent-ünnepeket tart.", "Fontos kiindulópont a természetbe tett túrákhoz."],
       ro: ["Numit după John Murray, al 4-lea conte de Dunmore.", "Oferă acces la stânci spectaculoase de pe coasta Atlanticului.", "Așezarea este cunoscută pentru creșterea tradițională a caprelor.", "În apropiere se află sisteme antice de peșteri ale populației Arawak.", "Comunitatea celebrează anual festivaluri patronale locale.", "Un punct de plecare important pentru drumeții în natură."],
       en: ["Named after John Murray, the 4th Earl of Dunmore.", "Provides access to dramatic cliffside views on the Atlantic coast.", "The settlement is known for its traditional goat farming heritage.", "Ancient Lucayan-Arawak cave systems are located in the vicinity.", "The community observes annual local patronal festivals.", "Serves as a prime starting point for nature treks and eco-tours."]
-    }
-  },
+    }, image: "/poi-images/dunmore-cities-v2.webp"},
   {
     id: "simms-cities-v2",
     type: "city",
@@ -155,8 +150,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Észak-Long Island kormányzati hivatalának székhelye.", "A sziget egyik legélénkebb termelői piacának ad otthont.", "Hagyományosan a galambborsó termesztéséről ismert.", "A település egy történelmi anglikán templommal rendelkezik.", "A helyi posta- és csomagelosztás fontos központja.", "Kényelmesen, a Queen's Highway mentén fekszik."],
       ro: ["Sediul biroului guvernamental pentru nordul Long Island.", "Găzduiește una dintre cele mai animate piețe de fermieri de pe insulă.", "Cunoscut tradițional pentru cultivarea mazărei de porumbei.", "Așezarea dispune de o biserică anglicană istorică.", "Centru important pentru distribuția locală a poștei și coletelor.", "Situat convenabil pe autostrada Queen's."],
       en: ["Serves as the government administrative seat for North Long Island.", "Home to one of the most vibrant farmers' markets on the island.", "Traditionally famous for the cultivation of pigeon peas.", "The settlement features a historic and prominent Anglican church.", "A key hub for local mail distribution and parcel services.", "Strategically located along the main Queen's Highway."]
-    }
-  },
+    }, image: "/poi-images/simms-cities-v2.webp"},
   {
     id: "bullocks-harbour-cities-v2",
     type: "city",
@@ -181,8 +175,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A Berry-szigetek körzet közigazgatási központja.", "A települést az 1940-es években jelentősen kibővítették.", "Népszerű megállóhely a Nassau felé tartó vitorlázók számára.", "Hozzáférést biztosít a régió legjobb bonefishing helyeihez.", "A közelben repülőtér található, ahonnan az USA-ba is indulnak járatok.", "A közösség az évente megrendezett vitorlásregattáiról ismert."],
       ro: ["Centrul administrativ pentru districtul Insulelor Berry.", "Așezarea a fost extinsă masiv în anii 1940.", "O oprire populară pentru navigatorii în drum spre Nassau.", "Oferă acces la unele dintre cele mai bune locuri de bonefishing din regiune.", "În apropiere se află un aerodrom cu conexiuni către SUA.", "Comunitatea este cunoscută pentru regatele sale anuale de navigație."],
       en: ["Serves as the administrative headquarters for the Berry Islands district.", "The settlement underwent significant expansion during the 1940s.", "A favorite stopover for sailors navigating toward Nassau.", "Provides direct access to premier bonefishing grounds in the area.", "Located near an airstrip with regular flights to the United States.", "The community is renowned for hosting competitive annual sailing regattas."]
-    }
-  },
+    }, image: "/poi-images/bullocks-harbour-cities-v2.webp"},
   {
     id: "current-cities-v2",
     type: "city",
@@ -207,8 +200,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Híres a 'Current Cut' sodródó búvárkodásról.", "Eleuthera egyik legrégebbi települése (18. sz.).", "Kézműves hajóépítési hagyományairól ismert.", "A környék egyik legbiztonságosabb természetes kikötőjét kínálja.", "A bonefishing horgászok népszerű célpontja.", "A település nagyrészt megőrizte eredeti alaprajzát."],
       ro: ["Faimos pentru scufundarea în derivă 'Current Cut'.", "Una dintre cele mai vechi așezări de pe Eleuthera (sec. XVIII).", "Cunoscut pentru tradiția sa meșteșugărească în construcția de bărci.", "Oferă unul dintre cele mai sigure porturi naturale din zonă.", "O destinație populară pentru pescarii de bonefish.", "Așezarea și-a păstrat în mare parte planul original."],
       en: ["Famous for the exhilarating 'Current Cut' drift dive experience.", "One of the oldest continuously inhabited settlements on Eleuthera.", "Renowned for its historical tradition of master boat building.", "Features one of the most secure natural harbors in the region.", "A top-tier destination for international bonefishing enthusiasts.", "The settlement has largely maintained its original colonial-era layout."]
-    }
-  },
+    }, image: "/poi-images/current-cities-v2.webp"},
   {
     id: "staniel-cay-cities-v2",
     type: "city",
@@ -233,8 +225,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A Thunderball Grottót a 'Tűzgolyó' és a 'Soha ne mondd, hogy soha' filmekhez használták.", "A Staniel Cay Yacht Clubot 1956-ban alapították.", "Az Exumák egyik legjobban felszerelt jachtkikötőjének otthona.", "Csak néhány percre fekszik a Big Major Cay-től (úszó malacok).", "A sziget saját leszállópályával rendelkezik kisrepülőgépek számára.", "Az Exuma Cays Land and Sea Park egyik fontos bázisa."],
       ro: ["Grota Thunderball a fost folosită pentru 'Thunderball' și 'Never Say Never Again'.", "Staniel Cay Yacht Club a fost fondat în 1956.", "Găzduiește una dintre cele mai bine echipate marine din Exumas.", "Situat la doar câteva minute de Big Major Cay (porcii înotători).", "Insula are propria pistă de aterizare pentru avioane mici.", "O bază importantă pentru Parcul Terestru și Marin Exuma Cays."],
       en: ["Thunderball Grotto was a location for the films 'Thunderball' and 'Never Say Never Again'.", "The iconic Staniel Cay Yacht Club was established in 1956.", "Features one of the most comprehensive full-service marinas in the Exumas.", "Located just minutes away from the world-famous 'Pig Beach' at Big Major Cay.", "The island possesses its own paved airstrip for private and charter flights.", "Serves as a vital staging point for exploring the Exuma Cays Land and Sea Park."]
-    }
-  },
+    }, image: "/poi-images/staniel-cay-cities-v2.webp"},
   {
     id: "black-point-cities-v2",
     type: "city",
@@ -259,8 +250,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A Bahamák legjobb szalmafonóinak otthona.", "Rendelkezik egy látványos természeti látványossággal, a 'The Blow Hole'-lal.", "A település autentikus helyi pékségeiről ismert.", "Jelentős vitorlásregattákat tart hagyományos fahajók számára.", "Az Exumák egyik legvédettebb horgonyzóhelyét kínálja a jachtoknak.", "A közösség erős hagyományokkal rendelkezik a közösségi halászat terén."],
       ro: ["Acasă la unii dintre cei mai buni împletitori de paie din Bahamas.", "Deține o atracție naturală spectaculoasă numită 'The Blow Hole'.", "Așezarea este cunoscută pentru brutăriile sale locale autentice.", "Găzduiește regate importante de navigație pentru ambarcațiuni tradiționale din lemn.", "Oferă unul dintre cele mai protejate ancoraje pentru iahturi din Exumas.", "Comunitatea are o tradiție puternică în pescuitul comunitar."],
       en: ["Home to some of the most skilled straw artisans in the Bahamas.", "Features a spectacular natural blowhole located on the northern coast.", "Famous among cruisers for its authentic local bakeries and fresh bread.", "Hosts significant regattas featuring traditional Bahamian wooden sloops.", "Boasts one of the best-protected natural anchorages in the Exuma chain.", "Maintains a strong tradition of community-based fishing and resource sharing."]
-    }
-  },
+    }, image: "/poi-images/black-point-cities-v2.webp"},
   {
     id: "little-farmers-cay-cities-v2",
     type: "city",
@@ -285,8 +275,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Christian Herock, egy volt rabszolga alapította.", "Megrendezi a híres 'Farmer's Cay Fesztivált' (Five-F).", "A kikötőben található vad tengeri teknősökkel való úszásról ismert.", "A szigetnek mindössze körülbelül 60 állandó lakosa van.", "Otthont ad a bájos 'Ocean Cabin' pubnak és étteremnek.", "Fontos megálló az Exumákon északról délre áthaladó vitorlázók számára."],
       ro: ["Fondat de Christian Herock, un fost sclav.", "Găzduiește faimosul 'Farmer's Cay Festival' (Five-F).", "Cunoscut pentru înotul cu țestoasele marine sălbatice în port.", "Insula are doar aproximativ 60 de locuitori permanenți.", "Găzduiește fermecătorul pub și restaurant 'Ocean Cabin'.", "O oprire importantă pentru navigatorii care traversează Exumas de la nord la sud."],
       en: ["Founded by Christian Herock, a formerly enslaved man from Exuma.", "Hosts the renowned annual Farmer's Cay Festival (Five-F Festival).", "Famous for the friendly sea turtles that congregate near the main dock.", "The island has a very small population of approximately 60 permanent residents.", "Home to the legendary 'Ocean Cabin' establishment, a landmark for sailors.", "A key navigational stop for cruisers traveling the Exuma island chain."]
-    }
-  },
+    }, image: "/poi-images/little-farmers-cay-cities-v2.webp"},
   {
     id: "mortimers-cities-v2",
     type: "city",
@@ -337,8 +326,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A Kongó-medencéből származó felszabadított rabszolgákról nevezték el.", "South Andros legfontosabb repülőterének ad otthont.", "A bonefishing legyezőhorgászat világhírű központja.", "A világ néhány legmélyebb 'Blue Hole'-ja (kék lyuk) közelében fekszik.", "A település egyedülálló afro-bahamai zenei hagyományokat őriz.", "Kapu az érintetlen Andros-korallzátonyhoz."],
       ro: ["Numit după sclavii eliberați din bazinul Congo.", "Găzduiește cel mai important aeroport pentru South Andros.", "Un centru renumit mondial pentru pescuitul la bonefish cu muscă.", "Situat lângă unele dintre cele mai adânci 'Blue Holes' (găuri albastre) din lume.", "Așezarea păstrează tradiții muzicale afro-bahamiene unice.", "Poartă de acces către reciful de corali nealterat din Andros."],
       en: ["Named in honor of liberated Africans from the Congo River basin.", "Home to the primary commercial airport serving the South Andros district.", "A world-renowned hub for professional-grade bonefishing excursions.", "Located in proximity to several of the world's deepest inland blue holes.", "The settlement preserves distinct Afro-Bahamian musical and oral traditions.", "Serves as a vital entry point for exploring the pristine Andros Barrier Reef."]
-    }
-  },
+    }, image: "/poi-images/congo-town-cities-v2.webp"},
   {
     id: "kemps-bay-cities-v2",
     type: "city",
@@ -363,8 +351,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Egykor a kiváló minőségű tengeri só jelentős termelője volt.", "Hozzáférést biztosít Andros déli bonefishing területeihez.", "A közelben található a Deep Creek Blue Hole.", "A település fontos megállója a heti postahajóknak.", "Hagyományos 'Crab Fest' (rákfesztivál) ünnepségeiről ismert.", "A Bahamák egyik legritkábban lakott régiójában fekszik."],
       ro: ["Odinioară un centru de export de frunte pentru ananasul bahamian.", "Eleuthera egyik legrégebbi nyilvános könyvtárának ad otthont.", "Cunoscut pentru apele cristaline ale Savannah Sound.", "Așezarea are una dintre cele mai scăzute rate ale criminalității de pe insulă.", "Faimos pentru fabricarea tradițională a produselor de patiserie locale.", "Un loc popular pentru fotografii de natură datorită condițiilor de lumină."],
       en: ["Once a primary shipping point for Eleuthera's world-class pineapples.", "Home to a historic public library, one of the first of its kind in the district.", "Renowned for the incredibly clear and calm waters within the sound.", "The settlement is noted for its safety and strong community-watch tradition.", "Famous among locals for its traditional Bahamian bakery treats.", "A preferred location for landscape photographers due to the stunning coastal light."]
-    }
-  },
+    }, image: "/poi-images/kemps-bay-cities-v2.webp"},
   {
     id: "savannah-sound-cities-v2",
     type: "city",
@@ -389,8 +376,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Egykor a bahamai ananász vezető exportközpontja volt.", "Eleuthera egyik legrégebbi nyilvános könyvtárának ad otthont.", "A Savannah Sound kristálytiszta vizéről ismert.", "A településnek van a sziget egyik legalacsonyabb bűnözési rátája.", "Híres a hagyományos helyi sütemények készítéséről.", "A fényviszonyok miatt a természetfotósok kedvelt helye."],
       ro: ["Odinioară un centru de export de frunte pentru ananasul bahamian.", "Găzduiește una dintre cele mai vechi biblioteci publice de pe Eleuthera.", "Cunoscut pentru apele cristaline ale Savannah Sound.", "Așezarea are una dintre cele mai scăzute rate ale criminalității de pe insulă.", "Faimos pentru fabricarea tradițională a produselor de patiserie locale.", "Un loc popular pentru fotografii de natură datorită condițiilor de lumină."],
       en: ["Once a primary shipping point for Eleuthera's world-class pineapples.", "Home to a historic public library, one of the first of its kind in the district.", "Renowned for the incredibly clear and calm waters within the sound.", "The settlement is noted for its safety and strong community-watch tradition.", "Famous among locals for its traditional Bahamian bakery treats.", "A preferred location for landscape photographers due to the stunning coastal light."]
-    }
-  },
+    }, image: "/poi-images/savannah-sound-cities-v2.webp"},
   {
     id: "pirates-well-cities-v2",
     type: "city",
@@ -415,8 +401,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Egy kútról nevezték el, amelyet állítólag kalózok ástak.", "A Bahamák egyik legizoláltabb állandó települése.", "Szezonban a szárazföldi rákok bőségéről ismert.", "Mayaguana szigete az arawak nyelvből kapta a nevét.", "Pirate's Well egy olyan dialektust őriz, amely sok archaikus vonást mutat.", "Fontos tengeri teknős fészkelőhelyek közelében fekszik."],
       ro: ["Numit după o fântână despre care se spune că a fost săpată de pirați.", "Una dintre cele mai izolate așezări permanente din Bahamas.", "Cunoscut pentru abundența crabilor de uscat în timpul sezonului.", "Insula Mayaguana își trage numele din limba arawak.", "Pirate's Well păstrează un dialect care prezintă multe trăsături arhaice.", "Situat în apropierea unor locuri importante de cuibărit pentru țestoasele marine."],
       en: ["Named after a specific well supposedly dug by early Caribbean pirates.", "Ranked as one of the most isolated permanent communities in the Bahamas.", "Famous for the massive 'crab runs' that occur during the rainy season.", "Mayaguana Island's name is one of the few remaining Arawak-Lucayan terms.", "The settlement preserves a unique dialect with many archaic linguistic features.", "Located near critical nesting grounds for endangered sea turtle species."]
-    }
-  },
+    }, image: "/poi-images/pirates-well-cities-v2.webp"},
   {
     id: "betsy-bay-cities-v2",
     type: "city",
@@ -441,8 +426,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Mayaguana szigetének legnyugatibb települése.", "Híres az Atlanti-óceán feletti látványos naplementéiről.", "A gazdaság szinte kizárólag a hagyományos halászaton alapul.", "Sok ház kézzel faragott helyi mészkőből készült.", "Fontos hely a vándorló vízimadarak megfigyelésére.", "Nem rendelkezik nagy turisztikai létesítményekkel."],
       ro: ["Cea mai vestică așezare de pe insula Mayaguana.", "Cunoscut pentru apusurile spectaculoase de soare peste Atlantic.", "Economia se bazează aproape exclusiv pe pescuitul tradițional.", "Multe case sunt construite din calcar local tăiat manual.", "Un loc important pentru observarea păsărilor de apă migratoare.", "Nu dispune de facilități turistice majore."],
       en: ["The westernmost community established on Mayaguana Island.", "Renowned for offering some of the most spectacular sunset views in the Bahamas.", "The local economy is almost entirely dependent on traditional sea harvests.", "Several historic structures are built from hand-hewn local limestone blocks.", "A strategic point for observing various species of migratory waterfowl.", "Remains one of the few Bahamian settlements with zero commercial tourism infrastructure."]
-    }
-  },
+    }, image: "/poi-images/betsy-bay-cities-v2.webp"},
   {
     id: "albert-town-cities-v2",
     type: "city",
@@ -467,8 +451,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Egykor a Hamburg-Amerika vonal fontos állomása volt.", "A történelmi vámház romjairól ismert.", "Nagy nyugat-indiai flamingókolónia otthona.", "Long Cay szigetét Kolumbusz 'Santa Maria de la Concepción'-nak nevezte el.", "Valaha a guanóexport jelentős központja volt.", "Kiváló sznorkelezési lehetőségeket kínál a történelmi kikötőmedencékben."],
       ro: ["Odinioară o stație importantă pentru linia Hamburg-America.", "Cunoscut pentru ruinele clădirii istorice a vămilor.", "Acasă la o colonie mare de flamingo din Indiile de Vest.", "Insula Long Cay a fost numită de Columb 'Santa Maria de la Concepción'.", "A fost odinioară un centru important pentru exportul de guano.", "Oferă oportunități excelente de snorkeling în bazinele portuare istorice."],
       en: ["Formerly a major logistical stop for the Hamburg-America steamship line.", "Noted for the atmospheric ruins of the 19th-century Customs House.", "Home to one of the largest colonies of West Indian flamingos in the region.", "Long Cay was originally named 'Santa Maria de la Concepción' by Columbus.", "Once served as a significant hub for the regional guano export industry.", "Offers unique snorkeling experiences amidst historical submerged dock structures."]
-    }
-  },
+    }, image: "/poi-images/albert-town-cities-v2.webp"},
   {
     id: "duncans-cities-v2",
     type: "city",
@@ -493,8 +476,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A Bahamák legdélebbi állandóan lakott települése.", "2017-ben az Irma hurrikán után 'lakhatatlannak' nyilvánították.", "Kiterjedt, történelmi sólepárlóiról ismert.", "A lakók híresek navigációs képességeikről.", "Az egyik legjobb hely a bonefishingre teljes elszigeteltségben.", "A település nap- és szélenergiával önellátó módon működik."],
       ro: ["Cea mai sudică așezare locuită permanent din Bahamas.", "A fost declarată 'nelocuibilă' după uraganul Irma în 2017.", "Cunoscut pentru salinele sale istorice și vaste.", "Locuitorii sunt faimoși pentru abilitățile lor de navigație.", "Unul dintre cele mai bune locuri pentru bonefishing în izolare totală.", "Așezarea este alimentată în mod autosuficient prin energie solară și eoliană."],
       en: ["The southernmost permanently inhabited settlement in the Bahamas.", "Infamously declared 'uninhabitable' following Hurricane Irma in 2017.", "Home to extensive historical salt pans used for solar salt production.", "Residents are renowned throughout the Bahamas for their expert seafaring skills.", "Considered a premier 'bucket list' destination for remote bonefishing.", "The community is currently pioneering self-sufficiency through solar and wind power."]
-    }
-  },
+    }, image: "/poi-images/duncans-cities-v2.webp"},
   {
     id: "gordons-cities-v2",
     type: "city",
@@ -519,8 +501,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Long Island főútjának déli végpontját jelzi.", "A közelben jelentős flamingó fészkelőhelyek találhatók.", "Hagyományosan a nagyüzemi kecske- és juhtenyésztés helye.", "Fontos útvonal a Conception Island Nemzeti Parkhoz.", "A tengerpart itt kivételes kagylóválasztékáról ismert.", "A település nincs rákötve az elektromos hálózatra, generátorokra támaszkodik."],
       ro: ["Marchează capătul sudic al drumului principal de pe Long Island.", "În apropiere se află locuri importante de cuibărit pentru flamingo.", "Tradițional un loc pentru creșterea pe scară largă a caprelor și oilor.", "Cale de acces importantă către Parcul Național Insula Conception.", "Coasta de aici este cunoscută pentru diversitatea sa excepțională de scoici.", "Așezarea nu este conectată la rețeaua electrică și depinde de generatoare."],
       en: ["Represents the official southern end of Long Island's Queen's Highway.", "Located adjacent to vital nesting and feeding grounds for West Indian flamingos.", "Traditionally recognized for expansive livestock farming, particularly goats.", "Serves as the primary staging area for trips to the protected Conception Island.", "The shoreline is highly regarded by beachcombers for its rare seashell finds.", "Maintains an off-grid status, with many homes relying on solar or generators."]
-    }
-  },
+    }, image: "/poi-images/gordons-cities-v2.webp"},
   {
     id: "mckanns-cities-v2",
     type: "city",
@@ -571,8 +552,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A 18. századi Marine Farm történelmi romjainak otthona.", "Elsőrangú célpont a bonefishing és a mélytengeri horgászat számára.", "A Bird Rock világítótorony 1876-ban épült.", "Brit lojalisták alapították az amerikai függetlenségi háború után.", "A település kiváló helyi tengeri ételeiről ismert.", "Hozzáférést biztosít a Bahamák legfélreesőbb búvárhelyeihez."],
       ro: ["Găzduiește ruinele istorice ale Marine Farm din secolul al XVIII-lea.", "O destinație de top pentru bonefishing și pescuit de mare adâncime.", "Farul Bird Rock a fost construit în 1876.", "Fondat de loialiști britanici după Revoluția Americană.", "Așezarea este cunoscută pentru bucătăria sa excelentă pe bază de fructe de mare.", "Oferă acces la cele mai izolate locuri de scufundări din Bahamas."],
       en: ["Home to the significant 18th-century ruins of the British Marine Farm.", "A world-renowned hotspot for specialized bonefishing and offshore angling.", "The nearby Bird Rock Lighthouse was originally constructed in 1876.", "Established by British Loyalists fleeing the American Revolutionary War.", "The settlement is famous for its authentic and fresh Bahamian seafood.", "Provides a strategic base for exploring the most remote dive sites in the Bahamas."]
-    }
-  },
+    }, image: "/poi-images/landrail-point-cities-v2.webp"},
   {
     id: "moss-town-cities-v2",
     type: "city",
@@ -597,8 +577,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Közvetlenül határos az Exuma Nemzetközi Repülőtérrel.", "Hagyományosan a gabona- és gyümölcstermesztés központja.", "A település történelmi általános iskolájáról ismert.", "A helyi logisztika és ellátás fontos helyszíne.", "Az Exumák egyik legerősebb mezőgazdasági hagyományát őrzi.", "Kényelmesen, a sziget főútvonala mentén fekszik."],
       ro: ["Adiacent Aeroportului Internațional Exuma.", "Tradițional un centru pentru cultivarea cerealelor și fructelor.", "Așezarea este cunoscută pentru școala sa primară istorică.", "Locație importantă pentru logistica și aprovizionarea locală.", "Păstrează una dintre cele mai puternice tradiții agricole din Exumas.", "Situat convenabil pe drumul principal al insulei."],
       en: ["Located immediately adjacent to the primary Exuma International Airport.", "Historically served as a major center for island grain and fruit production.", "Home to a long-standing and respected community primary school.", "Functions as a critical hub for regional logistics and local distribution.", "Boasts one of the most resilient agricultural traditions in the Exuma Cays.", "Strategically positioned along the island's main transport artery."]
-    }
-  },
+    }, image: "/poi-images/moss-town-cities-v2.webp"},
   {
     id: "ramsey-cities-v2",
     type: "city",
@@ -623,8 +602,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Egykor egy jelentős lojalista pamutültetvény része volt.", "Termékeny talajáról és háztáji kertjeiről ismert.", "A település őrzi a hagyományos bahamai építési módokat.", "Csendes menedék George Town közelében.", "A közelben gyarmati korból származó történelmi romok találhatók.", "A közösség a helyi iskolák erős támogatásáról ismert."],
       ro: ["Odinioară parte dintr-o plantație de bumbac importantă a loialiștilor.", "Cunoscut pentru solurile sale fertile și grădinile caselor.", "Așezarea păstrează metodele tradiționale de construcție bahamiene.", "Un refugiu liniștit departe de George Town.", "În apropiere se află ruine istorice din perioada colonială.", "Comunitatea este cunoscută pentru sprijinul puternic acordat școlilor locale."],
       en: ["Formerly part of a major 18th-century Loyalist cotton estate.", "Renowned for its fertile soil and productive home-based agriculture.", "Maintains traditional Bahamian architectural styles and techniques.", "Provides a peaceful residential alternative to the busier George Town.", "Historic colonial-era ruins are scattered in the surrounding area.", "The community is recognized for its active involvement in local education."]
-    }
-  },
+    }, image: "/poi-images/ramsey-cities-v2.webp"},
   {
     id: "forbes-hill-cities-v2",
     type: "city",
@@ -649,8 +627,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Közvetlenül a Ráktérítő szélességi körén fekszik.", "A kristálytiszta vizű Forbes Hill Beach-ről ismert.", "Történelmileg felszabadított rabszolgák települése 1834 után.", "A település rendelkezik az Exumák egyik legtöbbet fényképezett templomával.", "Csendes kiindulópont Little Exuma felfedezéséhez.", "Látványos kilátást nyújt a sziget magaslatáról."],
       ro: ["Situat direct pe paralela Tropicului Racului.", "Cunoscut pentru plaja Forbes Hill cu apă cristalină.", "Istoric o așezare de sclavi eliberați după 1834.", "Așezarea posedă una dintre cele mai fotografiate biserici din Exumas.", "Un punct de plecare liniștit pentru explorarea Little Exuma.", "Oferă vederi spectaculoase de pe înălțimea insulei."],
       en: ["Positioned precisely on the latitudinal line of the Tropic of Cancer.", "Famed for Forbes Hill Beach, known for its incredible water clarity.", "Historically a free settlement established following emancipation in 1834.", "Features one of the most iconic and photographed churches in the Exumas.", "Serves as a peaceful home base for exploring the wilder parts of Little Exuma.", "Offers some of the highest elevation vantage points in the southern Exuma Cays."]
-    }
-  },
+    }, image: "/poi-images/forbes-hill-cities-v2.webp"},
   {
     id: "port-howe-cities-v2",
     type: "city",
@@ -675,8 +652,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Az 1783-ból származó Deveaux-kúria romjainak otthona.", "Egykor stratégiai mélyvízi kikötő volt a gyapotexport számára.", "A brit haditengerészet admirálisáról, Lord Howe-ról nevezték el.", "A település jelentős történelmi temetőkkel rendelkezik.", "Elsőrangú hely a partközeli hajóroncsok felfedezésére.", "A lakók híresek hagyományos gyógyászatukról (Bush Medicine)."],
       ro: ["Găzduiește ruinele conacului Deveaux din 1783.", "Odinioară un port strategic de adâncime pentru exportul de bumbac.", "Numit după amiralul Lord Howe din marina britanică.", "Așezarea posedă cimitire istorice semnificative.", "Un loc de top pentru explorarea epavelor din apropierea coastei.", "Locuitorii sunt cunoscuți pentru medicina lor tradițională (Bush Medicine)."],
       en: ["Home to the historic ruins of the Deveaux Mansion, constructed in 1783.", "Formerly a vital deep-water port for the Caribbean cotton trade.", "Named in honor of Admiral Lord Howe of the British Royal Navy.", "Contains several significant and well-preserved colonial-era cemeteries.", "A premier location for exploring shallow-water shipwrecks near the coast.", "The community is respected for its deep knowledge of traditional 'Bush Medicine.'"]
-    }
-  },
+    }, image: "/poi-images/port-howe-cities-v2.webp"},
   {
     id: "bain-town-cities-v2",
     type: "city",
@@ -727,8 +703,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Cat Island kormányzati hivatalának (Administrator's Office) székhelye.", "A Nassau-ból érkező heti postahajó legfontosabb kikötőhelye.", "Az országosan ismert Rake 'n' Scrape Fesztivál helyszíne.", "Kiváló bonefishing feltételeiről ismert.", "A település modern felszereltségű klinikával rendelkezik.", "A szigeten belüli áruszállítás fontos csomópontja."],
       ro: ["Sediul biroului guvernamental (Administrator's Office) din Cat Island.", "Cel mai important punct de acostare pentru barca poștală săptămânală din Nassau.", "Locul de desfășurare a Festivalului Rake 'n' Scrape, cunoscut la nivel național.", "Cunoscut pentru condițiile sale excelente de pescuit bonefish.", "Așezarea dispune de o clinică dotată modern.", "Un nod important pentru transportul de mărfuri pe întreaga insulă."],
       en: ["Serves as the official seat of the Cat Island Administrator's Office.", "Primary port of call for the vital weekly mailboat service from Nassau.", "The primary host site for the world-famous annual Rake 'n' Scrape Festival.", "Renowned among anglers for its accessible and productive bonefishing flats.", "Home to a modern community medical clinic serving the southern district.", "Acts as the principal logistical hub for regional commerce and distribution."]
-    }
-  },
+    }, image: "/poi-images/smiths-bay-cities-v2.webp"},
   {
     id: "orange-creek-cities-v2",
     type: "city",
@@ -753,8 +728,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A patak mentén egykor növő vadnarancsokról nevezték el.", "Elsőrangú célpont a bonefishing rajongók számára.", "Hagyományosan a gabona- és hüvelyes-termesztéséről ismert.", "A település egy történelmi metodista templommal rendelkezik.", "Cat Island hajóépítésének egyik fontos bázisa.", "Hozzáférést biztosít a sziget északi szikláihoz és öbleihez."],
       ro: ["Numit după portocalii sălbatici care creșteau odinioară lângă pârâu.", "O destinație de top pentru entuziaștii de bonefishing.", "Cunoscut tradițional pentru cultivarea cerealelor și leguminoaselor.", "Așezarea posedă o biserică metodistă istorică.", "Un centru important pentru construcția de bărci pe insula Cat.", "Oferă acces la stâncile și golfurile nordice ale insulei."],
       en: ["Named after the wild citrus trees that once lined the local tidal creek.", "Regarded as a world-class destination for specialized bonefishing.", "Historically famous for its large-scale production of corn and pulses.", "Home to a prominent and historic Methodist church structure.", "A strategic center for the preservation of Bahamian sloop-building traditions.", "Provides easy access to the dramatic cliffs and hidden coves of North Cat Island."]
-    }
-  },
+    }, image: "/poi-images/orange-creek-cities-v2.webp"},
   {
     id: "bennetts-harbour-cities-v2",
     type: "city",
@@ -779,8 +753,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Cat Island egyik legbiztonságosabb természetes kikötőjét kínálja.", "A helyi homárhalászat egyik fontos bázisa.", "Kiterjedt mangrove-ökoszisztémáiról ismert.", "A település gyarmati korból származó történelmi épületekkel rendelkezik.", "Népszerű kiindulópont az árapály-patakokon átvezető kajaktúrákhoz.", "A közösség hagyományos tengerparti piknikeket szervez a látogatóknak."],
       ro: ["Oferă unul dintre cele mai sigure porturi naturale de pe insula Cat.", "O bază importantă pentru pescuitul local de homari.", "Cunoscut pentru ecosistemele sale vaste de mangrove.", "Așezarea posedă clădiri istorice din perioada colonială.", "Un punct de plecare popular pentru tururi cu caiacul prin pârâurile mareice.", "Comunitatea organizează picnicuri tradiționale pe plajă pentru vizitatori."],
       en: ["Features one of the most reliable and secure natural harbors on Cat Island.", "A primary staging area for the local commercial spiny lobster industry.", "Renowned for its expansive and biologically diverse mangrove ecosystems.", "The settlement contains several well-preserved colonial-era stone buildings.", "A favorite launch site for eco-tours through winding tidal creek systems.", "The community is known for hosting traditional beach cookouts for travelers."]
-    }
-  },
+    }, image: "/poi-images/bennetts-harbour-cities-v2.webp"},
   {
     id: "lower-bogue-cities-v2",
     type: "city",
@@ -793,8 +766,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Hagyományos bahamai falusi élet", "Erős családi kötelékek az egész közösségben", "A Glass Window híd közelében"],
       ro: ["Viața tradițională a satului bahamian", "Legături familiale puternice în întreaga comunitate", "Aproape de Podul Glass Window"],
       en: ["Traditional Bahamian village life", "Strong family ties throughout the community", "Close to the Glass Window Bridge"]
-    }
-  },
+    }, image: "/poi-images/lower-bogue-cities-v2.webp"},
   {
     id: "cecil-cities-v2",
     type: "city",
@@ -807,8 +779,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Csendes és békés légkör", "A Queen's Highway menti településlánc része", "Fejletlen földterület veszi körül"],
       ro: ["Atmosferă liniștită și pașnică", "Parte a lanțului de așezări de-a lungul autostrăzii Queen's", "Înconjurat de teren nedezvoltat"],
       en: ["Quiet and peaceful atmosphere", "Part of the chain of settlements along Queen's Highway", "Surrounded by undeveloped land"]
-    }
-  },
+    }, image: "/poi-images/cecil-cities-v2.webp"},
   {
     id: "barratarre-cities-v2",
     type: "city",
@@ -835,8 +806,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Könnyű hozzáférés George Town szolgáltatásaihoz", "Helyi lakosok és külföldiek keveréke", "Növekvő közösség"],
       ro: ["Acces convenabil la facilitățile din George Town", "Un amestec de rezidenți locali și expatriați", "Comunitate în creștere"],
       en: ["Convenient access to George Town's amenities", "A mix of local residents and expatriates", "Growing community"]
-    }
-  },
+    }, image: "/poi-images/stewart-manor-cities-v2.webp"},
   {
     id: "alexandria-cities-v2",
     type: "city",
@@ -849,8 +819,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Mezőgazdasági jellegű terület", "Hagyományos életmód", "Békés környezet"],
       ro: ["Zonă predominant agricolă", "Mod de viață tradițional", "Mediu pașnic"],
       en: ["Agricultural area", "Traditional way of life", "Peaceful environment"]
-    }
-  },
+    }, image: "/poi-images/alexandria-cities-v2.webp"},
   {
     id: "rocky-point-cities-v2",
     type: "city",
@@ -863,8 +832,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Nagyon elszigetelt és nehezen megközelíthető", "A hurrikánok súlyosan megrongálták", "A lakosok a tenger adta lehetőségekből élnek"],
       ro: ["Foarte izolat și greu accesibil", "Grav avariat de uragane", "Locuitorii trăiesc de pe urma mării"],
       en: ["Very isolated and difficult to access", "Severely damaged by hurricanes", "Residents live off the sea"]
-    }
-  },
+    }, image: "/poi-images/rocky-point-cities-v2.webp"},
   {
     id: "mcleans-town-cities-v2",
     type: "city",
@@ -877,8 +845,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Évente megrendezi a Conch Cracking versenyt", "Kompkikötő Crown Havenbe, Abacoba", "Halászfalu"],
       ro: ["Găzduiește concursul anual de spart scoici", "Port de feribot către Crown Haven, Abaco", "Sat pescăresc"],
       en: ["Hosts the annual Conch Cracking competition", "Ferry port to Crown Haven, Abaco", "Fishing village"]
-    }
-  },
+    }, image: "/poi-images/mcleans-town-cities-v2.webp"},
   {
     id: "pelican-point-cities-v2",
     type: "city",
@@ -891,8 +858,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Éves Kókuszdió Fesztiváljáról ismert", "Távoli fekvés gyönyörű strandokkal", "Erős közösségi kultúra"],
       ro: ["Cunoscut pentru festivalul anual al nucilor de cocos", "Locație izolată cu plaje frumoase", "Cultură comunitară puternică"],
       en: ["Known for its annual Coconut Festival", "Remote location with beautiful beaches", "Strong community culture"]
-    }
-  },
+    }, image: "/poi-images/pelican-point-cities-v2.webp"},
   {
     id: "long-bay-cays-cities-v2",
     type: "city",
@@ -905,8 +871,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Vidéki és hagyományos közösségek", "A gazdaság a helyi erőforrásokra támaszkodik", "Fontos terület a rákhalászathoz"],
       ro: ["Comunități rurale și tradiționale", "Economia se bazează pe resursele locale", "Zonă importantă pentru pescuitul de crabi"],
       en: ["Rural and traditional communities", "Economy relies on local resources", "Important area for crabbing"]
-    }
-  },
+    }, image: "/poi-images/long-bay-cays-cities-v2.webp"},
   {
     id: "sandy-point-cities-v2",
     type: "city",
@@ -919,8 +884,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Kapu az Abaco Nemzeti Parkhoz", "Madármegfigyelési lehetőségeiről (Abaco-papagáj) ismert", "Fontos horgonyzóhely csónakok számára"],
       ro: ["Poartă de acces către Parcul Național Abaco", "Cunoscut pentru observarea păsărilor (papagalul Abaco)", "Ancoraj important pentru bărci"],
       en: ["Gateway to the Abaco National Park", "Known for birdwatching (Abaco Parrot)", "Important anchorage for boats"]
-    }
-  },
+    }, image: "/poi-images/sandy-point-cities-v2.webp"},
   {
     id: "cherokee-sound-cities-v2",
     type: "city",
@@ -933,8 +897,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Lojalista eredetéről ismert", "A Bahamák leghosszabb fa mólójával rendelkezik", "Erős hajóépítési és halászati hagyomány"],
       ro: ["Cunoscut pentru descendența sa loialistă", "Are cel mai lung debarcader din lemn din Bahamas", "Tradiție puternică în construcția de bărci și pescuit"],
       en: ["Known for its Loyalist ancestry", "Has the longest wooden dock in The Bahamas", "Strong boat building and fishing tradition"]
-    }
-  },
+    }, image: "/poi-images/cherokee-sound-cities-v2.webp"},
   {
     id: "little-harbour-abaco-cities-v2",
     type: "city",
@@ -947,8 +910,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Randolph Johnston művész alapította", "Egyedi, természet ihlette légkör", "A Pete's Pub and Gallery híres találkozóhely"],
       ro: ["Fondată de artistul Randolph Johnston", "Atmosferă unică, inspirată de natură", "Pete's Pub and Gallery este un loc de întâlnire faimos"],
       en: ["Founded by artist Randolph Johnston", "Unique, nature-inspired atmosphere", "Pete's Pub and Gallery is a famous landmark"]
-    }
-  },
+    }, image: "/poi-images/little-harbour-abaco-cities-v2.webp"},
   {
     id: "crossing-rocks-cities-v2",
     type: "city",
@@ -961,8 +923,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Vidéki település az autópálya mentén", "A lakosok a tengerből élnek", "Erős családi kötelékek"],
       ro: ["Așezare rurală de-a lungul autostrăzii", "Locuitorii trăiesc de pe urma mării", "Legături familiale puternice"],
       en: ["Rural settlement along the highway", "Residents live off the sea", "Strong family ties"]
-    }
-  },
+    }, image: "/poi-images/crossing-rocks-cities-v2.webp"},
   {
     id: "spring-city-cities-v2",
     type: "city",
@@ -975,8 +936,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Munkásnegyedként fejlesztették ki", "Növekvő közösség", "Bevásárló- és üzleti központok közelében"],
       ro: ["Dezvoltat ca o zonă rezidențială pentru muncitori", "Comunitate în creștere", "Aproape de centre comerciale și de afaceri"],
       en: ["Developed as a residential area for workers", "Growing community", "Close to commercial and business centers"]
-    }
-  },
+    }, image: "/poi-images/spring-city-cities-v2.webp"},
   {
     id: "dundas-town-cities-v2",
     type: "city",
@@ -989,8 +949,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Eredetileg haiti bevándorlók lakták", "Élénk és aktív közösség", "Sok szolgáltatást oszt meg Marsh Harbourral"],
       ro: ["Stabilită inițial de imigranți haitieni", "Comunitate vibrantă și activă", "Împărtășește multe servicii cu Marsh Harbour"],
       en: ["Originally settled by Haitian immigrants", "Vibrant and active community", "Shares many services with Marsh Harbour"]
-    }
-  },
+    }, image: "/poi-images/dundas-town-cities-v2.webp"},
   {
     id: "murphy-town-cities-v2",
     type: "city",
@@ -1003,8 +962,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A nagyobb Marsh Harbour terület része", "Erős közösségi érzés", "Lakóövezet"],
       ro: ["Parte a zonei mai mari Marsh Harbour", "Simț puternic al comunității", "Zonă rezidențială"],
       en: ["Part of the greater Marsh Harbour area", "Strong sense of community", "Residential area"]
-    }
-  },
+    }, image: "/poi-images/murphy-town-cities-v2.webp"},
   {
     id: "crown-haven-cities-v2",
     type: "city",
@@ -1017,8 +975,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Kompkapcsolat McLean's Townnal, Grand Bahamával", "Távoli és csendes közösség", "Fontos pont a szigetközi közlekedésben"],
       ro: ["Legătură de feribot cu McLean's Town, Grand Bahama", "Comunitate izolată și liniștită", "Punct important pentru transportul între insule"],
       en: ["Ferry link to McLean's Town, Grand Bahama", "Remote and quiet community", "Important point for inter-island transport"]
-    }
-  },
+    }, image: "/poi-images/crown-haven-cities-v2.webp"},
   {
     id: "fox-town-cities-v2",
     type: "city",
@@ -1031,8 +988,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Halászatáról ismert", "Erős történelmi gyökerek", "A Little és Great Abacot összekötő híd közelében"],
       ro: ["Cunoscut pentru pescuitul său", "Rădăcini istorice puternice", "Aproape de podul care leagă Little și Great Abaco"],
       en: ["Known for its fishing", "Strong historical roots", "Near the bridge connecting Little and Great Abaco"]
-    }
-  },
+    }, image: "/poi-images/fox-town-cities-v2.webp"},
   {
     id: "wood-cay-cities-v2",
     type: "city",
@@ -1045,8 +1001,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Nagyon elszigetelt", "Főleg csónakkal közelíthető meg", "A lakosok hagyományos életmódot folytatnak"],
       ro: ["Foarte izolat", "Accesibil în principal cu barca", "Locuitorii duc un stil de viață tradițional"],
       en: ["Very isolated", "Accessed mainly by boat", "Residents live a traditional lifestyle"]
-    }
-  },
+    }, image: "/poi-images/wood-cay-cities-v2.webp"},
   {
     id: "mount-pleasant-cities-v2",
     type: "city",
@@ -1059,8 +1014,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Mezőgazdasági jellegű település", "Békés légkör a turisztikai központoktól távol", "Erős családi kötelékek"],
       ro: ["Așezare agricolă", "Atmosferă pașnică departe de centrele turistice", "Legături familiale puternice"],
       en: ["Agricultural settlement", "Peaceful atmosphere away from tourist hubs", "Strong family ties"]
-    }
-  },
+    }, image: "/poi-images/mount-pleasant-cities-v2.webp"},
   {
     id: "cephas-cities-v2",
     type: "city",
@@ -1073,8 +1027,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Csak néhány háztartásból áll", "A vidéki Abacót képviseli", "Szoros közösség"],
       ro: ["Constă din doar câteva gospodării", "Reprezintă zona rurală a Abaco", "Comunitate unită"],
       en: ["Consists of only a few households", "Represents rural Abaco", "Tight-knit community"]
-    }
-  },
+    }, image: "/poi-images/cephas-cities-v2.webp"},
   {
     id: "the-ferry-cities-v2",
     type: "city",
@@ -1087,8 +1040,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Összeköti Great Exumát Little Exumával egy kis hídon keresztül", "Fontos helyi közlekedési csomópont", "Festői fekvés a vízparton"],
       ro: ["Conectează Great Exuma de Little Exuma printr-un pod mic", "Nod de transport local important", "Locație pitorească pe malul apei"],
       en: ["Connects Great Exuma to Little Exuma via a small bridge", "Important local transport link", "Picturesque waterside location"]
-    }
-  },
+    }, image: "/poi-images/the-ferry-cities-v2.webp"},
   {
     id: "rolletown-cities-v2",
     type: "city",
@@ -1101,8 +1053,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Egy brit lojalista földbirtokosról nevezték el", "Felszabadított rabszolgák számára alapították", "Büszke örökség és erős közösség"],
       ro: ["Numit după un proprietar de pământ loialist britanic", "Fondat pentru sclavii eliberați", "Moștenire mândră și comunitate puternică"],
       en: ["Named after a British Loyalist landowner", "Established for freed slaves", "Proud heritage and strong community"]
-    }
-  },
+    }, image: "/poi-images/rolletown-cities-v2.webp"},
   {
     id: "hartswell-cities-v2",
     type: "city",
@@ -1115,8 +1066,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Panorámás kilátást nyújt az Exuma Soundra", "Népszerű a hajósok és a horgászok körében", "Nyaralóházakkal tarkított lakóövezet"],
       ro: ["Oferă vederi panoramice ale Exuma Sound", "Popular printre navigatori și pescari", "Zonă rezidențială cu case de vacanță"],
       en: ["Offers panoramic views of the Exuma Sound", "Popular with boaters and fishermen", "Residential area with vacation homes"]
-    }
-  },
+    }, image: "/poi-images/hartswell-cities-v2.webp"},
   {
     id: "williamstown-cities-v2",
     type: "city",
@@ -1129,8 +1079,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A Ráktérítő-part közelében", "Egy régi sólepárló telep romjairól híres", "Történelmi ültetvényromok a környéken"],
       ro: ["Aproape de Plaja Tropicului Racului", "Faimos pentru ruinele unei vechi exploatări de sare prin evaporare", "Ruine istorice ale plantațiilor în zonă"],
       en: ["Close to the Tropic of Cancer Beach", "Famous for the ruins of an old salt evaporation plant", "Historic plantation ruins in the area"]
-    }
-  },
+    }, image: "/poi-images/williamstown-cities-v2.webp"},
   {
     id: "true-blue-cities-v2",
     type: "city",
@@ -1143,8 +1092,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Bonefishing síkságairól ismert", "Elszigetelt és csendes hely", "Csak egy maroknyi lakos"],
       ro: ["Cunoscut pentru zonele sale de pescuit la bonefish", "Locație izolată și liniștită", "Doar o mână de locuitori"],
       en: ["Known for its bonefishing flats", "Isolated and quiet location", "Only a handful of residents"]
-    }
-  },
+    }, image: "/poi-images/true-blue-cities-v2.webp"},
   {
     id: "church-grove-cities-v2",
     type: "city",
@@ -1157,8 +1105,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A közösségi élet központja", "Történelmi templom", "Erős kötelékek a szomszédos településekkel"],
       ro: ["Centrul vieții comunitare", "Biserică istorică", "Legături puternice cu așezările învecinate"],
       en: ["Center of community life", "Historic church", "Strong ties to neighboring settlements"]
-    }
-  },
+    }, image: "/poi-images/church-grove-cities-v2.webp"},
   {
     id: "salina-point-cities-v2",
     type: "city",
@@ -1171,8 +1118,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Kiváló bonefishing lehetőségeiről ismert", "Kompkapcsolat Long Cay-jel", "Kicsi, szoros halászközösség"],
       ro: ["Cunoscut pentru pescuitul excelent la bonefish", "Legătură de feribot cu Long Cay", "Comunitate mică și unită de pescari"],
       en: ["Known for its excellent bonefishing", "Ferry link to Long Cay", "Small, tight-knit fishing community"]
-    }
-  },
+    }, image: "/poi-images/salina-point-cities-v2.webp"},
   {
     id: "lovely-bay-cities-v2",
     type: "city",
@@ -1185,8 +1131,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A gyönyörű öbölről nevezték el", "Békés és érintetlen környezet", "Ideális a pihenéshez és a természet élvezetéhez"],
       ro: ["Numit după golful său frumos", "Cadru pașnic și nealterat", "Ideal pentru relaxare și bucurie de natură"],
       en: ["Named for its beautiful bay", "Peaceful and unspoiled setting", "Ideal for relaxing and enjoying nature"]
-    }
-  },
+    }, image: "/poi-images/lovely-bay-cities-v2.webp"},
   {
     id: "hard-bargain-cities-v2",
     type: "city",
@@ -1213,8 +1158,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Érdekes darab a sziget történelméből", "Romok és befejezetlen építmények még láthatók", "Ambiciózus fejlesztési tervek tanúbizonysága"],
       ro: ["O bucată interesantă din istoria insulei", "Ruinele și structurile neterminate sunt încă vizibile", "Mărturie a unor planuri de dezvoltare ambițioase"],
       en: ["Interesting piece of island history", "Ruins and unfinished structures are still visible", "Testament to ambitious development plans"]
-    }
-  },
+    }, image: "/poi-images/port-st-george-cities-v2.webp"},
   {
     id: "old-bight-cities-v2",
     type: "city",
@@ -1227,8 +1171,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Hosszú, gyönyörű strand", "A Mount Alvernia-i Remetelak közelében", "Élénk közösség több templommal"],
       ro: ["Plajă lungă și frumoasă", "Aproape de Schitul de pe Muntele Alvernia", "Comunitate vibrantă cu mai multe biserici"],
       en: ["Long, beautiful beach", "Close to The Hermitage on Mount Alvernia", "Vibrant community with several churches"]
-    }
-  },
+    }, image: "/poi-images/old-bight-cities-v2.webp"},
   {
     id: "new-bight-cities-v2",
     type: "city",
@@ -1241,8 +1184,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A sziget kormányhivatalainak székhelye", "Évente megrendezi a Cat Island Regattát", "Fontos közlekedési csomópont a sziget számára"],
       ro: ["Sediul birourilor guvernamentale ale insulei", "Găzduiește regata anuală a insulei Cat", "Nod de transport important pentru insulă"],
       en: ["Seat of the island's government offices", "Hosts the annual Cat Island Regatta", "Major transport hub for the island"]
-    }
-  },
+    }, image: "/poi-images/new-bight-cities-v2.webp"},
   {
     id: "hawkes-nest-cities-v2",
     type: "city",
@@ -1255,8 +1197,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Saját leszállópályával és kikötővel rendelkezik", "Népszerű a pilóták és a vitorlázók körében", "Kiváló horgászati és búvárkodási lehetőségek"],
       ro: ["Dispune de o pistă de aterizare privată și un port de agrement", "Popular printre piloți și navigatori", "Oportunități excelente de pescuit și scufundări"],
       en: ["Features a private airstrip and marina", "Popular with pilots and yachters", "Excellent fishing and diving opportunities"]
-    }
-  },
+    }, image: "/poi-images/hawkes-nest-cities-v2.webp"},
   {
     id: "burrows-cities-v2",
     type: "city",
@@ -1269,8 +1210,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["A sziget vidéki életmódját képviseli", "Érintetlen természet veszi körül", "Békés és nyugodt légkör"],
       ro: ["Reprezintă stilul de viață rural al insulei", "Înconjurat de natură virgină", "Atmosferă pașnică și liniștită"],
       en: ["Represents the rural lifestyle of the island", "Surrounded by unspoiled nature", "Peaceful and quiet atmosphere"]
-    }
-  },
+    }, image: "/poi-images/burrows-cities-v2.webp"},
   {
     id: "gaitors-cities-v2",
     type: "city",
@@ -1283,8 +1223,7 @@ export const poiExtraBahamasCitiesV2: POI[] = [
       hu: ["Hagyományos bahamai település", "Erős kötelékek a lakosok között", "A fő turisztikai területektől távol"],
       ro: ["Așezare tradițională bahamiană", "Legături puternice între rezidenți", "Departe de principalele zone turistice"],
       en: ["Traditional Bahamian settlement", "Strong bonds among residents", "Away from the main tourist areas"]
-    }
-  },
+    }, image: "/poi-images/gaitors-cities-v2.webp"},
   {
     id: "anderson-cities-v2",
     type: "city",

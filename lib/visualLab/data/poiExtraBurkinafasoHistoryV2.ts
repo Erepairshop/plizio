@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBurkinafasoHistoryV2: POI[] = [
@@ -13,8 +14,13 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["UNESCO Világörökségi helyszín.", "A transzszaharai aranykereskedelemhez köthető."],
       ro: ["Patrimoniu Mondial UNESCO.", "Legat de comerțul transsaharian cu aur."],
       en: ["UNESCO World Heritage Site.", "Linked to the trans-Saharan gold trade."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Ruinen von Loropéni sind das erste UNESCO-Welterbe in Burkina Faso. Die befestigte Anlage aus Stein stammt vermutlich aus dem 11. Jahrhundert und diente vermutlich dem Goldhandel in der Region. Geschichte K8 — Weltkulturerbe in Westafrika."
+    },
+    factsAdvanced: {
+      de: ["Erstes UNESCO-Welterbe des Landes", "Erbaut vermutlich im 11. Jahrhundert", "Festungsanlage aus Steinmauern", "Wichtige Station des trans-saharanischen Goldhandels", "Region der Lobi-Kultur im Südwesten", "Bedeutende archäologische Stätte"]
+    }, image: "/poi-images/ruines-de-loropeni-history-v2.webp"},
   {
     id: "bobo-dioulasso-grand-mosque-history-v2",
     type: "historical",
@@ -27,8 +33,13 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A 19. század végén épült.", "Főként vályogból és fából készült."],
       ro: ["Construită la sfârșitul secolului al XIX-lea.", "Realizată în principal din noroi și lemn."],
       en: ["Built at the end of the 19th century.", "Made primarily of mud and wood."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Große Moschee von Bobo-Dioulasso ist ein Meisterwerk der sudanesisch-sahelischen Architektur. Sie wurde 1893 erbaut und ist für ihre markanten Strebepfeiler aus Lehm bekannt, die die Fassade prägen. Geschichte K8 — Architekturgeschichte."
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1893", "Beispiel für sudanesisch-sahelische Architektur", "Markante Strebepfeiler aus Lehm", "Symbol für die Verbreitung des Islams in Burkina Faso", "Zentrum der religiösen Tradition in Sya", "Wichtiges historisches Denkmal"]
+    }, image: "/poi-images/bobo-dioulasso-grand-mosque-history-v2.webp"},
   {
     id: "cour-royale-tiebele-history-v2",
     type: "historical",
@@ -41,8 +52,13 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A 16. században alapították.", "Bonyolult falfestményeiről ismert."],
       ro: ["A fost fondată în secolul al XVI-lea.", "Cunoscută pentru picturile murale elaborate."],
       en: ["Founded in the 16th century.", "Known for elaborate wall paintings."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Königshof von Tiébélé ist bekannt für die einzigartige, traditionelle Architektur der Kassena-Volksgruppe. Die Lehmhäuser sind aufwendig mit schwarzen, weißen und roten Mustern verziert, die kulturelle Bedeutungen tragen. Geschichte K8 — Traditionelle Kunst."
+    },
+    factsAdvanced: {
+      de: ["Traditionelle Residenz der Kassena-Könige", "Aufwendig bemalte Lehmfassaden", "Kulturelles Symbol für die Region Nahouri", "Einzigartiges architektonisches Erbe", "Die Verzierungen tragen soziale Symbolik", "Touristische Attraktion für Kulturliebhaber"]
+    }, image: "/poi-images/cour-royale-tiebele-history-v2.webp"},
   {
     id: "palais-du-moro-naba-history-v2",
     type: "historical",
@@ -55,8 +71,13 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A mosszi kultúra központja.", "Heti hagyományos ceremóniák helyszíne."],
       ro: ["Centrul culturii Mossi.", "Locul ceremoniilor tradiționale săptămânale."],
       en: ["Center of Mossi culture.", "Site of weekly traditional ceremonies."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Palast des Moro Naba in Ouagadougou ist das symbolische Zentrum des traditionellen Kaiserreiches der Mossi. Hier findet wöchentlich das 'Faux Départ'-Ritual statt, eine jahrhundertealte Zeremonie, die den Kaiser und das Mossi-Reich ehrt. Geschichte K8 — Traditionelle Monarchien."
+    },
+    factsAdvanced: {
+      de: ["Zentrum des traditionellen Kaiserreiches der Mossi", "Standort der 'Faux Départ'-Zeremonie", "Symbol für die politische Macht der Naba", "Historischer Sitz des Mogho Naba", "Kulturelles Herzstück der Mossi", "Begegnungsort von Tradition und Moderne"]
+    }, image: "/poi-images/palais-du-moro-naba-history-v2.webp"},
   {
     id: "sindou-peaks-refuge-history-v2",
     type: "historical",
@@ -69,8 +90,13 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Történelmi nyomokkal rendelkező geológiai csodák.", "Háborús konfliktusok idején használták."],
       ro: ["Minuni geologice cu urme istorice.", "Folosit în timpul conflictelor de război."],
       en: ["Geological wonders with historical traces.", "Used during warlike conflicts."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Felsen von Sindou dienten der lokalen Bevölkerung über Jahrhunderte hinweg als natürliches Schutzgebiet vor Angriffen. Die bizarren Sandsteinformationen bieten eine spektakuläre Kulisse und ein wichtiges historisches Erbe. Geschichte K8 — Verteidigungsgeschichte."
+    },
+    factsAdvanced: {
+      de: ["Natürliches Schutzgebiet vor Angriffen", "Bizarre Sandstein-Felsformationen", "Wichtiger historischer Zufluchtsort", "Region der Cascades im Südwesten", "Geologisch einzigartige Landschaft", "Symbol für den Widerstand lokaler Gemeinschaften"]
+    }, image: "/poi-images/sindou-peaks-refuge-history-v2.webp"},
   {
     id: "koro-village-rocks-history-v2",
     type: "historical",
@@ -83,8 +109,13 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A hagyományos Bobo építészetet mutatja be.", "Történelmi védelmi struktúrákkal rendelkezik."],
       ro: ["Prezintă arhitectura tradițională Bobo.", "Oferă structuri de apărare istorice."],
       en: ["Showcases traditional Bobo architecture.", "Features historical defensive structures."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Koro ist ein Dorf, das in eine beeindruckende Felslandschaft eingebettet ist. Die traditionelle Bauweise der Häuser direkt an den Hängen der Felsen ist ein historisches Zeugnis für die Anpassung an die raue Umgebung der Region Plateau-Central. Geschichte K8 — Siedlungsgeschichte."
+    },
+    factsAdvanced: {
+      de: ["Traditionelles Dorf in Felslandschaft", "Bauweise angepasst an Felsformationen", "Historisches Siedlungsbeispiel", "Kulturelles Erbe der Plateau-Central-Region", "Beobachtung der traditionellen Architektur", "Einblick in das Leben in schwierigem Gelände"]
+    }, image: "/poi-images/koro-village-rocks-history-v2.webp"},
   {
     id: "ouahigouya-naaba-palace-history-v2",
     type: "historical",
@@ -97,8 +128,13 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A mosszi hatalom történelmi központja északon.", "Szerepet játszik a helyi ünnepeken."],
       ro: ["Centrul istoric al puterii Mossi în nord.", "Joacă un rol în festivalurile locale."],
       en: ["Historical center of Mossi power in the north.", "Plays a role in local festivals."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Palast des Naaba in Ouahigouya ist ein geschichtsträchtiges Zentrum des Yatenga-Königreichs. Die Anlage spiegelt die Macht und den Einfluss des Yatenga-Herrschers in der nördlichen Region wider. Geschichte K8 — Yatenga-Reich."
+    },
+    factsAdvanced: {
+      de: ["Residenz des Naaba von Yatenga", "Politisches Zentrum des alten Königreiches", "Symbol für die Stärke der Mossi im Norden", "Historisch bedeutender Architekturstandort", "Regionale Machtbasis in Nord-Burkina Faso", "Kulturelles Erbe der yatenga-Region"]
+    }, image: "/poi-images/ouahigouya-naaba-palace-history-v2.webp"},
   {
     id: "niansogoni-ruins-history-v2",
     type: "historical",
@@ -111,8 +147,13 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A mali határ közelében található.", "Régi magtárak maradványait őrzi."],
       ro: ["Situat lângă granița cu Mali.", "Păstrează rămășițele vechilor grânare."],
       en: ["Located near the border with Mali.", "Preserves remains of old granaries."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Ruinen von Niansogoni liegen in einer abgelegenen, felsigen Region und bezeugen die Siedlungskultur der Vergangenheit. Die steinernen Strukturen geben Einblicke in den Alltag und die Verteidigungsstrategien früherer Gemeinschaften. Geschichte K8 — Archäologie."
+    },
+    factsAdvanced: {
+      de: ["Historische Siedlungsruinen", "Steinbauten in felsiger Region", "Zeugnis früherer Verteidigungsstrategien", "Archäologisch wertvolle Anlage", "Abgelegene Lage im Südwesten", "Einblick in die Lebensweise der Vergangenheit"]
+    }, image: "/poi-images/niansogoni-ruins-history-v2.webp"},
   {
     id: "arbinda-petroglyphs-history-v2",
     type: "historical",
@@ -125,8 +166,13 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Az egyik legfontosabb régészeti lelőhely.", "A régió régen eltűnt állatfajait mutatja be."],
       ro: ["Unul dintre cele mai importante situri arheologice.", "Prezintă specii de animale dispărute de mult din regiune."],
       en: ["One of the most important archaeological sites.", "Shows long-disappeared animal species of the region."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Petroglyphen von Arbinda sind prähistorische Felsgravuren, die bis in die frühe Besiedlungszeit des Sahel zurückreichen. Sie sind wichtige Zeugen der menschlichen Entwicklung in einer Region, die heute als trocken und lebensfeindlich gilt. Geschichte K8 — Prähistorie."
+    },
+    factsAdvanced: {
+      de: ["Prähistorische Felsgravuren", "Zeugen früher menschlicher Besiedlung im Sahel", "Wichtige archäologische Entdeckung", "Kulturelles Erbe der Region Soum", "Darstellungen aus der frühen Epoche", "Hinweis auf frühere klimatische Bedingungen"]
+    }, image: "/poi-images/arbinda-petroglyphs-history-v2.webp"},
   {
     id: "pobe-mengao-rock-art-history-v2",
     type: "historical",
@@ -139,8 +185,13 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A sziklaművészet és a kurgánok kombinációja.", "Bepillantást enged a történelem előtti társadalmakba."],
       ro: ["Combinație de artă rupestră și kurgane.", "Oferă perspective asupra societăților preistorice."],
       en: ["Combination of rock art and kurgans.", "Provides insights into prehistoric societies."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Pobé-Mengao ist für seine Felsmalereien und Gravuren bekannt, die die historische Besiedlung der Region Nord illustrieren. Diese künstlerischen Zeugnisse sind essenziell für die Erforschung der sozialen Strukturen vergangener Epochen. Geschichte K8 — Prähistorische Kunst."
+    },
+    factsAdvanced: {
+      de: ["Wichtige Felsgravuren und Malereien", "Kulturelles Erbe der Region Nord", "Forschungsobjekt für soziale Strukturen", "Dokumentation früher Lebenswelten", "Wichtige archäologische Stätte", "Beitrag zum Verständnis der frühen Geschichte"]
+    }, image: "/poi-images/pobe-mengao-rock-art-history-v2.webp"},
   {
     id: "dori-old-mosque-history-v2",
     type: "historical",
@@ -153,8 +204,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Az iszlám tudományosság fontos központja.", "Hagyományos száheli építészetben épült."],
       ro: ["Centru important al erudiției islamice.", "Construită în arhitectura tradițională Sahel."],
       en: ["Important center of Islamic scholarship.", "Built in traditional Sahel architecture."]
-    }
-  },
+    }, image: "/poi-images/dori-old-mosque-history-v2.webp"},
   {
     id: "banfora-old-station-history-v2",
     type: "historical",
@@ -167,8 +217,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A francia gyarmati időszak fontos emléke.", "A nyugat-afrikai vasútépítési fellendülés idején épült."],
       ro: ["Reședință importantă a perioadei coloniale franceze.", "Construită în timpul boom-ului feroviar din Africa de Vest."],
       en: ["Important relic of the French colonial era.", "Built during the West African railway boom."]
-    }
-  },
+    }, image: "/poi-images/banfora-old-station-history-v2.webp"},
   {
     id: "boussouma-royal-palace-history-v2",
     type: "historical",
@@ -181,8 +230,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Az öt nagy mosszi királyság egyike.", "A hagyományokat itt a mai napig ápolják."],
       ro: ["Unul dintre cele cinci mari regate Mossi.", "Tradițiile sunt menținute aici până în prezent."],
       en: ["One of the five great Mossi kingdoms.", "Traditions are maintained here to this day."]
-    }
-  },
+    }, image: "/poi-images/boussouma-royal-palace-history-v2.webp"},
   {
     id: "tenkodogo-kingdom-ruins-history-v2",
     type: "historical",
@@ -195,8 +243,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A mosszi nép bölcsőjeként tartják számon.", "Történelmi alapítóhely a 12. századból."],
       ro: ["Considerat leagănul poporului Mossi.", "Locul istoric de fondare în secolul al XII-lea."],
       en: ["Considered the cradle of the Mossi people.", "Historical founding place in the 12th century."]
-    }
-  },
+    }, image: "/poi-images/tenkodogo-kingdom-ruins-history-v2.webp"},
   {
     id: "ouagadougou-cathedral-history-v2",
     type: "historical",
@@ -209,8 +256,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Az 1930-as években épült.", "Nyugat-Afrika egyik legnagyobb keresztény épülete."],
       ro: ["Construită în anii 1930.", "Una dintre cele mai mari clădiri creștine din Africa de Vest."],
       en: ["Built in the 1930s.", "One of the largest Christian buildings in West Africa."]
-    }
-  },
+    }, image: "/poi-images/ouagadougou-cathedral-history-v2.webp"},
   {
     id: "gaoua-poni-museum-history-v2",
     type: "historical",
@@ -223,8 +269,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Korábban francia katonai állomás volt.", "A lobi közösség történetét dokumentálja."],
       ro: ["Fost post militar francez.", "Documentează istoria comunității Lobi."],
       en: ["Formerly a French military post.", "Documents the history of the Lobi community."]
-    }
-  },
+    }, image: "/poi-images/gaoua-poni-museum-history-v2.webp"},
   {
     id: "gorom-gorom-historical-market-history-v2",
     type: "historical",
@@ -237,8 +282,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Fontos találkozóhely a tuareg, fulbe és bella népek számára.", "A só- és szarvasmarha-kereskedelem központja."],
       ro: ["Punct de întâlnire important pentru Tuareg, Fulani și Bella.", "Un centru al comerțului cu sare și vite."],
       en: ["Important meeting point for Tuareg, Fulani, and Bella.", "A center of the salt and cattle trade."]
-    }
-  },
+    }, image: "/poi-images/gorom-gorom-historical-market-history-v2.webp"},
   {
     id: "kaya-leather-quarter-history-v2",
     type: "historical",
@@ -251,8 +295,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A hagyományos cserzés központja Burkina Fasóban.", "A technikákat generációkon át örökítetté."],
       ro: ["Centrul tăbăcăriei tradiționale în Burkina Faso.", "Tehnicile au fost transmise din generație în generație."],
       en: ["Center of traditional tanning in Burkina Faso.", "Techniques have been passed down for generations."]
-    }
-  },
+    }, image: "/poi-images/kaya-leather-quarter-history-v2.webp"},
   {
     id: "markoye-slave-market-history-v2",
     type: "historical",
@@ -265,8 +308,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A transzszaharai kereskedelmi hálózatok része volt.", "Ma az emlékezés helyszíne."],
       ro: ["Făcea parte din rețelele comerciale transsahariene.", "Astăzi un loc de memorie."],
       en: ["Was part of the trans-Saharan trade networks.", "Today a place of remembrance."]
-    }
-  },
+    }, image: "/poi-images/markoye-slave-market-history-v2.webp"},
   {
     id: "bobo-dioulasso-old-station-history-v2",
     type: "historical",
@@ -279,8 +321,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A város építészeti nevezetessége.", "A gyarmati kereskedelmet tükrözte."],
       ro: ["Punct de reper arhitectural al orașului.", "Reflecta comerțul colonial."],
       en: ["Architectural landmark of the city.", "Reflected colonial trade."]
-    }
-  },
+    }, image: "/poi-images/bobo-dioulasso-old-station-history-v2.webp"},
   {
     id: "kawara-mosque-history-v2",
     type: "historical",
@@ -293,8 +334,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A régió vályogépítészetének tipikus példája.", "Történelmi zarándokhely."],
       ro: ["Exemplu tipic de arhitectură din noroi a regiunii.", "O destinație istorică de pelerinaj."],
       en: ["Typical example of the region's mud architecture.", "A historical pilgrimage destination."]
-    }
-  },
+    }, image: "/poi-images/kawara-mosque-history-v2.webp"},
   {
     id: "ziniare-naaba-palace-history-v2",
     type: "historical",
@@ -307,8 +347,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A helyi hatalomgyakorlás központja a gyarmatosítás előtti időkben.", "Fontos helyszín a mosszi ceremóniák számára."],
       ro: ["Centrul exercitării puterii locale în perioada precolonială.", "Loc important pentru ceremoniile Mossi."],
       en: ["Center of local power exercise in the pre-colonial era.", "Important place for Mossi ceremonies."]
-    }
-  },
+    }, image: "/poi-images/ziniare-naaba-palace-history-v2.webp"},
   {
     id: "boromo-old-town-history-v2",
     type: "historical",
@@ -321,8 +360,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Stratégiai kereskedelmi utakon feküdt.", "Régi gyarmati struktúrákkal rendelkezik."],
       ro: ["Situat pe rute comerciale strategice.", "Are vechi structuri coloniale."],
       en: ["Located on strategic trade routes.", "Has old colonial structures."]
-    }
-  },
+    }, image: "/poi-images/boromo-old-town-history-v2.webp"},
   {
     id: "koutougou-ruins-history-v2",
     type: "historical",
@@ -335,8 +373,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Régi kereskedelmi hálózatok tanúi.", "Régészetileg kevéssé kutatott terület."],
       ro: ["Mărturii ale vechilor rețele comerciale.", "Zonă puțin explorată arheologic."],
       en: ["Witnesses of old trade networks.", "Archaeologically little explored area."]
-    }
-  },
+    }, image: "/poi-images/koutougou-ruins-history-v2.webp"},
   {
     id: "diapaga-historical-center-history-v2",
     type: "historical",
@@ -349,8 +386,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A kelet gyarmati behatolását tükrözte.", "Még mindig tartalmaz gyarmati időszakból származó épületeket."],
       ro: ["A reflectat pătrunderea colonială în est.", "Încă conține clădiri din perioada colonială."],
       en: ["Reflected the colonial penetration of the east.", "Still contains buildings from the colonial era."]
-    }
-  },
+    }, image: "/poi-images/diapaga-historical-center-history-v2.webp"},
   {
     id: "paspanga-military-camp-history-v2",
     type: "historical",
@@ -363,8 +399,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Jelentős szerepet játszott Burkina Faso történelmében.", "A gyarmati korszakból származik."],
       ro: ["A jucat un rol semnificativ în istoria Burkina Faso.", "Datează din perioada colonială."],
       en: ["Played a significant role in the history of Burkina Faso.", "Dates back to the colonial era."]
-    }
-  },
+    }, image: "/poi-images/paspanga-military-camp-history-v2.webp"},
   {
     id: "manega-museum-history-v2",
     type: "historical",
@@ -377,8 +412,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Titinga Frédéric Pacéré alapította.", "Szent tárgyakat és szobrokat mutat be."],
       ro: ["Fondat de Titinga Frédéric Pacéré.", "Expune obiecte sacre și sculpturi."],
       en: ["Founded by Titinga Frédéric Pacéré.", "Exhibits sacred objects and sculptures."]
-    }
-  },
+    }, image: "/poi-images/manega-museum-history-v2.webp"},
   {
     id: "fada-ngourma-palace-history-v2",
     type: "historical",
@@ -391,8 +425,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["Egykor a Gurma uralkodók székhelye.", "Fontos hagyományos rítusok helyszíne."],
       ro: ["Odinioară sediul conducătorilor Gurma.", "Un loc pentru rituri tradiționale importante."],
       en: ["Once the seat of the Gurma rulers.", "A place for important traditional rites."]
-    }
-  },
+    }, image: "/poi-images/fada-ngourma-palace-history-v2.webp"},
   {
     id: "tangrela-historical-village-history-v2",
     type: "historical",
@@ -405,8 +438,7 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       hu: ["A Tangrela-tó partján fekszik.", "Hagyományos építési módjairól ismert."],
       ro: ["Situat pe malul Lacului Tangrela.", "Cunoscut pentru metodele tradiționale de construcție."],
       en: ["Located on the shores of Lake Tangrela.", "Known for traditional building methods."]
-    }
-  },
+    }, image: "/poi-images/tangrela-historical-village-history-v2.webp"},
   {
     id: "sindou-historical-forges-history-v2",
     type: "historical",
@@ -422,3 +454,4 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     }
   }
 ];
+

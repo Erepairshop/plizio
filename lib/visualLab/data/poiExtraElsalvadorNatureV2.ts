@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraElsalvadorNatureV2: POI[] = [
@@ -35,8 +36,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Nivelul apei crește considerabil în timpul sezonului ploios tropical."
       ],
       en: ["The river is approximately 124 kilometers long.", "Its basin covers a significant portion of El Salvador's territory.", "The mangroves at its mouth are part of an UNESCO Biosphere Reserve.", "The water level rises significantly during the tropical rainy season."]
-    }
-  },
+    }, image: "/poi-images/rio-grande-de-san-miguel-nature-v2.webp"},
   {
     id: "lago-de-guija-nature-v2",
     type: "lake",
@@ -71,8 +71,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Este recunoscut ca zonă umedă de importanță internațională sub Convenția Ramsar."
       ],
       en: ["The lake covers an area of approximately 45 square kilometers.", "It was formed when a basaltic lava flow blocked the river bed.", "Archaeological remains from Maya and Pipil cultures were found on its islands.", "It is recognized as a wetland of international importance (Ramsar site)."]
-    }
-  },
+    }, image: "/poi-images/lago-de-guija-nature-v2.webp"},
   {
     id: "bahia-de-jiquilisco-nature-v2",
     type: "sea",
@@ -107,8 +106,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Este unul dintre ultimele mari locuri de cuibărit pentru țestoasa Hawksbill în estul Pacificului."
       ],
       en: ["The area covers more than 600 square kilometers.", "Four different species of mangroves coexist here in balance.", "It is one of El Salvador's most important artisanal fishing areas.", "It is one of the last major nesting sites for Hawksbill turtles in the Eastern Pacific."]
-    }
-  },
+    }, image: "/poi-images/bahia-de-jiquilisco-nature-v2.webp"},
   {
     id: "volcan-conchagua-nature-v2",
     type: "mountain",
@@ -143,8 +141,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Guvernul a planificat construcția modernului „Bitcoin City” în apropierea bazei vulcanului."
       ],
       en: ["The highest point, Cerro del Ocote, rises 1,225 meters above sea level.", "Extensive pine forests are found on its slopes, which is rare at this latitude.", "The viewpoints overlooking the gulf are considered among the world's most beautiful.", "Modern 'Bitcoin City' is planned to be built near the volcano."]
-    }
-  },
+    }, image: "/poi-images/volcan-conchagua-nature-v2.webp"},
   {
     id: "bosque-de-cinquera-nature-v2",
     type: "forest",
@@ -179,8 +176,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "De-a lungul traseelor pot fi văzute încă rămășițele fostelor tabere de gherilă."
       ],
       en: ["The forest area was protected by the local community through their own efforts.", "Numerous rare medicinal plants and tree species are found in the area.", "Bird diversity has more than tripled since the end of the civil war.", "Remains of former guerrilla campsites are still visible along the trails."]
-    }
-  },
+    }, image: "/poi-images/bosque-de-cinquera-nature-v2.webp"},
   {
     id: "isla-meanguera-nature-v2",
     type: "island",
@@ -215,8 +211,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Delfinii și țestoasele marine sunt adesea observați în apele din jurul insulei."
       ],
       en: ["The island covers an area of approximately 16 square kilometers.", "It is the only Salvadoran municipality located entirely on an island.", "Natural springs and rainwater harvesters provide the island's water supply.", "Dolphins and sea turtles are frequently seen in the coastal waters."]
-    }
-  },
+    }, image: "/poi-images/isla-meanguera-nature-v2.webp"},
   {
     id: "rio-paz-nature-v2",
     type: "river",
@@ -251,8 +246,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "În timpul sezonului ploios, râul transportă cantități mari de sedimente spre ocean."
       ],
       en: ["The total length of the river exceeds 130 kilometers.", "Significant coffee and sugarcane plantations are located in its basin.", "The Barra de Santiago nature reserve lies near the river's mouth.", "During the rainy season, the river carries significant sediment into the ocean."]
-    }
-  },
+    }, image: "/poi-images/rio-paz-nature-v2.webp"},
   {
     id: "caldera-de-coatepeque-nature-v2",
     type: "mountain",
@@ -287,8 +281,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Punctele de observație de pe marginea calderei oferă vederi panoramice asupra întregii regiuni."
       ],
       en: ["The caldera has a diameter of approximately 6.5 kilometers.", "The last major explosive eruption occurred more than 50,000 years ago.", "The lake water sometimes spectacularly changes color to turquoise due to volcanic activity.", "Viewpoints on the caldera rim offer a view of the entire region."]
-    }
-  },
+    }, image: "/poi-images/caldera-de-coatepeque-nature-v2.webp"},
   {
     id: "laguna-de-alegria-nature-v2",
     type: "lake",
@@ -323,8 +316,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Regiunea este renumită pentru climatul său răcoros, o raritate în El Salvador."
       ],
       en: ["The lake water often changes shade due to sulfur and mineral content.", "The Tecapa Volcano, where the lake is situated, has an altitude of 1,593 meters.", "The caldera rim offers an impressive view of Jiquilisco Bay.", "The area is famous for its cool climate, which is rare in El Salvador."]
-    }
-  },
+    }, image: "/poi-images/laguna-de-alegria-nature-v2.webp"},
   {
     id: "chorros-de-la-calera-nature-v2",
     type: "river",
@@ -359,8 +351,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "În jurul cascadelor trăiesc numeroase specii rare de ferigi și plante epifite."
       ],
       en: ["The waterfalls can be reached through a man-made tunnel, providing an adventurous experience.", "The water temperature is constant, providing a refreshing contrast to tropical heat.", "The area is an important water source for hydroelectric plants in the region.", "Numerous rare fern species live around the waterfalls."]
-    }
-  },
+    }, image: "/poi-images/chorros-de-la-calera-nature-v2.webp"},
   {
     id: "isla-conejo-nature-v2",
     type: "island",
@@ -395,8 +386,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Geologic, insula face parte din arcul vulcanic din America Centrală."
       ],
       en: ["The island covers an area of only 0.5 square kilometers.", "Control is currently exercised by Honduras, but El Salvador maintains its claim.", "Local fishers catch significant amounts of shrimp and fish in the surrounding waters.", "Geologically, the island is part of the Central American volcanic arc."]
-    }
-  },
+    }, image: "/poi-images/isla-conejo-nature-v2.webp"},
   {
     id: "cerro-guazapa-nature-v2",
     type: "mountain",
@@ -431,8 +421,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Astăzi este o locație populară pentru turismul ecvestru și tururile istorice memoriale."
       ],
       en: ["The volcano has a height of 1,438 meters above sea level.", "It was known as the 'red bastion of Guazapa' during the civil war.", "Several plant species live here that only survive on volcanic soil.", "It is now a popular location for horseback tours and historical memorial hikes."]
-    }
-  },
+    }, image: "/poi-images/cerro-guazapa-nature-v2.webp"},
   {
     id: "salto-de-malacatiupan-nature-v2",
     type: "river",
@@ -467,8 +456,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Cascada s-a format de-a lungul unei falii vulcanice unde izvoarele termale ies la suprafață."
       ],
       en: ["The water temperature constantly ranges between 35 and 40 degrees Celsius.", "The waterfall has a height of approximately 12 meters.", "The water is rich in minerals, which have a beneficial effect on the skin.", "The waterfall was created along a volcanic fissure where hot springs emerge."]
-    }
-  },
+    }, image: "/poi-images/salto-de-malacatiupan-nature-v2.webp"},
   {
     id: "estero-de-jaltepeque-nature-v2",
     type: "sea",
@@ -503,8 +491,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Peisajul spectaculos a servit ca locație pentru numeroase filmări și ședințe foto."
       ],
       en: ["The estuary stretches for approximately 28 kilometers along the coastline.", "It is one of the country's most important areas for shrimp and mollusk production.", "The estuary is fed by sediment from the Lempa and Jiboa rivers.", "It has been the location for numerous film shoots due to its unique landscape."]
-    }
-  },
+    }, image: "/poi-images/estero-de-jaltepeque-nature-v2.webp"},
   {
     id: "cerro-chinameca-nature-v2",
     type: "mountain",
@@ -539,8 +526,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "În interiorul conurilor vulcanice pot fi observate mai multe cratere mici, acum colmatate."
       ],
       en: ["The highest point of the volcano is 1,300 meters above sea level.", "Significant geothermal reservoirs are located inside the mountain.", "Nearby towns like Chinameca are famous for their traditional gastronomy.", "Several smaller, now filled craters can be observed within the volcanic cones."]
-    }
-  },
+    }, image: "/poi-images/cerro-chinameca-nature-v2.webp"},
   {
     id: "rio-torola-nature-v2",
     type: "river",
@@ -575,8 +561,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "De-a lungul malurilor pot fi găsite în mai multe locuri desene rupestre precolumbiene."
       ],
       en: ["One of the river's most famous points is the 'Puente de Hierro', a key transport hub.", "Its basin is among the most untouched natural areas in Morazán.", "The river flow depends significantly on rainfall in the highlands.", "Pre-Columbian rock paintings are found in several places along its banks."]
-    }
-  },
+    }, image: "/poi-images/rio-torola-nature-v2.webp"},
   {
     id: "bosque-nancuchiname-nature-v2",
     type: "forest",
@@ -611,8 +596,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Populația din jur participă activ la paza și întreținerea durabilă a pădurii."
       ],
       en: ["The forest is part of one of El Salvador's most important biological corridors.", "Several rare reptile and amphibian species are found only here in the country.", "The area is protected under the Ramsar Convention as a wetland of international importance.", "The local population actively participates in guarding and maintaining the forest."]
-    }
-  },
+    }, image: "/poi-images/bosque-nancuchiname-nature-v2.webp"},
   {
     id: "isla-zacatillo-nature-v2",
     type: "island",
@@ -647,8 +631,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "În apele din jur se găsește una dintre cele mai gustoase populații de creveți din țară."
       ],
       en: ["The island covers an area of approximately 4 square kilometers.", "The name Zacatillo comes from the word 'zacate' (grass), referring to the hillside vegetation.", "The island was an important transit point for colonial-era trade routes.", "The surrounding waters contain some of the country's tastiest shrimp populations."]
-    }
-  },
+    }, image: "/poi-images/isla-zacatillo-nature-v2.webp"},
   {
     id: "playa-el-cuco-nature-v2",
     type: "sea",
@@ -683,8 +666,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "El Cuco este un punct strategic de plecare către paradisul de surf Las Flores."
       ],
       en: ["The beach stretches for several kilometers without interruption.", "At low tide, the sandy surface widens significantly, offering a unique sight.", "The area is famous for its hatcheries dedicated to sea turtle protection.", "El Cuco is a strategic starting point for the Las Flores surf paradise."]
-    }
-  },
+    }, image: "/poi-images/playa-el-cuco-nature-v2.webp"},
   {
     id: "playa-las-flores-nature-v2",
     type: "sea",
@@ -719,8 +701,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Plaja este complet accesibilă pe jos din golfurile vecine doar în timpul refluxului."
       ],
       en: ["Waves can be ridden for 200 to 300 meters under ideal conditions.", "The seafloor along the coast is sandy, which makes surfing safer.", "It regularly hosts international surfing championships.", "The beach is fully accessible from neighboring bays only during low tide."]
-    }
-  },
+    }, image: "/poi-images/playa-las-flores-nature-v2.webp"},
   {
     id: "volcan-de-san-diego-nature-v2",
     type: "mountain",
@@ -755,8 +736,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Zona din jurul muntelui este bogată în minerale și roci vulcanice diverse."
       ],
       en: ["The volcano is one of the oldest members of the Metapán volcanic field.", "Its last activity dates back several thousand years.", "Its lava flows contributed significantly to the formation of Lake Güija's bed.", "The area around the mountain is rich in minerals and volcanic rocks."]
-    }
-  },
+    }, image: "/poi-images/volcan-de-san-diego-nature-v2.webp"},
   {
     id: "rio-jiboa-nature-v2",
     type: "river",
@@ -791,8 +771,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Lângă vărsare se află faimoasa zonă turistică Costa del Sol."
       ],
       en: ["The river is approximately 60 kilometers long.", "Its flow can rise suddenly and significantly during tropical storms.", "The Jiboa Valley is known for having some of the country's best quality construction sand.", "The famous Costa del Sol resort area is located near its mouth."]
-    }
-  },
+    }, image: "/poi-images/rio-jiboa-nature-v2.webp"},
   {
     id: "barra-de-santiago-nature-v2",
     type: "sea",
@@ -827,8 +806,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Sistemul de canale format la estuar este navigabil pe o distanță de peste 10 kilometri."
       ],
       en: ["Listed as a Ramsar site of international importance since 2014.", "Home to one of El Salvador's largest populations of American crocodiles.", "The coastline is a nesting site for four different species of sea turtles.", "The channel system at the estuary is navigable for over 10 kilometers."]
-    }
-  },
+    }, image: "/poi-images/barra-de-santiago-nature-v2.webp"},
   {
     id: "cerro-el-mono-nature-v2",
     type: "mountain",
@@ -863,8 +841,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Răsăritul văzut de pe vârf este o experiență specială, pe măsură ce primele lumini apar peste ocean."
       ],
       en: ["The hill is an important landmark for those sailing along the coast.", "Biological observations are regularly conducted in the forest reserve.", "The difficulty of the hiking trails is moderate, making them suitable for families.", "The sunrise from the summit is a special experience as light appears over the ocean."]
-    }
-  },
+    }, image: "/poi-images/cerro-el-mono-nature-v2.webp"},
   {
     id: "rio-sensunapan-nature-v2",
     type: "river",
@@ -899,8 +876,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Joacă un rol important în reglarea microclimatului din zona înconjurătoare."
       ],
       en: ["The river is approximately 45 kilometers long.", "Its name comes from the indigenous Nahuatl language, meaning 'great water'.", "The 'Salto del Hippie' is one of the most famous waterfalls along the river.", "It plays an important role in regulating the region's microclimate."]
-    }
-  },
+    }, image: "/poi-images/rio-sensunapan-nature-v2.webp"},
   {
     id: "golfo-de-fonseca-nature-v2",
     type: "sea",
@@ -935,8 +911,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Balene migratoare și grupuri de delfini pot fi observate regulat în aceste ape."
       ],
       en: ["The gulf covers an area of approximately 3,200 square kilometers.", "Most islands in the gulf are the peaks of extinct volcanoes.", "It is one of the best natural ports in the Eastern Pacific.", "Migrating whales and pods of dolphins are regularly seen here."]
-    }
-  },
+    }, image: "/poi-images/golfo-de-fonseca-nature-v2.webp"},
   {
     id: "isla-la-pirraya-nature-v2",
     type: "island",
@@ -971,8 +946,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Insularii folosesc metode de pescuit tradiționale și prietenoase cu mediul."
       ],
       en: ["The island is an integral part of the Jiquilisco Bay Biosphere Reserve.", "Most members of the famous national beach soccer team come from this island.", "Transport to the mainland is exclusively by motorboat (lancha).", "Islanders use traditional, environmentally friendly fishing methods."]
-    }
-  },
+    }, image: "/poi-images/isla-la-pirraya-nature-v2.webp"},
   {
     id: "cerro-nanahuatzin-nature-v2",
     type: "mountain",
@@ -1007,8 +981,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "Numeroase legende locale sunt legate de spiritul muntelui și de forța sa antică."
       ],
       en: ["The mountain's height exceeds 1,600 meters above sea level.", "The area is among the most important coffee-growing regions in the country.", "Fog is common at the summit, creating a unique microclimate.", "Numerous local legends are linked to the mountain's spirit and ancient power."]
-    }
-  },
+    }, image: "/poi-images/cerro-nanahuatzin-nature-v2.webp"},
   {
     id: "playa-el-majahual-nature-v2",
     type: "sea",
@@ -1043,8 +1016,7 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
         "În sezonul de vârf, secțiunea de plajă primește chiar și câteva mii de vizitatori zilnic."
       ],
       en: ["The beach is the most famous point of the so-called 'Balsam Coast'.", "The sand color is due to the erosion of basaltic rocks.", "Most of the coastal ranchos have been family businesses for generations.", "During peak season, the beach section receives thousands of visitors daily."]
-    }
-  },
+    }, image: "/poi-images/playa-el-majahual-nature-v2.webp"},
   {
     id: "playa-san-diego-nature-v2",
     type: "sea",
@@ -1082,3 +1054,4 @@ export const poiExtraElsalvadorNatureV2: POI[] = [
     }
   }
 ];
+

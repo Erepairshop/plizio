@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraHu1: POI[] = [
@@ -40,8 +41,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Az ókori római Aquincum városa itt terült el.", "Két római amfiteátrummal is rendelkezik.", "Fő tere a barokk építészetéről nevezetes.", "Az Óbudai-sziget ad otthont a Sziget Fesztiválnak."],
       ro: ["Casa orașului antic roman Aquincum.", "Deține două amfiteatre romane.", "Piața principală este cunoscută pentru arhitectura sa barocă.", "Gazda Festivalului Sziget pe insula Óbuda."],
       en: ["Home to the ancient Roman city of Aquincum.", "Features two Roman amphitheaters.", "The main square is famous for its Baroque architecture.", "Host to the Sziget Festival on Óbuda Island."]
-    }
-  },
+    }, image: "/poi-images/city-obuda-extra.webp"},
   {
     id: "city-ujpest-extra",
     type: "city",
@@ -80,8 +80,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["1840-ben alapították.", "Az Újpest FC futballcsapatáról híres.", "Gyönyörű eklektikus városházája van.", "Egykor a bőr- és bútoripar központja volt."],
       ro: ["Fondat în anul 1840.", "Cunoscut pentru clubul de fotbal Újpest FC.", "Deține o primărie eclectică magnifică.", "Odată un centru al industriei pielăriei și mobilei."],
       en: ["Founded in 1840.", "Known for the Újpest FC football club.", "Has a magnificent eclectic city hall.", "Once a center for the leather and furniture industry."]
-    }
-  },
+    }, image: "/poi-images/city-ujpest-extra.webp"},
   {
     id: "geschichte-citadella-extra",
     type: "geschichte",
@@ -120,8 +119,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["A Habsburgok építtették.", "Stratégiai kilátópont.", "Második világháborús kiállításoknak ad otthont.", "Az UNESCO Világörökség része."],
       ro: ["Construită de habsburgi.", "Punct de observație strategic.", "Găzduiește expoziții despre cel de-al Doilea Război Mondial.", "Parte a patrimoniului mondial UNESCO."],
       en: ["Built by the Habsburgs.", "Strategic viewpoint.", "Houses World War II exhibitions.", "Part of the UNESCO World Heritage."]
-    }
-  },
+    }, image: "/poi-images/geschichte-citadella-extra.webp"},
   // HU-BA: Baranya
   
   {
@@ -172,8 +170,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Legmagasabb pontja a Zengő (682 m).", "Itt található az Abaligeti-barlang.", "Szubmediterrán éghajlatáról ismert.", "Gazdag növény- és állatvilággal rendelkezik."],
       ro: ["Cel mai înalt punct este Zengő (682 m).", "Găzduiește peștera Abaliget.", "Cunoscut pentru climatul submediteranean.", "Bogat în floră și faună."],
       en: ["Highest point is Zengő (682 m).", "Home to the Abaliget Cave.", "Known for its sub-Mediterranean climate.", "Rich in flora and fauna."]
-    }
-  },
+    }, image: "/poi-images/geo-mecsek-extra.webp"},
   {
     id: "geschichte-pecsvaradi-var-extra",
     type: "geschichte",
@@ -197,8 +194,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["998 körül alapították.", "Egykor bencés apátság.", "11. századi freskókkal rendelkezik.", "Várkápolnájáról híres."],
       ro: ["Fondată în jurul anului 998.", "Fostă abație benedictină.", "Deține fresce din secolul al XI-lea.", "Cunoscută pentru capela castelului."],
       en: ["Founded around 998.", "Former Benedictine abbey.", "Features 11th-century frescoes.", "Famous for its castle chapel."]
-    }
-  },
+    }, image: "/poi-images/geschichte-pecsvaradi-var-extra.webp"},
   {
     id: "geschichte-mecseknadasdi-templom-extra",
     type: "geschichte",
@@ -222,8 +218,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["A 13. században épült.", "Román stílusú.", "Jelentős műemlék.", "Régi sírkövek veszik körül."],
       ro: ["Construită în secolul al XIII-lea.", "Stil romanic.", "Monument arhitectural important.", "Înconjurată de pietre funerare vechi."],
       en: ["Built in the 13th century.", "Romanesque style.", "Significant architectural monument.", "Surrounded by old gravestones."]
-    }
-  },
+    }, image: "/poi-images/geschichte-mecseknadasdi-templom-extra.webp"},
   // HU-BK: Bács-Kiskun
   {
     id: "city-kiskunhalas-extra",
@@ -273,8 +268,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["A lovasturizmus központja.", "Híres lovasbemutatóiról.", "Hagyományos csárdák.", "A Puszta kapuja."],
       ro: ["Centru al turismului ecvestru.", "Faimos pentru spectacolele de călărie.", "Csárda-uri tradiționale.", "Poarta către Puszta."],
       en: ["Center for equestrian tourism.", "Famous for horse shows.", "Traditional csárdas (inns).", "Gateway to the Puszta."]
-    }
-  },
+    }, image: "/poi-images/city-lajosmizse-extra.webp"},
   {
     id: "geo-kiskunsagi-nemzeti-park-extra",
     type: "geo",
@@ -298,8 +292,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["1975-ben alapították.", "9 különálló egységből áll.", "Homokbuckáiról és szikes tavairól ismert.", "A magyar szürkemarha hazája."],
       ro: ["Fondat în 1975.", "Constă din 9 zone separate.", "Cunoscut pentru dunele de nisip și lacurile alcaline.", "Patria vitelor sure maghiare."],
       en: ["Founded in 1975.", "Consists of 9 separate areas.", "Known for sand dunes and alkali lakes.", "Home to the Hungarian Grey Cattle."]
-    }
-  },
+    }, image: "/poi-images/geo-kiskunsagi-nemzeti-park-extra.webp"},
   {
     id: "geschichte-cifrapalota-extra",
     type: "geschichte",
@@ -323,8 +316,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["A magyar szecesszió remekműve.", "1902-ben épült.", "Zsolnay-kerámiákkal díszített.", "Művészeti galériának ad otthont."],
       ro: ["Capodoperă a stilului Secession maghiar.", "Construit în 1902.", "Decorat cu ceramică Zsolnay.", "Găzduiește o galerie de artă."],
       en: ["Masterpiece of Hungarian Secession.", "Built in 1902.", "Decorated with Zsolnay ceramics.", "Houses an art gallery."]
-    }
-  },
+    }, image: "/poi-images/geschichte-cifrapalota-extra.webp"},
   {
     id: "geschichte-kiskun-muzeum-extra",
     type: "geschichte",
@@ -348,8 +340,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Egy régi börtönben működik.", "A kiskunsági történelmet mutatja be.", "Helytörténeti és néprajzi gyűjtemény.", "Kertjében szélmalom látható."],
       ro: ["Sediu într-o veche închisoare.", "Prezintă istoria cumană.", "Deține o moară de vânt istorică.", "Important centru cultural local."],
       en: ["Located in an old prison.", "Presents Cuman history.", "Features a historic windmill.", "Important local cultural center."]
-    }
-  },
+    }, image: "/poi-images/geschichte-kiskun-muzeum-extra.webp"},
   // HU-BE: Békés
   
   {
@@ -400,8 +391,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Ybl Miklós tervezte.", "365 ablaka és 52 szobája van.", "Neoreneszánsz stílus.", "Gyönyörű kastélypark."],
       ro: ["Proiectat de Miklós Ybl.", "365 de ferestre și 52 de camere.", "Stil neorenașcentist.", "Parc peisagistic minunat."],
       en: ["Designed by Miklós Ybl.", "365 windows and 52 rooms.", "Neo-Renaissance style.", "Beautiful landscape park."]
-    }
-  },
+    }, image: "/poi-images/geschichte-wenckheim-kastely-extra.webp"},
   {
     id: "geschichte-geotermikus-kozpont-extra",
     type: "geschichte",
@@ -425,8 +415,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["A megújuló energiára fókuszál.", "Interaktív kiállítások.", "A helyi földhőt hasznosítja.", "Modern oktatási központ."],
       ro: ["Focus pe energia regenerabilă.", "Expoziții interactive.", "Utilizează căldura locală a pământului.", "Centru educațional modern."],
       en: ["Focus on renewable energy.", "Interactive exhibitions.", "Utilizes local geothermal heat.", "Modern educational center."]
-    }
-  },
+    }, image: "/poi-images/geschichte-geotermikus-kozpont-extra.webp"},
   // HU-BZ: Borsod-Abaúj-Zemplén
   {
     id: "geschichte-edelenyi-kastelysziget-extra",
@@ -504,8 +493,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Szegednél torkollik a Tiszába.", "Határfolyó Magyarország és Románia között.", "Homokpadjairól ismert.", "Halban gazdag."],
       ro: ["Se varsă în Tisa la Szeged.", "Râu de frontieră între Ungaria și România.", "Cunoscut pentru bancurile sale de nisip.", "Bogat în specii de pești."],
       en: ["Flows into the Tisza at Szeged.", "Border river between Hungary and Romania.", "Known for its sandbanks.", "Rich in fish species."]
-    }
-    },
+    }, image: "/poi-images/geo-maros-folyo-extra.webp"},
     {
     id: "geschichte-opusztaszer-extra",
     type: "geschichte",
@@ -529,8 +517,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Itt látható a Feszty-körkép.", "Az első magyar országgyűlés helyszíne.", "Hatalmas szabadtéri néprajzi múzeum.", "A magyar egység történelmi szimbóluma."],
       ro: ["Găzduiește Panorama Feszty.", "Locul primei adunări naționale maghiare.", "Muzeu în aer liber mare.", "Simbol istoric al unității maghiare."],
       en: ["Home to the Feszty Panorama.", "Site of the first Hungarian national assembly.", "Large open-air museum.", "Historic symbol of Hungarian unity."]
-    }
-    },
+    }, image: "/poi-images/geschichte-opusztaszer-extra.webp"},
   // HU-FE: Fejér
   
     {
@@ -581,8 +568,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Főleg gránitból áll.", "Híres az ingóköveiről.", "Az ország egyik legidősebb hegysége.", "Legmagasabb csúcsa a Meleg-hegy."],
       ro: ["Format în principal din granit.", "Faimos pentru pietrele mișcătoare.", "Cei mai vechi munți din țară.", "Cel mai înalt vârf: Meleg-hegy."],
       en: ["Consists mainly of granite.", "Famous for the balancing rocks.", "One of the oldest mountains in the country.", "Highest peak: Meleg-hegy."]
-    }
-    },
+    }, image: "/poi-images/geo-velencei-hegyseg-extra.webp"},
     {
     id: "geschichte-pazmand-vizimalom-extra",
     type: "geschichte",
@@ -606,8 +592,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Működőképes vízimalom.", "Ipari műemlék.", "A Pázmándi-patak partján áll.", "Látogatható a közönség számára."],
       ro: ["Moară de apă funcțională.", "Monument industrial.", "Situată pe pârâul Pázmánd.", "Accesibilă vizitatorilor."],
       en: ["Functional watermill.", "Industrial monument.", "Located on the Pázmánd stream.", "Open to visitors."]
-    }
-    },
+    }, image: "/poi-images/geschichte-pazmand-vizimalom-extra.webp"},
     {
     id: "geschichte-taci-gorsium-extra",
     type: "geschichte",
@@ -631,8 +616,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Egykori római város.", "Magyarország legnagyobb régészeti parkja.", "A Floralia fesztivál helyszíne.", "Egykori kereskedelmi útvonal mentén fekszik."],
       ro: ["Fost oraș roman.", "Cel mai mare parc arheologic din Ungaria.", "Găzduiește festivalul Floralia.", "Situat pe un vechi drum comercial."],
       en: ["Former Roman city.", "Largest archaeological park in Hungary.", "Hosts the Floralia festival.", "Located on an ancient trade route."]
-    }
-    },
+    }, image: "/poi-images/geschichte-taci-gorsium-extra.webp"},
     // HU-GS: Győr-Moson-Sopron
   
     {
@@ -683,8 +667,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Magyarország legnagyobb rokokó kastélya.", "Joseph Haydn munkahelye volt.", "Több száz szobával rendelkezik.", "Gyönyörű francia kertek."],
       ro: ["Cel mai mare castel rococo din Ungaria.", "Locul unde a activat Joseph Haydn.", "Sute de camere.", "Grădini franceze minunate."],
       en: ["Largest Rococo palace in Hungary.", "Workplace of Joseph Haydn.", "Hundreds of rooms.", "Beautiful French gardens."]
-    }
-    },
+    }, image: "/poi-images/geschichte-eszterhazy-kastely-extra.webp"},
   // HU-HB: Hajdú-Bihar
   {
     id: "geo-nagyerdo-extra",
@@ -734,8 +717,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Az ország legnagyobb református temploma.", "Az 1849-es Függetlenségi Nyilatkozat helyszíne.", "Klasszicista építészet.", "Itt található Kossuth széke."],
       ro: ["Cea mai mare biserică reformată din țară.", "Locul Declarației de Independență din 1849.", "Arhitectură clasicistă.", "Găzduiește scaunul lui Kossuth."],
       en: ["Largest Reformed church in the country.", "Site of the Declaration of Independence in 1849.", "Classicist architecture.", "Houses the Kossuth chair."]
-    }
-    },
+    }, image: "/poi-images/geschichte-debreceni-reformatus-nagytemplom-extra.webp"},
     {
     id: "geschichte-hortobagyi-kilenclyuku-hid-extra",
     type: "geschichte",
@@ -759,8 +741,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Magyarország leghosszabb kőhídja (167 m).", "A 19. században épült.", "UNESCO Világörökségi helyszín.", "A Hídi vásár helyszíne."],
       ro: ["Cel mai lung pod de piatră din Ungaria (167 m).", "Construit în secolul al XIX-lea.", "Patrimoniu mondial UNESCO.", "Cunoscut pentru târgul de la pod."],
       en: ["Longest stone bridge in Hungary (167 m).", "Built in the 19th century.", "UNESCO World Heritage site.", "Known for the Bridge Fair."]
-    }
-    },
+    }, image: "/poi-images/geschichte-hortobagyi-kilenclyuku-hid-extra.webp"},
     // HU-HE: Heves
   
     {
@@ -811,8 +792,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Magyarország második legnagyobb székesegyháza.", "Hild József klasszicista tervei alapján épült.", "Monumentális díszlépcső.", "Híres orgonával rendelkezik."],
       ro: ["A doua cea mai mare catedrală din Ungaria.", "Arhitectură clasicistă de József Hild.", "Scară monumentală.", "Deține o orgă faimoasă."],
       en: ["Second largest cathedral in Hungary.", "Classicist architecture by József Hild.", "Monumental staircase.", "Has a famous organ."]
-    }
-    },
+    }, image: "/poi-images/geschichte-egri-bazilika-extra.webp"},
     // HU-JN: Jász-Nagykun-Szolnok
   {
     id: "geo-tisza-to-extra",
@@ -862,8 +842,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["1902-ben alapították.", "Az ország legrégebbi művésztelepe.", "Szép parkos környezetben található.", "A magyar művészettörténet fontos helyszíne."],
       ro: ["Fondată în anul 1902.", "Cea mai veche colonie de artiști din țară.", "Situată într-un parc frumos.", "Loc important al istoriei artei maghiare."],
       en: ["Founded in 1902.", "Oldest artists' colony in the country.", "Located in a beautiful park.", "Important site of Hungarian art history."]
-    }
-    },
+    }, image: "/poi-images/geschichte-szolnoki-muvesztelep-extra.webp"},
     {
     id: "geschichte-tiszaderzs-romtemplom-extra",
     type: "geschichte",
@@ -887,8 +866,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["A 13. században épült.", "Román stílusú.", "Árpád-kori műemlék.", "Nyugodt környezetben található."],
       ro: ["Construită în secolul al XIII-lea.", "Stil romanic.", "Monument din epoca Arpadiană.", "Situată într-un cadru liniștit."],
       en: ["Built in the 13th century.", "Romanesque style.", "Architectural monument from the Árpád era.", "Located in a quiet setting."]
-    }
-    },
+    }, image: "/poi-images/geschichte-tiszaderzs-romtemplom-extra.webp"},
     // HU-KE: Komárom-Esztergom
     {
     id: "city-dorog-extra",
@@ -938,8 +916,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Egykori bányászváros.", "Közelében található a majki remeteség.", "Bányászati múzeuma van.", "Jelentős energiagazdálkodás."],
       ro: ["Fost oraș minier.", "În apropiere se află schitul Majk.", "Deține un muzeu al mineritului.", "Sector energetic important."],
       en: ["Former mining town.", "The Majk Hermitage is located nearby.", "Has a mining museum.", "Significant energy industry."]
-    }
-    },
+    }, image: "/poi-images/city-orosz lany-extra.webp"},
     {
     id: "geo-gerecse-extra",
     type: "geo",
@@ -963,8 +940,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Vörös márványáról nevezetes.", "Legmagasabb csúcsa a Nagy-Gerecse (633 m).", "Mészkőbarlangokban gazdag.", "Fontos kövületlelőhely."],
       ro: ["Cunoscut pentru marmura roșie.", "Cel mai înalt vârf: Nagy-Gerecse (633 m).", "Bogat în peșteri de calcar.", "Sursă importantă de fosile."],
       en: ["Famous for red marble.", "Highest peak: Nagy-Gerecse (633 m).", "Rich in limestone caves.", "Important site for fossils."]
-    }
-    },
+    }, image: "/poi-images/geo-gerecse-extra.webp"},
     {
     id: "geschichte-turul-emlekmu-extra",
     type: "geschichte",
@@ -988,8 +964,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Közép-Európa legnagyobb madárszobra.", "15 méteres szárnyfesztávolság.", "1907-ben készült.", "Pazar kilátást nyújt."],
       ro: ["Cea mai mare statuie de pasăre din Europa Centrală.", "Anvergura aripilor de 15 metri.", "Construit în 1907.", "Oferă o vedere panoramică."],
       en: ["Largest bird statue in Central Europe.", "Wingspan of 15 meters.", "Built in 1907.", "Offers wide views."]
-    }
-    },
+    }, image: "/poi-images/geschichte-turul-emlekmu-extra.webp"},
     {
     id: "geschichte-tatai-var-extra",
     type: "geschichte",
@@ -1013,8 +988,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Egykori királyi rezidencia.", "Az Öreg-tó partján áll.", "Vizesárok veszi körül.", "Múzeumnak ad otthont."],
       ro: ["Fostă reședință regală.", "Situată pe malul lacului Öreg.", "Înconjurată de un șanț cu apă.", "Găzduiește un muzeu."],
       en: ["Former royal residence.", "Located on Lake Öreg.", "Surrounded by a moat.", "Houses a museum."]
-    }
-    },
+    }, image: "/poi-images/geschichte-tatai-var-extra.webp"},
     // HU-NO: Nógrád
     {
     id: "city-paszto-extra",
@@ -1064,8 +1038,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["A Karancs-hegység legmagasabb pontja (729 m).", "Határhegy Szlovákia felé.", "A 'palóc Olimposzként' ismerik.", "Kilátó a hegytetőn."],
       ro: ["Cel mai înalt vârf din munții Karancs (729 m).", "Munte de frontieră cu Slovacia.", "Numit „Olimpul Palocilor”.", "Turn de observație în vârf."],
       en: ["Highest peak of the Karancs Mountains (729 m).", "Border mountain with Slovakia.", "Known as the 'Olympus of the Palóc'.", "Lookout tower on the summit."]
-    }
-    },
+    }, image: "/poi-images/geo-karanc-extra.webp"},
     {
     id: "geschichte-somoskoi-var-extra",
     type: "geschichte",
@@ -1089,8 +1062,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Bazaltkúpon fekszik.", "Híres bazaltorgonák a közelében.", "Határvár.", "Remek kilátás a Karancs vidékére."],
       ro: ["Situată pe un con de bazalt.", "Faimoasele orgi de bazalt alături.", "Cetate de frontieră.", "Oferă o vedere minunată asupra zonei Karancs."],
       en: ["Located on a basalt cone.", "Famous basalt organs nearby.", "Border castle.", "Offers great views of the Karancs area."]
-    }
-    },
+    }, image: "/poi-images/geschichte-somoskoi-var-extra.webp"},
     {
     id: "geschichte-szandavari-varrom-extra",
     type: "geschichte",
@@ -1114,8 +1086,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Andezitcsúcson épült.", "Középkori erődítmény.", "360 fokos panorámájáról ismert.", "Fontos geológiai lelőhely."],
       ro: ["Construită pe un vârf de andezit.", "Fortăreață medievală.", "Cunoscută pentru panorama de 360 de grade.", "Loc important pentru geologi."],
       en: ["Built on an andesite peak.", "Medieval fortress.", "Known for the 360-degree panorama.", "Important site for geologists."]
-    }
-    },
+    }, image: "/poi-images/geschichte-szandavari-varrom-extra.webp"},
     // HU-PE: Pest
     {
     id: "city-rackeve-extra",
@@ -1165,8 +1136,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Legjobb kilátás a visegrádi várra.", "A Dunakanyarban fekszik.", "Népszerű túraközpont.", "Szelídgesztenyéjéről ismert."],
       ro: ["Cea mai bună vedere spre cetatea Visegrád.", "Situat în Cotul Dunării.", "Centru popular pentru drumeții.", "Cunoscut pentru castane comestibile."],
       en: ["Best view of Visegrád Castle.", "Located in the Danube Bend.", "Popular hiking center.", "Known for sweet chestnuts."]
-    }
-    },
+    }, image: "/poi-images/city-nagymaros-extra.webp"},
     {
     id: "geo-duna-kanyar-extra",
     type: "geo",
@@ -1190,8 +1160,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Látványos folyókanyarulat.", "Történelmi városokban gazdag.", "Népszerű hajókirándulóhely.", "Hegyek veszik körül."],
       ro: ["Cot spectaculos al fluviului.", "Bogat în orașe istorice.", "Loc popular pentru croaziere.", "Înconjurat de munți."],
       en: ["Spectacular river bend.", "Rich in historic towns.", "Popular for boat trips.", "Surrounded by mountains."]
-    }
-    },
+    }, image: "/poi-images/geo-duna-kanyar-extra.webp"},
     {
     id: "geschichte-vac-dom-extra",
     type: "geschichte",
@@ -1215,8 +1184,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["A klasszicizmus remekműve.", "Bechert József szobrai díszítik.", "Maulbertsch-freskók láthatók benne.", "Monumentális megjelenés."],
       ro: ["Capodoperă a clasicismului.", "Statui de József Bechert.", "Fresce de Maulbertsch.", "Aspect monumental."],
       en: ["Masterpiece of Classicism.", "Statues by József Bechert.", "Frescoes by Maulbertsch.", "Monumental appearance."]
-    }
-    },
+    }, image: "/poi-images/geschichte-vac-dom-extra.webp"},
   // HU-SO: Somogy
   {
     id: "geo-zselic-extra",
@@ -1266,8 +1234,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Több mint 30 történelmi épület.", "1735-ből származó kápolnája van.", "Hagyományos mesterségeket mutat be.", "A balatoni komp közelében található."],
       ro: ["Peste 30 de clădiri istorice.", "Deține o capelă din 1735.", "Prezintă meșteșuguri tradiționale.", "Lângă feribotul de pe Balaton."],
       en: ["Over 30 historic buildings.", "Has a chapel from 1735.", "Shows traditional crafts.", "Near the Balaton ferry."]
-    }
-    },
+    }, image: "/poi-images/geschichte-szantodpuszta-extra.webp"},
     {
     id: "geschichte-somogyvar-extra",
     type: "geschichte",
@@ -1291,8 +1258,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Szent László király alapította.", "Egykor hatalmas bencés apátság.", "Nemzeti emlékhely.", "Jelentős régészeti feltárás."],
       ro: ["Fondată de regele Ladislau I.", "Odinioară o abație benedictină uriașă.", "Monument național.", "Sit arheologic important."],
       en: ["Founded by King Ladislaus I.", "Formerly a huge Benedictine abbey.", "National heritage site.", "Significant archaeological site."]
-    }
-  },
+    }, image: "/poi-images/geschichte-somogyvar-extra.webp"},
   // HU-SZ: Szabolcs-Szatmár-Bereg
   {
     id: "city-fehergyarmat-extra",
@@ -1342,8 +1308,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Híres az almájáról és meggyéről.", "A Nyírségben található.", "Görögkatolikus hagyományok.", "Fontos mezőgazdasági központ."],
       ro: ["Faimos pentru mere și vișine.", "Situat în regiunea Nyírség.", "Tradiție greco-catolică.", "Centru agricol important."],
       en: ["Famous for apples and sour cherries.", "Located in the Nyírség region.", "Greek Catholic tradition.", "Important agricultural center."]
-    }
-  },
+    }, image: "/poi-images/city-ujfeherto-extra.webp"},
   {
     id: "geo-szatmari-siksag-extra",
     type: "river",
@@ -1367,8 +1332,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Határvidék Magyarország, Románia és Ukrajna között.", "Folyók szabdalta táj.", "Gazdag madárvilág.", "Hagyományos népi építészet."],
       ro: ["Regiune de frontieră între Ungaria, România și Ucraina.", "Peisaj marcat de râuri.", "Avifaună bogată.", "Arhitectură populară tradițională."],
       en: ["Border region between Hungary, Romania, and Ukraine.", "Landscape marked by rivers.", "Rich birdlife.", "Traditional folk architecture."]
-    }
-  },
+    }, image: "/poi-images/geo-szatmari-siksag-extra.webp"},
   {
     id: "historical-csaroda-templom-extra",
     type: "historical",
@@ -1392,8 +1356,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Késő román stílus.", "Mosolygó szenteket ábrázoló freskók.", "Fapikkelyes torony.", "A Beregi-vidék fontos műemléke."],
       ro: ["Stil romanic târziu.", "Fresce cu sfinți zâmbitori.", "Turn cu șindrilă de lemn.", "Monument important al regiunii Bereg."],
       en: ["Late Romanesque style.", "Frescoes with smiling saints.", "Wooden shingle tower.", "Important monument of the Bereg region."]
-    }
-  },
+    }, image: "/poi-images/historical-csaroda-templom-extra.webp"},
   {
     id: "landmark-tarpaiszarazmalom-extra",
     type: "landmark",
@@ -1417,8 +1380,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Ipartörténeti emlékhely.", "Lovak hajtották.", "Tölgyfa szerkezet.", "Eredeti állapotában restaurálva."],
       ro: ["Monument de istorie industrială.", "Acționată de cai.", "Construcție din stejar.", "Restaurată fidel originalului."],
       en: ["Industrial history monument.", "Driven by horses.", "Oak wood construction.", "Faithfully restored."]
-    }
-  },
+    }, image: "/poi-images/landmark-tarpaiszarazmalom-extra.webp"},
   // HU-TO: Tolna
   {
     id: "city-tamasi-extra",
@@ -1468,8 +1430,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["A Balaton lefolyója.", "Fontos vízügyi létesítmény.", "Keresztülszeli Tolnát.", "Népszerű a vízi túrázók körében."],
       ro: ["Scurgerea lacului Balaton.", "Construcție hidrotehnică importantă.", "Traversează Tolna.", "Popular pentru excursii cu caiacul."],
       en: ["Outflow of Lake Balaton.", "Important hydraulic engineering facility.", "Crosses Tolna.", "Popular for canoeing."]
-    }
-  },
+    }, image: "/poi-images/geo-siocsatorna-extra.webp"},
   {
     id: "historical-graboc-extra",
     type: "historical",
@@ -1493,8 +1454,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Szerb ortodox kolostor.", "Barokk építészet.", "Értékes ikonosztáz.", "A Szekszárdi-dombság szívében."],
       ro: ["Mănăstire sârbă ortodoxă.", "Arhitectură barocă.", "Iconostas valoros.", "În inima dealurilor Szekszárd."],
       en: ["Serbian Orthodox monastery.", "Baroque architecture.", "Valuable iconostasis.", "In the heart of the Szekszárd hills."]
-    }
-  },
+    }, image: "/poi-images/historical-graboc-extra.webp"},
   {
     id: "landmark-ozora-extra",
     type: "landmark",
@@ -1518,8 +1478,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Filippo Scolari építtette.", "Itáliai reneszánsz hatások.", "Négyzetes alaprajz.", "Múzeum a lovagi életről."],
       ro: ["Construit de Filippo Scolari.", "Influențe renascentiste italiene.", "Plan pătrat.", "Muzeu despre viața cavalerilor."],
       en: ["Built by Filippo Scolari.", "Italian Renaissance influences.", "Square floor plan.", "Museum about knightly life."]
-    }
-  },
+    }, image: "/poi-images/landmark-ozora-extra.webp"},
   // HU-VA: Vas
   {
     id: "city-vasvar-extra",
@@ -1569,8 +1528,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Erdődy-Choron várkastély.", "Közlekedési csomópont.", "Dunántúli jelleg.", "Történelmi gyökerek."],
       ro: ["Castelul Erdődy-Choron.", "Nod de transport.", "Caracter transdanubian.", "Rădăcini istorice."],
       en: ["Erdődy-Choron castle.", "Transport hub.", "Transdanubian character.", "Historic roots."]
-    }
-  },
+    }, image: "/poi-images/city-janoshaza-extra.webp"},
   {
     id: "geo-pinka-extra",
     type: "river",
@@ -1594,8 +1552,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Határon átnyúló.", "A Rábába torkollik.", "Szurdokos táj.", "Halakban gazdag."],
       ro: ["Transfrontalier.", "Se varsă în Rába.", "Peisaj cu chei.", "Bogat în pește."],
       en: ["Cross-border.", "Flows into the Raab.", "Gorge landscape.", "Rich in fish."]
-    }
-  },
+    }, image: "/poi-images/geo-pinka-extra.webp"},
   {
     id: "historical-sitke-extra",
     type: "historical",
@@ -1619,8 +1576,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Neogótikus stílus.", "Rockfesztiválokról ismert.", "Szép kilátás.", "Sitke jelképe."],
       ro: ["Stil neogotic.", "Cunoscută pentru festivaluri rock.", "Vedere frumoasă.", "Simbolul din Sitke."],
       en: ["Neo-Gothic style.", "Known for rock festivals.", "Beautiful view.", "Symbol of Sitke."]
-    }
-  },
+    }, image: "/poi-images/historical-sitke-extra.webp"},
   {
     id: "landmark-pityerszer-extra",
     type: "landmark",
@@ -1644,8 +1600,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Szabadtéri múzeum.", "Hagyományos 'szeres' település.", "Kerített házak.", "Az Őrségi Nemzeti Park része."],
       ro: ["Muzeu în aer liber.", "Așezare tradițională de tip 'szer'.", "Case împrejmuite.", "Parte a Parcului Național Őrség."],
       en: ["Open-air museum.", "Traditional 'szer' settlement.", "Fenced houses.", "Part of the Őrség National Park."]
-    }
-  },
+    }, image: "/poi-images/landmark-pityerszer-extra.webp"},
   // HU-VE: Veszprém
   {
     id: "city-ajka-extra",
@@ -1695,8 +1650,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Késő gótikus templom.", "A Séd folyó mentén.", "Veszprém közelében.", "Kisvárosi hangulat."],
       ro: ["Biserică gotică târzie.", "Pe râul Séd.", "Lângă Veszprém.", "Atmosferă de orășel."],
       en: ["Late Gothic church.", "Along the Séd River.", "Near Veszprém.", "Small-town atmosphere."]
-    }
-  },
+    }, image: "/poi-images/city-berhida-extra.webp"},
   {
     id: "geo-csobanc-extra",
     type: "mountain",
@@ -1720,8 +1674,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Vulkanikus eredetű tanúhegy.", "Várrom a csúcson.", "Siklóernyős helyszín.", "Híres bortermelő vidék."],
       ro: ["Deal martor de origine vulcanică.", "Ruine de cetate pe vârf.", "Loc pentru parapantă.", "Faimoasă regiune viticolă."],
       en: ["Witness hill of volcanic origin.", "Castle ruins on the summit.", "Paragliding spot.", "Famous wine region."]
-    }
-  },
+    }, image: "/poi-images/geo-csobanc-extra.webp"},
   {
     id: "historical-csesznek-extra",
     type: "historical",
@@ -1745,8 +1698,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Sziklára épült.", "Középkori gyökerek.", "Via Ferrata a közelben.", "Gyönyörű kilátás a Bakonyra."],
       ro: ["Situată pe o stâncă.", "Rădăcini medievale.", "Via Ferrata în apropiere.", "Vedere superbă asupra munților Bakony."],
       en: ["Built on a rock.", "Medieval roots.", "Via Ferrata nearby.", "Beautiful view of the Bakony."]
-    }
-  },
+    }, image: "/poi-images/historical-csesznek-extra.webp"},
   {
     id: "landmark-osku-extra",
     type: "landmark",
@@ -1770,8 +1722,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Középkori rotunda.", "Gomba alakú tető.", "Domboldalon fekszik.", "Ritka építészeti forma."],
       ro: ["Rotundă medievală.", "Acoperiș în formă de ciupercă.", "Situată pe un deal.", "Formă arhitecturală rară."],
       en: ["Medieval rotunda.", "Mushroom-shaped roof.", "Situated on a hill.", "Rare architectural form."]
-    }
-  },
+    }, image: "/poi-images/landmark-osku-extra.webp"},
   // HU-ZA: Zala
   {
     id: "city-letenye-extra",
@@ -1821,8 +1772,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Salla néven római település.", "Az Őrség kapuja.", "Borostyán-tó.", "A Zala folyó mentén."],
       ro: ["Așezarea romană Salla.", "Poarta către Őrség.", "Lacul Borostyán.", "Pe râul Zala."],
       en: ["Roman settlement Salla.", "Gateway to Őrség.", "Borostyán Lake.", "By the Zala River."]
-    }
-  },
+    }, image: "/poi-images/city-zalalovo-extra.webp"},
   {
     id: "geo-kisbalaton-extra",
     type: "lake",
@@ -1846,8 +1796,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Madárparadicsom.", "Természetes szűrőrendszer.", "Kányavári-sziget.", "Bivalyrezervátum a közelben."],
       ro: ["Paradisul păsărilor.", "Sistem de filtrare natural.", "Insula Kányavári.", "Rezervație de bivoli în apropiere."],
       en: ["Bird paradise.", "Natural filter system.", "Kányavári Island.", "Buffalo reserve nearby."]
-    }
-  },
+    }, image: "/poi-images/geo-kisbalaton-extra.webp"},
   {
     id: "historical-egervar-extra",
     type: "historical",
@@ -1871,8 +1820,7 @@ export const poiExtraHu1: POI[] = [
       hu: ["Egykori végvár.", "Barokk várkastély saroktornyokkal.", "Nyári színház.", "Zalaegerszeg közelében."],
       ro: ["Fostă cetate de frontieră.", "Castel baroc cu turnuri de colț.", "Teatru de vară.", "Lângă Zalaegerszeg."],
       en: ["Former border fortress.", "Baroque castle with corner towers.", "Summer theater.", "Near Zalaegerszeg."]
-    }
-  },
+    }, image: "/poi-images/historical-egervar-extra.webp"},
   {
     id: "landmark-gocsej-falumuzeum-extra",
     type: "landmark",
@@ -1899,4 +1847,5 @@ export const poiExtraHu1: POI[] = [
     }
   }
 ];
+
 

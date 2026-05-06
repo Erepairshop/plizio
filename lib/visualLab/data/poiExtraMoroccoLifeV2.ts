@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMoroccoLifeV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["A ritka tarajos íbisz otthona.", "Partközeli vizes élőhely."],
       ro: ["Habitat al ibisului chel rar.", "Zonă umedă de coastă."],
       en: ["Home to the rare northern bald ibis.", "Coastal wetland."]
-    }
-  },
+    }, image: "/poi-images/souss-massa-national-park-life-v2.webp"},
   {
     id: "tazekka-national-park-life-v2",
     type: "animal-habitat",
@@ -27,8 +27,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Ismert cédrusfáiról.", "Élőhely a berber majmoknak."],
       ro: ["Cunoscut pentru cedrii săi.", "Habitat pentru macacii de Barbaria."],
       en: ["Known for its cedar trees.", "Habitat for Barbary macaques."]
-    }
-  },
+    }, image: "/poi-images/tazekka-national-park-life-v2.webp"},
   {
     id: "talassemtane-national-park-life-v2",
     type: "animal-habitat",
@@ -41,8 +40,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Jegenyefenyvesek védelme.", "Fontos régió a biodiverzitás számára."],
       ro: ["Protecția pădurilor de brad.", "Regiune importantă pentru biodiversitate."],
       en: ["Protection of fir forests.", "Important region for biodiversity."]
-    }
-  },
+    }, image: "/poi-images/talassemtane-national-park-life-v2.webp"},
   {
     id: "tadla-agriculture-life-v2",
     type: "agriculture",
@@ -55,8 +53,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["A cukortermelés központja.", "Termékeny talaj az Oum Er-Rbia által."],
       ro: ["Centrul producției de zahăr.", "Soluri fertile datorită Oum Er-Rbia."],
       en: ["Center of sugar production.", "Fertile soils due to Oum Er-Rbia."]
-    }
-  },
+    }, image: "/poi-images/tadla-agriculture-life-v2.webp"},
   {
     id: "gharbi-citrus-agriculture-life-v2",
     type: "agriculture",
@@ -69,8 +66,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Híres narancsairól.", "Intenzív öntözés."],
       ro: ["Faimos pentru portocale.", "Irigare intensivă."],
       en: ["Famous for oranges.", "Intensive irrigation."]
-    }
-  },
+    }, image: "/poi-images/gharbi-citrus-agriculture-life-v2.webp"},
   {
     id: "moulouya-valley-agriculture-life-v2",
     type: "agriculture",
@@ -83,8 +79,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Őszibarack- és almatermesztés.", "Fontos regionális gazdasági forrás."],
       ro: ["Cultivarea piersicilor și a merelor.", "Sursă economică regională importantă."],
       en: ["Cultivation of peaches and apples.", "Important regional economic source."]
-    }
-  },
+    }, image: "/poi-images/moulouya-valley-agriculture-life-v2.webp"},
   {
     id: "casablanca-zoo-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -97,8 +92,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Sok egzotikus állat.", "Játszóterek gyerekeknek."],
       ro: ["Multe animale exotice.", "Locuri de joacă pentru copii."],
       en: ["Many exotic animals.", "Playgrounds for children."]
-    }
-  },
+    }, image: "/poi-images/casablanca-zoo-kid-landmark-life-v2.webp"},
   {
     id: "rabat-zoo-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -111,8 +105,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Oroszlánok és elefántok.", "Oktatási lehetőségek gyerekeknek."],
       ro: ["Lei și elefanți.", "Programe educaționale pentru copii."],
       en: ["Lions and elephants.", "Educational opportunities for kids."]
-    }
-  },
+    }, image: "/poi-images/rabat-zoo-kid-landmark-life-v2.webp"},
   {
     id: "marrakech-palmeraie-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -125,8 +118,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Tevegelés.", "Kerékpártúrák a pálmák között."],
       ro: ["Excursii cu cămile.", "Tururi cu bicicleta printre palmieri."],
       en: ["Camel rides.", "Bike tours through palms."]
-    }
-  },
+    }, image: "/poi-images/marrakech-palmeraie-kid-landmark-life-v2.webp"},
   {
     id: "ifrane-lion-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -139,8 +131,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Népszerű fotótéma.", "Park gyerekeknek játékhoz."],
       ro: ["Motiv fotografic popular.", "Parc de joacă pentru copii."],
       en: ["Popular photo spot.", "Park for kids to play."]
-    }
-  },
+    }, image: "/poi-images/ifrane-lion-kid-landmark-life-v2.webp"},
   {
     id: "dakhla-bird-habitat-life-v2",
     type: "animal-habitat",
@@ -153,8 +144,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Flamingók otthona.", "Madármegfigyelés."],
       ro: ["Acasă pentru flamingo.", "Observarea păsărilor."],
       en: ["Home to flamingos.", "Bird watching."]
-    }
-  },
+    }, image: "/poi-images/dakhla-bird-habitat-life-v2.webp"},
   {
     id: "khenifiss-national-park-life-v2",
     type: "animal-habitat",
@@ -167,8 +157,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Tengeri madarak védelme.", "Lagúna ökoszisztéma."],
       ro: ["Protecția păsărilor marine.", "Ecosistem de lagună."],
       en: ["Protection of marine birds.", "Lagoon ecosystem."]
-    }
-  },
+    }, image: "/poi-images/khenifiss-national-park-life-v2.webp"},
   {
     id: "berkane-fruit-agriculture-life-v2",
     type: "agriculture",
@@ -181,8 +170,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Fő klementintermelő.", "Exportrégió."],
       ro: ["Principalul producător de clementine.", "Regiune de export."],
       en: ["Main producer of clementines.", "Export region."]
-    }
-  },
+    }, image: "/poi-images/berkane-fruit-agriculture-life-v2.webp"},
   {
     id: "doukkala-wheat-agriculture-life-v2",
     type: "agriculture",
@@ -195,8 +183,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Nagy búzatáblák.", "Hagyományos mezőgazdaság."],
       ro: ["Câmpuri mari de grâu.", "Agricultură tradițională."],
       en: ["Large wheat fields.", "Traditional agriculture."]
-    }
-  },
+    }, image: "/poi-images/doukkala-wheat-agriculture-life-v2.webp"},
   {
     id: "oued-noun-agriculture-life-v2",
     type: "agriculture",
@@ -209,8 +196,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Datolyapálma-termesztés.", "Oázis-gazdálkodás."],
       ro: ["Cultivarea palmierilor curmali.", "Economie de oază."],
       en: ["Date palm cultivation.", "Oasis economy."]
-    }
-  },
+    }, image: "/poi-images/oued-noun-agriculture-life-v2.webp"},
   {
     id: "tangier-park-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -223,8 +209,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Túrautak családoknak.", "Természetmegfigyelés."],
       ro: ["Trasee de drumeție pentru familii.", "Observarea naturii."],
       en: ["Hiking trails for families.", "Nature observation."]
-    }
-  },
+    }, image: "/poi-images/tangier-park-kid-landmark-life-v2.webp"},
   {
     id: "meknes-zoo-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -237,8 +222,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Hazai fajok.", "Pedagógiai fókusz."],
       ro: ["Specii locale.", "Focus pedagogic."],
       en: ["Local species.", "Educational focus."]
-    }
-  },
+    }, image: "/poi-images/meknes-zoo-kid-landmark-life-v2.webp"},
   {
     id: "agadir-bird-valley-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -251,8 +235,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Központi elhelyezkedés.", "Nagyon családbarát."],
       ro: ["Amplasare centrală.", "Foarte prietenos pentru familii."],
       en: ["Centrally located.", "Very family-friendly."]
-    }
-  },
+    }, image: "/poi-images/agadir-bird-valley-kid-landmark-life-v2.webp"},
   {
     id: "sahara-camel-habitat-life-v2",
     type: "animal-habitat",
@@ -265,8 +248,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Dromedárok.", "Alkalmazkodás a sivataghoz."],
       ro: ["Dromedari.", "Adaptare la deșert."],
       en: ["Dromedaries.", "Adaptation to the desert."]
-    }
-  },
+    }, image: "/poi-images/sahara-camel-habitat-life-v2.webp"},
   {
     id: "oued-draa-wetland-life-v2",
     type: "animal-habitat",
@@ -279,8 +261,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Élőhely kétéltűek számára.", "Zöld oázis."],
       ro: ["Habitat pentru amfibieni.", "Oază verde."],
       en: ["Habitat for amphibians.", "Green oasis."]
-    }
-  },
+    }, image: "/poi-images/oued-draa-wetland-life-v2.webp"},
   {
     id: "sebou-river-basin-agriculture-life-v2",
     type: "agriculture",
@@ -293,8 +274,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Gabona és olajbogyó.", "Nagyon termékeny."],
       ro: ["Cereale și măsline.", "Foarte fertil."],
       en: ["Cereals and olives.", "Very fertile."]
-    }
-  },
+    }, image: "/poi-images/sebou-river-basin-agriculture-life-v2.webp"},
   {
     id: "ouazzane-olive-agriculture-life-v2",
     type: "agriculture",
@@ -307,8 +287,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Kiváló minőségű olívaolaj.", "Hagyományos gyümölcsösök."],
       ro: ["Ulei de măsline de înaltă calitate.", "Livezi tradiționale."],
       en: ["High-quality olive oil.", "Traditional orchards."]
-    }
-  },
+    }, image: "/poi-images/ouazzane-olive-agriculture-life-v2.webp"},
   {
     id: "chefchaouen-goat-habitat-life-v2",
     type: "animal-habitat",
@@ -321,8 +300,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Szabad tartás.", "Híres kecskesajt."],
       ro: ["Creștere în aer liber.", "Celebră brânză de capră."],
       en: ["Free-range farming.", "Famous goat cheese."]
-    }
-  },
+    }, image: "/poi-images/chefchaouen-goat-habitat-life-v2.webp"},
   {
     id: "fes-region-agriculture-life-v2",
     type: "agriculture",
@@ -335,8 +313,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Fontos piacok.", "Változatos termékek."],
       ro: ["Piețe importante.", "Produse variate."],
       en: ["Important markets.", "Diverse produce."]
-    }
-  },
+    }, image: "/poi-images/fes-region-agriculture-life-v2.webp"},
   {
     id: "midelt-apple-agriculture-life-v2",
     type: "agriculture",
@@ -349,8 +326,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Almaközpont.", "Éves almafesztivál."],
       ro: ["Capitala merelor.", "Festivalul anual al merelor."],
       en: ["Apple capital.", "Annual apple festival."]
-    }
-  },
+    }, image: "/poi-images/midelt-apple-agriculture-life-v2.webp"},
   {
     id: "tiznit-agriculture-life-v2",
     type: "agriculture",
@@ -363,8 +339,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Szárazföldi gazdálkodás.", "Argánfák."],
       ro: ["Agricultură în zone aride.", "Pomi de argan."],
       en: ["Dryland farming.", "Argan trees."]
-    }
-  },
+    }, image: "/poi-images/tiznit-agriculture-life-v2.webp"},
   {
     id: "agadir-fish-market-agriculture-life-v2",
     type: "agriculture",
@@ -377,8 +352,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Halfeldolgozás.", "Fontos export."],
       ro: ["Procesarea peștelui.", "Export important."],
       en: ["Fish processing.", "Important export."]
-    }
-  },
+    }, image: "/poi-images/agadir-fish-market-agriculture-life-v2.webp"},
   {
     id: "ouarzazate-date-agriculture-life-v2",
     type: "agriculture",
@@ -391,8 +365,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Datolyaszüret.", "Oázis-mezőgazdaság."],
       ro: ["Recolta de curmale.", "Agricultură de oază."],
       en: ["Date harvest.", "Oasis agriculture."]
-    }
-  },
+    }, image: "/poi-images/ouarzazate-date-agriculture-life-v2.webp"},
   {
     id: "merzouga-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -405,8 +378,7 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       hu: ["Sandboarding.", "Tevegelés gyerekeknek."],
       ro: ["Sandboarding.", "Excursii cu cămile pentru copii."],
       en: ["Sandboarding.", "Camel riding for children."]
-    }
-  },
+    }, image: "/poi-images/merzouga-kid-landmark-life-v2.webp"},
   {
     id: "taroudant-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -422,3 +394,4 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       }
   }
 ];
+

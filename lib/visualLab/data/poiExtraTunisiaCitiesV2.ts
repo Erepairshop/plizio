@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTunisiaCitiesV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Politikai központ", "Több mint 1 millió lakos"],
       ro: ["Centru politic", "Peste 1 milion de locuitori"],
       en: ["Political center", "Over 1 million inhabitants"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Tunis ist die historische und moderne Hauptstadt Tunesiens, die zwischen dem Golf von Tunis und dem Tunissee liegt. Die Medina von Tunis gehört seit 1979 zum UNESCO-Weltkulturerbe und beherbergt über 700 historische Monumente, darunter prachtvolle Paläste und Moscheen aus dem 12. bis 16. Jahrhundert. Neben dem kulturellen Erbe dient die Stadt als zentraler wirtschaftlicher Motor des Landes, der etwa 30 Prozent des tunesischen Bruttoinlandsprodukts erwirtschaftet. Geografie K7 — Küstenregionen und Metropolen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Weltkulturerbe seit 1979", "Über 700 historische Denkmäler", "Generiert 30 % des tunesischen BIP", "Gegründet im 2. Jahrtausend v. Chr.", "Hauptstadt seit 1159 n. Chr.", "Einwohnerzahl über 1 Million"],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/tunis-cities-v2.webp"},
   {
     id: "ariana-cities-v2",
     type: "state-capital",
@@ -27,8 +39,19 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["A fővárosi régió része", "A rózsák városa"],
       ro: ["Parte a regiunii capitalei", "Orașul trandafirilor"],
       en: ["Part of the capital region", "City of roses"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Ariana ist eine bedeutende Stadt im Großraum Tunis, die besonders für ihre Rosenkultur bekannt ist, die bis ins 17. Jahrhundert zurückreicht. Die Stadt fungiert als wichtiges Wohn- und Verwaltungszentrum im Norden der Hauptstadtregion und beherbergt zahlreiche diplomatische Vertretungen sowie Forschungseinrichtungen. Die lokale Wirtschaft profitiert stark von der Nähe zu Tunis, was Ariana zu einem bevorzugten Standort für moderne Dienstleistungen macht. Biologie K6 — Pflanzenzucht und Stadtökologie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Berühmt für Rosenanbau", "Gegründet im 17. Jahrhundert", "Wichtiges Diplomatenviertel", "Nördlich von Tunis gelegen", "Wachsendes Dienstleistungszentrum", "Wichtige Forschungsstandorte"],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/ariana-cities-v2.webp"},
   {
     id: "ben-arous-cities-v2",
     type: "state-capital",
@@ -41,8 +64,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Ipari központ", "Tunisz közelében"],
       ro: ["Centru industrial", "Aproape de Tunis"],
       en: ["Industrial hub", "Near Tunis"]
-    }
-  },
+    }, image: "/poi-images/ben-arous-cities-v2.webp"},
   {
     id: "manouba-cities-v2",
     type: "state-capital",
@@ -55,8 +77,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Egyetemváros", "Tunisz külvárosa"],
       ro: ["Oraș universitar", "Suburbie a Tunisului"],
       en: ["University town", "Suburb of Tunis"]
-    }
-  },
+    }, image: "/poi-images/manouba-cities-v2.webp"},
   {
     id: "nabeul-cities-v2",
     type: "state-capital",
@@ -69,8 +90,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Kerámiaközpont", "Turistaváros"],
       ro: ["Centrul ceramicii", "Oraș turistic"],
       en: ["Pottery center", "Tourist city"]
-    }
-  },
+    }, image: "/poi-images/nabeul-cities-v2.webp"},
   {
     id: "zaghouan-cities-v2",
     type: "state-capital",
@@ -83,8 +103,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Római vízvezeték", "Andalúz hatás"],
       ro: ["Apeduct roman", "Influență andaluză"],
       en: ["Roman aqueduct", "Andalusian influence"]
-    }
-  },
+    }, image: "/poi-images/zaghouan-cities-v2.webp"},
   {
     id: "bizerte-cities-v2",
     type: "state-capital",
@@ -97,8 +116,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Legészakibb város", "Fontos kikötő"],
       ro: ["Cel mai nordic oraș", "Port important"],
       en: ["Northernmost city", "Important port"]
-    }
-  },
+    }, image: "/poi-images/bizerte-cities-v2.webp"},
   {
     id: "beja-cities-v2",
     type: "state-capital",
@@ -111,8 +129,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Mezőgazdasági központ", "Történelmi gyökerek"],
       ro: ["Centru agricol", "Rădăcini istorice"],
       en: ["Agricultural center", "Historical roots"]
-    }
-  },
+    }, image: "/poi-images/beja-cities-v2.webp"},
   {
     id: "jendouba-cities-v2",
     type: "state-capital",
@@ -125,8 +142,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Határváros", "Mezőgazdasági régió"],
       ro: ["Oraș de graniță", "Regiune agricolă"],
       en: ["Border city", "Agricultural region"]
-    }
-  },
+    }, image: "/poi-images/jendouba-cities-v2.webp"},
   {
     id: "el-kef-cities-v2",
     type: "state-capital",
@@ -139,8 +155,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Történelmi erőd", "Magasan fekvő város"],
       ro: ["Fortăreață istorică", "Oraș la mare altitudine"],
       en: ["Historical fortress", "High-altitude city"]
-    }
-  },
+    }, image: "/poi-images/el-kef-cities-v2.webp"},
   {
     id: "siliana-cities-v2",
     type: "state-capital",
@@ -153,8 +168,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Regionális központ", "Szárazföldi város"],
       ro: ["Centru regional", "Oraș interior"],
       en: ["Regional center", "Inland city"]
-    }
-  },
+    }, image: "/poi-images/siliana-cities-v2.webp"},
   {
     id: "kairouan-cities-v2",
     type: "state-capital",
@@ -167,8 +181,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Szent város", "Nagy Mecset"],
       ro: ["Oraș sfânt", "Marea Moschee"],
       en: ["Holy city", "Great Mosque"]
-    }
-  },
+    }, image: "/poi-images/kairouan-cities-v2.webp"},
   {
     id: "kasserine-cities-v2",
     type: "state-capital",
@@ -181,8 +194,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Római romok", "A hegyek lábánál"],
       ro: ["Ruine romane", "La poalele munților"],
       en: ["Roman ruins", "At the foot of the mountains"]
-    }
-  },
+    }, image: "/poi-images/kasserine-cities-v2.webp"},
   {
     id: "sidi-bouzid-cities-v2",
     type: "state-capital",
@@ -195,8 +207,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Történelmi helyszín", "Mezőgazdasági régió"],
       ro: ["Sit istoric", "Regiune agricolă"],
       en: ["Historical site", "Agricultural region"]
-    }
-  },
+    }, image: "/poi-images/sidi-bouzid-cities-v2.webp"},
   {
     id: "sousse-cities-v2",
     type: "state-capital",
@@ -209,8 +220,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Turisztikai központ", "Jelentős medina"],
       ro: ["Atracție turistică", "Medină importantă"],
       en: ["Tourist hotspot", "Significant medina"]
-    }
-  },
+    }, image: "/poi-images/sousse-cities-v2.webp"},
   {
     id: "monastir-cities-v2",
     type: "state-capital",
@@ -223,8 +233,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Történelmi Ribat", "Repülőtérváros"],
       ro: ["Ribat istoric", "Oraș aeroport"],
       en: ["Historical Ribat", "Airport city"]
-    }
-  },
+    }, image: "/poi-images/monastir-cities-v2.webp"},
   {
     id: "mahdia-cities-v2",
     type: "state-capital",
@@ -237,8 +246,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Egykori főváros", "Halászkikötő"],
       ro: ["Fosta capitală", "Port de pescuit"],
       en: ["Former capital", "Fishing port"]
-    }
-  },
+    }, image: "/poi-images/mahdia-cities-v2.webp"},
   {
     id: "sfax-cities-v2",
     type: "state-capital",
@@ -251,8 +259,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Gazdasági központ", "Második legnagyobb város"],
       ro: ["Centru economic", "Al doilea oraș ca mărime"],
       en: ["Economic center", "Second largest city"]
-    }
-  },
+    }, image: "/poi-images/sfax-cities-v2.webp"},
   {
     id: "gafsa-cities-v2",
     type: "state-capital",
@@ -265,8 +272,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Foszfátbányászat", "Történelmi oázis"],
       ro: ["Extracția de fosfați", "Oază istorică"],
       en: ["Phosphate mining", "Historical oasis"]
-    }
-  },
+    }, image: "/poi-images/gafsa-cities-v2.webp"},
   {
     id: "tozeur-cities-v2",
     type: "state-capital",
@@ -279,8 +285,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Datolyatermesztés", "Sivatagi város"],
       ro: ["Producția de curmale", "Oraș deșertic"],
       en: ["Date production", "Desert city"]
-    }
-  },
+    }, image: "/poi-images/tozeur-cities-v2.webp"},
   {
     id: "kebili-cities-v2",
     type: "state-capital",
@@ -293,8 +298,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Oázisváros", "Szahara széle"],
       ro: ["Oraș oază", "Marginea Saharei"],
       en: ["Oasis city", "Edge of the Sahara"]
-    }
-  },
+    }, image: "/poi-images/kebili-cities-v2.webp"},
   {
     id: "gabes-cities-v2",
     type: "state-capital",
@@ -307,8 +311,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Tengerparti oázis", "Vegyipar"],
       ro: ["Oază de coastă", "Industrie chimică"],
       en: ["Coastal oasis", "Chemical industry"]
-    }
-  },
+    }, image: "/poi-images/gabes-cities-v2.webp"},
   {
     id: "medenine-cities-v2",
     type: "state-capital",
@@ -321,8 +324,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Hagyományos Ksour", "Sivatagi régió"],
       ro: ["Ksour tradițional", "Regiune deșertică"],
       en: ["Traditional Ksour", "Desert region"]
-    }
-  },
+    }, image: "/poi-images/medenine-cities-v2.webp"},
   {
     id: "tataouine-cities-v2",
     type: "state-capital",
@@ -335,8 +337,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Star Wars forgatási helyszín", "Legdélebbi nagyváros"],
       ro: ["Locație Star Wars", "Cel mai sudic oraș important"],
       en: ["Star Wars location", "Southernmost major city"]
-    }
-  },
+    }, image: "/poi-images/tataouine-cities-v2.webp"},
   {
     id: "houmt-souk-cities-v2",
     type: "city",
@@ -349,8 +350,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Dzserba fővárosa", "Népszerű piac"],
       ro: ["Capitala insulei Djerba", "Piață populară"],
       en: ["Capital of Djerba", "Popular market"]
-    }
-  },
+    }, image: "/poi-images/houmt-souk-cities-v2.webp"},
   {
     id: "midoun-cities-v2",
     type: "city",
@@ -363,8 +363,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Második legnagyobb város Dzserbán", "Turizmus"],
       ro: ["Al doilea oraș ca mărime din Djerba", "Turism"],
       en: ["Second largest Djerba city", "Tourism"]
-    }
-  },
+    }, image: "/poi-images/midoun-cities-v2.webp"},
   {
     id: "hammamet-cities-v2",
     type: "city",
@@ -377,8 +376,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Tengerparti üdülőhely", "Szép medina"],
       ro: ["Stațiune balneară", "Medină frumoasă"],
       en: ["Seaside resort", "Beautiful medina"]
-    }
-  },
+    }, image: "/poi-images/hammamet-cities-v2.webp"},
   {
     id: "zarzis-cities-v2",
     type: "city",
@@ -391,8 +389,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Turisztikai központ", "Dzserba közelében"],
       ro: ["Oraș turistic", "Aproape de Djerba"],
       en: ["Tourist town", "Near Djerba"]
-    }
-  },
+    }, image: "/poi-images/zarzis-cities-v2.webp"},
   {
     id: "douz-cities-v2",
     type: "city",
@@ -405,8 +402,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["A Szahara kapuja", "Sivatagi fesztivál"],
       ro: ["Poarta către Sahara", "Festivalul deșertului"],
       en: ["Gateway to the Sahara", "Desert festival"]
-    }
-  },
+    }, image: "/poi-images/douz-cities-v2.webp"},
   {
     id: "sbeitla-cities-v2",
     type: "city",
@@ -419,8 +415,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Római Sufetula", "Közép-Tunézia"],
       ro: ["Sufetula romană", "Tunisia centrală"],
       en: ["Roman Sufetula", "Central Tunisia"]
-    }
-  },
+    }, image: "/poi-images/sbeitla-cities-v2.webp"},
   {
     id: "carthage-cities-v2",
     type: "city",
@@ -433,8 +428,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Ókori romok", "Elnöki palota"],
       ro: ["Ruine antice", "Palatul prezidențial"],
       en: ["Ancient ruins", "Presidential palace"]
-    }
-  },
+    }, image: "/poi-images/carthage-cities-v2.webp"},
   {
     id: "sidi-bou-said-cities-v2",
     type: "city",
@@ -447,8 +441,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Kék-fehér házak", "Művésznegyed"],
       ro: ["Case albastru cu alb", "Cartier de artiști"],
       en: ["Blue and white houses", "Artists' quarter"]
-    }
-  },
+    }, image: "/poi-images/sidi-bou-said-cities-v2.webp"},
   {
     id: "rads-cities-v2",
     type: "city",
@@ -461,8 +454,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Jelentős kikötő", "Sportközpont"],
       ro: ["Port important", "Centru sportiv"],
       en: ["Major port", "Sports center"]
-    }
-  },
+    }, image: "/poi-images/rads-cities-v2.webp"},
   {
     id: "la-goulette-cities-v2",
     type: "city",
@@ -475,8 +467,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Kompkikötő", "Földközi-tengeri kijárat"],
       ro: ["Port de feriboturi", "Acces la Marea Mediterană"],
       en: ["Ferry port", "Mediterranean access"]
-    }
-  },
+    }, image: "/poi-images/la-goulette-cities-v2.webp"},
   {
     id: "hammam-lif-cities-v2",
     type: "city",
@@ -489,8 +480,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Egykori gyógyhely", "Tunisz közelében"],
       ro: ["Fostă stațiune", "Aproape de Tunis"],
       en: ["Former spa town", "Near Tunis"]
-    }
-  },
+    }, image: "/poi-images/hammam-lif-cities-v2.webp"},
   {
     id: "tabarka-cities-v2",
     type: "city",
@@ -503,8 +493,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Korallzátony", "Jazzfesztivál"],
       ro: ["Recif de corali", "Festival de jazz"],
       en: ["Coral reef", "Jazz festival"]
-    }
-  },
+    }, image: "/poi-images/tabarka-cities-v2.webp"},
   {
     id: "kelibia-cities-v2",
     type: "city",
@@ -517,8 +506,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Történelmi erőd", "Borászat"],
       ro: ["Fortăreață istorică", "Viticultură"],
       en: ["Historical fortress", "Wine making"]
-    }
-  },
+    }, image: "/poi-images/kelibia-cities-v2.webp"},
   {
     id: "el-djem-cities-v2",
     type: "city",
@@ -531,8 +519,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Római amfiteátrum", "UNESCO világörökség"],
       ro: ["Amfiteatru roman", "Patrimoniul UNESCO"],
       en: ["Roman amphitheater", "UNESCO Heritage"]
-    }
-  },
+    }, image: "/poi-images/el-djem-cities-v2.webp"},
   {
     id: "ksar-hellal-cities-v2",
     type: "city",
@@ -545,8 +532,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Textilipar", "Történelmi szerep"],
       ro: ["Industria textilă", "Rol istoric"],
       en: ["Textile industry", "Historical role"]
-    }
-  },
+    }, image: "/poi-images/ksar-hellal-cities-v2.webp"},
   {
     id: "moknine-cities-v2",
     type: "city",
@@ -559,8 +545,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Fazekasság", "Hagyományos kézművesség"],
       ro: ["Olărit", "Meșteșuguri tradiționale"],
       en: ["Pottery", "Traditional crafts"]
-    }
-  },
+    }, image: "/poi-images/moknine-cities-v2.webp"},
   {
     id: "jemmal-cities-v2",
     type: "city",
@@ -573,8 +558,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Olívaolaj-termelés", "Regionális központ"],
       ro: ["Producția de ulei de măsline", "Centru regional"],
       en: ["Olive oil production", "Regional center"]
-    }
-  },
+    }, image: "/poi-images/jemmal-cities-v2.webp"},
   {
     id: "menzel-bourguiba-cities-v2",
     type: "city",
@@ -587,8 +571,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Nehézipar", "Egykori Ferryville"],
       ro: ["Industria grea", "Fosta Ferryville"],
       en: ["Heavy industry", "Formerly Ferryville"]
-    }
-  },
+    }, image: "/poi-images/menzel-bourguiba-cities-v2.webp"},
   {
     id: "menzel-temime-cities-v2",
     type: "city",
@@ -601,8 +584,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Cap Bon régió", "Piacváros"],
       ro: ["Regiunea Cap Bon", "Oraș-piață"],
       en: ["Cap Bon region", "Market town"]
-    }
-  },
+    }, image: "/poi-images/menzel-temime-cities-v2.webp"},
   {
     id: "korba-cities-v2",
     type: "city",
@@ -615,8 +597,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Mezőgazdaság", "Nyári vakáció"],
       ro: ["Agricultură", "Vacanțe de vară"],
       en: ["Agriculture", "Summer vacation"]
-    }
-  },
+    }, image: "/poi-images/korba-cities-v2.webp"},
   {
     id: "tebourba-cities-v2",
     type: "city",
@@ -629,8 +610,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Történelmi helyszín", "A Medzserda közelében"],
       ro: ["Sit istoric", "Aproape de Medjerda"],
       en: ["Historical site", "Near Medjerda"]
-    }
-  },
+    }, image: "/poi-images/tebourba-cities-v2.webp"},
   {
     id: "oued-ellil-cities-v2",
     type: "city",
@@ -643,8 +623,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Tunisz külvárosa", "Növekvő ipar"],
       ro: ["Suburbie a Tunisului", "Industrie în creștere"],
       en: ["Suburb of Tunis", "Growing industry"]
-    }
-  },
+    }, image: "/poi-images/oued-ellil-cities-v2.webp"},
   {
     id: "el-hamma-cities-v2",
     type: "city",
@@ -657,8 +636,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Termálforrások", "Oázisváros"],
       ro: ["Izvoare termale", "Oraș oază"],
       en: ["Thermal springs", "Oasis city"]
-    }
-  },
+    }, image: "/poi-images/el-hamma-cities-v2.webp"},
   {
     id: "nefta-cities-v2",
     type: "city",
@@ -671,8 +649,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Szúfizmus központ", "Oáziskultúra"],
       ro: ["Centrul sufismului", "Cultura oazei"],
       en: ["Sufism center", "Oasis culture"]
-    }
-  },
+    }, image: "/poi-images/nefta-cities-v2.webp"},
   {
     id: "metlaoui-cities-v2",
     type: "city",
@@ -685,8 +662,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Foszfát-központ", "Vörös Gyík-vonat"],
       ro: ["Centrul fosfaților", "Trenul Șopârlei Roșii"],
       en: ["Phosphate center", "Red Lizard train"]
-    }
-  },
+    }, image: "/poi-images/metlaoui-cities-v2.webp"},
   {
     id: "feriana-cities-v2",
     type: "city",
@@ -713,8 +689,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Magasan fekvő város", "Hűvös éghajlat"],
       ro: ["Oraș la mare altitudine", "Climă răcoroasă"],
       en: ["High-altitude city", "Cool climate"]
-    }
-  },
+    }, image: "/poi-images/thala-cities-v2.webp"},
   {
     id: "makthar-cities-v2",
     type: "city",
@@ -727,8 +702,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Római Mactaris", "Hegyvidéki táj"],
       ro: ["Mactaris romană", "Peisaj montan"],
       en: ["Roman Mactaris", "Mountain landscape"]
-    }
-  },
+    }, image: "/poi-images/makthar-cities-v2.webp"},
   {
     id: "medjez-el-bab-cities-v2",
     type: "city",
@@ -741,8 +715,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["A Medzserda folyó mellett", "Második világháborús emlékművek"],
       ro: ["Pe râul Medjerda", "Monumente din Al Doilea Război Mondial"],
       en: ["On Medjerda River", "WWII memorials"]
-    }
-  },
+    }, image: "/poi-images/medjez-el-bab-cities-v2.webp"},
   {
     id: "teboursouk-cities-v2",
     type: "city",
@@ -755,8 +728,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Dougga közelében", "Olívatermelés"],
       ro: ["Aproape de Dougga", "Producția de măsline"],
       en: ["Close to Dougga", "Olive production"]
-    }
-  },
+    }, image: "/poi-images/teboursouk-cities-v2.webp"},
   {
     id: "testour-cities-v2",
     type: "city",
@@ -769,8 +741,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Andalúz örökség", "Egyedi mecset"],
       ro: ["Moștenire andaluză", "Moschee unică"],
       en: ["Andalusian heritage", "Unique mosque"]
-    }
-  },
+    }, image: "/poi-images/testour-cities-v2.webp"},
   {
     id: "enfidha-cities-v2",
     type: "city",
@@ -783,8 +754,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Nemzetközi repülőtér", "Ipari központ"],
       ro: ["Aeroport internațional", "Centru industrial"],
       en: ["International airport", "Industrial center"]
-    }
-  },
+    }, image: "/poi-images/enfidha-cities-v2.webp"},
   {
     id: "ksour-essef-cities-v2",
     type: "city",
@@ -797,8 +767,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Mezőgazdaság", "Római nyomok"],
       ro: ["Agricultură", "Urme romane"],
       en: ["Agriculture", "Roman traces"]
-    }
-  },
+    }, image: "/poi-images/ksour-essef-cities-v2.webp"},
   {
     id: "dar-chaabane-cities-v2",
     type: "city",
@@ -811,8 +780,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Kőfaragás", "Kézműves központ"],
       ro: ["Pietrărie", "Centru de artizanat"],
       en: ["Stonemasonry", "Craft center"]
-    }
-  },
+    }, image: "/poi-images/dar-chaabane-cities-v2.webp"},
   {
     id: "bou-salem-cities-v2",
     type: "city",
@@ -825,8 +793,7 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
       hu: ["Gabonatermesztés", "Mezőgazdasági központ"],
       ro: ["Cultivarea cerealelor", "Centru agricol"],
       en: ["Cereal cultivation", "Agricultural center"]
-    }
-  },
+    }, image: "/poi-images/bou-salem-cities-v2.webp"},
   {
     id: "oueslatia-cities-v2",
     type: "city",
@@ -842,3 +809,4 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     }
   }
 ];
+

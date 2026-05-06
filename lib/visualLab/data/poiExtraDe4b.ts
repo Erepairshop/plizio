@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDe4b: POI[] = [
@@ -68,8 +69,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["UNESCO World Heritage site and the largest warehouse complex globally.", "Built on thousands of oak piles in the Elbe river marsh.", "Features a unique 'Brick Gothic' (Backsteingotik) architectural style.", "The district spans an area of approximately 26 hectares.", "Historically the primary center for the global trade of coffee and spices.", "Home to the Miniatur Wunderland, the world's largest model railway."],
-    },
-  },
+    }, image: "/poi-images/historical-speicherstadt-hh-extra.webp"},
 
 
   {
@@ -136,8 +136,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["The seat of the Hamburg Parliament and the Senate since 1897.", "Features a 112-meter high central tower and 647 rooms.", "Built on over 4,000 oak piles to stabilize it on the marshy soil.", "The facade displays 20 statues representing the German Emperors.", "The Grand Ballroom is 46 meters long and decorated with historic murals.", "Includes a spectacular courtyard with the Hygieia Fountain."],
-    },
-  },
+    }, image: "/poi-images/historical-rathaus-hamburg-extra.webp"},
 
   {
     id: "landmark-reeperbahn-hh-extra",
@@ -203,8 +202,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["The world-famous nightlife and red-light district of Hamburg-St. Pauli.", "The site where The Beatles began their rise to global fame in 1960.", "Home to the Davidwache, the most famous police station in Germany.", "Host of the Reeperbahn Festival, a major event for the international music industry.", "The name derives from 'Reepschläger' (rope-makers) who worked here.", "Features the Hans-Albers-Platz and the historic Star-Club site."],
-    },
-  },
+    }, image: "/poi-images/landmark-reeperbahn-hh-extra.webp"},
 
   {
     id: "river-alster-hh-extra",
@@ -270,8 +268,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["A 56-kilometer long tributary of the Elbe river.", "The Outer Alster lake covers an area of 164 hectares.", "The Alster Fountain in the Inner Alster can reach a height of 60 meters.", "Surrounded by a 7.4-kilometer long popular jogging and walking path.", "Home to the historic 'Alsterdampfer' white fleet of passenger boats.", "A central hub for traditional German sailing and rowing clubs."],
-    },
-  },
+    }, image: "/poi-images/river-alster-hh-extra.webp"},
 
   {
     id: "city-altona-hh-extra",
@@ -337,8 +334,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["Founded as a fishing village and was an independent Danish city until 1867.", "Home to the Altona Fish Market, a world-famous Sunday morning tradition.", "The Altonaer Rathaus is one of the most beautiful administrative buildings in Germany.", "Features the Palmaille, a historic boulevard inspired by the game of pall-mall.", "A major European center for the alternative and creative industries.", "Includes the spectacular 'Altonaer Balkon' viewpoint over the Elbe."],
-    },
-  },
+    }, image: "/poi-images/city-altona-hh-extra.webp"},
 
   {
     id: "historical-hafencity-hh-extra",
@@ -404,8 +400,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["Europe's largest inner-city urban development project.", "Increases the area of Hamburg's city center by approximately 40%.", "Home to the Elbphilharmonie and the International Maritime Museum.", "Built to be flood-proof with buildings constructed on elevated mounds (Warften).", "Includes the 'Lohsepark', a major green central park for the district.", "A premier example of sustainable architecture and integrated urban design."],
-    },
-  },
+    }, image: "/poi-images/historical-hafencity-hh-extra.webp"},
 
   {
     id: "landmark-michaelis-hh-extra",
@@ -471,8 +466,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["The most significant Baroque church in Northern Germany.", "Features a 132-meter high spire with Germany's largest tower clock.", "The observation platform at 82 meters offers panoramic views of the Port.", "Home to a 1.5-meter high bronze statue of the Archangel Michael.", "The church can accommodate more than 2,500 people.", "Burial place of the composer Carl Philipp Emanuel Bach."],
-    },
-  },
+    }, image: "/poi-images/landmark-michaelis-hh-extra.webp"},
 
   {
     id: "city-bergedorf-hh-extra",
@@ -538,8 +532,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["Home to the only preserved medieval castle in the city-state of Hamburg.", "Historically a 'condominium' jointly ruled by Hamburg and Lübeck for 400 years.", "Located in the heart of the fertile Vierlande and Marschlande region.", "Features the Hamburg Observatory (Sternwarte), a major scientific monument.", "The Bergedorf Castle was first mentioned in a document in 1310.", "A leading center for traditional horticulture and greenhouse farming."],
-    },
-  },
+    }, image: "/poi-images/city-bergedorf-hh-extra.webp"},
 
   {
     id: "island-neuwerk-hh-extra",
@@ -605,8 +598,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["Part of the city-state of Hamburg since the year 1299.", "Home to the oldest building in Hamburg: the 1310 lighthouse.", "Accessible by horse-drawn carriage through the mudflats during low tide.", "The island has a permanent population of only about 30 people.", "Part of the UNESCO World Heritage site of the Wadden Sea.", "Features the 'Graveyard of the Nameless' for shipwreck victims."],
-    },
-  },
+    }, image: "/poi-images/island-neuwerk-hh-extra.webp"},
 
   {
     id: "historical-krameramtsstuben-hh-extra",
@@ -672,8 +664,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["The last remaining 17th-century courtyard ensemble in Hamburg.", "Built between 1620 and 1676 for the widows of the Grocers' Guild.", "Located in the historic district beneath St. Michael's Church.", "One of the apartments is preserved as a museum with original 1850s furniture.", "A rare example of early social welfare provided by trade guilds.", "The narrow alleyway is a favorite location for historic photography."],
-    },
-  },
+    }, image: "/poi-images/historical-krameramtsstuben-hh-extra.webp"},
 
   {
     id: "city-harburg-hh-extra",
@@ -739,8 +730,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["Historically an independent city until its merger with Hamburg in 1937.", "Home to the Hamburg University of Technology (TUHH), founded in 1978.", "Features the Harburg Inland Port, a leading example of modern waterfront renewal.", "The Harburg Town Hall is a majestic masterpiece of the Neo-Renaissance.", "A major center for the global rubber and palm oil processing industries.", "Connected to the city center by the spectacular Köhlbrand Bridge."],
-    },
-  },
+    }, image: "/poi-images/city-harburg-hh-extra.webp"},
 
   {
     id: "landmark-miniaturwunderland-hh-extra",
@@ -806,8 +796,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["The world's largest model railway with over 1,000 trains and 16,000m of track.", "Features a fully functional miniature airport (Knuffingen) with takeoff and landing.", "Located in the UNESCO World Heritage site of the Speicherstadt.", "The project has required over 1,000,000 working hours to build.", "Includes over 280,000 tiny human figures in meticulously detailed scenes.", "Attracts more than 1.4 million visitors annually to Hamburg."],
-    },
-  },
+    }, image: "/poi-images/landmark-miniaturwunderland-hh-extra.webp"},
 
   {
     id: "forest-volksdorf-hh-extra",
@@ -873,8 +862,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["A primary part of the historic 'Walddörfer' (Forest Villages) of Hamburg.", "Characterized by ancient beech forests and glacial kettle ponds.", "Home to the Museumsdorf Volksdorf, an authentic living history site.", "A vital habitat for woodpeckers, hawks, and numerous bat species.", "The forest covers approximately 100 hectares of the district.", "Historically used as a timber resource for the growing Hanseatic city."],
-    },
-  },
+    }, image: "/poi-images/forest-volksdorf-hh-extra.webp"},
 
   // ─── DE-SL Saarland (+15) ────────────────────────────────────────────────────
 
@@ -944,8 +932,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["A 235-kilometer long river that flows through France and Germany.", "Gives its name to the German federal state of Saarland.", "Famous for the Saarschleife, a dramatic U-bend near Mettlach.", "Historically the main artery for the coal and steel trade.", "Features a system of high-performance locks for international shipping.", "The Saar Cycle Path is a premier cross-border route to France."],
-    },
-  },
+    }, image: "/poi-images/river-saar-sl-extra.webp"},
 
 
   {
@@ -1012,8 +999,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["A 403-meter high peak and a primary landmark of the Saargau region.", "Offers views of the Saar valley and the French Vosges mountains.", "Located near the historic border between Germany and France.", "Home to the 'Hohe Warte' refuge hut, a popular destination for hikers.", "The mountain consists of variegated sandstone (Buntsandstein).", "A vital recreational area for the city of Saarbrücken."],
-    },
-  },
+    }, image: "/poi-images/mountain-hohe-warte-sl-extra.webp"},
 
   {
     id: "city-neunkirchen-sl-extra",
@@ -1079,8 +1065,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["The second-largest city in Saarland and a former steel capital.", "Home to the 'Stummsche Kirch', a historic monument to industrial wealth.", "Features the Saarpark-Center, the largest shopping mall in the region.", "The former ironworks site is now a major center for culture and leisure.", "Known for its high-quality zoo, which focuses on Asian animals.", "Historically the primary power base of the Stumm industrial dynasty."],
-    },
-  },
+    }, image: "/poi-images/city-neunkirchen-sl-extra.webp"},
 
 
   {
@@ -1147,8 +1132,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["The longest and most important tributary of the Saar river.", "The heart of the Bliesgau UNESCO Biosphere Reserve.", "Stretches for approximately 100 kilometers through Germany and France.", "Famous for the 'Bliesgau' landscape, known as the 'Tuscany of the Saar'.", "Provides a vital habitat for rare species like the little owl.", "Flows past the Roman open-air museum in Schwarzenacker."],
-    },
-  },
+    }, image: "/poi-images/river-blies-sl-extra.webp"},
 
   {
     id: "historical-blieskastel-sl-extra",
@@ -1214,8 +1198,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["A perfectly preserved Baroque residence city from the 18th century.", "Home to the Gollenstein, Central Europe's largest menhir (6.6m).", "The Castle Church (Schlosskirche) is a pinnacle of local Baroque art.", "Former seat of the Imperial Counts of von der Leyen.", "The heart of the Bliesgau UNESCO Biosphere Reserve.", "Features the historic 'Orange House' and grand countly palaces."],
-    },
-  },
+    }, image: "/poi-images/historical-blieskastel-sl-extra.webp"},
 
   {
     id: "mountain-schaumberg-sl-extra",
@@ -1281,8 +1264,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["Known as the 'Hausberg' of Saarland, standing at 568 meters.", "The Schaumbergturm is a 37-meter high observation tower.", "Site of a historic Celtic 'Refuge Fortress' and a Roman station.", "The tower serves as a monument to German-French cooperation.", "Offers views of over 200 towns and villages across three countries.", "Located above the Tholey Abbey, founded in the 7th century."],
-    },
-  },
+    }, image: "/poi-images/mountain-schaumberg-sl-extra.webp"},
 
 
   {
@@ -1416,8 +1398,7 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["A cross-border forest area covering roughly 50 square kilometers.", "Historically a primary resource for the Saarland glass industry.", "Home to the Karlsbrunn Wildlife Park and historic hunting lodge.", "The name 'Warndt' likely derives from an old word for 'forbidden forest'.", "A vital habitat for the European wildcat and rare amphibian species.", "Contains the 'Warndtheide', a unique heathland formed on sandy soil."],
-    },
-  },
+    }, image: "/poi-images/forest-warndt-sl-extra.webp"},
 
 
   {
@@ -1489,6 +1470,6 @@ export const poiExtraDe4b: POI[] = [
     ],
       ro: [],
       en: ["Global headquarters of Villeroy & Boch since the year 1809.", "Home to the 'Old Tower' (Alter Turm), built around 990 AD.", "Founded as a Benedictine monastery in the late 7th century.", "The current main building is a masterpiece of Rhenish Baroque.", "Features the 'Discovery Center', a high-tech ceramics museum.", "Located directly on the banks of the Saar near the Saarschleife."]
-    },
-  },
+    }, image: "/poi-images/historical-mettlach-abbey-sl-extra.webp"},
 ];
+

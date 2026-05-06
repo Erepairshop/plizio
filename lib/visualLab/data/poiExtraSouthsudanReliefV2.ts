@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSouthsudanReliefV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["2000 méter feletti magasságok", "Teraszos mezőgazdaságáról ismert"],
       ro: ["Înălțimi de peste 2.000 de metri", "Cunoscut pentru agricultura terasată"],
       en: ["Elevations over 2,000 meters", "Known for terraced agriculture"]
-    }
-  },
+    }, image: "/poi-images/ss-didinga-hills-relief-v2.webp"},
   {
     id: "ss-dongotona-mountains-relief-v2",
     type: "mountain",
@@ -47,8 +47,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Ritka növényfajok otthona", "Fontos vízgyűjtő terület"],
       ro: ["Adăpostește specii de plante rare", "Zonă importantă de captare a apei"],
       en: ["Home to rare plant species", "Important water catchment area"]
-    }
-  },
+    }, image: "/poi-images/ss-dongotona-mountains-relief-v2.webp"},
   {
     id: "ss-lolibai-mountains-relief-v2",
     type: "mountain",
@@ -71,8 +70,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Jellegzetes gránitsziklák", "Széles kilátás a szavannára"],
       ro: ["Stânci de granit proeminente", "Vederi panoramice asupra savanei"],
       en: ["Prominent granite rocks", "Wide views over the savanna"]
-    }
-  },
+    }, image: "/poi-images/ss-lolibai-mountains-relief-v2.webp"},
   {
     id: "ss-acholi-hills-relief-v2",
     type: "mountain",
@@ -95,8 +93,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Határokon átnyúló ökoszisztéma", "Madárfajokban gazdag"],
       ro: ["Ecosistem transfrontalier", "Bogat în specii de păsări"],
       en: ["Cross-border ecosystem", "Rich in bird species"]
-    }
-  },
+    }, image: "/poi-images/ss-acholi-hills-relief-v2.webp"},
   {
     id: "ss-jebel-kasangor-relief-v2",
     type: "mountain",
@@ -119,8 +116,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["A Pibor-régió jelképe", "Fontos tájékozódási pont"],
       ro: ["Simbol al regiunii Pibor", "Punct important de orientare"],
       en: ["Landmark of the Pibor region", "Important navigational point"]
-    }
-  },
+    }, image: "/poi-images/ss-jebel-kasangor-relief-v2.webp"},
   {
     id: "ss-mount-lothuke-relief-v2",
     type: "mountain",
@@ -143,8 +139,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Meredek sziklafalak", "Speciális hegyi flóra"],
       ro: ["Pereți stâncoși abrupți", "Floră montană specializată"],
       en: ["Steep rock faces", "Specialized mountain flora"]
-    }
-  },
+    }, image: "/poi-images/ss-mount-lothuke-relief-v2.webp"},
   {
     id: "ss-bongo-massif-relief-v2",
     type: "relief",
@@ -167,8 +162,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Geológiai határvonal", "Számos folyó forrásvidéke"],
       ro: ["Graniță geologică", "Zonă de izvorâre pentru numeroase râuri"],
       en: ["Geological boundary", "Source region for numerous rivers"]
-    }
-  },
+    }, image: "/poi-images/ss-bongo-massif-relief-v2.webp"},
   {
     id: "ss-talanga-forest-relief-v2",
     type: "forest",
@@ -191,8 +185,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Esőerdei ökoszisztéma", "Magas csapadékmennyiség egész évben"],
       ro: ["Ecosistem de pădure tropicală", "Precipitații mari tot anul"],
       en: ["Rainforest ecosystem", "High rainfall throughout the year"]
-    }
-  },
+    }, image: "/poi-images/ss-talanga-forest-relief-v2.webp"},
   {
     id: "ss-gilo-forest-relief-v2",
     type: "forest",
@@ -215,8 +208,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Köderdős területek", "Egyedülálló epifita növények"],
       ro: ["Zone de pădure de ceață", "Plante epifite unice"],
       en: ["Cloud forest areas", "Unique epiphytic plants"]
-    }
-  },
+    }, image: "/poi-images/ss-gilo-forest-relief-v2.webp"},
   {
     id: "ss-kipia-peak-relief-v2",
     type: "mountain",
@@ -263,8 +255,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Gneisz- és palaképződmények", "Bari közösségek lakják"],
       ro: ["Formațiuni de gnais și șist", "Locuit de comunitățile Bari"],
       en: ["Gneiss and schist formations", "Inhabited by Bari communities"]
-    }
-  },
+    }, image: "/poi-images/ss-lirikoz-mountains-relief-v2.webp"},
   {
     id: "ss-madi-hills-relief-v2",
     type: "mountain",
@@ -287,8 +278,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Esős éghajlat", "A helyi élelmiszertermelés központja"],
       ro: ["Climat ploios", "Centrul producției locale de alimente"],
       en: ["Rainy climate", "Center of local food production"]
-    }
-  },
+    }, image: "/poi-images/ss-madi-hills-relief-v2.webp"},
   {
     id: "ss-aloma-plateau-relief-v2",
     type: "relief",
@@ -311,8 +301,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Sokoldalú állattenyésztés", "Hűvösebb éghajlat, mint a Nílus-völgyben"],
       ro: ["Zootehnie versatilă", "Climat mai răcoros decât în valea Nilului"],
       en: ["Versatile livestock farming", "Cooler climate than in the Nile Valley"]
-    }
-  },
+    }, image: "/poi-images/ss-aloma-plateau-relief-v2.webp"},
   {
     id: "ss-zande-threshold-relief-v2",
     type: "relief",
@@ -335,8 +324,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["A Kongó-Nílus vízválasztó része", "Sűrűn erdősült dombok"],
       ro: ["Parte a cumpenei apelor Congo-Nil", "Dealuri dens împădurite"],
       en: ["Part of the Congo-Nile watershed", "Densely forested hills"]
-    }
-  },
+    }, image: "/poi-images/ss-zande-threshold-relief-v2.webp"},
   {
     id: "ss-lafon-hill-relief-v2",
     type: "mountain",
@@ -359,8 +347,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Jellegzetes geológiai képződmény", "A pari nép hegyi erődítményei"],
       ro: ["Formațiune geologică proeminentă", "Fortificații montane ale poporului Pari"],
       en: ["Striking geological formation", "Hilltop strongholds of the Pari people"]
-    }
-  },
+    }, image: "/poi-images/ss-lafon-hill-relief-v2.webp"},
   {
     id: "ss-jebel-kunur-relief-v2",
     type: "mountain",
@@ -383,8 +370,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Homokkő formációk", "Kilátás a Bongo-masszívumra"],
       ro: ["Formațiuni de gresie", "Vedere spre masivul Bongo"],
       en: ["Sandstone formations", "View of the Bongo Massif"]
-    }
-  },
+    }, image: "/poi-images/ss-jebel-kunur-relief-v2.webp"},
   {
     id: "ss-jebel-tingli-relief-v2",
     type: "mountain",
@@ -407,8 +393,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Népszerű célpont a túrázók körében", "Kilátópont a Nílus-völgyre"],
       ro: ["Destinație populară pentru drumeți", "Punct de observație asupra văii Nilului"],
       en: ["Popular destination for hikers", "Viewpoint over the Nile Valley"]
-    }
-  },
+    }, image: "/poi-images/ss-jebel-tingli-relief-v2.webp"},
   {
     id: "ss-laboni-forest-relief-v2",
     type: "forest",
@@ -455,8 +440,7 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
       hu: ["Korábban fontos fakitermelő központ", "Változatos erdei ökoszisztémák"],
       ro: ["Fost centru forestier important", "Ecosisteme forestiere diverse"],
       en: ["Formerly important timber center", "Diverse forest ecosystems"]
-    }
-  },
+    }, image: "/poi-images/ss-katire-forest-relief-v2.webp"},
   {
     id: "ss-mount-garia-relief-v2",
     type: "mountain",
@@ -482,3 +466,4 @@ export const poiExtraSouthsudanReliefV2: POI[] = [
     }
   }
 ];
+

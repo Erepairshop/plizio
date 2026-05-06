@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMaliCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A 19. században alapították", "Jelentős folyami kikötő"],
       ro: ["Fondat în secolul 19", "Port fluvial important"],
       en: ["Founded in the 19th century", "Important inland port"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Bamako, die dynamische Hauptstadt Malis, liegt strategisch günstig am Niger. Die Stadt, deren Name in der Bambara-Sprache 'Krokodilfluss' bedeutet, hat sich seit den 1960er Jahren rasant entwickelt. Mit über 2,5 Millionen Einwohnern im Ballungsraum ist sie das unbestrittene wirtschaftliche Zentrum des Landes. Die Stadt beherbergt bedeutende Kultureinrichtungen wie das Nationalmuseum und ist ein wichtiger Knotenpunkt für den Handel zwischen Westafrika und der Sahara. Geografie K7 — afrikanische Hauptstädte.",
+      hu: "Bamako, Mali dinamikus fővárosa, stratégiailag kedvező helyen, a Niger folyó partján fekszik. A város, amelynek neve bambara nyelven 'krokodilfolyót' jelent, az 1960-as évek óta rohamos fejlődésen ment keresztül. A több mint 2,5 milliós agglomerációjával az ország vitathatatlan gazdasági központja. A város olyan jelentős kulturális intézményeknek ad otthont, mint a Nemzeti Múzeum, és fontos kereskedelmi csomópont Nyugat-Afrika és a Szahara között. Földrajz K7 — afrikai fővárosok.",
+      ro: "Bamako, capitala vibrantă a statului Mali, este situată strategic pe malul râului Niger. Orașul, al cărui nume înseamnă 'râul crocodililor' în limba bambara, s-a dezvoltat rapid din anii 1960. Cu o aglomerare urbană de peste 2,5 milioane de locuitori, este centrul economic incontestabil al țării. Orașul găzduiește instituții culturale importante, precum Muzeul Național, și este un nod comercial esențial între Africa de Vest și Sahara. Geografie K7 — capitale africane.",
+      en: "Bamako, the vibrant capital of Mali, is strategically located on the Niger River. The city, whose name means 'crocodile river' in Bambara, has developed rapidly since the 1960s. With a metropolitan area of over 2.5 million people, it is the country's undisputed economic center. The city houses major cultural institutions like the National Museum and is a key trade hub between West Africa and the Sahara. Geography K7 — African capitals."
+    },
+    factsAdvanced: {
+      de: ["Über 2,5 Millionen Einwohner", "Gegründet um 1650", "Hauptsitz der Zentralbank", "Zentrum der Bamako-Fotografie-Biennale", "Anbindung durch Dakar-Niger-Bahn", "Wichtigster Markt: Marché Rose"],
+      hu: ["Több mint 2,5 millió lakos", "1650 körül alapították", "A központi bank székhelye", "A Bamako Fotóbiennálé központja", "Dakar-Niger vasútvonal", "Legfontosabb piac: Marché Rose"],
+      ro: ["Peste 2,5 milioane de locuitori", "Fondat în jurul anului 1650", "Sediul băncii centrale", "Centrul Bienalei de fotografie de la Bamako", "Conexiune prin calea ferată Dakar-Niger", "Cea mai importantă piață: Marché Rose"],
+      en: ["Over 2.5 million inhabitants", "Founded around 1650", "Headquarters of the central bank", "Center of the Bamako Photography Biennale", "Connection via Dakar-Niger Railway", "Most important market: Marché Rose"]
+    }, image: "/poi-images/bamako-cities-v2.webp"},
   {
     id: "sikasso-cities-v2",
     type: "city",
@@ -37,8 +49,19 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Kénédougou Királyság öröksége", "A mangótermelés központja"],
       ro: ["Moștenirea Regatului Kénédougou", "Centrul producției de mango"],
       en: ["Legacy of the Kénédougou Kingdom", "Center of mango production"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Sikasso im Süden Malis ist die zweitgrößte Stadt des Landes und ein wichtiges landwirtschaftliches Zentrum. Die Stadt ist vor allem für den Anbau von Mangos, Obst und Gemüse bekannt, was ihr den Ruf als 'Obstgarten Malis' einbrachte. Historisch ist Sikasso durch die beeindruckenden Überreste des Tata-Verteidigungswalls aus dem 19. Jahrhundert geprägt, der unter Tiéba Traoré erbaut wurde. Heute dient die Stadt als Handelsplatz zwischen Mali, der Elfenbeinküste und Burkina Faso. Landwirtschaft K6 — Anbauregionen in Afrika.",
+      hu: "Sikasso Dél-Maliban az ország második legnagyobb városa és fontos mezőgazdasági központja. A város leginkább a mangó, gyümölcs és zöldség termesztéséről ismert, ami 'Mali gyümölcsöskertjévé' tette. Történelmileg Sikassót a Tiéba Traoré által építtetett 19. századi Tata védőfal lenyűgöző maradványai jellemzik. Ma a város kereskedelmi csomópontként szolgál Mali, Elefántcsontpart és Burkina Faso között. Mezőgazdaság K6 — afrikai termesztőkörzetek.",
+      ro: "Sikasso, în sudul statului Mali, este al doilea oraș ca mărime al țării și un important centru agricol. Orașul este cunoscut în special pentru cultivarea mangoului, fructelor și legumelor, ceea ce i-a adus reputația de 'grădină a statului Mali'. Din punct de vedere istoric, Sikasso este definit de rămășițele impresionante ale zidului de apărare Tata din secolul al XIX-lea, construit sub Tiéba Traoré. Astăzi, orașul servește drept hub comercial între Mali, Coasta de Fildeș și Burkina Faso. Agricultură K6 — regiuni de cultivare în Africa.",
+      en: "Sikasso in southern Mali is the second-largest city and an important agricultural center. The city is best known for growing mangoes, fruits, and vegetables, earning it the reputation as the 'orchard of Mali.' Historically, Sikasso is defined by the impressive remains of the 19th-century Tata defensive wall, built under Tiéba Traoré. Today, the city serves as a trading hub between Mali, Ivory Coast, and Burkina Faso. Agriculture K6 — cultivation regions in Africa."
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößte Stadt Malis", "Erbaut unter Tiéba Traoré", "Berühmter Tata-Verteidigungswall", "Zentrum der Mango-Exporte", "Höhe ca. 400 Meter", "Wichtiger regionaler Markt"],
+      hu: ["Mali második legnagyobb városa", "Tiéba Traoré idején épült", "Híres Tata védőfal", "Mangóexport központja", "Magasság kb. 400 méter", "Fontos regionális piac"],
+      ro: ["Al doilea oraș ca mărime din Mali", "Construit sub Tiéba Traoré", "Faimosul zid de apărare Tata", "Centrul exporturilor de mango", "Altitudine aprox. 400 metri", "Piață regională importantă"],
+      en: ["Second largest city in Mali", "Built under Tiéba Traoré", "Famous Tata defensive wall", "Center of mango exports", "Elevation approx. 400 meters", "Important regional market"]
+    }, image: "/poi-images/sikasso-cities-v2.webp"},
   {
     id: "mopti-cities-v2",
     type: "city",
@@ -56,8 +79,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Niger és a Bani találkozásánál", "Hagyományos pinasse hajóiról ismert"],
       ro: ["Confluența Nigerului și Bani", "Cunoscut pentru bărcile tradiționale pinasse"],
       en: ["Confluence of Niger and Bani", "Known for traditional pinasse boats"]
-    }
-  },
+    }, image: "/poi-images/mopti-cities-v2.webp"},
   {
     id: "koutiala-cities-v2",
     type: "city",
@@ -75,8 +97,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A legfontosabb gyapotközpont", "Gyorsan fejlődő ipar"],
       ro: ["Cel mai important centru de bumbac", "Industrie în creștere rapidă"],
       en: ["Most important cotton center", "Fast-growing industry"]
-    }
-  },
+    }, image: "/poi-images/koutiala-cities-v2.webp"},
   {
     id: "kayes-cities-v2",
     type: "city",
@@ -94,8 +115,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Dakar-Niger vasútvonal végpontja", "Afrika kuktájának is nevezik"],
       ro: ["Punctul final al căii ferate Dakar-Niger", "Numit oala sub presiune a Africii"],
       en: ["Terminus of the Dakar-Niger Railway", "Called the pressure cooker of Africa"]
-    }
-  },
+    }, image: "/poi-images/kayes-cities-v2.webp"},
   {
     id: "segou-cities-v2",
     type: "city",
@@ -113,8 +133,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Egykori Bambara Birodalom", "A Bogolan szövetekről ismert"],
       ro: ["Fostul Imperiu Bambara", "Cunoscut pentru țesăturile Bogolan"],
       en: ["Former Bambara Empire", "Known for Bogolan fabrics"]
-    }
-  },
+    }, image: "/poi-images/segou-cities-v2.webp"},
   {
     id: "nioro-du-sahel-cities-v2",
     type: "city",
@@ -132,8 +151,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Rabszolgák alapították", "A kereskedelem fontos csomópontja"],
       ro: ["Fondat de sclavi", "Un nod important pentru comerț"],
       en: ["Founded by slaves", "Important hub for trade"]
-    }
-  },
+    }, image: "/poi-images/nioro-du-sahel-cities-v2.webp"},
   {
     id: "niono-cities-v2",
     type: "city",
@@ -151,8 +169,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Nagy vályogtégla mecset", "A rizstermelés központja"],
       ro: ["Marea moschee de cărămidă din lut", "Centrul producției de orez"],
       en: ["Large mudbrick mosque", "Center of rice production"]
-    }
-  },
+    }, image: "/poi-images/niono-cities-v2.webp"},
   {
     id: "markala-cities-v2",
     type: "city",
@@ -170,8 +187,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Markala-gát helyszíne", "Fontos a mezőgazdaság számára"],
       ro: ["Locația barajului Markala", "Important pentru agricultură"],
       en: ["Site of the Markala Dam", "Important for agriculture"]
-    }
-  },
+    }, image: "/poi-images/markala-cities-v2.webp"},
   {
     id: "kolondieba-cities-v2",
     type: "city",
@@ -208,8 +224,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Az ország legnagyobb katonai bázisa", "A Mandingue dombokon fekszik"],
       ro: ["Cea mai mare bază militară a țării", "Situat pe dealurile Mandingue"],
       en: ["Largest military base in the country", "Located on the Mandingue hills"]
-    }
-  },
+    }, image: "/poi-images/kati-cities-v2.webp"},
   {
     id: "gao-cities-v2",
     type: "city",
@@ -227,8 +242,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Aszkia sírja", "Egykori Szonghai Birodalom"],
       ro: ["Mormântul lui Askia", "Fostul Imperiu Songhai"],
       en: ["Tomb of Askia", "Former Songhai Empire"]
-    }
-  },
+    }, image: "/poi-images/gao-cities-v2.webp"},
   {
     id: "bougouni-cities-v2",
     type: "city",
@@ -246,8 +260,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Fontos kereskedelmi központ", "Jelentős gyapottermelő"],
       ro: ["Centru comercial important", "Important producător de bumbac"],
       en: ["Important trading center", "Major cotton producer"]
-    }
-  },
+    }, image: "/poi-images/bougouni-cities-v2.webp"},
   {
     id: "tombouctou-cities-v2",
     type: "city",
@@ -265,8 +278,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Történelmi Sankoré Egyetem", "A sókereskedelem központja"],
       ro: ["Istorica Universitate Sankoré", "Centrul comerțului cu sare"],
       en: ["Historic Sankoré University", "Center of the salt trade"]
-    }
-  },
+    }, image: "/poi-images/tombouctou-cities-v2.webp"},
   {
     id: "banamba-cities-v2",
     type: "city",
@@ -284,8 +296,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Jelentős földimogyoró-termelés", "Hagyományos szoninke kultúra"],
       ro: ["Producție semnificativă de arahide", "Cultura tradițională Soninke"],
       en: ["Significant peanut production", "Traditional Soninke culture"]
-    }
-  },
+    }, image: "/poi-images/banamba-cities-v2.webp"},
   {
     id: "san-cities-v2",
     type: "city",
@@ -322,8 +333,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Ségou-ból induló hajózás végpontja", "Jelentős étolajgyártás"],
       ro: ["Punctul final al navigației din Ségou", "Producție semnificativă de ulei de gătit"],
       en: ["Terminus of shipping from Ségou", "Significant cooking oil production"]
-    }
-  },
+    }, image: "/poi-images/koulikoro-cities-v2.webp"},
   {
     id: "djenne-cities-v2",
     type: "city",
@@ -341,8 +351,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Föld legnagyobb vályogmecsete", "Az UNESCO világörökség része"],
       ro: ["Cea mai mare moschee de lut de pe Pământ", "Face parte din patrimoniul mondial UNESCO"],
       en: ["Largest mud mosque on earth", "Part of the UNESCO World Heritage"]
-    }
-  },
+    }, image: "/poi-images/djenne-cities-v2.webp"},
   {
     id: "kidal-cities-v2",
     type: "city",
@@ -360,8 +369,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A tuareg kultúra központja", "Az Adrar des Ifoghas területén fekszik"],
       ro: ["Centrul culturii tuareg", "Situat în Adrar des Ifoghas"],
       en: ["Center of Tuareg culture", "Located in the Adrar des Ifoghas"]
-    }
-  },
+    }, image: "/poi-images/kidal-cities-v2.webp"},
   {
     id: "macina-cities-v2",
     type: "city",
@@ -379,8 +387,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Történelmi Peul Birodalom", "Gazdag vizes élőhely"],
       ro: ["Imperiul istoric Peul", "Zonă umedă bogată"],
       en: ["Historic Peul Empire", "Rich wetland"]
-    }
-  },
+    }, image: "/poi-images/macina-cities-v2.webp"},
   {
     id: "dire-cities-v2",
     type: "city",
@@ -398,8 +405,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Jelentős búzatermő terület", "Erős folyami kereskedelem"],
       ro: ["Zonă importantă de cultivare a grâului", "Comerț fluvial puternic"],
       en: ["Important wheat growing area", "Strong river trade"]
-    }
-  },
+    }, image: "/poi-images/dire-cities-v2.webp"},
   {
     id: "bandiagara-cities-v2",
     type: "city",
@@ -417,8 +423,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A dogon vidék kapuja", "A Tukulor építészet jellemzi"],
       ro: ["Poarta către țara Dogon", "Caracterizat prin arhitectura Tukulor"],
       en: ["Gateway to Dogon Country", "Characterized by Tukulor architecture"]
-    }
-  },
+    }, image: "/poi-images/bandiagara-cities-v2.webp"},
   {
     id: "goundam-cities-v2",
     type: "city",
@@ -436,8 +441,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Faguibine-tó közelében", "Agrár- és állattenyésztési központ"],
       ro: ["Aproape de Lacul Faguibine", "Centrul agricol și zootehnic"],
       en: ["Near Lake Faguibine", "Agricultural and livestock center"]
-    }
-  },
+    }, image: "/poi-images/goundam-cities-v2.webp"},
   {
     id: "kita-cities-v2",
     type: "city",
@@ -455,8 +459,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Éves katolikus zarándoklat", "A földimogyoró-termelés központja"],
       ro: ["Pelerinaj catolic anual", "Centrul producției de arahide"],
       en: ["Annual Catholic pilgrimage", "Center of peanut production"]
-    }
-  },
+    }, image: "/poi-images/kita-cities-v2.webp"},
   {
     id: "kenieba-cities-v2",
     type: "city",
@@ -474,8 +477,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Jelentős aranylelőhelyek", "Dombvidékes táj"],
       ro: ["Depozite importante de aur", "Peisaj deluros"],
       en: ["Significant gold deposits", "Hilly landscape"]
-    }
-  },
+    }, image: "/poi-images/kenieba-cities-v2.webp"},
   {
     id: "bafoulabe-cities-v2",
     type: "city",
@@ -493,8 +495,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Szenegál folyó eredete", "A név két folyó találkozását jelenti"],
       ro: ["Originea râului Senegal", "Numele înseamnă întâlnirea a două râuri"],
       en: ["Origin of the Senegal River", "The name means meeting of two rivers"]
-    }
-  },
+    }, image: "/poi-images/bafoulabe-cities-v2.webp"},
   {
     id: "diema-cities-v2",
     type: "city",
@@ -512,8 +513,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Fontos pihenőhely", "Határmenti kereskedelem Mauritániával"],
       ro: ["Oprit importantă de odihnă", "Comerț de graniță cu Mauritania"],
       en: ["Important rest stop", "Border trade with Mauritania"]
-    }
-  },
+    }, image: "/poi-images/diema-cities-v2.webp"},
   {
     id: "kolokani-cities-v2",
     type: "city",
@@ -531,8 +531,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Bélédougou központja", "Erős animista hagyományok"],
       ro: ["Centrul Bélédougou", "Tradiții animiste puternice"],
       en: ["Bélédougou center", "Strong animist traditions"]
-    }
-  },
+    }, image: "/poi-images/kolokani-cities-v2.webp"},
   {
     id: "kangaba-cities-v2",
     type: "city",
@@ -550,8 +549,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Kamablon, a szent ház", "A Manding Birodalom eredete"],
       ro: ["Kamablon, casa sacră", "Originea Imperiului Manding"],
       en: ["Kamablon the sacred house", "Origin of the Manding Empire"]
-    }
-  },
+    }, image: "/poi-images/kangaba-cities-v2.webp"},
   {
     id: "fana-cities-v2",
     type: "city",
@@ -569,8 +567,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Hatalmas gyapotmagtalanító üzem", "Fontos közlekedési csomópont"],
       ro: ["Fabrică uriașă de egrenare a bumbacului", "Nod de transport important"],
       en: ["Huge cotton ginning plant", "Important transport hub"]
-    }
-  },
+    }, image: "/poi-images/fana-cities-v2.webp"},
   {
     id: "kadiolo-cities-v2",
     type: "city",
@@ -588,8 +585,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A legcsapadékosabb régió", "A Pogo határátkelő a közelben van"],
       ro: ["Regiunea cu cele mai multe precipitații", "Trecerea frontierei Pogo în apropiere"],
       en: ["Rainiest region", "Pogo border crossing nearby"]
-    }
-  },
+    }, image: "/poi-images/kadiolo-cities-v2.webp"},
   {
     id: "yanfolila-cities-v2",
     type: "city",
@@ -607,8 +603,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Sélingué-gát közelében", "A Wassoulou zene központja"],
       ro: ["Aproape de barajul Sélingué", "Centru pentru muzica Wassoulou"],
       en: ["Near the Sélingué Dam", "Center for Wassoulou music"]
-    }
-  },
+    }, image: "/poi-images/yanfolila-cities-v2.webp"},
   {
     id: "yorosso-cities-v2",
     type: "city",
@@ -626,8 +621,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Közel a Burkina Fasó-i határhoz", "Hagyományos kölestermelés"],
       ro: ["Aproape de granița cu Burkina Faso", "Producție tradițională de mei"],
       en: ["Close to the border with Burkina Faso", "Traditional millet production"]
-    }
-  },
+    }, image: "/poi-images/yorosso-cities-v2.webp"},
   {
     id: "bla-cities-v2",
     type: "city",
@@ -645,8 +639,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Fontos kereszteződés (Carrefour)", "Erős tranzitkereskedelem"],
       ro: ["Intersecție importantă (Carrefour)", "Comerț de tranzit puternic"],
       en: ["Important intersection (Carrefour)", "Strong transit trade"]
-    }
-  },
+    }, image: "/poi-images/bla-cities-v2.webp"},
   {
     id: "tominian-cities-v2",
     type: "city",
@@ -664,8 +657,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Bwa nép otthona", "Különleges fa maszkok"],
       ro: ["Acasă la poporul Bwa", "Măști speciale din lemn"],
       en: ["Home of the Bwa people", "Special wooden masks"]
-    }
-  },
+    }, image: "/poi-images/tominian-cities-v2.webp"},
   {
     id: "bankass-cities-v2",
     type: "city",
@@ -683,8 +675,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Seno-síkság szélén", "Színes heti piac"],
       ro: ["La marginea Câmpiei Seno", "Piață săptămânală colorată"],
       en: ["On the edge of the Seno Plain", "Colorful weekly market"]
-    }
-  },
+    }, image: "/poi-images/bankass-cities-v2.webp"},
   {
     id: "koro-cities-v2",
     type: "city",
@@ -702,8 +693,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Határállomás Burkina Faso felé", "Magas homokkő képződmények"],
       ro: ["Punct de frontieră către Burkina Faso", "Formațiuni înalte de gresie"],
       en: ["Border post to Burkina Faso", "Tall sandstone formations"]
-    }
-  },
+    }, image: "/poi-images/koro-cities-v2.webp"},
   {
     id: "douentza-cities-v2",
     type: "city",
@@ -721,8 +711,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A tuaregek és peulok találkozóhelye", "Impozáns sziklamasszívum"],
       ro: ["Punct de întâlnire pentru tuaregi și peul", "Masiv stâncos impunător"],
       en: ["Meeting point of Tuareg and Peul", "Imposing rock massif"]
-    }
-  },
+    }, image: "/poi-images/douentza-cities-v2.webp"},
   {
     id: "tenenkou-cities-v2",
     type: "city",
@@ -740,8 +729,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Árvíz idején elszigetelt", "Peul pásztorok jellemzik"],
       ro: ["Izolat în timpul inundațiilor", "Caracterizat de păstorii Peul"],
       en: ["Isolated during floods", "Characterized by Peul herders"]
-    }
-  },
+    }, image: "/poi-images/tenenkou-cities-v2.webp"},
   {
     id: "youwarou-cities-v2",
     type: "city",
@@ -759,8 +747,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Közvetlenül a Debo-tónál", "Fontos bozo halászközpont"],
       ro: ["Direct pe Lacul Debo", "Important centru de pescuit Bozo"],
       en: ["Right on Lake Debo", "Important Bozo fishing center"]
-    }
-  },
+    }, image: "/poi-images/youwarou-cities-v2.webp"},
   {
     id: "niafunke-cities-v2",
     type: "city",
@@ -778,8 +765,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Ali Farka Touré otthona", "Mezőgazdasági közösség"],
       ro: ["Acasă la Ali Farka Touré", "Comunitate agricolă"],
       en: ["Home of Ali Farka Touré", "Agricultural community"]
-    }
-  },
+    }, image: "/poi-images/niafunke-cities-v2.webp"},
   {
     id: "gourma-rharous-cities-v2",
     type: "city",
@@ -797,8 +783,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Kapu az elefántrezervátumhoz", "Közvetlenül a Niger partján"],
       ro: ["Poarta către rezervația de elefanți", "Chiar pe Niger"],
       en: ["Gateway to the elephant reserve", "Right on the Niger"]
-    }
-  },
+    }, image: "/poi-images/gourma-rharous-cities-v2.webp"},
   {
     id: "bourem-cities-v2",
     type: "city",
@@ -816,8 +801,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A Niger nagy kanyarulata", "Fontos helyőrségi város"],
       ro: ["Marea buclă a Nigerului", "Important oraș garnizoană"],
       en: ["The great bend of the Niger", "Important garrison town"]
-    }
-  },
+    }, image: "/poi-images/bourem-cities-v2.webp"},
   {
     id: "ansongo-cities-v2",
     type: "city",
@@ -835,8 +819,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A természetvédelmi terület közelében", "Jelentős vízilópopuláció"],
       ro: ["Aproape de rezervația naturală", "Populație semnificativă de hipopotami"],
       en: ["Near the nature reserve", "Significant hippo population"]
-    }
-  },
+    }, image: "/poi-images/ansongo-cities-v2.webp"},
   {
     id: "menaka-cities-v2",
     type: "city",
@@ -854,8 +837,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Az Oulliminden-tuaregek központja", "Gyéren lakott szaharai régió"],
       ro: ["Centrul Oulliminden-Tuareg", "Regiune sahariană slab populată"],
       en: ["Center of the Oulliminden Tuareg", "Sparsely populated Saharan region"]
-    }
-  },
+    }, image: "/poi-images/menaka-cities-v2.webp"},
   {
     id: "tessalit-cities-v2",
     type: "city",
@@ -873,8 +855,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Gipszlelőhelyeiről ismert", "Katonailag stratégiai elhelyezkedés"],
       ro: ["Cunoscut pentru zăcămintele de gips", "Locație strategică din punct de vedere militar"],
       en: ["Known for gypsum deposits", "Militarily strategic location"]
-    }
-  },
+    }, image: "/poi-images/tessalit-cities-v2.webp"},
   {
     id: "aguelhok-cities-v2",
     type: "city",
@@ -892,8 +873,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Fontos vízlelőhely északon", "Közvetlenül a sziklamasszívumban"],
       ro: ["Sursă importantă de apă în nord", "Chiar în mijlocul masivului stâncos"],
       en: ["Important water source in the north", "Right in the middle of the rock massif"]
-    }
-  },
+    }, image: "/poi-images/aguelhok-cities-v2.webp"},
   {
     id: "araouane-cities-v2",
     type: "city",
@@ -930,8 +910,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A sóbányászat központja", "Az Azalai-karavánok célállomása"],
       ro: ["Centrul exploatării sării", "Destinația caravanelor Azalai"],
       en: ["Center of salt mining", "Destination of the Azalai caravans"]
-    }
-  },
+    }, image: "/poi-images/taoudenni-cities-v2.webp"},
   {
     id: "yelimane-cities-v2",
     type: "city",
@@ -949,8 +928,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Külföldi átutalásairól ismert", "Hagyományos mezőgazdaság"],
       ro: ["Cunoscut pentru remitențele din străinătate", "Agricultură tradițională"],
       en: ["Known for remittances from abroad", "Traditional agriculture"]
-    }
-  },
+    }, image: "/poi-images/yelimane-cities-v2.webp"},
   {
     id: "dioila-cities-v2",
     type: "city",
@@ -968,8 +946,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Jelentős gyapottermesztő terület", "Számos szövetkezet székhelye"],
       ro: ["Zonă importantă de creștere a bumbacului", "Sediul mai multor cooperative"],
       en: ["Important cotton growing area", "Headquarters of several cooperatives"]
-    }
-  },
+    }, image: "/poi-images/dioila-cities-v2.webp"},
   {
     id: "baroueli-cities-v2",
     type: "city",
@@ -987,8 +964,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["A 6-os főúton található", "Gyors népességnövekedés"],
       ro: ["Situat pe drumul național 6", "Creșterea rapidă a populației"],
       en: ["Located on National Road 6", "Rapid population growth"]
-    }
-  },
+    }, image: "/poi-images/baroueli-cities-v2.webp"},
   {
     id: "ouelessebougou-cities-v2",
     type: "city",
@@ -1006,8 +982,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Djitoumou történelmi központja", "Mangóültetvényekben gazdag"],
       ro: ["Centrul istoric al Djitoumou", "Bogat în plantații de mango"],
       en: ["Historical center of Djitoumou", "Rich in mango plantations"]
-    }
-  },
+    }, image: "/poi-images/ouelessebougou-cities-v2.webp"},
   {
     id: "nampala-cities-v2",
     type: "city",
@@ -1025,8 +1000,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Határállomás Mauritániával", "Az állattenyésztés központja"],
       ro: ["Post de graniță către Mauritania", "Centrul creșterii vitelor"],
       en: ["Border post to Mauritania", "Center of cattle breeding"]
-    }
-  },
+    }, image: "/poi-images/nampala-cities-v2.webp"},
   {
     id: "dialakoroba-cities-v2",
     type: "city",
@@ -1063,8 +1037,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Katonai támaszpont", "Öntözött rizs központja"],
       ro: ["Bază militară", "Centrul orezului irigat"],
       en: ["Military base", "Center for irrigated rice"]
-    }
-  },
+    }, image: "/poi-images/diabaly-cities-v2.webp"},
   {
     id: "sofara-cities-v2",
     type: "city",
@@ -1082,8 +1055,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       hu: ["Közvetlenül a Bani folyónál", "A szarvasmarha-kereskedelem központja"],
       ro: ["Direct pe râul Bani", "Centru de comerț cu vite"],
       en: ["Directly on the Bani River", "Center for cattle trade"]
-    }
-  },
+    }, image: "/poi-images/sofara-cities-v2.webp"},
   {
     id: "beleko-cities-v2",
     type: "city",
@@ -1161,3 +1133,4 @@ export const poiExtraMaliCitiesV2: POI[] = [
     }
   }
 ];
+

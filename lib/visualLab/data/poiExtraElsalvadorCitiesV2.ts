@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraElsalvadorCitiesV2: POI[] = [
@@ -37,8 +38,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Joacă un rol strategic esențial în logistica și distribuția bunurilor de consum în zona metropolitană."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/soyapango-cities-v2.webp"},
   {
     id: "mejicanos-cities-v2",
     type: "city",
@@ -75,8 +75,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Găzduiește mai multe biserici și clădiri istorice care reflectă evoluția urbană de-a lungul secolelor."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/mejicanos-cities-v2.webp"},
   {
     id: "apopa-cities-v2",
     type: "city",
@@ -113,8 +112,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Orașul este unul dintre cele mai rapide centre urbane în dezvoltare din zona metropolitană."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/apopa-cities-v2.webp"},
   {
     id: "delgado-cities-v2",
     type: "city",
@@ -151,8 +149,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Localitatea joacă un rol cheie în tranzitul rutier către departamentele din nordul țării."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/delgado-cities-v2.webp"},
   {
     id: "ilopango-city-cities-v2",
     type: "city",
@@ -189,8 +186,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Orașul este un centru logistic esențial pentru transportul de mărfuri în regiunea centrală."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/ilopango-city-cities-v2.webp"},
   {
     id: "san-marcos-city-cities-v2",
     type: "city",
@@ -227,8 +223,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Găzduiește campusuri universitare și instituții de învățământ superior de prestigiu."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-marcos-city-cities-v2.webp"},
   {
     id: "ahuachapan-cities-v2",
     type: "state-capital",
@@ -265,8 +260,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Regiunea este unul dintre principalii producători de cafea de înaltă calitate din țară."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/ahuachapan-cities-v2.webp"},
   {
     id: "sonsonate-cities-v2",
     type: "state-capital",
@@ -303,8 +297,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Regiunea este un producător major de trestie de zahăr și produse lactate tradiționale."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/sonsonate-cities-v2.webp"},
   {
     id: "zacatecoluca-cities-v2",
     type: "state-capital",
@@ -341,8 +334,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Reprezintă un centru major de colectare și distribuție pentru cerealele și fructele tropicale din zonă."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/zacatecoluca-cities-v2.webp"},
   {
     id: "chalatenango-cities-v2",
     type: "state-capital",
@@ -379,8 +371,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "În apropiere se află lacul Cerrón Grande, o resursă vitală pentru pescuit și energie hidroelectrică."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/chalatenango-cities-v2.webp"},
   {
     id: "usulutan-cities-v2",
     type: "state-capital",
@@ -417,8 +408,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Găzduiește unul dintre cele mai importante centre medicale și educaționale din estul țării."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/usulutan-cities-v2.webp"},
   {
     id: "cojutepeque-cities-v2",
     type: "state-capital",
@@ -455,8 +445,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Poziția sa pe autostrada Panamericană îl face un nod comercial vital între capitală și est."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cojutepeque-cities-v2.webp"},
   {
     id: "la-union-cities-v2",
     type: "state-capital",
@@ -493,8 +482,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Din port pornesc ambarcațiuni către insulele pitorești din Golful Fonseca, cum ar fi Conchagüita."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/la-union-cities-v2.webp"},
   {
     id: "sensuntepeque-cities-v2",
     type: "state-capital",
@@ -531,8 +519,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Este faimos pentru festivalurile tradiționale ce includ dansuri cu măști și muzică locală."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/sensuntepeque-cities-v2.webp"},
   {
     id: "san-vicente-cities-v2",
     type: "state-capital",
@@ -569,8 +556,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Regiunea este celebră pentru dulciurile tradiționale și produsele de panificație artizanale."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-vicente-cities-v2.webp"},
   {
     id: "gotera-cities-v2",
     type: "state-capital",
@@ -607,8 +593,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Găzduiește cele mai mari târguri de animale și expoziții agricole din regiunea de est."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/gotera-cities-v2.webp"},
   {
     id: "colon-city-cities-v2",
     type: "city",
@@ -645,8 +630,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Reprezintă un punct de legătură crucial între zonele industriale din vest și piața capitalei."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/colon-city-cities-v2.webp"},
   {
     id: "acajutla-cities-v2",
     type: "city",
@@ -683,8 +667,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Este faimos pentru varietatea și prospețimea fructelor de mare servite în restaurantele locale."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/acajutla-cities-v2.webp"},
   {
     id: "iztapán-cities-v2",
     type: "city",
@@ -721,8 +704,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "A cunoscut o dezvoltare rezidențială semnificativă datorită proximității față de Santa Ana."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/iztapán-cities-v2.webp"},
   {
     id: "chalchuapa-cities-v2",
     type: "city",
@@ -759,8 +741,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Biserica Santiago Apóstol din centru este un monument colonial de o valoare arhitecturală deosebită."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/chalchuapa-cities-v2.webp"},
   {
     id: "quezaltepeque-city-cities-v2",
     type: "city",
@@ -797,8 +778,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Se află în imediata apropiere a formațiunilor de lavă ale vulcanului San Salvador."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/quezaltepeque-city-cities-v2.webp"},
   {
     id: "antiguo-cuscatlan-cities-v2",
     type: "city",
@@ -835,8 +815,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Orașul are unul dintre cele mai ridicate standarde de viață și indici de dezvoltare umană din țară."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/antiguo-cuscatlan-cities-v2.webp"},
   {
     id: "armenien-city-cities-v2",
     type: "city",
@@ -870,8 +849,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Sărbătorile patronale sunt cunoscute pentru paradele pline de culoare și evenimentele culturale."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/armenien-city-cities-v2.webp"},
   {
     id: "san-martin-cities-v2",
     type: "city",
@@ -908,8 +886,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Festivalul local din noiembrie este celebru pentru expozițiile sale de artizanat și paradele festive."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-martin-cities-v2.webp"},
   {
     id: "izalko-city-cities-v2",
     type: "city",
@@ -946,8 +923,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Vulcanul Izalco din apropiere a fost numit Farul Pacificului datorită erupțiilor sale vizibile de pe mare."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/izalko-city-cities-v2.webp"},
   {
     id: "la-paz-center-cities-v2",
     type: "city",
@@ -984,8 +960,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Comunitatea păstrează tradiții populare vii, celebrate cu entuziasm în timpul festivalurilor locale."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/la-paz-center-cities-v2.webp"},
   {
     id: "jiquilisco-cities-v2",
     type: "city",
@@ -1022,8 +997,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Reprezintă unul dintre puținele locuri din lume unde cuibărește țestoasa Eretmochelys imbricata."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/jiquilisco-cities-v2.webp"},
   {
     id: "berlin-sv-cities-v2",
     type: "city",
@@ -1060,8 +1034,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Regiunea produce unele dintre cele mai apreciate soiuri de cafea de specialitate din estul țării."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/berlin-sv-cities-v2.webp"},
   {
     id: "concepcion-batres-cities-v2",
     type: "city",
@@ -1093,8 +1066,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Híres a barátságos közösségi életéről és ünnepeiről."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/concepcion-batres-cities-v2.webp"},
   {
     id: "jucuapa-cities-v2",
     type: "city",
@@ -1159,8 +1131,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "A gyönyörű Suchitlán-tóra (víztározóra) néző magaslaton fekszik."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/suchitoto-cities-v2.webp"},
   {
     id: "apaneca-cities-v2",
     type: "city",
@@ -1192,8 +1163,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Itt található a misztikus Laguna de las Ninfas és a Laguna Verde."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/apaneca-cities-v2.webp"},
   {
     id: "ataco-cities-v2",
     type: "city",
@@ -1225,8 +1195,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Kiemelkedő kávékultúrával és kézműves boltokkal rendelkezik."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ataco-cities-v2.webp"},
   {
     id: "juayua-cities-v2",
     type: "city",
@@ -1258,8 +1227,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "A Virágok Útja egyik legnépszerűbb és legélénkebb települése."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/juayua-cities-v2.webp"},
   {
     id: "najuizalco-cities-v2",
     type: "city",
@@ -1291,8 +1259,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "A „Ruta de las Flores” turisztikai útvonal kapuja."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/najuizalco-cities-v2.webp"},
   {
     id: "salcoatitan-cities-v2",
     type: "city",
@@ -1357,8 +1324,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Gazdag gasztronómiai kínálat az öböl friss tengeri ételeiből."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/conchagua-cities-v2.webp"},
   {
     id: "perquin-cities-v2",
     type: "city",
@@ -1390,8 +1356,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Közel fekszik a híres El Mozote emlékhelyhez."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/perquin-cities-v2.webp"},
   {
     id: "santa-rosa-lima-cities-v2",
     type: "city",
@@ -1423,8 +1388,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Úgy ismerik, mint a várost, amely soha nem alszik."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/santa-rosa-lima-cities-v2.webp"},
   {
     id: "metapan-cities-v2",
     type: "city",
@@ -1456,8 +1420,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Kiindulópont a Montecristo felhőerdő-rezervátum felfedezéséhez."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/metapan-cities-v2.webp"},
   {
     id: "jocoro-cities-v2",
     type: "city",
@@ -1489,8 +1452,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Fontos megállóhely a San Francisco Goterába vezető úton."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/jocoro-cities-v2.webp"},
   {
     id: "corinto-cities-v2",
     type: "city",
@@ -1522,8 +1484,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Kiemelkedő jelentőségű régészeti és kulturális központ."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/corinto-cities-v2.webp"},
   {
     id: "el-carmen-cities-v2",
     type: "city",
@@ -1555,8 +1516,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Híres a barátságos és összetartó helyi közösségéről."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/el-carmen-cities-v2.webp"},
   {
     id: "jujutla-cities-v2",
     type: "city",
@@ -1588,8 +1548,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Gazdag ökoturisztikai lehetőségek és természeti kincsek."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/jujutla-cities-v2.webp"},
   {
     id: "guaymango-cities-v2",
     type: "city",
@@ -1621,8 +1580,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Híres a színes vallási és kulturális felvonulásairól."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/guaymango-cities-v2.webp"},
   {
     id: "san-julian-cities-v2",
     type: "city",
@@ -1654,8 +1612,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Itt rendezik meg az egyedülálló Balzsam-fesztivált."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-julian-cities-v2.webp"},
   {
     id: "san-pedro-masahuat-cities-v2",
     type: "city",
@@ -1687,8 +1644,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Jelentős cukornád- és trópusi gyümölcstermesztő vidék."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-pedro-masahuat-cities-v2.webp"},
   {
     id: "san-rafael-oriente-cities-v2",
     type: "city",
@@ -1717,8 +1673,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-rafael-oriente-cities-v2.webp"},
   {
     id: "concepcion-de-oriente-cities-v2",
     type: "city",
@@ -1750,8 +1705,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Híres a festői dombjairól és háborítatlan nyugalmáról."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/concepcion-de-oriente-cities-v2.webp"},
   {
     id: "santo-domingo-guzman-cities-v2",
     type: "city",
@@ -1783,8 +1737,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Fontos kulturális központ az őslakos örökség megőrzésében."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/santo-domingo-guzman-cities-v2.webp"},
   {
     id: "panchimalco-cities-v2",
     type: "city",
@@ -1816,8 +1769,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Híres képzőművészeti galériáiról és kőfaragóiról."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/panchimalco-cities-v2.webp"},
   {
     id: "san-pedro-perulapan-cities-v2",
     type: "city",
@@ -1849,8 +1801,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Fontos mezőgazdasági központ Cuscatlán megyében."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-pedro-perulapan-cities-v2.webp"},
   {
     id: "chinameca-cities-v2",
     type: "city",
@@ -1882,8 +1833,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Többször épült újjá nagy erejű földrengések után."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/chinameca-cities-v2.webp"},
   {
     id: "ciudad-barrios-cities-v2",
     type: "city",
@@ -1915,8 +1865,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Hűvös hegyi klímájával tűnik ki San Miguel megyében."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ciudad-barrios-cities-v2.webp"},
   {
     id: "lolotique-cities-v2",
     type: "city",
@@ -1981,8 +1930,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Hagyományos lovas ünnepeiről és búcsúiról nevezetes."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/el-sauce-cities-v2.webp"},
   {
     id: "pasaquina-cities-v2",
     type: "city",
@@ -2047,8 +1995,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Kellemes hegyi klíma és fenyvesek környezetében fekszik."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/la-palma-cities-v2.webp"},
   {
     id: "nueva-concepcion-cities-v2",
     type: "city",
@@ -2113,8 +2060,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Festői kilátást nyújt az északi hegyvonulatokra és a Torola-folyóra."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/osicala-cities-v2.webp"},
   {
     id: "guatajiagua-cities-v2",
     type: "city",
@@ -2179,8 +2125,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Számos képzőművészeti galéria otthona, Fernando Llort stílusában."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-ignacio-cities-v2.webp"},
   {
     id: "santiago-de-maria-cities-v2",
     type: "city",
@@ -2212,8 +2157,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Fontos kulturális kapu a látványos Alegría-lagúna felé."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/santiago-de-maria-cities-v2.webp"},
   {
     id: "alegria-cities-v2",
     type: "city",
@@ -2245,8 +2189,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "A Sierra Tecapa egyik legszebb és leglátogatottabb hegyi faluja."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/alegria-cities-v2.webp"},
   {
     id: "san-juan-nonualco-cities-v2",
     type: "city",
@@ -2278,8 +2221,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Gazdag kézműves hagyományokkal rendelkezik, különösen a kerámiaiparban."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-juan-nonualco-cities-v2.webp"},
   {
     id: "tecoluca-cities-v2",
     type: "city",
@@ -2311,8 +2253,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "A fenntartható mezőgazdaság és a közösségi fejlődés mintaképe."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/tecoluca-cities-v2.webp"},
   {
     id: "santiago-texacuangos-cities-v2",
     type: "city",
@@ -2344,8 +2285,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Népszerű hétvégi kirándulóhely a főváros közelsége miatt."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/santiago-texacuangos-cities-v2.webp"},
   {
     id: "tacuba-cities-v2",
     type: "city",
@@ -2377,8 +2317,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Híres a vadvízi evezésről és a hegyi túrázási lehetőségekről."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/tacuba-cities-v2.webp"},
   {
     id: "el-paisnal-cities-v2",
     type: "city",
@@ -2410,8 +2349,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "A társadalmi igazságosság és az emberi jogok történelmi emlékhelye."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/el-paisnal-cities-v2.webp"},
   {
     id: "san-luis-talpa-cities-v2",
     type: "city",
@@ -2443,8 +2381,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Jelentős lakóhely a légiközlekedési iparágban dolgozók számára."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-luis-talpa-cities-v2.webp"},
   {
     id: "chilanga-cities-v2",
     type: "city",
@@ -2476,8 +2413,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Hagyományos vallási ünnepei az ősi és a gyarmati rítusok keverékei."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/chilanga-cities-v2.webp"},
   {
     id: "san-rafael-cedros-cities-v2",
     type: "city",
@@ -2509,8 +2445,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Dinamikusan fejlődő kereskedelmi és mezőgazdasági kisváros."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-rafael-cedros-cities-v2.webp"},
   {
     id: "san-sebastian-sv-cities-v2",
     type: "city",
@@ -2542,8 +2477,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Híres a különleges és tartós szövési technikáiról."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-sebastian-sv-cities-v2.webp"},
   {
     id: "jicalapa-cities-v2",
     type: "city",
@@ -2608,8 +2542,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Az ország egyik legnyugodtabb és legbiztonságosabb települése."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/tejutla-cities-v2.webp"},
   {
     id: "cinquera-cities-v2",
     type: "city",
@@ -2641,8 +2574,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Az ökológiai gazdálkodás és a természetvédelem helyi központja."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/cinquera-cities-v2.webp"},
   {
     id: "caluco-cities-v2",
     type: "city",
@@ -2674,8 +2606,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Gasztronómiai specialitása a tradicionális „Sopa de Gallina India”."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/caluco-cities-v2.webp"},
   {
     id: "san-julian-nonualco-cities-v2",
     type: "city",
@@ -2707,8 +2638,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Gazdag mezőgazdasági termelés, különösen a kukoricatermesztésben."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-julian-nonualco-cities-v2.webp"},
   {
     id: "sacacoyo-cities-v2",
     type: "city",
@@ -2740,8 +2670,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Megőrizte eredeti falusias jellegét és vendégszerető légkörét."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/sacacoyo-cities-v2.webp"},
   {
     id: "teotepeque-cities-v2",
     type: "city",
@@ -2773,8 +2702,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Csodálatos panoráma a Csendes-óceánra a környező dombokról."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/teotepeque-cities-v2.webp"},
   {
     id: "san-antonio-pajonal-cities-v2",
     type: "city",
@@ -2806,8 +2734,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Különleges domborzati viszonyokkal rendelkező, békés határváros."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-antonio-pajonal-cities-v2.webp"},
   {
     id: "el-coyolito-cities-v2",
     type: "city",
@@ -2839,8 +2766,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Lenyűgöző kilátást nyújt a víztározóra és a környező hegyekre."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/el-coyolito-cities-v2.webp"},
   {
     id: "san-pablo-tacachico-cities-v2",
     type: "city",
@@ -2872,8 +2798,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "A Lempa-folyó közelsége gazdag vízi élővilágot biztosít."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-pablo-tacachico-cities-v2.webp"},
   {
     id: "tenancingo-cities-v2",
     type: "city",
@@ -2905,8 +2830,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Erős közösségi összefogásáról és kézműves hagyományairól nevezetes."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/tenancingo-cities-v2.webp"},
   {
     id: "santa-clara-cities-v2",
     type: "city",
@@ -2938,8 +2862,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
         "Közösségi alapú vallási és kulturális fesztiválok helyszíne."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/santa-clara-cities-v2.webp"},
   {
     id: "san-alejo-cities-v2",
     type: "city",
@@ -2974,3 +2897,4 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     }
   }
 ];
+

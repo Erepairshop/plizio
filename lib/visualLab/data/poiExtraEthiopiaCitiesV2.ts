@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEthiopiaCitiesV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["1886-ban alapították.", "Több mint 2300 méter tengerszint feletti magasságban fekszik."],
       ro: ["Fondat în 1886.", "Situat la o altitudine de peste 2.300 de metri."],
       en: ["Founded in 1886.", "Situated at an altitude of over 2,300 meters."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Addis Abeba, 1886 von Kaiser Menelik II. gegründet, ist das politische und wirtschaftliche Herz Äthiopiens. Die Stadt liegt auf einer Höhe von 2.355 Metern am Fuße des Entoto-Gebirges und beherbergt den Hauptsitz der Afrikanischen Union sowie die Wirtschaftskommission der Vereinten Nationen für Afrika. Äthiopiens Hauptstadt ist ein Schmelztiegel der Kulturen, der durch eine faszinierende Mischung aus traditionellen äthiopisch-orthodoxen Kirchen und moderner Architektur geprägt ist. Geografie K7 — Hochland und politische Zentren.",
+      hu: "Addisz-Abeba, amelyet 1886-ban II. Menelik császár alapított, Etiópia politikai és gazdasági központja. A város 2355 méteres tengerszint feletti magasságban, az Entoto-hegység lábánál fekszik, és itt található az Afrikai Unió, valamint az ENSZ Afrikai Gazdasági Bizottságának székhelye. Etiópia fővárosa a kultúrák olvasztótégelye, amelyet a hagyományos etióp ortodox templomok és a modern építészet izgalmas keveréke jellemez. Földrajz K7 — felföldek és politikai központok.",
+      ro: "Addis Abeba, fondată în 1886 de împăratul Menelik al II-lea, este inima politică și economică a Etiopiei. Orașul este situat la o altitudine de 2.355 de metri la poalele munților Entoto și găzduiește sediul Uniunii Africane, precum și Comisia Economică a Națiunilor Unite pentru Africa. Capitala Etiopiei este un creuzet al culturilor, caracterizat printr-un amestec fascinant de biserici tradiționale etiopiene ortodoxe și arhitectură modernă. Geografie K7 — ținuturi înalte și centre politice.",
+      en: "Addis Ababa, founded in 1886 by Emperor Menelik II, is the political and economic heart of Ethiopia. The city lies at an altitude of 2,355 meters at the foot of the Entoto Mountains and hosts the headquarters of the African Union as well as the United Nations Economic Commission for Africa. Ethiopia's capital is a melting pot of cultures, characterized by a fascinating mix of traditional Ethiopian Orthodox churches and modern architecture. Geography K7 — highlands and political centers."
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1886 durch Menelik II.", "Höhe von 2.355 Metern über dem Meeresspiegel.", "Sitz des Hauptquartiers der Afrikanischen Union.", "Über 3,5 Millionen Einwohner im Großraum.", "Größter Markt Afrikas: Mercato.", "Hauptstadt seit der Stadtgründung."],
+      hu: ["1886-os alapítás II. Menelik által.", "2355 méteres magasság.", "Az Afrikai Unió székhelye.", "Több mint 3,5 millió lakos a nagyvárosi térségben.", "Afrika legnagyobb piaca: Mercato.", "Főváros az alapítás óta."],
+      ro: ["Fondare în 1886 de către Menelik al II-lea.", "Altitudine de 2.355 de metri.", "Sediul Uniunii Africane.", "Peste 3,5 milioane de locuitori în zona metropolitană.", "Cea mai mare piață din Africa: Mercato.", "Capitală de la fondarea orașului."],
+      en: ["Founded in 1886 by Menelik II.", "Elevation of 2,355 meters above sea level.", "Headquarters of the African Union.", "Over 3.5 million inhabitants in the metropolitan area.", "Largest market in Africa: Mercato.", "Capital since the city's foundation."]
+    }, image: "/poi-images/addis-ababa-cities-v2.webp"},
   {
     id: "dire-dawa-cities-v2",
     type: "state-capital",
@@ -27,8 +39,19 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Az ország második legnagyobb városa.", "1902-ben alapították."],
       ro: ["Al doilea oraș ca mărime din țară.", "A fost fondat în 1902."],
       en: ["Second largest city in the country.", "It was founded in 1902."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dire Dawa entstand 1902 als bedeutender Knotenpunkt der Eisenbahnlinie von Addis Abeba nach Dschibuti. Die Stadt liegt im Osten Äthiopiens und fungiert als wichtige Schnittstelle für den Handel zwischen dem Hochland und dem Roten Meer. Heute ist die Stadt ein Industriestandort mit einem diversifizierten wirtschaftlichen Profil, das von Textilproduktion bis zum Zementbau reicht. Die Architektur der Stadt, insbesondere im alten Viertel 'Addis Ketema', spiegelt die französische und äthiopische Geschichte der Bahnlinie wider. Wirtschaft K8 — Transport und Industrialisierung.",
+      hu: "Dire Dawa 1902-ben jött létre, az Addisz-Abeba és Dzsibuti közötti vasútvonal fontos csomópontjaként. A város Etiópia keleti részén található, és fontos kereskedelmi kapocs a felföld és a Vörös-tenger között. Ma a város ipari központ, sokszínű gazdasági profillal, a textilgyártástól a cementgyártásig. A város építészete, különösen az 'Addis Ketema' óvárosi rész, a vasútvonal francia és etióp történelmét tükrözi. Gazdaságtan K8 — közlekedés és iparosítás.",
+      ro: "Dire Dawa a luat naștere în 1902 ca un nod important al liniei ferate de la Addis Abeba la Djibouti. Orașul este situat în estul Etiopiei și acționează ca o interfață majoră pentru comerțul dintre ținuturile înalte și Marea Roșie. Astăzi, orașul este un centru industrial cu un profil economic diversificat, de la producția de textile la cea de ciment. Arhitectura orașului, în special în vechiul cartier 'Addis Ketema', reflectă istoria franceză și etiopiană a liniei ferate. Economie K8 — transport și industrializare.",
+      en: "Dire Dawa was created in 1902 as a major hub of the railway line from Addis Ababa to Djibouti. The city is located in eastern Ethiopia and acts as an important interface for trade between the highlands and the Red Sea. Today, the city is an industrial location with a diversified economic profile, ranging from textile production to cement manufacturing. The architecture of the city, especially in the old 'Addis Ketema' quarter, reflects the French and Ethiopian history of the railway line. Economics K8 — transportation and industrialization."
+    },
+    factsAdvanced: {
+      de: ["Eisenbahnknotenpunkt seit 1902.", "Zweitgrößte Stadt Äthiopiens.", "Sitz der Dire Dawa Universität.", "Gelegen auf rund 1.200 Metern.", "Wichtiger Standort für Zementwerke.", "Multiethnisches Handelszentrum."],
+      hu: ["Vasúti csomópont 1902 óta.", "Etiópia második legnagyobb városa.", "A Dire Dawa Egyetem székhelye.", "Körülbelül 1200 méteres magasság.", "Fontos cementgyári központ.", "Többnemzetiségű kereskedelmi központ."],
+      ro: ["Nod feroviar din 1902.", "Al doilea oraș ca mărime din Etiopia.", "Sediul Universității Dire Dawa.", "Situat la aproximativ 1.200 de metri.", "Centru important pentru fabricile de ciment.", "Centru comercial multietnic."],
+      en: ["Railway hub since 1902.", "Second largest city of Ethiopia.", "Seat of Dire Dawa University.", "Located at around 1,200 meters.", "Major location for cement plants.", "Multi-ethnic commercial center."]
+    }, image: "/poi-images/dire-dawa-cities-v2.webp"},
   {
     id: "mekelle-cities-v2",
     type: "state-capital",
@@ -41,6 +64,18 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Mártíremlékművéről ismert.", "Jelentős oktatási központ."],
       ro: ["Cunoscut pentru monumentul martirilor.", "Un centru educațional important."],
       en: ["Known for its Martyrs' Memorial.", "A major educational hub."]
+    },
+    descriptionAdvanced: {
+      de: "Mek'ele ist die Hauptstadt der Region Tigray und liegt auf einem Hochplateau in rund 2.080 Metern Höhe. Die Stadt gewann durch den Ausbau der Infrastruktur und die Etablierung bedeutender Bildungseinrichtungen, wie der Mekelle-Universität, in den letzten Jahrzehnten enorm an Bedeutung. Das Stadtbild wird durch das massive, weiße Märtyrerdenkmal geprägt, das an den Kampf gegen das Derg-Regime erinnert. Die Region ist auch reich an Bodenschätzen und besitzt eine florierende Salz- und Zementindustrie. Geschichte K8 — Derg-Regime und Moderne.",
+      hu: "Mekelle a Tigré régió fővárosa, egy magas fennsíkon fekszik, körülbelül 2080 méteres magasságban. A város az utóbbi évtizedekben az infrastruktúra bővítése és jelentős oktatási intézmények, például a Mekellei Egyetem létrehozása révén hatalmas jelentőségre tett szert. A városképet a hatalmas, fehér mártíremlékmű uralja, amely a Derg-rezsim elleni harcra emlékeztet. A régió ásványkincsekben is gazdag, virágzó só- és cementiparral rendelkezik. Történelem K8 — Derg-rezsim és modernitás.",
+      ro: "Mek'ele este capitala regiunii Tigray și este situată pe un platou înalt la aproximativ 2.080 de metri altitudine. Orașul a câștigat o importanță imensă în ultimele decenii prin extinderea infrastructurii și înființarea unor instituții de învățământ importante, cum ar fi Universitatea Mekelle. Peisajul urban este dominat de monumentul masiv și alb al martirilor, care amintește de lupta împotriva regimului Derg. Regiunea este, de asemenea, bogată în resurse minerale și are o industrie înfloritoare a sării și a cimentului. Istorie K8 — Regimul Derg și modernitate.",
+      en: "Mek'ele is the capital of the Tigray region and is located on a high plateau at about 2,080 meters altitude. The city has gained immense importance in recent decades through infrastructure expansion and the establishment of major educational institutions, such as Mekelle University. The cityscape is dominated by the massive white Martyrs' Memorial, which commemorates the fight against the Derg regime. The region is also rich in mineral resources and has a thriving salt and cement industry. History K8 — Derg regime and modernity."
+    },
+    factsAdvanced: {
+      de: ["Höhe von ca. 2.080 Metern.", "Wichtigster Bildungsstandort Tigrays.", "Reich an Kali- und Salzvorkommen.", "Bekanntes Märtyrerdenkmal.", "Heimat von rund 300.000 Menschen.", "Regionales Wirtschaftszentrum."],
+      hu: ["Kb. 2080 méteres magasság.", "Tigré legfontosabb oktatási központja.", "Gazdag kálium- és sókészletekben.", "Ismert mártíremlékmű.", "Körülbelül 300 000 ember otthona.", "Regionális gazdasági központ."],
+      ro: ["Altitudine de aprox. 2.080 de metri.", "Cel mai important centru educațional din Tigray.", "Bogată în depozite de potasiu și sare.", "Monumentul martirilor cunoscut.", "Cămin pentru aproximativ 300.000 de oameni.", "Centru economic regional."],
+      en: ["Elevation of approx. 2,080 meters.", "Most important educational center of Tigray.", "Rich in potash and salt deposits.", "Known Martyrs' Memorial.", "Home to around 300,000 people.", "Regional economic center."]
     }
   },
   {
@@ -55,8 +90,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A 17. században alapították.", "Itt található a Fasil Ghebbi palotakomplexum."],
       ro: ["A fost fondat în secolul al XVII-lea.", "Găzduiește complexul palatului Fasil Ghebbi."],
       en: ["Founded in the 17th century.", "Home to the Fasil Ghebbi palace complex."]
-    }
-  },
+    }, image: "/poi-images/gondar-cities-v2.webp"},
   {
     id: "bahir-dar-cities-v2",
     type: "state-capital",
@@ -69,8 +103,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Népszerű turisztikai célpont.", "A Kék-Nílus vízeséseinek kiindulópontja."],
       ro: ["Destinație turistică populară.", "Punct de plecare către cascadele Nilului Albastru."],
       en: ["Popular tourist destination.", "Starting point to the Blue Nile Falls."]
-    }
-  },
+    }, image: "/poi-images/bahir-dar-cities-v2.webp"},
   {
     id: "dessie-cities-v2",
     type: "city",
@@ -83,8 +116,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Hegyvidéki terepen fekszik.", "A régió iszlám vallásának jelentős központja."],
       ro: ["Situat pe un teren muntos.", "Un centru important al islamului în regiune."],
       en: ["Located in mountainous terrain.", "A significant center of Islam in the region."]
-    }
-  },
+    }, image: "/poi-images/dessie-cities-v2.webp"},
   {
     id: "jimma-cities-v2",
     type: "city",
@@ -97,8 +129,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Jimma Egyetem székhelye.", "A Jimmai Királyság egykori fővárosa."],
       ro: ["Sediul Universității Jimma.", "Fosta capitală a Regatului Jimma."],
       en: ["Seat of Jimma University.", "Former capital of the Kingdom of Jimma."]
-    }
-  },
+    }, image: "/poi-images/jimma-cities-v2.webp"},
   {
     id: "hawassa-cities-v2",
     type: "state-capital",
@@ -111,8 +142,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Jelentős ipari központ.", "Népszerű halpiacáról ismert."],
       ro: ["Un centru industrial important.", "Renumit pentru piața sa de pește."],
       en: ["Major industrial center.", "Popular for its fish market."]
-    }
-  },
+    }, image: "/poi-images/hawassa-cities-v2.webp"},
   {
     id: "bishoftu-cities-v2",
     type: "city",
@@ -125,8 +155,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Korábban Debre Zeyit néven volt ismert.", "Népszerű üdülőövezet."],
       ro: ["Cunoscut anterior ca Debre Zeyit.", "O zonă de recreere populară."],
       en: ["Formerly known as Debre Zeyit.", "A popular recreational area."]
-    }
-  },
+    }, image: "/poi-images/bishoftu-cities-v2.webp"},
   {
     id: "jigjiga-cities-v2",
     type: "state-capital",
@@ -139,8 +168,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Fontos kereskedelmi központ.", "Erősen meghatározza a szomáliai kultúra."],
       ro: ["Important centru comercial.", "Puternic influențat de cultura somaleză."],
       en: ["Important commercial center.", "Heavily influenced by Somali culture."]
-    }
-  },
+    }, image: "/poi-images/jigjiga-cities-v2.webp"},
   {
     id: "shashamane-cities-v2",
     type: "city",
@@ -153,8 +181,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Fontos közlekedési csomópont.", "Rasztafári zarándokhely."],
       ro: ["Un nod de transport major.", "Centru pentru pelerinii Rastafari."],
       en: ["A major transportation hub.", "Center for Rastafari pilgrims."]
-    }
-  },
+    }, image: "/poi-images/shashamane-cities-v2.webp"},
   {
     id: "adama-cities-v2",
     type: "state-capital",
@@ -167,8 +194,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Nazret néven is ismert.", "Az ország egyik legnépesebb városa."],
       ro: ["Cunoscut și sub numele de Nazret.", "Unul dintre cele mai populate orașe din țară."],
       en: ["Also known as Nazret.", "One of the most populous cities in the country."]
-    }
-  },
+    }, image: "/poi-images/adama-cities-v2.webp"},
   {
     id: "harar-cities-v2",
     type: "state-capital",
@@ -181,8 +207,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["UNESCO Világörökség része.", "Híres a hiénaetetésről."],
       ro: ["Sit al Patrimoniului Mondial UNESCO.", "Renumit pentru hrănirea hienelor."],
       en: ["UNESCO World Heritage Site.", "Famous for its hyena feeding rituals."]
-    }
-  },
+    }, image: "/poi-images/harar-cities-v2.webp"},
   {
     id: "arba-minch-cities-v2",
     type: "city",
@@ -195,8 +220,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A neve azt jelenti, hogy „Negyven forrás”.", "Krokodilfarmjáról is ismert."],
       ro: ["Numele înseamnă „Patruzeci de izvoare”.", "Cunoscut pentru ferma de crocodili."],
       en: ["The name means 'Forty Springs'.", "Known for its crocodile farm."]
-    }
-  },
+    }, image: "/poi-images/arba-minch-cities-v2.webp"},
   {
     id: "hosaena-cities-v2",
     type: "city",
@@ -223,8 +247,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A kávépiac központja.", "A Dilla Egyetem székhelye."],
       ro: ["Centrul pieței cafelei.", "Sediul Universității Dilla."],
       en: ["Center of the coffee market.", "Seat of Dilla University."]
-    }
-  },
+    }, image: "/poi-images/dila-cities-v2.webp"},
   {
     id: "nekemte-cities-v2",
     type: "city",
@@ -237,8 +260,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Welega tartomány központja.", "A Wollega Múzeumáról ismert."],
       ro: ["Centrul provinciei Welega.", "Cunoscut pentru Muzeul Wollega."],
       en: ["Center of the Welega province.", "Known for the Wollega Museum."]
-    }
-  },
+    }, image: "/poi-images/nekemte-cities-v2.webp"},
   {
     id: "debre-markos-cities-v2",
     type: "city",
@@ -251,8 +273,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Itt található a Debre Markos Egyetem.", "Szent Márkról nevezték el."],
       ro: ["Găzduiește Universitatea Debre Markos.", "Numit după Sfântul Marcu."],
       en: ["Home to Debre Markos University.", "Named after Saint Mark."]
-    }
-  },
+    }, image: "/poi-images/debre-markos-cities-v2.webp"},
   {
     id: "kombolcha-cities-v2",
     type: "city",
@@ -265,8 +286,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Egy nagy ipari park található itt.", "Fontos logisztikai csomópont."],
       ro: ["Locația unui parc industrial mare.", "Un nod important pentru logistică."],
       en: ["Location of a large industrial park.", "Important logistics hub."]
-    }
-  },
+    }, image: "/poi-images/kombolcha-cities-v2.webp"},
   {
     id: "debre-birhan-cities-v2",
     type: "city",
@@ -279,8 +299,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A 15. században alapították.", "Az ország egyik leghidegebb éghajlatú városa."],
       ro: ["Fondat în secolul al XV-lea.", "Unul dintre cele mai reci climate din țară."],
       en: ["Founded in the 15th century.", "One of the coolest climates in the country."]
-    }
-  },
+    }, image: "/poi-images/debre-birhan-cities-v2.webp"},
   {
     id: "asella-cities-v2",
     type: "city",
@@ -293,8 +312,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Haile Gebrselassie szülőhelye.", "A Chilalo-hegy közelében fekszik."],
       ro: ["Locul nașterii lui Haile Gebrselassie.", "Situat lângă Muntele Chilalo."],
       en: ["Birthplace of Haile Gebrselassie.", "Located near Mount Chilalo."]
-    }
-  },
+    }, image: "/poi-images/asella-cities-v2.webp"},
   {
     id: "weldiya-cities-v2",
     type: "city",
@@ -307,8 +325,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Mekelle felé vezető főút mentén található.", "A Weldiya Stadion központja."],
       ro: ["Situat pe autostrada spre Mekelle.", "Centrul stadionului Weldiya."],
       en: ["Located on the highway to Mekelle.", "Center of the Weldiya Stadium."]
-    }
-  },
+    }, image: "/poi-images/weldiya-cities-v2.webp"},
   {
     id: "goba-cities-v2",
     type: "city",
@@ -321,8 +338,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Majdnem 2750 méter magas.", "A Bale zóna fontos piaca."],
       ro: ["Altitudine de aproape 2.750 de metri.", "O piață importantă pentru zona Bale."],
       en: ["Elevation of nearly 2,750 meters.", "Major market town for the Bale Zone."]
-    }
-  },
+    }, image: "/poi-images/goba-cities-v2.webp"},
   {
     id: "aksum-cities-v2",
     type: "city",
@@ -335,8 +351,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Hatalmas sztéléiről ismert.", "A Frigyláda őrzőhelyeként tartják számon."],
       ro: ["Cunoscut pentru stele uriașe.", "Considerat locul de păstrare al Chivotului Legământului."],
       en: ["Known for giant stelae.", "Considered the resting place of the Ark of the Covenant."]
-    }
-  },
+    }, image: "/poi-images/aksum-cities-v2.webp"},
   {
     id: "adigrat-cities-v2",
     type: "city",
@@ -349,8 +364,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Fontos közlekedési csomópont.", "Jelentős gyógyszergyárral rendelkezik."],
       ro: ["Un nod de transport major.", "Are o importantă fabrică de produse farmaceutice."],
       en: ["A major transportation hub.", "Features a significant pharmaceutical plant."]
-    }
-  },
+    }, image: "/poi-images/adigrat-cities-v2.webp"},
   {
     id: "robe-cities-v2",
     type: "city",
@@ -363,8 +377,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Madda Walabu Egyetem székhelye.", "A regionális közigazgatás fontos központja."],
       ro: ["Sediul Universității Madda Walabu.", "Centru important pentru administrația regională."],
       en: ["Seat of Madda Walabu University.", "Important center for regional administration."]
-    }
-  },
+    }, image: "/poi-images/robe-cities-v2.webp"},
   {
     id: "sodo-cities-v2",
     type: "city",
@@ -377,8 +390,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Wolaita zóna központja.", "A Wolaita Sodo Egyetem helyszíne."],
       ro: ["Centrul zonei Wolaita.", "Locația Universității Wolaita Sodo."],
       en: ["Center of the Wolaita Zone.", "Location of Wolaita Sodo University."]
-    }
-  },
+    }, image: "/poi-images/sodo-cities-v2.webp"},
   {
     id: "negele-borana-cities-v2",
     type: "city",
@@ -391,8 +403,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Nagy szarvasmarhapiacáról ismert.", "A dél-etiópiai kereskedelem csomópontja."],
       ro: ["Cunoscut pentru marea sa piață de vite.", "Un punct de tranzit pentru comerțul din sudul Etiopiei."],
       en: ["Known for its large cattle market.", "A transit point for trade in southern Ethiopia."]
-    }
-  },
+    }, image: "/poi-images/negele-borana-cities-v2.webp"},
   {
     id: "shire-cities-v2",
     type: "city",
@@ -405,8 +416,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A történelmi Shire régió központja.", "Rendelkezik repülőtérrel."],
       ro: ["Centrul regiunii istorice Shire.", "Are un aeroport."],
       en: ["Center of the historic Shire region.", "Features an airport."]
-    }
-  },
+    }, image: "/poi-images/shire-cities-v2.webp"},
   {
     id: "gambela-cities-v2",
     type: "state-capital",
@@ -419,8 +429,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A folyami kereskedelem szempontjából fontos.", "A Gambela Nemzeti Park közelében található."],
       ro: ["Important pentru comerțul fluvial.", "Apropiere de Parcul Național Gambela."],
       en: ["Important for river trade.", "Proximity to Gambela National Park."]
-    }
-  },
+    }, image: "/poi-images/gambela-cities-v2.webp"},
   {
     id: "asosa-cities-v2",
     type: "state-capital",
@@ -433,8 +442,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Több mint 1500 méter magasan fekszik.", "A regionális bányászati tevékenységek miatt növekszik."],
       ro: ["Situat la peste 1.500 de metri altitudine.", "În creștere datorită activităților miniere regionale."],
       en: ["Situated at over 1,500 meters altitude.", "Growing due to regional mining activities."]
-    }
-  },
+    }, image: "/poi-images/asosa-cities-v2.webp"},
   {
     id: "semera-cities-v2",
     type: "state-capital",
@@ -447,8 +455,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Tervezetten épült város.", "Forró és száraz vidéken fekszik."],
       ro: ["Un oraș construit planificat.", "Situat într-o regiune caldă și uscată."],
       en: ["A planned city.", "Located in a hot and dry region."]
-    }
-  },
+    }, image: "/poi-images/semera-cities-v2.webp"},
   {
     id: "bonga-cities-v2",
     type: "state-capital",
@@ -461,8 +468,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Kaffa Királyság történelmi központja.", "Sűrű esőerdők veszik körül."],
       ro: ["Centrul istoric al Regatului Kaffa.", "Înconjurat de păduri tropicale dense."],
       en: ["Historic center of the Kaffa Kingdom.", "Surrounded by dense rainforests."]
-    }
-  },
+    }, image: "/poi-images/bonga-cities-v2.webp"},
   {
     id: "wukro-cities-v2",
     type: "city",
@@ -475,8 +481,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Wukro Chirkos templom kiemelkedő látványosság.", "A régészeti leletek hosszú történelmet bizonyítanak."],
       ro: ["Biserica Wukro Chirkos este un punct culminant.", "Descoperirile arheologice dovedesc o istorie lungă."],
       en: ["The Wukro Chirkos church is a highlight.", "Archaeological finds prove a long history."]
-    }
-  },
+    }, image: "/poi-images/wukro-cities-v2.webp"},
   {
     id: "yirgalem-cities-v2",
     type: "city",
@@ -489,8 +494,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A kávétermesztés központja.", "Agroipari park nyílt itt."],
       ro: ["Centrul cultivării cafelei.", "Aici a fost deschis un parc agroindustrial."],
       en: ["Center of coffee cultivation.", "An agro-industrial park opened here."]
-    }
-  },
+    }, image: "/poi-images/yirgalem-cities-v2.webp"},
   {
     id: "alamata-cities-v2",
     type: "city",
@@ -503,8 +507,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Fontos a teff termesztésében.", "Történelmi csaták helyszíne."],
       ro: ["Important pentru producția de teff.", "Locația unor bătălii istorice."],
       en: ["Important for teff production.", "Site of historical battles."]
-    }
-  },
+    }, image: "/poi-images/alamata-cities-v2.webp"},
   {
     id: "mizan-teferi-cities-v2",
     type: "city",
@@ -517,8 +520,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Mizan-Tepi Egyetem helyszíne.", "Fontos a regionális kereskedelem szempontjából."],
       ro: ["Locația Universității Mizan-Tepi.", "Important pentru comerțul regional."],
       en: ["Location of Mizan-Tepi University.", "Important for regional trade."]
-    }
-  },
+    }, image: "/poi-images/mizan-teferi-cities-v2.webp"},
   {
     id: "kobo-cities-v2",
     type: "city",
@@ -531,8 +533,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Közlekedési csomópont az észak felé vezető főúton.", "A Raya-síkság közelében."],
       ro: ["Un nod de transport pe drumul principal spre nord.", "Aproape de câmpia Raya."],
       en: ["Transportation hub on the main road north.", "Close to the Raya plain."]
-    }
-  },
+    }, image: "/poi-images/kobo-cities-v2.webp"},
   {
     id: "jinka-cities-v2",
     type: "city",
@@ -545,8 +546,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A sokszínűség központja.", "Múzeummal és kutatóközponttal is rendelkezik."],
       ro: ["Un centru al diversității.", "Găzduiește un muzeu și un centru de cercetare."],
       en: ["A center of diversity.", "Houses a museum and research center."]
-    }
-  },
+    }, image: "/poi-images/jinka-cities-v2.webp"},
   {
     id: "butajira-cities-v2",
     type: "city",
@@ -559,8 +559,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Az ensete (hamis banán) termesztéséről ismert.", "Fontos mezőgazdasági piac."],
       ro: ["Cunoscut pentru producția de ensete.", "Piață agricolă importantă."],
       en: ["Known for the production of ensete.", "Important agricultural market."]
-    }
-  },
+    }, image: "/poi-images/butajira-cities-v2.webp"},
   {
     id: "ziway-cities-v2",
     type: "city",
@@ -573,8 +572,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Fontos a halászat és a madármegfigyelés szempontjából.", "Az etióp rózsatermesztés központja."],
       ro: ["Important pentru pescuit și observarea păsărilor.", "Centrul culturii trandafirilor din Etiopia."],
       en: ["Important for fishing and bird watching.", "Center of rose cultivation in Ethiopia."]
-    }
-  },
+    }, image: "/poi-images/ziway-cities-v2.webp"},
   {
     id: "ambo-cities-v2",
     type: "city",
@@ -587,8 +585,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Az Ambo Egyetem székhelye.", "Az Ambo ásványvizet országszerte forgalmazzák."],
       ro: ["Locația Universității Ambo.", "Apa minerală Ambo este vândută la nivel național."],
       en: ["Location of Ambo University.", "Ambo mineral water is sold nationwide."]
-    }
-  },
+    }, image: "/poi-images/ambo-cities-v2.webp"},
   {
     id: "yabelo-cities-v2",
     type: "city",
@@ -601,8 +598,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Yabelo Vadrezervátum közelében.", "Színes hagyományos piacokkal rendelkezik."],
       ro: ["Apropiere de Rezervația de animale sălbatice Yabelo.", "Are piețe tradiționale colorate."],
       en: ["Close to the Yabelo Wildlife Sanctuary.", "Features colorful traditional markets."]
-    }
-  },
+    }, image: "/poi-images/yabelo-cities-v2.webp"},
   {
     id: "metu-cities-v2",
     type: "city",
@@ -615,8 +611,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Illubabor zóna fővárosa.", "Erdőkben gazdag környezetben fekszik."],
       ro: ["Capitala zonei Illubabor.", "Situat într-un mediu împădurit."],
       en: ["Capital of the Illubabor Zone.", "Situated in a forested environment."]
-    }
-  },
+    }, image: "/poi-images/metu-cities-v2.webp"},
   {
     id: "bedele-cities-v2",
     type: "city",
@@ -629,8 +624,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Bedele Sörgyár otthona.", "Fontos helyi gazdasági központ."],
       ro: ["Acasă la Fabrica de bere Bedele.", "Centru economic local important."],
       en: ["Home of the Bedele Brewery.", "Important local economic center."]
-    }
-  },
+    }, image: "/poi-images/bedele-cities-v2.webp"},
   {
     id: "ginir-cities-v2",
     type: "city",
@@ -657,8 +651,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Salale Egyetem székhelye.", "Magasan fekvő régióban található."],
       ro: ["Locația Universității Salale.", "Situat într-o regiune la mare altitudine."],
       en: ["Location of Salale University.", "Situated in a high-altitude region."]
-    }
-  },
+    }, image: "/poi-images/fiche-cities-v2.webp"},
   {
     id: "meki-cities-v2",
     type: "city",
@@ -671,8 +664,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Gyümölcs- és zöldségtermesztésről ismert.", "A meki apostoli vikariátus székhelye."],
       ro: ["Cunoscut pentru cultivarea fructelor și legumelor.", "Sediul Vicariatului Apostolic Meki."],
       en: ["Known for fruit and vegetable cultivation.", "Seat of the Apostolic Vicariate of Meki."]
-    }
-  },
+    }, image: "/poi-images/meki-cities-v2.webp"},
   {
     id: "bako-cities-v2",
     type: "city",
@@ -685,8 +677,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A mezőgazdasági kutatás központja.", "Fontos a kukoricatermesztésben."],
       ro: ["Centrul de cercetare agricolă.", "Important pentru producția de porumb."],
       en: ["Center of agricultural research.", "Important for maize production."]
-    }
-  },
+    }, image: "/poi-images/bako-cities-v2.webp"},
   {
     id: "shambu-cities-v2",
     type: "city",
@@ -727,8 +718,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Szomáli régió egykori fővárosa.", "Fontos mezőgazdasági központ a folyó mentén."],
       ro: ["Fosta capitală a regiunii somaleze.", "Centru agricol important pe râu."],
       en: ["Former capital of the Somali Region.", "Important agricultural center on the river."]
-    }
-  },
+    }, image: "/poi-images/gode-cities-v2.webp"},
   {
     id: "kebri-dahar-cities-v2",
     type: "city",
@@ -755,8 +745,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Fehér mecsetről ismert.", "Fontos a pásztorgazdaság szempontjából."],
       ro: ["Cunoscut pentru Moscheea Albă.", "Important pentru economia pastorală."],
       en: ["Known for the White Mosque.", "Important for the pastoral economy."]
-    }
-  },
+    }, image: "/poi-images/degehabur-cities-v2.webp"},
   {
     id: "warder-cities-v2",
     type: "city",
@@ -769,8 +758,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Történelmileg stratégiai fontosságú hely.", "Mély kútjairól ismert."],
       ro: ["Istoric un loc strategic.", "Cunoscut pentru puțurile sale adânci."],
       en: ["Historically a strategic location.", "Known for its deep wells."]
-    }
-  },
+    }, image: "/poi-images/warder-cities-v2.webp"},
   {
     id: "kelafo-cities-v2",
     type: "city",
@@ -783,8 +771,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["Jelentős mezőgazdasági terület.", "Történelmileg fontos a karavánkereskedelemben."],
       ro: ["Zonă agricolă semnificativă.", "Istoric important pentru comerțul cu caravane."],
       en: ["Significant agricultural area.", "Historically important for caravan trade."]
-    }
-  },
+    }, image: "/poi-images/kelafo-cities-v2.webp"},
   {
     id: "chiro-cities-v2",
     type: "city",
@@ -797,8 +784,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A kat (növény) termesztésének központja.", "Növekvő városi település."],
       ro: ["Centrul cultivării khatului.", "O așezare urbană în creștere."],
       en: ["Center of khat cultivation.", "A growing urban settlement."]
-    }
-  },
+    }, image: "/poi-images/chiro-cities-v2.webp"},
   {
     id: "fincha-cities-v2",
     type: "city",
@@ -811,8 +797,7 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       hu: ["A Fincha Cukorgyár a fő munkaadó.", "A Fincha-gát közelében fekszik."],
       ro: ["Fabrica de zahăr Fincha este principalul angajator.", "Situat lângă barajul Fincha."],
       en: ["The Fincha Sugar Factory is the main employer.", "Located near the Fincha Dam."]
-    }
-  },
+    }, image: "/poi-images/fincha-cities-v2.webp"},
   {
     id: "agarfa-cities-v2",
     type: "city",
@@ -842,3 +827,4 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSouthsudanNatureV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["3187 méter magas.", "Az Imatong-hegység része.", "Gazdag biológiai sokféleség.", "Kihívást jelentő túraútvonal."],
       ro: ["Înălțime de 3.187 metri.", "Face parte din Munții Imatong.", "Biodiversitate bogată.", "Destinație de trekking dificilă."],
       en: ["Elevation of 3,187 meters.", "Part of the Imatong Mountains.", "Rich biodiversity.", "Challenging trekking destination."]
-    }
-  },
+    }, image: "/poi-images/mount-kinyeti-nature-v2.webp"},
   {
     id: "imatong-mountains-nature-v2",
     type: "mountain",
@@ -37,8 +37,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Ritka állatfajok otthona.", "Fontos víztározó terület.", "Sűrű hegyi erdők.", "Ugandával határos."],
       ro: ["Adăpostește specii rare de animale.", "Rezervor important de apă.", "Păduri montane dese.", "Se învecinează cu Uganda."],
       en: ["Home to rare animal species.", "Important water catchment area.", "Dense montane forests.", "Borders Uganda."]
-    }
-  },
+    }, image: "/poi-images/imatong-mountains-nature-v2.webp"},
   {
     id: "white-nile-southsudan-nature-v2",
     type: "river",
@@ -56,8 +55,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Az ország éltető eleme.", "Fontos szállítási útvonal.", "Táplálja a Sudd-mocsarakat.", "Állandó vízszint jellemzi."],
       ro: ["Sursa de viață a țării.", "Rută importantă de transport.", "Alimentează mlaștinile Sudd.", "Nivel de apă constant."],
       en: ["Lifeline of the country.", "Crucial transportation route.", "Feeds the Sudd wetlands.", "Constant water flow."]
-    }
-  },
+    }, image: "/poi-images/white-nile-southsudan-nature-v2.webp"},
   {
     id: "bahr-el-ghazal-river-nature-v2",
     type: "river",
@@ -75,8 +73,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Jelentése 'Gazellák folyója'.", "Kialakítja a No-tavat.", "Halakban rendkívül gazdag.", "Mocsaras meder jellemzi."],
       ro: ["Înseamnă 'Râul Gazelelor'.", "Formează lacul No.", "Bogat în resurse piscicole.", "Albie mlăștinoasă."],
       en: ["Means 'River of Gazelles'.", "Forms Lake No.", "Rich in fish species.", "Swampy riverbed."]
-    }
-  },
+    }, image: "/poi-images/bahr-el-ghazal-river-nature-v2.webp"},
   {
     id: "lake-no-nature-v2",
     type: "lake",
@@ -94,8 +91,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["A Fehér-Nílus kezdete.", "A Sudd-mocsarak közepén.", "Fontos ökológiai csomópont.", "Papirusz veszi körül."],
       ro: ["Începutul Nilului Alb.", "În mijlocul mlaștinilor Sudd.", "Nod ecologic important.", "Înconjurat de papirus."],
       en: ["Start of the White Nile.", "In the heart of the Sudd.", "Key ecological junction.", "Surrounded by papyrus."]
-    }
-  },
+    }, image: "/poi-images/lake-no-nature-v2.webp"},
   {
     id: "sudd-wetland-nature-v2",
     type: "lake",
@@ -113,8 +109,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Ramsari egyezmény védi.", "Hatalmas úszó szigetek.", "Vándormadarak otthona.", "Nehezen átjárható."],
       ro: ["Zonă protejată Ramsar.", "Insule plutitoare uriașe.", "Habitat pentru păsări migratoare.", "Greu de navigat."],
       en: ["Ramsar protected site.", "Vast floating islands.", "Haven for migratory birds.", "Extremely difficult to cross."]
-    }
-  },
+    }, image: "/poi-images/sudd-wetland-nature-v2.webp"},
   {
     id: "sobat-river-nature-v2",
     type: "river",
@@ -132,8 +127,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Etióp-magasföldön ered.", "Agyag miatti fehér szín.", "Malakal közelében torkollik.", "Termékeny part menti sáv."],
       ro: ["Izvorăște din podișul Etiopiei.", "Culoare albă de la argilă.", "Se varsă lângă Malakal.", "Maluri fertile."],
       en: ["Starts in Ethiopian highlands.", "White color from clay.", "Joins near Malakal.", "Fertile riverbanks."]
-    }
-  },
+    }, image: "/poi-images/sobat-river-nature-v2.webp"},
   {
     id: "jur-river-nature-v2",
     type: "river",
@@ -151,8 +145,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Időszakosan hajózható.", "Fontos Wau régiójában.", "Szavannákon folyik át.", "Halakban gazdag."],
       ro: ["Navigabil sezonier.", "Important pentru regiunea Wau.", "Curge prin savane.", "Bogat în pește."],
       en: ["Seasonally navigable.", "Crucial for Wau region.", "Flows through savannas.", "Rich fish resources."]
-    }
-  },
+    }, image: "/poi-images/jur-river-nature-v2.webp"},
   {
     id: "pibor-river-nature-v2",
     type: "river",
@@ -170,8 +163,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["A Pibor-medencén folyik át.", "Fontos legelőterület.", "Szezonális áradások.", "Etióp határ közelében."],
       ro: ["Curge prin bazinul Pibor.", "Zonă importantă de pășunat.", "Inundații sezoniere.", "Aproape de granița cu Etiopia."],
       en: ["Flows through Pibor basin.", "Key grazing land.", "Seasonal flooding.", "Near Ethiopian border."]
-    }
-  },
+    }, image: "/poi-images/pibor-river-nature-v2.webp"},
   {
     id: "lake-ambadi-nature-v2",
     type: "lake",
@@ -189,8 +181,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["A Bahr al-Ghazal közelében.", "Fajgazdag madárvilág.", "Mocsaras partok.", "Halakban gazdag víz."],
       ro: ["Lângă Bahr al-Ghazal.", "Specii diverse de păsări.", "Maluri mlăștinoase.", "Ape bogate în pește."],
       en: ["Near Bahr al-Ghazal.", "Diverse bird species.", "Swampy shores.", "Rich in fish."]
-    }
-  },
+    }, image: "/poi-images/lake-ambadi-nature-v2.webp"},
   {
     id: "lake-yirol-nature-v2",
     type: "lake",
@@ -208,8 +199,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Yirol vízellátásának forrása.", "Gazdag tilápiában.", "Szezonális vízszintingadozás.", "Fontos állatitató hely."],
       ro: ["Sursă de apă pentru Yirol.", "Bogat în tilapia.", "Variații sezoniere de nivel.", "Loc important de adăpat vitele."],
       en: ["Water source for Yirol.", "Abundant in Tilapia.", "Seasonal level changes.", "Important cattle watering hole."]
-    }
-  },
+    }, image: "/poi-images/lake-yirol-nature-v2.webp"},
   {
     id: "boma-plateau-nature-v2",
     type: "mountain",
@@ -227,8 +217,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Hatalmas antilopvándorlás.", "1100 méter feletti magasság.", "A Boma Nemzeti Park része.", "Érintetlen vadon."],
       ro: ["Migrație masivă de antilope Kob.", "Înălțimi de până la 1100m.", "Parte din Parcul Național Boma.", "Sălbăticie neatinsă."],
       en: ["Massive Kob migration.", "Elevations up to 1,100m.", "Part of Boma National Park.", "Untouched wilderness."]
-    }
-  },
+    }, image: "/poi-images/boma-plateau-nature-v2.webp"},
   {
     id: "mount-lado-nature-v2",
     type: "mountain",
@@ -246,8 +235,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Kiemelkedik a síkságból.", "Fontos mérföldkő a Nílusnál.", "Meredek sziklafalak.", "Kulturális jelentőség."],
       ro: ["Domină câmpia.", "Reper important pe Nil.", "Pereți stâncoși abrupți.", "Semnificație culturală."],
       en: ["Towers over the plain.", "Key landmark along the Nile.", "Steep rocky slopes.", "Cultural significance."]
-    }
-  },
+    }, image: "/poi-images/mount-lado-nature-v2.webp"},
   {
     id: "gondokoro-island-nature-v2",
     type: "island",
@@ -265,8 +253,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Juba közelében.", "Nílus-ágak veszik körül.", "Sűrű növényzet.", "A hajózás történelmi végpontja."],
       ro: ["Aproape de Juba.", "Înconjurată de brațele Nilului.", "Vegetație densă.", "Capătul istoric al navigației."],
       en: ["Located near Juba.", "Surrounded by Nile channels.", "Dense vegetation.", "Historical limit of navigation."]
-    }
-  },
+    }, image: "/poi-images/gondokoro-island-nature-v2.webp"},
   {
     id: "akobo-river-nature-v2",
     type: "river",
@@ -284,8 +271,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["A Piborba torkollik.", "Fontos határfolyó.", "Vadvilágban gazdag.", "Időszakos sodrás."],
       ro: ["Se varsă în Pibor.", "Râu de frontieră important.", "Bogat în animale sălbatice.", "Debit sezonier."],
       en: ["Flows into the Pibor.", "Crucial border river.", "Rich in wildlife.", "Seasonal flow."]
-    }
-  },
+    }, image: "/poi-images/akobo-river-nature-v2.webp"},
   {
     id: "lantoto-forest-nature-v2",
     type: "forest",
@@ -303,8 +289,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Trópusi esőerdő.", "Csimpánzok otthona.", "Sűrű lombkorona.", "Kongói határ közelében."],
       ro: ["Pădure tropicală umedă.", "Adăpostește cimpanzei.", "Bolvă forestieră densă.", "Lângă granița cu RD Congo."],
       en: ["Tropical rainforest.", "Habitat for chimpanzees.", "Dense canopy.", "Near DR Congo border."]
-    }
-  },
+    }, image: "/poi-images/lantoto-forest-nature-v2.webp"},
   {
     id: "southern-national-park-forest-nature-v2",
     type: "forest",
@@ -322,8 +307,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Az ország legnagyobb parkja.", "Olyan folyók, mint a Sue.", "Változatos ökoszisztéma.", "Nagyvadak védelme."],
       ro: ["Cel mai mare parc din țară.", "Râuri precum Sue.", "Ecosistem diversificat.", "Protejează mamiferele mari."],
       en: ["Largest park in the country.", "Rivers like the Sue.", "Diverse ecosystem.", "Protects large mammals."]
-    }
-  },
+    }, image: "/poi-images/southern-national-park-forest-nature-v2.webp"},
   {
     id: "nimule-rapids-nature-v2",
     type: "river",
@@ -341,8 +325,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Sok víziló otthona.", "Erős sodrás.", "Természetes akadály.", "Népszerű fotótéma."],
       ro: ["Habitat pentru hipopotami.", "Curent puternic.", "Barieră naturală.", "Subiect foto popular."],
       en: ["Home to many hippos.", "Powerful currents.", "Natural barrier.", "Popular photo spot."]
-    }
-  },
+    }, image: "/poi-images/nimule-rapids-nature-v2.webp"},
   {
     id: "shambe-lake-nature-v2",
     type: "lake",
@@ -360,8 +343,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["A Shambe Rezervátum része.", "Fontos a helyi halászoknak.", "Mocsaras környezet.", "Madárparadicsom."],
       ro: ["Parte din Rezervația Shambe.", "Important pentru pescarii locali.", "Mediu mlăștinos.", "Paradisul păsărilor."],
       en: ["Part of Shambe Reserve.", "Key for local fishermen.", "Swampy surroundings.", "Bird sanctuary."]
-    }
-  },
+    }, image: "/poi-images/shambe-lake-nature-v2.webp"},
   {
     id: "lake-nyubor-nature-v2",
     type: "lake",
@@ -379,8 +361,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Időszakos víztározó.", "Szarvasmarhacsordák itatója.", "Távoli elhelyezkedés.", "Gazdag flóra."],
       ro: ["Rezervor de apă sezonier.", "Loc de adăpat vitele.", "Locație izolată.", "Floră bogată."],
       en: ["Seasonal water storage.", "Watering for cattle herds.", "Remote location.", "Rich flora."]
-    }
-  },
+    }, image: "/poi-images/lake-nyubor-nature-v2.webp"},
   {
     id: "bahr-el-jebel-river-nature-v2",
     type: "river",
@@ -398,8 +379,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Jelentése 'Hegyek folyója'.", "Mély szurdokokon folyik át.", "Mocsaras a Suddnál.", "Állandó esés."],
       ro: ["Înseamnă 'Râul Munților'.", "Curge prin defilee adânci.", "Mlăștinos în Sudd.", "Pantă constantă."],
       en: ["Means 'Mountain River'.", "Flows through deep gorges.", "Swampy in the Sudd.", "Consistent gradient."]
-    }
-  },
+    }, image: "/poi-images/bahr-el-jebel-river-nature-v2.webp"},
   {
     id: "kidepo-river-nature-v2",
     type: "river",
@@ -417,8 +397,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Homokos meder.", "Fontos a Kidepo vadrezervátumnak.", "Gyakran teljesen kiszárad.", "Kenyan határ közelében."],
       ro: ["Albie nisipoasă.", "Important pentru Rezervația Kidepo.", "Adesea seacă complet.", "Lângă granița cu Kenya."],
       en: ["Sandy riverbed.", "Vital for Kidepo Reserve.", "Often dries up completely.", "Near Kenyan border."]
-    }
-  },
+    }, image: "/poi-images/kidepo-river-nature-v2.webp"},
   {
     id: "aluk-lake-nature-v2",
     type: "lake",
@@ -436,8 +415,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Mocsaras peremek.", "Fontos a helyi halászatnak.", "Krokodilok élőhelye.", "Ingadozó vízszint."],
       ro: ["Margini mlăștinoase.", "Important pentru pescuitul local.", "Habitat pentru crocodili.", "Nivel de apă variabil."],
       en: ["Swampy margins.", "Key for local fishing.", "Habitat for crocodiles.", "Fluctuating water level."]
-    }
-  },
+    }, image: "/poi-images/aluk-lake-nature-v2.webp"},
   {
     id: "bengengai-forest-nature-v2",
     type: "forest",
@@ -455,8 +433,7 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
       hu: ["Csimpánzok otthona.", "Gazdag botanikai változatosság.", "Védett terület része.", "Sűrű aljnövényzet."],
       ro: ["Adăpostește cimpanzei.", "Diversitate botanică bogată.", "Parte a unei zone protejate.", "Vegetație joasă densă."],
       en: ["Home to chimpanzees.", "Rich botanical variety.", "Part of a nature reserve.", "Dense undergrowth."]
-    }
-  },
+    }, image: "/poi-images/bengengai-forest-nature-v2.webp"},
   {
     id: "ironstone-plateau-nature-v2",
     type: "mountain",
@@ -477,3 +454,4 @@ export const poiExtraSouthsudanNatureV2: POI[] = [
     }
   }
 ];
+

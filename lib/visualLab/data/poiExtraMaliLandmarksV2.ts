@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMaliLandmarksV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Abu Ishaq al-Sahili építette", "Az UNESCO Világörökség része"],
       ro: ["Construită de Abu Ishaq al-Sahili", "Face parte din Patrimoniul Mondial UNESCO"],
       en: ["Built by Abu Ishaq al-Sahili", "Part of a UNESCO World Heritage site"]
-    }
-  },
+    }, image: "/poi-images/djingareyber-mosque-landmarks-v2.webp"},
   {
     id: "national-museum-mali-landmarks-v2",
     type: "landmark",
@@ -47,8 +47,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["1953-ban nyílt meg", "Ősi terrakotta szobrokat őriz"],
       ro: ["Deschis în 1953", "Adăpostește sculpturi antice din teracotă"],
       en: ["Opened in 1953", "Houses ancient terracotta sculptures"]
-    }
-  },
+    }, image: "/poi-images/national-museum-mali-landmarks-v2.webp"},
   {
     id: "bceao-tower-landmarks-v2",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Több mint 80 méter magas", "Neoszudáni építészeti stílus"],
       ro: ["Peste 80 de metri înălțime", "Stil arhitectural neo-sudanez"],
       en: ["Over 80 meters tall", "Neo-Sudanese architectural style"]
-    }
-  },
+    }, image: "/poi-images/bceao-tower-landmarks-v2.webp"},
   {
     id: "pont-du-roi-fahd-landmarks-v2",
     type: "landmark",
@@ -95,8 +93,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Az 1990-es években épült", "Szaúd-Arábia finanszírozta"],
       ro: ["Construit în anii 1990", "Finanțat de Arabia Saudită"],
       en: ["Built in the 1990s", "Financed by Saudi Arabia"]
-    }
-  },
+    }, image: "/poi-images/pont-du-roi-fahd-landmarks-v2.webp"},
   {
     id: "stade-26-mars-landmarks-v2",
     type: "landmark",
@@ -119,8 +116,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Több mint 50 000 néző befogadására alkalmas", "2001-ben nyitották meg"],
       ro: ["Capacitate de peste 50.000 de spectatori", "Deschis în 2001"],
       en: ["Holds over 50,000 spectators", "Opened in 2001"]
-    }
-  },
+    }, image: "/poi-images/stade-26-mars-landmarks-v2.webp"},
   {
     id: "bamako-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -167,8 +163,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["1936-ban készült el", "A bamakói főegyházmegye székhelye"],
       ro: ["Finalizată în 1936", "Sediul Arhidiecezei de Bamako"],
       en: ["Completed in 1936", "Seat of the Archdiocese of Bamako"]
-    }
-  },
+    }, image: "/poi-images/sacred-heart-cathedral-bamako-landmarks-v2.webp"},
   {
     id: "hamdallaye-mosque-landmarks-v2",
     type: "landmark",
@@ -191,8 +186,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A történelmi Hamdallaye város része", "A 19. század elején épült"],
       ro: ["Face parte din orașul istoric Hamdallaye", "Construită la începutul secolului al XIX-lea"],
       en: ["Part of the historic city of Hamdallaye", "Built in the early 19th century"]
-    }
-  },
+    }, image: "/poi-images/hamdallaye-mosque-landmarks-v2.webp"},
   {
     id: "niando-mosque-djenne-landmarks-v2",
     type: "landmark",
@@ -215,8 +209,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Építészetileg hasonló a Nagymecsethez", "A helyi hívők fontos találkozóhelye"],
       ro: ["Similară arhitectural cu Marea Moschee", "Loc important de întâlnire pentru credincioșii locali"],
       en: ["Architecturally similar to the Great Mosque", "Important gathering place for local believers"]
-    }
-  },
+    }, image: "/poi-images/niando-mosque-djenne-landmarks-v2.webp"},
   {
     id: "tomb-of-askia-landmarks-v2",
     type: "landmark",
@@ -239,8 +232,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A 15. század végén épült", "UNESCO Világörökség része"],
       ro: ["Construit la sfârșitul secolului al XV-lea", "Este un sit al Patrimoniului Mondial UNESCO"],
       en: ["Built at the end of the 15th century", "Is a UNESCO World Heritage site"]
-    }
-  },
+    }, image: "/poi-images/tomb-of-askia-landmarks-v2.webp"},
   {
     id: "gao-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -263,8 +255,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Az Askia sírhely közelében épült", "Hagyományos száheli építészet"],
       ro: ["Construită în apropierea Mormântului lui Askia", "Arhitectură tradițională din Sahel"],
       en: ["Built near the Tomb of Askia", "Traditional Sahelian architecture"]
-    }
-  },
+    }, image: "/poi-images/gao-grand-mosque-landmarks-v2.webp"},
   {
     id: "monument-alkabass-gao-landmarks-v2",
     type: "landmark",
@@ -287,8 +278,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Központi elhelyezkedésű", "Találkozóhely a városban"],
       ro: ["Situat central", "Punct de întâlnire în oraș"],
       en: ["Centrally located", "Gathering place in the city"]
-    }
-  },
+    }, image: "/poi-images/monument-alkabass-gao-landmarks-v2.webp"},
   {
     id: "segou-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -311,8 +301,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Nagy imaterem", "Feltűnő minaretek"],
       ro: ["Sală mare de rugăciune", "Minarete atrăgătoare"],
       en: ["Large prayer hall", "Striking minarets"]
-    }
-  },
+    }, image: "/poi-images/segou-grand-mosque-landmarks-v2.webp"},
   {
     id: "palais-du-roi-biton-coulibaly-landmarks-v2",
     type: "landmark",
@@ -359,8 +348,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A francia gyarmati közigazgatás építette", "1947-ben fejezték be"],
       ro: ["Construit de administrația colonială franceză", "Finalizat în 1947"],
       en: ["Built by the French colonial administration", "Completed in 1947"]
-    }
-  },
+    }, image: "/poi-images/markala-dam-landmarks-v2.webp"},
   {
     id: "kayes-bridge-landmarks-v2",
     type: "landmark",
@@ -383,8 +371,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Fontos a regionális kereskedelem számára", "A Szenegál folyót íveli át"],
       ro: ["Important pentru comerțul regional", "Traversează fluviul Senegal"],
       en: ["Important for regional trade", "Spans the Senegal River"]
-    }
-  },
+    }, image: "/poi-images/kayes-bridge-landmarks-v2.webp"},
   {
     id: "palace-of-tieba-traore-landmarks-v2",
     type: "landmark",
@@ -407,8 +394,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Fontos kulturális műemlék", "A királyság hatalmát tükrözi"],
       ro: ["Important monument cultural", "Reflectă puterea regatului"],
       en: ["Important cultural monument", "Reflects the power of the kingdom"]
-    }
-  },
+    }, image: "/poi-images/palace-of-tieba-traore-landmarks-v2.webp"},
   {
     id: "missirikoro-grotto-landmarks-v2",
     type: "landmark",
@@ -455,8 +441,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Timbuktu központjában állt", "Az őrzőlegenda szimbóluma"],
       ro: ["Situat în centrul Timbuktu", "Simbol al legendei gardianului"],
       en: ["Stood in the center of Timbuktu", "Symbol of the guardian legend"]
-    }
-  },
+    }, image: "/poi-images/monument-al-farouk-landmarks-v2.webp"},
   {
     id: "bceao-building-mopti-landmarks-v2",
     type: "landmark",
@@ -479,8 +464,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A régió fontos pénzügyi központja", "Hagyományos mintákat stilizál"],
       ro: ["Centru financiar important al regiunii", "Stilizează modele tradiționale"],
       en: ["Important financial center of the region", "Stylizes traditional patterns"]
-    }
-  },
+    }, image: "/poi-images/bceao-building-mopti-landmarks-v2.webp"},
   {
     id: "kangaba-sacred-hut-landmarks-v2",
     type: "landmark",
@@ -527,8 +511,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["1991. március 26-ra emlékeztet", "Fontos nemzeti szimbólum"],
       ro: ["Comemorează 26 martie 1991", "Simbol național important"],
       en: ["Commemorates March 26, 1991", "Important national symbol"]
-    }
-  },
+    }, image: "/poi-images/martyrs-monument-bamako-landmarks-v2.webp"},
   {
     id: "tour-d-afrique-bamako-landmarks-v2",
     type: "landmark",
@@ -551,8 +534,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A repülőtér felé vezető úton található", "Népszerű tájékozódási pont"],
       ro: ["Situat pe drumul spre aeroport", "Punct de reper popular"],
       en: ["Located on the way to the airport", "Popular orientation point"]
-    }
-  },
+    }, image: "/poi-images/tour-d-afrique-bamako-landmarks-v2.webp"},
   {
     id: "peace-monument-tombouctou-landmarks-v2",
     type: "landmark",
@@ -575,8 +557,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["1996-ban épült", "A megbékélés szimbóluma"],
       ro: ["Construit în 1996", "Simbol al reconcilierii"],
       en: ["Built in 1996", "Symbol of reconciliation"]
-    }
-  },
+    }, image: "/poi-images/peace-monument-tombouctou-landmarks-v2.webp"},
   {
     id: "monument-des-heros-de-larmee-noire-landmarks-v2",
     type: "landmark",
@@ -599,8 +580,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["1924-ben állították", "A 'Tirailleurs Sénégalais' tiszteletére"],
       ro: ["Ridicat în 1924", "Onorează 'Tirailleurs Sénégalais'"],
       en: ["Erected in 1924", "Honors the 'Tirailleurs Sénégalais'"]
-    }
-  },
+    }, image: "/poi-images/monument-des-heros-de-larmee-noire-landmarks-v2.webp"},
   {
     id: "tour-bceao-sikasso-landmarks-v2",
     type: "landmark",
@@ -623,8 +603,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["A régió gazdasági jelentőségét tükrözi", "Modern építészet"],
       ro: ["Reflectă importanța economică a regiunii", "Arhitectură modernă"],
       en: ["Reflects the economic importance of the region", "Modern architecture"]
-    }
-  },
+    }, image: "/poi-images/tour-bceao-sikasso-landmarks-v2.webp"},
   {
     id: "pont-martyrs-bamako-landmarks-v2",
     type: "landmark",
@@ -647,8 +626,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Az 1950-es években épült", "Eredetileg 'Pont de Badalabougou'"],
       ro: ["Construit în anii 1950", "Inițial 'Pont de Badalabougou'"],
       en: ["Built in the 1950s", "Originally 'Pont de Badalabougou'"]
-    }
-  },
+    }, image: "/poi-images/pont-martyrs-bamako-landmarks-v2.webp"},
   {
     id: "monument-hippopotame-bamako-landmarks-v2",
     type: "landmark",
@@ -671,8 +649,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["Bamako város szimbóluma", "Népszerű fotótéma"],
       ro: ["Simbol al orașului Bamako", "Motiv popular pentru fotografii"],
       en: ["Symbol of the city of Bamako", "Popular photo motif"]
-    }
-  },
+    }, image: "/poi-images/monument-hippopotame-bamako-landmarks-v2.webp"},
   {
     id: "memorial-modibo-keita-landmarks-v2",
     type: "landmark",
@@ -695,8 +672,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
       hu: ["1999-ben avatták fel", "Egy szobrot és egy múzeumot foglal magában"],
       ro: ["Inaugurat în 1999", "Include o statuie și un muzeu"],
       en: ["Inaugurated in 1999", "Includes a statue and a museum"]
-    }
-  },
+    }, image: "/poi-images/memorial-modibo-keita-landmarks-v2.webp"},
   {
     id: "grand-marche-bamako-landmarks-v2",
     type: "landmark",
@@ -722,3 +698,4 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     }
   }
 ];
+

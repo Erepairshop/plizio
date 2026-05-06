@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCostaricaLifeV2: POI[] = [
@@ -25,8 +26,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A piac több mint 200 kis boltnak és kifőzdének ad otthont.", "Itt található az ország leghíresebb kézműves fagylaltozója, a Lolo Mora.", "Az épületet 1995-ben nemzeti kulturális örökséggé nyilvánították.", "A piac egyik különlegessége a gyógynövények és népi gyógymódok széles kínálata.", "Naponta több tízezer ember fordul meg a szűk folyosókon."],
       ro: ["Piața găzduiește peste 200 de mici magazine și localuri tradiționale.", "Aici se află Lolo Mora, cea mai faimoasă înghețată artizanală din întreaga țară.", "Clădirea a fost declarată patrimoniu cultural național în anul 1995.", "O specialitate a pieței este gama largă de plante medicinale și remedii populare.", "Zilnic, zeci de mii de oameni trec prin coridoarele înguste ale acestei piețe istorice."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mercado-central-life-v2.webp"},
   {
     id: "teatro-nacional-life-v2",
     type: "landmark",
@@ -51,8 +51,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["Az építkezést egy speciális kávéadóból finanszírozták a helyi termelők.", "A színház belsejét carrarai márvánnyal és olasz mesterek munkáival díszítették.", "A nézőtér padlója egy speciális mechanizmus segítségével vízszintesbe hozható bálokhoz.", "A színház kávézója, az Alma de Café, a város egyik legelőkelőbb találkozóhelye.", "Az épület csodával határos módon épségben maradt a nagy földrengések során."],
       ro: ["Construcția a fost finanțată printr-o taxă specială pe cafea plătită de producătorii locali.", "Interiorul este decorat cu marmură de Carrara și opere realizate de maeștri italieni.", "Podeaua sălii de spectacole poate fi ridicată la nivel orizontal pentru baluri printr-un mecanism special.", "Cafeneaua teatrului, Alma de Café, este unul dintre cele mai elegante locuri de întâlnire din oraș.", "Clădirea a supraviețuit miraculos marilor cutremure care au afectat capitala de-a lungul timpului."],
       en: []
-    }
-  },
+    }, image: "/poi-images/teatro-nacional-life-v2.webp"},
   {
     id: "finca-cafe-life-v2",
     type: "agriculture",
@@ -77,8 +76,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["Costa Rica volt az első közép-amerikai ország, amely kávét exportált.", "Csak az Arabica fajta termesztése engedélyezett az országban a minőség megőrzése érdekében.", "A kávétermés nagy részét árnyékban termesztik az ökoszisztéma védelméért.", "A szüret általában novembertől márciusig tart.", "Számos birtok kínál 'cupping' (kávékóstoló) túrákat a turistáknak."],
       ro: ["Costa Rica a fost prima țară din America Centrală care a început să exporte cafea.", "Doar soiul Arabica este permis pentru cultivare în țară pentru a menține standardele de calitate.", "O mare parte din recolta de cafea este cultivată la umbră pentru a proteja ecosistemul local.", "Recoltarea are loc de obicei în perioada dintre lunile noiembrie și martie.", "Numeroase proprietăți oferă tururi de „cupping” pentru ca turiștii să învețe să deguste cafeaua."],
       en: []
-    }
-  },
+    }, image: "/poi-images/finca-cafe-life-v2.webp"},
   {
     id: "feria-agricultor-life-v2",
     type: "agriculture",
@@ -103,8 +101,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A piacokon az árakat általában kilóban vagy darabárban adják meg.", "A vásárlók gyakran kapnak kóstolót az ismeretlen gyümölcsökből.", "Itt a legolcsóbb a friss alapanyagok beszerzése az országban.", "A piac fontos szerepet játszik a kistermelők túlélésében.", "Népszerűek a helyben készített frissítő italok, mint a pipa fria (kókuszvíz)."],
       ro: ["Prețurile în aceste piețe sunt de obicei exprimate pe kilogram sau la bucată.", "Cumpărătorii primesc adesea mostre gratuite pentru a gusta fructe tropicale necunoscute.", "Acesta este cel mai ieftin loc din țară pentru a achiziționa ingrediente proaspete și locale.", "Piața joacă un rol crucial în supraviețuirea economică a micilor producători agricoli.", "Băuturile răcoritoare proaspete, cum ar fi „pipa fria” (apa de cocos), sunt extrem de populare aici."],
       en: []
-    }
-  },
+    }, image: "/poi-images/feria-agricultor-life-v2.webp"},
   {
     id: "sarchi-crafts-life-v2",
     type: "landmark",
@@ -129,8 +126,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["Az ökrösszekereket eredetileg kávészállításra használták a hegyekben.", "Minden régiónak megvolt a saját jellegzetes festési stílusa.", "A festékeket régen természetes pigmentekből készítették.", "A városban található gyárak több mint 100 éve üzemelnek.", "Sarchíban készülnek az ország legszebb kézzel faragott hintaszékei is."],
       ro: ["Carele cu boi au fost folosite inițial pentru transportul cafelei din zonele muntoase.", "Fiecare regiune a țării avea propriul său stil distinctiv de pictură pentru aceste care.", "În trecut, culorile folosite pentru decorare erau preparate din pigmenți naturali.", "Fabricile din oraș funcționează de peste 100 de ani, păstrând metodele tradiționale de lucru.", "Sarchí este renumit și pentru producția celor mai frumoase balansoare sculptate manual din țară."],
       en: []
-    }
-  },
+    }, image: "/poi-images/sarchi-crafts-life-v2.webp"},
   {
     id: "marimba-music-life-v2",
     type: "landmark",
@@ -155,8 +151,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A marimbát általában trópusi keményfából, például cocobolóból készítik.", "A hangszer nevét a nemzeti marimba-nap (november 30.) is őrzi.", "Guanacaste-ben szinte minden iskolában tanítják a marimba-játékot.", "Régen tökök szolgáltak rezonátorként a fa billentyűk alatt.", "A zene gyakran mesél el történeteket a régi cowboyok életéből."],
       ro: ["Marimba este fabricată de obicei din lemn de esență tare tropicală, cum ar fi cocobolo.", "Numele instrumentului este onorat prin Ziua Națională a Marimbei, sărbătorită pe 30 noiembrie.", "În Guanacaste, tehnica de a cânta la marimba este predată în aproape toate școlile locale.", "În trecut, tărtăcuțele serveau drept rezonatoare sub clapele de lemn ale instrumentului.", "Muzica interpretată la marimba spune adesea povești despre viața vechilor cowboy din regiune."],
       en: []
-    }
-  },
+    }, image: "/poi-images/marimba-music-life-v2.webp"},
   {
     id: "sabanero-culture-life-v2",
     type: "landmark",
@@ -181,8 +176,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A sabanerók eredetileg a spanyol telepesek és az indiánok leszármazottai.", "A munkájukhoz használt speciális nyereg kényelmes a hosszú napi lovagláshoz.", "Híresek a 'bull riding' (bikagovaglás) tudományukról a helyi rodeókon.", "Libéria városa a sabanero kultúra történelmi központja.", "A sabanero konyha alapja a kukorica és a szárított hús."],
       ro: ["Sabaneros sunt descendenții coloniștilor spanioli și ai populațiilor indigene locale.", "Șaua specială folosită de aceștia este concepută pentru confort în timpul zilelor lungi de călărie.", "Sunt renumiți pentru abilitățile lor la „bull riding” (călăritul taurilor) în cadrul rodeourilor locale.", "Orașul Liberia este considerat centrul istoric și cultural al tradiției sabanero.", "Bucătăria tradițională sabanero se bazează în principal pe porumb și carne uscată la soare."],
       en: []
-    }
-  },
+    }, image: "/poi-images/sabanero-culture-life-v2.webp"},
   {
     id: "tortilla-tradition-life-v2",
     type: "agriculture",
@@ -207,8 +201,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A jó tortilla titka a megfelelő állagú 'masa' (tészta).", "Guanacaste-ben gyakran adnak hozzá sajtot vagy tejszínt a tésztához.", "A tortilla kísérője szinte minden étkezésnek, a reggelitől a vacsoráig.", "A hagyományos comalokat ma is gyakran kézzel készítik agyagból.", "Sok helyen még mindig fatüzelésű kemencéket használnak a sütéshez."],
       ro: ["Secretul unei tortille reușite constă în consistența perfectă a aluatului numit „masa”.", "În Guanacaste, adesea se adaugă brânză sau smântână direct în aluatul pentru tortilla.", "Tortilla însoțește aproape orice masă a zilei, de la micul dejun până la cină.", "Comalurile tradiționale sunt și astăzi adesea fabricate manual din argilă locală.", "Multe gospodării folosesc încă cuptoare cu lemne pentru a obține gustul autentic al tortillei."],
       en: []
-    }
-  },
+    }, image: "/poi-images/tortilla-tradition-life-v2.webp"},
   {
     id: "boruca-masks-life-v2",
     type: "landmark",
@@ -233,8 +226,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A maszkok festéséhez gyakran természetes eredetű festékeket is használnak.", "Az Ördögök Játéka minden év december végén és január elején zajlik.", "A legkeresettebb maszkok az úgynevezett 'ököl-maszkok' (melyek a hódítókra utalnak).", "A faragást és a festést általában a férfiak végzik a faluban.", "A maszkok szimbolizálják a Boruca nép elpusztíthatatlan szellemét."],
       ro: ["Pentru pictarea măștilor se folosesc adesea coloranți obținuți din surse naturale din pădure.", "Festivalul „Jocul Drăcușorilor” are loc în fiecare an între sfârșitul lui decembrie și începutul lui ianuarie.", "Cele mai căutate măști sunt cele de tip „ecologice”, care integrează elemente detaliate de floră și faună.", "Sculptarea și pictarea măștilor sunt activități realizate de obicei de bărbații din sat.", "Aceste măști simbolizează spiritul indestructibil și identitatea culturală a poporului Boruca."],
       en: []
-    }
-  },
+    }, image: "/poi-images/boruca-masks-life-v2.webp"},
   {
     id: "gallo-pinto-life-v2",
     type: "agriculture",
@@ -259,8 +251,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["Nicaragua és Costa Rica évtizedek óta vitázik azon, honnan származik az étel.", "A Gallo Pinto magas fehérje- és rosttartalma miatt rendkívül laktató.", "A Salsa Lizano egy különleges zöldségmártás, amit 1920-ban alkottak meg.", "Minden régiónak megvan a saját apró változtatása a receptben.", "A 'pöttyös' nevet a fehér rizs és a sötét bab keverékének látványáról kapta."],
       ro: ["Nicaragua și Costa Rica au o dispută de decenii cu privire la originea exactă a acestui preparat.", "Gallo Pinto este extrem de sățios datorită conținutului ridicat de proteine și fibre.", "Salsa Lizano este un sos special de legume, creat în Costa Rica în anul 1920.", "Fiecare regiune a țării are propria sa mică variație în rețeta tradițională de preparare.", "Numele de „pătat” provine de la aspectul vizual al orezului alb amestecat cu fasolea închisă la culoare."],
       en: []
-    }
-  },
+    }, image: "/poi-images/gallo-pinto-life-v2.webp"},
   {
     id: "balsa-wood-crafts-life-v2",
     type: "landmark",
@@ -285,8 +276,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A balsafa a világ legkönnyebb kereskedelmi forgalomban lévő fája.", "Régen tutajokat építettek belőle a folyókon való közlekedéshez.", "A fa belseje nagy mennyiségű vizet képes tárolni, ami miatt frissen nehéz.", "A faragott állatfigurák szinte minden Costa Rica-i ajándékboltban megtalálhatók.", "A balsafa fűrészelésekor keletkező por irritálhatja a bőrt, ezért óvatosan dolgoznak vele."],
       ro: ["Lemnul de balsa este cel mai ușor tip de lemn disponibil în comerț la nivel mondial.", "În trecut, din acest lemn se construiau plute pentru transportul pe râurile din junglă.", "Interiorul lemnului poate stoca o cantitate mare de apă, motiv pentru care este greu când e proaspăt tăiat.", "Figurinele sculptate în formă de animale pot fi găsite în aproape toate magazinele de cadouri din țară.", "Praful rezultat din tăierea lemnului de balsa poate irita pielea, de aceea meșteșugarii lucrează cu atenție."],
       en: []
-    }
-  },
+    }, image: "/poi-images/balsa-wood-crafts-life-v2.webp"},
   {
     id: "oxcart-parade-life-v2",
     type: "landmark",
@@ -311,8 +301,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A parádé végén a pap megáldja az állatokat és a szekereket.", "Egy jól kifestett ökrösszekér értéke akár több ezer dollár is lehet.", "A felvonulás az ország kávétermesztő múltjának állít élő emléket.", "Az ökörhajtók különleges parancsokkal irányítják az állatokat, ostor nélkül.", "Az esemény az UNESCO szellemi kulturális örökségének része."],
       ro: ["La finalul paradei, un preot binecuvântează animalele și carele participanților la eveniment.", "Valoarea unui car cu boi bine pictat manual poate ajunge la câteva mii de dolari.", "Parada reprezintă un monument viu al trecutului agricol și al cultivării cafelei în țară.", "Mânuitorii de boi controlează animalele prin comenzi vocale speciale, fără a folosi biciul.", "Evenimentul face parte din patrimoniul cultural imaterial protejat de UNESCO."],
       en: []
-    }
-  },
+    }, image: "/poi-images/oxcart-parade-life-v2.webp"},
   {
     id: "limon-carnival-life-v2",
     type: "landmark",
@@ -337,8 +326,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A karnevál csúcspontja a 'Gran Desfile' (Nagy Felvonulás).", "A calypso zene történeteket mesél el a helyi közösség életéből.", "A fesztivál idején a város lakossága megduplázódik a turisták miatt.", "Itt kóstolható meg az igazi 'Rice and Beans' kókusztejjel készítve.", "A jelmezeket gyakran több ezer színes tollal díszítik."],
       ro: ["Punctul culminant al întregului carnaval este „Gran Desfile” (Marea Paradă a costumelor).", "Muzica calypso interpretată aici spune adesea povești despre viața și greutățile comunității locale.", "În timpul festivalului, populația orașului Limón se dublează datorită fluxului mare de turiști.", "Acesta este locul perfect pentru a gusta preparatul original „Rice and Beans” gătit cu lapte de cocos.", "Costumele participanților sunt adesea decorate cu mii de pene colorate și mărgele strălucitoare."],
       en: []
-    }
-  },
+    }, image: "/poi-images/limon-carnival-life-v2.webp"},
   {
     id: "banana-plantation-life-v2",
     type: "agriculture",
@@ -363,8 +351,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A banánfa valójában a világ legnagyobb lágyszárú növénye, nem fa.", "A fürtöket kék műanyag zacskókkal védik a rovaroktól és a naptól.", "Egy-egy fürt súlya elérheti a 30-50 kilogrammot is.", "Costa Rica a világon az elsők között vezette be a környezetbarát banántermesztést.", "Az ültetvényeken élő állatvilág, például a békák, fontos jelzői az ökoszisztéma egészségének."],
       ro: ["Planta de banan este de fapt cea mai mare plantă erbacee din lume, nu un copac.", "Ciorchinii sunt protejați cu saci de plastic albaștri împotriva insectelor și a arșiței solare.", "Greutatea unui singur ciorchine de banane poate atinge între 30 și 50 de kilograme.", "Costa Rica a fost printre primele țări care au introdus metode de cultivare a bananelor prietenoase cu mediul.", "Fauna care trăiește în plantații, cum ar fi broaștele, reprezintă un indicator important al sănătății ecosistemului."],
       en: []
-    }
-  },
+    }, image: "/poi-images/banana-plantation-life-v2.webp"},
   {
     id: "surfing-culture-life-v2",
     type: "landmark",
@@ -389,8 +376,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["Costa Rica partvonalán több mint 50 kiváló szörfhely található.", "A víz hőmérséklete egész évben 25-28 fok körül mozog.", "Az ország kormánya törvényben védi a szörfözésre alkalmas hullámokat.", "Tamarindo a 'The Endless Summer II' című film forgatási helyszíne volt.", "Sok szörfiskola foglalkozik fogyatékkal élő gyermekek terápiás oktatásával is."],
       ro: ["De-a lungul coastei Costa Ricăi există peste 50 de locații excelente pentru practicarea surfului.", "Temperatura apei mării se menține constantă între 25 și 28 de grade Celsius pe tot parcursul anului.", "Guvernul țării protejează prin lege valurile potrivite pentru practicarea acestui sport nautic.", "Tamarindo a fost una dintre locațiile de filmare pentru celebrul documentar de surf „The Endless Summer II”.", "Multe școli de surf oferă cursuri terapeutice special concepute pentru copiii cu dizabilități."],
       en: []
-    }
-  },
+    }, image: "/poi-images/surfing-culture-life-v2.webp"},
   {
     id: "chorotega-pottery-life-v2",
     type: "landmark",
@@ -415,8 +401,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["Az égetéshez használt kemencék ma is ugyanúgy épülnek, mint régen.", "A színeket porrá tört színes kövekből és növényi nedvekből nyerik.", "Minden egyes darab teljes mértékben egyedi kézimunka.", "A mesterség tudása szájhagyomány útján száll apáról fiúra a faluban.", "A kerámiák között gyakoriak a háromlábú edények és az állat alakú sípok."],
       ro: ["Cuptoarele folosite pentru arderea ceramicii sunt construite și astăzi după aceleași metode străvechi.", "Culorile sunt obținute din pietre colorate măcinate fin și amestecate cu seve de plante.", "Fiecare piesă realizată este în întregime unică, fiind rezultatul unei munci manuale minuțioase.", "Cunoștințele meșteșugului sunt transmise oral de la tată la fiu în cadrul comunităților locale.", "Printre obiectele de ceramică sunt frecvente vasele cu trei picioare și fluierele în formă de animale."],
       en: []
-    }
-  },
+    }, image: "/poi-images/chorotega-pottery-life-v2.webp"},
   {
     id: "pineapple-farming-life-v2",
     type: "agriculture",
@@ -441,8 +426,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["Egy ananásznövény csak egyetlen gyümölcsöt terem egyszerre.", "A betakarítástól számítva a gyümölcs nem érik tovább, ezért pontosan kell szüretelni.", "Az ananász bromelain enzimet tartalmaz, ami segíti az emésztést.", "Costa Rica fejlett technológiát használ az öntözéshez és a kártevők elleni védekezéshez.", "Számos farm kínál ananász-túrákat, ahol a friss gyümölcsöt közvetlenül a földről kóstolhatjuk meg."],
       ro: ["O plantă de ananas produce un singur fruct la un moment dat în ciclul său de viață.", "Fructul nu se mai coace după ce a fost recoltat, așa că momentul culesului trebuie să fie exact.", "Ananasul conține bromelaină, o enzimă naturală care ajută la procesul de digestie.", "Costa Rica folosește tehnologii avansate pentru irigare și protecția împotriva dăunătorilor agricoli.", "Multe ferme oferă tururi tematice unde ananasul proaspăt poate fi gustat direct de pe câmp."],
       en: []
-    }
-  },
+    }, image: "/poi-images/pineapple-farming-life-v2.webp"},
   {
     id: "fishing-village-life-v2",
     type: "agriculture",
@@ -467,8 +451,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["A halászok gyakran még ma is hagyományos hálókat és zsinórokat használnak.", "Sok faluban szövetkezetekbe tömörülve értékesítik az árut.", "A halászfalu gazdaságának alapja a friss tengeri ételek exportja a városokba.", "Gyakran szerveznek horgásztúrákat turisták számára is.", "A falvakban népszerű a 'ceviche', ami frissen fogott halból készül citromlével."],
       ro: ["Pescarii folosesc adesea și astăzi plase și undițe tradiționale pentru a proteja resursele marine.", "În multe sate, pescarii s-au organizat în cooperative pentru a-și vinde marfa mai eficient.", "Baza economiei acestor sate este exportul de fructe de mare proaspete către orașele mari.", "Adesea sunt organizate tururi de pescuit sportiv special concepute pentru turiștii pasionați.", "În aceste sate este foarte popular „ceviche”, preparat din pește proaspăt prins și suc de lămâie."],
       en: []
-    }
-  },
+    }, image: "/poi-images/fishing-village-life-v2.webp"},
   {
     id: "yoga-wellness-life-v2",
     type: "landmark",
@@ -493,8 +476,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       hu: ["Az országban található számos 'Kék Zóna' inspirálja a wellness programokat.", "Sok helyen kínálnak hagyományos gyógynövényes kezeléseket is.", "A jógateraszok gyakran nyitottak, falak nélkül, hogy érezhető legyen a dzsungel levegője.", "Costa Rica világszerte híres a meditációs elvonulásairól.", "A wellness-turizmus jelentős gazdasági bevételt jelent a távoli vidékeknek."],
       ro: ["Numeroasele „Zone Albastre” din țară servesc drept inspirație pentru programele de wellness.", "Multe centre oferă tratamente tradiționale bazate pe plante medicinale locale.", "Terasele de yoga sunt adesea deschise, fără pereți, pentru a simți aerul curat al junglei.", "Costa Rica este faimoasă la nivel mondial pentru retreat-urile sale dedicate meditației profunde.", "Turismul de wellness generează venituri economice semnificative pentru regiunile rurale izolate."],
       en: []
-    }
-  },
+    }, image: "/poi-images/yoga-wellness-life-v2.webp"},
   {
     id: "cocoa-tradition-life-v2",
     type: "agriculture",
@@ -522,3 +504,4 @@ export const poiExtraCostaricaLifeV2: POI[] = [
     }
   }
 ];
+

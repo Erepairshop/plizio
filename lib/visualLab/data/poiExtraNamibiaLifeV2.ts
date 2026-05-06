@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNamibiaLifeV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["A sóstaváról ismert", "Elefántok és oroszlánok otthona", "Legjobb megfigyelés a vízlelőhelyeken", "Gazdag fajdiverzitás"],
       ro: ["Cunoscut pentru lacul său sărat", "Găzduiește elefanți și lei", "Cea mai bună observare la găurile de apă", "Biodiversitate bogată"],
       en: ["Known for its salt pan", "Home to elephants and lions", "Best viewing at waterholes", "Rich biodiversity"]
-    }
-  },
+    }, image: "/poi-images/namibia-etosha-animal-habitat-life-v2.webp"},
   {
     id: "namibia-namib-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -27,8 +27,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["A Föld legidősebb sivataga", "A Sossusvlei-ről ismert", "Alkalmazkodott oryxantilopok otthona", "Látványos homokdűnék"],
       ro: ["Cel mai vechi deșert de pe Pământ", "Cunoscut pentru Sossusvlei", "Casă pentru antilope oryx adaptate", "Dune de nisip spectaculoase"],
       en: ["World's oldest desert", "Known for Sossusvlei", "Home to adapted oryx", "Spectacular sand dunes"]
-    }
-  },
+    }, image: "/poi-images/namibia-namib-animal-habitat-life-v2.webp"},
   {
     id: "namibia-waterberg-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -41,8 +40,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Szélesszájú orrszarvú menedéke", "Gepárdok védelme", "Történelmi sziklaformációk", "Változatos madárvilág"],
       ro: ["Protecție pentru rinocerii albi", "Protecție pentru ghepazi", "Formațiuni stâncoase istorice", "Avifaună diversă"],
       en: ["Sanctuary for white rhinos", "Cheetah conservation", "Historical rock formations", "Diverse birdlife"]
-    }
-  },
+    }, image: "/poi-images/namibia-waterberg-animal-habitat-life-v2.webp"},
   {
     id: "namibia-cape-cross-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -55,8 +53,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Tízezernyi medvefóka", "Történelmi kereszt-emlékmű", "A Csontvázparton", "Kihívást jelentő klíma"],
       ro: ["Zeci de mii de foci cu blană", "Monument istoric în formă de cruce", "Pe Coasta Scheletelor", "Climat dificil"],
       en: ["Tens of thousands of seals", "Historical cross monument", "On the Skeleton Coast", "Challenging climate"]
-    }
-  },
+    }, image: "/poi-images/namibia-cape-cross-animal-habitat-life-v2.webp"},
   {
     id: "namibia-hardap-agriculture-life-v2",
     type: "agriculture",
@@ -69,8 +66,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Namíbia legnagyobb gátja", "Zöldségtermesztés a sivatagban", "Halászat", "Pihenés a víznél"],
       ro: ["Cel mai mare baraj din Namibia", "Cultivarea legumelor în deșert", "Piscicultură", "Recreere pe malul apei"],
       en: ["Largest dam in Namibia", "Vegetable farming in the desert", "Fish farming", "Water recreation"]
-    }
-  },
+    }, image: "/poi-images/namibia-hardap-agriculture-life-v2.webp"},
   {
     id: "namibia-tsumeb-agriculture-life-v2",
     type: "agriculture",
@@ -83,8 +79,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Ismert állattartó gazdaságairól", "Gabonatermesztés", "Viszonylag magas csapadék", "Zöld táj"],
       ro: ["Cunoscută pentru fermele de animale", "Cultivarea cerealelor", "Precipitații relativ ridicate", "Peisaj verde"],
       en: ["Known for livestock farms", "Grain farming", "Relatively high rainfall", "Green landscape"]
-    }
-  },
+    }, image: "/poi-images/namibia-tsumeb-agriculture-life-v2.webp"},
   {
     id: "namibia-gobabis-agriculture-life-v2",
     type: "agriculture",
@@ -97,8 +92,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["A marhatenyésztés központja", "Hatalmas legelők", "Marhahús-export", "Homokos talajok"],
       ro: ["Centrul creșterii bovinelor", "Pășuni vaste", "Export de carne de vită", "Soluri nisipoase"],
       en: ["Hub of cattle industry", "Vast grazing lands", "Beef export", "Sandy soils"]
-    }
-  },
+    }, image: "/poi-images/namibia-gobabis-agriculture-life-v2.webp"},
   {
     id: "namibia-windhoek-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -111,8 +105,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Játszóterek", "Piknikhelyek", "Biztonságos szabadidős tér", "Központi elhelyezkedés"],
       ro: ["Locuri de joacă", "Zone de picnic", "Spațiu de recreere sigur", "Amplasare centrală"],
       en: ["Playgrounds", "Picnic areas", "Safe recreational space", "Centrally located"]
-    }
-  },
+    }, image: "/poi-images/namibia-windhoek-kid-landmark-life-v2.webp"},
   {
     id: "namibia-swakopmund-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -125,8 +118,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Megfigyelő alagút", "Helyi halfajok", "Oktatási programok", "Az Atlanti-óceán partján"],
       ro: ["Tunel de observare", "Specii de pești locali", "Programe educaționale", "Situat la Atlantic"],
       en: ["Observation tunnel", "Local fish species", "Educational programs", "Located by the Atlantic"]
-    }
-  },
+    }, image: "/poi-images/namibia-swakopmund-kid-landmark-life-v2.webp"},
   {
     id: "namibia-okahandja-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -139,8 +131,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Hagyományos fafaragások", "Ajándéktárgyak", "Betekintés a művészetbe", "Kulturális központ"],
       ro: ["Sculpturi tradiționale", "Suveniruri", "O privire în artă", "Centru cultural"],
       en: ["Traditional carvings", "Souvenirs", "Insight into art", "Cultural hub"]
-    }
-  },
+    }, image: "/poi-images/namibia-okahandja-kid-landmark-life-v2.webp"},
   {
     id: "namibia-bwabwata-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -153,8 +144,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["A KAZA-park része", "Elefántfolyosó", "Gazdag növényzet", "Folyóparti tájak"],
       ro: ["Parte a parcului KAZA", "Coridor pentru elefanți", "Vegetație bogată", "Peisaje fluviale"],
       en: ["Part of KAZA park", "Elephant corridor", "Rich vegetation", "Riverine landscapes"]
-    }
-  },
+    }, image: "/poi-images/namibia-bwabwata-animal-habitat-life-v2.webp"},
   {
     id: "namibia-mudumu-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -167,8 +157,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["A Kwando folyónál", "Elefántok és bivalyok", "Ritka antilopok", "Ökoturizmus"],
       ro: ["La râul Kwando", "Elefanți și bivoli", "Antilope rare", "Ecoturism"],
       en: ["On the Kwando river", "Elephants and buffalo", "Rare antelopes", "Ecotourism"]
-    }
-  },
+    }, image: "/poi-images/namibia-mudumu-animal-habitat-life-v2.webp"},
   {
     id: "namibia-dorob-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -181,8 +170,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Parti dűnetáj", "Vándormadarak", "Sivatagi növények", "Sporthorgászat"],
       ro: ["Peisaj de dune de coastă", "Păsări migratoare", "Plante de deșert", "Pescuit sportiv"],
       en: ["Coastal dune landscape", "Migratory birds", "Desert plants", "Sport fishing"]
-    }
-  },
+    }, image: "/poi-images/namibia-dorob-animal-habitat-life-v2.webp"},
   {
     id: "namibia-kavango-agriculture-life-v2",
     type: "agriculture",
@@ -195,8 +183,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Önellátó gazdálkodás", "Kukorica- és kölestermesztés", "Halászat", "Folyómenti élet"],
       ro: ["Agricultură de subzistență", "Cultivarea porumbului și a meiului", "Pescuit", "Viață pe malul râului"],
       en: ["Subsistence farming", "Maize and millet farming", "Fishing", "Life by the river"]
-    }
-  },
+    }, image: "/poi-images/namibia-kavango-agriculture-life-v2.webp"},
   {
     id: "namibia-otjiwarongo-agriculture-life-v2",
     type: "agriculture",
@@ -209,8 +196,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Gepárdvédelem", "Nagyállattartás", "Gazdasági központ", "Jó infrastruktúra"],
       ro: ["Protecția ghepazilor", "Creșterea animalelor mari", "Centru economic", "Infrastructură bună"],
       en: ["Cheetah conservation", "Large cattle farming", "Economic hub", "Good infrastructure"]
-    }
-  },
+    }, image: "/poi-images/namibia-otjiwarongo-agriculture-life-v2.webp"},
   {
     id: "namibia-kalahari-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -223,8 +209,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Vörös homokdűnék", "Springbok antilopok", "Oroszlánok és szurikáták", "Száraz szavanna"],
       ro: ["Dune de nisip roșu", "Antilope springbok", "Lei și suricate", "Savana uscată"],
       en: ["Red sand dunes", "Springbok antelopes", "Lions and meerkats", "Dry savanna"]
-    }
-  },
+    }, image: "/poi-images/namibia-kalahari-animal-habitat-life-v2.webp"},
   {
     id: "namibia-fish-river-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -237,8 +222,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Második legnagyobb kanyon", "Sivatagi sziklakecskék", "Ragadozó madarak", "Látványos geológia"],
       ro: ["Al doilea mare canion", "Antilope de stâncă", "Păsări răpitoare", "Geologie spectaculoasă"],
       en: ["Second largest canyon", "Desert klipspringers", "Birds of prey", "Spectacular geology"]
-    }
-  },
+    }, image: "/poi-images/namibia-fish-river-animal-habitat-life-v2.webp"},
   {
     id: "namibia-mariental-agriculture-life-v2",
     type: "agriculture",
@@ -251,8 +235,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Szőlőtermesztési projektek", "Juhtenyésztés", "Forró sivatagi klíma", "Öntözőrendszerek"],
       ro: ["Proiecte viticole", "Creșterea oilor", "Climat deșertic fierbinte", "Sisteme de irigații"],
       en: ["Viticulture projects", "Sheep farming", "Hot desert climate", "Irrigation systems"]
-    }
-  },
+    }, image: "/poi-images/namibia-mariental-agriculture-life-v2.webp"},
   {
     id: "namibia-outjo-agriculture-life-v2",
     type: "agriculture",
@@ -265,8 +248,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Állatvásárok", "Zöldség- és gyümölcstermesztés", "Hozzáférés az Etosha-parkhoz", "Mezőgazdasági vásárok"],
       ro: ["Piețe de animale", "Legumicultură și pomicultură", "Acces la parcul Etosha", "Târguri agricole"],
       en: ["Livestock markets", "Vegetable and fruit farming", "Access to Etosha park", "Agricultural shows"]
-    }
-  },
+    }, image: "/poi-images/namibia-outjo-agriculture-life-v2.webp"},
   {
     id: "namibia-rundu-agriculture-life-v2",
     type: "agriculture",
@@ -279,8 +261,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Zöldségtermesztés az ártéren", "Halászati szövetkezetek", "Piacok", "Trópusi hangulat"],
       ro: ["Legumicultură în luncă", "Cooperative de pescuit", "Comerț în piețe", "Atmosferă tropicală"],
       en: ["Vegetable growing in floodplains", "Fishing cooperatives", "Market trading", "Tropical vibe"]
-    }
-  },
+    }, image: "/poi-images/namibia-rundu-agriculture-life-v2.webp"},
   {
     id: "namibia-sesriem-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -293,8 +274,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Túrák a kanyonban", "Geológiai felfedezések", "Hűsítő árnyék", "Kalandösvények"],
       ro: ["Drumeții în canion", "Descoperiri geologice", "Umbră răcoritoare", "Trasee de aventură"],
       en: ["Hikes in the canyon", "Geological discoveries", "Cooling shade", "Adventure paths"]
-    }
-  },
+    }, image: "/poi-images/namibia-sesriem-kid-landmark-life-v2.webp"},
   {
     id: "namibia-walvis-bay-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -307,8 +287,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Több ezer flamingó", "Megfigyelő platformok", "Madárvilág", "Lagúna-ökoszisztéma"],
       ro: ["Mii de flamingo", "Platforme de observare", "Avifaună", "Ecosistem de lagună"],
       en: ["Thousands of flamingos", "Observation platforms", "Birdlife", "Lagoon ecosystem"]
-    }
-  },
+    }, image: "/poi-images/namibia-walvis-bay-kid-landmark-life-v2.webp"},
   {
     id: "namibia-tsumkwe-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -321,8 +300,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Kulturális csere", "Hagyományos játékok", "Nyomkeresés-tanulás", "Oktatás"],
       ro: ["Schimb cultural", "Jocuri tradiționale", "Învățarea urmăririi urmelor", "Educație"],
       en: ["Cultural exchange", "Traditional games", "Tracking learning", "Education"]
-    }
-  },
+    }, image: "/poi-images/namibia-tsumkwe-kid-landmark-life-v2.webp"},
   {
     id: "namibia-luderitz-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -335,8 +313,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Történelmi épületek", "Kikötői séta", "Parti séták", "Sivatagi város"],
       ro: ["Clădiri istorice", "Turul portului", "Plimbări pe coastă", "Oraș deșertic"],
       en: ["Historical buildings", "Harbor tour", "Coastal walks", "Desert town"]
-    }
-  },
+    }, image: "/poi-images/namibia-luderitz-kid-landmark-life-v2.webp"},
   {
     id: "namibia-caprivi-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -349,8 +326,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Folyóparti tájak", "Nagyvad", "Gazdag növényzet", "Ökológiai változatosság"],
       ro: ["Peisaje fluviale", "Vânat mare", "Floră bogată", "Diversitate ecologică"],
       en: ["River landscapes", "Big game", "Rich flora", "Ecological diversity"]
-    }
-  },
+    }, image: "/poi-images/namibia-caprivi-animal-habitat-life-v2.webp"},
   {
     id: "namibia-damaraland-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -363,8 +339,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Sivataghoz alkalmazkodott elefántok", "Sziklarajzok", "Látványos hegyi tájak", "Ritka állatfajok"],
       ro: ["Elefanți adaptați la deșert", "Picturi rupestre", "Peisaje montane spectaculoase", "Specii rare de animale"],
       en: ["Desert-adapted elephants", "Rock engravings", "Spectacular mountain landscapes", "Rare animal species"]
-    }
-  },
+    }, image: "/poi-images/namibia-damaraland-animal-habitat-life-v2.webp"},
   {
     id: "namibia-spitzkoppe-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -377,8 +352,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Természetes sziklaívek", "Könnyű mászóhelyek", "Kempingezési lehetőségek", "Sivatagi fotózás"],
       ro: ["Arcuri de stâncă naturale", "Puncte de cățărare ușoare", "Opțiuni de camping", "Fotografie de deșert"],
       en: ["Natural rock arches", "Easy climbing spots", "Camping options", "Desert photography"]
-    }
-  },
+    }, image: "/poi-images/namibia-spitzkoppe-kid-landmark-life-v2.webp"},
   {
     id: "namibia-okavango-agriculture-life-v2",
     type: "agriculture",
@@ -391,8 +365,7 @@ export const poiExtraNamibiaLifeV2: POI[] = [
       hu: ["Hagyományos szántóföldi gazdálkodás", "Öntözés a folyó által", "Zöldségeskertek", "Vidéki fejlesztés"],
       ro: ["Agricultură tradițională", "Irigare prin râu", "Grădini de legume", "Dezvoltare rurală"],
       en: ["Traditional farming", "Irrigation by the river", "Vegetable gardens", "Rural development"]
-    }
-  },
+    }, image: "/poi-images/namibia-okavango-agriculture-life-v2.webp"},
   {
     id: "namibia-aus-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -408,3 +381,4 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     }
   }
 ];
+

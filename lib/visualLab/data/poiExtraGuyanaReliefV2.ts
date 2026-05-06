@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuyanaReliefV2: POI[] = [ {
@@ -62,8 +63,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Difficult to access terrain.",
         "Important habitat for montane species."
       ]
-    }
-  }, {
+    }, image: "/poi-images/mount-kopinang-relief-v2.webp"}, {
     id: "mount-wating-relief-v2",
     type: "mountain",
     parent: "GY-UT",
@@ -73,26 +73,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Wating-hegy",
       ro: "Muntele Wating",
       en: "Mount Wating"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mount wating relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Der Mount Wating erhebt sich in der südlichen Region Upper Takutu-Upper Essequibo und bietet eine raue, felsige Landschaft.",
@@ -125,8 +105,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Far from major settlements.",
         "Hosts rare plant species."
       ]
-    }
-  }, {
+    }, image: "/poi-images/mount-wating-relief-v2.webp"}, {
     id: "mount-makarapan-relief-v2",
     type: "mountain",
     parent: "GY-UT",
@@ -136,26 +115,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Makarapan-hegy",
       ro: "Muntele Makarapan",
       en: "Mount Makarapan"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mount makarapan relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein isoliertes Bergmassiv in den Rupununi-Savannen, das oft als markanter Orientierungspunkt in der sonst flachen Landschaft dient.",
@@ -188,8 +147,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Mentioned in local legends.",
         "Serves as a refuge for wildlife."
       ]
-    }
-  }, {
+    }, image: "/poi-images/mount-makarapan-relief-v2.webp"}, {
     id: "mount-holitipu-relief-v2",
     type: "mountain",
     parent: "GY-CU",
@@ -199,26 +157,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Holitipu-hegy",
       ro: "Muntele Holitipu",
       en: "Mount Holitipu"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mount holitipu relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Dieser Berg in der Mazaruni-Region ist bekannt für seine steilen Hänge und die dichte Bewaldung, die ihn zu einer Herausforderung für Entdecker macht.",
@@ -251,8 +189,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Features deep gorges.",
         "Little-explored terrain."
       ]
-    }
-  }, {
+    }, image: "/poi-images/mount-holitipu-relief-v2.webp"}, {
     id: "mount-kamakusa-relief-v2",
     type: "mountain",
     parent: "GY-CU",
@@ -262,26 +199,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Kamakusa-hegy",
       ro: "Muntele Kamakusa",
       en: "Mount Kamakusa"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mount kamakusa relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Der Mount Kamakusa ragt markant in der Cuyuni-Mazaruni-Region auf und bildet einen wichtigen Teil der geologischen Struktur des Guyana-Schildes.",
@@ -314,8 +231,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Often shrouded in clouds.",
         "Significant to indigenous groups."
       ]
-    }
-  }, {
+    }, image: "/poi-images/mount-kamakusa-relief-v2.webp"}, {
     id: "merume-mountains-relief-v2",
     type: "mountain",
     parent: "GY-CU",
@@ -325,26 +241,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Merume-hegység",
       ro: "Munții Merume",
       en: "Merume Mountains"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al merume mountains relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine Bergkette im Nordwesten Guyanas, die für ihr zerklüftetes Terrain und das Vorkommen seltener Mineralien wie Merumit bekannt ist.",
@@ -377,8 +273,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Dense, pristine vegetation.",
         "Geologically very old formation."
       ]
-    }
-  }, {
+    }, image: "/poi-images/merume-mountains-relief-v2.webp"}, {
     id: "imataka-mountains-relief-v2",
     type: "mountain",
     parent: "GY-BA",
@@ -388,26 +283,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Imataka-hegység",
       ro: "Munții Imataka",
       en: "Imataka Mountains"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al imataka mountains relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein Höhenzug nahe der Grenze zu Venezuela, der von feuchten Tropenwäldern überzogen und reich an Eisenerz ist.",
@@ -440,8 +315,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Important catchment area for rivers.",
         "Habitat for jaguars and harpy eagles."
       ]
-    }
-  }, {
+    }, image: "/poi-images/imataka-mountains-relief-v2.webp"}, {
     id: "mount-appokail-relief-v2",
     type: "mountain",
     parent: "GY-CU",
@@ -451,26 +325,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Appokail-hegy",
       ro: "Muntele Appokail",
       en: "Mount Appokail"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mount appokail relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein abgelegener Gipfel im Hochland, der für seine unberührte Natur und steile Felswände charakteristisch ist.",
@@ -503,8 +357,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Rich in endemic orchids.",
         "Crisscrossed by traditional paths."
       ]
-    }
-  }, {
+    }, image: "/poi-images/mount-appokail-relief-v2.webp"}, {
     id: "mount-weitipu-relief-v2",
     type: "mountain",
     parent: "GY-CU",
@@ -514,26 +367,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Weitipu-hegy",
       ro: "Muntele Weitipu",
       en: "Mount Weitipu"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mount weitipu relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein markanter Tafelberg, der sich majestätisch über die grüne Decke des Regenwaldes erhebt und ein faszinierendes Ökosystem beherbergt.",
@@ -566,8 +399,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Unique summit flora.",
         "Part of a complex hydrological system."
       ]
-    }
-  }, {
+    }, image: "/poi-images/mount-weitipu-relief-v2.webp"}, {
     id: "mount-tulameng-relief-v2",
     type: "mountain",
     parent: "GY-CU",
@@ -577,26 +409,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Tulameng-hegy",
       ro: "Muntele Tulameng",
       en: "Mount Tulameng"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mount tulameng relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine schroffe Erhebung im Westen Guyanas, die von dichten Wäldern umgeben ist und als natürliches Hindernis für die Fortbewegung gilt.",
@@ -629,8 +441,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Geologically composed of Precambrian rock.",
         "Significant in local myths."
       ]
-    }
-  }, {
+    }, image: "/poi-images/mount-tulameng-relief-v2.webp"}, {
     id: "mount-maringma-relief-v2",
     type: "mountain",
     parent: "GY-CU",
@@ -640,26 +451,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Maringma-hegy",
       ro: "Muntele Maringma",
       en: "Mount Maringma"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mount maringma relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein Tepui in der Nähe des Roraima-Massivs, dessen flaches Gipfelplateau eine außergewöhnliche Vielfalt an fleischfressenden Pflanzen aufweist.",
@@ -692,8 +483,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Often obscured by dense fog banks.",
         "Popular destination for specialized expeditions."
       ]
-    }
-  }, {
+    }, image: "/poi-images/mount-maringma-relief-v2.webp"}, {
     id: "kamoa-mountains-relief-v2",
     type: "mountain",
     parent: "GY-UT",
@@ -703,26 +493,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Kamoa-hegység",
       ro: "Munții Kamoa",
       en: "Kamoa Mountains"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al kamoa mountains relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine sehr abgelegene Bergkette im äußersten Süden Guyanas, die an den Acarai-Höhenzug grenzt und größtenteils unerforscht ist.",
@@ -755,8 +525,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Almost no human intervention.",
         "Important area for nature conservation."
       ]
-    }
-  }, {
+    }, image: "/poi-images/kamoa-mountains-relief-v2.webp"}, {
     id: "ebini-mountain-relief-v2",
     type: "mountain",
     parent: "GY-PT",
@@ -766,26 +535,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Ebini-hegy",
       ro: "Muntele Ebini",
       en: "Ebini Mountain"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al ebini mountain relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein isolierter Berg, der sich über die dichten Wälder der Potaro-Siparuni-Region erhebt und einen markanten Umriss in der Landschaft bildet.",
@@ -830,26 +579,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       ro: "Dealul Mabura",
       en: "Mabura Hill"
     },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mabura hill relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eine bewaldete Anhöhe, die als Zentrum der lokalen Holzindustrie bekannt ist, aber auch eine reiche Artenvielfalt in ihrer Umgebung bewahrt.",
       hu: "Egy erdős magaslat, amely a helyi faipar központjaként ismert, de egyben gazdag biológiai sokféleséget is megőriz a környezetében.",
@@ -881,8 +610,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Surrounded by primary forest.",
         "Popular among biologists for field studies."
       ]
-    }
-  }, {
+    }, image: "/poi-images/mabura-hill-relief-v2.webp"}, {
     id: "konawaruk-forest-relief-v2",
     type: "forest",
     parent: "GY-PT",
@@ -892,26 +620,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Konawaruk-erdő",
       ro: "Pădurea Konawaruk",
       en: "Konawaruk Forest"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al konawaruk forest relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein ausgedehntes Waldgebiet entlang des Konawaruk-Flusses, das trotz historischem Bergbau noch immer bemerkenswerte Naturräume aufweist.",
@@ -944,8 +652,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Regenerating secondary forests.",
         "Habitat for amphibians."
       ]
-    }
-  }, {
+    }, image: "/poi-images/konawaruk-forest-relief-v2.webp"}, {
     id: "essequibo-rainforests-relief-v2",
     type: "forest",
     parent: "GY-UT",
@@ -955,26 +662,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Essequibo-esőerdők",
       ro: "Pădurile Tropicale Essequibo",
       en: "Essequibo Rainforests"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al essequibo rainforests relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Die gewaltigen Regenwälder entlang des Essequibo-Flussbeckens zählen zu den größten intakten Waldökosystemen Südamerikas.",
@@ -1007,8 +694,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Important carbon sink.",
         "Partially secured by protected areas."
       ]
-    }
-  }, {
+    }, image: "/poi-images/essequibo-rainforests-relief-v2.webp"}, {
     id: "rupununi-savanna-relief-v2",
     type: "relief",
     parent: "GY-UT",
@@ -1018,26 +704,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Rupununi-szavanna",
       ro: "Savana Rupununi",
       en: "Rupununi Savanna"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al rupununi savanna relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine ausgedehnte Graslandschaft im Südwesten, die sich während der Regenzeit in ein riesiges Feuchtgebiet verwandelt.",
@@ -1070,8 +736,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Divided by the Kanuku Mountains.",
         "Traditional territory of the Makushi people."
       ]
-    }
-  }, {
+    }, image: "/poi-images/rupununi-savanna-relief-v2.webp"}, {
     id: "white-sand-plateau-relief-v2",
     type: "relief",
     parent: "GY-UD",
@@ -1081,26 +746,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Fehérhomok-fennsík",
       ro: "Podișul Nisipurilor Albe",
       en: "White Sand Plateau"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al white sand plateau relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine geologische Formation hinter der Küstenebene, die durch weiße, nährstoffarme Sandböden und spezialisierte Buschvegetation gekennzeichnet ist.",
@@ -1133,8 +778,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Home to the Dakama forest.",
         "Very permeable soils."
       ]
-    }
-  }, {
+    }, image: "/poi-images/white-sand-plateau-relief-v2.webp"}, {
     id: "demerara-coastal-plain-relief-v2",
     type: "relief",
     parent: "GY-DE",
@@ -1144,26 +788,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Demerara-partmenti síkság",
       ro: "Câmpia de Coastă Demerara",
       en: "Demerara Coastal Plain"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al demerara coastal plain relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Die fruchtbare, aber tief liegende Küstenebene Guyanas, die durch ein komplexes System von Deichen und Kanälen vor dem Meer geschützt wird.",
@@ -1196,8 +820,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Home to the majority of the population.",
         "Heavily threatened by climate change."
       ]
-    }
-  }, {
+    }, image: "/poi-images/demerara-coastal-plain-relief-v2.webp"}, {
     id: "mazaruni-rainforests-relief-v2",
     type: "forest",
     parent: "GY-CU",
@@ -1207,26 +830,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Mazaruni-esőerdők",
       ro: "Pădurile Tropicale Mazaruni",
       en: "Mazaruni Rainforests"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mazaruni rainforests relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Dichte, nahezu undurchdringliche Tropenwälder, die das Einzugsgebiet des Mazaruni-Flusses säumen und für ihre immense Artenvielfalt bekannt sind.",
@@ -1259,8 +862,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Difficult area to navigate.",
         "Cultural heartland of the Akawaio indigenous people."
       ]
-    }
-  }, {
+    }, image: "/poi-images/mazaruni-rainforests-relief-v2.webp"}, {
     id: "berbice-savanna-relief-v2",
     type: "relief",
     parent: "GY-EB",
@@ -1270,26 +872,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Berbice-szavanna",
       ro: "Savana Berbice",
       en: "Berbice Savanna"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al berbice savanna relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine ausgedehnte Gras- und Strauchlandschaft im Osten Guyanas, die von einem Netzwerk kleiner Flüsse und Feuchtgebiete durchzogen ist.",
@@ -1322,8 +904,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Hosts many waterbird species.",
         "Soils are often sandy and leached."
       ]
-    }
-  }, {
+    }, image: "/poi-images/berbice-savanna-relief-v2.webp"}, {
     id: "upper-takutu-forest-relief-v2",
     type: "forest",
     parent: "GY-UT",
@@ -1333,26 +914,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Felső-Takutu-erdő",
       ro: "Pădurea Takutu de Sus",
       en: "Upper Takutu Forest"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al upper takutu forest relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine weite Waldregion im tiefen Süden, die als ökologische Brücke zwischen den Amazonaswäldern und dem Guyana-Schild fungiert.",
@@ -1385,8 +946,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Differs floristically from northern Guyana.",
         "Part of a planned international conservation corridor."
       ]
-    }
-  }, {
+    }, image: "/poi-images/upper-takutu-forest-relief-v2.webp"}, {
     id: "barima-waini-mangrove-forests-relief-v2",
     type: "forest",
     parent: "GY-BA",
@@ -1396,26 +956,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Barima-Waini mangróveerdők",
       ro: "Pădurile de Mangrove Barima-Waini",
       en: "Barima-Waini Mangrove Forests"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al barima waini mangrove forests relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Die ausgedehnten Küstenmangroven im Nordwesten Guyanas dienen als entscheidender Puffer gegen Meereserosion und als Kinderstube für Meereslebewesen.",
@@ -1448,8 +988,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Important for local fisheries.",
         "Rich in various mangrove species."
       ]
-    }
-  }, {
+    }, image: "/poi-images/barima-waini-mangrove-forests-relief-v2.webp"}, {
     id: "cuyuni-mazaruni-highlands-relief-v2",
     type: "relief",
     parent: "GY-CU",
@@ -1459,26 +998,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Cuyuni-Mazaruni-felföld",
       ro: "Zonele Înalte Cuyuni-Mazaruni",
       en: "Cuyuni-Mazaruni Highlands"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al cuyuni mazaruni highlands relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein komplexes System aus Hochebenen, tiefen Tälern und Tafelbergen, das den geologischen Kern des westlichen Guyanas bildet.",
@@ -1511,8 +1030,7 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
         "Sparsely populated area.",
         "Contains valuable mineral deposits."
       ]
-    }
-  }, {
+    }, image: "/poi-images/cuyuni-mazaruni-highlands-relief-v2.webp"}, {
     id: "kaieteur-plateau-relief-v2",
     type: "relief",
     parent: "GY-PT",
@@ -1522,26 +1040,6 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       hu: "Kaieteur-fennsík",
       ro: "Podișul Kaieteur",
       en: "Kaieteur Plateau"
-    },
-    descriptionAdvanced: {
-      de: "Das Relief Guyanas umfasst weite Küstenebenen, dichte Regenwälder und das Hochland im Inneren.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al kaieteur plateau relief v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein großes, bewaldetes Sandsteinplateau, von dem die berühmten Kaieteur-Fälle in die Tiefe stürzen.",

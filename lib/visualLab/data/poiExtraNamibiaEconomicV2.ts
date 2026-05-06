@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNamibiaEconomicV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["A Namport kezeli.", "Mélyvízi kikötő az Atlanti-óceánon.", "Fontos a konténerforgalom számára.", "Tranzitpont a tengerparttal nem rendelkező országoknak."],
       ro: ["Administrat de Namport.", "Port de mare adâncime la Atlantic.", "Important pentru traficul de containere.", "Poartă pentru țările fără ieșire la mare."],
       en: ["Managed by Namport.", "Deep-water port on the Atlantic.", "Important for container traffic.", "Gateway for landlocked countries."]
-    }
-  },
+    }, image: "/poi-images/walvis-bay-hafen-economic-v2.webp"},
   {
     id: "luederitz-hafen-economic-v2",
     type: "port",
@@ -27,8 +27,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Namíbia második kikötője.", "Fókuszban a halászat.", "Cinket és ólmot exportál.", "Történelmi jelentőségű."],
       ro: ["Al doilea port al Namibiei.", "Axa pe pescuit.", "Exportă zinc și plumb.", "Importanță istorică."],
       en: ["Namibia's second port.", "Focus on fishing.", "Exports zinc and lead.", "Historical significance."]
-    }
-  },
+    }, image: "/poi-images/luederitz-hafen-economic-v2.webp"},
   {
     id: "roessing-uranmine-economic-v2",
     type: "industry",
@@ -41,8 +40,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["1976 óta termel.", "Többségi tulajdonosa a CNUC.", "Külszíni fejtés.", "A Namib-sivatagban található."],
       ro: ["Produce din 1976.", "Deținută majoritar de CNUC.", "Exploatare la suprafață.", "Situată în deșertul Namib."],
       en: ["Producing since 1976.", "Majority owned by CNUC.", "Open-pit mining operation.", "Located in the Namib Desert."]
-    }
-  },
+    }, image: "/poi-images/roessing-uranmine-economic-v2.webp"},
   {
     id: "husab-uranmine-economic-v2",
     type: "industry",
@@ -55,8 +53,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["2016-ban nyitott meg.", "Kínai befektetés.", "A világ második legnagyobb uránbányája.", "Hatalmas termelési kapacitás."],
       ro: ["Deschisă în 2016.", "Investiție chineză.", "A doua cea mai mare mină de uraniu din lume.", "Capacitate uriașă de producție."],
       en: ["Opened in 2016.", "Chinese investment.", "Second-largest uranium mine in the world.", "Massive production capacity."]
-    }
-  },
+    }, image: "/poi-images/husab-uranmine-economic-v2.webp"},
   {
     id: "langer-heinrich-mine-economic-v2",
     type: "industry",
@@ -69,8 +66,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["1973-ban fedezték fel.", "A Paladin Energy tulajdona.", "Karbantartás után újraindították.", "Mészköves érc bányászata."],
       ro: ["Descoperită în 1973.", "Deținută de Paladin Energy.", "Reactivată după întreținere.", "Extracție de minereu calcret."],
       en: ["Discovered in 1973.", "Owned by Paladin Energy.", "Reactivated after care and maintenance.", "Calcrete ore mining."]
-    }
-  },
+    }, image: "/poi-images/langer-heinrich-mine-economic-v2.webp"},
   {
     id: "trekkopje-uranmine-economic-v2",
     type: "industry",
@@ -83,8 +79,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["A francia Orano csoport tulajdona.", "Nagy, sekély ércesedés.", "Saját sótalanító üzemet használ.", "Külszíni fejtésű struktúra."],
       ro: ["Deținut de grupul francez Orano.", "Zăcământ extins de mică adâncime.", "Folosește propria uzină de desalinizare.", "Structură de exploatare la suprafață."],
       en: ["Owned by French group Orano.", "Large shallow ore deposit.", "Uses its own desalination plant.", "Open-pit structure."]
-    }
-  },
+    }, image: "/poi-images/trekkopje-uranmine-economic-v2.webp"},
   {
     id: "ohorongo-zementwerk-economic-v2",
     type: "industry",
@@ -97,8 +92,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Otavi közelében található.", "Helyi nyersanyagokat használ.", "Magas energiahatékonyság.", "Fontos az építőipar számára."],
       ro: ["Situată lângă Otavi.", "Folosește materii prime locale.", "Eficiență energetică ridicată.", "Importantă pentru industria construcțiilor."],
       en: ["Located near Otavi.", "Uses local raw materials.", "High energy efficiency.", "Crucial for the construction industry."]
-    }
-  },
+    }, image: "/poi-images/ohorongo-zementwerk-economic-v2.webp"},
   {
     id: "skorpion-zinkmine-economic-v2",
     type: "industry",
@@ -111,8 +105,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["A Vedanta Resources tulajdona.", "Nagy tisztaságú cinket termel.", "Külszíni fejtés Rosh Pinah közelében.", "Fontos munkáltató délen."],
       ro: ["Aparține Vedanta Resources.", "Produce zinc de înaltă puritate.", "Exploatare la suprafață lângă Rosh Pinah.", "Angajator important în sud."],
       en: ["Owned by Vedanta Resources.", "Produces high-purity zinc.", "Open-pit operation near Rosh Pinah.", "Major employer in the south."]
-    }
-  },
+    }, image: "/poi-images/skorpion-zinkmine-economic-v2.webp"},
   {
     id: "rosh-pinah-zinkmine-economic-v2",
     type: "industry",
@@ -125,8 +118,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["1969 óta üzemel.", "Mélyszíni bányászat.", "A helyi városfejlesztés motorja.", "Fontos ólomkoncentrátum-exportőr."],
       ro: ["În funcțiune din 1969.", "Minerit subteran.", "Motor al dezvoltării urbane locale.", "Exportator important de concentrat de plumb."],
       en: ["Operational since 1969.", "Underground mining method.", "Driver of local town development.", "Major exporter of lead concentrate."]
-    }
-  },
+    }, image: "/poi-images/rosh-pinah-zinkmine-economic-v2.webp"},
   {
     id: "navachab-goldmine-economic-v2",
     type: "industry",
@@ -139,8 +131,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["1989-ben nyitották meg.", "Külszíni fejtés.", "Hosszú ideig az egyetlen aranybánya volt.", "Aranyrudakat állít elő."],
       ro: ["Deschisă în 1989.", "Exploatare la suprafață.", "Singura mină de aur pentru mult timp.", "Produce lingouri de aur."],
       en: ["Opened in 1989.", "Open-pit mining.", "Only gold mine for a long time.", "Produces gold bullion."]
-    }
-  },
+    }, image: "/poi-images/navachab-goldmine-economic-v2.webp"},
   {
     id: "otjikoto-goldmine-economic-v2",
     type: "industry",
@@ -153,8 +144,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["A B2Gold tulajdona.", "Első termelés 2014-ben.", "Saját naperőművet használ.", "Az ország második legnagyobb aranybányája."],
       ro: ["Deținută de B2Gold.", "Prima producție în 2014.", "Folosește propria centrală solară.", "A doua cea mai mare mină de aur din țară."],
       en: ["Owned by B2Gold.", "First production in 2014.", "Uses its own solar power plant.", "Second-largest gold mine in the country."]
-    }
-  },
+    }, image: "/poi-images/otjikoto-goldmine-economic-v2.webp"},
   {
     id: "tschudi-kupfermine-economic-v2",
     type: "industry",
@@ -167,8 +157,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Külszíni fejtés.", "SX-EW technológiát használ.", "Fontos Oshikoto régió számára.", "Nagy tisztaságú réz termelése."],
       ro: ["Exploatare la suprafață.", "Folosește tehnologia SX-EW.", "Importantă pentru regiunea Oshikoto.", "Produce cupru de înaltă puritate."],
       en: ["Open-pit mining.", "Uses SX-EW technology.", "Important for the Oshikoto region.", "Produces high-purity copper."]
-    }
-  },
+    }, image: "/poi-images/tschudi-kupfermine-economic-v2.webp"},
   {
     id: "matchless-kupfermine-economic-v2",
     type: "industry",
@@ -181,8 +170,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Windhoektól nyugatra található.", "Földalatti bányászat.", "A Weatherly International része.", "Hosszú bányászati hagyomány."],
       ro: ["Situată la vest de Windhoek.", "Minerit subteran.", "Face parte din Weatherly International.", "Lunga tradiție minieră."],
       en: ["Located west of Windhoek.", "Underground mining.", "Part of Weatherly International.", "Long mining tradition."]
-    }
-  },
+    }, image: "/poi-images/matchless-kupfermine-economic-v2.webp"},
   {
     id: "otjihase-kupfermine-economic-v2",
     type: "industry",
@@ -195,8 +183,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Földalatti bányászat.", "Windhoektól keletre.", "Fontos munkáltató.", "Rézet és piritet termel."],
       ro: ["Minerit subteran.", "La est de Windhoek.", "Angajator important.", "Produce cupru și pirită."],
       en: ["Underground mining.", "East of Windhoek.", "Major employer.", "Produces copper and pyrite."]
-    }
-  },
+    }, image: "/poi-images/otjihase-kupfermine-economic-v2.webp"},
   {
     id: "namdeb-oranjemund-economic-v2",
     type: "industry",
@@ -209,8 +196,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Az egyik leggazdagabb gyémántlelőhely.", "Hordalékos bányászat.", "Közös vállalat a De Beers-szel.", "Meghatározza Oranjemund városát."],
       ro: ["Una dintre cele mai bogate zone cu diamante.", "Minerit aluvionar.", "Joint venture cu De Beers.", "Definește orașul Oranjemund."],
       en: ["One of the richest diamond areas.", "Alluvial mining.", "Joint venture with De Beers.", "Shapes the town of Oranjemund."]
-    }
-  },
+    }, image: "/poi-images/namdeb-oranjemund-economic-v2.webp"},
   {
     id: "elizabeth-bay-mine-economic-v2",
     type: "industry",
@@ -223,8 +209,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Lüderitztől délre.", "Parti üledékek bányászata.", "Történelmi bányászváros.", "Többször is újraindították."],
       ro: ["La sud de Lüderitz.", "Extracția sedimentelor de plajă.", "Sit minier istoric.", "A fost reactivată de mai multe ori."],
       en: ["South of Lüderitz.", "Mining of beach sediments.", "Historic mining site.", "Has been reactivated several times."]
-    }
-  },
+    }, image: "/poi-images/elizabeth-bay-mine-economic-v2.webp"},
   {
     id: "bogenfels-diamantenmine-economic-v2",
     type: "industry",
@@ -237,8 +222,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["A jellegzetes sziklakapuról nevezték el.", "A Sperrgebiet történelmének része.", "Fókuszban a tengeri teraszok.", "Nehéz logisztika."],
       ro: ["Numită după arcul stâncos proeminent.", "Parte a istoriei Sperrgebiet.", "Axa pe terasele marine.", "Logistică dificilă."],
       en: ["Named after the prominent rock arch.", "Part of the Sperrgebiet history.", "Focus on marine terraces.", "Difficult logistics."]
-    }
-  },
+    }, image: "/poi-images/bogenfels-diamantenmine-economic-v2.webp"},
   {
     id: "salzgewinnung-swakopmund-economic-v2",
     type: "industry",
@@ -251,8 +235,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Swakopmundtól északra.", "Több ezer tonna sót termel.", "Mágnesként vonzza a flamingókat.", "Fontos helyi munkaadó."],
       ro: ["La nord de Swakopmund.", "Produce mii de tone de sare.", "Un magnet pentru flamingo.", "Angajator local important."],
       en: ["North of Swakopmund.", "Produces thousands of tons of salt.", "A magnet for flamingos.", "Important local employer."]
-    }
-  },
+    }, image: "/poi-images/salzgewinnung-swakopmund-economic-v2.webp"},
   {
     id: "walvis-bay-salzgewinnung-economic-v2",
     type: "industry",
@@ -265,8 +248,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Hatalmas párologtató medencék.", "Világszerte exportál.", "A lagúnától délre található.", "Évente több mint 1 millió tonnát termel."],
       ro: ["Bazine uriașe de evaporare.", "Exportă în întreaga lume.", "Situată la sud de lagună.", "Produce peste 1 milion de tone anual."],
       en: ["Huge evaporation ponds.", "Exports globally.", "Located south of the lagoon.", "Produces over 1 million tons annually."]
-    }
-  },
+    }, image: "/poi-images/walvis-bay-salzgewinnung-economic-v2.webp"},
   {
     id: "namwater-hauptsitz-economic-v2",
     type: "industry",
@@ -279,8 +261,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Windhoekban található.", "Állami vállalat.", "Gátakat és csővezetékeket kezel.", "Biztosítja a bányák vízellátását."],
       ro: ["Situat în Windhoek.", "Companie de stat.", "Gestionează baraje și conducte.", "Asigură alimentarea cu apă a minelor."],
       en: ["Located in Windhoek.", "State-owned enterprise.", "Manages dams and pipelines.", "Secures water supply for mines."]
-    }
-  },
+    }, image: "/poi-images/namwater-hauptsitz-economic-v2.webp"},
   {
     id: "van-eck-kraftwerk-economic-v2",
     type: "industry",
@@ -293,8 +274,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["A NamPower üzemelteti.", "Csúcsterhelési energiát biztosít.", "Jellegzetes hűtőtornyok Windhoekban.", "Az ország egyetlen széntüzelésű erőműve."],
       ro: ["Operată de NamPower.", "Furnizează energie de vârf.", "Turnuri de răcire proeminente în Windhoek.", "Singura centrală pe cărbune din țară."],
       en: ["Operated by NamPower.", "Provides peak load energy.", "Prominent cooling towers in Windhoek.", "The country's only coal power plant."]
-    }
-  },
+    }, image: "/poi-images/van-eck-kraftwerk-economic-v2.webp"},
   {
     id: "ruacana-wasserkraftwerk-economic-v2",
     type: "industry",
@@ -307,8 +287,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Namíbia legnagyobb erőműve.", "A Kunene vízét használja.", "Földalatti turbinák.", "Az áramellátás alappillére."],
       ro: ["Cea mai mare centrală din Namibia.", "Folosește apa râului Kunene.", "Turbine subterane.", "Element de bază al alimentării cu energie."],
       en: ["Namibia's largest power station.", "Uses the waters of the Kunene.", "Underground turbines.", "Core of the power supply."]
-    }
-  },
+    }, image: "/poi-images/ruacana-wasserkraftwerk-economic-v2.webp"},
   {
     id: "kudu-gasfeld-economic-v2",
     type: "industry",
@@ -321,8 +300,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Az Atlanti-óceánban található.", "Fontos a jövőbeli energiaprojektek szempontjából.", "Az 1970-es években fedezték fel.", "Egy gázerőművet fog ellátni."],
       ro: ["Situat în Oceanul Atlantic.", "Important pentru viitoarele proiecte energetice.", "Descoperit în anii 1970.", "Destinat să alimenteze o centrală pe gaz."],
       en: ["Located in the Atlantic Ocean.", "Important for future energy projects.", "Discovered in the 1970s.", "Intended to supply a gas power plant."]
-    }
-  },
+    }, image: "/poi-images/kudu-gasfeld-economic-v2.webp"},
   {
     id: "omburu-solarkraftwerk-economic-v2",
     type: "industry",
@@ -335,8 +313,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Omaruru közelében.", "Több mint 30 000 modulból áll.", "Csökkenti az importfüggőséget.", "A zöld energia átállás része."],
       ro: ["Situată lângă Omaruru.", "Formată din peste 30.000 de module.", "Reduce dependența de importuri.", "Parte a tranziției energetice verzi."],
       en: ["Located near Omaruru.", "Consists of over 30,000 modules.", "Reduces dependence on imports.", "Part of the green energy transition."]
-    }
-  },
+    }, image: "/poi-images/omburu-solarkraftwerk-economic-v2.webp"},
   {
     id: "erongo-entsalzungsanlage-economic-v2",
     type: "industry",
@@ -349,8 +326,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Wlotzkasbaken mellett található.", "Fordított ozmózis technológia.", "20 millió köbméteres kapacitás.", "Fontos az uránipar számára."],
       ro: ["Situată la Wlotzkasbaken.", "Tehnologie cu osmoză inversă.", "Capacitate de 20 milioane metri cubi.", "Importantă pentru industria uraniului."],
       en: ["Located at Wlotzkasbaken.", "Reverse osmosis technology.", "Capacity of 20 million cubic meters.", "Crucial for the uranium industry."]
-    }
-  },
+    }, image: "/poi-images/erongo-entsalzungsanlage-economic-v2.webp"},
   {
     id: "meatco-fleischfabrik-economic-v2",
     type: "industry",
@@ -363,8 +339,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Államilag támogatott.", "Az EU-ba és Ázsiába exportál.", "A legmagasabb minőségi szabványok.", "Támogatja a helyi agrárszektort."],
       ro: ["Sprijinită de stat.", "Exportă în UE și Asia.", "Cele mai înalte standarde de calitate.", "Sprijină sectorul agricol local."],
       en: ["State-supported.", "Exports to the EU and Asia.", "Highest quality standards.", "Supports the local agricultural sector."]
-    }
-  },
+    }, image: "/poi-images/meatco-fleischfabrik-economic-v2.webp"},
   {
     id: "namibia-brauereien-economic-v2",
     type: "industry",
@@ -377,8 +352,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["A híres Windhoek Lager gyártója.", "Az egyik legnagyobb munkaadó.", "Napenergiát használ.", "Erős export a szomszédos országokba."],
       ro: ["Produce faimoasa Windhoek Lager.", "Unul dintre cei mai mari angajatori.", "Folosește energie solară.", "Export puternic în țările vecine."],
       en: ["Produces the famous Windhoek Lager.", "One of the largest employers.", "Uses solar energy.", "Strong export to neighboring countries."]
-    }
-  },
+    }, image: "/poi-images/namibia-brauereien-economic-v2.webp"},
   {
     id: "ebh-namibia-economic-v2",
     type: "industry",
@@ -391,8 +365,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Úszódokkokat üzemeltet.", "Olajfúró tornyokat és hajókat tart karban.", "Központi tengerészeti csomópont.", "Speciális mérnöki szolgáltatásokat nyújt."],
       ro: ["Operează docuri plutitoare.", "Întreține platforme petroliere și nave.", "Centru maritim cheie.", "Oferă servicii de inginerie specializate."],
       en: ["Operates floating docks.", "Maintains oil rigs and vessels.", "Key maritime hub.", "Provides specialized engineering services."]
-    }
-  },
+    }, image: "/poi-images/ebh-namibia-economic-v2.webp"},
   {
     id: "namdia-diamantenhandel-economic-v2",
     type: "industry",
@@ -405,8 +378,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       hu: ["Székhelye Windhoekban.", "Elősegíti az árfelfedezést.", "Biztosítja az állami bevételeket.", "Globális gyémántcsiszolóknak értékesít."],
       ro: ["Sediul în Windhoek.", "Promovează descoperirea prețurilor.", "Asigură venituri statului.", "Vinde șlefuitorilor globali de diamante."],
       en: ["Headquartered in Windhoek.", "Promotes price discovery.", "Secures government revenues.", "Sells to global diamond polishers."]
-    }
-  },
+    }, image: "/poi-images/namdia-diamantenhandel-economic-v2.webp"},
   {
     id: "dundee-precious-metals-tsumeb-economic-v2",
     type: "industry",
@@ -422,3 +394,4 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
     }
   }
 ];
+

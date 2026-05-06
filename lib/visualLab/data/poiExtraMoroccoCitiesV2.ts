@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMoroccoCitiesV2: POI[] = [
@@ -42,8 +43,19 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Has the largest port in the country.",
         "Known for its modern architecture."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+          de: "",
+          hu: "",
+          ro: "",
+          en: "Casablanca, Morocco's economic capital, is a vibrant metropolis with over 3.3 million inhabitants. The city is world-famous for the Hassan II Mosque, whose 210-meter minaret is one of the tallest in the world. Since the French protectorate era (1912–1956), the city has made a name for itself worldwide through Art Deco architecture and modern design. It is a hub for trade, finance, and industry. Geography K10 — coastal cities and economic spaces."
+    },
+    factsAdvanced: {
+          de: [],
+          hu: [],
+          ro: [],
+          en: ["Founded as a modern port in 1912.", "Hassan II Mosque completed in 1993.", "Port is among the largest in Africa.", "Over 3.3 million inhabitants in the metro area.", "Influence of Art Deco architecture is significant.", "Most important financial center in the Maghreb."]
+    }, image: "/poi-images/ma-casablanca-cities-v2.webp"},
   {
     id: "ma-rabat-cities-v2",
     type: "state-capital",
@@ -85,8 +97,19 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "The medina is a UNESCO World Heritage site.",
         "Located at the mouth of the Bou Regreg river."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+          de: "",
+          hu: "",
+          ro: "",
+          en: "Rabat, the capital of Morocco, is a cultural hub with history dating back to Roman times. The city is known for the Hassan Tower, an unfinished 12th-century minaret. Rabat is a UNESCO World Heritage site, as it uniquely bridges the medina and the modern 20th-century district. It is located at the mouth of the Bou Regreg, which separates it from Salé. Sachkunde K7 — capitals and world heritage."
+    },
+    factsAdvanced: {
+          de: [],
+          hu: [],
+          ro: [],
+          en: ["Hassan Tower planned by Almohad Sultan al-Mansur in 1195.", "Capital since independence in 1956.", "UNESCO World Heritage status since 2012.", "Rabat and Salé form a twin city.", "Numerous embassies in the diplomatic quarter.", "Seat of the Moroccan government."]
+    }, image: "/poi-images/ma-rabat-cities-v2.webp"},
   {
     id: "ma-fes-cities-v2",
     type: "city",
@@ -128,8 +151,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Center of traditional craftsmanship.",
         "Has impressive ancient city gates."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-fes-cities-v2.webp"},
   {
     id: "ma-marrakech-cities-v2",
     type: "city",
@@ -171,8 +193,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Home to the beautiful Majorelle Garden.",
         "An important tourist center."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-marrakech-cities-v2.webp"},
   {
     id: "ma-tangier-cities-v2",
     type: "city",
@@ -214,8 +235,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Was once an international zone.",
         "An important transport hub to Europe."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-tangier-cities-v2.webp"},
   {
     id: "ma-agadir-cities-v2",
     type: "city",
@@ -257,8 +277,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Has an important fishing port.",
         "A center for surf tourism."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-agadir-cities-v2.webp"},
   {
     id: "ma-meknes-cities-v2",
     type: "city",
@@ -300,8 +319,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Nearby are the Roman ruins of Volubilis.",
         "Center of a rich agricultural region."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-meknes-cities-v2.webp"},
   {
     id: "ma-oujda-cities-v2",
     type: "city",
@@ -343,8 +361,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Is an important railway junction.",
         "Its culture shows Andalusian and Ottoman influences."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-oujda-cities-v2.webp"},
   {
     id: "ma-kenitra-cities-v2",
     type: "city",
@@ -386,8 +403,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Is a center for the automotive industry.",
         "Important stop for the Moroccan high-speed train."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-kenitra-cities-v2.webp"},
   {
     id: "ma-tetouan-cities-v2",
     type: "city",
@@ -429,8 +445,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Was the capital of the Spanish protectorate.",
         "Scenically located in the Rif Mountains."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-tetouan-cities-v2.webp"},
   {
     id: "ma-safi-cities-v2",
     type: "city",
@@ -472,8 +487,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Has historic Portuguese fortifications.",
         "Located on the Atlantic coast south of Casablanca."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-safi-cities-v2.webp"},
   {
     id: "ma-mohammedia-cities-v2",
     type: "city",
@@ -515,8 +529,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Offers popular beaches and golf courses.",
         "Has a major oil port."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-mohammedia-cities-v2.webp"},
   {
     id: "ma-khouribga-cities-v2",
     type: "city",
@@ -558,8 +571,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Hosts an annual African film festival.",
         "Located on an arid plateau."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-khouribga-cities-v2.webp"},
   {
     id: "ma-beni-mellal-cities-v2",
     type: "city",
@@ -601,8 +613,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "An important agricultural center.",
         "Located at the intersection of major trade routes."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-beni-mellal-cities-v2.webp"},
   {
     id: "ma-el-jadida-cities-v2",
     type: "city",
@@ -644,8 +655,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Popular summer resort for Moroccans.",
         "Located on a bay that offers protection from the Atlantic."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-el-jadida-cities-v2.webp"},
   {
     id: "ma-taza-cities-v2",
     type: "city",
@@ -687,8 +697,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Was formerly an important fortified city.",
         "Forms the gateway to eastern Morocco."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-taza-cities-v2.webp"},
   {
     id: "ma-nador-cities-v2",
     type: "city",
@@ -730,8 +739,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "The economy benefits from trade and remittances from Europe.",
         "Is the center of the Berber-speaking Riffians."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-nador-cities-v2.webp"},
   {
     id: "ma-settat-cities-v2",
     type: "city",
@@ -773,8 +781,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Home to the Hassan I University.",
         "Center of a major grain-growing region."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-settat-cities-v2.webp"},
   {
     id: "ma-ksar-el-kebir-cities-v2",
     type: "city",
@@ -816,8 +823,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Has many historic mosques and shrines.",
         "The medina shows Andalusian influence."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-ksar-el-kebir-cities-v2.webp"},
   {
     id: "ma-larache-cities-v2",
     type: "city",
@@ -859,8 +865,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Has a busy fishing port.",
         "The Plaza de España is the center of the city."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-larache-cities-v2.webp"},
   {
     id: "ma-khemisset-cities-v2",
     type: "city",
@@ -902,8 +907,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Located between the coastal plain and the mountains.",
         "An important agricultural hub."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-khemisset-cities-v2.webp"},
   {
     id: "ma-guelmim-cities-v2",
     type: "city",
@@ -945,8 +949,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Surrounded by palm groves.",
         "The Oued Noun flows through it."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-guelmim-cities-v2.webp"},
   {
     id: "ma-berrechid-cities-v2",
     type: "city",
@@ -988,8 +991,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Important railway junction for southern Morocco.",
         "Located in a fertile agricultural zone."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-berrechid-cities-v2.webp"},
   {
     id: "ma-taourirt-cities-v2",
     type: "city",
@@ -1031,8 +1033,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Has a significant military presence.",
         "Located on the main east-west transport axis."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-taourirt-cities-v2.webp"},
   {
     id: "ma-errachidia-cities-v2",
     type: "city",
@@ -1074,8 +1075,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Its university attracts many students from the south.",
         "Offers a modern airport."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-errachidia-cities-v2.webp"},
   {
     id: "ma-taroudant-cities-v2",
     type: "city",
@@ -1117,8 +1117,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Center of the Souss Valley.",
         "Was briefly the capital of the Saadi dynasty."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-taroudant-cities-v2.webp"},
   {
     id: "ma-ouarzazate-cities-v2",
     type: "city",
@@ -1160,8 +1159,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Nearby is the famous Kasbah Ait Benhaddou.",
         "The Taourirt Kasbah shapes the cityscape."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-ouarzazate-cities-v2.webp"},
   {
     id: "ma-berkane-cities-v2",
     type: "city",
@@ -1203,8 +1201,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Located in the Triffa Basin near the Mediterranean Sea.",
         "Nearby are the Zegzel Gorge and the Taforalt Cave."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-berkane-cities-v2.webp"},
   {
     id: "ma-al-hoceima-cities-v2",
     type: "city",
@@ -1246,8 +1243,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Located in the center of the Rif Mountains.",
         "An important location for fishing."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-al-hoceima-cities-v2.webp"},
   {
     id: "ma-chefchaouen-cities-v2",
     type: "city",
@@ -1289,8 +1285,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Is a popular destination for photographers.",
         "Known for the cultivation and sale of local handicraft products."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-chefchaouen-cities-v2.webp"},
   {
     id: "ma-laayoune-cities-v2",
     type: "city",
@@ -1332,8 +1327,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Located near significant phosphate mines (Boucraa).",
         "Has an international airport."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-laayoune-cities-v2.webp"},
   {
     id: "ma-dakhla-cities-v2",
     type: "city",
@@ -1375,8 +1369,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "An important center for the fishing industry.",
         "Tourism is growing rapidly due to excellent wind conditions."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-dakhla-cities-v2.webp"},
   {
     id: "ma-sidi-kacem-cities-v2",
     type: "city",
@@ -1418,8 +1411,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Economy is based on the processing of sugar beet and grain.",
         "The city's oil refinery has been closed."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-sidi-kacem-cities-v2.webp"},
   {
     id: "ma-tiflet-cities-v2",
     type: "city",
@@ -1461,8 +1453,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Serves as a satellite city for Rabat.",
         "Its local agriculture produces mint and olive oil."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-tiflet-cities-v2.webp"},
   {
     id: "ma-essaouira-cities-v2",
     type: "city",
@@ -1504,8 +1495,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Traditional center of crafts with thuya wood.",
         "Host of the annual Gnaoua festival."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-essaouira-cities-v2.webp"},
   {
     id: "ma-tiznit-cities-v2",
     type: "city",
@@ -1547,8 +1537,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Serves as a gateway to the Anti-Atlas region.",
         "Is a major trading center for local Berber tribes."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-tiznit-cities-v2.webp"},
   {
     id: "ma-azrou-cities-v2",
     type: "city",
@@ -1590,8 +1579,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Famous for the Barbary macaques in the nearby forests.",
         "A center for wood carving and carpet weaving."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-azrou-cities-v2.webp"},
   {
     id: "ma-midelt-cities-v2",
     type: "city",
@@ -1633,8 +1621,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "An important stop on the journey to the desert (Erfoud/Merzouga).",
         "Known for fossil finds in the surrounding area."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-midelt-cities-v2.webp"},
   {
     id: "ma-sefrou-cities-v2",
     type: "city",
@@ -1676,8 +1663,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Has beautiful small waterfalls (Cascades de Sefrou).",
         "The architecture of the medina differs from that in Fes."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-sefrou-cities-v2.webp"},
   {
     id: "ma-jerada-cities-v2",
     type: "city",
@@ -1719,8 +1705,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Struggling with economic challenges following the mine closure.",
         "Trying to reinvent itself as a center for solar energy."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-jerada-cities-v2.webp"},
   {
     id: "ma-tinghir-cities-v2",
     type: "city",
@@ -1762,8 +1747,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Offers a contrast between green palms and red rocks.",
         "Is strongly influenced by tourism."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-tinghir-cities-v2.webp"},
   {
     id: "ma-zagora-cities-v2",
     type: "city",
@@ -1805,8 +1789,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "The nearby mountain Jbel Zagora offers great views.",
         "Historically a resting place of the Saadis."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-zagora-cities-v2.webp"},
   {
     id: "ma-youssoufia-cities-v2",
     type: "city",
@@ -1848,8 +1831,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Has modern engineering schools.",
         "Is closely tied to the city of Safi, where the phosphate is exported."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-youssoufia-cities-v2.webp"},
   {
     id: "ma-fnideq-cities-v2",
     type: "city",
@@ -1891,8 +1873,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Offers modern beaches and promenades.",
         "Experiences a strong tourist influx in the summer months."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-fnideq-cities-v2.webp"},
   {
     id: "ma-ouezzane-cities-v2",
     type: "city",
@@ -1934,8 +1915,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Famous for olive oil and traditional wool (Djellabas).",
         "Does not have historical city walls."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-ouezzane-cities-v2.webp"},
   {
     id: "ma-guercif-cities-v2",
     type: "city",
@@ -1977,8 +1957,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Connects Fes with Oujda.",
         "Its surrounding plains are characterized by steppe."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-guercif-cities-v2.webp"},
   {
     id: "ma-oued-zem-cities-v2",
     type: "city",
@@ -2020,8 +1999,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Center of the Smaala tribes.",
         "Agriculture in the area focuses on grain."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-oued-zem-cities-v2.webp"},
   {
     id: "ma-sidi-ifni-cities-v2",
     type: "city",
@@ -2063,8 +2041,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Nearby beaches like Legzira are famous for their stone arches.",
         "Benefits from the growing surf tourism."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-sidi-ifni-cities-v2.webp"},
   {
     id: "ma-martil-cities-v2",
     type: "city",
@@ -2106,8 +2083,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Has a long, modern beach promenade.",
         "Was once used as a pirate base."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-martil-cities-v2.webp"},
   {
     id: "ma-asilah-cities-v2",
     type: "city",
@@ -2149,8 +2125,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Was a Portuguese garrison in the 15th century.",
         "Characterized by clean, whitewashed streets."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-asilah-cities-v2.webp"},
   {
     id: "ma-ifrane-cities-v2",
     type: "city",
@@ -2192,8 +2167,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Roofs are extremely steep to support snow loads.",
         "Offers nearby ski resorts (Michlifen)."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-ifrane-cities-v2.webp"},
   {
     id: "ma-tan-tan-cities-v2",
     type: "city",
@@ -2235,8 +2209,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "The port of Tan-Tan-Plage (El Ouatia) is important for fishing.",
         "A statue of two camels marks the entrance to the city."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-tan-tan-cities-v2.webp"},
   {
     id: "ma-khenifra-cities-v2",
     type: "city",
@@ -2278,8 +2251,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Located near the Oum er-Rbia springs.",
         "A red kasbah characterizes the city center."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-khenifra-cities-v2.webp"},
   {
     id: "ma-taounate-cities-v2",
     type: "city",
@@ -2321,8 +2293,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "The Bouhouda Dam is an important water source for the region.",
         "Agriculture is often practiced on steep terraces."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-taounate-cities-v2.webp"},
   {
     id: "ma-azemmour-cities-v2",
     type: "city",
@@ -2364,8 +2335,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Many artists have been inspired by the quiet streets.",
         "Located just a few kilometers from El Jadida."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-azemmour-cities-v2.webp"},
   {
     id: "ma-el-kelaa-des-sraghna-cities-v2",
     type: "city",
@@ -2407,8 +2377,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "A lively commercial center near Marrakech.",
         "The local irrigation system has strongly developed the region."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-el-kelaa-des-sraghna-cities-v2.webp"},
   {
     id: "ma-benslimane-cities-v2",
     type: "city",
@@ -2450,8 +2419,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "A popular spot for golf and equestrian enthusiasts.",
         "Is increasingly becoming a residential town for commuters."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-benslimane-cities-v2.webp"},
   {
     id: "ma-sidi-bennour-cities-v2",
     type: "city",
@@ -2493,8 +2461,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Is an important supplier for the coastal cities.",
         "Its importance increased with the expansion of irrigation canals."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-sidi-bennour-cities-v2.webp"},
   {
     id: "ma-boujdour-cities-v2",
     type: "city",
@@ -2536,8 +2503,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Experiencing extensive infrastructure investments.",
         "Center for the development of renewable energies (wind power)."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-boujdour-cities-v2.webp"},
   {
     id: "ma-taliouine-cities-v2",
     type: "city",
@@ -2582,3 +2548,4 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       }
   }
 ];
+

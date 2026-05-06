@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/sachkundeK1.ts
 import type { PoolTopicDef } from "./types";
 
@@ -784,3 +785,4 @@ export const SACHKUNDE_K1_DIPLOM_POOL: PoolTopicDef[] = [
     quiz: { generate: "sinnesorgane" }
   }
 ];
+

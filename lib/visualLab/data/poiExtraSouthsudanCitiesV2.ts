@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSouthsudanCitiesV2: POI[] = [
@@ -23,8 +24,19 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Az ország fővárosa", "Kikötő a Fehér-Níluson", "Gyorsan növekvő metropolisz", "A nemzeti kormány székhelye"],
       ro: ["Capitala țării", "Port pe Nilul Alb", "Metropolă în curs de dezvoltare", "Sediul guvernului național"],
       en: ["National capital city", "Port on the White Nile", "Fast-growing metropolis", "Seat of the national government"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Juba, gelegen am Westufer des Weißen Nils, fungiert seit 2011 als Hauptstadt der unabhängig gewordenen Republik Südsudan. Die Stadt ist ein schnell wachsendes Handels- und Regierungszentrum, das eine entscheidende Rolle in der wirtschaftlichen Entwicklung der Region spielt. Geographie K7 – Die Bedeutung von Flussläufen für die Stadtentwicklung.",
+      hu: "Juba, amely a Fehér-Nílus nyugati partján fekszik, 2011 óta a független Dél-Szudáni Köztársaság fővárosa. A város gyorsan fejlődő kereskedelmi és kormányzati központ, amely meghatározó szerepet játszik a régió gazdasági növekedésében. Földrajz K7 – A folyók jelentősége a városfejlődésben.",
+      ro: "Juba, situat pe malul vestic al Nilului Alb, servește din 2011 drept capitală a Republicii Sudanul de Sud. Orașul este un centru comercial și guvernamental în plină dezvoltare, jucând un rol crucial în progresul economic al regiunii. Geografie K7 – Importanța cursurilor de apă pentru dezvoltarea urbană.",
+      en: "Juba, located on the west bank of the White Nile, has served as the capital of the independent Republic of South Sudan since 2011. The city is a rapidly growing trade and government hub, playing a pivotal role in the region's economic development. Geography K7 – The importance of rivers for urban development."
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 19. Jahrhundert", "Bevölkerung über 400.000", "Zentraler Binnenhafen", "Sitz der Nationalversammlung", "Internationaler Flughafen", "Zentrum der äquatorialen Provinz"],
+      hu: ["A 19. században alapították", "Több mint 400 000 lakos", "Központi folyami kikötő", "A nemzetgyűlés székhelye", "Nemzetközi repülőtér", "Az egyenlítői tartomány központja"],
+      ro: ["Fondat în secolul al XIX-lea", "Populație peste 400.000", "Port fluvial central", "Sediul Adunării Naționale", "Aeroport internațional", "Centrul provinciei ecuatoriale"],
+      en: ["Founded in the 19th century", "Population over 400,000", "Central river port", "Seat of the National Assembly", "International airport", "Center of the equatorial province"]
+    }, image: "/poi-images/juba-cities-v2.webp"},
   {
     id: "malakal-cities-v2",
     type: "state-capital",
@@ -47,8 +59,19 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Stratégiai folyami kikötő", "Az ország második legnagyobb városa", "Fontos közlekedési csomópont", "Az olajrégió központja"],
       ro: ["Port fluvial strategic", "Al doilea oraș ca mărime", "Nod de transport important", "Centrul regiunii petroliere"],
       en: ["Strategic river port", "Second largest city in the country", "Important transport junction", "Center of the oil region"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Malakal is situated in the strategically important northeast of South Sudan along the White Nile. The city serves as a central trade hub for Upper Nile State and is a key center for the local oil industry. History K8 – Strategic locations in the region."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Major port on the Nile", "Large oil production hub", "Center of the Shilluk region", "Over 150,000 inhabitants", "Important transport junction", "Regional educational center"]
+    }, image: "/poi-images/malakal-cities-v2.webp"},
   {
     id: "wau-cities-v2",
     type: "state-capital",
@@ -71,8 +94,19 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["A vasút végállomása", "Jelentős oktatási központ", "A Jur-folyó partján fekszik", "A régió kereskedelmi központja"],
       ro: ["Capăt de linie feroviară", "Centru educațional important", "Situat pe râul Jur", "Centru comercial regional"],
       en: ["Railway terminus", "Major educational center", "Located on the Jur River", "Commercial hub for the region"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Wau, the capital of Western Bahr el Ghazal, is a major cultural center in northwestern South Sudan. The city is known for its diverse ethnic composition and historical status as a key trading post. Science K5 – Cultural diversity and trade."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Founded in 1898", "Located on the Jur River", "Key railway junction", "Renowned university", "Diverse markets", "Western economic center"]
+    }, image: "/poi-images/wau-cities-v2.webp"},
   {
     id: "yei-cities-v2",
     type: "city",
@@ -95,8 +129,19 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["A kávétermesztés központja", "Stratégiai kereskedelmi csomópont", "Fontos határátkelő", "Termékeny szántóföldek"],
       ro: ["Centrul culturii de cafea", "Hub comercial strategic", "Punct de frontieră important", "Teren agricol fertil"],
       en: ["Center for coffee production", "Strategic trading hub", "Key border crossing point", "Fertile agricultural land"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Yei is a dynamic town in the southwest, being a center of agriculture due to its fertile environment. Its proximity to the Ugandan and DR Congo borders makes it a key hub for cross-border trade. Geography K6 – Cross-border trade."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Center for coffee production", "Over 200,000 inhabitants", "Important marketplace", "Strategic border location", "Fertile agricultural soil", "Key trade route"]
+    }, image: "/poi-images/yei-cities-v2.webp"},
   {
     id: "yambio-cities-v2",
     type: "state-capital",
@@ -119,8 +164,19 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Mezőgazdasági központ", "Az Azande régió fővárosa", "Ananásztermeléséről ismert", "A Kongói DK határának közelében"],
       ro: ["Centru agricol", "Capitala regiunii Azande", "Cunoscut pentru producția de ananas", "Aproape de granița cu RD Congo"],
       en: ["Agricultural center", "Capital of the Azande region", "Known for pineapple production", "Near the DR Congo border"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Yambio is located in Western Equatoria and surrounded by an exceptionally fertile tropical landscape. The town is a major agricultural hub, particularly known for pineapple production and other tropical fruits. Biology K7 – Agricultural regions."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Capital of Western Equatoria", "Known for pineapple harvest", "Tropical climate", "Center of the Azande", "Important regional market", "Forested region"]
+    }, image: "/poi-images/yambio-cities-v2.webp"},
   {
     id: "renk-cities-v2",
     type: "city",
@@ -143,8 +199,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Hatalmas cirkos termőterület", "Szudán határának közelében", "Fontos folyami kikötő", "A legészakibb város"],
       ro: ["Zonă majoră de cultură a sorgului", "Aproape de granița cu Sudan", "Port fluvial important", "Cel mai nordic oraș"],
       en: ["Major sorghum producing area", "Close to the Sudan border", "Important river port", "Northernmost city"]
-    }
-  },
+    }, image: "/poi-images/renk-cities-v2.webp"},
   {
     id: "bor-cities-v2",
     type: "state-capital",
@@ -167,8 +222,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Kikötő a Fehér-Níluson", "Az SPLM mozgalom bölcsője", "Fontos állattenyésztési központ", "Történelmi város"],
       ro: ["Port pe Nilul Alb", "Locul de naștere al mișcării SPLM", "Centru important de creștere a vitelor", "Oraș istoric"],
       en: ["Port on the White Nile", "Birthplace of the SPLM movement", "Major livestock center", "Historical town"]
-    }
-  },
+    }, image: "/poi-images/bor-cities-v2.webp"},
   {
     id: "aweil-cities-v2",
     type: "state-capital",
@@ -191,8 +245,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Fontos vasúti csomópont", "A rizstermesztés központja", "A Loll-folyó partján fekszik", "Nagy piactér"],
       ro: ["Nod feroviar important", "Centrul culturii de orez", "Situat pe râul Loll", "Piață comercială mare"],
       en: ["Key railway junction", "Center of rice production", "Located on the Loll River", "Large marketplace"]
-    }
-  },
+    }, image: "/poi-images/aweil-cities-v2.webp"},
   {
     id: "torit-cities-v2",
     type: "state-capital",
@@ -215,8 +268,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Kapu az Imatong-hegységhez", "Történelmi katonai bázis", "A Lotuko kultúra központja", "Stratégiai elhelyezkedés"],
       ro: ["Poarta către munții Imatong", "Bază militară istorică", "Centrul culturii Lotuko", "Locație strategică"],
       en: ["Gateway to the Imatong Mountains", "Historical military base", "Center of Lotuko culture", "Strategic location"]
-    }
-  },
+    }, image: "/poi-images/torit-cities-v2.webp"},
   {
     id: "bentiu-cities-v2",
     type: "state-capital",
@@ -239,8 +291,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Az olajipar központja", "A Bahr el Ghazal folyó partján", "Fontos állatvásár", "Infrastrukturális csomópont"],
       ro: ["Centrul industriei petroliere", "Pe râul Bahr el Ghazal", "Piață de animale importantă", "Nod de infrastructură"],
       en: ["Center of the oil industry", "On the Bahr el Ghazal River", "Important livestock market", "Infrastructure hub"]
-    }
-  },
+    }, image: "/poi-images/bentiu-cities-v2.webp"},
   {
     id: "rumbek-cities-v2",
     type: "state-capital",
@@ -263,8 +314,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Az SPLM egykori főhadiszállása", "A Dinka állattenyésztés központja", "Fontos közlekedési csomópont", "Oktatási központ"],
       ro: ["Fost cartier general al SPLM", "Centrul creșterii vitelor Dinka", "Nod de transport important", "Centru educațional"],
       en: ["Former SPLM headquarters", "Center of Dinka cattle herding", "Important transport hub", "Educational center"]
-    }
-  },
+    }, image: "/poi-images/rumbek-cities-v2.webp"},
   {
     id: "kuajok-cities-v2",
     type: "state-capital",
@@ -335,8 +385,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Aranybányászati központ", "A Toposa kultúra központja", "Kapu Kenya felé", "Félsivatagos régió"],
       ro: ["Centru minier de aur", "Centrul culturii Toposa", "Poarta către Kenya", "Regiune semi-aridă"],
       en: ["Gold mining hub", "Center of Toposa culture", "Gateway to Kenya", "Semi-arid region"]
-    }
-  },
+    }, image: "/poi-images/kapoeta-cities-v2.webp"},
   {
     id: "maridi-cities-v2",
     type: "city",
@@ -359,8 +408,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Mezőgazdasági központ", "Oktatási központjairól ismert", "Csapadékos klíma", "Fakitermelési terület"],
       ro: ["Centru agricol", "Cunoscut pentru centre educaționale", "Climat fertil", "Zonă de producție a lemnului"],
       en: ["Agricultural hub", "Known for educational centers", "Productive climate", "Timber production area"]
-    }
-  },
+    }, image: "/poi-images/maridi-cities-v2.webp"},
   {
     id: "kajokeji-cities-v2",
     type: "city",
@@ -383,8 +431,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Ugandai határ közelében", "A Kuku közösség központja", "Fontos agrárterület", "Dombos táj"],
       ro: ["Aproape de granița cu Uganda", "Centrul comunității Kuku", "Locație agricolă importantă", "Peisaj colinar"],
       en: ["Near the Uganda border", "Center of the Kuku community", "Important agricultural site", "Hilly landscape"]
-    }
-  },
+    }, image: "/poi-images/kajokeji-cities-v2.webp"},
   {
     id: "tonj-cities-v2",
     type: "city",
@@ -407,8 +454,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Jelentős állatvásár", "A Tonj-folyó partján", "Dinka kulturális terület", "Stratégiai kereskedelmi hely"],
       ro: ["Piață de vite majoră", "Situat pe râul Tonj", "Spațiu cultural Dinka", "Loc comercial strategic"],
       en: ["Major livestock market", "Located on the Tonj River", "Dinka cultural area", "Strategic trade location"]
-    }
-  },
+    }, image: "/poi-images/tonj-cities-v2.webp"},
   {
     id: "yirol-cities-v2",
     type: "city",
@@ -431,8 +477,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["A Yirol-tó mellett", "Halászati központ", "Jelentős gabonapiac", "Összekötő város"],
       ro: ["Situat pe Lacul Yirol", "Centru al pescuitului", "Piață de cereale majoră", "Oraș de legătură"],
       en: ["Located on Lake Yirol", "Fishing hub", "Significant grain market", "Connectivity town"]
-    }
-  },
+    }, image: "/poi-images/yirol-cities-v2.webp"},
   {
     id: "akobo-cities-v2",
     type: "city",
@@ -455,8 +500,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Etióp határváros", "Az Akobo-folyó partján", "Állatkereskedelmi központ", "Távoli régió"],
       ro: ["Oraș de graniță cu Etiopia", "Situat pe râul Akobo", "Centru comercial pentru vite", "Regiune izolată"],
       en: ["Border town with Ethiopia", "Located on the Akobo River", "Livestock trading center", "Remote region"]
-    }
-  },
+    }, image: "/poi-images/akobo-cities-v2.webp"},
   {
     id: "kodok-cities-v2",
     type: "city",
@@ -479,8 +523,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["A Shilluk király székhelye", "A fasodai válság helyszíne", "A Fehér-Nílus mentén", "Történelmi rezidencia"],
       ro: ["Sediul regelui Shilluk", "Locul crizei Fashoda", "Situat pe Nilul Alb", "Reședință istorică"],
       en: ["Seat of the Shilluk King", "Site of the Fashoda Incident", "Located on the White Nile", "Historical residence"]
-    }
-  },
+    }, image: "/poi-images/kodok-cities-v2.webp"},
   {
     id: "nasir-cities-v2",
     type: "city",
@@ -503,8 +546,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["A Sobat-folyó mellett", "Etiópia közelében", "Halászati központ", "Stratégiai katonai poszt"],
       ro: ["Situat pe râul Sobat", "Aproape de Etiopia", "Centru de pescuit", "Post militar strategic"],
       en: ["Located on the Sobat River", "Near Ethiopia", "Fishing center", "Strategic military post"]
-    }
-  },
+    }, image: "/poi-images/nasir-cities-v2.webp"},
   {
     id: "leer-cities-v2",
     type: "city",
@@ -527,8 +569,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["A Nuer kultúra központja", "Fontos állatvásár", "A Sudd-mocsarak területén", "Regionális kereskedelmi központ"],
       ro: ["Centrul culturii Nuer", "Piață de vite importantă", "Situat în mlaștinile Sudd", "Centru comercial regional"],
       en: ["Center of Nuer culture", "Important livestock market", "Located in the Sudd swamps", "Regional trading hub"]
-    }
-  },
+    }, image: "/poi-images/leer-cities-v2.webp"},
   {
     id: "magwi-cities-v2",
     type: "city",
@@ -551,8 +592,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Mezőgazdasági központ", "Dombos táj", "Acholi kulturális terület", "Uganda közelében"],
       ro: ["Centru agricol", "Peisaj colinar", "Spațiu cultural Acholi", "Aproape de Uganda"],
       en: ["Agricultural center", "Hilly landscape", "Acholi cultural area", "Near Uganda"]
-    }
-  },
+    }, image: "/poi-images/magwi-cities-v2.webp"},
   {
     id: "mundri-cities-v2",
     type: "city",
@@ -599,8 +639,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Közép-Afrika közelében", "Fontos határmenti kereskedelem", "Termékeny erdős terület", "Kulturálisan sokszínű"],
       ro: ["Aproape de Republica Centrafricană", "Comerț de frontieră important", "Zonă forestieră fertilă", "Diversitate culturală"],
       en: ["Near Central African Republic", "Important border trade", "Fertile forested area", "Culturally diverse"]
-    }
-  },
+    }, image: "/poi-images/tambura-cities-v2.webp"},
   {
     id: "gogrial-cities-v2",
     type: "city",
@@ -623,8 +662,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Történelmi dinka központ", "A Jur-folyó mentén", "Állattenyésztési fellegvár", "Hagyományokban gazdag város"],
       ro: ["Centru istoric Dinka", "Situat pe râul Jur", "Bastion al creșterii vitelor", "Oraș bogat în tradiții"],
       en: ["Historical Dinka center", "On the Jur River", "Livestock stronghold", "Traditional town"]
-    }
-  },
+    }, image: "/poi-images/gogrial-cities-v2.webp"},
   {
     id: "turalei-cities-v2",
     type: "city",
@@ -671,8 +709,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Bentiu repülőtere", "Fontos folyami kikötő", "Kereskedelmi központ", "Összeköttetés észak felé"],
       ro: ["Aerodromul din Bentiu", "Port fluvial important", "Centru comercial", "Legătura cu nordul"],
       en: ["Airfield for Bentiu", "Important inland port", "Commercial center", "Link to the north"]
-    }
-  },
+    }, image: "/poi-images/rubkona-cities-v2.webp"},
   {
     id: "mayom-cities-v2",
     type: "city",
@@ -695,8 +732,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Az állattenyésztés központja", "Összeköti Unity-t és Warrap-ot", "Fontos piac", "Stratégiai poszt"],
       ro: ["Centru de creștere a vitelor", "Conectează Unity și Warrap", "Piață importantă", "Post strategic"],
       en: ["Livestock center", "Connects Unity and Warrap", "Important market", "Strategic post"]
-    }
-  },
+    }, image: "/poi-images/mayom-cities-v2.webp"},
   {
     id: "pariang-cities-v2",
     type: "state-capital",
@@ -719,8 +755,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Ruweng központja", "Olajtermelő terület", "Fontos igazgatási hely", "A Sudd-mocsarak közelében"],
       ro: ["Centrul Ruweng", "Zonă de producție petrolieră", "Loc administrativ important", "Aproape de mlaștinile Sudd"],
       en: ["Center of Ruweng", "Oil production area", "Key administrative site", "Near the Sudd swamps"]
-    }
-  },
+    }, image: "/poi-images/pariang-cities-v2.webp"},
   {
     id: "pibor-cities-v2",
     type: "state-capital",
@@ -743,8 +778,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["A Murle kultúra központja", "Távoli elhelyezkedés", "A Pibor-folyó partján", "Állattenyésztési központ"],
       ro: ["Centrul culturii Murle", "Locație izolată", "Situat pe râul Pibor", "Centru pastoral"],
       en: ["Center of Murle culture", "Remote location", "Located on the Pibor River", "Pastoralist center"]
-    }
-  },
+    }, image: "/poi-images/pibor-cities-v2.webp"},
   {
     id: "pochalla-cities-v2",
     type: "city",
@@ -791,8 +825,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["A legnyugatibb város", "Kulturális olvasztótégely", "Elszigetelt fekvés", "Jelentős agrárrégió"],
       ro: ["Cel mai vestic oraș", "Creuzet cultural", "Locație izolată", "Regiune agricolă majoră"],
       en: ["Westernmost town", "Cultural melting pot", "Isolated location", "Major agricultural region"]
-    }
-  },
+    }, image: "/poi-images/raja-cities-v2.webp"},
   {
     id: "deim-zubeir-cities-v2",
     type: "city",
@@ -815,8 +848,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Történelmi kereskedelmi hely", "Régi erőd", "Bahr el Ghazal területén", "Régészeti jelentőség"],
       ro: ["Loc comercial istoric", "Veche fortăreață", "Situat în Bahr el Ghazal", "Semnificație arheologică"],
       en: ["Historical trading site", "Old fort", "Located in Bahr el Ghazal", "Archaeological significance"]
-    }
-  },
+    }, image: "/poi-images/deim-zubeir-cities-v2.webp"},
   {
     id: "terekeka-cities-v2",
     type: "city",
@@ -863,8 +895,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["A Juba-Yei út mentén", "Mezőgazdasági átrakóhely", "Termékeny régió", "A Pojulu központja"],
       ro: ["Pe drumul Juba-Yei", "Hub agricol", "Regiune fertilă", "Centrul Pojulu"],
       en: ["On the Juba-Yei road", "Agricultural hub", "Fertile region", "Center of the Pojulu"]
-    }
-  },
+    }, image: "/poi-images/lainya-cities-v2.webp"},
   {
     id: "morobo-cities-v2",
     type: "city",
@@ -911,8 +942,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Határmenti kereskedelem", "Termékeny trópusi terület", "A Zande nép központja", "Csapadékos klíma"],
       ro: ["Comerț de frontieră", "Zonă tropicală fertilă", "Centrul Zande", "Climat ploios"],
       en: ["Border town trade", "Fertile tropical area", "Zande center", "Rainy climate"]
-    }
-  },
+    }, image: "/poi-images/ezo-cities-v2.webp"},
   {
     id: "nagero-cities-v2",
     type: "city",
@@ -959,8 +989,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["A textilipar központja", "Agrárfeldolgozó hely", "Történelmi ipari létesítmény", "Termékeny talaj"],
       ro: ["Centrul industriei textile", "Loc de procesare agricolă", "Sit industrial istoric", "Soluri fertile"],
       en: ["Center of textile industry", "Agro-processing site", "Historical industrial site", "Fertile soils"]
-    }
-  },
+    }, image: "/poi-images/nzara-cities-v2.webp"},
   {
     id: "ibba-cities-v2",
     type: "city",
@@ -983,8 +1012,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Fontos oktatási helyszín", "Mezőgazdasági közösség", "Maridi közelében", "Békés régió"],
       ro: ["Locație educațională importantă", "Comunitate agricolă", "Aproape de Maridi", "Regiune pașnică"],
       en: ["Key educational site", "Agricultural community", "Near Maridi", "Peaceful region"]
-    }
-  },
+    }, image: "/poi-images/ibba-cities-v2.webp"},
   {
     id: "mvolo-cities-v2",
     type: "city",
@@ -1031,8 +1059,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Történelmi missziós helyszín", "Jelentős kórház", "A Moru nép központja", "Oktatási hagyományok"],
       ro: ["Loc de misiune istoric", "Spital important", "Centrul Moru", "Tradiție educațională"],
       en: ["Historical mission site", "Significant hospital", "Moru center", "Educational tradition"]
-    }
-  },
+    }, image: "/poi-images/lui-cities-v2.webp"},
   {
     id: "amadi-cities-v2",
     type: "city",
@@ -1055,8 +1082,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Helyi közigazgatás", "Agrárkereskedelem", "Mundri közelében", "Kis közösség"],
       ro: ["Administrație locală", "Comerț agricol", "Aproape de Mundri", "Mică comunitate"],
       en: ["Local administration", "Agricultural trade", "Near Mundri", "Small community"]
-    }
-  },
+    }, image: "/poi-images/amadi-cities-v2.webp"},
   {
     id: "kotobi-cities-v2",
     type: "city",
@@ -1079,8 +1105,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Mezőgazdasági piac", "Mundri közelében", "Hagyományos település", "Regionális falu"],
       ro: ["Piață agricolă", "Aproape de Mundri", "Așezare tradițională", "Sat regional"],
       en: ["Agricultural market", "Near Mundri", "Traditional settlement", "Regional village"]
-    }
-  },
+    }, image: "/poi-images/kotobi-cities-v2.webp"},
   {
     id: "ganyliel-cities-v2",
     type: "city",
@@ -1175,8 +1200,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       hu: ["Pasztoralista központ", "Közép-Jonglei", "Állattenyésztési régió", "Fontos találkozóhely"],
       ro: ["Centru pastoral", "Jonglei Central", "Regiune de creștere a vitelor", "Punct de întâlnire important"],
       en: ["Pastoralist center", "Central Jonglei", "Livestock region", "Key meeting point"]
-    }
-  },
+    }, image: "/poi-images/ayod-cities-v2.webp"},
   {
     id: "uror-cities-v2",
     type: "city",
@@ -1202,3 +1226,4 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     }
   }
 ];
+

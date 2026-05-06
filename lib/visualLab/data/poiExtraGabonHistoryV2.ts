@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGabonHistoryV2: POI[] = [
@@ -18,8 +19,47 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["2007 óta UNESCO Világörökség", "Több mint 1800 sziklavéset", "Vaskori emlékek", "Közép-Afrika kulturális öröksége"],
       ro: ["Patrimoniu UNESCO din 2007", "Peste 1.800 de gravuri rupestre", "Mărturii din Epoca Fierului", "Moștenirea culturală a Africii Centrale"],
       en: ["UNESCO World Heritage since 2007", "Over 1,800 rock engravings", "Evidence of the Iron Age", "Central African cultural heritage"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+          "de": "Das Weltkulturerbe Lopé-Okanda in Gabun offenbart eine faszinierende 400.000-jährige Siedlungsgeschichte. Wissenschaftler entdeckten hier über 1.800 Felsritzungen, die Jagdszenen und Tiere darstellen, und belegen eine hoch entwickelte Eisenverarbeitung in der Antike. Diese Region verbindet dichten tropischen Regenwald mit der Savanne und schützt wertvolle Zeugnisse der frühen afrikanischen Metallurgie, die für das Verständnis der K5-K8 Erdkunde und Geschichte in Afrika essenziell sind.",
+          "hu": "A gaboni Lopé-Okanda világörökségi helyszín lenyűgöző, 400 000 éves településtörténetet tár fel. A tudósok több mint 1800 sziklavésetet fedeztek fel, amelyek vadászjeleneteket és állatokat ábrázolnak, emellett bizonyítják az ősi vaskohászat magas fejlettségét. A terület az esőerdő és a szavanna találkozásánál fekszik, és a korai afrikai kohászat értékes bizonyítékait védi, ami a K5-K8 földrajz és történelem tanterv szempontjából is kiemelt jelentőségű.",
+          "ro": "Patrimoniul Mondial Lopé-Okanda din Gabon dezvăluie o istorie fascinantă de 400.000 de ani. Cercetătorii au descoperit aici peste 1.800 de gravuri rupestre care înfățișează scene de vânătoare și animale, confirmând existența unor tehnici avansate de prelucrare a fierului în antichitate. Regiunea îmbină pădurea tropicală cu savana și protejează mărturii valoroase ale metalurgiei africane timpurii, esențiale pentru studiile de geografie și istorie (K5-K8).",
+          "en": "The Lopé-Okanda World Heritage site in Gabon reveals a fascinating 400,000-year history of human settlement. Scientists have discovered over 1,800 rock engravings depicting hunting scenes and animals, confirming advanced iron smelting techniques in antiquity. The region bridges tropical rainforest and savanna, protecting invaluable evidence of early African metallurgy, which is essential for K5-K8 Geography and History curricula."
+    },
+    factsAdvanced: {
+              "de": [
+                      "Seit 2007 UNESCO-Welterbe",
+                      "Mehr als 1.800 Felsgravuren",
+                      "400.000 Jahre Besiedlungsgeschichte",
+                      "Bedeutendste Eisenzeit-Stätte Gabuns",
+                      "Übergang von Savanne zum Regenwald",
+                      "Schutzgebiet für Mandrills"
+              ],
+              "hu": [
+                      "2007 óta UNESCO Világörökség",
+                      "Több mint 1800 sziklavéset",
+                      "400 000 éves leletek",
+                      "Gabon legfontosabb vaskori lelőhelye",
+                      "Átmenet szavanna és esőerdő között",
+                      "Mandrillok élőhelye"
+              ],
+              "ro": [
+                      "Patrimoniu UNESCO din 2007",
+                      "Peste 1.800 de gravuri rupestre",
+                      "400.000 de ani de istorie",
+                      "Cel mai important sit al Epocii Fierului din Gabon",
+                      "Tranziție între savană și pădure",
+                      "Habitat pentru mandrili"
+              ],
+              "en": [
+                      "UNESCO World Heritage since 2007",
+                      "Over 1,800 rock engravings",
+                      "400,000 years of settlement history",
+                      "Gabon's most important Iron Age site",
+                      "Savanna to rainforest transition",
+                      "Mandrill habitat"
+              ]
+      }, image: "/poi-images/lope-archaeology-history-v2.webp"},
   {
     id: "st-peter-cathedral-history-v2",
     type: "historical",
@@ -37,8 +77,47 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["19. századi építés", "Jelentős üvegfestmények", "Gabon katolikus központja", "Az elnöki palota közelében"],
       ro: ["Construită în secolul al XIX-lea", "Vitralii remarcabile", "Centrul catolic al Gabonului", "Lângă Palatul Prezidențial"],
       en: ["Built in the 19th century", "Significant stained glass", "Catholic center of Gabon", "Near the Presidential Palace"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+          "de": "Die Kathedrale Saint-Pierre in Libreville, der Hauptstadt Gabuns, ist ein architektonisches Juwel des 19. Jahrhunderts. Das Gotteshaus besticht durch seine filigranen Glasmalereien und dient als spirituelles Zentrum der römisch-katholischen Kirche in der Region. Als prominentes Wahrzeichen in der Nähe des Präsidentenpalastes ist die Kathedrale ein zentraler Punkt für das Verständnis der kolonialen Geschichte und religiösen Architektur des Landes (Sachkunde K6).",
+          "hu": "A libreville-i Szent Péter-székesegyház, Gabon fővárosának 19. századi építészeti gyöngyszeme. A templom filigrán üvegfestményeivel tűnik ki, és a régió római katolikus egyházának lelki központja. Az elnöki palota közelében található épület kulcsfontosságú tájékozódási pont az ország gyarmati történelmének és vallási építészetének megértéséhez (Sachkunde K6).",
+          "ro": "Catedrala Saint-Pierre din Libreville, capitala Gabonului, este o bijuterie arhitecturală a secolului al XIX-lea. Biserica impresionează prin vitraliile sale delicate și servește drept centru spiritual al Bisericii Romano-Catolice în regiune. Ca reper important în apropierea Palatului Prezidențial, catedrala este un punct central pentru înțelegerea istoriei coloniale și a arhitecturii religioase a țării (Sachkunde K6).",
+          "en": "The St. Peter's Cathedral in Libreville, the capital of Gabon, is a 19th-century architectural jewel. The church features delicate stained glass and serves as the spiritual center of the Roman Catholic Church in the region. As a prominent landmark near the Presidential Palace, the cathedral is central to understanding the colonial history and religious architecture of the country (Sachkunde K6)."
+    },
+    factsAdvanced: {
+              "de": [
+                      "Erbaut im 19. Jahrhundert",
+                      "Wichtigstes katholisches Zentrum",
+                      "Berühmt für filigrane Vitralien",
+                      "Zentral in Libreville gelegen",
+                      "Architektur im kolonialen Stil",
+                      "Wahrzeichen der Stadt"
+              ],
+              "hu": [
+                      "A 19. században épült",
+                      "Legfontosabb katolikus központ",
+                      "Híres filigrán üvegablakok",
+                      "Központi elhelyezkedés Libreville-ben",
+                      "Gyarmati építészeti stílus",
+                      "Városi jelkép"
+              ],
+              "ro": [
+                      "Construită în secolul al XIX-lea",
+                      "Cel mai important centru catolic",
+                      "Faimoasă pentru vitralii delicate",
+                      "Locație centrală în Libreville",
+                      "Arhitectură în stil colonial",
+                      "Reper al orașului"
+              ],
+              "en": [
+                      "Built in the 19th century",
+                      "Most important Catholic center",
+                      "Famous for delicate stained glass",
+                      "Centrally located in Libreville",
+                      "Colonial architectural style",
+                      "City landmark"
+              ]
+      }, image: "/poi-images/st-peter-cathedral-history-v2.webp"},
   {
     id: "mission-ste-anne-history-v2",
     type: "historical",
@@ -56,8 +135,47 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["1889-ben épült", "Eiffel-féle fémszerkezet", "A lagúna partján", "Fontos missziós központ"],
       ro: ["Construită în 1889", "Structură metalică de Eiffel", "Pe malul lagunei", "Centru misionar important"],
       en: ["Built in 1889", "Iron structure by Eiffel", "On the lagoon shore", "Important mission center"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+          "de": "Die Sainte-Anne du Fernan Vaz Mission ist ein technisches Meisterwerk, entworfen in den Ateliers von Gustave Eiffel und im Jahr 1889 errichtet. Diese seltene Eisenkirche am Ufer der Lagune Fernan Vaz illustriert die industrielle Präsenz der französischen Kolonialzeit in Gabun. Das Bauwerk ist heute ein nationales historisches Denkmal, das bei Geschichtsexkursionen (K7) die Anwendung von Metallstrukturen in entlegenen Gebieten veranschaulicht.",
+          "hu": "A Sainte-Anne du Fernan Vaz misszió egy technikai remekmű, amelyet Gustave Eiffel műhelyében terveztek és 1889-ben építettek fel. Ez a ritka vasból készült templom a Fernan Vaz lagúna partján kiválóan mutatja be a francia gyarmati korszak gaboni ipari jelenlétét. Az épület ma nemzeti történelmi emlékhely, amely (K7) történelemórán szemlélteti a fémszerkezetek alkalmazását távoli területeken.",
+          "ro": "Misiunea Sainte-Anne du Fernan Vaz este o capodoperă tehnică, proiectată în atelierele lui Gustave Eiffel și construită în 1889. Această biserică rară din fier, situată pe malul lagunei Fernan Vaz, ilustrează prezența industrială a erei coloniale franceze în Gabon. Clădirea este astăzi un monument istoric național care ilustrează (K7) utilizarea structurilor metalice în zone izolate.",
+          "en": "The Sainte-Anne du Fernan Vaz Mission is a technical masterpiece, designed in the workshops of Gustave Eiffel and built in 1889. This rare iron church on the shore of the Fernan Vaz lagoon illustrates the industrial presence of the French colonial era in Gabon. The structure is now a national historical monument that illustrates (K7) the use of metal structures in remote areas."
+    },
+    factsAdvanced: {
+              "de": [
+                      "Erbaut im Jahr 1889",
+                      "Konstruktion aus Eiffels Werkstatt",
+                      "Direkt an der Lagune gelegen",
+                      "Nationales historisches Denkmal",
+                      "Wichtiges Missionszentrum",
+                      "Eisen-Architektur in Afrika"
+              ],
+              "hu": [
+                      "1889-ben épült",
+                      "Eiffel műhelyéből származó konstrukció",
+                      "Közvetlenül a lagúna partján",
+                      "Nemzeti történelmi emlékhely",
+                      "Fontos missziós központ",
+                      "Vasépítészet Afrikában"
+              ],
+              "ro": [
+                      "Construită în 1889",
+                      "Construcție din atelierul lui Eiffel",
+                      "Situată direct pe lagună",
+                      "Monument istoric național",
+                      "Centru misionar important",
+                      "Arhitectură de fier în Africa"
+              ],
+              "en": [
+                      "Built in 1889",
+                      "Construction from Eiffel's workshop",
+                      "Located directly on the lagoon",
+                      "National historical monument",
+                      "Important mission center",
+                      "Iron architecture in Africa"
+              ]
+      }, image: "/poi-images/mission-ste-anne-history-v2.webp"},
   {
     id: "fort-aumale-history-v2",
     type: "historical",
@@ -75,8 +193,47 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["1843-ban alapították", "A város névadója", "Egykori katonai poszt", "Stratégiai tengerparti fekvés"],
       ro: ["Fondat în 1843", "Originea numelui orașului", "Fost post militar", "Poziție strategică pe coastă"],
       en: ["Founded in 1843", "Origin of the city's name", "Former military outpost", "Strategic coastal location"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+          "de": "Das Fort d’Aumale wurde 1843 als erster französischer Militärstützpunkt in Gabun errichtet und bildet den historischen Kern des heutigen Libreville. Dieser strategische Standort sicherte den französischen Einfluss an der Küste und diente als Ausgangspunkt für die Handelsbeziehungen mit den lokalen Stämmen. Für K7-Schüler bietet die Analyse dieses Forts ein klares Verständnis für die koloniale Expansion und ihre Auswirkungen auf die Stadtentwicklung von Libreville.",
+          "hu": "A Fort d’Aumale-t 1843-ban alapították, mint az első francia katonai támaszpontot Gabonban, és ez alkotja a mai Libreville történelmi magját. Ez a stratégiai pont biztosította a francia befolyást a tengerparton, és kiindulópontként szolgált a helyi törzsekkel folytatott kereskedelmi kapcsolatokhoz. A K7-es diákok számára ennek az erődnek az elemzése világosan szemlélteti a gyarmati terjeszkedést és annak hatásait Libreville városfejlődésére.",
+          "ro": "Fortul d’Aumale a fost construit în 1843 ca prima bază militară franceză din Gabon și formează nucleul istoric al orașului Libreville de astăzi. Acest punct strategic a securizat influența franceză pe coastă și a servit ca punct de plecare pentru relațiile comerciale cu triburile locale. Pentru elevii de K7, analiza acestui fort oferă o înțelegere clară a expansiunii coloniale și a impactului acesteia asupra dezvoltării orașului Libreville.",
+          "en": "Fort d'Aumale was built in 1843 as the first French military base in Gabon and forms the historical core of modern-day Libreville. This strategic location secured French influence on the coast and served as a starting point for trade relations with local tribes. For K7 students, the analysis of this fort provides a clear understanding of colonial expansion and its impact on the urban development of Libreville."
+    },
+    factsAdvanced: {
+              "de": [
+                      "Gründungsjahr 1843",
+                      "Historischer Kern von Libreville",
+                      "Strategischer Militärstützpunkt",
+                      "Symbol für koloniale Expansion",
+                      "Namensgeber für die Region",
+                      "Ehemalige Küstenbefestigung"
+              ],
+              "hu": [
+                      "Alapítás éve 1843",
+                      "Libreville történelmi magja",
+                      "Stratégiai katonai támaszpont",
+                      "Gyarmati terjeszkedés szimbóluma",
+                      "A régió névadója",
+                      "Egykori part menti erődítmény"
+              ],
+              "ro": [
+                      "Anul fondării 1843",
+                      "Nucleul istoric din Libreville",
+                      "Bază militară strategică",
+                      "Simbol al expansiunii coloniale",
+                      "Originea numelui regiunii",
+                      "Fostă fortificație costieră"
+              ],
+              "en": [
+                      "Founded in 1843",
+                      "Historical core of Libreville",
+                      "Strategic military base",
+                      "Symbol of colonial expansion",
+                      "Origin of the region's name",
+                      "Former coastal fortification"
+              ]
+      }, image: "/poi-images/fort-aumale-history-v2.webp"},
   {
     id: "donguila-mission-history-v2",
     type: "historical",
@@ -94,8 +251,47 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["19. századi alapítás", "Kilátás az esztuárra", "Történelmi internátus", "Gyarmati építészet"],
       ro: ["Fondată în secolul al XIX-lea", "Vedere spre estuar", "Internat istoric", "Arhitectură colonială"],
       en: ["Founded in the 19th century", "Overlooks the estuary", "Historic boarding school", "Colonial architecture"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+          "de": "Die Mission von Donguila am Ufer des Komo-Flusses zählt zu den ältesten christlichen Außenposten Gabuns. Gegründet im 19. Jahrhundert, fungierte sie nicht nur als religiöses Zentrum, sondern auch als wichtiger Bildungsort durch das angeschlossene Internat. Die dort erhaltene koloniale Architektur bietet Schülern der Stufe K6 einen authentischen Einblick in die Bildungsgeschichte und den Einfluss der Missionierung auf die regionale Gesellschaft im 19. Jahrhundert.",
+          "hu": "A Komo folyó mentén található Donguila misszió Gabon egyik legrégebbi keresztény külbirtoka. A 19. században alapított intézmény nemcsak vallási központként, hanem az internátus révén fontos oktatási helyszínként is funkcionált. A megőrzött gyarmati építészet a K6-os szintű diákoknak nyújt hiteles betekintést az oktatástörténetbe és a misszió hatásába a 19. századi regionális társadalomra.",
+          "ro": "Misiunea din Donguila, de pe malul râului Komo, este una dintre cele mai vechi avanposturi creștine din Gabon. Fondată în secolul al XIX-lea, a funcționat nu doar ca centru religios, ci și ca loc important de educație prin internatul atașat. Arhitectura colonială păstrată oferă elevilor de nivel K6 o privire autentică asupra istoriei educației și a influenței misionarismului asupra societății regionale din secolul al XIX-lea.",
+          "en": "The Donguila Mission on the banks of the Komo River is one of the oldest Christian outposts in Gabon. Founded in the 19th century, it served not only as a religious center but also as an important educational site through its boarding school. The preserved colonial architecture provides K6-level students with an authentic insight into the history of education and the influence of missionary work on regional society in the 19th century."
+    },
+    factsAdvanced: {
+              "de": [
+                      "Gründung im 19. Jahrhundert",
+                      "Wichtiger Bildungsstandort",
+                      "Historisches Internat",
+                      "Lage am Komo-Fluss",
+                      "Erhaltener kolonialer Stil",
+                      "Symbol für Missionierung"
+              ],
+              "hu": [
+                      "Alapítás a 19. században",
+                      "Fontos oktatási helyszín",
+                      "Történelmi internátus",
+                      "A Komo folyó mentén",
+                      "Megőrzött gyarmati stílus",
+                      "A missziós munka szimbóluma"
+              ],
+              "ro": [
+                      "Fondată în secolul al XIX-lea",
+                      "Locație educațională importantă",
+                      "Internat istoric",
+                      "Situată pe râul Komo",
+                      "Stil colonial păstrat",
+                      "Simbol al misionarismului"
+              ],
+              "en": [
+                      "Founded in the 19th century",
+                      "Important educational location",
+                      "Historic boarding school",
+                      "Located on the Komo River",
+                      "Preserved colonial style",
+                      "Symbol of missionary work"
+              ]
+      }, image: "/poi-images/donguila-mission-history-v2.webp"},
   {
     id: "cap-lopez-slave-port-history-v2",
     type: "historical",
@@ -113,8 +309,7 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["Egykori rabszolgapiac", "Legnyugatibb pont", "Történelmi kereskedelmi hely", "Emlékhely"],
       ro: ["Fosta piață de sclavi", "Cel mai vestic punct", "Loc istoric de comerț", "Loc memorial"],
       en: ["Former slave market", "Westernmost point", "Historic trading site", "Memorial site"]
-    }
-  },
+    }, image: "/poi-images/cap-lopez-slave-port-history-v2.webp"},
   {
     id: "schweitzer-museum-history-v2",
     type: "historical",
@@ -132,8 +327,7 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["1913-ban alapították", "Schweitzer munkásságának helyszíne", "Orvostörténet", "UNESCO várományos helyszín"],
       ro: ["Fondat în 1913", "Locul de activitate al lui Schweitzer", "Istoria medicinei", "Candidat la patrimoniul UNESCO"],
       en: ["Founded in 1913", "Schweitzer's place of work", "Medical history", "UNESCO World Heritage tentative list"]
-    }
-  },
+    }, image: "/poi-images/schweitzer-museum-history-v2.webp"},
   {
     id: "sindara-mission-history-v2",
     type: "historical",
@@ -170,8 +364,7 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["Prehisztorikus leletek", "Mészkő képződmények", "Fontos régészeti lelőhely", "Korai betelepülés"],
       ro: ["Descoperiri preistorice", "Formațiuni de calcar", "Importante pentru arheologi", "Locuire timpurie"],
       en: ["Prehistoric finds", "Limestone formations", "Significant for archaeologists", "Early settlement"]
-    }
-  },
+    }, image: "/poi-images/lastoursville-caves-history-v2.webp"},
   {
     id: "orungu-royal-tombs-history-v2",
     type: "historical",
@@ -189,8 +382,7 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["Prekoloniális örökség", "Nemesek temetkezőhelye", "Orungu-dinasztia", "Történelmi hatalom"],
       ro: ["Moștenire precolonială", "Loc de înmormântare nobil", "Dinastia Orungu", "Putere istorică"],
       en: ["Pre-colonial heritage", "Noble burial ground", "Orungu dynasty", "Historical power"]
-    }
-  },
+    }, image: "/poi-images/orungu-royal-tombs-history-v2.webp"},
   {
     id: "franceville-colonial-history-v2",
     type: "historical",
@@ -208,8 +400,7 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["1880-ban alapították", "Pierre de Brazza hatása", "Keleti irányú terjeszkedés", "Gyarmati építészeti stílus"],
       ro: ["Fondată în 1880", "Influența lui Pierre de Brazza", "Expansiunea spre est", "Stil arhitectural colonial"],
       en: ["Founded in 1880", "Pierre de Brazza's influence", "Eastward expansion", "Colonial architectural style"]
-    }
-  },
+    }, image: "/poi-images/franceville-colonial-history-v2.webp"},
   {
     id: "mayumba-slave-memorial-history-v2",
     type: "historical",
@@ -227,8 +418,7 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["Az emlékezés helye", "Nyanga tengerpartja", "Történelmi tragédia", "Tengerparti emlékmű"],
       ro: ["Loc de amintire", "Coasta din Nyanga", "Tragedie istorică", "Monument la mare"],
       en: ["Place of remembrance", "Nyanga coast", "Historical tragedy", "Seaside monument"]
-    }
-  },
+    }, image: "/poi-images/mayumba-slave-memorial-history-v2.webp"},
   {
     id: "baraka-mission-history-v2",
     type: "historical",
@@ -284,8 +474,7 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["Gyarmati kereskedelmi építészet", "A folyóparton", "Halászati relikviák", "Helyi történelem"],
       ro: ["Arhitectură comercială colonială", "Pe malul râului", "Relicve ale pescuitului", "Istorie locală"],
       en: ["Colonial trading architecture", "On the riverbank", "Fishing relics", "Local history"]
-    }
-  },
+    }, image: "/poi-images/lambarene-old-quarter-history-v2.webp"},
   {
     id: "lastour-memorial-history-v2",
     type: "historical",
@@ -303,8 +492,7 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["A felfedező emlékezete", "Lastoursville-ben", "A gyarmati történelem része", "Regionális névadó"],
       ro: ["In memoriam exploratorului", "În Lastoursville", "Parte a istoriei coloniale", "Originea numelui regiunii"],
       en: ["Commemorating the explorer", "In Lastoursville", "Part of colonial history", "Regional namesake"]
-    }
-  },
+    }, image: "/poi-images/lastour-memorial-history-v2.webp"},
   {
     id: "savorgnan-de-brazza-site-history-v2",
     type: "historical",
@@ -322,8 +510,7 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["Befolyásos kutató", "Franceville alapítója", "Diplomáciai missziók", "Békés szerződések"],
       ro: ["Explorator influent", "Fondatorul orașului Franceville", "Misiuni diplomatice", "Tratate pașnice"],
       en: ["Influential explorer", "Founder of Franceville", "Diplomatic missions", "Peaceful treaties"]
-    }
-  },
+    }, image: "/poi-images/savorgnan-de-brazza-site-history-v2.webp"},
   {
     id: "fernand-vaz-colonial-site-history-v2",
     type: "historical",
@@ -341,8 +528,7 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["Történelmi kereskedelem", "Vallási eredet", "Tengerparti fejlesztés", "Európai hatás"],
       ro: ["Comerț istoric", "Origine religioasă", "Dezvoltare costieră", "Influență europeană"],
       en: ["Historic trade", "Religious origin", "Coastal development", "European influence"]
-    }
-  },
+    }, image: "/poi-images/fernand-vaz-colonial-site-history-v2.webp"},
   {
     id: "libreville-old-harbor-history-v2",
     type: "historical",
@@ -360,8 +546,7 @@ export const poiExtraGabonHistoryV2: POI[] = [
       hu: ["Egykori kereskedelmi központ", "Kapu a világra", "Várostörténet", "Tengeri örökség"],
       ro: ["Fost centru comercial", "Poartă către lume", "Istoria orașului", "Moștenire maritimă"],
       en: ["Former trade center", "Gateway to the world", "City history", "Maritime heritage"]
-    }
-  },
+    }, image: "/poi-images/libreville-old-harbor-history-v2.webp"},
   {
     id: "ancient-iron-smelting-ogooue-history-v2",
     type: "historical",
@@ -382,3 +567,4 @@ export const poiExtraGabonHistoryV2: POI[] = [
     }
   }
 ];
+

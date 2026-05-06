@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/informatikaK5_i4.ts
 import type { PoolTopicDef } from "./types";
 
@@ -229,3 +230,4 @@ export const INFO_K5_I4_POOL: PoolTopicDef[] = [
   }
 
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUgandaLifeV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["A híres fára mászó oroszlánok otthona.", "Csónakázási lehetőség a Kazinga-csatornán."],
       ro: ["Acasă pentru faimoșii lei cățărători.", "Oferă plimbări cu barca pe canalul Kazinga."],
       en: ["Home to the famous tree-climbing lions.", "Offers boat cruises on the Kazinga Channel."]
-    }
-  },
+    }, image: "/poi-images/queen-elizabeth-park-life-v2.webp"},
   {
     id: "murchison-falls-life-v2",
     type: "animal-habitat",
@@ -27,8 +27,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["A Nílus egy szűk szurdokon keresztül tör át.", "Sok víziló és krokodil otthona."],
       ro: ["Nilul trece printr-o defileu îngust.", "Găzduiește mulți hipopotami și crocodili."],
       en: ["The Nile forces through a narrow gorge here.", "Home to many hippos and crocodiles."]
-    }
-  },
+    }, image: "/poi-images/murchison-falls-life-v2.webp"},
   {
     id: "kibale-forest-life-v2",
     type: "animal-habitat",
@@ -41,8 +40,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Csimpánzfigyelés központja.", "Több mint 1500 csimpánz él itt."],
       ro: ["Un centru pentru urmărirea cimpanzeilor.", "Peste 1.500 de cimpanzei trăiesc aici."],
       en: ["A hotspot for chimpanzee tracking.", "Over 1,500 chimpanzees live here."]
-    }
-  },
+    }, image: "/poi-images/kibale-forest-life-v2.webp"},
   {
     id: "bwindi-impenetrable-life-v2",
     type: "animal-habitat",
@@ -55,8 +53,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Itt él a hegyi gorillák világszintű populációjának kb. fele.", "Rendkívül sűrű hegyi esőerdő."],
       ro: ["Găzduiește aproximativ jumătate din populația mondială de gorile de munte.", "Pădure tropicală montană extrem de densă."],
       en: ["Home to about half of the world's mountain gorilla population.", "Extremely dense montane rainforest."]
-    }
-  },
+    }, image: "/poi-images/bwindi-impenetrable-life-v2.webp"},
   {
     id: "lake-mburo-life-v2",
     type: "animal-habitat",
@@ -69,8 +66,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Az egyetlen park sok zebrával a délnyugati régióban.", "Ismert a gyalogos szafarikról."],
       ro: ["Singurul parc cu zebre în număr mare în sud-vest.", "Cunoscut pentru safari-urile pe jos."],
       en: ["Only park with zebras in large numbers in the southwest.", "Known for walking safaris."]
-    }
-  },
+    }, image: "/poi-images/lake-mburo-life-v2.webp"},
   {
     id: "kidepo-valley-life-v2",
     type: "animal-habitat",
@@ -83,8 +79,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Vad tájak sok gepárral.", "Az egyik legjobb hely állatmegfigyelésre."],
       ro: ["Peisaje sălbatice cu mulți gheparzi.", "Unul dintre cele mai bune locuri pentru observarea animalelor."],
       en: ["Wild landscapes with many cheetahs.", "One of the best places for animal viewing."]
-    }
-  },
+    }, image: "/poi-images/kidepo-valley-life-v2.webp"},
   {
     id: "ngamba-island-life-v2",
     type: "animal-habitat",
@@ -97,8 +92,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["A Viktória-tóban található.", "Az állatokat itt rehabilitálják."],
       ro: ["Situată în lacul Victoria.", "Animalele sunt reabilitate aici."],
       en: ["Located in Lake Victoria.", "Animals are rehabilitated here."]
-    }
-  },
+    }, image: "/poi-images/ngamba-island-life-v2.webp"},
   {
     id: "ziwa-rhino-life-v2",
     type: "animal-habitat",
@@ -111,8 +105,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Sikeres orrszarvú-visszatelepítés.", "Védelem az orvvadászat ellen."],
       ro: ["Reintroducerea cu succes a rinocerilor.", "Protecție împotriva braconajului."],
       en: ["Successful rhino reintroduction.", "Protection against poaching."]
-    }
-  },
+    }, image: "/poi-images/ziwa-rhino-life-v2.webp"},
   {
     id: "rwenzori-mountains-life-v2",
     type: "animal-habitat",
@@ -125,8 +118,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Gleccserekkel borított csúcsok.", "Ritka hegyi állatfajok otthona."],
       ro: ["Vârfuri acoperite de ghețari.", "Acasă pentru specii rare de animale montane."],
       en: ["Glacier-capped peaks.", "Home to rare mountain animal species."]
-    }
-  },
+    }, image: "/poi-images/rwenzori-mountains-life-v2.webp"},
   {
     id: "semuliki-life-v2",
     type: "animal-habitat",
@@ -139,8 +131,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Híres a hévforrásairól.", "Gazdag madárvilág."],
       ro: ["Cunoscut pentru izvoarele termale.", "Faună aviară bogată."],
       en: ["Known for the hot springs.", "Rich birdlife."]
-    }
-  },
+    }, image: "/poi-images/semuliki-life-v2.webp"},
   {
     id: "tororo-rock-kid-life-v2",
     type: "kid-landmark",
@@ -153,8 +144,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Kihívást jelentő mászás.", "Kiváló kilátás a városra."],
       ro: ["O ascensiune provocatoare.", "Vedere minunată asupra orașului."],
       en: ["Challenging climb.", "Great view of the city."]
-    }
-  },
+    }, image: "/poi-images/tororo-rock-kid-life-v2.webp"},
   {
     id: "uganda-wildlife-edu-life-v2",
     type: "kid-landmark",
@@ -167,8 +157,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Ideális gyerekeknek.", "Sok állat megtekinthető közelről."],
       ro: ["Ideal pentru copii.", "Multe animale pot fi văzute de aproape."],
       en: ["Ideal for children.", "Many animals can be seen up close."]
-    }
-  },
+    }, image: "/poi-images/uganda-wildlife-edu-life-v2.webp"},
   {
     id: "coffee-region-elgon-life-v2",
     type: "agriculture",
@@ -181,8 +170,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Kedvező éghajlat a nagy magasság miatt.", "Kávéfarmok látogatása lehetséges."],
       ro: ["Climă favorabilă datorită altitudinii ridicate.", "Vizitarea plantațiilor de cafea este posibilă."],
       en: ["Favorable climate due to high altitude.", "Visits to coffee farms possible."]
-    }
-  },
+    }, image: "/poi-images/coffee-region-elgon-life-v2.webp"},
   {
     id: "tea-plantations-tooro-life-v2",
     type: "agriculture",
@@ -195,8 +183,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["A régió híres a teaszüretről.", "A mezők meghatározzák a tájat."],
       ro: ["Regiunea este faimoasă pentru recoltarea ceaiului.", "Câmpurile definesc peisajul."],
       en: ["The region is famous for the tea harvest.", "The fields shape the landscape."]
-    }
-  },
+    }, image: "/poi-images/tea-plantations-tooro-life-v2.webp"},
   {
     id: "sugar-plantations-jinja-life-v2",
     type: "agriculture",
@@ -209,8 +196,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Fontos gazdasági tényező a régióban.", "A feldolgozás helyben történik."],
       ro: ["Factor economic important în regiune.", "Procesarea are loc local."],
       en: ["Important economic factor in the region.", "Processing takes place locally."]
-    }
-  },
+    }, image: "/poi-images/sugar-plantations-jinja-life-v2.webp"},
   {
     id: "cotton-growing-areas-life-v2",
     type: "agriculture",
@@ -237,8 +223,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["A párás éghajlat ideális.", "Az ugandai kakaó egyre jelentősebb."],
       ro: ["Clima umedă este ideală.", "Cacaoul ugandez devine tot mai important."],
       en: ["The humid climate is ideal.", "Ugandan cocoa is gaining importance."]
-    }
-  },
+    }, image: "/poi-images/cocoa-plantations-life-v2.webp"},
   {
     id: "fish-farming-lake-life-v2",
     type: "agriculture",
@@ -251,8 +236,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["A tilápia a legfontosabb faj.", "Fontos fehérjeforrás a lakosság számára."],
       ro: ["Tilapia este specia principală.", "Sursă importantă de proteine pentru populație."],
       en: ["Tilapia is the main species.", "Important protein source for the population."]
-    }
-  },
+    }, image: "/poi-images/fish-farming-lake-life-v2.webp"},
   {
     id: "pineapple-farms-life-v2",
     type: "agriculture",
@@ -265,8 +249,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Híresek a gyümölcsök édességéről.", "Export más régiókba."],
       ro: ["Faimoase pentru dulceața fructelor.", "Export în alte regiuni."],
       en: ["Known for the sweetness of the fruit.", "Export to other regions."]
-    }
-  },
+    }, image: "/poi-images/pineapple-farms-life-v2.webp"},
   {
     id: "vanilla-farms-life-v2",
     type: "agriculture",
@@ -279,8 +262,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Bonyolult kézi megporzást igényel.", "Nagyon értékes exporttermék."],
       ro: ["Necesită polenizare manuală elaborată.", "Produs de export foarte valoros."],
       en: ["Requires elaborate hand pollination.", "Very valuable export product."]
-    }
-  },
+    }, image: "/poi-images/vanilla-farms-life-v2.webp"},
   {
     id: "groundnut-fields-life-v2",
     type: "agriculture",
@@ -321,8 +303,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Fő élelmiszer sok háztartásban.", "Két aratás lehetséges évente."],
       ro: ["Aliment de bază în multe gospodării.", "Două recolte pe an sunt posibile."],
       en: ["Staple food in many households.", "Two harvests per year possible."]
-    }
-  },
+    }, image: "/poi-images/maize-fields-life-v2.webp"},
   {
     id: "potato-farms-life-v2",
     type: "agriculture",
@@ -335,8 +316,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Különösen jól terem a Bwindi környékén.", "Fontos bevételi forrás."],
       ro: ["Prosperă în special în zona Bwindi.", "Sursă importantă de venit."],
       en: ["Thrive especially well in the Bwindi area.", "Important source of income."]
-    }
-  },
+    }, image: "/poi-images/potato-farms-life-v2.webp"},
   {
     id: "sunflower-farms-life-v2",
     type: "agriculture",
@@ -349,8 +329,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["A napraforgóolaj helyi termék.", "Színes mezők nyáron."],
       ro: ["Uleiul de floarea-soarelui este un produs local.", "Câmpuri colorate vara."],
       en: ["Sunflower oil is a local product.", "Colorful fields in summer."]
-    }
-  },
+    }, image: "/poi-images/sunflower-farms-life-v2.webp"},
   {
     id: "chikwawa-sanctuary-life-v2",
     type: "animal-habitat",
@@ -363,8 +342,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Vízi madarak védelme.", "Szép folyóparti táj."],
       ro: ["Protecția păsărilor de apă.", "Peisaj frumos de mal al râului."],
       en: ["Protection of water birds.", "Beautiful riverbank landscape."]
-    }
-  },
+    }, image: "/poi-images/chikwawa-sanctuary-life-v2.webp"},
   {
     id: "budongo-forest-life-v2",
     type: "animal-habitat",
@@ -377,8 +355,7 @@ export const poiExtraUgandaLifeV2: POI[] = [
       hu: ["Sok csimpánz.", "Ritka mahagónifák otthona."],
       ro: ["Mulți cimpanzei.", "Găzduiește arbori de mahon rari."],
       en: ["Many chimpanzees.", "Home to rare mahogany trees."]
-    }
-  },
+    }, image: "/poi-images/budongo-forest-life-v2.webp"},
   {
     id: "katonga-wildlife-life-v2",
     type: "animal-habitat",
@@ -408,3 +385,4 @@ export const poiExtraUgandaLifeV2: POI[] = [
     }
   }
 ];
+

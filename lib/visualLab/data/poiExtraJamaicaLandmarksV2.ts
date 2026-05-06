@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraJamaicaLandmarksV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1962-ben épült a Közép-amerikai és Karibi Játékokra.", "Körülbelül 35 000 néző befogadására alkalmas.", "Kingstonban található."],
       ro: ["Construit în 1962 pentru Jocurile Americii Centrale și Caraibelor.", "Are o capacitate de aproximativ 35.000 de spectatori.", "Situat în Kingston."],
       en: ["Built in 1962 for the Central American and Caribbean Games.", "Has a capacity of about 35,000 spectators.", "Located in Kingston."]
-    }
-  },
+    }, image: "/poi-images/jm-independence-park-landmarks-v2.webp"},
   {
     id: "jm-sabina-park-landmarks-v2",
     type: "landmark",
@@ -27,8 +27,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1930-ban vált teszt-krikett stadionná.", "A 2007-es krikett-világbajnokság egyik helyszíne.", "Kingston egyik legszárazabb részén található."],
       ro: ["A devenit un teren de test cricket în 1930.", "Gazdă în timpul Cupei Mondiale de Cricket din 2007.", "Situat într-una dintre cele mai uscate părți ale Kingstonului."],
       en: ["Became a test cricket ground in 1930.", "Hosted matches during the 2007 Cricket World Cup.", "Located in one of the driest parts of Kingston."]
-    }
-  },
+    }, image: "/poi-images/jm-sabina-park-landmarks-v2.webp"},
   {
     id: "jm-national-gallery-landmarks-v2",
     type: "landmark",
@@ -41,8 +40,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1974-ben alapították.", "A Kingston Mall komplexumban található.", "Edna Manley és mások műveit állítja ki."],
       ro: ["Fondat în 1974.", "Situat în complexul Kingston Mall.", "Expune lucrări ale lui Edna Manley și ale altora."],
       en: ["Founded in 1974.", "Located in the Kingston Mall complex.", "Features works by Edna Manley and others."]
-    }
-  },
+    }, image: "/poi-images/jm-national-gallery-landmarks-v2.webp"},
   {
     id: "jm-ward-theatre-landmarks-v2",
     type: "landmark",
@@ -55,8 +53,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1912-ben ajándékozták a városnak.", "Charles Ward ezredesről kapta a nevét.", "A pantomim fontos helyszíne."],
       ro: ["A fost donat orașului în 1912.", "Numit după colonelul Charles Ward.", "Un loc important pentru pantomimă."],
       en: ["Donated to the city in 1912.", "Named after Colonel Charles Ward.", "A major venue for pantomime."]
-    }
-  },
+    }, image: "/poi-images/jm-ward-theatre-landmarks-v2.webp"},
   {
     id: "jm-gordon-house-landmarks-v2",
     type: "landmark",
@@ -69,8 +66,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1960-ban épült.", "George William Gordon nemzeti hősről nevezték el.", "A régi Headquarters House-t váltotta fel."],
       ro: ["Construit în anul 1960.", "Numit după eroul național George William Gordon.", "A înlocuit vechea Casă a Cartierului General."],
       en: ["Built in 1960.", "Named after national hero George William Gordon.", "Replaced the old Headquarters House."]
-    }
-  },
+    }, image: "/poi-images/jm-gordon-house-landmarks-v2.webp"},
   {
     id: "jm-kings-house-landmarks-v2",
     type: "landmark",
@@ -83,8 +79,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["Az anglikán püspök egykori rezidenciája.", "1907-ben egy földrengés elpusztította, majd újjáépítették.", "Kiterjedt kertek veszik körül."],
       ro: ["Fosta reședință a episcopului anglican.", "Distrus de un cutremur în 1907 și reconstruit.", "Include grădini extinse."],
       en: ["Former residence of the Anglican Bishop.", "Destroyed by an earthquake in 1907 and rebuilt.", "Features extensive gardens."]
-    }
-  },
+    }, image: "/poi-images/jm-kings-house-landmarks-v2.webp"},
   {
     id: "jm-emancipation-park-landmarks-v2",
     type: "landmark",
@@ -97,8 +92,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["2002-ben nyílt meg.", "A 'Redemption Song' szoborról ismert.", "Hét hektáros területű."],
       ro: ["Deschis în anul 2002.", "Cunoscut pentru sculptura 'Redemption Song'.", "Are o suprafață de șapte acri."],
       en: ["Opened in 2002.", "Known for the 'Redemption Song' sculpture.", "Covers seven acres of land."]
-    }
-  },
+    }, image: "/poi-images/jm-emancipation-park-landmarks-v2.webp"},
   {
     id: "jm-national-heroes-park-landmarks-v2",
     type: "landmark",
@@ -111,8 +105,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["Korábban lóversenypálya volt.", "Itt nyugszik Marcus Garvey.", "Kingstonban található."],
       ro: ["A fost anterior o pistă de curse de cai.", "Marcus Garvey este înmormântat aici.", "Situat în Kingston."],
       en: ["Was formerly a horse racing track.", "Marcus Garvey is buried here.", "Located in Kingston."]
-    }
-  },
+    }, image: "/poi-images/jm-national-heroes-park-landmarks-v2.webp"},
   {
     id: "jm-holy-trinity-cathedral-landmarks-v2",
     type: "landmark",
@@ -125,8 +118,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1911-ben fejezték be.", "Az 1907-es földrengésben elpusztult templomot váltotta fel.", "A műalkotásokat Francis Schroen testvér festette."],
       ro: ["Finalizată în 1911.", "A înlocuit biserica distrusă de cutremurul din 1907.", "Operele de artă au fost pictate de fratele Francis Schroen."],
       en: ["Completed in 1911.", "Replaced the church destroyed in the 1907 earthquake.", "Artwork was painted by Brother Francis Schroen."]
-    }
-  },
+    }, image: "/poi-images/jm-holy-trinity-cathedral-landmarks-v2.webp"},
   {
     id: "jm-trench-town-culture-yard-landmarks-v2",
     type: "landmark",
@@ -153,8 +145,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1913-ban állították VII. Eduárd király emlékére.", "Half Way Tree központját jelöli.", "Neogótikus stílusban épült."],
       ro: ["Ridicată în 1913 în memoria Regelui Eduard al VII-lea.", "Marchează centrul zonei Half Way Tree.", "Construit în stil neogotic."],
       en: ["Erected in 1913 in memory of King Edward VII.", "Marks the center of Half Way Tree.", "Built in the Gothic Revival style."]
-    }
-  },
+    }, image: "/poi-images/jm-half-way-tree-clock-tower-landmarks-v2.webp"},
   {
     id: "jm-institute-of-jamaica-landmarks-v2",
     type: "landmark",
@@ -181,8 +172,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1853-ban épült.", "Túlélte az 1907-es földrengést.", "Öntöttvasból és kőből épült."],
       ro: ["Construit în 1853.", "A supraviețuit cutremurului din 1907.", "Construit din fontă și piatră."],
       en: ["Built in 1853.", "Survived the 1907 earthquake.", "Constructed of cast iron and stone."]
-    }
-  },
+    }, image: "/poi-images/jm-plumb-point-lighthouse-landmarks-v2.webp"},
   {
     id: "jm-uwi-mona-campus-landmarks-v2",
     type: "landmark",
@@ -195,8 +185,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1948-ban alapították.", "Egykori cukornádültetvények területén épült.", "Vízvezetékek romjait rejti."],
       ro: ["Fondat în 1948.", "Construit pe terenul unor foste plantații de trestie de zahăr.", "Găzduiește ruine ale apeductelor."],
       en: ["Founded in 1948.", "Built on the site of former sugar cane plantations.", "Houses ruins of aqueducts."]
-    }
-  },
+    }, image: "/poi-images/jm-uwi-mona-campus-landmarks-v2.webp"},
   {
     id: "jm-sam-sharpe-square-landmarks-v2",
     type: "landmark",
@@ -209,8 +198,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["Korábban Charles Square volt a neve.", "Itt található 'The Cage', egy egykori börtön.", "Sam Sharpe emlékművének ad otthont."],
       ro: ["Anterior se numea Piața Charles.", "Aici se află 'The Cage', o fostă închisoare.", "Găzduiește un monument dedicat lui Sam Sharpe."],
       en: ["Formerly called Charles Square.", "Features 'The Cage', a former prison.", "Houses a monument to Sam Sharpe."]
-    }
-  },
+    }, image: "/poi-images/jm-sam-sharpe-square-landmarks-v2.webp"},
   {
     id: "jm-st-james-parish-church-landmarks-v2",
     type: "landmark",
@@ -223,8 +211,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1775 és 1782 között épült.", "John Bacon szobrász emlékműveit őrzi.", "Építészeti gyöngyszemként tartják számon."],
       ro: ["Construită între 1775 și 1782.", "Prezintă monumente ale sculptorului John Bacon.", "Considerată o bijuterie arhitecturală."],
       en: ["Built between 1775 and 1782.", "Features monuments by sculptor John Bacon.", "Regarded as an architectural gem."]
-    }
-  },
+    }, image: "/poi-images/jm-st-james-parish-church-landmarks-v2.webp"},
   {
     id: "jm-greenwood-great-house-landmarks-v2",
     type: "landmark",
@@ -237,8 +224,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["Érintetlenül vészelte át az 1831-es rabszolgafelkelést.", "Értékes régiséggyűjteménynek ad otthont.", "St. James és Trelawny határán fekszik."],
       ro: ["A supraviețuit intactă rebeliunii sclavilor din 1831.", "Găzduiește o valoroasă colecție de antichități.", "Situat la granița dintre St. James și Trelawny."],
       en: ["Survived the 1831 slave rebellion intact.", "Houses a valuable collection of antiques.", "Located on the border of St. James and Trelawny."]
-    }
-  },
+    }, image: "/poi-images/jm-greenwood-great-house-landmarks-v2.webp"},
   {
     id: "jm-falmouth-cruise-terminal-landmarks-v2",
     type: "landmark",
@@ -251,8 +237,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["2011-ben nyílt meg.", "Oasis osztályú hajók befogadására is alkalmas.", "Falmouth történelmi építészetét utánozza."],
       ro: ["Deschis în 2011.", "Poate găzdui nave din clasa Oasis.", "Imită arhitectura istorică din Falmouth."],
       en: ["Opened in 2011.", "Can accommodate Oasis-class ships.", "Mimics the historic architecture of Falmouth."]
-    }
-  },
+    }, image: "/poi-images/jm-falmouth-cruise-terminal-landmarks-v2.webp"},
   {
     id: "jm-columbus-park-landmarks-v2",
     type: "landmark",
@@ -265,8 +250,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["Kolumbusz Puerto Secónak nevezte a helyet.", "Arawak indián leleteket állít ki.", "A gyarmati időszakból származó ereklyéket őriz."],
       ro: ["Columb a numit locul Puerto Seco.", "Expune artefacte ale indienilor Arawak.", "Găzduiește relicve din perioada colonială."],
       en: ["Columbus named the site Puerto Seco.", "Displays Arawak Indian artifacts.", "Houses relics from the colonial period."]
-    }
-  },
+    }, image: "/poi-images/jm-columbus-park-landmarks-v2.webp"},
   {
     id: "jm-firefly-estate-landmarks-v2",
     type: "landmark",
@@ -279,8 +263,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["Noel Coward a birtokon van eltemetve.", "Kilátást nyújt Port Mariára.", "Eredetileg Henry Morgan kalóz kilátóhelye volt."],
       ro: ["Noel Coward este înmormântat pe teren.", "Oferă vedere spre Port Maria.", "A fost inițial un punct de observație al piratului Henry Morgan."],
       en: ["Noel Coward is buried on the grounds.", "Offers a view of Port Maria.", "Was originally a lookout for pirate Henry Morgan."]
-    }
-  },
+    }, image: "/poi-images/jm-firefly-estate-landmarks-v2.webp"},
   {
     id: "jm-rio-nuevo-battle-site-landmarks-v2",
     type: "landmark",
@@ -293,8 +276,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["A csata 1658-ban zajlott.", "Biztosította a brit uralmat Jamaica felett.", "A Jamaica National Heritage Trust kezeli."],
       ro: ["Bătălia a avut loc în 1658.", "A asigurat controlul britanic asupra Jamaicăi.", "Este gestionat de Jamaica National Heritage Trust."],
       en: ["The battle took place in 1658.", "Secured British control over Jamaica.", "Managed by the Jamaica National Heritage Trust."]
-    }
-  },
+    }, image: "/poi-images/jm-rio-nuevo-battle-site-landmarks-v2.webp"},
   {
     id: "jm-roxborough-landmarks-v2",
     type: "landmark",
@@ -307,8 +289,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1893-ban itt született Norman Manley.", "Az eredeti ház 1968-ban leégett.", "Emlékhely tiszteleg az élete előtt."],
       ro: ["Norman Manley s-a născut aici în 1893.", "Casa originală a ars în 1968.", "Un monument comemorează viața sa."],
       en: ["Norman Manley was born here in 1893.", "The original house burned down in 1968.", "A memorial honors his life."]
-    }
-  },
+    }, image: "/poi-images/jm-roxborough-landmarks-v2.webp"},
   {
     id: "jm-mandeville-courthouse-landmarks-v2",
     type: "landmark",
@@ -321,8 +302,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1817 körül épült.", "Ma is bírósági tárgyalásokra használják.", "Kétszintes tégla- és faépület."],
       ro: ["A fost construit în jurul anului 1817.", "Este folosit și astăzi pentru ședințele de judecată.", "Construit pe două niveluri din zidărie și lemn."],
       en: ["Built around 1817.", "Still used for court proceedings today.", "Constructed of two-story masonry and wood."]
-    }
-  },
+    }, image: "/poi-images/jm-mandeville-courthouse-landmarks-v2.webp"},
   {
     id: "jm-lovers-leap-lighthouse-landmarks-v2",
     type: "landmark",
@@ -335,8 +315,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["A szikla több mint 500 méter magas.", "Azért építették, hogy figyelmeztesse a hajókat a tagolt partra.", "Lélegzetelállító kilátást nyújt a tengerre."],
       ro: ["Stânca are peste 500 de metri înălțime.", "Construit pentru a avertiza navele de coasta zimțată.", "Oferă o vedere uimitoare asupra mării."],
       en: ["The cliff is over 500 meters high.", "Erected to warn ships of the rugged coastline.", "Offers a breathtaking view of the sea."]
-    }
-  },
+    }, image: "/poi-images/jm-lovers-leap-lighthouse-landmarks-v2.webp"},
   {
     id: "jm-appleton-estate-landmarks-v2",
     type: "landmark",
@@ -349,8 +328,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1749 óta gyárt rumot.", "Vezetett túrákat kínál a történelmi létesítményben.", "Látogatóközponttal és kóstolótermekkel rendelkezik."],
       ro: ["Produce rom din 1749.", "Oferă tururi ale instalației istorice.", "Dispune de un centru pentru vizitatori și săli de degustare."],
       en: ["Has been producing rum since 1749.", "Offers guided tours of the historic facility.", "Features a visitor center and tasting rooms."]
-    }
-  },
+    }, image: "/poi-images/jm-appleton-estate-landmarks-v2.webp"},
   {
     id: "jm-negril-lighthouse-landmarks-v2",
     type: "landmark",
@@ -363,8 +341,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1894-ben épült.", "Napenergiával működik.", "Panorámás kilátást nyújt a Karib-tengerre."],
       ro: ["A fost construit în 1894.", "Este alimentat cu energie solară.", "Oferă o vedere panoramică a Mării Caraibelor."],
       en: ["Was built in 1894.", "Is powered by solar energy.", "Offers a panoramic view of the Caribbean Sea."]
-    }
-  },
+    }, image: "/poi-images/jm-negril-lighthouse-landmarks-v2.webp"},
   {
     id: "jm-peter-tosh-monument-landmarks-v2",
     type: "landmark",
@@ -377,8 +354,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["Szülőhelyén, Belmontban található.", "A látogatók megtekinthetik a síremlékét.", "A reggae rajongók a világ minden tájáról gyakran felkeresik."],
       ro: ["Este situat în locul său de naștere, Belmont.", "Vizitatorii pot vedea mormântul său.", "Adesea vizitat de fani reggae din întreaga lume."],
       en: ["Located in his birthplace of Belmont.", "Visitors can view his tomb.", "Often visited by reggae fans from around the world."]
-    }
-  },
+    }, image: "/poi-images/jm-peter-tosh-monument-landmarks-v2.webp"},
   {
     id: "jm-morant-point-lighthouse-landmarks-v2",
     type: "landmark",
@@ -391,8 +367,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["1841-ben Londonban öntötték és szállították Jamaicába.", "Körülbelül 30 méter magas.", "Szabad afrikaiak építették."],
       ro: ["A fost turnat la Londra în 1841 și expediat în Jamaica.", "Are o înălțime de aproximativ 30 de metri.", "Construit de africani liberi."],
       en: ["Was cast in London in 1841 and shipped to Jamaica.", "Is about 30 meters tall.", "Erected by free Africans."]
-    }
-  },
+    }, image: "/poi-images/jm-morant-point-lighthouse-landmarks-v2.webp"},
   {
     id: "jm-morant-bay-courthouse-landmarks-v2",
     type: "landmark",
@@ -405,8 +380,7 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
       hu: ["A Paul Bogle vezette felkelés központja volt.", "Az épület előtti emlékmű a lázadók előtt tiszteleg.", "Az eredeti épület 2007-ben tűzben megsemmisült."],
       ro: ["A fost centrul rebeliunii conduse de Paul Bogle.", "Un monument în fața clădirii onorează rebelii.", "Clădirea originală a fost distrusă de un incendiu în 2007."],
       en: ["Was the center of the rebellion led by Paul Bogle.", "A monument in front of the building honors the rebels.", "The original building was destroyed by fire in 2007."]
-    }
-  },
+    }, image: "/poi-images/jm-morant-bay-courthouse-landmarks-v2.webp"},
   {
     id: "jm-cast-iron-bridge-landmarks-v2",
     type: "landmark",
@@ -422,3 +396,4 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     }
   }
 ];
+

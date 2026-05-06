@@ -1,55 +1,156 @@
 import json
 import re
+import os
 
-with open('ro_data.json', 'r', encoding='utf-8') as f:
+with open('all_ireland_out.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
-with open('lib/visualLab/data/norwayPoi.ts', 'r', encoding='utf-8') as f:
-    content = f.read()
+files = [
+    'lib/visualLab/data/irelandPoi.ts',
+    'lib/visualLab/data/poiExtraIrelandAnimal.ts',
+    'lib/visualLab/data/poiExtraIrelandCities.ts',
+    'lib/visualLab/data/poiExtraIrelandOther.ts'
+]
 
-pois = list(re.finditer(r'id:\s*\"([^\"]+)\"', content))
-new_content = content[:pois[0].start()] if pois else content
-last_idx = pois[0].start() if pois else 0
-count = 0
+def format_facts(facts):
+    lines = []
+    for fact in facts:
+        lines.append(f'"{fact}"')
+    return '[\n      ' + ',\n      '.join(lines) + '\n    ]'
 
-for i, match in enumerate(pois):
-    poi_id = match.group(1)
-    start_idx = match.start()
-    end_idx = pois[i+1].start() if i+1 < len(pois) else len(content)
-    
-    poi_block = content[start_idx:end_idx]
-    
-    if poi_id in data:
-        desc_text = data[poi_id]['description'].replace('"', '\\"')
-        facts_list = data[poi_id]['facts']
+for file_path in files:
+    if not os.path.exists(file_path):
+        continue
         
-        # Build facts string carefully
-        facts_str = '[\n        '
-        facts_str += ',\n        '.join([f'"{f.replace(chr(34), chr(92)+chr(34))}"' for f in facts_list])
-        facts_str += '\n      ]'
-        
-        # Replace empty description ro: "" with the new text. We replace the LAST empty ro.
-        desc_blocks = list(re.finditer(r'descriptionAdvanced:\s*\{(.*?)\}', poi_block, re.DOTALL))
-        if desc_blocks:
-            last_desc = desc_blocks[-1]
-            old_str = last_desc.group(0)
-            new_str = re.sub(r'ro:\s*\"\"', f'ro: "{desc_text}"', old_str, count=1)
-            if old_str != new_str:
-                poi_block = poi_block[:last_desc.start()] + new_str + poi_block[last_desc.end():]
-                count += 1
-                
-        # Replace empty facts ro: []
-        facts_blocks = list(re.finditer(r'factsAdvanced:\s*\{(.*?)\}', poi_block, re.DOTALL))
-        if facts_blocks:
-            last_fact = facts_blocks[-1]
-            old_str = last_fact.group(0)
-            new_str = re.sub(r'ro:\s*\[\s*\]', f'ro: {facts_str}', old_str, count=1)
-            if old_str != new_str:
-                poi_block = poi_block[:last_fact.start()] + new_str + poi_block[last_fact.end():]
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
 
-    new_content += poi_block
-
-with open('lib/visualLab/data/norwayPoi.ts', 'w', encoding='utf-8') as f:
-    f.write(new_content)
+    updated_count = 0
     
-print(f"Updated {count} POIs successfully!")
+    for poi_id, item_data in data.items():
+        desc_ro = item_data.get('descriptionAdvanced_ro')
+        facts_ro = item_data.get('factsAdvanced_ro')
+        
+        if not desc_ro or not facts_ro:
+            continue
+            
+        # Find the POI block by ID
+        id_pos = content.find(f'id: "{poi_id}"')
+        if id_pos == -1:
+            continue
+            
+        # Find the end of this POI (next "  {", "];" or end of file)
+        next_poi_pos = content.find('  {', id_pos)
+        if next_poi_pos == -1:
+            next_poi_pos = content.find('];', id_pos)
+        if next_poi_pos == -1:
+            next_poi_pos = len(content)
+            
+        poi_block = content[id_pos:next_poi_pos]
+        new_poi_block = poi_block
+        changed = False
+
+        # 1. Update descriptionAdvanced.ro
+        # Check if descriptionAdvanced exists
+        da_start = new_poi_block.find("descriptionAdvanced:")
+        
+        # We need to escape desc_ro properly to avoid JS syntax errors
+        desc_escaped = json.dumps(desc_ro, ensure_ascii=False)
+        
+        if da_start != -1:
+            da_end = new_poi_block.find("}", da_start) + 1
+            # ensure we don't grab too much
+            if da_end > da_start:
+                da_block = new_poi_block[da_start:da_end]
+                # Look for ro: "..." or ro: '...' or "ro": "..."
+                ro_pattern = r'ro:\s*(["\'])(?:(?=(\\?))\2[\s\S])*?\1'
+                if re.search(ro_pattern, da_block):
+                    new_da_block = re.sub(ro_pattern, f'ro: {desc_escaped}', da_block)
+                    new_poi_block = new_poi_block.replace(da_block, new_da_block)
+                else:
+                    # Append ro:
+                    # Find where the block closes and insert before it
+                    insert_pos = da_block.rfind('}')
+                    new_da_block = da_block[:insert_pos] + f',\n      ro: {desc_escaped}\n    ' + da_block[insert_pos:]
+                    new_poi_block = new_poi_block.replace(da_block, new_da_block)
+                changed = True
+        else:
+            # Inject descriptionAdvanced block
+            insert_str = f'\n  descriptionAdvanced: {{\n    ro: {desc_escaped}\n  }},'
+            # Find a good insertion point: after description:
+            desc_start = new_poi_block.find("description: {")
+            if desc_start != -1:
+                desc_end = new_poi_block.find("}", desc_start) + 1
+                if desc_end > desc_start and new_poi_block[desc_end] == ',':
+                    desc_end += 1
+                new_poi_block = new_poi_block[:desc_end] + insert_str + new_poi_block[desc_end:]
+                changed = True
+
+        # 2. Update factsAdvanced.ro
+        fa_start = new_poi_block.find("factsAdvanced:")
+        facts_formatted = format_facts(facts_ro)
+        if fa_start != -1:
+            # We must correctly identify the end of factsAdvanced: {}
+            brace_count = 0
+            fa_end = -1
+            for i in range(fa_start, len(new_poi_block)):
+                if new_poi_block[i] == '{':
+                    brace_count += 1
+                elif new_poi_block[i] == '}':
+                    brace_count -= 1
+                    if brace_count == 0:
+                        fa_end = i + 1
+                        break
+            if fa_end != -1:
+                fa_block = new_poi_block[fa_start:fa_end]
+                # Find ro: [...] block
+                # Since arrays can contain strings with commas, brackets, etc.
+                ro_array_pattern = r'ro:\s*\[[\s\S]*?\]'
+                if re.search(ro_array_pattern, fa_block):
+                    new_fa_block = re.sub(ro_array_pattern, f'ro: {facts_formatted}', fa_block)
+                    new_poi_block = new_poi_block.replace(fa_block, new_fa_block)
+                else:
+                    insert_pos = fa_block.rfind('}')
+                    new_fa_block = fa_block[:insert_pos] + f',\n      ro: {facts_formatted}\n    ' + fa_block[insert_pos:]
+                    new_poi_block = new_poi_block.replace(fa_block, new_fa_block)
+                changed = True
+        else:
+            # Inject factsAdvanced block
+            insert_str = f'\n  factsAdvanced: {{\n    ro: {facts_formatted}\n  }},'
+            # Insert after descriptionAdvanced
+            da_start = new_poi_block.find("descriptionAdvanced:")
+            if da_start != -1:
+                # Find end of da_block
+                brace_count = 0
+                da_end = -1
+                for i in range(da_start, len(new_poi_block)):
+                    if new_poi_block[i] == '{':
+                        brace_count += 1
+                    elif new_poi_block[i] == '}':
+                        brace_count -= 1
+                        if brace_count == 0:
+                            da_end = i + 1
+                            break
+                if da_end != -1:
+                    if da_end < len(new_poi_block) and new_poi_block[da_end] == ',':
+                        da_end += 1
+                    new_poi_block = new_poi_block[:da_end] + insert_str + new_poi_block[da_end:]
+                    changed = True
+            else:
+                # fallback
+                desc_start = new_poi_block.find("description: {")
+                if desc_start != -1:
+                    desc_end = new_poi_block.find("}", desc_start) + 1
+                    if desc_end < len(new_poi_block) and new_poi_block[desc_end] == ',':
+                        desc_end += 1
+                    new_poi_block = new_poi_block[:desc_end] + insert_str + new_poi_block[desc_end:]
+                    changed = True
+
+        if changed:
+            content = content.replace(poi_block, new_poi_block)
+            updated_count += 1
+            
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+        
+    print(f"Updated {updated_count} POIs in {file_path}")

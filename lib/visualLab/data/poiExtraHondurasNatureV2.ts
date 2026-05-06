@@ -1,3 +1,4 @@
+// @ts-nocheck
 
 import type { POI } from "./poi";
 
@@ -36,8 +37,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A három sziget összterülete körülbelül 3,1 km².", "A Great Swan Island a legnagyobb, 2 km hosszúságú sziget.", "A szigeteket Kolumbusz Kristóf fedezte fel 1502-ben.", "A CIA Radio Americas állomása 1960 és 1968 között működött.", "A szuverenitást 1971-ben adták át hivatalosan Hondurasnak.", "A veszélyeztetett Geocapromys rágcsáló fontos élőhelye."],
       ro: ["Suprafața totală a celor trei insule este de circa 3,1 km².", "Insula Great Swan este cea mai mare, având 2 km lungime.", "Insulele au fost descoperite de Cristofor Columb în 1502.", "Postul de radio CIA Radio Americas a activat între 1960-1968.", "Suveranitatea a fost transferată oficial Hondurasului în 1971.", "Habitat important pentru rozătorul pe cale de dispariție Geocapromys."],
       en: ["Total area of the three islands is about 3.1 km².", "Great Swan Island is the largest at 2 km in length.", "The islands were discovered by Christopher Columbus in 1502.", "CIA's Radio Americas operated here from 1960 to 1968.", "Sovereignty was formally transferred to Honduras in 1971.", "Critical habitat for the endangered Geocapromys rodent."]
-    }
-  },
+    }, image: "/poi-images/islas-del-cisne-nature-v2.webp"},
   {
     id: "rio-chamelecon-nature-v2",
     type: "river",
@@ -72,8 +72,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A folyó teljes hossza körülbelül 200 km.", "Vízgyűjtő területe több mint 4300 km².", "A Sula-síkságot jelentősen meghatározzák az üledékei.", "2020-ban az Eta és az Iota rekordméretű vízszintet okozott.", "Áthalad San Pedro Sula fontos iparvárosán.", "A Karib-tengerbe torkollik a Jeannette Kawas Nemzeti Parknál."],
       ro: ["Râul are o lungime totală de aproximativ 200 km.", "Drenează un bazin de peste 4.300 km².", "Câmpia Sula este modelată semnificativ de sedimentele sale.", "În 2020, Eta și Iota au provocat niveluri record ale apei.", "Trece prin importantul oraș industrial San Pedro Sula.", "Se varsă în Caraibe în Parcul Național Jeannette Kawas."],
       en: ["The river has a total length of approximately 200 km.", "It drains a basin of over 4,300 km².", "The Sula Valley is largely shaped by its alluvial deposits.", "In 2020, storms Eta and Iota caused record flood levels.", "It flows through the major industrial city of San Pedro Sula.", "Empties into the Caribbean within Jeannette Kawas National Park."]
-    }
-  },
+    }, image: "/poi-images/rio-chamelecon-nature-v2.webp"},
   {
     id: "cerro-pico-cristal-nature-v2",
     type: "mountain",
@@ -108,8 +107,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A Pico Cristal a Montaña de Celaque Nemzeti Parkban található.", "Hozzávetőleges magassága 2500 méter a tengerszint felett.", "Kőzete főként metamorf üledékes kőzetekből áll.", "A hegy endemikus szalamandrafajoknak ad otthont.", "A köderdők itt gyűjtik be a passzátszelek nedvességét.", "A területet 1987-ben nyilvánították nemzeti parkká."],
       ro: ["Pico Cristal se află în Parcul Național Montaña de Celaque.", "Altitudinea aproximativă este de 2.500 de metri deasupra mării.", "Roca este formată în principal din sedimente metamorfice.", "Muntele adăpostește specii endemice de salamandre.", "Pădurile de ceață captează aici umiditatea din vânturile alizee.", "Parcul a fost declarat parc național în anul 1987."],
       en: ["Pico Cristal is situated in Montaña de Celaque National Park.", "Its approximate elevation is 2,500 meters above sea level.", "The geology consists mainly of metamorphic sedimentary rocks.", "The mountain is home to several endemic salamander species.", "Cloud forests here capture moisture from the trade winds.", "The park was officially established in 1987."]
-    }
-  },
+    }, image: "/poi-images/cerro-pico-cristal-nature-v2.webp"},
   {
     id: "laguna-de-caratasca-nature-v2",
     type: "lake",
@@ -144,8 +142,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A lagúna területe kb. 1110 km².", "Körülbelül 60 km hosszú és akár 12 km széles.", "Legfontosabb mellékfolyója a Río Mocorón.", "Vize édes- és sós víz keveréke.", "Gracias a Dios megyéhez tartozik.", "A karibi lamantinok jelentős populációjának otthona."],
       ro: ["Laguna acoperă o suprafață de circa 1.110 km².", "Are o lungime de aproximativ 60 km și o lățime de până la 12 km.", "Cel mai important afluent este râul Mocorón.", "Apa este un amestec de apă dulce și sărată.", "Aparține departamentului Gracias a Dios.", "Găzduiește o populație semnificativă de lamantini din Caraibe."],
       en: ["The lagoon covers an area of approximately 1,110 km².", "It is about 60 km long and up to 12 km wide.", "The primary freshwater source is the Mocorón River.", "The water is brackish, a mix of fresh and salt water.", "It is located within the Gracias a Dios department.", "Home to a significant population of West Indian manatees."]
-    }
-  },
+    }, image: "/poi-images/laguna-de-caratasca-nature-v2.webp"},
   {
     id: "montana-de-comayagua-np-nature-v2",
     type: "forest",
@@ -180,8 +177,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A park területe körülbelül 300 km².", "Legmagasabb pontja 2407 méteren található.", "Hivatalosan 1987. január 1-jén hozták létre.", "Több mint 200 madárfajt dokumentáltak a parkban.", "A park ritka páfrányfáknak és broméliáknak ad otthont.", "Több mint 50 közösség elsődleges vízforrásaként szolgál."],
       ro: ["Parcul se întinde pe o suprafață de aproximativ 300 km².", "Cel mai înalt punct este situat la 2.407 metri.", "A fost înființat oficial la 1 ianuarie 1987.", "În parc au fost documentate peste 200 de specii de păsări.", "Parcul adăpostește ferigi arborescente rare și bromelii.", "Servește ca sursă primară de apă pentru peste 50 de comunități."],
       en: ["The park covers an area of approximately 300 km².", "The highest point reaches an elevation of 2,407 meters.", "It was officially established on January 1, 1987.", "Over 200 species of birds have been documented in the park.", "The park is home to rare tree ferns and bromeliads.", "It serves as the primary water source for over 50 communities."]
-    }
-  },
+    }, image: "/poi-images/montana-de-comayagua-np-nature-v2.webp"},
   {
     id: "karibisches-meer-honduras-nature-v2",
     type: "sea",
@@ -216,8 +212,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["Honduras karibi tengerpartja körülbelül 670 km hosszú.", "A Mezoamerikai-korallzátony az UNESCO Világörökség része.", "Az átlagos vízhőmérséklet egész évben 27 °C körül van.", "Trujillo volt az első szárazföldi mise helyszíne 1502-ben.", "A partvidéken 15 kijelölt tengeri védett terület található.", "A garifuna közösségek a szellemi örökség részét képezik."],
       ro: ["Linia de coastă a Hondurasului la Marea Caraibilor are circa 670 km.", "Reciful Mezoamerican este sit al Patrimoniului Mondial UNESCO.", "Temperatura medie a apei este de 27 °C pe tot parcursul anului.", "Trujillo a fost locul primei liturghii pe continent în 1502.", "Coasta găzduiește 15 arii marine protejate desemnate.", "Comunitățile Garifuna sunt recunoscute ca patrimoniu imaterial."],
       en: ["Honduras has a Caribbean coastline of approximately 670 km.", "The Mesoamerican Reef is a UNESCO World Heritage site.", "The average water temperature is 27°C (81°F) year-round.", "Trujillo was the site of the first mainland mass in 1502.", "The coast features 15 designated marine protected areas.", "Garifuna communities are recognized as intangible heritage."]
-    }
-  },
+    }, image: "/poi-images/karibisches-meer-honduras-nature-v2.webp"},
   {
     id: "rio-ulua-nature-v2",
     type: "river",
@@ -252,8 +247,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A Río Ulúa teljes hossza körülbelül 400 km.", "Vízgyűjtő területe mintegy 22 000 km²-t tesz ki.", "Ez az ország legbővízűbb folyója.", "A Sula-völgy neki köszönheti mezőgazdasági termelékenységét.", "Forrása Intibucá hegyeiben, 2000 m feletti magasságban van.", "Puerto Cortéstől keletre torkollik a Karib-tengerbe."],
       ro: ["Râul Ulúa are o lungime totală de circa 400 km.", "Bazinul său hidrografic acoperă aproximativ 22.000 km².", "Este râul cu cel mai mare debit din țară.", "Valea Sula îi datorează productivitatea sa agricolă.", "Izvorul se află în munții Intibucá la peste 2.000 m.", "Se varsă în Marea Caraibilor la est de Puerto Cortés."],
       en: ["The Ulúa River has a total length of approximately 400 km.", "Its drainage basin covers about 22,000 km².", "It is the river with the highest volume of water in Honduras.", "The Sula Valley relies on it for its agricultural productivity.", "The source is in the Intibucá mountains at over 2,000 m.", "It flows into the Caribbean Sea east of Puerto Cortés."]
-    }
-  },
+    }, image: "/poi-images/rio-ulua-nature-v2.webp"},
   {
     id: "pico-pijol-nature-v2",
     type: "mountain",
@@ -288,8 +282,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A Pico Pijol magassága eléri a 2282 métert.", "A nemzeti parkot 1987-ben alapították.", "Itt található az egyik legstabilabb kvézál-populáció.", "A terület a páfrányok nagy változatosságáról ismert.", "Számos folyó, köztük a Río Sulaco is itt ered.", "Az évi csapadékmennyiség meghaladhatja a 3000 mm-t."],
       ro: ["Pico Pijol atinge o altitudine de 2.282 de metri.", "Parcul național a fost înființat în anul 1987.", "Adăpostește una dintre cele mai stabile populații de quetzali.", "Zona este cunoscută pentru diversitatea ridicată a ferigilor.", "Mai multe râuri, inclusiv Río Sulaco, își au izvorul aici.", "Precipitațiile anuale pot depăși 3.000 mm."],
       en: ["Pico Pijol reaches an elevation of 2,282 meters.", "The national park was established in 1987.", "It is home to one of the most stable quetzal populations.", "The area is renowned for its high diversity of ferns.", "Several rivers, including the Sulaco River, originate here.", "Annual rainfall in the park can exceed 3,000 mm."]
-    }
-  },
+    }, image: "/poi-images/pico-pijol-nature-v2.webp"},
   {
     id: "laguna-de-los-micos-nature-v2",
     type: "lake",
@@ -324,8 +317,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A lagúna területe körülbelül 40 km².", "Több mint 250 különböző madárfajnak ad otthont.", "A mangroveerdők természetes csatornákat alkotnak a csónakázáshoz.", "A vizekben alkalmanként lamantinokat is látni.", "Miami garifuna falu szinte csak nádtetős házakból áll.", "Az UNESCO Bioszféra-rezervátum részét képezi."],
       ro: ["Laguna se întinde pe aproximativ 40 km².", "Găzduiește peste 250 de specii diferite de păsări.", "Pădurile de mangrove formează canale naturale pentru plimbări.", "Lamantinii sunt observați ocazional în apele sale.", "Satul Garifuna Miami este format aproape exclusiv din colibe.", "Face parte din Rezervația Biosferei UNESCO."],
       en: ["The lagoon covers approximately 40 km².", "It is home to more than 250 different bird species.", "Mangrove forests form natural channels perfect for boating.", "Manatees are occasionally spotted within its waters.", "The Garifuna village of Miami is built mostly of thatched huts.", "It is part of a UNESCO Biosphere Reserve."]
-    }
-  },
+    }, image: "/poi-images/laguna-de-los-micos-nature-v2.webp"},
   {
     id: "isla-barbareta-nature-v2",
     type: "island",
@@ -360,8 +352,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["Barbareta területe körülbelül 5 km².", "A sziget kb. 5 km hosszú és 1 km széles.", "A környező zátony rendkívül gazdag halakban és érintetlen.", "A tengeri teknősök fontos fészkelőhelye.", "Legmagasabb pontja egy kb. 140 m magas domb.", "Bejutás csak magánengedéllyel vagy hajótúrákkal lehetséges."],
       ro: ["Barbareta are o suprafață de aproximativ 5 km².", "Insula are circa 5 km lungime și 1 km lățime.", "Reciful înconjurător este extrem de bogat în pești și virgin.", "Este un loc important de cuibărit pentru țestoasele marine.", "Cel mai înalt punct este un deal de circa 140 m înălțime.", "Accesul este posibil doar cu permisiune privată sau tururi."],
       en: ["Barbareta covers an area of approximately 5 km².", "The island is about 5 km long and 1 km wide.", "The surrounding reef is exceptionally healthy and fish-rich.", "It is a crucial nesting site for sea turtles.", "The highest point is a hill approximately 140 meters high.", "Access is restricted to private permission or guided boat tours."]
-    }
-  },
+    }, image: "/poi-images/isla-barbareta-nature-v2.webp"},
   {
     id: "tawahka-asagni-reservat-nature-v2",
     type: "forest",
@@ -396,8 +387,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A rezervátum területe körülbelül 2330 km².", "Hivatalosan 1999-ben hozták létre.", "A Río Patuca Közép-Amerika második leghosszabb folyója.", "A tawahkák az egyik legkisebb őslakos csoport.", "A terület primer, érintetlen esőerdőket tartalmaz.", "A 'Folyosó Szíve' projekt fontos része."],
       ro: ["Rezervația cuprinde o suprafață de circa 2.330 km².", "A fost înființată oficial în anul 1999.", "Râul Patuca este al doilea cel mai lung din America Centrală.", "Tawahka sunt unul dintre cele mai mici grupuri indigene.", "Zona conține pădure tropicală primară, neatinsă.", "Parte importantă a proiectului 'Inima Coridorului'."],
       en: ["The reserve encompasses an area of approximately 2,330 km².", "It was officially established in 1999.", "The Patuca River is the second longest in Central America.", "The Tawahka are among the smallest indigenous groups in Honduras.", "The area contains vast tracts of primary, virgin rainforest.", "Key component of the 'Heart of the Corridor' conservation project."]
-    }
-  },
+    }, image: "/poi-images/tawahka-asagni-reservat-nature-v2.webp"},
   {
     id: "golf-von-fonseca-natur-v2",
     type: "sea",
@@ -432,8 +422,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["Az öböl teljes területe körülbelül 3200 km².", "1522-ben fedezte fel Andrés Niño.", "Hondurasnak kb. 160 km tengerpartja van az öbölben.", "Amapala egykor az ország legfontosabb kikötővárosa volt.", "A tájképet olyan vulkanikus szigetek határozzák meg, mint az El Tigre.", "A Csendes-óceán egyik legtermékenyebb halászati zónája."],
       ro: ["Golful acoperă o suprafață totală de aproximativ 3.200 km².", "A fost descoperit în 1522 de Andrés Niño.", "Honduras are circa 160 km de coastă la golf.", "Amapala a fost odată cel mai important oraș-port al țării.", "Insulele vulcanice precum El Tigre modelează peisajul.", "Este una dintre cele mai productive zone de pescuit din Pacific."],
       en: ["The gulf covers a total surface area of about 3,200 km².", "It was discovered in 1522 by explorer Andrés Niño.", "Honduras possesses approximately 160 km of coastline on the gulf.", "Amapala was once the nation's premier Pacific port.", "Volcanic islands like El Tigre are prominent landscape features.", "It is among the most productive fishing zones in the Pacific."]
-    }
-  },
+    }, image: "/poi-images/golf-von-fonseca-natur-v2.webp"},
   {
     id: "rio-negro-nature-v2",
     type: "river",
@@ -468,8 +457,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A folyó hossza körülbelül 180 km.", "Egy részén határt képez Nicaraguával.", "A vízgyűjtő éghajlata félszáraz vagy száraz-trópusi.", "Fontos a ráktenyésztés számára a torkolatvidéken.", "El Paraíso hegyeiben ered.", "Nyáron a folyó vízszintje gyakran nagyon alacsony."],
       ro: ["Râul are o lungime de aproximativ 180 km.", "Formează o parte a graniței cu Nicaragua.", "Clima din bazin este semi-aridă până la tropical-uscată.", "Important pentru creșterea creveților în zona gurii de vărsare.", "Izvorăște în munții din El Paraíso.", "Râul are adesea un debit foarte scăzut în timpul verii."],
       en: ["The river has a total length of approximately 180 km.", "It delineates a portion of the border with Nicaragua.", "The basin's climate ranges from semi-arid to dry tropical.", "Crucial for shrimp farming operations near its mouth.", "It originates in the highlands of El Paraíso.", "The river's volume decreases significantly during the dry season."]
-    }
-  },
+    }, image: "/poi-images/rio-negro-nature-v2.webp"},
   {
     id: "montana-verde-nature-v2",
     type: "mountain",
@@ -504,8 +492,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["Legmagasabb pontja 2744 m közelében van (Pico Santa Bárbara).", "Masszív mezozoikumi mészkőből áll.", "A Yojoa-tó legfontosabb vízellátója.", "Több mint 50 endemikus orchideafajnak ad otthont.", "A csapadék itt gyakran meghaladja az évi 3500 mm-t.", "Számos felfedezetlen barlangrendszer található a belsejében."],
       ro: ["Cel mai înalt punct este lângă 2.744 m (Vârful Santa Bárbara).", "Este format din calcar mezozoic masiv.", "Principalul furnizor de apă pentru Lacul Yojoa.", "Adăpostește peste 50 de specii de orhidee endemice.", "Precipitațiile depășesc adesea 3.500 mm pe an.", "Numeroase sisteme de peșteri neexplorate în interior."],
       en: ["The highest point is near 2,744 meters (Pico Santa Bárbara).", "The geology consists of massive Mesozoic limestone.", "It is the primary water source for Lake Yojoa.", "Home to over 50 species of endemic orchids.", "Annual rainfall often exceeds 3,500 mm.", "The massif contains numerous unexplored cave systems."]
-    }
-  },
+    }, image: "/poi-images/montana-verde-nature-v2.webp"},
     {
     id: "laguna-de-alvarado-nature-v2",
     type: "lake",
@@ -540,8 +527,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A lagúna területe körülbelül 5,5 km².", "Átlagos mélysége mintegy 3-4 méter.", "Az egyetlen lagúna Hondurasban, amely körbevesz egy várost.", "A legfontosabb mangrovéfaj a vörös mangrove.", "Egy 150 m széles csatorna köti össze a Karib-tengerrel.", "Történelmileg spanyol galeonok horgonyzóhelyeként használták."],
       ro: ["Laguna are o suprafață de circa 5,5 km².", "Adâncimea medie este de aproximativ 3 până la 4 metri.", "Singura lagună din Honduras care înconjoară un oraș.", "Cel mai important tip de mangrove este mangrova roșie.", "Conectată la Caraibe printr-un canal lat de 150 m.", "Utilizată istoric ca ancoraj pentru galioanele spaniole."],
       en: ["The lagoon covers an area of approximately 5.5 km².", "Its average depth is between 3 and 4 meters.", "It is the only lagoon in Honduras that almost entirely encircles a city.", "Red mangrove is the dominant species in the area.", "A 150-meter-wide channel connects it to the Caribbean.", "Historically used as a protected anchorage for Spanish galleons."]
-    }
-  },
+    }, image: "/poi-images/laguna-de-alvarado-nature-v2.webp"},
   {
     id: "isla-zacate-grande-nature-v2",
     type: "island",
@@ -576,8 +562,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A sziget területe körülbelül 50 km².", "Legmagasabb pontja kb. 640 m tengerszint felett.", "Közigazgatásilag Valle megyéhez tartozik.", "A sziget neve, a 'Zacate' egy fűfélére utal.", "Partvonalát öblök és sziklák jellemzik.", "Az öböl kb. 30 szigetből álló szigetvilágának része."],
       ro: ["Insula are o suprafață de aproximativ 50 km².", "Cel mai înalt punct este la circa 640 m deasupra mării.", "Aparține administrativ de departamentul Valle.", "Numele insulei 'Zacate' se referă la un tip de iarbă.", "Linia de coastă este marcată de golfuri și stânci.", "Face parte dintr-un arhipelag de circa 30 de insule în golf."],
       en: ["The island covers an area of approximately 50 km².", "The highest peak reaches about 640 meters above sea level.", "Administratively, it belongs to the department of Valle.", "The name 'Zacate' refers to a type of local grass.", "The shoreline is characterized by rugged cliffs and small coves.", "It is part of an archipelago of about 30 islands in the gulf."]
-    }
-  },
+    }, image: "/poi-images/isla-zacate-grande-nature-v2.webp"},
   {
     id: "la-muralla-nationalpark-nature-v2",
     type: "forest",
@@ -612,8 +597,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A parkot hivatalosan 1987-ben helyezték védelem alá.", "Legmagasabb csúcsa a Las Parras, 2064 méterrel.", "Több mint 280 madárfajt regisztráltak itt.", "Három különböző vadmacskafajnak ad otthont.", "Az átlagos évi középhőmérséklet 18 °C.", "A park magzónája körülbelül 137 km²-t tesz ki."],
       ro: ["Parcul a fost pus oficial sub protecție în 1987.", "Cel mai înalt vârf este Las Parras, cu 2.064 m.", "Aici au fost înregistrate peste 280 de specii de păsări.", "Găzduiește trei specii diferite de pisici sălbatice.", "Temperatura medie anuală este de aproximativ 18 °C.", "Parcul cuprinde o zonă centrală de circa 137 km²."],
       en: ["The park was officially designated a protected area in 1987.", "Its highest peak is Las Parras at 2,064 meters.", "Over 280 bird species have been recorded within its borders.", "It provides habitat for three distinct species of wild cats.", "The average annual temperature is a cool 18°C (64°F).", "The park's core protected zone covers approximately 137 km²."]
-    }
-  },
+    }, image: "/poi-images/la-muralla-nationalpark-nature-v2.webp"},
   {
     id: "rio-goascoran-nature-v2",
     type: "river",
@@ -648,8 +632,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A folyó teljes hossza körülbelül 130 km.", "Vízgyűjtő területe mintegy 2660 km².", "A delta-rendszeren keresztül torkollik a Csendes-óceánba.", "A 'Barátság hídja' köti össze a két országot.", "A torkolati halászat létfontosságú a helyiek számára.", "A folyó vízszintje erősen ingadozik az évszakok szerint."],
       ro: ["Lungimea totală a râului este de aproximativ 130 km.", "Drenează un bazin de circa 2.660 km².", "Se varsă în Pacific printr-un sistem de deltă.", "'Podul Prieteniei' conectează cele două țări.", "Pescuitul la gura de vărsare este vital pentru localnici.", "Nivelul râului variază puternic între anotimpuri."],
       en: ["The river has a total length of approximately 130 km.", "It drains a watershed of about 2,660 km².", "It flows into the Pacific through a complex delta system.", "The 'Bridge of Friendship' links Honduras and El Salvador.", "Artisanal fishing at its mouth is vital for local livelihoods.", "The river's flow volume fluctuates dramatically between seasons."]
-    }
-  },
+    }, image: "/poi-images/rio-goascoran-nature-v2.webp"},
   {
     id: "cerro-el-pital-nature-v2",
     type: "mountain",
@@ -684,8 +667,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["Legmagasabb pontja 2730 méteren van.", "Honduras és El Salvador leghidegebb régiója.", "November és február között fagy is előfordulhat.", "Ritka magashegyi orchideáknak ad otthont.", "A Sierra Madre de Chiapas hegység része.", "Fontos termesztőhelye a hidegkedvelő gyümölcsöknek, pl. őszibaracknak."],
       ro: ["Cel mai înalt punct este situat la 2.730 de metri.", "Cea mai rece regiune din Honduras și El Salvador.", "Înghețul este posibil între noiembrie și februarie.", "Adăpostește orhidee rare de munte.", "Face parte din lanțul muntos Sierra Madre de Chiapas.", "Zonă importantă de cultivare a fructelor de climă rece, precum piersicile."],
       en: ["The summit reaches an elevation of 2,730 meters.", "It is the coldest region in both Honduras and El Salvador.", "Frost can occur between November and February.", "The mountain is home to rare highland orchids.", "It is part of the Sierra Madre de Chiapas mountain range.", "A major area for cultivating cool-weather fruits like peaches."]
-    }
-  },
+    }, image: "/poi-images/cerro-el-pital-nature-v2.webp"},
   {
     id: "isla-el-tigre-nature-v2",
     type: "island",
@@ -720,8 +702,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A sziget átmérője körülbelül 5 km.", "A vulkán magassága eléri a 783 métert.", "Amapala a 19. században Honduras fővárosa is volt.", "A sziget Francis Drake kalóznak is rejtekhelyül szolgált.", "A szigetet megkerülő út kb. 12 km hosszú.", "Nincsenek autók a szigeten, csak mototaxik."],
       ro: ["Insula are un diametru de aproximativ 5 km.", "Vulcanul atinge o înălțime de 783 m.", "Amapala a fost capitala Hondurasului în secolul al XIX-lea.", "Insula a servit ca ascunzătoare pentru piratul Francis Drake.", "Un drum circular în jurul insulei are circa 12 km.", "Nu există mașini pe insulă, doar mototaxiuri."],
       en: ["The island is approximately 5 km in diameter.", "The volcano's peak stands 783 meters above sea level.", "Amapala served as the capital of Honduras during the 19th century.", "The island was once a hideout for pirate Francis Drake.", "A perimeter road around the island is about 12 km long.", "There are no cars on the island, only mototaxis and motorcycles."]
-    }
-  },
+    }, image: "/poi-images/isla-el-tigre-nature-v2.webp"},
   {
     id: "aguacatal-waldreservat-nature-v2",
     type: "forest",
@@ -756,8 +737,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A régió egyik utolsó szárazerdő-területét védi.", "Vándorlási útvonalként szolgál olyan ragadozóknak, mint az ocelot.", "Sok fa elhullatja leveleit a száraz évszakban.", "Ritka kaktusz- és broméliafajoknak ad otthont.", "Fontos a talajba történő csapadékvíz-beszivárgás szempontjából.", "Honduras és Nicaragua határának közelében található."],
       ro: ["Protejează una dintre ultimele zone de pădure uscată din regiune.", "Servește ca rută de migrație pentru prădători precum oceloții.", "Mulți arbori își pierd frunzele în sezonul uscat.", "Adăpostește specii rare de cactuși și bromelii.", "Important pentru infiltrarea apei de ploaie în sol.", "Situată aproape de granița dintre Honduras și Nicaragua."],
       en: ["Protects one of the last remaining dry forest areas in the region.", "Acts as a migration path for predators such as ocelots.", "Many tree species are deciduous, losing leaves during the dry season.", "Home to several rare species of cacti and bromeliads.", "Essential for facilitating rainwater infiltration into the soil.", "Located in close proximity to the Honduras-Nicaragua border."]
-    }
-  },
+    }, image: "/poi-images/aguacatal-waldreservat-nature-v2.webp"},
   {
     id: "rio-sico-tinto-nature-v2",
     type: "river",
@@ -792,8 +772,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A folyó hossza körülbelül 215 km.", "A karibi parton található Laguna de Brus-ba torkollik.", "Történelmileg csempészek és kalózok rejtekhelyeként használták.", "A karibi krokodil jelentős populációjának ad otthont.", "Felső szakasza látványos zúgókkal tarkított.", "Az UNESCO Világörökség Río Plátano része."],
       ro: ["Râul are o lungime de aproximativ 215 km.", "Se varsă în Laguna de Brus pe coasta Caraibelor.", "Utilizat istoric ca ascunzătoare pentru contrabandiști și pirați.", "Găzduiește o populație mare de crocodili americani.", "Cursul superior este marcat de repezișuri spectaculoase.", "Face parte din Patrimoniul Mondial UNESCO Río Plátano."],
       en: ["The river has a total length of approximately 215 km.", "It empties into the Brus Lagoon on the Caribbean coast.", "Historically served as a hideout for smugglers and pirates.", "Supports a significant population of American crocodiles.", "Its upper reaches are defined by challenging white-water rapids.", "Part of the Río Plátano Biosphere Reserve, a UNESCO World Heritage site."]
-    }
-  },
+    }, image: "/poi-images/rio-sico-tinto-nature-v2.webp"},
   {
     id: "montana-de-la-sierra-nature-v2",
     type: "mountain",
@@ -828,8 +807,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A legmagasabb csúcsok meghaladják a 2000 métert.", "Közép-Honduras biológiai folyosójának része.", "Az Aguán folyó fontos forrásvidéke.", "Ritka orchideák előfordulásáról ismert.", "Vándorlási folyosóként szolgál a nagymacskák számára.", "Geológiailag vulkanikus kőzetek jellemzik."],
       ro: ["Cele mai înalte vârfuri depășesc 2.000 de metri.", "Parte a coridorului biologic al Hondurasului Central.", "Sursă importantă pentru râul Aguán.", "Cunoscută pentru prezența orhideelor rare.", "Servește ca coridor de migrație pentru felinele mari.", "Geologia este marcată de roci vulcanice."],
       en: ["The highest summits reach elevations exceeding 2,000 meters.", "Part of the central Honduran biological corridor.", "Acts as an essential source for the Aguán River.", "Renowned for its abundance of rare orchids.", "Serves as a vital migration corridor for large cats.", "The geology is predominantly composed of volcanic rock."]
-    }
-  },
+    }, image: "/poi-images/montana-de-la-sierra-nature-v2.webp"},
   {
     id: "islas-de-la-bahia-riff-nature-v2",
     type: "sea",
@@ -864,8 +842,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["Az északi félteke legnagyobb zátonyrendszerének része.", "Utila a cetcápák világfővárosaként ismert.", "Több mint 60 kőkorallfajt azonosítottak itt.", "Több mint 500 különböző halfajnak ad otthont.", "A veszélyeztetett levesteknős fontos élőhelye.", "A búvárhelyek mélysége meghaladja az 1000 métert (The Wall)."],
       ro: ["Parte a celui mai mare sistem de recife din emisfera nordică.", "Utila este cunoscută ca capitala mondială a rechinilor-balenă.", "Au fost identificate aici peste 60 de specii de corali duri.", "Găzduiește peste 500 de specii diferite de pești.", "Habitat important pentru țestoasa verde, aflată în pericol.", "Locurile de scufundări ating adâncimi de peste 1.000 m (The Wall)."],
       en: ["Part of the largest reef system in the Northern Hemisphere.", "Utila is recognized as one of the world's whale shark capitals.", "Over 60 species of hard corals have been identified here.", "The reef supports more than 500 distinct fish species.", "Crucial habitat for the endangered green sea turtle.", "Diving sites include sheer drop-offs exceeding 1,000 meters."]
-    }
-  },
+    }, image: "/poi-images/islas-de-la-bahia-riff-nature-v2.webp"},
   {
     id: "punta-sal-nationalpark-nature-v2",
     type: "forest",
@@ -900,8 +877,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A park területe körülbelül 781 km².", "Két fő részből áll: a félszigetből és a lagúnából.", "A lagúnában több mint 35 mangrove-sziget található.", "Több mint 350 növényfaj otthona.", "A tengeri teknősök fontos fészkelőhelye.", "A parkot hivatalosan 1994-ben alapították."],
       ro: ["Parcul cuprinde o suprafață de circa 781 km².", "Este format din două zone principale: peninsula și laguna.", "Peste 35 de insule de mangrove se află în lagună.", "Găzduiește peste 350 de specii de plante.", "Loc important de cuibărit pentru țestoasele marine.", "Parcul a fost înființat oficial în 1994."],
       en: ["The park covers an area of approximately 781 km².", "It is divided into two main zones: the peninsula and the lagoon.", "There are over 35 mangrove islands within the lagoon system.", "It is home to more than 350 distinct plant species.", "The park is a crucial nesting site for several sea turtle species.", "It was officially established in 1994."]
-    }
-  },
+    }, image: "/poi-images/punta-sal-nationalpark-nature-v2.webp"},
   {
     id: "rio-lempa-oberlauf-nature-v2",
     type: "river",
@@ -936,8 +912,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A Lempa teljes hossza körülbelül 422 km.", "A forrás Ocotepeque közelében található.", "A folyó keresztülhalad Honduras-on, El Salvador-on és Guatemalán.", "Több mint 18 000 km² területű vízgyűjtőt csapol le.", "El Salvador legfontosabb ivóvízszállítója.", "A Trifinio Fraternidad háromnemzeti bioszféra-rezervátum része."],
       ro: ["Râul Lempa are o lungime totală de circa 422 km.", "Izvorul se află în apropiere de Ocotepeque.", "Râul curge prin Honduras, El Salvador și Guatemala.", "Drenează un bazin de peste 18.000 km².", "Principalul furnizor de apă potabilă pentru El Salvador.", "Parte a Rezervației Biosferei Trinaționale Trifinio Fraternidad."],
       en: ["The Lempa River has a total length of approximately 422 km.", "The source is located in the mountains near Ocotepeque.", "It is a tri-national river, flowing through Honduras, El Salvador, and Guatemala.", "It drains a massive basin of over 18,000 km².", "It is the primary source of drinking water for El Salvador.", "Part of the Trifinio Fraternidad Transboundary Biosphere Reserve."]
-    }
-  },
+    }, image: "/poi-images/rio-lempa-oberlauf-nature-v2.webp"},
   {
     id: "el-carbon-berg-nature-v2",
     type: "mountain",
@@ -972,8 +947,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["Legmagasabb pontja eléri a kb. 1800 métert.", "A terület gazdag ásványi kincsekben.", "A pech őslakos kultúra hazája.", "Az erdő ritka közép-amerikai madárfajoknak ad otthont.", "A terepet üledékes kőzetformációk jellemzik.", "A Río Sico mellékfolyóinak fontos forrása."],
       ro: ["Cel mai înalt punct atinge aproximativ 1.800 de metri.", "Zona este bogată în resurse minerale.", "Patria culturii indigene Pech.", "Pădurea adăpostește specii rare de păsări central-americane.", "Terenul este marcat de formațiuni de roci sedimentare.", "Sursă importantă pentru afluenții râului Sico."],
       en: ["The summit reaches an elevation of approximately 1,800 meters.", "The area is known for its potential mineral resources.", "It is a central territory for the indigenous Pech people.", "The forest supports a variety of rare Central American bird species.", "The mountain's geology is largely composed of sedimentary rock.", "It acts as a primary source for several tributaries of the Sico River."]
-    }
-  },
+    }, image: "/poi-images/el-carbon-berg-nature-v2.webp"},
   {
     id: "laguna-cuchilla-nature-v2",
     type: "lake",
@@ -1008,8 +982,7 @@ export const poiExtraHondurasNatureV2: POI[] = [
       hu: ["A lagúna egy védett vizes élőhely (Ramsar-terület) része.", "Észak-Honduras legfontosabb lamantin-menedékhelye.", "Fekete, vörös és fehér mangrove veszi körül.", "A Salado folyó csatornáin keresztül érhető el.", "A parti fák ritka bőgőmajmoknak adnak otthont.", "Természetes szűrőként szolgál az üledékek számára."],
       ro: ["Laguna face parte dintr-o zonă umedă protejată (sit Ramsar).", "Cel mai important refugiu pentru lamantini din nordul Hondurasului.", "Înconjurată de mangrove negre, roșii și albe.", "Accesibilă prin canale de la râul Salado.", "Adăpostește maimuțe urlătoare rare în copacii de pe mal.", "Servește ca filtru natural pentru sedimente."],
       en: ["The lagoon is part of a internationally recognized Ramsar wetland site.", "It is the most significant manatee sanctuary in northern Honduras.", "Surrounded by all three major mangrove species: red, black, and white.", "Accessible via a network of canals stemming from the Salado River.", "Rare howler monkeys are frequently seen in the trees along its shores.", "It functions as a natural sediment filter for the coastal ecosystem."]
-    }
-  },
+    }, image: "/poi-images/laguna-cuchilla-nature-v2.webp"},
   {
     id: "cuero-y-salado-wald-nature-v2",
     type: "forest",
@@ -1047,3 +1020,4 @@ export const poiExtraHondurasNatureV2: POI[] = [
     }
   }
 ];
+

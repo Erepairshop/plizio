@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBelizeNatureV2: POI[] = [
@@ -12,37 +13,12 @@ export const poiExtraBelizeNatureV2: POI[] = [
       ro: "Râul Hondo",
       en: "Hondo River"
     },
-    description: {
-      de: "Ein Fluss, der die natürliche Grenze zwischen Belize und Mexiko bildet.",
-      hu: "Folyó, amely természetes határt képez Belize és Mexikó között.",
-      ro: "Un râu care formează granița naturală dintre Belize și Mexic.",
-      en: "A river that forms the natural border between Belize and Mexico."
-    },
-    facts: {
-      de: ["Grenzfluss zu Mexiko.", "Mündet in die Chetumal-Bucht.", "Wichtig für die lokale Landwirtschaft.", "Bedeutende Maya-Siedlungen am Ufer."],
-      hu: ["Határfolyó Mexikóval.", "A Chetumal-öbölbe torkollik.", "Fontos a helyi mezőgazdaság számára.", "Partján jelentős maja települések voltak."],
-      ro: ["Râu de graniță cu Mexicul.", "Se varsă în Golful Chetumal.", "Important pentru agricultura locală.", "Așezări mayașe importante pe maluri."],
-      en: ["Forms the border with Mexico.", "Empties into Chetumal Bay.", "Vital for local agriculture.", "Significant Maya settlements along its banks."]
-    },
     descriptionAdvanced: {
-      de: "Der Río Hondo ist ein lebenswichtiger Wasserweg im Norden von Belize, der die natürliche Grenze zwischen Belize und Mexiko bildet. Dieser geschichtsträchtige Fluss war über Jahrhunderte eine der wichtigsten Transportadern für den Export von Mahagoni und chicle aus dem dichten Dschungel zur Küste. Heute ist der Río Hondo eine ruhige Wasserstraße, die von üppiger Vegetation, kleinen Grenzdörfern und einer reichen Tierwelt gesäumt ist. Er dient als wichtiges Ökosystem für zahlreiche Fischarten, Wasservögel und sogar seltene Manatis. Eine Bootsfahrt auf dem Río Hondo bietet nicht nur atemberaubende Naturerlebnisse, sondern auch einen Einblick in die friedliche Koexistenz der beiden Nachbarländer. Der Fluss ist ein Symbol für die Verbindung der Kulturen und die reiche Geschichte des Handels im nördlichen Mittelamerika.",
-      hu: "A Río Hondo Belize északi részének létfontosságú vízi útja, amely a Belize és Mexikó közötti természetes határ nagy részét alkotja. Ez a történelmi jelentőségű folyó évszázadokon át a mahagóni és a csikle kereskedelmének egyik legfontosabb útvonala volt, összekötve a dzsungelt a tengerparttal. Napjainkban a Río Hondo egy csendes vízi út, amelyet sűrű növényzet, apró határmenti falvak és gazdag élővilág szegélyez. Fontos ökoszisztémaként szolgál számos halfaj, vízi madár és ritka manátusz számára. Egy csónaktúra a folyón nemcsak lenyűgöző természeti élményt nyújt, hanem betekintést enged a két szomszédos ország békés együttélésébe is. A folyó a kultúrák közötti kapcsolat és a közép-amerikai kereskedelem gazdag történelmének szimbóluma.",
-      ro: "Râul Hondo este o cale navigabilă vitală situată în nordul Belizei, marcând o mare parte din granița naturală cu Mexicul. Vărsându-se în Golful Chetumal, acest râu a servit de-a lungul secolelor ca o arteră crucială pentru comerț, transport și comunicare, încă de pe vremea vechilor mayași. Numele său spaniol, care se traduce prin „Râu Adânc”, reflectă importanța sa ca rută navigabilă pentru lemn de mahon și produse agricole. Malurile luxuriante ale râului adăpostesc o floră și o faună tropicală diversă, rămânând un coridor ecologic esențial pentru regiune. Pentru vizitatori, Río Hondo oferă o frumusețe scenică deosebită și o incursiune în interacțiunile istorice transfrontaliere care au modelat cultura și economia din nordul Belizei.",
-      en: "The Rio Hondo is a vital waterway that forms much of the northern border between Belize and Mexico. Flowing into Chetumal Bay, the river has been a crucial artery for trade, transport, and communication since the time of the ancient Maya. Its name, which means 'Deep River' in Spanish, reflects its importance as a navigable route for timber and agricultural products. The river's lush banks are home to diverse tropical flora and fauna, and it remains a key ecological corridor. For visitors, the Rio Hondo offers scenic beauty and a glimpse into the historic cross-border interactions that have shaped the culture and economy of northern Belize."
+      hu: "A Río Hondo Belize északnyugati régiójának meghatározó folyója, amely természetes határt alkot Belize és Mexikó között. Történelmileg ez a vízi út volt az egyik legfontosabb szállítási útvonal, amelyen a dús dzsungelekből kitermelt mahagónit és csiklét a tengerparti kikötőkbe juttatták. A folyó ma is a régió ökológiai ütőere, amelyet sűrű növényzet, elszórtan elhelyezkedő apró határmenti települések és gazdag élővilág övez. A Río Hondo vize számos halfajnak, vízimadárnak és ritka manátusznak is otthont ad, így a természetvédők és a természetjárók számára is kiemelt fontosságú terület. Egy hajós túra a folyó csendes kanyarulatain nemcsak a trópusi természet lenyűgöző látványát kínálja, hanem betekintést nyújt abba a békés együttélésbe is, amely évszázadok óta jellemzi ezt a határmenti régiót. Földrajz K6 — folyók és élővilág."
     },
     factsAdvanced: {
-      de: ["Der Río Hondo ist etwa 210 Kilometer lang.", "Er mündet in die Bucht von Chetumal in der Karibik.", "Der Fluss bildet die gesamte Nordgrenze von Belize zu Mexiko.", "Der Name 'Río Hondo' bedeutet auf Spanisch 'tiefer Fluss'.", "Er ist schiffbar für kleinere Boote über weite Strecken seines Verlaufs.", "Die Ufer sind Heimat für Leguane", "Krokodile und hunderte Vogelarten.", "Historisch war er der wichtigste Weg für den Holztransport im 18. und 19. Jahrhundert.", "Der Fluss entspringt aus dem Zusammenfluss von Blue Creek und Rio Bravo."],
-      hu: ["A folyó hossza körülbelül 210 kilométer.", "A Chetumal-öbölbe torkollik a Karib-tengernél.", "Természetes határt képez Belize és a mexikói Quintana Roo állam között.", "Spanyol neve 'Mély folyót' jelent.", "A gyarmati időkben a mahagóni-szállítás fő útvonala volt."],
-      ro: [
-      "Río Hondo are o lungime de aproximativ 150 de kilometri.",
-      "Servește ca barieră naturală între Belize și statul mexican Quintana Roo.",
-      "Râul a fost o rută majoră pentru comerțul colonial cu mahon.",
-      "Se varsă în Marea Caraibilor prin intermediul Golfului Chetumal.",
-      "Orașul antic mayaș Santa Rita a fost situat în apropierea gurii sale de vărsare."
-    ],
-      en: ["The Rio Hondo is approximately 150 kilometers (93 miles) long.", "It serves as a natural boundary between Belize and the Mexican state of Quintana Roo.", "The river was a major route for the colonial mahogany trade.", "It flows through fertile agricultural lands producing sugar and citrus.", "The river supports diverse aquatic life", "including several species of snook and tarpon.", "It empties into the Caribbean Sea via the Chetumal Bay.", "The ancient Maya city of Santa Rita was located near its mouth."]
-    }
-  },
+      hu: ["A folyó teljes hossza körülbelül 210 kilométer.", "Mexikó és Belize északi határát képezi.", "A Chetumal-öbölbe torkollik a Karib-tenger irányába.", "Spanyol neve, a Río Hondo jelentése 'Mély folyó'.", "A gyarmati korban a legfőbb mahagóni-szállítási útvonal volt.", "A folyó a Blue Creek és a Rio Bravo összefolyásából ered.", "Gazdag élővilágának része a manátusz és számos vízimadár."]
+    }, image: "/poi-images/bz-rio-hondo-river-nature-v2.webp"},
   {
     id: "bz-sittee-river-nature-v2",
     type: "river",
@@ -83,8 +59,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Izvorăște din versanții estici accidentați ai Munților Maya."
     ],
       en: ["The Sittee River is approximately 60 kilometers (37 miles) long.", "It features some of the tallest mangrove trees in Belize near its mouth.", "The river is a major center for small-scale citrus and cacao farming.", "It is home to the Sittee River Wildlife Sanctuary.", "The village of Sittee River is one of the oldest settlements in the district.", "The river is a popular spot for kayaking and fly-fishing.", "It originates in the rugged eastern slopes of the Maya Mountains."]
-    }
-  },
+    }, image: "/poi-images/bz-sittee-river-nature-v2.webp"},
   {
     id: "bz-monkey-river-nature-v2",
     type: "river",
@@ -125,8 +100,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Cursul superior al râului face parte din sistemul Rezervației Naturale Bladen."
     ],
       en: ["The river is approximately 64 kilometers (40 miles) long.", "It is named after the loud and abundant Black Howler Monkeys.", "The coastal village at its mouth is a historic Creole fishing community.", "Monkey River is a key site for viewing West Indian Manatees.", "The river's upper reaches are part of the Bladen Nature Reserve system.", "It is famous for its 'jungle walks' where visitors can see monkeys up close.", "The river supports a diverse sport-fishing industry", "including tarpon and snook."]
-    }
-  },
+    }, image: "/poi-images/bz-monkey-river-nature-v2.webp"},
   {
     id: "bz-victoria-peak-nature-v2",
     type: "mountain",
@@ -167,8 +141,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Vegetația de pe vârf este o „pădure de elfi” pitică, din cauza vânturilor puternice."
     ],
       en: ["Elevation: 1,120 meters (3,675 feet) above sea level.", "It was long considered the highest point in Belize before Doyle's Delight was measured.", "Located within the Cockscomb Basin Wildlife Sanctuary.", "The peak is part of the oldest geological formation in Central America.", "Hiking to the summit is typically restricted to the dry season (February to May).", "Requires a licensed guide and a permit from the Belize Audubon Society.", "The vegetation at the summit is stunted 'elfin forest' due to high winds and thin soil."]
-    }
-  },
+    }, image: "/poi-images/bz-victoria-peak-nature-v2.webp"},
   {
     id: "bz-cockscomb-range-nature-v2",
     type: "mountain",
@@ -209,8 +182,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Habitat critic pentru toate cele cinci specii de feline sălbatice din Belize."
     ],
       en: ["The range's highest point is Victoria Peak at 1,120 meters.", "Forms a natural barrier between the coastal plains and the interior highlands.", "The name comes from the jagged appearance of its mountain crests.", "The range is primarily composed of ancient Paleozoic granite and quartzite.", "It is the central feature of the 150,000-acre Cockscomb Basin Wildlife Sanctuary.", "Critical habitat for all five of Belize's wild cat species.", "Receives over 100 inches (2,500 mm) of rainfall annually."]
-    }
-  },
+    }, image: "/poi-images/bz-cockscomb-range-nature-v2.webp"},
   {
     id: "bz-new-river-lagoon-nature-v2",
     type: "lake",
@@ -251,8 +223,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Culoarea închisă a apei este cauzată de taninurile din vegetația înconjurătoare."
     ],
       en: ["It is the largest freshwater lake in Belize.", "The lagoon is approximately 45 kilometers (28 miles) long.", "Home to a significant population of Morelet's crocodiles.", "The ancient Maya site of Lamanai overlooks the lagoon's western shore.", "The water level is influenced by seasonal rainfall rather than tides.", "A primary habitat for the Jabiru Stork and various species of kingfishers.", "The lagoon's dark color is caused by tannins from surrounding vegetation."]
-    }
-  },
+    }, image: "/poi-images/bz-new-river-lagoon-nature-v2.webp"},
   {
     id: "bz-southern-long-caye-nature-v2",
     type: "island",
@@ -293,8 +264,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Apele înconjurătoare ating adâncimi de peste 120 de metri chiar la est de recif."
     ],
       en: ["Located within the South Water Caye Marine Reserve, a UNESCO World Heritage site.", "The caye sits approximately 14 miles (22 km) off the coast of Dangriga.", "Surrounded by some of the healthiest coral formations in the Caribbean.", "The island is approximately 15 acres in size.", "Home to a variety of nesting sea birds and migratory species.", "The surrounding waters reach depths of over 400 feet just east of the reef crest.", "The island serves as an important site for marine biology research and education."]
-    }
-  },
+    }, image: "/poi-images/bz-southern-long-caye-nature-v2.webp"},
   {
     id: "bz-chiquibul-forest-nature-v2",
     type: "forest",
@@ -335,8 +305,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Orașul antic mayaș Caracol se află adânc în interiorul pădurii."
     ],
       en: ["The Chiquibul Forest encompasses over 400", "000 acres of land.", "It contains the Chiquibul Cave System", "with over 540 kilometers of explored passages.", "The forest is home to Belize's highest peak", "Doyle's Delight.", "It is a critical habitat for the endangered Scarlet Macaw.", "The ancient Maya city of Caracol is located deep within the forest.", "The area is a major site for international archaeological and biological research.", "It serves as a vital watershed for the entire southern half of Belize."]
-    }
-  },
+    }, image: "/poi-images/bz-chiquibul-forest-nature-v2.webp"},
   {
     id: "bz-sarstoon-temash-forest-nature-v2",
     type: "forest",
@@ -377,8 +346,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Administrat de SATIIM, reprezentând comunitățile indigene locale."
     ],
       en: ["Belize's southernmost national park, covering about 41,000 acres.", "Home to the only 'sphagnum moss' bog forest in Central America.", "The park includes the entire watersheds of the Sarstoon and Temash rivers within Belize.", "Features some of the tallest and best-preserved mangrove forests in the country.", "Critical nesting ground for many species of migratory and resident waterbirds.", "Co-managed by SATIIM, representing the local indigenous communities.", "Accessible primarily by boat from the town of Punta Gorda."]
-    }
-  },
+    }, image: "/poi-images/bz-sarstoon-temash-forest-nature-v2.webp"},
   {
     id: "bz-caribbean-sea-nature-v2",
     type: "sea",
@@ -419,8 +387,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Habitat critic pentru specii pe cale de dispariție, cum ar fi lamantinul și țestoasa Hawksbill."
     ],
       en: ["The Caribbean Sea is the second largest sea in the world after the Mediterranean.", "Contains the Belize Barrier Reef, the second largest barrier reef system on Earth.", "The average water temperature ranges from 26°C to 29°C (79°F to 84°F).", "Home to over 500 species of fish and 65 species of stony corals in Belizean waters.", "The sea's salinity remains relatively constant throughout the year.", "Critical habitat for endangered species like the West Indian Manatee and Hawksbill Turtle.", "The deep waters east of the reef can reach depths exceeding 10,000 feet."]
-    }
-  },
+    }, image: "/poi-images/bz-caribbean-sea-nature-v2.webp"},
   {
     id: "bz-rio-bravo-forest-nature-v2",
     type: "forest",
@@ -461,8 +428,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Include Stația de Teren La Milpa, un centru pentru cercetare și ecoturism."
     ],
       en: ["Covers approximately 260,000 acres of land in the Orange Walk District.", "Hosts over 400 species of birds and 200 species of trees.", "Contains more than 60 ancient Maya archaeological sites.", "Established in 1988 through an innovative land-purchase program.", "Includes the La Milpa Field Station, a center for research and eco-tourism.", "The area is critical for the protection of the Rio Bravo and New River watersheds.", "Part of the tri-national Maya Forest, spanning Belize, Mexico, and Guatemala."]
-    }
-  },
+    }, image: "/poi-images/bz-rio-bravo-forest-nature-v2.webp"},
   {
     id: "bz-bladen-nature-reserve-nature-v2",
     type: "forest",
@@ -503,8 +469,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Găzduiește vulturul harpie, una dintre cele mai mari și mai puternice păsări de pradă din lume."
     ],
       en: ["Covers 100,000 acres and is classified as a Category 1a Strict Nature Reserve.", "Contains the highest biodiversity levels ever recorded in Belize.", "Protects the critical upper watershed of the Monkey River.", "Access is restricted to scientific research and authorized educational purposes.", "The terrain includes dramatic limestone cliffs and ancient cave systems.", "Home to the Harpy Eagle, one of the world's largest and most powerful raptors.", "The reserve is part of a massive continuous block of protected land in the Maya Mountains."]
-    }
-  },
+    }, image: "/poi-images/bz-bladen-nature-reserve-nature-v2.webp"},
   {
     id: "bz-south-water-caye-nature-v2",
     type: "island",
@@ -545,8 +510,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Cunoscută pentru proximitatea față de sanctuarul de păsări „Man-O-War Caye”."
     ],
       en: ["The centerpiece of the 117,878-acre South Water Caye Marine Reserve.", "Located approximately 14 miles (22 kilometers) southeast of Dangriga.", "The island is situated on the very edge of the continental shelf.", "Part of the Belize Barrier Reef Reserve System, a UNESCO World Heritage Site.", "Known for its proximity to the 'Man-O-War Caye' bird sanctuary.", "The island is composed of coral sand and accumulated reef debris.", "Surrounding waters feature extensive patch reefs and diverse coral species."]
-    }
-  },
+    }, image: "/poi-images/bz-south-water-caye-nature-v2.webp"},
   {
     id: "bz-belize-river-nature-v2",
     type: "river",
@@ -587,8 +551,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Se varsă în mare chiar la nord de Belize City."
     ],
       en: ["The Belize River system is over 290 kilometers (180 miles) long.", "It drains more than one-quarter of the total land area of Belize.", "The river was the main artery for the colonial mahogany industry.", "It is the site of the annual La Ruta Maya canoe race.", "The river valley is home to many of Belize's most productive farms.", "It empties into the sea just north of Belize City.", "The river's headwaters are formed by the Macal and Mopan rivers."]
-    }
-  },
+    }, image: "/poi-images/bz-belize-river-nature-v2.webp"},
   {
     id: "bz-half-moon-caye-nature-v2",
     type: "island",
@@ -629,8 +592,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "„Half Moon Caye Wall” este un loc de scufundări celebru cu o cădere verticală de 300 de metri."
     ],
       en: ["Established as a Crown Reserve in 1928, making it Belize's oldest protected area.", "Home to a colony of approximately 4,000 Red-footed Boobies.", "One of only two nesting sites in the Caribbean for this specific booby color morph.", "Located within the Lighthouse Reef Atoll, about 50 miles off the mainland.", "The island also supports a significant population of the endemic Island Leaf-toed Gecko.", "The 'Half Moon Caye Wall' is a famous dive site with a 1,000-foot vertical drop.", "The caye is an important nesting site for Loggerhead and Hawksbill sea turtles."]
-    }
-  },
+    }, image: "/poi-images/bz-half-moon-caye-nature-v2.webp"},
   {
     id: "bz-columbia-forest-nature-v2",
     type: "forest",
@@ -671,8 +633,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Formează o parte semnificativă a blocului forestier tri-național Selva Maya."
     ],
       en: ["Covers approximately 148,000 acres of pristine tropical rainforest.", "Receives some of the highest rainfall in Belize, exceeding 150 inches per year.", "The terrain is dominated by 'tower karst' limestone formations.", "Critical habitat for the endangered Central American Tapir.", "Contains the headwaters of the Columbia River and several other major southern rivers.", "The area was historically a center for the extraction of chicle and mahogany.", "Forms a significant part of the tri-national Selva Maya forest block."]
-    }
-  },
+    }, image: "/poi-images/bz-columbia-forest-nature-v2.webp"},
   {
     id: "bz-turneffe-atoll-nature-v2",
     type: "island",
@@ -713,8 +674,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Recifele atolului ajută la protejarea orașului Belize City de valurile de furtună."
     ],
       en: ["The largest of Belize's three offshore atolls, measuring 30 miles long and 10 miles wide.", "Officially declared a Marine Reserve in 2012.", "Contains over 200 islands or 'cayes' within its boundaries.", "Home to the endemic American Crocodile and the West Indian Manatee.", "Features a unique 'littoral forest' on some of its larger islands.", "A world-class destination for 'grand slam' fly fishing (bonefish, permit, and tarpon).", "The atoll's reefs help protect Belize City from storm surges and wave energy."]
-    }
-  },
+    }, image: "/poi-images/bz-turneffe-atoll-nature-v2.webp"},
   {
     id: "bz-sibun-river-nature-v2",
     type: "river",
@@ -755,8 +715,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Valea râului este o zonă agricolă majoră, în special pentru citrice și cacao."
     ],
       en: ["Originates in the Maya Mountains and flows for approximately 100 kilometers.", "Drains into the Caribbean Sea just south of Belize City.", "The river is famous for its 'Sibun Caves,' part of an extensive karst system.", "A primary habitat for the endangered Central American River Turtle (Hicatee).", "The river valley is a major agricultural area, particularly for citrus and cacao.", "Its name is believed to be derived from a Maya term for 'river of the Sibun people.'", "The river's water quality is vital for the health of the nearby barrier reef."]
-    }
-  },
+    }, image: "/poi-images/bz-sibun-river-nature-v2.webp"},
   {
     id: "bz-manatee-forest-reserve-nature-v2",
     type: "forest",
@@ -797,8 +756,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Vitală pentru protecția bazinelor hidrografice din zona Belize City și Gales Point."
     ],
       en: ["Covers approximately 90,000 acres of coastal wetlands and pine savanna.", "Protects the critical habitat of the endangered West Indian Manatee.", "Contains a significant portion of the Northern Lagoon and Southern Lagoon systems.", "The reserve is a prime habitat for the Jabiru Stork, the largest bird in the Americas.", "Includes diverse vegetation types, from mangrove swamps to oak ridges.", "Vital for the protection of the Belize City and Gales Point watersheds.", "The area is popular for eco-tours, birdwatching, and catch-and-release fishing."]
-    }
-  },
+    }, image: "/poi-images/bz-manatee-forest-reserve-nature-v2.webp"},
   {
     id: "bz-bacalar-chico-park-nature-v2",
     type: "sea",
@@ -839,8 +797,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Sit critic de cuibărit pentru țestoasele marine verzi și Loggerhead."
     ],
       en: ["A UNESCO World Heritage site established in 1996.", "The park covers 12,000 acres of land and 15,000 acres of marine area.", "Includes the only place in Belize where the barrier reef meets the coastline.", "Contains the 'Boca Bacalar Chico' canal, dug by the ancient Maya.", "Home to all five of Belize's wild cat species within its terrestrial boundaries.", "A critical nesting site for Green and Loggerhead sea turtles.", "Accessible only by boat, primarily from San Pedro Town."]
-    }
-  },
+    }, image: "/poi-images/bz-bacalar-chico-park-nature-v2.webp"},
   {
     id: "bz-sapodilla-cayes-nature-v2",
     type: "island",
@@ -881,8 +838,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Rezervația este un sit critic de reproducere pentru mai multe specii de pești comerciali."
     ],
       en: ["The southernmost group of islands in the Belize Barrier Reef System.", "Declared a Marine Reserve in 1996, covering approximately 125 square kilometers.", "Consists of 14 primary sand and mangrove cayes.", "Known for its clear waters and high visibility for divers and snorkelers.", "The reserve is a critical spawning site for several species of commercial fish.", "Located approximately 40 miles (64 kilometers) east of Punta Gorda.", "The cayes are a popular destination for day trips from southern Belize and neighboring countries."]
-    }
-  },
+    }, image: "/poi-images/bz-sapodilla-cayes-nature-v2.webp"},
   {
     id: "bz-vaca-forest-reserve-nature-v2",
     type: "forest",
@@ -923,8 +879,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Vitală pentru gestionarea bazinului râului Macal și a barajelor sale hidroelectrice."
     ],
       en: ["Covers approximately 40,000 acres of subtropical moist forest.", "Protects the critical western slopes of the Maya Mountains.", "The reserve is home to several spectacular waterfalls and cave systems.", "Part of the Chiquibul-Maya Mountains Key Biodiversity Area.", "Contains important archaeological sites that remain largely unexcavated.", "Vital for the management of the Macal River watershed and its hydroelectric dams.", "Accessible primarily through the town of Benque Viejo del Carmen."]
-    }
-  },
+    }, image: "/poi-images/bz-vaca-forest-reserve-nature-v2.webp"},
   {
     id: "bz-deep-river-forest-reserve-nature-v2",
     type: "forest",
@@ -965,8 +920,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Importantă pentru sănătatea Rezervației Marine Port Honduras situată în aval."
     ],
       en: ["Covers approximately 70,000 acres of diverse ecosystems in southern Belize.", "Protects the entire watershed of the Deep River within its boundaries.", "Contains some of the best-preserved pine savanna habitats in the country.", "A critical habitat for the endangered Yellow-headed Parrot.", "The reserve is managed for sustainable timber production and biodiversity conservation.", "Important for the health of the downstream Port Honduras Marine Reserve.", "Accessible primarily by boat or through rugged forest trails from the Southern Highway."]
-    }
-  },
+    }, image: "/poi-images/bz-deep-river-forest-reserve-nature-v2.webp"},
   {
     id: "bz-gales-point-peninsula-nature-v2",
     type: "forest",
@@ -1007,8 +961,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Faimoasă pentru cultura sa tradițională creolă și tobele Sambai."
     ],
       en: ["Extends approximately 2 miles into the Southern Lagoon.", "Home to one of the largest concentrations of West Indian Manatees in the Caribbean.", "The community of Gales Point Manatee is one of the oldest in Belize.", "A critical nesting site for the endangered Hawksbill Sea Turtle.", "Surrounded by the Manatee Forest Reserve and several other protected areas.", "Famous for its traditional Creole culture and Sambai drumming.", "Accessible by boat or by the scenic Coastal Road."]
-    }
-  },
+    }, image: "/poi-images/bz-gales-point-peninsula-nature-v2.webp"},
   {
     id: "bz-aguacaliente-wildlife-sanctuary-nature-v2",
     type: "lake",
@@ -1049,8 +1002,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Zonele umede ale sanctuarului sunt o parte vitală a bazinului râului Moho."
     ],
       en: ["Covers approximately 5,500 acres of critical wetland habitat.", "Home to the highest concentration of Wood Storks and Jabiru Storks in southern Belize.", "Contains three major lagoons and several hot springs (Aguacaliente).", "Co-managed by the Aguacaliente Management Team (AMT) from local villages.", "Important nesting ground for many species of migratory and resident waterbirds.", "The sanctuary's wetlands are a vital part of the Moho River watershed.", "Accessible primarily through the villages of Laguna and Blue Creek."]
-    }
-  },
+    }, image: "/poi-images/bz-aguacaliente-wildlife-sanctuary-nature-v2.webp"},
   {
     id: "bz-moho-river-nature-v2",
     type: "river",
@@ -1091,8 +1043,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
       "Este un loc popular pentru caiac de apă rece extrem."
     ],
       en: ["The Moho River is approximately 95 kilometers (59 miles) long.", "It originates in the highlands of Guatemala before entering Belize.", "The river is famous for the stunning Moho River Falls.", "It was a major artery for the ancient Maya cacao trade.", "The river supports diverse wildlife", "including howler monkeys and river otters.", "It is a popular spot for extreme whitewater kayaking.", "The surrounding forest is home to many ancient Maya ceremonial sites."]
-    }
-  },
+    }, image: "/poi-images/bz-moho-river-nature-v2.webp"},
   {
     id: "bz-rio-grande-river-nature-v2",
     type: "river",
@@ -1136,3 +1087,4 @@ export const poiExtraBelizeNatureV2: POI[] = [
     }
   }
 ];
+

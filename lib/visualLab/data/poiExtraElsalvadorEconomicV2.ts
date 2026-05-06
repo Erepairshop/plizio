@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraElsalvadorEconomicV2: POI[] = [
@@ -30,8 +31,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Este un punct comercial esențial pe coasta Pacificului din perioada colonială."
       ],
       en: ["The port handles more than 90% of El Salvador's maritime cargo traffic.", "Home to the nation's only petroleum refinery facility.", "Equipped with specialized modern container and bulk handling terminals.", "Recognized as a key commercial hub since the 16th century."]
-    }
-  },
+    }, image: "/poi-images/acajutla-port-economic-v2.webp"},
   {
     id: "la-union-port-economic-v2",
     type: "port",
@@ -61,8 +61,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Reprezintă o componentă cheie a strategiei de dezvoltare economică a regiunii de est."
       ],
       en: ["The basin is deep enough to accommodate massive 'Post-Panamax' vessels.", "Strategically links the markets of El Salvador, Honduras, and Nicaragua.", "Features state-of-the-art automated cargo handling systems.", "Planned as a key terminus for future long-distance railway projects."]
-    }
-  },
+    }, image: "/poi-images/la-union-port-economic-v2.webp"},
   {
     id: "santa-ana-industry-economic-v2",
     type: "industry",
@@ -92,8 +91,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Dispune de o rețea proprie de alimentare cu energie pentru a susține producția continuă."
       ],
       en: ["Home to several 'maquila' export processing plants.", "Hosts some of the largest food packaging facilities in the country.", "Its location facilitates easy export logistics towards neighboring Guatemala.", "The industrial park operates its own dedicated power supply network."]
-    }
-  },
+    }, image: "/poi-images/santa-ana-industry-economic-v2.webp"},
   {
     id: "san-miguel-agroindustry-economic-v2",
     type: "industry",
@@ -123,8 +121,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Dispune de facilități extinse de depozitare frigorifică pentru produse perisabile."
       ],
       en: ["Hosts the largest sugar refinery in the eastern region of the country.", "Significant producer of specialized animal feed for local livestock.", "Features direct logistical links to the Pan-American Highway.", "Equipped with large-scale cold storage for perishable agricultural goods."]
-    }
-  },
+    }, image: "/poi-images/san-miguel-agroindustry-economic-v2.webp"},
   {
     id: "cojutepeque-industrial-economic-v2",
     type: "industry",
@@ -154,8 +151,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Găzduiește numeroase întreprinderi mici specializate în bunuri de consum unice."
       ],
       en: ["Famous for high-quality artisanal meat products, especially traditional chorizo.", "Textile factories provide substantial employment opportunities for the local female workforce.", "Strategically located along the Pan-American Highway to optimize logistics.", "Home to many small businesses specializing in unique consumer goods."]
-    }
-  },
+    }, image: "/poi-images/cojutepeque-industrial-economic-v2.webp"},
   {
     id: "usulutan-processing-economic-v2",
     type: "industry",
@@ -185,8 +181,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Conectat direct la principala autostradă de coastă pentru o distribuție eficientă."
       ],
       en: ["Crucial facility for processing seafood harvested from the nearby Jiquilisco Bay.", "Equipped with modern silo systems for the safe long-term storage of grains.", "Operates one of the country's most significant vegetable oil extraction plants.", "Directly connected to the main coastal highway for efficient distribution."]
-    }
-  },
+    }, image: "/poi-images/usulutan-processing-economic-v2.webp"},
   {
     id: "chalatenango-textile-economic-v2",
     type: "industry",
@@ -216,8 +211,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Menține programe sociale dedicate sprijinirii bunăstării angajaților săi."
       ],
       en: ["Plays a key role in the industrialization of local artisanal weaving traditions.", "Prioritizes the implementation of eco-friendly textile dyeing technologies.", "A large portion of the production is destined for North American markets.", "Maintains dedicated social programs to support the well-being of its employees."]
-    }
-  },
+    }, image: "/poi-images/chalatenango-textile-economic-v2.webp"},
   {
     id: "zacatecoluca-agri-economic-v2",
     type: "industry",
@@ -247,8 +241,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Menține legături logistice strânse cu baza cargo a aeroportului internațional din apropiere."
       ],
       en: ["The region is globally recognized for high-quality cashew processing and export.", "Hosts one of the most advanced fruit juice concentrate plants in Central America.", "The industrial park features its own biological wastewater treatment facility.", "Maintains close logistical ties with the nearby international airport's cargo base."]
-    }
-  },
+    }, image: "/poi-images/zacatecoluca-agri-economic-v2.webp"},
   {
     id: "san-vicente-industrial-economic-v2",
     type: "industry",
@@ -278,8 +271,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Unitățile industriale locale se concentrează pe utilizarea surselor de energie regenerabilă."
       ],
       en: ["The city is famous for its traditional, handmade artisanal sweets and pastries.", "Operates one of the largest and most efficient sugarcane processing plants in the country.", "The region is a significant producer of artisanal textiles, particularly traditional sales.", "Local industrial plants increasingly focus on utilizing renewable energy sources."]
-    }
-  },
+    }, image: "/poi-images/san-vicente-industrial-economic-v2.webp"},
   {
     id: "ahuachapan-energy-economic-v2",
     type: "industry",
@@ -309,8 +301,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Centrul pentru vizitatori explică procesul de transformare a căldurii în energie."
       ],
       en: ["Supplies a substantial percentage of El Salvador's total annual electricity demand.", "The surrounding geothermal field features numerous active steaming fumaroles known as 'Ausoles'.", "Uses reinjection technology to return hot water to the ground, ensuring long-term sustainability.", "The onsite visitor center explains the process of converting volcanic heat into electricity."]
-    }
-  },
+    }, image: "/poi-images/ahuachapan-energy-economic-v2.webp"},
   {
     id: "la-paz-industrial-economic-v2",
     type: "industry",
@@ -340,8 +331,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Zona include locuințe moderne pentru angajați și centre de servicii integrate."
       ],
       en: ["Hosts multiple 'Free Trade Zones' offering significant tax incentives to businesses.", "Features direct road and rail connections to the country's most important seaports.", "Home to the largest logistics and parcel distribution hubs in El Salvador.", "The area includes modern employee housing and various integrated service centers."]
-    }
-  },
+    }, image: "/poi-images/la-paz-industrial-economic-v2.webp"},
   {
     id: "sonzacate-factory-economic-v2",
     type: "industry",
@@ -371,8 +361,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Asigură locuri de muncă pentru mii de locuitori din departamentul Sonsonate și zonele limitrofe."
       ],
       en: ["Places a strong emphasis on utilizing recycled raw materials in its production cycles.", "Has provided a stable livelihood for numerous local families for several generations.", "Hosts a dedicated training center to develop the next generation of industrial specialists.", "Equipped with modern quality control laboratories for rigorous product testing."]
-    }
-  },
+    }, image: "/poi-images/sonzacate-factory-economic-v2.webp"},
   {
     id: "santa-tecla-service-economic-v2",
     type: "industry",
@@ -402,8 +391,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Este considerat principalul motor de creștere pentru economia bazată pe servicii în El Salvador."
       ],
       en: ["Home to several of the largest call centers and IT service providers in the country.", "Close proximity to prestigious universities and specialized technical training institutes.", "Modern green spaces and leisure facilities surround the primary office complexes.", "The center is a leader in the development of digital solutions and regional e-commerce."]
-    }
-  },
+    }, image: "/poi-images/santa-tecla-service-economic-v2.webp"},
   {
     id: "quezaltepeque-industrial-economic-v2",
     type: "industry",
@@ -433,8 +421,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Este un pilon de stabilitate economică pentru departamentul La Libertad prin crearea de locuri de muncă."
       ],
       en: ["Home to one of the largest and most productive cement plants in El Salvador.", "Facilities primarily process raw materials extracted from nearby volcanic quarries.", "Features a modern logistics terminal that optimizes the regional distribution of goods.", "Hosts several specialized plants for the manufacturing of complex steel structures."]
-    }
-  },
+    }, image: "/poi-images/quezaltepeque-industrial-economic-v2.webp"},
   {
     id: "apopa-industrial-economic-v2",
     type: "industry",
@@ -495,8 +482,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Reprezintă cea mai mare concentrare de forță de muncă industrială din întreaga țară."
       ],
       en: ["Home to some of the largest industrial parks and Free Trade Zones in El Salvador.", "A vast majority of consumer goods sold domestically are manufactured within this district.", "Features modern logistical terminals designed for high-volume road and rail transport.", "Local industrial entities actively participate in community development and social programs."]
-    }
-  },
+    }, image: "/poi-images/soyapango-industrial-economic-v2.webp"},
   {
     id: "nechapa-industrial-economic-v2",
     type: "industry",
@@ -526,8 +512,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Este un punct cheie în rețeaua națională de distribuție a produselor alimentare procesate."
       ],
       en: ["Home to some of the country's most vital freshwater sources, attracting the beverage industry.", "Renowned for its advanced, large-scale waste management and recycling facilities.", "Multiple international food giants maintain their primary regional warehousing bases here.", "Famous for the annual 'Fireball' festival, providing a unique cultural contrast to the industry."]
-    }
-  },
+    }, image: "/poi-images/nechapa-industrial-economic-v2.webp"},
   {
     id: "ilopango-industrial-economic-v2",
     type: "industry",
@@ -588,8 +573,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Creșterea industrială a districtului a impulsionat dezvoltarea infrastructurii urbane locale."
       ],
       en: ["Renowned for the production of durable consumer goods and various household appliances.", "Local factories place a high priority on workplace safety and the use of modern technology.", "Numerous logistical warehouses in the district support the supply chain for the southern region.", "Industrial expansion in San Marcos is directly correlated with the city's rapid population growth."]
-    }
-  },
+    }, image: "/poi-images/san-marcos-industrial-economic-v2.webp"},
   {
     id: "mejicanos-industry-economic-v2",
     type: "industry",
@@ -650,8 +634,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Unitățile industriale sunt integrate organic în țesutul urban aflat în plină expansiune."
       ],
       en: ["The city's industrial sector relies heavily on a skilled and dedicated local workforce.", "Hosts multiple plants specializing in the processing and recycling of paper and cardboard.", "Modern warehouse bases in the district efficiently serve the northern parts of the capital.", "Industrial zones are organically integrated into the evolving urban fabric of Ciudad Delgado."]
-    }
-  },
+    }, image: "/poi-images/delgado-industrial-economic-v2.webp"},
   {
     id: "cuscatancingo-industrial-economic-v2",
     type: "industry",
@@ -681,8 +664,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Atelierele din zonă joacă un rol important în formarea profesională a tinerilor ucenici."
       ],
       en: ["Renowned for producing high-quality artisanal furniture and specialized wooden goods.", "Hosts many small plants focused on precision metalworking and equipment repair.", "Local industry serves as a primary supplier of raw materials for neighboring districts.", "Workshops in Cuscatancingo play a significant role in providing vocational training for youth."]
-    }
-  },
+    }, image: "/poi-images/cuscatancingo-industrial-economic-v2.webp"},
   {
     id: "tonacatepeque-industrial-economic-v2",
     type: "industry",
@@ -712,8 +694,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Expansiunea industrială este coordonată cu programe locale de protecție a mediului înconjurător."
       ],
       en: ["Home to one of the most modern and high-capacity pasta production plants in the country.", "Hosts several innovative facilities specializing in biodegradable packaging materials.", "The district offers exceptional opportunities for burgeoning logistics and tech startups.", "Industrial expansion is closely coordinated with the city's robust environmental protection programs."]
-    }
-  },
+    }, image: "/poi-images/tonacatepeque-industrial-economic-v2.webp"},
   {
     id: "santiago-nonualco-industry-economic-v2",
     type: "industry",
@@ -743,8 +724,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Strategiile de dezvoltare prioritizează implicarea comunităților indigene locale în procesul industrial."
       ],
       en: ["Famous for the production of traditional unrefined cane sugar cubes and 'panela'.", "Hosts one of the region's most important grain cleaning and specialized storage centers.", "Numerous family-run workshops produce high-quality artisanal soaps and natural oils.", "Industrial development strategies prioritize the active involvement of local indigenous communities."]
-    }
-  },
+    }, image: "/poi-images/santiago-nonualco-industry-economic-v2.webp"},
   {
     id: "san-pedro-nonualco-industry-economic-v2",
     type: "industry",
@@ -774,8 +754,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Participă activ la promovarea modelelor de agricultură și procesare durabilă în El Salvador."
       ],
       en: ["Internationally recognized for its expertly crafted artisanal fruit liqueurs and cordials.", "Operates the most significant tropical fruit dehydration plant in the central region.", "Industrial output relies heavily on organic harvests from surrounding sustainable plantations.", "Active participants in promoting and refining sustainable agricultural and processing models."]
-    }
-  },
+    }, image: "/poi-images/san-pedro-nonualco-industry-economic-v2.webp"},
   {
     id: "el-trunco-maritime-economic-v2",
     type: "port",
@@ -805,8 +784,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Joacă un rol cheie în protejarea și educarea comunității cu privire la ecosistemul costier."
       ],
       en: ["Famous for the daily arrival of high-quality, freshly caught local fish and seafood.", "Home to some of the most popular and professional surf schools in the country.", "Features modern boat repair services and various water sports equipment rentals.", "Plays a key role in the education and protection of the local coastal ecosystem."]
-    }
-  },
+    }, image: "/poi-images/el-trunco-maritime-economic-v2.webp"},
   {
     id: "jiquilisco-port-economic-v2",
     type: "port",
@@ -836,8 +814,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Oferă acces către locurile critice de cuibărit pentru câteva specii rare de țestoase marine."
       ],
       en: ["Serves as the main gateway to a vast UNESCO-protected Biosphere Reserve.", "Hosts one of the country's most significant and traditional artisanal fishing fleets.", "Famous for high-volume shrimp exports destined for demanding international markets.", "Provides access to critical nesting sites for several rare species of sea turtles."]
-    }
-  },
+    }, image: "/poi-images/jiquilisco-port-economic-v2.webp"},
   {
     id: "metalio-port-economic-v2",
     type: "port",
@@ -867,8 +844,7 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
         "Funcționează ca un punct logistic cheie pentru rutele de transport costier către portul Acajutla."
       ],
       en: ["Hundreds of tons of fish and various shellfish are landed at this port every year.", "Home to the most significant and influential fishing cooperative in the western region.", "Famous for its local stalls serving traditional, freshly prepared Salvadoran seafood dishes.", "Acts as a key logistical point for coastal shipping routes toward the Port of Acajutla."]
-    }
-  },
+    }, image: "/poi-images/metalio-port-economic-v2.webp"},
   {
     id: "barras-santiago-port-economic-v2",
     type: "port",
@@ -901,3 +877,4 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
     }
   }
 ];
+

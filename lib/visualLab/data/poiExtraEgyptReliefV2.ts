@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEgyptReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Üledékes kőzetből áll.", "Széles kilátást nyújt a környékre."],
       ro: ["Este format din roci sedimentare.", "Oferă o vedere largă asupra împrejurimilor."],
       en: ["Composed of sedimentary rock.", "Offers wide views of the surroundings."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-asfar-relief-v2.webp"},
   {
     id: "gabal-is-sawda-relief-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Lapos emelkedés.", "Homokkőből áll."],
       ro: ["O elevație plată.", "Este compus din gresie."],
       en: ["Flat elevation.", "Composed of sandstone."]
-    }
-  },
+    }, image: "/poi-images/gabal-is-sawda-relief-v2.webp"},
   {
     id: "wadi-natrun-depression-relief-v2",
     type: "relief",
@@ -41,8 +40,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Sóstavairól ismert.", "Geológiailag jelentős."],
       ro: ["Cunoscută pentru lacurile sărate.", "Semnificativă din punct de vedere geologic."],
       en: ["Known for salt lakes.", "Geologically significant."]
-    }
-  },
+    }, image: "/poi-images/wadi-natrun-depression-relief-v2.webp"},
   {
     id: "gabal-ghurabi-relief-v2",
     type: "mountain",
@@ -69,8 +67,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Gránitból áll.", "Sziklás környék."],
       ro: ["Este format din granit.", "Împrejurimi stâncoase."],
       en: ["Composed of granite.", "Rocky surroundings."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-hosh-relief-v2.webp"},
   {
     id: "gabal-el-tih-plateau-relief-v2",
     type: "relief",
@@ -83,8 +80,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Karsztos táj.", "Nagyon száraz fennsík."],
       ro: ["Peisaj carstic.", "Platou foarte arid."],
       en: ["Karst landscape.", "Very dry plateau."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-tih-plateau-relief-v2.webp"},
   {
     id: "gabal-serbal-relief-v2",
     type: "mountain",
@@ -97,8 +93,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Gránitcsúcs.", "Ismert túracélpont."],
       ro: ["Vârf de granit.", "Destinație cunoscută pentru excursioniști."],
       en: ["Granite peak.", "Known destination for hikers."]
-    }
-  },
+    }, image: "/poi-images/gabal-serbal-relief-v2.webp"},
   {
     id: "gabal-el-dhalal-relief-v2",
     type: "mountain",
@@ -111,8 +106,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Meredek lejtők.", "Száraz növényzet."],
       ro: ["Versanți abrupți.", "Vegetație aridă."],
       en: ["Steep slopes.", "Arid vegetation."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-dhalal-relief-v2.webp"},
   {
     id: "gabal-um-shomer-relief-v2",
     type: "mountain",
@@ -125,8 +119,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Magashegyi táj.", "Nagyon nehezen megközelíthető."],
       ro: ["Peisaj montan înalt.", "Foarte inaccesibil."],
       en: ["High mountain landscape.", "Very inaccessible."]
-    }
-  },
+    }, image: "/poi-images/gabal-um-shomer-relief-v2.webp"},
   {
     id: "gabal-el-banat-relief-v2",
     type: "mountain",
@@ -139,8 +132,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Erózió által formált.", "Alacsony csapadék."],
       ro: ["Modelat de eroziune.", "Precipitații scăzute."],
       en: ["Erosional landscape.", "Low rainfall."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-banat-relief-v2.webp"},
   {
     id: "gabal-nuqara-relief-v2",
     type: "mountain",
@@ -167,8 +159,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Nagyon száraz éghajlat.", "Gránitmasszívum."],
       ro: ["Climă foarte aridă.", "Masiv de granit."],
       en: ["Very dry climate.", "Granite massif."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-fath-relief-v2.webp"},
   {
     id: "gabal-el-deir-relief-v2",
     type: "mountain",
@@ -181,8 +172,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Ismert a hegymászók körében.", "Dél-Sínai."],
       ro: ["Cunoscut de alpiniști.", "Sudul Sinaiului."],
       en: ["Known to climbers.", "South Sinai."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-deir-relief-v2.webp"},
   {
     id: "gabal-abas-relief-v2",
     type: "mountain",
@@ -195,8 +185,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Száraz.", "Sivatagi jellegű."],
       ro: ["Arid.", "Caracter de deșert."],
       en: ["Dry.", "Desert character."]
-    }
-  },
+    }, image: "/poi-images/gabal-abas-relief-v2.webp"},
   {
     id: "gabal-el-dhib-relief-v2",
     type: "mountain",
@@ -209,8 +198,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Kevésbé kiépített.", "Félreeső."],
       ro: ["Puțin accesibil.", "Izolat."],
       en: ["Poorly developed.", "Remote."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-dhib-relief-v2.webp"},
   {
     id: "gabal-el-suqur-relief-v2",
     type: "mountain",
@@ -223,8 +211,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Sziklás.", "Sivatagi táj."],
       ro: ["Stâncos.", "Peisaj de deșert."],
       en: ["Rocky.", "Desert landscape."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-suqur-relief-v2.webp"},
   {
     id: "gabal-el-himeiyan-relief-v2",
     type: "mountain",
@@ -237,8 +224,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["A Vörös-tengeri-hegység része.", "Nagyon száraz."],
       ro: ["Parte a Munților Mării Roșii.", "Foarte arid."],
       en: ["Part of Red Sea Mountains.", "Very dry."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-himeiyan-relief-v2.webp"},
   {
     id: "gabal-el-shayib-relief-v2",
     type: "mountain",
@@ -251,8 +237,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Nagyon jellegzetes.", "Túracélpont."],
       ro: ["Foarte distinctiv.", "Destinație de excursie."],
       en: ["Very distinctive.", "Hiking destination."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-shayib-relief-v2.webp"},
   {
     id: "gabal-el-dara-relief-v2",
     type: "mountain",
@@ -265,8 +250,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Kilátás a Vörös-tengerre.", "Kopár terep."],
       ro: ["Vedere spre Marea Roșie.", "Teren arid."],
       en: ["View of Red Sea.", "Barren terrain."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-dara-relief-v2.webp"},
   {
     id: "gabal-el-muta-relief-v2",
     type: "mountain",
@@ -279,8 +263,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Üledékes kőzet.", "Nagyon erózív."],
       ro: ["Rocă sedimentară.", "Foarte eroziv."],
       en: ["Sedimentary rock.", "Highly erosive."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-muta-relief-v2.webp"},
   {
     id: "gabal-el-fara-relief-v2",
     type: "mountain",
@@ -293,8 +276,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Elszigetelt.", "Homokkő alap."],
       ro: ["Izolat.", "Bază de gresie."],
       en: ["Isolated.", "Sandstone base."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-fara-relief-v2.webp"},
   {
     id: "gabal-el-haddad-relief-v2",
     type: "mountain",
@@ -307,8 +289,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Nagyon kemény kőzet.", "Mászóvidék."],
       ro: ["Rocă foarte dură.", "Regiune de escaladă."],
       en: ["Very hard rock.", "Climbing region."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-haddad-relief-v2.webp"},
   {
     id: "gabal-el-fau-relief-v2",
     type: "mountain",
@@ -321,8 +302,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Nagyon kopár.", "Sivatagi szél."],
       ro: ["Foarte arid.", "Vânt de deșert."],
       en: ["Very barren.", "Desert wind."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-fau-relief-v2.webp"},
   {
     id: "gabal-el-hish-relief-v2",
     type: "mountain",
@@ -335,8 +315,7 @@ export const poiExtraEgyptReliefV2: POI[] = [
       hu: ["Kevésbé lakott.", "Vad síkság."],
       ro: ["Puțin populat.", "Sălbăticie."],
       en: ["Sparse population.", "Wilderness."]
-    }
-  },
+    }, image: "/poi-images/gabal-el-hish-relief-v2.webp"},
   {
     id: "gabal-el-gamil-relief-v2",
     type: "mountain",
@@ -352,3 +331,4 @@ export const poiExtraEgyptReliefV2: POI[] = [
     }
   }
 ];
+

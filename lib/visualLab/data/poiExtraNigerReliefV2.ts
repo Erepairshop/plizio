@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNigerReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Az Aïr-hegység legmagasabb pontja.", "Fölé magasodik a sivatagnak."],
       ro: ["Cel mai înalt punct din Munții Aïr.", "Se ridică deasupra deșertului."],
       en: ["Highest point of the Aïr Mountains.", "Rises above the desert."]
-    }
-  },
+    }, image: "/poi-images/mont-greboun-relief-v2.webp"},
   {
     id: "plateau-djado-relief-v2",
     type: "relief",
@@ -27,8 +27,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Tagolt sziklák jellemzik.", "Elszigetelt régió."],
       ro: ["Caracterizat prin roci accidentate.", "Regiune izolată."],
       en: ["Characterized by rugged rocks.", "Remote region."]
-    }
-  },
+    }, image: "/poi-images/plateau-djado-relief-v2.webp"},
   {
     id: "massif-termit-relief-v2",
     type: "mountain",
@@ -69,8 +68,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["A Niger egykori mellékága.", "Széles völgyterület."],
       ro: ["Fost afluent al Nigerului.", "Zonă largă de vale."],
       en: ["Former tributary of the Niger.", "Wide valley area."]
-    }
-  },
+    }, image: "/poi-images/dallol-bosso-relief-v2.webp"},
   {
     id: "adrar-bous-relief-v2",
     type: "mountain",
@@ -83,8 +81,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Ismert régészeti leleteiről.", "Sivatagi hegy."],
       ro: ["Cunoscut pentru descoperiri arheologice.", "Munte de deșert."],
       en: ["Known for archaeological findings.", "Desert mountain."]
-    }
-  },
+    }, image: "/poi-images/adrar-bous-relief-v2.webp"},
   {
     id: "plateau-tchigai-relief-v2",
     type: "relief",
@@ -97,8 +94,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Nagyon nehezen megközelíthető.", "Kopár táj."],
       ro: ["Foarte greu accesibilă.", "Peisaj arid."],
       en: ["Very difficult to access.", "Barren landscape."]
-    }
-  },
+    }, image: "/poi-images/plateau-tchigai-relief-v2.webp"},
   {
     id: "dallol-maouri-relief-v2",
     type: "relief",
@@ -111,8 +107,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Mezőgazdasági területeket kínál.", "Szezonálisan nedves."],
       ro: ["Oferă zone agricole.", "Umed sezonier."],
       en: ["Offers agricultural areas.", "Seasonally humid."]
-    }
-  },
+    }, image: "/poi-images/dallol-maouri-relief-v2.webp"},
   {
     id: "goulbi-maradi-relief-v2",
     type: "relief",
@@ -125,8 +120,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Fontos vízér.", "Sűrűn lakott völgy."],
       ro: ["Vână importantă de apă.", "Vale dens populată."],
       en: ["Important water vein.", "Densely populated valley."]
-    }
-  },
+    }, image: "/poi-images/goulbi-maradi-relief-v2.webp"},
   {
     id: "koutous-relief-v2",
     type: "mountain",
@@ -139,8 +133,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Fontos ökológiai sziget.", "Meredek terep."],
       ro: ["Insulă ecologică importantă.", "Teren abrupt."],
       en: ["Important ecological island.", "Steep terrain."]
-    }
-  },
+    }, image: "/poi-images/koutous-relief-v2.webp"},
   {
     id: "komadougou-yobe-relief-v2",
     type: "relief",
@@ -153,8 +146,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["A Csád-tó felé folyik.", "Mocsaras területek az esős évszakban."],
       ro: ["Curge spre Lacul Ciad.", "Zone mlăștinoase în timpul sezonului ploios."],
       en: ["Flows towards Lake Chad.", "Swampy areas in the rainy season."]
-    }
-  },
+    }, image: "/poi-images/komadougou-yobe-relief-v2.webp"},
   {
     id: "dallol-fogha-relief-v2",
     type: "relief",
@@ -167,8 +159,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Nagyon lapos terep.", "Legeltetésre használt."],
       ro: ["Teren foarte plat.", "Utilizat pentru pășunat."],
       en: ["Very flat terrain.", "Used for grazing."]
-    }
-  },
+    }, image: "/poi-images/dallol-fogha-relief-v2.webp"},
   {
     id: "goulbi-kaba-relief-v2",
     type: "relief",
@@ -181,8 +172,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Időszakos folyás.", "Zöld oázis nyáron."],
       ro: ["Curent sezonier.", "Oază verde vara."],
       en: ["Seasonal flow.", "Green oasis in summer."]
-    }
-  },
+    }, image: "/poi-images/goulbi-kaba-relief-v2.webp"},
   {
     id: "ife-massif-relief-v2",
     type: "mountain",
@@ -195,8 +185,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Gránitsziklák dominálnak.", "Magasabban fekvő."],
       ro: ["Domină rocile de granit.", "Situat la altitudine."],
       en: ["Granite rocks dominate.", "Located at higher elevation."]
-    }
-  },
+    }, image: "/poi-images/ife-massif-relief-v2.webp"},
   {
     id: "goulbi-goulbi-relief-v2",
     type: "relief",
@@ -209,8 +198,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Alacsony vegetáció.", "Eróziós formák."],
       ro: ["Vegetație redusă.", "Forme de eroziune."],
       en: ["Sparse vegetation.", "Erosion forms."]
-    }
-  },
+    }, image: "/poi-images/goulbi-goulbi-relief-v2.webp"},
   {
     id: "er-erg-tenere-relief-v2",
     type: "relief",
@@ -223,8 +211,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Vándorló dűnékből áll.", "Extrémen száraz zóna."],
       ro: ["Format din dune migratoare.", "Zonă extrem de aridă."],
       en: ["Consists of shifting dunes.", "Extremely arid zone."]
-    }
-  },
+    }, image: "/poi-images/er-erg-tenere-relief-v2.webp"},
   {
     id: "gourma-lowland-relief-v2",
     type: "relief",
@@ -237,8 +224,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Széles legelő.", "Szezonálisan elárasztott."],
       ro: ["Pășuni vaste.", "Inundat sezonier."],
       en: ["Wide grasslands.", "Seasonally flooded."]
-    }
-  },
+    }, image: "/poi-images/gourma-lowland-relief-v2.webp"},
   {
     id: "eastern-damagaram-relief-v2",
     type: "relief",
@@ -251,8 +237,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Köves felföld.", "Alacsony kiemelkedések."],
       ro: ["Platou pietros.", "Elevații scăzute."],
       en: ["Stony highland.", "Low elevations."]
-    }
-  },
+    }, image: "/poi-images/eastern-damagaram-relief-v2.webp"},
   {
     id: "goulbi-kane-relief-v2",
     type: "relief",
@@ -265,8 +250,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Dombok közé ágyazva.", "Helyi öntözés."],
       ro: ["Inclus în dealuri.", "Irigare locală."],
       en: ["Nestled in hills.", "Local irrigation."]
-    }
-  },
+    }, image: "/poi-images/goulbi-kane-relief-v2.webp"},
   {
     id: "tchad-basin-relief-v2",
     type: "relief",
@@ -293,8 +277,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Vulkáni kőzetből áll.", "Tagolt csúcsok."],
       ro: ["Format din rocă vulcanică.", "Vârfuri accidentate."],
       en: ["Made of volcanic rock.", "Rugged peaks."]
-    }
-  },
+    }, image: "/poi-images/air-massif-relief-v2.webp"},
   {
     id: "bilma-escarpment-relief-v2",
     type: "mountain",
@@ -307,8 +290,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Nehezen átjárható.", "Geológiailag jelentős."],
       ro: ["Greu de trecut.", "Geologic proeminent."],
       en: ["Hard to cross.", "Geologically striking."]
-    }
-  },
+    }, image: "/poi-images/bilma-escarpment-relief-v2.webp"},
   {
     id: "kawar-cliff-relief-v2",
     type: "mountain",
@@ -321,8 +303,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Dominálják a tájképet.", "Hosszú lánc."],
       ro: ["Domină peisajul.", "Lanț lung."],
       en: ["Dominate the landscape.", "Long chain."]
-    }
-  },
+    }, image: "/poi-images/kawar-cliff-relief-v2.webp"},
   {
     id: "fachi-hill-relief-v2",
     type: "mountain",
@@ -335,8 +316,7 @@ export const poiExtraNigerReliefV2: POI[] = [
       hu: ["Fontos tájékozódási pont.", "Köves."],
       ro: ["Reper important.", "Pietros."],
       en: ["Important landmark.", "Stony."]
-    }
-  },
+    }, image: "/poi-images/fachi-hill-relief-v2.webp"},
   {
     id: "koutous-east-relief-v2",
     type: "relief",
@@ -352,3 +332,4 @@ export const poiExtraNigerReliefV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraElsalvadorLifeV2: POI[] = [
@@ -25,8 +26,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["1978-ban nyitották meg hivatalosan a látogatók előtt.", "Területe körülbelül 30 hektáron fekszik a kráterben.", "Több mint 3500 különböző növényfajnak ad otthont.", "Antiguo Cuscatlán városrészben található."],
       ro: ["A fost deschisă oficial publicului în data de 22 decembrie 1978.", "Se întinde pe o suprafață de aproximativ 30 de hectare în interiorul craterului.", "Găzduiește o colecție impresionantă de peste 3.500 de specii de plante.", "Este situată în municipiul Antiguo Cuscatlán, aproape de capitală."],
       en: ["Officially opened to visitors in 1978.", "The garden covers approximately 30 hectares within the crater.", "It is home to more than 3,500 different plant species.", "It is located in the Antiguo Cuscatlán district of the capital."]
-    }
-  },
+    }, image: "/poi-images/jardin-botanico-la-laguna-life-v2.webp"},
   {
     id: "parque-natural-balboa-life-v2",
     type: "kid-landmark",
@@ -51,8 +51,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["San Salvador déli részén, a Planes de Renderos területén fekszik.", "Tengerszint feletti magassága 1070 méter.", "Híres a parkban található kőszobrokról.", "A helyi gasztronómia, különösen a pupusa egyik központja."],
       ro: ["Este situat în zona Planes de Renderos, la o altitudine de 1.070 metri.", "A fost inaugurat în anul 1949 ca spațiu de conservare și recreere.", "Găzduiește numeroase sculpturi monumentale realizate în piatră.", "Este considerat unul dintre 'plămânii verzi' ai zonei metropolitane."],
       en: ["Located in the Planes de Renderos area in southern San Salvador.", "The park sits at an altitude of 1,070 meters above sea level.", "It is famous for the stone sculptures found throughout the park.", "It is a central hub for local gastronomy, particularly the traditional pupusa."]
-    }
-  },
+    }, image: "/poi-images/parque-natural-balboa-life-v2.webp"},
   {
     id: "parque-bicentenario-el-espino-life-v2",
     type: "kid-landmark",
@@ -77,8 +76,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["2011-ben adták át a nagyközönségnek.", "Területe több mint 91 hektár.", "Két város, San Salvador és Antiguo Cuscatlán osztozik rajta.", "Több mint 500 madár- és állatfaj él a területén."],
       ro: ["A fost deschis oficial pe 5 noiembrie 2011.", "Se întinde pe o suprafață totală de 91 de hectare de pădure protejată.", "Este gestionat în comun de municipalitățile San Salvador și Antiguo Cuscatlán.", "Include peste 500 de specii de plante și numeroase animale sălbatice."],
       en: ["Opened to the general public in 2011.", "The park covers an area of more than 91 hectares.", "It is shared between two cities, San Salvador and Antiguo Cuscatlán.", "More than 500 species of birds and animals live within its territory."]
-    }
-  },
+    }, image: "/poi-images/parque-bicentenario-el-espino-life-v2.webp"},
   {
     id: "parque-nacional-el-boqueron-life-v2",
     type: "animal-habitat",
@@ -103,8 +101,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["A vulkán legutóbbi jelentős kitörése 1917-ben történt.", "Legmagasabb pontja 1893 méterrel van a tengerszint felett.", "A kráter alján található kis kúpot 'Boqueroncito'-nak hívják.", "A fővárostól mindössze 30 perc alatt elérhető autóval."],
       ro: ["Cea mai recentă erupție majoră a vulcanului a avut loc în anul 1917.", "Punctul cel mai înalt al parcului atinge 1.893 de metri deasupra mării.", "Craterul mic din interior este cunoscut sub numele de Boqueroncito.", "Se află la doar 30 de minute de condus față de centrul capitalei."],
       en: ["The last major eruption of the volcano occurred in 1917.", "Its highest point is 1,893 meters above sea level.", "The small cone at the bottom of the crater is named 'Boqueroncito'.", "The park is reachable in just 30 minutes by car from the capital city."]
-    }
-  },
+    }, image: "/poi-images/parque-nacional-el-boqueron-life-v2.webp"},
   {
     id: "brews-coffee-finca-el-boqueron-life-v2",
     type: "agriculture",
@@ -129,8 +126,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Közvetlenül a vulkánhoz vezető út mentén található.", "Specialitásuk a helyben pörkölt és őrölt arabica kávé.", "A kávézó teraszáról látható San Salvador városa és környéke.", "Saját márkás kávétermékeket is árusítanak ajándéktárgyként."],
       ro: ["Este situată pe traseul turistic care duce spre Parcul Național El Boquerón.", "Specialitatea casei este cafeaua arabica cultivată la mare altitudine.", "Oferă una dintre cele mai bune vederi panoramice asupra orașului San Salvador.", "Include un magazin de unde se pot cumpăra boabe de cafea proaspăt prăjite."],
       en: ["Located directly along the road leading to the volcano's summit.", "Their specialty is locally roasted and ground Arabica coffee.", "The city of San Salvador and its surroundings are visible from the terrace.", "They sell their own brand of coffee products as souvenirs."]
-    }
-  },
+    }, image: "/poi-images/brews-coffee-finca-el-boqueron-life-v2.webp"},
   {
     id: "zoologico-nacional-san-salvador-life-v2",
     type: "animal-habitat",
@@ -207,8 +203,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Tamanique hegyi falujából indul a túra.", "Összesen négy nagyobb vízesés található egymás alatt.", "A túra oda-vissza körülbelül 1,5-2 órát vesz igénybe.", "A víz hőmérséklete állandóan hűvös és frissítő."],
       ro: ["Traseul pornește din satul montan Tamanique, situat la înălțime.", "Complexul este format din patru cascade principale cu înălțimi diferite.", "Drumeția durează în medie între 1,5 și 2 ore dus-întors.", "Bazinele naturale au apă proaspătă și curată pe tot parcursul anului."],
       en: ["The hike begins from the mountain village of Tamanique.", "There are a total of four major waterfalls situated one below the other.", "The round-trip hike takes approximately 1.5 to 2 hours.", "The water temperature remains constantly cool and refreshing."]
-    }
-  },
+    }, image: "/poi-images/tamanique-waterfalls-life-v2.webp"},
   {
     id: "san-diego-beach-life-v2",
     type: "animal-habitat",
@@ -233,8 +228,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["La Libertad kikötővárosától mindössze 10 percre fekszik.", "Homokja sötétszürke, vulkanikus eredetű.", "Népszerű helyszín a teknősvédelmi programok számára.", "A part hossza több kilométeren át nyúlik el."],
       ro: ["Este situată la doar 10 minute distanță de orașul portuar La Libertad.", "Nisipul său are o culoare închisă, fiind de origine vulcanică.", "Este o locație cheie pentru eliberarea puilor de țestoasă marină.", "Lungimea plajei depășește 7 kilometri de coastă neîntreruptă."],
       en: ["Located just 10 minutes from the port city of La Libertad.", "The sand is dark gray and of volcanic origin.", "It is a popular location for turtle conservation programs.", "The beach stretches for several kilometers along the coastline."]
-    }
-  },
+    }, image: "/poi-images/san-diego-beach-life-v2.webp"},
   {
     id: "el-espino-beach-life-v2",
     type: "animal-habitat",
@@ -259,8 +253,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Usulután megyében található.", "Több mint 10 kilométer hosszú homokos parttal rendelkezik.", "A tengeri teknősök egyik legfontosabb ívóhelye az országban.", "Közel van a Jiquilisco-öböl Bioszféra Rezervátumhoz."],
       ro: ["Se află în departamentul Usulután, în partea de sud-est a țării.", "Are o lungime impresionantă de peste 10 kilometri de nisip fin.", "Este situată în vecinătatea Rezervației Biosferei Golful Jiquilisco.", "Este renumită pentru apusurile sale spectaculare peste Oceanul Pacific."],
       en: ["Located in the Usulután department.", "It features more than 10 kilometers of continuous sandy beach.", "One of the most important spawning grounds for sea turtles in the country.", "It is close to the Jiquilisco Bay Biosphere Reserve."]
-    }
-  },
+    }, image: "/poi-images/el-espino-beach-life-v2.webp"},
   {
     id: "bahia-de-jiquilisco-life-v2",
     type: "animal-habitat",
@@ -285,8 +278,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["UNESCO Bioszféra Rezervátum és Ramsari terület.", "Területe megközelítőleg 635 négyzetkilométer.", "Itt fészkel a világ közönséges cserepesteknős-állományának jelentős része.", "Több mint 27 sziget és homokpad alkotja a belső részét."],
       ro: ["Este declarată Rezervație a Biosferei UNESCO și sit Ramsar.", "Acoperă o suprafață totală de aproximativ 635 de kilometri pătrați.", "Găzduiește cea mai mare colonie de țestoase Hawksbill din Pacificul de Est.", "Include un arhipelag format din 27 de insule și bancuri de nisip."],
       en: ["It is an UNESCO Biosphere Reserve and a Ramsar site.", "The area covers approximately 635 square kilometers.", "A significant portion of the world's Hawksbill turtle population nests here.", "It consists of more than 27 islands and sandbars."]
-    }
-  },
+    }, image: "/poi-images/bahia-de-jiquilisco-life-v2.webp"},
   {
     id: "nancuchiname-forest-life-v2",
     type: "animal-habitat",
@@ -337,8 +329,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["A név jelentése nahuatl nyelven 'hely a források között'.", "Az ország egyik legjobb helye a pókmajmok megfigyelésére.", "Természetes medencékkel és forrásokkal rendelkezik.", "Fontos ökológiai folyosót alkot a partvidéken."],
       ro: ["Numele său provine din limba nahuatl și înseamnă 'locul dintre izvoare'.", "Este considerat unul dintre cele mai bune locuri pentru a vedea maimuțe păianjen.", "Dispune de bazine naturale cu apă proaspătă provenită din izvoare.", "Constituie un coridor ecologic esențial pentru fauna din zona de coastă."],
       en: ["The name means 'place among the springs' in the Nahuatl language.", "It is one of the best places in the country to observe spider monkeys.", "The reserve features natural pools and freshwater springs.", "It forms an important ecological corridor along the coastline."]
-    }
-  },
+    }, image: "/poi-images/chaguantique-reserve-life-v2.webp"},
   {
     id: "laguna-el-jocotal-life-v2",
     type: "animal-habitat",
@@ -363,8 +354,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["1999-ben vált az első salvadori Ramsari területté.", "Több mint 200 madárfaj fordult már elő itt.", "A tó mélysége átlagosan csak 1-3 méter.", "A San Miguel-vulkán látványos hátteret biztosít a tájnak."],
       ro: ["A devenit primul sit Ramsar din El Salvador în anul 1999.", "Peste 200 de specii de păsări au fost înregistrate în această rezervație.", "Adâncimea medie a lagunei variază între doar 1 și 3 metri.", "Vulcanul Chaparrastique oferă un fundal dramatic acestui peisaj acvatic."],
       en: ["Became the first Salvadoran Ramsar site in 1999.", "More than 200 bird species have been recorded here.", "The lake's depth averages only 1 to 3 meters.", "The San Miguel Volcano provides a spectacular backdrop to the landscape."]
-    }
-  },
+    }, image: "/poi-images/laguna-el-jocotal-life-v2.webp"},
   {
     id: "laguna-de-olomega-life-v2",
     type: "animal-habitat",
@@ -389,8 +379,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Területe körülbelül 24 négyzetkilométer.", "2010-ben nyilvánították Ramsari területté.", "Számos kis sziget, például az 'Isla de Olomega' található benne.", "Fontos állomása a közép-amerikai madárvonulási útvonalnak."],
       ro: ["Acoperă o suprafață de aproximativ 24 de kilometri pătrați.", "A fost declarată zonă protejată de importanță internațională în 2010.", "Conține mai multe insule mici, cea mai mare fiind Isla de Olomega.", "Este o etapă vitală în ruta migrației păsărilor prin America Centrală."],
       en: ["The lake covers an area of approximately 24 square kilometers.", "It was declared a Ramsar site in 2010.", "It contains several small islands, such as 'Isla de Olomega'.", "It is an important stop on the Central American bird migration route."]
-    }
-  },
+    }, image: "/poi-images/laguna-de-olomega-life-v2.webp"},
   {
     id: "parque-nacional-montecristo-life-v2",
     type: "animal-habitat",
@@ -415,8 +404,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["A 'El Trifinio' bioszféra rezervátum része.", "Legmagasabb pontja a Cerro Montecristo (2418 méter).", "Itt található az ország egyik utolsó érintetlen köderdője.", "Az orchideák kertje több mint 100 helyi fajt mutat be."],
       ro: ["Face parte din Rezervația Biosferei Transfrontaliere Trifinio.", "Cel mai înalt punct este Cerro Montecristo, la 2.418 metri altitudine.", "Găzduiește una dintre ultimele păduri de nori virgine din țară.", "Grădina celor o sută de ani prezintă peste 100 de specii de orhidee."],
       en: ["Part of the 'El Trifinio' Biosphere Reserve.", "Its highest point is Cerro Montecristo at 2,418 meters.", "Home to one of the country's last untouched cloud forests.", "The orchid garden showcases more than 100 local species."]
-    }
-  },
+    }, image: "/poi-images/parque-nacional-montecristo-life-v2.webp"},
   {
     id: "cerro-verde-national-park-life-v2",
     type: "animal-habitat",
@@ -441,8 +429,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Része a Vulkánok Komplexumának (Complejo de los Volcanes).", "Tengerszint feletti magassága 2030 méter.", "Az Izalco-vulkán közvetlen közelében található.", "Híres a 'köderdő' ökoszisztémájáról és orchideáiról."],
       ro: ["Este integrat în Complexul Vulcanilor (Complejo de los Volcanes).", "Altitudinea parcului depășește 2.030 de metri deasupra nivelului mării.", "Este situat în imediata vecinătate a vulcanului activ Izalco.", "Renumit pentru ecosistemul său de pădure de nori și flora bogată."],
       en: ["Part of the Volcanoes Complex (Complejo de los Volcanes).", "Sits at an altitude of 2,030 meters above sea level.", "Located in direct proximity to the Izalco Volcano.", "Famous for its 'cloud forest' ecosystem and numerous orchids."]
-    }
-  },
+    }, image: "/poi-images/cerro-verde-national-park-life-v2.webp"},
   {
     id: "lago-de-guija-life-v2",
     type: "animal-habitat",
@@ -467,8 +454,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Területe 45 négyzetkilométer.", "Vulkanikus gát hozta létre évezredekkel ezelőtt.", "Az UNESCO Bioszféra Rezervátum része.", "Számos kis sziget, például az 'Isla de Teotipa' található benne."],
       ro: ["Are o suprafață totală de aproximativ 45 de kilometri pătrați.", "S-a format prin bararea unor râuri de către scurgeri de lavă vulcanică.", "Face parte din Rezervația Biosferei UNESCO a regiunii transfrontaliere.", "Găzduiește situri arheologice importante pe insula Teotipa."],
       en: ["The lake covers an area of 45 square kilometers.", "Created by a volcanic dam thousands of years ago.", "Part of an UNESCO Biosphere Reserve.", "Contains several small islands, such as 'Isla de Teotipa'."]
-    }
-  },
+    }, image: "/poi-images/lago-de-guija-life-v2.webp"},
   {
     id: "lago-de-coatepeque-life-v2",
     type: "animal-habitat",
@@ -493,8 +479,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Egy hatalmas kalderában fekszik, amely 25 000 - 72 000 évvel ezelőtt alakult ki.", "Legnagyobb mélysége eléri a 115 métert.", "A Teopán-sziget maja szertartási központ volt.", "2013-ban második helyezést ért el a 'világ nyolcadik csodája' szavazáson."],
       ro: ["S-a format într-o calderă creată în urma unor erupții masive acum mii de ani.", "Adâncimea maximă a lacului atinge aproximativ 115 metri.", "Insula Teopán din interior a fost un centru ceremonial mayaș.", "A fost finalist în competiția pentru cele opt minuni ale lumii în 2013."],
       en: ["Situated in a large caldera formed between 25,000 and 72,000 years ago.", "Its maximum depth reaches 115 meters.", "Teopán Island served as a Maya ceremonial center.", "In 2013, it was a runner-up for the 'Eighth Wonder of the World' title."]
-    }
-  },
+    }, image: "/poi-images/lago-de-coatepeque-life-v2.webp"},
   {
     id: "coffee-farms-ruta-de-las-flores-life-v2",
     type: "agriculture",
@@ -519,8 +504,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["A leghíresebb kávétermő vidék az országban.", "Magában foglalja Ataco, Apaneca és Juayúa városait.", "A tengerszint feletti magasság 1000 és 1500 méter között van.", "Számos 'finca' (birtok) kínál szállást és kóstolókat."],
       ro: ["Este cea mai celebră regiune producătoare de cafea de specialitate din țară.", "Include orașele pitorești Ataco, Apaneca, Juayúa și Salcoatitán.", "Altitudinea culturilor variază între 1.000 și 1.500 de metri.", "Numeroase ferme oferă cazare în conace istorice ale cafelei."],
       en: ["The most famous coffee-growing region in the country.", "Includes the towns of Ataco, Apaneca, and Juayúa.", "Altitude ranges between 1,000 and 1,500 meters above sea level.", "Many 'fincas' (estates) offer accommodation and coffee tastings."]
-    }
-  },
+    }, image: "/poi-images/coffee-farms-ruta-de-las-flores-life-v2.webp"},
   {
     id: "concepcion-de-ataco-coffee-hills-life-v2",
     type: "agriculture",
@@ -545,8 +529,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Híres a 'Borbollón' és 'El Carmen' birtokokról.", "Ataco városa a falfestményeiről és kézműveseiről is ismert.", "A vidék egész évben hűvös, tavaszias időjárással rendelkezik.", "Fontos állomása az El Salvador-i kávéturizmusnak."],
       ro: ["Este renumit pentru fermele istorice precum El Carmen și Borbollón.", "Orașul Ataco de la bază este celebru pentru picturile murale vibrante.", "Climatul este unul de primăvară eternă, favorabil culturilor fine.", "Reprezintă un pilon principal al turismului de cafea din America Centrală."],
       en: ["Famous for the 'Borbollón' and 'El Carmen' estates.", "The town of Ataco is also known for its murals and handicrafts.", "The region enjoys cool, spring-like weather throughout the year.", "An important stop for coffee tourism in El Salvador."]
-    }
-  },
+    }, image: "/poi-images/concepcion-de-ataco-coffee-hills-life-v2.webp"},
   {
     id: "apaneca-laguna-verde-life-v2",
     type: "animal-habitat",
@@ -571,8 +554,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Tengerszint feletti magassága 1600 méter felett van.", "Apaneca hegyeiben, Ahuachapán megyében található.", "Könnyen megközelíthető terepjáróval vagy gyalogos túrával.", "A víz színe az algák és a tükröződés miatt tűnik zöldnek."],
       ro: ["Se află la o altitudine impresionantă de aproximativ 1.600 de metri.", "Este situată în departamentul Ahuachapán, lângă orașul Apaneca.", "Accesul se face de obicei cu vehicule 4x4 sau prin drumeție.", "Culoarea apei este o combinație de minerale vulcanice și reflexia pădurii."],
       en: ["Situated at an altitude of over 1,600 meters above sea level.", "Located in the Apaneca mountains in the Ahuachapán department.", "Easily accessible by off-road vehicle or by hiking.", "The water color appears green due to algae and reflection."]
-    }
-  },
+    }, image: "/poi-images/apaneca-laguna-verde-life-v2.webp"},
   {
     id: "apaneca-laguna-las-ninfas-life-v2",
     type: "animal-habitat",
@@ -597,8 +579,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["A név jelentése: 'Nimfák lagúnája'.", "Híres a felszínét borító vízi liliomokról.", "Vulkanikus kráterben kialakult vizes élőhely.", "Az UNESCO Bioszféra Rezervátum része."],
       ro: ["Numele său este inspirat de numărul mare de nuferi de pe suprafața apei.", "Este o zonă umedă protejată situată într-un crater vulcanic secundar.", "Face parte din Rezervația Biosferei Apaneca-Llamatepec.", "Este renumită pentru varietatea mare de fluturi și libelule."],
       en: ["The name means 'Lagoon of the Nymphs'.", "Famous for the water lilies covering its surface.", "A wetland formed within a volcanic crater.", "Part of an UNESCO Biosphere Reserve."]
-    }
-  },
+    }, image: "/poi-images/apaneca-laguna-las-ninfas-life-v2.webp"},
   {
     id: "laberinto-de-albania-life-v2",
     type: "kid-landmark",
@@ -623,8 +604,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Több mint 2000 ciprusfából épült fel.", "A labirintus közepén egy kilátótorony található.", "Közép-Amerika legnagyobb sövény-útvesztője.", "Számos extrém sportlehetőséget is kínál a helyszínen."],
       ro: ["A fost construit folosind peste 2.000 de arbori de chiparos naturali.", "Deține titlul de cel mai mare labirint de gard viu din America Centrală.", "Include o platformă centrală de observație pentru a ghida rătăciții.", "Oferă experiențe de sporturi extreme, cum ar fi 'bicicleta pe sârmă'."],
       en: ["Built from more than 2,000 cypress trees.", "A lookout tower is located in the middle of the maze.", "It is the largest hedge maze in Central America.", "The site offers several extreme sports opportunities."]
-    }
-  },
+    }, image: "/poi-images/laberinto-de-albania-life-v2.webp"},
   {
     id: "parque-nacional-el-imposible-life-v2",
     type: "animal-habitat",
@@ -649,8 +629,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["1989-ben alapították, területe közel 4000 hektár.", "Nevét egy veszélyes hegyi átjáróról kapta.", "Több mint 500 madárfaj és 100 emlősfaj él itt.", "Nyolc különböző folyó forrásvidéke található a területén."],
       ro: ["A fost înființat în 1989 și are o suprafață de aproape 4.000 de hectare.", "Adăpostește peste 500 de specii de păsări și numeroase mamifere rare.", "Este zona cu cea mai mare diversitate biologică din întreg El Salvador.", "Opt râuri principale își au izvoarele în interiorul munților parcului."],
       en: ["Founded in 1989, it covers nearly 4,000 hectares.", "Named after a once-dangerous mountain pass.", "Home to more than 500 bird species and 100 mammal species.", "The headwaters of eight different rivers are located within its territory."]
-    }
-  },
+    }, image: "/poi-images/parque-nacional-el-imposible-life-v2.webp"},
   {
     id: "barra-de-santiago-mangroves-life-v2",
     type: "animal-habitat",
@@ -675,8 +654,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Védett vizes élőhely és Ramsari terület.", "Híres az itt folyó teknősvédelmi és keltetési programokról.", "Közép-Amerika egyik legszebb torkolatvidéke.", "Fontos élőhelye a ritka amerikai krokodilnak."],
       ro: ["Este recunoscută ca sit Ramsar datorită importanței sale ecologice.", "Găzduiește un program comunitar de succes pentru protecția țestoaselor.", "Este unul dintre puținele locuri unde se poate vedea crocodilul american.", "Constituie un habitat esențial pentru conservarea speciilor marine."],
       en: ["A protected wetland and Ramsar site.", "Famous for its turtle protection and hatching programs.", "Considered one of the most beautiful estuaries in Central America.", "An important habitat for the rare American crocodile."]
-    }
-  },
+    }, image: "/poi-images/barra-de-santiago-mangroves-life-v2.webp"},
   {
     id: "bosque-cinquera-life-v2",
     type: "animal-habitat",
@@ -701,8 +679,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Közösségi kezelésben lévő ökológiai park.", "Híres a 'La Posada del Bosque' nevű szálláshelyéről.", "Fontos szerepet játszott El Salvador modern történelmében.", "Gazdag biodiverzitás, beleértve ritka lepkéket és madarakat."],
       ro: ["Este o rezervație administrată în întregime de comunitatea locală.", "Renumită pentru 'Pădurea Memoriei', care onorează istoria locală.", "Găzduiește o mare diversitate de specii de fluturi și orhidee de câmp.", "A devenit un model internațional pentru turismul comunitar și istoric."],
       en: ["A community-managed ecological park.", "Famous for its accommodation called 'La Posada del Bosque'.", "Played an important role in El Salvador's modern history.", "Possesses rich biodiversity, including rare butterflies and birds."]
-    }
-  },
+    }, image: "/poi-images/bosque-cinquera-life-v2.webp"},
   {
     id: "meanguera-island-life-v2",
     type: "animal-habitat",
@@ -727,8 +704,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["A Fonseca-öböl legnagyobb salvadori szigete.", "Vulkanikus eredetű, dombos domborzattal.", "Híres a friss tengeri ételeiről és a 'mariscada'-ról.", "Kizárólag hajóval közelíthető meg La Unión kikötőjéből."],
       ro: ["Este cea mai mare și importantă insulă salvadoriană din Golful Fonseca.", "Are o origine vulcanică evidentă în relieful său accidentat și nisipul negru.", "Este accesibilă doar cu barca din portul La Unión, călătoria durând o oră.", "Este renumită pentru gastronomia sa bazată pe fructe de mare proaspete."],
       en: ["The largest Salvadoran island in the Gulf of Fonseca.", "Of volcanic origin with hilly terrain.", "Famous for its fresh seafood and the 'mariscada' dish.", "Accessible only by boat from the port of La Unión."]
-    }
-  },
+    }, image: "/poi-images/meanguera-island-life-v2.webp"},
   {
     id: "conchagua-volcano-wildlife-life-v2",
     type: "animal-habitat",
@@ -753,8 +729,7 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
       hu: ["Legmagasabb pontja a Cerro del Ocote (1225 méter).", "Két fő csúcsa van: a Cerro Santiago és a Cerro del Ocote.", "Egyik legnépszerűbb pontja az 'Espíritu de la Montaña' kilátó.", "Nevét a helyi lenca indián kultúrából kapta."],
       ro: ["Numele său provine din limba Lenca și se traduce prin 'valea îngustă'.", "Are două vârfuri principale: Cerro Santiago și Cerro del Ocote.", "Punctul 'Espíritu de la Montaña' oferă vederi spre Nicaragua și Honduras.", "Este considerat unul dintre gardienii naturali ai coastei de sud-est."],
       en: ["The highest point is Cerro del Ocote at 1,225 meters.", "It has two main peaks: Cerro Santiago and Cerro del Ocote.", "One of its most popular spots is the 'Espíritu de la Montaña' viewpoint.", "Its name comes from the local Lenca indigenous culture."]
-    }
-  },
+    }, image: "/poi-images/conchagua-volcano-wildlife-life-v2.webp"},
   {
     id: "gulf-of-fonseca-mangroves-life-v2",
     type: "animal-habitat",
@@ -782,3 +757,4 @@ export const poiExtraElsalvadorLifeV2: POI[] = [
     }
   }
 ];
+

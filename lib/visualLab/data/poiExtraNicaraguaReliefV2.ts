@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNicaraguaReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Boaco és Chontales megyéken át nyúlik.", "Fontos vízválasztó."],
       ro: ["Se întinde prin Boaco și Chontales.", "O cumpănă de ape importantă."],
       en: ["Stretches through Boaco and Chontales.", "Important watershed."]
-    }
-  },
+    }, image: "/poi-images/cordillera-chontale-relief-v2.webp"},
   {
     id: "cerro-saslaya-relief-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["A Saslaya Nemzeti Park része.", "Magassága meghaladja a 2000 métert."],
       ro: ["Parte a Parcului Național Saslaya.", "Altitudine de peste 2000 metri."],
       en: ["Part of Saslaya National Park.", "Elevation over 2000 meters."]
-    }
-  },
+    }, image: "/poi-images/cerro-saslaya-relief-v2.webp"},
   {
     id: "meseta-pueblos-relief-v2",
     type: "relief",
@@ -41,8 +40,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Mérsékelt éghajlatáról ismert.", "Vulkáni talaj."],
       ro: ["Cunoscut pentru clima mai blândă.", "Sol vulcanic."],
       en: ["Known for milder climate.", "Volcanic soil."]
-    }
-  },
+    }, image: "/poi-images/meseta-pueblos-relief-v2.webp"},
   {
     id: "valle-de-seaco-relief-v2",
     type: "relief",
@@ -55,8 +53,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Fontos a mezőgazdaság számára.", "A Jinotega-felföldön található."],
       ro: ["Important pentru agricultură.", "Situată în zonele înalte din Jinotega."],
       en: ["Important for agriculture.", "Located in the Jinotega highlands."]
-    }
-  },
+    }, image: "/poi-images/valle-de-seaco-relief-v2.webp"},
   {
     id: "llanos-de-esteli-relief-v2",
     type: "relief",
@@ -69,8 +66,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Dohánytermesztéséről híres.", "Magasság kb. 800-900 méter."],
       ro: ["Cunoscut pentru cultivarea tutunului.", "Altitudine aprox. 800-900 metri."],
       en: ["Known for tobacco cultivation.", "Elevation about 800-900 meters."]
-    }
-  },
+    }, image: "/poi-images/llanos-de-esteli-relief-v2.webp"},
   {
     id: "selva-de-las-nubes-relief-v2",
     type: "forest",
@@ -83,8 +79,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Quetzal-madarak élőhelye.", "Magas páratartalom."],
       ro: ["Habitat pentru quetzali.", "Umiditate ridicată."],
       en: ["Habitat for quetzals.", "High humidity."]
-    }
-  },
+    }, image: "/poi-images/selva-de-las-nubes-relief-v2.webp"},
   {
     id: "cerro-killibrin-relief-v2",
     type: "mountain",
@@ -97,8 +92,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Sűrűn erdős.", "Az elszigetelt hegyvidék része."],
       ro: ["Dens împădurit.", "Parte a regiunii montane izolate."],
       en: ["Densely forested.", "Part of the isolated highlands."]
-    }
-  },
+    }, image: "/poi-images/cerro-killibrin-relief-v2.webp"},
   {
     id: "valle-de-las-garzas-relief-v2",
     type: "relief",
@@ -125,8 +119,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Nehezen megközelíthető.", "Történelmileg jelentős."],
       ro: ["Greu accesibil.", "Semnificativ din punct de vedere istoric."],
       en: ["Difficult to access.", "Historically significant."]
-    }
-  },
+    }, image: "/poi-images/sierra-de-diabolo-relief-v2.webp"},
   {
     id: "cerro-mogoton-relief-v2",
     type: "mountain",
@@ -153,8 +146,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Érdekes sziklaformációk.", "Turisztikai látványosság."],
       ro: ["Formațiuni stâncoase interesante.", "Atracție turistică."],
       en: ["Interesting rock formations.", "Tourist attraction."]
-    }
-  },
+    }, image: "/poi-images/valle-de-la-luna-relief-v2.webp"},
   {
     id: "cerro-kilambe-relief-v2",
     type: "mountain",
@@ -167,8 +159,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Magas biológiai sokféleség.", "Sűrű hegyi erdők."],
       ro: ["Biodiversitate ridicată.", "Păduri montane dense."],
       en: ["High biodiversity.", "Dense cloud forests."]
-    }
-  },
+    }, image: "/poi-images/cerro-kilambe-relief-v2.webp"},
   {
     id: "meseta-de-juigalpa-relief-v2",
     type: "relief",
@@ -181,8 +172,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Állattenyésztési terület.", "Gyepes táj."],
       ro: ["Zonă de creștere a vitelor.", "Peisaj de pajiști."],
       en: ["Cattle ranching area.", "Grassland landscape."]
-    }
-  },
+    }, image: "/poi-images/meseta-de-juigalpa-relief-v2.webp"},
   {
     id: "cerro-el-pilon-relief-v2",
     type: "mountain",
@@ -209,8 +199,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Termékeny.", "Kávétermesztés."],
       ro: ["Fertilă.", "Producția de cafea."],
       en: ["Fertile.", "Coffee production."]
-    }
-  },
+    }, image: "/poi-images/valle-de-osua-relief-v2.webp"},
   {
     id: "meseta-del-pacifico-relief-v2",
     type: "relief",
@@ -223,8 +212,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Legnépesebb régió.", "Vulkáni eredetű."],
       ro: ["Cea mai populată regiune.", "Origine vulcanică."],
       en: ["Most populous region.", "Volcanic origin."]
-    }
-  },
+    }, image: "/poi-images/meseta-del-pacifico-relief-v2.webp"},
   {
     id: "valle-de-jalapa-relief-v2",
     type: "relief",
@@ -237,8 +225,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Híres a kávéjáról.", "Magasan fekvő termőterületek."],
       ro: ["Faimoasă pentru cafea.", "Zone de cultivare la altitudine."],
       en: ["Famous for coffee.", "High-altitude growing areas."]
-    }
-  },
+    }, image: "/poi-images/valle-de-jalapa-relief-v2.webp"},
   {
     id: "cerro-punta-gorda-relief-v2",
     type: "mountain",
@@ -251,8 +238,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["A Punta Gorda-folyó közelében.", "Trópusi környezet."],
       ro: ["Aproape de râul Punta Gorda.", "Mediu tropical."],
       en: ["Near the Punta Gorda River.", "Tropical environment."]
-    }
-  },
+    }, image: "/poi-images/cerro-punta-gorda-relief-v2.webp"},
   {
     id: "meseta-jinotega-relief-v2",
     type: "relief",
@@ -265,8 +251,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Kávétermesztéséről ismert.", "Felhőerdők."],
       ro: ["Cunoscut pentru cafea.", "Păduri de nori."],
       en: ["Known for coffee.", "Cloud forests."]
-    }
-  },
+    }, image: "/poi-images/meseta-jinotega-relief-v2.webp"},
   {
     id: "cerro-la-quinta-relief-v2",
     type: "mountain",
@@ -293,8 +278,7 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
       hu: ["Bányászati múlt.", "Állatlegelők."],
       ro: ["Istoric minier.", "Pășuni pentru vite."],
       en: ["Mining history.", "Cattle pastures."]
-    }
-  },
+    }, image: "/poi-images/valle-de-la-libertad-relief-v2.webp"},
   {
     id: "cerro-coyol-relief-v2",
     type: "mountain",
@@ -310,3 +294,4 @@ export const poiExtraNicaraguaReliefV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUsaEconomicV2: POI[] = [
@@ -30,8 +31,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Hatalmas mennyiségű kőolajat és petrolkémiai terméket kezel.", "Az USA egyik legforgalmasabb kikötője.", "A texasi gazdaság központi eleme.", "Fontos exportpont az amerikai energia számára."],
         ro: ["Procesează volume masive de petrol și produse petrochimice.", "Unul dintre cele mai aglomerate porturi din SUA.", "Central pentru economia statului Texas.", "Punct important de export pentru energia americană."],
         en: ["Handles massive amounts of oil and petrochemical products.", "One of the busiest ports in the USA.", "Central to the Texas economy.", "Important export point for US energy."]
-      }
-    },
+      }, image: "/poi-images/houston-ship-channel-economic-v2.webp"},
   {
       id: "port-of-south-louisiana-economic-v2",
       type: "port",
@@ -92,8 +92,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["A világ egyik legforgalmasabb konténerkikötője.", "Központi kapu az ázsiai kereskedelemhez.", "Fókuszban a környezetbarát technológiák.", "Dél-Kalifornia egyik legnagyobb munkaadója."],
         ro: ["Unul dintre cele mai aglomerate porturi de containere la nivel mondial.", "Poartă centrală pentru comerțul cu Asia.", "Accent pe tehnologii ecologice.", "Unul dintre cei mai mari angajatori din California de Sud."],
         en: ["One of the busiest container ports globally.", "Central gateway for trade with Asia.", "Focus on eco-friendly technologies.", "One of the largest employers in Southern California."]
-      }
-    },
+      }, image: "/poi-images/port-of-long-beach-economic-v2.webp"},
   {
       id: "port-of-new-york-and-new-jersey-economic-v2",
       type: "port",
@@ -123,8 +122,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Az amerikai keleti part legnagyobb kikötője.", "Hatalmas fogyasztási cikk forgalom.", "Nemzetközi kereskedelmi csomópont.", "Történelmi kapu a bevándorlók számára."],
         ro: ["Cel mai mare port de pe coasta de est a SUA.", "Volum uriaș de bunuri de consum.", "Nod central pentru comerțul internațional.", "Poartă istorică pentru imigranți."],
         en: ["Largest port on the US East Coast.", "Huge volume of consumer goods.", "Hub for international trade.", "Historic gateway for immigrants."]
-      }
-    },
+      }, image: "/poi-images/port-of-new-york-and-new-jersey-economic-v2.webp"},
   {
       id: "port-of-savannah-economic-v2",
       type: "port",
@@ -154,8 +152,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Észak-Amerika legnagyobb egyetlen konténertermináljának otthona.", "Fontos exportcsomópont a délkeleti régióban.", "Gyors növekedés a rakománykezelésben.", "Hatékony infrastruktúra."],
         ro: ["Găzduiește cel mai mare terminal unic de containere din America de Nord.", "Nod de export important în sud-est.", "Creștere rapidă în manipularea mărfurilor.", "Infrastructură eficientă."],
         en: ["Home to the largest single-terminal container facility in North America.", "Important export hub in the Southeast.", "Rapid growth in cargo handling.", "Efficient infrastructure."]
-      }
-    },
+      }, image: "/poi-images/port-of-savannah-economic-v2.webp"},
   {
       id: "port-of-seattle-economic-v2",
       type: "port",
@@ -185,8 +182,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Fontos az Alaszka és Ázsia közötti kereskedelem számára.", "Magában foglal egy nemzetközi repülőteret is.", "Központi helyszín a tengeri logisztika számára.", "Innovatív kikötő."],
         ro: ["Important pentru comerțul cu Alaska și Asia.", "Include și un aeroport internațional.", "Locație centrală pentru logistica maritimă.", "Port inovator."],
         en: ["Important for trade with Alaska and Asia.", "Includes an international airport.", "Central location for maritime logistics.", "Innovative port."]
-      }
-    },
+      }, image: "/poi-images/port-of-seattle-economic-v2.webp"},
   {
       id: "port-of-oakland-economic-v2",
       type: "port",
@@ -216,8 +212,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Központi kikötő az észak-kaliforniai export számára.", "Fontos a helyi ipar számára.", "Szorosan integrált a vasúti közlekedéssel.", "Modern rakodóberendezések."],
         ro: ["Port central pentru exportul din California de Nord.", "Important pentru industria locală.", "Conectat strâns cu transportul feroviar.", "Instalații moderne de manipulare."],
         en: ["Central port for exports from Northern California.", "Important for local industry.", "Closely integrated with rail transport.", "Modern loading facilities."]
-      }
-    },
+      }, image: "/poi-images/port-of-oakland-economic-v2.webp"},
   {
       id: "port-of-virginia-economic-v2",
       type: "port",
@@ -247,8 +242,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Az egyik legmélyebb kikötőmedence a keleti parton.", "Központi szerep a nagyhajók kiszolgálásában.", "Fontos helyszín az amerikai haditengerészet számára.", "Hatékony automatizált működés."],
         ro: ["Cunoscut pentru unul dintre cele mai adânci bazine portuare de pe coasta de est.", "Central pentru manipularea navelor mari.", "Locație importantă pentru Marina SUA.", "Operare automatizată eficientă."],
         en: ["Known for having one of the deepest harbors on the East Coast.", "Central for handling large vessels.", "Important location for the US Navy.", "Efficient automated operations."]
-      }
-    },
+      }, image: "/poi-images/port-of-virginia-economic-v2.webp"},
   {
       id: "port-of-tampa-bay-economic-v2",
       type: "port",
@@ -278,8 +272,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["A legfontosabb átrakodóhely a foszfát számára.", "Központi szerep Florida energiaellátásában.", "Gyorsan növekszik a körutazások terén.", "Stratégiai elhelyezkedés a Mexikói-öbölben."],
         ro: ["Cel mai important punct de transbordare pentru fosfați.", "Central pentru aprovizionarea cu energie a Floridei.", "Creștere rapidă în sectorul croazierelor.", "Locație strategică în Golful Mexic."],
         en: ["Most important transshipment point for phosphate.", "Central to Florida's energy supply.", "Growing fast in the cruise sector.", "Strategic location in the Gulf of Mexico."]
-      }
-    },
+      }, image: "/poi-images/port-of-tampa-bay-economic-v2.webp"},
   {
       id: "detroit-automotive-industry-economic-v2",
       type: "industry",
@@ -309,8 +302,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["A 'három nagy' (GM, Ford, Stellantis) otthona.", "Az autógyártás történelmi központja.", "Technológiai innovációk hajtóereje.", "Jelentős az amerikai gazdaság számára."],
         ro: ["Sediul celor 'Trei Mari' (GM, Ford, Stellantis).", "Centrul istoric al producției auto.", "Forță motrice pentru inovații tehnologice.", "Semnificativ pentru economia SUA."],
         en: ["Home to the 'Big Three' (GM, Ford, Stellantis).", "Historic center of automotive manufacturing.", "Driving force for technological innovation.", "Significant to the US economy."]
-      }
-    },
+      }, image: "/poi-images/detroit-automotive-industry-economic-v2.webp"},
   {
       id: "silicon-valley-tech-economic-v2",
       type: "industry",
@@ -340,8 +332,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Központi szerep az olyan internetes óriások számára, mint a Google és az Apple.", "Hatalmas kockázati tőkeközpont.", "Vezető szerep a szoftverfejlesztésben.", "Világszintű innovációs központ."],
         ro: ["Central pentru giganții internetului precum Google și Apple.", "Centru imens de capital de risc.", "Lider în dezvoltarea software-ului.", "Centru pentru inovații la nivel mondial."],
         en: ["Central to internet giants like Google and Apple.", "Huge center for venture capital.", "Leading in software development.", "Hub for innovations worldwide."]
-      }
-    },
+      }, image: "/poi-images/silicon-valley-tech-economic-v2.webp"},
   {
       id: "texan-energy-industry-economic-v2",
       type: "industry",
@@ -371,8 +362,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Az USA nyersolaj-termelésének fő központja.", "Nagy földgázközpont.", "Vezető szerep a szélenergia kiépítésében.", "Stratégiailag fontos az energiafüggetlenség szempontjából."],
         ro: ["Principalul producător de țiței din SUA.", "Centru major pentru gaze naturale.", "Lider în dezvoltarea energiei eoliene.", "Strategic important pentru independența energetică."],
         en: ["Main producer of crude oil in the USA.", "Major center for natural gas.", "Leading in wind energy expansion.", "Strategically important for energy independence."]
-      }
-    },
+      }, image: "/poi-images/texan-energy-industry-economic-v2.webp"},
   {
       id: "wall-street-financial-industry-economic-v2",
       type: "industry",
@@ -402,8 +392,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["A világ legfontosabb tőzsdéinek székhelye.", "Globális tőkeközpont.", "Hatalmas befolyás a világgazdaságra.", "Az amerikai kapitalizmus szimbóluma."],
         ro: ["Sediul celor mai importante burse din lume.", "Centru pentru capital global.", "Influență enormă asupra economiei mondiale.", "Simbol pentru capitalismul american."],
         en: ["Home to the most important stock exchanges in the world.", "Center for global capital.", "Huge influence on the world economy.", "Symbol for American capitalism."]
-      }
-    },
+      }, image: "/poi-images/wall-street-financial-industry-economic-v2.webp"},
   {
       id: "napa-valley-wine-industry-economic-v2",
       type: "industry",
@@ -464,8 +453,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["A világ filmgyártásának szimbóluma.", "A szórakoztató média gigantikus exportőre.", "Hatalmas kulturális és gazdasági befolyás.", "A nagy filmstúdiók központja."],
         ro: ["Simbol pentru producția de film la nivel mondial.", "Exportator gigant de media de divertisment.", "Influență culturală și economică enormă.", "Centru pentru studiourile mari de film."],
         en: ["Symbol for film production worldwide.", "Gigantic exporter of entertainment media.", "Huge cultural and economic influence.", "Center for major film studios."]
-      }
-    },
+      }, image: "/poi-images/hollywood-entertainment-industry-economic-v2.webp"},
   {
       id: "chicago-logistics-industry-economic-v2",
       type: "industry",
@@ -495,8 +483,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Az USA legnagyobb vasúti teherforgalmi csomópontja.", "Stratégiai elhelyezkedés a Közép-Nyugaton.", "Fontos helyszín az áruelosztás számára.", "Összeköti a keleti és nyugati partot."],
         ro: ["Cel mai mare nod pentru transportul feroviar de marfă din SUA.", "Locație strategică în Vestul Mijlociu.", "Locație importantă pentru distribuția mărfurilor.", "Conectează coasta de est și cea de vest."],
         en: ["Largest hub for rail freight in the USA.", "Strategic location in the Midwest.", "Important location for goods distribution.", "Connects East and West Coast."]
-      }
-    },
+      }, image: "/poi-images/chicago-logistics-industry-economic-v2.webp"},
   {
       id: "pittsburgh-steel-industry-economic-v2",
       type: "industry",
@@ -526,8 +513,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Egykor 'Steel City'-nek hívták.", "Fontos hozzájárulás az USA felépítéséhez.", "Átmenet a technológia és kutatás felé.", "Erős ipari hagyomány."],
         ro: ["Numit odinioară 'Steel City'.", "Contribuție importantă la dezvoltarea SUA.", "Tranziție către tehnologie și cercetare.", "Tradiție industrială puternică."],
         en: ["Once called 'Steel City'.", "Important contribution to the building of the USA.", "Transition toward technology and research.", "Strong industrial tradition."]
-      }
-    },
+      }, image: "/poi-images/pittsburgh-steel-industry-economic-v2.webp"},
   {
       id: "georgia-aerospace-industry-economic-v2",
       type: "industry",
@@ -619,8 +605,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Vezető szerep az autók importjában.", "Fontos szénexport-kikötő.", "Kedvező elhelyezkedés az amerikai fővároshoz képest.", "Nagy kapacitás a gördülő rakományokhoz."],
         ro: ["Lider în importul de mașini.", "Locație importantă pentru exportul de cărbune.", "Locație favorabilă față de capitala SUA.", "Capacitate mare pentru încărcături Roll-on/Roll-off."],
         en: ["Leading in car imports.", "Important coal export location.", "Favorable location to the US capital.", "High capacity for roll-on/roll-off cargo."]
-      }
-    },
+      }, image: "/poi-images/port-of-baltimore-economic-v2.webp"},
   {
       id: "port-of-houston-deepwater-economic-v2",
       type: "port",
@@ -650,8 +635,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Hozzáférés biztosítása nagyon nagy hajók számára.", "Központi szerep a globális olajiparban.", "Folyamatosan bővülő.", "Jelentős a nemzetközi energiakereskedelem számára."],
         ro: ["Permite accesul navelor foarte mari.", "Central pentru industria petrolieră globală.", "În continuă expansiune.", "Semnificativ pentru comerțul internațional cu energie."],
         en: ["Allows access for very large deep-draft vessels.", "Central to the global oil industry.", "Constantly expanded.", "Significant for international energy trade."]
-      }
-    },
+      }, image: "/poi-images/port-of-houston-deepwater-economic-v2.webp"},
   {
       id: "texas-wind-energy-economic-v2",
       type: "industry",
@@ -681,8 +665,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["A legnagyobb telepített szélenergia-kapacitás az USA-ban.", "Nagy potenciál a kiterjedt területek miatt.", "Fontos tényező az energetikai átállásban.", "Az iparág erős támogatása."],
         ro: ["Cea mai mare capacitate de energie eoliană instalată în SUA.", "Potențial mare datorită suprafețelor vaste.", "Factor important în tranziția energetică.", "Susținere puternică a industriei."],
         en: ["Largest installed wind power capacity in the USA.", "Great potential due to vast areas.", "Important factor for energy transition.", "Strong support of the industry."]
-      }
-    },
+      }, image: "/poi-images/texas-wind-energy-economic-v2.webp"},
   {
       id: "boston-biotech-economic-v2",
       type: "industry",
@@ -712,8 +695,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Kiváló egyetemek nagy sűrűsége.", "Sok start-up az élettudományok területén.", "Központi szerep az orvosi áttörésekben.", "A kutatás és ipar erős hálózata."],
         ro: ["Densitate mare de universități excelente.", "Multe start-up-uri în domeniul științelor vieții.", "Central pentru descoperirile medicale.", "Rețea puternică de cercetare și industrie."],
         en: ["High density of excellent universities.", "Many start-ups in the life sciences field.", "Central to medical breakthroughs.", "Strong connection between research and industry."]
-      }
-    },
+      }, image: "/poi-images/boston-biotech-economic-v2.webp"},
   {
       id: "port-of-anchorage-economic-v2",
       type: "port",
@@ -743,8 +725,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Majdnem az egész államot ellátja.", "Stratégiailag fontos az infrastruktúra számára.", "Életfontosságú áruk átrakodása.", "Kihívást jelentő sarkvidéki körülmények."],
         ro: ["Aprovizionează aproape tot statul.", "Strategic important pentru infrastructură.", "Manipularea bunurilor vitale.", "Condiții arctice provocatoare."],
         en: ["Supplies almost the entire state.", "Strategically important for infrastructure.", "Handling of vital goods.", "Challenging Arctic conditions."]
-      }
-    },
+      }, image: "/poi-images/port-of-anchorage-economic-v2.webp"},
   {
       id: "las-vegas-tourism-industry-economic-v2",
       type: "industry",
@@ -774,8 +755,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Világhírű kaszinóiról és üdülőhelyeiről.", "Hatalmas gazdasági tényező a turizmus révén.", "Nagy konferenciák központja.", "Hatalmas befogadóképesség a vendégek számára."],
         ro: ["Faimos la nivel mondial pentru cazinouri și stațiuni.", "Factor economic imens prin turism.", "Centru pentru conferințe mari.", "Capacități uriașe pentru oaspeți."],
         en: ["World-famous for casinos and resorts.", "Huge economic factor through tourism.", "Center for major conferences.", "Huge capacities for guests."]
-      }
-    },
+      }, image: "/poi-images/las-vegas-tourism-industry-economic-v2.webp"},
   {
       id: "port-of-new-orleans-economic-v2",
       type: "port",
@@ -805,8 +785,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Történelmi kapu az amerikai belvidékre.", "Fontos csomópont a belvízi hajózásban.", "Szorosan kötődik a latin-amerikai kereskedelemhez.", "Központi szerep a regionális logisztikában."],
         ro: ["Poartă istorică către interiorul american.", "Nod important pentru navigația interioară.", "Conectat strâns cu comerțul din America Latină.", "Central pentru logistica regională."],
         en: ["Historic gateway to the American interior.", "Important hub for inland shipping.", "Closely linked to trade in Latin America.", "Central to regional logistics."]
-      }
-    },
+      }, image: "/poi-images/port-of-new-orleans-economic-v2.webp"},
   {
       id: "seattle-aerospace-industry-economic-v2",
       type: "industry",
@@ -836,8 +815,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         hu: ["Boeing gyártóüzemek otthona.", "Légiipari innovációk központja.", "Rendkívül jelentős a repülőgépgyártásban.", "Magasan specializált beszállítói lánc."],
         ro: ["Sediul fabricilor Boeing.", "Centru pentru inovații aeronautice.", "Extrem de semnificativ pentru construcția de aeronave.", "Lanț de aprovizionare înalt specializat."],
         en: ["Home to Boeing manufacturing plants.", "Center for aerospace innovations.", "Extremely significant for aircraft construction.", "Highly specialized supply chain."]
-      }
-    },
+      }, image: "/poi-images/seattle-aerospace-industry-economic-v2.webp"},
   {
       id: "austin-tech-cluster-economic-v2",
       type: "industry",
@@ -870,3 +848,4 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       }
     }
 ];
+

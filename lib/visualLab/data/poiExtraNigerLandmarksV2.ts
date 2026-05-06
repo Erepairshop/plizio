@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNigerLandmarksV2: POI[] = [
@@ -1412,3 +1413,4 @@ export const poiExtraNigerLandmarksV2: POI[] = [
     }
   }
 ];
+

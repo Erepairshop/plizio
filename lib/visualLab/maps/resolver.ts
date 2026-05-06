@@ -85,7 +85,7 @@ import { switzerlandMap, switzerlandViewBox, projectCoordsCH } from "./switzerla
 import { switzerlandSubregions } from "./switzerlandSubregions";
 import { switzerlandAllPoi } from "../data/switzerlandPoi";
 import { czechRepublicMap, czechRepublicViewBox, projectCoordsCZ } from "./czechRepublic.svg";
-import { czechRepublicAllPoi } from "../data/czechRepublicPoi";
+import { czechrepublicAllPoi as czechRepublicAllPoi } from "../data/czechRepublicPoi";
 import { poiExtraCzechRepublicCities } from "../data/poiExtraCzechRepublicCities";
 import { slovakiaMap, slovakiaViewBox, projectCoordsSK } from "./slovakia.svg";
 import { slovakiaAllPoi } from "../data/slovakiaPoi";

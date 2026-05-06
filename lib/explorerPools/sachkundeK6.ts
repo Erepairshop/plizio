@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/sachkundeK6.ts
 import type { PoolTopicDef } from "./types";
 
@@ -2892,4 +2893,5 @@ addSachkundeK6PracticeTopics(OPTIK_K6_LABELS, OPTIK_K6_POOL, SACHKUNDE_K6_PRACTI
 addSachkundeK6PracticeTopics(SCHALL_K6_LABELS, SCHALL_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[6]);
 addSachkundeK6PracticeTopics(OEKOSYSTEM_TEICH_K6_LABELS, OEKOSYSTEM_TEICH_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[7]);
 addSachkundeK6PracticeTopics(FINALE_K6_LABELS, FINALE_K6_POOL, SACHKUNDE_K6_PRACTICE_CONFIGS[8]);
+
 

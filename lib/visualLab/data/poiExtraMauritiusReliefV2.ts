@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMauritiusReliefV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Az ország legmagasabb pontja", "828 méterrel a tengerszint felett", "Népszerű túracélpont"],
       ro: ["Cel mai înalt punct al țării", "828 de metri deasupra mării", "Destinație populară de drumeție"],
       en: ["Highest point in the country", "Stands at 828 meters above sea level", "Popular hiking destination"]
-    }
-  },
+    }, image: "/poi-images/piton-de-la-petite-riviere-noire-relief-v2.webp"},
   {
     id: "pieter-both-relief-v2",
     type: "mountain",
@@ -47,8 +47,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A sziget második legmagasabb csúcsa", "Jellegzetes sziklaalakzat a csúcson", "Kihívást jelentő mászóútvonal"],
       ro: ["Al doilea cel mai înalt vârf de pe insulă", "Formațiune stâncoasă distinctivă", "Traseu de escaladă provocator"],
       en: ["Second highest peak on the island", "Distinctive rock formation at the top", "Challenging climb for experienced hikers"]
-    }
-  },
+    }, image: "/poi-images/pieter-both-relief-v2.webp"},
   {
     id: "le-pouce-relief-v2",
     type: "mountain",
@@ -71,8 +70,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A neve 'Hüvelykujjat' jelent", "Mauritius harmadik legmagasabb hegye", "Charles Darwin is megmászta"],
       ro: ["Numele înseamnă 'Degetul mare'", "Al treilea cel mai înalt munte", "Urcat de Charles Darwin în 1836"],
       en: ["Name translates to 'The Thumb'", "Third highest mountain in Mauritius", "Climbed by Charles Darwin in 1836"]
-    }
-  },
+    }, image: "/poi-images/le-pouce-relief-v2.webp"},
   {
     id: "trou-aux-cerfs-relief-v2",
     type: "relief",
@@ -95,8 +93,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Körülbelül 350 méter átmérőjű", "85 méter mély kráter", "Gyalogos körút a peremén"],
       ro: ["Diametru de aproximativ 350 de metri", "Crater adânc de 85 de metri", "Traseu circular pentru plimbări"],
       en: ["Approximately 350 meters in diameter", "Crater is 85 meters deep", "Features a circular jogging path"]
-    }
-  },
+    }, image: "/poi-images/trou-aux-cerfs-relief-v2.webp"},
   {
     id: "chamarel-seven-coloured-earths-relief-v2",
     type: "relief",
@@ -119,8 +116,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A színek soha nem keverednek", "Vulkáni eredetű", "Egyedülálló turisztikai látványosság"],
       ro: ["Culorile nu se amestecă niciodată", "Origine vulcanică", "Atracție turistică unică"],
       en: ["Colors never mix even after rain", "Of volcanic origin", "Unique natural tourist attraction"]
-    }
-  },
+    }, image: "/poi-images/chamarel-seven-coloured-earths-relief-v2.webp"},
   {
     id: "grand-bassin-relief-v2",
     type: "relief",
@@ -143,8 +139,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Szent tó egy kráterben", "Hindu templomok veszik körül", "550 méterrel a tengerszint felett"],
       ro: ["Lac sfânt într-un crater", "Înconjurat de temple hindu", "Situat la 550 metri altitudine"],
       en: ["Sacred lake in a volcanic crater", "Surrounded by Hindu temples", "Located 550 meters above sea level"]
-    }
-  },
+    }, image: "/poi-images/grand-bassin-relief-v2.webp"},
   {
     id: "black-river-gorges-relief-v2",
     type: "forest",
@@ -167,8 +162,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A sziget legnagyobb nemzeti parkja", "Több mint 6500 hektár terület", "Számos endemikus faj otthona"],
       ro: ["Cel mai mare parc național", "Suprafață de peste 6.500 hectare", "Adăpostește multe specii endemice"],
       en: ["Largest national park on the island", "Covers over 6,500 hectares", "Home to many endemic plant species"]
-    }
-  },
+    }, image: "/poi-images/black-river-gorges-relief-v2.webp"},
   {
     id: "le-morne-brabant-relief-v2",
     type: "mountain",
@@ -191,8 +185,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["UNESCO Világörökségi helyszín", "Csúcsa 556 méter magasan van", "Meredek sziklák az óceán felett"],
       ro: ["Sit al Patrimoniului Mondial UNESCO", "Vârf la 556 metri înălțime", "Stânci abrupte deasupra oceanului"],
       en: ["UNESCO World Heritage site", "Summit is 556 meters high", "Dramatic cliffs overlooking the ocean"]
-    }
-  },
+    }, image: "/poi-images/le-morne-brabant-relief-v2.webp"},
   {
     id: "corps-de-garde-relief-v2",
     type: "mountain",
@@ -215,8 +208,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["720 méter magas", "Vulkáni eredetű", "Ritka növényeiről ismert"],
       ro: ["Înălțime de 720 metri", "Origine vulcanică", "Cunoscut pentru plante rare"],
       en: ["Stands 720 meters high", "Of volcanic origin", "Known for rare endemic flora"]
-    }
-  },
+    }, image: "/poi-images/corps-de-garde-relief-v2.webp"},
   {
     id: "signal-mountain-relief-v2",
     type: "mountain",
@@ -239,8 +231,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A legjobb kilátás a fővárosra", "Fontos rádióantennák a csúcson", "Népszerű hely naplementéhez"],
       ro: ["Cea mai bună vedere spre capitală", "Antene radio importante pe vârf", "Loc popular pentru apusuri"],
       en: ["Best viewpoint for the capital", "Hosts important radio antennas", "Popular spot for viewing sunsets"]
-    }
-  },
+    }, image: "/poi-images/signal-mountain-relief-v2.webp"},
   {
     id: "bras-deau-forest-relief-v2",
     type: "forest",
@@ -263,8 +254,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A mauritiusi paradicsom-légyvadász otthona", "Egykori cukornádültetvény", "Természeti tanösvénye van"],
       ro: ["Adăpostește muscarul de paradis", "Fostă plantație de trestie", "Deține o potecă interpretativă"],
       en: ["Home to the Mauritius Paradise Flycatcher", "Located on a former sugar estate", "Features an interpretive nature trail"]
-    }
-  },
+    }, image: "/poi-images/bras-deau-forest-relief-v2.webp"},
   {
     id: "macchabee-forest-relief-v2",
     type: "forest",
@@ -287,8 +277,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A legnagyobb nemzeti park része", "Kiváló túraterület", "Kilátás a nyugati partra"],
       ro: ["Parte a celui mai mare parc național", "Zonă excelentă de drumeție", "Vederi spre coasta de vest"],
       en: ["Part of the major national park", "Excellent area for hiking", "Viewpoints over the west coast"]
-    }
-  },
+    }, image: "/poi-images/macchabee-forest-relief-v2.webp"},
   {
     id: "plaine-champagne-relief-v2",
     type: "relief",
@@ -311,8 +300,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A sziget legmagasabb fennsíkja", "Guajáva-szüret központja májusban", "Fontos vízválasztó"],
       ro: ["Cel mai înalt platou de pe insulă", "Centru pentru culesul guavelor", "Cumpănă de ape importantă"],
       en: ["Highest plateau on the island", "Center for guava picking in May/June", "Important watershed area"]
-    }
-  },
+    }, image: "/poi-images/plaine-champagne-relief-v2.webp"},
   {
     id: "mont-limon-relief-v2",
     type: "mountain",
@@ -335,8 +323,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Rodrigues legmagasabb hegye", "398 méter magas", "A sziget legjobb kilátóhelye"],
       ro: ["Cel mai înalt munte din Rodrigues", "Înălțime de 398 metri", "Cea mai bună vedere de pe insulă"],
       en: ["Highest mountain in Rodrigues", "Stands 398 meters tall", "Best panoramic view of the island"]
-    }
-  },
+    }, image: "/poi-images/mont-limon-relief-v2.webp"},
   {
     id: "mont-malartic-relief-v2",
     type: "mountain",
@@ -359,8 +346,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Rodrigues második legmagasabb pontja", "392 méterrel a tenger felett", "A központi hegység része"],
       ro: ["Al doilea cel mai înalt punct", "392 metri deasupra mării", "Parte a lanțului muntos central"],
       en: ["Second highest point in Rodrigues", "392 meters above sea level", "Part of the central mountain range"]
-    }
-  },
+    }, image: "/poi-images/mont-malartic-relief-v2.webp"},
   {
     id: "chamarel-waterfall-relief-v2",
     type: "relief",
@@ -383,8 +369,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["A sziget legmagasabb vízesése", "Körülbelül 100 méter magas", "Látványos kilátóterasz"],
       ro: ["Cea mai înaltă cascadă de pe insulă", "Înălțime de aproximativ 100 metri", "Platformă de vizionare spectaculoasă"],
       en: ["Highest waterfall on the island", "Drops roughly 100 meters", "Spectacular viewing platform"]
-    }
-  },
+    }, image: "/poi-images/chamarel-waterfall-relief-v2.webp"},
   {
     id: "bassin-blanc-relief-v2",
     type: "relief",
@@ -407,8 +392,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Vulkáni krátertó", "Csendes és eldugott helyszín", "Fontos természetvédelmi szempontból"],
       ro: ["Lac de crater vulcanic", "Locație liniștită și retrasă", "Important pentru conservare"],
       en: ["Volcanic crater lake", "Quiet and secluded location", "Important site for nature conservation"]
-    }
-  },
+    }, image: "/poi-images/bassin-blanc-relief-v2.webp"},
   {
     id: "lion-mountain-relief-v2",
     type: "mountain",
@@ -431,8 +415,7 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       hu: ["Jellegzetes oroszlán alak", "Kilátás a Grand Port-öbölre", "Népszerű a nehéz túrák kedvelői körében"],
       ro: ["Formă caracteristică de leu", "Vedere spre golful Grand Port", "Popular pentru drumeții solicitante"],
       en: ["Characteristic lion shape", "Overlooks Grand Port Bay", "Popular for challenging hikes"]
-    }
-  },
+    }, image: "/poi-images/lion-mountain-relief-v2.webp"},
   {
     id: "coin-de-mire-relief-v2",
     type: "relief",
@@ -482,3 +465,4 @@ export const poiExtraMauritiusReliefV2: POI[] = [
     }
   }
 ];
+

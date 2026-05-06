@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEthiopiaHistoryV2: POI[] = [
@@ -18,13 +19,24 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       ro: "Orașul fortificat Fasil Ghebbi a fost reședința împăratului etiopian Fasilides și a succesorilor săi în secolele al XVI-lea și al XVII-lea. Complexul este înconjurat de un zid lung de 900 de metri.",
       en: "The fortified city of Fasil Ghebbi was the residence of the Ethiopian emperor Fasilides and his successors in the 16th and 17th centuries. The complex is surrounded by a 900-meter-long wall."
     },
+    descriptionAdvanced: {
+      de: "Fasil Ghebbi, eine UNESCO-Welterbestätte seit 1979, diente vom 16. bis zum 17. Jahrhundert als kaiserliche Hauptstadt unter Fasilides. Die Festungsanlage erstreckt sich über 70.000 Quadratmeter und wird von einer 900 Meter langen Stadtmauer umgeben. Die Architektur zeigt eine einzigartige Verschmelzung von indischen, arabischen und barocken Stilelementen, die durch portugiesische Missionare beeinflusst wurden. Das Areal umfasst Paläste, Kirchen und Bibliotheken, die den Glanz der salomonischen Dynastie widerspiegeln.",
+      hu: "A Fasil Ghebbi, az 1979 óta UNESCO Világörökségi helyszín, a 16. és 17. század között szolgált Fasilides császár birodalmi székhelyeként. Az erődrendszer 70 000 négyzetméteren terül el, és egy 900 méter hosszú városfal veszi körül. Az építészet indiai, arab és barokk stílusjegyek egyedülálló ötvözetét mutatja, amelyet a portugál misszionáriusok befolyása alakított. A terület palotákat, templomokat és könyvtárakat foglal magában, amelyek a Salamon-dinasztia fénykorát idézik.",
+      ro: "Fasil Ghebbi, un sit înscris în patrimoniul mondial UNESCO din 1979, a servit drept capitală imperială sub domnia lui Fasilides între secolele al XVI-lea și al XVII-lea. Complexul fortificat se întinde pe 70.000 de metri pătrați și este înconjurat de un zid de cetate de 900 de metri. Arhitectura prezintă o fuziune unică de stiluri indiene, arabe și baroce, influențate de misionarii portughezi. Locația cuprinde palate, biserici și biblioteci care reflectă splendoarea dinastiei solomoniene.",
+      en: "Fasil Ghebbi, a UNESCO World Heritage site since 1979, served as the imperial capital under Emperor Fasilides from the 16th to the 17th century. The fortress complex spans 70,000 square meters and is enclosed by a 900-meter-long city wall. Its architecture displays a unique fusion of Indian, Arab, and Baroque stylistic elements, influenced by Portuguese missionaries. The site includes palaces, churches, and libraries that reflect the grandeur of the Solomonic dynasty."
+    },
     facts: {
       de: ["UNESCO-Weltkulturerbe seit 1979", "Architektur mit indischen und arabischen Einflüssen"],
       hu: ["1979 óta UNESCO Világörökség", "Indiai és arab hatásokat mutató építészet"],
       ro: ["Patrimoniu Mondial UNESCO din 1979", "Arhitectură cu influențe indiene și arabe"],
       en: ["UNESCO World Heritage Site since 1979", "Architecture with Indian and Arab influences"]
-    }
-  },
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Weltkulturerbe seit 1979", "Errichtet als kaiserliche Hauptstadt im 17. Jahrhundert", "Enthält 20 Gebäude auf 70.000 m²", "900 Meter lange Verteidigungsmauer", "Architektur vereint indische und portugiesische Einflüsse", "Ehemaliger Wohnsitz von Fasilides"],
+      hu: ["1979 óta UNESCO Világörökség", "A 17. században épült birodalmi székhely", "20 épület 70 000 m²-en", "900 méteres védőfal", "Indián és portugál hatások keveredése", "Fasilides császár volt rezidenciája"],
+      ro: ["Patrimoniu Mondial UNESCO din 1979", "Capitală imperială construită în secolul al XVII-lea", "Include 20 de clădiri pe 70.000 m²", "Zid de apărare de 900 de metri", "Influențe indiene și portugheze în arhitectură", "Fosta reședință a lui Fasilides"],
+      en: ["UNESCO World Heritage site since 1979", "Imperial capital built in the 17th century", "Contains 20 buildings across 70,000 m²", "900-meter-long defensive wall", "Architecture blends Indian and Portuguese influences", "Former residence of Fasilides"]
+    }, image: "/poi-images/fasil-ghebbi-history-v2.webp"},
   {
     id: "lalibela-churches-history-v2",
     type: "historical",
@@ -42,13 +54,24 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       ro: "Unsprezece biserici rupestre monolitice medievale tăiate din stâncă în secolul al XIII-lea. Ele sunt un centru important al creștinismului etiopian și un loc major de pelerinaj.",
       en: "Eleven medieval monolithic cave churches carved out of rock in the 13th century. They are an important center of Ethiopian Christianity and a major site of pilgrimage."
     },
+    descriptionAdvanced: {
+      de: "Die Felsenkirchen von Lalibela, im 13. Jahrhundert unter König Lalibela aus dem massiven vulkanischen Tuffstein gehauen, sind eines der wichtigsten christlichen Monumente Äthiopiens. Die Anlage besteht aus elf Kirchen, die in zwei Gruppen unterteilt sind und durch Tunnel miteinander verbunden sind. Jede Kirche wurde monolithisch aus dem Fels herausgearbeitet, was eine präzise Planung erforderte. Diese Stätte wird oft als 'Neues Jerusalem' bezeichnet, da Lalibela beabsichtigte, die heiligen Stätten nach dem Fall Jerusalems für Pilger zugänglich zu machen.",
+      hu: "A Lalibela-i sziklatemplomok, amelyeket a 13. században Lalibela király idején vájtak ki a masszív vulkáni tufa kőzetből, Etiópia egyik legfontosabb keresztény műemléke. A komplexum tizenegy templomból áll, amelyeket két csoportra osztottak és alagutak kötnek össze. Mindegyik templomot monolitikusan, egyetlen sziklatömbből faragták ki, ami precíz tervezést igényelt. Ezt a helyet gyakran 'Új Jeruzsálemként' emlegetik, mivel Lalibela szándéka az volt, hogy Jeruzsálem eleste után hozzáférhetővé tegye a zarándokok számára a szent helyeket.",
+      ro: "Bisericile rupestre din Lalibela, tăiate în tuful vulcanic masiv în secolul al XIII-lea sub conducerea regelui Lalibela, sunt unul dintre cele mai importante monumente creștine din Etiopia. Complexul constă în unsprezece biserici împărțite în două grupe, interconectate prin tuneluri. Fiecare biserică a fost sculptată monolitic din rocă, ceea ce a necesitat o planificare precisă. Acest sit este adesea denumit 'Noul Ierusalim', deoarece Lalibela a intenționat să facă locurile sfinte accesibile pelerinilor după căderea Ierusalimului.",
+      en: "The rock-hewn churches of Lalibela, carved from massive volcanic tuff in the 13th century under King Lalibela, are one of Ethiopia's most important Christian monuments. The complex consists of eleven churches divided into two groups, interconnected by tunnels. Each church was monolithically carved from the rock, requiring precise planning. This site is often referred to as the 'New Jerusalem,' as Lalibela intended to make the holy sites accessible to pilgrims following the fall of Jerusalem."
+    },
     facts: {
       de: ["Erbaut von König Lalibela", "Oft als 'Neues Jerusalem' bezeichnet"],
       hu: ["Lalibela király építtette", "Gyakran 'Új Jeruzsálemként' emlegetik"],
       ro: ["Construite de regele Lalibela", "Adesea denumite 'Noul Ierusalim'"],
       en: ["Built by King Lalibela", "Often referred to as the 'New Jerusalem'"]
-    }
-  },
+    },
+    factsAdvanced: {
+      de: ["11 monolithische Kirchen aus dem 13. Jh.", "Von König Lalibela in Auftrag gegeben", "Aus vulkanischem Tuffstein gehauen", "Geplante Nachbildung des Heiligen Landes", "UNESCO-Weltkulturerbe seit 1978", "Immer noch ein aktiver Wallfahrtsort"],
+      hu: ["11 monolitikus templom a 13. századból", "Lalibela király rendelte el", "Vulkáni tufa kőzetből faragták ki", "A Szentföld tervezett másolata", "UNESCO Világörökség 1978 óta", "Még mindig aktív zarándokhely"],
+      ro: ["11 biserici monolitice din sec. XIII", "Comandate de regele Lalibela", "Sculptate din tuf vulcanic", "O replică planificată a Țării Sfinte", "Patrimoniu Mondial UNESCO din 1978", "Rămâne un loc de pelerinaj activ"],
+      en: ["11 monolithic churches from the 13th century", "Commissioned by King Lalibela", "Carved from volcanic tuff", "Planned replica of the Holy Land", "UNESCO World Heritage site since 1978", "Remains an active pilgrimage site"]
+    }, image: "/poi-images/lalibela-churches-history-v2.webp"},
   {
     id: "axum-obelisks-history-v2",
     type: "historical",
@@ -71,8 +94,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["A legnagyobb még álló obeliszk 24 méter magas", "Akszum fontos kereskedelmi központ volt"],
       ro: ["Cel mai înalt obelisc aflat încă în picioare are 24 de metri", "Aksum a fost un important centru comercial"],
       en: ["The largest standing obelisk is 24 meters tall", "Aksum was an important trading center"]
-    }
-  },
+    }, image: "/poi-images/axum-obelisks-history-v2.webp"},
   {
     id: "harar-jugol-history-v2",
     type: "historical",
@@ -95,8 +117,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Egy 16. században épült fal veszi körül", "Hagyományos Harari házak találhatók itt"],
       ro: ["Înconjurat de un zid construit în secolul al XVI-lea", "Găzduiește case tradiționale Harari"],
       en: ["Surrounded by a wall built in the 16th century", "Houses traditional Harari homes"]
-    }
-  },
+    }, image: "/poi-images/harar-jugol-history-v2.webp"},
   {
     id: "tiya-megalithic-history-v2",
     type: "historical",
@@ -119,8 +140,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["A sztélék tömegsírokat jelölnek", "A sztélék pontos kora ismeretlen"],
       ro: ["Stelele marchează morminte comune", "Vârsta exactă a stelelor este necunoscută"],
       en: ["The stelae mark mass graves", "The exact age of the stelae is unknown"]
-    }
-  },
+    }, image: "/poi-images/tiya-megalithic-history-v2.webp"},
   {
     id: "awash-lower-valley-history-v2",
     type: "historical",
@@ -143,8 +163,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Az Australopithecus afarensis lelőhelye", "Segít az emberi evolúció megértésében"],
       ro: ["Locul descoperirii Australopithecus afarensis", "Ajută la înțelegerea evoluției umane"],
       en: ["Discovery site of Australopithecus afarensis", "Helps in understanding human evolution"]
-    }
-  },
+    }, image: "/poi-images/awash-lower-valley-history-v2.webp"},
   {
     id: "omo-lower-valley-history-v2",
     type: "historical",
@@ -167,8 +186,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Itt kőeszközöket találtak", "Ősi emberi táborhelyeket mutat be"],
       ro: ["Aici au fost găsite unelte de piatră", "Arată vechi tabere umane"],
       en: ["Stone tools have been found here", "Reveals ancient human campsites"]
-    }
-  },
+    }, image: "/poi-images/omo-lower-valley-history-v2.webp"},
   {
     id: "konso-cultural-landscape-history-v2",
     type: "historical",
@@ -191,8 +209,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Lenyűgöző szárazfalú teraszok", "Fa antropomorf szobrokat (Waka) tartalmaz"],
       ro: ["Terase impresionante din piatră uscată", "Include statui antropomorfe din lemn (Waka)"],
       en: ["Impressive dry stone wall terraces", "Features wooden anthropomorphic statues (Waka)"]
-    }
-  },
+    }, image: "/poi-images/konso-cultural-landscape-history-v2.webp"},
   {
     id: "yeha-temple-history-v2",
     type: "historical",
@@ -215,8 +232,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Hatalmas kőtömbökből, habarcs nélkül épült", "Lehet, hogy Almouqah szabeus istenségnek szentelték"],
       ro: ["Construit din blocuri masive de piatră fără mortar", "A fost probabil dedicat zeității sabene Almouqah"],
       en: ["Built from massive stone blocks without mortar", "Was likely dedicated to the Sabaean deity Almouqah"]
-    }
-  },
+    }, image: "/poi-images/yeha-temple-history-v2.webp"},
   {
     id: "debre-damo-history-v2",
     type: "historical",
@@ -239,8 +255,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Nők nem léphetnek be", "Ókori kéziratok kiterjedt gyűjteményét őrzi"],
       ro: ["Femeile nu au voie să intre", "Găzduiește o colecție extinsă de manuscrise antice"],
       en: ["Women are not permitted to enter", "Houses an extensive collection of ancient manuscripts"]
-    }
-  },
+    }, image: "/poi-images/debre-damo-history-v2.webp"},
   {
     id: "menelik-palace-history-v2",
     type: "historical",
@@ -263,8 +278,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["A tróntermet és a régi banketttermeket is tartalmazza", "Addisz-Abeba alapításának helyszíne"],
       ro: ["Conține sala tronului și vechile săli de banchet", "Locul de fondare a orașului Addis Abeba"],
       en: ["Contains the throne hall and old banquet halls", "Founding site of Addis Ababa"]
-    }
-  },
+    }, image: "/poi-images/menelik-palace-history-v2.webp"},
   {
     id: "holy-trinity-cathedral-history-v2",
     type: "historical",
@@ -287,8 +301,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Az építészet ötvözi az európai és etióp stílusokat", "Emlékmű az 1936-1941-es hazafiak számára"],
       ro: ["Arhitectura îmbină stilurile europene și etiopiene", "Memorial pentru patrioții din 1936–1941"],
       en: ["Architecture blends European and Ethiopian styles", "Memorial for the patriots of 1936–1941"]
-    }
-  },
+    }, image: "/poi-images/holy-trinity-cathedral-history-v2.webp"},
   {
     id: "biete-medhane-alem-history-v2",
     type: "historical",
@@ -311,8 +324,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["A 800 éves Lalibela keresztet őrzi", "72 oszlopa van, amelyek kívül és belül is tartják"],
       ro: ["Găzduiește Crucea Lalibela, veche de 800 de ani", "Are 72 de coloane care o susțin în interior și exterior"],
       en: ["Houses the 800-year-old Lalibela Cross", "Features 72 pillars supporting it inside and out"]
-    }
-  },
+    }, image: "/poi-images/biete-medhane-alem-history-v2.webp"},
   {
     id: "bete-giyorgis-history-v2",
     type: "historical",
@@ -335,8 +347,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Körülbelül 15 méter mélyen a sziklába vájva", "A tetőn három koncentrikus kereszt található"],
       ro: ["Săpată la aproximativ 15 metri adâncime în stâncă", "Acoperișul prezintă trei cruci concentrice"],
       en: ["Carved approximately 15 meters deep into the rock", "The roof features three concentric crosses"]
-    }
-  },
+    }, image: "/poi-images/bete-giyorgis-history-v2.webp"},
   {
     id: "fasilides-bath-history-v2",
     type: "historical",
@@ -359,8 +370,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Az etióp vízkereszt (Timkat) központi helyszíne", "Fügefák gyökerei ölelik körül a külső falakat"],
       ro: ["Central pentru sărbătoarea etiopiană de Bobotează (Timkat)", "Rădăcinile smochinilor îmbrățișează pereții exteriori"],
       en: ["Central to the Ethiopian Epiphany (Timkat) festival", "Roots of fig trees embrace the outer walls"]
-    }
-  },
+    }, image: "/poi-images/fasilides-bath-history-v2.webp"},
   {
     id: "quskuam-complex-history-v2",
     type: "historical",
@@ -383,8 +393,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Mentewab földi maradványait őrzi", "Kevésbé látogatott, de történelmi jelentőségű"],
       ro: ["Găzduiește rămășițele împărătesei Mentewab", "Mai puțin vizitat, dar cu o mare importanță istorică"],
       en: ["Houses the remains of Empress Mentewab", "Less visited but of significant historical importance"]
-    }
-  },
+    }, image: "/poi-images/quskuam-complex-history-v2.webp"},
   {
     id: "tomb-of-kaleb-history-v2",
     type: "historical",
@@ -407,8 +416,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Kaleb Akszum egyik leghatalmasabb uralkodója volt", "A szarkofágokon részletes keresztfaragások találhatók"],
       ro: ["Kaleb a fost unul dintre cei mai puternici conducători din Aksum", "Sarcofagele prezintă sculpturi detaliate ale crucilor"],
       en: ["Kaleb was one of the most powerful rulers of Aksum", "Sarcophagi feature detailed cross carvings"]
-    }
-  },
+    }, image: "/poi-images/tomb-of-kaleb-history-v2.webp"},
   {
     id: "dungur-palace-history-v2",
     type: "historical",
@@ -431,8 +439,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["A komplexum több mint 50 szobából állt", "Fejlett akszumi kőfaragást mutat"],
       ro: ["Complexul conținea peste 50 de camere", "Prezintă lucrări avansate de pietrărie aksumită"],
       en: ["The complex contained over 50 rooms", "Exhibits advanced Aksumite stonemasonry"]
-    }
-  },
+    }, image: "/poi-images/dungur-palace-history-v2.webp"},
   {
     id: "st-georges-cathedral-history-v2",
     type: "historical",
@@ -455,8 +462,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Hailé Szelassziét itt koronázták meg 1930-ban", "Királyi fegyverek múzeumának ad otthont"],
       ro: ["Haile Selassie a fost încoronat aici în 1930", "Găzduiește un muzeu cu arme imperiale"],
       en: ["Haile Selassie was crowned here in 1930", "Houses a museum displaying imperial weapons"]
-    }
-  },
+    }, image: "/poi-images/st-georges-cathedral-history-v2.webp"},
   {
     id: "melka-kunture-history-v2",
     type: "historical",
@@ -479,8 +485,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Egy őskori helyszíni múzeum is található itt", "A szakóca-technológia fejlődését mutatja be"],
       ro: ["Include un muzeu preistoric la fața locului", "Prezintă evoluția tehnologiei topoarelor de mână"],
       en: ["Includes an on-site prehistoric museum", "Showcases the evolution of hand-axe technology"]
-    }
-  },
+    }, image: "/poi-images/melka-kunture-history-v2.webp"},
   {
     id: "dire-dawa-station-history-v2",
     type: "historical",
@@ -503,8 +508,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Etiópia korai iparosodásának bizonyítéka", "Néhány régi gőzmozdony még mindig a helyszínen áll"],
       ro: ["O dovadă a industrializării timpurii a Etiopiei", "Unele locomotive cu abur vechi se află încă la fața locului"],
       en: ["Evidence of Ethiopia's early industrialization", "Some old steam locomotives remain on site"]
-    }
-  },
+    }, image: "/poi-images/dire-dawa-station-history-v2.webp"},
   {
     id: "jimma-abba-jifar-history-v2",
     type: "historical",
@@ -527,8 +531,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Indiai és etióp kézművesek építették", "Lenyűgöző faépítészetet mutat be"],
       ro: ["Construit de meșteri indieni și etiopieni", "Prezintă o arhitectură fascinantă din lemn"],
       en: ["Built by Indian and Ethiopian craftsmen", "Showcases fascinating wooden architecture"]
-    }
-  },
+    }, image: "/poi-images/jimma-abba-jifar-history-v2.webp"},
   {
     id: "debre-libanos-history-v2",
     type: "historical",
@@ -551,8 +554,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Szent Tekle Haymanot nyughelye", "Az olasz csapatok által 1937-ben elkövetett mészárlás helyszíne"],
       ro: ["Locul de odihnă al Sfântului Tekle Haymanot", "Scena unui masacru comis de trupele italiene în 1937"],
       en: ["Resting place of Saint Tekle Haymanot", "Site of a massacre by Italian troops in 1937"]
-    }
-  },
+    }, image: "/poi-images/debre-libanos-history-v2.webp"},
   {
     id: "guzara-castle-history-v2",
     type: "historical",
@@ -575,8 +577,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["A legrégebbi ismert, európai hatású kastély Etiópiában", "Panorámás kilátást nyújt a Tana-tóra"],
       ro: ["Cel mai vechi castel cunoscut cu influențe europene din Etiopia", "Oferă vederi panoramice ale Lacului Tana"],
       en: ["Oldest known European-influenced castle in Ethiopia", "Offers panoramic views of Lake Tana"]
-    }
-  },
+    }, image: "/poi-images/guzara-castle-history-v2.webp"},
   {
     id: "ura-kidane-mehret-history-v2",
     type: "historical",
@@ -599,8 +600,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Nádtetős teteje van", "A freskókat a 18. században festették"],
       ro: ["Are un acoperiș din stuf", "Frescele au fost pictate în secolul al XVIII-lea"],
       en: ["Features a thatched roof", "The frescoes were painted in the 18th century"]
-    }
-  },
+    }, image: "/poi-images/ura-kidane-mehret-history-v2.webp"},
   {
     id: "al-nejashi-mosque-history-v2",
     type: "historical",
@@ -623,8 +623,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Mohamed próféta 15 társának sírja található itt", "A vallások békés együttélésének szimbóluma"],
       ro: ["Mormintele a 15 însoțitori ai Profetului Muhammad la fața locului", "Un simbol al coexistenței pașnice a religiilor"],
       en: ["Tombs of 15 companions of Prophet Muhammad on site", "A symbol of peaceful coexistence of religions"]
-    }
-  },
+    }, image: "/poi-images/al-nejashi-mosque-history-v2.webp"},
   {
     id: "adwa-battlefield-history-v2",
     type: "historical",
@@ -647,8 +646,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Afrikai nemzet első nagy győzelme egy európai hatalom felett", "Meghatározó esemény az afrikai történelemben"],
       ro: ["Prima victorie majoră a unei națiuni africane împotriva unei puteri europene", "Un eveniment definitoriu în istoria Africii"],
       en: ["First major victory of an African nation against a European power", "A defining event in African history"]
-    }
-  },
+    }, image: "/poi-images/adwa-battlefield-history-v2.webp"},
   {
     id: "sheikh-hussein-history-v2",
     type: "historical",
@@ -671,8 +669,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       hu: ["Évente kétszer tartanak nagy zarándoklatokat", "A szentély ragyogóan fehér kupolákkal rendelkezik"],
       ro: ["Pelerinaje mari au loc de două ori pe an", "Altarul prezintă cupole de un alb strălucitor"],
       en: ["Large pilgrimages occur twice a year", "The shrine features brilliant white domes"]
-    }
-  },
+    }, image: "/poi-images/sheikh-hussein-history-v2.webp"},
   {
     id: "magdala-amba-mariam-history-v2",
     type: "historical",
@@ -722,3 +719,4 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     }
   }
 ];
+

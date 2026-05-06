@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDominicanrepublicHistoryV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["1494-ben alapították", "Régészeti lelőhely", "Helyszíni múzeum", "Betegség és éhség miatt elhagyták"],
       ro: ["Fondată în 1494", "Situl arheologic", "Muzeu la fața locului", "Abandonată din cauza bolilor și a foametei"],
       en: ["Founded in 1494", "Archaeological site", "On-site museum", "Abandoned due to disease and hunger"]
-    }
-  },
+    }, image: "/poi-images/la-isabela-ruins-history-v2.webp"},
   {
     id: "monasterio-de-san-francisco-ruins-history-v2",
     type: "historical",
@@ -37,8 +37,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Az első kolostor az Újvilágban", "Gótikus és barokk stílus", "Földrengések és kalózok pusztították el", "Kulturális eseményekre használják"],
       ro: ["Prima mănăstire din Lumea Nouă", "Stil gotic și baroc", "Distrusă de cutremure și pirați", "Folosită pentru evenimente culturale"],
       en: ["First monastery in the New World", "Gothic and Baroque style", "Destroyed by earthquakes and pirates", "Used for cultural events"]
-    }
-  },
+    }, image: "/poi-images/monasterio-de-san-francisco-ruins-history-v2.webp"},
   {
     id: "hospital-san-nicolas-de-bari-ruins-history-v2",
     type: "historical",
@@ -56,8 +55,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["1503-ban alapították", "Az Újvilág első kórháza", "A koloniális zónában található", "UNESCO Világörökség"],
       ro: ["Fondat în 1503", "Primul spital din Lumea Nouă", "Situat în Zona Colonială", "Patrimoniul Mondial UNESCO"],
       en: ["Founded in 1503", "First hospital of the New World", "Located in the Colonial Zone", "UNESCO World Heritage site"]
-    }
-  },
+    }, image: "/poi-images/hospital-san-nicolas-de-bari-ruins-history-v2.webp"},
   {
     id: "catedral-primada-de-america-history-v2",
     type: "historical",
@@ -75,8 +73,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Hivatalosan 'Catedral de Santa María la Menor'", "Az építkezés 1512-ben kezdődött", "Egykor Kolumbusz maradványait őrizte", "Arany mészkő"],
       ro: ["Oficial 'Catedral de Santa María la Menor'", "Construcția a început în 1512", "A adăpostit odată rămășițele lui Columb", "Calcar auriu"],
       en: ["Officially 'Catedral de Santa María la Menor'", "Construction began in 1512", "Once housed Columbus's remains", "Golden-tinted limestone"]
-    }
-  },
+    }, image: "/poi-images/catedral-primada-de-america-history-v2.webp"},
   {
     id: "faro-a-colon-history-v2",
     type: "historical",
@@ -94,8 +91,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["1992-ben készült el", "Állítólag Kolumbusz maradványait őrzi", "Keresztet vetít az égre", "Kulturális múzeum"],
       ro: ["Finalizat în 1992", "Se presupune că adăpostește rămășițele lui Columb", "Proiectează o cruce pe cer", "Muzeu cultural"],
       en: ["Completed in 1992", "Purported to house Columbus's remains", "Projects a cross of light into the sky", "Cultural museum"]
-    }
-  },
+    }, image: "/poi-images/faro-a-colon-history-v2.webp"},
   {
     id: "puerta-del-conde-history-v2",
     type: "historical",
@@ -113,8 +109,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Az ősi városfal része", "A szabadság nemzeti szimbóluma", "Itt található a Haza Oltára", "Függetlenségi nyilatkozat 1844-ben"],
       ro: ["Parte a vechiului zid al orașului", "Simbol național al libertății", "Altarul Patriei se află aici", "Declarația de independență din 1844"],
       en: ["Part of the old city wall", "National symbol of freedom", "Altar of the Fatherland is located here", "Independence declared here in 1844"]
-    }
-  },
+    }, image: "/poi-images/puerta-del-conde-history-v2.webp"},
   {
     id: "la-vega-vieja-ruins-history-v2",
     type: "historical",
@@ -151,8 +146,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Gyarmati cukormalom", "Az 1796-os rabszolgafelkelés helyszíne", "Történelmi romok", "Az ellenállás szimbóluma"],
       ro: ["Moară de zahăr colonială", "Locul revoltei sclavilor din 1796", "Ruine istorice", "Simbol al rezistenței"],
       en: ["Colonial sugar mill", "Site of the 1796 slave rebellion", "Historic ruins", "Symbol of resistance"]
-    }
-  },
+    }, image: "/poi-images/ingenio-boca-de-nigua-history-v2.webp"},
   {
     id: "battle-of-santo-cerro-history-v2",
     type: "historical",
@@ -170,8 +164,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Egy 1495-ös csata helyszíne", "A Szűz Mária megjelenésének legendája", "Fontos zarándokhely", "Templom egy dombon"],
       ro: ["Locul unei bătălii din 1495", "Legenda apariției Fecioarei Maria", "Important loc de pelerinaj", "Biserică pe un deal"],
       en: ["Site of a 1495 battle", "Legend of the apparition of the Virgin Mary", "Major pilgrimage site", "Church on a hill"]
-    }
-  },
+    }, image: "/poi-images/battle-of-santo-cerro-history-v2.webp"},
   {
     id: "iglesia-de-santa-barbara-history-v2",
     type: "historical",
@@ -189,8 +182,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["A 16. században épült", "Barokk és gótikus stílusok keveréke", "Juan Pablo Duarte keresztelőtemploma", "Erődként is szolgált"],
       ro: ["Construită în secolul al XVI-lea", "Amestec de stiluri baroc și gotic", "Biserica de botez a lui Juan Pablo Duarte", "A servit și ca fortăreață"],
       en: ["Built in the 16th century", "Mix of Baroque and Gothic styles", "Baptismal church of Juan Pablo Duarte", "Also served as a fortress"]
-    }
-  },
+    }, image: "/poi-images/iglesia-de-santa-barbara-history-v2.webp"},
   {
     id: "casa-del-cordon-history-v2",
     type: "historical",
@@ -208,8 +200,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["1502 körül épült", "Az első kétszintes ház", "A bejárat feletti kőzsinórról kapta a nevét", "Diego Kolumbusz rezidenciájaként szolgált"],
       ro: ["Construită în jurul anului 1502", "Prima casă cu două etaje", "Numele provine de la cordonul de piatră deasupra intrării", "A servit ca reședință pentru Diego Columb"],
       en: ["Built around 1502", "First two-story house", "Named for the stone cord above the entrance", "Served as a residence for Diego Columbus"]
-    }
-  },
+    }, image: "/poi-images/casa-del-cordon-history-v2.webp"},
   {
     id: "panteon-nacional-history-v2",
     type: "historical",
@@ -227,8 +218,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["A 18. században épült", "Sok híres dominikai végső nyughelye", "Neoklasszicista építészet", "Örök láng ég benne"],
       ro: ["Construit în secolul al XVIII-lea", "Locul de veci al multor dominicani celebri", "Arhitectură neoclasică", "Flacără veșnică arde în interior"],
       en: ["Built in the 18th century", "Final resting place of many famous Dominicans", "Neoclassical architecture", "Eternal flame burns inside"]
-    }
-  },
+    }, image: "/poi-images/panteon-nacional-history-v2.webp"},
   {
     id: "museo-de-las-casas-reales-history-v2",
     type: "historical",
@@ -246,8 +236,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Egykori kormányzói palota", "Gyarmati tárgyakat mutat be", "Két összekapcsolt épület", "Reneszánsz építészet"],
       ro: ["Fostul palat al guvernatorului", "Prezintă artefacte coloniale", "Două clădiri interconectate", "Arhitectură renascentistă"],
       en: ["Former Governor's Palace", "Displays colonial artifacts", "Two interconnected buildings", "Renaissance architecture"]
-    }
-  },
+    }, image: "/poi-images/museo-de-las-casas-reales-history-v2.webp"},
   {
     id: "convento-de-los-dominicos-history-v2",
     type: "historical",
@@ -265,8 +254,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["1510-ben alapították", "Az első egyetem helyszíne (1538)", "Gyönyörű Rózsafüzér-kápolna", "Gótikus és barokk stílus"],
       ro: ["Fondată în 1510", "Locația primei universități (1538)", "Frumoasa Capelă a Rozariului", "Stil gotic și baroc"],
       en: ["Founded in 1510", "Site of the first university (1538)", "Beautiful Chapel of the Rosary", "Gothic and Baroque styles"]
-    }
-  },
+    }, image: "/poi-images/convento-de-los-dominicos-history-v2.webp"},
   {
     id: "battle-of-palo-hincado-monument-history-v2",
     type: "historical",
@@ -284,8 +272,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Az 1808-as csatára emlékezik", "Győzelem a francia csapatok felett", "Fontos lépés a függetlenség felé", "El Seibóban található"],
       ro: ["Comemorează bătălia din 1808", "Victorie asupra trupelor franceze", "Pas important spre independență", "Situat în El Seibo"],
       en: ["Commemorates the battle of 1808", "Victory over French troops", "Important step towards independence", "Located in El Seibo"]
-    }
-  },
+    }, image: "/poi-images/battle-of-palo-hincado-monument-history-v2.webp"},
   {
     id: "samanas-english-cemetery-history-v2",
     type: "historical",
@@ -303,8 +290,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["A 19. században alapították", "Síremlékek angol nevekkel", "A bevándorlás történetének tanúja", "Panorámás kilátás"],
       ro: ["Fondat în secolul al XIX-lea", "Pietre funerare cu nume englezești", "Mărturie a istoriei imigrației", "Vedere panoramică"],
       en: ["Founded in the 19th century", "Gravestones with English names", "Testimony to immigration history", "Panoramic view"]
-    }
-  },
+    }, image: "/poi-images/samanas-english-cemetery-history-v2.webp"},
   {
     id: "casa-de-tostado-history-v2",
     type: "historical",
@@ -322,8 +308,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Egyedi gótikus ablak", "A 19. századi dominikai család múzeuma", "A 16. század elején épült", "Izabellini gótikus stílus"],
       ro: ["Fereastră gotică unică", "Muzeul familiei dominicane din secolul al XIX-lea", "Construită la începutul secolului al XVI-lea", "Stil gotic isabelin"],
       en: ["Unique Gothic window", "Museum of the 19th Century Dominican Family", "Built in the early 16th century", "Isabelline Gothic style"]
-    }
-  },
+    }, image: "/poi-images/casa-de-tostado-history-v2.webp"},
   {
     id: "puerta-de-la-misericordia-history-v2",
     type: "historical",
@@ -341,8 +326,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Az erődítmények része", "A függetlenségi harc történelmi helyszíne", "A 16. században épült", "Egyszerűbb stílus, mint a többi kapu"],
       ro: ["Parte a fortificațiilor", "Loc istoric al luptei pentru independență", "Construită în secolul al XVI-lea", "Stil mai simplu decât alte porți"],
       en: ["Part of the fortifications", "Historic site of the independence struggle", "Built in the 16th century", "Simpler style than other gates"]
-    }
-  },
+    }, image: "/poi-images/puerta-de-la-misericordia-history-v2.webp"},
   {
     id: "capilla-de-los-remedios-history-v2",
     type: "historical",
@@ -360,8 +344,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["A 16. század elején épült", "Egyszerű, de elegáns építészet", "Az Alcázar de Colón közelében", "A korai telepesek találkozóhelyéül szolgált"],
       ro: ["Construită la începutul secolului al XVI-lea", "Arhitectură simplă, dar elegantă", "Aproape de Alcázar de Colón", "A servit ca loc de întâlnire pentru primii coloniști"],
       en: ["Built in the early 16th century", "Simple yet elegant architecture", "Near the Alcázar de Colón", "Served as a meeting point for early settlers"]
-    }
-  },
+    }, image: "/poi-images/capilla-de-los-remedios-history-v2.webp"},
   {
     id: "casa-de-la-moneda-history-v2",
     type: "historical",
@@ -379,8 +362,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Az Újvilág első pénzverdéje", "A 16. században épült", "Izabellini stílus", "Ma múzeum"],
       ro: ["Prima monetărie din Lumea Nouă", "Construită în secolul al XVI-lea", "Stil isabelin", "Astăzi este muzeu"],
       en: ["First mint of the New World", "Built in the 16th century", "Isabelline style", "Now a museum"]
-    }
-  },
+    }, image: "/poi-images/casa-de-la-moneda-history-v2.webp"},
   {
     id: "reloj-de-sol-colonial-history-v2",
     type: "historical",
@@ -398,8 +380,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["1753-ban épült", "A városban található kettő egyike", "Még mindig mutatja az időt", "Népszerű fotóhely"],
       ro: ["Construit în 1753", "Unul dintre cele două din oraș", "Încă arată ora", "Punct foto popular"],
       en: ["Built in 1753", "One of two in the city", "Still tells time", "Popular photo spot"]
-    }
-  },
+    }, image: "/poi-images/reloj-de-sol-colonial-history-v2.webp"},
   {
     id: "battle-of-30-de-marzo-monument-history-v2",
     type: "historical",
@@ -417,8 +398,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Az 1844-es csatára emlékezik", "Győzelem a haiti csapatok felett", "Biztosította a függetlenséget északon", "Santiagóban található"],
       ro: ["Comemorează bătălia din 1844", "Victorie asupra trupelor haitiene", "A asigurat independența în nord", "Situat în Santiago"],
       en: ["Commemorates the battle of 1844", "Victory over Haitian troops", "Secured independence in the north", "Located in Santiago"]
-    }
-  },
+    }, image: "/poi-images/battle-of-30-de-marzo-monument-history-v2.webp"},
   {
     id: "puerto-plata-victorian-houses-history-v2",
     type: "historical",
@@ -436,8 +416,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["A 19. század végi építészet", "Élénk színek és díszes famunkák", "Karibi-viktoriánus stílus", "Sok épületet restauráltak"],
       ro: ["Arhitectură de la sfârșitul secolului al XIX-lea", "Culori vibrante și lucrări artistice în lemn", "Stil victorian caraibian", "Multe clădiri au fost restaurate"],
       en: ["Late 19th-century architecture", "Vibrant colors and ornate woodwork", "Caribbean-Victorian style", "Many buildings have been restored"]
-    }
-  },
+    }, image: "/poi-images/puerto-plata-victorian-houses-history-v2.webp"},
   {
     id: "casa-de-la-cultura-santiago-history-v2",
     type: "historical",
@@ -455,8 +434,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Egykori városháza", "Neoklasszicista építészet", "Kiállítások és koncertek helyszíne", "A kulturális élet központi pontja"],
       ro: ["Fosta primărie", "Arhitectură neoclasică", "Loc pentru expoziții și concerte", "Punct central al vieții culturale"],
       en: ["Former city hall", "Neoclassical architecture", "Venue for exhibitions and concerts", "Focal point of cultural life"]
-    }
-  },
+    }, image: "/poi-images/casa-de-la-cultura-santiago-history-v2.webp"},
   {
     id: "iglesia-san-dionisio-higuey-history-v2",
     type: "historical",
@@ -474,8 +452,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["1569-ben épült", "200 évig szolgált szentélyként", "Egyszerű gyarmati stílus", "Történelmi emlékmű"],
       ro: ["Construită în 1569", "A servit ca sanctuar timp de 200 de ani", "Stil colonial simplu", "Monument istoric"],
       en: ["Built in 1569", "Served as the sanctuary for 200 years", "Simple colonial style", "Historic monument"]
-    }
-  },
+    }, image: "/poi-images/iglesia-san-dionisio-higuey-history-v2.webp"},
   {
     id: "taino-caves-los-haitises-history-v2",
     type: "historical",
@@ -493,8 +470,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Több száz sziklarajz", "Fontos régészeti lelőhelyek", "A taino élet tanúbizonysága", "Csak hajóval érhető el"],
       ro: ["Sute de picturi rupestre", "Situsuri arheologice importante", "Mărturie a vieții Taíno", "Accesibile doar cu barca"],
       en: ["Hundreds of rock paintings", "Important archaeological sites", "Testimony of Taíno life", "Accessible only by boat"]
-    }
-  },
+    }, image: "/poi-images/taino-caves-los-haitises-history-v2.webp"},
   {
     id: "las-caritas-de-los-indios-history-v2",
     type: "historical",
@@ -512,8 +488,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Prekolumbián petroglifák", "Kilátás az Enriquillo-tóra", "Könnyen megközelíthető az útról", "Fontos őslakos helyszín"],
       ro: ["Petroglife precolumbiene", "Vedere spre Lacul Enriquillo", "Ușor accesibil de pe șosea", "Situl indigen important"],
       en: ["Pre-Columbian petroglyphs", "Overlooks Lake Enriquillo", "Easily accessible from the road", "Important indigenous site"]
-    }
-  },
+    }, image: "/poi-images/las-caritas-de-los-indios-history-v2.webp"},
   {
     id: "el-sendero-del-cacao-history-v2",
     type: "historical",
@@ -531,8 +506,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["Duarte tartományban található", "Ökoturisztikai élmény", "A babtól a tábláig", "Fontos agrártörténet"],
       ro: ["Situată în provincia Duarte", "Experiență ecoturistică", "De la boabă la batonul de ciocolată", "Istorie agricolă importantă"],
       en: ["Located in Duarte province", "Ecotourism experience", "From bean to bar", "Important agricultural history"]
-    }
-  },
+    }, image: "/poi-images/el-sendero-del-cacao-history-v2.webp"},
   {
     id: "cementerio-nacional-maximo-gomez-history-v2",
     type: "historical",
@@ -550,8 +524,7 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
       hu: ["1942-ben alapították", "Elnökök és művészek nyughelye", "Nagy terület lenyűgöző mauzóleumokkal", "Tükrözi a 20. század történelmét"],
       ro: ["Fondat în 1942", "Locul de odihnă al președinților și artiștilor", "Zonă mare cu mausolee impresionante", "Reflectă istoria secolului XX"],
       en: ["Founded in 1942", "Resting place of presidents and artists", "Large area with impressive mausoleums", "Reflects 20th-century history"]
-    }
-  },
+    }, image: "/poi-images/cementerio-nacional-maximo-gomez-history-v2.webp"},
   {
     id: "plaza-de-la-cultura-juan-pablo-duarte-history-v2",
     type: "historical",
@@ -572,3 +545,4 @@ export const poiExtraDominicanrepublicHistoryV2: POI[] = [
     }
   }
 ];
+

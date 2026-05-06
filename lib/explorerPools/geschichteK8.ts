@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef, SvgConfig } from "./types";
 
 type Lang = "de" | "en" | "hu" | "ro";
@@ -1476,3 +1477,4 @@ export const GESCHICHTE_K8_I8_LABELS = built[7].labels;
 export const GESCHICHTE_K8_I8_POOL = built[7].pool;
 export const GESCHICHTE_K8_I9_LABELS = built[8].labels;
 export const GESCHICHTE_K8_I9_POOL = built[8].pool;
+

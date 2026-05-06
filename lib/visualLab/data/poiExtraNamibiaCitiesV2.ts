@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNamibiaCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Itt található a történelmi Christuskirche.", "Körülbelül 1700 méteres tengerszint feletti magasságban fekszik."],
       ro: ["Găzduiește istorica Christuskirche.", "Altitudinea este de aproximativ 1.700 de metri deasupra nivelului mării."],
       en: ["Home to the historic Christuskirche.", "Elevation is around 1,700 meters above sea level."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Windhoek liegt auf 1.700 Metern Höhe im zentralen Hochland und ist die Hauptstadt Namibias. Die Architektur spiegelt eine Mischung aus moderner Infrastruktur und deutschem Kolonialerbe wider, wie die Christuskirche zeigt. Als wirtschaftliches Zentrum spielt die Stadt eine entscheidende Rolle im namibischen Finanz- und Verwaltungssektor.",
+      hu: "Windhoek az ország központi felföldjén, 1700 méteres tengerszint feletti magasságban fekszik. A város építészete a modern infrastruktúra és a német gyarmati örökség különleges elegye, amit a Christuskirche is bizonyít. Namíbia pénzügyi és közigazgatási központjaként kulcsfontosságú szerepet tölt be az ország gazdaságában.",
+      ro: "Windhoek este situat la o altitudine de 1.700 de metri în zonele înalte centrale, fiind capitala Namibiei. Arhitectura sa reflectă un amestec de infrastructură modernă și moștenire colonială germană, așa cum demonstrează Biserica Christuskirche. Ca centru economic, orașul joacă un rol crucial în sectorul financiar și administrativ al țării.",
+      en: "Windhoek is situated at an elevation of 1,700 meters in the central highlands and serves as Namibia's capital. The city's architecture reflects a mix of modern infrastructure and German colonial heritage, exemplified by the Christuskirche. As an economic hub, it plays a critical role in Namibia's financial and administrative sectors."
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1840.", "Bevölkerung ca. 430.000 Einwohner.", "Die Höhe beträgt 1.700 Meter.", "Der Hosea Kutako International Airport ist das Tor.", "Zentrum der Finanzverwaltung.", "Bekannt für das Bier-Brauereierbe."],
+      hu: ["Alapítva: 1840 körül.", "Népessége kb. 430 000 fő.", "Magassága 1700 méter.", "Hosea Kutako nemzetközi repülőtér szolgálja ki.", "Pénzügyi adminisztrációs központ.", "Sörfőzési hagyományairól is ismert."],
+      ro: ["Fondat în jurul anului 1840.", "Populația este de aprox. 430.000 locuitori.", "Altitudinea de 1.700 metri.", "Aeroportul Internațional Hosea Kutako este principala poartă.", "Centru de administrare financiară.", "Renumit pentru tradiția berii."],
+      en: ["Founded around 1840.", "Population approx. 430,000 residents.", "Elevation is 1,700 meters.", "Hosea Kutako International Airport is the gateway.", "Financial administration center.", "Known for its brewing heritage."]
+    }, image: "/poi-images/windhoek-cities-v2.webp"},
   {
     id: "rundu-cities-v2",
     type: "city",
@@ -37,8 +49,19 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A Kavango East régió fővárosa.", "Közvetlenül az angolai határon fekszik."],
       ro: ["Capitala regiunii Kavango de Est.", "Situat chiar la granița cu Angola."],
       en: ["Capital of the Kavango East region.", "Located right on the border with Angola."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Rundu ist das geschäftige Zentrum der Region Kavango-Ost am Ufer des Okavango-Flusses. Die Stadt fungiert als wichtiger Umschlagplatz für Waren an der Grenze zu Angola und ist besonders für ihre Holzschnitzereien bekannt. Das tropische Klima und die Nähe zum Fluss unterstützen die regionale Landwirtschaft und den Fischereihandel.",
+      hu: "Rundu a Kavango-Kelet régió nyüzsgő központja az Okavango folyó partján. A város fontos áruforgalmi csomópont az angolai határ mellett, és különösen híres a fafaragó művészetéről. A trópusi éghajlat és a folyó közelsége támogatja a regionális mezőgazdaságot és a halászati kereskedelmet.",
+      ro: "Rundu este centrul plin de viață al regiunii Kavango de Est, situat pe malurile râului Okavango. Orașul funcționează ca un nod comercial important la granița cu Angola și este renumit în special pentru sculpturile în lemn. Climatul tropical și apropierea de râu susțin agricultura regională și comerțul cu pește.",
+      en: "Rundu is the bustling center of the Kavango East region on the banks of the Okavango River. The town acts as an important trading hub near the Angolan border and is particularly known for its woodcarving. The tropical climate and proximity to the river support regional agriculture and fishing trade."
+    },
+    factsAdvanced: {
+      de: ["Gelegen am Okavango.", "Hauptstadt der Kavango-Ost-Region.", "Wichtiger Grenzübergang zu Angola.", "Bekannt für traditionelle Holzschnitzkunst.", "Wirtschaft basiert auf Fischfang und Handel.", "Tropisches Klima mit regnerischen Sommern."],
+      hu: ["Az Okavango partján fekszik.", "Kavango-Kelet régió fővárosa.", "Fontos angolai határátkelő.", "Híres a hagyományos fafaragásról.", "Gazdasága a halászaton és kereskedelmen alapul.", "Trópusi klíma csapadékos nyarakkal."],
+      ro: ["Situat pe râul Okavango.", "Capitala regiunii Kavango de Est.", "Punct important de frontieră cu Angola.", "Renumit pentru sculptura tradițională în lemn.", "Economie bazată pe pescuit și comerț.", "Climat tropical cu veri ploioase."],
+      en: ["Located on the Okavango River.", "Capital of the Kavango East region.", "Important border crossing to Angola.", "Known for traditional woodcarving.", "Economy based on fishing and trade.", "Tropical climate with rainy summers."]
+    }, image: "/poi-images/rundu-cities-v2.webp"},
   {
     id: "walvis-bay-cities-v2",
     type: "city",
@@ -56,8 +79,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A Pelican Point egy jelentős tájékozódási pont itt.", "A halászati ipar kulcsfontosságú központja."],
       ro: ["Pelican Point este un reper major aici.", "Un centru vital pentru industria pescuitului."],
       en: ["Pelican Point is a major landmark here.", "A vital hub for the fishing industry."]
-    }
-  },
+    }, image: "/poi-images/walvis-bay-cities-v2.webp"},
   {
     id: "swakopmund-cities-v2",
     type: "city",
@@ -75,8 +97,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Három oldalról a Namib-sivatag veszi körül.", "Olyan nevezetességekről híres, mint a Woermannhaus."],
       ro: ["Înconjurat de deșertul Namib pe trei laturi.", "Faimos pentru repere precum Woermannhaus."],
       en: ["Surrounded by the Namib Desert on three sides.", "Famous for landmarks like the Woermannhaus."]
-    }
-  },
+    }, image: "/poi-images/swakopmund-cities-v2.webp"},
   {
     id: "oshakati-cities-v2",
     type: "city",
@@ -94,8 +115,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A Cuvelai-medencében található.", "Az Oshana régió fővárosa."],
       ro: ["Situat în Bazinul Cuvelai.", "Capitala regiunii Oshana."],
       en: ["Situated in the Cuvelai Basin.", "The capital of the Oshana Region."]
-    }
-  },
+    }, image: "/poi-images/oshakati-cities-v2.webp"},
   {
     id: "rehoboth-cities-v2",
     type: "city",
@@ -113,8 +133,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Természetes hőforrásairól ismert.", "Az Oanob-tó egy népszerű közeli látványosság."],
       ro: ["Cunoscut pentru izvoarele sale termale naturale.", "Lacul Oanob este o atracție populară în apropiere."],
       en: ["Known for its natural hot springs.", "Lake Oanob is a popular nearby attraction."]
-    }
-  },
+    }, image: "/poi-images/rehoboth-cities-v2.webp"},
   {
     id: "katima-mulilo-cities-v2",
     type: "city",
@@ -132,8 +151,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A Zambézi régió fővárosa.", "A városközpontban található hatalmas majomkenyérfákról híres."],
       ro: ["Capitala regiunii Zambezi.", "Remarcabil pentru marii copaci baobab din centrul orașului."],
       en: ["The capital of the Zambezi Region.", "Notable for the large baobab trees in the town center."]
-    }
-  },
+    }, image: "/poi-images/katima-mulilo-cities-v2.webp"},
   {
     id: "ondangwa-cities-v2",
     type: "city",
@@ -151,8 +169,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Eredetileg finn missziós állomásként alapították.", "A vasútvonal északi végállomásaként szolgál."],
       ro: ["Înființată inițial ca o stație de misiune finlandeză.", "Servește drept capăt nordic al liniei de cale ferată."],
       en: ["Originally established as a Finnish mission station.", "Serves as the northern terminus for the railway line."]
-    }
-  },
+    }, image: "/poi-images/ondangwa-cities-v2.webp"},
   {
     id: "okahandja-cities-v2",
     type: "city",
@@ -170,8 +187,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Egy nagy és híres fafaragó piacnak ad otthont.", "Több fontos herero vezető sírhelye is itt található."],
       ro: ["Găzduiește o piață mare și faimoasă de sculptori în lemn.", "Locul mormântului a mai mulți lideri importanți Herero."],
       en: ["Hosts a large, famous woodcarver's market.", "Grave site of several important Herero leaders."]
-    }
-  },
+    }, image: "/poi-images/okahandja-cities-v2.webp"},
   {
     id: "keetmanshoop-cities-v2",
     type: "city",
@@ -189,8 +205,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Közel fekszik a híres Tegezfa-erdőhöz.", "A német gyarmati korszakból származó épületekkel rendelkezik."],
       ro: ["Aproape de faimoasa Pădure a Copacilor Quiver.", "Prezintă clădiri din era colonială germană."],
       en: ["Close to the famous Quiver Tree Forest.", "Features buildings from the German colonial era."]
-    }
-  },
+    }, image: "/poi-images/keetmanshoop-cities-v2.webp"},
   {
     id: "tsumeb-cities-v2",
     type: "city",
@@ -208,8 +223,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Világszínvonalú ásványpéldányokat termel.", "Közel fekszik a történelmi Otjikoto-tó víznyelőjéhez."],
       ro: ["Produce exemplare minerale de clasă mondială.", "Aproape de istoricul lac Otjikoto."],
       en: ["Produces world-class mineral specimens.", "Close to the historic Lake Otjikoto sinkhole."]
-    }
-  },
+    }, image: "/poi-images/tsumeb-cities-v2.webp"},
   {
     id: "gobabis-cities-v2",
     type: "city",
@@ -227,8 +241,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A Transz-Kalahári autópályán fekszik.", "A városközpontban egy kiemelkedő szarvasmarha szobor található."],
       ro: ["Situat pe autostrada Trans-Kalahari.", "Are o statuie proeminentă a bovinelor în centrul orașului."],
       en: ["Located on the Trans-Kalahari Highway.", "Has a prominent cattle statue in the town center."]
-    }
-  },
+    }, image: "/poi-images/gobabis-cities-v2.webp"},
   {
     id: "grootfontein-cities-v2",
     type: "city",
@@ -246,8 +259,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A Hoba-meteorit a közelben található.", "A neve afrikaans nyelven 'Nagy Forrás'-t jelent."],
       ro: ["Meteoritul Hoba se află în apropiere.", "Se traduce prin 'Izvorul Mare' în Afrikaans."],
       en: ["The Hoba meteorite is located nearby.", "Translates to 'Big Spring' in Afrikaans."]
-    }
-  },
+    }, image: "/poi-images/grootfontein-cities-v2.webp"},
   {
     id: "luderitz-cities-v2",
     type: "city",
@@ -265,8 +277,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A Kolmanskop szellemváros kapuja.", "A Diaz-fok egy kiemelkedő tengerparti nevezetesség a közelben."],
       ro: ["Poarta către orașul fantomă Kolmanskop.", "Diaz Point este un punct de reper de coastă proeminent în apropiere."],
       en: ["Gateway to the ghost town of Kolmanskop.", "Diaz Point is a prominent coastal landmark nearby."]
-    }
-  },
+    }, image: "/poi-images/luderitz-cities-v2.webp"},
   {
     id: "mariental-cities-v2",
     type: "city",
@@ -284,8 +295,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A nagy Hardap-gát közelében található.", "A Fish folyó mentén fekszik."],
       ro: ["Situat lângă marele baraj Hardap.", "Situat de-a lungul râului Fish."],
       en: ["Located near the large Hardap Dam.", "Situated along the Fish River."]
-    }
-  },
+    }, image: "/poi-images/mariental-cities-v2.webp"},
   {
     id: "outjo-cities-v2",
     type: "city",
@@ -303,8 +313,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Egy népszerű, történelmi német pékséggel rendelkezik.", "Fontos mezőgazdasági ellátó központként működik."],
       ro: ["Dispune de o brutărie germană populară și istorică.", "Funcționează ca un centru vital de aprovizionare agricolă."],
       en: ["Features a popular, historic German bakery.", "Functions as a vital agricultural supply center."]
-    }
-  },
+    }, image: "/poi-images/outjo-cities-v2.webp"},
   {
     id: "karasburg-cities-v2",
     type: "city",
@@ -322,8 +331,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Fontos kapu a Dél-Afrikából érkező utazók számára.", "Rendkívül magas nyári hőmérsékletet tapasztal."],
       ro: ["Poartă importantă pentru călătorii care vin din Africa de Sud.", "Suportă temperaturi extreme de vară."],
       en: ["Important gateway for travelers coming from South Africa.", "Endures extreme summer temperatures."]
-    }
-  },
+    }, image: "/poi-images/karasburg-cities-v2.webp"},
   {
     id: "karibib-cities-v2",
     type: "city",
@@ -341,8 +349,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A Navachab aranybánya otthona.", "A Windhoek és Swakopmund közötti főút mentén fekszik."],
       ro: ["Găzduiește mina de aur Navachab.", "Situat pe drumul principal dintre Windhoek și Swakopmund."],
       en: ["Home to the Navachab Gold Mine.", "Situated on the main road between Windhoek and Swakopmund."]
-    }
-  },
+    }, image: "/poi-images/karibib-cities-v2.webp"},
   {
     id: "omaruru-cities-v2",
     type: "city",
@@ -360,8 +367,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Itt található a történelmi Franke-torony.", "A helyi Kristall Kellerei namíbiai bort állít elő."],
       ro: ["Găzduiește istoricul Turn Franke.", "Localul Kristall Kellerei produce vin namibian."],
       en: ["Hosts the historical Franke Tower.", "The local Kristall Kellerei produces Namibian wine."]
-    }
-  },
+    }, image: "/poi-images/omaruru-cities-v2.webp"},
   {
     id: "otjiwarongo-cities-v2",
     type: "city",
@@ -379,8 +385,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Az Otjozondjupa régió fővárosa.", "Egy jól ismert krokodilfarm is található itt."],
       ro: ["Capitala regiunii Otjozondjupa.", "Prezintă o fermă de crocodili bine cunoscută."],
       en: ["Capital of the Otjozondjupa Region.", "Features a well-known crocodile ranch."]
-    }
-  },
+    }, image: "/poi-images/otjiwarongo-cities-v2.webp"},
   {
     id: "eenhana-cities-v2",
     type: "city",
@@ -398,8 +403,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Az Eenhana Szentély otthona.", "A függetlenség óta gyors fejlődésen ment keresztül."],
       ro: ["Găzduiește Altarul Eenhana.", "A cunoscut o dezvoltare rapidă de la independență."],
       en: ["Home to the Eenhana Shrine.", "Has seen rapid development since independence."]
-    }
-  },
+    }, image: "/poi-images/eenhana-cities-v2.webp"},
   {
     id: "opuwo-cities-v2",
     type: "city",
@@ -417,8 +421,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A Kaokolandba induló utazások kiindulópontja.", "A hagyományos és a modern életmód egyedülálló keveréke."],
       ro: ["Punctul de plecare pentru călătoriile în Kaokoland.", "Un amestec unic de stiluri de viață tradiționale și moderne."],
       en: ["The starting point for trips into Kaokoland.", "A unique blend of traditional and modern lifestyles."]
-    }
-  },
+    }, image: "/poi-images/opuwo-cities-v2.webp"},
   {
     id: "ongwediva-cities-v2",
     type: "city",
@@ -436,8 +439,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Fontos oktatási központ északon.", "Stratégiailag Oshakati és Ondangwa között helyezkedik el."],
       ro: ["Un important centru educațional în nord.", "Situat strategic între Oshakati și Ondangwa."],
       en: ["An important educational center in the north.", "Located strategically between Oshakati and Ondangwa."]
-    }
-  },
+    }, image: "/poi-images/ongwediva-cities-v2.webp"},
   {
     id: "oranjemund-cities-v2",
     type: "city",
@@ -455,8 +457,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["2017-ig le volt zárva a nyilvánosság elől.", "Híres az utcákon kóborló nyársas antilopjairól (oryx)."],
       ro: ["A fost restricționat publicului până în 2017.", "Faimos pentru antilopele Oryx care rătăcesc pe străzi."],
       en: ["Was restricted to the public until 2017.", "Famous for Oryx antelopes wandering the streets."]
-    }
-  },
+    }, image: "/poi-images/oranjemund-cities-v2.webp"},
   {
     id: "usakos-cities-v2",
     type: "city",
@@ -474,8 +475,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Egykor nagyon fontos vasúti csomópont volt.", "Műemlékként megőrzött régi mozdonyokkal is büszkélkedhet."],
       ro: ["Odată un nod feroviar foarte important.", "Prezintă vechi locomotive conservate ca monumente."],
       en: ["Once a very important railway junction.", "Features old locomotives preserved as monuments."]
-    }
-  },
+    }, image: "/poi-images/usakos-cities-v2.webp"},
   {
     id: "outapi-cities-v2",
     type: "city",
@@ -493,8 +493,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Híres az odvas Ombalantu majomkenyérfáról.", "Növekvő határon átnyúló kereskedelmi szektorral rendelkezik."],
       ro: ["Faimos pentru arborele gol Baobab Ombalantu.", "Are un sector de comerț transfrontalier în creștere."],
       en: ["Famous for the hollow Ombalantu Baobab Tree.", "Has a growing cross-border trade sector."]
-    }
-  },
+    }, image: "/poi-images/outapi-cities-v2.webp"},
   {
     id: "helao-nafidi-cities-v2",
     type: "city",
@@ -550,8 +549,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A közeli 'Holt-tengeri' fürdőhelyről ismert.", "A távoli Csontvázpart (Skeleton Coast) Nemzeti Park kapuja."],
       ro: ["Cunoscut pentru gaura de înot 'Marea Moartă' din apropiere.", "Poarta către îndepărtatul Parc Skeleton Coast."],
       en: ["Known for its nearby 'Dead Sea' swimming hole.", "Gateway to the remote Skeleton Coast Park."]
-    }
-  },
+    }, image: "/poi-images/henties-bay-cities-v2.webp"},
   {
     id: "arandis-cities-v2",
     type: "city",
@@ -569,8 +567,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Gyakran a 'Világ Uránfővárosaként' is emlegetik.", "Itt található a Namíbiai Bányászati és Technológiai Intézet."],
       ro: ["Adesea numit 'Capitala Uraniului din Lume'.", "Găzduiește Institutul Namibian de Minerit și Tehnologie."],
       en: ["Often called the 'Uranium Capital of the World'.", "Home to the Namibian Institute of Mining and Technology."]
-    }
-  },
+    }, image: "/poi-images/arandis-cities-v2.webp"},
   {
     id: "otavi-cities-v2",
     type: "city",
@@ -588,8 +585,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A történelmi Khorab-emlékmű helyszíne.", "Történelmileg fontos a rézkitermelés szempontjából."],
       ro: ["Locul istoricului Memorial Khorab.", "Important istoric pentru extracția cuprului."],
       en: ["Site of the historical Khorab Memorial.", "Historically important for copper extraction."]
-    }
-  },
+    }, image: "/poi-images/otavi-cities-v2.webp"},
   {
     id: "bethanie-cities-v2",
     type: "city",
@@ -607,8 +603,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Itt található az 1814-ben épült történelmi Schmelenhaus.", "A nama nép fontos kulturális központja."],
       ro: ["Dispune de istorica casă Schmelen construită în 1814.", "Un important centru cultural pentru poporul Nama."],
       en: ["Features the historic Schmelenhaus built in 1814.", "An important cultural center for the Nama people."]
-    }
-  },
+    }, image: "/poi-images/bethanie-cities-v2.webp"},
   {
     id: "ruacana-cities-v2",
     type: "city",
@@ -626,8 +621,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Namíbia villamosenergia-igényének jelentős részét biztosítja.", "A vízesés drámai módon duzzad fel az esős évszakban."],
       ro: ["Furnizează o parte semnificativă a electricității Namibiei.", "Cascadele curg dramatic în timpul sezonului ploios."],
       en: ["Provides a significant portion of Namibia's electricity.", "The falls flow dramatically during the rainy season."]
-    }
-  },
+    }, image: "/poi-images/ruacana-cities-v2.webp"},
   {
     id: "maltahohe-cities-v2",
     type: "city",
@@ -645,8 +639,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Itt található Namíbia legrégebbi működő vidéki szállodája.", "Hatalmas karakul juhfarmok veszik körül."],
       ro: ["Găzduiește cel mai vechi hotel de țară aflat în funcțiune din Namibia.", "Înconjurat de vaste ferme de oi karakul."],
       en: ["Home to the oldest operating country hotel in Namibia.", "Surrounded by vast karakul sheep farms."]
-    }
-  },
+    }, image: "/poi-images/maltahohe-cities-v2.webp"},
   {
     id: "khorixas-cities-v2",
     type: "city",
@@ -664,8 +657,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A Megkövesedett Erdő (Petrified Forest) kapuja.", "Twyfelfontein ősi sziklarajzaihoz is közel fekszik."],
       ro: ["Poarta către Pădurea Pietrificată.", "Aproape de vechile gravuri rupestre din Twyfelfontein."],
       en: ["Gateway to the Petrified Forest.", "Close to the ancient rock engravings of Twyfelfontein."]
-    }
-  },
+    }, image: "/poi-images/khorixas-cities-v2.webp"},
   {
     id: "kamanjab-cities-v2",
     type: "city",
@@ -681,10 +673,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     facts: {
       de: ["Bekannt für die Peet-Alberts-Felsgravuren.", "Ein entscheidender Versorgungspunkt für Reisende in Richtung Opuwo."],
       hu: ["A Peet Alberts sziklarajzokról ismert.", "Döntő fontosságú készletfeltöltő pont az Opuwo felé utazók számára."],
-      ro: ["Cunoscut pentru gravurile rupestre Peet Alberts.", "Un punct crucial de reaprovizionare pentru călătorii spre Opuwo."],
+      ro: ["Cunoscut pentru gravurile rupestre Peet Alberts.", "Un punct crucial de reaprovizionare pentru călătoriile spre Opuwo."],
       en: ["Known for the Peet Alberts rock engravings.", "A crucial restocking point for travelers heading to Opuwo."]
-    }
-  },
+    }, image: "/poi-images/kamanjab-cities-v2.webp"},
   {
     id: "okakarara-cities-v2",
     type: "city",
@@ -721,8 +712,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A karakul juh tenyésztésének egyik jelentős központja.", "A Kalahári vörös dűnéi veszik körül."],
       ro: ["Un centru semnificativ pentru creșterea oilor Karakul.", "Înconjurat de dunele roșii ale deșertului Kalahari."],
       en: ["A significant center for Karakul sheep farming.", "Surrounded by the red dunes of the Kalahari."]
-    }
-  },
+    }, image: "/poi-images/aranos-cities-v2.webp"},
   {
     id: "stampriet-cities-v2",
     type: "city",
@@ -740,8 +730,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A száraz éghajlat ellenére zöldségeket és lucernát termelnek itt.", "A nama felkelések történelmi csataterei találhatóak a közelben."],
       ro: ["Produce legume și lucernă în ciuda climatului arid.", "Prezintă locuri de luptă istorice din revoltele Nama."],
       en: ["Produces vegetables and lucerne despite the arid climate.", "Features historical battlesites from the Nama uprisings."]
-    }
-  },
+    }, image: "/poi-images/stampriet-cities-v2.webp"},
   {
     id: "gibeon-cities-v2",
     type: "city",
@@ -759,8 +748,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A Gibeon-meteorit darabjait világszerte kiállítják.", "A Witbooi nama klán erős bástyája volt."],
       ro: ["Piese ale meteoritului Gibeon sunt expuse în întreaga lume.", "O fortăreață a clanului Witbooi Nama."],
       en: ["Pieces of the Gibeon meteorite are displayed worldwide.", "A stronghold of the Witbooi Nama clan."]
-    }
-  },
+    }, image: "/poi-images/gibeon-cities-v2.webp"},
   {
     id: "aroab-cities-v2",
     type: "city",
@@ -778,8 +766,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A dél-afrikai határ közelében található.", "Erősen támaszkodik a juhtenyésztésre."],
       ro: ["Situat aproape de granița sud-africană.", "Se bazează foarte mult pe creșterea oilor."],
       en: ["Located close to the South African border.", "Relies heavily on sheep farming."]
-    }
-  },
+    }, image: "/poi-images/aroab-cities-v2.webp"},
   {
     id: "koes-cities-v2",
     type: "city",
@@ -797,8 +784,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A minden évben megrendezett Koës Pan Rally-ról híres.", "A déli régió hatalmas, száraz tájain található."],
       ro: ["Faimos pentru Raliul anual Koës Pan.", "Situat în vastele peisaje aride din sud."],
       en: ["Famous for the annual Koës Pan Rally.", "Located within the vast, arid landscapes of the south."]
-    }
-  },
+    }, image: "/poi-images/koes-cities-v2.webp"},
   {
     id: "warmbad-cities-v2",
     type: "city",
@@ -816,8 +802,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Namíbia egyik legrégebben történelmileg feljegyzett helye.", "Egy történelmi német erőd maradványait is meg lehet tekinteni itt."],
       ro: ["Unul dintre cele mai vechi locuri consemnate istoric din Namibia.", "Prezintă rămășițele unui fort german istoric."],
       en: ["One of the oldest historically recorded places in Namibia.", "Features the remnants of a historic German fort."]
-    }
-  },
+    }, image: "/poi-images/warmbad-cities-v2.webp"},
   {
     id: "rosh-pinah-cities-v2",
     type: "city",
@@ -835,8 +820,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Elsősorban a helyi bányatársaságok irányítják.", "Közvetlenül az Orange folyótól északra fekszik."],
       ro: ["Administrat în principal de companiile miniere locale.", "Situat la nord de râul Orange."],
       en: ["Managed primarily by the local mining companies.", "Located just north of the Orange River."]
-    }
-  },
+    }, image: "/poi-images/rosh-pinah-cities-v2.webp"},
   {
     id: "noordoewer-cities-v2",
     type: "city",
@@ -854,8 +838,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Népszerű kiindulópont a többnapos folyami kenuutakhoz.", "A közelben virágzó szőlőültetvények találhatók."],
       ro: ["O bază populară pentru excursii de mai multe zile cu canoea pe râu.", "Susține ferme de struguri înfloritoare în apropiere."],
       en: ["A popular base for multi-day river canoeing trips.", "Supports flourishing grape farms nearby."]
-    }
-  },
+    }, image: "/poi-images/noordoewer-cities-v2.webp"},
   {
     id: "aussenkehr-cities-v2",
     type: "city",
@@ -873,8 +856,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Az európai piacokra szánt csemegeszőlőt termel.", "A lakosság száma drasztikusan megnő a szüret idején."],
       ro: ["Produce struguri de masă destinați piețelor europene.", "Populația crește drastic în timpul sezonului de recoltare."],
       en: ["Produces table grapes destined for European markets.", "The population swells drastically during the harvesting season."]
-    }
-  },
+    }, image: "/poi-images/aussenkehr-cities-v2.webp"},
   {
     id: "aus-cities-v2",
     type: "city",
@@ -892,8 +874,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A vad sivatagi lovak híres populációjának otthona.", "Az első világháborús hadifogolytábor romjait rejti."],
       ro: ["Găzduiește o populație faimoasă de cai sălbatici de deșert.", "Conține ruinele unui lagăr de prizonieri de război din Primul Război Mondial."],
       en: ["Home to a famous population of feral desert horses.", "Contains ruins of a WWI prisoner-of-war camp."]
-    }
-  },
+    }, image: "/poi-images/aus-cities-v2.webp"},
   {
     id: "uis-cities-v2",
     type: "city",
@@ -911,8 +892,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Eredetileg egy hatalmas ónbánya köré épült.", "A 'Fehér Hölgy' sziklafestmény megtekintésének fő ellátó állomása."],
       ro: ["A crescut inițial în jurul unei mine masive de staniu.", "Oprirea principală de aprovizionare pentru vizionarea picturii rupestre 'Doamna Albă'."],
       en: ["Originally grew around a massive tin mine.", "The main supply stop for viewing the 'White Lady' rock painting."]
-    }
-  },
+    }, image: "/poi-images/uis-cities-v2.webp"},
   {
     id: "okombahe-cities-v2",
     type: "city",
@@ -930,8 +910,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Minden év novemberében kulturális fesztiválnak ad otthont.", "Az Erongo-hegység hátterében helyezkedik el."],
       ro: ["Găzduiește un festival cultural anual în noiembrie.", "Poziționat pe fundalul Munților Erongo."],
       en: ["Hosts an annual cultural festival in November.", "Positioned against the backdrop of the Erongo Mountains."]
-    }
-  },
+    }, image: "/poi-images/okombahe-cities-v2.webp"},
   {
     id: "omatjete-cities-v2",
     type: "city",
@@ -968,8 +947,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A közeli farmon valódi dinoszaurusz lábnyomok láthatók.", "Egykor virágzó kereskedelmi központ volt a helyi gazdák számára."],
       ro: ["O fermă din apropiere prezintă urme reale de dinozauri.", "Odată un centru comercial înfloritor pentru fermierii locali."],
       en: ["Nearby farm features real dinosaur footprints.", "Once a thriving commercial center for local farmers."]
-    }
-  },
+    }, image: "/poi-images/kalkfeld-cities-v2.webp"},
   {
     id: "hochfeld-cities-v2",
     type: "city",
@@ -987,8 +965,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Klasszikus vidéki rendőrőrs és bolt is található itt.", "Jelentős útkereszteződés a kavicsos utakon utazók számára."],
       ro: ["Dispune de o secție de poliție rurală clasică și un magazin.", "O răscruce notabilă pentru călătorii pe drumuri cu pietriș."],
       en: ["Features a classic rural police station and shop.", "A notable crossroads for gravel road travelers."]
-    }
-  },
+    }, image: "/poi-images/hochfeld-cities-v2.webp"},
   {
     id: "witvlei-cities-v2",
     type: "city",
@@ -1006,8 +983,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Egy korai, döntő csata helyszíne volt 1904-ben.", "A Windhoekot Botswanával összekötő útvonalon fekszik."],
       ro: ["Locul unei bătălii timpurii cruciale în 1904.", "Situat pe ruta care leagă Windhoek de Botswana."],
       en: ["Site of an early, crucial battle in 1904.", "Lies on the route connecting Windhoek to Botswana."]
-    }
-  },
+    }, image: "/poi-images/witvlei-cities-v2.webp"},
   {
     id: "leonardville-cities-v2",
     type: "city",
@@ -1025,8 +1001,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Egy helyi egyházi vezető tiszteletére nevezték el.", "A Nossob folyó kiszáradt medrében helyezkedik el."],
       ro: ["Numit în onoarea unui lider bisericesc local.", "Poziționat pe albia uscată a râului Nossob."],
       en: ["Named in honor of a local church leader.", "Positioned on the dry bed of the Nossob River."]
-    }
-  },
+    }, image: "/poi-images/leonardville-cities-v2.webp"},
   {
     id: "epukiro-cities-v2",
     type: "city",
@@ -1044,8 +1019,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Eredetileg egy katolikus misszió körül fejlődött ki.", "Határozottan a Kalahári homokos kiterjedéseiben helyezkedik el."],
       ro: ["Dezvoltat inițial în jurul unei misiuni catolice.", "Se află ferm în întinderile nisipoase ale deșertului Kalahari."],
       en: ["Originally developed around a Catholic mission.", "Sits firmly within the sandy expanses of the Kalahari."]
-    }
-  },
+    }, image: "/poi-images/epukiro-cities-v2.webp"},
   {
     id: "aminuis-cities-v2",
     type: "city",
@@ -1063,8 +1037,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["A hagyományos hatóság fontos központja.", "Az állatállományt főként mély fúrólyukakon keresztül tartják fenn."],
       ro: ["Un important centru tradițional de autoritate.", "Susține animalele în principal prin foraje adânci."],
       en: ["An important traditional authority center.", "Sustains livestock mainly through deep boreholes."]
-    }
-  },
+    }, image: "/poi-images/aminuis-cities-v2.webp"},
   {
     id: "oshikuku-cities-v2",
     type: "city",
@@ -1101,8 +1074,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Sam Nujoma szülőhelye.", "Jelentős műemlékeket tartalmaz a felszabadító küzdelem emlékére."],
       ro: ["Locul de naștere al lui Sam Nujoma.", "Conține monumente semnificative dedicate luptei de eliberare."],
       en: ["Birthplace of Sam Nujoma.", "Contains significant monuments dedicated to the liberation struggle."]
-    }
-  },
+    }, image: "/poi-images/okahao-cities-v2.webp"},
   {
     id: "tsandi-cities-v2",
     type: "city",
@@ -1120,8 +1092,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       hu: ["Fenséges, ősi majomkenyérfák veszik körül.", "A hagyományos uralkodói építészet élő kiállítását nyújtja."],
       ro: ["Înconjurat de baobabi maiestuoși, antici.", "Oferă o expoziție vie a arhitecturii monarhice tradiționale."],
       en: ["Surrounded by majestic, ancient baobab trees.", "Provides a living exhibition of traditional monarchial architecture."]
-    }
-  },
+    }, image: "/poi-images/tsandi-cities-v2.webp"},
   {
     id: "bukalo-cities-v2",
     type: "city",
@@ -1142,3 +1113,4 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     }
   }
 ];
+

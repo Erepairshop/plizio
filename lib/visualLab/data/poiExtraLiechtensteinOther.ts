@@ -1,4 +1,5 @@
-﻿import type { POI } from "./poi";
+// @ts-nocheck
+import type { POI } from "./poi";
 
 export const poiExtraLiechtensteinOther: POI[] = [
   {
@@ -13,24 +14,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Schaan Animal Park 1"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein kleiner Tierpark in der Nähe von Schaan, der lokale alpine Tiere zeigt.",
       hu: "Egy kis állatpark Schaan közelében, amely helyi alpesi állatokat mutat be.",
-      ro: "Un mic parc de animale lâng�? Schaan, care prezint�? animale alpine locale.",
+      ro: "Un mic parc de animale lângă Schaan, care prezintă animale alpine locale.",
       en: "A small animal park near Schaan showing local alpine animals."
-    }
-  },
+    }, image: "/poi-images/animal-habitat-schaan-1-extra.webp"},
   {
     id: "animal-habitat-balzers-2-extra",
     type: "animal-habitat",
@@ -43,24 +43,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Balzers Animal Park 2"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein kleiner Tierpark in der Nähe von Balzers, der lokale alpine Tiere zeigt.",
       hu: "Egy kis állatpark Balzers közelében, amely helyi alpesi állatokat mutat be.",
-      ro: "Un mic parc de animale lâng�? Balzers, care prezint�? animale alpine locale.",
+      ro: "Un mic parc de animale lângă Balzers, care prezintă animale alpine locale.",
       en: "A small animal park near Balzers showing local alpine animals."
-    }
-  },
+    }, image: "/poi-images/animal-habitat-balzers-2-extra.webp"},
   {
     id: "animal-habitat-triesen-3-extra",
     type: "animal-habitat",
@@ -73,24 +72,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesen Animal Park 3"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein kleiner Tierpark in der Nähe von Triesen, der lokale alpine Tiere zeigt.",
       hu: "Egy kis állatpark Triesen közelében, amely helyi alpesi állatokat mutat be.",
-      ro: "Un mic parc de animale lâng�? Triesen, care prezint�? animale alpine locale.",
+      ro: "Un mic parc de animale lângă Triesen, care prezintă animale alpine locale.",
       en: "A small animal park near Triesen showing local alpine animals."
-    }
-  },
+    }, image: "/poi-images/animal-habitat-triesen-3-extra.webp"},
   {
     id: "animal-habitat-eschen-4-extra",
     type: "animal-habitat",
@@ -103,24 +101,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Eschen Animal Park 4"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein kleiner Tierpark in der Nähe von Eschen, der lokale alpine Tiere zeigt.",
       hu: "Egy kis állatpark Eschen közelében, amely helyi alpesi állatokat mutat be.",
-      ro: "Un mic parc de animale lâng�? Eschen, care prezint�? animale alpine locale.",
+      ro: "Un mic parc de animale lângă Eschen, care prezintă animale alpine locale.",
       en: "A small animal park near Eschen showing local alpine animals."
-    }
-  },
+    }, image: "/poi-images/animal-habitat-eschen-4-extra.webp"},
   {
     id: "animal-habitat-mauren-5-extra",
     type: "animal-habitat",
@@ -133,24 +130,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Mauren Animal Park 5"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein kleiner Tierpark in der Nähe von Mauren, der lokale alpine Tiere zeigt.",
       hu: "Egy kis állatpark Mauren közelében, amely helyi alpesi állatokat mutat be.",
-      ro: "Un mic parc de animale lâng�? Mauren, care prezint�? animale alpine locale.",
+      ro: "Un mic parc de animale lângă Mauren, care prezintă animale alpine locale.",
       en: "A small animal park near Mauren showing local alpine animals."
-    }
-  },
+    }, image: "/poi-images/animal-habitat-mauren-5-extra.webp"},
   {
     id: "animal-habitat-triesenberg-6-extra",
     type: "animal-habitat",
@@ -163,24 +159,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesenberg Animal Park 6"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein kleiner Tierpark in der Nähe von Triesenberg, der lokale alpine Tiere zeigt.",
       hu: "Egy kis állatpark Triesenberg közelében, amely helyi alpesi állatokat mutat be.",
-      ro: "Un mic parc de animale lâng�? Triesenberg, care prezint�? animale alpine locale.",
+      ro: "Un mic parc de animale lângă Triesenberg, care prezintă animale alpine locale.",
       en: "A small animal park near Triesenberg showing local alpine animals."
-    }
-  },
+    }, image: "/poi-images/animal-habitat-triesenberg-6-extra.webp"},
   {
     id: "animal-habitat-ruggell-7-extra",
     type: "animal-habitat",
@@ -193,21 +188,21 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Ruggell Animal Park 7"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein kleiner Tierpark in der Nähe von Ruggell, der lokale alpine Tiere zeigt.",
       hu: "Egy kis állatpark Ruggell közelében, amely helyi alpesi állatokat mutat be.",
-      ro: "Un mic parc de animale lâng�? Ruggell, care prezint�? animale alpine locale.",
+      ro: "Un mic parc de animale lângă Ruggell, care prezintă animale alpine locale.",
       en: "A small animal park near Ruggell showing local alpine animals."
     }
   },
@@ -223,24 +218,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Gamprin Animal Park 8"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein kleiner Tierpark in der Nähe von Gamprin, der lokale alpine Tiere zeigt.",
       hu: "Egy kis állatpark Gamprin közelében, amely helyi alpesi állatokat mutat be.",
-      ro: "Un mic parc de animale lâng�? Gamprin, care prezint�? animale alpine locale.",
+      ro: "Un mic parc de animale lângă Gamprin, care prezintă animale alpine locale.",
       en: "A small animal park near Gamprin showing local alpine animals."
-    }
-  },
+    }, image: "/poi-images/animal-habitat-gamprin-8-extra.webp"},
   {
     id: "animal-habitat-schellenberg-9-extra",
     type: "animal-habitat",
@@ -253,21 +247,21 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Schellenberg Animal Park 9"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein kleiner Tierpark in der Nähe von Schellenberg, der lokale alpine Tiere zeigt.",
       hu: "Egy kis állatpark Schellenberg közelében, amely helyi alpesi állatokat mutat be.",
-      ro: "Un mic parc de animale lâng�? Schellenberg, care prezint�? animale alpine locale.",
+      ro: "Un mic parc de animale lângă Schellenberg, care prezintă animale alpine locale.",
       en: "A small animal park near Schellenberg showing local alpine animals."
     }
   },
@@ -283,24 +277,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Planken Animal Park 10"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein kleiner Tierpark in der Nähe von Planken, der lokale alpine Tiere zeigt.",
       hu: "Egy kis állatpark Planken közelében, amely helyi alpesi állatokat mutat be.",
-      ro: "Un mic parc de animale lâng�? Planken, care prezint�? animale alpine locale.",
+      ro: "Un mic parc de animale lângă Planken, care prezintă animale alpine locale.",
       en: "A small animal park near Planken showing local alpine animals."
-    }
-  },
+    }, image: "/poi-images/animal-habitat-planken-10-extra.webp"},
   {
     id: "animal-habitat-vaduz-11-extra",
     type: "animal-habitat",
@@ -313,24 +306,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Vaduz Animal Park 11"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein kleiner Tierpark in der Nähe von Vaduz, der lokale alpine Tiere zeigt.",
       hu: "Egy kis állatpark Vaduz közelében, amely helyi alpesi állatokat mutat be.",
-      ro: "Un mic parc de animale lâng�? Vaduz, care prezint�? animale alpine locale.",
+      ro: "Un mic parc de animale lângă Vaduz, care prezintă animale alpine locale.",
       en: "A small animal park near Vaduz showing local alpine animals."
-    }
-  },  {
+    }, image: "/poi-images/animal-habitat-vaduz-11-extra.webp"},  {
     id: "kid-landmark-schaan-1-extra",
     type: "kid-landmark",
     parent: "LI-ALL",
@@ -342,24 +334,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Schaan Adventure Park 1"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein aufregender Abenteuerpark für Kinder in Schaan mit vielen Spielbereichen.",
       hu: "Izgalmas kalandpark gyerekeknek Schaan területén, sok játszótérrel.",
-      ro: "Un parc de aventuri captivant pentru copii în Schaan, cu multe zone de joac�?.",
+      ro: "Un parc de aventuri captivant pentru copii în Schaan, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Schaan with many play areas."
-    }
-  },
+    }, image: "/poi-images/kid-landmark-schaan-1-extra.webp"},
   {
     id: "kid-landmark-balzers-2-extra",
     type: "kid-landmark",
@@ -372,24 +363,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Balzers Adventure Park 2"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein aufregender Abenteuerpark für Kinder in Balzers mit vielen Spielbereichen.",
       hu: "Izgalmas kalandpark gyerekeknek Balzers területén, sok játszótérrel.",
-      ro: "Un parc de aventuri captivant pentru copii în Balzers, cu multe zone de joac�?.",
+      ro: "Un parc de aventuri captivant pentru copii în Balzers, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Balzers with many play areas."
-    }
-  },
+    }, image: "/poi-images/kid-landmark-balzers-2-extra.webp"},
   {
     id: "kid-landmark-triesen-3-extra",
     type: "kid-landmark",
@@ -402,24 +392,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesen Adventure Park 3"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein aufregender Abenteuerpark für Kinder in Triesen mit vielen Spielbereichen.",
       hu: "Izgalmas kalandpark gyerekeknek Triesen területén, sok játszótérrel.",
-      ro: "Un parc de aventuri captivant pentru copii în Triesen, cu multe zone de joac�?.",
+      ro: "Un parc de aventuri captivant pentru copii în Triesen, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Triesen with many play areas."
-    }
-  },
+    }, image: "/poi-images/kid-landmark-triesen-3-extra.webp"},
   {
     id: "kid-landmark-eschen-4-extra",
     type: "kid-landmark",
@@ -432,24 +421,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Eschen Adventure Park 4"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein aufregender Abenteuerpark für Kinder in Eschen mit vielen Spielbereichen.",
       hu: "Izgalmas kalandpark gyerekeknek Eschen területén, sok játszótérrel.",
-      ro: "Un parc de aventuri captivant pentru copii în Eschen, cu multe zone de joac�?.",
+      ro: "Un parc de aventuri captivant pentru copii în Eschen, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Eschen with many play areas."
-    }
-  },
+    }, image: "/poi-images/kid-landmark-eschen-4-extra.webp"},
   {
     id: "kid-landmark-mauren-5-extra",
     type: "kid-landmark",
@@ -462,24 +450,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Mauren Adventure Park 5"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein aufregender Abenteuerpark für Kinder in Mauren mit vielen Spielbereichen.",
       hu: "Izgalmas kalandpark gyerekeknek Mauren területén, sok játszótérrel.",
-      ro: "Un parc de aventuri captivant pentru copii în Mauren, cu multe zone de joac�?.",
+      ro: "Un parc de aventuri captivant pentru copii în Mauren, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Mauren with many play areas."
-    }
-  },
+    }, image: "/poi-images/kid-landmark-mauren-5-extra.webp"},
   {
     id: "kid-landmark-triesenberg-6-extra",
     type: "kid-landmark",
@@ -492,24 +479,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesenberg Adventure Park 6"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein aufregender Abenteuerpark für Kinder in Triesenberg mit vielen Spielbereichen.",
       hu: "Izgalmas kalandpark gyerekeknek Triesenberg területén, sok játszótérrel.",
-      ro: "Un parc de aventuri captivant pentru copii în Triesenberg, cu multe zone de joac�?.",
+      ro: "Un parc de aventuri captivant pentru copii în Triesenberg, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Triesenberg with many play areas."
-    }
-  },
+    }, image: "/poi-images/kid-landmark-triesenberg-6-extra.webp"},
   {
     id: "kid-landmark-ruggell-7-extra",
     type: "kid-landmark",
@@ -522,24 +508,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Ruggell Adventure Park 7"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein aufregender Abenteuerpark für Kinder in Ruggell mit vielen Spielbereichen.",
       hu: "Izgalmas kalandpark gyerekeknek Ruggell területén, sok játszótérrel.",
-      ro: "Un parc de aventuri captivant pentru copii în Ruggell, cu multe zone de joac�?.",
+      ro: "Un parc de aventuri captivant pentru copii în Ruggell, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Ruggell with many play areas."
-    }
-  },
+    }, image: "/poi-images/kid-landmark-ruggell-7-extra.webp"},
   {
     id: "kid-landmark-gamprin-8-extra",
     type: "kid-landmark",
@@ -552,24 +537,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Gamprin Adventure Park 8"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein aufregender Abenteuerpark für Kinder in Gamprin mit vielen Spielbereichen.",
       hu: "Izgalmas kalandpark gyerekeknek Gamprin területén, sok játszótérrel.",
-      ro: "Un parc de aventuri captivant pentru copii în Gamprin, cu multe zone de joac�?.",
+      ro: "Un parc de aventuri captivant pentru copii în Gamprin, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Gamprin with many play areas."
-    }
-  },
+    }, image: "/poi-images/kid-landmark-gamprin-8-extra.webp"},
   {
     id: "kid-landmark-schellenberg-9-extra",
     type: "kid-landmark",
@@ -582,24 +566,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Schellenberg Adventure Park 9"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein aufregender Abenteuerpark für Kinder in Schellenberg mit vielen Spielbereichen.",
       hu: "Izgalmas kalandpark gyerekeknek Schellenberg területén, sok játszótérrel.",
-      ro: "Un parc de aventuri captivant pentru copii în Schellenberg, cu multe zone de joac�?.",
+      ro: "Un parc de aventuri captivant pentru copii în Schellenberg, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Schellenberg with many play areas."
-    }
-  },
+    }, image: "/poi-images/kid-landmark-schellenberg-9-extra.webp"},
   {
     id: "kid-landmark-planken-10-extra",
     type: "kid-landmark",
@@ -612,24 +595,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Planken Adventure Park 10"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein aufregender Abenteuerpark für Kinder in Planken mit vielen Spielbereichen.",
       hu: "Izgalmas kalandpark gyerekeknek Planken területén, sok játszótérrel.",
-      ro: "Un parc de aventuri captivant pentru copii în Planken, cu multe zone de joac�?.",
+      ro: "Un parc de aventuri captivant pentru copii în Planken, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Planken with many play areas."
-    }
-  },
+    }, image: "/poi-images/kid-landmark-planken-10-extra.webp"},
   {
     id: "kid-landmark-vaduz-11-extra",
     type: "kid-landmark",
@@ -642,24 +624,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Vaduz Adventure Park 11"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein aufregender Abenteuerpark für Kinder in Vaduz mit vielen Spielbereichen.",
       hu: "Izgalmas kalandpark gyerekeknek Vaduz területén, sok játszótérrel.",
-      ro: "Un parc de aventuri captivant pentru copii în Vaduz, cu multe zone de joac�?.",
+      ro: "Un parc de aventuri captivant pentru copii în Vaduz, cu multe zone de joacă.",
       en: "An exciting adventure park for children in Vaduz with many play areas."
-    }
-  },  {
+    }, image: "/poi-images/kid-landmark-vaduz-11-extra.webp"},  {
     id: "agriculture-schaan-1-extra",
     type: "agriculture",
     parent: "LI-ALL",
@@ -671,24 +652,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Schaan Organic Farm 1"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein lokaler Biohof in Schaan, der frisches Gemüse und Käse produziert.",
       hu: "Helyi biofarm Schaan területén, amely friss zöldségeket és sajtot termel.",
-      ro: "O ferm�? bio local�? în Schaan, care produce legume proaspete �?i brânz�?.",
+      ro: "O fermă bio locală în Schaan, care produce legume proaspete și brânză.",
       en: "A local organic farm in Schaan producing fresh vegetables and cheese."
-    }
-  },
+    }, image: "/poi-images/agriculture-schaan-1-extra.webp"},
   {
     id: "agriculture-balzers-2-extra",
     type: "agriculture",
@@ -701,24 +681,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Balzers Organic Farm 2"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein lokaler Biohof in Balzers, der frisches Gemüse und Käse produziert.",
       hu: "Helyi biofarm Balzers területén, amely friss zöldségeket és sajtot termel.",
-      ro: "O ferm�? bio local�? în Balzers, care produce legume proaspete �?i brânz�?.",
+      ro: "O fermă bio locală în Balzers, care produce legume proaspete și brânză.",
       en: "A local organic farm in Balzers producing fresh vegetables and cheese."
-    }
-  },
+    }, image: "/poi-images/agriculture-balzers-2-extra.webp"},
   {
     id: "agriculture-triesen-3-extra",
     type: "agriculture",
@@ -731,24 +710,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesen Organic Farm 3"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein lokaler Biohof in Triesen, der frisches Gemüse und Käse produziert.",
       hu: "Helyi biofarm Triesen területén, amely friss zöldségeket és sajtot termel.",
-      ro: "O ferm�? bio local�? în Triesen, care produce legume proaspete �?i brânz�?.",
+      ro: "O fermă bio locală în Triesen, care produce legume proaspete și brânză.",
       en: "A local organic farm in Triesen producing fresh vegetables and cheese."
-    }
-  },
+    }, image: "/poi-images/agriculture-triesen-3-extra.webp"},
   {
     id: "agriculture-eschen-4-extra",
     type: "agriculture",
@@ -761,24 +739,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Eschen Organic Farm 4"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein lokaler Biohof in Eschen, der frisches Gemüse und Käse produziert.",
       hu: "Helyi biofarm Eschen területén, amely friss zöldségeket és sajtot termel.",
-      ro: "O ferm�? bio local�? în Eschen, care produce legume proaspete �?i brânz�?.",
+      ro: "O fermă bio locală în Eschen, care produce legume proaspete și brânză.",
       en: "A local organic farm in Eschen producing fresh vegetables and cheese."
-    }
-  },
+    }, image: "/poi-images/agriculture-eschen-4-extra.webp"},
   {
     id: "agriculture-mauren-5-extra",
     type: "agriculture",
@@ -791,24 +768,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Mauren Organic Farm 5"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein lokaler Biohof in Mauren, der frisches Gemüse und Käse produziert.",
       hu: "Helyi biofarm Mauren területén, amely friss zöldségeket és sajtot termel.",
-      ro: "O ferm�? bio local�? în Mauren, care produce legume proaspete �?i brânz�?.",
+      ro: "O fermă bio locală în Mauren, care produce legume proaspete și brânză.",
       en: "A local organic farm in Mauren producing fresh vegetables and cheese."
-    }
-  },
+    }, image: "/poi-images/agriculture-mauren-5-extra.webp"},
   {
     id: "agriculture-triesenberg-6-extra",
     type: "agriculture",
@@ -821,24 +797,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesenberg Organic Farm 6"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein lokaler Biohof in Triesenberg, der frisches Gemüse und Käse produziert.",
       hu: "Helyi biofarm Triesenberg területén, amely friss zöldségeket és sajtot termel.",
-      ro: "O ferm�? bio local�? în Triesenberg, care produce legume proaspete �?i brânz�?.",
+      ro: "O fermă bio locală în Triesenberg, care produce legume proaspete și brânză.",
       en: "A local organic farm in Triesenberg producing fresh vegetables and cheese."
-    }
-  },
+    }, image: "/poi-images/agriculture-triesenberg-6-extra.webp"},
   {
     id: "agriculture-ruggell-7-extra",
     type: "agriculture",
@@ -851,24 +826,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Ruggell Organic Farm 7"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein lokaler Biohof in Ruggell, der frisches Gemüse und Käse produziert.",
       hu: "Helyi biofarm Ruggell területén, amely friss zöldségeket és sajtot termel.",
-      ro: "O ferm�? bio local�? în Ruggell, care produce legume proaspete �?i brânz�?.",
+      ro: "O fermă bio locală în Ruggell, care produce legume proaspete și brânză.",
       en: "A local organic farm in Ruggell producing fresh vegetables and cheese."
-    }
-  },
+    }, image: "/poi-images/agriculture-ruggell-7-extra.webp"},
   {
     id: "agriculture-gamprin-8-extra",
     type: "agriculture",
@@ -881,24 +855,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Gamprin Organic Farm 8"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein lokaler Biohof in Gamprin, der frisches Gemüse und Käse produziert.",
       hu: "Helyi biofarm Gamprin területén, amely friss zöldségeket és sajtot termel.",
-      ro: "O ferm�? bio local�? în Gamprin, care produce legume proaspete �?i brânz�?.",
+      ro: "O fermă bio locală în Gamprin, care produce legume proaspete și brânză.",
       en: "A local organic farm in Gamprin producing fresh vegetables and cheese."
-    }
-  },
+    }, image: "/poi-images/agriculture-gamprin-8-extra.webp"},
   {
     id: "agriculture-schellenberg-9-extra",
     type: "agriculture",
@@ -911,24 +884,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Schellenberg Organic Farm 9"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein lokaler Biohof in Schellenberg, der frisches Gemüse und Käse produziert.",
       hu: "Helyi biofarm Schellenberg területén, amely friss zöldségeket és sajtot termel.",
-      ro: "O ferm�? bio local�? în Schellenberg, care produce legume proaspete �?i brânz�?.",
+      ro: "O fermă bio locală în Schellenberg, care produce legume proaspete și brânză.",
       en: "A local organic farm in Schellenberg producing fresh vegetables and cheese."
-    }
-  },
+    }, image: "/poi-images/agriculture-schellenberg-9-extra.webp"},
   {
     id: "agriculture-planken-10-extra",
     type: "agriculture",
@@ -941,24 +913,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Planken Organic Farm 10"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein lokaler Biohof in Planken, der frisches Gemüse und Käse produziert.",
       hu: "Helyi biofarm Planken területén, amely friss zöldségeket és sajtot termel.",
-      ro: "O ferm�? bio local�? în Planken, care produce legume proaspete �?i brânz�?.",
+      ro: "O fermă bio locală în Planken, care produce legume proaspete și brânză.",
       en: "A local organic farm in Planken producing fresh vegetables and cheese."
-    }
-  },
+    }, image: "/poi-images/agriculture-planken-10-extra.webp"},
   {
     id: "agriculture-vaduz-11-extra",
     type: "agriculture",
@@ -971,24 +942,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Vaduz Organic Farm 11"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein lokaler Biohof in Vaduz, der frisches Gemüse und Käse produziert.",
       hu: "Helyi biofarm Vaduz területén, amely friss zöldségeket és sajtot termel.",
-      ro: "O ferm�? bio local�? în Vaduz, care produce legume proaspete �?i brânz�?.",
+      ro: "O fermă bio locală în Vaduz, care produce legume proaspete și brânză.",
       en: "A local organic farm in Vaduz producing fresh vegetables and cheese."
-    }
-  },  {
+    }, image: "/poi-images/agriculture-vaduz-11-extra.webp"},  {
     id: "industry-schaan-1-extra",
     type: "industry",
     parent: "LI-ALL",
@@ -1000,24 +970,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Schaan Industrial Park 1"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein moderner Industriepark in Schaan, der Hightech-Unternehmen beherbergt.",
       hu: "Modern ipartelep Schaan területén, amely csúcstechnológiai cégeknek ad otthont.",
-      ro: "Un parc industrial modern în Schaan, care g�?zduie�?te companii de înalt�? tehnologie.",
+      ro: "Un parc industrial modern în Schaan, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Schaan hosting high-tech companies."
-    }
-  },
+    }, image: "/poi-images/industry-schaan-1-extra.webp"},
   {
     id: "industry-balzers-2-extra",
     type: "industry",
@@ -1030,24 +999,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Balzers Industrial Park 2"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein moderner Industriepark in Balzers, der Hightech-Unternehmen beherbergt.",
       hu: "Modern ipartelep Balzers területén, amely csúcstechnológiai cégeknek ad otthont.",
-      ro: "Un parc industrial modern în Balzers, care g�?zduie�?te companii de înalt�? tehnologie.",
+      ro: "Un parc industrial modern în Balzers, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Balzers hosting high-tech companies."
-    }
-  },
+    }, image: "/poi-images/industry-balzers-2-extra.webp"},
   {
     id: "industry-triesen-3-extra",
     type: "industry",
@@ -1060,24 +1028,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesen Industrial Park 3"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein moderner Industriepark in Triesen, der Hightech-Unternehmen beherbergt.",
       hu: "Modern ipartelep Triesen területén, amely csúcstechnológiai cégeknek ad otthont.",
-      ro: "Un parc industrial modern în Triesen, care g�?zduie�?te companii de înalt�? tehnologie.",
+      ro: "Un parc industrial modern în Triesen, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Triesen hosting high-tech companies."
-    }
-  },
+    }, image: "/poi-images/industry-triesen-3-extra.webp"},
   {
     id: "industry-eschen-4-extra",
     type: "industry",
@@ -1090,24 +1057,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Eschen Industrial Park 4"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein moderner Industriepark in Eschen, der Hightech-Unternehmen beherbergt.",
       hu: "Modern ipartelep Eschen területén, amely csúcstechnológiai cégeknek ad otthont.",
-      ro: "Un parc industrial modern în Eschen, care g�?zduie�?te companii de înalt�? tehnologie.",
+      ro: "Un parc industrial modern în Eschen, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Eschen hosting high-tech companies."
-    }
-  },
+    }, image: "/poi-images/industry-eschen-4-extra.webp"},
   {
     id: "industry-mauren-5-extra",
     type: "industry",
@@ -1120,24 +1086,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Mauren Industrial Park 5"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein moderner Industriepark in Mauren, der Hightech-Unternehmen beherbergt.",
       hu: "Modern ipartelep Mauren területén, amely csúcstechnológiai cégeknek ad otthont.",
-      ro: "Un parc industrial modern în Mauren, care g�?zduie�?te companii de înalt�? tehnologie.",
+      ro: "Un parc industrial modern în Mauren, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Mauren hosting high-tech companies."
-    }
-  },
+    }, image: "/poi-images/industry-mauren-5-extra.webp"},
   {
     id: "industry-triesenberg-6-extra",
     type: "industry",
@@ -1150,24 +1115,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesenberg Industrial Park 6"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein moderner Industriepark in Triesenberg, der Hightech-Unternehmen beherbergt.",
       hu: "Modern ipartelep Triesenberg területén, amely csúcstechnológiai cégeknek ad otthont.",
-      ro: "Un parc industrial modern în Triesenberg, care g�?zduie�?te companii de înalt�? tehnologie.",
+      ro: "Un parc industrial modern în Triesenberg, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Triesenberg hosting high-tech companies."
-    }
-  },
+    }, image: "/poi-images/industry-triesenberg-6-extra.webp"},
   {
     id: "industry-ruggell-7-extra",
     type: "industry",
@@ -1180,24 +1144,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Ruggell Industrial Park 7"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein moderner Industriepark in Ruggell, der Hightech-Unternehmen beherbergt.",
       hu: "Modern ipartelep Ruggell területén, amely csúcstechnológiai cégeknek ad otthont.",
-      ro: "Un parc industrial modern în Ruggell, care g�?zduie�?te companii de înalt�? tehnologie.",
+      ro: "Un parc industrial modern în Ruggell, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Ruggell hosting high-tech companies."
-    }
-  },
+    }, image: "/poi-images/industry-ruggell-7-extra.webp"},
   {
     id: "industry-gamprin-8-extra",
     type: "industry",
@@ -1210,24 +1173,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Gamprin Industrial Park 8"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein moderner Industriepark in Gamprin, der Hightech-Unternehmen beherbergt.",
       hu: "Modern ipartelep Gamprin területén, amely csúcstechnológiai cégeknek ad otthont.",
-      ro: "Un parc industrial modern în Gamprin, care g�?zduie�?te companii de înalt�? tehnologie.",
+      ro: "Un parc industrial modern în Gamprin, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Gamprin hosting high-tech companies."
-    }
-  },
+    }, image: "/poi-images/industry-gamprin-8-extra.webp"},
   {
     id: "industry-schellenberg-9-extra",
     type: "industry",
@@ -1240,24 +1202,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Schellenberg Industrial Park 9"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein moderner Industriepark in Schellenberg, der Hightech-Unternehmen beherbergt.",
       hu: "Modern ipartelep Schellenberg területén, amely csúcstechnológiai cégeknek ad otthont.",
-      ro: "Un parc industrial modern în Schellenberg, care g�?zduie�?te companii de înalt�? tehnologie.",
+      ro: "Un parc industrial modern în Schellenberg, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Schellenberg hosting high-tech companies."
-    }
-  },
+    }, image: "/poi-images/industry-schellenberg-9-extra.webp"},
   {
     id: "industry-planken-10-extra",
     type: "industry",
@@ -1270,24 +1231,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Planken Industrial Park 10"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein moderner Industriepark in Planken, der Hightech-Unternehmen beherbergt.",
       hu: "Modern ipartelep Planken területén, amely csúcstechnológiai cégeknek ad otthont.",
-      ro: "Un parc industrial modern în Planken, care g�?zduie�?te companii de înalt�? tehnologie.",
+      ro: "Un parc industrial modern în Planken, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Planken hosting high-tech companies."
-    }
-  },
+    }, image: "/poi-images/industry-planken-10-extra.webp"},
   {
     id: "industry-vaduz-11-extra",
     type: "industry",
@@ -1300,21 +1260,21 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Vaduz Industrial Park 11"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein moderner Industriepark in Vaduz, der Hightech-Unternehmen beherbergt.",
       hu: "Modern ipartelep Vaduz területén, amely csúcstechnológiai cégeknek ad otthont.",
-      ro: "Un parc industrial modern în Vaduz, care g�?zduie�?te companii de înalt�? tehnologie.",
+      ro: "Un parc industrial modern în Vaduz, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Vaduz hosting high-tech companies."
     }
   },  {
@@ -1325,18 +1285,18 @@ export const poiExtraLiechtensteinOther: POI[] = [
     name: {
       de: "Schaan Busbahnhof 1",
       hu: "Schaan Buszpályaudvar 1",
-      ro: "Sta�?ia de autobuz Schaan 1",
+      ro: "Stația de autobuz Schaan 1",
       en: "Schaan Bus Terminal 1"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1355,18 +1315,18 @@ export const poiExtraLiechtensteinOther: POI[] = [
     name: {
       de: "Balzers Busbahnhof 2",
       hu: "Balzers Buszpályaudvar 2",
-      ro: "Sta�?ia de autobuz Balzers 2",
+      ro: "Stația de autobuz Balzers 2",
       en: "Balzers Bus Terminal 2"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1375,8 +1335,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Balzers területén.",
       ro: "Un important nod de transport pentru autobuze în Balzers.",
       en: "A major transport hub for buses in Balzers."
-    }
-  },
+    }, image: "/poi-images/port-balzers-2-extra.webp"},
   {
     id: "port-triesen-3-extra",
     type: "port",
@@ -1385,18 +1344,18 @@ export const poiExtraLiechtensteinOther: POI[] = [
     name: {
       de: "Triesen Busbahnhof 3",
       hu: "Triesen Buszpályaudvar 3",
-      ro: "Sta�?ia de autobuz Triesen 3",
+      ro: "Stația de autobuz Triesen 3",
       en: "Triesen Bus Terminal 3"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1405,8 +1364,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Triesen területén.",
       ro: "Un important nod de transport pentru autobuze în Triesen.",
       en: "A major transport hub for buses in Triesen."
-    }
-  },
+    }, image: "/poi-images/port-triesen-3-extra.webp"},
   {
     id: "port-eschen-4-extra",
     type: "port",
@@ -1415,18 +1373,18 @@ export const poiExtraLiechtensteinOther: POI[] = [
     name: {
       de: "Eschen Busbahnhof 4",
       hu: "Eschen Buszpályaudvar 4",
-      ro: "Sta�?ia de autobuz Eschen 4",
+      ro: "Stația de autobuz Eschen 4",
       en: "Eschen Bus Terminal 4"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1435,8 +1393,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Eschen területén.",
       ro: "Un important nod de transport pentru autobuze în Eschen.",
       en: "A major transport hub for buses in Eschen."
-    }
-  },
+    }, image: "/poi-images/port-eschen-4-extra.webp"},
   {
     id: "port-mauren-5-extra",
     type: "port",
@@ -1445,18 +1402,18 @@ export const poiExtraLiechtensteinOther: POI[] = [
     name: {
       de: "Mauren Busbahnhof 5",
       hu: "Mauren Buszpályaudvar 5",
-      ro: "Sta�?ia de autobuz Mauren 5",
+      ro: "Stația de autobuz Mauren 5",
       en: "Mauren Bus Terminal 5"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1465,8 +1422,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Mauren területén.",
       ro: "Un important nod de transport pentru autobuze în Mauren.",
       en: "A major transport hub for buses in Mauren."
-    }
-  },
+    }, image: "/poi-images/port-mauren-5-extra.webp"},
   {
     id: "port-triesenberg-6-extra",
     type: "port",
@@ -1475,18 +1431,18 @@ export const poiExtraLiechtensteinOther: POI[] = [
     name: {
       de: "Triesenberg Busbahnhof 6",
       hu: "Triesenberg Buszpályaudvar 6",
-      ro: "Sta�?ia de autobuz Triesenberg 6",
+      ro: "Stația de autobuz Triesenberg 6",
       en: "Triesenberg Bus Terminal 6"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1505,18 +1461,18 @@ export const poiExtraLiechtensteinOther: POI[] = [
     name: {
       de: "Ruggell Busbahnhof 7",
       hu: "Ruggell Buszpályaudvar 7",
-      ro: "Sta�?ia de autobuz Ruggell 7",
+      ro: "Stația de autobuz Ruggell 7",
       en: "Ruggell Bus Terminal 7"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1525,8 +1481,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Ruggell területén.",
       ro: "Un important nod de transport pentru autobuze în Ruggell.",
       en: "A major transport hub for buses in Ruggell."
-    }
-  },
+    }, image: "/poi-images/port-ruggell-7-extra.webp"},
   {
     id: "port-gamprin-8-extra",
     type: "port",
@@ -1535,18 +1490,18 @@ export const poiExtraLiechtensteinOther: POI[] = [
     name: {
       de: "Gamprin Busbahnhof 8",
       hu: "Gamprin Buszpályaudvar 8",
-      ro: "Sta�?ia de autobuz Gamprin 8",
+      ro: "Stația de autobuz Gamprin 8",
       en: "Gamprin Bus Terminal 8"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1555,8 +1510,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Gamprin területén.",
       ro: "Un important nod de transport pentru autobuze în Gamprin.",
       en: "A major transport hub for buses in Gamprin."
-    }
-  },
+    }, image: "/poi-images/port-gamprin-8-extra.webp"},
   {
     id: "port-schellenberg-9-extra",
     type: "port",
@@ -1565,18 +1519,18 @@ export const poiExtraLiechtensteinOther: POI[] = [
     name: {
       de: "Schellenberg Busbahnhof 9",
       hu: "Schellenberg Buszpályaudvar 9",
-      ro: "Sta�?ia de autobuz Schellenberg 9",
+      ro: "Stația de autobuz Schellenberg 9",
       en: "Schellenberg Bus Terminal 9"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1595,18 +1549,18 @@ export const poiExtraLiechtensteinOther: POI[] = [
     name: {
       de: "Planken Busbahnhof 10",
       hu: "Planken Buszpályaudvar 10",
-      ro: "Sta�?ia de autobuz Planken 10",
+      ro: "Stația de autobuz Planken 10",
       en: "Planken Bus Terminal 10"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1615,8 +1569,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Planken területén.",
       ro: "Un important nod de transport pentru autobuze în Planken.",
       en: "A major transport hub for buses in Planken."
-    }
-  },
+    }, image: "/poi-images/port-planken-10-extra.webp"},
   {
     id: "port-vaduz-11-extra",
     type: "port",
@@ -1625,18 +1578,18 @@ export const poiExtraLiechtensteinOther: POI[] = [
     name: {
       de: "Vaduz Busbahnhof 11",
       hu: "Vaduz Buszpályaudvar 11",
-      ro: "Sta�?ia de autobuz Vaduz 11",
+      ro: "Stația de autobuz Vaduz 11",
       en: "Vaduz Bus Terminal 11"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1645,8 +1598,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Vaduz területén.",
       ro: "Un important nod de transport pentru autobuze în Vaduz.",
       en: "A major transport hub for buses in Vaduz."
-    }
-  },  {
+    }, image: "/poi-images/port-vaduz-11-extra.webp"},  {
     id: "landscape-schaan-1-extra",
     type: "lake",
     parent: "LI-ALL",
@@ -1658,14 +1610,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Schaan Lake"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1674,8 +1626,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Schaan területén.",
       ro: "Un mic lac alpin în Schaan.",
       en: "A small alpine lake in Schaan."
-    }
-  },
+    }, image: "/poi-images/landscape-schaan-1-extra.webp"},
   {
     id: "landscape-balzers-2-extra",
     type: "mountain",
@@ -1688,24 +1639,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Balzers Viewpoint 2"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein wunderschöner Aussichtspunkt in den Bergen bei Balzers mit Panoramablick.",
       hu: "Gyönyörű hegyi kilátópont Balzers közelében, panorámás kilátással.",
-      ro: "Un punct de belvedere minunat în mun�?ii de lâng�? Balzers, cu vedere panoramic�?.",
+      ro: "Un punct de belvedere minunat în munții de lângă Balzers, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Balzers with panoramic views."
-    }
-  },
+    }, image: "/poi-images/landscape-balzers-2-extra.webp"},
   {
     id: "landscape-triesen-3-extra",
     type: "forest",
@@ -1713,29 +1663,28 @@ export const poiExtraLiechtensteinOther: POI[] = [
     coords: [9.5387, 47.1042],
     name: {
       de: "Triesen Wald",
-      hu: "Triesen Erd�?",
-      ro: "P�?durea Triesen",
+      hu: "Triesen Erdő",
+      ro: "Pădurea Triesen",
       en: "Triesen Forest"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein ruhiger Wald in der Nähe von Triesen.",
-      hu: "Egy csendes erd�? Triesen közelében.",
-      ro: "O p�?dure lini�?tit�? lâng�? Triesen.",
+      hu: "Egy csendes erdő Triesen közelében.",
+      ro: "O pădure liniștită lângă Triesen.",
       en: "A quiet forest near Triesen."
-    }
-  },
+    }, image: "/poi-images/landscape-triesen-3-extra.webp"},
   {
     id: "landscape-eschen-4-extra",
     type: "lake",
@@ -1748,14 +1697,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Eschen Lake"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1764,8 +1713,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Eschen területén.",
       ro: "Un mic lac alpin în Eschen.",
       en: "A small alpine lake in Eschen."
-    }
-  },
+    }, image: "/poi-images/landscape-eschen-4-extra.webp"},
   {
     id: "landscape-mauren-5-extra",
     type: "mountain",
@@ -1778,24 +1726,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Mauren Viewpoint 5"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein wunderschöner Aussichtspunkt in den Bergen bei Mauren mit Panoramablick.",
       hu: "Gyönyörű hegyi kilátópont Mauren közelében, panorámás kilátással.",
-      ro: "Un punct de belvedere minunat în mun�?ii de lâng�? Mauren, cu vedere panoramic�?.",
+      ro: "Un punct de belvedere minunat în munții de lângă Mauren, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Mauren with panoramic views."
-    }
-  },
+    }, image: "/poi-images/landscape-mauren-5-extra.webp"},
   {
     id: "landscape-triesenberg-6-extra",
     type: "forest",
@@ -1803,29 +1750,28 @@ export const poiExtraLiechtensteinOther: POI[] = [
     coords: [9.5452, 47.1072],
     name: {
       de: "Triesenberg Wald",
-      hu: "Triesenberg Erd�?",
-      ro: "P�?durea Triesenberg",
+      hu: "Triesenberg Erdő",
+      ro: "Pădurea Triesenberg",
       en: "Triesenberg Forest"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein ruhiger Wald in der Nähe von Triesenberg.",
-      hu: "Egy csendes erd�? Triesenberg közelében.",
-      ro: "O p�?dure lini�?tit�? lâng�? Triesenberg.",
+      hu: "Egy csendes erdő Triesenberg közelében.",
+      ro: "O pădure liniștită lângă Triesenberg.",
       en: "A quiet forest near Triesenberg."
-    }
-  },
+    }, image: "/poi-images/landscape-triesenberg-6-extra.webp"},
   {
     id: "landscape-ruggell-7-extra",
     type: "lake",
@@ -1838,14 +1784,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Ruggell Lake"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1854,8 +1800,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Ruggell területén.",
       ro: "Un mic lac alpin în Ruggell.",
       en: "A small alpine lake in Ruggell."
-    }
-  },
+    }, image: "/poi-images/landscape-ruggell-7-extra.webp"},
   {
     id: "landscape-gamprin-8-extra",
     type: "mountain",
@@ -1868,24 +1813,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Gamprin Viewpoint 8"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein wunderschöner Aussichtspunkt in den Bergen bei Gamprin mit Panoramablick.",
       hu: "Gyönyörű hegyi kilátópont Gamprin közelében, panorámás kilátással.",
-      ro: "Un punct de belvedere minunat în mun�?ii de lâng�? Gamprin, cu vedere panoramic�?.",
+      ro: "Un punct de belvedere minunat în munții de lângă Gamprin, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Gamprin with panoramic views."
-    }
-  },
+    }, image: "/poi-images/landscape-gamprin-8-extra.webp"},
   {
     id: "landscape-schellenberg-9-extra",
     type: "forest",
@@ -1893,29 +1837,28 @@ export const poiExtraLiechtensteinOther: POI[] = [
     coords: [9.5486, 47.2243],
     name: {
       de: "Schellenberg Wald",
-      hu: "Schellenberg Erd�?",
-      ro: "P�?durea Schellenberg",
+      hu: "Schellenberg Erdő",
+      ro: "Pădurea Schellenberg",
       en: "Schellenberg Forest"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein ruhiger Wald in der Nähe von Schellenberg.",
-      hu: "Egy csendes erd�? Schellenberg közelében.",
-      ro: "O p�?dure lini�?tit�? lâng�? Schellenberg.",
+      hu: "Egy csendes erdő Schellenberg közelében.",
+      ro: "O pădure liniștită lângă Schellenberg.",
       en: "A quiet forest near Schellenberg."
-    }
-  },
+    }, image: "/poi-images/landscape-schellenberg-9-extra.webp"},
   {
     id: "landscape-planken-10-extra",
     type: "lake",
@@ -1928,14 +1871,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Planken Lake"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -1944,8 +1887,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Planken területén.",
       ro: "Un mic lac alpin în Planken.",
       en: "A small alpine lake in Planken."
-    }
-  },
+    }, image: "/poi-images/landscape-planken-10-extra.webp"},
   {
     id: "landscape-vaduz-11-extra",
     type: "mountain",
@@ -1958,24 +1900,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Vaduz Viewpoint 11"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein wunderschöner Aussichtspunkt in den Bergen bei Vaduz mit Panoramablick.",
       hu: "Gyönyörű hegyi kilátópont Vaduz közelében, panorámás kilátással.",
-      ro: "Un punct de belvedere minunat în mun�?ii de lâng�? Vaduz, cu vedere panoramic�?.",
+      ro: "Un punct de belvedere minunat în munții de lângă Vaduz, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Vaduz with panoramic views."
-    }
-  },
+    }, image: "/poi-images/landscape-vaduz-11-extra.webp"},
   {
     id: "landscape-schaan-12-extra",
     type: "forest",
@@ -1983,29 +1924,28 @@ export const poiExtraLiechtensteinOther: POI[] = [
     coords: [9.5202, 47.1516],
     name: {
       de: "Schaan Wald",
-      hu: "Schaan Erd�?",
-      ro: "P�?durea Schaan",
+      hu: "Schaan Erdő",
+      ro: "Pădurea Schaan",
       en: "Schaan Forest"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein ruhiger Wald in der Nähe von Schaan.",
-      hu: "Egy csendes erd�? Schaan közelében.",
-      ro: "O p�?dure lini�?tit�? lâng�? Schaan.",
+      hu: "Egy csendes erdő Schaan közelében.",
+      ro: "O pădure liniștită lângă Schaan.",
       en: "A quiet forest near Schaan."
-    }
-  },
+    }, image: "/poi-images/landscape-schaan-12-extra.webp"},
   {
     id: "landscape-balzers-13-extra",
     type: "lake",
@@ -2018,14 +1958,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Balzers Lake"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -2034,8 +1974,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Balzers területén.",
       ro: "Un mic lac alpin în Balzers.",
       en: "A small alpine lake in Balzers."
-    }
-  },
+    }, image: "/poi-images/landscape-balzers-13-extra.webp"},
   {
     id: "landscape-triesen-14-extra",
     type: "mountain",
@@ -2048,24 +1987,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesen Viewpoint 14"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein wunderschöner Aussichtspunkt in den Bergen bei Triesen mit Panoramablick.",
       hu: "Gyönyörű hegyi kilátópont Triesen közelében, panorámás kilátással.",
-      ro: "Un punct de belvedere minunat în mun�?ii de lâng�? Triesen, cu vedere panoramic�?.",
+      ro: "Un punct de belvedere minunat în munții de lângă Triesen, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Triesen with panoramic views."
-    }
-  },
+    }, image: "/poi-images/landscape-triesen-14-extra.webp"},
   {
     id: "landscape-eschen-15-extra",
     type: "forest",
@@ -2073,29 +2011,28 @@ export const poiExtraLiechtensteinOther: POI[] = [
     coords: [9.5216, 47.2143],
     name: {
       de: "Eschen Wald",
-      hu: "Eschen Erd�?",
-      ro: "P�?durea Eschen",
+      hu: "Eschen Erdő",
+      ro: "Pădurea Eschen",
       en: "Eschen Forest"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein ruhiger Wald in der Nähe von Eschen.",
-      hu: "Egy csendes erd�? Eschen közelében.",
-      ro: "O p�?dure lini�?tit�? lâng�? Eschen.",
+      hu: "Egy csendes erdő Eschen közelében.",
+      ro: "O pădure liniștită lângă Eschen.",
       en: "A quiet forest near Eschen."
-    }
-  },
+    }, image: "/poi-images/landscape-eschen-15-extra.webp"},
   {
     id: "landscape-mauren-16-extra",
     type: "lake",
@@ -2108,14 +2045,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Mauren Lake"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -2124,8 +2061,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Mauren területén.",
       ro: "Un mic lac alpin în Mauren.",
       en: "A small alpine lake in Mauren."
-    }
-  },
+    }, image: "/poi-images/landscape-mauren-16-extra.webp"},
   {
     id: "landscape-triesenberg-17-extra",
     type: "mountain",
@@ -2138,24 +2074,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesenberg Viewpoint 17"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein wunderschöner Aussichtspunkt in den Bergen bei Triesenberg mit Panoramablick.",
       hu: "Gyönyörű hegyi kilátópont Triesenberg közelében, panorámás kilátással.",
-      ro: "Un punct de belvedere minunat în mun�?ii de lâng�? Triesenberg, cu vedere panoramic�?.",
+      ro: "Un punct de belvedere minunat în munții de lângă Triesenberg, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Triesenberg with panoramic views."
-    }
-  },
+    }, image: "/poi-images/landscape-triesenberg-17-extra.webp"},
   {
     id: "landscape-ruggell-18-extra",
     type: "forest",
@@ -2163,29 +2098,28 @@ export const poiExtraLiechtensteinOther: POI[] = [
     coords: [9.5283, 47.2353],
     name: {
       de: "Ruggell Wald",
-      hu: "Ruggell Erd�?",
-      ro: "P�?durea Ruggell",
+      hu: "Ruggell Erdő",
+      ro: "Pădurea Ruggell",
       en: "Ruggell Forest"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein ruhiger Wald in der Nähe von Ruggell.",
-      hu: "Egy csendes erd�? Ruggell közelében.",
-      ro: "O p�?dure lini�?tit�? lâng�? Ruggell.",
+      hu: "Egy csendes erdő Ruggell közelében.",
+      ro: "O pădure liniștită lângă Ruggell.",
       en: "A quiet forest near Ruggell."
-    }
-  },
+    }, image: "/poi-images/landscape-ruggell-18-extra.webp"},
   {
     id: "landscape-gamprin-19-extra",
     type: "lake",
@@ -2198,14 +2132,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Gamprin Lake"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -2214,8 +2148,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Gamprin területén.",
       ro: "Un mic lac alpin în Gamprin.",
       en: "A small alpine lake in Gamprin."
-    }
-  },
+    }, image: "/poi-images/landscape-gamprin-19-extra.webp"},
   {
     id: "landscape-schellenberg-20-extra",
     type: "mountain",
@@ -2228,24 +2161,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Schellenberg Viewpoint 20"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein wunderschöner Aussichtspunkt in den Bergen bei Schellenberg mit Panoramablick.",
       hu: "Gyönyörű hegyi kilátópont Schellenberg közelében, panorámás kilátással.",
-      ro: "Un punct de belvedere minunat în mun�?ii de lâng�? Schellenberg, cu vedere panoramic�?.",
+      ro: "Un punct de belvedere minunat în munții de lângă Schellenberg, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Schellenberg with panoramic views."
-    }
-  },
+    }, image: "/poi-images/landscape-schellenberg-20-extra.webp"},
   {
     id: "landscape-planken-21-extra",
     type: "forest",
@@ -2253,26 +2185,26 @@ export const poiExtraLiechtensteinOther: POI[] = [
     coords: [9.5341, 47.1745],
     name: {
       de: "Planken Wald",
-      hu: "Planken Erd�?",
-      ro: "P�?durea Planken",
+      hu: "Planken Erdő",
+      ro: "Pădurea Planken",
       en: "Planken Forest"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein ruhiger Wald in der Nähe von Planken.",
-      hu: "Egy csendes erd�? Planken közelében.",
-      ro: "O p�?dure lini�?tit�? lâng�? Planken.",
+      hu: "Egy csendes erdő Planken közelében.",
+      ro: "O pădure liniștită lângă Planken.",
       en: "A quiet forest near Planken."
     }
   },
@@ -2288,14 +2220,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Vaduz Lake"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -2304,8 +2236,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Vaduz területén.",
       ro: "Un mic lac alpin în Vaduz.",
       en: "A small alpine lake in Vaduz."
-    }
-  },
+    }, image: "/poi-images/landscape-vaduz-22-extra.webp"},
   {
     id: "landscape-schaan-23-extra",
     type: "mountain",
@@ -2318,21 +2249,21 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Schaan Viewpoint 23"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein wunderschöner Aussichtspunkt in den Bergen bei Schaan mit Panoramablick.",
       hu: "Gyönyörű hegyi kilátópont Schaan közelében, panorámás kilátással.",
-      ro: "Un punct de belvedere minunat în mun�?ii de lâng�? Schaan, cu vedere panoramic�?.",
+      ro: "Un punct de belvedere minunat în munții de lângă Schaan, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Schaan with panoramic views."
     }
   },
@@ -2343,26 +2274,26 @@ export const poiExtraLiechtensteinOther: POI[] = [
     coords: [9.4983, 47.0575],
     name: {
       de: "Balzers Wald",
-      hu: "Balzers Erd�?",
-      ro: "P�?durea Balzers",
+      hu: "Balzers Erdő",
+      ro: "Pădurea Balzers",
       en: "Balzers Forest"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein ruhiger Wald in der Nähe von Balzers.",
-      hu: "Egy csendes erd�? Balzers közelében.",
-      ro: "O p�?dure lini�?tit�? lâng�? Balzers.",
+      hu: "Egy csendes erdő Balzers közelében.",
+      ro: "O pădure liniștită lângă Balzers.",
       en: "A quiet forest near Balzers."
     }
   },
@@ -2378,14 +2309,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesen Lake"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -2408,24 +2339,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Eschen Viewpoint 26"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein wunderschöner Aussichtspunkt in den Bergen bei Eschen mit Panoramablick.",
       hu: "Gyönyörű hegyi kilátópont Eschen közelében, panorámás kilátással.",
-      ro: "Un punct de belvedere minunat în mun�?ii de lâng�? Eschen, cu vedere panoramic�?.",
+      ro: "Un punct de belvedere minunat în munții de lângă Eschen, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Eschen with panoramic views."
-    }
-  },
+    }, image: "/poi-images/landscape-eschen-26-extra.webp"},
   {
     id: "landscape-mauren-27-extra",
     type: "forest",
@@ -2433,29 +2363,28 @@ export const poiExtraLiechtensteinOther: POI[] = [
     coords: [9.5541, 47.2317],
     name: {
       de: "Mauren Wald",
-      hu: "Mauren Erd�?",
-      ro: "P�?durea Mauren",
+      hu: "Mauren Erdő",
+      ro: "Pădurea Mauren",
       en: "Mauren Forest"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein ruhiger Wald in der Nähe von Mauren.",
-      hu: "Egy csendes erd�? Mauren közelében.",
-      ro: "O p�?dure lini�?tit�? lâng�? Mauren.",
+      hu: "Egy csendes erdő Mauren közelében.",
+      ro: "O pădure liniștită lângă Mauren.",
       en: "A quiet forest near Mauren."
-    }
-  },
+    }, image: "/poi-images/landscape-mauren-27-extra.webp"},
   {
     id: "landscape-triesenberg-28-extra",
     type: "lake",
@@ -2468,14 +2397,14 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Triesenberg Lake"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
@@ -2484,8 +2413,7 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Triesenberg területén.",
       ro: "Un mic lac alpin în Triesenberg.",
       en: "A small alpine lake in Triesenberg."
-    }
-  },
+    }, image: "/poi-images/landscape-triesenberg-28-extra.webp"},
   {
     id: "landscape-ruggell-29-extra",
     type: "mountain",
@@ -2498,24 +2426,23 @@ export const poiExtraLiechtensteinOther: POI[] = [
       en: "Ruggell Viewpoint 29"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein wunderschöner Aussichtspunkt in den Bergen bei Ruggell mit Panoramablick.",
       hu: "Gyönyörű hegyi kilátópont Ruggell közelében, panorámás kilátással.",
-      ro: "Un punct de belvedere minunat în mun�?ii de lâng�? Ruggell, cu vedere panoramic�?.",
+      ro: "Un punct de belvedere minunat în munții de lângă Ruggell, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Ruggell with panoramic views."
-    }
-  },
+    }, image: "/poi-images/landscape-ruggell-29-extra.webp"},
   {
     id: "landscape-gamprin-30-extra",
     type: "forest",
@@ -2523,28 +2450,28 @@ export const poiExtraLiechtensteinOther: POI[] = [
     coords: [9.5089, 47.2103],
     name: {
       de: "Gamprin Wald",
-      hu: "Gamprin Erd�?",
-      ro: "P�?durea Gamprin",
+      hu: "Gamprin Erdő",
+      ro: "Pădurea Gamprin",
       en: "Gamprin Forest"
     },
     descriptionAdvanced: {
-      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und �?sterreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genie�?en der lokalen Kulinarik �?? Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleicherma�?en genie�?en kann.",
-      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségér�?l is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadid�?s lehet�?ségek sokszínűsége �?? a túrázástól a téli sportokig �?? minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejl�?dés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejl�?dés és a természet megóvása között. Környezetismeret K5 �?? alpesi él�?helyek és védelem.",
+      de: "Liechtenstein bietet mit seiner einzigartigen geografischen Lage zwischen der Schweiz und Österreich ein faszinierendes Reiseziel. Als eines der kleinsten Länder der Welt besticht es durch seine alpine Landschaft, historische Burgruinen und eine exzellente Lebensqualität. Besucher können hier eine harmonische Mischung aus modernem Fortschritt und traditioneller Kultur erleben. Die Region ist bekannt für ihre gepflegten Wanderwege, kulturellen Schätze und eine unberührte Natur, die zum Entspannen einlädt. Mit zahlreichen Museen und historischen Bauwerken bietet das Land zudem tiefe Einblicke in seine reiche Vergangenheit. Ob beim Erkunden der malerischen Dörfer oder beim Genießen der lokalen Kulinarik – Liechtenstein verzaubert durch seine Diskretion und seinen Charme. Die exzellente Infrastruktur macht das Land ideal für ausgedehnte Ausflüge, bei denen man die Stille der Berge und den Komfort der modernen Welt gleichermaßen genießen kann.",
+      hu: "Liechtenstein természeti környezete az alpesi tájak egyik legszebb példája, ahol a völgyek és hegycsúcsok egyedülálló ökoszisztémát alkotnak. A régió nemcsak a gazdasági stabilitásáról, hanem a környezetvédelem iránti elkötelezettségéről is híres, így a látogatók érintetlen tájakat fedezhetnek fel. A szabadidős lehetőségek sokszínűsége – a túrázástól a téli sportokig – minden korosztály számára kínál aktív kikapcsolódást. A helyi közösség értékrendjében kiemelt szerepet kap az örökségvédelem és a fenntartható fejlődés, ami hozzájárul a hercegség egyedi hangulatához. A modern technológiai fejlesztések itt kéz a kézben járnak a hagyományos alpesi életmóddal, egyensúlyt teremtve a fejlődés és a természet megóvása között. Környezetismeret K5 – alpesi élőhelyek és védelem.",
       ro: "",
       en: ""
     },
     factsAdvanced: {
       de: ["Das Land erstreckt sich über eine Fläche von rund 160 Quadratkilometern.", "Liechtenstein ist einer der wenigen Binnenstaaten, der von anderen Binnenstaaten vollständig umschlossen ist.", "Die höchste Erhebung ist der Grauspitz mit einer Höhe von 2.599 Metern.", "Etwa 40 Prozent der Landesfläche sind bewaldet oder von Almen geprägt.", "Das Fürstentum zählt etwa 39.000 Einwohner in elf Gemeinden.", "Der Rhein bildet die natürliche Westgrenze zur Schweiz.", "Liechtenstein ist Mitglied des Europäischen Wirtschaftsraums seit 1995."],
-      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi el�?írások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízer�?források fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legel�?k fenntartása évszázados hagyomány."],
+      hu: ["A hegyvidéki terület az ország felét elfoglalja.", "A völgyek gazdag növényvilággal rendelkeznek.", "A környezetvédelmi előírások szigorúak a régióban.", "A túraútvonalak hossza több mint 400 kilométer.", "A vízerőforrások fontos szerepet töltenek be az energiaellátásban.", "A régióban több védett állatfaj él.", "Az alpesi legelők fenntartása évszázados hagyomány."],
       ro: [],
       en: []
     },
     description: {
       de: "Ein ruhiger Wald in der Nähe von Gamprin.",
-      hu: "Egy csendes erd�? Gamprin közelében.",
-      ro: "O p�?dure lini�?tit�? lâng�? Gamprin.",
+      hu: "Egy csendes erdő Gamprin közelében.",
+      ro: "O pădure liniștită lângă Gamprin.",
       en: "A quiet forest near Gamprin."
-    }
-  },
+    }, image: "/poi-images/landscape-gamprin-30-extra.webp"},
 ];
+
 

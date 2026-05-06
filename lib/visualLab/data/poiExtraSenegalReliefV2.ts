@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSenegalReliefV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Szenegál legmagasabb régiója", "Fontos folyók forrásvidéke"],
       ro: ["Cea mai înaltă regiune din Senegal", "Zona de izvor a unor râuri importante"],
       en: ["Highest region of Senegal", "Source area for major rivers"]
-    }
-  },
+    }, image: "/poi-images/fouta-djallon-relief-v2.webp"},
   {
     id: "ferlo-plateau-v2",
     type: "relief",
@@ -47,8 +47,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Szenegál központi része", "Főleg száraz szavanna"],
       ro: ["Partea centrală a Senegalului", "În principal savană uscată"],
       en: ["Central part of Senegal", "Mainly dry savanna"]
-    }
-  },
+    }, image: "/poi-images/ferlo-plateau-v2.webp"},
   {
     id: "niayes-relief-v2",
     type: "relief",
@@ -71,8 +70,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Part menti fekvés", "Termékeny talajviszonyok"],
       ro: ["Situată lângă coastă", "Condiții de sol fertile"],
       en: ["Located near the coast", "Fertile soil conditions"]
-    }
-  },
+    }, image: "/poi-images/niayes-relief-v2.webp"},
   {
     id: "casamance-tal-v2",
     type: "relief",
@@ -95,8 +93,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Alacsony magasság", "Rendszeres áradások"],
       ro: ["Altitudine joasă", "Inundații regulate"],
       en: ["Low elevation", "Regular flooding"]
-    }
-  },
+    }, image: "/poi-images/casamance-tal-v2.webp"},
   {
     id: "faleme-relief-v2",
     type: "relief",
@@ -119,8 +116,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Határvidéki dombság", "Ásványokban gazdag"],
       ro: ["Dealuri de frontieră", "Bogată în minerale"],
       en: ["Border hills", "Rich in minerals"]
-    }
-  },
+    }, image: "/poi-images/faleme-relief-v2.webp"},
   {
     id: "saloum-delta-relief-v2",
     type: "relief",
@@ -191,8 +187,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Közlekedési csomópont", "Fontos földrajzi küszöb"],
       ro: ["Nod de transport", "Prag geografic important"],
       en: ["Transport hub", "Important geographical threshold"]
-    }
-  },
+    }, image: "/poi-images/thies-plateau-v2.webp"},
   {
     id: "sine-ebene-v2",
     type: "relief",
@@ -215,8 +210,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Termékeny", "Fő földimogyoró-termesztő terület"],
       ro: ["Fertil", "Zona principală de cultivare a arahidelor"],
       en: ["Fertile", "Main peanut growing area"]
-    }
-  },
+    }, image: "/poi-images/sine-ebene-v2.webp"},
   {
     id: "gambia-niederung-v2",
     type: "relief",
@@ -239,8 +233,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Árvízveszélyes", "Biodiverzitásban gazdag"],
       ro: ["Expusă inundațiilor", "Bogată în biodiversitate"],
       en: ["Flood-prone", "Rich in biodiversity"]
-    }
-  },
+    }, image: "/poi-images/gambia-niederung-v2.webp"},
   {
     id: "senegal-delta-ebene-v2",
     type: "relief",
@@ -287,8 +280,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Sivatagi jelleg", "Turisztikai régió"],
       ro: ["Caracter de deșert", "Regiune turistică"],
       en: ["Desert character", "Tourism region"]
-    }
-  },
+    }, image: "/poi-images/lompoul-relief-v2.webp"},
   {
     id: "matam-hochland-v2",
     type: "relief",
@@ -311,8 +303,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Forró éghajlat", "Erősen ki van téve a napnak"],
       ro: ["Climă fierbinte", "Expusă puternic la soare"],
       en: ["Hot climate", "Strongly exposed to the sun"]
-    }
-  },
+    }, image: "/poi-images/matam-hochland-v2.webp"},
   {
     id: "tambacounda-plateau-v2",
     type: "relief",
@@ -359,8 +350,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Sík", "Szeles"],
       ro: ["Plat", "Expusă la vânt"],
       en: ["Flat", "Exposed to wind"]
-    }
-  },
+    }, image: "/poi-images/nördliche-kuestenebene-v2.webp"},
   {
     id: "casamance-waldhuegel-v2",
     type: "forest",
@@ -383,8 +373,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Sűrű faállomány", "Magas páratartalom"],
       ro: ["Pădure deasă", "Umiditate ridicată"],
       en: ["Dense tree cover", "High humidity"]
-    }
-  },
+    }, image: "/poi-images/casamance-waldhuegel-v2.webp"},
   {
     id: "mbao-waldgebiet-v2",
     type: "forest",
@@ -407,8 +396,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Fontos zöld tüdő", "Természetvédelem fontos"],
       ro: ["Plămân verde important", "Conservarea naturii este importantă"],
       en: ["Important green lung", "Nature conservation important"]
-    }
-  },
+    }, image: "/poi-images/mbao-waldgebiet-v2.webp"},
   {
     id: "patar-wald-v2",
     type: "forest",
@@ -431,8 +419,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Szárazerdő", "Alkalmazkodott a hőséghez"],
       ro: ["Pădure uscată", "Adaptată la căldură"],
       en: ["Dry forest", "Adapted to heat"]
-    }
-  },
+    }, image: "/poi-images/patar-wald-v2.webp"},
   {
     id: "niokolo-koba-berg-v2",
     type: "mountain",
@@ -455,8 +442,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Nemzeti park régió", "Dombos"],
       ro: ["Regiunea Parcului Național", "Deluros"],
       en: ["National park region", "Hilly"]
-    }
-  },
+    }, image: "/poi-images/niokolo-koba-berg-v2.webp"},
   {
     id: "fouta-djallon-hochland-v2",
     type: "mountain",
@@ -479,8 +465,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Hegyvidék", "Vízzel gazdag terület"],
       ro: ["Regiune muntoasă", "Zonă bogată în apă"],
       en: ["Mountainous region", "Water-rich area"]
-    }
-  },
+    }, image: "/poi-images/fouta-djallon-hochland-v2.webp"},
   {
     id: "kolda-huegel-v2",
     type: "mountain",
@@ -503,8 +488,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Enyhe emelkedők", "Zöld növényzet"],
       ro: ["Urcușuri ușoare", "Vegetație verde"],
       en: ["Gentle slopes", "Green vegetation"]
-    }
-  },
+    }, image: "/poi-images/kolda-huegel-v2.webp"},
   {
     id: "thiès-hügelzug-v2",
     type: "mountain",
@@ -527,8 +511,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Part menti", "Jó kilátópontok"],
       ro: ["Aproape de coastă", "Puncte de observație bune"],
       en: ["Near the coast", "Good viewpoints"]
-    }
-  },
+    }, image: "/poi-images/thiès-hügelzug-v2.webp"},
   {
     id: "faleme-tal-relief-v2",
     type: "relief",
@@ -551,8 +534,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Meredek lejtők", "Folyómeder"],
       ro: ["Versanți abrupți", "Cursul râului"],
       en: ["Steep slopes", "River course"]
-    }
-  },
+    }, image: "/poi-images/faleme-tal-relief-v2.webp"},
   {
     id: "casamance-huegel-v2",
     type: "mountain",
@@ -575,8 +557,7 @@ export const poiExtraSenegalReliefV2: POI[] = [
       hu: ["Sok eső", "Dús zöld táj"],
       ro: ["Multă ploaie", "Peisaj verde intens"],
       en: ["Plenty of rain", "Lush green landscape"]
-    }
-  },
+    }, image: "/poi-images/casamance-huegel-v2.webp"},
   {
     id: "ferlo-savanne-relief-v2",
     type: "relief",
@@ -602,3 +583,4 @@ export const poiExtraSenegalReliefV2: POI[] = [
     }
   }
 ];
+

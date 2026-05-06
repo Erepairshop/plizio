@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNamibiaReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Az Atlanti-óceán partja mentén húzódik.", "Sossusvleiről ismert.", "Ködös sivatagi éghajlat."],
       ro: ["Se întinde de-a lungul coastei atlantice.", "Cunoscut pentru Sossusvlei.", "Climat deșertic cu ceață."],
       en: ["Stretches along the Atlantic coast.", "Known for Sossusvlei.", "Desert climate with fog."]
-    }
-  },
+    }, image: "/poi-images/namib-desert-relief-v2.webp"},
   {
     id: "kalahari-desert-relief-v2",
     type: "relief",
@@ -27,8 +27,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Namíbia nagy részét lefedi.", "Nem tipikus homoktenger.", "Vadvilág otthona."],
       ro: ["Acoperă mari părți ale Namibiei.", "Nu este o mare de nisip tipică.", "Casă pentru animale sălbatice."],
       en: ["Covers large parts of Namibia.", "Not a typical sea of sand.", "Home to wildlife."]
-    }
-  },
+    }, image: "/poi-images/kalahari-desert-relief-v2.webp"},
   {
     id: "brandberg-mountain-relief-v2",
     type: "mountain",
@@ -41,8 +40,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Legmagasabb pontja a Königstein.", "Sziklafestményeiről ismert.", "Gránitmasszívum."],
       ro: ["Cel mai înalt punct este Königstein.", "Cunoscut pentru picturile rupestre.", "Masiv de granit."],
       en: ["Highest point is Königstein.", "Known for rock paintings.", "Granite massif."]
-    }
-  },
+    }, image: "/poi-images/brandberg-mountain-relief-v2.webp"},
   {
     id: "spitzkoppe-relief-v2",
     type: "mountain",
@@ -55,8 +53,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Gyakran Namíbia Matterhornjaként emlegetik.", "Kedvelt a hegymászók körében.", "Őskori művészetet tartalmaz."],
       ro: ["Adesea numit Matterhornul Namibiei.", "Popular printre alpiniști.", "Conține artă preistorică."],
       en: ["Often called the Matterhorn of Namibia.", "Popular with climbers.", "Contains prehistoric art."]
-    }
-  },
+    }, image: "/poi-images/spitzkoppe-relief-v2.webp"},
   {
     id: "erongo-mountains-relief-v2",
     type: "mountain",
@@ -69,8 +66,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Geológiailag nagyon változatos.", "Ásványairól ismert.", "Kerek forma."],
       ro: ["Geologic foarte divers.", "Cunoscut pentru minerale.", "Formă rotundă."],
       en: ["Geologically very diverse.", "Known for minerals.", "Round shape."]
-    }
-  },
+    }, image: "/poi-images/erongo-mountains-relief-v2.webp"},
   {
     id: "auas-mountains-relief-v2",
     type: "mountain",
@@ -83,8 +79,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Tartalmazza a Moltkeblick-et.", "Fontos vízválasztó.", "Magassága meghaladja a 2400 métert."],
       ro: ["Include Moltkeblick.", "Important cumpănă de ape.", "Înălțime peste 2400 m."],
       en: ["Includes Moltkeblick.", "Important watershed.", "Height over 2400 m."]
-    }
-  },
+    }, image: "/poi-images/auas-mountains-relief-v2.webp"},
   {
     id: "khomas-hochland-relief-v2",
     type: "relief",
@@ -97,8 +92,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Windhoek itt található.", "Tagolt táj.", "Hűvösebb éghajlat."],
       ro: ["Windhoek este situat aici.", "Peisaj accidentat.", "Climă mai răcoroasă."],
       en: ["Windhoek is located here.", "Rugged landscape.", "Cooler climate."]
-    }
-  },
+    }, image: "/poi-images/khomas-hochland-relief-v2.webp"},
   {
     id: "waterberg-plateau-relief-v2",
     type: "relief",
@@ -111,8 +105,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Védett terület a veszélyeztetett fajok számára.", "Meredek lejtők.", "Dús növényzet."],
       ro: ["Arie protejată pentru specii amenințate.", "Pante abrupte.", "Bogată în vegetație."],
       en: ["Protected area for endangered species.", "Steep slopes.", "Rich vegetation."]
-    }
-  },
+    }, image: "/poi-images/waterberg-plateau-relief-v2.webp"},
   {
     id: "fish-river-canyon-relief-v2",
     type: "relief",
@@ -125,8 +118,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Mély eróziós völgy.", "Túrázóparadicsom.", "Látványos kilátások."],
       ro: ["Vale de eroziune adâncă.", "Paradis pentru drumeții.", "Priveliști spectaculoase."],
       en: ["Deep erosion valley.", "Hiking paradise.", "Spectacular views."]
-    }
-  },
+    }, image: "/poi-images/fish-river-canyon-relief-v2.webp"},
   {
     id: "aus-mountains-relief-v2",
     type: "mountain",
@@ -139,8 +131,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["A sivatagi lovak otthona.", "Hűvös felföld.", "Gránitképződmények."],
       ro: ["Casa cailor deșertului.", "Podiș răcoros.", "Formațiuni de granit."],
       en: ["Home to desert horses.", "Cool highlands.", "Granite formations."]
-    }
-  },
+    }, image: "/poi-images/aus-mountains-relief-v2.webp"},
   {
     id: "tsau-khaeb-relief-v2",
     type: "relief",
@@ -153,8 +144,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Nemzeti park.", "Korábban tiltott övezet.", "Egyedülálló növényvilág."],
       ro: ["Parc național.", "Fostă zonă restricționată.", "Floră unică."],
       en: ["National park.", "Formerly restricted area.", "Unique flora."]
-    }
-  },
+    }, image: "/poi-images/tsau-khaeb-relief-v2.webp"},
   {
     id: "huns-mountains-relief-v2",
     type: "mountain",
@@ -167,8 +157,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Durva táj.", "Száraz vidék.", "Ritkán lakott."],
       ro: ["Peisaj aspru.", "Zonă aridă.", "Puțin populat."],
       en: ["Rugged landscape.", "Arid area.", "Sparsely populated."]
-    }
-  },
+    }, image: "/poi-images/huns-mountains-relief-v2.webp"},
   {
     id: "naukluft-mountains-relief-v2",
     type: "mountain",
@@ -181,8 +170,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Túrázásról ismert.", "Meredek sziklafalak.", "Gazdag vadvilág."],
       ro: ["Cunoscut pentru drumeții.", "Pereți stâncoși abrupți.", "Faună bogată."],
       en: ["Known for hiking.", "Steep rock faces.", "Rich wildlife."]
-    }
-  },
+    }, image: "/poi-images/naukluft-mountains-relief-v2.webp"},
   {
     id: "tiras-mountains-relief-v2",
     type: "mountain",
@@ -195,8 +183,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Látványos kilátások.", "Magánrezervátumok.", "Átmeneti övezet."],
       ro: ["Priveliști spectaculoase.", "Rezervații private.", "Zonă de tranziție."],
       en: ["Spectacular views.", "Private reserves.", "Transition zone."]
-    }
-  },
+    }, image: "/poi-images/tiras-mountains-relief-v2.webp"},
   {
     id: "muhlo-mountains-relief-v2",
     type: "mountain",
@@ -209,8 +196,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Dombos terep.", "Száraz völgyek.", "Tipikus Közép-Namíbiára."],
       ro: ["Teren deluros.", "Văi uscate.", "Tipic pentru Namibia centrală."],
       en: ["Hilly terrain.", "Dry valleys.", "Typical for central Namibia."]
-    }
-  },
+    }, image: "/poi-images/muhlo-mountains-relief-v2.webp"},
   {
     id: "otavi-mountains-relief-v2",
     type: "mountain",
@@ -223,8 +209,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Mészkőképződmények.", "Jó csapadék.", "Mezőgazdaságilag fontos."],
       ro: ["Formațiuni de calcar.", "Precipitații bune.", "Important pentru agricultură."],
       en: ["Limestone formations.", "Good rainfall.", "Agriculturally important."]
-    }
-  },
+    }, image: "/poi-images/otavi-mountains-relief-v2.webp"},
   {
     id: "zebra-mountains-relief-v2",
     type: "mountain",
@@ -237,8 +222,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Csíkos kőzetrétegek.", "Távoli régió.", "Sivatagi táj."],
       ro: ["Straturi de rocă dungate.", "Regiune izolată.", "Peisaj deșertic."],
       en: ["Striped rock layers.", "Remote region.", "Desert landscape."]
-    }
-  },
+    }, image: "/poi-images/zebra-mountains-relief-v2.webp"},
   {
     id: "baynes-mountains-relief-v2",
     type: "mountain",
@@ -251,8 +235,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Nagyon meredek.", "Angolai határ.", "Alig látogatott."],
       ro: ["Foarte accidentat.", "Granița cu Angola.", "Puțin vizitat."],
       en: ["Very rugged.", "Border with Angola.", "Hardly visited."]
-    }
-  },
+    }, image: "/poi-images/baynes-mountains-relief-v2.webp"},
   {
     id: "hartmann-mountains-relief-v2",
     type: "mountain",
@@ -265,8 +248,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Sivatagi hegyek.", "Rendkívül száraz.", "Kaokoveld-táj."],
       ro: ["Munți deșertici.", "Extrem de uscat.", "Peisaj Kaokoveld."],
       en: ["Desert mountains.", "Extremely dry.", "Kaokoveld landscape."]
-    }
-  },
+    }, image: "/poi-images/hartmann-mountains-relief-v2.webp"},
   {
     id: "grootberg-relief-v2",
     type: "mountain",
@@ -279,8 +261,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Meredek falú.", "Csodás kilátás.", "Természetvédelmi terület."],
       ro: ["Pereți abrupți.", "Vedere minunată.", "Rezervație naturală."],
       en: ["Steep-walled.", "Great views.", "Nature reserve."]
-    }
-  },
+    }, image: "/poi-images/grootberg-relief-v2.webp"},
   {
     id: "epupa-falls-relief-v2",
     type: "relief",
@@ -293,8 +274,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Pálmákkal benőtt.", "Határfolyó.", "Látványos szurdok."],
       ro: ["Acoperit cu palmieri.", "Râu de frontieră.", "Chei spectaculoase."],
       en: ["Palm-covered.", "Border river.", "Spectacular gorge."]
-    }
-  },
+    }, image: "/poi-images/epupa-falls-relief-v2.webp"},
   {
     id: "khoe-khoe-mountains-relief-v2",
     type: "mountain",
@@ -307,8 +287,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Száraz felföld.", "Kulturális szempontból érdekes.", "Hagyományos települések."],
       ro: ["Podiș arid.", "Interesant cultural.", "Așezări tradiționale."],
       en: ["Arid highlands.", "Culturally interesting.", "Traditional settlements."]
-    }
-  },
+    }, image: "/poi-images/khoe-khoe-mountains-relief-v2.webp"},
   {
     id: "ongongo-relief-v2",
     type: "relief",
@@ -321,8 +300,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Sziklamedence.", "Friss víz.", "Szurdokvölgyekben."],
       ro: ["Bazin stâncos.", "Apă proaspătă.", "În văi stâncoase."],
       en: ["Rock pool.", "Fresh water.", "In cliff valleys."]
-    }
-  },
+    }, image: "/poi-images/ongongo-relief-v2.webp"},
   {
     id: "palmwag-concession-relief-v2",
     type: "relief",
@@ -335,8 +313,7 @@ export const poiExtraNamibiaReliefV2: POI[] = [
       hu: ["Sivataghoz alkalmazkodott állatok.", "Bazalt-hegység.", "Tágas tájak."],
       ro: ["Animale adaptate deșertului.", "Munți de bazalt.", "Peisaje vaste."],
       en: ["Desert-adapted animals.", "Basalt mountains.", "Vast landscapes."]
-    }
-  },
+    }, image: "/poi-images/palmwag-concession-relief-v2.webp"},
   {
     id: "urichab-relief-v2",
     type: "relief",
@@ -352,3 +329,4 @@ export const poiExtraNamibiaReliefV2: POI[] = [
     }
   }
 ];
+

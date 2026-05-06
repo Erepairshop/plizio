@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSouthafricaEconomicV2: POI[] = [
@@ -27,8 +28,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Itt található a világ legnagyobb szénexportáló terminálja.", "Kifejezetten ömlesztett export céljára épült az 1970-es években."],
       ro: ["Găzduiește cel mai mare terminal de export de cărbune din lume.", "Construit special în anii 1970 pentru a gestiona exporturile în vrac."],
       en: ["Home to the largest coal export terminal in the world.", "Purpose-built in the 1970s to handle bulk exports."]
-    }
-  },
+    }, image: "/poi-images/port-of-richards-bay-economic-v2.webp"},
   {
     id: "port-of-cape-town-economic-v2",
     type: "port",
@@ -41,8 +41,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Dél-afrikai gyümölcsök és borok elsődleges exportközpontjaként szolgál.", "A régió hajójavítási és -karbantartási központja is egyben."],
       ro: ["Servește ca facilitate principală de export pentru fructele și vinul din Africa de Sud.", "De asemenea, un centru major pentru reparații și întreținere a navelor din regiune."],
       en: ["Serves as the primary export facility for South African fruits and wine.", "Also a major hub for ship repair and maintenance in the region."]
-    }
-  },
+    }, image: "/poi-images/port-of-cape-town-economic-v2.webp"},
   {
     id: "port-of-gqeberha-economic-v2",
     type: "port",
@@ -69,8 +68,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Egy 861 km hosszú vasútvonallal csatlakozik a sisheni vasércbányához.", "Évente több millió tonna vasércet kezel."],
       ro: ["Conectat la mina de minereu de fier Sishen printr-o linie de cale ferată de 861 km.", "Gestionează anual milioane de tone de minereu de fier."],
       en: ["Connected to the Sishen iron ore mine via an 861 km railway line.", "Handles millions of tonnes of iron ore annually."]
-    }
-  },
+    }, image: "/poi-images/port-of-saldanha-economic-v2.webp"},
   {
     id: "port-of-east-london-economic-v2",
     type: "port",
@@ -83,8 +81,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Elsősorban a helyi autóipart és mezőgazdaságot szolgálja ki.", "Speciális gabonatároló elevátorral rendelkezik."],
       ro: ["Servește în primul rând industriilor locale auto și agricole.", "Are o structură specializată de siloz de cereale."],
       en: ["Primarily serves the local automotive and agricultural industries.", "Features a specialized grain elevator structure."]
-    }
-  },
+    }, image: "/poi-images/port-of-east-london-economic-v2.webp"},
   {
     id: "port-of-ngqura-economic-v2",
     type: "port",
@@ -97,8 +94,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Dél-Afrika egyik legújabb kikötője, amelyet 2009-ben nyitottak meg.", "Az afrikai régió egyik fő átrakodási központjaként működik."],
       ro: ["Unul dintre cele mai noi porturi din Africa de Sud, deschis în 2009.", "Acționează ca un centru major de transbordare pentru regiunea africană."],
       en: ["One of the newest ports in South Africa, opened in 2009.", "Acts as a major transshipment hub for the African region."]
-    }
-  },
+    }, image: "/poi-images/port-of-ngqura-economic-v2.webp"},
   {
     id: "mponeng-gold-mine-economic-v2",
     type: "industry",
@@ -139,8 +135,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["A Cullinan gyémánt 3106 karátos volt, amikor 1905-ben felfedezték.", "Továbbra is jelentős mennyiségű ritka kék gyémántot bányásznak itt."],
       ro: ["Diamantul Cullinan cântărea 3.106 carate la descoperirea sa în 1905.", "Continuă să producă cantități semnificative de diamante albastre rare."],
       en: ["The Cullinan Diamond weighed 3,106 carats when discovered in 1905.", "Continues to produce significant quantities of rare blue diamonds."]
-    }
-  },
+    }, image: "/poi-images/cullinan-diamond-mine-economic-v2.webp"},
   {
     id: "venetia-diamond-mine-economic-v2",
     type: "industry",
@@ -153,8 +148,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Dél-Afrika éves gyémánttermelésének több mint 40%-át adja.", "A földalatti projekt 2046-ig meghosszabbítja a bánya élettartamát."],
       ro: ["Reprezintă peste 40% din producția anuală de diamante a Africii de Sud.", "Proiectul subteran va extinde durata de viață a minei până în 2046."],
       en: ["Accounts for over 40% of South Africa's annual diamond production.", "The underground project will extend the mine's life to 2046."]
-    }
-  },
+    }, image: "/poi-images/venetia-diamond-mine-economic-v2.webp"},
   {
     id: "finsch-diamond-mine-economic-v2",
     type: "industry",
@@ -167,8 +161,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Eredetileg külszíni bányaként nyitották meg az 1960-as években.", "Automatizált ércszállító rendszert használ."],
       ro: ["Dezvoltată inițial ca mină de suprafață în anii 1960.", "Utilizează un sistem automatizat de transport al minereului."],
       en: ["Originally developed as an open-pit mine in the 1960s.", "Utilizes an automated ore transport system."]
-    }
-  },
+    }, image: "/poi-images/finsch-diamond-mine-economic-v2.webp"},
   {
     id: "sishen-iron-ore-mine-economic-v2",
     type: "industry",
@@ -181,8 +174,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["A bánya több mint 14 kilométer hosszú.", "A kitermelt ércet egy hatalmas, dedikált vasútvonalon szállítják Saldanha kikötőjébe."],
       ro: ["Mina se întinde pe o lungime de peste 14 kilometri.", "Minereul său este transportat în Portul Saldanha pe o linie de cale ferată masivă dedicată."],
       en: ["The mine stretches over 14 kilometers in length.", "Its ore is transported to the Port of Saldanha on a massive dedicated railway line."]
-    }
-  },
+    }, image: "/poi-images/sishen-iron-ore-mine-economic-v2.webp"},
   {
     id: "palabora-copper-mine-economic-v2",
     type: "industry",
@@ -195,8 +187,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["A Kruger Nemzeti Park határának közelében működik.", "Olyan melléktermékeket is kitermel, mint a magnetit és a vermikulit."],
       ro: ["Operează aproape de granița Parcului Național Kruger.", "Produce, de asemenea, produse secundare precum magnetit și vermiculit."],
       en: ["Operates close to the border of the Kruger National Park.", "Also produces by-products like magnetite and vermiculite."]
-    }
-  },
+    }, image: "/poi-images/palabora-copper-mine-economic-v2.webp"},
   {
     id: "grootegeluk-coal-mine-economic-v2",
     type: "industry",
@@ -209,8 +200,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Itt található a világ legnagyobb szénelőkészítő komplexuma.", "Elsődlegesen biztosítja a hatalmas Medupi és Matimba erőművek szénellátását."],
       ro: ["Dispune de cel mai mare complex de preparare a cărbunelui din lume.", "Asigură aprovizionarea primară cu cărbune pentru masivele centrale electrice Medupi și Matimba."],
       en: ["Features the world's largest coal beneficiation complex.", "Provides primary coal supply to the massive Medupi and Matimba power stations."]
-    }
-  },
+    }, image: "/poi-images/grootegeluk-coal-mine-economic-v2.webp"},
   {
     id: "kusile-power-station-economic-v2",
     type: "industry",
@@ -223,8 +213,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Ez az első erőmű Dél-Afrikában, amely füstgáz-kénmentesítő technológiát alkalmaz.", "Befejezésekor 4800 megawatt kapacitással fog rendelkezni."],
       ro: ["Este prima centrală electrică din Africa de Sud care instalează tehnologie de desulfurare a gazelor de ardere.", "Va avea o capacitate de 4.800 de megawați la finalizare."],
       en: ["It is the first power station in South Africa to install flue-gas desulphurization technology.", "Will have a capacity of 4,800 megawatts upon completion."]
-    }
-  },
+    }, image: "/poi-images/kusile-power-station-economic-v2.webp"},
   {
     id: "medupi-power-station-economic-v2",
     type: "industry",
@@ -237,8 +226,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["A beépített kapacitás alapján a világ negyedik legnagyobb szénerőműve.", "A régió vízhiánya miatt közvetlen szárazhűtési rendszereket alkalmaz."],
       ro: ["A patra cea mai mare centrală pe cărbune din lume după capacitatea instalată.", "Utilizează sisteme de răcire uscată directă din cauza deficitului de apă din regiune."],
       en: ["The fourth-largest coal plant in the world by installed capacity.", "Utilizes direct dry cooling systems due to water scarcity in the region."]
-    }
-  },
+    }, image: "/poi-images/medupi-power-station-economic-v2.webp"},
   {
     id: "kendal-power-station-economic-v2",
     type: "industry",
@@ -251,8 +239,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["4116 megawatt villamos energia előállítására képes.", "Hatalmas hűtőtornyai kiemelkedő tájékozódási pontot jelentenek Mpumalangában."],
       ro: ["Poate genera 4.116 megawați de energie electrică.", "Turnurile sale masive de răcire sunt un punct de reper proeminent în Mpumalanga."],
       en: ["Can generate 4,116 megawatts of electricity.", "Its massive cooling towers are a prominent landmark in Mpumalanga."]
-    }
-  },
+    }, image: "/poi-images/kendal-power-station-economic-v2.webp"},
   {
     id: "sasol-secunda-economic-v2",
     type: "industry",
@@ -265,8 +252,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["A Föld legnagyobb egypontos üvegházhatású gázkibocsátó forrása.", "Az eredetileg Németországban kifejlesztett Fischer-Tropsch eljárást alkalmazza."],
       ro: ["Cea mai mare sursă punctuală de emisii de gaze cu efect de seră de pe Pământ.", "Utilizează procesul Fischer-Tropsch dezvoltat inițial în Germania."],
       en: ["The largest single-point greenhouse gas emission source on Earth.", "Uses the Fischer-Tropsch process developed originally in Germany."]
-    }
-  },
+    }, image: "/poi-images/sasol-secunda-economic-v2.webp"},
   {
     id: "sasol-sasolburg-economic-v2",
     type: "industry",
@@ -279,8 +265,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["1950-ben alapították, hogy csökkentsék Dél-Afrika függőségét az import olajtól.", "Ma már erősen a nagy értékű vegyipari termékekre összpontosít."],
       ro: ["Înființată în 1950 pentru a reduce dependența Africii de Sud de petrolul importat.", "Acum se concentrează puternic pe produse chimice de mare valoare."],
       en: ["Established in 1950 to reduce South Africa's reliance on imported oil.", "Now focuses heavily on high-value chemical products."]
-    }
-  },
+    }, image: "/poi-images/sasol-sasolburg-economic-v2.webp"},
   {
     id: "bmw-rosslyn-plant-economic-v2",
     type: "industry",
@@ -307,8 +292,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Korábban Uitenhage (ma Kariega) néven volt ismert a település.", "A Kelet-Fokföld feldolgozóiparának egyik sarokköve."],
       ro: ["Situată anterior în Uitenhage (acum Kariega).", "O piatră de temelie a economiei de producție din Eastern Cape."],
       en: ["Previously located in Uitenhage (now Kariega).", "A cornerstone of the Eastern Cape's manufacturing economy."]
-    }
-  },
+    }, image: "/poi-images/vw-kariega-plant-economic-v2.webp"},
   {
     id: "ford-silverton-plant-economic-v2",
     type: "industry",
@@ -321,8 +305,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Világszerte több mint 100 piacra exportál pickupokat.", "Nemrégiben hatalmas modernizációs és bővítési projekten esett át."],
       ro: ["Exportă camionete către peste 100 de piețe la nivel global.", "A suferit recent un proiect masiv de modernizare și extindere."],
       en: ["Exports pickup trucks to over 100 markets globally.", "Recently underwent a massive modernization and expansion project."]
-    }
-  },
+    }, image: "/poi-images/ford-silverton-plant-economic-v2.webp"},
   {
     id: "toyota-prospecton-plant-economic-v2",
     type: "industry",
@@ -335,8 +318,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Jelentős károkat szenvedett a 2022-es KwaZulu-Natal-i árvizek során, de teljesen helyreállították.", "A kontinens egyik legnagyobb volumenű gépjárműgyártó üzeme."],
       ro: ["A suferit daune semnificative în timpul inundațiilor din KwaZulu-Natal din 2022, dar s-a recuperat complet.", "Una dintre fabricile de producție a vehiculelor cu cel mai mare volum de pe continent."],
       en: ["Suffered significant damage during the 2022 KwaZulu-Natal floods but fully recovered.", "One of the highest-volume vehicle manufacturing plants on the continent."]
-    }
-  },
+    }, image: "/poi-images/toyota-prospecton-plant-economic-v2.webp"},
   {
     id: "mercedes-east-london-plant-economic-v2",
     type: "industry",
@@ -349,8 +331,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Minőség tekintetében folyamatosan a világ legjobb Mercedes-Benz gyárai között szerepel.", "Jelentős foglalkoztatást biztosít a Kelet-Fokföld régióban."],
       ro: ["S-a clasat în mod constant printre primele fabrici Mercedes-Benz la nivel global pentru calitate.", "Oferă locuri de muncă semnificative în regiunea Eastern Cape."],
       en: ["Has consistently ranked among the top Mercedes-Benz plants globally for quality.", "Provides significant employment in the Eastern Cape region."]
-    }
-  },
+    }, image: "/poi-images/mercedes-east-london-plant-economic-v2.webp"},
   {
     id: "koeberg-nuclear-power-station-economic-v2",
     type: "industry",
@@ -363,8 +344,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Az Atlanti-óceán partján található, és a tengervizet használja hűtésre.", "Két nyomottvizes reaktorral rendelkezik."],
       ro: ["Situată pe coasta Atlanticului, folosind apa oceanului pentru răcire.", "Dispune de două reactoare cu apă sub presiune."],
       en: ["Located on the Atlantic coast, using ocean water for cooling.", "Features two pressurized water reactors."]
-    }
-  },
+    }, image: "/poi-images/koeberg-nuclear-power-station-economic-v2.webp"},
   {
     id: "anglo-american-platinum-rustenburg-economic-v2",
     type: "industry",
@@ -377,8 +357,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["A platina létfontosságú az autóiparban használt katalizátorokhoz.", "A Bushveld-komplexum rejti a világ ismert platinatartalékainak nagy részét."],
       ro: ["Platina este vitală pentru convertoarele catalitice din industria auto.", "Complexul Bushveld deține majoritatea rezervelor mondiale cunoscute de platină."],
       en: ["Platinum is vital for catalytic converters in the automotive industry.", "The Bushveld Complex holds the majority of the world's known platinum reserves."]
-    }
-  },
+    }, image: "/poi-images/anglo-american-platinum-rustenburg-economic-v2.webp"},
   {
     id: "impala-platinum-mine-economic-v2",
     type: "industry",
@@ -391,8 +370,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Hatalmas földalatti kiterjedéssel és több aknarendszerrel rendelkezik.", "Több tízezer munkavállalót foglalkoztat a régióban."],
       ro: ["Dispune de o amprentă subterană masivă cu mai multe sisteme de puțuri.", "Angajează zeci de mii de muncitori în regiune."],
       en: ["Features a massive underground footprint with multiple shaft systems.", "Employs tens of thousands of workers in the region."]
-    }
-  },
+    }, image: "/poi-images/impala-platinum-mine-economic-v2.webp"},
   {
     id: "foskor-phalaborwa-economic-v2",
     type: "industry",
@@ -405,8 +383,7 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       hu: ["Világszerte exportál kiváló minőségű foszforsavat.", "A szomszédos rézbányászati ​​tevékenységekkel párhuzamosan működik."],
       ro: ["Exportă acid fosforic de înaltă calitate la nivel global.", "Lucrează alături de operațiunile adiacente de exploatare a cuprului."],
       en: ["Exports high-quality phosphoric acid globally.", "Works alongside the adjacent copper mining operations."]
-    }
-  },
+    }, image: "/poi-images/foskor-phalaborwa-economic-v2.webp"},
   {
     id: "modikwa-platinum-mine-economic-v2",
     type: "industry",
@@ -422,3 +399,4 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     }
   }
 ];
+

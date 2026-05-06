@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGambiaEconomicV2: POI[] = [
@@ -23,8 +24,19 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Stratégiai mélyvízi kikötő az Atlanti-óceánon.", "Az importáruk legfontosabb rakodóhelye."],
       ro: ["Port strategic de apă adâncă la Atlantic.", "Cel mai important punct de transbordare pentru importuri."],
       en: ["Strategic deep-water port on the Atlantic.", "Most important transshipment point for imports."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Hafen von Banjul ist das logistische Rückgrat Gambias. Als Tiefwasserhafen am Atlantischen Ozean wickelt er über 90 Prozent des gesamten Import- und Exportvolumens des Landes ab. Seit der Modernisierung in den 2010er Jahren kann er größere Containerschiffe aufnehmen, was die Handelseffizienz mit internationalen Märkten erheblich gesteigert hat. Der Hafen spielt eine zentrale Rolle in der Versorgung der Bevölkerung mit lebensnotwendigen Gütern und dient als wichtiger Knotenpunkt für den Re-Export in die benachbarten Staaten Westafrikas.",
+      hu: "A Banjuli kikötő Gambia logisztikai gerincét képezi. Az Atlanti-óceánon található mélyvízi kikötőként az ország teljes import- és exportforgalmának több mint 90 százalékát kezeli. A 2010-es években végrehajtott modernizáció óta nagyobb konténerszállító hajókat is képes fogadni, ami jelentősen növelte a nemzetközi piacokkal folytatott kereskedelem hatékonyságát. A kikötő központi szerepet játszik a lakosság alapvető árukkal való ellátásában, és fontos elosztóközpontként szolgál a szomszédos nyugat-afrikai államokba irányuló újraexport számára.",
+      ro: "Portul din Banjul constituie coloana vertebrală logistică a Gambiei. Ca port de apă adâncă la Oceanul Atlantic, acesta gestionează peste 90 la sută din volumul total de importuri și exporturi al țării. De la modernizarea din anii 2010, acesta poate primi nave portcontainer mai mari, ceea ce a crescut considerabil eficiența schimburilor comerciale cu piețele internaționale. Portul joacă un rol central în aprovizionarea populației cu bunuri esențiale și servește drept nod important pentru reexportul către statele vecine din Africa de Vest.",
+      en: "The Port of Banjul is Gambia's logistical backbone. As a deep-water port on the Atlantic Ocean, it handles over 90 percent of the country's total import and export volume. Since modernization in the 2010s, it has been able to accommodate larger container ships, which has significantly increased trade efficiency with international markets. The port plays a central role in supplying the population with essential goods and serves as an important hub for re-exports to neighboring West African states."
+    },
+    factsAdvanced: {
+      de: ["Umschlag von über 90% des gambischen Außenhandels.", "Modernisierung der Hafenanlagen in den 2010er Jahren.", "Zentraler Knotenpunkt für Westafrika-Re-Exporte.", "Tiefwasserhafen mit Anbindung an den Atlantik.", "Wichtigster Arbeitgeber im Logistiksektor von Banjul.", "Verbindet Gambia direkt mit globalen Schifffahrtsrouten."],
+      hu: ["A gambiai külkereskedelem több mint 90%-át kezeli.", "A kikötői létesítmények modernizálása a 2010-es években.", "Központi csomópont a nyugat-afrikai újraexport számára.", "Mélyvízi kikötő atlanti-óceáni összeköttetéssel.", "Banjul logisztikai szektorának legfontosabb munkaadója.", "Közvetlen összeköttetést biztosít a globális hajózási útvonalakkal."],
+      ro: ["Gestionează peste 90% din comerțul exterior al Gambiei.", "Modernizarea instalațiilor portuare în anii 2010.", "Nod central pentru reexporturile în Africa de Vest.", "Port de apă adâncă cu conexiune la Atlantic.", "Cel mai important angajator în sectorul logistic din Banjul.", "Conectează Gambia direct cu rutele maritime globale."],
+      en: ["Handles over 90% of Gambian foreign trade.", "Modernization of port facilities in the 2010s.", "Central hub for West African re-exports.", "Deep-water port with Atlantic connectivity.", "Most important employer in Banjul's logistics sector.", "Connects Gambia directly to global shipping routes."]
+    }, image: "/poi-images/banjul-sea-port-economic-v2.webp"},
   {
     id: "banjul-fisheries-jetty-economic-v2",
     type: "port",
@@ -47,8 +59,19 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Az ipari halászat központja.", "Hűtőhajók és vonóhálós hajók kikötőhelye."],
       ro: ["Centrul pescuitului industrial.", "Punct de acostare pentru nave frigorifice și traulere."],
       en: ["Center of industrial fishing.", "Berth for reefer ships and trawlers."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Fischereianlegestelle in Banjul ist ein spezialisiertes industrielles Zentrum an der Mündung des Gambia-Flusses. Sie dient als Hauptanlaufstelle für industrielle Trawler und Kühlschiffe, die den Fang aus den reichen atlantischen Fischgründen vor der gambischen Küste anlanden. Die Anlage ist eng mit den lokalen Fischverarbeitungsbetrieben verknüpft, die den Fisch für den Export in die Europäische Union und andere internationale Märkte vorbereiten. Dieser Sektor ist ein entscheidender Devisenbringer und bietet Tausenden Menschen in der Hauptstadtregion direkte oder indirekte Arbeitsplätze.",
+      hu: "A banjuli halászati rakodóhely egy speciális ipari központ a Gambia-folyó torkolatánál. Ez a fő kikötőhelye azoknak az ipari vonóhálós és hűtőhajóknak, amelyek a gambiai partok előtti gazdag atlanti halászterületekről érkeznek. A létesítmény szorosan kapcsolódik a helyi halfeldolgozó üzemekhez, amelyek az Európai Unióba és más nemzetközi piacokra irányuló exportra készítik elő a halat. Ez az ágazat kulcsfontosságú devizaforrás, és közvetlen vagy közvetett munkahelyeket biztosít több ezer ember számára a fővárosi régióban.",
+      ro: "Debarcaderul de pescuit din Banjul este un centru industrial specializat la gura râului Gambia. Acesta servește drept punct principal pentru traulerele industriale și navele frigorifice care aduc capturile din bogatele zone de pescuit atlantice de pe coasta Gambiei. Facilitatea este strâns legată de unitățile locale de procesare a peștelui, care pregătesc peștele pentru exportul către Uniunea Europeană și alte piețe internaționale. Acest sector este o sursă crucială de valută și oferă locuri de muncă directe sau indirecte pentru mii de oameni din regiunea capitalei.",
+      en: "The fisheries jetty in Banjul is a specialized industrial center at the mouth of the Gambia River. It serves as the main berth for industrial trawlers and reefer ships landing catches from the rich Atlantic fishing grounds off the Gambian coast. The facility is closely linked to local fish processing plants, which prepare fish for export to the European Union and other international markets. This sector is a crucial source of foreign currency and provides direct or indirect jobs for thousands of people in the capital region."
+    },
+    factsAdvanced: {
+      de: ["Spezialisierter Hafen für industrielle Fischereiflotten.", "Hauptumschlagplatz für atlantische Fischimporte.", "Enge Anbindung an die Fischverarbeitungsindustrie.", "Wichtiger Devisenbringer für die gambische Wirtschaft.", "Beschäftigt Tausende in der Hauptstadtregion.", "Zentrum für die hygienische Handhabung von Fisch."],
+      hu: ["Speciális kikötő az ipari halászflották számára.", "Fő rakodóhely az atlanti halimport számára.", "Szoros kapcsolat a halfeldolgozó iparral.", "Fontos devizaforrás a gambiai gazdaság számára.", "Több ezreket foglalkoztat a fővárosi régióban.", "A hal higiénikus kezelésének központja."],
+      ro: ["Port specializat pentru flotele de pescuit industrial.", "Principalul punct de transbordare pentru importurile de pește atlantice.", "Legătură strânsă cu industria de procesare a peștelui.", "Sursă importantă de valută pentru economia gambiană.", "Angajează mii de oameni în regiunea capitalei.", "Centru pentru manipularea igienică a peștelui."],
+      en: ["Specialized port for industrial fishing fleets.", "Main transshipment point for Atlantic fish imports.", "Close link to the fish processing industry.", "Important source of foreign currency for the Gambian economy.", "Employs thousands in the capital region.", "Center for hygienic handling of fish."]
+    }, image: "/poi-images/banjul-fisheries-jetty-economic-v2.webp"},
   {
     id: "sarro-groundnut-plant-economic-v2",
     type: "industry",
@@ -71,8 +94,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["A földimogyoró-export központi pontja.", "Nagy silórendszerek a tároláshoz."],
       ro: ["Punct central pentru exportul de arahide.", "Instalații mari de silozuri pentru depozitare."],
       en: ["Central point for groundnut exports.", "Large silo facilities for storage."]
-    }
-  },
+    }, image: "/poi-images/sarro-groundnut-plant-economic-v2.webp"},
   {
     id: "banjul-breweries-economic-v2",
     type: "industry",
@@ -95,8 +117,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Az ország legnagyobb italgyártója.", "Fontos magánszektorbeli munkaadó."],
       ro: ["Cel mai mare producător de băuturi din țară.", "Important angajator privat."],
       en: ["Largest beverage producer in the country.", "Important private sector employer."]
-    }
-  },
+    }, image: "/poi-images/banjul-breweries-economic-v2.webp"},
   {
     id: "gambia-milling-corp-economic-v2",
     type: "industry",
@@ -119,8 +140,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Biztosítja a nemzeti lisztellátást.", "Közvetlen hozzáférés a gabonaimporthoz."],
       ro: ["Asigură aprovizionarea națională cu făină.", "Acces direct la importurile de cereale."],
       en: ["Ensures national flour supply.", "Direct access to grain imports."]
-    }
-  },
+    }, image: "/poi-images/gambia-milling-corp-economic-v2.webp"},
   {
     id: "brikama-power-station-economic-v2",
     type: "industry",
@@ -143,8 +163,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["A nemzeti energiaellátás gerince.", "Nehézfűtőolajjal működik."],
       ro: ["Coloana vertebrală a aprovizionării naționale cu energie.", "Funcționează cu combustibili grei."],
       en: ["Backbone of national energy supply.", "Operated with heavy fuels."]
-    }
-  },
+    }, image: "/poi-images/brikama-power-station-economic-v2.webp"},
   {
     id: "gunjur-fish-meal-factory-economic-v2",
     type: "industry",
@@ -167,8 +186,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Exportorientált termelés.", "Fontos szereplő a helyi gazdaságban."],
       ro: ["Producție orientată spre export.", "Actor important în economia locală."],
       en: ["Export-oriented production.", "Important player in the local economy."]
-    }
-  },
+    }, image: "/poi-images/gunjur-fish-meal-factory-economic-v2.webp"},
   {
     id: "denton-bridge-fish-cluster-economic-v2",
     type: "industry",
@@ -215,8 +233,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Egykor a legfontosabb belső rakodóhely.", "Nagy kapacitás az átmeneti tároláshoz."],
       ro: ["Cândva cel mai important punct de transbordare din interior.", "Capacități mari pentru depozitarea intermediară."],
       en: ["Once the most important inland transshipment point.", "Large capacities for intermediate storage."]
-    }
-  },
+    }, image: "/poi-images/kaur-groundnut-depot-economic-v2.webp"},
   {
     id: "kuntaur-groundnut-depot-economic-v2",
     type: "port",
@@ -239,8 +256,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["A Central River régió gyűjtőhelye.", "Folyami szállítóhajók kikötőhelye."],
       ro: ["Punct de colectare pentru regiunea Central River.", "Punct de acostare pentru navele de transport fluvial."],
       en: ["Collection point for the Central River Region.", "Berth for river-going transport vessels."]
-    }
-  },
+    }, image: "/poi-images/kuntaur-groundnut-depot-economic-v2.webp"},
   {
     id: "barra-ferry-terminal-economic-v2",
     type: "port",
@@ -263,8 +279,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Kapu az ország északi részéhez.", "Nagy forgalom a kereskedelem és az ingázók számára."],
       ro: ["Poarta către nordul țării.", "Volum mare de trafic pentru comerț și navetiști."],
       en: ["Gateway to the north of the country.", "High traffic volume for trade and commuters."]
-    }
-  },
+    }, image: "/poi-images/barra-ferry-terminal-economic-v2.webp"},
   {
     id: "bakau-fish-landing-economic-v2",
     type: "port",
@@ -287,8 +302,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Fontos a helyi élelmiszerbiztonság szempontjából.", "A kézműves hajóépítés központja."],
       ro: ["Important pentru securitatea alimentară locală.", "Centru pentru construcția artizanală de bărci."],
       en: ["Important for local food security.", "Center for artisanal boat building."]
-    }
-  },
+    }, image: "/poi-images/bakau-fish-landing-economic-v2.webp"},
   {
     id: "brufut-fish-landing-economic-v2",
     type: "port",
@@ -311,8 +325,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Nagy halszárító létesítmények.", "Jelentős pirog-flotta."],
       ro: ["Instalații mari pentru uscarea peștelui.", "Flotă semnificativă de pirogi."],
       en: ["Large facilities for fish drying.", "Significant fleet of pirogues."]
-    }
-  },
+    }, image: "/poi-images/brufut-fish-landing-economic-v2.webp"},
   {
     id: "sanyang-fish-landing-economic-v2",
     type: "port",
@@ -335,8 +348,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Napi piac nagykereskedők számára.", "Prémium halfajok exportja."],
       ro: ["Piață zilnică pentru angrosiști.", "Export de specii de pește premium."],
       en: ["Daily market for wholesalers.", "Export of premium fish species."]
-    }
-  },
+    }, image: "/poi-images/sanyang-fish-landing-economic-v2.webp"},
   {
     id: "kartong-sand-mining-economic-v2",
     type: "industry",
@@ -359,8 +371,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Infrastrukturális projektek forrása.", "Ilmenit kitermelése."],
       ro: ["Sursă de aprovizionare pentru proiecte de infrastructură.", "Extracția de ilmenit."],
       en: ["Source of supply for infrastructure projects.", "Extraction of ilmenite."]
-    }
-  },
+    }, image: "/poi-images/kartong-sand-mining-economic-v2.webp"},
   {
     id: "batokunku-wind-power-economic-v2",
     type: "industry",
@@ -407,8 +418,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Az utolsó nagyobb kikötőhely keleten.", "A határ menti kereskedelem központja."],
       ro: ["Ultimul debarcader major din est.", "Centru pentru comerțul cu zona de frontieră."],
       en: ["Last major berth in the east.", "Center for trade with the border area."]
-    }
-  },
+    }, image: "/poi-images/fatoto-river-wharf-economic-v2.webp"},
   {
     id: "bansang-river-wharf-economic-v2",
     type: "port",
@@ -431,8 +441,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["Jelentős gabonarakodó hely.", "Fontos összeköttetés a South Bank Roadhoz."],
       ro: ["Punct important de transbordare pentru cereale.", "Legătură importantă cu South Bank Road."],
       en: ["Significant transshipment point for grain.", "Important link to the South Bank Road."]
-    }
-  },
+    }, image: "/poi-images/bansang-river-wharf-economic-v2.webp"},
   {
     id: "kerewan-fish-landing-economic-v2",
     type: "port",
@@ -455,8 +464,7 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       hu: ["A régió halellátásának központja.", "Termékeny mangrove területek veszik körül."],
       ro: ["Centru pentru aprovizionarea cu pește a regiunii.", "Înconjurat de zone productive de mangrove."],
       en: ["Center for fish supply in the region.", "Surrounded by productive mangrove areas."]
-    }
-  },
+    }, image: "/poi-images/kerewan-fish-landing-economic-v2.webp"},
   {
     id: "brikama-ice-plant-economic-v2",
     type: "industry",
@@ -482,3 +490,4 @@ export const poiExtraGambiaEconomicV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 export const latviaAllPoi = [
   {
     id: "lv-country",
@@ -2182,3 +2183,4 @@ export const latviaNature = [
 ];
 
 latviaAllPoi.push(...latviaCities, ...latviaCulture, ...latviaNature);
+

@@ -1,21 +1,21 @@
 import re
 
-def find_missing(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
+with open('lib/visualLab/data/norwayPoi.ts', 'r', encoding='utf-8') as f:
+    content = f.read()
 
-    missing = []
-    for m in re.finditer(r'id:\s*"([^"]+)"', content):
-        start = m.start()
-        next_m = re.search(r'id:\s*"([^"]+)"', content[start+1:])
-        end = next_m.start() + start + 1 if next_m else len(content)
-        
-        block = content[start:end]
+# Find all occurrences of id: "..."
+pois = re.findall(r'id:\s*"([^"]*)"', content)
+
+for poi_id in pois:
+    # Find the block for this POI
+    # We look for the block starting with this id and ending before the next { id: or the end of the array
+    pattern = r'id:\s*"' + poi_id + r'".*?(?=id:\s*"|$)'
+    match = re.search(pattern, content, re.DOTALL)
+    if match:
+        block = match.group(0)
         if 'descriptionAdvanced' not in block:
-            missing.append(m.group(1))
-            
-    if missing:
-        print(f"Missing in {file_path}: {missing}")
+            print(f"POI {poi_id} is missing descriptionAdvanced")
+        if 'factsAdvanced' not in block:
+            print(f"POI {poi_id} is missing factsAdvanced")
 
-find_missing('lib/visualLab/data/polandPoi.ts')
-find_missing('lib/visualLab/data/poiExtraPolandCities.ts')
+print(f"Checked {len(pois)} POIs")

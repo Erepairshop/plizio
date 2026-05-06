@@ -50,3 +50,8 @@ next-env.d.ts
 scripts/service-account.json
 supabase/.temp/
 .claude/
+
+# POI images (synced separately via scripts/sync-poi-images.sh, 2.3GB)
+public/poi-images/
+__pycache__/
+*.pyc

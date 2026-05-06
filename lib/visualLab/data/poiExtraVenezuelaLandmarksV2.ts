@@ -1,1084 +1,1060 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraVenezuelaLandmarksV2: POI[] = [
   {
-    id: "panteon-nacional-venezuela-landmarks-v2",
+    id: "venezuela-panteon-nacional-landmark-v2",
     type: "landmark",
     parent: "VE-A",
-    coords: [-66.9142, 10.5103],
+    coords: [-66.9113, 10.5113],
     name: {
-      de: "Panteón Nacional de Venezuela",
-      hu: "Venezuelai Nemzeti Panteon",
-      ro: "Panteonul Național al Venezuelei",
-      en: "National Pantheon of Venezuela"
+      de: "Nationales Pantheon",
+      hu: "Nemzeti Panteon",
+      ro: "Panteonul Național",
+      en: "National Pantheon"
     },
     description: {
-      de: "Ein monumentales Gebäude in Caracas, das als letzte Ruhestätte für bedeutende venezolanische Persönlichkeiten dient.",
-      hu: "Monumentális épület Caracasban, amely a legjelentősebb venezuelai történelmi személyiségek végső nyughelye.",
-      ro: "O clădire monumentală din Caracas, care servește drept loc de odihnă pentru personalități istorice venezuelene.",
-      en: "A monumental building in Caracas serving as the final resting place for eminent Venezuelan historical figures."
+      de: "Das Nationales Pantheon ist eines der bedeutendsten architektonischen und historischen Denkmäler in Caracas.",
+      hu: "A Nemzeti Panteon Caracas egyik legjelentősebb építészeti és történelmi emléke.",
+      ro: "Panteonul Național este unul dintre cele mai importante monumente arhitecturale și istorice din Caracas.",
+      en: "The National Pantheon is one of the most significant architectural and historic monuments in Caracas."
     },
     descriptionAdvanced: {
-      de: "Das Panteón Nacional, ursprünglich als Kirche Santísima Trinidad erbaut, ist ein Ort von höchster nationaler Bedeutung. Es bewahrt die sterblichen Überreste von Persönlichkeiten, die den Lauf der venezolanischen Geschichte maßgeblich geprägt haben, darunter der Befreier Simón Bolívar. Die Architektur und die künstlerische Gestaltung im Inneren machen es zu einem nationalen Heiligtum. Besucher erfahren hier tiefe Einblicke in das venezolanische Selbstverständnis und die Heldenverehrung. Geschichte K8 — Nationalidentität.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      de: "Das Nationales Pantheon von Venezuela ist nicht nur eine Begräbnisstätte, sondern ein architektonisches Meisterwerk im Herzen von Caracas. Seine neobarocke Fassade und der imposante Innenraum mit den kunstvollen Deckenfresken machen es zu einem der meistfotografierten Gebäude des Landes. Es dient als zentraler Ort der nationalen Identität, an dem die Geschichte Venezuelas in Stein und Kunst gemeißelt ist. Besucher erleben hier die feierliche Atmosphäre eines Ortes, der die großen Helden der Nation ehrt. Architektur K8 — Monumentalbau.",
+      hu: "A venezuelai Nemzeti Panteon nem csupán temetkezési hely, hanem építészeti remekmű Caracas szívében. Neobarokk homlokzata és az impozáns belső tér a művészi mennyezetfreskókkal az ország egyik legtöbbet fényképezett épületévé teszi. A nemzeti identitás központi helyszíneként szolgál, ahol Venezuela történelme kőbe és művészetbe van vésve. A látogatók itt átélhetik egy olyan hely ünnepélyes hangulatát, amely a nemzet nagy hősei előtt tiszteleg. Építészet K8 — monumentális építészet.",
+      ro: "",
+      en: "",
     },
     facts: {
-      de: ["Erbaut im 19. Jahrhundert.", "Simón Bolívar ist hier begraben."],
-      hu: ["A 19. században épült.", "Itt nyugszik Simón Bolívar."],
-      ro: ["Construit în secolul al XIX-lea.", "Simón Bolívar este înmormântat aici."],
-      en: ["Built in the 19th century.", "Simón Bolívar is buried here."]
+      de: ["Neobarocke Architektur.", "Imposante Deckenfresken."],
+      hu: ["Neobarokk építészet.", "Impozáns mennyezetfreskók."],
+      ro: ["Arhitectură neobarocă.", "Fresce impresionante pe tavan."],
+      en: ["Neobaroque architecture.", "Impressive ceiling frescoes."]
     },
     factsAdvanced: {
-      de: ["Die Umgestaltung zur Gedenkstätte fand unter Präsident Antonio Guzmán Blanco statt.", "Das Pantheon ist ein herausragendes Beispiel neoklassizistischer Architektur.", "Es beherbergt den berühmten Sarg von Simón Bolívar unter einer beeindruckenden Kuppel.", "Die Zeremonien im Pantheon sind ein fester Bestandteil staatlicher Feierlichkeiten."],
-      hu: [],
+      de: ["Das Gebäude besticht durch seine markante weiße Fassade und die zentrale Kuppel.", "Die Deckenfresken stellen wichtige Szenen aus dem Leben von Simón Bolívar dar.", "Es gilt als eines der besterhaltenen Beispiele für die Monumentalarchitektur des 19. Jahrhunderts in Venezuela.", "Das Pantheon ist ein integraler Bestandteil des historischen Zentrums von Caracas."],
+      hu: ["Az épületet jellegzetes fehér homlokzata és központi kupolája teszi látványossá.", "A mennyezetfreskók Simón Bolívar életének fontos jeleneteit ábrázolják.", "Venezuela 19. századi monumentális építészetének egyik legjobban megőrzött példájaként tartják számon.", "A Panteon Caracas történelmi központjának szerves része."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-panteon-nacional-landmark-v2.webp"},
   {
-    id: "teleferico-de-merida-landmarks-v2",
-    type: "landmark",
-    parent: "VE-L",
-    coords: [-71.1394, 8.5967],
-    name: {
-      de: "Teleférico de Mérida",
-      hu: "Méridai libegő",
-      ro: "Telecabina din Mérida",
-      en: "Mérida Cable Car"
-    },
-    description: {
-      de: "Die höchste und längste Seilbahn der Welt, die die Stadt Mérida mit dem Pico Espejo verbindet.",
-      hu: "A világ legmagasabb és leghosszabb drótkötélpályája, amely Mérida városát köti össze a Pico Espejóval.",
-      ro: "Cea mai înaltă și mai lungă telecabină din lume, conectând orașul Mérida cu Pico Espejo.",
-      en: "The highest and longest cable car in the world, connecting the city of Mérida with Pico Espejo."
-    },
-    descriptionAdvanced: {
-      de: "Der Teleférico Mukumbarí, wie er modern bekannt ist, ist ein Meisterwerk der Ingenieurskunst in den Anden. Er führt über mehrere Stationen bis auf eine Höhe von über 4.700 Metern auf den Pico Espejo. Die Fahrt bietet einen unvergleichlichen Einblick in die verschiedenen Vegetationszonen der Anden, von den tropischen Wäldern bis zu den eisigen Gipfelregionen. Es ist eines der spektakulärsten Erlebnisse in Venezuela und ein technisches Wunderwerk, das den Tourismus in der Region nachhaltig geprägt hat. Physik K7 — Geografie.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Erreicht eine Höhe von 4.765 Metern.", "Wurde 1960 eröffnet."],
-      hu: ["4765 méteres magasságba visz fel.", "1960-ban nyitották meg."],
-      ro: ["Atinge o altitudine de 4.765 de metri.", "A fost inaugurată în 1960."],
-      en: ["Reaches an altitude of 4,765 meters.", "Opened in 1960."]
-    },
-    factsAdvanced: {
-      de: ["Die Seilbahn überwindet einen massiven Höhenunterschied in nur wenigen Kilometern.", "Jede Station der Seilbahn bietet einen Zugang zu einer einzigartigen andinen Landschaft.", "Das Projekt wurde in den letzten Jahren komplett modernisiert, um höchsten Sicherheitsstandards zu entsprechen.", "Der Ausblick vom Pico Espejo umfasst den gesamten Nationalpark Sierra Nevada."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "puente-rafael-urdaneta-landmarks-v2",
-    type: "landmark",
-    parent: "VE-V",
-    coords: [-71.5833, 10.5833],
-    name: {
-      de: "Puente General Rafael Urdaneta",
-      hu: "General Rafael Urdaneta híd",
-      ro: "Podul General Rafael Urdaneta",
-      en: "General Rafael Urdaneta Bridge"
-    },
-    description: {
-      de: "Eine beeindruckende Schrägseilbrücke über den Maracaibo-See, benannt nach einem Helden der Unabhängigkeit.",
-      hu: "Lenyűgöző ferdekábeles híd a Maracaibo-tó felett, melyet egy függetlenségi hősről neveztek el.",
-      ro: "Un impresionant pod hobanat peste Lacul Maracaibo, numit după un erou al independenței.",
-      en: "An impressive cable-stayed bridge over Lake Maracaibo, named after a hero of independence."
-    },
-    descriptionAdvanced: {
-      de: "Der Puente General Rafael Urdaneta ist das Wahrzeichen von Zulia und eine technische Meisterleistung über dem Maracaibo-See. Mit einer Länge von über 8 Kilometern verbindet sie die Stadt Maracaibo mit dem Rest des Landes. Die Brücke ist ein Symbol für die industrielle Modernisierung Venezuelas im 20. Jahrhundert. Sie prägt die Skyline der Region und ist ein entscheidender Verkehrsknotenpunkt. Die Fahrt über die Brücke bietet einen spektakulären Blick auf den See und ist ein unvergessliches Erlebnis. Ingenieurwesen K7 — Infrastruktur.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Länge von 8,6 Kilometern.", "Erbaut im Jahr 1962."],
-      hu: ["8,6 kilométer hosszú.", "1962-ben épült."],
-      ro: ["Are o lungime de 8,6 kilometri.", "Construit în anul 1962."],
-      en: ["Has a length of 8.6 kilometers.", "Built in 1962."]
-    },
-    factsAdvanced: {
-      de: ["Die Brücke wurde nach dem Unabhängigkeitshelden Rafael Urdaneta benannt.", "Sie besteht aus mehreren Abschnitten und einer imposanten Mittelkonstruktion.", "Die Bauzeit war eine Herausforderung für die Ingenieure, da der See an dieser Stelle sehr tief ist.", "Die Brücke ist ein unverzichtbares Element für die wirtschaftliche Anbindung des Bundesstaates Zulia."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "monumento-virgen-de-la-paz-landmarks-v2",
-    type: "landmark",
-    parent: "VE-T",
-    coords: [-70.4497, 9.3494],
-    name: {
-      de: "Monumento a la Virgen de la Paz",
-      hu: "A Béke Szűzanya-emlékműve",
-      ro: "Monumentul Fecioarei Păcii",
-      en: "Monument to the Virgin of Peace"
-    },
-    description: {
-      de: "Eine gigantische Statue der Jungfrau Maria in Trujillo, die zu den höchsten Skulpturen Südamerikas gehört.",
-      hu: "Szűz Mária gigantikus szobra Trujillóban, amely Dél-Amerika egyik legmagasabb szobra.",
-      ro: "O statuie gigantică a Fecioarei Maria în Trujillo, printre cele mai înalte sculpturi din America de Sud.",
-      en: "A gigantic statue of the Virgin Mary in Trujillo, one of the tallest sculptures in South America."
-    },
-    descriptionAdvanced: {
-      de: "Das Monument der Virgen de la Paz in Trujillo ragt majestätisch über die andine Landschaft. Es ist mit fast 47 Metern Höhe eine der höchsten Statuen in ganz Amerika und ein spirituelles Wahrzeichen. Der Entwurf ehrt die christliche Tradition und ist ein Symbol für Frieden in der Region. Besucher können das Innere der Statue erklimmen, um einen unvergleichlichen Ausblick über die Täler von Trujillo zu genießen. Es ist ein monumentales Beispiel für sakrale Kunst im öffentlichen Raum. Geografie K6 — Monumente.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Die Statue ist 46,7 Meter hoch.", "Sie ist höher als die Freiheitsstatue."],
-      hu: ["A szobor 46,7 méter magas.", "Magasabb, mint a New York-i Szabadság-szobor."],
-      ro: ["Statuia are 46,7 metri înălțime.", "Este mai înaltă decât Statuia Libertății."],
-      en: ["The statue is 46.7 meters tall.", "It is taller than the Statue of Liberty."]
-    },
-    factsAdvanced: {
-      de: ["Die Statue wurde 1983 eingeweiht.", "Sie wurde vom Künstler Manuel de la Fuente entworfen.", "Die Struktur ist von innen begehbar, was den Aufstieg zu verschiedenen Aussichtspunkten ermöglicht.", "Das Monument ist eine wichtige Pilgerstätte in der Andenregion von Trujillo."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "catedral-de-caracas-landmarks-v2",
+    id: "venezuela-museo-bellas-artes-landmark-v2",
     type: "landmark",
     parent: "VE-A",
-    coords: [-66.9145, 10.5055],
+    coords: [-66.8988, 10.4994],
     name: {
-      de: "Catedral de Caracas",
-      hu: "Caracasi székesegyház",
-      ro: "Catedrala din Caracas",
-      en: "Caracas Cathedral"
-    },
-    description: {
-      de: "Die Hauptkirche von Caracas am Plaza Bolívar, bekannt für ihre koloniale Architektur.",
-      hu: "Caracas főtemploma a Plaza Bolívaron, amely gyarmati stílusú építészetéről ismert.",
-      ro: "Biserica principală din Caracas, situată în Plaza Bolívar, cunoscută pentru arhitectura sa colonială.",
-      en: "The main church of Caracas located in Plaza Bolívar, known for its colonial architecture."
-    },
-    descriptionAdvanced: {
-      de: "Die Kathedrale von Caracas am Plaza Bolívar ist das religiöse und historische Herz der Hauptstadt. Trotz zahlreicher Zerstörungen durch Erdbeben seit dem 17. Jahrhundert wurde sie immer wieder aufgebaut und ist ein Zeugnis der Beständigkeit der Stadt. Neben ihrer religiösen Bedeutung beherbergt sie die Familiengruft, in der Simón Bolívars Eltern und seine Frau zur letzten Ruhe gebettet wurden. Als zentrales religiöses Gebäude ist sie ein wichtiger Teil der historischen Identität der Stadt Caracas. Geschichte K7 — Religion.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["1666 erbaut.", "Bolívars Eltern sind hier begraben."],
-      hu: ["1666-ban épült.", "Itt nyugszanak Simón Bolívar szülei."],
-      ro: ["Construită în 1666.", "Părinții lui Bolívar sunt înmormântați aici."],
-      en: ["Built in 1666.", "Bolívar's parents are buried here."]
-    },
-    factsAdvanced: {
-      de: ["Die Kathedrale ist der erste Sakralbau, der nach der Stadtgründung als Hauptkirche errichtet wurde.", "Sie beherbergt zahlreiche Kunstschätze aus der Kolonialzeit.", "Die Familiengruft der Bolívars ist ein wichtiger Ort nationaler Geschichte.", "Das Gebäude wurde nach den zahlreichen Erdbeben mehrfach im Stil angepasst."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "palacio-de-miraflores-landmarks-v2",
-    type: "landmark",
-    parent: "VE-A",
-    coords: [-66.9202, 10.5075],
-    name: {
-      de: "Palacio de Miraflores",
-      hu: "Miraflores-palota",
-      ro: "Palatul Miraflores",
-      en: "Miraflores Palace"
-    },
-    description: {
-      de: "Der offizielle Sitz des Präsidenten von Venezuela, ein elegantes Gebäude mit neoklassizistischen Elementen.",
-      hu: "Venezuela elnökének hivatalos rezidenciája, elegáns, neoklasszicista elemekkel díszített épület.",
-      ro: "Reședința oficială a președintelui Venezuelei, o clădire elegantă cu elemente neoclasice.",
-      en: "The official residence of the President of Venezuela, an elegant building with neoclassical elements."
-    },
-    descriptionAdvanced: {
-      de: "Der Palacio de Miraflores ist das politische Zentrum Venezuelas. Seit Beginn des 20. Jahrhunderts dient er als Residenz der Präsidenten und Schauplatz für wegweisende politische Entscheidungen. Das Gebäude selbst zeichnet sich durch seine elegante Architektur und prächtige Säle aus. Die Geschichte von Miraflores ist eng mit dem politischen Werdegang der venezolanischen Republik verknüpft. Als Sitz der Exekutive ist es ein Ort von höchster politischer und symbolischer Bedeutung für das Land. Politik K8 — Regierungsgeschichte.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Im Jahr 1884 fertiggestellt.", "Dient seit 1900 als Präsidentensitz."],
-      hu: ["1884-ben készült el.", "1900 óta elnöki székhely."],
-      ro: ["Finalizat în 1884.", "Servește drept reședință prezidențială din 1900."],
-      en: ["Completed in 1884.", "Has served as the presidential seat since 1900."]
-    },
-    factsAdvanced: {
-      de: ["Das Gebäude wurde ursprünglich vom Präsidenten Joaquín Crespo als Privatresidenz in Auftrag gegeben.", "Das Design vereint Stilelemente, die der venezolanischen Präsidentenarchitektur jener Zeit entsprachen.", "Miraflores ist der zentrale Schauplatz für Empfänge hochrangiger internationaler Gäste.", "Die Sicherheit und Protokollführung rund um den Palast sind in Caracas sehr präsent."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "basilica-chiquinquira-maracaibo-landmarks-v2",
-    type: "landmark",
-    parent: "VE-V",
-    coords: [-71.6166, 10.6416],
-    name: {
-      de: "Basílica de Chiquinquirá",
-      hu: "Chiquinquirá-bazilika",
-      ro: "Bazilica din Chiquinquirá",
-      en: "Basilica of Chiquinquirá"
-    },
-    description: {
-      de: "Das wichtigste religiöse Gebäude in Maracaibo, das der Jungfrau von Chiquinquirá gewidmet ist.",
-      hu: "Maracaibo legfontosabb vallási épülete, amelyet a Chiquinquirá-i Szűzanyának szenteltek.",
-      ro: "Cea mai importantă clădire religioasă din Maracaibo, dedicată Fecioarei din Chiquinquirá.",
-      en: "The most important religious building in Maracaibo, dedicated to the Virgin of Chiquinquirá."
-    },
-    descriptionAdvanced: {
-      de: "Die Basílica de Chiquinquirá ist das Herz des Glaubens in Zulia. Sie ist der 'Virgen de la Chiquinquirá', der Schutzpatronin der Region, gewidmet. Jedes Jahr im November strömen Tausende Gläubige zur 'Feria de la Chinita', um ihre Hingabe auszudrücken. Das Gebäude selbst ist ein architektonisches Juwel im Stadtzentrum von Maracaibo. Die Basilika spielt eine zentrale Rolle im kulturellen und religiösen Leben der Maracaiber Bevölkerung und zeigt die tiefe Bedeutung katholischer Traditionen in der Region. Religion K5 — Pilgerorte.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Zentrum lokaler Pilgerfahrten.", "Die Kirche beherbergt eine heilige Reliquie."],
-      hu: ["A helyi zarándoklatok központja.", "A templom egy szent ereklyét őriz."],
-      ro: ["Centru al pelerinajelor locale.", "Biserica adăpostește o relicvă sfântă."],
-      en: ["Center of local pilgrimages.", "The church houses a holy relic."]
-    },
-    factsAdvanced: {
-      de: ["Die Basilika ist der bedeutendste religiöse Bau im Bundesstaat Zulia.", "Das jährliche Fest der 'Chinita' ist eines der größten religiösen Feste in Venezuela.", "Die Reliquie der Virgen de Chiquinquirá wird als wundertätig verehrt.", "Die Architektur der Basilika vereint historische und neogotische Einflüsse."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "centro-simon-bolivar-landmarks-v2",
-    type: "landmark",
-    parent: "VE-A",
-    coords: [-66.9167, 10.5033],
-    name: {
-      de: "Torres del Centro Simón Bolívar",
-      hu: "Centro Simón Bolívar tornyok",
-      ro: "Turnurile Centrului Simón Bolívar",
-      en: "Centro Simón Bolívar Towers"
-    },
-    description: {
-      de: "Zwei ikonische Zwillingstürme im Herzen von Caracas, die die Modernisierung der Stadt in der Mitte des 20. Jahrhunderts symbolisieren.",
-      hu: "Két ikonikus ikertorony Caracas szívében, amelyek a város 20. század közepi modernizációját jelképezik.",
-      ro: "Două turnuri gemene iconice din inima orașului Caracas, simbolizând modernizarea orașului la mijlocul secolului al XX-lea.",
-      en: "Two iconic twin towers in the heart of Caracas, symbolizing the city's mid-20th-century modernization."
-    },
-    descriptionAdvanced: {
-      de: "Die Zwillingstürme des Centro Simón Bolívar sind Zeugen einer Ära des rasanten städtischen Wandels. Als sie in den 1950er Jahren fertiggestellt wurden, prägten sie das Bild von Caracas als moderne Metropole. Mit ihrem funktionalen und für die Zeit avantgardistischen Design waren sie ein stolzes Symbol für den Fortschritt Venezuelas. Heute sind sie aus dem Stadtbild nicht mehr wegzudenken und bilden eine Brücke zwischen der historischen Altstadt und dem modernen Geschäftszentrum. Geschichte K5 — Stadtplanung.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Höhe von 103 Metern.", "Erbaut 1954."],
-      hu: ["103 méter magasak.", "1954-ben épültek."],
-      ro: ["Înălțime de 103 metri.", "Construite în 1954."],
-      en: ["Height of 103 meters.", "Built in 1954."]
-    },
-    factsAdvanced: {
-      de: ["Das Bauwerk ist ein prägendes Element der städtischen Architektur von Caracas im 20. Jahrhundert.", "Die Türme waren Teil einer großangelegten Stadtsanierung.", "Sie fungierten lange als wichtiges Verwaltungszentrum des Landes.", "Die architektonische Gestaltung ist bis heute ein bedeutendes Beispiel für den Modernismus in Venezuela."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "flor-de-venezuela-landmarks-v2",
-    type: "landmark",
-    parent: "VE-K",
-    coords: [-69.2961, 10.0766],
-    name: {
-      de: "Flor de Venezuela",
-      hu: "Venezuela Virága",
-      ro: "Floarea Venezuelei",
-      en: "Flower of Venezuela"
-    },
-    description: {
-      de: "Ein architektonisches Kunstwerk in Barquisimeto, das eine riesige, bewegliche Orchidee darstellt.",
-      hu: "Egy építészeti remekmű Barquisimetóban, amely egy hatalmas, mozgó orchideát formáz.",
-      ro: "O operă de artă arhitecturală în Barquisimeto, reprezentând o orhidee gigantică și mobilă.",
-      en: "An architectural masterpiece in Barquisimeto representing a giant, movable orchid."
-    },
-    descriptionAdvanced: {
-      de: "Die 'Flor de Venezuela' in Barquisimeto ist weit mehr als nur ein Bauwerk; sie ist eine Hommage an die Natur und den Geist von Fruto Vivas. Das Gebäude besticht durch seine kinetische Struktur: Die Blütenblätter können sich öffnen und schließen, was die Anpassungsfähigkeit und Vitalität der Natur widerspiegelt. Ursprünglich für die Weltausstellung in Hannover entworfen, hat das Bauwerk in Barquisimeto eine feste Heimat gefunden. Es ist heute ein kulturelles Zentrum und ein Symbol für die venezolanische Kreativität im 21. Jahrhundert. Architektur K7 — Architekturgeschichte.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Entworfen von Fruto Vivas.", "Ursprünglich für die Expo 2000 in Hannover gebaut."],
-      hu: ["Fruto Vivas tervezte.", "Eredetileg a 2000-es hannoveri világkiállításra épült."],
-      ro: ["Proiectat de Fruto Vivas.", "Construit inițial pentru Expo 2000 din Hanovra."],
-      en: ["Designed by Fruto Vivas.", "Originally built for Expo 2000 in Hanover."]
-    },
-    factsAdvanced: {
-      de: ["Das Design wurde von der Nationalblume Venezuelas, der Orchidee, inspiriert.", "Das Projekt ist ein exzellentes Beispiel für kinetische Architektur.", "Die Flor de Venezuela ist heute ein wichtiges Zentrum für Ausstellungen und Kultur.", "Die technologische Ausführung der Blütenblätter ist bis heute einzigartig."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "manto-de-maria-landmarks-v2",
-    type: "landmark",
-    parent: "VE-K",
-    coords: [-69.2666, 10.0833],
-    name: {
-      de: "Manto de María",
-      hu: "Mária Köpenye-emlékmű",
-      ro: "Monumentul Mantia Mariei",
-      en: "Manto de María Monument"
-    },
-    description: {
-      de: "Ein riesiges kinetisches Kunstwerk in Barquisimeto, das der Divina Pastora gewidmet ist.",
-      hu: "Hatalmas kinetikus műalkotás Barquisimetóban, amelyet a Divina Pastorának szenteltek.",
-      ro: "O operă de artă cinetică masivă în Barquisimeto, dedicată Divina Pastora.",
-      en: "A massive kinetic artwork in Barquisimeto dedicated to the Divina Pastora."
-    },
-    descriptionAdvanced: {
-      de: "Das 'Manto de María' ist ein atemberaubendes Monument und ein kinetisches Meisterwerk, das hoch über Barquisimeto thront. Es ist der Divina Pastora, der Schutzpatronin der Stadt, gewidmet. Das Werk nutzt das Licht und die Bewegung, um ein Bild der Madonna zu erzeugen, das sich je nach Standpunkt des Betrachters verändert. Es ist ein zentrales spirituelles und touristisches Ziel, das die tiefe religiöse Verbundenheit der Region Zulia und Lara hervorhebt. Architektur K6 — Moderne Monumente.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Es ist 60 Meter hoch.", "Eröffnet im Jahr 2016."],
-      hu: ["60 méter magas.", "2016-ban adták át."],
-      ro: ["Are o înălțime de 60 de metri.", "Inaugurat în anul 2016."],
-      en: ["It is 60 meters tall.", "Opened in 2016."]
-    },
-    factsAdvanced: {
-      de: ["Das Monument wurde 2016 eingeweiht und ist seither eines der höchsten Bauwerke der Stadt.", "Die kinetische Gestaltung ermöglicht die Darstellung des Bildes der Madonna aus tausenden von Aluminiumstangen.", "Es zieht Pilger und Touristen gleichermaßen an, die die spirituelle Bedeutung feiern.", "Die Aussicht vom Monument bietet einen weiten Blick auf das Umland von Barquisimeto."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "teatro-teresa-carreno-landmarks-v2",
-    type: "landmark",
-    parent: "VE-A",
-    coords: [-66.8997, 10.4994],
-    name: {
-      de: "Teatro Teresa Carreño",
-      hu: "Teresa Carreño Színház",
-      ro: "Teatrul Teresa Carreño",
-      en: "Teresa Carreño Cultural Complex"
-    },
-    description: {
-      de: "Einer der wichtigsten Theaterkomplexe Südamerikas in Caracas, benannt nach der berühmten venezolanischen Pianistin.",
-      hu: "Dél-Amerika egyik legjelentősebb színházi komplexuma Caracasban, amely a híres venezuelai zongoristanőről kapta a nevét.",
-      ro: "Unul dintre cele mai importante complexe teatrale din America de Sud, situat în Caracas, numit după celebra pianistă venezueleană.",
-      en: "One of South America's most important theater complexes in Caracas, named after the famous Venezuelan pianist."
-    },
-    descriptionAdvanced: {
-      de: "Das Teatro Teresa Carreño ist das kulturelle Epizentrum Venezuelas. Als architektonisches Highlight im brutalistischen Stil beherbergt es neben großen Aufführungssälen auch eine beeindruckende Kunstsammlung. Es ist benannt nach der weltberühmten Pianistin Teresa Carreño und bietet eine Plattform für hochkarätige nationale und internationale Produktionen. Der Komplex selbst ist ein Kunstwerk, in dem sich Architektur, Musik und bildende Künste vereinen. Ein Besuch ist ein unverzichtbares Erlebnis für jeden Kulturinteressierten. Kultur K7 — Musik und Theater.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Im brutalistischen Stil erbaut.", "1983 eröffnet."],
-      hu: ["Brutalista stílusban épült.", "1983-ban nyílt meg."],
-      ro: ["Construit în stil brutalist.", "Inaugurat în 1983."],
-      en: ["Built in brutalist style.", "Opened in 1983."]
-    },
-    factsAdvanced: {
-      de: ["Das Theater ist eine der wichtigsten Kultureinrichtungen in Lateinamerika.", "Die akustische Qualität der Säle gehört zur Weltklasse.", "Der Komplex ist fest in den kulturellen Kalender Venezuelas integriert.", "Die architektonische Gestaltung integriert moderne Kunst direkt in das Bauwerk."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "castillo-san-carlos-barra-landmarks-v2",
-    type: "landmark",
-    parent: "VE-V",
-    coords: [-71.6450, 10.9858],
-    name: {
-      de: "Castillo de San Carlos de la Barra",
-      hu: "San Carlos de la Barra kastély",
-      ro: "Castelul San Carlos de la Barra",
-      en: "Castle of San Carlos de la Barra"
-    },
-    description: {
-      de: "Eine historische Festung im Bundesstaat Zulia, die im 17. Jahrhundert zur Verteidigung der Region vor Piraten errichtet wurde.",
-      hu: "Történelmi erődítmény Zulia államban, amelyet a 17. században építettek a kalóztámadások ellen.",
-      ro: "O fortăreață istorică din statul Zulia, construită în secolul al XVII-lea pentru a apăra regiunea de pirați.",
-      en: "A historic fortress in Zulia state built in the 17th century to defend the region from pirates."
-    },
-    descriptionAdvanced: {
-      de: "Das Castillo de San Carlos de la Barra war die entscheidende Verteidigungsanlage für den Zugang zum Maracaibo-See. Da Piraten und feindliche Flotten die Region häufig bedrohten, musste dieser Punkt strategisch gesichert werden. Die Festung mit ihrer klassischen Sternform ist ein beeindruckendes Beispiel für die Militärgeschichte in West-Venezuela. Sie ist ein Ort, an dem die frühe Kolonialzeit auf den harten Kampf um die wirtschaftliche Vorherrschaft traf. Geschichte K6 — Abwehr.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Liegt an der Einfahrt zum Maracaibo-See.", "Wurde 1623 erbaut."],
-      hu: ["A Maracaibo-tó bejáratánál található.", "1623-ban építették."],
-      ro: ["Situat la intrarea în Lacul Maracaibo.", "Construit în anul 1623."],
-      en: ["Located at the entrance of Lake Maracaibo.", "Built in 1623."]
-    },
-    factsAdvanced: {
-      de: ["Die Festung bewachte über Jahrhunderte den Zugang zu den reichen Öl- und Handelsgebieten.", "Sie wurde als klassische Verteidigungsanlage im 17. Jahrhundert konzipiert.", "Das Castillo ist ein bedeutendes militärgeschichtliches Denkmal des Bundesstaates Zulia.", "Die Architektur und die strategische Lage sind bis heute für Besucher nachvollziehbar."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "castillo-san-carlos-borromeo-landmarks-v2",
-    type: "landmark",
-    parent: "VE-O",
-    coords: [-63.8055, 10.9930],
-    name: {
-      de: "Castillo de San Carlos de Borromeo",
-      hu: "San Carlos de Borromeo kastély",
-      ro: "Castelul San Carlos de Borromeo",
-      en: "Castle of San Carlos de Borromeo"
-    },
-    description: {
-      de: "Eine koloniale Festungsanlage auf der Insel Margarita, die zum Schutz von Pampatar diente.",
-      hu: "Gyarmati erődítmény a Margarita-szigeten, amely Pampatar védelmét szolgálta.",
-      ro: "O fortăreață colonială pe Insula Margarita, care servea la apărarea orașului Pampatar.",
-      en: "A colonial fortress on Margarita Island that served to protect Pampatar."
-    },
-    descriptionAdvanced: {
-      de: "Das Castillo de San Carlos de Borromeo ist ein markantes Verteidigungswerk über dem Hafen von Pampatar. Es schützte die Insel Margarita im 17. Jahrhundert erfolgreich gegen die vielfältigen Bedrohungen der damaligen Zeit. Heute ist es eine gut erhaltene Anlage, die Besuchern die koloniale Verteidigung näherbringt. Die Kombination aus ihrer sternförmigen Bauweise und dem wunderbaren Ausblick auf das Karibische Meer macht sie zu einem zentralen touristischen und historischen Ziel auf der Insel. Geschichte K6 — Festungen.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Im 17. Jahrhundert errichtet.", "Die Architektur hat eine Sternform."],
-      hu: ["A 17. században emelték.", "Építészete csillag alakú."],
-      ro: ["Construită în secolul al XVII-lea.", "Arhitectura are formă de stea."],
-      en: ["Built in the 17th century.", "The architecture has a star shape."]
-    },
-    factsAdvanced: {
-      de: ["Das Schloss ist nach dem Heiligen Karl Borromäus benannt.", "Die Festung war ein zentraler Teil der kolonialen Verteidigung auf der Isla Margarita.", "Das Design der Festung entsprach den militärischen Standards der spanischen Kolonialmacht.", "Die gute Erhaltung macht es zu einem der besten Beispiele seiner Art in der Region."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "paseo-de-los-proceres-landmarks-v2",
-    type: "landmark",
-    parent: "VE-A",
-    coords: [-66.9038, 10.4858],
-    name: {
-      de: "Paseo de Los Próceres",
-      hu: "Paseo de Los Próceres",
-      ro: "Paseo de Los Próceres",
-      en: "Paseo de Los Próceres"
-    },
-    description: {
-      de: "Eine monumentale Promenade in Caracas, die den Helden der venezolanischen Unabhängigkeit gewidmet ist.",
-      hu: "Monumentális sétány Caracasban, amelyet a venezuelai függetlenség hőseinek szenteltek.",
-      ro: "O promenadă monumentală în Caracas, dedicată eroilor independenței venezuelene.",
-      en: "A monumental promenade in Caracas dedicated to the heroes of Venezuelan independence."
-    },
-    descriptionAdvanced: {
-      de: "Der Paseo de Los Próceres ist eine beeindruckende Allee, die das nationale Bewusstsein Venezuelas feiert. Sie ist Teil der 'Sistema de la Nacionalidad', einem Komplex von Monumenten, die die Unabhängigkeitshelden ehren. Die Promenade ist mit massiven Statuen, Springbrunnen und Gärten gestaltet, die sie zu einer der architektonisch bedeutendsten und feierlichsten Achsen in Caracas machen. Sie ist ein Symbol für die nationale Einheit und Geschichte. Ein Besuch hier vermittelt das monumentale Selbstverständnis des Landes. Geschichte K8 — Nationalidentität.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Ein beliebtes Ziel für Militärparaden.", "Gehört zum Sistema de la Nacionalidad."],
-      hu: ["Gyakori katonai parádék helyszíne.", "A Sistema de la Nacionalidad része."],
-      ro: ["O locație populară pentru parade militare.", "Face parte din Sistema de la Nacionalidad."],
-      en: ["A popular site for military parades.", "Part of the Sistema de la Nacionalidad."]
-    },
-    factsAdvanced: {
-      de: ["Der Paseo de Los Próceres ist der Ort für offizielle militärische Paraden an Nationalfeiertagen.", "Die Monumente an der Allee ehren die wichtigsten Anführer der Unabhängigkeitskämpfe.", "Die Anlage ist für ihre monumentale Größe und ihre Landschaftsgestaltung weit über Caracas hinaus bekannt.", "Er ist ein unverzichtbarer Teil der modernen venezolanischen Staatsrepräsentation."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "catedral-de-barquisimeto-landmarks-v2",
-    type: "landmark",
-    parent: "VE-K",
-    coords: [-69.3144, 10.0722],
-    name: {
-      de: "Catedral de Barquisimeto",
-      hu: "Barquisimetói székesegyház",
-      ro: "Catedrala din Barquisimeto",
-      en: "Barquisimeto Cathedral"
-    },
-    description: {
-      de: "Eine moderne und unkonventionelle Kathedrale in Venezuela mit einer hyperbolischen Paraboloid-Struktur.",
-      hu: "Egy modern és rendhagyó venezuelai katedrális, amely hiperbolikus paraboloid szerkezettel rendelkezik.",
-      ro: "O catedrală modernă și neconvențională în Venezuela, cu o structură paraboloidală hiperbolică.",
-      en: "A modern and unconventional cathedral in Venezuela featuring a hyperbolic paraboloid structure."
-    },
-    descriptionAdvanced: {
-      de: "Die Kathedrale von Barquisimeto ist eine architektonische Abkehr von traditionellen Sakralbauten. Ihre moderne Struktur aus Glas und Stahl, die die Form eines hyperbolischen Paraboloids annimmt, erinnert an ein Zelt. Dieses Design soll das 'Zelt Gottes' symbolisieren. Sie ist eines der auffälligsten modernen Wahrzeichen Venezuelas und unterstreicht die architektonische Kreativität des Landes im 20. Jahrhundert. Ein Besuch lohnt sich nicht nur aus religiösen Gründen, sondern auch zur Bewunderung dieser speziellen Formensprache. Architektur K6 — Sakralbau.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Wurde 1968 fertiggestellt.", "Entworfen vom Architekten Jahn Bergkamp."],
-      hu: ["1968-ban fejezték be az építését.", "Jahn Bergkamp építész tervezte."],
-      ro: ["A fost finalizată în 1968.", "Proiectată de arhitectul Jahn Bergkamp."],
-      en: ["Completed in 1968.", "Designed by architect Jahn Bergkamp."]
-    },
-    factsAdvanced: {
-      de: ["Die Konstruktion der Kathedrale war bei ihrer Fertigstellung technisch revolutionär.", "Sie ist ein Symbol für die Moderne in der Stadt Barquisimeto.", "Das Innere ist durch das offene Design sehr lichtdurchflutet.", "Die Kirche ist heute ein zentraler Ort für das gesellschaftliche Leben der Stadt."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "obelisco-de-barquisimeto-landmarks-v2",
-    type: "landmark",
-    parent: "VE-K",
-    coords: [-69.3366, 10.0633],
-    name: {
-      de: "Obelisco de Barquisimeto",
-      hu: "Barquisimetói obeliszk",
-      ro: "Obeliscul din Barquisimeto",
-      en: "Obelisk of Barquisimeto"
-    },
-    description: {
-      de: "Ein markantes Denkmal und Wahrzeichen in der Stadt Barquisimeto, das zum 400. Jahrestag ihrer Gründung errichtet wurde.",
-      hu: "Egy feltűnő emlékmű és nevezetesség Barquisimeto városában, amelyet alapításának 400. évfordulójára építettek.",
-      ro: "Un monument și reper izbitor în orașul Barquisimeto, construit pentru a marca a 400-a aniversare a fondării sale.",
-      en: "A striking monument and landmark in the city of Barquisimeto, built to mark the 400th anniversary of its founding."
-    },
-    descriptionAdvanced: {
-      de: "Der Obelisk von Barquisimeto ist das Wahrzeichen der Stadt und bietet einen imposanten Ausblick über das urbane Umfeld. Er wurde 1952 anlässlich des 400-jährigen Stadtjubiläums eingeweiht und ist aus Beton erbaut. Von seiner Spitze aus hat man einen Panoramablick, der das Wachstum der Stadt über Jahrzehnte hinweg dokumentiert. Als zentrales Monument steht er fest in der lokalen Identität von Barquisimeto und ist ein Anlaufpunkt für Besucher, die die Silhouette der Stadt bewundern wollen. Geografie K5 — Stadtgeschichte.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Hat eine Höhe von 75 Metern.", "Bietet einen Panoramablick auf die Stadt."],
-      hu: ["75 méter magas.", "Panorámás kilátást nyújt a városra."],
-      ro: ["Are o înălțime de 75 de metri.", "Oferă o vedere panoramică asupra orașului."],
-      en: ["Stands 75 meters tall.", "Offers a panoramic view of the city."]
-    },
-    factsAdvanced: {
-      de: ["Der Obelisk wurde im Jahr 1952 eingeweiht.", "Er ist eines der höchsten Bauwerke in der gesamten Region.", "Das Denkmal erinnert an die lange Geschichte der Stadt seit ihrer Gründung.", "Der Aufstieg zur Spitze erlaubt es, die räumliche Ausdehnung von Barquisimeto zu erfassen."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "basilica-virgen-del-valle-landmarks-v2",
-    type: "landmark",
-    parent: "VE-O",
-    coords: [-63.8833, 10.9833],
-    name: {
-      de: "Basílica de la Virgen del Valle",
-      hu: "Völgyi Szűzanya-bazilika",
-      ro: "Bazilica Fecioarei din Vale",
-      en: "Basilica of the Virgin of the Valley"
-    },
-    description: {
-      de: "Eine gotische Basilika auf der Insel Margarita, ein bedeutendes spirituelles Zentrum der Region.",
-      hu: "Egy gótikus stílusú bazilika a Margarita-szigeten, a régió egyik legfontosabb spirituális központja.",
-      ro: "O bazilică gotică pe Insula Margarita, un important centru spiritual al regiunii.",
-      en: "A Gothic basilica on Margarita Island, a significant spiritual center of the region."
-    },
-    descriptionAdvanced: {
-      de: "Die Basílica de la Virgen del Valle ist der spirituelle Anker der gesamten Insel Margarita. Die Basilika im neugotischen Stil beherbergt die Statue der 'Virgen del Valle', die Schutzpatronin der Fischer und der gesamten Region. Die Bedeutung dieses Ortes geht weit über die Insel hinaus; sie ist ein nationales Heiligtum, zu dem Pilger aus ganz Venezuela reisen. Die Basilika selbst ist ein architektonisches Highlight, das in einer friedlichen, spirituellen Umgebung liegt, fernab des Strandlebens. Religion K6 — Pilgerorte.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Beherbergt die Statue der Schutzpatronin der Fischer.", "Wurde im 19. Jahrhundert errichtet."],
-      hu: ["Itt található a halászok védőszentjének szobra.", "A 19. században épült."],
-      ro: ["Adăpostește statuia sfântului patron al pescarilor.", "Construită în secolul al XIX-lea."],
-      en: ["Houses the statue of the patron saint of fishermen.", "Built in the 19th century."]
-    },
-    factsAdvanced: {
-      de: ["Die Basilika ist die wichtigste Pilgerstätte auf der Isla Margarita.", "Das jährliche Fest der 'Virgen del Valle' am 8. September ist ein bedeutender kultureller und religiöser Feiertag.", "Die Architektur des Gebäudes ist für ihren markanten neugotischen Stil bekannt.", "Das Heiligtum ist ein Symbol für die tiefe maritime Tradition der Inselbevölkerung."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "plaza-francia-altamira-landmarks-v2",
-    type: "landmark",
-    parent: "VE-A",
-    coords: [-66.8486, 10.4963],
-    name: {
-      de: "Plaza Francia",
-      hu: "Plaza Francia",
-      ro: "Plaza Francia",
-      en: "Plaza Francia"
-    },
-    description: {
-      de: "Ein öffentlicher Platz im Stadtteil Altamira in Caracas, bekannt für seinen großen Obelisken und die Springbrunnen.",
-      hu: "Nyilvános tér Caracas Altamira negyedében, amely nagy obeliszkjéről és szökőkútjairól híres.",
-      ro: "O piață publică în cartierul Altamira din Caracas, cunoscută pentru obeliscul său mare și fântânile arteziene.",
-      en: "A public square in the Altamira neighborhood of Caracas, known for its large obelisk and fountains."
-    },
-    descriptionAdvanced: {
-      de: "Die Plaza Francia in Altamira ist eines der beliebtesten sozialen Zentren von Caracas. Mit ihrem markanten, weithin sichtbaren Obelisken und den weitläufigen Wasserbecken bietet sie einen urbanen Treffpunkt von besonderer Ästhetik. Der Platz wurde im Zuge der Stadtentwicklung des Stadtteils Altamira geschaffen und hat sich zu einem Wahrzeichen für modernes Stadtleben entwickelt. Die Plaza ist nicht nur ein Ort des täglichen Treffens, sondern auch eine wichtige Adresse für kulturelle Aktivitäten und Proteste. Architektur K5 — Stadtplatz.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Entworfen vom Stadtplaner Luis Roche.", "Wurde 1945 erbaut."],
-      hu: ["Luis Roche várostervező munkája.", "1945-ben épült."],
-      ro: ["Proiectată de urbanistul Luis Roche.", "Construită în 1945."],
-      en: ["Designed by urban planner Luis Roche.", "Built in 1945."]
-    },
-    factsAdvanced: {
-      de: ["Der Obelisk auf der Plaza Francia ist eines der höchsten Monumente im Stadtteil Altamira.", "Der Platz dient als zentraler Treffpunkt in einem der wichtigsten Finanzdistrikte von Caracas.", "Das Design unterstreicht die moderne Ästhetik, die in den 1940er Jahren in Caracas aufkam.", "Die Plaza ist ein wichtiges Symbol für das moderne, urbane Leben in Venezuela."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "mezquita-ibrahim-landmarks-v2",
-    type: "landmark",
-    parent: "VE-A",
-    coords: [-66.8950, 10.5038],
-    name: {
-      de: "Mezquita Ibrahim Ibin Abdul Aziz Al-Ibrahim",
-      hu: "Ibrahim sejk mecset",
-      ro: "Moscheea Ibrahim",
-      en: "Ibrahim Mosque"
-    },
-    description: {
-      de: "Eine der größten Moscheen in Südamerika, die als religiöses Zentrum der muslimischen Gemeinde in Caracas fungiert.",
-      hu: "Dél-Amerika egyik legnagyobb mecsete, amely a caracasi muszlim közösség vallási központja.",
-      ro: "Una dintre cele mai mari moschei din America de Sud, servind drept centru religios al comunității musulmane din Caracas.",
-      en: "One of the largest mosques in South America, serving as the religious center for the Muslim community in Caracas."
-    },
-    descriptionAdvanced: {
-      de: "Die Ibrahim-Moschee in Caracas ist ein beeindruckendes Beispiel für moderne islamische Architektur. Als eine der größten Moscheen in Südamerika zeugt sie von der Diversität der venezolanischen Gesellschaft. Mit ihrem 113 Meter hohen Minarett ist sie weit über das Stadtviertel hinaus sichtbar und setzt ein architektonisches Ausrufezeichen. Neben ihrer religiösen Rolle für die muslimische Gemeinschaft ist sie auch ein Ort der kulturellen Bildung und des interreligiösen Austauschs in der Hauptstadt. Architektur K7 — Weltreligionen.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Das Minarett ist 113 Meter hoch.", "Im Jahr 1993 fertiggestellt."],
-      hu: ["A minaret 113 méter magas.", "1993-ban készült el."],
-      ro: ["Minaretul are o înălțime de 113 metri.", "Finalizată în anul 1993."],
-      en: ["The minaret is 113 meters tall.", "Completed in 1993."]
-    },
-    factsAdvanced: {
-      de: ["Die Moschee ist ein architektonisch markantes Bauwerk in Caracas.", "Die Architektur des Minaretts ist eine der höchsten ihrer Art auf dem Kontinent.", "Die Moschee dient als zentraler Ort der Anbetung für Muslime aus der ganzen Metropolregion.", "Die Gestaltung kombiniert traditionelle islamische Elemente mit modernem Betonbau."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "torres-parque-central-landmarks-v2",
-    type: "landmark",
-    parent: "VE-A",
-    coords: [-66.9036, 10.4988],
-    name: {
-      de: "Torres de Parque Central",
-      hu: "Parque Central tornyok",
-      ro: "Turnurile Parque Central",
-      en: "Parque Central Towers"
-    },
-    description: {
-      de: "Ein markanter Wolkenkratzerkomplex in Caracas, der lange Zeit zu den höchsten Gebäuden Südamerikas zählte.",
-      hu: "Caracas egyik meghatározó felhőkarcoló-komplexuma, amely sokáig Dél-Amerika legmagasabb épületei közé tartozott.",
-      ro: "Un complex de zgârie-nori distinctiv din Caracas, care a fost mult timp printre cele mai înalte clădiri din America de Sud.",
-      en: "A distinctive skyscraper complex in Caracas that was long among the tallest buildings in South America."
-    },
-    descriptionAdvanced: {
-      de: "Der Parque-Central-Komplex ist das Symbol der Modernisierung von Caracas in den 1970er Jahren. Die Zwillingstürme waren für lange Zeit die höchsten Bauwerke in Südamerika und prägten das Bild von Venezuela als aufstrebende Ölnation. Heute beherbergen sie Museen, Büros und Wohnraum und sind ein zentraler Teil der kulturellen Landschaft. Ihre Architektur ist ein Zeugnis für den Optimismus einer vergangenen Ära. Ein Besuch in der Umgebung ermöglicht eine gute Sicht auf die städtebauliche Entwicklung der Hauptstadt. Geschichte K7 — Moderne Architektur.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Die Zwillingstürme sind 225 Meter hoch.", "Sie waren einst die höchsten Gebäude Lateinamerikas."],
-      hu: ["Az ikertornyok 225 méter magasak.", "Egykor Latin-Amerika legmagasabb épületei voltak."],
-      ro: ["Turnurile gemene au o înălțime de 225 de metri.", "Odinioară, cele mai înalte clădiri din America Latină."],
-      en: ["The twin towers are 225 meters tall.", "They were once the tallest buildings in Latin America."]
-    },
-    factsAdvanced: {
-      de: ["Parque Central wurde 1970 konzipiert.", "Die Türme sind ein zentrales Element des Stadtpanoramas von Caracas.", "Der Komplex beherbergt heute bedeutende kulturelle Einrichtungen der Stadt.", "Das architektonische Design war seinerzeit wegweisend für den Wolkenkratzerbau."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "esfera-de-caracas-landmarks-v2",
-    type: "landmark",
-    parent: "VE-A",
-    coords: [-66.8525, 10.4925],
-    name: {
-      de: "Esfera de Caracas",
-      hu: "Caracasi gömb",
-      ro: "Sfera din Caracas",
-      en: "Caracas Sphere"
-    },
-    description: {
-      de: "Eine ikonische kinetische Skulptur des Künstlers Jesús Soto, die aus orangefarbenen Metallstäben besteht.",
-      hu: "Jesús Soto művész ikonikus kinetikus szobra, amely narancssárga fémpálcákból áll.",
-      ro: "O sculptură cinetică iconică a artistului Jesús Soto, formată din tije metalice portocalii.",
-      en: "An iconic kinetic sculpture by artist Jesús Soto, composed of orange metal rods."
-    },
-    descriptionAdvanced: {
-      de: "Die 'Esfera de Caracas' von Jesús Soto ist ein Meisterwerk der kinetischen Kunst im öffentlichen Raum. Das Kunstwerk besticht durch seine Leichtigkeit und die stetige Veränderung, die durch die Bewegung der Betrachter und den Wind entsteht. Es ist mittlerweile eines der am einfachsten erkennbaren Wahrzeichen für den Autofahrer und den Besucher in Caracas. Sie steht für den venezolanischen Beitrag zur globalen Kunstbewegung der Moderne. Ein Besuch in der Nähe der Autobahn ist ein Muss für Kunstfans. Kultur K6 — Moderne Kunst.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Besteht aus über 1800 Aluminiumrohren.", "Sie liegt direkt an der Autobahn Francisco Fajardo."],
-      hu: ["Több mint 1800 alumíniumcsőből áll.", "Közvetlenül a Francisco Fajardo autópálya mellett található."],
-      ro: ["Constă din peste 1800 de tuburi de aluminiu.", "Se află chiar lângă autostrada Francisco Fajardo."],
-      en: ["Consists of over 1800 aluminum tubes.", "Located right by the Francisco Fajardo highway."]
-    },
-    factsAdvanced: {
-      de: ["Die Skulptur wurde in den 1990er Jahren installiert.", "Der Künstler Jesús Soto ist einer der weltweit bedeutendsten Vertreter der kinetischen Kunst.", "Die orange Farbe der Aluminiumrohre ist bewusst gewählt, um einen Kontrast zum Himmel und dem Stadtbild zu bilden.", "Die Esfera ist ein täglicher Begleiter für tausende Pendler auf der Autobahn."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "el-calvario-caracas-landmarks-v2",
-    type: "landmark",
-    parent: "VE-A",
-    coords: [-66.9213, 10.5050],
-    name: {
-      de: "Parque El Calvario",
-      hu: "El Calvario Park",
-      ro: "Parcul El Calvario",
-      en: "El Calvario Park"
-    },
-    description: {
-      de: "Ein historischer Park auf einem Hügel in Caracas, der eine Oase der Ruhe und zahlreiche Denkmäler bietet.",
-      hu: "Egy történelmi park egy dombon Caracasban, amely a nyugalom szigete és számos emlékművet rejt.",
-      ro: "Un parc istoric situat pe un deal în Caracas, oferind o oază de liniște și numeroase monumente.",
-      en: "A historic park on a hill in Caracas, offering an oasis of tranquility and numerous monuments."
-    },
-    descriptionAdvanced: {
-      de: "Der Parque El Calvario ist ein Ort, an dem sich Natur und Geschichte in Caracas treffen. Als einer der ältesten öffentlichen Parks der Stadt bietet er nicht nur eine atemberaubende Aussicht über das Zentrum, sondern auch zahlreiche historische Denkmäler und koloniale Architekturrelikte. Er war lange Zeit ein Ort der sozialen Repräsentation und ist heute eine grüne Lunge für die Anwohner. Ein Spaziergang hier ist wie ein Ausflug in die stadtplanerische Vergangenheit des alten Caracas. Geschichte K6 — Parkgestaltung.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Im 19. Jahrhundert angelegt.", "Bietet einen Panoramablick über das Stadtzentrum."],
-      hu: ["A 19. században alakították ki.", "Panorámás kilátást nyújt a városközpontra."],
-      ro: ["Creat în secolul al XIX-lea.", "Oferă o vedere panoramică asupra centrului orașului."],
-      en: ["Created in the 19th century.", "Offers a panoramic view over the city center."]
-    },
-    factsAdvanced: {
-      de: ["El Calvario bietet eine der schönsten Aussichten auf die Altstadt von Caracas.", "Der Park ist bekannt für seine klassizistischen Bogengänge.", "Er fungiert als wichtiger Erholungsraum für die Bewohner der Innenstadt.", "Die verschiedenen Ebenen des Parks beherbergen bedeutende Denkmäler der venezolanischen Republik."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "museo-de-bellas-artes-caracas-landmarks-v2",
-    type: "landmark",
-    parent: "VE-A",
-    coords: [-66.8977, 10.5008],
-    name: {
-      de: "Museo de Bellas Artes",
+      de: "Museum der Schönen Künste",
       hu: "Szépművészeti Múzeum",
       ro: "Muzeul de Arte Frumoase",
       en: "Museum of Fine Arts"
     },
     description: {
-      de: "Das älteste Kunstmuseum in Venezuela mit einer umfangreichen Sammlung lateinamerikanischer und europäischer Kunst.",
-      hu: "Venezuela legrégebbi művészeti múzeuma, amely kiterjedt latin-amerikai és európai gyűjteménnyel rendelkezik.",
-      ro: "Cel mai vechi muzeu de artă din Venezuela, cu o colecție extinsă de artă latino-americană și europeană.",
-      en: "The oldest art museum in Venezuela, featuring an extensive collection of Latin American and European art."
+      de: "Das älteste Kunstmuseum Venezuelas beherbergt eine beeindruckende Sammlung internationaler und nationaler Kunst.",
+      hu: "Venezuela legrégebbi művészeti múzeuma nemzetközi és hazai műalkotások lenyűgöző gyűjteményének ad otthont.",
+      ro: "Cel mai vechi muzeu de artă din Venezuela găzduiește o colecție impresionantă de artă internațională și națională.",
+      en: "The oldest art museum in Venezuela houses an impressive collection of international and national art."
     },
     descriptionAdvanced: {
-      de: "Das Museo de Bellas Artes ist ein zentraler Akteur im kulturellen Leben von Caracas. Als das älteste Kunstmuseum des Landes beherbergt es eine beeindruckende Sammlung, die von antiken Stücken bis hin zur modernen lateinamerikanischen Kunst reicht. Die architektonische Gestaltung durch Carlos Raúl Villanueva macht das Gebäude selbst zu einem Kunstwerk. Es dient als wichtiger Ort für Bildung und Inspiration in den Künsten und spiegelt die kulturelle Entwicklung Venezuelas über das 20. Jahrhundert hinweg wider. Kultur K7 — Bildende Kunst.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      de: "Das Museum der Schönen Künste (Museo de Bellas Artes) in Caracas ist eine Institution von Weltrang. Es wurde in einem eleganten neoklassizistischen Gebäude untergebracht, das später durch einen modernen Anbau ergänzt wurde, was die architektonische Entwicklung der Stadt widerspiegelt. Die Sammlungen umfassen Werke von der Antike bis zur Moderne, mit einem besonderen Schwerpunkt auf lateinamerikanischer Kunst. Das Museum ist ein Zentrum für kulturelle Bildung und bietet einen tiefen Einblick in den ästhetischen Reichtum der Menschheitsgeschichte. Kunst K7 — Museologie.",
+      hu: "A caracasi Szépművészeti Múzeum (Museo de Bellas Artes) világszínvonalú intézmény. Egy elegáns neoklasszicista épületben kapott helyet, amelyet később modern szárnnyal egészítettek ki, tükrözve a város építészeti fejlődését. Gyűjteményei az ókortól a modern korig terjednek, különös hangsúlyt fektetve a latin-amerikai művészetre. A múzeum a kulturális oktatás központja, és mély betekintést nyújt az emberiség történelmének esztétikai gazdagságába. Művészet K7 — muzeológia.",
+      ro: "",
+      en: "",
     },
     facts: {
-      de: ["Wurde 1917 gegründet.", "Der heutige Bau wurde vom Architekten Carlos Raúl Villanueva entworfen."],
-      hu: ["1917-ben alapították.", "A jelenlegi épületet Carlos Raúl Villanueva építész tervezte."],
-      ro: ["A fost fondat în 1917.", "Clădirea actuală a fost proiectată de arhitectul Carlos Raúl Villanueva."],
-      en: ["Founded in 1917.", "The current building was designed by architect Carlos Raúl Villanueva."]
+      de: ["Gegründet im Jahr 1917.", "Umfangreiche Sammlung lateinamerikanischer Kunst."],
+      hu: ["1917-ben alapították.", "Kiterjedt latin-amerikai művészeti gyűjtemény."],
+      ro: ["Fondat în 1917.", "Colecție extinsă de artă latino-americană."],
+      en: ["Founded in 1917.", "Extensive collection of Latin American art."]
     },
     factsAdvanced: {
-      de: ["Das Museum ist in den Park 'Parque Los Caobos' eingebettet.", "Die Sammlung umfasst über 5.000 Exponate der bildenden Kunst.", "Das Werk des Architekten Villanueva ist ein Meilenstein in der venezolanischen Moderne.", "Das Museum spielt eine zentrale Rolle in der Vermittlung von Kunst und Geschichte an die Bevölkerung."],
-      hu: [],
+      de: ["Das ursprüngliche Gebäude wurde von Carlos Raúl Villanueva im neoklassizistischen Stil entworfen.", "Es beherbergt eine der bedeutendsten Sammlungen ägyptischer Kunst in Lateinamerika.", "Das Museum dient als wichtigster Ort für die Bewahrung des klassischen künstlerischen Erbes Venezuelas.", "Der Skulpturengarten bietet einen ruhigen Ort für Kunstgenuss unter freiem Himmel."],
+      hu: ["Az eredeti épületet Carlos Raúl Villanueva tervezte neoklasszicista stílusban.", "Latin-Amerika egyik legjelentősebb egyiptomi művészeti gyűjteményének ad otthont.", "A múzeum a klasszikus venezuelai művészeti örökség megőrzésének legfontosabb helyszíne.", "A szoborkert nyugodt helyet kínál a művészet élvezetéhez a szabad ég alatt."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-museo-bellas-artes-landmark-v2.webp"},
   {
-    id: "castillo-de-santa-rosa-landmarks-v2",
-    type: "landmark",
-    parent: "VE-O",
-    coords: [-63.8655, 11.0261],
-    name: {
-      de: "Castillo de Santa Rosa",
-      hu: "Santa Rosa kastély",
-      ro: "Castelul Santa Rosa",
-      en: "Castle of Santa Rosa"
-    },
-    description: {
-      de: "Eine koloniale Befestigungsanlage auf der Insel Margarita, die durch eine reiche Unabhängigkeitsgeschichte geprägt ist.",
-      hu: "Egy gyarmati erődítmény a Margarita-szigeten, amelyet a függetlenségi háborúk gazdag történelme jellemez.",
-      ro: "O fortificație colonială pe Insula Margarita, caracterizată printr-o bogată istorie a independenței.",
-      en: "A colonial fortification on Margarita Island, characterized by a rich history of independence."
-    },
-    descriptionAdvanced: {
-      de: "Das Castillo Santa Rosa in La Asunción ist ein symbolträchtiger Ort des venezolanischen Freiheitskampfes. Besonders bekannt ist sie durch die Inhaftierung von Luisa Cáceres de Arismendi, einer Heldin, deren Widerstandswillen während des Unabhängigkeitskampfes legendär wurde. Die Festung war ein entscheidender Punkt in der Verteidigung der Unabhängigkeit auf der Isla Margarita. Heute ist sie ein Monument, das an den Mut und die Opferbereitschaft derer erinnert, die für die venezolanische Nation kämpften. Geschichte K8 — Heldentum.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
-    },
-    facts: {
-      de: ["Luisa Cáceres de Arismendi wurde hier inhaftiert.", "Im späten 17. Jahrhundert erbaut."],
-      hu: ["Luisa Cáceres de Arismendit itt tartották fogságban.", "A 17. század végén épült."],
-      ro: ["Luisa Cáceres de Arismendi a fost închisă aici.", "Construit la sfârșitul secolului al XVII-lea."],
-      en: ["Luisa Cáceres de Arismendi was imprisoned here.", "Built in the late 17th century."]
-    },
-    factsAdvanced: {
-      de: ["Santa Rosa wurde 1681 zur Verteidigung von La Asunción errichtet.", "Luisa Cáceres de Arismendi wurde hier inhaftiert, um ihren Mann, einen Unabhängigkeitskämpfer, unter Druck zu setzen.", "Die Festung ist heute ein bedeutendes historisches Museum.", "Sie liegt malerisch über der Stadt La Asunción auf einem Hügel."],
-      hu: [],
-      ro: [],
-      en: [],
-    }
-  },
-  {
-    id: "casa-natal-simon-bolivar-landmarks-v2",
+    id: "venezuela-galeria-arte-nacional-landmark-v2",
     type: "landmark",
     parent: "VE-A",
-    coords: [-66.9122, 10.5041],
+    coords: [-66.8972, 10.5005],
     name: {
-      de: "Casa Natal del Libertador",
-      hu: "A Szabadító szülőháza",
-      ro: "Casa Natală a Eliberatorului",
-      en: "Birthplace of Simón Bolívar"
+      de: "Nationale Kunstgalerie",
+      hu: "Nemzeti Művészeti Galéria",
+      ro: "Galeria de Artă Națională",
+      en: "National Art Gallery"
     },
     description: {
-      de: "Ein historisches Haus im Kolonialstil in Caracas, in dem Simón Bolívar, der Befreier Südamerikas, geboren wurde.",
-      hu: "Egy történelmi, gyarmati stílusú ház Caracasban, ahol Simón Bolívar, Dél-Amerika felszabadítója született.",
-      ro: "O casă istorică în stil colonial din Caracas, unde s-a născut Simón Bolívar, eliberatorul Americii de Sud.",
-      en: "A historic colonial-style house in Caracas where Simón Bolívar, the liberator of South America, was born."
+      de: "Dieses Museum ist ausschließlich der Bewahrung und Ausstellung venezolanischer Kunst gewidmet.",
+      hu: "Ez a múzeum kizárólag a venezuelai művészet megőrzésének és kiállításának szentelt.",
+      ro: "Acest muzeu este dedicat exclusiv conservării și expunerii artei venezuelene.",
+      en: "This museum is dedicated exclusively to the preservation and exhibition of Venezuelan art."
     },
     descriptionAdvanced: {
-      de: "Das Geburtshaus von Simón Bolívar ist eines der bedeutendsten historischen Zeugnisse in Caracas. Es vermittelt einen authentischen Einblick in das Leben einer wohlhabenden Familie im venezolanischen Kolonialzeitalter. Mit seinen gut erhaltenen Innenhöfen und der zeitgenössischen Einrichtung führt das Museum Besucher zurück in das 18. Jahrhundert. Als Ort, an dem der bedeutendste Befreier Südamerikas seine ersten Lebensjahre verbrachte, ist es ein zentrales Element für das Verständnis der nationalen Geschichte. Geschichte K6 — Befreiungskampf.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      de: "Die Nationale Kunstgalerie (GAN) ist der Hüter des venezolanischen visuellen Erbes. In ihren weitläufigen Hallen sind Meisterwerke nationaler Künstler von der Kolonialzeit bis zur Gegenwart ausgestellt. Die Galerie ermöglicht es Besuchern, die Entwicklung der venezolanischen Identität durch die Augen ihrer Maler und Bildhauer nachzuvollziehen. Mit ihrem Fokus auf die nationale Produktion ist die GAN ein unverzichtbarer Ort für jeden, der die Seele Venezuelas verstehen möchte. Kunst K6 — Identität.",
+      hu: "A Nemzeti Művészeti Galéria (GAN) a venezuelai vizuális örökség őrzője. Tágas termeiben hazai művészek remekműveit állítják ki a gyarmati korszaktól napjainkig. A galéria lehetővé teszi a látogatók számára, hogy festők és szobrászok szemén keresztül kövessék nyomon a venezuelai identitás fejlődését. A nemzeti produkcióra összpontosítva a GAN nélkülözhetetlen hely mindazok számára, akik meg akarják érteni Venezuela lelkét. Művészet K6 — identitás.",
+      ro: "",
+      en: "",
     },
     facts: {
-      de: ["Bolívar wurde hier 1783 geboren.", "Es ist heute ein Museum."],
-      hu: ["Bolívar itt született 1783-ban.", "Ma múzeumként működik."],
-      ro: ["Bolívar s-a născut aici în 1783.", "Astăzi este un muzeu."],
-      en: ["Bolívar was born here in 1783.", "It is a museum today."]
+      de: ["Größtes Museum für venezolanische Kunst.", "Beherbergt über 4.000 Kunstwerke."],
+      hu: ["A legnagyobb venezuelai művészeti múzeum.", "Több mint 4000 műalkotásnak ad otthont."],
+      ro: ["Cel mai mare muzeu de artă venezueleană.", "Găzduiește peste 4.000 de opere de artă."],
+      en: ["Largest museum of Venezuelan art.", "Houses over 4,000 works of art."]
     },
     factsAdvanced: {
-      de: ["Simón Bolívar wurde am 24. Juli 1783 in diesem Gebäude geboren.", "Das Haus wurde im 20. Jahrhundert restauriert, um seinen kolonialen Charakter zu bewahren.", "Das Museum beherbergt bedeutende Erinnerungsstücke aus dem Leben des Befreiers.", "Es ist ein anerkanntes historisches und nationales Denkmal Venezuelas."],
-      hu: [],
+      de: ["Die Galerie besitzt die größte Sammlung von Werken des berühmten Malers Arturo Michelena.", "Sie wurde gegründet, um einen zentralen Raum für die venezolanische Kunstproduktion zu schaffen.", "Die Architektur des neuen Gebäudes ist ein modernes Highlight im Museumsviertel von Caracas.", "Jedes Jahr finden hier bedeutende Retrospektiven zur nationalen Kunstgeschichte statt."],
+      hu: ["A galéria birtokolja a híres festő, Arturo Michelena műveinek legnagyobb gyűjteményét.", "Azért alapították, hogy központi teret hozzanak létre a venezuelai művészeti produkciónak.", "Az új épület építészete Caracas múzeumi negyedének modern kiemelkedő pontja.", "Minden évben jelentős retrospektív kiállításokat rendeznek itt a nemzeti művészettörténetről."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-galeria-arte-nacional-landmark-v2.webp"},
+  {
+    id: "venezuela-museo-ciencias-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.8992, 10.4997],
+    name: {
+      de: "Naturwissenschaftliches Museum",
+      hu: "Természettudományi Múzeum",
+      ro: "Muzeul de Științe",
+      en: "Science Museum"
+    },
+    description: {
+      de: "Ein faszinierendes Museum, das Ausstellungen zur Naturgeschichte, Biodiversität und Archäologie bietet.",
+      hu: "Lenyűgöző múzeum, amely természetrajzi, biodiverzitási és régészeti kiállításokat kínál.",
+      ro: "Un muzeu fascinant care oferă expoziții despre istoria naturală, biodiversitate și arheologie.",
+      en: "A fascinating museum offering exhibitions on natural history, biodiversity, and archaeology."
+    },
+    descriptionAdvanced: {
+      de: "Das Naturwissenschaftliche Museum (Museo de Ciencias) ist ein Ort der Entdeckung und des Lernens. Gelegen am Plaza de los Museos, bietet es Einblicke in die reiche Biodiversität Venezuelas und die Geheimnisse der Erdgeschichte. Von Dinosaurierskeletten bis hin zu ethnografischen Sammlungen indigener Völker deckt das Museum ein breites Spektrum ab. Es ist besonders bei Familien und Schulen beliebt, da es Wissenschaft auf anschauliche Weise vermittelt. Naturwissenschaften K5 — Biodiversität.",
+      hu: "A Természettudományi Múzeum (Museo de Ciencias) a felfedezés és a tanulás helyszíne. A Plaza de los Museos téren található múzeum betekintést nyújt Venezuela gazdag biodiverzitásába és a földtörténet titkaiba. A dinoszauruszcsontvázaktól kezdve az őslakos népek néprajzi gyűjteményeiig a múzeum széles spektrumot fed le. Különösen népszerű a családok és az iskolák körében, mivel szemléletesen mutatja be a tudományt. Természettudományok K5 — biodiverzitás.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1875.", "Beherbergt bedeutende paläontologische Funde."],
+      hu: ["1875-ben alapították.", "Jelentős őslénytani leleteknek ad otthont."],
+      ro: ["Fondat în 1875.", "Găzduiește descoperiri paleontologice semnificative."],
+      en: ["Founded in 1875.", "Houses significant paleontological finds."]
+    },
+    factsAdvanced: {
+      de: ["Das Museum ist eine der ältesten wissenschaftlichen Institutionen des Landes.", "Die architektonische Gestaltung durch Carlos Raúl Villanueva integriert klassische und moderne Elemente.", "Es dient als wichtiges Forschungszentrum für die Flora und Fauna Venezuelas.", "Die ethnografische Abteilung zeigt wertvolle Artefakte der indigenen Kulturen des Orinoco-Beckens."],
+      hu: ["A múzeum az ország egyik legrégebbi tudományos intézménye.", "Carlos Raúl Villanueva építészeti tervei ötvözik a klasszikus és modern elemeket.", "Fontos kutatóközpontként szolgál Venezuela növény- és állatvilága számára.", "A néprajzi részleg az Orinoco-medence őslakos kultúráinak értékes műtárgyait mutatja be."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-museo-ciencias-landmark-v2.webp"},
+  {
+    id: "venezuela-museo-arte-contemporaneo-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.8997, 10.4981],
+    name: {
+      de: "Museum für zeitgenössische Kunst",
+      hu: "Kortárs Művészeti Múzeum",
+      ro: "Muzeul de Artă Contemporană",
+      en: "Museum of Contemporary Art"
+    },
+    description: {
+      de: "Das Museum ist bekannt für seine herausragende Sammlung moderner Kunst, einschließlich Werken von Picasso.",
+      hu: "A múzeum kiemelkedő modern művészeti gyűjteményéről ismert, többek között Picasso műveivel.",
+      ro: "Muzeul este cunoscut pentru colecția sa remarcabilă de artă modernă, inclusiv lucrări de Picasso.",
+      en: "The museum is known for its outstanding collection of modern art, including works by Picasso."
+    },
+    descriptionAdvanced: {
+      de: "Das Museum für zeitgenössische Kunst (MAC) in Caracas gilt als eines der wichtigsten Museen seiner Art in Lateinamerika. Mit einer beeindruckenden Sammlung internationaler Meister wie Picasso, Miró und Chagall sowie führender venezolanischer Künstler, ist es ein Leuchtturm der Moderne. Die avantgardistische Architektur des Gebäudes im Parque Central Komplex unterstreicht den innovativen Geist der Ausstellungen. Es ist ein Muss für jeden Liebhaber moderner Ästhetik und kreativer Innovation. Kunst K8 — Moderne.",
+      hu: "A caracasi Kortárs Művészeti Múzeumot (MAC) Latin-Amerika egyik legfontosabb ilyen jellegű múzeumának tartják. Olyan nemzetközi mesterek lenyűgöző gyűjteményével, mint Picasso, Miró és Chagall, valamint vezető venezuelai művészekkel a modernitás világítótornya. A Parque Central komplexumban található épület avantgárd építészete hangsúlyozza a kiállítások innovatív szellemét. Kötelező látnivaló a modern esztétika és a kreatív innováció kedvelői számára. Művészet K8 — modern kor.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Besitzt eine bedeutende Suite von Picasso-Drucken.", "Liegt im Parque Central Komplex."],
+      hu: ["Picasso-nyomatok jelentős sorozatával rendelkezik.", "A Parque Central komplexumban található."],
+      ro: ["Deține o suită semnificativă de stampe Picasso.", "Situat în complexul Parque Central."],
+      en: ["Owns a significant suite of Picasso prints.", "Located in the Parque Central complex."]
+    },
+    factsAdvanced: {
+      de: ["Das Museum wurde 1973 durch die Vision von Sofia Imber gegründet.", "Es beherbergt die 'Picasso-Suite', eine der vollständigsten Sammlungen seiner Druckgrafik weltweit.", "Die Architektur nutzt großzügige offene Räume, um die zeitgenössischen Werke optimal zu präsentieren.", "Es ist ein zentraler Akteur im kulturellen Netzwerk von Caracas."],
+      hu: ["A múzeumot 1973-ban alapították Sofia Imber víziója alapján.", "Itt található a 'Picasso-szvit', amely a művész nyomtatott grafikáinak egyik legteljesebb gyűjteménye a világon.", "Az építészet tágas, nyitott tereket használ a kortárs művek optimális bemutatásához.", "Caracas kulturális hálózatának központi szereplője."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-museo-arte-contemporaneo-landmark-v2.webp"},
+  {
+    id: "venezuela-museo-de-los-ninos-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.9011, 10.4986],
+    name: {
+      de: "Kindermuseum von Caracas",
+      hu: "Gyermekmúzeum",
+      ro: "Muzeul Copiilor din Caracas",
+      en: "Children's Museum of Caracas"
+    },
+    description: {
+      de: "Ein interaktives Museum, das Kindern Wissenschaft, Technik und Kultur spielerisch näher bringt.",
+      hu: "Interaktív múzeum, amely játékos formában ismerteti meg a gyerekeket a tudománnyal, a technikával és a kultúrával.",
+      ro: "Un muzeu interactiv care introduce copiii în știință, tehnologie și cultură într-un mod jucăuș.",
+      en: "An interactive museum that introduces children to science, technology, and culture in a playful way."
+    },
+    descriptionAdvanced: {
+      de: "Das Kindermuseum von Caracas (Museo de los Niños) war das erste seiner Art in Lateinamerika und setzt bis heute Maßstäbe für interaktives Lernen. Mit dem Motto 'Lernen durch Spielen' bietet es Kindern die Möglichkeit, komplexe Themen aus Physik, Biologie und Technologie hautnah zu erleben. Die verschiedenen Pavillons fördern die Neugier und den Forschergeist der jungen Besucher. Es ist eine Bildungseinrichtung, die Spaß und Wissen auf einzigartige Weise verbindet. Pädagogik K5 — Interaktives Lernen.",
+      hu: "A caracasi Gyermekmúzeum (Museo de los Niños) az első volt a maga nemében Latin-Amerikában, és ma is mércét állít az interaktív tanulás terén. A 'játszva tanulni' mottóval lehetőséget ad a gyerekeknek, hogy közvetlenül tapasztalják meg a fizika, a biológia és a technológia összetett témáit. A különböző pavilonok serkentik a fiatal látogatók kíváncsiságát és kutatószellemét. Olyan oktatási intézmény, amely egyedülálló módon ötvözi a szórakozást és a tudást. Pedagógia K5 — interaktív tanulás.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Erstes Kindermuseum in Lateinamerika.", "Fokus auf interaktive Ausstellungen."],
+      hu: ["Az első gyermekmúzeum Latin-Amerikában.", "Az interaktív kiállításokra összpontosít."],
+      ro: ["Primul muzeu al copiilor din America Latină.", "Accent pe expoziții interactive."],
+      en: ["First children's museum in Latin America.", "Focus on interactive exhibits."]
+    },
+    factsAdvanced: {
+      de: ["Das Museum wurde 1982 eröffnet und hat seither Generationen von venezolanischen Kindern geprägt.", "Die Ausstellungen decken Themenbereiche wie Weltraum, Ökologie und Kommunikation ab.", "Es befindet sich in einem markanten Gebäude im Zentrum der Stadt.", "Das interaktive Konzept wurde international für seine pädagogische Qualität ausgezeichnet."],
+      hu: ["A múzeum 1982-ben nyílt meg, és azóta venezuelai gyerekek generációit határozta meg.", "A kiállítások olyan témákat érintenek, mint az űr, az ökológia és a kommunikáció.", "A városközpont egyik jellegzetes épületében található.", "Az interaktív koncepciót nemzetközileg is elismerték pedagógiai minőségéért."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-museo-de-los-ninos-landmark-v2.webp"},
+  {
+    id: "venezuela-museo-sacro-caracas-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.9131, 10.5061],
+    name: {
+      de: "Museum für sakrale Kunst",
+      hu: "Egyházművészeti Múzeum",
+      ro: "Muzeul de Artă Sacră",
+      en: "Museum of Sacred Art"
+    },
+    description: {
+      de: "Das Museum beherbergt eine bedeutende Sammlung religiöser Kunst aus der Kolonialzeit.",
+      hu: "A múzeum a gyarmati korból származó vallási művészet jelentős gyűjteményének ad otthont.",
+      ro: "Muzeul găzduiește o colecție semnificativă de artă religioasă din perioada colonială.",
+      en: "The museum houses a significant collection of religious art from the colonial period."
+    },
+    descriptionAdvanced: {
+      de: "Das Museum für Sakrale Kunst (Museo Sacro) in Caracas befindet sich in einem wunderschön restaurierten ehemaligen Friedhofsgebäude direkt neben der Kathedrale. Es bewahrt die reiche religiöse Tradition Venezuelas durch beeindruckende Statuen, Gemälde und Goldschmiedearbeiten aus der Kolonialzeit. Die ruhige Atmosphäre des Innenhofs und die sorgfältig kuratierten Ausstellungen bieten einen Moment der Besinnung inmitten der Großstadt. Es ist ein Ort, der die spirituelle Geschichte des Landes greifbar macht. Religion K6 — Sakrale Kunst.",
+      hu: "A caracasi Egyházművészeti Múzeum (Museo Sacro) egy gyönyörűen restaurált egykori temetőépületben található közvetlenül a katedrális mellett. Venezuela gazdag vallási hagyományait őrzi lenyűgöző gyarmati kori szobrokon, festményeken és ötvösmunkákon keresztül. A belső udvar nyugodt légköre és a gondosan összeállított kiállítások a nagyváros közepén kínálnak lehetőséget az elmélyülésre. Olyan hely ez, amely kézzelfoghatóvá teszi az ország spirituális történetét. Vallás K6 — szakrális művészet.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Liegt direkt neben der Kathedrale von Caracas.", "Sammlung kolonialer religiöser Kunst."],
+      hu: ["Közvetlenül a caracasi katedrális mellett található.", "Gyarmati vallási művészeti gyűjtemény."],
+      ro: ["Situat chiar lângă Catedrala din Caracas.", "Colecție de artă religioasă colonială."],
+      en: ["Located right next to the Caracas Cathedral.", "Collection of colonial religious art."]
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude diente ursprünglich als der 'Cementerio de los Canónigos'.", "Die Sammlung umfasst wertvolle Stücke aus dem 17. und 18. Jahrhundert.", "Das Museum dokumentiert den starken Einfluss der katholischen Kirche auf die koloniale Gesellschaft.", "Der Innenhof ist ein Beispiel für die koloniale Architekturästhetik."],
+      hu: ["Az épület eredetileg a 'Cementerio de los Canónigos' (Kanonokok temetője) volt.", "A gyűjtemény a 17. és 18. századból származó értékes darabokat tartalmaz.", "A múzeum dokumentálja a katolikus egyház erős befolyását a gyarmati társadalomra.", "A belső udvar a gyarmati építészeti esztétika példája."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-museo-sacro-caracas-landmark-v2.webp"},
+  {
+    id: "venezuela-centro-de-arte-lira-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.9158, 10.5042],
+    name: {
+      de: "Kunstzentrum Lira",
+      hu: "Lira Művészeti Központ",
+      ro: "Centrul de Artă Lira",
+      en: "Lira Art Center"
+    },
+    description: {
+      de: "Ein zeitgenössisches Kulturzentrum, das Raum für verschiedene Kunstformen und lokale Ausstellungen bietet.",
+      hu: "Kortárs kulturális központ, amely teret ad különböző művészeti formáknak és helyi kiállításoknak.",
+      ro: "Un centru cultural contemporan care oferă spațiu pentru diverse forme de artă și expoziții locale.",
+      en: "A contemporary cultural center providing space for various art forms and local exhibitions."
+    },
+    descriptionAdvanced: {
+      de: "Das Kunstzentrum Lira ist ein lebendiger Treffpunkt für die Kulturszene in Caracas. Es dient als Plattform für aufstrebende Künstler und bietet Raum für experimentelle Projekte, Musik und Theater. Durch seine Lage und das abwechslungsreiche Programm fördert es den kulturellen Austausch und die Kreativität in der Stadt. Das Zentrum ist ein Beispiel für die dynamische und sich ständig weiterentwickelnde Kunstlandschaft Venezuelas. Kultur K7 — Kunstförderung.",
+      hu: "A Lira Művészeti Központ a caracasi kulturális élet vibráló találkozóhelye. Platformként szolgál a feltörekvő művészek számára, teret biztosítva kísérleti projekteknek, zenének és színháznak. Elhelyezkedése és változatos programjai révén elősegíti a város kulturális cseréjét és kreativitását. A központ a venezuelai művészeti szcéna dinamikus és folyamatosan fejlődő képviselője. Kultúra K7 — művészetpártolás.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Plattform für lokale Künstler.", "Vielseitiges kulturelles Programm."],
+      hu: ["Platform a helyi művészek számára.", "Sokszínű kulturális program."],
+      ro: ["Platformă pentru artiștii locali.", "Program cultural versatil."],
+      en: ["Platform for local artists.", "Versatile cultural program."]
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum fördert aktiv die Vernetzung zwischen verschiedenen Kunstdisziplinen.", "Es bietet regelmäßig Workshops und Kurse für die Gemeinde an.", "Lira ist bekannt für seine Unterstützung von innovativen und unkonventionellen Kunstprojekten.", "Das Gebäude selbst wurde modernisiert, um den Anforderungen eines zeitgenössischen Kunstzentrums gerecht zu werden."],
+      hu: ["A központ aktívan támogatja a különböző művészeti ágak közötti kapcsolatépítést.", "Rendszeresen kínál workshopokat és tanfolyamokat a közösség számára.", "A Lira ismert az innovatív és rendhagyó művészeti projektek támogatásáról.", "Magát az épületet modernizálták, hogy megfeleljen a kortárs művészeti központ követelményeinek."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-centro-de-arte-lira-landmark-v2.webp"},
+  {
+    id: "venezuela-teatro-teresa-carreno-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.8994, 10.4989],
+    name: {
+      de: "Theater Teresa Carreño",
+      hu: "Teresa Carreño Színház",
+      ro: "Teatrul Teresa Carreño",
+      en: "Teresa Carreño Theater"
+    },
+    description: {
+      de: "Das bedeutendste Theater von Caracas und eines der modernsten Kulturzentren Südamerikas.",
+      hu: "Caracas legjelentősebb színháza és Dél-Amerika egyik legmodernebb kulturális központja.",
+      ro: "Cel mai important teatru din Caracas și unul dintre cele mai moderne centre culturale din America de Sud.",
+      en: "The most important theater in Caracas and one of the most modern cultural centers in South America."
+    },
+    descriptionAdvanced: {
+      de: "Das Theater Teresa Carreño ist ein architektonisches Monument der venezolanischen Moderne. Mit seiner markanten Sichtbeton-Architektur und den riesigen, schwebenden Strukturen ist es ein Wahrzeichen von Caracas. Das Theater beherbergt erstklassige Säle für Opern, Konzerte und Ballett und ist die Heimat bedeutender Orchester. Es symbolisiert den kulturellen Anspruch und die künstlerische Exzellenz Venezuelas auf internationalem Niveau. Musik K8 — Kulturmanagement.",
+      hu: "A Teresa Carreño Színház a venezuelai modernizmus építészeti emlékműve. Jellegzetes nyersbeton építészetével és hatalmas, lebegő szerkezeteivel Caracas egyik jelképe. A színház világszínvonalú termeknek ad otthont operák, koncertek és balettelőadások számára, és jelentős zenekarok székhelye. Venezuela kulturális törekvéseit és művészeti kiválóságát szimbolizálja nemzetközi szinten. Zene K8 — kulturális menedzsment.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Größtes Theater Venezuelas.", "Benannt nach der berühmten Pianistin Teresa Carreño."],
+      hu: ["Venezuela legnagyobb színháza.", "A híres zongoraművésznőről, Teresa Carreñóról nevezték el."],
+      ro: ["Cel mai mare teatru din Venezuela.", "Numit după celebra pianistă Teresa Carreño."],
+      en: ["Largest theater in Venezuela.", "Named after the famous pianist Teresa Carreño."]
+    },
+    factsAdvanced: {
+      de: ["Das Theater wurde 1983 offiziell eröffnet.", "Die 'Sala Ríos Reyna' ist für ihre hervorragende Akustik weltberühmt.", "Es ist Teil des architektonischen Ensembles des Parque Central Gebiets.", "Das Gebäude integriert monumentale Kunstwerke venezolanischer Künstler wie Jesús Soto."],
+      hu: ["A színházat hivatalosan 1983-ban adták át.", "A 'Sala Ríos Reyna' terem világhírű kiváló akusztikájáról.", "A Parque Central környékének építészeti együtteséhez tartozik.", "Az épület olyan neves venezuelai művészek monumentális alkotásait integrálja, mint Jesús Soto."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-teatro-teresa-carreno-landmark-v2.webp"},
+  {
+    id: "venezuela-teatro-municipal-caracas-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.9156, 10.5011],
+    name: {
+      de: "Stadttheater von Caracas",
+      hu: "Caracas-i Városi Színház",
+      ro: "Teatrul Municipal din Caracas",
+      en: "Municipal Theater of Caracas"
+    },
+    description: {
+      de: "Ein prächtiges historisches Opernhaus, das zu den ältesten Theatern Südamerikas zählt.",
+      hu: "Pompás történelmi operaház, amely Dél-Amerika legrégebbi színházai közé tartozik.",
+      ro: "O casă istorică magnifică de operă, numărată printre cele mai vechi teatre din America de Sud.",
+      en: "A magnificent historic opera house, counted among the oldest theaters in South America."
+    },
+    descriptionAdvanced: {
+      de: "Das Stadttheater von Caracas (Teatro Municipal) ist ein Juwel der neoklassizistischen Architektur des 19. Jahrhunderts. Zur Zeit seiner Eröffnung war es eines der prächtigsten Opernhäuser des Kontinents und spiegelte den wirtschaftlichen Aufschwung Venezuelas wider. Mit seiner prunkvollen Innenausstattung und der hufeisenförmigen Anordnung der Ränge bietet es einen klassischen Rahmen für darstellende Kunst. Es ist ein lebendiges Denkmal der venezolanischen Theatergeschichte. Theater K7 — Geschichte der Oper.",
+      hu: "A caracasi Városi Színház (Teatro Municipal) a 19. századi neoklasszicista építészet ékköve. Megnyitásakor a kontinens egyik legpompásabb operaháza volt, tükrözve Venezuela gazdasági felemelkedését. Pompás belső kialakításával és patkó alakú nézőterével klasszikus keretet biztosít az előadóművészetnek. A venezuelai színháztörténet élő műemléke. Színház K7 — az opera története.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["1881 eröffnet.", "Prunkvolle Innenausstattung."],
+      hu: ["1881-ben nyílt meg.", "Pompás belső kialakítás."],
+      ro: ["Inaugurat în 1881.", "Decor interior somptuos."],
+      en: ["Opened in 1881.", "Sumptuous interior decoration."]
+    },
+    factsAdvanced: {
+      de: ["Das Theater wurde unter der Präsidentschaft von Antonio Guzmán Blanco erbaut.", "Es war der Schauplatz für die Uraufführungen vieler nationaler Opern.", "Die Architektur orientiert sich an europäischen Vorbildern jener Ära.", "Trotz Modernisierungen hat das Theater seinen historischen Charme bewahrt."],
+      hu: ["A színház Antonio Guzmán Blanco elnöksége alatt épült.", "Számos nemzeti opera ősbemutatójának volt a helyszíne.", "Építészete az akkori korszak európai mintáit követi.", "A modernizációk ellenére a színház megőrizte történelmi báját."],
       ro: [],
       en: [],
     }
   },
   {
-    id: "santuario-nacional-coromoto-landmarks-v2",
+    id: "venezuela-teatro-nacional-caracas-landmark-v2",
     type: "landmark",
-    parent: "VE-P",
-    coords: [-69.8055, 8.8783],
+    parent: "VE-A",
+    coords: [-66.9150, 10.5019],
     name: {
-      de: "Santuario Nacional de la Virgen de Coromoto",
-      hu: "Coromotói Szűzanya Nemzeti Kegyhelye",
-      ro: "Sanctuarul Național Fecioara de la Coromoto",
-      en: "National Shrine of Our Lady of Coromoto"
+      de: "Nationaltheater von Caracas",
+      hu: "Caracas-i Nemzeti Színház",
+      ro: "Teatrul Național din Caracas",
+      en: "National Theater of Caracas"
     },
     description: {
-      de: "Eine beeindruckende moderne Basilika in Guanare, die der Schutzpatronin von Venezuela gewidmet ist.",
-      hu: "Egy lenyűgöző, modern bazilika Guanare városában, amelyet Venezuela védőszentjének szenteltek.",
-      ro: "O impresionantă bazilică modernă în Guanare, dedicată sfântului patron al Venezuelei.",
-      en: "An impressive modern basilica in Guanare dedicated to the patroness of Venezuela."
+      de: "Ein wunderschönes historisches Theater, das für seine Aufführungen von Zarzuela und Operetten bekannt ist.",
+      hu: "Gyönyörű történelmi színház, amely zarzuela- és operett-előadásairól ismert.",
+      ro: "Un teatru istoric frumos, cunoscut pentru spectacolele sale de zarzuela și operete.",
+      en: "A beautiful historic theater known for its performances of zarzuela and operettas."
     },
     descriptionAdvanced: {
-      de: "Die Basilika von Coromoto ist ein imposantes modernes Bauwerk und ein bedeutender Ort für den katholischen Glauben in Venezuela. Sie wurde zu Ehren der 'Virgen de Coromoto', der Schutzpatronin des Landes, errichtet. Die Architektur mit ihren großen Glasfronten und dem beeindruckenden Altarraum schafft eine Atmosphäre der Offenheit und Spiritualität. Pilger aus dem ganzen Land besuchen diesen Ort, um sich mit dem nationalen Glaubenserbe zu verbinden. Sie ist ein architektonisches Highlight, das Spiritualität und Moderne vereint. Religion K6 — Pilgerstätten.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      de: "Das Nationaltheater (Teatro Nacional) in Caracas ist ein Paradebeispiel für die Architektur der 'Belle Époque' in Venezuela. Es wurde konzipiert, um der wachsenden Begeisterung für leichtere lyrische Genres wie Zarzuela und Operette einen würdigen Rahmen zu geben. Die elegante Fassade und die fein ausgearbeiteten Details im Inneren machen es zu einem kulturellen Anziehungspunkt in der Innenstadt. Das Theater hat über ein Jahrhundert lang das kulturelle Leben der Hauptstadt geprägt und bleibt ein Symbol bürgerlicher Kulturpflege. Theater K6 — Genres.",
+      hu: "A caracasi Nemzeti Színház (Teatro Nacional) a venezuelai 'Belle Époque' építészetének mintapéldája. Úgy tervezték, hogy méltó keretet biztosítson a könnyebb lírai műfajok, mint a zarzuela és az operett iránti növekvő lelkesedésnek. Elegáns homlokzata és finoman kidolgozott belső részletei a belváros kulturális vonzerejévé teszik. A színház több mint egy évszázadon át meghatározta a főváros kulturális életét, és a polgári kultúra ápolásának szimbóluma maradt. Színház K6 — műfajok.",
+      ro: "",
+      en: "",
     },
     facts: {
-      de: ["Die Basilika wurde 1996 eingeweiht.", "Papst Johannes Paul II. besuchte den Ort."],
-      hu: ["A bazilikát 1996-ban szentelték fel.", "II. János Pál pápa is meglátogatta a helyet."],
-      ro: ["Bazilica a fost inaugurată în 1996.", "Papa Ioan Paul al II-lea a vizitat locul."],
-      en: ["The basilica was consecrated in 1996.", "Pope John Paul II visited the site."]
+      de: ["1905 eingeweiht.", "Bekannt für sein barockes Interieur."],
+      hu: ["1905-ben avatták fel.", "Barokk belső teréről ismert."],
+      ro: ["Inaugurat în 1905.", "Cunoscut pentru interiorul său baroc."],
+      en: ["Inaugurated in 1905.", "Known for its baroque interior."]
     },
     factsAdvanced: {
-      de: ["Die Basilika wurde 1996 von Papst Johannes Paul II. geweiht.", "Das Design der Basilika integriert modernes Lichtdesign und beeindruckende Glasmalereien.", "Es ist eine der größten religiösen Anlagen in Venezuela.", "Das Heiligtum ist ein Symbol für die tiefverwurzelte Marienverehrung im Land."],
-      hu: [],
+      de: ["Das Theater wurde unter der Herrschaft von Cipriano Castro errichtet.", "Die Innenausstattung zeigt kunstvolle Fresken und vergoldete Ornamente.", "Es war lange Zeit das Zentrum für das spanischsprachige Musiktheater in Caracas.", "Die Lage am Plaza Páez macht es zu einem prominenten Teil des urbanen Ensembles."],
+      hu: ["A színház Cipriano Castro uralkodása alatt épült.", "A belső kialakítás művészi freskókat és aranyozott díszítéseket vonultat fel.", "Hosszú ideig a spanyol nyelvű zenés színház központja volt Caracasban.", "A Plaza Páez téren lévő elhelyezkedése a városi együttes kiemelkedő részévé teszi."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-teatro-nacional-caracas-landmark-v2.webp"},
+  {
+    id: "venezuela-teatro-baralt-maracaibo-landmark-v2",
+    type: "landmark",
+    parent: "VE-V",
+    coords: [-71.6094, 10.6417],
+    name: {
+      de: "Baralt-Theater",
+      hu: "Baralt Színház",
+      ro: "Teatrul Baralt",
+      en: "Baralt Theater"
+    },
+    description: {
+      de: "Ein historisches Theater in Maracaibo, das als Wiege des venezolanischen Kinos gilt.",
+      hu: "Történelmi színház Maracaibóban, amelyet a venezuelai filmművészet bölcsőjének tartanak.",
+      ro: "Un teatru istoric din Maracaibo, considerat leagănul cinematografiei venezuelene.",
+      en: "A historic theater in Maracaibo, considered the cradle of Venezuelan cinema."
+    },
+    descriptionAdvanced: {
+      de: "Das Baralt-Theater in Maracaibo ist mehr als nur ein Ort für Aufführungen; es ist ein geschichtsträchtiger Raum, in dem das venezolanische Kino seine ersten Schritte machte. 1897 fanden hier die ersten Filmvorführungen des Landes statt. Das Gebäude selbst besticht durch eine eklektische Mischung aus neoklassizistischen und Art-Déco-Elementen. Als kulturelles Herz von Maracaibo bewahrt es das Erbe der Region Zulia und ist ein bedeutendes Denkmal der nationalen Kulturgeschichte. Medien K7 — Filmgeschichte.",
+      hu: "A maracaibói Baralt Színház több mint előadások helyszíne; történelmi tér, ahol a venezuelai filmművészet megtette első lépéseit. 1897-ben itt tartották az ország első filmvetítéseit. Az épület a neoklasszicista és az art deco elemek eklektikus keverékével hódít. Maracaibo kulturális szíveként őrzi Zulia régió örökségét, és a nemzeti kultúrtörténet jelentős műemléke. Média K7 — filmtörténet.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Ort der ersten Filmvorführung in Venezuela 1897.", "Wahrzeichen von Maracaibo."],
+      hu: ["Az első venezuelai filmvetítés helyszíne 1897-ben.", "Maracaibo egyik jelképe."],
+      ro: ["Locul primei proiecții de film în Venezuela în 1897.", "Simbol al orașului Maracaibo."],
+      en: ["Site of the first film screening in Venezuela in 1897.", "Landmark of Maracaibo."]
+    },
+    factsAdvanced: {
+      de: ["Das Theater wurde nach dem Dichter und Historiker Rafael María Baralt benannt.", "Die Deckenmalereien wurden von dem berühmten Künstler Antonio Angulo geschaffen.", "Nach einer langen Restaurierungsphase wurde es zu einem modernen Kulturzentrum ausgebaut.", "Das Theater ist ein Symbol für den kulturellen Stolz der Stadt Maracaibo."],
+      hu: ["A színházat Rafael María Baralt költőről és történészről nevezték el.", "A mennyezeti festményeket a híres művész, Antonio Angulo készítette.", "Hosszú felújítási szakasz után modern kulturális központtá alakították át.", "A színház Maracaibo város kulturális büszkeségének szimbóluma."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-teatro-baralt-maracaibo-landmark-v2.webp"},
+  {
+    id: "venezuela-casa-de-la-capitulacion-landmark-v2",
+    type: "landmark",
+    parent: "VE-V",
+    coords: [-71.6067, 10.6425],
+    name: {
+      de: "Haus der Kapitulation",
+      hu: "A Kapituláció Háza",
+      ro: "Casa Capitulării",
+      en: "House of the Capitulation"
+    },
+    description: {
+      de: "Dieses historische Haus in Maracaibo ist der Ort, an dem die spanische Kapitulation nach der Schlacht am Maracaibo-See unterzeichnet wurde.",
+      hu: "Ez a maracaibói történelmi ház az a hely, ahol a Maracaibo-tavi csata után aláírták a spanyol kapitulációt.",
+      ro: "Această casă istorică din Maracaibo este locul unde a fost semnată capitularea spaniolă după Bătălia de pe Lacul Maracaibo.",
+      en: "This historic house in Maracaibo is where the Spanish capitulation was signed after the Battle of Lake Maracaibo."
+    },
+    descriptionAdvanced: {
+      de: "Das Haus der Kapitulation (Casa de la Capitulación) ist ein monumentaler Ort der venezolanischen Unabhängigkeit. Hier wurde 1823 das Dokument unterzeichnet, das die spanische Herrschaft in Venezuela endgültig beendete. Das koloniale Gebäude bewahrt die Atmosphäre jener entscheidenden Tage und dient heute als Museum und Sitz der Geschichtsakademie von Zulia. Es ist ein zentrales Symbol für den Sieg des Freiheitswillens über die Kolonialmacht. Geschichte K8 — Unabhängigkeit.",
+      hu: "A Kapituláció Háza (Casa de la Capitulación) a venezuelai függetlenség monumentális helyszíne. Itt írták alá 1823-ban azt a dokumentumot, amely végleg véget vetett a spanyol uralomnak Venezuelában. A gyarmati épület őrzi a sorsfordító napok hangulatát, ma múzeumként és Zulia történelmi akadémiájának székhelyeként szolgál. A szabadságvágy gyarmati hatalom feletti győzelmének központi szimbóluma. Történelem K8 — függetlenség.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Historischer Ort der Unabhängigkeit.", "Einziges erhaltenes Kolonialhaus dieser Art in Maracaibo."],
+      hu: ["A függetlenség történelmi helyszíne.", "Az egyetlen ilyen jellegű fennmaradt gyarmati ház Maracaibóban."],
+      ro: ["Sit istoric al independenței.", "Singura casă colonială de acest tip conservată în Maracaibo."],
+      en: ["Historic site of independence.", "The only preserved colonial house of its kind in Maracaibo."]
+    },
+    factsAdvanced: {
+      de: ["In diesem Haus wurde am 3. August 1823 die Kapitulation der spanischen Truppen besiegelt.", "Die Architektur zeigt die typischen Merkmale eines herrschaftlichen Hauses der späten Kolonialzeit.", "Es beherbergt heute wertvolle Dokumente und Relikte aus der Zeit der Befreiungskriege.", "Das Gebäude gilt als eines der wichtigsten Denkmäler im Bundesstaat Zulia."],
+      hu: ["Ebben a házban pecsételték meg a spanyol csapatok kapitulációját 1823. augusztus 3-án.", "Az építészet a késő gyarmati korú nemesi házak tipikus jegyeit mutatja.", "Ma értékes dokumentumokat és ereklyéket őriz a felszabadító háborúk idejéből.", "Az épület Zulia állam egyik legfontosabb műemlékének számít."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-casa-de-la-capitulacion-landmark-v2.webp"},
+  {
+    id: "venezuela-palacio-de-las-academias-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.9153, 10.5039],
+    name: {
+      de: "Akademienpalast",
+      hu: "Akadémiák Palotája",
+      ro: "Palatul Academiilor",
+      en: "Palace of the Academies"
+    },
+    description: {
+      de: "Ein prächtiges neogotisches Gebäude, das die nationalen Akademien Venezuelas beherbergt.",
+      hu: "Pompás neogótikus épület, amely Venezuela nemzeti akadémiáinak ad otthont.",
+      ro: "O clădire neogotică magnifică ce găzduiește academiile naționale ale Venezuelei.",
+      en: "A magnificent neo-Gothic building that houses the national academies of Venezuela."
+    },
+    descriptionAdvanced: {
+      de: "Der Akademienpalast (Palacio de las Academias) in Caracas ist ein beeindruckendes Beispiel neogotischer Architektur im Land. Ursprünglich als Kloster erbaut, wurde es später zum Sitz der Zentraluniversität und beherbergt heute die wichtigsten wissenschaftlichen Akademien Venezuelas. Seine markante Fassade und die historischen Innenhöfe strahlen eine Atmosphäre von Gelehrsamkeit und Tradition aus. Der Palast ist ein Zentrum des geistigen Lebens und ein bedeutendes Denkmal im Herzen der Hauptstadt. Architektur K8 — Wissenschaftsbauten.",
+      hu: "A caracasi Akadémiák Palotája (Palacio de las Academias) a neogótikus építészet lenyűgöző példája az országban. Eredetileg kolostornak épült, később a Központi Egyetem székhelye lett, ma pedig Venezuela legfontosabb tudományos akadémiáinak ad otthont. Jellegzetes homlokzata és történelmi belső udvarai a tudomány és a hagyomány légkörét árasztják. A palota a szellemi élet központja és a főváros szívének jelentős műemléke. Építészet K8 — tudományos épületek.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Neogotische Fassade.", "Beherbergt die nationalen Akademien."],
+      hu: ["Neogótikus homlokzat.", "A nemzeti akadémiáknak ad otthont."],
+      ro: ["Fațadă neogotică.", "Găzduiește academiile naționale."],
+      en: ["Neo-Gothic facade.", "Houses the national academies."]
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude hat im Laufe der Jahrhunderte verschiedene Funktionen erfüllt, vom Kloster bis zur Universität.", "Die neogotische Umgestaltung fand im späten 19. Jahrhundert statt.", "Es beherbergt die Akademien für Geschichte, Sprache, Medizin und Naturwissenschaften.", "Der Palast ist ein wichtiger Bestandteil des historischen und architektonischen Erbes von Caracas."],
+      hu: ["Az épület az évszázadok során különböző funkciókat töltött be, a kolostortól az egyetemig.", "A neogótikus átalakítás a 19. század végén történt.", "Itt található a történelmi, nyelvi, orvostudományi és természettudományi akadémia.", "A palota Caracas történelmi és építészeti örökségének fontos része."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-palacio-de-las-academias-landmark-v2.webp"},
+  {
+    id: "venezuela-palacio-municipal-caracas-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.9142, 10.5056],
+    name: {
+      de: "Rathaus von Caracas",
+      hu: "Városháza",
+      ro: "Palatul Municipal din Caracas",
+      en: "Municipal Palace of Caracas"
+    },
+    description: {
+      de: "Ein historisches Regierungsgebäude am Plaza Bolívar, das die Stadtverwaltung von Caracas beherbergt.",
+      hu: "Történelmi kormányzati épület a Plaza Bolívar téren, amely Caracas városvezetésének ad otthont.",
+      ro: "O clădire guvernamentală istorică în Plaza Bolívar, care găzduiește administrația orașului Caracas.",
+      en: "A historic government building in Plaza Bolívar, housing the city administration of Caracas."
+    },
+    descriptionAdvanced: {
+      de: "Das Rathaus (Palacio Municipal) von Caracas ist ein zentrales Element im politischen und sozialen Gefüge der Stadt. An der geschichtsträchtigen Plaza Bolívar gelegen, hat es die Entwicklung der venezolanischen Hauptstadt über Generationen hinweg begleitet. Die neoklassizistische Architektur des Gebäudes verleiht dem Platz eine würdevolle Ausstrahlung. Im Inneren beherbergt es das Stadtmuseum, das wertvolle Artefakte zur Geschichte von Caracas ausstellt. Politik K8 — Stadtgeschichte.",
+      hu: "Caracas városháza (Palacio Municipal) a város politikai és társadalmi szerkezetének központi eleme. A történelmi Plaza Bolívar téren állva generációkon át kísérte végig a venezuelai főváros fejlődését. Az épület neoklasszicista építészete méltóságteljes megjelenést kölcsönöz a térnek. Belül a városi múzeumnak ad otthont, amely Caracas történelmének értékes tárgyi emlékeit mutatja be. Politika K8 — várostörténet.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Beherbergt das Stadtmuseum von Caracas.", "Liegt an der Nordseite des Plaza Bolívar."],
+      hu: ["Itt található Caracas városi múzeuma.", "A Plaza Bolívar északi oldalán fekszik."],
+      ro: ["Găzduiește Muzeul Orașului Caracas.", "Situat pe latura de nord a pieței Plaza Bolívar."],
+      en: ["Houses the City Museum of Caracas.", "Located on the north side of Plaza Bolívar."]
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde im späten 19. Jahrhundert umfassend renoviert, um seinen heutigen Charakter zu erhalten.", "In der 'Kapelle von Santa Rosa de Lima' innerhalb des Palastes wurde die Unabhängigkeitserklärung unterzeichnet.", "Das Stadtmuseum zeigt faszinierende Miniaturen von Caracas aus verschiedenen Epochen.", "Der Palast ist Sitz des Gemeinderates und damit das administrative Herz der Gemeinde Libertador."],
+      hu: ["Az épületet a 19. század végén átfogóan felújították mai karakterének elnyerése érdekében.", "A palotán belüli 'Santa Rosa de Lima kápolnában' írták alá a függetlenségi nyilatkozatot.", "A városi múzeumban Caracas különböző korszakaiból származó lenyűgöző makettek láthatók.", "A palota a városi tanács székhelye, így Libertador község adminisztratív szíve."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-palacio-municipal-caracas-landmark-v2.webp"},
+  {
+    id: "venezuela-correo-de-carmelitas-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.9153, 10.5064],
+    name: {
+      de: "Postpalast Carmelitas",
+      hu: "Carmelitas Postapalota",
+      ro: "Poșta Carmelitas",
+      en: "Carmelitas Post Office"
+    },
+    description: {
+      de: "Ein markantes Gebäude in der Innenstadt von Caracas, das für seine elegante neoklassizistische Fassade bekannt ist.",
+      hu: "Jellegzetes épület Caracas belvárosában, amely elegáns neoklasszicista homlokzatáról ismert.",
+      ro: "O clădire distinctivă în centrul orașului Caracas, cunoscută pentru fațada sa neoclasică elegantă.",
+      en: "A striking building in downtown Caracas, known for its elegant neoclassical facade."
+    },
+    descriptionAdvanced: {
+      de: "Der Postpalast Carmelitas ist ein architektonisches Wahrzeichen im Zentrum von Caracas. Ursprünglich ein herrschaftliches Wohnhaus, wurde es zu Beginn des 20. Jahrhunderts zu einem prächtigen Postgebäude umgebaut. Seine elegante neoklassizistische Fassade und die feinen architektonischen Details sind ein Zeugnis für den bürgerlichen Wohlstand jener Zeit. Es steht für die Epoche, in der Caracas modernisiert wurde und öffentliche Dienste in monumentalen Bauten untergebracht wurden. Architektur K7 — Stadtbild.",
+      hu: "A Carmelitas Postapalota Caracas központjának építészeti mérföldköve. Eredetileg nemesi lakóház volt, a 20. század elején alakították át pompás postaépületté. Elegáns neoklasszicista homlokzata és finom építészeti részletei az akkori polgári jólét tanúbizonyságai. Azt a korszakot képviseli, amikor Caracast modernizálták, és a közszolgáltatásokat monumentális épületekben helyezték el. Építészet K7 — városkép.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Erbaut im frühen 20. Jahrhundert.", "Beispiel für neoklassizistische Architektur."],
+      hu: ["A 20. század elején épült.", "A neoklasszicista építészet példája."],
+      ro: ["Construită la începutul secolului al XX-lea.", "Exemplu de arhitectură neoclasică."],
+      en: ["Built in the early 20th century.", "Example of neoclassical architecture."]
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude befindet sich an der historischen Straßenecke 'Carmelitas'.", "Die Fassade wurde im Stil der französischen Neoklassik gestaltet.", "Lange Zeit war es das wichtigste Zentrum für den Briefverkehr in der Hauptstadt.", "Heute ist es ein geschütztes historisches Monument und prägt die urbane Identität des Zentrums."],
+      hu: ["Az épület a történelmi 'Carmelitas' utcasarkon található.", "Homlokzatát a francia neoklasszicizmus stílusában alakították ki.", "Hosszú ideig a főváros legfontosabb postai csomópontja volt.", "Ma védett történelmi műemlék, és meghatározza a központ városi identitását."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-correo-de-carmelitas-landmark-v2.webp"},
+  {
+    id: "venezuela-arco-de-la-federacion-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.9208, 10.5058],
+    name: {
+      de: "Bogen der Föderation",
+      hu: "Föderációs Diadalív",
+      ro: "Arcul Federației",
+      en: "Arch of the Federation"
+    },
+    description: {
+      de: "Ein monumentaler Bogen im El Calvario Park, der an den venezolanischen Bundeskrieg erinnert.",
+      hu: "Monumentális diadalív az El Calvario parkban, amely a venezuelai föderális háborúra emlékeztet.",
+      ro: "Un arc monumental în parcul El Calvario, care comemorează Războiul Federal venezuelean.",
+      en: "A monumental arch in El Calvario Park, commemorating the Venezuelan Federal War."
+    },
+    descriptionAdvanced: {
+      de: "Der Bogen der Föderation (Arco de la Federación) ist ein imposantes Denkmal im historischen El Calvario Park in Caracas. Er wurde errichtet, um den Opfern und dem Ausgang des föderalen Krieges im 19. Jahrhundert zu gedenken. Mit seiner neoklassizistischen Gestaltung dominiert er den Eingang zum Park und ist ein Symbol für den Weg Venezuelas zur föderalen Republik. Der Bogen bietet einen beeindruckenden Rahmen für Spaziergänge in einer der ältesten Grünanlagen der Stadt. Geschichte K8 — Monumente.",
+      hu: "A Föderációs Diadalív (Arco de la Federación) egy impozáns emlékmű a caracasi történelmi El Calvario parkban. A 19. századi föderális háború áldozatainak és kimenetelének emlékére emelték. Neoklasszicista kialakításával uralja a park bejáratát, és Venezuela föderatív köztársasággá válásának szimbóluma. A diadalív lenyűgöző keretet ad a sétákhoz a város egyik legrégebbi zöldfelületén. Történelem K8 — monumentumok.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Im El Calvario Park gelegen.", "Erinnert an den Bundeskrieg (1859-1863)."],
+      hu: ["Az El Calvario parkban található.", "A föderális háborúra (1859-1863) emlékeztet."],
+      ro: ["Situat în parcul El Calvario.", "Comemorează Războiul Federal (1859-1863)."],
+      en: ["Located in El Calvario Park.", "Commemorates the Federal War (1859-1863)."]
+    },
+    factsAdvanced: {
+      de: ["Der Bogen wurde 1895 unter Präsident Joaquín Crespo eingeweiht.", "Die Gestaltung ist vom Arc de Triomphe in Paris inspiriert.", "Er ist ein zentrales Element des El Calvario Parks, der ersten großen Parkanlage in Caracas.", "Die Inschriften auf dem Bogen feiern die föderalen Prinzipien der Republik."],
+      hu: ["A diadalívet 1895-ben avatták fel Joaquín Crespo elnök idején.", "Kialakítását a párizsi Diadalív (Arc de Triomphe) ihlette.", "Az El Calvario park, Caracas első nagy parkjának központi eleme.", "A diadalíven található feliratok a köztársaság föderális elveit ünneplik."],
       ro: [],
       en: [],
     }
   },
   {
-    id: "fortin-de-la-galera-landmarks-v2",
+    id: "venezuela-torres-el-silencio-landmark-v2",
     type: "landmark",
-    parent: "VE-O",
-    coords: [-63.9575, 11.0855],
+    parent: "VE-A",
+    coords: [-66.9161, 10.5031],
     name: {
-      de: "Fortín de La Galera",
-      hu: "La Galera erőd",
-      ro: "Fortul La Galera",
-      en: "Fort of La Galera"
+      de: "Türme El Silencio",
+      hu: "El Silencio Tornyok",
+      ro: "Turnurile El Silencio",
+      en: "El Silencio Towers"
     },
     description: {
-      de: "Ein kleines Küstenfort in Juan Griego auf der Insel Margarita, das atemberaubende Sonnenuntergänge bietet.",
-      hu: "Egy kis partmenti erőd a Margarita-szigeten, Juan Griegóban, ahonnan lélegzetelállító naplementéket lehet megcsodálni.",
-      ro: "Un mic fort de coastă în Juan Griego, pe Insula Margarita, care oferă apusuri uluitoare.",
-      en: "A small coastal fort in Juan Griego on Margarita Island, offering breathtaking sunsets."
+      de: "Zwei ikonische Zwillingstürme im Zentrum von Caracas, die die Modernisierung der Stadt im 20. Jahrhundert symbolisieren.",
+      hu: "Két ikonikus ikertorony Caracas központjában, amelyek a város 20. századi modernizációját szimbolizálják.",
+      ro: "Două turnuri gemene iconice în centrul orașului Caracas, simbolizând modernizarea orașului în secolul al XX-lea.",
+      en: "Two iconic twin towers in the center of Caracas, symbolizing the city's 20th-century modernization."
     },
     descriptionAdvanced: {
-      de: "Das Fortín de La Galera überblickt die malerische Bucht von Juan Griego. Es war ein wichtiger Ort während der Kämpfe um die Unabhängigkeit auf der Isla Margarita. Heute ist es vor allem für seinen spektakulären Blick auf den Sonnenuntergang bekannt, wenn die Bucht in ein goldenes Licht getaucht wird. Das Fort vereint militärische Historie mit einer idyllischen Küstenstimmung und ist einer der beliebtesten Aussichtspunkte der Insel. Geschichte K6 — Küstenaussicht.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      de: "Die Türme El Silencio (Torres del Silencio) sind ein Meilenstein der venezolanischen Stadtplanung und Architektur. Sie waren Teil eines ehrgeizigen Stadterneuerungsprojekts in den 1950er Jahren, das Caracas in eine moderne Metropole verwandeln sollte. Als eines der höchsten Gebäude jener Zeit prägen sie bis heute die Skyline des Stadtzentrums. Ihre symmetrische Form und die Verbindung zum Avenida Bolívar machen sie zu einem unverzichtbaren Teil der urbanen Identität der Hauptstadt. Architektur K8 — Urbanismus.",
+      hu: "Az El Silencio tornyok (Torres del Silencio) a venezuelai várostervezés és építészet mérföldkövei. Az 1950-es évek nagyszabású városmegújítási projektjének részei voltak, amely Caracast modern metropolisszá kívánta alakítani. Koruk egyik legmagasabb épületeként a mai napig meghatározzák a városközpont sziluettjét. Szimmetrikus formájuk és az Avenida Bolívar úttal való kapcsolatuk a főváros városi identitásának nélkülözhetetlen részévé teszi őket. Építészet K8 — urbanizmus.",
+      ro: "",
+      en: "",
     },
     facts: {
-      de: ["Im Jahr 1811 errichtet.", "War Schauplatz einer wichtigen Schlacht."],
-      hu: ["1811-ben építették.", "Egy fontos csata helyszíne volt."],
-      ro: ["Construit în anul 1811.", "A fost scena unei bătălii importante."],
-      en: ["Built in 1811.", "Was the site of an important battle."]
+      de: ["In den 1950er Jahren erbaut.", "Symbol für den modernen Fortschritt in Caracas."],
+      hu: ["Az 1950-es években épültek.", "A caracasi modern haladás szimbólumai."],
+      ro: ["Construite în anii 1950.", "Simbol al progresului modern în Caracas."],
+      en: ["Built in the 1950s.", "Symbol of modern progress in Caracas."]
     },
     factsAdvanced: {
-      de: ["La Galera wurde zur Verteidigung gegen spanische Kräfte gebaut.", "Die historische Schlacht von Juan Griego fand direkt vor den Toren des Forts statt.", "Es ist heute ein Ort, an dem sich Geschichte und die Schönheit der karibischen Natur verbinden.", "Das Fort bietet einen der besten Ausblicke auf die gesamte Bucht von Juan Griego."],
-      hu: [],
+      de: ["Die Türme wurden vom Architekten Cipriano Domínguez entworfen.", "Sie waren über Jahrzehnte hinweg die höchsten Bauwerke in Venezuela.", "Das Projekt markierte das Ende der kolonialen Bausubstanz im heutigen El Silencio Viertel.", "Die Zwillingstürme sind ein herausragendes Beispiel für den internationalen Stil in Südamerika."],
+      hu: ["A tornyokat Cipriano Domínguez építész tervezte.", "Évtizedeken át ezek voltak Venezuela legmagasabb építményei.", "A projekt a mai El Silencio negyedben található gyarmati épületállomány végét jelölte.", "Az ikertornyok a dél-amerikai nemzetközi stílus kiemelkedő példái."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-torres-el-silencio-landmark-v2.webp"},
+  {
+    id: "venezuela-parque-central-complex-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.8997, 10.4975],
+    name: {
+      de: "Parque Central Komplex",
+      hu: "Parque Central Komplexum",
+      ro: "Complexul Parque Central",
+      en: "Parque Central Complex"
+    },
+    description: {
+      de: "Ein massiver Wohn- und Geschäftskomplex mit den zweithöchsten Wolkenkratzern Südamerikas.",
+      hu: "Hatalmas lakó- és üzleti komplexum Dél-Amerika második legmagasabb felhőkarcolóival.",
+      ro: "Un complex rezidențial și comercial masiv, cu cei mai înalți zgârie-nori din America de Sud.",
+      en: "A massive residential and commercial complex with the second tallest skyscrapers in South America."
+    },
+    descriptionAdvanced: {
+      de: "Der Parque Central Komplex in Caracas ist ein monumentales Beispiel für den Brutalismus und den vertikalen Urbanismus. Die beiden Haupttürme waren bei ihrer Fertigstellung die höchsten Wolkenkratzer Lateinamerikas und bleiben ein imposantes Zeugnis venezolanischer Ingenieurskunst. Der Komplex fungiert als Stadt in der Stadt, in der Wohnen, Arbeiten und Kultur auf engstem Raum miteinander verwoben sind. Trotz der Herausforderungen der Zeit bleibt Parque Central ein architektonisches Schwergewicht, das die Identität von Caracas prägt. Architektur K8 — Vertikale Stadt.",
+      hu: "A caracasi Parque Central komplexum a brutalizmus és a vertikális urbanizmus monumentális példája. A két főtorony átadásakor Latin-Amerika legmagasabb felhőkarcolója volt, és ma is a venezuelai mérnöki tudomány lenyűgöző tanúbizonysága. A komplexum város a városban-ként működik, ahol a lakóhely, a munkahely és a kultúra szorosan összefonódik. Az idő kihívásai ellenére a Parque Central építészeti súlypont marad, amely meghatározza Caracas identitását. Építészet K8 — vertikális város.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Umfasst die ikonischen Zwillingstürme.", "Wichtiges kulturelles und kommerzielles Zentrum."],
+      hu: ["Magában foglalja az ikonikus ikertornyokat.", "Fontos kulturális és kereskedelmi központ."],
+      ro: ["Include iconicele turnuri gemene.", "Important centru cultural și comercial."],
+      en: ["Includes the iconic twin towers.", "Important cultural and commercial center."]
+    },
+    factsAdvanced: {
+      de: ["Der Komplex beherbergt bedeutende Museen wie das Museum für zeitgenössische Kunst.", "Die Türme erreichen eine Höhe von über 220 Metern.", "Parque Central war ein Pionierprojekt für multifunktionale Megastrukturen in Südamerika.", "Die Aussichtsplattformen bieten einen spektakulären Rundblick über das gesamte Tal von Caracas."],
+      hu: ["A komplexum olyan jelentős múzeumoknak ad otthont, mint a Kortárs Művészeti Múzeum.", "A tornyok magassága meghaladja a 220 métert.", "A Parque Central úttörő projekt volt a többfunkciós megastruktúrák terén Dél-Amerikában.", "A kilátóteraszok látványos panorámát nyújtanak Caracas egész völgyére."],
       ro: [],
       en: [],
     }
   },
   {
-    id: "puente-de-angostura-landmarks-v2",
+    id: "venezuela-centro-financiero-confinanzas-landmark-v2",
     type: "landmark",
-    parent: "VE-E",
-    coords: [-63.5936, 8.1469],
+    parent: "VE-A",
+    coords: [-66.8986, 10.5053],
     name: {
-      de: "Puente de Angostura",
-      hu: "Angostura híd",
+      de: "Torre de David",
+      hu: "Confinanzas Pénzügyi Központ",
+      ro: "Turnul lui David",
+      en: "Tower of David (Torre de David)"
+    },
+    description: {
+      de: "Ein unvollendeter Wolkenkratzer in Caracas, der weltweite Bekanntheit als Symbol für städtische Transformation erlangte.",
+      hu: "Befejezetlen felhőkarcoló Caracasban, amely a városi átalakulás szimbólumaként vált világszerte ismertté.",
+      ro: "Un zgârie-nori neterminat din Caracas, care a câștigat faimă mondială ca simbol al transformării urbane.",
+      en: "An unfinished skyscraper in Caracas that gained worldwide fame as a symbol of urban transformation."
+    },
+    descriptionAdvanced: {
+      de: "Der Torre de David (offiziell Centro Financiero Confinanzas) ist eines der kontroversesten Bauwerke der Welt. Ursprünglich als glänzendes Finanzzentrum geplant, blieb der Bau nach einer Wirtschaftskrise unvollendet und wurde später zum Schauplatz einer der größten Hausbesetzungen der Geschichte. Dieses Gebäude erzählt eine Geschichte von Ambition, Scheitern und informeller städtischer Anpassung. Es hat internationale Aufmerksamkeit von Architekten und Soziologen auf sich gezogen, die die transformative Kraft des urbanen Raums untersuchen. Architektur K8 — Transformation.",
+      hu: "A Torre de David (hivatalosan Centro Financiero Confinanzas) a világ egyik legvitatottabb építménye. Eredetileg csillogó pénzügyi központnak tervezték, de egy gazdasági válság után befejezetlen maradt, majd később a történelem egyik legnagyobb házfoglalásának helyszínévé vált. Ez az épület az ambíció, a kudarc és az informális városi alkalmazkodás történetét meséli el. Nemzetközi figyelmet kapott az építészek és szociológusok körében, akik a városi tér átalakító erejét vizsgálják. Építészet K8 — átalakulás.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Drittshöchstes Gebäude Venezuelas.", "Weltweit bekannt durch Dokumentationen."],
+      hu: ["Venezuela harmadik legmagasabb épülete.", "Dokumentumfilmek révén világszerte ismert."],
+      ro: ["A treia cea mai înaltă clădire din Venezuela.", "Cunoscută în întreaga lume prin documentare."],
+      en: ["Third tallest building in Venezuela.", "Globally known through documentaries."]
+    },
+    factsAdvanced: {
+      de: ["Der Bau wurde 1994 aufgrund der venezolanischen Bankenkrise eingestellt.", "Über Jahre hinweg lebten Tausende von Menschen in der unfertigen Struktur.", "Das Gebäude wurde zu einem globalen Symbol für die sozioökonomischen Herausforderungen der Stadt Caracas.", "Trotz seines Zustands ist der Turm ein markanter Punkt in der Skyline der Hauptstadt."],
+      hu: ["Az építkezést 1994-ben állították le a venezuelai bankválság miatt.", "Éveken át emberek ezrei éltek a befejezetlen szerkezetben.", "Az épület Caracas társadalmi-gazdasági kihívásainak globális szimbólumává vált.", "Állapota ellenére a torony a főváros sziluettjének jellegzetes pontja."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-centro-financiero-confinanzas-landmark-v2.webp"},
+  {
+    id: "venezuela-teleferico-mukumbari-landmark-v2",
+    type: "landmark",
+    parent: "VE-L",
+    coords: [-71.1444, 8.5908],
+    name: {
+      de: "Seilbahn Mukumbarí",
+      hu: "Mukumbarí Felvonó",
+      ro: "Telecabina Mukumbarí",
+      en: "Mukumbarí Cable Car"
+    },
+    description: {
+      de: "Die höchste und längste Seilbahn der Welt, die von Mérida bis auf den Gipfel des Pico Espejo führt.",
+      hu: "A világ legmagasabb és leghosszabb felhőfelvonója, amely Méridából a Pico Espejo csúcsára vezet.",
+      ro: "Cea mai înaltă și mai lungă telecabină din lume, care duce de la Mérida până în vârful Pico Espejo.",
+      en: "The highest and longest cable car in the world, leading from Mérida to the summit of Pico Espejo."
+    },
+    descriptionAdvanced: {
+      de: "Die Seilbahn Mukumbarí ist eine ingenieurtechnische Höchstleistung und das touristische Aushängeschild der venezolanischen Anden. Über fünf Sektionen führt sie Besucher von Mérida in subtropischen Höhen bis in die eisigen Regionen des Pico Espejo auf über 4.700 Metern. Während der Fahrt erleben Reisende einen dramatischen Wandel der Vegetation und atemberaubende Ausblicke auf die Sierra Nevada de Mérida. Sie ist nicht nur ein Transportmittel, sondern ein Fenster zu den majestätischen Hochgebirgslandschaften Venezuelas. Tourismus K6 — Hochgebirge.",
+      hu: "A Mukumbarí felvonó egy mérnöki csúcsteljesítmény és a venezuelai Andok turisztikai védjegye. Öt szakaszon keresztül vezeti a látogatókat Méridából, szubtrópusi magasságokból a Pico Espejo jeges régióiba, több mint 4700 méteres magasságba. Az út során az utasok a vegetáció drámai változását és a Sierra Nevada de Mérida lélegzetelállító látványát tapasztalhatják meg. Ez nem csupán közlekedési eszköz, hanem ablak Venezuela fenséges magashegyi tájaira. Turizmus K6 — magashegység.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Höchste Station auf 4.765 Metern.", "Verbindet Mérida mit dem Pico Espejo."],
+      hu: ["Legmagasabb állomása 4765 méteren van.", "Méridát köti össze a Pico Espejo-val."],
+      ro: ["Cea mai înaltă stație la 4.765 metri.", "Conectează Mérida de Pico Espejo."],
+      en: ["Highest station at 4,765 meters.", "Connects Mérida with Pico Espejo."]
+    },
+    factsAdvanced: {
+      de: ["Das System erstreckt sich über eine Gesamtlänge von ca. 12,5 Kilometern.", "Es war die erste Seilbahn weltweit, die solche extremen Höhenunterschiede überwand.", "Nach einer umfassenden Modernisierung wurde sie 2016 unter dem Namen Mukumbarí wiedereröffnet.", "Die Bergstation bietet oft einen Blick auf den Pico Bolívar, den höchsten Berg Venezuelas."],
+      hu: ["A rendszer teljes hossza körülbelül 12,5 kilométer.", "Ez volt az első felvonó a világon, amely ilyen extrém szintkülönbségeket győzött le.", "Átfogó modernizáció után 2016-ban nyitották meg újra Mukumbarí néven.", "A hegyi állomásról gyakran látni a Pico Bolívart, Venezuela legmagasabb hegyét."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-teleferico-mukumbari-landmark-v2.webp"},
+  {
+    id: "venezuela-teleferico-warairarepano-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.8856, 10.5253],
+    name: {
+      de: "Seilbahn Warairarepano",
+      hu: "Warairarepano Felvonó",
+      ro: "Telecabina Warairarepano",
+      en: "Warairarepano Cable Car"
+    },
+    description: {
+      de: "Eine Seilbahn in Caracas, die Besucher auf den Gipfel des El Ávila Berges bringt.",
+      hu: "Caracasi felvonó, amely az El Ávila hegy csúcsára viszi a látogatókat.",
+      ro: "O telecabină din Caracas care duce vizitatorii în vârful muntelui El Ávila.",
+      en: "A cable car in Caracas that takes visitors to the summit of El Ávila mountain."
+    },
+    descriptionAdvanced: {
+      de: "Die Seilbahn Warairarepano ist der beliebteste Fluchtweg der Hauptstädter aus dem Trubel von Caracas. Sie verbindet die Metropole mit dem Gipfel des El Ávila Nationalparks und bietet in wenigen Minuten eine völlig neue Welt aus kühler Bergluft und unberührter Natur. Von der Bergstation aus hat man einen spektakulären Panoramablick über das gesamte Tal von Caracas und an klaren Tagen sogar bis zum Karibischen Meer. Die Seilbahn ist ein unverzichtbares Erlebnis für jeden Besucher der Hauptstadt. Tourismus K5 — Stadt und Natur.",
+      hu: "A Warairarepano felvonó a fővárosiak legkedveltebb menekülési útvonala Caracas nyüzsgése elől. Összeköti a metropolist az El Ávila Nemzeti Park csúcsával, és percek alatt egy teljesen új világba, hűvös hegyi levegőbe és érintetlen természetbe repít. A hegyi állomásról látványos panoráma nyílik Caracas egész völgyére, tiszta időben pedig akár a Karib-tengerig is ellátni. A felvonó minden fővárosi látogató számára elengedhetetlen élmény. Turizmus K5 — város és természet.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Führt auf den El Ávila Nationalpark.", "Bietet einen Blick auf das Karibische Meer."],
+      hu: ["Az El Ávila Nemzeti Parkba vezet.", "Kilátást nyújt a Karib-tengerre."],
+      ro: ["Duce la Parcul Național El Ávila.", "Oferă o vedere spre Marea Caraibelor."],
+      en: ["Leads to the El Ávila National Park.", "Offers a view of the Caribbean Sea."]
+    },
+    factsAdvanced: {
+      de: ["Die Seilbahn wurde in den 1950er Jahren eröffnet und ist seither ein Wahrzeichen der Stadt.", "An der Bergstation befindet sich das berühmte Humboldt-Hotel.", "Die Fahrt bietet eine der schnellsten Möglichkeiten, die klimatischen Unterschiede zwischen Tal und Berg zu erleben.", "Das System ist ein wichtiger Teil der touristischen Infrastruktur von Caracas."],
+      hu: ["A felvonót az 1950-es években adták át, és azóta a város jelképe.", "A hegyi állomásnál található a híres Humboldt Hotel.", "Az út az egyik leggyorsabb módja a völgy és a hegy közötti klímakülönbségek megtapasztalásának.", "A rendszer Caracas turisztikai infrastruktúrájának fontos része."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-teleferico-warairarepano-landmark-v2.webp"},
+  {
+    id: "venezuela-puente-rafael-urdaneta-landmark-v2",
+    type: "landmark",
+    parent: "VE-V",
+    coords: [-71.5583, 10.5817],
+    name: {
+      de: "General-Rafael-Urdaneta-Brücke",
+      hu: "Rafael Urdaneta Híd",
+      ro: "Podul General Rafael Urdaneta",
+      en: "General Rafael Urdaneta Bridge"
+    },
+    description: {
+      de: "Eine ikonische Schrägseilbrücke, die den Maracaibo-See überquert und eines der längsten Bauwerke ihrer Art weltweit ist.",
+      hu: "Ikonikus ferdekábeles híd a Maracaibo-tó felett, amely a világ egyik leghosszabb ilyen jellegű építménye.",
+      ro: "Un pod hobanat iconic care traversează Lacul Maracaibo și este una dintre cele mai lungi structuri de acest tip din lume.",
+      en: "An iconic cable-stayed bridge crossing Lake Maracaibo and one of the longest structures of its kind worldwide."
+    },
+    descriptionAdvanced: {
+      de: "Die General-Rafael-Urdaneta-Brücke ist das stolze Wahrzeichen des Bundesstaates Zulia. Sie überspannt den Maracaibo-See an seiner schmalsten Stelle und verbindet die Stadt Maracaibo mit dem Rest des Landes. Das Bauwerk ist ein Paradebeispiel für moderne Ingenieurskunst aus Spannbeton und war bei seiner Eröffnung eine Weltsensation. Für die Bewohner von Zulia ist die Brücke weit mehr als nur ein Verkehrsweg; sie ist ein kulturelles Symbol, das in unzähligen Liedern und Gedichten besungen wird. Technik K8 — Brückenbau.",
+      hu: "A General Rafael Urdaneta híd Zulia állam büszke jelképe. A Maracaibo-tó legkeskenyebb pontján ível át, összekötve Maracaibo városát az ország többi részével. Az építmény a feszített betonból készült modern mérnöki tudomány mintapéldája, amely átadásakor világszenzációnak számított. Zulia lakói számára a híd jóval több egy közlekedési útvonalnál; kulturális szimbólum, amelyet számtalan dalban és versben megénekeltek. Technika K8 — hídépítés.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Überquert den Maracaibo-See.", "Eines der längsten Brückenbauwerke der Welt."],
+      hu: ["A Maracaibo-tó felett ível át.", "A világ egyik leghosszabb hídja."],
+      ro: ["Traversează Lacul Maracaibo.", "Una dintre cele mai lungi structuri de pod din lume."],
+      en: ["Crosses Lake Maracaibo.", "One of the longest bridge structures in the world."]
+    },
+    factsAdvanced: {
+      de: ["Die Brücke wurde 1962 eingeweiht und hat eine Gesamtlänge von ca. 8,7 Kilometern.", "Die Konstruktion verwendet gewaltige Betonpfeiler, um die Schifffahrtsrinne freizuhalten.", "Ein schwerer Tankerunfall im Jahr 1964 führte zu einer teilweisen Zerstörung und anschließenden Reparatur.", "Nachts wird die Brücke effektvoll beleuchtet und ist kilometerweit sichtbar."],
+      hu: ["A hidat 1962-ben avatták fel, teljes hossza körülbelül 8,7 kilométer.", "A szerkezet hatalmas betonpilléreket használ, hogy szabadon hagyja a hajózási útvonalat.", "Egy 1964-es súlyos tartályhajó-baleset részleges pusztuláshoz, majd újjáépítéshez vezetett.", "Éjszaka a híd látványos kivilágítást kap, amely kilométerekről látható."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-puente-rafael-urdaneta-landmark-v2.webp"},
+  {
+    id: "venezuela-puente-angostura-landmark-v2",
+    type: "landmark",
+    parent: "VE-F",
+    coords: [-63.5683, 8.1364],
+    name: {
+      de: "Angostura-Brücke",
+      hu: "Angostura Híd",
       ro: "Podul Angostura",
       en: "Angostura Bridge"
     },
     description: {
-      de: "Die erste Hängebrücke, die den imposanten Orinoco-Fluss in Venezuela überspannte.",
-      hu: "Az első függőhíd, amely a venezuelai Orinoco folyót ívelte át.",
-      ro: "Primul pod suspendat care a traversat impresionantul râu Orinoco din Venezuela.",
-      en: "The first suspension bridge to span the imposing Orinoco River in Venezuela."
+      de: "Die erste Hängebrücke über den Orinoco-Fluss, die Ciudad Bolívar mit dem Rest des Landes verbindet.",
+      hu: "Az Orinoco folyó feletti első függőhíd, amely Ciudad Bolívart köti össze az ország többi részével.",
+      ro: "Primul pod suspendat peste râul Orinoco, care leagă Ciudad Bolívar de restul țării.",
+      en: "The first suspension bridge over the Orinoco River, connecting Ciudad Bolívar with the rest of the country."
     },
     descriptionAdvanced: {
-      de: "Die Puente de Angostura ist eine architektonische Ikone, die den mächtigen Orinoco-Fluss bei Ciudad Bolívar überwindet. Als erste Hängebrücke, die diesen gigantischen Strom überbrückte, markierte sie einen Meilenstein der nationalen Infrastrukturentwicklung. Sie verbindet die Bundesstaaten Anzoátegui und Bolívar und ist eine Lebensader für den Handel und die Mobilität im östlichen Venezuela. Mit ihren majestätischen Stahltürmen überragt sie den Fluss und ist ein Symbol für die Überwindung geografischer Barrieren im Land. Ingenieurwesen K7 — Brückenbau.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      de: "Die Angostura-Brücke war bei ihrer Fertigstellung ein technologischer Meilenstein für Venezuela. Als erste dauerhafte Verbindung über den gewaltigen Orinoco-Fluss ermöglichte sie den einfachen Landverkehr zwischen dem Norden und dem ressourcenreichen Süden des Landes. Ihre elegante Hängekonstruktion prägt das Stadtbild von Ciudad Bolívar und symbolisiert die Überwindung geografischer Barrieren. Die Brücke bleibt ein entscheidendes Element der nationalen Infrastruktur und ein stolzes Denkmal moderner Entwicklung. Technik K7 — Infrastruktur.",
+      hu: "Az Angostura híd átadásakor technológiai mérföldkő volt Venezuela számára. A hatalmas Orinoco folyó feletti első állandó összeköttetésként lehetővé tette a könnyű közúti közlekedést az ország északi része és az erőforrásokban gazdag déli területek között. Elegáns függőszerkezete meghatározza Ciudad Bolívar városképét, és a földrajzi korlátok leküzdését szimbolizálja. A híd továbbra is a nemzeti infrastruktúra döntő eleme és a modern fejlődés büszke emlékműve. Technika K7 — infrastruktúra.",
+      ro: "",
+      en: "",
     },
     facts: {
-      de: ["Wurde 1967 eröffnet.", "Verbindet die Bundesstaaten Anzoátegui und Bolívar."],
-      hu: ["1967-ben nyitották meg.", "Anzoátegui és Bolívar államokat köti össze."],
-      ro: ["A fost inaugurat în 1967.", "Conectează statele Anzoátegui și Bolívar."],
-      en: ["Opened in 1967.", "Connects the states of Anzoátegui and Bolívar."]
+      de: ["Erste Brücke über den Orinoco-Fluss.", "Elegante Hängekonstruktion."],
+      hu: ["Az első híd az Orinoco folyón.", "Elegáns függőszerkezet."],
+      ro: ["Primul pod peste râul Orinoco.", "Construcție suspendată elegantă."],
+      en: ["First bridge over the Orinoco River.", "Elegant suspension construction."]
     },
     factsAdvanced: {
-      de: ["Die Brücke wurde nach dem historischen Namen von Ciudad Bolívar, 'Angostura', benannt.", "Sie war lange Zeit ein einzigartiges technisches Bauwerk in Südamerika.", "Die Länge der Hängebrücke ist für die Region bemerkenswert.", "Die Brücke ist ein zentraler Verkehrsweg für die Anbindung des Südens von Venezuela."],
-      hu: [],
+      de: ["Die Brücke wurde 1967 eingeweiht und hat eine Hauptspannweite von über 700 Metern.", "Ihr Bau war entscheidend für die wirtschaftliche Anbindung der Industrieregion Guayana.", "Die Architektur erinnert an berühmte Hängebrücken in den USA.", "Die Angostura-Brücke ist ein unverzichtbarer Teil der panamerikanischen Route in Venezuela."],
+      hu: ["A hidat 1967-ben avatták fel, főnyílása több mint 700 méteres.", "Építése döntő volt a Guayana ipari régió gazdasági beágyazódása szempontjából.", "Építészete az Amerikai Egyesült Államok híres függőhídjaira emlékeztet.", "Az Angostura híd a venezuelai pánamerikai útvonal elengedhetetlen része."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-puente-angostura-landmark-v2.webp"},
   {
-    id: "monumento-batalla-de-carabobo-landmarks-v2",
+    id: "venezuela-puente-orinokia-landmark-v2",
     type: "landmark",
-    parent: "VE-C",
-    coords: [-68.0333, 9.9500],
+    parent: "VE-F",
+    coords: [-62.8361, 8.2831],
     name: {
-      de: "Monumento a la Batalla de Carabobo",
-      hu: "Carabobói csata emlékműve",
-      ro: "Monumentul Bătăliei de la Carabobo",
-      en: "Monument to the Battle of Carabobo"
+      de: "Orinokia-Brücke",
+      hu: "Orinokia Híd",
+      ro: "Podul Orinokia",
+      en: "Orinokia Bridge"
     },
     description: {
-      de: "Ein monumentaler Komplex, der an die entscheidende Schlacht von Carabobo für die Unabhängigkeit Venezuelas erinnert.",
-      hu: "Monumentális komplexum, amely a venezuelai függetlenséget eldöntő carabobói csatának állít emléket.",
-      ro: "Un complex monumental care comemorează bătălia decisivă de la Carabobo pentru independența Venezuelei.",
-      en: "A monumental complex commemorating the decisive Battle of Carabobo for Venezuelan independence."
+      de: "Die zweite große Brücke über den Orinoco, die eine strategische Verbindung für die Schwerindustrie darstellt.",
+      hu: "Az Orinoco feletti második nagy híd, amely stratégiai összeköttetést jelent a nehézipar számára.",
+      ro: "Al doilea pod major peste Orinoco, reprezentând o legătură strategică pentru industria grea.",
+      en: "The second major bridge over the Orinoco, representing a strategic link for heavy industry."
     },
     descriptionAdvanced: {
-      de: "Der Komplex von Carabobo ist eine der feierlichsten nationalen Gedenkstätten. Er würdigt die Schlacht von 1821, die den Sieg über die spanische Herrschaft besiegelte. Das Denkmal umfasst prachtvolle Statuen, breite Wege und eine ewige Flamme, die durch eine Ehrengarde bewacht wird. Dieser Ort steht wie kein anderer für den Stolz der Nation auf ihren Unabhängigkeitskampf. Er ist ein zentrales Monument, das die Geschichte des Befreiungskampfes für zukünftige Generationen greifbar macht. Geschichte K8 — Nationalidentität.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      de: "Die Orinokia-Brücke ist ein Beweis für die fortschreitende industrielle Entwicklung im Süden Venezuelas. Als zweites großes Brückenbauwerk über den Orinoco entlastet sie die Angostura-Brücke und ermöglicht einen effizienten Transport für die Stahl- und Aluminiumindustrie von Ciudad Guayana. Mit ihrer modernen Schrägseil-Konstruktion ist sie ein Symbol für die technologische Kapazität des Landes im 21. Jahrhundert. Sie verbindet die Regionen Bolívar und Anzoátegui und stärkt so die wirtschaftliche Integration. Wirtschaft K8 — Logistik.",
+      hu: "Az Orinokia híd a dél-venezuelai folyamatos ipari fejlődés bizonyítéka. Az Orinoco feletti második nagy hídépítményként tehermentesíti az Angostura hidat, és hatékony szállítást tesz lehetővé Ciudad Guayana acél- és alumíniumipara számára. Modern ferdekábeles szerkezetével az ország 21. századi technológiai képességeinek szimbóluma. Összeköti Bolívar és Anzoátegui államokat, erősítve ezzel a gazdasági integrációt. Gazdaság K8 — logisztika.",
+      ro: "",
+      en: "",
     },
     facts: {
-      de: ["1921 anlässlich des 100. Jahrestages errichtet.", "Verfügt über ein ewiges Feuer und Wachsoldaten."],
-      hu: ["1921-ben épült a 100. évforduló alkalmából.", "Örökmécsessel és díszőrséggel rendelkezik."],
-      ro: ["Construit în 1921 pentru a 100-a aniversare.", "Are o flacără eternă și gărzi de onoare."],
-      en: ["Built in 1921 for the 100th anniversary.", "Features an eternal flame and honor guards."]
+      de: ["Zweite Brücke über den Orinoco.", "Wichtig für den Schwertransport."],
+      hu: ["A második híd az Orinoco felett.", "Fontos a nehézgépjármű-forgalom számára."],
+      ro: ["Al doilea pod peste Orinoco.", "Important pentru transportul greu."],
+      en: ["Second bridge over the Orinoco.", "Important for heavy transport."]
     },
     factsAdvanced: {
-      de: ["Das Denkmal feiert den 100. Jahrestag der Schlacht im Jahr 1921.", "Die Ehrengarde unterstreicht die militärische Bedeutung des Sieges von 1821.", "Der gesamte Komplex ist auf eine monumentale Wirkung und den Respekt vor den Gefallenen ausgerichtet.", "Carabobo ist ein zentraler Ort für die jährlich stattfindenden staatlichen Feierlichkeiten zum Unabhängigkeitstag."],
-      hu: [],
+      de: ["Die Brücke wurde 2006 offiziell in Betrieb genommen.", "Sie verfügt über eine kombinierte Schienen- und Straßenverbindung (geplant).", "Die Konstruktion ist eine der modernsten ihrer Art in Lateinamerika.", "Die Orinokia-Brücke hat die Fahrzeiten zwischen dem Industriezentrum und dem Norden massiv verkürzt."],
+      hu: ["A hidat 2006-ban helyezték hivatalosan üzembe.", "Kombinált vasúti és közúti összeköttetéssel rendelkezik (tervezett).", "A szerkezet Latin-Amerika egyik legmodernebb ilyen típusú építménye.", "Az Orinokia híd jelentősen lerövidítette a menetidőt az ipari központ és az északi országrész között."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-puente-orinokia-landmark-v2.webp"},
   {
-    id: "palacio-federal-legislativo-landmarks-v2",
+    id: "venezuela-estadio-monumental-simon-bolivar-landmark-v2",
     type: "landmark",
     parent: "VE-A",
-    coords: [-66.9147, 10.5047],
+    coords: [-66.9372, 10.4356],
     name: {
-      de: "Palacio Federal Legislativo",
-      hu: "Szövetségi Törvényhozási Palota",
-      ro: "Palatul Legislativ Federal",
-      en: "Federal Legislative Palace"
+      de: "Monumentalstadion Simón Bolívar",
+      hu: "Simón Bolívar Monumentális Stadion",
+      ro: "Stadionul Monumental Simón Bolívar",
+      en: "Simón Bolívar Monumental Stadium"
     },
     description: {
-      de: "Der historische Sitz der Nationalversammlung von Venezuela, ein Meisterwerk der Architektur des 19. Jahrhunderts.",
-      hu: "A venezuelai Nemzetgyűlés történelmi székhelye, a 19. századi építészet remekműve.",
-      ro: "Sediul istoric al Adunării Naționale din Venezuela, o capodoperă a arhitecturii secolului al XIX-lea.",
-      en: "The historic seat of the National Assembly of Venezuela, a masterpiece of 19th-century architecture."
+      de: "Eines der modernsten und größten Baseballstadien in Lateinamerika, gelegen im Süden von Caracas.",
+      hu: "Latin-Amerika egyik legmodernebb és legnagyobb baseballstadionja, amely Caracas déli részén található.",
+      ro: "Unul dintre cele mai moderne și mai mari stadioane de baseball din America Latină, situat în sudul orașului Caracas.",
+      en: "One of the most modern and largest baseball stadiums in Latin America, located in southern Caracas."
     },
     descriptionAdvanced: {
-      de: "Der Palacio Federal Legislativo ist das politische Herz Venezuelas. Mit seiner eleganten neoklassizistischen Architektur und seinem imposanten Innenhof repräsentiert er die staatliche Macht und Tradition des Landes. Er beherbergt wichtige historische Dokumente und Gemälde, die den politischen Werdegang der Republik nachzeichnen. Als Sitz der Nationalversammlung ist es ein Ort von höchster Bedeutung für die Legislative. Die prunkvolle Ausstattung zeugt vom Gestaltungswillen der politischen Elite des 19. Jahrhunderts. Politik K8 — Regierungsgeschichte.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      de: "Das Monumentalstadion Simón Bolívar ist der neue Tempel für den Baseball-Sport, die nationale Leidenschaft Venezuelas. Mit seiner gigantischen Kapazität und modernsten Ausstattung setzt es neue Maßstäbe für Sportstätten in der Region. Es wurde konzipiert, um internationale Turniere auszurichten und die Begeisterung der Fans in einer erstklassigen Umgebung einzufangen. Das Stadion ist nicht nur ein Ort für Sport, sondern auch ein Symbol für den Stolz und die kulturelle Bedeutung des Baseballs in der venezolanischen Gesellschaft. Sport K6 — Baseball.",
+      hu: "A Simón Bolívar Monumentális Stadion a baseball, a venezuelai nemzeti sport új temploma. Hatalmas kapacitásával és legmodernebb felszereltségével új mércét állít a régió sportlétesítményei elé. Úgy tervezték, hogy nemzetközi tornáknak adjon otthont, és világszínvonalú környezetben fogadja a szurkolók lelkesedését. A stadion nem csupán a sport helyszíne, hanem a baseball venezuelai társadalomban betöltött büszkeségének és kulturális jelentőségének szimbóluma is. Sport K6 — baseball.",
+      ro: "",
+      en: "",
     },
     facts: {
-      de: ["Errichtet unter der Herrschaft von Antonio Guzmán Blanco.", "Beherbergt wertvolle Gemälde venezolanischer Geschichte."],
-      hu: ["Antonio Guzmán Blanco uralma alatt épült.", "Értékes történelmi festményeknek ad otthont."],
-      ro: ["Construit sub domnia lui Antonio Guzmán Blanco.", "Găzduiește picturi valoroase de istorie venezueleană."],
-      en: ["Built under the rule of Antonio Guzmán Blanco.", "Houses valuable paintings of Venezuelan history."]
+      de: ["Kapazität für ca. 40.000 Zuschauer.", "Modernstes Baseballstadion der Region."],
+      hu: ["Kb. 40 000 néző befogadására alkalmas.", "A régió legmodernebb baseballstadionja."],
+      ro: ["Capacitate de aproximativ 40.000 de spectatori.", "Cel mai modern stadion de baseball din regiune."],
+      en: ["Capacity for approx. 40,000 spectators.", "Most modern baseball stadium in the region."]
     },
     factsAdvanced: {
-      de: ["Das Gebäude wurde während der Präsidentschaft von Antonio Guzmán Blanco in seiner heutigen Form ausgestaltet.", "Die historische Unabhängigkeitserklärung Venezuelas wird hier sicher aufbewahrt.", "Die Architektur integriert Elemente, die den venezolanischen Staatsstolz betonen.", "Der Palacio ist ein zentraler Ort für die politische Repräsentation der venezolanischen Republik."],
-      hu: [],
+      de: ["Das Stadion wurde für die 'Serie del Caribe 2023' eingeweiht.", "Die Architektur bietet modernste Sichtlinien und Komfort für die Fans.", "Es verfügt über riesige LED-Wände und modernste Medientechnik.", "Die Lage in 'La Rinconada' integriert das Stadion in ein großes Sport- und Freizeitareal."],
+      hu: ["A stadiont a '2023-as Serie del Caribe' alkalmából avatták fel.", "Az építészet modern látószögeket és kényelmet biztosít a szurkolóknak.", "Hatalmas LED-falakkal és a legkorszerűbb médiatechnikával rendelkezik.", "A 'La Rinconada' területén lévő elhelyezkedése egy nagy sport- és szabadidős központba integrálja a stadiont."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-estadio-monumental-simon-bolivar-landmark-v2.webp"},
+  {
+    id: "venezuela-poliedro-de-caracas-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.9367, 10.4344],
+    name: {
+      de: "Poliedro von Caracas",
+      hu: "Caracas-i Poliedro",
+      ro: "Poliedrul din Caracas",
+      en: "Poliedro de Caracas"
+    },
+    description: {
+      de: "Eine markante geodätische Kuppel, die als wichtigste Mehrzweckhalle für Konzerte und Sportveranstaltungen dient.",
+      hu: "Jellegzetes geodéziai kupola, amely koncertek és sportesemények legfontosabb többfunkciós csarnokaként szolgál.",
+      ro: "O cupolă geodezică distinctivă care servește ca principală sală polivalentă pentru concerte și evenimente sportive.",
+      en: "A striking geodesic dome that serves as the most important multipurpose venue for concerts and sporting events."
+    },
+    descriptionAdvanced: {
+      de: "Das Poliedro de Caracas ist eine Ikone der Architektur des 20. Jahrhunderts in Venezuela. Seine geodätische Kuppel, inspiriert von den Prinzipien von Buckminster Fuller, macht es zu einem der erkennbarsten Gebäude der Stadt. Es hat unzählige historische Konzerte, Sportwettkämpfe und politische Ereignisse beherbergt und ist fest im kulturellen Gedächtnis der Venezolaner verankert. Das Poliedro steht für eine Ära technologischen Optimismus und bleibt ein zentraler Ort für Massenveranstaltungen in der Hauptstadt. Architektur K7 — Geodätische Bauten.",
+      hu: "A Caracas-i Poliedro a 20. századi venezuelai építészet ikonja. Buckminster Fuller elvei alapján készült geodéziai kupolája a város egyik legfelismerhetőbb épületévé teszi. Számtalan történelmi koncertnek, sportversenynek és politikai eseménynek adott otthont, mélyen beágyazódva a venezuelaiak kulturális emlékezetébe. A Poliedro a technológiai optimizmus korszakát képviseli, és továbbra is a tömegrendezvények központi helyszíne a fővárosban. Építészet K7 — geodéziai építmények.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Ikonische geodätische Kuppel.", "Bedeutendster Veranstaltungsort der Hauptstadt."],
+      hu: ["Ikonikus geodéziai kupola.", "A főváros legjelentősebb rendezvényhelyszíne."],
+      ro: ["Cupolă geodezică iconică.", "Cea mai importantă locație pentru evenimente din capitală."],
+      en: ["Iconic geodesic dome.", "Most significant event venue in the capital."]
+    },
+    factsAdvanced: {
+      de: ["Das Poliedro wurde 1974 eröffnet und war Schauplatz zahlreicher internationaler Musikevents.", "Die Architektur ermöglicht eine riesige stützenfreie Innenfläche.", "Es befindet sich in unmittelbarer Nähe zum Monumentalstadion Simón Bolívar.", "Das Gebäude ist ein Meilenstein für den Einsatz moderner geometrischer Strukturen in Venezuela."],
+      hu: ["A Poliedrót 1974-ben nyitották meg, és számos nemzetközi zenei esemény helyszíne volt.", "Az építészet hatalmas, oszlopmentes belső teret tesz lehetővé.", "A Simón Bolívar Monumentális Stadion közvetlen közelében található.", "Az épület mérföldkő a modern geometriai szerkezetek venezuelai alkalmazásában."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-poliedro-de-caracas-landmark-v2.webp"},
+  {
+    id: "venezuela-ciudad-universitaria-caracas-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.8906, 10.4908],
+    name: {
+      de: "Universitätsstadt von Caracas",
+      hu: "Caracasi Egyetemváros",
+      ro: "Orașul Universitar din Caracas",
+      en: "University City of Caracas"
+    },
+    description: {
+      de: "Der Hauptcampus der Universität von Venezuela, ein UNESCO-Weltkulturerbe und Meisterwerk der modernen Architektur.",
+      hu: "A Venezuelai Központi Egyetem fő kampusza, UNESCO Világörökségi helyszín és a modern építészet remekműve.",
+      ro: "Campusul principal al Universității din Venezuela, un sit al Patrimoniului Mondial UNESCO și o capodoperă a arhitecturii moderne.",
+      en: "The main campus of the University of Venezuela, a UNESCO World Heritage site and masterpiece of modern architecture."
+    },
+    descriptionAdvanced: {
+      de: "Die Universitätsstadt von Caracas (Ciudad Universitaria) ist ein weltweit einzigartiges Beispiel für die Synthese von Architektur und bildender Kunst. Entworfen vom Architekten Carlos Raúl Villanueva, integriert der Campus monumentale Kunstwerke direkt in die Bauplanung. Die UNESCO ernannte den Campus zum Weltkulturerbe, da er die Ideale der Moderne in vollendeter Form verkörpert. Er ist nicht nur ein Ort der Bildung, sondern ein lebendiges Freiluftmuseum, das die bedeutendsten Strömungen der modernen Kunst des 20. Jahrhunderts vereint. Architektur K8 — Welterbe.",
+      hu: "A caracasi Egyetemváros (Ciudad Universitaria) az építészet és a képzőművészet szintézisének világszerte egyedülálló példája. Carlos Raúl Villanueva építész tervei alapján a kampusz monumentális műalkotásokat integrál közvetlenül az építészeti tervezésbe. Az UNESCO a Világörökség részévé nyilvánította, mivel a modernizmus ideáljait tökéletes formában testesíti meg. Nem csupán az oktatás helyszíne, hanem egy élő szabadtéri múzeum, amely a 20. századi modern művészet legjelentősebb áramlatait egyesíti. Építészet K8 — világörökség.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["UNESCO-Weltkulturerbe seit 2000.", "Entworfen von Carlos Raúl Villanueva."],
+      hu: ["2000 óta UNESCO Világörökség része.", "Carlos Raúl Villanueva tervezte."],
+      ro: ["Patrimoniu Mondial UNESCO din 2000.", "Proiectat de Carlos Raúl Villanueva."],
+      en: ["UNESCO World Heritage site since 2000.", "Designed by Carlos Raúl Villanueva."]
+    },
+    factsAdvanced: {
+      de: ["Der Campus beherbergt über 100 bedeutende Kunstwerke, die fest in die Gebäude integriert sind.", "Er gilt als das Hauptwerk von Carlos Raúl Villanueva.", "Die Ciudad Universitaria ist ein Meilenstein des modernen Urbanismus in Lateinamerika.", "Zentrale Bauwerke wie das Aula Magna sind für ihre akustische und visuelle Qualität berühmt."],
+      hu: ["A kampusz több mint 100 jelentős műalkotásnak ad otthont, amelyek szervesen integrálódnak az épületekbe.", "Carlos Raúl Villanueva fő művének tekintik.", "A Ciudad Universitaria a modern latin-amerikai urbanizmus mérföldköve.", "Az olyan központi építmények, mint az Aula Magna, híresek akusztikai és vizuális minőségükről."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-ciudad-universitaria-caracas-landmark-v2.webp"},
+  {
+    id: "venezuela-aula-magna-ucv-landmark-v2",
+    type: "landmark",
+    parent: "VE-A",
+    coords: [-66.8911, 10.4903],
+    name: {
+      de: "Aula Magna - UCV",
+      hu: "Aula Magna - UCV",
+      ro: "Aula Magna - UCV",
+      en: "Aula Magna - UCV"
+    },
+    description: {
+      de: "Das beeindruckende Auditorium der Universität von Venezuela, weltberühmt für seine akustischen 'Wolken' von Alexander Calder.",
+      hu: "A Venezuelai Központi Egyetem lenyűgöző auditóriuma, amely Alexander Calder akusztikus 'felhőiről' világhírű.",
+      ro: "Auditoriul impresionant al Universității din Venezuela, faimos în întreaga lume pentru „norii” săi acustici de Alexander Calder.",
+      en: "The impressive auditorium of the University of Venezuela, world-famous for its acoustic 'clouds' by Alexander Calder."
+    },
+    descriptionAdvanced: {
+      de: "Die Aula Magna der UCV ist eines der akustisch und visuell spektakulärsten Auditorien der Welt. Bekannt für die 'fliegenden Untertassen' oder 'Wolken' von Alexander Calder, die an der Decke schweben, bietet sie eine unvergleichliche Verbindung von Kunst und Funktion. Diese Strukturen dienen nicht nur als visuelles Highlight, sondern sind essenziell für die perfekte Akustik des Saales. Die Aula Magna ist das Herzstück der Universitätsstadt und ein Symbol für die harmonische Integration von Kunst in den öffentlichen Raum. Kunst K8 — Akustik und Design.",
+      hu: "Az UCV Aula Magnája a világ egyik leglátványosabb auditóriuma akusztikai és vizuális szempontból egyaránt. Alexander Calder mennyezetről lógó 'repülő csészealjai' vagy 'felhői' révén ismert, a művészet és a funkció páratlan kapcsolatát kínálja. Ezek a szerkezetek nemcsak vizuális élményt nyújtanak, hanem alapvetőek a terem tökéletes akusztikájához is. Az Aula Magna az Egyetemváros szíve, és a művészet közösségi térbe való harmonikus integrációjának szimbóluma. Művészet K8 — akusztika és design.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Weltberühmte Akustik-Wolken von Alexander Calder.", "Herzstück der UNESCO-Welterbe Universität."],
+      hu: ["Alexander Calder világhírű akusztikus felhői.", "Az UNESCO Világörökség részét képező egyetem szíve."],
+      ro: ["Nori acustici de renume mondial de Alexander Calder.", "Inima universității incluse în Patrimoniul UNESCO."],
+      en: ["World-famous acoustic clouds by Alexander Calder.", "Heart of the UNESCO World Heritage university."]
+    },
+    factsAdvanced: {
+      de: ["Alexander Calder arbeitete eng mit den Akustikern zusammen, um die Formen der Wolken zu optimieren.", "Die Aula Magna wird für bedeutende akademische und kulturelle Zeremonien genutzt.", "Sie gilt als einer der wichtigsten Konzertsäle in Lateinamerika.", "Die visuelle Wirkung der schwebenden farbigen Elemente ist weltweit einzigartig."],
+      hu: ["Alexander Calder szorosan együttműködött az akusztikai szakemberekkel a felhők formájának optimalizálása érdekében.", "Az Aula Magnát jelentős akadémiai és kulturális ceremóniákra használják.", "Latin-Amerika egyik legfontosabb hangversenytermének tartják.", "A lebegő színes elemek vizuális hatása világszerte egyedülálló."],
+      ro: [],
+      en: [],
+    }, image: "/poi-images/venezuela-aula-magna-ucv-landmark-v2.webp"},
+  {
+    id: "venezuela-monumento-a-la-paz-landmark-v2",
+    type: "landmark",
+    parent: "VE-N",
+    coords: [-70.4475, 9.3831],
+    name: {
+      de: "Friedensdenkmal",
+      hu: "Béke Emlékmű",
+      ro: "Monumentul Păcii",
+      en: "Peace Monument"
+    },
+    description: {
+      de: "Eine riesige Marienstatue in Trujillo, die eines der höchsten religiösen Monumente Amerikas ist.",
+      hu: "Hatalmas Mária-szobor Trujillóban, amely Amerika egyik legmagasabb vallási emlékműve.",
+      ro: "O statuie imensă a Fecioarei Maria în Trujillo, fiind unul dintre cele mai înalte monumente religioase din America.",
+      en: "A huge statue of the Virgin Mary in Trujillo, being one of the tallest religious monuments in the Americas."
+    },
+    descriptionAdvanced: {
+      de: "Das Friedensdenkmal (Monumento a la Paz) in Trujillo ist eine kolossale Marienstatue, die weit über die Andenregion hinaus sichtbar ist. Mit ihrer beeindruckenden Höhe ist sie eines der höchsten religiösen Monumente der westlichen Hemisphäre. Besucher können in das Innere der Statue steigen und von verschiedenen Aussichtsplattformen einen atemberaubenden Blick über die Berge von Trujillo genießen. Das Monument ist ein Symbol für den tiefen Glauben und den Wunsch nach Frieden in Venezuela. Religion K6 — Monumentalskulptur.",
+      hu: "A trujillói Béke Emlékmű (Monumento a la Paz) egy kolosszális Mária-szobor, amely messze az Andok régióján túlról is látható. Lenyűgöző magasságával a nyugati félteke egyik legmagasabb vallási műemléke. A látogatók felmehetnek a szobor belsejébe, és a különböző kilátóteraszokról lélegzetelállító kilátásban gyönyörködhetnek Trujillo hegyeire. Az emlékmű a mély hit és a béke iránti vágy szimbóluma Venezuelában. Vallás K6 — monumentális szobrászat.",
+      ro: "",
+      en: "",
+    },
+    facts: {
+      de: ["Höher als die Christusstatue in Rio.", "Bietet Panoramablick auf die Anden."],
+      hu: ["Magasabb, mint a riói Krisztus-szobor.", "Panorámás kilátást nyújt az Andokra."],
+      ro: ["Mai înalt decât statuia lui Cristos din Rio.", "Oferă vedere panoramică asupra Anzilor."],
+      en: ["Taller than the Christ the Redeemer statue in Rio.", "Offers panoramic views of the Andes."]
+    },
+    factsAdvanced: {
+      de: ["Das Monument erreicht eine Höhe von ca. 46,7 Metern.", "Es wurde 1983 eingeweiht und ist ein bedeutender Wallfahrtsort.", "Die Statue ist innen begehbar und verfügt über fünf Aussichtspunkte.", "Es gilt als die höchste Statue der Jungfrau Maria in ganz Amerika."],
+      hu: ["A műemlék magassága körülbelül 46,7 méter.", "1983-ban avatták fel, és jelentős zarándokhely.", "A szobor belseje bejárható, és öt kilátóponttal rendelkezik.", "Amerika legmagasabb Szűz Mária-szobrának tartják."],
       ro: [],
       en: [],
     }
   }
 ];
+

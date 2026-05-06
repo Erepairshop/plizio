@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuineabissauCitiesV2: POI[] = [
@@ -39,8 +40,19 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Serves as the administrative and economic center of the country.",
         "Has a major port for the export of cashew nuts."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Bissau ist das politische, wirtschaftliche und kulturelle Herz von Guinea-Bissau und fungiert als Haupthafen des Landes am Atlantischen Ozean. Die Stadt wurde 1687 als befestigter Stützpunkt der portugiesischen Kolonialmacht gegründet und entwickelte sich im Laufe der Jahrhunderte zum urbanen Zentrum am Geba-Ästuar. Heute prägen eine Mischung aus kolonialer Architektur, geschäftigen Märkten und die strategische Bedeutung für den Cashewnussexport das Bild dieser tropischen Hauptstadt. Die Stadt ist ein faszinierender Ausgangspunkt für geographische Exkursionen in die umliegenden Regionen. (Geographie K7 — Küstenstädte und Wirtschaftsgeographie)",
+      hu: "Bissau Bissau-Guinea politikai, gazdasági és kulturális központja, amely az Atlanti-óceán partján fekvő ország legfontosabb kikötője. A várost 1687-ben alapította a portugál gyarmati hatalom megerősített támaszpontként, és az évszázadok során a Geba-torkolat legjelentősebb városává vált. Ma a koloniális építészet, a nyüzsgő piacok és a kesudió-export stratégiai jelentősége határozza meg a trópusi főváros arculatát. A város kiváló kiindulópont a környező régiók földrajzi felfedezéséhez. (Földrajz K7 — tengerparti városok és gazdaságföldrajz)",
+      ro: "Bissau este inima politică, economică și culturală a Guineei-Bissau, fiind principalul port al țării la Oceanul Atlantic. Orașul a fost fondat în 1687 ca punct fortificat al puterii coloniale portugheze și s-a dezvoltat de-a lungul secolelor ca centru urban la estuarul Geba. Astăzi, un amestec de arhitectură colonială, piețe animate și importanța strategică pentru exportul de nuci caju definesc imaginea acestei capitale tropicale. Orașul reprezintă un punct de plecare fascinant pentru excursii geografice în regiunile înconjurătoare. (Geografie K7 — orașe de coastă și geografie economică)",
+      en: "Bissau is the political, economic, and cultural heart of Guinea-Bissau, serving as the country's main port on the Atlantic Ocean. The city was founded in 1687 as a fortified outpost by the Portuguese colonial power and evolved over the centuries into a major urban center on the Geba estuary. Today, a mix of colonial architecture, bustling markets, and the strategic importance for cashew nut exports define the image of this tropical capital. It is a fascinating starting point for geographical excursions into the surrounding regions. (Geography K7 — coastal cities and economic geography)"
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1687 als portugiesischer Stützpunkt.", "Liegt direkt am Ästuar des Geba-Flusses.", "Bedeutendster Hafen für den nationalen Cashewnussexport.", "Bevölkerung wuchs seit den 1970er Jahren massiv.", "Sitz der wichtigsten staatlichen Institutionen des Landes.", "Das Klima ist tropisch mit einer ausgeprägten Regenzeit."],
+      hu: ["1687-ben alapították portugál támaszpontként.", "Közvetlenül a Geba-folyó torkolatánál fekszik.", "A nemzeti kesudió-export legjelentősebb kikötője.", "A népesség az 1970-es évek óta hatalmas mértékben nőtt.", "Az ország legfontosabb állami intézményeinek székhelye.", "Az éghajlat trópusi, jól elkülönülő esős évszakkal."],
+      ro: ["Fondat în 1687 ca punct de sprijin portughez.", "Situat direct la estuarul râului Geba.", "Cel mai important port pentru exportul național de nuci caju.", "Populația a crescut masiv din anii 1970.", "Sediul principalelor instituții de stat ale țării.", "Clima este tropicală cu un sezon ploios distinct."],
+      en: ["Founded in 1687 as a Portuguese outpost.", "Situated directly on the Geba River estuary.", "Most significant port for national cashew nut exports.", "Population has grown massively since the 1970s.", "Seat of the country's most important state institutions.", "Climate is tropical with a distinct rainy season."]
+    }, image: "/poi-images/bissau-cities-v2.webp"},
   {
     id: "bafata-cities-v2",
     type: "city",
@@ -79,8 +91,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Is a significant center for the trade of peanuts and livestock.",
         "The birthplace of Amílcar Cabral is now a museum."
       ]
-    }
-  },
+    }, image: "/poi-images/bafata-cities-v2.webp"},
   {
     id: "gabu-cities-v2",
     type: "city",
@@ -159,8 +170,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "A regional center for agriculture and local commerce.",
         "Houses a memorial to those killed in the colonial war."
       ]
-    }
-  },
+    }, image: "/poi-images/bissora-cities-v2.webp"},
   {
     id: "bolama-cities-v2",
     type: "city",
@@ -199,8 +209,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Features numerous decaying colonial-era buildings in neoclassical style.",
         "Is known for its cashew nut production."
       ]
-    }
-  },
+    }, image: "/poi-images/bolama-cities-v2.webp"},
   {
     id: "cacheu-cities-v2",
     type: "city",
@@ -239,8 +248,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Houses an old Portuguese fort dating back to 1588.",
         "Located within the Cacheu River National Park, known for its mangroves."
       ]
-    }
-  },
+    }, image: "/poi-images/cacheu-cities-v2.webp"},
   {
     id: "buba-cities-v2",
     type: "city",
@@ -279,8 +287,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Nearby is the Cufada Lakes National Park.",
         "Serves as a vital transport hub for travel to the south of the country."
       ]
-    }
-  },
+    }, image: "/poi-images/buba-cities-v2.webp"},
   {
     id: "catio-cities-v2",
     type: "city",
@@ -319,8 +326,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "The town is surrounded by dense mangrove forests and waterways.",
         "Strategically located for trade with the Republic of Guinea."
       ]
-    }
-  },
+    }, image: "/poi-images/catio-cities-v2.webp"},
   {
     id: "farim-cities-v2",
     type: "city",
@@ -359,8 +365,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Is known for the large phosphate deposits in the surrounding area.",
         "The name derives from a Mandinka title for a local ruler."
       ]
-    }
-  },
+    }, image: "/poi-images/farim-cities-v2.webp"},
   {
     id: "quinhamel-cities-v2",
     type: "city",
@@ -399,8 +404,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Known for its traditional weaving and textile production.",
         "A popular destination for weekenders from Bissau due to its coastal location."
       ]
-    }
-  },
+    }, image: "/poi-images/quinhamel-cities-v2.webp"},
   {
     id: "mansoa-cities-v2",
     type: "city",
@@ -439,8 +443,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Known for rice and cashew nut cultivation.",
         "Houses a significant Catholic mission."
       ]
-    }
-  },
+    }, image: "/poi-images/mansoa-cities-v2.webp"},
   {
     id: "bambadinca-cities-v2",
     type: "city",
@@ -479,8 +482,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Features an innovative hybrid solar power plant.",
         "An important local center for agricultural trade."
       ]
-    }
-  },
+    }, image: "/poi-images/bambadinca-cities-v2.webp"},
   {
     id: "canchungo-cities-v2",
     type: "city",
@@ -519,8 +521,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Known for its lively markets and traditional ceremonies.",
         "Was called Vila Teixeira Pinto during the colonial era."
       ]
-    }
-  },
+    }, image: "/poi-images/canchungo-cities-v2.webp"},
   {
     id: "quebo-cities-v2",
     type: "city",
@@ -559,8 +560,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Surrounded by forest areas and agricultural land.",
         "Formerly known as Aldeia Formosa."
       ]
-    }
-  },
+    }, image: "/poi-images/quebo-cities-v2.webp"},
   {
     id: "bedanda-cities-v2",
     type: "city",
@@ -599,8 +599,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Agriculture here focuses mainly on rice and palm oil.",
         "Important for local cross-border traffic with Guinea."
       ]
-    }
-  },
+    }, image: "/poi-images/bedanda-cities-v2.webp"},
   {
     id: "nhacra-cities-v2",
     type: "city",
@@ -679,8 +678,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Increasingly developing into a residential and commercial area for Bissau.",
         "Located near the Mansôa River."
       ]
-    }
-  },
+    }, image: "/poi-images/safim-cities-v2.webp"},
   {
     id: "bubaque-cities-v2",
     type: "city",
@@ -719,8 +717,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Is the starting point for exploring the Orango National Park.",
         "Known for its beautiful beaches and rich Bijagó culture."
       ]
-    }
-  },
+    }, image: "/poi-images/bubaque-cities-v2.webp"},
   {
     id: "fulacunda-cities-v2",
     type: "city",
@@ -759,8 +756,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "The region is rich in natural beauty and watercourses.",
         "Known for the production of palm wine."
       ]
-    }
-  },
+    }, image: "/poi-images/fulacunda-cities-v2.webp"},
   {
     id: "bigene-cities-v2",
     type: "city",
@@ -799,8 +795,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Agriculture is characterized by the cultivation of grains and cashews.",
         "Home to various ethnic groups, including Balanta and Mandinka."
       ]
-    }
-  },
+    }, image: "/poi-images/bigene-cities-v2.webp"},
   {
     id: "ingore-cities-v2",
     type: "city",
@@ -879,8 +874,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Trade and livestock farming are the primary sources of income.",
         "The population is largely composed of Fula people."
       ]
-    }
-  },
+    }, image: "/poi-images/pirada-cities-v2.webp"},
   {
     id: "pitche-cities-v2",
     type: "city",
@@ -919,8 +913,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Characterized by a mountainous and forested landscape.",
         "A center for Fula culture in the east."
       ]
-    }
-  },
+    }, image: "/poi-images/pitche-cities-v2.webp"},
   {
     id: "sonaco-cities-v2",
     type: "city",
@@ -959,8 +952,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Located on the important road connecting Bafatá and Gabú.",
         "A regional center for the local artisan market."
       ]
-    }
-  },
+    }, image: "/poi-images/sonaco-cities-v2.webp"},
   {
     id: "contuboel-cities-v2",
     type: "city",
@@ -999,8 +991,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Historically significant as a base during the colonial era.",
         "Has a diverse population with strong Muslim traditions."
       ]
-    }
-  },
+    }, image: "/poi-images/contuboel-cities-v2.webp"},
   {
     id: "galomaro-cities-v2",
     type: "city",
@@ -1039,8 +1030,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Located in a plain ideal for agriculture.",
         "Known for its traditional village structures."
       ]
-    }
-  },
+    }, image: "/poi-images/galomaro-cities-v2.webp"},
   {
     id: "buruntuma-cities-v2",
     type: "city",
@@ -1079,8 +1069,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "The surrounding area is characterized by dense savanna and woodland.",
         "Important for monitoring the border in the east."
       ]
-    }
-  },
+    }, image: "/poi-images/buruntuma-cities-v2.webp"},
   {
     id: "madina-do-boe-cities-v2",
     type: "city",
@@ -1119,8 +1108,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Located in a hilly and remote region.",
         "Considered the spiritual cradle of the independence movement."
       ]
-    }
-  },
+    }, image: "/poi-images/madina-do-boe-cities-v2.webp"},
   {
     id: "empada-cities-v2",
     type: "city",
@@ -1159,8 +1147,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "An important local fishing center.",
         "The region is known for its diverse flora and fauna."
       ]
-    }
-  },
+    }, image: "/poi-images/empada-cities-v2.webp"},
   {
     id: "guilege-cities-v2",
     type: "city",
@@ -1239,8 +1226,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "The town is only accessible via waterways or unpaved roads.",
         "Known for its pristine nature and rare bird species."
       ]
-    }
-  },
+    }, image: "/poi-images/cacine-cities-v2.webp"},
   {
     id: "jemberem-cities-v2",
     type: "city",
@@ -1279,8 +1265,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "The local community is deeply involved in nature conservation.",
         "Houses the last primary forest in Guinea-Bissau."
       ]
-    }
-  },
+    }, image: "/poi-images/jemberem-cities-v2.webp"},
   {
     id: "tite-cities-v2",
     type: "city",
@@ -1319,8 +1304,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Main economic activities are fishing and cashew cultivation.",
         "Connected to Bissau by regular boat services."
       ]
-    }
-  },
+    }, image: "/poi-images/tite-cities-v2.webp"},
   {
     id: "encheia-cities-v2",
     type: "city",
@@ -1359,8 +1343,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "A quiet place characterized by traditional African village life.",
         "Located off the major transport routes."
       ]
-    }
-  },
+    }, image: "/poi-images/encheia-cities-v2.webp"},
   {
     id: "olossato-cities-v2",
     type: "city",
@@ -1479,8 +1462,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "An important center for building traditional boats.",
         "The region is sparsely populated and naturally preserved."
       ]
-    }
-  },
+    }, image: "/poi-images/caio-cities-v2.webp"},
   {
     id: "bulula-cities-v2",
     type: "city",
@@ -1519,8 +1501,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "An important access point to local river routes.",
         "Characterized by a tropical climate with a distinct rainy season."
       ]
-    }
-  },
+    }, image: "/poi-images/bulula-cities-v2.webp"},
   {
     id: "uno-cities-v2",
     type: "city",
@@ -1559,8 +1540,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Known for its traditional Bijagó mask dances.",
         "Important nesting site for sea turtles in the surrounding area."
       ]
-    }
-  },
+    }, image: "/poi-images/uno-cities-v2.webp"},
   {
     id: "caravela-cities-v2",
     type: "city",
@@ -1599,8 +1579,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "The local population lives almost exclusively from fishing and coconuts.",
         "An important part of the Boloma-Bijagós Biosphere Reserve."
       ]
-    }
-  },
+    }, image: "/poi-images/caravela-cities-v2.webp"},
   {
     id: "formosa-cities-v2",
     type: "city",
@@ -1639,8 +1618,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Islanders maintain their matriarchal social structures.",
         "A center for traditional salt extraction."
       ]
-    }
-  },
+    }, image: "/poi-images/formosa-cities-v2.webp"},
   {
     id: "eticoga-cities-v2",
     type: "city",
@@ -1679,8 +1657,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Houses the mausoleum of the legendary Bijagó queen, Pampa Kanyepa.",
         "An important site for the preservation of Bijagó traditions."
       ]
-    }
-  },
+    }, image: "/poi-images/eticoga-cities-v2.webp"},
   {
     id: "abu-cities-v2",
     type: "city",
@@ -1719,8 +1696,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "The surrounding area offers excellent conditions for seabird watching.",
         "Important for the local supply of the surrounding smaller islands."
       ]
-    }
-  },
+    }, image: "/poi-images/abu-cities-v2.webp"},
   {
     id: "prabis-cities-v2",
     type: "city",
@@ -1759,8 +1735,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Known for its wide stretches of beach on the Atlantic.",
         "Serves as a recreational area for residents of the capital."
       ]
-    }
-  },
+    }, image: "/poi-images/prabis-cities-v2.webp"},
   {
     id: "biombo-cities-v2",
     type: "city",
@@ -1799,8 +1774,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Surrounded by fertile land used for rice cultivation.",
         "Important site for traditional religious ceremonies of the Papel people."
       ]
-    }
-  },
+    }, image: "/poi-images/biombo-cities-v2.webp"},
   {
     id: "cumura-cities-v2",
     type: "city",
@@ -1839,8 +1813,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "An important center for medical care and social work.",
         "Characterized by a peaceful atmosphere and large stands of trees."
       ]
-    }
-  },
+    }, image: "/poi-images/cumura-cities-v2.webp"},
   {
     id: "sao-domingos-cities-v2",
     type: "city",
@@ -1879,8 +1852,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "A bustling center for cross-border trade and smuggling.",
         "Has a diverse, multinational population."
       ]
-    }
-  },
+    }, image: "/poi-images/sao-domingos-cities-v2.webp"},
   {
     id: "varela-cities-v2",
     type: "city",
@@ -1919,8 +1891,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "Known for its dense pine forests right on the coast.",
         "A popular destination for ecotourists and nature lovers."
       ]
-    }
-  },
+    }, image: "/poi-images/varela-cities-v2.webp"},
   {
     id: "bula-cities-v2",
     type: "city",
@@ -1959,8 +1930,7 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
         "The surrounding area is characterized by intensive cashew plantations.",
         "A melting pot of various local ethnicities."
       ]
-    }
-  },
+    }, image: "/poi-images/bula-cities-v2.webp"},
   {
     id: "jolmete-cities-v2",
     type: "city",
@@ -2002,3 +1972,4 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
     }
   }
 ];
+

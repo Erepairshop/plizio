@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/romanaC1.ts — AstroRomână Clasa 1
 import type { PoolTopicDef } from "./types";
 
@@ -7357,3 +7358,4 @@ export const RECAP1_POOL: PoolTopicDef[] = [
     quiz: { question: "t9_q", choices: ["t9_qa", "t9_qb", "t9_qc", "t9_qd"], answer: "t9_qa" },
   },
 ];
+

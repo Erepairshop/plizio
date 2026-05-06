@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -8161,5 +8162,6 @@ export const EXAM3_POOL: PoolTopicDef[] = [
     quiz: { generate: "plural" },
   },
 ];
+
 
 

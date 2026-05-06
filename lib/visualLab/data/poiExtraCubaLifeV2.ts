@@ -1,1084 +1,531 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCubaLifeV2: POI[] = [
   {
-    id: "cu-vuelta-abajo-tobacco-life-v2",
-    type: "agriculture",
-    parent: "CU-01",
-    coords: [-83.83, 22.31],
-    name: {
-      de: "Vuelta Abajo Tabakregion",
-      hu: "Vuelta Abajo dohányrégió",
-      ro: "Regiunea de tutun Vuelta Abajo",
-      en: "Vuelta Abajo Tobacco Region"
-    },
-    description: {
-      de: "Eine der berühmtesten Tabakanbauregionen Kubas, in der die Blätter für weltbekannte Zigarren wachsen.",
-      hu: "Kuba egyik leghíresebb dohánytermesztő vidéke, ahol a világszerte ismert szivarokhoz nőnek a levelek.",
-      ro: "Una dintre cele mai faimoase regiuni de cultivare a tutunului din Cuba, unde cresc frunzele pentru trabucuri de renume mondial.",
-      en: "One of Cuba's most famous tobacco-growing regions, where the leaves for world-renowned cigars grow."
-    },
-    facts: {
-      de: [
-        "Der Tabakanbau prägt die lokale Landschaft tiefgehend.",
-        "Hier werden seit Jahrhunderten traditionelle Methoden gepflegt."
-      ],
-      hu: [
-        "A dohánytermesztés mélyen meghatározza a helyi tájat.",
-        "Évszázadok óta őrzik a hagyományos módszereket."
-      ],
-      ro: [
-        "Cultivarea tutunului definește profund peisajul local.",
-        "Metodele tradiționale sunt păstrate aici de secole."
-      ],
-      en: [
-        "Tobacco farming deeply defines the local landscape.",
-        "Traditional methods have been preserved here for centuries."
-      ]
-    }
-  },
-  {
-    id: "cu-sierra-rosario-coffee-life-v2",
-    type: "agriculture",
-    parent: "CU-02",
-    coords: [-82.95, 22.82],
-    name: {
-      de: "Kaffeeregion Sierra del Rosario",
-      hu: "Sierra del Rosario kávérégió",
-      ro: "Regiunea de cafea Sierra del Rosario",
-      en: "Sierra del Rosario Coffee Region"
-    },
-    description: {
-      de: "Ein bergiges Gebiet im Westen Kubas, das für seine historischen Kaffeeplantagen bekannt ist.",
-      hu: "Kuba nyugati részének hegyvidéki területe, amely történelmi kávéültetvényeiről ismert.",
-      ro: "O zonă muntoasă din vestul Cubei, cunoscută pentru plantațiile sale istorice de cafea.",
-      en: "A mountainous area in western Cuba known for its historic coffee plantations."
-    },
-    facts: {
-      de: [
-        "Das kühle Klima begünstigt den Kaffeeanbau.",
-        "Einige Plantagen stammen aus der französischen Kolonialzeit."
-      ],
-      hu: [
-        "A hűvös éghajlat kedvez a kávétermesztésnek.",
-        "Néhány ültetvény a francia gyarmati időkből származik."
-      ],
-      ro: [
-        "Climatul răcoros favorizează cultivarea cafelei.",
-        "Unele plantații datează din perioada colonială franceză."
-      ],
-      en: [
-        "The cool climate favors coffee cultivation.",
-        "Some plantations date back to the French colonial period."
-      ]
-    }
-  },
-  {
-    id: "cu-matanzas-sugarcane-life-v2",
-    type: "agriculture",
-    parent: "CU-04",
-    coords: [-81.20, 22.85],
-    name: {
-      de: "Zuckerrohrfelder von Matanzas",
-      hu: "Matanzas cukornádültetvényei",
-      ro: "Câmpurile de trestie de zahăr din Matanzas",
-      en: "Matanzas Sugarcane Fields"
-    },
-    description: {
-      de: "Weite Agrarflächen in Matanzas, die historisch für die Zuckerproduktion von großer Bedeutung waren.",
-      hu: "Széles mezőgazdasági területek Matanzasban, amelyek történelmileg nagy jelentőséggel bírtak a cukortermelésben.",
-      ro: "Zone agricole vaste în Matanzas, de mare importanță istorică pentru producția de zahăr.",
-      en: "Vast agricultural areas in Matanzas that were historically of great importance for sugar production."
-    },
-    facts: {
-      de: [
-        "Zuckerrohr war lange das wichtigste Exportgut Kubas.",
-        "Die Felder erstrecken sich über weite Ebenen."
-      ],
-      hu: [
-        "A cukornád sokáig Kuba legfontosabb exportcikke volt.",
-        "A mezők hatalmas síkságokon terülnek el."
-      ],
-      ro: [
-        "Trestia de zahăr a fost mult timp cel mai important export al Cubei.",
-        "Câmpurile se întind pe câmpii vaste."
-      ],
-      en: [
-        "Sugarcane was long Cuba's most important export.",
-        "The fields stretch across vast plains."
-      ]
-    }
-  },
-  {
-    id: "cu-valle-san-luis-tobacco-life-v2",
-    type: "agriculture",
-    parent: "CU-01",
-    coords: [-83.72, 22.35],
-    name: {
-      de: "Valle de San Luis Tabakfarmen",
-      hu: "Valle de San Luis dohányfarmjai",
-      ro: "Fermele de tutun din Valle de San Luis",
-      en: "Valle de San Luis Tobacco Farms"
-    },
-    description: {
-      de: "Zahlreiche Farmen in diesem fruchtbaren Tal konzentrieren sich auf den Anbau von Premium-Tabak.",
-      hu: "Ebben a termékeny völgyben számos farm a prémium dohány termesztésére összpontosít.",
-      ro: "Numeroase ferme din această vale fertilă se concentrează pe cultivarea tutunului premium.",
-      en: "Numerous farms in this fertile valley focus on the cultivation of premium tobacco."
-    },
-    facts: {
-      de: [
-        "Die Böden hier gelten als besonders mineralreich.",
-        "Viele Familienbetriebe existieren seit Generationen."
-      ],
-      hu: [
-        "Az itteni talajok különösen ásványi anyagokban gazdagnak számítanak.",
-        "Sok családi gazdaság generációk óta létezik."
-      ],
-      ro: [
-        "Solurile de aici sunt considerate deosebit de bogate în minerale.",
-        "Multe ferme familiale există de generații."
-      ],
-      en: [
-        "The soils here are considered particularly rich in minerals.",
-        "Many family farms have existed for generations."
-      ]
-    }
-  },
-  {
-    id: "cu-victoria-giron-citrus-life-v2",
-    type: "agriculture",
-    parent: "CU-04",
-    coords: [-81.10, 22.75],
-    name: {
-      de: "Zitrusplantagen Victoria de Girón",
-      hu: "Victoria de Girón citrusültetvényei",
-      ro: "Plantațiile de citrice Victoria de Girón",
-      en: "Victoria de Girón Citrus Orchards"
-    },
-    description: {
-      de: "Ein bedeutendes landwirtschaftliches Unternehmen für den Anbau von Orangen und Grapefruits in Kuba.",
-      hu: "Egy jelentős kubai mezőgazdasági vállalat narancs és grépfrút termesztésére.",
-      ro: "O importantă întreprindere agricolă cubaneză pentru cultivarea portocalelor și a grepfrutului.",
-      en: "A major Cuban agricultural enterprise for the cultivation of oranges and grapefruits."
-    },
-    facts: {
-      de: [
-        "Das Projekt wurde in den 1960er Jahren gestartet.",
-        "Es produziert Säfte für den nationalen und internationalen Markt."
-      ],
-      hu: [
-        "A projektet az 1960-as években indították el.",
-        "Leveket állít elő a hazai és a nemzetközi piacra."
-      ],
-      ro: [
-        "Proiectul a fost lansat în anii 1960.",
-        "Produce sucuri pentru piața națională și internațională."
-      ],
-      en: [
-        "The project was launched in the 1960s.",
-        "It produces juices for the national and international market."
-      ]
-    }
-  },
-  {
-    id: "cu-artemisa-banana-life-v2",
-    type: "agriculture",
-    parent: "CU-02",
-    coords: [-82.75, 22.81],
-    name: {
-      de: "Bananenplantagen von Artemisa",
-      hu: "Artemisa banánültetvényei",
-      ro: "Plantațiile de banane din Artemisa",
-      en: "Artemisa Banana Plantations"
-    },
-    description: {
-      de: "Die Provinz Artemisa ist ein Hauptversorger für landwirtschaftliche Produkte, insbesondere Bananen.",
-      hu: "Artemisa tartomány a mezőgazdasági termékek, különösen a banán egyik fő szállítója.",
-      ro: "Provincia Artemisa este un furnizor principal de produse agricole, în special banane.",
-      en: "Artemisa Province is a main supplier of agricultural products, especially bananas."
-    },
-    facts: {
-      de: [
-        "Die Plantagen versorgen auch die nahe gelegene Hauptstadt.",
-        "Bananen sind ein Grundnahrungsmittel in Kuba."
-      ],
-      hu: [
-        "Az ültetvények a közeli fővárost is ellátják.",
-        "A banán alapvető élelmiszer Kubában."
-      ],
-      ro: [
-        "Plantațiile aprovizionează, de asemenea, capitala din apropiere.",
-        "Bananele sunt un aliment de bază în Cuba."
-      ],
-      en: [
-        "The plantations also supply the nearby capital.",
-        "Bananas are a staple food in Cuba."
-      ]
-    }
-  },
-  {
-    id: "cu-granma-rice-life-v2",
-    type: "agriculture",
-    parent: "CU-12",
-    coords: [-76.85, 20.45],
-    name: {
-      de: "Reisfelder von Granma",
-      hu: "Granma rizsföldjei",
-      ro: "Câmpurile de orez din Granma",
-      en: "Granma Rice Fields"
-    },
-    description: {
-      de: "Die ausgedehnten Reisfelder im Cauto-Tal machen Granma zu einem der größten Reisproduzenten des Landes.",
-      hu: "A Cauto-völgy kiterjedt rizsföldjei Granmát az ország egyik legnagyobb rizstermelőjévé teszik.",
-      ro: "Câmpurile extinse de orez din Valea Cauto fac din Granma unul dintre cei mai mari producători de orez din țară.",
-      en: "The extensive rice fields in the Cauto Valley make Granma one of the country's largest rice producers."
-    },
-    facts: {
-      de: [
-        "Der Fluss Cauto liefert das notwendige Wasser.",
-        "Reis ist ein essenzieller Bestandteil der kubanischen Küche."
-      ],
-      hu: [
-        "A Cauto folyó biztosítja a szükséges vizet.",
-        "A rizs a kubai konyha elengedhetetlen része."
-      ],
-      ro: [
-        "Râul Cauto furnizează apa necesară.",
-        "Orezul este o parte esențială a bucătăriei cubaneze."
-      ],
-      en: [
-        "The Cauto River provides the necessary water.",
-        "Rice is an essential part of Cuban cuisine."
-      ]
-    }
-  },
-  {
-    id: "cu-yateras-coffee-life-v2",
-    type: "agriculture",
-    parent: "CU-14",
-    coords: [-74.92, 20.35],
-    name: {
-      de: "Kaffeeplantagen von Yateras",
-      hu: "Yateras kávéültetvényei",
-      ro: "Plantațiile de cafea din Yateras",
-      en: "Yateras Coffee Plantations"
-    },
-    description: {
-      de: "Eine Hochlandregion im Osten Kubas, deren Mikroklima ideal für den Anbau von Arabica-Kaffee ist.",
-      hu: "Kelet-Kuba felföldi régiója, melynek mikroklímája ideális az Arabica kávé termesztéséhez.",
-      ro: "O regiune de munte din estul Cubei, al cărei microclimat este ideal pentru cultivarea cafelei Arabica.",
-      en: "A highland region in eastern Cuba whose microclimate is ideal for growing Arabica coffee."
-    },
-    facts: {
-      de: [
-        "Die Region ist schwer zugänglich, aber sehr fruchtbar.",
-        "Hier wird Kaffee oft noch von Hand geerntet."
-      ],
-      hu: [
-        "A régió nehezen megközelíthető, de nagyon termékeny.",
-        "Itt a kávét gyakran még mindig kézzel szüretelik."
-      ],
-      ro: [
-        "Regiunea este greu accesibilă, dar foarte fertilă.",
-        "Aici cafeaua este adesea culeasă manual."
-      ],
-      en: [
-        "The region is difficult to access but very fertile.",
-        "Coffee is often still harvested by hand here."
-      ]
-    }
-  },
-  {
-    id: "cu-el-caney-mango-life-v2",
-    type: "agriculture",
-    parent: "CU-13",
-    coords: [-75.76, 20.04],
-    name: {
-      de: "Mango-Plantagen von El Caney",
-      hu: "El Caney mangóültetvényei",
-      ro: "Plantațiile de mango din El Caney",
-      en: "El Caney Mango Orchards"
-    },
-    description: {
-      de: "El Caney ist in ganz Kuba berühmt für seine süßen und saftigen Mangos und andere tropische Früchte.",
-      hu: "El Caney egész Kubában híres édes és lédús mangóiról és más trópusi gyümölcseiről.",
-      ro: "El Caney este faimos în toată Cuba pentru mango-urile sale dulci și suculente, precum și pentru alte fructe tropicale.",
-      en: "El Caney is famous throughout Cuba for its sweet and juicy mangoes and other tropical fruits."
-    },
-    facts: {
-      de: [
-        "Die lokalen Früchte haben oft einen exzellenten Ruf.",
-        "Es gibt Lieder, die die Mangos von El Caney besingen."
-      ],
-      hu: [
-        "A helyi gyümölcsök gyakran kiváló hírnévnek örvendenek.",
-        "Vannak dalok, amelyek az El Caney-i mangókat éneklik meg."
-      ],
-      ro: [
-        "Fructele locale au adesea o reputație excelentă.",
-        "Există cântece care celebrează mango-urile din El Caney."
-      ],
-      en: [
-        "The local fruits often have an excellent reputation.",
-        "There are songs celebrating the mangoes of El Caney."
-      ]
-    }
-  },
-  {
-    id: "cu-baracoa-cacao-life-v2",
-    type: "agriculture",
-    parent: "CU-14",
-    coords: [-74.57, 20.34],
-    name: {
-      de: "Kakaoplantagen von Baracoa",
-      hu: "Baracoa kakaóültetvényei",
-      ro: "Plantațiile de cacao din Baracoa",
-      en: "Baracoa Cacao Plantations"
-    },
-    description: {
-      de: "Baracoa ist das Zentrum der kubanischen Schokoladenproduktion und reich an dichten Kakaowäldern.",
-      hu: "Baracoa a kubai csokoládégyártás központja, és gazdag sűrű kakaóerdőkben.",
-      ro: "Baracoa este centrul producției cubaneze de ciocolată și este bogat în păduri dese de cacao.",
-      en: "Baracoa is the center of Cuban chocolate production and is rich in dense cacao forests."
-    },
-    facts: {
-      de: [
-        "Fast der gesamte kubanische Kakao stammt aus dieser Region.",
-        "Das feuchte Klima hier ist perfekt für die Pflanzen."
-      ],
-      hu: [
-        "Szinte az összes kubai kakaó ebből a régióból származik.",
-        "Az itteni nedves éghajlat tökéletes a növények számára."
-      ],
-      ro: [
-        "Aproape tot cacaua cubaneză provine din această regiune.",
-        "Climatul umed de aici este perfect pentru plante."
-      ],
-      en: [
-        "Almost all Cuban cacao comes from this region.",
-        "The humid climate here is perfect for the plants."
-      ]
-    }
-  },
-  {
-    id: "cu-flamingo-lagoon-life-v2",
+    id: "zoologico-nacional-cuba-life-v2",
     type: "animal-habitat",
-    parent: "CU-08",
-    coords: [-78.48, 22.51],
-    name: {
-      de: "Laguna de los Flamencos",
-      hu: "Flamingó-lagúna",
-      ro: "Laguna Flamingilor",
-      en: "Flamingo Lagoon"
-    },
+    parent: "CU-10",
+    coords: [-82.3550, 23.0850],
+    name: { de: "Nationaler Zoo von Kuba", hu: "Kubai Nemzeti Állatkert", ro: "Grădina Zoologică Națională din Cuba", en: "National Zoo of Cuba" },
     description: {
-      de: "Ein flaches Küstengewässer vor Cayo Coco, das große Kolonien von rosa Flamingos anzieht.",
-      hu: "Sekély parti víz Cayo Coco partjainál, amely nagy rózsaszín flamingó kolóniákat vonz.",
-      ro: "O apă de coastă puțin adâncă în largul insulei Cayo Coco, care atrage colonii mari de flamingo roz.",
-      en: "A shallow coastal water off Cayo Coco that attracts large colonies of pink flamingos."
+      de: "Ein weitläufiger Zoo in Havanna mit Freigehegen für viele afrikanische Tiere.",
+      hu: "Tágas állatkert Havannában, szabad téri kifutókkal számos afrikai állat számára.",
+      ro: "O grădină zoologică vastă în Havana, cu incinte în aer liber pentru multe animale africane.",
+      en: "A spacious zoo in Havana featuring open-air enclosures for many African animals."
     },
     facts: {
-      de: [
-        "Die Vögel finden hier reichlich Nahrung im salzigen Wasser.",
-        "Es ist ein wichtiges Ziel für Vogelbeobachter."
-      ],
-      hu: [
-        "A madarak bőséges táplálékot találnak itt a sós vízben.",
-        "A madármegfigyelők fontos célpontja."
-      ],
-      ro: [
-        "Păsările găsesc aici hrană abundentă în apa sărată.",
-        "Este o destinație importantă pentru observatorii de păsări."
-      ],
-      en: [
-        "The birds find abundant food here in the salty water.",
-        "It is an important destination for birdwatchers."
-      ]
-    }
-  },
+      de: ["Gegründet 1984", "Über 800 Tiere", "Spezialisierung auf afrikanische Arten", "Großzügige Freianlagen"],
+      hu: ["1984-ben alapították", "Több mint 800 állat", "Afrikai fajokra specializálódott", "Tágas szabadtéri létesítmények"],
+      ro: ["Fondată în 1984", "Peste 800 de animale", "Specializată în specii africane", "Incinte generoase în aer liber"],
+      en: ["Founded in 1984", "Over 800 animals", "Specializes in African species", "Spacious open-air habitats"]
+    }, image: "/poi-images/zoologico-nacional-cuba-life-v2.webp"},
   {
-    id: "cu-guama-crocodile-life-v2",
-    type: "animal-habitat",
-    parent: "CU-04",
-    coords: [-81.12, 22.31],
-    name: {
-      de: "Krokodilfarm Boca de Guamá",
-      hu: "Boca de Guamá krokodilfarm",
-      ro: "Ferma de crocodili Boca de Guamá",
-      en: "Boca de Guamá Crocodile Farm"
-    },
-    description: {
-      de: "Eine Zuchtanlage auf der Zapata-Halbinsel zur Erhaltung des bedrohten Kubakrokodils.",
-      hu: "Tenyésztelep a Zapata-félszigeten a veszélyeztetett kubai krokodil megőrzése érdekében.",
-      ro: "O fermă de reproducere pe Peninsula Zapata pentru conservarea crocodilului cubanez, o specie pe cale de dispariție.",
-      en: "A breeding facility on the Zapata Peninsula for the conservation of the endangered Cuban crocodile."
-    },
-    facts: {
-      de: [
-        "Hier leben Hunderte von Krokodilen in verschiedenen Altersstufen.",
-        "Die Farm hilft, die Auswilderung der Tiere zu unterstützen."
-      ],
-      hu: [
-        "Több száz krokodil él itt különböző korosztályokban.",
-        "A farm segít támogatni az állatok szabadon engedését."
-      ],
-      ro: [
-        "Sute de crocodili de diferite vârste trăiesc aici.",
-        "Ferma ajută la sprijinirea eliberării animalelor în sălbăticie."
-      ],
-      en: [
-        "Hundreds of crocodiles of different ages live here.",
-        "The farm helps to support the release of the animals into the wild."
-      ]
-    }
-  },
-  {
-    id: "cu-cayo-naranjo-dolphinarium-life-v2",
-    type: "animal-habitat",
-    parent: "CU-11",
-    coords: [-75.92, 21.11],
-    name: {
-      de: "Delfinarium Cayo Naranjo",
-      hu: "Cayo Naranjo delfinárium",
-      ro: "Delfinariul Cayo Naranjo",
-      en: "Cayo Naranjo Dolphinarium"
-    },
-    description: {
-      de: "Ein natürliches Meeresaquarium in der Bucht von Naranjo, in dem Besucher Delfine in halbfreier Wildbahn beobachten können.",
-      hu: "Természetes tengeri akvárium a Naranjo-öbölben, ahol a látogatók félszabad környezetben figyelhetik meg a delfineket.",
-      ro: "Un acvariu marin natural în Golful Naranjo, unde vizitatorii pot observa delfini în sălbăticie pe jumătate.",
-      en: "A natural marine aquarium in Naranjo Bay where visitors can observe dolphins in a semi-wild environment."
-    },
-    facts: {
-      de: [
-        "Die Anlage ist nur mit dem Boot erreichbar.",
-        "Sie bietet pädagogische Programme über Meeresökologie."
-      ],
-      hu: [
-        "A létesítmény csak hajóval közelíthető meg.",
-        "Oktatási programokat kínál a tengeri ökológiáról."
-      ],
-      ro: [
-        "Instalația este accesibilă doar cu barca.",
-        "Oferă programe educaționale despre ecologia marină."
-      ],
-      en: [
-        "The facility is only accessible by boat.",
-        "It offers educational programs on marine ecology."
-      ]
-    }
-  },
-  {
-    id: "cu-soroa-hummingbird-life-v2",
-    type: "animal-habitat",
-    parent: "CU-02",
-    coords: [-83.01, 22.80],
-    name: {
-      de: "Kolibri-Habitat Soroa",
-      hu: "Soroa kolibriélőhely",
-      ro: "Habitatul colibriilor Soroa",
-      en: "Soroa Hummingbird Habitat"
-    },
-    description: {
-      de: "Dank der dichten Vegetation und Blütenpracht in Soroa ist dieses Gebiet ein Paradies für zahlreiche Kolibri-Arten.",
-      hu: "A sűrű növényzetnek és Soroa virágpompájának köszönhetően ez a terület számos kolibrifaj paradicsoma.",
-      ro: "Datorită vegetației dense și a florilor din Soroa, această zonă este un paradis pentru numeroase specii de colibri.",
-      en: "Thanks to the dense vegetation and blooming flowers in Soroa, this area is a paradise for numerous hummingbird species."
-    },
-    facts: {
-      de: [
-        "Hier kann man den kleinsten Vogel der Welt sehen.",
-        "Die Tiere werden von hunderten Orchideenarten angezogen."
-      ],
-      hu: [
-        "Itt látható a világ legkisebb madara.",
-        "Az állatokat orchideafajok százai vonzzák."
-      ],
-      ro: [
-        "Aici puteți vedea cea mai mică pasăre din lume.",
-        "Animalele sunt atrase de sute de specii de orhidee."
-      ],
-      en: [
-        "Here you can see the smallest bird in the world.",
-        "The animals are attracted by hundreds of orchid species."
-      ]
-    }
-  },
-  {
-    id: "cu-juventud-manatee-life-v2",
-    type: "animal-habitat",
-    parent: "CU-99",
-    coords: [-82.85, 21.61],
-    name: {
-      de: "Seekuh-Schutzgebiet Isla de la Juventud",
-      hu: "Isla de la Juventud lamantinrezervátum",
-      ro: "Rezervația de manate Isla de la Juventud",
-      en: "Isla de la Juventud Manatee Sanctuary"
-    },
-    description: {
-      de: "Ein geschütztes Küstengewässer im Süden der Insel, das Rückzugsort für bedrohte Karibik-Seekühe bietet.",
-      hu: "Védett parti vizek a sziget déli részén, amelyek menedéket nyújtanak a veszélyeztetett karibi lamantinok számára.",
-      ro: "Ape de coastă protejate în sudul insulei, care oferă refugiu pentru manatele caraibiene pe cale de dispariție.",
-      en: "Protected coastal waters in the south of the island that provide refuge for endangered Caribbean manatees."
-    },
-    facts: {
-      de: [
-        "Seekühe grasen friedlich in den Seegraswiesen.",
-        "Der Bootsverkehr ist hier streng reguliert."
-      ],
-      hu: [
-        "A lamantinok békésen legelésznek a tengerifű-mezőkön.",
-        "A hajóforgalom itt szigorúan szabályozott."
-      ],
-      ro: [
-        "Manatele pasc pașnic în pajiștile de iarbă de mare.",
-        "Traficul cu barca este strict reglementat aici."
-      ],
-      en: [
-        "Manatees graze peacefully in the seagrass meadows.",
-        "Boat traffic is strictly regulated here."
-      ]
-    }
-  },
-  {
-    id: "cu-botanic-flora-habitat-life-v2",
-    type: "animal-habitat",
-    parent: "CU-03",
-    coords: [-82.33, 22.98],
-    name: {
-      de: "Flora-Habitat Jardín Botánico",
-      hu: "Jardín Botánico növényélőhely",
-      ro: "Habitatul florei Jardín Botánico",
-      en: "Jardín Botánico Flora Habitat"
-    },
-    description: {
-      de: "Der Nationalgarten bewahrt tausende einheimische Pflanzenarten, die wiederum Lebensraum für Insekten und Vögel bieten.",
-      hu: "A nemzeti kert több ezer őshonos növényfajt őriz meg, amelyek rovarok és madarak élőhelyéül szolgálnak.",
-      ro: "Grădina națională conservă mii de specii de plante native, care la rândul lor oferă habitat pentru insecte și păsări.",
-      en: "The national garden conserves thousands of native plant species, which in turn provide habitat for insects and birds."
-    },
-    facts: {
-      de: [
-        "Das Gelände ist in verschiedene biogeografische Zonen unterteilt.",
-        "Hier wachsen zahlreiche Palmenarten."
-      ],
-      hu: [
-        "A terület különböző biogeográfiai zónákra oszlik.",
-        "Számos pálmafaj nő itt."
-      ],
-      ro: [
-        "Terenul este împărțit în diferite zone biogeografice.",
-        "Numeroase specii de palmieri cresc aici."
-      ],
-      en: [
-        "The area is divided into different biogeographical zones.",
-        "Numerous palm species grow here."
-      ]
-    }
-  },
-  {
-    id: "cu-rio-maximo-sanctuary-life-v2",
+    id: "criadero-cocodrilos-zapata-life-v2",
     type: "animal-habitat",
     parent: "CU-09",
-    coords: [-77.41, 21.75],
-    name: {
-      de: "Schutzgebiet Río Máximo",
-      hu: "Río Máximo rezervátum",
-      ro: "Rezervația Río Máximo",
-      en: "Río Máximo Sanctuary"
-    },
+    coords: [-81.1600, 22.2800],
+    name: { de: "Krokodilfarm Zapata", hu: "Zapata Krokodilfarm", ro: "Ferma de crocodili Zapata", en: "Zapata Crocodile Farm" },
     description: {
-      de: "Dieses Reservat an der Nordküste Kubas beherbergt den größten Nistplatz für rosa Flamingos in der Karibik.",
-      hu: "Kuba északi partján található ez a rezervátum, amely a Karib-térség legnagyobb rózsaszín flamingó fészkelőhelye.",
-      ro: "Această rezervație de pe coasta de nord a Cubei găzduiește cel mai mare loc de cuibărit pentru flamingo roz din Caraibe.",
-      en: "This reserve on the north coast of Cuba is home to the largest nesting site for pink flamingos in the Caribbean."
+      de: "Ein Zucht- und Schutzzentrum für das seltene kubanische Krokodil.",
+      hu: "Tenyésztő- és védelmi központ a ritka kubai krokodil számára.",
+      ro: "Un centru de reproducere și conservare pentru rarul crocodil cubanez.",
+      en: "A breeding and conservation center for the rare Cuban crocodile."
     },
     facts: {
-      de: [
-        "Zehntausende Flamingos versammeln sich hier zur Brutzeit.",
-        "Das Gebiet ist ein sensibles Ökosystem aus Mangroven und Lagunen."
-      ],
-      hu: [
-        "Több tízezer flamingó gyűlik itt össze a költési időszakban.",
-        "A terület a mangrovek és a lagúnák érzékeny ökoszisztémája."
-      ],
-      ro: [
-        "Zeci de mii de flamingo se adună aici în sezonul de reproducere.",
-        "Zona este un ecosistem sensibil de mangrove și lagune."
-      ],
-      en: [
-        "Tens of thousands of flamingos gather here during the breeding season.",
-        "The area is a sensitive ecosystem of mangroves and lagoons."
-      ]
+      de: ["Schutz des kubanischen Krokodils", "Forschungszentrum", "Lernstation für Kinder", "Mitten im Zapata-Sumpf"],
+      hu: ["A kubai krokodil védelme", "Kutatóközpont", "Tanulóközpont gyermekek számára", "A Zapata-mocsár közepén"],
+      ro: ["Protecția crocodilului cubanez", "Centru de cercetare", "Centru educațional pentru copii", "În mijlocul mlaștinilor Zapata"],
+      en: ["Conservation of the Cuban crocodile", "Research center", "Educational hub for children", "Located within the Zapata Swamp"]
+    }, image: "/poi-images/criadero-cocodrilos-zapata-life-v2.webp"},
+  {
+    id: "acuario-nacional-life-v2",
+    type: "kid-landmark",
+    parent: "CU-10",
+    coords: [-82.4700, 23.1300],
+    name: { de: "Nationales Aquarium von Kuba", hu: "Kuba Nemzeti Akváriuma", ro: "Acvariul Național din Cuba", en: "National Aquarium of Cuba" },
+    description: {
+      de: "Ein bekanntes Aquarium in Havanna mit Delfinshows und Meeresbiologie.",
+      hu: "Ismert akvárium Havannában, delfinshow-kkal és tengerbiológiai bemutatókkal.",
+      ro: "Un acvariu cunoscut în Havana, cu spectacole cu delfini și biologie marină.",
+      en: "A popular aquarium in Havana featuring dolphin shows and marine biology exhibits."
+    },
+    facts: {
+      de: ["Delfin- und Seelöwenshows", "Exponate über das kubanische Meer", "Bildungsprogramme für Schüler", "Direkt am Meer gelegen"],
+      hu: ["Delfin- és oroszlánfóka-showk", "Kiállítások a kubai tengerről", "Oktatási programok diákoknak", "Közvetlenül a tengerparton"],
+      ro: ["Spectacole cu delfini și lei de mare", "Expoziții despre marea cubaneză", "Programe educaționale pentru elevi", "Situat chiar pe malul mării"],
+      en: ["Dolphin and sea lion shows", "Exhibits on Cuban marine life", "Educational programs for students", "Located directly on the seafront"]
+    }, image: "/poi-images/acuario-nacional-life-v2.webp"},
+  {
+    id: "finca-agroecologica-el-paraiso-life-v2",
+    type: "agriculture",
+    parent: "CU-07",
+    coords: [-83.7000, 22.6100],
+    name: { de: "Agroökologische Farm El Paraíso", hu: "El Paraíso agroökológiai farm", ro: "Ferma agroecologică El Paraíso", en: "Agroecological Farm El Paraíso" },
+    description: {
+      de: "Ein traditioneller Bauernhof bei Viñales, der biologische Landwirtschaft vorführt.",
+      hu: "Hagyományos farm Viñales mellett, amely bemutatja az ökológiai gazdálkodást.",
+      ro: "O fermă tradițională lângă Viñales care demonstrează agricultura ecologică.",
+      en: "A traditional farm near Viñales demonstrating organic agricultural practices."
+    },
+    facts: {
+      de: ["Fokus auf ökologische Landwirtschaft", "Frische lokale Produkte", "Ideal für Familien", "Traditionelle Anbaumethoden"],
+      hu: ["Fókusz az ökológiai gazdálkodásra", "Friss helyi termékek", "Ideális családoknak", "Hagyományos termesztési módszerek"],
+      ro: ["Accent pe agricultura ecologică", "Produse locale proaspete", "Ideal pentru familii", "Metode tradiționale de cultivare"],
+      en: ["Focus on organic farming", "Fresh local produce", "Great experience for families", "Demonstrates traditional techniques"]
     }
   },
   {
-    id: "cu-cayo-largo-turtle-life-v2",
+    id: "parque-lenin-life-v2",
+    type: "kid-landmark",
+    parent: "CU-10",
+    coords: [-82.3800, 23.0600],
+    name: { de: "Parque Lenin", hu: "Lenin Park", ro: "Parcul Lenin", en: "Lenin Park" },
+    description: {
+      de: "Ein riesiger Freizeitpark in Havanna mit Spielplätzen und einer kleinen Eisenbahn.",
+      hu: "Hatalmas szabadidőpark Havannában, játszóterekkel és kisvasúttal.",
+      ro: "Un parc de agrement uriaș în Havana, cu locuri de joacă și o cale ferată mică.",
+      en: "A vast recreational park in Havana with playgrounds and a small train."
+    },
+    facts: {
+      de: ["Großer Erholungspark", "Kleine Parkeisenbahn", "Reitmöglichkeiten", "Kulturelle Veranstaltungen für Kinder"],
+      hu: ["Nagy szabadidőpark", "Kisvasút", "Lovaglási lehetőségek", "Kulturális események gyermekeknek"],
+      ro: ["Parc de agrement mare", "Trenuleț de parc", "Posibilități de călărie", "Evenimente culturale pentru copii"],
+      en: ["Large recreational park", "Small park train", "Horse riding facilities", "Cultural events for children"]
+    }, image: "/poi-images/parque-lenin-life-v2.webp"},
+  {
+    id: "centro-turistico-guamá-life-v2",
+    type: "kid-landmark",
+    parent: "CU-09",
+    coords: [-81.1500, 22.2500],
+    name: { de: "Tourismuszentrum Guamá", hu: "Guamá Turisztikai Központ", ro: "Centrul turistic Guamá", en: "Guamá Tourist Center" },
+    description: {
+      de: "Ein Dorf im Taino-Stil, das per Boot im Zapata-Sumpf erreicht wird.",
+      hu: "Taino stílusú falu, amely hajóval érhető el a Zapata-mocsárban.",
+      ro: "Un sat în stil Taino, accesibil cu barca în mlaștinile Zapata.",
+      en: "A Taino-style village reachable by boat within the Zapata Swamp."
+    },
+    facts: {
+      de: ["Nachbau eines Taino-Dorfes", "Zugang nur per Boot", "Interessant für Kinder", "Kulturelles Erbe"],
+      hu: ["Taino falu másolata", "Csak hajóval érhető el", "Érdekes gyermekek számára", "Kulturális örökség"],
+      ro: ["Reconstituirea unui sat Taino", "Accesibil doar cu barca", "Interesant pentru copii", "Moștenire culturală"],
+      en: ["Recreation of a Taino village", "Accessible only by boat", "Engaging for children", "Showcases indigenous cultural history"]
+    }, image: "/poi-images/centro-turistico-guamá-life-v2.webp"},
+  {
+    id: "finca-la-vigia-life-v2",
+    type: "agriculture",
+    parent: "CU-10",
+    coords: [-82.2900, 23.0600],
+    name: { de: "Finca Vigía Garten", hu: "Finca Vigía kert", ro: "Grădina Finca Vigía", en: "Finca Vigía Gardens" },
+    description: {
+      de: "Die weitläufigen Gärten von Ernest Hemingways Anwesen.",
+      hu: "Ernest Hemingway birtokának hatalmas kertjei.",
+      ro: "Grădinile vaste ale domeniului lui Ernest Hemingway.",
+      en: "The lush and expansive gardens surrounding Ernest Hemingway's estate."
+    },
+    facts: {
+      de: ["Historischer Garten", "Heimat tropischer Pflanzen", "Spazierwege", "Ruhige Atmosphäre"],
+      hu: ["Történelmi kert", "Trópusi növények otthona", "Sétányok", "Csendes légkör"],
+      ro: ["Grădină istorică", "Căminul plantelor tropicale", "Alei de promenadă", "Atmosferă liniștită"],
+      en: ["Historic garden setting", "Home to tropical flora", "Walking paths", "Peaceful atmosphere"]
+    }, image: "/poi-images/finca-la-vigia-life-v2.webp"},
+  {
+    id: "jardines-del-rey-flora-life-v2",
     type: "animal-habitat",
-    parent: "CU-99",
-    coords: [-81.52, 21.61],
-    name: {
-      de: "Schildkröten-Nistplatz Cayo Largo",
-      hu: "Cayo Largo teknősfészek",
-      ro: "Cuibul de țestoase Cayo Largo",
-      en: "Cayo Largo Turtle Nesting Site"
-    },
-    description: {
-      de: "Die unberührten Sandstrände der Insel dienen Meeresschildkröten jedes Jahr als wichtiger Ort zur Eiablage.",
-      hu: "A sziget érintetlen homokos strandjai minden évben fontos tojásrakó helyként szolgálnak a tengeri teknősök számára.",
-      ro: "Plajele cu nisip virgin ale insulei servesc în fiecare an ca loc important de depunere a ouălor pentru țestoasele marine.",
-      en: "The pristine sandy beaches of the island serve as an important egg-laying site for sea turtles every year."
-    },
-    facts: {
-      de: [
-        "Freiwillige helfen oft beim Schutz der Nester.",
-        "Karettschildkröten und Grüne Meeresschildkröten sind hier häufig."
-      ],
-      hu: [
-        "Az önkéntesek gyakran segítenek a fészkek védelmében.",
-        "A cserepesteknősök és a közönséges levesteknősök gyakoriak itt."
-      ],
-      ro: [
-        "Voluntarii ajută adesea la protejarea cuiburilor.",
-        "Țestoasele Hawksbill și țestoasele verzi de mare sunt comune aici."
-      ],
-      en: [
-        "Volunteers often help protect the nests.",
-        "Hawksbill turtles and green sea turtles are common here."
-      ]
-    }
-  },
-  {
-    id: "cu-matanzas-bat-caves-life-v2",
-    type: "animal-habitat",
-    parent: "CU-04",
-    coords: [-81.55, 23.01],
-    name: {
-      de: "Fledermaushöhlen von Matanzas",
-      hu: "Matanzas denevérbarlangjai",
-      ro: "Peșterile cu lilieci din Matanzas",
-      en: "Matanzas Bat Caves"
-    },
-    description: {
-      de: "Die ausgedehnten Karsthöhlen der Region bieten den idealen Unterschlupf für viele Fledermausarten Kubas.",
-      hu: "A régió kiterjedt karsztbarlangjai ideális menedéket nyújtanak számos kubai denevérfaj számára.",
-      ro: "Peșterile carstice extinse din regiune oferă adăpostul ideal pentru multe specii de lilieci din Cuba.",
-      en: "The extensive karst caves in the region provide the ideal shelter for many of Cuba's bat species."
-    },
-    facts: {
-      de: [
-        "Einige Arten fressen Insekten, andere ernähren sich von Früchten.",
-        "Die Höhlen sind tief in die Kalksteinfelsen gegraben."
-      ],
-      hu: [
-        "Egyes fajok rovarokat esznek, mások gyümölcsökkel táplálkoznak.",
-        "A barlangokat mélyen a mészkősziklákba vájták."
-      ],
-      ro: [
-        "Unele specii mănâncă insecte, altele se hrănesc cu fructe.",
-        "Peșterile sunt săpate adânc în stâncile de calcar."
-      ],
-      en: [
-        "Some species eat insects, others feed on fruits.",
-        "The caves are carved deep into the limestone rocks."
-      ]
-    }
-  },
-  {
-    id: "cu-cuban-crocodile-sanctuary-life-v2",
-    type: "animal-habitat",
-    parent: "CU-04",
-    coords: [-81.25, 22.25],
-    name: {
-      de: "Kubakrokodil-Schutzgebiet",
-      hu: "Kubai krokodilrezervátum",
-      ro: "Rezervația crocodilului cubanez",
-      en: "Cuban Crocodile Sanctuary"
-    },
-    description: {
-      de: "Ein Sumpfgebiet, das speziell als streng geschützter Lebensraum für das endemische Kubakrokodil dient.",
-      hu: "Mocsárvidék, amely kifejezetten a bennszülött kubai krokodil szigorúan védett élőhelyeként szolgál.",
-      ro: "O mlaștină care servește ca un habitat strict protejat pentru crocodilul endemic cubanez.",
-      en: "A swampy area that serves specifically as a strictly protected habitat for the endemic Cuban crocodile."
-    },
-    facts: {
-      de: [
-        "Das Kubakrokodil gilt als eine der aggressivsten Arten.",
-        "Das Gebiet grenzt an dichte Mangrovenwälder."
-      ],
-      hu: [
-        "A kubai krokodilt az egyik legagresszívabb fajnak tartják.",
-        "A terület sűrű mangroveerdőkkel határos."
-      ],
-      ro: [
-        "Crocodilul cubanez este considerat una dintre cele mai agresive specii.",
-        "Zona se învecinează cu păduri dense de mangrove."
-      ],
-      en: [
-        "The Cuban crocodile is considered one of the most aggressive species.",
-        "The area borders dense mangrove forests."
-      ]
-    }
-  },
-  {
-    id: "cu-havana-national-zoo-life-v2",
-    type: "kid-landmark",
-    parent: "CU-03",
-    coords: [-82.41, 23.05],
-    name: {
-      de: "Nationalzoo Havanna",
-      hu: "Havannai Nemzeti Állatkert",
-      ro: "Grădina Zoologică Națională din Havana",
-      en: "Havana National Zoo"
-    },
-    description: {
-      de: "Ein weitläufiger Zoo ohne traditionelle Käfige, wo Tiere auf großen Flächen herumlaufen und Besucher Safaris unternehmen.",
-      hu: "Hatalmas állatkert hagyományos ketrecek nélkül, ahol az állatok nagy területeken kóborolnak, és a látogatók szafarizhatnak.",
-      ro: "O grădină zoologică extinsă, fără cuști tradiționale, unde animalele cutreieră suprafețe mari și vizitatorii pot face safari.",
-      en: "A sprawling zoo with no traditional cages where animals roam large areas and visitors take safaris."
-    },
-    facts: {
-      de: [
-        "Die Löwengehege können mit gesicherten Bussen befahren werden.",
-        "Der Zoo beherbergt viele afrikanische Tierarten."
-      ],
-      hu: [
-        "Az oroszlánok kifutóiba biztonságos buszokkal lehet behajtani.",
-        "Az állatkert számos afrikai állatfajnak ad otthont."
-      ],
-      ro: [
-        "Incintele pentru lei pot fi vizitate cu autobuze securizate.",
-        "Grădina zoologică găzduiește multe specii de animale africane."
-      ],
-      en: [
-        "The lion enclosures can be visited with secured buses.",
-        "The zoo is home to many African animal species."
-      ]
-    }
-  },
-  {
-    id: "cu-parque-maestranza-life-v2",
-    type: "kid-landmark",
-    parent: "CU-03",
-    coords: [-82.35, 23.14],
-    name: {
-      de: "Parque La Maestranza",
-      hu: "Parque La Maestranza",
-      ro: "Parque La Maestranza",
-      en: "Parque La Maestranza"
-    },
-    description: {
-      de: "Ein lebhafter Kinderpark an der Hafenpromenade von Havanna mit Hüpfburgen und historischen Karussells.",
-      hu: "Élénk gyermekpark a havannai tengerparti sétányon, ugrálóvárakkal és történelmi körhintákkal.",
-      ro: "Un parc pentru copii plin de viață pe promenada din Havana, cu castele gonflabile și carusele istorice.",
-      en: "A lively children's park on the Havana waterfront promenade with bouncy castles and historic carousels."
-    },
-    facts: {
-      de: [
-        "Der Park liegt direkt gegenüber der berühmten Festung.",
-        "Er ist am Wochenende ein sehr beliebter Familienausflugsort."
-      ],
-      hu: [
-        "A park közvetlenül a híres erőddel szemben található.",
-        "Hétvégén nagyon népszerű családi kirándulóhely."
-      ],
-      ro: [
-        "Parcul este chiar vizavi de faimoasa fortăreață.",
-        "Este un loc de excursie în familie foarte popular în weekend."
-      ],
-      en: [
-        "The park is right across from the famous fortress.",
-        "It is a very popular family outing destination on weekends."
-      ]
-    }
-  },
-  {
-    id: "cu-national-aquarium-life-v2",
-    type: "kid-landmark",
-    parent: "CU-03",
-    coords: [-82.43, 23.12],
-    name: {
-      de: "Nationalaquarium Kuba",
-      hu: "Kubai Nemzeti Akvárium",
-      ro: "Acvariul Național al Cubei",
-      en: "National Aquarium of Cuba"
-    },
-    description: {
-      de: "Ein beliebtes Aquarium in Miramar, das die faszinierende Meeresvielfalt der Karibik präsentiert.",
-      hu: "Népszerű akvárium Miramarban, amely a Karib-térség lenyűgöző tengeri sokféleségét mutatja be.",
-      ro: "Un acvariu popular din Miramar care prezintă diversitatea marină fascinantă din Caraibe.",
-      en: "A popular aquarium in Miramar that presents the fascinating marine diversity of the Caribbean."
-    },
-    facts: {
-      de: [
-        "Hier gibt es regelmäßige Seelöwen-Shows.",
-        "Das Aquarium widmet sich auch der Umweltbildung für Kinder."
-      ],
-      hu: [
-        "Itt rendszeres oroszlánfóka show-kat tartanak.",
-        "Az akvárium a gyermekek környezeti nevelésének is szenteli magát."
-      ],
-      ro: [
-        "Aici au loc spectacole regulate cu lei de mare.",
-        "Acvariul este dedicat și educației de mediu pentru copii."
-      ],
-      en: [
-        "There are regular sea lion shows here.",
-        "The aquarium is also dedicated to environmental education for children."
-      ]
-    }
-  },
-  {
-    id: "cu-santiago-amusement-life-v2",
-    type: "kid-landmark",
-    parent: "CU-13",
-    coords: [-75.81, 20.02],
-    name: {
-      de: "Vergnügungspark Santiago de Cuba",
-      hu: "Santiago de Cuba-i vidámpark",
-      ro: "Parcul de distracții Santiago de Cuba",
-      en: "Santiago de Cuba Amusement Park"
-    },
-    description: {
-      de: "Der Hauptvergnügungspark der Stadt bietet Riesenräder, Fahrgeschäfte und Zuckerwatte-Stände für Kinder.",
-      hu: "A város fő vidámparkja óriáskerekeket, túrákat és vattacukor-standokat kínál a gyermekek számára.",
-      ro: "Principalul parc de distracții al orașului oferă roți panoramice, plimbări și standuri cu vată de zahăr pentru copii.",
-      en: "The city's main amusement park offers Ferris wheels, rides, and cotton candy stands for children."
-    },
-    facts: {
-      de: [
-        "Besonders an Feiertagen ist der Park sehr gut besucht.",
-        "Er bietet einen schönen Blick auf die umliegenden Hügel."
-      ],
-      hu: [
-        "A park különösen ünnepnapokon nagyon forgalmas.",
-        "Gyönyörű kilátást nyújt a környező dombokra."
-      ],
-      ro: [
-        "Parcul este deosebit de aglomerat în zilele de sărbătoare.",
-        "Oferă o vedere frumoasă asupra dealurilor din jur."
-      ],
-      en: [
-        "The park is particularly busy on holidays.",
-        "It offers a beautiful view of the surrounding hills."
-      ]
-    }
-  },
-  {
-    id: "cu-parque-lenin-life-v2",
-    type: "kid-landmark",
-    parent: "CU-03",
-    coords: [-82.38, 22.98],
-    name: {
-      de: "Parque Lenin Havanna",
-      hu: "Havannai Lenin Park",
-      ro: "Parcul Lenin Havana",
-      en: "Havana Lenin Park"
-    },
-    description: {
-      de: "Ein gigantischer Erholungspark südlich von Havanna mit einem Stausee, einem kleinen Vergnügungspark und Reitwegen.",
-      hu: "Egy hatalmas rekreációs park Havannától délre, víztározóval, kis vidámparkkal és lovas ösvényekkel.",
-      ro: "Un parc de agrement gigantic la sud de Havana, cu un lac de acumulare, un mic parc de distracții și trasee de echitație.",
-      en: "A gigantic recreation park south of Havana with a reservoir, a small amusement park, and riding trails."
-    },
-    facts: {
-      de: [
-        "Der Park umfasst über 400 Hektar Grünfläche.",
-        "Er beherbergt eine historische Schmalspureisenbahn."
-      ],
-      hu: [
-        "A park több mint 400 hektárnyi zöldfelületet ölel fel.",
-        "Egy történelmi keskeny nyomtávú vasútnak is otthont ad."
-      ],
-      ro: [
-        "Parcul acoperă peste 400 de hectare de spații verzi.",
-        "Găzduiește o cale ferată istorică cu ecartament îngust."
-      ],
-      en: [
-        "The park covers over 400 hectares of green space.",
-        "It is home to a historic narrow-gauge railway."
-      ]
-    }
-  },
-  {
-    id: "cu-tarara-pioneers-life-v2",
-    type: "kid-landmark",
-    parent: "CU-03",
-    coords: [-82.20, 23.17],
-    name: {
-      de: "Pionierinsel Tarará",
-      hu: "Tarará úttörősziget",
-      ro: "Insula pionierilor Tarará",
-      en: "Tarará Pioneers Island"
-    },
-    description: {
-      de: "Ehemals ein riesiges Ferienlager für kubanische Kinder mit schönen Stränden und Sportanlagen.",
-      hu: "Korábban egy hatalmas nyaralótábor kubai gyerekeknek, gyönyörű strandokkal és sportlétesítményekkel.",
-      ro: "Fostă tabără uriașă de vacanță pentru copiii cubanezi, cu plaje frumoase și facilități sportive.",
-      en: "Formerly a huge holiday camp for Cuban children with beautiful beaches and sports facilities."
-    },
-    facts: {
-      de: [
-        "Das Gelände liegt östlich der Hauptstadt Havanna.",
-        "Es diente zeitweise auch als medizinisches Erholungszentrum."
-      ],
-      hu: [
-        "A terület a fővárostól, Havannától keletre található.",
-        "Időnként orvosi rekreációs központként is működött."
-      ],
-      ro: [
-        "Zona este situată la est de capitala Havana.",
-        "Uneori a servit și ca centru medical de recreere."
-      ],
-      en: [
-        "The area is located east of the capital Havana.",
-        "At times it also served as a medical recreation center."
-      ]
-    }
-  },
-  {
-    id: "cu-todo-en-uno-life-v2",
-    type: "kid-landmark",
-    parent: "CU-04",
-    coords: [-81.25, 23.15],
-    name: {
-      de: "Freizeitpark Todo en Uno",
-      hu: "Todo en Uno vidámpark",
-      ro: "Parcul de distracții Todo en Uno",
-      en: "Todo en Uno Amusement Park"
-    },
-    description: {
-      de: "Ein Unterhaltungszentrum in Varadero, das Fahrgeschäfte, Spielhallen und Aktivitäten für Kinder bündelt.",
-      hu: "Varadero-i szórakoztató központ, amely túrákat, játéktermeket és gyermekprogramokat kínál.",
-      ro: "Un centru de divertisment din Varadero care reunește plimbări, arcade și activități pentru copii.",
-      en: "An entertainment center in Varadero that brings together rides, arcades, and activities for children."
-    },
-    facts: {
-      de: [
-        "Es ist ein beliebter Anlaufpunkt für einheimische Familien.",
-        "Es gibt sogar eine kleine Achterbahn."
-      ],
-      hu: [
-        "Népszerű célpont a helyi családok számára.",
-        "Még egy kis hullámvasút is van."
-      ],
-      ro: [
-        "Este o destinație populară pentru familiile locale.",
-        "Există chiar și un mic roller coaster."
-      ],
-      en: [
-        "It is a popular destination for local families.",
-        "There is even a small roller coaster."
-      ]
-    }
-  },
-  {
-    id: "cu-ciego-avila-zoo-life-v2",
-    type: "kid-landmark",
     parent: "CU-08",
-    coords: [-78.76, 21.84],
-    name: {
-      de: "Zoo Ciego de Ávila",
-      hu: "Ciego de Ávila-i állatkert",
-      ro: "Zoo Ciego de Ávila",
-      en: "Ciego de Ávila Zoo"
-    },
+    coords: [-78.5000, 22.5000],
+    name: { de: "Jardines del Rey Flora", hu: "Jardines del Rey növényvilága", ro: "Flora Jardines del Rey", en: "Jardines del Rey Flora" },
     description: {
-      de: "Ein städtischer Zoo in Zentral-Kuba, der als grüner Lernort für die lokale Jugend dient.",
-      hu: "Közép-Kuba városi állatkertje, amely zöld tanulási helyként szolgál a helyi ifjúság számára.",
-      ro: "O grădină zoologică urbană din centrul Cubei, care servește ca un loc verde de învățare pentru tineretul local.",
-      en: "An urban zoo in central Cuba that serves as a green learning place for local youth."
+      de: "Ein Schutzgebiet auf den Inseln für einheimische Vögel und Reptilien.",
+      hu: "Védett terület a szigeteken őshonos madarak és hüllők számára.",
+      ro: "Zonă protejată pe insule pentru păsări și reptile native.",
+      en: "A protected area on the islands for native birds and reptiles."
     },
     facts: {
-      de: [
-        "Viele Schulklassen besuchen den Park unter der Woche.",
-        "Es gibt Picknickbereiche unter schattigen Bäumen."
-      ],
-      hu: [
-        "Hét közben sok iskolai osztály látogatja a parkot.",
-        "Vannak piknikező helyek az árnyékos fák alatt."
-      ],
-      ro: [
-        "Multe clase școlare vizitează parcul în timpul săptămânii.",
-        "Există zone de picnic sub copaci umbroși."
-      ],
-      en: [
-        "Many school classes visit the park during the week.",
-        "There are picnic areas under shady trees."
-      ]
-    }
-  },
+      de: ["Beobachtung von Wildtieren", "Schutzgebiet", "Ideal für Vogelliebhaber", "Natürliche Strände"],
+      hu: ["Vadon élő állatok megfigyelése", "Védett terület", "Ideális madármegfigyelőknek", "Természetes strandok"],
+      ro: ["Observarea animalelor sălbatice", "Zonă protejată", "Ideal pentru observarea păsărilor", "Plaje naturale"],
+      en: ["Wildlife observation", "Protected habitat", "Great for birdwatchers", "Natural beach setting"]
+    }, image: "/poi-images/jardines-del-rey-flora-life-v2.webp"},
   {
-    id: "cu-valle-prehistoria-life-v2",
+    id: "valle-prehistoria-life-v2",
     type: "kid-landmark",
     parent: "CU-13",
-    coords: [-75.62, 19.92],
-    name: {
-      de: "Valle de la Prehistoria",
-      hu: "Valle de la Prehistoria",
-      ro: "Valle de la Prehistoria",
-      en: "Prehistory Valley"
-    },
+    coords: [-75.4600, 19.9000],
+    name: { de: "Tal der Urzeit", hu: "Őstörténeti völgy", ro: "Valea Preistoriei", en: "Prehistoric Valley" },
     description: {
-      de: "Ein riesiger Park mit lebensgroßen Beton-Dinosauriern, die Kinder in eine längst vergangene Zeit versetzen.",
-      hu: "Hatalmas park életnagyságú beton dinoszauruszokkal, amelyek a gyerekeket egy régen letűnt korba repítik.",
-      ro: "Un parc uriaș cu dinozauri de beton în mărime naturală, care îi transportă pe copii într-o epocă de mult apusă.",
-      en: "A huge park with life-size concrete dinosaurs that transport children to a bygone era."
+      de: "Ein Bereich im Baconao Park mit lebensgroßen Dinosaurier-Skulpturen.",
+      hu: "Terület a Baconao Parkban, élethű dinoszaurusz-szobrokkal.",
+      ro: "O zonă în parcul Baconao cu sculpturi de dinozauri în mărime naturală.",
+      en: "A section in Baconao Park with life-sized dinosaur sculptures."
     },
     facts: {
-      de: [
-        "Der Park enthält mehr als 200 Dinosaurier-Statuen.",
-        "Eine gigantische Statue des Brontosaurus dominiert das Tal."
-      ],
-      hu: [
-        "A park több mint 200 dinoszaurusz szobrot tartalmaz.",
-        "A völgyet egy hatalmas Brontosaurus szobor uralja."
-      ],
-      ro: [
-        "Parcul conține peste 200 de statui cu dinozauri.",
-        "O statuie gigantică a Brontozaurului domină valea."
-      ],
-      en: [
-        "The park contains more than 200 dinosaur statues.",
-        "A gigantic statue of the Brontosaurus dominates the valley."
-      ]
+      de: ["Über 200 Skulpturen", "Bildung für Kinder", "Outdoor-Attraktion", "Familienfreundlich"],
+      hu: ["Több mint 200 szobor", "Oktatás gyermekeknek", "Szabadtéri látnivaló", "Családbarát"],
+      ro: ["Peste 200 de sculpturi", "Educație pentru copii", "Atracție în aer liber", "Ideal pentru familii"],
+      en: ["Over 200 sculptures", "Educational for children", "Outdoor attraction", "Family-friendly"]
     }
   },
   {
-    id: "cu-havana-planetarium-life-v2",
-    type: "kid-landmark",
-    parent: "CU-03",
-    coords: [-82.35, 23.13],
-    name: {
-      de: "Planetarium Havanna",
-      hu: "Havannai Planetárium",
-      ro: "Planetariul din Havana",
-      en: "Havana Planetarium"
-    },
+    id: "zoologico-de-26-life-v2",
+    type: "animal-habitat",
+    parent: "CU-10",
+    coords: [-82.3900, 23.1200],
+    name: { de: "Zoo von Havanna (26. Juli)", hu: "Havannai Állatkert (Július 26.)", ro: "Grădina Zoologică din Havana (26 Iulie)", en: "Havana Zoo (July 26)" },
     description: {
-      de: "Ein interaktives Wissenschaftszentrum in der Altstadt von Havanna, das Kinder spielerisch an Astronomie heranführt.",
-      hu: "Interaktív tudományos központ Havanna óvárosában, amely játékos módon ismerteti meg a gyerekeket a csillagászattal.",
-      ro: "Un centru de știință interactiv din orașul vechi al Havanei, care îi introduce pe copii în astronomie într-un mod ludic.",
-      en: "An interactive science center in Old Havana that playfully introduces children to astronomy."
+      de: "Ein kleinerer städtischer Zoo im Herzen von Havanna.",
+      hu: "Kisebb városi állatkert Havanna szívében.",
+      ro: "O grădină zoologică urbană mai mică în inima Havanei.",
+      en: "A smaller urban zoo located in the heart of Havana."
     },
     facts: {
-      de: [
-        "Die beeindruckende Architektur beinhaltet eine große leuchtende Kugel.",
-        "Es wurde mit japanischer Unterstützung erbaut."
-      ],
-      hu: [
-        "A lenyűgöző építészet egy nagy világító gömböt tartalmaz.",
-        "Japán támogatással épült."
-      ],
-      ro: [
-        "Arhitectura impresionantă include o mare sferă luminoasă.",
-        "A fost construit cu sprijin japonez."
-      ],
-      en: [
-        "The impressive architecture includes a large luminous sphere.",
-        "It was built with Japanese support."
-      ]
+      de: ["Zentral gelegen", "Ideal für kurze Ausflüge", "Lokale Tierarten", "Schattige Wege"],
+      hu: ["Központi elhelyezkedés", "Ideális rövid kirándulásokhoz", "Helyi állatfajok", "Árnyékos sétányok"],
+      ro: ["Situată central", "Ideal pentru excursii scurte", "Specii locale", "Aleile umbrite"],
+      en: ["Centrally located", "Great for short visits", "Features local species", "Shady walkways"]
+    }, image: "/poi-images/zoologico-de-26-life-v2.webp"},
+  {
+    id: "finca-pinar-tabaco-life-v2",
+    type: "agriculture",
+    parent: "CU-07",
+    coords: [-83.6500, 22.4000],
+    name: { de: "Tabakfarm Pinar", hu: "Pinari dohányfarm", ro: "Ferma de tutun Pinar", en: "Pinar Tobacco Farm" },
+    description: {
+      de: "Eine der vielen Farmen in Pinar del Río, wo die besten Zigarren entstehen.",
+      hu: "Az egyik sok farm közül Pinar del Río-ban, ahol a legjobb szivarok készülnek.",
+      ro: ["Una dintre numeroasele ferme din Pinar del Río, unde se produc cele mai bune trabucuri.", "en: One of many farms in Pinar del Río where the best cigars originate."]
+    },
+    facts: {
+      de: ["Zentrum der Tabakproduktion", "Besichtigung der Trockenhäuser", "Traditionelle Handarbeit", "Kultur der Zigarren"],
+      hu: ["Dohánytermelés központja", "Szárítóházak megtekintése", "Hagyományos kézimunka", "Szivarkultúra"],
+      ro: ["Centrul producției de tutun", "Vizitarea caselor de uscare", "Muncă manuală tradițională", "Cultura trabucului"],
+      en: ["Center of tobacco production", "Tours of drying houses", "Traditional craftsmanship", "Cigar culture"]
+    }, image: "/poi-images/finca-pinar-tabaco-life-v2.webp"},
+  {
+    id: "plantacion-cafe-escambray-life-v2",
+    type: "agriculture",
+    parent: "CU-04",
+    coords: [-80.0500, 21.8500],
+    name: { de: "Kaffeeplantage Escambray", hu: "Escambray kávéültetvény", ro: "Plantația de cafea Escambray", en: "Escambray Coffee Plantation" },
+    description: {
+      de: "Ein Ort im Escambray-Gebirge mit traditionellem Kaffeeanbau.",
+      hu: "Hely az Escambray-hegységben, hagyományos kávétermesztéssel.",
+      ro: "Un loc în munții Escambray cu cultivare tradițională a cafelei.",
+      en: "A site in the Escambray Mountains featuring traditional coffee farming."
+    },
+    facts: {
+      de: ["Hochwertiger Kaffee", "Bergklima", "Traditionelle Verarbeitung", "Besichtigung möglich"],
+      hu: ["Kiváló minőségű kávé", "Hegyi klíma", "Hagyományos feldolgozás", "Látogatható"],
+      ro: ["Cafea de înaltă calitate", "Climat montan", "Procesare tradițională", "Vizitabil"],
+      en: ["High-quality coffee", "Mountain climate", "Traditional processing", "Tours available"]
+    }, image: "/poi-images/plantacion-cafe-escambray-life-v2.webp"},
+  {
+    id: "parque-kike-acosta-life-v2",
+    type: "kid-landmark",
+    parent: "CU-10",
+    coords: [-82.4000, 23.1100],
+    name: { de: "Parque Kike Acosta", hu: "Kike Acosta Park", ro: "Parcul Kike Acosta", en: "Kike Acosta Park" },
+    description: {
+      de: "Ein kleiner, kinderfreundlicher Park in Havanna.",
+      hu: "Kis, gyermekbarát park Havannában.",
+      ro: "Un parc mic, prietenos pentru copii în Havana.",
+      en: "A small, child-friendly park in Havana."
+    },
+    facts: {
+      de: ["Spielplatz", "Grünflächen", "Ruhiger Ort", "Lokale Gemeinschaft"],
+      hu: ["Játszótér", "Zöld területek", "Csendes hely", "Helyi közösség"],
+      ro: ["Loc de joacă", "Spații verzi", "Loc liniștit", "Comunitate locală"],
+      en: ["Playground", "Green spaces", "Quiet location", "Local community spot"]
+    }, image: "/poi-images/parque-kike-acosta-life-v2.webp"},
+  {
+    id: "finca-agroecologica-cayo-coco-life-v2",
+    type: "agriculture",
+    parent: "CU-08",
+    coords: [-78.5500, 22.5500],
+    name: { de: "Agroökologische Farm Cayo Coco", hu: "Cayo Coco agroökológiai farm", ro: "Ferma agroecologică Cayo Coco", en: "Agroecological Farm Cayo Coco" },
+    description: {
+      de: "Ein kleiner landwirtschaftlicher Betrieb auf der touristischen Insel.",
+      hu: "Kis mezőgazdasági üzem a turisztikai szigeten.",
+      ro: "O mică unitate agricolă pe insula turistică.",
+      en: "A small farming operation on the tourist island."
+    },
+    facts: {
+      de: ["Frische Produkte für Resorts", "Nachhaltige Methoden", "Lernen über Landwirtschaft", "Lokaler Beitrag"],
+      hu: ["Friss termékek az üdülőhelyeknek", "Fenntartható módszerek", "Tanulás a mezőgazdaságról", "Helyi hozzájárulás"],
+      ro: ["Produse proaspete pentru resorturi", "Metode sustenabile", "Învățare despre agricultură", "Contribuție locală"],
+      en: ["Fresh produce for resorts", "Sustainable methods", "Learning about agriculture", "Local contribution"]
+    }, image: "/poi-images/finca-agroecologica-cayo-coco-life-v2.webp"},
+  {
+    id: "zoologico-de-piedra-life-v2",
+    type: "animal-habitat",
+    parent: "CU-13",
+    coords: [-75.4000, 19.9500],
+    name: { de: "Steinzooland", hu: "Kő-állatvilág", ro: "Zoo de Piatră", en: "Stone Zoo" },
+    description: {
+      de: "Ein künstlerischer Park mit in Felsen gehauenen Tieren bei Guantánamo.",
+      hu: "Művészi park sziklákba faragott állatokkal Guantánamo közelében.",
+      ro: "Un parc artistic cu animale sculptate în stânci lângă Guantánamo.",
+      en: "An artistic park featuring animals carved into rocks near Guantánamo."
+    },
+    facts: {
+      de: ["Kunst aus Felsen", "Einzigartige Atmosphäre", "Kreative Darstellung", "Ausflugsziel"],
+      hu: ["Művészet sziklákból", "Egyedülálló légkör", "Kreatív ábrázolás", "Kirándulóhely"],
+      ro: ["Artă din stânci", "Atmosferă unică", "Reprezentare creativă", "Destinație de excursie"],
+      en: ["Art from rock", "Unique atmosphere", "Creative representations", "Excursion destination"]
+    }, image: "/poi-images/zoologico-de-piedra-life-v2.webp"},
+  {
+    id: "parque-carlos-manuel-de-cespedes-life-v2",
+    type: "kid-landmark",
+    parent: "CU-06",
+    coords: [-76.6200, 20.3700],
+    name: { de: "Parque Carlos Manuel de Céspedes", hu: "Carlos Manuel de Céspedes Park", ro: "Parcul Carlos Manuel de Céspedes", en: "Carlos Manuel de Céspedes Park" },
+    description: {
+      de: "Ein zentraler Park in Bayamo, ideal für Familien.",
+      hu: "Központi park Bayamóban, ideális családoknak.",
+      ro: "O piață centrală în Bayamo, ideală pentru familii.",
+      en: "A central park in Bayamo, ideal for families."
+    },
+    facts: {
+      de: ["Zentraler Treffpunkt", "Schattige Bäume", "Historisches Ambiente", "Familienfreundlich"],
+      hu: ["Központi találkozóhely", "Árnyas fák", "Történelmi hangulat", "Családbarát"],
+      ro: ["Punct central de întâlnire", "Copaci umbroși", "Ambient istoric", "Prietenos pentru familii"],
+      en: ["Central meeting spot", "Shady trees", "Historic ambiance", "Family-friendly"]
+    }, image: "/poi-images/parque-carlos-manuel-de-cespedes-life-v2.webp"},
+  {
+    id: "finca-organic-matanzas-life-v2",
+    type: "agriculture",
+    parent: "CU-05",
+    coords: [-81.5700, 23.0400],
+    name: { de: "Bio-Farm Matanzas", hu: "Matanzasi bio-farm", ro: "Bio-ferma Matanzas", en: "Organic Farm Matanzas" },
+    description: {
+      de: "Ein moderner landwirtschaftlicher Betrieb mit Fokus auf Nachhaltigkeit.",
+      hu: "Modern mezőgazdasági üzem, a fenntarthatóságra fókuszálva.",
+      ro: "O exploatație agricolă modernă cu accent pe sustenabilitate.",
+      en: "A modern farming operation with a focus on sustainability."
+    },
+    facts: {
+      de: ["Nachhaltiges Gemüse", "Moderne Methoden", "Bildung für Besucher", "Direktverkauf"],
+      hu: ["Fenntartható zöldségek", "Modern módszerek", "Oktatás látogatóknak", "Közvetlen értékesítés"],
+      ro: ["Legume sustenabile", "Metode moderne", "Educație pentru vizitatori", "Vânzare directă"],
+      en: ["Sustainable vegetables", "Modern methods", "Education for visitors", "Direct sales"]
+    }, image: "/poi-images/finca-organic-matanzas-life-v2.webp"},
+  {
+    id: "zoologico-camaguey-life-v2",
+    type: "animal-habitat",
+    parent: "CU-02",
+    coords: [-77.9200, 21.3900],
+    name: { de: "Zoo von Camagüey", hu: "Camagüeyi állatkert", ro: "Grădina Zoologică din Camagüey", en: "Camaguey Zoo" },
+    description: {
+      de: "Ein lokaler Zoo mit einer Vielzahl an Tieren in Camagüey.",
+      hu: "Helyi állatkert sokféle állattal Camagüeyben.",
+      ro: "O grădină zoologică locală cu o varietate de animale în Camagüey.",
+      en: "A local zoo with a variety of animals in Camaguey."
+    },
+    facts: {
+      de: ["Lokale und exotische Arten", "Bildung", "Entspannung", "Familienausflug"],
+      hu: ["Helyi és egzotikus fajok", "Oktatás", "Kikapcsolódás", "Családi kirándulás"],
+      ro: ["Specii locale și exotice", "Educație", "Relaxare", "Excursie de familie"],
+      en: ["Local and exotic species", "Education", "Relaxation", "Family outing"]
+    }, image: "/poi-images/zoologico-camaguey-life-v2.webp"},
+  {
+    id: "jardin-botanico-cienfuegos-life-v2",
+    type: "agriculture",
+    parent: "CU-05",
+    coords: [-80.4000, 22.1500],
+    name: { de: "Botanischer Garten Cienfuegos", hu: "Cienfuegosi Botanikus Kert", ro: "Grădina Botanică Cienfuegos", en: "Botanical Garden Cienfuegos" },
+    description: {
+      de: "Einer der ältesten botanischen Gärten Amerikas.",
+      hu: "Amerika egyik legrégebbi botanikus kertje.",
+      ro: "Una dintre cele mai vechi grădini botanice din America.",
+      en: "One of the oldest botanical gardens in the Americas."
+    },
+    facts: {
+      de: ["Riesige Artenvielfalt", "Forschung", "Bildung", "Schöne Spazierwege"],
+      hu: ["Hatalmas fajgazdagság", "Kutatás", "Oktatás", "Gyönyörű sétányok"],
+      ro: ["Diversitate imensă de specii", "Cercetare", "Educație", "Alei frumoase"],
+      en: ["Huge species diversity", "Research", "Education", "Beautiful walking paths"]
+    }, image: "/poi-images/jardin-botanico-cienfuegos-life-v2.webp"},
+  {
+    id: "parque-infantil-cuba-life-v2",
+    type: "kid-landmark",
+    parent: "CU-10",
+    coords: [-82.3600, 23.1300],
+    name: { de: "Parque Infantil de La Habana", hu: "Havannai Gyermekpark", ro: "Parcul pentru copii din Havana", en: "Havana Children's Park" },
+    description: {
+      de: "Ein zentraler Spielplatz für Kinder in der Hauptstadt.",
+      hu: "Központi játszótér gyermekek számára a fővárosban.",
+      ro: "Un loc de joacă central pentru copii în capitală.",
+      en: "A central playground for children in the capital."
+    },
+    facts: {
+      de: ["Spielgeräte", "Sicherheit", "Treffpunkt", "Freizeit"],
+      hu: ["Játékok", "Biztonság", "Találkozóhely", "Szabadidő"],
+      ro: ["Echipamente de joacă", "Siguranță", "Loc de întâlnire", "Timp liber"],
+      en: ["Play equipment", "Safety", "Meeting spot", "Leisure"]
+    }
+  },
+  {
+    id: "finca-agroecologica-trinidad-life-v2",
+    type: "agriculture",
+    parent: "CU-04",
+    coords: [-79.9800, 21.8000],
+    name: { de: "Agroökologische Farm Trinidad", hu: "Trinidad agroökológiai farm", ro: "Ferma agroecologică Trinidad", en: "Agroecological Farm Trinidad" },
+    description: {
+      de: "Ein kleiner landwirtschaftlicher Betrieb in der Nähe von Trinidad.",
+      hu: "Kis mezőgazdasági üzem Trinidad közelében.",
+      ro: "O mică unitate agricolă lângă Trinidad.",
+      en: "A small farming operation near Trinidad."
+    },
+    facts: {
+      de: ["Bioprodukte", "Traditionelle Anbaumethoden", "Lernort", "Nachhaltigkeit"],
+      hu: ["Biomozgások", "Hagyományos művelési módszerek", "Tanulási hely", "Fenntarthatóság"],
+      ro: ["Produse bio", "Metode de cultivare tradiționale", "Loc de învățare", "Sustenabilitate"],
+      en: ["Organic products", "Traditional farming methods", "Learning site", "Sustainability"]
+    }, image: "/poi-images/finca-agroecologica-trinidad-life-v2.webp"},
+  {
+    id: "zoologico-de-baracoa-life-v2",
+    type: "animal-habitat",
+    parent: "CU-13",
+    coords: [-74.5000, 20.3500],
+    name: { de: "Zoo von Baracoa", hu: "Baracoai állatkert", ro: "Grădina Zoologică din Baracoa", en: "Baracoa Zoo" },
+    description: {
+      de: "Ein kleiner Zoo in der ältesten Stadt Kubas.",
+      hu: "Kisebb állatkert Kuba legrégebbi városában.",
+      ro: "O grădină zoologică mică în cel mai vechi oraș din Cuba.",
+      en: "A small zoo in the oldest city in Cuba."
+    },
+    facts: {
+      de: ["Lokale Tiere", "Erholung", "Lerneffekt", "Besuch in der Altstadt"],
+      hu: ["Helyi állatok", "Kikapcsolódás", "Tanulási lehetőség", "Látogatás az óvárosban"],
+      ro: ["Animale locale", "Relaxare", "Posibilitate de învățare", "Vizită în centrul istoric"],
+      en: ["Local animals", "Relaxation", "Learning opportunity", "Visit in the old town"]
+    }, image: "/poi-images/zoologico-de-baracoa-life-v2.webp"},
+  {
+    id: "parque-santiago-de-cuba-life-v2",
+    type: "kid-landmark",
+    parent: "CU-13",
+    coords: [-75.8200, 20.0200],
+    name: { de: "Parque de la Alameda", hu: "Alameda Park", ro: "Parcul Alameda", en: "Alameda Park" },
+    description: {
+      de: "Ein schöner Park in Santiago de Cuba.",
+      hu: "Szép park Santiago de Cubában.",
+      ro: "Un parc frumos în Santiago de Cuba.",
+      en: "A beautiful park in Santiago de Cuba."
+    },
+    facts: {
+      de: ["Grünfläche", "Spazierweg", "Ruhe", "Familien"],
+      hu: ["Zöldterület", "Sétány", "Nyugalom", "Családok"],
+      ro: ["Spațiu verde", "Alee", "Liniște", "Familii"],
+      en: ["Green space", "Walking path", "Quiet", "Families"]
+    }, image: "/poi-images/parque-santiago-de-cuba-life-v2.webp"},
+  {
+    id: "finca-cacao-baracoa-life-v2",
+    type: "agriculture",
+    parent: "CU-13",
+    coords: [-74.5500, 20.3000],
+    name: { de: "Kakaoplantage Baracoa", hu: "Baracoai kakaóültetvény", ro: "Plantația de cacao Baracoa", en: "Baracoa Cocoa Plantation" },
+    description: {
+      de: "Eine Farm in der Region Baracoa, bekannt für exzellenten Kakao.",
+      hu: "Farm a Baracoa régióban, kiváló kakaóról híres.",
+      ro: "O fermă în regiunea Baracoa, faimoasă pentru cacao excelentă.",
+      en: "A farm in the Baracoa region famous for excellent cocoa."
+    },
+    facts: {
+      de: ["Bester Kakao Kubas", "Traditionelle Ernte", "Besichtigung", "Schokoladenproduktion"],
+      hu: ["Kuba legjobb kakaója", "Hagyományos szüret", "Látogatás", "Csokoládégyártás"],
+      ro: ["Cea mai bună cacao din Cuba", "Recoltare tradițională", "Vizitabil", "Producție de ciocolată"],
+      en: ["Cuba's best cocoa", "Traditional harvest", "Tours", "Chocolate production"]
+    }, image: "/poi-images/finca-cacao-baracoa-life-v2.webp"},
+  {
+    id: "zoologico-de-manzanillo-life-v2",
+    type: "animal-habitat",
+    parent: "CU-06",
+    coords: [-77.1200, 20.3400],
+    name: { de: "Zoo von Manzanillo", hu: "Manzanillói állatkert", ro: "Grădina Zoologică din Manzanillo", en: "Manzanillo Zoo" },
+    description: {
+      de: "Ein kleiner Zoo mit lokalen Tieren in Manzanillo.",
+      hu: "Kis állatkert helyi állatokkal Manzanillóban.",
+      ro: "O grădină zoologică mică cu animale locale în Manzanillo.",
+      en: "A small zoo with local animals in Manzanillo."
+    },
+    facts: {
+      de: ["Lokale Vielfalt", "Bildung", "Ausflug", "Familien"],
+      hu: ["Helyi változatosság", "Oktatás", "Kirándulás", "Családok"],
+      ro: ["Diversitate locală", "Educație", "Excursie", "Familii"],
+      en: ["Local diversity", "Education", "Excursion", "Families"]
+    }, image: "/poi-images/zoologico-de-manzanillo-life-v2.webp"},
+  {
+    id: "parque-holguin-life-v2",
+    type: "kid-landmark",
+    parent: "CU-12",
+    coords: [-76.2600, 20.8800],
+    name: { de: "Parque Calixto García", hu: "Calixto García Park", ro: "Parcul Calixto García", en: "Calixto García Park" },
+    description: {
+      de: "Ein zentraler Park in Holguín.",
+      hu: "Központi park Holguínban.",
+      ro: "O piață centrală în Holguín.",
+      en: "A central park in Holguín."
+    },
+    facts: {
+      de: ["Treffpunkt", "Schattige Wege", "Ruhe", "Familien"],
+      hu: ["Találkozóhely", "Árnyas sétányok", "Nyugalom", "Családok"],
+      ro: ["Punct de întâlnire", "Alei umbrite", "Liniște", "Familii"],
+      en: ["Meeting spot", "Shady walkways", "Quiet", "Families"]
+    }, image: "/poi-images/parque-holguin-life-v2.webp"},
+  {
+    id: "finca-cacao-guantanamo-life-v2",
+    type: "agriculture",
+    parent: "CU-13",
+    coords: [-75.2000, 20.1000],
+    name: { de: "Kakaofarm Guantánamo", hu: "Guantánamói kakaófarm", ro: "Ferma de cacao Guantánamo", en: "Guantanamo Cocoa Farm" },
+    description: {
+      de: "Eine kleine Farm für Kakao in der Region.",
+      hu: "Kis kakaófarm a régióban.",
+      ro: "O mică fermă de cacao în regiune.",
+      en: "A small cocoa farm in the region."
+    },
+    facts: {
+      de: ["Kakaoernte", "Nachhaltigkeit", "Bildung", "Lokaler Handel"],
+      hu: ["Kakaószüret", "Fenntarthatóság", "Oktatás", "Helyi kereskedelem"],
+      ro: ["Recoltarea cacao", "Sustenabilitate", "Educație", "Comerț local"],
+      en: ["Cocoa harvest", "Sustainability", "Education", "Local trade"]
+    }, image: "/poi-images/finca-cacao-guantanamo-life-v2.webp"},
+  {
+    id: "zoologico-de-matanzas-life-v2",
+    type: "animal-habitat",
+    parent: "CU-05",
+    coords: [-81.5700, 23.0500],
+    name: { de: "Zoo von Matanzas", hu: "Matanzasi állatkert", ro: "Grădina Zoologică din Matanzas", en: "Matanzas Zoo" },
+    description: {
+      de: "Ein kleiner Zoo mit lokalen Tieren in Matanzas.",
+      hu: "Kis állatkert helyi állatokkal Matanzasban.",
+      ro: "O grădină zoologică mică cu animale locale în Matanzas.",
+      en: "A small zoo with local animals in Matanzas."
+    },
+    facts: {
+      de: ["Lokale Fauna", "Bildung", "Ruhe", "Ausflug"],
+      hu: ["Helyi élővilág", "Oktatás", "Nyugalom", "Kirándulás"],
+      ro: ["Faună locală", "Educație", "Liniște", "Excursie"],
+      en: ["Local fauna", "Education", "Quiet", "Excursion"]
+    }, image: "/poi-images/zoologico-de-matanzas-life-v2.webp"},
+  {
+    id: "parque-infantil-matanzas-life-v2",
+    type: "kid-landmark",
+    parent: "CU-05",
+    coords: [-81.5800, 23.0400],
+    name: { de: "Kinderpark Matanzas", hu: "Matanzasi Gyermekpark", ro: "Parcul pentru copii din Matanzas", en: "Matanzas Children's Park" },
+    description: {
+      de: "Ein Spielplatz für Kinder in Matanzas.",
+      hu: "Játszótér gyermekek számára Matanzasban.",
+      ro: "Un loc de joacă pentru copii în Matanzas.",
+      en: "A playground for children in Matanzas."
+    },
+    facts: {
+      de: ["Spielplatz", "Sicherheit", "Entspannung", "Freizeit"],
+      hu: ["Játszótér", "Biztonság", "Kikapcsolódás", "Szabadidő"],
+      ro: ["Loc de joacă", "Siguranță", "Relaxare", "Timp liber"],
+      en: ["Playground", "Safety", "Relaxation", "Leisure"]
     }
   }
 ];
+

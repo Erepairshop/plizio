@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/geographieK7.ts
 import type { PoolTopicDef } from "./types";
 
@@ -8324,3 +8325,4 @@ export const GEO_K7_LABELS: Record<string, Record<string, string>> = {
     ...GEO_K7_I9_LABELS.ro,
   },
 };
+

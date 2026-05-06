@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const mkPoisPart7: POI[] = [
@@ -13,6 +14,25 @@ export const mkPoisPart7: POI[] = [
       hu: "A Balkán egyik legjobb állapotban fennmaradt középkori kolostora, freskóiról ismert.",
       ro: "Una dintre cele mai bine conservate mănăstiri medievale din Balcani, cunoscută pentru frescele sale.",
       en: "One of the best-preserved medieval monasteries in the Balkans, famous for its frescoes."
+    },
+    descriptionAdvanced: {
+      de: "Das Kloster Lesnovo ist ein Meisterwerk des 14. Jahrhunderts. Es bewahrt eine der bedeutendsten Freskensammlungen des Balkans und war ein wichtiges Zentrum für die mittelalterliche slawische Literatur. Die abgelegene Lage in einem erloschenen Vulkankrater unterstreicht die spirituelle Aura des Ortes. Geschichte K8 — Mittelalter.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Ikonostase ist kunsthistorisch hochbedeutend.",
+        "Die Schule für Manuskripte war europaweit bekannt.",
+        "Die Anlage umfasst beeindruckende bauliche Details.",
+        "Die Natur rundherum bietet tiefe Stille.",
+        "Es ist ein wichtiges Ziel für Experten und Pilger.",
+        "Die Geschichte des Ortes ist sehr bewegt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Gegründet im 14. Jahrhundert von Despot Oliver.", "Bekannt für seine literarische Schule.", "Befindet sich in einem erloschenen Vulkankrater."],
@@ -32,6 +52,25 @@ export const mkPoisPart7: POI[] = [
       hu: "Festői völgy, amelyet a bányászati múlt és a természeti szépség határoz meg.",
       ro: "O vale pitorească, marcată de istoria mineritului și frumusețea naturală.",
       en: "A scenic valley characterized by mining history and natural beauty."
+    },
+    descriptionAdvanced: {
+      de: "Das Zletovo-Tal ist eng mit der industriellen Entwicklung der Region verbunden. Zugleich bietet es eine faszinierende Naturkulisse. Der Fluss hat das Tal über die Jahrtausende geformt und bietet heute ein wichtiges Ziel für Erholungssuchende. Erdkunde K6 — Geologie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Bergbaugeschichte ist in der Region allgegenwärtig.",
+        "Die geologischen Formationen sind sehr abwechslungsreich.",
+        "Wanderwege führen durch unberührte Natur.",
+        "Die Flussqualität wird intensiv geschützt.",
+        "Das Tal ist ein wichtiges Ziel für Erkundungen.",
+        "Die Flora entlang des Flusses ist besonders vielfältig."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Wichtige Region für den Blei- und Zinkabbau.", "Bietet interessante geologische Formationen.", "Ein Ort für Wanderungen in der Natur."],
@@ -53,6 +92,25 @@ export const mkPoisPart7: POI[] = [
       ro: "Obleševo este cunoscut pentru densitatea mare de cuiburi de barză.",
       en: "Obleševo is known for its high density of stork nests."
     },
+    descriptionAdvanced: {
+      de: "Obleševo ist als 'Storchendorf' in ganz Nordmazedonien bekannt. Die Störche kehren jedes Jahr zurück, was die harmonische Verbindung zwischen Mensch und Natur zeigt. Dies macht den Ort zu einem besonderen Ziel für Naturliebhaber. Sachkunde K5 — Biologie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Storchendorf-Netzwerk fördert den Schutz der Tiere.",
+        "Die Störche sind fester Bestandteil des Dorflebens.",
+        "Besucher kommen aus dem ganzen Land zur Beobachtung.",
+        "Die Umgebung bietet eine perfekte Nahrungsgrundlage.",
+        "Die Tradition der nistenden Störche wird gepflegt.",
+        "Ein Ort, der die Biodiversität vor Augen führt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Die Gemeinde ist Mitglied des Netzwerks der europäischen Storchendörfer.", "Störche sind ein Symbol der Region.", "Ein Paradies für Vogelbeobachter."],
       hu: ["A község tagja az európai gólyafalvak hálózatának.", "A gólyák a régió jelképei.", "A madármegfigyelők paradicsoma."],
@@ -71,6 +129,25 @@ export const mkPoisPart7: POI[] = [
       hu: "Hatalmas rizsföldek a Kocsanói-síkságon, a régió jelképei.",
       ro: "Câmpurile vaste de orez din câmpia Kočani, un simbol al regiunii.",
       en: "Extensive rice fields in the Kočani valley, a landmark of the region."
+    },
+    descriptionAdvanced: {
+      de: "Die Reisfelder von Kočani sind ein einmaliges landschaftliches Merkmal. Der Anbau ist tief verwurzelt und macht die Region zur 'Reishauptstadt'. Die Kanalsysteme zeugen von der langen Tradition. Erdkunde K7 — Landwirtschaft.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Reis aus Kočani ist qualitativ hervorragend.",
+        "Das Kanalsystem ist historisch sehr bedeutsam.",
+        "Die Reisfelder bieten eine einzigartige Ästhetik.",
+        "Die Landwirtschaft hier ist eine Lebensart.",
+        "Besucher sind zur Erntezeit herzlich willkommen.",
+        "Es ist ein wichtiges Element der nationalen Wirtschaft."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Kočani gilt als 'Reishauptstadt' Mazedoniens.", "Die Bewässerung erfolgt durch ein komplexes Kanalsystem.", "Prägt die lokale Gastronomie."],
@@ -92,6 +169,25 @@ export const mkPoisPart7: POI[] = [
       ro: "O clădire religioasă proeminentă în centrul municipalității.",
       en: "A prominent religious building in the center of the municipality."
     },
+    descriptionAdvanced: {
+      de: "Die Moschee ist ein zentrales Gebäude für die religiöse Gemeinschaft vor Ort. Sie prägt die Silhouette des Ortes und ist ein Ort des gesellschaftlichen Austauschs. Sachkunde K5 — Religion.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Gebäude ist architektonisch bedeutend.",
+        "Die Gemeinschaft kommt hier täglich zusammen.",
+        "Die Moschee ist gut gepflegt.",
+        "Kulturelle Feste sind hier ein fester Bestandteil.",
+        "Die Bedeutung ist für die Bürger vor Ort hoch.",
+        "Der Ort strahlt viel Ruhe aus."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Zentrum des religiösen Lebens vor Ort.", "Besitzt ein hohes Minarett.", "Wichtiger Treffpunkt für die Gemeinschaft."],
       hu: ["A helyi hitélet központja.", "Magas minarettel rendelkezik.", "Fontos találkozóhely a közösség számára."],
@@ -110,6 +206,25 @@ export const mkPoisPart7: POI[] = [
       hu: "Aračinovo dombjairól tágas kilátás nyílik a Szkopjei-medencére.",
       ro: "De pe înălțimile din Aračinovo se deschide o vedere largă asupra bazinului Skopje.",
       en: "The heights in Aračinovo offer an expansive view over the Skopje basin."
+    },
+    descriptionAdvanced: {
+      de: "Die Anhöhen bieten einen tollen Blick über die gesamte Region. Von hier lässt sich die Größe und Dynamik der Hauptstadt gut erkennen. Ein Ort für Naturliebhaber und Fotografen. Erdkunde K6 — Regionale Geografie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Sichtverhältnisse sind oft sehr klar.",
+        "Man sieht die Entwicklung der Stadt Skopje.",
+        "Das Panorama ist besonders bei Sonnenuntergang schön.",
+        "Es ist ein idealer Ort zum Innehalten.",
+        "Die Weite der Ebene ist beeindruckend.",
+        "Ein wichtiger Orientierungspunkt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Bietet eine Perspektive auf die Hauptstadt.", "Ideal für Landschaftsfotografie.", "Zeigt die Ausdehnung der Stadt Skopje."],
@@ -131,6 +246,25 @@ export const mkPoisPart7: POI[] = [
       ro: "Locul de naștere al împăratului bizantin Iustinian I.",
       en: "The birthplace of the Byzantine Emperor Justinian I."
     },
+    descriptionAdvanced: {
+      de: "Tauresium hat eine immense historische Bedeutung. Als Geburtsort Justinians ist es ein Schlüsselfundort für die byzantinische Forschung. Die Ausgrabungen offenbaren eine lange Siedlungstradition. Geschichte K8 — Byzantinisches Reich.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Ort ist für Historiker von großer Bedeutung.",
+        "Die Funde sind gut erhalten.",
+        "Die Landschaft um Taor ist sehr ruhig.",
+        "Man bekommt ein Gefühl für die antike Zeit.",
+        "Es ist ein Ort der geschichtlichen Besinnung.",
+        "Die Lage auf den Hügeln ist strategisch wichtig gewesen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Antike Siedlung in der Nähe des Dorfes Taor.", "Archäologische Ausgrabungen zeigen Überreste von Festungen.", "Justiniana Prima wurde in der Nähe vermutet."],
       hu: ["Antik település Taor falu közelében.", "Régészeti ásatások erődmaradványokat tártak fel.", "A közelben feltételezik Justiniana Prima helyszínét."],
@@ -149,6 +283,25 @@ export const mkPoisPart7: POI[] = [
       hu: "A Vardar folyó festői szakasza, amely keresztülfolyik a községen.",
       ro: "O secțiune pitorească a râului Vardar care traversează municipalitatea.",
       en: "A scenic section of the Vardar river flowing through the municipality."
+    },
+    descriptionAdvanced: {
+      de: "Der Vardar ist in Zelenikovo ein wichtiges Element der Natur. Die Ufer laden zur Erholung ein und sind ein beliebter Ort für Freizeitaktivitäten. Die Qualität der Natur rundherum ist bemerkenswert. Erdkunde K6 — Geografie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Uferbereiche bieten viel Platz zur Entspannung.",
+        "Das Angeln ist dort ein sehr beliebtes Hobby.",
+        "Der Fluss prägt die grüne Natur.",
+        "Die Wasserführung ist fast ganzjährig stabil.",
+        "Man findet hier Ruhe abseits der großen Stadt.",
+        "Die Landschaft ist ein ideales Ziel für Ausflüge."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Beliebt für Wochenendausflüge.", "Bietet Möglichkeiten zum Angeln.", "Umgeben von grüner Natur."],
@@ -170,6 +323,25 @@ export const mkPoisPart7: POI[] = [
       ro: "O cetate istorică pe un deal deasupra orașului Kičevo.",
       en: "A historic fortress on a hill overlooking the city of Kičevo."
     },
+    descriptionAdvanced: {
+      de: "Kitino Kale ist ein historisches Wahrzeichen von Kičevo. Die Festungsanlage bietet eine tolle Aussicht über das Umland und ist ein geschätztes Naherholungsgebiet. Legenden über die Prinzessin Kita verleihen dem Ort eine mystische Note. Geschichte K8 — Mittelalter.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Aussicht ist bei klarem Wetter spektakulär.",
+        "Das Gelände ist sehr weitläufig.",
+        "Man kann viel über die Geschichte lernen.",
+        "Der Park ist ein wichtiger Treffpunkt.",
+        "Die Legenden um Prinzessin Kita werden oft erzählt.",
+        "Die Mauern zeugen von einer bedeutenden Vergangenheit."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bietet einen Blick über die gesamte Stadt.", "Heute ein Stadtpark und Erholungsgebiet.", "Reich an Legenden über Prinzessin Kita."],
       hu: ["Kilátást nyújt az egész városra.", "Ma városi park és pihenőhely.", "Gazdag a Kita hercegnőről szóló legendákban."],
@@ -188,6 +360,25 @@ export const mkPoisPart7: POI[] = [
       hu: "Kičevo főtemploma lenyűgöző építészettel.",
       ro: "Biserica principală din Kičevo, cu o arhitectură impresionantă.",
       en: "The main church in Kičevo with impressive architecture."
+    },
+    descriptionAdvanced: {
+      de: "Die Peter-und-Paul-Kirche ist ein zentraler religiöser Bau. Sie beeindruckt durch ihre Ikonostase und ihre feierliche Atmosphäre. Sie ist ein Ort für wichtige religiöse Anlässe der Stadt. Sachkunde K5 — Religion.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Kirche ist sehr harmonisch gestaltet.",
+        "Die Ikonen sind sorgfältig restauriert.",
+        "Das Gebäude ist von großer Bedeutung für die Einwohner.",
+        "Die Gottesdienste sind sehr festlich.",
+        "Die Architektur ist sehr ausdrucksstark.",
+        "Es ist ein Ort der inneren Ruhe."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Zentrum des orthodoxen Glaubens in der Stadt.", "Bekannt für seine Ikonenwand.", "Häufiger Ort für religiöse Zeremonien."],
@@ -209,6 +400,25 @@ export const mkPoisPart7: POI[] = [
       ro: "Cea mai proeminentă clădire din municipalitatea Plasnica, un centru al comunității.",
       en: "The most prominent building in the Plasnica municipality, a center for the community."
     },
+    descriptionAdvanced: {
+      de: "Diese Moschee ist das soziale Zentrum von Plasnica. Ihre Architektur ist ein wichtiger Teil des kulturellen Erbes der Gemeinde, die stark von türkischer Tradition geprägt ist. Sachkunde K5 — Religion.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Gebäude ist von großer Bedeutung für die Bewohner.",
+        "Kulturelle Identität steht hier im Mittelpunkt.",
+        "Die Moschee ist ein Ort der Versammlung.",
+        "Die Architektur ist sehr traditionell.",
+        "Die Gemeinschaft pflegt ihre Traditionen in diesem Haus.",
+        "Es ist ein friedlicher Ort."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Die Gemeinde ist mehrheitlich von Türken bewohnt.", "Wichtiger Ort für kulturelle Identität.", "Besitzt eine traditionelle Architektur."],
       hu: ["A községet többségében törökök lakják.", "A kulturális identitás fontos helyszíne.", "Hagyományos építészettel rendelkezik."],
@@ -227,6 +437,25 @@ export const mkPoisPart7: POI[] = [
       hu: "A Treszka-folyó keresztülfolyik a völgyön Plasnica közelében.",
       ro: "Râul Treska traversează valea din apropiere de Plasnica.",
       en: "The Treska river flows through the valley near Plasnica."
+    },
+    descriptionAdvanced: {
+      de: "Die Treska ist in diesem Abschnitt ein lebendiger Fluss, der die Landschaft prägt. Er bietet Lebensraum und Wasser für die lokale Umgebung. Ein Ort für kleine Ausflüge. Erdkunde K6 — Flüsse.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Wasser trägt zur Kühlung an heißen Tagen bei.",
+        "Die Natur rundherum ist sehr ruhig.",
+        "Der Fluss ist ein wichtiges Element der Geografie.",
+        "Besucher genießen die Stille am Ufer.",
+        "Die Flora entlang des Flusses ist typisch.",
+        "Es ist ein Ort der Entspannung."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Bietet eine malerische Kulisse.", "Wichtig für die lokale Landwirtschaft.", "Ein Ort der Ruhe."],
@@ -248,6 +477,25 @@ export const mkPoisPart7: POI[] = [
       ro: "Satul Vraneštica este renumit pentru tradiția sa seculară în olărit.",
       en: "The village of Vraneštica is famous for its centuries-old tradition of pottery."
     },
+    descriptionAdvanced: {
+      de: "Die Töpferei in Vraneštica ist eine einzigartige Kunstform. Die lokalen Töpfer beherrschen Techniken, die seit Jahrhunderten weitergegeben werden. Dies trägt wesentlich zum kulturellen Erbe bei. Sachkunde K6 — Handwerk.",
+      hu: "",
+      ro: [],
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Keramiken sind oft handbemalt.",
+        "Man kann den Handwerkern bei der Arbeit zusehen.",
+        "Die Produkte sind ein tolles Souvenir.",
+        "Diese Tradition wird besonders geschätzt.",
+        "Die Werkstätten sind ein wichtiges Zentrum.",
+        "Die Qualität ist sehr hoch."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bekannt für die Herstellung handgefertigter Tonwaren.", "Wird oft von Touristen besucht, die Kunsthandwerk schätzen.", "Die Techniken werden von Generation zu Generation weitergegeben."],
       hu: ["Kézzel készített agyagedények gyártásáról ismert.", "Gyakran látogatják a kézművességet kedvelő turisták.", "A technikák generációról generációra öröklődnek."],
@@ -266,6 +514,25 @@ export const mkPoisPart7: POI[] = [
       hu: "Régi ortodox templom Vraneštica faluban.",
       ro: "O veche biserică ortodoxă în satul Vraneštica.",
       en: "An old Orthodox church in the village of Vraneštica."
+    },
+    descriptionAdvanced: {
+      de: "Die Elias-Kirche ist ein wichtiger religiöser Ort für die Einwohner von Vraneštica. Sie zeigt die Bedeutung der Tradition in einem kleinen Dorf. Sachkunde K5 — Religion.",
+      hu: "",
+      ro: [],
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Kirche ist sehr beschaulich.",
+        "Besucher sind jederzeit willkommen.",
+        "Sie bewahrt religiöse Kunstwerke.",
+        "Der Ort strahlt viel Geborgenheit aus.",
+        "Die Gemeinschaft feiert hier wichtige Feste.",
+        "Das Gebäude ist ein wichtiger Teil des Dorfes."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Ein lokales Kulturdenkmal.", "Befindet sich in einer ruhigen Gegend.", "Zeigt traditionelle Baustile."],
@@ -287,6 +554,25 @@ export const mkPoisPart7: POI[] = [
       ro: "Cetatea medievală care domină cel mai înalt punct din Skopje.",
       en: "The medieval fortress dominating the highest point of Skopje."
     },
+    descriptionAdvanced: {
+      de: "Die Festung Kale bietet einen Überblick über die gesamte Geschichte von Skopje. Die Mauern sind ein Zeugnis der wehrhaften Vergangenheit. Ein Besuch bietet neben Wissen auch den besten Blick über die moderne Stadt. Geschichte K8 — Festungsbau.",
+      hu: "",
+      ro: [],
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Mauern sind sehr beeindruckend.",
+        "Die archäologischen Forschungen sind umfangreich.",
+        "Sie ist ein wichtiger Orientierungspunkt.",
+        "Das Gelände ist ein beliebtes Ausflugsziel.",
+        "Man kann die verschiedenen Zeitebenen der Stadt sehen.",
+        "Die Aussicht auf das Zentrum ist atemberaubend."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Stammt ursprünglich aus dem 6. Jahrhundert n. Chr.", "Bietet den besten Panoramablick auf die Stadt.", "Wurde nach dem Erdbeben von 1963 teilweise restauriert."],
       hu: ["Eredetileg az i. sz. 6. századból származik.", "A legjobb panorámás kilátást nyújtja a városra.", "Az 1963-as földrengés után részben helyreállították."],
@@ -305,6 +591,25 @@ export const mkPoisPart7: POI[] = [
       hu: "66 méter magas kereszt a Vodno-hegy tetején.",
       ro: "O cruce de 66 de metri înălțime pe vârful muntelui Vodno.",
       en: "A 66-meter tall cross on the top of Vodno Mountain."
+    },
+    descriptionAdvanced: {
+      de: "Das Millennium-Kreuz ist eines der größten Monumente der christlichen Welt. Es thront über Skopje und ist ein weithin sichtbares Zeichen. Die Seilbahnfahrt auf den Vodno ist ein absolutes Muss für Besucher. Erdkunde K7 — Landmarken.",
+      hu: "",
+      ro: [],
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Aussicht ist bei klarem Wetter überwältigend.",
+        "Es ist ein Ort der spirituellen Bedeutung.",
+        "Die Seilbahnfahrt ist sehr beliebt.",
+        "Das Kreuz ist nachts beleuchtet.",
+        "Der Vodno-Berg ist die grüne Oase der Stadt.",
+        "Es ist ein wichtiges technisches Bauwerk."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Erbaut zur Feier von 2000 Jahren Christentum.", "Eines der größten Kreuze der Welt.", "Erreichbar mit einer Seilbahn."],
@@ -326,6 +631,25 @@ export const mkPoisPart7: POI[] = [
       ro: "O biserică importantă în municipalitatea Lozovo.",
       en: "An important church in the Lozovo municipality."
     },
+    descriptionAdvanced: {
+      de: "Die Kirche ist ein Zentrum religiöser Praxis. Sie spielt eine wichtige Rolle im Leben der Gemeinde. Traditionen und Glaube sind hier eng verknüpft. Sachkunde K5 — Religion.",
+      hu: "",
+      ro: [],
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Ausstattung ist sehr traditionell.",
+        "Es ist ein Ort der Besinnung.",
+        "Besucher finden hier Ruhe.",
+        "Die Gemeinschaft ist stolz auf ihre Kirche.",
+        "Religiöse Zeremonien sind ein wichtiger Teil des Lebens.",
+        "Das Gebäude ist sehr ordentlich gehalten."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Zentrum der örtlichen Religionsgemeinschaft.", "Ein Beispiel für die ländliche Kirchenarchitektur.", "Ort für traditionelle Versammlungen."],
       hu: ["A helyi vallási közösség központja.", "A vidéki templomépítészet egyik példája.", "Hagyományos gyűlések helyszíne."],
@@ -344,6 +668,25 @@ export const mkPoisPart7: POI[] = [
       hu: "A termékeny Ovče Pole-síkság nyugati része Lozovo községben.",
       ro: "Partea de vest a câmpiei fertile Ovče Pole din municipalitatea Lozovo.",
       en: "The western part of the fertile Ovče Pole plain in the Lozovo municipality."
+    },
+    descriptionAdvanced: {
+      de: "Die Ebene Ovče Pole ist ein wichtiges landwirtschaftliches Zentrum. Die weiten Flächen bieten eine besondere landschaftliche Qualität und zeigen die Bedeutung der Agrarwirtschaft. Erdkunde K7 — Landwirtschaft.",
+      hu: "",
+      ro: [],
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Weite der Landschaft ist einzigartig.",
+        "Getreide und andere Nutzpflanzen wachsen hier hervorragend.",
+        "Die Gegend ist ideal für lange Radtouren.",
+        "Die landwirtschaftliche Bedeutung ist sehr hoch.",
+        "Der Ort bietet Ruhe und Freiheit.",
+        "Die Ebene ist ein wichtiges Element der Geografie."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Bekannt für die Landwirtschaft, insbesondere Getreide.", "Bietet weite und offene Landschaften.", "Wichtige Region für die Lebensmittelproduktion."],
@@ -365,6 +708,25 @@ export const mkPoisPart7: POI[] = [
       ro: "Ruinele celui mai mare oraș al paeonienilor antici.",
       en: "The ruins of the largest city of the ancient Paeonians."
     },
+    descriptionAdvanced: {
+      de: "Bylazora ist eine archäologische Stätte von hoher Relevanz. Als größte Stadt der Päonier war sie ein bedeutendes kulturelles und militärisches Zentrum. Die Ausgrabungen geben Einblick in eine längst vergangene Zeit. Geschichte K8 — Archäologie.",
+      hu: "",
+      ro: [],
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Funde geben Auskunft über den antiken Alltag.",
+        "Die Festung war sehr stark befestigt.",
+        "Besucher sind begeistert von der historischen Bedeutung.",
+        "Der Hügel Knežje ist ein wichtiger Fundort.",
+        "Die Geschichte der Stadt war sehr dynamisch.",
+        "Archäologen untersuchen den Ort laufend."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Liegt auf dem Hügel Knežje.", "War ein bedeutendes wirtschaftliches und militärisches Zentrum.", "Wichtige archäologische Ausgrabungen finden hier statt."],
       hu: ["A Knežje-dombon található.", "Jelentős gazdasági és katonai központ volt.", "Fontos régészeti ásatások zajlanak itt."],
@@ -384,6 +746,25 @@ export const mkPoisPart7: POI[] = [
       ro: "Biserica centrală din Sveti Nikole, de la care orașul și-a luat numele.",
       en: "The central church of Sveti Nikole, after which the city is named."
     },
+    descriptionAdvanced: {
+      de: "Diese Kirche ist das Herz der Stadt. Sie ist ein Ort des Glaubens und der Tradition. Ihre Bedeutung für Sveti Nikole kann nicht unterschätzt werden. Sachkunde K5 — Religion.",
+      hu: "",
+      ro: [],
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Kirche ist sehr harmonisch.",
+        "Sie ist ein wichtiger Orientierungspunkt.",
+        "Die Gottesdienste sind ein fester Bestandteil des Lebens.",
+        "Besucher schätzen die religiöse Atmosphäre.",
+        "Das Gebäude ist sehr gepflegt.",
+        "Die Kirche ist ein Symbol für den Zusammenhalt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Ein Symbol der Stadt.", "Beherbergt wertvolle religiöse Kunst.", "Regelmäßig genutzter Ort für Gottesdienste."],
       hu: ["A város jelképe.", "Értékes vallási műtárgyakat őriz.", "Istentiszteletek rendszeres helyszíne."],
@@ -392,3 +773,4 @@ export const mkPoisPart7: POI[] = [
     }
   }
 ];
+

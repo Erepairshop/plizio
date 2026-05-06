@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTanzaniaReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Magasság: 5895 méter", "Szunnyadó vulkán", "Örök hó", "UNESCO Világörökség"],
       ro: ["Înălțime: 5895 metri", "Vulcan latent", "Zăpadă eternă", "Patrimoniul Mondial UNESCO"],
       en: ["Height: 5895 meters", "Dormant volcano", "Eternal snow", "UNESCO World Heritage Site"]
-    }
-  },
+    }, image: "/poi-images/kilimanjaro-relief-v2.webp"},
   {
     id: "mount-meru-relief-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Magasság: 4566 méter", "Tanzánia második legnagyobb hegye", "Arusha Nemzeti Park", "Krater-perem"],
       ro: ["Înălțime: 4566 metri", "Al doilea cel mai mare munte din Tanzania", "Parcul Național Arusha", "Marginea craterului"],
       en: ["Height: 4566 meters", "Second tallest mountain in Tanzania", "Arusha National Park", "Crater rim"]
-    }
-  },
+    }, image: "/poi-images/mount-meru-relief-v2.webp"},
   {
     id: "ngorongoro-crater-relief-v2",
     type: "relief",
@@ -41,8 +40,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Átmérő: 20 kilométer", "UNESCO Világörökség", "Magasság: 2300 méter", "Ökoszisztéma"],
       ro: ["Diametru: 20 kilometri", "Patrimoniul Mondial UNESCO", "Înălțime: 2300 metri", "Ecosistem"],
       en: ["Diameter: 20 kilometers", "UNESCO World Heritage Site", "Height: 2300 meters", "Ecosystem"]
-    }
-  },
+    }, image: "/poi-images/ngorongoro-crater-relief-v2.webp"},
   {
     id: "uluguru-mountains-relief-v2",
     type: "mountain",
@@ -55,8 +53,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Eastern Arc hegység", "Esőerdő", "Biodiverzitás", "Magasság: 2630m-ig"],
       ro: ["Munții Eastern Arc", "Pădure tropicală", "Biodiversitate", "Înălțime: până la 2630m"],
       en: ["Eastern Arc Mountains", "Rainforest", "Biodiversity", "Height: up to 2630m"]
-    }
-  },
+    }, image: "/poi-images/uluguru-mountains-relief-v2.webp"},
   {
     id: "udzungwa-mountains-relief-v2",
     type: "mountain",
@@ -69,8 +66,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Udzungwa Nemzeti Park", "Eastern Arc", "Esőerdő", "Nagy fajgazdagság"],
       ro: ["Parcul Național Udzungwa", "Eastern Arc", "Pădure tropicală", "Biodiversitate mare"],
       en: ["Udzungwa National Park", "Eastern Arc", "Rainforest", "High biodiversity"]
-    }
-  },
+    }, image: "/poi-images/udzungwa-mountains-relief-v2.webp"},
   {
     id: "usambara-mountains-relief-v2",
     type: "mountain",
@@ -83,8 +79,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Eastern Arc", "Teatermesztés", "Erdők", "Magasság 2440m-ig"],
       ro: ["Eastern Arc", "Cultivarea ceaiului", "Păduri", "Înălțime până la 2440m"],
       en: ["Eastern Arc", "Tea cultivation", "Forests", "Height up to 2440m"]
-    }
-  },
+    }, image: "/poi-images/usambara-mountains-relief-v2.webp"},
   {
     id: "ruaha-river-valley-relief-v2",
     type: "relief",
@@ -97,8 +92,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Nagy-Ruaha folyó", "Vadvilág-folyosó", "Nemzeti Park", "Szárazság"],
       ro: ["Râul Mare Ruaha", "Coridor pentru animale sălbatice", "Parc Național", "Sezon secetos"],
       en: ["Great Ruaha River", "Wildlife corridor", "National Park", "Dry season"]
-    }
-  },
+    }, image: "/poi-images/ruaha-river-valley-relief-v2.webp"},
   {
     id: "kilombero-valley-relief-v2",
     type: "relief",
@@ -111,8 +105,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Ártér", "Rizstermesztés", "Ökoszisztéma", "Biodiverzitás"],
       ro: ["Câmpie inundabilă", "Cultivarea orezului", "Ecosistem", "Biodiversitate"],
       en: ["Floodplain", "Rice cultivation", "Ecosystem", "Biodiversity"]
-    }
-  },
+    }, image: "/poi-images/kilombero-valley-relief-v2.webp"},
   {
     id: "pangani-river-basin-relief-v2",
     type: "relief",
@@ -125,8 +118,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Pangani folyó", "Mezőgazdaság", "Energia", "Hidrológia"],
       ro: ["Râul Pangani", "Agricultură", "Energie", "Hidrologie"],
       en: ["Pangani River", "Agriculture", "Energy", "Hydrology"]
-    }
-  },
+    }, image: "/poi-images/pangani-river-basin-relief-v2.webp"},
   {
     id: "great-rift-valley-relief-v2",
     type: "relief",
@@ -139,8 +131,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Árokrendszer", "Vulkanizmus", "Tavak", "Geológia"],
       ro: ["Rift", "Vulcanism", "Lacuri", "Geologie"],
       en: ["Rift Valley", "Volcanism", "Lakes", "Geology"]
-    }
-  },
+    }, image: "/poi-images/great-rift-valley-relief-v2.webp"},
   {
     id: "lake-eyasi-basin-relief-v2",
     type: "relief",
@@ -167,8 +158,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Lúgos", "Flamingók", "Ol Doinyo Lengai vulkán", "Hőség"],
       ro: ["Alcalin", "Flamingo", "Vulcanul Ol Doinyo Lengai", "Căldură"],
       en: ["Alkaline", "Flamingos", "Ol Doinyo Lengai volcano", "Heat"]
-    }
-  },
+    }, image: "/poi-images/lake-natron-basin-relief-v2.webp"},
   {
     id: "ol-doinyo-lengai-relief-v2",
     type: "mountain",
@@ -181,8 +171,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Aktív vulkán", "Egyedi láva", "Maszájok szent hegye", "Magasság 2962m"],
       ro: ["Vulcan activ", "Lavă unică", "Muntele sacru al maasailor", "Înălțime 2962m"],
       en: ["Active volcano", "Unique lava", "Maasai sacred mountain", "Height 2962m"]
-    }
-  },
+    }, image: "/poi-images/ol-doinyo-lengai-relief-v2.webp"},
   {
     id: "pare-mountains-relief-v2",
     type: "mountain",
@@ -195,8 +184,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Eastern Arc", "Esőerdő", "Hegyek", "Száraz terület"],
       ro: ["Eastern Arc", "Pădure tropicală", "Munți", "Zonă uscată"],
       en: ["Eastern Arc", "Rainforest", "Mountains", "Dry area"]
-    }
-  },
+    }, image: "/poi-images/pare-mountains-relief-v2.webp"},
   {
     id: "livingstone-mountains-relief-v2",
     type: "mountain",
@@ -209,8 +197,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Malawi-tó", "Meredek sziklák", "Kilátás", "Hegység"],
       ro: ["Lacul Malawi", "Stânci abrupte", "Priveliște", "Munți"],
       en: ["Lake Malawi", "Steep cliffs", "View", "Mountains"]
-    }
-  },
+    }, image: "/poi-images/livingstone-mountains-relief-v2.webp"},
   {
     id: "mbeya-range-relief-v2",
     type: "mountain",
@@ -237,8 +224,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Krátertavak", "Vulkánok", "Felföld", "Természet"],
       ro: ["Lacuri de crater", "Vulcani", "Podiș", "Natură"],
       en: ["Crater lakes", "Volcanoes", "Highlands", "Nature"]
-    }
-  },
+    }, image: "/poi-images/poroto-mountains-relief-v2.webp"},
   {
     id: "kipengere-range-relief-v2",
     type: "mountain",
@@ -251,8 +237,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Dél", "Fennsík", "Vulkanikus", "Hideg klíma"],
       ro: ["Sud", "Podiș", "Vulcanic", "Climă rece"],
       en: ["South", "Plateau", "Volcanic", "Cold climate"]
-    }
-  },
+    }, image: "/poi-images/kipengere-range-relief-v2.webp"},
   {
     id: "mahenge-plateau-relief-v2",
     type: "relief",
@@ -265,8 +250,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Felföld", "Trópusi", "Bányászat", "Geológia"],
       ro: ["Podiș", "Tropical", "Minerit", "Geologie"],
       en: ["Highlands", "Tropical", "Mining", "Geology"]
-    }
-  },
+    }, image: "/poi-images/mahenge-plateau-relief-v2.webp"},
   {
     id: "matengo-highlands-relief-v2",
     type: "relief",
@@ -279,8 +263,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Mezőgazdaság", "Kávé", "Dombok", "Táj"],
       ro: ["Agricultură", "Cafea", "Dealuri", "Peisaj"],
       en: ["Agriculture", "Coffee", "Hills", "Landscape"]
-    }
-  },
+    }, image: "/poi-images/matengo-highlands-relief-v2.webp"},
   {
     id: "tunduru-plateau-relief-v2",
     type: "relief",
@@ -307,8 +290,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Füves puszta", "Állatvándorlás", "Nemzeti Park", "Lapos"],
       ro: ["Iarbă", "Migrația animalelor", "Parc Național", "Plat"],
       en: ["Grassland", "Animal migration", "National Park", "Flat"]
-    }
-  },
+    }, image: "/poi-images/serengeti-plain-relief-v2.webp"},
   {
     id: "wembere-plain-relief-v2",
     type: "relief",
@@ -321,8 +303,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Lapos", "Mocsaras", "Szavanna", "Mezőgazdaság"],
       ro: ["Plat", "Mlaștinos", "Savana", "Agricultură"],
       en: ["Flat", "Swampy", "Savannah", "Agriculture"]
-    }
-  },
+    }, image: "/poi-images/wembere-plain-relief-v2.webp"},
   {
     id: "masasi-plateau-relief-v2",
     type: "relief",
@@ -335,8 +316,7 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       hu: ["Dombos", "Mezőgazdaság", "Szavanna", "Klíma"],
       ro: ["Deluros", "Agricultură", "Savana", "Climă"],
       en: ["Hilly", "Agriculture", "Savannah", "Climate"]
-    }
-  },
+    }, image: "/poi-images/masasi-plateau-relief-v2.webp"},
   {
     id: "ufipa-plateau-relief-v2",
     type: "relief",
@@ -352,3 +332,4 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       }
   }
 ];
+

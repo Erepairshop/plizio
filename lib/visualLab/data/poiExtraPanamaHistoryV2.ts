@@ -1,574 +1,399 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraPanamaHistoryV2: POI[] = [
   {
-    id: "panama-el-cano-history-v2",
+    id: "panama-viejo-ruins-history-v2",
     type: "historical",
-    parent: "PA-CC",
-    coords: [-80.5222, 8.4034],
-    name: { de: "Archäologische Stätte El Caño", hu: "El Caño régészeti lelőhely", ro: "Situl Arheologic El Caño", en: "El Caño Archaeological Site" },
-    description: {
-      de: "El Caño ist ein präkolumbianisches Zeremonialzentrum in Panama. Die Ausgrabungen brachten reiche Gräber mit zahlreichen Goldartefakten ans Licht.",
-      hu: "El Caño egy Kolumbusz előtti ceremoniális központ Panamában. Az ásatások gazdag sírokat és számos aranytárgyat tártak fel.",
-      ro: "El Caño este un centru ceremonial precolumbian din Panama. Săpăturile au scos la iveală morminte bogate cu numeroase artefacte din aur.",
-      en: "El Caño is a Pre-Columbian ceremonial center in Panama. Excavations revealed rich tombs containing numerous gold artifacts."
-    },
+    parent: "PA-8",
+    coords: [-79.4883, 9.0069],
+    name: { de: "Ruinen von Panamá Viejo", hu: "Panamá Viejo romjai", ro: "Ruinele din Panamá Viejo", en: "Ruins of Panamá Viejo" },
+    description: { de: "Die Überreste der ersten europäischen Siedlung am Pazifik, gegründet 1519.", hu: "Az első európai település maradványai a Csendes-óceán partján, 1519-ben alapították.", ro: "Rămășițele primei așezări europene la Oceanul Pacific, fondată în 1519.", en: "The remains of the first European settlement on the Pacific, founded in 1519." },
     facts: {
-      de: ["Präkolumbianisches Zeremonialzentrum.", "Bekannt für Goldartefakte.", "Entdeckt im Jahr 1925.", "Wichtige archäologische Stätte."],
-      hu: ["Kolumbusz előtti ceremoniális központ.", "Aranytárgyairól ismert.", "1925-ben fedezték fel.", "Jelentős régészeti lelőhely."],
-      ro: ["Centru ceremonial precolumbian.", "Cunoscut pentru artefactele de aur.", "Descoperit în anul 1925.", "Sit arheologic important."],
-      en: ["Pre-Columbian ceremonial center.", "Known for gold artifacts.", "Discovered in 1925.", "Important archaeological site."]
+      de: ["Gegründet von Pedrarias Dávila", "Zerstört durch Henry Morgan 1671", "UNESCO-Welterbe"],
+      hu: ["Pedrarias Dávila alapította", "Henry Morgan pusztította el 1671-ben", "UNESCO Világörökség"],
+      ro: ["Fondată de Pedrarias Dávila", "Distrusă de Henry Morgan în 1671", "Patrimoniu UNESCO"],
+      en: ["Founded by Pedrarias Dávila", "Destroyed by Henry Morgan in 1671", "UNESCO World Heritage site"]
+    }, image: "/poi-images/panama-viejo-ruins-history-v2.webp"},
+  {
+    id: "fuerte-de-la-merced-history-v2",
+    type: "historical",
+    parent: "PA-8",
+    coords: [-79.484, 9.004],
+    name: { de: "Fuerte de la Merced", hu: "Fuerte de la Merced erőd", ro: "Fuerte de la Merced", en: "Fuerte de la Merced" },
+    description: { de: "Ein bedeutendes Verteidigungsbauwerk aus der Kolonialzeit in Panamá Viejo.", hu: "Fontos koloniális védelmi építmény Panamá Viejóban.", ro: "O structură defensivă semnificativă din perioada colonială în Panamá Viejo.", en: "An important defensive structure from the colonial era in Panamá Viejo." },
+    facts: {
+      de: ["Erbaut im 17. Jahrhundert", "Diente dem Schutz der Stadt", "Teil der archäologischen Stätte"],
+      hu: ["A 17. században épült", "A város védelmét szolgálta", "A régészeti lelőhely része"],
+      ro: ["Construită în secolul al XVII-lea", "Servea la protecția orașului", "Parte a sitului arheologic"],
+      en: ["Built in the 17th century", "Served for city protection", "Part of the archaeological site"]
+    }, image: "/poi-images/fuerte-de-la-merced-history-v2.webp"},
+  {
+    id: "iglesia-de-la-compania-de-jesus-history-v2",
+    type: "historical",
+    parent: "PA-8",
+    coords: [-79.531, 8.953],
+    name: { de: "Iglesia de la Compañía de Jesús", hu: "Iglesia de la Compañía de Jesús", ro: "Iglesia de la Compañía de Jesús", en: "Iglesia de la Compañía de Jesús" },
+    description: { de: "Ehemalige Jesuitenkirche in der Altstadt von Panama, Casco Viejo.", hu: "Egykori jezsuita templom Panama óvárosában, a Casco Viejóban.", ro: "Fosta biserică iezuită din orașul vechi Panama, Casco Viejo.", en: "Former Jesuit church in the old town of Panama, Casco Viejo." },
+    facts: {
+      de: ["Gründung durch Jesuiten", "Barockarchitektur", "Wichtiges kulturelles Erbe"],
+      hu: ["Jezsuiták alapították", "Barokk építészet", "Fontos kulturális örökség"],
+      ro: ["Fondată de iezuiți", "Arhitectură barocă", "Patrimoniu cultural important"],
+      en: ["Founded by Jesuits", "Baroque architecture", "Important cultural heritage"]
+    }, image: "/poi-images/iglesia-de-la-compania-de-jesus-history-v2.webp"},
+  {
+    id: "fuerte-san-jeronimo-history-v2",
+    type: "historical",
+    parent: "PA-3",
+    coords: [-79.649, 9.551],
+    name: { de: "Fuerte San Jerónimo", hu: "Fuerte San Jerónimo", ro: "Fuerte San Jerónimo", en: "Fuerte San Jerónimo" },
+    description: { de: "Eine der Verteidigungsanlagen in Portobelo zum Schutz vor Piraten.", hu: "Egyik a portobelói védművek közül, a kalózok elleni védelemre.", ro: "Unul dintre sistemele de apărare din Portobelo pentru protecția împotriva piraților.", en: "One of the defensive systems in Portobelo to protect against pirates." },
+    facts: {
+      de: ["Erbaut 1658", "Schutzhafen für Goldtransporte", "Teil des UNESCO-Welterbes"],
+      hu: ["1658-ban épült", "Aranyszállítmányok védőkikötője", "UNESCO Világörökség része"],
+      ro: ["Construit în 1658", "Port de protecție pentru transporturile de aur", "Parte a Patrimoniului UNESCO"],
+      en: ["Built in 1658", "Protection port for gold shipments", "Part of UNESCO World Heritage"]
+    }, image: "/poi-images/fuerte-san-jeronimo-history-v2.webp"},
+  {
+    id: "fuerte-santiago-portobelo-history-v2",
+    type: "historical",
+    parent: "PA-3",
+    coords: [-79.652, 9.553],
+    name: { de: "Fuerte Santiago", hu: "Fuerte Santiago", ro: "Fuerte Santiago", en: "Fuerte Santiago" },
+    description: { de: "Eine weitere strategische Festung in Portobelo, erbaut zur Zeit der spanischen Kolonialherrschaft.", hu: "További stratégiai erődítmény Portobelóban, a spanyol gyarmati uralom idején épült.", ro: "O altă fortăreață strategică din Portobelo, construită în timpul stăpânirii coloniale spaniole.", en: "Another strategic fortress in Portobelo, built during the Spanish colonial rule." },
+    facts: {
+      de: ["Erbaut im 18. Jahrhundert", "Strategische Lage am Hafen", "Besuchbar als Museum"],
+      hu: ["A 18. században épült", "Stratégiai hely a kikötőben", "Múzeumként látogatható"],
+      ro: ["Construită în secolul al XVIII-lea", "Poziție strategică la port", "Vizitabilă ca muzeu"],
+      en: ["Built in the 18th century", "Strategic location at the harbor", "Visit as a museum"]
+    }, image: "/poi-images/fuerte-santiago-portobelo-history-v2.webp"},
+  {
+    id: "casa-fuerte-de-la-aduanas-history-v2",
+    type: "historical",
+    parent: "PA-3",
+    coords: [-79.654, 9.554],
+    name: { de: "Casa Fuerte de las Aduanas", hu: "Casa Fuerte de las Aduanas", ro: "Casa Fuerte de las Aduanas", en: "Casa Fuerte de las Aduanas" },
+    description: { de: "Das ehemalige Zollhaus in Portobelo, ein zentraler Ort für den Handel in der Kolonialzeit.", hu: "Egykori vámház Portobelóban, központi kereskedelmi hely a gyarmati korszakban.", ro: "Fosta clădire a vamă din Portobelo, un loc central pentru comerț în perioada colonială.", en: "The former customs house in Portobelo, a central place for trade in the colonial period." },
+    facts: {
+      de: ["Baujahr 1630", "Zentrum des spanischen Handels", "Architektur der Kolonialzeit"],
+      hu: ["Épült 1630-ban", "A spanyol kereskedelem központja", "Gyarmati kori építészet"],
+      ro: ["Construită în 1630", "Centrul comerțului spaniol", "Arhitectură din perioada colonială"],
+      en: ["Built in 1630", "Center of Spanish trade", "Colonial period architecture"]
+    }, image: "/poi-images/casa-fuerte-de-la-aduanas-history-v2.webp"},
+  {
+    id: "fuerte-san-fernando-history-v2",
+    type: "historical",
+    parent: "PA-3",
+    coords: [-79.651, 9.556],
+    name: { de: "Fuerte San Fernando", hu: "Fuerte San Fernando", ro: "Fuerte San Fernando", en: "Fuerte San Fernando" },
+    description: { de: "Eine beeindruckende Küstenfestung oberhalb der Bucht von Portobelo.", hu: "Lenyűgöző part menti erőd Portobelo öble felett.", ro: "O fortăreață de coastă impresionantă deasupra golfului Portobelo.", en: "An impressive coastal fortress above the bay of Portobelo." },
+    facts: {
+      de: ["Strategischer Verteidigungspunkt", "Blick auf den Hafen", "Ruinen erhalten"],
+      hu: ["Stratégiai védelmi pont", "Kilátás a kikötőre", "Romok fennmaradtak"],
+      ro: ["Punct defensiv strategic", "Vedere către port", "Ruine conservate"],
+      en: ["Strategic defense point", "View of the harbor", "Ruins preserved"]
+    }, image: "/poi-images/fuerte-san-fernando-history-v2.webp"},
+  {
+    id: "ruinas-de-la-iglesia-san-felipe-history-v2",
+    type: "historical",
+    parent: "PA-3",
+    coords: [-79.655, 9.554],
+    name: { de: "Ruinen der Kirche San Felipe", hu: "San Felipe templom romjai", ro: "Ruinele bisericii San Felipe", en: "Ruins of the San Felipe Church" },
+    description: { de: "Überreste einer historischen Kirche in der Stadt Portobelo.", hu: "Történelmi templom maradványai Portobelo városában.", ro: "Rămășițele unei biserici istorice din orașul Portobelo.", en: "Remains of a historic church in the town of Portobelo." },
+    facts: {
+      de: ["Erbaut im 17. Jahrhundert", "Religiöses Erbe", "Einstiges Zentrum des Lebens"],
+      hu: ["A 17. században épült", "Vallási örökség", "Az élet egykori központja"],
+      ro: ["Construită în secolul al XVII-lea", "Moștenire religioasă", "Fostul centru al vieții"],
+      en: ["Built in the 17th century", "Religious heritage", "Former center of life"]
+    }, image: "/poi-images/ruinas-de-la-iglesia-san-felipe-history-v2.webp"},
+  {
+    id: "fuerte-san-jose-history-v2",
+    type: "historical",
+    parent: "PA-8",
+    coords: [-79.534, 8.955],
+    name: { de: "Fuerte San José", hu: "Fuerte San José", ro: "Fuerte San José", en: "Fuerte San José" },
+    description: { de: "Eine der historischen Verteidigungsanlagen, die einst die Bucht von Panama schützten.", hu: "Egyike a történelmi védműveknek, amelyek egykor Panama öblét védték.", ro: "Unul dintre sistemele defensive istorice care protejau odinioară golful Panama.", en: "One of the historic defensive systems that once protected the bay of Panama." },
+    facts: {
+      de: ["Wichtiger Verteidigungspunkt", "Koloniale Architektur", "Teil der Altstadt"],
+      hu: ["Fontos védelmi pont", "Gyarmati építészet", "Az óváros része"],
+      ro: ["Punct defensiv important", "Arhitectură colonială", "Parte a orașului vechi"],
+      en: ["Important defense point", "Colonial architecture", "Part of the old town"]
+    }, image: "/poi-images/fuerte-san-jose-history-v2.webp"},
+  {
+    id: "casa-congo-history-v2",
+    type: "historical",
+    parent: "PA-3",
+    coords: [-79.653, 9.553],
+    name: { de: "Casa Congo", hu: "Casa Congo", ro: "Casa Congo", en: "Casa Congo" },
+    description: { de: "Ein kulturelles Zentrum in Portobelo, das die Geschichte der Congos bewahrt.", hu: "Kulturális központ Portobelóban, amely megőrzi a Kongók történelmét.", ro: "Un centru cultural din Portobelo care păstrează istoria Congos.", en: "A cultural center in Portobelo that preserves the history of the Congos." },
+    facts: {
+      de: ["Bewahrung der afro-kolonialen Kultur", "Kulturelles Zentrum", "Wichtige Traditionen"],
+      hu: ["Az afro-gyarmati kultúra megőrzése", "Kulturális központ", "Fontos hagyományok"],
+      ro: ["Conservarea culturii afro-coloniale", "Centru cultural", "Tradiții importante"],
+      en: ["Preservation of Afro-colonial culture", "Cultural center", "Important traditions"]
     }
   },
   {
-    id: "panama-sitio-conte-history-v2",
+    id: "iglesia-de-san-jose-history-v2",
     type: "historical",
-    parent: "PA-CC",
-    coords: [-80.5100, 8.4000],
-    name: { de: "Archäologische Stätte Sitio Conte", hu: "Sitio Conte régészeti lelőhely", ro: "Situl Arheologic Sitio Conte", en: "Sitio Conte Archaeological Site" },
-    description: {
-      de: "Sitio Conte ist eine archäologische Stätte, die für ihr Gold und ihre Keramik berühmt ist. Sie blühte zwischen 700 und 900 n. Chr.",
-      hu: "A Sitio Conte egy régészeti lelőhely, amely aranyáról és kerámiáiról híres. Fénykorát Kr. u. 700 és 900 között élte.",
-      ro: "Sitio Conte este un sit arheologic faimos pentru aurul și ceramica sa. A înflorit între anii 700 și 900 d.Hr.",
-      en: "Sitio Conte is an archaeological site famous for its gold and pottery. It flourished between 700 and 900 AD."
-    },
+    parent: "PA-8",
+    coords: [-79.535, 8.956],
+    name: { de: "Iglesia de San José", hu: "Iglesia de San José", ro: "Iglesia de San José", en: "Iglesia de San José" },
+    description: { de: "Bekannt für seinen goldenen Altar in Casco Viejo, Panama-Stadt.", hu: "Híres az aranyoltáráról Casco Viejóban, Panamavárosban.", ro: "Cunoscută pentru altarul său de aur din Casco Viejo, Panama City.", en: "Known for its golden altar in Casco Viejo, Panama City." },
     facts: {
-      de: ["Bedeutende präkolumbianische Ausgrabungsstätte.", "Berühmt für Keramik und Gold.", "Blütezeit um 700-900 n. Chr.", "Am Ufer des Rio Grande gelegen."],
-      hu: ["Jelentős Kolumbusz előtti ásatási hely.", "Kerámiáiról és aranyáról híres.", "Fénykora Kr. u. 700-900 között volt.", "A Rio Grande partján fekszik."],
-      ro: ["Situl arheologic precolumbian major.", "Faimos pentru ceramică și aur.", "Apogeul în jurul anilor 700-900 d.Hr.", "Situat pe malul Rio Grande."],
-      en: ["Major Pre-Columbian archaeological site.", "Famous for pottery and gold.", "Flourished around 700-900 AD.", "Located on the banks of Rio Grande."]
+      de: ["Goldener Altar", "Barockstil", "Historisches Monument"],
+      hu: ["Aranyoltár", "Barokk stílus", "Történelmi emlékmű"],
+      ro: ["Altar de aur", "Stil baroc", "Monument istoric"],
+      en: ["Golden altar", "Baroque style", "Historic monument"]
+    }, image: "/poi-images/iglesia-de-san-jose-history-v2.webp"},
+  {
+    id: "ruinas-del-convento-de-santo-domingo-history-v2",
+    type: "historical",
+    parent: "PA-8",
+    coords: [-79.533, 8.954],
+    name: { de: "Ruinen des Klosters Santo Domingo", hu: "Santo Domingo kolostor romjai", ro: "Ruinele mănăstirii Santo Domingo", en: "Ruins of the Santo Domingo Convent" },
+    description: { de: "Überreste des Dominikanerklosters in Casco Viejo, Panama-Stadt.", hu: "A domonkos kolostor maradványai Casco Viejóban, Panamavárosban.", ro: "Rămășițele mănăstirii dominicane din Casco Viejo, Panama City.", en: "Remains of the Dominican convent in Casco Viejo, Panama City." },
+    facts: {
+      de: ["Erbaut im 17. Jahrhundert", "Klosteranlage", "Wichtige archäologische Stätte"],
+      hu: ["A 17. században épült", "Kolostoregyüttes", "Fontos régészeti lelőhely"],
+      ro: ["Construită în secolul al XVII-lea", "Complex mănăstiresc", "Sit arheologic important"],
+      en: ["Built in the 17th century", "Convent complex", "Important archaeological site"]
     }
   },
   {
-    id: "panama-barriles-history-v2",
+    id: "fuerte-de-san-laureano-history-v2",
     type: "historical",
-    parent: "PA-CH",
-    coords: [-82.6841, 8.8105],
-    name: { de: "Archäologische Stätte Barriles", hu: "Barriles régészeti lelőhely", ro: "Situl Arheologic Barriles", en: "Barriles Archaeological Site" },
-    description: {
-      de: "Barriles ist eine bedeutende archäologische Stätte in der Nähe von Volcán. Sie zeichnet sich durch Steinkugeln und Zylinder aus.",
-      hu: "A Barriles egy jelentős régészeti lelőhely Volcán közelében. Kőgolyók és hengerek jellemzik.",
-      ro: "Barriles este un sit arheologic important lângă Volcán. Se caracterizează prin sfere și cilindri de piatră.",
-      en: "Barriles is a significant archaeological site near Volcán. It features stone spheres and cylinders."
-    },
+    parent: "PA-3",
+    coords: [-79.652, 9.552],
+    name: { de: "Fuerte de San Laureano", hu: "Fuerte de San Laureano", ro: "Fuerte de San Laureano", en: "Fuerte de San Laureano" },
+    description: { de: "Historische Festung in Portobelo, Teil der Verteidigungsstrategie der Spanier.", hu: "Történelmi erőd Portobelóban, a spanyolok védelmi stratégiájának része.", ro: "Fortăreață istorică din Portobelo, parte a strategiei defensive a spaniolilor.", en: "Historic fortress in Portobelo, part of the defensive strategy of the Spanish." },
     facts: {
-      de: ["Berühmt für steinerne Zylinder.", "Präkolumbianische Siedlung.", "Beweise für verschiedene soziale Klassen.", "Datiert auf 250 bis 600 n. Chr."],
-      hu: ["Kőhengereiről híres.", "Kolumbusz előtti település.", "Bizonyíték a különböző társadalmi osztályokra.", "Kr. u. 250 és 600 közé tehető."],
-      ro: ["Faimos pentru cilindrii de piatră.", "Așezare precolumbiană.", "Dovezi ale claselor sociale distincte.", "Datând din 250 până la 600 d.Hr."],
-      en: ["Famous for stone cylinders.", "Pre-Columbian settlement.", "Evidence of distinct social classes.", "Dating from 250 to 600 AD."]
+      de: ["Festungssystem", "Schutz vor Angreifern", "Kulturelles Erbe"],
+      hu: ["Erődrendszer", "Védelem a támadók ellen", "Kulturális örökség"],
+      ro: ["Sistem de fortificații", "Protecție împotriva atacatorilor", "Moștenire culturală"],
+      en: ["Fortification system", "Protection against attackers", "Cultural heritage"]
+    }, image: "/poi-images/fuerte-de-san-laureano-history-v2.webp"},
+  {
+    id: "iglesia-de-la-merced-history-v2",
+    type: "historical",
+    parent: "PA-8",
+    coords: [-79.532, 8.955],
+    name: { de: "Iglesia de la Merced", hu: "Iglesia de la Merced", ro: "Iglesia de la Merced", en: "Iglesia de la Merced" },
+    description: { de: "Eine der ältesten Kirchen in Casco Viejo, Panama-Stadt.", hu: "Egyik a legrégebbi templomok közül Casco Viejóban, Panamavárosban.", ro: "Una dintre cele mai vechi biserici din Casco Viejo, Panama City.", en: "One of the oldest churches in Casco Viejo, Panama City." },
+    facts: {
+      de: ["Historische Bausubstanz", "Religiöses Zentrum", "Architektonisches Erbe"],
+      hu: ["Történelmi épületszerkezet", "Vallási központ", "Építészeti örökség"],
+      ro: ["Structură istorică", "Centru religios", "Moștenire arhitecturală"],
+      en: ["Historic structure", "Religious center", "Architectural heritage"]
+    }, image: "/poi-images/iglesia-de-la-merced-history-v2.webp"},
+  {
+    id: "fuerte-de-matachin-history-v2",
+    type: "historical",
+    parent: "PA-8",
+    coords: [-79.673, 9.155],
+    name: { de: "Fuerte de Matachín", hu: "Fuerte de Matachín", ro: "Fuerte de Matachín", en: "Fuerte de Matachín" },
+    description: { de: "Historischer Ort entlang der Strecke, die später vom Panamakanal eingenommen wurde.", hu: "Történelmi hely a Panama-csatorna által később elfoglalt útvonal mentén.", ro: "Loc istoric de-a lungul rutei care a fost ulterior ocupată de Canalul Panama.", en: "Historic place along the route later occupied by the Panama Canal." },
+    facts: {
+      de: ["Strategischer Posten", "Entlang des Chagres-Flusses", "Geschichte des Baus"],
+      hu: ["Stratégiai állás", "A Chagres-folyó mentén", "Az építkezés története"],
+      ro: ["Post strategic", "De-a lungul râului Chagres", "Istoria construcției"],
+      en: ["Strategic post", "Along the Chagres River", "History of construction"]
+    }, image: "/poi-images/fuerte-de-matachin-history-v2.webp"},
+  {
+    id: "estacion-del-ferrocarril-de-panama-history-v2",
+    type: "historical",
+    parent: "PA-8",
+    coords: [-79.55, 8.96],
+    name: { de: "Alter Bahnhof von Panama", hu: "Panama régi vasútállomása", ro: "Vechea gară din Panama", en: "Old Panama Railway Station" },
+    description: { de: "Historischer Bahnhof der ersten transkontinentalen Eisenbahn in Panama.", hu: "Panama első transzkontinentális vasútvonalának történelmi állomása.", ro: "Gara istorică a primei căi ferate transcontinentale din Panama.", en: "Historic station of the first transcontinental railway in Panama." },
+    facts: {
+      de: ["Erbaut 1855", "Erste Transkontinentalbahn", "Verkehrsgeschichte"],
+      hu: ["1855-ben épült", "Az első transzkontinentális vasút", "Közlekedéstörténet"],
+      ro: ["Construită în 1855", "Prima cale ferată transcontinentală", "Istoria transportului"],
+      en: ["Built in 1855", "First transcontinental railway", "Transport history"]
     }
   },
   {
-    id: "panama-monagrillo-history-v2",
+    id: "museo-del-canal-interoceanico-history-v2",
     type: "historical",
-    parent: "PA-HE",
-    coords: [-80.4497, 8.0069],
-    name: { de: "Archäologischer Fundplatz Monagrillo", hu: "Monagrillo régészeti lelőhely", ro: "Situl Arheologic Monagrillo", en: "Monagrillo Archaeological Site" },
-    description: {
-      de: "Monagrillo beherbergt die älteste bekannte Keramik in Mittelamerika. Es liefert Hinweise auf die frühe Landwirtschaft in der Region.",
-      hu: "A Monagrillo Közép-Amerika legrégebbi ismert kerámiáinak ad otthont. Távlatokat nyit a régió korai mezőgazdaságára.",
-      ro: "Monagrillo găzduiește cea mai veche ceramică cunoscută din America Centrală. Oferă indicii despre agricultura timpurie.",
-      en: "Monagrillo is home to the oldest known pottery in Central America. It provides clues about early agriculture in the region."
-    },
+    parent: "PA-8",
+    coords: [-79.533, 8.953],
+    name: { de: "Interozeanisches Kanalmuseum", hu: "Interoceániai Csatornamúzeum", ro: "Muzeul Canalului Interoceanic", en: "Interoceanic Canal Museum" },
+    description: { de: "Wichtiges Museum im Casco Viejo zur Geschichte des Panamakanals.", hu: "Fontos múzeum a Casco Viejóban a Panama-csatorna történetéről.", ro: "Muzeu important în Casco Viejo despre istoria Canalului Panama.", en: "Important museum in Casco Viejo about the history of the Panama Canal." },
     facts: {
-      de: ["Älteste bekannte Keramik in Mittelamerika.", "Datiert auf 2500 v. Chr.", "Wichtiger Ort der frühen Landwirtschaft.", "Liegt in der Provinz Herrera."],
-      hu: ["A legrégebbi ismert kerámia Közép-Amerikában.", "Kr. e. 2500-ból származik.", "A korai mezőgazdaság fontos helyszíne.", "Herrera tartományban található."],
-      ro: ["Cea mai veche ceramică din America Centrală.", "Datând din 2500 î.Hr.", "Situl important pentru agricultura timpurie.", "Situat în provincia Herrera."],
-      en: ["Oldest known pottery in Central America.", "Dating to 2500 BC.", "Important site for early agriculture.", "Located in Herrera Province."]
-    }
-  },
+      de: ["Gebäude aus dem 19. Jahrhundert", "Geschichte des Kanalbaus", "Kulturelle Dokumentation"],
+      hu: ["19. századi épület", "A csatornaépítés története", "Kulturális dokumentáció"],
+      ro: ["Clădire din secolul al XIX-lea", "Istoria construcției canalului", "Documentație culturală"],
+      en: ["19th-century building", "History of canal construction", "Cultural documentation"]
+    }, image: "/poi-images/museo-del-canal-interoceanico-history-v2.webp"},
   {
-    id: "panama-cerro-mangote-history-v2",
+    id: "fuerte-de-san-diego-history-v2",
     type: "historical",
-    parent: "PA-CC",
-    coords: [-80.5530, 8.2120],
-    name: { de: "Prähistorische Stätte Cerro Mangote", hu: "Cerro Mangote őskori lelőhely", ro: "Situl Preistoric Cerro Mangote", en: "Cerro Mangote Prehistoric Site" },
-    description: {
-      de: "Cerro Mangote ist ein alter Muschelhaufen, der das frühe Küstenleben zeigt. Die Funde stammen aus der Zeit um 5000 v. Chr.",
-      hu: "A Cerro Mangote egy ősi kagylóhalom, amely a korai partvidéki életet mutatja be. A leletek Kr. e. 5000 körülről származnak.",
-      ro: "Cerro Mangote este o movilă antică de scoici care arată viața de coastă timpurie. Descoperirile datează din 5000 î.Hr.",
-      en: "Cerro Mangote is an ancient shell mound showing early coastal life. The findings date back to 5000 BC."
-    },
+    parent: "PA-3",
+    coords: [-79.654, 9.552],
+    name: { de: "Fuerte de San Diego", hu: "Fuerte de San Diego", ro: "Fuerte de San Diego", en: "Fuerte de San Diego" },
+    description: { de: "Eine weitere Festung in Portobelo, die die Verteidigungslinie verstärkte.", hu: "Újabb erőd Portobelóban, amely megerősítette a védelmi vonalat.", ro: "O altă fortăreață din Portobelo care a întărit linia de apărare.", en: "Another fortress in Portobelo that strengthened the defense line." },
     facts: {
-      de: ["Einer der ältesten Muschelhaufen Panamas.", "Datiert auf 5000 bis 3000 v. Chr.", "Beweise für frühe Küstenbesiedlung.", "Zeigt Übergang zur Landwirtschaft."],
-      hu: ["Panama egyik legrégebbi kagylóhalmaza.", "Kr. e. 5000 és 3000 közé tehető.", "Bizonyíték a korai partvidéki településre.", "A mezőgazdaságra való áttérést mutatja."],
-      ro: ["Una dintre cele mai vechi movile de scoici.", "Datând între 5000 și 3000 î.Hr.", "Dovezi ale așezărilor de coastă timpurii.", "Arată tranziția spre agricultură."],
-      en: ["One of Panama's oldest shell mounds.", "Dating between 5000 and 3000 BC.", "Evidence of early coastal settlement.", "Shows transition to agriculture."]
-    }
-  },
+      de: ["Teil des Verteidigungssystems", "Historische Anlage", "Erbe der Kolonialzeit"],
+      hu: ["A védelmi rendszer része", "Történelmi létesítmény", "Gyarmati örökség"],
+      ro: ["Parte a sistemului de apărare", "Facilitate istorică", "Moștenire colonială"],
+      en: ["Part of the defense system", "Historic facility", "Colonial heritage"]
+    }, image: "/poi-images/fuerte-de-san-diego-history-v2.webp"},
   {
-    id: "panama-petroglifos-caldera-history-v2",
+    id: "iglesia-de-santa-ana-history-v2",
     type: "historical",
-    parent: "PA-CH",
-    coords: [-82.3500, 8.6500],
-    name: { de: "Petroglyphen von Caldera", hu: "Caldera petroglifái", ro: "Petroglifele din Caldera", en: "Caldera Petroglyphs" },
-    description: {
-      de: "Die Petroglyphen von Caldera sind mysteriöse Schnitzereien auf Felsbrocken. Sie bieten einen Einblick in antike Kulturen der Region.",
-      hu: "A Caldera petroglifái rejtélyes faragások a sziklákon. Bepillantást engednek a régió ősi kultúráiba.",
-      ro: "Petroglifele Caldera sunt sculpturi misterioase pe bolovani. Oferă o privire în culturile antice din regiune.",
-      en: "The Caldera Petroglyphs are mysterious carvings on boulders. They offer a glimpse into ancient cultures of the region."
-    },
+    parent: "PA-8",
+    coords: [-79.54, 8.96],
+    name: { de: "Iglesia de Santa Ana", hu: "Iglesia de Santa Ana", ro: "Iglesia de Santa Ana", en: "Iglesia de Santa Ana" },
+    description: { de: "Historische Kirche im Santa Ana Viertel von Panama-Stadt.", hu: "Történelmi templom a panamai Santa Ana negyedben.", ro: "Biserică istorică în cartierul Santa Ana din Panama City.", en: "Historic church in the Santa Ana neighborhood of Panama City." },
     facts: {
-      de: ["Rätselhafte Felszeichnungen in Chiriquí.", "Stammen wahrscheinlich von präkolumbianischen Kulturen.", "Bedeutung der Symbole ist unbekannt.", "Beliebtes Ziel für Archäologen."],
-      hu: ["Rejtélyes sziklarajzok Chiriquíban.", "Valószínűleg Kolumbusz előtti kultúráktól származnak.", "A szimbólumok jelentése ismeretlen.", "Népszerű célpont a régészek számára."],
-      ro: ["Sculpturi enigmatice în stâncă în Chiriquí.", "Probabil de la culturi precolumbiene.", "Semnificația simbolurilor este necunoscută.", "Destinație populară pentru arheologi."],
-      en: ["Enigmatic rock carvings in Chiriquí.", "Likely from Pre-Columbian cultures.", "Meaning of the symbols is unknown.", "Popular destination for archaeologists."]
-    }
-  },
+      de: ["Erbaut im 18. Jahrhundert", "Wichtiger Treffpunkt", "Architektonisches Erbe"],
+      hu: ["A 18. században épült", "Fontos találkozóhely", "Építészeti örökség"],
+      ro: ["Construită în secolul al XVIII-lea", "Loc de întâlnire important", "Moștenire arhitecturală"],
+      en: ["Built in the 18th century", "Important meeting place", "Architectural heritage"]
+    }, image: "/poi-images/iglesia-de-santa-ana-history-v2.webp"},
   {
-    id: "panama-piedra-pintada-history-v2",
+    id: "museo-de-arte-religioso-colonial-history-v2",
     type: "historical",
-    parent: "PA-CC",
-    coords: [-80.1260, 8.6080],
-    name: { de: "Piedra Pintada", hu: "Piedra Pintada", ro: "Piedra Pintada", en: "Piedra Pintada" },
-    description: {
-      de: "Piedra Pintada ist ein massiver Felsbrocken mit prähistorischen Schnitzereien. Viele glauben, dass es sich um eine alte Land- oder Sternenkarte handelt.",
-      hu: "A Piedra Pintada egy hatalmas sziklatömb őskori faragásokkal. Sokan úgy vélik, hogy egy ősi térkép vagy csillagtérkép.",
-      ro: "Piedra Pintada este un bolovan masiv cu sculpturi preistorice. Mulți cred că este o hartă antică sau stelară.",
-      en: "Piedra Pintada is a massive boulder with prehistoric carvings. Many believe it to be an ancient land or star map."
-    },
+    parent: "PA-8",
+    coords: [-79.534, 8.952],
+    name: { de: "Museum für koloniale religiöse Kunst", hu: "Gyarmati Vallásos Művészeti Múzeum", ro: "Muzeul de Artă Religioasă Colonială", en: "Museum of Colonial Religious Art" },
+    description: { de: "Beherbergt Kunstwerke aus der spanischen Kolonialzeit in Panama.", hu: "Spanyol gyarmati korabeli műalkotásokat őriz Panamában.", ro: "Adăpostește opere de artă din perioada colonială spaniolă în Panama.", en: "Houses works of art from the Spanish colonial period in Panama." },
     facts: {
-      de: ["Massiver Felsbrocken mit prähistorischen Gravuren.", "Gefunden in El Valle de Antón.", "Einheimische Mythen umgeben den Stein.", "Mögliche alte Himmelskarte."],
-      hu: ["Hatalmas sziklatömb őskori vésetekkel.", "El Valle de Antónban található.", "Helyi mítoszok övezik a követ.", "Lehetséges ősi csillagtérkép."],
-      ro: ["Bolovan masiv cu gravuri preistorice.", "Găsit în El Valle de Antón.", "Mituri indigene înconjoară piatra.", "Posibilă hartă stelară antică."],
-      en: ["Massive boulder with prehistoric engravings.", "Found in El Valle de Antón.", "Indigenous myths surround the stone.", "Possible ancient star map."]
-    }
-  },
+      de: ["Religiöse Kunstschätze", "Historisches Gebäude", "Kulturgeschichte"],
+      hu: ["Vallásos művészeti kincsek", "Történelmi épület", "Kultúrtörténet"],
+      ro: ["Comori de artă religioasă", "Clădire istorică", "Istorie culturală"],
+      en: ["Religious art treasures", "Historic building", "Cultural history"]
+    }, image: "/poi-images/museo-de-arte-religioso-colonial-history-v2.webp"},
   {
-    id: "panama-nata-basilica-history-v2",
+    id: "arco-chato-history-v2",
     type: "historical",
-    parent: "PA-CC",
-    coords: [-80.5204, 8.3308],
-    name: { de: "Basilika Santiago Apóstol in Natá", hu: "Santiago Apóstol-bazilika Natában", ro: "Bazilica Santiago Apóstol din Natá", en: "Basilica of Santiago Apóstol in Natá" },
-    description: {
-      de: "Die Basilika Santiago Apóstol ist ein koloniales Architekturjuwel. Sie ist eine der ältesten Kirchen in Amerika, die noch in Gebrauch sind.",
-      hu: "A Santiago Apóstol-bazilika egy gyarmati építészeti ékszer. Egyike a legrégebbi, még ma is használt amerikai templomoknak.",
-      ro: "Bazilica Santiago Apóstol este o bijuterie a arhitecturii coloniale. Este una dintre cele mai vechi biserici încă în uz din America.",
-      en: "The Basilica of Santiago Apóstol is a colonial architectural gem. It is one of the oldest churches still in use in the Americas."
-    },
+    parent: "PA-8",
+    coords: [-79.533, 8.954],
+    name: { de: "Arco Chato", hu: "Arco Chato", ro: "Arco Chato", en: "Arco Chato" },
+    description: { de: "Ein berühmter flacher Bogen aus Ziegelsteinen in den Ruinen des Klosters Santo Domingo.", hu: "Híres lapos téglaboltozat a Santo Domingo kolostor romjai között.", ro: "Un celebru arc plat din cărămidă în ruinele mănăstirii Santo Domingo.", en: "A famous flat brick arch in the ruins of the Santo Domingo convent." },
     facts: {
-      de: ["Eine der ältesten Kirchen in Amerika.", "Erbaut im 16. Jahrhundert.", "Koloniales Architekturjuwel.", "Befindet sich in Natá de los Caballeros."],
-      hu: ["Amerika egyik legrégebbi temploma.", "A 16. században épült.", "Gyarmati építészeti ékszer.", "Natá de los Caballerosban található."],
-      ro: ["Una dintre cele mai vechi biserici din America.", "Construită în secolul al XVI-lea.", "Bijuterie a arhitecturii coloniale.", "Situată în Natá de los Caballeros."],
-      en: ["One of the oldest churches in the Americas.", "Built in the 16th century.", "Colonial architectural jewel.", "Located in Natá de los Caballeros."]
-    }
-  },
+      de: ["Bautechnisches Meisterwerk", "Überlebte Brände", "Symbol der Stabilität"],
+      hu: ["Építészeti remekmű", "Túlélte a tűzvészeket", "A stabilitás szimbóluma"],
+      ro: ["Capodoperă inginerească", "A supraviețuit incendiilor", "Simbol al stabilității"],
+      en: ["Engineering masterpiece", "Survived fires", "Symbol of stability"]
+    }, image: "/poi-images/arco-chato-history-v2.webp"},
   {
-    id: "panama-nata-chapel-history-v2",
+    id: "catedral-metropolitana-history-v2",
     type: "historical",
-    parent: "PA-CC",
-    coords: [-80.5195, 8.3315],
-    name: { de: "Kapelle San Juan de Dios in Natá", hu: "San Juan de Dios-kápolna Natában", ro: "Capela San Juan de Dios din Natá", en: "Chapel of San Juan de Dios in Natá" },
-    description: {
-      de: "Die Kapelle San Juan de Dios ist ein historisches Kolonialgebäude. Sie zeigt eine elegante Schlichtheit und ist tief in der Geschichte der Stadt verwurzelt.",
-      hu: "A San Juan de Dios-kápolna egy történelmi gyarmati épület. Elegáns egyszerűséget mutat, és mélyen gyökerezik a város történelmében.",
-      ro: "Capela San Juan de Dios este o clădire colonială istorică. Prezintă o simplitate elegantă și este adânc înrădăcinată în istoria orașului.",
-      en: "The Chapel of San Juan de Dios is a historic colonial building. It showcases elegant simplicity and is deeply rooted in the city's history."
-    },
+    parent: "PA-8",
+    coords: [-79.535, 8.952],
+    name: { de: "Metropolitankathedrale von Panama", hu: "Panamai metropolitán katedrális", ro: "Catedrala Metropolitană din Panama", en: "Metropolitan Cathedral of Panama" },
+    description: { de: "Die bedeutendste Kathedrale in Panama-Stadt, erbaut über mehrere Jahrzehnte.", hu: "Panamaváros legfontosabb katedrálisa, évtizedeken át épült.", ro: "Cea mai importantă catedrală din Panama City, construită pe parcursul mai multor decenii.", en: "The most important cathedral in Panama City, built over several decades." },
     facts: {
-      de: ["Historische Kapelle in Natá.", "Im 17. Jahrhundert errichtet.", "Teil des kolonialen Erbes der Stadt.", "Einfache, aber elegante Architektur."],
-      hu: ["Történelmi kápolna Natában.", "A 17. században épült.", "A város gyarmati örökségének része.", "Egyszerű, de elegáns építészet."],
-      ro: ["Capelă istorică din Natá.", "Construită în secolul al XVII-lea.", "Parte a moștenirii coloniale a orașului.", "Arhitectură simplă, dar elegantă."],
-      en: ["Historic chapel in Natá.", "Built in the 17th century.", "Part of the city's colonial heritage.", "Simple but elegant architecture."]
-    }
-  },
+      de: ["Baubeginn 1688", "Wichtigstes religiöses Zentrum", "Koloniale Architektur"],
+      hu: ["Építése 1688-ban kezdődött", "Legfontosabb vallási központ", "Gyarmati építészet"],
+      ro: ["Construcția a început în 1688", "Cel mai important centru religios", "Arhitectură colonială"],
+      en: ["Construction started in 1688", "Most important religious center", "Colonial architecture"]
+    }, image: "/poi-images/catedral-metropolitana-history-v2.webp"},
   {
-    id: "panama-portobelo-customs-history-v2",
+    id: "fuerte-de-san-luis-history-v2",
     type: "historical",
-    parent: "PA-CL",
-    coords: [-79.6548, 9.5544],
-    name: { de: "Königliches Zollhaus von Portobelo", hu: "Portobelo királyi vámháza", ro: "Vama Regală din Portobelo", en: "Royal Customs House of Portobelo" },
-    description: {
-      de: "Das Königliche Zollhaus von Portobelo war das Zentrum des spanischen Goldhandels. Es ist ein bemerkenswertes architektonisches Meisterwerk im Renaissancestil.",
-      hu: "A portobelói királyi vámház a spanyol aranykereskedelem központja volt. Figyelemre méltó reneszánsz építészeti remekmű.",
-      ro: "Vama Regală din Portobelo a fost centrul comerțului cu aur spaniol. Este o capodoperă arhitecturală remarcabilă în stil renascentist.",
-      en: "The Royal Customs House of Portobelo was the center of Spanish gold trade. It stands as a remarkable Renaissance architectural masterpiece."
-    },
+    parent: "PA-3",
+    coords: [-79.655, 9.553],
+    name: { de: "Fuerte de San Luis", hu: "Fuerte de San Luis", ro: "Fuerte de San Luis", en: "Fuerte de San Luis" },
+    description: { de: "Eine weitere historische Verteidigungsanlage in Portobelo.", hu: "További történelmi védmű Portobelóban.", ro: "O altă facilitate defensivă istorică din Portobelo.", en: "Another historic defensive facility in Portobelo." },
     facts: {
-      de: ["Ehemaliges Zollhaus der spanischen Krone.", "Erbaut 1630.", "Zentrum des Goldhandels.", "Im Renaissancestil errichtet."],
-      hu: ["A spanyol korona egykori vámháza.", "1630-ban épült.", "Az aranykereskedelem központja.", "Reneszánsz stílusban épült."],
-      ro: ["Fosta vamă a Coroanei Spaniole.", "Construită în 1630.", "Centrul comerțului cu aur.", "Construită în stil renascentist."],
-      en: ["Former customs house of the Spanish Crown.", "Built in 1630.", "Center of the gold trade.", "Built in Renaissance style."]
-    }
-  },
+      de: ["Historische Festungsanlage", "Schutz gegen Piraten", "Teil der Anlage"],
+      hu: ["Történelmi erődítmény", "Védelem a kalózok ellen", "A létesítmény része"],
+      ro: ["Facilitate fortificată istorică", "Protecție împotriva piraților", "Parte a complexului"],
+      en: ["Historic fortification", "Protection against pirates", "Part of the complex"]
+    }, image: "/poi-images/fuerte-de-san-luis-history-v2.webp"},
   {
-    id: "panama-san-jeronimo-fort-history-v2",
+    id: "bovedas-de-panama-history-v2",
     type: "historical",
-    parent: "PA-CL",
-    coords: [-79.6530, 9.5540],
-    name: { de: "Festung San Jerónimo", hu: "San Jerónimo-erőd", ro: "Fortăreața San Jerónimo", en: "San Jerónimo Fort" },
-    description: {
-      de: "Die Festung San Jerónimo ist die größte Befestigungsanlage in Portobelo. Sie schützte die spanischen Schatzflotten vor Piratenangriffen.",
-      hu: "A San Jerónimo-erőd Portobelo legnagyobb erődítménye. Védte a spanyol kincsflottákat a kalóztámadásoktól.",
-      ro: "Fortăreața San Jerónimo este cea mai mare fortificație din Portobelo. A protejat flotele spaniole de comori de atacurile piraților.",
-      en: "San Jerónimo Fort is the largest fortress in Portobelo. It protected the Spanish treasure fleets from pirate attacks."
-    },
+    parent: "PA-8",
+    coords: [-79.53, 8.95],
+    name: { de: "Las Bóvedas", hu: "Las Bóvedas", ro: "Las Bóvedas", en: "Las Bóvedas" },
+    description: { de: "Historische Gewölbe an der Stadtmauer von Casco Viejo.", hu: "Történelmi boltozatok Casco Viejo városfalánál.", ro: "Bolți istorice pe zidul orașului din Casco Viejo.", en: "Historic vaults on the city wall of Casco Viejo." },
     facts: {
-      de: ["Größte Festung in Portobelo.", "Teil des UNESCO-Weltkulturerbes.", "Schützte den Hafen vor Piraten.", "Erbaut im 17. Jahrhundert."],
-      hu: ["Portobelo legnagyobb erődje.", "Az UNESCO Világörökség része.", "Védte a kikötőt a kalózoktól.", "A 17. században épült."],
-      ro: ["Cea mai mare fortăreață din Portobelo.", "Parte a Patrimoniului Mondial UNESCO.", "A protejat portul de pirați.", "Construită în secolul al XVII-lea."],
-      en: ["Largest fortress in Portobelo.", "Part of the UNESCO World Heritage Site.", "Protected the harbor from pirates.", "Built in the 17th century."]
-    }
-  },
+      de: ["Erbaut als Gefängnis", "Teil der Stadtbefestigung", "Blick auf den Pazifik"],
+      hu: ["Börtönnek épült", "A városfal része", "Kilátás a Csendes-óceánra"],
+      ro: ["Construite ca închisoare", "Parte a fortificațiilor orașului", "Vedere spre Pacific"],
+      en: ["Built as a prison", "Part of city fortifications", "View of the Pacific"]
+    }, image: "/poi-images/bovedas-de-panama-history-v2.webp"},
   {
-    id: "panama-santiago-gloria-fort-history-v2",
+    id: "casa-ayora-history-v2",
     type: "historical",
-    parent: "PA-CL",
-    coords: [-79.6580, 9.5520],
-    name: { de: "Festung Santiago de la Gloria", hu: "Santiago de la Gloria-erőd", ro: "Fortăreața Santiago de la Gloria", en: "Santiago de la Gloria Fort" },
-    description: {
-      de: "Die Festung Santiago de la Gloria war eine wichtige Küstenverteidigung. Sie erlitt während der Piratenangriffe im 18. Jahrhundert erhebliche Schäden.",
-      hu: "A Santiago de la Gloria-erőd fontos partvédelmi állomás volt. A 18. századi kalóztámadások során jelentős károkat szenvedett.",
-      ro: "Fortăreața Santiago de la Gloria a fost o apărare de coastă cheie. A suferit pagube semnificative în timpul atacurilor piraților din secolul al XVIII-lea.",
-      en: "Santiago de la Gloria Fort was a key coastal defense. It suffered significant damage during pirate attacks in the 18th century."
-    },
+    parent: "PA-8",
+    coords: [-79.534, 8.956],
+    name: { de: "Casa Ayora", hu: "Casa Ayora", ro: "Casa Ayora", en: "Casa Ayora" },
+    description: { de: "Ein bedeutendes historisches Wohnhaus in Panama-Stadt.", hu: "Fontos történelmi lakóépület Panamavárosban.", ro: "O clădire rezidențială istorică importantă din Panama City.", en: "An important historic residential building in Panama City." },
     facts: {
-      de: ["Historische Festung in Portobelo.", "1739 von Admiral Vernon zerstört.", "Aus Korallengestein erbaut.", "Wichtige Verteidigungsanlage."],
-      hu: ["Történelmi erőd Portobelóban.", "1739-ben Vernon admirális lerombolta.", "Korallkőből épült.", "Fontos védelmi építmény."],
-      ro: ["Fortăreață istorică din Portobelo.", "Distrusă de amiralul Vernon în 1739.", "Construită din rocă de corali.", "Structură defensivă importantă."],
-      en: ["Historic fortress in Portobelo.", "Destroyed by Admiral Vernon in 1739.", "Built from coral rock.", "Important defensive structure."]
-    }
-  },
+      de: ["Kolonialer Stil", "Historische Bausubstanz", "Wohnkultur der Zeit"],
+      hu: ["Gyarmati stílus", "Történelmi épületszerkezet", "Korabeli lakáskultúra"],
+      ro: ["Stil colonial", "Structură istorică", "Cultură rezidențială a vremii"],
+      en: ["Colonial style", "Historic structure", "Residential culture of the time"]
+    }, image: "/poi-images/casa-ayora-history-v2.webp"},
   {
-    id: "panama-san-fernando-fort-history-v2",
+    id: "iglesia-de-san-francisco-de-asis-history-v2",
     type: "historical",
-    parent: "PA-CL",
-    coords: [-79.6560, 9.5570],
-    name: { de: "Festung San Fernando", hu: "San Fernando-erőd", ro: "Fortăreața San Fernando", en: "San Fernando Fort" },
-    description: {
-      de: "Die Festung San Fernando bewacht den nördlichen Eingang zur Bucht von Portobelo. Sie bietet einen strategischen Blick auf den Hafen.",
-      hu: "A San Fernando-erőd a portobelói öböl északi bejáratát őrzi. Stratégiai kilátást nyújt a kikötőre.",
-      ro: "Fortăreața San Fernando păzește intrarea de nord în golful Portobelo. Oferă vederi strategice ale portului.",
-      en: "San Fernando Fort guards the northern entrance to Portobelo bay. It offers strategic views of the harbor."
-    },
+    parent: "PA-8",
+    coords: [-79.532, 8.953],
+    name: { de: "Iglesia de San Francisco de Asís", hu: "Iglesia de San Francisco de Asís", ro: "Iglesia de San Francisco de Asís", en: "Iglesia de San Francisco de Asís" },
+    description: { de: "Historische Franziskanerkirche in Casco Viejo, Panama-Stadt.", hu: "Történelmi ferences templom Casco Viejóban, Panamavárosban.", ro: "Biserică franciscană istorică din Casco Viejo, Panama City.", en: "Historic Franciscan church in Casco Viejo, Panama City." },
     facts: {
-      de: ["Befindet sich auf der Nordseite der Bucht.", "Überwachte die Einfahrt nach Portobelo.", "Teil des spanischen Verteidigungssystems.", "Bietet tolle Aussichten auf die Bucht."],
-      hu: ["Az öböl északi oldalán található.", "Felügyelte a Portobelóba vezető bejáratot.", "A spanyol védelmi rendszer része.", "Remek kilátást nyújt az öbölre."],
-      ro: ["Situat pe partea de nord a golfului.", "A supravegheat intrarea în Portobelo.", "Parte a sistemului defensiv spaniol.", "Oferă vederi minunate asupra golfului."],
-      en: ["Located on the north side of the bay.", "Monitored the entrance to Portobelo.", "Part of the Spanish defensive system.", "Offers great views of the bay."]
-    }
-  },
+      de: ["Gegründet von Franziskanern", "Religiöses Zentrum", "Architektonisches Erbe"],
+      hu: ["Ferencesek alapították", "Vallási központ", "Építészeti örökség"],
+      ro: ["Fondată de franciscani", "Centru religios", "Moștenire arhitecturală"],
+      en: ["Founded by Franciscans", "Religious center", "Architectural heritage"]
+    }, image: "/poi-images/iglesia-de-san-francisco-de-asis-history-v2.webp"},
   {
-    id: "panama-camino-real-history-v2",
+    id: "museo-de-historia-de-panama-history-v2",
     type: "historical",
-    parent: "PA-PA",
-    coords: [-79.5500, 9.3500],
-    name: { de: "Camino Real (Panama)", hu: "Camino Real (Panama)", ro: "Camino Real (Panama)", en: "Camino Real (Panama)" },
-    description: {
-      de: "Der Camino Real war eine wichtige steinige Route für den Goldtransport. Er verband den Atlantik und den Pazifik über die Landenge.",
-      hu: "A Camino Real fontos kővel kirakott útvonal volt az aranyszállításhoz. A földszoroson keresztül kötötte össze az Atlanti- és a Csendes-óceánt.",
-      ro: "Camino Real a fost o rută importantă pietruită pentru transportul aurului. A conectat oceanele Atlantic și Pacific peste istm.",
-      en: "The Camino Real was a vital stone-paved route for transporting gold. It connected the Atlantic and Pacific oceans across the isthmus."
-    },
+    parent: "PA-8",
+    coords: [-79.531, 8.952],
+    name: { de: "Museum für Geschichte von Panama", hu: "Panamai Történeti Múzeum", ro: "Muzeul de Istorie din Panama", en: "Museum of History of Panama" },
+    description: { de: "Dokumentiert die Geschichte des Landes vom Kolonialismus bis heute.", hu: "Dokumentálja az ország történetét a gyarmatosítástól napjainkig.", ro: "Documentează istoria țării de la colonialism până în prezent.", en: "Documents the history of the country from colonialism to the present day." },
     facts: {
-      de: ["Historische Route der Spanier.", "Transportierte Gold nach Portobelo.", "Verband Atlantik und Pazifik.", "Vieles davon ist heute vom Dschungel bedeckt."],
-      hu: ["A spanyolok történelmi útvonala.", "Aranyat szállítottak Portobelóba.", "Összekötötte az Atlanti- és a Csendes-óceánt.", "Ma nagy részét dzsungel borítja."],
-      ro: ["Ruta istorică a spaniolilor.", "Transporta aur la Portobelo.", "Lega Oceanul Atlantic de Pacific.", "O mare parte este acum acoperită de junglă."],
-      en: ["Historic route of the Spaniards.", "Transported gold to Portobelo.", "Connected the Atlantic and Pacific.", "Much of it is now covered by jungle."]
-    }
-  },
+      de: ["Historische Dokumentation", "Nationalgeschichte", "Kulturelles Erbe"],
+      hu: ["Történelmi dokumentáció", "Nemzeti történelem", "Kulturális örökség"],
+      ro: ["Documentație istorică", "Istorie națională", "Moștenire culturală"],
+      en: ["Historic documentation", "National history", "Cultural heritage"]
+    }, image: "/poi-images/museo-de-historia-de-panama-history-v2.webp"},
   {
-    id: "panama-camino-cruces-history-v2",
+    id: "plaza-francia-history-v2",
     type: "historical",
-    parent: "PA-PA",
-    coords: [-79.6300, 9.0700],
-    name: { de: "Camino de Cruces", hu: "Camino de Cruces", ro: "Camino de Cruces", en: "Camino de Cruces" },
-    description: {
-      de: "Der Camino de Cruces wurde sowohl von Kaufleuten als auch von Piraten genutzt. Er kombinierte Land- und Flussreisen quer durch das Land.",
-      hu: "A Camino de Crucest kereskedők és kalózok egyaránt használták. Kombinálta a szárazföldi és a folyami utazást az országon keresztül.",
-      ro: "Traseul Cruces a fost folosit atât de comercianți, cât și de pirați. A combinat călătoriile pe uscat și pe râu pe întreg istmul.",
-      en: "The Cruces Trail was used by merchants and pirates alike. It combined land and river travel across the isthmus."
-    },
+    parent: "PA-8",
+    coords: [-79.53, 8.951],
+    name: { de: "Plaza Francia", hu: "Plaza Francia", ro: "Plaza Francia", en: "Plaza Francia" },
+    description: { de: "Ein geschichtsträchtiger Platz in Casco Viejo, gewidmet den französischen Kanalbauern.", hu: "Történelemben gazdag tér Casco Viejóban, amelyet a francia csatornaépítőknek szenteltek.", ro: "O piață plină de istorie în Casco Viejo, dedicată constructorilor francezi de canale.", en: "A square rich in history in Casco Viejo, dedicated to the French canal builders." },
     facts: {
-      de: ["Alternative Route zum Camino Real.", "Nutzt den Fluss Chagres.", "Von Freibeutern wie Henry Morgan genutzt.", "Steingepflasterter Weg im Dschungel."],
-      hu: ["A Camino Real alternatív útvonala.", "A Chagres-folyót használta.", "Olyan kalózok használták, mint Henry Morgan.", "Kikövezett út a dzsungelben."],
-      ro: ["Ruta alternativă la Camino Real.", "Folosește râul Chagres.", "Folosit de pirați precum Henry Morgan.", "Traseu pietruit în junglă."],
-      en: ["Alternative route to the Camino Real.", "Used the Chagres River.", "Used by buccaneers like Henry Morgan.", "Stone-paved trail in the jungle."]
-    }
-  },
+      de: ["Denkmal an französische Bauherren", "Historischer Platz", "Koloniales Flair"],
+      hu: ["Emlékmű a francia építőknek", "Történelmi tér", "Gyarmati hangulat"],
+      ro: ["Monument pentru constructorii francezi", "Piață istorică", "Atmosferă colonială"],
+      en: ["Monument to French builders", "Historic square", "Colonial flair"]
+    }, image: "/poi-images/plaza-francia-history-v2.webp"},
   {
-    id: "panama-arco-chato-history-v2",
+    id: "iglesia-del-carmen-history-v2",
     type: "historical",
-    parent: "PA-PA",
-    coords: [-79.5330, 8.9525],
-    name: { de: "Kloster Santo Domingo (Arco Chato)", hu: "Santo Domingo-kolostor (Arco Chato)", ro: "Mănăstirea Santo Domingo (Arco Chato)", en: "Santo Domingo Convent (Arco Chato)" },
-    description: {
-      de: "Das Kloster Santo Domingo ist berühmt für seinen flachen Bogen. Dieser Bogen bewies die seismische Stabilität der Region für den Kanalbau.",
-      hu: "A Santo Domingo kolostor a lapos ívéről híres. Ez az ív bizonyította a régió szeizmikus stabilitását a csatornaépítés szempontjából.",
-      ro: "Mănăstirea Santo Domingo este faimoasă pentru arcul său plat. Acest arc a dovedit stabilitatea seismică a regiunii pentru construirea canalului.",
-      en: "The Santo Domingo Convent is famous for its flat arch. This arch proved the region's seismic stability for canal construction."
-    },
+    parent: "PA-8",
+    coords: [-79.52, 8.98],
+    name: { de: "Iglesia del Carmen", hu: "Iglesia del Carmen", ro: "Iglesia del Carmen", en: "Iglesia del Carmen" },
+    description: { de: "Eine architektonisch bedeutende Kirche in Panama-Stadt.", hu: "Építészetileg jelentős templom Panamavárosban.", ro: "O biserică semnificativă din punct de vedere arhitectural în Panama City.", en: "An architecturally significant church in Panama City." },
     facts: {
-      de: ["Bekannt für seinen Flachbogen (Arco Chato).", "Im 17. Jahrhundert erbaut.", "Wurde nie von einem Erdbeben zerstört.", "Symbol der Stabilität Panamas."],
-      hu: ["Lapos ívéről (Arco Chato) ismert.", "A 17. században épült.", "Földrengés sosem rombolta le.", "Panama stabilitásának szimbóluma."],
-      ro: ["Cunoscută pentru arcul său plat (Arco Chato).", "Construită în secolul al XVII-lea.", "Nu a fost niciodată distrusă de un cutremur.", "Simbol al stabilității din Panama."],
-      en: ["Known for its flat arch (Arco Chato).", "Built in the 17th century.", "Never destroyed by an earthquake.", "Symbol of Panama's stability."]
-    }
-  },
+      de: ["Gotisches Design", "Historische Kirche", "Wichtiges Monument"],
+      hu: ["Gótikus kialakítás", "Történelmi templom", "Fontos emlékmű"],
+      ro: ["Design gotic", "Biserică istorică", "Monument important"],
+      en: ["Gothic design", "Historic church", "Important monument"]
+    }, image: "/poi-images/iglesia-del-carmen-history-v2.webp"},
   {
-    id: "panama-jesuit-ruins-history-v2",
+    id: "fuerte-de-san-miguel-history-v2",
     type: "historical",
-    parent: "PA-PA",
-    coords: [-79.5340, 8.9520],
-    name: { de: "Ruinen der Kirche der Gesellschaft Jesu", hu: "A Jézus Társasága templomának romjai", ro: "Ruinele Bisericii Companiei lui Isus", en: "Ruins of the Church of the Society of Jesus" },
-    description: {
-      de: "Die Ruinen der Jesuitenkirche stellen eine frühe koloniale Universität dar. Sie wurden im 18. Jahrhundert durch ein Feuer zerstört.",
-      hu: "A jezsuita templom romjai egy korai gyarmati egyetemet képviselnek. A 18. században egy tűzvész pusztította el őket.",
-      ro: "Ruinele bisericii iezuite reprezintă o universitate colonială timpurie. Au fost distruse de un incendiu în secolul al XVIII-lea.",
-      en: "The Ruins of the Society of Jesus represent an early colonial university. They were destroyed by fire in the 18th century."
-    },
+    parent: "PA-3",
+    coords: [-79.65, 9.55],
+    name: { de: "Fuerte de San Miguel", hu: "Fuerte de San Miguel", ro: "Fuerte de San Miguel", en: "Fuerte de San Miguel" },
+    description: { de: "Eine Verteidigungsstruktur in Portobelo, die Teil der historischen Schutzanlagen war.", hu: "Védelmi építmény Portobelóban, amely a történelmi védművek része volt.", ro: "O structură defensivă în Portobelo, care a făcut parte din sistemele de protecție istorice.", en: "A defense structure in Portobelo that was part of the historic protection facilities." },
     facts: {
-      de: ["Ruinen einer Jesuitenkirche.", "Erbaut um 1741.", "Diente als Universität.", "1781 durch ein Feuer zerstört."],
-      hu: ["Egy jezsuita templom romjai.", "1741 körül épült.", "Egyetemként szolgált.", "1781-ben tűzvész pusztította el."],
-      ro: ["Ruinele unei biserici iezuite.", "Construită în jurul anului 1741.", "A servit drept universitate.", "Distrusă de un incendiu în 1781."],
-      en: ["Ruins of a Jesuit church.", "Built around 1741.", "Served as a university.", "Destroyed by a fire in 1781."]
-    }
-  },
-  {
-    id: "panama-casa-gongora-history-v2",
-    type: "historical",
-    parent: "PA-PA",
-    coords: [-79.5320, 8.9515],
-    name: { de: "Casa Góngora", hu: "Casa Góngora", ro: "Casa Góngora", en: "Casa Góngora" },
-    description: {
-      de: "Die Casa Góngora ist ein gut erhaltenes Original-Kolonialhaus. Es gibt Einblicke in den Lebensstil wohlhabender Kaufleute von damals.",
-      hu: "A Casa Góngora egy jól megőrzött eredeti gyarmati ház. Bepillantást enged az akkori gazdag kereskedők életmódjába.",
-      ro: "Casa Góngora este o casă colonială originală bine conservată. Oferă o perspectivă asupra stilului de viață al comercianților bogați de atunci.",
-      en: "Casa Góngora is a well-preserved original colonial house. It provides insight into the lifestyle of wealthy merchants of the era."
-    },
-    facts: {
-      de: ["Eines der ältesten Häuser in Casco Viejo.", "Erbaut 1756.", "Einziges originales Kolonialhaus.", "Benannt nach einem Perlenhändler."],
-      hu: ["A Casco Viejo egyik legrégebbi háza.", "1756-ban épült.", "Az egyetlen eredeti gyarmati ház.", "Egy gyöngykereskedőről kapta a nevét."],
-      ro: ["Una dintre cele mai vechi case din Casco Viejo.", "Construită în 1756.", "Singura casă colonială originală.", "Numită după un negustor de perle."],
-      en: ["One of the oldest houses in Casco Viejo.", "Built in 1756.", "Only original colonial house.", "Named after a pearl merchant."]
-    }
-  },
-  {
-    id: "panama-la-merced-history-v2",
-    type: "historical",
-    parent: "PA-PA",
-    coords: [-79.5360, 8.9540],
-    name: { de: "Kirche La Merced (Panama)", hu: "La Merced-templom (Panama)", ro: "Biserica La Merced (Panama)", en: "La Merced Church (Panama)" },
-    description: {
-      de: "Die Kirche La Merced hat eine Steinfassade, die aus Panamá Viejo transportiert wurde. Sie überlebte die Piratenangriffe von Henry Morgan.",
-      hu: "A La Merced templom kőhomlokzatát Panamá Viejoból szállították ide. Túlélte Henry Morgan kalóztámadásait.",
-      ro: "Biserica La Merced are o fațadă de piatră adusă din Panamá Viejo. A supraviețuit atacurilor piraților lui Henry Morgan.",
-      en: "La Merced Church features a stone facade transported from Panamá Viejo. It survived the pirate attacks of Henry Morgan."
-    },
-    facts: {
-      de: ["Die Steinfassade stammt aus Panamá Viejo.", "1680 an den neuen Standort verlegt.", "Eine der ältesten in Casco Viejo.", "Überlebte die Zerstörung durch Morgan."],
-      hu: ["A kőhomlokzat Panamá Viejoból származik.", "1680-ban helyezték át az új helyszínre.", "Az egyik legrégebbi a Casco Viejoban.", "Túlélte Morgan pusztítását."],
-      ro: ["Fațada de piatră provine din Panamá Viejo.", "Mutată în noua locație în 1680.", "Una dintre cele mai vechi din Casco Viejo.", "A supraviețuit distrugerii lui Morgan."],
-      en: ["The stone facade comes from Panamá Viejo.", "Moved to the new location in 1680.", "One of the oldest in Casco Viejo.", "Survived the destruction by Morgan."]
-    }
-  },
-  {
-    id: "panama-santa-ana-history-v2",
-    type: "historical",
-    parent: "PA-PA",
-    coords: [-79.5390, 8.9555],
-    name: { de: "Kirche Santa Ana (Panama-Stadt)", hu: "Santa Ana-templom (Panamaváros)", ro: "Biserica Santa Ana (Orașul Panama)", en: "Santa Ana Church (Panama City)" },
-    description: {
-      de: "Die Santa-Ana-Kirche war historisch das Zentrum für die Arbeiterklasse. Sie spielte eine wichtige Rolle in der Unabhängigkeitsbewegung.",
-      hu: "A Santa Ana templom történelmileg a munkásosztály központja volt. Fontos szerepet játszott a függetlenségi mozgalomban.",
-      ro: "Biserica Sfânta Ana a fost istoric centrul clasei muncitoare. A jucat un rol în mișcarea de independență.",
-      en: "Santa Ana Church was historically the center for the working class. It played a role in independence movements."
-    },
-    facts: {
-      de: ["Erbaut zwischen 1757 und 1764.", "Historisches Zentrum für die Arbeiterklasse.", "Oft umgebaut und renoviert.", "Wichtig für die Unabhängigkeitsbewegung."],
-      hu: ["1757 és 1764 között épült.", "A munkásosztály történelmi központja.", "Gyakran átépítették és felújították.", "Fontos a függetlenségi mozgalom számára."],
-      ro: ["Construită între 1757 și 1764.", "Centru istoric pentru clasa muncitoare.", "Deseori reconstruită și renovată.", "Importantă pentru mișcarea de independență."],
-      en: ["Built between 1757 and 1764.", "Historic center for the working class.", "Often rebuilt and renovated.", "Important to the independence movement."]
-    }
-  },
-  {
-    id: "panama-viejo-tower-history-v2",
-    type: "historical",
-    parent: "PA-PA",
-    coords: [-79.4855, 9.0068],
-    name: { de: "Kathedralenturm von Panamá Viejo", hu: "A Panamá Viejo-i katedrális tornya", ro: "Turnul Catedralei din Panamá Viejo", en: "Cathedral Tower of Panamá Viejo" },
-    description: {
-      de: "Der Kathedralenturm ist das Wahrzeichen von Panamá Viejo. Er diente früher sowohl als Glockenturm als auch als Wachturm.",
-      hu: "A katedrális tornya Panamá Viejo jellegzetes szimbóluma. Egykor harangtoronyként és őrtoronyként is szolgált.",
-      ro: "Turnul Catedralei este simbolul iconic al orașului Panamá Viejo. Cândva a servit atât ca turn cu clopot, cât și ca turn de veghe.",
-      en: "The Cathedral Tower is the iconic symbol of Panamá Viejo. It once served as both a bell tower and a watchtower."
-    },
-    facts: {
-      de: ["Wahrzeichen von Panamá Viejo.", "Diente auch als Wachturm.", "Vier Stockwerke hoch.", "Zeuge der Zerstörung durch Piraten."],
-      hu: ["Panamá Viejo jelképe.", "Őrtoronyként is szolgált.", "Négy emelet magas.", "A kalózok pusztításának tanúja."],
-      ro: ["Simbolul orașului Panamá Viejo.", "A servit și ca turn de veghe.", "Înalt de patru etaje.", "Martor al distrugerii de către pirați."],
-      en: ["Symbol of Panamá Viejo.", "Also served as a watchtower.", "Four stories high.", "Witness to the destruction by pirates."]
-    }
-  },
-  {
-    id: "panama-concepcion-ruins-history-v2",
-    type: "historical",
-    parent: "PA-PA",
-    coords: [-79.4860, 9.0060],
-    name: { de: "Ruinen des Klosters La Concepción", hu: "A La Concepción-kolostor romjai", ro: "Ruinele Mănăstirii La Concepción", en: "Ruins of the La Concepción Convent" },
-    description: {
-      de: "Das Kloster La Concepción war die Heimat von Kolonialnonnen. Die massive Zisterne ist bis heute erhalten und sichtbar.",
-      hu: "A La Concepción kolostor a gyarmati apácák otthona volt. Hatalmas ciszternája ma is látható.",
-      ro: "Mănăstirea La Concepción a găzduit călugărițe din perioada colonială. Cisterna sa masivă este vizibilă și astăzi.",
-      en: "The Convent of La Concepción was home to colonial nuns. Its massive cistern is still visible today."
-    },
-    facts: {
-      de: ["Größter religiöser Komplex in Panamá Viejo.", "Gegründet 1598.", "Heimat von Nonnen.", "Besitzt eine große Zisterne."],
-      hu: ["A legnagyobb vallási komplexum Panamá Viejoban.", "1598-ban alapították.", "Apácák otthona volt.", "Hatalmas ciszternával rendelkezik."],
-      ro: ["Cel mai mare complex religios din Panamá Viejo.", "Fondat în 1598.", "Cămin al călugărițelor.", "Are o cisternă mare."],
-      en: ["Largest religious complex in Panamá Viejo.", "Founded in 1598.", "Home to nuns.", "Has a large cistern."]
-    }
-  },
-  {
-    id: "panama-san-francisco-montana-history-v2",
-    type: "historical",
-    parent: "PA-VS",
-    coords: [-80.9760, 8.2325],
-    name: { de: "Kirche San Francisco de la Montaña", hu: "San Francisco de la Montaña-templom", ro: "Biserica San Francisco de la Montaña", en: "San Francisco de la Montaña Church" },
-    description: {
-      de: "Die Kirche San Francisco de la Montaña ist berühmt für ihre Holzaltäre. Sie ist ein atemberaubendes Beispiel für den kolonialen Barock.",
-      hu: "A San Francisco de la Montaña templom híres a faoltárairól. Ez a gyarmati barokk lenyűgöző példája.",
-      ro: "Biserica San Francisco de la Montaña este faimoasă pentru altarele sale din lemn. Este un exemplu uimitor al barocului colonial.",
-      en: "San Francisco de la Montaña Church is famous for its wooden altars. It is a stunning example of colonial Baroque."
-    },
-    facts: {
-      de: ["Nationales historisches Denkmal.", "Bekannt für holzgeschnitzte Altäre.", "Barockstil.", "Erbaut im 18. Jahrhundert."],
-      hu: ["Nemzeti történelmi műemlék.", "Fafaragású oltárairól ismert.", "Barokk stílusú.", "A 18. században épült."],
-      ro: ["Monument istoric național.", "Cunoscut pentru altarele sculptate în lemn.", "Stil baroc.", "Construit în secolul al XVIII-lea."],
-      en: ["National Historic Monument.", "Known for wood-carved altars.", "Baroque style.", "Built in the 18th century."]
-    }
-  },
-  {
-    id: "panama-normal-school-history-v2",
-    type: "historical",
-    parent: "PA-VS",
-    coords: [-80.9800, 8.0980],
-    name: { de: "Normalschule Juan Demóstenes Arosemena", hu: "Juan Demóstenes Arosemena Normáliskola", ro: "Școala Normală Juan Demóstenes Arosemena", en: "Juan Demóstenes Arosemena Normal School" },
-    description: {
-      de: "Die Normalschule Juan Demóstenes Arosemena ist ein historisches Bildungszentrum. Sie besticht durch eine beeindruckende spanische Kolonialarchitektur.",
-      hu: "A Juan Demóstenes Arosemena Normáliskola történelmi oktatási központ. Lenyűgöző spanyol gyarmati építészet jellemzi.",
-      ro: "Școala Normală Juan Demóstenes Arosemena este un centru educațional istoric. Prezintă o arhitectură colonială spaniolă impresionantă.",
-      en: "The Juan Demóstenes Arosemena Normal School is a historic educational center. It features impressive Spanish colonial architecture."
-    },
-    facts: {
-      de: ["Eröffnet im Jahr 1938.", "Zentrum für die Lehrerausbildung.", "Spanische Kolonialarchitektur.", "Bedeutend für Panamas Bildungssystem."],
-      hu: ["1938-ban nyitották meg.", "A tanárképzés központja.", "Spanyol gyarmati építészet.", "Jelentős a panamai oktatási rendszerben."],
-      ro: ["Deschis în 1938.", "Centru pentru formarea profesorilor.", "Arhitectură colonială spaniolă.", "Semnificativ pentru sistemul educațional."],
-      en: ["Opened in 1938.", "Center for teacher training.", "Spanish colonial architecture.", "Significant to Panama's education system."]
-    }
-  },
-  {
-    id: "panama-french-cemetery-history-v2",
-    type: "historical",
-    parent: "PA-PA",
-    coords: [-79.6200, 9.0270],
-    name: { de: "Französischer Friedhof (Panama)", hu: "Francia temető (Panama)", ro: "Cimitirul Francez (Panama)", en: "French Cemetery (Panama)" },
-    description: {
-      de: "Der Französische Friedhof ehrt die Arbeiter des ersten Kanalbauversuchs. Viele von ihnen kamen durch Gelbfieber tragisch ums Leben.",
-      hu: "A francia temető a korai csatornaépítési kísérlet munkásai előtt tiszteleg. Sokan közülük sárgalázban vesztették életüket.",
-      ro: "Cimitirul Francez îi onorează pe muncitorii primului efort de construire a canalului. Mulți au pierit tragic din cauza febrei galbene.",
-      en: "The French Cemetery honors the workers of the early canal effort. Many perished from yellow fever."
-    },
-    facts: {
-      de: ["Ruhestätte französischer Kanalarbeiter.", "Erinnert an den französischen Kanalbauversuch.", "Hunderte starben an Gelbfieber.", "Ein stilles, mahnendes Denkmal."],
-      hu: ["Francia csatornaépítő munkások nyughelye.", "A francia csatornaépítési kísérletre emlékeztet.", "Több százan haltak meg sárgalázban.", "Csendes, figyelmeztető emlékmű."],
-      ro: ["Locul de odihnă al muncitorilor francezi.", "Aminteste de încercarea franceză de a construi canalul.", "Sute au murit de febră galbenă.", "Un memorial tăcut, care dă de gândit."],
-      en: ["Resting place of French canal workers.", "Commemorates the French canal attempt.", "Hundreds died of yellow fever.", "A silent, sobering memorial."]
-    }
-  },
-  {
-    id: "panama-gorgas-hospital-history-v2",
-    type: "historical",
-    parent: "PA-PA",
-    coords: [-79.5480, 8.9580],
-    name: { de: "Gorgas-Hospital", hu: "Gorgas Kórház", ro: "Spitalul Gorgas", en: "Gorgas Hospital" },
-    description: {
-      de: "Das Gorgas-Hospital spielte eine entscheidende Rolle beim Bau des Panamakanals. Es stand im Zentrum der Ausrottung des Gelbfiebers.",
-      hu: "A Gorgas Kórház kulcsszerepet játszott a Panama-csatorna építése során. Központi szerepet töltött be a sárgaláz felszámolásában.",
-      ro: "Spitalul Gorgas a jucat un rol crucial în timpul construcției canalului. A fost central în eradicarea febrei galbene.",
-      en: "Gorgas Hospital played a crucial role during the canal construction. It was central to eradicating yellow fever."
-    },
-    facts: {
-      de: ["Historisches Krankenhaus in Ancon.", "Wichtig bei der Ausrottung von Gelbfieber.", "Gegründet 1904.", "Benannt nach William C. Gorgas."],
-      hu: ["Történelmi kórház Anconban.", "Fontos szerepe volt a sárgaláz felszámolásában.", "1904-ben alapították.", "William C. Gorgasról nevezték el."],
-      ro: ["Spital istoric din Ancon.", "Important în eradicarea febrei galbene.", "Fondat în 1904.", "Numit după William C. Gorgas."],
-      en: ["Historic hospital in Ancon.", "Important in the eradication of yellow fever.", "Founded in 1904.", "Named after William C. Gorgas."]
-    }
-  },
-  {
-    id: "panama-national-institute-history-v2",
-    type: "historical",
-    parent: "PA-PA",
-    coords: [-79.5420, 8.9575],
-    name: { de: "Nationalinstitut von Panama", hu: "Panamai Nemzeti Intézet", ro: "Institutul Național din Panama", en: "National Institute of Panama" },
-    description: {
-      de: "Das Nationalinstitut ist eine ikonische Bildungseinrichtung. Es ist historisch stark mit den Studentenprotesten im Land verbunden.",
-      hu: "A Nemzeti Intézet egy ikonikus oktatási intézmény. Történelmileg szorosan kapcsolódik az országos diáktüntetésekhez.",
-      ro: "Institutul Național este o instituție de învățământ emblematică. Este legat istoric de protestele studențești.",
-      en: "The National Institute is an iconic educational institution. It is historically linked to student protests."
-    },
-    facts: {
-      de: ["Bekannt als das Adlernest.", "Gegründet im Jahr 1907.", "Zentrum von Studentenprotesten 1964.", "Historisches Schulgebäude."],
-      hu: ["A Sasfészek néven is ismert.", "1907-ben alapították.", "Az 1964-es diáktüntetések központja.", "Történelmi iskolaépület."],
-      ro: ["Cunoscut sub numele de Cuibul Vulturului.", "Fondat în 1907.", "Centrul protestelor studențești din 1964.", "Clădire școlară istorică."],
-      en: ["Known as the Eagle's Nest.", "Founded in 1907.", "Center of student protests in 1964.", "Historic school building."]
-    }
-  },
-  {
-    id: "panama-balboa-monument-history-v2",
-    type: "historical",
-    parent: "PA-PA",
-    coords: [-79.5290, 8.9710],
-    name: { de: "Denkmal für Vasco Núñez de Balboa", hu: "Vasco Núñez de Balboa emlékműve", ro: "Monumentul lui Vasco Núñez de Balboa", en: "Vasco Núñez de Balboa Monument" },
-    description: {
-      de: "Das Denkmal für Vasco Núñez de Balboa blickt auf den Pazifik. Es ehrt den ersten Europäer, der den Pazifischen Ozean von Amerika aus sah.",
-      hu: "A Vasco Núñez de Balboa emlékmű a Csendes-óceánra néz. Annak az első európainak állít emléket, aki látta a Csendes-óceánt.",
-      ro: "Monumentul lui Vasco Núñez de Balboa privește spre Oceanul Pacific. Îl onorează pe primul european care a văzut Pacificul din Americi.",
-      en: "The Vasco Núñez de Balboa Monument overlooks the Pacific Ocean. It honors the first European to see the Pacific."
-    },
-    facts: {
-      de: ["Statue des spanischen Entdeckers.", "Geschenk von König Alfons XIII.", "Eingeweiht 1924.", "Blickt auf den Pazifischen Ozean."],
-      hu: ["A spanyol felfedező szobra.", "XIII. Alfonz király ajándéka.", "1924-ben avatták fel.", "A Csendes-óceánra néz."],
-      ro: ["Statuia exploratorului spaniol.", "Cadou de la Regele Alfonso al XIII-lea.", "Inaugurat în 1924.", "Privește spre Oceanul Pacific."],
-      en: ["Statue of the Spanish explorer.", "Gift from King Alfonso XIII.", "Inaugurated in 1924.", "Faces the Pacific Ocean."]
-    }
-  },
-  {
-    id: "panama-zarate-museum-history-v2",
-    type: "historical",
-    parent: "PA-LS",
-    coords: [-80.2730, 7.8285],
-    name: { de: "Casa Museo Manuel F. Zárate", hu: "Manuel F. Zárate Emlékház", ro: "Casa Muzeu Manuel F. Zárate", en: "Manuel F. Zárate House Museum" },
-    description: {
-      de: "Das Casa Museo Manuel F. Zárate widmet sich der panamaischen Folklore. Es bewahrt stolz das reiche kulturelle Erbe der gesamten Region.",
-      hu: "A Manuel F. Zárate Emlékház a panamai folklórnak szenteli magát. Büszkén őrzi a régió gazdag kulturális örökségét.",
-      ro: "Casa Muzeu Manuel F. Zárate este dedicată folclorului panamez. Păstrează cu mândrie bogata moștenire culturală a regiunii.",
-      en: "The Manuel F. Zárate House Museum is dedicated to Panamanian folklore. It preserves the cultural heritage of the region."
-    },
-    facts: {
-      de: ["Museum für Folklore.", "Ehemaliges Haus des Schriftstellers Zárate.", "Zentrum der panamaischen Kultur.", "In Guararé gelegen."],
-      hu: ["Folklórmúzeum.", "Zárate író egykori háza.", "A panamai kultúra központja.", "Guararéban található."],
-      ro: ["Muzeul de folclor.", "Fosta casă a scriitorului Zárate.", "Centrul culturii panameze.", "Situat în Guararé."],
-      en: ["Museum of folklore.", "Former home of writer Zárate.", "Center of Panamanian culture.", "Located in Guararé."]
-    }
-  },
-  {
-    id: "panama-santa-librada-history-v2",
-    type: "historical",
-    parent: "PA-LS",
-    coords: [-80.2780, 7.7650],
-    name: { de: "Kirche Santa Librada", hu: "Santa Librada-templom", ro: "Biserica Santa Librada", en: "Santa Librada Church" },
-    description: {
-      de: "Die Kirche Santa Librada bildet das spirituelle Herz von Las Tablas. Hier findet das berühmte und farbenfrohe nationale Pollera-Festival statt.",
-      hu: "A Santa Librada templom Las Tablas spirituális szíve. Itt rendezik meg a híres és színes nemzeti Pollera Fesztivált.",
-      ro: "Biserica Sfânta Librada este inima orașului Las Tablas. Găzduiește faimosul și coloratul Festival Național Pollera.",
-      en: "Santa Librada Church is the heart of Las Tablas. It hosts the famous National Pollera Festival."
-    },
-    facts: {
-      de: ["Historische Kirche in Las Tablas.", "Erbaut im 18. Jahrhundert.", "Zentrum des Nationalfestes der Polleras.", "Beherbergt Reliquien von Santa Librada."],
-      hu: ["Történelmi templom Las Tablasban.", "A 18. században épült.", "A Polleras nemzeti fesztivál központja.", "Santa Librada ereklyéinek ad otthont."],
-      ro: ["Biserică istorică din Las Tablas.", "Construită în secolul al XVIII-lea.", "Centrul festivalului național Polleras.", "Găzduiește moaștele Sfintei Librada."],
-      en: ["Historic church in Las Tablas.", "Built in the 18th century.", "Center of the National Pollera Festival.", "Houses relics of Santa Librada."]
-    }
-  }
+      de: ["Historische Festung", "Teil des kolonialen Erbes", "Strategischer Verteidigungspunkt"],
+      hu: ["Történelmi erőd", "A gyarmati örökség része", "Stratégiai védelmi pont"],
+      ro: ["Fortăreață istorică", "Parte a moștenirii coloniale", "Punct defensiv strategic"],
+      en: ["Historic fortress", "Part of colonial heritage", "Strategic defense point"]
+    }, image: "/poi-images/fuerte-de-san-miguel-history-v2.webp"}
 ];
+

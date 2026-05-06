@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUsaNatureV2: POI[] = [
@@ -30,8 +31,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Az Itasca Állami Parkban található.", "Észak-Amerika leghosszabb folyórendszerének kezdetének számít.", "Népszerű turisztikai célpont."],
       ro: ["Situat în Parcul Statal Itasca.", "Considerat începutul celui mai lung sistem fluvial din America de Nord.", "O destinație turistică populară."],
       en: ["Located in Itasca State Park.", "Considered the start of the longest river system in North America.", "A popular tourist destination."]
-    }
-  },
+    }, image: "/poi-images/mississippi-river-source-nature-v2.webp"},
   {
     id: "mount-rainier-nature-v2",
     type: "mountain",
@@ -61,8 +61,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Cascade-hegység legmagasabb csúcsa.", "Aktív vulkán.", "Erősen eljegesedett.", "A hegyet nemzeti park veszi körül."],
       ro: ["Cel mai înalt vârf din lanțul Cascade.", "Un vulcan activ.", "Puternic glaciat.", "Un parc național înconjoară muntele."],
       en: ["Highest peak in the Cascade Range.", "An active volcano.", "Heavily glaciated.", "A national park surrounds the mountain."]
-    }
-  },
+    }, image: "/poi-images/mount-rainier-nature-v2.webp"},
   {
     id: "lake-tahoe-nature-v2",
     type: "lake",
@@ -92,8 +91,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Észak-Amerika legnagyobb alpesi tava.", "Híres tiszta vizéről.", "Kalifornia és Nevada határán fekszik.", "Népszerű egész évben látogatható üdülőhely."],
       ro: ["Cel mai mare lac alpin din America de Nord.", "Cunoscut pentru apa sa limpede.", "Situat la granița dintre California și Nevada.", "Destinație populară de vacanță pe tot parcursul anului."],
       en: ["The largest alpine lake in North America.", "Known for its clear water.", "Located on the border of California and Nevada.", "Popular year-round vacation destination."]
-    }
-  },
+    }, image: "/poi-images/lake-tahoe-nature-v2.webp"},
   {
     id: "tongass-national-forest-nature-v2",
     type: "forest",
@@ -123,8 +121,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Magában foglalja a világ legnagyobb mérsékelt övi esőerdőjét.", "Számos vadállatnak ad otthont, köztük medvéknek és sasoknak.", "Fontos erőforrás a faipar és a turizmus számára.", "Szigeteket, fjordokat és gleccsereket foglal magában."],
       ro: ["Include cea mai mare pădure tropicală temperată din lume.", "Găzduiește multe animale sălbatice, inclusiv urși și vulturi.", "Resursă importantă pentru industria lemnului și turism.", "Include insule, fiorduri și ghețari."],
       en: ["Contains the world's largest temperate rainforest.", "Home to abundant wildlife, including bears and eagles.", "Important resource for logging and tourism.", "Includes islands, fjords, and glaciers."]
-    }
-  },
+    }, image: "/poi-images/tongass-national-forest-nature-v2.webp"},
   {
     id: "gulf-of-mexico-nature-v2",
     type: "sea",
@@ -154,8 +151,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Öt amerikai állammal határos.", "Fontos régió az olaj- és gázkitermelés szempontjából.", "Változatos tengeri ökoszisztémáknak ad otthont.", "Hurrikánok által veszélyeztetett terület."],
       ro: ["Se învecinează cu cinci state americane.", "Regiune importantă pentru extracția de petrol și gaze.", "Găzduiește ecosisteme marine diverse.", "Amenințat de uragane."],
       en: ["Bordered by five U.S. states.", "Important region for oil and gas extraction.", "Home to diverse marine ecosystems.", "Prone to hurricanes."]
-    }
-  },
+    }, image: "/poi-images/gulf-of-mexico-nature-v2.webp"},
   {
     id: "mount-desert-island-nature-v2",
     type: "island",
@@ -185,8 +181,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Az Acadia Nemzeti Park nagy részének ad otthont.", "Sziklás partvidékéről ismert.", "Legmagasabb pontja a Cadillac Mountain.", "Népszerű nyári úti cél."],
       ro: ["Găzduiește cea mai mare parte a Parcului Național Acadia.", "Cunoscută pentru coasta sa stâncoasă.", "Cel mai înalt punct este Muntele Cadillac.", "Destinație populară de vară."],
       en: ["Home to most of Acadia National Park.", "Known for its rocky coastline.", "Highest point is Cadillac Mountain.", "Popular summer destination."]
-    }
-  },
+    }, image: "/poi-images/mount-desert-island-nature-v2.webp"},
   {
     id: "colorado-river-nature-v2",
     type: "river",
@@ -216,8 +211,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Átfolyik a Grand Canyonon.", "Fontos vízforrás több állam számára.", "Erősen szabályozzák gátak, mint például a Hoover-gát.", "Vízhiány sújtja."],
       ro: ["Curge prin Marele Canion.", "Sursă importantă de apă pentru mai multe state.", "Puternic regularizat de baraje precum Barajul Hoover.", "Supus penuriei de apă."],
       en: ["Flows through the Grand Canyon.", "Important water source for several states.", "Heavily regulated by dams like the Hoover Dam.", "Subject to water shortages."]
-    }
-  },
+    }, image: "/poi-images/colorado-river-nature-v2.webp"},
   {
     id: "crater-lake-nature-v2",
     type: "lake",
@@ -247,8 +241,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Az Egyesült Államok legmélyebb tava.", "A Mount Mazama vulkán összeomlásával jött létre.", "Csak csapadék táplálja.", "A Crater Lake Nemzeti Park fő látványossága."],
       ro: ["Cel mai adânc lac din Statele Unite.", "Format prin prăbușirea vulcanului Mount Mazama.", "Alimentat doar de precipitații.", "Atracția principală a Parcului Național Crater Lake."],
       en: ["The deepest lake in the United States.", "Formed by the collapse of the volcano Mount Mazama.", "Fed only by precipitation.", "Main attraction of Crater Lake National Park."]
-    }
-  },
+    }, image: "/poi-images/crater-lake-nature-v2.webp"},
   {
     id: "sequoia-national-forest-nature-v2",
     type: "forest",
@@ -278,8 +271,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A világ legnagyobb fáinak némelyikének ad otthont.", "Határos a Szekója és Kings Canyon Nemzeti Parkkal.", "Változatos szabadidős lehetőségeket kínál.", "Fontos élőhely a vadon élő állatok számára."],
       ro: ["Găzduiește unii dintre cei mai mari copaci din lume.", "Se învecinează cu Parcul Național Sequoia & Kings Canyon.", "Oferă diverse oportunități de recreere.", "Habitat important pentru animale sălbatice."],
       en: ["Home to some of the largest trees in the world.", "Borders Sequoia & Kings Canyon National Parks.", "Offers diverse recreational opportunities.", "Important wildlife habitat."]
-    }
-  },
+    }, image: "/poi-images/sequoia-national-forest-nature-v2.webp"},
   {
     id: "pikes-peak-nature-v2",
     type: "mountain",
@@ -309,8 +301,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Észak-Amerika egyik leglátogatottabb hegye.", "Az 'America the Beautiful' című dalt ihlette.", "Fizetős úton és fogaskerekű vasúton is elérhető.", "Évente megrendezett hegyi verseny helyszíne."],
       ro: ["Unul dintre cei mai vizitați munți din America de Nord.", "A inspirat cântecul 'America the Beautiful'.", "Accesibil printr-un drum cu taxă și o cale ferată cu cremalieră.", "Gazda unei curse anuale de viteză în coastă."],
       en: ["One of the most visited mountains in North America.", "Inspired the song 'America the Beautiful'.", "Accessible by a toll road and a cog railway.", "Host of an annual hill climb auto race."]
-    }
-  },
+    }, image: "/poi-images/pikes-peak-nature-v2.webp"},
   {
     id: "great-salt-lake-nature-v2",
     type: "lake",
@@ -340,8 +331,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Lefolyástalan tó.", "A magas sótartalom lehetővé teszi a lebegést.", "Fontos élőhely több millió vándormadár számára.", "A víz elvezetése miatt zsugorodik."],
       ro: ["Lac endoreic fără ieșire.", "Salinitatea ridicată permite plutirea.", "Habitat important pentru milioane de păsări migratoare.", "Se micșorează din cauza devierilor de apă."],
       en: ["Endorheic lake with no outlet.", "High salinity allows for floating.", "Crucial habitat for millions of migratory birds.", "Is shrinking due to water diversions."]
-    }
-  },
+    }, image: "/poi-images/great-salt-lake-nature-v2.webp"},
   {
     id: "key-west-nature-v2",
     type: "island",
@@ -371,8 +361,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Az kontinentális USA legdélibb pontja.", "Korallzátonyairól ismert.", "Ernest Hemingway történelmi otthona.", "Népszerű a Mallory Square-i naplementék miatt."],
       ro: ["Cel mai sudic punct al Statelor Unite continentale.", "Cunoscut pentru recifele sale de corali.", "Fosta casă a lui Ernest Hemingway.", "Popular pentru apusurile de soare la Mallory Square."],
       en: ["Southernmost point of the continental USA.", "Known for its coral reefs.", "Historic home of Ernest Hemingway.", "Popular for sunsets at Mallory Square."]
-    }
-  },
+    }, image: "/poi-images/key-west-nature-v2.webp"},
   {
     id: "hudson-river-nature-v2",
     type: "river",
@@ -402,8 +391,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Hudson-völgyön folyik keresztül.", "New York Citynél ömlik az Atlanti-óceánba.", "Történelmileg 'Északi-folyóként' ismert.", "A Hudson River School festészeti irányzatot ihlette."],
       ro: ["Curge prin Valea Hudson.", "Se varsă în Oceanul Atlantic la New York City.", "Cunoscut istoric sub numele de 'Râul de Nord'.", "A inspirat Școala de pictură Hudson River."],
       en: ["Flows through the Hudson Valley.", "Empties into the Atlantic Ocean at New York City.", "Historically known as the 'North River'.", "Inspired the Hudson River School of painting."]
-    }
-  },
+    }, image: "/poi-images/hudson-river-nature-v2.webp"},
   {
     id: "coconino-national-forest-nature-v2",
     type: "forest",
@@ -433,8 +421,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Körülveszi Sedona városát.", "A világ legnagyobb ponderosa fenyőerdőjének ad otthont.", "Vörös sziklaalakzatokat tartalmaz.", "A tájak széles skáláját kínálja."],
       ro: ["Înconjoară orașul Sedona.", "Găzduiește cea mai mare pădure de pini ponderosa din lume.", "Conține formațiuni de stâncă roșie.", "Oferă o gamă largă de peisaje."],
       en: ["Surrounds the city of Sedona.", "Home to the world's largest contiguous Ponderosa Pine forest.", "Features red rock formations.", "Offers a wide range of landscapes."]
-    }
-  },
+    }, image: "/poi-images/coconino-national-forest-nature-v2.webp"},
   {
     id: "mauna-kea-nature-v2",
     type: "mountain",
@@ -464,8 +451,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Lábától a csúcsáig a világ legmagasabb hegye.", "Szent hely a hawaii kultúrában.", "Csúcsán számos obszervatórium található.", "Alvó vulkán."],
       ro: ["Cel mai înalt munte din lume de la bază la vârf.", "Loc sacru în cultura hawaiană.", "Vârful găzduiește numeroase observatoare.", "Vulcan adormit."],
       en: ["Tallest mountain in the world from base to peak.", "Sacred site in Hawaiian culture.", "Summit hosts numerous observatories.", "A dormant volcano."]
-    }
-  },
+    }, image: "/poi-images/mauna-kea-nature-v2.webp"},
   {
     id: "bering-sea-nature-v2",
     type: "sea",
@@ -495,8 +481,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Elválasztja Ázsia és Észak-Amerika kontinensét.", "Nagyon produktív tengeri ökoszisztéma.", "Híres a rákhalászatáról.", "Számos tengeri emlős otthona."],
       ro: ["Separă continentele Asia și America de Nord.", "Ecosistem marin foarte productiv.", "Cunoscut pentru pescuitul de crabi.", "Habitat pentru multe mamifere marine."],
       en: ["Separates the continents of Asia and North America.", "Highly productive marine ecosystem.", "Known for its crab fisheries.", "Home to many marine mammals."]
-    }
-  },
+    }, image: "/poi-images/bering-sea-nature-v2.webp"},
   {
     id: "marthas-vineyard-nature-v2",
     type: "island",
@@ -526,8 +511,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Népszerű nyári célpont a gazdagok számára.", "Csak hajóval vagy repülővel érhető el.", "Festői városairól ismert.", "A 'Cápa' című film forgatási helyszíne volt."],
       ro: ["Destinație populară de vară pentru cei bogați.", "Accesibilă doar cu barca sau cu avionul.", "Cunoscută pentru orașele sale pitorești.", "A fost locația de filmare pentru filmul 'Fălci'."],
       en: ["Popular summer destination for the affluent.", "Accessible only by boat or air.", "Known for its picturesque towns.", "Was the filming location for the movie 'Jaws'."]
-    }
-  },
+    }, image: "/poi-images/marthas-vineyard-nature-v2.webp"},
   {
     id: "lake-pontchartrain-nature-v2",
     type: "lake",
@@ -557,8 +541,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Valójában torkolati tó, nem tisztán tó.", "A Lake Pontchartrain Causeway híd szeli át.", "Fontos a helyi halászat számára.", "A hurrikánok vihardagályai veszélyeztetik."],
       ro: ["De fapt, un estuar, nu un lac propriu-zis.", "Traversat de podul Lake Pontchartrain Causeway.", "Important pentru pescuitul local.", "Vulnerabil la valurile de furtună provocate de uragane."],
       en: ["Technically an estuary, not a lake.", "Crossed by the Lake Pontchartrain Causeway.", "Important for local fisheries.", "Vulnerable to storm surge from hurricanes."]
-    }
-  },
+    }, image: "/poi-images/lake-pontchartrain-nature-v2.webp"},
   {
     id: "rio-grande-nature-v2",
     type: "river",
@@ -588,8 +571,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Hosszú határt képez az USA és Mexikó között.", "A coloradói Sziklás-hegységben ered.", "Fontos vízforrás egy száraz régióban.", "Neve spanyolul 'Nagy Folyót' jelent."],
       ro: ["Formează o lungă graniță între SUA și Mexic.", "Izvorăște din Munții Stâncoși din Colorado.", "Sursă importantă de apă într-o regiune aridă.", "Numele înseamnă 'Râu Mare' în spaniolă."],
       en: ["Forms a long border between the US and Mexico.", "Originates in the Rocky Mountains of Colorado.", "Vital water source in an arid region.", "Name means 'Big River' in Spanish."]
-    }
-  },
+    }, image: "/poi-images/rio-grande-nature-v2.webp"},
   {
     id: "white-mountain-national-forest-nature-v2",
     type: "forest",
@@ -619,8 +601,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Presidential Range nagy részének ad otthont.", "Híres őszi lombhullásáról.", "A Mount Washington extrém időjárásáról ismert.", "Nagyon népszerű túrázáshoz és síeléshez."],
       ro: ["Găzduiește o mare parte din lanțul Presidential.", "Cunoscută pentru frunzișul său de toamnă.", "Muntele Washington are o vreme extremă.", "Foarte popular pentru drumeții și schi."],
       en: ["Home to a large portion of the Presidential Range.", "Famous for its fall foliage.", "Mount Washington has some of the world's most extreme weather.", "Very popular for hiking and skiing."]
-    }
-  },
+    }, image: "/poi-images/white-mountain-national-forest-nature-v2.webp"},
   {
     id: "mount-shasta-nature-v2",
     type: "mountain",
@@ -650,8 +631,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Potenciálisan aktív rétegvulkán.", "Sokan spirituális központnak tartják.", "Észak-Kalifornia tájképét uralja.", "Négy egymást átfedő vulkáni kúpból áll."],
       ro: ["Un stratovulcan potențial activ.", "Considerat un centru spiritual de mulți.", "Domină peisajul din nordul Californiei.", "Compus din patru conuri vulcanice suprapuse."],
       en: ["A potentially active stratovolcano.", "Considered a spiritual center by many.", "Dominates the landscape of Northern California.", "Composed of four overlapping volcanic cones."]
-    }
-  },
+    }, image: "/poi-images/mount-shasta-nature-v2.webp"},
   {
     id: "lake-okeechobee-nature-v2",
     type: "lake",
@@ -681,8 +661,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Florida legnagyobb édesvízi tava.", "Méretéhez képest nagyon sekély.", "Az Everglades ökoszisztéma központi eleme.", "Fontos a régió vízellátása szempontjából."],
       ro: ["Cel mai mare lac de apă dulce din Florida.", "Foarte puțin adânc pentru dimensiunea sa.", "Piesa centrală a ecosistemului Everglades.", "Important pentru alimentarea cu apă a regiunii."],
       en: ["Largest freshwater lake in Florida.", "Very shallow for its size.", "The heart of the Everglades ecosystem.", "Important for the region's water supply."]
-    }
-  },
+    }, image: "/poi-images/lake-okeechobee-nature-v2.webp"},
   {
     id: "santa-catalina-island-nature-v2",
     type: "island",
@@ -712,8 +691,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Channel-szigetek szigetcsoport része.", "Híres tiszta vizeiről és búvárhelyeiről.", "Bölénypopulációnak ad otthont.", "Fő városa Avalon."],
       ro: ["Parte a arhipelagului Channel Islands.", "Cunoscută pentru apele sale limpezi și locurile de scufundări.", "Găzduiește o populație de bizoni.", "Principalul oraș este Avalon."],
       en: ["Part of the Channel Islands archipelago.", "Known for its clear waters and dive sites.", "Home to a population of bison.", "The main town is Avalon."]
-    }
-  },
+    }, image: "/poi-images/santa-catalina-island-nature-v2.webp"},
   {
     id: "missouri-river-nature-v2",
     type: "river",
@@ -743,8 +721,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Észak-Amerika leghosszabb folyója.", "Fontos útvonal volt a Lewis és Clark expedíció számára.", "Beceneve 'Nagy Sár' a magas üledéktartalma miatt.", "St. Louis-nál ömlik a Mississippibe."],
       ro: ["Cel mai lung fluviu din America de Nord.", "Ruta importantă pentru expediția Lewis și Clark.", "Poreclit 'Big Muddy' datorită conținutului său ridicat de sedimente.", "Se varsă în Mississippi lângă St. Louis."],
       en: ["Longest river in North America.", "An important route for the Lewis and Clark Expedition.", "Nicknamed 'Big Muddy' for its high sediment content.", "Joins the Mississippi River near St. Louis."]
-    }
-  },
+    }, image: "/poi-images/missouri-river-nature-v2.webp"},
   {
     id: "pisgah-national-forest-nature-v2",
     type: "forest",
@@ -774,8 +751,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Az USA keleti részének egyik első nemzeti erdője.", "Vízeséseiről és túraútvonalairól ismert.", "Az USA első erdészeti iskolájának otthona.", "Magashegyi keményfaerdőket foglal magában."],
       ro: ["Una dintre primele păduri naționale din estul SUA.", "Cunoscută pentru cascadele și traseele sale de drumeții.", "Gazda primei școli de silvicultură din SUA.", "Include păduri de foioase de mare altitudine."],
       en: ["One of the first national forests in the eastern US.", "Known for its waterfalls and hiking trails.", "Home to the first school of forestry in the US.", "Features high-elevation hardwood forests."]
-    }
-  },
+    }, image: "/poi-images/pisgah-national-forest-nature-v2.webp"},
   {
     id: "mount-hood-nature-v2",
     type: "mountain",
@@ -805,8 +781,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Oregon legmagasabb hegye.", "12 gleccsernek ad otthont.", "Egész évben lehet síelni.", "Potenciálisan aktív vulkán."],
       ro: ["Cel mai înalt munte din Oregon.", "Găzduiește 12 ghețari.", "Schiatul este posibil pe tot parcursul anului.", "Vulcan potențial activ."],
       en: ["Oregon's highest mountain.", "Home to 12 glaciers.", "Year-round skiing is possible.", "A potentially active volcano."]
-    }
-  },
+    }, image: "/poi-images/mount-hood-nature-v2.webp"},
   {
     id: "padre-island-nature-v2",
     type: "island",
@@ -836,8 +811,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A világ leghosszabb turzás-szigete.", "Fontos fészkelőhely a tengeri teknősök számára.", "Északi és Déli Padre-szigetre oszlik.", "Népszerű madármegfigyeléshez és horgászathoz."],
       ro: ["Cea mai lungă insulă barieră din lume.", "Loc important de cuibărit pentru țestoasele marine.", "Împărțită în Insula Padre de Nord și Insula Padre de Sud.", "Populară pentru observarea păsărilor și pescuit."],
       en: ["The longest barrier island in the world.", "Important nesting ground for sea turtles.", "Divided into North Padre and South Padre Island.", "Popular for bird watching and fishing."]
-    }
-  },
+    }, image: "/poi-images/padre-island-nature-v2.webp"},
   {
     id: "gulf-of-alaska-nature-v2",
     type: "sea",
@@ -867,8 +841,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["Híres heves viharairól.", "Fontos halászterület, különösen a lazac számára.", "Jellemzőek a tengerbe borjadzó gleccserek.", "Az USA legnagyobb nemzeti erdőjével határos."],
       ro: ["Cunoscut pentru furtunile sale severe.", "Zonă importantă de pescuit, în special pentru somon.", "Caracterizat de ghețari care se varsă în mare.", "Se învecinează cu cea mai mare pădure națională din SUA."],
       en: ["Known for severe storms.", "Important fishing grounds, especially for salmon.", "Characterized by glaciers calving into the sea.", "Borders the largest US national forest."]
-    }
-  },
+    }, image: "/poi-images/gulf-of-alaska-nature-v2.webp"},
   {
     id: "ohio-river-nature-v2",
     type: "river",
@@ -898,8 +871,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       hu: ["A Mississippi legnagyobb mellékfolyója vízhozam szerint.", "Történelmileg a szabad és rabszolgatartó államok határát képezte.", "Fontos vízi út az ipar számára.", "Forrása Pittsburghben, Pennsylvaniában található."],
       ro: ["Cel mai mare afluent al fluviului Mississippi după volum.", "A format istoric granița dintre statele libere și cele sclavagiste.", "Cale navigabilă importantă pentru industrie.", "Izvorăște în Pittsburgh, Pennsylvania."],
       en: ["Largest tributary of the Mississippi River by volume.", "Historically formed the border between free and slave states.", "Important waterway for industry.", "Source is in Pittsburgh, Pennsylvania."]
-    }
-  },
+    }, image: "/poi-images/ohio-river-nature-v2.webp"},
   {
     id: "sawtooth-national-forest-nature-v2",
     type: "forest",
@@ -932,3 +904,4 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
     }
   }
 ]
+

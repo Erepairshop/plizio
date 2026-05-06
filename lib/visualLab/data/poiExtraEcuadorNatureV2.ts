@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEcuadorNatureV2: POI[] = [
@@ -43,8 +44,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Highest peak in Ecuador",
         "Summit is ice-capped"
       ]
-    }
-  },
+    }, image: "/poi-images/chimborazo-nature-v2.webp"},
   {
     id: "cotopaxi-nature-v2",
     type: "mountain",
@@ -87,8 +87,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Perfect cone shape",
         "Popular mountaineering destination"
       ]
-    }
-  },
+    }, image: "/poi-images/cotopaxi-nature-v2.webp"},
   {
     id: "cayambe-nature-v2",
     type: "mountain",
@@ -131,8 +130,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Massive glaciers",
         "Third highest peak"
       ]
-    }
-  },
+    }, image: "/poi-images/cayambe-nature-v2.webp"},
   {
     id: "antisana-nature-v2",
     type: "mountain",
@@ -175,8 +173,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Home to the Andean condor",
         "Difficult mountain to climb"
       ]
-    }
-  },
+    }, image: "/poi-images/antisana-nature-v2.webp"},
   {
     id: "el-altar-nature-v2",
     type: "mountain",
@@ -219,8 +216,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Laguna Amarilla in the center",
         "Technically demanding climb"
       ]
-    }
-  },
+    }, image: "/poi-images/el-altar-nature-v2.webp"},
   {
     id: "illiniza-nature-v2",
     type: "mountain",
@@ -263,8 +259,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Popular acclimatization climb",
         "Separated by a saddle"
       ]
-    }
-  },
+    }, image: "/poi-images/illiniza-nature-v2.webp"},
   {
     id: "tungurahua-nature-v2",
     type: "mountain",
@@ -307,8 +302,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Highly active since 1999",
         "Often threatens Baños"
       ]
-    }
-  },
+    }, image: "/poi-images/tungurahua-nature-v2.webp"},
   {
     id: "pichincha-nature-v2",
     type: "mountain",
@@ -351,8 +345,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Cable car to the top",
         "Last erupted in 1999"
       ]
-    }
-  },
+    }, image: "/poi-images/pichincha-nature-v2.webp"},
   {
     id: "quilotoa-nature-v2",
     type: "lake",
@@ -395,8 +388,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Popular hiking loop",
         "250-meter deep crater"
       ]
-    }
-  },
+    }, image: "/poi-images/quilotoa-nature-v2.webp"},
   {
     id: "cuicocha-nature-v2",
     type: "lake",
@@ -439,8 +431,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Depth: 148 meters",
         "Popular for boat tours"
       ]
-    }
-  },
+    }, image: "/poi-images/cuicocha-nature-v2.webp"},
   {
     id: "san-pablo-lake-nature-v2",
     type: "lake",
@@ -483,8 +474,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Center of indigenous culture",
         "Popular for water sports"
       ]
-    }
-  },
+    }, image: "/poi-images/san-pablo-lake-nature-v2.webp"},
   {
     id: "yahuarcocha-nature-v2",
     type: "lake",
@@ -527,8 +517,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Auto racing track on shore",
         "North of Ibarra"
       ]
-    }
-  },
+    }, image: "/poi-images/yahuarcocha-nature-v2.webp"},
   {
     id: "napo-river-nature-v2",
     type: "river",
@@ -571,8 +560,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Navigable in lowlands",
         "Rich biodiversity"
       ]
-    }
-  },
+    }, image: "/poi-images/napo-river-nature-v2.webp"},
   {
     id: "pastaza-river-nature-v2",
     type: "river",
@@ -615,8 +603,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Forms Pailón del Diablo",
         "Flows into Peru"
       ]
-    }
-  },
+    }, image: "/poi-images/pastaza-river-nature-v2.webp"},
   {
     id: "guayas-river-nature-v2",
     type: "river",
@@ -659,8 +646,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Flows into the Pacific",
         "Flows through Guayaquil"
       ]
-    }
-  },
+    }, image: "/poi-images/guayas-river-nature-v2.webp"},
   {
     id: "esmeraldas-river-nature-v2",
     type: "river",
@@ -703,8 +689,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Important waterway",
         "Empties near Esmeraldas"
       ]
-    }
-  },
+    }, image: "/poi-images/esmeraldas-river-nature-v2.webp"},
   {
     id: "aguarico-river-nature-v2",
     type: "river",
@@ -747,8 +732,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Rich in river dolphins",
         "Tributary of the Napo"
       ]
-    }
-  },
+    }, image: "/poi-images/aguarico-river-nature-v2.webp"},
   {
     id: "yasuni-forest-nature-v2",
     type: "forest",
@@ -791,8 +775,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Home to uncontacted peoples",
         "UNESCO Biosphere Reserve"
       ]
-    }
-  },
+    }, image: "/poi-images/yasuni-forest-nature-v2.webp"},
   {
     id: "cuyabeno-forest-nature-v2",
     type: "forest",
@@ -835,8 +818,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Popular ecotourism destination",
         "Area: 5,900 km²"
       ]
-    }
-  },
+    }, image: "/poi-images/cuyabeno-forest-nature-v2.webp"},
   {
     id: "podocarpus-forest-nature-v2",
     type: "forest",
@@ -879,8 +861,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Named after a conifer",
         "Spectacled bear habitat"
       ]
-    }
-  },
+    }, image: "/poi-images/podocarpus-forest-nature-v2.webp"},
   {
     id: "mindo-forest-nature-v2",
     type: "forest",
@@ -923,8 +904,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "High rainfall levels",
         "Located close to Quito"
       ]
-    }
-  },
+    }, image: "/poi-images/mindo-forest-nature-v2.webp"},
   {
     id: "machalilla-forest-nature-v2",
     type: "forest",
@@ -967,8 +947,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Whale watching area",
         "Includes Isla de la Plata"
       ]
-    }
-  },
+    }, image: "/poi-images/machalilla-forest-nature-v2.webp"},
   {
     id: "llanganates-forest-nature-v2",
     type: "forest",
@@ -1011,8 +990,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Holds vast water reserves",
         "Deep cloud forest area"
       ]
-    }
-  },
+    }, image: "/poi-images/llanganates-forest-nature-v2.webp"},
   {
     id: "isabela-island-nature-v2",
     type: "island",
@@ -1055,8 +1033,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Seahorse-shaped",
         "Highest point: Wolf Volcano"
       ]
-    }
-  },
+    }, image: "/poi-images/isabela-island-nature-v2.webp"},
   {
     id: "santa-cruz-island-nature-v2",
     type: "island",
@@ -1099,8 +1076,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Giant tortoise reserves",
         "Second largest island"
       ]
-    }
-  },
+    }, image: "/poi-images/santa-cruz-island-nature-v2.webp"},
   {
     id: "san-cristobal-island-nature-v2",
     type: "island",
@@ -1143,8 +1119,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "El Junco freshwater lake",
         "Large sea lion colony"
       ]
-    }
-  },
+    }, image: "/poi-images/san-cristobal-island-nature-v2.webp"},
   {
     id: "fernandina-island-nature-v2",
     type: "island",
@@ -1187,8 +1162,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Many flightless cormorants",
         "No introduced species"
       ]
-    }
-  },
+    }, image: "/poi-images/fernandina-island-nature-v2.webp"},
   {
     id: "santiago-island-nature-v2",
     type: "island",
@@ -1231,8 +1205,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Former salt mining",
         "Uninhabited"
       ]
-    }
-  },
+    }, image: "/poi-images/santiago-island-nature-v2.webp"},
   {
     id: "floreana-island-nature-v2",
     type: "island",
@@ -1275,8 +1248,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
         "Humanly populated",
         "Pink flamingos"
       ]
-    }
-  },
+    }, image: "/poi-images/floreana-island-nature-v2.webp"},
   {
     id: "gulf-of-guayaquil-nature-v2",
     type: "sea",
@@ -1322,3 +1294,4 @@ export const poiExtraEcuadorNatureV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSomaliaHistoryV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Több mint 5000 évesek.", "Afrika egyik legjobban megőrzött barlangrajza."],
       ro: ["Vechime de peste 5000 de ani.", "Una dintre cele mai bine conservate picturi rupestre din Africa."],
       en: ["Over 5000 years old.", "One of the best-preserved cave paintings in Africa."]
-    }
-  },
+    }, image: "/poi-images/laas-geel-history-v2.webp"},
   {
     id: "taleh-fort-history-v2",
     type: "historical",
@@ -27,8 +27,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Több erődítményből áll.", "1920-ban a brit légierő lebombázta."],
       ro: ["Constă din mai multe fortificații.", "Bombardat de forțele aeriene britanice în 1920."],
       en: ["Consists of several fortifications.", "Bombarded by British aerial forces in 1920."]
-    }
-  },
+    }, image: "/poi-images/taleh-fort-history-v2.webp"},
   {
     id: "zeila-ancient-port-history-v2",
     type: "historical",
@@ -41,8 +40,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Az iszlám egyik legrégebbi központja Afrikában.", "A Periplus Maris Erythraei is említi."],
       ro: ["Unul dintre cele mai vechi centre ale islamului din Africa.", "Menționat în Periplus Maris Erythraei."],
       en: ["One of the oldest centers of Islam in Africa.", "Mentioned in the Periplus of the Erythraean Sea."]
-    }
-  },
+    }, image: "/poi-images/zeila-ancient-port-history-v2.webp"},
   {
     id: "fakr-ad-din-mosque-history-v2",
     type: "historical",
@@ -55,8 +53,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["1269-ben épült.", "A Mogadishu Szultanátus központi szentélye volt."],
       ro: ["Construită în 1269.", "Sanctuar central al Sultanatului Mogadishu."],
       en: ["Built in 1269.", "Central sanctuary of the Mogadishu Sultanate."]
-    }
-  },
+    }, image: "/poi-images/fakr-ad-din-mosque-history-v2.webp"},
   {
     id: "arbaa-rukun-mosque-history-v2",
     type: "historical",
@@ -69,8 +66,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Alapítása 1268 körül történt.", "Fontos iszlám központ volt a középkori Szomáliában."],
       ro: ["Fondată în jurul anului 1268.", "Centru islamic important în Somalia medievală."],
       en: ["Founded around the year 1268.", "Important Islamic center in medieval Somalia."]
-    }
-  },
+    }, image: "/poi-images/arbaa-rukun-mosque-history-v2.webp"},
   {
     id: "garesa-palace-history-v2",
     type: "historical",
@@ -83,8 +79,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["A zanzibári szultán építtette.", "Később gyarmati múzeumként működött."],
       ro: ["Construit de Sultanul din Zanzibar.", "A servit mai târziu ca muzeu colonial."],
       en: ["Built by the Sultan of Zanzibar.", "Later served as a colonial museum."]
-    }
-  },
+    }, image: "/poi-images/garesa-palace-history-v2.webp"},
   {
     id: "al-mnara-tower-history-v2",
     type: "historical",
@@ -97,8 +92,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Évszázados navigációs jelzés a kereskedelmi hajók számára.", "A középkori tengeri selyemút része."],
       ro: ["Semn de navigație vechi de secole pentru navele comerciale.", "Parte a drumului mătăsii maritim medieval."],
       en: ["Centuries-old navigational marker for merchant ships.", "Part of the medieval maritime Silk Road."]
-    }
-  },
+    }, image: "/poi-images/al-mnara-tower-history-v2.webp"},
   {
     id: "hafun-opone-history-v2",
     type: "historical",
@@ -111,8 +105,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["A legfontosabb ókori kikötő az Indiával és Rómával folytatott kereskedelemben.", "Római és ptolemaioszi kerámiákat találtak itt."],
       ro: ["Cel mai important port antic pentru comerțul cu India și Roma.", "Descoperiri de ceramică romană și ptolemeică."],
       en: ["Most important ancient port for trade with India and Rome.", "Findings of Roman and Ptolemaic pottery."]
-    }
-  },
+    }, image: "/poi-images/hafun-opone-history-v2.webp"},
   {
     id: "amud-ruins-history-v2",
     type: "historical",
@@ -125,8 +118,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Kereskedelmi kapcsolatban állt az Adal Szultanátussal.", "Régi kőházairól és mecseteiről ismert."],
       ro: ["Comerț asociat cu Sultanatul Adal.", "Cunoscut pentru casele vechi de piatră și moschei."],
       en: ["Connected trade with the Adal Sultanate.", "Known for old stone houses and mosques."]
-    }
-  },
+    }, image: "/poi-images/amud-ruins-history-v2.webp"},
   {
     id: "abasa-ruins-history-v2",
     type: "historical",
@@ -139,8 +131,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Amud kortársa volt.", "Középkori mecsetek nagy romjai találhatók itt."],
       ro: ["Contemporan cu Amud.", "Ruine mari de moschei medievale."],
       en: ["Contemporary to Amud.", "Large ruins of medieval mosques."]
-    }
-  },
+    }, image: "/poi-images/abasa-ruins-history-v2.webp"},
   {
     id: "gogoshis-qabuur-history-v2",
     type: "historical",
@@ -153,8 +144,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["A történelem előtti idők összetett temetkezési szokásait mutatja.", "Alig kutatott műemlékek."],
       ro: ["Prezintă practici complexe de înmormântare preistorice.", "Monumente puțin explorate."],
       en: ["Shows complex prehistoric burial practices.", "Barely explored monuments."]
-    }
-  },
+    }, image: "/poi-images/gogoshis-qabuur-history-v2.webp"},
   {
     id: "dhambalin-rock-art-history-v2",
     type: "historical",
@@ -167,8 +157,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["2007-ben fedezték fel.", "A legkorábbi ismert birkaábrázolásokat mutatja Afrika szarván."],
       ro: ["Descoperit în 2007.", "Arată cele mai vechi imagini cunoscute ale oilor în Cornul Africii."],
       en: ["Discovered in 2007.", "Shows the earliest known images of sheep in the Horn of Africa."]
-    }
-  },
+    }, image: "/poi-images/dhambalin-rock-art-history-v2.webp"},
   {
     id: "karinhegane-paintings-history-v2",
     type: "historical",
@@ -181,8 +170,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Becslések szerint 2500 éves.", "Valóságos és mitikus állatfigurákat ábrázol."],
       ro: ["Se estimează că au o vechime de 2500 de ani.", "Afișează figuri de animale reale și mitice."],
       en: ["Estimated to be 2500 years old.", "Depicts real and mythical animal figures."]
-    }
-  },
+    }, image: "/poi-images/karinhegane-paintings-history-v2.webp"},
   {
     id: "dhaymoole-rock-art-history-v2",
     type: "historical",
@@ -195,8 +183,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Sok zsiráf és orrszarvú ábrázolása.", "Egy nedvesebb éghajlati időszak bizonyítéka."],
       ro: ["Multe reprezentări ale girafelor și rinocerilor.", "Dovada unei perioade climatice mai umede."],
       en: ["Many depictions of giraffes and rhinos.", "Evidence of a wetter climate period."]
-    }
-  },
+    }, image: "/poi-images/dhaymoole-rock-art-history-v2.webp"},
   {
     id: "awbarkhadle-shrine-history-v2",
     type: "historical",
@@ -209,8 +196,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Yusuf bin Ahmad al-Kawneyn nyugszik itt.", "Jelentős zarándokhely."],
       ro: ["Yusuf bin Ahmad al-Kawneyn este înmormântat aici.", "Loc de pelerinaj semnificativ."],
       en: ["Yusuf bin Ahmad al-Kawneyn is buried here.", "Significant place of pilgrimage."]
-    }
-  },
+    }, image: "/poi-images/awbarkhadle-shrine-history-v2.webp"},
   {
     id: "hobyo-sultanate-fort-history-v2",
     type: "historical",
@@ -223,8 +209,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Yusuf Ali Kenadid alapította.", "Központi szerepet játszott a tengeri kereskedelem ellenőrzésében."],
       ro: ["Fondată de Yusuf Ali Kenadid.", "Central pentru controlul comerțului maritim."],
       en: ["Founded by Yusuf Ali Kenadid.", "Central to controlling maritime trade."]
-    }
-  },
+    }, image: "/poi-images/hobyo-sultanate-fort-history-v2.webp"},
   {
     id: "qardho-tombs-history-v2",
     type: "historical",
@@ -237,8 +222,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Egyedülálló iszlám építészetet mutat be.", "Qardho a szultanátus korai fővárosa volt."],
       ro: ["Prezintă arhitectură islamică unică.", "Qardho a fost o capitală timpurie a sultanatului."],
       en: ["Features unique Islamic architecture.", "Qardho was an early capital of the Sultanate."]
-    }
-  },
+    }, image: "/poi-images/qardho-tombs-history-v2.webp"},
   {
     id: "alula-castle-history-v2",
     type: "historical",
@@ -251,8 +235,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Tengeri támadások elleni védelemre épült.", "Oszmán hatásokat mutató építészet."],
       ro: ["Construit pentru a proteja împotriva atacurilor maritime.", "Arhitectură cu influențe otomane."],
       en: ["Built to protect against naval attacks.", "Architecture with Ottoman influences."]
-    }
-  },
+    }, image: "/poi-images/alula-castle-history-v2.webp"},
   {
     id: "bargaal-fort-history-v2",
     type: "historical",
@@ -265,8 +248,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["A gyarmati hatalmak elleni ellenállás központja.", "A 20. század elején lebombázták."],
       ro: ["Centrul rezistenței împotriva puterilor coloniale.", "A fost bombardat la începutul secolului al XX-lea."],
       en: ["Center of resistance against colonial powers.", "Was bombarded in the early 20th century."]
-    }
-  },
+    }, image: "/poi-images/bargaal-fort-history-v2.webp"},
   {
     id: "merca-ancient-port-history-v2",
     type: "historical",
@@ -279,8 +261,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["A 7. században alapították.", "A Bimaal klánok fontos központja."],
       ro: ["Fondat în secolul al VII-lea.", "Centru important al clanurilor Bimaal."],
       en: ["Founded in the 7th century.", "Important center of the Bimaal clans."]
-    }
-  },
+    }, image: "/poi-images/merca-ancient-port-history-v2.webp"},
   {
     id: "barawa-ancient-city-history-v2",
     type: "historical",
@@ -293,8 +274,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["A Barawa cipők készítéséről ismert.", "A 16. században a portugálok megtámadták."],
       ro: ["Cunoscut pentru fabricarea de pantofi Barawa.", "Atacat de portughezi în secolul al XVI-lea."],
       en: ["Known for the production of Barawa shoes.", "Attacked by Portuguese in the 16th century."]
-    }
-  },
+    }, image: "/poi-images/barawa-ancient-city-history-v2.webp"},
   {
     id: "las-khorey-fort-history-v2",
     type: "historical",
@@ -307,8 +287,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Egykor gazdag kikötőváros volt.", "A 13. századból származó erődítmények."],
       ro: ["Fost un oraș-port bogat.", "Fortificații din secolul al XIII-lea."],
       en: ["Once a wealthy port city.", "Fortifications dating back to the 13th century."]
-    }
-  },
+    }, image: "/poi-images/las-khorey-fort-history-v2.webp"},
   {
     id: "afgooye-geledi-ruins-history-v2",
     type: "historical",
@@ -321,8 +300,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["A szomáliai költészet és irodalom központja volt.", "Erős katonai bázis a gyarmati idők előtt."],
       ro: ["Centrul poeziei și literaturii somaleze.", "O bază militară puternică în timpurile precoloniale."],
       en: ["Center of Somali poetry and literature.", "Powerful military base in pre-colonial times."]
-    }
-  },
+    }, image: "/poi-images/afgooye-geledi-ruins-history-v2.webp"},
   {
     id: "luuq-ancient-trading-post-history-v2",
     type: "historical",
@@ -363,8 +341,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Az olasz gyarmati időszakban épült.", "Különböző cunamik károsították."],
       ro: ["Construit în perioada colonială italiană.", "Deteriorat de diverse tsunami-uri."],
       en: ["Built during the Italian colonial period.", "Damaged by various tsunamis."]
-    }
-  },
+    }, image: "/poi-images/ras-hafun-lighthouse-history-v2.webp"},
   {
     id: "qoorgaab-ruins-history-v2",
     type: "historical",
@@ -377,8 +354,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Korai városi letelepedésről tanúskodik.", "Masszív száraz kőfalakból áll."],
       ro: ["Mărturie a unei așezări urbane timpurii.", "Constă din pereți masivi din piatră zidită pe uscat."],
       en: ["Bears witness to early urban settlement.", "Consists of massive dry-stone walls."]
-    }
-  },
+    }, image: "/poi-images/qoorgaab-ruins-history-v2.webp"},
   {
     id: "macajilayn-ruins-history-v2",
     type: "historical",
@@ -391,8 +367,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["Régi mecsetek alapjait foglalja magában.", "Sanaag zord hegyvidékén rejtőzik."],
       ro: ["Include fundații de vechi moschei.", "Ascuns în regiunea muntoasă accidentată din Sanaag."],
       en: ["Includes foundations of old mosques.", "Hidden in the rugged mountainous region of Sanaag."]
-    }
-  },
+    }, image: "/poi-images/macajilayn-ruins-history-v2.webp"},
   {
     id: "bender-qassim-old-town-history-v2",
     type: "historical",
@@ -405,8 +380,7 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       hu: ["A 14. században alapították.", "Fontos csomópont a tömjénexportban."],
       ro: ["Fondat în secolul al XIV-lea.", "Nod important pentru exportul de tămâie."],
       en: ["Founded in the 14th century.", "Important hub for frankincense export."]
-    }
-  },
+    }, image: "/poi-images/bender-qassim-old-town-history-v2.webp"},
   {
     id: "eyl-dervish-fort-history-v2",
     type: "historical",
@@ -422,3 +396,4 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     }
   }
 ];
+

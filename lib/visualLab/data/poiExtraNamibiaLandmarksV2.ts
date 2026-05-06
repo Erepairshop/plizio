@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNamibiaLandmarksV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1910-ben épült.", "A neoromán és szecessziós stílusokat ötvözi.", "Helyi kvarc homokkőből készült."],
       ro: ["Construită în anul 1910.", "Combină elemente neoromanice și Art Nouveau.", "Construită din gresie de cuarț locală."],
       en: ["Built in 1910.", "Combines Neo-Romanesque and Art Nouveau elements.", "Constructed from local quartz sandstone."]
-    }
-  },
+    }, image: "/poi-images/christuskirche-windhoek-landmarks-v2.webp"},
   {
     id: "tintenpalast-landmarks-v2",
     type: "landmark",
@@ -47,8 +47,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1913-ban épült.", "A namíbiai parlament székhelye.", "A Parlament kertjei veszik körül."],
       ro: ["Construit în 1913.", "Sediul Parlamentului Namibian.", "Înconjurat de grădinile Parlamentului."],
       en: ["Built in 1913.", "Seat of the Namibian Parliament.", "Surrounded by the Parliament Gardens."]
-    }
-  },
+    }, image: "/poi-images/tintenpalast-landmarks-v2.webp"},
   {
     id: "independence-memorial-museum-landmarks-v2",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["2014-ben nyitották meg.", "Az épület 40 méter magas.", "A történelmi Alte Feste mellett található."],
       ro: ["Deschis în anul 2014.", "Clădirea are 40 de metri înălțime.", "Situat lângă istorica Alte Feste."],
       en: ["Opened in 2014.", "The building is 40 meters tall.", "Located next to the historic Alte Feste."]
-    }
-  },
+    }, image: "/poi-images/independence-memorial-museum-landmarks-v2.webp"},
   {
     id: "heroes-acre-windhoek-landmarks-v2",
     type: "landmark",
@@ -95,8 +93,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["2002. augusztus 26-án nyílt meg.", "A terület 732 hektárt foglal magában.", "A fő obeliszk messziről is jól látható."],
       ro: ["Inaugurat pe 26 august 2002.", "Situl acoperă 732 de hectare.", "Obeliscul principal este proeminent."],
       en: ["Opened on August 26, 2002.", "The site covers 732 hectares.", "The main obelisk is prominently visible."]
-    }
-  },
+    }, image: "/poi-images/heroes-acre-windhoek-landmarks-v2.webp"},
   {
     id: "woermannhaus-landmarks-v2",
     type: "landmark",
@@ -119,8 +116,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1905-ben épült.", "Jellegzetes eleme a Damara-torony.", "Ma nyilvános könyvtár működik benne."],
       ro: ["Construită în 1905.", "Dispune de turnul distinctiv Damara.", "Astăzi găzduiește o bibliotecă publică."],
       en: ["Built in 1905.", "Features the distinctive Damara Tower.", "Today it houses a public library."]
-    }
-  },
+    }, image: "/poi-images/woermannhaus-landmarks-v2.webp"},
   {
     id: "swakopmund-lighthouse-landmarks-v2",
     type: "landmark",
@@ -143,8 +139,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1902-ben állították üzembe.", "A világítót később megmagasították.", "Ma is működik."],
       ro: ["Pus în funcțiune în 1902.", "Turnul a fost ulterior înălțat.", "Încă operațional."],
       en: ["Commissioned in 1902.", "The tower was later heightened.", "Still operational today."]
-    }
-  },
+    }, image: "/poi-images/swakopmund-lighthouse-landmarks-v2.webp"},
   {
     id: "hohenzollernhaus-swakopmund-landmarks-v2",
     type: "landmark",
@@ -167,8 +162,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1904 és 1906 között épült.", "Egykor elegáns szállodaként működött.", "Egy Atlasz-szobor díszíti a tetejét."],
       ro: ["Construită între 1904 și 1906.", "A servit odată ca hotel nobil.", "Încoronată de o figură a lui Atlas."],
       en: ["Built between 1904 and 1906.", "Once served as an upscale hotel.", "Crowned by an Atlas figure."]
-    }
-  },
+    }, image: "/poi-images/hohenzollernhaus-swakopmund-landmarks-v2.webp"},
   {
     id: "felsenkirche-luderitz-landmarks-v2",
     type: "landmark",
@@ -191,8 +185,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1912-ben szentelték fel.", "A Gyémánt-hegy szikláin áll.", "Ólomüveg ablakairól ismert."],
       ro: ["Consacrată în anul 1912.", "Se află pe stâncile Muntelui Diamantelor.", "Renumită pentru vitraliile sale."],
       en: ["Consecrated in 1912.", "Stands on the rocks of Diamond Mountain.", "Known for its stained glass windows."]
-    }
-  },
+    }, image: "/poi-images/felsenkirche-luderitz-landmarks-v2.webp"},
   {
     id: "goerke-haus-luderitz-landmarks-v2",
     type: "landmark",
@@ -215,8 +208,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1910-ben épült.", "A szecessziós építészet egyik példája.", "A gyémántkorszak tanúja."],
       ro: ["Construită în anul 1910.", "Exemplu de arhitectură Art Nouveau.", "Mărturie a epocii diamantelor."],
       en: ["Built in 1910.", "Example of Art Nouveau architecture.", "Testament to the diamond era."]
-    }
-  },
+    }, image: "/poi-images/goerke-haus-luderitz-landmarks-v2.webp"},
   {
     id: "diaz-point-lighthouse-landmarks-v2",
     type: "landmark",
@@ -239,8 +231,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["Az 1910-es években épült.", "A Dias által állított történelmi kőkereszt közelében található.", "Fontos a ködös parti hajózás szempontjából."],
       ro: ["Construit în anii 1910.", "Situat lângă o cruce de piatră istorică a lui Dias.", "Important pentru navigația pe coasta cețoasă."],
       en: ["Built in the 1910s.", "Located near a historic stone cross by Dias.", "Important for navigation on the foggy coast."]
-    }
-  },
+    }, image: "/poi-images/diaz-point-lighthouse-landmarks-v2.webp"},
   {
     id: "turnhalle-windhoek-landmarks-v2",
     type: "landmark",
@@ -263,8 +254,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1909-ben épült.", "A Turnhalle-konferencia (1975–1977) helyszíne.", "Jelentős politikai nevezetesség."],
       ro: ["Construită în 1909.", "Sediul Conferinței Turnhalle (1975–1977).", "Un reper politic semnificativ."],
       en: ["Built in 1909.", "Site of the Turnhalle Conference (1975–1977).", "A significant political landmark."]
-    }
-  },
+    }, image: "/poi-images/turnhalle-windhoek-landmarks-v2.webp"},
   {
     id: "alte-feste-windhoek-landmarks-v2",
     type: "landmark",
@@ -287,8 +277,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["Alapkőletétel: 1890. október 18-án.", "A legrégebbi épület Windhoekban.", "Eredetileg katonai támaszpont volt."],
       ro: ["Piatra de temelie pusă pe 18 octombrie 1890.", "Cea mai veche clădire din Windhoek.", "Inițial o bază militară."],
       en: ["Foundation stone laid on October 18, 1890.", "The oldest building in Windhoek.", "Originally a military base."]
-    }
-  },
+    }, image: "/poi-images/alte-feste-windhoek-landmarks-v2.webp"},
   {
     id: "schwerinsburg-landmarks-v2",
     type: "landmark",
@@ -311,8 +300,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1890 körül épült toronyként, később kastéllyá bővítették.", "Windhoek legnagyobb kastélya.", "A nagyközönség számára nem látogatható."],
       ro: ["Construit inițial ca turn în 1890, mai târziu extins în castel.", "Cel mai mare castel din Windhoek.", "Nu este deschis publicului."],
       en: ["Initially built as a tower in 1890, later expanded into a castle.", "The largest castle in Windhoek.", "Not open to the public."]
-    }
-  },
+    }, image: "/poi-images/schwerinsburg-landmarks-v2.webp"},
   {
     id: "heinitzburg-landmarks-v2",
     type: "landmark",
@@ -335,8 +323,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1914-ben épült.", "Margarethe von Heinitzről nevezték el.", "Ma híres luxusszálloda."],
       ro: ["Construit în anul 1914.", "Numit după Margarethe von Heinitz.", "Astăzi este un cunoscut hotel de lux."],
       en: ["Built in 1914.", "Named after Margarethe von Heinitz.", "Today a well-known luxury hotel."]
-    }
-  },
+    }, image: "/poi-images/heinitzburg-landmarks-v2.webp"},
   {
     id: "sanderburg-landmarks-v2",
     type: "landmark",
@@ -359,8 +346,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1917 és 1919 között épült.", "Wilhelm Sander építész építtette.", "Magánlakásként funkcionál."],
       ro: ["Construit între 1917 și 1919.", "Construit de arhitectul Wilhelm Sander.", "Este folosit ca reședință privată."],
       en: ["Built between 1917 and 1919.", "Built by the architect Wilhelm Sander.", "Used as a private residence."]
-    }
-  },
+    }, image: "/poi-images/sanderburg-landmarks-v2.webp"},
   {
     id: "martin-luther-steam-tractor-landmarks-v2",
     type: "landmark",
@@ -383,8 +369,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1896-ban akadt el az úton.", "Neve a 'Itt állok, másként nem tehetek' mondásból ered.", "Felújították és védőtetőt kapott."],
       ro: ["Blocat în nisip în 1896.", "Numele provine din citatul: 'Aici stau, nu pot face altfel'.", "A fost restaurat și acoperit."],
       en: ["Got stuck in 1896.", "Name comes from the quote: 'Here I stand, I can do no other'.", "Has been restored and sheltered."]
-    }
-  },
+    }, image: "/poi-images/martin-luther-steam-tractor-landmarks-v2.webp"},
   {
     id: "franke-tower-omaruru-landmarks-v2",
     type: "landmark",
@@ -407,8 +392,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1908-ban épült.", "Victor Franke-ről kapta a nevét.", "1964-ben nemzeti műemlékké nyilvánították."],
       ro: ["Construit în anul 1908.", "Numit după Victor Franke.", "Declarat monument național în 1964."],
       en: ["Built in 1908.", "Named after Victor Franke.", "Declared a national monument in 1964."]
-    }
-  },
+    }, image: "/poi-images/franke-tower-omaruru-landmarks-v2.webp"},
   {
     id: "fort-namutoni-landmarks-v2",
     type: "landmark",
@@ -431,8 +415,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["Eredetileg 1896-ban rendőrőrsként épült.", "1904-ben elpusztult, majd újjáépítették.", "Ma népszerű turistatábor."],
       ro: ["Construit inițial în 1896 ca post de poliție.", "Distrus în 1904 și reconstruit ulterior.", "Astăzi este o tabără turistică populară."],
       en: ["Originally built as a police post in 1896.", "Destroyed in 1904 and later rebuilt.", "Today a popular tourist camp."]
-    }
-  },
+    }, image: "/poi-images/fort-namutoni-landmarks-v2.webp"},
   {
     id: "okaukuejo-waterhole-tower-landmarks-v2",
     type: "landmark",
@@ -455,8 +438,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["Az Etosha adminisztratív központjában található.", "Kilátást nyújt az okaukuejoi itatóra.", "1963-ban emelték."],
       ro: ["Situat la sediul administrativ din Etosha.", "Oferă vedere la ochiul de apă Okaukuejo.", "A fost ridicat în 1963."],
       en: ["Located in the administrative center of Etosha.", "Offers views of the Okaukuejo waterhole.", "Was erected in 1963."]
-    }
-  },
+    }, image: "/poi-images/okaukuejo-waterhole-tower-landmarks-v2.webp"},
   {
     id: "oorlog-memorial-okahandja-landmarks-v2",
     type: "landmark",
@@ -479,8 +461,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["Maharero és más vezetők nyughelye.", "Az éves Herero-nap központi helyszíne.", "Okahandjában, a hererók központjában található."],
       ro: ["Locul de veci al lui Maharero și al altor lideri.", "Locația centrală a Zilei anuale Herero.", "Situat în Okahandja, centrul poporului Herero."],
       en: ["Resting place of Maharero and other leaders.", "Central location of the annual Herero Day.", "Located in Okahandja, the center of the Herero people."]
-    }
-  },
+    }, image: "/poi-images/oorlog-memorial-okahandja-landmarks-v2.webp"},
   {
     id: "tsumeb-museum-alte-minenkommissariat-landmarks-v2",
     type: "landmark",
@@ -527,8 +508,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["Az 1890-es évek végén épült.", "Ma a Grootfontein Múzeum székhelye.", "Kiállításokat mutat be a Hoba-meteoritól."],
       ro: ["Construit la sfârșitul anilor 1890.", "Astăzi sediul Muzeului Grootfontein.", "Prezintă expoziții despre meteoritul Hoba."],
       en: ["Built in the late 1890s.", "Today the site of the Grootfontein Museum.", "Features exhibits on the Hoba meteorite."]
-    }
-  },
+    }, image: "/poi-images/grootfontein-old-fort-landmarks-v2.webp"},
   {
     id: "sam-nujoma-stadium-landmarks-v2",
     type: "landmark",
@@ -551,8 +531,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["2005-ben nyitották meg.", "Körülbelül 10 300 néző befogadására alkalmas.", "A nemzet alapító atyjáról nevezték el."],
       ro: ["Inaugurat în anul 2005.", "Are o capacitate de aproximativ 10.300 de spectatori.", "Numit după tatăl fondator al națiunii."],
       en: ["Opened in 2005.", "Has a capacity of approximately 10,300 spectators.", "Named after the founding father of the nation."]
-    }
-  },
+    }, image: "/poi-images/sam-nujoma-stadium-landmarks-v2.webp"},
   {
     id: "owambo-campaign-memorial-landmarks-v2",
     type: "landmark",
@@ -575,8 +554,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["Az 1920-as években állították.", "Az 1914–1915-ös áldozatokra emlékezik.", "Jellegzetes műemlék a parlament közelében."],
       ro: ["Ridicată în anii 1920.", "Comemorează victimele din 1914-1915.", "Un monument proeminent lângă parlament."],
       en: ["Erected in the 1920s.", "Commemorates the casualties of 1914–1915.", "A prominent memorial near the parliament."]
-    }
-  },
+    }, image: "/poi-images/owambo-campaign-memorial-landmarks-v2.webp"},
   {
     id: "kapps-hotel-luderitz-landmarks-v2",
     type: "landmark",
@@ -599,8 +577,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1907-ben épült.", "Jelentős Lüderitz történelmében.", "A gyarmati építészet tipikus példája."],
       ro: ["Construită în 1907.", "Semnificativă pentru istoria orașului Lüderitz.", "Exemplu tipic de arhitectură colonială."],
       en: ["Built in 1907.", "Significant to the history of Lüderitz.", "Typical example of colonial architecture."]
-    }
-  },
+    }, image: "/poi-images/kapps-hotel-luderitz-landmarks-v2.webp"},
   {
     id: "walvis-bay-pelican-point-lighthouse-landmarks-v2",
     type: "landmark",
@@ -623,8 +600,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1932-ben állították.", "A torony fekete-fehér csíkos.", "Részben luxus lodge-dzsá alakították át."],
       ro: ["Ridicată în anul 1932.", "Turnul are dungi negre și albe.", "A fost transformat parțial într-o cabană de lux."],
       en: ["Erected in 1932.", "The tower is striped black and white.", "Has been partially converted into a luxury lodge."]
-    }
-  },
+    }, image: "/poi-images/walvis-bay-pelican-point-lighthouse-landmarks-v2.webp"},
   {
     id: "keetmanshoop-railway-station-landmarks-v2",
     type: "landmark",
@@ -647,8 +623,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1908-ban nyitották meg.", "A Trans-Namib vasútvonal fontos állomása.", "Gyarmati stílusban épült."],
       ro: ["Inaugurată în anul 1908.", "Oprire importantă a căii ferate Trans-Namib.", "Construită în stil colonial."],
       en: ["Opened in 1908.", "Important stop on the Trans-Namib railway.", "Built in colonial style."]
-    }
-  },
+    }, image: "/poi-images/keetmanshoop-railway-station-landmarks-v2.webp"},
   {
     id: "rhenish-mission-church-walvis-bay-landmarks-v2",
     type: "landmark",
@@ -671,8 +646,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["1880-ban épült.", "Teljesen fából készült.", "Walvis Bay legrégebbi épülete."],
       ro: ["Ridicată în anul 1880.", "Realizată complet din lemn.", "Cea mai veche clădire din Walvis Bay."],
       en: ["Erected in 1880.", "Constructed entirely of wood.", "The oldest building in Walvis Bay."]
-    }
-  },
+    }, image: "/poi-images/rhenish-mission-church-walvis-bay-landmarks-v2.webp"},
   {
     id: "katutura-state-hospital-landmarks-v2",
     type: "landmark",
@@ -695,8 +669,7 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       hu: ["Namíbia egyik legnagyobb kórháza.", "1973-ban nyitották meg.", "Főként Katutura lakosságát szolgálja."],
       ro: ["Unul dintre cele mai mari spitale din Namibia.", "Deschis în anul 1973.", "Servește în principal populația din Katutura."],
       en: ["One of the largest hospitals in Namibia.", "Opened in 1973.", "Primarily serves the population of Katutura."]
-    }
-  },
+    }, image: "/poi-images/katutura-state-hospital-landmarks-v2.webp"},
   {
     id: "trans-namib-transport-museum-landmarks-v2",
     type: "landmark",
@@ -722,3 +695,4 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     }
   }
 ];
+

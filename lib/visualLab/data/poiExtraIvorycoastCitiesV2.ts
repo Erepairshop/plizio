@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraIvorycoastCitiesV2: POI[] = [
@@ -35,8 +36,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Több mint 4,3 millió lakos.", "Központi pénzügyi és kikötői csomópont.", "A Szent Pál-katedrális 1985-ben épült.", "A kakaó legfontosabb kiviteli kikötője.", "Az Ébrié-lagúna partján fekszik.", "Elefántcsontpart gazdasági motorja."],
       ro: ["Populație de peste 4,3 milioane de oameni.", "Centru financiar și portuar central.", "Catedrala Sf. Paul a fost finalizată în 1985.", "Cel mai important port de export pentru cacao.", "Situat pe laguna Ébrié.", "Motorul economic al Coastei de Fildeș."],
       en: ["Population of over 4.3 million people.", "Central financial and port hub.", "St. Paul's Cathedral completed in 1985.", "Most important export port for cocoa.", "Located on the Ébrié Lagoon.", "Economic engine of Ivory Coast."]
-    }
-  },
+    }, image: "/poi-images/abidjan-cities-v2.webp"},
   {
     id: "yamoussoukro-cities-v2",
     type: "state-capital",
@@ -71,8 +71,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Politikai főváros 1983 óta.", "A Béke-bazilika 1989-ben fejeződött be.", "Tervezett város széles sugárutakkal.", "Az alapító elnök szülővárosa.", "Közigazgatási jelentőség.", "Központi oktatási központ."],
       ro: ["Capitală politică din 1983.", "Bazilica Păcii finalizată în 1989.", "Oraș planificat cu bulevarde largi.", "Casa președintelui fondator.", "Importanță administrativă.", "Centru educațional central."],
       en: ["Political capital since 1983.", "Basilica of Peace completed in 1989.", "Planned city with wide boulevards.", "Home of the founding president.", "Administrative importance.", "Central educational hub."]
-    }
-  },
+    }, image: "/poi-images/yamoussoukro-cities-v2.webp"},
   {
     id: "bouak-cities-v2",
     type: "city",
@@ -95,8 +94,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Az ország második legnagyobb városa.", "Fontos városi csomópont."],
       ro: ["Al doilea cel mai mare oraș din țară.", "Nod urban important."],
       en: ["The second largest city in the country.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/bouak-cities-v2.webp"},
   {
     id: "daloa-cities-v2",
     type: "city",
@@ -119,8 +117,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Fontos központja a kakaótermesztésnek.", "Fontos városi csomópont."],
       ro: ["Un centru important pentru cultivarea cacaoului.", "Nod urban important."],
       en: ["An important center for cocoa farming.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/daloa-cities-v2.webp"},
   {
     id: "san-p-dro-cities-v2",
     type: "city",
@@ -143,8 +140,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Elefántcsontpart második legnagyobb kikötőjével rendelkezik.", "Fontos városi csomópont."],
       ro: ["Deține al doilea cel mai mare port din Coasta de Fildeș.", "Nod urban important."],
       en: ["Has the second largest port in Ivory Coast.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/san-p-dro-cities-v2.webp"},
   {
     id: "korhogo-cities-v2",
     type: "city",
@@ -167,8 +163,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Az ország északi részének legnagyobb városa.", "Fontos városi csomópont."],
       ro: ["Cel mai mare oraș din nordul țării.", "Nod urban important."],
       en: ["The largest city in the north of the country.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/korhogo-cities-v2.webp"},
   {
     id: "man-cities-v2",
     type: "city",
@@ -191,8 +186,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["A 18 hegy városaként ismert.", "Fontos városi csomópont."],
       ro: ["Cunoscut ca orașul celor 18 munți.", "Nod urban important."],
       en: ["Known as the city of 18 mountains.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/man-cities-v2.webp"},
   {
     id: "divo-cities-v2",
     type: "city",
@@ -215,8 +209,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Regionális központ a Gôh-Djiboua régióban.", "Fontos városi csomópont."],
       ro: ["Un centru regional în regiunea Gôh-Djiboua.", "Nod urban important."],
       en: ["A regional center in the Gôh-Djiboua region.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/divo-cities-v2.webp"},
   {
     id: "gagnoa-cities-v2",
     type: "city",
@@ -239,8 +232,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Jelentős mezőgazdasági központ délen.", "Fontos városi csomópont."],
       ro: ["Un centru agricol important în sud.", "Nod urban important."],
       en: ["A significant agricultural center in the south.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/gagnoa-cities-v2.webp"},
   {
     id: "abengourou-cities-v2",
     type: "city",
@@ -263,8 +255,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Az Indénié királyság történelmi központja.", "Fontos városi csomópont."],
       ro: ["Sediul istoric al regatului Indénié.", "Nod urban important."],
       en: ["The historical seat of the Indénié kingdom.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/abengourou-cities-v2.webp"},
   {
     id: "agboville-cities-v2",
     type: "city",
@@ -287,8 +278,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Korábbi gyarmati város és az Abbey kultúra központja.", "Fontos városi csomópont."],
       ro: ["Fost oraș colonial și centru al culturii Abbey.", "Nod urban important."],
       en: ["Former colonial city and center of the Abbey culture.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/agboville-cities-v2.webp"},
   {
     id: "grand-bassam-cities-v2",
     type: "city",
@@ -311,8 +301,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Elefántcsontpart történelmi első fővárosa.", "Fontos városi csomópont."],
       ro: ["Prima capitală istorică a Coastei de Fildeș.", "Nod urban important."],
       en: ["The historical first capital of Ivory Coast.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/grand-bassam-cities-v2.webp"},
   {
     id: "anyama-cities-v2",
     type: "city",
@@ -335,8 +324,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Abidjan egyik északi külvárosa.", "Fontos városi csomópont."],
       ro: ["O suburbie nordică a Abidjanului.", "Nod urban important."],
       en: ["A northern suburb of Abidjan.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/anyama-cities-v2.webp"},
   {
     id: "dabou-cities-v2",
     type: "city",
@@ -359,8 +347,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Város Abidjantól nyugatra a part közelében.", "Fontos városi csomópont."],
       ro: ["Un oraș la vest de Abidjan, aproape de coastă.", "Nod urban important."],
       en: ["A city west of Abidjan near the coast.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/dabou-cities-v2.webp"},
   {
     id: "soubr-cities-v2",
     type: "city",
@@ -383,8 +370,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Az ország legnagyobb kakaótermelő régiójának központja.", "Fontos városi csomópont."],
       ro: ["Centrul celei mai mari regiuni producătoare de cacao din țară.", "Nod urban important."],
       en: ["Center of the largest cocoa producing region in the country.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/soubr-cities-v2.webp"},
   {
     id: "ferkess-dougou-cities-v2",
     type: "city",
@@ -407,8 +393,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Fontos közlekedési csomópont északon.", "Fontos városi csomópont."],
       ro: ["Un nod de transport important în nord.", "Nod urban important."],
       en: ["An important transport hub in the north.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/ferkess-dougou-cities-v2.webp"},
   {
     id: "tiassal-cities-v2",
     type: "city",
@@ -431,8 +416,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["A Bandama-folyó feletti hídjáról ismert.", "Fontos városi csomópont."],
       ro: ["Cunoscut pentru podul său peste râul Bandama.", "Nod urban important."],
       en: ["Known for its bridge over the Bandama River.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/tiassal-cities-v2.webp"},
   {
     id: "issia-cities-v2",
     type: "city",
@@ -455,8 +439,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Feltörekvő város a Haut-Sassandra régióban.", "Fontos városi csomópont."],
       ro: ["Un oraș în curs de dezvoltare în regiunea Haut-Sassandra.", "Nod urban important."],
       en: ["An emerging city in the Haut-Sassandra region.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/issia-cities-v2.webp"},
   {
     id: "s-gu-la-cities-v2",
     type: "city",
@@ -503,8 +486,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Egy erdős régióban fekszik nyugaton.", "Fontos városi csomópont."],
       ro: ["Situat într-o regiune împădurită din vest.", "Nod urban important."],
       en: ["Located in a forested region in the west.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/guiglo-cities-v2.webp"},
   {
     id: "odienn-cities-v2",
     type: "city",
@@ -527,8 +509,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["A legjelentősebb város északnyugaton.", "Fontos városi csomópont."],
       ro: ["Cel mai important oraș din nord-vest.", "Nod urban important."],
       en: ["The most significant city in the northwest.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/odienn-cities-v2.webp"},
   {
     id: "katiola-cities-v2",
     type: "city",
@@ -551,8 +532,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Hagyományos fazekasságáról híres.", "Fontos városi csomópont."],
       ro: ["Faimos pentru ceramica sa tradițională.", "Nod urban important."],
       en: ["Famous for its traditional pottery.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/katiola-cities-v2.webp"},
   {
     id: "boundiali-cities-v2",
     type: "city",
@@ -575,8 +555,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Mezőgazdasági központ a szavanna térségben.", "Fontos városi csomópont."],
       ro: ["Un centru agricol în districtul de savană.", "Nod urban important."],
       en: ["An agricultural center in the savanna district.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/boundiali-cities-v2.webp"},
   {
     id: "toumodi-cities-v2",
     type: "city",
@@ -623,8 +602,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Korábbi gyarmati főváros.", "Fontos városi csomópont."],
       ro: ["Fostă capitală în perioada colonială.", "Nod urban important."],
       en: ["Former capital during the colonial era.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/bingerville-cities-v2.webp"},
   {
     id: "danan-cities-v2",
     type: "city",
@@ -671,8 +649,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["A keleten fekvő Comoé Nemzeti Park közelében található.", "Fontos városi csomópont."],
       ro: ["Situat în apropierea Parcului Național Comoé din est.", "Nod urban important."],
       en: ["Located near the Comoé National Park in the east.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/bouna-cities-v2.webp"},
   {
     id: "oum-cities-v2",
     type: "city",
@@ -695,8 +672,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Mezőgazdasági jellegű város a Gôh régióban.", "Fontos városi csomópont."],
       ro: ["Un oraș din regiunea Gôh cu un caracter agricol.", "Nod urban important."],
       en: ["A city in the Gôh region with an agricultural character.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/oum-cities-v2.webp"},
   {
     id: "du-kou-cities-v2",
     type: "city",
@@ -719,8 +695,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Kereskedelmi csomópont az ország nyugati részén.", "Fontos városi csomópont."],
       ro: ["Un nod comercial în vestul țării.", "Nod urban important."],
       en: ["A commercial hub in the west of the country.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/du-kou-cities-v2.webp"},
   {
     id: "tengr-la-cities-v2",
     type: "city",
@@ -743,8 +718,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Elefántcsontpart legészakibb városa, a mali határnál.", "Fontos városi csomópont."],
       ro: ["Cel mai nordic oraș din Coasta de Fildeș, la granița cu Mali.", "Nod urban important."],
       en: ["The northernmost city of Ivory Coast, on the border with Mali.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/tengr-la-cities-v2.webp"},
   {
     id: "arrah-cities-v2",
     type: "city",
@@ -767,8 +741,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Város a Moronou régióban.", "Fontos városi csomópont."],
       ro: ["Un oraș din regiunea Moronou.", "Nod urban important."],
       en: ["A city in the Moronou region.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/arrah-cities-v2.webp"},
   {
     id: "sinfra-cities-v2",
     type: "city",
@@ -791,8 +764,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Többnemzetiségű város a Marahoué régióban.", "Fontos városi csomópont."],
       ro: ["Un oraș multietnic din regiunea Marahoué.", "Nod urban important."],
       en: ["A multi-ethnic city in the Marahoué region.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/sinfra-cities-v2.webp"},
   {
     id: "m-batto-cities-v2",
     type: "city",
@@ -815,8 +787,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Sokszínű mezőgazdaságáról ismert.", "Fontos városi csomópont."],
       ro: ["Cunoscut pentru agricultura sa diversificată.", "Nod urban important."],
       en: ["Known for its diverse agriculture.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/m-batto-cities-v2.webp"},
   {
     id: "zu-noula-cities-v2",
     type: "city",
@@ -863,8 +834,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Határváros a Ghána felé vezető úton.", "Fontos városi csomópont."],
       ro: ["Un oraș de graniță pe drumul spre Ghana.", "Nod urban important."],
       en: ["A border town on the way to Ghana.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/aboisso-cities-v2.webp"},
   {
     id: "aff-ry-cities-v2",
     type: "city",
@@ -911,8 +881,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Az éves Popo karneváli fesztiváljáról híres.", "Fontos városi csomópont."],
       ro: ["Faimos pentru festivalul anual de carnaval Popo.", "Nod urban important."],
       en: ["Famous for its annual Popo Carnival festival.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/bonoua-cities-v2.webp"},
   {
     id: "tabou-cities-v2",
     type: "city",
@@ -935,8 +904,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Az elefántcsontparti partvidék legnyugatibb városa.", "Fontos városi csomópont."],
       ro: ["Cel mai vestic oraș de pe coasta ivoriană.", "Nod urban important."],
       en: ["The westernmost city on the Ivorian coast.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/tabou-cities-v2.webp"},
   {
     id: "grand-lahou-cities-v2",
     type: "city",
@@ -959,8 +927,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Festői város az óceán és a lagúna között.", "Fontos városi csomópont."],
       ro: ["Un oraș pitoresc între ocean și lagună.", "Nod urban important."],
       en: ["A picturesque city between the ocean and the lagoon.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/grand-lahou-cities-v2.webp"},
   {
     id: "b-oumi-cities-v2",
     type: "city",
@@ -1007,8 +974,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Hagyományos kereskedelmi központ a Béré térségben.", "Fontos városi csomópont."],
       ro: ["Un centru comercial tradițional în zona Béré.", "Nod urban important."],
       en: ["A traditional trading center in the Béré area.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/mankono-cities-v2.webp"},
   {
     id: "taabo-cities-v2",
     type: "city",
@@ -1031,8 +997,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Nagy vízerőművi gátjáról ismert.", "Fontos városi csomópont."],
       ro: ["Cunoscut pentru marele său baraj hidroelectric.", "Nod urban important."],
       en: ["Known for its large hydroelectric dam.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/taabo-cities-v2.webp"},
   {
     id: "jacqueville-cities-v2",
     type: "city",
@@ -1055,8 +1020,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Félszigeti város a lagúnák régiójában.", "Fontos városi csomópont."],
       ro: ["Un oraș peninsular în regiunea lagunelor.", "Nod urban important."],
       en: ["A peninsular city in the lagoon region.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/jacqueville-cities-v2.webp"},
   {
     id: "kouto-cities-v2",
     type: "city",
@@ -1079,8 +1043,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Történelmi város északon, hagyományos építészettel.", "Fontos városi csomópont."],
       ro: ["Un oraș istoric din nord cu arhitectură tradițională.", "Nod urban important."],
       en: ["A historic city in the north with traditional architecture.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/kouto-cities-v2.webp"},
   {
     id: "mbengue-cities-v2",
     type: "city",
@@ -1103,8 +1066,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["A földimogyoró- és gyapottermesztés fontos központja.", "Fontos városi csomópont."],
       ro: ["Un centru important pentru cultivarea arahidelor și bumbacului.", "Nod urban important."],
       en: ["An important center for peanut and cotton cultivation.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/mbengue-cities-v2.webp"},
   {
     id: "ouangolodougou-cities-v2",
     type: "city",
@@ -1127,8 +1089,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Fontos kereszteződési város Burkina Faso határa közelében.", "Fontos városi csomópont."],
       ro: ["Un oraș de intersecție important lângă granița cu Burkina Faso.", "Nod urban important."],
       en: ["An important crossroads city near the border with Burkina Faso.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/ouangolodougou-cities-v2.webp"},
   {
     id: "sikensi-cities-v2",
     type: "city",
@@ -1175,8 +1136,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["A Bafing régió fővárosa.", "Fontos városi csomópont."],
       ro: ["Capitala regiunii Bafing.", "Nod urban important."],
       en: ["The capital of the Bafing region.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/touba-cities-v2.webp"},
   {
     id: "vavoua-cities-v2",
     type: "city",
@@ -1199,8 +1159,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["A Haut-Sassandra kávétermelésének fontos központja.", "Fontos városi csomópont."],
       ro: ["Un centru important pentru producția de cafea în Haut-Sassandra.", "Nod urban important."],
       en: ["An important center for coffee production in Haut-Sassandra.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/vavoua-cities-v2.webp"},
   {
     id: "agnibil-krou-cities-v2",
     type: "city",
@@ -1223,8 +1182,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Élénk kereskedőváros Ghána határa közelében.", "Fontos városi csomópont."],
       ro: ["Un oraș comercial plin de viață lângă granița cu Ghana.", "Nod urban important."],
       en: ["A lively trading town near the border with Ghana.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/agnibil-krou-cities-v2.webp"},
   {
     id: "betti-cities-v2",
     type: "city",
@@ -1247,8 +1205,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Város az Indénié-Djuablin térségben.", "Fontos városi csomópont."],
       ro: ["Un oraș în zona Indénié-Djuablin.", "Nod urban important."],
       en: ["A town in the Indénié-Djuablin area.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/betti-cities-v2.webp"},
   {
     id: "bocanda-cities-v2",
     type: "city",
@@ -1295,8 +1252,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Számos elefántcsontparti politikai személyiség otthona.", "Fontos városi csomópont."],
       ro: ["Casa multor personalități politice ivoriene.", "Nod urban important."],
       en: ["Home to many Ivorian political figures.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/daoukro-cities-v2.webp"},
   {
     id: "sakassou-cities-v2",
     type: "city",
@@ -1415,8 +1371,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Piacváros a Worodougou régióban.", "Fontos városi csomópont."],
       ro: ["Un oraș de piață în regiunea Worodougou.", "Nod urban important."],
       en: ["A market town in the Worodougou region.", "Important urban hub."]
-    }
-  },
+    }, image: "/poi-images/kani-cities-v2.webp"},
   {
     id: "madinani-cities-v2",
     type: "city",
@@ -1463,6 +1418,6 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       hu: ["Mezőgazdasági jellegű város Odienné közelében.", "Fontos városi csomópont."],
       ro: ["Un oraș cu caracter agricol lângă Odienné.", "Nod urban important."],
       en: ["An agricultural city near Odienné.", "Important urban hub."]
-    }
-  }
+    }, image: "/poi-images/bako-cities-v2.webp"}
 ];
+

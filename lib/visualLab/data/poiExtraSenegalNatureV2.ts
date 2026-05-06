@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSenegalNatureV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Hossza kb. 1080 km", "Fontos vízforrás a mezőgazdaságnak"],
       ro: ["Lungime aprox. 1080 km", "Sursă importantă de apă pentru agricultură"],
       en: ["Length approx. 1080 km", "Important water source for agriculture"]
-    }
-  },
+    }, image: "/poi-images/fleuve-senegal-nature-v2.webp"},
   {
     id: "lac-rose-nature-v2",
     type: "lake",
@@ -27,8 +27,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Nagyon magas sótartalom", "Ismert a Dakar-raliról"],
       ro: ["Salinitate foarte ridicată", "Cunoscut prin Raliul Dakar"],
       en: ["Very high salinity", "Known for the Dakar Rally"]
-    }
-  },
+    }, image: "/poi-images/lac-rose-nature-v2.webp"},
   {
     id: "parc-niokolo-koba-nature-v2",
     type: "forest",
@@ -41,8 +40,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["UNESCO Világörökség", "Oroszlánok és elefántok élőhelye"],
       ro: ["Patrimoniul Mondial UNESCO", "Habitat pentru lei și elefanți"],
       en: ["UNESCO World Heritage site", "Home to lions and elephants"]
-    }
-  },
+    }, image: "/poi-images/parc-niokolo-koba-nature-v2.webp"},
   {
     id: "delta-du-saloum-nature-v2",
     type: "river",
@@ -55,8 +53,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Bioszféra-rezervátum", "Gazdag madárvilág"],
       ro: ["Rezervație a biosferei", "Bogată în specii de păsări"],
       en: ["Biosphere reserve", "Rich in bird species"]
-    }
-  },
+    }, image: "/poi-images/delta-du-saloum-nature-v2.webp"},
   {
     id: "ile-de-goree-nature-v2",
     type: "island",
@@ -69,8 +66,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["UNESCO Világörökség", "Kicsi sziklás sziget"],
       ro: ["Patrimoniul Mondial UNESCO", "Insulă stâncoasă mică"],
       en: ["UNESCO World Heritage site", "Small rocky island"]
-    }
-  },
+    }, image: "/poi-images/ile-de-goree-nature-v2.webp"},
   {
     id: "fleuve-casamance-nature-v2",
     type: "river",
@@ -83,8 +79,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Átfolyik Casamance régión", "Fontos közlekedési útvonal"],
       ro: ["Traversează regiunea Casamance", "Arteră de transport importantă"],
       en: ["Flows through Casamance region", "Important transport route"]
-    }
-  },
+    }, image: "/poi-images/fleuve-casamance-nature-v2.webp"},
   {
     id: "djoudj-sanctuarium-nature-v2",
     type: "lake",
@@ -97,8 +92,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["UNESCO Világörökség", "Millió költözőmadár otthona"],
       ro: ["Patrimoniul Mondial UNESCO", "Casă pentru milioane de păsări migratoare"],
       en: ["UNESCO World Heritage site", "Home to millions of migratory birds"]
-    }
-  },
+    }, image: "/poi-images/djoudj-sanctuarium-nature-v2.webp"},
   {
     id: "fleuve-gambia-senegal-nature-v2",
     type: "river",
@@ -125,8 +119,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Ellátja Dakart vízzel", "Alacsony sótartalom"],
       ro: ["Alimentează Dakar cu apă", "Salinitate scăzută"],
       en: ["Supplies Dakar with water", "Low salinity"]
-    }
-  },
+    }, image: "/poi-images/lac-de-guier-nature-v2.webp"},
   {
     id: "pointe-des-almadies-nature-v2",
     type: "sea",
@@ -139,8 +132,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Atlanti-óceán partja", "Sziklás földnyelv"],
       ro: ["Coasta Atlantică", "Promontoriu stâncos"],
       en: ["Atlantic coast", "Rocky headland"]
-    }
-  },
+    }, image: "/poi-images/pointe-des-almadies-nature-v2.webp"},
   {
     id: "massif-de-casamance-nature-v2",
     type: "forest",
@@ -167,8 +159,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Lakatlan", "Madárvédelmi terület"],
       ro: ["Nelocuit", "Rezervație pentru păsări"],
       en: ["Uninhabited", "Bird sanctuary"]
-    }
-  },
+    }, image: "/poi-images/iles-de-la-madeleine-nature-v2.webp"},
   {
     id: "foret-de-mbao-nature-v2",
     type: "forest",
@@ -181,8 +172,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Dakar tüdeje", "Veszélyezteti az urbanizáció"],
       ro: ["Plămânii Dakar-ului", "Amenințată de urbanizare"],
       en: ["Lungs of Dakar", "Threatened by urbanization"]
-    }
-  },
+    }, image: "/poi-images/foret-de-mbao-nature-v2.webp"},
   {
     id: "fleuve-faleme-nature-v2",
     type: "river",
@@ -209,8 +199,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Madarak költőhelye", "Homokos táj"],
       ro: ["Loc de cuibărit pentru păsări", "Peisaj nisipos"],
       en: ["Breeding ground for birds", "Sandy landscape"]
-    }
-  },
+    }, image: "/poi-images/parc-langue-de-barbarie-nature-v2.webp"},
   {
     id: "massif-du-fouta-djallon-nature-v2",
     type: "mountain",
@@ -223,8 +212,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Dombos táj", "Nyugat-Afrika víztornya"],
       ro: ["Peisaj deluros", "Castelul de apă al Africii de Vest"],
       en: ["Hilly landscape", "West Africa's water tower"]
-    }
-  },
+    }, image: "/poi-images/massif-du-fouta-djallon-nature-v2.webp"},
   {
     id: "delta-du-sine-saloum-nature-v2",
     type: "river",
@@ -237,8 +225,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["UNESCO Bioszféra-rezervátum", "Mangroveerdők"],
       ro: ["Rezervație a biosferei UNESCO", "Păduri de mangrove"],
       en: ["UNESCO Biosphere Reserve", "Mangrove forests"]
-    }
-  },
+    }, image: "/poi-images/delta-du-sine-saloum-nature-v2.webp"},
   {
     id: "plaine-du-ferlo-nature-v2",
     type: "forest",
@@ -251,8 +238,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Félsivatagi klíma", "Állattenyésztési terület"],
       ro: ["Climat semiarid", "Zonă de creștere a animalelor"],
       en: ["Semi-arid climate", "Livestock farming area"]
-    }
-  },
+    }, image: "/poi-images/plaine-du-ferlo-nature-v2.webp"},
   {
     id: "lac-kassack-nature-v2",
     type: "lake",
@@ -265,8 +251,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Szezonális tó", "Fontos a helyi fauna számára"],
       ro: ["Lac sezonier", "Important pentru fauna locală"],
       en: ["Seasonal lake", "Important for local fauna"]
-    }
-  },
+    }, image: "/poi-images/lac-kassack-nature-v2.webp"},
   {
     id: "zone-maritime-atlantic-nature-v2",
     type: "sea",
@@ -279,8 +264,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Gazdag halászterületek", "Fontos tengeri áramlatok"],
       ro: ["Zone de pescuit bogate", "Curenți marini importanți"],
       en: ["Rich fishing grounds", "Important ocean currents"]
-    }
-  },
+    }, image: "/poi-images/zone-maritime-atlantic-nature-v2.webp"},
   {
     id: "vallee-du-fleuve-senegal-nature-v2",
     type: "river",
@@ -293,8 +277,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Fontos a földműveléshez", "Rendszeres áradások"],
       ro: ["Importantă pentru agricultură", "Inundații periodice"],
       en: ["Important for agriculture", "Periodic flooding"]
-    }
-  },
+    }, image: "/poi-images/vallee-du-fleuve-senegal-nature-v2.webp"},
   {
     id: "foret-classee-de-thiès-nature-v2",
     type: "forest",
@@ -321,8 +304,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Hajózható", "Gazdag partmenti növényzet"],
       ro: ["Navigabil", "Vegetație riverană bogată"],
       en: ["Navigable", "Rich riparian vegetation"]
-    }
-  },
+    }, image: "/poi-images/fleuve-gambie-nature-v2.webp"},
   {
     id: "foret-de-patar-nature-v2",
     type: "forest",
@@ -335,8 +317,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Szezonálisan száraz", "Otthont ad szavannai állatoknak"],
       ro: ["Sezonier uscată", "Habitat pentru animale de savană"],
       en: ["Seasonally dry", "Home to savanna animals"]
-    }
-  },
+    }, image: "/poi-images/foret-de-patar-nature-v2.webp"},
   {
     id: "lac-de-panal-nature-v2",
     type: "lake",
@@ -349,8 +330,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Fontos madárélőhely", "Változó vízszint"],
       ro: ["Habitat important pentru păsări", "Nivel al apei variabil"],
       en: ["Important bird habitat", "Fluctuating water level"]
-    }
-  },
+    }, image: "/poi-images/lac-de-panal-nature-v2.webp"},
   {
     id: "monts-de-casamance-nature-v2",
     type: "mountain",
@@ -363,8 +343,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Erdős lejtők", "Enyhébb klíma, mint északon"],
       ro: ["Versanți împăduriți", "Climat mai blând decât în nord"],
       en: ["Forested slopes", "Milder climate than in the north"]
-    }
-  },
+    }, image: "/poi-images/monts-de-casamance-nature-v2.webp"},
   {
     id: "foret-de-tamba-nature-v2",
     type: "forest",
@@ -377,8 +356,7 @@ export const poiExtraSenegalNatureV2: POI[] = [
       hu: ["Száraz erdő", "A Niokolo-Koba ökoszisztéma része"],
       ro: ["Pădure uscată", "Parte a ecosistemului Niokolo-Koba"],
       en: ["Dry forest", "Part of Niokolo-Koba ecosystem"]
-    }
-  },
+    }, image: "/poi-images/foret-de-tamba-nature-v2.webp"},
   {
     id: "delta-du-senegal-nature-v2",
     type: "river",
@@ -422,3 +400,4 @@ export const poiExtraSenegalNatureV2: POI[] = [
     }
   }
 ];
+

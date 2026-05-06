@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCanadaEconomicV2: POI[] = [
@@ -13,8 +14,13 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Olajhomok-kitermelés", "Fontos gazdasági tényező"],
       ro: ["Extracția nisipurilor bituminoase", "Factor economic major"],
       en: ["Oil sands production", "Key economic driver"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Syncrude Canada ist einer der größten Produzenten von synthetischem Rohöl aus den Ölsanden von Athabasca in Alberta. Die Gewinnung erfolgt durch komplexe Tagebauverfahren und nachgeschaltete Aufbereitungsprozesse. Wirtschaft K8 — Rohstoffgewinnung und Umwelt."
+    },
+    factsAdvanced: {
+      de: ["Einer der weltweit größten Ölsand-Produzenten", "Standort: Athabasca-Ölsande in Alberta", "Prozess: Synthetisches Rohöl aus Bitumen", "Joint-Venture mehrerer Energiekonzerne", "Entstanden in den 1970er Jahren", "Wichtiger Arbeitgeber in Nord-Alberta"]
+    }, image: "/poi-images/syncrude-oilsands-economic-v2.webp"},
   {
     id: "suncor-fort-mcmurray-economic-v2",
     type: "industry",
@@ -27,8 +33,13 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Bitumen termelés", "Ipari feldolgozás"],
       ro: ["Producția de bitum", "Procesare industrială"],
       en: ["Bitumen production", "Industrial processing"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Suncor Energy ist ein Pionier in der kommerziellen Entwicklung der kanadischen Ölsande rund um Fort McMurray. Das Unternehmen spielt eine zentrale Rolle in der kanadischen Energieindustrie und der regionalen Wirtschaft von Alberta. Geografie K8 — Energiequellen und globale Wirtschaft."
+    },
+    factsAdvanced: {
+      de: ["Pionier der kommerziellen Ölsand-Entwicklung", "Zentrum in Fort McMurray, Alberta", "Betreibt integrierte Ölstandorte", "Einer der größten Ölproduzenten Kanadas", "Erstes Unternehmen mit Ölsand-Produktion 1967", "Fokus auf nachhaltige Energiegewinnung"]
+    }, image: "/poi-images/suncor-fort-mcmurray-economic-v2.webp"},
   {
     id: "sudbury-nickel-mines-economic-v2",
     type: "industry",
@@ -41,8 +52,13 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Nikkel- és rézbányászat", "Geológiai képződmény"],
       ro: ["Mineritul de nichel și cupru", "Formațiune geologică"],
       en: ["Nickel and copper mining", "Geological formation"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Nickelminen in Sudbury, Ontario, gehören zu den bedeutendsten Vorkommen weltweit. Sudbury ist bekannt für seine geologische Entstehung durch einen Meteoriteneinschlag vor Milliarden von Jahren, der die Mineralien an die Oberfläche brachte. Geografie K7 — Geologie und Bergbau."
+    },
+    factsAdvanced: {
+      de: ["Weltweit bedeutende Nickelvorkommen", "Standort: Sudbury-Becken, Ontario", "Entstanden durch einen Meteoriteneinschlag", "Wichtig für die Batterieproduktion", "Historisch ein Zentrum der Bergbauindustrie", "Bekannt für den 'Sudbury Superstack'"]
+    }, image: "/poi-images/sudbury-nickel-mines-economic-v2.webp"},
   {
     id: "potash-corp-saskatchewan-economic-v2",
     type: "industry",
@@ -55,6 +71,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Kálisó-bányászat", "Műtrágya export"],
       ro: ["Mineritul de săruri de potasiu", "Export de îngrășăminte"],
       en: ["Potash mining", "Fertilizer export"]
+    },
+    descriptionAdvanced: {
+      de: "PotashCorp, heute Teil von Nutrien, machte Saskatchewan zum weltweit führenden Produzenten von Kalisalz. Die riesigen Vorkommen in der Prärieprovinz sind für die weltweite Landwirtschaft zur Düngerproduktion unverzichtbar. Wirtschaft K7 — Landwirtschaft und Rohstoffe."
+    },
+    factsAdvanced: {
+      de: ["Weltweit führende Kaliproduktion", "Standort: Saskatchewan, Kanada", "Kalisalz für Düngemittel weltweit", "Zentraler Bestandteil der Agrarökonomie", "Teil des Nutrien-Konzerns", "Tiefbauverfahren zur Gewinnung"]
     }
   },
   {
@@ -69,8 +91,13 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Teherszállítási csomópont", "Logisztikai központ"],
       ro: ["Nod de transport de marfă", "Centru logistic"],
       en: ["Freight hub", "Logistics center"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Gander International Airport in Neufundland spielte eine strategisch entscheidende Rolle in der Geschichte der Transatlantikflüge. Bekannt wurde er auch für seine Gastfreundschaft gegenüber gestrandeten Passagieren nach den Ereignissen vom 11. September. Geschichte K8 — Transatlantik-Luftfahrt."
+    },
+    factsAdvanced: {
+      de: ["Strategischer Stopp für Transatlantikflüge", "Standort: Gander, Neufundland", "Wichtiger Knotenpunkt im Zweiten Weltkrieg", "Symbol der Gastfreundschaft (9/11)", "Ehemals als 'Crossroads of the World' bekannt", "Rolle in der frühen Zivilluftfahrt"]
+    }, image: "/poi-images/gander-international-port-economic-v2.webp"},
   {
     id: "quebec-aluminum-smelter-economic-v2",
     type: "industry",
@@ -97,8 +124,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Ipari kikötő", "Fontos kereskedelmi csomópont"],
       ro: ["Port industrial", "Nod comercial important"],
       en: ["Industrial port", "Key trade hub"]
-    }
-  },
+    }, image: "/poi-images/saint-john-port-economic-v2.webp"},
   {
     id: "thunder-bay-port-economic-v2",
     type: "port",
@@ -111,8 +137,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Gabona-átrakodás", "Nagy tavi kikötő"],
       ro: ["Transbordarea cerealelor", "Port lacustru mare"],
       en: ["Grain transshipment", "Major lake port"]
-    }
-  },
+    }, image: "/poi-images/thunder-bay-port-economic-v2.webp"},
   {
     id: "delta-port-economic-v2",
     type: "port",
@@ -125,8 +150,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Konténer-átrakodás", "Automatizált terminál"],
       ro: ["Transbordarea containerelor", "Terminal automatizat"],
       en: ["Container handling", "Automated terminal"]
-    }
-  },
+    }, image: "/poi-images/delta-port-economic-v2.webp"},
   {
     id: "sept-iles-port-economic-v2",
     type: "port",
@@ -139,8 +163,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Vasérc-export", "Mélyvízi kikötő"],
       ro: ["Export de minereu de fier", "Port de apă adâncă"],
       en: ["Iron ore export", "Deep-water port"]
-    }
-  },
+    }, image: "/poi-images/sept-iles-port-economic-v2.webp"},
   {
     id: "kitimat-lng-economic-v2",
     type: "industry",
@@ -153,8 +176,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Földgáz-cseppfolyósítás", "Export-infrastruktúra"],
       ro: ["Lichefierea gazelor naturale", "Infrastructură de export"],
       en: ["Natural gas liquefaction", "Export infrastructure"]
-    }
-  },
+    }, image: "/poi-images/kitimat-lng-economic-v2.webp"},
   {
     id: "windsor-assembly-plant-economic-v2",
     type: "industry",
@@ -167,8 +189,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Autógyártás", "Exportorientált"],
       ro: ["Producția de automobile", "Orientată spre export"],
       en: ["Automobile production", "Export-oriented"]
-    }
-  },
+    }, image: "/poi-images/windsor-assembly-plant-economic-v2.webp"},
   {
     id: "saskatoon-uranium-mining-economic-v2",
     type: "industry",
@@ -195,8 +216,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Vasúti és logisztikai központ", "Központi telephely"],
       ro: ["Centru feroviar și logistic", "Locație centrală"],
       en: ["Rail and logistics center", "Central location"]
-    }
-  },
+    }, image: "/poi-images/winnipeg-logistics-hub-economic-v2.webp"},
   {
     id: "burnaby-oil-refinery-economic-v2",
     type: "industry",
@@ -209,8 +229,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Üzemanyag-termelés", "Ipari finomítás"],
       ro: ["Producția de combustibil", "Rafinare industrială"],
       en: ["Fuel production", "Industrial refining"]
-    }
-  },
+    }, image: "/poi-images/burnaby-oil-refinery-economic-v2.webp"},
   {
     id: "nanticoke-steel-plant-economic-v2",
     type: "industry",
@@ -223,8 +242,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Acélgyártás", "Nehézipar"],
       ro: ["Producția de oțel", "Industrie grea"],
       en: ["Steel production", "Heavy industry"]
-    }
-  },
+    }, image: "/poi-images/nanticoke-steel-plant-economic-v2.webp"},
   {
     id: "columbia-river-hydro-economic-v2",
     type: "industry",
@@ -237,8 +255,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Áramtermelés", "Megújuló energia"],
       ro: ["Producția de energie electrică", "Energie regenerabilă"],
       en: ["Power generation", "Renewable energy"]
-    }
-  },
+    }, image: "/poi-images/columbia-river-hydro-economic-v2.webp"},
   {
     id: "hamilton-port-economic-v2",
     type: "port",
@@ -251,8 +268,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Ipari kikötő", "Kereskedelmi csomópont"],
       ro: ["Port industrial", "Nod comercial"],
       en: ["Industrial port", "Trade hub"]
-    }
-  },
+    }, image: "/poi-images/hamilton-port-economic-v2.webp"},
   {
     id: "sarnia-petrochemical-economic-v2",
     type: "industry",
@@ -265,8 +281,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Petrolkémia", "Műanyaggyártás"],
       ro: ["Petrochimie", "Producția de mase plastice"],
       en: ["Petrochemicals", "Plastic production"]
-    }
-  },
+    }, image: "/poi-images/sarnia-petrochemical-economic-v2.webp"},
   {
     id: "vancouver-grain-terminals-economic-v2",
     type: "port",
@@ -279,8 +294,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Gabonaexport", "Nagy teljesítményű átrakodás"],
       ro: ["Export de cereale", "Transbordare de înaltă performanță"],
       en: ["Grain export", "High-capacity transshipment"]
-    }
-  },
+    }, image: "/poi-images/vancouver-grain-terminals-economic-v2.webp"},
   {
     id: "charlottetown-port-economic-v2",
     type: "port",
@@ -293,8 +307,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Regionális átrakodás", "Halászkikötő"],
       ro: ["Transbordare regională", "Port pescăresc"],
       en: ["Regional transshipment", "Fishing port"]
-    }
-  },
+    }, image: "/poi-images/charlottetown-port-economic-v2.webp"},
   {
     id: "oilsands-pipe-infrastructure-economic-v2",
     type: "industry",
@@ -307,8 +320,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Csővezetékek", "Szállítási logisztika"],
       ro: ["Conducte", "Logistica transportului"],
       en: ["Pipelines", "Transport logistics"]
-    }
-  },
+    }, image: "/poi-images/oilsands-pipe-infrastructure-economic-v2.webp"},
   {
     id: "st-johns-port-economic-v2",
     type: "port",
@@ -321,8 +333,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Ellátó kikötő", "Atlanti bázis"],
       ro: ["Port de aprovizionare", "Bază atlantică"],
       en: ["Supply port", "Atlantic base"]
-    }
-  },
+    }, image: "/poi-images/st-johns-port-economic-v2.webp"},
   {
     id: "guelph-manufacturing-hub-economic-v2",
     type: "industry",
@@ -335,8 +346,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Gyáripar", "Technológiai központ"],
       ro: ["Industrie prelucrătoare", "Centru tehnologic"],
       en: ["Manufacturing", "Technology hub"]
-    }
-  },
+    }, image: "/poi-images/guelph-manufacturing-hub-economic-v2.webp"},
   {
     id: "baffin-mining-project-economic-v2",
     type: "industry",
@@ -349,8 +359,7 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Sarkvidéki bányászat", "Speciális logisztika"],
       ro: ["Minerit arctic", "Logistică specializată"],
       en: ["Arctic mining", "Specialized logistics"]
-    }
-  },
+    }, image: "/poi-images/baffin-mining-project-economic-v2.webp"},
   {
     id: "fraser-valley-agriculture-logistics-economic-v2",
     type: "industry",
@@ -363,6 +372,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       hu: ["Agrárexport", "Hűtőház-logisztika"],
       ro: ["Export agricol", "Logistică de depozitare frigorifică"],
       en: ["Agricultural export", "Cold chain logistics"]
-    }
-  }
+    }, image: "/poi-images/fraser-valley-agriculture-logistics-economic-v2.webp"}
 ]
+

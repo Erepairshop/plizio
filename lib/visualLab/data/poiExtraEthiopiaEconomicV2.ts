@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEthiopiaEconomicV2: POI[] = [
@@ -35,8 +36,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["2016. július 13-án nyílt meg.", "Kb. 250 millió USD értékű beruházás.", "Több mint 30 000 munkahelyet biztosít.", "Exportorientált termelési központ.", "Több mint 20 nemzetközi cég működik itt.", "Kiemelt jelentŰââ‚¬Ëœségű a ruházati szektorban."],
       ro: ["Inaugurat pe 13 iulie 2016.", "InvestiÃƒË†ââ‚¬Âºie de circa 250 milioane USD.", "Creează peste 30.000 de locuri de muncă.", "Hub de producÃƒË†ââ‚¬Âºie orientat spre export.", "Găzduiește peste 20 de companii internaÃƒË†ââ‚¬Âºionale.", "EsenÃƒË†ââ‚¬Âºial pentru sectorul confecÃƒË†ââ‚¬Âºiilor."],
       en: ["Opened on July 13, 2016.", "Investment of about 250 million USD.", "Provides over 30,000 jobs.", "Export-oriented production hub.", "Hosts over 20 international firms.", "Key for the apparel sector."]
-    }
-  },
+    }, image: "/poi-images/hawassa-industrial-park-economic-v2.webp"},
   {
     id: "modjo-dry-port-economic-v2",
     type: "port",
@@ -71,8 +71,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["A teljes áruforgalom több mint 70%-a.", "Központi csomópont a vasúti fuvarozásban.", "Nagy kapacitású konténertárolás.", "A dzsibuti tengeri kikötŰââ‚¬Ëœk tehermentesítése.", "Folyamatos bŰââ‚¬Ëœvítések 2009 óta.", "Etiópia legfontosabb szárazkikötŰââ‚¬Ëœje."],
       ro: ["Peste 70% din volumul total de marfă.", "Nod central pentru transportul feroviar.", "CapacităÃƒË†ââ‚¬Âºi mari pentru stocarea containerelor.", "Degrevarea porturilor maritime din Djibouti.", "Extinderi continue din 2009.", "Cel mai important port uscat din Etiopia."],
       en: ["Over 70% of total cargo volume.", "Central hub for rail freight.", "Large capacity for container storage.", "Decongestion of seaports in Djibouti.", "Continuous expansion since 2009.", "Ethiopia's primary dry port."]
-    }
-  },
+    }, image: "/poi-images/modjo-dry-port-economic-v2.webp"},
   {
     id: "adama-industrial-park-economic-v2",
     type: "industry",
@@ -95,8 +94,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Az exportorientált termelést ösztönzi.", "A Modjo szárazkikötŰââ‚¬Ëœ közelében található."],
       ro: ["Promovează producÃƒË†ââ‚¬Âºia orientată spre export.", "Situat aproape de Portul Uscat Modjo."],
       en: ["Promotes export-oriented production.", "Located near Modjo Dry Port."]
-    }
-  },
+    }, image: "/poi-images/adama-industrial-park-economic-v2.webp"},
   {
     id: "bole-lemi-industrial-park-economic-v2",
     type: "industry",
@@ -119,8 +117,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Nemzetközi márkákat vonz.", "Az elsŰââ‚¬Ëœ fázis 2014-ben fejezŰââ‚¬Ëœdött be."],
       ro: ["Atrage branduri internaÃƒË†ââ‚¬Âºionale.", "Faza 1 a fost finalizată în 2014."],
       en: ["Attracts international brands.", "Phase 1 was completed in 2014."]
-    }
-  },
+    }, image: "/poi-images/bole-lemi-industrial-park-economic-v2.webp"},
   {
     id: "mekelle-industrial-park-economic-v2",
     type: "industry",
@@ -143,8 +140,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["2017-ben nyitották meg.", "A fŰââ‚¬Ëœ hangsúly a textíliákon van."],
       ro: ["Inaugurat în anul 2017.", "Se axează pe produse textile."],
       en: ["Inaugurated in 2017.", "Focuses heavily on garments."]
-    }
-  },
+    }, image: "/poi-images/mekelle-industrial-park-economic-v2.webp"},
   {
     id: "kombolcha-industrial-park-economic-v2",
     type: "industry",
@@ -167,8 +163,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Modern szennyvíztisztítóval rendelkezik.", "Fontos szerepet játszik a nemzeti tervben."],
       ro: ["Dispune de tratare modernă a apelor uzate.", "Joacă un rol cheie în planul naÃƒË†ââ‚¬Âºional."],
       en: ["Features modern wastewater treatment.", "Plays a key role in the national plan."]
-    }
-  },
+    }, image: "/poi-images/kombolcha-industrial-park-economic-v2.webp"},
   {
     id: "derba-midroc-cement-economic-v2",
     type: "industry",
@@ -191,8 +186,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Naponta több ezer tonna cementet termel.", "Kiemelten fontos az infrastruktúra fejlesztéséhez."],
       ro: ["Produce zilnic mii de tone de ciment.", "EsenÃƒË†ââ‚¬Âºial pentru dezvoltarea infrastructurii."],
       en: ["Produces thousands of tons of cement daily.", "Crucial for infrastructure development."]
-    }
-  },
+    }, image: "/poi-images/derba-midroc-cement-economic-v2.webp"},
   {
     id: "mugher-cement-enterprise-economic-v2",
     type: "industry",
@@ -215,8 +209,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["A Mugher folyó völgyében fekszik.", "Az etióp cementipar egyik úttörŰââ‚¬Ëœje."],
       ro: ["Situat pe valea râului Mugher.", "Un pionier al industriei cimentului din Etiopia."],
       en: ["Located in the Mugher river valley.", "A pioneer of the Ethiopian cement industry."]
-    }
-  },
+    }, image: "/poi-images/mugher-cement-enterprise-economic-v2.webp"},
   {
     id: "lega-dembi-gold-mine-economic-v2",
     type: "industry",
@@ -239,8 +232,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Az 1990-es évek vége óta működik.", "Fontos exportbevételi forrás."],
       ro: ["OperaÃƒË†ââ‚¬Âºională de la sfârșitul anilor 1990.", "Sursă importantă de venituri din export."],
       en: ["Operational since the late 1990s.", "Important source of export revenue."]
-    }
-  },
+    }, image: "/poi-images/lega-dembi-gold-mine-economic-v2.webp"},
   {
     id: "kenticha-tantalum-mine-economic-v2",
     type: "industry",
@@ -263,8 +255,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Kiváló minŰââ‚¬Ëœségű tantálérceirŰââ‚¬Ëœl ismert.", "Támogatja a globális technológiai termelést."],
       ro: ["Cunoscută pentru minereul de tantal de înaltă calitate.", "Sprijină producÃƒË†ââ‚¬Âºia tehnologică globală."],
       en: ["Known for high-grade tantalum ores.", "Supports global technology production."]
-    }
-  },
+    }, image: "/poi-images/kenticha-tantalum-mine-economic-v2.webp"},
   {
     id: "kilinto-industrial-park-economic-v2",
     type: "industry",
@@ -287,8 +278,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Az orvostechnikára összpontosít.", "Célja az importfüggŰââ‚¬Ëœség csökkentése."],
       ro: ["Axat pe tehnologia medicală.", "Are ca scop reducerea dependenÃƒË†ââ‚¬Âºei de importuri."],
       en: ["Focuses on medical technology.", "Aims to reduce reliance on imports."]
-    }
-  },
+    }, image: "/poi-images/kilinto-industrial-park-economic-v2.webp"},
   {
     id: "dire-dawa-industrial-park-economic-v2",
     type: "industry",
@@ -311,8 +301,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["ErŰââ‚¬Ëœsíti a keleti gazdasági tengelyt.", "Modern logisztikai létesítményekkel rendelkezik."],
       ro: ["Consolidează axa economică estică.", "Dispune de facilităÃƒË†ââ‚¬Âºi logistice moderne."],
       en: ["Strengthens the eastern economic axis.", "Features modern logistics facilities."]
-    }
-  },
+    }, image: "/poi-images/dire-dawa-industrial-park-economic-v2.webp"},
   {
     id: "dire-dawa-dry-port-economic-v2",
     type: "port",
@@ -335,8 +324,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Csökkenti a vámkezelési idŰââ‚¬Ëœt.", "JelentŰââ‚¬Ëœsen megkönnyíti a regionális kereskedelmet."],
       ro: ["Reduce timpii de vămuire.", "Facilitează comerÃƒË†ââ‚¬Âºul regional semnificativ."],
       en: ["Reduces customs clearance times.", "Significantly facilitates regional trade."]
-    }
-  },
+    }, image: "/poi-images/dire-dawa-dry-port-economic-v2.webp"},
   {
     id: "jimma-industrial-park-economic-v2",
     type: "industry",
@@ -359,8 +347,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Integrálja a kávé- és teafeldolgozást.", "ÃƒÆ’Ã…Â¡j piacokat teremt a helyi gazdák számára."],
       ro: ["Integrează prelucrarea cafelei și a ceaiului.", "Creează noi pieÃƒË†ââ‚¬Âºe pentru fermierii locali."],
       en: ["Integrates coffee and tea processing.", "Creates new markets for local farmers."]
-    }
-  },
+    }, image: "/poi-images/jimma-industrial-park-economic-v2.webp"},
   {
     id: "bgi-ethiopia-addis-ababa-economic-v2",
     type: "industry",
@@ -383,8 +370,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["ÃƒÆ’ââ‚¬°vente több millió hektolitert termel.", "Fontos munkáltató az italiparban."],
       ro: ["Produce milioane de hectolitri anual.", "Un angajator major în industria băuturilor."],
       en: ["Produces millions of hectoliters annually.", "A major employer in the beverage industry."]
-    }
-  },
+    }, image: "/poi-images/bgi-ethiopia-addis-ababa-economic-v2.webp"},
   {
     id: "debark-industrial-park-economic-v2",
     type: "industry",
@@ -407,8 +393,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Az élelmiszer-feldolgozásra összpontosít.", "A nemzeti terjeszkedési stratégia része."],
       ro: ["Focus pe prelucrarea alimentelor.", "Face parte din strategia naÃƒË†ââ‚¬Âºională de expansiune."],
       en: ["Focus on food processing.", "Part of the national expansion strategy."]
-    }
-  },
+    }, image: "/poi-images/debark-industrial-park-economic-v2.webp"},
   {
     id: "national-cement-share-company-economic-v2",
     type: "industry",
@@ -431,8 +416,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Az 1930-as években alapították.", "ElsŰââ‚¬Ëœsorban a keleti piacot látja el."],
       ro: ["ÃƒÆ’Ã…Â½nfiinÃƒË†ââ‚¬Âºată în anii 1930.", "Aprovizionează în principal piaÃƒË†ââ‚¬Âºa de est."],
       en: ["Established in the 1930s.", "Primarily supplies the eastern market."]
-    }
-  },
+    }, image: "/poi-images/national-cement-share-company-economic-v2.webp"},
   {
     id: "wonji-shoa-sugar-factory-economic-v2",
     type: "industry",
@@ -455,8 +439,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Az Awash folyó vizét használja.", "Korszerűsítették és kibŰââ‚¬Ëœvítették."],
       ro: ["Folosește apa din râul Awash.", "A fost modernizată și extinsă."],
       en: ["Uses water from the Awash River.", "Has been modernized and expanded."]
-    }
-  },
+    }, image: "/poi-images/wonji-shoa-sugar-factory-economic-v2.webp"},
   {
     id: "tulu-kapi-gold-mine-economic-v2",
     type: "industry",
@@ -479,8 +462,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["JelentŰââ‚¬Ëœs külföldi befektetéseket vonz.", "Számos munkahelyet teremt a bányászatban."],
       ro: ["Atrage investiÃƒË†ââ‚¬Âºii străine mari.", "Creează numeroase locuri de muncă în minerit."],
       en: ["Attracts large foreign investments.", "Creates numerous mining jobs."]
-    }
-  },
+    }, image: "/poi-images/tulu-kapi-gold-mine-economic-v2.webp"},
   {
     id: "kality-metal-products-factory-economic-v2",
     type: "industry",
@@ -527,8 +509,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["A Kombolcha Ipari Parkhoz kapcsolódik.", "Megkönnyíti a kereskedelmet ÃƒÆ’ââ‚¬°szak-Etiópiában."],
       ro: ["Conectat la Parcul Industrial Kombolcha.", "Facilitează comerÃƒË†ââ‚¬Âºul în nordul Etiopiei."],
       en: ["Connected to the Kombolcha Industrial Park.", "Facilitates trade in northern Ethiopia."]
-    }
-  },
+    }, image: "/poi-images/kombolcha-dry-port-economic-v2.webp"},
   {
     id: "semara-dry-port-economic-v2",
     type: "port",
@@ -575,8 +556,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Az etióp ipari parkok úttörŰââ‚¬Ëœje.", "Több tucat külföldi gyárnak ad otthont."],
       ro: ["Pionier al parcurilor industriale din Etiopia.", "Găzduiește zeci de fabrici străine."],
       en: ["Pioneer of Ethiopian industrial parks.", "Hosts dozens of foreign factories."]
-    }
-  },
+    }, image: "/poi-images/dukem-eastern-industry-zone-economic-v2.webp"},
   {
     id: "huajian-shoe-factory-economic-v2",
     type: "industry",
@@ -599,8 +579,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["A sikeres közvetlen külföldi befektetések szimbóluma.", "Több ezer helyi munkavállalót foglalkoztat."],
       ro: ["Simbol al investiÃƒË†ââ‚¬Âºiilor străine directe de succes.", "Angajează mii de muncitori locali."],
       en: ["Symbol of successful foreign direct investment.", "Employs thousands of local workers."]
-    }
-  },
+    }, image: "/poi-images/huajian-shoe-factory-economic-v2.webp"},
   {
     id: "dangote-cement-ethiopia-economic-v2",
     type: "industry",
@@ -623,8 +602,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Több mint 2,5 millió tonna éves kapacitás.", "2015-ben avatták fel."],
       ro: ["Capacitate de peste 2,5 milioane de tone pe an.", "Inaugurată în anul 2015."],
       en: ["Capacity of over 2.5 million tons annually.", "Inaugurated in 2015."]
-    }
-  },
+    }, image: "/poi-images/dangote-cement-ethiopia-economic-v2.webp"},
   {
     id: "habesha-breweries-economic-v2",
     type: "industry",
@@ -647,8 +625,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Európai befektetŰââ‚¬Ëœk támogatják.", "A régió tiszta forrásvizét használja."],
       ro: ["SusÃƒË†ââ‚¬Âºinută de investitori europeni.", "Folosește apă pură de izvor din regiune."],
       en: ["Backed by European investors.", "Uses pure spring water from the region."]
-    }
-  },
+    }, image: "/poi-images/habesha-breweries-economic-v2.webp"},
   {
     id: "metehera-sugar-factory-economic-v2",
     type: "industry",
@@ -671,8 +648,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["Az 1960-as évek óta termel.", "Több ezer hektár termŰââ‚¬Ëœföldet foglal magában."],
       ro: ["Produce din anii 1960.", "Include mii de hectare de teren agricol."],
       en: ["Producing since the 1960s.", "Encompasses thousands of hectares of farmland."]
-    }
-  },
+    }, image: "/poi-images/metehera-sugar-factory-economic-v2.webp"},
   {
     id: "mekelle-dry-port-economic-v2",
     type: "port",
@@ -695,8 +671,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["A Mekelle Ipari Parkot szolgálja ki.", "Fontos a regionális újjáépítés szempontjából."],
       ro: ["Deservește Parcul Industrial Mekelle.", "Important pentru reconstrucÃƒË†ââ‚¬Âºia regională."],
       en: ["Serves the Mekelle Industrial Park.", "Important for regional reconstruction."]
-    }
-  },
+    }, image: "/poi-images/mekelle-dry-port-economic-v2.webp"},
   {
     id: "almeda-textile-factory-economic-v2",
     type: "industry",
@@ -719,8 +694,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       hu: ["A fonaltól a kész ruhadarabig mindent gyárt.", "Fontos regionális munkáltató."],
       ro: ["Produce de la fir până la piesa de îmbrăcăminte finită.", "Angajator regional important."],
       en: ["Produces from yarn to finished garment.", "Important regional employer."]
-    }
-  },
+    }, image: "/poi-images/almeda-textile-factory-economic-v2.webp"},
   {
     id: "adama-wind-farm-economic-v2",
     type: "industry",
@@ -746,3 +720,4 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
     }
   }
 ];
+

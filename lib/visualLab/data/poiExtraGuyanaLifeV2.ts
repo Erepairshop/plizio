@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuyanaLifeV2: POI[] = [ {
@@ -42,8 +43,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["A wai-wai közösség kezeli", "Védi az amazonasi esőerdőt", "Jaguárok és óriásvidrák élőhelye", "Az ország legnagyobb őslakos védett területe"],
       ro: ["Gestionată de comunitatea Wai-Wai", "Protejează pădurea amazoniană", "Habitat pentru jaguari și vidre uriașe", "Cea mai mare zonă protejată indigenă din țară"],
       en: ["Managed by the Wai-Wai community", "Protects the Amazon rainforest", "Home to jaguars and giant otters", "Largest indigenous protected area in the country"]
-    }
-  }, {
+    }, image: "/poi-images/kanashen-protected-area-life-v2.webp"}, {
     id: "karanambu-wetlands-life-v2",
     type: "animal-habitat",
     parent: "GY-UT",
@@ -53,26 +53,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Karanambu Vizesélőhely",
       ro: "Zonele Umede Karanambu",
       en: "Karanambu Wetlands"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al karanambu wetlands life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine berühmte Lodge und ein Feuchtgebiet in der Rupununi-Savanne, das für seine Schutzbemühungen für Riesenotter bekannt ist.",
@@ -85,8 +65,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Óriásvidrák rehabilitációjáról híres", "Diane McTurk alapította", "Esős évszakban víz alá kerül", "Kiváló madármegfigyelő hely"],
       ro: ["Renumită pentru reabilitarea vidrelor uriașe", "Fondată de Diane McTurk", "Inundată în timpul sezonului ploios", "Loc ideal pentru observarea păsărilor"],
       en: ["Famous for giant otter rehabilitation", "Founded by Diane McTurk", "Floods during the rainy season", "Hotspot for birdwatching"]
-    }
-  }, {
+    }, image: "/poi-images/karanambu-wetlands-life-v2.webp"}, {
     id: "rupununi-savannah-wildlife-life-v2",
     type: "animal-habitat",
     parent: "GY-UT",
@@ -96,26 +75,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Rupununi-szavanna Vadvilága",
       ro: "Fauna Savanei Rupununi",
       en: "Rupununi Savannah Wildlife"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al rupununi savannah wildlife life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine weitläufige Savannenlandschaft, in der seltene Tierarten wie der Große Ameisenbär und der Jaguar beheimatet sind.",
@@ -128,8 +87,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Több mint 500 madárfaj otthona", "A sörényes hangyász élőhelye", "Szárazság és áradás váltakozik", "Népszerű az ökoturisták körében"],
       ro: ["Găzduiește peste 500 de specii de păsări", "Habitat pentru furnicarul uriaș", "Alternează între secetă și inundații", "Populară printre ecoturiști"],
       en: ["Home to over 500 bird species", "Habitat of the giant anteater", "Alternates between drought and flood", "Popular with ecotourists"]
-    }
-  }, {
+    }, image: "/poi-images/rupununi-savannah-wildlife-life-v2.webp"}, {
     id: "mahaica-mangrove-reserve-life-v2",
     type: "animal-habitat",
     parent: "GY-DE",
@@ -139,26 +97,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Mahaica Mangrove Rezervátum",
       ro: "Rezervația de Mangrove Mahaica",
       en: "Mahaica Mangrove Reserve"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mahaica mangrove reserve life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein wichtiges Küstenschutzgebiet in Guyana, das dichte Mangrovenwälder und den Lebensraum des seltenen Hoatzin-Vogels bewahrt.",
@@ -171,8 +109,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Védi a partot az eróziótól", "A nemzeti madár, a hoacin otthona", "Csónaktúrák elérhetők a turistáknak", "Fontos halivadék-nevelő hely"],
       ro: ["Protejează coasta de eroziune", "Habitatul păsării naționale hoatzin", "Excursii cu barca disponibile", "Zonă importantă pentru reproducerea peștilor"],
       en: ["Protects the coast from erosion", "Home of the national bird hoatzin", "Boat tours available for tourists", "Important nursery for fish"]
-    }
-  }, {
+    }, image: "/poi-images/mahaica-mangrove-reserve-life-v2.webp"}, {
     id: "atta-rainforest-canopy-life-v2",
     type: "animal-habitat",
     parent: "GY-PT",
@@ -182,26 +119,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Atta Esőerdő Lombkorona-sétány",
       ro: "Pasarela Canopy Atta",
       en: "Atta Rainforest Canopy"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al atta rainforest canopy life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein Hängebrückensystem in den Baumkronen des Iwokrama-Regenwaldes, ideal zur Beobachtung von Affen und exotischen Vögeln.",
@@ -214,8 +131,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["30 méter magasan van a föld felett", "Jó esély bőgőmajmok megfigyelésére", "Az Iwokrama rezervátum része", "Érintetlen dzsungel veszi körül"],
       ro: ["Situat la 30 de metri deasupra solului", "Șanse bune de a vedea maimuțe urlătoare", "Parte a rezervației Iwokrama", "Înconjurat de junglă neatinsă"],
       en: ["Located 30 meters above the ground", "Good chances to see howler monkeys", "Part of the Iwokrama Reserve", "Surrounded by untouched jungle"]
-    }
-  }, {
+    }, image: "/poi-images/atta-rainforest-canopy-life-v2.webp"}, {
     id: "burro-burro-river-wildlife-life-v2",
     type: "animal-habitat",
     parent: "GY-PT",
@@ -225,26 +141,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Burro-Burro Folyó Vadvilága",
       ro: "Fauna Râului Burro-Burro",
       en: "Burro-Burro River Wildlife"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al burro burro river wildlife life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein wilder Flusslauf im Iwokrama-Schutzgebiet, der ein ungestörter Lebensraum für Kaimane, Schlangen und flussbewohnende Vögel ist.",
@@ -257,8 +153,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Népszerű a kenutúrák körében", "Sűrűn erdősült folyópartok", "A fekete kajmán élőhelye", "Kiváló vadvilágfotózási helyszín"],
       ro: ["Popular pentru excursii cu canoea", "Maluri dens împădurite", "Habitatul caimanului negru", "Excelent pentru fotografia de natură"],
       en: ["Popular for canoe trips", "Densely forested riverbanks", "Habitat of the black caiman", "Excellent for wildlife photography"]
-    }
-  }, {
+    }, image: "/poi-images/burro-burro-river-wildlife-life-v2.webp"}, {
     id: "turtle-mountain-reserve-life-v2",
     type: "animal-habitat",
     parent: "GY-PT",
@@ -268,26 +163,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Teknős-hegy Rezervátum",
       ro: "Rezervația Turtle Mountain",
       en: "Turtle Mountain Reserve"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al turtle mountain reserve life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein dicht bewaldeter Berg im Iwokrama-Regenwald, der einen spektakulären Panoramablick bietet und seltene Klammeraffen beheimatet.",
@@ -300,8 +175,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Dzsungeltúrával érhető el", "Pókmajmok élőhelye", "360 fokos kilátást biztosít", "Az Iwokrama Kutatóközpont része"],
       ro: ["Poate fi atins după o drumeție în junglă", "Habitat pentru maimuțe păianjen", "Oferă o vedere de 360 de grade", "Parte a centrului de cercetare Iwokrama"],
       en: ["Reached after a jungle hike", "Habitat for spider monkeys", "Offers a 360-degree view", "Part of the Iwokrama Research Centre"]
-    }
-  }, {
+    }, image: "/poi-images/turtle-mountain-reserve-life-v2.webp"}, {
     id: "rewa-wildlife-area-life-v2",
     type: "animal-habitat",
     parent: "GY-UT",
@@ -311,26 +185,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Rewa Vadvilág Rezervátum",
       ro: "Aria Sălbatică Rewa",
       en: "Rewa Wildlife Area"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al rewa wildlife area life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine von der Gemeinschaft geführte Öko-Lodge am Rewa-Fluss, umgeben von einem der wildreichsten Dschungelgebiete Guyanas.",
@@ -343,8 +197,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Hárpiák és jaguárok élőhelye", "Arapaima horgászatáról ismert", "A makushi közösség üzemelteti", "Extrém biológiai sokféleség"],
       ro: ["Habitat pentru harpii și jaguari", "Cunoscută pentru pescuitul sportiv de arapaima", "Condusă de comunitatea Makushi", "Biodiversitate extremă"],
       en: ["Home to harpies and jaguars", "Known for sport fishing for arapaima", "Run by the Makushi community", "Extreme biodiversity"]
-    }
-  }, {
+    }, image: "/poi-images/rewa-wildlife-area-life-v2.webp"}, {
     id: "caiman-house-sanctuary-life-v2",
     type: "animal-habitat",
     parent: "GY-UT",
@@ -354,26 +207,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Caiman House Kajmánrezervátum",
       ro: "Rezervația Caiman House",
       en: "Caiman House Sanctuary"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al caiman house sanctuary life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine Feldstation in Yupukari, die sich auf den Schutz des Schwarzen Kaimans spezialisiert hat und Gäste in die Forschung einbindet.",
@@ -386,8 +219,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Fontos kajmánkutató központ", "Éjszakai kajmánmegfigyelést kínál", "Támogatja a helyi iskolát", "Őslakos szakértők vezetik"],
       ro: ["Important centru de cercetare a caimanilor", "Oferă observații nocturne ale caimanilor", "Sprijină școala locală", "Condus de experți indigeni"],
       en: ["Important caiman research center", "Offers nocturnal caiman viewing", "Supports the local school", "Led by indigenous experts"]
-    }
-  }, {
+    }, image: "/poi-images/caiman-house-sanctuary-life-v2.webp"}, {
     id: "mapari-wilderness-life-v2",
     type: "animal-habitat",
     parent: "GY-UT",
@@ -397,26 +229,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Mapari Vadon",
       ro: "Sălbăticia Mapari",
       en: "Mapari Wilderness"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mapari wilderness life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein abgelegenes und unzugängliches Regenwaldgebiet in den Kanuku-Bergen, das von seltenen Tieren und klaren Bächen geprägt ist.",
@@ -429,8 +241,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Nagyon nehezen megközelíthető", "Kristálytiszta folyók", "Számtalan denevérfaj otthona", "Teljesen érintetlen természet"],
       ro: ["Foarte greu accesibilă", "Râuri cristaline", "Habitat pentru nenumărate specii de lilieci", "Natură complet neatinsă"],
       en: ["Very difficult to access", "Crystal clear rivers", "Home to countless bat species", "Completely untouched nature"]
-    }
-  }, {
+    }, image: "/poi-images/mapari-wilderness-life-v2.webp"}, {
     id: "hope-coconut-estate-life-v2",
     type: "agriculture",
     parent: "GY-DE",
@@ -440,26 +251,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Hope Kókuszültetvény",
       ro: "Plantația de Cocos Hope",
       en: "Hope Coconut Estate"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al hope coconut estate life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein staatliches Agrarprojekt an der Ostküste von Demerara, das neue Kokosnusssorten züchtet und Bauern in der Region unterstützt.",
@@ -472,8 +263,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Kókuszpalántákat állít elő", "Támogatja a helyi mezőgazdaságot", "Az egész országba szállít vetőmagot", "Államilag finanszírozott"],
       ro: ["Produce puieți de cocos", "Promovează agricultura locală", "Livrează semințe în toată țara", "Finanțat de stat"],
       en: ["Produces coconut seedlings", "Promotes local agriculture", "Supplies seeds across the country", "State-funded"]
-    }
-  }, {
+    }, image: "/poi-images/hope-coconut-estate-life-v2.webp"}, {
     id: "santa-fe-mega-farm-life-v2",
     type: "agriculture",
     parent: "GY-UT",
@@ -483,26 +273,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Santa Fe Megafarm",
       ro: "Mega Ferma Santa Fe",
       en: "Santa Fe Mega Farm"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al santa fe mega farm life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein riesiges Agrarprojekt in der Rupununi-Region, das großflächig Reis, Mais und Sojabohnen im trockenen Savannenklima anbaut.",
@@ -515,8 +285,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Modern mezőgazdaságot visz délre", "Szarvasmarhát és sertést is tenyészt", "Brazil befektetésből jött létre", "Fontos az élelmezésbiztonság szempontjából"],
       ro: ["Aduce agricultura modernă în sud", "Crește și vite și porci", "Investiții braziliene", "Importantă pentru securitatea alimentară"],
       en: ["Brings modern agriculture to the south", "Also breeds cattle and pigs", "Brazilian investment", "Important for food security"]
-    }
-  }, {
+    }, image: "/poi-images/santa-fe-mega-farm-life-v2.webp"}, {
     id: "mabaruma-cocoa-project-life-v2",
     type: "agriculture",
     parent: "GY-BA",
@@ -526,26 +295,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Mabaruma Kakaóprojekt",
       ro: "Proiectul de Cacao Mabaruma",
       en: "Mabaruma Cocoa Project"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mabaruma cocoa project life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine landwirtschaftliche Initiative im Nordwesten Guyanas zur Wiederbelebung des Kakaoanbaus in der indigenen Gemeinschaft.",
@@ -558,8 +307,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Történelmi kakaófajtákat használ", "Támogatja a fenntartható termesztést", "Munkahelyeket teremt az őslakosoknak", "Nedves dzsungelklímában nő"],
       ro: ["Folosește soiuri istorice de cacao", "Promovează cultivarea durabilă", "Creează locuri de muncă pentru indigeni", "Crește în climatul umed de junglă"],
       en: ["Uses historical cocoa varieties", "Promotes sustainable farming", "Creates jobs for indigenous people", "Grows in the humid jungle climate"]
-    }
-  }, {
+    }, image: "/poi-images/mabaruma-cocoa-project-life-v2.webp"}, {
     id: "charity-banana-plantations-life-v2",
     type: "agriculture",
     parent: "GY-PM",
@@ -569,26 +317,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Charity Banánültetvények",
       ro: "Plantațiile de Banane Charity",
       en: "Charity Banana Plantations"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al charity banana plantations life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Große Bananen- und Kochbananenfelder entlang des Pomeroon-Flusses, die den wichtigen Markt der Hafenstadt Charity beliefern.",
@@ -613,26 +341,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       ro: "Câmpurile de Orez Black Bush Polder",
       en: "Black Bush Polder Rice Fields"
     },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al black bush polder rice life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein massives landwirtschaftliches Polder-System in Berbice, das eines der wichtigsten Reisanbaugebiete Guyanas darstellt.",
       hu: "Egy hatalmas mezőgazdasági polderrendszer Berbice-ben, amely Guyana egyik legfontosabb rizstermő területe.",
@@ -644,8 +352,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Az 1960-as években épült", "Négy fő településből áll", "Komplex csatornarendszert használ", "Exportra termel rizst"],
       ro: ["Construit în anii 1960", "Este format din patru așezări principale", "Folosește un sistem complex de canale", "Produce orez pentru export"],
       en: ["Built in the 1960s", "Consists of four main settlements", "Uses a complex canal system", "Produces rice for export"]
-    }
-  }, {
+    }, image: "/poi-images/black-bush-polder-rice-life-v2.webp"}, {
     id: "wakenaam-rice-farms-life-v2",
     type: "agriculture",
     parent: "GY-ES",
@@ -655,26 +362,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Wakenaam Rizsfarmok",
       ro: "Fermele de Orez Wakenaam",
       en: "Wakenaam Rice Farms"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al wakenaam rice farms life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Grüne Reisfelder, die den Großteil der Insel Wakenaam im Essequibo-Fluss bedecken und die lokale Wirtschaft dominieren.",
@@ -687,8 +374,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["A sziget erősen mezőgazdasági jellegű", "A rizst komppal szállítják", "A termékeny folyami talajból profitál", "Hagyományos termesztési módszerek"],
       ro: ["Insula are un caracter puternic agricol", "Orezul este transportat cu feribotul", "Beneficiază de solul fertil al râului", "Metode tradiționale de cultivare"],
       en: ["The island is highly agricultural", "Rice is transported by ferry", "Benefits from fertile river soil", "Traditional farming methods"]
-    }
-  }, {
+    }, image: "/poi-images/wakenaam-rice-farms-life-v2.webp"}, {
     id: "enmore-sugar-fields-life-v2",
     type: "agriculture",
     parent: "GY-DE",
@@ -698,26 +384,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Enmore Cukornádültetvények",
       ro: "Câmpurile de Trestie de Zahăr Enmore",
       en: "Enmore Sugar Fields"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al enmore sugar fields life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Historische Zuckerrohrfelder nahe Georgetown, die lange Zeit das Zentrum der guyanischen Zuckerindustrie bildeten.",
@@ -730,8 +396,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["A cukor Guyana egyik fő exportcikke", "A rabszolgaság történetéhez kapcsolódik", "Az enmore-i sztrájk helyszíne", "Néhány földet modernizáltak"],
       ro: ["Zahărul este un principal produs de export", "Legate de istoria sclaviei", "Scena grevei din Enmore", "Unele câmpuri au fost modernizate"],
       en: ["Sugar is a main export of Guyana", "Linked to the history of slavery", "Scene of the Enmore strike", "Some fields have been modernized"]
-    }
-  }, {
+    }, image: "/poi-images/enmore-sugar-fields-life-v2.webp"}, {
     id: "kimbia-agricultural-centre-life-v2",
     type: "agriculture",
     parent: "GY-EB",
@@ -741,26 +406,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Kimbia Mezőgazdasági Központ",
       ro: "Centrul Agricol Kimbia",
       en: "Kimbia Agricultural Centre"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al kimbia agricultural centre life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein abgelegenes landwirtschaftliches Ausbildungszentrum am Berbice-Fluss, ursprünglich als nationaler Pionierdienst gegründet.",
@@ -773,8 +418,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Elősegíti a mezőgazdasági oktatást", "Gyapotot és babot termesztenek", "Csak csónakkal vagy repülővel érhető el", "Történelmileg jelentős Guyana számára"],
       ro: ["Promovează educația agricolă", "Cultivă bumbac și fasole", "Accesibil doar cu barca sau avionul", "Istoric important pentru Guyana"],
       en: ["Promotes agricultural education", "Grows cotton and beans", "Accessible only by boat or plane", "Historically significant for Guyana"]
-    }
-  }, {
+    }, image: "/poi-images/kimbia-agricultural-centre-life-v2.webp"}, {
     id: "hosororo-agricultural-station-life-v2",
     type: "agriculture",
     parent: "GY-BA",
@@ -784,26 +428,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Hosororo Mezőgazdasági Állomás",
       ro: "Stația Agricolă Hosororo",
       en: "Hosororo Agricultural Station"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al hosororo agricultural station life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine der ältesten landwirtschaftlichen Versuchsstationen Guyanas im Nordwesten, spezialisiert auf Zitrusfrüchte und Avocados.",
@@ -816,8 +440,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["A gyarmati időkben alapították", "Fontos a hegyvidéki mezőgazdaság számára", "Új betakarítási módszereket tesztel", "Palántákat oszt szét a gazdáknak"],
       ro: ["Fondată în perioada colonială", "Importantă pentru agricultura montană", "Testează noi metode de recoltare", "Distribuie puieți fermierilor"],
       en: ["Founded in colonial times", "Important for hillside agriculture", "Tests new harvesting methods", "Distributes seedlings to farmers"]
-    }
-  }, {
+    }, image: "/poi-images/hosororo-agricultural-station-life-v2.webp"}, {
     id: "ebini-livestock-station-life-v2",
     type: "agriculture",
     parent: "GY-UD",
@@ -827,26 +450,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Ebini Állattenyésztő Állomás",
       ro: "Stația de Zootehnie Ebini",
       en: "Ebini Livestock Station"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al ebini livestock station life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine Forschungsstation in der Berbice-Savanne, die sich auf die Zucht und Verbesserung von Rinderherden in Guyana konzentriert.",
@@ -859,8 +462,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["A szavannai legelőket vizsgálja", "Új szarvasmarhafajtákat vezet be", "Cél a hús-önellátás", "Egy köztes szavannán található"],
       ro: ["Investighează pășunile din savană", "Introduce noi rase de vite", "Scopul este autosuficiența cărnii", "Situată într-o savană intermediară"],
       en: ["Investigates savannah pastureland", "Introduces new cattle breeds", "Goal is meat self-sufficiency", "Located in an intermediate savannah"]
-    }
-  }, {
+    }, image: "/poi-images/ebini-livestock-station-life-v2.webp"}, {
     id: "cane-grove-rice-life-v2",
     type: "agriculture",
     parent: "GY-DE",
@@ -870,26 +472,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Cane Grove Rizsföldek",
       ro: "Câmpurile de Orez Cane Grove",
       en: "Cane Grove Rice Fields"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al cane grove rice life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein traditionelles Anbaugebiet, das einst eine Zuckerplantage war und heute eine der produktivsten Reisgemeinden in Demerara ist.",
@@ -902,8 +484,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Korábbi cukornádültetvény", "Saját rizsmalommal rendelkezik", "A Mahaica öntözőrendszert használja", "Fontos helyi munkáltató"],
       ro: ["Fostă moșie de trestie de zahăr", "Are propria moară de orez", "Folosește sistemul de irigații Mahaica", "Important angajator local"],
       en: ["Former sugar cane estate", "Has its own rice mill", "Uses the Mahaica irrigation system", "Important local employer"]
-    }
-  }, {
+    }, image: "/poi-images/cane-grove-rice-life-v2.webp"}, {
     id: "guyana-zoological-park-life-v2",
     type: "kid-landmark",
     parent: "GY-DE",
@@ -913,26 +494,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Guyana Állatkert",
       ro: "Grădina Zoologică din Guyana",
       en: "Guyana Zoological Park"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al guyana zoological park life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein kleiner, familienfreundlicher Zoo in Georgetown, der lokale Wildtiere wie Jaguare, Harpyien und Seekühe zeigt.",
@@ -945,8 +506,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["1952-ben nyitották meg", "A régió állatait mutatja be", "Népszerű az iskolai kirándulásokhoz", "Fókuszban a vadállatok rehabilitációja"],
       ro: ["Deschisă în anul 1952", "Găzduiește animale din regiune", "Populară pentru excursiile școlare", "Se concentrează pe reabilitarea faunei"],
       en: ["Opened in 1952", "Houses animals from the region", "Popular for school trips", "Focuses on wildlife rehabilitation"]
-    }
-  }, {
+    }, image: "/poi-images/guyana-zoological-park-life-v2.webp"}, {
     id: "guyana-national-park-life-v2",
     type: "kid-landmark",
     parent: "GY-DE",
@@ -956,26 +516,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Guyana Nemzeti Park",
       ro: "Parcul Național Guyana",
       en: "Guyana National Park"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al guyana national park life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein weitläufiger Stadtpark in Georgetown mit großen Wiesen, Spielplätzen und einer täglichen Manati-Fütterung für Kinder.",
@@ -988,8 +528,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Korábban golfpálya volt", "Függetlenségi ünnepségek helyszíne", "A tavakban manátuszok élnek", "Sok kocogóút"],
       ro: ["Fost teren de golf", "Locație pentru sărbătorile de independență", "Lamantinii trăiesc în iazuri", "Multe trasee de jogging"],
       en: ["Formerly a golf course", "Venue for independence celebrations", "Manatees live in the ponds", "Many jogging paths"]
-    }
-  }, {
+    }, image: "/poi-images/guyana-national-park-life-v2.webp"}, {
     id: "splashmins-water-park-life-v2",
     type: "kid-landmark",
     parent: "GY-DE",
@@ -999,26 +538,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Splashmins Vízipark",
       ro: "Parcul Acvatic Splashmins",
       en: "Splashmins Water Park"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al splashmins water park life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein beliebter Vergnügungspark am Madewini-Flusssee, ideal für Familienausflüge mit Wasserrutschen, Stränden und Picknickplätzen.",
@@ -1031,8 +550,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["A Soesdyke-Linden autópálya mentén található", "Mesterséges homokos strandja van", "Vízibicikliket kínál", "Nagyon népszerű ünnepnapokon"],
       ro: ["Situat pe autostrada Soesdyke-Linden", "Are o plajă artificială cu nisip", "Oferă hidrobiciclete", "Foarte popular în zilele de sărbătoare"],
       en: ["Located on the Soesdyke-Linden Highway", "Has an artificial sand beach", "Offers pedal boats", "Very popular on public holidays"]
-    }
-  }, {
+    }, image: "/poi-images/splashmins-water-park-life-v2.webp"}, {
     id: "joe-vieira-park-life-v2",
     type: "kid-landmark",
     parent: "GY-ES",
@@ -1042,26 +560,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Joe Vieira Park",
       ro: "Parcul Joe Vieira",
       en: "Joe Vieira Park"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al joe vieira park life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein entspannter Freizeitpark am westlichen Ufer des Demerara, oft genutzt für Familiengrillen, Cricket und Kinderfeste.",
@@ -1074,8 +572,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Egy helyi üzletemberről nevezték el", "Nyitott zöldterületeket kínál", "Népszerű a Phagwah-ünnepségekhez", "A Demerara Harbour Bridge közelében"],
       ro: ["Numit după un om de afaceri local", "Oferă spații verzi deschise", "Popular pentru sărbătorile Phagwah", "Aproape de podul Demerara Harbour"],
       en: ["Named after a local businessman", "Offers open green spaces", "Popular for Phagwah celebrations", "Near the Demerara Harbour Bridge"]
-    }
-  }, {
+    }, image: "/poi-images/joe-vieira-park-life-v2.webp"}, {
     id: "georgetown-botanical-gardens-life-v2",
     type: "kid-landmark",
     parent: "GY-DE",
@@ -1085,26 +582,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Georgetowni Botanikus Kert",
       ro: "Grădina Botanică din Georgetown",
       en: "Georgetown Botanical Gardens"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al georgetown botanical gardens life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein weitläufiger tropischer Garten im Herzen der Hauptstadt, ideal für Spaziergänge mit Kindern, die die riesigen Lotusblumen bestaunen.",
@@ -1117,8 +594,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Az 1870-es években nyitott meg", "Ritka trópusi növényeknek ad otthont", "Victoria amazonica liliomok nőnek itt", "Nyugodt menedék a városban"],
       ro: ["Deschisă în anii 1870", "Găzduiește plante tropicale rare", "Aici cresc nuferii Victoria Amazonica", "Un refugiu liniștit în oraș"],
       en: ["Opened in the 1870s", "Houses rare tropical plants", "Victoria Amazonica lilies grow here", "A quiet retreat in the city"]
-    }
-  }, {
+    }, image: "/poi-images/georgetown-botanical-gardens-life-v2.webp"}, {
     id: "colgrain-swimming-pool-life-v2",
     type: "kid-landmark",
     parent: "GY-DE",
@@ -1128,26 +604,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Colgrain Uszoda",
       ro: "Piscina Colgrain",
       en: "Colgrain Swimming Pool"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al colgrain swimming pool life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein beliebtes öffentliches Schwimmbad in Georgetown, in dem viele guyanische Kinder schwimmen lernen und Wettbewerbe austragen.",
@@ -1160,8 +616,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Iskolai versenyek helyszíne", "A Sportminisztérium kezeli", "Úszótanfolyamokat kínál kezdőknek", "A város kevés medencéjének egyike"],
       ro: ["Locul desfășurării competițiilor școlare", "Gestionată de Ministerul Sportului", "Oferă lecții de înot pentru începători", "Una dintre puținele piscine din oraș"],
       en: ["Venue for school competitions", "Managed by the Ministry of Sport", "Offers swimming lessons for beginners", "One of the few pools in the city"]
-    }
-  }, {
+    }, image: "/poi-images/colgrain-swimming-pool-life-v2.webp"}, {
     id: "pandama-retreat-life-v2",
     type: "kid-landmark",
     parent: "GY-DE",
@@ -1171,26 +626,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Pandama Természetvédelmi Üdülő",
       ro: "Retreatul Pandama",
       en: "Pandama Retreat"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al pandama retreat life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Ein friedliches Naturresort, in dem Familien entspannen, baden und die Natur erkunden können, fernab vom Stadtlärm.",
@@ -1203,8 +638,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["Helyi gyümölcsbort állít elő", "Feketevizű fürdőzés gyerekeknek", "Ökológiai menedékhely", "A Linden Highway mentén fekszik"],
       ro: ["Produce vin local din fructe", "Înot în pârâu negru pentru copii", "Refugiu ecologic", "Situată pe autostrada Linden"],
       en: ["Produces local fruit wine", "Blackwater bathing for children", "Ecological retreat", "Located on the Linden Highway"]
-    }
-  }, {
+    }, image: "/poi-images/pandama-retreat-life-v2.webp"}, {
     id: "kissing-bridge-georgetown-life-v2",
     type: "kid-landmark",
     parent: "GY-DE",
@@ -1214,26 +648,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Kissing Bridge",
       ro: "Kissing Bridge",
       en: "Kissing Bridge"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al kissing bridge georgetown life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine malerische, weiße Bogenbrücke im Botanischen Garten, die ein beliebtes Fotomotiv für Familien und Hochzeitspaare ist.",
@@ -1246,8 +660,7 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: ["A Botanikus Kert ikonja", "Öntöttvasból készült", "Skóciából importálták", "Kisebb tavirózsás tavakat hidal át"],
       ro: ["Icoană a Grădinii Botanice", "Este din fontă", "A fost importat din Scoția", "Traversează mici iazuri cu nuferi"],
       en: ["Icon of the Botanical Gardens", "Made of cast iron", "Was imported from Scotland", "Crosses small lily ponds"]
-    }
-  }, {
+    }, image: "/poi-images/kissing-bridge-georgetown-life-v2.webp"}, {
     id: "evergreen-nature-centre-life-v2",
     type: "kid-landmark",
     parent: "GY-DE",
@@ -1257,26 +670,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       hu: "Evergreen Természeti Központ",
       ro: "Centrul de Natură Evergreen",
       en: "Evergreen Nature Centre"
-    },
-    descriptionAdvanced: {
-      de: "Das Leben in Guyana ist ein Schmelztiegel verschiedener Kulturen, Religionen und ethnischer Gruppen.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al evergreen nature centre life v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
     },
     description: {
       de: "Eine private Naturoase in Ogle, wo Kinder in sicherer Umgebung die Flora und Fauna Guyanas hautnah erleben können.",

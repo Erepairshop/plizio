@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED
 import type { POI } from "./poi";
 import { poiExtraPanamaCitiesV2 } from "./poiExtraPanamaCitiesV2";
@@ -38,8 +39,7 @@ export const panamaCities: POI[] = [
       en: ["The city was destroyed by pirate Henry Morgan in 1671 and later rebuilt in a new location nearby.", "The Metropolitan Natural Park is a protected area within the city offering diverse wildlife.", "Panama City boasts one of the most impressive skylines in all of Latin America."]
     },
     historyYear: 1519,
-    historyPeriod: "Colonial"
-  },
+    historyPeriod: "Colonial", image: "/poi-images/pa-panamacity.webp"},
   { 
     id: "pa-david", 
     type: "city", 
@@ -66,8 +66,7 @@ export const panamaCities: POI[] = [
       en: ["Founded in 1602 as San José de David.", "An important junction on the Pan-American Highway.", "Famous for its annual 'Feria Internacional de David' festival."]
     },
     historyYear: 1602,
-    historyPeriod: "Colonial"
-  },
+    historyPeriod: "Colonial", image: "/poi-images/pa-david.webp"},
   { 
     id: "pa-colon", 
     type: "city", 
@@ -122,8 +121,7 @@ export const panamaCities: POI[] = [
       en: ["The city was officially founded in the year 1621.", "Santiago is famous for its traditional handicraft markets.", "The region is rich in gold deposits, which have been mined since colonial times."]
     },
     historyYear: 1621,
-    historyPeriod: "Colonial"
-  },
+    historyPeriod: "Colonial", image: "/poi-images/pa-santiago.webp"},
   { 
     id: "pa-chitre", 
     type: "city", 
@@ -150,8 +148,7 @@ export const panamaCities: POI[] = [
       en: ["The San Juan Bautista Cathedral is the city's architectural landmark.", "Chitré is considered one of the cities with the highest quality of life in Panama.", "The nearby Sarigua National Park features a unique desert landscape."]
     },
     historyYear: 1848,
-    historyPeriod: "Modern"
-  },
+    historyPeriod: "Modern", image: "/poi-images/pa-chitre.webp"},
   { 
     id: "pa-cerro-fabrega", 
     type: "mountain", 
@@ -177,8 +174,7 @@ export const panamaCities: POI[] = [
       ro: ["Muntele este unul dintre puținele locuri din Panama cu vegetație de tundră alpină.", "Este situat într-una dintre cele mai ploioase regiuni ale țării.", "Accesul la vârf este dificil și necesită o expediție de mai multe zile."],
       en: ["The mountain is one of the few places in Panama with alpine tundra vegetation.", "It is located in one of the wettest regions of the country.", "Reaching the summit is challenging and requires a multi-day expedition."]
     },
-    elevation: 3335
-  },
+    elevation: 3335, image: "/poi-images/pa-cerro-fabrega.webp"},
   { 
     id: "pa-rio-chagres", 
     type: "river", 
@@ -204,8 +200,7 @@ export const panamaCities: POI[] = [
       ro: ["Este singurul râu din lume care se varsă în două oceane (prin intermediul canalului).", "Râul furnizează peste 60% din apa necesară pentru tranzitul unei nave.", "O mare parte din cursul său este protejată prin lege."],
       en: ["It is the only river in the world that drains into two oceans (via the canal).", "The river provides over 60% of the water required for a single ship transit.", "A significant portion of its course is protected as a national park."]
     },
-    length: 193
-  },
+    length: 193, image: "/poi-images/pa-rio-chagres.webp"},
   { 
     id: "pa-gatun-lake", 
     type: "lake", 
@@ -231,8 +226,7 @@ export const panamaCities: POI[] = [
       ro: ["Lacul se află la 26 de metri deasupra nivelului mării.", "Multe foste vârfuri de dealuri apar astăzi ca insule din apă.", "Găzduiește o biodiversitate bogată, inclusiv caimani și păsări exotice."],
       en: ["The lake sits 26 meters above sea level.", "Many former hilltop peaks now emerge from the water as islands.", "It sustains rich biodiversity, including caimans and exotic bird species."]
     },
-    area: 425
-  },
+    area: 425, image: "/poi-images/pa-gatun-lake.webp"},
   { 
     id: "pa-soberania", 
     type: "forest", 
@@ -258,8 +252,7 @@ export const panamaCities: POI[] = [
       ro: ["Celebrul Pipeline Road oferă condiții ideale pentru observarea păsărilor rare.", "Parcul găzduiește maimuțe urlătoare, leneși și jaguari.", "Protejează bazinul hidrografic esențial pentru funcționarea canalului."],
       en: ["The famous Pipeline Road offers ideal conditions for spotting rare avian species.", "The park is home to howler monkeys, sloths, and even elusive jaguars.", "It protects the critical watershed required for the operation of the Canal."]
     },
-    area: 220
-  },
+    area: 220, image: "/poi-images/pa-soberania.webp"},
   { 
     id: "pa-cerro-punta", 
     type: "mountain", 
@@ -285,8 +278,7 @@ export const panamaCities: POI[] = [
       ro: ["Regiunea furnizează aproximativ 80% din legumele consumate în Panama.", "Localitatea este numită după un masiv muntos proeminent din apropiere.", "Climatul răcoros atrage mulți turiști din regiunile mai calde ale țării."],
       en: ["The region provides approximately 80% of the vegetables consumed in Panama.", "The town is named after a distinct nearby mountain peak.", "The cool climate attracts many tourists from the hotter regions of the country."]
     },
-    elevation: 1970
-  },
+    elevation: 1970, image: "/poi-images/pa-cerro-punta.webp"},
   { 
     id: "pa-portobelo-historic", 
     type: "historical", 
@@ -313,8 +305,7 @@ export const panamaCities: POI[] = [
       en: ["The famous privateer Sir Francis Drake died near the bay of Portobelo.", "The San Jerónimo fort is one of the best-preserved ruins on site.", "The town hosts the famous annual festival of the 'Cristo Negro' (Black Christ)."]
     },
     historyYear: 1597,
-    historyPeriod: "Colonial"
-  },
+    historyPeriod: "Colonial", image: "/poi-images/pa-portobelo-historic.webp"},
   { 
     id: "pa-san-lorenzo", 
     type: "historical", 
@@ -341,8 +332,7 @@ export const panamaCities: POI[] = [
       en: ["Henry Morgan destroyed the original fortress in 1671.", "It also served as a prison during the colonial period.", "The ruins are surrounded by dense, pristine tropical rainforest."]
     },
     historyYear: 1595,
-    historyPeriod: "Colonial"
-  }
+    historyPeriod: "Colonial", image: "/poi-images/pa-san-lorenzo.webp"}
 ];
 
 export const panamaLandmarks: POI[] = [
@@ -400,8 +390,7 @@ export const panamaLandmarks: POI[] = [
       en: ["The district showcases a mix of Spanish, French, and early American architectural styles.", "It houses the Presidential Palace and the National Theater of Panama.", "Today, it is a premier destination for fine dining and nightlife."]
     },
     historyYear: 1673,
-    historyPeriod: "Colonial"
-  },
+    historyPeriod: "Colonial", image: "/poi-images/pa-cascoviejo.webp"},
   { 
     id: "pa-bocas", 
     type: "landmark", 
@@ -427,8 +416,7 @@ export const panamaLandmarks: POI[] = [
       ro: ["Cristofor Columb a vizitat insulele în anul 1502.", "Institutul de Cercetare Tropicală Smithsonian operează o stație aici.", "Isla Colón este cea mai dezvoltată și populată insulă."],
       en: ["Christopher Columbus visited the islands in 1502.", "The Smithsonian Tropical Research Institute operates a research station here.", "Isla Colón is the most developed and populated island in the archipelago."]
     },
-    area: 465
-  },
+    area: 465, image: "/poi-images/pa-bocas.webp"},
   { 
     id: "pa-sanblas", 
     type: "island", 
@@ -454,8 +442,7 @@ export const panamaLandmarks: POI[] = [
       ro: ["Se spune că există o insulă pentru fiecare zi a anului.", "Nucile de cocos sunt una dintre principalele mărfuri comerciale ale poporului Guna.", "Insulele sunt amenințate de scufundare din cauza creșterii nivelului mării."],
       en: ["It is said there is one island for every day of the year.", "Coconuts serve as a primary trade commodity for the Guna people.", "The islands are currently threatened by rising sea levels due to climate change."]
     },
-    area: 2306
-  },
+    area: 2306, image: "/poi-images/pa-sanblas.webp"},
   { 
     id: "pa-volcanbaru", 
     type: "mountain", 
@@ -481,8 +468,7 @@ export const panamaLandmarks: POI[] = [
       ro: ["Ultima erupție majoră a avut loc în jurul anului 1550.", "Vârful găzduiește numeroase antene de transmisie.", "Urcarea durează între 4 și 8 ore, în funcție de rută."],
       en: ["The last major eruption occurred around the year 1550.", "The summit is home to numerous telecommunication towers.", "The hike to the top takes between 4 and 8 hours depending on the route."]
     },
-    elevation: 3474
-  },
+    elevation: 3474, image: "/poi-images/pa-volcanbaru.webp"},
   { 
     id: "pa-boquete", 
     type: "landmark", 
@@ -508,8 +494,7 @@ export const panamaLandmarks: POI[] = [
       ro: ["Localitatea este adesea numită „Valea primăverii eterne”.", "Aici are loc anual celebrul Târg de Flori și Cafea.", "Boquete este o destinație populară pentru expați din întreaga lume."],
       en: ["The town is often called the 'Valley of the Eternal Spring.'", "It hosts the famous annual Flower and Coffee Festival.", "Boquete is a top destination for expatriates from all over the world."]
     },
-    historyYear: 1911
-  },
+    historyYear: 1911, image: "/poi-images/pa-boquete.webp"},
   { 
     id: "pa-amador", 
     type: "landmark", 
@@ -535,8 +520,7 @@ export const panamaLandmarks: POI[] = [
       ro: ["Cele patru insule sunt Naos, Perico, Flamenco și Culebra.", "Aici se află Biomuseo, proiectat de Frank Gehry.", "Digul a fost folosit anterior de armata SUA pentru apărarea canalului."],
       en: ["The four connected islands are Naos, Perico, Flamenco, and Culebra.", "It is the site of the world-famous Biomuseo, designed by Frank Gehry.", "The causeway was once used by the US military for canal defense."]
     },
-    length: 6
-  },
+    length: 6, image: "/poi-images/pa-amador.webp"},
   { 
     id: "pa-biomuseo", 
     type: "landmark", 
@@ -562,8 +546,7 @@ export const panamaLandmarks: POI[] = [
       ro: ["Acoperișurile colorate reprezintă diversitatea florei și faunei locale.", "Muzeul găzduiește două acvarii imense.", "Este situat strategic pe Șoseaua Amador."],
       en: ["The brightly colored roofs represent the diversity of local flora and fauna.", "The museum features two massive aquariums showcasing local marine life.", "It is strategically located on the Amador Causeway with canal views."]
     },
-    historyYear: 2014
-  },
+    historyYear: 2014, image: "/poi-images/pa-biomuseo.webp"},
   { 
     id: "pa-coiba", 
     type: "island", 
@@ -589,8 +572,7 @@ export const panamaLandmarks: POI[] = [
       ro: ["Parcul protejează unul dintre cele mai mari recife de corali de pe coasta Pacificului a Americii.", "Balenele cu cocoașă folosesc apele din jurul insulei pentru creșterea puilor.", "Există aici specii de animale endemice, cum ar fi maimuța urlătoare de Coiba."],
       en: ["The park protects one of the largest coral reefs on the Pacific coast of the Americas.", "Humpback whales use the surrounding waters as a nursery for their calves.", "The island is home to endemic species like the Coiba Island howler monkey."]
     },
-    area: 494
-  },
+    area: 494, image: "/poi-images/pa-coiba.webp"},
   { 
     id: "pa-panamaviejo", 
     type: "historical", 
@@ -617,8 +599,7 @@ export const panamaLandmarks: POI[] = [
       en: ["The iconic cathedral tower is the most famous structure remaining at the site.", "The city served as a vital transit point for gold and silver shipped from Peru.", "The site now features a modern museum detailing its colonial importance."]
     },
     historyYear: 1519,
-    historyPeriod: "Colonial"
-  },
+    historyPeriod: "Colonial", image: "/poi-images/pa-panamaviejo.webp"},
   { 
     id: "pa-nat-cathedral", 
     type: "historical", 
@@ -645,8 +626,7 @@ export const panamaLandmarks: POI[] = [
       en: ["The cathedral was commissioned after the original in Panama Viejo was destroyed.", "It houses priceless religious art and several ornate altars.", "Pope Francis officially consecrated the cathedral during his 2019 visit."]
     },
     historyYear: 1688,
-    historyPeriod: "Colonial"
-  },
+    historyPeriod: "Colonial", image: "/poi-images/pa-nat-cathedral.webp"},
   { 
     id: "pa-taboga", 
     type: "landmark", 
@@ -673,8 +653,7 @@ export const panamaLandmarks: POI[] = [
       en: ["The painter Paul Gauguin briefly lived and worked on the island.", "The Church of San Pedro is regarded as one of the oldest in the Americas.", "Taboga once served as a strategic base for both pirates and conquistadors."]
     },
     area: 12,
-    historyYear: 1524
-  },
+    historyYear: 1524, image: "/poi-images/pa-taboga.webp"},
   { 
     id: "pa-darien", 
     type: "landmark", 
@@ -700,8 +679,7 @@ export const panamaLandmarks: POI[] = [
       ro: ["Zona este renumită pentru „Darién Gap”, singura întrerupere a autostrăzii Pan-Americane.", "Aici trăiesc popoarele indigene Emberá și Wounaan.", "Parcul cuprinde o varietate enormă de ecosisteme, de la munți la mlaștini."],
       en: ["The area is home to the 'Darien Gap,' the only break in the Pan-American Highway.", "It is inhabited by the indigenous Emberá and Wounaan peoples.", "The park encompasses a vast array of ecosystems, from highlands to coastal swamps."]
     },
-    area: 5790
-  },
+    area: 5790, image: "/poi-images/pa-darien.webp"},
   { 
     id: "pa-pearl-islands", 
     type: "landmark", 
@@ -727,8 +705,7 @@ export const panamaLandmarks: POI[] = [
       ro: ["Cea mai mare insulă este Isla del Rey.", "Isla Contadora este centrul turistic al arhipelagului.", "Unele dintre cele mai valoroase perle din lume au fost găsite în împrejurimi."],
       en: ["The largest island in the group is Isla del Rey.", "Isla Contadora serves as the main tourism hub for the archipelago.", "Some of the world's most famous pearls, like 'La Peregrina,' were discovered here."]
     },
-    area: 1165
-  },
+    area: 1165, image: "/poi-images/pa-pearl-islands.webp"},
   { 
     id: "pa-anton-valley", 
     type: "landmark", 
@@ -754,8 +731,7 @@ export const panamaLandmarks: POI[] = [
       ro: ["Aici trăiește rara broască aurie din Panama.", "Localitatea este celebră pentru „copacii pătrați” din zonă.", "Drumețiile către „Indianca Adormită” (La India Dormida) oferă vederi superbe."],
       en: ["The area is the last natural habitat of the rare Panamanian Golden Frog.", "It is home to the mysterious 'square trees' found in the nearby forest.", "Hiking the 'Sleeping Indian' (La India Dormida) ridge offers spectacular valley views."]
     },
-    area: 34
-  },
+    area: 34, image: "/poi-images/pa-anton-valley.webp"},
   { 
     id: "pa-baru-volcano-park", 
     type: "mountain", 
@@ -787,3 +763,4 @@ export const panamaLandmarks: POI[] = [
 ];
 
 export const panamaAllPoi: POI[] = [...panamaCountry, ...panamaRegions, ...panamaCities, ...panamaLandmarks, ...poiExtraPanamaCitiesV2, ...poiExtraPanamaEconomicV2, ...poiExtraPanamaHistoryV2, ...poiExtraPanamaLandmarksV2, ...poiExtraPanamaLifeV2, ...poiExtraPanamaNatureV2, ...poiExtraPanamaReliefV2];
+

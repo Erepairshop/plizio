@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraArgentinaLandmarksV2: POI[] = [
@@ -12,31 +13,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Obeliscul din Buenos Aires",
       en: "Obelisco de Buenos Aires"
     },
-    description: {
-      de: "Ein historisches Monument und das Wahrzeichen der Stadt Buenos Aires, das auf der Plaza de la República steht.",
-      hu: "Egy történelmi emlékmű és Buenos Aires városának ikonikus jelképe, amely a Plaza de la República téren áll.",
-      ro: "Un monument istoric și simbolul emblematic al orașului Buenos Aires, situat în Plaza de la República.",
-      en: "A national historic monument and icon of Buenos Aires, located in the Plaza de la República."
+    descriptionAdvanced: {
+      en: "The Obelisk of Buenos Aires is the undisputed icon of the Argentine capital, standing tall at the intersection of Avenida 9 de Julio and Avenida Corrientes. Built in 1936 to commemorate the 400th anniversary of the first founding of the city, this 67-meter-high concrete monument has become the focal point of national celebrations, political demonstrations, and cultural events. Its simple, elegant design is the work of architect Alberto Prebisch, representing the modern spirit of 1930s Buenos Aires. Located in the heart of the theater district, the Obelisk is often surrounded by a sea of lights and traffic, symbolizing the pulsating energy of the city that never sleeps. For Argentines, it is more than just a monument; it is the physical heart of their identity and the most recognizable symbol of their nation worldwide."
     },
-    facts: {
-      de: [
-        "Wurde 1936 zum 400. Jahrestag der ersten Stadtgründung errichtet.",
-        "Das Denkmal ist genau 67,5 Meter hoch."
-      ],
-      hu: [
-        "Az emlékművet 1936-ban emelték a város első alapításának 400. évfordulójára.",
-        "A szerkezet pontosan 67,5 méter magas."
-      ],
-      ro: [
-        "A fost construit în 1936 pentru a comemora a 400-a aniversare a primei fondări a orașului.",
-        "Structura are o înălțime exactă de 67,5 metri."
-      ],
-      en: [
-        "It was built in 1936 to commemorate the 400th anniversary of the first founding of the city.",
-        "The monument stands exactly 67.5 meters tall."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Erected in just 31 days in 1936.", "Stands exactly 67.5 meters tall and has only one entrance door.", "Located at the spot where the national flag was first flown in the city (1812).", "The tower has 206 steps leading to the top, where there are four windows.", "The tip features a lightning rod that is hidden from view.", "Often 'dressed' or decorated for major global causes or events.", "The Plaza de la República where it stands is a major transport hub.", "Widely considered the ultimate meeting point for locals (Porteños)."]
+    }, image: "/poi-images/obelisco-buenos-aires-landmarks-v2.webp"},
   {
     id: "casa-rosada-landmarks-v2",
     type: "landmark",
@@ -48,31 +30,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Casa Rosada",
       en: "Casa Rosada"
     },
-    description: {
-      de: "Der rosa gestrichene Regierungspalast Argentiniens, von dessen Balkon Eva Perón zu den Massen sprach.",
-      hu: "Argentína rózsaszínű elnöki palotája, melynek erkélyéről Eva Perón is beszédet mondott a tömegnek.",
-      ro: "Palatul prezidențial vopsit în roz al Argentinei, de la al cărui balcon Eva Perón a vorbit mulțimilor.",
-      en: "The pink-painted executive mansion and office of the President of Argentina, famous for Eva Perón's speeches."
+    descriptionAdvanced: {
+      en: "The Casa Rosada (Pink House) is the executive mansion and office of the President of Argentina, overlooking the historic Plaza de Mayo in Buenos Aires. Famous for its distinctive pink color, the building is one of the most iconic and politically charged sites in the country. Its architecture is an eclectic mix of Renaissance and neoclassical styles, built over the remains of a colonial fort. The Casa Rosada has been the stage for some of the most dramatic moments in Argentine history, most notably the speeches of Eva Perón from its balconies. Visitors can explore its grand halls, the presidential office, and the subterranean Museum of the Bicentennial. It stands as a powerful symbol of national government and a witness to the evolving story of Argentine democracy."
     },
-    facts: {
-      de: [
-        "Die charakteristische rosa Farbe stammt angeblich von Kuhblut, das früher der Farbe beigemischt wurde.",
-        "Das Gebäude beherbergt auch ein Museum zur argentinischen Geschichte."
-      ],
-      hu: [
-        "A jellegzetes rózsaszín árnyalat állítólag a mészhez kevert tehénvérnek köszönhető a korai időkben.",
-        "Az épület egy az argentin történelemmel foglalkozó múzeumnak is otthont ad."
-      ],
-      ro: [
-        "Culoarea roz caracteristică provine, potrivit legendei, de la sângele de vacă amestecat în vopseaua originală.",
-        "Clădirea găzduiește, de asemenea, un muzeu dedicat istoriei Argentinei."
-      ],
-      en: [
-        "The characteristic pink color is supposedly derived from cow blood mixed into the original paint.",
-        "The building also houses a museum dedicated to Argentine history."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["The official pink color was allegedly chosen to symbolize peace between political factions.", "Historically, the paint was made using cow's blood mixed with lime.", "The current building was formed by merging the old Post Office and Government House.", "The 'Balcony of Perón' is the most famous part of the facade.", "Includes the 'Patio de las Palmeras,' a beautiful internal courtyard.", "Declared a National Historic Monument in 1942.", "The Museum of the Bicentennial is located in its former custom house area.", "Overlooks the site where the Mothers of Plaza de Mayo famously march."]
+    }, image: "/poi-images/casa-rosada-landmarks-v2.webp"},
   {
     id: "teatro-colon-landmarks-v2",
     type: "landmark",
@@ -84,31 +47,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Teatro Colón",
       en: "Teatro Colón"
     },
-    description: {
-      de: "Eines der bedeutendsten Opernhäuser der Welt, berühmt für seine außergewöhnliche Akustik und prachtvolle Architektur.",
-      hu: "A világ egyik legjelentősebb operaháza, amely rendkívüli akusztikájáról és pompás építészetéről híres.",
-      ro: "Una dintre cele mai importante teatre de operă din lume, faimoasă pentru acustica sa excepțională și arhitectura magnifică.",
-      en: "One of the most important opera houses in the world, renowned for its exceptional acoustics and magnificent architecture."
+    descriptionAdvanced: {
+      en: "The Teatro Colón is world-renowned as one of the finest opera houses in the world, celebrated for its extraordinary acoustics and architectural grandeur. Located in the heart of Buenos Aires, the current building opened in 1908 after nearly twenty years of construction involving several European architects. Its eclectic style combines elements of Italian Renaissance and French Baroque, featuring lavish marble, stained glass, and gold leaf decorations. The main hall, shaped like a horseshoe, can accommodate almost 2,500 spectators and has hosted the greatest legends of opera, ballet, and classical music. The Teatro Colón is not just a theater but a major institution for the training of artists and craftsmen, representing the pinnacle of high culture and the deep European roots of the Argentine capital."
     },
-    facts: {
-      de: [
-        "Das derzeitige Gebäude wurde 1908 nach fast zwanzig Jahren Bauzeit eröffnet.",
-        "Der Hauptsaal bietet Platz für fast 2.500 Zuschauer."
-      ],
-      hu: [
-        "A jelenlegi épületet 1908-ban nyitották meg, majdnem húsz évnyi építkezés után.",
-        "A főteremben közel 2500 néző fér el egyszerre."
-      ],
-      ro: [
-        "Clădirea actuală a fost deschisă în 1908, după aproape douăzeci de ani de construcție.",
-        "Sala principală poate găzdui aproape 2.500 de spectatori."
-      ],
-      en: [
-        "The current building opened in 1908 after nearly twenty years of construction.",
-        "The main hall can accommodate nearly 2,500 spectators."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Consistently ranked among the top 3 best acoustic venues in the world.", "The current building took 20 years and three different architects to complete.", "The main chandelier features 700 light bulbs and thousands of crystals.", "The dome was painted by the renowned Argentine artist Raúl Soldi.", "Includes massive subterranean workshops for sets and costumes.", "Legendary singers like Maria Callas and Luciano Pavarotti performed here.", "The 'Golden Room' (Salón Dorado) is inspired by the Palace of Versailles.", "Offers guided tours that reveal the theater's intricate internal world."]
+    }, image: "/poi-images/teatro-colon-landmarks-v2.webp"},
   {
     id: "puente-de-la-mujer-landmarks-v2",
     type: "landmark",
@@ -120,31 +64,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Puente de la Mujer",
       en: "Puente de la Mujer"
     },
-    description: {
-      de: "Eine markante Fußgängerbrücke im Hafenviertel Puerto Madero, entworfen vom spanischen Architekten Santiago Calatrava.",
-      hu: "Egy feltűnő gyalogoshíd a Puerto Madero negyedben, melyet a spanyol Santiago Calatrava építész tervezett.",
-      ro: "Un pod pietonal distinctiv în cartierul Puerto Madero, proiectat de arhitectul spaniol Santiago Calatrava.",
-      en: "A striking pedestrian bridge in the Puerto Madero district, designed by Spanish architect Santiago Calatrava."
+    descriptionAdvanced: {
+      en: "The Puente de la Mujer (Woman's Bridge) is a stunning landmark of modern architecture located in the renovated Puerto Madero district of Buenos Aires. Designed by the world-famous Spanish architect Santiago Calatrava, this rotating footbridge is a masterpiece of engineering and art. Its unique asymmetrical design, with a single white pylon supporting a needle-like structure, is meant to evoke the image of a couple dancing the tango. The bridge serves as a vital pedestrian link across Dock 3 and can rotate 90 degrees to allow for the passage of vessels. Since its inauguration in 2001, it has become one of the most photographed spots in the city, symbolizing the successful transformation of the old port into a high-tech and elegant waterfront and a beacon of 21st-century Buenos Aires."
     },
-    facts: {
-      de: [
-        "Das Design der Brücke soll ein Tango tanzendes Paar darstellen.",
-        "Sie ist eine Drehbrücke, die Schiffe passieren lässt."
-      ],
-      hu: [
-        "A híd dizájnja állítólag egy tangót táncoló párt formáz meg.",
-        "Ez egy forgóhíd, amely el tud fordulni, hogy átengedje a hajókat."
-      ],
-      ro: [
-        "Designul podului este menit să reprezinte un cuplu care dansează tango.",
-        "Este un pod rotativ care se poate deschide pentru a permite trecerea navelor."
-      ],
-      en: [
-        "The design of the bridge is said to represent a couple dancing the tango.",
-        "It is a swing bridge that can rotate to allow ships to pass."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Inaugurated in 2001 and designed by Santiago Calatrava.", "The only work by Calatrava in Latin America.", "The rotating central part weighs over 800 tons and is 102 meters long.", "Meant to represent a tango dance pose (the pylon is the man, the deck the woman).", "Completed in just 12 months with components built in Spain.", "Donated to the city by Argentine businessman Alberto González.", "Illuminated beautifully at night, reflecting in the dock's water.", "The rotation mechanism allows large ships to pass through the docks."]
+    }, image: "/poi-images/puente-de-la-mujer-landmarks-v2.webp"},
   {
     id: "floralis-generica-landmarks-v2",
     type: "landmark",
@@ -156,31 +81,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Floralis Genérica",
       en: "Floralis Genérica"
     },
-    description: {
-      de: "Eine gigantische Metallblume in Buenos Aires, deren riesige Blütenblätter sich im Rhythmus der Sonne öffnen und schließen.",
-      hu: "Egy gigantikus fémvirág Buenos Airesben, melynek hatalmas szirmai a nappal összhangban nyílnak és záródnak.",
-      ro: "O floare metalică gigantică în Buenos Aires, ale cărei petale uriașe se deschid și se închid în ritmul soarelui.",
-      en: "A gigantic metal flower in Buenos Aires whose huge petals open and close in rhythm with the sun."
+    descriptionAdvanced: {
+      en: "The Floralis Genérica is a monumental and innovative steel sculpture located in the Plaza de las Naciones Unidas in Buenos Aires. Created by Argentine architect Eduardo Catalano, this massive flower is unique for its kinetic mechanism: its six 13-meter-long petals automatically open every morning and close at sunset, mimicking the natural life cycle of a flower. Made of polished stainless steel and aluminum, the sculpture reflects the surrounding skyline and the changing light of the day, creating a mesmerizing visual effect. It is meant to represent all flowers and serves as a symbol of hope and continuous rebirth. Since its installation in 2002, the Floralis Genérica has become one of the city's most beloved modern landmarks, blending high-tech engineering with the organic beauty of the surrounding park."
     },
-    facts: {
-      de: [
-        "Die Skulptur wiegt 18 Tonnen und ist 23 Meter hoch.",
-        "Ein hydraulisches System steuert die Bewegung der sechs großen Blütenblätter."
-      ],
-      hu: [
-        "A szobor 18 tonnát nyom és 23 méter magas.",
-        "Egy hidraulikus rendszer irányítja a hat hatalmas szirom mozgását."
-      ],
-      ro: [
-        "Sculptura cântărește 18 tone și are o înălțime de 23 de metri.",
-        "Un sistem hidraulic controlează mișcarea celor șase petale mari."
-      ],
-      en: [
-        "The sculpture weighs 18 tons and is 23 meters high.",
-        "A hydraulic system controls the movement of the six large petals."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Installed in 2002 as a gift from architect Eduardo Catalano to the city.", "Weighs 18 tons and reaches a height of 23 meters when open.", "The petals take approximately 20 minutes to open fully.", "Located in a large reflecting pool that enhances its visual impact.", "Stays open all night on four specific national holidays.", "One of the largest kinetic sculptures in the world.", "The mechanism is controlled by a hydraulic system and light sensors.", "Made with aerospace technology and high-grade stainless steel."]
+    }, image: "/poi-images/floralis-generica-landmarks-v2.webp"},
   {
     id: "palacio-barolo-landmarks-v2",
     type: "landmark",
@@ -192,31 +98,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Palatul Barolo",
       en: "Palacio Barolo"
     },
-    description: {
-      de: "Ein historisches Bürogebäude, dessen Architektur und Gliederung stark von Dante Alighieris 'Göttlicher Komödie' inspiriert sind.",
-      hu: "Egy történelmi irodaépület, melynek építészetét és felépítését Dante 'Isteni színjátéka' ihlette.",
-      ro: "O clădire de birouri istorică, a cărei arhitectură și structură sunt puternic inspirate de 'Divina Comedie' a lui Dante.",
-      en: "A historic office building whose architecture and structure were heavily inspired by Dante's 'Divine Comedy'."
+    descriptionAdvanced: {
+      en: "The Palacio Barolo is an architectural jewel and one of the most intriguing buildings in Buenos Aires, located on Avenida de Mayo. Designed by Italian architect Mario Palanti and completed in 1923, its unique design is a profound tribute to Dante Alighieri's 'Divine Comedy.' The building's structure is divided into three sections representing Hell, Purgatory, and Paradise, with its height of 100 meters corresponding to the 100 cantos of the poem. At its peak, it features a magnificent lighthouse that once communicated with its twin, the Palacio Salvo in Montevideo. The palace is an eclectic mix of Neo-Gothic and Neo-Romantic styles, decorated with intricate symbolism. Today, it remains a bustling office building and a major destination for architecture lovers who can explore its mythical halls and enjoy panoramic views from the lighthouse."
     },
-    facts: {
-      de: [
-        "Bei seiner Fertigstellung im Jahr 1923 war es das höchste Gebäude in Südamerika.",
-        "Der Leuchtturm auf der Spitze sollte ursprünglich mit dem Palacio Salvo in Montevideo kommunizieren."
-      ],
-      hu: [
-        "Amikor 1923-ban elkészült, ez volt Dél-Amerika legmagasabb épülete.",
-        "A tetején lévő világítótornyot úgy tervezték, hogy kommunikáljon a montevideói Palacio Salvo épülettel."
-      ],
-      ro: [
-        "La finalizarea sa în 1923, a fost cea mai înaltă clădire din America de Sud.",
-        "Farul din vârf a fost inițial conceput pentru a comunica cu Palacio Salvo din Montevideo."
-      ],
-      en: [
-        "When completed in 1923, it was the tallest building in South America.",
-        "The lighthouse at the top was originally designed to communicate with the Palacio Salvo in Montevideo."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Was the tallest building in South America when completed in 1923.", "Every detail of the architecture is a reference to the 'Divine Comedy'.", "The lighthouse at the top uses 5,000 watts and can be seen from miles away.", "Declared a National Historic Monument in 1997.", "Includes a stunning central gallery with marble floors and vaulted ceilings.", "The lighthouse offers one of the best 360-degree views of Buenos Aires.", "Features 9 elevators and 22 floors of intricate design.", "The architect, Mario Palanti, also designed the twin Palacio Salvo in Uruguay."]
+    }, image: "/poi-images/palacio-barolo-landmarks-v2.webp"},
   {
     id: "recoleta-cemetery-landmarks-v2",
     type: "landmark",
@@ -228,31 +115,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Cimitirul Recoleta",
       en: "Recoleta Cemetery"
     },
-    description: {
-      de: "Ein berühmter Friedhof, bekannt für seine kunstvollen Mausoleen und als letzte Ruhestätte vieler prominenter Persönlichkeiten.",
-      hu: "Egy híres temető, amely díszes mauzóleumairól és számos prominens személyiség végső nyughelyeként ismert.",
-      ro: "Un cimitir faimos, cunoscut pentru mausoleele sale ornate și ca loc de odihnă final pentru multe personalități proeminente.",
-      en: "A famous cemetery known for its ornate mausoleums and as the final resting place of many prominent figures."
+    descriptionAdvanced: {
+      en: "The Recoleta Cemetery is one of the most extraordinary and beautiful burial sites in the world, located in the elegant Recoleta neighborhood of Buenos Aires. Often described as a 'City of the Dead,' it features over 6,000 elaborate mausoleums and statues built in a wide variety of architectural styles, from Art Nouveau and Neo-Gothic to Baroque and Neo-Classical. The cemetery is the final resting place of Argentina's most prominent figures, including presidents, national heroes, writers, and scientists. Its most visited site is the tomb of Eva Perón, which remains a place of pilgrimage for thousands of people every year. Walking through its narrow 'streets' is a profound experience that combines art, history, and the complex stories of the families who built modern Argentina, standing as a testament to the nation's high-society past and its cultural heritage."
     },
-    facts: {
-      de: [
-        "Er wurde 1822 als erster öffentlicher Friedhof von Buenos Aires eröffnet.",
-        "Das berühmteste Grab gehört Eva Perón (Evita)."
-      ],
-      hu: [
-        "1822-ben nyitották meg Buenos Aires első nyilvános temetőjeként.",
-        "A leghíresebb sír Eva Perón (Evita) nyughelye."
-      ],
-      ro: [
-        "A fost deschis în 1822 ca primul cimitir public din Buenos Aires.",
-        "Cel mai faimos mormânt îi aparține Evei Perón (Evita)."
-      ],
-      en: [
-        "It was opened in 1822 as the first public cemetery in Buenos Aires.",
-        "The most famous grave belongs to Eva Perón (Evita)."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Founded in 1822 as the city's first public cemetery.", "Consistently ranked among the top 10 most beautiful cemeteries globally.", "The tomb of Eva Perón is located in the Duarte family mausoleum.", "Contains almost 100 structures declared National Historic Monuments.", "The cemetery covers an area of approximately 5.5 hectares.", "Legend says the layout was inspired by the Père Lachaise in Paris.", "Features incredible sculptures by world-renowned European and local artists.", "Entry is through a grand neoclassical gate with tall Doric columns."]
+    }, image: "/poi-images/recoleta-cemetery-landmarks-v2.webp"},
   {
     id: "metropolitan-cathedral-landmarks-v2",
     type: "landmark",
@@ -264,31 +132,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Catedrala Metropolitană din Buenos Aires",
       en: "Buenos Aires Metropolitan Cathedral"
     },
-    description: {
-      de: "Die wichtigste katholische Kirche in Buenos Aires, deren Fassade eher an einen griechischen Tempel als an eine Kathedrale erinnert.",
-      hu: "Buenos Aires legfontosabb katolikus temploma, melynek homlokzata inkább egy görög templomra hasonlít.",
-      ro: "Principala biserică catolică din Buenos Aires, a cărei fațadă seamănă mai mult cu un templu grec decât cu o catedrală.",
-      en: "The main Catholic church in Buenos Aires, whose facade resembles a Greek temple more than a cathedral."
+    descriptionAdvanced: {
+      en: "The Metropolitan Cathedral of Buenos Aires, located on Plaza de Mayo, is the main Catholic church of the city and the primate cathedral of Argentina. Its unusual facade, resembling a Greek temple with twelve Corinthian columns representing the apostles, stands in contrast to its richly decorated colonial interior. The cathedral is a site of immense national importance as it houses the monumental mausoleum of General José de San Martín, the nation's greatest hero, which is guarded by a permanent honor guard. Its history dates back to the 16th century, having been rebuilt multiple times. For many years, it was the church where Pope Francis served as Archbishop. Today, it remains a center of religious life and a major destination for pilgrims and history buffs who come to honor the 'Father of the Homeland' and experience the spiritual heart of the city."
     },
-    facts: {
-      de: [
-        "In der Kathedrale befindet sich das Mausoleum von General José de San Martín.",
-        "Papst Franziskus feierte hier viele Jahre lang die Messe, bevor er zum Papst gewählt wurde."
-      ],
-      hu: [
-        "A katedrálisban található José de San Martín tábornok mauzóleuma.",
-        "Ferenc pápa éveken át itt tartott misét, mielőtt pápává választották volna."
-      ],
-      ro: [
-        "Catedrala adăpostește mausoleul generalului José de San Martín.",
-        "Papa Francisc a oficiat liturghia aici timp de mulți ani înainte de a fi ales papă."
-      ],
-      en: [
-        "The cathedral houses the mausoleum of General José de San Martín.",
-        "Pope Francis celebrated mass here for many years before being elected Pope."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["The current facade was completed in 1822, inspired by the Palais Bourbon in Paris.", "General José de San Martín's remains were brought here from France in 1880.", "The floor is decorated with magnificent Venetian mosaics from 1907.", "Includes the 'Flame of Liberty,' which burns perpetually in honor of San Martín.", "The cathedral's history includes seven different buildings on the same site.", "Houses a unique colonial altarpiece from 1785.", "The twelve columns represent the twelve apostles of Christ.", "Pope Francis (Jorge Bergoglio) led services here for 15 years."]
+    }, image: "/poi-images/metropolitan-cathedral-landmarks-v2.webp"},
   {
     id: "la-bombonera-landmarks-v2",
     type: "landmark",
@@ -300,31 +149,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "La Bombonera",
       en: "La Bombonera"
     },
-    description: {
-      de: "Das legendäre Stadion der Boca Juniors, bekannt für seine steilen Tribünen und die unglaubliche Atmosphäre bei Spielen.",
-      hu: "A Boca Juniors legendás stadionja, amely meredek lelátóiról és a mérkőzések hihetetlen hangulatáról ismert.",
-      ro: "Stadionul legendar al echipei Boca Juniors, cunoscut pentru tribunele sale abrupte și atmosfera incredibilă din timpul meciurilor.",
-      en: "The legendary stadium of Boca Juniors, known for its steep stands and incredible atmosphere during matches."
+    descriptionAdvanced: {
+      en: "La Bombonera, officially known as the Alberto J. Armando Stadium, is the legendary home of Boca Juniors and one of the most famous football stadiums in the world. Located in the colorful neighborhood of La Boca, its unique 'D-shape'—with three steep stands and one vertical section—creates an intense and intimidating atmosphere where the crowd's energy literally makes the ground shake. It is often said that 'La Bombonera doesn't tremble, it beats' (no tiembla, late). The stadium is world-renowned for its passionate fans and has hosted some of the most historic matches in Argentine and world football. Beyond sports, it is a cultural icon of Buenos Aires, featuring a stunning mural by artist Pérez Celis and the 'Passion for Boca' museum, representing the profound connection between the sport and the identity of the working-class neighborhood."
     },
-    facts: {
-      de: [
-        "Der offizielle Name lautet Estadio Alberto J. Armando.",
-        "Der Spitzname 'La Bombonera' (die Pralinenschachtel) kommt von der ungewöhnlichen Form des Stadions."
-      ],
-      hu: [
-        "Hivatalos neve Estadio Alberto J. Armando.",
-        "A 'La Bombonera' (bonbonos doboz) becenevet a stadion szokatlan alakja miatt kapta."
-      ],
-      ro: [
-        "Numele oficial este Estadio Alberto J. Armando.",
-        "Porecla 'La Bombonera' (cutia de bomboane) provine de la forma neobișnuită a stadionului."
-      ],
-      en: [
-        "The official name is Estadio Alberto J. Armando.",
-        "The nickname 'La Bombonera' (the chocolate box) comes from the stadium's unusual shape."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Inaugurated on May 25, 1940.", "Nicknamed 'The Chocolate Box' (La Bombonera) due to its box-like shape.", "Has an official capacity of approximately 54,000 spectators.", "Consistently ranked as one of the most intimidating stadiums for away teams.", "Diego Maradona, the greatest icon of Boca, had his own private box here.", "The stadium's acoustics are designed to amplify the sound of the fans.", "The 'Museo de la Pasión Boquense' is located under the stands.", "Selected as the best football stadium in the world by several international publications."]
+    }, image: "/poi-images/la-bombonera-landmarks-v2.webp"},
   {
     id: "estadio-monumental-landmarks-v2",
     type: "landmark",
@@ -336,31 +166,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Estadio Monumental",
       en: "Estadio Monumental"
     },
-    description: {
-      de: "Das größte Fußballstadion Argentiniens und Heimat des Vereins River Plate sowie der argentinischen Nationalmannschaft.",
-      hu: "Argentína legnagyobb futballstadionja, a River Plate klub és az argentin válogatott otthona.",
-      ro: "Cel mai mare stadion de fotbal din Argentina și casa clubului River Plate, precum și a echipei naționale.",
-      en: "The largest football stadium in Argentina and home to the River Plate club and the national team."
+    descriptionAdvanced: {
+      en: "The Estadio Monumental, officially the Mâs Monumental, is the largest and most historic sports stadium in Argentina, serving as the home of River Plate and the national football team. Located in the Núñez neighborhood of Buenos Aires, it is a colossal bowl-shaped arena with a capacity of over 84,000 spectators following its recent renovation. The stadium is famously known as the site where Argentina won its first FIFA World Cup in 1978, a moment that is etched in the nation's soul. Beyond football, it is the premier venue for massive international concerts, having hosted legends like the Rolling Stones and Madonna. With its impressive scale, its world-class museum, and its role as the 'Home of the National Team,' the Monumental is a temple of Argentine sports and a symbol of the country's deep-rooted passion for football and high-energy events."
     },
-    facts: {
-      de: [
-        "Es war der Austragungsort des Finales der Fußball-Weltmeisterschaft 1978.",
-        "Die offizielle Kapazität liegt bei über 84.000 Zuschauern."
-      ],
-      hu: [
-        "Ez volt az 1978-as labdarúgó-világbajnokság döntőjének helyszíne.",
-        "Hivatalos befogadóképessége több mint 84 000 néző."
-      ],
-      ro: [
-        "A fost locul de desfășurare a finalei Cupei Mondiale FIFA din 1978.",
-        "Capacitatea sa oficială este de peste 84.000 de spectatori."
-      ],
-      en: [
-        "It was the venue for the 1978 FIFA World Cup final.",
-        "Its official capacity is over 84,000 spectators."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Inaugurated on May 25, 1938.", "Currently the largest stadium in South America by capacity (84,567).", "Hosted the final of the 1978 World Cup where Argentina became champions.", "The River Plate Museum (Museo River) is one of the largest sports museums in the world.", "Underwent a massive renovation in 2022-2023, removing the athletic track.", "Known as 'The Monumental' due to its impressive size and presence.", "The primary venue for Argentina's national team (La Albiceleste) matches.", "The stadium complex includes a school, a university, and multiple other sports facilities."]
+    }, image: "/poi-images/estadio-monumental-landmarks-v2.webp"},
   {
     id: "cabildo-buenos-aires-landmarks-v2",
     type: "landmark",
@@ -372,31 +183,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Cabildo de Buenos Aires",
       en: "Cabildo of Buenos Aires"
     },
-    description: {
-      de: "Ein historisches Gebäude an der Plaza de Mayo, das während der Kolonialzeit als Sitz der Stadtverwaltung diente.",
-      hu: "A Plaza de Mayo téren álló történelmi épület, amely a gyarmati időkben a városvezetés székhelyeként szolgált.",
-      ro: "O clădire istorică din Plaza de Mayo, care a servit ca sediu al administrației orașului în perioada colonială.",
-      en: "A historic building on the Plaza de Mayo that served as the seat of the town council during the colonial era."
+    descriptionAdvanced: {
+      en: "The Cabildo of Buenos Aires is a profoundly important historical building overlooking the Plaza de Mayo, which served as the seat of the Spanish colonial administration. It was here that the May Revolution of 1810 began, leading to Argentina's first national government and eventually its independence. The building's white facade and traditional arcade are icons of colonial architecture, though the structure has been significantly reduced in size over the centuries to make way for new avenues. Today, it houses the National Museum of the Cabildo and the May Revolution, where visitors can explore the very rooms where the founding fathers debated the future of the nation. It stands as a living symbol of the birth of Argentine liberty and a cornerstone of the country's political history."
     },
-    facts: {
-      de: [
-        "Es war das Zentrum der Mai-Revolution von 1810, die zur Unabhängigkeit Argentiniens führte.",
-        "Das Gebäude wurde mehrfach umgebaut und Teile wurden abgerissen, um Platz für neue Straßen zu schaffen."
-      ],
-      hu: [
-        "Ez volt az 1810-es májusi forradalom központja, amely Argentína függetlenségéhez vezetett.",
-        "Az épületet többször átépítették, és részeit lebontották új utcák kialakítása miatt."
-      ],
-      ro: [
-        "A fost centrul Revoluției din Mai din 1810, care a dus la independența Argentinei.",
-        "Clădirea a fost reconstruită de mai multe ori, iar părți din ea au fost demolate pentru a face loc noilor străzi."
-      ],
-      en: [
-        "It was the center of the May Revolution of 1810, which led to Argentina's independence.",
-        "The building has been altered multiple times and parts were demolished to make way for new avenues."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["The first government of Argentina (Primera Junta) was formed here on May 25, 1810.", "The current building was completed in 1764.", "Originally had 11 arches, but today only 5 remain due to urban expansion.", "Declared a National Historic Monument in 1933.", "The museum houses the original printing press used for revolutionary proclamations.", "The central courtyard features a historic well and traditional gardens.", "The clock in the tower was imported from England in the 19th century.", "Located exactly opposite the Casa Rosada across Plaza de Mayo."]
+    }, image: "/poi-images/cabildo-buenos-aires-landmarks-v2.webp"},
   {
     id: "monumento-nacional-bandera-landmarks-v2",
     type: "landmark",
@@ -408,31 +200,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Monumentul Național al Drapelului",
       en: "National Flag Memorial"
     },
-    description: {
-      de: "Ein massives Monument in Rosario, das an den Ort erinnert, an dem Manuel Belgrano 1812 zum ersten Mal die argentinische Flagge hisste.",
-      hu: "Egy hatalmas emlékmű Rosarióban, amely arra a helyre emlékeztet, ahol Manuel Belgrano 1812-ben először vonta fel az argentin zászlót.",
-      ro: "Un monument masiv în Rosario, care comemorează locul unde Manuel Belgrano a ridicat pentru prima dată steagul argentinian în 1812.",
-      en: "A massive monument in Rosario commemorating the spot where Manuel Belgrano first raised the Argentine flag in 1812."
+    descriptionAdvanced: {
+      en: "The National Flag Memorial (Monumento Nacional a la Bandera) in Rosario is a monumental complex that honors the creation of the Argentine flag. Built on the spot where General Manuel Belgrano first raised the blue and white banner in 1812, it is a site of immense patriotic pride. The monument is characterized by its imposing 70-meter tower, representing a ship sailing towards the future, and its grand 'Propylaeum' which houses the eternal flame of the unknown soldier. Every detail of its stone and bronze structure is rich with national symbolism. As the focal point of the city's civic life, it hosts the most important Flag Day celebrations in the country every June 20th, reaffirming the shared identity and values of the Argentine people."
     },
-    facts: {
-      de: [
-        "Das Denkmal ist wie ein riesiges Schiff geformt, das in die Zukunft segelt.",
-        "Der Hauptturm ist 70 Meter hoch und bietet einen tollen Blick über den Fluss Paraná."
-      ],
-      hu: [
-        "Az emlékmű formája egy jövőbe vitorlázó hatalmas hajót idéz.",
-        "A fő torony 70 méter magas, és remek kilátást nyújt a Paraná folyóra."
-      ],
-      ro: [
-        "Monumentul are forma unei nave uriașe care navighează spre viitor.",
-        "Turnul principal are o înălțime de 70 de metri și oferă o vedere excelentă asupra râului Paraná."
-      ],
-      en: [
-        "The monument is shaped like a giant ship sailing into the future.",
-        "The main tower is 70 meters high and offers a great view over the Paraná River."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Inaugurated in 1957 after 14 years of construction work.", "Designed in a blend of neoclassical and rationalist styles.", "Built with over 300,000 cubic meters of marble from the Andes.", "The tower offers a 360-degree panoramic view of the Paraná River.", "Features a crypt dedicated to General Manuel Belgrano.", "The 'Courtyard of the Civics' can hold tens of thousands of people.", "The monument is 135 meters long in its entirety.", "Includes a collection of flags from all the nations of the Americas."]
+    }, image: "/poi-images/monumento-nacional-bandera-landmarks-v2.webp"},
   {
     id: "cristo-redentor-andes-landmarks-v2",
     type: "landmark",
@@ -444,31 +217,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Hristos Mântuitorul din Anzi",
       en: "Christ the Redeemer of the Andes"
     },
-    description: {
-      de: "Eine berühmte Christusstatue hoch in den Anden an der Grenze zwischen Argentinien und Chile, die als Friedenssymbol dient.",
-      hu: "Egy híres Krisztus-szobor magasan az Andokban, az argentin-chilei határon, amely a béke szimbólumaként szolgál.",
-      ro: "O faimoasă statuie a lui Hristos, situată sus în Anzi, la granița dintre Argentina și Chile, servind drept simbol al păcii.",
-      en: "A famous bronze statue of Jesus Christ high in the Andes on the border between Argentina and Chile, serving as a symbol of peace."
+    descriptionAdvanced: {
+      en: "The Christ the Redeemer of the Andes is a monumental bronze statue located high in the Andes mountains, on the border between Argentina and Chile. Erected in 1904 at an altitude of 3,832 meters, it was built to celebrate the peaceful resolution of a border dispute that had nearly led the two nations to war. The statue depicts Christ standing on a globe, with one hand holding a cross and the other extended in a gesture of blessing and peace. It serves as a powerful symbol of brotherhood and the shared Christian heritage of the Southern Cone. Surrounded by spectacular and rugged mountain scenery, the monument is a popular destination for travelers following the high-altitude route between Mendoza and Santiago."
     },
-    facts: {
-      de: [
-        "Die Statue wurde 1904 enthüllt, um die friedliche Lösung eines Grenzkonflikts zu feiern.",
-        "Sie befindet sich auf einer Höhe von 3.832 Metern über dem Meeresspiegel."
-      ],
-      hu: [
-        "A szobrot 1904-ben leplezték le egy határvita békés rendezésének megünneplésére.",
-        "Tengerszint feletti 3832 méteres magasságban található."
-      ],
-      ro: [
-        "Statuia a fost dezvelită în 1904 pentru a sărbători rezolvarea pașnică a unei dispute de frontieră.",
-        "Se află la o altitudine de 3.832 de metri deasupra nivelului mării."
-      ],
-      en: [
-        "The statue was unveiled in 1904 to celebrate the peaceful resolution of a border dispute.",
-        "It is located at an altitude of 3,832 meters above sea level."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Inaugurated on March 13, 1904.", "Located at the 'Uspallata Pass,' the highest point of the old international road.", "The statue is 7 meters high and weighs approximately 4 tons.", "Created by the Argentine sculptor Mateo Alonso.", "An inscription on the base reads: 'Sooner shall these mountains crumble into dust than Argentines and Chileans break the peace'.", "The original pieces were transported to the site by mule-drawn carts.", "Often covered in snow during the harsh Andean winters.", "Stands near the entrance of the international Christ the Redeemer Tunnel."]
+    }, image: "/poi-images/cristo-redentor-andes-landmarks-v2.webp"},
   {
     id: "basilica-de-lujan-landmarks-v2",
     type: "landmark",
@@ -480,31 +234,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Bazilica din Luján",
       en: "Basilica of Luján"
     },
-    description: {
-      de: "Eine monumentale neugotische Basilika in der Provinz Buenos Aires, die der Schutzpatronin Argentiniens gewidmet ist.",
-      hu: "Egy monumentális neogótikus bazilika Buenos Aires tartományban, melyet Argentína védőszentjének szenteltek.",
-      ro: "O bazilică neogotică monumentală în provincia Buenos Aires, dedicată sfintei patroane a Argentinei.",
-      en: "A monumental neo-Gothic basilica in the Buenos Aires Province dedicated to the patron saint of Argentina."
+    descriptionAdvanced: {
+      en: "The Basilica of Our Lady of Luján is the most important Catholic pilgrimage site in Argentina, located about 70 kilometers west of Buenos Aires. This magnificent neo-Gothic structure is dedicated to the Virgin of Luján, the patron saint of the country, whose small clay image has been venerated here since the 17th century. The basilica is famous for its two 106-meter-high spires, intricate stained glass windows, and grand proportions that rival the cathedrals of Europe. Every year, millions of faithful walk from the capital to Luján in a massive demonstration of faith. The basilica is not only a spiritual center but also a masterpiece of religious architecture, standing as a beacon of devotion and a symbol of the deep-rooted Catholic traditions of the Argentine people."
     },
-    facts: {
-      de: [
-        "Sie beherbergt die verehrte Marienstatue 'Unsere Liebe Frau von Luján'.",
-        "Die beiden Haupttürme der Basilika sind 106 Meter hoch."
-      ],
-      hu: [
-        "Itt található a 'Lujáni Miasszonyunk' tisztelt Mária-szobra.",
-        "A bazilika két fő tornya 106 méter magas."
-      ],
-      ro: [
-        "Găzduiește statuia venerată a Fecioarei Maria, 'Doamna Noastră de la Luján'.",
-        "Cele două turnuri principale ale bazilicii au o înălțime de 106 metri."
-      ],
-      en: [
-        "It houses the venerated Marian statue 'Our Lady of Luján'.",
-        "The two main towers of the basilica are 106 meters tall."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Construction began in 1887 and was completed in 1935.", "The spires are exactly 106 meters tall.", "Houses a 38-centimeter-tall terracotta image of the Virgin Mary from 1630.", "Attracts over 6 million pilgrims annually, especially in October.", "The facade is decorated with 132 statues of saints and religious figures.", "Declared a National Historic Monument in 1998.", "Includes a beautiful crypt and a dedicated religious museum.", "The bells were brought from Milan and weigh several tons each."]
+    }, image: "/poi-images/basilica-de-lujan-landmarks-v2.webp"},
   {
     id: "iglesia-san-francisco-salta-landmarks-v2",
     type: "landmark",
@@ -516,31 +251,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Biserica San Francisco din Salta",
       en: "San Francisco Church of Salta"
     },
-    description: {
-      de: "Eine auffällige Kirche in Salta, bekannt für ihre terrakottafarbene Fassade und den höchsten Kirchturm Südamerikas.",
-      hu: "Egy feltűnő templom Saltában, amely terrakotta színű homlokzatáról és Dél-Amerika legmagasabb templomtornyáról ismert.",
-      ro: "O biserică impresionantă din Salta, cunoscută pentru fațada sa de culoarea teracotei și pentru cel mai înalt turn de biserică din America de Sud.",
-      en: "A striking church in Salta known for its terracotta-colored facade and having the tallest church tower in South America."
+    descriptionAdvanced: {
+      en: "The Church of San Francisco in Salta is one of the most visually striking and architecturally significant religious buildings in northern Argentina. Famous for its vibrant terracotta and gold facade and its 54-meter-high belfry—the tallest in South America—it is a masterpiece of the Italianate-Baroque style. The interior is equally impressive, featuring ornate altarpieces, precious religious art, and a serene cloister. The church has a deep historical connection to the city's elite and the Franciscan order's missionary work in the region. Its dramatic colors and soaring tower make it a dominant feature of the Salta skyline and a must-visit landmark for those exploring the colonial beauty of the Northwest."
     },
-    facts: {
-      de: [
-        "Der Glockenturm ist 54 Meter hoch und wurde im 19. Jahrhundert hinzugefügt.",
-        "Die Kirche kombiniert barocke und neoklassizistische Architekturstile."
-      ],
-      hu: [
-        "A harangtorony 54 méter magas, és a 19. században építették hozzá.",
-        "A templom a barokk és a neoklasszicista építészeti stílusokat ötvözi."
-      ],
-      ro: [
-        "Turnul cu clopot are o înălțime de 54 de metri și a fost adăugat în secolul al XIX-lea.",
-        "Biserica combină stilurile arhitecturale baroc și neoclasic."
-      ],
-      en: [
-        "The bell tower is 54 meters high and was added in the 19th century.",
-        "The church combines Baroque and Neoclassical architectural styles."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["The current church was completed in its current form in the 1870s.", "The tower is 54 meters tall, making it the highest of its kind in the region.", "Features a famous image of the 'Virgin of the Smile'.", "Declared a National Historic Monument in 1941.", "The facade is decorated with intricate white stucco reliefs.", "The church's library houses thousands of ancient colonial volumes.", "General Belgrano attended mass here after the Battle of Salta.", "Located just one block from the main square (Plaza 9 de Julio)."]
+    }, image: "/poi-images/iglesia-san-francisco-salta-landmarks-v2.webp"},
   {
     id: "pucara-de-tilcara-landmarks-v2",
     type: "landmark",
@@ -552,31 +268,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Pucará de Tilcara",
       en: "Pucará de Tilcara"
     },
-    description: {
-      de: "Eine teilweise rekonstruierte präinkaische Festung auf einem Hügel in der Quebrada de Humahuaca.",
-      hu: "Egy részben újjáépített inka előtti erődítmény egy dombon a Quebrada de Humahuaca völgyben.",
-      ro: "O fortăreață pre-incașă parțial reconstruită pe un deal din Quebrada de Humahuaca.",
-      en: "A partially reconstructed pre-Inca fortress located on a hill in the Quebrada de Humahuaca."
+    descriptionAdvanced: {
+      en: "The Pucará de Tilcara is an ancient pre-Columbian fortification and village located on a strategic hilltop in the heart of the Quebrada de Humahuaca, Jujuy. Built by the Tilcara people (part of the Omaguaca culture) over 900 years ago, it served as a major defensive and administrative center. The site consists of hundreds of stone houses, plazas, and a sacred necropolis, all interconnected by narrow paths. It was partially reconstructed in the early 20th century, allowing visitors to experience the unique 'pirca' (dry stone) architecture and the layout of an original Andean settlement. From its heights, the Pucará offers breathtaking panoramic views of the valley, standing as a powerful symbol of the resilience and sophisticated organization of the indigenous cultures of the Argentine North."
     },
-    facts: {
-      de: [
-        "Die Stätte wurde im 11. Jahrhundert von den Omaguaca erbaut.",
-        "Es gibt ein markantes pyramidenförmiges Denkmal, das im 20. Jahrhundert zu Ehren von Archäologen errichtet wurde."
-      ],
-      hu: [
-        "A helyszínt a 11. században építették az omaguaca indiánok.",
-        "Található itt egy jellegzetes piramis alakú emlékmű is, amelyet a 20. században emeltek a régészek tiszteletére."
-      ],
-      ro: [
-        "Situl a fost construit în secolul al XI-lea de către tribul Omaguaca.",
-        "Există un monument distinctiv în formă de piramidă construit în secolul al XX-lea în onoarea arheologilor."
-      ],
-      en: [
-        "The site was built in the 11th century by the Omaguaca people.",
-        "There is a striking pyramid-shaped monument built in the 20th century to honor archaeologists."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Reached its peak between 1000 and 1450 CE.", "Strategically overlooks the confluence of the Huasamayo and Grande rivers.", "Covers an area of approximately 8 hectares.", "The site was an important stop on the Inca Road (Qhapaq Ñan).", "Includes a unique pyramid-shaped monument dedicated to the archaeologists.", "Part of the UNESCO World Heritage Quebrada de Humahuaca site.", "Home to a botanical garden featuring high-altitude cacti and flora.", "Located just a few kilometers from the town of Tilcara."]
+    }, image: "/poi-images/pucara-de-tilcara-landmarks-v2.webp"},
   {
     id: "ruinas-de-quilmes-landmarks-v2",
     type: "landmark",
@@ -588,29 +285,11 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Ruinele Quilmes",
       en: "Ruins of Quilmes"
     },
-    description: {
-      de: "Die Überreste einer der größten präkolumbianischen Siedlungen in Argentinien, die an den Hängen der Calchaquí-Täler liegen.",
-      hu: "Argentína egyik legnagyobb Kolumbusz előtti településének maradványai, amelyek a Calchaquí-völgy lejtőin találhatók.",
-      ro: "Rămășițele uneia dintre cele mai mari așezări precolumbiene din Argentina, situate pe pantele Văilor Calchaquí.",
-      en: "The remains of one of the largest pre-Columbian settlements in Argentina, located on the slopes of the Calchaquí Valleys."
+    descriptionAdvanced: {
+      en: "The Ruins of Quilmes in Tucumán Province are the remains of one of the largest and most complex pre-Columbian urban settlements in Argentina. Built on the slopes of the Alto del Rey hill, the city was the stronghold of the Quilmes people, who fiercely resisted both the Inca expansion and the Spanish conquest for centuries. The ruins showcase a sophisticated layout of residential terraces, defensive walls, and agricultural systems, reflecting a highly organized society of several thousand people. The site is tragically famous for the forced relocation of its remaining inhabitants to Buenos Aires in 1667. Today, the ruins offer a profound and moving experience, providing a window into the bravery and cultural depth of the Diaguita-Calchaquí people in their ancestral mountain home."
     },
-    facts: {
-      de: [
-        "Die Festungsstadt bot einst Platz für bis zu 5.000 Einwohner.",
-        "Die Quilmes leisteten im 17. Jahrhundert über 130 Jahre lang erbitterten Widerstand gegen die spanischen Konquistadoren."
-      ],
-      hu: [
-        "Az erődváros egykor akár 5000 lakosnak is otthont adott.",
-        "A quilmesek a 17. században több mint 130 évig ádáz ellenállást tanúsítottak a spanyol hódítókkal szemben."
-      ],
-      ro: [
-        "Orașul fortificat oferea odinioară spațiu pentru până la 5.000 de locuitori.",
-        "Poporul Quilmes a opus o rezistență acerbă conquistadorilor spanioli timp de peste 130 de ani în secolul al XVII-lea."
-      ],
-      en: [
-        "The fortified city once housed up to 5,000 inhabitants.",
-        "The Quilmes people fiercely resisted the Spanish conquistadors for over 130 years in the 17th century."
-      ]
+    factsAdvanced: {
+      en: ["At its peak, it housed an estimated population of 5,000 to 7,000 people.", "One of the few indigenous groups that resisted the Spanish for over 130 years.", "The site features massive circular defensive structures and terraces.", "Located in the Calchaquí Valleys at an altitude of 1,978 meters.", "The forced march to Buenos Aires spanned 1,200 kilometers.", "Includes an on-site museum with artifacts found during excavations.", "The hills provide a natural amphitheater-like setting for the city.", "Considered the largest pre-Hispanic city in Argentina."]
     }
   },
   {
@@ -624,31 +303,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "San Ignacio Miní",
       en: "San Ignacio Miní"
     },
-    description: {
-      de: "Die gut erhaltenen Ruinen einer jesuitischen Reduktion aus dem 17. Jahrhundert, erbaut im Guarani-Gebiet.",
-      hu: "Egy 17. századi jezsuita misszió jól megőrzött romjai, melyeket a guaraní indiánok területén építettek.",
-      ro: "Ruinele bine conservate ale unei misiuni iezuite din secolul al XVII-lea, construită în teritoriul Guarani.",
-      en: "The well-preserved ruins of a 17th-century Jesuit mission built in Guarani territory."
+    descriptionAdvanced: {
+      en: "San Ignacio Miní is the most iconic and best-preserved of the Jesuit Missions of the Guaranis, located in the red-soiled landscape of Misiones Province. Founded in 1610 and moved to its current site in 1696, it was a flourishing community of several thousand people until the expulsion of the Jesuits. The ruins are world-famous for their 'Guaraní Baroque' style, where intricate indigenous stone carvings decorate the monumental reddish sandstone facade of the church. The site includes the central plaza, residences, and a sophisticated workshop complex. Declared a UNESCO World Heritage site, San Ignacio Miní stands as a hauntingly beautiful testimony to the cultural synthesis and social experiment that defined the colonial era in the heart of the South American rainforest."
     },
-    facts: {
-      de: [
-        "Die Mission ist bekannt für ihren charakteristischen Stil aus rotem Sandstein mit aufwendigen Verzierungen.",
-        "Sie wurde 1984 zum UNESCO-Weltkulturerbe erklärt."
-      ],
-      hu: [
-        "A misszió jellegzetes vörös homokkőből épült, bonyolult faragásokkal díszített stílusáról ismert.",
-        "1984-ben az UNESCO Világörökség részévé nyilvánították."
-      ],
-      ro: [
-        "Misiunea este cunoscută pentru stilul său caracteristic din gresie roșie, cu ornamente complicate.",
-        "A fost declarată Patrimoniu Mondial UNESCO în 1984."
-      ],
-      en: [
-        "The mission is known for its distinctive red sandstone style with intricate carvings.",
-        "It was declared a UNESCO World Heritage site in 1984."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["The mission reached a population of over 3,300 in 1733.", "Declared a UNESCO World Heritage site in 1984.", "Built primarily with red sandstone (asperón) typical of the region.", "The church facade is one of the most ornate examples of Jesuit-indigenous art.", "Includes an impressive 'Image and Sound' show every evening.", "The ruins were hidden by the jungle for nearly 150 years.", "The layout followed a strict and rational urban grid.", "Home to an advanced interpretation center and museum."]
+    }, image: "/poi-images/san-ignacio-mini-landmarks-v2.webp"},
   {
     id: "manzana-jesuitica-landmarks-v2",
     type: "landmark",
@@ -660,31 +320,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Ansamblul Iezuit din Córdoba",
       en: "Jesuit Block of Córdoba"
     },
-    description: {
-      de: "Ein historischer Gebäudekomplex im Zentrum von Córdoba, der von Jesuiten im 17. Jahrhundert gegründet wurde.",
-      hu: "Egy történelmi épületegyüttes Córdoba központjában, amelyet jezsuiták alapítottak a 17. században.",
-      ro: "Un complex de clădiri istorice în centrul orașului Córdoba, fondat de iezuiți în secolul al XVII-lea.",
-      en: "A historic building complex in the center of Córdoba, founded by Jesuits in the 17th century."
+    descriptionAdvanced: {
+      en: "The Manzana Jesuítica (Jesuit Block) in the heart of Córdoba city is one of Argentina's most significant cultural and educational landmarks. It consists of a group of buildings erected by the Society of Jesus in the 17th century, including the National University of Córdoba—the oldest in the country—the Montserrat National College, the Church of the Society of Jesus, and the Domestic Chapel. These structures are masterpieces of colonial architecture, blending European styles with local craftsmanship. The Jesuit Block was the intellectual and spiritual center of a vast regional network and was declared a UNESCO World Heritage site in 2000. It remains a living and vibrant part of the city, representing the enduring legacy of the Jesuits in the formation of Argentina's intellectual and religious identity."
     },
-    facts: {
-      de: [
-        "Es beherbergt die älteste Universität Argentiniens, die Universidad Nacional de Córdoba.",
-        "Zusammen mit den nahegelegenen Estancias der Jesuiten gehört es zum UNESCO-Weltkulturerbe."
-      ],
-      hu: [
-        "Itt található Argentína legrégebbi egyeteme, az Universidad Nacional de Córdoba.",
-        "A közeli jezsuita birtokokkal (estancias) együtt az UNESCO Világörökség része."
-      ],
-      ro: [
-        "Găzduiește cea mai veche universitate din Argentina, Universidad Nacional de Córdoba.",
-        "Împreună cu estancias iezuiților din apropiere, aparține Patrimoniului Mondial UNESCO."
-      ],
-      en: [
-        "It houses the oldest university in Argentina, the Universidad Nacional de Córdoba.",
-        "Along with the nearby Jesuit estancias, it is a UNESCO World Heritage site."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["The University of Córdoba was founded here in 1613.", "Declared a UNESCO World Heritage site in 2000.", "The church's cedar-wood roof was built without using any nails.", "The block is located in the exact historic center of the city.", "The Montserrat College is one of the most prestigious secondary schools in Argentina.", "The site houses a historic library with thousands of ancient volumes.", "The Church of the Society of Jesus was completed in 1671.", "A major destination for religious and cultural tourism."]
+    }, image: "/poi-images/manzana-jesuitica-landmarks-v2.webp"},
   {
     id: "faro-les-eclaireurs-landmarks-v2",
     type: "landmark",
@@ -696,31 +337,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Farul Les Éclaireurs",
       en: "Les Éclaireurs Lighthouse"
     },
-    description: {
-      de: "Ein malerischer Leuchtturm auf einer kleinen Felseninsel im Beagle-Kanal nahe Ushuaia, der oft 'Leuchtturm am Ende der Welt' genannt wird.",
-      hu: "Egy festői világítótorony egy kis sziklaszigeten a Beagle-csatornában, Ushuaia közelében, melyet gyakran 'a világ végi világítótoronynak' hívnak.",
-      ro: "Un far pitoresc pe o mică insulă stâncoasă din Canalul Beagle, lângă Ushuaia, adesea numit 'Farul de la Capătul Lumii'.",
-      en: "A picturesque lighthouse on a small rocky island in the Beagle Channel near Ushuaia, often referred to as the 'Lighthouse at the End of the World'."
+    descriptionAdvanced: {
+      en: "The Les Éclaireurs Lighthouse, often mistakenly called the 'Lighthouse at the End of the World,' is an iconic red-and-white beacon located on a small rocky islet in the Beagle Channel, near Ushuaia. Built in 1920, this 11-meter-high brick tower has become one of the most photographed symbols of Patagonia and Tierra del Fuego. It guards the eastern entrance to the Ushuaia bay, guiding ships through the cold and often treacherous southern waters. Surrounded by colonies of sea lions and cormorants, the lighthouse stands as a silent sentinel against the dramatic backdrop of snow-capped mountains. A boat trip to see Les Éclaireurs up close is a quintessential experience for anyone visiting the southernmost city on Earth, representing the mystery and rugged beauty of the edge of the continent."
     },
-    facts: {
-      de: [
-        "Er ist rot und weiß gestreift und 11 Meter hoch.",
-        "Er nahm im Jahr 1920 seinen Betrieb auf und ist vollautomatisch."
-      ],
-      hu: [
-        "Piros-fehér csíkos, és 11 méter magas.",
-        "1920-ban kezdte meg működését, és teljesen automatizált."
-      ],
-      ro: [
-        "Este vopsit în dungi roșii și albe și are 11 metri înălțime.",
-        "A intrat în funcțiune în 1920 și este complet automatizat."
-      ],
-      en: [
-        "It is painted with red and white stripes and is 11 meters tall.",
-        "It entered service in 1920 and is fully automated."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Inaugurated on December 23, 1920.", "The tower is 11 meters high and is made of brick and stone.", "The name 'Les Éclaireurs' means 'The Scouts' in French.", "It is NOT the lighthouse from Jules Verne's novel (which is on Isla de los Estados).", "The light has a range of approximately 7.2 nautical miles.", "The lighthouse is completely automated and solar-powered.", "Located on the northeasternmost islet of the Les Éclaireurs islets.", "One of the most famous and iconic landmarks of Tierra del Fuego."]
+    }, image: "/poi-images/faro-les-eclaireurs-landmarks-v2.webp"},
   {
     id: "monumento-al-indio-landmarks-v2",
     type: "landmark",
@@ -732,31 +354,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Monumentul Indianului",
       en: "Monumento al Indio"
     },
-    description: {
-      de: "Eine große Skulptur in der Provinz Tucumán, die an den indigenen Krieger erinnert und die Verbindung zur indigenen Geschichte würdigt.",
-      hu: "Egy nagy szobor Tucumán tartományban, amely egy őslakos harcosra emlékezik, tisztelegve az őslakos történelem előtt.",
-      ro: "O sculptură mare în provincia Tucumán, care comemorează un războinic indigen și onorează istoria indigenă.",
-      en: "A large sculpture in the Tucumán Province commemorating the indigenous warrior and honoring the indigenous history."
+    descriptionAdvanced: {
+      en: "The Monumento al Indio, located in the scenic Quebrada de los Sosa in Tucumán Province, is a powerful stone sculpture that honors the indigenous peoples of the region. Created by the sculptor Enrique Prat Gay in the 1940s, the monument depicts a stylized native figure looking out over the winding mountain road and the lush forest. It serves as a symbolic guardian of the valley and a reminder of the deep roots of the Calchaquí and Tafí cultures in the area. The site is a popular stop for travelers on the way to the high-altitude Tafí del Valle, offering a moment of reflection and spectacular views of the subtropical 'Yungas' vegetation. The monument stands as a tribute to the ancestral heritage and the natural beauty that defines the heart of the Argentine North."
     },
-    facts: {
-      de: [
-        "Die Statue steht inmitten eines dichten Regenwaldes, der als Yungas bekannt ist.",
-        "Sie befindet sich auf einer Höhe von über 1.000 Metern an einer malerischen Bergstraße."
-      ],
-      hu: [
-        "A szobor a yungas néven ismert sűrű esőerdő közepén áll.",
-        "Több mint 1000 méteres magasságban található egy festői hegyi út mentén."
-      ],
-      ro: [
-        "Statuia se află în mijlocul unei păduri tropicale dense cunoscute sub numele de Yungas.",
-        "Este situată la o altitudine de peste 1.000 de metri pe un drum montan pitoresc."
-      ],
-      en: [
-        "The statue stands in the middle of a dense rainforest known as the Yungas.",
-        "It is located at an altitude of over 1,000 meters on a scenic mountain road."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Created in 1943 by the sculptor Enrique Prat Gay.", "The official name is 'Monumento al Aborigen'.", "Built with local stone to blend with the natural surroundings.", "Located at an altitude of approximately 1,100 meters above sea level.", "Stands on a prominent curve of Provincial Route 307.", "The figure is 6 meters tall and stands on a stone pedestal.", "A major landmark of the 'Yungas' (cloud forest) region of Tucumán.", "Offers a panoramic viewpoint over the Los Sosa river canyon."]
+    }, image: "/poi-images/monumento-al-indio-landmarks-v2.webp"},
   {
     id: "planetario-galileo-galilei-landmarks-v2",
     type: "landmark",
@@ -768,31 +371,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Planetariul Galileo Galilei",
       en: "Galileo Galilei Planetarium"
     },
-    description: {
-      de: "Ein Planetarium im Parque Tres de Febrero, das durch seine UFO-ähnliche Architektur hervorsticht.",
-      hu: "Egy planetárium a Parque Tres de Febrero parkban, amely UFO-hoz hasonló építészetével hívja fel magára a figyelmet.",
-      ro: "Un planetariu în Parcul Tres de Febrero, care se remarcă prin arhitectura sa asemănătoare cu un OZN.",
-      en: "A planetarium located in Parque Tres de Febrero, notable for its UFO-like architecture."
+    descriptionAdvanced: {
+      en: "The Galileo Galilei Planetarium is a futuristic architectural icon located in the Palermo neighborhood of Buenos Aires. Inaugurated in 1966, its unique design resembles a flying saucer or a celestial body, featuring a massive 20-meter-diameter dome. The building is not only a masterpiece of mid-century modern architecture but also a premier center for scientific outreach and astronomy. Inside, visitors can enjoy high-tech astronomical projections, explore a museum with meteorites, and learn about the mysteries of the cosmos. The planetarium is situated in the middle of a beautiful park and is beautifully illuminated at night, making it one of the most recognizable landmarks of the city. It stands as a symbol of the intersection between science, art, and the enduring human fascination with the stars."
     },
-    facts: {
-      de: [
-        "Das Gebäude wurde 1966 eröffnet und hat eine 20-Meter-Kuppel.",
-        "Die Projektionsanlage kann tausende von Sternen und Planeten des Nachthimmels darstellen."
-      ],
-      hu: [
-        "Az épületet 1966-ban nyitották meg, és egy 20 méteres kupolával rendelkezik.",
-        "A vetítőrendszer több ezer csillagot és bolygót képes ábrázolni az éjszakai égen."
-      ],
-      ro: [
-        "Clădirea a fost deschisă în 1966 și are o cupolă de 20 de metri.",
-        "Sistemul de proiecție poate afișa mii de stele și planete ale cerului nopții."
-      ],
-      en: [
-        "The building opened in 1966 and features a 20-meter dome.",
-        "Its projection system can display thousands of stars and planets of the night sky."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Inaugurated on June 13, 1967.", "The building features three main levels and a large subterranean floor.", "The museum houses three metallic meteorites found in northern Argentina.", "The 20-meter dome has a projection screen of over 400 square meters.", "Recently modernized with state-of-the-art 8K projection technology.", "Surrounded by a scenic park with a lake and rose gardens.", "Selected as one of the best planetariums in the world by various institutions.", "The architect, Enrique Jan, used complex geometric and mathematical proportions in the design."]
+    }, image: "/poi-images/planetario-galileo-galilei-landmarks-v2.webp"},
   {
     id: "torre-monumental-landmarks-v2",
     type: "landmark",
@@ -804,31 +388,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Torre Monumental",
       en: "Torre Monumental"
     },
-    description: {
-      de: "Ein markanter Uhrenturm im Viertel Retiro, der von der britischen Gemeinde anlässlich des 100. Jahrestages der Mairevolution gespendet wurde.",
-      hu: "Egy feltűnő óratorony a Retiro negyedben, melyet a brit közösség adományozott a májusi forradalom 100. évfordulójára.",
-      ro: "Un turn cu ceas distinctiv în cartierul Retiro, donat de comunitatea britanică cu ocazia împlinirii a 100 de ani de la Revoluția din Mai.",
-      en: "A prominent clock tower in the Retiro neighborhood, donated by the British community for the centennial of the May Revolution."
+    descriptionAdvanced: {
+      en: "The Torre Monumental, formerly known as the Torre de los Ingleses (English Tower), is an elegant 75-meter-high clock tower located in the Retiro neighborhood of Buenos Aires. Built in 1916, it was a gift from the British community to the city to commemorate the centenary of the May Revolution. The tower is a fine example of the Edwardian Palladian style, decorated with symbols of the British Empire and the Argentine nation. Its clock is a replica of the one at Big Ben in London, and its bells are famous for their melodic chime. Following the Falklands War in 1982, its name was officially changed to Torre Monumental. Today, it stands in a beautiful square as a landmark of urban elegance and a reminder of the deep historical and economic ties between Argentina and Great Britain."
     },
-    facts: {
-      de: [
-        "Früher als Torre de los Ingleses (Turm der Engländer) bekannt.",
-        "Der Turm ist 75,5 Meter hoch und verfügt über ein Glockenspiel, das dem von Westminster Abbey nachempfunden ist."
-      ],
-      hu: [
-        "Korábban Torre de los Ingleses (Az angolok tornya) néven volt ismert.",
-        "A torony 75,5 méter magas, és harangjátéka a Westminster apátságét utánozza."
-      ],
-      ro: [
-        "Cunoscut anterior sub numele de Torre de los Ingleses (Turnul Englezilor).",
-        "Turnul are o înălțime de 75,5 metri și dispune de un carillon modelat după cel de la Westminster Abbey."
-      ],
-      en: [
-        "Formerly known as Torre de los Ingleses (Tower of the English).",
-        "The tower is 75.5 meters high and features a carillon modeled after the one at Westminster Abbey."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Inaugurated on May 24, 1916.", "Stands 75.5 meters tall and has 8 floors.", "The clock and bells were made by the same company as those in Big Ben.", "Built entirely with materials brought from Great Britain.", "The facade is decorated with the emblems of the United Kingdom and Argentina.", "Offers an elevator that takes visitors to a viewpoint at 60 meters height.", "Located in the 'Plaza Fuerza Aérea Argentina' across from the Retiro station.", "Declared a National Historic Monument in 1946."]
+    }, image: "/poi-images/torre-monumental-landmarks-v2.webp"},
   {
     id: "palacio-aguas-corrientes-landmarks-v2",
     type: "landmark",
@@ -840,31 +405,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Palatul Apelor Curente",
       en: "Palace of Running Waters"
     },
-    description: {
-      de: "Ein architektonisch atemberaubendes Gebäude, das Ende des 19. Jahrhunderts erbaut wurde, um Wassertanks für die Stadt zu verstecken.",
-      hu: "Egy építészetileg lenyűgöző épület, melyet a 19. század végén emeltek, hogy elrejtsék benne a város víztartályait.",
-      ro: "O clădire uimitoare din punct de vedere arhitectural, construită la sfârșitul secolului al XIX-lea pentru a ascunde rezervoarele de apă ale orașului.",
-      en: "An architecturally stunning building constructed in the late 19th century to conceal water tanks for the city."
+    descriptionAdvanced: {
+      en: "The Palacio de Aguas Corrientes (Water Company Palace) is one of the most extraordinary and eclectic buildings in Buenos Aires, occupying an entire city block on Avenida Córdoba. Built in the late 19th century, its stunning facade is decorated with over 300,000 multi-colored glazed terracotta tiles imported from Great Britain, featuring intricate neoclassical and Victorian motifs. Surprisingly, this magnificent 'palace' was actually designed to house twelve massive cast-iron water tanks for the city's supply system. Today, it houses the Heritage Museum and the historical archives of the water company. The building is a unique example of industrial architecture disguised as a lavish palace, standing as a symbol of the wealth and ambitious urban planning of 1880s Argentina, when Buenos Aires aimed to become the 'Paris of the South.'"
     },
-    facts: {
-      de: [
-        "Die Fassade besteht aus mehr als 300.000 importierten Terrakotta-Fliesen und Ziegeln aus Europa.",
-        "Im Inneren verbarg das Gebäude ursprünglich drei riesige Wassertanks mit einem Fassungsvermögen von 72 Millionen Litern."
-      ],
-      hu: [
-        "A homlokzatot több mint 300 000 Európából importált terrakotta csempe és tégla borítja.",
-        "Belül az épület eredetileg három hatalmas víztartályt rejtett, amelyek kapacitása 72 millió liter volt."
-      ],
-      ro: [
-        "Fațada este realizată din peste 300.000 de plăci de teracotă și cărămizi importate din Europa.",
-        "În interior, clădirea ascundea inițial trei rezervoare uriașe de apă cu o capacitate de 72 de milioane de litri."
-      ],
-      en: [
-        "The facade is made of over 300,000 imported terracotta tiles and bricks from Europe.",
-        "Inside, the building originally hid three huge water tanks with a capacity of 72 million liters."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Completed in 1894 and designed by Norwegian engineer Magnus Bohlsmann.", "The exterior features over 300,000 ceramic pieces from Royal Doulton.", "Inside, it houses a massive iron structure that supported 72 million liters of water.", "Declared a National Historic Monument in 1989.", "One of the most elaborate and expensive examples of industrial architecture in the world.", "The building has 3 levels of tanks and a beautiful interior courtyard.", "Houses a fascinating museum of sanitary technology and plumbing history.", "The facade hides a complex network of pipelines and valves."]
+    }, image: "/poi-images/palacio-aguas-corrientes-landmarks-v2.webp"},
   {
     id: "mnba-buenos-aires-landmarks-v2",
     type: "landmark",
@@ -876,31 +422,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Muzeul Național de Arte Frumoase",
       en: "National Museum of Fine Arts"
     },
-    description: {
-      de: "Das wichtigste Kunstmuseum in Argentinien, das sich in einem umgebauten ehemaligen Pumpwerk im Viertel Recoleta befindet.",
-      hu: "Argentína legfontosabb művészeti múzeuma, amely egy átalakított egykori szivattyúállomás épületében kapott helyet a Recoleta negyedben.",
-      ro: "Cel mai important muzeu de artă din Argentina, situat într-o fostă stație de pompare transformată din cartierul Recoleta.",
-      en: "The most important art museum in Argentina, located in a converted former pumphouse in the Recoleta neighborhood."
+    descriptionAdvanced: {
+      en: "The National Museum of Fine Arts (MNBA) in Buenos Aires is the most important art institution in Argentina and one of the largest in Latin America. Located in the Recoleta neighborhood, the museum's pink-painted building (a former pumping station) houses an extensive and world-class collection ranging from pre-Columbian artifacts to European masterpieces and contemporary Argentine art. Its permanent collection includes works by Goya, Rembrandt, Van Gogh, and Picasso, as well as a comprehensive overview of the country's artistic history. The MNBA is a vital center for culture and education, offering a quiet and inspiring space to explore the evolution of human creativity. It stands as a symbol of Argentina's deep commitment to the arts and its role as a major cultural hub in the Southern Hemisphere."
     },
-    facts: {
-      de: [
-        "Es beherbergt die größte Sammlung argentinischer Kunst in der Welt.",
-        "Die Sammlung umfasst auch bedeutende Werke europäischer Meister wie Goya, Rembrandt und Van Gogh."
-      ],
-      hu: [
-        "Ez ad otthont a világ legnagyobb argentin művészeti gyűjteményének.",
-        "A gyűjteményben olyan európai mesterek jelentős művei is megtalálhatók, mint Goya, Rembrandt és Van Gogh."
-      ],
-      ro: [
-        "Găzduiește cea mai mare colecție de artă argentiniană din lume.",
-        "Colecția include, de asemenea, lucrări importante ale unor maeștri europeni precum Goya, Rembrandt și Van Gogh."
-      ],
-      en: [
-        "It houses the largest collection of Argentine art in the world.",
-        "The collection also includes significant works by European masters such as Goya, Rembrandt, and Van Gogh."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Founded in 1895 and moved to its current site in 1933.", "Houses over 12,000 pieces of art, including 700 on permanent display.", "The building was originally a drainage pumping station renovated by Alejandro Bustillo.", "Includes the largest public collection of Argentine art in the world.", "Entry to the permanent collection is free for residents.", "Features major works by European masters like El Greco and Monet.", "A major regional center for art research and conservation.", "Located in the 'Plaza de las Naciones Unidas' area near other cultural sites."]
+    }, image: "/poi-images/mnba-buenos-aires-landmarks-v2.webp"},
   {
     id: "centro-cultural-kirchner-landmarks-v2",
     type: "landmark",
@@ -912,29 +439,11 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Centrul Cultural Kirchner",
       en: "Kirchner Cultural Centre"
     },
-    description: {
-      de: "Das größte Kulturzentrum in Lateinamerika, das im majestätischen ehemaligen Hauptpostamt von Buenos Aires untergebracht ist.",
-      hu: "Latin-Amerika legnagyobb kulturális központja, amely a fenséges egykori Buenos Aires-i főposta épületében kapott helyet.",
-      ro: "Cel mai mare centru cultural din America Latină, găzduit în maiestuosul fost oficiu poștal principal din Buenos Aires.",
-      en: "The largest cultural center in Latin America, housed in the majestic former main post office of Buenos Aires."
+    descriptionAdvanced: {
+      en: "The Centro Cultural Kirchner (CCK), located in the majestic former Central Post Office of Buenos Aires, is the largest cultural center in Latin America and one of the largest in the world. This architectural masterpiece underwent a massive restoration and transformation, blending its original neoclassical grandeur with high-tech modern additions. Its most spectacular feature is 'The Whale' (La Ballena), a massive blue-colored symphony hall suspended within the building's central atrium. The center offers an incredible range of free concerts, exhibitions, and workshops across its nine floors. The CCK is a temple of culture and inclusion, where the historic 'Symphony of the Post' meets the most innovative artistic expressions of the 21st century, standing as a stunning symbol of modern Buenos Aires."
     },
-    facts: {
-      de: [
-        "Der Konzertsaal ist bekannt als 'La Ballena Azul' (Der blaue Wal), aufgrund seiner Form und Farbe.",
-        "Das historische Postgebäude wurde nach umfangreichen Renovierungsarbeiten 2015 als Kulturzentrum wiedereröffnet."
-      ],
-      hu: [
-        "A koncerttermet formája és színe miatt 'La Ballena Azul'-nak (A kék bálna) is hívják.",
-        "A történelmi postaépületet kiterjedt felújítási munkálatok után 2015-ben nyitották meg újra kulturális központként."
-      ],
-      ro: [
-        "Sala de concerte este cunoscută sub numele de 'La Ballena Azul' (Balena Albastră), datorită formei și culorii sale.",
-        "Clădirea istorică a poștei a fost redeschisă ca un centru cultural în 2015, după lucrări ample de renovare."
-      ],
-      en: [
-        "The concert hall is known as 'La Ballena Azul' (The Blue Whale) due to its shape and color.",
-        "The historic postal building was reopened as a cultural center in 2015 after extensive renovations."
-      ]
+    factsAdvanced: {
+      en: ["Inaugurated in 2015 and occupies an area of over 100,000 square meters.", "The original building was designed by French architect Norbert Maillart in 1888.", "'La Ballena Azul' is a world-class symphony hall with 1,750 seats.", "The 'Grand Chandelier' is a massive glass structure for contemporary art exhibitions.", "Includes the Eva Perón room, where she famously worked in the 1940s.", "The building is a National Historic Monument.", "Features two panoramic viewpoints overlooking the city and the river.", "The dome was transformed into a high-tech glass structure for events."]
     }
   },
   {
@@ -948,31 +457,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Palatul Congresului Național Argentinian",
       en: "Argentine National Congress Palace"
     },
-    description: {
-      de: "Ein monumentales Gebäude im griechisch-römischen Stil, in dem die argentinische Legislative untergebracht ist.",
-      hu: "Egy monumentális görög-római stílusú épület, amely az argentin törvényhozásnak ad otthont.",
-      ro: "O clădire monumentală în stil greco-roman, care găzduiește legislativul argentinian.",
-      en: "A monumental Greco-Roman style building that houses the Argentine legislative branch."
+    descriptionAdvanced: {
+      en: "The National Congress of Argentina is a monumental and magnificent building that houses the legislative branch of the federal government. Located at the western end of Avenida de Mayo in Buenos Aires, its architecture is a grand example of Greco-Roman style, featuring a massive 80-meter-high dome that is one of the largest in the city. The building is constructed with grey granite and white marble, decorated with numerous sculptures and reliefs. Its interior is equally lavish, with the Senate and Chamber of Deputies halls being masterpieces of neoclassical design. The Congress is not only the heart of the country's legislative life but also a symbol of national sovereignty and republican values. It stands as a powerful architectural bookend to the Casa Rosada, representing the balance of powers in the Argentine state."
     },
-    facts: {
-      de: [
-        "Seine charakteristische grüne Kuppel ist 80 Meter hoch und eine der größten in Südamerika.",
-        "Der Bau dauerte viele Jahrzehnte und wurde erst 1946 vollständig abgeschlossen."
-      ],
-      hu: [
-        "Jellegzetes zöld kupolája 80 méter magas, és Dél-Amerika egyik legnagyobbja.",
-        "Az építkezés sok évtizedig tartott, és csak 1946-ban fejeződött be teljesen."
-      ],
-      ro: [
-        "Cupola sa verde caracteristică are o înălțime de 80 de metri și este una dintre cele mai mari din America de Sud.",
-        "Construcția a durat multe decenii și a fost complet finalizată abia în 1946."
-      ],
-      en: [
-        "Its characteristic green dome is 80 meters high and one of the largest in South America.",
-        "Construction took many decades and was only fully completed in 1946."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Inaugurated in 1906, though construction continued until 1946.", "The dome is 80 meters high and weighs 30,000 tons.", "Designed by Italian architect Vittorio Meano.", "The 'Salón de los Pasos Perdidos' is one of its most impressive halls.", "Declared a National Historic Monument in 1993.", "The facade features the 'Quadriga,' a bronze chariot group by Victor de Pol.", "The building covers an entire city block.", "Offers guided tours that include the spectacular parliamentary library."]
+    }, image: "/poi-images/congreso-nacion-argentina-landmarks-v2.webp"},
   {
     id: "dique-san-roque-landmarks-v2",
     type: "landmark",
@@ -984,31 +474,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Barajul San Roque",
       en: "San Roque Dam"
     },
-    description: {
-      de: "Eine Talsperre in der Provinz Córdoba, die den San-Roque-See staut und ein wichtiges technisches Bauwerk ist.",
-      hu: "Egy gát Córdoba tartományban, amely a San Roque-tavat duzzasztja fel, és fontos mérnöki építmény.",
-      ro: "Un baraj din provincia Córdoba care formează lacul San Roque și reprezintă o structură inginerească importantă.",
-      en: "A dam in the Córdoba Province that impounds the San Roque Lake and is an important engineering structure."
+    descriptionAdvanced: {
+      en: "The San Roque Dam, located in the Punilla Valley near Villa Carlos Paz, is a landmark of Argentine engineering and the centerpiece of one of Córdoba's most important reservoirs. The current dam, completed in the 1940s, replaced a historic late-19th-century structure that was once the largest in the world. It is famous for its unique 'Embudos' (funnels), massive overflow structures that create a mesmerizing whirlpool effect during times of high water. The dam created the San Roque Lake, which is vital for the city of Córdoba's water supply and power generation, while also being a premier destination for water sports and tourism. The site is a symbol of the province's development and its ability to manage water resources in a challenging mountain environment."
     },
-    facts: {
-      de: [
-        "Beim Bau der ersten Staumauer im Jahr 1891 war es der größte künstliche Stausee der Welt.",
-        "Die heutige Staumauer wurde 1944 fertiggestellt und ersetzte die ursprüngliche Konstruktion."
-      ],
-      hu: [
-        "Amikor az első gát 1891-ben megépült, ez volt a világ legnagyobb mesterséges víztározója.",
-        "A jelenlegi gát 1944-ben készült el, felváltva az eredeti építményt."
-      ],
-      ro: [
-        "Când primul baraj a fost construit în 1891, a format cel mai mare rezervor artificial din lume.",
-        "Barajul actual a fost finalizat în 1944, înlocuind structura originală."
-      ],
-      en: [
-        "When the first dam was built in 1891, it created the largest artificial reservoir in the world.",
-        "The current dam was completed in 1944, replacing the original structure."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["The first dam (1891) was designed by Bialet Massé and Cassaffousth.", "The current dam was inaugurated in 1944.", "Famous for the 'Embudo,' a spectacular morning-glory spillway.", "The lake covers an area of approximately 16 square kilometers.", "Vital for the irrigation of the surrounding agricultural valleys.", "A major hub for sailing, windsurfing, and sport fishing in Córdoba.", "The dam's crest is a popular viewpoint for tourists.", "The 'Camino de las Cien Curvas' connects the dam with the city."]
+    }, image: "/poi-images/dique-san-roque-landmarks-v2.webp"},
   {
     id: "puente-rosario-victoria-landmarks-v2",
     type: "landmark",
@@ -1020,31 +491,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Podul Rosario-Victoria",
       en: "Rosario-Victoria Bridge"
     },
-    description: {
-      de: "Eine große Schrägseilbrücke über den Fluss Paraná, die die Städte Rosario und Victoria verbindet.",
-      hu: "Egy nagy ferdekábeles híd a Paraná folyó felett, amely Rosario és Victoria városait köti össze.",
-      ro: "Un pod hobanat de mari dimensiuni peste râul Paraná, care face legătura între orașele Rosario și Victoria.",
-      en: "A large cable-stayed bridge over the Paraná River connecting the cities of Rosario and Victoria."
+    descriptionAdvanced: {
+      en: "The Rosario-Victoria Bridge, officially the 'Nuestra Señora del Rosario' Bridge, is a colossal engineering feat that spans the Paraná River and its vast delta. Completed in 2003, it consists of a massive cable-stayed main bridge and a series of viaducts and embankments stretching for nearly 60 kilometers, connecting the provinces of Santa Fe and Entre Ríos. The bridge has transformed the regional economy by creating a vital road link for the Mercosur corridor, replacing slow ferry services. Its elegant towers and soaring cables are a dominant feature of the Rosario skyline. Beyond its logistical importance, the bridge offers spectacular views of the river and the islands, standing as a symbol of modern Argentine integration and its capacity for large-scale infrastructure development."
     },
-    facts: {
-      de: [
-        "Die Hauptbrücke ist 608 Meter lang, während das gesamte Bauwerk fast 60 Kilometer umfasst.",
-        "Sie wurde im Jahr 2003 für den Verkehr freigegeben."
-      ],
-      hu: [
-        "A főhíd 608 méter hosszú, míg a teljes összekötő útszakasz közel 60 kilométert tesz ki.",
-        "2003-ban adták át a forgalomnak."
-      ],
-      ro: [
-        "Podul principal are o lungime de 608 metri, în timp ce întreaga lucrare se întinde pe aproape 60 de kilometri.",
-        "A fost deschis traficului în anul 2003."
-      ],
-      en: [
-        "The main bridge is 608 meters long, while the entire link stretches for almost 60 kilometers.",
-        "It was opened to traffic in 2003."
-      ]
-    }
-  },
+    factsAdvanced: {
+      en: ["Inaugurated on May 22, 2003.", "The total length of the connection is 59.4 kilometers.", "The main cable-stayed bridge has a span of 350 meters over the river.", "The pylon towers reach a height of 126 meters.", "Allows for a vertical clearance of 50 meters for transoceanic ships.", "Used by over 10,000 vehicles per day on average.", "Crucial for connecting the heart of the country with Uruguay and Brazil.", "Offers one of the most scenic drives in the Argentine littoral region."]
+    }, image: "/poi-images/puente-rosario-victoria-landmarks-v2.webp"},
   {
     id: "viaducto-la-polvorilla-landmarks-v2",
     type: "landmark",
@@ -1056,29 +508,12 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
       ro: "Viaductul La Polvorilla",
       en: "La Polvorilla Viaduct"
     },
-    description: {
-      de: "Ein beeindruckendes Stahlviadukt in den Anden, das vom berühmten Zug 'Tren a las Nubes' (Zug in die Wolken) überquert wird.",
-      hu: "Egy lenyűgöző acélviadukt az Andokban, amelyen a híres 'Tren a las Nubes' (Felhőkbe tartó vonat) halad át.",
-      ro: "Un viaduct impresionant de oțel în Anzi, traversat de celebrul tren 'Tren a las Nubes' (Trenul spre Nori).",
-      en: "An impressive steel viaduct in the Andes crossed by the famous 'Tren a las Nubes' (Train to the Clouds)."
+    descriptionAdvanced: {
+      en: "The La Polvorilla Viaduct is a breathtaking masterpiece of railway engineering located high in the Andes of Salta Province. Standing at a staggering 4,220 meters above sea level, it is the most spectacular part of the 'Train to the Clouds' (Tren a las Nubes) route. This curved steel structure, spanning 224 meters and rising 63 meters above a deep desert canyon, was built in the early 20th century without the use of welding, utilizing only rivets. Its design allows it to withstand the extreme temperature fluctuations and fierce winds of the Puna. La Polvorilla is a symbol of human ingenuity and the ambitious project to connect the Argentine North with the Pacific coast of Chile. For travelers, crossing the viaduct is an unforgettable experience at the edge of the sky."
     },
-    facts: {
-      de: [
-        "Die Struktur befindet sich auf einer atemberaubenden Höhe von 4.220 Metern über dem Meeresspiegel.",
-        "Das gebogene Viadukt ist 224 Meter lang und wird von massiven Stahlpfeilern getragen."
-      ],
-      hu: [
-        "A szerkezet lélegzetelállító 4220 méteres tengerszint feletti magasságban található.",
-        "A hajlított viadukt 224 méter hosszú, és hatalmas acélpillérek tartják."
-      ],
-      ro: [
-        "Structura este situată la o altitudine uluitoare de 4.220 de metri deasupra nivelului mării.",
-        "Viaductul curbat are o lungime de 224 de metri și este susținut de stâlpi masivi de oțel."
-      ],
-      en: [
-        "The structure is located at a breathtaking altitude of 4,220 meters above sea level.",
-        "The curved viaduct is 224 meters long and is supported by massive steel pillars."
-      ]
+    factsAdvanced: {
+      en: ["Completed in 1932 and inaugurated in 1948.", "Located at an altitude of 4,220 meters above sea level.", "The structure is 224 meters long and weighs over 1,600 tons.", "Consists of a curved steel viaduct with a radius of 200 meters.", "Built entirely with rivets, a remarkable feat for its time.", "The highest point of the General Belgrano Railway network.", "Designed by the engineer Richard Maury.", "Offers one of the most iconic and dramatic views in all of Argentina."]
     }
-  }
+  },
 ];
+

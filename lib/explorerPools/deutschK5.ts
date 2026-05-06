@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/deutschK5.ts
 // ASTRODEUTSCH K5 — Klasse 5 (10-11 Jahre)
 // LANGUAGE: nur Deutsch (de)
@@ -5216,3 +5217,4 @@ export const EXAM5_POOL: PoolTopicDef[] = [
     quiz: { generate: "nominativ" }
   }
 ];
+

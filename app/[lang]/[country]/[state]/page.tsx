@@ -100,7 +100,7 @@ export default async function StatePage({
           items={[
             { name: copy.home, href: "/" },
             { name: countryCopy.name, href: buildCountryPath(lang, countryId) },
-            { name: region.name[lang] || region.name.de, href: buildStatePath(lang, region.id) },
+            { name: (region.name as Record<string, string | undefined>)[lang] || region.name.de || "", href: buildStatePath(lang, region.id) },
           ]}
         />
 

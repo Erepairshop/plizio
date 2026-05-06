@@ -1,0 +1,727 @@
+// @ts-nocheck
+import type { POI } from "./poi";
+
+export const poiExtraMalaysiaNatureV2: POI[] = [
+  {
+    id: "gunung-mulu-national-park-nature-v2",
+    type: "national-park",
+    parent: "MY-13",
+    coords: [114.9219, 4.0475],
+    name: {
+      de: "Gunung-Mulu-Nationalpark",
+      hu: "Gunung Mulu Nemzeti Park",
+      ro: "Parcul Național Gunung Mulu",
+      en: "Gunung Mulu National Park"
+    },
+    description: {
+      de: "Ein UNESCO-Weltkulturerbe in Sarawak, bekannt für seine beeindruckenden Höhlen und Karstformationen inmitten eines artenreichen Regenwaldes.",
+      hu: "Az UNESCO Világörökség része Sarawakban, amely lenyűgöző barlangjairól és karsztképződményeiről híres egy fajokban gazdag esőerdő közepén.",
+      ro: "Un sit al Patrimoniului Mondial UNESCO din Sarawak, renumit pentru peșterile sale impresionante și formațiunile carstice în mijlocul unei păduri tropicale bogate în specii.",
+      en: "A UNESCO World Heritage Site in Sarawak, famous for its impressive caves and karst formations in the middle of a species-rich rainforest."
+    },
+    facts: {
+      de: ["Beherbergt eine der größten Höhlenkammern der Welt.", "Heimat von Millionen von Fledermäusen.", "Bietet anspruchsvolle Wanderwege und Gipfelbesteigungen."],
+      hu: ["A világ egyik legnagyobb barlangterme itt található.", "Több millió denevér otthona.", "Kihívást jelentő túraútvonalakat és csúcsmászásokat kínál."],
+      ro: ["Găzduiește una dintre cele mai mari camere de peșteră din lume.", "Acasă pentru milioane de lilieci.", "Oferă trasee de drumeții provocatoare și ascensiuni pe vârfuri."],
+      en: ["Home to one of the world's largest cave chambers.", "Home to millions of bats.", "Offers challenging trekking trails and peak climbing."]
+    }, image: "/poi-images/gunung-mulu-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Gunung Mulu Nationalpark in Sarawak ist eine unbezwingbare Wildnis und ein geologisches Wunderwerk, das völlig isoliert vom modernen Straßennetz liegt. Dominiert von drei markanten Bergen, ist die Region vor allem für ihre gigantischen unterirdischen Karsthöhlensysteme weltberühmt. Tief unter dem dichten Primärregenwald winden sich gewaltige Höhlen wie das Clearwater Cave System, das zu den längsten der Welt zählt, und die Deer Cave, die ein massives Portal besitzt, aus dem bei Sonnenuntergang Millionen Fledermäuse strömen. Über der Erde erheben sich die Pinnacles, extrem scharfe und spitze Kalksteinnadeln, die sich wie Klingen in den Himmel bohren. Der Erhalt dieses hochkomplexen und fragilen Ökosystems führte im Jahr 2000 zur Anerkennung als UNESCO-Weltnaturerbe. Geografie K8 — Karstgeologie und isolierte Tropenökosysteme.",
+      hu: "A Gunung Mulu Nemzeti Park egy geológiai és biológiai csoda Sarawak állam dzsungelének mélyén, amelyet az UNESCO Természeti Világörökségként tart számon. Karsztvidéke a világ legösszetettebb és leginkább feltárt trópusi barlangrendszerét rejti, köztük a hírhedt Sarawak-kamrát (a világ legnagyobb egybefüggő barlangtermét) és a szarvasokról elnevezett Deer-barlangot, ahonnan esténként hárommillió ráncosajkú denevér repül ki hatalmas sötét felhőt formálva. A felszínt az úgynevezett 'Pinnacles', az akár 50 méter magas, borotvaéles mészkőtűk uralják, amelyek a heves trópusi esőzések évmilliókig tartó eróziójának eredményei. A park annyira elzárt, hogy aszfaltozott út nem vezet ide, csupán kisrepülővel vagy a folyón hajózva (longboat) közelíthető meg. Földrajz és biológia tantárgyak számára a karsztosodási folyamatok és az izolált ökoszisztémák egyedülálló példája.",
+      ro: "",
+      en: "Gunung Mulu National Park in Sarawak is a UNESCO World Heritage site renowned for its exceptional biodiversity and stunning karst landscapes. The park is dominated by Gunung Mulu, a 2,377-meter-high sandstone pinnacle. It is most famous for its extensive cave systems, including the world's largest cave chamber, the Sarawak Chamber, which is large enough to hold 40 Boeing 747 aircraft. The park also features the Deer Cave, which has one of the world's largest cave passages and is home to millions of bats. The headhunter's trail, a historic route used by warring tribes, is now a popular trekking route. The park's rich ecosystem supports thousands of species of ferns, fungi, and flowering plants."
+    },
+    factsAdvanced: {
+      de: ["Der Nationalpark umfasst eine geschützte Gesamtfläche von 528 Quadratkilometern.", "Die Sarawak Chamber ist die volumenmäßig größte unterirdische Kammer der Welt.", "Der Park wurde im Jahr 2000 als UNESCO-Weltnaturerbe ausgezeichnet.", "Das Clearwater Cave System hat eine vermessene Länge von über 227 Kilometern.", "Die extrem scharfen Pinnacles bestehen aus bis zu 50 Meter hohem Kalkstein.", "Der Park kann nur über Kleinflugzeuge oder lange Bootstrips erreicht werden."],
+      hu: ["A parkot az UNESCO 2000-ben Természeti Világörökségi helyszínné nyilvánította.", "Itt található a Sarawak-kamra, amelyben mintegy 40 Boeing 747-es repülőgép elférne.", "A Deer-barlang a világ egyik legszélesebb barlangbejáratával rendelkezik.", "Az erdő fölé emelkedő mészkőtűket (Pinnacles) csak többnapos extrém túrával lehet elérni.", "A Clearwater-barlang (Gua Air Jernih) hálózatának hossza meghaladja a 220 kilométert.", "A területhez nem vezet közút, logisztikája teljesen a folyami és légi közlekedésre épül."],
+      ro: [],
+      en: ["UNESCO World Heritage Site: Inscribed in 2000.", "Sarawak Chamber: The largest known cave chamber in the world by area.", "Deer Cave: Home to an estimated 3 million bats, which exit in a spectacular 'bat exodus' each evening.", "The Pinnacles: A series of 45-meter high, sharp limestone spikes on the slopes of Gunung Api.", "Area: Covers an area of 528.64 square kilometers.", "Highest peak: Gunung Mulu at 2,377 meters.", "Biodiversity: Over 3,500 species of vascular plants have been recorded.", "Accessibility: The park is only accessible by air or by a long boat journey."]
+    }
+  },
+  {
+    id: "taman-negara-national-park-nature-v2",
+    type: "national-park",
+    parent: "MY-06",
+    coords: [102.4167, 4.4167],
+    name: {
+      de: "Taman-Negara-Nationalpark",
+      hu: "Taman Negara Nemzeti Park",
+      ro: "Parcul Național Taman Negara",
+      en: "Taman Negara National Park"
+    },
+    description: {
+      de: "Einer der ältesten tropischen Regenwälder der Welt, der eine unglaubliche Artenvielfalt an Flora und Fauna bietet.",
+      hu: "A világ egyik legősibb trópusi esőerdeje, amely a növény- és állatvilág hihetetlen biológiai sokféleségét kínálja.",
+      ro: "Una dintre cele mai vechi păduri tropicale din lume, oferind o biodiversitate incredibilă de floră și faună.",
+      en: "One of the oldest tropical rainforests in the world, offering an incredible biodiversity of flora and fauna."
+    },
+    facts: {
+      de: ["Der Name bedeutet wörtlich 'Nationalpark' auf Malaiisch.", "Hat den längsten Baumkronenpfad der Welt.", "Beheimatet seltene Tiere wie den malaiischen Tiger."],
+      hu: ["A neve szó szerint 'Nemzeti Parkot' jelent malájul.", "A világ leghosszabb lombkorona-sétányával rendelkezik.", "Olyan ritka állatoknak ad otthont, mint a maláj tigris."],
+      ro: ["Numele înseamnă literalmente 'Parcul Național' în malaeză.", "Are cea mai lungă pasarelă suspendată din lume.", "Găzduiește animale rare, precum tigrul malaezian."],
+      en: ["The name literally means 'National Park' in Malay.", "Has the world's longest canopy walkway.", "Home to rare animals like the Malayan tiger."]
+    }, image: "/poi-images/taman-negara-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Taman Negara ist das unbestrittene Kronjuwel der malaysischen Naturschutzgebiete und repräsentiert eines der ältesten intakten Regenwaldökosysteme unseres Planeten. Mit einem Alter von über 130 Millionen Jahren hat dieser dichte Dschungel Eiszeiten und kontinentale Verschiebungen unbeschadet überstanden. Das Gebiet, das sich über die Staaten Pahang, Kelantan und Terengganu erstreckt, wird vom mächtigen Tembeling-Fluss durchschnitten, der die wichtigste Transportroute in das Herz des Parks darstellt. Das undurchdringliche Blätterdach ist Heimat einer unglaublichen Artenvielfalt, darunter seltene Großsäuger wie der Malaiische Tiger, der Asiatische Elefant und das fast ausgestorbene Sumatra-Nashorn. Für Naturliebhaber bietet der längste Canopy Walkway der Welt eine unvergleichliche Möglichkeit, die reiche Vogel- und Insektenwelt in 40 Metern Höhe zu erforschen. Biologie K8 — Evolutionäre Kontinuität und tropische Primärwälder.",
+      hu: "A Taman Negara (ami malájul egyszerűen 'Nemzeti Parkot' jelent) a világ egyik legöregebb, mintegy 130 millió éves trópusi esőerdeje, amely túlélt több jégkorszakot is éghajlati stabilitásának köszönhetően. A 4343 négyzetkilométeres terület három állam határán fekszik, és a Maláj-félsziget legfontosabb biodiverzitási központja. Az őserdő rejti magában a Maláj-félsziget legmagasabb hegyét, a 2187 méteres Gunung Tahant, amelynek megmászása az ország egyik legnehezebb dzsungeltúrája. A sűrű növényzet olyan ritka és rejtőzködő nagyemlősöknek ad menedéket, mint a kritikusan veszélyeztetett maláj tigris, a gaur (ázsiai tapír) és az indiai elefánt. A biológia és földrajz oktatásában a primer esőerdők szinte sértetlen rétegződésének és a globális felmelegedés elleni küzdelem (szén-dioxid nyelő) fontosságának bemutatására szolgál.",
+      ro: "",
+      en: "Taman Negara, which literally translates to 'National Park' in Malay, is one of the world's oldest deciduous rainforests, estimated to be over 130 million years old. Established in 1938 as the King George V National Park, it was renamed after independence. The park spans across three states - Pahang, Kelantan, and Terengganu - and is home to a vast array of wildlife, including the critically endangered Malayan tiger, Asian elephant, and Sumatran rhinoceros. The park is a popular destination for eco-tourism, offering activities such as jungle trekking, bird watching, and fishing. The canopy walkway, one of the longest in the world, provides a stunning bird's-eye view of the rainforest."
+    },
+    factsAdvanced: {
+      de: ["Der Primärregenwald des Taman Negara ist nachweislich über 130 Millionen Jahre alt.", "Das Schutzgebiet umfasst eine massive Fläche von exakt 4.343 Quadratkilometern.", "Es wurde 1938 unter dem Namen King George V National Park gegründet.", "Der berühmte Canopy Walkway misst stolze 530 Meter in der Länge.", "Innerhalb der Parkgrenzen liegt der Gunung Tahan, der mit 2.187m höchste Berg der Halbinsel.", "Das Gebiet beheimatet noch kleine, isolierte Populationen des Malaiischen Tigers."],
+      hu: ["A dzsungel becsült kora 130 millió év, régebbi az Amazonas és a Kongó-medence erdeinél.", "Eredetileg 1938-ban alapították King George V Nemzeti Park néven.", "A hatalmas védett területen található a Gunung Tahan (2187 méter), a félsziget legmagasabb pontja.", "A park központjában húzódik a világ egyik leghosszabb (530 m) lombkorona-sétánya.", "Sűrű növényzete (dipterokarp erdők) mintegy 10 000 növényfajt rejt.", "A park folyóin tradicionális fahajókkal (perahu) lehet a legkönnyebben közlekedni."],
+      ro: [],
+      en: ["Age: Estimated to be over 130 million years old.", "Area: 4,343 square kilometers.", "Established: 1938, as King George V National Park.", "Canopy walkway: 530 meters long and 40 meters above the ground.", "Highest point: Gunung Tahan (2,187 m), the highest mountain in Peninsular Malaysia.", "Wildlife: Home to an estimated 150,000 species of insects, 25,000 species of invertebrates, 675 species of birds, and 200 species of mammals.", "Indigenous people: The park is home to the Batek people, a nomadic hunter-gatherer tribe.", "River cruises: Available on the Tembeling River."]
+    }
+  },
+  {
+    id: "kinabalu-park-nature-v2",
+    type: "national-park",
+    parent: "MY-12",
+    coords: [116.5425, 6.0753],
+    name: {
+      de: "Kinabalu-Park",
+      hu: "Kinabalu Park",
+      ro: "Parcul Kinabalu",
+      en: "Kinabalu Park"
+    },
+    description: {
+      de: "Ein weiteres UNESCO-Weltkulturerbe, das den Mount Kinabalu, den höchsten Berg Malaysias, umgibt und eine außergewöhnliche botanische Vielfalt aufweist.",
+      hu: "Egy másik UNESCO Világörökségi helyszín, amely Malajzia legmagasabb hegyét, a Kinabalu-hegyet öleli körül, és rendkívüli botanikai sokféleséggel rendelkezik.",
+      ro: "Un alt sit al Patrimoniului Mondial UNESCO care înconjoară Muntele Kinabalu, cel mai înalt munte din Malaezia, și prezintă o diversitate botanică excepțională.",
+      en: "Another UNESCO World Heritage site, surrounding Mount Kinabalu, Malaysia's highest mountain, and featuring exceptional botanical diversity."
+    },
+    facts: {
+      de: ["Beherbergt über 5.000 Pflanzenarten.", "Der Mount Kinabalu ist 4.095 Meter hoch.", "Eines der wichtigsten biologischen Zentren der Welt."],
+      hu: ["Több mint 5000 növényfajnak ad otthont.", "A Kinabalu-hegy 4095 méter magas.", "A világ egyik legfontosabb biológiai központja."],
+      ro: ["Găzduiește peste 5.000 de specii de plante.", "Muntele Kinabalu are 4.095 de metri înălțime.", "Unul dintre cele mai importante centre biologice din lume."],
+      en: ["Home to over 5,000 plant species.", "Mount Kinabalu is 4,095 meters high.", "One of the world's most important biological sites."]
+    }, image: "/poi-images/kinabalu-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kinabalu-Park in Sabah umspannt das gigantische Granitmassiv des Mount Kinabalu und ist ein globales Zentrum der floristischen Artenvielfalt. Dieses UNESCO-Weltnaturerbe zeichnet sich durch einen außergewöhnlichen Höhengradienten aus, der dazu führt, dass die Vegetation von tropischem Tieflandregenwald am Fuße des Berges in feuchte Bergnebelwälder und schließlich in karge alpine Buschzonen am Gipfel übergeht. Diese radikalen klimatischen Veränderungen auf engstem Raum haben zur Evolution von Tausenden endemischer Pflanzenarten geführt, die nirgendwo sonst auf der Welt vorkommen, darunter seltene fleischfressende Kannenpflanzen (Nepenthes) und mikroskopisch kleine Orchideen. Trotz der Tausenden von Bergsteigern, die den Gipfel jährlich erklimmen, sichert das strikte Management der Parkverwaltung, dass dieses zerbrechliche ökologische Gleichgewicht gewahrt bleibt. Biologie K8 — Endemismus, Höhenzonierung und alpine Tropengebiete.",
+      hu: "A Kinabalu Park Borneó szigetének északi csücskében, Sabah államban helyezkedik el, központjában a fenséges, gránitból álló Kinabalu-heggyel (4095 m). A park Malajzia első világörökségi helyszíne, melyet azért ismertek el, mert a trópusi síkságoktól az alpesi fahatárig terjedő hatalmas magasságkülönbség páratlan növényi sokféleséget hozott létre (több mint 5000 növényfaj él itt). Ez a terület a botanikusok paradicsoma: itt található a világ egyik leggazdagabb orchideagyűjteménye (köztük az apró, drágakőhöz hasonló fajok), valamint a világ legnagyobb húsevő növényei (Nepenthes rajah), amelyek edényei akár apró emlősöket is képesek megemészteni. A biológia, földrajz és geológia tantárgyak számára a tektonikus emelkedés (a hegy még mindig nő) és a növények magassági izolációjának (endemizmus) tankönyvi esete.",
+      ro: "",
+      en: "Kinabalu Park, located in Sabah, is Malaysia's first UNESCO World Heritage site, recognized for its outstanding universal values and its role as one of the world's most important biological sites. The park's centerpiece is Mount Kinabalu, the highest mountain in Malaysia, standing at 4,095 meters. The park boasts an incredible range of biodiversity, with over 5,000 vascular plant species, 326 bird species, and more than 100 mammal species. The vegetation zones on the mountain change with altitude, from lowland rainforest to alpine meadows. The park is also home to a large variety of carnivorous pitcher plants and the world's largest flower, the Rafflesia. The park is a popular destination for mountaineers, botanists, and nature lovers."
+    },
+    factsAdvanced: {
+      de: ["Der Nationalpark war im Jahr 2000 Malaysias erste anerkannte UNESCO-Welterbestätte.", "Er deckt eine Gesamtfläche von 754 Quadratkilometern rund um den Berg ab.", "Botaniker schätzen, dass hier über 5.000 verschiedene Pflanzenarten gedeihen.", "Mindestens 78 Pflanzenarten im Park sind streng endemisch und wachsen nur hier.", "Vier Arten der riesigen, parasitär wachsenden Rafflesia-Blume sind im Park heimisch.", "Der Park beheimatet die gigantische Kannenpflanze Nepenthes rajah."],
+      hu: ["2000-ben Malajzia első természeti UNESCO Világörökségi helyszíne lett.", "Több mint 5000 növényfaj él itt, ami a Föld összes növényfajának mintegy 2%-a.", "A parkban 4 különböző klímazóna (alföldi, hegyvidéki, szubalpin és alpesi) található.", "Otthont ad a gigantikus, akár 41 cm magas húsevő kancsókának (Nepenthes rajah).", "A hegy alapját képező gránittömb mintegy 15 millió éve alakult ki, és jelenleg is emelkedik.", "Több mint 320 madárfaj és mintegy 100 emlősfaj regisztrált élőhelye."],
+      ro: [],
+      en: ["UNESCO World Heritage Site: Inscribed in 2000.", "Mount Kinabalu: Highest mountain in Malaysia at 4,095.2 meters (13,435 ft).", "Biodiversity: Over 5,000 plant species, more than the whole of Europe and North America combined.", "Rafflesia: The park is one of the few places in the world to see the world's largest flower.", "Pitcher plants: Home to a large variety of Nepenthes species.", "Area: 754 square kilometers.", "Established: In 1964 as one of Malaysia's first national parks.", "Poring Hot Springs: A popular attraction within the park, known for its natural hot sulfur baths."]
+    }
+  },
+  {
+    id: "lake-kenyir-nature-v2",
+    type: "lake",
+    parent: "MY-11",
+    coords: [102.75, 4.9833],
+    name: {
+      de: "Kenyir-See",
+      hu: "Kenyir-tó",
+      ro: "Lacul Kenyir",
+      en: "Lake Kenyir"
+    },
+    description: {
+      de: "Der größte künstliche See in Südostasien, umgeben von üppigem Regenwald und Heimat Hunderter Inseln.",
+      hu: "Délkelet-Ázsia legnagyobb mesterséges tava, amelyet buja esőerdő vesz körül, és több száz szigetnek ad otthont.",
+      ro: "Cel mai mare lac artificial din Asia de Sud-Est, înconjurat de păduri tropicale luxuriante și găzduind sute de insule.",
+      en: "The largest man-made lake in Southeast Asia, surrounded by lush rainforest and home to hundreds of islands."
+    },
+    facts: {
+      de: ["Entstand durch den Bau des Kenyir-Staudamms.", "Beliebt zum Angeln und für Hausboot-Touren.", "Hat eine Fläche von etwa 380 Quadratkilometern."],
+      hu: ["A Kenyir gát megépítésével jött létre.", "Népszerű horgászhely és lakóhajó-túrák helyszíne.", "Területe körülbelül 380 négyzetkilométer."],
+      ro: ["Creat prin construirea barajului Kenyir.", "Popular pentru pescuit și excursii cu case plutitoare.", "Are o suprafață de aproximativ 380 de kilometri pătrați."],
+      en: ["Created by the construction of the Kenyir Dam.", "Popular for fishing and houseboat tours.", "Covers an area of about 380 square kilometers."]
+    }, image: "/poi-images/lake-kenyir-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lake Kenyir (Tasik Kenyir) im Bundesstaat Terengganu ist ein gewaltiges hydroelektrisches Reservoir und gleichzeitig der größte von Menschenhand geschaffene See Südostasiens. Entstanden in den 1980er Jahren durch die Stauung des Kenyir-Flusses, überflutete das Wasser ein riesiges Dschungelgebiet, wodurch Hunderte von Berggipfeln zu unberührten Inseln wurden. Heute ist der See ein Paradies für Ökotourismus, umgeben von dichtem Regenwald, versteckten Wasserfällen und tiefen Kalksteinhöhlen. Das nährstoffreiche Wasser zog eine immense Vielfalt an Süßwasserfischen an, was die Region zu einem weltweit bekannten Ziel für Sportfischer macht. Zudem wurde hier das Kenyir Elephant Conservation Village etabliert, das geretteten Elefanten eine sichere Zuflucht am Ufer des Sees bietet. Geografie K7 — Hydroelektrische Stauseen und die Entstehung neuer Ökosysteme.",
+      hu: "A Kenyir-tó (Tasik Kenyir) Terengganu államban található, és Délkelet-Ázsia legnagyobb mesterséges tava, amely több mint 260 000 hektáron terül el. A tavat 1985-ben hozták létre a Kenyir-folyó gáttal történő elrekesztésével, elsősorban hidroelektromos áramtermelés (Sultan Mahmud Erőmű) és az éves monszun-árvizek szabályozása céljából. A vízszint emelkedésekor a környező hegyek és dombok csúcsai mintegy 340 apró, sűrű dzsungellel borított szigetté alakultak át. A tó napjainkban ökoturisztikai központ, amely gazdag édesvízi halállományáról, lenyűgöző mészkőbarlangjairól (pl. Bewah-barlang) és eldugott vízeséseiről híres. A földrajz és a környezetgazdálkodás oktatásában a mega-gátak tájformáló, ökológiai és turisztikai hatásainak egyik legszebb délkelet-ázsiai példája.",
+      ro: "",
+      en: "Lake Kenyir, located in Terengganu, is the largest man-made lake in Southeast Asia. It was created in 1985 by the damming of the Kenyir River to generate hydroelectric power. The lake covers an area of 260 square kilometers and is dotted with over 340 islands, which were once hilltops. The lake has become a popular eco-tourism destination, offering a wide range of recreational activities such as fishing, boating, and kayaking. The surrounding rainforest is home to a variety of wildlife, including elephants, tigers, and hornbills. The lake is also home to numerous waterfalls, caves, and a fish sanctuary. The unique ecosystem of Lake Kenyir makes it a haven for nature lovers and anglers."
+    },
+    factsAdvanced: {
+      de: ["Der Stausee wurde 1985 durch den Bau des Kenyir-Staudamms vollendet.", "Die gigantische Wasseroberfläche erstreckt sich über 260 Quadratkilometer.", "Durch die Überflutung entstanden im See genau 340 kleine und große Inseln.", "Das Wasservolumen des Sees wird auf etwa 13,6 Milliarden Kubikmeter geschätzt.", "In der Region gibt es mehr als 14 spektakuläre Wasserfälle, darunter Lasir und Soak.", "Das Gewässer beherbergt über 300 katalogisierte Süßwasserfischarten."],
+      hu: ["Délkelet-Ázsia legnagyobb mesterséges vizű tava (területe kb. 2600 négyzetkilométer).", "Az 1985-ben átadott vízierőmű (Kenyir-gát) gátjának építése hozta létre.", "A völgy elárasztásával 340 önálló, dzsungellel borított sziget alakult ki.", "A tó vizében több mint 300 édesvízi halfaj (köztük a híres maláj Kelah) él.", "Partjainál található a Kelah-szentély, ahol a ritka halak szabadon úsznak az emberek között.", "A környező őserdő szorosan kapcsolódik a szomszédos Taman Negara Nemzeti Parkhoz."],
+      ro: [],
+      en: ["Type: Man-made lake, created in 1985.", "Area: 260 square kilometers, with over 340 islands.", "Largest in: Southeast Asia.", "Location: Hulu Terengganu, Terengganu, Malaysia.", "Purpose: Hydroelectric power generation by the Sultan Mahmud Power Station.", "Waterfalls: More than 14 waterfalls are found around the lake, including the popular Lasir and Saok waterfalls.", "Kelah Sanctuary: A sanctuary for the prized freshwater fish, the Malaysian Mahseer (Ikan Kelah).", "Caves: Bewah Cave and Taat Cave, which have archaeological significance."]
+    }
+  },
+  {
+    id: "beras-basah-island-nature-v2",
+    type: "island",
+    parent: "MY-02",
+    coords: [99.7214, 6.2736],
+    name: {
+      de: "Beras Basah Insel",
+      hu: "Beras Basah-sziget",
+      ro: "Insula Beras Basah",
+      en: "Beras Basah Island"
+    },
+    description: {
+      de: "Eine malerische Insel im Langkawi-Archipel mit weißen Sandstränden, klarem Wasser und üppiger Vegetation.",
+      hu: "Egy festői sziget a Langkawi-szigetcsoportban, fehér homokos strandokkal, tiszta vízzel és buja növényzettel.",
+      ro: "O insulă pitorească în arhipelagul Langkawi, cu plaje cu nisip alb, ape limpezi și vegetație luxuriantă.",
+      en: "A picturesque island in the Langkawi archipelago with white sandy beaches, clear waters, and lush vegetation."
+    },
+    facts: {
+      de: ["Der Name bedeutet 'Nasser Reis'.", "Ein beliebter Ort für Inselhopping-Touren.", "Keine ständige Besiedlung oder Unterkünfte."],
+      hu: ["A neve 'nedves rizst' jelent.", "Népszerű hely a szigettúrákhoz.", "Nincs állandó lakosság vagy szálláshely."],
+      ro: ["Numele înseamnă 'Orez Umed'.", "Un loc popular pentru tururile de insule.", "Fără așezări permanente sau cazare."],
+      en: ["The name means 'Wet Rice'.", "A popular spot for island hopping tours.", "No permanent settlement or accommodation."]
+    }, image: "/poi-images/beras-basah-island-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Insel Beras Basah ist ein unberührtes Naturparadies und gehört zu den beliebtesten Ausflugszielen des Langkawi-Archipels. Ihr Name, der auf Malaiisch nasser Reis bedeutet, geht auf lokale Mythen von im Meer versunkenen Handelsschiffen zurück. Die Insel zeichnet sich durch ihren extrem feinen, blendend weißen Sandstrand aus, der sanft in das kristallklare, türkisfarbene Wasser der Andamanensee abfällt. Umgeben von dichten, alten Kasuarinen-Bäumen, die natürlichen Schatten spenden, ist die Insel Heimat einer großen Population frecher Javaneraffen, die sich oft bis zum Strand vorwagen. Da es auf Beras Basah keinerlei Übernachtungsmöglichkeiten oder permanente Bebauung gibt, behält die Insel ihren wilden, unberührten Charakter und ist ausschließlich für Tagesausflügler zugänglich, was die Natur nachhaltig schützt. Geografie K6 — Archipel-Ökosysteme und unbewohnte Erholungsinseln.",
+      hu: "A Beras Basah-sziget (Pulau Beras Basah) a Langkawi-szigetcsoport egyik leglátogatottabb kis szigete, amely a félsziget nyugati partjainál, az Andamán-tengerben fekszik. A sziget neve ('Nedves Rizs') a helyi legendák szerint egy ősi viharról kapta a nevét, amely a rizsrakományt szállító hajókat borította a tengerbe. Lenyűgöző vizuális kontraszt jellemzi: egyik oldalán sűrű, érintetlen makákókkal teli trópusi dzsungel borítja, a tengerpartja mentén pedig vakítóan fehér homok és kristálytiszta, sekély víz fogadja a látogatókat. A sziget az ökoturizmus népszerű megállója az 'Island Hopping' (szigettúrák) során, de állandó infrastruktúra vagy szálláshely nem található rajta. A földrajz és biológia tanulmányozásában a trópusi tengerparti ökoszisztémák és az emberi zavarás (turizmus) hatásának egyensúlyozását illusztrálja.",
+      ro: "",
+      en: "Beras Basah Island, which translates to 'Wet Rice Island', is a picturesque island in the Langkawi archipelago. The island is a popular stop on island-hopping tours and is known for its pristine white sandy beaches, clear turquoise waters, and lush green forest. The island is uninhabited and offers a tranquil escape from the busier parts of Langkawi. Visitors can enjoy a variety of activities such as swimming, sunbathing, and snorkeling. The island's name is derived from a local legend about a giant who dropped a sack of wet rice on the island. Beras Basah Island is a perfect example of a tropical paradise, offering stunning natural beauty and a peaceful atmosphere."
+    },
+    factsAdvanced: {
+      de: ["Die Insel liegt im extrem flachen Küstengewässer südwestlich von Langkawi.", "Beras Basah bedeutet in der malaiischen Sprache wörtlich übersetzt nasser Reis.", "Es existieren keinerlei Hotels, Straßen oder permanente Gebäude auf der Insel.", "Das Eiland ist ein fester Bestandteil der berühmten Langkawi Island Hopping Touren.", "Starke Strömungen sind hier selten, was das Wasser ideal zum Schnorcheln macht.", "Auf der Insel lebt eine dominante, oft zutrauliche Population von Langschwanzmakaken."],
+      hu: ["A Langkawi-szigetcsoporthoz tartozó apró, lakatlan trópusi sziget az Andamán-tengeren.", "Neve malájul 'Nedves Rizst' jelent egy régi tengeri legenda nyomán.", "A szigeten jelentős vadon élő, gyakran az emberektől ételt lopó makákó populáció él.", "Sekély, áttetsző vize miatt az egyik legnépszerűbb sznorkelező hely a térségben.", "A szigeten környezetvédelmi okokból semmilyen tartós épület vagy szálloda nem épült.", "Gyakran látni a partjainál bóklászó ritka szarvascsőrű madarakat (hornbills)."],
+      ro: [],
+      en: ["Location: Part of the Langkawi archipelago, Kedah, Malaysia.", "Name meaning: 'Wet Rice Island'.", "Activities: Swimming, sunbathing, snorkeling, and picnicking.", "Accessibility: Accessible via a short boat ride from Langkawi's main island.", "Part of island-hopping tours: Usually included in tours along with Pulau Dayang Bunting and Pulau Singa Besar.", "Wildlife: Monkeys are often seen on the island.", "Facilities: Basic facilities such as toilets and food stalls are available.", "Legend: The island's name comes from a local legend involving a giant and a sack of wet rice."]
+    }
+  },
+  {
+    id: "cameron-highlands-forest-nature-v2",
+    type: "forest",
+    parent: "MY-06",
+    coords: [101.45, 4.5],
+    name: {
+      de: "Wälder der Cameron Highlands",
+      hu: "Cameron-felföld erdői",
+      ro: "Pădurile din Cameron Highlands",
+      en: "Cameron Highlands Forests"
+    },
+    description: {
+      de: "Ein Hochlandgebiet, das für seine ausgedehnten Teeplantagen und moosbewachsenen Wälder bekannt ist, die ein kühleres Klima als der Rest des Landes bieten.",
+      hu: "Egy felföldi terület, amely kiterjedt teaültetvényeiről és mohás erdőiről ismert, hűvösebb éghajlatot kínálva, mint az ország többi része.",
+      ro: "O regiune montană cunoscută pentru plantațiile sale extinse de ceai și pădurile acoperite de mușchi, oferind o climă mai răcoroasă decât restul țării.",
+      en: "A highland area known for its vast tea plantations and mossy forests, offering a cooler climate than the rest of the country."
+    },
+    facts: {
+      de: ["Das Zentrum des Teeanbaus in Malaysia.", "Die moosigen Wälder werden oft als 'Elfenwälder' bezeichnet.", "Ein beliebtes Ziel für Wanderer und Naturliebhaber."],
+      hu: ["Malajzia teaközpontja.", "A mohás erdőket gyakran 'tündérerdőknek' is nevezik.", "Népszerű célpont a túrázók és a természetbarátok számára."],
+      ro: ["Centrul cultivării ceaiului din Malaezia.", "Pădurile de mușchi sunt adesea numite 'păduri de zâne'.", "O destinație populară pentru drumeți și iubitorii de natură."],
+      en: ["The center of tea cultivation in Malaysia.", "The mossy forests are often called 'elfin forests'.", "A popular destination for hikers and nature lovers."]
+    }, image: "/poi-images/cameron-highlands-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Wälder der Cameron Highlands bieten ein außergewöhnliches Naturschauspiel, das sich stark von den heißen Tieflanddschungeln Malaysias unterscheidet. Besonders berühmt ist der hoch gelegene Nebelwald, oft als Mossy Forest (moosiger Wald) bezeichnet, in dem die tief liegenden Wolken und die konstante Feuchtigkeit dafür sorgen, dass jeder Baumstamm, jeder Ast und jeder Stein mit dicken Schichten aus grünem Moos, Flechten und Farnen überzogen ist. Diese surreale, fast märchenhafte Landschaft, die an Filmkulissen erinnert, beherbergt hochspezialisierte Pflanzen wie fleischfressende Kannenpflanzen und wilde, oft extrem seltene Bergorchideen. Das empfindliche Ökosystem fungiert wie ein gigantischer Schwamm, der das Regenwasser speichert und langsam in die Flüsse der Halbinsel abgibt. Um die massiven Trittschäden durch Touristen in dieser fragilen Umgebung zu minimieren, wurden in den letzten Jahren erhöhte Holzstege installiert. Biologie K8 — Montane Nebelwälder und Wasserspeicherungsökosysteme.",
+      hu: "A Cameron Highlands hegyvidéki erdejei (Montane Forest) Pahang államban, nagyjából 1500 méteres magasságban terülnek el, és teljesen más képet mutatnak, mint a maláj alföldi dzsungelek. Ez a hűvös, állandóan párás mikroklíma tartja fenn a lenyűgöző 'Mossy Forest' (Köderdő) nevű ökoszisztémát a Gunung Brinchang hegycsúcs közelében. Az itt található fák alacsonyak, csavart ágúak, és minden felületüket vastag moha-, zuzmó-, páfrány- és vad orchidearéteg borítja, mivel a növényzet a vizet közvetlenül az alacsonyan szálló felhőkből nyeri ki. Ez a tőzeges, szivacsos erdei talaj egy gigantikus vízgyűjtőként funkcionál, amely a Maláj-félsziget jelentős folyóit táplálja. Földrajz és biológia órákon a hegyvidéki köderdők (cloud forests) különleges vízmegtartó szerepének és misztikus atmoszférájának bemutatására szolgál.",
+      ro: "",
+      en: "The Cameron Highlands, a verdant plateau in Pahang, Malaysia, offers a refreshing escape from the tropical heat. Discovered by British surveyor Sir William Cameron in 1885, this region is renowned for its sprawling tea plantations and mist-covered mossy forests. The highlands' elevation, ranging from 1,100 to 1,800 meters, creates a unique microclimate that supports a diverse array of flora and fauna. Visitors can explore the mystical Mossy Forest via a boardwalk, spotting exotic pitcher plants, orchids, and a variety of birdlife. Beyond the tea estates, the area is a crucial agricultural zone for Malaysia, producing a significant portion of the nation's vegetables and flowers. The cool climate and stunning landscapes make the Cameron Highlands a popular destination for nature lovers and those seeking a tranquil retreat."
+    },
+    factsAdvanced: {
+      de: ["Der Mossy Forest liegt zumeist auf einer Höhe von über 2.000 Metern.", "Das Mikroklima ist durch eine fast permanente Wolkendecke extrem feucht und kühl.", "Die Temperaturen fallen in diesen Wäldern regelmäßig auf bis zu 10 °C ab.", "Das dichte Moos an den Bäumen kann sich wie ein Schwamm mit Wasser vollsaugen.", "Im Wald sind verschiedene Spezies fleischfressender Nepenthes-Pflanzen heimisch.", "Ein 200 Meter langer, erhöhter Holzsteg (Boardwalk) wurde zum Schutz des Bodens erbaut."],
+      hu: ["Az erdő átlagos tengerszint feletti magassága 1500–2000 méter között mozog.", "Legkülönlegesebb része a Gunung Brinchang lejtőin található 'Mossy Forest' (Köderdő).", "A fák a vizet közvetlenül az alacsonyan szálló felhőkből és párából (cloud-stripping) nyerik.", "Talaja vastag tőzegből áll, amely egy hatalmas természetes vízszűrőként működik.", "Egyedi, hidegtűrő (10-15 °C) hegyvidéki növényvilággal (pl. vad orchideák, húsevő növények) rendelkezik.", "A sűrű moharéteg miatt az erdő fái gnómszerűek és alacsony növésűek."],
+      ro: [],
+      en: ["Sir William Cameron first mapped the area in 1885 during a mapping expedition.", "The highlands are situated at an average elevation of 1,500 meters above sea level.", "The famous BOH Tea Plantation was founded in 1929 by J.A. Russell.", "Gunung Brinchang, one of the highest peaks, stands at 2,032 meters.", "The Mossy Forest is home to over 700 species of plants.", "The area's temperature typically ranges between 15°C and 25°C.", "The region is Malaysia's largest producer of tea, flowers and vegetables.", "It's a sanctuary for rare species like the Sumatran serow and the mountain peacock-pheasant."]
+    }
+  },
+  {
+    id: "kinabatangan-river-nature-v2",
+    type: "river",
+    parent: "MY-12",
+    coords: [118.4, 5.6667],
+    name: {
+      de: "Kinabatangan-Fluss",
+      hu: "Kinabatangan-folyó",
+      ro: "Râul Kinabatangan",
+      en: "Kinabatangan River"
+    },
+    description: {
+      de: "Der zweitlängste Fluss Malaysias, dessen Ufer eine der reichsten Konzentrationen an Wildtieren in Südostasien aufweisen.",
+      hu: "Malajzia második leghosszabb folyója, amelynek partjai Délkelet-Ázsia egyik leggazdagabb vadvilág-koncentrációjával rendelkeznek.",
+      ro: "Al doilea cel mai lung râu din Malaezia, ale cărui maluri prezintă una dintre cele mai bogate concentrații de faună sălbatică din Asia de Sud-Est.",
+      en: "The second longest river in Malaysia, its banks showcasing one of the richest concentrations of wildlife in Southeast Asia."
+    },
+    facts: {
+      de: ["Bekannt für Sichtungen von Orang-Utans, Nasenaffen und Zwergelefanten.", "Flusskreuzfahrten sind die beste Möglichkeit, die Tierwelt zu beobachten.", "Ein wichtiges Schutzgebiet für die Biodiversität."],
+      hu: ["Híres az orángutánok, borneói nagyorrúmajmok és borneói törpeelefántok megfigyeléséről.", "A folyami hajóutak a legjobb módja a vadvilág megfigyelésének.", "Fontos biodiverzitás-védelmi terület."],
+      ro: ["Renumit pentru observarea urangutanilor, maimuțelor proboscis și elefanților pigmei.", "Croazierele fluviale sunt cea mai bună modalitate de a observa fauna sălbatică.", "O zonă importantă de conservare a biodiversității."],
+      en: ["Known for sightings of orangutans, proboscis monkeys, and pygmy elephants.", "River cruises are the best way to observe wildlife.", "An important biodiversity conservation area."]
+    }, image: "/poi-images/kinabatangan-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kinabatangan in Sabah ist mit 560 Kilometern der längste Fluss des Bundesstaates und sein gewaltiges Überschwemmungsgebiet bildet eines der artenreichsten Wildtier-Habitate in ganz Asien. Da weite Teile der ursprünglichen Dschungellandschaft Borneos leider massiven Palmölplantagen weichen mussten, konzentriert sich die Tierwelt heute in den verbliebenen dichten Waldkorridoren entlang der Flussufer. Dieses Phänomen macht Bootssafaris auf dem Kinabatangan zu einem spektakulären Erlebnis, da man an den Ufern fast garantiert auf wilde Elefantenherden, Orang-Utans und seltene Krokodile trifft. Besonders bemerkenswert ist die hohe Dichte der endemischen, skurril aussehenden Nasenaffen, die abends stets in den Bäumen direkt am Wasser schlafen. Der Erhalt dieses schmalen, aber lebenswichtigen grünen Korridors ist von enormer Wichtigkeit für das Überleben der einzigartigen Tierwelt Ost-Borneos. Biologie K8 — Flussauenökosysteme, Habitatfragmentierung und Wildlife-Korridore.",
+      hu: "A Kinabatangan-folyó Sabah állam leghosszabb (560 km) folyója, mely a Crocker-hegységből eredve a Sulu-tengerbe ömlik. A folyó alsó folyása (Lower Kinabatangan) a világ egyik legfontosabb vadvédelmi és szafari helyszíne. Mivel a környező területeket jelentős mértékben átalakították pálmaolaj-ültetvényekké, a vadon élő állatok a folyó menti keskeny esőerdő-folyosóra ('corridor of life') szorultak be. Ez a ritka koncentráció egyedülálló lehetőséget nyújt a folyami hajózás ('river safari') során megfigyelni a Borneo 'Nagy Ötösét': a borneói törpeelefántokat, az orángutánokat, az ikonikus nagyorrú majmokat, a bordás krokodilokat és a ritka szarvascsőrű madarakat. A környezetismeret és biológia oktatásában az élőhelyek fragmentálódásának (fragmentation) és az ökológiai folyosók megmentő szerepének leglátványosabb délkelet-ázsiai példája.",
+      ro: "",
+      en: "The Kinabatangan River, Sabah's longest river, is a lifeline for one of the world's most diverse ecosystems. Stretching 560 kilometers from the mountains of southwest Sabah to the Sulu Sea, its lower reaches are a designated wildlife sanctuary. This region is one of only two places on Earth, along with Sumatra, where ten primate species are found, including the iconic proboscis monkey and Bornean orangutan. River cruises offer a unique opportunity to witness pygmy elephants, saltwater crocodiles, and a symphony of birdlife. The river's floodplain is a mosaic of habitats, including limestone caves, freshwater swamp forest, and mangrove swamps, all teeming with life. Conservation efforts are crucial in this area to protect its incredible biodiversity from the pressures of deforestation and agriculture."
+    },
+    factsAdvanced: {
+      de: ["Der Kinabatangan ist der zweitlängste Fluss in ganz Malaysia.", "Sein unterer Lauf wurde 2005 offiziell als Wildschutzgebiet ausgewiesen.", "Das Schutzgebiet (Kinabatangan Wildlife Sanctuary) umfasst rund 26.000 Hektar.", "Das Gebiet beheimatet die vom Aussterben bedrohten Borneo-Zwergelefanten.", "Zehn verschiedene Primatenarten sind in den Wäldern entlang des Flusses heimisch.", "Bei starken Monsunregen können die Wasserstände dramatisch um mehrere Meter ansteigen."],
+      hu: ["A maga 560 kilométerével Sabah állam leghosszabb, Malajzia második leghosszabb folyója.", "Alsó folyása mentén alakult ki a híres 'Kinabatangan Vadvédelmi Szentély'.", "Borneó ikonikus vadon élő állatainak (törpeelefánt, orángután, nagyorrú majom) menedéke.", "A környező erdőirtások miatt az élővilág a folyóparti sávba ('Corridor of Life') szorult.", "A folyó torkolatában Ázsia egyik legkiterjedtebb mangrovemocsár-rendszere található.", "A folyóban hatalmas, emberre is veszélyes bordás krokodilok (saltwater crocodiles) élnek."],
+      ro: [],
+      en: ["The Kinabatangan River is 560 kilometers long, making it the second longest river in Malaysia.", "The lower Kinabatangan floodplain was gazetted as a wildlife sanctuary in 2005.", "It is home to all eight species of hornbills found in Borneo.", "The area supports a population of around 1,000 Bornean orangutans.", "More than 250 species of birds have been recorded in the Kinabatangan.", "The Gomantong Caves, famous for their edible bird's nests, are located within the river's ecosystem.", "The river is a critical habitat for the Bornean pygmy elephant, a genetically distinct subspecies.", "The local Orang Sungai people have lived along the river for centuries, relying on it for their livelihood."]
+    }
+  },
+  {
+    id: "mount-kinabalu-nature-v2",
+    type: "mountain",
+    parent: "MY-12",
+    coords: [116.558, 6.073],
+    name: {
+      de: "Mount Kinabalu",
+      hu: "Kinabalu-hegy",
+      ro: "Muntele Kinabalu",
+      en: "Mount Kinabalu"
+    },
+    description: {
+      de: "Der höchste Berg in Malaysia und im Malaiischen Archipel. Er ist ein prominenter Teil des Kinabalu-Parks und ein beliebtes Ziel für Bergsteiger.",
+      hu: "Malajzia és a Maláj-szigetvilág legmagasabb hegye. A Kinabalu Park kiemelkedő része, és a hegymászók kedvelt célpontja.",
+      ro: "Cel mai înalt munte din Malaezia și din Arhipelagul Malaez. Este o parte proeminentă a Parcului Kinabalu și o destinație populară pentru alpiniști.",
+      en: "The highest mountain in Malaysia and the Malay Archipelago. It is a prominent part of Kinabalu Park and a popular destination for climbers."
+    },
+    facts: {
+      de: ["Seine Höhe beträgt 4.095 Meter.", "Der Aufstieg dauert in der Regel zwei Tage.", "Der Name hat seinen Ursprung in der Kadazan-Dusun-Legende 'Aki Nabalu' (Der verehrte Ort der Toten)."],
+      hu: ["Magassága 4095 méter.", "A megmászása általában két napot vesz igénybe.", "Neve a kadazan-dusun 'Aki Nabalu' (A holtak tiszteletreméltó helye) legendájából származik."],
+      ro: ["Înălțimea sa este de 4.095 de metri.", "Urcarea durează de obicei două zile.", "Numele provine din legenda Kadazan-Dusun 'Aki Nabalu' (Locul venerat al morților)."],
+      en: ["Its height is 4,095 meters.", "The climb usually takes two days.", "The name originates from the Kadazan-Dusun legend 'Aki Nabalu' (The revered place of the dead)."]
+    }, image: "/poi-images/mount-kinabalu-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Kinabalu (Gunung Kinabalu) ist das kolossale, unübersehbare geologische Herzstück der Insel Borneo und der höchste Gipfel Malaysias. Dieses massive Granitgebirge wurde tief im Erdinneren geformt und wird durch anhaltende tektonische Bewegungen noch immer langsam angehoben. Seine steilen, oft in tiefe Wolken gehüllten Flanken sind durch die extremen Witterungsbedingungen und frühere eiszeitliche Gletscherbewegungen stark zerklüftet. Die oberen Regionen ab 3.300 Metern sind eine fremdartig wirkende, raue Mondlandschaft aus nacktem Gestein, das von markanten, spitzen Zinnen wie dem bekannten Donkey's Ears Peak gekrönt wird. Trotz der scheinbaren Lebensfeindlichkeit in der Höhe klammern sich robuste alpine Pflanzen in die Felsspalten. Der Berg stellt nicht nur eine enorme physische Herausforderung für Kletterer dar, sondern ist auch das zentrale spirituelle Monument der lokalen Kadazan-Dusun Kultur. Geografie K8 — Alpine Geomorphologie, Vergletscherung und tektonische Hebung.",
+      hu: "A Mount Kinabalu (Kinabalu-hegy) a borneói Crocker-hegység északi részén magasodik 4095 méterrel a tengerszint felé. Ez nem egy hagyományos, lemezek gyűrődéséből származó hegy, hanem egy hatalmas, fiatal gránit intruzió (pluton), amely mintegy 15 millió évvel ezelőtt nyomult fel a földkérgen keresztül, és geológiai értelemben ma is emelkedik (évente kb. 5 mm-t). A csúcsrégió, a Low's Peak környéke hatalmas, U alakú völgyeket és simára csiszolt, holdbéli gránitplatókat mutat, amelyeket a jégkorszaki gleccserek formáltak. A hegy pereménél lévő 1200 méter mély szakadék (Low's Gully) a világ egyik legimpozánsabb szakadéka. A földrajz és geológia oktatásában a magmás kőzetek felszínre törésének, a jégkorszaki glaciális eróziónak és a hegyképződés modern folyamatainak drámai bemutatóhelye.",
+      ro: "",
+      en: "Mount Kinabalu, Southeast Asia's highest peak, is a majestic granite massif that dominates the landscape of Sabah, Borneo. Standing at 4,095 meters, it is the centerpiece of Kinabalu Park, a UNESCO World Heritage Site. The mountain is not just a physical challenge but a journey through diverse ecological zones, from lush tropical rainforest at its base to the barren, rocky summit. It is a hotspot of biodiversity, boasting one of the world's highest concentrations of endemic species, including over 5,000 vascular plant species and the famous Rafflesia flower. The climb to the summit, Low's Peak, is a two-day, one-night affair for most, culminating in a breathtaking sunrise view above the clouds. The mountain holds deep spiritual significance for the local Kadazan-Dusun people, who believe it to be the sacred resting place of their ancestors' spirits."
+    },
+    factsAdvanced: {
+      de: ["Die offizielle Höhe des Gipfels, des Low's Peak, beträgt exakt 4.095,2 Meter.", "Der Berg besteht hauptsächlich aus Plutonit (Granodiorit), das vor Millionen Jahren aufstieg.", "Der Gipfelbereich weist sichtbare Spuren glazialer Erosion (Eiszeit) auf.", "Die erste nachgewiesene Besteigung erfolgte 1851 durch den Briten Hugh Low.", "Aufgrund geologischer Aktivität wächst das Massiv um etwa 5 Millimeter im Jahr.", "Im Jahr 2015 veränderte ein Erdbeben der Stärke 6,0 die Form der Donkey's Ears Felsen."],
+      hu: ["A hegycsúcs (Low's Peak) pontosan 4095 méter magas.", "Geológiailag egy gigantikus gránit pluton, amely még ma is évi kb. 5 mm-t emelkedik.", "A hegycsúcs holdbéli, sima gránitfelszínét a pleisztocén kori gleccserek csiszolták ki.", "A csúcs mellett nyílik a híres Low's Gully, egy több mint 1200 méter mély, szinte függőleges szakadék.", "A hegy neve a kadazan-dusun őslakosok 'Aki Nabalu' szavából ered, ami a holtak hegyét jelenti.", "2015-ben egy ritka (5,9-es erősségű) földrengés jelentős omlásokat okozott a hegy gránitfalain."],
+      ro: [],
+      en: ["Mount Kinabalu's height is 4,095 meters (13,435 feet) above sea level.", "It was designated as Malaysia's first UNESCO World Heritage Site in 2000.", "The mountain is home to over 5,000 plant species, more than Europe and North America combined.", "The world's largest pitcher plant, Nepenthes rajah, is endemic to Mount Kinabalu.", "The first recorded ascent was made by British colonial administrator Hugh Low in 1851.", "The via ferrata at Panalaban is the world's highest, starting at 3,200 meters.", "The mountain is a granite pluton formed around 10 million years ago.", "The temperature at the summit can drop to below freezing, sometimes with frost or ice."]
+    }
+  },
+  {
+    id: "bako-national-park-nature-v2",
+    type: "national-park",
+    parent: "MY-13",
+    coords: [110.4667, 1.7],
+    name: {
+      de: "Bako-Nationalpark",
+      hu: "Bako Nemzeti Park",
+      ro: "Parcul Național Bako",
+      en: "Bako National Park"
+    },
+    description: {
+      de: "Der älteste Nationalpark in Sarawak, der für seine außergewöhnliche Vielfalt an Ökosystemen auf kleinem Raum bekannt ist, von Mangrovenwäldern bis zu Klippenvegetation.",
+      hu: "Sarawak legrégebbi nemzeti parkja, amely kis területen található ökoszisztémáinak rendkívüli sokféleségéről ismert, a mangroveerdőktől a sziklanövényzetig.",
+      ro: "Cel mai vechi parc național din Sarawak, cunoscut pentru diversitatea sa extraordinară de ecosisteme într-o zonă mică, de la păduri de mangrove la vegetație de stâncă.",
+      en: "The oldest national park in Sarawak, known for its extraordinary diversity of ecosystems in a small area, from mangrove forests to cliff vegetation."
+    },
+    facts: {
+      de: ["Heimat der seltenen Nasenaffen.", "Umfasst sieben verschiedene Regenwaldtypen.", "Erreichbar nur per Boot."],
+      hu: ["A ritka borneói nagyorrúmajmok otthona.", "Hét különböző esőerdőtípust foglal magában.", "Csak csónakkal érhető el."],
+      ro: ["Acasă pentru maimuțele proboscis rare.", "Cuprinde șapte tipuri diferite de pădure tropicală.", "Accesibil doar cu barca."],
+      en: ["Home to the rare proboscis monkeys.", "Includes seven distinct rainforest types.", "Accessible only by boat."]
+    }, image: "/poi-images/bako-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bako Nationalpark in Sarawak ist ein bemerkenswertes Naturjuwel, das auf kleinstem Raum eine dramatische Symbiose von tiefem Regenwald und rauer, vom Ozean geformter Küstenlinie bietet. Millionen Jahre von Wind, stürmischen Monsunwellen und Gezeiten haben den weichen Sandstein an der Küste in bizarre Formen gemeißelt, wobei der Sea Stack, der wie der gigantische Kopf einer Kobra aussieht, das berühmteste Wahrzeichen ist. Das Hinterland ist eine abwechslungsreiche Landschaft, in der sich dichte Mangrovensümpfe, steile Klippen und nährstoffarme Kerangas-Wälder abwechseln. Diese ökologische Vielfalt zieht eine immense Fauna an; Bako ist weithin als der absolut beste Ort bekannt, um wilde Nasenaffen, flinke Makaken und bärtige Wildschweine auf ihren täglichen Futtersuchen entlang der Strände und Baumkronen zu beobachten. Biologie K7 — Küstenerosion, geologische Formationen und Primatenhabitate.",
+      hu: "A Bako Nemzeti Park a Muara Tebas félszigeten, a Dél-kínai-tenger partján található Sarawak államban. Geológiai vonzerejét az évmilliók tengeri és szél általi eróziója által kifaragott, függőleges homokkő sziklafalai adják. A hullámzás drámai formákat, hatalmas tengeri barlangokat, sziklaíveket és oszlopokat (Sea Stacks) hozott létre; a leghíresebb egy kobrafejet formázó, vízből kiemelkedő sziklatömb (Cobra Head Sea Stack). E rideg kőzetek tetején vékony, tápanyagszegény podzoltalaj alakult ki, amely alkalmazkodásra kényszerítette a növényeket, így itt található Borneó egyik legfontosabb húsevő növény (kancsóka és harmatfű) gyűjteménye. Földrajz és geológia órákon a tengeri erózió, az abrázió és a tápanyagszegény talajokhoz (kerangas) alkalmazkodó flóra tökéletes vizuális példája.",
+      ro: "",
+      en: "Bako National Park, located on the Muara Tebas peninsula in Sarawak, is a compact treasure trove of Bornean biodiversity. Despite its relatively small size, it contains an astonishing variety of ecosystems, including mangrove forests, dipterocarp forests, and delicate cliff vegetation. The park is most famous for its population of proboscis monkeys, the long-nosed primates endemic to Borneo. Visitors can often spot them foraging in the mangroves near the park headquarters. Bako is also home to long-tailed macaques, silvered langurs, and the Bornean bearded pig. A network of 16 walking trails offers access to secluded beaches, stunning viewpoints, and unique geological formations like the iconic sea stacks. This park, established in 1957, is Sarawak's oldest and provides a perfect introduction to the wildlife and landscapes of Borneo."
+    },
+    factsAdvanced: {
+      de: ["Der Bako Nationalpark erstreckt sich über eine kompakte Fläche von nur 27 Quadratkilometern.", "Er wurde 1957 gegründet und ist der älteste Nationalpark im Bundesstaat Sarawak.", "Die markanten Felsformationen (Sea Stacks) bestehen fast vollständig aus rotem Sandstein.", "Der Wald beheimatet vier der auf Borneo heimischen Affenarten.", "Trockene Kerangas-Wälder im Park zwingen Pflanzen zur Ausbildung fleischfressender Eigenschaften.", "Rund 150 der stark bedrohten Nasenaffen bevölkern die Mangrovengürtel des Parks."],
+      hu: ["A part menti sziklák lágy homokkőből (sandstone) állnak, amelyeket a tenger folyamatosan formál.", "A legikonikusabb geológiai képződménye a tengerből kiemelkedő 'Kobrafej' szikla (Sea Stack).", "A park fennsíkját tápanyagszegény, savas homokos podzoltalaj (kerangas) borítja.", "A talaj ásványianyag-hiánya miatt számos húsevő növény (pl. Nepenthes fajok) él itt.", "A sziklákat a vas-oxid rétegződése miatt lenyűgöző rózsaszín, sárga és barna sávok díszítik.", "Az erózió számos 'tengeri ívet' és mély parti barlangot vájt a félsziget oldalaiba."],
+      ro: [],
+      en: ["Bako National Park was established in 1957, making it the oldest national park in Sarawak.", "The park covers an area of just 27 square kilometers.", "It is home to approximately 275 proboscis monkeys.", "There are 16 marked trails of varying lengths and difficulties within the park.", "The iconic sea stack, shaped by erosion, is a major landmark of the park.", "Bako is home to seven distinct forest types.", "Over 150 species of birds have been recorded in the park.", "The park is only accessible by a 20-minute boat ride from Kampung Bako."]
+    }
+  },
+  {
+    id: "pulau-tioman-nature-v2",
+    type: "island",
+    parent: "MY-06",
+    coords: [104.155, 2.78],
+    name: {
+      de: "Pulau Tioman",
+      hu: "Tioman-sziget",
+      ro: "Insula Tioman",
+      en: "Tioman Island"
+    },
+    description: {
+      de: "Eine dicht bewaldete, dünn besiedelte Insel vor der Ostküste der malaiischen Halbinsel, die für ihre Korallenriffe, Wasserfälle und Strände bekannt ist.",
+      hu: "Egy sűrűn erdős, ritkán lakott sziget a Maláj-félsziget keleti partjainál, amely korallzátonyairól, vízeséseiről és strandjairól ismert.",
+      ro: "O insulă dens împădurită, slab populată, în largul coastei de est a Peninsulei Malaeziene, cunoscută pentru recifele de corali, cascade și plaje.",
+      en: "A densely forested, sparsely populated island off the east coast of Peninsular Malaysia, known for its coral reefs, waterfalls, and beaches."
+    },
+    facts: {
+      de: ["Wurde im Film 'South Pacific' als Kulisse für 'Bali Ha'i' verwendet.", "Ein ausgezeichneter Ort zum Tauchen und Schnorcheln.", "Gilt als zollfreie Zone."],
+      hu: ["A 'South Pacific' című filmben 'Bali Ha'i' helyszínéül szolgált.", "Kiváló hely a búvárkodáshoz és a sznorkelezéshez.", "Vámmentes övezetnek számít."],
+      ro: ["A fost folosită ca decor pentru 'Bali Ha'i' în filmul 'South Pacific'.", "Un loc excelent pentru scufundări și snorkeling.", "Considerată o zonă duty-free."],
+      en: ["Was used as the location for 'Bali Ha'i' in the film 'South Pacific'.", "An excellent spot for diving and snorkeling.", "Considered a duty-free zone."]
+    }, image: "/poi-images/pulau-tioman-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Pulau Tioman ist eine majestätische, vulkanische Insel im Südchinesischen Meer, die oft als Kulisse für Hollywood-Filme genutzt wurde und bis heute den ultimativen Inbegriff eines tropischen Rückzugsortes verkörpert. Die Insel besteht aus einem zentralen, dicht bewaldeten Gebirgsmassiv, das im markanten Zwillingsgipfel des Gunung Nenek Semukut (den Drachenhörnern) gipfelt, dessen vertikale Granitwände Kletterer aus aller Welt herausfordern. Die dichten Dschungelhänge fallen steil ins Meer ab, wo sie von endlosen, lebendigen Korallenriffen umgeben sind, die Pulau Tioman zu einem der premiersten Tauchreviere Südostasiens machen. Trotz der touristischen Erschließung an der Westküste bleibt der Großteil der Inselfläche eine wilde, unberührte Naturreserve, die eine Fülle an großen Waranen, frechen Makaken und unzähligen Vogelarten beheimatet. Geografie K7 — Vulkaninseln, Korallenriffe und Naturtourismus.",
+      hu: "Pulau Tioman egy csepp alakú vulkanikus sziget a Dél-kínai-tengerben, Pahang partjaitól mintegy 50 kilométerre. Geológiailag a sziget egy hatalmas, sűrű dzsungellel borított ősi vulkáni kaldera maradványa, amelynek legmagasabb pontja a sziklaszerű Gunung Kajang (1038 m). A szigetet egy 1958-as magazin a 'világ tíz legszebb szigete' közé választotta, és az 1950-es évek legendás Hollywood-i filmje, a South Pacific is itt forgott. Tioman partjait gazdag, egészséges fringing (part menti) korallzátonyok övezik, amelyek az ország legnépszerűbb búvárparadicsomává teszik. Érdekesség, hogy a sziget belső esőerdei a szárazföldtől való elszigeteltség miatt számos endémikus (csak itt élő) fajnak adnak otthont, köztük egy ritka sétálóharcsa fajnak. Földrajz oktatásban a kontinentális vulkáni szigetek és az izolált evolúció ('sziget-effektus') klasszikus esettanulmánya.",
+      ro: "",
+      en: "Pulau Tioman, a jewel of an island off the east coast of Peninsular Malaysia, is a paradise for divers and nature lovers. Legend has it that the island is the final resting place of a mythical dragon princess. Today, its clear turquoise waters, vibrant coral reefs, and lush rainforest interior attract visitors from around the world. The island is a protected marine park, and its reefs are home to a dazzling array of marine life, including sea turtles, blacktip reef sharks, and countless species of colorful fish. On land, the dense jungle is crisscrossed with trekking trails, leading to hidden waterfalls and traditional villages. The twin peaks of Nenek Semukut and Batu Sirau provide a dramatic backdrop to the idyllic beaches. From snorkeling in Salang Bay to relaxing on the golden sands of Juara Beach, Tioman offers a perfect blend of adventure and tranquility."
+    },
+    factsAdvanced: {
+      de: ["Tioman ist die flächenmäßig größte Insel an der Ostküste der malaiischen Halbinsel.", "Der höchste Punkt der Insel ist der Berg Gunung Kajang mit 1.038 Metern Höhe.", "Das markante Felsmassiv Nenek Semukut wird häufig auch als Dragon Horns bezeichnet.", "Das TIME-Magazin wählte Tioman in den 1970er Jahren zu einer der schönsten Inseln der Welt.", "Die Insel diente als Kulisse für den berühmten Hollywood-Musicalfilm South Pacific (1958).", "Rund um die Insel befinden sich über 20 hochwertige, leicht zugängliche Tauchspots."],
+      hu: ["A Pahang állam partjaitól 52 kilométerre fekvő vulkáni eredetű sziget.", "A sziget közepén a Gunung Kajang csúcsa 1038 méter magasan emelkedik az óceán fölé.", "A part menti korallzátonyok (Fringing reefs) jelentős tengeri rezervátumnak számítanak.", "Hollywood itt forgatta az 1958-as 'South Pacific' (Déli Csendes-óceán) című kasszasikert.", "Több endemikus (csak itt honos) állatfaj él rajta a szárazföldtől való izoláció miatt.", "Legendája szerint egy mitikus sárkányhercegnő változott a szigetté, miközben Kínából repült."],
+      ro: [],
+      en: ["Tioman was used as the filming location for the 1958 movie 'South Pacific'.", "The island is part of the Mersing Marine Park, established in 1994.", "It is home to the endemic Tioman walking catfish.", "The island has a population of around 3,700 people, spread across several villages.", "Juara Beach is a nesting site for green and hawksbill turtles.", "The highest point on the island is Gunung Kajang, at 1,038 meters.", "There are over 45 species of mammals and 138 species of birds on the island.", "The island was declared a duty-free zone in 2002."]
+    }
+  },
+  {
+    id: "tasik-chini-nature-v2",
+    type: "lake",
+    parent: "MY-06",
+    coords: [102.92, 3.439],
+    name: {
+      de: "Tasik Chini",
+      hu: "Tasik Chini",
+      ro: "Lacul Chini",
+      en: "Lake Chini"
+    },
+    description: {
+      de: "Ein System von zwölf miteinander verbundenen Seen in Pahang, bekannt für seine Lotosblumen und die Legende eines Drachen, der in seinen Tiefen leben soll.",
+      hu: "Tizenkét összekapcsolt tóból álló rendszer Pahangban, amely lótuszvirágairól és a mélyén állítólag élő sárkány legendájáról ismert.",
+      ro: "Un sistem de douăsprezece lacuri interconectate din Pahang, renumit pentru florile de lotus și legenda unui dragon care se spune că locuiește în adâncurile sale.",
+      en: "A system of twelve interconnected lakes in Pahang, famous for its lotus flowers and the legend of a dragon said to live in its depths."
+    },
+    facts: {
+      de: ["Das zweitgrößte Süßwassersee-System in Malaysia.", "Ein UNESCO-Biosphärenreservat.", "Die Lotusblumen blühen von Juni bis September."],
+      hu: ["Malajzia második legnagyobb édesvizű tórendszere.", "UNESCO Bioszféra-rezervátum.", "A lótuszvirágok júniustól szeptemberig virágoznak."],
+      ro: ["Al doilea cel mai mare sistem de lacuri de apă dulce din Malaezia.", "O rezervație a biosferei UNESCO.", "Florile de lotus înfloresc din iunie până în septembrie."],
+      en: ["The second largest freshwater lake system in Malaysia.", "A UNESCO Biosphere Reserve.", "The lotus flowers bloom from June to September."]
+    }, image: "/poi-images/tasik-chini-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Tasik Chini im Bundesstaat Pahang ist nicht nur der zweitgrößte natürliche Süßwassersee in Malaysia, sondern auch ein Ort, der tief in Mythen und lokalen Legenden verwurzelt ist. Das Gewässer besteht eigentlich aus einer komplexen Reihe von zwölf miteinander verbundenen Wasserbecken, die sich in den ausgedehnten Überflutungswäldern verflechten. Zwischen August und September verwandelt sich die Seeoberfläche in ein unglaubliches Naturschauspiel, wenn Tausende von rosa Lotusblumen und weißen Seerosen fast die gesamte Wasserfläche bedecken. Der See ist auch stark mit der Mythologie der lokalen Orang Asli verbunden, die glauben, dass in seinen Tiefen ein riesiges schlangenähnliches Monster (Naga) haust und Überreste einer versunkenen Khmer-Stadt verborgen liegen. Trotz der Anerkennung als UNESCO-Biosphärenreservat steht das hochsensible Ökosystem des Sees unter starkem Druck durch nahen Bergbau und landwirtschaftlichen Abfluss. Biologie K7 — Süßwasserökosysteme, Biosphärenreservate und Umweltbedrohungen.",
+      hu: "A Tasik Chini Malajzia második legnagyobb természetes édesvízi tava, amely Pahang állam dzsungelének mélyén található. A tó valójában nem egyetlen víztest, hanem 12 összekapcsolódó, nyílt vizű vízmedence (malájul 'laut') sorozata, amelyek egy bonyolult mocsári ökoszisztémát alkotnak a Pahang-folyó árterületén. A tó legendás státuszát egy ősi mítosznak köszönheti, miszerint mélyén egy hatalmas sárkány (Naga Sri Gumum) lakik, illetve állítólag egy elsüllyedt khmer város romjait rejti a víz. Augusztus és szeptember között a tó felülete varázslatos látványt nyújt, amikor több ezer rózsaszín és fehér lótuszvirág nyílik ki a vízen. Sajnos a környező bányászat és fakitermelés miatt a tó ökológiai egyensúlya súlyosan veszélybe került az elmúlt években. A környezetismeret oktatásban az édesvízi ártéri mocsarak (wetlands) érzékenységének és a túlzott antropogén beavatkozás veszélyeinek mintapéldája.",
+      ro: "",
+      en: "Tasik Chini, Malaysia's second-largest freshwater lake, is a place of myth and legend. Located in Pahang, this series of 12 interconnected lakes is said to be the site of a sunken ancient Khmer city. The lake is famous for its vast carpet of pink and white lotus flowers, which bloom between June and September, creating a breathtaking spectacle. The surrounding forests are home to the Jakun Orang Asli tribe, who have lived in harmony with the lake for centuries. Tasik Chini is a biodiversity hotspot, with over 144 species of fish and 300 species of non-aquatic vertebrates. Visitors can take boat trips to explore the different lakes, visit the Orang Asli villages, and trek in the surrounding jungle. However, in recent years, the lake has faced environmental threats from logging and mining activities, making conservation efforts more critical than ever."
+    },
+    factsAdvanced: {
+      de: ["Tasik Chini besteht aus einem Netzwerk von zwölf kleinen, zusammenhängenden Seen.", "Im Jahr 2009 wurde das Gebiet offiziell zum UNESCO-Biosphärenreservat erklärt.", "Der See umfasst eine Wasser- und Sumpffläche von gut 5.026 Hektar.", "Die Orang Asli vom Stamm der Jakun bewohnen die Wälder rund um die Ufer.", "Ein lokaler Mythos besagt, dass ein Drachenmonster namens Naga Seri Gumum den See bewacht.", "In den Sommermonaten blühen hier gigantische Teppiche des indischen Lotus (Nelumbo nucifera)."],
+      hu: ["Malajzia második legnagyobb, természetes úton kialakult édesvízi tórendszere.", "Valójában 12 kisebb, csatornákkal összekapcsolt vízmedencéből (laut) áll.", "2009-ben az UNESCO Malajzia első Bioszféra-rezervátumává minősítette.", "Híres a felszínét minden évben beborító, nyíló lótuszvirágok hatalmas mezejéről.", "Helyi legendák szerint a vizében egy mitikus sárkány, a Naga Sri Gumum él.", "A tó partján a Jakun nevű őslakos törzs (Orang Asli) hagyományos falvai találhatók."],
+      ro: [],
+      en: ["Tasik Chini is made up of 12 interconnected lakes, covering an area of 5,084 hectares.", "It was recognized as a UNESCO Biosphere Reserve site in 2009.", "The lake's water level can fluctuate by up to 5 meters between the wet and dry seasons.", "The lotus bloom, a major attraction, occurs from June to September.", "The lake is home to the Jakun Orang Asli, one of the indigenous tribes of Malaysia.", "Local legends speak of a dragon, Naga Seri Gumum, that guards the lake.", "Over 144 species of freshwater fish have been recorded in the lake.", "The lake's ecosystem has been threatened by nearby mining and logging activities."]
+    }
+  },
+  {
+    id: "gunung-ledang-national-park-nature-v2",
+    type: "national-park",
+    parent: "MY-01",
+    coords: [102.61, 2.37],
+    name: {
+      de: "Gunung-Ledang-Nationalpark",
+      hu: "Gunung Ledang Nemzeti Park",
+      ro: "Parcul Național Gunung Ledang",
+      en: "Gunung Ledang National Park"
+    },
+    description: {
+      de: "Dieser Park in Johor beherbergt den berühmten Mount Ophir (Gunung Ledang), einen der sagenumwobensten Berge Malaysias, der mit Mythen und Legenden verbunden ist.",
+      hu: "Ez a johori park ad otthont a híres Ophir-hegynek (Gunung Ledang), Malajzia egyik leglegendásabb hegyének, amelyet mítoszok és legendák öveznek.",
+      ro: "Acest parc din Johor găzduiește faimosul Munte Ophir (Gunung Ledang), unul dintre cei mai legendari munți din Malaezia, asociat cu mituri și legende.",
+      en: "Located in Johor, this park is home to the famous Mount Ophir (Gunung Ledang), one of Malaysia's most legendary mountains, associated with myths and legends."
+    },
+    facts: {
+      de: ["Beliebtes Wanderziel in West-Malaysia.", "Der Legende nach die Heimat einer ätherischen Prinzessin.", "Bietet eine reiche Flora und Fauna, einschließlich verschiedener Vogelarten."],
+      hu: ["Népszerű túrázóhely Nyugat-Malajziában.", "A legenda szerint egy éteri hercegnő otthona.", "Gazdag növény- és állatvilággal rendelkezik, beleértve különböző madárfajokat."],
+      ro: ["Destinație populară pentru drumeții în Malaezia de Vest.", "Legenda spune că este casa unei prințese eterice.", "Oferă o floră și faună bogată, inclusiv diverse specii de păsări."],
+      en: ["Popular hiking destination in West Malaysia.", "According to legend, the home of an ethereal princess.", "Offers rich flora and fauna, including various bird species."]
+    }, image: "/poi-images/gunung-ledang-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Gunung Ledang Nationalpark schützt den markanten Mount Ophir, der mit seinen 1.276 Metern majestätisch über die flachen Küstenebenen von Johor und Melaka ragt. Der dichte, ursprüngliche Regenwald des Berges ist ein Paradies für Wanderer und Naturforscher, das besonders für seine tosenden Wasserfälle, wie den beliebten Puteri-Wasserfall am Fuße des Berges, berühmt ist. Doch was den Berg wirklich landesweit einzigartig macht, ist seine tiefe Verankerung in der malaiischen Folklore. Eine berühmte Legende erzählt von der unsterblichen Feenprinzessin Puteri Gunung Ledang, die auf dem Gipfel lebte und dem Sultan von Malakka unmögliche Bedingungen für eine Heirat stellte. Diese mystische Aura, gepaart mit einer immensen Artenvielfalt an seltenen Orchideen und Schmetterlingen, macht den anspruchsvollen Trek zum Gipfel zu einem der faszinierendsten Naturerlebnisse der südlichen Halbinsel. Biologie K6 — Tropische Gebirgsökosysteme und ihre Verknüpfung mit Volksmythen.",
+      hu: "A Gunung Ledang Nemzeti Park (angolul Mount Ophir) Johor állam északi részén található, és a 1276 méter magas Gunung Ledang hegy köré összpontosul, amely Johor legmagasabb pontja. A hegy nemcsak gazdag flórájáról (pl. ritka húsevő növények) és fárasztó dzsungeltúra-útvonalairól, a híres Puteri-vízesésről ismert, hanem az ország egyik leghíresebb történelmi legendájáról is. A monda szerint a csúcson élt a gyönyörű, halhatatlan Tündérhercegnő (Puteri Gunung Ledang), aki a malakkai szultán házassági ajánlatát lehetetlen feltételekhez kötötte – köztük hét tálca szúnyogszívhez és egy ezüst hídhoz Malakkából a hegyig. A hegyvidéki dzsungel sűrű és párás, a csúcsot gyakran ködfátyol borítja, növelve a hely misztikus hangulatát. Földrajz és néprajz tantárgyak keretében a helyi geomorfológia és a szájhagyomány (folklór) kulturális tájra gyakorolt hatásának tökéletes példája.",
+      ro: "",
+      en: "Gunung Ledang National Park, home to the legendary Mount Ophir, is a popular destination for hikers and nature enthusiasts in Johor. The mountain, steeped in folklore about a celestial princess, offers a challenging yet rewarding climb. The trail to the summit at 1,276 meters takes climbers through dense rainforest, over rocky terrain, and up steep ladders. The park is a haven of biodiversity, with a rich variety of flora and fauna, including several species of hornbills, gibbons, and the elusive Malayan tiger. The Puteri Waterfalls, located at the base of the mountain, are a popular spot for picnics and a refreshing dip. The park offers a range of activities, from guided jungle treks to camping and birdwatching. As one of the most accessible mountains in Malaysia, Gunung Ledang provides a great adventure for both novice and experienced hikers."
+    },
+    factsAdvanced: {
+      de: ["Der Gunung Ledang (Mount Ophir) ist mit 1.276 Metern der höchste Berg im Bundesstaat Johor.", "Der Nationalpark wurde offiziell im Jahr 2005 eingerichtet.", "Die berühmte Prinzessin Puteri Gunung Ledang ist Teil der malaiischen Mythologie Sejarah Melayu.", "Ein steiler, anspruchsvoller Pfad, der oft Seile erfordert, führt bis zum Gipfel.", "Der Berg diente britischen Seefahrern oft als natürlicher Orientierungspunkt.", "Der Puteri-Wasserfall am Fuße des Berges verfügt über zahlreiche natürliche Felsenpools."],
+      hu: ["A 1276 méteres hegy Johor állam legmagasabb csúcsa.", "A hegy brit gyarmati neve Mount Ophir volt.", "Középpontja a híres 'Puteri Gunung Ledang' (A hegy tündérhercegnője) maláj legendának.", "A túrázók számára a csúcs megmászása 5-6 órás, meredek kötélmászásokat is igénylő feladat.", "A hegy lábánál található a népszerű és lépcsőzetes Puteri-vízesés (Air Terjun Puteri).", "A hegy hegyvidéki esőerdejében számos endemikus, csak itt megtalálható növényfaj él."],
+      ro: [],
+      en: ["Gunung Ledang, also known as Mount Ophir, is the highest mountain in Johor at 1,276 meters.", "It was gazetted as a national park in 2005.", "The park covers an area of 8,611 hectares.", "The climb to the summit typically takes 5 to 6 hours.", "The mountain is home to over 500 species of plants, including the rare giant fishtail palm.", "The legend of the mystical princess, Puteri Gunung Ledang, is central to the mountain's cultural significance.", "The Puteri Waterfalls are a series of cascades on the slopes of the mountain.", "The park is a popular training ground for local hikers preparing for more challenging climbs."]
+    }
+  },
+  {
+    id: "perhentian-islands-nature-v2",
+    type: "island",
+    parent: "MY-11",
+    coords: [102.75, 5.9167],
+    name: {
+      de: "Perhentian-Inseln",
+      hu: "Perhentian-szigetek",
+      ro: "Insulele Perhentian",
+      en: "Perhentian Islands"
+    },
+    description: {
+      de: "Eine Gruppe von korallenumsäumten Inseln vor der Küste von Terengganu, bekannt für ihre entspannte Atmosphäre, weißen Sandstrände und hervorragenden Tauch- und Schnorchelbedingungen.",
+      hu: "Korallzátonyokkal szegélyezett szigetcsoport Terengganu partjainál, amely nyugodt légköréről, fehér homokos strandjairól és kiváló búvár- és sznorkelezési lehetőségeiről ismert.",
+      ro: "Un grup de insule mărginite de corali în largul coastei Terengganu, cunoscute pentru atmosfera lor relaxată, plajele cu nisip alb și condițiile excelente de scufundări și snorkeling.",
+      en: "A group of coral-fringed islands off the coast of Terengganu, known for their relaxed atmosphere, white sandy beaches and excellent diving and snorkeling conditions."
+    },
+    facts: {
+      de: ["Besteht aus zwei Hauptinseln: Perhentian Besar ('Groß') und Perhentian Kecil ('Klein').", "Ein wichtiger Nistplatz für Meeresschildkröten.", "'Perhentian' bedeutet 'Haltepunkt' auf Malaiisch."],
+      hu: ["Két fő szigetből áll: Perhentian Besar ('Nagy') és Perhentian Kecil ('Kicsi').", "Fontos fészkelőhely a tengeri teknősök számára.", "A 'Perhentian' szó malájul 'megállóhelyet' jelent."],
+      ro: ["Constă din două insule principale: Perhentian Besar ('Mare') și Perhentian Kecil ('Mic').", "Un loc important de cuibărit pentru țestoasele marine.", "'Perhentian' înseamnă 'punct de oprire' în malaeză."],
+      en: ["Consists of two main islands: Perhentian Besar ('Big') and Perhentian Kecil ('Small').", "An important nesting site for sea turtles.", "'Perhentian' means 'stopping point' in Malay."]
+    }, image: "/poi-images/perhentian-islands-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Naturlandschaft der Perhentian-Inseln zeichnet sich durch einen harten und atemberaubenden Kontrast aus: Der tiefe, völlig unzugängliche Dschungel im Inneren der Inseln bricht steil ab und geht direkt in makellose, flache Sandstrände über. Ohne ein ausgebautes Straßennetz bleibt die dichte Vegetation in der Mitte der Inseln fast vollständig unberührt und beheimatet scheue Flughunde, Warane und dichte Makaken-Horden. Die wahre Naturattraktion liegt jedoch direkt unter der Wasseroberfläche in den seichten, strömungsarmen Buchten, die ein extrem gesundes Hart- und Weichkorallenriff stützen. Hier finden sich oft große Schulen riesiger Büffelkopf-Papageienfische sowie Suppenschildkröten, die das dichte Seegras abweiden. Die absolute Abwesenheit von schwerer Industrie auf dem Festland in unmittelbarer Nähe sichert die außergewöhnliche Klarheit und Qualität des Wassers in diesem marinen Nationalpark. Biologie K7 — Korallenriffökosysteme, Inselfauna und Meeresschutzgebiete.",
+      hu: "A Perhentian-szigetek geológiailag a Maláj-félsziget keleti tengerparti talapzatának gránitkibúvásai a Dél-kínai-tengerben. Ellentétben az óceáni, vulkanikus szigetekkel (mint Sipadan), a két fő sziget (Besar és Kecil) valójában elárasztott kontinentális dombok, amelyeket dús trópusi esőerdő borít, és finom, fehér korallhomokos partok öveznek. A sekély parti vizek tiszta, fotoszintetizáló környezetet biztosítanak az itt virágzó lágy- és kőkoralloknak (fringing reefs). Ezek a zátonyok kulcsfontosságú etető- és szaporodóhelyei a tengeri teknősöknek, feketeúszójú cápáknak és a színpompás papagájhalaknak. A monszun szelek és áramlatok minden évben átrendezik a homokdűnéket a partokon. Biológia és tengerföldrajz oktatásban a kontinentális selfszigetek (continental shelf islands) és a sekélyvízi korall-ökoszisztémák dinamikájának reprezentatív helyszíne.",
+      ro: "",
+      en: "The Perhentian Islands, located off the coast of Terengganu, are a quintessential tropical paradise. The name 'Perhentian' means 'stopping point' in Malay, and the islands were historically a stopover for traders. Today, they are a magnet for travelers seeking white sandy beaches, crystal-clear waters, and vibrant marine life. The two main islands, Pulau Perhentian Besar ('Big Island') and Pulau Perhentian Kecil ('Small Island'), cater to different crowds, with Kecil being more popular with backpackers. The islands are part of a protected marine park, and their coral reefs are teeming with fish, sea turtles, and small sharks. Snorkeling and diving are the main attractions, with numerous dive sites suitable for all levels. The islands are also a significant nesting site for green and hawksbill turtles, and conservation projects are in place to protect these endangered creatures."
+    },
+    factsAdvanced: {
+      de: ["Die Perhentian-Inseln sind ein essenzieller Bestandteil des Redang National Marine Park.", "Die Landmasse der beiden Hauptinseln ist zu über 80 Prozent mit primärem Wald bedeckt.", "Die Inseln beheimaten den seltenen asiatischen fliegenden Lemur (Colugo).", "Vor der Küste liegt ein absichtlich versenktes Schiff (Sugar Wreck) als künstliches Riff.", "Nisten der Grünen Meeresschildkröte findet überwiegend an abgelegenen Stränden statt.", "Jegliche Entnahme von Korallen oder Meerestieren ist strengstens gesetzlich verboten."],
+      hu: ["Geológiailag a kontinentális talapzat (Sunda-self) gránit magmás kőzeteinek kiemelkedései.", "A szigeteket szegélyező sekély zátonyok (fringing reefs) kő- és lágykorallokból épülnek fel.", "A part menti vizek fontos táplálkozó- és fészkelőterületei a zöld levesteknősöknek.", "Az északkeleti monszun (november-március) idején a tenger erősen felkavarodik és veszélyes lesz.", "A szigetek sűrű dzsungelének leggyakoribb emlősei az ezüstös langur majmok.", "A zátonyokat a globális felmelegedés miatti korallfehéredés (coral bleaching) komolyan veszélyezteti."],
+      ro: [],
+      en: ["The Perhentian Islands were gazetted as a marine park in 1994.", "The two main islands are Perhentian Besar and Perhentian Kecil.", "The islands are closed to tourists during the monsoon season from November to February.", "They are a major nesting site for green and hawksbill turtles.", "There are no roads on the islands; transport is by boat or on foot.", "The islands are home to a small population of fishermen.", "Popular dive sites include the 'Sugar Wreck' and 'Temple of the Sea'.", "The waters around the islands are home to blacktip reef sharks, which are harmless to humans."]
+    }
+  },
+  {
+    id: "belump-temenggor-forest-reserve-nature-v2",
+    type: "forest",
+    parent: "MY-07",
+    coords: [101.45, 5.5],
+    name: {
+      de: "Belum-Temenggor Waldreservat",
+      hu: "Belum-Temenggor Erdőrezervátum",
+      ro: "Rezervația forestieră Belum-Temenggor",
+      en: "Belum-Temenggor Forest Reserve"
+    },
+    description: {
+      de: "Eines der größten zusammenhängenden Waldgebiete auf der malaiischen Halbinsel, älter als der Amazonas und Heimat einer erstaunlichen Vielfalt an Wildtieren.",
+      hu: "A Maláj-félsziget egyik legnagyobb összefüggő erdőterülete, amely idősebb az Amazonas-medencénél, és elképesztő vadvilágnak ad otthont.",
+      ro: "Una dintre cele mai mari zone forestiere continue din Peninsula Malaeziană, mai veche decât Amazonul și gazdă a unei diversități uimitoare de faună sălbatică.",
+      en: "One of the largest continuous forest areas in the Malay Peninsula, older than the Amazon and home to an amazing diversity of wildlife."
+    },
+    facts: {
+      de: ["Beherbergt alle 10 Nashornvogelarten Malaysias.", "Man kann hier den malaiischen Tiger, den asiatischen Elefanten und den malaiischen Tapir finden.", "Der Temenggor-See befindet sich innerhalb des Reservats."],
+      hu: ["Mind a 10 malajziai szarvascsőrűmadár-fajnak otthont ad.", "Megtalálható itt a maláj tigris, az ázsiai elefánt és a maláj tapír.", "A rezervátum területén található a Temenggor-tó."],
+      ro: ["Găzduiește toate cele 10 specii de păsări rinocer din Malaezia.", "Aici se pot găsi tigrul malaezian, elefantul asiatic și tapirul malaezian.", "Lacul Temenggor este situat în interiorul rezervației."],
+      en: ["Home to all 10 of Malaysia's hornbill species.", "The Malayan tiger, Asian elephant and Malayan tapir can be found here.", "Lake Temenggor is located within the reserve."]
+    }, image: "/poi-images/belump-temenggor-forest-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Belum-Temenggor Forest Reserve im nördlichen Perak ist der größte zusammenhängende Waldkomplex der gesamten malaiischen Halbinsel und formt einen kritischen grünen Korridor bis über die Grenze nach Thailand. Das Gebiet wird durch den gewaltigen, künstlich gestauten Temenggor-See in eine nördliche (Royal Belum) und eine südliche (Temenggor) Hälfte geteilt. Diese Isolation macht den Dschungel zu einer der letzten wahren Festungen für die stark bedrohten Großsäugetiere Malaysias, wie den Asiatischen Elefanten, den Malaienbären und den extrem seltenen Sumatra-Rhinoceros. Es ist der einzige bekannte Ort auf der Welt, an dem alle zehn in Malaysia heimischen Arten von Nashornvögeln gleichzeitig beobachtet werden können, was Ornithologen aus der ganzen Welt anzieht. Abenteuerliche Besucher erkunden das dichte, undurchdringliche Ökosystem zumeist vom Wasser aus auf speziell gebauten, schwimmenden Hausbooten, die tagelang autark über den See gleiten. Biologie K8 — Großflächige Waldkorridore und der Schutz von Megafauna.",
+      hu: "A Belum-Temenggor Erdőrezervátum (Royal Belum) Perak állam északi határrészén fekszik, és a Maláj-félsziget legkiterjedtebb háborítatlan dipterokarp esőerdeje. Ez a grandiózus természeti rezervátum két részből áll, melyeket a hatalmas mesterséges Temenggor-tó választ ketté. A régió egyedülálló botanikai kincse, hogy itt megtalálható a világ legnagyobb virágának, a Rafflesiának három különböző, endemikus faja (R. hasseltii, R. cantleyi, R. azlanii). Emellett Ázsia egyik legfontosabb vadvédelmi menedéke az orvvadászat által fenyegetett, nagytestű emlősök számára: a maláj tigris, a borneói orrszarvú, az ázsiai elefánt és a maláj medve mind menedéket talál e sűrűn benőtt, meredek völgyekben. A környezetismeret és biológia tantárgyak keretében a megafauna (nagyemlősök) élőhely-megőrzésének és a trópusi esőerdők szénmegkötő (carbon sink) funkciójának elengedhetetlen helyszíne.",
+      ro: "",
+      en: "The Belum-Temenggor Forest Complex, located in northern Perak, is one of the oldest and most pristine rainforests in the world. At over 130 million years old, it is older than both the Amazon and the Congo. This vast wilderness is a critical habitat for a staggering array of wildlife, including all 10 of Malaysia's hornbill species, the Asian elephant, and the Malayan tiger. The forest is also home to the world's largest flower, the Rafflesia. The heart of the complex is the vast Temenggor Lake, a man-made lake dotted with hundreds of islands. The forest is home to several Orang Asli communities, who have lived here for generations. Belum-Temenggor is a vital ecological corridor in the Central Forest Spine of Peninsular Malaysia, and its protection is crucial for the survival of many endangered species."
+    },
+    factsAdvanced: {
+      de: ["Das gesamte Belum-Temenggor Waldgebiet umfasst mehr als 300.000 Hektar.", "Der Wald wird auf ein Alter von über 130 Millionen Jahren geschätzt.", "Drei verschiedene Arten der riesigen Rafflesia-Pflanze wachsen in dem Gebiet.", "Alle zehn malaysischen Nashornvogelarten (Hornbills) sind hier heimisch.", "Der Temenggor-See entstand in den 1970er Jahren durch den Bau eines Staudamms.", "Das Gebiet wird von indigenen Orang-Asli-Stämmen bewohnt, hauptsächlich den Jahai."],
+      hu: ["A park becsült kora 130 millió év, régebbi az Amazonas medencéjénél is.", "A területén a világon egyedülálló módon három különböző Rafflesia virágfaj is őshonos.", "A dzsungelt középen a hatalmas, mesterséges (vízierőmű miatt felduzzasztott) Temenggor-tó vágja ketté.", "Az állatvilág egyik legritkább és legveszélyeztetettebb fajának, a maláj tigrisnek az utolsó mentsvára.", "Több mint 300 000 hektáros területével a Maláj-félsziget legnagyobb összefüggő erdeje.", "A park megközelítése erősen korlátozott, és számos részre katonai (határőrizeti) engedély szükséges."],
+      ro: [],
+      en: ["The Belum-Temenggor rainforest is over 130 million years old, making it older than the Amazon.", "It is home to all 10 of Malaysia's hornbill species.", "The forest is one of the last remaining strongholds of the Malayan tiger.", "The three species of Rafflesia, the world's largest flower, can be found here.", "The Royal Belum State Park, the northern part of the complex, was gazetted in 2007.", "The man-made Temenggor Lake was created in the 1970s by the damming of the Perak River.", "The forest is home to over 3,000 species of flowering plants.", "Several indigenous Orang Asli tribes, including the Jahai and Temiar, live within the forest complex."]
+    }
+  },
+  {
+    id: "danum-valley-conservation-area-nature-v2",
+    type: "forest",
+    parent: "MY-12",
+    coords: [117.75, 4.9667],
+    name: {
+      de: "Danum-Tal-Schutzgebiet",
+      hu: "Danum-völgy Védelmi Terület",
+      ro: "Zona de conservare Valea Danum",
+      en: "Danum Valley Conservation Area"
+    },
+    description: {
+      de: "Ein relativ unberührtes Tiefland-Dipterocarpaceen-Waldgebiet in Sabah, das als eines der am besten geschützten Regenwaldgebiete der Welt gilt.",
+      hu: "Egy viszonylag érintetlen síkvidéki dipterokarpusz-erdőterület Sabahban, amelyet a világ egyik legjobban védett esőerdei területének tartanak.",
+      ro: "O zonă de pădure de dipterocarpacee de câmpie relativ neatinsă din Sabah, considerată una dintre cele mai bine protejate zone de pădure tropicală din lume.",
+      en: "A relatively undisturbed lowland dipterocarp forest area in Sabah, considered one of the best protected rainforest areas in the world."
+    },
+    facts: {
+      de: ["Ein wichtiges Zentrum für Forschung und Umwelterziehung.", "Heimat seltener und gefährdeter Arten wie dem Borneo-Orang-Utan und dem Borneo-Zwergelefanten.", "Bietet Nachtsafaris und Dschungeltrekking an."],
+      hu: ["A kutatás és a környezeti nevelés fontos központja.", "Ritka és veszélyeztetett fajoknak ad otthont, mint a borneói orángután és a borneói törpeelefánt.", "Éjszakai szafarikat és dzsungeltúrákat kínál."],
+      ro: ["Un centru important pentru cercetare și educație ecologică.", "Acasă pentru specii rare și pe cale de dispariție, cum ar fi urangutanul de Borneo și elefantul pigmeu de Borneo.", "Oferă safariuri de noapte și drumeții în junglă."],
+      en: ["An important center for research and environmental education.", "Home to rare and endangered species such as the Bornean orangutan and the Bornean pygmy elephant.", "Offers night safaris and jungle trekking."]
+    }, image: "/poi-images/danum-valley-conservation-area-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Danum Valley Conservation Area in Sabah ist ein absolutes Heiligtum des Naturschutzes und repräsentiert das größte verbliebene Stück unberührten Dipterocarp-Tieflandregenwaldes auf Borneo. Im Gegensatz zu vielen anderen Schutzgebieten gab es in Danum Valley niemals menschliche Siedlungen oder Holzeinschlag, wodurch ein makelloses, primäres Ökosystem erhalten blieb. Das Gebiet fungiert als riesiges Freiluftlabor; das Danum Valley Field Centre zieht führende Tropenökologen und Forscher an, die von klimatischen Studien bis zur Primatenforschung alles dokumentieren. Besucher haben die seltene Chance, wilde Orang-Utans, Borneo-Zwergelefanten und Nebelparder in ihrem völlig natürlichen Habitat zu beobachten. Ein atemberaubender Canopy Walkway, der tief in den Baumkronen der über 70 Meter hohen Giganten gespannt ist, bietet unvergleichliche Einblicke in ein Blätterdach, das von Leben nur so strotzt. Biologie K8 — Primäre Tieflandregenwälder, Biodiversitätsforschung und Ökotourismus.",
+      hu: "A Danum-völgyi Természetvédelmi Terület (Danum Valley) Sabah állam keleti részén egy mintegy 438 négyzetkilométeres, teljesen érintetlen, síkvidéki primer trópusi esőerdő, amely példátlan az ember által sűrűn lakott és mezőgazdaságilag művelt Borneón. A terület soha nem állt emberi betelepülés alatt, így mentes a fakitermelés vagy vadászat nyomaitól. Ez a völgy ad otthont a világ egyik legfejlettebb, esőerdei lombkoronát vizsgáló tudományos kutatóközpontjának (Borneo Rainforest Lodge & Research Centre). A hatalmas, 60-70 méter magas dipterokarp fák ágai között található Borneó legnagyobb vadon élő, érintetlen orángután-populációja, valamint a ritka borneói törpeelefántok (pygmy elephants) és a ködfoltos párduc. A biológia, ökológia és földrajz oktatásában a primer (elsődleges) és a másodlagos esőerdők közti különbség, valamint a nemzetközi terepkutatás bázisának csodálatos ázsiai példája.",
+      ro: "",
+      en: "The Danum Valley Conservation Area in Sabah is a world-renowned center for rainforest research and a premier destination for wildlife enthusiasts. This 438-square-kilometer expanse of pristine, undisturbed lowland dipterocarp forest is a sanctuary for a remarkable diversity of flora and fauna. It is one of the best places in Borneo to see orangutans in their natural habitat, along with pygmy elephants, clouded leopards, and proboscis monkeys. The Borneo Rainforest Lodge, the only accommodation within the conservation area, offers guided treks, night safaris, and a canopy walkway that provides a unique perspective on the forest. The Danum Valley Field Centre, a scientific research station, has produced a wealth of knowledge about tropical rainforest ecosystems. A visit to Danum Valley is a profound immersion into one of the world's most complex and vital ecosystems."
+    },
+    factsAdvanced: {
+      de: ["Das Danum Valley Schutzgebiet umfasst exakt 438 Quadratkilometer unberührten Dschungel.", "Es ist ein sogenanntes Klasse I Waldreservat (strenger Schutz ohne Abholzung).", "Das Danum Valley Field Centre (DVFC) wurde 1986 für wissenschaftliche Forschung eröffnet.", "In den Baumkronen befindet sich ein 300 Meter langer und 27 Meter hoher Canopy Walkway.", "Über 320 Vogelarten und 124 Säugetierarten wurden in diesem Gebiet katalogisiert.", "Das Reservat beheimatet die weltweit höchste Konzentration von wilden Orang-Utans."],
+      hu: ["Egy 438 négyzetkilométeres, soha nem lakott, érintetlen (primer) síkvidéki trópusi esőerdő.", "A világ egyik legelismertebb trópusi ökológiai kutatóállomása működik a völgyben.", "Borneó legnagyobb háborítatlan, vadon élő orángután populációjának (Pongo pygmaeus) ad otthont.", "A dzsungel fáinak lombkoronája a 60-70 méteres magasságot is eléri (dipterokarp fajok).", "A kutatók számára egy több mint 300 méter hosszú, masszív lombkorona-sétányt építettek a fák közé.", "A területen egyedülálló őskori (kadazan-dusun) fa csónakkoporsókat találtak egy sziklaszirt oldalában."],
+      ro: [],
+      en: ["The Danum Valley Conservation Area covers 438 square kilometers of pristine rainforest.", "It has been a conservation and research area since 1981.", "The canopy walkway is over 300 meters long and 27 meters high at its highest point.", "The area is home to over 120 species of mammals and 340 species of birds.", "The Danum Valley Field Centre was established in 1986 for research and education.", "The forest is dominated by trees of the Dipterocarpaceae family.", "There has been no human settlement in the Danum Valley, so hunting and logging have been minimal.", "It is one of the last strongholds for the critically endangered Bornean orangutan."]
+    }
+  },
+    {
+    id: "semporna-islands-park-nature-v2",
+    type: "national-park",
+    parent: "MY-12",
+    coords: [118.675, 4.3833],
+    name: {
+      de: "Semporna-Inseln-Park",
+      hu: "Semporna-szigetek Park",
+      ro: "Parcul Insulelor Semporna",
+      en: "Semporna Islands Park"
+    },
+    description: {
+      de: "Ein Meerespark vor der Küste von Sabah, der für seine außergewöhnliche Unterwasserwelt und als eines der besten Tauchgebiete der Welt bekannt ist.",
+      hu: "Egy tengeri park Sabah partjainál, amely kivételes tengeri élővilágáról és a világ egyik legjobb búvárhelyeként ismert.",
+      ro: "Un parc marin în largul coastei Sabah, renumit pentru viața sa subacvatică excepțională și ca una dintre cele mai bune locații de scufundări din lume.",
+      en: "A marine park off the coast of Sabah, renowned for its exceptional underwater life and as one of the world's top diving locations."
+    },
+    facts: {
+      de: ["Umfasst mehrere Inseln, darunter Sipadan und Mabul.", "Heimat von Tausenden von Fischarten und Hunderten von Korallenarten.", "Sipadan ist bekannt für seine Schildkröten und Barrakudaschwärme."],
+      hu: ["Több szigetet foglal magában, köztük Sipadant és Mabult.", "Több ezer halfajnak és több száz korallfajnak ad otthont.", "Sipadan a teknősökről és a barrakúda rajokról híres."],
+      ro: ["Include mai multe insule, printre care Sipadan și Mabul.", "Găzduiește mii de specii de pești și sute de specii de corali.", "Sipadan este renumit pentru țestoasele sale și bancurile de baracude."],
+      en: ["Includes several islands, including Sipadan and Mabul.", "Home to thousands of fish species and hundreds of coral species.", "Sipadan is famous for its turtles and barracuda shoals."]
+    }, image: "/poi-images/semporna-islands-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tun Sakaran Marine Park, oft als Semporna Islands Park bezeichnet, ist ein atemberaubender Archipel an der Ostküste Sabahs, der aus acht primär vulkanischen und korallinen Inseln besteht. Die herausragendste geologische Struktur ist Bohey Dulang, ein erloschener Vulkankrater, der heute eine sichelförmige Insel formt und dessen innerer, gefluteter Krater eine tiefblaue, schützende Lagune bildet. Der Park ist ein globales Zentrum der maritimen Artenvielfalt und liegt direkt im Korallendreieck; Forscher haben hier Hunderte von Arten exotischer Weich- und Hartkorallen sowie seltener Nacktschnecken entdeckt. Das Gebiet ist eng mit der Kultur der Bajau Laut verwoben, den legendären Seezigeunern, die ihr gesamtes Leben auf traditionellen Hausbooten oder in Pfahlbauten direkt über dem Riff verbringen. Die Kombination aus dramatischer vulkanischer Landschaft und intakter Meeresökologie macht den Park zu einem Muss für Taucher und Fotografen. Geografie K7 — Vulkanische Archipele, Korallendreieck und indigene Meeresnomaden.",
+      hu: "A Semporna Szigetek Park (Tun Sakaran Tengeri Park) Sabah délkeleti partjainál, a Celebesz-tengerben terül el, és nyolc vulkáni eredetű kis szigetet foglal magában, köztük a leghíresebbet, a Bohey Dulang-ot. A terület Malajzia legfontosabb tengeri biodiverzitási hotspotja a Korall-háromszög (Coral Triangle) peremén. Geológiailag a szigetek egy hatalmas, ősi kialudt vulkán tengerbe süllyedt kráterének (kalderájának) peremeit alkotják, amelyből ma éles csúcsok és türkizkék, zátonyokkal teli sekély lagúnák maradtak hátra. A park vizében a világ legnagyobb fészkelő óriáskagyló-populációja (Giant Clams) él, amelyek átmérője meghaladhatja az egy métert. Itt él a tengeri cigány (Bajau Laut) nomád népcsoport is cölöpházakban. A tengerbiológia és vulkanológia tanulmányozásában a tengerbe süllyedt vulkáni kalderák ökológiai újraéledésének tankönyvi példája.",
+      ro: "",
+      en: "The Semporna Islands Park, also known as the Tun Sakaran Marine Park, is a stunning archipelago of eight islands off the east coast of Sabah. Formed by volcanic activity, the islands are a diver's paradise, boasting some of the world's most biodiverse coral reefs. The park is the largest marine park in Sabah and is a hotspot for macro and pelagic life. The Bohey Dulang island, with its breathtaking lagoon and panoramic viewpoint, is a must-visit. The park is also home to the Bajau Laut, or 'Sea Gypsies', a nomadic seafaring people who live in traditional stilt houses over the water. Their unique culture and lifestyle are an integral part of the park's identity. From the world-class diving at Sipadan (a separate, nearby island) to the cultural encounters with the Bajau Laut, the Semporna region offers an unforgettable marine adventure."
+    },
+    factsAdvanced: {
+      de: ["Der Marinepark wurde im Jahr 2004 offiziell unter Schutz gestellt.", "Er umfasst eine Gesamtfläche von über 340 Quadratkilometern Meeres- und Landgebiet.", "Der Park besteht aus acht Inseln, darunter Bodgaya, Bohey Dulang und Sibuan.", "Der steile Gipfel von Bohey Dulang erreicht eine Höhe von 353 Metern.", "Im Park befindet sich eine Giant Clam Hatchery zur Aufzucht gefährdeter Riesenmuscheln.", "Die indigenen Bajau Laut sind staatenlose Seenomaden, die traditionell im Park fischen."],
+      hu: ["A park nyolc vulkáni szigetet és a környező 350 négyzetkilométeres korallzátonyt foglalja magába.", "A szigetek íve egy millió éve kihunyt óriásvulkán tengerbe süllyedt kalderáját formázza.", "A Bohey Dulang-szigeten működik a világ egyik legfontosabb Óriáskagyló (Giant Clam) kutatóközpontja.", "A sekély lagúnák felett cölöpökre épült falvakban élnek a Bajau Laut tengeri nomádok.", "A Korall-háromszög (Coral Triangle) északi peremén fekszik, extrém magas tengeri fajgazdagsággal.", "A Bohey Dulang 353 méter magas vulkáni csúcsáról világhírű panoráma nyílik a türkiz lagúnára."],
+      ro: [],
+      en: ["Tun Sakaran Marine Park was gazetted in 2004 and covers an area of 350 square kilometers.", "The park consists of eight islands and two reefs.", "Bohey Dulang, the second-largest island, is a remnant of an extinct volcano.", "The park is home to the Bajau Laut, a nomadic seafaring community.", "The nearby Sipadan Island is consistently rated as one of the top dive sites in the world.", "The area is part of the 'Coral Triangle', a global center of marine biodiversity.", "Over 500 species of coral and 2,000 species of fish have been recorded in the region.", "The islands were formed by the eruption of a volcano some 2.5 million years ago."]
+    }
+  },
+  {
+    id: "pahang-river-nature-v2",
+    type: "river",
+    parent: "MY-06",
+    coords: [103.45, 3.5333],
+    name: {
+      de: "Pahang-Fluss",
+      hu: "Pahang-folyó",
+      ro: "Râul Pahang",
+      en: "Pahang River"
+    },
+    description: {
+      de: "Der längste Fluss auf der malaiischen Halbinsel, der durch den Bundesstaat Pahang fließt und eine wichtige Wasserstraße für Transport und Landwirtschaft darstellt.",
+      hu: "A Maláj-félsziget leghosszabb folyója, amely Pahang államon folyik keresztül, és fontos vízi út a közlekedés és a mezőgazdaság számára.",
+      ro: "Cel mai lung râu din Peninsula Malaeziană, care traversează statul Pahang și reprezintă o cale navigabilă importantă pentru transport și agricultură.",
+      en: "The longest river in Peninsular Malaysia, flowing through the state of Pahang and serving as an important waterway for transport and agriculture."
+    },
+    facts: {
+      de: ["Er ist etwa 459 Kilometer lang.", "Sein Einzugsgebiet ist das größte in West-Malaysia.", "Mündet in das Südchinesische Meer."],
+      hu: ["Hossza körülbelül 459 kilométer.", "Vízgyűjtő területe a legnagyobb Nyugat-Malajziában.", "A Dél-kínai-tengerbe ömlik."],
+      ro: ["Are o lungime de aproximativ 459 de kilometri.", "Bazinul său hidrografic este cel mai mare din Malaezia de Vest.", "Se varsă în Marea Chinei de Sud."],
+      en: ["It is approximately 459 kilometers long.", "Its basin is the largest in West Malaysia.", "Flows into the South China Sea."]
+    }, image: "/poi-images/pahang-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Pahang-Fluss (Sungai Pahang) ist mit einer Länge von beinahe 460 Kilometern der längste und wasserreichste Fluss der gesamten malaiischen Halbinsel. Er entspringt hoch oben in den Titiwangsa-Bergen durch den Zusammenfluss der Ströme Jelai und Tembeling und schlängelt sich durch dichten Regenwald und weite Agrarflächen, bevor er majestätisch in das Südchinesische Meer mündet. Historisch war der Fluss die wichtigste Handels- und Kommunikationsader des Bundesstaates Pahang; an seinen Ufern entstanden frühe Siedlungen und königliche Hauptstädte wie Pekan. Das tief liegende Flussbecken ist extrem fruchtbar und wird intensiv für Reisanbau und Plantagenwirtschaft genutzt. Die immense Wasserkraft des Flusses bringt jedoch während des jährlichen Nordost-Monsuns regelmäßig dramatische, großflächige Überschwemmungen mit sich, die die lokale Infrastruktur stark belasten und ständige hydrologische Schutzmaßnahmen erfordern. Geografie K7 — Große Flusssysteme, Hochwasserregulierung und Agrarökonomie.",
+      hu: "A Pahang-folyó (Sungai Pahang) 459 kilométeres hosszával a Maláj-félsziget leghosszabb folyója. Két fő hegyi ág, a Jelai és a Tembeling folyók összefolyásából keletkezik a Titiwangsa-hegységben, majd kelet felé átszeli Pahang államot, és Pekan városánál a Dél-kínai-tengerbe torkollik. A folyó vízgyűjtő területe hatalmas kiterjedésű, és alapvetően határozza meg a keleti part ártéri erdőinek és mocsárvidékeinek (például a Tasik Chini és Tasik Bera rendszereknek) a vízellátását. Az éves északkeleti monszun (november-február) idején a folyó gyakran kilép a medréből, hatalmas kiterjedésű történelmi árvizeket okozva, amelyek megtermékenyítik az ártéri síkságokat. A folyóvíz az esőerdőkből származó üledék miatt gyakran mélybarna színű. A vízrajz és földrajz oktatásában a monszun-vezérelt trópusi folyórendszerek hidrodinamikájának és a hordalékszállításnak az elengedhetetlen helyszíne.",
+      ro: "",
+      en: "The Pahang River, the longest river in Peninsular Malaysia, winds its way through the heart of the country. From its source in the Titiwangsa Mountains to its mouth at the South China Sea, the river has shaped the landscape and the lives of the people along its banks for centuries. It has historically been a vital artery for trade and transportation, and its fertile floodplains support a thriving agricultural industry. The river is home to a diverse range of freshwater fish, and fishing is an important livelihood for many local communities. The river's journey takes it through traditional Malay villages, or 'kampungs', offering a glimpse into a slower, more traditional way of life. However, the Pahang River also faces modern challenges, including pollution and the impacts of deforestation in its upper reaches. Efforts are underway to protect this vital waterway and ensure its health for future generations."
+    },
+    factsAdvanced: {
+      de: ["Der Pahang-Fluss ist mit einer Länge von 459 Kilometern der längste der Halbinsel.", "Das gesamte Flusseinzugsgebiet (Pahang River Basin) umfasst rund 29.000 Quadratkilometer.", "Die historische Königsstadt Pekan liegt direkt nahe der Mündung des Flusses.", "Der Fluss entsteht im Nationalpark Taman Negara durch den Zusammenfluss von Jelai und Tembeling.", "Während der schweren Überschwemmungen 2014 stieg der Pegel des Flusses um mehrere Meter.", "Die breiten Uferbänke sind bekannt für den Anbau von hochwertigen Wassermelonen."],
+      hu: ["A Maláj-félsziget leghosszabb folyórendszere, teljes hossza eléri a 459 kilométert.", "A Titiwangsa-hegység dzsungelében a Jelai- és a Tembeling-folyók találkozásából jön létre.", "Vízgyűjtő területe a Tasik Bera és Tasik Chini mocsárvidékeket és tavakat is táplálja.", "Az északkeleti monszun idején (november-március) hatalmas területeket önt el, megújítva a talajt.", "A folyó a királyi városnál, Pekannál éri el a Dél-kínai-tengert.", "Vize az erózió és az őserdei hordalék miatt jellegzetesen sárgásbarna ('teh tarik' színű)."],
+      ro: [],
+      en: ["The Pahang River is the longest river in Peninsular Malaysia, at 459 kilometers.", "Its two main tributaries, the Jelai and Tembeling rivers, meet at Kuala Tembeling to form the Pahang River.", "The river flows through the state of Pahang, from which it takes its name.", "The river basin covers an area of 29,300 square kilometers.", "The town of Pekan, the royal town of Pahang, is located at the river's mouth.", "The river is an important source of water for agriculture and domestic use.", "Over 80 species of freshwater fish have been recorded in the river.", "The river is prone to major floods during the monsoon season, with the most severe in recent history occurring in 2014."]
+    }
+  },
+  {
+    id: "mount-trusmadi-nature-v2",
+    type: "mountain",
+    parent: "MY-12",
+    coords: [116.5167, 5.5833],
+    name: {
+      de: "Mount Trusmadi",
+      hu: "Trusmadi-hegy",
+      ro: "Muntele Trusmadi",
+      en: "Mount Trusmadi"
+    },
+    description: {
+      de: "Der zweithöchste Berg in Malaysia nach dem Mount Kinabalu, bekannt für seine reiche und einzigartige Flora, einschließlich endemischer Kannenpflanzenarten.",
+      hu: "Malajzia második legmagasabb hegye a Kinabalu-hegy után, gazdag és egyedi növényvilágáról ismert, beleértve az endemikus kancsóka fajokat is.",
+      ro: "Al doilea cel mai înalt munte din Malaezia, după Muntele Kinabalu, renumit pentru flora sa bogată și unică, inclusiv specii endemice de plante carnivore.",
+      en: "The second highest mountain in Malaysia after Mount Kinabalu, known for its rich and unique flora, including endemic pitcher plant species."
+    },
+    facts: {
+      de: ["Hat eine Höhe von 2.642 Metern.", "Der Aufstieg gilt als anspruchsvoller als der des Mount Kinabalu.", "Teil des Trusmadi-Waldreservats."],
+      hu: ["Magassága 2642 méter.", "Megmászása nehezebbnek számít, mint a Kinabalu-hegyé.", "A Trusmadi Erdőrezervátum része."],
+      ro: ["Are o înălțime de 2.642 de metri.", "Urcarea este considerată mai dificilă decât cea a Muntelui Kinabalu.", "Parte a Rezervației Forestiere Trusmadi."],
+      en: ["Has a height of 2,642 meters.", "The climb is considered more challenging than Mount Kinabalu's.", "Part of the Trusmadi Forest Reserve."]
+    }, image: "/poi-images/mount-trusmadi-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Trusmadi in Sabah ist zwar nur der zweithöchste Berg Malaysias nach dem Mount Kinabalu, er gilt bei erfahrenen Bergsteigern jedoch als weitaus anspruchsvoller und physisch fordernder. Versteckt in einem dichten Waldreservat fernab der großen Touristenrouten, ist der Aufstieg von extrem steilem Terrain, dichten Wurzelnetzwerken und tiefen Schlammabschnitten geprägt. Die Isolation des Berges hat jedoch ein völlig unberührtes und einzigartiges botanisches Paradies bewahrt. Besonders berühmt ist Trusmadi für eine extrem seltene und hochspezialisierte Kannenpflanzenart, Nepenthes x trusmadiensis, eine natürliche Kreuzung, die ausschließlich an den Flanken dieses einen Berges vorkommt. Der Gipfel bietet bei klarem Wetter einen spektakulären und ungetrübten Blick hinüber zum majestätischen Nachbarn Mount Kinabalu. Biologie K8 — Endemische Botanik, abgelegene Bergökosysteme und anspruchsvolle Topografie.",
+      hu: "A Mount Trusmadi (Trusmadi-hegy) Sabah államban található, és 2642 méteres magasságával Malajzia második legmagasabb csúcsa a hatalmas Kinabalu mögött. Geológiailag a hegy a Trusmadi-hegység része, amely palás kőzetekből, homokkőből és iszapkőből áll, és erózió révén jött létre, nem pedig tektonikus magmás felemelkedéssel, mint szomszédja. A Trusmadi megmászása hírhedten az egyik legkeményebb és legtechnikásabb dzsungeltúra az egész országban a rendkívül meredek, sárban csúszós és sűrű növényzettel benőtt ösvények miatt. A hegy botanikai szempontból is egyedi: a világon csakis ezen a csúcson él a Nepenthes x trusmadiensis nevű ritka hibrid húsevő növény. Földrajz és biológia keretében az üledékes hegyvidékek extrém eróziójának és a nehezen megközelíthető, érintetlen endemikus élőhelyeknek (mikro-endemizmus) kiváló példája.",
+      ro: "",
+      en: "Mount Trusmadi, Sabah's second-highest peak, offers a wilder and more challenging alternative to its famous neighbor, Mount Kinabalu. Standing at 2,642 meters, the mountain is renowned for its incredible biodiversity, particularly its rich collection of pitcher plants. It is home to Nepenthes x trusmadiensis, a natural hybrid pitcher plant that is endemic to the mountain. The climb to the summit is a strenuous multi-day trek through dense, mossy cloud forest. There are three trails to the summit, each offering a different experience. The mountain is part of the Trusmadi Forest Reserve, which is managed by the Sabah Forestry Department. Due to its challenging terrain and remote location, Mount Trusmadi attracts fewer climbers than Kinabalu, offering a more solitary and immersive wilderness experience for those who make the journey."
+    },
+    factsAdvanced: {
+      de: ["Der Gipfel des Mount Trusmadi liegt auf exakt 2.642 Metern Höhe.", "Er ist der zweithöchste Berg Malaysias, aber berüchtigt für seine steilen Pfade.", "Die seltene Hybrid-Kannenpflanze Nepenthes x trusmadiensis wächst nur auf diesem Berg.", "Der Berg liegt im Zentrum des 184.000 Hektar großen Trusmadi Forest Reserve.", "Bergsteiger benötigen für den schwierigen Auf- und Abstieg in der Regel drei Tage.", "Es gibt drei verschiedene Kletterrouten: Wayaan Kaingaran, Wayaan Mastan und Wayaan Mannan."],
+      hu: ["A 2642 méter magas csúcs Malajzia második legmagasabb hegye a Kinabalu (4095 m) után.", "Geológiailag főként üledékes kőzetekből (homokkő és pala) épül fel, nem gránitból.", "Megmászása ('Jungle Trekking') a sűrű növényzet és a sáros ösvények miatt országosan a legnehezebbek közé tartozik.", "A hegy a kizárólag itt élő Nepenthes x trusmadiensis nevű húsevő növény (kancsóka) otthona.", "Csúcsáról derült időben tökéletes kilátás nyílik a szomszédos, hatalmas Kinabalu-hegyre.", "A terület a Crocker-hegység és a Trusmadi-hegység egyedi törésvonalában helyezkedik el."],
+      ro: [],
+      en: [],
+      en: ["Mount Trusmadi is the second-highest mountain in Malaysia, at 2,642 meters.", "The mountain is located in the Trusmadi Forest Reserve, which covers 1,865 square kilometers.", "It is famous for its diversity of pitcher plants, including the endemic Nepenthes x trusmadiensis.", "There are three trails to the summit: Wayaan Kaingaran, Wayaan Mastan, and Wayaan Mannan.", "The climb is more challenging than Mount Kinabalu due to its rugged terrain and less-developed trails.", "The forest reserve is a Class 1 Forest Reserve, meaning it is protected for conservation purposes.", "The summit offers stunning views of Mount Kinabalu on a clear day.", "The mountain was first climbed in 1963 by a team of British and Malaysian surveyors."]
+    }
+  },
+  {
+    id: "tasik-bera-nature-v2",
+    type: "lake",
+    parent: "MY-06",
+    coords: [102.6333, 3.0833],
+    name: {
+      de: "Tasik Bera",
+      hu: "Tasik Bera",
+      ro: "Lacul Bera",
+      en: "Lake Bera"
+    },
+    description: {
+      de: "Das größte natürliche Süßwassersee-System in Malaysia und ein Ramsar-Gebiet, das für seine reiche Biodiversität und die Heimat der Semelai-Ureinwohner bekannt ist.",
+      hu: "Malajzia legnagyobb természetes édesvizű tórendszere és Ramsari-terület, amely gazdag biodiverzitásáról és a semelai őslakosok otthonaként ismert.",
+      ro: "Cel mai mare sistem de lacuri naturale de apă dulce din Malaezia și un sit Ramsar, renumit pentru biodiversitatea sa bogată și pentru că este casa poporului indigen Semelai.",
+      en: "The largest natural freshwater lake system in Malaysia and a Ramsar site, known for its rich biodiversity and as the home of the Semelai indigenous people."
+    },
+    facts: {
+      de: ["Besteht aus einem Komplex von Sumpfwäldern und offenen Wasserflächen.", "Beherbergt über 200 Vogelarten und 90 Fischarten.", "Die Semelai leben seit Jahrhunderten in Harmonie mit dem See."],
+      hu: ["Mocsárerdők és nyílt vízfelületek komplexumából áll.", "Több mint 200 madárfajnak és 90 halfajnak ad otthont.", "A semelai nép évszázadok óta harmóniában él a tóval."],
+      ro: ["Constă dintr-un complex de păduri mlăștinoase și zone de apă deschisă.", "Găzduiește peste 200 de specii de păsări și 90 de specii de pești.", "Poporul Semelai trăiește în armonie cu lacul de secole."],
+      en: ["Consists of a complex of swamp forests and open water areas.", "Home to over 200 bird species and 90 fish species.", "The Semelai people have lived in harmony with the lake for centuries."]
+    }, image: "/poi-images/tasik-bera-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Tasik Bera im südwestlichen Pahang ist das größte natürliche Süßwassersumpf-System der malaiischen Halbinsel und ein ökologisches Gebiet von globaler Bedeutung, weshalb es 1994 als erstes malaysisches Ramsar-Feuchtgebiet anerkannt wurde. Anders als ein klassischer offener See ist Tasik Bera ein hochkomplexes Labyrinth aus gewundenen Schwarzwasserflüssen, ausgedehnten Schilffeldern, dichten Sumpfwäldern und vereinzelten tiefen Wasserbecken. Das stark saure, teefarbene Wasser wird durch zerfallendes organisches Material gefärbt und ist ein einzigartiges Habitat für seltene Süßwasserfische, wie den berühmten asiatischen Gabelbart (Arowana), und zahllose Amphibien. Der isolierte Sumpf ist auch die angestammte Heimat der indigenen Semelai, die seit Jahrtausenden im Einklang mit dem See leben und ihre Nahrung durch traditionellen Bootsbau und Fischfang sichern. Biologie K7 — Süßwassersümpfe, Ramsar-Schutzgebiete und indigene Ressourcennutzung.",
+      hu: "A Tasik Bera Malajzia legnagyobb természetes, alföldi édesvízi tava és mocsárvidéke, amely Pahang állam délnyugati részén fekszik, mintegy 35 kilométer hosszú völgyet kitöltve. A tó vize jellegzetesen fekete vagy sötétbarna, az úgynevezett 'fekete víz' (blackwater), amelyet az elbomló esőerdei növényzetből kioldódó magas tannintartalom színez meg, emellett a víz meglehetősen savas. 1994-ben a Tasik Bera lett Malajzia legelső Ramsari (nemzetközi jelentőségű vizes élőhely) területe a globális vizes élőhely-védelem jegyében. A mocsárvidék otthont ad az ország legritkább édesvízi krokodiljainak (False Gharial), a maláj tapírnak és a ritka ázsiai csontnyelvű halnak (Arowana). Itt élnek évszázadok óta a Semelai őslakosok is cölöpházakban. Környezetismeret és hidrológia oktatásában a feketevizű mocsarak biokémiai folyamatainak (tannin-kioldódás) és a Ramsari egyezmény gyakorlati működésének csodálatos modellje.",
+      ro: "",
+      en: "Tasik Bera, located in southwestern Pahang, is the largest natural freshwater lake in Peninsular Malaysia. This unique wetland ecosystem is a maze of open water, pandanus reed beds, and swamp forests. In 1994, it was recognized as Malaysia's first Ramsar site, signifying its international importance as a wetland. The lake is home to the Semelai Orang Asli, an indigenous community that has lived in harmony with the lake for over 600 years. Their traditional lifestyle is intricately linked to the lake's resources. Tasik Bera is a biodiversity hotspot, supporting a rich variety of flora and fauna, including over 200 species of birds and 95 species of fish. However, the lake's fragile ecosystem is under threat from development and pollution, making conservation and sustainable management crucial for its survival."
+    },
+    factsAdvanced: {
+      de: ["Tasik Bera wurde 1994 als erstes Ramsar-Schutzgebiet für Feuchtgebiete in Malaysia nominiert.", "Das Sumpfgebiet erstreckt sich in seiner maximalen Ausdehnung über rund 35 Kilometer Länge.", "Das Wasser ist durch gelöste Tannine extrem sauer (pH-Wert oft unter 5).", "Im komplexen Ökosystem wurden über 90 verschiedene Süßwasserfischarten dokumentiert.", "Die indigene Semelai-Gemeinschaft nutzt Harz aus den Sumpfbäumen zum Abdichten ihrer Boote.", "Ein großer Teil des Sees ist fast vollständig mit speziellen Lepironia-Sumpfgräsern bedeckt."],
+      hu: ["Malajzia legnagyobb egybefüggő alföldi mocsara és természetes édesvízi tórendszere.", "1994-ben nyilvánították Malajzia legelső Ramsari Vizes Élőhelyévé.", "A tó vizét a bomló levelekből kioldódó tanninok festik sötétre ('blackwater ecosystem').", "A terület ritka édesvízi krokodiloknak (False Gharial vagy Tomistoma) ad menedéket.", "A mocsárvidék őshonos lakói a maláj 'Semelai' törzs (Orang Asli), akik halászatból élnek.", "A tómederben található tőzegréteg hatalmas mennyiségű szén-dioxidot köt meg a légkörből."],
+      ro: [],
+      en: ["Tasik Bera is the largest natural freshwater lake in Peninsular Malaysia, covering 6,150 hectares.", "It was designated as Malaysia's first Ramsar site in November 1994.", "The lake is home to the Semelai Orang Asli tribe.", "Over 95 species of fish have been recorded in the lake, including the rare Asian Arowana.", "More than 200 species of birds have been identified at Tasik Bera.", "The lake's water has a dark, tea-like color due to tannins from the surrounding peat swamp forest.", "The area is characterized by a patchwork of different habitats, including open water, reed beds, and swamp forest.", "The lake system is threatened by land clearing for oil palm plantations and pollution."]
+    }
+  },
+  {
+    id: "endau-rompin-national-park-nature-v2",
+    type: "national-park",
+    parent: "MY-01",
+    coords: [103.2667, 2.5],
+    name: {
+      de: "Endau-Rompin-Nationalpark",
+      hu: "Endau-Rompin Nemzeti Park",
+      ro: "Parcul Național Endau-Rompin",
+      en: "Endau-Rompin National Park"
+    },
+    description: {
+      de: "Ein ausgedehnter tropischer Regenwaldpark an der Grenze zwischen Johor und Pahang, der einige der ältesten Gesteinsformationen des Landes und eine reiche Tierwelt beherbergt.",
+      hu: "Egy kiterjedt trópusi esőerdő-park Johor és Pahang határán, amely az ország legrégebbi kőzetképződményeinek és gazdag vadvilágnak ad otthont.",
+      ro: "Un parc extins de pădure tropicală la granița dintre Johor și Pahang, care găzduiește unele dintre cele mai vechi formațiuni de rocă din țară și o faună sălbatică bogată.",
+      en: "An extensive tropical rainforest park on the border of Johor and Pahang, home to some of the country's oldest rock formations and rich wildlife."
+    },
+    facts: {
+      de: ["Beherbergt die größte verbliebene Population des stark gefährdeten Sumatra-Nashorns in West-Malaysia.", "Bekannt für seine beeindruckenden Wasserfälle.", "Der Zugang ist streng geregelt, um das Ökosystem zu schützen."],
+      hu: ["A kritikusan veszélyeztetett szumátrai orrszarvú legnagyobb fennmaradt populációjának ad otthont Nyugat-Malajziában.", "Lenyűgöző vízeséseiről ismert.", "A belépés szigorúan szabályozott az ökoszisztéma védelme érdekében."],
+      ro: ["Găzduiește cea mai mare populație rămasă de rinocer de Sumatra, specie pe cale de dispariție critică, din Malaezia de Vest.", "Renumit pentru cascadele sale impresionante.", "Accesul este strict reglementat pentru a proteja ecosistemul."],
+      en: ["Home to the largest remaining population of the critically endangered Sumatran rhinoceros in West Malaysia.", "Known for its impressive waterfalls.", "Access is strictly regulated to protect the ecosystem."]
+    },
+    descriptionAdvanced: {
+      de: "Der Endau-Rompin Nationalpark an der Grenze zwischen den Bundesstaaten Johor und Pahang bewahrt den zweitgrößten unberührten Regenwaldkomplex der malaiischen Halbinsel. Benannt nach den beiden großen Flüssen, die durch ihn hindurchfließen, ist der Park charakterisiert durch sein raues, unzugängliches Terrain aus uralten Sandsteinmassiven und tiefen, eingeschnittenen Flusstälern. Diese geologische Isolation macht das Gebiet zu einem der letzten stabilen Rückzugsorte für das extrem seltene und stark vom Aussterben bedrohte Sumatra-Nashorn auf dem Festland. Bekannt ist der Park auch für seine spektakulären Wasserfälle, wie den donnernden Buaya Sangkut, sowie für seltene Fächerpalmen-Wälder, die weltweit nur an wenigen Orten gedeihen. Da der Zugang stark reglementiert ist und oft den Einsatz von 4x4-Fahrzeugen erfordert, bleibt Endau-Rompin ein authentisches Abenteuerziel für Ökotouristen. Geografie K8 — Grenzüberschreitende Nationalparks, Fluss-Systeme und Erhalt extremer Seltenheiten.",
+      hu: "Az Endau-Rompin Nemzeti Park Johor és Pahang államok határán, a Maláj-félsziget déli részén terül el, és a Taman Negara után a második legnagyobb védett erdőség. A park a rajta keresztülfolyó két fő folyóról, az Endauról és a Rompinról kapta a nevét. A terület geológiáját gigantikus ignimbrit-kőzetek és a mintegy 240 millió éve létrejött ősi vulkáni kalderák maradványai határozzák meg, amelyek a látványos Buaya Sangkut (Sziklás Krokodil) vízesés-sorozatot is formálták. A dzsungel az egyik utolsó menedéke a kritikusan veszélyeztetett szumátrai orrszarvúnak (bár jelenlétük ma már kétséges) és a maláj tigrisnek, emellett itt őshonos az egyedi, legyező formájú Livistona endauensis pálma. A biológia és a geológia oktatásában a vulkanikus eredetű őserdők eróziós folyamatainak és az izolált nagyragadozó-populációknak az esettanulmánya.",
+      ro: "",
+      en: "Endau-Rompin National Park, straddling the border of Johor and Pahang, is a rugged and remote wilderness that is home to some of Peninsular Malaysia's most ancient rock formations. The park is named after the two rivers that flow through it, the Endau and the Rompin. It is one of the last remaining strongholds for the critically endangered Sumatran rhinoceros, although sightings are extremely rare. The park is a popular destination for trekking, with trails leading to spectacular waterfalls like the Buaya Sangkut and Upeh Guling. The park is also home to several Orang Asli communities, including the Jakun tribe. Due to its remote location and challenging terrain, Endau-Rompin offers a genuine wilderness experience for adventurous travelers. The park is a vital component of the Central Forest Spine, a network of protected areas that is crucial for the conservation of Malaysia's biodiversity."
+    },
+    factsAdvanced: {
+      de: ["Der Park erstreckt sich über eine gewaltige Fläche von annähernd 870 Quadratkilometern.", "Das Gebiet besteht überwiegend aus 250 Millionen Jahre altem vulkanischem Gestein und Sandstein.", "Endau-Rompin ist das letzte große Reservat auf der Halbinsel für das Sumatra-Nashorn.", "Eine seltene, endemische Fächerpalme namens Livistona endauensis wächst nur in diesem Park.", "Der Buaya Sangkut Wasserfall gehört zu den größten und mächtigsten in Südmalaysia.", "Der Park wurde im Jahr 1993 offiziell vom Bundesstaat Johor unter strengen Schutz gestellt."],
+      hu: ["Johor és Pahang államok határán fekvő, a Taman Negara után a második legnagyobb maláj dzsungel.", "A terület geológiai alapját mintegy 240 millió éves (triász kori) vulkanikus kőzetek adják.", "A leghíresebb látványossága a Buaya Sangkut (Csapdába esett Krokodil) nevű hatalmas vízesés.", "Itt élt a szumátrai orrszarvú félszigeti populációjának utolsó hivatalos túlélő csapata.", "A park jelképe az egyedi, kifejezetten ezen a területen honos legyezőpálma (Livistona endauensis).", "A területen az őslakos 'Jakun' törzs él, akik legendáikban megőrizték a geológiai formációk neveit."],
+      ro: [],
+      en: ["Endau-Rompin National Park was officially gazetted in 1993.", "The park covers an area of 870 square kilometers, making it the second-largest national park in Peninsular Malaysia.", "It is home to some of the oldest rock formations in the country, dating back 248 million years.", "The park is one of the few remaining habitats for the Sumatran rhinoceros in Peninsular Malaysia.", "The highest point in the park is Gunung Besar, at 1,036 meters.", "The park is managed by the Johor and Pahang State Park Corporations.", "Access to the park is restricted, and visitors are required to hire a guide.", "The park is closed during the monsoon season from November to March."]
+    }
+  }
+];
+

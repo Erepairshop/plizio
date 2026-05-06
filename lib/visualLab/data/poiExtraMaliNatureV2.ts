@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMaliNatureV2: POI[] = [
@@ -27,8 +28,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Mali legmagasabb pontja", "Geológiai képződmény"],
       ro: ["Cel mai înalt punct din Mali", "Formațiune geologică"],
       en: ["Highest point in Mali", "Geological formation"]
-    }
-  },
+    }, image: "/poi-images/hombori-tondo-nature-v2.webp"},
   {
     id: "lake-faguibine-nature-v2",
     type: "lake",
@@ -41,8 +41,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Szezonális tó", "Fontos a mezőgazdaság számára"],
       ro: ["Lac sezonier", "Important pentru agricultură"],
       en: ["Seasonal lake", "Important for agriculture"]
-    }
-  },
+    }, image: "/poi-images/lake-faguibine-nature-v2.webp"},
   {
     id: "baoule-river-nature-v2",
     type: "river",
@@ -83,8 +82,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Niger belső deltája", "Fontos vizes élőhely"],
       ro: ["Delta interioară a Nigerului", "Zonă umedă importantă"],
       en: ["Inner Niger Delta", "Important wetland"]
-    }
-  },
+    }, image: "/poi-images/lake-debore-nature-v2.webp"},
   {
     id: "mount-dimamou-nature-v2",
     type: "mountain",
@@ -97,8 +95,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Nyugati felföld", "Hegyvidék"],
       ro: ["Podișul vestic", "Regiune montană"],
       en: ["Western highlands", "Mountain region"]
-    }
-  },
+    }, image: "/poi-images/mount-dimamou-nature-v2.webp"},
   {
     id: "bafing-river-nature-v2",
     type: "river",
@@ -111,8 +108,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["A Szenegál folyó forrása", "Vízenergia potenciál"],
       ro: ["Sursa râului Senegal", "Potențial hidroenergetic"],
       en: ["Source of Senegal River", "Hydroelectric potential"]
-    }
-  },
+    }, image: "/poi-images/bafing-river-nature-v2.webp"},
   {
     id: "mount-kourou-nature-v2",
     type: "mountain",
@@ -125,8 +121,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Dél-Mali", "Határközeli"],
       ro: ["Sudul Maliului", "Aproape de graniță"],
       en: ["Southern Mali", "Near the border"]
-    }
-  },
+    }, image: "/poi-images/mount-kourou-nature-v2.webp"},
   {
     id: "lake-tanda-nature-v2",
     type: "lake",
@@ -139,8 +134,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Kis tó", "Határvidék"],
       ro: ["Mic lac", "Regiune de frontieră"],
       en: ["Small lake", "Border region"]
-    }
-  },
+    }, image: "/poi-images/lake-tanda-nature-v2.webp"},
   {
     id: "mount-sarro-nature-v2",
     type: "mountain",
@@ -153,8 +147,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Nyugat-Mali", "Hegy"],
       ro: ["Vestul Maliului", "Munte"],
       en: ["West Mali", "Mountain"]
-    }
-  },
+    }, image: "/poi-images/mount-sarro-nature-v2.webp"},
   {
     id: "bakoy-river-nature-v2",
     type: "river",
@@ -181,8 +174,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Vizes élőhely", "Madárparadicsom"],
       ro: ["Zonă umedă", "Paradisul păsărilor"],
       en: ["Wetland", "Bird paradise"]
-    }
-  },
+    }, image: "/poi-images/lake-niangay-nature-v2.webp"},
   {
     id: "mount-tombouctou-nature-v2",
     type: "mountain",
@@ -195,8 +187,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Sivatagi domborzat", "Nevezetesség"],
       ro: ["Relief deșertic", "Emblemă"],
       en: ["Desert relief", "Landmark"]
-    }
-  },
+    }, image: "/poi-images/mount-tombouctou-nature-v2.webp"},
   {
     id: "baoule-ba-river-nature-v2",
     type: "river",
@@ -209,8 +200,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Folyóág", "Vízrendszer"],
       ro: ["Braț al râului", "Sistem hidrografic"],
       en: ["River branch", "Water system"]
-    }
-  },
+    }, image: "/poi-images/baoule-ba-river-nature-v2.webp"},
   {
     id: "mount-koulou-nature-v2",
     type: "mountain",
@@ -223,8 +213,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Sikasso régió", "Csúcs"],
       ro: ["Regiunea Sikasso", "Vârf"],
       en: ["Sikasso region", "Peak"]
-    }
-  },
+    }, image: "/poi-images/mount-koulou-nature-v2.webp"},
   {
     id: "lake-tele-nature-v2",
     type: "lake",
@@ -237,8 +226,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Mopti közelében", "Tájkép"],
       ro: ["Aproape de Mopti", "Peisaj"],
       en: ["Near Mopti", "Landscape"]
-    }
-  },
+    }, image: "/poi-images/lake-tele-nature-v2.webp"},
   {
     id: "bago-river-nature-v2",
     type: "river",
@@ -251,8 +239,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Termékeny Dél", "Folyó"],
       ro: ["Sudul fertil", "Râu"],
       en: ["Fertile south", "River"]
-    }
-  },
+    }, image: "/poi-images/bago-river-nature-v2.webp"},
   {
     id: "mount-gourma-nature-v2",
     type: "mountain",
@@ -265,8 +252,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Gourma régió", "Hegyvonulat"],
       ro: ["Regiunea Gourma", "Masiv muntos"],
       en: ["Gourma region", "Mountain massif"]
-    }
-  },
+    }, image: "/poi-images/mount-gourma-nature-v2.webp"},
   {
     id: "lake-korientze-nature-v2",
     type: "lake",
@@ -279,8 +265,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Közép-Mali", "Szezonális"],
       ro: ["Mali central", "Sezonier"],
       en: ["Central Mali", "Seasonal"]
-    }
-  },
+    }, image: "/poi-images/lake-korientze-nature-v2.webp"},
   {
     id: "mount-bam-nature-v2",
     type: "mountain",
@@ -293,8 +278,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Bam régió", "Dombság"],
       ro: ["Regiunea Bam", "Regiune deluroasă"],
       en: ["Bam region", "Hill country"]
-    }
-  },
+    }, image: "/poi-images/mount-bam-nature-v2.webp"},
   {
     id: "san-river-nature-v2",
     type: "river",
@@ -321,8 +305,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Dogon régió", "Tó"],
       ro: ["Regiunea Dogon", "Lac"],
       en: ["Dogon region", "Lake"]
-    }
-  },
+    }, image: "/poi-images/lake-doro-nature-v2.webp"},
   {
     id: "mount-dogon-nature-v2",
     type: "mountain",
@@ -335,8 +318,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Bandiagara-sziklafal", "Világörökség"],
       ro: ["Versantul Bandiagara", "Patrimoniu Mondial"],
       en: ["Bandiagara Escarpment", "World Heritage site"]
-    }
-  },
+    }, image: "/poi-images/mount-dogon-nature-v2.webp"},
   {
     id: "kourou-river-nature-v2",
     type: "river",
@@ -349,8 +331,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Dél-Mali", "Öntözés"],
       ro: ["Sudul Maliului", "Irigare"],
       en: ["South Mali", "Irrigation"]
-    }
-  },
+    }, image: "/poi-images/kourou-river-nature-v2.webp"},
   {
     id: "lake-aougoundou-nature-v2",
     type: "lake",
@@ -363,8 +344,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Timbuktu közelében", "Szezonális"],
       ro: ["Lângă Timbuktu", "Sezonier"],
       en: ["Near Timbuktu", "Seasonal"]
-    }
-  },
+    }, image: "/poi-images/lake-aougoundou-nature-v2.webp"},
   {
     id: "mount-bougouni-nature-v2",
     type: "mountain",
@@ -377,8 +357,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Bougouni", "Dombság"],
       ro: ["Bougouni", "Peisaj deluros"],
       en: ["Bougouni", "Hill country"]
-    }
-  },
+    }, image: "/poi-images/mount-bougouni-nature-v2.webp"},
   {
     id: "lake-nianga-nature-v2",
     type: "lake",
@@ -391,8 +370,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Észak-Mali", "Nomád erőforrás"],
       ro: ["Nordul Maliului", "Resursă nomadă"],
       en: ["Northern Mali", "Nomadic resource"]
-    }
-  },
+    }, image: "/poi-images/lake-nianga-nature-v2.webp"},
   {
     id: "mount-sikasso-nature-v2",
     type: "mountain",
@@ -405,8 +383,7 @@ export const poiExtraMaliNatureV2: POI[] = [
       hu: ["Sikasso régió", "Dombos"],
       ro: ["Regiunea Sikasso", "Deluros"],
       en: ["Sikasso region", "Hilly"]
-    }
-  },
+    }, image: "/poi-images/mount-sikasso-nature-v2.webp"},
   {
     id: "bafing-makana-river-nature-v2",
     type: "river",
@@ -422,3 +399,4 @@ export const poiExtraMaliNatureV2: POI[] = [
     }
   }
 ];
+

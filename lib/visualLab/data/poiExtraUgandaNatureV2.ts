@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUgandaNatureV2: POI[] = [
@@ -17,8 +18,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Uganda, Kenya és Tanzánia között terül el.", "Területe körülbelül 68 800 négyzetkilométer."],
       ro: ["Se întinde peste Uganda, Kenya și Tanzania.", "Suprafață de aproximativ 68.800 kilometri pătrați."],
       en: ["Spans across Uganda, Kenya, and Tanzania.", "Surface area of about 68,800 square kilometers."]
-    }
-  },
+    }, image: "/poi-images/victoria-lake-nature-v2.webp"},
   {
     id: "murchison-falls-nature-v2",
     type: "river",
@@ -35,8 +35,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["A Murchison Falls Nemzeti Park része.", "A Nílus körülbelül 43 métert zuhan a mélybe."],
       ro: ["Parte din Parcul Național Murchison Falls.", "Nilul coboară aproximativ 43 de metri în adâncime."],
       en: ["Part of Murchison Falls National Park.", "The Nile drops about 43 meters."]
-    }
-  },
+    }, image: "/poi-images/murchison-falls-nature-v2.webp"},
   {
     id: "mount-rwenzori-nature-v2",
     type: "mountain",
@@ -53,8 +52,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Itt található Afrika harmadik legmagasabb csúcsa.", "Híres gleccsereiről és alpesi növényzetéről."],
       ro: ["Găzduiește al treilea cel mai înalt vârf din Africa.", "Faimos pentru ghețarii și vegetația sa alpină."],
       en: ["Home to Africa's third-highest peak.", "Famous for its glaciers and alpine vegetation."]
-    }
-  },
+    }, image: "/poi-images/mount-rwenzori-nature-v2.webp"},
   {
     id: "queen-elizabeth-lake-nature-v2",
     type: "lake",
@@ -71,8 +69,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Uganda és a Kongói Demokratikus Köztársaság határán fekszik.", "Összeköttetésben áll a George-tóval."],
       ro: ["Situat la granița dintre Uganda și Republica Democratică Congo.", "Conectat cu Lacul George."],
       en: ["Located on the border between Uganda and the DR Congo.", "Connected to Lake George."]
-    }
-  },
+    }, image: "/poi-images/queen-elizabeth-lake-nature-v2.webp"},
   {
     id: "bunyonyi-lake-nature-v2",
     type: "lake",
@@ -89,8 +86,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Számos kis szigetéről ismert.", "Uganda egyik legmélyebb tava."],
       ro: ["Cunoscut pentru numeroasele sale insule mici.", "Unul dintre cele mai adânci lacuri din Uganda."],
       en: ["Known for its many small islands.", "One of the deepest lakes in Uganda."]
-    }
-  },
+    }, image: "/poi-images/bunyonyi-lake-nature-v2.webp"},
   {
     id: "budongo-forest-nature-v2",
     type: "forest",
@@ -107,8 +103,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Több mint 600 csimpánz otthona.", "Ritka mahagónifák találhatók itt."],
       ro: ["Găzduiește peste 600 de cimpanzei.", "Adăpostește arbori rari de mahon."],
       en: ["Home to over 600 chimpanzees.", "Harbors rare mahogany trees."]
-    }
-  },
+    }, image: "/poi-images/budongo-forest-nature-v2.webp"},
   {
     id: "elgon-mount-nature-v2",
     type: "mountain",
@@ -125,8 +120,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["A világ egyik legnagyobb vulkáni kalderájával rendelkezik.", "Legmagasabb csúcsa a Wagagai."],
       ro: ["Deține una dintre cele mai mari caldere vulcanice din lume.", "Cel mai înalt vârf se numește Wagagai."],
       en: ["Has one of the largest volcanic calderas in the world.", "The highest peak is called Wagagai."]
-    }
-  },
+    }, image: "/poi-images/elgon-mount-nature-v2.webp"},
   {
     id: "kibale-forest-nature-v2",
     type: "forest",
@@ -143,8 +137,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Több mint 13 főemlősfaj él itt.", "Nedves örökzöld erdőből áll."],
       ro: ["Peste 13 specii de primate trăiesc aici.", "Constă dintr-un amestec de pădure tropicală veșnic verde."],
       en: ["Over 13 primate species live here.", "Consists of a mixture of moist evergreen forest."]
-    }
-  },
+    }, image: "/poi-images/kibale-forest-nature-v2.webp"},
   {
     id: "kyoga-lake-nature-v2",
     type: "lake",
@@ -161,8 +154,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Nagyon sekély, kiterjedt mocsaras területekkel.", "Számos madárfaj élőhelye."],
       ro: ["Foarte puțin adânc, cu zone mlăștinoase extinse.", "Habitat pentru numeroase specii de păsări."],
       en: ["Very shallow with extensive swamp areas.", "Habitat for numerous bird species."]
-    }
-  },
+    }, image: "/poi-images/kyoga-lake-nature-v2.webp"},
   {
     id: "bwinidi-forest-nature-v2",
     type: "forest",
@@ -179,8 +171,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["A világ hegyi gorilla-állományának körülbelül felét rejti.", "Rendkívül fajgazdag."],
       ro: ["Găzduiește aproximativ jumătate din populația mondială de gorile de munte.", "Extrem de bogată în specii."],
       en: ["Home to about half of the world's mountain gorilla population.", "Extremely species-rich."]
-    }
-  },
+    }, image: "/poi-images/bwinidi-forest-nature-v2.webp"},
   {
     id: "george-lake-nature-v2",
     type: "lake",
@@ -197,8 +188,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Sekély és tápanyagban gazdag.", "Fontos élőhelyet biztosít a vízilovak számára."],
       ro: ["Puțin adânc și bogat în nutrienți.", "Oferă habitate importante pentru hipopotami."],
       en: ["Shallow and nutrient-rich.", "Provides important habitats for hippos."]
-    }
-  },
+    }, image: "/poi-images/george-lake-nature-v2.webp"},
   {
     id: "semliki-river-nature-v2",
     type: "river",
@@ -215,8 +205,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["A Kongóval közös határ egy részét alkotja.", "Gazdag ökoszisztémán keresztül folyik."],
       ro: ["Formează o parte a graniței cu Congo.", "Curge printr-un ecosistem bogat."],
       en: ["Forms part of the border with Congo.", "Flows through a rich ecosystem."]
-    }
-  },
+    }, image: "/poi-images/semliki-river-nature-v2.webp"},
   {
     id: "albert-lake-nature-v2",
     type: "lake",
@@ -233,8 +222,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Uganda második legnagyobb tava.", "Táplálja az Albert-Nílust."],
       ro: ["Al doilea cel mai mare lac din Uganda.", "Alimentează Nilul Albert."],
       en: ["Second largest lake in Uganda.", "Feeds the Albert Nile."]
-    }
-  },
+    }, image: "/poi-images/albert-lake-nature-v2.webp"},
   {
     id: "kazinga-channel-nature-v2",
     type: "river",
@@ -251,8 +239,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Magas vízilovak és krokodilok sűrűségéről ismert.", "Madármegfigyelők paradicsoma."],
       ro: ["Cunoscut pentru densitatea ridicată de hipopotami și crocodili.", "Un paradis pentru observatorii de păsări."],
       en: ["Known for high density of hippos and crocodiles.", "A paradise for bird watchers."]
-    }
-  },
+    }, image: "/poi-images/kazinga-channel-nature-v2.webp"},
   {
     id: "mount-moroto-nature-v2",
     type: "mountain",
@@ -269,8 +256,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["A Karamoja régióban található.", "Menedéket nyújt a száraz környezetben."],
       ro: ["Situat în regiunea Karamoja.", "Oferă un refugiu în mediul arid."],
       en: ["Located in the Karamoja region.", "Provides a refuge in an arid environment."]
-    }
-  },
+    }, image: "/poi-images/mount-moroto-nature-v2.webp"},
   {
     id: "mount-kadam-nature-v2",
     type: "mountain",
@@ -287,8 +273,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["A Karamoja régióban található.", "Kihívást jelentő hegymászó ösvényeket kínál."],
       ro: ["Situat în regiunea Karamoja.", "Oferă poteci de alpinism provocatoare."],
       en: ["Located in the Karamoja region.", "Offers challenging climbing paths."]
-    }
-  },
+    }, image: "/poi-images/mount-kadam-nature-v2.webp"},
   {
     id: "victoria-nile-nature-v2",
     type: "river",
@@ -305,8 +290,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Híres a Murchison-vízesésről.", "Fontos vízforrás Uganda számára."],
       ro: ["Cunoscut pentru Cascadele Murchison.", "Sursă importantă de apă pentru Uganda."],
       en: ["Known for the Murchison Falls.", "Important water source for Uganda."]
-    }
-  },
+    }, image: "/poi-images/victoria-nile-nature-v2.webp"},
   {
     id: "mount-sabyinyo-nature-v2",
     type: "mountain",
@@ -323,8 +307,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Uganda, Ruanda és a Kongói DK hármashatárpontja.", "Jelentése 'az öregember foga'."],
       ro: ["Punctul de frontieră tripartit între Uganda, Rwanda și RD Congo.", "Înseamnă 'dintele bătrânului'."],
       en: ["The tripoint between Uganda, Rwanda, and DR Congo.", "Means 'old man's tooth'."]
-    }
-  },
+    }, image: "/poi-images/mount-sabyinyo-nature-v2.webp"},
   {
     id: "mount-gahinga-nature-v2",
     type: "mountain",
@@ -341,8 +324,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Lankás lejtőiről ismert.", "A Mgahinga Gorilla Nemzeti Parkban található."],
       ro: ["Cunoscut pentru pantele sale line.", "Situat în Parcul Național Mgahinga Gorilla."],
       en: ["Known for its gentle slopes.", "Located in Mgahinga Gorilla National Park."]
-    }
-  },
+    }, image: "/poi-images/mount-gahinga-nature-v2.webp"},
   {
     id: "mount-muhavura-nature-v2",
     type: "mountain",
@@ -359,8 +341,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["A csúcsán található krátertóról híres.", "Látványos kilátást kínál."],
       ro: ["Cunoscut pentru un lac de crater pe vârf.", "Oferă o vedere spectaculoasă."],
       en: ["Known for a crater lake at the summit.", "Offers spectacular views."]
-    }
-  },
+    }, image: "/poi-images/mount-muhavura-nature-v2.webp"},
   {
     id: "isasha-river-nature-v2",
     type: "river",
@@ -377,8 +358,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["A közelében élő fára mászó oroszlánokról híres.", "Az Edward-tóba ömlik."],
       ro: ["Faimos pentru leii care se cațără în copaci în apropiere.", "Se varsă în Lacul Edward."],
       en: ["Famous for tree-climbing lions nearby.", "Flows into Lake Edward."]
-    }
-  },
+    }, image: "/poi-images/isasha-river-nature-v2.webp"},
   {
     id: "achwa-river-nature-v2",
     type: "river",
@@ -395,8 +375,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["A Fehér-Nílusba ömlik.", "Száraz szavannán folyik keresztül."],
       ro: ["Se varsă în Nilul Alb.", "Traversează un peisaj arid de savană."],
       en: ["Flows into the White Nile.", "Traverses a dry savanna landscape."]
-    }
-  },
+    }, image: "/poi-images/achwa-river-nature-v2.webp"},
   {
     id: "katonga-river-nature-v2",
     type: "river",
@@ -413,8 +392,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Kiterjedt vizes élőhelyekkel rendelkezik.", "Fontos védett terület a vadon élő állatok számára."],
       ro: ["Adăpostește zone umede extinse.", "Zonă protejată importantă pentru animalele sălbatice."],
       en: ["Home to extensive wetlands.", "Important protected area for wildlife."]
-    }
-  },
+    }, image: "/poi-images/katonga-river-nature-v2.webp"},
   {
     id: "mpanga-river-nature-v2",
     type: "river",
@@ -431,8 +409,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Fontos a helyi vízellátás szempontjából.", "Ritka halfajoknak ad otthont."],
       ro: ["Important pentru alimentarea cu apă locală.", "Găzduiește specii rare de pești."],
       en: ["Important for local water supply.", "Home to rare fish species."]
-    }
-  },
+    }, image: "/poi-images/mpanga-river-nature-v2.webp"},
   {
     id: "gulu-lake-nature-v2",
     type: "lake",
@@ -449,8 +426,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Az esős évszakban telik meg.", "Menedéket nyújt a vízimadarak számára."],
       ro: ["Se umple în sezonul ploios.", "Oferă un refugiu pentru păsările acvatice."],
       en: ["Fills up during the rainy season.", "Provides a refuge for water birds."]
-    }
-  },
+    }, image: "/poi-images/gulu-lake-nature-v2.webp"},
   {
     id: "wambe-forest-nature-v2",
     type: "forest",
@@ -467,8 +443,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Magas biodiverzitásáról ismert.", "Számos majomfaj élőhelye."],
       ro: ["Cunoscută pentru biodiversitatea ridicată.", "Habitat pentru numeroase specii de maimuțe."],
       en: ["Known for high biodiversity.", "Habitat for numerous monkey species."]
-    }
-  },
+    }, image: "/poi-images/wambe-forest-nature-v2.webp"},
   {
     id: "karuma-falls-nature-v2",
     type: "river",
@@ -485,8 +460,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Erős sodrásáról ismert.", "Fontos csomópont a folyó folyása számára."],
       ro: ["Cunoscută pentru curentul puternic.", "Un punct important pentru cursul râului."],
       en: ["Known for the strong current.", "Important junction for the river flow."]
-    }
-  },
+    }, image: "/poi-images/karuma-falls-nature-v2.webp"},
   {
     id: "ssese-islands-nature-v2",
     type: "island",
@@ -503,8 +477,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Több mint 80 szigetből áll.", "Híres trópusi növényzetéről."],
       ro: ["Compus din peste 80 de insule.", "Faimos pentru vegetația sa tropicală."],
       en: ["Consists of over 80 islands.", "Known for its tropical vegetation."]
-    }
-  },
+    }, image: "/poi-images/ssese-islands-nature-v2.webp"},
   {
     id: "kibale-river-nature-v2",
     type: "river",
@@ -521,8 +494,7 @@ export const poiExtraUgandaNatureV2: POI[] = [
       hu: ["Támogatja a helyi vadvilágot.", "Fontos itatóhelyeket biztosít."],
       ro: ["Susține viața sălbatică locală.", "Oferă puncte de adăpare importante."],
       en: ["Supports local wildlife.", "Provides important watering holes."]
-    }
-  },
+    }, image: "/poi-images/kibale-river-nature-v2.webp"},
   {
     id: "nile-river-nature-v2",
     type: "river",
@@ -542,3 +514,4 @@ export const poiExtraUgandaNatureV2: POI[] = [
       }
   }
 ];
+

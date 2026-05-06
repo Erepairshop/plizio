@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCubaNatureV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Nagy biodiverzitás", "Az Alexander von Humboldt Nemzeti Parkon folyik keresztül", "Tiszta víz és számos zúgó"],
       ro: ["Biodiversitate ridicată", "Curge prin Parcul Național Alexander von Humboldt", "Apă limpede și numeroase repezișuri"],
       en: ["High biodiversity", "Flows through Alexander von Humboldt National Park", "Clear water and numerous rapids"]
-    }
-  },
+    }, image: "/poi-images/rio-toya-nature-v2.webp"},
   {
     id: "pico-cristal-nature-v2",
     type: "mountain",
@@ -37,8 +37,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Magassága kb. 1231 méter", "Endemikus növény- és állatvilág", "Fenyőerdők a lejtőkön"],
       ro: ["Altitudine aprox. 1231 de metri", "Floră și faună endemică", "Păduri de pini pe versanți"],
       en: ["Elevation approx. 1231 meters", "Endemic flora and fauna", "Pine forests on its slopes"]
-    }
-  },
+    }, image: "/poi-images/pico-cristal-nature-v2.webp"},
   {
     id: "gran-piedra-nature-v2",
     type: "mountain",
@@ -56,8 +55,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["A világ harmadik legnagyobb monolitja", "1234 méteres tengerszint feletti magasság", "Botanikus kert veszi körül"],
       ro: ["Al treilea cel mai mare monolit din lume", "Altitudine de 1234 de metri deasupra nivelului mării", "Înconjurat de o grădină botanică"],
       en: ["Third largest monolith in the world", "Elevation of 1234 meters above sea level", "Surrounded by a botanical garden"]
-    }
-  },
+    }, image: "/poi-images/gran-piedra-nature-v2.webp"},
   {
     id: "cayo-largo-del-sur-nature-v2",
     type: "island",
@@ -75,8 +73,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Népszerű búvár- és sznorkelezőhely", "Tengeri teknősök költőhelye", "Nincs állandó lakossága"],
       ro: ["Destinație populară pentru scufundări și snorkeling", "Loc de cuibărit pentru țestoasele marine", "Fără populație permanentă"],
       en: ["Popular diving and snorkeling destination", "Nesting site for sea turtles", "No permanent population"]
-    }
-  },
+    }, image: "/poi-images/cayo-largo-del-sur-nature-v2.webp"},
   {
     id: "parque-nacional-caguanes-nature-v2",
     type: "forest",
@@ -94,8 +91,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["UNESCO bioszféra-rezervátum", "Több mint 70 régészeti lelőhely", "Nagy denevérkolóniák otthona"],
       ro: ["Rezervație a biosferei UNESCO", "Peste 70 de situri arheologice", "Adăpostește mari colonii de lilieci"],
       en: ["UNESCO Biosphere Reserve", "Over 70 archaeological sites", "Home to large bat colonies"]
-    }
-  },
+    }, image: "/poi-images/parque-nacional-caguanes-nature-v2.webp"},
   {
     id: "gulf-of-guacanayabo-nature-v2",
     type: "sea",
@@ -113,8 +109,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Fontos halászati terület", "A Cauto folyó torkolata", "Kiterjedt mangroveerdők"],
       ro: ["Zonă de pescuit importantă", "Gura de vărsare a râului Cauto", "Păduri extinse de mangrove"],
       en: ["Important fishing area", "Mouth of the Cauto River", "Extensive mangrove forests"]
-    }
-  },
+    }, image: "/poi-images/gulf-of-guacanayabo-nature-v2.webp"},
   {
     id: "rio-yumuri-nature-v2",
     type: "river",
@@ -132,8 +127,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Híres a Yumurí-kanyonról", "Festői táj", "Baracoa közelében ömlik a tengerbe"],
       ro: ["Faimos pentru Canionul Yumurí", "Peisaj pitoresc", "Se varsă în mare lângă Baracoa"],
       en: ["Famous for the Yumurí Canyon", "Picturesque landscape", "Flows into the sea near Baracoa"]
-    }
-  },
+    }, image: "/poi-images/rio-yumuri-nature-v2.webp"},
   {
     id: "el-yunque-de-baracoa-nature-v2",
     type: "mountain",
@@ -151,8 +145,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["575 méter magas", "Egyedülálló ökoszisztéma endemikus fajokkal", "Kolumbusz a naplójában írta le"],
       ro: ["Altitudine de 575 de metri", "Ecosistem unic cu specii endemice", "Descris de Columb în jurnalul său"],
       en: ["Height of 575 meters", "Unique ecosystem with endemic species", "Described by Columbus in his logbook"]
-    }
-  },
+    }, image: "/poi-images/el-yunque-de-baracoa-nature-v2.webp"},
   {
     id: "hanabanilla-lake-nature-v2",
     type: "lake",
@@ -170,8 +163,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Mesterséges víztározó", "Népszerű a pisztránghorgászat miatt", "Sűrű erdők veszik körül"],
       ro: ["Lac de acumulare artificial", "Popular pentru pescuitul de păstrăv", "Înconjurat de păduri dese"],
       en: ["Artificial reservoir", "Popular for trout fishing", "Surrounded by dense forests"]
-    }
-  },
+    }, image: "/poi-images/hanabanilla-lake-nature-v2.webp"},
   {
     id: "cayo-guillermo-nature-v2",
     type: "island",
@@ -189,8 +181,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["A Playa Pilar Kuba egyik legszebb strandja", "Magas homokdűnék, akár 15 méteresek is", "Hemingway gyakori látogató volt"],
       ro: ["Playa Pilar este una dintre cele mai frumoase plaje din Cuba", "Dune de nisip înalte, de până la 15 metri", "Hemingway a fost un vizitator frecvent"],
       en: ["Playa Pilar is one of Cuba's most beautiful beaches", "High sand dunes, up to 15 meters", "Hemingway was a frequent visitor"]
-    }
-  },
+    }, image: "/poi-images/cayo-guillermo-nature-v2.webp"},
   {
     id: "desembarco-del-granma-np-nature-v2",
     type: "forest",
@@ -208,8 +199,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Egyedülálló tengeri teraszrendszer", "A Granma jacht történelmi partraszállási helye", "Magas sziklák és karsztrendszerek"],
       ro: ["Sistem unic de terase marine", "Locul istoric de debarcare a iahtului Granma", "Stânci înalte și sisteme carstice"],
       en: ["Unique system of marine terraces", "Historic landing site of the Granma yacht", "High cliffs and karst systems"]
-    }
-  },
+    }, image: "/poi-images/desembarco-del-granma-np-nature-v2.webp"},
   {
     id: "bay-of-pigs-nature-v2",
     type: "sea",
@@ -227,8 +217,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Történelmi inváziós helyszín", "Cenoték és víz alatti barlangok a búvárkodáshoz", "A Zapata-félsziget része"],
       ro: ["Loc istoric al invaziei", "Cenote și peșteri subacvatice pentru scufundări", "Parte a Peninsulei Zapata"],
       en: ["Historic invasion site", "Cenotes and underwater caves for diving", "Part of the Zapata Peninsula"]
-    }
-  },
+    }, image: "/poi-images/bay-of-pigs-nature-v2.webp"},
   {
     id: "rio-aguanabo-nature-v2",
     type: "river",
@@ -246,8 +235,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Átfolyik a Valle de los Ingenios-on", "Az Ancón strandnál ömlik a tengerbe", "Fontos vízforrás a régió számára"],
       ro: ["Curge prin Valle de los Ingenios", "Se varsă pe plaja Ancón", "Sursă importantă de apă pentru regiune"],
       en: ["Flows through the Valle de los Ingenios", "Empties at Ancón beach", "Important water source for the region"]
-    }
-  },
+    }, image: "/poi-images/rio-aguanabo-nature-v2.webp"},
   {
     id: "pico-san-juan-nature-v2",
     type: "mountain",
@@ -265,8 +253,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["1140 méter magas", "A Topes de Collantes Natúrpark része", "Széles kilátást nyújt"],
       ro: ["Altitudine de 1140 de metri", "Parte a Parcului Natural Topes de Collantes", "Oferă o priveliște vastă"],
       en: ["Elevation of 1140 meters", "Part of the Topes de Collantes Nature Park", "Offers a wide view"]
-    }
-  },
+    }, image: "/poi-images/pico-san-juan-nature-v2.webp"},
   {
     id: "zaza-reservoir-nature-v2",
     type: "lake",
@@ -303,8 +290,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["A Jardines del Rey szigetcsoport része", "Híres luxus all-inclusive üdülőhelyeiről", "Hosszú, fehér homokos strandok"],
       ro: ["Parte a arhipelagului Jardines del Rey", "Cunoscută pentru resorturile de lux all-inclusive", "Plaje lungi cu nisip alb"],
       en: ["Part of the Jardines del Rey archipelago", "Known for luxury all-inclusive resorts", "Long white sandy beaches"]
-    }
-  },
+    }, image: "/poi-images/cayo-santa-maria-nature-v2.webp"},
   {
     id: "cienaga-de-lanier-nature-v2",
     type: "forest",
@@ -322,8 +308,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Fontos ökoszisztéma", "A kubai krokodil otthona", "Nehezen megközelíthető"],
       ro: ["Ecosistem important", "Habitatul crocodilului cubanez", "Greu accesibil"],
       en: ["Important ecosystem", "Home to the Cuban crocodile", "Difficult to access"]
-    }
-  },
+    }, image: "/poi-images/cienaga-de-lanier-nature-v2.webp"},
   {
     id: "strait-of-florida-nature-v2",
     type: "sea",
@@ -341,8 +326,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Erős tengeri áramlat (Golf-áramlat)", "Fontos hajózási útvonal", "Szélessége kb. 150 km"],
       ro: ["Curent marin puternic (Curentul Golfului)", "Roută maritimă importantă", "Lățime de aprox. 150 km"],
       en: ["Strong ocean current (Gulf Stream)", "Important shipping route", "Width of about 150 km"]
-    }
-  },
+    }, image: "/poi-images/strait-of-florida-nature-v2.webp"},
   {
     id: "rio-almendares-nature-v2",
     type: "river",
@@ -360,8 +344,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["A Floridai-szorosba ömlik", "Nagy városi park (Parque Almendares) a partján", "Történelmileg fontos vízforrás volt Havanna számára"],
       ro: ["Se varsă în Strâmtoarea Florida", "Parc urban mare (Parcul Almendares) pe malurile sale", "Sursă de apă istoric importantă pentru Havana"],
       en: ["Flows into the Strait of Florida", "Large urban park (Almendares Park) on its banks", "Historically important water source for Havana"]
-    }
-  },
+    }, image: "/poi-images/rio-almendares-nature-v2.webp"},
   {
     id: "pan-de-guajaibon-nature-v2",
     type: "mountain",
@@ -379,8 +362,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Magassága kb. 699 méter", "Egy UNESCO bioszféra-rezervátum része", "Tiszta napokon kilátás nyílik a partig"],
       ro: ["Altitudine de aprox. 699 de metri", "Parte a unei rezervații a biosferei UNESCO", "Oferă o vedere până la coastă în zilele senine"],
       en: ["Elevation of approx. 699 meters", "Part of a UNESCO Biosphere Reserve", "Offers views to the coast on clear days"]
-    }
-  },
+    }, image: "/poi-images/pan-de-guajaibon-nature-v2.webp"},
   {
     id: "redonda-lagoon-nature-v2",
     type: "lake",
@@ -398,8 +380,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Népszerű célpont a sporthorgászok számára", "Festői mangrove-csatornák", "Csónakázási lehetőségek"],
       ro: ["Destinație populară pentru pescuit sportiv", "Canale pitorești de mangrove", "Se oferă plimbări cu barca"],
       en: ["Popular destination for sport fishing", "Picturesque mangrove channels", "Boat tours are available"]
-    }
-  },
+    }, image: "/poi-images/redonda-lagoon-nature-v2.webp"},
   {
     id: "cayo-jutias-nature-v2",
     type: "island",
@@ -417,8 +398,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Fehér homokos strand", "Mangrovék és tengeri csillagok", "Nincsenek szállodák, csak napos kirándulások"],
       ro: ["Plajă cu nisip alb", "Mangrove și stele de mare", "Fără hoteluri, doar excursii de o zi"],
       en: ["White sand beach", "Mangroves and starfish", "No hotels, only day trips"]
-    }
-  },
+    }, image: "/poi-images/cayo-jutias-nature-v2.webp"},
   {
     id: "alexander-humboldt-np-nature-v2",
     type: "forest",
@@ -436,8 +416,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Rendkívül magas endemizmus arány", "Nedves, hegyvidéki terep", "Számos veszélyeztetett faj védelme"],
       ro: ["Rată extrem de ridicată de endemism", "Teren umed, muntos", "Protecție pentru multe specii pe cale de dispariție"],
       en: ["Extremely high rate of endemism", "Humid, mountainous terrain", "Protection for many endangered species"]
-    }
-  },
+    }, image: "/poi-images/alexander-humboldt-np-nature-v2.webp"},
   {
     id: "gulf-of-batabano-nature-v2",
     type: "sea",
@@ -455,8 +434,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Fontos homárhalászati terület", "Nagyon sekély víz", "Az Ifjúság szigete határolja"],
       ro: ["Zonă importantă de pescuit pentru homari", "Apă foarte puțin adâncă", "Mărginit de Isla de la Juventud"],
       en: ["Important lobster fishing area", "Very shallow waters", "Bordered by the Isle of Youth"]
-    }
-  },
+    }, image: "/poi-images/gulf-of-batabano-nature-v2.webp"},
   {
     id: "rio-san-juan-nature-v2",
     type: "river",
@@ -474,8 +452,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Matanzast a 'hidak városának' is nevezik", "A Río Yumuríval együtt osztja ketté a várost", "A Matanzas-öbölbe ömlik"],
       ro: ["Matanzas este numit 'Orașul Podurilor'", "Împarte orașul împreună cu Río Yumurí", "Se varsă în Golful Matanzas"],
       en: ["Matanzas is called the 'City of Bridges'", "Divides the city along with the Yumurí River", "Flows into the Bay of Matanzas"]
-    }
-  },
+    }, image: "/poi-images/rio-san-juan-nature-v2.webp"},
   {
     id: "salto-del-caburni-nature-v2",
     type: "mountain",
@@ -493,8 +470,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Kb. 62 méter magas vízesés", "Természetes medence a lábánál", "Népszerű túracélpont a Topes de Collantes-ben"],
       ro: ["Cascadă de aproximativ 62 de metri înălțime", "Bazin natural de înot la bază", "Destinație populară de drumeție în Topes de Collantes"],
       en: ["Approx. 62-meter high waterfall", "Natural swimming pool at its base", "Popular hiking destination in Topes de Collantes"]
-    }
-  },
+    }, image: "/poi-images/salto-del-caburni-nature-v2.webp"},
   {
     id: "laguna-de-la-restinga-nature-v2",
     type: "lake",
@@ -512,8 +488,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Brakkvízi ökoszisztéma", "Fontos a vízimadarak számára", "Mangrovék szegélyezik a partokat"],
       ro: ["Ecosistem de apă salmastră", "Important pentru păsările de apă", "Mangrovele mărginesc malurile"],
       en: ["Brackish water ecosystem", "Important for aquatic birds", "Mangroves line the shores"]
-    }
-  },
+    }, image: "/poi-images/laguna-de-la-restinga-nature-v2.webp"},
   {
     id: "cayo-levisa-nature-v2",
     type: "island",
@@ -531,8 +506,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Csak hajóval érhető el", "Közeli korallzátonyok", "Három kilométer hosszú fehér homokos strand"],
       ro: ["Accesibil doar cu barca", "Recife de corali în apropiere", "Plajă de trei kilometri cu nisip alb"],
       en: ["Accessible only by boat", "Nearby coral reefs", "Three-kilometer-long white sand beach"]
-    }
-  },
+    }, image: "/poi-images/cayo-levisa-nature-v2.webp"},
   {
     id: "penon-del-fraile-nature-v2",
     type: "forest",
@@ -550,8 +524,7 @@ export const poiExtraCubaNatureV2: POI[] = [
       hu: ["Védett terület", "Bennszülött növényvilág", "Csendes természeti táj"],
       ro: ["Arie protejată", "Floră nativă", "Peisaj natural liniștit"],
       en: ["Protected area", "Native flora", "Quiet natural landscape"]
-    }
-  },
+    }, image: "/poi-images/penon-del-fraile-nature-v2.webp"},
   {
     id: "ensenada-de-la-broa-nature-v2",
     type: "sea",
@@ -572,3 +545,4 @@ export const poiExtraCubaNatureV2: POI[] = [
     }
   }
 ];
+

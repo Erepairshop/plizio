@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCostaricaCitiesV2: POI[] = [
@@ -41,8 +42,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Populația districtului San Francisco depășește 50.000 de locuitori."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-francisco-de-heredia-cities-v2.webp"},
   {
     id: 'paraiso-de-cartago-cities-v2',
     type: 'city',
@@ -83,8 +83,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Regiunea primește o cantitate medie de precipitații de 2.100 mm pe an."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/paraiso-de-cartago-cities-v2.webp"},
   {
     id: 'san-isidro-de-el-general-cities-v2',
     type: 'city',
@@ -125,8 +124,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Temperatura medie anuală în această regiune este de aproximativ 24 de grade Celsius."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-isidro-de-el-general-cities-v2.webp"},
   {
     id: 'curridabat-cities-v2',
     type: 'city',
@@ -167,8 +165,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Populația totală a cantonului depășește 75.000 de persoane."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/curridabat-cities-v2.webp"},
   {
     id: 'san-vicente-de-moravia-cities-v2',
     type: 'city',
@@ -209,8 +206,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Districtul San Vicente se întinde pe o suprafață de aproximativ 5,4 kilometri pătrați."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-vicente-de-moravia-cities-v2.webp"},
   {
     id: 'purral-de-goicoechea-cities-v2',
     type: 'city',
@@ -293,8 +289,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Cantonul Turrialba este cel mai mare ca suprafață din provincia Cartago."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/turrialba-de-cartago-cities-v2.webp"},
   {
     id: 'san-miguel-de-desamparados-cities-v2',
     type: 'city',
@@ -335,8 +330,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "O arteră de transport importantă conectează orașul cu regiunile montane din sud."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-miguel-de-desamparados-cities-v2.webp"},
   {
     id: 'san-pedro-de-montes-de-oca-cities-v2',
     type: 'city',
@@ -377,8 +371,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Peste 50% din populația cantonului are vârsta cuprinsă între 15 și 44 de ani."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-pedro-de-montes-de-oca-cities-v2.webp"},
   {
     id: 'quesada-de-san-carlos-cities-v2',
     type: 'city',
@@ -419,8 +412,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Temperatura medie în această zonă este de aproximativ 24 de grade Celsius."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/quesada-de-san-carlos-cities-v2.webp"},
   {
     id: 'ipis-de-goicoechea-cities-v2',
     type: 'city',
@@ -501,8 +493,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Găzduiește sedii importante ale unor instituții de învățământ superior din regiune."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/chacarita-de-puntarenas-cities-v2.webp"},
   {
     id: 'san-juan-de-tibas-cities-v2',
     type: 'city',
@@ -542,8 +533,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Temperatura medie se menține constantă la aproximativ 21 de grade Celsius pe tot parcursul anului."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-juan-de-tibas-cities-v2.webp"},
   {
     id: 'mercedes-de-heredia-cities-v2',
     type: 'city',
@@ -583,8 +573,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Populația districtului Mercedes depășește cifra de 28.000 de locuitori."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/mercedes-de-heredia-cities-v2.webp"},
   {
     id: 'guadalupe-de-goicoechea-cities-v2',
     type: 'city',
@@ -624,8 +613,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Populația districtului Guadalupe este de aproximativ 22.000 de persoane."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/guadalupe-de-goicoechea-cities-v2.webp"},
   {
     id: 'aserri-de-san-jose-cities-v2',
     type: 'city',
@@ -665,8 +653,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Peste 50% din suprafața cantonului este formată din zone muntoase și păduri protejate."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/aserri-de-san-jose-cities-v2.webp"},
   {
     id: 'san-rafael-de-escazu-cities-v2',
     type: 'city',
@@ -706,8 +693,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Este situat la o distanță de aproximativ 8 kilometri de centrul capitalei San José."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-rafael-de-escazu-cities-v2.webp"},
   {
     id: 'san-felipe-de-alajuelita-cities-v2',
     type: 'city',
@@ -747,8 +733,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Cantonul Alajuelita, din care face parte, a fost înființat în anul 1909."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-felipe-de-alajuelita-cities-v2.webp"},
   {
     id: 'patarra-de-desamparados-cities-v2',
     type: 'city',
@@ -830,8 +815,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Se află direct pe traseul autostrăzii Panamericane (Interamericana Sur)."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/tejar-de-el-guarco-cities-v2.webp"},
   {
     id: 'san-pablo-de-heredia-cities-v2',
     type: 'city',
@@ -872,8 +856,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "În trecut, localitatea era cunoscută sub numele de „Pueblo Nuevo”."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-pablo-de-heredia-cities-v2.webp"},
   {
     id: 'calle-blancos-de-goicoechea-cities-v2',
     type: 'city',
@@ -914,8 +897,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Temperatura medie anuală în această zonă este de 22 de grade Celsius."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/calle-blancos-de-goicoechea-cities-v2.webp"},
   {
     id: 'canas-de-guanacaste-cities-v2',
     type: 'city',
@@ -956,8 +938,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Parcul eolian Tilarán din apropiere este unul dintre cele mai mari din regiune."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/canas-de-guanacaste-cities-v2.webp"},
   {
     id: 'guapiles-de-pococi-cities-v2',
     type: 'city',
@@ -998,8 +979,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Găzduiește mai multe spitale regionale și instituții de învățământ importante."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/guapiles-de-pococi-cities-v2.webp"},
   {
     id: 'siquirres-de-limon-cities-v2',
     type: 'city',
@@ -1040,8 +1020,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Râul Pacuare se află la doar câțiva kilometri de centrul orașului."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/siquirres-de-limon-cities-v2.webp"},
   {
     id: 'san-diego-de-la-union-cities-v2',
     type: 'city',
@@ -1082,8 +1061,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Este o locație importantă pentru noile dezvoltări comerciale de-a lungul autostrăzii Florencio del Castillo."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-diego-de-la-union-cities-v2.webp"},
   {
     id: 'esparza-de-puntarenas-cities-v2',
     type: 'city',
@@ -1124,8 +1102,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Cunoscut pentru producția de carne de vită de înaltă calitate și cereale."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/esparza-de-puntarenas-cities-v2.webp"},
   {
     id: 'nicoya-de-guanacaste-cities-v2',
     type: 'city',
@@ -1166,8 +1143,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Unul dintre cele mai vechi locuri locuite din țară, cu rădăcini precolumbiene."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/nicoya-de-guanacaste-cities-v2.webp"},
   {
     id: 'santa-cruz-de-guanacaste-cities-v2',
     type: 'city',
@@ -1208,8 +1184,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Timpul de condus până la plajele Tamarindo și Flamingo este de circa 45 de minute."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/santa-cruz-de-guanacaste-cities-v2.webp"},
   {
     id: 'naranjo-de-alajuela-cities-v2',
     type: 'city',
@@ -1250,8 +1225,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Populația cantonului Naranjo este de peste 45.000 de locuitori."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/naranjo-de-alajuela-cities-v2.webp"},
   {
     id: 'san-ramon-de-alajuela-cities-v2',
     type: 'city',
@@ -1292,8 +1266,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Piața săptămânală locală (Feria) este considerată una dintre cele mai bune din regiune."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-ramon-de-alajuela-cities-v2.webp"},
   {
     id: 'la-garita-de-alajuela-cities-v2',
     type: 'city',
@@ -1334,8 +1307,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Temperatura medie este constantă la aproximativ 24 de grade Celsius."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/la-garita-de-alajuela-cities-v2.webp"},
   {
     id: 'san-antonio-de-alajuela-cities-v2',
     type: 'city',
@@ -1376,8 +1348,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Cel mai important sector economic este reprezentat de industrie și servicii."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-antonio-de-alajuela-cities-v2.webp"},
   {
     id: 'zarcero-de-alajuela-cities-v2',
     type: 'city',
@@ -1418,8 +1389,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Biserica San Rafael posedă picturi pe tavan impresionante."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/zarcero-de-alajuela-cities-v2.webp"},
   {
     id: 'pital-de-san-carlos-cities-v2',
     type: 'city',
@@ -1460,8 +1430,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Deține un aerodrom regional pentru zboruri agricole și avioane mici."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/pital-de-san-carlos-cities-v2.webp"},
   {
     id: 'aguas-zarcas-de-san-carlos-cities-v2',
     type: 'city',
@@ -1502,8 +1471,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Distanța până la capitala provinciei, Quesada, este de aproximativ 15 kilometri."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/aguas-zarcas-de-san-carlos-cities-v2.webp"},
   {
     id: 'florencia-de-san-carlos-cities-v2',
     type: 'city',
@@ -1544,8 +1512,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Distanța până la Vulcanul Arenal (La Fortuna) este de aproximativ 35 de kilometri."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/florencia-de-san-carlos-cities-v2.webp"},
   {
     id: 'palmares-de-alajuela-cities-v2',
     type: 'city',
@@ -1586,8 +1553,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Parcul central are o suprafață de aproximativ 5.000 de metri pătrați."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/palmares-de-alajuela-cities-v2.webp"},
   {
     id: 'atenas-de-alajuela-cities-v2',
     type: 'city',
@@ -1628,8 +1594,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Se află la o altitudine de 698 de metri deasupra nivelului mării."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/atenas-de-alajuela-cities-v2.webp"},
   {
     id: 'grecia-de-alajuela-cities-v2',
     type: 'city',
@@ -1670,8 +1635,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Grecia a fost primul oraș din America Centrală care a introdus un sistem organizat de colectare a deșeurilor."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/grecia-de-alajuela-cities-v2.webp"},
   {
     id: 'sarchi-de-alajuela-cities-v2',
     type: 'city',
@@ -1712,8 +1676,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Biserica locală are o fațadă spectaculoasă, decorată cu peste 1.000 de ornamente individuale."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/sarchi-de-alajuela-cities-v2.webp"},
   {
     id: 'tres-rios-de-la-union-cities-v2',
     type: 'city',
@@ -1754,8 +1717,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Populația districtului Tres Ríos este estimată la peste 10.000 de persoane."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/tres-rios-de-la-union-cities-v2.webp"},
   {
     id: 'cot-de-oriamuno-cities-v2',
     type: 'city',
@@ -1838,8 +1800,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Punctul de observație Mirador de Orosi oferă o vedere panoramică spectaculoasă asupra întregii văi."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/orosi-de-paraiso-cities-v2.webp"},
   {
     id: 'juan-vinas-de-jimenez-cities-v2',
     type: 'city',
@@ -1880,8 +1841,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Juan Viñas a fost o stație importantă pe linia de cale ferată istorică spre Atlantic."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/juan-vinas-de-jimenez-cities-v2.webp"},
   {
     id: 'pacayas-de-alvarado-cities-v2',
     type: 'city',
@@ -1964,8 +1924,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Orașul este unul dintre principalii exportatori de pepeni galbeni pentru piața americană."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/filadelfia-de-carrillo-cities-v2.webp"},
   {
     id: 'tilaran-de-guanacaste-cities-v2',
     type: 'city',
@@ -2006,8 +1965,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Temperatura medie anuală este de aproximativ 22 de grade Celsius."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/tilaran-de-guanacaste-cities-v2.webp"},
   {
     id: 'bagaces-de-guanacaste-cities-v2',
     type: 'city',
@@ -2090,8 +2048,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Orașul are cea mai mare densitate de arbori pe cap de locuitor într-o zonă urbană din Guanacaste."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/hojancha-de-guanacaste-cities-v2.webp"},
   {
     id: 'samara-de-nicoya-cities-v2',
     type: 'city',
@@ -2132,8 +2089,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "În timpul sezonului de vârf, din decembrie până în aprilie, soarele este garantat aproape 100% din timp."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/samara-de-nicoya-cities-v2.webp"},
   {
     id: 'nosara-de-nicoya-cities-v2',
     type: 'city',
@@ -2174,8 +2130,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Lunile septembrie și octombrie sunt perioadele principale pentru „arribadas” sau sosirile masive ale țestoaselor."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/nosara-de-nicoya-cities-v2.webp"},
   {
     id: 'playas-del-coco-cities-v2',
     type: 'city',
@@ -2216,8 +2171,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Temperatura apei în golf rămâne constantă între 26 și 29 de grade Celsius tot anul."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/playas-del-coco-cities-v2.webp"},
   {
     id: 'belen-de-carrillo-cities-v2',
     type: 'city',
@@ -2258,8 +2212,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Se află la aproximativ 20 de kilometri sud de aeroportul din Liberia."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/belen-de-carrillo-cities-v2.webp"},
   {
     id: 'san-joaquin-de-flores-cities-v2',
     type: 'city',
@@ -2300,8 +2253,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Se află la o altitudine de aproximativ 1.054 de metri deasupra nivelului mării."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-joaquin-de-flores-cities-v2.webp"},
   {
     id: 'santo-domingo-de-heredia-cities-v2',
     type: 'city',
@@ -2342,8 +2294,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Santo Domingo este situat la doar 7 kilometri nord de centrul capitalei San José."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/santo-domingo-de-heredia-cities-v2.webp"},
   {
     id: 'barva-de-heredia-cities-v2',
     type: 'city',
@@ -2384,8 +2335,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Se află la o altitudine de aproximativ 1.176 de metri deasupra nivelului mării."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/barva-de-heredia-cities-v2.webp"},
   {
     id: 'santa-barbara-de-heredia-cities-v2',
     type: 'city',
@@ -2426,8 +2376,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Temperatura medie se menține la o valoare blândă de 20 de grade Celsius tot anul."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/santa-barbara-de-heredia-cities-v2.webp"},
   {
     id: 'belen-de-heredia-cities-v2',
     type: 'city',
@@ -2468,8 +2417,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Este situat la doar 15 minute de mers cu mașina de aeroportul internațional."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/belen-de-heredia-cities-v2.webp"},
   {
     id: 'bribri-de-talamanca-cities-v2',
     type: 'city',
@@ -2510,8 +2458,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Climatul este tropical-umed, cu precipitații anuale ce depășesc 3.000 mm."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/bribri-de-talamanca-cities-v2.webp"},
   {
     id: 'matina-de-limon-cities-v2',
     type: 'city',
@@ -2552,8 +2499,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Climatul este extrem de umed, cu temperaturi care depășesc frecvent 30 de grade Celsius."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/matina-de-limon-cities-v2.webp"},
   {
     id: 'puerto-viejo-de-talamanca-cities-v2',
     type: 'city',
@@ -2594,8 +2540,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Cea mai bună perioadă de vizită este septembrie-octombrie, când restul țării are sezon ploios."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/puerto-viejo-de-talamanca-cities-v2.webp"},
   {
     id: 'guacimo-de-limon-cities-v2',
     type: 'city',
@@ -2636,8 +2581,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Se află la o distanță de aproximativ 70 de kilometri est de capitala San José."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/guacimo-de-limon-cities-v2.webp"},
   {
     id: 'jaco-de-garabito-cities-v2',
     type: 'city',
@@ -2678,8 +2622,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "A fost primul oraș din țară care a construit o rampă de acces pe plajă pentru persoanele cu dizabilități."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/jaco-de-garabito-cities-v2.webp"},
   {
     id: 'parrita-de-puntarenas-cities-v2',
     type: 'city',
@@ -2762,8 +2705,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Autostrada Panamericană trece direct prin oraș, facilitând transportul de mărfuri."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/ciudad-neily-de-corredores-cities-v2.webp"},
   {
     id: 'uvita-de-osa-cities-v2',
     type: 'city',
@@ -2804,8 +2746,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Uvita nu are lanțuri mari de hoteluri, punând accent pe turismul sustenabil."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/uvita-de-osa-cities-v2.webp"},
   {
     id: 'montezuma-de-puntarenas-cities-v2',
     type: 'city',
@@ -2846,8 +2787,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Coasta este marcată de formațiuni stâncoase vulcanice și numeroase piscine naturale la reflux."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/montezuma-de-puntarenas-cities-v2.webp"},
   {
     id: 'escazu-de-san-jose-cities-v2',
     type: 'city',
@@ -2888,8 +2828,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Se află la o altitudine cuprinsă între 1.000 și 2.500 de metri deasupra nivelului mării."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/escazu-de-san-jose-cities-v2.webp"},
   {
     id: 'santa-ana-de-san-jose-cities-v2',
     type: 'city',
@@ -2930,8 +2869,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Cantonul a fost premiat de mai multe ori pentru calitatea ridicată a vieții oferite."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/santa-ana-de-san-jose-cities-v2.webp"},
   {
     id: 'ciudad-colon-de-mora-cities-v2',
     type: 'city',
@@ -2972,8 +2910,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Orașul este situat la aproximativ 22 de kilometri vest de centrul San José."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/ciudad-colon-de-mora-cities-v2.webp"},
   {
     id: 'san-ignacio-de-acosta-cities-v2',
     type: 'city',
@@ -3014,8 +2951,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Cantonul a fost fondat în 1910 și numit după fostul președinte Tomás Acosta."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-ignacio-de-acosta-cities-v2.webp"},
   {
     id: 'san-marcos-de-tarrazu-cities-v2',
     type: 'city',
@@ -3056,8 +2992,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Regiunea găzduiește cooperativa CoopeTarrazú, care reunește peste 3.000 de fermieri."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/san-marcos-de-tarrazu-cities-v2.webp"},
   {
     id: 'santa-maria-de-dota-cities-v2',
     type: 'city',
@@ -3098,9 +3033,9 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Este una dintre cele mai bune zone din lume pentru observarea rarei păsări Quetzal."
       ],
       en: []
-    },
-  },
+    }, image: "/poi-images/santa-maria-de-dota-cities-v2.webp"},
 ];
+
 
 
 

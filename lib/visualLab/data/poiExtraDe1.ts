@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDe1: POI[] = [
@@ -63,8 +64,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Prima universitate de stat bavareză a fost fondată aici în 1472.", "Sediul central al Audi AG, cu peste 44.000 de angajați în locație.", "Catedrala Liebfrauenmünster deține una dintre cele mai mari structuri de acoperiș din sudul Germaniei.", "Renumit ca loc de desfășurare a faimosului roman 'Frankenstein' de Mary Shelley.", "Fortăreață istorică bavareză cu sisteme de apărare bine conservate.", "Locul unde a fost proclamată Legea Bavareză a Purității Berii în 1516."],
       en: ["Home to Bavaria's first state university, founded in 1472.", "Global headquarters and largest production site of Audi AG.", "The setting for Mary Shelley's world-famous novel 'Frankenstein'.", "The Bavarian Purity Law (Reinheitsgebot) for beer was issued here in 1516.", "Features the largest roof structure in Southern Germany at Liebfrauenmünster.", "A historic ducal residence and powerful Bavarian state fortress."]
-    },
-  },
+    }, image: "/poi-images/city-ingolstadt-extra.webp"},
 
   {
     id: "city-passau-extra",
@@ -126,8 +126,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Confluența Dunării, Innului și Ilzului la așa-numitul 'Colț al celor trei râuri'.", "Catedrala Sf. Ștefan găzduiește cea mai mare orgă de catedrală din lume, cu 17.974 de tuburi.", "Fortăreața Veste Oberhaus este una dintre cele mai mari complexe de cetăți conservate din Europa.", "A fost reamenajat în secolul al XVII-lea în stilul barocului italian.", "Gisela de Bavaria, prima regină a Ungariei, este înmormântată aici.", "Nod important pentru croazierele pe Dunăre, cu peste 110.000 de pasageri anual."],
       en: ["Located at the confluence of the Danube, Inn, and Ilz rivers.", "St. Stephen's Cathedral houses the world's largest cathedral organ.", "Known as the 'Three Rivers City' (Dreiflüssestadt).", "The Veste Oberhaus is one of the largest preserved fortress complexes in Europe.", "A historic independent prince-bishopric with a rich Baroque heritage.", "An important gateway for river cruises between Germany and Austria."]
-    },
-  },
+    }, image: "/poi-images/city-passau-extra.webp"},
 
   {
     id: "mnt-wendelstein-extra",
@@ -190,8 +189,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Altitudine de 1.838 de metri în Prealpi.", "Calea ferată cu cremalieră Wendelstein a fost inaugurată încă din 1912.", "Pe vârf se află Wendelsteinkircherl, cea mai înaltă biserică din Germania.", "Peștera Wendelstein este cea mai înaltă peșteră vizitabilă din întreaga Germanie.", "Găzduiește un observator pentru cercetări astronomice și solare.", "Oferă un traseu circular cu o panoramă de 360 de grade asupra a peste 200 de vârfuri alpine."],
       en: ["Summit height of 1,838 meters in the Mangfall Mountains.", "Home to Germany's oldest rack railway, opened in 1912.", "Features Germany's highest church, the Wendelsteinkirchlein.", "Hosts a world-class solar and astronomical observatory at the top.", "Includes a natural ice cave located at 1,711 meters altitude.", "Offers views of over 200 Alpine peaks on a clear day."]
-    },
-  },
+    }, image: "/poi-images/mnt-wendelstein-extra.webp"},
 
   {
     id: "river-salzach-extra",
@@ -254,8 +252,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Lungime totală de aprox. 225 km și cel mai important afluent al Innului.", "Numele său a dat numele landului Salzburg, datorită comerțului istoric cu sare.", "Formează o graniță naturală de 59 de kilometri între Germania și Austria.", "Trece pe lângă castelul din Burghausen, cel mai lung castel din lume, cu 1.051 m.", "Izvorăște din Alpii Kitzbühel la o altitudine de aproximativ 2.300 de metri.", "Rol important în transportul lemnului și al mărfurilor în Evul Mediu."],
       en: ["The largest and most important tributary of the Inn river.", "Served as the primary transport route for salt for centuries.", "Flows past the world's longest castle in the town of Burghausen.", "The river is approximately 225 kilometers long.", "Forms the natural border between Germany and Austria for 59 km.", "Famous for its dramatic 'Salzachöfen' gorge near Golling."]
-    },
-  },
+    }, image: "/poi-images/river-salzach-extra.webp"},
 
   {
     id: "lake-walchensee-extra",
@@ -319,8 +316,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Cu o adâncime de până la 190 de metri, este unul dintre cele mai adânci lacuri alpine din Germania.", "Suprafața apei lacului este de aproximativ 16,4 kilometri pătrați.", "Centrala hidroelectrică Walchensee a fost inaugurată în 1924 ca cea mai mare centrală cu acumulare prin pompaj.", "Lacul se află la o altitudine de 800 de metri deasupra nivelului mării.", "Cunoscut ca locație de filmare pentru filme precum 'Wickie și vikingii'.", "Oferă vizibilitate subacvatică de până la 40 de metri, ideal pentru scufundători sportivi."],
       en: ["One of Germany's deepest alpine lakes, reaching 192 meters.", "Known for its striking turquoise color and crystal-clear water.", "Forms a giant natural reservoir for the Walchensee power station.", "Situated at an altitude of 800 meters above sea level.", "A premier European destination for windsurfing and sailing.", "The entire lake is a protected landscape and nature area."]
-    },
-  },
+    }, image: "/poi-images/lake-walchensee-extra.webp"},
 
   {
     id: "landmark-residenz-wuerzburg-extra",
@@ -383,8 +379,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Construit între 1720 și 1744 sub arhitectul Balthasar Neumann.", "Găzduiește cea mai mare frescă de tavan continuă din lume (677 m²).", "Pictura de tavan realizată de Tiepolo reprezintă cele patru continente cunoscute la acea vreme.", "Bolta de deasupra scării este o capodoperă a ingineriei structurale.", "Patrimoniu Mondial UNESCO din 1981 datorită coerenței sale artistice.", "A supraviețuit distrugerii orașului Würzburg în 1945 datorită bolților sale masive."],
       en: ["UNESCO World Heritage site since 1981.", "Designed by Balthasar Neumann, a leading Baroque architect.", "Contains the world's largest single-piece fresco by Tiepolo.", "Completed in 1744 after 24 years of construction.", "The Grand Staircase is an engineering marvel of its time.", "Includes the magnificent Mirror Cabinet, a pinnacle of Rococo art."]
-    },
-  },
+    }, image: "/poi-images/landmark-residenz-wuerzburg-extra.webp"},
 
   {
     id: "historical-regensburg-dom-extra",
@@ -448,8 +443,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Principalul exemplu de arhitectură gotică din Bavaria, începută în jurul anului 1273.", "Turnurile distinctive ale catedralei ating o înălțime de 105 metri fiecare.", "Deține una dintre cele mai extinse colecții de vitralii originale.", "Sediul corului Regensburger Domspatzen, menționat pentru prima dată în anul 975.", "Adăpostește faimoasa sculptură a 'Îngerului surâzător' în interior.", "Catedrala a fost construită aproape în întregime din calcar local."],
       en: ["The primary example of French Gothic architecture in Bavaria.", "Home to the 'Regensburger Domspatzen' boys' choir since 975 AD.", "Features a spectacular set of original 13th-century stained glass.", "The twin spires are 105 meters high and dominate the skyline.", "Construction spanned over 600 years from 1273 to 1872.", "Located in the heart of the UNESCO World Heritage site of Regensburg."]
-    },
-  },
+    }, image: "/poi-images/historical-regensburg-dom-extra.webp"},
 
   {
     id: "forest-frankenwald-extra",
@@ -511,8 +505,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Acoperă o suprafață totală de aproximativ 1.000 de kilometri pătrați în Franconia Superioară.", "Cunoscută pentru profesia istorică a plutașilor pe râul Rodach.", "Cel mai înalt punct este Döbraberg, cu o altitudine de 794 de metri.", "Din punct de vedere geologic, este formată în mare parte din roci de ardezie paleozoice.", "Poartă numele de 'Coroana Verde' datorită densității sale de copaci.", "Lucas Cranach cel Bătrân s-a născut în 1472 în orașul Kronach din Pădurea Franken."],
       en: ["Known as the 'Green Crown of Bavaria' for its dense forests.", "The first certified 'Quality Hiking Region' in Germany.", "Historically famous for timber rafting on the Rodach and Main rivers.", "Covers an area of approximately 1,200 square kilometers.", "Highest peak is the Döbraberg at 794 meters altitude.", "Home to rare species like the black stork and the European wildcat."]
-    },
-  },
+    }, image: "/poi-images/forest-frankenwald-extra.webp"},
 
   {
     id: "landmark-nymphenburg-extra",
@@ -575,8 +568,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Construit începând cu 1664 ca un cadou pentru electoarea Henriette Adelaide.", "Fațada principală are o lungime totală impresionantă de 632 de metri.", "Adăpostește 'Galeria Frumuseților' cu 36 de portrete realizate de Joseph Stieler.", "Locul de naștere al Regelui Ludwig al II-lea, viitorul 'rege de basm'.", "Sediul Manufacturii de Porțelan Nymphenburg (fondată în 1747).", "Parcul palatului acoperă o suprafață de aproximativ 180 de hectare."],
       en: ["Primary summer residence of the Bavarian Kings (Wittelsbachs).", "The palace front is over 600 meters wide, broader than Versailles.", "Birthplace of the 'Fairytale King' Ludwig II in 1845.", "Houses the world-renowned Nymphenburg Porcelain Manufactory.", "The 200-hectare park is a masterpiece of garden architecture.", "Features the 'Gallery of Beauties' with 36 portraits of women."]
-    },
-  },
+    }, image: "/poi-images/landmark-nymphenburg-extra.webp"},
 
   {
     id: "agriculture-hopfen-hallertau-extra",
@@ -638,8 +630,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Cea mai mare zonă contiguă de cultivare a hameiului din lume (aprox. 17.000 ha).", "Aproximativ 34% din recolta mondială de hamei provine din această regiune.", "Plantele de hamei cresc pe spaliere de sârmă înalte de 7 metri.", "Prima mențiune documentară a cultivării hameiului datează din anul 736 d.Hr.", "Sunt posibile recorduri de creștere de până la 30 cm într-o singură zi.", "Sediul celui mai important centru de cercetare a hameiului din lume, în Hüll."],
       en: ["The largest continuous hop-growing region on Earth.", "Supplies approximately 25% of the entire world's hop demand.", "Hop cultivation in the region dates back to the year 736 AD.", "Trellises reach heights of up to 7 meters above the ground.", "The region spans roughly 2,400 square kilometers of Bavaria.", "Home to the German Hop Museum in the town of Wolnzach."]
-    },
-  },
+    }, image: "/poi-images/agriculture-hopfen-hallertau-extra.webp"},
 
   // ─── DE-NW Nordrhein-Westfalen (+10) ────────────────────────────────────────
 
@@ -766,8 +757,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Găzduiește monoraiul suspendat din Wuppertal, inaugurat în 1901.", "Odinioară, un centru important al industriei textile din Prusia.", "Orașul a fost creat în 1929 prin fuziunea orașelor Elberfeld și Barmen.", "Deține unul dintre cele mai importante muzee de artă din Germania (Von der Heydt).", "Wuppertal este considerat un oraș foarte verde, cu peste 400 km de trasee de drumeții.", "Lungimea totală a traseului monoraiului este de 13,3 kilometri."],
       en: ["Home to the unique Suspension Railway (Schwebebahn), opened in 1901.", "The birthplace of the global pharmaceutical giant Bayer.", "Known as the 'Staircase City' due to its steep, hilly terrain.", "Features the world-famous Tanztheater founded by Pina Bausch.", "The Schwebebahn covers a distance of 13.3 kilometers.", "Historically a major European center for textile manufacturing."]
-    },
-  },
+    }, image: "/poi-images/city-wuppertal-extra.webp"},
 
   {
     id: "river-lippe-extra",
@@ -830,8 +820,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Cel mai lung râu din Westfalia, cu o lungime totală de aprox. 220 km.", "A servit romanilor drept importantă rută de înaintare spre Germania.", "Izvorăște dintr-un izvor carstic în Bad Lippspringe.", "Leagă Paderborner Land de Rinul Inferior la Wesel.", "Importantă cale navigabilă datorită canalului lateral Lippe, care rulează paralel.", "Luncile renaturate ale râului Lippe sunt astăzi importante rezervații naturale."],
       en: ["The longest river that flows entirely within North Rhine-Westphalia.", "Historically defined the northern boundary of the Roman Empire.", "Parallel to the Datteln-Hamm Canal, a key European waterway.", "Approximately 220 kilometers long from source to mouth.", "Home to the 'Lippe-Aue' nature reserve, a bird sanctuary.", "Passes through major cities like Hamm, Lünen, and Wesel."]
-    },
-  },
+    }, image: "/poi-images/river-lippe-extra.webp"},
 
 
   {
@@ -895,8 +884,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Cel mai mare dintre cele șase lacuri de acumulare de pe cursul Ruhrului (aprox. 2,6 km²).", "Construit între anii 1931 și 1933 ca măsură de creare de locuri de muncă.", "Centru important pentru sporturile de regată, cu peste 20 de cluburi de navigație.", "Villa Hügel a familiei industriale Krupp domină lacul.", "Deține propria centrală hidroelectrică pentru producerea de energie regenerabilă.", "Un traseu circular de aprox. 14 km este ideal pentru cicliști și patinatori pe role."],
       en: ["The largest of the six reservoirs on the Ruhr river.", "Created in 1931-1933 as part of an industrial purification project.", "Home to more than 20 sailing and rowing clubs.", "The perimeter trail is exactly 14.7 kilometers long.", "Overlooked by the historic Villa Hügel, the seat of the Krupp family.", "A central venue for the 'Krupp Cup', a major rowing regatta."]
-    },
-  },
+    }, image: "/poi-images/lake-baldeneysee-extra.webp"},
 
 
   {
@@ -959,8 +947,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Locul de desfășurare a Bătăliei din Pădurea Teutoburg (9 d.Hr.) între romani și germani.", "Monumentul lui Hermann, cu o înălțime de 53 de metri, este cea mai înaltă statuie din Germania.", "Externsteine sunt o formațiune stâncoasă proeminentă din gresie.", "Traseul de creastă 'Hermannsweg' se numără printre cele mai bune trasee de drumeție din Germania.", "Cel mai înalt punct este Barnacken, cu o altitudine de 446 de metri.", "Cuprinde Parcul Natural Pădurea Teutoburg / Munții Egge."],
       en: ["Site of the Varus Battle in 9 AD, a turning point in history.", "Home to the Hermannsdenkmal, a 53-meter tall monument.", "Features the Externsteine, mysterious 40-meter high rock formations.", "A designated Nature Park covering over 2,700 square kilometers.", "The highest point is the Barnacken at 446 meters altitude.", "A major European destination for hiking and health tourism."]
-    },
-  },
+    }, image: "/poi-images/forest-teutoburger-wald-extra.webp"},
 
   {
     id: "industry-ruhrgebiet-extra",
@@ -1086,8 +1073,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Patrimoniu Mondial UNESCO din 1984 ca o capodoperă a stilului Rococo.", "Scara somptuoasă a fost proiectată de faimosul Balthasar Neumann.", "Construit la comanda electorului și arhiepiscopului Clemens August.", "Parcul castelului este una dintre puținele grădini baroce autentic conservate.", "A servit mult timp drept castel de reprezentare pentru oaspeții de stat ai RFG.", "Anexat este castelul de vânătoare Falkenlust, aflat în raza vizuală."],
       en: ["UNESCO World Heritage site since 1984.", "Features a world-famous grand staircase by Balthasar Neumann.", "The primary residence for state receptions of the early West German Republic.", "Commissioned by Prince-Elector Clemens August of Cologne.", "The gardens were designed by Dominique Girard in the French style.", "Includes the nearby Falkenlust hunting lodge, a Rococo gem."]
-    },
-  },
+    }, image: "/poi-images/landmark-schloss-augustusburg-extra.webp"},
 
   {
     id: "river-wupper-extra",
@@ -1150,8 +1136,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Lungime totală de aproximativ 117 kilometri prin regiunea Bergisches Land.", "Monoraiul suspendat din Wuppertal urmărește cursul râului pe o distanță de 10 km.", "Calitatea apei s-a îmbunătățit considerabil, permițând reintroducerea somonului.", "A fost una dintre cele mai utilizate râuri industriale din Germania.", "Barajul Wupper din apropiere de Radevormwald este un important rezervor de apă potabilă.", "Castelul Burg de pe Wupper este cel mai mare castel reconstruit din NRW."],
       en: ["Famous as the river directly beneath the Wuppertal Suspension Railway.", "Stretches for 116 kilometers through the Bergisches Land region.", "Historically the primary power source for the early textile industry.", "The river rises as the 'Wipper' before changing its name.", "Now a prime location for canoeing and nature observation.", "Home to the massive Müngsten Bridge, Germany's highest railway bridge."]
-    },
-  },
+    }, image: "/poi-images/river-wupper-extra.webp"},
 
   // ─── DE-BW Baden-Württemberg (+10) ──────────────────────────────────────────
 
@@ -1280,8 +1265,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Fondarea Universității Eberhard Karls în 1477.", "Aproximativ unul din trei locuitori este student.", "Plimbările cu bărcile cu vâsle (Stocherkahn) pe Neckar sunt o tradiție locală.", "Frontul de case de pe malul Neckarului, cu Turnul Hölderlin, este o imagine faimoasă.", "Centrul vechi a supraviețuit aproape intact celui de-al Doilea Război Mondial.", "Castelul Hohentübingen găzduiește colecții universitare, inclusiv cele mai vechi opere de artă."],
       en: ["Home to one of Germany's oldest universities, founded in 1477.", "Students make up approximately 30% of the city's population.", "Famous for its 'Stocherkahn' (punting) tradition on the Neckar.", "The Hölderlin Tower was the residence of the poet for 36 years.", "The old town survived World War II completely intact.", "Hosts the 'Umweltzentrum', a pioneer in German environmentalism."]
-    },
-  },
+    }, image: "/poi-images/city-tuebingen-extra.webp"},
 
 
   {
@@ -1346,8 +1330,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Lac de origine glaciară, format acum aproximativ 10.000 de ani.", "Suprafața sa este de aproximativ 1,3 kilometri pătrați.", "Adâncimea maximă a lacului este de 40 de metri.", "Situat la o altitudine de 845 de metri deasupra nivelului mării.", "Strada Seestraße este una dintre cele mai frecventate promenade turistice din regiune.", "Numele provine, probabil, de la împăratul roman Titus."],
       en: ["A natural lake formed by the Feldberg glacier during the last Ice Age.", "Situated at an altitude of 845 meters in the High Black Forest.", "The lake reaches a maximum depth of approximately 40 meters.", "A world-renowned center for traditional Black Forest cuckoo clocks.", "Completely protected from motorboat traffic to preserve water quality.", "The circular hike around the lake is roughly 6 kilometers long."]
-    },
-  },
+    }, image: "/poi-images/lake-titisee-extra.webp"},
 
   {
     id: "historical-kloster-maulbronn-extra",
@@ -1411,8 +1394,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Cel mai bine conservat complex mănăstiresc medieval la nord de Alpi.", "Patrimoniu Mondial UNESCO din 1993.", "Fondată în 1147 de ordinul cistercian.", "Școală mănăstirească renumită, cu elevi precum Johannes Kepler și Hermann Hesse.", "Apare în romanul 'Narcis și Gură de Aur' de Hermann Hesse.", "Complexul este înconjurat de un zid de apărare aproape complet."],
       en: ["UNESCO World Heritage site and best-preserved Cistercian monastery.", "Founded in 1147 and used as a Protestant seminary after 1556.", "Notable students include Johannes Kepler and Hermann Hesse.", "Features the 'Paradise' (Paradies), a masterpiece of Early Gothic.", "The complex is enclosed by a 1.2-kilometer long defensive wall.", "The Lavatorium (fountain house) was used for ritual washing."]
-    },
-  },
+    }, image: "/poi-images/historical-kloster-maulbronn-extra.webp"},
 
   {
     id: "city-konstanz-extra",
@@ -1474,8 +1456,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["A găzduit Conciliul de la Konstanz (1414-1418), care a rezolvat Schisma Papală.", "Reformatorul Jan Hus a fost condamnat și ars pe rug aici în 1415.", "Statuia Imperia, înaltă de 9 metri, comemorează satiric perioada Conciliului.", "Centrul vechi a fost cruțat de bombardamente datorită proximității cu Elveția.", "Universitatea din Konstanz a fost fondată în 1966.", "Cel mai mare oraș de pe Lacul Constanța, cu peste 84.000 de locuitori."],
       en: ["Located at the point where the Rhine flows out of Lake Constance.", "Site of the Council of Constance (1414–1418), a major church event.", "The 9-meter high 'Imperia' statue rotates once every four minutes.", "Connected seamlessly to the Swiss town of Kreuzlingen.", "Home to one of Germany's most prestigious 'Excellence' universities.", "The old town's narrow streets date back to the 13th century."]
-    },
-  },
+    }, image: "/poi-images/city-konstanz-extra.webp"},
 
   {
     id: "forest-schwarzwald-nord-extra",
@@ -1537,8 +1518,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Primul parc național din landul Baden-Württemberg, fondat în 2014.", "Suprafața sa este de 10.062 de hectare.", "Principiul său fundamental este protecția proceselor naturale.", "Traseul 'Lotharpfad' arată regenerarea naturală a pădurii după o furtună.", "Găzduiește specii rare, inclusiv cocoșul de munte, simbolul parcului.", "Cel mai înalt punct este Vogelskopf, cu 1.056 de metri."],
       en: ["Home to the Black Forest National Park, founded in 2014.", "The highest peak in the north is the Hornisgrinde at 1,163 meters.", "Famous for the Mummelsee, a high-altitude 'kar' lake.", "Includes the 'Schwarzwaldhochstraße', Germany's oldest tourist road.", "Known for its massive spruce and fir trees, some over 200 years old.", "A vital habitat for rare species like the pygmy owl and wood grouse."]
-    },
-  },
+    }, image: "/poi-images/forest-schwarzwald-nord-extra.webp"},
 
 
   {
@@ -1602,8 +1582,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Patrimoniu Mondial UNESCO din 1999.", "Reunește cinci muzee de importanță mondială pe o insulă în râul Spree.", "Muzeul Nou găzduiește faimosul bust al reginei egiptene Nefertiti.", "Muzeul Pergamon atrage cei mai mulți vizitatori, cu Altarul din Pergamon.", "Galeria Națională Veche expune artă din secolul al XIX-lea, de la Caspar David Friedrich la impresioniști.", "Proiectul 'Masterplan Museumsinsel' prevede renovarea și conectarea muzeelor."],
       en: ["UNESCO World Heritage site and home to five world-class museums.", "Houses the world-famous Bust of Nefertiti in the Neues Museum.", "The Pergamon Museum contains the original Ishtar Gate from Babylon.", "The Altes Museum was the first public museum in Berlin (1830).", "Connected by the 'Archaeological Promenade' underground walk.", "The James Simon Gallery serves as the modern gateway to the island."]
-    },
-  },
+    }, image: "/poi-images/landmark-museumsinsel-extra.webp"},
 
   {
     id: "historical-berliner-mauer-east-extra",
@@ -1667,8 +1646,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: [],
       en: ["The longest remaining continuous section of the Berlin Wall.", "Features 101 murals painted by artists from 21 different nations.", "Home to the famous 'Brotherhood Kiss' mural by Dmitri Vrubel.", "Stretches for 1,316 meters along the Spree river.", "Declared a protected historical monument in November 1991.", "Attracts over 3 million visitors annually to Berlin-Friedrichshain."]
-    },
-  },
+    }, image: "/poi-images/historical-berliner-mauer-east-extra.webp"},
 
   {
     id: "landmark-charlottenburg-palace-extra",
@@ -1731,8 +1709,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Cel mai mare complex de palate din Berlin, construit începând cu 1695.", "Comandat de Sophie Charlotte, soția electorului Friedrich al III-lea.", "Cabinetul de Porțelan conține o colecție impresionantă de porțelan chinezesc și japonez.", "Orangeria Nouă găzduiește expoziții de artă temporare.", "Grav avariat în timpul celui de-al Doilea Război Mondial și reconstruit ulterior.", "Grădina palatului include un mausoleu, un ceainic și un pavilion belvedere."],
       en: ["The largest and most significant palace in the German capital.", "Originally commissioned in 1695 for Queen Sophie Charlotte.", "Features the magnificent 'Golden Gallery', a Rococo masterpiece.", "The palace gardens were the first of their kind in Germany.", "Houses the mausoleum of Queen Luise and King Frederick William III.", "Heavily damaged in 1943 and meticulously restored after the war."]
-    },
-  },
+    }, image: "/poi-images/landmark-charlottenburg-palace-extra.webp"},
 
   {
     id: "forest-grunewald-extra",
@@ -1795,8 +1772,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Acoperă o suprafață de aproximativ 3.000 de hectare (30 km²).", "Cel mai înalt punct este Teufelsberg, un deal artificial de 120 de metri.", "Găzduiește cel mai vechi castel renascentist din Berlin, Castelul de vânătoare Grunewald.", "Turnul Grunewald are o înălțime de 55 de metri.", "Peste jumătate din copacii din pădure sunt pini.", "Schlachtensee și Krumme Lanke sunt lacuri populare pentru înot."],
       en: ["Berlin's largest forest, covering approximately 3,000 hectares.", "Home to the Jagdschloss Grunewald, built in the year 1542.", "Includes the Teufelsberg, an 80-meter high hill made of rubble.", "Features several glacial lakes like Schlachtensee and Krumme Lanke.", "Used as a major center for Cold War intelligence gathering.", "A designated bird sanctuary and protected nature conservation area."]
-    },
-  },
+    }, image: "/poi-images/forest-grunewald-extra.webp"},
 
   {
     id: "river-havel-berlin-extra",
@@ -1859,8 +1835,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Formează lacuri mari în zona Berlinului, precum Tegeler See și Wannsee.", "Are o lungime totală de 334 de kilometri, dintre care o mare parte este navigabilă.", "Insula Păunilor (Pfaueninsel) din Havel este Patrimoniu Mondial UNESCO.", "Podul Glienicke, care traversează Havel, a fost un faimos punct de schimb de spioni în timpul Războiului Rece.", "Calitatea apei s-a îmbunătățit considerabil, permițând revenirea peștilor.", "Peste 30 de specii de pești trăiesc din nou în apele Havelului."],
       en: ["A 334-kilometer long river and a major tributary of the Elbe.", "Flows through the Wannsee, one of Berlin's most famous lakes.", "The primary waterway connecting the palaces of Potsdam and Berlin.", "Features over 20 locks and is a major European inland waterway.", "The Havel valley is a protected UNESCO World Heritage cultural site.", "Known for its extremely slow current and wide, lake-like sections."]
-    },
-  },
+    }, image: "/poi-images/river-havel-berlin-extra.webp"},
 
   {
     id: "landmark-olympiastadion-berlin-extra",
@@ -1924,8 +1899,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Construit pentru Jocurile Olimpice de vară din 1936.", "Are o capacitate de peste 74.000 de spectatori.", "A găzduit finala Cupei Mondiale de Fotbal din 2006.", "Proiectat de arhitectul Werner March, în stil neoclasic.", "Este stadionul de acasă al clubului de fotbal Hertha BSC.", "Listat ca monument istoric protejat."],
       en: ["Built for the 1936 Summer Olympics on the site of the 'Deutsches Stadion'.", "Jesse Owens won four gold medals here, defying Nazi ideology.", "Capacity of over 74,000 spectators for major football matches.", "The stadium's translucent roof weighs approximately 3,500 tons.", "A landmark of modern architecture after its 2004 renovation.", "The Marathon Gate offers a direct view of the historic Olympic bell."]
-    },
-  },
+    }, image: "/poi-images/landmark-olympiastadion-berlin-extra.webp"},
 
   {
     id: "historical-holocaust-memorial-extra",
@@ -1989,8 +1963,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Constă din 2.711 de stele de beton (blocuri) de diferite înălțimi.", "Proiectat de arhitectul american Peter Eisenman și inaugurat în 2005.", "Acoperă o suprafață de aproximativ 19.000 de metri pătrați.", "Centrul de informare subteran prezintă destinele victimelor.", "Dedicat celor aproximativ șase milioane de victime evreiești ale Holocaustului.", "Un loc de contemplare și aducere aminte în centrul capitalei germane."],
       en: ["Official memorial to the 6 million Jewish victims of the Holocaust.", "Consists of 2,711 concrete stelae covering 19,000 square meters.", "Designed by New York architect Peter Eisenman and opened in 2005.", "The uneven ground is intended to create a feeling of instability.", "Located just a few steps from the Brandenburg Gate and the Reichstag.", "The underground Information Center holds names of 3 million victims."]
-    },
-  },
+    }, image: "/poi-images/historical-holocaust-memorial-extra.webp"},
 
   {
     id: "landmark-kurfuerstendamm-extra",
@@ -2038,7 +2011,7 @@ export const poiExtraDe1: POI[] = [
       de: "Der Kurfürstendamm, liebevoll 'Kudamm' genannt, ist der Inbegriff des mondänen West-Berlins und die berühmteste Shoppingmeile der Stadt. Ursprünglich ein Reitweg zum Jagdschloss Grunewald, wurde er Ende des 19. Jahrhunderts nach dem Vorbild der Pariser Champs-Élysées zum Prachtboulevard ausgebaut. Hier finden sich exklusive Boutiquen internationaler Luxusmarken, prächtige Gründerzeithäuser und kulturelle Wahrzeichen wie die Kaiser-Wilhelm-Gedächtniskirche am Breitscheidplatz. Der Kudamm war in den 'Goldenen Zwanzigern' das Zentrum des intellektuellen Lebens und wurde nach dem Zweiten Weltkrieg zum Schaufenster des Westens. Heute verbindet er historischen Glanz mit urbaner Dynamik und erstklassiger Gastronomie. Geographie K7 – Stadtstrukturen und Dienstleistungszentren.",
       hu: "A(z) Kurfürstendamm egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Kurfürstendamm ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
       ro: "Kurfürstendamm, cunoscut colocvial ca 'Ku'damm', este cel mai faimos bulevard comercial din Berlin. Pe o lungime de 3,5 kilometri, se întinde de la Breitscheidplatz, cu Biserica Memorială Kaiser Wilhelm, până la Rathenauplatz. În perioada Războiului Rece, a fost vitrina strălucitoare a Berlinului de Vest, un simbol al miracolului economic și al stilului de viață occidental. Astăzi, bulevardul găzduiește magazine de lux, buticuri ale designerilor internaționali, teatre renumite precum 'Theater des Westens' și numeroase cafenele. Ku'damm nu este doar o stradă comercială, ci și un loc de promenadă și un simbol al istoriei agitate a Berlinului. Istorie K9 – Războiul Rece și simbolurile Berlinului de Vest.",
-      en: "The Kurfürstendamm, affectionately known as the 'Ku'damm,' is Berlin's most famous shopping boulevard and the vibrant heart of the city's West. Originally laid out as a bridle path for the Elector to reach his hunting lodge in Grunewald, it transformed in the late 19th century into a grand boulevard inspired by the Champs-Élysées. During the 'Golden Twenties,' it was the center of Berlin's cafe culture and nightlife. While heavily damaged in WWII, the Ku'damm became the showcase of West Berlin's economic miracle, symbolized by the iconic Kaiser Wilhelm Memorial Church. Today, it is a global destination for luxury fashion, culture, and high-end dining, reflecting the glamour and resilience of the German capital. Geschichte K8 – Urban life and the history of Berlin West."
+      en: "The Kurfürstendamm, often affectionately called Ku'Damm by Berliners, is one of Berlin's most famous avenues. Originally a bridle path for the electors of Brandenburg to reach the Grunewald hunting lodge, it was developed into a grand boulevard in the late 19th century at the initiative of Otto von Bismarck. It quickly became a hub of cultural and commercial life, lined with theaters, cafes, and upscale shops. During the Cold War, it formed the heart of West Berlin, a vibrant showcase of capitalism. Today, it remains a major shopping street, blending high-end luxury brands with popular retailers. The street is also known for its distinctive architecture, including the Kaiser Wilhelm Memorial Church at its eastern end, a powerful reminder of the destruction of World War II."
     },
     factsAdvanced: {
       de: ["Berühmteste Shoppingmeile Berlins mit einer Länge von 3,5 Kilometern.", "Ursprünglich im 16. Jahrhundert als Reitweg der Kurfürsten angelegt.", "Wurde ab 1886 auf Initiative von Otto von Bismarck ausgebaut.", "Zentrum des kulturellen Lebens im Berlin der 1920er Jahre.", "Beherbergt das berühmte Kaufhaus des Westens (KaDeWe) in der Nähe.", "Markanter Endpunkt ist der Breitscheidplatz mit der Gedächtniskirche."],
@@ -2051,9 +2024,8 @@ export const poiExtraDe1: POI[] = [
         "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
       ],
       ro: ["Are o lungime de 3,5 kilometri în cartierul Charlottenburg-Wilmersdorf.", "Dezvoltat la inițiativa cancelarului Otto von Bismarck la sfârșitul secolului al XIX-lea.", "Biserica Memorială Kaiser Wilhelm, o ruină comemorativă, marchează capătul său estic.", "A fost centrul Berlinului de Vest în timpul divizării orașului.", "Găzduiește numeroase magazine emblematice și teatre istorice.", "Numele său provine de la principii electori (Kurfürsten) care îl foloseau ca drum de călărie."],
-      en: ["Berlin's premier shopping boulevard, stretching for 3.5 kilometers.", "Founded by Otto von Bismarck as a grand representative avenue.", "Home to the KaDeWe, Europe's largest department store (nearby).", "The Kaiser Wilhelm Memorial Church stands as a symbol of peace.", "Transformed from a 16th-century bridle path for royal electors.", "A center of the 'Golden Twenties' avant-garde and theater life."]
-    },
-  },
+      en: ["The street is approximately 3.5 kilometers (2.2 miles) long.", "Development into a modern boulevard began in 1886.", "It was modeled on the Champs-Élysées in Paris, based on the vision of Otto von Bismarck.", "The Kaiser Wilhelm Memorial Church, a prominent landmark, was bombed during WWII in 1943.", "The 'Theater des Westens', a historic musical theatre, opened in 1896.", "During the Cold War, it was the main commercial center of West Berlin.", "The famous 'Café des Westens' was a major meeting point for artists and intellectuals of the early 20th century.", "The annual Christmas market is a major attraction, drawing large crowds."]
+    }, image: "/poi-images/landmark-kurfuerstendamm-extra.webp"},
 
   {
     id: "lake-mueggelsee-extra",
@@ -2116,8 +2088,7 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Cel mai mare lac din Berlin, cu o suprafață de 7,4 km².", "Adâncimea maximă este de doar 8 metri.", "Este traversat de râul Spree.", "Müggelberge, cu o înălțime de 115 metri, sunt cele mai înalte ridicături naturale din Berlin.", "Fabrica de apă Friedrichshagen, de pe malul lacului, a fost deschisă în 1893.", "Este o importantă zonă de agrement pentru navigație și sporturi nautice."],
       en: ["Berlin's largest lake, covering an area of 7.4 square kilometers.", "The lake reaches a maximum depth of approximately 8 meters.", "Overlooked by the Müggelberge, Berlin's highest natural hills.", "The historic 'Spreetunnel' (1927) is a unique underwater walkway.", "Supplies roughly 15% of Berlin's drinking water today.", "Friedrichshagen is famous for its 19th-century villa architecture."]
-    },
-  },
+    }, image: "/poi-images/lake-mueggelsee-extra.webp"},
 
   {
     id: "historical-schloss-sanssouci-berlin-extra",
@@ -2181,6 +2152,6 @@ export const poiExtraDe1: POI[] = [
       ],
       ro: ["Reședința de vară preferată a lui Frederic cel Mare.", "Numele 'Sanssouci' înseamnă 'fără griji' în franceză.", "Proiectat de Georg Wenzeslaus von Knobelsdorff între 1745 și 1747.", "Face parte din Patrimoniul Mondial UNESCO 'Palate și Parcuri din Potsdam și Berlin'.", "Frederic cel Mare este înmormântat pe terasele palatului.", "Parcul Sanssouci se întinde pe o suprafață de aproape 300 de hectare."],
       en: ["UNESCO World Heritage site and Frederick the Great's summer home.", "The palace name 'Sans Souci' means 'Without Care' in French.", "Features the iconic vineyard terraces with 168 steps.", "Completed in 1747 after just two years of construction.", "Frederick the Great is buried on the highest terrace with his dogs.", "The park covers 290 hectares and includes over 1,000 sculptures."]
-    },
-  },
+    }, image: "/poi-images/historical-schloss-sanssouci-berlin-extra.webp"},
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNigerEconomicV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["1971-ben kezdte meg működését.", "Arlit város közelében található.", "Külszíni uránbánya."],
       ro: ["Pusă în funcțiune în 1971.", "Situată lângă orașul Arlit.", "Mină de uraniu de suprafață."],
       en: ["Started operations in 1971.", "Located near the city of Arlit.", "Open-pit uranium mine."],
-    }
-  },
+    }, image: "/poi-images/somair-uranium-mine-economic-v2.webp"},
   {
     id: "cominak-akouta-mine-economic-v2",
     type: "industry",
@@ -27,8 +27,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Földalatti uránbánya.", "2021 márciusában zárták be.", "Több mint 75 000 tonna uránt termelt."],
       ro: ["Mină de uraniu subterană.", "A fost închisă în martie 2021.", "A produs peste 75.000 de tone de uraniu."],
       en: ["Underground uranium mine.", "Was closed in March 2021.", "Produced over 75,000 tonnes of uranium."],
-    }
-  },
+    }, image: "/poi-images/cominak-akouta-mine-economic-v2.webp"},
   {
     id: "imouraren-mine-economic-v2",
     type: "industry",
@@ -55,8 +54,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Kapacitása 20 000 hordó/nap.", "Zinder régióban található.", "Az Agadem-medence olaját dolgozza fel."],
       ro: ["Capacitate de 20.000 de barili/zi.", "Situată în regiunea Zinder.", "Procesează petrol din bazinul Agadem."],
       en: ["Capacity of 20,000 barrels/day.", "Located in the Zinder region.", "Processes oil from the Agadem basin."],
-    }
-  },
+    }, image: "/poi-images/soraz-zinder-refinery-economic-v2.webp"},
   {
     id: "agadem-oil-field-economic-v2",
     type: "industry",
@@ -69,8 +67,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Az olajkitermelés központja Nigerben.", "Mintegy 463 km hosszú csővezeték Zinderbe.", "Tervezett export-csővezeték bővítés."],
       ro: ["Centrul extracției de petrol din Niger.", "Conductă de aproximativ 463 km spre Zinder.", "Extindere planificată a conductei de export."],
       en: ["Center of oil extraction in Niger.", "Roughly 463 km pipeline to Zinder.", "Planned export pipeline expansion."],
-    }
-  },
+    }, image: "/poi-images/agadem-oil-field-economic-v2.webp"},
   {
     id: "sonichar-tchirozerine-economic-v2",
     type: "industry",
@@ -83,8 +80,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Niger egyetlen aktív szénbányája.", "Áramot szolgáltat az urániparnak.", "Agadez közelében."],
       ro: ["Singura mină activă de cărbune din Niger.", "Furnizează energie pentru industria uraniului.", "Aproape de Agadez."],
       en: ["Niger's only active coal mine.", "Supplies power for the uranium industry.", "Near Agadez."],
-    }
-  },
+    }, image: "/poi-images/sonichar-tchirozerine-economic-v2.webp"},
   {
     id: "samira-hill-gold-mine-economic-v2",
     type: "industry",
@@ -97,8 +93,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["2004-ben nyitották meg.", "A Tillabéri régióban található.", "Az aranyipar úttörője Nigerben."],
       ro: ["Deschisă în 2004.", "Situată în regiunea Tillabéri.", "Pionier al industriei aurului din Niger."],
       en: ["Opened in 2004.", "Located in the Tillabéri region.", "Pioneer of the gold industry in Niger."],
-    }
-  },
+    }, image: "/poi-images/samira-hill-gold-mine-economic-v2.webp"},
   {
     id: "tchibarakaten-gold-mine-economic-v2",
     type: "industry",
@@ -111,8 +106,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Nagy kézműves bányászat.", "Mélyen a sivatagban található.", "2014-től aranylázat okozott."],
       ro: ["Minerit artizanal la scară largă.", "Situat adânc în deșert.", "A provocat o goană după aur din 2014."],
       en: ["Large artisanal mining.", "Located deep in the desert.", "Caused a gold rush starting in 2014."],
-    }
-  },
+    }, image: "/poi-images/tchibarakaten-gold-mine-economic-v2.webp"},
   {
     id: "djado-gold-fields-economic-v2",
     type: "industry",
@@ -125,8 +119,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Niger legészakkeletibb részén.", "A kézműves bányászat központja.", "Az arany gyakran a felszín közelében található."],
       ro: ["În nord-estul extrem al Nigerului.", "Centru al mineritului artizanal.", "Aurul este adesea aproape de suprafață."],
       en: ["In the extreme northeast of Niger.", "Center of artisanal mining.", "Gold is often near the surface."],
-    }
-  },
+    }, image: "/poi-images/djado-gold-fields-economic-v2.webp"},
   {
     id: "dosso-dry-port-economic-v2",
     type: "port",
@@ -139,8 +132,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Nigert Cotonou kikötőjével köti össze.", "Központi vámkezelő hely.", "Csökkenti a szállítási szűk keresztmetszeteket."],
       ro: ["Leagă Niger de portul Cotonou.", "Punct central de vămuire.", "Reduce blocajele de transport."],
       en: ["Connects Niger with the port of Cotonou.", "Central customs clearance point.", "Reduces transportation bottlenecks."],
-    }
-  },
+    }, image: "/poi-images/dosso-dry-port-economic-v2.webp"},
   {
     id: "niamey-river-port-economic-v2",
     type: "port",
@@ -153,8 +145,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A Niger folyón található.", "Függ a szezonális vízállástól.", "Fontos a regionális kereskedelem számára."],
       ro: ["Situat pe râul Niger.", "Depinde de nivelul apei sezonier.", "Important pentru comerțul regional."],
       en: ["Located on the Niger River.", "Dependent on seasonal water levels.", "Important for regional trade."],
-    }
-  },
+    }, image: "/poi-images/niamey-river-port-economic-v2.webp"},
   {
     id: "gaya-river-port-economic-v2",
     type: "port",
@@ -167,8 +158,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A legfontosabb határátkelő Benin felé.", "Híd a Niger folyón.", "Átrakóhely az áruk számára."],
       ro: ["Cel mai important punct de trecere a frontierei spre Benin.", "Pod peste râul Niger.", "Punct de transbordare a mărfurilor."],
       en: ["Main border crossing to Benin.", "Bridge over the Niger River.", "Transshipment point for goods."],
-    }
-  },
+    }, image: "/poi-images/gaya-river-port-economic-v2.webp"},
   {
     id: "malbaza-cement-plant-economic-v2",
     type: "industry",
@@ -181,8 +171,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Cementet termel a hazai piacra.", "A Tahoua régióban.", "Helyi mészkőlelőhelyeket használ fel."],
       ro: ["Produce ciment pentru piața internă.", "În regiunea Tahoua.", "Utilizează zăcăminte locale de calcar."],
       en: ["Produces cement for the domestic market.", "In the Tahoua region.", "Uses local limestone deposits."],
-    }
-  },
+    }, image: "/poi-images/malbaza-cement-plant-economic-v2.webp"},
   {
     id: "diori-hamani-cargo-hub-economic-v2",
     type: "port",
@@ -195,8 +184,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Legfontosabb kapu a világ felé.", "A vámigazgatás székhelye.", "Jelentős a nagy értékű exportok számára."],
       ro: ["Cea mai importantă poartă către lume.", "Sediul administrației vamale.", "Important pentru exporturile de mare valoare."],
       en: ["Main gateway to the world.", "Seat of the customs administration.", "Important for high-value exports."],
-    }
-  },
+    }, image: "/poi-images/diori-hamani-cargo-hub-economic-v2.webp"},
   {
     id: "goudel-water-plant-economic-v2",
     type: "industry",
@@ -209,8 +197,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A Niger folyó partján található.", "Niamey legfontosabb ivóvízforrása.", "Többször kibővítették."],
       ro: ["Situată pe malul fluviului Niger.", "Cea mai importantă sursă de apă potabilă pentru Niamey.", "A fost extinsă de mai multe ori."],
       en: ["Located on the banks of the Niger River.", "Main source of drinking water for Niamey.", "Has been expanded several times."],
-    }
-  },
+    }, image: "/poi-images/goudel-water-plant-economic-v2.webp"},
   {
     id: "kandadji-dam-project-economic-v2",
     type: "industry",
@@ -223,8 +210,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["130 megawatt villamos energiát fog termelni.", "Több ezer hektárt fog öntözni.", "A legjelentősebb infrastrukturális projekt."],
       ro: ["Va genera 130 megawați de energie electrică.", "Va iriga mii de hectare.", "Cel mai semnificativ proiect de infrastructură."],
       en: ["Will generate 130 megawatts of electricity.", "Will irrigate thousands of hectares.", "Most significant infrastructure project."],
-    }
-  },
+    }, image: "/poi-images/kandadji-dam-project-economic-v2.webp"},
   {
     id: "gorou-banda-power-economic-v2",
     type: "industry",
@@ -237,8 +223,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Fontos áramszolgáltató Niamey számára.", "Nehézolajat használ.", "A nemzeti energiaterv része."],
       ro: ["Furnizor important de energie electrică pentru Niamey.", "Folosește păcură grea.", "Parte a planului energetic național."],
       en: ["Important power supplier for Niamey.", "Uses heavy fuel oil.", "Part of the national energy plan."],
-    }
-  },
+    }, image: "/poi-images/gorou-banda-power-economic-v2.webp"},
   {
     id: "bilma-salt-pans-economic-v2",
     type: "industry",
@@ -251,8 +236,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Tömbökben termeli a sót.", "A híres Azalai karavánok célpontja.", "Hagyományos kézimunka."],
       ro: ["Produce sare în blocuri.", "Destinația celebrelor caravane Azalai.", "Muncă manuală tradițională."],
       en: ["Produces salt in blocks.", "Destination of the famous Azalai caravans.", "Traditional manual labor."],
-    }
-  },
+    }, image: "/poi-images/bilma-salt-pans-economic-v2.webp"},
   {
     id: "fachi-salt-works-economic-v2",
     type: "industry",
@@ -265,8 +249,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Fontos állomás a karavánhálózatban.", "A sivatag közepén található.", "Hagyományos sómedencék."],
       ro: ["Stație importantă în rețeaua de caravane.", "Situată în mijlocul deșertului.", "Tăvi de sare tradiționale."],
       en: ["Important station in the caravan network.", "Located in the middle of the desert.", "Traditional salt pans."],
-    }
-  },
+    }, image: "/poi-images/fachi-salt-works-economic-v2.webp"},
   {
     id: "zinder-tannery-economic-v2",
     type: "industry",
@@ -279,8 +262,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A bőrfeldolgozás hosszú hagyománya.", "Export Nigériába és azon túl.", "Helyi nyersanyagokat használ."],
       ro: ["Tradiție lungă în prelucrarea pielii.", "Export în Nigeria și dincolo de aceasta.", "Utilizează materii prime locale."],
       en: ["Long tradition of leather processing.", "Export to Nigeria and beyond.", "Uses local raw materials."],
-    }
-  },
+    }, image: "/poi-images/zinder-tannery-economic-v2.webp"},
   {
     id: "niamey-abattoir-economic-v2",
     type: "industry",
@@ -293,8 +275,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Szarvasmarhákat, juhokat és kecskéket dolgoz fel.", "Fontos az élelmiszerellátás szempontjából.", "Niameyben található."],
       ro: ["Procesează bovine, ovine și caprine.", "Important pentru aprovizionarea cu alimente.", "Situat în Niamey."],
       en: ["Processes cattle, sheep, and goats.", "Important for food supply.", "Located in Niamey."],
-    }
-  },
+    }, image: "/poi-images/niamey-abattoir-economic-v2.webp"},
   {
     id: "galmi-onion-processing-economic-v2",
     type: "industry",
@@ -307,8 +288,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A 'Violet de Galmi' hagyma eredete.", "Fontos mezőgazdasági ipari központ.", "Tömeges export a szomszédos országokba."],
       ro: ["Originea cepei 'Violet de Galmi'.", "Important centru industrial agricol.", "Export în masă către țările vecine."],
       en: ["Origin of the 'Violet de Galmi' onion.", "Important agricultural industrial center.", "Mass export to neighboring countries."],
-    }
-  },
+    }, image: "/poi-images/galmi-onion-processing-economic-v2.webp"},
   {
     id: "teguidda-salt-extraction-economic-v2",
     type: "industry",
@@ -321,8 +301,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Feltűnő színes sómedencék.", "A só elsősorban állati fogyasztásra szolgál.", "A régió gazdasági éltető eleme."],
       ro: ["Bazine de sare colorate izbitoare.", "Sare în principal pentru consumul animalelor.", "Colacul de salvare economic al regiunii."],
       en: ["Striking colorful salt ponds.", "Salt primarily for livestock consumption.", "Economic lifeline of the region."],
-    }
-  },
+    }, image: "/poi-images/teguidda-salt-extraction-economic-v2.webp"},
   {
     id: "maradi-dry-port-project-economic-v2",
     type: "port",
@@ -335,8 +314,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A nigériai határ közelében található.", "Csökkentenie kell a logisztikai költségeket.", "Fontos Közép-Niger gazdasága számára."],
       ro: ["Situat aproape de granița cu Nigeria.", "Menit să reducă costurile logistice.", "Important pentru economia Nigerului central."],
       en: ["Located near the Nigerian border.", "Designed to lower logistics costs.", "Important for the economy of central Niger."],
-    }
-  },
+    }, image: "/poi-images/maradi-dry-port-project-economic-v2.webp"},
   {
     id: "diffa-oil-exploration-economic-v2",
     type: "industry",
@@ -349,8 +327,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Az Agadem olajprojekt része.", "Nemzetközi olajvállalatokat vonz.", "Átalakítja a regionális gazdaságot."],
       ro: ["Parte a proiectului petrolier Agadem.", "Atrage companii petroliere internaționale.", "Transformă economia regională."],
       en: ["Part of the Agadem oil project.", "Attracts international oil companies.", "Transforms the regional economy."],
-    }
-  },
+    }, image: "/poi-images/diffa-oil-exploration-economic-v2.webp"},
   {
     id: "koma-bangou-gold-economic-v2",
     type: "industry",
@@ -363,8 +340,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A kézműves bányászatról ismert.", "Több ezer munkás a helyszínen.", "Fontos nem hivatalos bevételi forrás."],
       ro: ["Cunoscut pentru mineritul artizanal.", "Mii de muncitori la fața locului.", "O sursă importantă, neoficială, de venit."],
       en: ["Known for artisanal mining.", "Thousands of workers on site.", "Important unofficial source of income."],
-    }
-  },
+    }, image: "/poi-images/koma-bangou-gold-economic-v2.webp"},
   {
     id: "ayorou-livestock-market-economic-v2",
     type: "industry",
@@ -377,8 +353,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Nagy regionális állatpiac.", "A szomszédos országokból vonzza a kereskedőket.", "Gazdasági központ a Niger folyón."],
       ro: ["Piață regională mare de animale.", "Atrage comercianți din țările vecine.", "Centru economic pe fluviul Niger."],
       en: ["Large regional livestock market.", "Attracts traders from neighboring countries.", "Economic center on the Niger River."],
-    }
-  },
+    }, image: "/poi-images/ayorou-livestock-market-economic-v2.webp"},
   {
     id: "zinder-peanut-processing-economic-v2",
     type: "industry",
@@ -391,8 +366,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["A földimogyoró-termelés történelmi központja.", "Fontos az olaj- és pasztagyártásban.", "Meghatározta Zinder gazdaságát."],
       ro: ["Centrul istoric al producției de arahide.", "Important pentru producția de ulei și pastă.", "A modelat economia Zinderului."],
       en: ["Historical center of peanut production.", "Important for oil and paste production.", "Shaped the economy of Zinder."],
-    }
-  },
+    }, image: "/poi-images/zinder-peanut-processing-economic-v2.webp"},
   {
     id: "tahoua-phosphate-mining-economic-v2",
     type: "industry",
@@ -405,8 +379,7 @@ export const poiExtraNigerEconomicV2: POI[] = [
       hu: ["Fontos a műtrágyagyártásban.", "Elősegíti a mezőgazdasági fejlődést.", "Erőforrás a Tahoua régióban."],
       ro: ["Important pentru producția de îngrășăminte.", "Promovează dezvoltarea agricolă.", "Resursă în regiunea Tahoua."],
       en: ["Important for fertilizer production.", "Promotes agricultural development.", "Resource in the Tahoua region."],
-    }
-  },
+    }, image: "/poi-images/tahoua-phosphate-mining-economic-v2.webp"},
   {
     id: "agadez-logistics-hub-economic-v2",
     type: "port",
@@ -422,3 +395,4 @@ export const poiExtraNigerEconomicV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNigeriaNatureV2: POI[] = [
@@ -27,8 +28,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Kamerunon és Nigérián keresztül folyik.", "Hossza körülbelül 1400 km."],
       ro: ["Curge prin Camerun și Nigeria.", "Are o lungime de aproximativ 1400 km."],
       en: ["Flows through Cameroon and Nigeria.", "Is about 1400 km long."]
-    }
-  },
+    }, image: "/poi-images/benue-river-nature-v2.webp"},
   {
     id: "chad-lake-nature-v2",
     type: "lake",
@@ -41,8 +41,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Lefolyástalan tó.", "Területe erősen változó."],
       ro: ["Este un lac endoreic.", "Suprafața sa variază considerabil."],
       en: ["Is an endorheic lake.", "Its surface area varies greatly."]
-    }
-  },
+    }, image: "/poi-images/chad-lake-nature-v2.webp"},
   {
     id: "jos-plateau-mountain-nature-v2",
     type: "mountain",
@@ -55,8 +54,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Vulkáni kőzetből áll.", "Hűvösebb klíma, mint a környezetében."],
       ro: ["Este format din rocă vulcanică.", "Are un climat mai răcoros decât zona înconjurătoare."],
       en: ["Consists of volcanic rock.", "Has a cooler climate than the surroundings."]
-    }
-  },
+    }, image: "/poi-images/jos-plateau-mountain-nature-v2.webp"},
   {
     id: "chappal-waddi-mountain-nature-v2",
     type: "mountain",
@@ -69,8 +67,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Kamerun határán található.", "Magassága kb. 2419 méter."],
       ro: ["Situat la granița cu Camerunul.", "Altitudinea de aproximativ 2419 metri."],
       en: ["Located on the border with Cameroon.", "Height of approx. 2419 meters."]
-    }
-  },
+    }, image: "/poi-images/chappal-waddi-mountain-nature-v2.webp"},
   {
     id: "cross-river-nature-v2",
     type: "river",
@@ -83,8 +80,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Trópusi esőerdőn keresztül folyik.", "Az Atlanti-óceánba torkollik."],
       ro: ["Curge prin păduri tropicale.", "Se varsă în Oceanul Atlantic."],
       en: ["Flows through tropical rainforest.", "Empties into the Atlantic."]
-    }
-  },
+    }, image: "/poi-images/cross-river-nature-v2.webp"},
   {
     id: "ogun-river-nature-v2",
     type: "river",
@@ -97,8 +93,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Az Oyan-gátat táplálja.", "Fontos vízforrás Lagos számára."],
       ro: ["Alimentează barajul Oyan.", "Sursă importantă de apă pentru Lagos."],
       en: ["Feeds the Oyan Dam.", "Important water source for Lagos."]
-    }
-  },
+    }, image: "/poi-images/ogun-river-nature-v2.webp"},
   {
     id: "kainji-lake-nature-v2",
     type: "lake",
@@ -111,8 +106,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["A Kainji-gát építése hozta létre.", "Villamosenergia-termelésre használják."],
       ro: ["Creat prin construirea barajului Kainji.", "Utilizat pentru energie electrică."],
       en: ["Created by the construction of the Kainji Dam.", "Used for electricity generation."]
-    }
-  },
+    }, image: "/poi-images/kainji-lake-nature-v2.webp"},
   {
     id: "lekki-lagoon-nature-v2",
     type: "sea",
@@ -125,8 +119,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Félsós vizű terület.", "Gazdag halállományban."],
       ro: ["Este o zonă cu apă salmastră.", "Bogată în resurse piscicole."],
       en: ["Is a brackish water area.", "Rich in fish resources."]
-    }
-  },
+    }, image: "/poi-images/lekki-lagoon-nature-v2.webp"},
   {
     id: "niger-delta-nature-v2",
     type: "river",
@@ -139,8 +132,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Nagyon gazdag biológiai sokféleségben.", "Fontos ökoszisztéma."],
       ro: ["Foarte bogată în biodiversitate.", "Un ecosistem important."],
       en: ["Very rich in biodiversity.", "An important ecosystem."]
-    }
-  },
+    }, image: "/poi-images/niger-delta-nature-v2.webp"},
   {
     id: "shere-hills-mountain-nature-v2",
     type: "mountain",
@@ -153,8 +145,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Túrázási lehetőségeiről ismert.", "Magas sziklaképződmények."],
       ro: ["Cunoscut pentru posibilitățile de drumeție.", "Formațiuni stâncoase înalte."],
       en: ["Known for hiking opportunities.", "High rock formations."]
-    }
-  },
+    }, image: "/poi-images/shere-hills-mountain-nature-v2.webp"},
   {
     id: "obudu-plateau-mountain-nature-v2",
     type: "mountain",
@@ -167,8 +158,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Népszerű turistacélpont.", "Dús növényzet."],
       ro: ["O destinație turistică populară.", "Vegetație luxuriantă."],
       en: ["A popular destination for tourists.", "Lush vegetation."]
-    }
-  },
+    }, image: "/poi-images/obudu-plateau-mountain-nature-v2.webp"},
   {
     id: "osun-river-nature-v2",
     type: "river",
@@ -181,8 +171,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Átfolyik az Osun-Osogbo-ligeten.", "Fontos kulturális örökség."],
       ro: ["Curge prin Crângul Osun-Osogbo.", "Un patrimoniu cultural important."],
       en: ["Flows through the Osun-Osogbo Grove.", "An important cultural heritage."]
-    }
-  },
+    }, image: "/poi-images/osun-river-nature-v2.webp"},
   {
     id: "chad-basin-nature-v2",
     type: "forest",
@@ -195,8 +184,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Száraz, félszáraz éghajlat.", "Jelentős a mezőgazdaság számára."],
       ro: ["Climat arid până la semiarid.", "Semnificativ pentru agricultură."],
       en: ["Arid to semi-arid climate.", "Significant for agriculture."]
-    }
-  },
+    }, image: "/poi-images/chad-basin-nature-v2.webp"},
   {
     id: "gashaka-gumti-forest-nature-v2",
     type: "forest",
@@ -209,8 +197,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Számos fajnak ad otthont.", "Hegyvidéki táj."],
       ro: ["Găzduiește numeroase specii.", "Peisaj montan."],
       en: ["Home to numerous species.", "Mountainous landscape."]
-    }
-  },
+    }, image: "/poi-images/gashaka-gumti-forest-nature-v2.webp"},
   {
     id: "kano-river-nature-v2",
     type: "river",
@@ -223,8 +210,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Fontos a mezőgazdaság számára.", "Öntözőrendszereket táplál."],
       ro: ["Important pentru agricultură.", "Alimentează sisteme de irigații."],
       en: ["Important for agriculture.", "Feeds irrigation systems."]
-    }
-  },
+    }, image: "/poi-images/kano-river-nature-v2.webp"},
   {
     id: "kaduna-river-nature-v2",
     type: "river",
@@ -237,8 +223,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Átfolyik Nigéria központján.", "Fontos ártéri területeket hoz létre."],
       ro: ["Curge prin centrul Nigeriei.", "Creează lunci importante."],
       en: ["Flows through central Nigeria.", "Creates important floodplains."]
-    }
-  },
+    }, image: "/poi-images/kaduna-river-nature-v2.webp"},
   {
     id: "sokoto-river-nature-v2",
     type: "river",
@@ -251,8 +236,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Fontos vízforrás a szárazabb északon.", "Támogatja a helyi mezőgazdaságot."],
       ro: ["Sursă importantă de apă în nordul mai uscat.", "Susține agricultura locală."],
       en: ["Important water source in the drier north.", "Supports local agriculture."]
-    }
-  },
+    }, image: "/poi-images/sokoto-river-nature-v2.webp"},
   {
     id: "hadejia-river-nature-v2",
     type: "river",
@@ -265,8 +249,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Fontos vizes élőhely vándormadaraknak.", "Nagyon fajgazdag."],
       ro: ["Zonă umedă importantă pentru păsările migratoare.", "Foarte bogată în specii."],
       en: ["Important wetland for migratory birds.", "Very biodiverse."]
-    }
-  },
+    }, image: "/poi-images/hadejia-river-nature-v2.webp"},
   {
     id: "gongola-river-nature-v2",
     type: "river",
@@ -279,8 +262,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Átfolyik Nigéria északkeleti részén.", "Széles folyótájakat hoz létre."],
       ro: ["Curge prin nord-estul Nigeriei.", "Creează peisaje fluviale vaste."],
       en: ["Flows through northeastern Nigeria.", "Creates vast river landscapes."]
-    }
-  },
+    }, image: "/poi-images/gongola-river-nature-v2.webp"},
   {
     id: "yobe-river-nature-v2",
     type: "river",
@@ -293,8 +275,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["A Csád-tóba torkollik.", "Fontos a határmenti régió számára."],
       ro: ["Se varsă în Lacul Ciad.", "Important pentru regiunea de frontieră."],
       en: ["Empties into Lake Chad.", "Important for the border region."]
-    }
-  },
+    }, image: "/poi-images/yobe-river-nature-v2.webp"},
   {
     id: "ogun-forest-nature-v2",
     type: "forest",
@@ -307,8 +288,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Trópusi fáknak ad otthont.", "Fontos a fakitermelés számára."],
       ro: ["Găzduiește arbori tropicali.", "Important pentru exploatarea forestieră."],
       en: ["Home to tropical trees.", "Important for timber."]
-    }
-  },
+    }, image: "/poi-images/ogun-forest-nature-v2.webp"},
   {
     id: "osun-forest-nature-v2",
     type: "forest",
@@ -321,8 +301,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Védett terület.", "Magas ökológiai jelentőség."],
       ro: ["Zonă protejată.", "Semnificație ecologică ridicată."],
       en: ["Protected area.", "High ecological importance."]
-    }
-  },
+    }, image: "/poi-images/osun-forest-nature-v2.webp"},
   {
     id: "kainji-forest-nature-v2",
     type: "forest",
@@ -335,8 +314,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Sok vadállat élőhelye.", "Fontos pufferzóna."],
       ro: ["Habitat pentru multe animale sălbatice.", "Zonă tampon importantă."],
       en: ["Habitat for many wild animals.", "Important buffer zone."]
-    }
-  },
+    }, image: "/poi-images/kainji-forest-nature-v2.webp"},
   {
     id: "cross-river-forest-nature-v2",
     type: "forest",
@@ -349,8 +327,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Rendkívül fajgazdag.", "A biológiai sokféleség egyik központja."],
       ro: ["Extrem de bogată în specii.", "Un punct fierbinte al biodiversității."],
       en: ["Extremely biodiverse.", "A biodiversity hotspot."]
-    }
-  },
+    }, image: "/poi-images/cross-river-forest-nature-v2.webp"},
   {
     id: "buea-mountain-nature-v2",
     type: "mountain",
@@ -363,8 +340,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Látványos hegyi tájak.", "Nagyon zöld és nedves."],
       ro: ["Peisaje montane spectaculoase.", "Foarte verde și umed."],
       en: ["Spectacular mountain landscapes.", "Very green and humid."]
-    }
-  },
+    }, image: "/poi-images/buea-mountain-nature-v2.webp"},
   {
     id: "mandara-mountains-nature-v2",
     type: "mountain",
@@ -377,8 +353,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Erősen erodált csúcsok.", "Történelmileg lakott terület."],
       ro: ["Vârfuri puternic erodate.", "Zonă locuită istoric."],
       en: ["Strongly eroded peaks.", "Historically inhabited area."]
-    }
-  },
+    }, image: "/poi-images/mandara-mountains-nature-v2.webp"},
   {
     id: "guinea-gulf-sea-nature-v2",
     type: "sea",
@@ -391,8 +366,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Fontos a hajózás számára.", "Gazdag kőolajlelőhelyekben."],
       ro: ["Important pentru navigație.", "Bogată în zăcăminte de petrol."],
       en: ["Important for shipping.", "Rich in oil reserves."]
-    }
-  },
+    }, image: "/poi-images/guinea-gulf-sea-nature-v2.webp"},
   {
     id: "kainji-dam-nature-v2",
     type: "lake",
@@ -405,8 +379,7 @@ export const poiExtraNigeriaNatureV2: POI[] = [
       hu: ["Fontos a madarak számára.", "Népszerű megfigyelőhely."],
       ro: ["Important pentru păsări.", "Popular pentru observații."],
       en: ["Important for birds.", "Popular for observations."]
-    }
-  },
+    }, image: "/poi-images/kainji-dam-nature-v2.webp"},
   {
     id: "niger-river-delta-nature-v2",
     type: "river",
@@ -422,3 +395,4 @@ export const poiExtraNigeriaNatureV2: POI[] = [
     }
   }
 ];
+

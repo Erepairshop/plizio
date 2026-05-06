@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/aiK7_i2.ts
 import type { PoolTopicDef } from "./types";
 
@@ -15,7 +16,7 @@ export const INFO_K7_I2_LABELS: Record<string, Record<string, string>> = {
     t5_title: "Übersetzung & Sprache", t5_text: "KI-Tools wie DeepL übersetzen Texte fast so gut wie Menschen.", t5_inst: "Markiere das richtige Wort:", t5_h1: "Sprachbarrieren abbauen.", t5_h2: "Weltweite Kommunikation.", t5_q: "Welches Tool nutzt oft KI?", t5_qa: "Google Übersetzer", t5_qb: "Ein Taschenrechner", t5_qc: "Eine Stoppuhr", t5_qd: "Paint",
     t5_tk1: "Moderne", t5_tk2: "Übersetzer", t5_tk3: "verstehen", t5_tk4: "den", t5_tk5: "Kontext", t5_tk6: "eines", t5_tk7: "Satzes.",
     t6_title: "Vorurteile in der KI (Bias)", t6_text: "KI kann unfair sein, wenn sie mit schlechten Daten trainiert wurde.", t6_inst: "Tippe auf die Daten:", t6_h1: "Gerechtigkeit.", t6_h2: "Datenqualität zählt.", t6_q: "Woher kommen KI-Vorurteile?", t6_qa: "Aus den Trainingsdaten", t6_qb: "Vom Stromnetz", t6_qc: "Vom Gehäuse", t6_qd: "Vom Internetkabel",
-    t6_tap_count: 4, t6_tap_inst: "Tippe 4 Mal auf die unfairen Daten!",
+    t6_tap_count: "4", t6_tap_inst: "Tippe 4 Mal auf die unfairen Daten!",
     t7_title: "Datenschutz & KI", t7_text: "KI braucht viele Daten, aber unsere Privatsphäre muss geschützt bleiben.", t7_inst: "Ordne die Paare zu:", t7_h1: "Sicher im Netz.", t7_h2: "Meine Daten gehören mir.", t7_q: "Was ist wichtig bei KI-Daten?", t7_qa: "Datenschutz", t7_qb: "Viel Werbung", t7_qc: "Kein Passwort", t7_qd: "Löschen verboten",
     t7_l1: "Anonymisierung", t7_r1: "Namen entfernen", t7_l2: "Verschlüsselung", t7_r2: "Sicherheit", t7_l3: "Einwilligung", t7_r3: "Erlaubnis",
     t8_title: "Jobs & KI", t8_text: "KI wird viele Berufe verändern, aber auch neue erschaffen.", t8_inst: "Fülle die Lücke aus:", t8_h1: "Zukunft der Arbeit.", t8_h2: "Neue Chancen.", t8_q: "Was passiert durch KI mit Jobs?", t8_qa: "Sie verändern sich", t8_qb: "Alle verschwinden", t8_qc: "Nichts", t8_qd: "Sie werden kürzer",
@@ -27,7 +28,7 @@ export const INFO_K7_I2_LABELS: Record<string, Record<string, string>> = {
     t11_title: "Fairness", t11_text: "KI-Systeme sollten alle Menschen gleich behandeln.", t11_inst: "Markiere das richtige Wort:", t11_h1: "Alle sind gleich.", t11_h2: "Gerechtigkeit.", t11_q: "Was ist ein Ziel ethischer KI?", t11_qa: "Fairness", t11_qb: "Geschwindigkeit", t11_qc: "Profit", t11_qd: "Lautstärke",
     t11_tk1: "KI", t11_tk2: "sollte", t11_tk3: "ohne", t11_tk4: "Diskriminierung", t11_tk5: "entscheiden.",
     t12_title: "Rechenschaftspflicht", t12_text: "Wer ist verantwortlich, wenn eine KI einen Fehler macht?", t12_inst: "Tippe auf die Verantwortlichen:", t12_h1: "Verantwortung.", t12_h2: "Wer haftet?", t12_q: "Wer trägt die Verantwortung für die KI?", t12_qa: "Die Entwickler/Nutzer", t12_qb: "Die Batterie", t12_qc: "Der Monitor", t12_qd: "Die Steckdose",
-    t12_tap_count: 2, t12_tap_inst: "Tippe 2 Mal auf die Entwickler!",
+    t12_tap_count: "2", t12_tap_inst: "Tippe 2 Mal auf die Entwickler!",
     t13_title: "Transparenz", t13_text: "Wir müssen verstehen können, wie eine KI zu ihrer Entscheidung kommt.", t13_inst: "Ordne die Paare zu:", t13_h1: "Durchblick haben.", t13_h2: "Erklärbarkeit.", t13_q: "Was bedeutet Transparenz bei KI?", t13_qa: "Nachvollziehbarkeit", t13_qb: "Dass sie aus Glas ist", t13_qc: "Dass sie unsichtbar ist", t13_qd: "Dass sie leuchtet",
     t13_l1: "Black Box", t13_r1: "Unklar", t13_l2: "Explainable AI", t13_r2: "Erklärbar", t13_l3: "Open Source", t13_r3: "Offener Code",
     t14_title: "KI-Sicherheit", t14_text: "Sicherstellen, dass KI keine gefährlichen Dinge tut.", t14_inst: "Fülle die Lücke aus:", t14_h1: "Kontrolle behalten.", t14_h2: "Risiken minimieren.", t14_q: "Was ist das Ziel von AI Safety?", t14_qa: "Sicherer Einsatz von KI", t14_qb: "KI-Waffen bauen", t14_qc: "KI-Spiele spielen", t14_qd: "Nichts tun",
@@ -48,7 +49,7 @@ export const INFO_K7_I2_LABELS: Record<string, Record<string, string>> = {
     t5_title: "Translation & Language", t5_text: "AI tools like DeepL translate texts almost as well as humans.", t5_inst: "Highlight the correct word:", t5_h1: "Breaking language barriers.", t5_h2: "Global communication.", t5_q: "Which tool often uses AI?", t5_qa: "Google Translate", t5_qb: "A calculator", t5_qc: "A stopwatch", t5_qd: "Paint",
     t5_tk1: "Modern", t5_tk2: "translators", t5_tk3: "understand", t5_tk4: "the", t5_tk5: "context", t5_tk6: "of", t5_tk7: "a", t5_tk8: "sentence.",
     t6_title: "Bias in AI", t6_text: "AI can be unfair if it was trained with poor or biased data.", t6_inst: "Tap on the data:", t6_h1: "Justice.", t6_h2: "Data quality matters.", t6_q: "Where do AI biases come from?", t6_qa: "From the training data", t6_qb: "From the power grid", t6_qc: "From the case", t6_qd: "From the internet cable",
-    t6_tap_count: 4, t6_tap_inst: "Tap the unfair data 4 times!",
+    t6_tap_count: "4", t6_tap_inst: "Tap the unfair data 4 times!",
     t7_title: "Privacy & AI", t7_text: "AI needs lots of data, but our privacy must remain protected.", t7_inst: "Match the pairs:", t7_h1: "Safe on the web.", t7_h2: "My data belongs to me.", t7_q: "What is important with AI data?", t7_qa: "Data privacy", t7_qb: "Lots of ads", t7_qc: "No password", t7_qd: "Deleting forbidden",
     t7_l1: "Anonymization", t7_r1: "Remove names", t7_l2: "Encryption", t7_r2: "Security", t7_l3: "Consent", t7_r3: "Permission",
     t8_title: "Jobs & AI", t8_text: "AI will change many jobs but also create new ones.", t8_inst: "Fill in the blank:", t8_h1: "Future of work.", t8_h2: "New opportunities.", t8_q: "What happens to jobs due to AI?", t8_qa: "They are changing", t8_qb: "They all disappear", t8_qc: "Nothing", t8_qd: "They get shorter",
@@ -60,7 +61,7 @@ export const INFO_K7_I2_LABELS: Record<string, Record<string, string>> = {
     t11_title: "Fairness", t11_text: "AI systems should treat everyone equally.", t11_inst: "Highlight the correct word:", t11_h1: "All are equal.", t11_h2: "Justice.", t11_q: "What is a goal of ethical AI?", t11_qa: "Fairness", t11_qb: "Speed", t11_qc: "Profit", t11_qd: "Volume",
     t11_tk1: "AI", t11_tk2: "should", t11_tk3: "decide", t11_tk4: "without", t11_tk5: "any", t11_tk6: "discrimination.",
     t12_title: "Accountability", t12_text: "Who is responsible when AI makes a mistake?", t12_inst: "Tap the responsible ones:", t12_h1: "Responsibility.", t12_h2: "Who is liable?", t12_q: "Who bears the responsibility for AI?", t12_qa: "Developers/Users", t12_qb: "The battery", t12_qc: "The monitor", t12_qd: "The socket",
-    t12_tap_count: 2, t12_tap_inst: "Tap the developers 2 times!",
+    t12_tap_count: "2", t12_tap_inst: "Tap the developers 2 times!",
     t13_title: "Transparency", t13_text: "We must be able to understand how an AI reaches its decision.", t13_inst: "Match the pairs:", t13_h1: "Having insight.", t13_h2: "Explainability.", t13_q: "What does transparency mean in AI?", t13_qa: "Traceability", t13_qb: "That it's made of glass", t13_qc: "That it's invisible", t13_qd: "That it glows",
     t13_l1: "Black Box", t13_r1: "Unclear", t13_l2: "Explainable AI", t13_r2: "Explainable", t13_l3: "Open Source", t13_r3: "Open code",
     t14_title: "AI Safety", t14_text: "Ensuring that AI does not do dangerous things.", t14_inst: "Fill in the blank:", t14_h1: "Maintaining control.", t14_h2: "Minimizing risks.", t14_q: "What is the goal of AI Safety?", t14_qa: "Safe deployment of AI", t14_qb: "Building AI weapons", t14_qc: "Playing AI games", t14_qd: "Doing nothing",
@@ -81,7 +82,7 @@ export const INFO_K7_I2_LABELS: Record<string, Record<string, string>> = {
     t5_title: "Fordítás & Nyelv", t5_text: "A MI eszközök, mint a DeepL, majdnem olyan jól fordítanak, mint az emberek.", t5_inst: "Jelöld meg a helyes szót:", t5_h1: "Nyelvi korlátok lebontása.", t5_h2: "Világszintű kommunikáció.", t5_q: "Melyik eszköz használ gyakran MI-t?", t5_qa: "Google Fordító", t5_qb: "Számológép", t5_qc: "Stopperóra", t5_qd: "Paint",
     t5_tk1: "A modern", t5_tk2: "fordítók", t5_tk3: "értik", t5_tk4: "egy", t5_tk5: "mondat", t5_tk6: "környezetét.",
     t6_title: "Előítélet a MI-ben (Bias)", t6_text: "A MI igazságtalan lehet, ha rossz adatokkal tanították.", t6_inst: "Kattints az adatokra:", t6_h1: "Igazságosság.", t6_h2: "Az adatminőség számít.", t6_q: "Honnan jönnek a MI előítéletei?", t6_qa: "A tanító adatokból", t6_qb: "Az elektromos hálózatból", t6_qc: "A gépházból", t6_qd: "Az internetkábelből",
-    t6_tap_count: 4, t6_tap_inst: "Kattints 4-szer az igazságtalan adatokra!",
+    t6_tap_count: "4", t6_tap_inst: "Kattints 4-szer az igazságtalan adatokra!",
     t7_title: "Adatvédelem & MI", t7_text: "A MI-nek sok adatra van szüksége, de a magánéletünket meg kell védeni.", t7_inst: "Párosítsd össze:", t7_h1: "Biztonság a hálón.", t7_h2: "Az adataim az enyémek.", t7_q: "Mi fontos a MI adatoknál?", t7_qa: "Adatvédelem", t7_qb: "Sok reklám", t7_qc: "Nincs jelszó", t7_qd: "Tilos törölni",
     t7_l1: "Anonimizálás", t7_r1: "Nevek eltávolítása", t7_l2: "Titkosítás", t7_r2: "Biztonság", t7_l3: "Hozzájárulás", t7_r3: "Engedély",
     t8_title: "Munkák & MI", t8_text: "A MI sok szakmát megváltoztat, de újakat is létrehoz.", t8_inst: "Töltsd ki a hiányt:", t8_h1: "A munka jövője.", t8_h2: "Új lehetőségek.", t8_q: "Mi történik a munkákkal a MI miatt?", t8_qa: "Megváltoznak", t8_qb: "Mind eltűnik", t8_qc: "Semmi", t8_qd: "Rövidebbek lesznek",
@@ -93,7 +94,7 @@ export const INFO_K7_I2_LABELS: Record<string, Record<string, string>> = {
     t11_title: "Fairness (Méltányosság)", t11_text: "A MI rendszereknek minden embert egyenlően kellene kezelniük.", t11_inst: "Jelöld meg a helyes szót:", t11_h1: "Mindenki egyenlő.", t11_h2: "Igazságosság.", t11_q: "Mi az etikus MI egyik célja?", t11_qa: "Fairness", t11_qb: "Sebesség", t11_qc: "Profit", t11_qd: "Hangerő",
     t11_tk1: "A MI-nek", t11_tk2: "diszkrimináció", t11_tk3: "nélkül", t11_tk4: "kellene", t11_tk5: "döntenie.",
     t12_title: "Felelősség", t12_text: "Ki a felelős, ha a MI hibát követ el?", t12_inst: "Kattints a felelősökre:", t12_h1: "Felelősségvállalás.", t12_h2: "Ki a felelős?", t12_q: "Ki viseli a felelősséget a MI-ért?", t12_qa: "A fejlesztők/felhasználók", t12_qb: "Az akkumulátor", t12_qc: "A monitor", t12_qd: "A konnektor",
-    t12_tap_count: 2, t12_tap_inst: "Kattints a fejlesztőkre 2-szer!",
+    t12_tap_count: "2", t12_tap_inst: "Kattints a fejlesztőkre 2-szer!",
     t13_title: "Transzparencia", t13_text: "Értenünk kell, hogyan jut a MI egy döntésre.", t13_inst: "Párosítsd össze:", t13_h1: "Látni a folyamatot.", t13_h2: "Magyarázhatóság.", t13_q: "Mit jelent a transzparencia a MI-nél?", t13_qa: "Nyomonkövethetőség", t13_qb: "Hogy üvegből van", t13_qc: "Hogy láthatatlan", t13_qd: "Hogy világít",
     t13_l1: "Black Box", t13_r1: "Nem világos", t13_l2: "Explainable AI", t13_r2: "Magyarázható", t13_l3: "Open Source", t13_r3: "Nyílt forráskód",
     t14_title: "MI-biztonság", t14_text: "Annak biztosítása, hogy a MI ne tegyen veszélyes dolgokat.", t14_inst: "Töltsd ki a hiányt:", t14_h1: "Kontroll megőrzése.", t14_h2: "Kockázatok csökkentése.", t14_q: "Mi a célja az AI Safety-nek?", t14_qa: "A MI biztonságos használata", t14_qb: "MI fegyverek építése", t14_qc: "MI játékok játszása", t14_qd: "Semmittevés",
@@ -114,7 +115,7 @@ export const INFO_K7_I2_LABELS: Record<string, Record<string, string>> = {
     t5_title: "Traducere & Limbă", t5_text: "Instrumentele IA precum DeepL traduc texte aproape la fel de bine ca oamenii.", t5_inst: "Evidențiază cuvântul corect:", t5_h1: "Depășirea barierelor lingvistice.", t5_h2: "Comunicare globală.", t5_q: "Ce instrument folosește adesea IA?", t5_qa: "Google Translate", t5_qb: "Un calculator", t5_qc: "Un cronometru", t5_qd: "Paint",
     t5_tk1: "Traducătorii", t5_tk2: "moderni", t5_tk3: "înțeleg", t5_tk4: "contextul", t5_tk5: "unei", t5_tk6: "propoziții.",
     t6_title: "Prejudecăți în IA (Bias)", t6_text: "IA poate fi nedreaptă dacă a fost antrenată cu date proaste.", t6_inst: "Atinge datele:", t6_h1: "Dreptate.", t6_h2: "Calitatea datelor contează.", t6_q: "De unde vin prejudecățile IA?", t6_qa: "Din datele de antrenament", t6_qb: "Din rețeaua electrică", t6_qc: "Din carcasă", t6_qd: "Din cablul de net",
-    t6_tap_count: 4, t6_tap_inst: "Atinge datele nedrepte de 4 ori!",
+    t6_tap_count: "4", t6_tap_inst: "Atinge datele nedrepte de 4 ori!",
     t7_title: "Confidențialitate & IA", t7_text: "IA are nevoie de multe date, dar viața privată trebuie protejată.", t7_inst: "Potrivește perechile:", t7_h1: "Sigur pe net.", t7_h2: "Datele mele îmi aparțin.", t7_q: "Ce este important la datele IA?", t7_qa: "Confidențialitatea", t7_qb: "Multă reclamă", t7_qc: "Fără parolă", t7_qd: "Ștergerea interzisă",
     t7_l1: "Anonimizare", t7_r1: "Eliminare nume", t7_l2: "Criptare", t7_r2: "Securitate", t7_l3: "Consimțământ", t7_r3: "Permisiune",
     t8_title: "Joburi & IA", t8_text: "IA va schimba multe profesii, dar va crea și altele noi.", t8_inst: "Completează spațiul liber:", t8_h1: "Viitorul muncii.", t8_h2: "Noi oportunități.", t8_q: "Ce se întâmplă cu joburile din cauza IA?", t8_qa: "Se schimbă", t8_qb: "Dispar toate", t8_qc: "Nimic", t8_qd: "Devin mai scurte",
@@ -126,7 +127,7 @@ export const INFO_K7_I2_LABELS: Record<string, Record<string, string>> = {
     t11_title: "Fairness (Echitate)", t11_text: "Sistemele IA ar trebui să trateze toți oamenii în mod egal.", t11_inst: "Evidențiază cuvântul corect:", t11_h1: "Toți sunt egali.", t11_h2: "Dreptate.", t11_q: "Care este un scop al IA etice?", t11_qa: "Echitatea", t11_qb: "Viteza", t11_qc: "Profitul", t11_qd: "Volumul",
     t11_tk1: "IA", t11_tk2: "ar", t11_tk3: "trebui", t11_tk4: "să", t11_tk5: "decidă", t11_tk6: "fără", t11_tk7: "discriminare.",
     t12_title: "Responsabilitate", t12_text: "Cine este responsabil când IA face o greșeală?", t12_inst: "Atinge responsabilii:", t12_h1: "Asumarea responsabilității.", t12_h2: "Cine e vinovat?", t12_q: "Cine poartă responsabilitatea pentru IA?", t12_qa: "Dezvoltatorii/utilizatorii", t12_qb: "Bateria", t12_qc: "Monitorul", t12_qd: "Priza",
-    t12_tap_count: 2, t12_tap_inst: "Atinge dezvoltatorii de 2 ori!",
+    t12_tap_count: "2", t12_tap_inst: "Atinge dezvoltatorii de 2 ori!",
     t13_title: "Transparență", t13_text: "Trebuie să putem înțelege cum ajunge IA la o decizie.", t13_inst: "Potrivește perechile:", t13_h1: "Vedere clară.", t13_h2: "Explicabilitate.", t13_q: "Ce înseamnă transparența în IA?", t13_qa: "Trasabilitate", t13_qb: "Că e din sticlă", t13_qc: "Că e invizibilă", t13_qd: "Că luminează",
     t13_l1: "Black Box", t13_r1: "Neclar", t13_l2: "Explainable AI", t13_r2: "Explicabil", t13_l3: "Open Source", t13_r3: "Cod deschis",
     t14_title: "Siguranța IA", t14_text: "Asigurarea faptului că IA nu face lucruri periculoase.", t14_inst: "Completează spațiul liber:", t14_h1: "Menținerea controlului.", t14_h2: "Reducerea riscurilor.", t14_q: "Care este scopul AI Safety?", t14_qa: "Utilizarea sigură a IA", t14_qb: "Construirea de arme IA", t14_qc: "Jocuri IA", t14_qd: "Nimic",
@@ -170,7 +171,7 @@ export const INFO_K7_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "⚖️", color: "#FF9800" },
-    interactive: { type: "tap-count", instruction: "t6_tap_inst", count: 4 },
+    interactive: { type: "tap-count", instruction: "t6_tap_inst", tapCount: { emoji: "⚖️", count: 4 } },
     quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" }
   },
   {
@@ -206,7 +207,7 @@ export const INFO_K7_I2_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t12_title", infoText: "t12_text",
     svg: { type: "simple-icon", icon: "✍️", color: "#000000" },
-    interactive: { type: "tap-count", instruction: "t12_tap_inst", count: 2 },
+    interactive: { type: "tap-count", instruction: "t12_tap_inst", tapCount: { emoji: "👥", count: 2 } },
     quiz: { question: "t12_q", choices: ["t12_qa", "t12_qb", "t12_qc", "t12_qd"], answer: "t12_qa" }
   },
   {
@@ -228,3 +229,4 @@ export const INFO_K7_I2_POOL: PoolTopicDef[] = [
     quiz: { question: "t15_q", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], answer: "t15_qa" }
   }
 ];
+

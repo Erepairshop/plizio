@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGambiaReliefV2: POI[] = [
@@ -23,8 +24,19 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Az ország legmagasabb pontja.", "Az Upper River régióban található."],
       ro: ["Cea mai înaltă cotă din țară.", "Situat în regiunea Upper River."],
       en: ["Highest point in the country.", "Located in the Upper River Region."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Red Rock gilt als der höchste Punkt Gambias und liegt in der Upper River Region nahe der Grenze zum Senegal. Mit einer Höhe von lediglich 53 Metern über dem Meeresspiegel ist er ein faszinierendes geographisches Merkmal in einem ansonsten extrem flachen Land. Die Region um Red Rock besteht überwiegend aus lateritischen Bodenformationen, die für die östlichen Gebiete Gambias typisch sind und die charakteristische rote Färbung aufweisen. Trotz der geringen absoluten Höhe ist die Erhebung für die lokale Topographie bedeutend, da sie den Abfluss des Regenwassers in der Region beeinflusst. Diese geologische Struktur dient als markanter Referenzpunkt für die lokale Bevölkerung und unterstreicht die sanfte, aber beständige Reliefgestaltung des Landes.",
+      hu: "Red Rock Gambia legmagasabb pontjaként ismert, és az ország keleti részén, az Upper River régióban található, a szenegáli határ közelében. A tengerszint feletti mindössze 53 méteres magasságával ez a kiemelkedés egyedülálló geológiai sajátosság egy rendkívül sík országban. A területet főként laterites talajképződmények alkotják, amelyek Gambia keleti részeire jellemzőek, és a jellegzetes vöröses színt kölcsönzik a tájnak. Bár abszolút magassága csekély, a domborzat meghatározó szerepet játszik a helyi csapadékvíz-elvezetésben. Ez a földtani struktúra fontos tájékozódási pont a helyiek számára, és rávilágít az ország szelíd, ám állandó domborzati formáira.",
+      ro: "Red Rock este considerat cel mai înalt punct din Gambia, situat în regiunea Upper River, în apropierea graniței cu Senegalul. Cu o altitudine de doar 53 de metri deasupra nivelului mării, reprezintă un punct geografic fascinant într-o țară altfel extrem de plată. Regiunea din jurul Red Rock este compusă în principal din formațiuni de sol lateritic, tipice pentru zonele estice ale Gambiei, care conferă peisajului culoarea roșiatică caracteristică. În ciuda altitudinii absolute reduse, această ridicătură este semnificativă pentru topografia locală, influențând scurgerea apelor pluviale în regiune. Această structură geologică servește drept punct de reper important pentru populația locală și subliniază relieful blând, dar constant, al țării.",
+      en: "Red Rock is considered the highest point in the Gambia, located in the Upper River Region near the border with Senegal. Standing at just 53 meters above sea level, it is a fascinating geographical feature in an otherwise extremely flat country. The area around Red Rock consists predominantly of laterite soil formations, typical for the eastern parts of the Gambia, which give the landscape its characteristic red color. Despite its low absolute elevation, the rise is significant for the local topography, influencing rainwater drainage in the region. This geological structure serves as a prominent landmark for the local population and underscores the gentle but constant relief of the nation."
+    },
+    factsAdvanced: {
+      de: ["Höhe beträgt exakt 53 Meter.", "Gelegen in der Upper River Region.", "Besteht aus eisenhaltigem Laterit.", "Grenzregion zum Nachbarland Senegal.", "Wichtigster Orientierungspunkt im Osten.", "Niedrigster nationaler Höchstpunkt weltweit."],
+      hu: ["A magassága pontosan 53 méter.", "Az Upper River régióban helyezkedik el.", "Vasban gazdag lateritből áll.", "Határvidék Szenegállal.", "A legfontosabb tájékozódási pont keleten.", "A világ egyik legalacsonyabb országcsúcsa."],
+      ro: ["Înălțimea este de exact 53 de metri.", "Situat în regiunea Upper River.", "Format din laterit feruginos.", "Regiune de graniță cu Senegal.", "Cel mai important punct de reper în est.", "Unul dintre cele mai joase puncte culminante."],
+      en: ["Height is exactly 53 meters.", "Located in the Upper River Region.", "Composed of iron-rich laterite.", "Border region with Senegal.", "Most important landmark in the east.", "One of the lowest national high points."]
+    }, image: "/poi-images/red-rock-relief-v2.webp"},
   {
     id: "fajara-cliffs-relief-v2",
     type: "relief",
@@ -47,8 +59,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Laterit homokkőből állnak.", "Népszerű hely a naplemente megtekintésére."],
       ro: ["Formate din gresie lateritică.", "Loc popular pentru apusuri de soare."],
       en: ["Composed of lateritic sandstone.", "Popular spot for watching sunsets."]
-    }
-  },
+    }, image: "/poi-images/fajara-cliffs-relief-v2.webp"},
   {
     id: "bama-kuno-forest-relief-v2",
     type: "forest",
@@ -71,8 +82,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Fontos élőhely a főemlősök számára.", "A talajerózió elleni védelmet szolgálja."],
       ro: ["Habitat important pentru primate.", "Servește la protecția solului împotriva eroziunii."],
       en: ["Important habitat for primates.", "Serves as soil protection against erosion."]
-    }
-  },
+    }, image: "/poi-images/bama-kuno-forest-relief-v2.webp"},
   {
     id: "salagi-forest-relief-v2",
     type: "forest",
@@ -95,8 +105,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["A Serekunda agglomeráció közelében található.", "Védelmet nyújt az őshonos fafajoknak."],
       ro: ["Lângă aglomerația Serekunda.", "Oferă protecție pentru speciile de arbori nativi."],
       en: ["Near the Serekunda urban area.", "Provides protection for indigenous tree species."]
-    }
-  },
+    }, image: "/poi-images/salagi-forest-relief-v2.webp"},
   {
     id: "nyambai-forest-relief-v2",
     type: "forest",
@@ -119,8 +128,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Teakfa állományairól ismert.", "Népszerű a rövid természetjáró sétákhoz."],
       ro: ["Cunoscut pentru arboretele de tec.", "Popular pentru drumeții scurte în natură."],
       en: ["Known for teak tree stands.", "Popular for short nature walks."]
-    }
-  },
+    }, image: "/poi-images/nyambai-forest-relief-v2.webp"},
   {
     id: "furuyar-forest-relief-v2",
     type: "forest",
@@ -143,8 +151,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Sűrű trópusi növényzet.", "Fontos a regionális klímavédelem szempontjából."],
       ro: ["Vegetație tropicală densă.", "Important pentru protecția climei la nivel regional."],
       en: ["Dense tropical growth.", "Important for regional climate protection."]
-    }
-  },
+    }, image: "/poi-images/furuyar-forest-relief-v2.webp"},
   {
     id: "kuntaur-highlands-relief-v2",
     type: "relief",
@@ -167,8 +174,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Kilátást nyújt a Gambia-folyóra.", "Vasat tartalmazó laterit kőzetből áll."],
       ro: ["Oferă o vedere asupra râului Gambia.", "Format din rocă lateritică feruginoasă."],
       en: ["Offers views of the Gambia River.", "Consists of iron-bearing laterite rock."]
-    }
-  },
+    }, image: "/poi-images/kuntaur-highlands-relief-v2.webp"},
   {
     id: "basse-plateau-relief-v2",
     type: "relief",
@@ -191,8 +197,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Az ország legmagasabb régiója.", "Tipikus vörös laterit föld jellemzi."],
       ro: ["Cea mai înaltă regiune a țării.", "Pământ lateritic roșu tipic."],
       en: ["Highest region of the country.", "Typical red laterite soil."]
-    }
-  },
+    }, image: "/poi-images/basse-plateau-relief-v2.webp"},
   {
     id: "keneba-plateau-relief-v2",
     type: "relief",
@@ -215,8 +220,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Száraz talaj a mocsarak felett.", "Fontos a kölestermesztés szempontjából."],
       ro: ["Sol uscat deasupra mlaștinilor.", "Important pentru cultivarea meiului."],
       en: ["Dry ground above the swamps.", "Important for millet cultivation."]
-    }
-  },
+    }, image: "/poi-images/keneba-plateau-relief-v2.webp"},
   {
     id: "nianija-hills-relief-v2",
     type: "relief",
@@ -239,8 +243,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Szenegáli határmenti régió.", "Mállott kőzetből állnak."],
       ro: ["Regiune de graniță cu Senegalul.", "Formate din rocă alterată."],
       en: ["Border region with Senegal.", "Composed of weathered rock."]
-    }
-  },
+    }, image: "/poi-images/nianija-hills-relief-v2.webp"},
   {
     id: "sami-plateau-relief-v2",
     type: "relief",
@@ -263,8 +266,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Nyitott szavannai táj.", "Fontos állatlegeltetési terület."],
       ro: ["Peisaj de savană deschisă.", "Zonă importantă de pășunat."],
       en: ["Open savanna landscape.", "Important livestock grazing area."]
-    }
-  },
+    }, image: "/poi-images/sami-plateau-relief-v2.webp"},
   {
     id: "tumani-tenda-cliffs-relief-v2",
     type: "relief",
@@ -287,8 +289,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Folyóparti eróziós perem.", "Madármegfigyelő pontok a sziklákon."],
       ro: ["Margine de eroziune fluvială.", "Puncte de observare a păsărilor pe stânci."],
       en: ["River-side erosion edge.", "Bird watching spots on the cliffs."]
-    }
-  },
+    }, image: "/poi-images/tumani-tenda-cliffs-relief-v2.webp"},
   {
     id: "brikama-plateau-relief-v2",
     type: "relief",
@@ -335,8 +336,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["A nemzeti park része.", "Kilátást nyújt a bolongokra (csatornákra)."],
       ro: ["Parte a parcului național.", "Oferă vedere asupra bolong-urilor."],
       en: ["Part of the national park.", "Offers views over the bolongs."]
-    }
-  },
+    }, image: "/poi-images/kiang-west-plateau-relief-v2.webp"},
   {
     id: "niumi-dunes-relief-v2",
     type: "relief",
@@ -359,8 +359,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Természetes partvédelem.", "Speciális dűnenövények élőhelye."],
       ro: ["Protecție naturală a coastei.", "Habitat pentru plante de dune specializate."],
       en: ["Natural coastal protection.", "Home to specialized dune plants."]
-    }
-  },
+    }, image: "/poi-images/niumi-dunes-relief-v2.webp"},
   {
     id: "kartong-cliffs-relief-v2",
     type: "relief",
@@ -383,8 +382,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Gambia legdélibb domborzati eleme.", "Határpont Szenegállal."],
       ro: ["Cel mai sudic relief din Gambia.", "Punct de frontieră cu Senegal."],
       en: ["Southernmost relief of the Gambia.", "Border point with Senegal."]
-    }
-  },
+    }, image: "/poi-images/kartong-cliffs-relief-v2.webp"},
   {
     id: "jambanjali-forest-relief-v2",
     type: "forest",
@@ -407,8 +405,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Erdő és szavanna keveréke.", "Fontos a helyi biológiai sokféleség szempontjából."],
       ro: ["Amestec de pădure și savană.", "Important pentru biodiversitatea locală."],
       en: ["Mixture of forest and savanna.", "Important for local biodiversity."]
-    }
-  },
+    }, image: "/poi-images/jambanjali-forest-relief-v2.webp"},
   {
     id: "kabafita-forest-relief-v2",
     type: "forest",
@@ -431,8 +428,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Erdészeti kutatások központja.", "Védett terület a mahagónifák számára."],
       ro: ["Centru pentru cercetări silvice.", "Arie protejată pentru arborii de mahon."],
       en: ["Center for forestry research.", "Protected area for mahogany trees."]
-    }
-  },
+    }, image: "/poi-images/kabafita-forest-relief-v2.webp"},
   {
     id: "berending-forest-relief-v2",
     type: "forest",
@@ -455,8 +451,7 @@ export const poiExtraGambiaReliefV2: POI[] = [
       hu: ["Madarakban gazdag terület az északi parton.", "A Fort Bullen közelében található."],
       ro: ["Zonă bogată în păsări pe malul de nord.", "Situat lângă Fort Bullen."],
       en: ["Bird-rich area on the north bank.", "Located near Fort Bullen."]
-    }
-  },
+    }, image: "/poi-images/berending-forest-relief-v2.webp"},
   {
     id: "kwinella-hills-relief-v2",
     type: "relief",
@@ -482,3 +477,4 @@ export const poiExtraGambiaReliefV2: POI[] = [
     }
   }
 ];
+

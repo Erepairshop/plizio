@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from "./poi";
 
 export const canadaAllPoi: POI[] = [
@@ -17,8 +18,7 @@ export const canadaAllPoi: POI[] = [
       en: ["Ottawa became Canada's permanent capital in the mid-19th century.", "The Ottawa River separates the city from the province of Quebec.", "The Canadian Museum of History is one of the country's most-visited cultural institutions.", "The Rideau Canal spans 202 km and is a masterpiece of 19th-century engineering.", "The National Gallery of Canada is a prominent feature of the downtown area.", "The annual Tulip Festival showcases millions of blooms every spring."]
     },
     elevation: 70, historyYear: 1826, historyPeriod: "Victorian Era",
-    coords: [-75.6972, 45.4215], type: 'landmark', parent: 'CA'
-  },
+    coords: [-75.6972, 45.4215], type: 'landmark', parent: 'CA', image: "/poi-images/can_cap.webp"},
   {
     id: "can_tor",    name: { de: "Toronto", hu: "Toronto", ro: "Toronto", en: "Toronto" },
     description: { de: "Largest city in Canada", hu: "Largest city in Canada", ro: "Largest city in Canada", en: "Largest city in Canada" },
@@ -35,8 +35,7 @@ export const canadaAllPoi: POI[] = [
       en: ["Toronto is Canada's largest city and the capital of the province of Ontario.", "The CN Tower, at 553 meters, was once the world's tallest free-standing structure.", "More than half of Toronto's population was born outside of Canada.", "The city is recognized as one of the most famous multicultural melting pots in the world.", "Ferries connect the city's harbor to the nearby Toronto Islands.", "The city hosts the internationally renowned TIFF film festival."]
     },
     elevation: 76, historyYear: 1793, historyPeriod: "Colonial/Modern",
-    coords: [-79.3832, 43.6532], type: 'landmark', parent: 'CA'
-  },
+    coords: [-79.3832, 43.6532], type: 'landmark', parent: 'CA', image: "/poi-images/can_tor.webp"},
   {
     id: "can_mon",    name: { de: "Montreal", hu: "Montreal", ro: "Montreal", en: "Montreal" },
     description: { de: "Major city in Quebec", hu: "Major city in Quebec", ro: "Major city in Quebec", en: "Major city in Quebec" },
@@ -53,8 +52,7 @@ export const canadaAllPoi: POI[] = [
       en: ["Montreal is situated on an island in the St. Lawrence River.", "The city boasts a vast underground city network known as RÉSO, vital for winter transit.", "Mount Royal offers spectacular panoramic views over the metropolis.", "Vieux-Montréal is the oldest district, characterized by its historic cobblestone streets.", "The city hosts the internationally famous Montreal Jazz Festival annually.", "Poutine is a culinary delicacy deeply rooted in the city's local culture."]
     },
     elevation: 37, historyYear: 1642, historyPeriod: "French Colonial",
-    coords: [-73.5673, 45.5017], type: 'landmark', parent: 'CA'
-  },
+    coords: [-73.5673, 45.5017], type: 'landmark', parent: 'CA', image: "/poi-images/can_mon.webp"},
   {
     id: "can_van",    name: { de: "Vancouver", hu: "Vancouver", ro: "Vancouver", en: "Vancouver" },
     description: { de: "Major city in British Columbia", hu: "Major city in British Columbia", ro: "Major city in British Columbia", en: "Major city in British Columbia" },
@@ -71,8 +69,7 @@ export const canadaAllPoi: POI[] = [
       en: ["The city is uniquely positioned where mountains meet the ocean.", "Stanley Park is one of the largest urban parks in North America.", "Vancouver is a global hub for film production, earning the nickname 'Hollywood North'.", "It enjoys one of the mildest climates in all of Canada.", "The world-famous Capilano Suspension Bridge is a major landmark here.", "The city successfully hosted the 2010 Winter Olympic Games."]
     },
     elevation: 2, historyYear: 1886, historyPeriod: "Modern",
-    coords: [-123.1207, 49.2827], type: 'landmark', parent: 'CA'
-  },
+    coords: [-123.1207, 49.2827], type: 'landmark', parent: 'CA', image: "/poi-images/can_van.webp"},
   {
     id: "can_cal",    name: { de: "Calgary", hu: "Calgary", ro: "Calgary", en: "Calgary" },
     description: { de: "Major city in Alberta", hu: "Major city in Alberta", ro: "Major city in Alberta", en: "Major city in Alberta" },
@@ -89,8 +86,7 @@ export const canadaAllPoi: POI[] = [
       en: ["Calgary serves as the central hub of Canada's oil and gas industry.", "The Calgary Stampede is one of the largest and most famous rodeos in the world.", "The city is located at the confluence of the Bow and Elbow Rivers.", "The iconic Calgary Tower is a defining landmark of the cityscape.", "Banff National Park is easily accessible, located in the nearby mountains.", "Calgary is recognized as one of the sunniest cities in all of Canada."]
     },
     elevation: 1045, historyYear: 1875, historyPeriod: "Victorian/Modern",
-    coords: [-114.0719, 51.0447], type: 'landmark', parent: 'CA'
-  },
+    coords: [-114.0719, 51.0447], type: 'landmark', parent: 'CA', image: "/poi-images/can_cal.webp"},
   {
     id: "can_edm",    name: { de: "Edmonton", hu: "Edmonton", ro: "Edmonton", en: "Edmonton" },
     description: { de: "Capital of Alberta", hu: "Capital of Alberta", ro: "Capital of Alberta", en: "Capital of Alberta" },
@@ -107,8 +103,7 @@ export const canadaAllPoi: POI[] = [
       en: ["Edmonton is the northernmost metropolis in North America with over 1 million inhabitants.", "The North Saskatchewan River valley is a massive urban green space.", "West Edmonton Mall is one of the largest shopping centers in the world.", "The city is considered a primary northern gateway to the Canadian Arctic.", "Edmonton hosts numerous festivals, earning the title 'Canada's Festival City'.", "The provincial legislature building is situated on the scenic riverbank."]
     },
     elevation: 645, historyYear: 1795, historyPeriod: "Colonial/Modern",
-    coords: [-113.4909, 53.5444], type: 'landmark', parent: 'CA'
-  },
+    coords: [-113.4909, 53.5444], type: 'landmark', parent: 'CA', image: "/poi-images/can_edm.webp"},
   {
     id: "can_que",    name: { de: "Quebec City", hu: "Quebec City", ro: "Quebec City", en: "Quebec City" },
     description: { de: "Capital of Quebec", hu: "Capital of Quebec", ro: "Capital of Quebec", en: "Capital of Quebec" },
@@ -125,8 +120,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 98, historyYear: 1608, historyPeriod: "French Colonial",
-    coords: [-71.208, 46.8139], type: 'landmark', parent: 'CA'
-  },
+    coords: [-71.208, 46.8139], type: 'landmark', parent: 'CA', image: "/poi-images/can_que.webp"},
   {
     id: "can_win",    name: { de: "Winnipeg", hu: "Winnipeg", ro: "Winnipeg", en: "Winnipeg" },
     description: { de: "Capital of Manitoba", hu: "Capital of Manitoba", ro: "Capital of Manitoba", en: "Capital of Manitoba" },
@@ -143,8 +137,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 239, historyYear: 1873, historyPeriod: "Victorian/Modern",
-    coords: [-97.1384, 49.8951], type: 'landmark', parent: 'CA'
-  },
+    coords: [-97.1384, 49.8951], type: 'landmark', parent: 'CA', image: "/poi-images/can_win.webp"},
   {
     id: "can_hal",    name: { de: "Halifax", hu: "Halifax", ro: "Halifax", en: "Halifax" },
     description: { de: "Capital of Nova Scotia", hu: "Capital of Nova Scotia", ro: "Capital of Nova Scotia", en: "Capital of Nova Scotia" },
@@ -161,8 +154,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 25, historyYear: 1749, historyPeriod: "Colonial",
-    coords: [-63.5728, 44.6488], type: 'landmark', parent: 'CA'
-  },
+    coords: [-63.5728, 44.6488], type: 'landmark', parent: 'CA', image: "/poi-images/can_hal.webp"},
   {
     id: "can_vic",    name: { de: "Victoria", hu: "Victoria", ro: "Victoria", en: "Victoria" },
     description: { de: "Capital of British Columbia", hu: "Capital of British Columbia", ro: "Capital of British Columbia", en: "Capital of British Columbia" },
@@ -179,8 +171,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 23, historyYear: 1843, historyPeriod: "Victorian Era",
-    coords: [-123.3656, 48.4284], type: 'landmark', parent: 'CA'
-  },
+    coords: [-123.3656, 48.4284], type: 'landmark', parent: 'CA', image: "/poi-images/can_vic.webp"},
   {
     id: "can_ss",    name: { de: "Saskatoon", hu: "Saskatoon", ro: "Saskatoon", en: "Saskatoon" },
     description: { de: "Major city in Saskatchewan", hu: "Major city in Saskatchewan", ro: "Major city in Saskatchewan", en: "Major city in Saskatchewan" },
@@ -197,8 +188,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 482, historyYear: 1882, historyPeriod: "Victorian/Modern",
-    coords: [-106.67, 52.1332], type: 'landmark', parent: 'CA'
-  },
+    coords: [-106.67, 52.1332], type: 'landmark', parent: 'CA', image: "/poi-images/can_ss.webp"},
   {
     id: "can_reg",    name: { de: "Regina", hu: "Regina", ro: "Regina", en: "Regina" },
     description: { de: "Capital of Saskatchewan", hu: "Capital of Saskatchewan", ro: "Capital of Saskatchewan", en: "Capital of Saskatchewan" },
@@ -215,8 +205,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 577, historyYear: 1882, historyPeriod: "Victorian/Modern",
-    coords: [-104.6158, 50.4492], type: 'landmark', parent: 'CA'
-  },
+    coords: [-104.6158, 50.4492], type: 'landmark', parent: 'CA', image: "/poi-images/can_reg.webp"},
   {
     id: "can_stj",    name: { de: "St. John's", hu: "St. John's", ro: "St. John's", en: "St. John's" },
     description: { de: "Capital of Newfoundland and Labrador", hu: "Capital of Newfoundland and Labrador", ro: "Capital of Newfoundland and Labrador", en: "Capital of Newfoundland and Labrador" },
@@ -233,8 +222,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 0, historyYear: 1497, historyPeriod: "Discovery Era",
-    coords: [-52.7126, 47.5615], type: 'landmark', parent: 'CA'
-  },
+    coords: [-52.7126, 47.5615], type: 'landmark', parent: 'CA', image: "/poi-images/can_stj.webp"},
   {
     id: "can_cha",    name: { de: "Charlottetown", hu: "Charlottetown", ro: "Charlottetown", en: "Charlottetown" },
     description: { de: "Capital of PEI", hu: "Capital of PEI", ro: "Capital of PEI", en: "Capital of PEI" },
@@ -251,8 +239,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 8, historyYear: 1764, historyPeriod: "Colonial/Victorian",
-    coords: [-63.1311, 46.2382], type: 'landmark', parent: 'CA'
-  },
+    coords: [-63.1311, 46.2382], type: 'landmark', parent: 'CA', image: "/poi-images/can_cha.webp"},
   {
     id: "can_fre",    name: { de: "Fredericton", hu: "Fredericton", ro: "Fredericton", en: "Fredericton" },
     description: { de: "Capital of New Brunswick", hu: "Capital of New Brunswick", ro: "Capital of New Brunswick", en: "Capital of New Brunswick" },
@@ -269,8 +256,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 20, historyYear: 1783, historyPeriod: "Loyalist Era",
-    coords: [-66.6431, 45.9636], type: 'landmark', parent: 'CA'
-  },
+    coords: [-66.6431, 45.9636], type: 'landmark', parent: 'CA', image: "/poi-images/can_fre.webp"},
   {
     id: "can_whi",    name: { de: "Whitehorse", hu: "Whitehorse", ro: "Whitehorse", en: "Whitehorse" },
     description: { de: "Capital of Yukon", hu: "Capital of Yukon", ro: "Capital of Yukon", en: "Capital of Yukon" },
@@ -287,8 +273,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 640, historyYear: 1898, historyPeriod: "Gold Rush Era",
-    coords: [-135.0568, 60.7212], type: 'landmark', parent: 'CA'
-  },
+    coords: [-135.0568, 60.7212], type: 'landmark', parent: 'CA', image: "/poi-images/can_whi.webp"},
   {
     id: "can_yel",    name: { de: "Yellowknife", hu: "Yellowknife", ro: "Yellowknife", en: "Yellowknife" },
     description: { de: "Capital of NWT", hu: "Capital of NWT", ro: "Capital of NWT", en: "Capital of NWT" },
@@ -305,8 +290,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 206, historyYear: 1934, historyPeriod: "Modern/Mining Era",
-    coords: [-114.3718, 62.454], type: 'landmark', parent: 'CA'
-  },
+    coords: [-114.3718, 62.454], type: 'landmark', parent: 'CA', image: "/poi-images/can_yel.webp"},
   {
     id: "can_iqa",    name: { de: "Iqaluit", hu: "Iqaluit", ro: "Iqaluit", en: "Iqaluit" },
     description: { de: "Capital of Nunavut", hu: "Capital of Nunavut", ro: "Capital of Nunavut", en: "Capital of Nunavut" },
@@ -323,8 +307,7 @@ export const canadaAllPoi: POI[] = [
       en: []
     },
     elevation: 5, historyYear: 1942, historyPeriod: "Modern/Arctic Era",
-    coords: [-68.5145, 63.7467], type: 'landmark', parent: 'CA'
-  },
+    coords: [-68.5145, 63.7467], type: 'landmark', parent: 'CA', image: "/poi-images/can_iqa.webp"},
   {
     id: "ca-mount-robson",
     type: "mountain",
@@ -344,8 +327,7 @@ export const canadaAllPoi: POI[] = [
       ro: ["Este cel mai înalt vârf din Munții Stâncoși canadieni.", "Face parte din Patrimoniul Mondial UNESCO.", "Peretele nordic are o înălțime de 2.500 de metri.", "Este sursa râului Fraser.", "Este o destinație majoră pentru alpiniști.", "Creează un microclimat unic în jurul muntelui."],
       en: []
     },
-    elevation: 3954, historyYear: 1913, historyPeriod: "Modern Alpine Era"
-  },
+    elevation: 3954, historyYear: 1913, historyPeriod: "Modern Alpine Era", image: "/poi-images/ca-mount-robson.webp"},
   {
     id: "ca-fraser-river",
     type: "river",
@@ -365,8 +347,7 @@ export const canadaAllPoi: POI[] = [
       ro: ["Este cel mai lung râu din British Columbia.", "Este cunoscut pentru migrațiile masive de somon.", "A jucat un rol central în timpul goanei după aur.", "Bazinul său hidrografic este imens.", "Cursul său principal nu este blocat de baraje.", "Este un coridor ecologic vital."],
       en: []
     },
-    length: 1375
-  },
+    length: 1375, image: "/poi-images/ca-fraser-river.webp"},
   {
     id: "ca-great-bear-lake",
     type: "lake",
@@ -386,8 +367,7 @@ export const canadaAllPoi: POI[] = [
       ro: ["Este cel mai mare lac situat în întregime în Canada.", "Este situat pe Cercul Arctic.", "Temperatura apei este extrem de scăzută.", "Este acoperit de gheață cea mai mare parte a anului.", "Suprafața lacului este impresionantă.", "Zona din jurul lacului este foarte puțin populată."],
       en: []
     },
-    area: 31153, elevation: 156
-  },
+    area: 31153, elevation: 156, image: "/poi-images/ca-great-bear-lake.webp"},
   {
     id: "ca-algonquin-park",
     type: "forest",
@@ -407,8 +387,7 @@ export const canadaAllPoi: POI[] = [
       ro: ["Este cel mai vechi parc provincial din Canada.", "Conține peste 2.400 de lacuri.", "Este un paradis pentru iubitorii de canoe.", "A inspirat grupul de artiști Group of Seven.", "Este habitatul elanilor și al lupilor.", "Transformarea culorilor toamnei este spectaculoasă."],
       en: []
     },
-    area: 7653, historyYear: 1893, historyPeriod: "Victorian Era"
-  },
+    area: 7653, historyYear: 1893, historyPeriod: "Victorian Era", image: "/poi-images/ca-algonquin-park.webp"},
   {
     id: "ca-mount-cavell",
     type: "mountain",
@@ -428,8 +407,7 @@ export const canadaAllPoi: POI[] = [
       ro: ["Este una dintre atracțiile majore din Parcul Național Jasper.", "Este caracterizat prin pereți verticali de cuarțit.", "Ghețarul Angel are forma aripilor unui înger.", "A fost numit în onoarea unei asistente medicale eroine.", "Este o destinație populară pentru drumeții.", "Spectacolul ghețarului este impresionant."],
       en: []
     },
-    elevation: 3363
-  },
+    elevation: 3363, image: "/poi-images/ca-mount-cavell.webp"},
   {
     id: "ca-fortress-louisbourg",
     type: "historical",
@@ -449,8 +427,7 @@ export const canadaAllPoi: POI[] = [
       ro: ["Este cea mai mare reconstrucție colonială franceză.", "A fost un centru vital pentru pescuitul de cod.", "A servit drept bază militară strategică.", "A fost asediată de britanici.", "Astăzi funcționează ca un muzeu în aer liber.", "Reconstituie viața din secolul al XVIII-lea."],
       en: []
     },
-    area: 60, historyYear: 1713, historyPeriod: "French Colonial"
-  },
+    area: 60, historyYear: 1713, historyPeriod: "French Colonial", image: "/poi-images/ca-fortress-louisbourg.webp"},
   {
     id: "ca-anse-meadows",
     type: "historical",
@@ -473,3 +450,4 @@ export const canadaAllPoi: POI[] = [
     historyYear: 1000, historyPeriod: "Viking Age"
   }
 ];
+

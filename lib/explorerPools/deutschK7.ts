@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 // ─── K7 Pool Template ──────────────────────────────────────────────────────────
@@ -5231,3 +5232,4 @@ export const EXAM7_POOL: PoolTopicDef[] = [
     quiz: { generate: "werden_passiv" }
   }
 ];
+

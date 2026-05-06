@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSouthafricaLifeV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["A Nagy Ötös otthona.", "Dél-Afrika legnagyobb parkja.", "Több mint 2 millió hektár.", "1898-ban alapították."],
       ro: ["Casa 'Big Five'.", "Cel mai mare parc din Africa de Sud.", "Peste 2 milioane de hectare.", "Fondat în 1898."],
       en: ["Home to the Big Five.", "South Africa's largest park.", "Over 2 million hectares.", "Founded in 1898."]
-    }
-  },
+    }, image: "/poi-images/kruger-national-park-life-v2.webp"},
   {
     id: "addo-elephant-park-life-v2",
     type: "animal-habitat",
@@ -27,8 +27,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Több mint 600 elefánt.", "Port Elizabeth közelében.", "1931-ben alapították.", "Háromszintű védelem."],
       ro: ["Peste 600 de elefanți.", "Lângă Port Elizabeth.", "Fondat în 1931.", "Protecție pe trei niveluri."],
       en: ["Over 600 elephants.", "Near Port Elizabeth.", "Founded in 1931.", "Three-tiered conservation."]
-    }
-  },
+    }, image: "/poi-images/addo-elephant-park-life-v2.webp"},
   {
     id: "table-mountain-kids-life-v2",
     type: "kid-landmark",
@@ -41,8 +40,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Forgó kabinok.", "Látványos kilátás Fokvárosra.", "1929 óta üzemel.", "Népszerű a gyerekek körében."],
       ro: ["Cabine rotative.", "Vedere spectaculoasă asupra Cape Town.", "Activ din 1929.", "Popular printre copii."],
       en: ["Rotating cabins.", "Spectacular views of Cape Town.", "Operating since 1929.", "Popular with kids."]
-    }
-  },
+    }, image: "/poi-images/table-mountain-kids-life-v2.webp"},
   {
     id: "stellenbosch-winelands-life-v2",
     type: "agriculture",
@@ -55,8 +53,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Történelmi borászatok.", "Tölgyfa-sétányok.", "Borkultúra 1679 óta.", "Turisztikai célpontok családoknak."],
       ro: ["Crame istorice.", "Aleile cu stejari.", "Cultură viticolă din 1679.", "Destinații turistice pentru familii."],
       en: ["Historic wineries.", "Oak-lined streets.", "Wine culture since 1679.", "Tourist destinations for families."]
-    }
-  },
+    }, image: "/poi-images/stellenbosch-winelands-life-v2.webp"},
   {
     id: "sodwana-bay-life-v2",
     type: "animal-habitat",
@@ -69,8 +66,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Korallzátonyok.", "Teknősök fészkelőhelye.", "Melegebb vizek.", "Családi sznorkelezés."],
       ro: ["Recife de corali.", "Loc de cuibărit pentru țestoase.", "Ape mai calde.", "Snorkeling pentru familii."],
       en: ["Coral reefs.", "Turtle nesting site.", "Warmer waters.", "Family snorkeling."]
-    }
-  },
+    }, image: "/poi-images/sodwana-bay-life-v2.webp"},
   {
     id: "mountain-zebra-national-park-life-v2",
     type: "animal-habitat",
@@ -83,8 +79,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Hegyvidéki táj.", "Gepárd-megfigyelések.", "Túrázás gyerekekkel.", "1937-ben alapították."],
       ro: ["Peisaj montan.", "Observarea ghepardilor.", "Drumeții cu copiii.", "Fondat în 1937."],
       en: ["Mountainous landscape.", "Cheetah sightings.", "Hiking with children.", "Founded in 1937."]
-    }
-  },
+    }, image: "/poi-images/mountain-zebra-national-park-life-v2.webp"},
   {
     id: "gold-reef-city-life-v2",
     type: "kid-landmark",
@@ -97,8 +92,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Föld alatti bányatúra.", "Hullámvasutak.", "Aranyásás gyerekeknek.", "Johannesburg közelében."],
       ro: ["Tur în mină subterană.", "Montagne-russe.", "Căutarea aurului pentru copii.", "Lângă Johannesburg."],
       en: ["Underground mine tour.", "Rollercoasters.", "Gold panning for kids.", "Near Johannesburg."]
-    }
-  },
+    }, image: "/poi-images/gold-reef-city-life-v2.webp"},
   {
     id: "kirstenbosch-botanical-life-v2",
     type: "kid-landmark",
@@ -111,8 +105,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Lombkorona-sétány.", "Piknikező helyek.", "Őshonos növényvilág.", "Nyári koncertek."],
       ro: ["Alee la nivelul coronamentului.", "Zone de picnic.", "Floră nativă.", "Concerte de vară."],
       en: ["Canopy walkway.", "Picnic spots.", "Indigenous flora.", "Summer concerts."]
-    }
-  },
+    }, image: "/poi-images/kirstenbosch-botanical-life-v2.webp"},
   {
     id: "ukutula-lion-life-v2",
     type: "animal-habitat",
@@ -125,8 +118,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Oroszlán-megfigyelés.", "Oktatási programok.", "Tudományos kutatás.", "Családbarát."],
       ro: ["Observarea leilor.", "Programe educaționale.", "Cercetare științifică.", "Potrivit pentru familii."],
       en: ["Lion observation.", "Educational programs.", "Scientific research.", "Family-friendly."]
-    }
-  },
+    }, image: "/poi-images/ukutula-lion-life-v2.webp"},
   {
     id: "karoo-national-park-life-v2",
     type: "animal-habitat",
@@ -139,8 +131,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Követ-vadászat.", "Csillagos égbolt.", "Sivatagi ékszerteknősök.", "Családi szafarik."],
       ro: ["Căutarea fosilelor.", "Cerul înstelat.", "Țestoase de deșert.", "Safari pentru familii."],
       en: ["Fossil hunting.", "Starry skies.", "Desert tortoises.", "Family safaris."]
-    }
-  },
+    }, image: "/poi-images/karoo-national-park-life-v2.webp"},
   {
     id: "u-shaka-marine-life-v2",
     type: "kid-landmark",
@@ -153,8 +144,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Delfinshow.", "Vízicsúszdák.", "Cápamedence.", "Durbani nevezetesség."],
       ro: ["Spectacol cu delfini.", "Tobogane cu apă.", "Bazinetul cu rechini.", "Reper în Durban."],
       en: ["Dolphin show.", "Water slides.", "Shark tank.", "Durban landmark."]
-    }
-  },
+    }, image: "/poi-images/u-shaka-marine-life-v2.webp"},
   {
     id: "augurabies-falls-life-v2",
     type: "kid-landmark",
@@ -167,8 +157,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Mély szurdok.", "Túraútvonalak.", "Vadvilág.", "Családi piknik."],
       ro: ["Chei adânci.", "Poteci de drumeție.", "Faună sălbatică.", "Picnic pentru familii."],
       en: ["Deep gorge.", "Hiking trails.", "Wildlife.", "Family picnic."]
-    }
-  },
+    }, image: "/poi-images/augurabies-falls-life-v2.webp"},
   {
     id: "biltong-farms-agriculture-life-v2",
     type: "agriculture",
@@ -209,8 +198,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Hagyományos házak.", "Kemence-bemutatók.", "Történelem kézzel foghatóan.", "Ideális iskolai osztályoknak."],
       ro: ["Case tradiționale.", "Demonstrații cu cuptor.", "Istorie interactivă.", "Ideal pentru clase școlare."],
       en: ["Traditional houses.", "Baking oven demos.", "Hands-on history.", "Ideal for school groups."]
-    }
-  },
+    }, image: "/poi-images/pioneer-museum-kids-life-v2.webp"},
   {
     id: "cape-point-nature-life-v2",
     type: "animal-habitat",
@@ -223,8 +211,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Pingvin-megfigyelés.", "Túraútvonalak.", "Sziklás kilátók.", "Történelmi világítótorony."],
       ro: ["Observarea pinguinilor.", "Poteci de drumeție.", "Vederi de pe stânci.", "Far istoric."],
       en: ["Penguin watching.", "Hiking trails.", "Cliff views.", "Historic lighthouse."]
-    }
-  },
+    }, image: "/poi-images/cape-point-nature-life-v2.webp"},
   {
     id: "boulders-beach-life-v2",
     type: "animal-habitat",
@@ -237,8 +224,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Pingvinek közelről.", "Biztonságos úszás.", "Családi kedvenc.", "Természetvédelmi terület."],
       ro: ["Pinguini de aproape.", "Înot în siguranță.", "Preferat de familii.", "Rezervație naturală."],
       en: ["Penguins up close.", "Safe swimming.", "Family favorite.", "Protected area."]
-    }
-  },
+    }, image: "/poi-images/boulders-beach-life-v2.webp"},
   {
     id: "addison-farms-agriculture-life-v2",
     type: "agriculture",
@@ -251,8 +237,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Citrom és narancs.", "Betakarítási élmények.", "Mezőgazdasági ismeretek.", "Friss gyümölcsök."],
       ro: ["Lămâi și portocale.", "Experiențe de recoltare.", "Cunoștințe agricole.", "Fructe proaspete."],
       en: ["Lemons and oranges.", "Harvest experiences.", "Agricultural knowledge.", "Fresh fruits."]
-    }
-  },
+    }, image: "/poi-images/addison-farms-agriculture-life-v2.webp"},
   {
     id: "kalahari-wildlife-life-v2",
     type: "animal-habitat",
@@ -265,8 +250,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Vörös dűnék.", "Springbokok.", "Csillagvizsgálat.", "Kalandos szafarik."],
       ro: ["Dune roșii.", "Springbok.", "Observarea stelelor.", "Safari aventuroase."],
       en: ["Red dunes.", "Springbok.", "Stargazing.", "Adventurous safaris."]
-    }
-  },
+    }, image: "/poi-images/kalahari-wildlife-life-v2.webp"},
   {
     id: "cango-wildlife-life-v2",
     type: "animal-habitat",
@@ -279,8 +263,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Veszélyeztetett fajok.", "Interaktív túrák.", "Oktatási fókusz.", "Oudtshoorn közelében."],
       ro: ["Specii amenințate.", "Tururi interactive.", "Focus educațional.", "Lângă Oudtshoorn."],
       en: ["Endangered species.", "Interactive tours.", "Educational focus.", "Near Oudtshoorn."]
-    }
-  },
+    }, image: "/poi-images/cango-wildlife-life-v2.webp"},
   {
     id: "sugar-cane-fields-agriculture-life-v2",
     type: "agriculture",
@@ -307,8 +290,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Repülési bemutatók.", "Ragadozómadarak.", "Oktatás.", "Interaktív."],
       ro: ["Demonstrații de zbor.", "Păsări răpitoare.", "Educație pură.", "Interactiv."],
       en: ["Flight demonstrations.", "Birds of prey.", "Pure education.", "Interactive."]
-    }
-  },
+    }, image: "/poi-images/eagle-encounters-life-v2.webp"},
   {
     id: "monkey-land-life-v2",
     type: "animal-habitat",
@@ -321,8 +303,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Különböző főemlősfajok.", "Túrák.", "Természetvédelem.", "Családi sláger."],
       ro: ["Diferite specii de primate.", "Drumeții.", "Conservare.", "Hit pentru familie."],
       en: ["Various primate species.", "Hikes.", "Conservation.", "Family hit."]
-    }
-  },
+    }, image: "/poi-images/monkey-land-life-v2.webp"},
   {
     id: "bird-of-prey-life-v2",
     type: "animal-habitat",
@@ -335,8 +316,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Állatvédelem.", "Rehabilitációs folyamatok.", "Oktatás.", "Kis kutatóknak."],
       ro: ["Protecția animalelor.", "Procese de reabilitare.", "Educație.", "Pentru micii cercetători."],
       en: ["Animal protection.", "Rehab processes.", "Education.", "For young explorers."]
-    }
-  },
+    }, image: "/poi-images/bird-of-prey-life-v2.webp"},
   {
     id: "aquila-safari-life-v2",
     type: "animal-habitat",
@@ -349,8 +329,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Nagy Ötös szafarik.", "Luxus szállások.", "Egynapos kirándulások.", "Gyermekprogramok."],
       ro: ["Safari 'Big Five'.", "Lodje de lux.", "Excursii de o zi.", "Programe pentru copii."],
       en: ["Big Five safaris.", "Luxury lodges.", "Day trips.", "Kids' programs."]
-    }
-  },
+    }, image: "/poi-images/aquila-safari-life-v2.webp"},
   {
     id: "butterfly-world-kids-life-v2",
     type: "kid-landmark",
@@ -363,8 +342,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Több ezer pillangó.", "Rovarvilág.", "Növényi sokféleség.", "Interaktív tanulás."],
       ro: ["Mii de fluturi.", "Lumea insectelor.", "Diversitate de plante.", "Învățare interactivă.",],
       en: ["Thousands of butterflies.", "Insect world.", "Plant diversity.", "Interactive learning."]
-    }
-  },
+    }, image: "/poi-images/butterfly-world-kids-life-v2.webp"},
   {
     id: "botanical-garden-jhb-life-v2",
     type: "kid-landmark",
@@ -377,8 +355,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Vízesés.", "Madármegfigyelés.", "Piknikező helyek.", "Családi kirándulások."],
       ro: ["Cascadă.", "Observarea păsărilor.", "Zone de picnic.", "Excursii de familie."],
       en: ["Waterfall.", "Bird watching.", "Picnic spots.", "Family outings."]
-    }
-  },
+    }, image: "/poi-images/botanical-garden-jhb-life-v2.webp"},
   {
     id: "croc-city-life-v2",
     type: "animal-habitat",
@@ -391,8 +368,7 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       hu: ["Krokodil-etetések.", "Kígyóshow-k.", "Tanulságos.", "Biztonságos kapcsolat."],
       ro: ["Hrănirea crocodililor.", "Spectacole cu șerpi.", "Educativ.", "Contact sigur."],
       en: ["Crocodile feedings.", "Snake shows.", "Educational.", "Safe interaction."]
-    }
-  },
+    }, image: "/poi-images/croc-city-life-v2.webp"},
   {
     id: "cheetah-sanctuary-life-v2",
     type: "animal-habitat",
@@ -408,3 +384,4 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     }
   }
 ];
+

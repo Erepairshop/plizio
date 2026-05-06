@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNigeriaCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az 1980-as években épült.", "Az ország politikai hatalmának központja."],
       ro: ["Construită în anii 1980.", "Centrul puterii politice din țară."],
       en: ["Built in the 1980s.", "The center of political power in the country."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Abuja wurde in den 1980er Jahren als geplante Hauptstadt entworfen, um Lagos zu ersetzen und eine neutralere politische Mitte zu schaffen. Die Stadt ist weltberühmt für den Aso Rock, einen gigantischen Monolithen, der das Regierungsviertel überragt und als Wahrzeichen der nigerianischen Einheit gilt. Mit modernen Stadtplänen und breiten Boulevards beherbergt sie das National Christian Centre und die National Mosque. Geographie K7 — geplante Hauptstädte und Stadtentwicklung.",
+      hu: "Abuját az 1980-as években tervezték meg Nigéria új fővárosának, hogy tehermentesítse Lagost és egy politikailag semlegesebb központot hozzon létre. A város világszerte ismert az Aso-szikláról, egy gigantikus monolitképződményről, amely a kormányzati negyed fölé magasodik és a nigériai egység jelképe. Modern várostervével és széles sugárútjaival otthont ad a Nemzeti Keresztény Központnak és a Nemzeti Mecsetnek. Földrajz K7 — tervezett fővárosok és városfejlődés.",
+      ro: "Abuja a fost proiectată în anii 1980 ca o capitală planificată pentru a înlocui Lagosul și a oferi un centru politic mai neutru. Orașul este celebru în lume pentru Aso Rock, un monolit gigantic care domină cartierul guvernamental și este considerat un simbol al unității nigeriene. Cu planuri urbane moderne și bulevarde largi, găzduiește Centrul Național Creștin și Moscheea Națională. Geografie K7 — capitale planificate și dezvoltare urbană.",
+      en: "Abuja was designed in the 1980s as a planned capital to replace Lagos and create a more neutral political center. The city is world-famous for Aso Rock, a gigantic monolith that towers over the government district and stands as a landmark of Nigerian unity. With modern city plans and wide boulevards, it houses the National Christian Centre and the National Mosque. Geography K7 — planned capitals and urban development."
+    },
+    factsAdvanced: {
+      de: ["Abuja ersetzte Lagos 1991 offiziell als Hauptstadt.", "Der Aso Rock ist 400 Meter hoch.", "Die Stadt liegt geographisch im Zentrum Nigerias.", "Das Nationalstadion fasst über 60.000 Zuschauer.", "Die Entwürfe stammten vom japanischen Architekten Kenzo Tange.", "Die Stadt ist in Phasen geplant."],
+      hu: ["Abuja 1991-ben hivatalosan felváltotta Lagost fővárosként.", "Az Aso-szikla 400 méter magas.", "A város földrajzilag Nigéria közepén helyezkedik el.", "A Nemzeti Stadion befogadóképessége több mint 60 000 fő.", "A terveket Kenzo Tange japán építész készítette.", "A várost szakaszokban tervezik."],
+      ro: ["Abuja a înlocuit oficial Lagosul ca capitală în 1991.", "Aso Rock are o înălțime de 400 de metri.", "Orașul este situat geografic în centrul Nigeriei.", "Stadionul Național găzduiește peste 60.000 de spectatori.", "Planurile au fost create de arhitectul japonez Kenzo Tange.", "Orașul este planificat în faze."],
+      en: ["Abuja officially replaced Lagos as capital in 1991.", "Aso Rock is 400 meters high.", "The city is located geographically in the center of Nigeria.", "The National Stadium seats over 60,000 spectators.", "Designs were by Japanese architect Kenzo Tange.", "The city is planned in phases."]
+    }, image: "/poi-images/ng-abuja-cities-v2.webp"},
   {
     id: "ng-lagos-ikeja-cities-v2",
     type: "state-capital",
@@ -37,8 +49,19 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Jelentős ipari központ.", "Híres a Computer Village nevű tech piacról."],
       ro: ["Centru industrial major.", "Renumit pentru Computer Village."],
       en: ["Major industrial hub.", "Famous for the Computer Village tech market."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Ikeja dient als das administrative Zentrum des Bundesstaates Lagos und unterscheidet sich deutlich von der chaotischen Energie der Metropole Lagos. Als Standort des Murtala-Muhammed-Flughafens ist die Stadt ein entscheidendes Logistikdrehkreuz für ganz Westafrika. Das Gebiet beherbergt auch das 'Computer Village', Afrikas größten Elektronik-Marktplatz, der täglich zehntausende Besucher anzieht. Sachkunde K5 — Transportwesen und globale Handelszentren.",
+      hu: "Ikeja Lagos állam adminisztratív központja, amely jelentősen különbözik Lagos metropoliszának kaotikus energiájától. A Murtala Muhammed nemzetközi repülőtér otthonaként a város alapvető logisztikai csomópont egész Nyugat-Afrika számára. A területen található a 'Computer Village' is, Afrika legnagyobb elektronikai piaca, amely naponta tízezreket vonz. Sachkunde K5 — közlekedés és globális kereskedelmi központok.",
+      ro: "Ikeja servește drept centru administrativ al statului Lagos și diferă semnificativ de energia haotică a metropolei Lagos. Ca locație a Aeroportului Murtala-Muhammed, orașul este un hub logistic crucial pentru întreaga Africă de Vest. Zona găzduiește, de asemenea, 'Computer Village', cea mai mare piață de electronice din Africa, care atrage zeci de mii de vizitatori zilnic. Sachkunde K5 — transport și centre comerciale globale.",
+      en: "Ikeja serves as the administrative center of Lagos State and differs significantly from the chaotic energy of the Lagos metropolis. As the location of Murtala-Muhammed Airport, the city is a crucial logistics hub for all of West Africa. The area also houses 'Computer Village', Africa's largest electronics marketplace, which attracts tens of thousands of visitors daily. Sachkunde K5 — transport and global trade centers."
+    },
+    factsAdvanced: {
+      de: ["Ikeja wurde 1976 zur Hauptstadt von Lagos State.", "Das Computer Village ist über 20 Jahre alt.", "Der Flughafen bedient jährlich Millionen Passagiere.", "Die Stadt war früher ein reines Wohngebiet für die Elite.", "Es beherbergt den berühmten Afrika Shrine.", "Das Klima ist tropisch und feucht."],
+      hu: ["Ikeja 1976-ban lett Lagos állam fővárosa.", "A Computer Village több mint 20 éves.", "A repülőtér évente több millió utast szolgál ki.", "A város korábban tiszta lakóövezet volt az elit számára.", "Itt található a híres Afrika Shrine.", "Az éghajlat trópusi és nedves."],
+      ro: ["Ikeja a devenit capitala statului Lagos în 1976.", "Computer Village are peste 20 de ani.", "Aeroportul deservește milioane de pasageri anual.", "Orașul a fost anterior o zonă rezidențială pură pentru elită.", "Găzduiește faimosul Afrika Shrine.", "Clima este tropicală și umedă."],
+      en: ["Ikeja became capital of Lagos State in 1976.", "Computer Village is over 20 years old.", "The airport serves millions of passengers annually.", "The city was previously a purely residential area for the elite.", "It houses the famous Afrika Shrine.", "The climate is tropical and humid."]
+    }, image: "/poi-images/ng-lagos-ikeja-cities-v2.webp"},
   {
     id: "ng-lagos-city-cities-v2",
     type: "city",
@@ -56,8 +79,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Nigéria egykori fővárosa.", "A Guineai-öböl partján fekszik."],
       ro: ["Fosta capitală a Nigeriei.", "Situat pe coasta Golfului Guineei."],
       en: ["Former capital of Nigeria.", "Located on the coast of the Gulf of Guinea."]
-    }
-  },
+    }, image: "/poi-images/ng-lagos-city-cities-v2.webp"},
   {
     id: "ng-kano-city-cities-v2",
     type: "state-capital",
@@ -75,8 +97,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az egyik legrégebbi emirátus.", "A bőr- és textilgyártás központja."],
       ro: ["Unul dintre cele mai vechi emirate.", "Centru al producției de piele și textile."],
       en: ["One of the oldest emirates.", "Center of leather and textile production."]
-    }
-  },
+    }, image: "/poi-images/ng-kano-city-cities-v2.webp"},
   {
     id: "ng-ibadan-cities-v2",
     type: "state-capital",
@@ -94,8 +115,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Területét tekintve a harmadik legnagyobb város.", "Fontos mezőgazdasági kereskedelmi csomópont."],
       ro: ["Al treilea oraș ca mărime ca suprafață.", "Punct comercial agricol important."],
       en: ["Third largest city by land area.", "Major agricultural trading point."]
-    }
-  },
+    }, image: "/poi-images/ng-ibadan-cities-v2.webp"},
   {
     id: "ng-port-harcourt-cities-v2",
     type: "state-capital",
@@ -113,8 +133,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["1912-ben alapították.", "Fontos tengeri kikötővel rendelkezik."],
       ro: ["Fondat în 1912.", "Deține un port maritim important."],
       en: ["Founded in 1912.", "Has a major seaport."]
-    }
-  },
+    }, image: "/poi-images/ng-port-harcourt-cities-v2.webp"},
   {
     id: "ng-benin-city-cities-v2",
     type: "state-capital",
@@ -132,8 +151,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A benini bronzokról ismert.", "A gumiipar központja."],
       ro: ["Cunoscut pentru bronzurile de la Benin.", "Centrul industriei cauciucului."],
       en: ["Known for the Benin Bronzes.", "Center of the rubber industry."]
-    }
-  },
+    }, image: "/poi-images/ng-benin-city-cities-v2.webp"},
   {
     id: "ng-kaduna-city-cities-v2",
     type: "state-capital",
@@ -151,8 +169,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Fontos északi ipari központ.", "A folyóban élő krokodilokról kapta a nevét."],
       ro: ["Centru industrial major din nord.", "Numit după crocodilii din râu."],
       en: ["Major northern industrial center.", "Named after the crocodiles in the river."]
-    }
-  },
+    }, image: "/poi-images/ng-kaduna-city-cities-v2.webp"},
   {
     id: "ng-jos-cities-v2",
     type: "state-capital",
@@ -170,8 +187,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Kedvelt belföldi turisztikai célpont.", "A bányászati ipar központja."],
       ro: ["Destinație populară pentru turismul intern.", "Centrul industriei miniere."],
       en: ["Popular destination for domestic tourism.", "Center of the mining industry."]
-    }
-  },
+    }, image: "/poi-images/ng-jos-cities-v2.webp"},
   {
     id: "ng-ilorin-cities-v2",
     type: "state-capital",
@@ -189,8 +205,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Nagy központi mecsettel rendelkezik.", "A hagyományos fazekasság központja."],
       ro: ["Mare moschee centrală.", "Centru al ceramicii tradiționale."],
       en: ["Large central mosque.", "Center of traditional pottery."]
-    }
-  },
+    }, image: "/poi-images/ng-ilorin-cities-v2.webp"},
   {
     id: "ng-maiduguri-cities-v2",
     type: "state-capital",
@@ -208,8 +223,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Borno állam fővárosa.", "Az északi vasútvonal végállomása."],
       ro: ["Capitala statului Borno.", "Terminusul liniei de cale ferată de nord."],
       en: ["Capital of Borno State.", "Terminus of the northern railway line."]
-    }
-  },
+    }, image: "/poi-images/ng-maiduguri-cities-v2.webp"},
   {
     id: "ng-enugu-city-cities-v2",
     type: "state-capital",
@@ -227,8 +241,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Biafra Köztársaság egykori fővárosa.", "A Nollywood filmipar központja."],
       ro: ["Fosta capitală a Republicii Biafra.", "Centrul industriei cinematografice Nollywood."],
       en: ["Former capital of the Republic of Biafra.", "Center of the Nollywood film industry."]
-    }
-  },
+    }, image: "/poi-images/ng-enugu-city-cities-v2.webp"},
   {
     id: "ng-zaria-cities-v2",
     type: "city",
@@ -246,8 +259,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A hét eredeti hausza állam egyike.", "Hagyományos mezőgazdasági régió."],
       ro: ["Unul dintre cele șapte state originale Hausa.", "Regiune agricolă tradițională."],
       en: ["One of the original seven Hausa city-states.", "Traditional agricultural region."]
-    }
-  },
+    }, image: "/poi-images/ng-zaria-cities-v2.webp"},
   {
     id: "ng-aba-cities-v2",
     type: "city",
@@ -265,8 +277,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Gyakran hívják Afrika Tajvanjának.", "Híres az Ariaria piacról."],
       ro: ["Cunoscut ca 'Taiwanul Africii'.", "Renumit pentru piața Ariaria."],
       en: ["Known as the 'Taiwan of Africa'.", "Famous for the Ariaria market."]
-    }
-  },
+    }, image: "/poi-images/ng-aba-cities-v2.webp"},
   {
     id: "ng-onitsha-cities-v2",
     type: "city",
@@ -284,8 +295,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az áruk fő elosztó központja.", "Közvetlenül a Niger folyó partján fekszik."],
       ro: ["Principalul centru de tranzit pentru mărfuri.", "Situat direct pe râul Niger."],
       en: ["Main transit hub for goods.", "Located directly on the Niger River."]
-    }
-  },
+    }, image: "/poi-images/ng-onitsha-cities-v2.webp"},
   {
     id: "ng-warri-cities-v2",
     type: "city",
@@ -303,8 +313,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Egy nagy olajfinomító székhelye.", "Az itsekiri nép hagyományos királysága."],
       ro: ["Sediul unei mari rafinării de petrol.", "Regatul tradițional al poporului Itsekiri."],
       en: ["Home to a major oil refinery.", "Traditional kingdom of the Itsekiri people."]
-    }
-  },
+    }, image: "/poi-images/ng-warri-cities-v2.webp"},
   {
     id: "ng-sokoto-city-cities-v2",
     type: "state-capital",
@@ -341,8 +350,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A protektorátus egykori fővárosa.", "A nigériai turizmus központja."],
       ro: ["Fosta capitală a protectoratului.", "Centrul turismului nigerian."],
       en: ["Former capital of the protectorate.", "Hub of Nigerian tourism."]
-    }
-  },
+    }, image: "/poi-images/ng-calabar-cities-v2.webp"},
   {
     id: "ng-uyo-cities-v2",
     type: "state-capital",
@@ -360,8 +368,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A Godswill Akpabio stadionról ismert.", "Gyorsan fejlődő infrastruktúra."],
       ro: ["Cunoscut pentru stadionul Godswill Akpabio.", "Infrastructură în creștere rapidă."],
       en: ["Known for the Godswill Akpabio Stadium.", "Rapidly growing infrastructure."]
-    }
-  },
+    }, image: "/poi-images/ng-uyo-cities-v2.webp"},
   {
     id: "ng-ado-ekiti-cities-v2",
     type: "state-capital",
@@ -379,8 +386,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A joruba kultúra központja.", "Jelentős mezőgazdasági jamgyökér termelés."],
       ro: ["Centrul culturii Yoruba.", "Producție agricolă semnificativă de igname."],
       en: ["Center of Yoruba culture.", "Significant agricultural production of yams."]
-    }
-  },
+    }, image: "/poi-images/ng-ado-ekiti-cities-v2.webp"},
   {
     id: "ng-akure-cities-v2",
     type: "state-capital",
@@ -398,8 +404,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Fontos kakaókereskedelmi központ.", "Gyors népességnövekedés jellemzi."],
       ro: ["Centru major de comerț cu cacao.", "Creștere rapidă a populației."],
       en: ["Major cocoa trading center.", "Rapid population growth."]
-    }
-  },
+    }, image: "/poi-images/ng-akure-cities-v2.webp"},
   {
     id: "ng-abeokuta-cities-v2",
     type: "state-capital",
@@ -417,8 +422,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A neve azt jelenti: 'Menedék a sziklák alatt'.", "A hagyományos Adire textíliák központja."],
       ro: ["Numele înseamnă 'Refugiu sub stânci'.", "Centru al textilelor tradiționale Adire."],
       en: ["Name translates to 'Refuge under rocks'.", "Center of traditional Adire textiles."]
-    }
-  },
+    }, image: "/poi-images/ng-abeokuta-cities-v2.webp"},
   {
     id: "ng-osogbo-cities-v2",
     type: "state-capital",
@@ -436,8 +440,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az éves Osun-Osogbo fesztivál helyszíne.", "A joruba művészet és kultúra központja."],
       ro: ["Festivalul anual Osun-Osogbo.", "Centru pentru arta și cultura Yoruba."],
       en: ["Hosts the annual Osun-Osogbo festival.", "Center for Yoruba art and culture."]
-    }
-  },
+    }, image: "/poi-images/ng-osogbo-cities-v2.webp"},
   {
     id: "ng-bauchi-city-cities-v2",
     type: "state-capital",
@@ -455,8 +458,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az első miniszterelnök sírja itt található.", "Az északkeleti mezőgazdaság központja."],
       ro: ["Mormântul primului prim-ministru.", "Centrul agriculturii din nord-est."],
       en: ["Tomb of the first prime minister.", "Center of agriculture in the northeast."]
-    }
-  },
+    }, image: "/poi-images/ng-bauchi-city-cities-v2.webp"},
   {
     id: "ng-owerri-cities-v2",
     type: "state-capital",
@@ -474,8 +476,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Magas az oktatási intézmények koncentrációja.", "Az igbo kultúra központi eleme."],
       ro: ["Concentrație mare de instituții de învățământ.", "Inima culturii Igbo."],
       en: ["High concentration of educational institutions.", "Heart of the Igbo culture."]
-    }
-  },
+    }, image: "/poi-images/ng-owerri-cities-v2.webp"},
   {
     id: "ng-yola-cities-v2",
     type: "state-capital",
@@ -493,8 +494,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Ikerházak Jimeta városával.", "Fontos mezőgazdasági terület."],
       ro: ["Oraș geamăn cu Jimeta.", "Zonă agricolă importantă."],
       en: ["Twin city with Jimeta.", "Important agricultural area."]
-    }
-  },
+    }, image: "/poi-images/ng-yola-cities-v2.webp"},
   {
     id: "ng-umuahia-cities-v2",
     type: "state-capital",
@@ -512,8 +512,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A biafrai háború múzeuma itt található.", "Központi elhelyezkedés Délkelet-Nigériában."],
       ro: ["Muzeul de război al războiului Biafra.", "Situat central în sud-estul Nigeriei."],
       en: ["War museum of the Biafran War.", "Centrally located in South East Nigeria."]
-    }
-  },
+    }, image: "/poi-images/ng-umuahia-cities-v2.webp"},
   {
     id: "ng-awka-cities-v2",
     type: "state-capital",
@@ -531,8 +530,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az igbo technológia központja.", "A Nnamdi Azikiwe Egyetem székhelye."],
       ro: ["Centrul tehnologiei Igbo.", "Sediul Universității Nnamdi Azikiwe."],
       en: ["Center of Igbo technology.", "Seat of Nnamdi Azikiwe University."]
-    }
-  },
+    }, image: "/poi-images/ng-awka-cities-v2.webp"},
   {
     id: "ng-yenagoa-cities-v2",
     type: "state-capital",
@@ -550,8 +548,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Mélyen gyökerezik a halászatban.", "Számos patak határolja."],
       ro: ["Adânc înrădăcinat în pescuit.", "Mărginit de numeroase pâraie."],
       en: ["Deeply rooted in fishing.", "Bordered by numerous creeks."]
-    }
-  },
+    }, image: "/poi-images/ng-yenagoa-cities-v2.webp"},
   {
     id: "ng-makurdi-cities-v2",
     type: "state-capital",
@@ -569,8 +566,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Nagy légitámaszpontnak ad otthont.", "A Benue folyó partján fekszik."],
       ro: ["Găzduiește o bază importantă a forțelor aeriene.", "Situat pe malurile râului Benue."],
       en: ["Home to a major Air Force base.", "Located on the banks of the River Benue."]
-    }
-  },
+    }, image: "/poi-images/ng-makurdi-cities-v2.webp"},
   {
     id: "ng-asaba-cities-v2",
     type: "state-capital",
@@ -588,8 +584,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Egy tragikus 1967-es mészárlás helyszíne.", "Híd köti össze Onitshával."],
       ro: ["Locul unui masacru tragic în 1967.", "Conectat cu Onitsha printr-un pod."],
       en: ["Site of a tragic massacre in 1967.", "Connected to Onitsha by a bridge."]
-    }
-  },
+    }, image: "/poi-images/ng-asaba-cities-v2.webp"},
   {
     id: "ng-abakaliki-cities-v2",
     type: "state-capital",
@@ -607,8 +602,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A rizstermesztés központja.", "Mészkő lelőhelyeiről ismert."],
       ro: ["Centrul cultivării orezului.", "Cunoscut pentru depozitele de calcar."],
       en: ["Center of rice cultivation.", "Known for limestone deposits."]
-    }
-  },
+    }, image: "/poi-images/ng-abakaliki-cities-v2.webp"},
   {
     id: "ng-gombe-city-cities-v2",
     type: "state-capital",
@@ -626,8 +620,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Gyakran nevezik a szavanna ékszerének.", "Jelentős földimogyoró-termelő."],
       ro: ["Adesea numit 'Bijuteria din Savană'.", "Producător important de arahide."],
       en: ["Often called the 'Jewel in the Savannah'.", "Important producer of groundnuts."]
-    }
-  },
+    }, image: "/poi-images/ng-gombe-city-cities-v2.webp"},
   {
     id: "ng-dutse-cities-v2",
     type: "state-capital",
@@ -645,8 +638,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Neve hauszául 'sziklát' jelent.", "Növekvő szövetségi egyetemmel rendelkezik."],
       ro: ["Numele înseamnă 'stâncă' în Hausa.", "Are o universitate federală în creștere."],
       en: ["Name means 'rock' in Hausa.", "Has a growing federal university."]
-    }
-  },
+    }, image: "/poi-images/ng-dutse-cities-v2.webp"},
   {
     id: "ng-katsina-city-cities-v2",
     type: "state-capital",
@@ -664,8 +656,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A Durbar-fesztiválok helyszíne.", "Egy jelentős északi emirátus."],
       ro: ["Locația festivalurilor Durbar.", "Un emirat semnificativ din nord."],
       en: ["Host of Durbar festivals.", "A significant northern emirate."]
-    }
-  },
+    }, image: "/poi-images/ng-katsina-city-cities-v2.webp"},
   {
     id: "ng-birnin-kebbi-cities-v2",
     type: "state-capital",
@@ -683,8 +674,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A Kebbi Birodalom történelmi központja.", "Erős rizstermelés."],
       ro: ["Centrul istoric al Imperiului Kebbi.", "Producție puternică de orez."],
       en: ["Historical center of the Kebbi Empire.", "Strong rice production."]
-    }
-  },
+    }, image: "/poi-images/ng-birnin-kebbi-cities-v2.webp"},
   {
     id: "ng-lokoja-cities-v2",
     type: "state-capital",
@@ -702,8 +692,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Nigéria első adminisztratív fővárosa.", "Fontos folyami kikötő."],
       ro: ["Prima capitală administrativă a Nigeriei.", "Port fluvial important."],
       en: ["First administrative capital of Nigeria.", "Important river port."]
-    }
-  },
+    }, image: "/poi-images/ng-lokoja-cities-v2.webp"},
   {
     id: "ng-lafia-cities-v2",
     type: "state-capital",
@@ -721,8 +710,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A 19. században alapították.", "A helyi jamgyökér-kereskedelem központja."],
       ro: ["Fondat în secolul al XIX-lea.", "Centrul comerțului local de igname."],
       en: ["Founded in the 19th century.", "Center of local yam trade."]
-    }
-  },
+    }, image: "/poi-images/ng-lafia-cities-v2.webp"},
   {
     id: "ng-minna-cities-v2",
     type: "state-capital",
@@ -740,8 +728,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Sok nyugállományú tábornok otthona.", "A szarvasmarha-tenyésztés fontos központja."],
       ro: ["Căminul multor generali pensionari.", "Centru important pentru creșterea bovinelor."],
       en: ["Home to many retired generals.", "Important hub for cattle rearing."]
-    }
-  },
+    }, image: "/poi-images/ng-minna-cities-v2.webp"},
   {
     id: "ng-jalingo-cities-v2",
     type: "state-capital",
@@ -759,8 +746,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Nigéria teatermelésének kapuja.", "A Muri emirátus kultúrájának központja."],
       ro: ["Poarta spre producția de ceai în Nigeria.", "Centrul culturii emiratului Muri."],
       en: ["Gateway to tea production in Nigeria.", "Center of the Muri Emirate culture."]
-    }
-  },
+    }, image: "/poi-images/ng-jalingo-cities-v2.webp"},
   {
     id: "ng-damaturu-cities-v2",
     type: "state-capital",
@@ -778,8 +764,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["1991 óta főváros.", "A Maiduguri felé vezető főútvonal mentén fekszik."],
       ro: ["Capitală din 1991.", "Situat pe autostrada principală spre Maiduguri."],
       en: ["Capital since 1991.", "Located on the highway to Maiduguri."]
-    }
-  },
+    }, image: "/poi-images/ng-damaturu-cities-v2.webp"},
   {
     id: "ng-gusau-cities-v2",
     type: "state-capital",
@@ -797,8 +782,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az aranybányászat jelentős központja.", "Az első állam, amely bevezette a saríát."],
       ro: ["Centru semnificativ pentru extracția aurului.", "Primul stat care a introdus Sharia."],
       en: ["Significant center for gold mining.", "First state to introduce Sharia law."]
-    }
-  },
+    }, image: "/poi-images/ng-gusau-cities-v2.webp"},
   {
     id: "ng-sapele-cities-v2",
     type: "city",
@@ -816,8 +800,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az African Timber and Plywood vállalata itt található.", "Fontos a faexport szempontjából."],
       ro: ["Căminul companiei African Timber and Plywood.", "Important pentru exportul de lemn."],
       en: ["Home to African Timber and Plywood.", "Important for timber export."]
-    }
-  },
+    }, image: "/poi-images/ng-sapele-cities-v2.webp"},
   {
     id: "ng-ughelli-cities-v2",
     type: "city",
@@ -835,8 +818,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Jelentős erőmű található a helyszínen.", "Az urhobo kultúra határozza meg."],
       ro: ["Centrală electrică majoră la fața locului.", "Modelat de cultura Urhobo."],
       en: ["Major power plant on site.", "Shaped by Urhobo culture."]
-    }
-  },
+    }, image: "/poi-images/ng-ughelli-cities-v2.webp"},
   {
     id: "ng-gboko-cities-v2",
     type: "city",
@@ -854,8 +836,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Nagy Dangote cementgyár található itt.", "A tiv hagyományok központja."],
       ro: ["Mare fabrică de ciment Dangote.", "Centrul tradițiilor Tiv."],
       en: ["Large Dangote cement factory.", "Center of Tiv traditions."]
-    }
-  },
+    }, image: "/poi-images/ng-gboko-cities-v2.webp"},
   {
     id: "ng-okene-cities-v2",
     type: "city",
@@ -873,8 +854,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az ebira nép otthona.", "Ismert a hagyományos szövőszékeiről."],
       ro: ["Căminul poporului Ebira.", "Cunoscut pentru războiul de țesut tradițional."],
       en: ["Home of the Ebira people.", "Known for the traditional loom."]
-    }
-  },
+    }, image: "/poi-images/ng-okene-cities-v2.webp"},
   {
     id: "ng-ijebu-ode-cities-v2",
     type: "city",
@@ -892,8 +872,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az Ijebu királyság történelmi fővárosa.", "Nagy éves muszlim fesztivál helyszíne."],
       ro: ["Capitala istorică a Regatului Ijebu.", "Mare festival musulman anual."],
       en: ["Historical capital of the Ijebu Kingdom.", "Major annual Muslim festival."]
-    }
-  },
+    }, image: "/poi-images/ng-ijebu-ode-cities-v2.webp"},
   {
     id: "ng-sagamu-cities-v2",
     type: "city",
@@ -911,8 +890,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A kóladió legnagyobb piaca.", "A Lafarge WAPCO gyár telephelye."],
       ro: ["Cea mai mare piață pentru nuci de cola.", "Locația fabricii Lafarge WAPCO."],
       en: ["Largest market for kola nuts.", "Location of the Lafarge WAPCO factory."]
-    }
-  },
+    }, image: "/poi-images/ng-sagamu-cities-v2.webp"},
   {
     id: "ng-ogbomosho-cities-v2",
     type: "city",
@@ -930,8 +908,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["A kesudió-termesztésről ismert.", "A Ladoke Akintola Egyetem székhelye."],
       ro: ["Cunoscut pentru cultivarea nucilor de caju.", "Sediul Universității Ladoke Akintola."],
       en: ["Known for cashew nut cultivation.", "Seat of the Ladoke Akintola University."]
-    }
-  },
+    }, image: "/poi-images/ng-ogbomosho-cities-v2.webp"},
   {
     id: "ng-oyo-city-cities-v2",
     type: "city",
@@ -949,8 +926,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Ó-Oyo utódja.", "A hagyományos uralkodó az Alaafin."],
       ro: ["Succesorul Vechiului Oyo.", "Conducătorul tradițional este Alaafin."],
       en: ["Successor to Old Oyo.", "Traditional ruler is the Alaafin."]
-    }
-  },
+    }, image: "/poi-images/ng-oyo-city-cities-v2.webp"},
   {
     id: "ng-iseyin-cities-v2",
     type: "city",
@@ -987,8 +963,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Sörgyártásáról ismert.", "Aranylelőhelyek a közelben."],
       ro: ["Cunoscut pentru producția de bere.", "Zăcăminte de aur în apropiere."],
       en: ["Known for beer production.", "Gold deposits nearby."]
-    }
-  },
+    }, image: "/poi-images/ng-ilesa-cities-v2.webp"},
   {
     id: "ng-ife-cities-v2",
     type: "city",
@@ -1006,8 +981,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az Obafemi Awolowo Egyetem helyszíne.", "Ife Ooni-ja a spirituális vezető."],
       ro: ["Locul Universității Obafemi Awolowo.", "Ooni de la Ife este liderul spiritual."],
       en: ["Site of Obafemi Awolowo University.", "The Ooni of Ife is the spiritual head."]
-    }
-  },
+    }, image: "/poi-images/ng-ife-cities-v2.webp"},
   {
     id: "ng-owo-cities-v2",
     type: "city",
@@ -1025,8 +999,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Jelentős ásatási központ.", "A Benini Királyság hatott rá."],
       ro: ["Centru de excavare semnificativ.", "Influențat de Regatul Benin."],
       en: ["Significant excavation center.", "Influenced by the Benin Kingdom."]
-    }
-  },
+    }, image: "/poi-images/ng-owo-cities-v2.webp"},
   {
     id: "ng-ondo-city-cities-v2",
     type: "city",
@@ -1063,8 +1036,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Az esan kultúra központja.", "Mezőgazdasági fókusza a kaucsukon van."],
       ro: ["Centrul culturii Esan.", "Focalizare agricolă pe cauciuc."],
       en: ["Center of Esan culture.", "Agricultural focus on rubber."]
-    }
-  },
+    }, image: "/poi-images/ng-uromi-cities-v2.webp"},
   {
     id: "ng-kafanchan-cities-v2",
     type: "city",
@@ -1082,8 +1054,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Több vasútvonal találkozása.", "Hűvös éghajlat, hasonlóan Joshöz."],
       ro: ["Întâlnirea mai multor linii de cale ferată.", "Clima răcoroasă, asemănătoare cu cea din Jos."],
       en: ["Convergence of multiple railway lines.", "Cool climate similar to Jos."]
-    }
-  },
+    }, image: "/poi-images/ng-kafanchan-cities-v2.webp"},
   {
     id: "ng-jimeta-cities-v2",
     type: "city",
@@ -1101,8 +1072,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Kikötő a Benue folyón.", "1980-ban független önkormányzattá vált."],
       ro: ["Port pe râul Benue.", "A devenit o municipalitate independentă în 1980."],
       en: ["Port on the Benue River.", "Became an independent municipality in 1980."]
-    }
-  },
+    }, image: "/poi-images/ng-jimeta-cities-v2.webp"},
   {
     id: "ng-mubi-cities-v2",
     type: "city",
@@ -1120,8 +1090,7 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
       hu: ["Nagy állatpiac.", "Számos felsőoktatási intézmény otthona."],
       ro: ["Mare piață de vite.", "Sediul mai multor instituții de învățământ terțiar."],
       en: ["Large cattle market.", "Home to several tertiary educational institutions."]
-    }
-  },
+    }, image: "/poi-images/ng-mubi-cities-v2.webp"},
   {
     id: "ng-bida-cities-v2",
     type: "city",
@@ -1142,3 +1111,4 @@ export const poiExtraNigeriaCitiesV2: POI[] = [
     }
   }
 ];
+

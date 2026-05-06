@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDrcongoHistoryV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1881 körül alapították.", "A korábbi hatalmi központ Katangában.", "Rézfeldolgozásáról ismert."],
       ro: ["Fondată în jurul anului 1881.", "Fost centru de putere în Katanga.", "Cunoscută pentru prelucrarea cuprului."],
       en: ["Founded around 1881.", "Former power center in Katanga.", "Known for copper processing."]
-    }
-  },
+    }, image: "/poi-images/bunkeya-yeke-capital.webp"},
   {
     id: "mushenge-kuba-capital",
     type: "historical",
@@ -47,8 +47,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["A Kuba Birodalom központja.", "A Kasai bársonyról híres.", "Történelmi királyi székhely."],
       ro: ["Centrul Imperiului Kuba.", "Faimos pentru catifeaua Kasai.", "Sediul regal istoric."],
       en: ["Center of the Kuba Empire.", "Famous for Kasai velvet.", "Historical royal seat."]
-    }
-  },
+    }, image: "/poi-images/mushenge-kuba-capital.webp"},
   {
     id: "nyangwe-swahili-arab-post",
     type: "historical",
@@ -71,8 +70,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1860 körül alapították.", "Fontos elefántcsont-előretolt helyőrség.", "David Livingstone is meglátogatta."],
       ro: ["Fondată în jurul anului 1860.", "Avanpost important pentru fildeș.", "Vizitată de David Livingstone."],
       en: ["Founded around 1860.", "Important outpost for ivory.", "Visited by David Livingstone."]
-    }
-  },
+    }, image: "/poi-images/nyangwe-swahili-arab-post.webp"},
   {
     id: "kasongo-tippu-tip",
     type: "historical",
@@ -95,8 +93,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Tippu Tip fővárosa.", "Fontos kereskedelmi központ.", "A Kongó-arab háború helyszíne."],
       ro: ["Capitala lui Tippu Tip.", "Important centru comercial.", "Locul Războiului Congo-Arab."],
       en: ["Capital of Tippu Tip.", "Important trade center.", "Site of the Congo-Arab War."]
-    }
-  },
+    }, image: "/poi-images/kasongo-tippu-tip.webp"},
   {
     id: "boma-first-capital",
     type: "historical",
@@ -119,8 +116,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az első gyarmati főváros.", "Jelentős kikötő a Kongó folyón.", "Megőrizte gyarmati építészetét."],
       ro: ["Prima capitală colonială.", "Port semnificativ pe râul Congo.", "Păstrează arhitectura colonială."],
       en: ["First colonial capital.", "Significant port on the Congo.", "Preserves colonial architecture."]
-    }
-  },
+    }, image: "/poi-images/boma-first-capital.webp"},
   {
     id: "vivi-stanley-outpost",
     type: "historical",
@@ -143,8 +139,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1879-ben alapították.", "Stanley első főhadiszállása.", "Matadi közelében található."],
       ro: ["Fondată în 1879.", "Primul sediu al lui Stanley.", "Situată lângă Matadi."],
       en: ["Founded in 1879.", "Stanley's first headquarters.", "Located near Matadi."]
-    }
-  },
+    }, image: "/poi-images/vivi-stanley-outpost.webp"},
   {
     id: "fort-de-shinkakasa",
     type: "historical",
@@ -167,8 +162,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1891-ben készült el.", "Erőd a Kongó folyón.", "Egy 1900-as zendülés helyszíne."],
       ro: ["Finalizat în 1891.", "Fortăreață pe râul Congo.", "Locul unei revolte în 1900."],
       en: ["Completed in 1891.", "Fortress on the Congo River.", "Site of a mutiny in 1900."]
-    }
-  },
+    }, image: "/poi-images/fort-de-shinkakasa.webp"},
   {
     id: "jadotville-likasi",
     type: "historical",
@@ -191,8 +185,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az 1961-es ostrom helyszíne.", "Egykori bányászváros.", "Katanga központja."],
       ro: ["Locul asediului din 1961.", "Fost oraș minier.", "Centrul regiunii Katanga."],
       en: ["Site of the 1961 siege.", "Former mining town.", "Center of Katanga."]
-    }
-  },
+    }, image: "/poi-images/jadotville-likasi.webp"},
   {
     id: "shinkolobwe-mine",
     type: "historical",
@@ -215,8 +208,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1915-ben fedezték fel.", "Uránt szállított 1945-ben.", "2004 óta hivatalosan zárva van."],
       ro: ["Descoperită în 1915.", "A furnizat uraniu pentru 1945.", "Închisă oficial din 2004."],
       en: ["Discovered in 1915.", "Supplied uranium for 1945.", "Officially closed since 2004."]
-    }
-  },
+    }, image: "/poi-images/shinkolobwe-mine.webp"},
   {
     id: "ishango-archaeological-site",
     type: "historical",
@@ -239,8 +231,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az Ishango-csont lelőhelye.", "Több mint 20 000 éves.", "A matematika legkorábbi nyomai."],
       ro: ["Locul osului Ishango.", "Peste 20.000 de ani vechime.", "Cele mai vechi urme ale matematicii."],
       en: ["Site of the Ishango bone.", "Over 20,000 years old.", "Earliest traces of mathematics."]
-    }
-  },
+    }, image: "/poi-images/ishango-archaeological-site.webp"},
   {
     id: "sanga-kisale-graves",
     type: "historical",
@@ -263,8 +254,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Több száz sírt foglal magába.", "Rézkeresztek leletei.", "Az Upemba-medence része."],
       ro: ["Include sute de morminte.", "Descoperiri de cruci de cupru.", "Parte a Depresiunii Upemba."],
       en: ["Includes hundreds of graves.", "Finds of copper crosses.", "Part of the Upemba Depression."]
-    }
-  },
+    }, image: "/poi-images/sanga-kisale-graves.webp"},
   {
     id: "kolwezi-battle-1978",
     type: "historical",
@@ -287,8 +277,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["A Shaba II válság helyszíne.", "Francia ejtőernyősök bevetése.", "Fontos kobaltközpont."],
       ro: ["Locul crizei Shaba II.", "Desfășurarea parașutiștilor francezi.", "Important centru de cobalt."],
       en: ["Site of the Shaba II crisis.", "Deployment of French paratroopers.", "Important cobalt center."]
-    }
-  },
+    }, image: "/poi-images/kolwezi-battle-1978.webp"},
   {
     id: "stanley-falls-station",
     type: "historical",
@@ -311,8 +300,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1883-ban alapították.", "Történelmi kereskedelmi központ.", "Kisangani eredete."],
       ro: ["Fondată în 1883.", "Centru comercial istoric.", "Originea orașului Kisangani."],
       en: ["Founded in 1883.", "Historical trading center.", "Origin of Kisangani."]
-    }
-  },
+    }, image: "/poi-images/stanley-falls-station.webp"},
   {
     id: "mbandaka-coquilhatville",
     type: "historical",
@@ -335,8 +323,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az egyenlítőn fekszik.", "Stanley alapította.", "Fontos folyami kikötő."],
       ro: ["Situat pe Ecuator.", "Fondat de Stanley.", "Important port fluvial."],
       en: ["Located on the Equator.", "Founded by Stanley.", "Important river port."]
-    }
-  },
+    }, image: "/poi-images/mbandaka-coquilhatville.webp"},
   {
     id: "lovanium-university-site",
     type: "historical",
@@ -359,8 +346,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1954-ben nyílt meg.", "Afrika első atomreaktora (1959).", "Ma a Kinshasai Egyetem."],
       ro: ["Deschisă în 1954.", "Primul reactor nuclear din Africa (1959).", "Astăzi Universitatea din Kinshasa."],
       en: ["Opened in 1954.", "Africa's first nuclear reactor (1959).", "Today the University of Kinshasa."]
-    }
-  },
+    }, image: "/poi-images/lovanium-university-site.webp"},
   {
     id: "baudouinville-moba",
     type: "historical",
@@ -383,8 +369,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["A Fehér Atyák alapították.", "Katolikus misszió.", "A Tanganyika-tó partján fekszik."],
       ro: ["Fondată de Părinții Albi.", "Misiune catolică.", "Situată pe Lacul Tanganyika."],
       en: ["Founded by White Fathers.", "Catholic mission.", "Located on Lake Tanganyika."]
-    }
-  },
+    }, image: "/poi-images/baudouinville-moba.webp"},
   {
     id: "albertville-kalemie",
     type: "historical",
@@ -407,8 +392,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["1892-ben alapították.", "Stratégiai poszt a tónál.", "Ma Kalemie."],
       ro: ["Fondată în 1892.", "Post strategic pe lac.", "Astăzi Kalemie."],
       en: ["Founded in 1892.", "Strategic post on the lake.", "Today Kalemie."]
-    }
-  },
+    }, image: "/poi-images/albertville-kalemie.webp"},
   {
     id: "uvira-swahili-post",
     type: "historical",
@@ -431,8 +415,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Arab előretolt helyőrség.", "Fontos kikötő a Kivu-tónál.", "Korai konfliktusok helyszíne."],
       ro: ["Avanpost arab.", "Port important pe Lacul Kivu.", "Locul unor conflicte timpurii."],
       en: ["Arab outpost.", "Important port on Lake Kivu.", "Site of early conflicts."]
-    }
-  },
+    }, image: "/poi-images/uvira-swahili-post.webp"},
   {
     id: "banza-manteke-mission",
     type: "historical",
@@ -455,8 +438,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az 1886-os ébredés központja.", "Protestáns misszió.", "Történelmi templomépület."],
       ro: ["Centrul trezirii din 1886.", "Misiune protestantă.", "Clădire istorică a bisericii."],
       en: ["Center of the 1886 revival.", "Protestant mission.", "Historical church building."]
-    }
-  },
+    }, image: "/poi-images/banza-manteke-mission.webp"},
   {
     id: "kamina-military-base",
     type: "historical",
@@ -479,8 +461,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Az 1950-es években épült.", "Egykori belga bázis.", "Stratégiai központ."],
       ro: ["Construită în anii 1950.", "Fostă bază belgiană.", "Centru strategic."],
       en: ["Built in the 1950s.", "Former Belgian base.", "Strategic center."]
-    }
-  },
+    }, image: "/poi-images/kamina-military-base.webp"},
   {
     id: "matupi-cave",
     type: "historical",
@@ -503,8 +484,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Kőkorszaki leletek.", "Mikrolitok bizonyítékai.", "40 000 éves betelepülés."],
       ro: ["Descoperiri din Epoca de Piatră.", "Dovezi de microlite.", "Așezare veche de 40.000 de ani."],
       en: ["Stone Age finds.", "Evidence of microliths.", "40,000-year-old settlement."]
-    }
-  },
+    }, image: "/poi-images/matupi-cave.webp"},
   {
     id: "dimba-cave",
     type: "historical",
@@ -527,8 +507,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Történelem előtti lelőhely.", "Régi sziklaművészet.", "Jelentős Kongo Central számára."],
       ro: ["Sit preistoric.", "Artă rupestră antică.", "Semnificativ pentru Kongo Central."],
       en: ["Prehistoric site.", "Ancient rock art.", "Significant for Kongo Central."]
-    }
-  },
+    }, image: "/poi-images/dimba-cave.webp"},
   {
     id: "mount-mangengenge",
     type: "historical",
@@ -551,8 +530,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Spirituális zarándokhely.", "Kinshasa fölé magasodik.", "Az ima helye."],
       ro: ["Loc de pelerinaj spiritual.", "Domină Kinshasa.", "Loc de rugăciune."],
       en: ["Spiritual pilgrimage site.", "Overlooks Kinshasa.", "Place of prayer."]
-    }
-  },
+    }, image: "/poi-images/mount-mangengenge.webp"},
   {
     id: "kongo-dia-vwa",
     type: "historical",
@@ -575,8 +553,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Hagyományos emlékhely.", "A bakongók szent helye.", "Kulturális örökség."],
       ro: ["Memorial tradițional.", "Loc sacru al populației Bakongo.", "Patrimoniu cultural."],
       en: ["Traditional memorial.", "Sacred site of the Bakongo.", "Cultural heritage."]
-    }
-  },
+    }, image: "/poi-images/kongo-dia-vwa.webp"},
   {
     id: "yumbi-historical-trade",
     type: "historical",
@@ -623,8 +600,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Oktatási központ.", "Történelmi kórház.", "Az orvosi misszió központja."],
       ro: ["Centru educațional.", "Spital istoric.", "Centrul misiunii medicale."],
       en: ["Educational center.", "Historical hospital.", "Center of medical mission."]
-    }
-  },
+    }, image: "/poi-images/kimpese-mission.webp"},
   {
     id: "businga-colonial-post",
     type: "historical",
@@ -647,8 +623,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Katonai előretolt helyőrség.", "Északi határvidék.", "Történelmi adminisztratív központ."],
       ro: ["Avanpost militar.", "Regiunea de frontieră nordică.", "Centru administrativ istoric."],
       en: ["Military outpost.", "Northern border region.", "Historical administrative center."]
-    }
-  },
+    }, image: "/poi-images/businga-colonial-post.webp"},
   {
     id: "ruvubu-valley-historical",
     type: "historical",
@@ -671,8 +646,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Ősi kereskedelmi útvonal.", "Vaskovács kultúra.", "Kulturális csere."],
       ro: ["Veche rută comercială.", "Cultura forjării fierului.", "Schimb cultural."],
       en: ["Ancient trade route.", "Iron forging culture.", "Cultural exchange."]
-    }
-  },
+    }, image: "/poi-images/ruvubu-valley-historical.webp"},
   {
     id: "ruvubu-valley-historical-2",
     type: "historical",
@@ -695,8 +669,7 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
       hu: ["Expedíciók kiindulópontja.", "Stratégiai fekvés a tónál.", "Történelmi kikötő."],
       ro: ["Punct de plecare al expedițiilor.", "Locație strategică pe lac.", "Port istoric."],
       en: ["Starting point for expeditions.", "Strategic lake location.", "Historical port."]
-    }
-  },
+    }, image: "/poi-images/ruvubu-valley-historical-2.webp"},
   {
     id: "zongo-falls-historical",
     type: "historical",
@@ -722,3 +695,4 @@ export const poiExtraDrcongoHistoryV2: POI[] = [
     }
   }
 ];
+

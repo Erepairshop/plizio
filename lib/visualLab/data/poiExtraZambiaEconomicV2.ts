@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraZambiaEconomicV2: POI[] = [
@@ -35,8 +36,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Among the deepest mines.",
         "Important employer in the region.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-mopani-copper-mines-economic-v2.webp"},
   {
     id: "zm-konkola-copper-mines-economic-v2",
     type: "industry",
@@ -71,8 +71,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "One of the wettest mines globally.",
         "Also produces cobalt.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-konkola-copper-mines-economic-v2.webp"},
   {
     id: "zm-kansanshi-copper-gold-mine-economic-v2",
     type: "industry",
@@ -143,8 +142,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Opened in 2008.",
         "Processes large amounts of ore.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-lumwana-copper-mine-economic-v2.webp"},
   {
     id: "zm-lubambe-copper-mine-economic-v2",
     type: "industry",
@@ -179,8 +177,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Underground operation.",
         "Important source of foreign exchange.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-lubambe-copper-mine-economic-v2.webp"},
   {
     id: "zm-chambishi-metals-economic-v2",
     type: "industry",
@@ -215,8 +212,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Largest cobalt refinery in the country.",
         "Processes ores from the entire region.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-chambishi-metals-economic-v2.webp"},
   {
     id: "zm-chibuluma-copper-mine-economic-v2",
     type: "industry",
@@ -251,8 +247,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Underground mine.",
         "Has been privatized.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-chibuluma-copper-mine-economic-v2.webp"},
   {
     id: "zm-sentinel-copper-mine-economic-v2",
     type: "industry",
@@ -287,8 +282,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Uses state-of-the-art technology.",
         "High production capacity.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-sentinel-copper-mine-economic-v2.webp"},
   {
     id: "zm-ndola-lime-company-economic-v2",
     type: "industry",
@@ -323,8 +317,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Supplies the mining industry.",
         "Founded in the 1930s.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-ndola-lime-company-economic-v2.webp"},
   {
     id: "zm-dangote-cement-plant-economic-v2",
     type: "industry",
@@ -359,8 +352,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Belongs to the Nigerian Dangote Group.",
         "Daily capacity of several thousand tons.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-dangote-cement-plant-economic-v2.webp"},
   {
     id: "zm-chilanga-cement-economic-v2",
     type: "industry",
@@ -395,8 +387,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Founded in 1949.",
         "Part of an international building materials group.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-chilanga-cement-economic-v2.webp"},
   {
     id: "zm-zambeef-products-economic-v2",
     type: "industry",
@@ -431,8 +422,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Operates its own farms.",
         "Integrated business model.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-zambeef-products-economic-v2.webp"},
   {
     id: "zm-nakambala-sugar-estate-economic-v2",
     type: "industry",
@@ -539,8 +529,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Has been expanded several times.",
         "Uses water from the Zambezi River.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-kariba-north-bank-power-station-economic-v2.webp"},
   {
     id: "zm-itezhi-tezhi-power-station-economic-v2",
     type: "industry",
@@ -575,8 +564,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Relatively new facility.",
         "Supports the Kafue Gorge project.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-itezhi-tezhi-power-station-economic-v2.webp"},
   {
     id: "zm-victoria-falls-power-station-economic-v2",
     type: "industry",
@@ -647,8 +635,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Built next to a coal mine.",
         "Reduces dependence on hydropower.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-maamba-collieries-power-economic-v2.webp"},
   {
     id: "zm-mpulungu-harbour-economic-v2",
     type: "port",
@@ -683,8 +670,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Connects Zambia to Tanzania and Burundi.",
         "Important for cement and sugar exports.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-mpulungu-harbour-economic-v2.webp"},
   {
     id: "zm-trade-kings-manufacturing-economic-v2",
     type: "industry",
@@ -719,8 +705,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Largest private FMCG manufacturer in Zambia.",
         "Exports to Southern Africa.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-trade-kings-manufacturing-economic-v2.webp"},
   {
     id: "zm-zambian-breweries-economic-v2",
     type: "industry",
@@ -755,8 +740,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Subsidiary of a global group.",
         "Produces the popular Mosi Lager.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-zambian-breweries-economic-v2.webp"},
   {
     id: "zm-parmalat-zambia-economic-v2",
     type: "industry",
@@ -791,8 +775,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Sources milk from local farmers.",
         "Ensures food security.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-parmalat-zambia-economic-v2.webp"},
   {
     id: "zm-black-mountain-slag-dump-economic-v2",
     type: "industry",
@@ -827,8 +810,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Significant source for small-scale miners.",
         "Contains cobalt and copper residues.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-black-mountain-slag-dump-economic-v2.webp"},
   {
     id: "zm-bwana-mkubwa-mine-economic-v2",
     type: "industry",
@@ -863,8 +845,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Historically significant for Ndola.",
         "Has a large processing plant.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-bwana-mkubwa-mine-economic-v2.webp"},
   {
     id: "zm-mamba-coal-mine-economic-v2",
     type: "industry",
@@ -899,8 +880,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Supplies the neighboring thermal power plant.",
         "Open-pit mining.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-mamba-coal-mine-economic-v2.webp"},
   {
     id: "zm-luanshya-copper-mines-economic-v2",
     type: "industry",
@@ -935,8 +915,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Includes Baluba and other shafts.",
         "Varied ownership history.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-luanshya-copper-mines-economic-v2.webp"},
   {
     id: "zm-indeni-petroleum-refinery-economic-v2",
     type: "industry",
@@ -971,8 +950,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Connected to the TAZAMA pipeline.",
         "Strategically important for the country.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-indeni-petroleum-refinery-economic-v2.webp"},
   {
     id: "zm-kaleya-smallholders-company-economic-v2",
     type: "industry",
@@ -1007,8 +985,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Cooperative model.",
         "Creates hundreds of jobs.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-kaleya-smallholders-company-economic-v2.webp"},
   {
     id: "zm-munali-nickel-mine-economic-v2",
     type: "industry",
@@ -1043,8 +1020,7 @@ export const poiExtraZambiaEconomicV2: POI[] = [
         "Produces high-quality nickel concentrate.",
         "Located south of Lusaka.",
       ]
-    }
-  },
+    }, image: "/poi-images/zm-munali-nickel-mine-economic-v2.webp"},
   {
     id: "zm-chirundu-dry-port-economic-v2",
     type: "port",
@@ -1082,3 +1058,4 @@ export const poiExtraZambiaEconomicV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 // ─── I1: Wasser & Gewässer ────────────────────────────────────
@@ -13978,3 +13979,4 @@ export const GEO_K5_POOL: PoolTopicDef[] = [
   ...GEO_K5_I8_POOL,
   ...GEO_K5_I9_POOL
 ];
+

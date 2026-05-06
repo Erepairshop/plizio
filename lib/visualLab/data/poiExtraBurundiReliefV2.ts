@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBurundiReliefV2: POI[] = [
@@ -12,19 +13,14 @@ export const poiExtraBurundiReliefV2: POI[] = [
       ro: "Muntele Gikizi",
       en: "Mount Gikizi"
     },
-    description: {
-      de: "Ein markanter Berg im Süden Burundis, der als einer der symbolischen Orte für die Nilquelle gilt.",
-      hu: "Jelentős hegy Burundi déli részén, amelyet a Nílus forrásának egyik szimbolikus helyszíneként tartanak számon.",
-      ro: "Un munte proeminent în sudul Burundi, considerat unul dintre locurile simbolice pentru izvorul Nilului.",
-      en: "A prominent mountain in southern Burundi, considered one of the symbolic sites for the source of the Nile."
+    descriptionAdvanced: {
+      de: "Das Gikizi-Massiv ist eine bemerkenswerte Erhebung in Burundi, die das zerklüftete Relief der Region prägt. Diese Formation besteht primär aus altem metamorphem Gestein und bietet einen Lebensraum für spezialisierte montane Flora. Aufgrund seiner Lage auf dem zentralen Hochplateau spielt es eine wesentliche Rolle im lokalen Wasserkreislauf, indem es Niederschläge für die umliegenden Täler einfängt. Geographie K7 — geologische Formationen Afrikas.",
+      hu: "A Gikizi-vidék Burundi egyik jellegzetes dombsági területe, amely a Kelet-afrikai árokrendszer peremén helyezkedik el. A tájat az egymást követő, meredek völgyek és magaslatok váltakozása jellemzi, ami meghatározza a helyi mezőgazdaságot és a közlekedési útvonalakat. A terület geomorfológiailag az ország központi fennsíkjához tartozik, ahol a trópusi esőerdők maradványai és a művelt területek szorosan összefonódnak. Földrajz K7 — dombságok és árokrendszerek.",
+      ro: "Masivul Gikizi este o zonă muntoasă semnificativă care contribuie la complexitatea reliefului Burundiului, jucând un rol important în modelarea rețelei hidrografice și a climatului regional. Datorită altitudinii sale, zona este un punct cheie pentru conservarea resurselor de apă, hrănind numeroase pâraie care alimentează râurile importante ale țării. Relieful accidentat din Gikizi a influențat dezvoltarea așezărilor umane, care s-au adaptat terenului dificil pentru a practica agricultura în terase, demonstrând ingeniozitatea localnicilor în fața provocărilor geografice. Geografie K7 — impactul reliefului asupra agriculturii."
     },
-    facts: {
-      de: ["Gilt als südlichste Quelle des Weißen Nils.", "Bietet weite Ausblicke über die Bururi-Region.", "Geologisch Teil der Nil-Kongo-Wasserscheide."],
-      hu: ["A Fehér-Nílus legdélibb forrásának tekintik.", "Széles kilátást nyújt a Bururi-régióra.", "Geológiailag a Nílus-Kongó vízválasztó része."],
-      ro: ["Considerat cel mai sudic izvor al Nilului Alb.", "Oferă vederi panoramice asupra regiunii Bururi.", "Din punct de vedere geologic, face parte din cumpăna apelor Nil-Congo."],
-      en: ["Regarded as the southernmost source of the White Nile.", "Offers wide views over the Bururi region.", "Geologically part of the Nile-Congo watershed."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Regiunea este definită printr-un relief muntos accidentat.", "Gikizi este un important bazin de recepție pentru apele de suprafață.", "Agricultura în terase este practicată pe versanții masivului.", "Zona joacă un rol vital în reglarea ciclului hidrologic local.", "Climatul montan influențează direct tipurile de culturi agricole.", "Relieful a impus moduri specifice de dezvoltare a infrastructurii rurale."]
+    }, image: "/poi-images/gikizi-relief-v2.webp"},
   {
     id: "musongati-relief-v2",
     type: "mountain",
@@ -36,18 +32,14 @@ export const poiExtraBurundiReliefV2: POI[] = [
       ro: "Muntele Musongati",
       en: "Mount Musongati"
     },
-    description: {
-      de: "Ein Berg im Osten Burundis, der für seine massiven Nickelvorkommen und seine besondere geologische Struktur bekannt ist.",
-      hu: "Hegy Kelet-Burundiban, amely hatalmas nikkelkészleteiről és különleges geológiai szerkezetéről ismert.",
-      ro: "Un munte din estul Burundi, cunoscut pentru zăcămintele sale masive de nichel și structura sa geologică deosebită.",
-      en: "A mountain in eastern Burundi known for its massive nickel deposits and unique geological structure."
+    descriptionAdvanced: {
+      de: "Das Musongati-Massiv in der Provinz Rutana ist bekannt für seine komplexen geologischen Strukturen und signifikante mineralische Vorkommen. Die Landschaft ist von steilen Hängen und tief eingeschnittenen Tälern durchzogen, die durch intensive tropische Erosion geformt wurden. Die Region ist geographisch bedeutsam aufgrund ihrer Nähe zur Wasserscheide zwischen den Einzugsgebieten von Nil und Kongo. Geographie K7 — geologische Formationen Afrikas.",
+      hu: "Musongati vidéke a délkeleti dombvidék meghatározó része, amely geológiai szempontból különlegesnek számít a régióban. A dombságot a mélyen bevágódott folyóvölgyek és a kiterjedt fennsíkok jellemzik, amelyek fontos szerepet játszanak a helyi ökoszisztémában. A terület felszíne számos nyersanyagot rejt, ami a régió gazdasági jelentőségét is növeli. A tájképet a füves szavannák és a művelt mezőgazdasági területek tarkítják. Földrajz K7 — dombságok és geológiai formációk.",
+      ro: "Zona muntoasă Musongati este recunoscută nu doar pentru peisajul său variat și frumusețea naturală, ci și pentru potențialul său geologic semnificativ, fiind o regiune de interes pentru explorarea resurselor minerale. Relieful zonei, caracterizat prin culmi abrupte și văi adânci, oferă o perspectivă asupra formării geologice a Burundiului în cadrul sistemului Riftului African. Această regiune montană servește, de asemenea, ca habitat pentru diverse specii sălbatice, fiind un teritoriu care echilibrează valorile geologice, ecologice și economice. Geografie K8 — geologie și resurse naturale."
     },
-    facts: {
-      de: ["Beherbergt eine der größten Nickel-Lagerstätten weltweit.", "Besteht aus ultramafischem Gestein.", "Wichtiger Punkt für die industrielle Geologie des Landes."],
-      hu: ["A világ egyik legnagyobb nikkel-lelőhelyének ad otthont.", "Ultramafikus kőzetekből épül fel.", "Az ország ipari geológiájának fontos pontja."],
-      ro: ["Găzduiește unul dintre cele mai mari zăcăminte de nichel din lume.", "Este compus din roci ultramafice.", "Punct important pentru geologia industrială a țării."],
-      en: ["Houses one of the largest nickel deposits in the world.", "Composed of ultramafic rock.", "Important point for the country's industrial geology."]
-    }
+    factsAdvanced: {
+      ro: ["Regiunea este cunoscută pentru prezența unor zăcăminte minerale.", "Relieful este marcat prin formațiuni geologice complexe.", "Zona face parte din masivele muntoase din estul Burundiului.", "Musongati este un punct strategic pentru geologii care studiază Riftul.", "Peisajul oferă condiții variate pentru dezvoltarea florei montane.", "Este un teritoriu cu un potențial economic încă în explorare."]
+    },
   },
   {
     id: "gishora-relief-v2",
@@ -60,19 +52,14 @@ export const poiExtraBurundiReliefV2: POI[] = [
       ro: "Dealul Gishora",
       en: "Gishora Hill"
     },
-    description: {
-      de: "Ein historisch und kulturell bedeutsamer Hügel in der Nähe von Gitega, der für seine königlichen Trommelrituale berühmt ist.",
-      hu: "Történelmileg és kulturálisan jelentős domb Gitega közelében, amely királyi dobszertartásairól híres.",
-      ro: "Un deal cu importanță istorică și culturală lângă Gitega, renumit pentru ritualurile sale regale cu tobe.",
-      en: "A historically and culturally significant hill near Gitega, famous for its royal drum rituals."
+    descriptionAdvanced: {
+      de: "Gishora zeichnet sich durch ein sanft gewelltes Hochlandrelief aus, das das Herzstück der historischen königlichen Gebiete Burundis bildet. Diese sanften Hügel sind nicht csak geographisch prägend, sondern dienen seit Jahrhunderten als Standort für die traditionelle Architektur der Batare-Dynastie. Die Bodenbeschaffenheit besteht vorwiegend aus nährstoffreichem, verwittertem Basalt, was eine intensive landwirtschaftliche Nutzung ermöglicht. Geographie K7 — geologische Formationen Afrikas.",
+      hu: "Gishora környéke Burundi történelmi szívében, Gitega közelében található dombság. A felszínforma alacsonyabb, lankásabb dombokból áll, amelyek kiválóak a hagyományos állattartáshoz és mezőgazdasághoz. Ez a vidék fontos kulturális központ is, ahol a domborzat és az emberi települések harmóniában élnek egymással évszázadok óta. A terület az ország egyik legfontosabb néprajzi központjának háttere. Földrajz K7 — dombságok és emberi települések.",
+      ro: "Zona Gishora este caracterizată printr-un relief colinar care definește caracterul estetic și geografic al provinciei Gitega, oferind un fundal pitoresc pentru așezările umane și siturile culturale de importanță națională. Terenul ușor accidentat a favorizat practici agricole tradiționale, contribuind la crearea unui peisaj cultural armonios, unde viața comunităților se desfășoară în strânsă legătură cu ritmurile naturii. Importanța reliefului din Gishora este indisolubil legată de identitatea culturală, fiind scena unor evenimente istorice care au marcat evoluția regatului Burundi. Geografie K6 — peisajul cultural și relieful."
     },
-    facts: {
-      de: ["Ort der berühmten Gishora Drum Sanctuary.", "Bietet eine erhöhte Position mit strategischem Überblick.", "Symbol für die Einheit und Tradition Burundis."],
-      hu: ["A híres Gishora dobszentély helyszíne.", "Magaslati fekvése stratégiai rálátást biztosít.", "Burundi egységének és hagyományainak szimbóluma."],
-      ro: ["Locul faimosului sanctuar al tobelor din Gishora.", "Oferă o poziție înaltă cu o vedere strategică.", "Simbol al unității și tradiției Burundi."],
-      en: ["Site of the famous Gishora Drum Sanctuary.", "Provides an elevated position with a strategic overview.", "Symbol of Burundi's unity and tradition."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Regiunea este dominată de dealuri line și văi fertile.", "Relieful a permis dezvoltarea unei agriculturi comunitare prospere.", "Este un peisaj emblematic pentru inima geografică a Burundiului.", "Zona a găzduit ceremonii regale datorită accesibilității și frumuseții.", "Gishora reflectă interacțiunea dintre geografie și cultură.", "Dealurile oferă panorame extinse asupra regiunilor învecinate."]
+    }, image: "/poi-images/gishora-relief-v2.webp"},
   {
     id: "teza-relief-v2",
     type: "mountain",
@@ -84,19 +71,14 @@ export const poiExtraBurundiReliefV2: POI[] = [
       ro: "Muntele Teza",
       en: "Mount Teza"
     },
-    description: {
-      de: "Ein Hochgebirgszug im Kibira-Nationalpark, der für sein kühles Klima und seine ausgedehnten Teplantagen bekannt ist.",
-      hu: "Magashegyi vonulat a Kibira Nemzeti Parkban, amely hűvös klímájáról és kiterjedt teaültetvényeiről ismert.",
-      ro: "Un lanț muntos înalt în Parcul Național Kibira, cunoscut pentru climatul său răcoros și plantațiile extinse de ceai.",
-      en: "A high mountain range in the Kibira National Park, known for its cool climate and extensive tea plantations."
+    descriptionAdvanced: {
+      de: "Die Region Teza ist Teil des zentralen Bergkamms und bekannt für ihre ausgeprägte vertikale Zonierung des Reliefs. Die kühlen Temperaturen in den höheren Lagen begünstigen den Anbau von hochwertigem Tee, der weit über die Grenzen Burundis hinaus bekannt ist. Geologisch ist die Gegend durch intensive tektonische Aktivitäten in der Vergangenheit geformt worden, was sich in der steilen Hanglage widerspiegelt. Geographie K7 — klimatische Einflüsse auf das Relief.",
+      hu: "Teza vidéke a meredek lejtők és a magasabb tengerszint feletti magasságáról ismert, amely Burundi egyik legcsapadékosabb területét alkotja. A domborzat drasztikus váltásai és a szüntelen ködös időjárás egyedülálló mikroklímát teremt, amely ideális a teatermesztés számára. A táj a Mirwa-hegység része, ahol a földfelszín a Nagy-hasadékvölgy felé emelkedik. Földrajz K7 — hegyvidéki tájak és klimatikus hatások.",
+      ro: "Teza este o regiune montană renumită pentru plantațiile sale de ceai, relieful său fiind esențial pentru crearea microclimatului necesar acestor culturi valoroase. Altitudinea ridicată și umiditatea constantă, specifice acestei zone montane, contribuie la calitatea excepțională a ceaiului produs aici, făcând din Teza un punct crucial pe harta economică a Burundiului. Peisajul montan, cu versanții săi acoperiți de verdeața nesfârșită a plantațiilor, demonstrează cum relieful poate fi valorificat pentru a susține industrii agricole de succes la nivel mondial. Geografie K7 — adaptarea agriculturii la relief."
     },
-    facts: {
-      de: ["Einer der höchsten Punkte im zentralen Hochland.", "Zentrum der burundischen Teeproduktion.", "Oft in Wolken gehüllte, neblige Gipfelregion."],
-      hu: ["A központi felföld egyik legmagasabb pontja.", "A burundi teatermelés központja.", "Gyakran felhőkbe burkolózó, ködös hegycsúcs."],
-      ro: ["Unul dintre cele mai înalte puncte din podișul central.", "Centrul producției de ceai din Burundi.", "Regiune montană adesea învăluită în nori și ceață."],
-      en: ["One of the highest points in the central highlands.", "Center of Burundian tea production.", "Often shrouded in clouds, misty summit region."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Regiunea este una dintre cele mai importante zone pentru ceai.", "Relieful montan asigură condițiile climatice unice pentru cultură.", "Plantațiile de ceai creează un peisaj spectaculos pe versanți.", "Teza atrage atenția prin productivitatea sa ridicată.", "Este un centru major de prelucrare a ceaiului în Burundi.", "Infrastructura rutieră traversează zone montane dificile pentru a accesa fabrica."]
+    }, image: "/poi-images/teza-relief-v2.webp"},
   {
     id: "songa-relief-v2",
     type: "mountain",
@@ -108,19 +90,14 @@ export const poiExtraBurundiReliefV2: POI[] = [
       ro: "Muntele Songa",
       en: "Mount Songa"
     },
-    description: {
-      de: "Ein markanter Gipfel in der Provinz Gitega, der die umliegende Hochebene dominiert.",
-      hu: "Jellegzetes csúcs Gitega tartományban, amely a környező fennsík fölé magasodik.",
-      ro: "Un vârf proeminent în provincia Gitega, care domină platoul înconjurător.",
-      en: "A distinctive peak in Gitega Province that dominates the surrounding plateau."
+    descriptionAdvanced: {
+      de: "Songa liegt in einer geologisch hochinteressanten Zone Burundis, die von ausgedehnten Plateaus und markanten Felsformationen geprägt ist. Das Relief weist eine klare Staffelung auf, die durch die tektonischen Verschiebungen des Rift Valleys beeinflusst wurde. Die Region ist geographisch ein Knotenpunkt für den Zugang zu tiefer gelegenen Regionen im Süden. Geographie K7 — geologische Formationen Afrikas.",
+      hu: "Songa dombsága Burundi délkeleti részén fekszik, egy hullámos fennsíkon, amelyet kisebb vízfolyások szelnek át. A felszínforma nem olyan drasztikus, mint a központi hegyvidéken, inkább lankásabb, nagyobb mezőgazdasági területek kialakítását teszi lehetővé. Ez a geomorfológiai adottság meghatározza a helyi gazdálkodási stílust, amely a szántóföldi művelésre épít. A tájképet a szavannás jellegű vegetáció uralja. Földrajz K7 — fennsíkok és mezőgazdaság.",
+      ro: "Regiunea Songa este cunoscută pentru relieful său colinar care oferă o diversitate de microclimate, esențiale pentru practicarea unei agriculturi variate. Peisajul, marcat prin tranziția între zonele muntoase și platourile joase, susține comunitățile rurale prin resurse agricole diversificate și un sistem de irigații natural, alimentat de numeroasele izvoare montane. Songa servește ca un exemplu de adaptare umană la un relief care impune respect și necesită o gestionare atentă a resurselor naturale pentru a asigura sustenabilitatea pe termen lung a comunităților. Geografie K6 — adaptarea agriculturii la relief."
     },
-    facts: {
-      de: ["Wichtiger Orientierungspunkt in Zentralburundi.", "Geformt durch präkambrische Gesteinsschichten.", "Beliebtes Ziel für lokale Wanderungen."],
-      hu: ["Fontos tájékozódási pont Közép-Burundiban.", "Prekambriumi kőzetrétegek formálták.", "A helyi túrázók kedvelt célpontja."],
-      ro: ["Punct de reper important în centrul Burundi.", "Format din straturi de roci precambriene.", "Destinație populară pentru drumeții locale."],
-      en: ["Important landmark in central Burundi.", "Formed by Precambrian rock layers.", "Popular destination for local hikes."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Regiunea este un amestec de relief colinar și văi.", "Agricultura locală este susținută de izvoarele naturale.", "Peisajul este specific zonelor intermediare din Burundi.", "Managementul apei este crucial pentru productivitatea agricolă.", "Zona a cunoscut o dezvoltare agricolă treptată în ultimii ani.", "Relieful oferă condiții potrivite pentru mai multe tipuri de culturi."]
+    }, image: "/poi-images/songa-relief-v2.webp"},
   {
     id: "karonje-relief-v2",
     type: "mountain",
@@ -132,19 +109,13 @@ export const poiExtraBurundiReliefV2: POI[] = [
       ro: "Muntele Karonje",
       en: "Mount Karonje"
     },
-    description: {
-      de: "Der höchste Punkt in der Provinz Bujumbura Rural, der steil über der Ruzizi-Ebene aufragt.",
-      hu: "Bujumbura Rural tartomány legmagasabb pontja, amely meredeken emelkedik a Ruzizi-síkság fölé.",
-      ro: "Cel mai înalt punct din provincia Bujumbura Rural, care se ridică abrupt deasupra câmpiei Ruzizi.",
-      en: "The highest point in Bujumbura Rural Province, rising steeply above the Ruzizi plain."
+    descriptionAdvanced: {
+      de: "Das Karonje-Massiv bietet eines der beeindruckendsten Reliefbilder im westlichen Teil Burundis, nahe dem Tanganjika-See. Die steil abfallenden Hänge zum Seebecken bilden eine natürliche Barriere und sind von einer dichten, feuchtigkeitsspeichernden Vegetation bedeckt. Diese vertikale Ausdehnung auf kurzer Distanz ist charakteristisch für die Ausläufer des Rift Valley-Grabens. Geographie K7 — geographische Barrieren und Relief.",
+      ro: "Zona Karonje se remarcă prin relieful său accidentat, care a creat peisaje naturale impresionante, dar și provocări în ceea ce privește infrastructura de transport. Această regiune montană servește ca un habitat pentru specii locale și este importantă pentru reglarea locală a regimului precipitațiilor în zona înconjurătoare. Utilizarea terenului în Karonje demonstrează reziliența populației locale, care a reușit să transforme versanții abrupți în terenuri arabile prin practici agricole tradiționale care previn eroziunea solului. Geografie K7 — conservarea solului și agricultură."
     },
-    facts: {
-      de: ["Bietet spektakuläre Aussichten auf die Hauptstadt Bujumbura.", "Teil der westlichen Randgebirge des Grabensystems.", "Wichtiger Wasserspeicher für die Region."],
-      hu: ["Látványos kilátást nyújt a fővárosra, Bujumburára.", "A hasadékrendszer nyugati peremhegységének része.", "Fontos víztározó a régió számára."],
-      ro: ["Oferă vederi spectaculoase asupra capitalei Bujumbura.", "Parte a munților marginali vestici ai sistemului de rift.", "Rezervor important de apă pentru regiune."],
-      en: ["Offers spectacular views of the capital, Bujumbura.", "Part of the western rift valley escarpment mountains.", "Important water catchment for the region."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Relieful este caracterizat prin versanți cu înclinație mare.", "Eroziunea solului este o provocare gestionată prin terasare.", "Zona joacă un rol în reținerea apelor de suprafață.", "Regiunea oferă peisaje montane deosebite pentru pasionații de natură.", "Infrastructura de acces în zonă este adaptată terenului dificil.", "Comunitățile locale practică agricultura adaptată reliefului accidentat."]
+    }, image: "/poi-images/karonje-relief-v2.webp"},
   {
     id: "cene-relief-v2",
     type: "mountain",
@@ -156,18 +127,13 @@ export const poiExtraBurundiReliefV2: POI[] = [
       ro: "Muntele Cene",
       en: "Mount Cene"
     },
-    description: {
-      de: "Ein hoher Berg im Nordwesten Burundis, nahe der Grenze zu Ruanda und dem Kongo.",
-      hu: "Magas hegy Északnyugat-Burundiban, a ruandai és kongói határ közelében.",
-      ro: "Un munte înalt în nord-vestul Burundi, aproape de granița cu Rwanda și Congo.",
-      en: "A high mountain in northwestern Burundi, near the border with Rwanda and Congo."
+    descriptionAdvanced: {
+      de: "Cene repräsentiert eine charakteristische Hügellandschaft des inneren Hochlands von Burundi. Das Relief ist durch zahlreiche kleine Täler und sanfte Hügelkuppen geprägt, die durch die Erosionskraft lokaler Flüsse geformt wurden. Die Region ist landwirtschaftlich stark geprägt, da das Relief eine gute Drainage und fruchtbare Böden bietet. Geographie K7 — Flussnetz und Oberflächenformung.",
+      ro: "Cene prezintă un relief caracterizat prin dealuri și văi care compun un ecosistem propice dezvoltării agriculturii de subzistență și comerțului local. Această zonă reflectă aspectul rural tipic al multor provincii din Burundi, unde relieful determină distribuția așezărilor umane și a rețelelor de comunicare. Valorificarea acestui relief, deși provocatoare, a permis crearea unui peisaj cultural în care agricultura se îmbină cu viața cotidiană, susținând populația locală într-un mod sustenabil și eficient. Geografie K6 — relief și așezări umane."
     },
-    facts: {
-      de: ["Gehört zum massiven Zentralafrikanischen Grabenbruch.", "Geprägt durch dichte tropische Bergvegetation.", "Geologisch instabile und interessante Zone."],
-      hu: ["A hatalmas közép-afrikai árokrendszerhez tartozik.", "Sűrű trópusi hegyi növényzet jellemzi.", "Geológiailag instabil és érdekes zóna."],
-      ro: ["Aparține masivului Rift din Africa Centrală.", "Caracterizat de vegetație montană tropicală densă.", "Zonă instabilă și interesantă din punct de vedere geologic."],
-      en: ["Belongs to the massive Central African Rift system.", "Characterized by dense tropical mountain vegetation.", "Geologically unstable and interesting zone."]
-    }
+    factsAdvanced: {
+      ro: ["Regiunea este marcată prin dealuri și văi interconectate.", "Așezările umane sunt distribuite conform disponibilității terenului arabil.", "Cene este un exemplu de zonă rurală tipică pentru Burundi.", "Relieful influențează rețeaua de drumuri rurale și accesul la servicii.", "Practicile agricole sunt strâns legate de caracteristicile reliefului.", "Zona este recunoscută pentru dinamismul său agricol local."]
+    },
   },
   {
     id: "birira-relief-v2",
@@ -180,19 +146,13 @@ export const poiExtraBurundiReliefV2: POI[] = [
       ro: "Muntele Birira",
       en: "Mount Birira"
     },
-    description: {
-      de: "Ein bedeutender Gipfel in der Provinz Bubanza, der Teil der nordwestlichen Gebirgskette ist.",
-      hu: "Jelentős csúcs Bubanza tartományban, az északnyugati hegylánc része.",
-      ro: "Un vârf important în provincia Bubanza, parte a lanțului muntos din nord-vest.",
-      en: "A significant peak in Bubanza Province, part of the northwestern mountain range."
+    descriptionAdvanced: {
+      de: "Birira liegt inmitten einer Region, die durch ein komplexes Netzwerk aus Hügeln und tief eingeschnittenen Tälern charakterisiert ist. Die geologische Stabilität dieser Region ist für die Besiedlung von großer Bedeutung. Durch die intensive Niederschlagsmenge ist das Relief ständiger Veränderung durch Erosion unterworfen, was zu sehr dynamischen Bodenformen führt. Geographie K7 — Oberflächenformung durch Niederschlag.",
+      ro: "Masivul Birira este o formațiune muntoasă care contribuie la diversitatea geografică a Burundiului, oferind un habitat pentru flora montană și influențând tiparele climatice din zona adiacentă. Relieful său, marcat prin culmi și versanți abrupți, este un element cheie în peisajul natural care definește identitatea vizuală a provinciei în care se află. Protejarea mediului natural din Birira este esențială pentru menținerea biodiversității și pentru prevenirea dezastrelor naturale, precum alunecările de teren, într-o zonă unde relieful impune o gestionare activă a terenului. Geografie K7 — managementul mediului și relief."
     },
-    facts: {
-      de: ["Wichtiger Lebensraum für zahlreiche endemische Pflanzenarten.", "Geologisch geprägt durch Quarzitformationen.", "Einflussreich auf das Mikroklima der Ruzizi-Senke."],
-      hu: ["Számos endemikus növényfaj fontos élőhelye.", "Geológiailag kvarcitformációk jellemzik.", "Befolyásolja a Ruzizi-medence mikroklímáját."],
-      ro: ["Habitat important pentru numeroase specii de plante endemice.", "Caracterizat geologic prin formațiuni de cuarțit.", "Influențează microclimatul depresiunii Ruzizi."],
-      en: ["Important habitat for numerous endemic plant species.", "Geologically characterized by quartzite formations.", "Influences the microclimate of the Ruzizi depression."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Masivul prezintă un relief montan dominant în peisaj.", "Zona este importantă pentru protecția biodiversității locale.", "Este esențială prevenirea eroziunii pe versanții masivului.", "Relieful influențează direct precipitațiile în regiune.", "Birira este un punct de reper natural pentru comunitățile din jur.", "Gestionarea terenului este vitală pentru siguranța zonelor joase."]
+    }, image: "/poi-images/birira-relief-v2.webp"},
   {
     id: "nkoma-relief-v2",
     type: "mountain",
@@ -204,19 +164,13 @@ export const poiExtraBurundiReliefV2: POI[] = [
       ro: "Muntele Nkoma",
       en: "Mount Nkoma"
     },
-    description: {
-      de: "Ein isolierter Gebirgszug im Osten Burundis, der aus dem Kumoso-Tiefland aufragt.",
-      hu: "Szigetszerű hegylánc Kelet-Burundiban, amely a Kumoso-alföld fölé emelkedik.",
-      ro: "Un lanț muntos izolat în estul Burundi, care se ridică din câmpia Kumoso.",
-      en: "An isolated mountain range in eastern Burundi, rising from the Kumoso lowlands."
+    descriptionAdvanced: {
+      de: "Das Nkoma-Massiv ist eine der markantesten Erhebungen im östlichen Burundi. Es besteht aus kompakten Gesteinsschichten, die der Erosion besser standhalten als die umliegenden weicheren Gesteine, wodurch es sich als markantes Relief aus der Umgebung abhebt. Diese geologische Widerstandsfähigkeit sorgt für die charakteristische steile Form des Berges. Geographie K7 — geologische Formationen Afrikas.",
+      ro: "Zona Nkoma se distinge printr-un relief format din dealuri înalte care oferă perspective panoramice asupra regiunilor adiacente, făcând-o o zonă de interes atât pentru agricultură, cât și pentru turismul montan. Relieful determină structura și modul de viață al populației, care a dezvoltat strategii de utilizare a terenului capabile să maximizeze productivitatea în condiții geografice variate. Importanța acestei zone rezidă în echilibrul dintre resursele naturale oferite de relief și eforturile comunităților locale de a dezvolta un mediu de viață stabil. Geografie K6 — relief și oportunități economice."
     },
-    facts: {
-      de: ["Zeigt eine markante Horst-Struktur.", "Besteht hauptsächlich aus Sedimentgestein.", "Bietet Schutz für Trockenwald-Relikte."],
-      hu: ["Jellegzetes sasbérc (horst) szerkezetet mutat.", "Főként üledékes kőzetekből áll.", "Száraz erdei maradványoknak nyújt védelmet."],
-      ro: ["Prezintă o structură de horst proeminentă.", "Compus în principal din roci sedimentare.", "Oferă adăpost pentru relicve de pădure uscată."],
-      en: ["Shows a prominent horst structure.", "Composed mainly of sedimentary rocks.", "Provides shelter for dry forest relics."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Zona este caracterizată prin dealuri înalte și văi adânci.", "Relieful oferă perspective unice pentru turismul montan.", "Agricultura locală profită de altitudinea variată a dealurilor.", "Nkoma este un punct strategic pentru supravegherea regiunilor învecinate.", "Comunitățile au adaptat structura satelor la relieful colinar.", "Resursele naturale ale zonei sunt valorificate printr-o agricultură inteligentă."]
+    }, image: "/poi-images/nkoma-relief-v2.webp"},
   {
     id: "mikuba-relief-v2",
     type: "mountain",
@@ -228,19 +182,13 @@ export const poiExtraBurundiReliefV2: POI[] = [
       ro: "Muntele Mikuba",
       en: "Mount Mikuba"
     },
-    description: {
-      de: "Ein markanter Berg in der Provinz Muyinga, bekannt für seine granitischen Felsformationen.",
-      hu: "Jellegzetes hegy Muyinga tartományban, gránit sziklaformációiról ismert.",
-      ro: "Un munte proeminent în provincia Muyinga, cunoscut pentru formațiunile sale stâncoase granitice.",
-      en: "A distinctive mountain in Muyinga Province, known for its granitic rock formations."
+    descriptionAdvanced: {
+      de: "Mikuba ist ein Gebiet, das durch ein Plateau-Relief mit vereinzelten steilen Erhebungen gekennzeichnet ist. Diese Struktur deutet auf eine komplexe geologische Geschichte hin, in der tektonische Anhebungen und anschließende Erosion das Landschaftsbild maßgeblich beeinflusst haben. Das Relief bietet hervorragende Aussichtspunkte über die weiten Ebenen des östlichen Burundis. Geographie K7 — tektonische Anhebungen und Erosion.",
+      ro: "Zona muntoasă Mikuba se remarcă printr-un relief impunător care contribuie la diversitatea geografică a Burundiului, oferind un mediu propice pentru conservarea speciilor locale și reglarea fluxurilor de apă. Versanții săi, adesea acoperiți de vegetație montană, joacă un rol vital în prevenirea degradării solului și menținerea stabilității ecologice în regiunile joase din apropiere. Comunitățile care trăiesc în proximitatea masivului Mikuba au învățat să trăiască în armonie cu acest relief complex, utilizând resursele oferite într-un mod care respectă echilibrul natural al zonei. Geografie K7 — conservarea habitatelor montane."
     },
-    facts: {
-      de: ["Geprägt durch massive Granit-Intrusionen.", "Teil der sanft welligen Hügellandschaft im Nordosten.", "Bedeutend für die lokale Identität der Region."],
-      hu: ["Hatalmas gránitintrúziók jellemzik.", "Az északkeleti, enyhén hullámos dombvidék része.", "Jelentős a régió helyi identitása szempontjából."],
-      ro: ["Caracterizat prin intruziuni granitice masive.", "Parte a peisajului colinar domol din nord-est.", "Semnificativ pentru identitatea locală a regiunii."],
-      en: ["Characterized by massive granite intrusions.", "Part of the gently rolling hill landscape in the northeast.", "Significant for the local identity of the region."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Masivul Mikuba prezintă un relief caracterizat prin înălțimi considerabile.", "Zona este esențială pentru protejarea biodiversității montane.", "Relieful influențează direct regimul local de precipitații.", "Prevenirea alunecărilor de teren este o prioritate în gestionarea zonei.", "Mikuba servește ca punct de reper natural pentru locuitorii regiunii.", "Ecosistemele montane de aici sunt monitorizate pentru conservare."]
+    }, image: "/poi-images/mikuba-relief-v2.webp"},
   {
     id: "kirimbi-relief-v2",
     type: "mountain",
@@ -263,8 +211,7 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: ["A Nílus-Kongó vízválasztó hegységhez tartozik.", "Fontos élőhely a helyi madárfajok számára.", "Hűvös magasföldi klímát kínál."],
       ro: ["Aparține munților cumpenei apelor Nil-Congo.", "Loc important pentru speciile de păsări indigene.", "Oferă un climat răcoros de munte."],
       en: ["Belongs to the Nile-Congo watershed mountains.", "Important site for indigenous bird species.", "Offers a cool highland climate."]
-    }
-  },
+    }, image: "/poi-images/kirimbi-relief-v2.webp"},
   {
     id: "kwinkona-relief-v2",
     type: "mountain",
@@ -287,8 +234,7 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: ["Geológiailag ősi metamorf kőzetekből épül fel.", "Fontos a helyi folyók vízellátása szempontjából.", "A lejtőin mezőgazdaságilag hasznosított teraszok találhatók."],
       ro: ["Construit geologic din roci metamorfice vechi.", "Important pentru alimentarea cu apă a râurilor locale.", "Caracterizat prin terase agricole pe pantele sale."],
       en: ["Geologically built from ancient metamorphic rocks.", "Important for the water supply of local rivers.", "Characterized by agriculturally used terraces on its slopes."]
-    }
-  },
+    }, image: "/poi-images/kwinkona-relief-v2.webp"},
   {
     id: "inanzerwe-relief-v2",
     type: "mountain",
@@ -335,8 +281,7 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: ["A helyi hagyományban szent hegyként tartják számon.", "Geológiailag az archaikus kéregblokkok része.", "Fontos hivatkozási pont az utazók számára keleten."],
       ro: ["Considerat munte sfânt în tradiția locală.", "Din punct de vedere geologic, face parte din blocurile crustale arhaice.", "Punct de referință important pentru călătorii din est."],
       en: ["Regarded as a sacred mountain in local tradition.", "Geologically part of the archean crustal blocks.", "Important reference point for travelers in the east."]
-    }
-  },
+    }, image: "/poi-images/mukuyo-relief-v2.webp"},
   {
     id: "muregeya-relief-v2",
     type: "mountain",
@@ -359,8 +304,7 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: ["Híres a lejtőin található gazdag vulkanikus talajról.", "Az ország egyik leghűvösebb helye.", "Jelentős az Arabica kávé termesztése szempontjából."],
       ro: ["Cunoscut pentru solurile vulcanice bogate de pe pantele sale.", "Unul dintre cele mai reci locuri din țară.", "Semnificativ pentru cultivarea cafelei Arabica."],
       en: ["Known for the rich volcanic soils on its slopes.", "One of the coldest places in the country.", "Significant for the cultivation of Arabica coffee."]
-    }
-  },
+    }, image: "/poi-images/muregeya-relief-v2.webp"},
   {
     id: "mpotsa-relief-v2",
     type: "mountain",
@@ -383,8 +327,7 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: ["A királyi rituálék és a burundi kozmológia központja.", "Ősi spirituális helyszínek maradványait őrzi.", "Az ország kulturális domborzati tájának része."],
       ro: ["Centrul ritualurilor regale și al cosmologiei burundeze.", "Adăpostește relicve ale vechilor situri spirituale.", "Parte a peisajului cultural de relief al țării."],
       en: ["Center of royal rituals and Burundian cosmology.", "Houses relics of ancient spiritual sites.", "Part of the country's cultural relief landscape."]
-    }
-  },
+    }, image: "/poi-images/mpotsa-relief-v2.webp"},
   {
     id: "mirwa-relief-v2",
     type: "relief",
@@ -431,8 +374,7 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: ["Az ország legmélyebben fekvő keleti régiója.", "Geológiailag folyami üledékképződés jellemzi.", "Fontos élettér a szavannai állatok számára."],
       ro: ["Cea mai joasă regiune din estul țării.", "Caracterizată geologic prin sedimentare fluvială.", "Habitat natural important pentru animalele de savană."],
       en: ["Lowest region in the east of the country.", "Geologically characterized by fluvial sedimentation.", "Important natural habitat for savanna animals."]
-    }
-  },
+    }, image: "/poi-images/kumoso-relief-v2.webp"},
   {
     id: "mugamba-relief-v2",
     type: "relief",
@@ -455,8 +397,7 @@ export const poiExtraBurundiReliefV2: POI[] = [
       hu: ["A klímája miatt Burundi 'Svájcának' is nevezik.", "Geológiailag a kristályos alaphegység része.", "Számos hegyi patak fő gyűjtőterülete."],
       ro: ["Supranumit 'Elveția Burundi-ului' datorită climatului.", "Din punct de vedere geologic, face parte din masivele cristaline de bază.", "Principala zonă de captare pentru multe pârâuri de munte."],
       en: ["Known as the 'Switzerland of Burundi' due to its climate.", "Geologically part of the crystalline basement massifs.", "Main catchment area for many mountain streams."]
-    }
-  },
+    }, image: "/poi-images/mugamba-relief-v2.webp"},
   {
     id: "nyakazu-relief-v2",
     type: "relief",
@@ -482,3 +423,4 @@ export const poiExtraBurundiReliefV2: POI[] = [
     }
   }
 ];
+

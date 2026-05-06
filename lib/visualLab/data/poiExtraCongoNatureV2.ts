@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCongoNatureV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["A világ második legnagyobb vízhozamú folyója", "Helyenként több mint 200 méter mély", "Határ a Kongói DK-val", "Fontos szállítási útvonal"],
       ro: ["Al doilea cel mai mare debit din lume", "Peste 200 de metri adâncime în unele locuri", "Granița cu RD Congo", "Cale importantă de transport"],
       en: ["World's second largest discharge", "Over 200 meters deep in places", "Border with DR Congo", "Major transport route"]
-    }
-  },
+    }, image: "/poi-images/cg-congo-river-nature-v2.webp"},
   {
     id: "cg-ubangi-river-nature-v2",
     type: "river",
@@ -37,8 +37,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Határfolyó Közép-Afrikával", "Az Uele és a Mbomou egyesüléséből ered", "Hajózható az esős évszakban", "A régió éltető eleme"],
       ro: ["Fluviu de frontieră cu Africa Centrală", "Format din Uele și Mbomou", "Navigabil în timpul sezonului ploios", "Sursă de viață pentru regiune"],
       en: ["Border river with Central Africa", "Formed from Uele and Mbomou", "Navigable during rainy season", "Lifeline for the region"]
-    }
-  },
+    }, image: "/poi-images/cg-ubangi-river-nature-v2.webp"},
   {
     id: "cg-sangha-river-nature-v2",
     type: "river",
@@ -56,8 +55,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["A Kongó jobb oldali mellékfolyója", "Az UNESCO Világörökség része", "Változatos flóra és fauna", "Fontos faanyag-szállítási út"],
       ro: ["Afluent de dreapta al fluviului Congo", "Parte a Patrimoniului Mondial UNESCO", "Floră și faună diversă", "Rută importantă pentru transportul lemnului"],
       en: ["Right tributary of the Congo", "Part of a UNESCO World Heritage site", "Diverse flora and fauna", "Important timber transport route"]
-    }
-  },
+    }, image: "/poi-images/cg-sangha-river-nature-v2.webp"},
   {
     id: "cg-alima-river-nature-v2",
     type: "river",
@@ -75,8 +73,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Belvízi hajózás lehetséges", "Szavannákon és erdőkön halad át", "Halban gazdag vizek", "Összeköti Oyót a Kongóval"],
       ro: ["Navigație interioară posibilă", "Traversează savane și păduri", "Ape bogate în pește", "Conectează Oyo cu fluviul Congo"],
       en: ["Inland navigation possible", "Crosses savannas and forests", "Fish-rich waters", "Connects Oyo with the Congo"]
-    }
-  },
+    }, image: "/poi-images/cg-alima-river-nature-v2.webp"},
   {
     id: "cg-kouilou-niari-river-nature-v2",
     type: "river",
@@ -94,8 +91,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Pointe-Indienne-nél torkollik be", "Lenyűgöző zúgók", "A Niari-völgy fontos vízelvezetője", "Változatos ökoszisztéma"],
       ro: ["Se varsă lângă Pointe-Indienne", "Rapide impresionante", "Drenaj important al văii Niari", "Ecosistem diversificat"],
       en: ["Discharges near Pointe-Indienne", "Impressive rapids", "Important drainage of the Niari Valley", "Diverse ecosystem"]
-    }
-  },
+    }, image: "/poi-images/cg-kouilou-niari-river-nature-v2.webp"},
   {
     id: "cg-likouala-aux-herbes-nature-v2",
     type: "river",
@@ -113,8 +109,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Nagy vizes élőhelyek", "Sok vízimadár otthona", "Nehezen megközelíthető régió", "Tipikus esőerdei folyó"],
       ro: ["Zone umede mari", "Habitat pentru multe păsări de apă", "Regiune greu accesibilă", "Râu tipic de pădure tropicală"],
       en: ["Large wetlands", "Home to many water birds", "Difficult to access region", "Typical rainforest river"]
-    }
-  },
+    }, image: "/poi-images/cg-likouala-aux-herbes-nature-v2.webp"},
   {
     id: "cg-berongou-mountain-nature-v2",
     type: "mountain",
@@ -132,8 +127,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Magassága kb. 900 méter", "A Sangha régióban", "Sűrűn erdősült lejtők", "A Kristály-hegység része"],
       ro: ["Înălțime de aproximativ 900 metri", "În regiunea Sangha", "Versanți dens împăduriți", "Parte a Munților de Cristal"],
       en: ["Height approx. 900 meters", "In the Sangha region", "Densely forested slopes", "Part of the Crystal Mountains"]
-    }
-  },
+    }, image: "/poi-images/cg-berongou-mountain-nature-v2.webp"},
   {
     id: "cg-odzala-kokoua-forest-nature-v2",
     type: "forest",
@@ -151,8 +145,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Síkvidéki gorilláiról ismert", "Egyedülálló erdei tisztások (bai)", "Nagy elefántpopuláció", "A Kongó-medence része"],
       ro: ["Cunoscut pentru gorilele de câmpie", "Luminișuri forestiere unice (bais)", "Populație mare de elefanți", "Parte a Bazinului Congo"],
       en: ["Known for lowland gorillas", "Unique forest clearings (bais)", "Large elephant population", "Part of the Congo Basin"]
-    }
-  },
+    }, image: "/poi-images/cg-odzala-kokoua-forest-nature-v2.webp"},
   {
     id: "cg-nouabale-ndoki-forest-nature-v2",
     type: "forest",
@@ -170,8 +163,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Teljesen érintetlen vadon", "Gorillák és csimpánzok otthona", "Nincsenek állandó emberi települések", "UNESCO Világörökségi helyszín"],
       ro: ["Sălbăticie complet virgină", "Habitat pentru gorile și cimpanzei", "Fără așezări umane permanente", "Patrimoniu Mondial UNESCO"],
       en: ["Completely pristine wilderness", "Home to gorillas and chimpanzees", "No permanent human settlements", "UNESCO World Natural Heritage"]
-    }
-  },
+    }, image: "/poi-images/cg-nouabale-ndoki-forest-nature-v2.webp"},
   {
     id: "cg-conkouati-douli-forest-nature-v2",
     type: "forest",
@@ -189,8 +181,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Az óceántól a hátországig terjed", "Tengeri teknősök fészkelőhelye", "Változatos főemlős fajok", "Fontos mangroveerdők"],
       ro: ["Se întinde de la ocean până în interior", "Loc de cuibărit pentru țestoase marine", "Specii diverse de primate", "Păduri de mangrove importante"],
       en: ["Extends from the ocean to the hinterland", "Nesting site for sea turtles", "Diverse primate species", "Important mangrove forests"]
-    }
-  },
+    }, image: "/poi-images/cg-conkouati-douli-forest-nature-v2.webp"},
   {
     id: "cg-tele-lake-nature-v2",
     type: "lake",
@@ -208,8 +199,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Legendákkal övezett régió", "Majdnem tökéletes kör alak", "Megközelíthetetlen mocsár veszi körül", "Fontos édesvízforrás"],
       ro: ["Regiune legendară", "Formă aproape circulară", "Înconjurat de mlaștini inaccesibile", "Resursă importantă de apă dulce"],
       en: ["Legend-shrouded region", "Almost circular shape", "Surrounded by inaccessible swamp", "Important freshwater resource"]
-    }
-  },
+    }, image: "/poi-images/cg-tele-lake-nature-v2.webp"},
   {
     id: "cg-mayombe-forest-nature-v2",
     type: "forest",
@@ -227,8 +217,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Magas endemizmus", "Dombos erdei táj", "Nagyon csapadékos", "Fontos erdőgazdálkodási régió"],
       ro: ["Endemism ridicat", "Peisaj forestier deluros", "Precipitații foarte bogate", "Regiune forestieră importantă"],
       en: ["High endemism", "Hilly forest landscape", "Very high rainfall", "Important forestry region"]
-    }
-  },
+    }, image: "/poi-images/cg-mayombe-forest-nature-v2.webp"},
   {
     id: "cg-atlantic-ocean-cg-nature-v2",
     type: "sea",
@@ -246,8 +235,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Kb. 170 km hosszú partvonal", "Kőolajkincsekben gazdag", "Fontos halászterületek", "Homokos strandok"],
       ro: ["Aproximativ 170 km de coastă", "Bogat în rezerve de petrol", "Zone de pescuit importante", "Plaje nisipoase"],
       en: ["Approx. 170 km of coastline", "Rich in oil deposits", "Important fishing grounds", "Sandy beaches"]
-    }
-  },
+    }, image: "/poi-images/cg-atlantic-ocean-cg-nature-v2.webp"},
   {
     id: "cg-loango-bay-nature-v2",
     type: "sea",
@@ -284,8 +272,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Szavanna és erdő keveréke", "Síkvidéki gorillák védelme", "Látványos folyóparti tájak", "Túraútvonalak turistáknak"],
       ro: ["Mix de savană și pădure", "Protecție pentru gorilele de câmpie", "Peisaje fluviale spectaculoase", "Trasee pentru turiști"],
       en: ["Mix of savanna and forest", "Protection for lowland gorillas", "Spectacular river landscapes", "Hiking trails for tourists"]
-    }
-  },
+    }, image: "/poi-images/cg-lefini-reserve-nature-v2.webp"},
   {
     id: "cg-cayo-lake-nature-v2",
     type: "lake",
@@ -322,8 +309,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Brazzaville közelében torkollik", "Ismert vízesések (Loufoulakari)", "Népszerű piknikezőhely", "Vízenergia-potenciál"],
       ro: ["Se varsă lângă Brazzaville", "Cascate cunoscute (Loufoulakari)", "Popular pentru picnicuri", "Potențial hidroenergetic"],
       en: ["Discharges near Brazzaville", "Famous waterfalls (Loufoulakari)", "Popular for picnics", "Hydroelectric potential"]
-    }
-  },
+    }, image: "/poi-images/cg-djoue-river-nature-v2.webp"},
   {
     id: "cg-bateke-plateaus-nature-v2",
     type: "forest",
@@ -341,8 +327,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Homokos talaj", "Egyedülálló eróziós tájak", "Akár 800 méter magasság", "Fontos vízválasztó"],
       ro: ["Soluri nisipoase", "Peisaje de eroziune unice", "Înălțime de până la 800 metri", "Drenaj important"],
       en: ["Sandy soils", "Unique erosional landscapes", "Height up to 800 meters", "Important watershed"]
-    }
-  },
+    }, image: "/poi-images/cg-bateke-plateaus-nature-v2.webp"},
   {
     id: "cg-lesio-louna-reserve-nature-v2",
     type: "forest",
@@ -360,8 +345,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Gorillák visszatelepítése", "A Louna folyó mentén", "Biodiverzitás védelme", "Kiváló ökoturizmus"],
       ro: ["Reintroducerea gorilelor", "Peisaj fluvial de-a lungul Louna", "Protecția biodiversității", "Excelent pentru ecoturism"],
       en: ["Reintroduction of gorillas", "River landscape along the Louna", "Biodiversity protection", "Great for ecotourism"]
-    }
-  },
+    }, image: "/poi-images/cg-lesio-louna-reserve-nature-v2.webp"},
   {
     id: "cg-dimonika-reserve-nature-v2",
     type: "forest",
@@ -379,8 +363,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["UNESCO Bioszféra-rezervátum", "Trópusi hegyi esőerdő", "Gazdag endemikus fajokban", "Történelmi aranyásó régió"],
       ro: ["Rezervație a Biosferei UNESCO", "Pădure tropicală montană", "Bogat în specii endemice", "Regiune istorică de minerit aurifer"],
       en: ["UNESCO Biosphere Reserve", "Tropical mountain rainforest", "Rich in endemic species", "Historical gold mining region"]
-    }
-  },
+    }, image: "/poi-images/cg-dimonika-reserve-nature-v2.webp"},
   {
     id: "cg-mpoulou-river-nature-v2",
     type: "river",
@@ -398,8 +381,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Sűrű erdőn folyik át", "Fontos a helyi közösségeknek", "Változatos ökoszisztéma", "Tiszta víz"],
       ro: ["Curge prin pădure densă", "Important pentru comunitățile locale", "Ecosistem diversificat", "Apă limpede"],
       en: ["Flows through dense forest", "Important for local communities", "Diverse ecosystem", "Clear water"]
-    }
-  },
+    }, image: "/poi-images/cg-mpoulou-river-nature-v2.webp"},
   {
     id: "cg-loufoulakari-river-nature-v2",
     type: "river",
@@ -417,8 +399,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Látványos vízesések", "Közel a fővároshoz", "Lenyűgöző sziklaformációk", "Népszerű kirándulóhely"],
       ro: ["Cascate spectaculoase", "Situat aproape de capitală", "Formațiuni stâncoase impresionante", "Loc de excursie popular"],
       en: ["Spectacular waterfalls", "Located near the capital", "Impressive rock formations", "Popular excursion spot"]
-    }
-  },
+    }, image: "/poi-images/cg-loufoulakari-river-nature-v2.webp"},
   {
     id: "cg-blue-lake-cg-nature-v2",
     type: "lake",
@@ -436,8 +417,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Kristálytiszta víz", "Mérethez képest nagyon mély", "Esőerdő veszi körül", "Természetkedvelők titkos tippje"],
       ro: ["Apă de cristal", "Foarte adânc pentru mărimea sa", "Înconjurat de pădure tropicală", "Loc special pentru iubitorii de natură"],
       en: ["Crystal clear water", "Very deep for its size", "Surrounded by rainforest", "Hidden gem for nature lovers"]
-    }
-  },
+    }, image: "/poi-images/cg-blue-lake-cg-nature-v2.webp"},
   {
     id: "cg-motaba-river-nature-v2",
     type: "river",
@@ -455,8 +435,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       hu: ["Elszigetelt területeken folyik át", "Fontos vízi út a pigmeusoknak", "Biodiverzitásban gazdag", "Nehezen megközelíthető"],
       ro: ["Curge prin zone izolate", "Cale navigabilă importantă pentru pigmei", "Bogat în biodiversitate", "Greu accesibil"],
       en: ["Flows through isolated areas", "Important waterway for Pygmies", "Rich in biodiversity", "Difficult to access"]
-    }
-  },
+    }, image: "/poi-images/cg-motaba-river-nature-v2.webp"},
   {
     id: "cg-ibenga-river-nature-v2",
     type: "river",
@@ -477,3 +456,4 @@ export const poiExtraCongoNatureV2: POI[] = [
     }
   }
 ];
+

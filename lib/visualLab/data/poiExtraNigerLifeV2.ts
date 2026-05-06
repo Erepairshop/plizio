@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNigerLifeV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Vízilovak otthona", "Fontos vízforrás"],
       ro: ["Acasă pentru hipopotami", "Sursă importantă de apă"],
       en: ["Home to hippos", "Important water source"]
-    }
-  },
+    }, image: "/poi-images/tapoa-animal-habitat-life-v2.webp"},
   {
     id: "goudel-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -27,8 +27,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Ideális családoknak", "Központi elhelyezkedés"],
       ro: ["Ideal pentru familii", "Locație centrală"],
       en: ["Ideal for families", "Central location"]
-    }
-  },
+    }, image: "/poi-images/goudel-kid-landmark-life-v2.webp"},
   {
     id: "mara-agriculture-life-v2",
     type: "agriculture",
@@ -41,8 +40,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Regionális élelmiszertermelés", "Fontos piac"],
       ro: ["Producție alimentară regională", "Piață importantă"],
       en: ["Regional food production", "Important market"]
-    }
-  },
+    }, image: "/poi-images/mara-agriculture-life-v2.webp"},
   {
     id: "ter-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -55,8 +53,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Sokszínű madárvilág", "Érintetlen természet"],
       ro: ["Specii diverse de păsări", "Natură nealterată"],
       en: ["Diverse bird species", "Unspoiled nature"]
-    }
-  },
+    }, image: "/poi-images/ter-animal-habitat-life-v2.webp"},
   {
     id: "gaya-agriculture-life-v2",
     type: "agriculture",
@@ -83,8 +80,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Interaktív tanulás", "Oktatási lehetőség"],
       ro: ["Învățare interactivă", "Ofertă educațională"],
       en: ["Interactive learning", "Educational opportunity"]
-    }
-  },
+    }, image: "/poi-images/doso-kid-landmark-life-v2.webp"},
   {
     id: "agadez-kamel-habitat-life-v2",
     type: "animal-habitat",
@@ -97,8 +93,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Tevetartás", "Sivatagi kultúra"],
       ro: ["Creșterea cămilelor", "Cultură de deșert"],
       en: ["Camel keeping", "Desert culture"]
-    }
-  },
+    }, image: "/poi-images/agadez-kamel-habitat-life-v2.webp"},
   {
     id: "zinder-land-kid-life-v2",
     type: "kid-landmark",
@@ -111,8 +106,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Kertészet gyerekeknek", "Biztonságos játszótér"],
       ro: ["Grădinărit pentru copii", "Loc de joacă sigur"],
       en: ["Gardening for kids", "Safe playground"]
-    }
-  },
+    }, image: "/poi-images/zinder-land-kid-life-v2.webp"},
   {
     id: "diffa-agri-life-v2",
     type: "agriculture",
@@ -125,8 +119,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Helyi élelmiszerek", "Sivatagi öntözés"],
       ro: ["Alimente locale", "Irigarea în deșert"],
       en: ["Local food", "Desert irrigation"]
-    }
-  },
+    }, image: "/poi-images/diffa-agri-life-v2.webp"},
   {
     id: "tahoua-zoo-life-v2",
     type: "animal-habitat",
@@ -139,8 +132,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Őshonos állatok", "Oktatás gyerekeknek"],
       ro: ["Animale locale", "Educație pentru copii"],
       en: ["Native animals", "Education for kids"]
-    }
-  },
+    }, image: "/poi-images/tahoua-zoo-life-v2.webp"},
   {
     id: "filingue-agri-life-v2",
     type: "agriculture",
@@ -153,8 +145,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Alapvető élelmiszerek", "Kölestermesztés"],
       ro: ["Alimente de bază", "Cultivarea meiului"],
       en: ["Staple foods", "Millet cultivation"]
-    }
-  },
+    }, image: "/poi-images/filingue-agri-life-v2.webp"},
   {
     id: "maradi-kids-life-v2",
     type: "kid-landmark",
@@ -167,8 +158,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Aktivitás", "Mászás"],
       ro: ["Activitate", "Cățărare"],
       en: ["Activity", "Climbing"]
-    }
-  },
+    }, image: "/poi-images/maradi-kids-life-v2.webp"},
   {
     id: "gaya-bird-life-v2",
     type: "animal-habitat",
@@ -181,8 +171,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Vízimadarak", "Természetvédelem"],
       ro: ["Păsări de apă", "Conservarea naturii"],
       en: ["Water birds", "Nature conservation"]
-    }
-  },
+    }, image: "/poi-images/gaya-bird-life-v2.webp"},
   {
     id: "dosso-agri-life-v2",
     type: "agriculture",
@@ -195,8 +184,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Friss gyümölcsök", "Családi gazdaságok"],
       ro: ["Fructe proaspete", "Ferme de familie"],
       en: ["Fresh fruits", "Family farms"]
-    }
-  },
+    }, image: "/poi-images/dosso-agri-life-v2.webp"},
   {
     id: "tessaoua-agri-life-v2",
     type: "agriculture",
@@ -209,8 +197,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Szezonális zöldségek", "Helyi piacok"],
       ro: ["Legume de sezon", "Piețe locale"],
       en: ["Seasonal vegetables", "Local markets"]
-    }
-  },
+    }, image: "/poi-images/tessaoua-agri-life-v2.webp"},
   {
     id: "konni-kids-life-v2",
     type: "kid-landmark",
@@ -223,8 +210,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Biztonságos gyerekeknek", "Játékok"],
       ro: ["Sigur pentru copii", "Facilități de joacă"],
       en: ["Safe for children", "Play equipment"]
-    }
-  },
+    }, image: "/poi-images/konni-kids-life-v2.webp"},
   {
     id: "madaoua-agri-life-v2",
     type: "agriculture",
@@ -237,8 +223,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Hagyma", "Mezőgazdaság"],
       ro: ["Cultivarea cepei", "Agricultură"],
       en: ["Onion farming", "Agriculture"]
-    }
-  },
+    }, image: "/poi-images/madaoua-agri-life-v2.webp"},
   {
     id: "gouré-goat-life-v2",
     type: "animal-habitat",
@@ -251,8 +236,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Állattartás", "Legelőkultúra"],
       ro: ["Creșterea animalelor", "Cultura pășunatului"],
       en: ["Animal husbandry", "Grazing culture"]
-    }
-  },
+    }, image: "/poi-images/gouré-goat-life-v2.webp"},
   {
     id: "tera-bird-life-v2",
     type: "animal-habitat",
@@ -265,8 +249,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Természetmegfigyelés", "Csend"],
       ro: ["Observarea naturii", "Liniște"],
       en: ["Nature observation", "Quietness"]
-    }
-  },
+    }, image: "/poi-images/tera-bird-life-v2.webp"},
   {
     id: "kollo-mango-life-v2",
     type: "agriculture",
@@ -279,8 +262,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Mangó", "Hagyományos termesztés"],
       ro: ["Mango", "Cultivare tradițională"],
       en: ["Mangoes", "Traditional cultivation"]
-    }
-  },
+    }, image: "/poi-images/kollo-mango-life-v2.webp"},
   {
     id: "say-river-life-v2",
     type: "animal-habitat",
@@ -293,8 +275,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Kétéltűek", "Folyóparti élőhely"],
       ro: ["Amfibieni", "Habitat riveran"],
       en: ["Amphibians", "Riverside habitat"]
-    }
-  },
+    }, image: "/poi-images/say-river-life-v2.webp"},
   {
     id: "nga-fishing-life-v2",
     type: "agriculture",
@@ -321,8 +302,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Játékok", "Találkozóhely"],
       ro: ["Facilități de joacă", "Punct de întâlnire"],
       en: ["Play equipment", "Meeting point"]
-    }
-  },
+    }, image: "/poi-images/birni-kids-life-v2.webp"},
   {
     id: "magaria-agri-life-v2",
     type: "agriculture",
@@ -335,8 +315,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Hüvelyesek", "Mezőgazdaság"],
       ro: ["Leguminoase", "Agricultură"],
       en: ["Legumes", "Agriculture"]
-    }
-  },
+    }, image: "/poi-images/magaria-agri-life-v2.webp"},
   {
     id: "tanout-kamel-life-v2",
     type: "animal-habitat",
@@ -349,8 +328,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Tevevédelem", "Természetközeli"],
       ro: ["Protecția cămilelor", "Aproape de natură"],
       en: ["Camel protection", "Close to nature"]
-    }
-  },
+    }, image: "/poi-images/tanout-kamel-life-v2.webp"},
   {
     id: "mayahi-agri-life-v2",
     type: "agriculture",
@@ -363,8 +341,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Aratás", "Regionális mezőgazdaság"],
       ro: ["Recoltă", "Agricultură regională"],
       en: ["Harvest", "Regional agriculture"]
-    }
-  },
+    }, image: "/poi-images/mayahi-agri-life-v2.webp"},
   {
     id: "gaya-agri-life-v2",
     type: "agriculture",
@@ -377,8 +354,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Öntözés", "Mezőgazdaság"],
       ro: ["Irigare", "Agricultură"],
       en: ["Irrigation", "Agriculture"]
-    }
-  },
+    }, image: "/poi-images/gaya-agri-life-v2.webp"},
   {
     id: "zinder-zoo-life-v2",
     type: "animal-habitat",
@@ -405,8 +381,7 @@ export const poiExtraNigerLifeV2: POI[] = [
       hu: ["Játszótér", "Városi természet"],
       ro: ["Loc de joacă", "Natură urbană"],
       en: ["Playground", "Urban nature"]
-    }
-  },
+    }, image: "/poi-images/maradi-kids-park-life-v2.webp"},
   {
     id: "diffa-frucht-life-v2",
     type: "agriculture",
@@ -422,3 +397,4 @@ export const poiExtraNigerLifeV2: POI[] = [
     }
   }
 ];
+

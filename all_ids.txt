@@ -1,77 +1,180 @@
-monterrey-cities-v2
-puebla-cities-v2
-tijuana-cities-v2
-ciudad-juarez-cities-v2
-leon-cities-v2
-zapopan-cities-v2
-nezahualcoyotl-cities-v2
-merida-cities-v2
-cancun-cities-v2
-queretaro-city-cities-v2
-aguascalientes-cities-v2
-chihuahua-city-cities-v2
-hermosillo-cities-v2
-saltillo-cities-v2
-culiacan-cities-v2
-acapulco-cities-v2
-tlalnepantla-de-baz-cities-v2
-chimalhuacan-cities-v2
-reynosa-cities-v2
-torreon-cities-v2
-morelia-cities-v2
-veracruz-city-cities-v2
-villahermosa-cities-v2
-xalapa-cities-v2
-mazatlan-cities-v2
-san-luis-potosi-cities-v2
-tuxtla-gutierrez-cities-v2
-irapuato-cities-v2
-oaxaca-city-cities-v2
-durango-city-cities-v2
-matamoros-cities-v2
-cuernavaca-cities-v2
-celaya-cities-v2
-pachuca-cities-v2
-campeche-city-cities-v2
-la-paz-cities-v2
-tepic-cities-v2
-zacatecas-city-cities-v2
-colima-city-cities-v2
-ciudad-victoria-cities-v2
-chetumal-cities-v2
-tlaxcala-city-cities-v2
-guanajuato-city-cities-v2
-playa-del-carmen-cities-v2
-puerto-vallarta-cities-v2
-tula-de-allende-cities-v2
-uruapan-cities-v2
-gomez-palacio-cities-v2
-los-mochis-cities-v2
-tapachula-cities-v2
-nuevo-laredo-cities-v2
-san-cristobal-de-las-casas-cities-v2
-coatzacoalcos-cities-v2
-ciudad-obregon-cities-v2
-ensenada-cities-v2
-poza-rica-cities-v2
-los-cabos-cities-v2
-cuautla-cities-v2
-chalco-cities-v2
-apizaco-cities-v2
-nogales-cities-v2
-tezcoco-cities-v2
-tehuacan-cities-v2
-manzanillo-cities-v2
-cordoba-ver-cities-v2
-ciudad-del-carmen-cities-v2
-san-miguel-de-allende-cities-v2
-taxco-cities-v2
-orizaba-cities-v2
-salamanca-gua-cities-v2
-patzcuaro-cities-v2
-cholula-cities-v2
-san-juan-del-rio-cities-v2
-iguala-cities-v2
-ciudad-valles-cities-v2
-zamora-de-hidalgo-cities-v2
-tulum-cities-v2
+    id: "bangui-cities-v2",
+    id: "bimbo-cities-v2",
+    id: "berberati-cities-v2",
+    id: "carnot-cities-v2",
+    id: "bambari-cities-v2",
+    id: "bouar-cities-v2",
+    id: "bossangoa-cities-v2",
+    id: "bria-cities-v2",
+    id: "bangassou-cities-v2",
+    id: "nola-cities-v2",
+    id: "mbaiki-cities-v2",
+    id: "kaga-bandoro-cities-v2",
+    id: "sibut-cities-v2",
+    id: "bozoum-cities-v2",
+    id: "ndele-cities-v2",
+    id: "birao-cities-v2",
+    id: "mobaye-cities-v2",
+    id: "obo-cities-v2",
+    id: "paoua-cities-v2",
+    id: "batangafo-cities-v2",
+    id: "bossembele-cities-v2",
+    id: "yaloke-cities-v2",
+    id: "bouca-cities-v2",
+    id: "kabo-cities-v2",
+    id: "bocaranga-cities-v2",
+    id: "kouango-cities-v2",
+    id: "grimari-cities-v2",
+    id: "alindao-cities-v2",
+    id: "kembe-cities-v2",
+    id: "gambo-cities-v2",
+    id: "ouadda-cities-v2",
+    id: "bakouma-cities-v2",
+    id: "rafai-cities-v2",
+    id: "zemio-cities-v2",
+    id: "boali-cities-v2",
+    id: "damara-cities-v2",
+    id: "mongoumba-cities-v2",
+    id: "boda-cities-v2",
+    id: "gadzi-cities-v2",
+    id: "amada-gaza-cities-v2",
+    id: "abba-cities-v2",
+    id: "baboua-cities-v2",
+    id: "baoro-cities-v2",
+    id: "bayanga-cities-v2",
+    id: "bambio-cities-v2",
+    id: "dekoa-cities-v2",
+    id: "mala-cities-v2",
+    id: "ippy-cities-v2",
+    id: "ndjoukou-cities-v2",
+    id: "bogangolo-cities-v2",
+    id: "haupthafen-bangui-economic-v2",
+    id: "ndassima-goldmine-economic-v2",
+    id: "boali-ii-wasserkraftwerk-economic-v2",
+    id: "hafen-salo-economic-v2",
+    id: "zuckerfabrik-ngakobo-economic-v2",
+    id: "diamantenmine-bria-economic-v2",
+    id: "baumwollentkoernung-bambari-economic-v2",
+    id: "hafen-mongoumba-economic-v2",
+    id: "brauerei-mocaf-bangui-economic-v2",
+    id: "diamantenfeld-sam-ouandja-economic-v2",
+    id: "saegewerk-nola-economic-v2",
+    id: "flusshafen-nola-economic-v2",
+    id: "baumwollfabrik-bossangoa-economic-v2",
+    id: "hafen-mobaye-economic-v2",
+    id: "palmoelraffinerie-bambari-economic-v2",
+    id: "hafen-bangassou-economic-v2",
+    id: "holzverarbeitungszentrum-mbaiki-economic-v2",
+    id: "hafen-ouango-economic-v2",
+    id: "boali-i-wasserkraftwerk-economic-v2",
+    id: "seifenfabrik-bangui-economic-v2",
+    id: "sultanat-senoussi-history-v2",
+    id: "fort-crampel-history-v2",
+    id: "fort-sibut-history-v2",
+    id: "megalithen-bouar-history-v2",
+    id: "sultanat-bangassou-history-v2",
+    id: "sultanat-rafai-history-v2",
+    id: "sultanat-zemio-history-v2",
+    id: "fort-ouham-history-v2",
+    id: "bangui-kolonialviertel-history-v2",
+    id: "bambari-bruecke-history-v2",
+    id: "mbaiki-kolonialpraefektur-history-v2",
+    id: "mobaye-kolonialerbe-history-v2",
+    id: "berberati-diamanten-erbe-history-v2",
+    id: "carnot-gold-erbe-history-v2",
+    id: "nola-zusammenfluss-history-v2",
+    id: "bozoum-mission-history-v2",
+    id: "ouadda-handelsposten-history-v2",
+    id: "birao-karawanenweg-history-v2",
+    id: "obo-grenzposten-history-v2",
+    id: "boali-kraftwerk-history-v2",
+    id: "cathedrale-notre-dame-bangui-landmarks-v2",
+    id: "arc-de-triomphe-bangui-landmarks-v2",
+    id: "place-de-la-republique-bangui-landmarks-v2",
+    id: "palais-de-la-renaissance-landmarks-v2",
+    id: "stade-barthelemy-boganda-landmarks-v2",
+    id: "monument-des-martyrs-bangui-landmarks-v2",
+    id: "mosquee-centrale-bangui-landmarks-v2",
+    id: "hotel-de-ville-bangui-landmarks-v2",
+    id: "musee-boganda-landmarks-v2",
+    id: "universite-de-bangui-landmarks-v2",
+    id: "grand-marche-bangui-landmarks-v2",
+    id: "aeroport-m-poko-landmarks-v2",
+    id: "palais-de-justice-bangui-landmarks-v2",
+    id: "pont-du-8-mars-landmarks-v2",
+    id: "cathedrale-bangassou-landmarks-v2",
+    id: "cathedrale-bambari-landmarks-v2",
+    id: "cathedrale-berberati-landmarks-v2",
+    id: "mission-bossangoa-landmarks-v2",
+    id: "monument-unite-sibut-landmarks-v2",
+    id: "centre-culturel-francais-landmarks-v2",
+    id: "palais-de-la-cemac-landmarks-v2",
+    id: "monument-boganda-bobangui-landmarks-v2",
+    id: "siege-beac-bangui-landmarks-v2",
+    id: "stade-honneur-bimbo-landmarks-v2",
+    id: "cathedrale-kaga-bandoro-landmarks-v2",
+    id: "dzanga-bai-life-v2",
+    id: "andre-felix-wildlife-life-v2",
+    id: "bamingui-wildlife-life-v2",
+    id: "vakaga-pastoral-life-v2",
+    id: "ouham-cotton-life-v2",
+    id: "mbaiki-coffee-life-v2",
+    id: "bangui-zoo-life-v2",
+    id: "boali-recreation-life-v2",
+    id: "nana-mambere-cattle-life-v2",
+    id: "sangha-butterflies-life-v2",
+    id: "vakaga-hippos-life-v2",
+    id: "ouaka-palm-life-v2",
+    id: "mbomou-chimps-life-v2",
+    id: "basse-kotto-tobacco-life-v2",
+    id: "haute-kotto-honey-life-v2",
+    id: "nana-grebizi-rice-life-v2",
+    id: "ouham-pende-sorghum-life-v2",
+    id: "ombella-mpoko-gardens-life-v2",
+    id: "zemongo-wildlife-life-v2",
+    id: "lobaye-forestry-life-v2",
+    id: "ubangi-river-nature-v2",
+    id: "sangha-river-nature-v2",
+    id: "chari-river-nature-v2",
+    id: "mbomou-river-nature-v2",
+    id: "lobaye-river-nature-v2",
+    id: "ouham-river-nature-v2",
+    id: "kotto-river-nature-v2",
+    id: "mambere-river-nature-v2",
+    id: "kadei-river-nature-v2",
+    id: "ouaka-river-nature-v2",
+    id: "bamingui-river-nature-v2",
+    id: "bangoran-river-nature-v2",
+    id: "mount-ngaoui-nature-v2",
+    id: "mount-toussoro-nature-v2",
+    id: "mount-kayang-nature-v2",
+    id: "mount-ngaya-nature-v2",
+    id: "bongo-massif-nature-v2",
+    id: "yade-massif-nature-v2",
+    id: "dzanga-sangha-forest-nature-v2",
+    id: "chinko-forest-nature-v2",
+    id: "zemongo-forest-nature-v2",
+    id: "lake-goumba-nature-v2",
+    id: "lake-mamere-nature-v2",
+    id: "matoumbou-hills-nature-v2",
+    id: "fertit-mountains-nature-v2",
+    id: "mont-abourassein-relief-v2",
+    id: "mont-bakore-relief-v2",
+    id: "tondou-massiv-relief-v2",
+    id: "mont-dar-challa-relief-v2",
+    id: "mont-koumou-relief-v2",
+    id: "mont-pana-relief-v2",
+    id: "mont-dir-relief-v2",
+    id: "mont-gounda-relief-v2",
+    id: "mont-kounkou-relief-v2",
+    id: "obo-wald-relief-v2",
+    id: "gamboula-wald-relief-v2",
+    id: "paoua-wald-relief-v2",
+    id: "mont-kaga-djir-relief-v2",
+    id: "bimbo-wald-relief-v2",
+    id: "mont-kanza-relief-v2",
+    id: "mont-gbada-relief-v2",
+    id: "birao-wald-relief-v2",
+    id: "mont-mpoko-relief-v2",
+    id: "mont-ali-relief-v2",
+    id: "kotto-massiv-relief-v2",

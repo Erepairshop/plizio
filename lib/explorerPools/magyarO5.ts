@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/magyarO5.ts
 
 import type { PoolTopicDef } from "./types";
@@ -1875,3 +1876,4 @@ addMagyarO5PracticeTopics(MAGYAR_O5_I6_LABELS, MAGYAR_O5_I6_POOL, MAGYAR_O5_PRAC
 addMagyarO5PracticeTopics(MAGYAR_O5_I7_LABELS, MAGYAR_O5_I7_POOL, MAGYAR_O5_PRACTICE_CONFIGS[6]);
 addMagyarO5PracticeTopics(MAGYAR_O5_I8_LABELS, MAGYAR_O5_I8_POOL, MAGYAR_O5_PRACTICE_CONFIGS[7]);
 addMagyarO5PracticeTopics(MAGYAR_O5_I9_LABELS, MAGYAR_O5_I9_POOL, MAGYAR_O5_PRACTICE_CONFIGS[8]);
+

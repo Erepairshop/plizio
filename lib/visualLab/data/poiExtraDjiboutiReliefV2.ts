@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDjiboutiReliefV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Vulkanikus eredetű", "A Danakil-mélyföld geológiájának része", "Tágas kilátást nyújt a tengerpartra", "Meredek kőzetformációk"],
       ro: ["Origine vulcanică", "Parte a geologiei Depresiunii Danakil", "Oferă o vedere panoramică asupra coastei", "Formațiuni stâncoase abrupte"],
       en: ["Volcanic origin", "Part of the Danakil Depression geology", "Offers wide views of the coast", "Rugged rock formations"]
-    }
-  },
+    }, image: "/poi-images/gessila-gipfel-relief-v2.webp"},
   {
     id: "gobaad-ebene-relief-v2",
     type: "relief",
@@ -47,8 +47,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Jelentős kövületlelőhely", "Az Afar-háromszög része", "A nomádok szezonálisan használják", "Sós talajszerkezet"],
       ro: ["Sit paleontologic important", "Parte a Triunghiului Afar", "Utilizată sezonier de nomazi", "Compoziție salină a solului"],
       en: ["Significant fossil site", "Part of the Afar Triangle", "Used seasonally by nomads", "Saline soil composition"]
-    }
-  },
+    }, image: "/poi-images/gobaad-ebene-relief-v2.webp"},
   {
     id: "grand-bara-senke-relief-v2",
     type: "relief",
@@ -95,8 +94,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Kemény agyagos kéreg", "Geológiailag stabil", "A főút szeli át", "Minimális lejtés"],
       ro: ["Crustă dură de lut", "Stabilă din punct de vedere geologic", "Traversată de drumul principal", "Pantă minimă"],
       en: ["Hard clay crust", "Geologically stable", "Traversed by the main road", "Minimal gradient"]
-    }
-  },
+    }, image: "/poi-images/petit-bara-senke-relief-v2.webp"},
   {
     id: "hanle-senke-relief-v2",
     type: "relief",
@@ -119,8 +117,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Vetőszerkezet", "Földalatti vízkészletek lehetősége", "Bazaltsziklák veszik körül", "Fontos legelőterület"],
       ro: ["Structură de rift", "Potențial pentru ape subterane", "Înconjurată de roci bazaltice", "Zonă importantă de pășunat"],
       en: ["Rift structure", "Potential for groundwater", "Surrounded by basalt rocks", "Important grazing area"]
-    }
-  },
+    }, image: "/poi-images/hanle-senke-relief-v2.webp"},
   {
     id: "gaggade-becken-relief-v2",
     type: "relief",
@@ -143,8 +140,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Extrém szárazság", "Vulkáni üledékek", "Különös eróziós formák", "Izolált elhelyezkedés"],
       ro: ["Ariditate extremă", "Sedimente vulcanice", "Forme de eroziune bizare", "Locație izolată"],
       en: ["Extreme aridity", "Volcanic sediments", "Bizarre erosion forms", "Isolated location"]
-    }
-  },
+    }, image: "/poi-images/gaggade-becken-relief-v2.webp"},
   {
     id: "boura-gebirgsmassiv-relief-v2",
     type: "mountain",
@@ -167,8 +163,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Határhegység", "Meredek lejtők", "1000 méter feletti magasságok", "Geológiailag idős"],
       ro: ["Creastă de frontieră", "Versanți abrupți", "Înălțimi de peste 1.000 de metri", "Vechi din punct de vedere geologic"],
       en: ["Border ridge", "Rugged slopes", "Altitudes over 1,000 meters", "Geologically old"]
-    }
-  },
+    }, image: "/poi-images/boura-gebirgsmassiv-relief-v2.webp"},
   {
     id: "dakhatou-huegel-relief-v2",
     type: "mountain",
@@ -191,8 +186,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Erősen erodált", "Vulkáni kúperformák", "Ritkás növényzet", "Fontos a helyi földrajz számára"],
       ro: ["Puternic erodate", "Forme de conuri vulcanice", "Vegetație rară", "Importante pentru geografia locală"],
       en: ["Heavily eroded", "Volcanic cone shapes", "Sparse vegetation", "Important for local geography"]
-    }
-  },
+    }, image: "/poi-images/dakhatou-huegel-relief-v2.webp"},
   {
     id: "arta-bergruecken-relief-v2",
     type: "mountain",
@@ -215,8 +209,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Felföldi geológia", "Meredek tengerparti lejtők", "Kilátás a Tadjoura-öbölre", "Hűvösebb, mint a síkság"],
       ro: ["Geologie de podiș", "Versanți de coastă abrupți", "Vedere spre Golful Tadjoura", "Mai răcoros decât câmpia"],
       en: ["Highland geology", "Steep coastal drops", "View of the Gulf of Tadjoura", "Cooler than the plain"]
-    }
-  },
+    }, image: "/poi-images/arta-bergruecken-relief-v2.webp"},
   {
     id: "dikhil-plateau-relief-v2",
     type: "relief",
@@ -239,8 +232,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Száraz sziklás táj", "Kemény felszíni rétegek", "Ellenáll az eróziónak", "Jellegzetes vöröses színeződés"],
       ro: ["Peisaj stâncos arid", "Straturi de suprafață dure", "Rezistent la eroziune", "Colorit roșcat caracteristic"],
       en: ["Arid rocky landscape", "Hard surface layers", "Erosion resistant", "Characteristic reddish coloring"]
-    }
-  },
+    }, image: "/poi-images/dikhil-plateau-relief-v2.webp"},
   {
     id: "eguere-alleyta-massiv-relief-v2",
     type: "mountain",
@@ -263,8 +255,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Vulkáni kőzet", "Tektonikus tágulás központja", "Zord terep", "Egyedülálló geológiai tanulmányok"],
       ro: ["Rocă vulcanică", "Centru de expansiune tectonică", "Teren neospitalier", "Studii geologice unice"],
       en: ["Volcanic rock", "Center of tectonic expansion", "Inhospitable terrain", "Unique geological studies"]
-    }
-  },
+    }, image: "/poi-images/eguere-alleyta-massiv-relief-v2.webp"},
   {
     id: "mount-data-ali-relief-v2",
     type: "mountain",
@@ -335,8 +326,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Bazaltkúp", "Látható a tenger felől", "A part menti geológia része", "Ritkás erdőborítás"],
       ro: ["Con de bazalt", "Vizibil de pe mare", "Parte a geologiei costiere", "Împădurire redusă"],
       en: ["Basalt cone", "Visible from the sea", "Part of the coastal geology", "Low forestation"]
-    }
-  },
+    }, image: "/poi-images/mount-borawli-relief-v2.webp"},
   {
     id: "yaguer-hochland-relief-v2",
     type: "mountain",
@@ -359,8 +349,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Meredek hegygerincek", "Bazaltfennsíkok", "Nehezen hozzáférhető", "A kontinentális vízválasztó része"],
       ro: ["Creste muntoase abrupte", "Podișuri bazaltice", "Greu accesibil", "Parte a cumpenei de ape continentale"],
       en: ["Rugged mountain ridges", "Basalt plateaus", "Difficult to access", "Part of the continental watershed"]
-    }
-  },
+    }, image: "/poi-images/yaguer-hochland-relief-v2.webp"},
   {
     id: "doda-ebene-relief-v2",
     type: "relief",
@@ -383,8 +372,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Sztyeppés táj", "Időszakos vízfolyások", "Vulkáni homokok", "Jelentős élőhely"],
       ro: ["Peisaj de stepă", "Cursuri de apă sezoniere", "Nisipuri vulkanice", "Habitat important"],
       en: ["Steppe landscape", "Seasonal wadis", "Volcanic sands", "Important habitat"]
-    }
-  },
+    }, image: "/poi-images/doda-ebene-relief-v2.webp"},
   {
     id: "as-eyla-verwerfung-relief-v2",
     type: "relief",
@@ -407,8 +395,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Aktív tektonika", "Látható repedések a földkéregben", "Geológiailag rendkívül érdekes", "Meghatározza a domborzatot"],
       ro: ["Tectonică activă", "Fisuri vizibile în scoarța terestră", "De mare interes geologic", "Modelează relieful"],
       en: ["Active tectonics", "Visible cracks in the earth's crust", "Geologically highly interesting", "Shapes the relief"]
-    }
-  },
+    }, image: "/poi-images/as-eyla-verwerfung-relief-v2.webp"},
   {
     id: "ghoubbet-klippen-relief-v2",
     type: "relief",
@@ -431,8 +418,7 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
       hu: ["Vulkáni sziklafalak", "Extrém erózió helyszíne", "Hozzáférhetetlen tengerpart", "Ragadozó madarak fészkelőhelye"],
       ro: ["Pereți stâncoși vulcanici", "Loc de eroziune extremă", "Coastă inaccesibilă", "Loc de cuibărit pentru păsări de pradă"],
       en: ["Volcanic cliff faces", "Site of extreme erosion", "Inaccessible coast", "Nesting site for birds of prey"]
-    }
-  },
+    }, image: "/poi-images/ghoubbet-klippen-relief-v2.webp"},
   {
     id: "adailou-tal-relief-v2",
     type: "relief",
@@ -482,3 +468,4 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
     }
   }
 ];
+

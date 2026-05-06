@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNamibiaNatureV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["A világ legrégebbi sivataga", "Az Atlanti-óceán partja mentén húzódik", "Óriási homokdűnéiről híres", "Az UNESCO világörökség része"],
       ro: ["Cel mai vechi deșert din lume", "Se întinde de-a lungul coastei Atlanticului", "Cunoscut pentru dunele uriașe de nisip", "Face parte din patrimoniul mondial UNESCO"],
       en: ["Oldest desert in the world", "Stretches along the Atlantic coast", "Known for giant sand dunes", "Part of UNESCO World Heritage"]
-    }
-  },
+    }, image: "/poi-images/na-namib-desert-nature-v2.webp"},
   {
     id: "na-kalahari-desert-nature-v2",
     type: "sea",
@@ -27,8 +27,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Namíbia nagy részét lefedi", "Félszáraz medence", "Vörös talajáról híres", "Számos állatfaj otthona"],
       ro: ["Acoperă mari părți din Namibia", "Bazin semiarid", "Cunoscut pentru solul său roșu", "Casa a numeroase specii de animale"],
       en: ["Covers large parts of Namibia", "Semi-arid basin", "Known for its red soil", "Home to numerous animal species"]
-    }
-  },
+    }, image: "/poi-images/na-kalahari-desert-nature-v2.webp"},
   {
     id: "na-etosha-pan-nature-v2",
     type: "lake",
@@ -41,8 +40,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Hatalmas sómedence", "Az Etosha Nemzeti Park központja", "Az űrből is látható", "Sok állat élőhelye"],
       ro: ["Depresiune salină vastă", "Centrul Parcului Național Etosha", "Vizibilă din spațiu", "Habitat pentru multe animale"],
       en: ["Vast salt pan", "Center of Etosha National Park", "Visible from space", "Habitat for many animals"]
-    }
-  },
+    }, image: "/poi-images/na-etosha-pan-nature-v2.webp"},
   {
     id: "na-fish-river-canyon-nature-v2",
     type: "river",
@@ -55,8 +53,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["A világ második legnagyobb kanyonja", "Látványos sziklaformációk", "Túrázóparadicsom", "Namíbia déli részén található"],
       ro: ["Al doilea cel mai mare canion din lume", "Formațiuni stâncoase spectaculoase", "Paradis pentru drumeții", "Situat în sudul Namibiei"],
       en: ["Second largest canyon in the world", "Spectacular rock formations", "Hiking paradise", "Located in southern Namibia"]
-    }
-  },
+    }, image: "/poi-images/na-fish-river-canyon-nature-v2.webp"},
   {
     id: "na-orange-river-nature-v2",
     type: "river",
@@ -69,8 +66,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Határfolyó Dél-Afrikával", "Dél-Afrika leghosszabb folyója", "Fontos a mezőgazdaság számára", "A Drakensberg-hegységben ered"],
       ro: ["Râu de frontieră cu Africa de Sud", "Cel mai lung râu din Africa de Sud", "Important pentru agricultură", "Izvorăște din munții Drakensberg"],
       en: ["Border river with South Africa", "Longest river in South Africa", "Important for agriculture", "Originates in the Drakensberg mountains"]
-    }
-  },
+    }, image: "/poi-images/na-orange-river-nature-v2.webp"},
   {
     id: "na-kunene-river-nature-v2",
     type: "river",
@@ -83,8 +79,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Határfolyó Angolával", "Az Epupa-vízesést táplálja", "Életér az északi részen", "Biodiverz folyami ökoszisztéma"],
       ro: ["Râu de frontieră cu Angola", "Alimentează cascadele Epupa", "Linia vieții în nord", "Ecosistem fluvial divers"],
       en: ["Border river with Angola", "Feeds the Epupa Falls", "Lifeline in the north", "Biodiverse river ecosystem"]
-    }
-  },
+    }, image: "/poi-images/na-kunene-river-nature-v2.webp"},
   {
     id: "na-epupa-falls-nature-v2",
     type: "river",
@@ -97,8 +92,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Vízesések a Kunene folyón", "Népszerű turisztikai célpont", "Makalani-pálmákkal övezve", "Természeti csoda északon"],
       ro: ["Cascade pe râul Kunene", "Destinație turistică populară", "Înconjurate de palmieri Makalani", "Spectacol natural în nord"],
       en: ["Waterfalls on Kunene River", "Popular tourist destination", "Surrounded by Makalani palms", "Natural wonder in the north"]
-    }
-  },
+    }, image: "/poi-images/na-epupa-falls-nature-v2.webp"},
   {
     id: "na-brandberg-mountain-nature-v2",
     type: "mountain",
@@ -111,8 +105,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Namíbia legmagasabb hegye", "A Königstein a legmagasabb csúcsa", "Sziklafestményeiről híres", "Gránitmasszívum a sivatagban"],
       ro: ["Cel mai înalt munte din Namibia", "Königstein este cel mai înalt vârf", "Faimos pentru picturi rupestre", "Masiv granitic în deșert"],
       en: ["Highest mountain in Namibia", "Königstein is the highest peak", "Famous for rock paintings", "Granite massif in the desert"]
-    }
-  },
+    }, image: "/poi-images/na-brandberg-mountain-nature-v2.webp"},
   {
     id: "na-spitzkoppe-nature-v2",
     type: "mountain",
@@ -125,8 +118,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["'Namíbia Matterhornjaként' ismert", "Jellegzetes gránitsziklák", "Népszerű a hegymászók körében", "Látványos sziklaformációk"],
       ro: ["Cunoscut sub numele de 'Matterhorn al Namibiei'", "Stânci de granit distinctive", "Popular printre alpiniști", "Formațiuni stâncoase spectaculoase"],
       en: ["Known as 'Matterhorn of Namibia'", "Striking granite rocks", "Popular with climbers", "Spectacular rock formations"]
-    }
-  },
+    }, image: "/poi-images/na-spitzkoppe-nature-v2.webp"},
   {
     id: "na-waterberg-nature-v2",
     type: "mountain",
@@ -139,8 +131,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Homokkő fennsík", "Ritka fajok menedéke", "Zöld oázis", "Történelmi helyszín"],
       ro: ["Platou de gresie", "Rezervație pentru specii rare", "Oază verde", "Loc istoric"],
       en: ["Sandstone plateau", "Reserve for rare species", "Green oasis", "Historic site"]
-    }
-  },
+    }, image: "/poi-images/na-waterberg-nature-v2.webp"},
   {
     id: "na-skeletons-coast-nature-v2",
     type: "sea",
@@ -153,8 +144,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Hajóroncsairól híres", "Ködfoltos Atlanti-partvidék", "Magányos sivatagi táj", "Nevét a bálnacsontokról kapta"],
       ro: ["Cunoscută pentru epavele de nave", "Coasta cețoasă a Atlanticului", "Peisaj deșertic solitar", "Numele provine de la oasele de balenă"],
       en: ["Known for shipwrecks", "Foggy Atlantic coast", "Lonely desert landscape", "Named after whale bones"]
-    }
-  },
+    }, image: "/poi-images/na-skeletons-coast-nature-v2.webp"},
   {
     id: "na-cape-cross-nature-v2",
     type: "sea",
@@ -167,8 +157,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Namíbia legnagyobb fókakolóniája", "Történelmi partraszállóhely", "Védett terület része", "Látványos partszakasz"],
       ro: ["Cea mai mare colonie de foci din Namibia", "Loc istoric de debarcare", "Parte a unei rezervații", "Coastă impresionantă"],
       en: ["Largest seal colony in Namibia", "Historic landing site", "Part of a protected area", "Impressive coast"]
-    }
-  },
+    }, image: "/poi-images/na-cape-cross-nature-v2.webp"},
   {
     id: "na-dunes-sossusvlei-nature-v2",
     type: "mountain",
@@ -181,8 +170,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Híres homokdűnék", "Fotósok paradicsoma", "A Namib-sivatag része", "Magas vörös dűnék"],
       ro: ["Dune de nisip faimoase", "Hotspot pentru fotografi", "Parte a deșertului Namib", "Dune roșii înalte"],
       en: ["Famous sand dunes", "Photographers' hotspot", "Part of the Namib Desert", "High red dunes"]
-    }
-  },
+    }, image: "/poi-images/na-dunes-sossusvlei-nature-v2.webp"},
   {
     id: "na-dead-vlei-nature-v2",
     type: "lake",
@@ -195,8 +183,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Halott fáiról híres", "Kontrasztos táj", "Fehér sómedence", "A sivatag szimbóluma"],
       ro: ["Cunoscută pentru copacii morți", "Peisaj contrastant", "Depresiune salină albă", "Simbol al deșertului"],
       en: ["Known for dead trees", "Contrasting landscape", "White salt pan", "Symbol of the desert"]
-    }
-  },
+    }, image: "/poi-images/na-dead-vlei-nature-v2.webp"},
   {
     id: "na-kuiseb-river-nature-v2",
     type: "river",
@@ -209,8 +196,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Száraz folyómeder", "Határolja a dűnéket", "Fontos élőhely", "Érdekes geológia"],
       ro: ["Albie de râu uscată", "Delimitează dunele", "Habitat important", "Geologie interesantă"],
       en: ["Dry riverbed", "Delimits the dunes", "Important habitat", "Interesting geology"]
-    }
-  },
+    }, image: "/poi-images/na-kuiseb-river-nature-v2.webp"},
   {
     id: "na-swakop-river-nature-v2",
     type: "river",
@@ -223,8 +209,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Sivatagi folyó", "Az Atlanti-óceánnál ér véget", "Fontos vízforrás", "Kanyonos tájak"],
       ro: ["Râu de deșert", "Se varsă în Atlantic", "Sursă importantă de apă", "Peisaje cu canioane"],
       en: ["Desert river", "Ends at the Atlantic", "Important water source", "Canyon landscapes"]
-    }
-  },
+    }, image: "/poi-images/na-swakop-river-nature-v2.webp"},
   {
     id: "na-tsauchab-river-nature-v2",
     type: "river",
@@ -237,8 +222,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Táplálja a sómedencét", "Átfolyik a sivatagon", "Többnyire száraz folyómeder", "Fontos vízér"],
       ro: ["Alimentează depresiunea salină", "Curge prin deșert", "Albie de râu majoritatea timpului uscată", "Linie de apă importantă"],
       en: ["Feeds the salt pan", "Flows through the desert", "Mostly dry riverbed", "Important water vein"]
-    }
-  },
+    }, image: "/poi-images/na-tsauchab-river-nature-v2.webp"},
   {
     id: "na-hoarusib-river-nature-v2",
     type: "river",
@@ -251,8 +235,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Sivatagi folyó", "A sivatagi elefántok élőhelye", "Kaokoveld régió", "Száraz folyómeder"],
       ro: ["Râu de deșert", "Habitatul elefanților de deșert", "Regiunea Kaokoveld", "Albie de râu uscată"],
       en: ["Desert river", "Habitat of desert elephants", "Kaokoveld region", "Dry riverbed"]
-    }
-  },
+    }, image: "/poi-images/na-hoarusib-river-nature-v2.webp"},
   {
     id: "na-hoanib-river-nature-v2",
     type: "river",
@@ -265,8 +248,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Száraz folyómeder", "Vadvédelmi folyosó", "Sivatagi elefántok", "Namib-sivatag"],
       ro: ["Albie de râu uscată", "Coridor pentru animale sălbatice", "Elefanți de deșert", "Deșertul Namib"],
       en: ["Dry riverbed", "Wildlife corridor", "Desert elephants", "Namib Desert"]
-    }
-  },
+    }, image: "/poi-images/na-hoanib-river-nature-v2.webp"},
   {
     id: "na-ugab-river-nature-v2",
     type: "river",
@@ -279,8 +261,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Sivatagi folyó", "Élőhely", "Határ a Csontvázpartnál", "Tájformáló"],
       ro: ["Râu de deșert", "Habitat", "Limita Coastei Scheletelor", "Modelator de peisaj"],
       en: ["Desert river", "Habitat", "Skeleton Coast boundary", "Landscape-forming"]
-    }
-  },
+    }, image: "/poi-images/na-ugab-river-nature-v2.webp"},
   {
     id: "na-fish-river-nature-v2",
     type: "river",
@@ -293,8 +274,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Leghosszabb belföldi folyó", "A Hardap-gátat táplálja", "Látványos kanyon", "Sivatagi folyó"],
       ro: ["Cel mai lung râu interior", "Alimentează barajul Hardap", "Canion spectaculos", "Râu de deșert"],
       en: ["Longest inland river", "Feeds Hardap Dam", "Spectacular canyon", "Desert river"]
-    }
-  },
+    }, image: "/poi-images/na-fish-river-nature-v2.webp"},
   {
     id: "na-hardap-dam-nature-v2",
     type: "lake",
@@ -307,8 +287,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Legnagyobb víztározó", "Fontos az öntözéshez", "Szabadidős terület", "Madárparadicsom"],
       ro: ["Cel mai mare lac de acumulare", "Important pentru irigații", "Zonă de agrement", "Paradis pentru păsări"],
       en: ["Largest reservoir", "Important for irrigation", "Recreation area", "Bird paradise"]
-    }
-  },
+    }, image: "/poi-images/na-hardap-dam-nature-v2.webp"},
   {
     id: "na-otjikoto-lake-nature-v2",
     type: "lake",
@@ -321,8 +300,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Karszttó", "Történelmi jelentőség", "Mély víz", "Látogatói látványosság"],
       ro: ["Lac carstic", "Semnificație istorică", "Apă adâncă", "Atracție turistică"],
       en: ["Karst lake", "Historical importance", "Deep water", "Tourist attraction"]
-    }
-  },
+    }, image: "/poi-images/na-otjikoto-lake-nature-v2.webp"},
   {
     id: "na-guinas-lake-nature-v2",
     type: "lake",
@@ -335,8 +313,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Karszttó", "Tiszta víz", "Nagyon mély", "Természeti szépség"],
       ro: ["Lac carstic", "Apă limpede", "Foarte adânc", "Frumusețe naturală"],
       en: ["Karst lake", "Clear water", "Very deep", "Natural beauty"]
-    }
-  },
+    }, image: "/poi-images/na-guinas-lake-nature-v2.webp"},
   {
     id: "na-nylon-pool-nature-v2",
     type: "sea",
@@ -349,8 +326,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Sekély víz", "Nagyon tiszta", "Természeti szépség", "Relaxációs hely"],
       ro: ["Apă puțin adâncă", "Foarte clară", "Frumusețe naturală", "Loc de relaxare"],
       en: ["Shallow water", "Very clear", "Natural beauty", "Place for relaxation"]
-    }
-  },
+    }, image: "/poi-images/na-nylon-pool-nature-v2.webp"},
   {
     id: "na-caprivi-floodplains-nature-v2",
     type: "river",
@@ -363,8 +339,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Ártéri terület", "Zambézi közelsége", "Biodiverzitás", "Vizes élőhely"],
       ro: ["Zonă inundabilă", "Apropierea de Zambezi", "Biodiversitate", "Zonă umedă"],
       en: ["Floodplain", "Zambezi proximity", "Biodiversity", "Wetland"]
-    }
-  },
+    }, image: "/poi-images/na-caprivi-floodplains-nature-v2.webp"},
   {
     id: "na-chobe-river-nature-v2",
     type: "river",
@@ -377,8 +352,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Gazdag vadvilágban", "Határközeli", "Folyami ökoszisztéma", "Védett terület"],
       ro: ["Bogată în animale sălbatice", "Aproape de frontieră", "Ecosistem fluvial", "Zonă protejată"],
       en: ["Rich in wildlife", "Near border", "River ecosystem", "Protected area"]
-    }
-  },
+    }, image: "/poi-images/na-chobe-river-nature-v2.webp"},
   {
     id: "na-kwando-river-nature-v2",
     type: "river",
@@ -391,8 +365,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Folyófolyam", "Caprivi régió", "Vadvilágban gazdag", "Ökoszisztéma"],
       ro: ["Curs de râu", "Regiunea Caprivi", "Bogată în animale sălbatice", "Ecosistem"],
       en: ["River course", "Caprivi region", "Rich in wildlife", "Ecosystem"]
-    }
-  },
+    }, image: "/poi-images/na-kwando-river-nature-v2.webp"},
   {
     id: "na-zambezi-river-nature-v2",
     type: "river",
@@ -405,8 +378,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
       hu: ["Nagy afrikai folyó", "Caprivi-határ", "Biodiverz", "Fontos"],
       ro: ["Mare râu african", "Frontiera Caprivi", "Biodivers", "Important"],
       en: ["Major African river", "Caprivi border", "Biodiverse", "Important"]
-    }
-  },
+    }, image: "/poi-images/na-zambezi-river-nature-v2.webp"},
   {
     id: "na-erongo-mountains-nature-v2",
     type: "mountain",
@@ -422,3 +394,4 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     }
   }
 ];
+

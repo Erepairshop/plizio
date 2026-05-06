@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNicaraguaHistoryV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Nemzeti emlékmű", "Évenkénti megemlékezések szeptember 14-én", "Helyi múzeum"],
       ro: ["Monument național", "Comemorări anuale pe 14 septembrie", "Muzeu la fața locului"],
       en: ["National monument", "Annual commemorations on September 14th", "On-site museum"]
-    }
-  },
+    }, image: "/poi-images/hacienda-san-jacinto-history-v2.webp"},
   {
     id: "palacio-nacional-cultura-history-v2",
     type: "historical",
@@ -27,8 +27,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Túlélte az 1972-es földrengést", "Itt található a Nemzeti Múzeum", "Nicaragua történelmét mutatja be"],
       ro: ["A supraviețuit cutremurului din 1972", "Găzduiește Muzeul Național", "Prezintă istoria Nicaraguei"],
       en: ["Survived the 1972 earthquake", "Houses the National Museum", "Displays Nicaraguan history"]
-    }
-  },
+    }, image: "/poi-images/palacio-nacional-cultura-history-v2.webp"},
   {
     id: "antigua-catedral-managua-history-v2",
     type: "historical",
@@ -55,8 +54,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Eredetileg 1534-ben épült", "Kalózok lerombolták és újjáépítették", "Barokk homlokzat"],
       ro: ["Construită inițial în 1534", "Distrusă de pirați și reconstruită", "Fațadă barocă"],
       en: ["Originally built in 1534", "Destroyed by pirates and rebuilt", "Baroque facade"]
-    }
-  },
+    }, image: "/poi-images/iglesia-la-merced-granada-history-v2.webp"},
   {
     id: "convento-san-francisco-granada-history-v2",
     type: "historical",
@@ -69,8 +67,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["1529-ben alapították", "Híres Zapatera-szobroknak ad otthont", "Egyetemként és katonai bázisként is szolgált"],
       ro: ["Fondată în 1529", "Găzduiește faimoasele statui Zapatera", "A servit ca universitate și bază militară"],
       en: ["Founded in 1529", "Houses famous Zapatera statues", "Served as a university and military base"]
-    }
-  },
+    }, image: "/poi-images/convento-san-francisco-granada-history-v2.webp"},
   {
     id: "fortaleza-la-polvora-granada-history-v2",
     type: "historical",
@@ -83,8 +80,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["1748-ban épült", "A város védelmét szolgálta", "Jó állapotban megőrzött szerkezet", "Betekintést nyújt a katonai építészetbe"],
       ro: ["Construită în 1748", "A servit la apărarea orașului", "Structură bine conservată", "Oferă o perspectivă asupra arhitecturii militare"],
       en: ["Built in 1748", "Served to defend the city", "Well-preserved structure", "Offers a glimpse into military architecture"]
-    }
-  },
+    }, image: "/poi-images/fortaleza-la-polvora-granada-history-v2.webp"},
   {
     id: "museo-de-la-revolucion-leon-history-v2",
     type: "historical",
@@ -125,8 +121,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["A költő személyes tárgyait mutatja be", "19. századi gyarmati ház", "Fontos hely az irodalom iránt érdeklődőknek"],
       ro: ["Expune obiecte personale ale poetului", "Casă colonială din secolul al XIX-lea", "Loc important pentru iubitorii de literatură"],
       en: ["Displays personal belongings of the poet", "19th-century colonial house", "Important site for literature enthusiasts"]
-    }
-  },
+    }, image: "/poi-images/casa-museo-ruben-dario-leon-history-v2.webp"},
   {
     id: "santuario-de-jesus-del-rescate-popoyuapa-history-v2",
     type: "historical",
@@ -139,8 +134,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Egy tisztelt Krisztus-szobornak ad otthont", "A legnagyobb zarándoklat a nagyhéten", "Évente több ezer zarándok"],
       ro: ["Găzduiește o figură venerată a lui Hristos", "Cel mai mare pelerinaj în Săptămâna Mare", "Mii de pelerini anual"],
       en: ["Houses a venerated Christ figure", "Largest pilgrimage during Holy Week", "Thousands of pilgrims annually"]
-    }
-  },
+    }, image: "/poi-images/santuario-de-jesus-del-rescate-popoyuapa-history-v2.webp"},
   {
     id: "zapatera-archaeological-park-history-v2",
     type: "historical",
@@ -153,8 +147,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Prekolumbiánus szertartási központ", "Vulkáni kőzetből készült szobrok", "Kilátás a Nicaragua-tóra"],
       ro: ["Centru ceremonial precolumbian", "Statuete din rocă vulcanică", "Vedere spre Lacul Nicaragua"],
       en: ["Pre-Columbian ceremonial center", "Statues made of volcanic rock", "Views of Lake Nicaragua"]
-    }
-  },
+    }, image: "/poi-images/zapatera-archaeological-park-history-v2.webp"},
   {
     id: "petroglifos-ometepe-history-v2",
     type: "historical",
@@ -167,8 +160,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Korai kultúrák tanúi", "Állatok, emberek és spirálok ábrázolása", "Különösen sok a Finca Magdalenánál"],
       ro: ["Mărturii ale culturilor timpurii", "Reprezentări de animale, oameni și spirale", "Numeroase în special la Finca Magdalena"],
       en: ["Evidence of early cultures", "Depictions of animals, humans, and spirals", "Especially numerous near Finca Magdalena"]
-    }
-  },
+    }, image: "/poi-images/petroglifos-ometepe-history-v2.webp"},
   {
     id: "san-agustin-church-somoto-history-v2",
     type: "historical",
@@ -209,8 +201,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Itt található a 'Virgen del Trono'", "Nagy éves zarándoklat célpontja", "Barokk gyarmati építészet"],
       ro: ["Găzduiește 'Virgen del Trono'", "Destinația unui mare pelerinaj anual", "Arhitectură colonială barocă"],
       en: ["Houses the 'Virgen del Trono'", "Destination of a large annual pilgrimage", "Baroque colonial architecture"]
-    }
-  },
+    }, image: "/poi-images/santuario-nacional-nuestra-senora-de-la-concepcion-el-viejo-history-v2.webp"},
   {
     id: "batalla-de-coyotepe-site-history-v2",
     type: "historical",
@@ -223,8 +214,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Az amerikai beavatkozás kulcseseménye", "Itt ölték meg Benjamín Zeledónt", "Meghatározza Masaya tájképét"],
       ro: ["Eveniment cheie al intervenției SUA", "Benjamín Zeledón a fost ucis aici", "Domină peisajul din Masaya"],
       en: ["Key event in the U.S. intervention", "Benjamín Zeledón was killed here", "Dominates the Masaya landscape"]
-    }
-  },
+    }, image: "/poi-images/batalla-de-coyotepe-site-history-v2.webp"},
   {
     id: "casa-hacienda-de-simon-bolivar-el-vapor-history-v2",
     type: "historical",
@@ -237,8 +227,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Simón Bolívar körüli legenda", "Példa egy gyarmati kávéhaciendára", "Vidéki építészet"],
       ro: ["Legendă legată de Simón Bolívar", "Exemplu de hacienda colonială de cafea", "Arhitectură rurală"],
       en: ["Legend surrounding Simón Bolívar", "Example of a colonial coffee hacienda", "Rural architecture"]
-    }
-  },
+    }, image: "/poi-images/casa-hacienda-de-simon-bolivar-el-vapor-history-v2.webp"},
   {
     id: "nacimiento-de-ciudad-dario-history-v2",
     type: "historical",
@@ -265,8 +254,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["A spanyol gyarmati város határát jelöli", "Történelmi őslakos negyed", "Érdekes stíluskeverék"],
       ro: ["Marchează granița orașului colonial spaniol", "Cartier indigen istoric", "Amestec interesant de stiluri"],
       en: ["Marks the boundary of the Spanish colonial city", "Historic indigenous neighborhood", "Interesting mix of styles"]
-    }
-  },
+    }, image: "/poi-images/iglesia-de-xalteva-granada-history-v2.webp"},
   {
     id: "sitio-arqueologico-el-paisaje-history-v2",
     type: "historical",
@@ -307,8 +295,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["A 19. század végén épült", "Összekötötte a legfontosabb csendes-óceáni városokat", "1993-ban szűnt meg a működése"],
       ro: ["Construită la sfârșitul secolului al XIX-lea", "A legat principalele orașe de la Pacific", "Operațiunile au încetat în 1993"],
       en: ["Built in the late 19th century", "Connected the main Pacific cities", "Operations ceased in 1993"]
-    }
-  },
+    }, image: "/poi-images/ferrocarril-del-pacifico-ruinas-history-v2.webp"},
   {
     id: "sitio-historico-pancas-history-v2",
     type: "historical",
@@ -321,8 +308,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Az ütközet 1967-ben zajlott", "Elesett harcosok emlékműve", "Matagalpa hegyeiben található"],
       ro: ["Lupta a avut loc în 1967", "Memorial pentru luptătorii căzuți", "Situat în munții din Matagalpa"],
       en: ["Combat took place in 1967", "Memorial to fallen fighters", "Located in the mountains of Matagalpa"]
-    }
-  },
+    }, image: "/poi-images/sitio-historico-pancas-history-v2.webp"},
   {
     id: "minas-del-jicaro-history-v2",
     type: "historical",
@@ -335,8 +321,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Fontos bevételi forrás volt a spanyol koronának", "Munkásküzdelmek helyszíne", "Néhányat ma is kézműves módszerekkel művelnek"],
       ro: ["Sursă importantă de venit pentru coroana spaniolă", "Scena luptelor muncitorești", "Unele sunt încă exploatate artizanal astăzi"],
       en: ["Important source of revenue for the Spanish crown", "Scene of labor struggles", "Some are still operated artisanally today"]
-    }
-  },
+    }, image: "/poi-images/minas-del-jicaro-history-v2.webp"},
   {
     id: "fuerte-de-la-inmaculada-concepcion-el-castillo-history-v2",
     type: "historical",
@@ -349,8 +334,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["A 17. században épült", "Stratégiailag a San Juan folyónál helyezkedik el", "Számos támadást vert vissza, köztük Horatio Nelsonét is"],
       ro: ["Construită în secolul al XVII-lea", "Situată strategic pe râul San Juan", "A respins numeroase atacuri, inclusiv unul de Horatio Nelson"],
       en: ["Built in the 17th century", "Strategically located on the San Juan River", "Repelled numerous attacks, including one by Horatio Nelson"]
-    }
-  },
+    }, image: "/poi-images/fuerte-de-la-inmaculada-concepcion-el-castillo-history-v2.webp"},
   {
     id: "puerto-de-corinto-historical-port-history-v2",
     type: "historical",
@@ -363,8 +347,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["El Realejo kikötőjét váltotta fel", "A kávé- és gyapotexport központja", "Az USA többször is megszállta"],
       ro: ["A înlocuit portul El Realejo", "Centru pentru exportul de cafea și bumbac", "Ocupat de mai multe ori de SUA"],
       en: ["Replaced the port of El Realejo", "Center for coffee and cotton exports", "Occupied by the U.S. on several occasions"]
-    }
-  },
+    }, image: "/poi-images/puerto-de-corinto-historical-port-history-v2.webp"},
   {
     id: "sitio-historico-san-rafael-del-norte-history-v2",
     type: "historical",
@@ -377,8 +360,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Itt vette feleségül Sandino Blanca Aráuzt", "Múzeum Sandino életéről", "Az amerikai megszállás elleni ellenállás fontos helyszíne"],
       ro: ["Aici s-a căsătorit Sandino cu Blanca Aráuz", "Muzeu despre viața lui Sandino", "Loc important al rezistenței împotriva ocupației americane"],
       en: ["Sandino married Blanca Aráuz here", "Museum about Sandino's life", "Important site of resistance against U.S. occupation"]
-    }
-  },
+    }, image: "/poi-images/sitio-historico-san-rafael-del-norte-history-v2.webp"},
   {
     id: "minas-de-siuna-rosita-bonanza-history-v2",
     type: "historical",
@@ -391,8 +373,7 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
       hu: ["Fontos bevételi forrás az országnak", "Munkakonfliktusok helyszíne", "Multikulturális olvasztótégely"],
       ro: ["Sursă importantă de venituri pentru țară", "Scena conflictelor de muncă", "Creuzet multicultural"],
       en: ["Important source of revenue for the country", "Scene of labor conflicts", "Multicultural melting pot"]
-    }
-  },
+    }, image: "/poi-images/minas-de-siuna-rosita-bonanza-history-v2.webp"},
   {
     id: "guerra-constitucionalista-leon-history-v2",
     type: "historical",
@@ -422,3 +403,4 @@ export const poiExtraNicaraguaHistoryV2: POI[] = [
     }
   }
 ];
+

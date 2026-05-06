@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTunisiaReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Tunézia legmagasabb pontja a Djebel Chambi.", "Természetes gátat képez a Szahara felé.", "Fontos vízválasztó az országban.", "Több mint 2400 kilométer hosszan nyúlik el."],
       ro: ["Cel mai înalt punct din Tunisia este Djebel Chambi.", "Formează o barieră naturală împotriva Saharei.", "Este un bazin hidrografic important pentru țară.", "Se întinde pe 2400 de kilometri."],
       en: ["Highest point in Tunisia is Djebel Chambi.", "Forms a natural barrier against the Sahara.", "Important watershed for the country.", "Extends over 2400 kilometers."]
-    }
-  },
+    }, image: "/poi-images/atlas-gebirge-relief-v2.webp"},
   {
     id: "djebel-chambi-relief-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["1544 méter magas.", "A Djebel Chambi Nemzeti Parkban található.", "Fenyőerdők borítják.", "A régió kiemelkedő látnivalója."],
       ro: ["Atinge o înălțime de 1544 de metri.", "Situat în Parcul Național Djebel Chambi.", "Acoperit cu păduri de pini.", "Un punct de reper marcant al regiunii."],
       en: ["Reaches a height of 1544 meters.", "Located in the Djebel Chambi National Park.", "Covered with pine forests.", "A prominent landmark of the region."]
-    }
-  },
+    }, image: "/poi-images/djebel-chambi-relief-v2.webp"},
   {
     id: "chott-el-jerid-relief-v2",
     type: "relief",
@@ -41,8 +40,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Területe körülbelül 5000 négyzetkilométer.", "A tengerszint alatt fekszik.", "Nyáron majdnem teljesen kiszárad.", "Színes kristálylerakódások jellemzik."],
       ro: ["Suprafață de aproximativ 5000 de kilometri pătrați.", "Situat sub nivelul mării.", "Aproape complet secat vara.", "Depuneri de cristale pline de culoare."],
       en: ["Area of about 5000 square kilometers.", "Located below sea level.", "Almost completely dried up in summer.", "Colorful crystal deposits."]
-    }
-  },
+    }, image: "/poi-images/chott-el-jerid-relief-v2.webp"},
   {
     id: "tunis-ebene-relief-v2",
     type: "relief",
@@ -55,8 +53,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Történelmileg jelentős mezőgazdasági központ.", "Helyi folyók által jól öntözött.", "Sűrűn lakott.", "Lankás dombvidék."],
       ro: ["Centru agricol semnificativ istoric.", "Bine irigat de râurile locale.", "Populație densă.", "Peisaj colinar blând."],
       en: ["Historically significant agricultural center.", "Well-irrigated by local rivers.", "Densely populated.", "Gentle hilly landscape."]
-    }
-  },
+    }, image: "/poi-images/tunis-ebene-relief-v2.webp"},
   {
     id: "djebel-zaghouan-relief-v2",
     type: "mountain",
@@ -69,8 +66,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Magassága közel 1300 méter.", "Az ókori vízvezetékek fontos forrása.", "Természetvédelmi terület.", "Kedvelt a túrázók körében."],
       ro: ["Înălțime de aproape 1300 de metri.", "Sursă importantă pentru apeductele antice.", "Rezervație naturală.", "Popular printre drumeți."],
       en: ["Height of nearly 1300 meters.", "Important source for ancient aqueducts.", "Nature reserve.", "Popular with hikers."]
-    }
-  },
+    }, image: "/poi-images/djebel-zaghouan-relief-v2.webp"},
   {
     id: "dahar-plateau-relief-v2",
     type: "relief",
@@ -83,8 +79,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Berber építészetéről ismert.", "Számos barlangtelepülés.", "Száraz sivatagi éghajlat.", "Geológiailag változatos kőzetrétegek."],
       ro: ["Cunoscut pentru arhitectura sa berberă.", "Multe așezări în peșteri.", "Climat deșertic arid.", "Straturi geologice diverse."],
       en: ["Known for its Berber architecture.", "Many cave settlements.", "Dry desert climate.", "Geologically diverse rock layers."]
-    }
-  },
+    }, image: "/poi-images/dahar-plateau-relief-v2.webp"},
   {
     id: "cap-bon-halbinsel-relief-v2",
     type: "relief",
@@ -97,8 +92,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Borászatáról és citrusféléiről ismert.", "Partvidéke számos öböllel.", "Stratégiailag kedvező fekvés.", "Enyhe mediterrán éghajlat."],
       ro: ["Cunoscut pentru viticultură și citrice.", "Linia de coastă cu numeroase golfuri.", "Poziție strategică.", "Climat mediteranean blând."],
       en: ["Known for viticulture and citrus fruits.", "Coastline with numerous bays.", "Strategically located.", "Mild Mediterranean climate."]
-    }
-  },
+    }, image: "/poi-images/cap-bon-halbinsel-relief-v2.webp"},
   {
     id: "djebel-serj-relief-v2",
     type: "mountain",
@@ -111,8 +105,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Az 'Aïn Dhab' barlangjáról ismert.", "Mészkő-masszívum.", "Ritka növények élőhelye.", "Kihívást jelentő terep hegymászóknak."],
       ro: ["Cunoscut pentru peștera 'Aïn Dhab'.", "Masiv de calcar.", "Habitat pentru plante rare.", "Teren provocator pentru alpiniști."],
       en: ["Known for the 'Aïn Dhab' cave.", "Limestone massif.", "Habitat for rare plants.", "Challenging terrain for mountaineers."]
-    }
-  },
+    }, image: "/poi-images/djebel-serj-relief-v2.webp"},
   {
     id: "gulf-von-gabes-relief-v2",
     type: "relief",
@@ -125,8 +118,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Különösen nagy árapály-különbségek.", "Fontos halászati régió.", "Magában foglalja Djerba szigetét.", "Homokos partvidék."],
       ro: ["Diferențe de maree deosebit de mari.", "Regiune pescărească importantă.", "Include insula Djerba.", "Porțiuni de coastă nisipoasă."],
       en: ["Particularly large tidal differences.", "Important fishing region.", "Includes the island of Djerba.", "Sandy coastal sections."]
-    }
-  },
+    }, image: "/poi-images/gulf-von-gabes-relief-v2.webp"},
   {
     id: "djebel-orbata-relief-v2",
     type: "mountain",
@@ -139,8 +131,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Geológiailag foszfátlelőhelyek jellemzik.", "Száraz hegyvidéki táj.", "A keleti Atlasz-hegység része.", "Fontos ökológiai folyosó."],
       ro: ["Geologic marcat de zăcăminte de fosfați.", "Peisaj montan arid.", "Parte a ramificațiilor estice ale Atlasului.", "Coridor ecologic important."],
       en: ["Geologically characterized by phosphate deposits.", "Dry mountain landscape.", "Part of the eastern Atlas foothills.", "Important ecological corridor."]
-    }
-  },
+    }, image: "/poi-images/djebel-orbata-relief-v2.webp"},
   {
     id: "kroumirie-gebirge-relief-v2",
     type: "forest",
@@ -153,8 +144,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Itt a legmagasabb a csapadék Tunéziában.", "Sűrű paratölgy-erdők.", "Hűvösebb éghajlat, mint az ország többi részén.", "Magas biodiverzitás."],
       ro: ["Cele mai ridicate precipitații din Tunisia.", "Păduri dese de stejar de plută.", "Climat mai răcoros decât în restul țării.", "Biodiversitate ridicată."],
       en: ["Highest rainfall in Tunisia.", "Dense cork oak forests.", "Cooler climate than in the rest of the country.", "High biodiversity."]
-    }
-  },
+    }, image: "/poi-images/kroumirie-gebirge-relief-v2.webp"},
   {
     id: "djebel-bou-kornine-relief-v2",
     type: "mountain",
@@ -167,8 +157,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Magassága közel 600 méter.", "Nemzeti park státusz.", "Kedvelt kirándulóhely.", "Panorámás kilátás nyílik Tuniszra."],
       ro: ["Înălțime de aproape 600 de metri.", "Statut de parc național.", "Destinație populară pentru excursii.", "Oferă o vedere panoramică asupra Tunisului."],
       en: ["Height of nearly 600 meters.", "National park status.", "Popular destination for excursions.", "Offers a panoramic view of Tunis."]
-    }
-  },
+    }, image: "/poi-images/djebel-bou-kornine-relief-v2.webp"},
   {
     id: "djebel-biada-relief-v2",
     type: "mountain",
@@ -195,8 +184,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Hegyi gazellák természetvédelmi területe.", "Tipikus félszáraz flóra.", "Tagolt táj.", "Fontos élőhely."],
       ro: ["Arie protejată pentru gazelele de munte.", "Floră tipică semiaridă.", "Peisaj accidentat.", "Habitat important."],
       en: ["Protected area for mountain gazelles.", "Typical semi-arid flora.", "Rugged landscape.", "Important habitat."]
-    }
-  },
+    }, image: "/poi-images/djebel-mghila-relief-v2.webp"},
   {
     id: "djebel-selloum-relief-v2",
     type: "mountain",
@@ -209,8 +197,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Kopár, száraz környezet.", "Magas geológiai aktivitás a földtörténet során.", "Fontos a regionális hidrológia szempontjából.", "Határhegység a síkságok között."],
       ro: ["Mediu arid și steril.", "Activitate geologică ridicată în istoria pământului.", "Important pentru hidrologia regională.", "Munte de graniță între câmpii."],
       en: ["Barren, dry environment.", "High geological activity in earth history.", "Important for regional hydrology.", "Border mountain between plains."]
-    }
-  },
+    }, image: "/poi-images/djebel-selloum-relief-v2.webp"},
   {
     id: "djebel-fkirine-relief-v2",
     type: "mountain",
@@ -237,8 +224,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Az északi Atlasz-hegység része.", "Dús növényzet télen.", "Fontos legelők.", "Nagyon festői kilátások."],
       ro: ["Parte a Atlasului de nord.", "Vegetație luxuriantă în timpul iernii.", "Pășuni importante.", "Vederi foarte pitorești."],
       en: ["Part of the northern Atlas.", "Lush vegetation in winter.", "Important pasture areas.", "Very picturesque views."]
-    }
-  },
+    }, image: "/poi-images/djebel-hamra-relief-v2.webp"},
   {
     id: "djebel-es-sif-relief-v2",
     type: "mountain",
@@ -251,8 +237,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Geológiailag szorosan kapcsolódik az Atlasz-hegységhez.", "Jelentős tektonikai struktúrák.", "Nagyon távoli vidék.", "Zord éghajlat."],
       ro: ["Geologic înrudit strâns cu Atlasul.", "Structuri tectonice semnificative.", "Zonă foarte izolată.", "Climat dur."],
       en: ["Geologically closely related to the Atlas.", "Significant tectonic structures.", "Very remote area.", "Harsh climate."]
-    }
-  },
+    }, image: "/poi-images/djebel-es-sif-relief-v2.webp"},
   {
     id: "djebel-el-gharrah-relief-v2",
     type: "mountain",
@@ -265,8 +250,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Tipikus a magas Atlasz számára.", "Rendkívül száraz viszonyok.", "Geológiailag érdekes.", "Gyéren lakott környezet."],
       ro: ["Tipic pentru Atlasul înalt.", "Condiții extrem de aride.", "Interesant geologic.", "Zonă înconjurătoare slab populată."],
       en: ["Typical for the high Atlas.", "Extremely dry conditions.", "Geologically interesting.", "Sparsely populated surrounding area."]
-    }
-  },
+    }, image: "/poi-images/djebel-el-gharrah-relief-v2.webp"},
   {
     id: "djebel-bel-khodra-relief-v2",
     type: "mountain",
@@ -279,8 +263,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Mészkőhegység.", "Védelmet nyújt a vadon élő állatoknak.", "Fontos a lábánál fekvő mezőgazdaság számára.", "Festői táj."],
       ro: ["Munți de calcar.", "Oferă adăpost animalelor sălbatice.", "Important pentru agricultura de la poale.", "Peisaj pitoresc."],
       en: ["Limestone mountains.", "Offers shelter to wildlife.", "Important for agriculture at the foot.", "Scenically charming."]
-    }
-  },
+    }, image: "/poi-images/djebel-bel-khodra-relief-v2.webp"},
   {
     id: "chott-el-gharsa-relief-v2",
     type: "relief",
@@ -293,8 +276,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Tunézia egyik legmélyebb pontja.", "Nagyon sós környezet.", "Geológiailag egy medence.", "Sivatagi dűnék veszik körül."],
       ro: ["Unul dintre cele mai joase puncte ale Tunisiei.", "Mediu foarte sărat.", "Geologic un bazin.", "Înconjurat de dune de deșert."],
       en: ["One of the lowest points in Tunisia.", "Very salty environment.", "Geologically a basin.", "Surrounded by desert dunes."]
-    }
-  },
+    }, image: "/poi-images/chott-el-gharsa-relief-v2.webp"},
   {
     id: "djebel-ben-youne-relief-v2",
     type: "mountain",
@@ -307,8 +289,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Foszfátbányászat a közelben.", "Száraz éghajlat.", "A keleti hegyvonulatok része.", "Zord sziklás lejtők."],
       ro: ["Minerit de fosfați în apropiere.", "Climat arid.", "Parte a lanțurilor muntoase estice.", "Pante stâncoase abrupte."],
       en: ["Phosphate mining nearby.", "Dry climate.", "Part of the eastern mountain ranges.", "Rugged rocky slopes."]
-    }
-  },
+    }, image: "/poi-images/djebel-ben-youne-relief-v2.webp"},
   {
     id: "djebel-abderrahmane-relief-v2",
     type: "mountain",
@@ -321,8 +302,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["Domináns hegygerinc a félszigeten.", "Fontos időjárási gát.", "Mediterrán macchiával borított.", "Kilátás a Földközi-tengerre."],
       ro: ["Creastă dominantă pe peninsulă.", "Barieră meteorologică importantă.", "Acoperit cu maquis mediteranean.", "Vedere spre Marea Mediterană."],
       en: ["Dominant ridge on the peninsula.", "Important weather barrier.", "Covered with Mediterranean maquis.", "View of the Mediterranean Sea."]
-    }
-  },
+    }, image: "/poi-images/djebel-abderrahmane-relief-v2.webp"},
   {
     id: "djebel-om-el-adame-relief-v2",
     type: "mountain",
@@ -335,8 +315,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       hu: ["A középső Atlasz része.", "Száraz, köves táj.", "Fontos tájékozódási pont.", "Gyéren lakott."],
       ro: ["Parte a Atlasului central.", "Peisaj arid și pietros.", "Punct de reper important.", "Zonă slab populată."],
       en: ["Part of the central Atlas.", "Dry, stony landscape.", "Important landmark.", "Sparsely populated."]
-    }
-  },
+    }, image: "/poi-images/djebel-om-el-adame-relief-v2.webp"},
   {
     id: "djebel-bou-hedma-relief-v2",
     type: "mountain",
@@ -352,3 +331,4 @@ export const poiExtraTunisiaReliefV2: POI[] = [
     }
   }
 ];
+

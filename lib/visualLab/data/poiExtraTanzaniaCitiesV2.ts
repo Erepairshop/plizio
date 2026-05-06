@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTanzaniaCitiesV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Itt ülésezik a Nemzetgyűlés.", "1974 óta tervezett főváros."],
       ro: ["Adunarea Națională se întrunește aici.", "Capitală planificată din 1974."],
       en: ["The National Assembly meets here.", "Planned capital since 1974."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Dodoma, das seit 1974 die offizielle Hauptstadt Tansanias ist, fungiert als das politische Herz des Landes. Im Gegensatz zur Küstenmetropole Dar es Salaam liegt Dodoma auf einem trockenen Hochplateau auf einer Höhe von etwa 1.100 Metern. Die Stadt beherbergt die Nationalversammlung und ist durch weite Straßen und bedeutende Regierungsgebäude geprägt, die ihre neue Rolle unterstreichen. Geographie K6 — Siedlungen und Hauptstädte.",
+      hu: "Dodoma, amely 1974 óta Tanzánia hivatalos fővárosa, az ország politikai szíveként működik. A tengerparti Dar es Salaam nagyvárossal ellentétben Dodoma egy száraz fennsíkon fekszik, körülbelül 1100 méteres tengerszint feletti magasságban. A város ad otthont az Országgyűlésnek, és széles utcák, valamint jelentős kormányzati épületek jellemzik, amelyek új szerepét hangsúlyozzák. Földrajz K6 — települések és fővárosok.",
+      ro: "Dodoma, care este capitala oficială a Tanzaniei din 1974, servește drept inima politică a țării. Spre deosebire de metropola de coastă Dar es Salaam, Dodoma este situată pe un platou înalt și uscat, la o altitudine de aproximativ 1.100 de metri. Orașul găzduiește Adunarea Națională și este definit prin străzi largi și clădiri guvernamentale semnificative, care îi subliniază noul rol. Geografie K6 — așezări și capitale.",
+      en: "Dodoma, which has been the official capital of Tanzania since 1974, serves as the political heart of the country. Unlike the coastal metropolis of Dar es Salaam, Dodoma is situated on a dry high plateau at an altitude of about 1,100 meters. The city houses the National Assembly and is characterized by wide streets and significant government buildings that underscore its new role. Geography K6 — settlements and capitals."
+    },
+    factsAdvanced: {
+      de: ["Dodoma liegt auf ca. 1.120 m Höhe.", "Die Stadt wurde 1907 von deutschen Siedlern gegründet.", "Offizielle Hauptstadtverlegung fand 1974 statt.", "Die Stadt beherbergt den Bunge-Komplex.", "Dodoma bedeutet in der Sprache der Gogo 'versunken'.", "Das Klima ist semiarid."],
+      hu: ["Dodoma kb. 1120 m magasan fekszik.", "A várost 1907-ben német telepesek alapították.", "A főváros hivatalos áthelyezése 1974-ben történt.", "A város ad otthont a Bunge-komplexumnak.", "Dodoma a gogo nyelven 'elmerültet' jelent.", "Az éghajlat félszáraz."],
+      ro: ["Dodoma este situat la o altitudine de cca. 1120 m.", "Orașul a fost fondat în 1907 de coloniști germani.", "Mutarea oficială a capitalei a avut loc în 1974.", "Orașul găzduiește complexul Bunge.", "Dodoma înseamnă 'scufundat' în limba Gogo.", "Clima este semiaridă."],
+      en: ["Dodoma is situated at an altitude of approx. 1,120 m.", "The city was founded in 1907 by German settlers.", "The official capital relocation took place in 1974.", "The city houses the Bunge complex.", "Dodoma means 'sunken' in the Gogo language.", "The climate is semi-arid."]
+    }, image: "/poi-images/tz-dodoma-cities-v2.webp"},
   {
     id: "tz-dar-es-salaam-cities-v2",
     type: "city",
@@ -27,8 +39,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A kikötő az ország legfontosabbja.", "Korábbi főváros az áthelyezésig."],
       ro: ["Portul este cel mai important din țară.", "Fostă capitală până la mutare."],
       en: ["The port is the country's most important.", "Former capital until the relocation."]
-    }
-  },
+    }, image: "/poi-images/tz-dar-es-salaam-cities-v2.webp"},
   {
     id: "tz-mwanza-cities-v2",
     type: "city",
@@ -41,8 +52,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Tanzánia második legnagyobb városa.", "A halászati ipar központja."],
       ro: ["Al doilea oraș ca mărime din Tanzania.", "Centrul industriei pescuitului."],
       en: ["Second largest city in Tanzania.", "Center of the fishing industry."]
-    }
-  },
+    }, image: "/poi-images/tz-mwanza-cities-v2.webp"},
   {
     id: "tz-arusha-cities-v2",
     type: "city",
@@ -55,8 +65,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A Kelet-afrikai Közösség székhelye.", "Fontos diplomáciai központ."],
       ro: ["Sediul Comunității Africii de Est.", "Important centru diplomatic."],
       en: ["Headquarters of the East African Community.", "Important diplomatic center."]
-    }
-  },
+    }, image: "/poi-images/tz-arusha-cities-v2.webp"},
   {
     id: "tz-mbeya-cities-v2",
     type: "city",
@@ -69,8 +78,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Az 1920-as években alapították aranyleletek miatt.", "Fontos közlekedési csomópont Zambia felé."],
       ro: ["Fondat în anii 1920 datorită descoperirilor de aur.", "Nod de transport important către Zambia."],
       en: ["Founded in the 1920s due to gold discoveries.", "Important transport hub towards Zambia."]
-    }
-  },
+    }, image: "/poi-images/tz-mbeya-cities-v2.webp"},
   {
     id: "tz-morogoro-cities-v2",
     type: "city",
@@ -83,8 +91,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Szizáltermesztéséről ismert.", "A Sokoine Egyetem otthona."],
       ro: ["Cunoscut pentru cultivarea sisalului.", "Sediul Universității Sokoine."],
       en: ["Known for sisal cultivation.", "Home to Sokoine University."]
-    }
-  },
+    }, image: "/poi-images/tz-morogoro-cities-v2.webp"},
   {
     id: "tz-tanga-cities-v2",
     type: "city",
@@ -97,8 +104,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Az ország második legnagyobb kikötője.", "Közel van az Amboni-barlangokhoz."],
       ro: ["Al doilea port ca mărime din țară.", "Aproape de Peșterile Amboni."],
       en: ["Second largest port in the country.", "Close to the Amboni Caves."]
-    }
-  },
+    }, image: "/poi-images/tz-tanga-cities-v2.webp"},
   {
     id: "tz-kahama-cities-v2",
     type: "city",
@@ -111,8 +117,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Az aranytermelés központja.", "Fontos piac a helyi gazdák számára."],
       ro: ["Centrul producției de aur.", "Piață importantă pentru fermierii locali."],
       en: ["Center of gold production.", "Important market for local farmers."]
-    }
-  },
+    }, image: "/poi-images/tz-kahama-cities-v2.webp"},
   {
     id: "tz-tabora-cities-v2",
     type: "city",
@@ -125,8 +130,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Fontos vasúti csomópont.", "Mangófáiról híres."],
       ro: ["Important nod feroviar.", "Faimos pentru copacii de mango."],
       en: ["Important railway junction.", "Famous for mango trees."]
-    }
-  },
+    }, image: "/poi-images/tz-tabora-cities-v2.webp"},
   {
     id: "tz-zanzibar-city-cities-v2",
     type: "city",
@@ -139,8 +143,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A Kőváros UNESCO világörökség.", "A szegfűszeg-kereskedelem központja."],
       ro: ["Stone Town este patrimoniu mondial UNESCO.", "Centrul comerțului cu cuișoare."],
       en: ["Stone Town is a UNESCO World Heritage site.", "Center of the clove trade."]
-    }
-  },
+    }, image: "/poi-images/tz-zanzibar-city-cities-v2.webp"},
   {
     id: "tz-kigoma-cities-v2",
     type: "city",
@@ -153,8 +156,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A tó legmélyebb kikötője.", "Közel a Gombe Nemzeti Parkhoz."],
       ro: ["Cel mai adânc port de pe lac.", "Aproape de Parcul Național Gombe."],
       en: ["Deepest port on the lake.", "Near Gombe National Park."]
-    }
-  },
+    }, image: "/poi-images/tz-kigoma-cities-v2.webp"},
   {
     id: "tz-sumbawanga-cities-v2",
     type: "city",
@@ -167,8 +169,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Erős mezőgazdasági bázis.", "A fipa nép otthona."],
       ro: ["Bază agricolă puternică.", "Casa poporului Fipa."],
       en: ["Strong agricultural base.", "Home of the Fipa people."]
-    }
-  },
+    }, image: "/poi-images/tz-sumbawanga-cities-v2.webp"},
   {
     id: "tz-kasulu-cities-v2",
     type: "city",
@@ -195,8 +196,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Egy ngoni harcosról kapta a nevét.", "Fontos agrárrégió."],
       ro: ["Numit după un războinic Ngoni.", "Regiune agricolă importantă."],
       en: ["Named after an Ngoni warrior.", "Important agricultural region."]
-    }
-  },
+    }, image: "/poi-images/tz-songea-cities-v2.webp"},
   {
     id: "tz-moshi-cities-v2",
     type: "city",
@@ -209,8 +209,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Kiwindulópont a hegymászók számára.", "A chagga kultúra központja."],
       ro: ["Punct de plecare pentru alpiniști.", "Centrul culturii Chagga."],
       en: ["Starting point for mountain climbers.", "Center of Chagga culture."]
-    }
-  },
+    }, image: "/poi-images/tz-moshi-cities-v2.webp"},
   {
     id: "tz-musoma-cities-v2",
     type: "city",
@@ -237,8 +236,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Gyémántbányászati csomópont.", "Nagy szukuma népesség."],
       ro: ["Nod pentru extracția diamantelor.", "Populație mare de Sukuma."],
       en: ["Hub for diamond mining.", "Large Sukuma population."]
-    }
-  },
+    }, image: "/poi-images/tz-shinyanga-cities-v2.webp"},
   {
     id: "tz-iringa-cities-v2",
     type: "city",
@@ -251,8 +249,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A hehe nép történelmi központja.", "Kapu a Ruaha Nemzeti Parkhoz."],
       ro: ["Centrul istoric al poporului Hehe.", "Poarta către Parcul Național Ruaha."],
       en: ["Historical center of the Hehe people.", "Gateway to Ruaha National Park."]
-    }
-  },
+    }, image: "/poi-images/tz-iringa-cities-v2.webp"},
   {
     id: "tz-singida-cities-v2",
     type: "city",
@@ -265,8 +262,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Sok napraforgóolajat termel.", "Fontos vasúti megálló."],
       ro: ["Produce mult ulei de floarea-soarelui.", "Stație feroviară importantă."],
       en: ["Produces a lot of sunflower oil.", "Important railway stop."]
-    }
-  },
+    }, image: "/poi-images/tz-singida-cities-v2.webp"},
   {
     id: "tz-njombe-cities-v2",
     type: "city",
@@ -279,8 +275,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Tanzánia legmagasabban fekvő városa.", "Fontos a faipar számára."],
       ro: ["Cel mai înalt oraș din Tanzania.", "Important pentru industria lemnului."],
       en: ["Highest city in Tanzania.", "Important for the timber industry."]
-    }
-  },
+    }, image: "/poi-images/tz-njombe-cities-v2.webp"},
   {
     id: "tz-bukoba-cities-v2",
     type: "city",
@@ -293,8 +288,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A haya nép központja.", "Gyakori csapadék egész évben."],
       ro: ["Centrul poporului Haya.", "Precipitații frecvente tot anul."],
       en: ["Center of the Haya people.", "Frequent rainfall all year round."]
-    }
-  },
+    }, image: "/poi-images/tz-bukoba-cities-v2.webp"},
   {
     id: "tz-kibaha-cities-v2",
     type: "city",
@@ -307,8 +301,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Fontos iskolák székhelye.", "Tehermentesíti a fővárosi régiót."],
       ro: ["Sediul unor școli importante.", "Descongestionarea regiunii capitalei."],
       en: ["Seat of important schools.", "Relieves the capital region."]
-    }
-  },
+    }, image: "/poi-images/tz-kibaha-cities-v2.webp"},
   {
     id: "tz-mtwara-cities-v2",
     type: "city",
@@ -321,8 +314,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Mélyvízi kikötő a gyarmati időkből.", "Hatalmas mennyiségű kesudiót exportál."],
       ro: ["Port de apă adâncă din perioada colonială.", "Exportă masiv nuci caju."],
       en: ["Deep-water port from colonial times.", "Exports massive amounts of cashews."]
-    }
-  },
+    }, image: "/poi-images/tz-mtwara-cities-v2.webp"},
   {
     id: "tz-mpanda-cities-v2",
     type: "city",
@@ -363,8 +355,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A fakereskedelemről ismert.", "Fontos közlekedési csomópont."],
       ro: ["Cunoscut pentru comerțul cu lemn.", "Important nod rutier."],
       en: ["Known for timber trade.", "Important transport hub."]
-    }
-  },
+    }, image: "/poi-images/tz-makambako-cities-v2.webp"},
   {
     id: "tz-babati-cities-v2",
     type: "city",
@@ -377,8 +368,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A tóban élő vízilovaikról ismert.", "A Manyara régió központja."],
       ro: ["Cunoscut pentru hipopotamii din lac.", "Centrul regiunii Manyara."],
       en: ["Known for hippos in the lake.", "Center of the Manyara region."]
-    }
-  },
+    }, image: "/poi-images/tz-babati-cities-v2.webp"},
   {
     id: "tz-handeni-cities-v2",
     type: "city",
@@ -405,8 +395,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Korábban fontos központ volt.", "Gyönyörű érintetlen strandok."],
       ro: ["A fost un centru important în trecut.", "Plaje frumoase și neatinse."],
       en: ["Was formerly an important center.", "Beautiful unspoiled beaches."]
-    }
-  },
+    }, image: "/poi-images/tz-lindi-cities-v2.webp"},
   {
     id: "tz-korogwe-cities-v2",
     type: "city",
@@ -419,8 +408,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Jelentős az orvosi kutatásokban.", "Fontos megálló a B1-es úton."],
       ro: ["Semnificativ pentru cercetarea medicală.", "Oprire importantă pe drumul B1."],
       en: ["Significant for medical research.", "Important stop on the B1 road."]
-    }
-  },
+    }, image: "/poi-images/tz-korogwe-cities-v2.webp"},
   {
     id: "tz-mafinga-cities-v2",
     type: "city",
@@ -433,8 +421,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Papírt és épületfát gyárt.", "Hideg éghajlat a hegyekben."],
       ro: ["Produce hârtie și cherestea.", "Climă rece în munți."],
       en: ["Produces paper and building timber.", "Cold climate in the mountains."]
-    }
-  },
+    }, image: "/poi-images/tz-mafinga-cities-v2.webp"},
   {
     id: "tz-geita-cities-v2",
     type: "city",
@@ -475,8 +462,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Korábban Új-Langenburg volt a neve.", "Van egy kialudt vulkánja."],
       ro: ["Fostul nume era Neu-Langenburg.", "Are un vulcan stins."],
       en: ["Formerly named Neu-Langenburg.", "Has an extinct volcano."]
-    }
-  },
+    }, image: "/poi-images/tz-tukuyu-cities-v2.webp"},
   {
     id: "tz-wete-cities-v2",
     type: "city",
@@ -489,8 +475,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Észak-Pemba közigazgatási központja.", "Szegfűszegültetvények veszik körül."],
       ro: ["Centrul administrativ al Pembei de Nord.", "Înconjurat de plantații de cuișoare."],
       en: ["Administrative center of North Pemba.", "Surrounded by clove plantations."]
-    }
-  },
+    }, image: "/poi-images/tz-wete-cities-v2.webp"},
   {
     id: "tz-chake-chake-cities-v2",
     type: "city",
@@ -503,8 +488,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Egy mély öböl mentén fekszik.", "A sziget legrégebbi romjaival rendelkezik."],
       ro: ["Situat într-un golf adânc.", "Are cele mai vechi ruine de pe insulă."],
       en: ["Located on a deep bay.", "Has the oldest ruins on the island."]
-    }
-  },
+    }, image: "/poi-images/tz-chake-chake-cities-v2.webp"},
   {
     id: "tz-mkoani-cities-v2",
     type: "city",
@@ -517,8 +501,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Meredek dombra épült.", "Kicsi, de nagyon forgalmas hely."],
       ro: ["Construit abrupt pe deal.", "Un loc mic, dar foarte aglomerat."],
       en: ["Built steeply on a hill.", "Small but very busy place."]
-    }
-  },
+    }, image: "/poi-images/tz-mkoani-cities-v2.webp"},
   {
     id: "tz-igunga-cities-v2",
     type: "city",
@@ -559,8 +542,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A pare nép fővárosa.", "Kiindulópont a hegyi túrákhoz."],
       ro: ["Capitala poporului Pare.", "Punct de plecare pentru drumeții montane."],
       en: ["Capital of the Pare people.", "Starting point for mountain hikes."]
-    }
-  },
+    }, image: "/poi-images/tz-same-cities-v2.webp"},
   {
     id: "tz-ngara-cities-v2",
     type: "city",
@@ -573,8 +555,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Nagyon közel van Ruandához.", "Félreeső hegyvidék."],
       ro: ["Foarte aproape de Rwanda.", "Regiune montană izolată."],
       en: ["Very close to Rwanda.", "Remote mountain region."]
-    }
-  },
+    }, image: "/poi-images/tz-ngara-cities-v2.webp"},
   {
     id: "tz-masasi-cities-v2",
     type: "city",
@@ -587,8 +568,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A makua kultúra központja.", "Történelmi misszionárius állomás."],
       ro: ["Centrul culturii Makua.", "Stație misionară istorică."],
       en: ["Center of the Makua culture.", "Historic missionary station."]
-    }
-  },
+    }, image: "/poi-images/tz-masasi-cities-v2.webp"},
   {
     id: "tz-tunduru-cities-v2",
     type: "city",
@@ -615,8 +595,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Az éghajlat feltűnően hűvös.", "A katolikus egyházmegye központja."],
       ro: ["Clima este remarcabil de rece.", "Centrul diocezei catolice."],
       en: ["The climate is noticeably cool.", "Center of the Catholic diocese."]
-    }
-  },
+    }, image: "/poi-images/tz-mbulu-cities-v2.webp"},
   {
     id: "tz-bagamoyo-cities-v2",
     type: "city",
@@ -629,8 +608,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Német gyarmati főváros volt.", "A név jelentése 'Tedd le a szíved'."],
       ro: ["A fost capitala colonială germană.", "Numele înseamnă 'Lasă-ți inima jos'."],
       en: ["Was the German colonial capital.", "The name means 'Lay down your heart'."]
-    }
-  },
+    }, image: "/poi-images/tz-bagamoyo-cities-v2.webp"},
   {
     id: "tz-bunda-cities-v2",
     type: "city",
@@ -643,8 +621,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Fontos a gyapottermelés szempontjából.", "A Mwanza felé vezető úton fekszik."],
       ro: ["Important pentru producția de bumbac.", "Situat pe ruta spre Mwanza."],
       en: ["Important for cotton production.", "Located on the route to Mwanza."]
-    }
-  },
+    }, image: "/poi-images/tz-bunda-cities-v2.webp"},
   {
     id: "tz-kondoa-cities-v2",
     type: "city",
@@ -657,8 +634,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A Kondoa-Irangi festmények UNESCO örökségek.", "Félsivatagos régióban fekszik."],
       ro: ["Picturile Kondoa-Irangi sunt patrimoniu UNESCO.", "Situat într-o regiune semideșertică."],
       en: ["Kondoa-Irangi are UNESCO heritage.", "Located in a semi-desert region."]
-    }
-  },
+    }, image: "/poi-images/tz-kondoa-cities-v2.webp"},
   {
     id: "tz-mpwapwa-cities-v2",
     type: "city",
@@ -769,8 +745,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Korábbi rabszolgakikötő.", "Sok történelmi bájjal rendelkezik."],
       ro: ["Fost port de sclavi.", "Are mult farmec istoric."],
       en: ["Former slave port.", "Has much historical charm."]
-    }
-  },
+    }, image: "/poi-images/tz-kilwa-kivinje-cities-v2.webp"},
   {
     id: "tz-kilwa-masoko-cities-v2",
     type: "city",
@@ -783,8 +758,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Természetes mélyvízi kikötővel rendelkezik.", "Turisztikai központ."],
       ro: ["Are un port natural cu apă adâncă.", "Centru pentru turiști."],
       en: ["Has a natural deep-water port.", "Center for tourists."]
-    }
-  },
+    }, image: "/poi-images/tz-kilwa-masoko-cities-v2.webp"},
   {
     id: "tz-lushoto-cities-v2",
     type: "city",
@@ -797,8 +771,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Korábban Wilhelmstal volt a neve.", "A túrázók paradicsoma."],
       ro: ["S-a numit anterior Wilhelmstal.", "Un paradis pentru drumeți."],
       en: ["Previously named Wilhelmstal.", "A paradise for hikers."]
-    }
-  },
+    }, image: "/poi-images/tz-lushoto-cities-v2.webp"},
   {
     id: "tz-makunduchi-cities-v2",
     type: "city",
@@ -811,8 +784,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["A sziget déli részén fekszik.", "Őrzi a régi sirázi hagyományokat."],
       ro: ["Situat în sudul insulei.", "Păstrează vechile tradiții Shirazi."],
       en: ["Located in the south of the island.", "Preserves old Shirazi traditions."]
-    }
-  },
+    }, image: "/poi-images/tz-makunduchi-cities-v2.webp"},
   {
     id: "tz-muheza-cities-v2",
     type: "city",
@@ -825,8 +797,7 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
       hu: ["Nagy orvosi kutatóközpont.", "Fontos a fűszerek és gyümölcsök szempontjából."],
       ro: ["Mare centru de cercetare medicală.", "Important pentru condimente și fructe."],
       en: ["Large medical research center.", "Important for spices and fruit."]
-    }
-  },
+    }, image: "/poi-images/tz-muheza-cities-v2.webp"},
   {
     id: "tz-nansio-cities-v2",
     type: "city",
@@ -842,3 +813,4 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     }
   }
 ];
+

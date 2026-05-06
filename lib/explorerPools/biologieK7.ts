@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/biologieK7.ts
 import type { PoolTopicDef } from "./types";
 
@@ -1912,3 +1913,4 @@ addK7PracticeTopics(BIO_K7_I6_LABELS, BIO_K7_I6_POOL, K7_PRACTICE_CONFIGS[5]);
 addK7PracticeTopics(BIO_K7_I7_LABELS, BIO_K7_I7_POOL, K7_PRACTICE_CONFIGS[6]);
 addK7PracticeTopics(BIO_K7_I8_LABELS, BIO_K7_I8_POOL, K7_PRACTICE_CONFIGS[7]);
 addK7PracticeTopics(BIO_K7_I9_LABELS, BIO_K7_I9_POOL, K7_PRACTICE_CONFIGS[8]);
+

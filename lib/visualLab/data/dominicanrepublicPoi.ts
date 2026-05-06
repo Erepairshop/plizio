@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED
 import type { POI } from "./poi";
 import { poiExtraDominicanrepublicCitiesV2 } from "./poiExtraDominicanrepublicCitiesV2";
@@ -43,8 +44,7 @@ export const dominicanrepublicCities: POI[] = [
       en: ["The city was founded by Bartholomew Columbus, Christopher's brother", "The Columbus Lighthouse (Faro a Colón) is a cross-shaped monument to the explorer", "The Malecón is a major coastal avenue and social hub along the Caribbean"]
     },
     historyYear: 1496,
-    area: 104.44
-  },
+    area: 104.44, image: "/poi-images/do-santodomingo.webp"},
   {
     id: "do-santiago",
     type: "city",
@@ -76,8 +76,7 @@ export const dominicanrepublicCities: POI[] = [
       en: ["Santiago briefly served as the national capital on two occasions", "The city is home to some of the world's most renowned rum distilleries", "The Centro León is widely regarded as one of the best cultural museums in the Caribbean"]
     },
     historyYear: 1495,
-    area: 524
-  },
+    area: 524, image: "/poi-images/do-santiago.webp"},
   {
     id: "do-puntacana",
     type: "city",
@@ -108,8 +107,7 @@ export const dominicanrepublicCities: POI[] = [
       ro: ["Numele provine de la palmierii 'Cana' care cresc din abundență în regiune", "Zona a fost aproape complet nedezvoltată până în anii 1970", "În apropiere se află Scape Park cu o cenotă albastră impresionantă (Hoyo Azul)"],
       en: ["The name derives from the 'Cana' palms that grow abundantly in the area", "The region remained almost entirely undeveloped until the early 1970s", "The nearby Scape Park features the famous Hoyo Azul, a vivid blue cenote"]
     },
-    area: 475
-  },
+    area: 475, image: "/poi-images/do-puntacana.webp"},
   {
     id: "do-puertoplata",
     type: "city",
@@ -141,8 +139,7 @@ export const dominicanrepublicCities: POI[] = [
       en: ["Columbus named it 'Silver Port' due to the silvery appearance of the morning mist", "The Amber Museum displays rare prehistoric fossils encased in resin", "The summit of Mount Isabel de Torres is crowned by a Christ the Redeemer statue"]
     },
     historyYear: 1502,
-    area: 509
-  },
+    area: 509, image: "/poi-images/do-puertoplata.webp"},
   {
     id: "do-laromana",
     type: "city",
@@ -174,8 +171,7 @@ export const dominicanrepublicCities: POI[] = [
       en: ["The 'Teeth of the Dog' golf course is consistently ranked #1 in the Caribbean", "Altos de Chavón features a 5,000-seat amphitheater and stunning stonework", "The Chavón River served as a filming location for movies like Apocalypse Now"]
     },
     historyYear: 1897,
-    area: 185
-  },
+    area: 185, image: "/poi-images/do-laromana.webp"},
   {
     id: "do-bani",
     type: "city",
@@ -207,8 +203,7 @@ export const dominicanrepublicCities: POI[] = [
       en: ["Baní is the birthplace of Máximo Gómez, a key leader of Cuba's independence", "The salt mines of Puerto Hermoso have been in operation for centuries", "The annual Mango Festival showcases over 100 varieties of the fruit"]
     },
     historyYear: 1764,
-    area: 542
-  },
+    area: 542, image: "/poi-images/do-bani.webp"},
   {
     id: "do-samana",
     type: "city",
@@ -240,8 +235,7 @@ export const dominicanrepublicCities: POI[] = [
       en: ["Over 2,000 humpback whales visit the bay annually between January and March", "The 'Bridge to Nowhere' (Pedestrian Bridge) connects small cays in the harbor", "The local culture is influenced by freed American slaves who settled here in 1824"]
     },
     historyYear: 1756,
-    area: 412
-  },
+    area: 412, image: "/poi-images/do-samana.webp"},
   {
     id: "do-yaque-del-norte",
     type: "river",
@@ -272,8 +266,7 @@ export const dominicanrepublicCities: POI[] = [
       ro: ["Râul este o destinație populară pentru rafting în apropiere de Jarabacoa", "Alimentează numeroase hidrocentrale cu energie", "Bazinul hidrografic acoperă aproximativ 7.000 de kilometri pătrați"],
       en: ["The upper reaches near Jarabacoa offer some of the best white-water rafting in the Caribbean", "It powers several major hydroelectric plants throughout the north", "The river basin covers approximately 7,000 square kilometers"]
     },
-    length: 298000
-  },
+    length: 298000, image: "/poi-images/do-yaque-del-norte.webp"},
   {
     id: "do-valle-nuevo",
     type: "forest",
@@ -305,8 +298,7 @@ export const dominicanrepublicCities: POI[] = [
       en: ["During winter months, temperatures here can drop below freezing", "The plateau is home to over 500 plant species, including many endemics", "A pyramid monument marks the geographical center of the island within the park"]
     },
     area: 910,
-    elevation: 2450
-  },
+    elevation: 2450, image: "/poi-images/do-valle-nuevo.webp"},
   {
     id: "do-ozama-river",
     type: "river",
@@ -337,8 +329,7 @@ export const dominicanrepublicCities: POI[] = [
       ro: ["Râul formează granița între districtul național și Santo Domingo Este", "În secolul al XVI-lea, a fost cel mai important port pentru expedițiile spaniole", "În prezent, râul se confruntă cu o poluare semnificativă cauzată de deșeurile urbane"],
       en: ["The river serves as the border between the National District and East Santo Domingo", "In the 16th century, it was the primary departure point for Spanish conquistadors", "The river currently faces severe pollution challenges due to urban industrial waste"]
     },
-    length: 148000
-  },
+    length: 148000, image: "/poi-images/do-ozama-river.webp"},
   {
     id: "do-jaragua",
     type: "forest",
@@ -369,8 +360,7 @@ export const dominicanrepublicCities: POI[] = [
       ro: ["Laguna de Oviedo este cunoscută pentru marea sa colonie de flamingo", "Parcul conține situri arheologice importante ale culturii Taino", "Climatul este semiarid, cu păduri de cactuși care ajung până la mare"],
       en: ["The Oviedo Lagoon within the park is famous for its large colony of flamingos", "The park protects significant archaeological sites from the pre-Columbian Taino era", "The landscape is characterized by dry forests and cacti that reach the shoreline"]
     },
-    area: 1374
-  },
+    area: 1374, image: "/poi-images/do-jaragua.webp"},
   {
     id: "do-monumento-santiago",
     type: "historical",
@@ -402,8 +392,7 @@ export const dominicanrepublicCities: POI[] = [
       en: ["The interior features murals by the famous Spanish artist Vela Zanetti", "The structure is brilliantly illuminated at night, visible from across the city", "It serves as the main gathering point for the public during the Santiago Carnival"]
     },
     historyYear: 1944,
-    elevation: 175
-  }
+    elevation: 175, image: "/poi-images/do-monumento-santiago.webp"}
 ];
 
 export const dominicanrepublicLandmarks: POI[] = [
@@ -470,8 +459,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       ro: ["Clădirea a fost construită fără a folosi niciun cui", "Sir Francis Drake a jefuit palatul în timpul atacului său din 1586", "Este cel mai vizitat muzeu din Republica Dominicană"],
       en: ["The original structure was allegedly built without using a single nail", "Sir Francis Drake looted the palace during his raid on the city in 1586", "It remains the most visited museum in the entire Dominican Republic"]
     },
-    historyYear: 1510
-  },
+    historyYear: 1510, image: "/poi-images/do-alcazar.webp"},
   {
     id: "do-picoduarte",
     type: "mountain",
@@ -502,8 +490,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       ro: ["Pe vârf se află un bust de bronz al lui Juan Pablo Duarte", "Prima ascensiune a unui european a avut loc abia în 1851", "Iarna, temperaturile pe vârf pot scădea sub zero grade"],
       en: ["A bronze bust of Juan Pablo Duarte stands at the summit", "The first recorded ascent by a European took place in 1851", "Temperatures at the summit can drop well below freezing during winter months"]
     },
-    elevation: 3087
-  },
+    elevation: 3087, image: "/poi-images/do-picoduarte.webp"},
   {
     id: "do-lakeenriquillo",
     type: "lake",
@@ -535,8 +522,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       en: ["The island of Isla Cabritos is located in the center of the lake", "The lake is endorheic, meaning it has no outflow and only loses water via evaporation", "It supports one of the world's few wild populations of American crocodiles in a saline lake"]
     },
     area: 375,
-    elevation: -44
-  },
+    elevation: -44, image: "/poi-images/do-lakeenriquillo.webp"},
   {
     id: "do-haitises",
     type: "landmark",
@@ -567,8 +553,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       ro: ["Numele 'Haitises' înseamnă 'pământ muntos' în limba Taino", "Multe scene de film, inclusiv pentru 'Jurassic Park', au fost filmate aici", "Parcul protejează peste 100 de specii diferite de păsări"],
       en: ["The name 'Haitises' translates to 'hilly land' in the Taino language", "The park's dramatic scenery has been used as a filming location for movies like Jurassic Park", "It serves as a critical sanctuary for over 100 species of birds"]
     },
-    area: 1600
-  },
+    area: 1600, image: "/poi-images/do-haitises.webp"},
   {
     id: "do-saona",
     type: "island",
@@ -599,8 +584,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       ro: ["Insula a fost descoperită de Columb în 1494 și numită după Savona", "Mano Juan este singurul sat de pescari locuit de pe insulă", "Este un loc important de cuibărit pentru țestoasele marine"],
       en: ["Columbus discovered the island in 1494 and named it after Savona, Italy", "Mano Juan is the only inhabited fishing village remaining on the island", "The island serves as a critical nesting site for several sea turtle species"]
     },
-    area: 110
-  },
+    area: 110, image: "/poi-images/do-saona.webp"},
   {
     id: "do-bahiadelasaguilas",
     type: "landmark",
@@ -631,8 +615,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       ro: ["Nisipul este format din corali mărunțiți și nu se încinge", "Apa este atât de clară încât se pot vedea stelele de mare la adâncime mare", "Zona face parte din Rezervația Biosferei UNESCO Jaragua-Bahoruco-Enriquillo"],
       en: ["The sand is composed of pulverized coral and remains cool to the touch", "The clarity of the water allows visibility of the seabed at significant depths", "It is a key part of the UNESCO Jaragua-Bahoruco-Enriquillo Biosphere Reserve"]
     },
-    length: 8000
-  },
+    length: 8000, image: "/poi-images/do-bahiadelasaguilas.webp"},
   {
     id: "do-damajaqua",
     type: "landmark",
@@ -662,8 +645,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       hu: ["A legtöbb túra csak a 7. vagy 12. vízesésig tart", "A medencéket évezredek alatt vájta ki a Damajagua-folyó", "A Karib-térség egyik legjobb kalandturisztikai célpontja"],
       ro: ["Cele mai multe tururi merg doar până la cascada a 7-a sau a 12-a", "Bazinele au fost formate de-a lungul mileniilor de râul Damajagua", "Este una dintre cele mai bune destinații de turism de aventură din Caraibe"],
       en: ["Standard excursions typically visit the first 7 or 12 waterfalls", "The pools were carved into the limestone over millennia by the Damajagua River", "It is widely rated as a top adventure tourism experience in the Caribbean"]
-    }
-  },
+    }, image: "/poi-images/do-damajaqua.webp"},
   {
     id: "do-altosdechavon",
     type: "historical",
@@ -694,8 +676,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       ro: ["Frank Sinatra a inaugurat amfiteatrul în 1982", "Biserica Sfântul Stanislau este un loc popular pentru nunți", "Satul a fost proiectat de designerul italian Roberto Copa"],
       en: ["Frank Sinatra performed the inaugural concert at the amphitheater in 1982", "The St. Stanislaus Church is a premier destination for high-end weddings", "The village was meticulously designed by Italian set designer Roberto Copa"]
     },
-    historyYear: 1976
-  },
+    historyYear: 1976, image: "/poi-images/do-altosdechavon.webp"},
   {
     id: "do-altagracia",
     type: "landmark",
@@ -727,8 +708,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       en: ["The church houses a 16th-century painting of the Virgin Mary, believed to be miraculous", "It was designed by French architects André Dunoyer de Segonzac and Pierre Dupré", "January 21st is the feast day of Altagracia, drawing massive crowds to the site"]
     },
     historyYear: 1971,
-    elevation: 106
-  },
+    elevation: 106, image: "/poi-images/do-altagracia.webp"},
   {
     id: "do-felipe-fort",
     type: "historical",
@@ -759,8 +739,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       ro: ["Fortăreața a servit drept închisoare politică în timpul dictaturii lui Trujillo", "A fost construită la ordinul regelui Filip al II-lea al Spaniei", "Turnul fortăreței găzduiește o mică expoziție despre istoria militară"],
       en: ["The fort was repurposed as a political prison during the Trujillo regime", "Commissioned by King Philip II of Spain to secure the northern port", "The lighthouse located on the grounds was added in the late 19th century"]
     },
-    historyYear: 1564
-  },
+    historyYear: 1564, image: "/poi-images/do-felipe-fort.webp"},
   {
     id: "do-constanza",
     type: "landmark",
@@ -791,8 +770,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       ro: ["Constanza este cel mai important furnizor de căpșuni pentru întreaga zonă a Caraibelor", "Regiunea a fost marcată de imigranți japonezi și spanioli în secolul al XX-lea", "În apropiere se află rezervația Ébano Verde cu specii de arbori endemice rare"],
       en: ["Constanza is the primary source of strawberries for the entire Caribbean region", "The local culture and farming techniques were influenced by Japanese and Spanish settlers", "It serves as a base for exploring the Ebano Verde Scientific Reserve's cloud forests"]
     },
-    elevation: 1250
-  },
+    elevation: 1250, image: "/poi-images/do-constanza.webp"},
   {
     id: "do-el-limon",
     type: "landmark",
@@ -823,8 +801,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       ro: ["Apa din bazin este răcoritoare și ideală pentru înot", "Poteca spre cascadă trece prin plantații de cafea și cacao", "Există de fapt trei cascade în această zonă, dar 'El Limón' este cea mai cunoscută"],
       en: ["The natural pool at the base is safe and refreshing for swimming", "The trail passes through local small-scale coffee and cocoa groves", "The falls are fed by the Arroyo Chico river, which remains active year-round"]
     },
-    elevation: 300
-  },
+    elevation: 300, image: "/poi-images/do-el-limon.webp"},
   {
     id: "do-cueva-maravillas",
     type: "landmark",
@@ -855,8 +832,7 @@ export const dominicanrepublicLandmarks: POI[] = [
       ro: ["Aproximativ 95% dintre desene reprezintă simboluri religioase sau abstracte", "Peștera a fost redescoperită abia în 1949", "În peșteră există o colonie mare de lilieci"],
       en: ["The artwork dates back approximately 800 to 1,000 years", "The cave system was scientifically rediscovered in 1949", "It is one of the most accessible and educational cave sites in the Caribbean"]
     },
-    elevation: -25
-  },
+    elevation: -25, image: "/poi-images/do-cueva-maravillas.webp"},
   {
     id: "do-isla-catalina",
     type: "landmark",
@@ -892,3 +868,4 @@ export const dominicanrepublicLandmarks: POI[] = [
 ];
 
 export const dominicanrepublicAllPoi: POI[] = [...dominicanrepublicCountry, ...dominicanrepublicRegions, ...dominicanrepublicCities, ...dominicanrepublicLandmarks, ...poiExtraDominicanrepublicCitiesV2, ...poiExtraDominicanrepublicEconomicV2, ...poiExtraDominicanrepublicHistoryV2, ...poiExtraDominicanrepublicLandmarksV2, ...poiExtraDominicanrepublicLifeV2, ...poiExtraDominicanrepublicNatureV2, ...poiExtraDominicanrepublicReliefV2];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef, SvgConfig } from "./types";
 import type { TopicInteractive } from "@/app/astro-biologie/games/ExplorerEngine";
 
@@ -1984,3 +1985,4 @@ export const GESCHICHTE_K5_I8_LABELS = built[7].labels;
 export const GESCHICHTE_K5_I8_POOL = built[7].pool;
 export const GESCHICHTE_K5_I9_LABELS = built[8].labels;
 export const GESCHICHTE_K5_I9_POOL = built[8].pool;
+

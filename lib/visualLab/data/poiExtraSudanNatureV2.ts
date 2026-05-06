@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSudanNatureV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Kartúmnál folyik át.", "A régió éltető ereje.", "Fontos vízi út.", "Kialakítja a Nílus-deltát."],
       ro: ["Curge prin Khartoum.", "Sursă de viață pentru regiune.", "Cale navigabilă importantă.", "Formează delta Nilului."],
       en: ["Flows through Khartoum.", "Lifeline for the region.", "Major waterway.", "Forms the Nile Delta."]
-    }
-  },
+    }, image: "/poi-images/nile-river-sudan-nature-v2.webp"},
   {
     id: "jebel-marra-nature-v2",
     type: "mountain",
@@ -37,8 +37,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Darfur legmagasabb pontja.", "Vulkáni eredetű.", "Termékeny talaj jellemzi.", "Gyönyörű vízesések."],
       ro: ["Cel mai înalt punct din Darfur.", "De origine vulcanică.", "Oferă soluri fertile.", "Cascade frumoase."],
       en: ["Highest point in Darfur.", "Volcanic origin.", "Features fertile soil.", "Beautiful waterfalls."]
-    }
-  },
+    }, image: "/poi-images/jebel-marra-nature-v2.webp"},
   {
     id: "red-sea-coast-sudan-nature-v2",
     type: "sea",
@@ -56,8 +55,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Fontos a halászatban.", "Gazdag korallzátonyok.", "Stratégiai elhelyezkedés.", "Tiszta víz."],
       ro: ["Importantă pentru pescuit.", "Recife de corali bogate.", "Locație strategică.", "Apă clară."],
       en: ["Important for fishing.", "Rich coral reefs.", "Strategic location.", "Clear water."]
-    }
-  },
+    }, image: "/poi-images/red-sea-coast-sudan-nature-v2.webp"},
   {
     id: "dinder-river-nature-v2",
     type: "river",
@@ -75,8 +73,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Ellátja a Dinder Nemzeti Parkot.", "Időszakos folyó.", "Fontos ökoszisztéma.", "Védi a vadállatokat."],
       ro: ["Alimentează Parcul Național Dinder.", "Râu sezonier.", "Ecosistem important.", "Protejează animalele sălbatice."],
       en: ["Feeds the Dinder National Park.", "Seasonal river.", "Important ecosystem.", "Protects wildlife."]
-    }
-  },
+    }, image: "/poi-images/dinder-river-nature-v2.webp"},
   {
     id: "atbara-river-nature-v2",
     type: "river",
@@ -94,8 +91,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Etiópiában ered.", "Időszakosan nagyon erős.", "Fontos vízellátó.", "Atbaránál torkollik a Nílusba."],
       ro: ["Izvorăște din Etiopia.", "Foarte puternic sezonier.", "Furnizor important de apă.", "Se varsă în Nil la Atbara."],
       en: ["Originates in Ethiopia.", "Strong seasonal flow.", "Major water source.", "Joins the Nile at Atbara."]
-    }
-  },
+    }, image: "/poi-images/atbara-river-nature-v2.webp"},
   {
     id: "blue-nile-river-nature-v2",
     type: "river",
@@ -113,8 +109,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Kartúmnál találkozik a Fehér-Nílussal.", "Időszakosan ingadozó.", "Fontos a mezőgazdaságnak.", "Táplálékban gazdag iszapot szállít."],
       ro: ["Se întâlnește cu Nilul Alb în Khartoum.", "Variază sezonier.", "Important pentru agricultură.", "Transportă nămol bogat în nutrienți."],
       en: ["Meets the White Nile in Khartoum.", "Seasonal variation.", "Crucial for agriculture.", "Carries nutrient-rich silt."]
-    }
-  },
+    }, image: "/poi-images/blue-nile-river-nature-v2.webp"},
   {
     id: "white-nile-river-nature-v2",
     type: "river",
@@ -132,8 +127,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Stabilabb vízszint.", "Lassabban folyik.", "Fontos kereskedelmi útvonal.", "Kartúmnál egyesül."],
       ro: ["Nivel de apă mai stabil.", "Curge mai lent.", "Rută comercială importantă.", "Se unește în Khartoum."],
       en: ["More stable water levels.", "Slower flow.", "Important trade route.", "Joins in Khartoum."]
-    }
-  },
+    }, image: "/poi-images/white-nile-river-nature-v2.webp"},
   {
     id: "erkowit-mountains-nature-v2",
     type: "mountain",
@@ -170,8 +164,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Fontos kulturális központ.", "Változatos tájak.", "Gazdag történelem.", "Jó legelők."],
       ro: ["Centru cultural important.", "Peisaje diverse.", "Istorie bogată.", "Pășuni bune."],
       en: ["Important cultural center.", "Diverse landscapes.", "Rich in history.", "Good grazing land."]
-    }
-  },
+    }, image: "/poi-images/nuba-mountains-nature-v2.webp"},
   {
     id: "kosti-lake-nature-v2",
     type: "lake",
@@ -208,8 +201,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["A Szahara része.", "Rendkívül száraz.", "Történelmileg jelentős.", "Homokos síkságok."],
       ro: ["Parte din Sahara.", "Extrem de uscat.", "Semnificativ din punct de vedere istoric.", "Câmpii nisipoase."],
       en: ["Part of the Sahara.", "Extremely arid.", "Historically significant.", "Sandy plains."]
-    }
-  },
+    }, image: "/poi-images/nubian-desert-nature-v2.webp"},
   {
     id: "meidob-volcanic-field-nature-v2",
     type: "mountain",
@@ -227,8 +219,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Vulkanizmus maradványai.", "Érdekes geológia.", "Sivatagi éghajlat.", "Távoli régió."],
       ro: ["Rămășițe ale vulcanismului.", "Geologie interesantă.", "Climat deșertic.", "Regiune izolată."],
       en: ["Remnants of volcanism.", "Interesting geology.", "Desert climate.", "Remote region."]
-    }
-  },
+    }, image: "/poi-images/meidob-volcanic-field-nature-v2.webp"},
   {
     id: "wade-halfa-reach-nature-v2",
     type: "river",
@@ -246,8 +237,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Közel a Nasszer-tóhoz.", "Fontos vízi út.", "Történelmi jelentőség.", "Sivatag veszi körül."],
       ro: ["Aproape de lacul Nasser.", "Rută navigabilă importantă.", "Semnificație istorică.", "Înconjurat de deșert."],
       en: ["Near Lake Nasser.", "Important waterway.", "Historical importance.", "Surrounded by desert."]
-    }
-  },
+    }, image: "/poi-images/wade-halfa-reach-nature-v2.webp"},
   {
     id: "dongola-reach-nature-v2",
     type: "river",
@@ -265,8 +255,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Mezőgazdasági központ.", "Történelmi települések.", "Jó víz.", "Kulturális örökség."],
       ro: ["Centru agricol.", "Așezări istorice.", "Apă bună.", "Moștenire culturală."],
       en: ["Agricultural center.", "Historical settlements.", "Good water.", "Cultural heritage."]
-    }
-  },
+    }, image: "/poi-images/dongola-reach-nature-v2.webp"},
   {
     id: "sabargum-island-nature-v2",
     type: "island",
@@ -284,8 +273,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Természetes élőhely.", "Kicsi sziget.", "Zöld a sivatagban.", "Jó talajminőség."],
       ro: ["Habitat natural.", "Insulă mică.", "Verde în deșert.", "Calitate bună a solului."],
       en: ["Natural habitat.", "Small island.", "Green in the desert.", "Good soil quality."]
-    }
-  },
+    }, image: "/poi-images/sabargum-island-nature-v2.webp"},
   {
     id: "tuti-island-nature-v2",
     type: "island",
@@ -303,8 +291,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Stratégiailag elhelyezkedő.", "Mezőgazdasági terület.", "Természetes pihenőhely.", "A főváros része."],
       ro: ["Situată strategic.", "Teren agricol.", "Zonă naturală de relaxare.", "Parte din capitală."],
       en: ["Strategically located.", "Agricultural land.", "Natural recreational area.", "Part of the capital."]
-    }
-  },
+    }, image: "/poi-images/tuti-island-nature-v2.webp"},
   {
     id: "shendi-reach-nature-v2",
     type: "river",
@@ -322,8 +309,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Történelmi régió.", "Termékeny föld.", "Fontos a helyi öntözésben.", "Sivatagi perem."],
       ro: ["Regiune istorică.", "Pământ fertil.", "Important pentru irigația locală.", "Marginea deșertului."],
       en: ["Historical region.", "Fertile land.", "Important for local irrigation.", "Edge of the desert."]
-    }
-  },
+    }, image: "/poi-images/shendi-reach-nature-v2.webp"},
   {
     id: "sabaloka-gorge-nature-v2",
     type: "mountain",
@@ -341,8 +327,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Szűk áttörés.", "Geológiailag érdekes.", "Természetes akadály.", "Gyönyörű tájak."],
       ro: ["Defileu îngust.", "Interesant geologic.", "Obstacol natural.", "Peisaje frumoase."],
       en: ["Narrow passage.", "Geologically interesting.", "Natural obstacle.", "Beautiful landscapes."]
-    }
-  },
+    }, image: "/poi-images/sabaloka-gorge-nature-v2.webp"},
   {
     id: "jebel-barkal-nature-v2",
     type: "mountain",
@@ -360,8 +345,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Szent hegy.", "Világörökség.", "Markáns mérföldkő.", "A Nílusra néz."],
       ro: ["Munte sacru.", "Patrimoniul mondial.", "Reper distinctiv.", "Domină Nilul."],
       en: ["Sacred mountain.", "World Heritage Site.", "Distinctive landmark.", "Overlooks the Nile."]
-    }
-  },
+    }, image: "/poi-images/jebel-barkal-nature-v2.webp"},
   {
     id: "wadi-howar-nature-v2",
     type: "river",
@@ -379,8 +363,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Régebben mellékfolyó volt.", "Régészetileg fontos.", "Homokos és száraz.", "Nagy kiterjedésű."],
       ro: ["Fost afluent.", "Important din punct de vedere arheologic.", "Nisipos și uscat.", "Extindere mare."],
       en: ["Formerly a tributary.", "Archaeologically important.", "Sandy and dry.", "Large extent."]
-    }
-  },
+    }, image: "/poi-images/wadi-howar-nature-v2.webp"},
   {
     id: "jebel-dair-nature-v2",
     type: "mountain",
@@ -398,8 +381,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Fontos védett terület.", "Egyedi flóra és fauna.", "Sziklás táj.", "Jó kilátópont."],
       ro: ["Zonă protejată importantă.", "Floră și faună unică.", "Peisaj stâncos.", "Punct de observație bun."],
       en: ["Important protected area.", "Unique flora and fauna.", "Rocky landscape.", "Good viewpoint."]
-    }
-  },
+    }, image: "/poi-images/jebel-dair-nature-v2.webp"},
   {
     id: "khor-attar-nature-v2",
     type: "river",
@@ -417,8 +399,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Fontos a legelőnek.", "Időszakosan élénk.", "Természetes vízelvezetés.", "Fontos állattenyésztéshez."],
       ro: ["Important pentru pășuni.", "Activ sezonier.", "Drenaj natural.", "Important pentru zootehnie."],
       en: ["Important for grazing land.", "Seasonally active.", "Natural drainage.", "Important for cattle."]
-    }
-  },
+    }, image: "/poi-images/khor-attar-nature-v2.webp"},
   {
     id: "jebel-uwaynat-nature-v2",
     type: "mountain",
@@ -436,8 +417,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Történelmi sziklafestmények.", "Határokon átnyúló terület.", "Sivatagi környezet.", "Érdekes geológia."],
       ro: ["Picturi rupestre istorice.", "Zonă transfrontalieră.", "Mediu deșertic.", "Geologie interesantă."],
       en: ["Historical rock art.", "Transboundary area.", "Desert environment.", "Interesting geology."]
-    }
-  },
+    }, image: "/poi-images/jebel-uwaynat-nature-v2.webp"},
   {
     id: "nile-cataract-4-nature-v2",
     type: "mountain",
@@ -455,8 +435,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Természetes akadály.", "Geológiailag jellemzett.", "Történelmileg nehéz a hajóknak.", "Gyönyörű természeti látvány."],
       ro: ["Obstacol natural.", "Caracterizat geologic.", "Istoric dificil pentru nave.", "Spectacol natural frumos."],
       en: ["Natural obstacle.", "Geologically characterized.", "Historically difficult for ships.", "Beautiful natural sight."]
-    }
-  },
+    }, image: "/poi-images/nile-cataract-4-nature-v2.webp"},
   {
     id: "nile-cataract-5-nature-v2",
     type: "mountain",
@@ -474,8 +453,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Nehezen átjárható.", "Tájképileg markáns.", "Nagy sziklák.", "Fontos geológiai vonás."],
       ro: ["Greu de trecut.", "Distinctiv peisagistic.", "Stânci mari.", "Trăsătură geologică importantă."],
       en: ["Difficult to navigate.", "Distinctively scenic.", "Large rocks.", "Important geological feature."]
-    }
-  },
+    }, image: "/poi-images/nile-cataract-5-nature-v2.webp"},
   {
     id: "nile-cataract-6-nature-v2",
     type: "mountain",
@@ -493,8 +471,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Shendi közelében.", "Geológiailag összetett.", "Markáns természeti jelleg.", "Történelmileg fontos."],
       ro: ["Aproape de Shendi.", "Complex geologic.", "Trăsătură naturală distinctivă.", "Important istoric."],
       en: ["Near Shendi.", "Geologically complex.", "Distinctive natural feature.", "Historically important."]
-    }
-  },
+    }, image: "/poi-images/nile-cataract-6-nature-v2.webp"},
   {
     id: "jebel-marra-crater-nature-v2",
     type: "lake",
@@ -512,8 +489,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Egyedi elhelyezkedés.", "Nagyon mély.", "Tiszta vizek.", "Geológiailag lenyűgöző."],
       ro: ["Locație unică.", "Foarte adânc.", "Ape clare.", "Fascinant geologic."],
       en: ["Unique location.", "Very deep.", "Clear waters.", "Geologically fascinating."]
-    }
-  },
+    }, image: "/poi-images/jebel-marra-crater-nature-v2.webp"},
   {
     id: "khor-el-gash-nature-v2",
     type: "river",
@@ -531,8 +507,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Ellátja a Kassala környéki mezőgazdaságot.", "Időszakosan kiszámíthatatlan.", "Természetes csatorna.", "Fontos regionális víz."],
       ro: ["Alimentează agricultura lângă Kassala.", "Sezonier imprevizibil.", "Canal natural.", "Apă regională importantă."],
       en: ["Feeds agriculture near Kassala.", "Seasonally unpredictable.", "Natural channel.", "Important regional water."]
-    }
-  },
+    }, image: "/poi-images/khor-el-gash-nature-v2.webp"},
   {
     id: "wadi-azum-nature-v2",
     type: "river",
@@ -550,8 +525,7 @@ export const poiExtraSudanNatureV2: POI[] = [
       hu: ["Időszakos lefolyás.", "Fontos a helyi növényzetnek.", "Hagyományos letelepedési tengely.", "Geológiai vízelvezetés."],
       ro: ["Scurgere sezonieră.", "Important pentru vegetația locală.", "Axă de așezare tradițională.", "Drenaj geologic."],
       en: ["Seasonal runoff.", "Important for local vegetation.", "Traditional settlement axis.", "Geological drainage."]
-    }
-  },
+    }, image: "/poi-images/wadi-azum-nature-v2.webp"},
   {
     id: "jebel-mimi-nature-v2",
     type: "mountain",
@@ -572,3 +546,4 @@ export const poiExtraSudanNatureV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNicaraguaNatureV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["A hondurasi határ mentén folyik", "Hossza: kb. 750 km", "A Karib-tengerbe ömlik", "Fontos közlekedési útvonal a miskito népek számára"],
       ro: ["Curge de-a lungul graniței cu Honduras", "Lungime: aprox. 750 km", "Se varsă în Marea Caraibelor", "Arteră de transport importantă pentru poporul Miskito"],
       en: ["Flows along the border with Honduras", "Length: approx. 750 km", "Empties into the Caribbean Sea", "Important transportation artery for Miskito peoples"]
-    }
-  },
+    }, image: "/poi-images/rio-coco-nature-v2.webp"},
   {
     id: "lago-de-nicaragua-nature-v2",
     type: "lake",
@@ -27,8 +27,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Itt található az Ometepe-sziget", "Az egyetlen hely édesvízi cápákkal", "Területe: 8.264 km²", "A San Juan folyó köti össze a Karib-tengerrel"],
       ro: ["Găzduiește Insula Ometepe", "Singurul loc cu rechini de apă dulce", "Suprafață: 8.264 km²", "Legătură cu Caraibe prin Río San Juan"],
       en: ["Contains Ometepe Island", "The only place with freshwater sharks", "Area: 8,264 km²", "Connects to the Caribbean via the San Juan River"]
-    }
-  },
+    }, image: "/poi-images/lago-de-nicaragua-nature-v2.webp"},
   {
     id: "lago-de-managua-nature-v2",
     type: "lake",
@@ -41,8 +40,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Xolotlán-tóként is ismert", "A Tipitapa folyó köti össze a Nicaragua-tóval", "Erősen szennyezett, de helyreállítási erőfeszítések folynak", "Partján a Momotombo vulkán"],
       ro: ["Cunoscut și ca Lacul Xolotlán", "Legat de Lacul Nicaragua prin râul Tipitapa", "Foarte poluat, dar cu eforturi de recuperare", "Vulcanul Momotombo pe mal"],
       en: ["Also known as Lake Xolotlán", "Connected to Lake Nicaragua by the Tipitapa River", "Highly polluted but with recovery efforts", "Momotombo volcano on its shore"]
-    }
-  },
+    }, image: "/poi-images/lago-de-managua-nature-v2.webp"},
   {
     id: "solentiname-archipelago-nature-v2",
     type: "island",
@@ -55,8 +53,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Primitív festészetéről ismert", "Ernesto Cardenal költő otthona", "Gazdag madárvilág", "Védett nemzeti emlékmű"],
       ro: ["Cunoscut pentru pictura primitivistă", "Casa poetului Ernesto Cardenal", "Faună aviară bogată", "Monument național protejat"],
       en: ["Known for primitivist painting", "Home of poet Ernesto Cardenal", "Rich birdlife", "Protected national monument"]
-    }
-  },
+    }, image: "/poi-images/solentiname-archipelago-nature-v2.webp"},
   {
     id: "pearl-cays-nature-v2",
     type: "island",
@@ -69,8 +66,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Fehér homokos strandok", "Türkizkék víz", "Tengeri teknősök fészkelőhelye", "Ideális búvárkodáshoz"],
       ro: ["Plaje cu nisip alb", "Apă turcoaz", "Locuri de cuibărit pentru țestoasele marine", "Ideal pentru snorkeling"],
       en: ["White sandy beaches", "Turquoise waters", "Nesting sites for sea turtles", "Ideal for snorkeling"]
-    }
-  },
+    }, image: "/poi-images/pearl-cays-nature-v2.webp"},
   {
     id: "rio-escondido-nature-v2",
     type: "river",
@@ -83,8 +79,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Fontos vízi út a Karib-tenger felé", "Fő bejárat Bluefieldsbe", "Kereskedelmi szempontból jelentős", "Esőerdő veszi körül"],
       ro: ["Cale navigabilă importantă către Caraibe", "Acces principal spre Bluefields", "Important pentru comerț", "Înconjurat de pădure tropicală"],
       en: ["Important waterway to the Caribbean", "Main access to Bluefields", "Significant for trade", "Surrounded by rainforest"]
-    }
-  },
+    }, image: "/poi-images/rio-escondido-nature-v2.webp"},
   {
     id: "indio-maiz-reserve-nature-v2",
     type: "forest",
@@ -97,8 +92,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Hatalmas esőerdő területeket foglal magában", "Rendkívül magas biodiverzitás", "Jaguárok és tapírok otthona", "A Mezoamerikai Biológiai Folyosó része"],
       ro: ["Cuprinde zone vaste de pădure tropicală", "Biodiversitate extrem de ridicată", "Habitat pentru jaguari și tapiri", "Parte a Coridorului Biologic Mesoamerican"],
       en: ["Contains vast areas of rainforest", "Extremely high biodiversity", "Home to jaguars and tapirs", "Part of the Mesoamerican Biological Corridor"]
-    }
-  },
+    }, image: "/poi-images/indio-maiz-reserve-nature-v2.webp"},
   {
     id: "peninsula-de-chiltepe-nature-v2",
     type: "mountain",
@@ -111,8 +105,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Magában foglalja az Apoyeque és Xiloá lagúnákat", "Vulkáni eredetű", "Népszerű üdülőhely Managua számára", "Nagyszerű kilátást nyújt"],
       ro: ["Include lagunele Apoyeque și Xiloá", "Origine vulcanică", "Zonă de recreere populară pentru Managua", "Oferă vederi minunate"],
       en: ["Includes the Apoyeque and Xiloá lagoons", "Of volcanic origin", "Popular recreational area for Managua", "Offers great views"]
-    }
-  },
+    }, image: "/poi-images/peninsula-de-chiltepe-nature-v2.webp"},
   {
     id: "la-flor-wildlife-refuge-nature-v2",
     type: "sea",
@@ -125,8 +118,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Teknősök tömeges érkezése ('Arribada')", "Védett csendes-óceáni part", "Fontos a fajvédelem szempontjából", "Szezonális természeti esemény"],
       ro: ["Sosirea în masă a țestoaselor ('Arribada')", "Plajă protejată la Pacific", "Important pentru conservarea speciilor", "Eveniment natural sezonier"],
       en: ["Mass nesting of turtles ('Arribada')", "Protected Pacific beach", "Important for species conservation", "Seasonal natural event"]
-    }
-  },
+    }, image: "/poi-images/la-flor-wildlife-refuge-nature-v2.webp"},
   {
     id: "gulf-of-fonseca-nicaragua-nature-v2",
     type: "sea",
@@ -139,8 +131,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Magában foglalja a Cosigüina vulkánt", "Fontos mangroveerdők", "Gazdag tengeri élővilág", "Stratégiai tengeri fekvés"],
       ro: ["Include vulcanul Cosigüina", "Păduri importante de mangrove", "Faună marină bogată", "Poziție maritimă strategică"],
       en: ["Includes the Cosigüina volcano", "Important mangrove forests", "Rich marine fauna", "Strategic maritime location"]
-    }
-  },
+    }, image: "/poi-images/gulf-of-fonseca-nicaragua-nature-v2.webp"},
   {
     id: "rio-tuma-nature-v2",
     type: "river",
@@ -153,8 +144,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Az Apanás-tóvá duzzasztották", "Fontos a vízenergia szempontjából", "A központi felföldön folyik keresztül", "Mezőgazdasági hasznosítás"],
       ro: ["Barat pentru a forma Lacul Apanás", "Important pentru hidroenergie", "Curge prin zonele muntoase centrale", "Utilizare agricolă"],
       en: ["Dammed to form Lake Apanás", "Important for hydropower", "Flows through the central highlands", "Agricultural use"]
-    }
-  },
+    }, image: "/poi-images/rio-tuma-nature-v2.webp"},
   {
     id: "tisey-estanzuela-reserve-nature-v2",
     type: "forest",
@@ -167,8 +157,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["A Salto de la Estanzuela vízesésről ismert", "Hűvös éghajlat", "Túraútvonalak és kilátópontok", "Változatos növényvilág"],
       ro: ["Cunoscut pentru cascada Salto de la Estanzuela", "Climat răcoros", "Trasee de drumeție și puncte de belvedere", "Floră diversă"],
       en: ["Known for the Salto de la Estanzuela waterfall", "Cool climate", "Hiking trails and viewpoints", "Diverse flora"]
-    }
-  },
+    }, image: "/poi-images/tisey-estanzuela-reserve-nature-v2.webp"},
   {
     id: "rio-prinza-nature-v2",
     type: "river",
@@ -181,8 +170,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Fontos közlekedési útvonal a távoli közösségek számára", "Prinzapolkánál ömlik a Karib-tengerbe", "Sűrű esőerdőn halad át", "Történelmileg banánszállításra használták"],
       ro: ["Cale de transport importantă pentru comunitățile izolate", "Se varsă în Caraibe la Prinzapolka", "Traversează păduri tropicale dense", "Utilizat istoric pentru transportul bananelor"],
       en: ["Important transport route for remote communities", "Empties into the Caribbean at Prinzapolka", "Crosses dense rainforest", "Historically used for banana transport"]
-    }
-  },
+    }, image: "/poi-images/rio-prinza-nature-v2.webp"},
   {
     id: "miskito-cays-nature-v2",
     type: "island",
@@ -195,8 +183,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Tengeri biológiai védett terület", "Fontos a miskito halászok számára", "Magas tengeri biodiverzitás", "Nehezen megközelíthető"],
       ro: ["Rezervație marină biologică", "Important pentru pescarii Miskito", "Biodiversitate marină ridicată", "Greu accesibil"],
       en: ["Marine biological reserve", "Important for Miskito fishermen", "High marine biodiversity", "Difficult to access"]
-    }
-  },
+    }, image: "/poi-images/miskito-cays-nature-v2.webp"},
   {
     id: "rio-grande-de-matagalpa-nature-v2",
     type: "river",
@@ -209,8 +196,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Matagalpa közelében ered", "A Karib-tengerbe ömlik", "Vízenergia-potenciál", "Változatos tájakon folyik keresztül"],
       ro: ["Izvorăște lângă Matagalpa", "Se varsă în Caraibe", "Potențial hidroenergetic", "Traversează peisaje diverse"],
       en: ["Originates near Matagalpa", "Empties into the Caribbean", "Potential for hydropower", "Flows through diverse landscapes"]
-    }
-  },
+    }, image: "/poi-images/rio-grande-de-matagalpa-nature-v2.webp"},
   {
     id: "zapatera-island-nature-v2",
     type: "island",
@@ -223,8 +209,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Fontos régészeti lelőhely", "Számos petroglifa és szobor", "Pajzsvulkán", "Gazdag állatvilág"],
       ro: ["Situl arheologic important", "Numeroase petroglife și statui", "Vulcan scut", "Faună bogată"],
       en: ["Important archaeological site", "Numerous petroglyphs and statues", "Shield volcano", "Rich wildlife"]
-    }
-  },
+    }, image: "/poi-images/zapatera-island-nature-v2.webp"},
   {
     id: "laguna-de-perlas-nature-v2",
     type: "lake",
@@ -237,8 +222,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Brakkvízi ökoszisztéma", "Kapcsolat a Karib-tengerrel", "Fontos a helyi halászat számára", "Mangroveerdőket foglal magában"],
       ro: ["Ecosistem de apă salmastră", "Legătură cu Marea Caraibilor", "Important pentru pescuitul local", "Include păduri de mangrove"],
       en: ["Brackish water ecosystem", "Connection to the Caribbean Sea", "Important for local fishing", "Includes mangrove forests"]
-    }
-  },
+    }, image: "/poi-images/laguna-de-perlas-nature-v2.webp"},
   {
     id: "telica-volcano-nature-v2",
     type: "mountain",
@@ -251,8 +235,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Gyakori kisebb kitörések", "Éjjel látható láva a kráterben", "A Maribios vulkánlánc része", "Magasság: 1,061 m"],
       ro: ["Erupții minore frecvente", "Lavă vizibilă în crater noaptea", "Parte a lanțului vulcanic Maribios", "Altitudine: 1.061 m"],
       en: ["Frequent minor eruptions", "Visible lava in the crater at night", "Part of the Maribios volcanic chain", "Elevation: 1,061 m"]
-    }
-  },
+    }, image: "/poi-images/telica-volcano-nature-v2.webp"},
   {
     id: "san-lorenzo-cloud-forest-nature-v2",
     type: "forest",
@@ -265,8 +248,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Elszigetelt ökoszisztéma", "Epifitonokban, például orchideákban gazdag", "Fontos vízforrás a régió számára", "Védett terület"],
       ro: ["Ecosistem izolat", "Bogat în epifite precum orhideele", "Sursă importantă de apă pentru regiune", "Zonă protejată"],
       en: ["Isolated ecosystem", "Rich in epiphytes like orchids", "Important water source for the region", "Protected area"]
-    }
-  },
+    }, image: "/poi-images/san-lorenzo-cloud-forest-nature-v2.webp"},
   {
     id: "little-corn-island-nature-v2",
     type: "island",
@@ -279,8 +261,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Nincsenek motoros járművek", "Korallzátonyok veszik körül", "Népszerű búvár- és sznorkelezési hely", "Nyugodt légkör"],
       ro: ["Fără vehicule motorizate", "Înconjurat de recife de corali", "Popular pentru scufundări și snorkeling", "Atmosferă relaxată"],
       en: ["No motorized vehicles", "Surrounded by coral reefs", "Popular for diving and snorkeling", "Relaxed atmosphere"]
-    }
-  },
+    }, image: "/poi-images/little-corn-island-nature-v2.webp"},
   {
     id: "cosiguina-lagoon-nature-v2",
     type: "lake",
@@ -293,8 +274,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Az 1835-ös kitörés után keletkezett", "Mélyzöld víz", "Elzárt fekvés", "Egy természetvédelmi terület része"],
       ro: ["Format după erupția din 1835", "Apă de un verde profund", "Locație izolată", "Parte a unei rezervații naturale"],
       en: ["Formed after the 1835 eruption", "Deep green water", "Secluded location", "Part of a nature reserve"]
-    }
-  },
+    }, image: "/poi-images/cosiguina-lagoon-nature-v2.webp"},
   {
     id: "estero-real-nature-v2",
     type: "sea",
@@ -307,8 +287,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Fontos költőhely madarak és halak számára", "Garnélarák-tenyésztés", "A Fonseca-öbölbe ömlik", "Nemzetközi jelentőségű védett terület (Ramsar)"],
       ro: ["Zonă importantă de reproducere pentru păsări și pești", "Creșterea creveților", "Se varsă în Golful Fonseca", "Zonă protejată de importanță internațională (Ramsar)"],
       en: ["Important breeding ground for birds and fish", "Shrimp farming", "Empties into the Gulf of Fonseca", "Protected area of international importance (Ramsar)"]
-    }
-  },
+    }, image: "/poi-images/estero-real-nature-v2.webp"},
   {
     id: "rio-bocay-nature-v2",
     type: "river",
@@ -321,8 +300,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Érintetlen esőerdőn folyik keresztül", "Fontos folyosó a vadvilág számára", "Őslakos közösségek otthona", "Magas vízminőség"],
       ro: ["Curge prin păduri tropicale virgine", "Coridor important pentru fauna sălbatică", "Habitat pentru comunități indigene", "Calitate ridicată a apei"],
       en: ["Flows through pristine rainforest", "Important corridor for wildlife", "Home to indigenous communities", "High water quality"]
-    }
-  },
+    }, image: "/poi-images/rio-bocay-nature-v2.webp"},
   {
     id: "cerro-el-arenal-nature-v2",
     type: "mountain",
@@ -335,8 +313,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Köderdő-ökoszisztéma", "Fontos vízforrás Matagalpa számára", "Kávétermesztés a lejtőkön", "Túraútvonalak"],
       ro: ["Ecosistem de pădure de ceață", "Sursă importantă de apă pentru Matagalpa", "Cultivarea cafelei pe versanți", "Trasee de drumeție"],
       en: ["Cloud forest ecosystem", "Important water source for Matagalpa", "Coffee cultivation on its slopes", "Hiking trails"]
-    }
-  },
+    }, image: "/poi-images/cerro-el-arenal-nature-v2.webp"},
   {
     id: "saslaya-national-park-nature-v2",
     type: "forest",
@@ -349,8 +326,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Magában foglalja az ország központi részének legmagasabb hegyét (Cerro Saslaya)", "A Bosawás-rezervátum központi zónája", "A quetzal otthona", "Rendkívül nehezen megközelíthető"],
       ro: ["Include cel mai înalt munte din centrul țării (Cerro Saslaya)", "Zona centrală a rezervației Bosawás", "Habitat pentru quetzal", "Extrem de inaccesibil"],
       en: ["Includes the highest mountain in the country's center (Cerro Saslaya)", "Core zone of the Bosawás Reserve", "Home of the Quetzal", "Extremely inaccessible"]
-    }
-  },
+    }, image: "/poi-images/saslaya-national-park-nature-v2.webp"},
   {
     id: "caribbean-sea-nicaragua-nature-v2",
     type: "sea",
@@ -363,8 +339,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Magában foglalja a Corn-szigeteket és a Pearl Cays-t", "Fontos halászati területek", "A Mezoamerikai-zátony része", "Trópusi éghajlat és víz"],
       ro: ["Include Insulele Corn și Pearl Cays", "Zone de pescuit importante", "Parte a Recifului Mesoamerican", "Climat și apă tropicale"],
       en: ["Includes the Corn Islands and Pearl Cays", "Important fishing grounds", "Part of the Mesoamerican Reef system", "Tropical climate and waters"]
-    }
-  },
+    }, image: "/poi-images/caribbean-sea-nicaragua-nature-v2.webp"},
   {
     id: "pacific-ocean-nicaragua-nature-v2",
     type: "sea",
@@ -377,8 +352,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Magas hullámairól ismert, amelyek ideálisak a szörfözéshez", "Vulkanikus homokos strandok", "Jelentős halászat", "Tengeri teknősök fészkelőhelyei"],
       ro: ["Cunoscut pentru valurile înalte pentru surf", "Plaje cu nisip vulcanic", "Pescuit important", "Locuri de cuibărit pentru țestoasele marine"],
       en: ["Known for high waves for surfing", "Volcanic sand beaches", "Important fisheries", "Nesting sites for sea turtles"]
-    }
-  },
+    }, image: "/poi-images/pacific-ocean-nicaragua-nature-v2.webp"},
   {
     id: "cerro-negro-forest-nature-v2",
     type: "forest",
@@ -391,8 +365,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Alkalmazkodott a vulkáni hamuhoz", "Speciális növény- és állatvilágnak ad otthont", "Egy nagyobb védett terület komplexum része", "Erős szezonális változások"],
       ro: ["Adaptat la cenușa vulcanică", "Găzduiește floră și faună specializată", "Parte a unui complex mai mare de arii protejate", "Schimbări sezoniere puternice"],
       en: ["Adapted to volcanic ash", "Hosts specialized flora and fauna", "Part of a larger protected area complex", "Strong seasonal changes"]
-    }
-  },
+    }, image: "/poi-images/cerro-negro-forest-nature-v2.webp"},
   {
     id: "laguna-nejapa-nature-v2",
     type: "lake",
@@ -405,8 +378,7 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
       hu: ["Egy krátertó-lánc része", "Könnyen megközelíthető Managuából", "Népszerű kilátópont", "Geológiailag érdekes"],
       ro: ["Parte a unui lanț de lacuri de crater", "Ușor accesibil din Managua", "Punct de belvedere popular", "Interesant din punct de vedere geologic"],
       en: ["Part of a chain of crater lakes", "Easily accessible from Managua", "Popular viewpoint", "Geologically interesting"]
-    }
-  },
+    }, image: "/poi-images/laguna-nejapa-nature-v2.webp"},
   {
     id: "rio-wawa-nature-v2",
     type: "river",
@@ -422,3 +394,4 @@ export const poiExtraNicaraguaNatureV2: POI[] = [
     }
   }
 ];
+

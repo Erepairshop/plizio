@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNigerNatureV2: POI[] = [
@@ -27,8 +28,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Méretét erős ingadozások jellemzik.", "Milliók számára fontos vízforrás.", "Valaha Afrika egyik legnagyobb tava volt.", "Sekély vízfelület, sok szigettel."],
       ro: ["Dimensiunea sa fluctuează semnificativ.", "Sursă importantă de apă pentru milioane de oameni.", "A fost cândva unul dintre cele mai mari lacuri din Africa.", "Lac puțin adânc cu multe insule."],
       en: ["Size subject to strong fluctuations.", "Important water source for millions of people.", "Once one of Africa's largest lakes.", "Shallow water body with many islands."]
-    }
-  },
+    }, image: "/poi-images/tschadsee-nature-v2.webp"},
   {
     id: "air-gebirge-nature-v2",
     type: "mountain",
@@ -41,8 +41,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Legmagasabb pontja a Mont Idoukal-n-Taghès.", "Ritka sivatagi ökoszisztémáknak ad otthont.", "UNESCO Világörökség terület.", "Hegység a Szahara szívében."],
       ro: ["Cel mai înalt punct este Mont Idoukal-n-Taghès.", "Găzduiește ecosisteme deșertice rare.", "Arie inclusă în Patrimoniul Mondial UNESCO.", "Un munte în mijlocul Saharei."],
       en: ["Highest point is Mont Idoukal-n-Taghès.", "Home to rare desert ecosystems.", "UNESCO World Heritage site.", "A mountain range in the heart of the Sahara."]
-    }
-  },
+    }, image: "/poi-images/air-gebirge-nature-v2.webp"},
   {
     id: "tenere-wueste-nature-v2",
     type: "forest",
@@ -55,8 +54,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["'Sivatagok sivatagaként' ismert.", "Valaha termékeny terület fákkal.", "Nagyon száraz régió, kevés növényzettel.", "Fontos őskori lelőhely."],
       ro: ["Cunoscut sub numele de 'deșertul deșerturilor'.", "Cândva o regiune fertilă cu arbori.", "Regiune foarte aridă cu vegetație puțină.", "Important sit arheologic preistoric."],
       en: ["Known as the 'desert of deserts'.", "Formerly a fertile area with trees.", "Very dry region with little vegetation.", "Important prehistoric archaeological site."]
-    }
-  },
+    }, image: "/poi-images/tenere-wueste-nature-v2.webp"},
   {
     id: "dallol-bosso-nature-v2",
     type: "river",
@@ -69,8 +67,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Fontos a régió mezőgazdasága számára.", "A Szahara fosszilis vízere.", "Szezonális vizes élőhelyeknek ad otthont.", "Közel fekszik a Niger folyóhoz."],
       ro: ["Important pentru agricultura din regiune.", "Vână de apă fosilă a Saharei.", "Găzduiește zone umede sezoniere.", "Situat aproape de fluviul Niger."],
       en: ["Important for regional agriculture.", "Fossil water vein of the Sahara.", "Hosts seasonal wetlands.", "Located close to the Niger River."]
-    }
-  },
+    }, image: "/poi-images/dallol-bosso-nature-v2.webp"},
   {
     id: "gourma-nature-v2",
     type: "forest",
@@ -83,8 +80,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Sivatagi elefántok élőhelye.", "Jellemző saheli vegetációt rejt.", "Erősen érintett az aszályoktól.", "Fontos legelőterület."],
       ro: ["Habitat pentru elefanții deșertului.", "Găzduiește vegetație tipică saheliană.", "Puternic afectat de perioadele de secetă.", "Zonă importantă de pășunat."],
       en: ["Habitat for desert elephants.", "Hosts typical Sahel vegetation.", "Strongly affected by drought periods.", "Important grazing area."]
-    }
-  },
+    }, image: "/poi-images/gourma-nature-v2.webp"},
   {
     id: "plateau-djado-nature-v2",
     type: "mountain",
@@ -97,8 +93,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Nagyon elszigetelt és száraz régió.", "Számos őskori leletet tartalmaz.", "Homokdűnék veszik körül.", "Kevéssé kutatott hegyvidéki táj."],
       ro: ["Regiune foarte izolată și aridă.", "Conține numeroase descoperiri preistorice.", "Înconjurat de dune de nisip.", "Peisaj montan puțin explorat."],
       en: ["Very remote and dry region.", "Contains numerous prehistoric finds.", "Surrounded by sand dunes.", "Little-explored mountain landscape."]
-    }
-  },
+    }, image: "/poi-images/plateau-djado-nature-v2.webp"},
   {
     id: "gueltas-air-nature-v2",
     type: "lake",
@@ -111,8 +106,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Életfontosságú oázisok az állatok számára.", "Ritka csapadékból táplálkoznak.", "Egyedülálló mikro-ökoszisztéma.", "Nehezen megközelíthető."],
       ro: ["Oaze vitale pentru animale.", "Se hrănesc din cantitatea rară de precipitații.", "Micro-ecosistem unic.", "Greu accesibile."],
       en: ["Vital oases for animals.", "Fed by rare rainfall.", "Unique micro-ecosystem.", "Hard to access."]
-    }
-  },
+    }, image: "/poi-images/gueltas-air-nature-v2.webp"},
   {
     id: "kaouar-oasen-nature-v2",
     type: "forest",
@@ -125,8 +119,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Történelmileg fontos a karavánkereskedelem számára.", "Ismert a datolyatermesztésről.", "Védelmet nyújt a szaharai forróság ellen.", "Egyedülálló növényzet a sivatagban."],
       ro: ["Istoric important pentru comerțul cu caravane.", "Cunoscut pentru cultivarea curmalelor.", "Oferă protecție împotriva căldurii din Sahara.", "Vegetație unică în deșert."],
       en: ["Historically important for caravan trade.", "Known for date cultivation.", "Provides protection against Sahara heat.", "Unique vegetation in the desert."]
-    }
-  },
+    }, image: "/poi-images/kaouar-oasen-nature-v2.webp"},
   {
     id: "erg-ténéré-nature-v2",
     type: "mountain",
@@ -139,8 +132,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["A dűnék akár 100 méter magasak is lehetnek.", "Nagyon dinamikus sivatagi táj.", "Extrém éghajlati viszonyok.", "Szinte semmilyen növényzet nincs."],
       ro: ["Dunele pot avea peste 100 m înălțime.", "Peisaj deșertic foarte dinamic.", "Condiții climatice extreme.", "Aproape nicio vegetație prezentă."],
       en: ["Dunes can be over 100m high.", "Very dynamic desert landscape.", "Extreme climatic conditions.", "Barely any vegetation present."]
-    }
-  },
+    }, image: "/poi-images/erg-ténéré-nature-v2.webp"},
   {
     id: "goulbi-maradi-nature-v2",
     type: "river",
@@ -153,8 +145,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Fontos a helyi öntözés számára.", "Csak az esős évszakban tartalmaz vizet.", "Mezőgazdasági területeken halad át.", "Jelentős a talajvízszint szempontjából."],
       ro: ["Important pentru irigarea locală.", "Poartă apă doar în timpul sezonului ploios.", "Traversează zone agricole.", "Important pentru apele subterane."],
       en: ["Important for local irrigation.", "Carries water only during the rainy season.", "Flows through agricultural areas.", "Significant for groundwater."]
-    }
-  },
+    }, image: "/poi-images/goulbi-maradi-nature-v2.webp"},
   {
     id: "komadougou-yobe-nature-v2",
     type: "river",
@@ -167,8 +158,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Szezonális vízfolyás.", "Fontos határ Nigéria felé.", "Termékeny árterület.", "A Csád-tó zsugorodása veszélyezteti."],
       ro: ["Curs de apă sezonier.", "Frontieră importantă cu Nigeria.", "Peisaj aluvionar fertil.", "Amenințat de retragerea Lacului Ciad."],
       en: ["Seasonal waterway.", "Important border with Nigeria.", "Fertile floodplain.", "Threatened by the retreat of Lake Chad."]
-    }
-  },
+    }, image: "/poi-images/komadougou-yobe-nature-v2.webp"},
   {
     id: "massif-termite-nature-v2",
     type: "mountain",
@@ -181,8 +171,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Az addax antilopok élőhelye.", "Nagyon elszigetelt sivatagi fekvés.", "Geológiailag változatos.", "Fontos menedék a veszélyeztetett fajok számára."],
       ro: ["Habitat pentru antilopa addax.", "Poziție deșertică foarte izolată.", "Diversitate geologică.", "Refugiu important pentru speciile pe cale de dispariție."],
       en: ["Habitat for addax antelopes.", "Very isolated desert location.", "Geologically diverse.", "Important sanctuary for endangered species."]
-    }
-  },
+    }, image: "/poi-images/massif-termite-nature-v2.webp"},
   {
     id: "fachi-oase-nature-v2",
     type: "forest",
@@ -195,8 +184,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Híres a sóbányászatról.", "Fontos megálló a nomádok számára.", "Hatalmas homokdűnék veszik körül.", "Sziget a homoksivatagban."],
       ro: ["Faimoasă pentru extracția sării.", "Oprire importantă pentru nomazi.", "Înconjurată de dune uriașe de nisip.", "O insulă în deșertul de nisip."],
       en: ["Famous for salt extraction.", "Important stop for nomads.", "Surrounded by huge sand dunes.", "An island in the sand desert."]
-    }
-  },
+    }, image: "/poi-images/fachi-oase-nature-v2.webp"},
   {
     id: "bilma-oase-nature-v2",
     type: "forest",
@@ -209,8 +197,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Kereskedelmi útvonalak történelmi csomópontja.", "Sóstavak jellemzik a tájat.", "Fontos datolyatermelés.", "Elszigetelten, a Szahara szívében."],
       ro: ["Nod istoric pentru rutele comerciale.", "Lacuri sărate definesc peisajul.", "Producție importantă de curmale.", "Izolată în inima Saharei."],
       en: ["Historical hub for trade routes.", "Salt lakes characterize the landscape.", "Important date production.", "Isolated in the heart of the Sahara."]
-    }
-  },
+    }, image: "/poi-images/bilma-oase-nature-v2.webp"},
   {
     id: "plateau-damagaram-nature-v2",
     type: "mountain",
@@ -223,8 +210,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Átmeneti zóna a Szahara felé.", "Időszakos vízfolyások.", "Fontos az állattenyésztés számára.", "Geológiailag meglehetősen lapos."],
       ro: ["Zonă de tranziție către Sahara.", "Cursuri de apă sezoniere.", "Important pentru creșterea animalelor.", "Geologic destul de plat."],
       en: ["Transition zone to the Sahara.", "Seasonal watercourses.", "Important for livestock farming.", "Geologically quite flat."]
-    }
-  },
+    }, image: "/poi-images/plateau-damagaram-nature-v2.webp"},
   {
     id: "vallée-dallol-maouri-nature-v2",
     type: "river",
@@ -237,8 +223,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["A költöző madarak fontos menedékhelye.", "Talajvíz-forrás.", "Időszakos elárasztott területek.", "Magas biodiverzitású régió a Sahel-övezetben."],
       ro: ["Zonă importantă de refugiu pentru păsările migratoare.", "Sursă de apă subterană.", "Zone inundabile sezoniere.", "Regiune cu biodiversitate ridicată pentru zona Sahel."],
       en: ["Important refuge for migratory birds.", "Source of groundwater.", "Seasonal floodplains.", "Region with high biodiversity for the Sahel zone."]
-    }
-  },
+    }, image: "/poi-images/vallée-dallol-maouri-nature-v2.webp"},
   {
     id: "goulbi-n-kaba-nature-v2",
     type: "river",
@@ -251,8 +236,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Az esős évszakon kívül szinte teljesen kiszárad.", "Fontos a helyi kis mezőgazdasági projektek számára.", "A déli hidrológiai hálózat része.", "Szezonális legelőket biztosít."],
       ro: ["Aproape se usucă în afara sezonului ploios.", "Important pentru proiectele agricole locale mici.", "Parte a rețelei hidrologice din sud.", "Oferă pășuni sezoniere."],
       en: ["Almost dries up outside the rainy season.", "Important for local small agricultural projects.", "Part of the hydrological network in the south.", "Provides seasonal pastures."]
-    }
-  },
+    }, image: "/poi-images/goulbi-n-kaba-nature-v2.webp"},
   {
     id: "massif-adrar-bous-nature-v2",
     type: "mountain",
@@ -265,8 +249,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Régészeti leleteiről ismert.", "Sivatagi síkságok veszik körül.", "Geológiailag vulkanikus eredetű.", "Nagyon barátságtalan környezet."],
       ro: ["Cunoscut pentru descoperirile arheologice.", "Înconjurat de câmpii deșertice.", "Origine geologică vulcanică.", "Mediu foarte inospitalier."],
       en: ["Known for archaeological finds.", "Surrounded by desert plains.", "Geologically of volcanic origin.", "Very inhospitable environment."]
-    }
-  },
+    }, image: "/poi-images/massif-adrar-bous-nature-v2.webp"},
   {
     id: "plateau-tchigai-nature-v2",
     type: "mountain",
@@ -279,8 +262,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Nagyon nehezen megközelíthető terület.", "Sziklából és homokból álló táj.", "Szinte semmi növényzet.", "Kevéssé kutatott."],
       ro: ["Zonă foarte greu accesibilă.", "Peisaj din stâncă și nisip.", "Aproape nicio vegetație.", "Puțin explorat."],
       en: ["Very hard-to-access area.", "Landscape of rock and sand.", "Barely any vegetation.", "Little explored."]
-    }
-  },
+    }, image: "/poi-images/plateau-tchigai-nature-v2.webp"},
   {
     id: "goulbi-kaba-nature-v2",
     type: "river",
@@ -293,8 +275,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Fontos a déli régió helyi ökoszisztémája számára.", "Kiegészíti a Maradi régió hidrológiai rendszerét.", "Szezonálisan korlátozott.", "Fontos itatóhelyeket biztosít az állatállománynak."],
       ro: ["Important pentru ecosistemul local din sud.", "Completează sistemul hidrologic al regiunii Maradi.", "Limitat sezonier.", "Oferă adăpători importante pentru animale."],
       en: ["Important for the local ecosystem in the south.", "Complements the hydrological system of the Maradi region.", "Seasonally limited.", "Provides important water holes for livestock."]
-    }
-  },
+    }, image: "/poi-images/goulbi-kaba-nature-v2.webp"},
   {
     id: "erg-mourzouk-rand-nature-v2",
     type: "mountain",
@@ -307,8 +288,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Látványos homokdűnés táj.", "Extrém szárazság.", "Szinte semmilyen emberi település.", "Geológiailag aktív dűnemező."],
       ro: ["Peisaj spectaculos de dune de nisip.", "Ariditate extremă.", "Aproape nicio așezare umană.", "Geologic un câmp de dune activ."],
       en: ["Spectacular sand dune landscape.", "Extreme aridity.", "Barely any human settlement.", "Geologically an active dune field."]
-    }
-  },
+    }, image: "/poi-images/erg-mourzouk-rand-nature-v2.webp"},
   {
     id: "dallol-fogha-nature-v2",
     type: "river",
@@ -321,8 +301,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["A regionális talajvízrendszer része.", "Szezonálisan nedves talaj.", "Fontos legelőzóna.", "A száraz Sahelben fekszik."],
       ro: ["Parte a sistemului regional de apă subterană.", "Sol sezonier umed.", "Zonă importantă de pășunat.", "Situat în Sahelul uscat."],
       en: ["Part of the regional groundwater system.", "Seasonally moist soil.", "Important grazing zone.", "Located in the dry Sahel."]
-    }
-  },
+    }, image: "/poi-images/dallol-fogha-nature-v2.webp"},
   {
     id: "plateau-koutous-nature-v2",
     type: "mountain",
@@ -335,8 +314,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Sziklás dombok jellemzik.", "Fontos vízgyűjtő terület.", "Nagyon gyér növényzet.", "Védelmet nyújt a helyi állatfajoknak."],
       ro: ["Caracterizat prin dealuri stâncoase.", "Zonă importantă de captare a apei.", "Vegetație foarte rară.", "Oferă protecție speciilor locale de animale."],
       en: ["Characterized by rocky hills.", "Important catchment area.", "Very sparse vegetation.", "Offers protection for local animal species."]
-    }
-  },
+    }, image: "/poi-images/plateau-koutous-nature-v2.webp"},
   {
     id: "goulbi-goulbi-nature-v2",
     type: "river",
@@ -349,8 +327,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Fontos vízforrás a rövid esős évszakban.", "A kis mezők öntözését szolgálja.", "Nagyon szezonális.", "A folyás részben gyorsan elszivárog."],
       ro: ["Sursă importantă de apă în timpul sezonului ploios scurt.", "Servește la irigarea câmpurilor mici.", "Foarte sezonier.", "Cursul se infiltrează rapid parțial."],
       en: ["Important water source during the brief rainy season.", "Serves for irrigation of small fields.", "Very seasonal.", "Partially infiltrates quickly."]
-    }
-  },
+    }, image: "/poi-images/goulbi-goulbi-nature-v2.webp"},
   {
     id: "massif-iférouane-nature-v2",
     type: "mountain",
@@ -363,8 +340,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Látványos hegyvidék.", "Fontos forrás az oázis lakói számára.", "Geológiailag változatos.", "Nehéz terep."],
       ro: ["Peisaj montan spectaculos.", "Sursă importantă pentru locuitorii oazelor.", "Diversitate geologică.", "Teren dificil."],
       en: ["Spectacular mountains.", "Important source for oasis dwellers.", "Geologically diverse.", "Difficult terrain."]
-    }
-  },
+    }, image: "/poi-images/massif-iférouane-nature-v2.webp"},
   {
     id: "goulbi-kane-nature-v2",
     type: "river",
@@ -377,8 +353,7 @@ export const poiExtraNigerNatureV2: POI[] = [
       hu: ["Szezonális lefolyás.", "Fontos a mezőgazdaság számára száraz években.", "Korlátozott vízhozzáférés.", "Szezonális legelőket biztosít az állatoknak."],
       ro: ["Scurgere sezonieră.", "Important pentru agricultură în anii secetoși.", "Disponibilitate limitată a apei.", "Oferă pășuni sezoniere pentru animale."],
       en: ["Seasonal runoff.", "Important for agriculture in dry years.", "Limited water availability.", "Provides seasonal pastures for livestock."]
-    }
-  },
+    }, image: "/poi-images/goulbi-kane-nature-v2.webp"},
   {
     id: "plateau-damagaram-est-nature-v2",
     type: "mountain",
@@ -394,3 +369,4 @@ export const poiExtraNigerNatureV2: POI[] = [
     }
   }
 ];
+

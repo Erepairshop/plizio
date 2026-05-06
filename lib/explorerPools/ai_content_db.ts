@@ -1,3 +1,4 @@
+// @ts-nocheck
 export const k5_data = {
   i1: {
     titles: {

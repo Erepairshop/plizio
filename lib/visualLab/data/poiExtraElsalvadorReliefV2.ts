@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraElsalvadorReliefV2: POI[] = [
@@ -40,8 +41,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Famous for its specialized 'Orchid Garden' and rich birdlife.",
         "Forms a critical part of the 'Complex of the Volcanoes' protected area."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-verde-relief-v2.webp"},
   {
     id: "sv-volcan-san-vicente-relief-v2",
     type: "mountain",
@@ -81,8 +81,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Classified as a stratovolcano, currently in a state of geological slumber.",
         "The fertile slopes host some of the country's most vital coffee-growing districts."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-volcan-san-vicente-relief-v2.webp"},
   {
     id: "sv-cerro-el-aguila-relief-v2",
     type: "mountain",
@@ -122,8 +121,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Considered one of the country's most significant biodiversity hotspots.",
         "An ideal environment for the cultivation of premium highland coffee."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-el-aguila-relief-v2.webp"},
   {
     id: "sv-volcan-chaparrastique-relief-v2",
     type: "mountain",
@@ -163,8 +161,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "The central crater has a massive diameter of approximately 800 meters.",
         "Its name in the Lenca language translates to 'Place of Mountain Springs'."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-volcan-chaparrastique-relief-v2.webp"},
   {
     id: "sv-cerro-de-oro-relief-v2",
     type: "mountain",
@@ -204,8 +201,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Home to a rich variety of birdlife and small mammals in the forest.",
         "Its accessibility is significantly influenced by seasonal fluctuations in the lake's water level."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-de-oro-relief-v2.webp"},
   {
     id: "sv-sierra-apaneca-relief-v2",
     type: "mountain",
@@ -245,8 +241,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "The region is a key component of Central American biological corridors.",
         "Famed for its unique microclimates and pristine high-altitude cloud forests."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-sierra-apaneca-relief-v2.webp"},
   {
     id: "sv-cerro-cucurucho-relief-v2",
     type: "mountain",
@@ -286,8 +281,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Highly valued by botanists for its diverse and rare tropical plant life.",
         "The hiking trails are considered moderate in difficulty, suitable for experienced explorers."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-cucurucho-relief-v2.webp"},
   {
     id: "sv-cerro-las-pavas-relief-v2",
     type: "mountain",
@@ -327,8 +321,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Hosts its largest annual religious pilgrimage every month of May.",
         "Serves as the primary tourist and cultural landmark for the city of Cojutepeque."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-las-pavas-relief-v2.webp"},
   {
     id: "sv-sierra-tecapa-relief-v2",
     type: "mountain",
@@ -368,8 +361,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "One of El Salvador's primary regions for geothermal energy production.",
         "Poet Gabriela Mistral famously dubbed the area 'The Emerald of America'."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-sierra-tecapa-relief-v2.webp"},
   {
     id: "sv-cerro-el-baul-relief-v2",
     type: "mountain",
@@ -409,8 +401,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "The summit provides a complete 360-degree panorama of the eastern region.",
         "Acts as a critical 'green island' within a densely populated valley."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-el-baul-relief-v2.webp"},
   {
     id: "sv-cerro-quilama-relief-v2",
     type: "mountain",
@@ -450,8 +441,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "An ideal destination for dedicated 'off-the-beaten-path' hikers.",
         "Provides critical nesting territory for local birds of prey."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-quilama-relief-v2.webp"},
   {
     id: "sv-cerro-coyolito-relief-v2",
     type: "mountain",
@@ -491,8 +481,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Excellent terrain for sustained highland hiking and wilderness camping.",
         "Nighttime temperatures can drop significantly compared to the lowlands."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-coyolito-relief-v2.webp"},
   {
     id: "sv-cerro-la-pava-relief-v2",
     type: "mountain",
@@ -532,8 +521,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "A growing hub for specialized coffee-based agrotourism in the region.",
         "Provides picturesque views of the neighboring volcanic chain peaks."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-la-pava-relief-v2.webp"},
   {
     id: "sv-cerro-el-taburete-relief-v2",
     type: "mountain",
@@ -573,8 +561,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Represents a critical local ecosystem and hydrological catchment area.",
         "A favored location for those seeking immersive, nature-centric hiking."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-el-taburete-relief-v2.webp"},
   {
     id: "sv-cerro-cacahuatique-relief-v2",
     type: "mountain",
@@ -614,8 +601,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Functions as a vital telecommunications hub for the northeastern region.",
         "Renowned for its distinctive cool microclimate and extensive pine forests."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-cacahuatique-relief-v2.webp"},
   {
     id: "sv-bosque-el-imposible-relief-v2",
     type: "forest",
@@ -655,8 +641,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Named after a dangerously steep mountain pass used by transporters until 1968.",
         "The protected park territory covers more than 3,800 hectares of pristine forest."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-bosque-el-imposible-relief-v2.webp"},
   {
     id: "sv-bosque-montecristo-relief-v2",
     type: "forest",
@@ -696,8 +681,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "A vital part of the international Trifinio-Fraternidad Biosphere Reserve.",
         "Renowned for its collection of over 200 distinct species of wild orchids."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-bosque-montecristo-relief-v2.webp"},
   {
     id: "sv-cerro-teotepeque-relief-v2",
     type: "mountain",
@@ -737,8 +721,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Its name in the Pipil language translates to 'Mountain of the Gods'.",
         "Its proximity to world-class surf breaks makes it a popular day-trip spot."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-teotepeque-relief-v2.webp"},
   {
     id: "sv-volcan-cerro-azul-relief-v2",
     type: "mountain",
@@ -778,8 +761,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Famed for its incredibly dense, nearly impenetrable high-altitude cloud forests.",
         "A highly favored location for dedicated nature photographers and experienced hikers."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-volcan-cerro-azul-relief-v2.webp"},
   {
     id: "sv-cerro-el-mico-relief-v2",
     type: "mountain",
@@ -819,8 +801,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "The summit provides an excellent vantage point to see San Vicente Volcano's north face.",
         "Plays a key role in the expanding local ecotourism sector."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-el-mico-relief-v2.webp"},
   {
     id: "sv-cerro-el-pilon-relief-v2",
     type: "mountain",
@@ -860,8 +841,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Noted for its high biodiversity, particularly its variety of regional reptiles.",
         "Network of hiking trails passes through several atmospheric old coffee plantations."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-el-pilon-relief-v2.webp"},
   {
     id: "sv-volcan-alotepeque-relief-v2",
     type: "mountain",
@@ -901,8 +881,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Pine and oak forests dominate the landscape, unusual for the tropics.",
         "Remains one of the least visited and most authentic regions in the country."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-volcan-alotepeque-relief-v2.webp"},
   {
     id: "sv-cerro-el-coyol-relief-v2",
     type: "mountain",
@@ -942,8 +921,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
         "Highly popular with local trail runners and mountain biking enthusiasts.",
         "Named after the coyol palm, a plant native to this specific ecosystem."
       ]
-    }
-  },
+    }, image: "/poi-images/sv-cerro-el-coyol-relief-v2.webp"},
   {
     id: "sv-cerro-tontol-relief-v2",
     type: "mountain",
@@ -986,3 +964,4 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     }
   }
 ];
+

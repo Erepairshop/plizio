@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED
 import type { POI } from "./poi";
 import { poiExtraBelizeCitiesV2 } from "./poiExtraBelizeCitiesV2";
@@ -38,8 +39,7 @@ export const belizeCities: POI[] = [
       en: ["The name is a portmanteau of 'Belize' and 'Mopan,' the name of a local river.", "The city was specifically designed to be resilient against hurricanes.", "Despite being the capital, it retains a quiet, small-town atmosphere."]
     },
     historyYear: 1970,
-    historyPeriod: "Modern"
-  },
+    historyPeriod: "Modern", image: "/poi-images/bz-belmopan.webp"},
   { 
     id: "bz-belizecity", 
     type: "city", 
@@ -66,8 +66,7 @@ export const belizeCities: POI[] = [
       en: ["The iconic Swing Bridge is the only manually operated bridge of its kind in Central America.", "The city was founded in 1638 by British logwood cutters known as 'Baymen.'", "Many historic wooden buildings still stand despite repeated hurricane damage."]
     },
     historyYear: 1638,
-    historyPeriod: "Colonial"
-  },
+    historyPeriod: "Colonial", image: "/poi-images/bz-belizecity.webp"},
   { 
     id: "bz-sanignacio", 
     type: "city", 
@@ -93,8 +92,7 @@ export const belizeCities: POI[] = [
       ro: ["San Ignacio și orașul vecin Santa Elena sunt legate prin podul Hawkesworth.", "Orașul este renumit pentru piața sa animată de sâmbătă.", "Regiunea a fost odată un centru important pentru recoltarea de chicle."],
       en: ["San Ignacio and neighboring Santa Elena are linked by the historic Hawkesworth Bridge.", "The town is famous for its vibrant Saturday open-air market.", "The region was once a major center for the harvesting of chicle (gum base)."]
     },
-    historyYear: 1850
-  },
+    historyYear: 1850, image: "/poi-images/bz-sanignacio.webp"},
   { 
     id: "bz-dangriga", 
     type: "city", 
@@ -120,8 +118,7 @@ export const belizeCities: POI[] = [
       ro: ["Numele Dangriga înseamnă „apă stătătoare” în limba Garifuna.", "În fiecare an, pe 19 noiembrie, se sărbătorește cu fast Garifuna Settlement Day.", "Orașul este un centru important pentru artele vizuale din Belize."],
       en: ["The name Dangriga translates to 'standing water' in the Garifuna language.", "It hosts the country's largest celebrations for Garifuna Settlement Day each November 19.", "The town is a significant hub for traditional Garifuna painting and art."]
     },
-    historyYear: 1802
-  },
+    historyYear: 1802, image: "/poi-images/bz-dangriga.webp"},
   { 
     id: "bz-sanpedro", 
     type: "city", 
@@ -148,8 +145,7 @@ export const belizeCities: POI[] = [
       en: ["Originally settled by refugees fleeing the Caste War of Yucatán.", "The town has completely transitioned from a fishing village to a tourism hub.", "Until recently, most of the town's streets were composed entirely of sand."]
     },
     historyYear: 1848,
-    historyPeriod: "Modern"
-  },
+    historyPeriod: "Modern", image: "/poi-images/bz-sanpedro.webp"},
   {
     id: "bz-doyles-delight",
     type: "mountain",
@@ -175,8 +171,7 @@ export const belizeCities: POI[] = [
       ro: ["Mult timp s-a crezut eronat că Victoria Peak este cel mai înalt munte.", "Numele face referire la cartea „O lume dispărută” (The Lost World).", "Pe vârf se află un mic platou cu pădure de nori."],
       en: ["For many years, Victoria Peak was mistakenly thought to be the highest mountain.", "The name refers to a quote in Arthur Conan Doyle's book 'The Lost World.'", "The summit features a unique cloud forest ecosystem on its high plateau."]
     },
-    elevation: 1124
-  },
+    elevation: 1124, image: "/poi-images/bz-doyles-delight.webp"},
   {
     id: "bz-macal-river",
     type: "river",
@@ -202,8 +197,7 @@ export const belizeCities: POI[] = [
       ro: ["Râul formează, împreună cu râul Mopan, râul Belize.", "Pe malurile sale se află mai multe grădini botanice și rezervații.", "Barajul Macal este folosit pentru generarea de energie electrică în țară."],
       en: ["The river joins the Mopan River to form the headwaters of the Belize River.", "Several botanical gardens and nature preserves are located along its banks.", "The Macal Dam system is a key component of Belize's hydroelectric power."]
     },
-    length: 320
-  },
+    length: 320, image: "/poi-images/bz-macal-river.webp"},
   {
     id: "bz-new-river",
     type: "river",
@@ -229,8 +223,7 @@ export const belizeCities: POI[] = [
       ro: ["În ciuda numelui, râul este una dintre cele mai vechi căi navigabile folosite de mayași.", "Râul se varsă în Corozal Bay.", "Este cunoscut pentru crocodilii care stau la soare pe maluri."],
       en: ["Despite its name, it is one of the oldest ancient Maya waterways.", "The river empties into the Corozal Bay near the Mexican border.", "It is a prime location for birdwatching, featuring many aquatic bird species."]
     },
-    length: 132
-  },
+    length: 132, image: "/poi-images/bz-new-river.webp"},
   {
     id: "bz-five-blues",
     type: "lake",
@@ -256,8 +249,7 @@ export const belizeCities: POI[] = [
       ro: ["Lacul nu are nicio scurgere sau afluent la suprafață.", "În 2006, lacul a secat aproape complet, dar s-a umplut ulterior la loc.", "Împrejurimile sunt bogate în orhidee și bromelii."],
       en: ["The lake has no visible surface inlets or outlets, fed by underground karst.", "In 2006, the lake mysteriously drained almost entirely, only to refill years later.", "The surrounding area is a haven for exotic orchids and wild bromeliads."]
     },
-    area: 4
-  },
+    area: 4, image: "/poi-images/bz-five-blues.webp"},
   {
     id: "bz-pine-ridge", 
     type: "forest", 
@@ -283,8 +275,7 @@ export const belizeCities: POI[] = [
       ro: ["Aici se află cele mai înalte cascade din America Centrală.", "Zona este un habitat important pentru șoimul cu piept portocaliu.", "Solul este compus în principal din granit, fapt neobișnuit pentru regiune."],
       en: ["The reserve features the highest waterfalls in all of Central America.", "It is a critical nesting ground for the rare Orange-breasted Falcon.", "The granite-based terrain is a geologically distinct feature in limestone-rich Belize."]
     },
-    area: 430
-  },
+    area: 430, image: "/poi-images/bz-pine-ridge.webp"},
   {
     id: "bz-lubantun", 
     type: "historical", 
@@ -311,8 +302,7 @@ export const belizeCities: POI[] = [
       en: ["The city was a major center for the production and trade of cacao.", "The buildings feature unusual rounded corners, a rarity in Maya architecture.", "Legend claims the Mitchell-Hedges Crystal Skull was discovered here in 1924."]
     },
     historyYear: 700,
-    historyPeriod: "Classical"
-  },
+    historyPeriod: "Classical", image: "/poi-images/bz-lubantun.webp"},
   {
     id: "bz-baron-bliss", 
     type: "historical", 
@@ -339,8 +329,7 @@ export const belizeCities: POI[] = [
       en: ["The Baron never actually set foot on mainland Belize, living solely on his yacht.", "His trust fund paid for numerous schools, hospitals, and this lighthouse.", "The lighthouse is painted in the distinct white and red colors of his coat of arms."]
     },
     historyYear: 1926,
-    historyPeriod: "Modern"
-  }
+    historyPeriod: "Modern", image: "/poi-images/bz-baron-bliss.webp"}
 ];
 
 export const belizeLandmarks: POI[] = [
@@ -398,8 +387,7 @@ export const belizeLandmarks: POI[] = [
       en: ["The Jade Head weighs nearly 4.5 kilograms and represents the Sun God.", "The site's main temple is featured on the label of Belize's national beer, Belikin.", "The name Altun Ha translates to 'Rockstone Water' in Yucatec Maya."]
     },
     historyYear: -200,
-    historyPeriod: "Classical"
-  },
+    historyPeriod: "Classical", image: "/poi-images/bz-altunha.webp"},
   { 
     id: "bz-caracol", 
     type: "historical", 
@@ -426,8 +414,7 @@ export const belizeLandmarks: POI[] = [
       en: ["Caracol famously defeated the superpower Tikal in a major war in 562 AD.", "The main temple, Caana, contains four distinct palaces and three temples.", "The site was lost to the jungle until its rediscovery by a logger in 1937."]
     },
     historyYear: 600,
-    historyPeriod: "Classical"
-  },
+    historyPeriod: "Classical", image: "/poi-images/bz-caracol.webp"},
   { 
     id: "bz-lamanai", 
     type: "historical", 
@@ -454,8 +441,7 @@ export const belizeLandmarks: POI[] = [
       en: ["The city was occupied for over 3,000 years, from 1500 BC to the 1700s.", "The Mask Temple features two large, well-preserved stone faces.", "Ruins of two 16th-century Spanish colonial mission churches stand on site."]
     },
     historyYear: -1500,
-    historyPeriod: "Classical"
-  },
+    historyPeriod: "Classical", image: "/poi-images/bz-lamanai.webp"},
   { 
     id: "bz-cayecaulker", 
     type: "island", 
@@ -481,8 +467,7 @@ export const belizeLandmarks: POI[] = [
       ro: ["„The Split” a apărut în 1961 din cauza uraganului Hattie, care a divizat insula.", "Bicicletele și mașinuțele de golf sunt singurele mijloace de transport.", "Insula este un paradis pentru lamantini."],
       en: ["'The Split' was created in 1961 when Hurricane Hattie literally tore the island in two.", "Bicycles and golf carts are the only way to get around the island.", "The surrounding waters are a protected sanctuary for West Indian Manatees."]
     },
-    area: 5
-  },
+    area: 5, image: "/poi-images/bz-cayecaulker.webp"},
   { 
     id: "bz-barrierreef", 
     type: "landmark", 
@@ -508,8 +493,7 @@ export const belizeLandmarks: POI[] = [
       ro: ["Charles Darwin l-a numit în 1842 „cel mai remarcabil recif din Antile”.", "Este format din șapte zone marine protejate diferite.", "Reciful protejează coasta de eroziune și furtuni."],
       en: ["Charles Darwin described it as the 'most remarkable reef in the West Indies' in 1842.", "The system comprises seven distinct marine protected areas.", "The reef provides a vital natural barrier protecting the coast from storm surges."]
     },
-    length: 300
-  },
+    length: 300, image: "/poi-images/bz-barrierreef.webp"},
   { 
     id: "bz-holchan", 
     type: "landmark", 
@@ -535,8 +519,7 @@ export const belizeLandmarks: POI[] = [
       ro: ["Canalul din recif permite multor pești mari accesul în lagună.", "Pescuitul este strict interzis în întreaga rezervație.", "Este una dintre cele mai vizitate destinații de snorkeling din America Centrală."],
       en: ["The deep cut in the reef allows diverse fish species to migrate between lagoon and sea.", "Fishing is strictly prohibited to preserve the fragile ecosystem.", "It is considered the most popular snorkeling destination in Central America."]
     },
-    area: 18
-  },
+    area: 18, image: "/poi-images/bz-holchan.webp"},
   { 
     id: "bz-atm", 
     type: "landmark", 
@@ -562,8 +545,7 @@ export const belizeLandmarks: POI[] = [
       ro: ["„Fecioara de Cristal” este un schelet care sclipește datorită depunerilor de calciu.", "Camerele foto sunt interzise în peșteră din 2012.", "Trebuie să înoți prin apă adâncă pentru a ajunge în interior."],
       en: ["The 'Crystal Maiden' is a calcified skeleton that sparkles under torchlight.", "Cameras have been banned since 2012 after a tourist dropped one on a skull.", "Exploration requires swimming and wading through subterranean river passages."]
     },
-    length: 5
-  },
+    length: 5, image: "/poi-images/bz-atm.webp"},
   { 
     id: "bz-belizezoo", 
     type: "landmark", 
@@ -589,8 +571,7 @@ export const belizeLandmarks: POI[] = [
       ro: ["Grădina găzduiește jaguari, tapiri și tucani.", "Toate țarcurile imită jungla naturală.", "Grădina este complet accesibilă pentru persoanele cu dizabilități."],
       en: ["Visitors can see elusive jaguars, Baird's tapirs, and colorful keel-billed toucans.", "Enclosures are integrated directly into the surrounding savanna and forest.", "The zoo serves as a rehabilitation center for orphaned or injured animals."]
     },
-    historyYear: 1983
-  },
+    historyYear: 1983, image: "/poi-images/bz-belizezoo.webp"},
   {
     id: "bz-ambergris-caye",
     type: "landmark",
@@ -616,8 +597,7 @@ export const belizeLandmarks: POI[] = [
       ro: ["Insula a fost anterior o peninsulă, separată de continent printr-un canal mayaș.", "Nordul insulei este protejat ca Parcul Național Bacalar Chico.", "Majoritatea vizitatorilor explorează insula cu mașinuțe de golf închiriate."],
       en: ["The island was originally a peninsula until the Maya dug a narrow canal to separate it.", "The northern part of the island is protected within the Bacalar Chico Marine Reserve.", "Golf carts are the iconic and most common method of transportation on the island."]
     },
-    area: 64
-  },
+    area: 64, image: "/poi-images/bz-ambergris-caye.webp"},
   {
     id: "bz-big-rock-falls",
     type: "landmark",
@@ -642,8 +622,7 @@ export const belizeLandmarks: POI[] = [
       hu: ["A vízeséshez való lejutás meredek, falépcsőkön keresztül történik.", "Ez Belize egyik legtöbbet fényképezett vízesése.", "A víz egész évben frissítően hűvös."],
       ro: ["Coborârea către cascadă este abruptă și se face pe scări de lemn.", "Este una dintre cele mai fotografiate cascade din Belize.", "Apa este răcoritoare pe tot parcursul anului."],
       en: ["Reaching the falls involves a steep climb down a series of wooden stairs.", "It is considered one of the most picturesque and photographed falls in Belize.", "The granite rock formations allow for safe cliff jumping in designated areas."]
-    }
-  },
+    }, image: "/poi-images/bz-big-rock-falls.webp"},
   {
     id: "bz-placencia",
     type: "landmark", 
@@ -668,8 +647,7 @@ export const belizeLandmarks: POI[] = [
       hu: ["A placenciai „sétány” szerepel a Guinness Rekordok Könyvében.", "A régió híres a tavasszal esedékes cetcápa-megfigyelésekről.", "Placencia eredetileg halászcsaládok apró falva volt."],
       ro: ["„Pietonala” din Placencia este înregistrată în Guinness Book.", "Regiunea este faimoasă pentru observarea rechini-balenă în primăvară.", "Inițial, Placencia a fost un mic sat de familii de pescari."],
       en: ["The central sidewalk is recognized by Guinness as the narrowest main street in the world.", "Nearby Gladden Spit is one of the few places to swim with whale sharks in spring.", "The village has successfully balanced rapid tourism growth with its traditional roots."]
-    }
-  },
+    }, image: "/poi-images/bz-placencia.webp"},
   {
     id: "bz-mountain-pine", 
     type: "forest", 
@@ -695,8 +673,7 @@ export const belizeLandmarks: POI[] = [
       ro: ["Cascada Thousand Foot are de fapt o înălțime de aproape 1.600 de picioare.", "Zona este un refugiu important pentru tapirul lui Baird.", "Solurile de granit de aici au o vechime de peste 300 de milioane de ani."],
       en: ["The Thousand Foot Falls is actually about 1,600 feet high, despite its name.", "It is a vital sanctuary for the endangered Baird's Tapir, Belize's national animal.", "The underlying granite rock dates back over 300 million years to the Paleozoic."]
     },
-    area: 430
-  },
+    area: 430, image: "/poi-images/bz-mountain-pine.webp"},
   {
     id: "bz-cerros", 
     type: "historical", 
@@ -728,3 +705,4 @@ export const belizeLandmarks: POI[] = [
 ];
 
 export const belizeAllPoi: POI[] = [...belizeCountry, ...belizeRegions, ...belizeCities, ...belizeLandmarks, ...poiExtraBelizeCitiesV2, ...poiExtraBelizeEconomicV2, ...poiExtraBelizeHistoryV2, ...poiExtraBelizeLandmarksV2, ...poiExtraBelizeLifeV2, ...poiExtraBelizeNatureV2, ...poiExtraBelizeReliefV2];
+

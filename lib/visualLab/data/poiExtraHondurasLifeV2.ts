@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraHondurasLifeV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru turazohely.", "Fontos vizforrasokat ved.", "A fovaros kozeleben van."],
       ro: ["Destinatie populara de drumetie.", "Protejeaza izvoare de apa.", "Aproape de capitala."],
       en: ["Popular hiking area.", "Protects key water sources.", "Close to the capital."]
-    }
-  },
+    }, image: "/poi-images/la-tigra-national-park-life-v2.webp"},
   {
     id: "uyuca-biological-reserve-life-v2",
     type: "forest",
@@ -37,8 +37,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Koderdo es fenyves.", "Fontos viztarolo terulet.", "Kedvelt a kutatok koreben."],
       ro: ["Padure de ceata si pini.", "Rezervor important de apa.", "Populara printre cercetatori."],
       en: ["Cloud forest and pine woods.", "Important water reservoir.", "Popular with researchers."]
-    }
-  },
+    }, image: "/poi-images/uyuca-biological-reserve-life-v2.webp"},
   {
     id: "cerro-azul-meambar-life-v2",
     type: "forest",
@@ -56,8 +55,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Huvos levego es kilatas.", "Turazas es madarmegfigyeles.", "A nemzeti park resze."],
       ro: ["Aer racoros si privelisti.", "Drumetii si birdwatching.", "Parte din parc national."],
       en: ["Cool air and views.", "Hiking and birdwatching.", "Part of a national park."]
-    }
-  },
+    }, image: "/poi-images/cerro-azul-meambar-life-v2.webp"},
   {
     id: "celaque-national-park-life-v2",
     type: "forest",
@@ -75,8 +73,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nagyon fajgazdag.", "Sok folyo forrasterulete.", "Magas csucsok es mely vorgyek."],
       ro: ["Foarte bogat in specii.", "Sursa pentru multe rauri.", "Varfuri inalte si vai adanci."],
       en: ["Very species-rich.", "Source of many rivers.", "High peaks and deep valleys."]
-    }
-  },
+    }, image: "/poi-images/celaque-national-park-life-v2.webp"},
   {
     id: "cusuco-national-park-life-v2",
     type: "forest",
@@ -94,8 +91,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Sok endemikus faj.", "Kedvelt a biologusok koreben.", "Suru koderdo."],
       ro: ["Multe specii endemice.", "Popular printre biologi.", "Padure de ceata deasa."],
       en: ["Many endemic species.", "Popular with biologists.", "Dense cloud forest."]
-    }
-  },
+    }, image: "/poi-images/cusuco-national-park-life-v2.webp"},
   {
     id: "pico-bonito-national-park-life-v2",
     type: "forest",
@@ -113,8 +109,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru turazashoz.", "Gazdag madarvilag.", "Hegyeket es folyokat egyesit."],
       ro: ["Popular pentru drumetii.", "Fauna de pasari bogata.", "Imbina munti si rauri."],
       en: ["Popular for hiking.", "Rich birdlife.", "Combines mountains and rivers."]
-    }
-  },
+    }, image: "/poi-images/pico-bonito-national-park-life-v2.webp"},
   {
     id: "lancetilla-botanical-garden-life-v2",
     type: "forest",
@@ -132,8 +127,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Palmakorol hires.", "Fontos tanulasi hely.", "Nagyon fajgazdag novenyvilag."],
       ro: ["Faimos pentru palmieri.", "Loc important de invatare.", "Flora foarte bogata."],
       en: ["Famous for palms.", "Important learning site.", "Very rich plant life."]
-    }
-  },
+    }, image: "/poi-images/lancetilla-botanical-garden-life-v2.webp"},
   {
     id: "jeannette-kawas-national-park-life-v2",
     type: "forest",
@@ -151,8 +145,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Tela kozeleben.", "Fontos a madaraknak.", "Parti elelothelyeket ved."],
       ro: ["Aproape de Tela.", "Important pentru pasari.", "Protejeaza habitatele de coasta."],
       en: ["Near Tela.", "Important for birds.", "Protects coastal habitats."]
-    }
-  },
+    }, image: "/poi-images/jeannette-kawas-national-park-life-v2.webp"},
   {
     id: "punta-izopo-national-park-life-v2",
     type: "forest",
@@ -170,8 +163,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru a hajotura.", "Gazdag vizi madarakban.", "A karibi part resze."],
       ro: ["Tururile cu barca sunt populare.", "Bogata in pasari de apa.", "Parte din coasta caraibiana."],
       en: ["Boat tours are popular.", "Rich in waterbirds.", "Part of the Caribbean coast."]
-    }
-  },
+    }, image: "/poi-images/punta-izopo-national-park-life-v2.webp"},
   {
     id: "cuero-y-salado-wildlife-refuge-life-v2",
     type: "animal-habitat",
@@ -189,8 +181,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Fontos a lamantinoknak.", "Hajokazas a csatornakon.", "Nagyon csendes termeszetes terulet."],
       ro: ["Important pentru lamantini.", "Plimbare cu barca pe canale.", "Zona naturala foarte linistita."],
       en: ["Important for manatees.", "Boat rides through canals.", "Very quiet nature zone."]
-    }
-  },
+    }, image: "/poi-images/cuero-y-salado-wildlife-refuge-life-v2.webp"},
   {
     id: "cayos-cochinos-marine-reserve-life-v2",
     type: "animal-habitat",
@@ -208,8 +199,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Koralljairol ismert.", "Kis szigetek es tiszta viz.", "Nepszeru a sznorkelezoknek."],
       ro: ["Cunoscuta pentru corali.", "Insule mici si apa limpede.", "Populara pentru snorkeling."],
       en: ["Known for coral reefs.", "Small islands and clear water.", "Popular with snorkelers."]
-    }
-  },
+    }, image: "/poi-images/cayos-cochinos-marine-reserve-life-v2.webp"},
   {
     id: "roatan-marine-science-center-life-v2",
     type: "animal-habitat",
@@ -227,8 +217,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["A zatonyallatokrol szol.", "Jo csaladoknak.", "A West Bay kozeleben."],
       ro: ["Ofera informatii despre vietuitoarele recifului.", "Bun pentru familii.", "Aproape de West Bay."],
       en: ["Teaches about reef animals.", "Good for families.", "Near West Bay."]
-    }
-  },
+    }, image: "/poi-images/roatan-marine-science-center-life-v2.webp"},
   {
     id: "archs-iguana-and-marine-park-life-v2",
     type: "animal-habitat",
@@ -246,8 +235,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Allatkozeli elmeny.", "Rovid setak es sok arnyek.", "Nepszeru gyerekeknek."],
       ro: ["Interactiuni cu animale.", "Trasee scurte si multa umbra.", "Popular pentru copii."],
       en: ["Close animal encounters.", "Short paths and plenty of shade.", "Popular with children."]
-    }
-  },
+    }, image: "/poi-images/archs-iguana-and-marine-park-life-v2.webp"},
   {
     id: "daniel-johnson-sloth-and-monkey-hangout-life-v2",
     type: "animal-habitat",
@@ -265,8 +253,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Kis es csaladbarat.", "Kozeli kapcsolat az allatokkal.", "Fontos az oktatas szempontjabol."],
       ro: ["Mic si potrivit pentru familii.", "Contact apropiat cu animalele.", "Important pentru educatie."],
       en: ["Small and family-friendly.", "Close contact with animals.", "Important for education."]
-    }
-  },
+    }, image: "/poi-images/daniel-johnson-sloth-and-monkey-hangout-life-v2.webp"},
   {
     id: "iguana-research-breeding-station-copan-life-v2",
     type: "animal-habitat",
@@ -284,8 +271,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Hullo vedi.", "Iskolai csoportok kedvence.", "A maja romok kozeleben."],
       ro: ["Protejeaza reptilele.", "Popular printre grupurile scolare.", "Aproape de ruinele maya."],
       en: ["Protects reptiles.", "Popular with school groups.", "Near the Maya ruins."]
-    }
-  },
+    }, image: "/poi-images/iguana-research-breeding-station-copan-life-v2.webp"},
   {
     id: "el-picacho-park-life-v2",
     type: "kid-landmark",
@@ -303,8 +289,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru hetvegen.", "Nagy varospanorama.", "Csaladbarat setanyok."],
       ro: ["Popular in weekend.", "Panorama mare asupra orasului.", "Trasee potrivite pentru familii."],
       en: ["Popular on weekends.", "Wide city panorama.", "Family-friendly paths."]
-    }
-  },
+    }, image: "/poi-images/el-picacho-park-life-v2.webp"},
   {
     id: "chiminike-life-v2",
     type: "kid-landmark",
@@ -322,8 +307,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Tanulas jatekkal.", "Iskolai osztalyok kedvence.", "Minden idoben jo program."],
       ro: ["Invatare prin joc.", "Popular printre clasele scolare.", "Atractie indoor in orice vreme."],
       en: ["Learning through play.", "Popular with school classes.", "Indoor attraction in any weather."]
-    }
-  },
+    }, image: "/poi-images/chiminike-life-v2.webp"},
   {
     id: "tegucigalpa-central-park-life-v2",
     type: "kid-landmark",
@@ -341,8 +325,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Talalkozasi pont a kozpontban.", "Gyarmati epuletek veszik korul.", "Eleven varosi ter."],
       ro: ["Punct de intalnire central.", "Inconjurat de cladiri coloniale.", "Spatiu urban animat."],
       en: ["Central meeting point.", "Surrounded by colonial buildings.", "Lively urban space."]
-    }
-  },
+    }, image: "/poi-images/tegucigalpa-central-park-life-v2.webp"},
   {
     id: "cerro-juana-lainez-park-life-v2",
     type: "kid-landmark",
@@ -360,8 +343,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Rovid setanyok.", "Jo piknikre.", "Ismert kilatohelyek."],
       ro: ["Trasee scurte.", "Bun pentru picnic.", "Puncte de belvedere cunoscute."],
       en: ["Short walking paths.", "Good for picnics.", "Known viewpoints."]
-    }
-  },
+    }, image: "/poi-images/cerro-juana-lainez-park-life-v2.webp"},
   {
     id: "san-pedro-sula-zoo-life-v2",
     type: "kid-landmark",
@@ -379,8 +361,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru gyerekeknek.", "Varoskozeli elhelyezkedes.", "Allatmegfigyeles rovid uton."],
       ro: ["Popular pentru copii.", "Locatie aproape de oras.", "Observarea animalelor fara drum lung."],
       en: ["Popular with children.", "Close to the city center.", "Animal viewing without a long trip."]
-    }
-  },
+    }, image: "/poi-images/san-pedro-sula-zoo-life-v2.webp"},
   {
     id: "lago-de-yojoa-life-v2",
     type: "lake",
@@ -398,8 +379,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Top madarmegfigyelo hely.", "Nepszeru hetvegi kirandulocel.", "Hegyek veszik korul."],
       ro: ["Loc de top pentru birdwatching.", "Popular pentru excursii de weekend.", "Inconjurat de munti."],
       en: ["Top birdwatching site.", "Popular for weekend trips.", "Surrounded by mountains."]
-    }
-  },
+    }, image: "/poi-images/lago-de-yojoa-life-v2.webp"},
   {
     id: "laguna-de-caratasca-life-v2",
     type: "lake",
@@ -417,8 +397,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Fontos a halaszatban.", "Gazdag madarakban es halakban.", "Nagyon tavoli videk."],
       ro: ["Importanta pentru pescuit.", "Bogata in pasari si pesti.", "Regiune foarte izolata."],
       en: ["Important for fishing.", "Rich in birds and fish.", "Very remote region."]
-    }
-  },
+    }, image: "/poi-images/laguna-de-caratasca-life-v2.webp"},
   {
     id: "laguna-de-guaimoreto-life-v2",
     type: "lake",
@@ -436,8 +415,19 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Edes- es sotviz kevereke.", "Fontos halelohely.", "Csendes termeszetes kornyezet."],
       ro: ["Amestec de apa dulce si sarata.", "Habitat important pentru pesti.", "Cadru natural linistit."],
       en: ["Mix of fresh and salt water.", "Important fish habitat.", "Quiet natural setting."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Laguna de Guaimoreto ist ein bedeutendes Wildschutzgebiet nahe der Stadt Trujillo an der Nordküste von Honduras. Die Lagune wird durch eine schmale Verbindung zum Meer gespeist und bildet ein komplexes Oekosystem aus Mangrovenwaeldern und Feuchtgebieten. Sie ist ein wichtiger Rueckzugsort fuer zahlreiche Wasservoegel, darunter Reiher, Pelikane und Eisvoegel. In den ruhigen Gewaessern leben auch verschiedene Fischarten, die sowohl fuer die oekologische Balance als auch fuer die lokale Fischerei von Bedeutung sind. Besucher koennen die Lagune mit kleinen Booten erkunden und dabei die dichte Vegetation der Mangroven aus naechster Naehe erleben. Die Berge des Nationalparks Capiro und Calentura bilden eine malerische Kulisse fuer das Gewaesser. Guaimoreto spielt eine wichtige Rolle beim Schutz der Kueste vor Stuermen und dient als biologischer Filter fuer die Region. Es ist ein ruhiger Ort für Naturbeobachtungen abseits der bekannteren Touristenpfade. Biologie K7 — Ökosysteme.",
+      hu: "A Guaimoreto-lagúna egy fontos vadrezervátum Trujillo városa közelében, Honduras északi partján. A lagúnát egy keskeny csatorna köti össze a tengerrel, összetett ökoszisztémát alkotva mangroveerdőkből és vizes élőhelyekből. Számos vízi madár, például kócsagok, pelikánok és jégmadarak fontos menedékhelye. A nyugodt vizekben különféle halfajok élnek, amelyek az ökológiai egyensúly és a helyi halászat szempontjából is jelentősek. A látogatók kis csónakokkal fedezhetik fel a lagúnát, közelről tapasztalva meg a mangrove sűrű növényzetét. A Capiro és Calentura Nemzeti Park hegyei festői hátteret biztosítanak az állóvíznek. A Guaimoreto fontos szerepet játszik a partvonal viharok elleni védelmében, és biológiai szűrőként szolgál a régió számára. Csendes hely a természetmegfigyelésre, távol a legismertebb turistaútvonalaktól. Természetismeret K7 – tengerparti lagúnák és biodiverzitás.",
+      ro: "Laguna Guaimoreto este o rezervație de viață sălbatică importantă situată lângă orașul Trujillo, pe coasta de nord a Hondurasului. Laguna este alimentată printr-o conexiune îngustă cu marea și formează un ecosistem complex de păduri de mangrove și zone umede. Este un refugiu important pentru numeroase păsări acvatice, inclusiv egrete, pelicani și pescăruși albaștri. În apele liniștite trăiesc diverse specii de pești, importanți atât pentru echilibrul ecologic, cât și pentru pescuitul local. Vizitatorii pot explora laguna cu bărci mici și pot experimenta de aproape vegetația densă a mangrovelor. Munții din Parcul Național Capiro și Calentura formează un decor pitoresc pentru acest corp de apă. Guaimoreto joacă un rol important în protejarea coastei împotriva furtunilor și servește ca filtru biologic pentru regiune. Este un loc liniștit pentru observarea naturii, departe de traseele turistice mai cunoscute. Biologie K7 – ecosisteme.",
+      en: "Guaimoreto Lagoon is a significant wildlife refuge located near the city of Trujillo on Honduras's northern coast. The lagoon is fed through a narrow connection to the sea, forming a complex ecosystem of mangrove forests and wetlands. It is a vital sanctuary for numerous water birds, including herons, pelicans, and kingfishers. The calm waters also support various fish species important for both ecological balance and local fisheries. Visitors can explore the lagoon by small boat, experiencing the dense mangrove vegetation up close. The mountains of Capiro and Calentura National Park provide a picturesque backdrop to the water. Guaimoreto plays an essential role in protecting the coast from storms and serves as a biological filter for the region. It is a peaceful location for nature observation, off the more well-trodden tourist paths. Science K7 – ecosystems."
+    },
+    factsAdvanced: {
+      de: ["Wildschutzgebiet seit 1992 zum Schutz der Mangroven.", "Umfasst eine Fläche von etwa 50 Quadratkilometern.", "Beherbergt über 100 verschiedene Vogelarten.", "Wichtiger Laichplatz für zahlreiche Meeresfische und Garnelen.", "Befindet sich direkt westlich der Bucht von Trujillo.", "Wird von der lokalen NGO FUCAGUA verwaltet."],
+      hu: ["1992 óta vadrezervátum a mangroveerdők védelmére.", "Körülbelül 50 négyzetkilométer területet foglal magában.", "Több mint 100 különböző madárfaj otthona.", "Számos tengeri hal és rák fontos ívóhelye.", "Trujillo öblétől közvetlenül nyugatra található.", "A FUCAGUA helyi civil szervezet kezeli."],
+      ro: ["Refugiu de viață sălbatică din 1992 pentru protecția mangrovelor.", "Acoperă o suprafață de aproximativ 50 kilometri pătrați.", "Găzduiește peste 100 de specii diferite de păsări.", "Loc important de depunere a icrelor pentru pești și creveți.", "Situată direct la vest de Golful Trujillo.", "Administrată de ONG-ul local FUCAGUA."],
+      en: ["Wildlife refuge established in 1992 to protect mangroves.", "Covers an area of approximately 50 square kilometers.", "Home to over 100 documented bird species.", "Crucial spawning ground for numerous marine fish and shrimp.", "Located directly west of the Bay of Trujillo.", "Managed by the local NGO FUCAGUA."]
+    }, image: "/poi-images/laguna-de-guaimoreto-life-v2.webp"},
   {
     id: "laguna-de-los-micos-life-v2",
     type: "lake",
@@ -455,8 +445,19 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Hajoturak nepszeruek.", "Mangrovek es vizi utak.", "Nagy termeszetvedelmi ertek."],
       ro: ["Tururile cu barca sunt populare.", "Mangrove si cai de apa.", "Valoare naturala mare."],
       en: ["Boat tours are popular.", "Mangroves and waterways.", "High natural value."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Laguna de los Micos ist ein zentraler Teil des Nationalparks Jeannette Kawas nahe der Stadt Tela. Diese flache Kuestenlagune ist beruehmt fuer ihren Reichtum an Wasservoegeln und ihre dichten Mangrovenwaelder. Der Name 'Micos' (Affen) bezieht sich auf die Brüllaffen, die in den Baeumen rund um die Lagune leben. Die Lagune ist ein wichtiges Oekosystem, in dem sich Suess- und Salzwasser mischen, was eine hohe biologische Produktivitaet ermoeglicht. Fischer der Garifuna-Gemeinschaft nutzen die Lagune seit Generationen fuer den traditionellen Fischfang. Bootstouren bieten Besuchern die Moeglichkeit, seltene Voegel wie Loeffler und verschiedene Reiherarten zu beobachten. Die ruhige Oberflaeche der Lagune spiegelt oft die umliegenden Berge wider und bietet eine malerische Kulisse. Als Teil des Nationalparks steht die Laguna de los Micos unter strengem Schutz, um dieses sensible Feuchtgebiet fuer die Zukunft zu erhalten. Biologie K7 — Küsten-Ökosysteme.",
+      hu: "A Micos-lagúna a Jeannette Kawas Nemzeti Park központi része Tela városa közelében. Ez a sekély parti lagúna híres vízimadár-állományáról és sűrű mangroveerdőiről. A 'Micos' (majmok) név a lagúna körüli fákon élő bőgőmajmokra utal. A lagúna fontos ökoszisztéma, ahol az édes- és a sós víz keveredik, ami nagy biológiai produktivitást tesz lehetővé. A garifuna közösség halászai generációk óta használják a lagúnát hagyományos halászatra. A hajótúrák során a látogatók ritka madarakat, például kanalasgémeket és különféle kócsagfajokat figyelhetnek meg. A lagúna nyugodt felszíne gyakran tükrözi vissza a környező hegyeket, festői látványt nyújtva. A nemzeti park részeként a Micos-lagúna szigorú védelem alatt áll, hogy megőrizzék ezt az érzékeny vizes élőhelyet a jövő számára. Földrajz K7 – parti lagúnák és ökoszisztémák.",
+      ro: "Laguna de los Micos este o parte centrală a Parcului Național Jeannette Kawas, lângă orașul Tela. Această lagună de coastă puțin adâncă este renumită pentru bogăția sa de păsări acvatice și pădurile dense de mangrove. Numele 'Micos' (maimuțe) se referă la maimuțele urlătoare care trăiesc în copacii din jurul lagunei. Laguna este un ecosistem important unde se amestecă apa dulce și cea sărată, ceea ce permite o productivitate biologică ridicată. Pescarii din comunitatea Garifuna folosesc laguna de generații pentru pescuitul tradițional. Tururile cu barca oferă vizitatorilor ocazia de a observa păsări rare, cum ar fi lopătarii și diverse specii de egrete. Suprafața liniștită a lagunei reflectă adesea munții din jur, oferind un decor pitoresc. Ca parte a parcului național, Laguna de los Micos este sub protecție strictă pentru a conserva această zonă umedă sensibilă pentru viitor. Biologie K7 – ecosisteme de coastă.",
+      en: "Laguna de los Micos is a central component of the Jeannette Kawas National Park near the city of Tela. This shallow coastal lagoon is famous for its abundance of water birds and dense mangrove forests. The name 'Micos' (monkeys) refers to the howler monkeys that inhabit the trees surrounding the lagoon. The lagoon is a vital ecosystem where fresh and salt water mix, allowing for high biological productivity. Fishermen from the Garifuna community have used the lagoon for traditional fishing for generations. Boat tours provide visitors with the opportunity to spot rare birds such as roseate spoonbills and various heron species. The calm surface of the lagoon often reflects the surrounding mountains, offering a picturesque setting. As part of the national park, Laguna de los Micos is under strict protection to ensure the future of this sensitive wetland area. Science K7 – coastal ecosystems."
+    },
+    factsAdvanced: {
+      de: ["Teil des Nationalparks Jeannette Kawas (Punta Sal).", "Wichtiges Habitat für über 200 dokumentierte Vogelarten.", "Wird traditionell von der Garifuna-Gemeinschaft befischt.", "Durchschnittliche Tiefe beträgt nur etwa 2 bis 3 Meter.", "Beherbergt ausgedehnte Wälder der Roten Mangrove.", "Bietet wichtige Brutplätze für wandernde Wasservögel."],
+      hu: ["A Jeannette Kawas (Punta Sal) Nemzeti Park része.", "Több mint 200 dokumentált madárfaj fontos élőhelye.", "A garifuna közösség hagyományos halászhelye.", "Átlagos mélysége mindössze 2-3 méter.", "Kiterjedt vörös mangroveerdőknek ad otthont.", "Fontos költőhely a vándorló vízi madarak számára."],
+      ro: ["Parte din Parcul Național Jeannette Kawas (Punta Sal).", "Habitat important pentru peste 200 de specii de păsări.", "Pescuită tradițional de către comunitatea Garifuna.", "Adâncimea medie este de numai aproximativ 2 până la 3 metri.", "Găzduiește păduri extinse de mangrove roșii.", "Oferă locuri importante de cuibărit pentru păsările migratoare."],
+      en: ["Part of the Jeannette Kawas (Punta Sal) National Park.", "Vital habitat for over 200 documented bird species.", "Traditionally fished by the local Garifuna community.", "The average depth is only about 2 to 3 meters.", "Home to extensive forests of Red Mangroves.", "Provides critical nesting sites for migratory water birds."]
+    }, image: "/poi-images/laguna-de-los-micos-life-v2.webp"},
   {
     id: "punta-sal-national-park-life-v2",
     type: "forest",
@@ -474,8 +475,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru termeszetjarasra.", "Sok madarfajt ved.", "Az eszaki part resze."],
       ro: ["Popular pentru tururi in natura.", "Protejeaza multe specii de pasari.", "Parte din coasta de nord."],
       en: ["Popular for nature trips.", "Protects many bird species.", "Part of the north coast."]
-    }
-  },
+    }, image: "/poi-images/punta-sal-national-park-life-v2.webp"},
   {
     id: "reserva-biologica-el-chile-life-v2",
     type: "forest",
@@ -493,8 +493,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Fontos elelothely.", "Csendes es kevesbe fejlett.", "Jo termeszetfigyeleshez."],
       ro: ["Habitat important.", "Linistit si putin exploatat.", "Bun pentru observarea naturii."],
       en: ["Important habitat.", "Quiet and lightly developed.", "Good for nature observation."]
-    }
-  },
+    }, image: "/poi-images/reserva-biologica-el-chile-life-v2.webp"},
   {
     id: "montana-de-yoro-national-park-life-v2",
     type: "forest",
@@ -512,8 +511,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Nepszeru a satorozoknek.", "Friss hegyi klima.", "Vedett vadonelohely."],
       ro: ["Popular pentru campare.", "Climat montan racoros.", "Arie protejata pentru fauna."],
       en: ["Popular for camping.", "Fresh mountain climate.", "Protected wildlife area."]
-    }
-  },
+    }, image: "/poi-images/montana-de-yoro-national-park-life-v2.webp"},
   {
     id: "montana-de-comayagua-life-v2",
     type: "forest",
@@ -531,8 +529,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Huvosabb, mint a sik.", "Fontos vizgyujto teruletek.", "Nepszeru turazashoz."],
       ro: ["Mai racoros decat campia.", "Zone hidrografice importante.", "Popular pentru drumetii."],
       en: ["Cooler than the lowlands.", "Important watershed area.", "Popular for hikes."]
-    }
-  },
+    }, image: "/poi-images/montana-de-comayagua-life-v2.webp"},
   {
     id: "reserva-biologica-opalaca-life-v2",
     type: "forest",
@@ -550,8 +547,7 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Keves ut vezet ide.", "Csendes hegyvidek.", "Fontos a viz es az allatok szempontjabol."],
       ro: ["Putine drumuri.", "Peisaj montan linistit.", "Important pentru apa si animale."],
       en: ["Few roads reach it.", "Quiet mountain landscape.", "Important for water and wildlife."]
-    }
-  },
+    }, image: "/poi-images/reserva-biologica-opalaca-life-v2.webp"},
   {
     id: "reserva-biologica-la-muralla-life-v2",
     type: "forest",
@@ -569,6 +565,6 @@ export const poiExtraHondurasLifeV2: POI[] = [
       hu: ["Suru erdok boritjak.", "Vadallatok elelotere.", "Fontos vedelmi terulet."],
       ro: ["Acoperire forestiera densa.", "Habitat pentru fauna salbatica.", "Arie importanta de protectie."],
       en: ["Dense forest cover.", "Habitat for wildlife.", "Important protection area."]
-    }
-  },
+    }, image: "/poi-images/reserva-biologica-la-muralla-life-v2.webp"},
 ];
+

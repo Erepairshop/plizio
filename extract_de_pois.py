@@ -1,78 +1,48 @@
 import re
 import json
-import glob
-import os
 
-files = [
-    'lib/visualLab/data/poi.ts',
-    'lib/visualLab/data/poiExtraDe1.ts',
-    'lib/visualLab/data/poiExtraDe2.ts',
-    'lib/visualLab/data/poiExtraDe3a',
-    'lib/visualLab/data/poiExtraDe3b',
-    'lib/visualLab/data/poiExtraDe4a',
-    'lib/visualLab/data/poiExtraDe4b',
-    'lib/visualLab/data/poiExtraDeCities.ts'
-]
+files = ['lib/visualLab/data/poiExtraAndorraCities.ts', 'lib/visualLab/data/poiExtraAndorraOther.ts']
+missing = []
 
-# some files are missing extension in list above
-files = [f if f.endswith('.ts') else f + '.ts' for f in files]
-
-pois = []
-
-for f_path in files:
-    try:
-        with open(f_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-    except Exception as e:
-        print(f"Failed to read {f_path}: {e}")
-        continue
+for file in files:
+    with open(file, 'r', encoding='utf-8') as f:
+        content = f.read()
     
-    # We find blocks starting with { and ending with } containing id:
-    # A bit hard with regex, let's look for "id: "..." and extract nearby fields.
-    
-    # Let's split by id:
-    parts = content.split('id: "')
-    for i in range(1, len(parts)):
-        part = parts[i]
-        try:
-            poi_id = part.split('"')[0]
+    blocks = re.findall(r'\{\s*id:\s*[\'"]([^\'"]+)[\'"](.*?)\n\s*\}', content, re.DOTALL)
+    for poi_id, block in blocks:
+        # Check if descriptionAdvanced.de is empty or missing
+        de_desc_match = re.search(r'descriptionAdvanced:\s*\{[\s\S]*?de:\s*[\'"]([^\'"]*)[\'"]', block)
+        de_facts_match = re.search(r'factsAdvanced:\s*\{[\s\S]*?de:\s*\[([\s\S]*?)\]', block)
+        
+        has_de_content = False
+        if de_desc_match and len(de_desc_match.group(1).strip()) > 0:
+            has_de_content = True
             
-            # find parent
-            parent_match = re.search(r'parent:\s*"([^"]+)"', part)
-            if not parent_match:
-                continue
-            parent = parent_match.group(1)
+        if has_de_content:
+            continue
             
-            if not parent.startswith("DE-"):
-                continue
-                
-            # find coords
-            coords_match = re.search(r'coords:\s*\[\s*([-0-9.]+)\s*,\s*([-0-9.]+)\s*\]', part)
-            if not coords_match:
-                continue
-            lon, lat = float(coords_match.group(1)), float(coords_match.group(2))
+        hu_desc = ""
+        hu_facts = []
+        
+        # Get descriptionAdvanced.hu
+        hu_desc_match = re.search(r'descriptionAdvanced:\s*\{[\s\S]*?hu:\s*[\'"]([^\'"]*)[\'"]', block)
+        if hu_desc_match:
+            hu_desc = hu_desc_match.group(1)
             
-            # find type
-            type_match = re.search(r'type:\s*"([^"]+)"', part)
-            poi_type = type_match.group(1) if type_match else "unknown"
+        # Get factsAdvanced.hu
+        hu_facts_match = re.search(r'factsAdvanced:\s*\{[\s\S]*?hu:\s*\[([\s\S]*?)\]', block)
+        if hu_facts_match:
+            facts_str = hu_facts_match.group(1)
+            hu_facts = re.findall(r'[\'"]([^\'"]*)[\'"]', facts_str)
             
-            # find names
-            name_de_match = re.search(r'de:\s*"([^"]+)"', part)
-            name_en_match = re.search(r'en:\s*"([^"]+)"', part)
-            
-            pois.append({
-                'id': poi_id,
-                'parent': parent,
-                'coords': [lon, lat],
-                'type': poi_type,
-                'name': {
-                    'de': name_de_match.group(1) if name_de_match else "",
-                    'en': name_en_match.group(1) if name_en_match else ""
-                }
-            })
-        except Exception as e:
-            pass
+        missing.append({
+            'file': file,
+            'id': poi_id,
+            'hu_desc': hu_desc,
+            'hu_facts': hu_facts
+        })
 
-with open('de_pois_dump.json', 'w', encoding='utf-8') as f:
-    json.dump(pois, f, indent=2)
-print(f"Extracted {len(pois)} POIs")
+with open('missing_de.json', 'w', encoding='utf-8') as f:
+    json.dump(missing, f, ensure_ascii=False, indent=2)
+
+print(f"Extracted {len(missing)} POIs.")

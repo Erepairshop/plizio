@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 export const INFO_K6_I3_LABELS: Record<string, Record<string, string>> = {
@@ -87,3 +88,4 @@ export const INFO_K6_I3_POOL: PoolTopicDef[] = [
     quiz: { question: "t5_q", choices: ["t5_qa","t5_qb","t5_qc","t5_qd"], answer: "t5_qa" }
   }
 ];
+

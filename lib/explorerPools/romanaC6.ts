@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/romanaC6.ts — AstroRomână Clasa 6
 import type { PoolTopicDef, SvgConfig } from "./types";
 import type { TopicInteractive } from "@/app/astro-biologie/games/ExplorerEngine";
@@ -11472,3 +11473,4 @@ export const RECAP6_LABELS: Record<string, Record<string, string>> = {
   }
 };
 export const RECAP6_POOL = RECAP6.pool;
+

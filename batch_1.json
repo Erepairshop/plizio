@@ -1,100 +1,212 @@
 [
   {
-    "id": "country-czech-republic",
-    "factsAdvanced_de": [
-      "Die Tschechische Republik entstand 1993 nach der friedlichen Auflösung der Tschechoslowakei.",
-      "Das Land verfügt über ein ausgedehntes Netz gut markierter Wanderwege, eines der besten in Europa.",
-      "Tschechien ist ein bedeutender Produzent von Škoda-Automobilen und hat eine lange Tradition im Maschinenbau.",
-      "Sachkunde K8 — europäische Staaten und ihre Entwicklung im 20. Jahrhundert."
-    ]
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-el-tarter-extra",
+    "hu_desc": "",
+    "hu_facts": []
   },
   {
-    "id": "city-prague",
-    "factsAdvanced_de": [
-      "Das historische Zentrum von Prag gehört seit 1992 zum UNESCO-Weltkulturerbe.",
-      "Die Prager Burg war historisch der Sitz böhmischer Könige, römisch-deutscher Kaiser und Präsidenten.",
-      "Der Veitsdom in der Prager Burg ist das wichtigste und größte Kirchengebäude Tschechiens.",
-      "Geschichte K7 — europäische Hauptstädte im Mittelalter."
-    ]
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-incles-extra",
+    "hu_desc": "",
+    "hu_facts": []
   },
   {
-    "id": "city-brno",
-    "descriptionAdvanced_de": "Brünn (Brno) ist die zweitgrößte Stadt der Tschechischen Republik und das historische Zentrum von Mähren. Die Stadt ist für ihre modernistische Architektur bekannt, insbesondere für die zum UNESCO-Weltkulturerbe zählende Villa Tugendhat. Brünn hat eine lebendige studentische Atmosphäre und ist ein wichtiger Standort für Technologie und Innovation. Auf einem Hügel über der Stadt thront die Festung Spielberg (Špilberk), die einst als berüchtigtes Gefängnis der Habsburger Monarchie diente. Heute vereint Brünn auf einzigartige Weise sein reiches historisches Erbe mit einer dynamischen, modernen Entwicklung. Geografie K6 — bedeutende europäische Industrie- und Universitätsstädte.",
-    "factsAdvanced_de": [
-      "Die Villa Tugendhat ist ein Meisterwerk der modernen Architektur von Ludwig Mies van der Rohe.",
-      "In der Festung Spielberg wurden im 18. und 19. Jahrhundert zahlreiche politische Gefangene inhaftiert.",
-      "Das Brünner Messegelände ist eines der wichtigsten Messezentren in Mitteleuropa.",
-      "Die Stadt besitzt ein umfangreiches unterirdisches Labyrinth, das teilweise für Besucher geöffnet ist."
-    ]
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-meritxell-extra",
+    "hu_desc": "",
+    "hu_facts": []
   },
   {
-    "id": "city-plzen",
-    "descriptionAdvanced_de": "Pilsen (Plzeň) ist die viertgrößte Stadt in der Tschechischen Republik und liegt im Westen Böhmens. Sie ist weltweit berühmt als der Geburtsort des Pilsner Bieres, das hier 1842 zum ersten Mal gebraut wurde. Die historische Altstadt wird vom mächtigen Turm der St.-Bartholomäus-Kathedrale dominiert, dem höchsten Kirchturm des Landes. Pilsen hat eine lange industrielle Tradition, die stark mit den Škoda-Werken verbunden ist. Die Stadt war 2015 Kulturhauptstadt Europas und bietet eine lebendige Mischung aus Industriekultur, Brautradition und moderner Kunst. Sachkunde K7 — europäische Industriegeschichte und urbane Entwicklung.",
-    "factsAdvanced_de": [
-      "Das Pilsner Urquell, 1842 hier gebraut, gilt als das erste helle Lagerbier der Welt.",
-      "Der Turm der St.-Bartholomäus-Kathedrale ist mit 102 Metern der höchste in Tschechien.",
-      "Die Große Synagoge in Pilsen ist die drittgrößte Synagoge der Welt.",
-      "Pilsen verfügt über ein ausgedehntes historisches Kellersystem unter der Altstadt."
-    ]
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-prats-canillo-extra",
+    "hu_desc": "",
+    "hu_facts": []
   },
   {
-    "id": "city-cesky-krumlov",
-    "descriptionAdvanced_de": "Krumau an der Moldau (Český Krumlov) ist eine der malerischsten Städte Europas und ein herausragendes Beispiel einer kleinen mittelalterlichen Stadt in Mitteleuropa. Das historische Zentrum, das von einer Schleife der Moldau umschlossen wird, gehört zum UNESCO-Weltkulturerbe. Über der Altstadt thront ein riesiger Schlosskomplex, der nach der Prager Burg der zweitgrößte des Landes ist. Die verwinkelten Gassen, die farbenfrohen Renaissance- und Barockhäuser und die romantische Atmosphäre ziehen jährlich Tausende von Besuchern an. Krumau ist auch ein kulturelles Zentrum, das unter anderem für sein einzigartiges Barocktheater bekannt ist. Geschichte K6 — mittelalterliche Stadtstrukturen in Mitteleuropa.",
-    "factsAdvanced_de": [
-      "Der Schlosskomplex von Český Krumlov umfasst 40 Gebäude und Paläste sowie einen großen Schlosspark.",
-      "Das Barocktheater des Schlosses ist eines der wenigen erhaltenen Theater dieser Epoche mit originaler Bühnenmaschinerie.",
-      "Die Altstadt hat ihr ursprüngliches Straßennetz aus dem Mittelalter weitgehend bewahrt.",
-      "Egon Schiele, ein berühmter Künstler, lebte und arbeitete einige Zeit in der Stadt."
-    ]
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-ransol-extra",
+    "hu_desc": "",
+    "hu_facts": []
   },
   {
-    "id": "city-karlovy-vary",
-    "descriptionAdvanced_de": "Karlsbad (Karlovy Vary) ist der berühmteste und größte Kurort der Tschechischen Republik und liegt im malerischen Tal des Flusses Teplá. Die Stadt wurde im 14. Jahrhundert von Kaiser Karl IV. gegründet und zog im 18. und 19. Jahrhundert die europäische Elite an. Karlsbad ist bekannt für seine zahlreichen heißen Thermalquellen, deren Wasser in eleganten Kolonnaden ausgeschenkt wird. Die Architektur der Stadt ist stark vom Historismus und Jugendstil geprägt, was ihr ein mondänes Flair verleiht. Neben dem Kurbetrieb ist Karlsbad auch berühmt für die Herstellung von Becherovka-Likör, Moser-Glas und für das internationale Filmfestival. Geografie K7 — Heilquellen und der europäische Kurtourismus.",
-    "factsAdvanced_de": [
-      "Der Sprudel (Vřídlo) ist die heißeste Quelle in Karlsbad und schießt Wasser mit 72°C bis zu 12 Meter hoch.",
-      "Berühmte Persönlichkeiten wie Goethe, Beethoven und Karl Marx zählten zu den Kurgästen.",
-      "Der traditionelle Kräuterlikör Becherovka wird seit 1807 in Karlsbad produziert.",
-      "Das Internationale Filmfestival Karlovy Vary ist eines der ältesten und wichtigsten Filmfestivals in Europa."
-    ]
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-el-forn-canillo-extra",
+    "hu_desc": "",
+    "hu_facts": []
   },
   {
-    "id": "city-kutna-hora",
-    "descriptionAdvanced_de": "Kuttenberg (Kutná Hora) ist eine historische Stadt in Mittelböhmen, die im Mittelalter dank ihrer reichen Silberminen nach Prag die zweitwichtigste Stadt des böhmischen Königreichs war. Der einstige Reichtum der Stadt spiegelt sich in prächtigen Bauwerken wider, die heute zum UNESCO-Weltkulturerbe gehören. Zu den herausragendsten Monumenten zählt die majestätische gotische St.-Barbara-Kirche, die den Bergleuten gewidmet ist. Ein weiterer morbider, aber faszinierender Anziehungspunkt ist das nahegelegene Beinhaus im Vorort Sedlec, dessen Innenausstattung aus menschlichen Knochen besteht. Kuttenberg bietet einen tiefen Einblick in die wirtschaftliche und kulturelle Blütezeit Böhmens im späten Mittelalter. Geschichte K8 — Bergbau und Wirtschaft im mittelalterlichen Europa.",
-    "factsAdvanced_de": [
-      "Der Prager Groschen, eine der stärksten europäischen Währungen des Mittelalters, wurde im Welschen Hof in Kuttenberg geprägt.",
-      "Das Beinhaus von Sedlec enthält die Gebeine von schätzungsweise 40.000 bis 70.000 Menschen.",
-      "Die St.-Barbara-Kirche zeichnet sich durch ihr einzigartiges Zelt-Dach und prächtige spätgotische Fresken aus.",
-      "Der Silberabbau in der Stadt war die Hauptfinanzquelle für den Bau der monumentalen Kirchen."
-    ]
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-laldosa-canillo-extra",
+    "hu_desc": "",
+    "hu_facts": []
   },
   {
-    "id": "nature-sumava",
-    "descriptionAdvanced_de": "Der Böhmerwald (Šumava) ist ein ausgedehntes Mittelgebirge entlang der Grenze zwischen Tschechien, Deutschland und Österreich. Er ist eines der größten zusammenhängenden Waldgebiete in Mitteleuropa und wird oft als das 'grüne Dach Europas' bezeichnet. Der tschechische Nationalpark Šumava schützt eine einzigartige Landschaft aus alten Wäldern, tiefen Hochmooren, Gletscherseen und malerischen Bergbächen. Die Region ist ein Refugium für seltene Tier- und Pflanzenarten, darunter auch der wiederangesiedelte Luchs. Der Böhmerwald bietet hervorragende Bedingungen für Wanderer, Radfahrer und im Winter für Skilangläufer, während er gleichzeitig eine Atmosphäre von unberührter und rauer Natur bewahrt. Biologie K7 — Waldökosysteme und Naturschutzgebiete in Mitteleuropa.",
-    "factsAdvanced_de": [
-      "Der Schwarze See (Černé jezero) ist der größte und tiefste natürliche See in Tschechien.",
-      "Die Moldau (Vltava), der längste Fluss Tschechiens, entspringt im Böhmerwald.",
-      "Das Gebiet war während des Kalten Krieges Teil des Eisernen Vorhangs, was ironischerweise zum Erhalt der Natur beitrug.",
-      "Typisch für den Böhmerwald sind ausgedehnte, nährstoffarme Hochmoore."
-    ]
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-el-vilar-canillo-extra",
+    "hu_desc": "",
+    "hu_facts": []
   },
   {
-    "id": "city-ostrava",
-    "descriptionAdvanced_de": "Ostrau (Ostrava) ist die drittgrößte Stadt der Tschechischen Republik und liegt im Osten des Landes nahe der polnischen Grenze. Lange Zeit wurde sie wegen ihrer intensiven Kohleförderung und Stahlproduktion als das 'stahlharte Herz der Republik' bezeichnet. Nach dem Ende des Kohleabbaus im Jahr 1994 hat die Stadt einen beeindruckenden Strukturwandel durchlaufen. Ehemalige Industrieareale wie Dolní Vítkovice wurden in lebendige kulturelle, edukative und gesellschaftliche Zentren umgewandelt. Ostrau ist heute eine dynamische, grüne Stadt, die stolz ihr industrielles Erbe präsentiert und gleichzeitig als moderner Universitätsstandort aufblüht. Geografie K8 — Strukturwandel in europäischen Industrieregionen.",
-    "factsAdvanced_de": [
-      "Das Industrieareal Dolní Vítkovice ist ein europäisches Kulturerbe und zeigt den kompletten Produktionsprozess von Kohle zu Stahl.",
-      "Der Hochofen Nr. 1 wurde zu einem Aussichtsturm mit Café, dem 'Bolt Tower', umgebaut.",
-      "Das jährliche Musikfestival 'Colours of Ostrava' ist eines der größten in Mitteleuropa.",
-      "Ostrau hat die höchste Konzentration an Bergbaumuseen in Tschechien."
-    ]
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-armiana-extra",
+    "hu_desc": "",
+    "hu_facts": []
   },
   {
-    "id": "city-liberec",
-    "descriptionAdvanced_de": "Reichenberg (Liberec) ist eine bedeutende Stadt im Norden Böhmens, am Fuße des Isergebirges gelegen. Im 19. Jahrhundert erlebte die Stadt durch die blühende Textilindustrie einen enormen Aufschwung, der sich in prachtvollen Villenvierteln und repräsentativen öffentlichen Gebäuden wie dem imposanten Rathaus widerspiegelt. Das unangefochtene Wahrzeichen der Stadt und der Region ist jedoch der Fernsehturm auf dem Berg Ještěd (Jeschken), dessen futuristische Architektur oft mit einem Raumschiff verglichen wird. Liberec ist heute ein wichtiges Wintersportzentrum und zieht mit botanischem Garten, Zoo und interaktivem Wissenschaftszentrum viele Familien an. Geografie K6 — regionale Entwicklung durch Textilindustrie.",
-    "factsAdvanced_de": [
-      "Das Rathaus von Liberec wurde im Stil der Neorenaissance erbaut und ähnelt stark dem Wiener Rathaus.",
-      "Der Fernsehturm Ještěd wurde mit dem Perret-Preis für herausragende Architektur ausgezeichnet.",
-      "Der Zoo Liberec ist der älteste Zoologische Garten in der Tschechischen Republik (gegründet 1904).",
-      "Die Stadt ist stark vom Gebirgsklima geprägt und hat lange, schneereiche Winter."
-    ]
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-bordes-denvalira-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-planoles-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-molleres-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-cascada-moles-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-grau-roig-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-les-bons-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-vila-encamp-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-cortals-dencamp-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-la-tremada-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-mosquera-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-port-denvalira-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-les-pardines-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-les-costes-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-vall-dorient-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-riu-dels-llacs-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-les-ortes-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-pal-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-erets-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-sispony-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-anyos-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-laldosa-massana-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-escas-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-puiol-del-piu-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-xixerella-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-mas-de-ribafeta-extra",
+    "hu_desc": "",
+    "hu_facts": []
+  },
+  {
+    "file": "lib/visualLab/data/poiExtraAndorraCities.ts",
+    "id": "city-el-cortalet-extra",
+    "hu_desc": "",
+    "hu_facts": []
   }
 ]

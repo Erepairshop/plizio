@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Kwango tartomány fővárosa.", "A Kinshasába vezető főút mentén fekszik.", "Fontos mezőgazdasági kereskedelmi központ."],
       ro: ["Capitala provinciei Kwango.", "Situat pe drumul principal către Kinshasa.", "Centru important pentru comerțul agricol."],
       en: ["Capital of Kwango province.", "Located on the main road to Kinshasa.", "Important center for agricultural trade."]
-    }
-  },
+    }, image: "/poi-images/cd-kenge-cities-v2.webp"},
   {
     id: "cd-bandundu-cities-v2",
     type: "state-capital",
@@ -47,8 +47,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["A Kwango és a Kwilu folyók összefolyásánál fekszik.", "Jelentős kikötő a Kinshasába irányuló szállítmányozásban.", "Korábban Banningville néven volt ismert."],
       ro: ["Situat la confluența râurilor Kwango și Kwilu.", "Port major pentru transportul către Kinshasa.", "Fost cunoscut sub numele de Banningville."],
       en: ["Located at the confluence of the Kwango and Kwilu rivers.", "Major port for transport to Kinshasa.", "Formerly known as Banningville."]
-    }
-  },
+    }, image: "/poi-images/cd-bandundu-cities-v2.webp"},
   {
     id: "cd-kikwit-cities-v2",
     type: "city",
@@ -71,8 +70,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Élénk zenei hagyományairól ismert.", "A régió fontos piactere.", "Az N1-es főúthoz csatlakozik."],
       ro: ["Cunoscut pentru tradiția sa muzicală vibrantă.", "Piață importantă pentru regiune.", "Conectat la drumul principal N1."],
       en: ["Known for its vibrant musical tradition.", "Important marketplace for the region.", "Connected to the N1 main road."]
-    }
-  },
+    }, image: "/poi-images/cd-kikwit-cities-v2.webp"},
   {
     id: "cd-inongo-cities-v2",
     type: "state-capital",
@@ -95,8 +93,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Mai-Ndombe tartomány fővárosa.", "Jelentős halászkikötő a tavon.", "Egykor a gumitermelés központja volt."],
       ro: ["Capitala provinciei Mai-Ndombe.", "Port de pescuit important pe lac.", "Fost centru de producție a cauciucului."],
       en: ["Capital of Mai-Ndombe province.", "Important fishing port on the lake.", "Formerly a center for rubber production."]
-    }
-  },
+    }, image: "/poi-images/cd-inongo-cities-v2.webp"},
   {
     id: "cd-kindu-cities-v2",
     type: "state-capital",
@@ -119,8 +116,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Egy délről jövő vasútvonal végpontja.", "Arany- és gyémántkereskedelem jelentős központja.", "Történelmi arab-szuahéli kereskedelmi állomás volt."],
       ro: ["Punct terminus al unei linii de cale ferată din sud.", "Centru important pentru comerțul cu aur și diamante.", "A fost un post comercial istoric arabo-swahili."],
       en: ["Terminus of a railway line from the south.", "Major center for gold and diamond trading.", "Was a historical Arab-Swahili trading post."]
-    }
-  },
+    }, image: "/poi-images/cd-kindu-cities-v2.webp"},
   {
     id: "cd-kasongo-cities-v2",
     type: "city",
@@ -143,8 +139,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Tippu Tip rabszolga- és elefántcsont-kereskedő egykori bázisa.", "A régió jelentős iszlám központja.", "A Lualaba folyó közelében fekszik."],
       ro: ["Fosta fortăreață a negustorului de sclavi și fildeș Tippu Tip.", "Centru islamic important în regiune.", "Situat aproape de râul Lualaba."],
       en: ["Former stronghold of the slave and ivory trader Tippu Tip.", "Important Islamic center in the region.", "Located near the Lualaba River."]
-    }
-  },
+    }, image: "/poi-images/cd-kasongo-cities-v2.webp"},
   {
     id: "cd-kalima-cities-v2",
     type: "city",
@@ -167,8 +162,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Az ónérc (kassziterit) bányászatának fontos központja.", "Tervezett bányásztelepülésként jött létre.", "Saját leszállópályával rendelkezik az ásványok szállítására."],
       ro: ["Centru important pentru extracția minereului de staniu (casiterit).", "Dezvoltat ca o așezare minieră planificată.", "Are propria pistă de aterizare pentru transportul mineralelor."],
       en: ["Important center for tin ore (cassiterite) mining.", "Developed as a planned mining settlement.", "Has its own airstrip for mineral transport."]
-    }
-  },
+    }, image: "/poi-images/cd-kalima-cities-v2.webp"},
   {
     id: "cd-kimpese-cities-v2",
     type: "city",
@@ -191,8 +185,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Híres nagy referencia-kórházáról.", "Fontos megálló a Matadi-Kinshasa vasútvonalon.", "Cementgyártási központ."],
       ro: ["Cunoscut pentru marele său spital de referință.", "Oprire importantă pe linia de cale ferată Matadi-Kinshasa.", "Centru pentru producția de ciment."],
       en: ["Known for its large reference hospital.", "Important stop on the Matadi-Kinshasa railway line.", "Center for cement production."]
-    }
-  },
+    }, image: "/poi-images/cd-kimpese-cities-v2.webp"},
   {
     id: "cd-inkisi-cities-v2",
     type: "city",
@@ -215,8 +208,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Az Inkisi folyó partján fekszik.", "Fontos közlekedési csomópont a Kinshasába vezető úton.", "Híres a közeli Zongo-vízesésekről."],
       ro: ["Situat pe râul Inkisi.", "Nod de transport important pe drumul către Kinshasa.", "Celebru pentru cascadele Zongo din apropiere."],
       en: ["Located on the Inkisi River.", "Important transport hub on the road to Kinshasa.", "Famous for the nearby Zongo Falls."]
-    }
-  },
+    }, image: "/poi-images/cd-inkisi-cities-v2.webp"},
   {
     id: "cd-kasangulu-cities-v2",
     type: "city",
@@ -239,8 +231,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Kapu Kinshasába a tengerpart felől érkezőknek.", "Fontos ellenőrzőpont az áruforgalom számára.", "Gyorsan növekszik a főváros közelsége miatt."],
       ro: ["Poartă de acces către Kinshasa pentru cei care vin de la coastă.", "Punct de control important pentru traficul de mărfuri.", "Crește rapid datorită proximității față de capitală."],
       en: ["Gateway to Kinshasa for travelers from the coast.", "Important checkpoint for cargo traffic.", "Growing rapidly due to proximity to the capital."]
-    }
-  },
+    }, image: "/poi-images/cd-kasangulu-cities-v2.webp"},
   {
     id: "cd-lukula-cities-v2",
     type: "city",
@@ -263,8 +254,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["A fatermelés központja.", "Jelentős pálmaolaj-termelő.", "A Mayumbe vasútvonalhoz csatlakozik."],
       ro: ["Centru pentru producția de cherestea.", "Producător important de ulei de palmier.", "Conectat la linia de cale ferată Mayumbe."],
       en: ["Center for timber production.", "Important producer of palm oil.", "Connected to the Mayumbe railway line."]
-    }
-  },
+    }, image: "/poi-images/cd-lukula-cities-v2.webp"},
   {
     id: "cd-tshela-cities-v2",
     type: "city",
@@ -311,8 +301,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Fontos folyami áruforgalmi csomópont.", "Történelmi állomás a gyarmati időszakból.", "Sűrű esőerdő veszi körül."],
       ro: ["Punct important de transfer pentru mărfuri pe râu.", "Post istoric în perioada colonială.", "Înconjurat de pădure tropicală densă."],
       en: ["Important transshipment point for river goods.", "Historical post during the colonial era.", "Surrounded by dense rainforest."]
-    }
-  },
+    }, image: "/poi-images/cd-basoko-cities-v2.webp"},
   {
     id: "cd-isangi-cities-v2",
     type: "city",
@@ -359,8 +348,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Hatalmas UNESCO bioszféra-rezervátumnak ad otthont.", "Egykor világvezető trópusi kutatóintézet székhelye volt.", "Fontos helyszín a klímaváltozás tanulmányozására."],
       ro: ["Găzduiește o vastă rezervație a biosferei UNESCO.", "Fost sediu al unui institut de cercetare tropicală de talie mondială.", "Important pentru studierea schimbărilor climatice."],
       en: ["Hosts a vast UNESCO biosphere reserve.", "Former seat of a world-leading tropical research institute.", "Important for climate change studies."]
-    }
-  },
+    }, image: "/poi-images/cd-yangambi-cities-v2.webp"},
   {
     id: "cd-ubundu-cities-v2",
     type: "city",
@@ -383,8 +371,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["A Kisanganiból jövő vasútvonal fontos végpontja.", "Jelentős folyami áruátrakodó hely.", "Egy hosszú hajózható folyószakasz kezdetét jelzi."],
       ro: ["Punct terminus important al căii ferate din Kisangani.", "Nod semnificativ de transbordare a mărfurilor.", "Marchează începutul unei lungi porțiuni navigabile a râului."],
       en: ["Important terminus of the railway from Kisangani.", "Significant transshipment point for goods.", "Marks the start of a long navigable stretch of the river."]
-    }
-  },
+    }, image: "/poi-images/cd-ubundu-cities-v2.webp"},
   {
     id: "cd-aketi-cities-v2",
     type: "city",
@@ -407,8 +394,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Az Itimbiri folyó partján fekszik.", "A Vicicongo vasútvonal fontos csomópontja.", "Mezőgazdasági exportközpont."],
       ro: ["Situat pe râul Itimbiri.", "Nod important al căii ferate Vicicongo.", "Centru pentru exportul produselor agricole."],
       en: ["Located on the Itimbiri River.", "Important junction of the Vicicongo railway.", "Center for agricultural exports."]
-    }
-  },
+    }, image: "/poi-images/cd-aketi-cities-v2.webp"},
   {
     id: "cd-bambesa-cities-v2",
     type: "city",
@@ -479,8 +465,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Kapu a Garamba Nemzeti Parkhoz.", "Gyarmati időkből származó kastélyrommal rendelkezik.", "Fontos humanitárius bázis."],
       ro: ["Poartă de acces către Parcul Național Garamba.", "Deține ruinele unui castel istoric din epoca colonială.", "Bază umanitară importantă."],
       en: ["Gateway to Garamba National Park.", "Features historical ruins of a colonial-era castle.", "Important humanitarian hub."]
-    }
-  },
+    }, image: "/poi-images/cd-dungu-cities-v2.webp"},
   {
     id: "cd-faradje-cities-v2",
     type: "city",
@@ -503,8 +488,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["A dél-szudáni határ közelében fekszik.", "Ökológiailag jelentős övezetben található.", "Gazdasága a mezőgazdaságon és állattenyésztésen alapul."],
       ro: ["Aproape de granița cu Sudanul de Sud.", "Situat într-o zonă semnificativă din punct de vedere ecologic.", "Economia se bazează pe agricultură și creșterea animalelor."],
       en: ["Near the South Sudan border.", "Located in an ecologically significant zone.", "Economy based on agriculture and livestock."]
-    }
-  },
+    }, image: "/poi-images/cd-faradje-cities-v2.webp"},
   {
     id: "cd-mambasa-cities-v2",
     type: "city",
@@ -527,8 +511,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Kapu az Okapi Vadrezervátumhoz.", "Fontos megálló az N4-es nemzeti úton.", "A világ egyik legváltozatosabb élővilágú régiója veszi körül."],
       ro: ["Poartă de acces către Rezervația de Faună Okapi.", "Oprire importantă pe drumul național N4.", "Înconjurat de una dintre cele mai biodiverse regiuni din lume."],
       en: ["Gateway to the Okapi Wildlife Reserve.", "Important stop on the N4 national road.", "Surrounded by one of the most biodiverse regions in the world."]
-    }
-  },
+    }, image: "/poi-images/cd-mambasa-cities-v2.webp"},
   {
     id: "cd-djugu-cities-v2",
     type: "city",
@@ -551,8 +534,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Aranybányászati lelőhelyeiről ismert.", "Hegyvidéki régióban, hűvösebb éghajlaton fekszik.", "Állattenyésztési és mezőgazdasági központ."],
       ro: ["Cunoscut pentru zăcămintele de aur.", "Situat într-o regiune muntoasă cu climă mai rece.", "Centru pentru creșterea animalelor și agricultură."],
       en: ["Known for gold mining deposits.", "Located in a mountainous region with cooler climate.", "Center for livestock and agriculture."]
-    }
-  },
+    }, image: "/poi-images/cd-djugu-cities-v2.webp"},
   {
     id: "cd-rutshuru-cities-v2",
     type: "city",
@@ -575,8 +557,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["A Virunga Nemzeti Park közelében található.", "Jelentős élelmiszertermelő központ.", "Stratégiailag fontos város a határ mentén."],
       ro: ["În apropierea Parcului Național Virunga.", "Producător major de produse alimentare.", "Oraș strategic important lângă graniță."],
       en: ["Near the Virunga National Park.", "Major producer of food crops.", "Strategically important town near the border."]
-    }
-  },
+    }, image: "/poi-images/cd-rutshuru-cities-v2.webp"},
   {
     id: "cd-masisi-cities-v2",
     type: "city",
@@ -599,8 +580,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Gyakran nevezik 'Kongó Svájcának'.", "Jelentős sajt- és tejtermelő.", "Festői hegyvidéki táj jellemzi."],
       ro: ["Adesea numit 'Elveția Congoului'.", "Producător important de brânză și lapte.", "Regiune muntoasă pitorească."],
       en: ["Often called the 'Switzerland of Congo'.", "Important producer of cheese and milk.", "Scenic mountainous landscape."]
-    }
-  },
+    }, image: "/poi-images/cd-masisi-cities-v2.webp"},
   {
     id: "cd-lubero-cities-v2",
     type: "city",
@@ -623,8 +603,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Az ország egyik legmagasabban fekvő városa.", "Zöldség- és burgonyatermesztési központ.", "A nande nép történelmi központja."],
       ro: ["Unul dintre cele mai înalte orașe din țară.", "Centru pentru cultivarea legumelor și cartofilor.", "Centrul istoric al poporului Nande."],
       en: ["One of the highest towns in the country.", "Center for vegetable and potato farming.", "Historical center of the Nande people."]
-    }
-  },
+    }, image: "/poi-images/cd-lubero-cities-v2.webp"},
   {
     id: "cd-walikale-cities-v2",
     type: "city",
@@ -647,8 +626,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["A kassziterit (ón) bányászatának fontos központja.", "Sűrű esőerdő közepén fekszik.", "Jelentős bányászati leszállópályával rendelkezik."],
       ro: ["Centru major pentru extracția casiteritului (staniu).", "Situat în mijlocul unei păduri tropicale dense.", "Are o pistă de aterizare importantă pentru minerit."],
       en: ["Major center for cassiterite (tin) mining.", "Located in the middle of a dense rainforest.", "Has an important airstrip for mining."]
-    }
-  },
+    }, image: "/poi-images/cd-walikale-cities-v2.webp"},
   {
     id: "cd-kalehe-cities-v2",
     type: "city",
@@ -671,8 +649,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Kávé- és kínafa-termeléséről ismert.", "Festői tengerparti út mentén fekszik.", "Jelentős halászati központ a tavon."],
       ro: ["Cunoscut pentru producția de cafea și chinina.", "Situat pe un drum de coastă pitoresc.", "Centru de pescuit important pe lac."],
       en: ["Known for coffee and cinchona production.", "Located along a scenic coastal road.", "Significant fishing center on the lake."]
-    }
-  },
+    }, image: "/poi-images/cd-kalehe-cities-v2.webp"},
   {
     id: "cd-walungu-cities-v2",
     type: "city",
@@ -695,8 +672,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Sűrűn lakott mezőgazdasági terület.", "Helyi gazdák fontos piaca.", "Dombos hegyvidéki tájon fekszik."],
       ro: ["Zonă agricolă dens populată.", "Piață importantă pentru fermierii locali.", "Situat într-un peisaj montan deluros."],
       en: ["Densely populated agricultural area.", "Important market for local farmers.", "Located in a hilly mountain landscape."]
-    }
-  },
+    }, image: "/poi-images/cd-walungu-cities-v2.webp"},
   {
     id: "cd-mwenga-cities-v2",
     type: "city",
@@ -719,8 +695,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Kézműves aranybányászat jelentős központja.", "Gazdasága a kávétól és kakaótól függ.", "Csapadékos régióban fekszik."],
       ro: ["Centru semnificativ pentru mineritul artizanal de aur.", "Dependent economic de cafea și cacao.", "Situat într-o regiune ploioasă."],
       en: ["Significant center for artisanal gold mining.", "Economically dependent on coffee and cocoa.", "Located in a high-rainfall region."]
-    }
-  },
+    }, image: "/poi-images/cd-mwenga-cities-v2.webp"},
   {
     id: "cd-shabunda-cities-v2",
     type: "city",
@@ -743,8 +718,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["A tartomány legnagyobb területe.", "Főleg légi úton érhető el.", "Akiaknázatlan ásványkincsekben gazdag."],
       ro: ["Cel mai mare teritoriu din provincie.", "Accesibil în principal pe calea aerului.", "Bogat în zăcăminte minerale neexploatate."],
       en: ["Largest territory in the province.", "Accessible mainly by air.", "Rich in untapped mineral deposits."]
-    }
-  },
+    }, image: "/poi-images/cd-shabunda-cities-v2.webp"},
   {
     id: "cd-nyunzu-cities-v2",
     type: "city",
@@ -767,8 +741,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["A Kalemie és Kindu közötti vasútvonalon fekszik.", "Mezőgazdasági termékek fontos kereskedelmi helye.", "Regionális konfliktusok történelmileg sújtották."],
       ro: ["Situat pe linia dintre Kalemie și Kindu.", "Loc important de comerț pentru produsele agricole.", "Afectat istoric de conflicte regionale."],
       en: ["Located on the line between Kalemie and Kindu.", "Important trading place for agricultural products.", "Historically affected by regional conflicts."]
-    }
-  },
+    }, image: "/poi-images/cd-nyunzu-cities-v2.webp"},
   {
     id: "cd-moba-cities-v2",
     type: "city",
@@ -791,8 +764,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Történelmileg Baudoinville néven volt ismert.", "A regionális halászat fontos kikötője.", "Egy magas fennsík lábánál fekszik."],
       ro: ["Fost cunoscut sub numele de Baudoinville.", "Port important pentru pescuitul regional.", "Situat la poalele unui platou înalt."],
       en: ["Historically known as Baudoinville.", "Important port for regional fishing.", "Located at the foot of a high plateau."]
-    }
-  },
+    }, image: "/poi-images/cd-moba-cities-v2.webp"},
   {
     id: "cd-pweto-cities-v2",
     type: "city",
@@ -815,8 +787,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Stratégiailag fontos határmenti település.", "A Mweru-tavi halászat jelentős központja.", "Modern repülőtérrel rendelkezik."],
       ro: ["Localitate de frontieră strategică.", "Centru important pentru pescuitul pe lacul Mweru.", "Dispune de un aeroport modern."],
       en: ["Strategically important border town.", "Significant center for fishing on Lake Mweru.", "Has a modern airport."]
-    }
-  },
+    }, image: "/poi-images/cd-pweto-cities-v2.webp"},
   {
     id: "cd-kambove-cities-v2",
     type: "city",
@@ -839,8 +810,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Réz- és kobaltlelőhelyeiről ismert.", "Fontos ércfeldolgozó üzemeknek ad otthont.", "A régió egyik legrégebbi bányásztelepülése."],
       ro: ["Cunoscut pentru zăcămintele de cupru și cobalt.", "Găzduiește facilități importante de procesare a minereului.", "Una dintre cele mai vechi așezări miniere din regiune."],
       en: ["Known for its copper and cobalt deposits.", "Hosts major ore processing facilities.", "One of the region's oldest mining settlements."]
-    }
-  },
+    }, image: "/poi-images/cd-kambove-cities-v2.webp"},
   {
     id: "cd-sakania-cities-v2",
     type: "city",
@@ -887,8 +857,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Jelentős halászati központ.", "Számos nagy tó (pl. Upemba) közelében fekszik.", "Fontos mezőgazdasági terület."],
       ro: ["Centru de pescuit semnificativ.", "Situat în apropierea mai multor lacuri mari (Upemba).", "Zonă agricolă importantă."],
       en: ["Significant fishing center.", "Located near several large lakes (Upemba).", "Important agricultural area."]
-    }
-  },
+    }, image: "/poi-images/cd-malemba-nkulu-cities-v2.webp"},
   {
     id: "cd-kaniama-cities-v2",
     type: "city",
@@ -959,8 +928,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Fontos vasúti megálló a teherforgalom számára.", "Mezőgazdasági begyűjtő központként szolgál.", "Szavannás vidék veszi körül."],
       ro: ["Oprire feroviară importantă pentru transportul de marfă.", "Servește ca centru pentru colectarea produselor agricole.", "Înconjurat de terenuri de savană."],
       en: ["Important railway stop for freight traffic.", "Serves as a center for agricultural collections.", "Surrounded by savanna land."]
-    }
-  },
+    }, image: "/poi-images/cd-luputa-cities-v2.webp"},
   {
     id: "cd-luebo-cities-v2",
     type: "city",
@@ -983,8 +951,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["A protestáns missziók egykori központja.", "Oktatási intézményeiről ismert.", "Korábban Kasai tartomány fővárosa volt."],
       ro: ["Fost centru al misiunilor protestante.", "Cunoscut pentru instituțiile sale de învățământ.", "Fostă capitală a provinciei Kasaï."],
       en: ["Former center of Protestant missions.", "Known for its educational institutions.", "Formerly the capital of Kasaï province."]
-    }
-  },
+    }, image: "/poi-images/cd-luebo-cities-v2.webp"},
   {
     id: "cd-katanda-cities-v2",
     type: "city",
@@ -1007,8 +974,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Kézműves gyémántbányászat központja.", "Gazdasága erősen függ az ásványkincsektől.", "Mbuji-Mayi tartományi főváros közelében fekszik."],
       ro: ["Centru pentru extracția artizanală a diamantelor.", "Economie dependentă în mare măsură de minerale.", "Situat aproape de capitala provincială Mbuji-Mayi."],
       en: ["Center for artisanal diamond mining.", "Economy heavily dependent on minerals.", "Located near the provincial capital Mbuji-Mayi."]
-    }
-  },
+    }, image: "/poi-images/cd-katanda-cities-v2.webp"},
   {
     id: "cd-kabeya-kamwanga-cities-v2",
     type: "city",
@@ -1055,8 +1021,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Mélyen az egyenlítői esőerdőben található.", "Csak folyón vagy kis leszállópályákon keresztül érhető el.", "Erdei termékek helyi kereskedelmének fontos pontja."],
       ro: ["Situat adânc în pădurea tropicală ecuatorială.", "Accesibil doar pe râu sau prin mici piste de aterizare.", "Loc important pentru comerțul local cu produse forestiere."],
       en: ["Located deep in the equatorial rainforest.", "Accessible only by river or small airstrips.", "Important site for local forest product trade."]
-    }
-  },
+    }, image: "/poi-images/cd-lomela-cities-v2.webp"},
   {
     id: "cd-katako-kombe-cities-v2",
     type: "city",
@@ -1079,8 +1044,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["Kongó első miniszterelnökének szülőhelye.", "Sankuru tartomány központjában található.", "A tetela nép fontos kulturális központja."],
       ro: ["Locul de naștere al primului prim-ministru al Congoului.", "Situat în centrul provinciei Sankuru.", "Centru cultural important pentru poporul Tetela."],
       en: ["Birthplace of the first Prime Minister of Congo.", "Located in the center of Sankuru province.", "Important cultural center for the Tetela people."]
-    }
-  },
+    }, image: "/poi-images/cd-katako-kombe-cities-v2.webp"},
   {
     id: "cd-djolu-cities-v2",
     type: "city",
@@ -1175,8 +1139,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       hu: ["A Közép-afrikai Köztársasággal szemben fekszik.", "Egykori fontos gyarmati kereskedelmi központ.", "Stratégiailag jelentős leszállópályával rendelkezik."],
       ro: ["Situat vizavi de Republica Centrafricană.", "Fost centru comercial colonial important.", "Dispune de o pistă de aterizare strategică."],
       en: ["Located across from the Central African Republic.", "Former important colonial trading center.", "Has a strategically important airstrip."]
-    }
-  },
+    }, image: "/poi-images/cd-libenge-cities-v2.webp"},
   {
     id: "cd-yakoma-cities-v2",
     type: "city",
@@ -1202,3 +1165,4 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraZambiaCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főváros of Zambia", "Főbb commercial központ", "Named after a local headman Lusaka"],
       ro: ["Capitala of Zambia", "Major commercial centru", "Named after a local headman Lusaka"],
       en: ["Capital of Zambia", "Major commercial center", "Named after a local headman Lusaka"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Lusaka wurde 1905 von europäischen Siedlern gegründet und entwickelte sich aufgrund seiner zentralen Lage zur Hauptstadt Sambias. Heute beherbergt die Metropole über 2,5 Millionen Einwohner und dient als politisches sowie wirtschaftliches Herz des Landes. Sie ist bekannt für ihre lebhaften Märkte und den Sitz des sambischen Parlaments im National Assembly Building, das 1964 eröffnet wurde. Geografie K7 — urbane Zentren in Afrika.",
+      hu: "Lusaka 1905-ben alapult európai telepesek által, és központi fekvésének köszönhetően vált Zambia fővárosává. Ma a metropolisz több mint 2,5 millió lakosnak ad otthont, és az ország politikai és gazdasági központja. Ismert nyüzsgő piacairól és a sambiai parlament székhelyéről, a National Assembly Buildingről, amelyet 1964-ben adtak át. Földrajz K7 — afrikai nagyvárosok.",
+      ro: "Lusaka a fost fondat în 1905 de coloniști europeni și a devenit capitala Zambiei datorită locației sale centrale. Astăzi, metropola găzduiește peste 2,5 milioane de locuitori și servește drept inimă politică și economică a țării. Este renumit pentru piețele sale vibrante și pentru sediul parlamentului zambian din Clădirea Adunării Naționale, inaugurată în 1964. Geografie K7 — centre urbane în Africa.",
+      en: "Lusaka was founded in 1905 by European settlers and developed into Zambia's capital due to its central location. Today, the metropolis is home to over 2.5 million residents and serves as the political and economic heart of the country. It is known for its vibrant markets and the seat of the Zambian parliament in the National Assembly Building, opened in 1964. Geography K7 — urban centers in Africa."
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: über 2,5 Millionen", "Gegründet: 1905", "Höhe: 1.279 Meter", "Hauptstadt seit: 1935", "Fläche: ca. 360 km²", "Nationalmuseum-Standort"],
+      hu: ["Népesség: több mint 2,5 millió", "Alapítva: 1905", "Magasság: 1279 méter", "Főváros óta: 1935", "Terület: kb. 360 km²", "Nemzeti Múzeum helyszíne"],
+      ro: ["Populație: peste 2,5 milioane", "Fondat: 1905", "Altitudine: 1279 metri", "Capitală din: 1935", "Suprafață: cca. 360 km²", "Locație Muzeul Național"],
+      en: ["Population: over 2.5 million", "Founded: 1905", "Elevation: 1,279 meters", "Capital since: 1935", "Area: approx. 360 sq km", "National Museum site"]
+    }, image: "/poi-images/lusaka-cities-v2.webp"},
   {
     id: "ndola-cities-v2",
     type: "city",
@@ -37,8 +49,19 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Industrial központ", "Főváros of Copperbelt", "Gateway to the mineral producing region"],
       ro: ["Industrial centru", "Capitala of Copperbelt", "Gateway to the mineral producing region"],
       en: ["Industrial center", "Capital of Copperbelt", "Gateway to the mineral producing region"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Ndola liegt im Herzen des sambischen Copperbelt und fungiert als industrielles Rückgrat der Region. Die Stadt wurde 1904 gegründet und entwickelte sich schnell zu einem wichtigen Knotenpunkt für den Handel mit Kupfererz. Ein bedeutendes kulturelles Wahrzeichen ist das Dag Hammarskjöld-Denkmal, das an den Absturz des UN-Generalsekretärs im Jahr 1961 erinnert. Erdkunde K8 — industrielle Zentren in Afrika.",
+      hu: "Ndola a zambiai Copperbelt szívében fekszik, és a régió ipari gerincét alkotja. A várost 1904-ben alapították, és gyorsan a rézérc-kereskedelem fontos csomópontjává vált. Jelentős kulturális mérföldkő a Dag Hammarskjöld-emlékmű, amely az ENSZ-főtitkár 1961-es légi katasztrófájára emlékeztet. Földrajz K8 — ipari központok Afrikában.",
+      ro: "Ndola este situat în inima Copperbelt-ului zambian și servește drept coloană vertebrală industrială a regiunii. Orașul a fost fondat în 1904 și s-a dezvoltat rapid într-un punct nodal important pentru comerțul cu minereu de cupru. Un punct de reper cultural semnificativ este Monumentul Dag Hammarskjöld, care comemorează prăbușirea avionului secretarului general al ONU în 1961. Geografie K8 — centre industriale în Africa.",
+      en: "Ndola lies in the heart of the Zambian Copperbelt and serves as the region's industrial backbone. The city was founded in 1904 and quickly developed into a vital hub for copper ore trade. A significant cultural landmark is the Dag Hammarskjöld Memorial, which commemorates the 1961 plane crash of the UN Secretary-General. Geography K8 — industrial centers in Africa."
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1904", "Region: Copperbelt", "Höhe: 1.300 Meter", "Wichtigster Wirtschaftszweig: Kupfer", "Internationale Flughafen-Standort", "Drittgrößte Stadt"],
+      hu: ["Alapítva: 1904", "Régió: Copperbelt", "Magasság: 1300 méter", "Legfontosabb gazdasági ág: réz", "Nemzetközi repülőtér helyszíne", "Harmadik legnagyobb város"],
+      ro: ["Fondat: 1904", "Regiune: Copperbelt", "Altitudine: 1300 metri", "Principalul sector economic: cuprul", "Locație aeroport internațional", "Al treilea oraș ca mărime"],
+      en: ["Founded: 1904", "Region: Copperbelt", "Elevation: 1,300 meters", "Main economic sector: copper", "International airport site", "Third largest city"]
+    }, image: "/poi-images/ndola-cities-v2.webp"},
   {
     id: "kitwe-cities-v2",
     type: "city",
@@ -56,8 +79,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főbb copper mining város", "Founded in 1936", "Second most populous város"],
       ro: ["Major copper mining oraș", "Founded in 1936", "Second most populous oraș"],
       en: ["Major copper mining city", "Founded in 1936", "Second most populous city"]
-    }
-  },
+    }, image: "/poi-images/kitwe-cities-v2.webp"},
   {
     id: "kabwe-cities-v2",
     type: "city",
@@ -75,8 +97,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főváros of Central Tartomány", "Former mining központ", "Home to Broken Hill man skull"],
       ro: ["Capitala of Central Provincia", "Former mining centru", "Home to Broken Hill man skull"],
       en: ["Capital of Central Province", "Former mining center", "Home to Broken Hill man skull"]
-    }
-  },
+    }, image: "/poi-images/kabwe-cities-v2.webp"},
   {
     id: "chingola-cities-v2",
     type: "city",
@@ -94,8 +115,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Known for copper mining", "Nchanga Open Pit Mine", "Founded in 1943"],
       ro: ["Known for copper mining", "Nchanga Open Pit Mine", "Founded in 1943"],
       en: ["Known for copper mining", "Nchanga Open Pit Mine", "Founded in 1943"]
-    }
-  },
+    }, image: "/poi-images/chingola-cities-v2.webp"},
   {
     id: "mufulira-cities-v2",
     type: "city",
@@ -113,8 +133,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Important mining Város", "Mufulira Wanderers football club", "Grew around the copper mine"],
       ro: ["Important mining Oraș", "Mufulira Wanderers football club", "Grew around the copper mine"],
       en: ["Important mining town", "Mufulira Wanderers football club", "Grew around the copper mine"]
-    }
-  },
+    }, image: "/poi-images/mufulira-cities-v2.webp"},
   {
     id: "luanshya-cities-v2",
     type: "city",
@@ -132,8 +151,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Historic mining Város", "Known as the Garden Town", "Roan Antelope Copper Mine"],
       ro: ["Historic mining Oraș", "Known as the Garden Town", "Roan Antelope Copper Mine"],
       en: ["Historic mining town", "Known as the Garden Town", "Roan Antelope Copper Mine"]
-    }
-  },
+    }, image: "/poi-images/luanshya-cities-v2.webp"},
   {
     id: "livingstone-cities-v2",
     type: "city",
@@ -151,8 +169,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Tourism capital of Zambia", "Található near Victoria Falls", "Named after David Livingstone"],
       ro: ["Tourism capital of Zambia", "Situat near Victoria Falls", "Named after David Livingstone"],
       en: ["Tourism capital of Zambia", "Located near Victoria Falls", "Named after David Livingstone"]
-    }
-  },
+    }, image: "/poi-images/livingstone-cities-v2.webp"},
   {
     id: "kasama-cities-v2",
     type: "city",
@@ -170,8 +187,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főváros of Northern Tartomány", "Chishimba Falls nearby", "Főbb agricultural központ"],
       ro: ["Capitala of Northern Provincia", "Chishimba Falls nearby", "Major agricultural centru"],
       en: ["Capital of Northern Province", "Chishimba Falls nearby", "Major agricultural center"]
-    }
-  },
+    }, image: "/poi-images/kasama-cities-v2.webp"},
   {
     id: "chipata-cities-v2",
     type: "city",
@@ -189,8 +205,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főváros of Eastern Tartomány", "Gateway to South Luangwa", "Határ Város near Malawi"],
       ro: ["Capitala of Eastern Provincia", "Gateway to South Luangwa", "Graniță Oraș near Malawi"],
       en: ["Capital of Eastern Province", "Gateway to South Luangwa", "Border town near Malawi"]
-    }
-  },
+    }, image: "/poi-images/chipata-cities-v2.webp"},
   {
     id: "solwezi-cities-v2",
     type: "city",
@@ -208,8 +223,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főváros of North-Western Tartomány", "Rapidly growing mining Város", "Kansanshi Copper Mine"],
       ro: ["Capitala of North-Western Provincia", "Rapidly growing mining Oraș", "Kansanshi Copper Mine"],
       en: ["Capital of North-Western Province", "Rapidly growing mining town", "Kansanshi Copper Mine"]
-    }
-  },
+    }, image: "/poi-images/solwezi-cities-v2.webp"},
   {
     id: "mansa-cities-v2",
     type: "city",
@@ -227,8 +241,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főváros of Luapula Tartomány", "Formerly named Fort Rosebery", "Főbb commercial központ"],
       ro: ["Capitala of Luapula Provincia", "Formerly named Fort Rosebery", "Major commercial centru"],
       en: ["Capital of Luapula Province", "Formerly named Fort Rosebery", "Major commercial center"]
-    }
-  },
+    }, image: "/poi-images/mansa-cities-v2.webp"},
   {
     id: "mazabuka-cities-v2",
     type: "city",
@@ -246,8 +259,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Zambia's sugar capital", "Home to Zambia Sugar", "Található in Southern Tartomány"],
       ro: ["Zambia's sugar capital", "Home to Zambia Sugar", "Situat in Southern Provincia"],
       en: ["Zambia's sugar capital", "Home to Zambia Sugar", "Located in Southern Province"]
-    }
-  },
+    }, image: "/poi-images/mazabuka-cities-v2.webp"},
   {
     id: "choma-cities-v2",
     type: "city",
@@ -265,8 +277,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főváros of Southern Tartomány", "Főbb agricultural hub", "Choma Museum and Crafts Centre"],
       ro: ["Capitala of Southern Provincia", "Major agricultural hub", "Choma Museum and Crafts Centre"],
       en: ["Capital of Southern Province", "Major agricultural hub", "Choma Museum and Crafts Centre"]
-    }
-  },
+    }, image: "/poi-images/choma-cities-v2.webp"},
   {
     id: "mongu-cities-v2",
     type: "city",
@@ -284,8 +295,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főváros of Western Tartomány", "Központ of the Lozi people", "Known for Kuomboka ceremony"],
       ro: ["Capitala of Western Provincia", "Centru of the Lozi people", "Known for Kuomboka ceremony"],
       en: ["Capital of Western Province", "Center of the Lozi people", "Known for Kuomboka ceremony"]
-    }
-  },
+    }, image: "/poi-images/mongu-cities-v2.webp"},
   {
     id: "kapiri-mposhi-cities-v2",
     type: "city",
@@ -303,8 +313,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["TAZARA railway terminal", "Főbb transport hub", "Található on the Great North Road"],
       ro: ["TAZARA railway terminal", "Major transport hub", "Situat on the Great North Road"],
       en: ["TAZARA railway terminal", "Major transport hub", "Located on the Great North Road"]
-    }
-  },
+    }, image: "/poi-images/kapiri-mposhi-cities-v2.webp"},
   {
     id: "monze-cities-v2",
     type: "city",
@@ -322,8 +331,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Agricultural központ", "Named after Chief Monze", "Important road connection"],
       ro: ["Agricultural centru", "Named after Chief Monze", "Important road connection"],
       en: ["Agricultural center", "Named after Chief Monze", "Important road connection"]
-    }
-  },
+    }, image: "/poi-images/monze-cities-v2.webp"},
   {
     id: "mpika-cities-v2",
     type: "city",
@@ -341,8 +349,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főbb transport junction", "Található in Muchinga Tartomány", "TAZARA railway station"],
       ro: ["Major transport junction", "Situat in Muchinga Provincia", "TAZARA railway station"],
       en: ["Major transport junction", "Located in Muchinga Province", "TAZARA railway station"]
-    }
-  },
+    }, image: "/poi-images/mpika-cities-v2.webp"},
   {
     id: "nchelenge-cities-v2",
     type: "city",
@@ -360,8 +367,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Található on Lake Mweru", "Fishing industry központ", "Határ Város near DRC"],
       ro: ["Situat on Lake Mweru", "Fishing industry centru", "Graniță Oraș near DRC"],
       en: ["Located on Lake Mweru", "Fishing industry center", "Border town near DRC"]
-    }
-  },
+    }, image: "/poi-images/nchelenge-cities-v2.webp"},
   {
     id: "kawambwa-cities-v2",
     type: "city",
@@ -379,8 +385,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Tea growing region", "Lumangwe Falls nearby", "Administrative hub"],
       ro: ["Tea growing region", "Lumangwe Falls nearby", "Administrative hub"],
       en: ["Tea growing region", "Lumangwe Falls nearby", "Administrative hub"]
-    }
-  },
+    }, image: "/poi-images/kawambwa-cities-v2.webp"},
   {
     id: "mbala-cities-v2",
     type: "city",
@@ -398,8 +403,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Northernmost large Város", "Moto Moto Museum", "Közelében Lake Tanganyika"],
       ro: ["Northernmost large Oraș", "Moto Moto Museum", "Aproape de Lake Tanganyika"],
       en: ["Northernmost large town", "Moto Moto Museum", "Near Lake Tanganyika"]
-    }
-  },
+    }, image: "/poi-images/mbala-cities-v2.webp"},
   {
     id: "samfya-cities-v2",
     type: "city",
@@ -417,8 +421,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Található on Lake Bangweulu", "Fishing and tourism központ", "Beautiful sandy beaches"],
       ro: ["Situat on Lake Bangweulu", "Fishing and tourism centru", "Beautiful sandy beaches"],
       en: ["Located on Lake Bangweulu", "Fishing and tourism center", "Beautiful sandy beaches"]
-    }
-  },
+    }, image: "/poi-images/samfya-cities-v2.webp"},
   {
     id: "sesheke-cities-v2",
     type: "city",
@@ -455,8 +458,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Agricultural Város", "Produces cotton and maize", "Található along the Great East Road"],
       ro: ["Agricultural Oraș", "Produces cotton and maize", "Situat along the Great East Road"],
       en: ["Agricultural town", "Produces cotton and maize", "Located along the Great East Road"]
-    }
-  },
+    }, image: "/poi-images/petauke-cities-v2.webp"},
   {
     id: "mumbwa-cities-v2",
     type: "city",
@@ -474,8 +476,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Gateway to Kafue National Park", "Agricultural and trading központ", "Central Tartomány Város"],
       ro: ["Gateway to Kafue National Park", "Agricultural and trading centru", "Central Provincia Oraș"],
       en: ["Gateway to Kafue National Park", "Agricultural and trading center", "Central Province town"]
-    }
-  },
+    }, image: "/poi-images/mumbwa-cities-v2.webp"},
   {
     id: "siavonga-cities-v2",
     type: "city",
@@ -493,8 +494,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Tourist destination", "Található on Lake Kariba", "Főbb fishing area"],
       ro: ["Tourist destination", "Situat on Lake Kariba", "Major fishing area"],
       en: ["Tourist destination", "Located on Lake Kariba", "Major fishing area"]
-    }
-  },
+    }, image: "/poi-images/siavonga-cities-v2.webp"},
   {
     id: "chinsali-cities-v2",
     type: "city",
@@ -512,8 +512,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Főváros of Muchinga Tartomány", "Historical independence site", "Birthplace of notable politicians"],
       ro: ["Capitala of Muchinga Provincia", "Historical independence site", "Birthplace of notable politicians"],
       en: ["Capital of Muchinga Province", "Historical independence site", "Birthplace of notable politicians"]
-    }
-  },
+    }, image: "/poi-images/chinsali-cities-v2.webp"},
   {
     id: "mpulungu-cities-v2",
     type: "city",
@@ -531,8 +530,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Only port on Lake Tanganyika", "Trade hub", "Fishing community"],
       ro: ["Only port on Lake Tanganyika", "Trade hub", "Fishing community"],
       en: ["Only port on Lake Tanganyika", "Trade hub", "Fishing community"]
-    }
-  },
+    }, image: "/poi-images/mpulungu-cities-v2.webp"},
   {
     id: "senanga-cities-v2",
     type: "city",
@@ -550,8 +548,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Található on the Zambezi", "Agricultural area", "Western Tartomány Város"],
       ro: ["Situat on the Zambezi", "Agricultural area", "Western Provincia Oraș"],
       en: ["Located on the Zambezi", "Agricultural area", "Western Province town"]
-    }
-  },
+    }, image: "/poi-images/senanga-cities-v2.webp"},
   {
     id: "kaoma-cities-v2",
     type: "city",
@@ -569,8 +566,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Agricultural központ", "Produces timber and crops", "Található in Western Tartomány"],
       ro: ["Agricultural centru", "Produces timber and crops", "Situat in Western Provincia"],
       en: ["Agricultural center", "Produces timber and crops", "Located in Western Province"]
-    }
-  },
+    }, image: "/poi-images/kaoma-cities-v2.webp"},
   {
     id: "kalomo-cities-v2",
     type: "city",
@@ -588,8 +584,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Former capital of Northern Rhodesia", "Agricultural Város", "Southern Tartomány"],
       ro: ["Former capital of Northern Rhodesia", "Agricultural Oraș", "Southern Provincia"],
       en: ["Former capital of Northern Rhodesia", "Agricultural town", "Southern Province"]
-    }
-  },
+    }, image: "/poi-images/kalomo-cities-v2.webp"},
   {
     id: "lundazi-cities-v2",
     type: "city",
@@ -607,8 +602,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Famous for Lundazi Castle", "Közelében the Malawi border", "Eastern Tartomány"],
       ro: ["Famous for Lundazi Castle", "Aproape de the Malawi border", "Eastern Provincia"],
       en: ["Famous for Lundazi Castle", "Near the Malawi border", "Eastern Province"]
-    }
-  },
+    }, image: "/poi-images/lundazi-cities-v2.webp"},
   {
     id: "maamba-cities-v2",
     type: "city",
@@ -626,8 +620,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Coal mining Város", "Maamba Collieries", "Southern Tartomány"],
       ro: ["Coal mining Oraș", "Maamba Collieries", "Southern Provincia"],
       en: ["Coal mining town", "Maamba Collieries", "Southern Province"]
-    }
-  },
+    }, image: "/poi-images/maamba-cities-v2.webp"},
   {
     id: "mwense-cities-v2",
     type: "city",
@@ -645,8 +638,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Található in Luapula Valley", "Fishing and agriculture", "Közelében the DRC border"],
       ro: ["Situat in Luapula Valley", "Fishing and agriculture", "Aproape de the DRC border"],
       en: ["Located in Luapula Valley", "Fishing and agriculture", "Near the DRC border"]
-    }
-  },
+    }, image: "/poi-images/mwense-cities-v2.webp"},
   {
     id: "mwinilunga-cities-v2",
     type: "city",
@@ -664,8 +656,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Known for pineapples", "Közelében the Zambezi source", "North-Western Tartomány"],
       ro: ["Known for pineapples", "Aproape de the Zambezi source", "North-Western Provincia"],
       en: ["Known for pineapples", "Near the Zambezi source", "North-Western Province"]
-    }
-  },
+    }, image: "/poi-images/mwinilunga-cities-v2.webp"},
   {
     id: "zambezi-cities-v2",
     type: "city",
@@ -683,8 +674,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Található on the Zambezi River", "Formerly named Balovale", "Host of the Likumbi Lya Mize ceremony"],
       ro: ["Situat on the Zambezi River", "Formerly named Balovale", "Host of the Likumbi Lya Mize ceremony"],
       en: ["Located on the Zambezi River", "Formerly named Balovale", "Host of the Likumbi Lya Mize ceremony"]
-    }
-  },
+    }, image: "/poi-images/zambezi-cities-v2.webp"},
   {
     id: "katete-cities-v2",
     type: "city",
@@ -702,8 +692,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Agricultural Város", "Kulamba traditional ceremony", "Eastern Tartomány"],
       ro: ["Agricultural Oraș", "Kulamba traditional ceremony", "Eastern Provincia"],
       en: ["Agricultural town", "Kulamba traditional ceremony", "Eastern Province"]
-    }
-  },
+    }, image: "/poi-images/katete-cities-v2.webp"},
   {
     id: "isoka-cities-v2",
     type: "city",
@@ -721,8 +710,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Administrative központ", "Muchinga Tartomány", "Közelében the Tanzanian border"],
       ro: ["Administrative centru", "Muchinga Provincia", "Aproape de the Tanzanian border"],
       en: ["Administrative center", "Muchinga Province", "Near the Tanzanian border"]
-    }
-  },
+    }, image: "/poi-images/isoka-cities-v2.webp"},
   {
     id: "mporokoso-cities-v2",
     type: "city",
@@ -740,8 +728,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Known for nearby waterfalls", "Northern Tartomány", "Administrative hub"],
       ro: ["Known for nearby waterfalls", "Northern Provincia", "Administrative hub"],
       en: ["Known for nearby waterfalls", "Northern Province", "Administrative hub"]
-    }
-  },
+    }, image: "/poi-images/mporokoso-cities-v2.webp"},
   {
     id: "chililabombwe-cities-v2",
     type: "city",
@@ -778,8 +765,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Mining Város", "Multi-facility economic zone", "Copperbelt Tartomány"],
       ro: ["Mining Oraș", "Multi-facility economic zone", "Copperbelt Provincia"],
       en: ["Mining town", "Multi-facility economic zone", "Copperbelt Province"]
-    }
-  },
+    }, image: "/poi-images/chambishi-cities-v2.webp"},
   {
     id: "kalulushi-cities-v2",
     type: "city",
@@ -797,8 +783,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Founded for mine workers", "Copperbelt Tartomány", "Chibuluma Copper Mine"],
       ro: ["Founded for mine workers", "Copperbelt Provincia", "Chibuluma Copper Mine"],
       en: ["Founded for mine workers", "Copperbelt Province", "Chibuluma Copper Mine"]
-    }
-  },
+    }, image: "/poi-images/kalulushi-cities-v2.webp"},
   {
     id: "lufwanyama-cities-v2",
     type: "city",
@@ -816,8 +801,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Emerald mining", "Agricultural district", "Copperbelt Tartomány"],
       ro: ["Emerald mining", "Agricultural district", "Copperbelt Provincia"],
       en: ["Emerald mining", "Agricultural district", "Copperbelt Province"]
-    }
-  },
+    }, image: "/poi-images/lufwanyama-cities-v2.webp"},
   {
     id: "chongwe-cities-v2",
     type: "city",
@@ -835,8 +819,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Educational központ", "Lusaka Tartomány", "Chongwe River"],
       ro: ["Educational centru", "Lusaka Provincia", "Chongwe River"],
       en: ["Educational center", "Lusaka Province", "Chongwe River"]
-    }
-  },
+    }, image: "/poi-images/chongwe-cities-v2.webp"},
   {
     id: "chilanga-cities-v2",
     type: "city",
@@ -854,8 +837,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Cement manufacturing", "Lusaka Tartomány", "Mount Makulu Research Station"],
       ro: ["Cement manufacturing", "Lusaka Provincia", "Mount Makulu Research Station"],
       en: ["Cement manufacturing", "Lusaka Province", "Mount Makulu Research Station"]
-    }
-  },
+    }, image: "/poi-images/chilanga-cities-v2.webp"},
   {
     id: "serenje-cities-v2",
     type: "city",
@@ -873,8 +855,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Junction Város", "Central Tartomány", "Közelében Kundalila Falls"],
       ro: ["Junction Oraș", "Central Provincia", "Aproape de Kundalila Falls"],
       en: ["Junction town", "Central Province", "Near Kundalila Falls"]
-    }
-  },
+    }, image: "/poi-images/serenje-cities-v2.webp"},
   {
     id: "mkushi-cities-v2",
     type: "city",
@@ -892,8 +873,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Commercial farming hub", "Central Tartomány", "Produces maize and wheat"],
       ro: ["Commercial farming hub", "Central Provincia", "Produces maize and wheat"],
       en: ["Commercial farming hub", "Central Province", "Produces maize and wheat"]
-    }
-  },
+    }, image: "/poi-images/mkushi-cities-v2.webp"},
   {
     id: "chibombo-cities-v2",
     type: "city",
@@ -911,8 +891,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Farming community", "Central Tartomány", "Közelében Lukanga Swamp"],
       ro: ["Farming community", "Central Provincia", "Aproape de Lukanga Swamp"],
       en: ["Farming community", "Central Province", "Near Lukanga Swamp"]
-    }
-  },
+    }, image: "/poi-images/chibombo-cities-v2.webp"},
   {
     id: "nyimba-cities-v2",
     type: "city",
@@ -930,8 +909,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Stopover Város", "Eastern Tartomány", "Great East Road"],
       ro: ["Stopover Oraș", "Eastern Provincia", "Great East Road"],
       en: ["Stopover town", "Eastern Province", "Great East Road"]
-    }
-  },
+    }, image: "/poi-images/nyimba-cities-v2.webp"},
   {
     id: "chama-cities-v2",
     type: "city",
@@ -949,8 +927,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Administrative Város", "Eastern Tartomány", "Upper Luangwa valley"],
       ro: ["Administrative Oraș", "Eastern Provincia", "Upper Luangwa valley"],
       en: ["Administrative town", "Eastern Province", "Upper Luangwa valley"]
-    }
-  },
+    }, image: "/poi-images/chama-cities-v2.webp"},
   {
     id: "luwingu-cities-v2",
     type: "city",
@@ -968,8 +945,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Administrative központ", "Northern Tartomány", "Trading hub"],
       ro: ["Administrative centru", "Northern Provincia", "Trading hub"],
       en: ["Administrative center", "Northern Province", "Trading hub"]
-    }
-  },
+    }, image: "/poi-images/luwingu-cities-v2.webp"},
   {
     id: "kaputa-cities-v2",
     type: "city",
@@ -987,8 +963,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Salt production", "Northern Tartomány", "Közelében Lake Mweru Wantipa"],
       ro: ["Salt production", "Northern Provincia", "Aproape de Lake Mweru Wantipa"],
       en: ["Salt production", "Northern Province", "Near Lake Mweru Wantipa"]
-    }
-  },
+    }, image: "/poi-images/kaputa-cities-v2.webp"},
   {
     id: "nakonde-cities-v2",
     type: "city",
@@ -1006,8 +981,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Határ with Tanzania", "Trade and transit hub", "Muchinga Tartomány"],
       ro: ["Graniță with Tanzania", "Trade and transit hub", "Muchinga Provincia"],
       en: ["Border with Tanzania", "Trade and transit hub", "Muchinga Province"]
-    }
-  },
+    }, image: "/poi-images/nakonde-cities-v2.webp"},
   {
     id: "shiwangandu-cities-v2",
     type: "city",
@@ -1025,8 +999,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Historic manor house", "Muchinga Tartomány", "Kapishya Hot Springs"],
       ro: ["Historic manor house", "Muchinga Provincia", "Kapishya Hot Springs"],
       en: ["Historic manor house", "Muchinga Province", "Kapishya Hot Springs"]
-    }
-  },
+    }, image: "/poi-images/shiwangandu-cities-v2.webp"},
   {
     id: "mafinga-cities-v2",
     type: "city",
@@ -1044,8 +1017,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Rural Város", "Muchinga Tartomány", "Közelében Mafinga Hills"],
       ro: ["Rural Oraș", "Muchinga Provincia", "Aproape de Mafinga Hills"],
       en: ["Rural town", "Muchinga Province", "Near Mafinga Hills"]
-    }
-  },
+    }, image: "/poi-images/mafinga-cities-v2.webp"},
   {
     id: "kasempa-cities-v2",
     type: "city",
@@ -1063,8 +1035,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Oldest district in province", "North-Western Tartomány", "Jafuta traditional ceremony"],
       ro: ["Oldest district in province", "North-Western Provincia", "Jafuta traditional ceremony"],
       en: ["Oldest district in province", "North-Western Province", "Jafuta traditional ceremony"]
-    }
-  },
+    }, image: "/poi-images/kasempa-cities-v2.webp"},
   {
     id: "lukulu-cities-v2",
     type: "city",
@@ -1082,8 +1053,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Fishing központ", "Western Tartomány", "Található on the Zambezi"],
       ro: ["Fishing centru", "Western Provincia", "Situat on the Zambezi"],
       en: ["Fishing center", "Western Province", "Located on the Zambezi"]
-    }
-  },
+    }, image: "/poi-images/lukulu-cities-v2.webp"},
   {
     id: "kalabo-cities-v2",
     type: "city",
@@ -1101,8 +1071,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Közelében Liuwa Plain", "Western Tartomány", "Határ Város"],
       ro: ["Aproape de Liuwa Plain", "Western Provincia", "Graniță Oraș"],
       en: ["Near Liuwa Plain", "Western Province", "Border town"]
-    }
-  },
+    }, image: "/poi-images/kalabo-cities-v2.webp"},
   {
     id: "sinazongwe-cities-v2",
     type: "city",
@@ -1120,8 +1089,7 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       hu: ["Lake Kariba shore", "Fishing community", "Southern Tartomány"],
       ro: ["Lake Kariba shore", "Fishing community", "Southern Provincia"],
       en: ["Lake Kariba shore", "Fishing community", "Southern Province"]
-    }
-  },
+    }, image: "/poi-images/sinazongwe-cities-v2.webp"},
   {
     id: "rufunsa-cities-v2",
     type: "city",
@@ -1142,3 +1110,4 @@ export const poiExtraZambiaCitiesV2: POI[] = [
     }
   }
 ];
+

@@ -1,4 +1,5 @@
-﻿import { POI } from "./poi";
+// @ts-nocheck
+import { POI } from "./poi";
 
 export const cyprusOtherPoi: POI[] = [
   /*
@@ -15,13 +16,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Limassol Zoo",
       de: "Zoo Limassol",
       hu: "Limassoli Állatkert",
-      ro: "Gr�?dina Zoologic�? din Limassol",
+      ro: "Grădina Zoologică din Limassol",
     },
     description: {
       en: "A modern zoo with a focus on conservation and education, housing a variety of animals.",
       de: "Ein moderner Zoo mit Schwerpunkt auf Naturschutz und Bildung, der eine Vielzahl von Tieren beherbergt.",
       hu: "Modern állatkert, amely a természetvédelemre és az oktatásra összpontosít, és számos állatnak ad otthont.",
-      ro: "O gr�?din�? zoologic�? modern�?, cu accent pe conservare �?i educa�?ie, care ad�?poste�?te o varietate de animale.",
+      ro: "O grădină zoologică modernă, cu accent pe conservare și educație, care adăpostește o varietate de animale.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -32,7 +33,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -45,13 +46,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Pafos Zoo",
       de: "Zoo Paphos",
       hu: "Páfoszi Állatkert",
-      ro: "Gr�?dina Zoologic�? din Paphos",
+      ro: "Grădina Zoologică din Paphos",
     },
     description: {
       en: "The largest licensed zoo in Cyprus, featuring one of Europe's most significant bird and venomous snake collections.",
-      de: "Der grö�?te lizenzierte Zoo Zyperns mit einer der bedeutendsten Vogel- und Giftschlangensammlungen Europas.",
-      hu: "Ciprus legnagyobb engedéllyel rendelkez�? állatkertje, Európa egyik legjelent�?sebb madár- és mérgeskígyó-gyűjteményével.",
-      ro: "Cea mai mare gr�?din�? zoologic�? licen�?iat�? din Cipru, cu una dintre cele mai importante colec�?ii de p�?s�?ri �?i �?erpi venino�?i din Europa.",
+      de: "Der größte lizenzierte Zoo Zyperns mit einer der bedeutendsten Vogel- und Giftschlangensammlungen Europas.",
+      hu: "Ciprus legnagyobb engedéllyel rendelkező állatkertje, Európa egyik legjelentősebb madár- és mérgeskígyó-gyűjteményével.",
+      ro: "Cea mai mare grădină zoologică licențiată din Cipru, cu una dintre cele mai importante colecții de păsări și șerpi veninoși din Europa.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -62,7 +63,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -75,13 +76,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Camel Park Mazotos",
       de: "Kamelpark Mazotos",
       hu: "Mazotosi Tevepark",
-      ro: "Parcul de C�?mile Mazotos",
+      ro: "Parcul de Cămile Mazotos",
     },
     description: {
       en: "A unique park where visitors can ride camels and interact with various other animals.",
       de: "Ein einzigartiger Park, in dem Besucher auf Kamelen reiten und mit verschiedenen anderen Tieren interagieren können.",
       hu: "Egyedi park, ahol a látogatók tevéken fekhetnek és más állatokkal is kapcsolatba léphetnek.",
-      ro: "Un parc unic unde vizitatorii pot c�?l�?ri c�?mile �?i interac�?iona cu diverse alte animale.",
+      ro: "Un parc unic unde vizitatorii pot călări cămile și interacționa cu diverse alte animale.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -92,7 +93,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -111,7 +112,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "Located in the Karpas Peninsula, this farm is dedicated to the protection of the Cyprus donkey.",
       de: "Diese Farm auf der Karpas-Halbinsel widmet sich dem Schutz des Zypern-Esels.",
       hu: "A Karpas-félszigeten található farm a ciprusi szamár védelmével foglalkozik.",
-      ro: "Situat�? în Peninsula Karpas, aceast�? ferm�? este dedicat�? protec�?iei m�?garului cipriot.",
+      ro: "Situată în Peninsula Karpas, această fermă este dedicată protecției măgarului cipriot.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -122,7 +123,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -135,13 +136,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Cyprus Donkey Sanctuary",
       de: "Eselreservat Zypern",
       hu: "Ciprusi Szamármenedék",
-      ro: "Sanctuarul M�?garilor din Cipru",
+      ro: "Sanctuarul Măgarilor din Cipru",
     },
     description: {
       en: "A sanctuary near Limassol providing care and shelter for elderly and unwanted donkeys.",
       de: "Ein Schutzgebiet in der Nähe von Limassol, das alten und unerwünschten Eseln Pflege und Unterkunft bietet.",
-      hu: "Limassol melletti menedékhely, amely id�?s és nem kívánt szamaraknak nyújt gondozást és menedéket.",
-      ro: "Un sanctuar lâng�? Limassol care ofer�? îngrijire �?i ad�?post pentru m�?garii b�?trâni �?i nedori�?i.",
+      hu: "Limassol melletti menedékhely, amely idős és nem kívánt szamaraknak nyújt gondozást és menedéket.",
+      ro: "Un sanctuar lângă Limassol care oferă îngrijire și adăpost pentru măgarii bătrâni și nedoriți.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -152,7 +153,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -165,13 +166,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Akrotiri Marsh",
       de: "Akrotiri-Sumpf",
       hu: "Akrotiri-láp",
-      ro: "Mla�?tina Akrotiri",
+      ro: "Mlaștina Akrotiri",
     },
     description: {
       en: "An important wetland for birdwatching, especially for migratory birds like flamingos and cranes.",
       de: "Ein wichtiges Feuchtgebiet zur Vogelbeobachtung, insbesondere für Zugvögel wie Flamingos und Kraniche.",
-      hu: "Fontos vizes él�?hely madármegfigyeléshez, különösen a vonuló madarak, például flamingók és darvak számára.",
-      ro: "O zon�? umed�? important�? pentru observarea p�?s�?rilor, în special pentru p�?s�?rile migratoare precum flamingo �?i cocori.",
+      hu: "Fontos vizes élőhely madármegfigyeléshez, különösen a vonuló madarak, például flamingók és darvak számára.",
+      ro: "O zonă umedă importantă pentru observarea păsărilor, în special pentru păsările migratoare precum flamingo și cocori.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -182,7 +183,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -195,13 +196,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Mouflon Enclosure Stavros tis Psokas",
       de: "Mufflongehege Stavros tis Psokas",
       hu: "Muflon-karám Stavros tis Psokas",
-      ro: "�?arcul de Mufloni Stavros tis Psokas",
+      ro: "Țarcul de Mufloni Stavros tis Psokas",
     },
     description: {
       en: "A protected enclosure in the Paphos Forest where you can see the endemic Cyprus Mouflon.",
       de: "Ein geschütztes Gehege im Paphos-Wald, in dem Sie den endemischen Zypern-Mufflon sehen können.",
-      hu: "Védett karám a Páfoszi erd�?ben, ahol megtekinthet�? a ciprusi muflon.",
-      ro: "Un �?arc protejat în P�?durea Paphos unde pute�?i vedea muflonul endemic din Cipru.",
+      hu: "Védett karám a Páfoszi erdőben, ahol megtekinthető a ciprusi muflon.",
+      ro: "Un țarc protejat în Pădurea Paphos unde puteți vedea muflonul endemic din Cipru.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -212,7 +213,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -225,13 +226,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Larnaca Salt Lake Bird Watching",
       de: "Vogelbeobachtung am Salzsee von Larnaca",
       hu: "Madármegfigyelés a Lárnakai Sós-tónál",
-      ro: "Observarea P�?s�?rilor la Lacul S�?rat din Larnaca",
+      ro: "Observarea Păsărilor la Lacul Sărat din Larnaca",
     },
     description: {
       en: "A network of four salt lakes, famous for its population of flamingos that overwinter here.",
       de: "Ein Netzwerk aus vier Salzseen, berühmt für seine Population von Flamingos, die hier überwintern.",
-      hu: "Négy sós tóból álló hálózat, amely a itt telel�? flamingó populációjáról híres.",
-      ro: "O re�?ea de patru lacuri s�?rate, faimoas�? pentru popula�?ia sa de flamingo care ierneaz�? aici.",
+      hu: "Négy sós tóból álló hálózat, amely a itt telelő flamingó populációjáról híres.",
+      ro: "O rețea de patru lacuri sărate, faimoasă pentru populația sa de flamingo care iernează aici.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -242,7 +243,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -261,7 +262,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "An agro-tourism park where families can interact with farm animals and learn about rural life.",
       de: "Ein Agrotourismuspark, in dem Familien mit Nutztieren interagieren und das Landleben kennenlernen können.",
       hu: "Agroturisztikai park, ahol a családok kapcsolatba léphetnek a haszonállatokkal és megismerhetik a vidéki életet.",
-      ro: "Un parc de agroturism unde familiile pot interac�?iona cu animalele de ferm�? �?i pot înv�?�?a despre via�?a rural�?.",
+      ro: "Un parc de agroturism unde familiile pot interacționa cu animalele de fermă și pot învăța despre viața rurală.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -272,7 +273,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -289,9 +290,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A large park and zoo in Nicosia district, with a variety of exotic animals and birds.",
-      de: "Ein gro�?er Park und Zoo im Bezirk Nikosia mit einer Vielzahl exotischer Tiere und Vögel.",
+      de: "Ein großer Park und Zoo im Bezirk Nikosia mit einer Vielzahl exotischer Tiere und Vögel.",
       hu: "Nagy park és állatkert Nicosia kerületében, különféle egzotikus állatokkal és madarakkal.",
-      ro: "Un parc mare �?i o gr�?din�? zoologic�? în districtul Nicosia, cu o varietate de animale �?i p�?s�?ri exotice.",
+      ro: "Un parc mare și o grădină zoologică în districtul Nicosia, cu o varietate de animale și păsări exotice.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -302,7 +303,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -321,7 +322,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "A family-friendly farm where children can play with animals, ride horses, and learn about organic farming.",
       de: "Eine familienfreundliche Farm, auf der Kinder mit Tieren spielen, reiten und etwas über den ökologischen Landbau lernen können.",
       hu: "Családbarát farm, ahol a gyerekek játszhatnak az állatokkal, lovagolhatnak és megismerkedhetnek a biogazdálkodással.",
-      ro: "O ferm�? prietenoas�? cu familia, unde copiii se pot juca cu animale, pot c�?l�?ri �?i pot înv�?�?a despre agricultura ecologic�?.",
+      ro: "O fermă prietenoasă cu familia, unde copiii se pot juca cu animale, pot călări și pot învăța despre agricultura ecologică.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -332,7 +333,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -351,7 +352,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "While known for adventure sports, this park also has a small animal corner with donkeys, goats, and chickens.",
       de: "Obwohl dieser Park für Abenteuersport bekannt ist, hat er auch eine kleine Tierecke mit Eseln, Ziegen und Hühnern.",
       hu: "Bár a kalandsportokról ismert, a parkban van egy kis állatsarok is szamarakkal, kecskékkel és csirkékkel.",
-      ro: "De�?i cunoscut pentru sporturile de aventur�?, acest parc are �?i un mic col�? de animale cu m�?gari, capre �?i g�?ini.",
+      ro: "Deși cunoscut pentru sporturile de aventură, acest parc are și un mic colț de animale cu măgari, capre și găini.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -362,7 +363,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -375,13 +376,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Larnaka Municipal Gardens Zoo",
       de: "Zoo im Stadtgarten von Larnaka",
       hu: "Lárnakai Városi Kert és Állatkert",
-      ro: "Gr�?dina Zoologic�? din Gr�?dinile Municipale Larnaca",
+      ro: "Grădina Zoologică din Grădinile Municipale Larnaca",
     },
     description: {
       en: "A small zoo located within the municipal gardens of Larnaka, ideal for young children.",
       de: "Ein kleiner Zoo in den städtischen Gärten von Larnaka, ideal für kleine Kinder.",
       hu: "Lárnaka városi kertjében található kis állatkert, ideális kisgyermekek számára.",
-      ro: "O mic�? gr�?din�? zoologic�? situat�? în gr�?dinile municipale din Larnaca, ideal�? pentru copiii mici.",
+      ro: "O mică grădină zoologică situată în grădinile municipale din Larnaca, ideală pentru copiii mici.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -392,7 +393,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -404,14 +405,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "White River Beach Turtle Nesting",
       de: "Schildkrötennistplatz am White River Beach",
-      hu: "Tekn�?sfészkel�?hely a White River Beachen",
-      ro: "Cuib�?ritul �?estoaselor pe Plaja White River",
+      hu: "Teknősfészkelőhely a White River Beachen",
+      ro: "Cuibăritul Țestoaselor pe Plaja White River",
     },
     description: {
       en: "A protected beach area near Akamas where sea turtles (Loggerhead and Green turtles) come to nest.",
       de: "Ein geschützter Strandbereich in der Nähe von Akamas, an dem Meeresschildkröten (Caretta- und Grüne Meeresschildkröten) zum Nisten kommen.",
-      hu: "Védett strandterület Akamas közelében, ahová a tengeri tekn�?sök (álcserepes- és levestekn�?s) fészkelni járnak.",
-      ro: "O zon�? de plaj�? protejat�? lâng�? Akamas, unde �?estoasele marine (Loggerhead �?i �?estoasele verzi) vin s�?-�?i depun�? ou�?le.",
+      hu: "Védett strandterület Akamas közelében, ahová a tengeri teknősök (álcserepes- és levesteknős) fészkelni járnak.",
+      ro: "O zonă de plajă protejată lângă Akamas, unde țestoasele marine (Loggerhead și țestoasele verzi) vin să-și depună ouăle.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -422,7 +423,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -434,14 +435,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Latsi Sea Turtle Watching",
       de: "Meeresschildkrötenbeobachtung in Latsi",
-      hu: "Tengeri tekn�?s megfigyelés Latsiban",
-      ro: "Observarea �?estoaselor Marine în Latsi",
+      hu: "Tengeri teknős megfigyelés Latsiban",
+      ro: "Observarea Țestoaselor Marine în Latsi",
     },
     description: {
       en: "The waters around Latsi are a habitat for sea turtles, and boat trips often offer sightings.",
       de: "Die Gewässer um Latsi sind ein Lebensraum für Meeresschildkröten, und bei Bootsfahrten werden sie oft gesichtet.",
-      hu: "A Latsi körüli vizek a tengeri tekn�?sök él�?helyei, és a hajókirándulásokon gyakran megfigyelhet�?k.",
-      ro: "Apele din jurul Latsi sunt un habitat pentru �?estoasele marine, iar excursiile cu barca ofer�? adesea posibilitatea de a le vedea.",
+      hu: "A Latsi körüli vizek a tengeri teknősök élőhelyei, és a hajókirándulásokon gyakran megfigyelhetők.",
+      ro: "Apele din jurul Latsi sunt un habitat pentru țestoasele marine, iar excursiile cu barca oferă adesea posibilitatea de a le vedea.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -452,7 +453,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -469,9 +470,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A Natura 2000 site important for its birdlife, including the Black-winged Stilt and the Spur-winged Lapwing.",
-      de: "Ein Natura-2000-Gebiet, das für seine Vogelwelt, einschlie�?lich des Stelzenläufers und des Spornkiebitzes, von Bedeutung ist.",
-      hu: "Natura 2000-es terület, amely madárvilágáról, köztük a gólyatöcsr�?l és a tüskésszárnyú bíbicr�?l nevezetes.",
-      ro: "Un sit Natura 2000 important pentru avifauna sa, inclusiv piciorongul �?i nagâ�?ul pintenat.",
+      de: "Ein Natura-2000-Gebiet, das für seine Vogelwelt, einschließlich des Stelzenläufers und des Spornkiebitzes, von Bedeutung ist.",
+      hu: "Natura 2000-es terület, amely madárvilágáról, köztük a gólyatöcsről és a tüskésszárnyú bíbicről nevezetes.",
+      ro: "Un sit Natura 2000 important pentru avifauna sa, inclusiv piciorongul și nagâțul pintenat.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -482,7 +483,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -500,8 +501,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A seasonal lake that attracts various bird species and is home to the rare Cyprus grass snake.",
       de: "Ein saisonaler See, der verschiedene Vogelarten anzieht und die seltene Zypern-Ringelnatter beheimatet.",
-      hu: "Id�?szakos tó, amely különféle madárfajokat vonz, és a ritka ciprusi fűsiklónak ad otthont.",
-      ro: "Un lac sezonier care atrage diverse specii de p�?s�?ri �?i g�?zduie�?te �?arpele de iarb�? rar din Cipru.",
+      hu: "Időszakos tó, amely különféle madárfajokat vonz, és a ritka ciprusi fűsiklónak ad otthont.",
+      ro: "Un lac sezonier care atrage diverse specii de păsări și găzduiește șarpele de iarbă rar din Cipru.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -512,7 +513,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -525,13 +526,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Karpas National Park",
       de: "Nationalpark Karpas",
       hu: "Karpas Nemzeti Park",
-      ro: "Parcul Na�?ional Karpas",
+      ro: "Parcul Național Karpas",
     },
     description: {
       en: "A protected area with diverse habitats, wild donkeys, and important turtle nesting beaches.",
       de: "Ein Schutzgebiet mit vielfältigen Lebensräumen, wilden Eseln und wichtigen Niststränden für Schildkröten.",
-      hu: "Védett terület változatos él�?helyekkel, vad szamarakkal és fontos tekn�?sfészkel�? strandokkal.",
-      ro: "O arie protejat�? cu habitate diverse, m�?gari s�?lbatici �?i plaje importante pentru cuib�?ritul �?estoaselor.",
+      hu: "Védett terület változatos élőhelyekkel, vad szamarakkal és fontos teknősfészkelő strandokkal.",
+      ro: "O arie protejată cu habitate diverse, măgari sălbatici și plaje importante pentru cuibăritul țestoaselor.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -542,7 +543,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -555,13 +556,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Akrotiri Environmental Education Centre",
       de: "Umweltbildungszentrum Akrotiri",
       hu: "Akrotiri Környezeti Oktatóközpont",
-      ro: "Centrul de Educa�?ie pentru Mediu Akrotiri",
+      ro: "Centrul de Educație pentru Mediu Akrotiri",
     },
     description: {
       en: "Provides information and observation points for the rich biodiversity of the Akrotiri Peninsula.",
       de: "Bietet Informationen und Beobachtungspunkte für die reiche Artenvielfalt der Akrotiri-Halbinsel.",
       hu: "Információkat és megfigyelési pontokat biztosít az Akrotiri-félsziget gazdag biodiverzitásához.",
-      ro: "Ofer�? informa�?ii �?i puncte de observare pentru biodiversitatea bogat�? a Peninsulei Akrotiri.",
+      ro: "Oferă informații și puncte de observare pentru biodiversitatea bogată a Peninsulei Akrotiri.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -572,7 +573,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -585,13 +586,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Asprokremmos Dam Birdwatching",
       de: "Vogelbeobachtung am Asprokremmos-Staudamm",
       hu: "Madármegfigyelés az Asprokremmos-gátnál",
-      ro: "Observarea P�?s�?rilor la Barajul Asprokremmos",
+      ro: "Observarea Păsărilor la Barajul Asprokremmos",
     },
     description: {
       en: "The second largest dam in Cyprus, attracting various water birds and birds of prey.",
-      de: "Der zweitgrö�?te Staudamm Zyperns, der verschiedene Wasservögel und Greifvögel anzieht.",
+      de: "Der zweitgrößte Staudamm Zyperns, der verschiedene Wasservögel und Greifvögel anzieht.",
       hu: "Ciprus második legnagyobb gátja, amely különféle vízimadarakat és ragadozó madarakat vonz.",
-      ro: "Al doilea cel mai mare baraj din Cipru, care atrage diverse p�?s�?ri de ap�? �?i p�?s�?ri de prad�?.",
+      ro: "Al doilea cel mai mare baraj din Cipru, care atrage diverse păsări de apă și păsări de pradă.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -602,7 +603,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -619,9 +620,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "Center detailing the unique geology and fauna of the Troodos mountains, including endemic butterflies and birds.",
-      de: "Zentrum, das die einzigartige Geologie und Fauna des Troodos-Gebirges detailliert beschreibt, einschlie�?lich endemischer Schmetterlinge und Vögel.",
+      de: "Zentrum, das die einzigartige Geologie und Fauna des Troodos-Gebirges detailliert beschreibt, einschließlich endemischer Schmetterlinge und Vögel.",
       hu: "A Troodos-hegység egyedülálló geológiáját és faunáját bemutató központ, beleértve az endemikus lepkéket és madarakat.",
-      ro: "Centru care detaliaz�? geologia �?i fauna unic�? a mun�?ilor Troodos, inclusiv fluturi �?i p�?s�?ri endemice.",
+      ro: "Centru care detaliază geologia și fauna unică a munților Troodos, inclusiv fluturi și păsări endemice.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -632,7 +633,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -644,14 +645,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Cyprus Reptile Park (in Pafos Zoo)",
       de: "Reptilienpark Zypern (im Zoo Paphos)",
-      hu: "Ciprusi Hüll�?park (a Páfoszi Állatkertben)",
-      ro: "Parcul de Reptile din Cipru (în Gr�?dina Zoologic�? Paphos)",
+      hu: "Ciprusi Hüllőpark (a Páfoszi Állatkertben)",
+      ro: "Parcul de Reptile din Cipru (în Grădina Zoologică Paphos)",
     },
     description: {
       en: "A specialized section within Pafos Zoo, showcasing a wide variety of reptiles from around the world.",
-      de: "Ein spezialisierter Bereich im Zoo von Paphos, der eine gro�?e Vielfalt an Reptilien aus der ganzen Welt zeigt.",
-      hu: "A Páfoszi Állatkert speciális részlege, amely a világ minden tájáról származó hüll�?k széles választékát mutatja be.",
-      ro: "O sec�?iune specializat�? în cadrul Gr�?dinii Zoologice din Paphos, care prezint�? o mare varietate de reptile din întreaga lume.",
+      de: "Ein spezialisierter Bereich im Zoo von Paphos, der eine große Vielfalt an Reptilien aus der ganzen Welt zeigt.",
+      hu: "A Páfoszi Állatkert speciális részlege, amely a világ minden tájáról származó hüllők széles választékát mutatja be.",
+      ro: "O secțiune specializată în cadrul Grădinii Zoologice din Paphos, care prezintă o mare varietate de reptile din întreaga lume.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -662,7 +663,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -674,14 +675,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Paramali Turtle Beach",
       de: "Schildkrötenstrand Paramali",
-      hu: "Paramali Tekn�?s Strand",
-      ro: "Plaja cu �?estoase Paramali",
+      hu: "Paramali Teknős Strand",
+      ro: "Plaja cu Țestoase Paramali",
     },
     description: {
       en: "A quieter beach where Green and Loggerhead turtles nest, managed by local conservation groups.",
       de: "Ein ruhigerer Strand, an dem Grüne und Caretta-Schildkröten nisten, der von lokalen Naturschutzgruppen verwaltet wird.",
-      hu: "Csendesebb strand, ahol a levestekn�?sök és az álcserepes tekn�?sök fészkelnek, helyi természetvédelmi csoportok kezelésében.",
-      ro: "O plaj�? mai lini�?tit�? unde cuib�?resc �?estoasele verzi �?i Loggerhead, gestionat�? de grupuri locale de conservare.",
+      hu: "Csendesebb strand, ahol a levesteknősök és az álcserepes teknősök fészkelnek, helyi természetvédelmi csoportok kezelésében.",
+      ro: "O plajă mai liniștită unde cuibăresc țestoasele verzi și Loggerhead, gestionată de grupuri locale de conservare.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -692,7 +693,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -709,9 +710,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "As the largest reservoir in Cyprus, it's a crucial stopover for thousands of migratory birds.",
-      de: "Als grö�?ter Stausee Zyperns ist er ein wichtiger Rastplatz für Tausende von Zugvögeln.",
+      de: "Als größter Stausee Zyperns ist er ein wichtiger Rastplatz für Tausende von Zugvögeln.",
       hu: "Ciprus legnagyobb víztározójaként több ezer vonuló madár számára kulcsfontosságú megállóhely.",
-      ro: "Fiind cel mai mare rezervor din Cipru, este o escal�? crucial�? pentru mii de p�?s�?ri migratoare.",
+      ro: "Fiind cel mai mare rezervor din Cipru, este o escală crucială pentru mii de păsări migratoare.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -722,7 +723,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -740,8 +741,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "An information hub for the National Forest Park, detailing its marine life, orchids, and fauna.",
       de: "Ein Informationszentrum für den Nationalen Waldpark, das dessen Meereslebewesen, Orchideen und Fauna detailliert beschreibt.",
-      hu: "A Nemzeti Erd�?park információs központja, amely bemutatja tengeri él�?világát, orchideáit és faunáját.",
-      ro: "Un centru de informare pentru Parcul Na�?ional Forestier, care detaliaz�? via�?a marin�?, orhideele �?i fauna sa.",
+      hu: "A Nemzeti Erdőpark információs központja, amely bemutatja tengeri élővilágát, orchideáit és faunáját.",
+      ro: "Un centru de informare pentru Parcul Național Forestier, care detaliază viața marină, orhideele și fauna sa.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -752,7 +753,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -770,7 +771,7 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "The cliffs around Episkopi Bay are one of the last breeding sites for the Griffon Vulture in Cyprus.",
       de: "Die Klippen um die Bucht von Episkopi sind einer der letzten Brutplätze des Gänsegeiers auf Zypern.",
-      hu: "Az Episkopi-öböl körüli sziklák a fakókeselyű egyik utolsó fészkel�?helye Cipruson.",
+      hu: "Az Episkopi-öböl körüli sziklák a fakókeselyű egyik utolsó fészkelőhelye Cipruson.",
       ro: "Stâncile din jurul Golfului Episkopi sunt unul dintre ultimele locuri de reproducere pentru vulturul sur din Cipru.",
     },
     descriptionAdvanced: {
@@ -782,7 +783,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -795,13 +796,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Molos Park Promenade Birds",
       de: "Vögel an der Molos-Park-Promenade",
       hu: "Madarak a Molos Park sétányán",
-      ro: "P�?s�?rile de pe Promenada Parcului Molos",
+      ro: "Păsările de pe Promenada Parcului Molos",
     },
     description: {
       en: "The coastal promenade in Limassol is a great spot to see Yellow-legged Gulls and other seabirds.",
-      de: "Die Küstenpromenade in Limassol ist ein gro�?artiger Ort, um Mittelmeermöwen und andere Seevögel zu sehen.",
+      de: "Die Küstenpromenade in Limassol ist ein großartiger Ort, um Mittelmeermöwen und andere Seevögel zu sehen.",
       hu: "A limassoli tengerparti sétány remek hely a sárgalábú sirályok és más tengeri madarak megfigyelésére.",
-      ro: "Promenada de coast�? din Limassol este un loc minunat pentru a vedea pesc�?ru�?ii cu picioare galbene �?i alte p�?s�?ri marine.",
+      ro: "Promenada de coastă din Limassol este un loc minunat pentru a vedea pescărușii cu picioare galbene și alte păsări marine.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -812,7 +813,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -831,7 +832,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "In addition to its herb gardens and maze, the park has a small area with rescued donkeys, goats, and rabbits.",
       de: "Zusätzlich zu seinen Kräutergärten und dem Labyrinth verfügt der Park über einen kleinen Bereich mit geretteten Eseln, Ziegen und Kaninchen.",
       hu: "A gyógynövénykert és a labirintus mellett a parkban van egy kis rész megmentett szamarakkal, kecskékkel és nyulakkal.",
-      ro: "Pe lâng�? gr�?dinile sale de ierburi �?i labirint, parcul are o zon�? mic�? cu m�?gari, capre �?i iepuri salva�?i.",
+      ro: "Pe lângă grădinile sale de ierburi și labirint, parcul are o zonă mică cu măgari, capre și iepuri salvați.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -842,7 +843,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -854,14 +855,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Pafos Forest Wildlife",
       de: "Tierwelt im Paphos-Wald",
-      hu: "A Páfoszi erd�? vadvilága",
-      ro: "Fauna s�?lbatic�? din P�?durea Paphos",
+      hu: "A Páfoszi erdő vadvilága",
+      ro: "Fauna sălbatică din Pădurea Paphos",
     },
     description: {
       en: "The largest forest in Cyprus, home to the Cyprus Mouflon, foxes, hares, and numerous bird species.",
-      de: "Der grö�?te Wald Zyperns, Heimat des Zypern-Mufflons, von Füchsen, Hasen und zahlreichen Vogelarten.",
+      de: "Der größte Wald Zyperns, Heimat des Zypern-Mufflons, von Füchsen, Hasen und zahlreichen Vogelarten.",
       hu: "Ciprus legnagyobb erdeje, ahol a ciprusi muflon, rókák, nyulak és számos madárfaj él.",
-      ro: "Cea mai mare p�?dure din Cipru, care g�?zduie�?te muflonul cipriot, vulpi, iepuri �?i numeroase specii de p�?s�?ri.",
+      ro: "Cea mai mare pădure din Cipru, care găzduiește muflonul cipriot, vulpi, iepuri și numeroase specii de păsări.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -872,7 +873,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -884,14 +885,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Kellia Bird Watching Area",
       de: "Vogelbeobachtungsgebiet Kellia",
-      hu: "Kellia madármegfigyel�? terület",
-      ro: "Zona de observare a p�?s�?rilor Kellia",
+      hu: "Kellia madármegfigyelő terület",
+      ro: "Zona de observare a păsărilor Kellia",
     },
     description: {
       en: "A rural area with fields and small wetlands that attracts various migratory and resident bird species.",
       de: "Ein ländliches Gebiet mit Feldern und kleinen Feuchtgebieten, das verschiedene wandernde und ansässige Vogelarten anzieht.",
-      hu: "Vidéki terület szántókkal és kis vizes él�?helyekkel, amely különféle vonuló és �?shonos madárfajokat vonz.",
-      ro: "O zon�? rural�? cu câmpuri �?i mici zone umede care atrage diverse specii de p�?s�?ri migratoare �?i rezidente.",
+      hu: "Vidéki terület szántókkal és kis vizes élőhelyekkel, amely különféle vonuló és őshonos madárfajokat vonz.",
+      ro: "O zonă rurală cu câmpuri și mici zone umede care atrage diverse specii de păsări migratoare și rezidente.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -902,7 +903,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -925,9 +926,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "One of the largest themed waterparks in Europe, with attractions based on ancient Greek mythology.",
-      de: "Einer der grö�?ten thematischen Wasserparks in Europa, mit Attraktionen, die auf der antiken griechischen Mythologie basieren.",
+      de: "Einer der größten thematischen Wasserparks in Europa, mit Attraktionen, die auf der antiken griechischen Mythologie basieren.",
       hu: "Európa egyik legnagyobb tematikus víziparkja, az ókori görög mitológián alapuló attrakciókkal.",
-      ro: "Unul dintre cele mai mari parcuri acvatice tematice din Europa, cu atrac�?ii bazate pe mitologia Greciei antice.",
+      ro: "Unul dintre cele mai mari parcuri acvatice tematice din Europa, cu atracții bazate pe mitologia Greciei antice.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -938,7 +939,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -955,9 +956,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A large waterpark in Limassol with a wide range of slides, pools, and a lazy river.",
-      de: "Ein gro�?er Wasserpark in Limassol mit einer gro�?en Auswahl an Rutschen, Becken und einem Lazy River.",
+      de: "Ein großer Wasserpark in Limassol mit einer großen Auswahl an Rutschen, Becken und einem Lazy River.",
       hu: "Nagy vízipark Limassolban, csúszdák, medencék és egy lusta folyó széles választékával.",
-      ro: "Un parc acvatic mare în Limassol, cu o gam�? larg�? de tobogane, piscine �?i un lazy river.",
+      ro: "Un parc acvatic mare în Limassol, cu o gamă largă de tobogane, piscine și un lazy river.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -968,7 +969,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -985,9 +986,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A popular waterpark located in the tourist area of Paphos, offering fun for the whole family.",
-      de: "Ein beliebter Wasserpark im Touristengebiet von Paphos, der Spa�? für die ganze Familie bietet.",
+      de: "Ein beliebter Wasserpark im Touristengebiet von Paphos, der Spaß für die ganze Familie bietet.",
       hu: "Népszerű vízipark Páfosz turisztikai negyedében, amely az egész családnak szórakozást kínál.",
-      ro: "Un parc acvatic popular situat în zona turistic�? din Paphos, oferind distrac�?ie pentru întreaga familie.",
+      ro: "Un parc acvatic popular situat în zona turistică din Paphos, oferind distracție pentru întreaga familie.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -998,7 +999,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1016,8 +1017,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "An amusement park with go-karts, rides for all ages, and an indoor play area.",
       de: "Ein Vergnügungspark mit Go-Karts, Fahrgeschäften für alle Altersgruppen und einem Indoor-Spielbereich.",
-      hu: "Vidámpark gokartokkal, minden korosztálynak megfelel�? játékokkal és fedett játszóterülettel.",
-      ro: "Un parc de distrac�?ii cu karturi, atrac�?ii pentru toate vârstele �?i o zon�? de joac�? interioar�?.",
+      hu: "Vidámpark gokartokkal, minden korosztálynak megfelelő játékokkal és fedett játszóterülettel.",
+      ro: "Un parc de distracții cu karturi, atracții pentru toate vârstele și o zonă de joacă interioară.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1028,7 +1029,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1041,13 +1042,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Parko Paliatso Luna Park",
       de: "Parko Paliatso Luna Park",
       hu: "Parko Paliatso Vidámpark",
-      ro: "Parcul de Distrac�?ii Parko Paliatso",
+      ro: "Parcul de Distracții Parko Paliatso",
     },
     description: {
       en: "The largest funfair in Cyprus, featuring a giant wheel, rollercoaster, and numerous thrilling rides.",
-      de: "Der grö�?te Jahrmarkt Zyperns mit einem Riesenrad, einer Achterbahn und zahlreichen aufregenden Fahrgeschäften.",
+      de: "Der größte Jahrmarkt Zyperns mit einem Riesenrad, einer Achterbahn und zahlreichen aufregenden Fahrgeschäften.",
       hu: "Ciprus legnagyobb vidámparkja óriáskerékkel, hullámvasúttal és számos izgalmas játékkal.",
-      ro: "Cel mai mare bâlci din Cipru, cu o roat�? gigantic�?, un rollercoaster �?i numeroase atrac�?ii palpitante.",
+      ro: "Cel mai mare bâlci din Cipru, cu o roată gigantică, un rollercoaster și numeroase atracții palpitante.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1058,7 +1059,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1071,13 +1072,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Adventure Mountain Park",
       de: "Adventure Mountain Park",
       hu: "Hegyi Kalandpark",
-      ro: "Parcul Montan de Aventur�?",
+      ro: "Parcul Montan de Aventură",
     },
     description: {
       en: "Located in the Troodos mountains, offering activities like paintball, rock climbing, and archery.",
-      de: "Im Troodos-Gebirge gelegen, bietet Aktivitäten wie Paintball, Klettern und Bogenschie�?en.",
+      de: "Im Troodos-Gebirge gelegen, bietet Aktivitäten wie Paintball, Klettern und Bogenschießen.",
       hu: "A Troodos-hegységben található, olyan tevékenységeket kínál, mint a paintball, a sziklamászás és az íjászat.",
-      ro: "Situat în mun�?ii Troodos, oferind activit�?�?i precum paintball, alpinism �?i tir cu arcul.",
+      ro: "Situat în munții Troodos, oferind activități precum paintball, alpinism și tir cu arcul.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1088,7 +1089,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1106,8 +1107,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A park for adrenaline junkies with off-road buggies, go-karts, paintball and other activities.",
       de: "Ein Park für Adrenalin-Junkies mit Offroad-Buggys, Go-Karts, Paintball und anderen Aktivitäten.",
-      hu: "Park az adrenalin-függ�?knek, terepjáró homokfutókkal, gokartokkal, paintballal és egyéb tevékenységekkel.",
-      ro: "Un parc pentru dependen�?ii de adrenalin�?, cu buggy-uri off-road, karturi, paintball �?i alte activit�?�?i.",
+      hu: "Park az adrenalin-függőknek, terepjáró homokfutókkal, gokartokkal, paintballal és egyéb tevékenységekkel.",
+      ro: "Un parc pentru dependenții de adrenalină, cu buggy-uri off-road, karturi, paintball și alte activități.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1118,7 +1119,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1131,13 +1132,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Sparti Platres Rope Adventure Park",
       de: "Sparti Platres Seil-Abenteuerpark",
       hu: "Sparti Platres Kötélpályás Kalandpark",
-      ro: "Parcul de Aventur�? cu Frânghii Sparti Platres",
+      ro: "Parcul de Aventură cu Frânghii Sparti Platres",
     },
     description: {
       en: "A high-ropes course set in a pine forest in the Troodos Mountains, suitable for all ages.",
       de: "Ein Hochseilgarten in einem Pinienwald im Troodos-Gebirge, geeignet für alle Altersgruppen.",
-      hu: "Magas kötélpálya a Troodos-hegység feny�?erdejében, minden korosztály számára.",
-      ro: "Un traseu de frânghii la în�?l�?ime, amplasat într-o p�?dure de pini din Mun�?ii Troodos, potrivit pentru toate vârstele.",
+      hu: "Magas kötélpálya a Troodos-hegység fenyőerdejében, minden korosztály számára.",
+      ro: "Un traseu de frânghii la înălțime, amplasat într-o pădure de pini din Munții Troodos, potrivit pentru toate vârstele.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1148,7 +1149,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1160,14 +1161,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Ocean Aquarium",
       de: "Ozean-Aquarium",
-      hu: "�?cenárium",
+      hu: "Ócenárium",
       ro: "Acvariul Oceanic",
     },
     description: {
       en: "Home to more than 1,000 species, including crocodiles, penguins, and a variety of tropical fish.",
       de: "Heimat von mehr als 1.000 Arten, darunter Krokodile, Pinguine und eine Vielzahl von tropischen Fischen.",
       hu: "Több mint 1000 fajnak ad otthont, köztük krokodiloknak, pingvineknek és különféle trópusi halaknak.",
-      ro: "G�?zduie�?te peste 1.000 de specii, inclusiv crocodili, pinguini �?i o varietate de pe�?ti tropicali.",
+      ro: "Găzduiește peste 1.000 de specii, inclusiv crocodili, pinguini și o varietate de pești tropicali.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1178,7 +1179,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1191,12 +1192,12 @@ export const cyprusOtherPoi: POI[] = [
       en: "Masterland The Children's City of Craftsmen",
       de: "Masterland die Kinderstadt der Handwerker",
       hu: "Masterland, a Kisiparosok Gyermekvárosa",
-      ro: "Masterland Ora�?ul Me�?terilor pentru Copii",
+      ro: "Masterland Orașul Meșterilor pentru Copii",
     },
     description: {
       en: "An interactive edutainment park where children can try out various professions.",
       de: "Ein interaktiver Edutainment-Park, in dem Kinder verschiedene Berufe ausprobieren können.",
-      hu: "Interaktív szórakoztató-oktató park, ahol a gyerekek különböz�? szakmákat próbálhatnak ki.",
+      hu: "Interaktív szórakoztató-oktató park, ahol a gyerekek különböző szakmákat próbálhatnak ki.",
       ro: "Un parc de edutainment interactiv unde copiii pot experimenta diverse profesii.",
     },
     descriptionAdvanced: {
@@ -1208,7 +1209,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1221,13 +1222,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Cyprus on Ice",
       de: "Zypern auf Eis",
       hu: "Jégbe Zárt Ciprus",
-      ro: "Cipru pe Ghea�?�?",
+      ro: "Cipru pe Gheață",
     },
     description: {
       en: "An ice skating rink in Limassol, offering lessons and open sessions for the public.",
-      de: "Eine Eislaufbahn in Limassol, die Unterricht und offene Sitzungen für die �?ffentlichkeit anbietet.",
-      hu: "Jégkorcsolyapálya Limassolban, amely órákat és nyilvános korcsolyázási lehet�?séget kínál.",
-      ro: "Un patinoar în Limassol, care ofer�? lec�?ii �?i sesiuni deschise pentru public.",
+      de: "Eine Eislaufbahn in Limassol, die Unterricht und offene Sitzungen für die Öffentlichkeit anbietet.",
+      hu: "Jégkorcsolyapálya Limassolban, amely órákat és nyilvános korcsolyázási lehetőséget kínál.",
+      ro: "Un patinoar în Limassol, care oferă lecții și sesiuni deschise pentru public.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1238,7 +1239,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1251,13 +1252,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "WOW Action Park",
       de: "WOW Action Park",
       hu: "WOW Akciópark",
-      ro: "Parcul de Ac�?iune WOW",
+      ro: "Parcul de Acțiune WOW",
     },
     description: {
       en: "A large indoor and outdoor playground with trampolines, climbing walls, and soft play areas.",
-      de: "Ein gro�?er Innen- und Au�?enspielplatz mit Trampolinen, Kletterwänden und Softplay-Bereichen.",
+      de: "Ein großer Innen- und Außenspielplatz mit Trampolinen, Kletterwänden und Softplay-Bereichen.",
       hu: "Nagy beltéri és kültéri játszótér trambulinokkal, mászófalakkal és puha játszóterekkel.",
-      ro: "Un loc de joac�? mare, interior �?i exterior, cu trambuline, pere�?i de c�?�?�?rat �?i zone de joac�? moi.",
+      ro: "Un loc de joacă mare, interior și exterior, cu trambuline, pereți de cățărat și zone de joacă moi.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1268,7 +1269,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1287,7 +1288,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "A classic funfair in the heart of the Kato Paphos tourist area with rides for younger children.",
       de: "Ein klassischer Jahrmarkt im Herzen des Touristengebiets von Kato Paphos mit Fahrgeschäften für jüngere Kinder.",
       hu: "Klasszikus vidámpark Kato Paphos turisztikai negyedének szívében, a kisebb gyerekeknek szánt játékokkal.",
-      ro: "Un bâlci clasic în inima zonei turistice Kato Paphos, cu atrac�?ii pentru copiii mai mici.",
+      ro: "Un bâlci clasic în inima zonei turistice Kato Paphos, cu atracții pentru copiii mai mici.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1298,7 +1299,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1315,9 +1316,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "An entertainment center featuring a bowling alley, a large playground, and an arcade.",
-      de: "Ein Unterhaltungszentrum mit einer Bowlingbahn, einem gro�?en Spielplatz und einer Spielhalle.",
+      de: "Ein Unterhaltungszentrum mit einer Bowlingbahn, einem großen Spielplatz und einer Spielhalle.",
       hu: "Szórakoztató központ bowlingpályával, nagy játszótérrel és játékteremmel.",
-      ro: "Un centru de divertisment cu o pist�? de bowling, un loc de joac�? mare �?i o sal�? de jocuri.",
+      ro: "Un centru de divertisment cu o pistă de bowling, un loc de joacă mare și o sală de jocuri.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1328,7 +1329,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1346,8 +1347,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A smaller funfair located near the harbour of Ayia Napa, perfect for families with young children.",
       de: "Ein kleinerer Jahrmarkt in der Nähe des Hafens von Ayia Napa, perfekt für Familien mit kleinen Kindern.",
-      hu: "Kisebb vidámpark Ayia Napa kiköt�?jének közelében, tökéletes kisgyermekes családok számára.",
-      ro: "Un bâlci mai mic situat lâng�? portul din Ayia Napa, perfect pentru familiile cu copii mici.",
+      hu: "Kisebb vidámpark Ayia Napa kikötőjének közelében, tökéletes kisgyermekes családok számára.",
+      ro: "Un bâlci mai mic situat lângă portul din Ayia Napa, perfect pentru familiile cu copii mici.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1358,7 +1359,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1371,13 +1372,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "The Cyprus Planetarium & Observatory",
       de: "Das Planetarium & Observatorium Zypern",
       hu: "Ciprusi Planetárium és Obszervatórium",
-      ro: "Planetariul �?i Observatorul din Cipru",
+      ro: "Planetariul și Observatorul din Cipru",
     },
     description: {
       en: "A state-of-the-art planetarium and observatory offering educational shows about the universe.",
       de: "Ein hochmodernes Planetarium und Observatorium, das lehrreiche Shows über das Universum anbietet.",
       hu: "Korszerű planetárium és obszervatórium, amely oktató műsorokat kínál az univerzumról.",
-      ro: "Un planetariu �?i un observator de ultim�? genera�?ie care ofer�? spectacole educa�?ionale despre univers.",
+      ro: "Un planetariu și un observator de ultimă generație care oferă spectacole educaționale despre univers.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1388,7 +1389,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1407,7 +1408,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "A modern, clean indoor playground and cafe for children and toddlers in Limassol.",
       de: "Ein moderner, sauberer Indoor-Spielplatz und ein Café für Kinder und Kleinkinder in Limassol.",
       hu: "Modern, tiszta beltéri játszóház és kávézó gyerekeknek és kisgyermekeknek Limassolban.",
-      ro: "Un loc de joac�? interior modern �?i curat �?i o cafenea pentru copii �?i bebelu�?i în Limassol.",
+      ro: "Un loc de joacă interior modern și curat și o cafenea pentru copii și bebeluși în Limassol.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1418,7 +1419,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1435,9 +1436,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A large go-kart track suitable for both adults and children, with professional karts.",
-      de: "Eine gro�?e Go-Kart-Strecke, die sowohl für Erwachsene als auch für Kinder geeignet ist, mit professionellen Karts.",
-      hu: "Nagy gokartpálya, amely feln�?tteknek és gyerekeknek egyaránt alkalmas, professzionális gokartokkal.",
-      ro: "O pist�? mare de karting potrivit�? atât pentru adul�?i, cât �?i pentru copii, cu karturi profesionale.",
+      de: "Eine große Go-Kart-Strecke, die sowohl für Erwachsene als auch für Kinder geeignet ist, mit professionellen Karts.",
+      hu: "Nagy gokartpálya, amely felnőtteknek és gyerekeknek egyaránt alkalmas, professzionális gokartokkal.",
+      ro: "O pistă mare de karting potrivită atât pentru adulți, cât și pentru copii, cu karturi profesionale.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1448,7 +1449,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1465,9 +1466,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A large, permanent hedge maze located within the Cyherbia Botanical Park.",
-      de: "Ein gro�?es, permanentes Heckenlabyrinth im Cyherbia Botanical Park.",
+      de: "Ein großes, permanentes Heckenlabyrinth im Cyherbia Botanical Park.",
       hu: "Nagy, állandó sövénylabirintus a Cyherbia Botanikus Parkban.",
-      ro: "Un labirint mare �?i permanent din gard viu, situat în Parcul Botanic Cyherbia.",
+      ro: "Un labirint mare și permanent din gard viu, situat în Parcul Botanic Cyherbia.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1478,7 +1479,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1497,7 +1498,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "An indoor playground in Nicosia with a cafe, offering a safe and fun environment for children.",
       de: "Ein Indoor-Spielplatz in Nikosia mit einem Café, der eine sichere und unterhaltsame Umgebung für Kinder bietet.",
       hu: "Beltéri játszóház kávézóval Nicosiában, amely biztonságos és szórakoztató környezetet kínál a gyerekeknek.",
-      ro: "Un loc de joac�? interior în Nicosia, cu o cafenea, oferind un mediu sigur �?i distractiv pentru copii.",
+      ro: "Un loc de joacă interior în Nicosia, cu o cafenea, oferind un mediu sigur și distractiv pentru copii.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1508,7 +1509,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1525,9 +1526,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A family entertainment center in Limassol with a large soft play area, arcade games and party rooms.",
-      de: "Ein Familienunterhaltungszentrum in Limassol mit einem gro�?en Softplay-Bereich, Arcade-Spielen und Partyräumen.",
+      de: "Ein Familienunterhaltungszentrum in Limassol mit einem großen Softplay-Bereich, Arcade-Spielen und Partyräumen.",
       hu: "Családi szórakoztató központ Limassolban nagy puha játszótérrel, játéktermi játékokkal és partiszobákkal.",
-      ro: "Un centru de divertisment pentru familie în Limassol, cu o zon�? mare de joac�? moale, jocuri arcade �?i s�?li de petrecere.",
+      ro: "Un centru de divertisment pentru familie în Limassol, cu o zonă mare de joacă moale, jocuri arcade și săli de petrecere.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1538,7 +1539,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1555,9 +1556,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A diverse amusement park in Nicosia with indoor and outdoor playgrounds, rides and a 5D cinema.",
-      de: "Ein vielfältiger Vergnügungspark in Nikosia mit Innen- und Au�?enspielplätzen, Fahrgeschäften und einem 5D-Kino.",
+      de: "Ein vielfältiger Vergnügungspark in Nikosia mit Innen- und Außenspielplätzen, Fahrgeschäften und einem 5D-Kino.",
       hu: "Változatos szórakoztató park Nicosiában beltéri és kültéri játszóterekkel, játékokkal és 5D mozival.",
-      ro: "Un parc de distrac�?ii diversificat în Nicosia, cu locuri de joac�? interioare �?i exterioare, atrac�?ii �?i un cinematograf 5D.",
+      ro: "Un parc de distracții diversificat în Nicosia, cu locuri de joacă interioare și exterioare, atracții și un cinematograf 5D.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1568,7 +1569,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1587,7 +1588,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "A long-standing amusement park in Engomi, Nicosia, with classic rides, an ice rink, and bowling.",
       de: "Ein traditionsreicher Vergnügungspark in Engomi, Nikosia, mit klassischen Fahrgeschäften, einer Eisbahn und Bowling.",
       hu: "Nagy múltú vidámpark Engomiban, Nicosiában, klasszikus játékokkal, jégpályával és bowlinggal.",
-      ro: "Un parc de distrac�?ii de lung�? durat�? în Engomi, Nicosia, cu atrac�?ii clasice, un patinoar �?i bowling.",
+      ro: "Un parc de distracții de lungă durată în Engomi, Nicosia, cu atracții clasice, un patinoar și bowling.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1598,7 +1599,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1611,13 +1612,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "The Land of Dreams",
       de: "Das Land der Träume",
       hu: "Álmok Földje",
-      ro: "T�?râmul Viselor",
+      ro: "Tărâmul Viselor",
     },
     description: {
       en: "A unique playground and activity center in Larnaca, built with natural materials.",
       de: "Ein einzigartiger Spielplatz und ein Aktivitätszentrum in Larnaca, das mit natürlichen Materialien gebaut wurde.",
       hu: "Egyedülálló játszótér és foglalkoztató központ Lárnakában, természetes anyagokból építve.",
-      ro: "Un loc de joac�? �?i un centru de activit�?�?i unic în Larnaca, construit cu materiale naturale.",
+      ro: "Un loc de joacă și un centru de activități unic în Larnaca, construit cu materiale naturale.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1628,7 +1629,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1641,13 +1642,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Molos Park Playgrounds",
       de: "Spielplätze im Molos-Park",
       hu: "Molos Park játszóterek",
-      ro: "Locurile de joac�? din Parcul Molos",
+      ro: "Locurile de joacă din Parcul Molos",
     },
     description: {
       en: "The large seaside park in Limassol features multiple modern playgrounds for different age groups.",
-      de: "Der gro�?e Küstenpark in Limassol verfügt über mehrere moderne Spielplätze für verschiedene Altersgruppen.",
-      hu: "A nagy limassoli tengerparti parkban több modern játszótér található a különböz�? korosztályok számára.",
-      ro: "Parcul mare de pe malul m�?rii din Limassol are mai multe locuri de joac�? moderne pentru diferite grupe de vârst�?.",
+      de: "Der große Küstenpark in Limassol verfügt über mehrere moderne Spielplätze für verschiedene Altersgruppen.",
+      hu: "A nagy limassoli tengerparti parkban több modern játszótér található a különböző korosztályok számára.",
+      ro: "Parcul mare de pe malul mării din Limassol are mai multe locuri de joacă moderne pentru diferite grupe de vârstă.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1658,7 +1659,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1671,13 +1672,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Larnaka Promenade Playground",
       de: "Spielplatz an der Promenade von Larnaka",
       hu: "Lárnakai sétány játszótere",
-      ro: "Locul de joac�? de pe promenada din Larnaca",
+      ro: "Locul de joacă de pe promenada din Larnaca",
     },
     description: {
       en: "A public playground located on the Finikoudes promenade, right next to the sea.",
       de: "Ein öffentlicher Spielplatz an der Finikoudes-Promenade, direkt am Meer.",
       hu: "Nyilvános játszótér a Finikoudes sétányon, közvetlenül a tenger mellett.",
-      ro: "Un loc de joac�? public situat pe promenada Finikoudes, chiar lâng�? mare.",
+      ro: "Un loc de joacă public situat pe promenada Finikoudes, chiar lângă mare.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1688,7 +1689,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1701,13 +1702,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Camel Park Playground",
       de: "Spielplatz im Kamelpark",
       hu: "Teve Park játszótér",
-      ro: "Locul de joac�? din Parcul de C�?mile",
+      ro: "Locul de joacă din Parcul de Cămile",
     },
     description: {
       en: "Besides the animals, the Camel Park in Mazotos has a large adventure playground for children.",
-      de: "Neben den Tieren verfügt der Kamelpark in Mazotos über einen gro�?en Abenteuerspielplatz für Kinder.",
+      de: "Neben den Tieren verfügt der Kamelpark in Mazotos über einen großen Abenteuerspielplatz für Kinder.",
       hu: "Az állatok mellett a mazotosi Teve Park nagy kalandjátszótérrel is rendelkezik a gyerekek számára.",
-      ro: "Pe lâng�? animale, Parcul de C�?mile din Mazotos are un loc de joac�? mare de aventur�? pentru copii.",
+      ro: "Pe lângă animale, Parcul de Cămile din Mazotos are un loc de joacă mare de aventură pentru copii.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1718,7 +1719,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1730,14 +1731,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Magic Dancing Waters Show Live",
       de: "Magic Dancing Waters Show Live",
-      hu: "Magic Dancing Waters él�? show",
+      hu: "Magic Dancing Waters élő show",
       ro: "Spectacolul Live Magic Dancing Waters",
     },
     description: {
       en: "A spectacular show of water, fire, and light synchronized to music, a fascinating experience for all ages.",
       de: "Eine spektakuläre Show aus Wasser, Feuer und Licht, synchronisiert mit Musik, ein faszinierendes Erlebnis für alle Altersgruppen.",
-      hu: "Víz, tűz és fény zenére szinkronizált látványos show-ja, amely minden korosztály számára lenyűgöz�? élmény.",
-      ro: "Un spectacol spectaculos de ap�?, foc �?i lumin�? sincronizat cu muzica, o experien�?�? fascinant�? pentru toate vârstele.",
+      hu: "Víz, tűz és fény zenére szinkronizált látványos show-ja, amely minden korosztály számára lenyűgöző élmény.",
+      ro: "Un spectacol spectaculos de apă, foc și lumină sincronizat cu muzica, o experiență fascinantă pentru toate vârstele.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1748,7 +1749,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1761,13 +1762,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Lithos Rock Climbing",
       de: "Lithos Klettern",
       hu: "Lithos Sziklamászás",
-      ro: "Escalad�? Lithos",
+      ro: "Escaladă Lithos",
     },
     description: {
       en: "An indoor climbing gym in Nicosia offering bouldering and rope climbing for kids and adults.",
       de: "Eine Indoor-Kletterhalle in Nikosia, die Bouldern und Seilklettern für Kinder und Erwachsene anbietet.",
-      hu: "Beltéri mászóterem Nicosiában, amely boulderezést és köteles mászást kínál gyerekeknek és feln�?tteknek.",
-      ro: "O sal�? de escalad�? interioar�? în Nicosia, care ofer�? bouldering �?i c�?�?�?rare cu coarda pentru copii �?i adul�?i.",
+      hu: "Beltéri mászóterem Nicosiában, amely boulderezést és köteles mászást kínál gyerekeknek és felnőtteknek.",
+      ro: "O sală de escaladă interioară în Nicosia, care oferă bouldering și cățărare cu coarda pentru copii și adulți.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1778,7 +1779,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1802,8 +1803,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A family-owned winery in the traditional village of Omodos, offering wine tasting and tours.",
       de: "Ein familiengeführtes Weingut im traditionellen Dorf Omodos, das Weinproben und Führungen anbietet.",
-      hu: "Családi tulajdonban lév�? borászat Omodos hagyományos falujában, amely borkóstolást és túrákat kínál.",
-      ro: "O cram�? de familie în satul tradi�?ional Omodos, care ofer�? degust�?ri de vin �?i tururi.",
+      hu: "Családi tulajdonban lévő borászat Omodos hagyományos falujában, amely borkóstolást és túrákat kínál.",
+      ro: "O cramă de familie în satul tradițional Omodos, care oferă degustări de vin și tururi.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1814,7 +1815,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1832,8 +1833,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A renowned winery located in the Pitsilia wine region, known for its focus on local grape varieties.",
       de: "Ein renommiertes Weingut in der Weinregion Pitsilia, das für seinen Fokus auf lokale Rebsorten bekannt ist.",
-      hu: "Híres borászat a Pitsilia borrégióban, amely a helyi sz�?l�?fajtákra való összpontosításáról ismert.",
-      ro: "O cram�? renumit�? situat�? în regiunea viticol�? Pitsilia, cunoscut�? pentru accentul pus pe soiurile locale de struguri.",
+      hu: "Híres borászat a Pitsilia borrégióban, amely a helyi szőlőfajtákra való összpontosításáról ismert.",
+      ro: "O cramă renumită situată în regiunea viticolă Pitsilia, cunoscută pentru accentul pus pe soiurile locale de struguri.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1844,7 +1845,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1862,8 +1863,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "One of the first local wineries in Cyprus, offering stunning views and wines from indigenous grapes.",
       de: "Eines der ersten lokalen Weingüter Zyperns, das eine atemberaubende Aussicht und Weine aus einheimischen Trauben bietet.",
-      hu: "Ciprus egyik els�? helyi borászata, amely lenyűgöz�? kilátást és �?shonos sz�?l�?b�?l készült borokat kínál.",
-      ro: "Una dintre primele crame locale din Cipru, oferind priveli�?ti uimitoare �?i vinuri din struguri autohtoni.",
+      hu: "Ciprus egyik első helyi borászata, amely lenyűgöző kilátást és őshonos szőlőből készült borokat kínál.",
+      ro: "Una dintre primele crame locale din Cipru, oferind priveliști uimitoare și vinuri din struguri autohtoni.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1874,7 +1875,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1892,8 +1893,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A boutique winery in the Limassol district producing high-quality, award-winning wines.",
       de: "Ein Boutique-Weingut im Bezirk Limassol, das hochwertige, preisgekrönte Weine herstellt.",
-      hu: "Boutique borászat Limassol kerületében, amely kiváló min�?ségű, díjnyertes borokat állít el�?.",
-      ro: "O cram�? de tip boutique în districtul Limassol, care produce vinuri de înalt�? calitate, premiate.",
+      hu: "Boutique borászat Limassol kerületében, amely kiváló minőségű, díjnyertes borokat állít elő.",
+      ro: "O cramă de tip boutique în districtul Limassol, care produce vinuri de înaltă calitate, premiate.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1904,7 +1905,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1922,8 +1923,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A winery with a restaurant overlooking the vineyards, offering a complete gastronomic experience.",
       de: "Ein Weingut mit einem Restaurant mit Blick auf die Weinberge, das ein komplettes gastronomisches Erlebnis bietet.",
-      hu: "Borászat étteremmel, amely a sz�?l�?ültetvényekre néz, és teljes gasztronómiai élményt nyújt.",
-      ro: "O cram�? cu un restaurant cu vedere la podgorii, oferind o experien�?�? gastronomic�? complet�?.",
+      hu: "Borászat étteremmel, amely a szőlőültetvényekre néz, és teljes gasztronómiai élményt nyújt.",
+      ro: "O cramă cu un restaurant cu vedere la podgorii, oferind o experiență gastronomică completă.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1934,7 +1935,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1947,13 +1948,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Oleastro Olive Park and Museum",
       de: "Olivenpark und Museum Oleastro",
       hu: "Oleastro Olajfa Park és Múzeum",
-      ro: "Parcul �?i Muzeul de M�?slini Oleastro",
+      ro: "Parcul și Muzeul de Măslini Oleastro",
     },
     description: {
       en: "Learn about the history of olive oil production in Cyprus, see an olive press, and taste the products.",
       de: "Erfahren Sie mehr über die Geschichte der Olivenölproduktion auf Zypern, sehen Sie eine Olivenpresse und probieren Sie die Produkte.",
       hu: "Ismerje meg a ciprusi olívaolaj-termelés történetét, nézzen meg egy olajprést és kóstolja meg a termékeket.",
-      ro: "Afla�?i despre istoria produc�?iei de ulei de m�?sline în Cipru, vede�?i o pres�? de m�?sline �?i gusta�?i produsele.",
+      ro: "Aflați despre istoria producției de ulei de măsline în Cipru, vedeți o presă de măsline și gustați produsele.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1964,7 +1965,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -1981,9 +1982,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A family business producing rose water, essential oils, and cosmetics from locally grown roses.",
-      de: "Ein Familienunternehmen, das Rosenwasser, ätherische �?le und Kosmetika aus lokal angebauten Rosen herstellt.",
-      hu: "Családi vállalkozás, amely helyben termesztett rózsából állít el�? rózsavizet, illóolajokat és kozmetikumokat.",
-      ro: "O afacere de familie care produce ap�? de trandafiri, uleiuri esen�?iale �?i cosmetice din trandafiri cultiva�?i local.",
+      de: "Ein Familienunternehmen, das Rosenwasser, ätherische Öle und Kosmetika aus lokal angebauten Rosen herstellt.",
+      hu: "Családi vállalkozás, amely helyben termesztett rózsából állít elő rózsavizet, illóolajokat és kozmetikumokat.",
+      ro: "O afacere de familie care produce apă de trandafiri, uleiuri esențiale și cosmetice din trandafiri cultivați local.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -1994,7 +1995,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2007,13 +2008,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Anogyra Carob Museum and Factory",
       de: "Johannisbrotmuseum und Fabrik Anogyra",
       hu: "Anogyrai Szentjánoskenyér Múzeum és Gyár",
-      ro: "Muzeul �?i Fabrica de Ro�?cove din Anogyra",
+      ro: "Muzeul și Fabrica de Roșcove din Anogyra",
     },
     description: {
       en: "Discover the 'black gold' of Cyprus. See how carob syrup and other products are made.",
-      de: "Entdecken Sie das �??schwarze Gold�?? Zyperns. Sehen Sie, wie Johannisbrotsirup und andere Produkte hergestellt werden.",
-      hu: "Fedezze fel Ciprus �??fekete aranyát�?�. Nézze meg, hogyan készül a szentjánoskenyér-szirup és más termékek.",
-      ro: "Descoperi�?i �??aurul negru�?� al Ciprului. Vede�?i cum se prepar�? siropul de ro�?cove �?i alte produse.",
+      de: "Entdecken Sie das „schwarze Gold“ Zyperns. Sehen Sie, wie Johannisbrotsirup und andere Produkte hergestellt werden.",
+      hu: "Fedezze fel Ciprus „fekete aranyát”. Nézze meg, hogyan készül a szentjánoskenyér-szirup és más termékek.",
+      ro: "Descoperiți „aurul negru” al Ciprului. Vedeți cum se prepară siropul de roșcove și alte produse.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2024,7 +2025,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2041,9 +2042,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "Features 9 themed herb gardens, a large maze, a lavender meditation labyrinth, and a distillation room.",
-      de: "Verfügt über 9 thematische Kräutergärten, ein gro�?es Labyrinth, ein Lavendel-Meditationslabyrinth und einen Destillationsraum.",
+      de: "Verfügt über 9 thematische Kräutergärten, ein großes Labyrinth, ein Lavendel-Meditationslabyrinth und einen Destillationsraum.",
       hu: "9 tematikus gyógynövénykerttel, egy nagy labirintussal, egy levendula meditációs labirintussal és egy lepárlóval rendelkezik.",
-      ro: "Dispune de 9 gr�?dini tematice de ierburi, un labirint mare, un labirint de medita�?ie cu lavand�? �?i o camer�? de distilare.",
+      ro: "Dispune de 9 grădini tematice de ierburi, un labirint mare, un labirint de meditație cu lavandă și o cameră de distilare.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2054,7 +2055,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2066,14 +2067,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Letymbou Village Vineyards",
       de: "Weinberge des Dorfes Letymbou",
-      hu: "Letymbou falu sz�?l�?ültetvényei",
+      hu: "Letymbou falu szőlőültetvényei",
       ro: "Viile din satul Letymbou",
     },
     description: {
       en: "A traditional wine village in the Paphos district surrounded by vineyards growing local grape varieties.",
       de: "Ein traditionelles Weindorf im Bezirk Paphos, umgeben von Weinbergen, in denen lokale Rebsorten angebaut werden.",
-      hu: "Hagyományos borfalu Páfosz kerületében, helyi sz�?l�?fajtákat termeszt�? sz�?l�?ültetvényekkel körülvéve.",
-      ro: "Un sat viticol tradi�?ional din districtul Paphos, înconjurat de podgorii care cultiv�? soiuri locale de struguri.",
+      hu: "Hagyományos borfalu Páfosz kerületében, helyi szőlőfajtákat termesztő szőlőültetvényekkel körülvéve.",
+      ro: "Un sat viticol tradițional din districtul Paphos, înconjurat de podgorii care cultivă soiuri locale de struguri.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2084,7 +2085,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2102,8 +2103,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A collection of villages on the southern slopes of the Troodos Mountains famous for their wine production.",
       de: "Eine Ansammlung von Dörfern an den Südhängen des Troodos-Gebirges, die für ihre Weinproduktion berühmt sind.",
-      hu: "A Troodos-hegység déli lejt�?in található falvak gyűjteménye, amelyek bortermelésükr�?l híresek.",
-      ro: "O colec�?ie de sate de pe versan�?ii sudici ai Mun�?ilor Troodos, renumite pentru produc�?ia de vin.",
+      hu: "A Troodos-hegység déli lejtőin található falvak gyűjteménye, amelyek bortermelésükről híresek.",
+      ro: "O colecție de sate de pe versanții sudici ai Munților Troodos, renumite pentru producția de vin.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2114,7 +2115,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2133,7 +2134,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "A dairy farm where visitors can see the production of traditional Cypriot cheeses like Halloumi and Anari.",
       de: "Eine Molkerei, in der Besucher die Herstellung traditioneller zypriotischer Käsesorten wie Halloumi und Anari sehen können.",
       hu: "Tejgazdaság, ahol a látogatók megnézhetik a hagyományos ciprusi sajtok, például a Halloumi és az Anari gyártását.",
-      ro: "O ferm�? de lactate unde vizitatorii pot vedea produc�?ia de brânzeturi tradi�?ionale cipriote precum Halloumi �?i Anari.",
+      ro: "O fermă de lactate unde vizitatorii pot vedea producția de brânzeturi tradiționale cipriote precum Halloumi și Anari.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2144,7 +2145,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2157,13 +2158,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Golden Donkeys Farm Olive Oil",
       de: "Golden Donkeys Farm Olivenöl",
       hu: "Golden Donkeys Farm Olívaolaj",
-      ro: "Ulei de m�?sline de la Ferma Golden Donkeys",
+      ro: "Ulei de măsline de la Ferma Golden Donkeys",
     },
     description: {
       en: "The farm also produces organic olive oil from its own olive groves, with a traditional stone mill.",
       de: "Die Farm produziert auch Bio-Olivenöl aus eigenen Olivenhainen mit einer traditionellen Steinmühle.",
-      hu: "A farm saját olajfaligeteib�?l bio-olívaolajat is termel, hagyományos k�?malommal.",
-      ro: "Ferma produce �?i ulei de m�?sline organic din propriile planta�?ii de m�?slini, cu o moar�? de piatr�? tradi�?ional�?.",
+      hu: "A farm saját olajfaligeteiből bio-olívaolajat is termel, hagyományos kőmalommal.",
+      ro: "Ferma produce și ulei de măsline organic din propriile plantații de măslini, cu o moară de piatră tradițională.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2174,7 +2175,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2192,8 +2193,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A modern winery with a stunning architectural design near Lefkara, focused on organic cultivation.",
       de: "Ein modernes Weingut mit einem atemberaubenden architektonischen Design in der Nähe von Lefkara, das sich auf den biologischen Anbau konzentriert.",
-      hu: "Modern borászat lenyűgöz�? építészeti kialakítással Lefkara közelében, az ökológiai termesztésre összpontosítva.",
-      ro: "O cram�? modern�?, cu un design arhitectural uimitor, lâng�? Lefkara, axat�? pe cultivarea ecologic�?.",
+      hu: "Modern borászat lenyűgöző építészeti kialakítással Lefkara közelében, az ökológiai termesztésre összpontosítva.",
+      ro: "O cramă modernă, cu un design arhitectural uimitor, lângă Lefkara, axată pe cultivarea ecologică.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2204,7 +2205,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2223,7 +2224,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "A state-of-the-art winery in Koilani, combining modern technology with traditional winemaking.",
       de: "Ein hochmodernes Weingut in Koilani, das moderne Technologie mit traditioneller Weinherstellung kombiniert.",
       hu: "Korszerű borászat Koilaniban, amely a modern technológiát a hagyományos borkészítéssel ötvözi.",
-      ro: "O cram�? de ultim�? genera�?ie în Koilani, care combin�? tehnologia modern�? cu vinifica�?ia tradi�?ional�?.",
+      ro: "O cramă de ultimă generație în Koilani, care combină tehnologia modernă cu vinificația tradițională.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2234,7 +2235,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2251,9 +2252,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "Visit workshops in Geroskipou to see the making of the traditional 'Cyprus Delight', a PGI protected product.",
-      de: "Besuchen Sie Werkstätten in Geroskipou, um die Herstellung des traditionellen �??Zypern-Genusses�?? zu sehen, einem g.g.A.-geschützten Produkt.",
-      hu: "Látogasson el a Geroskipou-i műhelyekbe, hogy megnézze a hagyományos, OFJ-oltalom alatt álló �??Ciprusi édesség�?� készítését.",
-      ro: "Vizita�?i atelierele din Geroskipou pentru a vedea cum se face tradi�?ionalul �??Deliciu Cipriot�?�, un produs protejat IGP.",
+      de: "Besuchen Sie Werkstätten in Geroskipou, um die Herstellung des traditionellen „Zypern-Genusses“ zu sehen, einem g.g.A.-geschützten Produkt.",
+      hu: "Látogasson el a Geroskipou-i műhelyekbe, hogy megnézze a hagyományos, OFJ-oltalom alatt álló „Ciprusi édesség” készítését.",
+      ro: "Vizitați atelierele din Geroskipou pentru a vedea cum se face tradiționalul „Deliciu Cipriot”, un produs protejat IGP.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2264,7 +2265,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2277,13 +2278,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Red Soil Potato Fields (Kokkinochoria)",
       de: "Rote-Erde-Kartoffelfelder (Kokkinochoria)",
       hu: "Vörös Föld Burgonyaföldek (Kokkinochoria)",
-      ro: "Câmpurile de cartofi de pe sol ro�?u (Kokkinochoria)",
+      ro: "Câmpurile de cartofi de pe sol roșu (Kokkinochoria)",
     },
     description: {
       en: "The 'red soil villages' area is famous for growing Cyprus potatoes, known for their distinctive taste.",
-      de: "Das Gebiet der �??Roten-Erde-Dörfer�?? ist berühmt für den Anbau von Zypern-Kartoffeln, die für ihren unverwechselbaren Geschmack bekannt sind.",
-      hu: "A �??vörös földű falvak�?� területe a jellegzetes ízér�?l ismert ciprusi burgonya termesztésér�?l híres.",
-      ro: "Zona �??satelor cu p�?mânt ro�?u�?� este renumit�? pentru cultivarea cartofilor de Cipru, cunoscu�?i pentru gustul lor distinctiv.",
+      de: "Das Gebiet der „Roten-Erde-Dörfer“ ist berühmt für den Anbau von Zypern-Kartoffeln, die für ihren unverwechselbaren Geschmack bekannt sind.",
+      hu: "A „vörös földű falvak” területe a jellegzetes ízéről ismert ciprusi burgonya termesztéséről híres.",
+      ro: "Zona „satelor cu pământ roșu” este renumită pentru cultivarea cartofilor de Cipru, cunoscuți pentru gustul lor distinctiv.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2294,7 +2295,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2312,8 +2313,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "An organic winery in the village of Lemona, Paphos, with a passion for nature and quality wine.",
       de: "Ein Bio-Weingut im Dorf Lemona, Paphos, mit einer Leidenschaft für Natur und Qualitätswein.",
-      hu: "Organikus borászat Lemona faluban, Páfoszban, a természet és a min�?ségi bor iránti szenvedéllyel.",
-      ro: "O cram�? ecologic�? în satul Lemona, Paphos, cu o pasiune pentru natur�? �?i vin de calitate.",
+      hu: "Organikus borászat Lemona faluban, Páfoszban, a természet és a minőségi bor iránti szenvedéllyel.",
+      ro: "O cramă ecologică în satul Lemona, Paphos, cu o pasiune pentru natură și vin de calitate.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2324,7 +2325,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2342,8 +2343,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A family-run winery near Kato Drys offering tours, tastings and a small agricultural museum.",
       de: "Ein familiengeführtes Weingut in der Nähe von Kato Drys, das Führungen, Verkostungen und ein kleines Landwirtschaftsmuseum anbietet.",
-      hu: "Családi borászat Kato Drys közelében, amely túrákat, kóstolókat és egy kis mez�?gazdasági múzeumot kínál.",
-      ro: "O cram�? de familie lâng�? Kato Drys, care ofer�? tururi, degust�?ri �?i un mic muzeu agricol.",
+      hu: "Családi borászat Kato Drys közelében, amely túrákat, kóstolókat és egy kis mezőgazdasági múzeumot kínál.",
+      ro: "O cramă de familie lângă Kato Drys, care oferă tururi, degustări și un mic muzeu agricol.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2354,7 +2355,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2373,7 +2374,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "Located in Koilani, this winery is particularly famous for its Commandaria, one of the oldest wines in the world.",
       de: "Dieses in Koilani gelegene Weingut ist besonders berühmt für seinen Commandaria, einen der ältesten Weine der Welt.",
       hu: "A Koilaniban található borászat különösen híres Commandaria boráról, amely a világ egyik legrégebbi bora.",
-      ro: "Situat�? în Koilani, aceast�? cram�? este renumit�? în special pentru Commandaria, unul dintre cele mai vechi vinuri din lume.",
+      ro: "Situată în Koilani, această cramă este renumită în special pentru Commandaria, unul dintre cele mai vechi vinuri din lume.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2384,7 +2385,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2402,8 +2403,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "The area around Fasouri is one of the main citrus-growing regions in Cyprus, producing oranges, lemons, and grapefruit.",
       de: "Das Gebiet um Fasouri ist eine der Hauptanbauregionen für Zitrusfrüchte auf Zypern und produziert Orangen, Zitronen und Grapefruits.",
-      hu: "A Fasouri környéki terület Ciprus egyik f�? citrustermeszt�? régiója, ahol narancsot, citromot és grapefruitot termesztenek.",
-      ro: "Zona din jurul Fasouri este una dintre principalele regiuni de cultivare a citricelor din Cipru, producând portocale, l�?mâi �?i grapefruit.",
+      hu: "A Fasouri környéki terület Ciprus egyik fő citrustermesztő régiója, ahol narancsot, citromot és grapefruitot termesztenek.",
+      ro: "Zona din jurul Fasouri este una dintre principalele regiuni de cultivare a citricelor din Cipru, producând portocale, lămâi și grapefruit.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2414,7 +2415,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2427,13 +2428,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Agrovino Lofou (Wine & Traditions)",
       de: "Agrovino Lofou (Wein & Traditionen)",
       hu: "Agrovino Lofou (Bor és Hagyományok)",
-      ro: "Agrovino Lofou (Vin �?i Tradi�?ii)",
+      ro: "Agrovino Lofou (Vin și Tradiții)",
     },
     description: {
       en: "A small museum and guesthouse in Lofou village dedicated to the agricultural traditions of the wine villages.",
       de: "Ein kleines Museum und eine Pension im Dorf Lofou, die den landwirtschaftlichen Traditionen der Weindörfer gewidmet sind.",
-      hu: "Kis múzeum és vendégház Lofou faluban, a borfalvak mez�?gazdasági hagyományainak szentelve.",
-      ro: "Un mic muzeu �?i o pensiune în satul Lofou, dedicate tradi�?iilor agricole ale satelor viticole.",
+      hu: "Kis múzeum és vendégház Lofou faluban, a borfalvak mezőgazdasági hagyományainak szentelve.",
+      ro: "Un mic muzeu și o pensiune în satul Lofou, dedicate tradițiilor agricole ale satelor viticole.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2444,7 +2445,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2463,7 +2464,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "Located in Zoopigi, this museum showcases the history and production process of the unique Commandaria wine.",
       de: "Dieses in Zoopigi gelegene Museum zeigt die Geschichte und den Herstellungsprozess des einzigartigen Commandaria-Weins.",
       hu: "A Zoopigiben található múzeum bemutatja az egyedülálló Commandaria bor történetét és gyártási folyamatát.",
-      ro: "Situat în Zoopigi, acest muzeu prezint�? istoria �?i procesul de produc�?ie al vinului unic Commandaria.",
+      ro: "Situat în Zoopigi, acest muzeu prezintă istoria și procesul de producție al vinului unic Commandaria.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2474,7 +2475,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2487,13 +2488,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Mitsides Flour Mill",
       de: "Mitsides-Mehlmühle",
       hu: "Mitsides Lisztmalom",
-      ro: "Moara de f�?in�? Mitsides",
+      ro: "Moara de făină Mitsides",
     },
     description: {
       en: "One of the oldest and largest flour mills in Cyprus, a key part of the island's grain industry.",
-      de: "Eine der ältesten und grö�?ten Getreidemühlen Zyperns, ein wichtiger Teil der Getreideindustrie der Insel.",
+      de: "Eine der ältesten und größten Getreidemühlen Zyperns, ein wichtiger Teil der Getreideindustrie der Insel.",
       hu: "Ciprus egyik legrégebbi és legnagyobb lisztmalma, a sziget gabonaiparának kulcsfontosságú része.",
-      ro: "Una dintre cele mai vechi �?i mai mari mori de f�?in�? din Cipru, o parte cheie a industriei de cereale de pe insul�?.",
+      ro: "Una dintre cele mai vechi și mai mari mori de făină din Cipru, o parte cheie a industriei de cereale de pe insulă.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2504,7 +2505,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2523,7 +2524,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "An agrotourism farm offering accommodation and experiences like halloumi making and olive picking.",
       de: "Ein Agrotourismus-Bauernhof, der Unterkunft und Erlebnisse wie Halloumi-Herstellung und Olivenernte bietet.",
       hu: "Agroturisztikai farm, amely szállást és olyan élményeket kínál, mint a halloumi készítés és az olajbogyó-szedés.",
-      ro: "O ferm�? de agroturism care ofer�? cazare �?i experien�?e precum prepararea halloumi �?i culesul m�?slinelor.",
+      ro: "O fermă de agroturism care oferă cazare și experiențe precum prepararea halloumi și culesul măslinelor.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2534,7 +2535,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2552,8 +2553,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "An organic farm and shop in the Larnaca district, producing a wide range of organic vegetables and fruits.",
       de: "Ein Bio-Bauernhof und -Laden im Bezirk Larnaca, der eine breite Palette an Bio-Gemüse und -Obst produziert.",
-      hu: "Biogazdaság és üzlet Lárnaka kerületében, amely biozöldségek és gyümölcsök széles választékát állítja el�?.",
-      ro: "O ferm�? �?i un magazin ecologic în districtul Larnaca, care produce o gam�? larg�? de legume �?i fructe ecologice.",
+      hu: "Biogazdaság és üzlet Lárnaka kerületében, amely biozöldségek és gyümölcsök széles választékát állítja elő.",
+      ro: "O fermă și un magazin ecologic în districtul Larnaca, care produce o gamă largă de legume și fructe ecologice.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2564,7 +2565,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2582,8 +2583,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A family-owned winery in Mesogi, Paphos, committed to crafting wines from Cypriot and international grape varieties.",
       de: "Ein familiengeführtes Weingut in Mesogi, Paphos, das sich der Herstellung von Weinen aus zypriotischen und internationalen Rebsorten verschrieben hat.",
-      hu: "Családi tulajdonú borászat Mesogiban, Páfoszban, amely elkötelezett a ciprusi és nemzetközi sz�?l�?fajtákból készült borok készítése mellett.",
-      ro: "O cram�? de familie în Mesogi, Paphos, dedicat�? cre�?rii de vinuri din soiuri de struguri cipriote �?i interna�?ionale.",
+      hu: "Családi tulajdonú borászat Mesogiban, Páfoszban, amely elkötelezett a ciprusi és nemzetközi szőlőfajtákból készült borok készítése mellett.",
+      ro: "O cramă de familie în Mesogi, Paphos, dedicată creării de vinuri din soiuri de struguri cipriote și internaționale.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2594,7 +2595,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2607,13 +2608,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Bee & Embroidery Museum",
       de: "Bienen- & Stickereimuseum",
       hu: "Méhészeti és Hímzésmúzeum",
-      ro: "Muzeul Albinelor �?i al Broderiei",
+      ro: "Muzeul Albinelor și al Broderiei",
     },
     description: {
       en: "A museum in Kato Drys showcasing rural life, with exhibits on beekeeping, winemaking, and Lefkaritika lace.",
       de: "Ein Museum in Kato Drys, das das ländliche Leben zeigt, mit Ausstellungen zur Bienenzucht, Weinherstellung und Lefkaritika-Spitze.",
       hu: "Múzeum Kato Drys-ban, amely a vidéki életet mutatja be, méhészettel, borkészítéssel és a Lefkaritika csipkével kapcsolatos kiállításokkal.",
-      ro: "Un muzeu în Kato Drys care prezint�? via�?a rural�?, cu exponate despre apicultur�?, vinifica�?ie �?i dantela Lefkaritika.",
+      ro: "Un muzeu în Kato Drys care prezintă viața rurală, cu exponate despre apicultură, vinificație și dantela Lefkaritika.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2624,7 +2625,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2641,9 +2642,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A modern winery in the Pitsilia region, blending art with winemaking at a high altitude.",
-      de: "Ein modernes Weingut in der Region Pitsilia, das Kunst mit Weinherstellung in gro�?er Höhe verbindet.",
+      de: "Ein modernes Weingut in der Region Pitsilia, das Kunst mit Weinherstellung in großer Höhe verbindet.",
       hu: "Modern borászat a Pitsilia régióban, amely a művészetet ötvözi a borkészítéssel nagy magasságban.",
-      ro: "O cram�? modern�? în regiunea Pitsilia, care îmbin�? arta cu vinifica�?ia la mare altitudine.",
+      ro: "O cramă modernă în regiunea Pitsilia, care îmbină arta cu vinificația la mare altitudine.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2654,7 +2655,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2667,13 +2668,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Kalopanayiotis Dam Fishery",
       de: "Fischerei am Kalopanayiotis-Staudamm",
       hu: "Kalopanayiotis-gát Halászata",
-      ro: "Pesc�?ria de la Barajul Kalopanayiotis",
+      ro: "Pescăria de la Barajul Kalopanayiotis",
     },
     description: {
       en: "The reservoir is stocked with trout, offering opportunities for recreational fishing in the mountains.",
       de: "Der Stausee ist mit Forellen besetzt und bietet Möglichkeiten zum Freizeitfischen in den Bergen.",
-      hu: "A víztározót pisztránggal telepítették be, amely lehet�?séget kínál a hegyi szabadid�?s horgászatra.",
-      ro: "Rezervorul este populat cu p�?str�?v, oferind oportunit�?�?i pentru pescuitul recreativ la munte.",
+      hu: "A víztározót pisztránggal telepítették be, amely lehetőséget kínál a hegyi szabadidős horgászatra.",
+      ro: "Rezervorul este populat cu păstrăv, oferind oportunități pentru pescuitul recreativ la munte.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2684,7 +2685,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2707,9 +2708,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "One of the largest industrial plants in Cyprus, a major producer of cement for local and international markets.",
-      de: "Eine der grö�?ten Industrieanlagen Zyperns, ein bedeutender Hersteller von Zement für den lokalen und internationalen Markt.",
-      hu: "Ciprus egyik legnagyobb ipari üzeme, a helyi és nemzetközi piacok egyik f�? cementgyártója.",
-      ro: "Una dintre cele mai mari fabrici industriale din Cipru, un produc�?tor major de ciment pentru pie�?ele locale �?i interna�?ionale.",
+      de: "Eine der größten Industrieanlagen Zyperns, ein bedeutender Hersteller von Zement für den lokalen und internationalen Markt.",
+      hu: "Ciprus egyik legnagyobb ipari üzeme, a helyi és nemzetközi piacok egyik fő cementgyártója.",
+      ro: "Una dintre cele mai mari fabrici industriale din Cipru, un producător major de ciment pentru piețele locale și internaționale.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2720,7 +2721,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2732,14 +2733,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Vasilikos Power Station",
       de: "Kraftwerk Vasilikos",
-      hu: "Vasilikos Er�?mű",
-      ro: "Centrala Electric�? Vasilikos",
+      hu: "Vasilikos Erőmű",
+      ro: "Centrala Electrică Vasilikos",
     },
     description: {
       en: "The main power station of Cyprus, crucial for the island's electricity supply.",
       de: "Das Hauptkraftwerk Zyperns, das für die Stromversorgung der Insel von entscheidender Bedeutung ist.",
-      hu: "Ciprus f�? er�?műve, amely kulcsfontosságú a sziget áramellátása szempontjából.",
-      ro: "Principala central�? electric�? a Ciprului, crucial�? pentru alimentarea cu energie electric�? a insulei.",
+      hu: "Ciprus fő erőműve, amely kulcsfontosságú a sziget áramellátása szempontjából.",
+      ro: "Principala centrală electrică a Ciprului, crucială pentru alimentarea cu energie electrică a insulei.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2750,7 +2751,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2762,14 +2763,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Dhekelia Power Station",
       de: "Kraftwerk Dhekelia",
-      hu: "Dhekelia Er�?mű",
-      ro: "Centrala Electric�? Dhekelia",
+      hu: "Dhekelia Erőmű",
+      ro: "Centrala Electrică Dhekelia",
     },
     description: {
       en: "One of the three power plants owned by the Electricity Authority of Cyprus, located near Larnaca.",
       de: "Eines der drei Kraftwerke der Elektrizitätsbehörde Zyperns in der Nähe von Larnaca.",
-      hu: "A Ciprusi Villamosenergia-hatóság három er�?művének egyike, Lárnaka közelében található.",
-      ro: "Una dintre cele trei centrale electrice de�?inute de Autoritatea de Electricitate din Cipru, situat�? lâng�? Larnaca.",
+      hu: "A Ciprusi Villamosenergia-hatóság három erőművének egyike, Lárnaka közelében található.",
+      ro: "Una dintre cele trei centrale electrice deținute de Autoritatea de Electricitate din Cipru, situată lângă Larnaca.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2780,7 +2781,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2798,8 +2799,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "One of the oldest continuously operating copper mines in the world, showcasing Cyprus's long mining history.",
       de: "Eine der ältesten kontinuierlich betriebenen Kupferminen der Welt, die die lange Bergbaugeschichte Zyperns zeigt.",
-      hu: "A világ egyik legrégebbi, folyamatosan működ�? rézbányája, amely Ciprus hosszú bányászati �??�??történetét mutatja be.",
-      ro: "Una dintre cele mai vechi mine de cupru în func�?iune continu�? din lume, care prezint�? lunga istorie minier�? a Ciprului.",
+      hu: "A világ egyik legrégebbi, folyamatosan működő rézbányája, amely Ciprus hosszú bányászati ​​történetét mutatja be.",
+      ro: "Una dintre cele mai vechi mine de cupru în funcțiune continuă din lume, care prezintă lunga istorie minieră a Ciprului.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2810,7 +2811,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2822,14 +2823,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "KEO Brewery",
       de: "KEO-Brauerei",
-      hu: "KEO Sörf�?zde",
+      hu: "KEO Sörfőzde",
       ro: "Fabrica de Bere KEO",
     },
     description: {
       en: "The brewery of one of Cyprus's most famous brands, producing beer, wines, and spirits.",
       de: "Die Brauerei einer der berühmtesten Marken Zyperns, die Bier, Wein und Spirituosen herstellt.",
-      hu: "Ciprus egyik leghíresebb márkájának sörf�?zdéje, amely sört, borokat és szeszes italokat gyárt.",
-      ro: "Fabrica de bere a unuia dintre cele mai faimoase m�?rci din Cipru, care produce bere, vinuri �?i b�?uturi spirtoase.",
+      hu: "Ciprus egyik leghíresebb márkájának sörfőzdéje, amely sört, borokat és szeszes italokat gyárt.",
+      ro: "Fabrica de bere a unuia dintre cele mai faimoase mărci din Cipru, care produce bere, vinuri și băuturi spirtoase.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2840,7 +2841,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2852,14 +2853,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Photos Photiades (Carlsberg) Brewery",
       de: "Photos Photiades (Carlsberg) Brauerei",
-      hu: "Photos Photiades (Carlsberg) Sörf�?zde",
+      hu: "Photos Photiades (Carlsberg) Sörfőzde",
       ro: "Fabrica de Bere Photos Photiades (Carlsberg)",
     },
     description: {
       en: "The main brewery for Carlsberg beer in Cyprus, a significant industrial site in Latsia.",
       de: "Die Hauptbrauerei für Carlsberg-Bier auf Zypern, ein bedeutender Industriestandort in Latsia.",
-      hu: "A Carlsberg sör f�? sörf�?zdéje Cipruson, egy jelent�?s ipari telephely Latsiában.",
-      ro: "Principala fabric�? de bere pentru berea Carlsberg în Cipru, un important sit industrial în Latsia.",
+      hu: "A Carlsberg sör fő sörfőzdéje Cipruson, egy jelentős ipari telephely Latsiában.",
+      ro: "Principala fabrică de bere pentru berea Carlsberg în Cipru, un important sit industrial în Latsia.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2870,7 +2871,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2883,13 +2884,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Larnaca Industrial Area",
       de: "Industriegebiet Larnaca",
       hu: "Lárnakai Ipari Terület",
-      ro: "Zona Industrial�? Larnaca",
+      ro: "Zona Industrială Larnaca",
     },
     description: {
       en: "A major industrial zone hosting a wide variety of manufacturing and logistics companies.",
-      de: "Eine gro�?e Industriezone, in der eine Vielzahl von Produktions- und Logistikunternehmen ansässig ist.",
-      hu: "Jelent�?s ipari övezet, amely sokféle gyártó és logisztikai vállalatnak ad otthont.",
-      ro: "O zon�? industrial�? major�? care g�?zduie�?te o mare varietate de companii de produc�?ie �?i logistic�?.",
+      de: "Eine große Industriezone, in der eine Vielzahl von Produktions- und Logistikunternehmen ansässig ist.",
+      hu: "Jelentős ipari övezet, amely sokféle gyártó és logisztikai vállalatnak ad otthont.",
+      ro: "O zonă industrială majoră care găzduiește o mare varietate de companii de producție și logistică.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2900,7 +2901,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2912,14 +2913,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Strovolos Industrial Zone",
       de: "Industriezone Strovolos",
-      hu: "Strovolosi Ipari �?vezet",
-      ro: "Zona Industrial�? Strovolos",
+      hu: "Strovolosi Ipari Övezet",
+      ro: "Zona Industrială Strovolos",
     },
     description: {
       en: "One of the largest and oldest industrial areas in Nicosia, with hundreds of factories and workshops.",
-      de: "Eines der grö�?ten und ältesten Industriegebiete in Nikosia mit Hunderten von Fabriken und Werkstätten.",
+      de: "Eines der größten und ältesten Industriegebiete in Nikosia mit Hunderten von Fabriken und Werkstätten.",
       hu: "Nicosia egyik legnagyobb és legrégebbi ipari területe, több száz gyárral és műhellyel.",
-      ro: "Una dintre cele mai mari �?i mai vechi zone industriale din Nicosia, cu sute de fabrici �?i ateliere.",
+      ro: "Una dintre cele mai mari și mai vechi zone industriale din Nicosia, cu sute de fabrici și ateliere.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2930,7 +2931,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2941,15 +2942,15 @@ export const cyprusOtherPoi: POI[] = [
     coords: [33.21, 34.72],
     name: {
       en: "VTTV Vasiliko Oil Terminal",
-      de: "VTTV Vasiliko �?lterminal",
+      de: "VTTV Vasiliko Ölterminal",
       hu: "VTTV Vasiliko Olajterminál",
       ro: "Terminalul Petrolier VTTV Vasiliko",
     },
     description: {
       en: "A major oil storage and terminal facility, crucial for energy imports and regional trade.",
-      de: "Eine gro�?e �?llager- und Terminalanlage, die für Energieimporte und den regionalen Handel von entscheidender Bedeutung ist.",
-      hu: "Jelent�?s olajtároló és terminál létesítmény, amely kulcsfontosságú az energiaimport és a regionális kereskedelem szempontjából.",
-      ro: "O facilitate major�? de stocare �?i terminal petrolier, crucial�? pentru importurile de energie �?i comer�?ul regional.",
+      de: "Eine große Öllager- und Terminalanlage, die für Energieimporte und den regionalen Handel von entscheidender Bedeutung ist.",
+      hu: "Jelentős olajtároló és terminál létesítmény, amely kulcsfontosságú az energiaimport és a regionális kereskedelem szempontjából.",
+      ro: "O facilitate majoră de stocare și terminal petrolier, crucială pentru importurile de energie și comerțul regional.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2960,7 +2961,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -2973,13 +2974,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Ypsonas Industrial Area",
       de: "Industriegebiet Ypsonas",
       hu: "Ypsonasi Ipari Terület",
-      ro: "Zona Industrial�? Ypsonas",
+      ro: "Zona Industrială Ypsonas",
     },
     description: {
       en: "An expanding industrial zone west of Limassol, housing light and heavy industry.",
       de: "Eine expandierende Industriezone westlich von Limassol, die Leicht- und Schwerindustrie beherbergt.",
-      hu: "B�?vül�? ipari övezet Limassoltól nyugatra, könnyű- és nehéziparnak ad otthont.",
-      ro: "O zon�? industrial�? în expansiune la vest de Limassol, care g�?zduie�?te industrie u�?oar�? �?i grea.",
+      hu: "Bővülő ipari övezet Limassoltól nyugatra, könnyű- és nehéziparnak ad otthont.",
+      ro: "O zonă industrială în expansiune la vest de Limassol, care găzduiește industrie ușoară și grea.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -2990,7 +2991,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3002,14 +3003,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Larnaca Desalination Plant",
       de: "Entsalzungsanlage Larnaca",
-      hu: "Lárnakai Sótalanító �?zem",
-      ro: "Sta�?ia de Desalinizare din Larnaca",
+      hu: "Lárnakai Sótalanító Üzem",
+      ro: "Stația de Desalinizare din Larnaca",
     },
     description: {
       en: "One of Cyprus's main desalination plants, providing fresh water from the sea.",
-      de: "Eine der wichtigsten Entsalzungsanlagen Zyperns, die Sü�?wasser aus dem Meer liefert.",
-      hu: "Ciprus egyik f�? sótalanító üzeme, amely a tengerb�?l édesvizet állít el�?.",
-      ro: "Una dintre principalele sta�?ii de desalinizare din Cipru, care furnizeaz�? ap�? dulce din mare.",
+      de: "Eine der wichtigsten Entsalzungsanlagen Zyperns, die Süßwasser aus dem Meer liefert.",
+      hu: "Ciprus egyik fő sótalanító üzeme, amely a tengerből édesvizet állít elő.",
+      ro: "Una dintre principalele stații de desalinizare din Cipru, care furnizează apă dulce din mare.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3020,7 +3021,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3032,14 +3033,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Episkopi Desalination Plant",
       de: "Entsalzungsanlage Episkopi",
-      hu: "Episkopi Sótalanító �?zem",
-      ro: "Sta�?ia de Desalinizare din Episkopi",
+      hu: "Episkopi Sótalanító Üzem",
+      ro: "Stația de Desalinizare din Episkopi",
     },
     description: {
       en: "A vital plant that helps meet the water demands of the Limassol area.",
       de: "Eine lebenswichtige Anlage, die hilft, den Wasserbedarf des Gebiets Limassol zu decken.",
       hu: "Létfontosságú üzem, amely segít kielégíteni a limassoli terület vízigényét.",
-      ro: "O sta�?ie vital�? care ajut�? la satisfacerea cererii de ap�? din zona Limassol.",
+      ro: "O stație vitală care ajută la satisfacerea cererii de apă din zona Limassol.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3050,7 +3051,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3067,9 +3068,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "The largest dairy producer in Cyprus, with a modern factory in Nicosia processing milk, yogurt, and cheese.",
-      de: "Der grö�?te Milchproduzent Zyperns mit einer modernen Fabrik in Nikosia, die Milch, Joghurt und Käse verarbeitet.",
-      hu: "Ciprus legnagyobb tejtermel�?je, nicosiai modern gyárral, amely tejet, joghurtot és sajtot dolgoz fel.",
-      ro: "Cel mai mare produc�?tor de lactate din Cipru, cu o fabric�? modern�? în Nicosia care proceseaz�? lapte, iaurt �?i brânz�?.",
+      de: "Der größte Milchproduzent Zyperns mit einer modernen Fabrik in Nikosia, die Milch, Joghurt und Käse verarbeitet.",
+      hu: "Ciprus legnagyobb tejtermelője, nicosiai modern gyárral, amely tejet, joghurtot és sajtot dolgoz fel.",
+      ro: "Cel mai mare producător de lactate din Cipru, cu o fabrică modernă în Nicosia care procesează lapte, iaurt și brânză.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3080,7 +3081,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3098,8 +3099,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A representative of the growing pharmaceutical industry in Cyprus, based in Limassol.",
       de: "Ein Vertreter der wachsenden Pharmaindustrie auf Zypern mit Sitz in Limassol.",
-      hu: "A növekv�? ciprusi gyógyszeripar képvisel�?je, Limassolban.",
-      ro: "Un reprezentant al industriei farmaceutice în cre�?tere din Cipru, cu sediul în Limassol.",
+      hu: "A növekvő ciprusi gyógyszeripar képviselője, Limassolban.",
+      ro: "Un reprezentant al industriei farmaceutice în creștere din Cipru, cu sediul în Limassol.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3110,7 +3111,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3127,9 +3128,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A major Cypriot pharmaceutical company with multiple factories, exporting generic medicines globally.",
-      de: "Ein gro�?es zypriotisches Pharmaunternehmen mit mehreren Fabriken, das Generika weltweit exportiert.",
-      hu: "Jelent�?s ciprusi gyógyszergyártó vállalat, több gyárral, amely generikus gyógyszereket exportál világszerte.",
-      ro: "O companie farmaceutic�? cipriot�? major�? cu mai multe fabrici, care export�? medicamente generice la nivel global.",
+      de: "Ein großes zypriotisches Pharmaunternehmen mit mehreren Fabriken, das Generika weltweit exportiert.",
+      hu: "Jelentős ciprusi gyógyszergyártó vállalat, több gyárral, amely generikus gyógyszereket exportál világszerte.",
+      ro: "O companie farmaceutică cipriotă majoră cu mai multe fabrici, care exportă medicamente generice la nivel global.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3140,7 +3141,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3153,13 +3154,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Pafos Industrial Area",
       de: "Industriegebiet Paphos",
       hu: "Páfoszi Ipari Terület",
-      ro: "Zona Industrial�? Paphos",
+      ro: "Zona Industrială Paphos",
     },
     description: {
       en: "The main industrial zone for Paphos, hosting workshops, small factories, and commercial enterprises.",
       de: "Die wichtigste Industriezone von Paphos, die Werkstätten, kleine Fabriken und Handelsunternehmen beherbergt.",
-      hu: "Páfosz f�? ipari övezete, ahol műhelyek, kis gyárak és kereskedelmi vállalkozások találhatók.",
-      ro: "Principala zon�? industrial�? a Paphosului, care g�?zduie�?te ateliere, mici fabrici �?i întreprinderi comerciale.",
+      hu: "Páfosz fő ipari övezete, ahol műhelyek, kis gyárak és kereskedelmi vállalkozások találhatók.",
+      ro: "Principala zonă industrială a Paphosului, care găzduiește ateliere, mici fabrici și întreprinderi comerciale.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3170,7 +3171,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3182,14 +3183,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Moni Power Station",
       de: "Kraftwerk Moni",
-      hu: "Moni Er�?mű",
-      ro: "Centrala Electric�? Moni",
+      hu: "Moni Erőmű",
+      ro: "Centrala Electrică Moni",
     },
     description: {
       en: "An older power station, now often used as a reserve, located east of Limassol.",
       de: "Ein älteres Kraftwerk, das heute oft als Reserve genutzt wird und sich östlich von Limassol befindet.",
-      hu: "Régebbi er�?mű, ma már gyakran tartalékként használják, Limassoltól keletre található.",
-      ro: "O central�? electric�? mai veche, acum adesea folosit�? ca rezerv�?, situat�? la est de Limassol.",
+      hu: "Régebbi erőmű, ma már gyakran tartalékként használják, Limassoltól keletre található.",
+      ro: "O centrală electrică mai veche, acum adesea folosită ca rezervă, situată la est de Limassol.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3200,7 +3201,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3219,7 +3220,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "An important dam and reservoir for the water supply of the Larnaca, Famagusta and Nicosia districts.",
       de: "Ein wichtiger Damm und Stausee für die Wasserversorgung der Bezirke Larnaca, Famagusta und Nikosia.",
       hu: "Fontos gát és víztározó Lárnaka, Famagusta és Nicosia körzetek vízellátása szempontjából.",
-      ro: "Un baraj �?i un rezervor important pentru alimentarea cu ap�? a districtelor Larnaca, Famagusta �?i Nicosia.",
+      ro: "Un baraj și un rezervor important pentru alimentarea cu apă a districtelor Larnaca, Famagusta și Nicosia.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3230,7 +3231,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3243,13 +3244,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Dali Industrial Area",
       de: "Industriegebiet Dali",
       hu: "Dali Ipari Terület",
-      ro: "Zona Industrial�? Dali",
+      ro: "Zona Industrială Dali",
     },
     description: {
       en: "A large industrial area south-east of Nicosia with a mix of manufacturing, processing, and logistics companies.",
-      de: "Ein gro�?es Industriegebiet südöstlich von Nikosia mit einer Mischung aus Produktions-, Verarbeitungs- und Logistikunternehmen.",
+      de: "Ein großes Industriegebiet südöstlich von Nikosia mit einer Mischung aus Produktions-, Verarbeitungs- und Logistikunternehmen.",
       hu: "Nagy ipari terület Nicosiától délkeletre, gyártó, feldolgozó és logisztikai cégek keverékével.",
-      ro: "O zon�? industrial�? mare la sud-est de Nicosia, cu un amestec de companii de produc�?ie, procesare �?i logistic�?.",
+      ro: "O zonă industrială mare la sud-est de Nicosia, cu un amestec de companii de producție, procesare și logistică.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3260,7 +3261,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3273,13 +3274,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Athienou Industrial Area",
       de: "Industriegebiet Athienou",
       hu: "Athienou Ipari Terület",
-      ro: "Zona Industrial�? Athienou",
+      ro: "Zona Industrială Athienou",
     },
     description: {
       en: "Known for its traditional bakery products and livestock feed production, located in the buffer zone.",
       de: "Bekannt für seine traditionellen Backwaren und die Herstellung von Tierfutter, gelegen in der Pufferzone.",
-      hu: "Hagyományos pékáruiról és állati takarmánygyártásáról ismert, az ütköz�?zónában található.",
-      ro: "Cunoscut�? pentru produsele sale tradi�?ionale de panifica�?ie �?i produc�?ia de furaje pentru animale, situat�? în zona tampon.",
+      hu: "Hagyományos pékáruiról és állati takarmánygyártásáról ismert, az ütközőzónában található.",
+      ro: "Cunoscută pentru produsele sale tradiționale de panificație și producția de furaje pentru animale, situată în zona tampon.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3290,7 +3291,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3307,9 +3308,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A major distributor of pharmaceuticals and medical supplies, with large logistics centers.",
-      de: "Ein bedeutender Vertriebshändler von Arzneimitteln und medizinischem Bedarf mit gro�?en Logistikzentren.",
+      de: "Ein bedeutender Vertriebshändler von Arzneimitteln und medizinischem Bedarf mit großen Logistikzentren.",
       hu: "Gyógyszerek és orvosi felszerelések nagy forgalmazója, nagy logisztikai központokkal.",
-      ro: "Un distribuitor major de produse farmaceutice �?i consumabile medicale, cu centre logistice mari.",
+      ro: "Un distribuitor major de produse farmaceutice și consumabile medicale, cu centre logistice mari.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3320,7 +3321,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3332,14 +3333,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Helios Solar Power Plant",
       de: "Solarkraftwerk Helios",
-      hu: "Helios Naper�?mű",
-      ro: "Centrala Solar�? Helios",
+      hu: "Helios Naperőmű",
+      ro: "Centrala Solară Helios",
     },
     description: {
       en: "Represents the growing renewable energy sector in Cyprus, one of many large-scale solar parks.",
-      de: "Repräsentiert den wachsenden Sektor der erneuerbaren Energien auf Zypern, einer von vielen gro�?en Solarparks.",
-      hu: "A növekv�? megújulóenergia-ágazatot képviseli Cipruson, egy a sok nagyméretű szolárpark közül.",
-      ro: "Reprezint�? sectorul în cre�?tere al energiei regenerabile din Cipru, unul dintre numeroasele parcuri solare la scar�? larg�?.",
+      de: "Repräsentiert den wachsenden Sektor der erneuerbaren Energien auf Zypern, einer von vielen großen Solarparks.",
+      hu: "A növekvő megújulóenergia-ágazatot képviseli Cipruson, egy a sok nagyméretű szolárpark közül.",
+      ro: "Reprezintă sectorul în creștere al energiei regenerabile din Cipru, unul dintre numeroasele parcuri solare la scară largă.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3350,7 +3351,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3362,14 +3363,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Lafarge Vassiliko Quarries",
       de: "Steinbrüche Lafarge Vassiliko",
-      hu: "Lafarge Vassiliko K�?bányák",
+      hu: "Lafarge Vassiliko Kőbányák",
       ro: "Carierele Lafarge Vassiliko",
     },
     description: {
       en: "Large limestone quarries that supply the raw material for the Vassiliko cement plant.",
-      de: "Gro�?e Kalksteinbrüche, die den Rohstoff für das Zementwerk Vassiliko liefern.",
-      hu: "Nagy mészk�?bányák, amelyek a vassilikói cementgyár nyersanyagát szolgáltatják.",
-      ro: "Cariere mari de calcar care furnizeaz�? materia prim�? pentru fabrica de ciment Vassiliko.",
+      de: "Große Kalksteinbrüche, die den Rohstoff für das Zementwerk Vassiliko liefern.",
+      hu: "Nagy mészkőbányák, amelyek a vassilikói cementgyár nyersanyagát szolgáltatják.",
+      ro: "Cariere mari de calcar care furnizează materia primă pentru fabrica de ciment Vassiliko.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3380,7 +3381,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3392,14 +3393,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Pervolia Desalination Plant",
       de: "Entsalzungsanlage Pervolia",
-      hu: "Pervoliai Sótalanító �?zem",
-      ro: "Sta�?ia de Desalinizare din Pervolia",
+      hu: "Pervoliai Sótalanító Üzem",
+      ro: "Stația de Desalinizare din Pervolia",
     },
     description: {
       en: "A smaller desalination unit contributing to the water security of the Larnaca region.",
       de: "Eine kleinere Entsalzungseinheit, die zur Wassersicherheit der Region Larnaca beiträgt.",
       hu: "Kisebb sótalanító egység, amely hozzájárul a lárnakai régió vízellátásának biztonságához.",
-      ro: "O unitate de desalinizare mai mic�?, care contribuie la securitatea apei din regiunea Larnaca.",
+      ro: "O unitate de desalinizare mai mică, care contribuie la securitatea apei din regiunea Larnaca.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3410,7 +3411,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3428,8 +3429,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "An important terminal in Larnaca for the import and storage of Liquefied Petroleum Gas (LPG).",
       de: "Ein wichtiges Terminal in Larnaca für den Import und die Lagerung von Flüssiggas (LPG).",
-      hu: "Fontos terminál Lárnakában a cseppfolyósított k�?olajgáz (LPG) importjára és tárolására.",
-      ro: "Un terminal important în Larnaca pentru importul �?i stocarea gazului petrolier lichefiat (GPL).",
+      hu: "Fontos terminál Lárnakában a cseppfolyósított kőolajgáz (LPG) importjára és tárolására.",
+      ro: "Un terminal important în Larnaca pentru importul și stocarea gazului petrolier lichefiat (GPL).",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3440,7 +3441,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3453,13 +3454,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Asgata Industrial Area",
       de: "Industriegebiet Asgata",
       hu: "Asgatai Ipari Terület",
-      ro: "Zona Industrial�? Asgata",
+      ro: "Zona Industrială Asgata",
     },
     description: {
       en: "An area with a focus on mining and quarrying activities due to its geological composition.",
       de: "Ein Gebiet mit Schwerpunkt auf Bergbau- und Steinbruchtätigkeiten aufgrund seiner geologischen Zusammensetzung.",
-      hu: "Geológiai összetétele miatt a bányászati �??�??és k�?fejtési tevékenységekre összpontosító terület.",
-      ro: "O zon�? cu accent pe activit�?�?ile miniere �?i de carier�? datorit�? compozi�?iei sale geologice.",
+      hu: "Geológiai összetétele miatt a bányászati ​​és kőfejtési tevékenységekre összpontosító terület.",
+      ro: "O zonă cu accent pe activitățile miniere și de carieră datorită compoziției sale geologice.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3470,7 +3471,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3488,8 +3489,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "One of the main petroleum storage facilities in Cyprus, located near the Larnaca port area.",
       de: "Eine der wichtigsten Erdöllagerstätten auf Zypern in der Nähe des Hafengebiets von Larnaca.",
-      hu: "Ciprus egyik f�? k�?olajtároló létesítménye, Lárnaka kiköt�?jének közelében található.",
-      ro: "Una dintre principalele facilit�?�?i de stocare a petrolului din Cipru, situat�? lâng�? zona portuar�? din Larnaca.",
+      hu: "Ciprus egyik fő kőolajtároló létesítménye, Lárnaka kikötőjének közelében található.",
+      ro: "Una dintre principalele facilități de stocare a petrolului din Cipru, situată lângă zona portuară din Larnaca.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3500,7 +3501,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3513,13 +3514,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Aphrodite Hills Wastewater Treatment",
       de: "Kläranlage Aphrodite Hills",
       hu: "Aphrodite Hills Szennyvíztisztító",
-      ro: "Sta�?ia de Epurare a Apelor Uzate Aphrodite Hills",
+      ro: "Stația de Epurare a Apelor Uzate Aphrodite Hills",
     },
     description: {
       en: "A modern treatment plant that recycles water for the irrigation of the resort's golf course and gardens.",
       de: "Eine moderne Kläranlage, die Wasser für die Bewässerung des Golfplatzes und der Gärten des Resorts recycelt.",
-      hu: "Modern tisztítómű, amely újrahasznosítja a vizet az üdül�?hely golfpályájának és kertjeinek öntözéséhez.",
-      ro: "O sta�?ie de tratare modern�? care recicleaz�? apa pentru irigarea terenului de golf �?i a gr�?dinilor sta�?iunii.",
+      hu: "Modern tisztítómű, amely újrahasznosítja a vizet az üdülőhely golfpályájának és kertjeinek öntözéséhez.",
+      ro: "O stație de tratare modernă care reciclează apa pentru irigarea terenului de golf și a grădinilor stațiunii.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3530,7 +3531,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3548,8 +3549,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "Another significant contributor to Cyprus's renewable energy goals, located in the Larnaca district.",
       de: "Ein weiterer bedeutender Beitrag zu den Zielen Zyperns im Bereich der erneuerbaren Energien im Bezirk Larnaca.",
-      hu: "Ciprus megújulóenergia-céljainak másik jelent�?s hozzájárulója, a lárnakai kerületben található.",
-      ro: "Un alt contributor semnificativ la obiectivele Ciprului în materie de energie regenerabil�?, situat în districtul Larnaca.",
+      hu: "Ciprus megújulóenergia-céljainak másik jelentős hozzájárulója, a lárnakai kerületben található.",
+      ro: "Un alt contributor semnificativ la obiectivele Ciprului în materie de energie regenerabilă, situat în districtul Larnaca.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3560,7 +3561,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3573,13 +3574,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Kivides Poultry Production",
       de: "Geflügelproduktion Kivides",
       hu: "Kivides Baromfitenyésztés",
-      ro: "Produc�?ia de p�?s�?ri de curte Kivides",
+      ro: "Producția de păsări de curte Kivides",
     },
     description: {
       en: "Represents the large-scale poultry farming industry, a key part of the Cypriot agricultural economy.",
-      de: "Repräsentiert die gro�? angelegte Geflügelzuchtindustrie, ein wichtiger Teil der zypriotischen Agrarwirtschaft.",
-      hu: "A nagyméretű baromfitenyészt�? ipart képviseli, amely a ciprusi agrárgazdaság kulcsfontosságú része.",
-      ro: "Reprezint�? industria avicol�? la scar�? larg�?, o parte cheie a economiei agricole cipriote.",
+      de: "Repräsentiert die groß angelegte Geflügelzuchtindustrie, ein wichtiger Teil der zypriotischen Agrarwirtschaft.",
+      hu: "A nagyméretű baromfitenyésztő ipart képviseli, amely a ciprusi agrárgazdaság kulcsfontosságú része.",
+      ro: "Reprezintă industria avicolă la scară largă, o parte cheie a economiei agricole cipriote.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3590,7 +3591,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3608,14 +3609,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Limassol Port",
       de: "Hafen von Limassol",
-      hu: "Limassoli kiköt�?",
+      hu: "Limassoli kikötő",
       ro: "Portul Limassol",
     },
     description: {
       en: "The principal seaport of Cyprus, a key hub for cargo and cruise ships in the Eastern Mediterranean.",
       de: "Der Haupthafen Zyperns, ein wichtiger Knotenpunkt für Fracht- und Kreuzfahrtschiffe im östlichen Mittelmeer.",
-      hu: "Ciprus f�? tengeri kiköt�?je, a Kelet-Földközi-tenger teher- és tengerjáró hajóinak kulcsfontosságú csomópontja.",
-      ro: "Principalul port maritim al Ciprului, un hub cheie pentru navele de marf�? �?i de croazier�? din estul Mediteranei.",
+      hu: "Ciprus fő tengeri kikötője, a Kelet-Földközi-tenger teher- és tengerjáró hajóinak kulcsfontosságú csomópontja.",
+      ro: "Principalul port maritim al Ciprului, un hub cheie pentru navele de marfă și de croazieră din estul Mediteranei.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3626,7 +3627,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3638,14 +3639,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Larnaca Port",
       de: "Hafen von Larnaca",
-      hu: "Lárnakai kiköt�?",
+      hu: "Lárnakai kikötő",
       ro: "Portul Larnaca",
     },
     description: {
       en: "The second largest port in Cyprus, serving both commercial and passenger traffic.",
-      de: "Der zweitgrö�?te Hafen Zyperns, der sowohl dem Handels- als auch dem Passagierverkehr dient.",
-      hu: "Ciprus második legnagyobb kiköt�?je, amely mind a kereskedelmi, mind az utasforgalmat szolgálja.",
-      ro: "Al doilea cel mai mare port din Cipru, deservind atât traficul comercial, cât �?i cel de pasageri.",
+      de: "Der zweitgrößte Hafen Zyperns, der sowohl dem Handels- als auch dem Passagierverkehr dient.",
+      hu: "Ciprus második legnagyobb kikötője, amely mind a kereskedelmi, mind az utasforgalmat szolgálja.",
+      ro: "Al doilea cel mai mare port din Cipru, deservind atât traficul comercial, cât și cel de pasageri.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3656,7 +3657,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3668,14 +3669,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Paphos Harbour",
       de: "Hafen von Paphos",
-      hu: "Páfoszi kiköt�?",
+      hu: "Páfoszi kikötő",
       ro: "Portul Paphos",
     },
     description: {
       en: "A picturesque harbour, mainly used by fishing boats and for leisure cruises, overlooked by Paphos Castle.",
       de: "Ein malerischer Hafen, der hauptsächlich von Fischerbooten und für Freizeitkreuzfahrten genutzt wird, überragt von der Burg von Paphos.",
-      hu: "Fest�?i kiköt�?, amelyet f�?ként halászhajók és szabadid�?s hajókirándulások használnak, a Páfoszi várral a háttérben.",
-      ro: "Un port pitoresc, folosit în principal de b�?rci de pescuit �?i pentru croaziere de agrement, dominat de Castelul Paphos.",
+      hu: "Festői kikötő, amelyet főként halászhajók és szabadidős hajókirándulások használnak, a Páfoszi várral a háttérben.",
+      ro: "Un port pitoresc, folosit în principal de bărci de pescuit și pentru croaziere de agrement, dominat de Castelul Paphos.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3686,7 +3687,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3704,8 +3705,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "An exclusive superyacht marina with luxury residences, restaurants, and shops.",
       de: "Ein exklusiver Superyachthafen mit Luxusresidenzen, Restaurants und Geschäften.",
-      hu: "Exkluzív szuperjacht kiköt�? luxuslakásokkal, éttermekkel és üzletekkel.",
-      ro: "O marin�? exclusivist�? pentru superyachturi, cu re�?edin�?e de lux, restaurante �?i magazine.",
+      hu: "Exkluzív szuperjacht kikötő luxuslakásokkal, éttermekkel és üzletekkel.",
+      ro: "O marină exclusivistă pentru superyachturi, cu reședințe de lux, restaurante și magazine.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3716,7 +3717,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3733,9 +3734,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A large marina for private yachts, located next to the main Larnaca port.",
-      de: "Ein gro�?er Yachthafen für private Yachten, der sich neben dem Haupthafen von Larnaca befindet.",
-      hu: "Nagy kiköt�? magánjachtok számára, a lárnakai f�? kiköt�? mellett.",
-      ro: "O marin�? mare pentru iahturi private, situat�? lâng�? portul principal din Larnaca.",
+      de: "Ein großer Yachthafen für private Yachten, der sich neben dem Haupthafen von Larnaca befindet.",
+      hu: "Nagy kikötő magánjachtok számára, a lárnakai fő kikötő mellett.",
+      ro: "O marină mare pentru iahturi private, situată lângă portul principal din Larnaca.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3746,7 +3747,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3758,14 +3759,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Latsi Port",
       de: "Hafen von Latsi",
-      hu: "Latsi kiköt�?",
+      hu: "Latsi kikötő",
       ro: "Portul Latsi",
     },
     description: {
       en: "A charming fishing port and marina, the starting point for boat trips to the Akamas Peninsula and Blue Lagoon.",
       de: "Ein charmanter Fischerei- und Yachthafen, Ausgangspunkt für Bootsfahrten zur Akamas-Halbinsel und zur Blauen Lagune.",
-      hu: "Bájos halászkiköt�? és marina, az Akamas-félszigetre és a Kék Lagúnába induló hajókirándulások kiindulópontja.",
-      ro: "Un port de pescuit �?i o marin�? fermec�?toare, punctul de plecare pentru excursii cu barca c�?tre Peninsula Akamas �?i Laguna Albastr�?.",
+      hu: "Bájos halászkikötő és marina, az Akamas-félszigetre és a Kék Lagúnába induló hajókirándulások kiindulópontja.",
+      ro: "Un port de pescuit și o marină fermecătoare, punctul de plecare pentru excursii cu barca către Peninsula Akamas și Laguna Albastră.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3776,7 +3777,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3788,14 +3789,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Zygi Fishing Shelter & Marina",
       de: "Fischereihafen & Marina Zygi",
-      hu: "Zygi Halászkiköt�? és Marina",
-      ro: "Ad�?postul Pescarilor �?i Marina din Zygi",
+      hu: "Zygi Halászkikötő és Marina",
+      ro: "Adăpostul Pescarilor și Marina din Zygi",
     },
     description: {
       en: "A modern fishing shelter and marina, famous for its fresh fish tavernas.",
       de: "Ein moderner Fischereihafen und eine Marina, berühmt für seine frischen Fischtavernen.",
-      hu: "Modern halászkiköt�? és marina, amely a friss halakat kínáló tavernáiról híres.",
-      ro: "Un ad�?post pesc�?resc modern �?i o marin�?, renumit�? pentru tavernele sale cu pe�?te proasp�?t.",
+      hu: "Modern halászkikötő és marina, amely a friss halakat kínáló tavernáiról híres.",
+      ro: "Un adăpost pescăresc modern și o marină, renumită pentru tavernele sale cu pește proaspăt.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3806,7 +3807,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3818,14 +3819,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Ayia Napa Harbour",
       de: "Hafen von Ayia Napa",
-      hu: "Ayia Napa kiköt�?je",
+      hu: "Ayia Napa kikötője",
       ro: "Portul Ayia Napa",
     },
     description: {
       en: "A bustling harbour full of fishing boats, pirate-themed cruise ships, and waterfront restaurants.",
       de: "Ein belebter Hafen voller Fischerboote, Piraten-Themen-Kreuzfahrtschiffe und Restaurants am Wasser.",
-      hu: "Nyüzsg�? kiköt�? tele halászhajókkal, kalóz-témájú sétahajókkal és vízparti éttermekkel.",
-      ro: "Un port plin de via�?�?, plin de b�?rci de pescuit, nave de croazier�? cu tematic�? pira�?ilor �?i restaurante pe malul apei.",
+      hu: "Nyüzsgő kikötő tele halászhajókkal, kalóz-témájú sétahajókkal és vízparti éttermekkel.",
+      ro: "Un port plin de viață, plin de bărci de pescuit, nave de croazieră cu tematică piraților și restaurante pe malul apei.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3836,7 +3837,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3848,14 +3849,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Larnaca International Airport (LCA)",
       de: "Internationaler Flughafen Larnaca (LCA)",
-      hu: "Lárnakai nemzetközi repül�?tér (LCA)",
-      ro: "Aeroportul Interna�?ional Larnaca (LCA)",
+      hu: "Lárnakai nemzetközi repülőtér (LCA)",
+      ro: "Aeroportul Internațional Larnaca (LCA)",
     },
     description: {
       en: "Cyprus's main international gateway, located on the outskirts of Larnaca.",
       de: "Das wichtigste internationale Tor Zyperns am Rande von Larnaca.",
-      hu: "Ciprus f�? nemzetközi kapuja, Lárnaka külvárosában található.",
-      ro: "Principala poart�? interna�?ional�? a Ciprului, situat�? la periferia ora�?ului Larnaca.",
+      hu: "Ciprus fő nemzetközi kapuja, Lárnaka külvárosában található.",
+      ro: "Principala poartă internațională a Ciprului, situată la periferia orașului Larnaca.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3866,7 +3867,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3878,14 +3879,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Paphos International Airport (PFO)",
       de: "Internationaler Flughafen Paphos (PFO)",
-      hu: "Páfoszi nemzetközi repül�?tér (PFO)",
-      ro: "Aeroportul Interna�?ional Paphos (PFO)",
+      hu: "Páfoszi nemzetközi repülőtér (PFO)",
+      ro: "Aeroportul Internațional Paphos (PFO)",
     },
     description: {
       en: "The country's second-largest airport, serving tourists for Paphos and Limassol.",
-      de: "Der zweitgrö�?te Flughafen des Landes, der Touristen für Paphos und Limassol bedient.",
-      hu: "Az ország második legnagyobb repül�?tere, amely Páfosz és Limassol turistáit szolgálja ki.",
-      ro: "Al doilea cel mai mare aeroport al �?�?rii, deservind turi�?tii pentru Paphos �?i Limassol.",
+      de: "Der zweitgrößte Flughafen des Landes, der Touristen für Paphos und Limassol bedient.",
+      hu: "Az ország második legnagyobb repülőtere, amely Páfosz és Limassol turistáit szolgálja ki.",
+      ro: "Al doilea cel mai mare aeroport al țării, deservind turiștii pentru Paphos și Limassol.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3896,7 +3897,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3908,14 +3909,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Ercan International Airport (ECN)",
       de: "Internationaler Flughafen Ercan (ECN)",
-      hu: "Ercan nemzetközi repül�?tér (ECN)",
-      ro: "Aeroportul Interna�?ional Ercan (ECN)",
+      hu: "Ercan nemzetközi repülőtér (ECN)",
+      ro: "Aeroportul Internațional Ercan (ECN)",
     },
     description: {
       en: "The primary civilian airport of Northern Cyprus, located near Nicosia.",
       de: "Der wichtigste zivile Flughafen Nordzyperns in der Nähe von Nikosia.",
-      hu: "�?szak-Ciprus els�?dleges polgári repül�?tere, Nicosia közelében.",
-      ro: "Principalul aeroport civil din Ciprul de Nord, situat lâng�? Nicosia.",
+      hu: "Észak-Ciprus elsődleges polgári repülőtere, Nicosia közelében.",
+      ro: "Principalul aeroport civil din Ciprul de Nord, situat lângă Nicosia.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3926,7 +3927,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3938,14 +3939,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Pomos Fishing Shelter",
       de: "Fischereihafen Pomos",
-      hu: "Pomos Halászkiköt�?",
-      ro: "Ad�?postul Pescarilor din Pomos",
+      hu: "Pomos Halászkikötő",
+      ro: "Adăpostul Pescarilor din Pomos",
     },
     description: {
       en: "A small, scenic fishing harbour in a remote and beautiful part of the Paphos district.",
       de: "Ein kleiner, malerischer Fischereihafen in einem abgelegenen und schönen Teil des Bezirks Paphos.",
-      hu: "Kicsi, fest�?i halászkiköt�? Páfosz kerület egy távoli és gyönyörű részén.",
-      ro: "Un mic port pesc�?resc pitoresc într-o parte îndep�?rtat�? �?i frumoas�? a districtului Paphos.",
+      hu: "Kicsi, festői halászkikötő Páfosz kerület egy távoli és gyönyörű részén.",
+      ro: "Un mic port pescăresc pitoresc într-o parte îndepărtată și frumoasă a districtului Paphos.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3956,7 +3957,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3968,14 +3969,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Kyrenia Harbour",
       de: "Hafen von Kyrenia",
-      hu: "Kerínia kiköt�?je",
+      hu: "Kerínia kikötője",
       ro: "Portul Kyrenia",
     },
     description: {
       en: "A beautiful horseshoe-shaped harbour in Northern Cyprus, dominated by Kyrenia Castle.",
       de: "Ein wunderschöner hufeisenförmiger Hafen in Nordzypern, der von der Burg Kyrenia dominiert wird.",
-      hu: "Gyönyörű, patkó alakú kiköt�? �?szak-Cipruson, a keríniai várral a háttérben.",
-      ro: "Un port frumos în form�? de potcoav�? în Ciprul de Nord, dominat de Castelul Kyrenia.",
+      hu: "Gyönyörű, patkó alakú kikötő Észak-Cipruson, a keríniai várral a háttérben.",
+      ro: "Un port frumos în formă de potcoavă în Ciprul de Nord, dominat de Castelul Kyrenia.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -3986,7 +3987,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -3998,13 +3999,13 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Famagusta Port",
       de: "Hafen von Famagusta",
-      hu: "Famagustai kiköt�?",
+      hu: "Famagustai kikötő",
       ro: "Portul Famagusta",
     },
     description: {
       en: "The main seaport for Northern Cyprus, historically one of the most important ports in the Levant.",
       de: "Der Haupthafen Nordzyperns, historisch einer der wichtigsten Häfen der Levante.",
-      hu: "�?szak-Ciprus f�? tengeri kiköt�?je, történelmileg a Levante egyik legfontosabb kiköt�?je.",
+      hu: "Észak-Ciprus fő tengeri kikötője, történelmileg a Levante egyik legfontosabb kikötője.",
       ro: "Principalul port maritim al Ciprului de Nord, istoric unul dintre cele mai importante porturi din Levant.",
     },
     descriptionAdvanced: {
@@ -4016,7 +4017,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4028,14 +4029,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Agia Triada Fishing Shelter",
       de: "Fischereihafen Agia Triada",
-      hu: "Agia Triada Halászkiköt�?",
-      ro: "Ad�?postul Pescarilor din Agia Triada",
+      hu: "Agia Triada Halászkikötő",
+      ro: "Adăpostul Pescarilor din Agia Triada",
     },
     description: {
       en: "A small fishing shelter near Protaras with a charming chapel overlooking the sea.",
       de: "Ein kleiner Fischereihafen in der Nähe von Protaras mit einer charmanten Kapelle mit Blick auf das Meer.",
-      hu: "Kis halászkiköt�? Protaras közelében, egy bájos, tengerre néz�? kápolnával.",
-      ro: "Un mic ad�?post pesc�?resc lâng�? Protaras, cu o capel�? fermec�?toare cu vedere la mare.",
+      hu: "Kis halászkikötő Protaras közelében, egy bájos, tengerre néző kápolnával.",
+      ro: "Un mic adăpost pescăresc lângă Protaras, cu o capelă fermecătoare cu vedere la mare.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4046,7 +4047,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4058,14 +4059,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Pernera Harbour",
       de: "Hafen von Pernera",
-      hu: "Pernera kiköt�?je",
+      hu: "Pernera kikötője",
       ro: "Portul Pernera",
     },
     description: {
       en: "A small harbour in the resort of Pernera, used by local fishermen and for tourist boat trips.",
       de: "Ein kleiner Hafen im Ferienort Pernera, der von einheimischen Fischern und für touristische Bootsfahrten genutzt wird.",
-      hu: "Kis kiköt�? Pernera üdül�?helyen, amelyet a helyi halászok és a turista hajókirándulások használnak.",
-      ro: "Un mic port în sta�?iunea Pernera, folosit de pescarii locali �?i pentru excursii cu barca pentru turi�?ti.",
+      hu: "Kis kikötő Pernera üdülőhelyen, amelyet a helyi halászok és a turista hajókirándulások használnak.",
+      ro: "Un mic port în stațiunea Pernera, folosit de pescarii locali și pentru excursii cu barca pentru turiști.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4076,7 +4077,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4094,8 +4095,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A private marina part of a luxury hotel, offering services for yachts and a Blue Flag beach.",
       de: "Ein privater Yachthafen, der Teil eines Luxushotels ist und Dienstleistungen für Yachten und einen mit der Blauen Flagge ausgezeichneten Strand bietet.",
-      hu: "Egy luxusszálloda részét képez�? magánkiköt�?, amely jachtoknak és egy kék zászlós strandnak kínál szolgáltatásokat.",
-      ro: "O marin�? privat�?, parte a unui hotel de lux, care ofer�? servicii pentru iahturi �?i o plaj�? cu Steag Albastru.",
+      hu: "Egy luxusszálloda részét képező magánkikötő, amely jachtoknak és egy kék zászlós strandnak kínál szolgáltatásokat.",
+      ro: "O marină privată, parte a unui hotel de lux, care oferă servicii pentru iahturi și o plajă cu Steag Albastru.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4106,7 +4107,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4118,14 +4119,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Liopetri River Fishing Shelter",
       de: "Fischereihafen am Fluss Liopetri",
-      hu: "Liopetri folyami halászkiköt�?",
-      ro: "Ad�?postul Pescarilor de pe Râul Liopetri",
+      hu: "Liopetri folyami halászkikötő",
+      ro: "Adăpostul Pescarilor de pe Râul Liopetri",
     },
     description: {
       en: "A uniquely beautiful natural 'fjord' where the Potamos Liopetriou river meets the sea, lined with fishing boats.",
-      de: "Ein einzigartig schöner natürlicher �??Fjord�??, wo der Fluss Potamos Liopetriou ins Meer mündet, gesäumt von Fischerbooten.",
-      hu: "Egyedülállóan szép természeti �??fjord�?�, ahol a Potamos Liopetriou folyó találkozik a tengerrel, halászhajókkal szegélyezve.",
-      ro: "Un �??fiord�?� natural de o frumuse�?e unic�?, unde râul Potamos Liopetriou se întâlne�?te cu marea, m�?rginit de b�?rci de pescuit.",
+      de: "Ein einzigartig schöner natürlicher „Fjord“, wo der Fluss Potamos Liopetriou ins Meer mündet, gesäumt von Fischerbooten.",
+      hu: "Egyedülállóan szép természeti „fjord”, ahol a Potamos Liopetriou folyó találkozik a tengerrel, halászhajókkal szegélyezve.",
+      ro: "Un „fiord” natural de o frumusețe unică, unde râul Potamos Liopetriou se întâlnește cu marea, mărginit de bărci de pescuit.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4136,7 +4137,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4149,13 +4150,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Solomou Square Central Bus Station",
       de: "Zentraler Busbahnhof am Solomou-Platz",
       hu: "Solomou téri központi buszpályaudvar",
-      ro: "Autogara Central�? din Pia�?a Solomou",
+      ro: "Autogara Centrală din Piața Solomou",
     },
     description: {
       en: "The main hub for intercity and urban bus services in Nicosia, a key public transport node.",
-      de: "Der Hauptknotenpunkt für den �?berland- und Stadtbusverkehr in Nikosia, ein wichtiger Knotenpunkt des öffentlichen Verkehrs.",
-      hu: "A nicosiai helyközi és városi buszjáratok f�? csomópontja, kulcsfontosságú tömegközlekedési csomópont.",
-      ro: "Principalul nod pentru serviciile de autobuz interurbane �?i urbane din Nicosia, un nod cheie al transportului public.",
+      de: "Der Hauptknotenpunkt für den Überland- und Stadtbusverkehr in Nikosia, ein wichtiger Knotenpunkt des öffentlichen Verkehrs.",
+      hu: "A nicosiai helyközi és városi buszjáratok fő csomópontja, kulcsfontosságú tömegközlekedési csomópont.",
+      ro: "Principalul nod pentru serviciile de autobuz interurbane și urbane din Nicosia, un nod cheie al transportului public.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4166,7 +4167,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4178,14 +4179,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "EMEL Central Bus Station (Old Port)",
       de: "Zentraler Busbahnhof EMEL (Alter Hafen)",
-      hu: "EMEL központi buszpályaudvar (Régi kiköt�?)",
-      ro: "Autogara Central�? EMEL (Portul Vechi)",
+      hu: "EMEL központi buszpályaudvar (Régi kikötő)",
+      ro: "Autogara Centrală EMEL (Portul Vechi)",
     },
     description: {
       en: "The main station for Limassol's public transport network, located near the Old Port and Marina.",
       de: "Der Hauptbahnhof des öffentlichen Verkehrsnetzes von Limassol, in der Nähe des Alten Hafens und der Marina.",
-      hu: "Limassol tömegközlekedési hálózatának f�? állomása, a régi kiköt�? és a marina közelében található.",
-      ro: "Sta�?ia principal�? a re�?elei de transport public din Limassol, situat�? lâng�? Portul Vechi �?i Marin�?.",
+      hu: "Limassol tömegközlekedési hálózatának fő állomása, a régi kikötő és a marina közelében található.",
+      ro: "Stația principală a rețelei de transport public din Limassol, situată lângă Portul Vechi și Marină.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4196,7 +4197,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4214,8 +4215,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "The main bus station in the upper part of Paphos town, connecting rural and intercity routes.",
       de: "Der Hauptbusbahnhof im oberen Teil der Stadt Paphos, der ländliche und überregionale Routen verbindet.",
-      hu: "Páfosz fels�?városának f�? buszpályaudvara, amely a vidéki és a helyközi útvonalakat köti össze.",
-      ro: "Principala autogar�? din partea superioar�? a ora�?ului Paphos, care face leg�?tura între rutele rurale �?i interurbane.",
+      hu: "Páfosz felsővárosának fő buszpályaudvara, amely a vidéki és a helyközi útvonalakat köti össze.",
+      ro: "Principala autogară din partea superioară a orașului Paphos, care face legătura între rutele rurale și interurbane.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4226,7 +4227,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4239,13 +4240,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Larnaca Central Bus Station",
       de: "Zentraler Busbahnhof Larnaca",
       hu: "Lárnakai központi buszpályaudvar",
-      ro: "Autogara Central�? din Larnaca",
+      ro: "Autogara Centrală din Larnaca",
     },
     description: {
       en: "The main hub for local and intercity buses in Larnaca, located on the Finikoudes promenade.",
       de: "Der Hauptknotenpunkt für lokale und überregionale Busse in Larnaca, an der Finikoudes-Promenade gelegen.",
-      hu: "A helyi és helyközi buszok f�? csomópontja Lárnakában, a Finikoudes sétányon található.",
-      ro: "Principalul nod pentru autobuzele locale �?i interurbane din Larnaca, situat pe promenada Finikoudes.",
+      hu: "A helyi és helyközi buszok fő csomópontja Lárnakában, a Finikoudes sétányon található.",
+      ro: "Principalul nod pentru autobuzele locale și interurbane din Larnaca, situat pe promenada Finikoudes.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4256,7 +4257,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4269,13 +4270,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Ayia Napa Central Bus Station",
       de: "Zentraler Busbahnhof Ayia Napa",
       hu: "Ayia Napa központi buszpályaudvar",
-      ro: "Autogara Central�? din Ayia Napa",
+      ro: "Autogara Centrală din Ayia Napa",
     },
     description: {
       en: "A key bus station for tourists, connecting Ayia Napa with other resorts and cities.",
       de: "Ein wichtiger Busbahnhof für Touristen, der Ayia Napa mit anderen Ferienorten und Städten verbindet.",
-      hu: "Kulcsfontosságú buszpályaudvar a turisták számára, amely összeköti Ayia Napát más üdül�?helyekkel és városokkal.",
-      ro: "O autogar�? cheie pentru turi�?ti, care leag�? Ayia Napa de alte sta�?iuni �?i ora�?e.",
+      hu: "Kulcsfontosságú buszpályaudvar a turisták számára, amely összeköti Ayia Napát más üdülőhelyekkel és városokkal.",
+      ro: "O autogară cheie pentru turiști, care leagă Ayia Napa de alte stațiuni și orașe.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4286,7 +4287,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4298,14 +4299,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Ormidhia Fishing Shelter",
       de: "Fischereihafen Ormidhia",
-      hu: "Ormidhia Halászkiköt�?",
-      ro: "Ad�?postul Pescarilor din Ormidhia",
+      hu: "Ormidhia Halászkikötő",
+      ro: "Adăpostul Pescarilor din Ormidhia",
     },
     description: {
       en: "A small local fishing port located within the Dhekelia Sovereign Base Area.",
       de: "Ein kleiner lokaler Fischereihafen in der souveränen Basiszone Dhekelia.",
-      hu: "Kis helyi halászkiköt�? a Dhekelia Szuverén Bázisterületen.",
-      ro: "Un mic port pesc�?resc local situat în Zona de Baz�? Suveran�? Dhekelia.",
+      hu: "Kis helyi halászkikötő a Dhekelia Szuverén Bázisterületen.",
+      ro: "Un mic port pescăresc local situat în Zona de Bază Suverană Dhekelia.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4316,7 +4317,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4328,14 +4329,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Agios Georgios Pegeias Harbour",
       de: "Hafen von Agios Georgios Pegeias",
-      hu: "Agios Georgios Pegeias kiköt�?je",
+      hu: "Agios Georgios Pegeias kikötője",
       ro: "Portul Agios Georgios Pegeias",
     },
     description: {
       en: "A small and very scenic fishing harbour with a few fish tavernas and an ancient basilica nearby.",
       de: "Ein kleiner und sehr malerischer Fischereihafen mit einigen Fischtavernen und einer antiken Basilika in der Nähe.",
-      hu: "Kicsi és nagyon fest�?i halászkiköt�? néhány haltavernával és egy �?si bazilikával a közelben.",
-      ro: "Un port pesc�?resc mic �?i foarte pitoresc, cu câteva taverne de pe�?te �?i o bazilic�? antic�? în apropiere.",
+      hu: "Kicsi és nagyon festői halászkikötő néhány haltavernával és egy ősi bazilikával a közelben.",
+      ro: "Un port pescăresc mic și foarte pitoresc, cu câteva taverne de pește și o bazilică antică în apropiere.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4346,7 +4347,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4364,8 +4365,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A modern marina development designed to accommodate yachts and offer residential and commercial facilities.",
       de: "Eine moderne Marina-Entwicklung, die für die Unterbringung von Yachten konzipiert ist und Wohn- und Gewerbeeinrichtungen bietet.",
-      hu: "Modern kiköt�?fejlesztés, amelyet jachtok befogadására, valamint lakó- és kereskedelmi létesítmények kínálására terveztek.",
-      ro: "O dezvoltare modern�? de marin�?, conceput�? pentru a g�?zdui iahturi �?i a oferi facilit�?�?i reziden�?iale �?i comerciale.",
+      hu: "Modern kikötőfejlesztés, amelyet jachtok befogadására, valamint lakó- és kereskedelmi létesítmények kínálására terveztek.",
+      ro: "O dezvoltare modernă de marină, concepută pentru a găzdui iahturi și a oferi facilități rezidențiale și comerciale.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4376,7 +4377,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4388,14 +4389,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Nicosia International Airport (Abandoned)",
       de: "Internationaler Flughafen Nikosia (verlassen)",
-      hu: "Nicosiai nemzetközi repül�?tér (elhagyatott)",
-      ro: "Aeroportul Interna�?ional Nicosia (abandonat)",
+      hu: "Nicosiai nemzetközi repülőtér (elhagyatott)",
+      ro: "Aeroportul Internațional Nicosia (abandonat)",
     },
     description: {
       en: "The former main airport of Cyprus, now defunct and located within the UN Buffer Zone.",
       de: "Der ehemalige Hauptflughafen Zyperns, heute stillgelegt und in der UN-Pufferzone gelegen.",
-      hu: "Ciprus egykori f�? repül�?tere, ma már nem működik, és az ENSZ ütköz�?zónájában található.",
-      ro: "Fostul aeroport principal al Ciprului, acum defunct �?i situat în Zona Tampon a ONU.",
+      hu: "Ciprus egykori fő repülőtere, ma már nem működik, és az ENSZ ütközőzónájában található.",
+      ro: "Fostul aeroport principal al Ciprului, acum defunct și situat în Zona Tampon a ONU.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4406,7 +4407,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4424,8 +4425,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "The main multipurpose and cruise terminal operator at Limassol Port.",
       de: "Der wichtigste Mehrzweck- und Kreuzfahrtterminalbetreiber im Hafen von Limassol.",
-      hu: "A limassoli kiköt�? f�? többcélú és tengerjáró terminál üzemeltet�?je.",
-      ro: "Principalul operator de terminale polivalente �?i de croazier�? din portul Limassol.",
+      hu: "A limassoli kikötő fő többcélú és tengerjáró terminál üzemeltetője.",
+      ro: "Principalul operator de terminale polivalente și de croazieră din portul Limassol.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4436,7 +4437,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4453,9 +4454,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "The primary container terminal at Limassol Port, handling the majority of Cyprus's container traffic.",
-      de: "Der primäre Containerterminal im Hafen von Limassol, der den Gro�?teil des Containerverkehrs Zyperns abwickelt.",
-      hu: "A limassoli kiköt�? els�?dleges konténerterminálja, amely Ciprus konténerforgalmának nagy részét kezeli.",
-      ro: "Principalul terminal de containere din portul Limassol, care gestioneaz�? majoritatea traficului de containere din Cipru.",
+      de: "Der primäre Containerterminal im Hafen von Limassol, der den Großteil des Containerverkehrs Zyperns abwickelt.",
+      hu: "A limassoli kikötő elsődleges konténerterminálja, amely Ciprus konténerforgalmának nagy részét kezeli.",
+      ro: "Principalul terminal de containere din portul Limassol, care gestionează majoritatea traficului de containere din Cipru.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4466,7 +4467,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4478,14 +4479,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Old Limassol Port",
       de: "Alter Hafen von Limassol",
-      hu: "Régi Limassoli kiköt�?",
+      hu: "Régi Limassoli kikötő",
       ro: "Portul Vechi din Limassol",
     },
     description: {
       en: "Now a vibrant leisure destination with restaurants, cafes, and shops, it serves as a fishing boat shelter.",
       de: "Heute ein lebhaftes Freizeitziel mit Restaurants, Cafés und Geschäften, dient es als Schutzhafen für Fischerboote.",
-      hu: "Ma egy nyüzsg�? szabadid�?s célpont éttermekkel, kávézókkal és üzletekkel, amely halászhajók menedékéül szolgál.",
-      ro: "Acum o destina�?ie vibrant�? de agrement cu restaurante, cafenele �?i magazine, serve�?te ca ad�?post pentru b�?rcile de pescuit.",
+      hu: "Ma egy nyüzsgő szabadidős célpont éttermekkel, kávézókkal és üzletekkel, amely halászhajók menedékéül szolgál.",
+      ro: "Acum o destinație vibrantă de agrement cu restaurante, cafenele și magazine, servește ca adăpost pentru bărcile de pescuit.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4496,7 +4497,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4515,13 +4516,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Troodos Mountains",
       de: "Troodos-Gebirge",
       hu: "Troodos-hegység",
-      ro: "Mun�?ii Troodos",
+      ro: "Munții Troodos",
     },
     description: {
       en: "The largest mountain range in Cyprus, home to Mount Olympus, Byzantine monasteries, and picturesque villages.",
-      de: "Die grö�?te Gebirgskette Zyperns, Heimat des Olymps, byzantinischer Klöster und malerischer Dörfer.",
-      hu: "Ciprus legnagyobb hegysége, amely otthont ad az Olümposz-hegynek, bizánci kolostoroknak és fest�?i falvaknak.",
-      ro: "Cel mai mare lan�? muntos din Cipru, care g�?zduie�?te Muntele Olimp, m�?n�?stiri bizantine �?i sate pitore�?ti.",
+      de: "Die größte Gebirgskette Zyperns, Heimat des Olymps, byzantinischer Klöster und malerischer Dörfer.",
+      hu: "Ciprus legnagyobb hegysége, amely otthont ad az Olümposz-hegynek, bizánci kolostoroknak és festői falvaknak.",
+      ro: "Cel mai mare lanț muntos din Cipru, care găzduiește Muntele Olimp, mănăstiri bizantine și sate pitorești.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4532,7 +4533,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4550,8 +4551,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A beautiful, secluded valley in the Paphos Forest, famous for its thousands of endemic Cyprus Cedars.",
       de: "Ein wunderschönes, abgelegenes Tal im Paphos-Wald, berühmt für seine Tausenden von endemischen Zypern-Zedern.",
-      hu: "Gyönyörű, eldugott völgy a Páfoszi erd�?ben, amely több ezer �?shonos ciprusi cédrusáról híres.",
-      ro: "O vale frumoas�? �?i retras�? în P�?durea Paphos, faimoas�? pentru miile sale de cedri endemici din Cipru.",
+      hu: "Gyönyörű, eldugott völgy a Páfoszi erdőben, amely több ezer őshonos ciprusi cédrusáról híres.",
+      ro: "O vale frumoasă și retrasă în Pădurea Paphos, faimoasă pentru miile sale de cedri endemici din Cipru.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4562,7 +4563,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4579,9 +4580,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "The largest dam in Cyprus, creating a vast reservoir that is a vital water source and a habitat for birds.",
-      de: "Der grö�?te Damm Zyperns, der einen riesigen Stausee bildet, der eine lebenswichtige Wasserquelle und ein Lebensraum für Vögel ist.",
-      hu: "Ciprus legnagyobb gátja, amely hatalmas víztározót hoz létre, amely létfontosságú vízforrás és madárél�?hely.",
-      ro: "Cel mai mare baraj din Cipru, creând un vast rezervor care este o surs�? vital�? de ap�? �?i un habitat pentru p�?s�?ri.",
+      de: "Der größte Damm Zyperns, der einen riesigen Stausee bildet, der eine lebenswichtige Wasserquelle und ein Lebensraum für Vögel ist.",
+      hu: "Ciprus legnagyobb gátja, amely hatalmas víztározót hoz létre, amely létfontosságú vízforrás és madárélőhely.",
+      ro: "Cel mai mare baraj din Cipru, creând un vast rezervor care este o sursă vitală de apă și un habitat pentru păsări.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4592,7 +4593,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4611,7 +4612,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "One of the highest waterfalls in Cyprus, located near Platres in the Troodos Mountains.",
       de: "Einer der höchsten Wasserfälle Zyperns, in der Nähe von Platres im Troodos-Gebirge.",
       hu: "Ciprus egyik legmagasabb vízesése, Platres közelében, a Troodos-hegységben.",
-      ro: "Una dintre cele mai înalte cascade din Cipru, situat�? lâng�? Platres în Mun�?ii Troodos.",
+      ro: "Una dintre cele mai înalte cascade din Cipru, situată lângă Platres în Munții Troodos.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4622,7 +4623,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4640,8 +4641,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A popular and beautiful waterfall accessible via a scenic nature trail above Platres.",
       de: "Ein beliebter und schöner Wasserfall, der über einen malerischen Naturlehrpfad oberhalb von Platres erreichbar ist.",
-      hu: "Népszerű és gyönyörű vízesés, amely egy fest�?i tanösvényen keresztül érhet�? el Platres felett.",
-      ro: "O cascad�? popular�? �?i frumoas�?, accesibil�? printr-o potec�? pitoreasc�? deasupra Platres.",
+      hu: "Népszerű és gyönyörű vízesés, amely egy festői tanösvényen keresztül érhető el Platres felett.",
+      ro: "O cascadă populară și frumoasă, accesibilă printr-o potecă pitorească deasupra Platres.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4652,7 +4653,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4669,9 +4670,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "The longest river in Cyprus, flowing from the Troodos Mountains through Nicosia.",
-      de: "Der längste Fluss Zyperns, der vom Troodos-Gebirge durch Nikosia flie�?t.",
-      hu: "Ciprus leghosszabb folyója, amely a Troodos-hegységb�?l folyik keresztül Nicosián.",
-      ro: "Cel mai lung râu din Cipru, care curge din Mun�?ii Troodos prin Nicosia.",
+      de: "Der längste Fluss Zyperns, der vom Troodos-Gebirge durch Nikosia fließt.",
+      hu: "Ciprus leghosszabb folyója, amely a Troodos-hegységből folyik keresztül Nicosián.",
+      ro: "Cel mai lung râu din Cipru, care curge din Munții Troodos prin Nicosia.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4682,7 +4683,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4701,7 +4702,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "A dam just north of Limassol, popular for walking, cycling, and fishing.",
       de: "Ein Damm nördlich von Limassol, beliebt zum Wandern, Radfahren und Angeln.",
       hu: "Gát Limassoltól északra, népszerű séta, kerékpározás és horgászat céljából.",
-      ro: "Un baraj la nord de Limassol, popular pentru plimb�?ri, ciclism �?i pescuit.",
+      ro: "Un baraj la nord de Limassol, popular pentru plimbări, ciclism și pescuit.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4712,7 +4713,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4725,13 +4726,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Sea Caves (Ayia Napa)",
       de: "Meereshöhlen (Ayia Napa)",
       hu: "Tengeri barlangok (Ayia Napa)",
-      ro: "Pe�?terile Marine (Ayia Napa)",
+      ro: "Peșterile Marine (Ayia Napa)",
     },
     description: {
       en: "Impressive natural rock formations and caves carved by the sea, located near Cape Greco.",
       de: "Beeindruckende natürliche Felsformationen und Höhlen, die vom Meer geformt wurden, in der Nähe von Kap Greco.",
-      hu: "Lenyűgöz�? természetes sziklaalakzatok és a tenger által vájt barlangok a Greco-fok közelében.",
-      ro: "Forma�?iuni stâncoase naturale impresionante �?i pe�?teri sculptate de mare, situate lâng�? Capul Greco.",
+      hu: "Lenyűgöző természetes sziklaalakzatok és a tenger által vájt barlangok a Greco-fok közelében.",
+      ro: "Formațiuni stâncoase naturale impresionante și peșteri sculptate de mare, situate lângă Capul Greco.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4742,7 +4743,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4755,13 +4756,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Sea Caves (Paphos)",
       de: "Meereshöhlen (Paphos)",
       hu: "Tengeri barlangok (Páfosz)",
-      ro: "Pe�?terile Marine (Paphos)",
+      ro: "Peșterile Marine (Paphos)",
     },
     description: {
       en: "A beautiful stretch of coastline near Peyia with stunning sea caves and clear waters.",
       de: "Ein wunderschöner Küstenabschnitt in der Nähe von Peyia mit atemberaubenden Meereshöhlen und klarem Wasser.",
-      hu: "Gyönyörű tengerparti szakasz Peyia közelében, lenyűgöz�? tengeri barlangokkal és tiszta vízzel.",
-      ro: "O por�?iune frumoas�? de coast�? lâng�? Peyia, cu pe�?teri marine uimitoare �?i ape limpezi.",
+      hu: "Gyönyörű tengerparti szakasz Peyia közelében, lenyűgöző tengeri barlangokkal és tiszta vízzel.",
+      ro: "O porțiune frumoasă de coastă lângă Peyia, cu peșteri marine uimitoare și ape limpezi.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4772,7 +4773,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4785,13 +4786,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Pentadaktylos (Kyrenia) Mountains",
       de: "Pentadaktylos (Kyrenia) Gebirge",
       hu: "Pentadaktylos (Kerínia)-hegység",
-      ro: "Mun�?ii Pentadaktylos (Kyrenia)",
+      ro: "Munții Pentadaktylos (Kyrenia)",
     },
     description: {
       en: "A long, narrow mountain range running along the northern coast of Cyprus, known for its dramatic limestone peaks.",
       de: "Eine lange, schmale Bergkette entlang der Nordküste Zyperns, bekannt für ihre dramatischen Kalksteingipfel.",
-      hu: "Hosszú, keskeny hegylánc Ciprus északi partja mentén, amely drámai mészk�?csúcsairól ismert.",
-      ro: "Un lan�? muntos lung �?i îngust care se întinde de-a lungul coastei de nord a Ciprului, cunoscut pentru vârfurile sale dramatice de calcar.",
+      hu: "Hosszú, keskeny hegylánc Ciprus északi partja mentén, amely drámai mészkőcsúcsairól ismert.",
+      ro: "Un lanț muntos lung și îngust care se întinde de-a lungul coastei de nord a Ciprului, cunoscut pentru vârfurile sale dramatice de calcar.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4802,7 +4803,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4819,9 +4820,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "The second largest dam in Cyprus, offering panoramic views and a tranquil environment.",
-      de: "Der zweitgrö�?te Damm Zyperns, der einen Panoramablick und eine ruhige Umgebung bietet.",
+      de: "Der zweitgrößte Damm Zyperns, der einen Panoramablick und eine ruhige Umgebung bietet.",
       hu: "Ciprus második legnagyobb gátja, panorámás kilátással és nyugodt környezettel.",
-      ro: "Al doilea cel mai mare baraj din Cipru, oferind vederi panoramice �?i un mediu lini�?tit.",
+      ro: "Al doilea cel mai mare baraj din Cipru, oferind vederi panoramice și un mediu liniștit.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4832,7 +4833,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4843,15 +4844,15 @@ export const cyprusOtherPoi: POI[] = [
     coords: [33.27, 34.71],
     name: {
       en: "Governor's Beach White Rocks",
-      de: "Wei�?e Felsen am Governor's Beach",
+      de: "Weiße Felsen am Governor's Beach",
       hu: "Kormányzói strand fehér sziklái",
       ro: "Stâncile Albe de la Plaja Guvernatorului",
     },
     description: {
       en: "A unique coastal area with smooth, white chalk rocks forming small coves with dark sand.",
-      de: "Ein einzigartiges Küstengebiet mit glatten, wei�?en Kreidefelsen, die kleine Buchten mit dunklem Sand bilden.",
+      de: "Ein einzigartiges Küstengebiet mit glatten, weißen Kreidefelsen, die kleine Buchten mit dunklem Sand bilden.",
       hu: "Egyedülálló tengerparti terület sima, fehér kréta sziklákkal, amelyek kis öblöket alkotnak sötét homokkal.",
-      ro: "O zon�? de coast�? unic�?, cu stânci netede de cret�? alb�?, care formeaz�? mici golfuri cu nisip închis la culoare.",
+      ro: "O zonă de coastă unică, cu stânci netede de cretă albă, care formează mici golfuri cu nisip închis la culoare.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4862,7 +4863,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4881,7 +4882,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "A beautiful, double waterfall in a lush green setting, located near the village of Foini.",
       de: "Ein wunderschöner, doppelter Wasserfall in einer üppig grünen Umgebung in der Nähe des Dorfes Foini.",
       hu: "Gyönyörű, dupla vízesés buja zöld környezetben, Foini falu közelében.",
-      ro: "O cascad�? dubl�? frumoas�? într-un cadru verde luxuriant, situat�? lâng�? satul Foini.",
+      ro: "O cascadă dublă frumoasă într-un cadru verde luxuriant, situată lângă satul Foini.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4892,7 +4893,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4904,14 +4905,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Pafos Forest",
       de: "Paphos-Wald",
-      hu: "Páfoszi erd�?",
-      ro: "P�?durea Paphos",
+      hu: "Páfoszi erdő",
+      ro: "Pădurea Paphos",
     },
     description: {
       en: "The largest forest in Cyprus, covering a significant part of the Troodos range, ideal for hiking and nature observation.",
-      de: "Der grö�?te Wald Zyperns, der einen bedeutenden Teil des Troodos-Gebirges bedeckt, ideal zum Wandern und zur Naturbeobachtung.",
-      hu: "Ciprus legnagyobb erdeje, amely a Troodos-hegység jelent�?s részét fedi le, ideális túrázásra és természetmegfigyelésre.",
-      ro: "Cea mai mare p�?dure din Cipru, care acoper�? o parte semnificativ�? a lan�?ului Troodos, ideal�? pentru drume�?ii �?i observarea naturii.",
+      de: "Der größte Wald Zyperns, der einen bedeutenden Teil des Troodos-Gebirges bedeckt, ideal zum Wandern und zur Naturbeobachtung.",
+      hu: "Ciprus legnagyobb erdeje, amely a Troodos-hegység jelentős részét fedi le, ideális túrázásra és természetmegfigyelésre.",
+      ro: "Cea mai mare pădure din Cipru, care acoperă o parte semnificativă a lanțului Troodos, ideală pentru drumeții și observarea naturii.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4922,7 +4923,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4940,8 +4941,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A secluded waterfall near Saittas, with a popular picnic site nearby.",
       de: "Ein abgelegener Wasserfall in der Nähe von Saittas, mit einem beliebten Picknickplatz in der Nähe.",
-      hu: "Elzárt vízesés Saittas közelében, a közelben népszerű piknikez�?hellyel.",
-      ro: "O cascad�? retras�? lâng�? Saittas, cu un loc popular de picnic în apropiere.",
+      hu: "Elzárt vízesés Saittas közelében, a közelben népszerű piknikezőhellyel.",
+      ro: "O cascadă retrasă lângă Saittas, cu un loc popular de picnic în apropiere.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4952,7 +4953,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4970,8 +4971,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A long, finger-like peninsula in the northeast of Cyprus, known for its wild nature, donkeys, and golden beaches.",
       de: "Eine lange, fingerähnliche Halbinsel im Nordosten Zyperns, bekannt für ihre wilde Natur, Esel und goldenen Strände.",
-      hu: "Hosszú, ujj alakú félsziget Ciprus északkeleti részén, vad természetér�?l, szamarairól és arany strandjairól ismert.",
-      ro: "O peninsul�? lung�?, asem�?n�?toare unui deget, în nord-estul Ciprului, cunoscut�? pentru natura sa s�?lbatic�?, m�?gari �?i plaje aurii.",
+      hu: "Hosszú, ujj alakú félsziget Ciprus északkeleti részén, vad természetéről, szamarairól és arany strandjairól ismert.",
+      ro: "O peninsulă lungă, asemănătoare unui deget, în nord-estul Ciprului, cunoscută pentru natura sa sălbatică, măgari și plaje aurii.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -4982,7 +4983,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -4999,9 +5000,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "The third largest dam in Cyprus, creating a scenic reservoir in a remote valley.",
-      de: "Der drittgrö�?te Damm Zyperns, der einen malerischen Stausee in einem abgelegenen Tal bildet.",
-      hu: "Ciprus harmadik legnagyobb gátja, amely egy fest�?i víztározót hoz létre egy távoli völgyben.",
-      ro: "Al treilea cel mai mare baraj din Cipru, creând un rezervor pitoresc într-o vale îndep�?rtat�?.",
+      de: "Der drittgrößte Damm Zyperns, der einen malerischen Stausee in einem abgelegenen Tal bildet.",
+      hu: "Ciprus harmadik legnagyobb gátja, amely egy festői víztározót hoz létre egy távoli völgyben.",
+      ro: "Al treilea cel mai mare baraj din Cipru, creând un rezervor pitoresc într-o vale îndepărtată.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5012,7 +5013,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5024,14 +5025,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Adelfoi Forest",
       de: "Adelfoi-Wald",
-      hu: "Adelfoi-erd�?",
-      ro: "P�?durea Adelfoi",
+      hu: "Adelfoi-erdő",
+      ro: "Pădurea Adelfoi",
     },
     description: {
       en: "Part of the Troodos range, this forest is characterized by Calabrian pines and offers many hiking opportunities.",
       de: "Dieser Wald, der Teil des Troodos-Gebirges ist, ist durch kalabrische Kiefern gekennzeichnet und bietet viele Wandermöglichkeiten.",
-      hu: "A Troodos-hegység része, ezt az erd�?t kalábriai feny�?k jellemzik, és számos túrázási lehet�?séget kínál.",
-      ro: "Parte a lan�?ului Troodos, aceast�? p�?dure este caracterizat�? de pini calabrezi �?i ofer�? multe oportunit�?�?i de drume�?ii.",
+      hu: "A Troodos-hegység része, ezt az erdőt kalábriai fenyők jellemzik, és számos túrázási lehetőséget kínál.",
+      ro: "Parte a lanțului Troodos, această pădure este caracterizată de pini calabrezi și oferă multe oportunități de drumeții.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5042,7 +5043,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5060,8 +5061,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "The second highest peak of the Troodos Mountains, with a fire lookout station and panoramic views.",
       de: "Der zweithöchste Gipfel des Troodos-Gebirges mit einer Feuerwache und Panoramablick.",
-      hu: "A Troodos-hegység második legmagasabb csúcsa, tűzfigyel�? állomással és panorámás kilátással.",
-      ro: "Al doilea cel mai înalt vârf al Mun�?ilor Troodos, cu un post de observare a incendiilor �?i vederi panoramice.",
+      hu: "A Troodos-hegység második legmagasabb csúcsa, tűzfigyelő állomással és panorámás kilátással.",
+      ro: "Al doilea cel mai înalt vârf al Munților Troodos, cu un post de observare a incendiilor și vederi panoramice.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5072,7 +5073,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5091,7 +5092,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "A valley known for its Venetian bridges, such as the Kelefos Bridge, crossing the Xeros Potamos.",
       de: "Ein Tal, das für seine venezianischen Brücken bekannt ist, wie die Kelefos-Brücke, die den Xeros Potamos überquert.",
       hu: "A velencei hídjairól, például a Kelefos-hídról ismert völgy, amely a Xeros Potamos folyón kel át.",
-      ro: "O vale cunoscut�? pentru podurile sale vene�?iene, cum ar fi Podul Kelefos, care traverseaz�? Râul Xeros.",
+      ro: "O vale cunoscută pentru podurile sale venețiene, cum ar fi Podul Kelefos, care traversează Râul Xeros.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5102,7 +5103,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5121,7 +5122,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "A river in the Paphos district that creates a green valley, flowing into the sea at the coast of Gialia.",
       de: "Ein Fluss im Bezirk Paphos, der ein grünes Tal bildet und an der Küste von Gialia ins Meer mündet.",
       hu: "Folyó a Páfoszi kerületben, amely zöld völgyet hoz létre, és Gialia partján ömlik a tengerbe.",
-      ro: "Un râu din districtul Paphos care creeaz�? o vale verde, v�?rsându-se în mare pe coasta Gialia.",
+      ro: "Un râu din districtul Paphos care creează o vale verde, vărsându-se în mare pe coasta Gialia.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5132,7 +5133,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5145,13 +5146,13 @@ export const cyprusOtherPoi: POI[] = [
       en: "Kouyou Kourou Monastiri Caves",
       de: "Höhlen von Kouyou Kourou Monastiri",
       hu: "Kouyou Kourou Monastiri barlangok",
-      ro: "Pe�?terile Kouyou Kourou Monastiri",
+      ro: "Peșterile Kouyou Kourou Monastiri",
     },
     description: {
       en: "A complex of man-made caves in the Paphos district, believed to have been used as a hermitage.",
       de: "Ein Komplex von künstlichen Höhlen im Bezirk Paphos, von denen angenommen wird, dass sie als Einsiedelei genutzt wurden.",
-      hu: "Ember alkotta barlangok komplexuma Páfosz kerületében, amelyet feltehet�?en remetelakként használtak.",
-      ro: "Un complex de pe�?teri artificiale în districtul Paphos, despre care se crede c�? a fost folosit ca schit.",
+      hu: "Ember alkotta barlangok komplexuma Páfosz kerületében, amelyet feltehetően remetelakként használtak.",
+      ro: "Un complex de peșteri artificiale în districtul Paphos, despre care se crede că a fost folosit ca schit.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5162,7 +5163,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5180,8 +5181,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "A dam in the Paphos district forming a lake surrounded by pine forests, offering a serene landscape.",
       de: "Ein Damm im Bezirk Paphos, der einen von Pinienwäldern umgebenen See bildet und eine ruhige Landschaft bietet.",
-      hu: "Gát a Páfoszi kerületben, amely feny�?erd�?kkel körülvett tavat alkot, és nyugodt tájat kínál.",
-      ro: "Un baraj în districtul Paphos care formeaz�? un lac înconjurat de p�?duri de pini, oferind un peisaj senin.",
+      hu: "Gát a Páfoszi kerületben, amely fenyőerdőkkel körülvett tavat alkot, és nyugodt tájat kínál.",
+      ro: "Un baraj în districtul Paphos care formează un lac înconjurat de păduri de pini, oferind un peisaj senin.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5192,7 +5193,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5211,7 +5212,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "One of the longest rivers in Cyprus, its valley is home to lush vegetation and several old bridges.",
       de: "Einer der längsten Flüsse Zyperns, dessen Tal eine üppige Vegetation und mehrere alte Brücken beherbergt.",
       hu: "Ciprus egyik leghosszabb folyója, völgye buja növényzetnek és számos régi hídnak ad otthont.",
-      ro: "Unul dintre cele mai lungi râuri din Cipru, valea sa g�?zduie�?te vegeta�?ie luxuriant�? �?i mai multe poduri vechi.",
+      ro: "Unul dintre cele mai lungi râuri din Cipru, valea sa găzduiește vegetație luxuriantă și mai multe poduri vechi.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5222,7 +5223,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5239,9 +5240,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A large earth-fill dam that creates a stunning blue lake in the mountains above Lefkara.",
-      de: "Ein gro�?er Erddamm, der einen atemberaubenden blauen See in den Bergen oberhalb von Lefkara bildet.",
-      hu: "Nagy földtöltésű gát, amely lenyűgöz�? kék tavat hoz létre a Lefkara feletti hegyekben.",
-      ro: "Un baraj mare de p�?mânt care creeaz�? un lac albastru uimitor în mun�?ii de deasupra Lefkarei.",
+      de: "Ein großer Erddamm, der einen atemberaubenden blauen See in den Bergen oberhalb von Lefkara bildet.",
+      hu: "Nagy földtöltésű gát, amely lenyűgöző kék tavat hoz létre a Lefkara feletti hegyekben.",
+      ro: "Un baraj mare de pământ care creează un lac albastru uimitor în munții de deasupra Lefkarei.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5252,7 +5253,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5271,7 +5272,7 @@ export const cyprusOtherPoi: POI[] = [
       en: "A smaller reservoir near the village of Akrounta, providing a peaceful spot for nature lovers.",
       de: "Ein kleinerer Stausee in der Nähe des Dorfes Akrounta, der einen ruhigen Ort für Naturliebhaber bietet.",
       hu: "Kisebb víztározó Akrounta falu közelében, amely békés helyet kínál a természetbarátoknak.",
-      ro: "Un rezervor mai mic lâng�? satul Akrounta, oferind un loc lini�?tit pentru iubitorii de natur�?.",
+      ro: "Un rezervor mai mic lângă satul Akrounta, oferind un loc liniștit pentru iubitorii de natură.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5282,7 +5283,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Importan?a acestui sit este recunoscut? �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunit??ii respective.", "Zona reprezint? un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare cultural?.", "Infrastructura permite explorarea confortabil? a elementelor de interes.", "Situl r?m�ne un reper pentru cei pasiona?i de istoria Ciprului."],
+      ro: ["Importan?a acestui sit este recunoscuta �n plan local ?i regional.", "Tradi?iile transmise aici au modelat identitatea comunita?ii respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "�n cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ram�ne un reper pentru cei pasiona?i de istoria Ciprului."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5300,8 +5301,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "One of the highest peaks in the Paphos Forest, offering breathtaking views of the Cedar Valley.",
       de: "Einer der höchsten Gipfel im Paphos-Wald, der einen atemberaubenden Blick auf das Zedern-Tal bietet.",
-      hu: "A Páfoszi erd�? egyik legmagasabb csúcsa, ahonnan lélegzetelállító kilátás nyílik a Cédrus-völgyre.",
-      ro: "Unul dintre cele mai înalte vârfuri din P�?durea Paphos, oferind vederi uluitoare ale V�?ii Cedrilor.",
+      hu: "A Páfoszi erdő egyik legmagasabb csúcsa, ahonnan lélegzetelállító kilátás nyílik a Cédrus-völgyre.",
+      ro: "Unul dintre cele mai înalte vârfuri din Pădurea Paphos, oferind vederi uluitoare ale Văii Cedrilor.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5312,7 +5313,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5330,8 +5331,8 @@ export const cyprusOtherPoi: POI[] = [
     description: {
       en: "The castle itself is historical, but its location offers one of the most spectacular panoramic views in Cyprus.",
       de: "Die Burg selbst ist historisch, aber ihre Lage bietet einen der spektakulärsten Panoramablicke auf Zypern.",
-      hu: "Maga a vár történelmi jelent�?ségű, de elhelyezkedése Ciprus egyik leglátványosabb panorámáját nyújtja.",
-      ro: "Castelul în sine este istoric, dar loca�?ia sa ofer�? una dintre cele mai spectaculoase vederi panoramice din Cipru.",
+      hu: "Maga a vár történelmi jelentőségű, de elhelyezkedése Ciprus egyik leglátványosabb panorámáját nyújtja.",
+      ro: "Castelul în sine este istoric, dar locația sa oferă una dintre cele mai spectaculoase vederi panoramice din Cipru.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5342,7 +5343,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Aceast? loca?ie joac? un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaz? tehnicile de construc?ie din perioadele trecute.", "Siturile din vecin?tate completeaz? contextul istoric al loca?iei.", "Activit??ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscut? pentru importan?a sa �n dezvoltarea cultural? local?.", "Vizitarea acestui loc ofer? o experien?? autentic? a vie?ii cipriote."],
+      ro: ["Aceasta loca?ie joaca un rol vital �n conservarea patrimoniului na?ional.", "Elementele structurale eviden?iaza tehnicile de construc?ie din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al loca?iei.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa �n dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vie?ii cipriote."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5359,9 +5360,9 @@ export const cyprusOtherPoi: POI[] = [
     },
     description: {
       en: "A large reservoir located between Larnaca and Limassol, surrounded by rolling hills.",
-      de: "Ein gro�?er Stausee zwischen Larnaca und Limassol, umgeben von sanften Hügeln.",
+      de: "Ein großer Stausee zwischen Larnaca und Limassol, umgeben von sanften Hügeln.",
       hu: "Nagy víztározó Lárnaka és Limassol között, lankás dombokkal körülvéve.",
-      ro: "Un rezervor mare situat între Larnaca �?i Limassol, înconjurat de dealuri domoale.",
+      ro: "Un rezervor mare situat între Larnaca și Limassol, înconjurat de dealuri domoale.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5372,7 +5373,7 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
@@ -5384,14 +5385,14 @@ export const cyprusOtherPoi: POI[] = [
     name: {
       en: "Machairas Forest",
       de: "Machairas-Wald",
-      hu: "Machairas-erd�?",
-      ro: "P�?durea Machairas",
+      hu: "Machairas-erdő",
+      ro: "Pădurea Machairas",
     },
     description: {
       en: "A national forest park on the eastern part of the Troodos range, home to the historic Machairas Monastery.",
       de: "Ein nationaler Waldpark im östlichen Teil des Troodos-Gebirges, Heimat des historischen Klosters Machairas.",
-      hu: "Nemzeti erd�?park a Troodos-hegység keleti részén, a történelmi Machairas-kolostor otthona.",
-      ro: "Un parc forestier na�?ional în partea de est a lan�?ului Troodos, care g�?zduie�?te istorica M�?n�?stire Machairas.",
+      hu: "Nemzeti erdőpark a Troodos-hegység keleti részén, a történelmi Machairas-kolostor otthona.",
+      ro: "Un parc forestier național în partea de est a lanțului Troodos, care găzduiește istorica Mănăstire Machairas.",
     },
     descriptionAdvanced: {
       de: "ERSETZE_MICH_DE",
@@ -5402,9 +5403,10 @@ export const cyprusOtherPoi: POI[] = [
     factsAdvanced: {
       de: ["ERSETZE_MICH_DE_FACT_1", "ERSETZE_MICH_DE_FACT_2", "ERSETZE_MICH_DE_FACT_3", "ERSETZE_MICH_DE_FACT_4", "ERSETZE_MICH_DE_FACT_5", "ERSETZE_MICH_DE_FACT_6"],
       hu: [],
-      ro: ["Situl are o relevan?? istoric? major? �n regiunea sa.", "Arhitectura reflect? influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferat? pentru studii istorice ?i culturale.", "Comunitatea local? p?streaz? vii tradi?iile legate de acest loc.", "Facilit??ile din apropiere ofer? un acces facil vizitatorilor."],
+      ro: ["Situl are o relevan?a istorica majora �n regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destina?ie preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradi?iile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Fact example 1", "Fact example 2", "Fact example 3", "Fact example 4", "Fact example 5", "Fact example 6"]
     },
   },
 ];
+
 

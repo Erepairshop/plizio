@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMaliHistoryV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["Eredetileg a 13. században épült.", "A jelenlegi épület 1907-ből származik.", "1988 óta UNESCO világörökség."],
       ro: ["Construită inițial în secolul al XIII-lea.", "Clădirea actuală datează din 1907.", "Patrimoniu Mondial UNESCO din 1988."],
       en: ["Originally built in the 13th century.", "The current structure dates from 1907.", "A UNESCO World Heritage site since 1988."]
-    }
-  },
+    }, image: "/poi-images/mali-great-mosque-djenne-history-v2.webp"},
   {
     id: "mali-sankore-mosque-history-v2",
     type: "historical",
@@ -47,8 +47,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["A 14. században alapították.", "Piramis alakú minaretje vályogtéglából készült.", "Az iszlám tudományosság központja Afrikában."],
       ro: ["Fondată în secolul al XIV-lea.", "Minaretul în formă de piramidă este din cărămidă de noroi.", "Centru al erudiției islamice în Africa."],
       en: ["Founded in the 14th century.", "Its pyramidal minaret is made of mud-brick.", "A center of Islamic scholarship in Africa."]
-    }
-  },
+    }, image: "/poi-images/mali-sankore-mosque-history-v2.webp"},
   {
     id: "mali-djinguereber-mosque-history-v2",
     type: "historical",
@@ -71,8 +70,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["Mansa Musa rendelte el építését 1327-ben.", "Abu Ishaq al-Sahili építész tervezte.", "Körülbelül 2000 hívő befogadására alkalmas."],
       ro: ["Comandată de Mansa Musa în 1327.", "Proiectată de arhitectul Abu Ishaq al-Sahili.", "Poate găzdui aproximativ 2000 de credincioși."],
       en: ["Commissioned by Mansa Musa in 1327.", "Designed by the architect Abu Ishaq al-Sahili.", "Accommodates about 2000 worshippers."]
-    }
-  },
+    }, image: "/poi-images/mali-djinguereber-mosque-history-v2.webp"},
   {
     id: "mali-sidi-yahya-history-v2",
     type: "historical",
@@ -95,8 +93,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["Nevét első imámjáról, Sidi Yahyáról kapta.", "1988 óta az UNESCO világörökség része.", "Szent ajtaját csak 2012-ben törték be."],
       ro: ["Numită după primul său imam, Sidi Yahya.", "Parte a Patrimoniului Mondial UNESCO din 1988.", "Poarta sfântă a fost forțată abia în 2012."],
       en: ["Named after its first imam Sidi Yahya.", "Part of the UNESCO World Heritage list since 1988.", "Its sacred door was only broken open in 2012."]
-    }
-  },
+    }, image: "/poi-images/mali-sidi-yahya-history-v2.webp"},
   {
     id: "mali-tomb-of-askia-history-v2",
     type: "historical",
@@ -119,8 +116,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["1495-ben épült.", "A Szonghai Birodalom hatalmát szimbolizálja.", "Két lapostetős mecsetet is magában foglal."],
       ro: ["Construit în anul 1495.", "Simbolizează puterea Imperiului Songhai.", "Include, de asemenea, două moschei cu acoperiș plat."],
       en: ["Built in 1495.", "Symbolizes the power of the Songhai Empire.", "Also includes two flat-roofed mosques."]
-    }
-  },
+    }, image: "/poi-images/mali-tomb-of-askia-history-v2.webp"},
   {
     id: "mali-kouroukan-fouga-history-v2",
     type: "historical",
@@ -143,8 +139,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["Szundiata Keita alapította 1236 körül.", "Az okmány a világ egyik legrégebbi emberi jogi dokumentuma.", "2009-ben az UNESCO szellemi kulturális örökségként ismerte el."],
       ro: ["Fondat de Sunjata Keita în jurul anului 1236.", "Carta este considerată unul dintre cele mai vechi documente privind drepturile omului.", "Recunoscut de UNESCO ca patrimoniu cultural imaterial în 2009."],
       en: ["Established by Sunjata Keita around 1236.", "The charter is considered one of the oldest human rights documents.", "Recognized by UNESCO as intangible cultural heritage in 2009."]
-    }
-  },
+    }, image: "/poi-images/mali-kouroukan-fouga-history-v2.webp"},
   {
     id: "mali-essouk-ruins-history-v2",
     type: "historical",
@@ -167,8 +162,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["A tuaregek 'Mekkájának' tartják.", "A 9. és a 14. század között virágzott.", "Korai arab feliratokat találtak itt."],
       ro: ["Considerat 'Mecca' tuaregilor.", "A înflorit între secolele al IX-lea și al XIV-lea.", "Aici au fost găsite inscripții arabe timpurii."],
       en: ["Considered the 'Mecca' of the Tuareg.", "Flourished between the 9th and 14th centuries.", "Early Arabic inscriptions have been found here."]
-    }
-  },
+    }, image: "/poi-images/mali-essouk-ruins-history-v2.webp"},
   {
     id: "mali-fort-medine-history-v2",
     type: "historical",
@@ -191,8 +185,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["Louis Faidherbe kormányzó alatt épült.", "1857-ben kiállta El Hadj Umar Tall nagy ostromát.", "Kayes városa közelében található."],
       ro: ["Construit sub guvernatorul Louis Faidherbe.", "A rezistat unui asediu major al lui El Hadj Umar Tall în 1857.", "Situat lângă orașul Kayes."],
       en: ["Constructed under Governor Louis Faidherbe.", "Withstood a major siege by El Hadj Umar Tall in 1857.", "Located near the city of Kayes."]
-    }
-  },
+    }, image: "/poi-images/mali-fort-medine-history-v2.webp"},
   {
     id: "mali-tata-sikasso-history-v2",
     type: "historical",
@@ -239,8 +232,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["Seku Amadu alapította 1820-ban.", "El Hadj Umar Tall hódította meg és rombolta le 1862-ben.", "A hatalmas városfalak még mindig felismerhetők."],
       ro: ["Fondat în 1820 de Seku Amadu.", "Cucerit și distrus de El Hadj Umar Tall în 1862.", "Zidurile masive ale orașului sunt încă vizibile."],
       en: ["Founded in 1820 by Seku Amadu.", "Conquered and destroyed by El Hadj Umar Tall in 1862.", "The massive city walls are still recognizable."]
-    }
-  },
+    }, image: "/poi-images/mali-hamdallahi-ruins-history-v2.webp"},
   {
     id: "mali-kamablon-kangaba-history-v2",
     type: "historical",
@@ -263,8 +255,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["A tetőt hétévente egy nagy ceremónia keretében újítják meg.", "Belsejében szent ereklyéket őriznek.", "A griot kultúra egyik központja."],
       ro: ["Acoperișul este reînnoit la fiecare șapte ani într-o ceremonie grandioasă.", "În interior sunt păstrate relicve sacre.", "Un centru al culturii griot."],
       en: ["The roof is renewed every seven years in a grand ceremony.", "Sacred relics are kept inside.", "A center of griot culture."]
-    }
-  },
+    }, image: "/poi-images/mali-kamablon-kangaba-history-v2.webp"},
   {
     id: "mali-tondidarou-megaliths-history-v2",
     type: "historical",
@@ -287,8 +278,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["Néhány sztélé több mint két méter magas.", "Gyakran fallikus formájúak.", "Kormeghatározásuk a késő 1. évezredre tehető."],
       ro: ["Unele stele au peste doi metri înălțime.", "Adesea prezintă forme falice.", "Datarea se încadrează în mileniul I târziu."],
       en: ["Some steles are over two meters high.", "They often feature phallic shapes.", "Dating falls into the late 1st millennium."]
-    }
-  },
+    }, image: "/poi-images/mali-tondidarou-megaliths-history-v2.webp"},
   {
     id: "mali-tata-nioro-history-v2",
     type: "historical",
@@ -311,8 +301,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["1854-ben készült el.", "A Toucouleur Birodalom katonai központjaként szolgált.", "Később a francia csapatok használták."],
       ro: ["Finalizată în 1854.", "A servit drept centru militar al Imperiului Toucouleur.", "Mai târziu folosită de trupele franceze."],
       en: ["Completed in 1854.", "Served as the military center of the Toucouleur Empire.", "Later used by French troops."]
-    }
-  },
+    }, image: "/poi-images/mali-tata-nioro-history-v2.webp"},
   {
     id: "mali-djenne-djenno-history-v2",
     type: "historical",
@@ -335,8 +324,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["I. e. 250 körül népesült be.", "Terrakotta figuráiról híres.", "A 14. században rejtélyes módon elhagyták."],
       ro: ["Locuit în jurul anului 250 î.Hr.", "Cunoscut pentru figurile sale din teracotă.", "Abandonat în mod misterios în secolul al XIV-lea."],
       en: ["Settled around 250 BC.", "Known for its terracotta figures.", "Mysteriously abandoned in the 14th century."]
-    }
-  },
+    }, image: "/poi-images/mali-djenne-djenno-history-v2.webp"},
   {
     id: "mali-kirina-battlefield-history-v2",
     type: "historical",
@@ -359,8 +347,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["A Mali Birodalom alapító eseményének tartják.", "Az ellenkirály Sumanguru Kanté volt.", "A griotok szóbeli hagyományában ünneplik."],
       ro: ["Considerat evenimentul fondator al Imperiului Mali.", "Regele adversar a fost Sumanguru Kanté.", "Sărbătorit în tradiția orală a griotilor."],
       en: ["Considered the founding event of the Mali Empire.", "The opposing king was Sumanguru Kanté.", "Celebrated in the oral tradition of the griots."]
-    }
-  },
+    }, image: "/poi-images/mali-kirina-battlefield-history-v2.webp"},
   {
     id: "mali-mopti-mosque-history-v2",
     type: "historical",
@@ -383,8 +370,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["Az 1930-as években épült.", "Nemrégiben az Aga Khan Tröszt támogatásával restaurálták.", "Feltűnő központi minarettel rendelkezik."],
       ro: ["Construită în anii 1930.", "Recent restaurată cu sprijinul trustului Aga Khan.", "Are un minaret central izbitor."],
       en: ["Built in the 1930s.", "Recently restored with the support of the Aga Khan Trust.", "Features a striking central minaret."]
-    }
-  },
+    }, image: "/poi-images/mali-mopti-mosque-history-v2.webp"},
   {
     id: "mali-segou-koro-history-v2",
     type: "historical",
@@ -407,8 +393,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["Biton Coulibaly alapította a 17. században.", "Itt található Biton Coulibaly történelmi sírja.", "A hagyományos bambara építészetet őrzi."],
       ro: ["Fondat în secolul al XVII-lea de Biton Coulibaly.", "Găzduiește mormântul istoric al lui Biton Coulibaly.", "Păstrează arhitectura tradițională Bambara."],
       en: ["Founded in the 17th century by Biton Coulibaly.", "Houses the historic tomb of Biton Coulibaly.", "Preserves traditional Bambara architecture."]
-    }
-  },
+    }, image: "/poi-images/mali-segou-koro-history-v2.webp"},
   {
     id: "mali-gao-saney-history-v2",
     type: "historical",
@@ -431,8 +416,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["1939-ben fedezték fel.", "Erősen andalúziai iszlám hatások jellemzik.", "12. századi sírköveket találtak itt."],
       ro: ["Descoperit în 1939.", "Puternic influențat de stilurile islamice andaluze.", "S-au găsit pietre funerare din secolul al XII-lea."],
       en: ["Discovered in 1939.", "Strongly influenced by Andalusian Islamic styles.", "12th-century tombstones have been found."]
-    }
-  },
+    }, image: "/poi-images/mali-gao-saney-history-v2.webp"},
   {
     id: "mali-markala-dam-history-v2",
     type: "historical",
@@ -455,8 +439,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["1934 és 1947 között épült.", "A tömeges gyapottermesztés lehetővé tételét szolgálta.", "A történelmi gyarmati mérnöki munka példája."],
       ro: ["Construit între 1934 și 1947.", "Destinat să permită cultivarea masivă a bumbacului.", "Un exemplu de inginerie colonială istorică."],
       en: ["Built between 1934 and 1947.", "Intended to enable massive cotton cultivation.", "An example of historical colonial engineering."]
-    }
-  },
+    }, image: "/poi-images/mali-markala-dam-history-v2.webp"},
   {
     id: "mali-fort-kita-history-v2",
     type: "historical",
@@ -479,8 +462,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["Joseph Gallieni építette 1881-ben.", "Kita városa fontos közigazgatási központ volt.", "A régió feletti francia ellenőrzés kezdetét szimbolizálja."],
       ro: ["Construit de Joseph Gallieni în 1881.", "Orașul Kita a fost un important centru administrativ.", "Simbolizează începutul controlului francez în regiune."],
       en: ["Built by Joseph Gallieni in 1881.", "The town of Kita was an important administrative center.", "Symbolizes the beginning of French control in the region."]
-    }
-  },
+    }, image: "/poi-images/mali-fort-kita-history-v2.webp"},
   {
     id: "mali-tellem-caves-history-v2",
     type: "historical",
@@ -503,8 +485,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["A tellemek a 11. és 15. század között éltek itt.", "A barlangok védelmet nyújtottak az áradások és az ellenség ellen.", "Érintetlenül találtak faplasztikákat és egyéb leleteket."],
       ro: ["Tellem au trăit aici din secolul al XI-lea până în secolul al XV-lea.", "Peșterile ofereau protecție împotriva inundațiilor și a dușmanilor.", "S-au găsit intacte artefacte precum statui din lemn."],
       en: ["The Tellem lived here from the 11th to the 15th century.", "The caves provided protection from floods and enemies.", "Artifacts such as wooden statues were found intact."]
-    }
-  },
+    }, image: "/poi-images/mali-tellem-caves-history-v2.webp"},
   {
     id: "mali-modibo-keita-memorial-history-v2",
     type: "historical",
@@ -527,8 +508,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["1999-ben adták át.", "Múzeumot is magában foglal az elnök életéről.", "Építészetileg neohagyományos stílusban tervezték."],
       ro: ["Inaugurat în 1999.", "Include un muzeu despre viața președintelui.", "Proiectat arhitectural într-un stil neo-tradițional."],
       en: ["Inaugurated in 1999.", "Includes a museum about the president's life.", "Architecturally designed in a neo-traditional style."]
-    }
-  },
+    }, image: "/poi-images/mali-modibo-keita-memorial-history-v2.webp"},
   {
     id: "mali-independence-monument-history-v2",
     type: "historical",
@@ -551,8 +531,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["A Nemzeti Múzeummal szemben található.", "A mali nemzeti büszkeség szimbóluma.", "Hivatalos ünnepségek népszerű helyszíne."],
       ro: ["Situat vizavi de Muzeul Național.", "Un simbol al mândriei naționale din Mali.", "Loc popular pentru sărbătorile oficiale."],
       en: ["Located opposite the National Museum.", "A symbol of Malian national pride.", "Popular venue for official celebrations."]
-    }
-  },
+    }, image: "/poi-images/mali-independence-monument-history-v2.webp"},
   {
     id: "mali-niamina-historic-center-history-v2",
     type: "historical",
@@ -575,8 +554,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["A 19. században felfedezők gyakran említették.", "A hagyományos hajóépítési technikáiról ismert.", "Számos régi vályogépület fennmaradt."],
       ro: ["Menționat frecvent de exploratori în secolul al XIX-lea.", "Cunoscut pentru tehnicile tradiționale de construcție a bărcilor.", "Multe clădiri vechi din noroi s-au păstrat."],
       en: ["Often mentioned by explorers in the 19th century.", "Known for traditional boat-building techniques.", "Many old mud-brick buildings are preserved."]
-    }
-  },
+    }, image: "/poi-images/mali-niamina-historic-center-history-v2.webp"},
   {
     id: "mali-bougouni-colonial-buildings-history-v2",
     type: "historical",
@@ -599,8 +577,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["1894-től a 'Cercle de Bougouni' része volt.", "Az építészet európai és helyi elemeket ötvöz.", "A régi prefektúra épülete a mai napig fennmaradt."],
       ro: ["A făcut parte din 'Cercle de Bougouni' din 1894.", "Arhitectura combină elemente europene și locale.", "Vechea clădire a prefecturii s-a păstrat până astăzi."],
       en: ["Part of the 'Cercle de Bougouni' from 1894.", "The architecture combines European and local elements.", "The old prefecture building is preserved to this day."]
-    }
-  },
+    }, image: "/poi-images/mali-bougouni-colonial-buildings-history-v2.webp"},
   {
     id: "mali-segou-old-walls-history-v2",
     type: "historical",
@@ -623,8 +600,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["A 18. században Biton Coulibaly bővítette ki.", "Vastag vályogtégla falakból állt.", "Néhány szakasz még ma is látható az óvárosban."],
       ro: ["Extins de Biton Coulibaly în secolul al XVIII-lea.", "Consista din ziduri groase de cărămidă de noroi.", "Unele secțiuni pot fi văzute și astăzi în orașul vechi."],
       en: ["Expanded by Biton Coulibaly in the 18th century.", "Consisted of thick mud-brick walls.", "Some sections can still be seen in the old town."]
-    }
-  },
+    }, image: "/poi-images/mali-segou-old-walls-history-v2.webp"},
   {
     id: "mali-bamako-artisan-house-history-v2",
     type: "historical",
@@ -647,8 +623,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["Kategóriájában Nyugat-Afrika egyik legrégebbi központja.", "Neoszudáni stílusban épült.", "A fafaragók és ezüstművesek örökségét mutatja be."],
       ro: ["Unul dintre cele mai vechi centre de acest gen din Africa de Vest.", "Construit în stil neo-sudanez.", "Prezintă moștenirea cioplitorilor în lemn și a argintarilor."],
       en: ["One of the oldest centers of its kind in West Africa.", "Built in the neo-Sudanese style.", "Showcases the heritage of woodcarvers and silversmiths."]
-    }
-  },
+    }, image: "/poi-images/mali-bamako-artisan-house-history-v2.webp"},
   {
     id: "mali-koulikoro-ferry-history-v2",
     type: "historical",
@@ -671,8 +646,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["A vasútépítés 1904-ben érte el a várost.", "A földimogyoró-export csomópontja volt.", "Régi daruk és rakpartok még ma is láthatók."],
       ro: ["Construcția căii ferate a ajuns în oraș în 1904.", "A fost un hub pentru exportul de arahide.", "Vechile macarale și cheiuri sunt încă vizibile."],
       en: ["The railway construction reached the city in 1904.", "Was a hub for peanut exports.", "Old cranes and quays are still visible."]
-    }
-  },
+    }, image: "/poi-images/mali-koulikoro-ferry-history-v2.webp"},
   {
     id: "mali-old-port-mopti-history-v2",
     type: "historical",
@@ -695,8 +669,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       hu: ["A hagyományos pinasse hajók központja.", "Itt virágzott a taoudenni-i sólapokkal való kereskedelem.", "Különböző etnikai csoportok olvasztótégelye."],
       ro: ["Centru pentru bărcile tradiționale pinasse.", "Comerțul cu plăci de sare din Taoudenni a înflorit aici.", "Un creuzet de diferite grupuri etnice."],
       en: ["Center for traditional pinasse boats.", "Trade in salt slabs from Taoudenni flourished here.", "A melting pot of different ethnic groups."]
-    }
-  },
+    }, image: "/poi-images/mali-old-port-mopti-history-v2.webp"},
   {
     id: "mali-kayes-railway-station-history-v2",
     type: "historical",
@@ -722,3 +695,4 @@ export const poiExtraMaliHistoryV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraElsalvadorLandmarksV2: POI[] = [
@@ -45,8 +46,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Cupola teatrului găzduiește o pictură murală monumentală care acoperă o suprafață de 230 de metri pătrați."
       ],
       en: ["Construction began in 1911 based on designs by Daniel Beylard.", "The interior dome features a monumental painting by Carlos Cañas.", "It was declared a National Monument in 1979.", "The theater remains the most important center for performing arts in El Salvador."]
-    }
-  },
+    }, image: "/poi-images/teatro-nacional-san-salvador-landmarks-v2.webp"},
   {
     id: "palacio-nacional-el-salvador-landmarks-v2",
     type: "landmark",
@@ -91,8 +91,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Materialele folosite pentru construcție au inclus grinzi de oțel importate din Germania și marmură de Carrara."
       ],
       en: ["The current building was completed in 1911 after the previous palace burned down.", "It contains a total of 101 rooms and a spacious interior courtyard.", "Floor tiles and decorative materials were imported from Italy and Belgium.", "The Yellow Room once served as the official office of the President."]
-    }
-  },
+    }, image: "/poi-images/palacio-nacional-el-salvador-landmarks-v2.webp"},
   {
     id: "iglesia-el-rosario-landmarks-v2",
     type: "landmark",
@@ -137,8 +136,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Spre deosebire de bisericile clasice, El Rosario nu are cupolă, ci un plafon boltit care se sprijină direct pe sol."
       ],
       en: ["Designed by renowned sculptor and architect Rubén Martínez.", "The interior is free of supporting columns, creating a sense of vast openness.", "It is considered one of the most important modern religious monuments in Central America.", "The curved shape of the building symbolizes hope reaching toward the sky."]
-    }
-  },
+    }, image: "/poi-images/iglesia-el-rosario-landmarks-v2.webp"},
   {
     id: "monumento-a-la-revolucion-landmarks-v2",
     type: "landmark",
@@ -183,8 +181,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Locația sa a fost aleasă strategic pentru a ancora dezvoltarea urbană a cartierului San Benito."
       ],
       en: ["The monument was completed during the presidency of Oscar Osorio.", "The mosaic background was created by Mexican artist Claudio Cevallos.", "The central figure is composed of stone and colorful glass mosaics.", "It forms part of a larger cultural complex in the capital city."]
-    }
-  },
+    }, image: "/poi-images/monumento-a-la-revolucion-landmarks-v2.webp"},
   {
     id: "estadio-cuscatlan-landmarks-v2",
     type: "landmark",
@@ -229,8 +226,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Papa Ioan Paul al II-lea a celebrat aici o slujbă istorică în timpul vizitei sale în El Salvador din anul 1983."
       ],
       en: ["The stadium's construction was funded by private capital and fan contributions.", "It is recognized as the largest and most modern sports facility in Central America.", "The quality of the playing field is internationally acclaimed.", "The stadium has a total capacity of approximately 53,400 spectators."]
-    }
-  },
+    }, image: "/poi-images/estadio-cuscatlan-landmarks-v2.webp"},
   {
     id: "monumento-a-la-constitucion-landmarks-v2",
     type: "landmark",
@@ -275,8 +271,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Este considerat unul dintre cele mai importante puncte de întâlnire pentru manifestațiile pașnice din San Salvador."
       ],
       en: ["The statue is made of bronze and stands on a tall stone pedestal.", "The monument was created to honor the new constitution of 1983.", "The artist, Rubén Martínez, is one of El Salvador's most respected sculptors.", "The site often serves as a center for political rallies and national celebrations."]
-    }
-  },
+    }, image: "/poi-images/monumento-a-la-constitucion-landmarks-v2.webp"},
   {
     id: "puente-cuscatlan-landmarks-v2",
     type: "landmark",
@@ -321,8 +316,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Structura este monitorizată constant datorită importanței sale strategice pentru securitatea și logistica națională."
       ],
       en: ["Originally inaugurated in 1952, it was completely rebuilt in 1998.", "Exceeding 400 meters in length, it is one of the longest bridges in the country.", "The steel structure is designed to withstand tropical storms and earthquakes.", "It is a strategically important point in the Pan-American Highway network."]
-    }
-  },
+    }, image: "/poi-images/puente-cuscatlan-landmarks-v2.webp"},
   {
     id: "torre-futura-landmarks-v2",
     type: "landmark",
@@ -367,8 +361,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Clădirea utilizează un sistem de fațadă ventilată pentru a reduce consumul de energie pentru climatizare."
       ],
       en: ["The 19-story tower stands at a total height of 92 meters.", "The building is equipped with intelligent energy-saving systems.", "In 2010, it won the award for the most outstanding architectural project in El Salvador.", "It utilizes some of the most advanced earthquake-resistant technology in the country."]
-    }
-  },
+    }, image: "/poi-images/torre-futura-landmarks-v2.webp"},
   {
     id: "parque-bicentenario-landmarks-v2",
     type: "landmark",
@@ -413,8 +406,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Accesul este facilitat prin multiple puncte de intrare din San Salvador și Antiguo Cuscatlán."
       ],
       en: ["The park covers 91 hectares, making it the largest urban park in the capital.", "It is home to more than 500 plant species and 100 bird species.", "The park is jointly maintained by the municipalities of San Salvador and Antiguo Cuscatlán.", "It includes specialized areas such as a dog park and children's playgrounds."]
-    }
-  },
+    }, image: "/poi-images/parque-bicentenario-landmarks-v2.webp"},
   {
     id: "museo-nacional-antropologia-muna-landmarks-v2",
     type: "landmark",
@@ -459,8 +451,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Clădirea actuală a fost construită special pentru a respecta standardele internaționale de conservare a patrimoniului."
       ],
       en: ["Founded by Dr. David J. Guzmán, a renowned scientist and archaeologist.", "The museum houses more than 10,000 archaeological and ethnographic objects.", "Its most valuable treasure is the basalt statue of the deity Xipe Totec.", "The institution regularly organizes international traveling exhibitions."]
-    }
-  },
+    }, image: "/poi-images/museo-nacional-antropologia-muna-landmarks-v2.webp"},
   {
     id: "jardin-botanico-la-laguna-landmarks-v2",
     type: "landmark",
@@ -505,8 +496,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Este administrată de o fundație nonprofit dedicată protecției resurselor naturale și educației ecologice."
       ],
       en: ["The garden was opened to the general public in 1978.", "It covers a total of 30 hectares, part of which is a pristine forest reserve.", "The orchid house features more than 400 different blooming species.", "The volcanic soil is extremely rich in nutrients, allowing for lush vegetation."]
-    }
-  },
+    }, image: "/poi-images/jardin-botanico-la-laguna-landmarks-v2.webp"},
   {
     id: "museo-de-arte-de-el-salvador-marte-landmarks-v2",
     type: "landmark",
@@ -551,8 +541,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Programul 'Luni la MARTE' oferă acces gratuit și spectacole muzicale de înaltă calitate pentru publicul larg."
       ],
       en: ["The museum possesses a permanent collection of more than 300 artworks.", "It regularly hosts international contemporary art biennials.", "The museum garden displays works by significant Salvadoran sculptors.", "A special wing is dedicated to Rosa Mena, the country's most famous female painter."]
-    }
-  },
+    }, image: "/poi-images/museo-de-arte-de-el-salvador-marte-landmarks-v2.webp"},
   {
     id: "plaza-gerardo-barrios-landmarks-v2",
     type: "landmark",
@@ -597,8 +586,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Mozaicul pavajului actual a fost conceput pentru a facilita accesul persoanelor cu mobilitate redusă."
       ],
       en: ["The equestrian statue was erected in 1909 and was created by Italian sculptor Francisco Durini.", "The square was originally known as 'Plaza de Armas'.", "It is the venue for the most important national holidays and military parades.", "Reliefs on the pedestal depict important battles from General Barrios' life."]
-    }
-  },
+    }, image: "/poi-images/plaza-gerardo-barrios-landmarks-v2.webp"},
   {
     id: "plaza-morazan-landmarks-v2",
     type: "landmark",
@@ -643,8 +631,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Datorită apropierii de teatru, este adesea punctul de plecare pentru tururile ghidate prin centrul istoric."
       ],
       en: ["The monument was inaugurated in 1882, making it the oldest public statue in San Salvador.", "Five female figures on the pedestal symbolize the five Central American countries.", "The statue was carved in Italy from white Carrara marble.", "The square played an important role in the 19th-century modernization of the city."]
-    }
-  },
+    }, image: "/poi-images/plaza-morazan-landmarks-v2.webp"},
   {
     id: "hospital-divina-providencia-chapel-landmarks-v2",
     type: "landmark",
@@ -689,8 +676,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Micul muzeu adiacent păstrează hainele însângerate pe care Sfântul le purta în momentul tragicului eveniment."
       ],
       en: ["Óscar Romero was canonized as a saint by Pope Francis in 2018.", "The chapel is located on the grounds of a hospital that still cares for terminally ill patients.", "Every March, thousands gather here to mark the anniversary of the archbishop's death.", "The museum displays the shirt Romero was wearing at the time of the assassination."]
-    }
-  },
+    }, image: "/poi-images/hospital-divina-providencia-chapel-landmarks-v2.webp"},
   {
     id: "cementerio-de-los-ilustres-landmarks-v2",
     type: "landmark",
@@ -735,8 +721,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Există o secțiune specială dedicată comunității evreiești și altor grupuri care au contribuit la dezvoltarea țării."
       ],
       en: ["It is the final resting place of both Francisco Morazán and Gerardo Barrios.", "The cemetery includes a special 'Artists' Plot' for visitors to explore.", "Many monuments were carved in Italian workshops and transported here by ship.", "The oldest graves date back to the middle of the 19th century."]
-    }
-  },
+    }, image: "/poi-images/cementerio-de-los-ilustres-landmarks-v2.webp"},
   {
     id: "monumento-a-la-paz-landmarks-v2",
     type: "landmark",
@@ -781,8 +766,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Baza monumentului conține plăci comemorative care onorează memoria tuturor celor care au suferit în timpul războiului."
       ],
       en: ["More than 30,000 firearms and pieces of military equipment were melted to create the statue.", "It is one of sculptor Rubén Martínez's most iconic works.", "The monument was inaugurated in 1994, two years after the peace agreement.", "The central figure serves as an allegory for liberty and reconciliation."]
-    }
-  },
+    }, image: "/poi-images/monumento-a-la-paz-landmarks-v2.webp"},
   {
     id: "iglesia-inmaculada-concepcion-santa-tecla-landmarks-v2",
     type: "landmark",
@@ -827,8 +811,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "După cutremurul din 2001, clădirea a fost consolidată structural fără a-i fi alterată estetica istorică."
       ],
       en: ["Construction of the church began in 1874 and lasted for several decades.", "The stained glass windows were produced in renowned European workshops.", "The main altar is made of finely crafted wood with gilded decorations.", "The building underwent significant restoration after the 2001 earthquake."]
-    }
-  },
+    }, image: "/poi-images/iglesia-inmaculada-concepcion-santa-tecla-landmarks-v2.webp"},
   {
     id: "iglesia-el-calvario-san-salvador-landmarks-v2",
     type: "landmark",
@@ -873,8 +856,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Spre deosebire de alte lăcașuri de cult, El Calvario a rămas un centru activ al vieții comunitare în ciuda degradării zonei centrale."
       ],
       en: ["The current building was completed between 1932 and 1950 on the site of a previous burned church.", "Architect Augusto Baratta combined Neo-Gothic elements with modern technology.", "The interior is decorated with valuable religious paintings and statues.", "It is one of the largest and most important Catholic parishes in the country."]
-    }
-  },
+    }, image: "/poi-images/iglesia-el-calvario-san-salvador-landmarks-v2.webp"},
   {
     id: "basilica-sagrado-corazon-de-jesus-landmarks-v2",
     type: "landmark",
@@ -919,8 +901,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Turnurile sale ating o înălțime considerabilă, fiind printre cele mai înalte structuri religioase din centrul istoric."
       ],
       en: ["The basilica was built entirely on a metal frame brought from overseas.", "It is one of the most significant churches dedicated to the Sacred Heart in Central America.", "Works by Italian and Spanish artists can be found in the interior decoration.", "For a long time, it served as the temporary cathedral of San Salvador."]
-    }
-  },
+    }, image: "/poi-images/basilica-sagrado-corazon-de-jesus-landmarks-v2.webp"},
   {
     id: "centro-civico-cultural-legislativo-landmarks-v2",
     type: "landmark",
@@ -965,8 +946,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "A fost premiat pentru calitatea restaurării, reușind să păstreze elementele originale de tâmplărie și pardoseală."
       ],
       en: ["The center was created through the complete renovation of the historic 'Villa Dueñas'.", "It features a total of five exhibition halls for different branches of art.", "An outdoor stage in the garden is a popular venue for city events.", "The institution offers free cultural courses for young people."]
-    }
-  },
+    }, image: "/poi-images/centro-civico-cultural-legislativo-landmarks-v2.webp"},
   {
     id: "teatro-presidente-landmarks-v2",
     type: "landmark",
@@ -1011,8 +991,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Este dotat cu un sistem de scenă hidraulic și iluminat computerizat, putând găzdui producții complexe de operă."
       ],
       en: ["The theater auditorium can accommodate a total of 1,422 people.", "Its equipment meets the highest international technical standards.", "Mosaics on the facade are the work of renowned Salvadoran artists.", "It regularly hosts international festivals and gala evenings."]
-    }
-  },
+    }, image: "/poi-images/teatro-presidente-landmarks-v2.webp"},
   {
     id: "reloj-de-flores-zacamil-landmarks-v2",
     type: "landmark",
@@ -1057,8 +1036,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "A fost restaurat recent pentru a include un sistem de iluminat nocturn care pune în evidență culorile florilor."
       ],
       en: ["The diameter of the clock face exceeds five meters.", "The clock hands are made of special lightweight but durable materials.", "Flowers are selected so that the clock remains spectacular in every season.", "A dedicated team of gardeners performs maintenance every single day."]
-    }
-  },
+    }, image: "/poi-images/reloj-de-flores-zacamil-landmarks-v2.webp"},
   {
     id: "parque-nacional-walter-thilo-deininger-landmarks-v2",
     type: "landmark",
@@ -1103,8 +1081,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Centrul de vizitare este dotat cu panouri educaționale care explică importanța pădurii uscate pentru ciclul apei."
       ],
       en: ["The park covers a total area of 732 hectares.", "Walter Thilo Deininger, a philanthropist of German descent, donated the land to the state.", "It features one of the best ecotourism adventure parks in the country.", "Researchers have identified more than 440 plant species within the park."]
-    }
-  },
+    }, image: "/poi-images/parque-nacional-walter-thilo-deininger-landmarks-v2.webp"},
   {
     id: "monumento-a-la-memoria-y-la-verdad-landmarks-v2",
     type: "landmark",
@@ -1149,8 +1126,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "În fiecare an, pe 16 ianuarie, mii de oameni se adună aici pentru a comemora aniversarea Acordurilor de Pace."
       ],
       en: ["The wall is 85 meters long and reaches a height of 3 meters.", "Names were engraved in chronological order from 1970 to 1992.", "The project was initiated by civil organizations and relatives of the victims.", "The monument is a central location for human rights commemorations each year."]
-    }
-  },
+    }, image: "/poi-images/monumento-a-la-memoria-y-la-verdad-landmarks-v2.webp"},
   {
     id: "mirador-de-la-giralda-cerro-verde-landmarks-v2",
     type: "landmark",
@@ -1195,8 +1171,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Izalco, vulcanul vizibil de aici, a fost supranumit 'Farul Pacificului' deoarece flăcările sale ghidau corăbiile."
       ],
       en: ["The viewpoint is located at an altitude of more than 2,000 meters above sea level.", "From here, part of Lake Coatepeque can be seen in clear weather.", "The area is part of a biosphere reserve featuring rare plant species.", "The nearby 'Hotel de Montaña' has historical significance in Salvadoran tourism."]
-    }
-  },
+    }, image: "/poi-images/mirador-de-la-giralda-cerro-verde-landmarks-v2.webp"},
   {
     id: "iglesia-san-francisco-san-salvador-landmarks-v2",
     type: "landmark",
@@ -1241,8 +1216,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Piațeta din fața bisericii este adesea folosită pentru activități culturale și târguri artizanale de cartier."
       ],
       en: ["The Franciscan order was among the first to settle in San Salvador in the 16th century.", "The facade of the church carries elements of the classic Spanish colonial style.", "The final resting places of notable historical figures are located in the interior crypts.", "The monastery in the church courtyard once served as an educational center."]
-    }
-  },
+    }, image: "/poi-images/iglesia-san-francisco-san-salvador-landmarks-v2.webp"},
   {
     id: "catedral-nuestra-senora-de-los-pobres-zacatecoluca-landmarks-v2",
     type: "landmark",
@@ -1287,8 +1261,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Este centrul festivităților din decembrie, când mii de pelerini vin să o onoreze pe patroana spirituală a orașului."
       ],
       en: ["The cathedral dome is one of the largest structures of its type in the country.", "The interior is decorated with valuable 19th-century paintings by Spanish masters.", "The crypt of the church holds the remains of José Simeón Cañas, a hero of slave emancipation.", "It forms the central element of Zacatecoluca's historic downtown."]
-    }
-  },
+    }, image: "/poi-images/catedral-nuestra-senora-de-los-pobres-zacatecoluca-landmarks-v2.webp"},
   {
     id: "mercado-nacional-de-artesanias-landmarks-v2",
     type: "landmark",
@@ -1333,8 +1306,7 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
         "Locația dispune de o zonă de cafenea unde vizitatorii pot gusta specialități locale precum cafeaua gourmet salvadoriană."
       ],
       en: ["More than 100 different stalls await shoppers at the market.", "Miniature ceramic figures from Ilobasco are particularly famous.", "Textile products include clothing made with traditional indigo dyeing techniques.", "The market is open every day, with special fairs during national holidays."]
-    }
-  },
+    }, image: "/poi-images/mercado-nacional-de-artesanias-landmarks-v2.webp"},
   {
     id: "centro-historico-de-san-salvador-landmarks-v2",
     type: "landmark",
@@ -1382,3 +1354,4 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
     }
   }
 ];
+

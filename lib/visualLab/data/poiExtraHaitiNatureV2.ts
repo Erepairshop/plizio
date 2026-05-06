@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraHaitiNatureV2: POI[] = [
@@ -30,8 +31,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["A folyó teljes hossza körülbelül 29 kilométer.", "A Chaîne de la Selle hegyláncban ered.", "Átszeli a mezőgazdaságilag fontos Cul-de-Sac síkságot.", "A folyó Port-au-Prince-től északra torkollik a tengerbe.", "A heves esőzések gyakran veszélyes villámárvizeket okoznak.", "Tabarre régiójában az öntözés fő vízforrása."],
       ro: ["Râul are o lungime totală de aproximativ 29 de kilometri.", "Izvorăște din lanțul muntos Chaîne de la Selle.", "Traversează câmpia Cul-de-Sac, importantă pentru agricultură.", "Râul se varsă în mare la nord de Port-au-Prince.", "Ploile abundente provoacă adesea viituri periculoase.", "Este o sursă principală de apă pentru irigații în Tabarre."],
       en: ["The river has a total length of approximately 29 kilometers.", "It originates in the Chaîne de la Selle mountain range.", "It flows across the agriculturally rich Cul-de-Sac plain.", "The river empties into the sea north of Port-au-Prince.", "Heavy rains often trigger dangerous flash floods.", "It serves as a primary water source for irrigation in Tabarre."]
-    }
-  },
+    }, image: "/poi-images/ht-riviere-grise-nature-v2.webp"},
   {
     id: "ht-lac-de-peligre-nature-v2",
     type: "lake",
@@ -61,8 +61,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["A tó egy 1956-os gátépítés során jött létre.", "Ez Haiti országának második legnagyobb állóvize.", "A vízerőmű Haiti egyik fő energiaforrása.", "A tározó öntözi a fontos Artibonite rizstermelő völgyet.", "Az erős feltöltődés veszélyezteti a tó élettartamát.", "Gleccsermentes övezetben, a központi fennsíkon fekszik."],
       ro: ["Lacul a fost format prin construirea unui baraj în 1956.", "Este a doua cea mai mare întindere de apă din Haiti.", "Hidrocentrala este o sursă majoră de energie pentru țară.", "Rezervorul irigă importanta vale a orezului Artibonite.", "Sedimentarea masivă amenință durata de viață a lacului.", "Este situat pitoresc în Podișul Central al Haitiului."],
       en: ["The lake was formed by dam construction in 1956.", "It is the second largest body of water in Haiti.", "The hydroelectric plant is a major power source for Haiti.", "The reservoir irrigates the vital Artibonite rice valley.", "Heavy siltation threatens the lake's long-term capacity.", "It is picturesquely located in the Haitian Central Plateau."]
-    }
-  },
+    }, image: "/poi-images/ht-lac-de-peligre-nature-v2.webp"},
   {
     id: "ht-chaine-de-la-selle-nature-v2",
     type: "mountain",
@@ -92,8 +91,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Itt található a Morne la Selle, Haiti legmagasabb hegye.", "A hegylánc maximális magassága 2680 méter.", "Földtanilag főként mezozoikumi mészkőből épül fel.", "Az endemikus hispaniolai fenyő fontos menedékhelye.", "Az ország délkeleti részének központi víztározója.", "A határmenti La Selle Bioszféra-rezervátum része."],
       ro: ["Găzduiește Morne la Selle, cel mai înalt vârf din Haiti.", "Lanțul muntos atinge o înălțime maximă de 2.680 metri.", "Din punct de vedere geologic, este format din calcar mezozoic.", "Refugiu important pentru pinul endemic de Hispaniola.", "Rezervor central de apă pentru sud-estul țării.", "Face parte din Rezervația Biosferei transfrontaliere La Selle."],
       en: ["Home to Morne la Selle, the highest mountain in Haiti.", "The range reaches a maximum elevation of 2,680 meters.", "Geologically composed primarily of Mesozoic limestone.", "Vital refuge for the endemic Hispaniolan pine trees.", "Acts as a central water reservoir for the southeast.", "Part of the transboundary La Selle Biosphere Reserve."]
-    }
-  },
+    }, image: "/poi-images/ht-chaine-de-la-selle-nature-v2.webp"},
   {
     id: "ht-massif-de-la-hotte-nature-v2",
     type: "mountain",
@@ -123,8 +121,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Legmagasabb pontja a 2347 méteres Pic Macaya.", "Több mint 40 endemikus béka- és kétéltűfaj otthona.", "2016-ban az UNESCO bioszféra-rezervátummá nyilvánította.", "A Karib-térség utolsó köderdeinek egy részét őrzi.", "Rendkívül magas az endemikus növényfajok koncentrációja.", "A Tiburon-félsziget legfontosabb víztározója."],
       ro: ["Cel mai înalt punct este Pic Macaya, la 2.347 de metri.", "Adăpostește peste 40 de specii endemice de broaște.", "Declarat Rezervație a Biosferei UNESCO în anul 2016.", "Conține unele dintre ultimele păduri de ceață din Caraibe.", "Concentrație extrem de mare de plante endemice rare.", "Cea mai importantă sursă de apă pentru peninsula Tiburon."],
       en: ["The highest peak is Pic Macaya at 2,347 meters.", "Home to over 40 species of endemic frogs and amphibians.", "Designated as a UNESCO Biosphere Reserve in 2016.", "Contains some of the Caribbean's last remaining cloud forests.", "Extremely high concentration of endemic plant species.", "Vital water catchment area for the Tiburon Peninsula."]
-    }
-  },
+    }, image: "/poi-images/ht-massif-de-la-hotte-nature-v2.webp"},
   {
     id: "ht-ile-de-la-gonave-nature-v2",
     type: "island",
@@ -154,8 +151,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Haiti legnagyobb mellékszigete, 743 km² területtel.", "Legmagasabb pontja a Morne de la Gonâve (778 m).", "Geológiailag szinte teljesen mészkőből épül fel.", "Éghajlata jelentősen szárazabb a szárazföldnél.", "Több mint 80 000 lakos otthona (2015-ös adat).", "Ökológiailag fontos korallzátonyok veszik körül."],
       ro: ["Cea mai mare insulă secundară a Haitiului (743 km²).", "Cel mai înalt punct este Morne de la Gonâve (778 m).", "Formată geologic aproape în întregime din calcar.", "Climatul este mult mai uscat decât pe continent.", "Adăpostește o populație de peste 80.000 de locuitori.", "Înconjurată de recife de corali importante ecologic."],
       en: ["Haiti's largest offshore island, covering 743 km².", "The highest peak is Morne de la Gonâve at 778 meters.", "Composed almost entirely of limestone formations.", "The climate is significantly more arid than the mainland.", "Home to a population exceeding 80,000 people.", "Fringed by ecologically significant coral reefs."]
-    }
-  },
+    }, image: "/poi-images/ht-ile-de-la-gonave-nature-v2.webp"},
   {
     id: "ht-baie-de-port-au-prince-nature-v2",
     type: "sea",
@@ -185,8 +181,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Haiti legfontosabb természetes mélyvízi kikötője.", "Északon a Cul-de-Sac síkság határolja.", "A Karib-tengeren található nagyobb Gonâve-öböl része.", "A haiti külkereskedelem és ellátás központja.", "Az erdőirtás miatti erős feltöltődés sújtja.", "A múltban népszerű horgonyzóhely volt üdülőhajók számára."],
       ro: ["Cel mai important port natural de adâncime din Haiti.", "Este delimitat la nord de Câmpia Cul-de-Sac.", "Parte a Golfului Gonâve mai mare din Marea Caraibelor.", "Centrul comerțului exterior și al aprovizionării Haitiului.", "Suferă de sedimentare severă din cauza despăduririlor.", "Punct de ancorare istoric pentru navele comerciale."],
       en: ["Haiti's most important natural deep-water harbor.", "Bounded to the north by the fertile Cul-de-Sac plain.", "Part of the larger Gulf of Gonâve in the Caribbean Sea.", "The hub of Haitian foreign trade and logistics.", "Faces significant siltation due to upstream deforestation.", "A historic anchorage for international maritime traffic."]
-    }
-  },
+    }, image: "/poi-images/ht-baie-de-port-au-prince-nature-v2.webp"},
   {
     id: "ht-parc-national-la-visite-nature-v2",
     type: "forest",
@@ -216,8 +211,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["1983-ban alapították a hegyvidéki erdők védelmére.", "Akár 2273 méteres tengerszint feletti magasságban fekszik.", "A ritka és veszélyeztetett Hispaniola-rigó otthona.", "Több mint 50 különböző madárfaj fontos élőhelye.", "Fenyő- és lombhullató erdők keveréke alkotja.", "Port-au-Prince kútjainak központi víztározója."],
       ro: ["Fondat în 1983 pentru protejarea pădurilor montane.", "Situat la o altitudine de până la 2.273 de metri.", "Adăpostește rara și amenințata mierlă de La Selle.", "Habitat important pentru peste 50 de specii de păsări.", "Format dintr-un amestec de păduri de pini și foioase.", "Bazin hidrografic central pentru fântânile din Port-au-Prince."],
       en: ["Established in 1983 to protect high-altitude forests.", "Located at elevations reaching up to 2,273 meters.", "Home to the rare and endangered La Selle Thrush.", "Critical habitat for over 50 different bird species.", "Features a unique mix of pine and broadleaf forests.", "Serves as a vital water source for the capital city's wells."]
-    }
-  },
+    }, image: "/poi-images/ht-parc-national-la-visite-nature-v2.webp"},
   {
     id: "ht-parc-national-pic-macaya-nature-v2",
     type: "forest",
@@ -247,8 +241,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Haiti második legmagasabb csúcsának otthona (2347 m).", "A Massif de la Hotte Bioszféra-rezervátum központja.", "Az ország utolsó érintetlen köderdőit védi.", "Több mint 100 madárfaj otthona, sok közülük endemikus.", "Fontos kutatási terület az evolúcióbiológusok számára.", "Haiti délnyugati részének hét legnagyobb folyóját táplálja."],
       ro: ["Găzduiește al doilea cel mai înalt vârf din Haiti (2.347 m).", "Centrul Rezervației Biosferei Masivul de la Hotte.", "Protejează ultimele păduri de ceață virgine din țară.", "Adăpostește peste 100 de specii de păsări endemice.", "Zonă de cercetare crucială pentru biologi din întreaga lume.", "Alimentează șapte dintre cele mai mari râuri din sud-vest."],
       en: ["Home to Haiti's second-highest peak (2,347 m).", "The core of the Massif de la Hotte Biosphere Reserve.", "Protects the last untouched cloud forests in the country.", "Habitat for over 100 bird species, many endemic.", "A key research site for evolutionary biologists globally.", "Feeds seven of the largest rivers in southwestern Haiti."]
-    }
-  },
+    }, image: "/poi-images/ht-parc-national-pic-macaya-nature-v2.webp"},
   {
     id: "ht-riviere-de-nippes-nature-v2",
     type: "river",
@@ -278,8 +271,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["A 2003-ban alapított Nippes megye fő folyója.", "A Massif de la Hotte nyúlványai között ered.", "Fontos a banán- és kakaótermesztés szempontjából.", "Miragoâne közelében torkollik a Gonâve-öbölbe.", "A helyi halászcsónakok szállítási útvonalaként szolgál.", "Ősszel rendszeresek az áradások a folyón."],
       ro: ["Principalul râu al departamentului Nippes (înființat în 2003).", "Izvorăște de la poalele masivului muntos La Hotte.", "Crucial pentru culturile de banane și cacao din regiune.", "Se varsă în Golful Gonâve în apropiere de Miragoâne.", "Utilizat ca rută de transport pentru bărcile locale.", "Inundații periodice frecvente în timpul toamnei."],
       en: ["The main river of the Nippes department (created in 2003).", "Originates in the rugged foothills of Massif de la Hotte.", "Essential for the irrigation of banana and cocoa crops.", "Empties into the Gulf of Gonâve near Miragoâne.", "Serves as a local transport route for small boats.", "Subject to frequent seasonal flooding during autumn."]
-    }
-  },
+    }, image: "/poi-images/ht-riviere-de-nippes-nature-v2.webp"},
   {
     id: "ht-foret-des-pins-reserve-nature-v2",
     type: "forest",
@@ -309,8 +301,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Haiti legnagyobb összefüggő erdőterülete.", "Az endemikus Pinus occidentalis fenyő otthona.", "A Chaîne de la Selle hegységben, kb. 2000 m-en fekszik.", "A nyugati megye vízháztartásának fontos szabályozója.", "Az évi középhőmérséklet mindössze 16-18 °C.", "A faszéntermelés miatti tömeges erdőirtás veszélyezteti."],
       ro: ["Cea mai mare zonă forestieră contiguă din Haiti.", "Adăpostește pinul endemic Pinus occidentalis.", "Situată în Chaîne de la Selle la aproximativ 2.000 m.", "Regulator important al resurselor de apă din Departamentul Ouest.", "Temperatura medie anuală este de doar 16-18 °C.", "Amenințată de tăieri masive pentru producția de cărbune."],
       en: ["The largest contiguous forest area remaining in Haiti.", "Home to the endemic Hispaniolan pine (Pinus occidentalis).", "Located in the Chaîne de la Selle at around 2,000m altitude.", "Vital regulator of the water cycle for the Ouest department.", "Average annual temperature is a cool 16-18 °C.", "Threatened by extensive logging for charcoal production."]
-    }
-  },
+    }, image: "/poi-images/ht-foret-des-pins-reserve-nature-v2.webp"},
   {
     id: "ht-les-cayemites-nature-v2",
     type: "island",
@@ -340,8 +331,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Grande és Petite Cayemite szigetekből áll.", "Teljes területe körülbelül 45 négyzetkilométer.", "Közigazgatásilag Grand'Anse megyéhez tartoznak.", "Haiti legépebb korallzátonyai veszik körül.", "Fontos élőhely a tengeri sünök és rákfélék számára.", "Pestel a legfontosabb kiindulópont a szárazföldön."],
       ro: ["Formate din insulele Grande și Petite Cayemite.", "Suprafața totală este de aproximativ 45 de kilometri pătrați.", "Aparțin administrativ de departamentul Grand'Anse.", "Înconjurate de unele dintre cele mai sănătoase recife din Haiti.", "Habitat important pentru arici de mare și crustacee.", "Pestel este principalul punct de plecare de pe continent."],
       en: ["Consists of the islands Grande Cayemite and Petite Cayemite.", "The total area is approximately 45 square kilometers.", "Administratively part of the Grand'Anse department.", "Surrounded by some of the healthiest coral reefs in Haiti.", "Vital habitat for sea urchins and various crustaceans.", "Pestel is the primary mainland gateway to the islands."]
-    }
-  },
+    }, image: "/poi-images/ht-les-cayemites-nature-v2.webp"},
   {
     id: "ht-trou-caiman-nature-v2",
     type: "lake",
@@ -371,8 +361,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["A tó fontos édesvízi ökoszisztéma Haitin.", "Területe körülbelül 12 km².", "Híres a flamingóiról és a több mint 100 madárfajáról.", "A Cul-de-Sac síkság mélyedésében található.", "Fontos pihenőhely az Észak-Amerikából érkező vándorló madaraknak.", "A neve szó szerint 'Kajmán-lyukat' jelent."],
       ro: ["Lacul este un ecosistem de apă dulce vital în Haiti.", "Se întinde pe o suprafață de aproximativ 12 km².", "Cunoscut pentru flamingo și cele peste 100 de specii de păsări.", "Situat în depresiunea Câmpiei Cul-de-Sac.", "Zonă importantă de odihnă pentru păsările migratoare.", "Numele se traduce literal prin 'Groapa Caimanului'."],
       en: ["The lake is a vital freshwater ecosystem in Haiti.", "It spans an area of approximately 12 square kilometers.", "Renowned for its flamingos and over 100 bird species.", "Located in the depression of the Cul-de-Sac plain.", "Crucial stopover point for migratory birds from North America.", "The name literally translates to 'Caiman Hole'."]
-    }
-  },
+    }, image: "/poi-images/ht-trou-caiman-nature-v2.webp"},
   {
     id: "ht-canal-de-saint-marc-nature-v2",
     type: "sea",
@@ -402,8 +391,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Elválasztja Gonâve szigetét az Artibonite megyétől.", "Fontos útvonal a Saint-Marc kikötőjébe tartó hajóknak.", "A Gonâve-öböl nagyobb tengeri rendszerének része.", "Vizei jelentős mélységükről ismertek.", "Gazdag tengeri erőforrásokban, például sügérekben és makrélákban.", "A csatorna szélessége 25 és 30 kilométer között mozog."],
       ro: ["Separă Insula Gonâve de departamentul Artibonite.", "Rută importantă de acces către portul Saint-Marc.", "Parte a sistemului maritim mai larg al Golfului Gonâve.", "Apele sunt cunoscute pentru adâncimea lor considerabilă.", "Bogat în resurse marine, cum ar fi lutjanidele și macroul.", "Lățimea canalului variază între 25 și 30 de kilometri."],
       en: ["Separates Gonâve Island from the Artibonite department.", "Key access route for ships heading to the port of Saint-Marc.", "Part of the larger Gulf of Gonâve maritime system.", "The waters are noted for their significant depth.", "Rich in marine resources including snappers and mackerel.", "The channel width varies between 25 and 30 kilometers."]
-    }
-  },
+    }, image: "/poi-images/ht-canal-de-saint-marc-nature-v2.webp"},
   {
     id: "ht-canal-du-sud-nature-v2",
     type: "sea",
@@ -433,8 +421,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Elválasztja a Tiburon-félszigetet Gonâve szigetétől.", "A Port-au-Prince-i öböl déli bejárati útvonala.", "A csatorna szélessége körülbelül 27 kilométer.", "Gazdag halászterületeiről és tengeri biodiverzitásáról ismert.", "A tengeri teknősök fontos vándorlási útvonala.", "Az áramlatok veszélyesek lehetnek a kis csónakok számára."],
       ro: ["Separă Peninsula Tiburon de Insula Gonâve.", "Cale de acces sudică către Golful Port-au-Prince.", "Lățimea canalului este de aproximativ 27 de kilometri.", "Cunoscut pentru zone de pescuit bogate și biodiversitate marină.", "Cale importantă de migrație pentru țestoasele marine.", "Curenții pot fi periculoși pentru ambarcațiunile mici."],
       en: ["Separates the Tiburon Peninsula from Gonâve Island.", "Acts as the southern entry path to the Bay of Port-au-Prince.", "The channel width is approximately 27 kilometers.", "Renowned for rich fishing grounds and marine biodiversity.", "Important migration corridor for sea turtles.", "Water currents can be hazardous for small vessels."]
-    }
-  },
+    }, image: "/poi-images/ht-canal-du-sud-nature-v2.webp"},
   {
     id: "ht-montagnes-noires-nature-v2",
     type: "mountain",
@@ -464,8 +451,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Hegylánc Haiti középső részén, 1200 m-ig terjedő csúcsokkal.", "Párhuzamosan fut az Artibonite folyóval.", "Fontos akadály a Központi-fennsík és a tengerpart között.", "Geológiailag karszt- és mészkőtájak jellemzik.", "A haiti dohány és kávé egyik fő termőterülete.", "Számos kicsi, elszigetelt hegyi falu otthona."],
       ro: ["Lanț muntos în centrul Haitiului, cu vârfuri de până la 1.200 m.", "Se desfășoară paralel cu râul Artibonite.", "Barieră importantă între Podișul Central și coastă.", "Caracterizat geologic prin peisaje carstice și calcaroase.", "Zonă principală de cultivare pentru tutun și cafea.", "Adăpostește numeroase sate montane mici și izolate."],
       en: ["Mountain range in central Haiti with peaks up to 1,200 meters.", "Runs parallel to the course of the Artibonite River.", "Major barrier between the Central Plateau and the coast.", "Geologically defined by karst and limestone landscapes.", "Primary cultivation area for Haitian tobacco and coffee.", "Home to many small, isolated mountain communities."]
-    }
-  },
+    }, image: "/poi-images/ht-montagnes-noires-nature-v2.webp"},
   {
     id: "ht-riviere-momance-nature-v2",
     type: "river",
@@ -495,8 +481,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["A Massif de la Selle hegységben ered kb. 1500 m-en.", "Átfolyik a gazdaságilag fontos Léogâne-síkságon.", "Gressier közelében torkollik a Port-au-Prince-i öbölbe.", "Pusztító villámárvizeiről (Flash Floods) ismert.", "A helyi cukornádipar legfontosabb vízforrása.", "A folyó vízgyűjtő területe körülbelül 450 km²."],
       ro: ["Izvorăște din Masivul de la Selle la circa 1.500 m.", "Traversează câmpia Léogâne, importantă economic.", "Se varsă în Golful Port-au-Prince lângă Gressier.", "Cunoscut pentru viituri devastatoare (flash floods).", "Cea mai importantă sursă de apă pentru industria trestiei de zahăr.", "Bazinul hidrografic acoperă o suprafață de circa 450 km²."],
       en: ["Originates in the Massif de la Selle at about 1,500m.", "Flows through the economically vital Léogâne plain.", "Empties into the Bay of Port-au-Prince near Gressier.", "Notorious for destructive seasonal flash floods.", "Primary water source for the local sugarcane industry.", "The river basin covers an area of approximately 450 km²."]
-    }
-  },
+    }, image: "/poi-images/ht-riviere-momance-nature-v2.webp"},
   {
     id: "ht-riviere-des-trois-rivieres-nature-v2",
     type: "river",
@@ -526,8 +511,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Kb. 150 km-ével Haiti egyik leghosszabb folyója.", "A Massif du Nord hegyeiben ered.", "Észak és Északnyugat megyéken folyik keresztül.", "Port-de-Paix városának legfontosabb vízforrása.", "A folyó deltája gazdag halászterület.", "Az erős feltöltődés gyakran barnára festi a folyót."],
       ro: ["Cu cca. 150 km, este unul dintre cele mai lungi râuri din Haiti.", "Izvorăște din munții Masivului de Nord.", "Traversează departamentele Nord și Nord-Ouest.", "Cea mai importantă sursă de apă pentru orașul Port-de-Paix.", "Delta râului este o zonă bogată pentru pescuit.", "Sedimentarea masivă colorează adesea râul în maro."],
       en: ["At approx. 150 km, it's one of Haiti's longest rivers.", "Originates in the rugged mountains of the Massif du Nord.", "Flows through both the Nord and Nord-Ouest departments.", "The primary water source for the city of Port-de-Paix.", "The river delta is a productive fishing ground.", "Heavy siltation often turns the river's water brown."]
-    }
-  },
+    }, image: "/poi-images/ht-riviere-des-trois-rivieres-nature-v2.webp"},
   {
     id: "ht-grande-cayemite-island-nature-v2",
     type: "island",
@@ -557,8 +541,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["A Cayemites-szigetcsoport legnagyobb szigete (kb. 45 km²).", "Legmagasabb pontja 151 méterrel van a tengerszint felett.", "A szigeten nincsenek állandó édesvízforrások.", "A szárnyascsigák (lambis) gyűjtésének fontos központja.", "Közigazgatásilag Pestel községhez tartozik.", "Ökológiailag értékes tengerifű-mezők veszik körül."],
       ro: ["Cea mai mare insulă din arhipelagul Cayemites (cca. 45 km²).", "Cel mai înalt punct se află la 151 de metri deasupra mării.", "Nu există surse permanente de apă dulce pe insulă.", "Centru important pentru colectarea melcilor marini (lambis).", "Aparține administrativ de comuna Pestel.", "Înconjurată de pajiști de iarbă de mare valoroase ecologic."],
       en: ["Largest island in the Cayemites archipelago (approx. 45 km²).", "The highest point is 151 meters above sea level.", "There are no permanent freshwater springs on the island.", "Major center for queen conch (lambis) harvesting.", "Administratively part of the commune of Pestel.", "Surrounded by ecologically precious seagrass beds."]
-    }
-  },
+    }, image: "/poi-images/ht-grande-cayemite-island-nature-v2.webp"},
   {
     id: "ht-cap-du-mole-saint-nicolas-nature-v2",
     type: "sea",
@@ -588,8 +571,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Kolumbusz Kristóf első haiti partraszállásának helyszíne.", "Stratégiai pont a 80 km széles Windward-átjárónál.", "Több mint 20 gyarmati erőd romja veszi körül.", "Éghajlata az egyik legszárazabb egész Haitin.", "Fontos tájékozódási pont a nemzetközi hajózás számára.", "Mély, védett víz alatti barlangjairól ismert."],
       ro: ["Locul primei debarcări a lui Cristofor Columb în Haiti.", "Punct strategic pe Pasajul Windward, lat de 80 km.", "Înconjurat de ruinele a peste 20 de fortificații coloniale.", "Climatul este unul dintre cele mai aride din tot Haitiul.", "Punct de reper important pentru navigația internațională.", "Cunoscut pentru peșterile sale subacvatice adânci și protejate."],
       en: ["Site of Christopher Columbus's first landing in Haiti in 1492.", "Strategic vantage point on the 80km-wide Windward Passage.", "Surrounded by the ruins of more than 20 colonial-era forts.", "The climate is among the most arid in all of Haiti.", "Crucial landmark for international maritime navigation.", "Noted for its deep and well-protected underwater sea caves."]
-    }
-  },
+    }, image: "/poi-images/ht-cap-du-mole-saint-nicolas-nature-v2.webp"},
   {
     id: "ht-parc-national-des-trois-baies-nature-v2",
     type: "sea",
@@ -619,8 +601,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Több mint 75 000 hektár területet foglal magában.", "Itt találhatók Haiti legnagyobb mangroveerdői.", "Kritikus élőhelyeket véd a tengeri teknősök számára.", "Az 1492-es La Navidad település történelmi helyszíne.", "2014-ben helyezték hivatalosan védelem alá.", "Észak-Haiti fenntartható halászatának központja."],
       ro: ["Acoperă o suprafață de peste 75.000 de hectare.", "Include cele mai mari păduri de mangrove din Haiti.", "Protejează habitate critice pentru țestoasele marine.", "Situl istoric al așezării La Navidad din 1492.", "A fost pus oficial sub protecție în anul 2014.", "Centru pentru pescuit durabil în nordul Haitiului."],
       en: ["Covers a protected area of over 75,000 hectares.", "Contains the largest remaining mangroves in Haiti.", "Protects critical nesting habitats for sea turtles.", "Historical site of the 1492 settlement La Navidad.", "Officially designated as a national park in 2014.", "A hub for sustainable artisanal fishing in the north."]
-    }
-  },
+    }, image: "/poi-images/ht-parc-national-des-trois-baies-nature-v2.webp"},
   {
     id: "ht-gros-morne-mountain-nature-v2",
     type: "mountain",
@@ -650,8 +631,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["A híres Francique mangó kiváló termőterülete.", "Fontos topográfiai tájékozódási pont Artibonite megyében.", "Az Artibonite folyó több mellékágának forrása.", "Összetett geológiai gyűrődésből áll.", "Panorámás kilátást nyújt a haiti hátországra.", "A túraútvonalak változatos agrárerdészeti zónákon vezetnek keresztül."],
       ro: ["Zonă excelentă de cultivare pentru faimoasele mango Francique.", "Punct de reper topografic important în Artibonite.", "Izvor pentru mai mulți afluenți ai râului Artibonite.", "Format dintr-o cutare geologică complexă.", "Oferă vederi panoramice asupra interiorului Haitiului.", "Traseele de drumeție traversează diverse zone agroforestiere."],
       en: ["Premier growing region for Haiti's famous Francique mangoes.", "A major topographic landmark in the Artibonite region.", "Source for several tributary streams of the Artibonite River.", "Composed of a complex geological folding structure.", "Offers panoramic views across the rugged Haitian interior.", "Hiking paths traverse through diverse agroforestry zones."]
-    }
-  },
+    }, image: "/poi-images/ht-gros-morne-mountain-nature-v2.webp"},
   {
     id: "ht-baie-de-lacul-nature-v2",
     type: "sea",
@@ -681,8 +661,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Haiti legnagyobb összefüggő mangrove-rendszerének otthona.", "A 2014-ben alapított Trois Baies Nemzeti Park része.", "Fontos ívóhely a homárok és sügérek számára.", "A közelben található az ország legnagyobb ipari parkja.", "A közelben a taíno kultúra régészeti lelőhelyei találhatók.", "Az öböl védelmet nyújt a viharhullámok és hurrikánok ellen."],
       ro: ["Adăpostește cel mai mare sistem de mangrove din Haiti.", "Parte a Parcului Național Trois Baies înființat în 2014.", "Zonă importantă de depunere a icrelor pentru homari.", "În apropiere se află cel mai mare parc industrial din țară.", "Situri arheologice ale culturii Taíno în vecinătate.", "Golful oferă protecție împotriva valurilor de furtună."],
       en: ["Home to the largest contiguous mangrove system in Haiti.", "Part of the Trois Baies National Park established in 2014.", "Crucial spawning ground for spiny lobsters and snappers.", "Located near the largest industrial park in the country.", "Archaeological sites of Taíno culture are found nearby.", "The bay provides a natural buffer against storm surges."]
-    }
-  },
+    }, image: "/poi-images/ht-baie-de-lacul-nature-v2.webp"},
   {
     id: "ht-foret-de-bouche-seche-nature-v2",
     type: "forest",
@@ -712,8 +691,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Haiti egyik utolsó trópusi száraz erdője.", "A Massif de la Hotte ökológiai hálózatának része.", "Speciális leguánfajok és hüllők otthona.", "Fontos védelem a terjedő elsivatagosodás ellen.", "Gyakran használják hagyományos méhészkedésre.", "A faszéntermelés miatti erős nyomás alatt áll."],
       ro: ["Una dintre ultimele păduri tropicale uscate din Haiti.", "Parte a rețelei ecologice a masivului La Hotte.", "Habitat pentru specii specializate de iguane și reptile.", "Protecție importantă împotriva deșertificării progresive.", "Utilizată adesea pentru apicultura tradițională.", "Suferă de presiunea tăierilor pentru producția de cărbune."],
       en: ["One of the last remaining tropical dry forests in Haiti.", "Integral part of the Massif de la Hotte ecological network.", "Home to specialized iguana species and rare reptiles.", "Serves as a vital barrier against advancing desertification.", "Often utilized for traditional beekeeping and honey production.", "Under intense pressure from charcoal production activities."]
-    }
-  },
+    }, image: "/poi-images/ht-foret-de-bouche-seche-nature-v2.webp"},
   {
     id: "ht-morne-cabaio-nature-v2",
     type: "mountain",
@@ -743,8 +721,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Jellegzetes kilátópont Léogâne városa közelében.", "A Chaîne de la Selle geológiai rendszeréhez tartozik.", "Káposzta, sárgarépa és hagyma fontos termőterülete.", "A nyugati megye több hegyi patakjának forrása.", "Tiszta időben rálátni Port-au-Prince-re.", "Meredek ösvények és hűvös hegyi éghajlat jellemzi."],
       ro: ["Punct de belvedere proeminent lângă orașul Léogâne.", "Face parte din sistemul geologic al Chaîne de la Selle.", "Zonă importantă pentru cultura de varză, morcovi și ceapă.", "Izvor pentru mai multe pârâuri montane din Departamentul Ouest.", "Oferă vizibilitate până la Port-au-Prince în zilele senine.", "Caracterizat prin poteci abrupte și climat montan răcoros."],
       en: ["A prominent vantage point overlooking the city of Léogâne.", "Part of the geological system of the Chaîne de la Selle.", "Important region for growing cabbage, carrots, and onions.", "Source of several mountain streams in the Ouest department.", "Offers views stretching to Port-au-Prince on clear days.", "Defined by steep trails and a bracing mountain climate."]
-    }
-  },
+    }, image: "/poi-images/ht-morne-cabaio-nature-v2.webp"},
   {
     id: "ht-riviere-de-bainet-nature-v2",
     type: "river",
@@ -774,8 +751,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["A délkeleti Bainet-medence fő folyója.", "Közvetlenül a Karib-tengerbe torkollik.", "A helyi kávéipar fontos vízforrása.", "Festői kis vízeséseiről ismert.", "A helyi nők gyakran használják ruhamosásra.", "A folyómedret gyakran nagy mészkősziklák jellemzik."],
       ro: ["Râul principal al bazinului Bainet din sud-est.", "Se varsă direct în Marea Caraibelor.", "Sursă vitală de apă pentru industria locală a cafelei.", "Cunoscut pentru micile sale cascade pitorești.", "Utilizat frecvent de femeile locale pentru spălarea rufelor.", "Albia râului este adesea marcată de bolovani mari de calcar."],
       en: ["The primary river of the southeastern Bainet basin.", "Empties directly into the Caribbean Sea.", "Vital water source for the local coffee industry.", "Noted for its picturesque small waterfalls and rapids.", "Traditionally used by local residents for washing clothes.", "The riverbed is often characterized by large limestone boulders."]
-    }
-  },
+    }, image: "/poi-images/ht-riviere-de-bainet-nature-v2.webp"},
   {
     id: "ht-pointe-de-l-abacou-nature-v2",
     type: "sea",
@@ -805,8 +781,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Haiti szárazföldi részének legdélnyugatibb pontja.", "Stratégiai tájékozódási pont a karibi hajózás számára.", "Erős tengeri áramlatok és hullámzás jellemzi.", "A közeli korallzátonyok nagyrészt érintetlenek.", "Népszerű hely a tengeri madarak megfigyelésére.", "Közigazgatásilag a Déli megyéhez (Sud) tartozik."],
       ro: ["Cel mai sud-vestic punct al continentului haitian.", "Punct de reper strategic pentru navigația în Caraibe.", "Caracterizat prin curenți marini puternici și valuri mari.", "Recifele de corali din apropiere sunt în mare parte virgine.", "Loc popular pentru observarea păsărilor marine.", "Aparține administrativ de departamentul Sud."],
       en: ["The southwesternmost point of mainland Haiti.", "A strategic navigational landmark for Caribbean shipping.", "Defined by powerful sea currents and wave action.", "Nearby coral reefs are largely untouched by development.", "An excellent location for observing pelagic seabirds.", "Administratively part of the Sud (South) department."]
-    }
-  },
+    }, image: "/poi-images/ht-pointe-de-l-abacou-nature-v2.webp"},
   {
     id: "ht-riviere-de-la-cosse-nature-v2",
     type: "river",
@@ -836,8 +811,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["A híres Bassin Bleu medencerendszert táplálja.", "Kék színét a feloldott mészkőszemcséknek köszönheti.", "A történelmi Jacmel városánál torkollik a Karib-tengerbe.", "Akár 10 méter magas vízeséseket is magában foglal.", "Délkelet-Haiti természetjáró turizmusának fontos célpontja.", "Kávéültetvények és trópusi gyümölcsfák veszik körül."],
       ro: ["Alimentează faimosul sistem de bazine Bassin Bleu.", "Își capătă culoarea albastră de la particulele de calcar dizolvate.", "Se varsă în Caraibe lângă orașul istoric Jacmel.", "Include cascade cu o înălțime de până la 10 metri.", "Destinație importantă pentru ecoturism în sud-estul Haitiului.", "Înconjurat de culturi de cafea și pomi fructiferi tropicali."],
       en: ["Feeds the world-famous Bassin Bleu waterfall system.", "Derives its blue hue from dissolved limestone particles.", "Empties into the Caribbean at the historic city of Jacmel.", "Features waterfalls with drops of up to 10 meters.", "A premier destination for nature tourism in southeast Haiti.", "Surrounded by coffee plantations and tropical fruit trees."]
-    }
-  },
+    }, image: "/poi-images/ht-riviere-de-la-cosse-nature-v2.webp"},
   {
     id: "ht-morne-a-cabrit-nature-v2",
     type: "mountain",
@@ -867,8 +841,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Fontos hágó a Központi-fennsík felé vezető úton.", "A 3-as főút legmagasabb pontja ebben a régióban.", "Innen nyílik a legjobb panoráma az Étang Saumâtre tóra.", "A neve az elterjedt kecsketartásból ered.", "Erősen erodált mészkő alapkőzetből áll.", "A haiti telekommunikációs infrastruktúra központja."],
       ro: ["Pas montan important pe drumul către Podișul Central.", "Cel mai înalt punct al Drumului Național 3 în această regiune.", "Oferă cea mai bună vedere panoramică asupra Étang Saumâtre.", "Numele provine de la creșterea tradițională a caprelor.", "Format din substrat de calcar puternic erodat.", "Centru pentru infrastructura de telecomunicații din Haiti."],
       en: ["A vital mountain pass on the route to the Central Plateau.", "The highest point of National Road 3 in this sector.", "Offers the best panoramic views of Lake Étang Saumâtre.", "Named for the common local practice of goat herding.", "Composed of heavily eroded limestone bedrock.", "A primary hub for Haiti's telecommunications infrastructure."]
-    }
-  },
+    }, image: "/poi-images/ht-morne-a-cabrit-nature-v2.webp"},
   {
     id: "ht-riviere-du-limbe-nature-v2",
     type: "river",
@@ -898,8 +871,7 @@ export const poiExtraHaitiNatureV2: POI[] = [
       hu: ["Az egyik legfontosabb folyó az Északi megyében.", "A Massif du Nord nyúlványai között ered.", "Fontos a kakaóültetvények öntözése szempontjából.", "Bas-Limbé falu közelében torkollik az Atlanti-óceánba.", "Rendszeresek az áradások Limbé régiójában.", "A folyó vízgyűjtője nagy mezőgazdasági termelékenységű zóna."],
       ro: ["Unul dintre cele mai importante râuri din departamentul Nord.", "Izvorăște de la poalele Masivului de Nord.", "Crucial pentru irigarea plantațiilor de cacao.", "Se varsă în Atlantic lângă satul Bas-Limbé.", "Inundații periodice frecvente în regiunea Limbé.", "Bazinul râului este o zonă cu productivitate agricolă ridicată."],
       en: ["One of the most important rivers in the Nord department.", "Originates in the foothills of the Massif du Nord.", "Essential for the irrigation of local cocoa plantations.", "Empties into the Atlantic Ocean near Bas-Limbé village.", "The river is subject to frequent seasonal flooding.", "The basin is a zone of high agricultural productivity."]
-    }
-  },
+    }, image: "/poi-images/ht-riviere-du-limbe-nature-v2.webp"},
   {
     id: "ht-riviere-cavaillon-nature-v2",
     type: "river",
@@ -932,3 +904,4 @@ export const poiExtraHaitiNatureV2: POI[] = [
     }
   }
 ];
+

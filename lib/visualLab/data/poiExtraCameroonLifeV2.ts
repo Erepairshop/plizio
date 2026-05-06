@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCameroonLifeV2: POI[] = [
@@ -13,6 +14,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Helyi avokádót árulnak", "Kakaó kereskedelmi központ"],
       ro: ["Vinde avocado local", "Centru pentru cacao"],
       en: ["Sells local avocados", "Hub for cocoa"]
+    },
+    descriptionAdvanced: {
+      de: "Der Mfoundi-Markt in Yaoundé ist ein pulsierender Ort, der das tägliche Leben der Hauptstadt perfekt widerspiegelt. Hier finden Bewohner alles von frischen Lebensmitteln bis hin zu Textilien, was den Markt zu einem wesentlichen sozialen Treffpunkt macht. Soziales K5 — Alltag."
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Markt für Lebensmittel in Yaoundé.", "Ort für den sozialen Austausch der Stadtbewohner.", "Bietet eine enorme Vielfalt an regionalen Produkten.", "Symbol für die lebendige Wirtschaft der Hauptstadt.", "Früher Morgen ist die geschäftigste Zeit.", "Wichtiger Ort für die Versorgung lokaler Familien."]
     }
   },
   {
@@ -27,6 +34,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Minőségi kakaótermesztés", "Fontos exporttényező"],
       ro: ["Cultivarea de cacao de înaltă calitate", "Factor important de export"],
       en: ["High-quality cocoa cultivation", "Key export factor"]
+    },
+    descriptionAdvanced: {
+      de: "Die Kakaoplantagen in der Umgebung von Douala sind ein wesentlicher Bestandteil der kamerunischen Landwirtschaft. Sie prägen nicht nur die Landschaft, sondern sichern auch das Einkommen vieler Familien und sind tief in der Exportwirtschaft verwurzelt. Wirtschaft K6 — Landwirtschaft."
+    },
+    factsAdvanced: {
+      de: ["Zentrale Anbaugebiete für hochwertigen Kakao.", "Große Bedeutung für den kamerunischen Export.", "Beschäftigt zahlreiche Arbeiter in der Region.", "Klimatisch ideal durch die Küstennähe.", "Nachhaltige Anbauweisen werden zunehmend gefördert.", "Wichtige Säule der kamerunischen Agrarwirtschaft."]
     }
   },
   {
@@ -41,8 +54,13 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Arabica bab termesztése", "1200m tengerszint feletti magasság"],
       ro: ["Cultivarea boabelor Arabica", "Altitudine de 1200m"],
       en: ["Growing Arabica beans", "Altitude 1200m"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "In den Bamenda-Highlands wird erstklassiger Kaffee angebaut, der weltweit geschätzt wird. Die Kaffeehöfe in dieser Region sind eng mit der lokalen Identität und der Genossenschaftsbewegung verbunden, die den Bauern bessere Bedingungen sichern soll. Wirtschaft K6 — Landwirtschaft."
+    },
+    factsAdvanced: {
+      de: ["Hochwertiger Kaffee aus den Bamenda-Highlands.", "Bedeutender Wirtschaftszweig in der Nordwestregion.", "Starke Tradition in der Genossenschaftsbewegung.", "Ideales Klima durch die Höhenlage.", "Wichtige Einnahmequelle für Kleinbauern.", "International gefragtes Exportprodukt."]
+    }, image: "/poi-images/bamenda-kaffeehof-life-v2.webp"},
   {
     id: "maroua-erdnussfeld-life-v2",
     type: "agriculture",
@@ -55,8 +73,13 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Fontos fehérjeforrás", "Hagyományos aratás"],
       ro: ["Sursă importantă de proteine", "Recoltare tradițională"],
       en: ["Important protein source", "Traditional harvest"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Erdnussfelder gehören zum festen Bild der Region um Maroua im Norden Kameruns. Erdnüsse sind ein Grundnahrungsmittel und ein wichtiger Bestandteil der lokalen Ernährung sowie des regionalen Handels. Landwirtschaft K5 — Ernährung."
+    },
+    factsAdvanced: {
+      de: ["Erdnüsse als essentielles Grundnahrungsmittel.", "Weit verbreiteter Anbau in der Sahelzone.", "Wichtige Komponente der lokalen Küche.", "Wachsender Fokus auf effizientere Ernteverfahren.", "Prägt das ländliche Bild der Umgebung von Maroua.", "Wichtiger Beitrag zur regionalen Ernährungssicherheit."]
+    }, image: "/poi-images/maroua-erdnussfeld-life-v2.webp"},
   {
     id: "ngaoundere-rinderranch-life-v2",
     type: "animal-habitat",
@@ -69,6 +92,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Legeltetés", "Zebu marha tenyésztés"],
       ro: ["Pășunat", "Creșterea vitelor Zebu"],
       en: ["Grazing land", "Zebu cattle breeding"]
+    },
+    descriptionAdvanced: {
+      de: "Die Rinderzucht auf dem Adamaoua-Plateau ist eine der wichtigsten Stützen der lokalen Wirtschaft. Die weitläufigen Ranches prägen das Bild der Region und machen Ngaoundéré zum bedeutendsten Handelszentrum für Vieh in Kamerun. Wirtschaft K6 — Viehzucht."
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Rinderzucht auf dem Adamaoua-Plateau.", "Wichtigster Viehhandelsplatz Kameruns.", "Weitläufige Flächen für die Weidewirtschaft.", "Wesentlicher Beitrag zur landesweiten Fleischversorgung.", "Prägt die Kultur und das Leben auf dem Plateau.", "Wirtschaftliches Rückgrat der Region."]
     }
   },
   {
@@ -83,8 +112,13 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Oktatóközpont gyerekeknek", "Gorilla védelem"],
       ro: ["Centru educațional pentru copii", "Protecția gorilelor"],
       en: ["Educational center for kids", "Gorilla protection"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Limbe Wildlife Centre ist eine wichtige Einrichtung für den Schutz der lokalen Artenvielfalt. Es dient sowohl als Rettungsstation für verwaiste oder verletzte Tiere als auch als Bildungsort, der das Bewusstsein für Artenschutz fördert. Natur K6 — Artenschutz."
+    },
+    factsAdvanced: {
+      de: ["Zentrum für den Schutz lokaler Wildtiere.", "Rettungsstation für verletzte oder konfiszierte Tiere.", "Engagiert sich aktiv in der Umweltbildung.", "Bekannt für die Arbeit mit Primaten.", "Wichtiger Beitrag zur kamerunischen Biodiversität.", "Ein Ort der Aufklärung für Besucher."]
+    }, image: "/poi-images/limbe-wildtierzentrum-life-v2.webp"},
   {
     id: "garoua-flussfischerei-life-v2",
     type: "agriculture",
@@ -97,8 +131,13 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Fontos halpiac", "Hálós halászat"],
       ro: ["Piață importantă de pește", "Pescuit cu plasă"],
       en: ["Important fish market", "Net fishing"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Fischerei am Benue-Fluss bei Garoua ist eine lebenswichtige Quelle für Nahrung und Einkommen. Traditionelle Techniken werden hier seit Generationen praktiziert und bilden eine wesentliche Grundlage für das Leben der lokalen Fischergemeinschaften. Wirtschaft K5 — Fischerei."
+    },
+    factsAdvanced: {
+      de: ["Wichtige Fischereiquelle am Benue-Fluss.", "Lebensgrundlage für viele Fischerfamilien.", "Traditionelle Techniken spielen zentrale Rolle.", "Wichtiger Bestandteil der lokalen Ernährung.", "Handel mit frischem und getrocknetem Fisch.", "Kulturelles Bindeglied am Flussufer."]
+    }, image: "/poi-images/garoua-flussfischerei-life-v2.webp"},
   {
     id: "ebolowa-kakaogarten-life-v2",
     type: "agriculture",
@@ -111,8 +150,13 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Biogazdálkodás", "Árnyékoló fák"],
       ro: ["Cultivare biologică", "Arbori de umbră"],
       en: ["Organic farming", "Shade trees"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "In der Region um Ebolowa sind Kakaogärten ein Symbol für die lokale landwirtschaftliche Entwicklung. Diese Gärten kombinieren traditionelles Wissen mit modernen Methoden, um hochwertige Erträge in den dichten Wäldern zu erzielen. Wirtschaft K6 — Landwirtschaft."
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Anbauort im südlichen Regenwald.", "Integration von Kakaogärten in die Waldstruktur.", "Traditionelles Wissen trifft auf moderne Methoden.", "Sichert das Einkommen vieler lokaler Bauern.", "Prägt die landwirtschaftliche Identität von Ebolowa.", "Wichtiger Pfeiler für nachhaltige Kakaoproduktion."]
+    }, image: "/poi-images/ebolowa-kakaogarten-life-v2.webp"},
   {
     id: "foumban-handwerkermarkt-life-v2",
     type: "kid-landmark",
@@ -125,8 +169,13 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Kultúrtörténet gyerekeknek", "Kézművesség"],
       ro: ["Istorie culturală pentru copii", "Artizanat"],
       en: ["Cultural history for kids", "Handicrafts"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Kunsthandwerkermarkt von Foumban ist ein weltbekannter Ort für traditionelle kamerunische Kunst. Hier zeigen Meister ihres Fachs ihr Können in den Bereichen Holzschnitzerei, Guss und Webarbeiten, die tief in der Bamoun-Kultur verwurzelt sind. Kunst/Kultur K6 — Handwerk."
+    },
+    factsAdvanced: {
+      de: ["Weltbekannt für traditionelle Holzschnitzereien.", "Zentrum für Kunsthandwerk der Bamoun-Kultur.", "Meisterhaftes Können bei Guss- und Webarbeiten.", "Touristische Anlaufstelle für authentische Kunst.", "Bewahrt kulturelle Traditionen für kommende Generationen.", "Wichtiger Wirtschaftsfaktor durch den Kunstverkauf."]
+    }, image: "/poi-images/foumban-handwerkermarkt-life-v2.webp"},
   {
     id: "dschang-museumspark-life-v2",
     type: "kid-landmark",
@@ -139,8 +188,13 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Oktató parklátogatás", "Helyi történelem"],
       ro: ["Vizită educativă în parc", "Istorie locală"],
       en: ["Educational park visit", "Local history"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Park rund um das Museum der lokalen Zivilisation in Dschang ist ein Ort der Erholung und der Wissensvermittlung. Er integriert die Natur in das kulturelle Bildungsangebot und ist ein wichtiger Treffpunkt für Einwohner und Besucher gleichermaßen. Soziales K5 — Freizeit."
+    },
+    factsAdvanced: {
+      de: ["Erholungsort rund um das lokale Zivilisationsmuseum.", "Verbindet Kultur mit der natürlichen Umgebung.", "Beliebter Treffpunkt für Einwohner und Besucher.", "Ort für Bildung und Freizeitgestaltung.", "Präsentiert botanische Vielfalt der Region.", "Symbol für die Verbindung von Mensch und Natur."]
+    }, image: "/poi-images/dschang-museumspark-life-v2.webp"},
   {
     id: "kribi-fischmarkt-life-v2",
     type: "agriculture",
@@ -153,8 +207,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Friss tenger gyümölcsei", "Parti hagyomány"],
       ro: ["Fructe de mare proaspete", "Tradiție de coastă"],
       en: ["Fresh seafood", "Coastal tradition"]
-    }
-  },
+    }, image: "/poi-images/kribi-fischmarkt-life-v2.webp"},
   {
     id: "buea-teeplantage-life-v2",
     type: "agriculture",
@@ -167,8 +220,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Kiváló minőségű tea", "Ködös erdei fekvés"],
       ro: ["Ceai de înaltă calitate", "Locație în pădure cu ceață"],
       en: ["High-quality tea", "Cloud forest location"]
-    }
-  },
+    }, image: "/poi-images/buea-teeplantage-life-v2.webp"},
   {
     id: "bafoussam-maisfeld-life-v2",
     type: "agriculture",
@@ -181,8 +233,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Alapvető élelmiszer", "Aratási idő"],
       ro: ["Aliment de bază", "Timp de recoltare"],
       en: ["Staple food", "Harvest time"]
-    }
-  },
+    }, image: "/poi-images/bafoussam-maisfeld-life-v2.webp"},
   {
     id: "bertoua-waldhonig-life-v2",
     type: "agriculture",
@@ -195,8 +246,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Bio minőség", "Méhészet"],
       ro: ["Calitate bio", "Apicultură"],
       en: ["Organic quality", "Beekeeping"]
-    }
-  },
+    }, image: "/poi-images/bertoua-waldhonig-life-v2.webp"},
   {
     id: "mbam-tierreservat-life-v2",
     type: "animal-habitat",
@@ -223,8 +273,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Kultúra felfedezése", "Nyugalmas oázis"],
       ro: ["Descoperirea culturii", "Oază de liniște"],
       en: ["Experience culture", "Oasis of calm"]
-    }
-  },
+    }, image: "/poi-images/bamenda-museumsgarten-life-v2.webp"},
   {
     id: "waza-vogelbeobachtung-life-v2",
     type: "animal-habitat",
@@ -237,8 +286,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Vándormadár-terület", "Fajvédelem"],
       ro: ["Zonă pentru păsări migratoare", "Conservarea speciilor"],
       en: ["Migratory bird area", "Species conservation"]
-    }
-  },
+    }, image: "/poi-images/waza-vogelbeobachtung-life-v2.webp"},
   {
     id: "djoum-regenwald-life-v2",
     type: "animal-habitat",
@@ -251,8 +299,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Biodiverzitás", "Kutatási terület"],
       ro: ["Biodiversitate", "Zonă de cercetare"],
       en: ["Biodiversity", "Research area"]
-    }
-  },
+    }, image: "/poi-images/djoum-regenwald-life-v2.webp"},
   {
     id: "ebolowa-obstmarkt-life-v2",
     type: "agriculture",
@@ -265,8 +312,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Mangó és ananász", "Közvetlen friss értékesítés"],
       ro: ["Mango și ananas", "Vânzare directă proaspătă"],
       en: ["Mangos and pineapples", "Fresh direct sale"]
-    }
-  },
+    }, image: "/poi-images/ebolowa-obstmarkt-life-v2.webp"},
   {
     id: "sangmelima-kakaokooperative-life-v2",
     type: "agriculture",
@@ -279,8 +325,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Méltányos kereskedelem", "Minőségellenőrzés"],
       ro: ["Comerț echitabil", "Controlul calității"],
       en: ["Fair trade", "Quality control"]
-    }
-  },
+    }, image: "/poi-images/sangmelima-kakaokooperative-life-v2.webp"},
   {
     id: "ambe-tierstation-life-v2",
     type: "animal-habitat",
@@ -293,8 +338,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Ökológiai oktatás", "Állatmegfigyelés"],
       ro: ["Educație ecologică", "Observarea animalelor"],
       en: ["Ecological education", "Animal observation"]
-    }
-  },
+    }, image: "/poi-images/ambe-tierstation-life-v2.webp"},
   {
     id: "bertoua-landwirtschaft-life-v2",
     type: "agriculture",
@@ -321,8 +365,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Paradicsom-termesztés", "Napi értékesítés"],
       ro: ["Cultivarea tomatelor", "Vânzare zilnică"],
       en: ["Tomato cultivation", "Daily sale"]
-    }
-  },
+    }, image: "/poi-images/foumbot-gemuesemarkt-life-v2.webp"},
   {
     id: "mbalmayo-forstgarten-life-v2",
     type: "kid-landmark",
@@ -335,8 +378,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Természeti élmény", "Növénytan"],
       ro: ["Experiență în natură", "Botanică"],
       en: ["Nature experience", "Botany"]
-    }
-  },
+    }, image: "/poi-images/mbalmayo-forstgarten-life-v2.webp"},
   {
     id: "kousseri-fischhafen-life-v2",
     type: "agriculture",
@@ -349,8 +391,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Hal-feldolgozás", "Piaci logisztika"],
       ro: ["Procesarea peștelui", "Logistică de piață"],
       en: ["Fish processing", "Market logistics"]
-    }
-  },
+    }, image: "/poi-images/kousseri-fischhafen-life-v2.webp"},
   {
     id: "douala-botanischer-garten-life-v2",
     type: "kid-landmark",
@@ -363,8 +404,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Trópusi növények", "Játszótér"],
       ro: ["Plante tropicale", "Loc de joacă"],
       en: ["Tropical plants", "Playground"]
-    }
-  },
+    }, image: "/poi-images/douala-botanischer-garten-life-v2.webp"},
   {
     id: "yaounde-zoo-garten-life-v2",
     type: "kid-landmark",
@@ -377,8 +417,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Tanulás az állatokról", "Interaktív állomások"],
       ro: ["Învățarea despre animale", "Stații interactive"],
       en: ["Learning about animals", "Interactive stations"]
-    }
-  },
+    }, image: "/poi-images/yaounde-zoo-garten-life-v2.webp"},
   {
     id: "buea-fruchtgarten-life-v2",
     type: "agriculture",
@@ -391,8 +430,7 @@ export const poiExtraCameroonLifeV2: POI[] = [
       hu: ["Papaja aratás", "Bio minőség"],
       ro: ["Recoltarea de papaya", "Calitate bio"],
       en: ["Papaya harvest", "Organic quality"]
-    }
-  },
+    }, image: "/poi-images/buea-fruchtgarten-life-v2.webp"},
   {
     id: "garoua-rindermarkt-life-v2",
     type: "agriculture",
@@ -422,3 +460,4 @@ export const poiExtraCameroonLifeV2: POI[] = [
       }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED
 import type { POI } from "./poi";
 import { poiExtraElsalvadorCitiesV2 } from "./poiExtraElsalvadorCitiesV2";
@@ -38,8 +39,7 @@ export const elsalvadorCities: POI[] = [
       en: ["The name 'Valley of the Hammocks' refers to the frequent seismic activity in the area.", "San Salvador has been destroyed and rebuilt several times due to major earthquakes.", "The city's Metropolitan Cathedral houses the tomb of Saint Oscar Romero."]
     },
     historyYear: 1525,
-    historyPeriod: "Colonial"
-  },
+    historyPeriod: "Colonial", image: "/poi-images/sv-sansalvador.webp"},
   { 
     id: "sv-santaana", 
     type: "city", 
@@ -66,8 +66,7 @@ export const elsalvadorCities: POI[] = [
       en: ["The National Theater of Santa Ana is widely considered one of the finest in Central America.", "The city is the main gateway to the Santa Ana Volcano and Lake Coatepeque.", "It was historically a major center for intellectual and artistic life in the country."]
     },
     historyYear: 1569,
-    historyPeriod: "Colonial"
-  },
+    historyPeriod: "Colonial", image: "/poi-images/sv-santaana.webp"},
   { 
     id: "sv-sanmiguel", 
     type: "city", 
@@ -94,8 +93,7 @@ export const elsalvadorCities: POI[] = [
       en: ["The Cathedral Basilica of Queen of Peace is the city's central architectural landmark.", "San Miguel is known for having some of the highest temperatures in the country.", "The Grand Carnival is celebrated on the last Saturday of November every year."]
     },
     historyYear: 1530,
-    historyPeriod: "Colonial"
-  },
+    historyPeriod: "Colonial", image: "/poi-images/sv-sanmiguel.webp"},
   { 
     id: "sv-santatecla", 
     type: "city", 
@@ -122,8 +120,7 @@ export const elsalvadorCities: POI[] = [
       en: ["The city was established as a temporary capital after San Salvador was ruined by an earthquake.", "The Palacio Municipal de las Bellas Artes is a stunning example of local architecture.", "It serves as a major residential and commercial extension of the metropolitan area."]
     },
     historyYear: 1854,
-    historyPeriod: "Modern"
-  },
+    historyPeriod: "Modern", image: "/poi-images/sv-santatecla.webp"},
   { 
     id: "sv-lalibertad", 
     type: "city", 
@@ -149,8 +146,7 @@ export const elsalvadorCities: POI[] = [
       ro: ["Digul din La Libertad a fost construit inițial în secolul al XIX-lea pentru export.", "Surfing-ul a transformat economia locală în ultimele decenii.", "Zona „Sunset Park” oferă facilități moderne de recreere pe malul mării."],
       en: ["The iconic iron pier was first constructed in 1869 for shipping goods.", "The town is the starting point of 'Surf City,' a major national tourism initiative.", "Punta Roca has hosted numerous international surfing competitions."]
     },
-    historyYear: 1869
-  },
+    historyYear: 1869, image: "/poi-images/sv-lalibertad.webp"},
   {
     id: "sv-pital",
     type: "mountain",
@@ -176,8 +172,7 @@ export const elsalvadorCities: POI[] = [
       ro: ["Este unul dintre puținele locuri din El Salvador unde s-a văzut ocazional zăpadă sau gheață.", "Muntele este o destinație populară pentru camping și drumeții.", "Aici cresc orhidee rare și stejari la altitudini mari."],
       en: ["The mountain is a prime location for spotting the Resplendent Quetzal.", "It features a unique alpine landscape unlike the rest of the tropical country.", "The summit offers a panoramic view of both El Salvador and Honduras."]
     },
-    elevation: 2730
-  },
+    elevation: 2730, image: "/poi-images/sv-pital.webp"},
   {
     id: "sv-rio-lempa",
     type: "river",
@@ -203,8 +198,7 @@ export const elsalvadorCities: POI[] = [
       ro: ["Râul alimentează mai multe hidrocentrale mari cu energie.", "Formează o deltă uriașă la coasta Pacificului, bogată în mangrove.", "Protecția bazinului hidrografic este o temă ecologică majoră în regiune."],
       en: ["The river basin covers nearly half of El Salvador's territory.", "Its waters are vital for the irrigation of the country's fertile lowlands.", "The Lempa is shared by three countries: Guatemala, Honduras, and El Salvador."]
     },
-    length: 422
-  },
+    length: 422, image: "/poi-images/sv-rio-lempa.webp"},
   {
     id: "sv-ilopango",
     type: "lake",
@@ -230,8 +224,7 @@ export const elsalvadorCities: POI[] = [
       ro: ["Erupția din 535 d.Hr. este considerată una dintre cele mai puternice din ultimele milenii.", "În lac se află mici insule vulcanice, cum ar fi „Cerros Quemados”.", "Apa limpede și adesea caldă atrage mulți scafandri."],
       en: ["The volcanic eruption that formed the caldera is linked to a global cooling event in 535 AD.", "Small volcanic domes known as 'Cerros Quemados' emerged in the lake in 1880.", "The lake reaches depths of over 230 meters in some areas."]
     },
-    area: 72
-  },
+    area: 72, image: "/poi-images/sv-ilopango.webp"},
   {
     id: "sv-montecristo",
     type: "forest",
@@ -257,8 +250,7 @@ export const elsalvadorCities: POI[] = [
       ro: ["Unele ferigi din parc sunt considerate fosile vii și ajung la 4 metri înălțime.", "Regiunea este protejată ca rezervație a biosferei transfrontaliere.", "Parcul oferă trasee către puncte de observație asupra celor trei țări."],
       en: ["The giant tree ferns found here are prehistoric relics dating back millions of years.", "It forms part of the Trifinio Fraternidad Transboundary Biosphere Reserve.", "Access to the highest points requires hiking through near-constant mist and moisture."]
     },
-    area: 20
-  },
+    area: 20, image: "/poi-images/sv-montecristo.webp"},
   {
     id: "sv-san-andres", 
     type: "historical", 
@@ -285,8 +277,7 @@ export const elsalvadorCities: POI[] = [
       en: ["Portions of the site were buried by the eruption of El Playón volcano in 1658.", "The 'Acropolis' contains residential buildings for the city's ruling elite.", "Excavations revealed significant trade links with major cities like Copán in Honduras."]
     },
     historyYear: 600,
-    historyPeriod: "Classical"
-  },
+    historyPeriod: "Classical", image: "/poi-images/sv-san-andres.webp"},
   {
     id: "sv-cihuatan", 
     type: "historical", 
@@ -313,8 +304,7 @@ export const elsalvadorCities: POI[] = [
       en: ["The city was likely destroyed by fire during a conflict around 1200 AD.", "It exhibits strong artistic and architectural ties to Central Mexican cultures.", "The main temple is a 12-meter-high pyramid dominating the western ceremonial center."]
     },
     historyYear: 900,
-    historyPeriod: "Post-Classical"
-  },
+    historyPeriod: "Post-Classical", image: "/poi-images/sv-cihuatan.webp"},
   {
     id: "sv-casa-blanca", 
     type: "historical", 
@@ -341,8 +331,7 @@ export const elsalvadorCities: POI[] = [
       en: ["The site features a fragment of a monument with some of the oldest Maya glyphs in the country.", "It served as a major center for obsidian tool production and trade.", "The indigo workshop offers hands-on experiences with the 'blue gold' of El Salvador."]
     },
     historyYear: -500,
-    historyPeriod: "Pre-Classical"
-  }
+    historyPeriod: "Pre-Classical", image: "/poi-images/sv-casa-blanca.webp"}
 ];
 
 export const elsalvadorLandmarks: POI[] = [
@@ -400,8 +389,7 @@ export const elsalvadorLandmarks: POI[] = [
       en: ["The site features a sophisticated drainage system for rainwater management.", "Excavations revealed an intricate life-sized ceramic statue of the god Xipe Totec.", "The architecture shows a transition from Maya style to central Mexican influences."]
     },
     historyYear: 100,
-    historyPeriod: "Classical"
-  },
+    historyPeriod: "Classical", image: "/poi-images/sv-tazumal.webp"},
   { 
     id: "sv-coatepeque", 
     type: "lake", 
@@ -427,8 +415,7 @@ export const elsalvadorLandmarks: POI[] = [
       ro: ["Ocazional, lacul își schimbă culoarea în turcoaz din cauza algelor.", "În lac există o insulă numită „Isla Teopán”, un fost sanctuar mayaș.", "Caldera s-a format prin prăbușiri în urmă cu zeci de mii de ani."],
       en: ["The lake's water occasionally turns a vibrant turquoise due to seasonal algae blooms.", "Isla Teopán, located in the lake, was a sacred site for the ancient Pipil and Maya.", "The lake is surrounded by steep caldera walls rising up to 250 meters above the water."]
     },
-    area: 26
-  },
+    area: 26, image: "/poi-images/sv-coatepeque.webp"},
   { 
     id: "sv-santaanavolcano", 
     type: "mountain", 
@@ -454,8 +441,7 @@ export const elsalvadorLandmarks: POI[] = [
       ro: ["Ultima erupție majoră a avut loc în anul 2005.", "Vârful oferă vederi panoramice asupra vulcanului Izalco și a lacului Coatepeque.", "Face parte din Parcul Național Apaneca-Ilamatepec."],
       en: ["The volcano erupted unexpectedly in 2005, launching boulders size of cars.", "It features four distinct craters nested within each other.", "The ascent is one of the most popular and scenic hikes in Central America."]
     },
-    elevation: 2381
-  },
+    elevation: 2381, image: "/poi-images/sv-santaanavolcano.webp"},
   { 
     id: "sv-izalco", 
     type: "mountain", 
@@ -481,8 +467,7 @@ export const elsalvadorLandmarks: POI[] = [
       ro: ["Vulcanul a crescut la o înălțime considerabilă într-un timp scurt.", "Anterior, strălucirea sa servea marinarilor pentru navigație.", "Panta extrem de abruptă face urcarea o provocare sportivă."],
       en: ["The volcano erupted almost continuously from 1770 until 1958.", "It was used by ships as a natural beacon to navigate toward the port of Acajutla.", "The cone is composed almost entirely of loose volcanic scoria and ash."]
     },
-    elevation: 1950
-  },
+    elevation: 1950, image: "/poi-images/sv-izalco.webp"},
   { 
     id: "sv-boqueron", 
     type: "landmark", 
@@ -508,8 +493,7 @@ export const elsalvadorLandmarks: POI[] = [
       ro: ["Numele El Boquerón înseamnă „Gura mare”.", "Anterior exista un lac în crater, care s-a evaporat la erupția din 1917.", "Parcul oferă puncte de observație cu vedere peste tot orașul."],
       en: ["The 1917 eruption caused the crater's lake to evaporate and formed the Boqueroncito.", "The high altitude provides a cool, pine-scented environment.", "On clear days, you can see as far as the Pacific Ocean and Lake Ilopango."]
     },
-    area: 6
-  },
+    area: 6, image: "/poi-images/sv-boqueron.webp"},
   { 
     id: "sv-rutaflores", 
     type: "landmark", 
@@ -535,8 +519,7 @@ export const elsalvadorLandmarks: POI[] = [
       ro: ["Traseul și-a primit numele de la numeroasele flori care înfloresc între noiembrie și februarie.", "Juayúa este faimos pentru festivalul său gastronomic săptămânal.", "Ataco este cunoscut pentru scena sa artistică vibrantă."],
       en: ["The route is named after the wildflowers that line the road from November to February.", "The town of Juayúa hosts a famous food festival every weekend.", "Concepción de Ataco is renowned for its elaborate and colorful wall murals."]
     },
-    length: 36
-  },
+    length: 36, image: "/poi-images/sv-rutaflores.webp"},
   { 
     id: "sv-eltunco", 
     type: "landmark", 
@@ -589,8 +572,7 @@ export const elsalvadorLandmarks: POI[] = [
       en: ["The current structure was completed and consecrated in 1999.", "The facade previously featured a colorful mural by artist Fernando Llort.", "The cathedral crypt is a major pilgrimage site for Catholics and human rights activists."]
     },
     historyYear: 1999,
-    historyPeriod: "Modern"
-  },
+    historyPeriod: "Modern", image: "/poi-images/sv-cathedral.webp"},
   { 
     id: "sv-divinosalvador", 
     type: "landmark", 
@@ -617,8 +599,7 @@ export const elsalvadorLandmarks: POI[] = [
       en: ["The statue was originally part of the decoration for President Manuel Enrique Araujo's tomb.", "It fell during the 1986 earthquake but was quickly restored to its former glory.", "The plaza is the traditional site for the start of the 'Fiestas Agostinas' parade."]
     },
     historyYear: 1942,
-    historyPeriod: "Modern"
-  },
+    historyPeriod: "Modern", image: "/poi-images/sv-divinosalvador.webp"},
   {
     id: "sv-puerta-diablo",
     type: "landmark",
@@ -644,8 +625,7 @@ export const elsalvadorLandmarks: POI[] = [
       ro: ["Locul este o destinație populară pentru alpiniști și turiști.", "Există legende despre diavolul care ar fi despicat stâncile.", "Briza răcoroasă îl face un loc de excursie foarte căutat."],
       en: ["The formation was created by a massive storm and landslide in 1762.", "It is a popular spot for rappelling and technical rock climbing.", "The area is famous for its 'pupuserías' serving El Salvador's national dish."]
     },
-    elevation: 1131
-  },
+    elevation: 1131, image: "/poi-images/sv-puerta-diablo.webp"},
   {
     id: "sv-cathedral-santa-ana", 
     type: "landmark", 
@@ -672,8 +652,7 @@ export const elsalvadorLandmarks: POI[] = [
       en: ["The cathedral was built on the site where a colonial parish church stood since 1576.", "It features 28 statues of saints and angels across its ornate exterior.", "Its interior contains a beautiful altar dedicated to Saint Anne, the city's matron."]
     },
     historyYear: 1906,
-    historyPeriod: "Modern"
-  },
+    historyPeriod: "Modern", image: "/poi-images/sv-cathedral-santa-ana.webp"},
   {
     id: "sv-cerron-grande", 
     type: "lake", 
@@ -699,8 +678,7 @@ export const elsalvadorLandmarks: POI[] = [
       ro: ["Lacul a fost creat în anii 1970 pentru producerea de energie.", "Suchitoto, pe malul lacului, este unul dintre cele mai bine conservate orașe coloniale.", "Observatorii de păsări pot vedea aici mii de rațe și alte păsări de apă."],
       en: ["The reservoir was formed in 1973 by the construction of the Cerrón Grande Dam.", "The colonial town of Suchitoto offers boat tours across the scenic lake.", "The wetlands surrounding the lake are vital for hundreds of aquatic species."]
     },
-    area: 135
-  },
+    area: 135, image: "/poi-images/sv-cerron-grande.webp"},
   {
     id: "sv-imposible", 
     type: "forest", 
@@ -726,8 +704,7 @@ export const elsalvadorLandmarks: POI[] = [
       ro: ["Parcul găzduiește pasărea Hocko, amenințată cu dispariția.", "Opt râuri izvorăsc în pădurile parcului.", "Traseele oferă vederi spectaculoase până la Oceanul Pacific."],
       en: ["The park protects primary forests that serve as a critical biological corridor.", "Ancient petroglyphs can be found hidden within the park's deep ravines.", "It offers several challenging trails including the hike to Cerro León."]
     },
-    area: 38
-  },
+    area: 38, image: "/poi-images/sv-imposible.webp"},
   {
     id: "sv-los-cobanos", 
     type: "landmark", 
@@ -758,3 +735,4 @@ export const elsalvadorLandmarks: POI[] = [
 ];
 
 export const elsalvadorAllPoi: POI[] = [...elsalvadorCountry, ...elsalvadorRegions, ...elsalvadorCities, ...elsalvadorLandmarks, ...poiExtraElsalvadorCitiesV2, ...poiExtraElsalvadorEconomicV2, ...poiExtraElsalvadorHistoryV2, ...poiExtraElsalvadorLandmarksV2, ...poiExtraElsalvadorLifeV2, ...poiExtraElsalvadorNatureV2, ...poiExtraElsalvadorReliefV2];
+

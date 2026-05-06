@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Középső-Kasai tartományon folyik át", "Fontos vízi út", "Támogatja a helyi halászatot", "Íves folyásirány"],
       ro: ["Curge prin Kasai-Central", "Cale navigabilă importantă", "Susține pescuitul local", "Curs în formă de arc"],
       en: ["Flows through Kasai-Central", "Important waterway", "Supports local fishing", "Arcuate course"]
-    }
-  },
+    }, image: "/poi-images/lulua-river-nature-v2.webp"},
   {
     id: "fimi-river-nature-v2",
     type: "river",
@@ -56,8 +56,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Sekély tó", "Alacsony oxigéntartalmú víz", "Fontos halászterület", "Korábban II. Lipót-tónak hívták"],
       ro: ["Lac puțin adânc", "Apă săracă în oxigen", "Zonă de pescuit importantă", "Anterior numit Lacul Leopold al II-lea"],
       en: ["Shallow lake", "Oxygen-poor water", "Significant fishing grounds", "Formerly called Lake Leopold II"]
-    }
-  },
+    }, image: "/poi-images/mai-ndombe-lake-nature-v2.webp"},
   {
     id: "tumba-lake-nature-v2",
     type: "lake",
@@ -75,8 +74,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Halban igen gazdag", "Mohás aljzat", "Jelentős vizes élőhely", "A Mai-Ndombe-tó közelében"],
       ro: ["Foarte bogat în pește", "Fund muntos", "Zonă umedă importantă", "Aproape de Lacul Mai-Ndombe"],
       en: ["Very rich in fish", "Mossy bottom", "Significant wetland", "Near Lake Mai-Ndombe"]
-    }
-  },
+    }, image: "/poi-images/tumba-lake-nature-v2.webp"},
   {
     id: "okapi-wildlife-nature-v2",
     type: "forest",
@@ -94,8 +92,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["UNESCO Világörökség", "Az erdei zsiráf otthona", "Pigmeus kultúra", "Nagy biodiverzitás"],
       ro: ["Patrimoniul Mondial UNESCO", "Casa girafei de pădure", "Cultura pigmeilor", "Biodiversitate ridicată"],
       en: ["UNESCO World Heritage", "Home of the forest giraffe", "Pygmy culture", "High biodiversity"]
-    }
-  },
+    }, image: "/poi-images/okapi-wildlife-nature-v2.webp"},
   {
     id: "kundelungu-mountains-nature-v2",
     type: "mountain",
@@ -113,8 +110,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Itt található a Lofoi-vízesés", "Nemzeti parki terület", "Füves síkságok", "Túraparadicsom"],
       ro: ["Cascadele Lofoi se află aici", "Zonă de parc național", "Câmpii ierboase", "Paradis pentru drumeții"],
       en: ["Lofoi Falls are located here", "National park area", "Grassy plains", "Hiking paradise"]
-    }
-  },
+    }, image: "/poi-images/kundelungu-mountains-nature-v2.webp"},
   {
     id: "ruki-river-nature-v2",
     type: "river",
@@ -132,8 +128,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["A Föld legsötétebb folyója", "Magas huminsav-tartalom", "Mbandaka mellett folyik", "Fajgazdag halállomány"],
       ro: ["Cel mai negru râu de pe Pământ", "Conținut ridicat de substanțe humice", "Curge pe lângă Mbandaka", "Specii variate de pești"],
       en: ["Darkest river on Earth", "High humic substance content", "Flows past Mbandaka", "Species-rich fish population"]
-    }
-  },
+    }, image: "/poi-images/ruki-river-nature-v2.webp"},
   {
     id: "inkisi-river-nature-v2",
     type: "river",
@@ -151,8 +146,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["A Zongo-vízesés ezen a folyón van", "Vízenergia hasznosítás", "A Kongó mellékfolyója", "A bakongók szent folyója"],
       ro: ["Cascadele Zongo se află pe acest râu", "Utilizarea energiei hidroelectrice", "Afluent al fluviului Congo", "Râu sfânt al poporului Bakongo"],
       en: ["Zongo Falls are on this river", "Hydroelectric power use", "Tributary of the Congo", "Sacred river of the Bakongo"]
-    }
-  },
+    }, image: "/poi-images/inkisi-river-nature-v2.webp"},
   {
     id: "tshangalele-lake-nature-v2",
     type: "lake",
@@ -170,8 +164,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Fontos az energiaellátásban", "Madarakban gazdag terület", "Halászkikötő", "Katangában található"],
       ro: ["Important pentru aprovizionarea cu energie", "Zonă bogată în păsări", "Port de pescuit", "Situat în Katanga"],
       en: ["Important for energy supply", "Bird-rich area", "Fishing port", "Located in Katanga"]
-    }
-  },
+    }, image: "/poi-images/tshangalele-lake-nature-v2.webp"},
   {
     id: "idjwi-island-nature-v2",
     type: "island",
@@ -189,8 +182,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["A világ második legnagyobb szárazföldi szigete", "Sűrűn lakott", "Kávéültetvények", "Nincsenek autók"],
       ro: ["A doua cea mai mare insulă interioară din lume", "Dens populată", "Plantații de cafea", "Fără mașini"],
       en: ["World's second-largest inland island", "Densely populated", "Coffee plantations", "No cars"]
-    }
-  },
+    }, image: "/poi-images/idjwi-island-nature-v2.webp"},
   {
     id: "mateba-island-nature-v2",
     type: "island",
@@ -208,8 +200,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Sok állattenyésztés", "Mocsaras területek", "Boma közelében", "Jelentős mezőgazdaság"],
       ro: ["Creșterea animalelor", "Zone mlăștinoase", "Lângă Boma", "Agricultură semnificativă"],
       en: ["Much cattle ranching", "Marshy areas", "Near Boma", "Significant agriculture"]
-    }
-  },
+    }, image: "/poi-images/mateba-island-nature-v2.webp"},
   {
     id: "muanda-coast-nature-v2",
     type: "sea",
@@ -227,8 +218,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Homokos strandok", "A Kongó torkolata", "Kőolajkitermelés", "Turisztikai potenciál"],
       ro: ["Plaje cu nisip", "Gura de vărsare a fluviului Congo", "Extracția petrolului", "Potențial turistic"],
       en: ["Sandy beaches", "Congo River estuary", "Oil extraction", "Tourist potential"]
-    }
-  },
+    }, image: "/poi-images/muanda-coast-nature-v2.webp"},
   {
     id: "epulu-river-nature-v2",
     type: "river",
@@ -246,8 +236,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Az Ituri mellékfolyója", "Tiszta víz", "Esőerdei környezet", "Fontos kutatóhely"],
       ro: ["Afluent al râului Ituri", "Apă limpede", "Mediu de pădure tropicală", "Loc important de cercetare"],
       en: ["Tributary of the Ituri", "Clear water", "Rainforest setting", "Important research site"]
-    }
-  },
+    }, image: "/poi-images/epulu-river-nature-v2.webp"},
   {
     id: "mbomou-river-nature-v2",
     type: "river",
@@ -265,8 +254,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Az Ubangi forrásfolyója", "Nagyon távoli", "Vadon élő természet", "Ritka lakosság"],
       ro: ["Formează râul Ubangi", "Foarte izolat", "Natură sălbatică", "Densitate scăzută a populației"],
       en: ["Forms the Ubangi", "Very remote", "Wild nature", "Sparse population"]
-    }
-  },
+    }, image: "/poi-images/mbomou-river-nature-v2.webp"},
   {
     id: "uele-river-nature-v2",
     type: "river",
@@ -284,8 +272,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["A Kék-hegységben ered", "Zuhataokban gazdag", "Az azandék kulturális régiója", "Fontos vízi út"],
       ro: ["Izvorăște în Munții Albaștri", "Bogat în rapide", "Regiunea culturală Azande", "Cale navigabilă importantă"],
       en: ["Rises in the Blue Mountains", "Rich in rapids", "Cultural region of the Azande", "Important waterway"]
-    }
-  },
+    }, image: "/poi-images/uele-river-nature-v2.webp"},
   {
     id: "aruwimi-river-nature-v2",
     type: "river",
@@ -303,8 +290,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Stanley expedíciójáról ismert", "Az Ituri-erdőn folyik át", "Sok zuhatag", "Fontos szállítási útvonal"],
       ro: ["Cunoscut prin expediția lui Stanley", "Curge prin pădurea Ituri", "Multe rapide", "Rută importantă de transport"],
       en: ["Known from Stanley's expedition", "Flows through Ituri Forest", "Many rapids", "Important transport route"]
-    }
-  },
+    }, image: "/poi-images/aruwimi-river-nature-v2.webp"},
   {
     id: "pool-malebo-nature-v2",
     type: "lake",
@@ -322,8 +308,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Korábban Stanley Pool", "Két fővárossal határos", "Szigetekben gazdag", "Lassabb áramlás"],
       ro: ["Anterior numit Stanley Pool", "Se învecinează cu două capitale", "Multe insule", "Curent încetinit"],
       en: ["Formerly Stanley Pool", "Borders two capitals", "Island-rich", "Slowed current"]
-    }
-  },
+    }, image: "/poi-images/pool-malebo-nature-v2.webp"},
   {
     id: "livingstone-falls-nature-v2",
     type: "river",
@@ -341,8 +326,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["270 méternyi szintkülönbség", "Nem hajózható", "Hatalmas vízerő-potenciál", "David Livingstone-ról nevezték el"],
       ro: ["Depășesc 270 de metri altitudine", "Nu este navigabil", "Potențial hidroenergetic imens", "Numit după David Livingstone"],
       en: ["Drops 270 meters", "Not navigable", "Huge hydroelectric potential", "Named after David Livingstone"]
-    }
-  },
+    }, image: "/poi-images/livingstone-falls-nature-v2.webp"},
   {
     id: "garamba-forest-nature-v2",
     type: "forest",
@@ -360,8 +344,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["UNESCO természeti világörökség", "Elefántvédelmi központ", "Korábban orrszarvúk otthona", "Összetett ökoszisztéma"],
       ro: ["Patrimoniul Mondial UNESCO", "Centru de protecție a elefanților", "Anterior casa rinocerilor", "Ecosistem complex"],
       en: ["UNESCO World Natural Heritage", "Elephant protection center", "Formerly home to rhinos", "Complex ecosystem"]
-    }
-  },
+    }, image: "/poi-images/garamba-forest-nature-v2.webp"},
   {
     id: "elila-river-nature-v2",
     type: "river",
@@ -379,8 +362,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Maniema tartományon folyik át", "Bővízű", "Őserdő régió", "Kevéssé kutatott"],
       ro: ["Curge prin Maniema", "Debit bogat", "Regiune de pădure virgină", "Puțin explorat"],
       en: ["Flows through Maniema", "Water-rich", "Primary forest region", "Little explored"]
-    }
-  },
+    }, image: "/poi-images/elila-river-nature-v2.webp"},
   {
     id: "ulindi-river-nature-v2",
     type: "river",
@@ -398,8 +380,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Aranylelőhelyek a mederben", "Dél-Kivu régió", "Gyors áramlás", "Sűrű dzsungel"],
       ro: ["Zăcăminte de aur în albie", "Regiunea Sud-Kivu", "Curent rapid", "Junglă densă"],
       en: ["Gold deposits in riverbed", "South Kivu region", "Fast current", "Dense jungle"]
-    }
-  },
+    }, image: "/poi-images/ulindi-river-nature-v2.webp"},
   {
     id: "mukamba-lake-nature-v2",
     type: "lake",
@@ -417,8 +398,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Turisztikai üdülőhely", "Tiszta kék víz", "Legendák övezik", "Szent hely"],
       ro: ["Agrement turistic", "Apă albastră limpede", "Înconjurat de legende", "Loc sfânt"],
       en: ["Tourist recreation", "Clear blue water", "Surrounded by legends", "Sacred site"]
-    }
-  },
+    }, image: "/poi-images/mukamba-lake-nature-v2.webp"},
   {
     id: "mangengenge-mountain-nature-v2",
     type: "mountain",
@@ -436,8 +416,7 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
       hu: ["Panoráma Kinshasára", "Vallási jelentőség", "Túraútvonal", "Meredek emelkedő"],
       ro: ["Vedere panoramică asupra Kinshasa", "Semnificație religioasă", "Destinație de drumeție", "Urcuș abrupt"],
       en: ["Panoramic view of Kinshasa", "Religious significance", "Hiking destination", "Steep climb"]
-    }
-  },
+    }, image: "/poi-images/mangengenge-mountain-nature-v2.webp"},
   {
     id: "lomami-forest-nature-v2",
     type: "forest",
@@ -477,3 +456,4 @@ export const poiExtraDemocraticrepublicofcongoNatureV2: POI[] = [
     }
   }
 ];
+

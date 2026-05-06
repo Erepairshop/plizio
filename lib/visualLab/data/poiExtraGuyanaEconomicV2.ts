@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuyanaEconomicV2: POI[] = [ {
@@ -37,33 +38,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Az ország legfontosabb tengeri kikötője.", "Guyana exportjának nagy részét itt rakodják."],
       ro: ["Cel mai important port maritim al țării.", "Gestionează o mare parte din exporturile Guyanei."],
       en: ["The country's most important seaport.", "Handles a large portion of Guyana's exports."]
-    }
-  }, {
+    }, image: "/poi-images/port-of-georgetown-economic-v2.webp"}, {
     id: "omai-gold-mine-economic-v2",
     type: "industry",
     parent: "GY-CU",
     coords: [-58.745, 5.4333],
     name: { de: "Omai-Goldmine", hu: "Omai Aranybánya", ro: "Mina de Aur Omai", en: "Omai Gold Mine" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al omai gold mine economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eine historisch bedeutende und reiche Goldmine im Landesinneren von Guyana.",
       hu: "Egy történelmileg jelentős és gazdag aranybánya Guyana belsejében.",
@@ -75,33 +55,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Egykor Dél-Amerika egyik legnagyobb aranybányája volt.", "Egy szünet után újra kutatják."],
       ro: ["A fost odată una dintre cele mai mari mine de aur din America de Sud.", "Este explorată din nou după o pauză."],
       en: ["Was once one of the largest gold mines in South America.", "Is being re-explored after a hiatus."]
-    }
-  }, {
+    }, image: "/poi-images/omai-gold-mine-economic-v2.webp"}, {
     id: "demerara-distillers-economic-v2",
     type: "industry",
     parent: "GY-DE",
     coords: [-58.172, 6.7589],
     name: { de: "Demerara Distillers", hu: "Demerara Lepárló", ro: "Distileria Demerara", en: "Demerara Distillers" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al demerara distillers economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eine weltberühmte Rumbrennerei, die für die Herstellung des El Dorado Rums bekannt ist.",
       hu: "Egy világhírű rumlepárló, amely az El Dorado rum gyártásáról ismert.",
@@ -113,33 +72,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Több mint 300 éve gyárt rumot.", "Itt működik a világ utolsó fa Coffey-lepárlója."],
       ro: ["Produce rom de peste 300 de ani.", "Operează ultima distilerie de lemn Coffey din lume."],
       en: ["Has been producing rum for over 300 years.", "Operates the last wooden Coffey still in the world."]
-    }
-  }, {
+    }, image: "/poi-images/demerara-distillers-economic-v2.webp"}, {
     id: "banks-dih-brewery-economic-v2",
     type: "industry",
     parent: "GY-DE",
     coords: [-58.161, 6.7865],
     name: { de: "Banks DIH Brauerei", hu: "Banks DIH Sörfőzde", ro: "Berăria Banks DIH", en: "Banks DIH Brewery" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al banks dih brewery economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eine der größten Brauereien und Lebensmittelproduzenten in Guyana.",
       hu: "Guyana egyik legnagyobb sörfőzdéje és élelmiszergyártója.",
@@ -151,33 +89,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Az 1840-es években alapították.", "A híres Banks sört gyártja."],
       ro: ["Fondată în anii 1840.", "Produce faimoasa bere Banks."],
       en: ["Founded in the 1840s.", "Produces the well-known Banks Beer."]
-    }
-  }, {
+    }, image: "/poi-images/banks-dih-brewery-economic-v2.webp"}, {
     id: "liza-destiny-fpso-economic-v2",
     type: "industry",
     parent: "GY-DE",
     coords: [-56.5, 8.0],
     name: { de: "Liza Destiny FPSO", hu: "Liza Destiny FPSO", ro: "Liza Destiny FPSO", en: "Liza Destiny FPSO" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al liza destiny fpso economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Das erste schwimmende Produktions-, Lager- und Entladeschiff vor der Küste Guyanas.",
       hu: "Az első úszó termelési, tároló és kirakodó hajó Guyana partjainál.",
@@ -189,33 +106,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["2019-ben kezdte meg az olajkitermelést.", "Naponta akár 120 000 hordó olajat is képes kitermelni."],
       ro: ["A început producția de petrol în 2019.", "Poate produce până la 120.000 de barili de petrol pe zi."],
       en: ["Started oil production in 2019.", "Can produce up to 120,000 barrels of oil per day."]
-    }
-  }, {
+    }, image: "/poi-images/liza-destiny-fpso-economic-v2.webp"}, {
     id: "liza-unity-fpso-economic-v2",
     type: "industry",
     parent: "GY-DE",
     coords: [-56.52, 8.05],
     name: { de: "Liza Unity FPSO", hu: "Liza Unity FPSO", ro: "Liza Unity FPSO", en: "Liza Unity FPSO" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al liza unity fpso economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Das zweite Ölföderschiff, das die Offshore-Ölproduktion Guyanas erheblich steigerte.",
       hu: "A második olajkitermelő hajó, amely jelentősen növelte Guyana tengeri olajtermelését.",
@@ -227,33 +123,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["2022-ben állt üzembe.", "Napi kapacitása 220 000 hordó."],
       ro: ["A intrat în funcțiune în 2022.", "Are o capacitate de 220.000 de barili pe zi."],
       en: ["Came online in 2022.", "Has a capacity of 220,000 barrels per day."]
-    }
-  }, {
+    }, image: "/poi-images/liza-unity-fpso-economic-v2.webp"}, {
     id: "prosperity-fpso-economic-v2",
     type: "industry",
     parent: "GY-DE",
     coords: [-56.54, 8.1],
     name: { de: "Prosperity FPSO", hu: "Prosperity FPSO", ro: "Prosperity FPSO", en: "Prosperity FPSO" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al prosperity fpso economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein weiteres wichtiges Offshore-Ölförderschiff im fruchtbaren Stabroek-Block.",
       hu: "Egy másik fontos tengeri olajkitermelő hajó a termékeny Stabroek-blokkban.",
@@ -265,33 +140,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["A Payara fejlesztés része.", "2023-ban kezdte meg a termelést."],
       ro: ["Face parte din dezvoltarea Payara.", "A început producția în 2023."],
       en: ["Part of the Payara development.", "Started production in 2023."]
-    }
-  }, {
+    }, image: "/poi-images/prosperity-fpso-economic-v2.webp"}, {
     id: "one-guyana-fpso-economic-v2",
     type: "industry",
     parent: "GY-DE",
     coords: [-56.56, 8.15],
     name: { de: "One Guyana FPSO", hu: "One Guyana FPSO", ro: "One Guyana FPSO", en: "One Guyana FPSO" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al one guyana fpso economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Das vierte und größte geplante FPSO-Schiff für Guyanas Offshore-Ölfelder.",
       hu: "A negyedik és legnagyobb tervezett FPSO hajó Guyana tengeri olajmezőin.",
@@ -303,33 +157,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["A Yellowtail projekthez tervezték.", "Tovább maximalizálja a termelési kapacitást."],
       ro: ["Proiectată pentru proiectul Yellowtail.", "Va maximiza și mai mult capacitatea de producție."],
       en: ["Designed for the Yellowtail project.", "Will further maximize production capacity."]
-    }
-  }, {
+    }, image: "/poi-images/one-guyana-fpso-economic-v2.webp"}, {
     id: "aurora-gold-mine-economic-v2",
     type: "industry",
     parent: "GY-CU",
     coords: [-59.7431, 6.7861],
     name: { de: "Aurora-Goldmine", hu: "Aurora Aranybánya", ro: "Mina de Aur Aurora", en: "Aurora Gold Mine" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al aurora gold mine economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eine große Goldmine im Cuyuni-Mazaruni-Gebiet von Guyana.",
       hu: "Egy nagy aranybánya Guyana Cuyuni-Mazaruni régiójában.",
@@ -341,33 +174,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["A kínai Zijin Mining vállalat üzemelteti.", "Jelentősen hozzájárul az aranyexporthoz."],
       ro: ["Este operată de compania chineză Zijin Mining.", "Contribuie semnificativ la exporturile de aur."],
       en: ["Operated by the Chinese company Zijin Mining.", "Contributes significantly to gold exports."]
-    }
-  }, {
+    }, image: "/poi-images/aurora-gold-mine-economic-v2.webp"}, {
     id: "karouni-gold-mine-economic-v2",
     type: "industry",
     parent: "GY-CU",
     coords: [-59.1, 5.75],
     name: { de: "Karouni-Goldmine", hu: "Karouni Aranybánya", ro: "Mina de Aur Karouni", en: "Karouni Gold Mine" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al karouni gold mine economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein bedeutendes Goldbergbauprojekt im Inneren Guyanas.",
       hu: "Egy jelentős aranybányászati projekt Guyana belsejében.",
@@ -379,33 +191,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Nyíltvízi bányászatáról ismert.", "Fontos a helyi bányászati gazdaság számára."],
       ro: ["Cunoscută pentru exploatarea sa la suprafață.", "Importantă pentru economia minieră locală."],
       en: ["Noted for its open-pit mining operations.", "Important for the local mining economy."]
-    }
-  }, {
+    }, image: "/poi-images/karouni-gold-mine-economic-v2.webp"}, {
     id: "toroparu-gold-project-economic-v2",
     type: "industry",
     parent: "GY-CU",
     coords: [-60.2, 6.45],
     name: { de: "Toroparu-Goldprojekt", hu: "Toroparu Aranyprojekt", ro: "Proiectul Aurifer Toroparu", en: "Toroparu Gold Project" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al toroparu gold project economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eines der größten unerschlossenen Goldvorkommen in Südamerika.",
       hu: "Dél-Amerika egyik legnagyobb feltáratlan aranykészlete.",
@@ -417,33 +208,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Több millió uncia aranytartalékot rejt.", "Nemzetközi bányászati befektetéseket vonz."],
       ro: ["Conține milioane de uncii de rezerve de aur.", "Atrage investiții miniere internaționale."],
       en: ["Contains millions of ounces of gold reserves.", "Attracts international mining investments."]
-    }
-  }, {
+    }, image: "/poi-images/toroparu-gold-project-economic-v2.webp"}, {
     id: "kwakwani-bauxite-mine-economic-v2",
     type: "industry",
     parent: "GY-UD",
     coords: [-58.0333, 5.2833],
     name: { de: "Kwakwani Bauxitmine", hu: "Kwakwani Bauxitbánya", ro: "Mina de Bauxită Kwakwani", en: "Kwakwani Bauxite Mine" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al kwakwani bauxite mine economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eine wichtige Bauxitmine in der Region Upper Demerara-Berbice.",
       hu: "Egy fontos bauxitbánya az Upper Demerara-Berbice régióban.",
@@ -455,33 +225,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["A bauxitbányászat Guyana gazdaságának egyik alappillére.", "A bánya kiváló minőségű alumíniumércet szolgáltat."],
       ro: ["Exploatarea bauxitei este o piatră de temelie a economiei Guyanei.", "Mina furnizează minereu de aluminiu de înaltă calitate."],
       en: ["Bauxite mining is a cornerstone of Guyana's economy.", "The mine provides high-quality aluminum ore."]
-    }
-  }, {
+    }, image: "/poi-images/kwakwani-bauxite-mine-economic-v2.webp"}, {
     id: "bosai-minerals-linden-economic-v2",
     type: "industry",
     parent: "GY-UD",
     coords: [-58.3, 6.0],
     name: { de: "Bosai Minerals Werk", hu: "Bosai Minerals Gyár", ro: "Uzina Bosai Minerals", en: "Bosai Minerals Plant" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al bosai minerals linden economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eine große Bauxitverarbeitungsanlage in der Stadt Linden.",
       hu: "Egy nagy bauxitfeldolgozó üzem Linden városában.",
@@ -493,33 +242,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Kalcinált bauxitot állít elő exportra.", "Fontos munkáltató Lindenben."],
       ro: ["Produce bauxită calcinată pentru export.", "Este un angajator major în Linden."],
       en: ["Produces calcined bauxite for export.", "Is a major employer in Linden."]
-    }
-  }, {
+    }, image: "/poi-images/bosai-minerals-linden-economic-v2.webp"}, {
     id: "port-of-new-amsterdam-economic-v2",
     type: "port",
     parent: "GY-EB",
     coords: [-57.5186, 6.2483],
     name: { de: "Hafen von New Amsterdam", hu: "New Amsterdam Kikötője", ro: "Portul New Amsterdam", en: "Port of New Amsterdam" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al port of new amsterdam economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein Flusshafen in New Amsterdam, der die Region Berbice bedient.",
       hu: "Egy folyami kikötő New Amsterdamban, amely a Berbice régiót szolgálja ki.",
@@ -531,33 +259,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["A Berbice folyón található.", "Fontos a regionális kereskedelem és a mezőgazdasági export szempontjából."],
       ro: ["Situat pe râul Berbice.", "Important pentru comerțul regional și exporturile agricole."],
       en: ["Located on the Berbice River.", "Important for regional trade and agricultural exports."]
-    }
-  }, {
+    }, image: "/poi-images/port-of-new-amsterdam-economic-v2.webp"}, {
     id: "john-fernandes-wharf-economic-v2",
     type: "port",
     parent: "GY-DE",
     coords: [-58.165, 6.812],
     name: { de: "John Fernandes Pier", hu: "John Fernandes Móló", ro: "Debarcaderul John Fernandes", en: "John Fernandes Wharf" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al john fernandes wharf economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eine der wichtigsten privaten Hafenanlagen in Georgetown.",
       hu: "Georgetown egyik legfontosabb magán kikötői létesítménye.",
@@ -569,33 +276,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Konténeres és darabáru átrakodóhely.", "Kulcsfontosságú az ország import ellátási lánca szempontjából."],
       ro: ["Manevrează containere și mărfuri generale.", "Crucial pentru lanțul de aprovizionare cu importuri al țării."],
       en: ["Handles container and break-bulk cargo.", "Crucial for the country's import supply chain."]
-    }
-  }, {
+    }, image: "/poi-images/john-fernandes-wharf-economic-v2.webp"}, {
     id: "muneshwers-wharf-economic-v2",
     type: "port",
     parent: "GY-DE",
     coords: [-58.1655, 6.813],
     name: { de: "Muneshwers Pier", hu: "Muneshwers Móló", ro: "Debarcaderul Muneshwers", en: "Muneshwers Wharf" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al muneshwers wharf economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein belebter Frachtterminal in der Hauptstadt, das internationale Schiffe abfertigt.",
       hu: "Egy forgalmas teherterminál a fővárosban, amely nemzetközi hajókat fogad.",
@@ -607,33 +293,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Rakpartokkal rendelkezik a Demerara folyón.", "Fogyasztási cikkeket és ipari berendezéseket kezel."],
       ro: ["Are cheiuri pe râul Demerara.", "Procesează bunuri de consum și echipamente industriale."],
       en: ["Has berths on the Demerara River.", "Processes consumer goods and industrial equipment."]
-    }
-  }, {
+    }, image: "/poi-images/muneshwers-wharf-economic-v2.webp"}, {
     id: "gnic-wharf-economic-v2",
     type: "port",
     parent: "GY-DE",
     coords: [-58.166, 6.815],
     name: { de: "GNIC Pier", hu: "GNIC Móló", ro: "Debarcaderul GNIC", en: "GNIC Wharf" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al gnic wharf economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Die Hafenanlage der Guyana National Industrial Company.",
       hu: "A Guyana National Industrial Company kikötői létesítménye.",
@@ -645,33 +310,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Hajóépítési és javítási szolgáltatásokat kínál.", "Fontos szerepet játszik a tengeri iparban."],
       ro: ["Oferă servicii de construcții și reparații navale.", "Joacă un rol important în industria maritimă."],
       en: ["Provides shipbuilding and repair services.", "Plays an important role in the maritime industry."]
-    }
-  }, {
+    }, image: "/poi-images/gnic-wharf-economic-v2.webp"}, {
     id: "gnsc-wharf-economic-v2",
     type: "port",
     parent: "GY-DE",
     coords: [-58.164, 6.816],
     name: { de: "GNSC Pier", hu: "GNSC Móló", ro: "Debarcaderul GNSC", en: "GNSC Wharf" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al gnsc wharf economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Betrieben von der Guyana National Shipping Corporation.",
       hu: "A Guyana National Shipping Corporation üzemelteti.",
@@ -683,33 +327,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Megkönnyíti az állami és kereskedelmi tengeri szállítást.", "A mezőgazdasági export fontos csomópontja."],
       ro: ["Facilitează transportul maritim de stat și comercial.", "Un nod important pentru exporturile agricole."],
       en: ["Facilitates state and commercial ocean freight.", "Important hub for agricultural exports."]
-    }
-  }, {
+    }, image: "/poi-images/gnsc-wharf-economic-v2.webp"}, {
     id: "vreed-en-hoop-shorebase-economic-v2",
     type: "port",
     parent: "GY-ES",
     coords: [-58.182, 6.81],
     name: { de: "Vreed-en-Hoop Shorebase", hu: "Vreed-en-Hoop Parti Bázis", ro: "Baza Vreed-en-Hoop", en: "Vreed-en-Hoop Shorebase" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al vreed en hoop shorebase economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eine neu errichtete Basis zur Unterstützung der rasch wachsenden Öl- und Gasindustrie.",
       hu: "Újonnan épült bázis a gyorsan növekvő olaj- és gázipar támogatására.",
@@ -721,33 +344,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Egy mega-infrastruktúra projekt.", "Logisztikai és kikötői létesítményeket biztosít a tengeri műveletekhez."],
       ro: ["Un mega-proiect de infrastructură.", "Oferă facilități logistice și portuare pentru operațiuni offshore."],
       en: ["A mega-infrastructure project.", "Provides logistics and port facilities for offshore operations."]
-    }
-  }, {
+    }, image: "/poi-images/vreed-en-hoop-shorebase-economic-v2.webp"}, {
     id: "barama-timber-plant-economic-v2",
     type: "industry",
     parent: "GY-ES",
     coords: [-58.18, 6.75],
     name: { de: "Barama Holzwerk", hu: "Barama Faipari Üzem", ro: "Uzina de Lemn Barama", en: "Barama Timber Plant" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al barama timber plant economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eines der größten forstwirtschaftlichen und holzverarbeitenden Unternehmen in Guyana.",
       hu: "Guyana egyik legnagyobb erdészeti és fafeldolgozó vállalata.",
@@ -759,33 +361,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Rétegelt lemezt és fűrészárut állít elő exportra.", "Jelentősen hozzájárul a nem bányászati ágazathoz."],
       ro: ["Produce placaj și cherestea pentru export.", "Contribuie semnificativ la sectorul non-minier."],
       en: ["Produces plywood and sawn timber for export.", "Contributes significantly to the non-mining sector."]
-    }
-  }, {
+    }, image: "/poi-images/barama-timber-plant-economic-v2.webp"}, {
     id: "mazaruni-quarry-economic-v2",
     type: "industry",
     parent: "GY-CU",
     coords: [-58.65, 6.4],
     name: { de: "Mazaruni-Steinbruch", hu: "Mazaruni Kőfejtő", ro: "Cariera Mazaruni", en: "Mazaruni Quarry" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al mazaruni quarry economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein bedeutender Gesteinsabbau in der Nähe des Mazaruni-Flusses, der Baumaterialien liefert.",
       hu: "Jelentős kőfejtő a Mazaruni folyó közelében, amely építőanyagokat szállít.",
@@ -797,33 +378,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Zúzottkövet szállít útépítéshez.", "Fontos az országos infrastrukturális fejlesztéshez."],
       ro: ["Furnizează piatră concasată pentru construcția de drumuri.", "Important pentru dezvoltarea infrastructurii naționale."],
       en: ["Supplies crushed stone for road construction.", "Important for national infrastructure development."]
-    }
-  }, {
+    }, image: "/poi-images/mazaruni-quarry-economic-v2.webp"}, {
     id: "toolsie-persaud-quarry-economic-v2",
     type: "industry",
     parent: "GY-ES",
     coords: [-58.62, 6.38],
     name: { de: "Toolsie Persaud Steinbruch", hu: "Toolsie Persaud Kőfejtő", ro: "Cariera Toolsie Persaud", en: "Toolsie Persaud Quarry" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al toolsie persaud quarry economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein privater Steinbruch, der Zuschlagstoffe für die Bauindustrie Guyanas produziert.",
       hu: "Egy magán kőfejtő, amely adalékanyagokat állít elő a guyanai építőipar számára.",
@@ -835,33 +395,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Támogatja a növekvő építési bummot Georgetownban.", "Fűrészüzemeket is üzemeltet a régióban."],
       ro: ["Sprijină boom-ul construcțiilor în creștere din Georgetown.", "Operează, de asemenea, gatere în regiune."],
       en: ["Supports the growing construction boom in Georgetown.", "Also operates sawmills in the region."]
-    }
-  }, {
+    }, image: "/poi-images/toolsie-persaud-quarry-economic-v2.webp"}, {
     id: "guyana-gold-board-economic-v2",
     type: "industry",
     parent: "GY-DE",
     coords: [-58.15, 6.8],
     name: { de: "Guyana Gold Board", hu: "Guyanai Aranybizottság", ro: "Consiliul Aurului din Guyana", en: "Guyana Gold Board" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al guyana gold board economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Die offizielle staatliche Einrichtung für den Ankauf, die Prüfung und den Export von Gold.",
       hu: "A hivatalos állami intézmény az arany felvásárlására, tesztelésére és exportjára.",
@@ -873,33 +412,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Szabályozza az aranykereskedelmet az országban.", "Biztosítja a nemzetközi szabványokat az aranyexport során."],
       ro: ["Reglementează comerțul cu aur în țară.", "Asigură standardele internaționale în exportul de aur."],
       en: ["Regulates the gold trade in the country.", "Ensures international standards in gold export."]
-    }
-  }, {
+    }, image: "/poi-images/guyana-gold-board-economic-v2.webp"}, {
     id: "rusal-aroaima-mine-economic-v2",
     type: "industry",
     parent: "GY-UD",
     coords: [-57.85, 5.2],
     name: { de: "Rusal Aroaima Mine", hu: "Rusal Aroaima Bánya", ro: "Mina Rusal Aroaima", en: "Rusal Aroaima Mine" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al rusal aroaima mine economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein Bauxitbergwerk, das von der russischen Firma Rusal betrieben wird.",
       hu: "A bauxitbánya, amelyet az orosz Rusal vállalat üzemeltet.",
@@ -911,33 +429,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Guyana egyik legfontosabb bauxittermelője.", "Bauxitot exportál a tengerentúlra alumíniumgyártáshoz."],
       ro: ["Unul dintre cei mai importanți producători de bauxită din Guyana.", "Exportă bauxită în străinătate pentru producția de aluminiu."],
       en: ["One of the most important bauxite producers in Guyana.", "Exports bauxite overseas for aluminum production."]
-    }
-  }, {
+    }, image: "/poi-images/rusal-aroaima-mine-economic-v2.webp"}, {
     id: "cgx-berbice-deep-water-port-economic-v2",
     type: "port",
     parent: "GY-EB",
     coords: [-57.51, 6.26],
     name: { de: "CGX Berbice Tiefseehafen", hu: "CGX Berbice Mélytengeri Kikötő", ro: "Portul de Mare Adâncime CGX Berbice", en: "CGX Berbice Deep Water Port" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al cgx berbice deep water port economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein im Bau befindlicher Tiefseehafen zur Unterstützung des Agrar- und Ölsektors.",
       hu: "Építés alatt álló mélyvízi kikötő a mezőgazdasági és olajszektor támogatására.",
@@ -949,33 +446,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Célja a gazdasági növekedés ösztönzése Berbice-ben.", "Nehézteher- és ellátó hajókat fog kiszolgálni."],
       ro: ["Menit să stimuleze creșterea economică în Berbice.", "Va deservi nave de marfă grea și de aprovizionare."],
       en: ["Intended to boost economic growth in Berbice.", "Will handle heavy lift and supply vessels."]
-    }
-  }, {
+    }, image: "/poi-images/cgx-berbice-deep-water-port-economic-v2.webp"}, {
     id: "matthews-ridge-manganese-mine-economic-v2",
     type: "industry",
     parent: "GY-BA",
     coords: [-60.17, 7.51],
     name: { de: "Matthews Ridge Manganmine", hu: "Matthews Ridge Mangánbánya", ro: "Mina de Mangan Matthews Ridge", en: "Matthews Ridge Manganese Mine" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al matthews ridge manganese mine economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Eine revitalisierte Manganmine im Nordwesten Guyanas.",
       hu: "Egy újjáélesztett mangánbánya Északnyugat-Guyanában.",
@@ -987,33 +463,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Évtizedes inaktivitás után ismét üzemel.", "A mangán elengedhetetlen az acélgyártáshoz."],
       ro: ["Este operată din nou după decenii de inactivitate.", "Manganul este esențial pentru producția de oțel."],
       en: ["Is being operated again after decades of inactivity.", "Manganese is essential for steel production."]
-    }
-  }, {
+    }, image: "/poi-images/matthews-ridge-manganese-mine-economic-v2.webp"}, {
     id: "eccles-industrial-estate-economic-v2",
     type: "industry",
     parent: "GY-DE",
     coords: [-58.17, 6.76],
     name: { de: "Eccles Industriegebiet", hu: "Eccles Ipari Park", ro: "Zona Industrială Eccles", en: "Eccles Industrial Estate" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al eccles industrial estate economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein wichtiges Fertigungs- und Logistikzentrum südlich von Georgetown.",
       hu: "Fontos gyártási és logisztikai központ Georgetowntól délre.",
@@ -1025,33 +480,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Számos vállalkozásnak és raktárnak ad otthont.", "Profitál az új útinfrastruktúrából."],
       ro: ["Găzduiește numeroase companii și depozite.", "Beneficiază de noua infrastructură rutieră."],
       en: ["Home to numerous businesses and warehouses.", "Benefits from the new road infrastructure."]
-    }
-  }, {
+    }, image: "/poi-images/eccles-industrial-estate-economic-v2.webp"}, {
     id: "coldingen-industrial-estate-economic-v2",
     type: "industry",
     parent: "GY-DE",
     coords: [-57.98, 6.73],
     name: { de: "Coldingen Industriegebiet", hu: "Coldingen Ipari Park", ro: "Zona Industrială Coldingen", en: "Coldingen Industrial Estate" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al coldingen industrial estate economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein ausgewiesenes Gewerbegebiet an der Ostküste von Demerara zur Förderung der Leichtindustrie.",
       hu: "Egy kijelölt ipari terület a Demerara keleti partján, a könnyűipar ösztönzésére.",
@@ -1063,33 +497,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["A fafeldolgozásra és az élelmiszergyártásra fókuszál.", "Helyi munkahelyeket teremt a fővároson kívül."],
       ro: ["Se concentrează pe prelucrarea lemnului și producția de alimente.", "Creează locuri de muncă locale în afara capitalei."],
       en: ["Focuses on wood processing and food production.", "Creates local jobs outside the capital."]
-    }
-  }, {
+    }, image: "/poi-images/coldingen-industrial-estate-economic-v2.webp"}, {
     id: "belvedere-industrial-estate-economic-v2",
     type: "industry",
     parent: "GY-EB",
     coords: [-57.3, 6.22],
     name: { de: "Belvedere Industriegebiet", hu: "Belvedere Ipari Park", ro: "Zona Industrială Belvedere", en: "Belvedere Industrial Estate" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al belvedere industrial estate economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Ein Industriezentrum in der Region Berbice, das zur wirtschaftlichen Diversifizierung entwickelt wurde.",
       hu: "Ipari központ a Berbice régióban, amelyet a gazdasági diverzifikáció érdekében hoztak létre.",
@@ -1101,33 +514,12 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       hu: ["Támogatja a kis- és középvállalkozásokat.", "Létesítményeket biztosít az agrár-ipari feldolgozáshoz."],
       ro: ["Sprijină întreprinderile mici și mijlocii.", "Oferă facilități pentru prelucrarea agroindustrială."],
       en: ["Supports small and medium-sized enterprises.", "Provides facilities for agro-industrial processing."]
-    }
-  }, {
+    }, image: "/poi-images/belvedere-industrial-estate-economic-v2.webp"}, {
     id: "guysuco-headquarters-economic-v2",
     type: "industry",
     parent: "GY-DE",
     coords: [-58.07, 6.78],
     name: { de: "GuySuCo Hauptsitz", hu: "GuySuCo Központ", ro: "Sediul GuySuCo", en: "GuySuCo Headquarters" },
-    descriptionAdvanced: {
-      de: "Guyanas Wirtschaft wächst schnell, stark getrieben durch den in den letzten Jahren entdeckten Offshore-Ölreichtum.",
-      hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
-      ro: "Descoperiți farmecul unic al guysuco headquarters economic v2, o destinație ce îmbină istoria fascinantă cu peisajele naturale spectaculoase din inima Guyanei. Acest loc atrage vizitatorii prin atmosfera sa autentică și ospitalitatea caldă a comunității locale, oferind experiențe memorabile. Fiecare detaliu al acestui obiectiv reflectă bogăția culturală și evoluția istorică a regiunii, fiind un punct de reper pentru turiștii avizi de explorare. Dincolo de frumusețea sa vizuală, zona joacă un rol vital în dinamica socială și economică, invitând la momente de relaxare și descoperire profundă.",
-      en: "This location is a captivating destination in Guyana, celebrated for its unique character and vibrant local atmosphere. Visitors often find themselves drawn to the area’s tranquil charm and the genuine warmth of its community. The landscape offers a beautiful blend of traditional allure and natural wonders, making it a perfect spot for exploration. Every corner tells a story, reflecting the rich history and cultural evolution that defines this part of the country. Whether you are seeking a peaceful retreat or an immersive cultural experience, this location offers unforgettable moments. It stands as a testament to the diverse and enchanting spirit of Guyana."
-    },
-    factsAdvanced: {
-      de: [
-        "Es liegt an der Mündung des Demerara-Flusses.",
-        "Die Stadt wurde im 18. Jahrhundert von den Niederländern gegründet."
-      ],
-      hu: ["Jelentős helyi közösség.", "Fejlődő infrastruktúra.", "Kulturális örökség.", "Természeti adottságok."],
-      ro: ["Un obiectiv esențial pentru înțelegerea contextului istoric al regiunii.", "Atrage turiști din întreaga lume prin peisajul său singular și bine conservat.", "Reprezintă un pilon cultural important, păstrând vii tradițiile locale de generații."],
-      en: [
-        "Ideally situated within Guyana, capturing the essence of the regional landscape.",
-        "Known for its deep cultural roots that continue to thrive in the modern day.",
-        "An essential stop for travelers looking to understand the history and life of this community.",
-        "Offers a unique perspective on the architectural and historical development of the area."
-      ]
-    },
     description: {
       de: "Das Verwaltungs- und Betriebszentrum der staatlichen Guyana Sugar Corporation.",
       hu: "Az állami tulajdonú Guyana Sugar Corporation adminisztratív és operatív központja.",

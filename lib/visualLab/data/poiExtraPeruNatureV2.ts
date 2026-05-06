@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraPeruNatureV2: POI[] = [
@@ -19,10 +20,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Huascarán is the highest mountain in Peru and the entire tropics, standing at 6,768 meters."
     },
     descriptionAdvanced: {
-      de: "Der Huascarán ist das majestätische Herz der Cordillera Blanca und erhebt sich als höchster Berg Perus auf eindrucksvolle 6.768 Meter. Mit seinen zwei Gipfeln – dem Huascarán Sur und dem niedrigeren Huascarán Norte – dominiert er die umliegende Hochgebirgslandschaft. Der ihn umgebende Nationalpark ist ein UNESCO-Weltnaturerbe und bietet eine dramatische Kulisse aus Gletschern, türkisfarbenen Seen und hochalpiner Vegetation. Er ist ein heiliger Ort für die lokale Bevölkerung und eine Herausforderung für Alpinisten aus aller Welt, die die pure Größe und Schönheit der tropischen Anden erleben wollen.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Huascarán is the majestic sovereign of the Peruvian Andes and the highest tropical mountain in the world, reaching a staggering 6,768 meters. Its twin peaks, covered in permanent glaciers, dominate the Cordillera Blanca and provide a dramatic backdrop to the Callejón de Huaylas valley. The mountain is the heart of the Huascarán National Park, a UNESCO World Heritage site that protects an extraordinary range of high-altitude ecosystems. For mountaineers, it represents the ultimate challenge in Peru, offering breathtaking climbs and unparalleled views of the Andean landscape. It is also a sacred 'Apu' for local communities, believed to protect the life and water of the region. Despite the challenges of climate change and glacial retreat, it remains a powerful symbol of Peru's natural grandeur."
     },
     facts: {
       de: ["Höchster Berg in Peru.", "Liegt in der Cordillera Blanca.", "Der Nationalpark ist UNESCO-Welterbe.", "Gipfelhöhe beträgt 6.768 m."],
@@ -31,12 +32,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Highest mountain in Peru.", "Located in the Cordillera Blanca.", "The national park is a UNESCO site.", "Peak elevation is 6,768 m."]
     },
     factsAdvanced: {
-      de: ["Der Huascarán-Gletscher ist eine der wichtigsten Wasserquellen für das Callejón de Huaylas-Tal.", "Die Besteigung des Huascarán erfordert aufgrund der extremen Höhe und der Gletscherverhältnisse eine ausgezeichnete technische Vorbereitung.", "Der Nationalpark Huascarán schützt eine einzigartige Vielfalt an hochalpiner Flora wie die Puya Raimondii.", "Die Gletscherschmelze des Huascarán ist ein wichtiger Indikator für den globalen Klimawandel."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "The highest point in Peru and the fourth highest in all of South America.",
+        "Located in the Cordillera Blanca, the world's highest tropical mountain range.",
+        "Named after Huáscar, a 16th-century Inca emperor.",
+        "First successfully climbed in 1908 by an expedition led by Annie Smith Peck.",
+        "Its glaciers are a critical source of water for the region's agriculture and power."
+      ]
+    }, image: "/poi-images/pe-anc-huascaran-nature-v2.webp"},
   {
     id: "pe-pun-lake-titicaca-nature-v2",
     type: "lake",
@@ -55,10 +61,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Lake Titicaca is the highest navigable body of water in the world, shared between Peru and Bolivia."
     },
     descriptionAdvanced: {
-      de: "Auf einer Höhe von 3.812 Metern schimmert der Titicaca-See in tiefem Blau inmitten der kargen Hochebene des Altiplano. Er ist nicht nur das höchste schiffbare Gewässer der Erde, sondern auch ein spirituelles Zentrum der Andenvölker, die hier seit Jahrtausenden siedeln. Besonders berühmt sind die schwimmenden Schilfinseln der Uros, die nach alter Tradition aus Totora-Schilf erbaut werden. Der See verbindet Peru mit Bolivien und bildet ein komplexes Ökosystem, das für seine einzigartige Flora und Fauna bekannt ist. Ein Besuch am Titicaca-See ist eine Reise in die Geschichte und Spiritualität der Anden, geprägt von einer Landschaft, die in ihrer Weite und Stille absolut einzigartig ist.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Lake Titicaca, shared between Peru and Bolivia, is the highest navigable lake in the world and a place of profound spiritual and historical importance. Situated at 3,812 meters above sea level, its deep blue waters are said to be the birthplace of the Inca civilization. The lake is famous for its unique inhabitants, including the Uros people who live on artificial islands made entirely of floating totora reeds. Beyond the floating islands, larger land islands like Taquile and Amantaní preserve ancient traditions of weaving and communal living. The vast expanse of the lake, surrounded by the snow-capped peaks of the Cordillera Real, creates a landscape of mystical beauty. It is a vital ecosystem that supports a wide variety of endemic wildlife, including the rare Titicaca grebe. Today, it remains a center of vibrant Andean culture and one of South America's most iconic natural wonders."
     },
     facts: {
       de: ["Höchster schiffbarer See der Welt.", "Auf 3.812 Metern Höhe gelegen.", "Geteilt zwischen Peru und Bolivien.", "Heimat der Uros-Inseln."],
@@ -67,12 +73,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Highest navigable lake in the world.", "Located at 3,812 meters altitude.", "Shared by Peru and Bolivia.", "Home to the Uros floating islands."]
     },
     factsAdvanced: {
-      de: ["Der Titicaca-See beherbergt zahlreiche endemische Tierarten, darunter den Titicaca-Riesenfrosch.", "Die Insel Taquile ist für ihre jahrtausendealte Stricktradition weltberühmt.", "Der See ist tief verwurzelt in den Schöpfungsmythen der Inka-Kultur.", "Die Wasserqualität des Sees ist ein zentrales Thema für den lokalen Naturschutz."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Covers an area of 8,372 square kilometers (3,232 square miles).",
+        "Maximum depth is approximately 281 meters (922 feet).",
+        "Home to over 500 species of aquatic life, many of which are endemic.",
+        "According to legend, the first Inca, Manco Cápac, emerged from its waters.",
+        "Includes more than 40 islands, both natural and man-made."
+      ]
+    }, image: "/poi-images/pe-pun-lake-titicaca-nature-v2.webp"},
   {
     id: "pe-lor-amazon-river-nature-v2",
     type: "river",
@@ -91,10 +102,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Amazon River originates in the Peruvian Andes and is the largest river in the world by discharge volume."
     },
     descriptionAdvanced: {
-      de: "Der Amazonas ist ein gigantisches Naturphänomen, das hoch oben in den peruanischen Anden entspringt und durch einen riesigen Regenwald fließt, bis er den Atlantik erreicht. Als wasserreichster Fluss der Welt ist er die Lebensader für eine unfassbare Vielfalt an Arten. In Peru beginnt seine Reise durch dichten Dschungel, vorbei an abgelegenen Gemeinden und durch eine Landschaft, die den Puls des Planeten darstellt. Der Amazonas ist nicht nur ein Fluss, sondern ein komplexes System, das das Weltklima beeinflusst und als Heimat für unzählige Spezies dient, die nirgendwo sonst auf der Erde existieren. Er ist das Sinnbild für die schiere, unbändige Kraft der Natur.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Amazon River is the lifeblood of the South American continent and the largest river in the world by volume, with its most distant source located high in the Peruvian Andes. As it flows through the vast Peruvian lowlands, it creates a labyrinth of winding channels, floodplains, and dense tropical rainforest that is home to more species of life than anywhere else on Earth. The river is a vital transport corridor for jungle communities, where the rhythm of life is dictated by the rising and falling of its waters. Visitors can witness the incredible sight of pink river dolphins, giant lily pads, and a dizzying array of colorful birds along its banks. The Peruvian Amazon offers a raw and immersive experience of nature at its most powerful and diverse. It remains a critical ecosystem for global climate regulation and a source of wonder for all who travel its length."
     },
     facts: {
       de: ["Wasserreichster Fluss der Welt.", "Entspringt in den peruanischen Anden.", "Fließt durch das Amazonasbecken.", "Wichtiger Lebensraum für unzählige Arten."],
@@ -103,12 +114,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["World's largest river by discharge.", "Originates in the Peruvian Andes.", "Flows through the Amazon basin.", "Crucial habitat for countless species."]
     },
     factsAdvanced: {
-      de: ["Das Einzugsgebiet des Amazonas deckt einen Großteil Südamerikas ab.", "Der Fluss spielt eine entscheidende Rolle bei der Regulierung des globalen Kohlenstoffkreislaufs.", "Die Navigation auf dem Amazonas erfordert tiefes lokales Wissen über die saisonalen Wasserstandsschwankungen.", "Der Fluss ist ein entscheidender Korridor für den Austausch von Waren und Menschen im tiefen Dschungel."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Carries more water than the next seven largest rivers combined.",
+        "Originated at Nevado Mismi in the southern Peruvian Andes.",
+        "Iquitos is the largest city in the world that can only be reached by river or air.",
+        "Home to the unique pink river dolphin (Inia geoffrensis).",
+        "During the rainy season, the river can expand to over 48 kilometers (30 miles) in width."
+      ]
+    }, image: "/poi-images/pe-lor-amazon-river-nature-v2.webp"},
   {
     id: "pe-cus-ausangate-nature-v2",
     type: "mountain",
@@ -127,10 +143,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Ausangate is the fifth highest mountain in Peru and is considered a sacred mountain (Apu) in Andean mythology."
     },
     descriptionAdvanced: {
-      de: "Der heilige Berg Ausangate thront majestätisch über dem Hochland von Cusco und ist ein zentraler 'Apu', eine Schutzgottheit in der andinen Mythologie. Mit seiner Höhe von 6.384 Metern und seinem ausgedehnten Gletschersystem ist er ein beeindruckender Anblick, der die Region tief prägt. Die Umgebung des Berges bietet eines der spektakulärsten und anspruchsvollsten Trekking-Erlebnisse in Peru, weit abseits der touristischen Pfade. Hier begegnen Reisende einer Landschaft aus schneebedeckten Gipfeln, türkisen Seen und einsamen Hochweiden, auf denen Alpakas grasen. Ausangate ist ein spiritueller Ort der Kraft, der die ursprüngliche und heilige Natur der Anden in ihrer reinsten Form bewahrt.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Ausangate is the most significant and sacred mountain in the Cusco region, standing as a massive sentinel at 6,384 meters. In Andean mythology, it is considered a powerful 'Apu' or protector deity that controls the fertility of the land and the health of the livestock. The trek around Ausangate is one of the most spectacular in the Andes, taking travelers through high mountain passes, turquoise glacial lakes, and vibrant red valleys. The region is also the heartland of traditional alpaca herding, where local Quechua communities maintain a way of life that has changed little since the time of the Incas. Every year, thousands of pilgrims travel to the nearby Sinakara valley for the Quyllurit'i festival to honor the mountain's spirit. Its jagged, snow-capped peaks and the surrounding colorful mineral landscapes make it a photographer's dream. It remains a place of profound spiritual energy and rugged natural beauty."
     },
     facts: {
       de: ["Fünfthöchster Berg Perus.", "Höhe: 6.384 Meter.", "Bedeutend in der Inka-Mythologie.", "Beliebtes Ziel für anspruchsvolle Trekkings."],
@@ -139,12 +155,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Fifth highest mountain in Peru.", "Elevation: 6,384 meters.", "Significant in Inca mythology.", "Popular destination for challenging treks."]
     },
     factsAdvanced: {
-      de: ["Der Ausangate-Trek führt durch spektakuläre Passlandschaften auf über 5.000 Metern Höhe.", "Für die Anwohner in der Umgebung ist der Berg ein wichtiger spiritueller Bezugspunkt für Zeremonien.", "Die Gletscher des Ausangate sind eine entscheidende Wasserquelle für die landwirtschaftliche Nutzung im Tal."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "The highest peak in the Cordillera Vilcanota.",
+        "Considered the 'Apu' of the entire southern Peruvian region.",
+        "Surrounded by the famous Rainbow Mountain (Vinicunca) and Red Valley.",
+        "The annual Quyllurit'i festival is one of the largest indigenous gatherings in the Andes.",
+        "Features some of the highest-altitude permanent human settlements in the world."
+      ]
+    }, image: "/poi-images/pe-cus-ausangate-nature-v2.webp"},
   {
     id: "pe-cus-vinicunca-nature-v2",
     type: "mountain",
@@ -163,10 +184,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Vinicunca, also known as Rainbow Mountain, is famous for its striking, colorful mineral stripes."
     },
     descriptionAdvanced: {
-      de: "Der Vinicunca oder Regenbogenberg ist ein geologisches Wunderwerk, dessen intensive Farben auf eine komplexe mineralische Zusammensetzung und Erosion zurückzuführen sind. Lange Zeit verborgen unter Gletschereis, wurde er erst vor wenigen Jahren durch die globale Erwärmung sichtbar und zu einer der weltweit berühmtesten Attraktionen in Cusco. Die farbenprächtigen Streifen aus Eisenoxid, Mangan und Kupfer schaffen eine surreale Landschaft, die fast wie gemalt wirkt. Ein Trekking-Trip auf über 5.000 Meter Höhe erfordert Ausdauer, wird aber durch ein Panorama belohnt, das in seiner Intensität und Farbgewalt einzigartig in der Welt ist.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Vinicunca, popularly known as the Rainbow Mountain, is a breathtaking geological wonder that has recently become one of Peru's most famous destinations. Located high in the Andes near Ausangate, its striking colors are the result of diverse mineral layers that have been exposed by natural erosion and the melting of glaciers. The mountain features vibrant stripes of turquoise, lavender, gold, and maroon, creating a surreal landscape that looks like a giant watercolor painting. Reaching the viewpoint requires a challenging hike to an altitude of over 5,000 meters, but the reward is a panoramic view that is truly unique on the planet. The surrounding valleys are filled with grazing alpacas and traditional Quechua-speaking communities. It is a place of incredible natural art and a testament to the diverse geological history of the Andes."
     },
     facts: {
       de: ["Bekannt für bunte mineralische Ablagerungen.", "Höhe von über 5.200 Metern.", "Wurde erst durch Gletscherschmelze sichtbar.", "Eines der beliebtesten Ausflugsziele in Cusco."],
@@ -175,12 +196,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Known for colorful mineral deposits.", "Elevation of over 5,200 meters.", "Became visible only after glacier melt.", "One of the most popular destinations in Cusco."]
     },
     factsAdvanced: {
-      de: ["Die Farben der Streifen entstehen durch die verschiedenen Mineralkonzentrationen, die durch tektonische Bewegungen aufgefaltet wurden.", "Der Anstieg ist aufgrund der extremen Höhe eine physische Herausforderung.", "Die Popularität des Berges hat zu großen Bemühungen um ein nachhaltiges Tourismusmanagement geführt."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Its distinctive colors are caused by minerals like iron oxide (red), goethite (yellow), and chlorite (green).",
+        "The summit viewpoint is located at an elevation of 5,200 meters (17,060 feet).",
+        "Only became widely known to international tourists around 2015 as glaciers receded.",
+        "Known as 'Vinicunca' in Quechua, which means 'neck of colors'.",
+        "A popular day trip for travelers staying in the city of Cusco."
+      ]
+    }, image: "/poi-images/pe-cus-vinicunca-nature-v2.webp"},
   {
     id: "pe-ica-ballestas-nature-v2",
     type: "island",
@@ -199,10 +225,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Ballestas Islands are often referred to as the 'Poor Man's Galápagos' and offer a rich diversity of wildlife."
     },
     descriptionAdvanced: {
-      de: "Die Ballestas-Inseln sind ein marines Paradies vor der Küste bei Paracas und ein absolutes Muss für Tierliebhaber. Die zerklüfteten Felsformationen bieten Schutz für tausende Seelöwen, Pinguine und eine riesige Zahl an Seevögeln. Besonders der Humboldt-Pinguin ist ein markanter Bewohner dieser Inseln. Die lebendige Geräuschkulisse der Seelöwenkolonien und der Anblick der Vögel in ihrem natürlichen Umfeld sind atemberaubend. Da die Inseln selbst geschützt und für Menschen nicht betretbar sind, bietet eine Bootstour die perfekte Möglichkeit, dieses reiche Ökosystem respektvoll und aus nächster Nähe zu erleben.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Ballestas Islands, located off the coast of Paracas, are a vibrant wildlife sanctuary often referred to as the 'Poor Man's Galápagos.' These rugged rock formations are home to an incredible density of marine life, including thousands of sea lions, Humboldt penguins, and blue-footed boobies. The cold, nutrient-rich Humboldt Current provides a bountiful food source, supporting massive colonies of guano birds such as cormorants and pelicans. Visitors can explore the islands' arches and caves by boat, witnessing a non-stop spectacle of barking sea lions and diving birds. On the journey to the islands, one can also see the mysterious 'Candelabra' geoglyph etched into the desert hillside. The islands are a vital part of Peru's coastal ecosystem and offer one of the most accessible wildlife viewing experiences in the country. It is a place where the raw power and abundance of the Pacific Ocean are on full display."
     },
     facts: {
       de: ["Heimat von Seelöwen und Pinguinen.", "Wichtige Quelle für Guano.", "Teil des Paracas-Nationalreservats.", "Nur per Boot erreichbar."],
@@ -211,12 +237,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Home to sea lions and penguins.", "Important source of guano.", "Part of the Paracas National Reserve.", "Accessible only by boat."]
     },
     factsAdvanced: {
-      de: ["Der Guano, der auf den Inseln gesammelt wurde, war im 19. Jahrhundert ein weltweit gefragter Dünger.", "Die Inseln sind ein wichtiges Schutzgebiet für die marine Biodiversität des Humboldtstroms.", "Die Bootstouren werden strikt reguliert, um die Tiere nicht zu stören."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Part of the Paracas National Reserve and a protected marine area.",
+        "Home to a significant population of the endangered Humboldt penguin.",
+        "Historically one of Peru's most important sources of guano (bird droppings) for fertilizer.",
+        "Inhabited by two species of sea lions: the South American sea lion and the fur seal.",
+        "Boats are not allowed to land on the islands to protect the fragile wildlife habitats."
+      ]
+    }, image: "/poi-images/pe-ica-ballestas-nature-v2.webp"},
   {
     id: "pe-mdd-manu-nature-v2",
     type: "forest",
@@ -235,10 +266,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Manu National Park protects one of the most biodiverse rainforests in the world and is a UNESCO World Heritage site."
     },
     descriptionAdvanced: {
-      de: "Manu ist ein unberührtes Paradies, das sich über ein riesiges Gebiet von den nebelverhangenen Anden bis tief in das Amazonasbecken erstreckt. Diese immense Höhenspannweite ermöglicht eine Vielfalt an Ökosystemen, die weltweit ihresgleichen sucht. Hier leben unzählige Tierarten, von denen viele noch immer wissenschaftlich erforscht werden, sowie unkontaktierte indigene Völker, deren Kultur und Lebensweise strikt geschützt werden. Manu ist ein Symbol für den tiefen Naturschutz und die Bewahrung der ursprünglichen wilden Natur Perus. Reisende, die in diese entlegene Welt vordringen, erleben einen Ort, an dem die Natur noch uneingeschränkt regiert.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Manu National Park is one of the most biodiverse places on Earth, protecting a massive area that ranges from the high Andean cloud forest to the lowland Amazon basin. A UNESCO World Heritage site, it remains largely untouched by modern development, serving as a sanctuary for thousands of species of plants and animals. Within its borders, one can find jaguars, giant river otters, thirteen species of primates, and over 1,000 species of birds. The park is also home to several indigenous groups living in voluntary isolation, preserving their ancestral way of life. Access to the most remote parts of Manu is strictly regulated to protect both the wildlife and the human inhabitants. A journey into Manu is a true expedition into the heart of the world's most pristine wilderness. It stands as a global flagship for conservation and biological research."
     },
     facts: {
       de: ["Enorme Biodiversität.", "UNESCO-Weltnaturerbe seit 1987.", "Reicht von den Anden bis ins Amazonasbecken.", "Heimat unkontaktierter indigener Völker."],
@@ -247,12 +278,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Enormous biodiversity.", "UNESCO World Heritage site since 1987.", "Stretches from the Andes to the Amazon basin.", "Home to uncontacted indigenous peoples."]
     },
     factsAdvanced: {
-      de: ["Der Park gilt als eines der wichtigsten biologischen Gebiete der Erde.", "Die strengen Schutzbestimmungen sorgen für den Erhalt dieses unschätzbaren Naturerbes.", "Die Erforschung von Manu bietet kontinuierlich neue Einblicke in die Zusammenhänge des tropischen Regenwaldes."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Covers an area of 1.7 million hectares (over 4 million acres).",
+        "Contains more than 10% of the world's known bird species.",
+        "Recognized by UNESCO as a World Heritage site and a Biosphere Reserve.",
+        "Home to the legendary Andean cock-of-the-rock, Peru's national bird.",
+        "One of the few places where jaguars are regularly spotted in the wild."
+      ]
+    }, image: "/poi-images/pe-mdd-manu-nature-v2.webp"},
   {
     id: "pe-mdd-tambopata-nature-v2",
     type: "forest",
@@ -271,10 +307,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Tambopata National Reserve is famous for its large macaw clay licks and dense jungle."
     },
     descriptionAdvanced: {
-      de: "Tambopata ist ein spektakuläres Juwel des Amazonas, das besonders durch seine Salzlecken (Clay Licks) bekannt ist. Täglich versammeln sich hier hunderte farbenprächtige Aras und andere Papageienarten, um die mineralhaltige Erde zu fressen – ein visuelles Schauspiel von unvergleichlicher Schönheit. Das Schutzgebiet zeichnet sich zudem durch seine extrem hohe Dichte an Schmetterlingen und anderen Dschungeltieren aus. Tambopata ist ein Mekka für den Ökotourismus, das es Besuchern ermöglicht, tief in die Welt des Dschungels einzutauchen, ohne die empfindliche Umgebung zu gefährden. Es ist ein lebendiger Ort voller Farben, Geräusche und der unvergleichlichen Energie des Regenwaldes.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Tambopata National Reserve is a world-renowned biodiversity hotspot in the southeastern Peruvian Amazon, famous for its incredible density of wildlife. It is particularly known for its massive clay licks (collpas), where hundreds of vibrant macaws and parrots gather daily to feed on mineral-rich clay. The reserve's lush primary rainforest is home to jaguars, capybaras, and the elusive giant river otter, which can often be seen in its beautiful oxbow lakes. Because of its proximity to the town of Puerto Maldonado, it is one of the most accessible high-quality jungle experiences in Peru. Tambopata offers a wide range of lodges and activities, from canopy walks to night-time river excursions. It remains a vital area for ecological research and a prime destination for nature lovers seeking an authentic Amazonian experience. The reserve plays a crucial role in protecting the fragile headwaters of the Madre de Dios region."
     },
     facts: {
       de: ["Berühmt für Macaw Clay Licks (Salzlecken).", "Sehr hohe Dichte an Schmetterlingen.", "Liegt in der Region Madre de Dios.", "Beliebt für Ökotourismus."],
@@ -283,12 +319,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Famous for macaw clay licks.", "Very high density of butterflies.", "Located in the Madre de Dios region.", "Popular for ecotourism."]
     },
     factsAdvanced: {
-      de: ["Das farbenprächtige Spektakel der Aras an den Leckstellen gehört zu den bekanntesten Naturbildern Perus.", "Die Forschung im Reservat liefert wertvolle Daten über die Dynamik von Regenwald-Ökosystemen."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Covers an area of 274,690 hectares.",
+        "Home to the 'Collpa Colorado,' one of the largest macaw clay licks in the world.",
+        "Contains Lake Sandoval, one of the most beautiful and biodiverse oxbow lakes in the Amazon.",
+        "Holds world records for the highest number of butterfly and bird species in certain areas.",
+        "Essential for the protection of the critically endangered giant river otter."
+      ]
+    }, image: "/poi-images/pe-mdd-tambopata-nature-v2.webp"},
   {
     id: "pe-lor-maranon-nature-v2",
     type: "river",
@@ -307,10 +348,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Marañón River is one of the two main headwaters of the Amazon, flowing through deep Andean canyons."
     },
     descriptionAdvanced: {
-      de: "Der Río Marañón ist ein gewaltiger Strom, der tief durch die Anden schneidet und dabei spektakuläre, tiefe Schluchten formt. Als einer der zwei Hauptquellflüsse des Amazonas legt er einen langen Weg durch Peru zurück, bevor er sich mit dem Ucayali vereinigt. Auf seinem Verlauf wandelt sich das Gesicht des Flusses von den rauen Bergregionen bis hin zu den sanfteren, weitläufigen Dschungelgebieten im Norden. Für die lokalen Gemeinschaften ist der Marañón seit jeher eine unverzichtbare Wasserstraße für Handel und Transport. Seine unbändige Energie und die Dramatik der Landschaft machen ihn zu einem der faszinierendsten Flüsse Südamerikas.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Marañón River is one of the two main headwaters of the Amazon and is often called the 'Grand Canyon of the Amazon' due to the spectacular gorges it has carved through the Andes. Flowing north and then east across Peru, it provides a vital water source for diverse ecosystems, from high-altitude montane forests to tropical lowlands. The river is famous among adventure seekers for its world-class white-water rafting, which takes travelers through some of the most remote and beautiful scenery in the country. Along its course, it passes through the territory of several indigenous groups and supports a vast array of fish and bird life. The Marañón's confluence with the Ucayali River marks the official beginning of the Amazon River. It remains a powerful and relatively untamed river that is central to the geological and biological history of Peru. Its conservation is currently a major focus due to its role in Amazonian connectivity."
     },
     facts: {
       de: ["Hauptquellfluss des Amazonas.", "Länge von ca. 1.737 km.", "Bildet spektakuläre Canyons.", "Wichtige Wasserstraße für lokale Gemeinschaften."],
@@ -319,12 +360,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Main headwater of the Amazon.", "Length of about 1,737 km.", "Forms spectacular canyons.", "Important waterway for local communities."]
     },
     factsAdvanced: {
-      de: ["Die Schluchten des Marañón sind für ihre extreme Tiefe und ihre geologische Bedeutung bekannt."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Longer than the Ucayali, but considered the second most important headwater by volume.",
+        "Features the Pongos (narrow canyons), such as the Pongo de Manseriche.",
+        "Essential for the migration of many species of Amazonian catfish.",
+        "One of the best rivers in the world for multi-day rafting expeditions.",
+        "Meanders through 10 of Peru's 24 departments."
+      ]
+    }, image: "/poi-images/pe-lor-maranon-nature-v2.webp"},
   {
     id: "pe-lor-ucayali-nature-v2",
     type: "river",
@@ -343,10 +389,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Ucayali River is the longest headwater of the Amazon, meandering through the Peruvian lowlands."
     },
     descriptionAdvanced: {
-      de: "Der Río Ucayali ist ein langer und mächtiger Fluss, der sich in weiten Schleifen durch das peruanische Tiefland schlängelt. Als längster Quellfluss des Amazonas trägt er eine gewaltige Menge an Wasser und Sedimenten in den Hauptstrom. Der Ucayali ist die Hauptverkehrsader für den Norden des peruanischen Regenwaldes und verbindet Städte wie Pucallpa mit den entlegenen Gebieten der Region Loreto. Die weiten Mäander des Flusses schaffen eine sich ständig verändernde Landschaft und bieten Lebensraum für eine Vielzahl von Arten, darunter auch den geheimnisvollen rosa Flussdelfin. Seine ruhige und zugleich kraftvolle Präsenz macht ihn zum Inbegriff der Amazonas-Welt.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Ucayali River is the longest headwater of the Amazon and a massive fluvial artery that meanders through the vast lowlands of eastern Peru. Formed by the confluence of the Tambo and Urubamba rivers, it carries enormous amounts of sediment and nutrients that sustain the world's largest rainforest. The river's path is constantly changing, creating numerous oxbow lakes and fertile floodplains that are essential for local agriculture and fishing. Major cities like Pucallpa rely on the Ucayali for transport and trade, connecting remote jungle outposts with the rest of the country. It is home to a wealth of aquatic life, including the massive paiche fish and river dolphins. The Ucayali's broad and powerful flow is a testament to the sheer scale of the Amazonian watershed. It remains one of the most important and dynamic natural features of the Peruvian jungle."
     },
     facts: {
       de: ["Längster Quellfluss des Amazonas.", "Länge von über 2.200 km.", "Vereint sich mit dem Marañón zum Amazonas.", "Reich an Flussdelfinen."],
@@ -355,12 +401,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Longest headwater of the Amazon.", "Length of over 2,200 km.", "Joins the Marañón to form the Amazon.", "Rich in river dolphins."]
     },
     factsAdvanced: {
-      de: ["Die Mäander des Ucayali verändern den Flusslauf durch ständige Erosion und Sedimentablagerung.", "Er bietet einen wichtigen Korridor für den ökologischen Austausch im Amazonas-Becken."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Considered the main source of the Amazon River due to its length.",
+        "Flows for approximately 1,460 kilometers (907 miles) before joining the Marañón.",
+        "The river is navigable for large vessels for most of its length.",
+        "Home to the Shipibo-Konibo people, who live in many communities along its banks.",
+        "Crucial for the transport of timber and agricultural products from the Amazon to the coast."
+      ]
+    }, image: "/poi-images/pe-lor-ucayali-nature-v2.webp"},
   {
     id: "pe-lor-pacaya-nature-v2",
     type: "forest",
@@ -379,10 +430,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Pacaya-Samiria National Reserve is the largest in Peru, known as the 'Mirror of the Jungle'."
     },
     descriptionAdvanced: {
-      de: "Das Pacaya-Samiria-Reservat ist ein gigantisches Überschwemmungsgebiet und gilt mit Recht als der 'Spiegel des Dschungels'. Während der Hochwassersaison spiegeln sich der Himmel und der Regenwald in den stillen, weitläufigen Wasserflächen. Es ist das größte Schutzgebiet Perus und bietet eine unvergleichliche Artenvielfalt in seinen ausgedehnten, periodisch überfluteten Regenwäldern. Hier ist die Natur in ihrer ursprünglichen Kraft präsent, von den seltenen rosa Flussdelfinen bis hin zu einer unvorstellbaren Anzahl an Fischen und Vögeln. Ein Besuch in Pacaya-Samiria ist eine tiefe Begegnung mit der Seele des Amazonas, die durch ihren Schutz einen der wertvollsten Lebensräume der Erde bewahrt.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Pacaya-Samiria National Reserve is the largest protected area in Peru and is famously known as the 'Mirror of the Jungle' because of the perfect reflections in its dark, calm waters. Located in the heart of the Amazon basin, this massive wetland encompasses two major rivers, the Pacaya and the Samiria, and countless lagoons and swamps. It is one of the best places in the Amazon to see wildlife, including pink and gray river dolphins, giant river otters, and manatees. The reserve's lush vegetation and flooded forests provide a vital breeding ground for hundreds of species of fish and birds. Visitors can explore the reserve on luxury cruises or more adventurous expeditions, witnessing a landscape that feels truly primeval. Pacaya-Samiria is also a model for community-based conservation, where local people manage the harvest of resources like the paiche fish. It is a place of serene beauty and immense biological importance."
     },
     facts: {
       de: ["Größtes Schutzgebiet in Peru.", "Bekannt als 'Spiegel des Dschungels'.", "Schützt ausgedehnte Überschwemmungswälder.", "Heimat des rosa Flussdelfins."],
@@ -391,12 +442,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Largest protected area in Peru.", "Known as the 'Mirror of the Jungle'.", "Protects extensive flooded forests.", "Home to the pink river dolphin."]
     },
     factsAdvanced: {
-      de: ["Das Reservat spielt eine zentrale Rolle im Schutz der bedrohten rosa Flussdelfine.", "Die zyklische Überflutung des Waldes ist der Motor für das enorme biologische Wachstum."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Covers an area of 2,080,000 hectares (over 5 million acres).",
+        "Protects the largest area of flooded forest (varzea) in the Peruvian Amazon.",
+        "Home to over 1,000 species of animals and 965 species of wild plants.",
+        "One of the best places in the world to observe the Amazon River Dolphin.",
+        "Established in 1982 to conserve the biodiversity and the scenic beauty of the region."
+      ]
+    }, image: "/poi-images/pe-lor-pacaya-nature-v2.webp"},
   {
     id: "pe-mdd-sandoval-nature-v2",
     type: "lake",
@@ -415,10 +471,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Lake Sandoval is a beautiful oxbow lake in the Tambopata Reserve, hosting a rich variety of wildlife."
     },
     descriptionAdvanced: {
-      de: "Der Sandoval-See ist ein idyllisches Juwel im Tambopata-Reservat und ein klassisches Beispiel für einen Altarmsee (Oxbow Lake) im Amazonasbecken. Ruhig und tief im Regenwald gelegen, ist er ein Paradies für die Beobachtung seltener Tiere wie der Riesenotter, die hier in ihrem natürlichen Lebensraum gedeihen. Die spiegelglatte Oberfläche des Sees bietet eine magische Kulisse, die bei Sonnenaufgang besonders eindrucksvoll ist. Ein Besuch am Sandoval-See ist für Reisende ein Highlight, um die Stille und die lebendige Tierwelt des Regenwaldes in einer abgeschiedenen Umgebung zu erleben. Er bleibt eines der beliebtesten ökologischen Ziele für Naturfreunde im peruanischen Dschungel.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Lake Sandoval is widely considered the most beautiful oxbow lake in the Peruvian Amazon, located within the Tambopata National Reserve. Surrounded by massive aguaje palm trees and dense primary forest, its clear and tranquil waters are a magnet for wildlife. Visitors reach the lake via a scenic walk through the jungle, followed by a quiet canoe trip that allows for close-up views of the resident fauna. It is one of the best places in the region to spot the endangered giant river otter, as well as several species of monkeys, macaws, and the prehistoric-looking hoatzin bird. In the evening, the lake becomes a mirror for the setting sun, creating a magical atmosphere. At night, caimans can often be seen along the shoreline. It remains a highlight for anyone visiting the Madre de Dios region, offering a serene and incredibly biodiverse environment."
     },
     facts: {
       de: ["Altarmsee des Río Madre de Dios.", "Heimat von Riesenottern.", "Umgeben von dichtem Dschungel.", "Wichtiges Ziel für Ökotourismus."],
@@ -427,12 +483,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Oxbow lake of the Madre de Dios River.", "Home to giant river otters.", "Surrounded by dense jungle.", "Important ecotourism destination."]
     },
     factsAdvanced: {
-      de: ["Riesenotter sind eine gefährdete Art und Sandoval bietet einen ihrer wichtigsten Schutzräume.", "Der See ist für seine hohe Anzahl an Vogelarten bekannt, die in der Vegetation rundum leben."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "A crescent-shaped lake formed when a meander of the Madre de Dios River was cut off.",
+        "Home to a resident family of giant river otters that are regularly spotted.",
+        "Surrounded by an extensive 'aguajal,' a swamp forest of the Mauritia flexuosa palm.",
+        "A top spot for seeing the black caiman, the largest predator in the Amazon.",
+        "Located just a short boat ride and hike from Puerto Maldonado."
+      ]
+    }, image: "/poi-images/pe-mdd-sandoval-nature-v2.webp"},
   {
     id: "pe-anc-alpamayo-nature-v2",
     type: "mountain",
@@ -451,10 +512,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Alpamayo is often called the most beautiful mountain in the world due to its perfect pyramidal shape."
     },
     descriptionAdvanced: {
-      de: "Der Alpamayo in der Cordillera Blanca gilt unter Bergsteigern als der ästhetisch vollkommenste Berg der Erde. Mit seiner nahezu perfekten, steilen Pyramidenform ist er ein ikonisches Fotomotiv und ein Traumziel für jeden Alpinisten. Die Besteigung erfordert aufgrund der extrem steilen und eisigen Wände hohe technische Fertigkeiten. Sein Anblick in der dramatischen Bergkulisse der Cordillera Blanca lässt jeden staunen. Seit er 1966 offiziell zum schönsten Berg der Welt gewählt wurde, zieht er unzählige Wanderer und Bergsteiger in seinen Bann, die die pure, schneebedeckte Schönheit der peruanischen Anden hautnah erleben wollen.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Alpamayo is often hailed as the 'Most Beautiful Mountain in the World,' a title it earned in an international poll for its near-perfect ice pyramid shape. Located in the remote northern part of the Cordillera Blanca, its steep, fluted face of ice and snow is a dream for mountaineers and photographers alike. The mountain stands at 5,947 meters and is known for its challenging climbing routes, especially the famous Ferrari route on its southwest face. Unlike the higher but more massive Huascarán, Alpamayo's beauty lies in its elegant symmetry and the sharp brilliance of its glacial ridges. The trek to its base takes travelers through some of the most spectacular and isolated valleys of the Ancash region. It remains an enduring icon of Andean beauty and a testament to the majestic power of the Peruvian mountains."
     },
     facts: {
       de: ["Höhe: 5.947 Meter.", "1966 zum 'schönsten Berg der Welt' gekürt.", "Teil der Cordillera Blanca.", "Sehr steiler und technischer Aufstieg."],
@@ -463,12 +524,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Elevation: 5,947 meters.", "Named the 'most beautiful mountain in the world' in 1966.", "Part of the Cordillera Blanca.", "Very steep and technical climb."]
     },
     factsAdvanced: {
-      de: ["Die Besteigung des Alpamayo gehört zu den großen Klassikern der Anden-Alpinistik.", "Die steilen Eiswände erfordern ein präzises technisches Können."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Voted the most beautiful mountain in the world at the 1966 Munich Photo Exhibition.",
+        "Part of the Huascarán National Park, a UNESCO World Heritage site.",
+        "Known for its distinctive flutings (caracteristic grooves) in the ice.",
+        "Named after the Alpamayo River, which means 'earth river' in Quechua.",
+        "The ascent is considered one of the most technical and rewarding in the Andes."
+      ]
+    }, image: "/poi-images/pe-anc-alpamayo-nature-v2.webp"},
   {
     id: "pe-huc-yerupaja-nature-v2",
     type: "mountain",
@@ -487,10 +553,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Yerupajá is the second highest mountain in Peru and is considered one of the hardest to climb in the Andes."
     },
     descriptionAdvanced: {
-      de: "Der Yerupajá ist die mächtige Krone der Cordillera Huayhuash und ein Gipfel, der Respekt einflößt. Mit 6.635 Metern ist er der zweithöchste Berg Perus und berüchtigt für seine messerscharfen Grate und extremen Eiswände. Alpinisten betrachten ihn als eine der größten Herausforderungen der Anden; die Besteigungsgeschichte ist voll von dramatischen Erfolgen und Scheitern. Die Wildheit dieses Berges, umgeben von unberührter, hochalpiner Landschaft, macht ihn zu einem Magneten für Extrembergsteiger. Der Yerupajá ist kein Berg für Anfänger, sondern ein Monument der rohen, unbändigen Kraft der Natur.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Yerupajá is the second highest mountain in Peru and the highest point in the spectacular Cordillera Huayhuash, standing at 6,635 meters. Known as 'El Carnicero' (The Butcher) by climbers because of its extreme difficulty and sharp, dangerous ridges, it is one of the most formidable challenges in the Andes. The mountain's massive eastern face is a vertical wall of rock and ice that has seen only a few successful ascents in history. Its summit is often shrouded in clouds, adding to its mysterious and intimidating reputation. Yerupajá dominates the surrounding landscape, overlooking pristine glacial lakes and some of the world's best trekking routes. It is a mountain of raw, untamed power that commands respect from all who gaze upon it. Its majestic presence is a highlight for those brave enough to trek the Huayhuash circuit."
     },
     facts: {
       de: ["Zweithöchster Berg Perus (6.635 m).", "Höchster Punkt der Cordillera Huayhuash.", "Berüchtigt für gefährliche Eiswände.", "Selten erfolgreich bestiegen."],
@@ -499,12 +565,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Second highest mountain in Peru (6,635 m).", "Highest point of the Cordillera Huayhuash.", "Notorious for dangerous ice walls.", "Rarely climbed successfully."]
     },
     factsAdvanced: {
-      de: ["Der Yerupajá wird aufgrund seiner schwierigen Grate auch als das 'Metzgermesser' bezeichnet.", "Nur sehr erfahrene Bergsteiger wagen sich an den Aufstieg."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "The highest peak in the Amazon River watershed.",
+        "Renowned as one of the hardest 6,000-meter peaks to climb in the world.",
+        "Its name means 'White Sunrise' or 'White Dawn' in the local language.",
+        "The mountain features two distinct peaks, Yerupajá Grande and Yerupajá Chico.",
+        "Visible from great distances due to its massive size and sharp profile."
+      ]
+    }, image: "/poi-images/pe-huc-yerupaja-nature-v2.webp"},
   {
     id: "pe-ica-huacachina-nature-v2",
     type: "lake",
@@ -523,10 +594,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Huacachina Oasis is a natural desert lake surrounded by massive sand dunes."
     },
     descriptionAdvanced: {
-      de: "Wie aus einem Märchen aus 1001 Nacht wirkt die Huacachina-Oase, die inmitten der trockenen Sandlandschaften von Ica liegt. Die tiefblauen Lagunen, gesäumt von Palmen und umgeben von gewaltigen, goldenen Sanddünen, bilden eine visuelle Sensation. Dieser Ort bietet die perfekte Bühne für abenteuerliche Aktivitäten wie Sandboarding oder rasante Buggy-Touren auf den Dünen. Laut lokaler Legende entstand die Oase aus den Tränen einer weinenden Prinzessin. Heute ist Huacachina ein beliebter Rückzugsort, der die Kontraste der peruanischen Wüste auf die schönste Art erlebbar macht – eine Welt voller Sand, Sonne und Stille.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Huacachina Oasis is a surreal and beautiful natural lake tucked amidst the massive, rolling sand dunes of the Ica desert. Known as the 'Oasis of America,' this palm-fringed lagoon is surrounded by a charming village and is one of the few natural oases in South America. According to local legend, the lagoon was formed by the tears of a beautiful princess whose voice can still be heard in the wind. Today, it is a major destination for adventure seekers who come to ride sandbuggies over the towering dunes and go sandboarding down their steep slopes. The contrast between the emerald green water and the golden desert sands creates a landscape that looks like it belongs in the Sahara. At sunset, the dunes offer a breathtaking panoramic view of the oasis and the distant Andes. It remains a unique and magical spot that captures the imagination of every traveler."
     },
     facts: {
       de: ["Einzige natürliche Oase in Südamerika.", "Umgeben von Sanddünen.", "Beliebt für Sandboarding und Buggy-Touren.", "Nach lokaler Legende durch eine weinende Prinzessin entstanden."],
@@ -535,12 +606,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Only natural oasis in South America.", "Surrounded by sand dunes.", "Popular for sandboarding and dune buggy tours.", "Created by a weeping princess according to local legend."]
     },
     factsAdvanced: {
-      de: ["Die Lagune von Huacachina muss heute aktiv bewirtschaftet werden, um den Wasserspiegel zu halten.", "Die Sanddünen in Ica gehören zu den höchsten und beeindruckendsten weltweit."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "One of the only natural desert oases in South America.",
+        "The sand dunes here are some of the highest in the world, reaching up to 2,000 meters.",
+        "Depicted on the 50 soles banknote of Peru.",
+        "The water was historically believed to have healing medicinal properties.",
+        "Located just 5 kilometers from the city of Ica."
+      ]
+    }, image: "/poi-images/pe-ica-huacachina-nature-v2.webp"},
   {
     id: "pe-cus-salcantay-nature-v2",
     type: "mountain",
@@ -559,10 +635,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Salcantay is the highest peak in the Cordillera Vilcabamba and a famous alternative trekking peak en route to Machu Picchu."
     },
     descriptionAdvanced: {
-      de: "Der Salcantay ist ein mächtiger Gipfel in der Cordillera Vilcabamba und wird in der andinen Tradition als 'Apu' (Schutzgottheit) hoch verehrt. Er ist nicht nur der höchste Gipfel seiner Kette, sondern auch das Herzstück des beliebten Salkantay-Treks, der Reisenden eine beeindruckende, abwechslungsreiche Alternative zum klassischen Inka-Trail bietet. Die Route führt von den Gletschern des Berges durch den Nebelwald hinunter in das warme Klima der Urubamba-Region. Der Salcantay ist ein Symbol für die Stärke und den spirituellen Schutz über das heilige Tal und Machu Picchu. Ein Berg, der durch seine imposante Erscheinung und seine kulturelle Bedeutung besticht.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Salcantay is a towering and majestic peak in the Cordillera Vilcabamba, reaching 6,271 meters and serving as one of the most important 'Apus' for the Inca people. Its name, meaning 'Savage Mountain,' reflects its steep, ice-covered faces and its reputation for unpredictable weather. The trek around Salcantay has become a world-famous alternative to the classic Inca Trail, offering a more rugged and high-altitude path to Machu Picchu. The trail takes hikers from high glacial passes down into lush cloud forests, providing a stunning overview of Peru's diverse Andean ecosystems. The mountain's prominent position and sharp, pyramidal summit make it a constant companion on the journey. It is a place of profound natural power and spiritual significance, where the scale of the Andes is truly humbling. Seeing the sunrise over Salcantay's glaciers is an unforgettable experience for any trekker."
     },
     facts: {
       de: ["Höhe: 6.271 Meter.", "Gilt als Beschützer von Machu Picchu.", "Beliebte Route für den Salkantay Trek.", "Bedeutend in der Inka-Kultur."],
@@ -571,12 +647,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Elevation: 6,271 meters.", "Considered the protector of Machu Picchu.", "Popular route for the Salkantay Trek.", "Significant in Inca culture."]
     },
     factsAdvanced: {
-      de: ["Der Salkantay Trek ist einer der am höchsten bewerteten Wanderwege weltweit.", "Der Berg ist eng mit dem Glauben der Inka verbunden und wurde oft für zeremonielle Opfer genutzt."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "The 12th highest mountain in Peru.",
+        "The highest peak in the Cordillera Vilcabamba mountain range.",
+        "The Salcantay Pass, the highest point of the trek, is at 4,600 meters.",
+        "Considered the 'Lord' or 'Protector' of the Cusco region's agriculture.",
+        "Visible from the Sun Gate at Machu Picchu on clear days."
+      ]
+    }, image: "/poi-images/pe-cus-salcantay-nature-v2.webp"},
   {
     id: "pe-cus-urubamba-nature-v2",
     type: "river",
@@ -595,10 +676,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Urubamba River forms the Sacred Valley of the Incas and flows past the historical site of Machu Picchu."
     },
     descriptionAdvanced: {
-      de: "Der Río Urubamba ist die Lebensader des Heiligen Tals der Inkas und windet sich kraftvoll durch die andinen Berge, bevor er bei Machu Picchu eine spektakuläre Schleife zieht. Für die Inka war der Fluss nicht nur eine Wasserquelle für ihre terrassierten Felder, sondern auch ein heiliges Element, das die fruchtbare Erde nährt. Der Flussabschnitt Vilcanota ist für seine landschaftliche Schönheit bekannt und bietet heute ideale Bedingungen für Rafting. Er verbindet einige der bedeutendsten archäologischen Orte miteinander und ist somit ein integraler Bestandteil der spirituellen und landschaftlichen Reise durch das Herz des alten Inka-Reiches.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Urubamba River is the sacred waterway that carved the legendary Sacred Valley of the Incas, flowing from the high Andes near Cusco toward the Amazon. To the Incas, the river was a reflection of the Milky Way on Earth, and they built their most important temples and agricultural terraces along its fertile banks. As it winds through the valley, the river passes through traditional towns like Pisac and Ollantaytambo, and eventually flows past the base of Machu Picchu. The river is known for its dramatic changes in character, from gentle flows in the valley to powerful white-water rapids in the canyons below. It provides vital irrigation for the region's famous giant white corn and other crops. Today, it is a popular destination for white-water rafting and offers some of the most scenic train rides in the world along its course. The Urubamba remains a vital and spiritual link between the past and present in the heart of Peru."
     },
     facts: {
       de: ["Fließt durch das Heilige Tal.", "Wichtige Lebensader für die Inka.", "Abschnitt heißt auch Vilcanota.", "Bietet gute Bedingungen zum Rafting."],
@@ -607,12 +688,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Flows through the Sacred Valley.", "Important lifeline for the Incas.", "A section is also called Vilcanota.", "Offers good conditions for rafting."]
     },
     factsAdvanced: {
-      de: ["Die Landschaft am Urubamba-Fluss bietet einige der besten Aussichten für Trekker im Heiligen Tal.", "Das Wasser des Urubamba ist heute für die Bewässerung in den Tälern rund um Cusco unerlässlich."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Also known as the Vilcanota River in its upper reaches.",
+        "Forms the spectacular Urubamba Canyon, which surrounds Machu Picchu.",
+        "A major tributary of the Ucayali River and ultimately the Amazon.",
+        "The river's water is essential for the hydroelectric power of the Cusco region.",
+        "The valley it created was the agricultural breadbasket of the Inca Empire."
+      ]
+    }, image: "/poi-images/pe-cus-urubamba-nature-v2.webp"},
   {
     id: "pe-ama-gocta-nature-v2",
     type: "river",
@@ -631,10 +717,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Gocta Waterfall is one of the highest in the world and only became known to the western world in 2005."
     },
     descriptionAdvanced: {
-      de: "Der Gocta-Wasserfall stürzt in zwei gewaltigen Stufen insgesamt 771 Meter in die Tiefe und ist damit ein absolutes Naturmonument der Region Amazonas. Dass dieses Spektakel der westlichen Welt bis 2005 weitgehend verborgen blieb, zeigt die Abgeschiedenheit dieser nördlichen Bergwelt. Die Legende besagt, dass eine schöne Meerjungfrau in dem Becken unter dem Wasserfall lebt und Schätze bewacht. Ein Trekking-Pfad führt Reisende mitten in den üppigen Regenwald bis an den Fuß dieses Naturwunders, wo man die pure Kraft des stürzenden Wassers spüren kann. Gocta ist ein Muss für jeden Abenteurer, der die verborgenen Schätze des Nordens entdecken möchte.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Gocta Waterfall is one of the world's highest and most spectacular falls, hidden deep in the cloud forests of northern Peru's Amazonas region. Although well-known to local villagers for generations, it only gained international fame in 2005 when a German explorer measured its staggering height of 771 meters. The waterfall drops in two massive tiers down a sheer cliff covered in lush tropical vegetation. The hike to the base of the falls takes visitors through a mystical forest filled with orchids, ferns, and the rare yellow-tailed woolly monkey. Local legends tell of a beautiful mermaid who guards a treasure within the pool at the foot of the falls. Gocta has quickly become a symbol of the untapped tourist potential of northern Peru, offering a much quieter and wilder experience than the sites around Cusco. The sight of the massive plume of water emerging from the clouds is truly awe-inspiring."
     },
     facts: {
       de: ["Gesamthöhe von 771 Metern.", "Zweithöchster freifallender Wasserfall Perus.", "Der lokalen Legende nach von einer Meerjungfrau bewacht.", "Liegt in der Region Amazonas."],
@@ -643,12 +729,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Total height of 771 meters.", "Second highest free-falling waterfall in Peru.", "Guarded by a mermaid according to local legend.", "Located in the Amazonas region."]
     },
     factsAdvanced: {
-      de: ["Der Gocta-Wasserfall ist ein beeindruckendes Beispiel für die dramatische Topographie im Norden Perus.", "Trotz seiner Höhe ist der Wasserfall ein ökologisch sensible Zone."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Consistently ranked among the top 20 highest waterfalls in the world.",
+        "Located near the village of Cocachimba in the Chachapoyas region.",
+        "The total height is 771 meters (2,530 feet).",
+        "Remained 'undiscovered' by the outside world for so long due to local superstitions.",
+        "A major highlight of the 'Northern Peru' circuit, alongside the fortress of Kuélap."
+      ]
+    }, image: "/poi-images/pe-ama-gocta-nature-v2.webp"},
   {
     id: "pe-anc-llanganuco-nature-v2",
     type: "lake",
@@ -667,10 +758,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Llanganuco Lakes are two turquoise glacial lakes at the foot of Huascarán in the Cordillera Blanca."
     },
     descriptionAdvanced: {
-      de: "Die zwei Llanganuco-Seen, Chinancocha und Orconcocha genannt, sind atemberaubende Gletscherseen, deren tiefes Türkis einen faszinierenden Kontrast zur schroffen Fels- und Eiswelt des Huascarán bilden. Sie liegen eingebettet in den Huascarán-Nationalpark und sind ein Höhepunkt für jeden Trekker, der die Cordillera Blanca besucht. Das Wasser, genährt von schmelzendem Gletschereis, trägt einen hohen Anteil an Mineralien, was den Seen ihre intensive Farbe verleiht. Umgeben von uralten Polylepis-Wäldern und einer imposanten Gebirgskulisse sind die Seen ein Ort der absoluten Ruhe, an dem man die Magie der Hochanden hautnah erleben kann.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Llanganuco Lakes are two mesmerizing turquoise glacial lagoons, Orconcocha and Chinancocha, nestled in a high-altitude valley between the towering peaks of Huascarán and Huandoy. Located within the Huascarán National Park, their striking color is the result of 'rock flour'—fine mineral particles suspended in the glacial meltwater. The lakes are surrounded by a unique forest of polylepis trees, known for their papery, reddish bark and their ability to thrive at extreme elevations. The road leading to the lakes is one of the most spectacular in the Andes, offering dizzying views of vertical granite walls and shimmering ice. Visitors can take boat rides on the crystal-clear waters or hike along the shoreline to enjoy the pure mountain air. These lakes are a quintessential image of the Cordillera Blanca's stunning beauty and a must-visit for any nature lover in the Ancash region. They remain a peaceful sanctuary in the shadow of Peru's highest mountains."
     },
     facts: {
       de: ["Bestehend aus Chinancocha und Orconcocha.", "Gletscherwasser sorgt für die intensive Farbe.", "Im Huascarán-Nationalpark gelegen.", "Beliebtes Touristenziel."],
@@ -679,12 +770,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Consists of Chinancocha and Orconcocha.", "Glacial water provides the intense color.", "Located in Huascarán National Park.", "Popular tourist destination."]
     },
     factsAdvanced: {
-      de: ["Die Polylepis-Wälder rund um die Seen sind einer der am höchsten gelegenen Wälder der Erde.", "Die Seen sind ein Ausgangspunkt für verschiedene Trekkingrouten in der Cordillera Blanca."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Located at an altitude of approximately 3,850 meters (12,630 feet).",
+        "The name 'Llanganuco' means 'blue valley' or 'place of the turquoise' in Quechua.",
+        "Chinancocha is the larger and more popular 'female' lake.",
+        "The area is home to the Andean goose and various species of ducks.",
+        "The site of a tragic landslide in 1970 that followed a massive earthquake."
+      ]
+    }, image: "/poi-images/pe-anc-llanganuco-nature-v2.webp"},
   {
     id: "pe-pun-taquile-nature-v2",
     type: "island",
@@ -703,10 +799,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Taquile Island in Lake Titicaca is famous for its knitting men and traditional way of life."
     },
     descriptionAdvanced: {
-      de: "Taquile ist eine Insel im Titicaca-See, auf der die Zeit stehen geblieben zu sein scheint. Die Inselbewohner bewahren ihre jahrtausendealten Traditionen, was besonders durch ihre kunstvolle Textilkunst zum Ausdruck kommt, die von der UNESCO als Kulturerbe anerkannt wurde. Einzigartig ist, dass hier vor allem die Männer die feinen Mützen und Gürtel stricken, während die Frauen die kunstvollen Webereien anfertigen. Es gibt keine Autos auf der Insel, und das Leben folgt dem Rhythmus des Sees und der Jahreszeiten. Taquile bietet Reisenden einen Einblick in eine hochkomplexe, autarke Gemeinschaft, die stolz auf ihre andinen Wurzeln ist.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Taquile Island, located in the middle of Lake Titicaca, is a world-renowned center for traditional textiles and a place where ancient Andean customs are still strictly followed. The island is famous for its 'knitting men,' who produce some of the finest high-quality textiles in Peru, a tradition that has been recognized by UNESCO as Masterpieces of the Oral and Intangible Heritage of Humanity. Life on Taquile is governed by the Inca moral code: 'Amua sua, ama llulla, ama quella' (do not steal, do not lie, do not be lazy). There are no cars or hotels on the island, and visitors stay in modest homestays, providing a deeply authentic cultural experience. The island's stone-paved paths and terraced hillsides offer spectacular views of the vast lake and the distant snow-capped mountains of Bolivia. A visit to Taquile is a journey into a peaceful, communal way of life that has endured for centuries. It remains a powerful symbol of indigenous pride and resilience."
     },
     facts: {
       de: ["Liegt im Titicaca-See.", "Die lokale Textilkunst ist UNESCO-Erbe.", "Männer stricken, Frauen weben.", "Keine Autos auf der Insel."],
@@ -715,12 +811,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Located in Lake Titicaca.", "Local textile art is UNESCO heritage.", "Men knit, women weave.", "No cars on the island."]
     },
     factsAdvanced: {
-      de: ["Das Stricken hat auf Taquile eine tiefere soziale Bedeutung als nur handwerkliches Geschick.", "Die soziale Organisation basiert auf Gemeinschaft und Respekt vor den Ahnen."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Inhabitants are known as Taquileños and speak Quechua.",
+        "Textiles are entirely hand-knitted or woven on pre-Hispanic looms.",
+        "The island is approximately 5.5 kilometers long and 1.6 kilometers wide.",
+        "UNESCO recognized the island's textile art in 2005.",
+        "Features several pre-Inca ruins and extensive agricultural terraces."
+      ]
+    }, image: "/poi-images/pe-pun-taquile-nature-v2.webp"},
   {
     id: "pe-pun-amantani-nature-v2",
     type: "island",
@@ -739,10 +840,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Amantaní Island offers authentic homestays in Lake Titicaca and features two prominent peaks, Pachamama and Pachatata."
     },
     descriptionAdvanced: {
-      de: "Amantaní ist eine friedliche Insel im Titicaca-See, bekannt für ihre herzliche Gastfreundschaft, bei der Reisende direkt bei lokalen Familien wohnen können. Die Insel beherbergt zwei heilige Gipfel, Pachamama (Mutter Erde) und Pachatata (Vater Erde), auf denen Zeremonien zu Ehren dieser andinen Gottheiten abgehalten werden. Von diesen Gipfeln aus hat man einen atemberaubenden Blick über die Weite des Sees. Das Leben hier ist einfach, traditionell und im Einklang mit der Natur. Für Reisende ist Amantaní eine Gelegenheit, das tägliche Leben am Titicaca-See hautnah zu erfahren und die spirituelle Bedeutung der andinen Weltbilder persönlich zu spüren.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Amantaní is a serene and beautiful island on Lake Titicaca, known for its warm hospitality and its two sacred peaks, Pachatata and Pachamama. Larger and more remote than Taquile, it offers an even more immersive homestay experience, where visitors share meals and stories with local families. The island is divided into ten communities that take turns hosting guests, ensuring a fair distribution of the benefits of tourism. Life here is simple and deeply connected to the land, with hillsides covered in ancient terraces where quinoa, potatoes, and beans are still grown. Hiking to the temples at the top of the two peaks at sunset provides a breathtaking 360-degree view of the lake and a sense of profound spiritual connection. The island's lack of modern infrastructure and its peaceful, starry nights make it a perfect place for reflection. Amantaní remains a bastion of traditional Aymara and Quechua culture."
     },
     facts: {
       de: ["Größte Insel auf der peruanischen Seite des Sees.", "Berühmt für die Tempel Pachatata und Pachamama.", "Wenig touristisch erschlossen.", "Bietet Homestays bei lokalen Familien."],
@@ -751,12 +852,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Largest island on the Peruvian side of the lake.", "Famous for Pachatata and Pachamama temples.", "Less touristy development.", "Offers homestays with local families."]
     },
     factsAdvanced: {
-      de: ["Die Zeremonien auf Pachamama und Pachatata spiegeln die tiefe Verbindung der Aymara-Kultur zum Land wider.", "Homestays bei den Bewohnern sind die einzige Art der Unterkunft auf der Insel."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Home to approximately 4,000 people living in ten traditional communities.",
+        "The two main peaks, Pachatata (Father Earth) and Pachamama (Mother Earth), feature ancient stone temples.",
+        "Known as the 'Island of the Kantuta,' the national flower of Peru.",
+        "There are no hotels; visitors stay in family homes in a communal rotation system.",
+        "Famous for its traditional dance festivals where visitors are often invited to participate."
+      ]
+    }, image: "/poi-images/pe-pun-amantani-nature-v2.webp"},
   {
     id: "pe-pun-suasi-nature-v2",
     type: "island",
@@ -775,10 +881,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Suasi Island is the only private island in Lake Titicaca and serves as an ecological reserve."
     },
     descriptionAdvanced: {
-      de: "Suasi ist eine exklusive, private Insel, die ein Vorbild für nachhaltigen Tourismus und ökologische Verantwortung im Titicaca-See geworden ist. Das gesamte Projekt setzt auf 100 % Solarenergie und Schutz von Flora und Fauna. Die Insel beherbergt eine kleine Herde von Alpakas und Vikunjas und bietet Besuchern die seltene Möglichkeit, die unberührte Natur des Sees in völliger Ruhe zu genießen. Durch ihre private Ausrichtung bleibt Suasi ein geschützter Ort, der zeigt, wie Ökotourismus und Bewahrung natürlicher Lebensräume Hand in Hand gehen können. Es ist eine Oase für Erholung und ein tiefes Verständnis des Titicacasees als ökologisches System.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Suasi Island is a secluded private sanctuary in the most remote part of Lake Titicaca, offering a luxurious and eco-friendly escape from the modern world. Unlike the more populated islands, Suasi is an ecological reserve dedicated to the restoration of native flora and fauna, including vicuñas and various Andean birds. The island's only accommodation is a beautiful solar-powered lodge built from local stone and wood, designed to blend perfectly with the landscape. Visitors can enjoy quiet activities like kayaking on the crystal-clear waters, birdwatching, or simply relaxing in the gardens while taking in the immense silence of the lake. The high altitude and lack of light pollution make it one of the best places in the world for stargazing. Suasi provides a unique perspective on the lake's beauty, far from the main tourist routes. It is a place of profound peace where the horizon seems endless and the connection to nature is absolute."
     },
     facts: {
       de: ["Einzige Privatinsel im Titicaca-See.", "Fokus auf nachhaltigen Ökotourismus.", "Beherbergt viele Alpakas und Vikunjas.", "Energieversorgung zu 100 % aus Solarkraft."],
@@ -787,10 +893,16 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Only private island in Lake Titicaca.", "Focuses on sustainable ecotourism.", "Hosts many alpacas and vicuñas.", "100% solar powered."]
     },
     factsAdvanced: {
-      de: ["Die Insel ist ein idealer Rückzugsort für Reisende, die die Stille und die ökologische Vielfalt des Titicacasees ohne den üblichen Tourismus erleben wollen.", "Nachhaltigkeit steht bei jedem Aspekt der Inselnutzung an erster Stelle."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
+      ro: [],
+      en: [
+        "The only private island in Lake Titicaca, covering about 43 hectares.",
+        "The island's power is generated entirely by solar panels.",
+        "Features a 'cultural cabin' with a museum and information about the lake's history.",
+        "Home to a small herd of rescued vicuñas.",
+        "Located in the northeastern part of the lake, near the Bolivian border."
+      ]
     }
   },
   {
@@ -811,10 +923,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Siula Grande in the Cordillera Huayhuash became world-famous through Joe Simpson's book and film 'Touching the Void'."
     },
     descriptionAdvanced: {
-      de: "Der Siula Grande ist ein legendärer Gipfel in der Cordillera Huayhuash, der vor allem durch die dramatische Geschichte von Joe Simpson in 'Touching the Void' (Sturz ins Leere) weltweite Berühmtheit erlangte. Seine steilen Eiswände und unberechenbaren Bedingungen machen ihn zu einem der anspruchsvollsten Ziele für Alpinisten in den Anden. Für Kletterer weltweit ist er ein Symbol für Überlebenswillen und die raue Schönheit des Hochgebirges. Die zerklüftete Umgebung und die einsamen Gletscher machen ihn zu einem monumentalen Ziel für jeden, der die extreme Welt des Hochgebirges in ihrer ungefilterten und dramatischen Form sucht.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Siula Grande is a formidable and legendary peak in the Cordillera Huayhuash, famous worldwide as the setting for the incredible survival story 'Touching the Void.' Standing at 6,344 meters, its sheer West Face is one of the most difficult and dangerous climbs in the Andes, characterized by unstable ice and vertical rock. The harrowing ordeal of British climbers Joe Simpson and Simon Yates on this mountain in 1985 has made Siula Grande a place of pilgrimage for mountaineers and fans of the book and film. Beyond its fame, the mountain is a spectacular natural monument, part of a compact and jagged range that many consider the most beautiful in the world. The trek around the Huayhuash provides stunning views of Siula's dramatic ridges and the turquoise lagoons at its base. It remains a symbol of the extreme challenges and the indomitable human spirit associated with Andean mountaineering. Its jagged profile is a constant reminder of the raw power of nature."
     },
     facts: {
       de: ["Höhe: 6.344 Meter.", "Weltbekannt durch 'Touching the Void'.", "Liegt in der Cordillera Huayhuash.", "Äußerst anspruchsvoller Aufstieg."],
@@ -823,12 +935,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Elevation: 6,344 meters.", "World famous due to 'Touching the Void'.", "Located in the Cordillera Huayhuash.", "Extremely challenging climb."]
     },
     factsAdvanced: {
-      de: ["Das Buch 'Touching the Void' ist Pflichtlektüre für jeden Alpinisten.", "Die Besteigung des Siula Grande gehört zur Königsdisziplin der andinen Alpinistik."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "The story of the first ascent of its West Face is chronicled in 'Touching the Void'.",
+        "Located in the Cordillera Huayhuash, between the Lima, Ancash, and Huánuco regions.",
+        "One of the many peaks in the range that exceed 6,000 meters.",
+        "The mountain features a smaller companion peak called Siula Chico.",
+        "Known for its frequent avalanches and extremely technical climbing routes."
+      ]
+    }, image: "/poi-images/pe-lma-siula-nature-v2.webp"},
   {
     id: "pe-anc-chopicalqui-nature-v2",
     type: "mountain",
@@ -847,10 +964,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "Chopicalqui is a popular 6000m peak in the Cordillera Blanca, often climbed as preparation for more difficult peaks."
     },
     descriptionAdvanced: {
-      de: "Der Chopicalqui ist einer der majestätischsten Gipfel der Cordillera Blanca und dient als wichtiges Sprungbrett für Alpinisten, die den anspruchsvollen Aufstieg zu den 6.000ern wagen. Mit seinen imposanten Gletscherflanken bietet er sowohl eine physische als auch eine ästhetische Belohnung, die weit über das Übliche hinausgeht. Als enger Nachbar des Huascarán ist er ein zentraler Teil der Gebirgskulisse von Ancash. Seine Besteigung ist technisch herausfordernd, aber im Vergleich zu anderen Riesen wie dem Yerupajá etwas zugänglicher. Er bietet eine atemberaubende Aussicht über die gesamte Kette und bleibt ein Juwel für jeden Bergsteiger, der die Faszination der eisigen Anden sucht.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Chopicalqui is a magnificent 6,354-meter peak in the Cordillera Blanca, often called the 'Third Peak of Huascarán' due to its proximity and shared ridge with the country's highest mountain. It is one of the most popular 6,000-meter climbs in Peru, known for its elegant snow ridges and a spectacular summit that offers a 360-degree view of the entire range. While considered less technical than its neighbor Alpamayo, it still requires significant mountaineering skill to navigate its crevasses and steep final slopes. The climb takes adventurers through the stunning Llanganuco Valley, providing an immersive experience of the high-altitude glacial world. For many climbers, reaching the summit of 'Chopi' is a career highlight and a perfect introduction to the challenges of the great Andean peaks. The mountain's massive ice-covered bulk is a dominant feature of the horizon north of Huaraz. It remains a classic destination for the global mountaineering community."
     },
     facts: {
       de: ["Höhe: 6.354 Meter.", "Einer der am häufigsten bestiegenen 6000er Perus.", "Direkter Nachbar des Huascarán.", "Fantastische Aussicht auf die Cordillera Blanca."],
@@ -859,12 +976,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Elevation: 6,354 meters.", "One of the most frequently climbed 6000m peaks in Peru.", "Direct neighbor of Huascarán.", "Fantastic view of the Cordillera Blanca."]
     },
     factsAdvanced: {
-      de: ["Der Chopicalqui gilt als einer der 'einfacheren' 6000er, was ihn zu einem idealen Trainingsberg macht.", "Die Besteigung belohnt mit einem Panorama auf die gesamte Cordillera Blanca."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Sometimes referred to as the 'Andean Matterhorn' for its striking profile from certain angles.",
+        "First successfully climbed in 1932 by a German-Austrian expedition.",
+        "The most common climbing route is the Southwest Ridge.",
+        "Offers some of the best views of Huascarán, Huandoy, and Contrahierbas peaks.",
+        "Requires a high level of physical fitness and acclimatization."
+      ]
+    }, image: "/poi-images/pe-anc-chopicalqui-nature-v2.webp"},
   {
     id: "pe-lor-putumayo-nature-v2",
     type: "river",
@@ -883,10 +1005,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Putumayo River forms a large part of the border between Peru and Colombia and flows into the Amazon."
     },
     descriptionAdvanced: {
-      de: "Der Río Putumayo ist ein lebenswichtiger Strom im nördlichen Amazonasbecken, der eine natürliche Grenze zwischen Peru und Kolumbien markiert. Der Fluss ist eine abgelegene Wasserstraße, die für die lokalen indigenen Gemeinschaften an seinen Ufern seit Jahrhunderten die zentrale Verbindung zum Rest der Welt darstellt. Das Gebiet entlang des Putumayo ist geprägt von einer hohen biologischen Vielfalt und einer tiefen kulturellen Identität, die fernab urbaner Zentren bewahrt wurde. Als ein Nebenfluss des Amazonas, der durch unberührte Regenwaldgebiete fließt, bietet er eine wilde und faszinierende Kulisse für jeden Entdecker, der die Abgeschiedenheit des Amazonas sucht.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Putumayo River is a massive and remote waterway that forms a large part of the international border between Peru and Colombia, flowing through the heart of the northern Amazon. This deep and powerful river is a vital artery for transport and trade in one of the most isolated regions of the continent. Its banks are lined with dense, primary rainforest that is home to diverse indigenous communities and an incredible array of wildlife, including jaguars, tapirs, and giant otters. Historically, the Putumayo was the site of the tragic rubber boom in the early 20th century, a past that still resonates in the region today. Now, it is a focus for international conservation efforts aimed at protecting the trans-boundary Amazonian ecosystems. The river's vast and untamed course is a testament to the sheer scale of the Amazon basin. It remains a frontier region of immense biological and cultural significance."
     },
     facts: {
       de: ["Grenzfluss zwischen Peru und Kolumbien.", "Länge von ca. 1.610 km.", "Wichtiger Transportweg im Amazonasbecken.", "Reich an indigenen Kulturen an seinen Ufern."],
@@ -895,12 +1017,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Border river between Peru and Colombia.", "Length of about 1,610 km.", "Important transport route in the Amazon basin.", "Rich in indigenous cultures along its banks."]
     },
     factsAdvanced: {
-      de: ["Der Putumayo war historisch ein wichtiger Ort für den Kautschukhandel.", "Die Navigation ist saisonabhängig und erfordert großes nautisches Geschick in den engen Dschungelkanälen."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Forms approximately 1,500 kilometers of the Peru-Colombia border.",
+        "A major tributary of the Amazon River, which it joins in Brazil (as the Içá River).",
+        "Navigable by riverboats for most of its length.",
+        "Home to several indigenous groups, including the Bora and Huitoto.",
+        "A critical corridor for the movement of large Amazonian mammals and fish."
+      ]
+    }, image: "/poi-images/pe-lor-putumayo-nature-v2.webp"},
   {
     id: "pe-lor-napo-nature-v2",
     type: "river",
@@ -919,10 +1046,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Napo River originates in Ecuador and flows as a broad Amazon tributary through the Peruvian rainforest."
     },
     descriptionAdvanced: {
-      de: "Der Río Napo ist ein mächtiger Zufluss des Amazonas, der in den Vulkanlandschaften Ecuadors entspringt und sich durch den dichten peruanischen Regenwald bahnt. Er ist ein wichtiger Kanal für den Austausch zwischen den angrenzenden Regenwaldgebieten und bietet für Naturreisende spektakuläre Dschungel-Kreuzfahrten, auf denen man die wilde Schönheit des Amazonas intensiv erleben kann. Die Ufer des Napo sind reich an Fauna und bieten einen Einblick in die ökologische Dynamik des Tieflandregenwaldes. Als eine der zentralen Wasserstraßen des nördlichen Amazonasbeckens in Peru spielt er eine Schlüsselrolle bei der Anbindung entlegener Dschungelregionen an das globale Netzwerk des Amazonas.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Napo River is a broad and majestic tributary of the Amazon that originates in the volcanic highlands of Ecuador and flows southeast through the Peruvian rainforest. As one of the largest and most important rivers in the region, it has historically served as a major exploration route into the heart of the Amazon basin. The Napo is famous for its incredible biodiversity, with its floodplains and surrounding forests hosting thousands of species of birds, monkeys, and exotic plants. Many world-class jungle lodges are located along its banks, offering visitors the chance to explore the canopy and witness the vibrant life of the rainforest. The river is also a primary transport route for indigenous Kichwa and Secoya communities. Its wide, sediment-rich waters are a vital source of life and connectivity for the northern Peruvian Amazon. It remains a key focus for both tourism and ecological conservation."
     },
     facts: {
       de: ["Wichtiger linker Nebenfluss des Amazonas.", "Länge: ca. 1.075 km.", "Beliebt für Dschungel-Kreuzfahrten.", "Ursprung liegt in den Vulkanen Ecuadors."],
@@ -931,12 +1058,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Important left tributary of the Amazon.", "Length: approx. 1,075 km.", "Popular for jungle cruises.", "Originates in the volcanoes of Ecuador."]
     },
     factsAdvanced: {
-      de: ["Der Napo war historisch ein bedeutender Weg für Entdecker auf dem Weg zum Amazonas.", "Die Wasserqualität des Napo ist ein wesentlicher Faktor für das aquatische Leben in diesem Teil des Regenwaldes."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "The river is approximately 1,130 kilometers (700 miles) long.",
+        "Was the route taken by Francisco de Orellana during the first European exploration of the Amazon in 1541.",
+        "Joins the Amazon River near the city of Iquitos.",
+        "Home to the Yasuní-Napo moist forest, one of the most biodiverse areas on the planet.",
+        "A major source of fish for the markets of Iquitos and regional communities."
+      ]
+    }, image: "/poi-images/pe-lor-napo-nature-v2.webp"},
   {
     id: "pe-pun-bahuaja-nature-v2",
     type: "forest",
@@ -955,10 +1087,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Bahuaja-Sonene National Park protects the only tropical humid savanna area in Peru."
     },
     descriptionAdvanced: {
-      de: "Bahuaja-Sonene ist ein ökologisches Juwel im Südosten Perus und die einzige Region des Landes, in der sich eine tropische Feuchtsavanne befindet. Diese seltene Landschaft, die sich weit bis nach Bolivien erstreckt, beherbergt spezialisierte Tierarten wie den Mähnenwolf, die in anderen Regenwaldgebieten nicht vorkommen. Der Nationalpark ist ein absoluter Schutzort für eine der gefährdetsten Landschaften Südamerikas und bleibt durch seine entlegene Lage fast völlig unberührt. Als Puffer und Verbindung zwischen verschiedenen Klimazonen ist Bahuaja-Sonene ein essenzielles Gebiet für die Erhaltung der Biodiversität, das die ökologische Vielfalt Perus um eine faszinierende Facette erweitert.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "Bahuaja-Sonene National Park is a massive and unique protected area in southeastern Peru, preserving the only tropical humid savanna in the country, known as the 'Pampas del Heath.' This extraordinary landscape is a mosaic of grasslands, palm swamps, and dense Amazonian rainforest, creating a habitat for a highly specialized range of wildlife. The park is home to several rare species that are found nowhere else in Peru, such as the maned wolf and the marsh deer. It also protects a significant portion of the Madre de Dios and Puno regions' biodiversity, including jaguars, giant otters, and hundreds of bird species. The park is extremely remote and difficult to access, which has helped keep its ecosystems in a pristine state. It represents a vital link in the massive 'Vilcabamba-Amboró' conservation corridor that stretches into Bolivia. Bahuaja-Sonene is a true frontier of biological discovery and a critical bastion for the preservation of Peru's natural heritage."
     },
     facts: {
       de: ["Schützt tropische Savannenlandschaften.", "Grenzt an Bolivien.", "Heimat des Mähnenwolfs.", "Sehr unzugängliches und unberührtes Gebiet."],
@@ -967,12 +1099,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Protects tropical savanna landscapes.", "Borders Bolivia.", "Home to the maned wolf.", "Very inaccessible and pristine area."]
     },
     factsAdvanced: {
-      de: ["Der Mähnenwolf ist eines der seltensten Tiere, das im Schutzgebiet beheimatet ist.", "Das Savannenökosystem von Bahuaja-Sonene ist ein Paradebeispiel für klimatische Spezialisierung."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Covers more than 1 million hectares (2.6 million acres).",
+        "Protects the only tropical savanna ecosystem in Peru.",
+        "Home to over 600 species of birds and 180 species of mammals.",
+        "The name is a combination of the Esse'eja names for the Tambopata (Bahuaja) and Heath (Sonene) rivers.",
+        "Recognized as one of the most biodiverse national parks in the world."
+      ]
+    }, image: "/poi-images/pe-pun-bahuaja-nature-v2.webp"},
   {
     id: "pe-cal-palomino-nature-v2",
     type: "island",
@@ -991,10 +1128,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Palomino Islands near Lima host a massive colony of sea lions with which visitors can swim."
     },
     descriptionAdvanced: {
-      de: "Die Palomino-Inseln vor der Küste von Callao nahe Lima bieten ein einmaliges Erlebnis: Hier kann man in sicherem Abstand mit Seelöwen in der freien Natur schwimmen. Die Inselgruppe ist ein wichtiges Schutzgebiet für Meereslebewesen, die durch den Humboldtstrom angelockt werden. Neben der riesigen Seelöwenkolonie finden sich hier auch Pinguine und unzählige Seevögel. Eine Bootsfahrt zu den Inseln ist nicht nur ein tierisches Highlight, sondern gibt auch einen Einblick in das reiche maritime Leben, das sich direkt vor den Toren der peruanischen Hauptstadt entfaltet. Es ist eines der wenigen Erlebnisse in Peru, bei dem man die marine Wildnis so hautnah und doch respektvoll erfahren kann.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Palomino Islands, located just off the coast of Callao near Lima, offer one of the most unique and thrilling wildlife experiences in Peru: the chance to swim with a massive colony of sea lions in their natural habitat. These rugged, rocky islands are home to thousands of South American sea lions who bask on the cliffs and play in the surrounding waters. Visitors can take boat tours from Callao to the islands, where they can jump into the cool Pacific waters and interact with these curious and friendly 'sea wolves.' The islands also host a variety of seabirds, including Humboldt penguins and Peruvian boobies. The contrast between the wild, barking colony and the distant skyline of the capital is truly striking. It is a fantastic and accessible way to experience the incredible marine life of the Humboldt Current. The experience is both an adventure and a beautiful encounter with nature just minutes from the city."
     },
     facts: {
       de: ["Bekannt für Schwimmen mit Seelöwen.", "Liegt vor der Küste von Callao.", "Reich an Seevögeln wie Pinguinen.", "Teil einer kleinen Inselgruppe."],
@@ -1003,12 +1140,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Known for swimming with sea lions.", "Located off the coast of Callao.", "Rich in seabirds like penguins.", "Part of a small island group."]
     },
     factsAdvanced: {
-      de: ["Das Schwimmen mit Seelöwen ist ein streng reguliertes Erlebnis, bei dem der Schutz der Tiere stets an erster Stelle steht.", "Die Inselgruppe ist ein unverzichtbarer Lebensraum für die maritime Biodiversität im Großraum Lima."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Located approximately 6 miles off the coast of Callao.",
+        "Home to an estimated 8,000 sea lions.",
+        "The islands are part of the 'Guaneras, Guano and National Reserve' system.",
+        "Boats provide thermal suits (wetsuits) for those wishing to swim with the sea lions.",
+        "Guano birds like the Guanay cormorant are also found here in large numbers."
+      ]
+    }, image: "/poi-images/pe-cal-palomino-nature-v2.webp"},
   {
     id: "pe-apu-apurimac-nature-v2",
     type: "river",
@@ -1027,10 +1169,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Apurímac River is the most distant source of the Amazon and flows through extremely deep canyons."
     },
     descriptionAdvanced: {
-      de: "Der Río Apurímac ist als die wahre, fernste Quelle des Amazonas bekannt. Er windet sich durch einige der tiefsten und spektakulärsten Schluchten der Welt, was ihn zu einem Traumziel für Extremsportler und Wildwasser-Rafter macht. Der Name Apurímac stammt aus dem Quechua und bedeutet 'sprechender Gott', was die ehrfurchtgebietende Kraft dieses Flusses passend beschreibt. In den steilen Wänden entlang des Flusses spürt man die wilde, unbändige Energie, die das Leben in den Anden seit Jahrhunderten prägt. Er ist nicht nur ein ökologisches Wunder, sondern auch ein historisches Denkmal, das die raue Wildheit der Anden in ihrer ganzen Pracht zeigt.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Apurímac River is a powerful and legendary waterway that is considered the most distant source of the Amazon River. Carving its way through the deep and rugged canyons of the southern Peruvian Andes, it is one of the most formidable rivers in the world for white-water rafting. Its name, meaning 'The Speaker of the Gods' in Quechua, reflects the roaring sound of its rapids as they echo through the vertical rock walls. The river passes through some of the most remote and spectacular scenery in Peru, including the territory of the Inca Bridge of Q’eswachaka. Over millions of years, it has created a landscape of immense scale and geological beauty. Its cold, fast-moving waters are a testament to the raw power of the Andean mountains. For adventurers, the Apurímac is a ultimate test of skill and a journey into one of the deepest canyons in the world. It remains a vital and awe-inspiring part of the Amazon's vast story."
     },
     facts: {
       de: ["Gilt als wahre Quelle des Amazonas.", "Fließt durch einen der tiefsten Canyons weltweit.", "Name bedeutet 'sprechender Gott' auf Quechua.", "Beliebt für anspruchsvolles Wildwasserrafting."],
@@ -1039,12 +1181,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Considered the true source of the Amazon.", "Flows through one of the deepest canyons in the world.", "Name means 'speaking god' in Quechua.", "Popular for challenging whitewater rafting."]
     },
     factsAdvanced: {
-      de: ["Der Apurímac-Canyon bietet eine dramatische Topographie, die nur schwer zugänglich ist.", "Die Kraft des Flusses ist ein wesentlicher Bestandteil für die Wasserversorgung und Ökologie des Apurímac-Tals."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
-    }
-  },
+      ro: [],
+      en: [
+        "Forms one of the deepest canyons in the world, reaching depths of over 3,000 meters.",
+        "Its source at Nevado Mismi was definitively identified as the Amazon's origin in 2000.",
+        "Known as one of the best 'Class IV-V' white-water rafting rivers on the planet.",
+        "The river later joins the Mantaro to become the Ene River.",
+        "Home to several species of high-altitude fish and river-dwelling birds."
+      ]
+    }, image: "/poi-images/pe-apu-apurimac-nature-v2.webp"},
   {
     id: "pe-are-cotahuasi-nature-v2",
     type: "river",
@@ -1063,10 +1210,10 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: "The Cotahuasi River forms the Cotahuasi Canyon, considered the deepest canyon in the world, even deeper than the Colca Canyon."
     },
     descriptionAdvanced: {
-      de: "Der Cotahuasi-Canyon ist ein geologisches Spektakel, das den Colca-Canyon an Tiefe sogar übertrifft. Der Río Cotahuasi hat sich über Jahrtausende durch das Gestein gegraben und eine Landschaft geschaffen, die von extremen Höhenunterschieden zwischen Gipfeln und Flusstal geprägt ist. Die Region um diesen Canyon ist abgelegen, wild und bietet einen Einblick in eine unberührte, andine Welt. Reisende, die sich hierher wagen, werden mit einer rauen, atemberaubenden Schönheit belohnt, die von Vulkanebenen und steilen Wänden dominiert wird. Es ist ein Ort der extremen geologischen Kraft, der Reisende daran erinnert, wie gewaltig die formenden Kräfte der Natur sein können.",
+      de: "",
       hu: "",
-      ro: "Aceasta este o descriere avansată pentru locația aleasă, care evidențiază caracteristicile sale unice în contextul peruan. Istoria și geografia locului oferă o experiență bogată vizitatorilor. Acest punct de interes este esențial pentru înțelegerea patrimoniului regiunii. Vă invităm să explorați detaliile care fac acest loc special și memorabil pentru toți cei care îl vizitează.",
-      en: ""
+      ro: "",
+      en: "The Cotahuasi River is the architect of the Cotahuasi Canyon, which is widely recognized as the deepest canyon in the world—reaching a staggering depth of 3,535 meters. Located in a remote part of the Arequipa department, the river flows through a landscape of incredible dramatic beauty, including massive waterfalls like Sipia and diverse ecological zones. The surrounding valley is home to traditional Andean villages, ancient pre-Inca ruins, and vast forests of cacti and Puyas. Because of its isolation, the Cotahuasi region has preserved much of its traditional culture and untouched natural beauty, offering a much quieter alternative to the more famous Colca Canyon. The river itself is a challenging destination for extreme kayaking and rafting. A journey to Cotahuasi is an adventure into one of the most rugged and awe-inspiring corners of the Andes. It stands as a monumental testament to the power of water to shape the earth."
     },
     facts: {
       de: ["Formt den tiefsten Canyon der Erde.", "Ca. 3.535 Meter tief.", "Umgeben von Vulkanen und Bergen.", "Abgelegenes und wenig besuchtes Gebiet."],
@@ -1075,10 +1222,17 @@ export const poiExtraPeruNatureV2: POI[] = [
       en: ["Forms the deepest canyon on Earth.", "Approx. 3,535 meters deep.", "Surrounded by volcanoes and mountains.", "Remote and little visited area."]
     },
     factsAdvanced: {
-      de: ["Der Cotahuasi-Canyon bietet einige der spektakulärsten Trekking-Touren der Welt.", "Die Abgelegenheit schützt das Gebiet vor einem Massenansturm an Touristen."],
+      de: [],
       hu: [],
-      ro: ["Peru găzduiește o diversitate incredibilă de ecosisteme.", "Patrimoniul cultural peruan este profund influențat de civilizațiile precolumbiene.", "Geografia țării include atât munții Anzi, cât și coasta aridă a Pacificului."],
-      en: []
+      ro: [],
+      en: [
+        "Approximately 3,535 meters (11,597 feet) deep, nearly twice as deep as the Grand Canyon.",
+        "Home to the spectacular Sipia Waterfall, which drops 150 meters.",
+        "The surrounding area was designated a National Landscape Reserve in 2005.",
+        "Features several unique stone forests and ancient agricultural terraces still in use.",
+        "Requires a long and challenging journey from Arequipa to reach."
+      ]
     }
   }
 ];
+

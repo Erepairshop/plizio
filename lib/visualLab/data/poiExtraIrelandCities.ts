@@ -16,8 +16,8 @@ export const poiExtraIrelandCities: POI[] = [
     descriptionAdvanced: {
       de: "Drogheda, strategisch günstig an der Mündung des Flusses Boyne gelegen, blickt auf eine über tausendjährige Geschichte zurück, die von wikingerzeitlichen Anfängen bis hin zu bedeutenden mittelalterlichen Handelsbeziehungen reicht. Die Stadt spielte eine zentrale Rolle während der turbulenten irischen Geschichte, insbesondere bei der berühmten Belagerung durch Oliver Cromwell im Jahr 1649, die noch heute tief im kollektiven Gedächtnis der Region verankert ist. Heute besticht Drogheda durch das imposante St. Laurence Gate, eines der wenigen vollständig erhaltenen mittelalterlichen Stadttore in Irland, das Besucher in die Vergangenheit entführt. Die Stadt dient als ein kulturelles Bindeglied zwischen der urbanen Moderne Dublins und der mystischen Landschaft des nahegelegenen Boyne Valley, wo prähistorische Denkmäler wie Newgrange weltweite Bekanntheit erlangt haben. Ihre lebendige Atmosphäre und der historische Hafen machen sie zu einem essenziellen Ziel für alle, die das authentische Irland jenseits der Hauptstädte entdecken möchten.",
       hu: "Drogheda, amely stratégiailag a Boyne folyó torkolatánál helyezkedik el, több mint ezeréves múltra tekint vissza, a viking alapítású kezdetektől a középkori kereskedelmi jelentőségéig. A város kulcsfontosságú szerepet játszott az ír történelem drámai eseményeiben, különösen az 1649-es cromwelli ostrom idején, amely máig élesen él a régió emlékezetében. Ma a város a St. Laurence kapuval büszkélkedhet, amely Írország egyik legjobban megőrzött középkori városkapuja. Drogheda kulturális hidat képez Dublin modern világa és a közeli Boyne-völgy misztikus tája között, ahol olyan őskori emlékek találhatók, mint Newgrange. A folyó menti kikötő és az élő történelem teszi a várost kihagyhatatlan úti céllá azoknak, akik az autentikus Írországot keresik. Földrajz K7 – folyók és történelmi városok.",
-      ro: "",
-      en: "Drogheda, strategically located at the mouth of the River Boyne, has a history spanning over a thousand years, evolving from a Viking settlement to a medieval trading powerhouse. The town played a crucial role in Ireland’s turbulent past, notably during the 1649 siege by Oliver Cromwell, an event still etched in the local consciousness. Today, visitors are drawn to the iconic St. Laurence Gate, one of Ireland’s few fully intact medieval town gates. Acting as a cultural bridge between Dublin’s urban energy and the mystical Boyne Valley, home to prehistoric wonders like Newgrange, Drogheda offers an authentic Irish experience. Its vibrant atmosphere, historic harbor, and deep archaeological roots make it an essential destination for those exploring the rich heritage of the east coast."
+      ro: "Orașul Drogheda, situat strategic pe malurile râului Boyne, reprezintă unul dintre cele mai vechi așezăminte fortificate din Irlanda. Istoria sa tumultoasă, marcată de conflictele normande și de asediul condus de Oliver Cromwell, este gravată în structura arhitecturală a centrelor urbane istorice. Pentru curriculumul școlar, orașul funcționează ca un portal viu spre înțelegerea evoluției economice și militare a insulei, de la Evul Mediu până la revoluția industrială. Punctele de referință, cum ar fi poarta masivă Sfântul Laurențiu, stau mărturie tehnicilor avansate de apărare folosite în secolul al XIII-lea. Poziția sa geografică la granița comitatelor Louth și Meath continuă să-i asigure un rol important în dezvoltarea infrastructurii regionale moderne.",
+      en: "Drogheda is one of the oldest towns in Ireland, located in County Louth, uniquely straddling the River Boyne just before it enters the Irish Sea. During the medieval period, it was a heavily fortified town and a critical stronghold within the English Pale. Tragically, Drogheda is most famous for the brutal massacre of its garrison and civilians by Oliver Cromwell's forces in 1649. Today, the town's towering medieval structures, such as St. Laurence's Gate, stand alongside modern industry, representing centuries of resilience.",
     },
     facts: {
       de: ["Gründung im 12. Jahrhundert.", "Das St. Laurence Gate ist erhalten.", "Wichtiger Hafen an der Ostküste."],
@@ -44,18 +44,19 @@ export const poiExtraIrelandCities: POI[] = [
         "A város két megye, Louth és Meath területén fekszik.",
         "Egykor az egyik legfontosabb kereskedőváros volt."
       ],
-      ro: [],
+      ro: [
+      "Drogheda a fost scena unuia dintre cele mai sângeroase asedii din istoria Irlandei, cel din 1649 condus de Cromwell.",
+      "Poarta St. Laurence, considerată una dintre cele mai bine conservate porți medievale europene (barbicană), datează din secolul al XIII-lea.",
+      "Biserica Sfântul Petru din oraș adăpostește relicva capului Sfântului Oliver Plunkett.",
+      "Viaductul feroviar Boyne, finalizat în 1855, reprezintă o capodoperă a ingineriei civile victoriene."
+    ],
       en: [
-        "Originally established as a Norse Viking settlement in the 10th century.",
-        "Site of the infamous 1649 Siege of Drogheda during the Cromwellian conquest.",
-        "The 13th-century St. Laurence Gate is a rare surviving medieval town gate.",
-        "Strategically situated at the mouth of the River Boyne, vital for medieval trade.",
-        "Part of the broader Boyne Valley, which hosts UNESCO World Heritage sites.",
-        "The town is unique in spanning across two counties, Louth and Meath.",
-        "Once one of the most important trading hubs in the Pale region."
-      ]
-    }
-  },
+      "Drogheda was originally formed by the merging of two distinct Norman settlements in 1412.",
+      "St. Laurence's Gate is widely considered one of the finest medieval barbicans in Europe.",
+      "The town suffered a catastrophic massacre led by Oliver Cromwell in September 1649.",
+      "St. Peter's Church famously houses the preserved, mummified head of Saint Oliver Plunkett."
+    ],
+    }, image: "/poi-images/city-drogheda-extra.webp"},
   {
     id: "city-bray-extra",
     type: "city",
@@ -71,8 +72,8 @@ export const poiExtraIrelandCities: POI[] = [
     descriptionAdvanced: {
       de: "Bray, das als das Tor zur Grafschaft Wicklow bekannt ist, hat sich im 19. Jahrhundert von einem kleinen Fischerdorf zu einem der mondänsten viktorianischen Seebäder Irlands entwickelt. Die spektakuläre Strandpromenade, die sich über 1,5 Kilometer erstreckt, bietet nicht nur einen herrlichen Ausblick auf die Irische See, sondern ist auch der perfekte Ausgangspunkt für Wanderungen entlang der Küste, etwa zum markanten Berg Bray Head. Mit der Ankunft der Eisenbahnlinie, der heutigen DART-Verbindung, wurde Bray zum beliebten Ausflugsziel für die Einwohner Dublins, was die Stadt bis heute prägt. Neben dem historischen Charme der viktorianischen Architektur bietet der Ort ein lebendiges Gemeinschaftsgefühl, zahlreiche Festivals und eine direkte Verbindung zur wilden Natur der Wicklow Mountains. Als kultureller Knotenpunkt verbindet Bray auf einzigartige Weise die maritime Tradition mit einem modernen Lebensstil und ist für Wanderer und Familien gleichermaßen ein unverzichtbarer Anlaufpunkt im Osten der Insel.",
       hu: "Bray, a Wicklow-megye kapujaként is ismert, a 19. században egy kis halászfaluból Írország egyik legelegánsabb viktoriánus fürdővárosává nőtte ki magát. Az 1,5 kilométer hosszú tengerparti sétány nemcsak csodálatos kilátást nyújt az Ír-tengerre, hanem ideális kiindulópont a tengerparti túrákhoz, például a jellegzetes Bray Head hegyre. A vasút, a mai DART-összeköttetés érkezésével Bray a dubliniak népszerű kirándulóhelyévé vált, ami a mai napig meghatározza a város karakterét. A viktoriánus építészet történelmi bája mellett a település pezsgő közösségi élettel, számos fesztivállal és a közeli Wicklow-hegység vadregényes tájaival kínál kapcsolatot. Kulturális csomópontként Bray egyedülálló módon ötvözi a tengeri hagyományokat a modern életstílussal, így a túrázók és családok számára is nélkülözhetetlen célpont a sziget keleti részén. Földrajz K6 – tengerparti üdülőhelyek és geográfia.",
-      ro: "",
-      en: "Bray, known as the gateway to County Wicklow, evolved from a small fishing village into one of Ireland’s most fashionable Victorian seaside resorts during the 19th century. Its spectacular 1.5-kilometer seaside promenade offers breathtaking views of the Irish Sea and serves as the perfect starting point for coastal hikes, most notably up the striking Bray Head hill. With the arrival of the railway—today’s DART connection—Bray became a popular getaway for Dubliners, a legacy that still shapes the town’s character. Beyond the historic charm of its Victorian architecture, the town boasts a vibrant community spirit, numerous festivals, and direct access to the rugged wilderness of the Wicklow Mountains. Serving as a cultural hub, Bray uniquely blends its maritime traditions with a modern lifestyle, making it an essential destination for hikers, families, and beachgoers exploring the east coast of Ireland."
+      ro: "Bray, cea mai mare localitate din comitatul Wicklow, s-a dezvoltat inițial ca o destinație turistică de litoral preferată de aristocrația victoriană după sosirea căilor ferate. Faleza sa impunătoare și arhitectura de secol XIX ilustrează influența britanică asupra designului urban al stațiunilor de coastă. Poziția geografică unică, cu ieșire la Marea Irlandeză și dominată de promontoriul stâncos Bray Head, transformă orașul într-o bază ideală pentru studiul morfologiei costiere și al eroziunii marine. Tranziția așezării de la un mic port de pescuit la un oraș-satelit prosper al Dublinului oglindește fenomenele de expansiune demografică. Anual, orașul sprijină festivaluri culturale și competiții sportive marine care păstrează vie moștenirea sa nautică.",
+      en: "Bray is a vibrant coastal town in northern County Wicklow, often acting as a major commuter suburb for nearby Dublin. In the 19th century, the arrival of the railway transformed it into Ireland's premier seaside resort, affectionately known as the 'Brighton of Ireland'. The town is defined by its mile-long Victorian promenade and the imposing Bray Head mountain overlooking the sea. Bray offers an excellent study in how railway infrastructure catalyzed the massive growth of Victorian coastal tourism.",
     },
     facts: {
       de: ["Bekannt für den Berg Bray Head.", "Endstation der DART-Bahnlinie.", "Historisches viktorianisches Seebad."],
@@ -99,18 +100,19 @@ export const poiExtraIrelandCities: POI[] = [
         "Évente itt rendezik meg a népszerű Bray Air Display-t.",
         "Jelentős tengerészeti múltja van a 18. századtól."
       ],
-      ro: [],
+      ro: [
+      "Promenada din Bray are o lungime de aproximativ 1,6 kilometri și a fost construită în perioada victoriană, în anul 1859.",
+      "Vârful Bray Head, înalt de 241 de metri, marchează începutul unui popular traseu de drumeție pe faleză către Greystones.",
+      "Apariția primului tren în Bray a avut loc în anul 1854, fapt care a impulsionat turismul în întreaga zonă.",
+      "Bray găzduiește anual unul dintre cele mai mari festivaluri aeriene și maritime de pe coasta estică a Irlandei."
+    ],
       en: [
-        "Developed into a seaside resort from the mid-19th century.",
-        "Bray Head rises 241 meters above the Irish Sea.",
-        "The Bray to Greystones Cliff Walk is a renowned coastal hiking route.",
-        "The town is situated on the boundary of County Dublin and County Wicklow.",
-        "Historically a significant terminus for the Dublin and Wicklow Railway.",
-        "Annual host of the popular Bray Air Display, attracting large crowds.",
-        "Boasts a rich maritime history dating back to the 18th century."
-      ]
-    }
-  },
+      "Bray is the largest town in County Wicklow, with a population of over 32,000.",
+      "The town's famous Victorian promenade was heavily developed following the arrival of the railway in 1854.",
+      "Bray Head, a prominent 241-meter hill, marks the southern end of the promenade.",
+      "It is home to Ardmore Studios, one of Ireland's most famous and historic film production facilities."
+    ],
+    }, image: "/poi-images/city-bray-extra.webp"},
   {
     id: "city-swords-extra",
     type: "city",
@@ -126,8 +128,8 @@ export const poiExtraIrelandCities: POI[] = [
     descriptionAdvanced: {
       de: "Swords, das heute als administratives Zentrum der Grafschaft Fingal fungiert, ist weit mehr als eine moderne Vorstadt von Dublin; es ist ein Ort, der auf eine über 1400-jährige Geschichte zurückblicken kann. Der Name leitet sich vom irischen Wort 'Sord' ab, was 'reine oder klare Quelle' bedeutet, ein Verweis auf die heilige Quelle des Heiligen Colmcille, der hier im 6. Jahrhundert ein Kloster gründete. Das beeindruckende Swords Castle, das im 13. Jahrhundert als Residenz für den Erzbischof von Dublin errichtet wurde, ist ein herausragendes Beispiel für die militärische und administrative Architektur der damaligen Zeit und ein zentraler Bestandteil des Stadtbildes. Mit dem nahegelegenen Flughafen Dublin hat sich Swords zu einem bedeutenden wirtschaftlichen Knotenpunkt entwickelt, bewahrt sich aber durch die sorgfältige Pflege seiner historischen Stätten ein starkes Identitätsbewusstsein. Die gelungene Mischung aus wirtschaftlicher Dynamik, historischem Erbe und der Nähe zur Hauptstadt macht Swords zu einem der wichtigsten und dynamischsten Orte der modernen Region Fingal.",
       hu: "Swords, amely ma Fingal megye közigazgatási központjaként működik, sokkal több, mint Dublin modern elővárosa; több mint 1400 éves múltra tekint vissza. Neve az ír 'Sord' szóból ered, ami 'tiszta vagy tiszta forrást' jelent, utalva Colmcille szent szent forrására, aki a 6. században kolostort alapított itt. A lenyűgöző Swords-kastély, amelyet a 13. században Dublin érsekének rezidenciájaként építettek, a korabeli katonai és közigazgatási építészet kiemelkedő példája, és a városkép központi része. A közeli dublini repülőtér révén Swords fontos gazdasági csomóponttá vált, ugyanakkor történelmi helyszínei gondos ápolásával megőrzi erős identitástudatát. A gazdasági dinamizmus, a történelmi örökség és a fővároshoz való közelség sikeres ötvözete teszi Swords-ot Fingal régió egyik legfontosabb és legdinamikusabb településévé. Sachkunde K5 – helyi történelem és építészet.",
-      ro: "",
-      en: "Swords, serving today as the administrative capital of County Fingal, is far more than a modern suburb of Dublin; it is a historic town with a heritage stretching back over 1,400 years. Its name derives from the Irish ‘Sord,’ meaning ‘pure or clear spring,’ a reference to the sacred well of St. Colmcille, who founded a monastery here in the 6th century. The impressive Swords Castle, erected in the 13th century as a residence for the Archbishop of Dublin, remains a standout example of medieval military and administrative architecture. With its proximity to Dublin Airport, Swords has evolved into a vital economic hub, yet it maintains a strong sense of identity through the careful preservation of its historic sites, such as the ancient round tower. The town’s successful blend of economic dynamism, rich heritage, and nearness to the capital makes it one of the most significant and vibrant locations in modern Fingal."
+      ro: "Așezarea Swords s-a format în jurul unei abații creștine timpurii întemeiate de Sfântul Columba în secolul al VI-lea, devenind pe parcursul timpului un punct nodal al administrației din Fingal. Extinderea sa dintr-un sat agricol într-un centru urban major reflectă o dezvoltare demografică accelerată, facilitată de proximitatea Aeroportului Internațional Dublin. Siturile arheologice, incluzând turnul rotund și ruinele castelului episcopal, sunt frecvent analizate în cadrul orelor de istorie pentru a înțelege impactul incursiunilor vikinge și al consolidării anglo-normande. Structura teritorială modernă a orașului îmbină planificarea urbanistică rezidențială de mare densitate cu rutele hidrografice ale estuarului Ward. Din punct prepresivă punct de vedere cultural, localitatea rămâne un exemplu de prezervare a patrimoniului național într-un context de modernizare rapidă.",
+      en: "Swords is a rapidly expanding town located in Fingal, just north of Dublin city. Its origins lie in a monastic settlement founded by Saint Colmcille in 560 AD. The town is dominated by the expansive Swords Castle, a massive medieval fortress built specifically to house the powerful Archbishops of Dublin. Over the past few decades, its proximity to Dublin Airport has fueled explosive economic and residential growth. Swords is a primary example of ancient monastic centers evolving into major modern urban nodes.",
     },
     facts: {
       de: ["Gründung durch den Heiligen Colmcille im 6. Jh.", "Swords Castle aus dem 13. Jahrhundert.", "Administratives Zentrum von Fingal."],
@@ -154,16 +156,18 @@ export const poiExtraIrelandCities: POI[] = [
         "Itt székel a Fingal Megyei Tanács igazgatása.",
         "A St. Columba-templom egy ritka kerek toronnyal rendelkezik."
       ],
-      ro: [],
+      ro: [
+      "Castelul Swords a fost construit în anul 1200, slujind inițial drept reședință episcopală pentru primul arhiepiscop al Dublinului.",
+      "Turnul rotund al orașului, o relicvă a așezământului monahal original, măsoară 26 de metri în înălțime.",
+      "Orașul este centrul administrativ al regiunii Fingal și se află la doar câțiva kilometri de principalul aeroport al Irlandei.",
+      "Numele localității derivă din cuvântul celtic 'Sord', care se traduce prin 'izvor pur' sau 'izvor curat'."
+    ],
       en: [
-        "Originating as an early monastic settlement around 560 AD.",
-        "Swords Castle once served as a primary residence for the Archbishop of Dublin.",
-        "The name Swords is derived from the Irish word for 'pure spring'.",
-        "Strategically located adjacent to Dublin International Airport.",
-        "Has experienced significant population growth since the 1990s.",
-        "Houses the Fingal County Council, serving as the administrative seat for the region.",
-        "St. Columba’s Church features a rare and iconic round tower."
-      ]
+      "Swords was founded as a monastic settlement by Saint Colmcille in the 6th century.",
+      "Swords Castle, built around 1200, served as the lavish residence of the Archbishops of Dublin.",
+      "The town's population has surged to over 40,000 due to its location near Dublin Airport.",
+      "Fingal County Council, the local authority, has its modern headquarters situated in the town."
+    ],
     }
   }
 ];

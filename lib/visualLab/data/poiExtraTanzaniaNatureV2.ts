@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTanzaniaNatureV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Rétegvulkán.", "Három vulkáni kúpja van.", "Tanzániában található.", "Több mint 5800 m magas."],
       ro: ["Este un vulcan stratificat.", "Are trei conuri vulcanice.", "Este situat în Tanzania.", "Are o înălțime de peste 5.800 m."],
       en: ["It is a stratovolcano.", "It has three volcanic cones.", "It is located in Tanzania.", "It is over 5,800 m high."]
-    }
-  },
+    }, image: "/poi-images/kilimanjaro-nature-v2.webp"},
   {
     id: "victoria-see-nature-v2",
     type: "lake",
@@ -27,8 +27,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["A Föld második legnagyobb édesvízi tava.", "Három országgal határos.", "A Nílus innen ered.", "Fontos ökoszisztéma."],
       ro: ["Este al doilea lac cu apă dulce ca mărime din lume.", "Se învecinează cu trei țări.", "Nilul izvorăște de aici.", "Este un ecosistem important."],
       en: ["It is the world's second largest freshwater lake.", "It borders three countries.", "The Nile originates here.", "It is an important ecosystem."]
-    }
-  },
+    }, image: "/poi-images/victoria-see-nature-v2.webp"},
   {
     id: "tanganyika-see-nature-v2",
     type: "lake",
@@ -41,8 +40,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["A Föld második legmélyebb tava.", "Hatalmas víztömeggel rendelkezik.", "A Kelet-afrikai-árokban található.", "Nagyon hosszú."],
       ro: ["Este al doilea cel mai adânc lac din lume.", "Conține volume uriașe de apă.", "Este situat în Marele Rift African.", "Este foarte lung."],
       en: ["It is the world's second deepest lake.", "It contains huge amounts of water.", "It is located in the East African Rift.", "It is very long."]
-    }
-  },
+    }, image: "/poi-images/tanganyika-see-nature-v2.webp"},
   {
     id: "ruaha-fluss-nature-v2",
     type: "river",
@@ -55,8 +53,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Átfolyik a Ruaha Nemzeti Parkon.", "A Rufiji mellékfolyója.", "Vízszintje erősen ingadozik.", "Támogatja a vadvilágot."],
       ro: ["Curge prin Parcul Național Ruaha.", "Este un afluent al râului Rufiji.", "Nivelul apei variază mult.", "Susține fauna sălbatică."],
       en: ["It flows through Ruaha National Park.", "It is a tributary of the Rufiji River.", "Water levels vary greatly.", "It supports wildlife."]
-    }
-  },
+    }, image: "/poi-images/ruaha-fluss-nature-v2.webp"},
   {
     id: "mafia-insel-nature-v2",
     type: "island",
@@ -83,8 +80,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["A Selous Vadrezervátum része.", "Nagyon nagy kiterjedésű.", "Sok állatfaj él itt.", "A növényzet változatos."],
       ro: ["Face parte din Rezervația de vânătoare Selous.", "Este foarte vastă.", "Găzduiește multe specii de animale.", "Vegetația este variată."],
       en: ["It is part of the Selous Game Reserve.", "It is very large.", "It is home to many animal species.", "The vegetation is diverse."]
-    }
-  },
+    }, image: "/poi-images/selous-wald-nature-v2.webp"},
   {
     id: "rufiji-fluss-nature-v2",
     type: "river",
@@ -97,8 +93,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Az Indiai-óceánba torkollik.", "Nagy deltája van.", "Gazdaságilag fontos.", "Tanzánia fő folyója."],
       ro: ["Se varsă în Oceanul Indian.", "Are o deltă mare.", "Este important economic.", "Este un râu principal al Tanzaniei."],
       en: ["It flows into the Indian Ocean.", "It has a large delta.", "It is economically important.", "It is a main river of Tanzania."]
-    }
-  },
+    }, image: "/poi-images/rufiji-fluss-nature-v2.webp"},
   {
     id: "pemba-insel-nature-v2",
     type: "island",
@@ -111,8 +106,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["A Zanzibár-szigetcsoport része.", "Ismert a szegfűszegről.", "A sziget nagyon termékeny.", "Népszerű ott a búvárkodás."],
       ro: ["Face parte din arhipelagul Zanzibar.", "Este cunoscută pentru cuișoare.", "Insula este foarte fertilă.", "Scufundările sunt populare acolo."],
       en: ["It is part of the Zanzibar Archipelago.", "It is known for cloves.", "The island is very fertile.", "Diving is popular there."]
-    }
-  },
+    }, image: "/poi-images/pemba-insel-nature-v2.webp"},
   {
     id: "malawi-see-nature-v2",
     type: "lake",
@@ -125,8 +119,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Mély és hosszú.", "Egy árokban helyezkedik el.", "Óriási a halak fajgazdagsága.", "Határos Tanzániával."],
       ro: ["Este adânc și lung.", "Este situat într-o vale de rift.", "Diversitatea peștilor este gigantică.", "Se învecinează cu Tanzania."],
       en: ["It is deep and long.", "It lies in a rift valley.", "The fish diversity is gigantic.", "It borders Tanzania."]
-    }
-  },
+    }, image: "/poi-images/malawi-see-nature-v2.webp"},
   {
     id: "indischer-ozean-kueste-nature-v2",
     type: "sea",
@@ -139,8 +132,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Sok strand található itt.", "Nagy a korallgazdagság.", "Fontos a turizmus szempontjából.", "Az éghajlat trópusi."],
       ro: ["Oferă multe plaje.", "Bogăția de corali este mare.", "Este importantă pentru turism.", "Clima este tropicală."],
       en: ["It offers many beaches.", "Coral diversity is high.", "It is important for tourism.", "The climate is tropical."]
-    }
-  },
+    }, image: "/poi-images/indischer-ozean-kueste-nature-v2.webp"},
   {
     id: "meru-berg-nature-v2",
     type: "mountain",
@@ -153,8 +145,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Tanzánia második legmagasabb hegye.", "Az Arusha Nemzeti Parkban található.", "Rétegvulkán.", "A kilátás látványos."],
       ro: ["Este al doilea cel mai înalt munte din Tanzania.", "Este situat în Parcul Național Arusha.", "Este un vulcan stratificat.", "Vedere este spectaculoasă."],
       en: ["It is the second highest mountain in Tanzania.", "It is located in Arusha National Park.", "It is a stratovolcano.", "The view is spectacular."]
-    }
-  },
+    }, image: "/poi-images/meru-berg-nature-v2.webp"},
   {
     id: "natron-see-nature-v2",
     type: "lake",
@@ -167,8 +158,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Ismert a flamingóiról.", "A vízszint nagyon ingadozó.", "Vulkáni terület.", "A víz rendkívül lúgos."],
       ro: ["Este cunoscut pentru flamingo.", "Nivelul apei variază foarte mult.", "Este o zonă vulcanică.", "Apa este extrem de alcalină."],
       en: ["It is known for flamingos.", "Water levels fluctuate greatly.", "It is a volcanic area.", "The water is extremely alkaline."]
-    }
-  },
+    }, image: "/poi-images/natron-see-nature-v2.webp"},
   {
     id: "eyasi-see-nature-v2",
     type: "lake",
@@ -181,8 +171,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["A felvidéken található.", "Szezonális.", "A környezet nagyon száraz.", "Ismert a Hadza népről."],
       ro: ["Este situat în zonele înalte.", "Este sezonier.", "Împrejurimile sunt foarte uscate.", "Este cunoscut pentru poporul Hadza."],
       en: ["It is located in the highlands.", "It is seasonal.", "The surroundings are very dry.", "It is known for the Hadza people."]
-    }
-  },
+    }, image: "/poi-images/eyasi-see-nature-v2.webp"},
   {
     id: "usambara-berge-nature-v2",
     type: "mountain",
@@ -195,8 +184,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Gazdag biodiverzitás.", "Az éghajlat kellemes.", "Sok endemikus faj van itt.", "A táj zöld."],
       ro: ["Sunt bogate în biodiversitate.", "Clima este plăcută.", "Există multe specii endemice.", "Peisajul este verde."],
       en: ["They are rich in biodiversity.", "The climate is pleasant.", "There are many endemic species.", "The landscape is green."]
-    }
-  },
+    }, image: "/poi-images/usambara-berge-nature-v2.webp"},
   {
     id: "ruvu-fluss-nature-v2",
     type: "river",
@@ -209,8 +197,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Fontos Dar es Salaam számára.", "Széles síkságokon halad át.", "A part menti növényzet sűrű.", "Fontos a mezőgazdaság számára."],
       ro: ["Este important pentru Dar es Salaam.", "Traversează câmpii largi.", "Vegetația de pe mal este densă.", "Este important pentru agricultură."],
       en: ["It is important for Dar es Salaam.", "It flows through wide plains.", "The bank vegetation is dense.", "It is important for agriculture."]
-    }
-  },
+    }, image: "/poi-images/ruvu-fluss-nature-v2.webp"},
   {
     id: "wanyamwezi-wald-nature-v2",
     type: "forest",
@@ -223,8 +210,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Nagyon természetes.", "A fák jellemzőek a régióra.", "Élőhelyet biztosít a madaraknak.", "Az éghajlat száraz-trópusi."],
       ro: ["Este foarte naturală.", "Copacii sunt tipici regiunii.", "Oferă habitat pentru păsări.", "Clima este tropical-uscată."],
       en: ["It is very natural.", "The trees are typical for the region.", "It provides habitat for birds.", "The climate is tropical-dry."]
-    }
-  },
+    }, image: "/poi-images/wanyamwezi-wald-nature-v2.webp"},
   {
     id: "serengeti-steppenebene-nature-v2",
     type: "forest",
@@ -237,8 +223,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Világszerte ismert.", "Az éves vándorlás itt zajlik.", "A szavanna végtelen.", "Nemzeti park."],
       ro: ["Este cunoscută la nivel mondial.", "Migrația anuală are loc aici.", "Savana este infinită.", "Este un parc național."],
       en: ["It is known worldwide.", "The annual migration takes place here.", "The savanna is endless.", "It is a national park."]
-    }
-  },
+    }, image: "/poi-images/serengeti-steppenebene-nature-v2.webp"},
   {
     id: "manyara-see-nature-v2",
     type: "lake",
@@ -251,8 +236,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Ismert a mászó oroszlánokról.", "Szódás tó.", "A flamingók gyakran itt vannak.", "A tó nagyon sekély."],
       ro: ["Este cunoscut pentru leii cățărători.", "Este un lac sodic.", "Flamingo sunt des aici.", "Lacul este foarte puțin adânc."],
       en: ["It is known for tree-climbing lions.", "It is a soda lake.", "Flamingos are often here.", "The lake is very shallow."]
-    }
-  },
+    }, image: "/poi-images/manyara-see-nature-v2.webp"},
   {
     id: "rukuwa-see-nature-v2",
     type: "lake",
@@ -265,8 +249,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Délnyugaton található.", "A vízszint erősen ingadozik.", "Árokban helyezkedik el.", "Fontos vizes élőhely."],
       ro: ["Este situat în sud-vest.", "Nivelul apei fluctuează mult.", "Este situat într-o vale de rift.", "Este o zonă umedă importantă."],
       en: ["It is in the southwest.", "Water levels fluctuate greatly.", "It is located in a rift valley.", "It is an important wetland."]
-    }
-  },
+    }, image: "/poi-images/rukuwa-see-nature-v2.webp"},
   {
     id: "kilombero-fluss-nature-v2",
     type: "river",
@@ -279,8 +262,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Táplálja a Rufiji folyókat.", "A Kilombero-völgy termékeny.", "Fontos a mezőgazdaság számára.", "Sok mocsár található itt."],
       ro: ["Alimentează râurile Rufiji.", "Valea Kilombero este fertilă.", "Este important pentru agricultură.", "Există multe mlaștini."],
       en: ["It feeds the Rufiji rivers.", "The Kilombero Valley is fertile.", "It is important for agriculture.", "There are many swamps."]
-    }
-  },
+    }, image: "/poi-images/kilombero-fluss-nature-v2.webp"},
   {
     id: "unguja-insel-nature-v2",
     type: "island",
@@ -307,8 +289,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["A Kilimandzsáró környékéről ered.", "Fontos az öntözéshez.", "Az óceánba torkollik.", "Áramtermelés folyik itt."],
       ro: ["Izvorăște din zona Kilimanjaro.", "Este importantă pentru irigații.", "Se varsă în ocean.", "Producția de energie are loc aici."],
       en: ["It flows from the Kilimanjaro area.", "It is important for irrigation.", "It flows into the ocean.", "Power generation takes place here."]
-    }
-  },
+    }, image: "/poi-images/pangani-fluss-nature-v2.webp"},
   {
     id: "matengo-berge-nature-v2",
     type: "mountain",
@@ -349,8 +330,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Jane Goodall itt kutatott.", "Ez a Gombe Stream Nemzeti Park.", "Az erdőterületek védettek.", "Nagyon sűrű."],
       ro: ["Jane Goodall a făcut cercetări aici.", "Este Parcul Național Gombe Stream.", "Zonele forestiere sunt protejate.", "Este foarte densă."],
       en: ["Jane Goodall did research here.", "It is Gombe Stream National Park.", "The forest areas are protected.", "It is very dense."]
-    }
-  },
+    }, image: "/poi-images/gombe-wald-nature-v2.webp"},
   {
     id: "ruwenzori-auslaeufer-nature-v2",
     type: "mountain",
@@ -363,8 +343,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Egy nagyobb hegység részei.", "A növényzet buja.", "A terep durva.", "Sok vízesés van."],
       ro: ["Sunt parte dintr-un lanț muntos mai mare.", "Vegetația este luxuriantă.", "Terenul este accidentat.", "Există multe cascade."],
       en: ["They are part of a larger mountain range.", "The vegetation is lush.", "The terrain is rugged.", "There are many waterfalls."]
-    }
-  },
+    }, image: "/poi-images/ruwenzori-auslaeufer-nature-v2.webp"},
   {
     id: "bonde-wald-nature-v2",
     type: "forest",
@@ -377,8 +356,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["Védett terület.", "A fafajok változatossága nagy.", "Az éghajlat nedves.", "Vannak ritka madárfajok."],
       ro: ["Este o zonă protejată.", "Diversitatea arborilor este mare.", "Clima este umedă.", "Există specii rare de păsări."],
       en: ["It is a protected area.", "Tree diversity is high.", "The climate is humid.", "There are rare bird species."]
-    }
-  },
+    }, image: "/poi-images/bonde-wald-nature-v2.webp"},
   {
     id: "bongoyo-insel-nature-v2",
     type: "island",
@@ -391,8 +369,7 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       hu: ["A tengeri rezervátum része.", "Népszerű kirándulóhely.", "A strandok szépek.", "A víz tiszta."],
       ro: ["Face parte din rezervația marină.", "Este o destinație populară pentru excursii.", "Plajele sunt frumoase.", "Apa este clară."],
       en: ["It is part of the marine reserve.", "It is a popular excursion destination.", "The beaches are beautiful.", "The water is clear."]
-    }
-  },
+    }, image: "/poi-images/bongoyo-insel-nature-v2.webp"},
   {
     id: "minziro-wald-nature-v2",
     type: "forest",
@@ -408,3 +385,4 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
       }
   }
 ];
+

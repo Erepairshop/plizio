@@ -13,8 +13,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["1576-ban épült.", "Luanda legrégebbi épülete.", "Fegyveres Erők Múzeuma.", "Panorámás kilátást nyújt."],
       ro: ["Construită în 1576.", "Cea mai veche clădire din Luanda.", "Muzeul Forțelor Armate.", "Oferă vederi panoramice."],
       en: ["Built in 1576.", "Oldest building in Luanda.", "Museum of the Armed Forces.", "Offers panoramic views."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Fortaleza de São Miguel ist das markanteste historische Wahrzeichen von Luanda und thront auf dem Berg São Miguel. Seit ihrer Gründung im Jahr 1576 war sie das steinerne Symbol der portugiesischen Präsenz in Zentralafrika. Die Festung beeindruckt durch ihre gewaltigen Mauern, die kunstvoll mit Azulejos (portugiesischen Kacheln) verzierten Innenräume und die historischen Kanonen, die noch heute auf den Hafen blicken. Heute dient sie als Militärmuseum und bietet den spektakulärsten Panoramablick über die Hauptstadt und den Atlantik. Für Besucher ist sie der ideale Ausgangspunkt, um die Geschichte Angolas von der Kolonialzeit bis zur Moderne zu verstehen. Geografie K7 — Historische Stadtstrukturen und Denkmalschutz.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ältestes Bauwerk in Luanda, erbaut 1576.", "UNESCO-Weltkulturerbe-Kandidat seit 1996.", "Beherbergt das Nationale Museum für Militärgeschichte.", "Berühmt für die Azulejo-Fliesen, die Szenen aus der Geschichte darstellen.", "Bietet einen 360-Grad-Blick über die Bucht von Luanda.", "War während der niederländischen Besatzung als Fort Aardenburgh bekannt.", "Zentraler Punkt der kolonialen Verteidigungslinie.", "Ein absolutes Muss für jeden Luanda-Besucher."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/fortaleza-sao-miguel-landmarks-v2.webp"},
   {
     id: "cristo-rei-lubango-landmarks-v2",
     type: "landmark",
@@ -27,8 +38,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["1957-ben állították.", "Fehér márványszobor.", "Lubangóra néz.", "A riói szobor ihlette."],
       ro: ["Ridicată în 1957.", "Statuie din marmură albă.", "Domină Lubango.", "Inspirată de cea din Rio."],
       en: ["Erected in 1957.", "White marble statue.", "Overlooks Lubango.", "Inspired by Rio's monument."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Cristo-Rei-Statue in Lubango ist eines der beeindruckendsten religiösen Wahrzeichen Angolas und erinnert stark an die berühmten Statuen in Rio de Janeiro und Lissabon. Sie thront auf dem Berggipfel der Serra da Chela in über 2100 Metern Höhe und blickt schützend auf die Stadt im Tal herab. Die 30 Meter hohe Statue wurde in den 1930er Jahren aus weißem Marmor und Beton errichtet und ist ein Symbol für den tief verwurzelten katholischen Glauben in der Region Huíla. Der Aufstieg zum Denkmal bietet spektakuläre Ausblicke auf die Gebirgslandschaft und ist sowohl ein Ort der Andacht als auch ein beliebtes Ziel für Touristen. Geografie K6 — Gebirgslandschaften und kulturelle Symbole.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["30 Meter hohe Statue auf dem Gipfel der Serra da Chela.", "Erbaut zwischen 1932 und 1934 nach dem Vorbild von Rio de Janeiro.", "Befindet sich auf einer Höhe von ca. 2100 Metern über dem Meeresspiegel.", "Gehört zu den meistfotografierten Sehenswürdigkeiten des Landes.", "Wurde 2014 zum nationalen Kulturerbe Angolas erklärt.", "Bietet einen atemberaubenden Blick über die Stadt Lubango.", "Zentraler Ort für religiöse Feierlichkeiten in der Provinz Huíla.", "Ein Wahrzeichen für den südwestlichen Teil Angolas."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/cristo-rei-lubango-landmarks-v2.webp"},
   {
     id: "mausoleu-agostinho-neto-landmarks-v2",
     type: "landmark",
@@ -41,8 +63,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["Az 1. elnök nyughelye.", "Futurisztikus építészet.", "Luanda nevezetessége.", "Tengerparti elhelyezkedés."],
       ro: ["Locul de odihnă al primului președinte.", "Arhitectură futuristă.", "Punct de reper al Luandei.", "Locație pe coastă."],
       en: ["Resting place of 1st president.", "Futuristic architecture.", "Luanda landmark.", "Coastal location."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Mausoleum von Agostinho Neto, auch als 'Foguetão' (Rakete) bekannt, ist das bedeutendste moderne Wahrzeichen Luandas und ehrt den ersten Präsidenten des unabhängigen Angola. Der gewaltige Obelisk aus Beton und Stahl ragt fast 120 Meter in den Himmel und dominiert die Skyline der Stadt. Das Bauwerk beherbergt die sterblichen Überreste von Neto sowie ein Kulturzentrum und ein Museum, das seinen Kampf für die Unabhängigkeit dokumentiert. Die futuristische Architektur und die weitläufigen Parkanlagen drumherum machen es zu einem Ort des nationalen Gedenkens und einem Symbol für die neue Ära des Landes nach 1975. Geschichte K8 — Unabhängigkeit und Nationalhelden.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ehrt den ersten Präsidenten Angolas, Dr. António Agostinho Neto.", "Fast 120 Meter hoher Turm im futuristischen Stil.", "Beherbergt ein Museum über die nationale Befreiungsbewegung.", "Wegen seiner Form im Volksmund als Foguetão bezeichnet.", "Umgeben von einer 18 Hektar großen Parkanlage.", "Wurde mit Unterstützung sowjetischer und kubanischer Architekten geplant.", "Zentraler Ort für nationale Gedenkfeiern und Paraden.", "Eines der höchsten und markantesten Gebäude des Landes."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/mausoleu-agostinho-neto-landmarks-v2.webp"},
   {
     id: "palacio-de-ferro-landmarks-v2",
     type: "landmark",
@@ -55,8 +88,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["Vasból épült.", "Valószínűleg Eiffel tervezte.", "1890-es években épült.", "Luandában állították fel."],
       ro: ["Construit din fier.", "Probabil proiectat de Eiffel.", "Construit în anii 1890.", "Reasamblat în Luanda."],
       en: ["Built of iron.", "Likely designed by Eiffel.", "Built in the 1890s.", "Reassembled in Luanda."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Palácio de Ferro (Eisenpalast) ist ein architektonisches Juwel in der Unterstadt von Luanda und ein faszinierendes Beispiel für die industrielle Eisenarchitektur des 19. Jahrhunderts. Es wird vermutet, dass das Gebäude in den Werkstätten von Gustave Eiffel in Frankreich entworfen wurde, bevor es durch einen Zufall per Schiff an der angolanischen Küste landete. Der Palast besticht durch seine filigranen Gusseisenstrukturen, die kunstvollen Balkone und die lichtdurchfluteten Innenräume. Nach einer umfassenden Restaurierung dient er heute als Kulturzentrum und Ausstellungsort. Der Palácio de Ferro ist ein Symbol für die kosmopolitische Geschichte Luandas und die frühen globalen Handelsverbindungen. Geschichte K8 — Architektur des 19. Jahrhunderts und Weltausstellungen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wird dem berühmten Architekten Gustave Eiffel zugeschrieben.", "Vollständig aus Gusseisen und Stahl gefertigtes Gebäude.", "Sollte ursprünglich in Madagaskar oder Vietnam aufgebaut werden.", "Kam durch ein Schiffsunglück Ende des 19. Jahrhunderts nach Luanda.", "Beispiel für die Blütezeit der industriellen Fertigbauweise.", "Beherbergt heute wechselnde Kunstausstellungen und Kulturfestivals.", "Umfassend restauriert mit Unterstützung internationaler Partner.", "Eines der meistbesuchten Baudenkmäler in Luandas Zentrum."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/palacio-de-ferro-landmarks-v2.webp"},
   {
     id: "estadio-11-de-novembro-landmarks-v2",
     type: "landmark",
@@ -69,8 +113,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["2009-ben nyílt meg.", "50 000 fős kapacitás.", "A 2010-es Afrika-kupára épült.", "Angola legnagyobb stadionja."],
       ro: ["Deschis în 2009.", "Capacitate de 50.000.", "Construit pentru Cupa Africii 2010.", "Cel mai mare stadion din Angola."],
       en: ["Opened in 2009.", "Capacity of 50,000.", "Built for 2010 Africa Cup.", "Largest stadium in Angola."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Nationalstadion 11 de Novembro ist die größte und modernste Sportarena Angolas und ein Wahrzeichen für den sportlichen Aufstieg des Landes. Das Stadion wurde für den Afrika-Cup 2010 in Luanda erbaut und bietet Platz für über 50.000 Zuschauer. Mit seiner markanten Architektur und der beeindruckenden Flutlichtanlage ist es der Austragungsort für die wichtigsten Spiele der angolanischen Nationalmannschaft 'Palancas Negras'. Neben Fußball finden hier auch große Kulturveranstaltungen und Konzerte statt. Das Stadion steht symbolisch für den Wiederaufbau und den Stolz der angolanischen Nation nach dem Ende des Bürgerkriegs. Wirtschaft K6 — Sportinfrastruktur und Großereignisse.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Größtes Fußballstadion Angolas mit 50.000 Sitzplätzen.", "Hauptstadion des Afrika-Cups 2010 (CAN).", "Benannt nach dem Tag der Unabhängigkeit Angolas (11. November).", "Heimat der Nationalmannschaft Palancas Negras.", "Verfügt über modernste Einrichtungen für Spieler und Medien.", "Wurde von einem chinesischen Bauunternehmen errichtet.", "Liegt im Stadtteil Camama im Süden von Luanda.", "Austragungsort der wichtigsten Derby-Spiele der Girabola-Liga."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/estadio-11-de-novembro-landmarks-v2.webp"},
   {
     id: "igreja-populo-landmarks-v2",
     type: "landmark",
@@ -83,8 +138,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["1748-ban épült.", "Barokk építészeti stílus.", "Helyi mészkőből készült.", "Nemzeti műemlék."],
       ro: ["Construită în 1748.", "Stil arhitectural baroc.", "Din calcar local.", "Monument național."],
       en: ["Built in 1748.", "Baroque architectural style.", "Made from local limestone.", "National monument."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Kirche Nossa Senhora do Pópulo ist die erste anglikanische Steinkirche in Luanda und ein bedeutendes Denkmal der barocken Kolonialarchitektur. Sie wurde Ende des 16. Jahrhunderts erbaut und war über Jahrhunderte ein Zentrum des religiösen Lebens der Oberschicht in der Hauptstadt. Die Fassade besticht durch ihre schlichte Eleganz, während das Innere wertvolle Altäre und religiöse Kunstwerke beherbergt. Die Kirche überstand zahlreiche historische Umbrüche und ist heute ein geschütztes nationales Denkmal. Sie repräsentiert die Verschmelzung europäischer Sakralbaukunst mit den lokalen Gegebenheiten der afrikanischen Atlantikküste. Geschichte K8 — Sakrale Architektur und Kolonialgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1582, eine der ältesten Kirchen der Stadt.", "Wurde 1923 zum nationalen Denkmal erklärt.", "Bekannt für ihre barocke Innenausstattung und Goldaltäre.", "Zentraler Punkt im historischen Viertel von Luanda.", "Diente als Grabstätte für bedeutende Persönlichkeiten der Kolonialzeit.", "Architektonisches Beispiel für den Übergang von Renaissance zu Barock.", "Besitzt eine bedeutende Sammlung historischer Dokumente.", "Wurde im Laufe der Jahrhunderte mehrfach restauriert."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/igreja-populo-landmarks-v2.webp"},
   {
     id: "se-catedral-luanda-landmarks-v2",
     type: "landmark",
@@ -97,8 +163,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["1628-ban készült el.", "Az érsek székhelye.", "Gyarmati építészet.", "A belvárosban található."],
       ro: ["Finalizată în 1628.", "Sediul arhiepiscopului.", "Arhitectură colonială.", "Situată în centrul orașului."],
       en: ["Completed in 1628.", "Seat of the Archbishop.", "Colonial architecture.", "Located in city center."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Luanda (Sé Catedral) ist der Sitz des Erzbischofs von Luanda und das wichtigste katholische Gotteshaus des Landes. Der Bau begann im 17. Jahrhundert, wurde aber erst im 19. Jahrhundert in seiner heutigen Form vollendet. Die Kathedrale ist bekannt für ihre Doppeltürme und die markante Fassade, die das Stadtbild der historischen Unterstadt prägt. Im Inneren finden sich beeindruckende Glasmalereien und ein prachtvoller Hauptaltar. Als spirituelles Zentrum ist sie der Ort für die wichtigsten religiösen Zeremonien und ein Symbol für die Beständigkeit des Glaubens in Angola über die Jahrhunderte hinweg. Geschichte K8 — Kirchengeschichte und Stadtplanung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Sitz der römisch-katholischen Erzdiözese Luanda.", "Erbaut auf den Ruinen einer älteren Kapelle aus dem Jahr 1628.", "Wichtigstes Beispiel für religiöse Architektur des 19. Jahrhunderts.", "Beherbergt wertvolle Reliquien und kirchliche Kunstschätze.", "Die Türme sind von weitem über der Bucht von Luanda sichtbar.", "Zentraler Ort für nationale Trauerfeiern und Staatsakte.", "Verfügt über eine hervorragende Akustik für Choraufführungen.", "Umfassend renoviert anlässlich des Papstbesuchs 2009."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/se-catedral-luanda-landmarks-v2.webp"},
   {
     id: "se-catedral-lubango-landmarks-v2",
     type: "landmark",
@@ -111,8 +188,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["1939-ben épült.", "Modernista design.", "Két jellegzetes torony.", "Lubango központja."],
       ro: ["Construită în 1939.", "Design modernist.", "Două turnuri distinctive.", "Centrul orașului Lubango."],
       en: ["Built in 1939.", "Modernist design.", "Two distinctive towers.", "Center of Lubango."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Lubango (Sé Catedral de São José) ist ein herausragendes Beispiel für die modernistische Sakralarchitektur im Süden Angolas. Sie wurde in den 1930er Jahren erbaut und besticht durch ihre klaren geometrischen Formen und die markanten Türme, die an den Art-déco-Stil erinnern. Die Kathedrale ist das geistliche Zentrum der Provinz Huíla und ein Symbol für den kulturellen Stolz der Region. Ihr schlichter, aber lichtdurchfluteter Innenraum schafft eine Atmosphäre der Ruhe und Besinnung. Als eines der wichtigsten Gebäude von Lubango ist sie nicht nur für Gläubige, sondern auch für Liebhaber der Architekturgeschichte ein unverzichtbares Ziel. Geschichte K8 — Architekturmoderne im sakralen Kontext.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Sitz der römisch-katholischen Erzdiözese Lubango.", "Erbaut im Stil des modernistischen Eklektizismus.", "Prägt den Hauptplatz (Praça) der Stadt Lubango.", "Besitzt eine bedeutende Orgel und religiöse Holzschnitzereien.", "Wurde 2014 in die Liste der nationalen Denkmäler aufgenommen.", "Wichtiger Ort für die kirchenmusikalische Ausbildung in der Region.", "Symbol für die Beständigkeit der katholischen Mission im Süden.", "Umfassend restauriert im Jahr 2010."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/se-catedral-lubango-landmarks-v2.webp"},
   {
     id: "fortaleza-sao-pedro-barra-landmarks-v2",
     type: "landmark",
@@ -125,8 +213,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["A 17. században épült.", "Kikötővédelem.", "Történelmi emlékmű.", "UNESCO jelölt."],
       ro: ["Construită în secolul XVII.", "Protecția portului.", "Monument istoric.", "Candidat UNESCO."],
       en: ["Built in 17th century.", "Harbor defense.", "Historical monument.", "UNESCO candidate."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Festung São Pedro da Barra in Luanda ist eine monumentale Verteidigungsanlage, die strategisch auf einem Hügel über dem Atlantik errichtet wurde. Sie diente jahrhundertelang als Wächter über die Hafeneinfahrt und als Symbol der militärischen Macht an der Küste. Die Architektur der Festung, mit ihren massiven Mauern und Bastionen, zeigt die Meisterschaft der Militäringenieure des 17. Jahrhunderts. Während des Unabhängigkeitskampfes wurde sie als Gefängnis für Nationalhelden genutzt, was ihr eine tiefe emotionale und historische Bedeutung für das heutige Angola verleiht. Besucher können hier die Geschichte der Verteidigung und den Weg zur Freiheit in einer beeindruckenden Kulisse erleben. Geschichte K8 — Festungskunst und Befreiungsgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1663 zur Abwehr von Seeangriffen.", "Teilweise direkt in den natürlichen Fels gehauen.", "Wichtigster historischer Ort für den Gedenktag des 4. Februar.", "Bietet einen spektakulären Panoramablick auf die Bucht von Luanda.", "Beherbergt ein kleines Museum zur Geschichte der Inhaftierten.", "Wurde 1932 zum nationalen historischen Denkmal erklärt.", "Ein architektonisches Highlight der Militärgeschichte in Westafrika.", "Zentraler Punkt für die Erziehung zum nationalen Bewusstsein."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/fortaleza-sao-pedro-barra-landmarks-v2.webp"},
   {
     id: "ponte-4-de-abril-landmarks-v2",
     type: "landmark",
@@ -139,8 +238,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["2009-ben nyílt meg.", "Függőhíd.", "Keresztezi a Catumbelát.", "Lobito és Benguela közt."],
       ro: ["Deschis în 2009.", "Pod suspendat.", "Traversează Catumbela.", "Leagă Lobito de Benguela."],
       en: ["Opened in 2009.", "Suspension bridge.", "Crosses Catumbela river.", "Connects Lobito and Benguela."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Brücke 4 de Abril über den Fluss Catumbela ist eine der bedeutendsten technischen Errungenschaften des modernen Angolas. Sie verbindet die Provinzhauptstadt Benguela mit der Hafenstadt Lobito und ist ein unverzichtbarer Teil der nationalen Logistikachse. Die elegante Schrägseilkonstruktion wurde geschaffen, um den rasant wachsenden Verkehrsfluss in der Region Ombaka zu bewältigen und den Transport zum Hafen von Lobito zu beschleunigen. Der Name erinnert an das Friedensabkommen von 2002, das das Ende des Bürgerkriegs markierte. Die Brücke ist nachts kunstvoll beleuchtet und dient als Symbol für den Aufbruch und die wirtschaftliche Dynamik des zentralen Angolas. Wirtschaft K7 — Infrastruktur und Frieden.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Strategische Straßenverbindung auf der Nationalstraße EN100.", "Moderne Schrägseilbrücke mit beeindruckender Ästhetik.", "Wesentlicher Faktor für die Effizienz des Lobito-Korridors.", "Benannt nach dem Tag des Friedens und der Versöhnung.", "Ersetzte die veraltete Eisenbrücke aus der Kolonialzeit.", "Bietet eine sichere Passage für den schweren Güterverkehr.", "Wahrzeichen der Provinz Benguela und Stolz der Region.", "Umfassend finanziert und gebaut im Zuge des nationalen Wiederaufbaus."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/ponte-4-de-abril-landmarks-v2.webp"},
   {
     id: "banco-nacional-angola-landmarks-v2",
     type: "landmark",
@@ -153,8 +263,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["1950-es években épült.", "Gyarmati építészeti stílus.", "Jellegzetes rózsaszín.", "A Marginalon található."],
       ro: ["Construită în anii 1950.", "Stil colonial.", "Culoare roz distinctivă.", "Situată pe Marginal."],
       en: ["Built in the 1950s.", "Colonial style.", "Distinctive pink color.", "Located on the Marginal."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Gebäude der Nationalbank von Angola (BNA) ist eines der prachtvollsten und repräsentativsten Bauwerke in Luanda. Es liegt direkt an der Avenida 4 de Fevereiro und besticht durch seine neo-klassizistische Architektur mit einer beeindruckenden Kuppel und monumentalen Säulen. Das in den 1950er Jahren fertiggestellte Gebäude symbolisiert die wirtschaftliche Macht und Stabilität des Landes. Die kunstvoll gestalteten Innenräume mit Marmor und Wandgemälden spiegeln den Reichtum der angolanischen Ressourcen wider. Als Sitz der Zentralbank ist es nicht nur ein administratives Zentrum, sondern auch ein architektonisches Wahrzeichen, das Modernität und Tradition verbindet. Wirtschaft K8 — Finanzarchitektur und nationale Symbole.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Sitz der Zentralbank der Republik Angola.", "Eines der meistfotografierten Gebäude an der Marginal von Luanda.", "Architektonischer Stil ist der portugiesische Estado Novo.", "Verfügt über eine imposante, weithin sichtbare Zentralkuppel.", "Innen mit Wandgemälden geschmückt, die die Wirtschaft Angolas darstellen.", "Sicherheitsanlagen gehören zu den modernsten des Kontinents.", "Symbol für die Souveränität der angolanischen Währung Kwanza.", "Wurde als 'Palast des Geldes' in der Kolonialzeit konzipiert."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/banco-nacional-angola-landmarks-v2.webp"},
   {
     id: "monumento-kifangondo-landmarks-v2",
     type: "landmark",
@@ -167,7 +288,20 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["2004-ben épült.", "Az 1975-ös csatára emlékeztet.", "Luanda közelében található.", "Függetlenségi szimbólum."],
       ro: ["Construit în 2004.", "Comemorează bătălia din 1975.", "Situat lângă Luanda.", "Simbol al independenței."],
       en: ["Built in 2004.", "Commemorates 1975 battle.", "Located near Luanda.", "Symbol of independence."]
+    },
+    descriptionAdvanced: {
+      de: "Das Monument von Kifangondo, nördlich von Luanda, erinnert an eine der entscheidenden Schlachten der angolanischen Geschichte am Vorabend der Unabhängigkeit 1975. Hier stoppten die angolanischen Streitkräfte mit Unterstützung ihrer Verbündeten den Vormarsch gegnerischer Truppen auf die Hauptstadt. Das imposante Denkmal zeigt Kämpfer in heroischen Posen und symbolisiert den Sieg und die Entschlossenheit der MPLA-Bewegung. Kifangondo ist ein Ort des nationalen Stolzes und ein zentraler Punkt für die offizielle Erinnerungskultur des Landes. Die Lage des Monuments am Fluss Bengo markiert den Ort, an dem das Schicksal des modernen Angola besiegelt wurde. Geschichte K8 — Befreiungskampf und nationale Identität.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erinnert an die Schlacht von Kifangondo am 10. November 1975.", "Verhinderte die Einnahme von Luanda durch feindliche Truppen.", "Eines der wichtigsten Monumente der nationalen Geschichte.", "Wurde am Ort des tatsächlichen Schlachtfeldes errichtet.", "Zentraler Punkt für die Feierlichkeiten zum Unabhängigkeitstag.", "Architektonisch im Stil des sozialistischen Realismus gestaltet.", "Bietet ein Museum mit Informationen über die militärische Operation.", "Ein Wahrzeichen für den Kampf gegen ausländische Interventionen."],
+      hu: [],
+      ro: [],
+      en: []
     }
+
   },
   {
     id: "igreja-sagrada-familia-luanda-landmarks-v2",
@@ -181,8 +315,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["Modernista design.", "Sátortető szerkezet.", "1960-as években épült.", "Fontos plébániatemplom."],
       ro: ["Design modernist.", "Structură cu acoperiș de cort.", "Construită în anii 1960.", "Biserică parohială importantă."],
       en: ["Modernist design.", "Tent roof structure.", "Built in the 1960s.", "Important parish church."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Kirche Sagrada Família (Heilige Familie) ist eine der bekanntesten und meistbesuchten katholischen Kirchen in Luanda. Sie befindet sich im belebten Viertel Kinaxixi und ist bekannt für ihre markante, moderne Architektur und ihre lebendige Gemeindearbeit. Die Kirche spielt eine zentrale Rolle im sozialen Leben der Hauptstadt und ist ein wichtiger Ort für Hochzeiten, Taufen und Gottesdienste, die oft von traditionellen angolanischen Chören begleitet werden. Das Gebäude zeichnet sich durch seine klaren Formen und die Verwendung von Licht aus, was eine einladende Atmosphäre schafft. Die Sagrada Família ist ein Symbol für den lebendigen Glauben und die familiäre Verbundenheit in der angolanischen Gesellschaft. Geschichte K8 — Zeitgenössische Sakralbauten und Gemeinschaft.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Zentral gelegene Kirche im Herzen von Luanda.", "Bekannt für ihre hervorragende Chor- und Kirchenmusik.", "Ein wichtiger Knotenpunkt für soziale Projekte in der Gemeinde.", "Architekturstil ist eine Mischung aus Moderne und Tradition.", "Veranstaltet einige der größten Gottesdienste der Hauptstadt.", "Symbol für die christlichen Werte in der angolanischen Moderne.", "Leicht erkennbares Gebäude durch seine markante Dachkonstruktion.", "Ein Ort der Ruhe inmitten des hektischen Stadtverkehrs."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/igreja-sagrada-familia-luanda-landmarks-v2.webp"},
   {
     id: "igreja-nossa-senhora-carmo-landmarks-v2",
     type: "landmark",
@@ -195,7 +340,20 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["17. században épült.", "Barokk stílus.", "Történelmi központ.", "Jól megőrzött."],
       ro: ["Construită în secolul XVII.", "Stil baroc.", "Centru istoric.", "Bine conservată."],
       en: ["Built in 17th century.", "Baroque style.", "Historic center.", "Well preserved."]
+    },
+    descriptionAdvanced: {
+      de: "Die Kirche Nossa Senhora do Carmo in Luanda ist ein herausragendes Denkmal der religiösen Barockarchitektur und eines der wertvollsten Gebäude der Cidade Alta. Sie wurde im 17. Jahrhundert von den Karmelitermönchen erbaut und besticht durch ihre reich verzierte Innenausstattung, insbesondere die vergoldeten Altäre und die Deckenmalereien. Die Kirche war über Jahrhunderte ein Zentrum der Gelehrsamkeit und des Glaubens in der Kolonialhauptstadt. Trotz zahlreicher Umgestaltungen hat sie ihren sakralen Glanz bewahrt und ist heute ein geschütztes nationales Denkmal. Für Besucher bietet sie eine Oase der Ruhe und einen tiefen Einblick in die spirituelle Kunst der Vergangenheit. Geschichte K8 — Sakrale Kunst und Klosterarchitektur.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1660 durch den Orden der Karmeliten.", "Beherbergt einige der schönsten Barockaltäre Angolas.", "Wurde 1923 zum nationalen Denkmal erklärt.", "Wichtiges historisches Gebäude im Regierungsviertel von Luanda.", "Bekannt für seine hervorragende Akustik und sakrale Atmosphäre.", "Besitzt eine bedeutende Sammlung religiöser Reliquien.", "Wurde im 20. Jahrhundert umfassend und originalgetreu restauriert.", "Ein Muss für Liebhaber der barocken Kolonialbaukunst."],
+      hu: [],
+      ro: [],
+      en: []
     }
+
   },
   {
     id: "forte-santa-maria-cabinda-landmarks-v2",
@@ -209,8 +367,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["Gyarmati erőd.", "Partvédelem.", "A Cabinda exklávéban.", "Történelmi falak."],
       ro: ["Fortăreață colonială.", "Apărare de coastă.", "În exclava Cabinda.", "Ziduri istorice."],
       en: ["Colonial fort.", "Coastal defense.", "In Cabinda exclave.", "Historic walls."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Fort Santa Maria in Cabinda ist eine historische Küstenbefestigung, die die maritime Geschichte der Exklave repräsentiert. Es wurde im 19. Jahrhundert errichtet, um den Hafen und die Interessen der Kolonialmacht vor Angriffen anderer europäischer Nationen und lokalen Konflikten zu schützen. Die Festung liegt strategisch günstig mit Blick auf den Atlantik und diente über lange Zeit als administrativer und militärhistorischer Stützpunkt. Heute sind die Reste des Forts ein geschütztes Denkmal, das Besuchern einen Einblick in die Zeit der Entdeckungen und der frühen kolonialen Präsenz im Norden Angolas bietet. Geschichte K8 — Küstenschutz und maritime Handelsgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wichtigstes militärisches Denkmal im Zentrum von Cabinda.", "Erbaut zur Sicherung des strategischen Hafens der Exklave.", "Beispiel für die portugiesische Militärbaukunst an der Atlantikküste.", "Bietet einen weiten Blick über den Golf von Guinea.", "Heute Sitz kultureller und administrativer Einrichtungen.", "Wurde im Rahmen der Stadtverschönerung instand gesetzt.", "Symbol für den Schutz der nördlichsten Provinz Angolas.", "Teil des historischen Erbes der Stadt Cabinda."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/forte-santa-maria-cabinda-landmarks-v2.webp"},
   {
     id: "universidade-agostinho-neto-campus-landmarks-v2",
     type: "landmark",
@@ -223,8 +392,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["2011-ben adták át.", "Modern design.", "Körkörös elrendezés.", "Angola legnagyobb egyeteme."],
       ro: ["Inaugurat în 2011.", "Design modern.", "Dispunere circulară.", "Cea mai mare universitate."],
       en: ["Inaugurated in 2011.", "Modern design.", "Circular layout.", "Largest university in Angola."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Campus der Universität Agostinho Neto in Camama ist das akademische Leuchtturmprojekt Angolas. Als größter Bildungskomplex des Landes bietet er modernste Einrichtungen für Lehre und Forschung und dient als Motor für die intellektuelle Souveränität der Nation. Die Architektur ist durch funktionale Eleganz und weitläufige Gemeinschaftsflächen geprägt, die den interdisziplinären Austausch fördern sollen. Der Campus beherbergt die prestigeträchtigsten Fakultäten und eine zentrale Bibliothek, die als Wissensschatzkammer Angolas fungiert. Er ist ein Symbol für die Hoffnung und die Zukunft der angolanischen Jugend im globalen Kontext der Wissenschaft und Technologie. Wirtschaft K6 — Bildung und nationale Entwicklung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Zentraler Standort der wichtigsten Universität Angolas.", "Umfasst hochmoderne Hörsäle und wissenschaftliche Laboratorien.", "Wurde mit internationaler Expertise als nachhaltiger Campus geplant.", "Sitz des Rektorats und der zentralen Verwaltung der UAN.", "Bietet Platz für zehntausende Studenten in verschiedenen Fachbereichen.", "Teil einer großangelegten Bildungsreform nach dem Bürgerkrieg.", "Wahrzeichen für die Modernisierung des Stadtteils Camama.", "Ein Ort des nationalen Stolzes und des akademischen Exzellenzstrebens."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/universidade-agostinho-neto-campus-landmarks-v2.webp"},
   {
     id: "igreja-do-sequele-landmarks-v2",
     type: "landmark",
@@ -237,8 +417,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["Kortárs építészet.", "Nyitott design.", "Az újváros része.", "Klímatudatos."],
       ro: ["Arhitectură contemporană.", "Design deschis.", "Parte a noului oraș.", "Adaptată la climă."],
       en: ["Contemporary architecture.", "Open design.", "Part of the new city.", "Climate-adapted."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Kirche von Sequele ist das religiöse und architektonische Zentrum der neuen Stadt Sequele, einem der größten Wohnprojekte in der Nähe von Luanda. Das moderne Gebäude symbolisiert die spirituelle Begleitung der Stadtentwicklung und dient als wichtiger Treffpunkt für die neu angesiedelte Bevölkerung. Die Architektur ist geprägt von zeitgenössischen Formen und einer einladenden Gestaltung, die den Gemeinschaftssinn in der jungen Stadt fördern soll. Als Wahrzeichen der Urbanisierung von Luanda-Bengo zeigt die Kirche die Bedeutung der sozialen und religiösen Infrastruktur in modernen Satellitenstädten. Sie ist ein Ort der Begegnung und des sozialen Austauschs. Geschichte K8 — Moderne Urbanisierung und Sakralbau.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Zentrales Gotteshaus der modernen Planstadt Sequele.", "Wurde im Rahmen der massiven städtischen Erweiterung von Luanda erbaut.", "Beispiel für die Integration religiöser Räume in neue Wohnviertel.", "Bietet Platz für hunderte Gläubige in einem modernen Ambiente.", "Wichtiger Standort für Jugendarbeit und soziale Projekte vor Ort.", "Symbol für die neue Ära des Wohnungsbaus in Angola.", "Leicht erreichbar für die Bewohner des Distrikts Cacuaco.", "Ein Zeichen für den lebendigen Glauben in den wachsenden Vorstädten."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/igreja-do-sequele-landmarks-v2.webp"},
   {
     id: "estadio-nacional-ombaka-landmarks-v2",
     type: "landmark",
@@ -251,8 +442,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["2010-ben nyílt meg.", "35 000 férőhely.", "Hullám alakú tető.", "Benguelában található."],
       ro: ["Deschis în 2010.", "35.000 de locuri.", "Acoperiș ondulat.", "Situat în Benguela."],
       en: ["Opened in 2010.", "35,000 seats.", "Wave-shaped roof.", "Located in Benguela."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Nationalstadion Ombaka in Benguela ist eine der modernsten Sportstätten Angolas und wurde für den Afrika-Cup 2010 errichtet. Es liegt am Rande der Stadt Benguela und besticht durch seine wellenförmige Architektur, die an die Dünen der Region erinnert. Mit einer Kapazität von 35.000 Zuschauern bietet es eine erstklassige Bühne für nationale und internationale Fußballspiele. Das Stadion hat die Provinz Benguela zu einem wichtigen Zentrum für Sporttourismus gemacht und dient als Heimspielstätte für lokale Spitzenklubs. Ombaka ist ein Symbol für die Dezentralisierung großer Infrastrukturprojekte und den sportlichen Enthusiasmus der Menschen in Südangola. Wirtschaft K6 — Sportökonomie und regionale Zentren.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erbaut als eines der vier Hauptstadien für den Afrika-Cup 2010.", "Besitzt eine Kapazität von ca. 35.000 Sitzplätzen.", "Der Name 'Ombaka' ist die traditionelle Bezeichnung für Benguela.", "Architektonisch preisgekröntes Design mit offener Bauweise.", "Verfügt über modernste Trainingsplätze und Pressezentren.", "Trägt zur Förderung des Jugendfußballs in der Provinz bei.", "Austragungsort für wichtige Spiele der Girabola-Meisterschaft.", "Ein Wahrzeichen für den Wiederaufbau der Provinz Benguela."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/estadio-nacional-ombaka-landmarks-v2.webp"},
   {
     id: "estadio-nacional-tundavala-landmarks-v2",
     type: "landmark",
@@ -265,8 +467,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["20 000 férőhely.", "Az Afrika-kupára épült.", "A Tundavala-hasadék közelében.", "Modern design."],
       ro: ["20.000 de locuri.", "Construit pentru Cupa Africii.", "Aproape de crăpăturile Tundavala.", "Design modern."],
       en: ["20,000 seats.", "Built for Africa Cup.", "Near Tundavala gap.", "Modern design."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Nationalstadion Tundavala in Lubango ist eine der modernsten Sportarenen im Süden Angolas und wurde für den Afrika-Cup 2010 errichtet. Es liegt in einer malerischen Umgebung am Fuße der Serra da Chela und bietet Platz für über 20.000 Zuschauer. Die Architektur des Stadions ist modern und funktional und fügt sich harmonisch in die Gebirgslandschaft ein. Es dient als Heimspielstätte für die Spitzenvereine der Provinz Huíla und ist ein Zentrum für große Sport- und Kulturveranstaltungen im Süden des Landes. Tundavala symbolisiert den sportlichen Aufstieg und den Stolz der Bevölkerung von Lubango. Wirtschaft K6 — Sportinfrastruktur und regionale Zentren.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Hauptstadion der Provinz Huíla mit 20.000 Sitzplätzen.", "Erbaut als Teil der nationalen Modernisierung für die CAN 2010.", "Besitzt erstklassige Einrichtungen für Fußball und Leichtathletik.", "Wichtigster Austragungsort für internationale Begegnungen im Süden.", "Wahrzeichen für den modernen Wiederaufbau von Lubango.", "Bietet eine beeindruckende Akustik und Sichtverhältnisse.", "Teil des Sportkomplexes von Nossa Senhora do Monte.", "Ein Motor für die lokale Sportökonomie und Jugendarbeit."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/estadio-nacional-tundavala-landmarks-v2.webp"},
   {
     id: "santuario-muxima-landmarks-v2",
     type: "landmark",
@@ -279,7 +492,20 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["16. században épült.", "Angola legnagyobb zarándokhelye.", "A Kwanza-folyónál.", "Miasszonyunk temploma."],
       ro: ["Construită în secolul XVI.", "Cel mai mare loc de pelerinaj.", "Pe râul Kwanza.", "Biserica Maicii Domnului."],
       en: ["Built in 16th century.", "Largest pilgrimage site in Angola.", "On the Kwanza River.", "Church of Our Lady."]
+    },
+    descriptionAdvanced: {
+      de: "Das Heiligtum von Muxima ist der bedeutendste Wallfahrtsort in Subsahara-Afrika und ein Ort von außerordentlicher spiritueller Kraft. Die kleine Kirche Nossa Senhora da Muxima, erbaut im Jahr 1599, liegt malerisch am Ufer des Kwanza-Flusses. Jedes Jahr im September ziehen hunderttausende Pilger aus ganz Angola und dem Ausland hierher, um die 'Mamã Muxima' um Segen und Heilung zu bitten. Der Name Muxima bedeutet in der Landessprache Kimbundu 'Herz', was die zentrale Bedeutung des Ortes für die Seele des angolanischen Volkes unterstreicht. Das Heiligtum ist ein Symbol für die tiefe Verschmelzung von christlichem Glauben und afrikanischen Traditionen. Geschichte K8 — Religiöse Traditionen und Pilgerwesen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Ältester christlicher Wallfahrtsort in Zentralafrika.", "Muxima bedeutet 'Herz' auf Kimbundu.", "Ziel der größten jährlichen religiösen Versammlung Angolas.", "Die heutige Kirche stammt aus der Zeit um 1599.", "Liegt strategisch am Übergang vom Küstentiefland zum Hochland.", "Teil eines geplanten religiösen Tourismus-Clusters.", "Gilt als Ort zahlreicher Wunderheilungen und Gebetserhörungen.", "Wurde zum nationalen Kulturerbe und heiligen Bezirk erklärt."],
+      hu: [],
+      ro: [],
+      en: []
     }
+
   },
   {
     id: "se-catedral-huambo-landmarks-v2",
@@ -293,7 +519,20 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["Katolikus katedrális.", "Huambo központja.", "A háború után restaurálták.", "Fehér kőépület."],
       ro: ["Catedrală catolică.", "Centrul orașului Huambo.", "Restaurată după război.", "Clădire din piatră albă."],
       en: ["Catholic cathedral.", "Center of Huambo.", "Restored after war.", "White stone building."]
+    },
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Huambo ist das architektonische Wahrzeichen des zentralen Hochlands und ein Symbol für die kulturelle Blüte der Stadt. Sie wurde in der ersten Hälfte des 20. Jahrhunderts erbaut, als Huambo (damals Nova Lisboa) als künftige Hauptstadt des Landes vorgesehen war. Die Kathedrale zeichnet sich durch ihre klare Linienführung und die Verwendung von regionalen Materialien aus. Trotz der schweren Beschädigungen während der Belagerung der Stadt im Bürgerkrieg wurde sie liebevoll restauriert und strahlt heute in neuem Glanz. Sie ist das spirituelle Zentrum für das bevölkerungsreiche Huambo-Plateau und ein Zeugnis für den unerschütterlichen Aufbauwillen der Region. Geschichte K8 — Moderne Sakralarchitektur und Wiederaufbau.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Zentrales religiöses Gebäude der zweitgrößten Stadt Angolas.", "Prägt das Zentrum von Huambo mit seiner modernen Ästhetik.", "Sitz der Diözese Huambo, gegründet 1940.", "Wurde nach dem Ende des Bürgerkriegs umfassend instand gesetzt.", "Bekannt für ihre schlichte, aber beeindruckende Innenraumgestaltung.", "Wichtiger Treffpunkt für die katholische Jugend des Hochlands.", "Die Umgebung der Kathedrale ist als Parkzone gestaltet.", "Ein Symbol für den Frieden und die Versöhnung in Zentralangola."],
+      hu: [],
+      ro: [],
+      en: []
     }
+
   },
   {
     id: "assembleia-nacional-landmarks-v2",
@@ -307,8 +546,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["2015-ben adták át.", "Monumentális design.", "Nagy kupola.", "A parlament székhelye."],
       ro: ["Inaugurat în 2015.", "Design monumental.", "Cupolă mare.", "Sediul parlamentului."],
       en: ["Inaugurated in 2015.", "Monumental design.", "Large dome.", "Seat of parliament."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Gebäude der Nationalversammlung (Assembleia Nacional) in Luanda ist eines der beeindruckendsten modernen Bauwerke Angolas und das Herz der Gesetzgebung des Landes. Es liegt im Regierungsviertel Cidade Alta und besticht durch seine monumentale Architektur mit einer riesigen goldenen Kuppel, die weithin sichtbar ist. Das Bauwerk wurde nach dem Ende des Bürgerkriegs errichtet und symbolisiert die neue Ära der Demokratie und den institutionellen Wiederaufbau des Landes. Mit seinen prunkvollen Sälen und modernster Kommunikationstechnik bietet es Platz für hunderte Abgeordnete und dient als Ort für historische Debatten und Staatsakte. Es ist ein Wahrzeichen des modernen angolanischen Staates. Geschichte K8 — Staatsgründung und parlamentarische Institutionen.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Sitz des Einkammerparlaments der Republik Angola.", "Architektonisches Wahrzeichen in der Cidade Alta von Luanda.", "Die Kuppel ist mit Blattgold überzogen und ein Symbol für Reichtum.", "Besitzt eine Kapazität für über 200 Abgeordnete.", "Wurde im Jahr 2015 feierlich eingeweiht.", "Teil des Ensembles moderner Staatsbauten in der Hauptstadt.", "Beherbergt ein modernes Konferenzzentrum und Archive.", "Umfassend gesichertes Areal mit zeremoniellen Garden."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/assembleia-nacional-landmarks-v2.webp"},
   {
     id: "palacio-presidencial-luanda-landmarks-v2",
     type: "landmark",
@@ -321,8 +571,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["Az elnök székhelye.", "Gyarmati építészet.", "A Cidade Altában.", "Szigorúan őrzött."],
       ro: ["Sediul președintelui.", "Arhitectură colonială.", "În Cidade Alta.", "Strict păzit."],
       en: ["Seat of the President.", "Colonial architecture.", "In the Cidade Alta.", "Strictly guarded."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Präsidentenpalast in Luanda, gelegen im prestigeträchtigen Viertel Cidade Alta, ist das politische Machtzentrum der Republik Angola. Das prachtvolle Gebäude im kolonialen Stil dient als Amtssitz des Staatsoberhauptes und ist Ort wichtiger diplomatischer Empfänge und Staatsakte. Mit seiner makellosen weißen Fassade und den gepflegten Gärten thront er über der Stadt und symbolisiert die Autorität und Souveränität des Staates. Die Umgebung des Palastes beherbergt zudem zahlreiche Ministerien und historische Verwaltungsbauten, was die Cidade Alta zum administrativen Herz des Landes macht. Der Zugang zum Bereich ist streng kontrolliert, was die Exklusivität und Bedeutung dieses Wahrzeichens unterstreicht. Geschichte K8 — Staatsorganisation und administrative Zentren.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Offizieller Amtssitz und Residenz des Präsidenten von Angola.", "Befindet sich im historischen Regierungsviertel Cidade Alta.", "Architektonisches Beispiel für die koloniale Repräsentationsbaukunst.", "Zentraler Ort für die Unterzeichnung internationaler Abkommen.", "Wahrzeichen für die politische Stabilität und Führung des Landes.", "Umfassend gesichertes Areal mit zeremoniellen Wachen.", "Bietet einen Panoramablick über die Bucht von Luanda.", "Symbol für das historische Erbe und die moderne Staatsmacht."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/palacio-presidencial-luanda-landmarks-v2.webp"},
   {
     id: "igreja-nossa-senhora-conceicao-soyo-landmarks-v2",
     type: "landmark",
@@ -335,8 +596,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["Történelmi templom.", "A Kongó-folyó közelében.", "Vallási központ.", "Gyarmati befolyás."],
       ro: ["Biserică istorică.", "Aproape de râul Congo.", "Centru religios.", "Influență colonială."],
       en: ["Historic church.", "Near the Congo River.", "Religious center.", "Colonial influence."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Kirche Nossa Senhora da Conceição in Soyo ist ein historisches Wahrzeichen an der Mündung des Kongo-Flusses und erinnert an die ersten Schritte der Christianisierung in Angola. Der heutige Bau steht an einer Stelle, die bereits im 15. Jahrhundert durch die Ankunft portugiesischer Missionare geprägt wurde. Die Kirche ist ein Symbol für die lange religiöse Tradition der Provinz Zaire und die enge Verbindung der Küstenregion zum globalen Christentum. Mit ihrer schlichten Architektur und ihrer Lage in der Nähe des historischen Hafens von Soyo ist sie ein bedeutender Ort des Gedenkens und der Spiritualität. Sie dokumentiert den kulturellen Einfluss, der von dieser Region auf das gesamte Hinterland ausging. Geschichte K8 — Missionsgeschichte und Küstenarchitektur.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Bedeutendstes religiöses Denkmal in der Stadt Soyo.", "Steht an einem geschichtlich entscheidenden Ort der Missionierung.", "Wurde im Laufe der Jahrhunderte mehrfach erneuert.", "Symbol für das christliche Erbe des Königreichs Kongo.", "Zentraler Punkt für religiöse Feste in der Provinz Zaire.", "Wurde zum nationalen Kulturerbe Angolas erklärt.", "Bietet Einblicke in die frühe koloniale Siedlungsgeschichte.", "Ein Ort der Ruhe inmitten der industriell wachsenden Stadt Soyo."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/igreja-nossa-senhora-conceicao-soyo-landmarks-v2.webp"},
   {
     id: "fortim-do-kikombo-landmarks-v2",
     type: "landmark",
@@ -349,8 +621,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["17. században épült.", "Parti erőd.", "Nemzeti műemlék.", "UNESCO várományos."],
       ro: ["Construit în secolul XVII.", "Fortăreață de coastă.", "Monument național.", "Lista tentativă UNESCO."],
       en: ["Built in 17th century.", "Coastal fort.", "National monument.", "UNESCO Tentative List."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Fort von Kikombo in der Provinz Cuanza Sul ist eine charmante historische Festung, die direkt an einer malerischen Meeresbucht liegt. Es wurde im 17. Jahrhundert erbaut, um die Wasserstellen für vorbeifahrende Schiffe zu schützen und als kleiner Handelsposten zu dienen. Das Fort spielte eine entscheidende Rolle als Sammelpunkt für die Flotten, die Luanda von den Niederländern zurückeroberten. Mit seinen quadratischen Grundrissen und den gut erhaltenen Mauern ist es ein hervorragendes Beispiel für die kleinere Kolonialarchitektur an der Küste. Kikombo ist heute ein beliebtes Ziel für historisch interessierte Reisende, die die Kombination aus Geschichte und idyllischer Strandlandschaft suchen. Geschichte K8 — Maritime Militärstützpunkte und regionale Handelsgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Stützpunkt für die Rückeroberungsflotte von 1648.", "Kleine, aber gut erhaltene Festungsruine am Atlantikstrand.", "Diente als strategische Wasserstelle an der Route nach Süden.", "Symbol für die maritime Präsenz im 17. Jahrhundert.", "Befindet sich in der Gemeinde Kikombo bei Sumbe.", "Wurde in die Liste der schutzwürdigen Denkmäler aufgenommen.", "Einzigartiger Ort für archäologische Küstenforschung.", "Beliebtes Motiv für Natur- und Geschichtsfotografie."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/fortim-do-kikombo-landmarks-v2.webp"},
   {
     id: "monumento-a-paz-luena-landmarks-v2",
     type: "landmark",
@@ -363,8 +646,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["A 2002-es békére emlékeztet.", "Luena városában.", "Fontos nemzeti szimbólum.", "Történelmi helyszín."],
       ro: ["Comemorează pacea din 2002.", "În orașul Luena.", "Simbol național important.", "Loc istoric."],
       en: ["Commemorates 2002 peace.", "In the city of Luena.", "Important national symbol.", "Historical site."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Friedensdenkmal in Luena ist eines der emotionalsten und bedeutendsten Monumente des modernen Angolas. Es wurde in der Hauptstadt der Provinz Moxico errichtet, um an das Friedensabkommen von 2002 zu erinnern, das den jahrzehntelangen Bürgerkrieg beendete. Das Denkmal zeigt zwei sich reichende Hände und symbolisiert die nationale Versöhnung und den Neuanfang für alle Angolaner. Luena wurde als Standort gewählt, da hier die entscheidenden Verhandlungen stattfanden. Der Ort ist ein Zentrum des Gedenkens und der Hoffnung, an dem jährlich Staatszeremonien abgehalten werden, um den Wert des Friedens für die Entwicklung des Landes zu unterstreichen. Geschichte K8 — Zeitgeschichte und Friedensprozess.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Erinnert an die Unterzeichnung des Luena-Protokolls am 4. April 2002.", "Zentrales Symbol für das Ende des bewaffneten Konflikts in Angola.", "Ort nationaler Pilgerfahrt und offizieller Gedenkfeiern.", "Architektonisch geprägt durch die Darstellung der Versöhnung.", "Befindet sich im geografischen Osten des Landes, weit weg von Luanda.", "Ein Zeichen für den Sieg der Diplomatie über den Krieg.", "Umgeben von einer parkähnlichen Anlage für die Bevölkerung.", "Wahrzeichen für den Aufbruch Moxicos in eine neue Ära."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/monumento-a-paz-luena-landmarks-v2.webp"},
   {
     id: "monumento-cuito-cuanavale-landmarks-v2",
     type: "landmark",
@@ -377,8 +671,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["Az 1987-88-as csata emléke.", "Nagy emlékműkomplexum.", "Múzeummal egybekötve.", "Nemzeti emlékhely."],
       ro: ["Comemorează bătălia din 1987-88.", "Complex monumental mare.", "Muzeu integrat.", "Memorial național."],
       en: ["Commemorates 1987-88 battle.", "Large monument complex.", "Museum integrated.", "National memorial."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Monument von Cuito Cuanavale ist eines der bedeutendsten nationalen Denkmäler Angolas und erinnert an die historische Panzerschlacht von 1987-1988. Das gewaltige Bauwerk symbolisiert den Mut der angolanischen Soldaten und den entscheidenden Sieg, der den Weg zum regionalen Frieden und zur Unabhängigkeit Namibias ebnete. Das Monument umfasst ein Museum, eine Aussichtsplattform und beeindruckende Skulpturen, die den Kampfgeist der Nation darstellen. Es ist ein Ort des nationalen Stolzes und der internationalen Bedeutung, der jährlich von tausenden Menschen besucht wird. Cuito Cuanavale wird oft als das 'Stalingrad Afrikas' bezeichnet, was die historische Tragweite dieses Ortes unterstreicht. Geschichte K8 — Zeitgeschichte und nationale Souveränität.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gewaltiger Monumentalkomplex zur Ehre der Helden von Cuito Cuanavale.", "Eines der größten historischen Denkmäler in Subsahara-Afrika.", "Beherbergt ein modernes Museum mit authentischer Kriegstechnik.", "Symbolisiert das Ende der ausländischen Intervention in Angola.", "Zentraler Punkt für die militärhistorische Forschung des Landes.", "Wahrzeichen für die Provinz Cuando Cubango.", "Ort offizieller Staatsakte und militärischer Paraden.", "Ein Zeichen für die unerschütterliche Entschlossenheit Angolas."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/monumento-cuito-cuanavale-landmarks-v2.webp"},
   {
     id: "se-catedral-namibe-landmarks-v2",
     type: "landmark",
@@ -391,8 +696,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["Katolikus katedrális.", "Namibe városában.", "Gyarmati örökség.", "Feltűnő építészet."],
       ro: ["Catedrală catolică.", "În orașul Namibe.", "Moștenire colonială.", "Arhitectură impresionantă."],
       en: ["Catholic cathedral.", "In Namibe.", "Colonial heritage.", "Striking architecture."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Namibe (Sé Catedral de Nossa Senhora de Fátima) ist ein markantes religiöses Bauwerk in der Küstenstadt Moçâmedes. Sie zeichnet sich durch ihre moderne, luftige Architektur aus, die ideal an das heiße Wüstenklima angepasst ist. Die Kathedrale ist das geistliche Zentrum der Provinz Namibe und ein Symbol für den katholischen Glauben an der südlichen Atlantikküste. Das Gebäude mit seinen klaren Linien und der strahlend weißen Fassade ist ein wichtiger Orientierungspunkt in der Stadtplanung von Namibe. Im Inneren bietet sie eine kühle und ruhige Atmosphäre für Gebet und Besinnung. Sie dokumentiert die moderne religiöse Entwicklung im unabhängigen Angola. Geschichte K8 — Zeitgenössische Sakralarchitektur an der Küste.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Sitz der Diözese Namibe, gegründet im späten 20. Jahrhundert.", "Architektonisch geprägt durch moderne Funktionalität.", "Wichtiger Treffpunkt für die Fischergemeinden des Südens.", "Zentral gelegen in der Nähe des historischen Stadtkerns.", "Wahrzeichen für die religiöse Vielfalt in der Provinz Namibe.", "Beherbergt bedeutende Marienstatuen und lokale Kunst.", "Symbol für den Schutz der Seeleute und ihrer Familien.", "Ein Ort der Ruhe inmitten der trockenen Wüstenumgebung."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/se-catedral-namibe-landmarks-v2.webp"},
   {
     id: "igreja-santo-antonio-kuito-landmarks-v2",
     type: "landmark",
@@ -405,8 +721,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["Kuito városában.", "Katolikus templom.", "Történelmi sebek.", "Részben restaurált."],
       ro: ["În orașul Kuito.", "Biserică catolică.", "Cicatrici istorice.", "Parțial restaurată."],
       en: ["In the city of Kuito.", "Catholic church.", "Historical scars.", "Partially restored."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Kirche Santo António in Kuito ist das spirituelle Wahrzeichen der Provinz Bié und ein Symbol für den tiefen Glauben im zentralen Hochland. Das Gebäude im klassischen Missionsstil prägt das Zentrum der Stadt Kuito und ist ein wichtiger Ort für die Identität der lokalen Bevölkerung. Die Kirche erlebte die schweren Jahre des Bürgerkriegs und wurde zu einem Symbol des Trostes und des Wiederaufbaus für die geplagte Stadt. Nach umfassenden Renovierungsarbeiten strahlt sie heute in neuem Glanz und beherbergt eine lebendige Gemeinde. Die Architektur ist schlicht, aber eindrucksvoll, und spiegelt die Beständigkeit der religiösen Institutionen in Zentralangola wider. Geschichte K8 — Religion und Widerstandskraft im Hochland.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Zentrales katholisches Gotteshaus in der Hauptstadt von Bié.", "Wahrzeichen für den Wiederaufbau nach den Zerstörungen des Krieges.", "Wichtiger Ort für kulturelle und religiöse Zeremonien der Ovimbundu.", "Bekannt für seine charakteristische Turmarchitektur.", "Beherbergt wertvolle sakrale Kunstwerke aus der Region.", "Sitz bedeutender sozialer und bildungspolitischer Projekte.", "Symbol für den Frieden und die Versöhnung im Herzen Angolas.", "Ein Ziel für Besucher, die die Geschichte von Kuito verstehen wollen."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/igreja-santo-antonio-kuito-landmarks-v2.webp"},
   {
     id: "fortaleza-sao-francisco-penedo-landmarks-v2",
     type: "landmark",
@@ -419,6 +746,19 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       hu: ["18. században épült.", "Egykori börtön.", "Luandában található.", "Történelmi emlékmű."],
       ro: ["Construită în sec. XVIII.", "Fostă închisoare.", "Situată în Luanda.", "Monument istoric."],
       en: ["Built in 18th century.", "Former prison.", "Located in Luanda.", "Historical monument."]
+    },
+    descriptionAdvanced: {
+      de: "Die Fortaleza de São Francisco do Penedo ist eine majestätische Festung am Rande des Hafens von Luanda, die auf eine lange und wechselvolle Geschichte zurückblickt. Ursprünglich auf einem Felsen im Meer errichtet, war sie ein zentraler Bestandteil des Verteidigungssystems der Hauptstadt. Die Festung besticht durch ihre massive Bauweise und die strategische Lage, die über Jahrhunderte den Zugang zum Landesinneren kontrollierte. In der neueren Geschichte wurde sie als Ort der Unterdrückung politischer Gegner bekannt, was sie heute zu einem Symbol des Triumphs über die Unfreiheit macht. Der Penedo ist ein unverzichtbares Denkmal für das Verständnis der militärischen und sozialen Dynamik des kolonialen Luanda. Geschichte K8 — Kolonialarchitektur und nationale Befreiung.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 18. Jahrhundert auf einem markanten Inselfelsen.", "Wahrzeichen für die militärische Absicherung der Luanda-Bucht.", "Diente als berüchtigtes Hochsicherheitsgefängnis der Kolonialmacht.", "Architektonisch geprägt durch komplexe Tunnel- und Kasemattensysteme.", "Heute ein nationales Monument und Ort der historischen Aufarbeitung.", "Bietet eine einzigartige Perspektive auf die industrielle Hafenfront.", "Wird als Teil des maritimen Erbes von Angola geschützt.", "Ein Kraftort der angolanischen Identitätsfindung."],
+      hu: [],
+      ro: [],
+      en: []
     }
+
   }
 ];

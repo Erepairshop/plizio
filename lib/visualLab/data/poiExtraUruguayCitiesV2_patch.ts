@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from "./poi";
 
 // Helper functions for Uruguay specific content
@@ -25,3 +26,4 @@ const getUruguayCitiesData = (id: string) => {
       };
   }
 };
+

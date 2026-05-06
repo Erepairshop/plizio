@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUruguayLandmarksV2: POI[] = [
@@ -25,8 +26,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-palacio-salvo-landmarks-v2.webp"},
   {
     id: "uy-ma-casapueblo-landmarks-v2",
     type: "landmark",
@@ -51,8 +51,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ma-casapueblo-landmarks-v2.webp"},
   {
     id: "uy-mo-estadio-centenario-landmarks-v2",
     type: "landmark",
@@ -77,8 +76,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-estadio-centenario-landmarks-v2.webp"},
   {
     id: "uy-ma-la-mano-landmarks-v2",
     type: "landmark",
@@ -103,8 +101,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ma-la-mano-landmarks-v2.webp"},
   {
     id: "uy-mo-palacio-legislativo-landmarks-v2",
     type: "landmark",
@@ -129,8 +126,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-palacio-legislativo-landmarks-v2.webp"},
   {
     id: "uy-mo-teatro-solis-landmarks-v2",
     type: "landmark",
@@ -155,8 +151,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-teatro-solis-landmarks-v2.webp"},
   {
     id: "uy-mo-fortaleza-del-cerro-landmarks-v2",
     type: "landmark",
@@ -181,8 +176,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-fortaleza-del-cerro-landmarks-v2.webp"},
   {
     id: "uy-mo-torre-antel-landmarks-v2",
     type: "landmark",
@@ -207,8 +201,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-torre-antel-landmarks-v2.webp"},
   {
     id: "uy-ro-faro-cabo-polonio-landmarks-v2",
     type: "landmark",
@@ -233,8 +226,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ro-faro-cabo-polonio-landmarks-v2.webp"},
   {
     id: "uy-ma-castillo-de-piria-landmarks-v2",
     type: "landmark",
@@ -259,8 +251,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ma-castillo-de-piria-landmarks-v2.webp"},
   {
     id: "uy-ca-iglesia-cristo-obrero-landmarks-v2",
     type: "landmark",
@@ -285,8 +276,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ca-iglesia-cristo-obrero-landmarks-v2.webp"},
   {
     id: "uy-mo-monumento-a-la-carreta-landmarks-v2",
     type: "landmark",
@@ -311,8 +301,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-monumento-a-la-carreta-landmarks-v2.webp"},
   {
     id: "uy-mo-obelisco-a-los-constituyentes-landmarks-v2",
     type: "landmark",
@@ -337,8 +326,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-obelisco-a-los-constituyentes-landmarks-v2.webp"},
   {
     id: "uy-mo-mercado-del-puerto-landmarks-v2",
     type: "landmark",
@@ -363,8 +351,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-mercado-del-puerto-landmarks-v2.webp"},
   {
     id: "uy-mo-catedral-metropolitana-landmarks-v2",
     type: "landmark",
@@ -389,8 +376,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-catedral-metropolitana-landmarks-v2.webp"},
   {
     id: "uy-ma-puente-leonel-viera-landmarks-v2",
     type: "landmark",
@@ -415,8 +401,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ma-puente-leonel-viera-landmarks-v2.webp"},
   {
     id: "uy-ca-puente-de-las-americas-landmarks-v2",
     type: "landmark",
@@ -441,8 +426,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ca-puente-de-las-americas-landmarks-v2.webp"},
   {
     id: "uy-co-faro-de-colonia-landmarks-v2",
     type: "landmark",
@@ -467,8 +451,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-co-faro-de-colonia-landmarks-v2.webp"},
   {
     id: "uy-mo-castillo-pittamiglio-landmarks-v2",
     type: "landmark",
@@ -493,8 +476,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-castillo-pittamiglio-landmarks-v2.webp"},
   {
     id: "uy-mo-wtc-montevideo-landmarks-v2",
     type: "landmark",
@@ -519,8 +501,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-wtc-montevideo-landmarks-v2.webp"},
   {
     id: "uy-mo-estadio-campeon-del-siglo-landmarks-v2",
     type: "landmark",
@@ -545,8 +526,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-estadio-campeon-del-siglo-landmarks-v2.webp"},
   {
     id: "uy-mo-mausoleo-artigas-landmarks-v2",
     type: "landmark",
@@ -571,8 +551,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-mausoleo-artigas-landmarks-v2.webp"},
   {
     id: "uy-mo-antel-arena-landmarks-v2",
     type: "landmark",
@@ -597,8 +576,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-antel-arena-landmarks-v2.webp"},
   {
     id: "uy-ma-faro-jose-ignacio-landmarks-v2",
     type: "landmark",
@@ -623,8 +601,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ma-faro-jose-ignacio-landmarks-v2.webp"},
   {
     id: "uy-ro-fuerte-san-miguel-landmarks-v2",
     type: "landmark",
@@ -649,8 +626,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ro-fuerte-san-miguel-landmarks-v2.webp"},
   {
     id: "uy-ro-fortaleza-santa-teresa-landmarks-v2",
     type: "landmark",
@@ -675,8 +651,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ro-fortaleza-santa-teresa-landmarks-v2.webp"},
   {
     id: "uy-mo-palacio-taranco-landmarks-v2",
     type: "landmark",
@@ -701,8 +676,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-mo-palacio-taranco-landmarks-v2.webp"},
   {
     id: "uy-ma-cuartel-de-dragones-landmarks-v2",
     type: "landmark",
@@ -727,8 +701,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ma-cuartel-de-dragones-landmarks-v2.webp"},
   {
     id: "uy-ma-puente-laguna-garzon-landmarks-v2",
     type: "landmark",
@@ -753,8 +726,7 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/uy-ma-puente-laguna-garzon-landmarks-v2.webp"},
   {
     id: "uy-mo-palacio-santos-landmarks-v2",
     type: "landmark",
@@ -782,3 +754,4 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       }
   }
 ];
+

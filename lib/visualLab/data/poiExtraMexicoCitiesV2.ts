@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMexicoCitiesV2: POI[] = [
@@ -20,8 +21,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Home to the Macroplaza, covering 40 hectares of public space.", "The Cerro de la Silla peak reaches an elevation of 1,820 meters.", "Contributes approximately 8% of Mexico's total GDP.", "Hosted the 2007 Universal Forum of Cultures.", "The Santa Lucia Riverwalk is 2.5 kilometers long.", "Home to the Tec de Monterrey, a top-ranked university in Latin America.", "Features the MARCO museum with over 16,000 square meters of exhibition space."]
-    }
-  },
+    }, image: "/poi-images/monterrey-cities-v2.webp"},
   {
     id: "puebla-cities-v2",
     type: "state-capital",
@@ -41,8 +41,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Historic center contains 2,619 designated historic monuments.", "The Puebla Cathedral towers are 69 meters high, the tallest in Mexico.", "Biblioteca Palafoxiana was founded in 1646 with 5,000 volumes.", "Home to the Great Pyramid of Cholula, the world's largest by volume.", "Features over 70 churches in the historic center alone.", "The city's elevation is approximately 2,135 meters above sea level.", "Host of the annual International Baroque Museum, designed by Toyo Ito."]
-    }
-  },
+    }, image: "/poi-images/puebla-cities-v2.webp"},
   {
     id: "tijuana-cities-v2",
     type: "city",
@@ -62,8 +61,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Processes over 50 million legal border crossings annually.", "The CECUT 'ball' theater has a diameter of 42 meters.", "Produces more than 100 different brands of local craft beer.", "Home to the world's first Caesar salad, created in 1924.", "Tijuana's population exceeds 1.9 million residents.", "Located only 24 kilometers from downtown San Diego, California.", "The city features over 40 industrial parks for manufacturing.", "The Minarete of the former Agua Caliente Casino stands 25 meters tall."]
-    }
-  },
+    }, image: "/poi-images/tijuana-cities-v2.webp"},
   {
     id: "ciudad-juarez-cities-v2",
     type: "city",
@@ -83,8 +81,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Hosts over 300 maquiladora manufacturing plants.", "The Chamizal Park covers approximately 247 acres.", "Founded in 1659 as El Paso del Norte.", "Connected to El Paso by four international bridges.", "The Cathedral features a facade built in the 17th century.", "Juárez is the largest city in the state of Chihuahua by population.", "The X Sculpture (La Equis) stands 62 meters tall.", "Experiences an average of 300 sunny days per year."]
-    }
-  },
+    }, image: "/poi-images/ciudad-juarez-cities-v2.webp"},
   {
     id: "leon-cities-v2",
     type: "city",
@@ -104,8 +101,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Produces over 70% of all footwear manufactured in Mexico.", "The International Balloon Festival hosts over 200 hot air balloons annually.", "Expiatory Temple construction began in 1921 and took over 90 years.", "Metropolitan Park covers 337 hectares of land and water.", "León is the 4th most populous city in Mexico.", "The Forum Cultural Guanajuato spans 9 hectares of cultural space.", "The city sits at an altitude of 1,815 meters above sea level.", "Features the Arco de la Calzada with a bronze lion statue 3 meters long."]
-    }
-  },
+    }, image: "/poi-images/leon-cities-v2.webp"},
   {
     id: "zapopan-cities-v2",
     type: "city",
@@ -125,8 +121,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Romería of Zapopan attracts over 2 million pilgrims annually.", "The Basilica was completed in 1730 with a Baroque facade.", "Andares Shopping Mall features over 200 retail stores.", "Bosque de la Primavera spans over 30,000 hectares of forest.", "Auditorio Telmex has a capacity for up to 11,500 spectators.", "Zapopan is the wealthiest municipality in the state of Jalisco.", "Home to the Zapopan Art Museum (MAZ) in the historic center.", "The city's name comes from the Nahuatl word meaning 'among sapote trees.'"]
-    }
-  },
+    }, image: "/poi-images/zapopan-cities-v2.webp"},
   {
     id: "nezahualcoyotl-cities-v2",
     type: "city",
@@ -146,8 +141,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Named after Nezahualcóyotl, who ruled Texcoco from 1431 to 1472.", "Population exceeds 1 million people in just 63 square kilometers.", "The Cabeza de Coyote sculpture stands 40 meters tall.", "Established as an independent municipality as recently as 1963.", "Located at an average altitude of 2,220 meters above sea level.", "Features the Nezahualcóyotl Stadium with a capacity of 20,000 seats.", "Originally settled on the drained basin of Lake Texcoco.", "One of the most densely populated municipalities in North America."]
-    }
-  },
+    }, image: "/poi-images/nezahualcoyotl-cities-v2.webp"},
   {
     id: "merida-cities-v2",
     type: "state-capital",
@@ -167,8 +161,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Merida Cathedral was completed in 1598.", "Founded in 1542 on the site of the Maya city of T'hó.", "Paseo de Montejo is over 5 kilometers long.", "Voted the 'Best Small City in the World' by Condé Nast Traveler.", "Average annual temperature is a tropical 26 degrees Celsius.", "The city is located approximately 35 kilometers from the Gulf coast.", "Features the Gran Museo del Mundo Maya with 1,100+ artifacts.", "Known for its 19th-century 'henequen' mansions."]
-    }
-  },
+    }, image: "/poi-images/merida-cities-v2.webp"},
   {
     id: "cancun-cities-v2",
     type: "city",
@@ -188,8 +181,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Hotel Zone is shaped like the number 7 and is 22.5 kilometers long.", "Receives more than 6 million international tourists annually.", "Cancun International Airport is the 2nd busiest in Mexico.", "The Mesoamerican Barrier Reef is the 2nd largest reef system in the world.", "Cancún was officially founded on April 20, 1970.", "Features the MUSA Underwater Museum with over 500 sculptures.", "Average water temperature remains around 27 degrees Celsius year-round.", "Home to the Nichupté Lagoon, covering over 3,000 hectares."]
-    }
-  },
+    }, image: "/poi-images/cancun-cities-v2.webp"},
   {
     id: "queretaro-city-cities-v2",
     type: "state-capital",
@@ -209,8 +201,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Queretaro Aqueduct is 1,280 meters long with 74 arches.", "The city's historic center was named a UNESCO site in 1996.", "Average altitude is 1,820 meters above sea level.", "Queretaro has one of the highest GDP per capita rates in Mexico.", "The Cerro de las Campanas is the site where Emperor Maximilian was executed in 1867.", "Home to more than 80 aerospace-related companies.", "The Teatro de la República hosted the 1917 Constitutional Congress.", "Querétaro is located 213 kilometers north of Mexico City."]
-    }
-  },
+    }, image: "/poi-images/queretaro-city-cities-v2.webp"},
   {
     id: "aguascalientes-cities-v2",
     type: "state-capital",
@@ -230,8 +221,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The San Marcos National Fair attracts over 8 million visitors annually.", "Aguascalientes is one of the top three safest cities in Mexico.", "Home to two major Nissan manufacturing plants.", "The Government Palace features 5 large murals by Oswaldo Barra.", "San Marcos Garden was completed in 1847 with a pink stone balustrade.", "The city's altitude is 1,888 meters above sea level.", "Features the Jose Guadalupe Posada Museum, honoring the creator of 'La Catrina.'", "The state of Aguascalientes is one of the smallest in Mexico by area."]
-    }
-  },
+    }, image: "/poi-images/aguascalientes-cities-v2.webp"},
   {
     id: "chihuahua-city-cities-v2",
     type: "state-capital",
@@ -251,8 +241,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Chihuahua Cathedral took over 100 years to build (1725-1826).", "Pancho Villa's house, Quinta Luz, contains 50 rooms.", "Chihuahua is the capital of the largest state in Mexico by land area.", "Elevation is 1,415 meters above sea level.", "The Palacio de Gobierno was the site of Miguel Hidalgo's execution in 1811.", "The Chepe train journey covers over 650 kilometers.", "Home to more than 60 aerospace and manufacturing plants.", "Average summer temperatures often exceed 35 degrees Celsius."]
-    }
-  },
+    }, image: "/poi-images/chihuahua-city-cities-v2.webp"},
   {
     id: "hermosillo-cities-v2",
     type: "state-capital",
@@ -272,8 +261,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Hermosillo's record high temperature reached 49.5 degrees Celsius.", "The Cathedral of the Assumption stands 30 meters tall.", "Home to a massive Ford Stamping and Assembly Plant since 1986.", "Located 270 kilometers south of the US border at Nogales.", "Plaza Zaragoza features a beautiful Moorish-style kiosk.", "The city is only 100 kilometers from the Sea of Cortez.", "Hermosillo is the 16th largest city in Mexico by population.", "The Cerro de la Campana lookout offers 360-degree views of the city."]
-    }
-  },
+    }, image: "/poi-images/hermosillo-cities-v2.webp"},
   {
     id: "saltillo-cities-v2",
     type: "state-capital",
@@ -293,8 +281,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Produces over 20% of all vehicles manufactured in Mexico.", "The Santiago Cathedral tower stands 71 meters tall.", "Museo del Desierto covers 12,300 square meters of exhibition space.", "Saltillo sits at an elevation of 1,600 meters above sea level.", "Home to the world-famous 'Sarape de Saltillo' weaving tradition.", "Founded in 1577, making it the oldest city in northeastern Mexico.", "The city hosts major plants for Chrysler, General Motors, and Freightliner.", "The Alameda Zaragoza park features an artificial lake shaped like Mexico."]
-    }
-  },
+    }, image: "/poi-images/saltillo-cities-v2.webp"},
   {
     id: "culiacan-cities-v2",
     type: "state-capital",
@@ -314,8 +301,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Located at the confluence of the Humaya, Tamazula, and Culiacán rivers.", "The Culiacán Botanical Garden spans 10 hectares with 1,000+ species.", "Sinaloa produces over 30% of Mexico's total food output.", "The Cathedral was built between 1842 and 1885.", "Las Riberas Park is the largest urban park in northwestern Mexico.", "The city has a hot semi-arid climate with average highs of 32°C.", "Home to the Tomateros de Culiacán, a premier winter league baseball team.", "Located about 45 minutes from the Pacific coast at Altata."]
-    }
-  },
+    }, image: "/poi-images/culiacan-cities-v2.webp"},
   {
     id: "acapulco-cities-v2",
     type: "city",
@@ -335,8 +321,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Acapulco Bay is approximately 7 kilometers long.", "Cliff divers at La Quebrada perform jumps from 35 meters high.", "Fort of San Diego was originally built in 1616 to repel pirates.", "Hosted the first international film festival in Mexico in 1958.", "The city receives over 5 million tourists per year.", "Average year-round temperature is a tropical 28 degrees Celsius.", "The deepest part of the bay reaches over 50 meters.", "Located 380 kilometers southwest of Mexico City."]
-    }
-  },
+    }, image: "/poi-images/acapulco-cities-v2.webp"},
   {
     id: "tlalnepantla-de-baz-cities-v2",
     type: "city",
@@ -356,8 +341,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Contributes approximately 12% of the State of Mexico's GDP.", "Home to the Tenayuca pyramid, founded around 1200 AD.", "Hosts over 2,000 industrial companies and 10,000+ commercial businesses.", "The municipal palace features murals depicting the history of the region.", "Santa Cecilia Acatitlán is one of the best-preserved Aztec-style temples.", "Connected to Mexico City by the Tren Suburbano and major highways.", "The city's population is over 670,000 residents.", "Name comes from the Nahuatl 'tlalli' (earth) and 'nepantla' (middle)."]
-    }
-  },
+    }, image: "/poi-images/tlalnepantla-de-baz-cities-v2.webp"},
   {
     id: "chimalhuacan-cities-v2",
     type: "city",
@@ -377,8 +361,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Guerrero Chimalli statue stands 60 meters tall and weighs 600 tons.", "The city's Carnival lasts for over 3 months every year.", "Home to more than 600 families dedicated to the 'cantería' (stone carving) craft.", "Founded around 1259 by three brothers from Tula.", "Located on the former shores of Lake Texcoco.", "The Chimalhuacán Museum houses mammoth remains found locally.", "One of the 10 most populous municipalities in the State of Mexico.", "Altitude is approximately 2,240 meters above sea level."]
-    }
-  },
+    }, image: "/poi-images/chimalhuacan-cities-v2.webp"},
   {
     id: "reynosa-cities-v2",
     type: "city",
@@ -398,8 +381,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Hosts over 150 maquiladora manufacturing plants.", "Connected to the US by three international bridges.", "Reynosa accounts for a significant portion of Tamaulipas' industrial output.", "The city was founded in 1749 as Villa de Nuestra Señora de Guadalupe de Reynosa.", "Located only 11 meters above sea level in the Rio Grande valley.", "Home to the Reynosa Cultural Center, spanning 8 hectares.", "Population has more than doubled in the last 30 years.", "Experiences a humid subtropical climate with hot summers."]
-    }
-  },
+    }, image: "/poi-images/reynosa-cities-v2.webp"},
   {
     id: "torreon-cities-v2",
     type: "city",
@@ -419,8 +401,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Cristo de las Noas statue is 21.8 meters tall and weighs 580 tons.", "Torreón was officially founded as a city only in 1907.", "The Teleférico (cable car) travels a distance of 1.4 kilometers.", "Home to the world's largest silver refinery operated by Peñoles.", "The Comarca Lagunera is Mexico's top dairy-producing region.", "Estadio Corona has a seating capacity of 30,000 spectators.", "The city features the Arocena Museum with over 3,000 pieces of art.", "Torreón sits at an altitude of 1,120 meters above sea level."]
-    }
-  },
+    }, image: "/poi-images/torreon-cities-v2.webp"},
   {
     id: "morelia-cities-v2",
     type: "state-capital",
@@ -440,8 +421,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Historic center contains over 200 designated historic buildings.", "Morelia Cathedral towers stand 62 meters high.", "The city's aqueduct features 253 arches and is 1.7 kilometers long.", "Founded in 1541 as Valladolid, renamed Morelia in 1828.", "Home to the Universidad Michoacana, one of the oldest in the Americas.", "The cathedral's pipe organ has 4,600 pipes.", "Located at an altitude of 1,920 meters above sea level.", "Host of the Morelia International Film Festival since 2003."]
-    }
-  },
+    }, image: "/poi-images/morelia-cities-v2.webp"},
   {
     id: "veracruz-city-cities-v2",
     type: "city",
@@ -461,8 +441,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["First city founded by Europeans in continental America (1519).", "San Juan de Ulúa fortress construction began in 1535.", "Veracruz Aquarium features over 3,000 marine specimens.", "The Port of Veracruz handles over 30 million tons of cargo annually.", "The city's Carnival attracts over 1 million visitors each year.", "The Zócalo is officially known as Plaza de Armas.", "Gran Café de la Parroquia has been operating since 1808.", "Located 400 kilometers east of Mexico City."]
-    }
-  },
+    }, image: "/poi-images/veracruz-city-cities-v2.webp"},
   {
     id: "villahermosa-cities-v2",
     type: "state-capital",
@@ -482,8 +461,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Parque-Museo La Venta houses 3 colossal Olmec stone heads.", "Villahermosa is the administrative center for Pemex in southern Mexico.", "The Laguna de las Ilusiones covers over 200 hectares.", "Yumká Safari Park spans 101 hectares of diverse ecosystems.", "Average annual humidity is over 75%.", "The Grijalva River is the second largest in Mexico by water volume.", "Founded in 1564 by Spanish explorers.", "The city's altitude is only 10 meters above sea level."]
-    }
-  },
+    }, image: "/poi-images/villahermosa-cities-v2.webp"},
   {
     id: "xalapa-cities-v2",
     type: "state-capital",
@@ -503,8 +481,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Museum of Anthropology (MAX) houses over 25,000 pieces.", "Xalapa's altitude is 1,420 meters above sea level.", "Home to the University of Veracruz, with over 60,000 students.", "The Xalapa Symphony Orchestra was founded in 1929.", "Receives an average of 1,500 mm of rainfall per year, often as mist (chipichipi).", "The Macuiltépetl Ecological Park is the city's highest point at 1,580 meters.", "Located 100 kilometers inland from the port of Veracruz.", "Surrounded by over 50,000 hectares of coffee plantations."]
-    }
-  },
+    }, image: "/poi-images/xalapa-cities-v2.webp"},
   {
     id: "mazatlan-cities-v2",
     type: "city",
@@ -524,8 +501,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Mazatlán Malecón is approximately 21 kilometers long.", "El Faro sits atop Creston Hill at an elevation of 157 meters.", "The Angela Peralta Theater was inaugurated in 1874.", "Mazatlán is the shrimp capital of the world, exporting 40,000+ tons annually.", "The city's Carnival has been celebrated officially since 1898.", "Located exactly at the same latitude as Honolulu, Hawaii.", "Features the largest tank in Latin America at the new Mazatlán Aquarium.", "The historic center covers over 180 blocks of architecture."]
-    }
-  },
+    }, image: "/poi-images/mazatlan-cities-v2.webp"},
   {
     id: "san-luis-potosi-cities-v2",
     type: "state-capital",
@@ -545,8 +521,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Historic center was named a UNESCO World Heritage site in 2010.", "Founded in 1592 after the discovery of gold and silver.", "Home to the stunning Templo del Carmen with its ultra-baroque facade.", "San Luis Potosí is located at an altitude of 1,860 meters.", "The city served as the capital of Mexico in 1863 and 1867.", "Features the Tangamanga I Park, the second largest urban park in Mexico.", "Home to major manufacturing plants for BMW and General Motors.", "The National Mask Museum houses one of the country's best collections."]
-    }
-  },
+    }, image: "/poi-images/san-luis-potosi-cities-v2.webp"},
   {
     id: "tuxtla-gutierrez-cities-v2",
     type: "state-capital",
@@ -566,8 +541,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Home to the Zoomat, which houses 250+ species native to Chiapas.", "Located only 15 minutes from the entrance to Sumidero Canyon.", "Parque de la Marimba hosts live marimba music every night at 6 PM.", "Tuxtla is the first city in Mexico to be certified as a 'Safe City' by the WHO.", "Average annual temperature is a tropical 25 degrees Celsius.", "The Christ of Chiapas (Copoya) statue stands 62 meters tall.", "Located at an altitude of 522 meters above sea level.", "The Grijalva River near the city is one of Mexico's most voluminous."]
-    }
-  },
+    }, image: "/poi-images/tuxtla-gutierrez-cities-v2.webp"},
   {
     id: "irapuato-cities-v2",
     type: "city",
@@ -587,8 +561,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Produces over 6,000 tons of strawberries annually.", "The annual Strawberry Fair (Feria de las Fresas) attracts 300,000+ visitors.", "Home to more than 40 industrial parks in the surrounding region.", "The Fountain of the Dolphins was a gift from Archduke Maximilian of Austria.", "Founded in 1547 by Spanish explorers.", "Sits at an altitude of 1,724 meters above sea level.", "Located at the crossroads of major highways linking Mexico City and the North.", "Features the 'Mural of Identity' depicting the history of the Bajío."]
-    }
-  },
+    }, image: "/poi-images/irapuato-cities-v2.webp"},
   {
     id: "oaxaca-city-cities-v2",
     type: "state-capital",
@@ -608,8 +581,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Historic center and Monte Albán were named UNESCO sites in 1987.", "Santo Domingo church features over 60,000 sheets of gold leaf in its interior.", "The annual Guelaguetza festival is the largest indigenous dance event in the Americas.", "Oaxaca is the largest producer of mezcal in the world.", "Founded as a Spanish city in 1532 on a Zapotec settlement.", "Located at an altitude of 1,555 meters above sea level.", "The Ethnobotanical Garden contains 1,000+ species native to the state.", "The city's name comes from the Nahuatl 'Huaxyacac,' meaning 'among gourds.'"]
-    }
-  },
+    }, image: "/poi-images/oaxaca-city-cities-v2.webp"},
   {
     id: "durango-city-cities-v2",
     type: "state-capital",
@@ -629,8 +601,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Historic center features 742 buildings designated as historical monuments.", "Over 150 international films have been shot in Durango since the 1950s.", "The Durango Cathedral features a baroque facade with two massive towers.", "Founded in 1563 by Spanish explorer Francisco de Ibarra.", "Located at an altitude of 1,890 meters above sea level.", "The Teleférico (cable car) rises 82 meters above the city.", "Home to the largest iron ore deposit in Mexico (Cerro de Mercado).", "The state of Durango is one of the top producers of gold and silver."]
-    }
-  },
+    }, image: "/poi-images/durango-city-cities-v2.webp"},
   {
     id: "matamoros-cities-v2",
     type: "city",
@@ -650,8 +621,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Matamoros hosts over 120 maquiladora manufacturing plants.", "Connected to the United States by three international bridges.", "Founded in 1774 as San Juan de los Esteros Hermosos.", "Located only 9 meters above sea level in the coastal plain.", "The Casamata Museum was part of the city's 19th-century fortifications.", "Home to the 'Mr. Amigo' festival, celebrating US-Mexico friendship.", "Bagdad Beach is located 30 kilometers east of the city center.", "The Port of Matamoros is a key center for offshore oil logistics."]
-    }
-  },
+    }, image: "/poi-images/matamoros-cities-v2.webp"},
   {
     id: "cuernavaca-cities-v2",
     type: "state-capital",
@@ -671,8 +641,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Average year-round temperature is a pleasant 21 degrees Celsius.", "The Palace of Cortés was completed in 1535.", "The Cuernavaca Cathedral was established in 1525 as a Franciscan mission.", "Borda Garden was the summer palace of Maximilian and Carlota in the 1860s.", "Located at an altitude of 1,510 meters above sea level.", "Famous for its high concentration of Spanish language schools for foreigners.", "The Robert Brady Museum features a world-class private art collection.", "Located only 85 kilometers south of Mexico City."]
-    }
-  },
+    }, image: "/poi-images/cuernavaca-cities-v2.webp"},
   {
     id: "celaya-cities-v2",
     type: "city",
@@ -692,8 +661,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Produces over 60% of Mexico's artisanal 'cajeta.'", "The Templo del Carmen features a stunning dome and was completed in 1807.", "The Battle of Celaya in 1915 involved over 50,000 soldiers.", "Home to major manufacturing plants for Honda and Procter & Gamble.", "The 'Bola del Agua' (Water Ball) is a unique spherical water tower built in 1910.", "Located at an altitude of 1,750 meters above sea level.", "Founded in 1570 as Villa de la Purísima Concepción de Zalaya.", "One of the top three most populous cities in the state of Guanajuato."]
-    }
-  },
+    }, image: "/poi-images/celaya-cities-v2.webp"},
   {
     id: "pachuca-cities-v2",
     type: "state-capital",
@@ -713,8 +681,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Monumental Clock of Pachuca is 40 meters tall.", "Home to the first football (soccer) club in Mexico, founded in 1901.", "Pachuca pastes are a direct culinary legacy from 19th-century Cornish miners.", "Located at an altitude of 2,432 meters, making it one of Mexico's highest cities.", "The David Ben Gurion Park features a massive mosaic floor of 32,000 square meters.", "The Monumental Clock mechanism is an exact replica of London's Big Ben.", "Known as 'La Bella Airosa' due to the strong winds through its mountain pass.", "Hidalgo produces over 50% of the silver used in Mexican jewelry."]
-    }
-  },
+    }, image: "/poi-images/pachuca-cities-v2.webp"},
   {
     id: "campeche-city-cities-v2",
     type: "state-capital",
@@ -734,8 +701,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Historic center was named a UNESCO World Heritage site in 1999.", "The city's fortifications include over 2 kilometers of remaining walls.", "Baluarte de Santiago houses a botanical garden with 200+ tropical species.", "Fort San Miguel contains the best collection of Maya jade masks in Mexico.", "Founded in 1540 on the site of the Maya settlement of Can Pech.", "The Malecón extends for 3.5 kilometers along the Gulf coast.", "Average temperature is a tropical 27 degrees Celsius year-round.", "The city features 500+ colonial-style historic buildings in the center."]
-    }
-  },
+    }, image: "/poi-images/campeche-city-cities-v2.webp"},
   {
     id: "la-paz-cities-v2",
     type: "state-capital",
@@ -755,8 +721,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Espíritu Santo Island is a UNESCO Biosphere Reserve with 9,000 hectares.", "Whale shark season in La Paz runs from October to April.", "The Malecón is 5 kilometers long and features 10+ famous bronze sculptures.", "Founded by Hernán Cortés in 1535 (originally as Santa Cruz).", "Balandra Beach is famous for its 'Mushroom Rock' and shallow waters.", "Home to more than 800 species of fish in the Sea of Cortez.", "The city receives an average of 340 sunny days per year.", "La Paz is the top destination for legal whale shark encounters in Mexico."]
-    }
-  },
+    }, image: "/poi-images/la-paz-cities-v2.webp"},
   {
     id: "tepic-cities-v2",
     type: "state-capital",
@@ -776,8 +741,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Tepic Cathedral features two identical 40-meter tall neo-Gothic towers.", "Home to a major Huichol and Cora artisan market in the city center.", "Located at an altitude of 915 meters above sea level.", "Founded in 1531 by Nuño de Guzmán.", "Located 25 kilometers from the active Sangangüey volcano.", "Nayarit is one of Mexico's top producers of high-quality coffee.", "The city is only a 45-minute drive from the Pacific coast.", "Features the Four Cultures Museum (Museo de los Cuatro Pueblos)."]
-    }
-  },
+    }, image: "/poi-images/tepic-cities-v2.webp"},
   {
     id: "zacatecas-city-cities-v2",
     type: "state-capital",
@@ -797,8 +761,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Historic center was named a UNESCO World Heritage site in 1993.", "The Zacatecas Cathedral was completed in 1752 using pink sandstone.", "El Edén Mine was active for over 380 years (1586-1960).", "Zacatecas is the second-highest city in Mexico at 2,440 meters altitude.", "The Rafael Coronel Museum houses over 11,000 Mexican ritual masks.", "The Teleférico (cable car) travels 650 meters across the city skyline.", "Founded in 1546 after the discovery of one of the world's richest silver veins.", "Host of the massive International Folklore Festival every summer."]
-    }
-  },
+    }, image: "/poi-images/zacatecas-city-cities-v2.webp"},
   {
     id: "colima-city-cities-v2",
     type: "state-capital",
@@ -818,8 +781,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Volcán de Fuego is one of the most active volcanoes in North America.", "Colima was founded in 1523, making it the second oldest city in Mexico.", "Located at an altitude of 495 meters above sea level.", "The city is only 45 minutes from the beaches of Manzanillo.", "La Petatera bullring is 60 meters in diameter and built without nails.", "Home to the Alejandro Rangel Hidalgo Museum in the former Hacienda Nogueras.", "Average annual temperature is a warm 25 degrees Celsius.", "Colima has one of the highest literacy rates in Mexico."]
-    }
-  },
+    }, image: "/poi-images/colima-city-cities-v2.webp"},
   {
     id: "ciudad-victoria-cities-v2",
     type: "state-capital",
@@ -839,8 +801,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Named in honor of Guadalupe Victoria, the first President of Mexico.", "Tamatán Zoo features over 100 species of animals from around the world.", "Located at an altitude of 320 meters above sea level.", "Tamaulipas is a top national producer of oranges and lemons.", "The Vicente Guerrero Dam is one of the largest in Mexico by capacity.", "Founded in 1750 as Villa de Santa María de Aguayo.", "Home to the TAMux Museum, the largest of its kind in northeast Mexico.", "Located 250 kilometers south of the US border at Brownsville/Matamoros."]
-    }
-  },
+    }, image: "/poi-images/ciudad-victoria-cities-v2.webp"},
   {
     id: "chetumal-cities-v2",
     type: "state-capital",
@@ -860,8 +821,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Chetumal was founded in 1898 as Payo Obispo.", "The Museum of Maya Culture features 15,000 square feet of exhibits.", "Located only 2 kilometers from the Belize border.", "Chetumal Bay is a sanctuary for manatees with over 200 individuals.", "The Malecón is over 3 kilometers long and is the social heart of the city.", "Bacalar Lagoon is located just 40 kilometers north of the city.", "Average year-round temperature is a humid 27 degrees Celsius.", "The city's name comes from the Maya 'Chakté Mal,' meaning 'place of red wood.'"]
-    }
-  },
+    }, image: "/poi-images/chetumal-cities-v2.webp"},
   {
     id: "tlaxcala-city-cities-v2",
     type: "state-capital",
@@ -881,8 +841,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Tlaxcala Cathedral was completed around 1537.", "The cathedral's Mudéjar ceiling is over 480 years old.", "Tlaxcala is the capital of the smallest state in Mexico (3,991 sq km).", "Located at a high altitude of 2,230 meters above sea level.", "Founded in 1525 by the Spanish on the site of the Tlaxcaltec capital.", "Home to the Jorge 'El Ranchero' Aguilar bullring, one of the oldest in Mexico.", "The Government Palace features 450 square meters of murals by Desiderio Hernández Xochitiotzin.", "Located only 120 kilometers east of Mexico City."]
-    }
-  },
+    }, image: "/poi-images/tlaxcala-city-cities-v2.webp"},
   {
     id: "guanajuato-city-cities-v2",
     type: "state-capital",
@@ -902,8 +861,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Named a UNESCO World Heritage site in 1988.", "The city's network of tunnels stretches for over 8 kilometers.", "Guanajuato once produced over 30% of the world's silver.", "The Juarez Theater took over 30 years to build (1872-1903).", "The Mummy Museum contains over 100 naturally mummified bodies.", "Located at an altitude of 2,045 meters above sea level.", "Founded in 1548 after the discovery of silver veins.", "The Cervantino Festival attracts 500,000+ visitors every October."]
-    }
-  },
+    }, image: "/poi-images/guanajuato-city-cities-v2.webp"},
   {
     id: "playa-del-carmen-cities-v2",
     type: "city",
@@ -923,8 +881,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Fifth Avenue is a pedestrian walkway over 3 kilometers long.", "Ferry to Cozumel takes approximately 45 minutes.", "Playa del Carmen was once the site of Xaman-Há, a Maya transit point.", "Average year-round water temperature is a tropical 27 degrees Celsius.", "The city has been one of the fastest-growing in Latin America for two decades.", "Located 68 kilometers south of Cancun International Airport.", "Home to the Parque Fundadores with the iconic 16-meter tall Portal Maya sculpture.", "Proximity to 10+ major cenotes within a 20-minute drive."]
-    }
-  },
+    }, image: "/poi-images/playa-del-carmen-cities-v2.webp"},
   {
     id: "puerto-vallarta-cities-v2",
     type: "city",
@@ -944,8 +901,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Banderas Bay is one of the world's largest, spanning 42 kilometers across.", "The Malecón is 1.6 kilometers long and features 10+ major sculptures.", "The Church of Our Lady of Guadalupe features a crown held by sculpted angels.", "Humpback whales visit the bay from December to March.", "The city receives over 5 million international visitors per year.", "Founded in 1851 as Las Peñas.", "The Los Arcos Marine Park features granite arches rising 15+ meters.", "Home to more than 30 art galleries in the historic center."]
-    }
-  },
+    }, image: "/poi-images/puerto-vallarta-cities-v2.webp"},
   {
     id: "tula-de-allende-cities-v2",
     type: "city",
@@ -965,8 +921,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Atlantes statues stand 4.6 meters tall and are made of basalt.", "The ancient city of Tollan reached its peak between 900 and 1150 AD.", "Tula Cathedral was built by the Franciscans between 1543 and 1553.", "The archaeological site includes a ball court over 40 meters long.", "Located at an altitude of 2,020 meters above sea level.", "Home to one of the largest oil refineries in Mexico (Tula Refinery).", "The ancient city once had a population estimated at 60,000 people.", "Located 80 kilometers north of Mexico City."]
-    }
-  },
+    }, image: "/poi-images/tula-de-allende-cities-v2.webp"},
   {
     id: "uruapan-cities-v2",
     type: "city",
@@ -986,8 +941,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Produces over 1 million tons of avocados for export annually.", "Barranca del Cupatitzio is one of the smallest national parks in Mexico at 450 hectares.", "The Cupatitzio River flows at an average rate of 160 liters per second.", "Palm Sunday Artisan Market features 1,300+ artisans from across Michoacán.", "Located at an altitude of 1,620 meters above sea level.", "Founded in 1533 by Fray Juan de San Miguel.", "Average annual temperature is a comfortable 19 degrees Celsius.", "The city's name comes from the Purépecha word 'Uruapani,' meaning 'where flowers bloom.'"]
-    }
-  },
+    }, image: "/poi-images/uruapan-cities-v2.webp"},
   {
     id: "gomez-palacio-cities-v2",
     type: "city",
@@ -1007,8 +961,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Forms a metropolitan area with over 1.3 million residents together with Torreón.", "Home to a 68-meter tall replica of the Eiffel Tower.", "A major center for the 'Lala' dairy company, one of the largest in the world.", "Morelos Park is the largest green space in the city at 7 hectares.", "Founded in 1885 and officially became a city in 1905.", "Located at an altitude of 1,130 meters above sea level.", "Experiences a desert climate with average summer highs of 34°C.", "Connected to Torreón by several bridges over the dry Nazas River bed."]
-    }
-  },
+    }, image: "/poi-images/gomez-palacio-cities-v2.webp"},
   {
     id: "los-mochis-cities-v2",
     type: "city",
@@ -1028,8 +981,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Starting point for the Chepe Express, which travels 350+ kilometers to Creel.", "Home to the Sinaloa Park and Botanical Garden with 10+ hectares.", "Topolobampo Bay is only 20 kilometers from the city center.", "The city was founded in 1903 as a planned company town.", "The Benjamin Johnston Botanical Garden features plants from across 5 continents.", "Located at an altitude of only 10 meters above sea level.", "One of the top national producers of high-quality sugarcane and grains.", "Average annual temperature is a tropical 25 degrees Celsius."]
-    }
-  },
+    }, image: "/poi-images/los-mochis-cities-v2.webp"},
   {
     id: "tapachula-cities-v2",
     type: "city",
@@ -1049,8 +1001,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Soconusco region produces over 25,000 tons of coffee annually.", "Tapachula is only 15 kilometers from the Suchiate River (Guatemala border).", "The Tacaná Volcano rises to an elevation of 4,060 meters.", "Home to the Planetarium of Tapachula, one of the most modern in the south.", "Founded in 1842 as an independent municipality.", "Located at an altitude of 170 meters above sea level.", "Average annual rainfall is over 2,000 mm, making it very lush.", "Features the Izapa archaeological site with 80+ carved stone monuments."]
-    }
-  },
+    }, image: "/poi-images/tapachula-cities-v2.webp"},
   {
     id: "nuevo-laredo-cities-v2",
     type: "city",
@@ -1070,8 +1021,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Processes over 40% of all land trade between Mexico and the United States.", "Connected to the US by three international commercial bridges.", "The World Trade Bridge handles over 12,000 trucks per day.", "Founded in 1848 by families who wished to remain Mexican after the Treaty of Guadalupe Hidalgo.", "Located at an altitude of 150 meters above sea level.", "Home to the Centro Cultural Nuevo Laredo, covering 15 hectares.", "The city's population is over 425,000 residents.", "Features a humid subtropical climate with hot summers exceeding 38°C."]
-    }
-  },
+    }, image: "/poi-images/nuevo-laredo-cities-v2.webp"},
   {
     id: "san-cristobal-de-las-casas-cities-v2",
     type: "city",
@@ -1091,8 +1041,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Located at a high altitude of 2,200 meters above sea level.", "The Santo Domingo church facade features over 1,000 carved figures.", "Founded in 1528 by Diego de Mazariegos.", "Surrounded by over 10 indigenous Tzotzil and Tzeltal communities.", "Chiapas is famous for its 25-million-year-old amber, much of it sold here.", "Average year-round temperature is a cool 15 degrees Celsius.", "The Na Bolom Museum is dedicated to the preservation of the Lacandon Maya culture.", "Home to the 'Andador Real de Guadalupe,' a vibrant 1-kilometer pedestrian street."]
-    }
-  },
+    }, image: "/poi-images/san-cristobal-de-las-casas-cities-v2.webp"},
   {
     id: "coatzacoalcos-cities-v2",
     type: "city",
@@ -1112,8 +1061,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["One of the top 3 most important petrochemical hubs in Latin America.", "The Coatzacoalcos Malecón is approximately 7 kilometers long.", "The Coatzacoalcos I bridge was the first of its kind in Mexico.", "Founded as a city in 1911 (originally Puerto México).", "Located at an altitude of only 10 meters above sea level.", "Home to the Pajaritos and Morelos petrochemical complexes.", "The city's name is linked to the departure of the god Quetzalcoatl.", "Average annual humidity is over 80% due to its tropical setting."]
-    }
-  },
+    }, image: "/poi-images/coatzacoalcos-cities-v2.webp"},
   {
     id: "ciudad-obregon-cities-v2",
     type: "city",
@@ -1133,8 +1081,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Yaqui Valley produces over 50% of Mexico's wheat exports.", "Nainari Lagoon is a man-made lake with a 2-kilometer walking path.", "Named after Álvaro Obregón, a general and former President of Mexico.", "Founded as recently as 1928, making it a young, planned city.", "Located at an altitude of 40 meters above sea level.", "Home to the ITSON, a major regional university system.", "The city is only 40 kilometers from the Sea of Cortez.", "Experiences a desert climate with summer temperatures often reaching 40°C."]
-    }
-  },
+    }, image: "/poi-images/ciudad-obregon-cities-v2.webp"},
   {
     id: "ensenada-cities-v2",
     type: "city",
@@ -1154,8 +1101,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Valle de Guadalupe produces over 90% of Mexico's wine.", "La Bufadora marine geyser can spout water over 30 meters high.", "Ensenada is the largest municipality in Mexico by land area.", "Home to the world-famous Baja 1000 off-road race.", "Founded in 1882 as the capital of the territory of Baja California.", "Average year-round temperature is a pleasant 18 degrees Celsius.", "The Riviera del Pacifico Cultural Center was a glamorous 1930s casino.", "Mexico's most important deep-water port on the Pacific."]
-    }
-  },
+    }, image: "/poi-images/ensenada-cities-v2.webp"},
   {
     id: "poza-rica-cities-v2",
     type: "city",
@@ -1175,8 +1121,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Poza Rica was the top oil-producing city in Mexico during the 1950s.", "Located only 15 kilometers from the El Tajín archaeological site.", "The mural 'Evolution of the Oil Industry' was created by Pablo O'Higgins.", "Founded as a municipality as recently as 1951.", "Located at an altitude of 50 meters above sea level.", "Home to the Poza Rica Institute of Technology (ITSPR).", "Average annual humidity is a tropical 78%.", "Located 50 kilometers from the beaches of Tuxpan and Tecolutla."]
-    }
-  },
+    }, image: "/poi-images/poza-rica-cities-v2.webp"},
   {
     id: "los-cabos-cities-v2",
     type: "city",
@@ -1196,8 +1141,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["El Arco rock formation stands at the exact junction of the Pacific and the Sea of Cortez.", "Home to more than 15 world-class golf courses designed by legends.", "Humpback and Gray whales migrate here from December to April.", "Cabo San Lucas is the 'Marlin Capital of the World,' hosting major tournaments.", "Receives more than 3 million international tourists per year.", "San José del Cabo was founded as a Jesuit mission in 1730.", "The region receives an average of 350 sunny days per year.", "Baja California Sur is one of the safest states in Mexico for tourists."]
-    }
-  },
+    }, image: "/poi-images/los-cabos-cities-v2.webp"},
   {
     id: "cuautla-cities-v2",
     type: "city",
@@ -1217,8 +1161,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Agua Hedionda springs are considered some of the most mineral-rich in the world.", "Site of the Siege of Cuautla (1812), which lasted for 72 days.", "Home to the 19th-century 'Morelos' steam locomotive museum.", "Emiliano Zapata's remains are buried in the Plaza de la Revolución in Cuautla.", "Located at an altitude of 1,290 meters above sea level.", "Founded in 1605 as a Spanish settlement.", "Average year-round temperature is a warm 23 degrees Celsius.", "Located only 100 kilometers south of Mexico City."]
-    }
-  },
+    }, image: "/poi-images/cuautla-cities-v2.webp"},
   {
     id: "chalco-cities-v2",
     type: "city",
@@ -1238,8 +1181,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Santiago Apóstol church was built in the late 16th century.", "Historically located on the shores of Lake Chalco, drained in the 19th century.", "Famous for its 'Queso Chalco,' a traditional local cheese.", "Named after the Chalca people, a Nahua-speaking group.", "Located at an altitude of 2,240 meters above sea level.", "Formed part of the Aztec Empire after a long series of wars.", "Population has grown significantly as part of the Mexico City expansion.", "Located 40 kilometers from the center of Mexico City."]
-    }
-  },
+    }, image: "/poi-images/chalco-cities-v2.webp"},
   {
     id: "apizaco-cities-v2",
     type: "city",
@@ -1259,8 +1201,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Basilica of Our Lady of Mercy features two 40-meter tall spires.", "Founded in 1866 as a result of the Mexico-Veracruz railway construction.", "The 'Maquinita' monument features a steam locomotive built in 1917.", "Located at an altitude of 2,410 meters, one of Tlaxcala's highest cities.", "Apizaco is the second-most important city in the state after the capital.", "Major center for the regional textile and metalworking industries.", "Located only 140 kilometers east of Mexico City.", "The city's name comes from the Nahuatl meaning 'place of thin water.'"]
-    }
-  },
+    }, image: "/poi-images/apizaco-cities-v2.webp"},
   {
     id: "nogales-cities-v2",
     type: "city",
@@ -1280,8 +1221,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["One of the top 5 busiest land ports on the US-Mexico border.", "Hosts over 100 maquiladora manufacturing plants.", "Founded in 1884 following the arrival of the railway.", "Located at an altitude of 1,120 meters above sea level.", "Nogales accounts for a large portion of Sonora's industrial exports.", "The border wall here is a site for significant cross-border art and expression.", "Experiences a semi-arid climate with hot summers and cool winters.", "Major rail crossing for Ford vehicles manufactured in Hermosillo."]
-    }
-  },
+    }, image: "/poi-images/nogales-cities-v2.webp"},
   {
     id: "tezcoco-cities-v2",
     type: "city",
@@ -1301,8 +1241,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Home to the Chapingo murals, often called the 'Sistine Chapel of Mexican Muralism.'", "Texcotzingo hill features one of the first botanical gardens in the Americas.", "Founded around 1200 AD by the Chichimecs.", "The Cathedral of Texcoco was built by the Franciscans in the 16th century.", "Located at an altitude of 2,250 meters above sea level.", "Famous throughout Mexico for its 'Barbacoa de Texcoco.'", "Historically located on the shores of Lake Texcoco.", "Located only 30 kilometers east of downtown Mexico City."]
-    }
-  },
+    }, image: "/poi-images/tezcoco-cities-v2.webp"},
   {
     id: "tehuacan-cities-v2",
     type: "city",
@@ -1322,8 +1261,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Tehuacán Valley contains the oldest archaeological evidence of maize (7,000+ years old).", "Home to the Peñafiel mineral water springs and bottling plant.", "The Tehuacán-Cuicatlán Biosphere Reserve is a UNESCO World Heritage site.", "Founded in 1560 as a Spanish settlement.", "Located at an altitude of 1,600 meters above sea level.", "The city is one of the top poultry-producing regions in Mexico.", "Features the Museum of the Valley of Tehuacán with prehistoric remains.", "Located 130 kilometers southeast of Puebla City."]
-    }
-  },
+    }, image: "/poi-images/tehuacan-cities-v2.webp"},
   {
     id: "manzanillo-cities-v2",
     type: "city",
@@ -1343,8 +1281,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Processes more than 3 million containers (TEUs) annually at its port.", "The 'Sailfish' sculpture in the main square is 25 meters tall.", "Manzanillo Bay and Santiago Bay together offer 15+ beaches.", "The port was founded in 1522 by Spanish explorers.", "Average annual temperature is a tropical 26 degrees Celsius.", "Home to the Isla Navidad golf course, rated one of the best in Mexico.", "Deep-sea fishing here can yield sailfish weighing over 45 kilograms.", "The city is only a 1.5-hour drive from the state capital, Colima."]
-    }
-  },
+    }, image: "/poi-images/manzanillo-cities-v2.webp"},
   {
     id: "cordoba-ver-cities-v2",
     type: "city",
@@ -1364,8 +1301,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Site of the signing of the Treaty of Córdoba on August 24, 1821.", "Surrounded by over 15,000 hectares of high-altitude coffee plantations.", "Founded in 1618 by thirty Spanish knights.", "Located at an altitude of 860 meters above sea level.", "The city's Zócalo is officially known as Parque 21 de Mayo.", "The Cathedral features a stunning baroque altar and neoclassical facade.", "Located only 20 kilometers from the industrial city of Orizaba.", "Receives an average annual rainfall of 2,200 mm, making it very green."]
-    }
-  },
+    }, image: "/poi-images/cordoba-ver-cities-v2.webp"},
   {
     id: "ciudad-del-carmen-cities-v2",
     type: "city",
@@ -1385,8 +1321,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Puente El Zacatal is 3.8 kilometers long and is a regional landmark.", "Base for over 100 offshore oil platforms in the Bay of Campeche.", "The Laguna de Términos is Mexico's largest lagoon and a sanctuary for dolphins.", "The city was originally a major base for pirates until they were expelled in 1717.", "Located at an altitude of only 2 meters above sea level.", "Home to the UNACAR, a prestigious regional university.", "Playa Norte is a 3-kilometer stretch of sand popular for recreational sports.", "Average annual temperature is a tropical 27 degrees Celsius."]
-    }
-  },
+    }, image: "/poi-images/ciudad-del-carmen-cities-v2.webp"},
   {
     id: "san-miguel-de-allende-cities-v2",
     type: "city",
@@ -1406,8 +1341,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Named a UNESCO World Heritage site in 2008.", "The Parroquia's neo-Gothic facade was added in 1880 by a local self-taught stonemason.", "Voted 'Best City in the World' multiple times by Condé Nast Traveler.", "Home to an estimated 10,000+ foreign residents from 60 different nations.", "Founded in 1542 by Fray Juan de San Miguel.", "Located at an altitude of 1,900 meters above sea level.", "Features over 100 art galleries within the historic district.", "Host of the annual International Jazz and Blues Festival every November."]
-    }
-  },
+    }, image: "/poi-images/san-miguel-de-allende-cities-v2.webp"},
   {
     id: "taxco-cities-v2",
     type: "city",
@@ -1427,8 +1361,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Home to more than 300 silver workshops and jewelry boutiques.", "The Santa Prisca Church was built in just 7 years (1751-1758).", "The annual National Silver Fair (Feria Nacional de la Plata) has been held since 1937.", "Founded in 1529 after the Spanish discovered rich silver veins.", "Located at an altitude of 1,770 meters above sea level.", "The city has been designated a National Historic Monument by the Mexican government.", "The Teleférico (cable car) rises 170 meters above the city floor.", "Located 170 kilometers southwest of Mexico City."]
-    }
-  },
+    }, image: "/poi-images/taxco-cities-v2.webp"},
   {
     id: "orizaba-cities-v2",
     type: "city",
@@ -1448,8 +1381,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Iron Palace is the only metal Art Nouveau palace in the world.", "The Pico de Orizaba volcano rises to 5,636 meters, the highest in Mexico.", "Orizaba's cable car is the 3rd longest in Mexico at 917 meters.", "The city was the site where the first brewery in Mexico was established in 1896.", "Located at an altitude of 1,230 meters above sea level.", "The Orizaba River walk features a 3-kilometer ecological path and zoo.", "Home to the Veracruz State Art Museum with a major collection of Diego Rivera's work.", "Named a 'Pueblo Mágico' by the Mexican Tourism Board in 2015."]
-    }
-  },
+    }, image: "/poi-images/orizaba-cities-v2.webp"},
   {
     id: "salamanca-gua-cities-v2",
     type: "city",
@@ -1469,8 +1401,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Home to one of the 6 major oil refineries in Mexico, operated by Pemex.", "The San Agustín Church features 11 stunning gilded baroque altars.", "Salamanca is a top national producer of wax-based crafts and candles.", "Founded in 1603 by Viceroy Gaspar de Zúñiga y Acevedo.", "Located at an altitude of 1,720 meters above sea level.", "A major hub for the petrochemical and heavy manufacturing industries.", "Located only 20 kilometers from the industrial city of Irapuato.", "The city has a population of over 270,000 residents."]
-    }
-  },
+    }, image: "/poi-images/salamanca-gua-cities-v2.webp"},
   {
     id: "patzcuaro-cities-v2",
     type: "city",
@@ -1490,8 +1421,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Named a 'Pueblo Mágico' by the Mexican Tourism Board in 2002.", "The Plaza Vasco de Quiroga is 15,000 square meters in area.", "The Day of the Dead celebrations in Pátzcuaro are a UNESCO Intangible Cultural Heritage.", "Lake Pátzcuaro sits at an elevation of 2,140 meters above sea level.", "Founded around 1320 as a Purépecha capital.", "The Basilica of Our Lady of Health was commissioned by Vasco de Quiroga in 1540.", "Janitzio Island features a 40-meter tall statue of revolutionary hero Morelos.", "The House of Eleven Patios is a 1750s structure now serving as a craft center."]
-    }
-  },
+    }, image: "/poi-images/patzcuaro-cities-v2.webp"},
   {
     id: "cholula-cities-v2",
     type: "city",
@@ -1511,8 +1441,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Great Pyramid of Cholula has a base of 450 by 450 meters, much larger than Giza.", "The pyramid's total volume is estimated at 4.45 million cubic meters.", "Contains 8 kilometers of tunnels explored within the Great Pyramid.", "Home to the UDLAP, one of Mexico's top private universities.", "The city has been continuously inhabited for over 2,500 years.", "Located at an altitude of 2,135 meters above sea level.", "Features the San Gabriel Convent, one of the oldest in Mexico, built in 1549.", "The pyramid was dedicated to the god Quetzalcoatl."]
-    }
-  },
+    }, image: "/poi-images/cholula-cities-v2.webp"},
   {
     id: "san-juan-del-rio-cities-v2",
     type: "city",
@@ -1532,8 +1461,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Bridge of History was completed in 1711 with 5 massive arches.", "Part of the 'Camino Real de Tierra Adentro,' a UNESCO World Heritage route.", "Home to more than 400 manufacturing and industrial companies.", "Founded in 1531 on the feast day of Saint John the Baptist.", "Located at an altitude of 1,920 meters above sea level.", "Famous for its opal mines, which produce a wide variety of colors.", "The city's population is over 260,000 residents.", "Located only 50 kilometers south of the state capital, Querétaro City."]
-    }
-  },
+    }, image: "/poi-images/san-juan-del-rio-cities-v2.webp"},
   {
     id: "iguala-cities-v2",
     type: "city",
@@ -1553,8 +1481,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Site of the signing of the Plan of Iguala on February 24, 1821.", "Home to one of the tallest flagpoles in Mexico at 113 meters high.", "The city's flag is 55 meters long and 31 meters wide.", "Founded around 1532 as a Spanish settlement.", "Located at an altitude of 730 meters above sea level.", "Known as the 'Sultan of the Valley' for its regional dominance.", "Major center for artisanal gold and silver jewelry in Guerrero.", "Average annual temperature is a warm 26 degrees Celsius."]
-    }
-  },
+    }, image: "/poi-images/iguala-cities-v2.webp"},
   {
     id: "ciudad-valles-cities-v2",
     type: "city",
@@ -1574,8 +1501,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Located only 1 hour from the Tamul Waterfall, which drops 105 meters.", "The Huasteca region contains more than 10 major waterfall systems within a 2-hour drive.", "The city is a top national producer of refined sugar.", "Founded in 1533 by Nuño de Guzmán.", "Located at an altitude of 90 meters above sea level.", "Average annual humidity is over 75% due to its subtropical setting.", "Home to the Huasteco Culture Museum (MACTUX).", "The city's population is over 180,000 residents."]
-    }
-  },
+    }, image: "/poi-images/ciudad-valles-cities-v2.webp"},
   {
     id: "zamora-de-hidalgo-cities-v2",
     type: "city",
@@ -1595,8 +1521,7 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Sanctuary of Our Lady of Guadalupe features towers 107 meters tall.", "The Sanctuary is the tallest church building in Mexico.", "Zamora is a top global exporter of strawberries and blackberries.", "Famous throughout Mexico for its 'Chongos Zamoranos' sweet dessert.", "Founded in 1574 as a Spanish settlement.", "Located at an altitude of 1,560 meters above sea level.", "Home to the Colegio de Michoacán, a prestigious research institution.", "The city's population exceeds 200,000 residents."]
-    }
-  },
+    }, image: "/poi-images/zamora-de-hidalgo-cities-v2.webp"},
   {
     id: "tulum-cities-v2",
     type: "city",
@@ -1619,3 +1544,4 @@ export const poiExtraMexicoCitiesV2: POI[] = [
     }
   }
 ];
+

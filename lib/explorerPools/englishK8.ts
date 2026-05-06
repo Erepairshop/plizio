@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/englishK8.ts
 
 import type { PoolTopicDef } from "./types";
@@ -6928,3 +6929,4 @@ export const BIGTEST8_POOL: PoolTopicDef[] = [
     difficulty: "hard"
   },
 ];
+

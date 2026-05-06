@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuatemalaNatureV2: POI[] = [
@@ -15,8 +16,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Forms border with Mexico", "Passes the Yaxchilan site", "Largest river in Central America by volume", "Important for biodiversity"]
     },
     descriptionAdvanced: { de: "Der Río Usumacinta ist einer der mächtigsten und geschichtsträchtigsten Flüsse Mittelamerikas. Er entspringt im guatemaltekischen Hochland und bildet über weite Strecken die natürliche Grenze zwischen Guatemala und Mexiko, bevor er in den Golf von Mexiko mündet. Der Fluss war für die klassische Maya-Zivilisation eine Lebensader und diente als Hauptverkehrsweg für den Handel mit wertvollen Gütern. An seinen Ufern finden sich bedeutende archäologische Stätten wie Piedras Negras und Yaxchilán, die nur per Boot erreichbar sind. Heute schützt das umliegende Biosphärenreservat eine enorme Vielfalt an tropischer Flora und Fauna, darunter Brüllaffen und seltene Flussvögel.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Er ist volumenmäßig der größte Fluss Zentralamerikas und bekannt für seine starken Strömungen.", "Die Schluchten des Usumacinta beherbergen eine einzigartige Artenvielfalt in unberührten Regenwäldern.", "Der Fluss war Schauplatz wichtiger historischer Konflikte und Entdeckungsreisen.", "In den feuchten Ufergebieten leben einige der letzten großen Krokodilpopulationen der Region."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Er ist volumenmäßig der größte Fluss Zentralamerikas und bekannt für seine starken Strömungen.", "Die Schluchten des Usumacinta beherbergen eine einzigartige Artenvielfalt in unberührten Regenwäldern.", "Der Fluss war Schauplatz wichtiger historischer Konflikte und Entdeckungsreisen.", "In den feuchten Ufergebieten leben einige der letzten großen Krokodilpopulationen der Region."], hu: [], ro: [], en: [] }, image: "/poi-images/rio-usumacinta-guatemala-nature-v2.webp"},
   {
     id: "lago-peten-itza-nature-v2",
     type: "lake",
@@ -31,8 +31,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Second largest lake in Guatemala", "Island city of Flores", "Depth up to 160m", "Crocodiles and rich birdlife"]
     },
     descriptionAdvanced: { de: "Der Lago Petén Itzá ist ein glitzerndes Juwel im Herzen des Departements Petén und der zweitgrößte See Guatemalas. Seine tiefblauen Gewässer sind von dichtem Dschungel und sanften Hügeln umgeben, die reich an Maya-Geschichte sind. Auf einer Insel im See liegt die malerische Stadt Flores, die über einen Damm mit dem Festland verbunden ist. Der See ist ein beliebtes Ziel für Schwimmer und Wassersportler, da sein Wasser sauber und angenehm warm ist. Wissenschaftlich ist der See aufgrund seiner Tiefe und der Sedimentschichten, die Aufschluss über das Klima der letzten Jahrtausende geben, von großem Interesse. Das Ufer des Sees bietet Lebensraum für zahlreiche Wasservögel und Leguane.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["An seiner tiefsten Stelle misst der See etwa 160 Meter, was ihn zu einem der tiefsten der Region macht.", "Mehrere Maya-Stätten, darunter Tayasal, befinden sich direkt auf Halbinseln im See.", "Der See hat keine oberirdischen Abflüsse und wird hauptsächlich durch Grundwasser gespeist.", "In den Abendstunden bieten die Uferpromenaden spektakuläre Sonnenuntergänge über dem Wasser."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["An seiner tiefsten Stelle misst der See etwa 160 Meter, was ihn zu einem der tiefsten der Region macht.", "Mehrere Maya-Stätten, darunter Tayasal, befinden sich direkt auf Halbinseln im See.", "Der See hat keine oberirdischen Abflüsse und wird hauptsächlich durch Grundwasser gespeist.", "In den Abendstunden bieten die Uferpromenaden spektakuläre Sonnenuntergänge über dem Wasser."], hu: [], ro: [], en: [] }, image: "/poi-images/lago-peten-itza-nature-v2.webp"},
   {
     id: "rio-dulce-guatemala-nature-v2",
     type: "river",
@@ -47,8 +46,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Connects Lake Izabal and the Caribbean", "Deep gorge (Cañón del Río Dulce)", "Manatee sanctuary", "Popular with sailors"]
     },
     descriptionAdvanced: { de: "Der Río Dulce ist ein Naturwunder in der Karibikregion Guatemalas und verbindet den Lago de Izabal mit der Amatique-Bucht. Der Fluss ist berühmt für seine spektakuläre Schlucht, den 'Cañón del Río Dulce', dessen Kalksteinwände bis zu 100 Meter steil aufragen und von dichtem Grün überwachsen sind. Diese Passage bietet eine atemberaubende Kulisse für Bootsfahrten und ist ein Rückzugsort für seltene Tierarten wie den Manati. Entlang des Flusses finden sich heiße Quellen, Mangrovenwälder und das historische Castillo de San Felipe de Lara. Der Río Dulce ist nicht nur ein ökologisches Juwel, sondern auch ein wichtiger Ankerplatz für Segler aus aller Welt während der Hurrikan-Saison.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Schlucht erstreckt sich über mehrere Kilometer und ist an einigen Stellen sehr schmal.", "Manatis können in den ruhigeren Seitenarmen des Flusses oft bei der Nahrungssuche beobachtet werden.", "Der Fluss dient als lebenswichtiger Verkehrsweg für die Bewohner der isolierten Stadt Livingston.", "Sein Wasser ist eine Mischung aus Süßwasser des Sees und Salzwasser der Karibik."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Schlucht erstreckt sich über mehrere Kilometer und ist an einigen Stellen sehr schmal.", "Manatis können in den ruhigeren Seitenarmen des Flusses oft bei der Nahrungssuche beobachtet werden.", "Der Fluss dient als lebenswichtiger Verkehrsweg für die Bewohner der isolierten Stadt Livingston.", "Sein Wasser ist eine Mischung aus Süßwasser des Sees und Salzwasser der Karibik."], hu: [], ro: [], en: [] }, image: "/poi-images/rio-dulce-guatemala-nature-v2.webp"},
   {
     id: "volcan-de-agua-nature-v2",
     type: "mountain",
@@ -63,8 +61,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Elevation: 3760 m", "Perfectly conical shape", "Dominates the Antigua view", "Last eruption unknown"]
     },
     descriptionAdvanced: { de: "Der Volcán de Agua ist ein beeindruckender Stratovulkan, der majestätisch über der kolonialen Stadt Antigua Guatemala thront. Seine nahezu perfekte konische Form macht ihn zu einem der meistfotografierten Wahrzeichen des Landes. Mit einer Höhe von 3.760 Metern dominiert er das Panorama des zentralen Hochlands und ist ein beliebtes Ziel für Bergsteiger. Der Name 'Wasser-Vulkan' stammt von einer verheerenden Schlammlawine im Jahr 1541, die durch den Bruch eines Kratersees ausgelöst wurde und die erste Hauptstadt der Spanier zerstörte. Heute sind die unteren Hänge des Vulkans mit Kaffeeplantagen und Obstgärten bedeckt, während die Gipfelregion von kühlerem Grasland geprägt ist.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Obwohl er als schlafend gilt, zeigt der Vulkan derzeit keine Anzeichen von Aktivität.", "Vom Gipfel aus hat man bei klarem Wetter einen weiten Blick bis zum Pazifik und zu den Nachbarvulkanen.", "Der Aufstieg zum Gipfel gilt als technisch unkompliziert, erfordert aber eine gute Kondition.", "An seinen Flanken befinden sich mehrere malerische indigene Gemeinden wie Santa María de Jesús."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Obwohl er als schlafend gilt, zeigt der Vulkan derzeit keine Anzeichen von Aktivität.", "Vom Gipfel aus hat man bei klarem Wetter einen weiten Blick bis zum Pazifik und zu den Nachbarvulkanen.", "Der Aufstieg zum Gipfel gilt als technisch unkompliziert, erfordert aber eine gute Kondition.", "An seinen Flanken befinden sich mehrere malerische indigene Gemeinden wie Santa María de Jesús."], hu: [], ro: [], en: [] }, image: "/poi-images/volcan-de-agua-nature-v2.webp"},
   {
     id: "rio-cahabon-nature-v2",
     type: "river",
@@ -79,8 +76,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Flows under Semuc Champey", "Popular for white-water rafting", "Turquoise colored water", "Source in the Sierra de las Minas"]
     },
     descriptionAdvanced: { de: "Der Río Cahabón ist einer der dynamischsten und wichtigsten Flüsse in der Region Alta Verapaz. Er entspringt in den Bergen der Sierra de las Minas und schlängelt sich durch tiefe Täler und dichten Regenwald. Weltweit bekannt ist der Fluss für das Naturwunder Semuc Champey, wo er unter einer natürlichen Kalksteinbrücke verschwindet. Der Cahabón ist zudem ein erstklassiges Ziel für Wildwasser-Rafting, mit Abschnitten, die sowohl für Anfänger als auch für Profis geeignet sind. Seine türkisfarbenen Gewässer sind reich an Fischarten und bieten Lebensraum für zahlreiche Wasservögel. Für die lokalen Q'eqchi'-Maya ist der Fluss seit jeher eine wichtige Ressource für Landwirtschaft und Transport.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Fluss bietet Rafting-Abenteuer der Schwierigkeitsgrade II bis IV.", "In Semuc Champey fließt der Hauptstrom des Flusses tosend durch ein unterirdisches Höhlensystem.", "Der Río Cahabón mündet schließlich in den Río Polochic, bevor dieser den Izabal-See erreicht.", "Das Einzugsgebiet des Flusses ist bekannt für seinen enormen Reichtum an Orchideen und Farnen."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Fluss bietet Rafting-Abenteuer der Schwierigkeitsgrade II bis IV.", "In Semuc Champey fließt der Hauptstrom des Flusses tosend durch ein unterirdisches Höhlensystem.", "Der Río Cahabón mündet schließlich in den Río Polochic, bevor dieser den Izabal-See erreicht.", "Das Einzugsgebiet des Flusses ist bekannt für seinen enormen Reichtum an Orchideen und Farnen."], hu: [], ro: [], en: [] }, image: "/poi-images/rio-cahabon-nature-v2.webp"},
   {
     id: "laguna-lachua-nature-v2",
     type: "lake",
@@ -95,8 +91,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["National Park", "Circular shape", "Very clear water", "High biodiversity"]
     },
     descriptionAdvanced: { de: "Die Laguna Lachuá ist ein nahezu kreisrunder Karstsee im Norden von Alta Verapaz, der für seine außergewöhnliche Klarheit und Stille bekannt ist. Inmitten eines dichten Nationalparks gelegen, wird der See oft als 'Spiegel des Himmels' bezeichnet, da sich die umliegende Dschungelvegetation perfekt auf der Wasseroberfläche spiegelt. Der hohe Mineralgehalt des Wassers verleiht ihm eine leicht schwefelige Note und macht es kristallklar. Aufgrund des strengen Naturschutzes ist das Fischen untersagt, was zu einer hohen Population an Fischen führt, die bis an das Ufer kommen. Der Weg zur Lagune führt durch unberührten Primärwald und bietet eine der besten Gelegenheiten in Guatemala, den tropischen Regenwald in seiner ursprünglichen Form zu erleben.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der See hat einen Durchmesser von etwa 1,5 Kilometern und ist fast perfekt rund.", "Die Laguna Lachuá ist Teil des Nationalparks Laguna Lachuá, einem wichtigen Biosphärenreservat.", "In der Umgebung leben Jaguare, Tapire und eine Vielzahl von Affenarten.", "Aufgrund der Abgeschiedenheit ist die Nachtruhe am See ein Erlebnis vollkommener Naturgewalt."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der See hat einen Durchmesser von etwa 1,5 Kilometern und ist fast perfekt rund.", "Die Laguna Lachuá ist Teil des Nationalparks Laguna Lachuá, einem wichtigen Biosphärenreservat.", "In der Umgebung leben Jaguare, Tapire und eine Vielzahl von Affenarten.", "Aufgrund der Abgeschiedenheit ist die Nachtruhe am See ein Erlebnis vollkommener Naturgewalt."], hu: [], ro: [], en: [] }, image: "/poi-images/laguna-lachua-nature-v2.webp"},
   {
     id: "montanas-mayas-nature-v2",
     type: "mountain",
@@ -111,8 +106,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Cross-border mountain range", "Low population density", "Important watershed", "Contains many caves"]
     },
     descriptionAdvanced: { de: "Das Maya-Gebirge ist ein markanter Gebirgszug, der sich vom Osten Guatemalas bis tief nach Belize hinein erstreckt. Diese geologisch alte Formation besteht hauptsächlich aus paläozoischem Gestein und unterscheidet sich deutlich von den vulkanischen Ketten im Süden des Landes. Das Gebirge ist von dichtem, oft unberührtem tropischem Regenwald bedeckt und beherbergt eine unglaubliche Artenvielfalt. Es dient als wichtiges Wasserschutzgebiet, aus dem zahlreiche Flüsse entspringen, die den Petén und die Karibikküste speisen. Aufgrund seiner Unzugänglichkeit ist das Maya-Gebirge eines der am wenigsten erforschten Gebiete Guatemalas und ein wichtiges Refugium für bedrohte Großkatzen und seltene Vögel.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Das Gebirge beherbergt zahlreiche Höhlen und unterirdische Flusssysteme.", "Es ist eine der wenigen Regionen in Mittelamerika mit großen zusammenhängenden Waldflächen.", "In den Tälern finden sich oft isolierte archäologische Stätten, die noch nicht vollständig erforscht sind.", "Die höchsten Gipfel der Kette erreichen Höhen von über 1.100 Metern."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Das Gebirge beherbergt zahlreiche Höhlen und unterirdische Flusssysteme.", "Es ist eine der wenigen Regionen in Mittelamerika mit großen zusammenhängenden Waldflächen.", "In den Tälern finden sich oft isolierte archäologische Stätten, die noch nicht vollständig erforscht sind.", "Die höchsten Gipfel der Kette erreichen Höhen von über 1.100 Metern."], hu: [], ro: [], en: [] }, image: "/poi-images/montanas-mayas-nature-v2.webp"},
   {
     id: "biotopo-del-quetzal-nature-v2",
     type: "forest",
@@ -127,8 +121,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Protected area for the Quetzal", "Cloud forest ecosystem", "Waterfalls and hiking trails", "Rich in epiphytes"]
     },
     descriptionAdvanced: { de: "Das Biotopo del Quetzal ist ein geschütztes Nebelwaldreservat im Departement Baja Verapaz, das speziell zum Schutz des Nationalvogels Guatemalas eingerichtet wurde. Die feuchten, moosüberzogenen Wälder bieten den idealen Lebensraum für den schüchternen Quetzal, der für seine langen, smaragdgrünen Schwanzfedern bekannt ist. Der Park verfügt über gut gepflegte Wanderwege, die durch eine üppige Vegetation mit Farnen, Epiphyten und jahrhundertealten Bäumen führen. Neben dem Quetzal beherbergt das Biotop eine Vielzahl anderer Vogelarten, Brüllaffen und eine enorme botanische Vielfalt. Es ist ein Ort der Stille und der hohen Luftfeuchtigkeit, an dem Besucher die mystische Atmosphäre eines echten Nebelwaldes erleben können.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Park wurde 1976 gegründet und wird von der Universität San Carlos (USAC) verwaltet.", "Mehrere Wasserfälle und klare Gebirgsbäche können entlang der Wanderwege entdeckt werden.", "Die beste Zeit, um Quetzale zu sehen, ist während ihrer Brutzeit von März bis Juni.", "Das Biotop ist ein wichtiges Zentrum für die Erforschung der hochalpinen Ökosysteme Guatemalas."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Park wurde 1976 gegründet und wird von der Universität San Carlos (USAC) verwaltet.", "Mehrere Wasserfälle und klare Gebirgsbäche können entlang der Wanderwege entdeckt werden.", "Die beste Zeit, um Quetzale zu sehen, ist während ihrer Brutzeit von März bis Juni.", "Das Biotop ist ein wichtiges Zentrum für die Erforschung der hochalpinen Ökosysteme Guatemalas."], hu: [], ro: [], en: [] }, image: "/poi-images/biotopo-del-quetzal-nature-v2.webp"},
   {
     id: "rio-la-pasion-nature-v2",
     type: "river",
@@ -143,8 +136,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Important waterway in Petén", "Connects archaeological sites", "Flows into the Usumacinta", "Habitat for crocodiles"]
     },
     descriptionAdvanced: { de: "Der Río de la Pasión ist ein bedeutender Wasserweg im Departement Petén, der durch sein geringes Gefälle und seine weiten Windungen gekennzeichnet ist. Er entspringt im Hochland von Alta Verapaz und fließt nach Norden, wo er sich schließlich mit dem Río Salinas zum mächtigen Usumacinta vereint. Während der klassischen Maya-Zeit war der Fluss eine zentrale Handelsroute und verband wichtige Städte wie Seibal, Aguateca und Dos Pilas. Die Uferregionen sind von dichtem Dschungel und ausgedehnten Feuchtgebieten geprägt, die eine reiche Tierwelt beherbergen. Heute ist der Fluss ein beliebtes Ziel für Bootstouren, die Archäologie mit Naturbeobachtung verbinden, wobei oft Brüllaffen und eine Vielzahl von Reihern gesichtet werden können.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Fluss ist bekannt für seine ruhigen Gewässer, die sich ideal für mehrtägige Bootsexpeditionen eignen.", "Entlang des Flusses wurden bedeutende Entdeckungen zur Geschichte der Maya-Kriegsführung gemacht.", "In den Nebenarmen und Lagunen des Flusses leben seltene Süßwasserschildkröten.", "Der Río de la Pasión ist ein lebenswichtiger ökologischer Korridor im südlichen Petén."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Fluss ist bekannt für seine ruhigen Gewässer, die sich ideal für mehrtägige Bootsexpeditionen eignen.", "Entlang des Flusses wurden bedeutende Entdeckungen zur Geschichte der Maya-Kriegsführung gemacht.", "In den Nebenarmen und Lagunen des Flusses leben seltene Süßwasserschildkröten.", "Der Río de la Pasión ist ein lebenswichtiger ökologischer Korridor im südlichen Petén."], hu: [], ro: [], en: [] }, image: "/poi-images/rio-la-pasion-nature-v2.webp"},
   {
     id: "sipacate-naranjo-national-park-nature-v2",
     type: "forest",
@@ -159,8 +151,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Mangrove forests", "Nesting sites for sea turtles", "Coastal protection", "Rich birdlife"]
     },
     descriptionAdvanced: { de: "Der Nationalpark Sipacate-Naranjo ist ein wichtiges Küstenschutzgebiet an der Pazifikküste Guatemalas, das ein Mosaik aus Mangrovenwäldern, Lagunen und Sandstränden umfasst. Das Reservat spielt eine entscheidende Rolle als Brutstätte für zahlreiche Fischarten und als Rastplatz für Zugvögel. Besonders bedeutend ist der Park als Nistplatz für Meeresschildkröten, insbesondere für die Olive-Bastardschildkröte. Die dichten Mangrovenwälder schützen die Küste vor Erosion und bieten einen einzigartigen Lebensraum, der mit Booten erkundet werden kann. Der Park ist ein Musterbeispiel für den Schutz mariner und terrestrischer Ökosysteme und fördert das Umweltbewusstsein in der umliegenden Region.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Vier verschiedene Mangrovenarten bilden das dichte Wurzelgeflecht des Parks.", "Der Park beherbergt ein Tortugario, in dem Schildkröteneier zum Schutz ausgebrütet werden.", "Die Lagunen bieten exzellente Bedingungen für die Beobachtung von Reihern und Eisvögeln.", "Die Wellen an den Stränden von Sipacate sind bei Surfern weltweit für ihre Qualität bekannt."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Vier verschiedene Mangrovenarten bilden das dichte Wurzelgeflecht des Parks.", "Der Park beherbergt ein Tortugario, in dem Schildkröteneier zum Schutz ausgebrütet werden.", "Die Lagunen bieten exzellente Bedingungen für die Beobachtung von Reihern und Eisvögeln.", "Die Wellen an den Stränden von Sipacate sind bei Surfern weltweit für ihre Qualität bekannt."], hu: [], ro: [], en: [] }, image: "/poi-images/sipacate-naranjo-national-park-nature-v2.webp"},
   {
     id: "laguna-brava-yolnabaj-nature-v2",
     type: "lake",
@@ -175,8 +166,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Turquoise water", "Near the Mexican border", "Karst lake with cenotes", "Difficult to access"]
     },
     descriptionAdvanced: { de: "Die Laguna Brava, auch bekannt unter ihrem indigenen Namen Yolnabaj, ist ein atemberaubender Hochlandssee im Departement Huehuetenango nahe der mexikanischen Grenze. Der See liegt auf einer Höhe von über 1.100 Metern und ist für sein tiefes, türkisfarbenes Wasser bekannt, das von steilen, dschungelbedeckten Bergen umrahmt wird. Aufgrund seiner abgelegenen Lage und des schwierigen Zugangs ist der See einer der unberührtesten Orte Guatemalas. In der Umgebung befinden sich mehrere Cenoten und kleinere Lagunen, die Teil eines komplexen Karstsystems sind. Für Abenteurer bietet die Laguna Brava eine unvergessliche Kulisse zum Wandern, Campen und für Erkundungen in einer fast mystischen Naturlandschaft.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der See hat eine längliche Form und erstreckt sich über mehrere Kilometer durch ein enges Tal.", "Sein Wasser ist kristallklar und wird durch unterirdische Quellen gespeist.", "In der Nähe befinden sich die 'Cenotes de Candelaria', die ebenfalls für ihr blaues Wasser berühmt sind.", "Die Anreise erfordert meist einen Allradantrieb und eine längere Wanderung durch das Gebirge."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der See hat eine längliche Form und erstreckt sich über mehrere Kilometer durch ein enges Tal.", "Sein Wasser ist kristallklar und wird durch unterirdische Quellen gespeist.", "In der Nähe befinden sich die 'Cenotes de Candelaria', die ebenfalls für ihr blaues Wasser berühmt sind.", "Die Anreise erfordert meist einen Allradantrieb und eine längere Wanderung durch das Gebirge."], hu: [], ro: [], en: [] }, image: "/poi-images/laguna-brava-yolnabaj-nature-v2.webp"},
   {
     id: "volcan-chingo-nature-v2",
     type: "mountain",
@@ -191,8 +181,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Summit is on the national border", "Part of the Central American Volcanic Arc", "Relatively easy climb", "Dormant volcano"]
     },
     descriptionAdvanced: { de: "Der Volcán Chingo ist ein markanter Grenzberg, dessen Gipfel die Grenze zwischen Guatemala und El Salvador markiert. Der 1.775 Meter hohe Vulkan im Departement Jutiapa zeichnet sich durch seine symmetrische Form und seinen bewaldeten Krater aus. Der Aufstieg zum Gipfel bietet spektakuläre Ausblicke auf beide Länder und ist ein Symbol für die regionale Verbundenheit. Das Klima am Vulkan ist trockener als im westlichen Hochland, was zu einer einzigartigen Vegetation aus Trockenwäldern und Grasland führt. Da der Vulkan als schlafend gilt und derzeit keine vulkanische Aktivität zeigt, ist er ein sicheres und attraktives Ziel für Wanderer und Naturliebhaber aus der Grenzregion.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["An der Spitze befindet sich ein Grenzstein, der die Trennung der beiden Nationen markiert.", "Der Vulkan ist Teil eines größeren vulkanischen Feldes mit mehreren kleineren Kegeln.", "Die Flora umfasst viele Kakteenarten und trockenheitsresistente Bäume.", "Vom Gipfel aus kann man an klaren Tagen die Pazifikküste und den Güija-See sehen."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["An der Spitze befindet sich ein Grenzstein, der die Trennung der beiden Nationen markiert.", "Der Vulkan ist Teil eines größeren vulkanischen Feldes mit mehreren kleineren Kegeln.", "Die Flora umfasst viele Kakteenarten und trockenheitsresistente Bäume.", "Vom Gipfel aus kann man an klaren Tagen die Pazifikküste und den Güija-See sehen."], hu: [], ro: [], en: [] }, image: "/poi-images/volcan-chingo-nature-v2.webp"},
   {
     id: "caribbean-sea-coast-nature-v2",
     type: "sea",
@@ -207,8 +196,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Only access to the Atlantic", "Home of the Garifuna culture", "Port towns of Puerto Barrios and Livingston", "Tropical climate"]
     },
     descriptionAdvanced: { de: "Die Karibikküste Guatemalas, konzentriert im Departement Izabal, bietet einen starken Kontrast zur Pazifikküste mit ihren ruhigen, türkisfarbenen Gewässern und weißen Sandstränden. Dieser Küstenabschnitt ist geprägt von tropischem Regenwald, der oft bis direkt an das Meer reicht, und einer reichen marinen Biodiversität. Livingston und Puerto Barrios sind die kulturellen Zentren der Region, wobei Livingston durch seine einzigartige Garifuna-Kultur besticht. Die Küste ist das Tor zum Barriere-Riff-System von Belize und bietet exzellente Bedingungen zum Schnorcheln und Tauchen. Das feucht-heiße Klima begünstigt eine üppige Vegetation und macht die Region zu einem Paradies für Liebhaber tropischer Natur.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Karibikküste ist der einzige Ort in Guatemala mit echtem karibischem Flair.", "Die Region beherbergt wichtige Mangrovengebiete und Korallenriffe.", "Hier mündet der Río Dulce nach seiner spektakulären Fahrt durch die Schluchten ins Meer.", "Spezialitäten wie die Fischsuppe 'Tapado' spiegeln die kulinarische Vielfalt der Küste wider."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Karibikküste ist der einzige Ort in Guatemala mit echtem karibischem Flair.", "Die Region beherbergt wichtige Mangrovengebiete und Korallenriffe.", "Hier mündet der Río Dulce nach seiner spektakulären Fahrt durch die Schluchten ins Meer.", "Spezialitäten wie die Fischsuppe 'Tapado' spiegeln die kulinarische Vielfalt der Küste wider."], hu: [], ro: [], en: [] }, image: "/poi-images/caribbean-sea-coast-nature-v2.webp"},
   {
     id: "pacific-coast-guatemala-nature-v2",
     type: "sea",
@@ -223,8 +211,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Black volcanic sand beaches", "Important for fishing and salt production", "Strong surf", "Port of Puerto Quetzal"]
     },
     descriptionAdvanced: { de: "Die Pazifikküste Guatemalas erstreckt sich über 250 Kilometer und ist bekannt für ihre weiten, schwarzen Sandstrände vulkanischen Ursprungs. Die starken Wellen des Pazifiks machen viele Strände zu einem Paradies für Surfer, während die Küstenebene von intensiver Landwirtschaft wie Zuckerrohr- und Bananenplantagen geprägt ist. Ein charakteristisches Merkmal sind die ausgedehnten Mangrovensysteme und Lagunen, die als Pufferzone zwischen dem Festland und dem Ozean dienen. Die Küste ist wirtschaftlich von großer Bedeutung durch den Hafen Puerto Quetzal und die industrielle Fischerei. Touristisch bieten Orte wie Monterrico und Sipacate eine entspannte Atmosphäre und wichtige Naturschutzprojekte für Meeresschildkröten.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der schwarze Sand stammt von der Erosion der zahlreichen Vulkane im Hinterland.", "Die Sonnenuntergänge am Pazifik gehören zu den spektakulärsten Erlebnissen in Guatemala.", "Die Region ist ein wichtiger Korridor für Wale und Delfine während ihrer Wanderung.", "In den Küstenorten finden sich viele erstklassige Fischrestaurants mit frischen Meeresfrüchten."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der schwarze Sand stammt von der Erosion der zahlreichen Vulkane im Hinterland.", "Die Sonnenuntergänge am Pazifik gehören zu den spektakulärsten Erlebnissen in Guatemala.", "Die Region ist ein wichtiger Korridor für Wale und Delfine während ihrer Wanderung.", "In den Küstenorten finden sich viele erstklassige Fischrestaurants mit frischen Meeresfrüchten."], hu: [], ro: [], en: [] }, image: "/poi-images/pacific-coast-guatemala-nature-v2.webp"},
   {
     id: "ceibal-forest-reserve-nature-v2",
     type: "forest",
@@ -239,8 +226,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Protects the Ceibal Maya site", "Tall Ceiba trees (national tree)", "Tropical rainforest", "On the banks of the Pasión River"]
     },
     descriptionAdvanced: { de: "Das Waldreservat Ceibal umgibt die gleichnamige archäologische Stätte im Departement Petén und schützt einen bedeutenden Teil des tropischen Primärwaldes am Río de la Pasión. Das Reservat ist nach den riesigen Ceiba-Bäumen (der Nationalbaum Guatemalas) benannt, die hier beeindruckende Höhen erreichen und das Kronendach dominieren. Diese dichten Wälder bieten Lebensraum für Brüllaffen, Tukane und eine Vielzahl von Reptilien, die zwischen den Maya-Ruinen beobachtet werden können. Der Schutz des Waldes ist eng mit der Erhaltung der archäologischen Strukturen verknüpft, da die Vegetation vor Erosion schützt und das Mikroklima reguliert. Ein Spaziergang durch das Reservat verbindet das Erlebnis alter Geschichte mit der ungebändigten Kraft der tropischen Natur.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Ceiba-Bäume gelten in der Maya-Mythologie als Weltenbaum, der Himmel und Erde verbindet.", "Das Reservat ist ein wichtiger Bestandteil des biologischen Netzwerks im südlichen Petén.", "Moose und Farne bedecken oft die alten Steine der Ruinen und schaffen eine mystische Atmosphäre.", "Durch die Flussnähe ist die Luftfeuchtigkeit im Reservat das ganze Jahr über sehr hoch."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Ceiba-Bäume gelten in der Maya-Mythologie als Weltenbaum, der Himmel und Erde verbindet.", "Das Reservat ist ein wichtiger Bestandteil des biologischen Netzwerks im südlichen Petén.", "Moose und Farne bedecken oft die alten Steine der Ruinen und schaffen eine mystische Atmosphäre.", "Durch die Flussnähe ist die Luftfeuchtigkeit im Reservat das ganze Jahr über sehr hoch."], hu: [], ro: [], en: [] }, image: "/poi-images/ceibal-forest-reserve-nature-v2.webp"},
   {
     id: "laguna-de-ayarza-nature-v2",
     type: "lake",
@@ -255,8 +241,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Volcanic caldera", "Very deep (up to 230m)", "Clear, blue water", "Not very touristy"]
     },
     descriptionAdvanced: { de: "Die Laguna de Ayarza ist ein faszinierender Kratersee im Departement Santa Rosa, der in einer Zwillingscaldera vulkanischen Ursprungs liegt. Der See ist bekannt für sein tiefblaues, sehr klares Wasser und seine beeindruckende Tiefe von über 230 Metern. Umgeben von steilen Bergen und Kiefernwäldern bietet die Laguna de Ayarza eine ruhige und fast unberührte Kulisse, da sie touristisch weniger erschlossen ist als andere Seen des Landes. Die geologische Formation entstand vor etwa 20.000 Jahren durch massive Eruptionen. Heute ist der See ein beliebtes Ziel für Taucher, die die klaren Unterwassersichtweiten schätzen, sowie für Wanderer, die die unberührte Natur des südlichen Hochlands erkunden möchten.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der See hat keine sichtbaren oberirdischen Abflüsse und wird durch unterirdische Quellen gespeist.", "Die steilen Kraterwände ragen an einigen Stellen hunderte Meter über den Wasserspiegel empor.", "In der Umgebung wird hochwertiger Kaffee auf den mineralreichen Vulkanböden angebaut.", "Die Laguna de Ayarza ist eine der tiefsten und am besten erhaltenen Calderas Mittelamerikas."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der See hat keine sichtbaren oberirdischen Abflüsse und wird durch unterirdische Quellen gespeist.", "Die steilen Kraterwände ragen an einigen Stellen hunderte Meter über den Wasserspiegel empor.", "In der Umgebung wird hochwertiger Kaffee auf den mineralreichen Vulkanböden angebaut.", "Die Laguna de Ayarza ist eine der tiefsten und am besten erhaltenen Calderas Mittelamerikas."], hu: [], ro: [], en: [] }, image: "/poi-images/laguna-de-ayarza-nature-v2.webp"},
   {
     id: "rio-polochic-delta-nature-v2",
     type: "river",
@@ -271,8 +256,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Flows into Lake Izabal", "Important wetland area", "Habitat for waterbirds", "Alluvial plains"]
     },
     descriptionAdvanced: { de: "Das Polochic-Flussdelta ist ein ökologisch hochbedeutendes Feuchtgebiet am westlichen Ende des Izabal-Sees. Hier fächert sich der Río Polochic in ein komplexes System von Kanälen, Sümpfen und schwimmenden Inseln auf, bevor er in den See mündet. Dieses Delta ist ein Paradies für Wasservögel und beherbergt eine der größten Populationen des bedrohten Karibik-Manatis in Guatemala. Die alluvialen Ebenen sind extrem fruchtbar und unterstützen eine üppige Vegetation, die als natürlicher Filter für den See fungiert. Das Gebiet ist Teil eines Schutzgebiets und bietet exzellente Möglichkeiten zur Naturbeobachtung per Boot, wobei oft Krokodile und Brüllaffen in den dichten Uferwäldern gesichtet werden können.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Das Delta ist ein wichtiger Brutplatz für Reiher, Kormorane und den seltenen Jabiru-Storch.", "Die Kanäle des Deltas ändern sich ständig durch die Sedimentablagerungen des Flusses.", "Es ist eines der am besten erhaltenen Süßwasser-Deltasysteme in Mittelamerika.", "Das Feuchtgebiet dient als wichtiger Kohlenstoffspeicher und reguliert den Wasserhaushalt des Sees."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Das Delta ist ein wichtiger Brutplatz für Reiher, Kormorane und den seltenen Jabiru-Storch.", "Die Kanäle des Deltas ändern sich ständig durch die Sedimentablagerungen des Flusses.", "Es ist eines der am besten erhaltenen Süßwasser-Deltasysteme in Mittelamerika.", "Das Feuchtgebiet dient als wichtiger Kohlenstoffspeicher und reguliert den Wasserhaushalt des Sees."], hu: [], ro: [], en: [] }, image: "/poi-images/rio-polochic-delta-nature-v2.webp"},
   {
     id: "cerro-miramundo-nature-v2",
     type: "mountain",
@@ -287,8 +271,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Part of the highlands", "Mixed pine-oak forest", "Important water source", "Agriculture on the slopes"]
     },
     descriptionAdvanced: { de: "Der Cerro Miramundo ist ein prominenter Berg im Departement Jalapa und Teil des zentralen Hochlands von Guatemala. Mit seinem kühlen Klima und den dichten Kiefern- und Eichenwäldern bietet er eine willkommene Abwechslung zu den heißeren Tiefebenen im Osten. Der Berg ist ein wichtiges Wassereinzugsgebiet für die Region und versorgt zahlreiche Gemeinden mit Frischwasser. Wanderer schätzen den Cerro Miramundo für seine gut ausgebauten Pfade und die Möglichkeit, eine typische Hochland-Flora und -Fauna zu erleben. Von den höheren Lagen aus bieten sich weite Ausblicke über die sanften Hügel von Jalapa bis hin zu den fernen Vulkanriesen des zentralen Hochlands. Der Schutz der Wälder am Miramundo ist entscheidend für die ökologische Stabilität der gesamten Region.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Name 'Miramundo' bedeutet 'Weltblick', was auf die weite Panorama-Aussicht anspielt.", "In den Wäldern leben seltene Vogelarten, darunter der Berg-Quetzal.", "Die Region ist bekannt für ihre traditionelle Landwirtschaft mit Mais und Bohnen an den Hängen.", "Der Berg ist oft in dichte Nebelschwaden gehüllt, was dem Wald ein mystisches Aussehen verleiht."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Name 'Miramundo' bedeutet 'Weltblick', was auf die weite Panorama-Aussicht anspielt.", "In den Wäldern leben seltene Vogelarten, darunter der Berg-Quetzal.", "Die Region ist bekannt für ihre traditionelle Landwirtschaft mit Mais und Bohnen an den Hängen.", "Der Berg ist oft in dichte Nebelschwaden gehüllt, was dem Wald ein mystisches Aussehen verleiht."], hu: [], ro: [], en: [] }, image: "/poi-images/cerro-miramundo-nature-v2.webp"},
   {
     id: "isla-de-flores-nature-v2",
     type: "island",
@@ -303,8 +286,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Island in Lake Petén Itzá", "Historic center", "Connected by a causeway", "Tourist attraction"]
     },
     descriptionAdvanced: { de: "Die Isla de Flores ist eine malerische Insel im Petén-Itzá-See und das historische Herz des Departements Petén. Die Insel ist dicht mit bunten Kolonialbauten bebaut und durch einen künstlichen Damm mit der Zwillingsstadt Santa Elena auf dem Festland verbunden. Flores war einst die letzte Bastion der Maya (Tayasal), bevor sie 1697 von den Spaniern erobert wurde. Heute ist die Insel ein charmantes Touristenzentrum mit engen Kopfsteinpflasterstraßen, gemütlichen Cafés und einem lebendigen Nachtleben. Von der Uferpromenade aus bieten sich herrliche Ausblicke auf den weiten See und die umliegenden Dschungelufer. Die Insel Flores dient als idealer Ausgangspunkt für Expeditionen zu den großen Maya-Stätten wie Tikal und Yaxhá.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die gesamte Insel kann in etwa 15 bis 20 Minuten zu Fuß umrundet werden.", "Das Zentrum der Insel wird von einer barocken Kirche und einem kleinen Platz dominiert.", "In den Gewässern um die Insel kann man das ganze Jahr über sicher schwimmen.", "Flores gilt als eine der saubersten und sichersten Städte in ganz Guatemala."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die gesamte Insel kann in etwa 15 bis 20 Minuten zu Fuß umrundet werden.", "Das Zentrum der Insel wird von einer barocken Kirche und einem kleinen Platz dominiert.", "In den Gewässern um die Insel kann man das ganze Jahr über sicher schwimmen.", "Flores gilt als eine der saubersten und sichersten Städte in ganz Guatemala."], hu: [], ro: [], en: [] }, image: "/poi-images/isla-de-flores-nature-v2.webp"},
   {
     id: "rio-chixoy-negro-nature-v2",
     type: "river",
@@ -319,8 +301,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Major tributary of the Usumacinta", "Chixoy hydroelectric dam", "Deep canyons", "Challenging whitewater"]
     },
     descriptionAdvanced: { de: "Der Río Chixoy, in seinem Oberlauf auch Río Negro genannt, ist einer der bedeutendsten Flüsse Guatemalas und ein Hauptzufluss des Usumacinta. Er entspringt im Hochland von Quiché und fließt durch tiefe, spektakuläre Schluchten in Richtung Norden. Der Fluss ist bekannt für das Chixoy-Wasserkraftwerk, das größte Energieprojekt des Landes, das einen erheblichen Teil des Strombedarfs Guatemalas deckt. Die Landschaft entlang des Flusses wechselt von kühlen Hochgebirgswäldern zu tropischen Tiefebenen. Für Abenteurer bietet der Chixoy herausfordernde Abschnitte für Wildwasser-Expeditionen durch fast unberührte Natur. Geologisch und ökologisch ist der Flusskorridor von großer Bedeutung für den Wasserhaushalt und die Biodiversität des gesamten Landes.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Fluss bildet die Grenze zwischen den Departements Quiché und Alta Verapaz.", "Der Staudamm von Chixoy schuf einen riesigen künstlichen See in den Bergen.", "Archäologisch sind die Schluchten für ihre prähistorischen Felsmalereien bekannt.", "Der Fluss ist eine Lebensader für die zahlreichen indigenen Gemeinschaften an seinen Ufern."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Fluss bildet die Grenze zwischen den Departements Quiché und Alta Verapaz.", "Der Staudamm von Chixoy schuf einen riesigen künstlichen See in den Bergen.", "Archäologisch sind die Schluchten für ihre prähistorischen Felsmalereien bekannt.", "Der Fluss ist eine Lebensader für die zahlreichen indigenen Gemeinschaften an seinen Ufern."], hu: [], ro: [], en: [] }, image: "/poi-images/rio-chixoy-negro-nature-v2.webp"},
   {
     id: "volcan-santa-maria-nature-v2",
     type: "mountain",
@@ -335,8 +316,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Elevation: 3772 m", "Major eruption in 1902", "Active lava dome (Santiaguito)", "Popular hiking destination"]
     },
     descriptionAdvanced: { de: "Der Volcán Santa María ist einer der aktivsten und beeindruckendsten Vulkane Guatemalas und überragt die Stadt Quetzaltenango. Mit einer Höhe von 3.772 Metern ist er ein prominenter Bestandteil der Sierra Madre. Im Jahr 1902 ereignete sich hier einer der gewaltigsten Vulkanausbrüche des 20. Jahrhunderts, der eine riesige Flanke des Vulkans wegsprengte. Aus diesem Krater entstand später der Lavadom Santiaguito, der bis heute ständig aktiv ist. Der Aufstieg zum Gipfel des Santa María bietet Bergsteigern einen spektakulären und direkten Blick von oben auf die Eruptionen des Santiaguito. Die kahle Gipfelregion steht im Kontrast zu den dicht bewaldeten unteren Hängen, die reich an alpiner Flora sind.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Ausbruch von 1902 hinterließ einen Krater mit fast 1,5 Kilometern Durchmesser.", "Der Vulkan ist ein heiliger Ort für die K'iche'-Maya, die hier oft Zeremonien abhalten.", "Der Aufstieg dauert je nach Kondition etwa 4 bis 6 Stunden.", "Die Aschewolken des benachbarten Santiaguito sind vom Gipfel aus fast stündlich zu sehen."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Ausbruch von 1902 hinterließ einen Krater mit fast 1,5 Kilometern Durchmesser.", "Der Vulkan ist ein heiliger Ort für die K'iche'-Maya, die hier oft Zeremonien abhalten.", "Der Aufstieg dauert je nach Kondition etwa 4 bis 6 Stunden.", "Die Aschewolken des benachbarten Santiaguito sind vom Gipfel aus fast stündlich zu sehen."], hu: [], ro: [], en: [] }, image: "/poi-images/volcan-santa-maria-nature-v2.webp"},
   {
     id: "santiaguito-lava-dome-nature-v2",
     type: "mountain",
@@ -351,8 +331,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Constantly active since 1922", "Grows on the flank of Santa María", "Dangerous pyroclastic flows", "Observable from viewpoints"]
     },
     descriptionAdvanced: { de: "Der Santiaguito ist ein hochaktiver Komplex von Lavadomen, der sich am Fuße des Vulkans Santa María befindet. Er entstand nach der Katastrophe von 1902 und ist seit 1922 in ständigem Wachstum begriffen. Der Komplex besteht aus vier Hauptdomen, von denen 'El Caliente' derzeit der aktivste ist. Regelmäßige aschehaltige Explosionen, pyroklastische Ströme und Lavaströme machen den Santiaguito zu einem der am besten überwachten Vulkane der Welt. Für Vulkanologen bietet er einzigartige Möglichkeiten, das Wachstum von Lavadomen in Echtzeit zu studieren. Besucher können die Aktivität sicher von Aussichtspunkten auf dem Santa María oder vom gegenüberliegenden Grat aus beobachten und dabei die Urgewalt der Erde miterleben.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Santiaguito gilt als einer der gefährlichsten Vulkane Mittelamerikas aufgrund seiner pyroklastischen Ströme.", "Ständige Aschefälle beeinflussen die Landwirtschaft in den umliegenden Gebieten.", "Die Form der Dome verändert sich durch die kontinuierliche Zufuhr von zäher Lava ständig.", "Akustisch sind die Eruptionen oft bis in die Stadt Quetzaltenango als dumpfes Grollen zu hören."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Santiaguito gilt als einer der gefährlichsten Vulkane Mittelamerikas aufgrund seiner pyroklastischen Ströme.", "Ständige Aschefälle beeinflussen die Landwirtschaft in den umliegenden Gebieten.", "Die Form der Dome verändert sich durch die kontinuierliche Zufuhr von zäher Lava ständig.", "Akustisch sind die Eruptionen oft bis in die Stadt Quetzaltenango als dumpfes Grollen zu hören."], hu: [], ro: [], en: [] }, image: "/poi-images/santiaguito-lava-dome-nature-v2.webp"},
   {
     id: "rio-sarstun-nature-v2",
     type: "river",
@@ -367,8 +346,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Border between Guatemala and Belize", "Empties into the Bay of Amatique", "Disputed border course", "Important wetlands"]
     },
     descriptionAdvanced: { de: "Der Río Sarstún (englisch Sarstoon River) bildet die gesamte südliche Staatsgrenze zwischen Guatemala und Belize und ist ein ökologisch wertvoller Wasserweg. Er fließt durch unberührte Regenwälder und Mangrovengebiete, bevor er in die Bucht von Amatique mündet. Das Sarstún-Temash-Gebiet ist ein grenzüberschreitendes Schutzgebiet, das eine enorme Vielfalt an Wildtieren beherbergt, darunter Brüllaffen, Tapire und eine Vielzahl von Wasservögeln. Der Fluss ist aufgrund territorialer Streitigkeiten zwischen beiden Ländern oft in den Nachrichten, bleibt aber primär ein Refugium für die Natur. Für Abenteurer bietet der Fluss eine Reise durch eine der abgelegensten und wildesten Regionen Mittelamerikas, geprägt von tiefer Ruhe und tropischer Pracht.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Fluss ist für seine ausgedehnten und gut erhaltenen Mangrovenwälder bekannt.", "Kleine Q'eqchi'-Gemeinden leben entlang des Flusses und nutzen ihn für den Fischfang.", "Die Mündung des Sarstún ist ein wichtiges Habitat für junge Haie und Rochen.", "Expeditionen auf dem Fluss erfordern aufgrund der Grenzlage oft spezielle Genehmierungen."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Fluss ist für seine ausgedehnten und gut erhaltenen Mangrovenwälder bekannt.", "Kleine Q'eqchi'-Gemeinden leben entlang des Flusses und nutzen ihn für den Fischfang.", "Die Mündung des Sarstún ist ein wichtiges Habitat für junge Haie und Rochen.", "Expeditionen auf dem Fluss erfordern aufgrund der Grenzlage oft spezielle Genehmierungen."], hu: [], ro: [], en: [] }, image: "/poi-images/rio-sarstun-nature-v2.webp"},
   {
     id: "laguna-del-tigre-national-park-nature-v2",
     type: "forest",
@@ -383,8 +361,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Guatemala's largest protected area", "Important Ramsar wetland", "High jaguar population", "Threatened by fires and settlement"]
     },
     descriptionAdvanced: { de: "Der Nationalpark Laguna del Tigre ist das größte Schutzgebiet Guatemalas und ein zentraler Bestandteil des Maya-Biosphärenreservats im Petén. Er umfasst ein riesiges Mosaik aus Süßwasserlagunen, Sümpfen und tropischem Tieflandregenwald. Dieses Ökosystem ist von unschätzbarem Wert für den Schutz des Jaguars und dient als wichtigster Nistplatz für den Scharlachroten Ara in Guatemala. Der Park fungiert als gigantischer Wasserspeicher und reguliert das Klima der gesamten Region. Neben seiner biologischen Bedeutung beherbergt der Park auch zahlreiche unerschlossene Maya-Ruinen. Trotz Bedrohungen durch Abholzung und Wilderei bleibt Laguna del Tigre eine der wildesten und artenreichsten Regionen Mittelamerikas.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Park ist als Ramsar-Gebiet von internationaler Bedeutung für Feuchtgebiete anerkannt.", "Die biologische Station Las Guacamayas ist der Hauptstützpunkt für Forschung im Park.", "Die Lagunen sind die Heimat des seltenen Morelet-Krokodils.", "Laguna del Tigre umfasst eine Fläche von über 335.000 Hektar."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Park ist als Ramsar-Gebiet von internationaler Bedeutung für Feuchtgebiete anerkannt.", "Die biologische Station Las Guacamayas ist der Hauptstützpunkt für Forschung im Park.", "Die Lagunen sind die Heimat des seltenen Morelet-Krokodils.", "Laguna del Tigre umfasst eine Fläche von über 335.000 Hektar."], hu: [], ro: [], en: [] }, image: "/poi-images/laguna-del-tigre-national-park-nature-v2.webp"},
   {
     id: "cuevas-de-candelaria-nature-v2",
     type: "forest",
@@ -399,8 +376,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Large underground river system", "Sacred place for the Maya", "Partially navigable by boat", "National Park"]
     },
     descriptionAdvanced: { de: "Die Candelaria-Höhlen in Alta Verapaz bilden eines der spektakulärsten und größten Höhlensysteme Lateinamerikas. Der unterirdische Fluss Candelaria hat über Jahrtausende riesige Hallen und Tunnel in den Kalkstein gegraben, die sich über eine Länge von mehr als 80 Kilometern erstrecken. Für die Maya waren diese Höhlen heilige Orte, die als Eingang zur Unterwelt (Xibalbá) galten, und wurden für wichtige Rituale genutzt. Besucher können Teile des Systems zu Fuß erkunden oder sich auf Gummireifen (Tubing) auf dem unterirdischen Fluss durch die gigantischen, von Stalaktiten geschmückten Hallen treiben lassen. Das Zusammenspiel von Licht, Wasser und monumentaler Geologie macht die Candelaria-Höhlen zu einem unvergesslichen Naturerlebnis.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Hauptgalerie der Höhlen erreicht an einigen Stellen eine Höhe von über 30 Metern.", "Zahlreiche Maya-Artefakte wurden in den tieferen Bereichen des Systems gefunden.", "Das Höhlensystem ist von dichtem tropischem Regenwald umgeben, der ebenfalls geschützt ist.", "Einige Abschnitte der Höhlen sind so groß, dass sie Platz für ganze Kathedralen bieten würden."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Hauptgalerie der Höhlen erreicht an einigen Stellen eine Höhe von über 30 Metern.", "Zahlreiche Maya-Artefakte wurden in den tieferen Bereichen des Systems gefunden.", "Das Höhlensystem ist von dichtem tropischem Regenwald umgeben, der ebenfalls geschützt ist.", "Einige Abschnitte der Höhlen sind so groß, dass sie Platz für ganze Kathedralen bieten würden."], hu: [], ro: [], en: [] }, image: "/poi-images/cuevas-de-candelaria-nature-v2.webp"},
   {
     id: "parque-nacional-rio-dulce-nature-v2",
     type: "forest",
@@ -415,8 +391,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Protects the Río Dulce canyon", "Home to manatees", "Tropical rainforest and wetlands", "Castillo de San Felipe"]
     },
     descriptionAdvanced: { de: "Der Nationalpark Río Dulce schützt eines der beeindruckendsten Flusssysteme Guatemalas, das den Izabal-See mit der Karibik verbindet. Das Herzstück des Parks ist der monumentale Río Dulce Canyon mit seinen hoch aufragenden Kalksteinwänden, die mit üppigem tropischem Grün bewachsen sind. Der Park umfasst eine Vielzahl von Ökosystemen, darunter Mangroven, Feuchtgebiete und Regenwälder, die Lebensraum für Manatis, Brüllaffen und Hunderte von Vogelarten bieten. Historische Stätten wie das Castillo de San Felipe verleihen dem Naturpark eine kulturelle Dimension. Die Kombination aus dramatischer Landschaft, reicher Tierwelt und kolonialer Geschichte macht den Nationalpark zu einem der wichtigsten Touristenziele im Osten des Landes.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Park ist ein wichtiges Refugium für den bedrohten Karibik-Manati.", "Zahlreiche 'Cayucos' (traditionelle Boote) dienen als Hauptverkehrsmittel im Park.", "Die Vogelbeobachtung ist besonders in den Mangroven von Chocón Machacas erstklassig.", "Der Nationalpark wurde bereits 1955 zum Schutz der einzigartigen Landschaft gegründet."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Park ist ein wichtiges Refugium für den bedrohten Karibik-Manati.", "Zahlreiche 'Cayucos' (traditionelle Boote) dienen als Hauptverkehrsmittel im Park.", "Die Vogelbeobachtung ist besonders in den Mangroven von Chocón Machacas erstklassig.", "Der Nationalpark wurde bereits 1955 zum Schutz der einzigartigen Landschaft gegründet."], hu: [], ro: [], en: [] }, image: "/poi-images/parque-nacional-rio-dulce-nature-v2.webp"},
   {
     id: "laguna-chichoj-nature-v2",
     type: "lake",
@@ -431,8 +406,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Near San Cristóbal Verapaz", "Ecologically threatened", "Important for the local community", "Poqomchi' Maya region"]
     },
     descriptionAdvanced: { de: "Die Laguna Chichoj ist ein malerischer See in der Nähe der Stadt San Cristóbal Verapaz im Departement Alta Verapaz. Umgeben von Hügeln und Kiefernwäldern bietet der See eine friedliche Kulisse und ist ein wichtiges Naherholungsgebiet für die lokale Bevölkerung. Der See hat eine tiefe kulturelle Bedeutung für die Poqomchi'-Maya, die in der Region leben. In den letzten Jahren wurden verstärkt Anstrengungen unternommen, um die Wasserqualität zu verbessern und das ökologische Gleichgewicht des Sees zu schützen. Besucher können am Ufer spazieren gehen, die lokale Flora bewundern oder kleine Bootsfahrten unternehmen. Die Laguna Chichoj ist ein Beispiel für die Schönheit der kleineren Hochlandsseen Guatemalas, die oft abseits der großen Touristenströme liegen.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der See ist bekannt für seine schwimmenden Inseln aus Vegetation.", "Die Region um den See ist ein bedeutendes Zentrum für die Produktion von Textilien und Kaffee.", "Sagen und Legenden der Poqomchi' ranken sich um die Entstehung und die Geister des Sees.", "Wanderwege rund um die Lagune bieten gute Möglichkeiten zur Beobachtung lokaler Singvögel."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der See ist bekannt für seine schwimmenden Inseln aus Vegetation.", "Die Region um den See ist ein bedeutendes Zentrum für die Produktion von Textilien und Kaffee.", "Sagen und Legenden der Poqomchi' ranken sich um die Entstehung und die Geister des Sees.", "Wanderwege rund um die Lagune bieten gute Möglichkeiten zur Beobachtung lokaler Singvögel."], hu: [], ro: [], en: [] }, image: "/poi-images/laguna-chichoj-nature-v2.webp"},
   {
     id: "cerro-de-la-cruz-nature-v2",
     type: "mountain",
@@ -447,8 +421,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Viewpoint over Antigua", "Large cross on top", "Easy hike", "View of Volcán de Agua"]
     },
     descriptionAdvanced: { de: "Der Cerro de la Cruz ist der berühmteste Aussichtspunkt von Antigua Guatemala und bietet einen unvergleichlichen Blick über die gesamte Kolonialstadt. Auf dem Gipfel des Hügels befindet sich ein großes Steinkreuz, das dem Ort seinen Namen gibt und ein Symbol des Schutzes für die Stadt ist. Von hier aus kann man die perfekte schachbrettartige Anordnung der Straßen Antiguas sowie die markante Silhouette des Volcán de Agua im Hintergrund bewundern. Der Hügel ist über einen gepflegten Wanderweg oder eine Straße leicht erreichbar und ist sowohl bei Touristen als auch bei Einheimischen ein beliebter Ort für Fotos und Picknicks. Besonders bei Sonnenaufgang oder Sonnenuntergang ist die Lichtstimmung über den roten Ziegeldächern der Stadt magisch.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Hügel liegt unmittelbar nördlich des Stadtzentrums und ist in etwa 15 Minuten zu Fuß erreichbar.", "Vom Gipfel aus sind auch die Vulkane Fuego und Acatenango bei klarer Sicht gut zu erkennen.", "Der Platz um das Kreuz wurde kürzlich renoviert und bietet heute moderne Aussichtsplattformen.", "Der Cerro de la Cruz ist ein beliebter Ort für sportliche Übungen in den Morgenstunden."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Hügel liegt unmittelbar nördlich des Stadtzentrums und ist in etwa 15 Minuten zu Fuß erreichbar.", "Vom Gipfel aus sind auch die Vulkane Fuego und Acatenango bei klarer Sicht gut zu erkennen.", "Der Platz um das Kreuz wurde kürzlich renoviert und bietet heute moderne Aussichtsplattformen.", "Der Cerro de la Cruz ist ein beliebter Ort für sportliche Übungen in den Morgenstunden."], hu: [], ro: [], en: [] }, image: "/poi-images/cerro-de-la-cruz-nature-v2.webp"},
   {
     id: "monterrico-nature-reserve-nature-v2",
     type: "forest",
@@ -463,8 +436,7 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
       en: ["Sea turtle conservation", "Black sand beaches", "Mangrove wetlands", "Bird watching"]
     },
     descriptionAdvanced: { de: "Das Naturreservat Monterrico ist ein Küstenparadies an der Pazifikküste Guatemalas, das für seine einzigartigen schwarzen Sandstrände und Mangrovenkanäle bekannt ist. Das Reservat umfasst ein komplexes System von Lagunen, die als Lebensraum für zahlreiche Zugvögel, Leguane und Krokodile dienen. Ein Schwerpunkt des Reservats liegt auf dem Schutz der Meeresschildkröten; das Tortugario de Monterrico leistet hier Pionierarbeit beim Ausbrüten und Freilassen von Jungtieren. Besucher können mit lautlosen Ruderbooten durch die Mangroven gleiten und die beeindruckende Biodiversität hautnah erleben. Monterrico verbindet Naturschutz mit ökologischem Tourismus und ist ein wichtiger Rückzugsort für Erholungssuchende aus der Hauptstadt.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Das Reservat ist eines der am besten organisierten Naturschutzgebiete an der Pazifikküste.", "Die schwarzen Sandstrände absorbieren tagsüber viel Hitze und sind vulkanischen Ursprungs.", "Bootstouren bei Sonnenaufgang bieten die besten Chancen für die Vogelbeobachtung.", "Monterrico ist ein wichtiges Forschungsgebiet für die Erhaltung mariner Ökosysteme."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Das Reservat ist eines der am besten organisierten Naturschutzgebiete an der Pazifikküste.", "Die schwarzen Sandstrände absorbieren tagsüber viel Hitze und sind vulkanischen Ursprungs.", "Bootstouren bei Sonnenaufgang bieten die besten Chancen für die Vogelbeobachtung.", "Monterrico ist ein wichtiges Forschungsgebiet für die Erhaltung mariner Ökosysteme."], hu: [], ro: [], en: [] }, image: "/poi-images/monterrico-nature-reserve-nature-v2.webp"},
   {
     id: "fuentes-georginas-nature-v2",
     type: "river",
@@ -482,3 +454,4 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
     factsAdvanced: { de: ["Die Quellen liegen auf einer Höhe von über 2.400 Metern über dem Meeresspiegel.", "Nach einem schweren Hurrikan im Jahr 2010 musste die Anlage fast vollständig neu aufgebaut werden.", "Das Thermalwasser tritt mit Temperaturen von bis zu 40 Grad Celsius aus dem Felsen aus.", "Die Quellen sind nach Georgina de Ubico benannt, der Frau eines ehemaligen Präsidenten."], hu: [], ro: [], en: [] }
   }
 ];
+

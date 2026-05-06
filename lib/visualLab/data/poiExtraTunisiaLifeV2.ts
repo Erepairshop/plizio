@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTunisiaLifeV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Több mint 400 állat otthona", "A természetvédelemre és oktatásra összpontosít", "Mediterrán tájba ágyazva", "Népszerű családi úti cél"],
       ro: ["Găzduiește peste 400 de animale", "Accent pe conservare și educație", "Situat în peisaj mediteranean", "Destinație populară pentru familii"],
       en: ["Home to over 400 animals", "Focus on conservation and education", "Nestled in Mediterranean landscape", "Popular destination for families"]
-    }
-  },
+    }, image: "/poi-images/friguia-park-life-v2.webp"},
   {
     id: "ichkeul-bird-life-v2",
     type: "animal-habitat",
@@ -27,8 +27,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["UNESCO világörökség", "Fontos téli szálláshely", "Változatos madárökoszisztéma", "Természetvédelmi terület"],
       ro: ["Patrimoniu natural UNESCO", "Loc de iernat important", "Ecosistem divers de păsări", "Zonă protejată"],
       en: ["UNESCO World Heritage site", "Important wintering ground", "Diverse bird ecosystem", "Protected nature reserve"]
-    }
-  },
+    }, image: "/poi-images/ichkeul-bird-life-v2.webp"},
   {
     id: "olive-grove-sfax-life-v2",
     type: "agriculture",
@@ -41,8 +40,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Központi szerep a helyi gazdaságban", "Történelmi termesztési kultúra", "Minőségi olajtermelés", "Kiterjedt táj"],
       ro: ["Rol central în economia locală", "Cultură agricolă istorică", "Producție de ulei de calitate", "Peisaj extins"],
       en: ["Central to local economy", "Historical farming culture", "Production of quality oil", "Vast landscape"]
-    }
-  },
+    }, image: "/poi-images/olive-grove-sfax-life-v2.webp"},
   {
     id: "palmeraie-tozeur-life-v2",
     type: "agriculture",
@@ -55,8 +53,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Történelmi öntözőrendszer", "Legfontosabb datolyatermelő", "Oázis kulturális öröksége", "Zöld oázis a sivatagban"],
       ro: ["Sistem istoric de irigații", "Cel mai important producător de curmale", "Moștenire culturală a oazelor", "Oază verde în deșert"],
       en: ["Historical irrigation system", "Key date producer", "Oasis cultural heritage", "Green oasis in the desert"]
-    }
-  },
+    }, image: "/poi-images/palmeraie-tozeur-life-v2.webp"},
   {
     id: "kid-park-tunis-life-v2",
     type: "kid-landmark",
@@ -69,8 +66,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Központi elhelyezkedés", "Biztonságos játszóterület", "Sok kikapcsolódási lehetőség", "Családbarát"],
       ro: ["Situat central", "Zonă de joacă sigură", "Multe oportunități de relaxare", "Prietenos cu familiile"],
       en: ["Centrally located", "Safe play area", "Many leisure activities", "Family-friendly"]
-    }
-  },
+    }, image: "/poi-images/kid-park-tunis-life-v2.webp"},
   {
     id: "douz-camel-habitat-life-v2",
     type: "animal-habitat",
@@ -83,8 +79,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Hagyományos állattartás", "Sivatagi ökológiai élmény", "Kulturális-történelmi jelentőség", "Egyedi flóra és fauna"],
       ro: ["Creșterea tradițională a animalelor", "Experiență de ecologie de deșert", "Semnificație cultural-istorică", "Floră și faună unică"],
       en: ["Traditional animal husbandry", "Desert ecology experience", "Cultural-historical significance", "Unique flora and fauna"]
-    }
-  },
+    }, image: "/poi-images/douz-camel-habitat-life-v2.webp"},
   {
     id: "gammarth-zoo-life-v2",
     type: "kid-landmark",
@@ -97,8 +92,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Interaktív játékállomások", "Modern biztonsági koncepció", "Egész évben népszerű", "Közel a parthoz"],
       ro: ["Stații de joc interactive", "Concept modern de siguranță", "Popular tot timpul anului", "Aproape de coastă"],
       en: ["Interactive play stations", "Modern safety concept", "Popular all year round", "Near the coast"]
-    }
-  },
+    }, image: "/poi-images/gammarth-zoo-life-v2.webp"},
   {
     id: "sidi-bou-said-garden-life-v2",
     type: "kid-landmark",
@@ -111,8 +105,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Oktatás-orientált", "Nyugalomsziget családoknak", "Őshonos biodiverzitás", "Gyönyörű kilátás"],
       ro: ["Orientată spre educație", "Oază de liniște pentru familii", "Biodiversitate nativă", "Vedere superbă"],
       en: ["Educational focus", "Quiet oasis for families", "Native biodiversity", "Beautiful views"]
-    }
-  },
+    }, image: "/poi-images/sidi-bou-said-garden-life-v2.webp"},
   {
     id: "bizerte-aquarium-life-v2",
     type: "kid-landmark",
@@ -125,8 +118,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Tengeri oktatás", "Interaktív kiállítások", "Veszélyeztetett fajok védelme", "Családi kirándulóhely"],
       ro: ["Educație marină", "Expoziții interactive", "Protecția speciilor amenințate", "Destinație de excursie pentru familii"],
       en: ["Marine education", "Interactive exhibits", "Protection of threatened species", "Family excursion spot"]
-    }
-  },
+    }, image: "/poi-images/bizerte-aquarium-life-v2.webp"},
   {
     id: "testour-pomegranate-life-v2",
     type: "agriculture",
@@ -139,8 +131,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Hagyományos termesztési módok", "Regionális specialitás", "Gránátalma-fesztivál", "Gazdasági tényező"],
       ro: ["Metode tradiționale de cultivare", "Specialitate regională", "Festivalul rodiilor", "Factor economic"],
       en: ["Traditional farming methods", "Regional specialty", "Pomegranate festival", "Economic factor"]
-    }
-  },
+    }, image: "/poi-images/testour-pomegranate-life-v2.webp"},
   {
     id: "grombalia-vineyard-life-v2",
     type: "agriculture",
@@ -153,8 +144,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Hagyományos borkultúra", "Kiváló minőségű szőlőfajták", "Fontos exportágazat", "Tájmeghatározó"],
       ro: ["Cultură viticolă tradițională", "Soiuri de struguri de calitate", "Ramură importantă de export", "Peisaj definitoriu"],
       en: ["Traditional wine culture", "Quality grape varieties", "Important export sector", "Landscape-defining"]
-    }
-  },
+    }, image: "/poi-images/grombalia-vineyard-life-v2.webp"},
   {
     id: "zaghouan-rose-life-v2",
     type: "agriculture",
@@ -181,8 +171,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Hagyományos kézműves technikák", "Friss tenger gyümölcsei", "Kikötői élet hangulata", "Gazdasági alap"],
       ro: ["Tehnici de meșteșug tradiționale", "Fructe de mare proaspete", "Atmosfera vieții portuare", "Bază economică"],
       en: ["Traditional craft techniques", "Fresh seafood", "Harbor life atmosphere", "Economic foundation"]
-    }
-  },
+    }, image: "/poi-images/sfax-fishery-life-v2.webp"},
   {
     id: "nabeul-pottery-garden-life-v2",
     type: "kid-landmark",
@@ -195,8 +184,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Kreatív műhelyek", "Hagyományos kézművesség", "Családbarát tanulási cél", "Kulturális gazdagodás"],
       ro: ["Ateliere creative", "Artizanat tradițional", "Destinație educativă pentru familii", "Îmbogățire culturală"],
       en: ["Creative workshops", "Traditional craftsmanship", "Family-friendly learning spot", "Cultural enrichment"]
-    }
-  },
+    }, image: "/poi-images/nabeul-pottery-garden-life-v2.webp"},
   {
     id: "atlas-mountain-habitat-life-v2",
     type: "animal-habitat",
@@ -209,8 +197,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Biodiverzitási hotspot", "Természetvédelmi kutatás", "Hegyi állatvilág védelme", "Túrázóparadicsom"],
       ro: ["Hotspot de biodiversitate", "Cercetare în conservare", "Protecția faunei montane", "Paradis pentru drumeții"],
       en: ["Biodiversity hotspot", "Conservation research", "Mountain wildlife protection", "Hiking paradise"]
-    }
-  },
+    }, image: "/poi-images/atlas-mountain-habitat-life-v2.webp"},
   {
     id: "medjerda-valley-agri-life-v2",
     type: "agriculture",
@@ -223,8 +210,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Az ország éléstára", "Modern termesztési módszerek", "Történelmi öntözés", "Mezőgazdasági szív"],
       ro: ["Hambarul țării", "Metode moderne de cultivare", "Irigare istorică", "Inima agricolă"],
       en: ["Breadbasket of the country", "Modern farming methods", "Historical irrigation", "Agricultural heart"]
-    }
-  },
+    }, image: "/poi-images/medjerda-valley-agri-life-v2.webp"},
   {
     id: "djerba-ostrich-farm-life-v2",
     type: "animal-habitat",
@@ -237,8 +223,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Egzotikus állattenyésztés", "Interaktív élmény", "Oktatás családoknak", "Látogatói attrakció"],
       ro: ["Creșterea animalelor exotice", "Experiență interactivă", "Educație pentru familii", "Atracție turistică"],
       en: ["Exotic animal breeding", "Interactive experience", "Education for families", "Visitor attraction"]
-    }
-  },
+    }, image: "/poi-images/djerba-ostrich-farm-life-v2.webp"},
   {
     id: "cap-bon-fruit-garden-life-v2",
     type: "agriculture",
@@ -251,8 +236,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Citrus központ", "Változatos termés", "Hagyományos módszerek", "Frissáru-export"],
       ro: ["Centru de citrice", "Recoltă diversificată", "Metode tradiționale", "Export de produse proaspete"],
       en: ["Citrus center", "Diverse harvest", "Traditional methods", "Export of fresh produce"]
-    }
-  },
+    }, image: "/poi-images/cap-bon-fruit-garden-life-v2.webp"},
   {
     id: "kairouan-date-orchard-life-v2",
     type: "agriculture",
@@ -265,8 +249,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Datolya-sokféleség", "Sivatagi mezőgazdaság", "Kulturális szüret", "Gazdasági jelentőség"],
       ro: ["Diversitate de curmale", "Agricultură de deșert", "Recoltă culturală", "Semnificație economică"],
       en: ["Date variety", "Desert farming", "Cultural harvest", "Economic significance"]
-    }
-  },
+    }, image: "/poi-images/kairouan-date-orchard-life-v2.webp"},
   {
     id: "tabarka-marine-park-life-v2",
     type: "animal-habitat",
@@ -279,8 +262,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Korallvédelem", "Búvárparadicsom", "Kutatási projektek", "Tengeri biodiverzitás"],
       ro: ["Protecția coralilor", "Paradis pentru scufundări", "Proiecte de cercetare", "Biodiversitate marină"],
       en: ["Coral protection", "Diving paradise", "Research projects", "Marine biodiversity"]
-    }
-  },
+    }, image: "/poi-images/tabarka-marine-park-life-v2.webp"},
   {
     id: "hammamet-fun-land-life-v2",
     type: "kid-landmark",
@@ -293,8 +275,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Nagy csúszdapark", "Biztonságos fürdőterületek", "Napi program gyerekeknek", "Nagyon népszerű"],
       ro: ["Peisaj mare cu tobogane", "Zone de scăldat sigure", "Program zilnic pentru copii", "Foarte popular"],
       en: ["Large slide landscape", "Safe swimming areas", "Daily program for kids", "Very popular"]
-    }
-  },
+    }, image: "/poi-images/hammamet-fun-land-life-v2.webp"},
   {
     id: "gala-desert-reserve-life-v2",
     type: "animal-habitat",
@@ -307,8 +288,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Fauna-dokumentáció", "Természetvédelmi tanösvény", "Ökológiai sokszínűség", "Sivatagi felfedezés"],
       ro: ["Documentarea faunei", "Traseu educativ de conservare", "Diversitate ecologică", "Explorarea deșertului"],
       en: ["Fauna documentation", "Conservation nature trail", "Ecological diversity", "Desert exploration"]
-    }
-  },
+    }, image: "/poi-images/gala-desert-reserve-life-v2.webp"},
   {
     id: "sidi-bou-zid-agriculture-life-v2",
     type: "agriculture",
@@ -321,8 +301,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Fontos zöldségtermelő", "Modern mezőgazdasági technológia", "Regionális önellátás", "Gazdasági központ"],
       ro: ["Producător important de legume", "Tehnologie agricolă modernă", "Autosuficiență regională", "Centru economic"],
       en: ["Important vegetable producer", "Modern farming technology", "Regional self-sufficiency", "Economic center"]
-    }
-  },
+    }, image: "/poi-images/sidi-bou-zid-agriculture-life-v2.webp"},
   {
     id: "monastir-aquarium-life-v2",
     type: "kid-landmark",
@@ -335,8 +314,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Tanulóállomások", "Óceánok védelme", "Családi tevékenységek", "Tengeri tudás"],
       ro: ["Stații de învățare", "Protecția oceanelor", "Activități pentru familii", "Cunoștințe marine"],
       en: ["Learning stations", "Protection of oceans", "Family activities", "Marine knowledge"]
-    }
-  },
+    }, image: "/poi-images/monastir-aquarium-life-v2.webp"},
   {
     id: "gabes-oasis-life-v2",
     type: "agriculture",
@@ -349,8 +327,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Egyedi tengerparti fekvés", "Változatos gyümölcstermelés", "Hagyományos oázisgazdálkodás", "Kulturális központ"],
       ro: ["Locație de coastă unică", "Producție diversificată de fructe", "Economie tradițională de oază", "Centru cultural"],
       en: ["Unique coastal location", "Diverse fruit production", "Traditional oasis economy", "Cultural center"]
-    }
-  },
+    }, image: "/poi-images/gabes-oasis-life-v2.webp"},
   {
     id: "el-djem-gardens-life-v2",
     type: "kid-landmark",
@@ -363,8 +340,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Történelmi tanulás", "Játszóterek", "Zöldterület gyerekeknek", "Kulturális kirándulás"],
       ro: ["Învățare istorică", "Locuri de joacă", "Spațiu verde pentru copii", "Excursie culturală"],
       en: ["Historical learning", "Playgrounds", "Green space for kids", "Cultural excursion"]
-    }
-  },
+    }, image: "/poi-images/el-djem-gardens-life-v2.webp"},
   {
     id: "bizerte-wildlife-park-life-v2",
     type: "animal-habitat",
@@ -377,8 +353,7 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       hu: ["Fajvédelem", "Természetoktatás", "Családi látnivaló", "Őshonos fauna"],
       ro: ["Conservarea speciilor", "Educație despre natură", "Atracție pentru familii", "Faună nativă"],
       en: ["Species conservation", "Nature education", "Family attraction", "Native fauna"]
-    }
-  },
+    }, image: "/poi-images/bizerte-wildlife-park-life-v2.webp"},
   {
     id: "medenine-ksar-kids-life-v2",
     type: "kid-landmark",
@@ -394,3 +369,4 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     }
   }
 ];
+

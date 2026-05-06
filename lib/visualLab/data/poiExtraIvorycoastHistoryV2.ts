@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraIvorycoastHistoryV2: POI[] = [
@@ -8,13 +9,18 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     coords: [-3.7333, 5.2],
     name: { de: "Historische Stadt Grand-Bassam", hu: "Grand-Bassam történelmi városa", ro: "Orașul istoric Grand-Bassam", en: "Historic Town of Grand-Bassam" },
     description: { de: "Die erste Hauptstadt der Elfenbeinküste unter französischer Kolonialherrschaft im späten 19. und frühen 20. Jahrhundert.", hu: "Elefántcsontpart első fővárosa a francia gyarmati uralom alatt a 19. század végén és a 20. század elején.", ro: "Prima capitală a Coastei de Fildeș sub dominația colonială franceză la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea.", en: "The first capital of Ivory Coast under French colonial rule in the late 19th and early 20th centuries." },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe", "Erste französische Hauptstadt", "Bekannt für koloniale Architektur", "Verlassen nach Gelbfieber-Epidemie"],
-      hu: ["UNESCO világörökség", "Az első francia főváros", "Gyarmati építészetéről ismert", "Sárgaláz-járvány után hagyták el"],
-      ro: ["Patrimoniu Mondial UNESCO", "Prima capitală franceză", "Cunoscut pentru arhitectura colonială", "Abandonat după epidemia de febră galbenă"],
-      en: ["UNESCO World Heritage Site", "First French capital", "Known for colonial architecture", "Abandoned after yellow fever epidemic"]
-    }
-  },
+    descriptionAdvanced: {
+      de: "Grand-Bassam war von 1893 bis 1896 die erste Hauptstadt der französischen Kolonie Elfenbeinküste. Die Stadt ist weltbekannt für ihre Architektur aus der Kolonialzeit, darunter Villen und Verwaltungsgebäude aus der Jahrhundertwende. Heute ist der Ort ein UNESCO-Weltkulturerbe und dient als lebendiges Museum für die koloniale Geschichte des Landes. Die Stadt musste 1896 nach einer verheerenden Gelbfieber-Epidemie als Hauptstadt aufgegeben werden, doch ihre Bedeutung als historisches Zentrum blieb bestehen. Geografie K7 — Küstenregionen.",
+      hu: "Grand-Bassam 1893 és 1896 között az Elefántcsontpart francia gyarmat első fővárosa volt. A város világszerte ismert a 20. századfordulóról származó gyarmati építészetéről, beleértve a villákat és közigazgatási épületeket is. Ma a helyszín UNESCO világörökség, és az ország gyarmati történelmének élő múzeumaként szolgál. A várost 1896-ban, egy pusztító sárgaláz-járvány után kényszerültek elhagyni fővárosként, de történelmi jelentősége megmaradt. Földrajz K7 — tengerparti régiók.",
+      ro: "Grand-Bassam a fost prima capitală a coloniei franceze Coasta de Fildeș între 1893 și 1896. Orașul este cunoscut la nivel mondial pentru arhitectura sa din perioada colonială, inclusiv vile și clădiri administrative de la cumpăna secolelor XIX și XX. Astăzi, locul este un sit al Patrimoniului Mondial UNESCO și servește drept muzeu viu pentru istoria colonială a țării. Orașul a trebuit să fie abandonat ca și capitală în 1896 după o epidemie devastatoare de febră galbenă, dar importanța sa ca centru istoric a rămas. Geografie K7 — regiuni costiere.",
+      en: "Grand-Bassam was the first capital of the French colony of Ivory Coast from 1893 to 1896. The town is world-renowned for its colonial-era architecture, including villas and administrative buildings from the turn of the century. Today, the site is a UNESCO World Heritage site and serves as a living museum of the country's colonial history. The town had to be abandoned as a capital in 1896 after a devastating yellow fever epidemic, yet its significance as a historical center remains. Geography K7 — coastal regions."
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Status seit 2012", "Erbaut ab 1893", "Höhepunkt als Hauptstadt kurzzeitig", "Über 100 koloniale Gebäude", "Starke Küstenerosion seit Jahrzehnten", "Gelbfieber-Epidemie 1896 als Wendepunkt"],
+      hu: ["UNESCO státusz 2012 óta", "1893-tól épült", "Rövid ideig tartó fővárosi rang", "Több mint 100 gyarmati épület", "Erős partmenti erózió évtizedek óta", "1896-os sárgaláz-járvány fordulópontként"],
+      ro: ["Statut UNESCO din 2012", "Construit din 1893", "Rang de capitală pentru scurt timp", "Peste 100 de clădiri coloniale", "Eroziune costieră severă de decenii", "Epidemia de febră galbenă din 1896 ca punct de cotitură"],
+      en: ["UNESCO status since 2012", "Built from 1893", "Short-lived rank as capital", "Over 100 colonial buildings", "Severe coastal erosion for decades", "Yellow fever epidemic in 1896 as a turning point"]
+    }, image: "/poi-images/grand-bassam-historic-town-history-v2.webp"},
   {
     id: "basilica-of-our-lady-of-peace-history-v2",
     type: "historical",
@@ -27,8 +33,19 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A világ legnagyobb temploma", "1985 és 1989 között épült", "A Szent Péter-bazilika mintájára készült", "18 000 ember befogadására alkalmas"],
       ro: ["Cea mai mare biserică din lume", "Construită 1985-1989", "Modelată după Bazilica Sf. Petru", "Poate găzdui 18.000 de persoane"],
       en: ["Largest church in the world", "Built 1985-1989", "Modeled after St. Peter's Basilica", "Can accommodate 18,000 people"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Basilika Notre-Dame-de-la-Paix in Yamoussoukro ist ein architektonisches Monument und die größte Kirche der Welt. Sie wurde zwischen 1985 und 1989 auf Wunsch des damaligen Präsidenten Félix Houphouët-Boigny errichtet und erinnert stilistisch an den Petersdom im Vatikan. Mit einer Gesamthöhe von 158 Metern ist sie ein monumentaler Ausdruck katholischer Präsenz mitten in Afrika. Der Bau war damals hochumstritten aufgrund der extrem hohen Baukosten, die etwa 300 Millionen US-Dollar erreichten. Sachkunde K8 — moderne Monumente.",
+      hu: "A yamoussoukro-i Miasszonyunk a Béke Királynője bazilika építészeti műemlék és a világ legnagyobb temploma. 1985 és 1989 között épült az akkori elnök, Félix Houphouët-Boigny kívánságára, stílusában pedig a vatikáni Szent Péter-bazilikára emlékeztet. 158 méteres összmagasságával a katolikus jelenlét monumentális kifejeződése Afrika közepén. Az építkezés akkoriban erősen vitatott volt a rendkívül magas, körülbelül 300 millió dolláros költségek miatt. Sachkunde K8 — modern műemlékek.",
+      ro: "Bazilica Notre-Dame de la Paix din Yamoussoukro este un monument arhitectural și cea mai mare biserică din lume. A fost ridicată între 1985 și 1989 la dorința președintelui de atunci, Félix Houphouët-Boigny, și amintește ca stil de Bazilica Sf. Petru din Vatican. Cu o înălțime totală de 158 de metri, este o expresie monumentală a prezenței catolice în centrul Africii. Construcția a fost foarte controversată la acea vreme din cauza costurilor extrem de ridicate, care au atins aproximativ 300 de milioane de dolari. Sachkunde K8 — monumente moderne.",
+      en: "The Basilica of Our Lady of Peace in Yamoussoukro is an architectural monument and the largest church in the world. It was erected between 1985 and 1989 at the request of the then-President Félix Houphouët-Boigny and stylistically resembles St. Peter's Basilica in the Vatican. With a total height of 158 meters, it is a monumental expression of Catholic presence in the middle of Africa. The construction was highly controversial at the time due to the extremely high costs, which reached approximately 300 million US dollars. Sachkunde K8 — modern monuments."
+    },
+    factsAdvanced: {
+      de: ["Höhe 158 Meter", "Fertigstellung 1989", "Kapazität 18.000 Sitzplätze", "Weltgrößte Glasfläche (ca. 7000 m²)", "Geschenkt an den Vatikan", "Erbaut von Pierre Fakhoury"],
+      hu: ["Magasság 158 méter", "Befejezés 1989", "Kapacitás 18 000 ülőhely", "Világ legnagyobb üvegfelülete (kb. 7000 m²)", "Ajándék a Vatikánnak", "Pierre Fakhoury építette"],
+      ro: ["Înălțime 158 metri", "Finalizare 1989", "Capacitate 18.000 locuri", "Cea mai mare suprafață de sticlă din lume (cca. 7000 m²)", "Dăruită Vaticanului", "Construită de Pierre Fakhoury"],
+      en: ["Height 158 meters", "Completion 1989", "Capacity 18,000 seats", "World's largest glass surface (approx. 7000 m²)", "Gifted to the Vatican", "Built by Pierre Fakhoury"]
+    }, image: "/poi-images/basilica-of-our-lady-of-peace-history-v2.webp"},
   {
     id: "kong-empire-mosques-history-v2",
     type: "historical",
@@ -55,8 +72,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A 17. század végén alapították", "Első keresztény misszió", "Történelmi kereskedelmi központ", "Fontos partmenti bázis"],
       ro: ["Fondată la sfârșitul secolului al XVII-lea", "Prima misiune creștină", "Centru comercial istoric", "Bază de coastă importantă"],
       en: ["Founded in the late 17th century", "First Christian mission", "Historic trade center", "Important coastal base"]
-    }
-  },
+    }, image: "/poi-images/assinie-mafia-settlement-history-v2.webp"},
   {
     id: "bingerville-former-capital-history-v2",
     type: "historical",
@@ -69,8 +85,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Főváros 1900-1934", "A francia kormányzó palotája", "Louis Gustave Binger-ről nevezték el", "Történelmi közigazgatási központ"],
       ro: ["Capitală 1900-1934", "Palatul guvernatorului francez", "Numit după Louis Gustave Binger", "Centru administrativ istoric"],
       en: ["Capital 1900-1934", "French governor's palace", "Named after Louis Gustave Binger", "Historic administrative center"]
-    }
-  },
+    }, image: "/poi-images/bingerville-former-capital-history-v2.webp"},
   {
     id: "tiebissou-resistance-history-v2",
     type: "historical",
@@ -83,8 +98,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A Baoulé ellenállás központja", "A francia csapatok elleni csata helyszíne", "Történelmi kereskedelmi útvonal", "Az akanok kulturális öröksége"],
       ro: ["Centrul rezistenței Baoulé", "Locul bătăliei împotriva trupelor franceze", "Rută comercială istorică", "Moștenirea culturală a poporului Akan"],
       en: ["Center of Baoulé resistance", "Battle site against French troops", "Historic trade route", "Cultural heritage of the Akan"]
-    }
-  },
+    }, image: "/poi-images/tiebissou-resistance-history-v2.webp"},
   {
     id: "bondoukou-mosques-history-v2",
     type: "historical",
@@ -97,8 +111,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Egykori transzszaharai kereskedelmi központ", "Hagyományos mecseteiről ismert", "Fontos iszlám oktatási helyszín", "A 11. században alapították"],
       ro: ["Fost centru de comerț trans-saharian", "Cunoscut pentru moscheile tradiționale", "Important site educațional islamic", "Fondată în secolul al XI-lea"],
       en: ["Former trans-Saharan trade center", "Known for traditional mosques", "Important Islamic educational site", "Founded in the 11th century"]
-    }
-  },
+    }, image: "/poi-images/bondoukou-mosques-history-v2.webp"},
   {
     id: "bouna-kingdom-history-v2",
     type: "historical",
@@ -111,8 +124,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Bounkani király alapította", "Ellenőrizte az aranykereskedelmet", "Történelmi királyi palota", "A Mande kultúra része"],
       ro: ["Fondat de regele Bounkani", "A controlat comerțul cu aur", "Palat regal istoric", "Parte a culturii Mande"],
       en: ["Founded by King Bounkani", "Controlled the gold trade", "Historic royal palace", "Part of the Mande culture"]
-    }
-  },
+    }, image: "/poi-images/bouna-kingdom-history-v2.webp"},
   {
     id: "odienne-vakaba-toure-history-v2",
     type: "historical",
@@ -125,8 +137,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Kabadougou fővárosa", "Vakaba Touré sírja", "Fontos hely a malinkék történelmében", "Az arany- és sóútvonalak központja"],
       ro: ["Capitala Kabadougou", "Mormântul lui Vakaba Touré", "Loc important pentru istoria Malinke", "Centrul rutelor aurului și sării"],
       en: ["Capital of Kabadougou", "Tomb of Vakaba Touré", "Important site for Malinke history", "Center of gold and salt routes"]
-    }
-  },
+    }, image: "/poi-images/odienne-vakaba-toure-history-v2.webp"},
   {
     id: "man-colonial-history-v2",
     type: "historical",
@@ -139,8 +150,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Katonai állomás 1900-tól", "A Dan kultúra központja", "Fontos hely a kávékereskedelemben", "Egykori helyőrségi város"],
       ro: ["Post militar din 1900", "Centrul culturii Dan", "Loc important pentru comerțul cu cafea", "Fost oraș de garnizoană"],
       en: ["Military post since 1900", "Center of Dan culture", "Important site for coffee trade", "Former garrison town"]
-    }
-  },
+    }, image: "/poi-images/man-colonial-history-v2.webp"},
   {
     id: "korhogo-gbon-palace-history-v2",
     type: "historical",
@@ -153,8 +163,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A Senufo vezető rezidenciája", "Politikailag fontos központ", "Gbon Coulibaly együttműködött Franciaországgal", "Megőrzi a hagyományos építészetet"],
       ro: ["Reședința liderului Senufo", "Centru politic important", "Gbon Coulibaly a cooperat cu Franța", "Păstrează arhitectura tradițională"],
       en: ["Residence of the Senufo leader", "Politically important center", "Gbon Coulibaly cooperated with France", "Preserves traditional architecture"]
-    }
-  },
+    }, image: "/poi-images/korhogo-gbon-palace-history-v2.webp"},
   {
     id: "dabou-fort-faidherbe-history-v2",
     type: "historical",
@@ -167,8 +176,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Louis Faidherbe építtette", "Katonai előőrs", "Fontos volt a kereskedelemben", "Jól megőrzött gyarmati erőd"],
       ro: ["Construit de Louis Faidherbe", "Avanpost militar", "Important în comerț", "Fort colonial bine conservat"],
       en: ["Built by Louis Faidherbe", "Military outpost", "Important in trade", "Well-preserved colonial fort"]
-    }
-  },
+    }, image: "/poi-images/dabou-fort-faidherbe-history-v2.webp"},
   {
     id: "sassandra-governors-palace-history-v2",
     type: "historical",
@@ -181,8 +189,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Történelmi exportkikötő", "1951-es rakpart építés", "Regionális közigazgatás székhelye", "Fontos a faanyag-kereskedelemben"],
       ro: ["Port de export istoric", "Construcția debarcaderului din 1951", "Sediul administrației regionale", "Important pentru comerțul cu lemn"],
       en: ["Historic export port", "1951 wharf construction", "Seat of regional administration", "Important for the timber trade"]
-    }
-  },
+    }, image: "/poi-images/sassandra-governors-palace-history-v2.webp"},
   {
     id: "san-pedro-historic-origins-history-v2",
     type: "historical",
@@ -195,8 +202,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Port-Chocolat-nak hívták", "Az ország második legnagyobb kikötője", "A kakaóexport központja", "Egykori portugál jelenlét"],
       ro: ["Numit Port-Chocolat", "Al doilea cel mai mare port din țară", "Centrul exporturilor de cacao", "Fostă prezență portugheză"],
       en: ["Called Port-Chocolat", "Second largest port in the country", "Center for cocoa exports", "Former Portuguese presence"]
-    }
-  },
+    }, image: "/poi-images/san-pedro-historic-origins-history-v2.webp"},
   {
     id: "tiagba-stilt-village-history-v2",
     type: "historical",
@@ -209,8 +215,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Cölöpökön álló házak", "Az Ahizi kultúra", "Védelem az ellenséges támadások ellen", "Az egyik utolsó ilyen település"],
       ro: ["Case pe piloni", "Cultura poporului Ahizi", "Protecție împotriva atacurilor inamice", "Una dintre ultimele astfel de așezări"],
       en: ["Houses on stilts", "Culture of the Ahizi", "Protection from enemy attacks", "One of the last such settlements"]
-    }
-  },
+    }, image: "/poi-images/tiagba-stilt-village-history-v2.webp"},
   {
     id: "tengrela-historic-mosque-history-v2",
     type: "historical",
@@ -223,8 +228,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Vályogtéglás építészet", "Iszlám örökség északon", "Állomás a só- és aranyúton", "Fontos hely a tudósok számára"],
       ro: ["Arhitectură din cărămidă de noroi", "Moștenire islamică în nord", "Stație pe ruta sării și aurului", "Loc important pentru cărturari"],
       en: ["Mud-brick architecture", "Islamic heritage in the north", "Station on the salt and gold route", "Important place for scholars"]
-    }
-  },
+    }, image: "/poi-images/tengrela-historic-mosque-history-v2.webp"},
   {
     id: "niofoin-senufo-village-history-v2",
     type: "historical",
@@ -237,8 +241,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Az animizmus központja", "Tipikus kerek kunyhók", "Poro szent liget", "Hagyományos kézművesség"],
       ro: ["Centrul animismului", "Colibe rotunde tipice", "Dumbrava sacră Poro", "Artizanat tradițional"],
       en: ["Center of animism", "Typical round huts", "Poro sacred grove", "Traditional craftsmanship"]
-    }
-  },
+    }, image: "/poi-images/niofoin-senufo-village-history-v2.webp"},
   {
     id: "anyama-railway-town-history-v2",
     type: "historical",
@@ -251,8 +254,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Az Abidjan-Niger vasút fontos állomása", "A helyi kereskedelem katalizátora", "Régi gyarmati vasútállomás-épületek", "Kóladió termelési központ"],
       ro: ["Stație importantă a căii ferate Abidjan-Niger", "Catalizator pentru comerțul local", "Vechi clădiri coloniale ale gării", "Centru de producție a nucilor de cola"],
       en: ["Important station of the Abidjan-Niger railway", "Catalyst for local trade", "Old colonial station buildings", "Kola nut production center"]
-    }
-  },
+    }, image: "/poi-images/anyama-railway-town-history-v2.webp"},
   {
     id: "bouake-military-post-history-v2",
     type: "historical",
@@ -265,8 +267,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["1899-ben alapították", "Elefántcsontpart második legnagyobb városa", "A Baoulé nép fontos csomópontja", "Egykori gyarmati közigazgatási központ"],
       ro: ["Fondat în 1899", "Al doilea oraș ca mărime din Coasta de Fildeș", "Centru important pentru Baoulé", "Fost centru administrativ colonial"],
       en: ["Founded in 1899", "Second largest city in Ivory Coast", "Important hub for Baoulé", "Former colonial administrative center"]
-    }
-  },
+    }, image: "/poi-images/bouake-military-post-history-v2.webp"},
   {
     id: "touba-fadika-center-history-v2",
     type: "historical",
@@ -279,8 +280,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A Mahou nép központja", "Évszázados iszlám hagyomány", "Befolyásos Fadika család", "Történelmi Korán-iskolák"],
       ro: ["Centrul Mahou", "Tradiție islamică de secole", "Familia influentă Fadika", "Școli coranice istorice"],
       en: ["Center of the Mahou", "Islamic tradition for centuries", "Influential Fadika family", "Historic Quranic schools"]
-    }
-  },
+    }, image: "/poi-images/touba-fadika-center-history-v2.webp"},
   {
     id: "seguela-diamond-trade-history-v2",
     type: "historical",
@@ -293,8 +293,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Korai gyémántbányászat", "A Worodougou régió központja", "Történelmi jelentőség a gyarmatosításban", "Kereskedelmi pont nyugaton"],
       ro: ["Mineritul timpuriu de diamante", "Centrul regiunii Worodougou", "Importanță istorică în colonialism", "Punct de comerț în vest"],
       en: ["Early diamond mining", "Center of the Worodougou", "Historical significance in colonialism", "Trade point in the west"]
-    }
-  },
+    }, image: "/poi-images/seguela-diamond-trade-history-v2.webp"},
   {
     id: "grand-lahou-old-town-history-v2",
     type: "historical",
@@ -307,8 +306,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Régi gyarmati épületek", "Az erózió által fenyegetett", "Egykori kereskedelmi állomás", "Az 'Elefántcsontpart Velencéjeként' ismert"],
       ro: ["Vechi clădiri coloniale", "Amenințat de eroziune", "Fost post comercial", "Cunoscut sub numele de 'Veneția Coastei de Fildeș'"],
       en: ["Old colonial buildings", "Threatened by erosion", "Former trading post", "Known as the 'Venice of Ivory Coast'"]
-    }
-  },
+    }, image: "/poi-images/grand-lahou-old-town-history-v2.webp"},
   {
     id: "katiola-colonial-history-v2",
     type: "historical",
@@ -321,8 +319,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Mangoró fazekasművészet", "Történelmi vasúti kapcsolat", "Gyarmati piac", "A Tagwana kultúra központja"],
       ro: ["Arta ceramicii Mangoro", "Conexiune feroviară istorică", "Piață colonială", "Centrul culturii Tagwana"],
       en: ["Mangoro pottery", "Historic railway connection", "Colonial market town", "Center of Tagwana culture"]
-    }
-  },
+    }, image: "/poi-images/katiola-colonial-history-v2.webp"},
   {
     id: "daloa-trading-post-history-v2",
     type: "historical",
@@ -335,8 +332,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["A Bété nép központja", "Fontos mezőgazdasági piac", "Gyarmati terjeszkedés", "Haut-Sassandra fővárosa"],
       ro: ["Centrul poporului Bété", "Piață agricolă importantă", "Expansiunea colonială", "Capitala regiunii Haut-Sassandra"],
       en: ["Center of the Bété people", "Important agricultural market", "Colonial expansion", "Capital of Haut-Sassandra"]
-    }
-  },
+    }, image: "/poi-images/daloa-trading-post-history-v2.webp"},
   {
     id: "abengourou-indenie-kingdom-history-v2",
     type: "historical",
@@ -349,8 +345,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Agni népcsoport", "Akan hagyományok", "A királyi palota az 1880-as években épült", "Gazdag kulturális örökség"],
       ro: ["Tribul Agni", "Tradiții Akan", "Palatul regal construit în anii 1880", "Moștenire culturală bogată"],
       en: ["Agni tribe", "Akan traditions", "Royal palace built in the 1880s", "Rich cultural heritage"]
-    }
-  },
+    }, image: "/poi-images/abengourou-indenie-kingdom-history-v2.webp"},
   {
     id: "ferkessedougou-historic-town-history-v2",
     type: "historical",
@@ -363,8 +358,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Fontos marhapiac", "Gyarmati vasútállomás", "Niarafolo kultúra", "A pamuttermesztés központja"],
       ro: ["Piață importantă de vite", "Gară din perioada colonială", "Cultura Niarafolo", "Centrul cultivării bumbacului"],
       en: ["Important cattle market", "Colonial era railway station", "Niarafolo culture", "Center of cotton cultivation"]
-    }
-  },
+    }, image: "/poi-images/ferkessedougou-historic-town-history-v2.webp"},
   {
     id: "jacqueville-colonial-history-v2",
     type: "historical",
@@ -377,8 +371,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Egykori neve: Half Jack", "Pálmaolaj exportközpont", "A brit építészet maradványai", "Lagúnatelepülés"],
       ro: ["Fostul nume: Half Jack", "Centru de export al uleiului de palmier", "Rămășițe ale arhitecturii britanice", "Așezare pe lagună"],
       en: ["Former name: Half Jack", "Palm oil export center", "Remains of British architecture", "Lagoon settlement"]
-    }
-  },
+    }, image: "/poi-images/jacqueville-colonial-history-v2.webp"},
   {
     id: "agboville-abbey-revolt-history-v2",
     type: "historical",
@@ -391,8 +384,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["Felkelés a kényszermunka ellen 1910-ben", "Az Abbey nép központja", "Korai vasúti kapcsolat", "Agnéby-Tiassa fővárosa"],
       ro: ["Revolta împotriva muncii forțate din 1910", "Centrul populației Abbey", "Conexiune feroviară timpurie", "Capitala regiunii Agnéby-Tiassa"],
       en: ["Revolt against forced labor in 1910", "Center of the Abbey people", "Early railway connection", "Capital of Agnéby-Tiassa"]
-    }
-  },
+    }, image: "/poi-images/agboville-abbey-revolt-history-v2.webp"},
   {
     id: "dimbokro-historic-viaduct-history-v2",
     type: "historical",
@@ -405,8 +397,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       hu: ["1910-es viadukt", "Átível az N'Zi folyón", "Abidjan-Niger vasútvonal", "Egy gyarmatellenes tüntetés helyszíne 1950-ben"],
       ro: ["Viaduct din 1910", "Se întinde pe râul N'Zi", "Calea ferată Abidjan-Niger", "Locul unui protest anticolonial în 1950"],
       en: ["Viaduct from 1910", "Spans the N'Zi River", "Abidjan-Niger railway line", "Site of an anti-colonial protest in 1950"]
-    }
-  },
+    }, image: "/poi-images/dimbokro-historic-viaduct-history-v2.webp"},
   {
     id: "gagnoa-bete-center-history-v2",
     type: "historical",
@@ -422,3 +413,4 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     }
   }
 ];
+

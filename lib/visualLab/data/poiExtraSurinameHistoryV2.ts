@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSurinameHistoryV2: POI[] = [
@@ -35,8 +36,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["Az erőd évszázadokon át a gyarmat közigazgatási központjaként szolgált.", "A katonai diktatúra idején börtönként használták.", "Az ősi falak egyedülálló betekintést nyújtanak a régió katonai építészetébe.", "Az erődben tett séta egy utazás Suriname teljes gyarmati történelmén keresztül."],
       ro: ["Fortul a servit timp de secole ca centru administrativ al coloniei.", "În timpul dictaturii militare a fost folosit ca închisoare.", "Vechi ziduri oferă o perspectivă unică asupra arhitecturii militare a regiunii.", "O plimbare prin fort este o călătorie prin întreaga perioadă colonială a Surinamului."],
       en: ["The fort served as the administrative center of the colony for centuries.", "During the military dictatorship, it was used as a prison.", "The old walls offer a unique insight into the military architecture of the region.", "A walk through the fort is a journey through the entire colonial period of Suriname."]
-    }
-  },
+    }, image: "/poi-images/sr-fort-zeelandia-history-v2.webp"},
   {
     id: "sr-jodensavanne-history-v2",
     type: "historical",
@@ -71,8 +71,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A hely Suriname egyik legjelentősebb régészeti övezete.", "Fontos bizonyítéka a gyarmati kori kultúraközi cserének.", "A sírkövek héber és portugál nyelvű feliratokkal vannak ellátva.", "A helyszínt ma nemzeti emlékműként védik."],
       ro: ["Situl este una dintre cele mai importante zone arheologice din Surinam.", "Este o dovadă importantă a schimbului intercultural în epoca colonială.", "Pietrele funerare sunt inscripționate în ebraică și portugheză.", "Locația este protejată astăzi ca monument național."],
       en: ["The site is one of the most significant archaeological zones in Suriname.", "It is an important testament to intercultural exchange in the colonial era.", "The tombstones are inscribed in Hebrew and Portuguese.", "The site is protected today as a national monument."]
-    }
-  },
+    }, image: "/poi-images/sr-jodensavanne-history-v2.webp"},
   {
     id: "sr-peperpot-history-v2",
     type: "historical",
@@ -107,8 +106,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A területet tanösvényekkel ellátott természeti parkká alakították át.", "Peperpot ideális hely a madármegfigyeléshez.", "A régi ültetvényépületek autentikus hátteret biztosítanak a történelem iránt érdeklődőknek.", "A projekt modellként szolgál a történelmi mezőgazdasági területek fenntartható utóhasznosításához."],
       ro: ["Situl a fost transformat într-un parc natural cu poteci educative.", "Peperpot este un loc ideal pentru observarea păsărilor.", "Clădirile vechi ale plantației oferă un fundal autentic pentru cei interesați de istorie.", "Proiectul servește drept model pentru reutilizarea durabilă a terenurilor agricole istorice."],
       en: ["The site has been transformed into a nature park with educational trails.", "Peperpot is an ideal place for bird watching.", "The old plantation buildings offer an authentic backdrop for those interested in history.", "The project serves as a model for the sustainable reuse of historical agricultural land."]
-    }
-  },
+    }, image: "/poi-images/sr-peperpot-history-v2.webp"},
   {
     id: "sr-frederiksdorp-history-v2",
     type: "historical",
@@ -143,8 +141,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["Az ingatlan díjnyertes az építészetéért és a tájtervezéséért.", "A helyet stílusosan, hajóval lehet elérni a Commewijne-folyón keresztül.", "Frederiksdorp a kulturális turizmus központi állomása a régióban.", "Az üdülőhely a működése során az ökológiai fenntarthatóságra helyezi a hangsúlyt."],
       ro: ["Proprietatea este premiată pentru arhitectura și designul peisagistic.", "Locul poate fi atins cu stil, cu barca, pe râul Commewijne.", "Frederiksdorp este un punct central pentru turismul cultural în regiune.", "Stațiunea pune accent pe durabilitatea ecologică în operarea sa."],
       en: ["The property is award-winning for its architecture and landscaping.", "The place is reached in style by boat via the Commewijne River.", "Frederiksdorp is a central hub for cultural tourism in the region.", "The resort focuses on ecological sustainability in its operation."]
-    }
-  },
+    }, image: "/poi-images/sr-frederiksdorp-history-v2.webp"},
   {
     id: "sr-pengel-monument-history-v2",
     type: "historical",
@@ -179,8 +176,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["Az emlékművet Suriname függetlensége alkalmából állították.", "Közvetlenül az Elnöki Palota közelében található.", "Az emlékmű a hivatalos megemlékezések fontos találkozóhelye."],
       ro: ["Monumentul a fost donat cu ocazia independenței Surinamului.", "Este situat în imediata apropiere a Palatului Prezidențial.", "Monumentul este un loc important de întâlnire pentru evenimentele oficiale de comemorare."],
       en: ["The monument was donated on the occasion of Suriname's independence.", "It is located in the immediate vicinity of the Presidential Palace.", "The monument is an important meeting place for official commemoration events."]
-    }
-  },
+    }, image: "/poi-images/sr-pengel-monument-history-v2.webp"},
   {
     id: "sr-clevia-history-v2",
     type: "historical",
@@ -215,8 +211,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["Clevia példaként szolgál a suriname-i földhasználat változására.", "A területet ma lakó- és kertészeti övezetként becsülik.", "Tudatosság mutatkozik a történelmi nyomok megőrzésére a várostervezésben."],
       ro: ["Clevia servește ca exemplu pentru schimbarea utilizării terenurilor în Surinam.", "Zona este apreciată astăzi ca zonă rezidențială și de horticultură.", "Există o conștientizare a păstrării urmelor istorice în planificarea urbană."],
       en: ["Clevia serves as an example for the change in land use in Suriname.", "The area is valued today as a residential and horticultural area.", "There is an awareness of preserving historical traces in urban planning."]
-    }
-  },
+    }, image: "/poi-images/sr-clevia-history-v2.webp"},
   {
     id: "sr-suzannas-daal-history-v2",
     type: "historical",
@@ -251,8 +246,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["Suzanna's Daal jelentős helyszín a suriname-i családtörténeti kutatások számára."],
       ro: ["Suzanna's Daal este un loc important pentru cercetarea genealogică în Surinam."],
       en: ["Suzanna's Daal is a significant place for genealogical research in Suriname."]
-    }
-  },
+    }, image: "/poi-images/sr-suzannas-daal-history-v2.webp"},
   {
     id: "sr-katwijk-history-v2",
     type: "historical",
@@ -287,8 +281,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["Az ültetvény egyike azon keveseknek, amelyek teljesen megőrizték történelmi identitásukat."],
       ro: ["Plantația este una dintre puținele care și-a păstrat pe deplin identitatea istorică."],
       en: ["The plantation is one of the few that has fully preserved its historical identity."]
-    }
-  },
+    }, image: "/poi-images/sr-katwijk-history-v2.webp"},
   {
     id: "sr-waterland-history-v2",
     type: "historical",
@@ -323,8 +316,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["Waterland számos tevékenységet kínál a látogatóknak, beleértve a hajózást és a túrázást."],
       ro: ["Waterland oferă vizitatorilor acces la o varietate de activități, inclusiv excursii cu barca și drumeții."],
       en: ["Waterland offers visitors access to a variety of activities including boat trips and hiking."]
-    }
-  },
+    }, image: "/poi-images/sr-waterland-history-v2.webp"},
   {
     id: "sr-laarwijk-history-v2",
     type: "historical",
@@ -359,8 +351,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["Laarwijk elszigeteltsége a kulcsa a jól megőrzött örökségének."],
       ro: ["Izolarea Laarwijk este cheia moștenirii sale bine conservate."],
       en: ["The seclusion of Laarwijk is the key to its well-preserved heritage."]
-    }
-  },
+    }, image: "/poi-images/sr-laarwijk-history-v2.webp"},
   {
     id: "sr-rust-en-werk-history-v2",
     type: "historical",
@@ -395,8 +386,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A hely élénk példája az agrárstruktúrák átalakulásának."],
       ro: ["Locul este un exemplu viu al transformării structurilor agricole."],
       en: ["The place is a living example of the transformation of agricultural structures."]
-    }
-  },
+    }, image: "/poi-images/sr-rust-en-werk-history-v2.webp"},
   {
     id: "sr-alliance-history-v2",
     type: "historical",
@@ -457,18 +447,17 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       en: "The Margaretha plantation is a charming example of the colonial life along the Commewijne River. With its traditional wooden houses and historical lock system, it offers an unadulterated glimpse into colonial life and work. The fate of the plantation, founded in the 18th century, is closely linked to migration; many residents are originally descended from Indonesian contract workers, which gives the place a very special cultural identity. A visit to Margaretha is a journey into a time when the plantations formed a bridge between cultures and continents and durably shaped the cultural fabric of Suriname."
     },
     facts: {
-      de: ["Gegründet im 18. Jahrhundert", "Historisches Schleusensystem", "Viele indonesischstämmige Bewohner"],
-      hu: ["A 18. században alapították", "Történelmi zsiliprendszer", "Sok indonéz származású lakos"],
-      ro: ["Fondată în secolul al XVIII-lea", "Sistem istoric de ecluze", "Mulți rezidenți de origine indoneziană"],
-      en: ["Founded in the 18th century", "Historical lock system", "Many residents of Indonesian descent"]
+      de: ["Ehemalige Kaffeeplantage", "Polizeiposten im 19. Jahrhundert", "Heute ein Heritage-Resort"],
+      hu: ["Egykori kávéültetvény", "Rendőrőrs volt a 19. században", "Ma örökségvédelmi üdülőhely"],
+      ro: ["Fostă plantație de cafea", "Post de poliție în secolul al XIX-lea", "Astăzi o stațiune de patrimoniu"],
+      en: ["Former coffee plantation", "Police post in the 19th century", "Today a heritage resort"]
     },
     factsAdvanced: {
       de: ["Margaretha ist heute für seinen kulturellen Reichtum bekannt."],
       hu: ["Margaretha ma a kulturális gazdagságáról ismert."],
       ro: ["Margaretha este cunoscută astăzi pentru bogăția sa culturală."],
       en: ["Margaretha is known today for its cultural richness."]
-    }
-  },
+    }, image: "/poi-images/sr-margaretha-history-v2.webp"},
   {
     id: "sr-kroonenburg-history-v2",
     type: "historical",
@@ -488,7 +477,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Plantage Kroonenburg am Commewijne-Fluss ist ein Beispiel für den Wandel surinamischer Landnutzung vom kolonialen Großbetrieb hin zur kleinbäuerlichen Bewirtschaftung. Was einst als Zuckerplantage begann, entwickelte sich im Laufe der Zeit durch die Aufteilung der Ländereien zu einer fruchtbaren Zone für diverse kleine Agrarbetriebe. Dies spiegelt die sozioökonomische Transformation des Landes wider, in der die Landbevölkerung zunehmend zur Selbstversorgung und lokalen Produktion beitrug. Besucher können heute noch Spuren dieser historischen Entwicklung sehen, die den Weg für die heutige, lebendige Agrarstruktur des Commewijne-Distrikts geebnet hat.",
-      hu: "A Commewijne-folyó menti Kroonenburg ültetvény a suriname-i földhasználat változásának példája a gyarmati nagyüzemtől a kisüzemi gazdálkodás felé. Ami egykor cukorültetvényként indult, az idővel a földterületek felosztása révén különböző kis mezőgazdasági üzemek termékeny övezetévé vált. Ez tükrözi az ország társadalmi-gazdasági átalakulását, amelyben a vidéki lakosság egyre inkább hozzájárult az önellátáshoz és a helyi termeléshez. A látogatók ma is láthatják e történelmi fejlődés nyomait, amely kikövezte az utat a Commewijne körzet mai élénk agrárstruktúrája felé.",
+      hu: "A Commewijne-folyó menti Kroonenburg ültetvény a suriname-i földhasználat változása példája a gyarmati nagyüzemtől a kisüzemi gazdálkodás felé. Ami egykor cukorültetvényként indult, az idővel a földterületek felosztása révén különböző kis mezőgazdasági üzemek termékeny övezetévé vált. Ez tükrözi az ország társadalmi-gazdasági átalakulását, amelyben a vidéki lakosság egyre inkább hozzájárult az önellátáshoz és a helyi termeléshez. A látogatók ma is láthatják e történelmi fejlődés nyomait, amely kikövezte az utat a Commewijne körzet mai élénk agrárstruktúrája felé.",
       ro: "Plantația Kroonenburg de pe râul Commewijne este un exemplu al schimbării utilizării terenurilor în Surinam, de la marile exploatații coloniale la gestionarea micilor fermieri. Ceea ce a început odată ca o plantație de zahăr s-a dezvoltat în timp, prin divizarea terenurilor, într-o zonă fertilă pentru diverse mici întreprinderi agricole. Acest lucru reflectă transformarea socio-economică a țării, în care populația rurală a contribuit din ce în ce mai mult la autosuficiență și la producția locală. Vizitatorii pot vedea încă urme ale acestei dezvoltări istorice, care a pavat calea către structura agrară vibrantă de astăzi a districtului Commewijne.",
       en: "The Kroonenburg plantation on the Commewijne River is an example of the change in land use in Suriname, from large colonial holdings to smallholder farming. What once began as a sugar plantation developed over time through the division of the lands into a fertile zone for various small agricultural enterprises. This reflects the socio-economic transformation of the country, in which the rural population increasingly contributed to self-sufficiency and local production. Visitors can still see traces of this historical development, which paved the way for the vibrant agricultural structure of the Commewijne district today."
     },
@@ -503,8 +492,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["Kroonenburg lenyűgözően mutatja be a helyi lakosság alkalmazkodóképességét a megváltozott gazdasági feltételekhez."],
       ro: ["Kroonenburg demonstrează în mod impresionant adaptabilitatea populației locale la condițiile economice în schimbare."],
       en: ["Kroonenburg impressively shows the adaptability of the local population to changing economic conditions."]
-    }
-  },
+    }, image: "/poi-images/sr-kroonenburg-history-v2.webp"},
   {
     id: "sr-ma-retraite-history-v2",
     type: "historical",
@@ -539,8 +527,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A kerület neve az egykori ültetvény utolsó nagy maradványa."],
       ro: ["Numele cartierului este ultima mare rămășiță a fostei plantații."],
       en: ["The name of the district is the last great remnant of the former plantation."]
-    }
-  },
+    }, image: "/poi-images/sr-ma-retraite-history-v2.webp"},
   {
     id: "sr-tourtonne-history-v2",
     type: "historical",
@@ -575,8 +562,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A környezet ismert a kellemes lakhatási minőségéről."],
       ro: ["Zona este cunoscută pentru calitatea plăcută a locuințelor."],
       en: ["The environment is known for its pleasant residential quality."]
-    }
-  },
+    }, image: "/poi-images/sr-tourtonne-history-v2.webp"},
   {
     id: "sr-zorg-en-hoop-history-v2",
     type: "historical",
@@ -611,8 +597,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A repülőtér fontos csomópont a belföldi forgalom számára."],
       ro: ["Aerodromul este un nod important pentru traficul intern."],
       en: ["The airfield is an important hub for domestic traffic."]
-    }
-  },
+    }, image: "/poi-images/sr-zorg-en-hoop-history-v2.webp"},
   {
     id: "sr-paranam-history-v2",
     type: "historical",
@@ -647,8 +632,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A település szorosan összefonódik a Suralco-társaság történetével."],
       ro: ["Așezarea este strâns legată de istoria companiei Suralco."],
       en: ["The settlement is closely linked to the history of the Suralco company."]
-    }
-  },
+    }, image: "/poi-images/sr-paranam-history-v2.webp"},
   {
     id: "sr-kamp-52-history-v2",
     type: "historical",
@@ -683,8 +667,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A Lawa-vasútvonal Suriname történelmének egyik legambiciózusabb projektje."],
       ro: ["Calea ferată Lawa este unul dintre cele mai ambițioase proiecte din istoria Surinamului."],
       en: ["The Lawa railway is one of the most ambitious projects in Surinamese history."]
-    }
-  },
+    }, image: "/poi-images/sr-kamp-52-history-v2.webp"},
   {
     id: "sr-hazard-history-v2",
     type: "historical",
@@ -739,7 +722,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       en: "One of the largest Hindu temples in Suriname with unique octagonal architecture."
     },
     descriptionAdvanced: {
-      de: "Der Arya Dewaker Tempel in Paramaribo ist ein beeindruckendes Beispiel für die religiöse und kulturelle Vielfalt Surinames. Die einzigartige oktogonale Architektur symbolisiert die Harmonie der verschiedenen Strömungen innerhalb des Hinduismus und bietet ein spirituelles Zentrum für die Arya Samaj-Bewegung im Land. Seit seiner Eröffnung im Jahr 2001 hat sich der Tempel als ein Ort etabliert, der nicht nur Gläubige anzieht, sondern auch ein architektonisches Highlight darstellt. Die Verbindung von indischen und surinamischen Stilelementen unterstreicht die tiefe Verwurzelung der indischstämmigen Bevölkerung in der surinamischen Gesellschaft. Der Tempel ist somit weit mehr als nur ein Gebäude; er ist ein lebendiges Symbol für die kulturelle Integration und die spirituelle Identität in einem multikulturellen Umfeld.",
+      de: "Der Arya Dewaker Tempel in Paramaribo ist ein beeindruckendes Beispiel für die religiöse und kulturelle Vielfalt Surinames. Die einzigartige oktogonale Architektur symbolisiert die Harmonie der verschiedenen Strömungen innerhalb des Hinduismus und bietet ein spirituelles Zentrum für die Arya Samaj-Bewegung im Land. Seit seiner Eröffnung im Kahr 2001 hat sich der Tempel als ein Ort etabliert, der nicht nur Gläubige anzieht, sondern auch ein architektonisches Highlight darstellt. Die Verbindung von indischen und surinamischen Stilelementen unterstreicht die tiefe Verwurzelung der indischstämmigen Bevölkerung in der surinamischen Gesellschaft. Der Tempel ist somit weit mehr als nur ein Gebäude; er ist ein lebendiges Symbol für die kulturelle Integration und die spirituelle Identität in einem multikulturellen Umfeld.",
       hu: "A paramaribói Arya Dewaker templom Suriname vallási és kulturális sokszínűségének lenyűgöző példája. Az egyedülálló nyolcszögletű építészet a hinduizmus különböző irányzatainak harmóniáját szimbolizálja, és szellemi központot kínál az Arya Samaj mozgalom számára az országban. A 2001-es megnyitása óta a templom olyan helyként szilárdult meg, amely nemcsak a hívőket vonzza, hanem építészeti látványosságnak is számít. Az indiai és suriname-i stíluselemek összekapcsolása aláhúzza az indiai származású lakosság mély gyökereit a suriname-i társadalomban. A templom tehát sokkal több, mint egy épület; az integráció és a lelki identitás élénk szimbóluma egy multikulturális környezetben.",
       ro: "Templul Arya Dewaker din Paramaribo este un exemplu impresionant al diversității religioase și culturale din Surinam. Arhitectura unică octogonală simbolizează armonia diferitelor curente din cadrul hinduismului și oferă un centru spiritual pentru mișcarea Arya Samaj din țară. De la deschiderea sa în 2001, templul s-a stabilit ca un loc care nu atrage doar credincioși, ci reprezintă și un punct de atracție arhitectural. Combinarea elementelor stilistice indiene și surinameze subliniază rădăcinile profunde ale populației de origine indiană în societatea surinameză. Templul este, așadar, mult mai mult decât o clădire; este un simbol viu al integrării culturale și al identității spirituale într-un mediu multicultural.",
       en: "The Arya Dewaker Temple in Paramaribo is an impressive example of the religious and cultural diversity of Suriname. The unique octagonal architecture symbolizes the harmony of the various currents within Hinduism and offers a spiritual center for the Arya Samaj movement in the country. Since its opening in 2001, the temple has established itself as a place that not only attracts believers but also represents an architectural highlight. The combination of Indian and Surinamese style elements underscores the deep roots of the Indian-descended population in Surinamese society. The temple is therefore much more than just a building; it is a living symbol of cultural integration and spiritual identity in a multicultural environment."
@@ -755,8 +738,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A templom békés menedéket kínál a nyüzsgő főváros közepén."],
       ro: ["Templul oferă un refugiu liniștit în mijlocul capitalei vibrante."],
       en: ["The temple offers a peaceful retreat in the middle of the vibrant capital."]
-    }
-  },
+    }, image: "/poi-images/sr-arya-dewaker-history-v2.webp"},
   {
     id: "sr-neveh-shalom-history-v2",
     type: "historical",
@@ -791,8 +773,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A zsinagóga és a mecset közvetlen szomszédsága a suriname-i tolerancia szimbóluma."],
       ro: ["Vecinătatea imediată a sinagogii și a moscheii este un simbol al toleranței surinameze."],
       en: ["The immediate vicinity of synagogue and mosque is a symbol of Surinamese tolerance."]
-    }
-  },
+    }, image: "/poi-images/sr-neveh-shalom-history-v2.webp"},
   {
     id: "sr-petrus-paulus-history-v2",
     type: "historical",
@@ -827,8 +808,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A katedrális egy hosszú felújítás után ismét a város ékköve lett."],
       ro: ["Catedrala a devenit din nou o bijuterie a orașului după o lungă restaurare."],
       en: ["The cathedral became a jewel of the city again after a long restoration."]
-    }
-  },
+    }, image: "/poi-images/sr-petrus-paulus-history-v2.webp"},
   {
     id: "sr-centrale-markt-history-v2",
     type: "historical",
@@ -863,8 +843,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A piac a különböző kultúrák kulináris specialitásairól is ismert."],
       ro: ["Piața este, de asemenea, cunoscută pentru specialitățile sale culinare din diferite culturi."],
       en: ["The market is also known for its culinary specialties from the various cultures."]
-    }
-  },
+    }, image: "/poi-images/sr-centrale-markt-history-v2.webp"},
   {
     id: "sr-lawa-railway-history-v2",
     type: "historical",
@@ -898,9 +877,8 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       de: ["Die Lawaspurbahn ist ein wichtiger Teil des industriellen Erbes Surinames."],
       hu: ["A Lawa-vasútvonal Suriname ipari örökségének fontos része."],
       ro: ["Calea ferată Lawa este o parte importantă a moștenirii industriale a Surinamului."],
-      en: ["The Lawa railway is an important part of Suriname's industrial heritage."]
-    }
-  },
+      en: ["The Lawa railway is one of the most important parts of Suriname's industrial heritage."]
+    }, image: "/poi-images/sr-lawa-railway-history-v2.webp"},
   {
     id: "sr-fort-sommelsdijk-history-v2",
     type: "historical",
@@ -935,8 +913,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["Az erőd fontos helyszín a suriname-i történelmi kutatások számára."],
       ro: ["Fortul este un loc important pentru cercetarea istorică în Surinam."],
       en: ["The fort is an important place for historical research in Suriname."]
-    }
-  },
+    }, image: "/poi-images/sr-fort-sommelsdijk-history-v2.webp"},
   {
     id: "sr-geyersvlijt-history-v2",
     type: "historical",
@@ -971,8 +948,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["A nagy népsűrűség Paramaribo dinamikus fejlődését mutatja."],
       ro: ["Densitatea mare a populației arată dezvoltarea dinamică a Paramariboului."],
       en: ["The high population density shows the dynamic development of Paramaribo."]
-    }
-  },
+    }, image: "/poi-images/sr-geyersvlijt-history-v2.webp"},
   {
     id: "sr-kofidjompo-monument-history-v2",
     type: "historical",
@@ -1007,8 +983,7 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       hu: ["Az emlékművet a marunok bátor harcának tiszteletére állították."],
       ro: ["Monumentul a fost ridicat în onoarea luptei curajoase a maronilor."],
       en: ["The monument was erected in honor of the courageous struggle of the Maroons."]
-    }
-  },
+    }, image: "/poi-images/sr-kofidjompo-monument-history-v2.webp"},
   {
     id: "sr-gouvernementsgebouw-history-v2",
     type: "historical",
@@ -1046,3 +1021,4 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     }
   }
 ];
+

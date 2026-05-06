@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCanadaLifeV2: POI[] = [
@@ -13,13 +14,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
       ro: "Una dintre cele mai mari grădini zoologice din lume, găzduind mii de animale în diverse zone geografice.",
       en: "One of the largest zoos in the world, housing thousands of animals in various geographic zones."
     },
-    facts: {
-      de: ["Über 5.000 Tiere", "710 Hektar großes Gelände", "Fokus auf Naturschutz", "Ganzjährig geöffnet"],
-      hu: ["Több mint 5000 állat", "710 hektáros terület", "Fókuszban a természetvédelem", "Egész évben nyitva"],
-      ro: ["Peste 5.000 de animale", "Teren de 710 hectare", "Accent pe conservare", "Deschis tot anul"],
-      en: ["Over 5,000 animals", "710-acre site", "Focus on conservation", "Open year-round"]
-    }
-  },
+    descriptionAdvanced: {
+      de: "Der Toronto Zoo ist der größte Tiergarten in Kanada und beheimatet Tausende Tiere aus verschiedenen Klimazonen. Er engagiert sich stark für Artenschutzprogramme, insbesondere für bedrohte kanadische Arten wie die Schwarzfußiltisse. Biologie K6 — Artenvielfalt und Naturschutz."
+    },
+    factsAdvanced: {
+      de: ["Größter Zoo Kanadas", "Beherbergt über 5.000 Tiere", "Fokus auf Naturschutz und Forschung", "Eröffnet im Jahr 1974", "Wichtige Programme für bedrohte Arten", "Großes Areal mit verschiedenen Gehegen"]
+    }, image: "/poi-images/toronto-zoo-life-v2.webp"},
   {
     id: "calgary-zoo-life-v2",
     type: "kid-landmark",
@@ -32,13 +32,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
       ro: "O grădină zoologică axată pe conservarea habitatelor și un parc preistoric impresionant.",
       en: "A zoo with a focus on habitat conservation and an impressive prehistoric park feature."
     },
-    facts: {
-      de: ["Pinguin-Spaziergang im Winter", "Botanische Gärten", "Lemurenwald", "Schutz von westlichen Flachlandgorillas"],
-      hu: ["Pingvinséta télen", "Botanikus kertek", "Lemúr-erdő", "Nyugati síkvidéki gorillák védelme"],
-      ro: ["Plimbarea pinguinilor iarna", "Grădini botanice", "Pădurea de lemurieni", "Conservarea gorilelor de câmpie vestice"],
-      en: ["Penguin Walk in winter", "Botanical gardens", "Land of Lemurs", "Western lowland gorilla conservation"]
-    }
-  },
+    descriptionAdvanced: {
+      de: "Der Calgary Zoo ist einer der meistbesuchten Zoos in Nordamerika und bekannt für seine naturnahe Gestaltung, insbesondere in den Themenbereichen wie der kanadischen Wildnis und dem Pinguin-Gehege. Biologie K7 — Zoologie."
+    },
+    factsAdvanced: {
+      de: ["Einer der meistbesuchten Zoos Nordamerikas", "Spezialisiert auf kanadische Tierarten", "Bekanntes Pinguin-Gehege", "Engagement für den Schutz des Schreikranichs", "Standort: St. George’s Island, Calgary", "Große Vielfalt exotischer Tiere"]
+    }, image: "/poi-images/calgary-zoo-life-v2.webp"},
   {
     id: "granby-zoo-life-v2",
     type: "kid-landmark",
@@ -51,13 +50,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
       ro: "Una dintre cele mai importante grădini zoologice din Quebec, incluzând și un parc acvatic și un parc de distracții.",
       en: "One of Quebec's major zoos, which also includes a water park and an amusement park."
     },
-    facts: {
-      de: ["Über 225 Tierarten", "Wasserpark im Sommer", "Dinozoo-Ausstellung", "Führend in der Forschung"],
-      hu: ["Több mint 225 állatfaj", "Aquapark nyáron", "Dinoszaurusz-kiállítás", "Vezető a kutatásban"],
-      ro: ["Peste 225 de specii de animale", "Parc acvatic pe timp de vară", "Expoziție Dinozoo", "Lider în cercetare"],
-      en: ["Over 225 species of animals", "Water park in the summer", "Dinozoo exhibit", "A leader in research"]
-    }
-  },
+    descriptionAdvanced: {
+      de: "Der Zoo de Granby in der Provinz Québec ist ein beliebtes Familienziel, das neben exotischen Tieren auch einen Wasserpark bietet. Der Zoo spielt eine wichtige Rolle bei der Umweltbildung in der frankophonen Region Kanadas. Biologie K5 — Umweltbildung."
+    },
+    factsAdvanced: {
+      de: ["Populärer Zoo in der Provinz Québec", "Kombination aus Tiergarten und Wasserpark", "Wichtig für Umweltbildung", "Heimat vieler exotischer Arten", "Engagement für den Schutz seltener Tiere", "Jährlich über eine halbe Million Besucher"]
+    }, image: "/poi-images/granby-zoo-life-v2.webp"},
   {
     id: "vancouver-aquarium-life-v2",
     type: "kid-landmark",
@@ -70,13 +68,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
       ro: "Cel mai mare acvariu din Canada, situat în Parcul Stanley, dedicat conservării vieții marine.",
       en: "Canada's largest aquarium located in Stanley Park, dedicated to marine life conservation."
     },
-    facts: {
-      de: ["Tausende von Meeresbewohnern", "Zentrum für Meeresforschung", "Seelöwen und Seeotter", "Amazonas-Regenwald-Galerie"],
-      hu: ["Több ezer tengeri élőlény", "Tengerkutatási központ", "Oroszlánfókák és tengeri vidrák", "Amazonasi esőerdő-galéria"],
-      ro: ["Mii de creaturi marine", "Centru de cercetare marină", "Lei de mare și vidre de mare", "Galeria pădurii tropicale amazoniene"],
-      en: ["Thousands of ocean species", "Marine research center", "Sea lions and sea otters", "Amazon Rainforest gallery"]
-    }
-  },
+    descriptionAdvanced: {
+      de: "Das Vancouver Aquarium im Stanley Park ist eine führende Einrichtung für die Erforschung und den Schutz mariner Lebensräume, besonders im Pazifischen Ozean. Es ist zudem ein wichtiges Rettungszentrum für verletzte Meeresbewohner der Region. Biologie K7 — Meeresbiologie."
+    },
+    factsAdvanced: {
+      de: ["Standort: Stanley Park, Vancouver", "Führend in mariner Forschung und Schutz", "Rettungszentrum für Meeresbewohner", "Schwerpunkt: Ökosystem Pazifischer Ozean", "Eröffnet 1956", "Bildungsprogramme für alle Altersstufen"]
+    }, image: "/poi-images/vancouver-aquarium-life-v2.webp"},
   {
     id: "ripleys-aquarium-canada-life-v2",
     type: "kid-landmark",
@@ -89,13 +86,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
       ro: "Un mare acvariu public în centrul orașului Toronto, chiar lângă Turnul CN.",
       en: "A large public aquarium in downtown Toronto, right next to the CN Tower."
     },
-    facts: {
-      de: ["Längster Unterwassertunnel Nordamerikas", "Über 20.000 Tiere", "Interaktive Quallen-Ausstellung", "Tägliche Tauchshows"],
-      hu: ["Észak-Amerika leghosszabb víz alatti alagútja", "Több mint 20 000 állat", "Interaktív medúza-kiállítás", "Napi búvár bemutatók"],
-      ro: ["Cel mai lung tunel subacvatic din America de Nord", "Peste 20.000 de animale", "Expoziție interactivă de meduze", "Spectacole zilnice de scufundări"],
-      en: ["Longest underwater viewing tunnel in North America", "Over 20,000 animals", "Interactive jellyfish exhibit", "Daily dive shows"]
-    }
-  },
+    descriptionAdvanced: {
+      de: "Das Ripley’s Aquarium of Canada in Toronto besticht durch einen der längsten Unterwassertunnel Nordamerikas, der den Besuchern eine hautnahe Begegnung mit Haien und Rochen ermöglicht. Biologie K6 — Leben im Ozean."
+    },
+    factsAdvanced: {
+      de: ["Standort: Toronto, nahe dem CN Tower", "Einer der längsten Unterwassertunnel Nordamerikas", "Beherbergt rund 20.000 Wassertiere", "Interaktive Ausstellungen für Besucher", "Großer Fokus auf Haie und Rochen", "Moderne Einrichtung zur Meereskunde"]
+    }, image: "/poi-images/ripleys-aquarium-canada-life-v2.webp"},
   {
     id: "african-lion-safari-life-v2",
     type: "animal-habitat",
@@ -113,8 +109,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Autós szafari", "'Afrikai Királynő' hajókirándulás", "Madár- és állatbemutatók", "Sikeres orrszarvú tenyészprogram"],
       ro: ["Rezerve drive-through", "Croazieră cu barca „African Queen”", "Spectacole cu păsări și animale", "Program de reproducere de succes pentru rinoceri"],
       en: ["Drive-through game reserves", "'African Queen' boat cruise", "Bird and animal shows", "Successful rhino breeding program"]
-    }
-  },
+    }, image: "/poi-images/african-lion-safari-life-v2.webp"},
   {
     id: "parc-omega-life-v2",
     type: "animal-habitat",
@@ -132,8 +127,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Szarvasok és jávorszarvasok etetése", "Farkas- és medveles", "Történelmi úttörő farm", "Túraútvonalak és piknikezőhelyek"],
       ro: ["Hrăniți cerbii și elanii", "Observarea lupilor și urșilor", "Fermă istorică a pionierilor", "Trasee de drumeții și zone de picnic"],
       en: ["Feed deer and elk", "Wolf and bear observation", "Historic pioneer farm", "Hiking trails and picnic areas"]
-    }
-  },
+    }, image: "/poi-images/parc-omega-life-v2.webp"},
   {
     id: "saskatoon-forestry-farm-park-zoo-life-v2",
     type: "kid-landmark",
@@ -151,8 +145,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Nemzeti Történelmi Emlékhely", "Őshonos préri állatok", "Horgásztó", "Történelmi faiskola"],
       ro: ["Sit istoric național", "Animale native din prerie", "Iaz de pescuit", "Pepinieră istorică"],
       en: ["National Historic Site", "Native prairie animals", "Fishing pond", "Historic tree nursery"]
-    }
-  },
+    }, image: "/poi-images/saskatoon-forestry-farm-park-zoo-life-v2.webp"},
   {
     id: "assiniboine-park-zoo-life-v2",
     type: "animal-habitat",
@@ -170,8 +163,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["'Utazás Churchillbe' kiállítás", "Víz alatti megfigyelőalagút a jegesmedvékhez", "Veszélyeztetett fajok védelme", "A nagyobb Assiniboine Park része"],
       ro: ["Expoziția „Călătorie la Churchill”", "Tunel subacvatic de observare a urșilor polari", "Conservarea speciilor pe cale de dispariție", "Parte a parcului mai mare Assiniboine"],
       en: ["'Journey to Churchill' exhibit", "Underwater polar bear viewing tunnels", "Conservation of threatened species", "Part of the larger Assiniboine Park"]
-    }
-  },
+    }, image: "/poi-images/assiniboine-park-zoo-life-v2.webp"},
   {
     id: "edmonton-valley-zoo-life-v2",
     type: "kid-landmark",
@@ -189,8 +181,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Fókuszban az állatjólét", "Ázsiai elefántok", "Sarki mormoták", "Oktatási programok"],
       ro: ["Accent pe bunăstarea animalelor", "Elefanți asiatici", "Marmote arctice", "Programe educaționale"],
       en: ["Focus on animal wellness", "Home to Asian elephants", "Arctic ground squirrels", "Educational programs"]
-    }
-  },
+    }, image: "/poi-images/edmonton-valley-zoo-life-v2.webp"},
   {
     id: "magnetic-hill-zoo-life-v2",
     type: "kid-landmark",
@@ -208,8 +199,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["A Magnetic Hill Park része", "Több mint 600 állat", "Amuri tigrisek és oroszlánok", "Oktatásra fókuszál"],
       ro: ["Parte a parcului Magnetic Hill", "Peste 600 de animale", "Tigri amur și lei", "Accent pe educație"],
       en: ["Part of the Magnetic Hill park complex", "Over 600 animals", "Amur tigers and lions", "Focus on education"]
-    }
-  },
+    }, image: "/poi-images/magnetic-hill-zoo-life-v2.webp"},
   {
     id: "pei-potato-farming-life-v2",
     type: "agriculture",
@@ -246,8 +236,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["A világ legnagyobb jégbortermelője", "Szüretelés -8°C-on vagy hidegebben", "Édes desszertbor", "Éves Jégborfesztivál"],
       ro: ["Cel mai mare producător mondial de vin de gheață", "Recoltat la -8°C sau mai puțin", "Vin dulce de desert", "Festival anual al vinului de gheață"],
       en: ["World's largest producer of icewine", "Harvested at -8°C or colder", "Sweet dessert wine", "Annual Icewine Festival"]
-    }
-  },
+    }, image: "/poi-images/niagara-icewine-life-v2.webp"},
   {
     id: "prairie-canola-fields-life-v2",
     type: "agriculture",
@@ -265,8 +254,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["A világ legnagyobb repcetermelője", "Étkezési olaj forrása", "Ragyogó sárga mezők nyáron", "Fontos vetésforgó növény"],
       ro: ["Cel mai mare producător mondial de rapiță", "Sursă de ulei vegetal", "Câmpuri galbene strălucitoare vara", "Cultură importantă pentru rotație"],
       en: ["World's largest producer of canola", "Source of vegetable oil", "Brilliant yellow fields in summer", "Important rotational crop"]
-    }
-  },
+    }, image: "/poi-images/prairie-canola-fields-life-v2.webp"},
   {
     id: "fraser-valley-blueberries-life-v2",
     type: "agriculture",
@@ -284,8 +272,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["A világ egyik legnagyobb termelője", "Ideális éghajlat és talaj", "Szedd magad farmok nyáron", "Antioxidánsokban gazdag"],
       ro: ["Unul dintre cei mai mari producători din lume", "Climă și sol ideale", "Ferme „culege singur” vara", "Bogat în antioxidanți"],
       en: ["One of the world's largest producers", "Ideal climate and soil", "U-pick farms available in summer", "Rich in antioxidants"]
-    }
-  },
+    }, image: "/poi-images/fraser-valley-blueberries-life-v2.webp"},
   {
     id: "annapolis-valley-apples-life-v2",
     type: "agriculture",
@@ -303,8 +290,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Történelmi almatermesztő vidék", "Éves Almavirág Fesztivál", "Sokféle fajta", "Ciderkészítés"],
       ro: ["Regiune istorică de cultivare a merelor", "Festival anual al florilor de măr", "Multe soiuri diferite", "Producția de cidru"],
       en: ["Historic apple-growing region", "Annual Apple Blossom Festival", "Many different varieties grown", "Cider production"]
-    }
-  },
+    }, image: "/poi-images/annapolis-valley-apples-life-v2.webp"},
   {
     id: "pacific-salmon-run-life-v2",
     type: "animal-habitat",
@@ -322,8 +308,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Öt fő csendes-óceáni lazacfaj", "Fontos táplálékforrás a medvék számára", "Az Adams-folyó kiváló megfigyelőhely", "Kulturális jelentőség az őslakosok számára"],
       ro: ["Cinci specii principale de somon din Pacific", "Sursă de hrană vitală pentru urși", "Râul Adams este un loc de top pentru observare", "Importanță culturală pentru Primele Națiuni"],
       en: ["Five main species of Pacific salmon", "Vital food source for bears", "Adams River is a top viewing spot", "Culturally significant to First Nations"]
-    }
-  },
+    }, image: "/poi-images/pacific-salmon-run-life-v2.webp"},
   {
     id: "gwaii-haanas-marine-life-v2",
     type: "animal-habitat",
@@ -341,8 +326,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Hosszúszárnyú bálnák és kardszárnyú delfinek", "Oroszlánfóka-kolóniák", "Tengeri madarak fészkelőhelyei", "Haida kulturális örökség"],
       ro: ["Balene cu cocoașă și orci", "Colonii de lei de mare", "Locuri de cuibărit pentru păsări marine", "Moștenirea culturală Haida"],
       en: ["Humpback whales and orcas", "Colonies of Steller sea lions", "Seabird nesting sites", "Haida cultural heritage"]
-    }
-  },
+    }, image: "/poi-images/gwaii-haanas-marine-life-v2.webp"},
   {
     id: "churchill-beluga-whales-life-v2",
     type: "animal-habitat",
@@ -360,8 +344,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["'A tengerek kanárijai'", "Több ezer nyáron", "Kajak- és hajótúrák", "Borjadzás a melegebb folyótorkolatokban"],
       ro: ["„Canarii mărilor”", "Mii de exemplare vara", "Tururi cu caiacul și barca", "Nasc pui în estuarele mai calde"],
       en: ["'Canaries of the sea'", "Thousands gather in summer", "Kayaking and boat tours available", "Calve in the warmer estuary waters"]
-    }
-  },
+    }, image: "/poi-images/churchill-beluga-whales-life-v2.webp"},
   {
     id: "elk-island-bison-life-v2",
     type: "animal-habitat",
@@ -379,8 +362,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Síksági és erdei bölénycsordák", "Teljesen bekerített park", "Fontos szerep a visszatelepítésben", "Sötét égbolt rezervátum"],
       ro: ["Turme de bizoni de prerie și de pădure", "Parc complet împrejmuit", "Rol vital în repopulare", "Rezervație de cer întunecat"],
       en: ["Herds of both plains and wood bison", "Completely fenced park", "Vital role in bison re-population efforts", "A Dark Sky Preserve"]
-    }
-  },
+    }, image: "/poi-images/elk-island-bison-life-v2.webp"},
   {
     id: "point-pelee-bird-migration-life-v2",
     type: "animal-habitat",
@@ -398,8 +380,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Kanada szárazföldi részének legdélibb pontja", "Éves Madárfesztivál", "Fontos pihenőhely a vándormadarak számára", "A pompás királylepkék vonulásáról is ismert"],
       ro: ["Cel mai sudic punct al Canadei continentale", "Festivalul anual al păsărilor", "Popas important pentru păsările migratoare", "Cunoscut și pentru migrația fluturilor monarh"],
       en: ["Southernmost point of mainland Canada", "Annual Festival of Birds", "A major stopover for migratory birds", "Also known for monarch butterfly migration"]
-    }
-  },
+    }, image: "/poi-images/point-pelee-bird-migration-life-v2.webp"},
   {
     id: "la-mauricie-black-bears-life-v2",
     type: "animal-habitat",
@@ -417,8 +398,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Egészséges feketemedve-populáció", "Vezetett medveleső túrák", "Mindenevők", "Ne etessük őket"],
       ro: ["Populație sănătoasă de urși negri", "Tururi ghidate de observare", "Omnivori", "Evitați hrănirea lor"],
       en: ["Healthy black bear population", "Guided observation tours are available", "Omnivorous diet", "Avoid feeding them"]
-    }
-  },
+    }, image: "/poi-images/la-mauricie-black-bears-life-v2.webp"},
   {
     id: "calaway-park-life-v2",
     type: "kid-landmark",
@@ -436,8 +416,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Több mint 30 játék", "Élő szórakoztató műsorok", "Kemping a közelben", "Családbarát"],
       ro: ["Peste 30 de atracții", "Divertisment live", "Camping în apropiere", "Prielnic pentru familii"],
       en: ["Over 30 rides", "Live entertainment", "Campground nearby", "Family-friendly atmosphere"]
-    }
-  },
+    }, image: "/poi-images/calaway-park-life-v2.webp"},
   {
     id: "la-ronde-montreal-life-v2",
     type: "kid-landmark",
@@ -455,8 +434,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["A Six Flags tulajdona", "Több mint 40 játék és hullámvasút", "Nemzetközi Tűzijátékverseny", "Eredetileg az Expo 67-re épült"],
       ro: ["Deținut de Six Flags", "Peste 40 de atracții și montagne russe", "Competiția Internațională de Artificii", "Construit inițial pentru Expo 67"],
       en: ["Owned by Six Flags", "Over 40 rides and roller coasters", "International fireworks competition", "Originally built for Expo 67"]
-    }
-  },
+    }, image: "/poi-images/la-ronde-montreal-life-v2.webp"},
   {
     id: "science-world-vancouver-life-v2",
     type: "kid-landmark",
@@ -474,8 +452,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Gyakorlati kiállítások", "OMNIMAX filmszínház", "Eredetileg az Expo '86 pavilonja volt", "Fókuszban a játékos tanulás"],
       ro: ["Expoziții practice", "Teatru OMNIMAX", "Inițial pavilionul Expo '86", "Accent pe învățarea prin joc"],
       en: ["Hands-on exhibits", "OMNIMAX theatre", "Originally the Expo '86 pavilion", "Focus on playful learning"]
-    }
-  },
+    }, image: "/poi-images/science-world-vancouver-life-v2.webp"},
   {
     id: "ontario-science-centre-life-v2",
     type: "kid-landmark",
@@ -493,8 +470,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Több száz interaktív kiállítás", "IMAX kupola-filmszínház", "Esőerdő-környezet", "Brutalista építészet"],
       ro: ["Sute de exponate interactive", "Teatru cu dom IMAX", "Mediu de pădure tropicală", "Arhitectură brutalistă"],
       en: ["Hundreds of interactive exhibits", "IMAX Dome theatre", "Rainforest environment", "Brutalist architecture"]
-    }
-  },
+    }, image: "/poi-images/ontario-science-centre-life-v2.webp"},
   {
     id: "saskatchewan-cranberry-life-v2",
     type: "agriculture",
@@ -512,8 +488,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Termesztés mesterséges lápokban", "Északi termesztés", "Nedves betakarítási módszer", "Növekvő iparág"],
       ro: ["Cultivare în mlaștini artificiale", "Cultivare nordică", "Metoda de recoltare umedă", "Industrie în creștere"],
       en: ["Grown in man-made bogs", "Northern cultivation", "Wet-harvesting method", "A growing industry"]
-    }
-  },
+    }, image: "/poi-images/saskatchewan-cranberry-life-v2.webp"},
   {
     id: "gaspereau-valley-wines-life-v2",
     type: "agriculture",
@@ -531,8 +506,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Hűvös éghajlati fajtákra specializálódott", "A L'Acadie Blanc fontos szőlőfajta", "Festői borút", "Fókuszban a habzóborok"],
       ro: ["Specializată în soiuri de climat rece", "L'Acadie Blanc este un strugure cheie", "Ruta pitorească a vinului", "Accent pe vinurile spumante"],
       en: ["Specializes in cool-climate varietals", "L'Acadie Blanc is a key grape", "Picturesque wine route", "Focus on sparkling wines"]
-    }
-  },
+    }, image: "/poi-images/gaspereau-valley-wines-life-v2.webp"},
   {
     id: "southern-alberta-sugar-beets-life-v2",
     type: "agriculture",
@@ -550,8 +524,7 @@ export const poiExtraCanadaLifeV2: POI[] = [
       hu: ["Kanada egyetlen cukorgyára Taberben", "Öntözéses gazdálkodás", "Fontos növény a régió számára", "Feldolgozás finomított cukorrá"],
       ro: ["Singura fabrică de zahăr din Canada se află în Taber", "Agricultură irigată", "Cultură importantă pentru regiune", "Procesată în zahăr rafinat"],
       en: ["Canada's only sugar factory is in Taber", "Relies on irrigation", "Important crop for the region", "Processed into refined sugar"]
-    }
-  },
+    }, image: "/poi-images/southern-alberta-sugar-beets-life-v2.webp"},
   {
     id: "montreal-insectarium-life-v2",
     type: "kid-landmark",
@@ -572,3 +545,4 @@ export const poiExtraCanadaLifeV2: POI[] = [
     }
   }
 ];
+

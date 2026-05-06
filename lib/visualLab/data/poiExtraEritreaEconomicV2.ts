@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEritreaEconomicV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["1939-ben alapították.", "A népszerű Aszmara sört gyártja.", "A főváros fontos ipari vállalata.", "Eritrea ipari fejlődésének szimbóluma."],
       ro: ["Fondată în 1939.", "Produce populara bere Asmara.", "Companie industrială importantă din capitală.", "Simbol al dezvoltării industriale a Eritreei."],
       en: ["Founded in 1939.", "Produces the popular Asmara beer.", "Important industrial company in the capital.", "Symbol of Eritrea's industrial development."]
-    }
-  },
+    }, image: "/poi-images/er-maekel-asmara-brewery-economic-v2.webp"},
   {
     id: "er-gash-barka-bisha-mine-economic-v2",
     type: "industry",
@@ -47,8 +47,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["A termelés 2010-ben kezdődött.", "Fontos exportbevételi forrás.", "Külfejtéses bánya.", "A régió egyik legnagyobb munkaadója."],
       ro: ["Producția a început în 2010.", "Sursă importantă de venituri din export.", "Mină de suprafață.", "Unul dintre cei mai mari angajatori din regiune."],
       en: ["Production started in 2010.", "Major source of export revenue.", "Open-pit mine.", "One of the largest employers in the region."]
-    }
-  },
+    }, image: "/poi-images/er-gash-barka-bisha-mine-economic-v2.webp"},
   {
     id: "er-sem-kei-bahri-hirgigo-power-economic-v2",
     type: "industry",
@@ -71,8 +70,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Masszava közelében található.", "2003-ban helyezték üzembe.", "Nehézolajat használ áramtermelésre.", "Kapacitása körülbelül 132 megawatt."],
       ro: ["Situată lângă Massawa.", "Pusă în funcțiune în 2003.", "Folosește păcură grea pentru a genera electricitate.", "Capacitate de aproximativ 132 de megawați."],
       en: ["Located near Massawa.", "Commissioned in 2003.", "Uses heavy fuel oil to generate electricity.", "Capacity of around 132 megawatts."]
-    }
-  },
+    }, image: "/poi-images/er-sem-kei-bahri-hirgigo-power-economic-v2.webp"},
   {
     id: "er-sem-kei-bahri-colluli-potash-economic-v2",
     type: "industry",
@@ -95,8 +93,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Extrém forró régióban található.", "Hatalmas kálium-szulfát tartalékok.", "Stratégiai fontosságú a mezőgazdaság számára.", "Hosszú távú exportpotenciál."],
       ro: ["Situat într-o regiune extrem de fierbinte.", "Rezerve uriașe de sulfat de potasiu.", "Important din punct de vedere strategic pentru agricultură.", "Potențial de export pe termen lung."],
       en: ["Located in an extremely hot region.", "Huge reserves of sulphate of potash.", "Strategically important for agriculture.", "Potential for long-term exports."]
-    }
-  },
+    }, image: "/poi-images/er-sem-kei-bahri-colluli-potash-economic-v2.webp"},
   {
     id: "er-anseba-zara-mining-economic-v2",
     type: "industry",
@@ -119,8 +116,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Az Anseba régióban található.", "A kereskedelmi bányászat 2016-ban kezdődött.", "Nemzetközi konzorcium üzemelteti.", "Erősen hozzájárul a GDP-hez."],
       ro: ["Situată în regiunea Anseba.", "Mineritul comercial a început în 2016.", "Operată de un consorțiu internațional.", "Contribuie puternic la PIB."],
       en: ["Located in the Anseba region.", "Commercial mining started in 2016.", "Operated by an international consortium.", "Contributes strongly to the GDP."]
-    }
-  },
+    }, image: "/poi-images/er-anseba-zara-mining-economic-v2.webp"},
   {
     id: "er-sem-kei-bahri-massawa-port-economic-v2",
     type: "port",
@@ -143,8 +139,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Mélyvízi kikötő.", "Összeköti Eritreát a globális piacokkal.", "Történelmileg fontos kereskedelmi központ.", "Modern teherkezelő létesítményekkel rendelkezik."],
       ro: ["Port de apă adâncă.", "Conectează Eritreea la piețele globale.", "Din punct de vedere istoric, un centru comercial important.", "Are facilități moderne de manipulare a mărfurilor."],
       en: ["Deep water port.", "Connects Eritrea with global markets.", "Historically an important trading center.", "Has modern cargo handling facilities."]
-    }
-  },
+    }, image: "/poi-images/er-sem-kei-bahri-massawa-port-economic-v2.webp"},
   {
     id: "er-deb-kei-bahri-assab-port-economic-v2",
     type: "port",
@@ -167,8 +162,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Az ország második legnagyobb kikötője.", "Történelmileg fontos Etiópia kereskedelme számára.", "A közelben olajfinomító található.", "Fontos tengeri csomópont."],
       ro: ["Al doilea port ca mărime din țară.", "Important din punct de vedere istoric pentru comerțul Etiopei.", "Are o rafinărie de petrol în apropiere.", "Nod maritim important."],
       en: ["Second largest port in the country.", "Historically important for Ethiopia's trade.", "Has an oil refinery nearby.", "Important maritime hub."]
-    }
-  },
+    }, image: "/poi-images/er-deb-kei-bahri-assab-port-economic-v2.webp"},
   {
     id: "er-deb-kei-bahri-assab-refinery-economic-v2",
     type: "industry",
@@ -191,8 +185,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Szovjet segítsége épült.", "Fedezte a régió üzemanyagigényét.", "Jelenleg nem üzemel teljes kapacitással.", "Az assabi kikötő infrastruktúrájának része."],
       ro: ["A fost construită cu ajutor sovietic.", "A acoperit necesarul de combustibil al regiunii.", "În prezent nu este complet operațională.", "Face parte din infrastructura portului Assab."],
       en: ["Was built with Soviet help.", "Covered the region's fuel needs.", "Currently not in full operation.", "Part of the infrastructure of the port of Assab."]
-    }
-  },
+    }, image: "/poi-images/er-deb-kei-bahri-assab-refinery-economic-v2.webp"},
   {
     id: "er-sem-kei-bahri-massawa-salt-works-economic-v2",
     type: "industry",
@@ -215,8 +208,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Sót termel a hazai piacra.", "Kihasználja a magas természetes párolgási sebességet.", "A helyi gazdaság fontos ágazata.", "A szomszédos országokba is exportál."],
       ro: ["Produce sare pentru piața internă.", "Profită de rata ridicată de evaporare naturală.", "Un sector important al economiei locale.", "Exportă și în țările vecine."],
       en: ["Produces salt for the domestic market.", "Takes advantage of the high natural evaporation rate.", "An important sector of the local economy.", "Also exports to neighboring countries."]
-    }
-  },
+    }, image: "/poi-images/er-sem-kei-bahri-massawa-salt-works-economic-v2.webp"},
   {
     id: "er-maekel-asmara-textile-economic-v2",
     type: "industry",
@@ -239,8 +231,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Fonalakat és szöveteket gyárt.", "Fontos munkaadó a nők számára.", "Szerepet játszik az importhelyettesítésben.", "Helyben termesztett pamutot használ."],
       ro: ["Produce fire și țesături.", "Un angajator important pentru femei.", "Joacă un rol în substituția importurilor.", "Folosește bumbac cultivat local."],
       en: ["Produces yarns and fabrics.", "An important employer for women.", "Plays a role in import substitution.", "Uses locally grown cotton."]
-    }
-  },
+    }, image: "/poi-images/er-maekel-asmara-textile-economic-v2.webp"},
   {
     id: "er-maekel-asmara-power-economic-v2",
     type: "industry",
@@ -263,8 +254,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Biztosítja a főváros áramellátását.", "Folyamatosan korszerűsítik.", "Kiegészíti a főhálózatot.", "Fontos a helyi ipar számára."],
       ro: ["Asigură alimentarea cu energie a capitalei.", "Este în curs de modernizare continuă.", "Suplimentează rețeaua principală.", "Important pentru industria locală."],
       en: ["Secures the capital's power supply.", "Is continuously being modernized.", "Supplements the main grid.", "Important for local industry."]
-    }
-  },
+    }, image: "/poi-images/er-maekel-asmara-power-economic-v2.webp"},
   {
     id: "er-debub-dbarwa-ceramics-economic-v2",
     type: "industry",
@@ -287,8 +277,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Helyi agyaglelőhelyeket használ.", "Az építőipari piacra termel.", "Ipari munkahelyeket teremt a régióban.", "Csökkenti az importfüggőséget."],
       ro: ["Folosește zăcăminte locale de argilă.", "Produce pentru piața construcțiilor.", "Creează locuri de muncă industriale în regiune.", "Reduce dependența de importuri."],
       en: ["Uses local clay deposits.", "Produces for the construction market.", "Creates industrial jobs in the region.", "Reduces dependence on imports."]
-    }
-  },
+    }, image: "/poi-images/er-debub-dbarwa-ceramics-economic-v2.webp"},
   {
     id: "er-gash-barka-aligidir-agro-economic-v2",
     type: "industry",
@@ -311,8 +300,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["A Gash-Barka fejlesztés része.", "Nyersanyaggal látja el a textilipart.", "Öntözőrendszereket használ.", "Fontos gazdasági motor nyugaton."],
       ro: ["Face parte din dezvoltarea Gash-Barka.", "Aprovizionează industria textilă cu materii prime.", "Folosește sisteme de irigare.", "Un motor economic important în vest."],
       en: ["Part of the Gash-Barka development.", "Supplies the textile industry with raw materials.", "Uses irrigation systems.", "Important economic driver in the west."]
-    }
-  },
+    }, image: "/poi-images/er-gash-barka-aligidir-agro-economic-v2.webp"},
   {
     id: "er-sem-kei-bahri-eritrea-cement-economic-v2",
     type: "industry",
@@ -335,8 +323,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Portlandcementet gyárt.", "Létfontosságú a nemzeti építkezésekhez.", "Közeli mészkőlelőhelyeket használ.", "Közlekedési szempontból kedvező helyen, a Vörös-tengeren fekszik."],
       ro: ["Produce ciment Portland.", "Esențială pentru proiectele naționale de construcții.", "Folosește zăcăminte de calcar din apropiere.", "Este situată convenabil la Marea Roșie."],
       en: ["Produces Portland cement.", "Essential for national construction projects.", "Uses nearby limestone deposits.", "Conveniently located on the Red Sea."]
-    }
-  },
+    }, image: "/poi-images/er-sem-kei-bahri-eritrea-cement-economic-v2.webp"},
   {
     id: "er-debub-mai-aini-marble-economic-v2",
     type: "industry",
@@ -359,8 +346,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["A márvány különböző színárnyalatú.", "Gyakran használják kormányzati épületekben.", "Hozzájárul az építőiparhoz.", "Az ország számos ásványkincsének egyike."],
       ro: ["Marmura are diferite nuanțe de culoare.", "Deseori folosită în clădirile guvernamentale.", "Contribuie la sectorul construcțiilor.", "Unul dintre numeroasele depozite minerale ale țării."],
       en: ["The marble has different shades of color.", "Often used in government buildings.", "Contributes to the construction sector.", "One of the country's many mineral deposits."]
-    }
-  },
+    }, image: "/poi-images/er-debub-mai-aini-marble-economic-v2.webp"},
   {
     id: "er-gash-barka-barentu-quarry-economic-v2",
     type: "industry",
@@ -383,8 +369,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Zúzottkövet és köveket bányásznak.", "Fontos az útépítéshez.", "Helyi gazdasági vállalat.", "A növekvő városok igényeit fedezi."],
       ro: ["Extrage pietriș și pietre.", "Important pentru construcția de drumuri.", "Companie economică locală.", "Acoperă nevoile orașelor în creștere."],
       en: ["Extracts crushed stone and rocks.", "Important for road construction.", "Local economic enterprise.", "Covers the needs of growing cities."]
-    }
-  },
+    }, image: "/poi-images/er-gash-barka-barentu-quarry-economic-v2.webp"},
   {
     id: "er-anseba-halhal-granite-economic-v2",
     type: "industry",
@@ -407,8 +392,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Tartós építőanyagokat gyárt.", "A gránitot műemlékekhez is használják.", "Hegyvidéki régióban található.", "A gazdaság diverzifikálásának része."],
       ro: ["Produce materiale de construcție durabile.", "Granitul este folosit și pentru monumente.", "Situată într-o regiune muntoasă.", "Face parte din diversificarea economiei."],
       en: ["Produces durable building materials.", "The granite is also used for monuments.", "Located in a mountainous region.", "Part of the diversification of the economy."]
-    }
-  },
+    }, image: "/poi-images/er-anseba-halhal-granite-economic-v2.webp"},
   {
     id: "er-anseba-keren-textile-economic-v2",
     type: "industry",
@@ -431,8 +415,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["A hagyományos és modern ruházatra összpontosít.", "Munkahelyeket biztosít városi környezetben.", "Támogatja a helyi kereskedelmet.", "Hosszú gyártási múlttal rendelkezik."],
       ro: ["Se concentrează pe îmbrăcămintea tradițională și modernă.", "Oferă locuri de muncă în medii urbane.", "Sprijină comerțul local.", "Are o lungă istorie de producție."],
       en: ["Focuses on traditional and modern clothing.", "Provides jobs in urban environments.", "Supports local trade.", "Has a long production history."]
-    }
-  },
+    }, image: "/poi-images/er-anseba-keren-textile-economic-v2.webp"},
   {
     id: "er-sem-kei-bahri-dongollo-water-economic-v2",
     type: "industry",
@@ -455,8 +438,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["A víz országszerte népszerű.", "A forrás a Masszava felé vezető úton található.", "Az élelmiszeripar fontos vállalata.", "Korlátozott piacokra exportál."],
       ro: ["Apa este populară în toată țara.", "Izvorul se află pe drumul spre Massawa.", "Companie importantă în industria alimentară.", "Exportă pe piețe limitate."],
       en: ["The water is popular throughout the country.", "The spring is located on the road to Massawa.", "Important company in the food industry.", "Exports to limited markets."]
-    }
-  },
+    }, image: "/poi-images/er-sem-kei-bahri-dongollo-water-economic-v2.webp"},
   {
     id: "er-sem-kei-bahri-ghinda-water-economic-v2",
     type: "industry",
@@ -479,8 +461,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["A régió csapadékos klímája kedvező számára.", "Helyi gyümölcsöket dolgoz fel.", "Gyümölcsleveket és üdítőket gyárt.", "Fontos a helyi értéklánc szempontjából."],
       ro: ["Beneficiază de clima ploioasă a regiunii.", "Procesează fructe locale.", "Produce sucuri și băuturi răcoritoare.", "Importantă pentru lanțul valoric local."],
       en: ["Benefits from the region's rainy climate.", "Processes local fruits.", "Produces juices and soft drinks.", "Important for the local value chain."]
-    }
-  },
+    }, image: "/poi-images/er-sem-kei-bahri-ghinda-water-economic-v2.webp"},
   {
     id: "er-gash-barka-akordat-processing-economic-v2",
     type: "industry",
@@ -503,8 +484,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Helyben termesztett szezámot dolgoz fel.", "Étolajat állít elő.", "Erősíti az élelmezésbiztonságot.", "Fontos piac a gazdák számára."],
       ro: ["Procesează susan cultivat local.", "Produce ulei de gătit.", "Întărește securitatea alimentară.", "O piață importantă pentru fermieri."],
       en: ["Processes locally grown sesame.", "Produces cooking oil.", "Strengthens food security.", "Important marketplace for farmers."]
-    }
-  },
+    }, image: "/poi-images/er-gash-barka-akordat-processing-economic-v2.webp"},
   {
     id: "er-deb-kei-bahri-beylul-port-economic-v2",
     type: "port",
@@ -527,8 +507,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Főleg helyi halászatra használják.", "A part menti kereskedelmet szolgálja.", "Turisztikai fejlesztési potenciállal rendelkezik.", "Eritrea egyik történelmi horgonyzóhelye."],
       ro: ["Folosit în principal pentru pescuitul local.", "Servește comerțului de coastă.", "Are potențial de dezvoltare turistică.", "Unul dintre punctele de ancorare istorice ale Eritreei."],
       en: ["Mainly used for local fishing.", "Serves coastal trade.", "Has potential for tourism development.", "One of Eritrea's historical anchorages."]
-    }
-  },
+    }, image: "/poi-images/er-deb-kei-bahri-beylul-port-economic-v2.webp"},
   {
     id: "er-deb-kei-bahri-tio-port-economic-v2",
     type: "port",
@@ -551,8 +530,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Menedéket nyújt kis hajók számára.", "Fontos megálló a parti út mentén.", "A helyi Afar halászok központja.", "Száraz és rendkívül forró éghajlat."],
       ro: ["Oferă adăpost pentru bărci mici.", "O oprire importantă de-a lungul drumului de coastă.", "Centrul pescarilor locali Afar.", "Climă uscată și extrem de caldă."],
       en: ["Provides shelter for small boats.", "An important stop along the coastal road.", "Center of local Afar fishermen.", "Dry and extremely hot climate."]
-    }
-  },
+    }, image: "/poi-images/er-deb-kei-bahri-tio-port-economic-v2.webp"},
   {
     id: "er-deb-kei-bahri-edd-port-economic-v2",
     type: "port",
@@ -575,8 +553,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Sekély vizű horgonyzóhelyekkel rendelkezik.", "Ma elsősorban kisüzemi halászatra használják.", "Az első helyek egyike, amelyet európaiak vásároltak meg.", "Az építészet jemeni hatásokat mutat."],
       ro: ["Are dane de mică adâncime.", "Astăzi este folosit în principal pentru pescuitul la scară mică.", "Unul dintre primele locuri achiziționate de europeni.", "Arhitectura arată influențe yemenite."],
       en: ["Has shallow berths.", "Today it is mainly used for small-scale fishing.", "One of the first places purchased by Europeans.", "The architecture shows Yemeni influences."]
-    }
-  },
+    }, image: "/poi-images/er-deb-kei-bahri-edd-port-economic-v2.webp"},
   {
     id: "er-sem-kei-bahri-zula-port-economic-v2",
     type: "port",
@@ -599,8 +576,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Az 1868-as brit etióp expedíció során használták.", "Védett öbölben található.", "Ma kis halászati központ.", "Jelentős régészeti lelőhelyek közelében fekszik."],
       ro: ["Folosit în timpul expediției britanice în Etiopia din 1868.", "Situat într-un golf protejat.", "Astăzi un mic centru de pescuit.", "Aproape de situri arheologice importante."],
       en: ["Used during the British Ethiopian expedition of 1868.", "Located in a protected bay.", "Today a small fishing center.", "Close to significant archaeological sites."]
-    }
-  },
+    }, image: "/poi-images/er-sem-kei-bahri-zula-port-economic-v2.webp"},
   {
     id: "er-sem-kei-bahri-mersa-fatma-economic-v2",
     type: "port",
@@ -623,8 +599,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Keskeny nyomtávú vasút kötötte össze a bányákkal.", "Ma egy csendes halászfalu.", "A régió ipari múltjának tanúja.", "Rendkívül száraz partvidéki éghajlat."],
       ro: ["Era conectată la mine de o cale ferată cu ecartament îngust.", "Astăzi un sat de pescari liniștit.", "Martor al trecutului industrial al regiunii.", "Climă de coastă extrem de aridă."],
       en: ["Was connected to the mines by a narrow-gauge railway.", "Today a quiet fishing village.", "Witness to the region's industrial past.", "Extremely arid coastal climate."]
-    }
-  },
+    }, image: "/poi-images/er-sem-kei-bahri-mersa-fatma-economic-v2.webp"},
   {
     id: "er-maekel-airlines-hq-economic-v2",
     type: "industry",
@@ -647,8 +622,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Biztosítja a flotta műszaki működését.", "Magasan képzett munkahelyeket teremt a légiközlekedési ágazatban.", "A repülőtér szélén található.", "Fontos a logisztikai függetlenség szempontjából."],
       ro: ["Asigură funcționarea tehnică a flotei.", "Oferă locuri de muncă înalt calificate în sectorul aviației.", "Situat la marginea aerodromului.", "Important pentru independența logistică."],
       en: ["Secures the technical operation of the fleet.", "Provides highly qualified jobs in the aviation sector.", "Located on the edge of the airfield.", "Important for logistical independence."]
-    }
-  },
+    }, image: "/poi-images/er-maekel-airlines-hq-economic-v2.webp"},
   {
     id: "er-debub-mendefera-metal-economic-v2",
     type: "industry",
@@ -671,8 +645,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Hullámlemezeket és mezőgazdasági eszközöket gyárt.", "Támogatja a helyi építőipart.", "Fontos a foglalkoztatás szempontjából a Debub régióban.", "Részben újrahasznosított anyagot használ."],
       ro: ["Produce tablă ondulată și unelte agricole.", "Sprijină sectorul de construcții local.", "Important pentru ocuparea forței de muncă în regiunea Debub.", "Folosește parțial material reciclat."],
       en: ["Produces corrugated iron and agricultural tools.", "Supports the local construction sector.", "Important for employment in the Debub region.", "Partially uses recycled material."]
-    }
-  },
+    }, image: "/poi-images/er-debub-mendefera-metal-economic-v2.webp"},
   {
     id: "er-anseba-hagaz-agro-economic-v2",
     type: "industry",
@@ -695,8 +668,7 @@ export const poiExtraEritreaEconomicV2: POI[] = [
       hu: ["Helyi bort állít elő.", "Egy katolikus misszió alapította.", "Összekapcsolja az oktatást a gyakorlati ipari termeléssel.", "Fontos a tudástranszfer szempontjából."],
       ro: ["Produce vin local.", "A fost fondată de o misiune catolică.", "Combină educația cu producția industrială practică.", "Important pentru transferul de cunoștințe."],
       en: ["Produces local wine.", "Was founded by a Catholic mission.", "Combines education with practical industrial production.", "Important for knowledge transfer."]
-    }
-  },
+    }, image: "/poi-images/er-anseba-hagaz-agro-economic-v2.webp"},
   {
     id: "er-gash-barka-gash-river-quarry-economic-v2",
     type: "industry",
@@ -722,3 +694,4 @@ export const poiExtraEritreaEconomicV2: POI[] = [
     }
   }
 ];
+

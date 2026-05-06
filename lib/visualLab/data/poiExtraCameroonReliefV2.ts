@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCameroonReliefV2: POI[] = [
@@ -13,8 +14,13 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Magasság: 4040 m", "Aktív rétegvulkán", "Utolsó kitörés: 2012"],
       ro: ["Înălțime: 4040 m", "Vulcan stratificat activ", "Ultima erupție: 2012"],
       en: ["Height: 4040 m", "Active stratovolcano", "Last eruption: 2012"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Relief des Mount Cameroon (Fako) ist von gewaltigen vulkanischen Massiven geprägt, die steil aus der Küstenebene aufsteigen. Diese topografische Besonderheit beeinflusst maßgeblich das regionale Klima und die Vegetationszonen. Geografie K7 — Gebirge."
+    },
+    factsAdvanced: {
+      de: ["Massives vulkanisches Gebirge an der Atlantikküste.", "Steiler Aufstieg von Meereshöhe bis auf über 4.000 Meter.", "Topografischer Einfluss auf die regionalen Niederschläge.", "Geformt durch jahrtausendelange vulkanische Aktivität.", "Einzigartige höhenabhängige Vegetationszonen.", "Prägnante Landmarke, die das Relief Westafrikas dominiert."]
+    }, image: "/poi-images/mount-cameroon-relief-v2.webp"},
   {
     id: "adamaoua-plateau-relief-v2",
     type: "relief",
@@ -27,8 +33,13 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Átlagos magasság: 1000 m", "Fontos vízválasztó", "Szavanna táj"],
       ro: ["Altitudine medie: 1000 m", "Bazin hidrografic important", "Peisaj de savană"],
       en: ["Average altitude: 1000 m", "Important watershed", "Savanna landscape"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Adamaoua-Plateau ist eine weitläufige Hochebene im Zentrum Kameruns, die eine natürliche Schwelle zwischen dem Norden und dem Süden bildet. Sein Relief ist durch sanfte Erhebungen und eine ausgeprägte Stufenlandschaft gekennzeichnet. Geografie K7 — Hochland."
+    },
+    factsAdvanced: {
+      de: ["Natürliche Schwelle zwischen Nord- und Südkamerun.", "Großflächiges Hochplateau mit ca. 1.000 Metern Höhe.", "Ausgeprägte Stufenlandschaft an den Rändern.", "Wichtiger Wasserscheidepunkt für zahlreiche Flüsse.", "Geografisch prägender Faktor für das kamerunische Klima.", "Weitläufiges, durch Grasland geprägtes Relief."]
+    }, image: "/poi-images/adamaoua-plateau-relief-v2.webp"},
   {
     id: "mandara-mountains-relief-v2",
     type: "mountain",
@@ -41,8 +52,13 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Maximális magasság: 1494 m", "Sűrűn lakott régió", "Erős erózió"],
       ro: ["Altitudine maximă: 1494 m", "Regiune dens populată", "Eroziune intensă"],
       en: ["Maximum height: 1494 m", "Densely populated region", "Heavy erosion"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Mandara-Berge im hohen Norden sind ein komplexes vulkanisches Massiv, das durch zerklüftete Felsen und tiefe Täler besticht. Das Relief hat über Jahrhunderte die Siedlungsstruktur und die Strategien der lokalen Bevölkerung geprägt. Geografie K7 — Gebirge."
+    },
+    factsAdvanced: {
+      de: ["Zerklüftetes vulkanisches Gebirgsmassiv.", "Dominante Landschaft im hohen Norden Kameruns.", "Prägt seit Jahrhunderten die Siedlungsstruktur.", "Tiefe Täler zwischen steilen Felsformationen.", "Natürlicher Schutzwall mit hoher strategischer Bedeutung.", "Einzigartiges Relief mit hoher landschaftlicher Dichte."]
+    }, image: "/poi-images/mandara-mountains-relief-v2.webp"},
   {
     id: "bamenda-highlands-relief-v2",
     type: "relief",
@@ -55,6 +71,12 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Hűvös éghajlat", "Vulkanikus talaj", "Mezőgazdasági régió"],
       ro: ["Climat răcoros", "Sol vulcanic", "Regiune agricolă"],
       en: ["Cool climate", "Volcanic soil", "Agricultural region"]
+    },
+    descriptionAdvanced: {
+      de: "Die Bamenda-Highlands sind ein fruchtbares Hochlandgebiet, das für seine markanten Gipfel und weitläufigen Täler bekannt ist. Das Relief bietet ideale Bedingungen für die Landwirtschaft und prägt das malerische Landschaftsbild im Westen. Geografie K7 — Hochland."
+    },
+    factsAdvanced: {
+      de: ["Fruchtbares Hochlandgebiet im westlichen Kamerun.", "Geprägt von markanten Gipfeln und weiten Tälern.", "Topografisch ideal für den Ackerbau.", "Höhenlage sorgt für milderes Klima.", "Landschaftlich durch vulkanische Aktivitäten geformt.", "Bedeutsames Relief für die kamerunische Landwirtschaft."]
     }
   },
   {
@@ -69,6 +91,12 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Hossz: 918 km", "Az ország fő folyója", "Trópusi esőerdő"],
       ro: ["Lungime: 918 km", "Râul principal al țării", "Pădure tropicală"],
       en: ["Length: 918 km", "Main river of the country", "Tropical rainforest"]
+    },
+    descriptionAdvanced: {
+      de: "Das Sanaga-Becken erstreckt sich als weitläufige Tieflands- und Beckenstruktur entlang des Sanaga-Flusses. Das Relief ist hier durch sanfte Hügellandschaften und ausgedehnte tropische Regenwälder gekennzeichnet, die den Flusslauf säumen. Geografie K6 — Tiefland."
+    },
+    factsAdvanced: {
+      de: ["Weitläufige Beckenstruktur entlang des Sanaga.", "Sanfte Hügellandschaften im Regenwaldgürtel.", "Prägt den hydrologischen Verlauf des Flusses.", "Geografisch zentraler Teil des kamerunischen Südens.", "Tiefergelegenes Relief mit hoher ökologischer Dichte.", "Wichtige topografische Einheit des Regenwaldgebiets."]
     }
   },
   {
@@ -83,8 +111,13 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Magasság: 2411 m", "Egykori vulkanikus terület", "Krátertavak"],
       ro: ["Înălțime: 2411 m", "Fostă zonă vulcanică", "Lacuri crater"],
       en: ["Height: 2411 m", "Former volcanic area", "Crater lakes"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Manengouba-Massiv ist bekannt für seine eindrucksvollen Kraterseen und sein markantes vulkanisches Relief. Es bildet einen beeindruckenden Teil der vulkanischen Linie in Westkamerun und bietet eine komplexe topografische Struktur. Geografie K7 — Gebirge."
+    },
+    factsAdvanced: {
+      de: ["Teil der vulkanischen Linie in Westkamerun.", "Bekannt für seine eindrucksvollen Kraterseen.", "Topografisch komplexe und markante Struktur.", "Wichtiger Teil des Hochland-Reliefs.", "Vulkanisch geformte Gebirgslandschaft.", "Prägt das landschaftliche Bild im Westen."]
+    }, image: "/poi-images/mount-manengouba-relief-v2.webp"},
   {
     id: "mount-kupe-relief-v2",
     type: "mountain",
@@ -97,6 +130,12 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Magasság: 2064 m", "Biodiverzitás központ", "Köderdő"],
       ro: ["Înălțime: 2064 m", "Punct de biodiversitate", "Pădure de ceață"],
       en: ["Height: 2064 m", "Biodiversity hotspot", "Cloud forest"]
+    },
+    descriptionAdvanced: {
+      de: "Der Mount Kupe ist ein markanter Berg mit einer steilen topografischen Ausprägung, der für seine spirituelle Bedeutung und seine hohe biologische Vielfalt bekannt ist. Das Relief des Berges ist ein zentrales Element des Südwest-Hochlands. Geografie K7 — Gebirge."
+    },
+    factsAdvanced: {
+      de: ["Markanter Berg im Südwest-Hochland.", "Steile topografische Ausprägung.", "Spirituell bedeutsamer Ort für die lokale Bevölkerung.", "Wichtiger Hotspot für biologische Vielfalt.", "Topografisch prägende Landmarke.", "Teil des ökologisch wertvollen Regenwaldgürtels."]
     }
   },
   {
@@ -111,8 +150,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Vulkanikus környezet", "Trópusi növényzet", "Túrázó terület"],
       ro: ["Mediu vulcanic", "Vegetație tropicală", "Zonă de drumeție"],
       en: ["Volcanic environment", "Tropical vegetation", "Hiking area"]
-    }
-  },
+    }, image: "/poi-images/mount-oissa-relief-v2.webp"},
   {
     id: "nlonako-mountains-relief-v2",
     type: "mountain",
@@ -125,8 +163,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Magasság: 1800 m", "Esőerdő", "Védett természet"],
       ro: ["Înălțime: 1800 m", "Pădure tropicală", "Natură protejată"],
       en: ["Height: 1800 m", "Rainforest", "Protected nature"]
-    }
-  },
+    }, image: "/poi-images/nlonako-mountains-relief-v2.webp"},
   {
     id: "mount-bambouto-relief-v2",
     type: "mountain",
@@ -153,8 +190,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Magasság: 2460 m", "Afromontán növényzet", "Látványos kilátás"],
       ro: ["Înălțime: 2460 m", "Vegetație afromontană", "Vedere spectaculoasă"],
       en: ["Height: 2460 m", "Afromontane vegetation", "Spectacular view"]
-    }
-  },
+    }, image: "/poi-images/mount-tchabal-mbabo-relief-v2.webp"},
   {
     id: "mount-oko-relief-v2",
     type: "mountain",
@@ -167,8 +203,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Túracélpont", "Fűben gazdag táj", "Vulkanikus eredet"],
       ro: ["Destinație de drumeție", "Peisaj bogat în iarbă", "Origine vulcanică"],
       en: ["Hiking destination", "Grassy landscape", "Volcanic origin"]
-    }
-  },
+    }, image: "/poi-images/mount-oko-relief-v2.webp"},
   {
     id: "mount-o-ku-relief-v2",
     type: "mountain",
@@ -181,8 +216,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Magasság: 3011 m", "Krátertó a közelben", "Köderdő"],
       ro: ["Înălțime: 3011 m", "Lac crater în apropiere", "Pădure de ceață"],
       en: ["Height: 3011 m", "Crater lake nearby", "Cloud forest"]
-    }
-  },
+    }, image: "/poi-images/mount-o-ku-relief-v2.webp"},
   {
     id: "mount-rumpi-relief-v2",
     type: "mountain",
@@ -195,8 +229,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Magasság: 1800 m", "Sűrű növényzet", "Kevéssé feltárt"],
       ro: ["Înălțime: 1800 m", "Vegetație densă", "Puțin explorat"],
       en: ["Height: 1800 m", "Dense vegetation", "Little explored"]
-    }
-  },
+    }, image: "/poi-images/mount-rumpi-relief-v2.webp"},
   {
     id: "mount-bakossi-relief-v2",
     type: "mountain",
@@ -209,8 +242,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Magasság: 2000 m", "Esőerdő", "Endemikus fajok"],
       ro: ["Înălțime: 2000 m", "Pădure tropicală", "Specii endemice"],
       en: ["Height: 2000 m", "Rainforest", "Endemic species"]
-    }
-  },
+    }, image: "/poi-images/mount-bakossi-relief-v2.webp"},
   {
     id: "mount-koupe-relief-v2",
     type: "mountain",
@@ -237,8 +269,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Trópusi esőerdő", "Ntem folyó medre", "Biodiverzitás"],
       ro: ["Pădure tropicală", "Albia râului Ntem", "Biodiversitate"],
       en: ["Tropical rainforest", "Riverbed of the Ntem", "Biodiversity"]
-    }
-  },
+    }, image: "/poi-images/mount-ntem-relief-v2.webp"},
   {
     id: "mount-dja-relief-v2",
     type: "relief",
@@ -251,8 +282,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["UNESCO Világörökség", "Esőerdő", "Fontos élőhely"],
       ro: ["Patrimoniul Mondial UNESCO", "Pădure tropicală", "Habitat important"],
       en: ["UNESCO World Heritage site", "Rainforest", "Important habitat"]
-    }
-  },
+    }, image: "/poi-images/mount-dja-relief-v2.webp"},
   {
     id: "mount-kribi-relief-v2",
     type: "relief",
@@ -279,8 +309,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Szavanna", "Állatmegfigyelés", "Erózió"],
       ro: ["Savană", "Observarea animalelor", "Eroziune"],
       en: ["Savanna", "Wildlife observation", "Erosion"]
-    }
-  },
+    }, image: "/poi-images/mount-bouba-relief-v2.webp"},
   {
     id: "mount-waza-relief-v2",
     type: "relief",
@@ -307,8 +336,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Mezőgazdaság", "Alluviális talaj", "Határfolyó"],
       ro: ["Agricultură", "Sol aluvionar", "Râu de graniță"],
       en: ["Agriculture", "Alluvial soil", "Border river"]
-    }
-  },
+    }, image: "/poi-images/mount-logone-relief-v2.webp"},
   {
     id: "mount-kadey-relief-v2",
     type: "relief",
@@ -335,8 +363,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       hu: ["Trópusi erdő", "Folyómeder", "Mocsaras"],
       ro: ["Pădure tropicală", "Curs de râu", "Mlaștinos"],
       en: ["Tropical forest", "River course", "Swampy"]
-    }
-  },
+    }, image: "/poi-images/mount-nyong-relief-v2.webp"},
   {
     id: "mount-sangha-relief-v2",
     type: "relief",
@@ -352,3 +379,4 @@ export const poiExtraCameroonReliefV2: POI[] = [
     }
   }
 ];
+

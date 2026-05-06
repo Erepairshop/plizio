@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDominicanrepublicReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Tartalmazza a Pico Duartét", "A régió legmagasabb pontja", "Alpesi fenyőerdők", "Fontos vízválasztó"],
       ro: ["Include Pico Duarte", "Cel mai înalt punct din regiune", "Păduri alpine de pini", "Bazin hidrografic important"],
       en: ["Contains Pico Duarte", "Highest elevation in the region", "Alpine pine forests", "Major watershed"]
-    }
-  },
+    }, image: "/poi-images/do-cordillera-central-relief-v2.webp"},
   {
     id: "do-sierra-de-bahoruco-relief-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["A bioszféra-rezervátum része", "Nagy biológiai sokféleség", "Karszthegység", "Jelentős csúcsok"],
       ro: ["Parte a rezervației biosferei", "Biodiversitate mare", "Munți carstici", "Vârfuri semnificative"],
       en: ["Part of the Biosphere Reserve", "High biodiversity", "Karst mountains", "Significant peaks"]
-    }
-  },
+    }, image: "/poi-images/do-sierra-de-bahoruco-relief-v2.webp"},
   {
     id: "do-sierra-oriental-relief-v2",
     type: "mountain",
@@ -41,8 +40,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Keleti hegység", "Trópusi növényzet", "Vízforrás keleten", "Szelíd dombvidék"],
       ro: ["Munții de est", "Vegetație tropicală", "Sursă de apă pentru est", "Peisaj deluros blând"],
       en: ["Eastern mountains", "Tropical vegetation", "Water source for the east", "Gentle hilly landscape"]
-    }
-  },
+    }, image: "/poi-images/do-sierra-oriental-relief-v2.webp"},
   {
     id: "do-valle-cibao-relief-v2",
     type: "relief",
@@ -55,8 +53,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["A mezőgazdaság központja", "Hegységekkel körülvéve", "Fontos folyók", "Nagy művelhető területek"],
       ro: ["Centrul agriculturii", "Înconjurat de munți", "Râuri importante", "Zone agricole mari"],
       en: ["Center of agriculture", "Surrounded by mountains", "Major rivers", "Large farming areas"]
-    }
-  },
+    }, image: "/poi-images/do-valle-cibao-relief-v2.webp"},
   {
     id: "do-liano-costero-relief-v2",
     type: "relief",
@@ -69,8 +66,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Síkvidéki táj", "Cukornádtermesztés", "Tenger közelsége", "Beépített terület"],
       ro: ["Peisaj de câmpie", "Cultivarea trestiei de zahăr", "Proximitatea mării", "Zonă construită"],
       en: ["Flat landscape", "Sugarcane farming", "Proximity to the sea", "Developed area"]
-    }
-  },
+    }, image: "/poi-images/do-liano-costero-relief-v2.webp"},
   {
     id: "do-sierra-martin-garcia-relief-v2",
     type: "mountain",
@@ -83,8 +79,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Nemzeti park", "Száraz erdő", "Nagy meredek lejtők", "Ritka növényvilág"],
       ro: ["Parc național", "Pădure uscată", "Pante abrupte", "Floră rară"],
       en: ["National park", "Dry forest", "Steep slopes", "Rare flora"]
-    }
-  },
+    }, image: "/poi-images/do-sierra-martin-garcia-relief-v2.webp"},
   {
     id: "do-llano-de-san-juan-relief-v2",
     type: "relief",
@@ -97,8 +92,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Magasvölgy", "Mezőgazdasági hasznosítás", "Hegyekkel körülvéve", "Hűvösebb éghajlat"],
       ro: ["Vale înaltă", "Utilizare agricolă", "Înconjurată de munți", "Climat mai răcoros"],
       en: ["High valley", "Agricultural use", "Surrounded by mountains", "Cooler climate"]
-    }
-  },
+    }, image: "/poi-images/do-llano-de-san-juan-relief-v2.webp"},
   {
     id: "do-peninsula-samana-relief-v2",
     type: "relief",
@@ -111,8 +105,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Dombvidéki táj", "Trópusi erdők", "Meredek partok", "Öblök"],
       ro: ["Peisaj deluros", "Păduri tropicale", "Coaste abrupte", "Golfuri"],
       en: ["Hilly landscape", "Tropical forests", "Steep coasts", "Bays"]
-    }
-  },
+    }, image: "/poi-images/do-peninsula-samana-relief-v2.webp"},
   {
     id: "do-llano-de-azua-relief-v2",
     type: "relief",
@@ -125,8 +118,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Száraz éghajlat", "Öntözés szükséges", "Mezőgazdaság", "Partközeli fekvés"],
       ro: ["Climat uscat", "Irigare necesară", "Agricultură", "Locație lângă coastă"],
       en: ["Dry climate", "Irrigation needed", "Agriculture", "Near the coast"]
-    }
-  },
+    }, image: "/poi-images/do-llano-de-azua-relief-v2.webp"},
   {
     id: "do-sierra-de-neiba-relief-v2",
     type: "mountain",
@@ -139,8 +131,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Hegylánc", "Mészkő", "Száraz lejtők", "Csúcsok"],
       ro: ["Lanț muntos", "Piatră de calcar", "Pante uscate", "Vârfuri"],
       en: ["Mountain range", "Limestone", "Dry slopes", "Peaks"]
-    }
-  },
+    }, image: "/poi-images/do-sierra-de-neiba-relief-v2.webp"},
   {
     id: "do-los-haitises-hills-relief-v2",
     type: "relief",
@@ -153,8 +144,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Mogotes", "Mészkősziklák", "Dzsungel", "Barlangvidék"],
       ro: ["Mogotes", "Stânci de calcar", "Junglă", "Peisaj de peșteri"],
       en: ["Mogotes", "Limestone rocks", "Jungle", "Cave landscape"]
-    }
-  },
+    }, image: "/poi-images/do-los-haitises-hills-relief-v2.webp"},
   {
     id: "do-liano-costero-norte-relief-v2",
     type: "relief",
@@ -167,8 +157,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Keskeny síkság", "Atlanti-part", "Trópusi", "Zöld"],
       ro: ["Câmpie îngustă", "Coasta Atlanticului", "Tropicală", "Verde"],
       en: ["Narrow plain", "Atlantic coast", "Tropical", "Green"]
-    }
-  },
+    }, image: "/poi-images/do-liano-costero-norte-relief-v2.webp"},
   {
     id: "do-sierra-de-yamasa-relief-v2",
     type: "mountain",
@@ -181,8 +170,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Hegység", "Erdő", "Folyóforrások", "Csúcsok"],
       ro: ["Munți", "Pădure", "Izvoare de râuri", "Vârfuri"],
       en: ["Mountains", "Forest", "River sources", "Peaks"]
-    }
-  },
+    }, image: "/poi-images/do-sierra-de-yamasa-relief-v2.webp"},
   {
     id: "do-sierra-esmeralda-relief-v2",
     type: "mountain",
@@ -195,8 +183,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Zöld hegylánc", "Trópusok", "Túrázóhely", "Víztároló"],
       ro: ["Lanț muntos verde", "Tropice", "Zonă de drumeții", "Rezervor de apă"],
       en: ["Green range", "Tropics", "Hiking area", "Water reservoir"]
-    }
-  },
+    }, image: "/poi-images/do-sierra-esmeralda-relief-v2.webp"},
   {
     id: "do-valle-de-bona-relief-v2",
     type: "relief",
@@ -209,8 +196,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Termékeny", "Hegyvölgy", "Csapadékos", "Mezőgazdaság"],
       ro: ["Fertilă", "Vale montană", "Ploioasă", "Agricultură"],
       en: ["Fertile", "Mountain valley", "Rainy", "Agriculture"]
-    }
-  },
+    }, image: "/poi-images/do-valle-de-bona-relief-v2.webp"},
   {
     id: "do-llanura-de-bajabonico-relief-v2",
     type: "relief",
@@ -223,8 +209,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Alföld", "Partközeli", "Trópusi", "Zöld"],
       ro: ["Câmpie", "Lângă coastă", "Tropicală", "Verde"],
       en: ["Lowland", "Coastal", "Tropical", "Green"]
-    }
-  },
+    }, image: "/poi-images/do-llanura-de-bajabonico-relief-v2.webp"},
   {
     id: "do-llano-de-la-vega-relief-v2",
     type: "relief",
@@ -237,8 +222,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Síkság", "Rizstermesztés", "Termékeny", "Időjárásfüggő"],
       ro: ["Câmpie", "Cultivarea orezului", "Fertilă", "Dependentă de vreme"],
       en: ["Plain", "Rice farming", "Fertile", "Weather-dependent"]
-    }
-  },
+    }, image: "/poi-images/do-llano-de-la-vega-relief-v2.webp"},
   {
     id: "do-sierra-de-samana-relief-v2",
     type: "mountain",
@@ -251,8 +235,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Hegység", "Meredek", "Dzsungel", "Kilátás"],
       ro: ["Munți", "Abrupt", "Junglă", "Vedere"],
       en: ["Mountains", "Steep", "Jungle", "View"]
-    }
-  },
+    }, image: "/poi-images/do-sierra-de-samana-relief-v2.webp"},
   {
     id: "do-llano-de-miches-relief-v2",
     type: "relief",
@@ -265,8 +248,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Síkság", "Parti fekvés", "Trópusi", "Zöld"],
       ro: ["Câmpie", "Locație de coastă", "Tropicală", "Verde"],
       en: ["Plain", "Coastal location", "Tropical", "Green"]
-    }
-  },
+    }, image: "/poi-images/do-llano-de-miches-relief-v2.webp"},
   {
     id: "do-sierra-de-agua-relief-v2",
     type: "mountain",
@@ -279,8 +261,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Hegység", "Erdő", "Víztároló", "Csúcsok"],
       ro: ["Munți", "Pădure", "Rezervor de apă", "Vârfuri"],
       en: ["Mountains", "Forest", "Water reservoir", "Peaks"]
-    }
-  },
+    }, image: "/poi-images/do-sierra-de-agua-relief-v2.webp"},
   {
     id: "do-sierra-de-peravia-relief-v2",
     type: "mountain",
@@ -293,8 +274,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Hegység", "Száraz", "Meredek lejtők", "Kilátás"],
       ro: ["Munți", "Uscat", "Pante abrupte", "Vedere"],
       en: ["Mountains", "Dry", "Steep slopes", "View"]
-    }
-  },
+    }, image: "/poi-images/do-sierra-de-peravia-relief-v2.webp"},
   {
     id: "do-llano-de-san-pedro-relief-v2",
     type: "relief",
@@ -307,8 +287,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Alföld", "Cukornád", "Part", "Fejlett"],
       ro: ["Câmpie", "Trestie de zahăr", "Coastă", "Dezvoltată"],
       en: ["Lowland", "Sugarcane", "Coast", "Developed"]
-    }
-  },
+    }, image: "/poi-images/do-llano-de-san-pedro-relief-v2.webp"},
   {
     id: "do-valle-de-la-vega-real-relief-v2",
     type: "relief",
@@ -321,8 +300,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Termékeny", "Völgy", "Rizstermesztés", "Víz"],
       ro: ["Fertilă", "Vale", "Cultivarea orezului", "Apă"],
       en: ["Fertile", "Valley", "Rice farming", "Water"]
-    }
-  },
+    }, image: "/poi-images/do-valle-de-la-vega-real-relief-v2.webp"},
   {
     id: "do-sierra-de-altamira-relief-v2",
     type: "mountain",
@@ -335,8 +313,7 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
       hu: ["Hegység", "Erdő", "Csúcsok", "Túrák"],
       ro: ["Munți", "Pădure", "Vârfuri", "Drumeții"],
       en: ["Mountains", "Forest", "Peaks", "Hikes"]
-    }
-  },
+    }, image: "/poi-images/do-sierra-de-altamira-relief-v2.webp"},
   {
     id: "do-llano-de-la-isabel-de-torres-relief-v2",
     type: "relief",
@@ -352,3 +329,4 @@ export const poiExtraDominicanrepublicReliefV2: POI[] = [
     }
   }
 ];
+

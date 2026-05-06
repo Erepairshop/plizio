@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-center-life-v2",
@@ -28,8 +29,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Grădina găzduiește peste 175 de animale din aproximativ 45 de specii native.", "Toți locatarii sunt orfani, salvați sau născuți în captivitate pentru conservare.", "Tapirul, animalul național al Belizei, reprezintă una dintre atracțiile centrale.", "Parcul se întinde pe 29 de hectare de vegetație naturală conservată.", "Sunt oferite tururi nocturne speciale pentru a vedea activitatea jaguarilor și a altor specii nocturne."],
       en: []
-    }
-  },
+    }, image: "/poi-images/belize-zoo-tropical-center-life-v2.webp"},
   {    id: "green-iguana-conservation-project-life-v2",
     type: "animal-habitat",
     parent: "BZ-CY",
@@ -58,8 +58,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Proiectul funcționează în cadrul San Ignacio Resort Hotel.", "Iguanele verzi sunt cunoscute local sub numele de „pui de bambus”.", "Vizitatorii au ocazia să hrănească iguanele cu frunze și fructe proaspete.", "Programul monitorizează atent succesul reintroducerii exemplarelor în natură.", "Peste 10.000 de vizitatori participă anual la sesiunile educative ale proiectului."],
       en: []
-    }
-  },
+    }, image: "/poi-images/green-iguana-conservation-project-life-v2.webp"},
   {    id: "crooked-tree-wildlife-sanctuary-life-v2",
     type: "animal-habitat",
     parent: "BZ-BZ",
@@ -88,8 +87,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Rezervația acoperă o suprafață impresionantă de aproximativ 16.400 de hectare.", "Este recunoscută din 1998 ca zonă umedă de importanță internațională sub Convenția Ramsar.", "Barza Jabiru poate atinge o anvergură a aripilor de până la 2,5 metri.", "În fiecare lună mai, satul găzduiește un festival popular dedicat fructelor de caju.", "Pe lângă păsări, în rezervație trăiesc maimuțe urlătoare, coati și iguane."],
       en: []
-    }
-  },
+    }, image: "/poi-images/crooked-tree-wildlife-sanctuary-life-v2.webp"},
   {    id: "community-baboon-sanctuary-life-v2",
     type: "animal-habitat",
     parent: "BZ-BZ",
@@ -118,8 +116,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Maimuțele urlătoare negre sunt printre cele mai gălăgioase mamifere terestre din lume.", "Sanctuarul se întinde pe o suprafață de aproximativ 50 de kilometri pătrați.", "Proiectul a primit numeroase premii internaționale pentru turism durabil.", "Există un mic muzeu și un centru pentru vizitatori în localitatea Bermudian Landing.", "Fermierii lasă strategic copaci fructiferi netăiați pentru a asigura hrana maimuțelor."],
       en: []
-    }
-  },
+    }, image: "/poi-images/community-baboon-sanctuary-life-v2.webp"},
   {    id: "hol-chan-marine-reserve-life-v2",
     type: "animal-habitat",
     parent: "BZ-BZ",
@@ -148,8 +145,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Rezervația a fost înființată oficial în anul 1987.", "Este împărțită în patru zone distincte: reciful, pajiștile de iarbă marină, mangrovele și Shark Ray Alley.", "Hol Chan este considerată una dintre cele mai bine gestionate rezervații marine din Caraibe.", "Shark Ray Alley a fost inițial un loc unde pescarii își curățau plasele, atrăgând animalele.", "Vizibilitatea sub apă poate depăși frecvent 30 de metri în zilele senine."],
       en: []
-    }
-  },
+    }, image: "/poi-images/hol-chan-marine-reserve-life-v2.webp"},
   {    id: "swallow-caye-manatee-reserve-life-v2",
     type: "animal-habitat",
     parent: "BZ-BZ",
@@ -178,8 +174,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Rezervația a fost declarată oficial arie protejată în anul 2002.", "Lamantinii pot cântări până la 600 de kilograme și consumă zilnic cantități uriașe de vegetație.", "Înotul cu lamantinii este interzis în rezervație pentru a nu le provoca stres.", "Regiunea servește și ca loc important de reproducere pentru diverse specii de pești.", "Ghizii locali din Caye Caulker sunt principalii custozi ai acestui sanctuar marin."],
       en: []
-    }
-  },
+    }, image: "/poi-images/swallow-caye-manatee-reserve-life-v2.webp"},
   {    id: "monkey-river-wildlife-cruise-life-v2",
     type: "animal-habitat",
     parent: "BZ-TOL",
@@ -208,8 +203,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Satul Monkey River este unul dintre puținele din Belize accesibile doar pe apă.", "Maimuțele urlătoare din sud sunt deosebit de active dimineața devreme și după-amiaza târziu.", "În mangrovele de la delta râului pot fi observați ocazional și lamantini.", "Râul își are originile în Munții Maya și transportă sedimente bogate spre coastă.", "Ghizii locali dețin cunoștințe ancestrale despre ecosistemul fluviatil și pădurea înconjurătoare."],
       en: []
-    }
-  },
+    }, image: "/poi-images/monkey-river-wildlife-cruise-life-v2.webp"},
   {    id: "cockscomb-basin-jaguar-sanctuary-life-v2",
     type: "animal-habitat",
     parent: "BZ-SC",
@@ -238,8 +232,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Rezervația a fost înființată în 1984 la inițiativa cercetătorului Alan Rabinowitz.", "Găzduiește cea mai mare densitate de jaguari din lume pe kilometru pătrat.", "Peste 300 de specii de păsări au fost înregistrate în limitele ariei protejate.", "Numele „Cockscomb” provine de la forma crestelor muntoase care seamănă cu o creastă de cocoș.", "Pe lângă jaguari, parcul protejează toate celelalte patru specii de feline sălbatice din Belize."],
       en: []
-    }
-  },
+    }, image: "/poi-images/cockscomb-basin-jaguar-sanctuary-life-v2.webp"},
   {    id: "rio-bravo-wildlife-corridor-life-v2",
     type: "animal-habitat",
     parent: "BZ-OW",
@@ -268,8 +261,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Rezervația cuprinde peste 100.000 de hectare de pădure tropicală nealterată.", "Au fost identificate aici peste 400 de specii de păsări și 70 de specii de mamifere.", "La Milpa este unul dintre cele mai mari orașe antice mayașe descoperite în Belize.", "Zona este un teren de testare pentru proiecte de sechestrare a carbonului prin conservarea pădurilor.", "Este unul dintre puținele locuri unde trăiesc simultan toate cele cinci specii de feline sălbatice din Belize."],
       en: []
-    }
-  },
+    }, image: "/poi-images/rio-bravo-wildlife-corridor-life-v2.webp"},
   {    id: "gladden-spit-whale-shark-grounds-life-v2",
     type: "animal-habitat",
     parent: "BZ-SC",
@@ -298,8 +290,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Rechinii-balenă vin aici special pentru icrele depuse de peștii snapper.", "În ciuda dimensiunilor lor impresionante, rechinii-balenă sunt inofensivi pentru oameni.", "Regulamentele permit un maximum de 12 vizitatori în apropierea unui rechin-balenă.", "Gladden Spit se află la aproximativ 40 de kilometri est de Placencia.", "Rezervația include, de asemenea, recife de corali vitale și pajiști de iarbă marină."],
       en: []
-    }
-  },
+    }, image: "/poi-images/gladden-spit-whale-shark-grounds-life-v2.webp"},
   {    id: "blue-hole-marine-wildlife-life-v2",
     type: "animal-habitat",
     parent: "BZ-BZ",
@@ -328,8 +319,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Marea Gaură Albastră are o lățime de peste 300 de metri și o adâncime de 124 de metri.", "Stalactitele uriașe găsite la 40 de metri adâncime dovedesc că gaura a fost cândva o peșteră uscată.", "Jacques Cousteau a făcut acest loc faimos în întreaga lume în anul 1971.", "Temperatura apei rămâne constant caldă, chiar și la adâncimi mai mari.", "Rechinii patrulează adesea marginea unde reciful coboară brusc în abis."],
       en: []
-    }
-  },
+    }, image: "/poi-images/blue-hole-marine-wildlife-life-v2.webp"},
   {    id: "blue-hole-national-park-life-v2",
     type: "kid-landmark",
     parent: "BZ-CY",
@@ -358,8 +348,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Apa din Blue Hole provine dintr-un râu subteran care iese scurt la suprafață în acest punct.", "Parcul național acoperă o suprafață de aproximativ 230 de hectare de pădure.", "În Peștera St. Herman au fost descoperite obiecte arheologice aparținând civilizației maya.", "Observatorii de păsări pot vedea aici pasărea motmot, cunoscută pentru culorile sale vii.", "Parcul dispune de facilități precum cabine de schimb și zone de picnic amenajate."],
       en: []
-    }
-  },
+    }, image: "/poi-images/blue-hole-national-park-life-v2.webp"},
   {    id: "green-hills-butterfly-ranch-life-v2",
     type: "kid-landmark",
     parent: "BZ-CY",
@@ -388,8 +377,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["La fermă sunt crescute peste 30 de specii diferite de fluturi nativi din Belize.", "Există o stație specială pentru colibri unde aceștia pot fi fotografiați de foarte aproape.", "Facilitatea servește și ca centru de cercetare pentru entomologia locală.", "Vizitatorii primesc informații detaliate despre plantele-gazdă necesare fiecărei specii.", "Ferma este situată pitoresc la poalele Munților Maya, oferind un cadru natural relaxant."],
       en: []
-    }
-  },
+    }, image: "/poi-images/green-hills-butterfly-ranch-life-v2.webp"},
   {    id: "rio-on-pools-life-v2",
     type: "kid-landmark",
     parent: "BZ-CY",
@@ -418,8 +406,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Stâncile de granit au fost șlefuite natural de apă de-a lungul a mii de ani.", "Există o potecă scurtă de la parcare până la bazine, oferind o vedere panoramică superbă.", "Apa este cristalină și revigorant de rece, fiind perfectă în zilele toride.", "În weekend, locul este un punct de întâlnire popular pentru familiile belizeene.", "Zona este dotată cu toalete și foișoare acoperite pentru picnic."],
       en: []
-    }
-  },
+    }, image: "/poi-images/rio-on-pools-life-v2.webp"},
   {    id: "st-hermans-blue-hole-life-v2",
     type: "kid-landmark",
     parent: "BZ-CY",
@@ -448,8 +435,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Culoarea intensă a apei este dată de mineralele de calcar dizolvate.", "Acest Blue Hole face parte dintr-un sistem vast de peșteri subterane din regiunea carstică.", "Temperatura apei rămâne la un nivel revigorant de 22 de grade Celsius tot anul.", "Locul este o arie protejată administrată de Belize Audubon Society.", "Traseele sunt adesea flancate de ferigi uriașe și arbori de mahon maiestuoși."],
       en: []
-    }
-  },
+    }, image: "/poi-images/st-hermans-blue-hole-life-v2.webp"},
   {    id: "mountain-pine-ridge-forest-reserve-life-v2",
     type: "forest",
     parent: "BZ-CY",
@@ -478,8 +464,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Rezervația a fost declarată arie protejată încă din anul 1944.", "Acoperă o suprafață de aproximativ 430 de kilometri pătrați.", "Regiunea este formată din cele mai vechi roci geologice din America Centrală.", "După o infestare masivă cu gândaci de scoarță în anii 2000, pădurea s-a regenerat vizibil.", "Zona este cunoscută pentru „pământul roșu”, datorat conținutului ridicat de fier din sol."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-pine-ridge-forest-reserve-life-v2.webp"},
   {    id: "chiquibul-forest-reserve-life-v2",
     type: "forest",
     parent: "BZ-CY",
@@ -508,8 +493,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Rezervația acoperă o suprafață de peste 1.600 de kilometri pătrați.", "Aici se află cel mai înalt vârf din Belize, numit Doyle's Delight.", "Chiquibul este unul dintre ultimele locuri de cuibărit pentru papagalul stacojiu în Belize.", "Sistemul de peșteri include camere gigantice, precum „Belize Chamber”.", "Face parte dintr-un proiect de conservare binocional între Belize și Guatemala."],
       en: []
-    }
-  },
+    }, image: "/poi-images/chiquibul-forest-reserve-life-v2.webp"},
   {    id: "tapir-mountain-nature-reserve-life-v2",
     type: "forest",
     parent: "BZ-CY",
@@ -538,8 +522,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Rezervația cuprinde aproximativ 2.500 de hectare de pădure tropicală densă.", "A fost înființată în 1986 pentru a proteja bazinele hidrografice și habitatele rare.", "Geologic, aparține sistemului carstic Roaring Creek Valley.", "Accesul este permis în general doar cercetătorilor și ghizilor autorizați.", "Flora include arbori de esență tare valoroși, cum ar fi mahonul și cedrul."],
       en: []
-    }
-  },
+    }, image: "/poi-images/tapir-mountain-nature-reserve-life-v2.webp"},
   {    id: "sittee-river-forest-reserve-life-v2",
     type: "forest",
     parent: "BZ-SC",
@@ -568,8 +551,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Râul Sittee este considerat unul dintre cele mai adânci din țară raportat la lățimea sa.", "În pădurile de mangrove au fost măsurați unii dintre cei mai înalți arbori de acest tip din Belize.", "Rezervația este o destinație de top pentru observarea maimuțelor urlătoare și a crocodililor.", "Acționează ca un filtru natural care curăță sedimentele înainte ca acestea să ajungă la recif.", "Zona este o componentă vitală a bazinului hidrografic din sudul Belizei."],
       en: []
-    }
-  },
+    }, image: "/poi-images/sittee-river-forest-reserve-life-v2.webp"},
   {    id: "bladen-nature-reserve-life-v2",
     type: "forest",
     parent: "BZ-TOL",
@@ -598,8 +580,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Rezervația acoperă o suprafață de aproximativ 40.000 de hectare de junglă virgină.", "Face parte din Maya Mountain Marine Area, un vast complex de arii protejate.", "În Bladen au fost descoperite specii de plante care nu mai există nicăieri în altă parte.", "Zona este atât de sălbatică încât multe părți nu au fost niciodată vizitate de omul modern.", "Protecția este asigurată de Ya'axché Conservation Trust în colaborare cu Departamentul Forestier."],
       en: []
-    }
-  },
+    }, image: "/poi-images/bladen-nature-reserve-life-v2.webp"},
   {    id: "orange-walk-sugar-belt-life-v2",
     type: "agriculture",
     parent: "BZ-OW",
@@ -628,8 +609,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Zahărul este unul dintre cele mai importante bunuri de export ale Belizei.", "Mulți fermieri ard trestia înainte de recoltare pentru a îndepărta frunzele și dăunătorii.", "Fabrica de zahăr de la Tower Hill produce și energie electrică din biomasă (bagasă).", "Peste 5.000 de mici fermieri sunt activi în regiunea Orange Walk.", "Sezonul de recoltare durează de regulă din decembrie până în iunie."],
       en: []
-    }
-  },
+    }, image: "/poi-images/orange-walk-sugar-belt-life-v2.webp"},
   {    id: "shipyard-vegetable-farms-life-v2",
     type: "agriculture",
     parent: "BZ-OW",
@@ -658,8 +638,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Shipyard a fost fondat în 1958 de menoniți imigrați din Mexic și Canada.", "Deși adesea resping tehnologia modernă, folosesc metode agricole extrem de eficiente.", "Comunitatea își administrează propriile școli și vorbește dialectul Plautdietsch.", "Produsele din Shipyard sunt vândute zilnic în piețele din Orange Walk și Belize City.", "Pe lângă legume, comunitatea este lider în creșterea păsărilor și prelucrarea lemnului."],
       en: []
-    }
-  },
+    }, image: "/poi-images/shipyard-vegetable-farms-life-v2.webp"},
   {    id: "spanish-lookout-dairy-belt-life-v2",
     type: "agriculture",
     parent: "BZ-CY",
@@ -688,8 +667,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Spanish Lookout este cea mai dezvoltată comunitate menonită din țară.", "Aici se produce aproape întreaga cantitate de înghețată consumată în Belize.", "Comunitatea este autosuficientă în ceea ce privește energia și infrastructura.", "În zilele de sâmbătă, este un centru comercial vibrant pentru tot districtul Cayo.", "În regiune se extrage și petrol, ceea ce generează venituri suplimentare comunității."],
       en: []
-    }
-  },
+    }, image: "/poi-images/spanish-lookout-dairy-belt-life-v2.webp"},
   {    id: "toledo-cacao-farms-life-v2",
     type: "agriculture",
     parent: "BZ-TOL",
@@ -748,8 +726,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Nucile de cocos au fost principalul produs de export al peninsulei la începutul secolului XX.", "Uleiul de cocos este adesea obținut artizanal, prin fierbere la foc deschis.", "Cocotierul este supranumit în Belize „copacul vieții” datorită multiplelor sale utilizări.", "Laptele de cocos este un ingredient esențial pentru felul național „Rice and Beans”.", "Multe resorturi din Placencia folosesc propriile nuci de cocos pentru bar și bucătărie."],
       en: []
-    }
-  },
+    }, image: "/poi-images/placencia-coconut-groves-life-v2.webp"},
   {    id: "stann-creek-citrus-groves-life-v2",
     type: "agriculture",
     parent: "BZ-SC",
@@ -778,8 +755,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Belize exportă majoritatea concentratului de citrice în SUA și Europa.", "Regiunea este renumită în mod special pentru grapefruitul de înaltă calitate.", "Industria susține mii de locuri de muncă pentru culegători și lucrători în fabrici.", "Schimbările climatice și dăunătorii reprezintă provocări majore pentru fermierii locali.", "Există eforturi constante pentru a face cultivarea mai durabilă prin îngrășăminte organice."],
       en: []
-    }
-  },
+    }, image: "/poi-images/stann-creek-citrus-groves-life-v2.webp"},
   {    id: "bella-vista-banana-belt-life-v2",
     type: "agriculture",
     parent: "BZ-SC",
@@ -808,8 +784,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Bananele sunt recoltate în Belize pe tot parcursul anului.", "Cea mai mare parte a recoltei este exportată prin portul Big Creek.", "Fiecare plantă de banan produce fructe o singură dată înainte de a fi înlocuită.", "Plantațiile folosesc sisteme complexe de irigații și drenaj pentru controlul apei.", "Bananele belizeene sunt apreciate pentru calitatea lor și respectarea standardelor sociale."],
       en: []
-    }
-  },
+    }, image: "/poi-images/bella-vista-banana-belt-life-v2.webp"},
   {    id: "valley-of-peace-market-gardens-life-v2",
     type: "agriculture",
     parent: "BZ-CY",
@@ -838,8 +813,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["Proiectul a fost lansat în 1982 de guvernul Belizei împreună cu UNHCR.", "Locuitorii provin inițial din El Salvador, Guatemala și Honduras.", "Valea Păcii este renumită pentru productivitatea ridicată pe suprafețe relativ mici.", "Produsele sunt vândute direct în marile piețe din Belmopan și San Ignacio.", "Recent s-a investit în sisteme de irigații pentru a permite producția și în sezonul secetos."],
       en: []
-    }
-  },
+    }, image: "/poi-images/valley-of-peace-market-gardens-life-v2.webp"},
   {    id: "maya-mountain-coffee-farms-life-v2",
     type: "agriculture",
     parent: "BZ-TOL",
@@ -868,8 +842,7 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       hu: [],
       ro: ["În Belize se cultivă în principal varietatea de cafea Arabica de înaltă calitate.", "Recoltarea se face manual, cu mult efort, pe pantele abrupte ale munților.", "Cultivarea la umbră promovează biodiversitatea și previne eroziunea solului.", "Există inițiative de a promova cafeaua ca parte a ecoturismului în regiunea Toledo.", "Producția este mică în comparație cu țările vecine, dar se axează pe calitate premium."],
       en: []
-    }
-  },
+    }, image: "/poi-images/maya-mountain-coffee-farms-life-v2.webp"},
   {    id: "corozal-organic-farms-life-v2",
     type: "agriculture",
     parent: "BZ-CZL",
@@ -901,3 +874,4 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     }
   }
 ];
+

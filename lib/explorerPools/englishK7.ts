@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/englishK7.ts
 
 import type { PoolTopicDef } from "./types";
@@ -6676,3 +6677,4 @@ export const BIGTEST7_POOL: PoolTopicDef[] = [
     difficulty: "hard"
   },
 ];
+

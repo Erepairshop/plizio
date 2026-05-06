@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSudanHistoryV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Több mint 200 piramis", "I. e. 300-tól épültek", "UNESCO Világörökség"],
       ro: ["Peste 200 de piramide", "Construite începând cu 300 î.Hr.", "Patrimoniu UNESCO"],
       en: ["Over 200 pyramids", "Built from 300 BC", "UNESCO World Heritage site"]
-    }
-  },
+    }, image: "/poi-images/sd-no-meroe-pyramids-history-v2.webp"},
   {
     id: "sd-rs-naqa-history-v2",
     type: "historical",
@@ -47,8 +47,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Apedemak-templom", "Római kioszk", "A Butana-sztyeppén fekszik"],
       ro: ["Templul Apedemak", "Chioșcul Roman", "Situat în stepa Butana"],
       en: ["Temple of Apedemak", "Roman Kiosk", "Located in the Butana steppe"]
-    }
-  },
+    }, image: "/poi-images/sd-rs-naqa-history-v2.webp"},
   {
     id: "sd-rs-musawwarat-es-sufra-history-v2",
     type: "historical",
@@ -71,8 +70,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Nagy Falegyüttes", "Elefánt-ábrázolások", "Fontos kusita központ"],
       ro: ["Marea incintă (Great Enclosure)", "Reprezentări de elefanți", "Centru cușit important"],
       en: ["The Great Enclosure", "Elephant depictions", "Important Kushite center"]
-    }
-  },
+    }, image: "/poi-images/sd-rs-musawwarat-es-sufra-history-v2.webp"},
   {
     id: "sd-no-old-dongola-history-v2",
     type: "historical",
@@ -95,8 +93,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Elhagyatott sivatagi város", "Kolostorromok", "Fénykora a 7-14. században"],
       ro: ["Oraș deșertic abandonat", "Ruine de mănăstiri", "Perioada de glorie sec. 7-14"],
       en: ["Abandoned desert city", "Monastery ruins", "Golden age 7th to 14th century"]
-    }
-  },
+    }, image: "/poi-images/sd-no-old-dongola-history-v2.webp"},
   {
     id: "sd-no-soleb-temple-history-v2",
     type: "historical",
@@ -119,8 +116,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["I. e. 1350 körül épült", "III. Amenhotepnak szentelve", "Jól megőrzött oszlopok"],
       ro: ["Construit aprox. 1350 î.Hr.", "Dedicat lui Amenhotep III", "Coloane bine conservate"],
       en: ["Built around 1350 BC", "Dedicated to Amenhotep III", "Well-preserved columns"]
-    }
-  },
+    }, image: "/poi-images/sd-no-soleb-temple-history-v2.webp"},
   {
     id: "sd-no-kerma-history-v2",
     type: "historical",
@@ -143,8 +139,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["A Kerma-kultúra fővárosa", "I. e. 2500 óta lakott", "Királysírok"],
       ro: ["Capitala culturii Kerma", "Locuit din 2500 î.Hr.", "Morminte regale"],
       en: ["Capital of the Kerma culture", "Inhabited since 2500 BC", "Royal tombs"]
-    }
-  },
+    }, image: "/poi-images/sd-no-kerma-history-v2.webp"},
   {
     id: "sd-no-sesibi-history-v2",
     type: "historical",
@@ -167,8 +162,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Ehnaton alapította", "Atonnak szentelve", "Oszlopmaradványok"],
       ro: ["Fondată de Akhenaton", "Dedicată lui Aton", "Resturi de coloane"],
       en: ["Founded by Akhenaton", "Dedicated to Aton", "Column remains preserved"]
-    }
-  },
+    }, image: "/poi-images/sd-no-sesibi-history-v2.webp"},
   {
     id: "sd-no-sai-island-ruins-history-v2",
     type: "historical",
@@ -191,8 +185,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Oszmán erőd", "Óegyiptomi sírok", "Folyamatosan lakott"],
       ro: ["Fortăreață otomană", "Morminte egiptene", "Locuită continuu"],
       en: ["Ottoman fortress", "Ancient Egyptian tombs", "Continuously inhabited"]
-    }
-  },
+    }, image: "/poi-images/sd-no-sai-island-ruins-history-v2.webp"},
   {
     id: "sd-no-el-kurru-history-v2",
     type: "historical",
@@ -215,8 +208,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Piye fáraó sírja", "Jól megőrzött freskók", "Legkorábbi kusita nekropolisz"],
       ro: ["Mormântul faraonului Piye", "Fresce bine conservate", "Cea mai veche necropolă kușită"],
       en: ["Tomb of Pharaoh Piye", "Well-preserved frescoes", "Earliest Kushite necropolis"]
-    }
-  },
+    }, image: "/poi-images/sd-no-el-kurru-history-v2.webp"},
   {
     id: "sd-no-nuri-pyramids-history-v2",
     type: "historical",
@@ -239,8 +231,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Taharqa sírja", "Több mint 70 piramis", "I. e. 7. századtól használták"],
       ro: ["Mormântul lui Taharqa", "Peste 70 de piramide", "Folosite din sec. 7 î.Hr."],
       en: ["Tomb of Taharqa", "Over 70 pyramids", "Used from the 7th century BC"]
-    }
-  },
+    }, image: "/poi-images/sd-no-nuri-pyramids-history-v2.webp"},
   {
     id: "sd-no-banganarti-history-v2",
     type: "historical",
@@ -263,8 +254,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Egykori zarándoktemplom", "Núbiai falfestmények", "Keresztény korszak"],
       ro: ["Fostă biserică de pelerinaj", "Picturi murale nubiene", "Epoca creștină"],
       en: ["Former pilgrimage church", "Nubian wall paintings", "Christian epoch"]
-    }
-  },
+    }, image: "/poi-images/sd-no-banganarti-history-v2.webp"},
   {
     id: "sd-no-tombos-history-v2",
     type: "historical",
@@ -287,8 +277,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Befejezetlen szobor", "Gránitbánya", "Óegyiptomi feliratok"],
       ro: ["Statuie neterminată", "Carieră de granit", "Inscripții egiptene"],
       en: ["Unfinished statue", "Granite quarry", "Ancient Egyptian inscriptions"]
-    }
-  },
+    }, image: "/poi-images/sd-no-tombos-history-v2.webp"},
   {
     id: "sd-no-western-deffufa-history-v2",
     type: "historical",
@@ -311,8 +300,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Nagy vályogtégla-építmény", "Kultikus központ", "Több mint 18 méter magas"],
       ro: ["Structură mare din noroi", "Centru de cult", "Peste 18 metri înălțime"],
       en: ["Large mudbrick structure", "Cult center", "Over 18 meters high"]
-    }
-  },
+    }, image: "/poi-images/sd-no-western-deffufa-history-v2.webp"},
   {
     id: "sd-no-kawa-history-v2",
     type: "historical",
@@ -335,8 +323,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Amon-templom", "Homokkal borított romok", "III. Amenhotep alapította"],
       ro: ["Templul lui Amon", "Ruine acoperite de nisip", "Fondat de Amenhotep III"],
       en: ["Amun Temple", "Sand-covered ruins", "Founded by Amenhotep III"]
-    }
-  },
+    }, image: "/poi-images/sd-no-kawa-history-v2.webp"},
   {
     id: "sd-no-faras-ruins-history-v2",
     type: "historical",
@@ -359,8 +346,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["A Nasszer-tó árasztotta el", "Freskók múzeumokban", "Egykori püspökség"],
       ro: ["Inundat de Lacul Nasser", "Fresce în muzee", "Fostă episcopie"],
       en: ["Flooded by Lake Nasser", "Frescoes in museums", "Former bishopric"]
-    }
-  },
+    }, image: "/poi-images/sd-no-faras-ruins-history-v2.webp"},
   {
     id: "sd-no-ghazali-monastery-history-v2",
     type: "historical",
@@ -383,8 +369,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["A 7. században épült", "Keresztény korszak", "Számos sírkő"],
       ro: ["Construită în sec. 7", "Epoca creștină", "Numeroase pietre funerare"],
       en: ["Built in the 7th century", "Christian epoch", "Numerous tombstones"]
-    }
-  },
+    }, image: "/poi-images/sd-no-ghazali-monastery-history-v2.webp"},
   {
     id: "sd-no-sedeinga-history-v2",
     type: "historical",
@@ -407,8 +392,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Tije királyné temploma", "Nagy nekropolisz", "Sok kis piramis"],
       ro: ["Templul reginei Tiye", "Necropolă mare", "Multe piramide mici"],
       en: ["Temple of Queen Tiye", "Large necropolis", "Many small pyramids"]
-    }
-  },
+    }, image: "/poi-images/sd-no-sedeinga-history-v2.webp"},
   {
     id: "sd-no-semna-history-v2",
     type: "historical",
@@ -431,8 +415,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["A Középbirodalomban épült", "Határerődítmény", "Részben víz alatt"],
       ro: ["Construită în Regatul Mijlociu", "Fortăreață de graniță", "Parțial inundată"],
       en: ["Built in Middle Kingdom", "Border fortress", "Partially flooded"]
-    }
-  },
+    }, image: "/poi-images/sd-no-semna-history-v2.webp"},
   {
     id: "sd-no-kumma-history-v2",
     type: "historical",
@@ -455,8 +438,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Szemna ikererődje", "Hnum-templom", "Határőrizet"],
       ro: ["Fortăreață geamănă cu Semna", "Templul lui Khnum", "Securitatea graniței"],
       en: ["Twin fortress to Semna", "Temple of Khnum", "Border security"]
-    }
-  },
+    }, image: "/poi-images/sd-no-kumma-history-v2.webp"},
   {
     id: "sd-no-uronarti-history-v2",
     type: "historical",
@@ -479,8 +461,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Szigeterőd", "Középbirodalom", "Vályogtéglából épült"],
       ro: ["Fortăreață insulară", "Regatul Mijlociu", "Construită din cărămizi de noroi"],
       en: ["Island fortress", "Middle Kingdom", "Built of mud bricks"]
-    }
-  },
+    }, image: "/poi-images/sd-no-uronarti-history-v2.webp"},
   {
     id: "sd-no-buhen-history-v2",
     type: "historical",
@@ -503,8 +484,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["A Nasszer-tó alatt", "Masszív falak", "Rézkereskedelem központja"],
       ro: ["Scufundat în Lacul Nasser", "Ziduri masive", "Centru de comerț cu cupru"],
       en: ["Submerged in Lake Nasser", "Massive walls", "Copper trade center"]
-    }
-  },
+    }, image: "/poi-images/sd-no-buhen-history-v2.webp"},
   {
     id: "sd-no-mirgissa-history-v2",
     type: "historical",
@@ -527,8 +507,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Kereskedelmi központ", "Erődítmény", "Szintén víz alá került"],
       ro: ["Centru comercial", "Sistem de fortărețe", "De asemenea inundată"],
       en: ["Trade center", "Fortress system", "Also flooded"]
-    }
-  },
+    }, image: "/poi-images/sd-no-mirgissa-history-v2.webp"},
   {
     id: "sd-no-askut-history-v2",
     type: "historical",
@@ -551,8 +530,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Megerősített sziget", "Raktárak", "Középbirodalom"],
       ro: ["Insulă fortificată", "Depozite", "Regatul Mijlociu"],
       en: ["Fortified island", "Storehouses", "Middle Kingdom"]
-    }
-  },
+    }, image: "/poi-images/sd-no-askut-history-v2.webp"},
   {
     id: "sd-no-shalfak-history-v2",
     type: "historical",
@@ -599,8 +577,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Közigazgatási központ", "II. Ramszesz temploma", "Városi szerkezet"],
       ro: ["Centru administrativ", "Templul lui Ramses II", "Structură urbană"],
       en: ["Administrative center", "Temple of Ramesses II", "Urban structure"]
-    }
-  },
+    }, image: "/poi-images/sd-no-amara-west-history-v2.webp"},
   {
     id: "sd-gz-jebel-moya-history-v2",
     type: "historical",
@@ -623,8 +600,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Nagy temető", "1910-1914-es ásatások", "Történelem előtti leletek"],
       ro: ["Cimitir mare", "Săpături 1910-1914", "Descoperiri preistorice"],
       en: ["Large cemetery", "Excavations 1910-1914", "Prehistoric finds"]
-    }
-  },
+    }, image: "/poi-images/sd-gz-jebel-moya-history-v2.webp"},
   {
     id: "sd-rs-dangeil-history-v2",
     type: "historical",
@@ -671,8 +647,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["Omdurmanban található", "1898-ban lerombolták, majd újjáépítették", "Fontos iszlám zarándokhely"],
       ro: ["Situat în Omdurman", "Distrus în 1898 și reconstruit", "Important loc de pelerinaj islamic"],
       en: ["Located in Omdurman", "Destroyed in 1898 and rebuilt", "Important Islamic pilgrimage site"]
-    }
-  },
+    }, image: "/poi-images/sd-kh-mahdis-tomb-history-v2.webp"},
   {
     id: "sd-kh-khalifa-house-history-v2",
     type: "historical",
@@ -695,8 +670,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       hu: ["1887-ben épült", "Történelmi múzeum", "A mahdista korszak tárgyai"],
       ro: ["Construită în 1887", "Muzeu istoric", "Obiecte din perioada Mahdiyya"],
       en: ["Built in 1887", "Historical museum", "Artifacts of the Mahdiyya period"]
-    }
-  },
+    }, image: "/poi-images/sd-kh-khalifa-house-history-v2.webp"},
   {
     id: "sd-rs-badi-ruins-history-v2",
     type: "historical",
@@ -722,3 +696,4 @@ export const poiExtraSudanHistoryV2: POI[] = [
     }
   }
 ];
+

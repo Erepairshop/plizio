@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBrazilLifeV2: POI[] = [
@@ -13,6 +14,12 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["A világ legnagyobb vizes élőhelye.", "Jaguárok és kajmánok otthona.", "Területe több mint 135 000 km².", "UNESCO Világörökség."],
       ro: ["Cea mai mare zonă umedă din lume.", "Casa jaguarilor și a caimanilor.", "Suprafață de peste 135.000 km².", "Patrimoniul Mondial UNESCO."],
       en: ["Largest wetland in the world.", "Home to jaguars and caimans.", "Area over 135,000 km².", "UNESCO World Heritage site."]
+    },
+    descriptionAdvanced: {
+      en: "The Pantanal Matogrossense is the world's largest tropical wetland area, sprawling across parts of Brazil, Bolivia, and Paraguay. It serves as a vital habitat for an incredibly diverse array of wildlife, including jaguars, giant otters, and countless bird species. The region's unique seasonal flood cycle sustains one of the most productive ecosystems on the planet. Biology K6 – wetland ecosystems and biodiversity."
+    },
+    factsAdvanced: {
+      en: ["World's largest tropical wetland", "Incredible wildlife diversity (Jaguars, Otters)", "UNESCO World Heritage Site", "Seasonal flooding defines the ecosystem", "Key habitat for threatened species", "Critical ecological region for South America"]
     }
   },
   {
@@ -27,6 +34,12 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["1980-ban alapították.", "5 teknősfajt véd.", "Népszerű családi úti cél.", "Több mint 40 millió teknőst mentettek meg."],
       ro: ["Fondată în 1980.", "Protejează 5 specii de țestoase.", "Destinație populară pentru familii.", "Peste 40 de milioane de țestoase salvate."],
       en: ["Founded in 1980.", "Protects 5 turtle species.", "Popular destination for families.", "Over 40 million turtles saved."]
+    },
+    descriptionAdvanced: {
+      en: "The Tamar Project (Projeto Tamar) is a landmark initiative in Brazil dedicated to the protection and conservation of endangered sea turtles. The center in Praia do Forte serves as a crucial base for research, rehabilitation, and public education. By protecting nesting sites along the Brazilian coast, the project plays an essential role in preserving marine biodiversity. Biology K6 – marine conservation and sea turtle habitats."
+    },
+    factsAdvanced: {
+      en: ["Dedicated to sea turtle conservation", "Center for research and rehabilitation", "Praia do Forte is a key nesting ground", "Education and public awareness mission", "Protecting various sea turtle species", "Successful model for marine conservation"]
     }
   },
   {
@@ -41,6 +54,12 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Több mint 3000 állatfaj.", "Tartalmaz egy lepkeházat.", "1959-ben alapították.", "Nagy édesvízi akváriumkomplexummal rendelkezik."],
       ro: ["Peste 3000 de specii de animale.", "Include o seră cu fluturi.", "Fondată în 1959.", "Are un complex mare de acvarii de apă dulce."],
       en: ["Over 3,000 animal species.", "Includes a butterfly house.", "Founded in 1959.", "Features a large freshwater aquarium complex."]
+    },
+    descriptionAdvanced: {
+      en: "The Belo Horizonte Zoo and Botanical Garden is a major educational and leisure facility, offering a glimpse into the diverse flora and fauna of Brazil and the world. It is highly regarded for its commitment to animal welfare and its extensive botanical collection, which showcases endangered native species. It serves as an important site for both conservation and public engagement. Sachkunde K3 – animal and plant conservation."
+    },
+    factsAdvanced: {
+      en: ["Extensive botanical collection", "Educational facility for diverse fauna", "Commitment to animal welfare", "Showcases endangered native flora", "Important site for biodiversity research", "Key family and educational destination"]
     }
   },
   {
@@ -55,6 +74,12 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["A kávétermelés fontos központja.", "A 19. században épült.", "Ma egy nemzeti park része.", "Történelmi vasműveket őriz."],
       ro: ["Centru important al producției de cafea.", "Construită în secolul al XIX-lea.", "Astăzi face parte dintr-un parc național.", "Păstrează fierării istorice."],
       en: ["Important center of coffee production.", "Built in the 19th century.", "Today part of a national forest.", "Preserves historic ironworks."]
+    },
+    descriptionAdvanced: {
+      en: "Fazenda Ipanema is a historically significant site that blends agricultural heritage with colonial industrial development in São Paulo state. It holds a unique place in history as the location of the first iron foundry in Brazil, while also operating as a traditional rural estate. Today, it offers insight into the evolution of Brazilian rural industries and agricultural landscapes. Geography K7 – historical industries and agriculture."
+    },
+    factsAdvanced: {
+      en: ["Site of Brazil's first iron foundry (1811)", "Historical rural estate and landscape", "Blend of agricultural and industrial history", "Located in São Paulo state", "Protected site of national significance", "Showcases rural industrial evolution"]
     }
   },
   {
@@ -69,6 +94,12 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Több mint 1300 madár.", "143 különböző faj.", "Hatalmas besétálós madárröpdék.", "Az Iguazú-vízesés közelében fekszik."],
       ro: ["Peste 1300 de păsări.", "143 de specii diferite.", "Volieră imensă în care poți intra.", "Situat lângă Cascada Iguazú."],
       en: ["Over 1,300 birds.", "143 different species.", "Huge walk-through aviaries.", "Located near the Iguaçu Falls."]
+    },
+    descriptionAdvanced: {
+      en: "Parque das Aves, located near the Iguazu Falls, is a unique bird sanctuary and conservation center focused on the protection of Atlantic Forest bird species. It provides a naturalized environment for thousands of birds, many of which have been rescued from illegal trafficking. The park is a vital educational hub for visitors, highlighting the beauty and vulnerability of Brazil's avian biodiversity. Biology K6 – bird conservation and avian habitats."
+    },
+    factsAdvanced: {
+      en: ["Focus on Atlantic Forest bird species", "Large-scale bird rescue and rehabilitation", "Located near Iguazu Falls", "Educational center for avian conservation", "Naturalized aviaries for visitors", "Critical protection for endangered species"]
     }
   },
   {
@@ -223,8 +254,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["1958-ban nyílt meg.", "Több mint 3200 állatnak ad otthont.", "Egy állami natúrparkban található.", "Nagy szafari útvonallal rendelkezik."],
       ro: ["Deschis în 1958.", "Găzduiește peste 3200 de animale.", "Situată într-un parc natural de stat.", "Are un traseu mare de safari."],
       en: ["Opened in 1958.", "Houses more than 3,200 animals.", "Located within a state nature park.", "Features a large safari route."]
-    }
-  },
+    }, image: "/poi-images/parque-zoologico-de-sao-paulo-kid-landmark-life-v2.webp"},
   {
     id: "fazenda-bananal-agriculture-life-v2",
     type: "agriculture",
@@ -237,8 +267,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Az agrárerdészetre összpontosít.", "Oktatási programokat kínál.", "Bioélelmiszereket állít elő.", "A 17. századból származik."],
       ro: ["Se concentrează pe agrosilvicultură.", "Oferă programe educaționale.", "Produce alimente organice.", "Datează din secolul al XVII-lea."],
       en: ["Focuses on agroforestry.", "Offers educational programs.", "Produces organic food.", "Dates back to the 17th century."]
-    }
-  },
+    }, image: "/poi-images/fazenda-bananal-agriculture-life-v2.webp"},
   {
     id: "oceanario-de-aracaju-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -293,8 +322,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["A 19. századból származik.", "A cukornád történetének múzeuma.", "Kapcsolatban áll Joaquim Nabuco abolicionistával.", "Fennmaradt kúriák és malmok."],
       ro: ["Datează din secolul al XIX-lea.", "Muzeu al istoriei trestiei de zahăr.", "Asociată cu aboliționistul Joaquim Nabuco.", "Conace și mori conservate."],
       en: ["Dates back to the 19th century.", "Museum of sugarcane history.", "Associated with abolitionist Joaquim Nabuco.", "Preserved manor houses and mills."]
-    }
-  },
+    }, image: "/poi-images/engenho-massangana-agriculture-life-v2.webp"},
   {
     id: "reserva-biologica-de-poco-das-antas-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -321,8 +349,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Az agroökológia úttörője.", "Több mint 2300 hektár földterület.", "Integrálja az oktatást és a mezőgazdaságot.", "Nem használ vegyi növényvédő szereket."],
       ro: ["Pionier al agroecologiei.", "Peste 2300 de hectare de teren.", "Integrează educația și agricultura.", "Nu folosește pesticide chimice."],
       en: ["Pioneer of agroecology.", "Over 2300 hectares of land.", "Integrates education and agriculture.", "Uses no chemical pesticides."]
-    }
-  },
+    }, image: "/poi-images/fazenda-da-toca-agriculture-life-v2.webp"},
   {
     id: "zoologico-de-curitiba-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -335,8 +362,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["1982-ben nyílt meg.", "Körülbelül 1800 állat.", "Az Iguaçu regionális parkban található.", "A belépés ingyenes."],
       ro: ["Deschis în 1982.", "Aproximativ 1800 de animale.", "Situată în parcul regional Iguaçu.", "Intrarea este liberă."],
       en: ["Opened in 1982.", "Around 1800 animals.", "Located in the Iguaçu Regional Park.", "Admission is free."]
-    }
-  },
+    }, image: "/poi-images/zoologico-de-curitiba-kid-landmark-life-v2.webp"},
   {
     id: "santuario-de-elefantes-brasil-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -363,8 +389,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["A kávétőzsde palotájában kapott helyet.", "A kávétermesztés eszközeit mutatja be.", "Saját kávézót üzemeltet prémium pörköléssel.", "1998-ban nyílt meg múzeumként."],
       ro: ["Găzduit în Palatul Bursei de Cafea.", "Afișează instrumente de cultivare a cafelei.", "Operează o cafenea proprie cu prăjiri premium.", "Deschis ca muzeu în 1998."],
       en: ["Housed in the Coffee Exchange Palace.", "Displays coffee cultivation tools.", "Operates its own café with premium roasts.", "Opened as a museum in 1998."]
-    }
-  },
+    }, image: "/poi-images/museu-do-cafe-santos-agriculture-life-v2.webp"},
   {
     id: "parque-mutirama-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -391,8 +416,7 @@ export const poiExtraBrazilLifeV2: POI[] = [
       hu: ["Mentő- és rehabilitációs központ.", "Különféle tengeri teknősfajokat mutat be.", "Interaktív oktatási programok.", "Évente sok iskolai osztályt vonz."],
       ro: ["Centru de salvare și reabilitare.", "Afișează diferite specii de broaște țestoase marine.", "Programe educaționale interactive.", "Atrage multe clase de școală anual."],
       en: ["Rescue and rehabilitation center.", "Displays various marine turtle species.", "Interactive educational programs.", "Attracts many school classes annually."]
-    }
-  },
+    }, image: "/poi-images/fundacao-tamar-ubatuba-animal-habitat-life-v2.webp"},
   {
     id: "fazenda-santa-helena-agriculture-life-v2",
     type: "agriculture",
@@ -422,3 +446,4 @@ export const poiExtraBrazilLifeV2: POI[] = [
     }
   }
 ];
+

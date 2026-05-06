@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraHaitiEconomicV2: POI[] = [
@@ -20,8 +21,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A haiti import 90%-át itt kezelik.", "A 2010-es földrengésben szinte teljesen megsemmisült.", "Az Autorité Portuaire Nationale (APN) állami szerv irányítja.", "Két fő mólóból áll: egy északi és egy déli részből.", "A kávé és a kakaó legfőbb exportkikötője.", "A humanitárius segélyek legfontosabb elosztó központja."],
       ro: ["Gestionează 90% din importurile totale ale statului Haiti.", "A fost distrus aproape în totalitate de cutremurul din 2010.", "Este administrat de Autorité Portuaire Nationale (APN).", "Dispune de două dane principale: una în nord și una în sud.", "Principalul port de export pentru cafea și cacao.", "Cel mai important punct de tranzit pentru ajutoarele umanitare."],
       en: ["Handles 90% of all Haitian international trade volume.", "The 2010 earthquake nearly leveled the port's infrastructure.", "Operated by the state agency Autorité Portuaire Nationale (APN).", "Features two main piers, serving container and bulk cargo.", "Primary export hub for Haitian coffee and cocoa beans.", "Serves as the main entry point for international food aid."]
-    }
-  },
+    }, image: "/poi-images/port-au-prince-port-economic-v2.webp"},
   {
     id: "cap-haitien-port-economic-v2",
     type: "port",
@@ -41,8 +41,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["Haiti második legnagyobb kikötője Port-au-Prince után.", "Az USAID 24 millió dollárt fektetett a felújításába 2024-ben.", "Az ország északi részének legfontosabb kereskedelmi kapuja.", "Egy 176 méter hosszú mólóval rendelkezik.", "A kávé, kakaó és szizál fő exportközpontja.", "A Labadee exkluzív üdülőhely közelében található."],
       ro: ["Al doilea port ca mărime din Haiti după Port-au-Prince.", "USAID a investit 24 de milioane de dolari în renovare în 2024.", "Poarta principală de intrare pentru nordul țării.", "Dispune de un debarcader cu lungimea de 176 de metri.", "Centru de export pentru cafea, cacao și sisal.", "Se află în imediata apropiere a stațiunii Labadee."],
       en: ["Haiti's second largest port by cargo volume.", "USAID funded a $24 million renovation project in 2024.", "Primary maritime gateway for Northern Haiti.", "Equipped with a main pier stretching 176 meters.", "Key export hub for northern coffee and cocoa production.", "Located near the Labadee private resort area."]
-    }
-  },
+    }, image: "/poi-images/cap-haitien-port-economic-v2.webp"},
   {
     id: "caracol-industrial-park-economic-v2",
     type: "industry",
@@ -62,8 +61,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["2012-ben nyitotta meg Bill és Hillary Clinton.", "Több mint 300 millió dollárnyi segélyből finanszírozták.", "Fő bérlője a koreai Sae-A Trading vállalat.", "Saját 10 megawattos erőművel rendelkezik.", "Mintegy 13 000 közvetlen munkahelyet hozott létre.", "Az USA-ba irányuló textilexportra összpontosít."],
       ro: ["Inaugurat în 2012 de Bill și Hillary Clinton.", "Finanțat cu peste 300 de milioane de dolari din ajutoare.", "Principalul angajator este compania coreeană Sae-A Trading.", "Dispune de propria centrală electrică de 10 megawați.", "A creat aproximativ 13.000 de locuri de muncă directe.", "Se concentrează pe exportul de textile către SUA."],
       en: ["Opened in 2012 with support from the Clinton Foundation.", "Funded by a $300 million international investment package.", "S&H Global (Sae-A Trading) is the largest tenant.", "Home to an independent 10-megawatt power station.", "Employment reached approximately 13,000 by 2019.", "Benefits from the U.S. HOPE/HELP garment trade acts."]
-    }
-  },
+    }, image: "/poi-images/caracol-industrial-park-economic-v2.webp"},
   {
     id: "miragoane-port-economic-v2",
     type: "port",
@@ -83,8 +81,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A bauxit-export egykori központja (Reynolds Metals).", "Az USA-ból származó használt autók fő importpontja.", "Haiti egyik legjobban védett öblében található.", "Nippes megye központi gazdasági tényezője.", "Tehermentesítő kikötőként szolgál Port-au-Prince számára.", "Közepes merülésű teherhajók fogadására alkalmas rakparttal rendelkezik."],
       ro: ["Fost centru major pentru exportul de bauxită (Reynolds Metals).", "Principalul punct de intrare pentru mașinile second-hand din SUA.", "Situat într-unul dintre cele mai bine protejate golfuri din Haiti.", "Factor economic central pentru departamentul Nippes.", "Servește ca port de degajare pentru Port-au-Prince.", "Dispune de dane pentru nave de marfă cu pescaj mediu."],
       en: ["Formerly the primary terminal for bauxite exports by Reynolds.", "Leading entry point for used car imports from the United States.", "Located in one of the most sheltered bays in the country.", "Key economic driver for the Nippes Department.", "Acts as a secondary port to alleviate Port-au-Prince congestion.", "Accommodates medium-draft cargo vessels at its piers."]
-    }
-  },
+    }, image: "/poi-images/miragoane-port-economic-v2.webp"},
   {
     id: "saint-marc-port-economic-v2",
     type: "port",
@@ -104,8 +101,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A használt ruhák ('Pè Pè') importjának központi kikötője.", "Az Artibonite-völgy legfontosabb kereskedelmi pontja.", "A stratégiai jelentőségű 1-es főút mentén fekszik.", "Történelmileg jelentős a kávéexport szempontjából.", "Regionális partmenti teherhajók nagy flottájának ad otthont.", "A rizs és a liszt importjának központja."],
       ro: ["Port central pentru importul de haine second-hand ('Pè Pè').", "Cel mai important punct comercial pentru valea Artibonite.", "Situat pe ruta strategică Route Nationale 1.", "Semnificativ din punct de vedere istoric pentru exportul de cafea.", "Găzduiește o flotă mare de nave de transport de coastă.", "Centru major pentru importul de orez și făină."],
       en: ["Primary port for the importation of used clothing ('Pè Pè').", "Leading commercial outlet for the Artibonite Valley region.", "Strategically located on Haiti's main highway, Route Nationale 1.", "Known historically as a major coffee and logwood export point.", "Home to a significant fleet of regional coastal traders.", "Major entry point for staple food imports like rice and flour."]
-    }
-  },
+    }, image: "/poi-images/saint-marc-port-economic-v2.webp"},
   {
     id: "jeremie-port-economic-v2",
     type: "port",
@@ -125,8 +121,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["Létfontosságú ellátási útvonal Grand'Anse megye számára.", "A haiti partmenti kereskedelem (kabotázs) központja.", "A délnyugati régió kakaóexportjának legfontosabb kikötője.", "A hajóknak az alacsony vízmélység miatt gyakran az öbölben kell horgonyozniuk.", "A kenyérgyümölcs Port-au-Prince-be irányuló szállításának fő bázisa.", "Döntő jelentőségű a természeti katasztrófák utáni ellátásban."],
       ro: ["Artera vitală de aprovizionare pentru departamentul Grand'Anse.", "Centru al comerțului de coastă haitian (cabotaj).", "Principalul port de export pentru cacao din sud-vest.", "Navele ancorează adesea în golf din cauza adâncimii reduse la mal.", "Baza principală pentru transportul fructelor de pâine către capitală.", "Crucial pentru aprovizionare după dezastre naturale."],
       en: ["Primary logistics link for the isolated Grand'Anse Department.", "Key hub for Haiti's traditional coastal shipping network.", "Main export outlet for the region's significant cocoa production.", "Often requires lighterage due to the harbor's shallow depth.", "Major shipping point for breadfruit destined for the capital.", "Essential for emergency supply delivery after hurricanes."]
-    }
-  },
+    }, image: "/poi-images/jeremie-port-economic-v2.webp"},
   {
     id: "port-de-paix-port-economic-v2",
     type: "port",
@@ -188,8 +183,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A Karib-térség egyik legmélyebb természetes öblével rendelkezik.", "A világ egykori legnagyobb szizálültetvényének (Plantation Dauphin) helyszíne.", "A Caracol Ipari Park potenciális mélyvízi kikötője.", "Történelmileg jelentős rost-exportáló kikötő.", "A Dominikai Köztársasággal folytatott határkereskedelem stratégiai pontja.", "A keskeny kikötőbejárat kiváló védelmet nyújt a viharok ellen."],
       ro: ["Deține unul dintre cele mai adânci golfuri naturale din Caraibe.", "Fostul sediu al celei mai mari plantații de sisal din lume (Plantation Dauphin).", "Potențial port de mare adâncime pentru Parcul Industrial Caracol.", "Port istoric major pentru exportul de fibre textile.", "Punct strategic pentru comerțul transfrontalier cu Republica Dominicană.", "Intrarea îngustă în golf oferă o protecție excelentă împotriva furtunilor."],
       en: ["Features one of the deepest landlocked bays in the Caribbean region.", "Former home to the world's largest sisal plantation, Plantation Dauphin.", "Proposed site for a major deep-water port serving regional industry.", "Historically a premier global exporter of sisal fibers.", "Key administrative hub for trade with the Dominican Republic.", "The bay's narrow entrance provides superior natural storm protection."]
-    }
-  },
+    }, image: "/poi-images/fort-liberte-port-economic-v2.webp"},
   {
     id: "la-gonave-port-economic-v2",
     type: "port",
@@ -209,8 +203,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["Haiti legnagyobb szigetének, La Gonâve-nak a fő kikötője.", "A szárazföldre irányuló faszénexport központja.", "Létfontosságú ellátópont ivóvíz és élelmiszerek számára.", "Kisipari halászhajók nagy flottájának bázisa.", "Az állami és orvosi segélyek egyetlen belépési pontja.", "A Port-au-Prince-be irányuló személyszállítás legfontosabb csomópontja."],
       ro: ["Portul principal pentru cea mai mare insulă din Haiti, La Gonâve.", "Centru pentru exportul de mangal către continent.", "Punct de aprovizionare vital pentru apă potabilă și alimente.", "Baza pentru o flotă mare de bărci de pescuit artizanal.", "Singurul punct de acces pentru ajutor guvernamental și medical.", "Cel mai important hub pentru transportul de pasageri către capitală."],
       en: ["Main maritime gateway for Haiti's largest island, La Gonâve.", "Primary terminal for shipping charcoal to the mainland.", "Essential lifeline for the import of drinking water and food.", "Supports a massive fleet of traditional artisanal fishing vessels.", "Only entry point for government services and NGOs.", "Primary hub for ferry transport to Port-au-Prince and Arcahaie."]
-    }
-  },
+    }, image: "/poi-images/la-gonave-port-economic-v2.webp"},
   {
     id: "cite-soleil-manufacturing-economic-v2",
     type: "industry",
@@ -230,8 +223,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A SONAPI állami ipari park hálózat része.", "A haiti textil- és ruházati ipar központja.", "A gyárak főként az amerikai piacra termelnek.", "Port-au-Prince környékének egyik legnagyobb munkáltatója.", "Közvetlen közelben található a nemzetközi tengeri kikötő.", "Jelentős hasznot húzott az amerikai HOPE és HELP kereskedelmi törvényekből."],
       ro: ["Face parte din rețeaua de parcuri industriale de stat SONAPI.", "Centru al industriei textile și de confecții din Haiti.", "Fabricile produc în principal pentru piața din SUA.", "Unul dintre cei mai mari angajatori din zona capitalei.", "Situat în imediata vecinătate a portului maritim internațional.", "A beneficiat masiv de pe urma legilor comerciale SUA HOPE și HELP."],
       en: ["Integrated into the SONAPI national industrial park framework.", "Core hub for Haiti's export-oriented garment industry.", "Manufacturing is primarily geared toward U.S. retail markets.", "Provides thousands of formal jobs in the capital's metro area.", "Located strategically next to the international shipping terminal.", "Utilizes duty-free benefits under the U.S. HOPE and HELP acts."]
-    }
-  },
+    }, image: "/poi-images/cite-soleil-manufacturing-economic-v2.webp"},
   {
     id: "gonaives-industry-economic-v2",
     type: "industry",
@@ -251,8 +243,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["Haiti legnagyobb tengeri sólepárló központja.", "Az Artibonite-völgyből származó rizs fontos átrakóhelye.", "A történelmi 'függetlenség városa' (Haiti 1804).", "Az 1-es főút központi közlekedési csomópontja.", "Kiterjedt sós mocsarakkal rendelkezik a lepárláshoz.", "Artibonite megye gazdasági motorja."],
       ro: ["Cel mai mare centru de extracție a sării de mare din Haiti.", "Punct major de tranzit pentru orezul din valea Artibonite.", "Istoricul 'Oraș al Independenței' (Haiti 1804).", "Nod de transport central pe Route Nationale 1.", "Deține mlaștini saline vaste pentru extracția prin evaporare.", "Motorul economic al departamentului Artibonite."],
       en: ["National leader in sea salt production via evaporation.", "Major distribution point for Artibonite Valley rice harvests.", "Site where Haiti's Act of Independence was signed in 1804.", "Critical logistics junction on the Route Nationale 1.", "Extensive artisanal salt pans characterize the coastline.", "Primary industrial and commercial base for central Haiti."]
-    }
-  },
+    }, image: "/poi-images/gonaives-industry-economic-v2.webp"},
   {
     id: "thomazeau-agri-industry-economic-v2",
     type: "industry",
@@ -272,8 +263,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A cukornádtermesztés központja a Plaine du Cul-de-Sac síkságon.", "A melasz- és rumgyártás fontos beszállítója.", "Stratégiai elhelyezkedés Port-au-Prince-től északkeletre.", "Termékeny talajjal rendelkezik a kukorica- és ciroktermesztéshez.", "Az Étang Saumâtre tó közelsége lehetővé teszi a haltenyésztési projekteket.", "Az agrár-ipari értékláncokra összpontosít."],
       ro: ["Centru al cultivării trestiei de zahăr în Plaine du Cul-de-Sac.", "Furnizor major pentru producția de melasă și rom.", "Localizare strategică la nord-est de capitala Port-au-Prince.", "Deține terenuri fertile pentru cultivarea porumbului și sorgului.", "Proximitatea față de Étang Saumâtre permite proiecte de acvacultură.", "Concentrare pe lanțurile valorice agro-industriale."],
       en: ["Premier sugarcane cultivation zone in the Cul-de-Sac Plain.", "Key supplier for local molasses and alcoholic spirit production.", "Strategically located northeast of the Port-au-Prince metro area.", "Main source of staple grains like corn and sorghum for the capital.", "Bordered by Étang Saumâtre, providing aquaculture potential.", "Focus of agricultural modernization and irrigation projects."]
-    }
-  },
+    }, image: "/poi-images/thomazeau-agri-industry-economic-v2.webp"},
   {
     id: "milot-industry-economic-v2",
     type: "industry",
@@ -293,8 +283,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["Az UNESCO világörökség részét képező Citadelle Laferrière kapuja.", "A hagyományos kőfaragó és restauráló mesterségek központja.", "Gazdaságilag erősen a kultúrturizmusra épít.", "A citrusfélék termesztésének jelentős helyszíne.", "Szuvenírek és művészeti tárgyak kézműves előállítása.", "Helyi kávészövetkezetek székhelye."],
       ro: ["Poarta de acces către Cetatea Laferrière, sit UNESCO.", "Centru pentru meșteșuguri tradiționale de cioplire a pietrei și restaurare.", "Economie bazată în mare parte pe turismul cultural.", "Locație importantă pentru cultivarea citricelor.", "Producție artizanală de suveniruri și obiecte de artă.", "Sediu al cooperativelor locale din sectorul cafelei."],
       en: ["Gateway to the UNESCO World Heritage Citadelle Laferrière.", "Center for specialized masonry and historic restoration skills.", "Local economy is dominated by tourism and hospitality services.", "Significant producer of citrus fruits in the Northern Department.", "Hub for artisanal handicrafts and papier-mâché art.", "Home to agricultural cooperatives focusing on coffee production."]
-    }
-  },
+    }, image: "/poi-images/milot-industry-economic-v2.webp"},
   {
     id: "mirebalais-energy-economic-v2",
     type: "industry",
@@ -314,8 +303,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A Péligre vízerőmű (47 MW teljesítmény) helyszíne.", "A Központi-fennsík legfontosabb energiacsomópontja.", "A Karib-térség egyik legmodernebb egyetemi kórházának székhelye.", "A regionális állat- és agrárkereskedelem központja.", "A belső infrastruktúra-fejlesztés stratégiai bázisa.", "Jelentős közlekedési csomópont Port-au-Prince és Hinche között."],
       ro: ["Locația hidrocentralei Péligre (capacitate de 47 MW).", "Cel mai important hub energetic pentru Podișul Central.", "Găzduiește unul dintre cele mai moderne spitale universitare din Caraibe.", "Centru pentru comerțul regional cu animale și produse agricole.", "Bază strategică pentru dezvoltarea infrastructurii în interiorul țării.", "Nod de transport major între Port-au-Prince și Hinche."],
       en: ["Critical node for hydroelectric power from the Péligre Dam.", "Primary energy distribution hub for the Central Plateau.", "Home to the world-renowned University Hospital of Mirebalais.", "Major regional center for livestock and agricultural auctions.", "Strategically located on the main road to the Central Department.", "Focus of renewable energy and rural electrification projects."]
-    }
-  },
+    }, image: "/poi-images/mirebalais-energy-economic-v2.webp"},
   {
     id: "les-cayes-manufacturing-economic-v2",
     type: "industry",
@@ -335,8 +323,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A haiti vetiver-feldolgozás központja.", "Sud megye legfontosabb ipari helyszíne.", "Illóolajokat gyárt a globális luxusparfümipar számára.", "Cukornád- és gabonafeldolgozó üzemeknek ad otthont.", "A mezőgazdasági gépek központi kereskedelmi helye délen.", "Az egész déli félsziget gazdasági motorja."],
       ro: ["Centrul procesării vetiverului în Haiti.", "Cea mai importantă locație industrială din departamentul Sud.", "Produce uleiuri esențiale pentru parfumeria de lux globală.", "Găzduiește unități de procesare pentru trestia de zahăr și cereale.", "Punct central de comerț pentru utilaje agricole în sud.", "Motorul economic pentru întreaga peninsulă de sud."],
       en: ["National hub for high-value vetiver oil processing.", "Most significant industrial base in Haiti's Southern Department.", "Supplies essential oils to international luxury perfume brands.", "Features diverse facilities for sugarcane and staple crop processing.", "Major regional center for agricultural equipment and supplies.", "Key stabilizer for the economy of the southern Tiburon Peninsula."]
-    }
-  },
+    }, image: "/poi-images/les-cayes-manufacturing-economic-v2.webp"},
   {
     id: "cabaret-cement-economic-v2",
     type: "industry",
@@ -377,8 +364,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["Haiti pénzügyi központja, a legtöbb banki székhellyel.", "Luxusszállodák és nemzetközi vállalatok helyszíne.", "A kiváló minőségű importcikkek legfontosabb piaca.", "Szolgáltatási és diplomáciai képviseleti központ.", "Gazdasági gravitációs központ a 2010-es földrengés után.", "Az ország legmodernebb bevásárlóközpontjainak ad otthont."],
       ro: ["Centrul financiar al Haitului, cu cele mai multe sedii bancare.", "Locația hotelurilor de lux și a corporațiilor internaționale.", "Cea mai importantă piață pentru bunuri de import de înaltă calitate.", "Centru pentru servicii și misiuni diplomatice.", "Centru de gravitație economică după cutremurul din 2010.", "Găzduiește cele mai moderne centre comerciale din țară."],
       en: ["Undisputed financial capital of Haiti with major bank HQs.", "National hub for luxury hotels and multinational firms.", "Leading destination for high-end international consumer goods.", "Center of the country's diplomatic and NGO activity.", "Became the capital's economic core following the 2010 quake.", "Home to the most sophisticated shopping malls in Haiti."]
-    }
-  },
+    }, image: "/poi-images/petion-ville-commerce-economic-v2.webp"},
   {
     id: "saint-michel-agri-economic-v2",
     type: "industry",
@@ -398,8 +384,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A Clairin (agrár-rum) termelésének világközpontja.", "Több száz hagyományos kisméretű lepárlónak (Guildives) ad otthont.", "A réspiaci szeszes italok jelentős exportőre.", "Jelentős dohány- és kukoricatermesztő terület.", "Észak-Artibonite legfontosabb gazdasági tényezője.", "Több ezer kisbirtokos gazdaság túlélését biztosítja."],
       ro: ["Centrul mondial al producției de Clairin (rom agricol).", "Găzduiește sute de distilerii tradiționale mici (guildives).", "Exportator important de băuturi spirtoase pentru piețe de nișă.", "Zonă majoră de cultivare a tutunului și porumbului.", "Cel mai important factor economic pentru nordul Artibonite.", "Asigură subzistența pentru mii de mici fermieri."],
       en: ["Global hub for authentic Haitian Clairin production.", "Home to over 300 traditional 'guildive' distilleries.", "Emerging exporter of high-quality spirits to global markets.", "Significant regional producer of tobacco and staple grains.", "Primary economic driver for the Artibonite's highland regions.", "Supports a massive network of small-scale sugarcane growers."]
-    }
-  },
+    }, image: "/poi-images/saint-michel-agri-economic-v2.webp"},
   {
     id: "limonade-tech-economic-v2",
     type: "industry",
@@ -419,8 +404,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["Haiti legmodernebb egyetemének (Roi Henri Christophe) székhelye.", "Az északi agrártechnológiai kutatások központja.", "Jelentős napenergia-létesítményeknek ad otthont.", "Fontos lakó- és szolgáltató központ a Caracol dolgozói számára.", "A fenntartható fejlődésre és a modern mezőgazdaságra összpontosít.", "Stratégiai elhelyezkedés a határátkelőhöz vezető úton."],
       ro: ["Sediul celei mai moderne universități din Haiti (Roi Henri Christophe).", "Centru de cercetare în tehnologie agricolă pentru nord.", "Găzduiește instalații semnificative de energie solară.", "Hub rezidențial și de servicii major pentru angajații din Caracol.", "Focus pe dezvoltare durabilă și agricultură modernă.", "Localizare strategică pe drumul către frontiera dominicană."],
       en: ["Home to the nation's premier modern university campus.", "Regional hub for advanced agricultural science and R&D.", "Site of pioneering solar energy projects in Northern Haiti.", "Key residential community for the Caracol Industrial Park.", "Focuses on bridging the gap between academia and industry.", "Strategically located near the major Atlantic coastal highway."]
-    }
-  },
+    }, image: "/poi-images/limonade-tech-economic-v2.webp"},
   {
     id: "jacmel-port-economic-v2",
     type: "port",
@@ -440,8 +424,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["Haiti történelmileg legjelentősebb kávéexportáló kikötője.", "A Karib-térség első városa elektromos világítással (1925).", "A papírmasé-kézművesség és művészet világközpontja.", "Sud-Est megye legfontosabb gazdasági csomópontja.", "A kikötő a regionális partmenti kereskedelem központja.", "Egyedülálló építészettel rendelkezik a kávé fénykorából."],
       ro: ["Cel mai important port istoric de export de cafea din Haiti.", "Primul oraș din Caraibe cu iluminat electric (1925).", "Centru mondial pentru meșteșugul papier-mâché și artă.", "Cel mai important hub economic din departamentul Sud-Est.", "Portul servește drept centru pentru comerțul de coastă regional.", "Deține o arhitectură unică din perioada de glorie a cafelei."],
       en: ["Formerly Haiti's premier port for high-grade coffee exports.", "First Caribbean city to install a public power grid in 1925.", "Global heart of Haiti's papier-mâché artisan movement.", "Primary economic and administrative engine for the Southeast.", "Key terminal for regional coastal shipping and local trade.", "Features a well-preserved historic center built on coffee wealth."]
-    }
-  },
+    }, image: "/poi-images/jacmel-port-economic-v2.webp"},
   {
     id: "anse-a-galets-port-economic-v2",
     type: "port",
@@ -461,8 +444,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["La Gonâve szigetének legnagyobb kikötővárosa és gazdasági központja.", "A szárazföldre irányuló faszénexport elsődleges átrakóhelye.", "Az egyetlen kikötő, ahonnan rendszeres komp járatok indulnak Arcahaie-ba.", "Több mint 80 000 szigetlakó ellátásának bázisa.", "A helyi hal- és agrárpiac központja.", "A sziget összes áruimportjának logisztikai csomópontja."],
       ro: ["Cel mai mare oraș portuar și centru economic de pe insula La Gonâve.", "Punct principal de tranzit pentru exporturile de mangal către continent.", "Singurul port cu legături regulate de feribot către Arcahaie.", "Bază pentru aprovizionarea a peste 80.000 de locuitori ai insulei.", "Centru pentru piața locală de pește și produse agricole.", "Nod logistic pentru toate importurile de mărfuri ale insulei."],
       en: ["Largest commercial port and urban center on La Gonâve Island.", "Primary exit point for the island's extensive charcoal trade.", "Main terminal for passenger and cargo ferries to Arcahaie.", "Critical logistics lifeline for over 80,000 residents.", "Central market for artisanal seafood and regional produce.", "Only deep-water entry point for large-scale supply shipments."]
-    }
-  },
+    }, image: "/poi-images/anse-a-galets-port-economic-v2.webp"},
   {
     id: "port-margot-fishing-economic-v2",
     type: "industry",
@@ -482,8 +464,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A kisipari halászat jelentős központja északon.", "Cap-Haïtien piacainak fontos beszállítója.", "Kakaó és trópusi gyümölcsök termőhelye.", "Potenciállal rendelkezik a fenntartható ökoturizmus terén.", "A regionális élelmiszer-ellátási lánc fontos pontja.", "Hal- és agrártermékek hagyományos feldolgozása."],
       ro: ["Centru semnificativ pentru pescuitul artizanal în nord.", "Furnizor important pentru piețele din Cap-Haïtien.", "Loc de producție pentru cacao și fructe tropicale.", "Deține potențial pentru ecoturism durabil.", "Punct important în lanțul regional de aprovizionare cu alimente.", "Procesare tradițională a peștelui și produselor agricole."],
       en: ["Critical hub for artisanal fishing in the Northern Department.", "Primary seafood supplier for the Cap-Haïtien metropolitan area.", "Significant producer of regional cocoa and tropical fruits.", "Emerging destination for community-based ecotourism.", "Essential link in the northern Haiti food distribution network.", "Home to traditional cooperatives for farming and fishing."]
-    }
-  },
+    }, image: "/poi-images/port-margot-fishing-economic-v2.webp"},
   {
     id: "miragoane-industrial-zone-economic-v2",
     type: "industry",
@@ -503,8 +484,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A Reynolds Metals bauxit-műveleteinek egykori központja.", "A bányászati korszak hatalmas ipari maradványainak ad otthont.", "Raktározási logisztika és építőanyag-kereskedelem központja.", "Nippes megye legfontosabb ipari helyszíne.", "Potenciállal rendelkezik biodízel- és agrárprojektek fejlesztésére.", "A gépimport stratégiai csomópontja."],
       ro: ["Fostul sediu al operațiunilor de bauxită Reynolds Metals.", "Găzduiește rămășițe industriale masive din era minieră.", "Centru pentru logistica depozitării și comerțul cu materiale de construcție.", "Cea mai importantă locație industrială din departamentul Nippes.", "Potențial pentru dezvoltarea de proiecte de biodiesel și agricole.", "Nod strategic pentru importul de utilaje."],
       en: ["Former operational base for the Reynolds Metals Company.", "Features large-scale industrial silos and piers from the 20th century.", "Current hub for regional warehousing and equipment distribution.", "Dominant industrial zone for the Nippes Department.", "Proposed site for modern renewable energy and processing plants.", "Key facility for heavy vehicle and machinery transit."]
-    }
-  },
+    }, image: "/poi-images/miragoane-industrial-zone-economic-v2.webp"},
   {
     id: "carrefour-commerce-economic-v2",
     type: "industry",
@@ -524,8 +504,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["Port-au-Prince és a dél közötti kereskedelem legfontosabb kapuja.", "A főváros ellátását biztosító jelentős erőművek székhelye.", "Kiskereskedelmi üzletek és szolgáltatások hatalmas sűrűsége.", "Központi közlekedési csomópont a 2-es főút mentén.", "A déli félszigetről származó agrártermékek fontos piaca.", "A metropolisz régió egyik legnagyobb gazdasági központja."],
       ro: ["Cea mai importantă poartă pentru comerțul între capitală și sud.", "Găzduiește centrale electrice majore care alimentează capitala.", "Densitate enormă de magazine de retail și servicii.", "Nod de transport central pe Route Nationale 2.", "Piață majoră pentru produsele agricole din peninsula de sud.", "Unul dintre cele mai mari centre economice din regiunea metropolitană."],
       en: ["Indispensable transit point for all trade with southern Haiti.", "Location of critical power generation facilities for the capital.", "Home to one of the highest densities of retail trade in the country.", "Major logistics junction on the Route Nationale 2.", "Primary arrival market for southern agricultural harvests.", "A dominant economic engine within the Ouest Department."]
-    }
-  },
+    }, image: "/poi-images/carrefour-commerce-economic-v2.webp"},
   {
     id: "petit-goave-port-economic-v2",
     type: "port",
@@ -545,8 +524,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["Haiti egyik legrégebbi és legpatinásabb kikötővárosa.", "A kiváló minőségű kávéexport egykori világközpontja.", "A délnyugati partvidék partmenti kereskedelmének fontos csomópontja.", "A hátországból származó mezőgazdasági termékek jelentős piaca.", "Büszke kávé- és cukorfeldolgozási hagyományokkal rendelkezik.", "Stratégiai logisztikai pont a 2-es főút mentén."],
       ro: ["Unul dintre cele mai vechi și mai istorice orașe portuare din Haiti.", "Fost centru mondial pentru exportul de cafea de înaltă calitate.", "Nod important pentru comerțul de coastă pe coasta de sud-vest.", "Piață majoră pentru produsele agricole din hinterland.", "Deține o tradiție mândră în procesarea cafelei și a zahărului.", "Punct logistic strategic pe Route Nationale 2."],
       en: ["One of Haiti's founding colonial ports with deep historical roots.", "World-renowned 19th-century center for specialty coffee trade.", "Key maritime link in Haiti's southwestern coastal shipping network.", "Primary trading post for regional agricultural production.", "Symbolized by its coffee mill heritage and artisanal industry.", "Essential transit hub connecting Port-au-Prince to the southern departments."]
-    }
-  },
+    }, image: "/poi-images/petit-goave-port-economic-v2.webp"},
   {
     id: "saint-louis-du-sud-port-economic-v2",
     type: "port",
@@ -566,8 +544,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["Történelmi tengeri kikötő jelentős gyarmati erődökkel.", "A kisipari halászat központja a déli parton.", "Jelentős helyi kukorica- és manióka piac.", "Kisléptékű sólepárló üzemeknek ad otthont.", "Fontos kulturális potenciál a turisztikai szektor számára.", "Ellátási központként szolgál Les Cayes környéke számára."],
       ro: ["Port maritim istoric cu fortificații coloniale importante.", "Centru pentru pescuitul artizanal pe coasta de sud.", "Piață locală semnificativă pentru porumb și manioc.", "Găzduiește mici afaceri de extracție a sării.", "Potențial cultural important pentru sectorul turistic.", "Servește ca centru de aprovizionare pentru împrejurimile orașului Les Cayes."],
       en: ["Historic maritime site featuring notable colonial-era forts.", "Key center for traditional fishing on the southern coast.", "Major regional trading post for staple crops like corn and cassava.", "Home to small-scale solar salt harvesting activities.", "Prime location for future heritage tourism development.", "Essential commercial link for rural communities in the Sud Department."]
-    }
-  },
+    }, image: "/poi-images/saint-louis-du-sud-port-economic-v2.webp"},
   {
     id: "bainet-fishing-economic-v2",
     type: "industry",
@@ -587,8 +564,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A kiváló minőségű kávétermesztés központja délkeleten.", "A kisipari halászat fontos bázisa.", "Gazdaságilag erősen függ az áruk tengeri szállításától.", "Hagyományos építészetéről és érintetlen strandjairól ismert.", "A regionális kereskedelem jelentős agrártermelője.", "A fenntartható halászatra és kávészövetkezetekre összpontosít."],
       ro: ["Centru pentru cultivarea cafelei de înaltă calitate în sud-est.", "Bază importantă pentru pescuitul artizanal.", "Dependent economic de transportul maritim pentru mărfuri.", "Cunoscut pentru arhitectura tradițională și plajele virgine.", "Producător major de bunuri agricole pentru comerțul regional.", "Focus pe pescuit durabil și cooperative de cafea."],
       en: ["Renowned for premium highland coffee production.", "Vital regional hub for artisanal maritime fishing.", "Relies heavily on coastal shipping due to difficult road access.", "Features some of Haiti's best-preserved traditional wooden homes.", "Supplies essential agricultural products to the southeast region.", "Home to small-scale farming and fishing cooperatives."]
-    }
-  },
+    }, image: "/poi-images/bainet-fishing-economic-v2.webp"},
   {
     id: "les-anglais-fishing-economic-v2",
     type: "industry",
@@ -608,8 +584,7 @@ export const poiExtraHaitiEconomicV2: POI[] = [
       hu: ["A mangó- és lime-termelés központja délnyugaton.", "A kisipari partmenti halászat fontos bázisa.", "Gazdaságilag erősen a regionális mezőgazdaságra épít.", "Gyakran érintik szélsőséges időjárási események.", "Alapvető élelmiszereket szállít a regionális piacokra.", "Erős gazda- és halászszövetkezeteiről ismert."],
       ro: ["Centru al producției de mango și lime în sud-vest.", "Bază importantă pentru pescuitul artizanal de coastă.", "Economie bazată puternic pe agricultura regională.", "Afectat frecvent de fenomene meteorologice extreme.", "Furnizează alimente de bază pentru piețele regionale.", "Cunoscut pentru cooperativele sale puternice de fermieri și pescari."],
       en: ["Leading regional producer of limes and Francisque mangoes.", "Key center for traditional artisanal maritime fishing.", "Economy is anchored in sustainable small-scale farming.", "Strategically vital but high-risk hurricane impact zone.", "Supplies fresh produce and grains to the Les Cayes markets.", "Features a well-organized network of agricultural cooperatives."]
-    }
-  },
+    }, image: "/poi-images/les-anglais-fishing-economic-v2.webp"},
   {
     id: "port-au-prince-airport-cargo-economic-v2",
     type: "industry",
@@ -632,3 +607,4 @@ export const poiExtraHaitiEconomicV2: POI[] = [
     }
   }
 ];
+

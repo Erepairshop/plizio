@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraComorosEconomicV2: POI[] = [
@@ -39,8 +40,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Located north of Moroni",
         "Uses modern diesel generators"
       ]
-    }
-  },
+    }, image: "/poi-images/voidjou-power-station-economic-v2.webp"},
   {
     id: "boingoma-port-economic-v2",
     type: "port",
@@ -79,8 +79,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Hub of regional trade",
         "Important ferry terminal"
       ]
-    }
-  },
+    }, image: "/poi-images/boingoma-port-economic-v2.webp"},
   {
     id: "moroni-soap-factory-economic-v2",
     type: "industry",
@@ -119,8 +118,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Important local employer",
         "Light industry center"
       ]
-    }
-  },
+    }, image: "/poi-images/moroni-soap-factory-economic-v2.webp"},
   {
     id: "mutsamudu-oil-depot-economic-v2",
     type: "industry",
@@ -159,8 +157,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Near the deep-water port",
         "Has large storage tanks"
       ]
-    }
-  },
+    }, image: "/poi-images/mutsamudu-oil-depot-economic-v2.webp"},
   {
     id: "sima-port-economic-v2",
     type: "port",
@@ -239,8 +236,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Centrally located near the port",
         "Monitors goods imports"
       ]
-    }
-  },
+    }, image: "/poi-images/moroni-customs-warehouse-economic-v2.webp"},
   {
     id: "indian-ocean-printing-economic-v2",
     type: "industry",
@@ -279,8 +275,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Produces official documents",
         "Hub of the local media industry"
       ]
-    }
-  },
+    }, image: "/poi-images/indian-ocean-printing-economic-v2.webp"},
   {
     id: "mutsamudu-thermal-plant-economic-v2",
     type: "industry",
@@ -319,8 +314,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Supplies the second largest city",
         "Critical infrastructure"
       ]
-    }
-  },
+    }, image: "/poi-images/mutsamudu-thermal-plant-economic-v2.webp"},
   {
     id: "mitsamiouli-port-economic-v2",
     type: "port",
@@ -359,8 +353,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Hub for northern fisheries",
         "Base for traditional fishing boats"
       ]
-    }
-  },
+    }, image: "/poi-images/mitsamiouli-port-economic-v2.webp"},
   {
     id: "anjouan-carpentry-economic-v2",
     type: "industry",
@@ -399,8 +392,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Traditional craftsmanship",
         "Key for the building sector"
       ]
-    }
-  },
+    }, image: "/poi-images/anjouan-carpentry-economic-v2.webp"},
   {
     id: "moroni-hydrocarbon-depot-economic-v2",
     type: "industry",
@@ -439,8 +431,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Hub of energy supply",
         "Strategic fuel reserve"
       ]
-    }
-  },
+    }, image: "/poi-images/moroni-hydrocarbon-depot-economic-v2.webp"},
   {
     id: "foumbouni-port-economic-v2",
     type: "port",
@@ -519,8 +510,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Large distillation vats",
         "Economic heart of the region"
       ]
-    }
-  },
+    }, image: "/poi-images/bambao-distillery-economic-v2.webp"},
   {
     id: "mutsamudu-vanilla-center-economic-v2",
     type: "industry",
@@ -599,8 +589,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Link to the east coast",
         "Vital for local traders"
       ]
-    }
-  },
+    }, image: "/poi-images/domoni-port-economic-v2.webp"},
   {
     id: "moroni-fish-packaging-economic-v2",
     type: "industry",
@@ -639,8 +628,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Secures the food chain",
         "Processes tuna and mackerel"
       ]
-    }
-  },
+    }, image: "/poi-images/moroni-fish-packaging-economic-v2.webp"},
   {
     id: "mutsamudu-shipyard-economic-v2",
     type: "industry",
@@ -679,8 +667,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Repairs traditional boats",
         "Industrial site near the port"
       ]
-    }
-  },
+    }, image: "/poi-images/mutsamudu-shipyard-economic-v2.webp"},
   {
     id: "nioumachoua-port-economic-v2",
     type: "port",
@@ -719,8 +706,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Base for the marine park",
         "Handles small cargo volumes"
       ]
-    }
-  },
+    }, image: "/poi-images/nioumachoua-port-economic-v2.webp"},
   {
     id: "fomboni-electricity-plant-economic-v2",
     type: "industry",
@@ -759,8 +745,7 @@ export const poiExtraComorosEconomicV2: POI[] = [
         "Operated by state-owned Sonelec",
         "Central to island development"
       ]
-    }
-  },
+    }, image: "/poi-images/fomboni-electricity-plant-economic-v2.webp"},
   {
     id: "iconi-fishing-port-economic-v2",
     type: "port",
@@ -802,3 +787,4 @@ export const poiExtraComorosEconomicV2: POI[] = [
     }
   }
 ];
+

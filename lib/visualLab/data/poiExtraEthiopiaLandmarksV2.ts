@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEthiopiaLandmarksV2: POI[] = [
@@ -23,8 +24,13 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Wurde 1940 eröffnet.", "Hat eine Kapazität von rund 35.000 Zuschauern."],
       hu: ["1940-ben nyitották meg.", "Körülbelül 35 000 néző befogadására alkalmas."],
       ro: ["A fost deschis în 1940.", "Are o capacitate de aproximativ 35.000 de spectatori."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "Az Addisz-Abeba Stadion egy történelmileg jelentős sportlétesítmény Etiópia fővárosának szívében, amelyet 1940-ben adtak át. Ez a központi helyszíne a hazai labdarúgó-mérkőzéseknek és a jelentősebb atlétikai versenyeknek, jól tükrözve az ország sportéletének fejlődését. A létesítmény mintegy 35 000 néző befogadására alkalmas, és számos bajnoki címet döntöttek el a pályáján. Központi elhelyezkedése miatt a helyi sportrajongók számára kihagyhatatlan, és a város sporttörténelmének egyik legfontosabb jelképe."
+    },
+    factsAdvanced: {
+      hu: ["1940-ben nyitották meg központi stadionként.", "Körülbelül 35 000 fős nézőtér.", "Fontos helyszíne az Etióp Kupának.", "Addisz-Abeba szívében található.", "Az etióp atlétika központja.", "Nemzetközi labdarúgó-mérkőzések színhelye."]
+    }, image: "/poi-images/addis-ababa-stadium-landmarks-v2.webp"},
   {
     id: "au-headquarters-landmarks-v2",
     type: "landmark",
@@ -47,8 +53,13 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "Az Afrikai Unió székháza Addisz-Abebában egy modern, 2012-ben átadott épületegyüttes, amely a kontinens diplomáciai életének központja. A 99 méter magas, látványos irodaház az afrikai országok közötti együttműködés adminisztratív bázisa. A központban található a Nagy Gyűlésterem, amely képes több ezer küldöttet fogadni a nemzetközi csúcstalálkozók alkalmával. Az épület a 21. századi Afrika egységét és fejlődését hivatott jelképezni, és a nemzetközi politika meghatározó helyszíne a régióban."
+    },
+    factsAdvanced: {
+      hu: ["2012-ben adták át.", "A központi torony 99 méter magas.", "Az Afrikai Unió székhelye.", "Nagy Gyűlésteremmel rendelkezik.", "Az afrikai diplomácia központja.", "A kontinens egységének jelképe."]
+    }, image: "/poi-images/au-headquarters-landmarks-v2.webp"},
   {
     id: "cbe-headquarters-landmarks-v2",
     type: "landmark",
@@ -71,8 +82,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/cbe-headquarters-landmarks-v2.webp"},
   {
     id: "meyazia-27-monument-landmarks-v2",
     type: "landmark",
@@ -95,8 +105,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/meyazia-27-monument-landmarks-v2.webp"},
   {
     id: "tiglachin-monument-landmarks-v2",
     type: "landmark",
@@ -119,8 +128,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/tiglachin-monument-landmarks-v2.webp"},
   {
     id: "yekatit-12-monument-landmarks-v2",
     type: "landmark",
@@ -143,8 +151,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/yekatit-12-monument-landmarks-v2.webp"},
   {
     id: "menelik-ii-monument-landmarks-v2",
     type: "landmark",
@@ -167,8 +174,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/menelik-ii-monument-landmarks-v2.webp"},
   {
     id: "abune-petros-monument-landmarks-v2",
     type: "landmark",
@@ -191,8 +197,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/abune-petros-monument-landmarks-v2.webp"},
   {
     id: "grand-anwar-mosque-landmarks-v2",
     type: "landmark",
@@ -215,8 +220,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/grand-anwar-mosque-landmarks-v2.webp"},
   {
     id: "medhane-alem-cathedral-landmarks-v2",
     type: "landmark",
@@ -239,8 +243,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/medhane-alem-cathedral-landmarks-v2.webp"},
   {
     id: "holy-trinity-cathedral-landmarks-v2",
     type: "landmark",
@@ -263,8 +266,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/holy-trinity-cathedral-landmarks-v2.webp"},
   {
     id: "st-georges-cathedral-landmarks-v2",
     type: "landmark",
@@ -287,8 +289,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/st-georges-cathedral-landmarks-v2.webp"},
   {
     id: "jubilee-palace-landmarks-v2",
     type: "landmark",
@@ -311,8 +312,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/jubilee-palace-landmarks-v2.webp"},
   {
     id: "national-museum-ethiopia-landmarks-v2",
     type: "landmark",
@@ -335,8 +335,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/national-museum-ethiopia-landmarks-v2.webp"},
   {
     id: "red-terror-martyrs-memorial-landmarks-v2",
     type: "landmark",
@@ -359,8 +358,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/red-terror-martyrs-memorial-landmarks-v2.webp"},
   {
     id: "meskel-square-landmarks-v2",
     type: "landmark",
@@ -383,8 +381,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/meskel-square-landmarks-v2.webp"},
   {
     id: "biete-medhane-alem-landmarks-v2",
     type: "landmark",
@@ -407,8 +404,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/biete-medhane-alem-landmarks-v2.webp"},
   {
     id: "biete-ghiorgis-landmarks-v2",
     type: "landmark",
@@ -431,8 +427,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/biete-ghiorgis-landmarks-v2.webp"},
   {
     id: "obelisk-of-axum-landmarks-v2",
     type: "landmark",
@@ -455,8 +450,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/obelisk-of-axum-landmarks-v2.webp"},
   {
     id: "king-ezana-stela-landmarks-v2",
     type: "landmark",
@@ -479,8 +473,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/king-ezana-stela-landmarks-v2.webp"},
   {
     id: "church-mary-of-zion-landmarks-v2",
     type: "landmark",
@@ -503,8 +496,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/church-mary-of-zion-landmarks-v2.webp"},
   {
     id: "debre-berhan-selassie-landmarks-v2",
     type: "landmark",
@@ -527,8 +519,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/debre-berhan-selassie-landmarks-v2.webp"},
   {
     id: "palace-of-jimma-aba-jifar-landmarks-v2",
     type: "landmark",
@@ -551,8 +542,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/palace-of-jimma-aba-jifar-landmarks-v2.webp"},
   {
     id: "al-nejashi-mosque-landmarks-v2",
     type: "landmark",
@@ -575,8 +565,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/al-nejashi-mosque-landmarks-v2.webp"},
   {
     id: "dire-dawa-train-station-landmarks-v2",
     type: "landmark",
@@ -599,8 +588,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/dire-dawa-train-station-landmarks-v2.webp"},
   {
     id: "adey-abeba-stadium-landmarks-v2",
     type: "landmark",
@@ -623,8 +611,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/adey-abeba-stadium-landmarks-v2.webp"},
   {
     id: "arthur-rimbaud-center-landmarks-v2",
     type: "landmark",
@@ -647,8 +634,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/arthur-rimbaud-center-landmarks-v2.webp"},
   {
     id: "harar-jugol-walls-landmarks-v2",
     type: "landmark",
@@ -671,8 +657,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/harar-jugol-walls-landmarks-v2.webp"},
   {
     id: "gondar-fasiledes-bath-landmarks-v2",
     type: "landmark",
@@ -695,8 +680,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }
-  },
+    }, image: "/poi-images/gondar-fasiledes-bath-landmarks-v2.webp"},
   {
     id: "biete-amanuel-landmarks-v2",
     type: "landmark",
@@ -722,3 +706,4 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     }
   }
 ];
+

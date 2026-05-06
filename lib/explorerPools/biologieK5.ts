@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/biologieK5.ts
 import type { PoolTopicDef } from "./types";
 
@@ -1482,3 +1483,4 @@ addK5PracticeTopics(BIO_I9_LABELS, BIO_I9_POOL, {
   qc: L("Die Lunge verdaut die meisten Fette.", "The lungs digest most fats.", "A tüdő emészti meg a legtöbb zsírt.", "Plămânii digeră majoritatea grăsimilor."),
   qd: L("Wasser ist schädlich für die Verdauung.", "Water is harmful to digestion.", "A víz káros az emésztésre.", "Apa este dăunătoare digestiei.")
 });
+

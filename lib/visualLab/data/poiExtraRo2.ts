@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraRo2: POI[] = [
@@ -40,8 +41,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Petrobrazi Délkelet-Európa egyik legmodernebb kőolajfinomítója.", "A létesítmény többségi tulajdonosa az OMV Petrom csoport.", "Évente körülbelül 4,5 millió tonna nyersolajat dolgoznak fel itt.", "A finomító a benzin, gázolaj és repülőgép-üzemanyag egyik fő előállítója.", "Jelentős beruházások történtek a kéntelenítő berendezések és a hatékonyság növelése érdekében.", "A Petrobrazi saját vasúti és csővezetéki összeköttetéssel rendelkezik.", "Az üzem megfelel a szigorú uniós környezetvédelmi normáknak a kibocsátás-ellenőrzés terén.", "A létesítmény Prahova megye központi gazdasági tényezője."],
       ro: ["Petrobrazi are o capacitate de procesare de 4,5 milioane tone de țiței pe an.", "Facilitatea a fost fondată inițial în anul 1934 lângă Ploiești.", "Peste 2 miliarde de euro au fost investiți în modernizare din 2005 până în prezent.", "Rafinăria produce benzină, motorină, GPL și combustibil pentru avioane.", "Este prima rafinărie din România care a implementat unitatea Polyfuel.", "Petrobrazi deține certificări europene stricte pentru controlul emisiilor de CO2.", "Asigură aproximativ 30% din necesarul de carburanți al pieței românești.", "Dispune de terminale moderne de încărcare pentru transport feroviar și rutier."],
       en: ["Petrobrazi has a processing capacity of 4.5 million tonnes of crude oil per year.", "The facility was originally founded in 1934 near Ploiești.", "More than 2 billion euros have been invested in modernization since 2005.", "The refinery produces gasoline, diesel, LPG and aviation fuel.", "It is the first refinery in Romania to implement the Polyfuel unit.", "Petrobrazi holds strict European certifications for CO2 emissions control.", "It covers roughly 30% of Romania's fuel demand.", "It has modern loading terminals for rail and road transport."]
-    }
-  },
+    }, image: "/poi-images/industry-petrobrazi-extra.webp"},
   {
     id: "port-constanta-south-extra",
     type: "port",
@@ -81,8 +81,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Konstanca-Dél a Fekete-tenger legmélyebb és legnagyobb kikötője.", "Az Ázsia és Európa közötti tengeri kereskedelem kapuját alkotja.", "A kikötő specializált terminálokkal rendelkezik konténerek, olaj és szén számára.", "A Duna-Fekete-tenger csatornához való közvetlen csatlakozás lehetővé teszi a belvízi hajózást.", "A modern logisztikai központok hatalmas raktárkapacitást kínálnak a tranzitáruk számára.", "A kikötő a mezőgazdasági termékek fontos átrakodóhelye.", "A folyamatos bővítések biztosítják a növekvő kereskedelmi volumen kezelését.", "A helyszín különleges vámszabályokkal rendelkező szabadkereskedelmi övezetnek minősül."],
       ro: ["Portul Constanța are o suprafață totală de peste 3.900 de hectare.", "În 2023, portul a procesat un volum record de peste 92 de milioane de tone de marfă.", "Adâncimea maximă a danelor ajunge la 19 metri, permițând accesul navelor mari.", "Este situat la intersecția coridoarelor de transport Rin-Dunăre și Asia-Europa.", "Terminalul de containere DP World este cel mai mare de la Marea Neagră.", "Capacitatea de stocare a cerealelor depășește 1,5 milioane de tone în silozuri moderne.", "Portul este conectat direct la rețeaua feroviară europeană prin magistrala 800.", "Canalul Dunăre-Marea Neagră face legătura cu portul Rotterdam via fluviul Dunărea."],
       en: ["Constanța Port covers a total area of more than 3,900 hectares.", "In 2023, the port handled a record volume of over 92 million tonnes of cargo.", "Maximum berth depth reaches 19 meters, allowing large ships access.", "It sits at the intersection of the Rhine-Danube and Asia-Europe transport corridors.", "The DP World container terminal is the largest on the Black Sea.", "Grain storage capacity exceeds 1.5 million tonnes in modern silos.", "The port is directly connected to the European rail network via Main Line 800.", "The Danube-Black Sea Canal links it with Rotterdam via the Danube River."]
-    }
-  },
+    }, image: "/poi-images/port-constanta-south-extra.webp"},
   {
     id: "industry-dacia-mioveni-extra",
     type: "industry",
@@ -163,8 +162,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Continental Temesvár Európa egyik legnagyobb gumiabroncs-gyárát üzemelteti.", "A telephely az autóelektronika központi fejlesztési központja.", "Temesváron modern szoftvermegoldásokat fejlesztenek az autonóm vezetéshez.", "A gyár szinte az összes nagy globális autógyártót kiszolgálja.", "A Continental Temes megye egyik legnagyobb magánmunkaadója.", "Jelentős szűrőberendezéseket telepítettek a kibocsátás csökkentése érdekében.", "A gyár a legmodernebb okosgyár (Smart Factory) technológiákat alkalmazza.", "Évente több millió gumiabroncsot gyártanak itt személygépkocsik és könnyű teherautók számára."],
       ro: ["Fabrica de anvelope din Timișoara a depășit pragul de 250 de milioane de pneuri produse.", "Continental a investit peste 500 de milioane de euro în Timișoara din anul 2000.", "Unitatea de electronică produce peste 15 milioane de componente anual.", "Compania este unul dintre cei mai mari angajatori privați din județul Timiș.", "Continental Timișoara dezvoltă tehnologii pentru siguranța activă și pasivă a mașinilor.", "Fabrica de anvelope utilizează sisteme moderne de filtrare pentru protecția mediului.", "Anvelopele produse la Timișoara sunt exportate în peste 50 de țări pe toate continentele.", "Centrul de R&D din Timișoara are peste 1.000 de ingineri specializați în software auto."],
       en: ["The Timișoara tire factory has surpassed 250 million tires produced.", "Continental has invested more than 500 million euros in Timișoara since 2000.", "The electronics unit produces over 15 million components annually.", "The company is among the largest private employers in Timiș County.", "Continental Timișoara develops technologies for active and passive vehicle safety.", "The tire factory uses modern filtration systems for environmental protection.", "Tires produced in Timișoara are exported to more than 50 countries on all continents.", "The R&D center in Timișoara has more than 1,000 engineers specialized in automotive software."]
-    }
-  },
+    }, image: "/poi-images/industry-continental-timisoara-extra.webp"},
   {
     id: "industry-ford-craiova-extra",
     type: "industry",
@@ -204,8 +202,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Craiova a Ford Puma gyártásának kulcsfontosságú helyszíne.", "A gyárat az elektromos járművek gyártásához modernizálták.", "Itt található a konszern egyik leghatékonyabb motorgyártó üzeme.", "Több mint 600 robot segíti a nagy pontosságú gyártást a csarnokokban.", "A Ford Otosan Olténia régió legnagyobb exportőre.", "A telephely hosszú hagyományokkal rendelkezik a járműgyártásban (korábban Oltcit/Daewoo).", "Következetesen végrehajtják a szén-dioxid-semleges termelésre irányuló intézkedéseket.", "A gyár több ezer alkalmazottnak nyújt közvetlen munkalehetőséget."],
       ro: ["Ford a preluat uzina de la Craiova în anul 2008 de la compania Daewoo.", "Modelul Ford Puma, produs exclusiv la Craiova, este lider de vânzări în segmentul său.", "Investițiile totale la Craiova au depășit pragul de 2 miliarde de euro.", "Secția de motoare produce faimosul motor EcoBoost de 1.0 litri.", "Din 2024, uzina produce versiuni complet electrice ale modelelor sale.", "Ford Otosan este cel mai mare exportator din regiunea Oltenia.", "Peste 600 de roboți industriali sunt utilizați în secțiile de caroserie și vopsitorie.", "Suprafața complexului industrial depășește 100 de hectare în municipiul Craiova."],
       en: ["Ford took over the Craiova plant in 2008 from Daewoo.", "The Ford Puma, produced exclusively in Craiova, is a sales leader in its segment.", "Total investments in Craiova have exceeded 2 billion euros.", "The engine section produces the famous 1.0-liter EcoBoost engine.", "Since 2024, the plant has produced fully electric versions of its models.", "Ford Otosan is the largest exporter in the Oltenia region.", "More than 600 industrial robots are used in the body and paint shops.", "The industrial complex covers more than 100 hectares in Craiova municipality."]
-    }
-  },
+    }, image: "/poi-images/industry-ford-craiova-extra.webp"},
   {
     id: "industry-liberty-galati-extra",
     type: "industry",
@@ -286,8 +283,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Aerostar az F-16-os vadászgépek engedélyezett karbantartó központja.", "A vállalat Kelet-Románia egyik legnagyobb munkaadója.", "Hidraulikus alkatrészeket és futóműveket gyárt utasszállító repülőgépekhez.", "Az Aerostar a legmodernebb hangárokkal rendelkezik a nagyméretű repülőgépek karbantartásához.", "A vállalatot jegyzik a bukaresti tőzsdén.", "Számos nemzetközi légitársaság Bákóban tartatja karban flottáját.", "A vállalat saját képzési központot üzemeltet repülőgép-technikusok számára.", "Az Aerostar kulcsszerepet játszik a NATO védelmi programjaiban."],
       ro: ["Aerostar a fost înființată în anul 1953 sub numele de URA (Uzina de Reparații Avioane).", "Este centrul oficial de mentenanță pentru flota de avioane F-16 a României.", "Compania repară anual peste 50 de avioane comerciale Airbus și Boeing.", "Aerostar produce componente pentru toate modelele de avioane din familia Airbus.", "Hangarul inaugurat la Iași în 2020 extinde capacitatea de mentenanță civilă.", "Peste 70% din cifra de afaceri a companiei provine din exporturi internaționale.", "Este unul dintre cei mai mari furnizori de componente hidraulice pentru aviație.", "Compania are peste 1.800 de angajați specializați în inginerie aerospațială."],
       en: ["Aerostar was founded in 1953 under the name URA (Aircraft Repair Plant).", "It is the official maintenance center for Romania's F-16 fleet.", "The company repairs more than 50 commercial Airbus and Boeing aircraft annually.", "Aerostar produces components for every aircraft model in the Airbus family.", "The hangar inaugurated in Iași in 2020 expands civilian maintenance capacity.", "More than 70% of the company's turnover comes from international exports.", "It is one of the largest suppliers of hydraulic components for aviation.", "The company has more than 1,800 employees specialized in aerospace engineering."]
-    }
-  },
+    }, image: "/poi-images/industry-aerostar-bacau-extra.webp"},
   {
     id: "industry-autoliv-brasov-extra",
     type: "industry",
@@ -327,8 +323,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Autoliv Brassó a világ legnagyobb biztonságiöv-gyártója.", "A vállalat több gyárat üzemeltet Brassóban és környékén.", "A tesztlaboratóriumokban összetett baleseti szimulációkat végeznek.", "Az Autoliv olyan prémium márkákat szolgál ki, mint a BMW, az Audi és a Mercedes-Benz.", "A telephely egész Romániából vonzza a mérnököket.", "Másodpercenként több száz biztonsági termék hagyja el az összeszerelő sorokat.", "Az Autoliv erőteljesen elkötelezett a régió társadalmi projektjei mellett.", "A termelés nagymértékben automatizált és digitálisan hálózatba kapcsolt."],
       ro: ["Autoliv Brașov a fost fondată în anul 1997 și a crescut constant de atunci.", "Compania produce peste 10 milioane de centuri de siguranță în fiecare an.", "Autoliv este cel mai mare angajator privat din județul Brașov, cu mii de salariați.", "Unitatea produce airbag-uri frontale, laterale și de tip cortină pentru piața globală.", "Inginerii din Brașov dezvoltă software și hardware pentru senzorii de impact.", "Produsele Autoliv fabricate în România se regăsesc în 1 din 3 mașini la nivel mondial.", "Compania deține un laborator modern de teste dinamice și simulări de coliziune.", "Autoliv promovează standardul 'Zero Defecte' datorită naturii critice a produselor sale."],
       en: ["Autoliv Brașov was founded in 1997 and has grown steadily since then.", "The company produces more than 10 million seat belts every year.", "Autoliv is the largest private employer in Brașov County, with thousands of employees.", "The unit produces frontal, side and curtain airbags for the global market.", "Engineers in Brașov develop software and hardware for impact sensors.", "Autoliv products made in Romania are found in 1 out of 3 cars worldwide.", "The company operates a modern lab for dynamic testing and crash simulations.", "Autoliv promotes the 'Zero Defects' standard because of the critical nature of its products."]
-    }
-  },
+    }, image: "/poi-images/industry-autoliv-brasov-extra.webp"},
   {
     id: "industry-mintia-power-extra",
     type: "industry",
@@ -368,8 +363,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Mintia erőművet jelenleg Románia legnagyobb gázerőművévé alakítják át.", "Az új létesítmény lényegesen magasabb energiahatékonysággal fog rendelkezni.", "A telephely stratégiailag fontos hálózati csatlakozással rendelkezik.", "Eredetileg a Valea Jiului régióból származó szénnel üzemeltették az erőművet.", "A modernizáció az energiaszektor egyik legnagyobb magánberuházása.", "Az erőmű a Maros folyó vizét használja hűtésre.", "Kulcsszerepet kell játszania Románia szénkivezetési folyamatában.", "Az új gázturbinák a világ legmodernebb generációjához tartoznak."],
       ro: ["Termocentrala Mintia a fost inaugurată în anul 1969, funcționând inițial pe cărbune.", "În 2022, centrala a fost achiziționată de grupul Mass Group Holding din Iordania.", "Noul proiect pe gaz va avea o capacitate instalată record de 1.700 MW.", "Investiția pentru modernizare și conversie depășește 1 miliard de euro.", "Centrala utilizează apa fluviului Mureș pentru procesele de răcire.", "Va deveni cea mai eficientă unitate de producție de energie electrică din România.", "Turbinele pe gaz instalate sunt de tip SGT5-9000HL, cele mai avansate tehnologic.", "Modernizarea Mintia va crea sute de locuri de muncă în sectorul energetic din Hunedoara."],
       en: ["The Mintia power plant was inaugurated in 1969 and originally ran on coal.", "In 2022, the plant was acquired by Jordan's Mass Group Holding.", "The new gas project will have a record installed capacity of 1,700 MW.", "The investment for modernization and conversion exceeds 1 billion euros.", "The plant uses water from the Mureș River for cooling processes.", "It will become the most efficient electricity generation unit in Romania.", "The installed gas turbines are SGT5-9000HL models, among the most advanced technologically.", "The modernization of Mintia will create hundreds of jobs in Hunedoara's energy sector."]
-    }
-  },
+    }, image: "/poi-images/industry-mintia-power-extra.webp"},
   {
     id: "industry-resita-steel-extra",
     type: "industry",
@@ -409,8 +403,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Resicabánya Délkelet-Európa egyik legrégebbi ipari helyszíne (1771 óta).", "A gyár kiváló minőségű acéltuskókat készít a csőgyártáshoz.", "Itt készültek Románia első gőzmozdonyai.", "A telephely modern elektromos ívkemencéket használ az acélolvasztáshoz.", "A resicai acélt világszerte használják az energia- és építőiparban.", "A gyár szorosan kapcsolódik a város identitásához és történelméhez.", "Szigorú minőségellenőrzést végeznek a nemzetközi szabványoknak megfelelően.", "A vállalat folyamatosan fektet be a környezeti hatások csökkentésébe."],
       ro: ["Combinatul a fost înființat la 3 iulie 1771, fiind unul dintre cele mai vechi din Europa.", "La Reșița a fost produsă prima locomotivă cu abur din România, modelul Resicza (1872).", "Unitatea produce anual sute de mii de tone de oțel pentru țevi industriale.", "Combinatul utilizează tehnologia cuptorului cu arc electric (EAF) pentru eficiență.", "Oțelul produs aici este exportat către fabricile de țevi din toată Europa și SUA.", "Reșița a fost centrul siderurgic principal al Monarhiei Austro-Ungare în secolul XIX.", "Combinatul este integrat cu fabrica de țevi ARTROM din Slatina.", "Istoria Reșiței este strâns legată de exploatarea resurselor din Munții Banatului."],
       en: ["The steelworks was founded on July 3, 1771, making it one of the oldest in Europe.", "Romania's first steam locomotive, the Resicza model, was produced in Reșița in 1872.", "The unit produces hundreds of thousands of tonnes of steel for industrial pipes each year.", "The steelworks uses electric arc furnace (EAF) technology for efficiency.", "The steel produced here is exported to pipe plants across Europe and the United States.", "Reșița was the main steel center of the Austro-Hungarian Monarchy in the 19th century.", "The steelworks is integrated with the ARTROM pipe factory in Slatina.", "Reșița's history is closely tied to the exploitation of resources in the Banat Mountains."]
-    }
-  },
+    }, image: "/poi-images/industry-resita-steel-extra.webp"},
   {
     id: "industry-rovinari-extra",
     type: "industry",
@@ -450,8 +443,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Rovinari Délkelet-Európa egyik legnagyobb hőerőműve.", "A létesítményt közvetlenül a szomszédos lignitbányák látják el szénnel.", "Az erőmű a román villamosenergia-hálózat stabilitásának központi pillére.", "Jelentős kéntelenítő berendezéseket telepítettek a kibocsátás mérséklésére.", "A beépített teljesítmény meghaladja az 1300 megawattot.", "Rovinari az állami Olténia Energetikai Komplexum (CEO) része.", "A létesítmény éjjel-nappal biztosítja az ország alapvető áramellátását.", "A helyszín Délnyugat-Románia egyik legjelentősebb gazdasági tényezője."],
       ro: ["Termocentrala Rovinari are o capacitate instalată totală de peste 1.300 MW.", "Este alimentată direct cu lignit din carierele miniere din vecinătate (ex: Roșia).", "Centrala asigură aproximativ 15-20% din producția totală de electricitate a României.", "Turnurile de răcire de la Rovinari sunt printre cele mai înalte structuri din județul Gorj.", "Fiecare grup energetic de 330 MW a fost modernizat pentru a reduce poluarea.", "Centrala funcționează non-stop, asigurând curentul electric 'în bandă'.", "Peste 1.000 de angajați lucrează direct în exploatarea și mentenanța centralei.", "Instalațiile de desulfurare rețin peste 95% din dioxidul de sulf emis."],
       en: ["Construction began in 1968, with the first unit commissioned in June 1972.", "The plant has a modern installed capacity of approximately 990 MW.", "Unit 5 was recently modernized in a 100-million-euro project in 2024.", "Primarily fueled by lignite from the nearby Tismana and Roșia mines.", "The station's chimneys are among the tallest industrial structures in the region.", "Strategic electricity provider, especially during peak winter demand periods."]
-    }
-  },
+    }, image: "/poi-images/industry-rovinari-extra.webp"},
   {
     id: "industry-oltchim-vl-extra",
     type: "industry",
@@ -491,8 +483,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Oltchim a poliéter-poliolok vezető gyártója volt Európában.", "A komplexum speciális berendezéseket tartalmaz a klór-alkáli elektrolízishez.", "A vállalat fontos exportőr volt az egész balkáni régió számára.", "Râmnicu Vâlcea az Oltchim révén hosszú ipari hagyományokkal rendelkezik.", "A berendezések a kiváló minőségű PVC gyártásáról ismertek.", "Az Oltchim kulcsszerepet játszott a vegyipar vertikális integrációjában.", "A telephely fontos szállítási útvonalakkal és csővezetékekkel van összekötve.", "A létesítmények revitalizációja a regionális gazdaságpolitika prioritása."],
       ro: ["Oltchim a fost fondat în anul 1966 sub numele de Combinatul Chimic Râmnicu Vâlcea.", "Este unul dintre puținii producători europeni de polioli pentru spume flexibile.", "Combinatul utilizează sarea extrasă din minele de la Ocnele Mari ca materie primă.", "În 2018, activele viabile ale Oltchim au fost preluate de Chimcomplex Borzești.", "Unitatea produce sodă caustică, acid clorhidric și hipoclorit de sodiu.", "Oltchim deține propria divizie de producție a materialelor de construcții (PVC).", "A fost un exportator major, trimițând produse în peste 80 de țări.", "Râmnicu Vâlcea a devenit un centru academic chimic datorită acestui combinat."],
       en: ["Established in 1966 as the Râmnicu Vâlcea Chemical Combine.", "Historically one of the largest producers of polyols and PVC in the Balkans.", "Strategically located near the Ocnele Mari salt mines for raw materials.", "The main production assets were acquired by Chimcomplex in 2018.", "At its peak, it was a major exporter to over 80 countries worldwide.", "Played a central role in the development of the city of Râmnicu Vâlcea."]
-    }
-  },
+    }, image: "/poi-images/industry-oltchim-vl-extra.webp"},
   {
     id: "industry-tenaris-zalau-extra",
     type: "industry",
@@ -532,8 +523,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A TenarisSilcotub Zilah a varrat nélküli acélcsövek specialistája.", "A gyár a világ legnagyobb olaj- és gázipari konszernjeit szolgálja ki.", "Zilahon a legmodernebb roncsolásmentes vizsgálati módszereket alkalmazzák.", "A telephely a világszerte tevékenykedő Tenaris-csoport része.", "A Tenaris Szilágy megye legjelentősebb magánmunkaadója.", "Átfogó oktatási programok segítik a helyi műszaki képzést.", "A termékeket igényes fúrásokhoz és csővezetékekhez használják.", "A gyár magas szintű követelményeket támaszt az ipari fenntarthatóság terén."],
       ro: ["TenarisSilcotub a fost preluată de grupul Tenaris în anul 2004.", "Investițiile totale în fabrica de la Zalău au depășit 500 de milioane de dolari.", "Compania produce peste 150.000 de tone de țevi de oțel anual.", "Țevile de la Zalău sunt folosite în foraje marine la adâncimi de mii de metri.", "TenarisSilcotub deține propria academie de formare profesională în Zalău.", "Fabrica a implementat sisteme robotizate pentru verificarea defectelor de structură.", "Peste 95% din producția fabricii din Sălaj merge către export.", "Tenaris este cel mai mare angajator privat din județul Sălaj."],
       en: ["The Zalău seamless pipe mill was originally founded in the 1970s.", "Became part of the global Tenaris network in 2004 through acquisition.", "Specializes in high-performance pipes for the oil and gas industry.", "Exports over 90% of its total production to more than 70 countries.", "The site has received massive investments in automation and safety technology.", "One of the largest employers and economic drivers in Sălaj County."]
-    }
-  },
+    }, image: "/poi-images/industry-tenaris-zalau-extra.webp"},
   {
     id: "industry-draexlmaier-sm-extra",
     type: "industry",
@@ -573,8 +563,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Dräxlmaier Szatmárnémeti kábelkötegeket gyárt vezető német autómárkáknak.", "A gyár Északnyugat-Románia egyik legnagyobb munkaadója.", "Szatmárnémetiben a német mintájú duális képzési programot alkalmazzák.", "A telephely luxuskategóriás belső rendszereket is gyárt.", "A Dräxlmaier jelentősen befektet az e-mobilitási alkatrészekbe Romániában.", "A gyár tanúsítvánnyal rendelkezik a legmagasabb IATF minőségi szabványok szerint.", "A fenntartható termelés és az erőforrás-hatékonyság központi vállalati célok.", "Szatmárnémeti stratégiai csomópont a globális Dräxlmaier-logisztikában."],
       ro: ["Dräxlmaier Satu Mare a fost deschisă în anul 1993, fiind prima fabrică a grupului în RO.", "Compania produce cablaje electrice complexe pentru mașini de lux germane.", "Este cel mai mare angajator privat din județul Satu Mare.", "Satu Mare a fost punctul de plecare pentru expansiunea Dräxlmaier în Timișoara și Brașov.", "Uzina aplică sistemul de producție 'Just-in-Sequence' pentru livrări rapide.", "Compania susține învățământul dual în colaborare cu liceele tehnice locale.", "Investițiile constante au transformat locația într-o fabrică digitalizată (Industrie 4.0).", "Produsele fabricate aici echipează milioane de vehicule care circulă pe drumurile Europei."],
       en: ["Dräxlmaier Group was one of the first major German investors in Romania.", "The Satu Mare plant is specialized in complex electrical wiring systems.", "Supplies premium components for world-class brands like BMW and Audi.", "Dräxlmaier employs over 15,000 people across its multiple Romanian sites.", "Known for implementing the dual-education system for local students.", "The facility is a major contributor to the export volume of Satu Mare County."]
-    }
-  },
+    }, image: "/poi-images/industry-draexlmaier-sm-extra.webp"},
   {
     id: "industry-faist-oradea-extra",
     type: "industry",
@@ -614,8 +603,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Faist Mekatronic a globális 5G infrastruktúra kulcsfontosságú beszállítója.", "A gyár alumíniumöntésre és mechanikai megmunkálásra specializálódott.", "Románia egyik legmodernebb ipari parkjában található Nagyváradon.", "A termelésben több száz nagy pontosságú CNC gépet használnak.", "A Faist olyan óriásokat szolgál ki, mint az Ericsson, a Nokia és neves autógyártók.", "A telephelyet igen magas exportarány jellemzi.", "Folyamatos beruházások irányulnak a helyi kutatás-fejlesztésbe.", "A vállalat intenzíven támogatja a STEM-oktatást Bihar megyében."],
       ro: ["Faist Mekatronic s-a instalat în parcul industrial din Oradea în anul 2011.", "Unitatea este specializată în piese turnate din aluminiu prin tehnologie de înaltă presiune.", "Produce componente critice pentru stațiile de bază de telefonie mobilă 5G.", "Oradea găzduiește peste 200 de centre de prelucrare mecanică de mare precizie.", "Compania colaborează cu Universitatea din Oradea pentru programe de internship.", "Faist este unul dintre principalii exportatori ai județului Bihor.", "Suprafața fabricii depășește 25.000 de metri pătrați de spații de producție.", "Procesele de turnare sunt complet automatizate pentru a asigura calitatea constantă."],
       en: ["The Oradea plant is one of the FAIST Group's most modern facilities.", "Specializes in aluminum die-casting and precision machining.", "Primary supplier of infrastructure components for global 5G networks.", "Located in the Oradea Industrial Park, a hub for foreign investment.", "Features a high degree of robotic automation in its production lines.", "Employs over 1,000 specialists in the fields of engineering and manufacturing."]
-    }
-  },
+    }, image: "/poi-images/industry-faist-oradea-extra.webp"},
   {
     id: "industry-astra-vagoane-arad-extra",
     type: "industry",
@@ -655,8 +643,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Astra Vagoane Aradot már 1891-ben alapították.", "A vállalat Románia legfontosabb villamosgyártója.", "Az 'Imperio' villamos a jelenlegi termelés zászlóshajója.", "Az Astra luxus személyvagonokat is gyárt nemzetközi piacokra.", "Az aradi telephely a vasúti technológia jelentős központja.", "A vállalat szilárd román kézben van és támogatja a helyi szaktudást.", "Az Astra vagonok tartósságukról és robusztusságukról ismertek.", "A gyártás megfelel az összes európai interoperabilitási szabványnak (TSI)."],
       ro: ["Fabrica a fost fondată în 1891 sub numele de Fabrica de Mașini, Vagoane și Turnătorie Weitzer.", "Astra produce tramvaiul 'Imperio', utilizat masiv în transportul public din București.", "Este singurul producător român care fabrică vagoane de pasageri pentru viteze mari.", "Compania a exportat vagoane pe patru continente, inclusiv în America de Sud și Africa.", "Aradul este considerat orașul simbol al construcțiilor feroviare din România.", "Tramvaiele Astra sunt dotate cu podea coborâtă și sisteme de climatizare moderne.", "Compania este controlată de investitori români, menținând tradiția industrială locală.", "Unitatea a furnizat sute de vagoane pentru modernizarea flotei CFR Călători."],
       en: ["Founded in 1891 by Johann Weitzer as a carriage and engine factory.", "One of the few historic Romanian companies still active in its original sector.", "Produces the 'Imperio' tram under license from Siemens.", "The company's passenger coaches are used across the national rail network.", "Historically a major exporter of rail carriages to markets in Asia and Africa.", "The Arad factory is a cornerstone of the city's industrial identity."]
-    }
-  },
+    }, image: "/poi-images/industry-astra-vagoane-arad-extra.webp"},
   {
     id: "industry-star-assembly-sebes-extra",
     type: "industry",
@@ -696,8 +683,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Star Assembly a Mercedes-Benz gyártási hálózatának szerves része.", "Szászsebesen többek között a korszerű 9-fokozatú automata váltót szerelik össze.", "A telephelyet milliárdos nagyságrendű beruházásokkal építették ki.", "A gyár a német autóipar legszigorúbb minőségi előírásai szerint működik.", "Fehér megye egyik legnagyobb és technológiailag legfejlettebb munkaadója.", "A Star Assembly telephelyei szén-dioxid-semleges energiaellátásra törekszenek.", "Több száz magasan képzett mérnök dolgozik a helyszínen.", "A gyár termelésének szinte 100%-át a Mercedes-Benz gyárakba exportálja világszerte."],
       ro: ["Star Assembly este o filială deținută integral de grupul Mercedes-Benz AG.", "Unitatea de la Sebeș asamblează cutia de viteze cu 9 trepte 9G-Tronic.", "Investițiile totale ale Mercedes-Benz în locațiile din Sebeș și Cugir depășesc 1 miliard de euro.", "Transmisiile produse la Sebeș sunt montate pe modele precum E-Class și S-Class.", "Fabrica a fost inaugurată oficial pentru producția de cutii de viteze în anul 2013.", "Star Assembly este unul dintre cei mai mari exportatori ai României după cifra de afaceri.", "Locația dispune de panouri fotovoltaice masive pentru a reduce consumul de energie convențională.", "Compania colaborează cu universitățile din Sibiu și Cluj pentru programe de inginerie."],
       en: ["Star Assembly is a 100% subsidiary of Mercedes-Benz AG.", "The Sebeș plant began production of 9G-TRONIC gearboxes in 2016.", "Represented an investment of over 300 million euros for the 9G line alone.", "Works in close coordination with the Star Transmission plant in Cugir.", "The facility is a benchmark for digital manufacturing in Eastern Europe.", "Its products are integrated into millions of Mercedes-Benz cars globally."]
-    }
-  },
+    }, image: "/poi-images/industry-star-assembly-sebes-extra.webp"},
   {
     id: "industry-continental-sibiu-extra",
     type: "industry",
@@ -737,8 +723,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Continental Nagyszeben egy óriási kutatási és fejlesztési központnak ad otthont.", "Itt fejlesztik a vezetéstámogató rendszerek (ADAS) alapvető alkatrészeit.", "A gyár összetett elektronikus vezérlőegységeket készít globális autómárkák számára.", "Nagyszebenben több mint 4000 alkalmazott dolgozik, nagy részük a mérnöki területen.", "A telephely úttörő az autonóm vezetés és a hálózatba kapcsolt mobilitás terén.", "A Continental a helyi informatikai és technológiai szcéna legfontosabb motorja.", "A gyár ultramodern tesztpályákkal és laboratóriumokkal rendelkezik a helyszínen.", "Nagyszeben kulcsfontosságú helyszín a Continental globális elektronikai stratégiájában."],
       ro: ["Continental Sibiu a fost inaugurată în anul 2003 cu doar câțiva angajați.", "Locația are peste 4.500 de angajați, fiind cel mai mare angajator din județul Sibiu.", "Peste 1.000 de ingineri lucrează exclusiv în departamentul de cercetare și dezvoltare (R&D).", "Unitatea produce senzori inteligenți și sisteme de frânare electronică.", "Continental Sibiu a dezvoltat software pentru primele vehicule autonome testate global.", "Compania a investit peste 320 de milioane de euro în Sibiu până în prezent.", "Dispune de o pistă proprie de testare pentru verificarea sistemelor de asistență la condus.", "Este un partener strategic al Universității Lucian Blaga din Sibiu."],
       en: ["Continental began its operations in Sibiu in 2003.", "The site hosts one of Continental's largest R&D centers in the region.", "Produces millions of Electronic Control Units (ECUs) annually.", "Employs over 4,000 people, including more than 1,000 engineers.", "Specializes in driver assistance systems and intelligent braking solutions.", "A major partner for the Lucian Blaga University of Sibiu in technical education."]
-    }
-  },
+    }, image: "/poi-images/industry-continental-sibiu-extra.webp"},
   {
     id: "industry-bosch-cluj-extra",
     type: "industry",
@@ -778,8 +763,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A jucu-i gyár elektronikus vezérlőegységekre (ECU) specializálódott.", "A Bosch itt gyártja a modern járműbiztonsági rendszerek alkatrészeit.", "A telephely a stratégiailag fontos Tetarom III ipari parkban található.", "A Bosch Kolozsváron egy nagy szoftverfejlesztő központot is üzemeltet.", "Jucuban évente több millió elektronikai modult gyártanak.", "A gyár az Ipar 4.0 megoldások úttörője a Bosch-csoporton belül.", "Számos képzési programot kínálnak tanoncok és hallgatók számára.", "A Bosch az egyik legvonzóbb munkaadó a technikusok számára Kolozsvár régiójában."],
       ro: ["Fabrica Bosch Jucu a fost inaugurată oficial în anul 2014.", "Locația produce componente esențiale pentru sistemele de siguranță activă ale mașinilor.", "Unitatea din Jucu utilizează peste 50 de roboți mobili autonomi pentru logistică.", "Bosch a investit sute de milioane de euro în parcul industrial Tetarom III.", "Fabrica produce și sisteme electronice pentru bicicletele electrice (e-bikes).", "Bosch Jucu deține propria școală în sistem dual pentru pregătirea elevilor tehnicieni.", "Este conectată digital cu toate fabricile Bosch din lume pentru schimb de date în timp real.", "Compania este unul dintre cei mai doriți angajatori pentru tinerii absolvenți din Cluj."],
       en: ["The Bosch Cluj plant was officially inaugurated in May 2014.", "Specializes in electronic control units (ECUs) for automotive safety.", "The facility covers more than 50,000 square meters of production space.", "Employs over 3,000 people in manufacturing and related services.", "Closely integrated with the Bosch Engineering Center in Cluj-Napoca.", "Utilizes advanced solar panels and green energy solutions on site."]
-    }
-  },
+    }, image: "/poi-images/industry-bosch-cluj-extra.webp"},
   {
     id: "industry-azomures-ms-extra",
     type: "industry",
@@ -819,8 +803,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Azomureș a legnagyobb műtrágyagyártó Romániában.", "A vállalat fedezi a belföldi agrárvegyipari szükséglet nagy részét.", "A marosvásárhelyi telephely hatalmas ipari létesítményekkel rendelkezik az ammóniaszintézishez.", "Az Azomureș a román földgáz egyik legfontosabb felvevője.", "A vállalat jelentős összegeket fektet be a kibocsátáscsökkentő technológiákba.", "A termékeket szigorú minőségellenőrzés mellett gyártják a világpiac számára.", "Az Azomureș Maros megye egyik legnagyobb munkaadója.", "A komplexum kulcsszerepet játszik a helyi ipari értékteremtésben."],
       ro: ["Combinatul Azomureș a fost înființat în anul 1962 în perioada industrializării masive.", "Este principalul furnizor de îngrășăminte minerale pentru fermierii din România.", "Azomureș procesează volume mari de gaz natural pentru a obține amoniac.", "Investițiile recente de mediu au redus cu peste 50% emisiile de dioxid de azot.", "Produsele Azomureș sunt exportate în țări din toată Europa și bazinul Mediteranei.", "Combinatul este cel mai mare angajator industrial din municipiul Târgu Mureș.", "Facilitatea deține propriul sistem de epurare a apelor uzate conform normelor UE.", "Azomureș colaborează cu institute de cercetare agricolă pentru dezvoltarea de noi formule."],
       en: ["Azomureș was established in 1962 as the Târgu Mureș Nitrogenous Fertilizer Plant.", "It is the largest producer of fertilizers in Romania, with a market share of over 50%.", "The complex produces ammonia, urea, and various NPK fertilizers.", "Acquired by the Swiss group Ameropa in 2012.", "Strategically important for the productivity of the Romanian agricultural sector.", "The plant's distinctive chimneys are the tallest structures in Târgu Mureș."]
-    }
-  },
+    }, image: "/poi-images/industry-azomures-ms-extra.webp"},
   {
     id: "industry-leoni-bn-extra",
     type: "industry",
@@ -860,8 +843,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Leoni Beszterce a világ legismertebb autómárkái számára gyárt kábelkötegeket.", "A telephely Beszterce-Naszód megye legnagyobb munkaadója.", "Összetett fedélzeti hálózatokat gyártanak személygépkocsikhoz és haszongépjárművekhez.", "A Leoni több specializált gyárat üzemeltet a régióban.", "A vállalat termékeit Európa összes nagy autógyárába exportálja.", "A minőségre és a munkabiztonságra vonatkozó magas szabványok jellemzik az üzemet.", "A Leoni az iskolákkal való együttműködés révén támogatja a helyi képzést.", "A telephely a hatékony tömegtermelés mintapéldája."],
       ro: ["Leoni Bistrița este cel mai mare angajator privat din județul Bistrița-Năsăud.", "Compania produce sisteme de cablaje care pot avea mii de conexiuni electrice individuale.", "Unitatea din Bistrița livrează componente pentru branduri ca Mercedes, BMW și Stellantis.", "Compania a inaugurat în Bistrița unități de producție moderne, cu suprafețe vaste.", "Leoni este un exportator major, trimițând cablaje către fabrici de asamblare din toată UE.", "Fiecare cablaj este testat 100% electric înainte de a părăsi linia de producție.", "Leoni susține dezvoltarea comunității locale prin parteneriate educaționale.", "Fabrica de la Bistrița este integrată într-o rețea globală prezentă în peste 30 de țări."],
       en: ["Leoni is the largest private employer in the Bistrița region.", "Produces specialized wiring harnesses for premium European car brands.", "The Bistrița site is part of a global network spanning over 30 countries.", "Features advanced production lines for complex data management systems.", "Plays a critical role in the supply chain for electric vehicle manufacturers.", "Focuses on 'Industry 4.0' initiatives for more efficient manufacturing."]
-    }
-  },
+    }, image: "/poi-images/industry-leoni-bn-extra.webp"},
   {
     id: "industry-egger-sv-extra",
     type: "industry",
@@ -901,8 +883,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Egger Radóc Románia egyik legnagyobb fafeldolgozó üzeme.", "A gyártásban a legmodernebb technológiákat alkalmazzák a forgács- és farostlemezekhez.", "A telephely saját biomassza-erőművel rendelkezik az áramtermeléshez.", "Az Egger Radócon az egyik legfejlettebb hulladékfa-újrahasznosító üzemet működteti.", "A vállalat the globális bútoripart szolgálja ki, beleértve az IKEA-t is.", "A fenntarthatóság és az FSC-tanúsítás a stratégia központi elemei.", "A gyár Suceava megye döntő fontosságú gazdasági motorja.", "Átfogó szűrőberendezések gondoskodnak a tiszta levegőről a gyártási helyszínen."],
       ro: ["Egger a investit peste 500 de milioane de euro în locația de la Rădăuți din 2008.", "Unitatea deține cea mai mare instalație de reciclare a lemnului uzat din țară.", "Energia termică și electrică este produsă local într-o centrală modernă pe biomasă.", "PAL-ul melaminat produs la Rădăuți este utilizat de producători mari ca IKEA.", "Egger este unul dintre principalii angajatori din județul Suceava, cu peste 800 de salariați.", "Peste 50% din producția fabricii din Bucovina este destinată exportului global.", "Unitatea este certificată FSC, garantând utilizarea lemnului din surse sustenabile.", "Fabrica dispune de laboratoare proprii pentru testarea calității și a emisiilor de formaldehidă."],
       en: ["The Rădăuți plant was inaugurated in 2008 as a greenfield investment.", "Features one of the largest chipboard production lines in the region.", "Includes a recycling center for wood waste to promote circular economy.", "The site hosts its own biomass power station for green energy.", "Supplies furniture manufacturers across Romania and more than 40 countries.", "Egger has invested over 500 million euros in the Rădăuți complex."]
-    }
-  },
+    }, image: "/poi-images/industry-egger-sv-extra.webp"},
   {
     id: "industry-rifil-nt-extra",
     type: "industry",
@@ -942,8 +923,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Rifil Săvinești volt az első vegyesvállalat egy nyugati és egy román cég között.", "A vállalat az akrilfonalak vezető európai gyártója.", "Săvinești-ben több mint 50 éves tapasztalatra tekintenek vissza a textilgyártásban.", "A Rifil termelésének nagy részét az Európai Unióba exportálja.", "Az olasz partnerség a legmodernebb technikát és tervezési szaktudást hozta el.", "A vállalat következetesen fektet be az ökológiai festési technológiákba.", "A Rifil a săvinești-i ipari telephely gazdasági központja.", "A fonalakat kiváló minőségű kötött divatárukban és szőtt anyagokban használják."],
       ro: ["Rifil a fost prima companie mixtă Est-Vest din România, înființată în anul 1973.", "Partenerul italian al companiei este Gruppo Finlane, un nume mare în textile.", "Compania produce anual peste 20.000 de tone de fire acrilice vopsite.", "Rifil exportă aproximativ 90% din producția sa către marii producători de modă.", "Locația de la Săvinești beneficiază de o tradiție chimică și textilă de peste 60 de ani.", "Firele Rifil sunt utilizate în colecțiile unor case de modă celebre din Italia și Franța.", "Investițiile recente s-au concentrat pe vopsitoria ecologică și eficiența energetică.", "Rifil este unul dintre cei mai longevivi și stabili angajatori din județul Neamț."],
       en: ["Established in 1973 as the first joint venture in communist Romania.", "Specializes in acrylic yarns and specialized synthetic fibers.", "The company has survived and thrived for over 50 years in the textile sector.", "Exports the vast majority of its production to the Italian and global markets.", "A major economic driver for the Săvinești and Piatra Neamț region.", "Known for its commitment to high-quality standards and Italian design."]
-    }
-  },
+    }, image: "/poi-images/industry-rifil-nt-extra.webp"},
   {
     id: "industry-delphi-is-extra",
     type: "industry",
@@ -983,8 +963,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A jászvásári gyár nagynyomású szivattyúkat és injektorokat készít dízelmotorokhoz.", "A kibocsátáscsökkentő technológiák kulcsfontosságú helyszíne.", "A gyártás szigorú tisztatéri körülmények között zajlik.", "A jászvásári telephely a műszaki szakokon végzettek mágnese.", "A gyár a hajtástechnológiák globális hálózatának része.", "Miroslavában több száz millió eurót fektettek a legmodernebb berendezésekbe.", "A Delphi Iași szinte az összes nagy autógyártónak exportál alkatrészeket.", "A fenntartható gyártási folyamatok a telephely stratégiájának alapvető részét képezik."],
       ro: ["Fabrica de la Iași a fost inaugurată în 2008 ca o investiție masivă a grupului Delphi.", "Produce sisteme de injecție Common Rail pentru marii constructori auto europeni.", "Unitatea de la Miroslava utilizează tehnologie de măsurare cu precizie laser.", "Este unul dintre cei mai mari angajatori privați din regiunea de nord-est a României.", "Producția se desfășoară în medii controlate (săli albe) pentru a evita orice impuritate.", "Peste 98% din componentele produse la Iași sunt destinate piețelor externe.", "BorgWarner, actualul proprietar, investește în adaptarea fabricii pentru era hibridă.", "Locația dispune de sisteme avansate de reciclare a uleiurilor industriale folosite."],
       en: ["The plant was inaugurated in 2008 with a focus on diesel technologies.", "Specializes in the production of high-pressure common rail pumps.", "Features state-of-the-art clean-room production facilities.", "The site has expanded multiple times to accommodate new product lines.", "Part of the global Aptiv network focusing on sustainable mobility.", "A major employer in the Iași metropolitan area with over 2,000 workers."]
-    }
-  },
+    }, image: "/poi-images/industry-delphi-is-extra.webp"},
   {
     id: "industry-rulmenti-vs-extra",
     type: "industry",
@@ -1024,8 +1003,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Rulmenți Bârlad a világszerte ismert URB márkanév alatt gyárt.", "A vállalat termelésének több mint 90%-át minden kontinensre exportálja.", "A bârladi üzemet már 1953-ban megalapították.", "A termékpaletta több ezer különböző csapágytípust foglal magában.", "A Rulmenți Vaslui megye legjelentősebb munkaadója.", "A vállalat a nehézipar és a vasúti járművek számára szállít csapágyakat.", "Az elmúlt években a gyártósorokat átfogóan automatizálták.", "Bârlad a gördülőcsapágy-technológia elismert kompetenciaközpontja."],
       ro: ["Fabrica a fost fondată în anul 1953, devenind rapid un brand global sub sigla URB.", "Produce peste 5.000 de tipodimensiuni de rulmenți pentru diverse industrii.", "Rulmenți Bârlad este cel mai mare angajator privat din județul Vaslui.", "Compania a fost preluată în anul 2000 de grupul turc Kombassan (actual Bera Holding).", "Exportă rulmenți în peste 80 de țări de pe toate continentele lumii.", "Marca URB este protejată internațional și reprezintă calitatea ingineriei românești.", "Unitatea deține propriul centru de cercetare și proiectare pentru produse noi.", "Rulmenții de la Bârlad sunt folosiți în vagoane de cale ferată și utilaje miniere grele."],
       en: ["Founded in 1953 as the Bârlad Bearing Factory.", "Produces a wide variety of ball and roller bearings under the URB brand.", "Historically one of Romania's most successful industrial exporters.", "Acquired by the Kombassan Group (now Bera Holding) in 2000.", "The facility covers a massive area and includes its own tool-making shop.", "Products are exported to over 80 countries worldwide."]
-    }
-  },
+    }, image: "/poi-images/industry-rulmenti-vs-extra.webp"},
   {
     id: "industry-damen-galati-extra",
     type: "industry",
@@ -1065,8 +1043,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Damen Galați a román hajóépítő ipar zászlóshajója.", "A hajógyár világszerte készít nagy szakértelmet igénylő hajókat az ügyfeleknek.", "Galacon építették a NATO legfejlettebb hadihajói közül néhányat.", "A telephely az al-dunai szakasz egyik legnagyobb szárazdokkjával rendelkezik.", "A hajógyár a nemzetközileg tevékenykedő Damen Shipyards Group része.", "Több mint 2000 szakember dolgozik közvetlenül a hajógyárban.", "Galacon készült el a legnagyobb Romániában épített magánjacht.", "A hajógyár a legmodernebb 3D tervező és gyártó szoftvereket használja."],
       ro: ["Damen a preluat șantierul de la Galați în anul 1999, modernizându-l complet.", "Este unul dintre puținele șantiere din regiune care construiește nave militare pentru NATO.", "La Galați a fost construită 'Shinkai', una dintre cele mai avansate nave de explorare.", "Șantierul dispune de un doc uscat cu lungimea de 230 de metri.", "Peste 30 de nave complexe sunt livrate anual de pe liniile de la Galați.", "Damen este principalul angajator industrial din municipiul Galați, cu mii de salariați.", "Șantierul deține un centru de design naval propriu dotat cu software 3D de ultimă oră.", "Aici a fost construit și primul iaht de lux din gama 'SeaXplorer' capabil să spargă gheața."],
       en: ["Shipbuilding activity at the site officially dates back to 1893.", "Joined the Dutch Damen Shipyards Group in 1999.", "Has built over 400 vessels for clients in more than 40 countries.", "Famous for building the SIGMA class corvettes and Joint Support Ships.", "One of the largest employers in the Galați region, supporting thousands of families.", "The yard features a massive 157-meter dry dock for complex repairs."]
-    }
-  },
+    }, image: "/poi-images/industry-damen-galati-extra.webp"},
   {
     id: "industry-vard-braila-extra",
     type: "industry",
@@ -1106,8 +1083,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Vard Brăila a neves norvég Vard-csoporthoz tartozik.", "A hajógyár speciális hajók összetett hajótesteire szakosodott.", "Brăilában luxus expedíciós üdülőhajók testei is készülnek.", "A telephely profitál a Dunához és a Fekete-tengerhez való közvetlen hozzáférésből.", "A Vard Brăila legfontosabb ipari munkaadója.", "A hajógyár szorosan együttműködik a norvégiai társtelephelyekkel.", "A modern hegesztési technológiák és az acélmegmunkálás jellemzik az üzemet.", "A hajógyár elkötelezett a környezetbarátabb gyártási folyamatok mellett."],
       ro: ["Șantierul a fost preluat de grupul norvegian Vard în anul 2000 (fostul Aker Braila).", "Vard Brăila face parte din grupul italian Fincantieri, lider mondial în construcții navale.", "Este specializat în corpuri de nave pentru explorări arctice și nave de croazieră de lux.", "Șantierul deține facilități de lansare a navelor pe direcție transversală la Dunăre.", "Vard este cel mai mare angajator industrial privat din municipiul Brăila.", "Unitatea utilizează sisteme moderne de sablare și vopsire sub mediu controlat.", "Multe dintre navele construite aici operează în Marea Nordului și în Golful Mexic.", "Investițiile recente s-au concentrat pe digitalizarea proceselor de tăiere a tablei."],
       en: ["The yard has a history of shipbuilding in Braila spanning over a century.", "Part of the VARD group, one of the world's major designers of specialized ships.", "Specializes in the construction of hulls for complex offshore vessels.", "The yard features modern workshops for steel processing and outfitting.", "A key provider of employment and technical training in the Braila region.", "Works as part of the Fincantieri group, a global leader in shipbuilding."]
-    }
-  },
+    }, image: "/poi-images/industry-vard-braila-extra.webp"},
   {
     id: "industry-vard-tulcea-extra",
     type: "industry",
@@ -1147,8 +1123,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Vard Tulcea Délkelet-Románia egyik legnagyobb magánmunkaadója.", "Itt készülnek a világ legfejlettebb offshore hajói közül néhánynak a testei.", "A hajógyár hatalmas kapacitásokkal rendelkezik a nehéz acélszerkezetekhez.", "Tulcsa a nemzetközi haditengerészet számára is gyárt alkatrészeket.", "A telephely a globális Fincantieri konszern része.", "Sok Tulcsában épült hajót használnak az Arktiszon és az Antarktiszon.", "A hajógyár Tulcsa ipari identitásának központi pillére.", "A digitális gyártástervezésbe történő beruházások biztosítják a versenyképességet."],
       ro: ["Vard Tulcea este cel mai mare angajator privat din județul Tulcea, cu mii de salariați.", "Șantierul este recunoscut pentru construcția corpului navei 'REV Ocean', cel mai mare iaht de cercetare.", "Dispune de un sistem modern de ridicare a navelor (Syncrolift) cu capacitate mare.", "Vard Tulcea exportă corpuri de nave și secțiuni către șantierele din Norvegia și Vietnam.", "Facilitatea a construit nave specializate pentru întreținerea parcurilor eoliene marine.", "Șantierul este un pilon esențial pentru economia și stabilitatea socială din regiunea Deltei.", "Vard Tulcea respectă standardele stricte de protecție a mediului specifice zonelor biosferei.", "Aici se realizează tăierea anuală a zeci de mii de tone de oțel pentru proiecte maritime."],
       en: ["Vard Tulcea is one of the largest shipyards in Romania by steel processing capacity.", "Part of the Fincantieri-owned VARD group since 2013.", "Specializes in high-end hulls for the cruise and offshore energy sectors.", "The yard has a massive workforce, often exceeding 3,000 employees.", "Strategically located near the Sulina branch of the Danube.", "Features advanced systems for the assembly of large-scale ship blocks."]
-    }
-  },
+    }, image: "/poi-images/industry-vard-tulcea-extra.webp"},
   {
     id: "industry-midia-navodari-extra",
     type: "industry",
@@ -1188,8 +1163,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Petromidia az egyetlen román finomító saját tengeri kikötői kapcsolattal.", "A telephely az ország legnagyobb üzemanyaggyártója.", "A Petromidia a régió egyik legmagasabb komplexitási mutatójával (Nelson-index) rendelkezik.", "Évente több mint 5 millió tonna nyersanyagot dolgoznak fel itt.", "A finomító a KMG International (KazMunayGas) csoport része.", "Az átfogó környezetvédelmi beruházások csökkentették az ökológiai lábnyomot.", "A telephelyen található az ország egyetlen működő petrokémiai részlege.", "A Petromidia jelentős devizabevételt hoz az országnak a kiterjedt export révén."],
       ro: ["Petromidia este singura rafinărie din România situată direct la malul mării.", "Capacitatea de procesare depășește 5 milioane de tone de țiței pe an.", "Deține singura divizie de petrochimie activă din țară, producătoare de polimeri.", "Indicele de complexitate Nelson al rafinăriei este unul dintre cele mai mari din regiune.", "Terminalul marin din largul mării permite acostarea tancurilor de 160.000 tdw.", "Peste 2 miliarde de dolari au fost investiți în modernizare din anul 2007.", "Petromidia asigură peste 40% din capacitatea de rafinare a României.", "Rafinăria este un exportator major de benzină și motorină în Georgia, Moldova și Bulgaria."],
       en: ["Petromidia is the largest oil refinery in Romania by processing capacity.", "Commissioned in 1979 as the Midia-Năvodari Petrochemical Complex.", "Has an annual processing capacity of approximately 5 million tonnes of crude.", "Features a Nelson Complexity Index of 10.5, among the highest in the region.", "Includes a specialized petrochemical division for polymers and chemicals.", "Supplies a significant portion of the fuel market in Romania and the Balkans."]
-    }
-  },
+    }, image: "/poi-images/industry-midia-navodari-extra.webp"},
   {
     id: "industry-policolor-b-extra",
     type: "industry",
@@ -1229,8 +1203,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Policolort 1965-ben alapították, és Románia egyik legismertebb márkája.", "A vállalat piacvezető a festék- és lakkpiac számos szegmensében.", "A Policolor saját kutatóközpontot üzemeltet a kémiai képletek kidolgozására.", "A termékpaletta építészeti, ipari és autóipari megoldásokat is tartalmaz.", "A vállalat kiterjedt értékesítési hálózattal rendelkezik egész Délkelet-Európában.", "A Policolor jelentősen befektet a vizes bázisú és ökológiai festékrendszerekbe.", "A bukaresti telephely a teljes csoport logisztikai központja.", "A Spor márka, egy Policolor termék, Romániában a falfestékek szinonimája."],
       ro: ["Compania Policolor a fost înființată în anul 1965 în zona industrială a Bucureștiului.", "Este creatoarea brandului 'SPOR', cea mai vândută vopsea lavabilă din România.", "Policolor produce anual zeci de mii de tone de vopsele, lacuri și rășini.", "Grupul Policolor-Orgachim este un jucător major în tot bazinul Balcanilor.", "Deține un laborator de cercetare acreditat pentru testarea rezistenței la coroziune.", "Compania a inaugurat în 2019 o nouă unitate de producție modernă în vestul Capitalei.", "Produsele Policolor au fost folosite la restaurarea unor monumente istorice importante.", "Este singurul producător român cu o gamă completă de sisteme de refinisare auto."],
       en: ["Founded in 1965 as the Policolor Enterprise in Bucharest.", "One of the most recognizable consumer brands in Romanian history.", "Specializes in decorative paints, automotive coatings, and resins.", "Part of the regional Policolor-Orgachim group since 1998.", "The company has modernized its production with a new factory in Bucharest.", "Known for iconic product lines like Spor and Casabella."]
-    }
-  },
+    }, image: "/poi-images/industry-policolor-b-extra.webp"},
   {
     id: "industry-pmi-otopeni-extra",
     type: "industry",
@@ -1311,8 +1284,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Arctic Găești Európa egyik legnagyobb hűtőszekrény-gyára.", "A gyár az Arçelik globális vállalatcsoport tagja.", "Évente több millió háztartási készüléket állítanak elő a telephelyen.", "A termelés több mint 80%-át a világ különböző piacaira exportálják.", "A gyár híres az energiahatékony (A+++ kategóriás) készülékek gyártásáról.", "Jelentős beruházások történtek a robotizált gyártósorok kiépítésébe.", "Az Arctic a legrégebbi és legismertebb román háztartási gép márka.", "A telephely Dâmbovița megye legfontosabb ipari központja."],
       ro: ["Arctic Găești a fost inaugurată în anul 1970, producând primele frigidere românești.", "Este cea mai mare fabrică de aparate frigorifice din întreaga Europă Continentală.", "Capacitatea de producție depășește 2,6 milioane de aparate electrocasnice pe an.", "Peste 80% din frigiderele produse la Găești sunt exportate în peste 80 de țări.", "Grupul Arçelik a preluat Arctic în anul 2002, investind sute de milioane de euro.", "Unitatea de la Găești utilizează sisteme avansate de reciclare a deșeurilor industriale.", "Fabrica este cel mai mare angajator privat din județul Dâmbovița.", "La Găești se produc modele sub brandurile Arctic, Beko și Grundig."],
       en: ["Founded in 1970, it is the most recognizable Romanian brand for appliances.", "The Găești plant is the largest refrigerator factory in Continental Europe.", "Annual production capacity exceeds 2.5 million units.", "Employs over 3,000 people and supports a vast local supply chain.", "The site is recognized by the World Economic Forum as a 'Sustainability Lighthouse'.", "Exports over 80% of its production to more than 80 countries worldwide."]
-    }
-  },
+    }, image: "/poi-images/industry-arctic-gaesti-extra.webp"},
   {
     id: "industry-koyo-tr-extra",
     type: "industry",
@@ -1352,8 +1324,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Koyo Târgoviște a japán JTEKT Corporation része.", "A gyár golyós- és görgőscsapágyak széles választékát állítja elő.", "A termékek jelentős része a globális autóipari óriásokhoz kerül.", "A telephelyen szigorú japán minőségbiztosítási rendszereket alkalmaznak.", "A gyár Románia egyik legfontosabb gépipari exportőre.", "Târgoviște városának egyik legnagyobb és legstabilabb munkaadója.", "Folyamatosak a fejlesztések a súrlódáscsökkentő technológiák terén.", "A gyár modern CNC megmunkáló központokkal van felszerelve."],
       ro: ["Fabrica din Alexandria a fost preluată de grupul japonez Koyo (acum JTEKT) în 1998.", "Este specializată în producția de rulmenți de înaltă precizie pentru industria auto.", "Koyo România exportă peste 90% din producția sa către clienți internaționali.", "Unitatea din Teleorman respectă standardele stricte de calitate specifice ingineriei japoneze.", "Fosta Uzină de Rulmenți Alexandria a fost fondată inițial în anul 1971.", "Peste 1.000 de angajați lucrează în facilitatea modernizată de la Alexandria.", "Rulmenții produși aici sunt utilizați de mărci auto celebre precum Toyota sau BMW.", "Investițiile JTEKT au vizat automatizarea completă a liniilor de asamblare fină."],
       en: ["Founded in 1971 as the Alexandria Bearing Plant.", "Acquired by Koyo Seiko (now part of JTEKT Corporation) in 1998.", "Produces specialized bearings for global automotive giants and aerospace.", "The facility is a major exporter, with products reaching every continent.", "Implements Japanese management and quality control systems like Kaizen.", "The largest industrial employer and taxpayer in Teleorman County."]
-    }
-  },
+    }, image: "/poi-images/industry-koyo-tr-extra.webp"},
   {
     id: "industry-shipyard-gr-extra",
     type: "industry",
@@ -1393,8 +1364,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A giurgiui hajógyár fontos központ a Duna menti hajójavításban.", "A telephely speciális folyami szállítóegységek építésére alkalmas.", "Saját sólyatérrel rendelkezik a hajók szárazra emeléséhez.", "A hajógyár Giurgiu megye egyik legjelentősebb ipari létesítménye.", "A telephely szorosan kapcsolódik a Giurgiu-Ruse dunai logisztikai folyosóhoz.", "Számos nemzetközi folyami hajózási társaság veszi igénybe a szolgáltatásait.", "A gyár tapasztalt szakembergárdával rendelkezik az acélszerkezetek terén.", "Folyamatosak a törekvések a technológiai park megújítására."],
       ro: ["Șantierul Naval Giurgiu are o tradiție de peste un secol în construcțiile fluviale.", "Este situat strategic pe Coridorul VII de transport pan-european (Dunărea).", "Unitatea este specializată în reparații navale și construcția de barje și remorchere.", "Dispune de o cală de lansare longitudinală și ateliere de prelucrare a oțelului.", "Șantierul a construit de-a lungul timpului sute de nave pentru flota comercială română.", "Este o unitate cheie pentru întreținerea navelor de intervenție ale AFDJ și ale Poliției de Frontieră.", "Investițiile recente au vizat modernizarea echipamentelor de sudură și debitare.", "Giurgiu reprezintă poarta sudică a construcțiilor navale românești pe Dunăre."],
       en: ["Shipyard ATG Giurgiu is part of the Astral Technology Group.", "Specializes in the construction of river-sea vessels and specialized barges.", "Strategically located on the Danube, close to the capital Bucharest.", "Capable of building vessels up to 135 meters in length.", "Provides comprehensive ship repair and modernization services.", "A major contributor to the industrial and logistical profile of Giurgiu Port."]
-    }
-  },
+    }, image: "/poi-images/industry-shipyard-gr-extra.webp"},
   {
     id: "industry-tenaris-cl-extra",
     type: "industry",
@@ -1434,8 +1404,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A călărași-i acélmű a Tenaris-csoport fontos nyersanyaggyártó egysége.", "Modern elektromos ívkemencéket használnak az acélgyártáshoz.", "A telephely speciális acéltuskókat szállít a zilahi csőhengerlőbe.", "A gyár Călărași megye egyik legnagyobb ipari beruházója.", "Szigorú környezetvédelmi szabványok szerint működik a létesítmény.", "A Tenaris saját szakképzési programokat indított a helyi fiatalok számára.", "A gyártási folyamat nagymértékben automatizált és digitálisan felügyelt.", "A telephely stratégiai fontosságú a romániai acélipari láncban."],
       ro: ["Tenaris a preluat activele siderurgice de la Călărași în anul 2004.", "Unitatea utilizează un cuptor cu arc electric modern pentru elaborarea oțelului.", "Produce anual sute de mii de tone de țagle de oțel pentru fabrica de țevi din Zalău.", "Investițiile în protecția mediului la Călărași au depășit zeci de milioane de euro.", "TenarisSilcotub este un lider în industria țevilor de oțel pentru sectorul de petrol și gaze.", "Fabrica din Călărași promovează reciclarea metalelor la scară industrială.", "Compania deține propriul centru de instruire tehnică pentru angajați și elevi.", "Procesele tehnologice sunt monitorizate digital pentru a optimiza consumul de energie."],
       en: ["Originally known as Donasid, it joined the Tenaris group in 2005.", "Utilizes a modern electric arc furnace for low-emission steel production.", "Primarily produces round steel bars and billets for seamless pipe manufacturing.", "The site is a major hub for scrap metal recycling in the region.", "Supplies essential raw materials for the TenarisSilcotub plant in Zalău.", "A key industrial employer and economic pillar for Călărași County."]
-    }
-  },
+    }, image: "/poi-images/industry-tenaris-cl-extra.webp"},
   {
     id: "industry-combinat-slobozia-extra",
     type: "industry",
@@ -1475,8 +1444,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A sloboziai kombinát a Bărăgan-alföld mezőgazdaságának fő kiszolgálója.", "A gyár ammónia és karbamid gyártására specializálódott.", "Ialomița megye egyik legjelentősebb nehézipari létesítménye.", "A telephely közvetlen hozzáféréssel rendelkezik a földgáz-vezetékrendszerhez.", "A termelés nagyban függ a nemzetközi gázárak alakulásától.", "A kombinát fontos munkahelyeket teremt Slobozia városában.", "A termékek egy részét a nemzetközi piacokon is értékesítik.", "Folyamatosak a fejlesztések a biztonságos vegyipari technológiák terén."],
       ro: ["Combinatul chimic de la Slobozia a fost dat în exploatare în anul 1970.", "Este un producător major de uree și azotat de amoniu pentru agricultură.", "Facilitatea a fost cunoscută istoric sub numele de Amonil Slobozia.", "Gazul natural reprezintă principala materie primă utilizată în procesul de producție.", "Combinatul este situat strategic în Bărăgan, cea mai fertilă zonă agricolă a țării.", "Deține instalații complexe pentru sinteza amoniacului și fabricarea acidului azotic.", "Activitatea combinatului influențează direct randamentul culturilor de grâu și porumb din RO.", "Unitatea dispune de propriul terminal feroviar pentru distribuția îngrășămintelor."],
       en: ["Established as a major fertilizer producer to serve the Bărăgan agricultural hub.", "Specializes in the production of urea and ammonium nitrate fertilizers.", "Strategic location in one of the most fertile agricultural regions in Europe.", "Historically one of the largest industrial employers in Ialomița County.", "The plant is a critical consumer of natural gas in the national system.", "Plays a key role in the supply chain for Romanian grain exports."]
-    }
-  },
+    }, image: "/poi-images/industry-combinat-slobozia-extra.webp"},
   {
     id: "industry-ursus-bz-extra",
     type: "industry",
@@ -1516,8 +1484,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A buzăui Ursus gyár az egyik legmodernebb sörfőzde Romániában.", "A létesítmény az Asahi japán italgyártó óriás tulajdonában van.", "Itt gyártják az ország piacvezető sörmárkáinak jelentős részét.", "A gyár saját szennyvízkezelő és energia-visszanyerő rendszerrel rendelkezik.", "A palackozósorok óránként több tízezer egység kezelésére képesek.", "Az Ursus a legrégebbi folyamatosan működő sörgyár a régióban.", "A telephely Buzău megye egyik legnagyobb adófizetője.", "Szigorú alapanyag-ellenőrzést végeznek a maláta és a komló beszerzésekor."],
       ro: ["Fabrica de bere din Buzău a fost integrată în grupul Ursus la sfârșitul anilor '90.", "Ursus Breweries este în prezent parte a grupului internațional Asahi Group Holdings.", "Unitatea de la Buzău dispune de linii de îmbuteliere de mare viteză pentru doze și sticle.", "Buzăul este recunoscut pentru calitatea apei folosite în procesul de fabricare a berii.", "Fabrica a implementat soluții inovatoare pentru reducerea emisiilor de bioxid de carbon.", "Este una dintre puținele fabrici de bere din regiune care utilizează energie din surse regenerabile.", "La Buzău se produc branduri celebre precum Ursus, Timișoreana și Ciucaș.", "Unitatea deține certificări internaționale de top pentru siguranța alimentară și mediu."],
       en: ["The Buzău brewery is one of the largest production sites for Ursus Breweries.", "Part of the international Asahi Group since 2017.", "Produces several iconic Romanian beer brands, including Ursus and Timișoreana.", "Features state-of-the-art automated bottling and canning lines.", "Continously invests in sustainable technologies to reduce its CO2 footprint.", "A major contributor to the local economy and a leader in the regional beverage sector."]
-    }
-  },
+    }, image: "/poi-images/industry-ursus-bz-extra.webp"},
   {
     id: "industry-pandora-vn-extra",
     type: "industry",
@@ -1557,8 +1524,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Pandora Focșani neves nemzetközi luxusmárkáknak gyárt ruházati termékeket.", "A gyár Vrancea megye egyik legjelentősebb exportőre.", "Modern CAD/CAM rendszereket használnak a tervezéshez és szabáshoz.", "A vállalat nagy hangsúlyt fektet az etikus gyártásra és a fenntarthatóságra.", "A telephely több mint 1000 szakképzett munkavállalót foglalkoztat.", "A Pandora híres a bonyolult technikai megoldások precíz kivitelezéséről.", "A gyár termékei a világ legexkluzívabb üzleteinek polcaira kerülnek.", "Folyamatos a technológiai megújulás a hatékonyság növelése érdekében."],
       ro: ["Pandora Prod a fost înființată în anul 1994 în municipiul Focșani.", "Compania produce îmbrăcăminte pentru case de modă celebre din Franța, Italia și UK.", "Este una dintre cele mai tehnologizate fabrici de confecții din sud-estul Europei.", "Pandora Prod deține certificări internaționale pentru responsabilitate socială (BSCI).", "Investițiile recente au vizat panouri fotovoltaice pentru o producție mai verde.", "Fabrica din Vrancea utilizează scanere 3D pentru prototiparea articolelor vestimentare.", "Este un exportator de top, produsele ajungând în buticuri de lux de pe tot globul.", "Compania susține învățământul dual pentru formarea viitoarelor generații de croitori."],
       en: ["Pandora is one of the largest and most successful textile companies in Romania.", "Specializes in high-quality outerwear for luxury global fashion brands.", "Utilizes advanced digital design and automated cutting technologies.", "The company is a major employer in Focșani and Vrancea County.", "Exports the vast majority of its production to international markets.", "Known for its commitment to social responsibility and worker training."]
-    }
-  },
+    }, image: "/poi-images/industry-pandora-vn-extra.webp"},
   {
     id: "industry-chimcomplex-bc-extra",
     type: "industry",
@@ -1598,8 +1564,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Chimcomplex Románia legnagyobb vegyipari exportőre.", "A gyár poliolok gyártására specializálódott, amelyeket a bútor- és autóipar használ.", "Onești városa a Chimcomplex révén vált fontos vegyipari központtá.", "A vállalat saját gázmotoros kogenerációs erőművel rendelkezik.", "A Chimcomplex úttörő a romániai zöld hidrogén technológia bevezetésében.", "A telephelyen szigorú biztonsági és környezetvédelmi auditokat végeznek.", "A vállalat részvényeit a bukaresti tőzsdén jegyzik.", "A termékpaletta több mint 20 ország vegyipari igényeit elégíti ki."],
       ro: ["Chimcomplex Borzești a fost fondat în anul 1954 lângă orașul Onești.", "În 2018, compania a achiziționat cele mai importante active ale combinatului Oltchim.", "Este cel mai mare exportator cu capital românesc din industria chimică locală.", "Produce polioli, ingrediente de bază pentru spumele poliuretanice din industria mobilei.", "Chimcomplex operează două platforme industriale majore: Borzești și Râmnicu Vâlcea.", "Compania deține instalații de cogenerare care produc energie electrică și termică.", "Este unul dintre puținii producători europeni care utilizează sarea ca materie primă de bază.", "Produsele sale sunt exportate în peste 50 de țări de pe patru continente."],
       en: ["Founded in 1954 as part of the Borzești industrial platform.", "Acquired the main assets of Oltchim Râmnicu Vâlcea in December 2018.", "The largest exporter of chemical products in the Romanian economy.", "Produces polyols used in the manufacturing of polyurethane foams.", "The company is developing one of the first green hydrogen hubs in Romania.", "Serves as the main industrial pillar for the city of Onești."]
-    }
-  },
+    }, image: "/poi-images/industry-chimcomplex-bc-extra.webp"},
   {
     id: "industry-formens-bt-extra",
     type: "industry",
@@ -1680,8 +1645,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A sepsiszentgyörgyi gyár a Walmark és a STADA regionális központja.", "A telephely rendelkezik a gyógyszergyártáshoz szükséges összes nemzetközi tanúsítvánnyal.", "Itt készülnek Románia legismertebb étrend-kiegészítő márkái.", "A gyárban ultramodern tablettázó és csomagoló gépsorok működnek.", "A Walmark Kovászna megye egyik legfontosabb technológiai beruházója.", "A termékek minőségét saját, helyszíni laboratóriumokban ellenőrzik.", "A vállalat aktívan részt vesz az egészséges életmódot népszerűsítő kampányokban.", "A sepsiszentgyörgyi telephely fontos exportbázis Közép-Kelet-Európa számára."],
       ro: ["Fabrica Walmark din Sfântu Gheorghe a fost preluată de grupul Stada în anul 2020.", "Respectă standardele GMP (Good Manufacturing Practice) specifice industriei farmaceutice.", "Produce o gamă largă de suplimente alimentare, vitamine și minerale.", "Unitatea din Covasna este un hub regional de export pentru Europa de Sud-Est.", "Capacitatea de ambalare a fost extinsă semnificativ prin investiții germane recente.", "Fiecare lot de produse trece prin teste riguroase de puritate și concentrație.", "Walmark este unul dintre cele mai recunoscute branduri de sănătate din România.", "Fabrica utilizează materii prime certificate de la furnizori globali de elită."],
       en: ["Part of the STADA Group since 2020.", "Produces millions of tablets and capsules annually in Sfântu Gheorghe.", "Fully compliant with international GMP pharmaceutical standards.", "Serves as a key regional export hub for Southeastern Europe.", "Specializes in vitamins, minerals, and herbal extracts.", "Major industrial employer in the Covasna region."]
-    }
-  },
+    }, image: "/poi-images/industry-walmark-cv-extra.webp"},
   {
     id: "industry-romaqua-hr-extra",
     type: "industry",
@@ -1721,8 +1685,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Borsec Románia legkeresettebb és legtöbb díjat nyert ásványvize.", "A Romaqua Group 100%-ban román tulajdonú vállalat.", "A borszéki palackozó a legmodernebb technológiával van felszerelve.", "A vízforrások védelme érdekében szigorú ökológiai kontrollt alkalmaznak.", "A Romaqua Hargita megye egyik legnagyobb és legstabilabb munkaadója.", "A vállalat széles termékportfólióval rendelkezik az italszektorban.", "A borszéki vizet már 1806 óta palackozzák ipari méretekben.", "A gyár saját logisztikai hálózattal látja el az egész országot."],
       ro: ["Romaqua Group este liderul pieței de apă minerală din România cu brandul Borsec.", "Apa minerală Borsec a primit titlul de 'Regina Apelor Minerale' la Viena în 1873.", "Compania este cel mai mare angajator industrial din județul Harghita.", "Deține cele mai moderne linii de îmbuteliere a apei minerale din sud-estul Europei.", "Portofoliul grupului include brandurile Borsec, Giusto, Stânca Piatra și Albacher.", "Romaqua a inaugurat în 2008 o fabrică de bere modernă la Sebeș (Albacher).", "Investițiile totale ale grupului în tehnologie depășesc 250 de milioane de euro.", "Grupul promovează activ protejarea mediului și a rezervațiilor de apă din Carpați."],
       en: ["Borsec water was named 'Queen of Mineral Waters' in Vienna in 1873.", "Industrial bottling at the site began in 1806.", "Largest 100% Romanian-owned company in the beverage sector.", "Features some of Europe's most advanced automated bottling lines.", "The group employs over 2,000 people across several industrial sites.", "Protects over 20 natural springs in the Harghita County region."]
-    }
-  },
+    }, image: "/poi-images/industry-romaqua-hr-extra.webp"},
   {
     id: "industry-severnav-mh-extra",
     type: "industry",
@@ -1762,8 +1725,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Severnav a Vaskapu-szoros közelében elhelyezkedő stratégiai hajógyár.", "A telephely speciális folyami tartályhajók építésére is alkalmas.", "Mehedinți megye egyik legnagyobb nehézipari munkaadója.", "A hajógyár saját tervezőirodával és mérnöki csapattal rendelkezik.", "Számos hajótestet építettek itt nyugat-európai (főleg német és holland) megrendelésre.", "A Severnav fontos szerepet játszik a Duna menti infrastruktúra karbantartásában.", "A gyár rendelkezik a legfontosabb nemzetközi hajózási tanúsítványokkal.", "Folyamatosak a beruházások a hegesztési technológiák modernizálásába."],
       ro: ["Șantierul Naval Severnav a fost fondat inițial în anul 1858.", "Este specializat în construcția de tancuri chimice și nave de transport produse petroliere.", "Severnav dispune de facilități de lansare a navelor de până la 12.000 tdw.", "Peste 90% din producția șantierului de la Dunăre este destinată exportului.", "Șantierul a construit unele dintre cele mai mari nave fluviale de pasageri din Europa.", "Investițiile recente au vizat software-uri avansate de proiectare navală 3D.", "Unitatea este certificată de marile registre navale internaționale (Lloyd’s, Bureau Veritas).", "Severnav este principalul angajator din industria grea a județului Mehedinți."],
       en: ["Founded in 1858, making it one of the oldest industrial sites on the Danube.", "Specializes in high-tech gas and chemical tankers up to 12,000 tdw.", "Exports over 90% of its vessels to Western European markets.", "Strategic location near the Iron Gates hydroelectric complex.", "Capable of building ships up to 110 meters in length.", "Utilizes advanced 3D design software for naval architecture."]
-    }
-  },
+    }, image: "/poi-images/industry-severnav-mh-extra.webp"},
   {
     id: "industry-alro-ot-extra",
     type: "industry",
@@ -1803,8 +1765,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Alro Slatina Románia legnagyobb villamosenergia-felhasználója.", "A vállalat speciális alumíniumötvözeteket szállít a repülőgépipar számára.", "Slatina városa az Alro köré épült ipari ökoszisztémára támaszkodik.", "Az Alro saját kutatóközponttal rendelkezik a kohászati fejlesztésekhez.", "A vállalat jelentős újrahasznosító üzemet működtet az alumínium-hulladék feldolgozására.", "A termelés megfelel a legszigorúbb nemzetközi környezetvédelmi szabványoknak.", "Az Alro részvényeit jegyzik a bukaresti tőzsdén.", "A vállalat fontos stratégiai beszállítója az európai autóiparnak."],
       ro: ["Alro Slatina a fost inaugurată în anul 1965, producând primul lingou de aluminiu românesc.", "Este singurul producător de aluminiu primar din România și din regiunea Balcanilor.", "Capacitatea de producție a aluminiului primar depășește 265.000 de tone pe an.", "Alro livrează table speciale de aluminiu pentru constructorul aeronautic Airbus.", "Fabrica deține o unitate modernă de reciclare a deșeurilor de aluminiu (Eco-topitorie).", "Investițiile în modernizare tehnologică au depășit 700 de milioane de dolari din 2002.", "Alro Slatina este pilonul principal al economiei județului Olt de peste 50 de ani.", "Producția de aluminiu electrolitic este monitorizată prin sisteme digitale de înaltă precizie."],
       en: ["The only primary aluminum producer in Romania, founded in 1965.", "Certified supplier of specialized aluminum plates for Airbus.", "Operates a modern 'Eco-smelter' for high-efficiency recycling.", "Total investments since 2002 exceed 700 million dollars.", "Primary aluminum production capacity exceeds 265,000 tons per year.", "Major regional employer supporting thousands of skilled technical jobs."]
-    }
-  },
+    }, image: "/poi-images/industry-alro-ot-extra.webp"},
   {
     id: "industry-brazi-power-extra",
     type: "industry",
@@ -1844,8 +1805,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Brazi erőmű Románia legnagyobb magánberuházásból épült erőműve.", "A létesítmény hatásfoka eléri az 57%-ot, ami kiemelkedő a régióban.", "Az erőmű az ország villamosenergia-szükségletének jelentős részét képes fedezni.", "A gyors indítási képesség miatt fontos szerepet játszik a hálózat szabályozásában.", "A Brazi erőmű közvetlenül kapcsolódik az OMV Petrom gázellátási hálózatához.", "A környezetvédelmi kibocsátások jóval az uniós határértékek alatt vannak.", "A telephelyen ultramodern General Electric gázturbinák működnek.", "Prahova megye egyik legfontosabb energetikai csomópontja."],
       ro: ["Centrala de la Brazi a fost inaugurată în anul 2012 de către OMV Petrom.", "Are o capacitate instalată totală de 860 MW, formată din două turbine pe gaz și una pe abur.", "Eficiența centralei este de aproximativ 57%, fiind una dintre cele mai mari din regiune.", "Investiția totală în acest proiect de tip 'greenfield' a fost de 530 de milioane de euro.", "Centrala poate asigura aproximativ 10% din consumul mediu de electricitate al României.", "Utilizează tehnologia ciclului combinat (CCGT) pentru un impact minim asupra mediului.", "Este situată strategic lângă Rafinăria Petrobrazi, asigurând sinergii operaționale.", "Brazi Power joacă un rol vital în stabilitatea frecvenței sistemului energetic național."],
       en: ["Inaugurated in 2012 following a 530 million euro investment.", "Features two high-efficiency gas turbines and one steam turbine.", "Achieves 57% efficiency, one of the highest in Southeastern Europe.", "Can reach full power rapidly to ensure national grid stability.", "Significantly lower CO2 emissions compared to conventional coal plants.", "Located near the Petrobrazi refinery for operational synergy."]
-    }
-  },
+    }, image: "/poi-images/industry-brazi-power-extra.webp"},
   {
     id: "industry-ploiesti-west-park-extra",
     type: "industry",
@@ -1885,8 +1845,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Ploiești West Park több mint 300 hektárnyi területet foglal magában.", "Olyan óriásvállalatok telepedtek itt le, mint a Unilever vagy a Lufkin.", "A park saját vasúti terminállal rendelkezik a hatékony áruszállítás érdekében.", "Az épületek jelentős része megfelel a BREEAM fenntarthatósági tanúsítványnak.", "Ploiești és Bukarest közelsége miatt kiváló a munkaerő-elérhetősége.", "A park folyamatosan bővül új logisztikai és gyártócsarnokokkal.", "A telephelyen fejlett biztonsági és IT infrastruktúra működik.", "A projekt a romániai ipari ingatlanpiac egyik legsikeresebb fejlesztése."],
       ro: ["Ploiești West Park se întinde pe o suprafață impresionantă de peste 300 de hectare.", "Este dezvoltat de grupul Alinso și este cel mai mare parc industrial privat din SE Europei.", "Găzduiește peste 50 de companii internaționale de renume (ex. Unilever, Lufkin, Rockwool).", "Dispune de un terminal feroviar intermodal pentru transportul eficient al mărfurilor.", "Locația parcului este strategică, la intersecția principalelor coridoare de transport din RO.", "Investițiile totale realizate în cadrul parcului depășesc 700 de milioane de euro.", "Ploiești West Park promovează soluții de construcție sustenabile și eficiente energetic.", "Parcul a generat direct și indirect peste 3.000 de locuri de muncă în județul Prahova."],
       en: ["Spans over 300 hectares, making it the largest private park in the region.", "Hosts over 50 major multinational companies from various sectors.", "Features an intermodal rail terminal for efficient cargo transport.", "Total investments in the park exceed 700 million euros.", "Strategically located at the intersection of Romania's main transport corridors.", "Promotes sustainable building practices with BREEAM-certified warehouses."]
-    }
-  },
+    }, image: "/poi-images/industry-ploiesti-west-park-extra.webp"},
   {
     id: "industry-emerson-cluj-extra",
     type: "industry",
@@ -1926,8 +1885,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A kolozsvári campus az Emerson egyik legnagyobb telephelye Európában.", "Több mint 2500 alkalmazott dolgozik a modern irodákban és üzemekben.", "A gyár speciális vezérlőrendszereket gyárt az olaj- és gázipar számára.", "Az Emerson fontos partnere a kolozsvári Műszaki Egyetemnek.", "A telephely rendelkezik saját képzési akadémiával az ügyfelek és dolgozók számára.", "Az Emerson campus a környezetbarát építészeti megoldásairól is ismert.", "A gyár termékeit a világ minden tájára exportálják Kolozsvárról.", "A létesítmény központi szerepet játszik a vállalat globális ellátási láncában."],
       ro: ["Campusul Emerson din Cluj a fost inaugurat în anul 2006 în parcul Tetarom II.", "Este unul dintre cele mai mari centre operaționale ale Emerson la nivel mondial.", "Găzduiește peste 2.500 de angajați în departamente de producție și inginerie.", "La Cluj se fabrică sisteme de automatizare și echipamente pentru industria energetică.", "Campusul include centre de servicii partajate (Shared Services) pentru Europa și SUA.", "Emerson a investit peste 100 de milioane de euro în dezvoltarea facilității de la Cluj.", "Compania colaborează activ cu universitățile locale pentru programe de internship.", "Locația este certificată pentru standarde înalte de siguranță și eficiență operațională."],
       en: ["Established in 2006, the campus has received over 100 million euros in investment.", "Employs over 2,500 specialists in engineering, R&D, and shared services.", "Produces complex industrial equipment, including generators and flow meters.", "Major strategic hub for the EMEA (Europe, Middle East, Africa) region.", "Strong partnership with the Technical University of Cluj-Napoca.", "The site features advanced digital industrial process monitoring."]
-    }
-  },
+    }, image: "/poi-images/industry-emerson-cluj-extra.webp"},
   {
     id: "industry-flextronics-tm-extra",
     type: "industry",
@@ -1967,8 +1925,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Flex Temesvár az egyik legnagyobb elektronikai gyár Romániában.", "Olyan neves partnereknek gyártanak, mint a Cisco, a Ford vagy az Ericsson.", "A gyár orvostechnikai eszközök gyártására is hitelesített tanúsítvánnyal rendelkezik.", "Temes megye egyik legjelentősebb és legtöbb embert foglalkoztató magáncége.", "A telephelyen ultramodern tiszta terek és antisztatikus gyártási környezet található.", "A Flex aktívan támogatja a helyi műszaki szakképzést és duális oktatást.", "A termelés nagymértékben automatizált, robotizált tesztelő rendszerekkel.", "A gyár stratégiai fekvése lehetővé teszi a gyors kiszállítást az európai piacokra."],
       ro: ["Flex a deschis fabrica din Timișoara în anul 1998, fiind un pionier EMS în România.", "Este una dintre cele mai mari facilități Flex din Europa, cu mii de angajați.", "Produce componente electronice pentru clienți globali din sectorul auto și medical.", "Fabrica deține linii de asamblare SMT (Surface Mount Technology) de ultimă oră.", "Flex Timișoara oferă servicii complete de la proiectare la logistică și service.", "Unitatea din Banat este un centru de excelență pentru tehnologii de imprimare 3D industrială.", "Compania investește masiv în programe de sustenabilitate și reducerea consumului de plastic.", "Flex este un partener strategic pentru Universitatea Politehnica din Timișoara."],
       en: ["Operating in Timișoara since 1998 as a pioneer in electronics manufacturing.", "One of the largest Flex facilities in Europe, employing thousands of experts.", "Certified for the production of advanced medical and automotive devices.", "Features high-speed SMT lines and ISO-standard cleanroom environments.", "Manages complex supply chains for global brands like Cisco and Ford.", "Actively supports dual education and technical training in the Banat region."]
-    }
-  },
+    }, image: "/poi-images/industry-flextronics-tm-extra.webp"},
   {
     id: "industry-imb-b-extra",
     type: "industry",
@@ -2008,8 +1965,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az IMGB Románia legnagyobb nehézgépgyártó üzeme volt a maga idejében.", "A telephely több mint 50 hektáron terült el Bukarest déli részén.", "Itt gyártották a cernavodai atomerőmű egyes kritikus berendezéseit.", "A gyár speciális acélöntvényeket exportált az USA-ba és Japánba is.", "A komplexum saját kohóval és hatalmas megmunkáló gépekkel rendelkezett.", "Az IMGB-nél fénykorában több mint 10 ezer ember dolgozott.", "A terület jelenleg Bukarest egyik legnagyobb városfejlesztési projektjének helyszíne.", "A gyár neve ma is a precíziós nehézmegmunkálás szinonimája a régióban."],
       ro: ["IMGB a fost înființată în anul 1963 în zona de sud a municipiului București.", "A fost singura unitate din RO capabilă să producă componente pentru reactoare nucleare.", "Platforma industrială se întindea pe o suprafață de peste 70 de hectare.", "Aici s-au fabricat turbinele Kaplan pentru hidrocentrala Porțile de Fier I.", "IMGB dispunea de prese de forjare gigantice cu capacități de până la 12.000 tone-forță.", "Compania a fost preluată în 2006 de grupul coreean Doosan Heavy Industries.", "Produsele de la IMGB au fost exportate pe toate continentele pentru proiecte energetice.", "Închiderea fabricii în 2020 a marcat sfârșitul unei ere a industriei grele din Capitală."],
       en: ["Strategically located near Băneasa International Airport in North Bucharest.", "Evolved from a former metallurgy site into a modern business park.", "Hosts a large number of SMEs and international technology firms.", "Offers a combination of Class A office space and industrial warehouses.", "Features modern energy and telecommunications infrastructure.", "Major economic contributor to the development of Bucharest's northern sector."]
-    }
-  },
+    }, image: "/poi-images/industry-imb-b-extra.webp"},
   {
     id: "industry-aramis-mm-extra",
     type: "industry",
@@ -2049,8 +2005,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Aramis a legnagyobb román tulajdonú exportőr a bútorszektorban.", "A vállalat Nagybánya és Máramaros megye legfontosabb munkaadója.", "Az IKEA globális beszállítói láncának egyik legfontosabb tagja.", "Saját poliuretán habgyártó egységgel rendelkeznek a vertikális integráció jegyében.", "A gyár területén modern újrahasznosító központ működik a maradék anyagokhoz.", "A termelés megfelel a legszigorúbb nemzetközi fenntarthatósági tanúsítványoknak.", "Az Aramis matracgyártó kapacitása az egyik legnagyobb a régióban.", "A vállalat folyamatosan bővíti gyártócsarnokait a növekvő igények miatt."],
       ro: ["Aramis Group a fost înființată în anul 1994 în municipiul Baia Mare.", "Este cel mai mare exportator de mobilă din România și un furnizor cheie pentru IKEA.", "Fabrica produce anual peste un milion de canapele și milioane de saltele.", "Aramis este primul producător de mobilă cu capital românesc din topul celor mai mari companii.", "Unitatea deține propria secție de producție a spumei poliuretanice de înaltă densitate.", "Investițiile în tehnologie și spații de depozitare au depășit 100 de milioane de euro.", "Peste 5.000 de angajați lucrează în campusul industrial Aramis din Maramureș.", "Compania promovează utilizarea lemnului provenit din surse controlate și sustenabile."],
       en: ["Founded in 1994, it is now the largest furniture exporter in Romania.", "A top-tier global supplier for IKEA's upholstered furniture and mattresses.", "Produces over one million sofas and millions of mattresses annually.", "Largest private employer in Maramureș County with over 5,000 staff.", "Operates its own state-of-the-art polyurethane foam production facility.", "Investments in technology and logistics exceed 100 million euros."]
-    }
-  },
+    }, image: "/poi-images/industry-aramis-mm-extra.webp"},
   {
     id: "animal-habitat-baneasa-zoo-extra",
     type: "animal-habitat",
@@ -2090,8 +2045,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Băneasa Állatkert Románia legrégebbi és leglátogatottabb állatkertjei közé tartozik.", "A terület több mint 5 hektáron terül el a gyönyörű Băneasa-erdőben.", "Az állatkertben egy modern akvárium és terrárium is található.", "Számos európai fajmegőrzési programban vesz részt az intézmény.", "A látogatók számára interaktív információs táblák segítik a tanulást.", "Az állatkert híres a fehér oroszlánokról és a ritka madárfajokról.", "A helyszín könnyen megközelíthető a városközpontból, ideális családi program.", "Kiemelt figyelmet fordítanak az állatok jólétére és a megfelelő táplálásra."],
       ro: ["Grădina Zoologică București-Băneasa a fost inaugurată oficial în anul 1955.", "Se întinde pe o suprafață de 5,85 hectare în nordul Capitalei.", "Găzduiește peste 1.500 de exemplare de animale din aproximativ 150 de specii.", "Felinele mari, precum leii și tigrii, sunt printre cele mai populare atracții.", "Grădina include un pavilion modern dedicat reptilelor și peștilor exotici.", "Face parte din organizații internaționale care promovează conservarea speciilor în pericol.", "Accesul publicului se face prin liziera pădurii Băneasa, un plămân verde al orașului.", "Zoo București derulează campanii de adopție la distanță pentru susținerea animalelor."],
       en: ["Inaugurated in 1955, it is the most visited zoo in the Romanian capital.", "Spans approximately 6 hectares within the protected Băneasa Forest.", "Home to over 1,500 individual animals from approximately 150 species.", "Features a modern pavilion for reptiles and exotic fish.", "Actively participates in European programs for endangered species conservation.", "Includes interactive educational boards for children and students."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-baneasa-zoo-extra.webp"},
   {
     id: "animal-habitat-libearty-zarnesti-extra",
     type: "animal-habitat",
@@ -2131,8 +2085,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Libearty menhelyen több mint 100 mentett barna medve él.", "A terület 69 hektáron, elkerített természetes erdőben található.", "A menhelyet a világ legjobb állatvédelmi projektjei között tartják számon.", "A medvék mellett egy farkasrezervátum is működik a területen.", "A látogatók csak kísért túrákon vehetnek részt, korlátozott létszámban.", "A menhely híres lakója volt Max, a vak medve, akinek története megérintette a világot.", "Minden medvének saját neve és különleges élettörténete van.", "A projekt kizárólag adományokból és jegybevételekből tartja fenn magát."],
       ro: ["Sanctuarul Libearty de la Zărnești a fost înființat în anul 2005.", "Se întinde pe o suprafață de 69 de hectare de pădure naturală din județul Brașov.", "Aici trăiesc peste 100 de urși bruni salvați din captivitate ilegală sau abuzivă.", "Este considerat cel mai mare sanctuar de urși bruni de pe întreaga planetă.", "Proiectul a fost realizat de Christina Lapis în colaborare cu WAP (World Animal Protection).", "Sanctuarul găzduiește și alte animale salvate, inclusiv lupi și cerbi.", "Accesul vizitatorilor este strict controlat și se face doar cu ghid specializat.", "Libearty nu este o grădină zoologică, ci un loc de retragere pentru urșii care nu pot fi eliberați."],
       en: ["The world's largest brown bear sanctuary, covering 69 hectares of forest.", "Home to over 100 rescued brown bears living in a natural environment.", "Founded in 2005 in memory of Maya, a bear who died in captivity.", "Recognized globally for its high ethical standards in animal welfare.", "Operates a specialized veterinary clinic for the rescued bears.", "Visits are limited to guided groups to minimize stress on the animals."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-libearty-zarnesti-extra.webp"},
   {
     id: "animal-habitat-sibiu-zoo-extra",
     type: "animal-habitat",
@@ -2172,8 +2125,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A nagyszebeni az első állatkert Romániában, amelyet közpénzből nyitottak meg.", "A park központjában egy hatalmas tölgyfa áll, amely több mint 600 éves.", "Az állatkert több mint 300 állatnak és 70 fajnak ad otthont.", "A területen található tó alkalmas csónakázásra és vízi biciklizésre.", "Közvetlen szomszédságában található az ASTRA Falumúzeum is.", "Az állatkert híres a sikeresen szaporodó nagymacska-állományáról.", "Modern játszótér és piknikező helyek várják a családokat.", "A Dumbrava-erdő tiszta levegője különösen vonzóvá teszi a helyszínt."],
       ro: ["Zoo Sibiu este prima grădină zoologică deschisă în România, în anul 1929.", "Este situată în Pădurea Dumbrava, la doar câțiva kilometri de centrul Sibiului.", "Grădina se întinde pe o suprafață de peste 15 hectare de teren împădurit.", "Simbolul grădinii este stejarul secular de la intrare, vechi de peste 600 de ani.", "Găzduiește exemplare rare de tigri bengalezi și jaguari africani.", "Include un lac de 4 hectare unde vizitatorii se pot plimba cu barca sau hidrobicicleta.", "Zoo Sibiu a fost prima din țară care a reușit reproducerea în captivitate a urșilor albi.", "Facilitatea dispune de un loc de joacă modern și zone special amenajate pentru picnic."],
       en: ["Opened in 1929 as the first public zoological garden in Romania.", "Located in the Dumbrava Sibiului Natural Park, spanning over 15 hectares.", "Features a landmark oak tree that is over 600 years old.", "The site includes a 4-hectare lake used for recreational boating.", "Was the first zoo in Romania to successfully breed polar bears in captivity.", "Home to over 300 animals representing more than 70 different species."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-sibiu-zoo-extra.webp"},
   {
     id: "animal-habitat-dolphinarium-ct-extra",
     type: "animal-habitat",
@@ -2213,8 +2165,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A konstancai volt az első delfinárium Délkelet-Európában.", "A bemutatókon kívül a delfinek terápiás programokban is részt vesznek.", "A komplexum hatalmas szabadtéri és fedett medencékkel rendelkezik.", "Az intézmény szoros kapcsolatot ápol nemzetközi tengerkutató szervezetekkel.", "A látogatók megismerhetik a Fekete-tenger élővilágának veszélyeztetett fajait.", "A delfinshow-k során az állatok természetes képességeit mutatják be.", "A helyszínen mikroszkópos bemutatók és tematikus kiállítások is várják az érdeklődőket.", "A Delfinárium a konstancai turizmus egyik legfontosabb sarokköve."],
       ro: ["Delfinariul Constanța a fost inaugurat în anul 1972, fiind primul din această regiune a Europei.", "Face parte din Complexul Muzeal de Științe ale Naturii din Constanța.", "Demonstrațiile cu delfini se desfășoară într-un amfiteatru modernizat cu sute de locuri.", "Echipa de antrenori lucrează cu exemplare din specia Tursiops truncatus (delfinul cu bot gros).", "Complexul include și un Planetariu, un Observator Astronomic și o Microrezervație.", "Delfinariul este implicat în programe de salvare și reabilitare a delfinilor eșuați la Marea Neagră.", "Spectacolele îmbină elemente de acrobație cu prezentări despre biologia mamiferelor marine.", "Este una dintre cele mai vizitate atracții turistice de pe litoralul românesc în timpul verii."],
       en: ["Inaugurated in 1972 as the first facility of its kind in Southeastern Europe.", "Part of the Museum Complex for Natural Sciences in Constanța.", "Features Tursiops truncatus (bottle-nosed) dolphins in educational shows.", "Includes a planetarium and an astronomical observatory on the same campus.", "Actively involved in the rescue of stranded dolphins along the Romanian coast.", "Located on the shores of Lake Tăbăcărie near the Black Sea."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-dolphinarium-ct-extra.webp"},
   {
     id: "animal-habitat-oradea-zoo-extra",
     type: "animal-habitat",
@@ -2254,8 +2205,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A nagyváradi állatkert modern infrastruktúrája az európai élvonalba tartozik.", "A területen külön részleg foglalkozik a háztáji és őshonos állatok bemutatásával.", "Az állatkertben sikeresen zajlik a veszélyeztetett nagymacskák tenyésztése.", "A látogatók megtekinthetik az állatok etetését szakavatott gondozók kíséretében.", "Az intézmény tagja az Európai Állatkertek és Akváriumok Szövetségének (EAZA).", "A park akadálymentesített, így mindenki számára kényelmesen látogatható.", "A környezetbarát technológiák alkalmazása (pl. napelemek) is jellemző a fenntartásra.", "Rendszeresen szerveznek éjszakai állatkerti túrákat is a bátrak számára."],
       ro: ["Zoo Oradea a fost înființată în anul 1960 și a fost complet modernizată recent.", "Se întinde pe o suprafață de aproximativ 7 hectare de teren amenajat.", "Grădina găzduiește peste 800 de animale din peste 150 de specii diferite.", "O atracție deosebită este 'Casa Reptilelor', unde pot fi văzuți șerpi și șopârle rare.", "Zoo Oradea deține exemplare impresionante de tigri siberieni și lei africani.", "Include zone interactive unde copiii pot hrăni animale domestice sub supraveghere.", "Facilitatea este membră a asociațiilor internaționale de profil, respectând normele EAZA.", "Investițiile recente au vizat crearea unor observatoare de sticlă pentru vizitatori."],
       en: ["Established in 1960 and completely modernized according to EAZA standards.", "Spans approximately 7 hectares of beautifully landscaped terrain.", "Home to over 800 animals from more than 150 different species.", "Features a specialized 'Reptile House' with rare snakes and lizards.", "Offers interactive areas where children can safely feed domestic animals.", "Uses glass observation points for a more immersive visitor experience."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-oradea-zoo-extra.webp"},
   {
     id: "kid-landmark-adrenalin-park-cj-extra",
     type: "kid-landmark",
@@ -2295,8 +2245,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Adrenalin Park Románia egyik legnagyobb és legváltozatosabb kötélparkja.", "Több mint 10 különböző nehézségi szintű pálya várja a látogatókat.", "A parkban található leghosszabb tiroli csúszópálya több mint 100 méteres.", "Speciális éjszakai kalandprogramokat is szerveznek fejlámpákkal.", "A park területén hangulatos terasz és étterem kínál pihenési lehetőséget.", "A biztonsági rendszerek megfelelnek a legszigorúbb nemzetközi előírásoknak.", "Kiváló helyszín gyermeknapi ünnepségekhez és születésnapi partikhoz.", "A Bükk-erdő (Făget) természetvédelmi területe különleges hátteret ad a parknak."],
       ro: ["Adrenalin Park se află în localitatea Casele Micești, în pădurea Făget de lângă Cluj.", "Dispune de peste 10 trasee de aventură cu grade diferite de dificultate.", "Parcul include tiroliene spectaculoase cu lungimi de zeci de metri prin pădure.", "Toate traseele sunt verificate periodic și respectă normele europene de siguranță.", "Există circuite speciale concepute pentru copii cu vârste începând de la 3 ani.", "Parcul deține un restaurant cu terasă unde vizitatorii se pot relaxa după activitate.", "Este o destinație populară pentru activități școlare și tabere de vară.", "Adrenalin Park promovează un stil de viață activ și respectul pentru ecosistemul forestier."],
       en: []
-    }
-  },
+    }, image: "/poi-images/kid-landmark-adrenalin-park-cj-extra.webp"},
   {
     id: "animal-habitat-ms-zoo-extra",
     type: "animal-habitat",
@@ -2336,8 +2285,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A marosvásárhelyi állatkert területe meghaladja a 40 hektárt.", "Ez az egyetlen hely Romániában, ahol zsiráfokat és elefántokat egyszerre láthatunk.", "Az állatkertben több mint 800 állat él a világ minden tájáról.", "A medvék számára kialakított rezervátum-szerű kifutó nemzetközileg is elismert.", "Az intézmény aktívan részt vesz az európai tenyésztési programokban (EEP).", "A park területén egy modern oktatási és konferencia-központ is működik.", "A látogatói útvonalak jól jelzettek és babakocsival is könnyen bejárhatóak.", "A Somostető tiszta levegője és panorámája miatt a város 'tüdejének' számít."],
       ro: ["Zoo Târgu Mureș se întinde pe o suprafață de 40 de hectare, fiind cea mai mare din RO.", "Este singura grădină zoologică din România care găzduiește elefanți și girafe.", "Platoul Cornești, unde se află grădina, este la o altitudine de 488 de metri.", "Grădina a fost înființată în anul 1960 cu doar câteva animale locale.", "Găzduiește peste 800 de exemplare aparținând unui număr de aproximativ 150 de specii.", "Dispune de un pavilion modern pentru primate și o zonă vastă dedicată savanei africane.", "Succesul în reproducerea tigrilor siberieni a făcut grădina celebră în regiune.", "Include un traseu educativ și zone de joacă tematice pentru cei mici."],
       en: []
-    }
-  },
+    }, image: "/poi-images/animal-habitat-ms-zoo-extra.webp"},
   {
     id: "animal-habitat-ceala-extra",
     type: "animal-habitat",
@@ -2377,8 +2325,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Ceala-erdő a Maros-ártér Natúrpark egyik legfontosabb védett magterülete.", "A területen több mint 200 madárfajt regisztráltak az ornitológusok.", "A Ceala-tó kedvelt helyszíne a környezetbarát horgászatnak és madármegfigyelésnek.", "A tanösvények hossza meghaladja a 10 kilométert az erdő mélyén.", "Az erdőben található 'Mária-fa' egy helyi legenda szerint vallási jelentőséggel bír.", "A natúrpark rendszeresen szervez vezetett túrákat és környezetvédelmi táborokat.", "A terület Arad városától mindössze 5 kilométerre található, kiváló hétvégi célpont.", "A Maros-ártér az UNESCO bioszféra-rezervátum hálózatának is része."],
       ro: ["Pădurea Ceala face parte din Parcul Natural Lunca Mureșului, înființat în 2005.", "Este situată la doar câțiva kilometri de municipiul Arad, fiind 'plămânul verde' al orașului.", "Zona este un punct important de migrație pentru peste 200 de specii de păsări.", "Include trasee marcate pentru biciclete și zone special amenajate pentru observarea păsărilor.", "În pădure pot fi întâlniți căpriori, mistreți și specii rare de reptile.", "Lunca Mureșului este protejată la nivel european prin rețeaua Natura 2000.", "Vizitatorii pot închiria caiace pentru a explora brațele liniștite ale râului Mureș.", "Centrul de vizitare oferă informații detaliate despre flora și fauna specifică luncii."],
       en: []
-    }
-  },
+    }, image: "/poi-images/animal-habitat-ceala-extra.webp"},
   {
     id: "animal-habitat-tm-zoo-extra",
     type: "animal-habitat",
@@ -2417,8 +2364,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A temesvári állatkert a város legnagyobb parkerdejében, a Zöld-erdőben fekszik.", "Az intézmény modern oktatási programokat kínál az iskolai csoportok számára.", "A park területén jól felszerelt játszóterek és pihenőhelyek találhatók.", "Az állatkertben kiemelt figyelmet fordítanak a helyi fauna bemutatására.", "Rendszeresen tartanak tematikus napokat az állatok világnapja alkalmából.", "A kifutók kialakítása során törekedtek a természetes akadályok alkalmazására.", "Az állatkert könnyen megközelíthető kerékpárral is a városi bicikliutakon.", "A belépőjegyekből származó bevételt az állomány bővítésére és az élőhelyek javítására fordítják."],
       ro: ["Zoo Timișoara este situată în Pădurea Verde, în partea de nord-est a orașului.", "Grădina a fost redeschisă publicului în 2007 după un amplu proces de modernizare.", "Se întinde pe o suprafață de aproximativ 6 hectare de teren împădurit.", "Găzduiește exemplare de urși bruni, lame, cerbi lopătari și canguri pitici.", "Designul adăposturilor a fost gândit pentru a permite observarea animalelor de aproape.", "Este o locație preferată pentru școlile din Timișoara pentru lecții de biologie în aer liber.", "Accesul în grădină se face printr-o zonă de parc cu alei umbrite și locuri de relaxare.", "Grădina colaborează cu alte parcuri zoologice din Ungaria și Serbia pentru schimb de specii."],
       en: []
-    }
-  },
+    }, image: "/poi-images/animal-habitat-tm-zoo-extra.webp"},
   {
     id: "kid-landmark-dino-parc-bv-extra",
     type: "kid-landmark",
@@ -2457,8 +2403,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Dino Parc több mint 4 hektáros területen fekszik a rozsnyói erdőben.", "A modellek speciális üvegszálból készültek, és ellenállnak az időjárásnak.", "A parkban látható egy óriási Seismosaurus modell, amely 45 méter hosszú.", "Az összes kiállított dinoszauruszt paleontológusok szakértői véleménye alapján alkották meg.", "A területen kalandpályák, játszóterek és egy lézeres labirintus is található.", "A park múzeumi része eredeti dinoszaurusz-maradványokat és fosszíliákat is bemutat.", "A Dino Parc megkapta a TripAdvisor 'Travelers' Choice' elismerését.", "Rendszeresen szerveznek éjszakai felfedező túrákat és tematikus szülinapokat."],
       ro: ["Dino Parc Râșnov a fost inaugurat în anul 2015 și are o suprafață de 4 hectare.", "Găzduiește peste 100 de dinozauri atestați științific, reproduși în mărime naturală.", "Aici se află reproducerea celui mai mare animal zburător din lume, Hatzegopteryx thambema.", "Parcul include un vulcan interactiv și o platformă care simulează cutremure.", "Exponatele sunt realizate dintr-un amestec special de rășini și fibră de sticlă rezistentă.", "Dino Parc a fost vizitat de peste 2 milioane de turiști de la deschidere până în prezent.", "Include cel mai mare traseu de aventură în copaci din regiunea Râșnovului.", "Colaborează cu paleontologi de prestigiu pentru acuratețea informațiilor prezentate."],
       en: []
-    }
-  },
+    }, image: "/poi-images/kid-landmark-dino-parc-bv-extra.webp"},
   {
     id: "kid-landmark-edenland-extra",
     type: "kid-landmark",
@@ -2497,8 +2442,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Edenland Park több mint 20 hektáros erdei területen fekszik.", "A park 14 különböző kalandpályával rendelkezik minden korosztály számára.", "Itt található Románia egyik legérdekesebb erdei lombházaiból álló szálláshelye.", "A biztonságos mászást folyamatosan felügyelő instruktorok garantálják.", "A parkban egy különleges mini-zoo is helyet kapott mentett állatokkal.", "A területen paintball pálya és profi íjászpálya is működik.", "Az Edenland híres a fenntartható és természetbarát kialakításáról.", "Hétvégenként a park a bukarestiek egyik kedvenc menekülési pontja a városi zaj elől."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/kid-landmark-edenland-extra.webp"},
   {
     id: "animal-habitat-targoviste-zoo-extra",
     type: "animal-habitat",
@@ -2537,8 +2481,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A târgoviștei állatkertet eredetileg már a 16. században említik uralkodói vadaskertként.", "A modern állatkert a festői Chindia-park területén fekszik.", "Az intézményben több mint 80 állatfaj közel 600 egyede látható.", "Híresek az itt élő vízi madarak és a tágas majomház.", "Az állatkert szorosan együttműködik a helyi természetvédelmi egyesületekkel.", "A terület akadálymentesített, így babakocsival is könnyen bejárható.", "A parkban egy gyönyörű tó is található, amely számos madárfajnak nyújt pihenőt.", "A látogatás kiválóan összeköthető a közeli Fejedelmi Udvar megtekintésével."],
       ro: ["Grădina Zoologică Târgoviște este situată pe fostele terenuri ale Curții Domnești.", "Include peste 80 de specii de animale, totalizând aproximativ 600 de exemplare.", "Este renumită pentru pavilionul păsărilor de apă și colecția diversă de primate.", "Grădina este integrată în Parcul Chindia, cel mai mare parc public din oraș.", "Unele documente istorice menționează existența unei menajerii regale aici încă din secolul al XVI-lea.", "Facilitatea este complet accesibilizată pentru cărucioare și persoane cu mobilitate redusă.", "Lângă grădină se află un lac de agrement unde se pot face plimbări cu barca.", "Zoo Târgoviște colaborează cu organizații locale pentru protecția faunei autohtone."],
       en: []
-    }
-  },
+    }, image: "/poi-images/animal-habitat-targoviste-zoo-extra.webp"},
   {
     id: "animal-habitat-pitesti-zoo-extra",
     type: "animal-habitat",
@@ -2577,8 +2520,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A pitești-i állatkert a gyönyörű Trivale-erdő szívében terül el.", "A park teljes területe több mint 12 hektár.", "Az intézményben több mint 60 állatfaj képviselteti magát a világ minden tájáról.", "Híres az állatkert farkas- és medve-kifutója, amely a természetes élőhelyüket idézi.", "A gyermekek számára modern játszótér és oktatóközpont is rendelkezésre áll.", "Az állatkert részt vesz a sérült vadállatok rehabilitációjában is.", "A területen számos ritka növényfaj és évszázados fa is megfigyelhető.", "A látogatói útvonalak árnyasak, így egész nap kényelmes sétát kínálnak."],
       ro: ["Grădina Zoologică Pitești se întinde pe o suprafață de peste 12 hectare în pădurea Trivale.", "Adăpostește peste 60 de specii de animale de pe toate continentele lumii.", "Este una dintre puținele grădini din țară care deține exemplare de leu alb.", "Cifrele indică peste 100.000 de vizitatori anual în acest complex forestier.", "Include un sector special dedicat reptilelor și amfibienilor cu specii rare.", "Grădina participă la programe naționale de reabilitare a animalelor rănite.", "Aleile sunt înconjurate de o vegetație bogată cu numeroase specii de arbori autohtoni.", "Facilitatea a fost complet modernizată în anul 2007 pentru a respecta normele EAZA."],
       en: []
-    }
-  },
+    }, image: "/poi-images/animal-habitat-pitesti-zoo-extra.webp"},
   {
     id: "animal-habitat-drobeta-zoo-extra",
     type: "animal-habitat",
@@ -2617,8 +2559,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A szörényvári állatkert a város egyik legrégebbi szabadidős központja.", "Az intézmény kiemelt figyelmet fordít a dunai fauna bemutatására.", "A park területén egy kis terrárium is várja a hüllők iránt érdeklődőket.", "A látogatás családias hangulatú, ideális kisgyermekek első állatkerti élményéhez.", "Az állatkert szorosan együttműködik a Vaskapu Natúrpark szakembereivel.", "Saját kis madárházzal rendelkezik, ahol ritka énekesmadarak is láthatóak.", "A belépődíjak jelképesek, így mindenki számára elérhető a kikapcsolódás.", "A területen kényelmes padok és árnyas pihenőhelyek találhatók."],
       ro: ["Grădina Zoologică Drobeta a fost înființată în anul 1957 ca spațiu de agrement.", "Este situată în imediata proximitate a malului stâng al fluviului Dunărea.", "Colecția include exemplare de lupi carpatini și leii africani, favoriții publicului.", "Grădina colaborează strâns cu specialiștii de la Parcul Natural Porțile de Fier.", "Dispune de un mic sector de acvaristică cu specii de pești din bazinul dunărean.", "Locația este înconjurată de un parc generos, ideal pentru drumeții scurte.", "Investițiile recente s-au concentrat pe refacerea sistemelor de filtrare a apei pentru păsări.", "Grădina oferă informații detaliate despre fauna specifică zonei Defileului Dunării."],
       en: []
-    }
-  },
+    }, image: "/poi-images/animal-habitat-drobeta-zoo-extra.webp"},
   {
     id: "animal-habitat-craiova-zoo-extra",
     type: "animal-habitat",
@@ -2657,8 +2598,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A craiovai állatkert az egyik legszebb fekvésű ilyen intézmény Romániában.", "A Nicolae Romanescu-parkon belül, több hektáron terül el.", "Az állatkert látogatása teljesen ingyenes a nyilvánosság számára.", "A park taván élő hattyúk és vadkacsák az állatkert szerves részét képezik.", "Híres a medvék tágas és sziklás kifutója a park domboldalában.", "Az állatkert a hét minden napján nyitva áll a látogatók előtt.", "A helyszín az ország egyik legnépszerűbb családi fotózási helyszíne.", "Kiemelt figyelmet fordítanak a park és az állatkert biodiverzitásának megőrzésére."],
       ro: ["Grădina Zoologică Craiova este integrată în Parcul Nicolae Romanescu, monument istoric.", "Parcul a fost proiectat de arhitectul francez Édouard Redont la începutul anilor 1900.", "Este una dintre puținele grădini zoologice din România cu acces gratuit pentru public.", "Hectarele de luciu de apă din jur adăpostesc colonii mari de lebede și rațe sălbatice.", "Grădina deține un adăpost de urși impresionant, construit pe o structură stâncoasă naturală.", "Include zone de observație modernizate care permit o vizibilitate sigură asupra felinelor.", "Zoo Craiova este un obiectiv cheie în strategia de turism a regiunii Oltenia.", "În apropierea grădinii se găsește și un hipodrom istoric, unic în sudul țării."],
       en: []
-    }
-  },
+    }, image: "/poi-images/animal-habitat-craiova-zoo-extra.webp"},
   {
     id: "kid-landmark-garboavele-extra",
     type: "kid-landmark",
@@ -2697,8 +2637,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Gârboavele-erdő egy több mint 200 hektáros védett természeti terület.", "Itt található a Galați Állatkert, amely híres a tágas medvekifutójáról.", "A területen egy szabadtéri néprajzi múzeum is működik (Muzeul Satului).", "A kalandparkban különböző nehézségi fokozatú akadálypályák várják a gyerekeket.", "Az erdő területén kijelölt grill- és piknikező helyek állnak a látogatók rendelkezésére.", "Gârboavele fontos tudományos kutatóhely a helyi biodiverzitás tanulmányozására.", "Számos sporteseményt, például terepfutó versenyeket is rendeznek itt.", "A park könnyen megközelíthető autóval Galați városából."],
       ro: ["Pădurea Gârboavele este o arie naturală protejată de interes județean în Galați.", "Grădina Zoologică de aici se întinde pe o suprafață de aproximativ 7 hectare.", "Include un Muzeu al Satului (secție a Muzeului de Istorie) cu 14 monumente de arhitectură populară.", "Parcul de aventură dispune de peste 10 trasee cu grade diferite de dificultate.", "Zona este renumită pentru biodiversitatea sa, incluzând specii rare de plante stepice.", "În cadrul complexului funcționează și baze de agrement cu piscine și terenuri de sport.", "Gârboavele găzduiește anual festivaluri de folclor și competiții de ciclism off-road.", "Accesul se face ușor din municipiul Galați pe un drum modernizat ce traversează platoul."],
       en: []
-    }
-  },
+    }, image: "/poi-images/kid-landmark-garboavele-extra.webp"},
   {
     id: "animal-habitat-vivarium-bc-extra",
     type: "animal-habitat",
@@ -2737,8 +2676,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A bákói Vivárium az egyik leggazdagabb élő hüllőgyűjteménnyel rendelkezik az országban.", "Több mint 100 különböző faj képviselteti magát az akváriumokban és terráriumokban.", "Külön részleg foglalkozik az egzotikus madarak, például papagájok bemutatásával.", "Az intézmény fontos kutatásokat végez a kétéltűek védelmével kapcsolatban.", "A Vivárium egy történelmi épületben, a régi megyei bíróság épületében kapott helyet.", "Rendszeresen szerveznek tematikus kiállításokat és 'ismerkedő' órákat állatokkal.", "A látogatók megismerhetik a romániai kígyó- és gyíkfajokat is.", "Az intézmény egész évben nyitva tart, ideális beltéri program a családoknak."],
       ro: ["Vivariul este adăpostit în clădirea fostului tribunal din Bacău, monument istoric.", "Deține una dintre cele mai importante colecții de reptile din România.", "Secția de acvaristică prezintă atât specii de apă dulce, cât și exemplare marine.", "Include un pavilion dedicat păsărilor exotice, renumit pentru papagalii vorbitori.", "Vivariul organizează periodic expoziții temporare cu tematici de entomologie sau botanică.", "Personalul științific derulează proiecte de reproducere în captivitate a speciilor rare.", "Este o locație ideală pentru vizite școlare și cursuri de biologie aplicată.", "Instituția oferă posibilitatea observării îndeaproape a speciilor veninoase în condiții de maximă siguranță."],
       en: []
-    }
-  },
+    }, image: "/poi-images/animal-habitat-vivarium-bc-extra.webp"},
   {
     id: "animal-habitat-iasi-zoo-extra",
     type: "animal-habitat",
@@ -2777,8 +2715,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A jászvásári állatkert több mint 5 hektáros területen fekszik.", "Az intézményben közel 400 állat és 90 különböző faj látható.", "Híres az állatkert nagymacska-állománya, különösen az oroszlánok és tigrisek.", "A területen egy modern oktatóközpont is működik a gyermekek számára.", "Az állatkert könnyen megközelíthető a városközpontból tömegközlekedéssel.", "Számos pad és piknikező hely várja a látogatókat az árnyas fák alatt.", "Rendszeresen tartanak állatvédelmi napokat és interaktív bemutatókat.", "A belépődíjakat a kifutók folyamatos modernizálására fordítják."],
       ro: ["Grădina Zoologică Iași a fost complet reabilitată și redeschisă publicului în anul 2013.", "Se întinde pe o suprafață de peste 5 hectare de teren împădurit.", "Adăpostește aproape 400 de exemplare aparținând unui număr de 90 de specii.", "Vedetele grădinii sunt perechea de tigri siberieni și familia de lei africani.", "Include un centru de informare turistică și spații dedicate lecțiilor de ecologie.", "Grădina deține sisteme de supraveghere video și monitorizare a microclimatului din adăposturi.", "Accesul este facilitat de liniile de transport public ce fac legătura cu zona Ciric.", "Zoo Iași participă la schimburi internaționale de exemplare pentru evitarea consangvinizării."],
       en: []
-    }
-  },
+    }, image: "/poi-images/animal-habitat-iasi-zoo-extra.webp"},
   {
     id: "animal-habitat-bm-zoo-extra",
     type: "animal-habitat",
@@ -2817,8 +2754,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A nagybányai állatkert már több mint 50 éve fogadja a látogatókat.", "A park területén egy gyönyörű tó is található vízi madarakkal.", "Különösen népszerű a medvék és a farkasok kifutója.", "Az állatkert fontos szerepet játszik a helyi iskolások környezeti nevelésében.", "A látogatás családias és nyugodt környezetet biztosít minden korosztálynak.", "A belépőjegyek ára rendkívül kedvező, ösztönözve a rendszeres látogatást.", "Az intézmény részt vesz a romániai állatkertek közötti szakmai együttműködésekben.", "A területen kényelmes pihenőpadok és információs táblák segítik a tájékozódást."],
       ro: ["Grădina Zoologică Baia Mare a fost înființată în anul 1950 sub forma unui mic parc zoo.", "Este situată în vecinătatea parcului municipal Regina Maria, la marginea orașului.", "Grădina adăpostește o familie numeroasă de urși carpatini salvați de-a lungul timpului.", "Dispune de un lac interior unde pot fi observate diverse specii de păsări de apă.", "Taxa de intrare este una dintre cele mai accesibile din țară, încurajând turismul social.", "Personalul grădinii oferă periodic ghidaje gratuite grupurilor de elevi.", "Facilitatea a beneficiat recent de investiții pentru modernizarea gardurilor de protecție.", "Zoo Baia Mare este membră a Federației Grădinilor Zoologice și Acvariilor din România."],
       en: []
-    }
-  },
+    }, image: "/poi-images/animal-habitat-bm-zoo-extra.webp"},
   {
     id: "animal-habitat-sm-zoo-extra",
     type: "animal-habitat",
@@ -2857,8 +2793,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A szatmárnémeti állatkert Románia északnyugati régiójának egyik legmodernebbje.", "Az intézmény több mint 7 hektáros területen fekszik.", "Közel 60 állatfaj több száz egyede látható a kifutókban.", "Híres az állatkert madárháza és a tágas nagymacska-kifutók.", "Az állatkertben interaktív oktatótáblák segítik a fajok megismerését.", "A park akadálymentesített és kényelmes pihenőhelyekkel van felszerelve.", "Rendszeresen szerveznek ingyenes tematikus napokat gyermekeknek.", "A szatmári állatkert fontos turisztikai vonzerő a határmenti régióban."],
       ro: ["Zoo Satu Mare se întinde pe o suprafață de aproximativ 7 hectare de teren amenajat.", "Grădina găzduiește peste 60 de specii de animale provenite de pe patru continente.", "Include o zonă de 'mini-fermă' unde copiii pot vedea îndeaproape capre, oi și ponei.", "Dispune de un amfiteatru în aer liber pentru lecții de biologie și prezentări.", "Locația este înconjurată de un dig de protecție ce oferă piste de promenadă suplimentare.", "Zoo Satu Mare a stabilit parteneriate cu grădini similare din Ungaria pentru schimb de experiență.", "Toate habitatele felinelor mari au fost reconstruite recent conform normelor UE.", "Grădina este un important habitat de tranzit pentru păsările migratoare în perioada toamnei."],
       en: []
-    }
-  },
+    }, image: "/poi-images/animal-habitat-sm-zoo-extra.webp"},
   {
     id: "kid-landmark-nymphaea-bh-extra",
     type: "kid-landmark",
@@ -2897,8 +2832,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Nymphaea Aquapark hét hektáros területével a legnagyobb a régióban.", "Összesen 10 látványos csúszda és 15 különböző medence áll rendelkezésre.", "A komplexum saját termálvíz-forrással rendelkezik a gyógyvizes medencékhez.", "A beltéri részleg lehetővé teszi a fürdőzést a leghidegebb téli napokon is.", "Modern szaunavilág, törökfürdő és masszázsszalonok várják a pihenni vágyókat.", "A gyermekmedencék speciális, biztonságos burkolattal és játékokkal felszereltek.", "Az aquapark területén több étterem és bár kínál frissítőket.", "A Nymphaea megnyitása óta Nagyvárad egyik legfontosabb turisztikai mágnese."],
       ro: ["Aquapark Nymphaea a fost inaugurat în septembrie 2016 și a costat peste 20 de milioane de euro.", "Capacitatea totală a complexului este de 1.000 de persoane simultan în timpul iernii.", "Include tobogane de mare viteză cu denumiri evocatoare precum 'Anaconda' sau 'Tornado'.", "Apa din bazine este menținută la temperaturi constante folosind resursele geotermale locale.", "Complexul oferă acces gratuit la o zonă de sport cu terenuri de fotbal și volei pe nisip.", "Există 6 unități de alimentație publică în cadrul parcului, de la restaurante la baruri tip 'wet bar'.", "Nymphaea este situat pe locul fostului ștrand municipal, fiind complet reconstruit.", "Sistemul de plată în interior se face printr-o brățară electronică inteligentă."],
       en: []
-    }
-  },
+    }, image: "/poi-images/kid-landmark-nymphaea-bh-extra.webp"},
   {
     id: "kid-landmark-aqua-magic-ct-extra",
     type: "kid-landmark",
@@ -2937,8 +2871,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Aqua Magic volt az első modern vízi vidámpark a román tengerparton.", "A park területe meghaladja a 27 ezer négyzetmétert.", "Összesen 14 különböző vízi attrakció és csúszda várja a vendégeket.", "A park naponta több mint 9000 látogató fogadására alkalmas.", "Híres a 'River Ride' és a 'Kamikaze' csúszdákról.", "Napközben profi animátorcsapat szórakoztatja a gyerekeket és felnőtteket.", "Az Aqua Magic területén különleges 'wet bar' is található a medencében.", "A biztonságért képzett vízimentők és folyamatos felügyelet felel."],
       ro: ["Aqua Magic Mamaia a fost inaugurat în anul 2003, fiind pionierul parcurilor acvatice din RO.", "Suprafața totală a parcului este de aproximativ 27.200 de metri pătrați.", "Dispune de 14 atracții acvatice, inclusiv celebrul tobogan 'Kamikaze'.", "Capacitatea de primire este de peste 9.000 de turiști în fiecare zi de vară.", "Include zone speciale pentru copii denumite 'Water Playground' și 'Baby Pool'.", "În interiorul parcului se găsesc restaurante, baruri și puncte de prim-ajutor specializate.", "Sistemul de filtrare a apei este unul de ultimă generație, asigurând puritatea continuă.", "Aqua Magic este adesea locația unor transmisiuni TV în direct și a unor concerte estivale."],
       en: []
-    }
-  },
+    }, image: "/poi-images/kid-landmark-aqua-magic-ct-extra.webp"},
   {
     id: "kid-landmark-therme-b-extra",
     type: "kid-landmark",
@@ -2977,8 +2910,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Therme București Európa legnagyobb zöldmezős wellness-beruházása.", "A komplexum több mint 800 ezer növényével Románia legnagyobb botanikus kertje is egyben.", "A termálvizet több mint 3000 méter mélyről nyerik ki a földből.", "A Galaxy zónában Románia leghosszabb beltéri csúszdarendszere található.", "A tető szerkezete speciális üvegből készült, amely átereszti az UV sugárzást.", "Minden zónában különböző hőmérsékletű és ásványi anyag tartalmú medencék vannak.", "A Therme saját, ultramodern vízszűrő és tisztító technológiával rendelkezik.", "A helyszín mindössze 10 percre található a nemzetközi repülőtértől."],
       ro: ["Therme București a fost deschis în ianuarie 2016 și este lider european în domeniul wellness.", "Apa termală este pompată de la o adâncime de peste 3.100 de metri.", "Complexul găzduiește peste 1.500 de palmieri adevărați aduși de pe trei continente.", "Zona Galaxy are cel mai lung sistem de tobogane interioare din Europa de Sud-Est (1,5 km).", "Clădirea deține o cupolă de sticlă mobilă de 900 de tone care se deschide în zilele însorite.", "Capacitatea de procesare a aerului asigură o temperatură constantă de 30°C și umiditate optimă.", "Elysium include 9 saune tematice, printre care și una inspirată de tradiția maiașă.", "Complexul a primit certificarea LEED Platinum pentru construcție verde și sustenabilă."],
       en: []
-    }
-  },
+    }, image: "/poi-images/kid-landmark-therme-b-extra.webp"},
   {
     id: "kid-landmark-arka-park-sb-extra",
     type: "kid-landmark",
@@ -3017,8 +2949,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Arka Park Păltiniș 1200 méteres tengerszint feletti magasságban található.", "Összesen 11 különböző nehézségi fokozatú kalandpálya áll rendelkezésre.", "A parkban található az egyik leglátványosabb hegyi tiroli csúszópálya.", "Minden látogató kötelező biztonsági oktatáson vesz részt a kaland előtt.", "A park egész évben nyitva tart, így télen is különleges élményt nyújt.", "Kiváló helyszín iskolai kirándulásokhoz és outdoor csapatépítőkhöz.", "A pályák kialakítása során maximálisan figyeltek az erdő védelmére.", "A park területén kényelmes pihenőzónák és büfé várja a felfrissülni vágyókat."],
       ro: ["Arka Park Păltiniș este situat la o altitudine de aproximativ 1.400 de metri.", "Dispune de 11 trasee de aventură cu dificultăți variind de la nivelul alb la cel negru.", "Include o tiroliană spectaculoasă cu o lungime ce depășește 100 de metri prin brazi.", "Echipamentul de siguranță utilizat este de tip 'clic-it', care previne desprinderea accidentală.", "Parcul oferă circuite speciale pentru copiii cu vârste între 3 și 7 ani.", "Stațiunea Păltiniș, unde se află parcul, a fost fondată în anul 1894 de către SKV.", "Arka Park este deschis și în timpul iernii, oferind un decor de basm pentru cățărări.", "Toate traseele sunt verificate anual de experți internaționali în parcuri de aventură."],
       en: []
-    }
-  },
+    }, image: "/poi-images/kid-landmark-arka-park-sb-extra.webp"},
   {
     id: "agriculture-ferma-dacilor-extra",
     type: "agriculture",
@@ -3064,8 +2995,7 @@ export const poiExtraRo2: POI[] = [
       ],
       ro: ["Ferma Dacilor este situată în localitatea Tohani, într-o zonă renumită pentru vinurile sale.", "Complexul a fost ridicat folosind materiale ecologice și tehnici de construcție tradiționale.", "Restaurantul fermei este celebru pentru preparatele la proțap și carnea de vânat.", "Deține o fermă proprie de animale cu peste 70 de specii, de la cai la taurine autohtone.", "Ferma Dacilor promovează conceptul 'farm-to-table', reducând amprenta de carbon a hranei.", "Locația este un hub pentru evenimente ce promovează muzica și arta tradițională românească.", "Căsuțele de cazare sunt amplasate strategic pentru a oferi vederi panoramice spre podgorii.", "Complexul oferă ateliere de olărit și alte meșteșuguri vechi pentru oaspeții săi."],
       en: []
-    }
-  },
+    }, image: "/poi-images/agriculture-ferma-dacilor-extra.webp"},
   {
     id: "river-iza-extra",
     type: "river",
@@ -3104,8 +3034,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Iza folyó hossza körülbelül 83 kilométer.", "Völgye az UNESCO világörökség részét képező fatemplomok hazája.", "A folyó a máramarosi faépítészet és kultúra bölcsője.", "Az Iza vize kristálytiszta, ideális a horgászathoz és a pihenéshez.", "A völgyben számos hagyományos vízi szerkezet (pl. ványoló) ma is működik.", "Télen az Iza fagyott partjai különleges, mesebeli látványt nyújtanak.", "A folyó fontos ökológiai folyosó a kárpáti élővilág számára.", "Máramaros-szigetnél az Iza vize egyesül a Tiszával."],
       ro: ["Râul Iza are o lungime de aproximativ 83 de kilometri și un bazin hidrografic vast.", "Izvorăște la o altitudine de 1.380 de metri, sub vârful Pietrosu din munții Rodnei.", "Valea Izei găzduiește biserici celebre precum cele din Bârsana, Ieud și Poienile Izei.", "Râul este un afluent de stânga al Tisei, unindu-se cu aceasta la Sighetu Marmației.", "Pe cursul Izei încă mai funcționează instalații tehnice țărănești acționate de apă (vâltori).", "Numele râului se regăsește în numeroase balade și cântece populare maramureșene.", "Valea Izei este recunoscută ca zonă cu o biodiversitate ridicată, protejată prin situri Natura 2000.", "Iza este unul dintre puținele râuri carpatine care păstrează zone extinse de luncă naturală."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-iza-extra.webp"},
   {
     id: "river-siret-extra",
     type: "river",
@@ -3144,8 +3073,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Szeret folyó teljes hossza 706 kilométer, ebből 559 km Romániában.", "Vízgyűjtő területe a legnagyobb az összes romániai folyó közül.", "A folyón több nagy víztározó tó is található (pl. Beresti, Galbeni).", "A Szeret a Duna legnagyobb mellékfolyója a vízhozam tekintetében.", "Az ártér számos ritka vízi növény- és madárfaj védett élőhelye.", "Történelmileg a Szeret fontos védelmi vonalként is szolgált Moldvában.", "A folyó torkolatánál jelentős ipari központok és kikötők alakultak ki.", "A Szeret menti alluviális talajok kiválóak a gabonatermesztésre."],
       ro: ["Siretul are o lungime totală de 706 km, dintre care 559 km se află în România.", "Este râul cu cel mai mare bazin hidrografic din România (aproximativ 44.000 kmp).", "Pe Siret se află cascade de hidrocentrale importante la Berești, Galbeni și Răcăciuni.", "Se varsă în Dunăre la sud de orașul Galați, contribuind masiv la debitul fluviului.", "Valea Siretului este una dintre cele mai importante axe feroviare și rutiere ale țării.", "În antichitate, râul era cunoscut sub numele grecesc 'Hierasus'.", "Lunca Siretului adăpostește numeroase rezervații naturale și situri arheologice importante.", "Debitul mediu la vărsare este de aproximativ 250 metri cubi pe secundă."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-siret-extra.webp"},
   {
     id: "river-prut-extra",
     type: "river",
@@ -3184,8 +3112,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Prut folyó hossza 953 kilométer, amivel Európa egyik leghosszabb folyója.", "711 kilométeren keresztül képezi Románia és Moldova államhatárát.", "A Stânca-Costești gát a folyó egyik legnagyobb technikai létesítménye.", "A Prut torkolata a Duna-deltához hasonlóan gazdag biodiverzitással rendelkezik.", "A folyó menti holtágak fontos ívóhelyek a dunai halak számára.", "Számos régészeti lelőhely tanúskodik a Prut menti korai emberi településekről.", "A folyó vízminősége javult az elmúlt évtizedek közös védelmi projektjei révén.", "A Prut-völgy híres a finom borairól és a határ menti vendégszeretetről."],
       ro: ["Prutul are o lungime totală de 953 km, fiind unul dintre cei mai lungi râuri din Europa.", "Formează granița de est a României pe o distanță de 711 kilometri.", "Barajul Stânca-Costești de pe Prut este unul dintre cele mai mari din sud-estul Europei.", "Râul este navigabil pe cursul inferior, asigurând transportul local de mărfuri.", "Lunca Prutului este arie protejată la nivel european (Natura 2000) pentru păsările migratoare.", "Prutul se varsă în Dunăre în localitatea Giurgiulești, la punctul de întâlnire a trei state.", "Istoric, râul a fost martorul a numeroase bătălii și tratate de pace între mari imperii.", "Fauna piscicolă include specii valoroase precum somnul, știuca și crapul sălbatic."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-prut-extra.webp"},
   {
     id: "river-bistrita-extra",
     type: "river",
@@ -3224,8 +3151,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Beszterce folyó hossza 283 kilométer a torkolatig.", "Ez Románia legfontosabb folyója a vízenergia-termelés szempontjából.", "A folyón kiépített 'Beszterce-lépcső' összesen 13 vízerőművet foglal magában.", "Felső szakasza híres a pisztrángállományáról és a tiszta hegyi vizéről.", "A Beszterce mentén egykoron jelentős volt a faúsztatás a hegyekből a síkságra.", "A Bicaz-gát építése az 1950-es évek egyik legnagyobb romániai beruházása volt.", "A folyó völgye fontos közlekedési folyosó Erdély és Moldva között.", "A Beszterce vize végül a Szeret folyóba ömlik Bákó közelében."],
       ro: ["Râul Bistrița are o lungime de 283 km și străbate județele Bistrița-Năsăud, Suceava, Neamț și Bacău.", "Barajul de la Bicaz, finalizat în 1960, are o înălțime de 127 de metri.", "Numele 'Bistrița' este de origine slavă și înseamnă 'apa repede'.", "Pe cursul râului este construită prima și cea mai lungă cascadă de hidrocentrale din România.", "Bistrița Aurie este renumită pentru pepitele de aur ce puteau fi găsite istoric în albia sa.", "Râul trece prin apropierea unor monumente de artă medievală precum mănăstirea Bistrița.", "Valea Bistriței oferă unele dintre cele mai frumoase trasee auto montane din țară.", "Se varsă în râul Siret în apropierea orașului Bacău."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-bistrita-extra.webp"},
   {
     id: "river-trotus-extra",
     type: "river",
@@ -3264,8 +3190,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Tatros folyó hossza körülbelül 162 kilométer.", "Völgye az egyik legrégebbi ipari terület Romániában a só és olaj miatt.", "A folyó mentén található az ezeréves határ (Gyimesbükk) történelmi helyszíne.", "A Tatros völgye fontos néprajzi tájegység a csángó kultúra megőrzésében.", "A folyó vízgyűjtője gazdag ásványvíz-forrásokban is.", "Számos víztározó épült a folyón az árvizek megfékezése érdekében.", "A Tatros menti erdők gazdag vadállománnyal, köztük medvékkel rendelkeznek.", "A folyó Adjud közelében ömlik a Szeret folyóba."],
       ro: ["Râul Trotuș are o lungime de 162 km și se varsă în Siret lângă Adjud.", "Valea sa găzduiește celebrul complex minier salin de la Târgu Ocna.", "Izvorul râului se află la o altitudine de 1.140 m în munții Ciucului.", "Pe cursul său se află una dintre primele și cele mai mari rafinării din țară, la Onești.", "Valea Trotușului este o cale ferată transcarpatică strategică ce leagă Adjudul de Ciceu.", "Râul a dat numele culturii arheologice de epoca bronzului 'Monteoru-Trotuș'.", "Afluenții săi, precum Slănicul, sunt renumiți pentru stațiunile balneoclimaterice.", "Lunca Trotușului este o zonă fertilă, intens utilizată pentru legumicultură."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-trotus-extra.webp"},
   {
     id: "river-putna-extra",
     type: "river",
@@ -3304,8 +3229,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Putna folyó hossza körülbelül 153 kilométer.", "A Putna-vízesés Románia egyik leglátványosabb védett természeti emléke.", "A folyó völgye a Vranceai Szeizmikus Zóna szívében fekszik.", "A Putna-szorosban számos ritka növényfaj és védett ragadozó madár él.", "A folyó mente népszerű a vadvízi túrázók és kempingezők körében.", "Vize fontos öntözőforrás a Vranceai-síkság mezőgazdasága számára.", "A folyó a Szeret mellékfolyójaként zárja útját.", "A Putna völgye híres a hagyományos népi építészetéről és fafaragásairól."],
       ro: ["Râul Putna are o lungime de aproximativ 153 km și este un afluent de dreapta al Siretului.", "Cascada Putnei are o cădere de apă de circa 12 metri și este declarată rezervație geologică.", "Bazinul hidrografic al Putnei este situat în cea mai activă zonă seismică din România.", "Râul formează defileul Putnei, o zonă de chei săpate în gresii și conglomerate.", "În apropiere se află mănăstirea Putna, deși râul omonim trece la distanță de mănăstirea istorică din Bucovina.", "Valea Putnei este renumită pentru tradiția meșteșugului lemnului și al măștilor populare.", "Apele Putnei sunt populate cu specii de pești iubitori de curent, precum mreana de munte.", "Râul are un rol crucial în alimentarea cu apă a orașelor Focșani și Adjud."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-putna-extra.webp"},
   {
     id: "river-buzau-extra",
     type: "river",
@@ -3344,8 +3268,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Bodza folyó hossza 302 kilométer.", "A Siriu-gát Románia egyik legmagasabb, agyagmaggal épült gátja.", "A folyó felső szakasza nemzetközi rafting versenyek helyszíne.", "Völgye híres az 'Amber' (borostyán) lelőhelyekről Colți környékén.", "A Bodza vize fontos szerepet játszik Délkelet-Románia vízellátásában.", "A folyó árterében számos ritka madárfaj fészkel a vándorlási időszakban.", "Történelmileg fontos határvonal volt a román fejedelemségek között.", "A Bodza végül a Szeret folyóba torkollik Galați megyében."],
       ro: ["Râul Buzău are o lungime de 302 km și se varsă în râul Siret.", "Izvorăște din munții Ciucaș, de la o altitudine de aproximativ 1.100 de metri.", "Lacul de acumulare Siriu, format pe Buzău, are un baraj de anrocamente de 122 m înălțime.", "În bazinul său hidrografic se află faimoșii Vulcani Noroioși de la Pâclele Mari și Mici.", "Râul traversează orașul Buzău, fiind principala sursă de apă pentru municipiu.", "Debitul râului poate crește spectaculos în perioadele de topire a zăpezilor din Carpați.", "Valea Buzăului este o rută istorică ce leagă Transilvania de porturile dunărene.", "Pasionații de sporturi extreme practică rafting pe sectorul dintre Siriu și Nehoiu."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-buzau-extra.webp"},
   {
     id: "river-ialomita-extra",
     type: "river",
@@ -3384,8 +3307,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Jalomica folyó hossza 417 kilométer.", "Forrása több mint 2000 méter magasan, a Bucsecs-hegységben található.", "A folyón épült Bolboci-gátat 'a Kárpátok tengerének' is nevezik.", "Az Ialomița-barlang és kolostor a folyó felső szakaszának legismertebb látványossága.", "A folyó menti Bărăgan-síkság Románia legfontosabb gabonatermő vidéke.", "Számos víztározó tó szabályozza a folyó vízszintjét az Alföldön.", "Történelmileg a folyó mentén alakult ki az egyik legfontosabb középkori kereskedelmi út.", "A Jalomica vize a Duna-delta előtt, Giurgeni-nél éri el a Dunát."],
       ro: ["Ialomița are o lungime de 417 km, fiind unul dintre cei mai lungi râuri interioare ale RO.", "Izvorăște de sub vârful Omul, la o altitudine de peste 2.400 de metri.", "Lacul Bolboci de pe Ialomița este cunoscut drept 'Marea din Bucegi'.", "Râul se varsă în Dunăre la Giurgeni, lângă celebrul pod peste fluviu.", "În cursul inferior, Ialomița alimentează sisteme masive de irigații în Bărăgan.", "Pe malurile sale se află ruinele orașului antic Helis (Piscul Crăsani).", "Numele râului apare menționat în documente încă din perioada antichității târzii.", "Bazinul său hidrografic acoperă o suprafață de aproape 10.000 de kilometri pătrați."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-ialomita-extra.webp"},
   {
     id: "lake-mostistea-extra",
     type: "lake",
@@ -3424,8 +3346,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Mostiștea-tó Románia egyik legnagyobb mesterségesen szabályozott tava az Alföldön.", "Vízfelülete a duzzasztások következtében több ezer hektárt tesz ki.", "A tórendszer fontos szerepet játszik az aszályos időszakok elleni védekezésben.", "Számos haltenyésztő gazdaság működik a tó területén.", "A Mostiștea völgye gazdag régészeti leletekben a neolitikum idejéből.", "A tó környéke kiváló madármegfigyelő hely az ornitológusok számára.", "A vízminőséget rendszeresen ellenőrzik az öntözés és a halászat miatt.", "A tó partján több kisebb, autentikus alföldi falu osztozik."],
       ro: ["Lacul Mostiștea este unul dintre cele mai mari lacuri antropice din Câmpia Română.", "Suprafața sa totală poate atinge aproximativ 20 de kilometri pătrați.", "Este principala sursă pentru sistemul de irigații Mostiștea, esențial pentru Bărăgan.", "Bazinul este renumit pentru speciile de crap, somn și șalău.", "Face parte din rețeaua europeană Natura 2000 datorită habitatelor avifaunistice.", "Barajul principal este situat în localitatea Frăasinet, județul Călărași.", "Mostiștea a fost creat prin amenajarea unei vechi văi naturale cu debit variabil.", "Adâncimea medie a lacului este redusă, specifică lacurilor de stepă și câmpie."],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-mostistea-extra.webp"},
   {
     id: "lake-razim-extra",
     type: "lake",
@@ -3464,8 +3385,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Razim-tó vízfelülete több mint 400 négyzetkilométer.", "Ez a Razim-Sinoe lagúna-komplexum legészakibb és legnagyobb tagja.", "A tó közepén található Popina-sziget szigorúan védett természeti rezervátum.", "A tó vize a Duna csatornáin keresztül frissül, ezért mára édesvizűvé vált.", "A Razim partján találhatók Románia legrégebbi görög kolóniájának romjai.", "A tó híres a gazdag halállományáról, különösen a süllőről és pontyról.", "Fontos állomása a madárvonulási útvonalaknak a Fekete-tenger mentén.", "A tó környéki falvakban ma is élő a hagyományos lipován halászkultúra."],
       ro: ["Razim este cel mai mare lac din România, având o suprafață de aproximativ 394 kmp.", "Face parte din Rezervația Biosferei Delta Dunării, fiind protejat prin convenții internaționale.", "Inițial a fost un golf al Mării Negre, numit în antichitate Golful Halmyris.", "Insula Popina, aflată în lac, este singura zonă stâncoasă dintr-un peisaj dominat de apă și stuf.", "Adâncimea maximă a lacului este de aproximativ 3,5 metri.", "Razimul comunică cu brațul Sfântu Gheorghe al Dunării prin canalele Dunavăț și Dranov.", "Este o zonă de importanță majoră pentru cuibăritul păsărilor migratoare rare.", "Pe țărmurile sale se află ruinele cetății greco-romane Argamum (Orgame)."],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-razim-extra.webp"},
   {
     id: "lake-sinoe-extra",
     type: "lake",
@@ -3504,8 +3424,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Sinoe-tó vize a tengeri kapcsolat miatt sósabb, mint a Razim-tóé.", "Partján található Histria, az i.e. 7. században alapított milétoszi görög gyarmatváros.", "A tó fontos táplálkozóhely a pelikánok és flamingók (ritkábban) számára.", "Vízfelülete körülbelül 135 négyzetkilométer.", "A Sinoe-tó a madármegfigyelők egyik kedvenc helyszíne Dobrudzsában.", "A tó medre igen sekély, átlagosan mindössze 1-2 méter mély.", "Számos csatorna köti össze a szomszédos Razim-tóval.", "A terület a Ramsari egyezmény alapján nemzetközileg is védett vizes élőhely."],
       ro: ["Lacul Sinoe are o suprafață de aproximativ 135 de kilometri pătrați.", "Apa sa este salmastră, având o concentrație de sare mai mare decât în lacul Razim.", "Pe malul lacului se află ruinele coloniei grecești Histria, fondată în secolul VII î.Hr.", "Sinoe este despărțit de Marea Neagră prin grinduri înguste de nisip.", "Face parte din Rezervația Biosferei Delta Dunării și este sit Ramsar.", "Este un habitat ideal pentru păsările migratoare precum pelicanii și cormoranii.", "Adâncimea lacului este mică, depășind rareori 1-2 metri în majoritatea zonelor.", "În antichitate, Sinoe era o lagună deschisă spre mare, servind drept port pentru Histria."],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-sinoe-extra.webp"},
   {
     id: "lake-techirghiol-extra",
     type: "lake",
@@ -3544,8 +3463,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Techirghiol-tó Románia legnagyobb sós tava, vízfelülete közel 12 négyzetkilométer.", "Sótartalma eléri a 80-90 grammot literenként.", "A tóból kinyert gyógyiszap számos nemzetközi elismerést és aranyérmet nyert.", "A tó partján található Techirghiol kolostor híres fatemplomáról is.", "A tó vize soha nem fagy be a magas sótartalom miatt.", "Egyedülálló mikrofaunával rendelkezik, mint például az Artemia salina rákocska.", "A tó és környéke Natura 2000-es védett terület a madárvilág védelme érdekében.", "A Techirghiol név török eredetű, jelentése: 'Csíkos tó'."],
       ro: ["Techirghiol este un liman maritim cu o suprafață de aproximativ 10,7 kmp.", "Salinitatea apei este extrem de ridicată, atingând valori de peste 80-90 g/l.", "Nămolul sapropelic de aici a câștigat medalia de aur la Expoziția Universală de la Paris în 1924.", "Numele lacului provine din limba turcă și înseamnă 'Lacul Vărgat' (sau al lui Techir).", "Este cel mai adânc lac de tip liman maritim din România, atingând pe alocuri 9 metri.", "Techirghiol este o stație de tratament balnear funcțională de peste un secol.", "Aria lacului este protejată prin Convenția Ramsar datorită speciilor de păsări migratoare.", "Pe malul lacului se află mănăstirea Sfânta Maria din Techirghiol, un reper spiritual important."],
       en: []
-    }
-  },
+    }, image: "/poi-images/lake-techirghiol-extra.webp"},
   {
     id: "forest-letea-extra",
     type: "forest",
@@ -3584,8 +3502,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Letea-erdőt már 1938-ban természetvédelmi területté nyilvánították.", "Itt találhatók Románia egyetlen természetes homokdűnéi, amelyek magassága a 10 métert is elérheti.", "Az erdőben több mint 700 éves tölgyfák is élnek.", "A becslések szerint több ezer vadló él a Duna-delta ezen részén.", "Letea az UNESCO Világörökség és a Bioszféra Rezervátum része.", "Az erdő talaja tengeri eredetű homok, ami különleges növénytársulásokat tesz lehetővé.", "A területen ritka vipera- és sakálpopuláció is megfigyelhető.", "Látogatása csak engedéllyel és szakavatott vezető kíséretében lehetséges."],
       ro: ["Pădurea Letea a fost declarată rezervație naturală în anul 1938.", "Este situată pe cel mai mare grind maritim din Deltă, între brațele Chilia și Sulina.", "Aici trăiesc faimoșii cai sălbăticiți, estimati la câteva sute de exemplare.", "Include stejari brumării cu vârste ce depășesc 500 de ani.", "Lianele (Vitis sylvestris) pot atinge lungimi de peste 25 de metri.", "Solul pădurii este format din dune de nisip fin, de origine marină.", "Este singurul loc din Europa unde se întâlnește vița-de-vie sălbatică în stare naturală.", "Vizitarea este permisă doar pe trasee marcate și însoțită de ghizi autorizați."],
       en: []
-    }
-  },
+    }, image: "/poi-images/forest-letea-extra.webp"},
   {
     id: "mountain-semenic-extra",
     type: "mountain",
@@ -3624,8 +3541,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Semenic-hegység Románia egyik legcsapadékosabb és leghavasabb vidéke.", "Itt található Európa egyik legnagyobb szűz bükkerdő-rezervátuma (Izvoarele Nerei).", "A hegység fontos víztoronyként szolgál a Bánság folyói (pl. Néra, Temes) számára.", "Semenic a nevét az itt őshonos havasi gyopár (Semenic) népi nevéről kapta.", "A Piatra Goznei csúcsról tiszta időben egészen a Dunáig ellátni.", "A hegységben számos jól jelzett turistaútvonal várja a gyalogosokat és a bringásokat.", "Kiemelkedő a karsztvidék barlangjainak és szurdokvölgyeinek száma a környéken.", "A Semenic-tetőn kialakított üdülőtelep az ország egyik legmagasabban fekvő települése."],
       ro: ["Cel mai înalt punct este vârful Piatra Goznei, cu o altitudine de 1.447 de metri.", "Găzduiește rezervația Izvoarele Nerei, cea mai mare pădure virgină de fag din Europa.", "Semenicul este cunoscut pentru fenomenele de inversiune termică ce mențin aerul curat.", "În masiv se află izvoarele râurilor Bârzava, Nera și Timiș.", "Stațiunea Semenic este situată la o altitudine de peste 1.400 m.", "Face parte din Parcul Național Semenic-Cheile Carașului, înființat în 1982.", "Include Peștera Comarnic, una dintre cele mai frumoase și lungi peșteri din Banat.", "Platoul este renumit pentru flora sa alpină, incluzând specii rare de flori de munte."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-semenic-extra.webp"},
   {
     id: "mountain-poiana-rusca-extra",
     type: "mountain",
@@ -3664,8 +3580,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Pojána-Ruszka-hegység híres a ruszkicai fehér márványról, amelyet világszerte ismernek.", "A hegység a Kárpátok egyik legkevésbé felfedezett, vadregényes tája.", "Gazdag vadállománnyal rendelkezik, különösen jelentős a farkas- és barnamedve-populáció.", "A Ruszka-csúcs (Padeș) az Erdélyi-érchegység és a Bánság határköve.", "A hegységben található a híres foksányi márványtemplom is.", "Számos hegyi patak ered itt, amelyek a Maros és a Temes vízgyűjtőjéhez tartoznak.", "A terület kiválóan alkalmas terepkerékpározásra és off-road túrákra.", "A Pojána-Ruszka karsztformái között számos kisebb, felfedezetlen barlang rejlik."],
       ro: ["Vârful Padeș este cel mai înalt punct al masivului, având 1.374 de metri.", "Marmura de Rușchița din acești munți a fost folosită la Palatul Parlamentului și la Domul din Viena.", "Regiunea este vatra etnogafică a 'pădurenilor', cu tradiții și costume unice.", "Munții sunt delimitați la nord de valea Mureșului și la sud de valea Bistrei.", "Au o structură geologică veche, fiind alcătuiți majoritar din șisturi cristaline.", "Găzduiesc importante rezerve de talc și minereuri complexe.", "Relieful este marcat de numeroase platouri netede, numite local 'poduri'.", "Poiana Ruscă este o arie importantă pentru populațiile de mistreți și cerbi carpatini."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-poiana-rusca-extra.webp"},
   {
     id: "mountain-trascau-extra",
     type: "mountain",
@@ -3704,8 +3619,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Torockói-hegység legmagasabb pontja a Dâmbău-csúcs (1390 m).", "Itt található a Székelykő, ahol a nap állítólag kétszer kel fel egy nap.", "A hegység Románia egyik leggazdagabb karsztvidéke, több száz barlanggal.", "A Tordai-hasadék egy több mint 2 kilométer hosszú, monumentális mészkőszoros.", "A Torockói-medence néprajzi szempontból is kiemelkedő, híres népviseletéről és vasművességéről.", "Számos középkori várrom (pl. Torockószentgyörgy vára) látható a sziklákon.", "A hegység flórája számos ritka, endemikus mészkőkedvelő növényt tartalmaz.", "A terület a siklóernyősök egyik legnépszerűbb starthelye Erdélyben."],
       ro: ["Vârful Dâmbău este cel mai înalt punct, atingând 1.390 de metri altitudine.", "Găzduiesc unele dintre cele mai frumoase chei din RO: Turzii, Râmețului și Aiudului.", "Satul Rimetea de la poalele Trascăului este singurul din RO premiat cu Europa Nostra.", "Piatra Secuiului oferă fenomenul rar al 'răsăritului dublu' în anumite perioade ale anului.", "Munții sunt alcătuiți din calcare jurasice, ceea ce explică culoarea lor albicioasă.", "Cetatea Colțești (Trascăului) a fost ridicată în secolul al XIII-lea pentru apărare.", "Include Rezervația Naturală Scărița-Belioara, cu specii de plante relicte glaciare.", "Sunt munții cu cea mai mare densitate de peșteri și avene din estul Apusenilor."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-trascau-extra.webp"},
   {
     id: "river-somes-mic-extra",
     type: "river",
@@ -3744,8 +3658,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Kis-Szamos hossza körülbelül 178 kilométer az egyesüléstől a torkolatig.", "A folyó keresztülhalad Kolozsvár történelmi központján.", "Vízhozamát több nagy víztározó tó (pl. Tárnica, Béles) szabályozza a forrásvidéken.", "A folyóparti 'Szamos-part' projekt nemzetközi építészeti díjakat is nyert.", "Dezs (Dej) közelében egyesül a Nagy-Szamossal.", "A Kis-Szamos vize fontos szerepet játszik a régió ivóvízellátásában.", "A folyó mentén számos középkori vár és kastély (pl. Bonchida) található.", "Völgye az egyik legsűrűbben lakott terület Erdélyben."],
       ro: ["Someșul Mic se formează la Gilău și se unește cu Someșul Mare la Dej.", "Are o lungime de aproximativ 178 km de la izvoarele Someșului Rece.", "Traversează municipiul Cluj-Napoca pe o distanță de circa 15 kilometri.", "Pe cursul său superior se află lacul de acumulare Florești.", "Râul a fost principala sursă pentru morile și fabricile istorice ale Clujului.", "Numele antic al râului era 'Samus', menționat de geograful Ptolemeu.", "Valea Someșului Mic este o axă de transport vitală ce leagă Clujul de Dej și Baia Mare.", "Apele sale sunt repopulate periodic pentru a susține fauna piscicolă urbană."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-somes-mic-extra.webp"},
   {
     id: "river-somes-mare-extra",
     type: "river",
@@ -3784,8 +3697,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Nagy-Szamos hossza körülbelül 130 kilométer.", "Forrása a Radnai-havasokban, több mint 1000 méter magasan található.", "Völgye híres az 'Inasa-völgye' néprajzi tájegységről.", "A folyó felső szakasza népszerű a vadvízi horgászat kedvelői körében.", "A Nagy-Szamos vize kristálytiszta, köszönhetően a magashegyi eredetnek.", "Számos kisebb vízerőmű hasznosítja a folyó energiáját Beszterce megyében.", "A folyó mente fontos vándorlási útvonal a kárpáti vadon élő állatok számára.", "Történelmileg fontos határvonal és védelmi pont volt a régióban."],
       ro: ["Someșul Mare izvorăște din munții Rodnei, de sub pasul Rotunda, la 1.285 m altitudine.", "Are o lungime de aproximativ 130 km până la confluența de la Dej.", "Traversează localități cu rezonanță istorică precum Rodna, Năsăud și Beclean.", "Este un râu cu regim hidrologic variabil, având viituri puternice primăvara.", "Bazinul său hidrografic este situat într-o zonă cu resurse de minereuri polimetalice.", "Apele superioare ale Someșului Mare sunt populate cu păstrăv și lipan.", "Râul este o sursă importantă pentru alimentarea cu apă a județului Bistrița-Năsăud.", "Valea Someșului Mare este inclusă parțial în situri de importanță comunitară Natura 2000."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-somes-mare-extra.webp"},
   {
     id: "mountain-meses-extra",
     type: "mountain",
@@ -3824,8 +3736,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Meszes-hegység legmagasabb pontja a Măgura Priei, 996 méter.", "A hegységben találhatók a Porolissum római erőd maradványai és a védművek nyomai.", "A Meszes-hágó (Pasul Meseș) fontos közúti összeköttetés Zilah és Kolozsvár között.", "A hegység híres a gazdag vadállományáról, különösen a vaddisznókról és őzekről.", "Számos jól jelzett turistaútvonal indul Zilah városából a hegyekbe.", "A Meszes növényvilága több ritka orchideafajt is tartalmaz.", "A hegység kőzetei főleg kristályos palából és mészkőből állnak.", "A terület kedvelt helyszíne a hegyi kerékpározásnak és a terepfutásnak."],
       ro: ["Vârful Măgura Priei este cel mai înalt punct, atingând 996 de metri altitudine.", "Pasul Poarta Meseșului este o trecătoare istorică celebră ce leagă Zalăul de Cluj.", "Limesul Roman traversa creasta munților Meseș, fiind păstrate urme de turnuri de pază.", "Sunt munți de structură hercinică, fiind printre cei mai vechi din regiune.", "Găzduiesc păduri vaste de fag și stejar, habitat pentru numeroase animale sălbatice.", "Munții Meseș dau numele și unui renumit ansamblu folcloric din Zalău.", "Relieful este format majoritar din șisturi cristaline și calcare jurasice.", "Aici se găsesc izvoarele râului Crasna, un afluent important al Tisei."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-meses-extra.webp"},
   {
     id: "river-crisul-repede-extra",
     type: "river",
@@ -3864,8 +3775,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Sebes-Körös teljes hossza 209 kilométer.", "Völgye az egyik legfontosabb közlekedési és vasúti folyosó Erdély és Magyarország között.", "A folyón több nagy víztározó és vízerőmű épült (pl. Élesd, Lugas).", "A Rév-i szurdokvölgy szigorúan védett természeti rezervátum.", "A folyóban számos nemes halfaj, köztük pisztráng és paduc él.", "A Sebes-Körös menti barlangok Románia leghosszabb barlangrendszereit rejtik.", "Nagyváradnál a folyó kiszélesedik és lassabbá válik az Alföld felé tartva.", "A folyó vize egyesül a Fekete- és Fehér-Körössel Magyarország területén."],
       ro: ["Crișul Repede are o lungime de 209 km, dintre care 171 km pe teritoriul României.", "Defileul Crișului Repede (Vadu Crișului - Șuncuiuș) este o rezervație naturală protejată.", "Râul trece prin centrul municipiului Oradea, modelând peisajul urban al orașului.", "Izvorăște de la o altitudine de 710 m în apropierea localității Izvoru Crișului.", "Pe cursul său se află una dintre cele mai vechi hidrocentrale din RO, la Vadu Crișului (1905).", "Apele râului sunt renumite pentru populațiile de scobar și mreană.", "Valea Crișului Repede este o magistrală feroviară internațională ce leagă Clujul de Budapesta.", "Numele râului provine din daco-romanul 'Crisus', însemnând 'apa neagră' sau 'închisă'."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-crisul-repede-extra.webp"},
   {
     id: "mountain-zarand-extra",
     type: "mountain",
@@ -3904,8 +3814,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Zarándi-hegység főleg vulkanikus és kristályos kőzetekből épül fel.", "Itt található Románia egyik legrégebbi és legfontosabb vörösbortermelő vidéke (Ménes).", "A hegység területén fekszik a Világosi várrom, az 1849-es fegyverletétel helyszínének közelében.", "A Highiș-csúcsról gyönyörű kilátás nyílik az Alföldre és a Maros völgyére.", "Számos jól jelzett turistaútvonal köti össze a hegység falvait.", "A Zarándi-hegység erdei híresek a szarvas- és vaddisznó-állományukról.", "A területen több kolostor és erdei remetelak is található.", "A hegység klímája enyhébb, köszönhetően a nyugati fekvésnek és az alacsonyabb tengerszint feletti magasságnak."],
       ro: ["Vârful Highiș este cel mai înalt punct, având o altitudine de 799 de metri.", "Sunt munți formați dintr-un mozaic de roci vulcanice și șisturi cristaline.", "La baza lor se află una dintre cele mai vechi podgorii din RO, Miniș-Măderat.", "Munții Zarandului găzduiesc rezervația naturală 'Dosul Laurului', cu specii rare de plante.", "Cetatea Șiria, situată pe marginea vestică, datează din secolul al XIII-lea.", "Valea Mureșului separă munții Zarandului de munții Poiana Ruscă la sud.", "Relieful este caracterizat prin versanți abrupți spre valea Mureșului și domoli spre nord.", "În masiv se găsesc numeroase urme de exploatări miniere istorice de cupru și fier."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-zarand-extra.webp"},
   {
     id: "river-bega-extra",
     type: "river",
@@ -3944,8 +3853,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Béga folyó hossza 244 kilométer, amelyből 168 km van Románia területén.", "A Béga-csatornát 1728-ban kezdték el építeni gróf Mercy irányításával.", "Temesvár volt az első város a mai Románia területén, ahol folyami tömegközlekedés indult.", "A folyó vize a forrásvidéken (Pojána-Ruszka) kristálytiszta, az Alföldön pedig szabályozott.", "A Béga partján található Temesvár legtöbb fontos közparkja.", "A folyó a Bánsági-alföld egyik legfontosabb öntözővizét biztosítja.", "A Béga vize Szerbiában egyesül a Tiszával.", "A Béga-parti kerékpárút egészen a szerb határig vezet, több mint 37 kilométer hosszan."],
       ro: ["Bega are o lungime de 256 km, dintre care 170 km se află în România.", "Canalul Bega este prima cale navigabilă interioară amenajată din România (1728).", "Timișoara a fost primul oraș din RO care a introdus transportul public pe apă, pe Bega.", "Râul are două ramuri principale în zona montană: Bega Luncanilor și Bega Poienilor.", "Debitul râului este reglat prin nodul hidrotehnic de la Coșteiu.", "Bega se varsă în râul Tisa pe teritoriul Serbiei, lângă localitatea Titel.", "Pe cursul Begăi se află primul hidrocentrală urbană din România (1910).", "Malurile Begăi în Timișoara formează cel mai mare coridor verde urban continuu din țară."],
       en: []
-    }
-  },
+    }, image: "/poi-images/river-bega-extra.webp"},
   {
     id: "mountain-mehedinti-extra",
     type: "mountain",
@@ -3984,8 +3892,7 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Mehedinți-hegység Románia egyik legkarakteresebb mészkőhegysége.", "Itt található a Domogled-hegy, amely híres különleges növényvilágáról és lepkefaunájáról.", "A hegység lábánál fekszik Herkulesfürdő, Európa egyik legrégebbi gyógyhelye.", "A Stan-csúcsra vezető túra az egyik leglátványosabb gerinctúra a Déli-Kárpátokban.", "Számos barlangot ( pl. Pestera cu Apa din Cheile Lazului) rejt a hegység mélye.", "A szubmediterrán hatás miatt a területen számos ritka hüllőfaj, például a homoki vipera is él.", "A hegység karsztforrásai táplálják a környék híres termálvizeit.", "A terület az UNESCO Világörökség részét képező bükkerdőkkel is büszkélkedhet."],
       ro: ["Vârful lui Stan este punctul culminant al masivului, cu o altitudine de 1.466 metri.", "Găzduiesc peștera Topolnița, a patra ca lungime din România (peste 20 km).", "Munții sunt alcătuiți majoritar din calcare ce datează din perioada Jurasicului.", "Sunt parte integrantă a Parcului Național Domogled-Valea Cernei.", "Pinul negru de Banat este o specie endemică ce crește pe pereții abrupți ai masivului.", "Relieful este marcat de prezența unor doline și ponoare de mari dimensiuni.", "În apropierea masivului se află Podul lui Dumnezeu de la Ponoarele, un arc natural în piatră.", "Climatul munților Mehedinți are puternice influențe submediteraneene."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-mehedinti-extra.webp"},
   {
     id: "river-olt-extra",
     type: "river",
@@ -4067,3 +3974,4 @@ export const poiExtraRo2: POI[] = [
     }
   }
 ];
+

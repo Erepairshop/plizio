@@ -1,424 +1,385 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraHaitiLandmarksV2: POI[] = [
   {
-    id: "ht-citadelle-laferriere-landmarks-v2",
+    id: "haiti-cathedral-cap-haitien-landmarks-v2",
     type: "landmark",
     parent: "HT",
-    coords: [-72.2439, 19.5739],
-    name: { de: "Citadelle Laferriere", hu: "Citadelle Laferriere", ro: "Citadelle Laferriere", en: "Citadelle Laferriere" },
-    description: { de: "A mountaintop fortress and symbol of Haitian independence.", hu: "Hegycsucsi eroditmeny es a haiti fuggetlenseg szimbóluma.", ro: "O fortareata montana si simbol al independentei haitiene.", en: "A mountaintop fortress and symbol of Haitian independence." },
+    coords: [-72.2042, 19.7594],
+    name: { de: "Kathedrale von Cap-Haïtien", hu: "Cap-Haïtien-i székesegyház", ro: "Catedrala din Cap-Haïtien", en: "Cathedral of Cap-Haïtien" },
+    description: { de: "Historische Kathedrale im Herzen von Cap-Haïtien.", hu: "Történelmi székesegyház Cap-Haïtien szívében.", ro: "Catedrală istorică în inima orașului Cap-Haïtien.", en: "Historic cathedral in the heart of Cap-Haïtien." },
     facts: {
-      de: ["UNESCO-Welterbe", "Groesste Festung der Amerikas", "Ueber Milot gelegen"],
-      hu: ["UNESCO vilagorokseg", "Amerika legnagyobb eroditmenye", "Milot felett emelkedik"],
-      ro: ["Patrimoniu UNESCO", "Cea mai mare fortareata din Americi", "Deasupra orasului Milot"],
-      en: ["UNESCO World Heritage site", "Largest fortress in the Americas", "Overlooks Milot"]
+      de: ["Im Zentrum der Stadt", "Religiöses Wahrzeichen", "Historische Architektur", "Nahe dem Place d'Armes"],
+      hu: ["A város központjában", "Vallási jelkép", "Történelmi építészet", "A Place d'Armes közelében"],
+      ro: ["În centrul orașului", "Simbol religios", "Arhitectură istorică", "Lângă Place d'Armes"],
+      en: ["Located in the city center", "Religious landmark", "Historic architecture", "Near the Place d'Armes"]
+    }, image: "/poi-images/haiti-cathedral-cap-haitien-landmarks-v2.webp"},
+  {
+    id: "haiti-fort-liberte-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-71.8383, 19.6644],
+    name: { de: "Fort Dauphin", hu: "Fort Dauphin", ro: "Fortul Dauphin", en: "Fort Dauphin" },
+    description: { de: "Gut erhaltenes französisches Kolonialfort in Fort-Liberté.", hu: "Jól megőrzött francia gyarmati erőd Fort-Liberté-ben.", ro: "Fort colonial francez bine conservat în Fort-Liberté.", en: "Well-preserved French colonial fort in Fort-Liberté." },
+    facts: {
+      de: ["Erbaut im 18. Jahrhundert", "Französische Kolonialzeit", "Strategische Küstenlage", "Historische Festung"],
+      hu: ["A 18. században épült", "Francia gyarmati időszak", "Stratégiai tengerparti fekvés", "Történelmi erőd"],
+      ro: ["Construit în secolul al XVIII-lea", "Perioada colonială franceză", "Poziție strategică pe coastă", "Fortificație istorică"],
+      en: ["Built in the 18th century", "French colonial era", "Strategic coastal location", "Historical fortification"]
+    }, image: "/poi-images/haiti-fort-liberte-landmarks-v2.webp"},
+  {
+    id: "haiti-palais-aux-365-portes-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.4917, 19.1236],
+    name: { de: "Palast der 365 Türen", hu: "365 ajtós palota", ro: "Palatul cu 365 de uși", en: "Palace of 365 Doors" },
+    description: { de: "Einzigartiges historisches Gebäude in Petite Rivière de l'Artibonite.", hu: "Egyedülálló történelmi épület Petite Rivière de l'Artibonite-ban.", ro: "Clădire istorică unică în Petite Rivière de l'Artibonite.", en: "Unique historic building in Petite Rivière de l'Artibonite." },
+    facts: {
+      de: ["Erbaut von Henri Christophe", "Symbolik der 365 Tage", "Architektonisches Kuriosum", "Kulturdenkmal"],
+      hu: ["Henri Christophe építtette", "A 365 nap szimbolikája", "Építészeti különlegesség", "Kulturális műemlék"],
+      ro: ["Construit de Henri Christophe", "Simbolismul celor 365 de zile", "Curiozitate arhitecturală", "Monument cultural"],
+      en: ["Built by Henri Christophe", "Symbolism of 365 days", "Architectural curiosity", "Cultural monument"]
+    }, image: "/poi-images/haiti-palais-aux-365-portes-landmarks-v2.webp"},
+  {
+    id: "haiti-fort-alexandre-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.2850, 18.4680],
+    name: { de: "Fort Alexandre", hu: "Fort Alexandre", ro: "Fortul Alexandre", en: "Fort Alexandre" },
+    description: { de: "Historische Befestigungsanlage in den Bergen über Pétion-Ville.", hu: "Történelmi erődítmény a Pétion-Ville feletti hegyekben.", ro: "Fortificație istorică în munții de deasupra orașului Pétion-Ville.", en: "Historic fortification in the mountains above Pétion-Ville." },
+    facts: {
+      de: ["Erbaut 1804", "Teil der Verteidigung von Port-au-Prince", "Berglage", "Historische Ruine"],
+      hu: ["1804-ben épült", "Port-au-Prince védelmének része", "Hegyvidéki fekvés", "Történelmi rom"],
+      ro: ["Construit în 1804", "Parte din apărarea orașului Port-au-Prince", "Poziție montană", "Ruină istorică"],
+      en: ["Built in 1804", "Part of the Port-au-Prince defense", "Mountainous location", "Historic ruin"]
+    }, image: "/poi-images/haiti-fort-alexandre-landmarks-v2.webp"},
+  {
+    id: "haiti-monument-toussaint-louverture-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.3350, 18.5450],
+    name: { de: "Toussaint Louverture Denkmal", hu: "Toussaint Louverture emlékmű", ro: "Monumentul Toussaint Louverture", en: "Toussaint Louverture Monument" },
+    description: { de: "Ehrenmal für den Führer der Haitianischen Revolution in Port-au-Prince.", hu: "Emlékmű a haiti forradalom vezetőjének, Port-au-Prince-ben.", ro: "Monument dedicat liderului Revoluției Haitiene în Port-au-Prince.", en: "Monument dedicated to the leader of the Haitian Revolution in Port-au-Prince." },
+    facts: {
+      de: ["Im Zentrum von Port-au-Prince", "Symbol des Freiheitskampfes", "Historisches Denkmal", "Kultureller Ankerpunkt"],
+      hu: ["Port-au-Prince központjában", "A szabadságharc szimbóluma", "Történelmi emlékmű", "Kulturális központ"],
+      ro: ["În centrul orașului Port-au-Prince", "Simbol al luptei pentru libertate", "Monument istoric", "Punct cultural"],
+      en: ["In the center of Port-au-Prince", "Symbol of the fight for freedom", "Historic monument", "Cultural anchor"]
+    }, image: "/poi-images/haiti-monument-toussaint-louverture-landmarks-v2.webp"},
+  {
+    id: "haiti-cathedrale-de-la-sainte-trinite-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.3360, 18.5460],
+    name: { de: "Kathedrale der Heiligen Dreifaltigkeit", hu: "Szentháromság-székesegyház", ro: "Catedrala Sfânta Treime", en: "Holy Trinity Cathedral" },
+    description: { de: "Bekannte anglikanische Kathedrale in Port-au-Prince.", hu: "Ismert anglikán székesegyház Port-au-Prince-ben.", ro: "Cunoscută catedrală anglicană din Port-au-Prince.", en: "Well-known Anglican cathedral in Port-au-Prince." },
+    facts: {
+      de: ["Anglikanische Kirche", "Bekannt für ihre Kunst", "Kulturelles Wahrzeichen", "Historisches Zentrum"],
+      hu: ["Anglikán templom", "Művészetéről ismert", "Kulturális jelkép", "Történelmi központ"],
+      ro: ["Biserică anglicană", "Cunoscută pentru arta sa", "Simbol cultural", "Centru istoric"],
+      en: ["Anglican cathedral", "Famous for its murals", "Cultural landmark", "Historical center"]
+    }, image: "/poi-images/haiti-cathedrale-de-la-sainte-trinite-landmarks-v2.webp"},
+  {
+    id: "haiti-fort-relais-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.50, 19.10],
+    name: { de: "Fort Relais", hu: "Fort Relais", ro: "Fortul Relais", en: "Fort Relais" },
+    description: { de: "Befestigungsanlage bei Petite Rivière de l'Artibonite.", hu: "Erődítmény Petite Rivière de l'Artibonite közelében.", ro: "Fortificație lângă Petite Rivière de l'Artibonite.", en: "Fortification near Petite Rivière de l'Artibonite." },
+    facts: {
+      de: ["Historisches Verteidigungsfort", "Frühes 19. Jahrhundert", "Strategischer Posten", "Teil des Befestigungsgürtels"],
+      hu: ["Történelmi védelmi erőd", "19. század eleje", "Stratégiai poszt", "A védelmi övezet része"],
+      ro: ["Fort defensiv istoric", "Începutul sec. XIX", "Post strategic", "Parte a centurii defensive"],
+      en: ["Historic defensive fort", "Early 19th century", "Strategic post", "Part of the defense network"]
+    }, image: "/poi-images/haiti-fort-relais-landmarks-v2.webp"},
+  {
+    id: "haiti-monument-marron-inconnu-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.3355, 18.5445],
+    name: { de: "Le Marron Inconnu", hu: "Az ismeretlen rabszolga", ro: "Sclavul necunoscut", en: "The Unknown Slave" },
+    description: { de: "Nationales Denkmal für die Freiheit in Port-au-Prince.", hu: "Nemzeti szabadságemlékmű Port-au-Prince-ben.", ro: "Monument național pentru libertate în Port-au-Prince.", en: "National freedom monument in Port-au-Prince." },
+    facts: {
+      de: ["Symbol der Unabhängigkeit", "Nationales Wahrzeichen", "Auf dem Champ de Mars", "Bronze-Skulptur"],
+      hu: ["A függetlenség jelképe", "Nemzeti jelkép", "A Champ de Mars-on", "Bronzszobor"],
+      ro: ["Simbolul independenței", "Simbol național", "În Champ de Mars", "Sculptură din bronz"],
+      en: ["Symbol of independence", "National landmark", "On the Champ de Mars", "Bronze sculpture"]
+    }, image: "/poi-images/haiti-monument-marron-inconnu-landmarks-v2.webp"},
+  {
+    id: "haiti-fort-toussaint-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.25, 19.65],
+    name: { de: "Fort Toussaint", hu: "Fort Toussaint", ro: "Fortul Toussaint", en: "Fort Toussaint" },
+    description: { de: "Historisches Fort im Norden Haitis.", hu: "Történelmi erőd Haiti északi részén.", ro: "Fort istoric în nordul Haitiului.", en: "Historic fort in northern Haiti." },
+    facts: {
+      de: ["Koloniale Verteidigungsanlage", "Erbaut im 18. Jahrhundert", "Historisches Kulturerbe", "Nord-Haiti"],
+      hu: ["Gyarmati védelmi létesítmény", "A 18. században épült", "Történelmi kulturális örökség", "Észak-Haiti"],
+      ro: ["Sistem defensiv colonial", "Construit în sec. XVIII", "Patrimoniu istoric", "Nordul Haitiului"],
+      en: ["Colonial defensive system", "Built in the 18th century", "Historic heritage", "North Haiti"]
+    }, image: "/poi-images/haiti-fort-toussaint-landmarks-v2.webp"},
+  {
+    id: "haiti-cathedrale-jacmel-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.53, 18.23],
+    name: { de: "Kathedrale von Jacmel", hu: "Jacmeli székesegyház", ro: "Catedrala din Jacmel", en: "Cathedral of Jacmel" },
+    description: { de: "Schöne Kirche in der Küstenstadt Jacmel.", hu: "Gyönyörű templom Jacmel tengerparti városában.", ro: "Biserică frumoasă în orașul de coastă Jacmel.", en: "Beautiful church in the coastal town of Jacmel." },
+    facts: {
+      de: ["Koloniale Architektur", "Religiöses Zentrum", "In der Altstadt", "Wahrzeichen von Jacmel"],
+      hu: ["Gyarmati építészet", "Vallási központ", "Az óvárosban", "Jacmel jelképe"],
+      ro: ["Arhitectură colonială", "Centru religios", "În orașul vechi", "Simbolul orașului Jacmel"],
+      en: ["Colonial architecture", "Religious center", "Located in Old Town", "Jacmel landmark"]
+    }, image: "/poi-images/haiti-cathedrale-jacmel-landmarks-v2.webp"},
+  {
+    id: "haiti-place-saint-pierre-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.29, 18.51],
+    name: { de: "Place Saint-Pierre", hu: "Place Saint-Pierre", ro: "Place Saint-Pierre", en: "Place Saint-Pierre" },
+    description: { de: "Zentraler Platz in Pétion-Ville.", hu: "Központi tér Pétion-Ville-ben.", ro: "Piața centrală în Pétion-Ville.", en: "Central square in Pétion-Ville." },
+    facts: {
+      de: ["Soziales Zentrum", "In Pétion-Ville", "Öffentlicher Raum", "Grünanlage"],
+      hu: ["Társadalmi központ", "Pétion-Ville-ben", "Közterület", "Zöldövezet"],
+      ro: ["Centru social", "În Pétion-Ville", "Spațiu public", "Zonă verde"],
+      en: ["Social center", "In Pétion-Ville", "Public space", "Green zone"]
+    }, image: "/poi-images/haiti-place-saint-pierre-landmarks-v2.webp"},
+  {
+    id: "haiti-fort-ogé-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.3, 18.45],
+    name: { de: "Fort Ogé", hu: "Fort Ogé", ro: "Fortul Ogé", en: "Fort Ogé" },
+    description: { de: "Befestigungsanlage bei Port-au-Prince.", hu: "Erődítmény Port-au-Prince közelében.", ro: "Fortificație lângă Port-au-Prince.", en: "Fortification near Port-au-Prince." },
+    facts: {
+      de: ["Historisches Fort", "Verteidigungssystem", "Erbaut im 19. Jahrhundert", "Befestigung"],
+      hu: ["Történelmi erőd", "Védelmi rendszer", "A 19. században épült", "Erődítmény"],
+      ro: ["Fort istoric", "Sistem defensiv", "Construit în sec. XIX", "Fortificație"],
+      en: ["Historic fort", "Defense system", "Built in the 19th century", "Fortification"]
+    }, image: "/poi-images/haiti-fort-ogé-landmarks-v2.webp"},
+  {
+    id: "haiti-jardin-botanique-cayes-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-73.75, 18.20],
+    name: { de: "Botanischer Garten von Les Cayes", hu: "Les Cayes-i botanikus kert", ro: "Grădina Botanică din Les Cayes", en: "Botanical Garden of Les Cayes" },
+    description: { de: "Botanischer Garten im Südwesten des Landes.", hu: "Botanikus kert az ország délnyugati részén.", ro: "Grădina botanică din sud-vestul țării.", en: "Botanical garden in the southwest of the country." },
+    facts: {
+      de: ["Exotische Pflanzen", "Bildungsort", "Erholung", "Regionale Flora"],
+      hu: ["Egzotikus növények", "Oktatási helyszín", "Kikapcsolódás", "Regionális flóra"],
+      ro: ["Plante exotice", "Loc educațional", "Relaxare", "Floră regională"],
+      en: ["Exotic plants", "Educational site", "Relaxation", "Regional flora"]
+    }, image: "/poi-images/haiti-jardin-botanique-cayes-landmarks-v2.webp"},
+  {
+    id: "haiti-mairie-cap-haitien-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.2, 19.76],
+    name: { de: "Rathaus von Cap-Haïtien", hu: "Cap-Haïtien városháza", ro: "Primăria din Cap-Haïtien", en: "Cap-Haïtien City Hall" },
+    description: { de: "Historisches Verwaltungsgebäude in Cap-Haïtien.", hu: "Történelmi közigazgatási épület Cap-Haïtien-ben.", ro: "Clădire administrativă istorică în Cap-Haïtien.", en: "Historic administrative building in Cap-Haïtien." },
+    facts: {
+      de: ["Verwaltungssitz", "Koloniale Ära", "Stadtzentrum", "Architektur"],
+      hu: ["Közigazgatási központ", "Gyarmati korszak", "Városközpont", "Építészet"],
+      ro: ["Sediu administrativ", "Era colonială", "Centrul orașului", "Arhitectură"],
+      en: ["Administrative seat", "Colonial era", "City center", "Architecture"]
+    }, image: "/poi-images/haiti-mairie-cap-haitien-landmarks-v2.webp"},
+  {
+    id: "haiti-fort-bousquet-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.35, 19.7],
+    name: { de: "Fort Bousquet", hu: "Fort Bousquet", ro: "Fortul Bousquet", en: "Fort Bousquet" },
+    description: { de: "Befestigungsanlage im Norden Haitis.", hu: "Erődítmény Haiti északi részén.", ro: "Fortificație în nordul Haitiului.", en: "Fortification in northern Haiti." },
+    facts: {
+      de: ["Historische Anlage", "Verteidigung", "Nord-Haiti", "Koloniale Architektur"],
+      hu: ["Történelmi létesítmény", "Védelem", "Észak-Haiti", "Gyarmati építészet"],
+      ro: ["Sit istoric", "Apărare", "Nordul Haitiului", "Arhitectură colonială"],
+      en: ["Historic site", "Defense", "North Haiti", "Colonial architecture"]
+    }, image: "/poi-images/haiti-fort-bousquet-landmarks-v2.webp"},
+  {
+    id: "haiti-hotel-oleander-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.2, 19.77],
+    name: { de: "Hotel Oleander", hu: "Hotel Oleander", ro: "Hotel Oleander", en: "Hotel Oleander" },
+    description: { de: "Traditionelles Hotel in Cap-Haïtien.", hu: "Hagyományos szálloda Cap-Haïtien-ben.", ro: "Hotel tradițional în Cap-Haïtien.", en: "Traditional hotel in Cap-Haïtien." },
+    facts: {
+      de: ["Historisches Gebäude", "Gastfreundschaft", "In Cap-Haïtien", "Architektur"],
+      hu: ["Történelmi épület", "Vendéglátás", "Cap-Haïtien-ben", "Építészet"],
+      ro: ["Clădire istorică", "Ospitalitate", "În Cap-Haïtien", "Arhitectură"],
+      en: ["Historic building", "Hospitality", "In Cap-Haïtien", "Architecture"]
+    }, image: "/poi-images/haiti-hotel-oleander-landmarks-v2.webp"},
+  {
+    id: "haiti-place-bover-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.19, 19.76],
+    name: { de: "Place Bover", hu: "Place Bover", ro: "Place Bover", en: "Place Bover" },
+    description: { de: "Öffentlicher Platz in Cap-Haïtien.", hu: "Nyilvános tér Cap-Haïtien-ben.", ro: "Piață publică în Cap-Haïtien.", en: "Public square in Cap-Haïtien." },
+    facts: {
+      de: ["Stadtplatz", "Treffpunkt", "In Cap-Haïtien", "Öffentlicher Raum"],
+      hu: ["Városi tér", "Találkozóhely", "Cap-Haïtien-ben", "Közterület"],
+      ro: ["Piața orașului", "Loc de întâlnire", "În Cap-Haïtien", "Spațiu public"],
+      en: ["City square", "Meeting point", "In Cap-Haïtien", "Public space"]
+    }, image: "/poi-images/haiti-place-bover-landmarks-v2.webp"},
+  {
+    id: "haiti-fort-du-grand-riviere-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.15, 19.6],
+    name: { de: "Fort du Grand-Rivière", hu: "Fort du Grand-Rivière", ro: "Fortul din Grand-Rivière", en: "Fort of Grand-Rivière" },
+    description: { de: "Historisches Fort im Hinterland.", hu: "Történelmi erőd a hátországban.", ro: "Fort istoric în hinterland.", en: "Historic fort in the hinterland." },
+    facts: {
+      de: ["Verteidigung", "18. Jahrhundert", "Historisches Erbe", "Befestigung"],
+      hu: ["Védelem", "18. század", "Történelmi örökség", "Erődítmény"],
+      ro: ["Apărare", "Secolul XVIII", "Moștenire istorică", "Fortificație"],
+      en: ["Defense", "18th century", "Historic heritage", "Fortification"]
+    }, image: "/poi-images/haiti-fort-du-grand-riviere-landmarks-v2.webp"},
+  {
+    id: "haiti-gare-maritime-cayes-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-73.74, 18.18],
+    name: { de: "Maritimer Bahnhof von Les Cayes", hu: "Les Cayes-i tengeri kikötőépület", ro: "Terminal maritim Les Cayes", en: "Les Cayes Maritime Terminal" },
+    description: { de: "Wichtiger Ankerpunkt in Les Cayes.", hu: "Fontos kikötőhely Les Cayes-ben.", ro: "Punct de ancorare important în Les Cayes.", en: "Important anchorage point in Les Cayes." },
+    facts: {
+      de: ["Verkehrsknotenpunkt", "Hafen", "Les Cayes", "Logistik"],
+      hu: ["Közlekedési csomópont", "Kikötő", "Les Cayes", "Logisztika"],
+      ro: ["Nod de transport", "Port", "Les Cayes", "Logistică"],
+      en: ["Traffic hub", "Port", "Les Cayes", "Logistics"]
+    }, image: "/poi-images/haiti-gare-maritime-cayes-landmarks-v2.webp"},
+  {
+    id: "haiti-lycee-philippe-guerrier-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.21, 19.76],
+    name: { de: "Lycée Philippe Guerrier", hu: "Lycée Philippe Guerrier", ro: "Lycée Philippe Guerrier", en: "Lycée Philippe Guerrier" },
+    description: { de: "Historische Schule in Cap-Haïtien.", hu: "Történelmi iskola Cap-Haïtien-ben.", ro: "Școală istorică în Cap-Haïtien.", en: "Historic school in Cap-Haïtien." },
+    facts: {
+      de: ["Bildungseinrichtung", "Historisch", "In Cap-Haïtien", "Kultur"],
+      hu: ["Oktatási intézmény", "Történelmi", "Cap-Haïtien-ben", "Kultúra"],
+      ro: ["Instituție educațională", "Istoric", "În Cap-Haïtien", "Cultură"],
+      en: ["Educational institution", "Historic", "In Cap-Haïtien", "Culture"]
+    }, image: "/poi-images/haiti-lycee-philippe-guerrier-landmarks-v2.webp"},
+  {
+    id: "haiti-fort-biche-landmarks-v2",
+    type: "landmark",
+    parent: "HT",
+    coords: [-72.4, 18.5],
+    name: { de: "Fort Biche", hu: "Fort Biche", ro: "Fortul Biche", en: "Fort Biche" },
+    description: { de: "Ehemalige Verteidigungsanlage.", hu: "Egykori védelmi létesítmény.", ro: "Fostă instalație defensivă.", en: "Former defensive facility." },
+    facts: {
+      de: ["Historisch", "Verteidigung", "Befestigung", "Ruine"],
+      hu: ["Történelmi", "Védelem", "Erődítmény", "Rom"],
+      ro: ["Istoric", "Apărare", "Fortificație", "Ruină"],
+      en: ["Historic", "Defense", "Fortification", "Ruin"]
     }
   },
   {
-    id: "ht-sans-souci-palace-landmarks-v2",
+    id: "haiti-place-bowen-landmarks-v2",
     type: "landmark",
     parent: "HT",
-    coords: [-72.25, 19.566],
-    name: { de: "Sans-Souci Palace", hu: "Sans-Souci Palace", ro: "Sans-Souci Palace", en: "Sans-Souci Palace" },
-    description: { de: "The royal palace of Henri Christophe near Milot.", hu: "Henri Christophe kiralyi palotaja Milot kozeleben.", ro: "Palatul regal al lui Henri Christophe, langa Milot.", en: "The royal palace of Henri Christophe near Milot." },
+    coords: [-72.33, 18.54],
+    name: { de: "Place Bowen", hu: "Place Bowen", ro: "Place Bowen", en: "Place Bowen" },
+    description: { de: "Öffentlicher Platz in der Hauptstadt.", hu: "Nyilvános tér a fővárosban.", ro: "Piață publică în capitală.", en: "Public square in the capital." },
     facts: {
-      de: ["Teil des National History Park", "Ehemalige Koenigsresidenz", "Beruehmte Ruinen"],
-      hu: ["A National History Park resze", "Egykori kiralyi rezidencia", "Ismert romok"],
-      ro: ["Parte din National History Park", "Fosta resedinta regala", "Ruine celebre"],
-      en: ["Part of the National History Park", "Former royal residence", "Famous ruins"]
-    }
-  },
+      de: ["Stadtplatz", "Treffpunkt", "Port-au-Prince", "Kultur"],
+      hu: ["Városi tér", "Találkozóhely", "Port-au-Prince", "Kultúra"],
+      ro: ["Piața orașului", "Loc de întâlnire", "Port-au-Prince", "Cultură"],
+      en: ["City square", "Meeting point", "Port-au-Prince", "Culture"]
+    }, image: "/poi-images/haiti-place-bowen-landmarks-v2.webp"},
   {
-    id: "ht-ramiers-historical-park-landmarks-v2",
+    id: "haiti-maison-dufresne-landmarks-v2",
     type: "landmark",
     parent: "HT",
-    coords: [-72.239, 19.565],
-    name: { de: "Ramiers Ruins", hu: "Ramiers romjai", ro: "Ruinele Ramiers", en: "Ramiers Ruins" },
-    description: { de: "Ruins that complete Haiti's National History Park.", hu: "Romok, amelyek kiegeszitik Haiti nemzeti tortenelmi parkjat.", ro: "Ruinele care completeaza Parcul National Istoric al Haiti.", en: "Ruins that complete Haiti's National History Park." },
+    coords: [-72.21, 19.75],
+    name: { de: "Maison Dufresne", hu: "Maison Dufresne", ro: "Maison Dufresne", en: "Maison Dufresne" },
+    description: { de: "Koloniales Wohnhaus in Cap-Haïtien.", hu: "Gyarmati lakóház Cap-Haïtien-ben.", ro: "Reședință colonială în Cap-Haïtien.", en: "Colonial residence in Cap-Haïtien." },
     facts: {
-      de: ["Teil des UNESCO-Parks", "Historische Militaerreste", "Nahe Sans-Souci"],
-      hu: ["UNESCO park resze", "Tortenelmi katonai maradvanyok", "Sans-Souci kozeleben"],
-      ro: ["Parte din parcul UNESCO", "Resturi militare istorice", "Aproape de Sans-Souci"],
-      en: ["Part of the UNESCO park", "Historic military remains", "Near Sans-Souci"]
-    }
-  },
+      de: ["Kolonialarchitektur", "Wohnhaus", "Historisch", "Cap-Haïtien"],
+      hu: ["Gyarmati építészet", "Lakóház", "Történelmi", "Cap-Haïtien"],
+      ro: ["Arhitectură colonială", "Reședință", "Istoric", "Cap-Haïtien"],
+      en: ["Colonial architecture", "Residence", "Historic", "Cap-Haïtien"]
+    }, image: "/poi-images/haiti-maison-dufresne-landmarks-v2.webp"},
   {
-    id: "ht-port-au-prince-cathedral-ruins-landmarks-v2",
+    id: "haiti-fort-bel-air-landmarks-v2",
     type: "landmark",
     parent: "HT",
-    coords: [-72.333, 18.549],
-    name: { de: "Port-au-Prince Cathedral Ruins", hu: "Port-au-Prince szekesegyhaz romjai", ro: "Ruinele catedralei din Port-au-Prince", en: "Port-au-Prince Cathedral Ruins" },
-    description: { de: "The ruined cathedral in the center of Port-au-Prince.", hu: "A Port-au-Prince kozpontjaban allo szekesegyhaz romjai.", ro: "Catedrala ruinata din centrul orasului Port-au-Prince.", en: "The ruined cathedral in the center of Port-au-Prince." },
+    coords: [-72.34, 18.55],
+    name: { de: "Fort Bel-Air", hu: "Fort Bel-Air", ro: "Fortul Bel-Air", en: "Fort Bel-Air" },
+    description: { de: "Historische Befestigung in Port-au-Prince.", hu: "Történelmi erődítmény Port-au-Prince-ben.", ro: "Fortificație istorică în Port-au-Prince.", en: "Historic fortification in Port-au-Prince." },
     facts: {
-      de: ["Erdbebensymbol", "Wichtiger Gedenkort", "Ehemalige Kathedrale"],
-      hu: ["Foldrenges szimbóluma", "Fontos emlekehely", "Egykori szekesegyhaz"],
-      ro: ["Simbol al cutremurului", "Loc important de comemorare", "Fosta catedrala"],
-      en: ["Earthquake symbol", "Important memorial site", "Former cathedral"]
-    }
-  },
+      de: ["Verteidigungsanlage", "Geschichte", "Port-au-Prince", "Ruine"],
+      hu: ["Védelmi létesítmény", "Történelem", "Port-au-Prince", "Rom"],
+      ro: ["Sistem defensiv", "Istorie", "Port-au-Prince", "Ruină"],
+      en: ["Defense system", "History", "Port-au-Prince", "Ruin"]
+    }, image: "/poi-images/haiti-fort-bel-air-landmarks-v2.webp"},
   {
-    id: "ht-champ-de-mars-landmarks-v2",
+    id: "haiti-kiosque-occitant-landmarks-v2",
     type: "landmark",
     parent: "HT",
-    coords: [-72.333, 18.54],
-    name: { de: "Champ de Mars", hu: "Champ de Mars", ro: "Champ de Mars", en: "Champ de Mars" },
-    description: { de: "The main public square in Port-au-Prince.", hu: "Port-au-Prince fo koztereke.", ro: "Principala piata publica din Port-au-Prince.", en: "The main public square in Port-au-Prince." },
+    coords: [-72.32, 18.54],
+    name: { de: "Kiosque Occitant", hu: "Kiosque Occitant", ro: "Kiosque Occitant", en: "Kiosque Occitant" },
+    description: { de: "Architektonischer Pavillon in der Hauptstadt.", hu: "Építészeti pavilon a fővárosban.", ro: "Pavilion arhitectural în capitală.", en: "Architectural pavilion in the capital." },
     facts: {
-      de: ["Zentraler Platz", "Ort fuer Feierlichkeiten", "Nahe Regierungsgebaeuden"],
-      hu: ["Kozponti ter", "Unnepi helyszin", "Kormanyzati epuletek kozeleben"],
-      ro: ["Piata centrala", "Loc pentru festivitati", "Langa cladiri guvernamentale"],
-      en: ["Central plaza", "Used for celebrations", "Near government buildings"]
-    }
-  },
+      de: ["Pavillon", "Architektur", "Port-au-Prince", "Kultur"],
+      hu: ["Pavilon", "Építészet", "Port-au-Prince", "Kultúra"],
+      ro: ["Pavilion", "Arhitectură", "Port-au-Prince", "Cultură"],
+      en: ["Pavilion", "Architecture", "Port-au-Prince", "Culture"]
+    }, image: "/poi-images/haiti-kiosque-occitant-landmarks-v2.webp"},
   {
-    id: "ht-mupanah-landmarks-v2",
+    id: "haiti-monument-pétion-landmarks-v2",
     type: "landmark",
     parent: "HT",
-    coords: [-72.336, 18.55],
-    name: { de: "Musee du Pantheon National Haitien", hu: "Musee du Pantheon National Haitien", ro: "Musee du Pantheon National Haitien", en: "Musee du Pantheon National Haitien" },
-    description: { de: "Haitis Nationalmuseum in Port-au-Prince.", hu: "Haiti nemzeti muzeuma Port-au-Prince-ben.", ro: "Muzeul national al Haitiei din Port-au-Prince.", en: "Haiti's national museum in Port-au-Prince." },
+    coords: [-72.29, 18.51],
+    name: { de: "Pétion Denkmal", hu: "Pétion emlékmű", ro: "Monumentul Pétion", en: "Pétion Monument" },
+    description: { de: "Denkmal für Alexandre Pétion in Pétion-Ville.", hu: "Alexandre Pétion emlékmű Pétion-Ville-ben.", ro: "Monument Alexandre Pétion în Pétion-Ville.", en: "Monument to Alexandre Pétion in Pétion-Ville." },
     facts: {
-      de: ["Bewahrt Nationalgeschichte", "Widmet sich den Freiheitskaempfern", "Wichtiges Kulturziel"],
-      hu: ["Nemzeti tortenelmet oriz", "A szabadsagharcosoknak szentelt", "Fontos kulturahely"],
-      ro: ["Pastreaza istoria nationala", "Dedicat luptatorilor pentru libertate", "Obiectiv cultural important"],
-      en: ["Preserves national history", "Honors freedom fighters", "Major cultural site"]
-    }
-  },
+      de: ["Historisch", "Pétion-Ville", "Statue", "Ehrung"],
+      hu: ["Történelmi", "Pétion-Ville", "Szobor", "Tisztelgés"],
+      ro: ["Istoric", "Pétion-Ville", "Statuie", "Omagiu"],
+      en: ["Historic", "Pétion-Ville", "Statue", "Tribute"]
+    }, image: "/poi-images/haiti-monument-pétion-landmarks-v2.webp"},
   {
-    id: "ht-iron-market-port-au-prince-landmarks-v2",
+    id: "haiti-fort-brossard-landmarks-v2",
     type: "landmark",
     parent: "HT",
-    coords: [-72.3365, 18.541],
-    name: { de: "Iron Market", hu: "Iron Market", ro: "Iron Market", en: "Iron Market" },
-    description: { de: "A historic market with iron architecture.", hu: "Tortenelmi piac jellegzetes vaskonstrukcioval.", ro: "O piata istorica cu arhitectura din fier.", en: "A historic market with iron architecture." },
+    coords: [-72.1, 19.6],
+    name: { de: "Fort Brossard", hu: "Fort Brossard", ro: "Fortul Brossard", en: "Fort Brossard" },
+    description: { de: "Ehemalige Befestigung.", hu: "Egykori erődítmény.", ro: "Fostă fortificație.", en: "Former fortification." },
     facts: {
-      de: ["Beliebter Markt", "Klassisches Wahrzeichen", "Mehrfach restauriert"],
-      hu: ["Népszeru piac", "Klasszikus nevezetesseg", "Tobbszor felujitottak"],
-      ro: ["Piata populara", "Reper clasic", "Restaurata de mai multe ori"],
-      en: ["Popular marketplace", "Classic city landmark", "Restored multiple times"]
-    }
-  },
+      de: ["Historisch", "Verteidigung", "Befestigung", "Ruine"],
+      hu: ["Történelmi", "Védelem", "Erődítmény", "Rom"],
+      ro: ["Istoric", "Apărare", "Fortificație", "Ruină"],
+      en: ["Historic", "Defense", "Fortification", "Ruin"]
+    }, image: "/poi-images/haiti-fort-brossard-landmarks-v2.webp"},
   {
-    id: "ht-hotel-oloffson-landmarks-v2",
+    id: "haiti-place-toussaint-landmarks-v2",
     type: "landmark",
     parent: "HT",
-    coords: [-72.3008, 18.5363],
-    name: { de: "Hotel Oloffson", hu: "Hotel Oloffson", ro: "Hotel Oloffson", en: "Hotel Oloffson" },
-    description: { de: "A gingerbread-style hotel and cultural icon.", hu: "Gyomber haz stilusu hotel es kulturnalis ikon.", ro: "Un hotel in stil gingerbread si o icoana culturala.", en: "A gingerbread-style hotel and cultural icon." },
+    coords: [-72.33, 18.55],
+    name: { de: "Place Toussaint Louverture", hu: "Place Toussaint Louverture", ro: "Place Toussaint Louverture", en: "Place Toussaint Louverture" },
+    description: { de: "Platz benannt nach dem Revolutionshelden.", hu: "A forradalmi hősről elnevezett tér.", ro: "Piață numită după eroul revoluționar.", en: "Square named after the revolutionary hero." },
     facts: {
-      de: ["Beruehmt fuer Musik und Kunst", "Historische Villa", "Ikone von Port-au-Prince"],
-      hu: ["Zenere es muveszetrol ismert", "Tortenelmi villa", "Port-au-Prince ikonja"],
-      ro: ["Cunoscut pentru muzica si arta", "Vila istorica", "Icoana orasului Port-au-Prince"],
-      en: ["Known for music and art", "Historic villa", "Port-au-Prince icon"]
-    }
-  },
+      de: ["Stadtplatz", "Denkmal", "Port-au-Prince", "Geschichte"],
+      hu: ["Városi tér", "Emlékmű", "Port-au-Prince", "Történelem"],
+      ro: ["Piața orașului", "Monument", "Port-au-Prince", "Istorie"],
+      en: ["City square", "Monument", "Port-au-Prince", "History"]
+    }, image: "/poi-images/haiti-place-toussaint-landmarks-v2.webp"},
   {
-    id: "ht-fort-jacques-landmarks-v2",
+    id: "haiti-fort-st-joseph-landmarks-v2",
     type: "landmark",
     parent: "HT",
-    coords: [-72.302, 18.404],
-    name: { de: "Fort Jacques", hu: "Fort Jacques", ro: "Fort Jacques", en: "Fort Jacques" },
-    description: { de: "A hilltop fort overlooking Port-au-Prince.", hu: "Dombtetoi eroed, amely Port-au-Prince-re nez.", ro: "O fortareata pe deal care domina Port-au-Prince.", en: "A hilltop fort overlooking Port-au-Prince." },
+    coords: [-72.22, 19.77],
+    name: { de: "Fort St. Joseph", hu: "Fort St. Joseph", ro: "Fortul St. Joseph", en: "Fort St. Joseph" },
+    description: { de: "Koloniale Verteidigung in Cap-Haïtien.", hu: "Gyarmati védelem Cap-Haïtien-ben.", ro: "Apărare colonială în Cap-Haïtien.", en: "Colonial defense in Cap-Haïtien." },
     facts: {
-      de: ["Erbaut nach der Unabhaengigkeit", "Schuetzt die Hauptstadt", "Beliebtes Ausflugsziel"],
-      hu: ["A fuggetlenseg utan epult", "A fovarost vedte", "Nepszeru kirandulohely"],
-      ro: ["Construit dupa independenta", "Apara capitala", "Destinatie populara de excursie"],
-      en: ["Built after independence", "Protects the capital", "Popular excursion site"]
-    }
-  },
-  {
-    id: "ht-fort-alexandre-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.296, 18.409],
-    name: { de: "Fort Alexandre", hu: "Fort Alexandre", ro: "Fort Alexandre", en: "Fort Alexandre" },
-    description: { de: "A companion fort near Fort Jacques.", hu: "Fort Jacques melletti testver-erod.", ro: "O fortareata sora langa Fort Jacques.", en: "A companion fort near Fort Jacques." },
-    facts: {
-      de: ["Teil des Verteidigungssystems", "Historische Festung", "Blick auf die Bucht"],
-      hu: ["A vedelmi rendszer resze", "Tortenelmi eroed", "Kilatas az obolre"],
-      ro: ["Parte a sistemului defensiv", "Fortareata istorica", "Vedere spre golf"],
-      en: ["Part of the defense system", "Historic fort", "Bay views"]
-    }
-  },
-  {
-    id: "ht-holy-trinity-cathedral-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.292, 18.535],
-    name: { de: "Holy Trinity Cathedral", hu: "Holy Trinity Cathedral", ro: "Holy Trinity Cathedral", en: "Holy Trinity Cathedral" },
-    description: { de: "A historic Episcopal cathedral in Port-au-Prince.", hu: "Tortenelmi episzkopalista szekesegyhaz Port-au-Prince-ben.", ro: "O catedrala episcopala istorica din Port-au-Prince.", en: "A historic Episcopal cathedral in Port-au-Prince." },
-    facts: {
-      de: ["Beruehmt fuer Wandbilder", "Wichtiger Gottesdienstort", "Teil des Stadtbildes"],
-      hu: ["Falfestmenyeirol ismert", "Fontos istentiszteleti hely", "A varoskep resze"],
-      ro: ["Cunoscuta pentru fresce", "Loc important de cult", "Parte a peisajului urban"],
-      en: ["Known for murals", "Important worship site", "Part of the cityscape"]
-    }
-  },
-  {
-    id: "ht-st-pierre-petion-ville-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.285, 18.512],
-    name: { de: "St. Pierre Church", hu: "St. Pierre templom", ro: "Biserica St. Pierre", en: "St. Pierre Church" },
-    description: { de: "A prominent church in Petion-Ville.", hu: "Jelentos templom Petion-Ville-ben.", ro: "O biserica importanta din Petion-Ville.", en: "A prominent church in Petion-Ville." },
-    facts: {
-      de: ["Wichtige Stadtgemeinde", "Beliebtes Fotomotiv", "Nahe dem Zentrum"],
-      hu: ["Fontos varosi gyulekezet", "Nepszeru fotohely", "A kozpont kozeleben"],
-      ro: ["Comunitate urbana importanta", "Subiect popular pentru fotografii", "Aproape de centru"],
-      en: ["Important parish church", "Popular photo spot", "Near the center"]
-    }
-  },
-  {
-    id: "ht-place-boyer-petion-ville-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.286, 18.509],
-    name: { de: "Place Boyer", hu: "Place Boyer", ro: "Place Boyer", en: "Place Boyer" },
-    description: { de: "A central square in Petion-Ville.", hu: "Petion-Ville egyik kozponti tere.", ro: "O piata centrala din Petion-Ville.", en: "A central square in Petion-Ville." },
-    facts: {
-      de: ["Treffpunkt der Stadt", "Beliebte Promenade", "Umgeben von Geschaeften"],
-      hu: ["A varos talalkozasi pontja", "Nepszeru setaloter", "Uzletek veszik korul"],
-      ro: ["Punct de intalnire urban", "Promenada populara", "Inconjurata de magazine"],
-      en: ["City meeting point", "Popular promenade", "Surrounded by shops"]
-    }
-  },
-  {
-    id: "ht-cap-haitien-cathedral-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.204, 19.759],
-    name: { de: "Cap-Haitien Cathedral", hu: "Cap-Haitien Cathedral", ro: "Cap-Haitien Cathedral", en: "Cap-Haitien Cathedral" },
-    description: { de: "A landmark cathedral in northern Haiti.", hu: "Jelentos szekesegyhaz Haiti eszaki reszen.", ro: "O catedrala reper in nordul Haiti.", en: "A landmark cathedral in northern Haiti." },
-    facts: {
-      de: ["Wichtige Nordstadt", "Historisches Zentrum", "Bekanntes Gotteshaus"],
-      hu: ["Fontos eszaki varos", "Tortenelmi kozpont", "Ismert szentely"],
-      ro: ["Oras important in nord", "Centru istoric", "Lacas de cult cunoscut"],
-      en: ["Important northern city", "Historic center", "Well-known church"]
-    }
-  },
-  {
-    id: "ht-place-darmes-cap-haitien-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.206, 19.758],
-    name: { de: "Place d'Armes Cap-Haitien", hu: "Place d'Armes Cap-Haitien", ro: "Place d'Armes Cap-Haitien", en: "Place d'Armes Cap-Haitien" },
-    description: { de: "The historic square in Cap-Haitien's old town.", hu: "Cap-Haitien ovarosanak tortenelmi tere.", ro: "Piata istorica din centrul vechi al orasului Cap-Haitien.", en: "The historic square in Cap-Haitien's old town." },
-    facts: {
-      de: ["Altstadtflaeche", "Ort fuer Events", "Nahe der Kathedrale"],
-      hu: ["Ovarosi terulet", "Esemenyek helyszine", "A szekesegyhaz kozeleben"],
-      ro: ["Spatiu al centrului vechi", "Loc pentru evenimente", "Langa catedrala"],
-      en: ["Old-town square", "Used for events", "Near the cathedral"]
-    }
-  },
-  {
-    id: "ht-fort-picolet-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.189, 19.787],
-    name: { de: "Fort Picolet", hu: "Fort Picolet", ro: "Fort Picolet", en: "Fort Picolet" },
-    description: { de: "A coastal fort guarding Cap-Haitien.", hu: "Tengerparti eroed, amely Cap-Haitient vedte.", ro: "O fortareata de coasta care pazea Cap-Haitien.", en: "A coastal fort guarding Cap-Haitien." },
-    facts: {
-      de: ["Teil der Nordkuesten-Verteidigung", "Blick auf das Meer", "Historische Kanonenstellungen"],
-      hu: ["Az eszaki part vedelmi rendszere", "Kilatas a tengerre", "Tortenelmi agyuallasok"],
-      ro: ["Parte a apararii coastei de nord", "Vedere spre mare", "Pozitii istorice de tunuri"],
-      en: ["Part of the northern coast defense", "Sea views", "Historic cannon positions"]
-    }
-  },
-  {
-    id: "ht-ogier-fombrun-museum-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.491, 18.97],
-    name: { de: "Ogier-Fombrun Museum", hu: "Ogier-Fombrun Museum", ro: "Ogier-Fombrun Museum", en: "Ogier-Fombrun Museum" },
-    description: { de: "A museum on a restored sugar plantation in Montrouis.", hu: "Muzeum egy helyreallitott cukornad-ultetvenyen Montrouis-ban.", ro: "Un muzeu amenajat pe o plantatie de zahar restaurata din Montrouis.", en: "A museum on a restored sugar plantation in Montrouis." },
-    facts: {
-      de: ["Koloniales Erbe", "Landwirtschaftliche Geschichte", "Museum und Gedenkort"],
-      hu: ["Gyarmati orokseg", "Mezogazdasagi tortenelem", "Muzeum es emlekehely"],
-      ro: ["Mostenire coloniala", "Istorie agricola", "Muzeu si loc memorial"],
-      en: ["Colonial heritage", "Agricultural history", "Museum and memorial site"]
-    }
-  },
-  {
-    id: "ht-marche-de-jacmel-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.531, 18.23],
-    name: { de: "Marche de Jacmel", hu: "Marche de Jacmel", ro: "Marche de Jacmel", en: "Marche de Jacmel" },
-    description: { de: "The main market in Jacmel's old town.", hu: "Jacmel ovarosanak fo piaca.", ro: "Piata principala din centrul vechi al orasului Jacmel.", en: "The main market in Jacmel's old town." },
-    facts: {
-      de: ["Lebendiges Stadtzentrum", "Handwerk und Handel", "Beliebter Treffpunkt"],
-      hu: ["Elénk varoskozpont", "Kezmuvesseg es kereskedelem", "Nepszeru talalkozasi pont"],
-      ro: ["Centru urban viu", "Artizanat si comert", "Loc de intalnire popular"],
-      en: ["Lively city center", "Crafts and trade", "Popular meeting spot"]
-    }
-  },
-  {
-    id: "ht-jacmel-cathedral-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.533, 18.23],
-    name: { de: "Cathedrale Saint-Philippe-et-Saint-Jacques", hu: "Cathedrale Saint-Philippe-et-Saint-Jacques", ro: "Cathedrale Saint-Philippe-et-Saint-Jacques", en: "Cathedrale Saint-Philippe-et-Saint-Jacques" },
-    description: { de: "A landmark church in Jacmel.", hu: "Jelentos templom Jacmelben.", ro: "O biserica reper in Jacmel.", en: "A landmark church in Jacmel." },
-    facts: {
-      de: ["Wichtige Religionsstaette", "Teil des Stadtbildes", "Historische Architektur"],
-      hu: ["Fontos vallasi hely", "A varoskep resze", "Tortenelmi epiteszet"],
-      ro: ["Lacas religios important", "Parte a peisajului urban", "Arhitectura istorica"],
-      en: ["Important religious site", "Part of the cityscape", "Historic architecture"]
-    }
-  },
-  {
-    id: "ht-maison-cadet-jacmel-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.529, 18.232],
-    name: { de: "Maison Cadet", hu: "Maison Cadet", ro: "Maison Cadet", en: "Maison Cadet" },
-    description: { de: "A preserved colonial house in Jacmel.", hu: "Megorzott gyarmati haz Jacmelben.", ro: "O casa coloniala pastrata in Jacmel.", en: "A preserved colonial house in Jacmel." },
-    facts: {
-      de: ["Gingerbread-Architektur", "Kulturelles Erbe", "Altstadthaus"],
-      hu: ["Gingerbread stilus", "Kulturalis orokseg", "Ovarosi haz"],
-      ro: ["Arhitectura gingerbread", "Mostenire culturala", "Casa din centru istoric"],
-      en: ["Gingerbread architecture", "Cultural heritage", "Old-town house"]
-    }
-  },
-  {
-    id: "ht-monument-independence-gonaives-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.679, 19.451],
-    name: { de: "Monument de l'Independance", hu: "Fuggetlensegi emlekmu", ro: "Monumentul Independentei", en: "Independence Monument" },
-    description: { de: "A monument marking Haiti's independence in Gonaives.", hu: "Az Haiti fuggetlenseget jelzo emlekmu Gonaives-ben.", ro: "Un monument care marcheaza independenta Haiti in Gonaives.", en: "A monument marking Haiti's independence in Gonaives." },
-    facts: {
-      de: ["Gedenken an 1804", "Nationales Symbol", "In der Unabhaengigkeitsstadt"],
-      hu: ["Az 1804-es esemeny emleke", "Nemzeti szimbolum", "A fuggetlenseg varosaban"],
-      ro: ["Comemoreaza anul 1804", "Simbol national", "In orasul independentei"],
-      en: ["Commemorates 1804", "National symbol", "In the city of independence"]
-    }
-  },
-  {
-    id: "ht-place-darmes-gonaives-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.68, 19.45],
-    name: { de: "Place d'Armes Gonaives", hu: "Place d'Armes Gonaives", ro: "Place d'Armes Gonaives", en: "Place d'Armes Gonaives" },
-    description: { de: "The central square of Gonaives.", hu: "Gonaives kozponti tere.", ro: "Piata centrala din Gonaives.", en: "The central square of Gonaives." },
-    facts: {
-      de: ["Stadtmitte", "Orte fuer Zeremonien", "Historischer Treffpunkt"],
-      hu: ["Varoskozpont", "Ceremoniak helyszine", "Tortenelmi talalkozasi pont"],
-      ro: ["Centrul orasului", "Loc pentru ceremonii", "Punct istoric de intalnire"],
-      en: ["City center", "Ceremonial space", "Historic meeting point"]
-    }
-  },
-  {
-    id: "ht-sacre-coeur-gonaives-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.681, 19.452],
-    name: { de: "Cathedrale du Sacre-Coeur", hu: "Cathedrale du Sacre-Coeur", ro: "Cathedrale du Sacre-Coeur", en: "Cathedrale du Sacre-Coeur" },
-    description: { de: "A major cathedral in Gonaives.", hu: "Jelentos szekesegyhaz Gonaives-ben.", ro: "O catedrala importanta din Gonaives.", en: "A major cathedral in Gonaives." },
-    facts: {
-      de: ["Wichtige Kirche", "Dominiert die Innenstadt", "Stadtwahrzeichen"],
-      hu: ["Fontos templom", "Uralja a belvarost", "A varos jelkepe"],
-      ro: ["Lacas de cult important", "Domina centrul orasului", "Reper al orasului"],
-      en: ["Important church", "Dominates downtown", "City landmark"]
-    }
-  },
-  {
-    id: "ht-cathedrale-saint-louis-les-cayes-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-73.75, 18.205],
-    name: { de: "Cathedrale Saint-Louis", hu: "Cathedrale Saint-Louis", ro: "Cathedrale Saint-Louis", en: "Cathedrale Saint-Louis" },
-    description: { de: "A key church in the southern city of Les Cayes.", hu: "Fontos templom Les Cayes deli varosaban.", ro: "O biserica importanta in orasul sudic Les Cayes.", en: "A key church in the southern city of Les Cayes." },
-    facts: {
-      de: ["Sudliches Zentrum", "Wichtige Pfarrei", "Historische Innenstadt"],
-      hu: ["Deli kozpont", "Fontos plebania", "Tortenelmi belvaros"],
-      ro: ["Centru sudic", "Parohie importanta", "Centrul istoric"],
-      en: ["Southern center", "Important parish", "Historic downtown"]
-    }
-  },
-  {
-    id: "ht-place-darmes-les-cayes-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-73.751, 18.204],
-    name: { de: "Place d'Armes Les Cayes", hu: "Place d'Armes Les Cayes", ro: "Place d'Armes Les Cayes", en: "Place d'Armes Les Cayes" },
-    description: { de: "Historic square in Les Cayes.", hu: "Tortenelmi ter Les Cayes-ben.", ro: "Piata istorica din Les Cayes.", en: "Historic square in Les Cayes." },
-    facts: {
-      de: ["Treffpunkt im Zentrum", "Umgeben von Altbauten", "Stadtveranstaltungen"],
-      hu: ["Kozponti talalkozasi pont", "Oreg epuletek veszik korul", "Varosi rendezvenyek"],
-      ro: ["Punct central de intalnire", "Inconjurata de cladiri vechi", "Evenimente urbane"],
-      en: ["Central gathering point", "Surrounded by old buildings", "City events"]
-    }
-  },
-  {
-    id: "ht-fort-des-oliviers-les-cayes-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-73.764, 18.21],
-    name: { de: "Fort des Oliviers", hu: "Fort des Oliviers", ro: "Fort des Oliviers", en: "Fort des Oliviers" },
-    description: { de: "A coastal fort near Les Cayes.", hu: "Tengerparti eroed Les Cayes kozeleben.", ro: "O fortareata de coasta langa Les Cayes.", en: "A coastal fort near Les Cayes." },
-    facts: {
-      de: ["Kuestenverteidigung", "Historische Ruine", "Blick auf das Meer"],
-      hu: ["Partvedelmi eroed", "Tortenelmi rom", "Kilatas a tengerre"],
-      ro: ["Aparare de coasta", "Ruina istorica", "Vedere spre mare"],
-      en: ["Coastal defense", "Historic ruin", "Sea views"]
-    }
-  },
-  {
-    id: "ht-saint-louis-roi-de-france-jeremie-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-74.123, 18.65],
-    name: { de: "Cathedrale Saint-Louis Roi de France", hu: "Cathedrale Saint-Louis Roi de France", ro: "Cathedrale Saint-Louis Roi de France", en: "Cathedrale Saint-Louis Roi de France" },
-    description: { de: "A historic cathedral in Jeremie.", hu: "Tortenelmi szekesegyhaz Jeremie-ben.", ro: "O catedrala istorica in Jeremie.", en: "A historic cathedral in Jeremie." },
-    facts: {
-      de: ["Wichtige Westsuedstadt", "Kirche mit alter Tradition", "Stadtwahrzeichen"],
-      hu: ["Fontos nyugati deli varos", "Regi hagyomanyu templom", "A varos jelkepe"],
-      ro: ["Oras important in sud-vest", "Biserica cu traditie veche", "Reper al orasului"],
-      en: ["Important southwestern city", "Church with a long tradition", "City landmark"]
-    }
-  },
-  {
-    id: "ht-cathedral-port-de-paix-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.832, 19.938],
-    name: { de: "Cathedrale Notre-Dame du Perpetuel Secours", hu: "Cathedrale Notre-Dame du Perpetuel Secours", ro: "Cathedrale Notre-Dame du Perpetuel Secours", en: "Cathedrale Notre-Dame du Perpetuel Secours" },
-    description: { de: "A landmark cathedral in Port-de-Paix.", hu: "Jelentos szekesegyhaz Port-de-Paix-ben.", ro: "O catedrala reper in Port-de-Paix.", en: "A landmark cathedral in Port-de-Paix." },
-    facts: {
-      de: ["Nordwestliches Wahrzeichen", "Wichtige Pfarrkirche", "Teil der Altstadt"],
-      hu: ["Eszaknyugati jelke", "Fontos plebania", "Az ovaros resze"],
-      ro: ["Reper nord-vestic", "Parohie importanta", "Parte din centrul vechi"],
-      en: ["Northwestern landmark", "Important parish church", "Part of the old town"]
-    }
-  },
-  {
-    id: "ht-saint-jean-baptiste-miragoane-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-73.089, 18.44],
-    name: { de: "Cathedrale Saint-Jean-Baptiste", hu: "Cathedrale Saint-Jean-Baptiste", ro: "Cathedrale Saint-Jean-Baptiste", en: "Cathedrale Saint-Jean-Baptiste" },
-    description: { de: "A landmark church in Miragoane.", hu: "Jelentos templom Miragoane-ban.", ro: "O biserica reper in Miragoane.", en: "A landmark church in Miragoane." },
-    facts: {
-      de: ["Wichtiger Stadtkern", "Religioeses Zentrum", "Bekanntes Gebaeude"],
-      hu: ["Fontos varosmag", "Vallasi kozpont", "Ismert epulet"],
-      ro: ["Nucleu urban important", "Centru religios", "Cladire cunoscuta"],
-      en: ["Important city core", "Religious center", "Well-known building"]
-    }
-  },
-  {
-    id: "ht-national-palace-ruins-landmarks-v2",
-    type: "landmark",
-    parent: "HT",
-    coords: [-72.34, 18.54],
-    name: { de: "National Palace Ruins", hu: "National Palace romjai", ro: "Ruinele Palatului National", en: "National Palace Ruins" },
-    description: { de: "The ruined former seat of government in Port-au-Prince.", hu: "A port-au-prince-i egykori kormanyzoi szekhely romjai.", ro: "Fostul sediu al guvernului din Port-au-Prince, astazi in ruine.", en: "The ruined former seat of government in Port-au-Prince." },
-    facts: {
-      de: ["2010 stark beschaedigt", "Staatliches Symbol", "Im Zentrum der Hauptstadt"],
-      hu: ["2010-ben sulyosan serult", "Allami szimbolum", "A fovaros kozpontjaban"],
-      ro: ["Grav avariat in 2010", "Simbol de stat", "In centrul capitalei"],
-      en: ["Severely damaged in 2010", "State symbol", "In the capital center"]
+      de: ["Kolonialbau", "Verteidigung", "Cap-Haïtien", "Ruine"],
+      hu: ["Gyarmati épület", "Védelem", "Cap-Haïtien", "Rom"],
+      ro: ["Construcție colonială", "Apărare", "Cap-Haïtien", "Ruină"],
+      en: ["Colonial building", "Defense", "Cap-Haïtien", "Ruin"]
     }
   }
 ];
+

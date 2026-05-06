@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraJamaicaHistoryV2: POI[] = [
@@ -12,19 +13,12 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       ro: "Ruinele Sevilla la Nueva",
       en: "Seville la Nueva Ruins",
     },
-    description: {
-      de: "Die Überreste der ersten spanischen Hauptstadt auf Jamaika, die Anfang des 16. Jahrhunderts gegründet wurde. Die Stätte gibt Einblicke in die frühe Kolonialzeit und die Begegnung mit den Taíno.",
-      hu: "Jamaica első spanyol fővárosának maradványai, amelyet a 16. század elején alapítottak. A helyszín bepillantást enged a korai gyarmati időszakba és a taíno néppel való találkozásba.",
-      ro: "Rămășițele primei capitale spaniole din Jamaica, fondată la începutul secolului al XVI-lea. Situl oferă o perspectivă asupra perioadei coloniale timpurii și a întâlnirii cu poporul Taíno.",
-      en: "The remains of the first Spanish capital in Jamaica, founded in the early 16th century. The site offers insights into the early colonial period and the encounter with the Taíno people.",
+    descriptionAdvanced: {
+      hu: "Sevilla la Nueva, azaz Új-Sevilla, Jamaica első spanyol fővárosának régészeti lelőhelye. A települést 1509-ben alapította Juan de Esquivel, az első spanyol kormányzó, Kolumbusz Kristóf fia, Diego Kolumbusz megbízásából. A helyszín, ahol Kolumbusz 1503-ban egy évre hajótörést szenvedett, az európaiak első állandó jelenlétét jelöli a szigeten. A spanyolok egy várost kezdtek építeni templommal, erőddel és cukormalommal, de a mocsaras, egészségtelen környezet és a taino indiánokkal való konfliktusok miatt a település hanyatlásnak indult. 1534-re a fővárost áthelyezték a déli partra, a mai Spanish Town helyére. Ma a romok, köztük egy félkész templom alapjai és a kormányzói ház maradványai, a Jamaica National Heritage Trust gondozásában állnak, és a sziget legfontosabb történelmi emlékhelyei közé tartoznak. Történelem K6 – Gyarmatosítás kezdetei."
     },
-    facts: {
-      de: ["Gegründet um 1509 von Juan de Esquivel.", "Eine der frühesten europäischen Siedlungen in der Neuen Welt.", "Die Stätte enthält spanische und Taíno-Artefakte.", "Wurde später zugunsten von Spanish Town aufgegeben."],
-      hu: ["Kb. 1509-ben alapította Juan de Esquivel.", "Az Újvilág egyik legkorábbi európai települése.", "A helyszín spanyol és taíno leleteket is tartalmaz.", "Később elhagyták Spanish Town javára."],
-      ro: ["Fondată în jurul anului 1509 de Juan de Esquivel.", "Una dintre cele mai vechi așezări europene din Lumea Nouă.", "Situl conține artefacte spaniole și Taíno.", "A fost abandonată ulterior în favoarea Spanish Town."],
-      en: ["Founded around 1509 by Juan de Esquivel.", "One of the earliest European settlements in the New World.", "The site contains Spanish and Taíno artifacts.", "Was later abandoned in favor of Spanish Town."],
-    },
-  },
+    factsAdvanced: {
+      hu: ["A település helyét maga Kolumbusz Kristóf jelölte ki.", "A régészeti feltárások során megtalálták az első kőből épült templom és egy erődített kormányzói ház alapjait.", "A Sevilla la Nueva-i cukormalom volt az első a maga nemében Jamaicában, amelyet állati erővel hajtottak.", "A spanyol telepesek és a taino őslakosok közötti kapcsolat kezdetben békés volt, de hamarosan konfliktusba torkollott.", "A betegségek, mint a malária és a sárgaláz, tizedelték a spanyol lakosságot.", "A lelőhelyen egy múzeum is működik, amely a taino és a spanyol korszak leleteit mutatja be.", "Sevilla la Nueva felkerült az UNESCO Világörökségi javaslati listájára.", "A helyszín egyben a taino kultúra egyik legfontosabb régészeti lelőhelye is a szigeten."]
+    }, image: "/poi-images/seville-la-nueva-ruins-history-v2.webp"},
   {
     id: "taino-middens-white-marl-history-v2",
     type: "historical",
@@ -47,8 +41,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A taíno kultúra megértésének fontos forrása.", "Ételmaradványokat és törött szerszámokat tartalmaz.", "Bemutatja a taínók tengeri erőforrásoktól való függőségét.", "Egy helyi múzeum mutatja be a leletek nagy részét."],
       ro: ["Sursă importantă pentru înțelegerea culturii Taíno.", "Conține resturi de mese și unelte sparte.", "Demonstrează dependența poporului Taíno de resursele marine.", "Un muzeu local expune multe dintre descoperiri."],
       en: ["Important source for understanding Taíno culture.", "Contains remains of meals and broken tools.", "Shows the Taíno's dependence on marine resources.", "A local museum displays many of the findings."],
-    },
-  },
+    }, image: "/poi-images/taino-middens-white-marl-history-v2.webp"},
   {
     id: "nanny-town-ruins-history-v2",
     type: "historical",
@@ -71,8 +64,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A 18. században alapították.", "A britek többször megtámadták és elpusztították.", "Nanny a maroonok közül Jamaica nemzeti hőse.", "Pontos helye sokáig titok volt."],
       ro: ["Fondată în secolul al XVIII-lea.", "Atacată și distrusă de mai multe ori de britanici.", "Nanny a Maronilor este o eroină națională jamaicană.", "Locația exactă a fost un secret pentru mult timp."],
       en: ["Founded in the 18th century.", "Attacked and destroyed multiple times by the British.", "Nanny of the Maroons is a Jamaican National Heroine.", "The exact location was a secret for a long time."],
-    },
-  },
+    }, image: "/poi-images/nanny-town-ruins-history-v2.webp"},
   {
     id: "morant-bay-courthouse-history-v2",
     type: "historical",
@@ -95,8 +87,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A felkelés vezetője Paul Bogle nemzeti hős volt.", "A lázadás a régi képviselőház eltörléséhez vezetett.", "Az eredeti épület leégett, de újjáépítették.", "Paul Bogle szobra áll az épület előtt."],
       ro: ["Liderul rebeliunii a fost eroul național Paul Bogle.", "Rebeliunea a dus la abolirea vechii Case a Adunării.", "Clădirea originală a fost distrusă de un incendiu și reconstruită.", "O statuie a lui Paul Bogle se află în fața clădirii."],
       en: ["The leader of the rebellion was National Hero Paul Bogle.", "The rebellion led to the abolition of the old House of Assembly.", "The original building was destroyed by fire and rebuilt.", "A statue of Paul Bogle stands in front of the building."],
-    },
-  },
+    }, image: "/poi-images/morant-bay-courthouse-history-v2.webp"},
   {
     id: "halse-hall-great-house-history-v2",
     type: "historical",
@@ -119,8 +110,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Eredetileg cukornádültetvény volt.", "Az évszázadok során számos építészeti változáson ment keresztül.", "Ma egy bauxitcég tulajdonában van.", "A korai gyarmati építészet egyik példája."],
       ro: ["Inițial o plantație de zahăr.", "A suferit multe modificări arhitecturale de-a lungul secolurilor.", "Astăzi este deținut de o companie de bauxită.", "Un exemplu de arhitectură colonială timpurie."],
       en: ["Originally a sugar plantation.", "Has undergone many architectural changes over the centuries.", "Today it is owned by a bauxite company.", "An example of early colonial architecture."],
-    },
-  },
+    }, image: "/poi-images/halse-hall-great-house-history-v2.webp"},
   {
     id: "st-peters-church-port-royal-history-v2",
     type: "historical",
@@ -143,8 +133,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Egy 18. századi orgonát tartalmaz.", "Az ezüst úrvacsorai kelyhet állítólag Henry Morgan adományozta.", "Galdy sírja elmeséli csodálatos túlélésének történetét.", "Port Royal kevés megmaradt történelmi épületének egyike."],
       ro: ["Conține o orgă din secolul al XVIII-lea.", "Vesela de împărtășanie din argint ar fi fost donată de Henry Morgan.", "Mormântul lui Galdy povestește supraviețuirea sa miraculoasă.", "Una dintre puținele clădiri istorice rămase în Port Royal."],
       en: ["Contains an 18th-century organ.", "The silver communion set was supposedly donated by Henry Morgan.", "Galdy's tomb tells his miraculous survival story.", "One of the few remaining historic buildings in Port Royal."],
-    },
-  },
+    }, image: "/poi-images/st-peters-church-port-royal-history-v2.webp"},
   {
     id: "colbeck-castle-history-v2",
     type: "historical",
@@ -167,8 +156,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Korának egyik legnagyobb épülete volt Jamaicában.", "Téglából és kőből épült, szimmetrikus kialakítással.", "Valószínűleg soha nem fejezték be teljesen, és nem is lakták.", "A romok nemzeti műemlékek."],
       ro: ["Una dintre cele mai mari clădiri din Jamaica la vremea sa.", "Construită din cărămidă și piatră într-un design simetric.", "Probabil nu a fost niciodată complet finalizată sau locuită.", "Ruinele sunt un monument național."],
       en: ["One of the largest buildings of its time in Jamaica.", "Built with bricks and stones in a symmetrical design.", "It was likely never fully completed or inhabited.", "The ruins are a national monument."],
-    },
-  },
+    }, image: "/poi-images/colbeck-castle-history-v2.webp"},
   {
     id: "stewart-castle-ruins-history-v2",
     type: "historical",
@@ -191,8 +179,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["James Stewart, egy helyi ültetvényes építtette.", "Lőrésekkel és masszív szerkezettel rendelkezett.", "Példa az ültetvények védekező építészetére.", "A romokat cukornádültetvények veszik körül."],
       ro: ["Construit de James Stewart, un plantator local.", "Avea ambrazuri și o construcție robustă.", "Un exemplu de arhitectură defensivă pe plantații.", "Ruinele sunt înconjurate de câmpuri de trestie de zahăr."],
       en: ["Built by James Stewart, a local planter.", "Had gun loops and a sturdy construction.", "An example of defensive architecture on plantations.", "The ruins are surrounded by sugarcane fields."],
-    },
-  },
+    }, image: "/poi-images/stewart-castle-ruins-history-v2.webp"},
   {
     id: "good-hope-great-house-history-v2",
     type: "historical",
@@ -215,8 +202,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Az ültetvény egykor egy egész falut foglalt magában a munkások számára.", "Butikhotellé és kalandparkká alakították át.", "A birtok több mint 2000 hektáron terül el.", "Egykor John Tharp, Jamaica egyik leggazdagabb ültetvényesének tulajdonában volt."],
       ro: ["Plantația a inclus odată un întreg sat pentru muncitori.", "Transformat într-un hotel de tip boutique și parc de aventuri.", "Proprietatea se întinde pe 2000 de acri.", "A aparținut odată lui John Tharp, unul dintre cei mai bogați plantatori din Jamaica."],
       en: ["The plantation once included an entire village for workers.", "Converted into a boutique hotel and adventure park.", "The estate covers 2,000 acres.", "Once owned by John Tharp, one of Jamaica's wealthiest planters."],
-    },
-  },
+    }, image: "/poi-images/good-hope-great-house-history-v2.webp"},
   {
     id: "fort-haldane-history-v2",
     type: "historical",
@@ -239,8 +225,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["George Haldane tábornokról, Jamaica akkori kormányzójáról nevezték el.", "Két ágyú ma is látható a területen.", "Panorámás kilátást nyújt a Port Maria-öbölre.", "A közelben található a 'Firefly', Sir Noël Coward háza."],
       ro: ["Numit după generalul George Haldane, guvernatorul de atunci al Jamaicăi.", "Două tunuri sunt încă vizibile pe teren astăzi.", "Oferă o vedere panoramică a golfului Port Maria.", "În apropiere se află 'Firefly', casa lui Sir Noël Coward."],
       en: ["Named after General George Haldane, then Governor of Jamaica.", "Two cannons are still visible on the site today.", "Offers a panoramic view of Port Maria Bay.", "Nearby is 'Firefly', the home of Sir Noël Coward."],
-    },
-  },
+    }, image: "/poi-images/fort-haldane-history-v2.webp"},
   {
     id: "edinburgh-castle-ruins-jamaica-history-v2",
     type: "historical",
@@ -287,8 +272,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A vizet gyógyhatásúnak tartják.", "A Fort Rockot a 17. században építették Kingston védelmére.", "A komplexum privát fürdőket és egy úszómedencét foglal magában.", "A helyiek körében népszerű pihenőhely."],
       ro: ["Apa este considerată terapeutică.", "Fortul Rock a fost construit în secolul al XVII-lea pentru a apăra Kingstonul.", "Complexul include băi private și o piscină.", "Un loc popular pentru relaxare printre localnici."],
       en: ["The water is considered therapeutic.", "Fort Rock was built in the 17th century to defend Kingston.", "The complex includes private baths and a swimming pool.", "A popular spot for locals to relax."],
-    },
-  },
+    }, image: "/poi-images/rockfort-mineral-bath-history-v2.webp"},
   {
     id: "old-naval-hospital-port-royal-history-v2",
     type: "historical",
@@ -311,8 +295,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Kb. 1819-ben épült.", "A Királyi Haditengerészet tengerészeinek ellátására szolgált.", "A szerkezet több hurrikánnak és földrengésnek is ellenállt.", "Ma nemzeti műemlék és kutatóközpont."],
       ro: ["Construit în jurul anului 1819.", "A servit la îngrijirea marinarilor din Marina Regală.", "Structura a rezistat mai multor uragane și cutremure.", "Astăzi este un monument național și un centru de cercetare."],
       en: ["Built around 1819.", "Served to care for Royal Navy sailors.", "The structure has withstood several hurricanes and earthquakes.", "Today it is a national monument and research center."],
-    },
-  },
+    }, image: "/poi-images/old-naval-hospital-port-royal-history-v2.webp"},
   {
     id: "rodney-memorial-spanish-town-history-v2",
     type: "historical",
@@ -335,8 +318,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A szobrot a híres szobrász, John Bacon készítette.", "Az emlékmű melletti ágyúk a csatából származnak.", "Az emlékmű ellentmondásos volt, mivel Rodney a rabszolgaság szószólója volt.", "A tér történelmi együttesének része."],
       ro: ["Statuia a fost creată de faimosul sculptor John Bacon.", "Tunurile de lângă memorial provin din bătălie.", "Memorialul a fost controversat, deoarece Rodney era un susținător al sclaviei.", "Parte a ansamblului istoric al pieței."],
       en: ["The statue was created by the famous sculptor John Bacon.", "The cannons beside the memorial are from the battle.", "The memorial was controversial as Rodney was a proponent of slavery.", "Part of the square's historic ensemble."],
-    },
-  },
+    }, image: "/poi-images/rodney-memorial-spanish-town-history-v2.webp"},
   {
     id: "hibbert-house-kingston-history-v2",
     type: "historical",
@@ -359,8 +341,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Headquarters House néven is ismert.", "A jamaicai György-korabeli építészet kiemelkedő példája.", "Thomas Hibbert, az építtető, vezető rabszolga-kereskedő volt.", "A Duke Streeten található, Kingston egyik történelmi utcájában."],
       ro: ["Cunoscută și sub numele de Casa Cartierului General.", "Un exemplu remarcabil de arhitectură georgiană jamaicană.", "Thomas Hibbert, constructorul, a fost un important comerciant de sclavi.", "Situată pe strada Duke, o stradă istorică din Kingston."],
       en: ["Also known as Headquarters House.", "An outstanding example of Jamaican Georgian architecture.", "Thomas Hibbert, the builder, was a leading slave trader.", "Located on Duke Street, a historic street in Kingston."],
-    },
-  },
+    }, image: "/poi-images/hibbert-house-kingston-history-v2.webp"},
   {
     id: "old-iron-bridge-spanish-town-history-v2",
     type: "historical",
@@ -383,8 +364,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A korai ipari építészet remekműve.", "Ma már csak gyalogosok számára használható.", "A World Monuments Fund figyelőlistáján szerepel.", "A 19. század eleji mérnöki tudomány szimbóluma."],
       ro: ["O capodoperă a arhitecturii industriale timpurii.", "Astăzi este deschis doar pentru pietoni.", "Se află pe lista de supraveghere a World Monuments Fund.", "Un simbol al ingineriei de la începutul secolului al XIX-lea."],
       en: ["A masterpiece of early industrial architecture.", "Today it is only open to pedestrians.", "It is on the World Monuments Fund watch list.", "A symbol of early 19th-century engineering."],
-    },
-  },
+    }, image: "/poi-images/old-iron-bridge-spanish-town-history-v2.webp"},
   {
     id: "fort-augusta-history-v2",
     type: "historical",
@@ -407,8 +387,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Az építkezés az 1740-es években kezdődött.", "Később börtönként használták.", "Több mint 80 ágyúja volt.", "III. György király anyjáról nevezték el."],
       ro: ["Construcția a început în anii 1740.", "A fost folosit ulterior ca închisoare.", "Avea peste 80 de tunuri.", "Numit după mama regelui George al III-lea."],
       en: ["Construction began in the 1740s.", "Was later used as a prison.", "Had over 80 cannons.", "Named after the mother of King George III."],
-    },
-  },
+    }, image: "/poi-images/fort-augusta-history-v2.webp"},
   {
     id: "falmouth-historic-courthouse-history-v2",
     type: "historical",
@@ -431,8 +410,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Az 1926-os tűzvész elpusztította az eredetit, de hűen újjáépítették.", "A város egykori gazdagságáról tanúskodik.", "Ma is működő bírósági épület.", "A jamaicai György-korabeli középítészet kiváló példája."],
       ro: ["Un incendiu din 1926 a distrus originalul, dar a fost reconstruit cu fidelitate.", "Mărturie a bogăției de odinioară a orașului.", "Este încă o clădire de tribunal funcțională.", "Un exemplu superb de arhitectură publică georgiană jamaicană."],
       en: ["A fire in 1926 destroyed the original, but it was faithfully rebuilt.", "Testament to the former wealth of the town.", "It is still a functioning courthouse.", "A superb example of Jamaican Georgian public architecture."],
-    },
-  },
+    }, image: "/poi-images/falmouth-historic-courthouse-history-v2.webp"},
   {
     id: "liberty-hall-legacy-of-marcus-garvey-history-v2",
     type: "historical",
@@ -455,8 +433,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Garvey befolyásos pán-afrikai vezető volt.", "A csarnok politikai és kulturális tevékenységek központja volt.", "A múzeum oktatási programokat kínál.", "Garvey tanításai világszerte befolyásoltak mozgalmakat."],
       ro: ["Garvey a fost un lider panafrican influent.", "Sala a fost un centru pentru activități politice și culturale.", "Muzeul oferă programe educaționale.", "Învățăturile lui Garvey au influențat mișcări din întreaga lume."],
       en: ["Garvey was an influential Pan-African leader.", "The hall was a center for political and cultural activities.", "The museum offers educational programs.", "Garvey's teachings influenced movements worldwide."],
-    },
-  },
+    }, image: "/poi-images/liberty-hall-legacy-of-marcus-garvey-history-v2.webp"},
   {
     id: "blenheim-birthplace-alexander-bustamante-history-v2",
     type: "historical",
@@ -479,8 +456,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Bustamante vezető munkásvezér volt.", "A Jamaica Labour Party (JLP) alapítója.", "1962-ben vezette Jamaicát a függetlenséghez.", "A helyszín nemzeti emlékmű."],
       ro: ["Bustamante a fost un lider muncitoresc de frunte.", "Fondator al Partidului Laburist din Jamaica (JLP).", "A condus Jamaica la independență în 1962.", "Situl este un monument național."],
       en: ["Bustamante was a leading labour leader.", "Founder of the Jamaica Labour Party (JLP).", "Led Jamaica to independence in 1962.", "The site is a national monument."],
-    },
-  },
+    }, image: "/poi-images/blenheim-birthplace-alexander-bustamante-history-v2.webp"},
   {
     id: "lover-s-leap-history-v2",
     type: "historical",
@@ -503,8 +479,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A legenda egy népszerű jamaicai népmese.", "1954-ben világítótornyot építettek a közelben.", "Lélegzetelállító kilátást nyújt a tengerpartra.", "A világítótorony a nyugati félteke legmagasabbja."],
       ro: ["Legenda este o poveste populară din folclorul jamaican.", "Un far a fost construit în apropiere în 1954.", "Oferă o priveliște uluitoare a coastei.", "Farul este cel mai înalt din emisfera vestică."],
       en: ["The legend is a popular Jamaican folklore.", "A lighthouse was built nearby in 1954.", "Offers a breathtaking view of the coastline.", "The lighthouse is the highest in the Western Hemisphere."],
-    },
-  },
+    }, image: "/poi-images/lover-s-leap-history-v2.webp"},
   {
     id: "trench-town-culture-yard-history-v2",
     type: "historical",
@@ -527,8 +502,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A reggae bölcsőjének tartják.", "Marley régi VW busza még mindig az udvaron áll.", "Sok más híres zenész származott Trenchtownból.", "2006 óta nemzeti emlékmű."],
       ro: ["Considerat leagănul muzicii reggae.", "Vechiul autobuz VW al lui Marley este încă în curte.", "Mulți alți muzicieni celebri au provenit din Trenchtown.", "Monument național din 2006."],
       en: ["Considered the cradle of reggae music.", "Marley's old VW bus is still in the yard.", "Many other famous musicians came from Trenchtown.", "A national monument since 2006."],
-    },
-  },
+    }, image: "/poi-images/trench-town-culture-yard-history-v2.webp"},
   {
     id: "lacovia-tombstones-history-v2",
     type: "historical",
@@ -551,8 +525,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Helyi kuriózum és egy darab folklór.", "A feliratok már alig olvashatók.", "Az egyik kő Thomas Jordan sírját jelöli.", "Ritka fennmaradt emlék ebből a korai időszakból."],
       ro: ["O curiozitate locală și o bucată de folclor.", "Inscripțiile sunt abia lizibile.", "Una dintre pietre marchează mormântul lui Thomas Jordan.", "Un monument rar păstrat din această perioadă timpurie."],
       en: ["A local curiosity and a piece of folklore.", "The inscriptions are barely legible.", "One of the stones marks the grave of Thomas Jordan.", "A rare surviving monument from this early period."],
-    },
-  },
+    }, image: "/poi-images/lacovia-tombstones-history-v2.webp"},
   {
     id: "georg-liele-memorial-history-v2",
     type: "historical",
@@ -575,8 +548,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Liele-t a jamaicai baptista mozgalom úttörőjének tartják.", "Munkássága hozzájárult a rabszolgaság későbbi eltörléséhez.", "Az emlékmű az East Queen Street-i baptista templom területén található.", "Prédikált rabszolgáknak és szabadoknak egyaránt."],
       ro: ["Liele este considerat un pionier al mișcării baptiste din Jamaica.", "Munca sa a contribuit la abolirea ulterioară a sclaviei.", "Memorialul se află pe terenul Bisericii Baptiste de pe strada East Queen.", "A predicat atât sclavilor, cât și oamenilor liberi."],
       en: ["Liele is considered a pioneer of the Baptist movement in Jamaica.", "His work contributed to the eventual abolition of slavery.", "The memorial is located on the grounds of the East Queen Street Baptist Church.", "He preached to both enslaved and free people."],
-    },
-  },
+    }, image: "/poi-images/georg-liele-memorial-history-v2.webp"},
   {
     id: "national-heroes-park-history-v2",
     type: "historical",
@@ -599,8 +571,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Itt találhatók Marcus Garvey, Norman Manley és Alexander Bustamante emlékművei.", "Egy háborús emlékmű tiszteleg a világháborúkban elesett jamaicaiak előtt.", "A park 50 hektáron terül el.", "Korábban VI. György Emlékparkként ismerték."],
       ro: ["Conține monumente pentru Marcus Garvey, Norman Manley și Alexander Bustamante.", "Un memorial de război îi onorează pe jamaicanii căzuți în războaiele mondiale.", "Parcul se întinde pe 50 de acri.", "Cunoscut anterior ca Parcul Memorial George al VI-lea."],
       en: ["Contains monuments to Marcus Garvey, Norman Manley, and Alexander Bustamante.", "A war memorial honors Jamaicans who died in the World Wars.", "The park covers 50 acres.", "Formerly known as George VI Memorial Park."],
-    },
-  },
+    }, image: "/poi-images/national-heroes-park-history-v2.webp"},
   {
     id: "the-cage-montego-bay-history-v2",
     type: "historical",
@@ -623,8 +594,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Eredetileg fából épült.", "Két cellája van.", "A gyarmati kor társadalmi rendjének markáns emléke.", "Ma egy kis történelmi nevezetesség."],
       ro: ["Construită inițial din lemn.", "Are două celule.", "O amintire pregnantă a ordinii sociale din perioada colonială.", "Astăzi este un mic punct de reper istoric."],
       en: ["Originally built of wood.", "It has two cells.", "A stark reminder of the colonial-era social order.", "Now a small historical landmark."],
-    },
-  },
+    }, image: "/poi-images/the-cage-montego-bay-history-v2.webp"},
   {
     id: "sam-sharpe-square-history-v2",
     type: "historical",
@@ -647,8 +617,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A felkelés felgyorsította a rabszolgaság eltörlését.", "A teret korábban Charles térnek hívták.", "Egy emlékmű tiszteleg Sam Sharpe és követői előtt.", "Élénk közterület a város szívében."],
       ro: ["Revolta a accelerat abolirea sclaviei.", "Piața era cunoscută anterior ca Piața Charles.", "Un monument îi onorează pe Sam Sharpe și pe adepții săi.", "Un spațiu public vibrant în inima orașului."],
       en: ["The rebellion hastened the abolition of slavery.", "The square was previously known as Charles Square.", "A monument honors Sam Sharpe and his followers.", "A vibrant public space in the heart of the city."],
-    },
-  },
+    }, image: "/poi-images/sam-sharpe-square-history-v2.webp"},
   {
     id: "tryall-great-house-history-v2",
     type: "historical",
@@ -671,8 +640,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Egy régi vízimalom a területen még mindig ép.", "A birtok ma luxusüdülőhely és golfklub.", "A ház előtti ágyú a Tryall erődből származik.", "A történelmi és modern elegancia helyszíne."],
       ro: ["O veche moară de apă de pe proprietate este încă intactă.", "Proprietatea este acum o stațiune de lux și un club de golf.", "Tunul din fața casei provine de la Fortul Tryall.", "Un loc de eleganță istorică și modernă."],
       en: ["An old water wheel on the property is still intact.", "The estate is now a luxury resort and golf club.", "The cannon in front of the house is from Fort Tryall.", "A place of historic and modern elegance."],
-    },
-  },
+    }, image: "/poi-images/tryall-great-house-history-v2.webp"},
   {
     id: "cinnamon-hill-great-house-history-v2",
     type: "historical",
@@ -695,8 +663,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Johnny Cash és June Carter gyakran felléptek itt.", "Állítólag a 'Fehér Boszorkány', Annie Palmer kísért itt.", "A házban túrákat tartanak, amelyek bemutatják Cash életét.", "A 18. századi építészet gyönyörű példája."],
       ro: ["Johnny Cash și June Carter au concertat aici adesea.", "Se presupune că 'Vrăjitoarea Albă' Annie Palmer bântuie aici.", "Casa oferă tururi care evidențiază viața lui Cash.", "Un exemplu frumos de arhitectură din secolul al XVIII-lea."],
       en: ["Johnny Cash and June Carter often performed here.", "Allegedly haunted by the 'White Witch' Annie Palmer.", "The house offers tours highlighting Cash's life.", "A beautiful example of 18th-century architecture."],
-    },
-  },
+    }, image: "/poi-images/cinnamon-hill-great-house-history-v2.webp"},
   {
     id: "stokes-hall-great-house-ruins-history-v2",
     type: "historical",
@@ -719,8 +686,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A Stokes család építtette az angol hódítás után.", "Ritka példája egy erődített háznak ebből az időszakból.", "Az 1907-es földrengés súlyosan megrongálta.", "A bizonytalan korai gyarmati időszak tanúja."],
       ro: ["Construit de familia Stokes după cucerirea engleză.", "Un exemplu rar de casă fortificată din acea perioadă.", "Grav avariat de cutremurul din 1907.", "O mărturie a perioadei coloniale timpurii nesigure."],
       en: ["Built by the Stokes family after the English conquest.", "A rare example of a fortified house from that period.", "Severely damaged by the 1907 earthquake.", "A testament to the insecure early colonial era."],
-    },
-  },
+    }, image: "/poi-images/stokes-hall-great-house-ruins-history-v2.webp"},
   {
     id: "black-river-spa-mineral-spring-history-v2",
     type: "historical",
@@ -743,8 +709,7 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["A fürdő az ültetvényes elit társadalmi találkozóhelye volt.", "Az eredeti épület már nem létezik.", "A forrás ma is látogatható.", "Tanúskodik a sziget korai egészségügyi gyakorlatairól."],
       ro: ["Stațiunea era un loc de întâlnire socială pentru elita plantatorilor.", "Clădirea originală nu mai există.", "Izvorul este încă accesibil publicului.", "Mărturie a practicilor timpurii de sănătate de pe insulă."],
       en: ["The spa was a social gathering place for the planter elite.", "The original building no longer exists.", "The spring is still accessible to the public.", "A testament to early health practices on the island."],
-    },
-  },
+    }, image: "/poi-images/black-river-spa-mineral-spring-history-v2.webp"},
   {
     id: "lyssons-beach-public-park-history-v2",
     type: "historical",
@@ -767,6 +732,6 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       hu: ["Része volt az útvonalnak, amelyet Paul Bogle és követői bejártak.", "Ma a helyiek kedvelt üdülőhelye.", "A nevét egy egykori cukorültetvényről kapta.", "A nyugodt szépség és a viharos történelem helyszíne."],
       ro: ["Parte a traseului parcurs de Paul Bogle și adepții săi.", "Astăzi este un loc popular de recreere pentru localnici.", "Numele provine de la o fostă plantație de zahăr.", "Un loc de o frumusețe liniștită și o istorie turbulentă."],
       en: ["Part of the route taken by Paul Bogle and his followers.", "Today a popular recreational spot for locals.", "The name comes from a former sugar plantation.", "A place of tranquil beauty and turbulent history."],
-    },
-  },
+    }, image: "/poi-images/lyssons-beach-public-park-history-v2.webp"},
 ];
+

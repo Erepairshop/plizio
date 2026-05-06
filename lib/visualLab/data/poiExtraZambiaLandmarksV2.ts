@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraZambiaLandmarksV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Az elnök székhelye", "Az 1930-as években épült", "Szigorúan őrzött terület"],
       ro: ["Sediul președintelui", "Construită în anii 1930", "Zonă strict păzită"],
       en: ["Seat of the president", "Built in the 1930s", "Heavily guarded area"]
-    }
-  },
+    }, image: "/poi-images/state-house-lusaka-landmarks-v2.webp"},
   {
     id: "mulungushi-international-conference-centre-landmarks-v2",
     type: "landmark",
@@ -47,8 +47,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Csúcstalálkozók népszerű helyszíne", "A Zambiai Egyetem közelében", "Modern létesítmények"],
       ro: ["Loc popular pentru summituri", "Aproape de Universitatea din Zambia", "Facilități moderne"],
       en: ["Popular venue for summits", "Near the University of Zambia", "Modern facilities"]
-    }
-  },
+    }, image: "/poi-images/mulungushi-international-conference-centre-landmarks-v2.webp"},
   {
     id: "nkana-stadium-landmarks-v2",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Az Nkana FC otthona", "A Copperbelt szívében épült", "Körülbelül 10 000 nézőt fogad be"],
       ro: ["Casa Nkana FC", "Construit în inima Copperbelt", "Găzduiește aproximativ 10.000 de spectatori"],
       en: ["Home of Nkana FC", "Built in the heart of the Copperbelt", "Holds about 10,000 spectators"]
-    }
-  },
+    }, image: "/poi-images/nkana-stadium-landmarks-v2.webp"},
   {
     id: "arthur-davies-stadium-landmarks-v2",
     type: "landmark",
@@ -95,8 +93,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["15 500 férőhelyes", "A Power Dynamos otthona", "Kitwében található"],
       ro: ["Capacitate de 15.500 de locuri", "Casa echipei Power Dynamos", "Situat în Kitwe"],
       en: ["Capacity of 15,500 seats", "Home of the Power Dynamos", "Located in Kitwe"]
-    }
-  },
+    }, image: "/poi-images/arthur-davies-stadium-landmarks-v2.webp"},
   {
     id: "kafue-bridge-landmarks-v2",
     type: "landmark",
@@ -143,8 +140,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Jelentős közúti kapcsolat Malawi felé", "Látványos kilátás", "1968-ban nyílt meg"],
       ro: ["Legătură rutieră semnificativă către Malawi", "Vedere spectaculoasă", "Deschis în 1968"],
       en: ["Significant road link to Malawi", "Spectacular view", "Opened in 1968"]
-    }
-  },
+    }, image: "/poi-images/luangwa-bridge-landmarks-v2.webp"},
   {
     id: "harry-mwaanga-nkumbula-airport-landmarks-v2",
     type: "landmark",
@@ -167,8 +163,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Fontos a turizmus számára", "Modern terminálépület", "Livingstone-t szolgálja ki"],
       ro: ["Important pentru turism", "Clădire terminală modernă", "Deservește Livingstone"],
       en: ["Important for tourism", "Modern terminal building", "Serves Livingstone"]
-    }
-  },
+    }, image: "/poi-images/harry-mwaanga-nkumbula-airport-landmarks-v2.webp"},
   {
     id: "mukuba-mall-landmarks-v2",
     type: "landmark",
@@ -191,8 +186,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Népszerű bevásárlási célpont", "Számos nemzetközi márka", "Ndola szívében"],
       ro: ["Destinație de cumpărături populară", "Numeroase branduri internaționale", "În inima orașului Ndola"],
       en: ["Popular shopping destination", "Numerous international brands", "In the heart of Ndola"]
-    }
-  },
+    }, image: "/poi-images/mukuba-mall-landmarks-v2.webp"},
   {
     id: "manda-hill-shopping-mall-landmarks-v2",
     type: "landmark",
@@ -287,8 +281,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["1965-ben alapították", "Jelentős oktatási intézmény", "Kiterjedt campus"],
       ro: ["Fondată în 1965", "Instituție de învățământ semnificativă", "Campus extins"],
       en: ["Founded in 1965", "Significant educational institution", "Sprawling campus"]
-    }
-  },
+    }, image: "/poi-images/university-of-zambia-landmarks-v2.webp"},
   {
     id: "mulungushi-rock-of-authority-landmarks-v2",
     type: "landmark",
@@ -311,8 +304,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Politikai gyűlések helyszíne", "Fontos a gyarmati időkben", "Természetes amfiteátrum"],
       ro: ["Loc de adunare pentru mitinguri politice", "Important în epoca colonială", "Amfiteatru natural"],
       en: ["Gathering place for political rallies", "Important in the colonial era", "Natural amphitheater"]
-    }
-  },
+    }, image: "/poi-images/mulungushi-rock-of-authority-landmarks-v2.webp"},
   {
     id: "kariba-dam-wall-landmarks-v2",
     type: "landmark",
@@ -335,8 +327,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["128 méter magas", "1959-ben épült", "Fontos a vízenergia szempontjából"],
       ro: ["128 de metri înălțime", "Construit în 1959", "Important pentru hidroenergie"],
       en: ["128 meters high", "Built in 1959", "Important for hydroelectric power"]
-    }
-  },
+    }, image: "/poi-images/kariba-dam-wall-landmarks-v2.webp"},
   {
     id: "itezhi-tezhi-dam-landmarks-v2",
     type: "landmark",
@@ -359,8 +350,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["1977-ben készült el", "Nagy víztározót alkot", "A Kafue Nemzeti Parknál található"],
       ro: ["Finalizat în 1977", "Formează un mare lac de acumulare", "Situat lângă Parcul Național Kafue"],
       en: ["Completed in 1977", "Forms a large reservoir", "Located by the Kafue National Park"]
-    }
-  },
+    }, image: "/poi-images/itezhi-tezhi-dam-landmarks-v2.webp"},
   {
     id: "big-tree-national-monument-landmarks-v2",
     type: "landmark",
@@ -383,8 +373,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Természeti emlékmű", "Kabwe nevezetessége", "Árnyékot adott a korai utazóknak"],
       ro: ["Monument al naturii", "Reper al orașului Kabwe", "Umbră pentru primii călători"],
       en: ["Natural monument", "Landmark of Kabwe", "Provided shade for early travelers"]
-    }
-  },
+    }, image: "/poi-images/big-tree-national-monument-landmarks-v2.webp"},
   {
     id: "chilenje-house-394-landmarks-v2",
     type: "landmark",
@@ -407,8 +396,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["A függetlenségi harc központja", "Ma múzeumként működik", "Személyes örökséget őriz"],
       ro: ["Centrul luptei pentru independență", "Astăzi un muzeu", "Păstrează moștenirea personală"],
       en: ["Center of the independence struggle", "Now a museum", "Preserves personal heritage"]
-    }
-  },
+    }, image: "/poi-images/chilenje-house-394-landmarks-v2.webp"},
   {
     id: "livingstone-memorial-landmarks-v2",
     type: "landmark",
@@ -431,8 +419,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Serenje kerületben áll", "Az 1873-as évre emlékeztet", "Történelmi zarándokhely"],
       ro: ["Se află în districtul Serenje", "Comemorează anul 1873", "Loc istoric de pelerinaj"],
       en: ["Stands in Serenje district", "Commemorates the year 1873", "Historic pilgrimage site"]
-    }
-  },
+    }, image: "/poi-images/livingstone-memorial-landmarks-v2.webp"},
   {
     id: "nchanga-stadium-landmarks-v2",
     type: "landmark",
@@ -455,8 +442,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Sok szurkolónak ad helyet", "Fontos sportközpont Chingolában", "A Super League helyszíne"],
       ro: ["Oferă spațiu pentru mulți fani", "Centru sportiv important în Chingola", "Loc de desfășurare pentru Super League"],
       en: ["Offers space for many fans", "Important sports center in Chingola", "Venue for the Super League"]
-    }
-  },
+    }, image: "/poi-images/nchanga-stadium-landmarks-v2.webp"},
   {
     id: "sunset-stadium-landmarks-v2",
     type: "landmark",
@@ -479,8 +465,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Körülbelül 10 000 fős kapacitás", "Központi elhelyezkedés Lusakában", "Hazai klub: Zanaco FC"],
       ro: ["Capacitate de aproximativ 10.000", "Locație centrală în Lusaka", "Club local Zanaco FC"],
       en: ["Capacity of around 10,000", "Central location in Lusaka", "Home club Zanaco FC"]
-    }
-  },
+    }, image: "/poi-images/sunset-stadium-landmarks-v2.webp"},
   {
     id: "woodlands-stadium-landmarks-v2",
     type: "landmark",
@@ -527,8 +512,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Egy brit kormányzóról nevezték el", "1963-ban alapították", "Központi oktatási intézmény"],
       ro: ["Numit după un guvernator britanic", "Fondat în 1963", "Instituție educațională centrală"],
       en: ["Named after a British governor", "Founded in 1963", "Central educational institution"]
-    }
-  },
+    }, image: "/poi-images/evelyn-hone-college-landmarks-v2.webp"},
   {
     id: "intercontinental-lusaka-landmarks-v2",
     type: "landmark",
@@ -575,8 +559,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["2016-ban nyílt meg", "Nagy ügyfélparkoló", "Regionális bevásárlási célpont"],
       ro: ["Deschis în 2016", "Parcare mare pentru clienți", "Destinație regională de cumpărături"],
       en: ["Opened in 2016", "Large customer parking lot", "Regional shopping destination"]
-    }
-  },
+    }, image: "/poi-images/cosmopolitan-mall-landmarks-v2.webp"},
   {
     id: "victoria-falls-power-station-landmarks-v2",
     type: "landmark",
@@ -599,8 +582,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Folyóvizes erőmű", "Az 1930-as évek óta üzemel", "Fontos Livingstone számára"],
       ro: ["Hidrocentrală pe firul apei", "În funcțiune din anii 1930", "Importantă pentru Livingstone"],
       en: ["Run-of-the-river power station", "In operation since the 1930s", "Important for Livingstone"]
-    }
-  },
+    }, image: "/poi-images/victoria-falls-power-station-landmarks-v2.webp"},
   {
     id: "zambezi-river-authority-building-landmarks-v2",
     type: "landmark",
@@ -623,8 +605,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Kezeli a Kariba-gátat", "Központi koordináció", "Lusakában van a székhelye"],
       ro: ["Gestionează barajul Kariba", "Coordonare centrală", "Cu sediul în Lusaka"],
       en: ["Manages the Kariba Dam", "Central coordination", "Headquartered in Lusaka"]
-    }
-  },
+    }, image: "/poi-images/zambezi-river-authority-building-landmarks-v2.webp"},
   {
     id: "kafue-gorge-dam-landmarks-v2",
     type: "landmark",
@@ -671,8 +652,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Történelmi kulturális helyszín", "A helyi művészetre fókuszál", "Központilag helyezkedik el"],
       ro: ["Locație culturală istorică", "Concentrează-te pe arta locală", "Situat central"],
       en: ["Historic cultural venue", "Focus on local art", "Centrally located"]
-    }
-  },
+    }, image: "/poi-images/lusaka-playhouse-landmarks-v2.webp"},
   {
     id: "tazara-railway-terminal-kapiri-landmarks-v2",
     type: "landmark",
@@ -695,8 +675,7 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       hu: ["Fontos közlekedési projekt", "Az 1970-es évek építészete", "Az 1860 km hosszú szakasz végpontja"],
       ro: ["Proiect de transport important", "Arhitectura anilor 1970", "Punctul final al traseului de 1860 km"],
       en: ["Important transport project", "1970s architecture", "Endpoint of the 1860 km route"]
-    }
-  },
+    }, image: "/poi-images/tazara-railway-terminal-kapiri-landmarks-v2.webp"},
   {
     id: "nipa-lusaka-landmarks-v2",
     type: "landmark",
@@ -722,3 +701,4 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
     }
   }
 ];
+

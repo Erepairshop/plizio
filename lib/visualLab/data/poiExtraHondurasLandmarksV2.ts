@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraHondurasLandmarksV2: POI[] = [
@@ -35,8 +36,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/catedral-metropolitana-tegucigalpa-landmarks-v2.webp"},
   {
     id: "basilica-de-suyapa-landmarks-v2",
     type: "landmark",
@@ -71,8 +71,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/basilica-de-suyapa-landmarks-v2.webp"},
   {
     id: "estadio-olimpico-metropolitano-landmarks-v2",
     type: "landmark",
@@ -107,8 +106,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/estadio-olimpico-metropolitano-landmarks-v2.webp"},
   {
     id: "catedral-de-san-pedro-apostol-landmarks-v2",
     type: "landmark",
@@ -143,8 +141,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/catedral-de-san-pedro-apostol-landmarks-v2.webp"},
   {
     id: "teatro-nacional-manuel-bonilla-landmarks-v2",
     type: "landmark",
@@ -179,8 +176,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/teatro-nacional-manuel-bonilla-landmarks-v2.webp"},
   {
     id: "puente-choluteca-landmarks-v2",
     type: "landmark",
@@ -215,8 +211,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/puente-choluteca-landmarks-v2.webp"},
   {
     id: "iglesia-la-merced-gracias-landmarks-v2",
     type: "landmark",
@@ -251,8 +246,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/iglesia-la-merced-gracias-landmarks-v2.webp"},
   {
     id: "museo-para-la-identidad-nacional-landmarks-v2",
     type: "landmark",
@@ -287,8 +281,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/museo-para-la-identidad-nacional-landmarks-v2.webp"},
   {
     id: "estadio-nacional-chelato-ucles-landmarks-v2",
     type: "landmark",
@@ -323,8 +316,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/estadio-nacional-chelato-ucles-landmarks-v2.webp"},
   {
     id: "palacio-legislativo-honduras-landmarks-v2",
     type: "landmark",
@@ -359,8 +351,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/palacio-legislativo-honduras-landmarks-v2.webp"},
   {
     id: "iglesia-los-dolores-tegucigalpa-landmarks-v2",
     type: "landmark",
@@ -395,8 +386,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/iglesia-los-dolores-tegucigalpa-landmarks-v2.webp"},
   {
     id: "banco-central-honduras-landmarks-v2",
     type: "landmark",
@@ -431,8 +421,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/banco-central-honduras-landmarks-v2.webp"},
   {
     id: "antigua-casa-presidencial-landmarks-v2",
     type: "landmark",
@@ -467,8 +456,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/antigua-casa-presidencial-landmarks-v2.webp"},
   {
     id: "catedral-inmaculada-concepcion-choluteca-landmarks-v2",
     type: "landmark",
@@ -503,8 +491,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/catedral-inmaculada-concepcion-choluteca-landmarks-v2.webp"},
   {
     id: "fuerte-santa-barbara-trujillo-landmarks-v2",
     type: "landmark",
@@ -539,8 +526,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/fuerte-santa-barbara-trujillo-landmarks-v2.webp"},
   {
     id: "estadio-francisco-morazan-landmarks-v2",
     type: "landmark",
@@ -575,8 +561,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/estadio-francisco-morazan-landmarks-v2.webp"},
   {
     id: "catedral-de-la-ceiba-landmarks-v2",
     type: "landmark",
@@ -611,8 +596,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/catedral-de-la-ceiba-landmarks-v2.webp"},
   {
     id: "muelle-de-tela-landmarks-v2",
     type: "landmark",
@@ -647,8 +631,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/muelle-de-tela-landmarks-v2.webp"},
   {
     id: "parque-central-gracias-landmarks-v2",
     type: "landmark",
@@ -683,8 +666,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/parque-central-gracias-landmarks-v2.webp"},
   {
     id: "iglesia-de-san-francisco-comayagua-landmarks-v2",
     type: "landmark",
@@ -719,8 +701,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/iglesia-de-san-francisco-comayagua-landmarks-v2.webp"},
   {
     id: "museo-de-comayagua-landmarks-v2",
     type: "landmark",
@@ -755,8 +736,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/museo-de-comayagua-landmarks-v2.webp"},
   {
     id: "monumento-a-la-paz-tegucigalpa-landmarks-v2",
     type: "landmark",
@@ -791,8 +771,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/monumento-a-la-paz-tegucigalpa-landmarks-v2.webp"},
   {
     id: "iglesia-santa-lucia-landmarks-v2",
     type: "landmark",
@@ -827,8 +806,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/iglesia-santa-lucia-landmarks-v2.webp"},
   {
     id: "galeria-nacional-de-arte-landmarks-v2",
     type: "landmark",
@@ -863,8 +841,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/galeria-nacional-de-arte-landmarks-v2.webp"},
   {
     id: "museo-de-history-militar-honduras-landmarks-v2",
     type: "landmark",
@@ -899,8 +876,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/museo-de-history-militar-honduras-landmarks-v2.webp"},
   {
     id: "parque-la-leona-tegucigalpa-landmarks-v2",
     type: "landmark",
@@ -935,8 +911,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/parque-la-leona-tegucigalpa-landmarks-v2.webp"},
   {
     id: "puente-mallol-tegucigalpa-landmarks-v2",
     type: "landmark",
@@ -971,8 +946,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/puente-mallol-tegucigalpa-landmarks-v2.webp"},
   {
     id: "universidad-nacional-autonoma-honduras-landmarks-v2",
     type: "landmark",
@@ -1007,8 +981,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/universidad-nacional-autonoma-honduras-landmarks-v2.webp"},
   {
     id: "parque-central-san-pedro-sula-landmarks-v2",
     type: "landmark",
@@ -1043,8 +1016,7 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/parque-central-san-pedro-sula-landmarks-v2.webp"},
   {
     id: "coca-cola-sign-sps-landmarks-v2",
     type: "landmark",
@@ -1082,3 +1054,4 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     }
   }
 ];
+

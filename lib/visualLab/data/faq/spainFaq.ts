@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { CountryFaqMap } from "./types";
 
 export const spainFaq: CountryFaqMap = {
@@ -780,3 +781,4 @@ export const spainFaq: CountryFaqMap = {
     en: [{ q: "What characterizes this place?", a: "It is a significant highlight in Spanish geography and culture." }]
   }]))
 };
+

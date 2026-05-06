@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTrinidadCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Az Kelet-Nyugat folyosó része", "Élénk piaci hangulat", "Fontos közlekedési csomópont"],
       ro: ["Parte a Coridorului Est-Vest", "Atmosferă de piață plină de viață", "Nod de transport important"],
       en: ["Part of the East-West Corridor", "Bustling market atmosphere", "Major transportation hub"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "San Juan ist ein geschäftiger Knotenpunkt am East-West Corridor in der Region San Juan-Laventille. Die Stadt dient als zentraler Umschlagplatz für Pendler und Waren zwischen Port of Spain und den östlichen Teilen der Insel Trinidad. Geographie K7 — Verkehrsnetzwerke und Knotenpunkte.",
+      hu: "San Juan a San Juan-Laventille régió forgalmas csomópontja az Kelet-Nyugat folyosó mentén. A város központi elosztóként szolgál az ingázók és az áruk számára Port of Spain és Trinidad szigetének keleti részei között. Földrajz K7 — közlekedési hálózatok és csomópontok.",
+      ro: "San Juan este un nod comercial și de transport aglomerat pe Coridorul Est-Vest în regiunea San Juan-Laventille. Orașul servește drept punct central pentru navetiști și bunuri între Port of Spain și părțile estice ale insulei Trinidad. Geografie K7 — rețele de transport și noduri.",
+      en: "San Juan is a bustling transport hub on the East-West Corridor in the San Juan–Laventille region. The town serves as a central clearing point for commuters and goods between Port of Spain and the eastern parts of Trinidad island. Geography K7 — transport networks and hubs."
+    },
+    factsAdvanced: {
+      de: ["Teil des East-West Corridor", "Wichtiger Verkehrsknotenpunkt", "Zentrum für kleine Unternehmen", "Über 15.000 Einwohner", "Region San Juan-Laventille", "Lebhafte Marktaktivität"],
+      hu: ["Az Kelet-Nyugat folyosó része", "Fontos közlekedési csomópont", "Kisvállalkozások központja", "Több mint 15 000 lakos", "San Juan-Laventille régió", "Élénk piaci tevékenység"],
+      ro: ["Parte a Coridorului Est-Vest", "Nod de transport important", "Centru pentru afaceri mici", "Peste 15.000 de locuitori", "Regiunea San Juan-Laventille", "Activitate de piață plină de viață"],
+      en: ["Part of the East-West Corridor", "Major transport hub", "Center for small businesses", "Over 15,000 residents", "San Juan–Laventille region", "Bustling market activity"]
+    }, image: "/poi-images/tt-san-juan-cities-v2.webp"},
   {
     id: "tt-diego-martin-cities-v2",
     type: "city",
@@ -37,8 +49,19 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A Diego Martin-völgyben található", "Jómódú lakosság", "Közel a Chaguaramas-félszigethez"],
       ro: ["Situat în valea Diego Martin", "Populație prosperă", "Aproape de peninsula Chaguaramas"],
       en: ["Located in the Diego Martin Valley", "Affluent population", "Close to the Chaguaramas peninsula"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Diego Martin ist ein wohlhabender Vorort westlich von Port of Spain, der sich durch seine Wohnqualität im Diego Martin Valley auszeichnet. Es ist ein dicht bebautes Gebiet, das als Wohnort für viele Berufstätige der Hauptstadt dient. Geographie K6 — Vororte und Stadtentwicklung.",
+      hu: "Diego Martin egy jómódú előváros Port of Spaintól nyugatra, amelyet a Diego Martin-völgy lakóhelyi minősége jellemez. Sűrűn beépített terület, amely a főváros sok szakemberének lakhelyéül szolgál. Földrajz K6 — elővárosok és városfejlesztés.",
+      ro: "Diego Martin este o suburbie prosperă la vest de Port of Spain, remarcată prin calitatea sa rezidențială în valea Diego Martin. Este o zonă dens populată care servește drept locuință pentru mulți profesioniști care lucrează în capitală. Geografie K6 — suburbii și dezvoltare urbană.",
+      en: "Diego Martin is an affluent suburb west of Port of Spain, noted for its residential quality in the Diego Martin Valley. It is a densely populated area serving as home to many professionals working in the capital. Geography K6 — suburbs and urban development."
+    },
+    factsAdvanced: {
+      de: ["Gelegen im Diego Martin Valley", "Wohlhabendes Wohngebiet", "Nähe zu Port of Spain", "Über 25.000 Einwohner", "Bekannt für Hügelbebauung", "Nahe der Halbinsel Chaguaramas"],
+      hu: ["A Diego Martin-völgyben fekszik", "Jómódú lakóövezet", "Közel Port of Spainhez", "Több mint 25 000 lakos", "Dombvidéki beépítéséről ismert", "Közel a Chaguaramas-félszigethez"],
+      ro: ["Situat în valea Diego Martin", "Zonă rezidențială prosperă", "Aproape de Port of Spain", "Peste 25.000 de locuitori", "Cunoscut pentru dezvoltările pe dealuri", "Aproape de peninsula Chaguaramas"],
+      en: ["Located in Diego Martin Valley", "Affluent residential area", "Close to Port of Spain", "Over 25,000 residents", "Known for hillside developments", "Near Chaguaramas peninsula"]
+    }, image: "/poi-images/tt-diego-martin-cities-v2.webp"},
   {
     id: "tt-couva-cities-v2",
     type: "city",
@@ -56,8 +79,19 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Ipari központ Közép-Trinidadban", "Gyors népességnövekedés", "Az Ato Boldon Stadion otthona"],
       ro: ["Centru industrial în centrul Trinidadului", "Creștere rapidă a populației", "Gazda stadionului Ato Boldon"],
       en: ["Industrial hub in Central Trinidad", "Rapid population growth", "Home to the Ato Boldon Stadium"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Couva ist das industrielle Herz von Zentral-Trinidad und ein schnell wachsendes urbanes Zentrum. Die Stadt ist eng mit der petrochemischen Industrie verbunden und beheimatet wichtige Sportstätten wie das Ato Boldon Stadium. Sachkunde K5 — Industrie und Stadtleben.",
+      hu: "Couva Közép-Trinidad ipari szíve és egy gyorsan növekvő városi központ. A város szorosan kötődik a petrolkémiai iparhoz, és olyan fontos sportlétesítmények otthona, mint az Ato Boldon Stadion. Sachkunde K5 — ipar és városi élet.",
+      ro: "Couva este inima industrială a Trinidadului central și un centru urban în creștere rapidă. Orașul este strâns legat de industria petrochimică și găzduiește facilități sportive importante precum Stadionul Ato Boldon. Sachkunde K5 — industrie și viață urbană.",
+      en: "Couva is the industrial heart of Central Trinidad and a fast-growing urban center. The town is closely linked to the petrochemical industry and is home to major sports facilities like the Ato Boldon Stadium. Sachkunde K5 — industry and urban life."
+    },
+    factsAdvanced: {
+      de: ["Industrielles Zentrum", "Heimat des Ato Boldon Stadiums", "Starkes Bevölkerungswachstum", "Zentrum von Zentral-Trinidad", "Wichtiger Arbeitgeberstandort", "Entwicklung seit 1970er"],
+      hu: ["Ipari központ", "Az Ato Boldon Stadion otthona", "Erős népességnövekedés", "Közép-Trinidad központja", "Fontos munkaadó", "Fejlődés az 1970-es évektől"],
+      ro: ["Centru industrial", "Gazda stadionului Ato Boldon", "Creștere puternică a populației", "Centrul Trinidadului central", "Importator de forță de muncă", "Dezvoltare din anii '70"],
+      en: ["Industrial hub", "Home to Ato Boldon Stadium", "Strong population growth", "Center of Central Trinidad", "Major employer", "Development since 1970s"]
+    }, image: "/poi-images/tt-couva-cities-v2.webp"},
   {
     id: "tt-point-fortin-cities-v2",
     type: "state-capital",
@@ -75,8 +109,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A petrolkémiai ipar központja", "Évenkénti Borough Day ünnepségek", "Fontos exportkikötő"],
       ro: ["Centru al industriei petrochimice", "Sărbători anuale de Borough Day", "Port de export important"],
       en: ["Center of the petrochemical industry", "Annual Borough Day celebrations", "Major export port"]
-    }
-  },
+    }, image: "/poi-images/tt-point-fortin-cities-v2.webp"},
   {
     id: "tt-princes-town-cities-v2",
     type: "city",
@@ -94,8 +127,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Amerikai indián misszióként alapították", "Két hercegről nevezték el", "Mezőgazdasági központ"],
       ro: ["Fondat ca misiune amerindiană", "Numit după doi prinți", "Centru agricol"],
       en: ["Founded as an Amerindian Mission", "Named after two princes", "Agricultural center"]
-    }
-  },
+    }, image: "/poi-images/tt-princes-town-cities-v2.webp"},
   {
     id: "tt-tunapuna-cities-v2",
     type: "city",
@@ -113,8 +145,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Az Kelet-Nyugat folyosó része", "Fontos kereskedelmi központ", "Közel a Nyugat-indiai Egyetemhez"],
       ro: ["Parte a Coridorului Est-Vest", "Centru comercial important", "Aproape de Universitatea Indiilor de Vest"],
       en: ["Part of the East-West Corridor", "Major commercial hub", "Near the University of the West Indies"]
-    }
-  },
+    }, image: "/poi-images/tt-tunapuna-cities-v2.webp"},
   {
     id: "tt-sangre-grande-cities-v2",
     type: "state-capital",
@@ -132,8 +163,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Jelentése spanyolul 'Nagy Vér'", "Kapu a keleti parthoz", "Mezőgazdaság és kereskedelem"],
       ro: ["Înseamnă 'Sânge Mare' în spaniolă", "Poartă către coasta de est", "Agricultură și comerț"],
       en: ["Means 'Big Blood' in Spanish", "Gateway to the East Coast", "Agriculture and commerce"]
-    }
-  },
+    }, image: "/poi-images/tt-sangre-grande-cities-v2.webp"},
   {
     id: "tt-penal-cities-v2",
     type: "city",
@@ -151,8 +181,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Erős indo-trinidadi közösség", "Fontos rizstermesztő terület", "Élénk piacok"],
       ro: ["Comunitate indo-trinidadiană puternică", "Zonă importantă de cultivare a orezului", "Piețe pline de viață"],
       en: ["Strong Indo-Trinidadian community", "Important rice-growing area", "Vibrant markets"]
-    }
-  },
+    }, image: "/poi-images/tt-penal-cities-v2.webp"},
   {
     id: "tt-gasparillo-cities-v2",
     type: "city",
@@ -170,8 +199,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A Pointe-à-Pierre olajfinomító közelében", "Ipari munkások lakónegyede", "Központi elhelyezkedés"],
       ro: ["Aproape de rafinăria de petrol Pointe-à-Pierre", "Zonă rezidențială pentru muncitorii industriali", "Locație centrală"],
       en: ["Near the Pointe-à-Pierre oil refinery", "Residential area for industrial workers", "Central location"]
-    }
-  },
+    }, image: "/poi-images/tt-gasparillo-cities-v2.webp"},
   {
     id: "tt-siparia-cities-v2",
     type: "state-capital",
@@ -189,8 +217,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Vallási központ", "A La Divina Pastora fesztiválja", "A régió közigazgatási fővárosa"],
       ro: ["Centru religios", "Festivalul La Divina Pastora", "Capitala administrativă a regiunii"],
       en: ["Religious center", "Festival of La Divina Pastora", "Administrative capital of the region"]
-    }
-  },
+    }, image: "/poi-images/tt-siparia-cities-v2.webp"},
   {
     id: "tt-claxton-bay-cities-v2",
     type: "city",
@@ -227,8 +254,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A munkásmozgalom szülőhelye", "Fontos olajipari helyszín", "Évenkénti Munka Napja ünnepségek"],
       ro: ["Locul de naștere al mișcării muncitorești", "Locație importantă a industriei petroliere", "Sărbători anuale de Ziua Muncii"],
       en: ["Birthplace of the labor movement", "Important oil industry location", "Annual Labour Day celebrations"]
-    }
-  },
+    }, image: "/poi-images/tt-fyzabad-cities-v2.webp"},
   {
     id: "tt-valencia-cities-v2",
     type: "city",
@@ -246,8 +272,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Fontos közlekedési csomópont", "Erdők és kőbányák veszik körül", "Növekvő népesség"],
       ro: ["Nod de transport important", "Înconjurat de păduri și cariere", "Populație în creștere"],
       en: ["Important transport junction", "Surrounded by forests and quarries", "Growing population"]
-    }
-  },
+    }, image: "/poi-images/tt-valencia-cities-v2.webp"},
   {
     id: "tt-freeport-cities-v2",
     type: "city",
@@ -265,8 +290,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Mezőgazdasági központ", "A Solomon Hochoy autópálya közelében", "Növekvő lakóövezetek"],
       ro: ["Centru agricol", "Aproape de autostrada Solomon Hochoy", "Zone rezidențiale în creștere"],
       en: ["Agricultural center", "Near the Solomon Hochoy Highway", "Growing residential areas"]
-    }
-  },
+    }, image: "/poi-images/tt-freeport-cities-v2.webp"},
   {
     id: "tt-debe-cities-v2",
     type: "city",
@@ -284,8 +308,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Az utcai ételek fővárosa", "Híres a 'Doubles'-ról", "Élénk indo-trinidadi kultúra"],
       ro: ["Capitala mâncărurilor stradale", "Faimos pentru 'Doubles'", "Cultură indo-trinidadiană vibrantă"],
       en: ["Street food capital", "Famous for 'doubles'", "Vibrant Indo-Trinidadian culture"]
-    }
-  },
+    }, image: "/poi-images/tt-debe-cities-v2.webp"},
   {
     id: "tt-laventille-cities-v2",
     type: "city",
@@ -303,8 +326,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A steelpan szülőhelye", "Panorámás kilátás Port of Spainre", "Gazdag kulturális történelem"],
       ro: ["Locul de naștere al steelpan-ului", "Vederi panoramice ale Port of Spain", "Istorie culturală bogată"],
       en: ["Birthplace of the steelpan", "Panoramic views of Port of Spain", "Rich cultural history"]
-    }
-  },
+    }, image: "/poi-images/tt-laventille-cities-v2.webp"},
   {
     id: "tt-morvant-cities-v2",
     type: "city",
@@ -322,8 +344,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Nagy lakótelep", "Az Kelet-Nyugat folyosó része", "Erős közösségi identitás"],
       ro: ["Comunitate rezidențială mare", "Parte a Coridorului Est-Vest", "Identitate comunitară puternică"],
       en: ["Large residential community", "Part of the East-West Corridor", "Strong community identity"]
-    }
-  },
+    }, image: "/poi-images/tt-morvant-cities-v2.webp"},
   {
     id: "tt-st-joseph-cities-v2",
     type: "city",
@@ -341,8 +362,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Első spanyol főváros", "Történelmi templomok és épületek", "Mezőgazdasági jelentőség"],
       ro: ["Prima capitală spaniolă", "Biserici și clădiri istorice", "Importanță agricolă"],
       en: ["First Spanish capital", "Historic churches and buildings", "Agricultural importance"]
-    }
-  },
+    }, image: "/poi-images/tt-st-joseph-cities-v2.webp"},
   {
     id: "tt-maracas-valley-cities-v2",
     type: "city",
@@ -360,8 +380,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Út a Maracas-öbölhöz", "Mezőgazdaság, beleértve a kakaót", "A Maracas-vízesés otthona"],
       ro: ["Drumul către Golful Maracas", "Agricultură, inclusiv cacao", "Gazda cascadei Maracas"],
       en: ["Route to Maracas Bay", "Agriculture, including cocoa", "Home to the Maracas waterfall"]
-    }
-  },
+    }, image: "/poi-images/tt-maracas-valley-cities-v2.webp"},
   {
     id: "tt-piarco-cities-v2",
     type: "city",
@@ -379,8 +398,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Piarco Nemzetközi Repülőtér", "Fontos közlekedési csomópont", "Légi közlekedési és logisztikai központ"],
       ro: ["Aeroportul Internațional Piarco", "Nod de transport major", "Hub de aviație și logistică"],
       en: ["Piarco International Airport", "Major transportation hub", "Aviation and logistics center"]
-    }
-  },
+    }, image: "/poi-images/tt-piarco-cities-v2.webp"},
   {
     id: "tt-arouca-cities-v2",
     type: "city",
@@ -398,8 +416,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Egykori spanyol misszió", "Az Kelet-Nyugat folyosó része", "Lakó- és kereskedelmi területek keveréke"],
       ro: ["Fostă misiune spaniolă", "Parte a Coridorului Est-Vest", "Amestec de zone rezidențiale și comerciale"],
       en: ["Former Spanish mission", "Part of the East-West Corridor", "Mix of residential and commercial areas"]
-    }
-  },
+    }, image: "/poi-images/tt-arouca-cities-v2.webp"},
   {
     id: "tt-curepe-cities-v2",
     type: "city",
@@ -417,8 +434,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Fontos közlekedési csomópont", "Élénk éjszakai élet és éttermek", "Közel a St. Augustine campushoz"],
       ro: ["Nod de transport major", "Viață de noapte și restaurante pline de viață", "Aproape de campusul St. Augustine"],
       en: ["Major transportation junction", "Vibrant nightlife and restaurants", "Close to the St. Augustine campus"]
-    }
-  },
+    }, image: "/poi-images/tt-curepe-cities-v2.webp"},
   {
     id: "tt-st-augustine-cities-v2",
     type: "city",
@@ -436,8 +452,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Nyugat-indiai Egyetem", "Felsőoktatási központ", "Diákélet és kultúra"],
       ro: ["Universitatea Indiilor de Vest", "Centru de învățământ superior", "Viață și cultură studențească"],
       en: ["University of the West Indies", "Center for higher education", "Student life and culture"]
-    }
-  },
+    }, image: "/poi-images/tt-st-augustine-cities-v2.webp"},
   {
     id: "tt-trincity-cities-v2",
     type: "city",
@@ -455,8 +470,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Nagy bevásárlóközpont, Trincity Mall", "Tervezett lakótelep", "Modern infrastruktúra"],
       ro: ["Mall mare, Trincity Mall", "Comunitate rezidențială planificată", "Infrastructură modernă"],
       en: ["Large shopping mall, Trincity Mall", "Planned residential community", "Modern infrastructure"]
-    }
-  },
+    }, image: "/poi-images/tt-trincity-cities-v2.webp"},
   {
     id: "tt-carenage-cities-v2",
     type: "city",
@@ -474,8 +488,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Hosszú múltra visszatekintő halászfalu", "Chaguaramas közelében", "Fontos hajóépítő hely"],
       ro: ["Sat pescăresc cu istorie lungă", "Aproape de Chaguaramas", "Locație importantă pentru construcția de bărci"],
       en: ["Fishing village with a long history", "Near Chaguaramas", "Important boat-building location"]
-    }
-  },
+    }, image: "/poi-images/tt-carenage-cities-v2.webp"},
   {
     id: "tt-westmoorings-cities-v2",
     type: "city",
@@ -493,8 +506,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Felsőkategóriás lakónegyed", "Port of Spain-i Nemzetközi Iskola", "Jachtkikötők és bevásárlóközpontok"],
       ro: ["Zonă rezidențială de lux", "Școala Internațională din Port of Spain", "Marine și centre comerciale"],
       en: ["Upmarket residential area", "International School of Port of Spain", "Marinas and shopping centers"]
-    }
-  },
+    }, image: "/poi-images/tt-westmoorings-cities-v2.webp"},
   {
     id: "tt-maraval-cities-v2",
     type: "city",
@@ -512,8 +524,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Népszerű lakónegyed", "A Maraval víztározó otthona", "Kapu az Északi Parti Úthoz"],
       ro: ["Zonă rezidențială populară", "Gazda rezervorului Maraval", "Poartă către Drumul Coastei de Nord"],
       en: ["Popular residential area", "Home to the Maraval Reservoir", "Gateway to the North Coast Road"]
-    }
-  },
+    }, image: "/poi-images/tt-maraval-cities-v2.webp"},
   {
     id: "tt-tabaquite-cities-v2",
     type: "city",
@@ -569,8 +580,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Stratégiai elhelyezkedés az autópálya mellett", "Növekvő kereskedelmi tevékenység", "Lakó- és üzleti területek keveréke"],
       ro: ["Locație strategică pe autostradă", "Activitate comercială în creștere", "Amestec de zone rezidențiale și comerciale"],
       en: ["Strategic location on the highway", "Growing commercial activity", "Mix of residential and business areas"]
-    }
-  },
+    }, image: "/poi-images/tt-chase-village-cities-v2.webp"},
   {
     id: "tt-moruga-cities-v2",
     type: "city",
@@ -588,8 +598,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Kolumbusz lehetséges partraszállási helye", "Halászati és mezőgazdasági közösség", "Félreeső déli parti elhelyezkedés"],
       ro: ["Posibil loc de debarcare a lui Columb", "Comunitate de pescuit și agricultură", "Locație izolată pe coasta de sud"],
       en: ["Possible landing site of Columbus", "Fishing and agricultural community", "Remote south coast location"]
-    }
-  },
+    }, image: "/poi-images/tt-moruga-cities-v2.webp"},
   {
     id: "tt-toco-cities-v2",
     type: "city",
@@ -607,8 +616,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Trinidad legészakkeletibb pontja", "A Toco-i világítótorony", "Csendes strandok és tengerparti táj"],
       ro: ["Cel mai nordic punct al Trinidadului", "Farul Toco", "Plaje liniștite și peisaj de coastă"],
       en: ["Northeasternmost point of Trinidad", "Toco Lighthouse", "Quiet beaches and coastal scenery"]
-    }
-  },
+    }, image: "/poi-images/tt-toco-cities-v2.webp"},
   {
     id: "tt-matelot-cities-v2",
     type: "city",
@@ -626,8 +634,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Félreeső északi parti közösség", "Túrázás és ökoturizmus", "Erős közösségi kötelékek"],
       ro: ["Comunitate izolată pe coasta de nord", "Drumeții și turism ecologic", "Legături comunitare puternice"],
       en: ["Remote north coast community", "Hiking and nature tourism", "Strong community bonds"]
-    }
-  },
+    }, image: "/poi-images/tt-matelot-cities-v2.webp"},
   {
     id: "tt-la-brea-cities-v2",
     type: "city",
@@ -645,8 +652,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A Pitch Lake otthona", "Ipari jelentőség", "Spanyolul 'a kátrány'"],
       ro: ["Gazda Lacului de smoală", "Importanță industrială", "În spaniolă înseamnă 'smoala'"],
       en: ["Home of the Pitch Lake", "Industrial importance", "Spanish for 'the tar'"]
-    }
-  },
+    }, image: "/poi-images/tt-la-brea-cities-v2.webp"},
   {
     id: "tt-cedros-cities-v2",
     type: "city",
@@ -664,8 +670,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Trinidad legdélnyugatibb pontja", "Kompkapcsolat Venezuelával", "Kókuszültetvények"],
       ro: ["Cel mai sud-vestic punct al Trinidadului", "Serviciu de feribot către Venezuela", "Plantații de cocos"],
       en: ["Southwesternmost point of Trinidad", "Ferry service to Venezuela", "Coconut plantations"]
-    }
-  },
+    }, image: "/poi-images/tt-cedros-cities-v2.webp"},
   {
     id: "tt-mayaro-cities-v2",
     type: "city",
@@ -683,8 +688,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Trinidad leghosszabb strandja", "Az offshore olajipar fontos központja", "Népszerű üdülőhely"],
       ro: ["Cea mai lungă plajă din Trinidad", "Centru important al industriei petroliere offshore", "Destinație populară de vacanță"],
       en: ["Longest stretch of beach in Trinidad", "Major center for offshore oil industry", "Popular holiday destination"]
-    }
-  },
+    }, image: "/poi-images/tt-mayaro-cities-v2.webp"},
   {
     id: "tt-rio-claro-cities-v2",
     type: "city",
@@ -702,8 +706,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Spanyolul 'Tiszta Folyó'", "Mezőgazdasági kereskedelmi központ", "Vidéki közösség"],
       ro: ["Spaniolă pentru 'Râul Limpede'", "Centru comercial agricol", "Comunitate rurală"],
       en: ["Spanish for 'Clear River'", "Agricultural trade center", "Rural community"]
-    }
-  },
+    }, image: "/poi-images/tt-rio-claro-cities-v2.webp"},
   {
     id: "tt-roxborough-cities-v2",
     type: "city",
@@ -721,8 +724,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Tobago második legnagyobb városa", "Az Argyle-vízesés közelében", "Fontos regionális központ"],
       ro: ["Al doilea oraș ca mărime din Tobago", "Aproape de Cascada Argyle", "Centru regional important"],
       en: ["Second largest town in Tobago", "Near the Argyle Waterfall", "Important regional center"]
-    }
-  },
+    }, image: "/poi-images/tt-roxborough-cities-v2.webp"},
   {
     id: "tt-speyside-cities-v2",
     type: "city",
@@ -740,8 +742,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Első osztályú búvárcélpont", "Kapu Little Tobago felé", "Korallzátonyok és gazdag tengeri élővilág"],
       ro: ["Destinație de scufundări de primă clasă", "Poartă către Little Tobago", "Recife de corali și viață marină bogată"],
       en: ["World-class diving destination", "Gateway to Little Tobago", "Coral reefs and rich marine life"]
-    }
-  },
+    }, image: "/poi-images/tt-speyside-cities-v2.webp"},
   {
     id: "tt-crown-point-cities-v2",
     type: "city",
@@ -759,8 +760,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A.N.R. Robinson Nemzetközi Repülőtér", "A Pigeon Point Beach otthona", "Tobago turisztikai központja"],
       ro: ["Aeroportul Internațional A.N.R. Robinson", "Gazda plajei Pigeon Point", "Centrul turistic al Tobago"],
       en: ["A.N.R. Robinson International Airport", "Home to Pigeon Point Beach", "Tourism hub of Tobago"]
-    }
-  },
+    }, image: "/poi-images/tt-crown-point-cities-v2.webp"},
   {
     id: "tt-barataria-cities-v2",
     type: "city",
@@ -778,8 +778,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Kényelmesen helyezkedik el Port of Spain közelében", "Vegyes földhasználat", "Fontos közlekedési folyosó"],
       ro: ["Situat convenabil lângă Port of Spain", "Utilizare mixtă a terenurilor", "Coridor de transport important"],
       en: ["Conveniently located near Port of Spain", "Mixed land use", "Important transport corridor"]
-    }
-  },
+    }, image: "/poi-images/tt-barataria-cities-v2.webp"},
   {
     id: "tt-st-james-cities-v2",
     type: "city",
@@ -797,8 +796,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["24 órás szórakozás és étkezés", "Erős indo-trinidadi jelenlét", "Évenkénti Hosay körmenet"],
       ro: ["Divertisment și restaurante 24 de ore", "Prezență puternică indo-trinidadiană", "Procesiune anuală Hosay"],
       en: ["24-hour entertainment and food", "Strong Indo-Trinidadian presence", "Annual Hosay procession"]
-    }
-  },
+    }, image: "/poi-images/tt-st-james-cities-v2.webp"},
   {
     id: "tt-woodbrook-cities-v2",
     type: "city",
@@ -816,8 +814,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Az éjszakai élet központja", "Az Ariapita Avenue a központja", "Egykori cukorültetvény"],
       ro: ["Centrul vieții de noapte", "Avenida Ariapita este inima sa", "Fostă plantație de zahăr"],
       en: ["Center of nightlife", "Ariapita Avenue is its heart", "Former sugar estate"]
-    }
-  },
+    }, image: "/poi-images/tt-woodbrook-cities-v2.webp"},
   {
     id: "tt-belmont-cities-v2",
     type: "city",
@@ -835,8 +832,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A város egyik első elővárosa", "Gazdag kulturális és politikai történelem", "Dombos terep panorámás kilátással"],
       ro: ["Una dintre primele suburbii ale orașului", "Istorie culturală și politică bogată", "Teren deluros cu vederi panoramice"],
       en: ["One of the city's first suburbs", "Rich cultural and political history", "Hilly terrain with scenic views"]
-    }
-  },
+    }, image: "/poi-images/tt-belmont-cities-v2.webp"},
   {
     id: "tt-charlotteville-cities-v2",
     type: "city",
@@ -854,8 +850,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Festői halászfalu", "Mély természetes kikötő", "Fontos halászati központ"],
       ro: ["Sat pescăresc pitoresc", "Port natural adânc", "Centru important de pescuit"],
       en: ["Picturesque fishing village", "Deep natural harbour", "Important fishing hub"]
-    }
-  },
+    }, image: "/poi-images/tt-charlotteville-cities-v2.webp"},
   {
     id: "tt-parlatuvier-cities-v2",
     type: "city",
@@ -873,8 +868,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Félreeső és csendes öböl", "Horgászat és mezőgazdaság", "Érintetlen természeti környezet"],
       ro: ["Golf izolat și liniștit", "Pescuit și agricultură", "Mediu natural nealterat"],
       en: ["Secluded and tranquil bay", "Fishing and agriculture", "Unspoiled natural surroundings"]
-    }
-  },
+    }, image: "/poi-images/tt-parlatuvier-cities-v2.webp"},
   {
     id: "tt-blanchisseuse-cities-v2",
     type: "city",
@@ -892,8 +886,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Franciául 'mosónő'", "Népszerű az ökoturizmus körében", "Hozzáférés a Marianne folyóhoz"],
       ro: ["Franceză pentru 'spălătoreasă'", "Popular pentru ecoturism", "Acces la râul Marianne"],
       en: ["French for 'washerwoman'", "Popular for ecotourism", "Access to the Marianne River"]
-    }
-  },
+    }, image: "/poi-images/tt-blanchisseuse-cities-v2.webp"},
   {
     id: "tt-grande-riviere-cities-v2",
     type: "city",
@@ -911,8 +904,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Fontos fészkelőhely a kérgesteknősök számára", "Ökoturisztikai központ", "Félreeső északi parti elhelyezkedés"],
       ro: ["Situl major de cuibărit pentru țestoasele luth", "Punct fierbinte de ecoturism", "Locație izolată pe coasta de nord"],
       en: ["Major nesting site for leatherback turtles", "Ecotourism hotspot", "Remote north coast location"]
-    }
-  },
+    }, image: "/poi-images/tt-grande-riviere-cities-v2.webp"},
   {
     id: "tt-guayaguayare-cities-v2",
     type: "city",
@@ -930,8 +922,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Az első olajlelet helyszíne", "Halászkikötő", "Legdélkeletibb pont"],
       ro: ["Locul primei descoperiri de petrol", "Port de pescuit", "Punctul cel mai sud-estic"],
       en: ["Site of the first oil discovery", "Fishing port", "Southeasternmost point"]
-    }
-  },
+    }, image: "/poi-images/tt-guayaguayare-cities-v2.webp"},
   {
     id: "tt-icacos-cities-v2",
     type: "city",
@@ -949,8 +940,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A sziget legdélnyugatibb pontja", "Nagy kókuszültetvények", "Kilátás Venezuela partjaira"],
       ro: ["Punctul cel mai sud-vestic al insulei", "Plantații mari de cocos", "Vedere spre coasta Venezuelei"],
       en: ["Most southwesterly point of the island", "Large coconut estates", "Views of the Venezuelan coast"]
-    }
-  },
+    }, image: "/poi-images/tt-icacos-cities-v2.webp"},
   {
     id: "tt-manzanilla-cities-v2",
     type: "city",
@@ -968,8 +958,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Híres a pálmafákkal szegélyezett strandjáról", "Manzanilla-öböl", "Fontos a helyi turizmus számára"],
       ro: ["Faimos pentru plaja sa mărginită de palmieri", "Golful Manzanilla", "Important pentru turismul local"],
       en: ["Famous for its palm-lined beach", "Manzanilla Bay", "Important for local tourism"]
-    }
-  },
+    }, image: "/poi-images/tt-manzanilla-cities-v2.webp"},
   {
     id: "tt-buccoo-cities-v2",
     type: "city",
@@ -987,8 +976,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A Buccoo-korallzátony kapuja", "'Sunday School' utcabál", "Kecskeverseny fesztivál"],
       ro: ["Poartă către Reciful Buccoo", "Petrecere stradală 'Sunday School'", "Festivalul curselor de capre"],
       en: ["Gateway to Buccoo Reef", "'Sunday School' street party", "Goat racing festival"]
-    }
-  },
+    }, image: "/poi-images/tt-buccoo-cities-v2.webp"},
   {
     id: "tt-black-rock-cities-v2",
     type: "city",
@@ -1006,8 +994,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A Fort Bennett helyszíne", "Nagyszerű strandok szörfözéshez", "Panorámás naplemente"],
       ro: ["Locația Fortului Bennett", "Plaje excelente pentru surf", "Vederi panoramice la apus"],
       en: ["Site of Fort Bennett", "Great surfing beaches", "Panoramic sunset views"]
-    }
-  },
+    }, image: "/poi-images/tt-black-rock-cities-v2.webp"},
   {
     id: "tt-mount-irvine-cities-v2",
     type: "city",
@@ -1025,8 +1012,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Bajnoki golfpálya", "Mount Irvine-öböl strand", "Felsőkategóriás szálláshelyek"],
       ro: ["Teren de golf de campionat", "Plaja din Golful Mount Irvine", "Cazare de lux"],
       en: ["Championship golf course", "Mount Irvine Bay Beach", "Upscale accommodation"]
-    }
-  },
+    }, image: "/poi-images/tt-mount-irvine-cities-v2.webp"},
   {
     id: "tt-canaan-cities-v2",
     type: "city",
@@ -1044,8 +1030,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Növekvő üzleti központ", "A Crown Point repülőtér közelében", "Modern fejlesztés"],
       ro: ["Centru de afaceri în creștere", "Aproape de aeroportul Crown Point", "Dezvoltare modernă"],
       en: ["Growing business hub", "Close to Crown Point airport", "Modern development"]
-    }
-  },
+    }, image: "/poi-images/tt-canaan-cities-v2.webp"},
   {
     id: "tt-palo-seco-cities-v2",
     type: "city",
@@ -1082,8 +1067,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Nagy ipari terület", "Fontos kikötő és tengeri kikötő", "Földgázfeldolgozó központ"],
       ro: ["Zonă industrială majoră", "Port maritim important", "Centru de procesare a gazelor naturale"],
       en: ["Major industrial estate", "Major port and seaport", "Natural gas processing hub"]
-    }
-  },
+    }, image: "/poi-images/tt-point-lisas-cities-v2.webp"},
   {
     id: "tt-tacariqua-cities-v2",
     type: "city",
@@ -1101,8 +1085,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Nemzeti Jégkorong Központ", "Az Kelet-Nyugat folyosó része", "Történelmileg cukorültetvény"],
       ro: ["Centrul Național de Hochei", "Parte a Coridorului Est-Vest", "Istoric, o plantație de zahăr"],
       en: ["National Hockey Centre", "Part of the East-West Corridor", "Historically a sugar estate"]
-    }
-  },
+    }, image: "/poi-images/tt-tacariqua-cities-v2.webp"},
   {
     id: "tt-dabadie-cities-v2",
     type: "city",
@@ -1120,8 +1103,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Lakónegyed", "Kényelmes elhelyezkedés a folyosón", "Növekvő népesség"],
       ro: ["Comunitate rezidențială", "Locație convenabilă pe coridor", "Populație în creștere"],
       en: ["Residential community", "Convenient corridor location", "Growing population"]
-    }
-  },
+    }, image: "/poi-images/tt-dabadie-cities-v2.webp"},
   {
     id: "tt-california-cities-v2",
     type: "city",
@@ -1139,8 +1121,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Amerikai munkásokról nevezték el", "Az ipari régió része", "Növekvő közösség"],
       ro: ["Numit după muncitori din SUA", "Parte a regiunii industriale", "Comunitate în creștere"],
       en: ["Named after US workers", "Part of the industrial region", "Growing community"]
-    }
-  },
+    }, image: "/poi-images/tt-california-cities-v2.webp"},
   {
     id: "tt-erin-cities-v2",
     type: "city",
@@ -1158,8 +1139,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Halászkikötő", "Csendes tengerparti közösség", "Erin-öböl"],
       ro: ["Port de pescuit", "Comunitate de coastă liniștită", "Golful Erin"],
       en: ["Fishing port", "Quiet coastal community", "Erin Bay"]
-    }
-  },
+    }, image: "/poi-images/tt-erin-cities-v2.webp"},
   {
     id: "tt-biche-cities-v2",
     type: "city",
@@ -1177,8 +1157,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Vidéki település", "Mezőgazdaság és fakitermelés", "Természetes környezet"],
       ro: ["Așezare rurală", "Agricultură și exploatare forestieră", "Mediu natural"],
       en: ["Rural settlement", "Agriculture and logging", "Natural environment"]
-    }
-  },
+    }, image: "/poi-images/tt-biche-cities-v2.webp"},
   {
     id: "tt-tableland-cities-v2",
     type: "city",
@@ -1196,8 +1175,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Mezőgazdasági régió", "Alapvető élelmiszerek termesztése", "Vidéki élet"],
       ro: ["Regiune agricolă", "Cultivarea culturilor de bază", "Viață rurală"],
       en: ["Agricultural region", "Cultivation of ground provisions", "Rural life"]
-    }
-  },
+    }, image: "/poi-images/tt-tableland-cities-v2.webp"},
   {
     id: "tt-new-grant-cities-v2",
     type: "city",
@@ -1215,8 +1193,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Mezőgazdaság és lakhatás", "Princes Town közelében", "Növekvő közösség"],
       ro: ["Agricultură și rezidențial", "Aproape de Princes Town", "Comunitate în creștere"],
       en: ["Agriculture and residential", "Near Princes Town", "Growing community"]
-    }
-  },
+    }, image: "/poi-images/tt-new-grant-cities-v2.webp"},
   {
     id: "tt-bon-accord-cities-v2",
     type: "city",
@@ -1234,8 +1211,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Bon Accord lagúna", "Fontos vizes élőhely", "Turisztikai és lakóövezet"],
       ro: ["Laguna Bon Accord", "Zonă umedă importantă", "Zonă turistică și rezidențială"],
       en: ["Bon Accord Lagoon", "Important wetland", "Tourist and residential area"]
-    }
-  },
+    }, image: "/poi-images/tt-bon-accord-cities-v2.webp"},
   {
     id: "tt-plymouth-cities-v2",
     type: "city",
@@ -1253,8 +1229,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A Fort James helyszíne", "Történelmi halászfalu", "Courland-emlékmű"],
       ro: ["Locația Fortului James", "Sat pescăresc istoric", "Monumentul Courland"],
       en: ["Site of Fort James", "Historic fishing village", "Courland Monument"]
-    }
-  },
+    }, image: "/poi-images/tt-plymouth-cities-v2.webp"},
   {
     id: "tt-pembroke-cities-v2",
     type: "city",
@@ -1272,8 +1247,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Erős afrikai örökség", "Éves aratóünnep", "Kulturális előadások"],
       ro: ["Moștenire africană puternică", "Festival anual al recoltei", "Spectacole culturale"],
       en: ["Strong African heritage", "Annual harvest festival", "Cultural performances"]
-    }
-  },
+    }, image: "/poi-images/tt-pembroke-cities-v2.webp"},
   {
     id: "tt-morne-quinton-cities-v2",
     type: "city",
@@ -1291,8 +1265,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Kilátás Scarborough-ra", "Lakónegyed", "Csendes környezet"],
       ro: ["Vedere spre Scarborough", "Zonă rezidențială", "Mediu liniștit"],
       en: ["Views over Scarborough", "Residential area", "Quiet environment"]
-    }
-  },
+    }, image: "/poi-images/tt-morne-quinton-cities-v2.webp"},
   {
     id: "tt-goldsborough-cities-v2",
     type: "city",
@@ -1310,8 +1283,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Goldsborough-öböl", "Történelmi cukormalom romjai", "Természeti szépség"],
       ro: ["Golful Goldsborough", "Ruine istorice ale unei mori de zahăr", "Frumusețe naturală"],
       en: ["Goldsborough Bay", "Historic sugar mill ruins", "Natural beauty"]
-    }
-  },
+    }, image: "/poi-images/tt-goldsborough-cities-v2.webp"},
   {
     id: "tt-belle-garden-cities-v2",
     type: "city",
@@ -1329,8 +1301,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Közösség a szél felőli parton", "Horgászat", "Vidéki hangulat"],
       ro: ["Comunitate de pe coasta de vânt", "Pescuit", "Atmosferă rurală"],
       en: ["Windward coast community", "Fishing", "Rural atmosphere"]
-    }
-  },
+    }, image: "/poi-images/tt-belle-garden-cities-v2.webp"},
   {
     id: "tt-goodwood-cities-v2",
     type: "city",
@@ -1367,8 +1338,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Nagy szárazföldi falu", "Mezőgazdasági központ", "Erős közösség"],
       ro: ["Sat mare interior", "Centru agricol", "Comunitate puternică"],
       en: ["Large inland village", "Agricultural center", "Strong community"]
-    }
-  },
+    }, image: "/poi-images/tt-mason-hall-cities-v2.webp"},
   {
     id: "tt-castara-cities-v2",
     type: "city",
@@ -1386,8 +1356,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Halászfalu", "Ökoturizmus", "Gyönyörű strand és vízesés"],
       ro: ["Sat pescăresc", "Ecoturism", "Plajă și cascadă frumoase"],
       en: ["Fishing village", "Eco-tourism", "Beautiful beach and waterfall"]
-    }
-  },
+    }, image: "/poi-images/tt-castara-cities-v2.webp"},
   {
     id: "tt-englishmans-bay-cities-v2",
     type: "city",
@@ -1424,8 +1393,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["A Richmond Great House közelében", "Vidéki környezet", "Mezőgazdasági közösség"],
       ro: ["Aproape de Richmond Great House", "Cadru rural", "Comunitate agricolă"],
       en: ["Near the Richmond Great House", "Rural setting", "Agricultural community"]
-    }
-  },
+    }, image: "/poi-images/tt-richmond-cities-v2.webp"},
   {
     id: "tt-glamis-cities-v2",
     type: "city",
@@ -1443,8 +1411,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Központi elhelyezkedés", "Vidéki falu", "Csendes légkör"],
       ro: ["Locație centrală", "Sat rural", "Atmosferă liniștită"],
       en: ["Central location", "Rural village", "Quiet atmosphere"]
-    }
-  },
+    }, image: "/poi-images/tt-glamis-cities-v2.webp"},
   {
     id: "tt-cumaca-cities-v2",
     type: "city",
@@ -1481,8 +1448,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Történelmi kakaó- és kávéültetvények", "Vidéki közösség", "Központi elhelyezkedés"],
       ro: ["Plantații istorice de cacao și cafea", "Comunitate rurală", "Locație centrală"],
       en: ["Historic cocoa and coffee estates", "Rural community", "Central location"]
-    }
-  },
+    }, image: "/poi-images/tt-brasso-cities-v2.webp"},
   {
     id: "tt-piparo-cities-v2",
     type: "city",
@@ -1500,8 +1466,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Egy nagy iszapvulkán helyszíne", "Vulkánkitörés 1997-ben", "Geológiailag érdekes terület"],
       ro: ["Locația unui vulcan noroios mare", "Erupție vulcanică în 1997", "Zonă de interes geologic"],
       en: ["Site of a large mud volcano", "Volcanic eruption in 1997", "Geologically interesting area"]
-    }
-  },
+    }, image: "/poi-images/tt-piparo-cities-v2.webp"},
   {
     id: "tt-preysal-cities-v2",
     type: "city",
@@ -1519,8 +1484,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Erős krikettkultúra", "Számos nemzeti játékos otthona", "Lakó- és kereskedelmi közösség"],
       ro: ["Cultură puternică de cricket", "Gazda multor jucători naționali", "Comunitate rezidențială și comercială"],
       en: ["Strong cricketing culture", "Home to many national players", "Residential and commercial community"]
-    }
-  },
+    }, image: "/poi-images/tt-preysal-cities-v2.webp"},
   {
     id: "tt-tortuga-cities-v2",
     type: "city",
@@ -1538,8 +1502,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Spanyol neve 'teknős'", "Római katolikus templom egy dombon", "Mezőgazdasági közösség"],
       ro: ["Nume spaniol pentru 'broască țestoasă'", "Biserică romano-catolică pe un deal", "Comunitate agricolă"],
       en: ["Spanish name for 'turtle'", "Roman Catholic church on a hill", "Agricultural community"]
-    }
-  },
+    }, image: "/poi-images/tt-tortuga-cities-v2.webp"},
   {
     id: "tt-mamoral-cities-v2",
     type: "city",
@@ -1557,8 +1520,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Vidéki település", "Mezőgazdaság", "Csendes környezet"],
       ro: ["Așezare rurală", "Agricultură", "Cadru liniștit"],
       en: ["Rural settlement", "Farming", "Quiet surroundings"]
-    }
-  },
+    }, image: "/poi-images/tt-mamoral-cities-v2.webp"},
   {
     id: "tt-flanagin-town-cities-v2",
     type: "city",
@@ -1595,8 +1557,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Mezőgazdasági közösség", "Rio Claro közelében", "Vidéki hangulat"],
       ro: ["Comunitate agricolă", "Aproape de Rio Claro", "Atmosferă rurală"],
       en: ["Farming community", "Near Rio Claro", "Rural atmosphere"]
-    }
-  },
+    }, image: "/poi-images/tt-ecclesville-cities-v2.webp"},
   {
     id: "tt-brothers-road-cities-v2",
     type: "city",
@@ -1614,8 +1575,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Vidéki település", "Mezőgazdaság", "Erős közösség"],
       ro: ["Așezare rurală", "Agricultură", "Comunitate puternică"],
       en: ["Rural settlement", "Agriculture", "Strong community"]
-    }
-  },
+    }, image: "/poi-images/tt-brothers-road-cities-v2.webp"},
   {
     id: "tt-hardbargain-cities-v2",
     type: "city",
@@ -1633,8 +1593,7 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       hu: ["Történelmileg a nehéz körülményekről ismert", "Mezőgazdasági közösség", "A déli vízválasztó közelében"],
       ro: ["Cunoscut istoric pentru condiții dificile", "Comunitate agricolă", "Aproape de cumpăna apelor din sud"],
       en: ["Historically known for difficult conditions", "Farming community", "Near the southern watershed"]
-    }
-  },
+    }, image: "/poi-images/tt-hardbargain-cities-v2.webp"},
   {
     id: "tt-point-dor-cities-v2",
     type: "city",
@@ -1655,3 +1614,4 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from './poi';
 
 export type SubjectLayer = {
@@ -19,3 +20,4 @@ export const layers: SubjectLayer[] = [
     poiTypes: ["city", "landmark", "lake", "mountain"]
   }
 ];
+

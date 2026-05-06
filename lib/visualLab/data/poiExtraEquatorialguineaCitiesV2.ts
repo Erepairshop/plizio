@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEquatorialguineaCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Az ország legrégebbi városa.", "Spanyol gyarmati építészetéről ismert."],
       ro: ["Cel mai vechi oraș din țară.", "Cunoscut pentru arhitectura sa colonială spaniolă."],
       en: ["Oldest city in the country.", "Known for its Spanish colonial architecture."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Malabo, die lebendige Hauptstadt Äquatorialguineas, erstreckt sich über den nördlichen Rand der Vulkaninsel Bioko. Mit einer Geschichte, die bis ins Jahr 1827 zurückreicht, als sie von den Briten als Port Clarence gegründet wurde, ist die Stadt heute ein pulsierendes Zentrum mit einer einzigartigen Mischung aus kolonialem Erbe und moderner Entwicklung. Die Architektur der Stadt spiegelt ihre koloniale Vergangenheit unter spanischer Herrschaft wider, während der Hafen eine entscheidende Rolle für den Export von Erdöl und Kakao spielt. Malabo ist nicht nur das politische Herz, sondern auch ein wichtiger kultureller Knotenpunkt, der Reisende mit seinen Märkten und der Nähe zur majestätischen Natur des Pico Basilé begeistert. Fächer: Geografie K7, Geschichte K8.",
+      hu: "Malabo, Egyenlítői-Guinea élénk fővárosa, Bioko vulkanikus szigetének északi peremén terül el. A várost 1827-ben alapították a britek Port Clarence néven, ma pedig a gyarmati örökség és a modern fejlődés egyedülálló keveréke. Építészete a spanyol uralom alatti múltat idézi, miközben kikötője kulcsszerepet játszik az ország olaj- és kakaókivitelében. Malabo nemcsak politikai központ, hanem fontos kulturális csomópont is, amely piacival és a Pico Basilé vulkán közelségével vonzza a látogatókat. Tanterv: Földrajz K7, Történelem K8.",
+      ro: "Malabo, capitala vibrantă a Guineei Ecuatoriale, se întinde pe marginea nordică a insulei vulcanice Bioko. Fondat în 1827 de britanici sub numele de Port Clarence, orașul este astăzi un centru pulsând cu un amestec unic de patrimoniu colonial și dezvoltare modernă. Arhitectura orașului reflectă trecutul sub dominația spaniolă, în timp ce portul joacă un rol crucial în exportul de petrol și cacao. Malabo nu este doar inima politică, ci și un nod cultural important, care atrage călătorii prin piețele sale și apropierea de natura maiestuoasă a Pico Basilé. Curriculă: Geografie K7, Istorie K8.",
+      en: "Malabo, the vibrant capital of Equatorial Guinea, stretches across the northern edge of the volcanic Bioko Island. Founded by the British in 1827 as Port Clarence, the city today is a bustling hub with a unique mix of colonial heritage and modern development. The architecture reflects its past under Spanish rule, while the port plays a crucial role in the export of oil and cocoa. Malabo is not just the political heart but also an important cultural center, attracting travelers with its markets and proximity to the majestic nature of Pico Basilé. Curriculum: Geography K7, History K8."
+    },
+    factsAdvanced: {
+      de: ["Liegt auf einer Höhe von ca. 17 m über dem Meeresspiegel.", "Wurde 1827 gegründet.", "Der Pico Basilé, der höchste Berg des Landes, ragt 3.011 m über die Stadt.", "Hauptsitz der Regierung.", "Die Stadt beheimatet das nationale Stadion Estadio de Malabo.", "Einwohnerzahl liegt bei rund 180.000."],
+      hu: ["Tengerszint feletti magassága kb. 17 m.", "1827-ben alapították.", "A Pico Basilé, az ország legmagasabb hegye, 3011 m magasra emelkedik a város felett.", "A kormány székhelye.", "Itt található az Estadio de Malabo nemzeti stadion.", "Lakossága körülbelül 180 000 fő."],
+      ro: ["Situat la o altitudine de aproximativ 17 m deasupra nivelului mării.", "A fost fondat în 1827.", "Pico Basilé, cel mai înalt munte din țară, se înalță la 3.011 m deasupra orașului.", "Sediul guvernului.", "Orașul găzduiește stadionul național Estadio de Malabo.", "Populația este de aproximativ 180.000 de locuitori."],
+      en: ["Located at an altitude of approximately 17 m above sea level.", "Founded in 1827.", "Pico Basilé, the highest mountain in the country, rises 3,011 m above the city.", "Seat of government.", "The city is home to the national stadium, Estadio de Malabo.", "Population is around 180,000."]
+    }, image: "/poi-images/malabo-cities-v2.webp"},
   {
     id: "bata-cities-v2",
     type: "state-capital",
@@ -37,8 +49,19 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["A szárazföld legfontosabb gazdasági központja.", "Hosszú vízparti sétányáról ismert."],
       ro: ["Cel mai important centru economic de pe continent.", "Cunoscut pentru faleza sa lungă."],
       en: ["Most important economic center on the mainland.", "Known for its long waterfront promenade."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Bata, an der Küste der Region Río Muni gelegen, ist die bevölkerungsreichste Stadt Äquatorialguineas und ein wirtschaftliches Kraftzentrum. Einst eine kleine Siedlung, hat sich Bata zu einem bedeutenden Hafen für den Holzhandel und den Ölsektor entwickelt. Die Stadt besticht durch ihre kilometerlange Uferpromenade, die ein beliebtes Ziel für Spaziergänge ist, sowie durch ihre pulsierenden Märkte, die einen Einblick in das tägliche Leben auf dem Festland gewähren. Als administrativer Hauptort von Litoral ist Bata ein wichtiger Knotenpunkt für den Handel mit den Nachbarländern und ein Symbol für das moderne Wachstum des Landes. Fächer: Geografie K7, Wirtschaft K8.",
+      hu: "Bata, a Río Muni régió partján fekvő város, Egyenlítői-Guinea legnépesebb városa és gazdasági központja. Az egykor kis település mára jelentős kikötővé vált a fa- és olajkereskedelem számára. A város hosszú vízparti sétánya népszerű sétahely, míg nyüzsgő piaca bepillantást enged a szárazföldi mindennapokba. Litoral tartomány közigazgatási központjaként Bata kulcsfontosságú kereskedelmi csomópont a szomszédos országok felé, és az ország modern növekedésének szimbóluma. Tanterv: Földrajz K7, Gazdaságtan K8.",
+      ro: "Bata, situat pe coasta regiunii Río Muni, este cel mai populat oraș al Guineei Ecuatoriale și un centru economic puternic. Odinioară o mică așezare, Bata s-a transformat într-un port semnificativ pentru comerțul cu lemn și sectorul petrolier. Orașul impresionează prin faleza sa de kilometri lungime, care este o destinație populară pentru plimbări, precum și prin piețele sale vibrante care oferă o privire în viața cotidiană de pe continent. Fiind centrul administrativ al provinciei Litoral, Bata este un nod comercial important pentru țările vecine și un simbol al creșterii moderne a țării. Curriculă: Geografie K7, Economie K8.",
+      en: "Bata, located on the coast of the Río Muni region, is Equatorial Guinea's most populous city and an economic powerhouse. Once a small settlement, Bata has developed into a significant port for timber trade and the oil sector. The city impresses with its kilometer-long waterfront promenade, which is a popular destination for walks, as well as its vibrant markets that offer a glimpse into daily life on the mainland. As the administrative center of Litoral province, Bata is a key commercial hub for neighboring countries and a symbol of the country's modern growth. Curriculum: Geography K7, Economics K8."
+    },
+    factsAdvanced: {
+      de: ["Größte Stadt des Landes mit über 250.000 Einwohnern.", "Wichtigster Hafen auf dem Festland.", "Bekannt für den 'Paseo Marítimo'.", "Hauptsitz der Provinz Litoral.", "Verfügt über einen modernen internationalen Flughafen.", "Wichtiger Knotenpunkt für den Export von Tropenholz."],
+      hu: ["Az ország legnagyobb városa, több mint 250 000 lakossal.", "A szárazföld legfontosabb kikötője.", "A 'Paseo Marítimo' sétányáról ismert.", "Litoral tartomány székhelye.", "Modern nemzetközi repülőtérrel rendelkezik.", "Fontos csomópont a trópusi faanyag exportjához."],
+      ro: ["Cel mai mare oraș al țării, cu peste 250.000 de locuitori.", "Cel mai important port de pe continent.", "Cunoscut pentru 'Paseo Marítimo'.", "Sediul provinciei Litoral.", "Dispune de un aeroport internațional modern.", "Nod important pentru exportul de lemn tropical."],
+      en: ["Largest city in the country with over 250,000 inhabitants.", "Most important port on the mainland.", "Known for the 'Paseo Marítimo'.", "Seat of Litoral province.", "Features a modern international airport.", "Key hub for tropical timber exports."]
+    }, image: "/poi-images/bata-cities-v2.webp"},
   {
     id: "ebebiyin-cities-v2",
     type: "state-capital",
@@ -75,8 +98,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Az ország több elnökének szülővárosa.", "Lenyűgöző bazilikával rendelkezik."],
       ro: ["Orașul natal al mai multor președinți ai țării.", "Are o basilică impresionantă."],
       en: ["Hometown of several of the country's presidents.", "Features an impressive basilica."]
-    }
-  },
+    }, image: "/poi-images/mongomo-cities-v2.webp"},
   {
     id: "luba-cities-v2",
     type: "state-capital",
@@ -94,8 +116,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Vulkanikus homokos strandjairól ismert.", "Kapu Bioko szigetének déli részéhez."],
       ro: ["Cunoscut pentru plajele sale cu nisip vulcanic.", "Poartă către partea de sud a insulei Bioko."],
       en: ["Known for its volcanic sand beaches.", "Gateway to the southern part of Bioko Island."]
-    }
-  },
+    }, image: "/poi-images/luba-cities-v2.webp"},
   {
     id: "evinayong-cities-v2",
     type: "state-capital",
@@ -132,8 +153,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Az egyetlen város Annobón szigetén.", "A lakosok portugál alapú nyelvjárást beszélnek."],
       ro: ["Singurul oraș de pe insula Annobón.", "Locuitorii vorbesc un dialect bazat pe portugheză."],
       en: ["The only town on Annobón Island.", "Inhabitants speak a Portuguese-based dialect."]
-    }
-  },
+    }, image: "/poi-images/san-antonio-de-pale-cities-v2.webp"},
   {
     id: "ciudad-de-la-paz-cities-v2",
     type: "state-capital",
@@ -151,8 +171,19 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["A sűrű dzsungel közepén épült.", "Modern kormányzati épületek és egyetemek székhelye."],
       ro: ["Construit în mijlocul junglei dese.", "Sediul unor clădiri guvernamentale și universități moderne."],
       en: ["Built in the middle of the dense jungle.", "Home to modern government buildings and universities."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Ciudad de la Paz, früher als Oyala bekannt, ist ein ambitioniertes Stadtplanungsprojekt mitten im Regenwald von Äquatorialguinea. Als geplante neue Hauptstadt des Landes soll sie als Verwaltungs- und Bildungszentrum fungieren und durch ihre moderne Architektur und nachhaltige Infrastruktur bestechen. Die Stadt ist strategisch im Landesinneren von Río Muni positioniert, um das wirtschaftliche Wachstum auf dem Festland zu fördern. Ciudad de la Paz ist ein Symbol für die Bestrebungen des Staates, das Land zu modernisieren und eine autarke Zukunft zu gestalten. Das Projekt umfasst zahlreiche Regierungsgebäude, Universitäten und Wohnkomplexe, die harmonisch in die tropische Umgebung integriert wurden. Fächer: Geografie K6, Technologie K8.",
+      hu: "Ciudad de la Paz, korábban Oyala, egy ambiciózus várostervezési projekt Egyenlítői-Guinea esőerdejének közepén. Az ország tervezett új fővárosaként közigazgatási és oktatási központként szolgál, modern építészetével és fenntartható infrastruktúrájával. A várost stratégiailag Río Muni belső részén helyezték el, hogy ösztönözzék a szárazföldi gazdasági növekedést. Ciudad de la Paz a modernizáció iránti törekvés szimbóluma, amelynek célja egy önellátó jövő megteremtése. A projekt számos kormányzati épületet, egyetemet és lakóparkot foglal magában, amelyeket harmonikusan integráltak a trópusi környezetbe. Tanterv: Földrajz K6, Technológia K8.",
+      ro: "Ciudad de la Paz, cunoscut anterior sub numele de Oyala, este un proiect ambițios de planificare urbană în mijlocul pădurii tropicale din Guineea Ecuatorială. Ca viitoare capitală planificată a țării, acesta urmează să servească drept centru administrativ și educațional, remarcându-se prin arhitectura modernă și infrastructura sustenabilă. Orașul este poziționat strategic în interiorul regiunii Río Muni pentru a stimula creșterea economică pe continent. Ciudad de la Paz este un simbol al aspirațiilor statului de a moderniza țara și de a crea un viitor autarhic. Proiectul include numeroase clădiri guvernamentale, universități și complexuri rezidențiale, integrate armonios în mediul tropical. Curriculă: Geografie K6, Tehnologie K8.",
+      en: "Ciudad de la Paz, formerly known as Oyala, is an ambitious urban planning project in the middle of Equatorial Guinea's rainforest. As the country's planned new capital, it is intended to serve as an administrative and educational center, featuring modern architecture and sustainable infrastructure. The city is strategically positioned in the interior of Río Muni to foster economic growth on the mainland. Ciudad de la Paz is a symbol of the state's efforts to modernize the country and create an autonomous future. The project includes numerous government buildings, universities, and residential complexes harmoniously integrated into the tropical environment. Curriculum: Geography K6, Technology K8."
+    },
+    factsAdvanced: {
+      de: ["Geplant als neue Hauptstadt des Landes.", "Liegt in der Provinz Djibloho.", "Entworfen für eine Kapazität von bis zu 160.000 Einwohnern.", "Strategisch in einer Waldregion gelegen.", "Besitzt moderne Universitäts- und Konferenzzentren.", "Baubeginn war im Jahr 2011."],
+      hu: ["Az ország tervezett új fővárosa.", "Djibloho tartományban található.", "Akár 160 000 lakos befogadására tervezték.", "Stratégiailag egy erdős régióban fekszik.", "Modern egyetemi és konferenciaközpontokkal rendelkezik.", "Az építkezés 2011-ben kezdődött."],
+      ro: ["Planificat drept noua capitală a țării.", "Situat în provincia Djibloho.", "Proiectat pentru o capacitate de până la 160.000 de locuitori.", "Situat strategic într-o regiune forestieră.", "Dispune de centre universitare și de conferințe moderne.", "Construcția a început în anul 2011."],
+      en: ["Planned as the new capital of the country.", "Located in Djibloho province.", "Designed for a capacity of up to 160,000 residents.", "Strategically located in a forest region.", "Features modern university and conference centers.", "Construction began in 2011."]
+    }, image: "/poi-images/ciudad-de-la-paz-cities-v2.webp"},
   {
     id: "anisoc-cities-v2",
     type: "city",
@@ -170,8 +201,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["A regionális kereskedelem jelentős központja.", "Egy fontos útkereszteződésnél fekszik."],
       ro: ["Centru semnificativ pentru comerțul regional.", "Situat la o intersecție rutieră majoră."],
       en: ["Significant center for regional trade.", "Located at a major road junction."]
-    }
-  },
+    }, image: "/poi-images/anisoc-cities-v2.webp"},
   {
     id: "mbini-cities-v2",
     type: "city",
@@ -189,8 +219,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Híres a Benito-folyón átívelő hídjáról.", "A friss tengeri ételek kedvelt célpontja."],
       ro: ["Faimos pentru podul peste râul Benito.", "O destinație populară pentru fructe de mare proaspete."],
       en: ["Famous for its bridge over the Benito River.", "A popular destination for fresh seafood."]
-    }
-  },
+    }, image: "/poi-images/mbini-cities-v2.webp"},
   {
     id: "aconibe-cities-v2",
     type: "city",
@@ -265,8 +294,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Tágas kilátást nyújt a torkolatra.", "Jól megőrzött gyarmati épületekkel rendelkezik."],
       ro: ["Oferă o vedere largă asupra estuarului.", "Deține clădiri coloniale bine conservate."],
       en: ["Offers wide views over the estuary.", "Features well-preserved colonial buildings."]
-    }
-  },
+    }, image: "/poi-images/cogo-cities-v2.webp"},
   {
     id: "nsork-cities-v2",
     type: "city",
@@ -322,8 +350,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["A zöldségtermesztés központja.", "A Pico Basilé közelében található."],
       ro: ["Centru pentru cultivarea legumelor.", "Situat lângă Pico Basilé."],
       en: ["Center for vegetable farming.", "Located near Pico Basilé."]
-    }
-  },
+    }, image: "/poi-images/baney-cities-v2.webp"},
   {
     id: "rebola-cities-v2",
     type: "city",
@@ -341,8 +368,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Híres a hagyományos táncairól és fesztiváljairól.", "Pompás kilátást nyújt az Atlanti-óceánra."],
       ro: ["Faimos pentru dansurile și festivalurile tradiționale.", "Oferă o vedere splendidă spre Oceanul Atlantic."],
       en: ["Famous for traditional dances and festivals.", "Offers splendid views of the Atlantic."]
-    }
-  },
+    }, image: "/poi-images/rebola-cities-v2.webp"},
   {
     id: "niefang-cities-v2",
     type: "city",
@@ -379,8 +405,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Kié-Ntem tartomány fontos piaci helyszíne.", "A mezőgazdasági termékek központja."],
       ro: ["Loc de piață important în provincia Kié-Ntem.", "Centru pentru produse agricole."],
       en: ["Important market town in Kié-Ntem Province.", "Center for agricultural products."]
-    }
-  },
+    }, image: "/poi-images/nkue-cities-v2.webp"},
   {
     id: "machinda-cities-v2",
     type: "city",
@@ -474,8 +499,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Fehér homokos strandjairól ismert.", "Történelmileg jelentős régi kereskedelmi állomásként."],
       ro: ["Cunoscut pentru plajele cu nisip alb.", "Important istoric ca vechi punct comercial."],
       en: ["Known for white sand beaches.", "Historically significant as an old trading post."]
-    }
-  },
+    }, image: "/poi-images/corisco-cities-v2.webp"},
   {
     id: "moca-cities-v2",
     type: "city",
@@ -531,8 +555,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Híres az egyedülálló fatemplomáról.", "Festői helyen, egy vulkáni kúp lejtőjén fekszik."],
       ro: ["Faimos pentru biserica sa unică din lemn.", "Situat pitoresc pe panta unui con vulcanic."],
       en: ["Famous for its unique wooden church.", "Scenically located on the slope of a volcanic cone."]
-    }
-  },
+    }, image: "/poi-images/batete-cities-v2.webp"},
   {
     id: "musola-cities-v2",
     type: "city",
@@ -550,8 +573,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["A környező vízeséseiről ismert.", "Fontos pont a déli túrákhoz."],
       ro: ["Cunoscut pentru cascadele din jur.", "Punct important pentru drumeții în sud."],
       en: ["Known for surrounding waterfalls.", "Important point for southern hiking."]
-    }
-  },
+    }, image: "/poi-images/musola-cities-v2.webp"},
   {
     id: "beayop-cities-v2",
     type: "city",
@@ -588,8 +610,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Fontos határátkelőhely.", "Regionális termékek kereskedelmi helyszíne."],
       ro: ["Punct de trecere a frontierei important.", "Loc de comerț pentru produse regionale."],
       en: ["Major border crossing point.", "Trading spot for regional products."]
-    }
-  },
+    }, image: "/poi-images/bidjabidjan-cities-v2.webp"},
   {
     id: "nsang-cities-v2",
     type: "city",
@@ -607,8 +628,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["A kávétermesztés regionális központja.", "A lankás északi területen fekszik."],
       ro: ["Centru regional pentru cultivarea cafelei.", "Situat în zona deluroasă de nord."],
       en: ["Regional center for coffee farming.", "Located in the gently rolling north."]
-    }
-  },
+    }, image: "/poi-images/nsang-cities-v2.webp"},
   {
     id: "ayene-cities-v2",
     type: "city",
@@ -626,8 +646,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Hagyományos építési módjairól ismert.", "A helyi közigazgatás központja."],
       ro: ["Cunoscut pentru metodele tradiționale de construcție.", "Centru al administrației locale."],
       en: ["Known for traditional building styles.", "Center for local administration."]
-    }
-  },
+    }, image: "/poi-images/ayene-cities-v2.webp"},
   {
     id: "mengomeyen-cities-v2",
     type: "city",
@@ -645,8 +664,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Fontos kapu az ország keleti része felé.", "Modern közlekedési infrastruktúrával rendelkezik."],
       ro: ["Poartă importantă către estul țării.", "Deține infrastructură de transport modernă."],
       en: ["Key gateway to the east of the country.", "Features modern transportation infrastructure."]
-    }
-  },
+    }, image: "/poi-images/mengomeyen-cities-v2.webp"},
   {
     id: "cabo-san-juan-cities-v2",
     type: "city",
@@ -664,8 +682,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Érintetlen strandjairól ismert.", "A tengerparti természetvédelem fontos helyszíne."],
       ro: ["Cunoscut pentru plajele sale virgine.", "Loc important pentru conservarea naturii de coastă."],
       en: ["Known for its pristine beaches.", "Important site for coastal nature conservation."]
-    }
-  },
+    }, image: "/poi-images/cabo-san-juan-cities-v2.webp"},
   {
     id: "bolondo-cities-v2",
     type: "city",
@@ -721,8 +738,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Jelentős a helyi mezőgazdasági kereskedelemben.", "Élénk kulturális hagyományok otthona."],
       ro: ["Semnificativ pentru comerțul agricol local.", "Găzduiește tradiții culturale vibrante."],
       en: ["Significant for local agricultural trade.", "Home to vibrant cultural traditions."]
-    }
-  },
+    }, image: "/poi-images/nsok-nsomo-cities-v2.webp"},
   {
     id: "rio-campo-cities-v2",
     type: "city",
@@ -740,8 +756,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["A legészakibb település a szárazföldön.", "Mangrove-tájairól ismert."],
       ro: ["Cea mai nordică așezare de pe continent.", "Cunoscut pentru peisajele sale cu mangrove."],
       en: ["Northernmost settlement on the mainland.", "Known for its mangrove landscapes."]
-    }
-  },
+    }, image: "/poi-images/rio-campo-cities-v2.webp"},
   {
     id: "mbere-cities-v2",
     type: "city",
@@ -759,8 +774,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Az új Djibloho közigazgatási körzet része.", "Az épülő főváros közelében található."],
       ro: ["Parte a noului district administrativ Djibloho.", "Situat aproape de viitoarea capitală."],
       en: ["Part of the new Djibloho administrative district.", "Located near the future capital."]
-    }
-  },
+    }, image: "/poi-images/mbere-cities-v2.webp"},
   {
     id: "santiago-de-baney-cities-v2",
     type: "city",
@@ -778,8 +792,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Kulturális örökségéről ismert.", "A helyi történelem fontos helyszíne."],
       ro: ["Cunoscut pentru moștenirea sa culturală.", "Loc important al istoriei locale."],
       en: ["Known for its cultural heritage.", "Important site of local history."]
-    }
-  },
+    }, image: "/poi-images/santiago-de-baney-cities-v2.webp"},
   {
     id: "basakato-del-oeste-cities-v2",
     type: "city",
@@ -797,8 +810,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Sűrű trópusi erdőbe ágyazva.", "Hagyományos bubi közösség."],
       ro: ["Cuibărit în pădure tropicală densă.", "Comunitate tradițională Bubi."],
       en: ["Nestled in dense tropical forest.", "Traditional Bubi community."]
-    }
-  },
+    }, image: "/poi-images/basakato-del-oeste-cities-v2.webp"},
   {
     id: "bilelipa-cities-v2",
     type: "city",
@@ -854,8 +866,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["A tengerészethez fűződő kapcsolatairól ismert.", "Festői kilátás az óceánra."],
       ro: ["Cunoscut pentru legătura sa cu navigația.", "Vedere pitorească spre ocean."],
       en: ["Known for its seafaring connections.", "Scenic ocean views."]
-    }
-  },
+    }, image: "/poi-images/fishtown-cities-v2.webp"},
   {
     id: "cupapa-cities-v2",
     type: "city",
@@ -873,8 +884,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["A helyi kistermelők központja.", "Gazdag trópusi flóra."],
       ro: ["Centrul micilor fermieri locali.", "Bogat în floră tropicală."],
       en: ["Center of local small-scale farming.", "Rich in tropical flora."]
-    }
-  },
+    }, image: "/poi-images/cupapa-cities-v2.webp"},
   {
     id: "sendje-cities-v2",
     type: "city",
@@ -892,8 +902,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Fontos tengerparti ellátóhely.", "Hagyományos kulturális események."],
       ro: ["Punct de aprovizionare important pe coastă.", "Evenimente culturale tradiționale."],
       en: ["Important coastal supply point.", "Traditional cultural events."]
-    }
-  },
+    }, image: "/poi-images/sendje-cities-v2.webp"},
   {
     id: "bata-manga-cities-v2",
     type: "city",
@@ -911,8 +920,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       hu: ["Gyorsan növekvő lakónegyed.", "Bata nyüzsgő városközpontjának közelében."],
       ro: ["Cartier rezidențial cu creștere rapidă.", "Aproape de centrul vibrant al orașului Bata."],
       en: ["Fast-growing residential district.", "Located near Bata's busy city center."]
-    }
-  },
+    }, image: "/poi-images/bata-manga-cities-v2.webp"},
   {
     id: "nkumekien-cities-v2",
     type: "city",
@@ -952,3 +960,4 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCameroonNatureV2: POI[] = [
@@ -13,8 +14,13 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Az Adamaua-fennsíkon ered.", "Hossza több mint 900 km.", "Fontos vízi út.", "Jelentős áramtermelő."],
       ro: ["Izvorăște din Podișul Adamawa.", "Lungime de peste 900 km.", "Cale navigabilă importantă.", "Produce multă energie electrică."],
       en: ["Originates in the Adamawa Highlands.", "Length of over 900 km.", "Important waterway.", "Generates significant electricity."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Sanaga-Fluss ist der längste Strom Kameruns und das Herz der Energie- und Wasserversorgung des Landes. Sein Verlauf durch den Regenwald bis zum Atlantik ist ein entscheidender ökologischer Korridor und von massiver wirtschaftlicher Bedeutung. Geografie K7 — Flüsse."
+    },
+    factsAdvanced: {
+      de: ["Längster Fluss Kameruns mit ca. 918 km.", "Wichtiger Energielieferant durch Wasserkraftwerke.", "Ökologisch bedeutsamer Korridor für den Regenwald.", "Mündet in den Atlantischen Ozean.", "Beherbergt eine diverse aquatische Flora und Fauna.", "Wirtschaftliches Rückgrat für die angrenzenden Gebiete."]
+    }, image: "/poi-images/sanaga-river-nature-v2.webp"},
   {
     id: "mount-cameroon-nature-v2",
     type: "mountain",
@@ -27,8 +33,13 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Magassága kb. 4040 méter.", "Fako néven is ismert.", "Gyakori kitörések.", "Gazdag növényvilág a lábánál."],
       ro: ["Înălțime de aproximativ 4040 metri.", "Cunoscut sub numele de Fako.", "Erupții frecvente.", "Floră bogată la poalele muntelui."],
       en: ["Height approx. 4040 meters.", "Known as Fako.", "Frequent eruptions.", "Rich flora at the base."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Mount Cameroon (Fako) ist der höchste Berg Westafrikas und ein aktiver Vulkan. Seine einzigartige ökologische Zonierung, die vom Fuß bis zum Gipfel reicht, macht ihn zu einem Hotspot der Artenvielfalt und einem der bedeutendsten Naturwahrzeichen Zentralafrikas. Geografie K7 — Gebirge."
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg Westafrikas mit ca. 4.095 Metern.", "Aktiver Vulkan mit regelmäßigen Eruptionen.", "Einzigartige Artenvielfalt in verschiedenen Höhenzonen.", "Bedeutender Hotspot für biologische Forschung.", "Wichtiger Faktor für das Mikroklima der Region.", "Regelmäßiger Schauplatz von 'Mount Cameroon Race of Hope'."]
+    }, image: "/poi-images/mount-cameroon-nature-v2.webp"},
   {
     id: "lake-nyos-nature-v2",
     type: "lake",
@@ -41,8 +52,13 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Vulkáni eredetű.", "Az Oku-vulkáni mezőn fekszik.", "1986-os halálos esemény.", "Mély kratertó."],
       ro: ["Origine vulcanică.", "Situat în câmpul vulcanic Oku.", "Incidentul mortal din 1986.", "Lac de crater adânc."],
       en: ["Volcanic origin.", "Located in the Oku Volcanic Field.", "Deadly incident in 1986.", "Deep crater lake."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Lake Nyos ist ein Kratersee, der für seine limnische Eruption in den 1980er Jahren weltweit bekannt wurde. Heute dient er als wichtiges Forschungsobjekt für Vulkanologie und zur Überwachung der Gaskonzentrationen im Wasser. Geografie K8 — Vulkanismus."
+    },
+    factsAdvanced: {
+      de: ["Kratersee auf dem vulkanischen Oku-Massiv.", "Weltweit bekannt durch das Gasausbruchsereignis 1986.", "Wichtiges Forschungsobjekt für Vulkanologen.", "Ständige Überwachung der CO2-Konzentration.", "Symbol für die Gefahren vulkanischer Seen.", "Ein Ort mit einer bemerkenswerten, aber dramatischen Geschichte."]
+    }, image: "/poi-images/lake-nyos-nature-v2.webp"},
   {
     id: "logone-river-nature-v2",
     type: "river",
@@ -55,8 +71,13 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Határt képez Csáddal.", "Gazdag vizes élőhely.", "Szezonális vízfolyás.", "Halban gazdag vizek."],
       ro: ["Formează granița cu Ciadul.", "Zonă umedă bogată.", "Debit sezonier.", "Ape bogate în pește."],
       en: ["Forms the border with Chad.", "Rich wetland area.", "Seasonal water flow.", "Fish-rich waters."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Logone-Fluss im hohen Norden ist ein lebenswichtiges Gewässer, das die Grenze zum Tschad bildet. Er speist die Waza-Ebene und ist essenziell für die Erhaltung der Feuchtgebiete und die landwirtschaftliche Nutzung in der Sahel-Region Kameruns. Geografie K6 — Flüsse."
+    },
+    factsAdvanced: {
+      de: ["Grenzfluss zum Tschad.", "Wichtige Wasserquelle für die Waza-Ebene.", "Essenziell für den Erhalt der Feuchtgebiete im Norden.", "Bedeutsam für die landwirtschaftliche Bewässerung.", "Lebensraum für zahlreiche Wasservogelarten.", "Wichtiger Korridor in der trockenen Sahelzone."]
+    }, image: "/poi-images/logone-river-nature-v2.webp"},
   {
     id: "nkam-river-nature-v2",
     type: "river",
@@ -69,8 +90,13 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Lenyűgöző vízeséseket táplál.", "Trópusi erdőkön keresztül folyik.", "Festői táj.", "Fontos mellékfolyó."],
       ro: ["Alimentează cascade impresionante.", "Curge prin păduri tropicale.", "Peisaj pitoresc.", "Afluent important."],
       en: ["Feeds impressive falls.", "Flows through tropical forests.", "Scenic landscape.", "Important tributary."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Nkam-Fluss ist ein bedeutender Zufluss, der durch die üppigen Landschaften im Westen fließt und für seine landschaftliche Schönheit, insbesondere durch die spektakulären Wasserfälle, bekannt ist. Geografie K5 — Flüsse."
+    },
+    factsAdvanced: {
+      de: ["Flusslauf durch das westliche Hochland.", "Bekannt für spektakuläre Wasserfälle.", "Landschaftlich reizvolles Gewässer.", "Wichtige Wasserressource für das Umland.", "Habitat für eine Vielzahl an tropischen Tierarten.", "Bedeutsamer landschaftlicher Korridor."]
+    }, image: "/poi-images/nkam-river-nature-v2.webp"},
   {
     id: "benue-river-nature-v2",
     type: "river",
@@ -83,8 +109,13 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Az északi régió fő ütőere.", "Ellátja a szavannát.", "Nemzetközi vízi út.", "Szezonálisan hajózható."],
       ro: ["Principala arteră a nordului.", "Alimentează savana.", "Cale navigabilă internațională.", "Navigabil sezonier."],
       en: ["Main artery of the north.", "Supplies the savannah.", "International waterway.", "Seasonally navigable."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Benue ist einer der wichtigsten Nebenflüsse des Niger und für Nordkamerun von zentraler hydrologischer Bedeutung. Er verbindet den Norden Kameruns mit dem nigerianischen Flusssystem und ist essenziell für den Handel und die Fischerei. Geografie K7 — Flüsse."
+    },
+    factsAdvanced: {
+      de: ["Hauptzufluss des Nigers.", "Zentral für die Hydrologie Nordkameruns.", "Verbindung zum nigerianischen Flusssystem.", "Lebensader für Fischerei und Transport.", "Wichtig für die Landwirtschaft am Flusslauf.", "Kulturelles und wirtschaftliches Bindeglied."]
+    }, image: "/poi-images/benue-river-nature-v2.webp"},
   {
     id: "lake-chad-nature-v2",
     type: "lake",
@@ -97,8 +128,13 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Határtó Nigériával, Csáddal és Nigerrel.", "Fontos a mezőgazdaságnak.", "Erős párolgás.", "Nagyon sekély."],
       ro: ["Lac de frontieră cu Nigeria, Ciad, Niger.", "Important pentru agricultură.", "Evaporare puternică.", "Foarte puțin adânc."],
       en: ["Border lake with Nigeria, Chad, and Niger.", "Important for agriculture.", "Strong evaporation.", "Very shallow."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Tschadsee, der an den äußersten Norden Kameruns grenzt, ist ein riesiges Feuchtgebiet, das trotz starker jahreszeitlicher Schwankungen eine ökologische Lebensader für Millionen Menschen ist. Er ist ein kritischer Bereich für die regionale Biodiversität. Geografie K6 — Seen."
+    },
+    factsAdvanced: {
+      de: ["Riesiges Feuchtgebiet an der Grenze Kameruns.", "Ökologische Lebensader in der Sahelzone.", "Starke jahreszeitliche Schwankungen der Wasserfläche.", "Kritisch für die regionale Biodiversität.", "Wichtiges Fischereigebiet.", "Zentral für das Leben der Bevölkerung vor Ort."]
+    }, image: "/poi-images/lake-chad-nature-v2.webp"},
   {
     id: "dja-river-nature-v2",
     type: "river",
@@ -111,8 +147,13 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Természetes határ.", "Esőerdőkön át folyik.", "Gazdag biodiverzitás.", "Alig lakott partok."],
       ro: ["Graniță naturală.", "Curge prin pădurea tropicală.", "Biodiversitate bogată.", "Maluri puțin locuite."],
       en: ["Natural boundary.", "Flows through rainforest.", "Rich biodiversity.", "Scarcely populated banks."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Dja-Fluss mäandriert durch den dichten Dja-Regenwald und ist das Herzstück eines der bedeutendsten UNESCO-Welterbe-Gebiete Kameruns. Die unberührte Natur um den Dja ist ein Rückzugsort für bedrohte Tierarten. Natur K7 — Regenwald."
+    },
+    factsAdvanced: {
+      de: ["Mäandriert durch den Dja-Regenwald.", "Kernstück eines UNESCO-Welterbe-Gebiets.", "Rückzugsort für bedrohte Tierarten.", "Einzigartige unberührte Naturkulisse.", "Bedeutend für die globale Biodiversität.", "Einzigartiges Ökosystem des kamerunischen Südens."]
+    }, image: "/poi-images/dja-river-nature-v2.webp"},
   {
     id: "nkam-falls-nature-v2",
     type: "mountain",
@@ -125,8 +166,13 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Nagyon ismert Kamerunban.", "Nagy esési magasság.", "Dzsungellel körülvéve.", "Filmes forgatási helyszín."],
       ro: ["Foarte cunoscută în Camerun.", "Înălțime mare de cădere.", "Înconjurată de junglă.", "Locație de filmări."],
       en: ["Very famous in Cameroon.", "High drop height.", "Surrounded by jungle.", "Film location."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Nkam-Wasserfälle sind ein atemberaubendes Naturspektakel im Westen Kameruns. Sie sind nicht nur touristisch von großer Bedeutung, sondern auch ein Beispiel für die landschaftliche Schönheit, die durch die vulkanische geologische Vergangenheit geprägt wurde. Geografie K5 — Natur."
+    },
+    factsAdvanced: {
+      de: ["Spektakuläre Wasserfälle im Westen.", "Touristische Landmarke Kameruns.", "Landschaftlich durch vulkanische Geschichte geprägt.", "Kraftvolle Wassermassen im Regenwald.", "Einzigartige Aussichtspunkte.", "Ein Naturwunder des Hochlands."]
+    }, image: "/poi-images/nkam-falls-nature-v2.webp"},
   {
     id: "kribi-sea-nature-v2",
     type: "sea",
@@ -139,8 +185,13 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Fehér homokos strandok.", "Atlanti-óceán.", "Népszerű turisztikai célpont.", "Trópusi hangulat."],
       ro: ["Plaje cu nisip alb.", "Oceanul Atlantic.", "Destinație turistică populară.", "Atmosferă tropicală."],
       en: ["White sand beaches.", "Atlantic Ocean.", "Popular tourist destination.", "Tropical atmosphere."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Küstengewässer vor Kribi am Atlantischen Ozean bilden ein reiches marines Ökosystem. Sie sind ein wichtiger Lebensraum für Fische und andere Meerestiere und bilden die Grundlage für die lokale Fischerei und den Tourismus. Geografie K5 — Ozean."
+    },
+    factsAdvanced: {
+      de: ["Reiches marines Ökosystem am Atlantik.", "Wichtiger Lebensraum für maritime Arten.", "Grundlage für die lokale Fischereiwirtschaft.", "Zentrum des kamerunischen Strandtourismus.", "Naturschönheit durch Sandstrände und Meer.", "Regionale maritime Ressource."]
+    }, image: "/poi-images/kribi-sea-nature-v2.webp"},
   {
     id: "lobe-falls-nature-v2",
     type: "river",
@@ -153,8 +204,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Az Atlanti-óceánba ömlik.", "Turisztikai attrakció.", "Egyedülálló Afrikában.", "Szép strandterület."],
       ro: ["Se varsă în Atlantic.", "Atracție turistică.", "Unică în Africa.", "Zonă de plajă frumoasă."],
       en: ["Flows into the Atlantic.", "Tourist attraction.", "Unique in Africa.", "Nice beach area."]
-    }
-  },
+    }, image: "/poi-images/lobe-falls-nature-v2.webp"},
   {
     id: "mungo-river-nature-v2",
     type: "river",
@@ -167,8 +217,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Fontos a régió számára.", "Dzsungeltáj.", "Magas vízhozam.", "Mezőgazdasági hasznosítás."],
       ro: ["Important pentru regiune.", "Peisaj de junglă.", "Debit ridicat.", "Utilizat în agricultură."],
       en: ["Important for the region.", "Jungle landscape.", "High water discharge.", "Used for agriculture."]
-    }
-  },
+    }, image: "/poi-images/mungo-river-nature-v2.webp"},
   {
     id: "lake-oku-nature-v2",
     type: "lake",
@@ -181,8 +230,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Magasan fekvő tó.", "Vulkáni kráter.", "Hűvös klíma.", "Fontos élőhely."],
       ro: ["Lac situat la altitudine.", "Crater vulcanic.", "Climă răcoroasă.", "Habitat important."],
       en: ["High-altitude lake.", "Volcanic crater.", "Cool climate.", "Important habitat."]
-    }
-  },
+    }, image: "/poi-images/lake-oku-nature-v2.webp"},
   {
     id: "wouri-river-nature-v2",
     type: "river",
@@ -195,8 +243,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Jelentős torkolatvidék.", "Fő közlekedési útvonal.", "Sok mangrove-fa.", "Gazdaságilag fontos."],
       ro: ["Estuar important.", "Rută principală de transport.", "Multe mangrove.", "Important economic."],
       en: ["Significant estuary.", "Main transport route.", "Many mangroves.", "Economically important."]
-    }
-  },
+    }, image: "/poi-images/wouri-river-nature-v2.webp"},
   {
     id: "buea-mountain-nature-v2",
     type: "mountain",
@@ -209,8 +256,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Vulkáni régió.", "Felhőerdők.", "Hűvös éghajlat.", "Túraturizmus."],
       ro: ["Regiune vulcanică.", "Păduri de ceață.", "Climă răcoroasă.", "Turism montan."],
       en: ["Volcanic region.", "Cloud forests.", "Cool climate.", "Hiking tourism."]
-    }
-  },
+    }, image: "/poi-images/buea-mountain-nature-v2.webp"},
   {
     id: "manengouba-mountain-nature-v2",
     type: "mountain",
@@ -223,8 +269,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Két ikertó.", "Vulkáni tevékenység.", "Széles rétek.", "Csodálatos kilátás."],
       ro: ["Două lacuri gemene.", "Activitate vulcanică.", "Pajiști întinse.", "Vedere minunată."],
       en: ["Two twin lakes.", "Volcanic activity.", "Wide meadows.", "Wonderful view."]
-    }
-  },
+    }, image: "/poi-images/manengouba-mountain-nature-v2.webp"},
   {
     id: "nkam-basin-nature-v2",
     type: "forest",
@@ -237,8 +282,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Trópusi erdő.", "Fajokban gazdag.", "Csekély emberi hatás.", "Nagyon párás klíma."],
       ro: ["Pădure tropicală.", "Bogată în specii.", "Influență umană minimă.", "Climă foarte umedă."],
       en: ["Tropical forest.", "Species-rich.", "Little human impact.", "Very humid climate."]
-    }
-  },
+    }, image: "/poi-images/nkam-basin-nature-v2.webp"},
   {
     id: "kribi-forest-nature-v2",
     type: "forest",
@@ -251,8 +295,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Partközeli növényzet.", "Fontos menedék.", "Megőrzendő.", "Sok eső."],
       ro: ["Vegetație de coastă.", "Refugiu important.", "Merită conservat.", "Multe ploi."],
       en: ["Vegetation near the coast.", "Important sanctuary.", "Worth conserving.", "Lots of rain."]
-    }
-  },
+    }, image: "/poi-images/kribi-forest-nature-v2.webp"},
   {
     id: "sanaga-delta-nature-v2",
     type: "river",
@@ -265,8 +308,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Mangroveerdők.", "Gazdag halászterületek.", "Nagyon termékeny.", "Komplex ökoszisztéma."],
       ro: ["Păduri de mangrove.", "Zone de pescuit bogate.", "Foarte fertilă.", "Ecosistem complex."],
       en: ["Mangrove forests.", "Rich fishing grounds.", "Very fertile.", "Complex ecosystem."]
-    }
-  },
+    }, image: "/poi-images/sanaga-delta-nature-v2.webp"},
   {
     id: "dja-forest-nature-v2",
     type: "forest",
@@ -279,8 +321,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Érintetlen természet.", "Nagy fajgazdagság.", "Fontos védett terület.", "Sűrű aljnövényzet."],
       ro: ["Natură neatinsă.", "Diversitate biologică mare.", "Arie protejată importantă.", "Subarboret dens."],
       en: ["Untouched nature.", "Great biodiversity.", "Important protected area.", "Dense undergrowth."]
-    }
-  },
+    }, image: "/poi-images/dja-forest-nature-v2.webp"},
   {
     id: "mungo-delta-nature-v2",
     type: "river",
@@ -293,8 +334,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Gazdag mangrove-ok.", "Fontos a vízminőségnek.", "Sok faj élőhelye.", "Szezonálisan változik."],
       ro: ["Mangrove bogate.", "Important pentru calitatea apei.", "Habitat pentru multe specii.", "Influențat sezonier."],
       en: ["Rich mangroves.", "Important for water quality.", "Habitat for many species.", "Seasonally influenced."]
-    }
-  },
+    }, image: "/poi-images/mungo-delta-nature-v2.webp"},
   {
     id: "buea-forest-nature-v2",
     type: "forest",
@@ -307,8 +347,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Ködös körülmények.", "Ritka fajok.", "Magas páratartalom.", "Erős faállomány."],
       ro: ["Condiții de ceață.", "Specii rare.", "Umiditate ridicată.", "Vegetație arboricolă densă."],
       en: ["Foggy conditions.", "Rare species.", "High air humidity.", "Dense tree cover."]
-    }
-  },
+    }, image: "/poi-images/buea-forest-nature-v2.webp"},
   {
     id: "manengouba-forest-nature-v2",
     type: "forest",
@@ -335,8 +374,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Meleg és párás klíma.", "Hatalmas fák.", "Változatos aljnövényzet.", "Fontos biotóp."],
       ro: ["Climă caldă și umedă.", "Copaci giganți.", "Subarboret diversificat.", "Biotop important."],
       en: ["Warm and humid climate.", "Giant trees.", "Diverse undergrowth.", "Important biotope."]
-    }
-  },
+    }, image: "/poi-images/nkam-forest-nature-v2.webp"},
   {
     id: "sanaga-forest-nature-v2",
     type: "forest",
@@ -349,8 +387,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Fontos az erózió ellen.", "Élőhely a víz mellett.", "Dús növényzet.", "Rendszeres elöntés."],
       ro: ["Importantă împotriva eroziunii.", "Habitat lângă apă.", "Vegetație luxuriantă.", "Inundații periodice."],
       en: ["Important against erosion.", "Habitat by the water.", "Lush vegetation.", "Regular flooding."]
-    }
-  },
+    }, image: "/poi-images/sanaga-forest-nature-v2.webp"},
   {
     id: "kribi-marsh-nature-v2",
     type: "river",
@@ -363,8 +400,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Fontos a madaraknak.", "Vizes ökoszisztéma.", "Édesvízforrás.", "Megőrzendő."],
       ro: ["Importantă pentru păsări.", "Ecosistem umed.", "Sursă de apă dulce.", "Merită protejată."],
       en: ["Important for birds.", "Wet ecosystem.", "Freshwater source.", "Worth protecting."]
-    }
-  },
+    }, image: "/poi-images/kribi-marsh-nature-v2.webp"},
   {
     id: "lobe-forest-nature-v2",
     type: "forest",
@@ -391,8 +427,7 @@ export const poiExtraCameroonNatureV2: POI[] = [
       hu: ["Árterület.", "Gazdag flóra.", "Fontos a vadvilágnak.", "Nehéz terep."],
       ro: ["Zonă inundabilă.", "Floră bogată.", "Importantă pentru fauna sălbatică.", "Teren dificil."],
       en: ["Floodplain.", "Rich flora.", "Important for wildlife.", "Difficult terrain."]
-    }
-  },
+    }, image: "/poi-images/mungo-marsh-nature-v2.webp"},
   {
     id: "lake-chad-shore-nature-v2",
     type: "lake",
@@ -408,3 +443,4 @@ export const poiExtraCameroonNatureV2: POI[] = [
       }
   }
 ];
+

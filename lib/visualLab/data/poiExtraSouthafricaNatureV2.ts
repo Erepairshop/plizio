@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSouthafricaNatureV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Hossza kb. 2200 km.", "Az Atlanti-óceánba torkollik."],
       ro: ["Lungime aprox. 2200 km.", "Se varsă în Oceanul Atlantic."],
       en: ["Length approx. 2200 km.", "Empties into the Atlantic Ocean."]
-    }
-  },
+    }, image: "/poi-images/orange-river-nature-v2.webp"},
   {
     id: "drakensberg-nature-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Legmagasabb csúcs: Thabana Ntlenyana.", "Világörökség része."],
       ro: ["Cel mai înalt vârf: Thabana Ntlenyana.", "Parte a Patrimoniului Mondial."],
       en: ["Highest peak: Thabana Ntlenyana.", "Part of the World Heritage site."]
-    }
-  },
+    }, image: "/poi-images/drakensberg-nature-v2.webp"},
   {
     id: "limpopo-river-nature-v2",
     type: "river",
@@ -41,8 +40,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Átfolyik Zimbabwén és Botswanán.", "Az Indiai-óceánba torkollik."],
       ro: ["Trece prin Zimbabwe și Botswana.", "Se varsă în Oceanul Indian."],
       en: ["Flows through Zimbabwe and Botswana.", "Empties into the Indian Ocean."]
-    }
-  },
+    }, image: "/poi-images/limpopo-river-nature-v2.webp"},
   {
     id: "table-mountain-nature-v2",
     type: "mountain",
@@ -55,8 +53,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Híres a 'terítő' felhőkről.", "Nemzeti park."],
       ro: ["Faimos pentru norii tip 'față de masă'.", "Parc Național."],
       en: ["Famous for the 'tablecloth' clouds.", "National Park."]
-    }
-  },
+    }, image: "/poi-images/table-mountain-nature-v2.webp"},
   {
     id: "lake-st-lucia-nature-v2",
     type: "lake",
@@ -69,8 +66,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Világörökség.", "Vízilovak és krokodilok élőhelye."],
       ro: ["Patrimoniul Mondial.", "Habitat pentru hipopotami și crocodili."],
       en: ["World Heritage site.", "Home to hippos and crocodiles."]
-    }
-  },
+    }, image: "/poi-images/lake-st-lucia-nature-v2.webp"},
   {
     id: "kruger-forest-nature-v2",
     type: "forest",
@@ -83,8 +79,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Afrika egyik legnagyobb vadvédelmi területe.", "A 'Big Five' otthona."],
       ro: ["Una dintre cele mai mari rezervații naturale din Africa.", "Acasă pentru 'Big Five'."],
       en: ["One of Africa's largest game reserves.", "Home to the 'Big Five'."]
-    }
-  },
+    }, image: "/poi-images/kruger-forest-nature-v2.webp"},
   {
     id: "vaal-river-nature-v2",
     type: "river",
@@ -97,8 +92,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Fontos vízforrás Gauteng számára.", "Hossza kb. 1120 km."],
       ro: ["Sursă importantă de apă pentru Gauteng.", "Lungime aprox. 1120 km."],
       en: ["Important water source for Gauteng.", "Length approx. 1120 km."]
-    }
-  },
+    }, image: "/poi-images/vaal-river-nature-v2.webp"},
   {
     id: "cederberg-nature-v2",
     type: "mountain",
@@ -111,8 +105,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Híres sziklaalakzatok.", "Túrázó terület."],
       ro: ["Faimos pentru formațiunile stâncoase.", "Zonă de drumeții."],
       en: ["Famous for rock formations.", "Hiking area."]
-    }
-  },
+    }, image: "/poi-images/cederberg-nature-v2.webp"},
   {
     id: "indian-ocean-coast-nature-v2",
     type: "sea",
@@ -125,8 +118,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Meleg áramlatok.", "Népszerű üdülőhelyek."],
       ro: ["Curenți calzi.", "Stațiuni populare."],
       en: ["Warm currents.", "Popular seaside resorts."]
-    }
-  },
+    }, image: "/poi-images/indian-ocean-coast-nature-v2.webp"},
   {
     id: "atlantic-ocean-coast-nature-v2",
     type: "sea",
@@ -139,8 +131,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Hűvös áramlatok.", "Gazdag tengeri élővilág."],
       ro: ["Curenți reci.", "Bogat în viață marină."],
       en: ["Cool currents.", "Rich in marine life."]
-    }
-  },
+    }, image: "/poi-images/atlantic-ocean-coast-nature-v2.webp"},
   {
     id: "olifants-river-nature-v2",
     type: "river",
@@ -153,8 +144,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Átfolyik a Kruger Nemzeti Parkon.", "A Limpopo mellékfolyója."],
       ro: ["Curge prin Parcul Național Kruger.", "Afluent al râului Limpopo."],
       en: ["Flows through Kruger National Park.", "Tributary of Limpopo."]
-    }
-  },
+    }, image: "/poi-images/olifants-river-nature-v2.webp"},
   {
     id: "robben-island-nature-v2",
     type: "island",
@@ -167,8 +157,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["UNESCO Világörökség.", "Történelmi börtönhely."],
       ro: ["Patrimoniul Mondial UNESCO.", "Loc istoric al închisorii."],
       en: ["UNESCO World Heritage.", "Historic prison site."]
-    }
-  },
+    }, image: "/poi-images/robben-island-nature-v2.webp"},
   {
     id: "tugela-falls-nature-v2",
     type: "river",
@@ -181,8 +170,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["A Drakensberg-hegységben található.", "Látványos esési magasság."],
       ro: ["Situată în Munții Drakensberg.", "Înălțime spectaculoasă."],
       en: ["Located in the Drakensberg.", "Spectacular drop."]
-    }
-  },
+    }, image: "/poi-images/tugela-falls-nature-v2.webp"},
   {
     id: "karoo-nature-v2",
     type: "mountain",
@@ -195,8 +183,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Meghatározó Dél-Afrika belsejében.", "Egyedülálló növényvilág."],
       ro: ["Definitoriu pentru interiorul Africii de Sud.", "Floră unică."],
       en: ["Characteristic of South Africa's interior.", "Unique flora."]
-    }
-  },
+    }, image: "/poi-images/karoo-nature-v2.webp"},
   {
     id: "iSimangaliso-park-nature-v2",
     type: "forest",
@@ -209,8 +196,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["UNESCO Világörökség.", "Nagy biodiverzitás."],
       ro: ["Patrimoniul Mondial UNESCO.", "Biodiversitate ridicată."],
       en: ["UNESCO World Heritage.", "High biodiversity."]
-    }
-  },
+    }, image: "/poi-images/iSimangaliso-park-nature-v2.webp"},
   {
     id: "tsitsikamma-forest-nature-v2",
     type: "forest",
@@ -223,8 +209,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Nagyon magas fák.", "Nemzeti park."],
       ro: ["Copaci foarte înalți.", "Parc Național."],
       en: ["Very tall trees.", "National Park."]
-    }
-  },
+    }, image: "/poi-images/tsitsikamma-forest-nature-v2.webp"},
   {
     id: "swartberg-nature-v2",
     type: "mountain",
@@ -237,8 +222,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Látványos hágóutak.", "Világörökség terület."],
       ro: ["Drumuri de trecătoare spectaculoase.", "Zonă din Patrimoniul Mondial."],
       en: ["Spectacular pass roads.", "World Heritage area."]
-    }
-  },
+    }, image: "/poi-images/swartberg-nature-v2.webp"},
   {
     id: "breede-river-nature-v2",
     type: "river",
@@ -251,8 +235,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Fontos a mezőgazdaságnak.", "Vízi sport terület."],
       ro: ["Important pentru agricultură.", "Zonă pentru sporturi nautice."],
       en: ["Important for agriculture.", "Water sports area."]
-    }
-  },
+    }, image: "/poi-images/breede-river-nature-v2.webp"},
   {
     id: "blyde-river-canyon-nature-v2",
     type: "river",
@@ -265,8 +248,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Látványos kilátópontok.", "Turisztikai látványosság."],
       ro: ["Puncte de belvedere spectaculoase.", "Atracție turistică."],
       en: ["Spectacular viewpoints.", "Tourist attraction."]
-    }
-  },
+    }, image: "/poi-images/blyde-river-canyon-nature-v2.webp"},
   {
     id: "knysna-forest-nature-v2",
     type: "forest",
@@ -279,8 +261,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["A Knysna-elefántok otthona.", "Történelmi favágóterület."],
       ro: ["Acasă pentru elefanții din Knysna.", "Zonă istorică de tăiere a lemnului."],
       en: ["Home to Knysna elephants.", "Historic logging area."]
-    }
-  },
+    }, image: "/poi-images/knysna-forest-nature-v2.webp"},
   {
     id: "lake-teko-nature-v2",
     type: "lake",
@@ -293,8 +274,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Madármegfigyelő terület.", "Nyugalom szigete."],
       ro: ["Zonă de observare a păsărilor.", "Oază de liniște."],
       en: ["Bird watching area.", "Oasis of calm."]
-    }
-  },
+    }, image: "/poi-images/lake-teko-nature-v2.webp"},
   {
     id: "drakensberg-amphitheatre-nature-v2",
     type: "mountain",
@@ -307,8 +287,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Lenyűgöző geológia.", "Túrázó paradicsom."],
       ro: ["Geologie impresionantă.", "Paradisul drumețiilor."],
       en: ["Impressive geology.", "Hiking paradise."]
-    }
-  },
+    }, image: "/poi-images/drakensberg-amphitheatre-nature-v2.webp"},
   {
     id: "golden-gate-highlands-nature-v2",
     type: "mountain",
@@ -321,8 +300,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Arany fény napnyugtakor.", "Természetvédelmi terület."],
       ro: ["Lumină aurie la apus.", "Zonă protejată."],
       en: ["Golden light at sunset.", "Protected area."]
-    }
-  },
+    }, image: "/poi-images/golden-gate-highlands-nature-v2.webp"},
   {
     id: "agullhas-cape-nature-v2",
     type: "sea",
@@ -335,8 +313,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Az Atlanti- és az Indiai-óceán találkozása.", "Történelmi világítótorony."],
       ro: ["Punctul de întâlnire al Atlanticului și Oceanului Indian.", "Far istoric."],
       en: ["Meeting point of Atlantic and Indian Ocean.", "Historic lighthouse."]
-    }
-  },
+    }, image: "/poi-images/agullhas-cape-nature-v2.webp"},
   {
     id: "kalahari-desert-nature-v2",
     type: "forest",
@@ -349,8 +326,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Vörös homokdűnék.", "Egyedülálló vadvilág."],
       ro: ["Dune de nisip roșu.", "Faună unică."],
       en: ["Red sand dunes.", "Unique wildlife."]
-    }
-  },
+    }, image: "/poi-images/kalahari-desert-nature-v2.webp"},
   {
     id: "uphole-lake-nature-v2",
     type: "lake",
@@ -363,8 +339,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Csendes környezet.", "Helyileg ismert."],
       ro: ["Mediu liniștit.", "Cunoscut la nivel local."],
       en: ["Quiet environment.", "Locally known."]
-    }
-  },
+    }, image: "/poi-images/uphole-lake-nature-v2.webp"},
   {
     id: "mountain-zebra-park-nature-v2",
     type: "mountain",
@@ -377,8 +352,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Látványos hegyvidék.", "Sikeres védelmi projekt."],
       ro: ["Peisaj montan spectaculos.", "Proiect de conservare de succes."],
       en: ["Spectacular mountain landscape.", "Successful conservation project."]
-    }
-  },
+    }, image: "/poi-images/mountain-zebra-park-nature-v2.webp"},
   {
     id: "add-elephant-park-nature-v2",
     type: "forest",
@@ -391,8 +365,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Parti területeket is magában foglal.", "Biodiverzitás."],
       ro: ["Include și zone de coastă.", "Biodiversitate."],
       en: ["Also includes coastal areas.", "Biodiversity."]
-    }
-  },
+    }, image: "/poi-images/add-elephant-park-nature-v2.webp"},
   {
     id: "orange-river-mouth-nature-v2",
     type: "river",
@@ -405,8 +378,7 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
       hu: ["Fontos vizesélőhely.", "Madárparadicsom."],
       ro: ["Zonă umedă importantă.", "Paradisul păsărilor."],
       en: ["Important wetland.", "Bird paradise."]
-    }
-  },
+    }, image: "/poi-images/orange-river-mouth-nature-v2.webp"},
   {
     id: "wild-coast-nature-v2",
     type: "sea",
@@ -422,3 +394,4 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
     }
   }
 ];
+

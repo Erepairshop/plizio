@@ -71,7 +71,7 @@ export function createFaqStructuredData(poi: POI, lang: Lang) {
   return {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: faqList.map((item) => ({
+    mainEntity: faqList.map((item: { q: string; a: string }) => ({
       "@type": "Question",
       name: item.q,
       acceptedAnswer: {

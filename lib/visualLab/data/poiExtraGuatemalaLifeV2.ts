@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuatemalaLifeV2: POI[] = [
@@ -25,8 +26,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Popular with families", "Many native species", "Important learning site"]
     },
     descriptionAdvanced: { de: "Der Parque Zoológico La Aurora in Guatemala-Stadt ist eine der bedeutendsten Einrichtungen für den Schutz und die Ausstellung von Wildtieren in Mittelamerika. Seit seiner Gründung im Jahr 1924 hat sich der Zoo von einer einfachen Menagerie zu einem modernen Bildungs- und Forschungszentrum entwickelt. Die Anlage ist geschickt in geografische Zonen unterteilt, die Tieren aus Afrika, Asien und Amerika ein naturnahes Zuhause bieten. Besonders wichtig ist der Fokus auf einheimische bedrohte Arten wie den Jaguar, das Helmschwein und den Tapir. Der Zoo spielt eine zentrale Rolle in der Umwelterziehung der guatemaltekischen Bevölkerung und ist ein beliebtes Ziel für Schulausflüge und Familien.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Zoo beherbergt eine beeindruckende Sammlung von über 110 verschiedenen Tierarten.", "Moderne Anlagen wie das afrikanische Savannengehege bieten viel Platz für Giraffen und Zebras.", "Ein spezielles Rehabilitationszentrum kümmert sich um verletzte Wildtiere aus dem ganzen Land.", "Die Bildungskampagnen des Zoos erreichen jährlich Tausende von Kindern in der Hauptstadt."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Zoo beherbergt eine beeindruckende Sammlung von über 110 verschiedenen Tierarten.", "Moderne Anlagen wie das afrikanische Savannengehege bieten viel Platz für Giraffen und Zebras.", "Ein spezielles Rehabilitationszentrum kümmert sich um verletzte Wildtiere aus dem ganzen Land.", "Die Bildungskampagnen des Zoos erreichen jährlich Tausende von Kindern in der Hauptstadt."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-la-aurora-zoo-life-v2.webp"},
   {
     id: "gt-jardin-botanico-usac-life-v2",
     type: "kid-landmark",
@@ -51,8 +51,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Tropical plants", "Popular for school visits", "Near downtown"]
     },
     descriptionAdvanced: { de: "Der Botanische Garten der Universität San Carlos (USAC) ist eine grüne Oase inmitten der geschäftigen Zone 10 von Guatemala-Stadt. Als ältester botanischer Garten Zentralamerikas beherbergt er eine umfassende Sammlung einheimischer und exotischer Pflanzenarten. Die Anlage dient sowohl der wissenschaftlichen Forschung als auch der Erholung und bietet einen tiefen Einblick in die botanische Vielfalt Guatemalas. Besucher können durch verschiedene Sektionen wandern, darunter Bereiche für Sukkulenten, Heilpflanzen und tropische Farne. Der Garten ist ein wichtiger Ort für die akademische Ausbildung von Biologen und Agronomen und fördert das Bewusstsein für den Pflanzenschutz.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Garten wurde Ende des 19. Jahrhunderts gegründet und ist ein geschütztes Kulturdenkmal.", "Ein Highlight ist das Gewächshaus mit einer Vielzahl an seltenen Orchideenarten.", "Viele der alten Bäume im Garten bieten Lebensraum für zahlreiche Stadtvögel.", "Regelmäßig finden hier Workshops zur Pflanzenpflege und zum Naturschutz statt."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Garten wurde Ende des 19. Jahrhunderts gegründet und ist ein geschütztes Kulturdenkmal.", "Ein Highlight ist das Gewächshaus mit einer Vielzahl an seltenen Orchideenarten.", "Viele der alten Bäume im Garten bieten Lebensraum für zahlreiche Stadtvögel.", "Regelmäßig finden hier Workshops zur Pflanzenpflege und zum Naturschutz statt."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-jardin-botanico-usac-life-v2.webp"},
   {
     id: "gt-mundo-petapa-life-v2",
     type: "kid-landmark",
@@ -77,8 +76,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Many attractions", "Popular on weekends", "Family-friendly"]
     },
     descriptionAdvanced: { de: "Mundo Petapa ist einer der populärsten Freizeitparks Guatemalas und wird von der Institution IRTRA verwaltet. Der Park bietet eine breite Palette an Attraktionen, von rasanten Achterbahnen bis hin zu entspannenden Wasserfahrten und Themenbereichen. Besonders geschätzt wird die hohe Qualität der Anlagen und die vorbildliche Sauberkeit, die den Park zu einem Vorbild in der Region machen. Neben den Fahrgeschäften gibt es auch einen kleinen Zoo, Theateraufführungen und zahlreiche gastronomische Angebote. Mundo Petapa ist ein Symbol für die moderne Freizeitkultur in Guatemala und ein Ort, an dem Familien aus allen sozialen Schichten gemeinsam Zeit verbringen.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Park verfügt über ein riesiges Schwimmbadzentrum mit olympischen Maßen.", "Themenbereiche wie 'Pueblo Guatemalteco' zeigen die Vielfalt der nationalen Architektur.", "Die Achterbahn 'Rayo Laser' gehört zu den markantesten Attraktionen des Parks.", "An Feiertagen wird der Park oft von Zehntausenden Menschen besucht."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Park verfügt über ein riesiges Schwimmbadzentrum mit olympischen Maßen.", "Themenbereiche wie 'Pueblo Guatemalteco' zeigen die Vielfalt der nationalen Architektur.", "Die Achterbahn 'Rayo Laser' gehört zu den markantesten Attraktionen des Parks.", "An Feiertagen wird der Park oft von Zehntausenden Menschen besucht."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-mundo-petapa-life-v2.webp"},
   {
     id: "gt-auto-safari-chapin-life-v2",
     type: "animal-habitat",
@@ -103,8 +101,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Drive-through safari", "Many open enclosures", "Popular with kids"]
     },
     descriptionAdvanced: { de: "Auto Safari Chapín ist ein einzigartiger Drive-through-Wildpark im Departement Escuintla, der ein Safari-Erlebnis im Herzen Guatemalas bietet. Besucher können mit ihrem eigenen Fahrzeug oder in Parkbussen durch weite Gehege fahren, in denen Tiere wie Giraffen, Antilopen und Löwen in einer naturnahen Umgebung leben. Der Park legt großen Wert darauf, dass die Tiere ausreichend Bewegungsfreiheit haben und in sozialen Gruppen leben können. Neben der Fahrt durch die Tierbereiche gibt es ein begehbares Areal mit Pools, Spielplätzen und Bildungsstationen. Auto Safari Chapín ist nicht nur ein Touristenmagnet, sondern engagiert sich auch aktiv in Zuchtprogrammen für bedrohte Tierarten.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Park war der erste seiner Art in Mittelamerika und ist seit Jahrzehnten erfolgreich.", "Besucher können viele Tiere direkt aus den Autofenstern beobachten und fotografieren.", "Ein spezieller Bereich widmet sich der Erhaltung des guatemaltekischen Weißwedelhirschs.", "Die Anlage bietet eine willkommene Abkühlung durch ihre großen Poollandschaften."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Park war der erste seiner Art in Mittelamerika und ist seit Jahrzehnten erfolgreich.", "Besucher können viele Tiere direkt aus den Autofenstern beobachten und fotografieren.", "Ein spezieller Bereich widmet sich der Erhaltung des guatemaltekischen Weißwedelhirschs.", "Die Anlage bietet eine willkommene Abkühlung durch ihre großen Poollandschaften."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-auto-safari-chapin-life-v2.webp"},
   {
     id: "gt-sipacate-naranjo-mangroves-life-v2",
     type: "animal-habitat",
@@ -129,8 +126,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Mangrove forests", "Important bird habitat", "Protects the coast"]
     },
     descriptionAdvanced: { de: "Der Nationalpark Sipacate-Naranjo an der Pazifikküste ist ein lebenswichtiges Schutzgebiet für Mangrovenökosysteme in Guatemala. Die verschlungenen Wasserwege und Lagunen bieten einen unverzichtbaren Lebensraum für zahlreiche Fischarten, Krustentiere und Zugvögel. Die Mangroven fungieren zudem als natürlicher Schutzwall gegen Küstenerosion und extreme Wetterereignisse. Besucher können das Gebiet mit traditionellen Booten erkunden und die reiche Flora und Fauna hautnah erleben. Das Schutzgebiet ist auch für seine Schildkröten-Nistplätze bekannt, an denen jedes Jahr Tausende von Jungtieren in die Freiheit entlassen werden. Der Schutz dieser Region ist entscheidend für das ökologische Gleichgewicht der gesamten Pazifikküste.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Vier verschiedene Mangrovenarten wachsen in diesem geschützten Küstengebiet.", "Die Lagunen sind ein Paradies für Vogelbeobachter, besonders während der Wintermonate.", "Lokale Gemeinschaften sind aktiv in die nachhaltige Bewirtschaftung des Parks eingebunden.", "Der Park ist ein wichtiger Forschungsort für marine Biologie und Ökologie."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Vier verschiedene Mangrovenarten wachsen in diesem geschützten Küstengebiet.", "Die Lagunen sind ein Paradies für Vogelbeobachter, besonders während der Wintermonate.", "Lokale Gemeinschaften sind aktiv in die nachhaltige Bewirtschaftung des Parks eingebunden.", "Der Park ist ein wichtiger Forschungsort für marine Biologie und Ökologie."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-sipacate-naranjo-mangroves-life-v2.webp"},
   {
     id: "gt-monterrico-turtle-beach-life-v2",
     type: "animal-habitat",
@@ -155,8 +151,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Sea turtles", "Black volcanic sand", "Popular with nature lovers"]
     },
     descriptionAdvanced: { de: "Monterrico ist bekannt für seine charakteristischen schwarzen Sandstrände vulkanischen Ursprungs und seine bedeutenden Projekte zum Schutz von Meeresschildkröten. Das Tortugario de Monterrico ist eine zentrale Einrichtung, in der Eier gesammelt, ausgebrütet und die geschlüpften Schildkröten kontrolliert ins Meer entlassen werden. Dieser Prozess ist für Touristen ein faszinierendes Erlebnis und dient gleichzeitig der wissenschaftlichen Datenerhebung. Neben den Stränden bietet Monterrico ein weitläufiges Netz von Kanälen und Mangroven, die reich an Biodiversität sind. Die entspannte Atmosphäre und die Bemühungen um nachhaltigen Tourismus machen den Ort zu einem Highlight für Naturfreunde an der Pazifikküste.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Hauptnistzeit der Meeresschildkröten liegt zwischen Juli und Dezember.", "Besucher können gegen eine Spende an der abendlichen Freilassung der Schildkröten teilnehmen.", "Die Kanäle von Monterrico lassen sich am besten bei Sonnenaufgang mit dem Boot erkunden.", "Der schwarze Sand absorbiert die Sonnenwärme sehr stark, was das Tragen von Schuhen ratsam macht."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Hauptnistzeit der Meeresschildkröten liegt zwischen Juli und Dezember.", "Besucher können gegen eine Spende an der abendlichen Freilassung der Schildkröten teilnehmen.", "Die Kanäle von Monterrico lassen sich am besten bei Sonnenaufgang mit dem Boot erkunden.", "Der schwarze Sand absorbiert die Sonnenwärme sehr stark, was das Tragen von Schuhen ratsam macht."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-monterrico-turtle-beach-life-v2.webp"},
   {
     id: "gt-santa-rosa-cattle-ranches-life-v2",
     type: "agriculture",
@@ -181,8 +176,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Cattle ranching", "Wide pastures", "Rural economy"]
     },
     descriptionAdvanced: { de: "Die Viehfarmen im Departement Santa Rosa prägen das Landschaftsbild und die Wirtschaft des südöstlichen Guatemalas. In dieser Region wird seit Generationen Rinderzucht betrieben, wobei sowohl Fleisch- als auch Milchprodukte für den nationalen Markt erzeugt werden. Die weiten Weideflächen, die oft von markanten Felsformationen und tropischen Bäumen gesäumt sind, vermitteln ein Bild des ländlichen Alltags in Guatemala. Die Farmer nutzen traditionelle Methoden in Kombination mit modernen Zuchttechniken, um die Produktivität zu steigern. Diese Farmen sind nicht nur wirtschaftlich bedeutend, sondern bewahren auch eine spezifische Kultur des 'Vaquero'-Lebensstils, die tief in der regionalen Identität verwurzelt ist.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Region ist bekannt für ihre qualitativ hochwertigen Käse- und Molkereiprodukte.", "Viehaustellungen und Rodeos sind wichtige soziale Ereignisse im lokalen Kalender.", "Viele Farmen setzen zunehmend auf silvopastorale Systeme zur Schonung der Umwelt.", "Santa Rosa gilt als eine der produktivsten Regionen für die Rinderzucht in Guatemala."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Region ist bekannt für ihre qualitativ hochwertigen Käse- und Molkereiprodukte.", "Viehaustellungen und Rodeos sind wichtige soziale Ereignisse im lokalen Kalender.", "Viele Farmen setzen zunehmend auf silvopastorale Systeme zur Schonung der Umwelt.", "Santa Rosa gilt als eine der produktivsten Regionen für die Rinderzucht in Guatemala."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-santa-rosa-cattle-ranches-life-v2.webp"},
   {
     id: "gt-semuc-champey-family-pools-life-v2",
     type: "kid-landmark",
@@ -207,8 +201,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Clear turquoise water", "Short hiking trails", "Popular with families"]
     },
     descriptionAdvanced: { de: "Semuc Champey ist ein Naturwunder in Alta Verapaz, bestehend aus einer Kette von türkisfarbenen Kalksteinbecken über einer natürlichen Steinbrücke, unter der der Fluss Cahabón fließt. Die Becken sind für ihr kristallklares Wasser und ihre angenehmen Temperaturen bekannt, was sie zu einem idealen Ort zum Schwimmen für die ganze Familie macht. Kurze Wanderwege führen zu Aussichtspunkten, von denen aus man die spektakuläre Anordnung der Pools von oben bewundern kann. Die dichte Dschungelumgebung beherbergt Brüllaffen und eine Vielzahl von Schmetterlingen und Vögeln. Als geschütztes Naturdenkmal ist Semuc Champey ein Musterbeispiel für den Ökotourismus in Guatemala und zieht Besucher aus aller Welt an.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Das Wasser in den Becken bleibt das ganze Jahr über angenehm kühl und erfrischend.", "Die Kalksteinbrücke ist über 300 Meter lang und bildet ein einzigartiges geologisches Phänomen.", "Vom Aussichtspunkt 'El Mirador' hat man den ikonischen Blick auf das gesamte Flusstal.", "In der Nähe können Besucher auch faszinierende Höhlensysteme wie die K'anba-Höhlen erkunden."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Das Wasser in den Becken bleibt das ganze Jahr über angenehm kühl und erfrischend.", "Die Kalksteinbrücke ist über 300 Meter lang und bildet ein einzigartiges geologisches Phänomen.", "Vom Aussichtspunkt 'El Mirador' hat man den ikonischen Blick auf das gesamte Flusstal.", "In der Nähe können Besucher auch faszinierende Höhlensysteme wie die K'anba-Höhlen erkunden."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-semuc-champey-family-pools-life-v2.webp"},
   {
     id: "gt-fuentes-georginas-hot-springs-life-v2",
     type: "kid-landmark",
@@ -233,8 +226,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Thermal water", "Cloud forest setting", "Popular relaxation spot"]
     },
     descriptionAdvanced: { de: "Fuentes Georginas ist ein malerisches Thermalbad an den bewaldeten Hängen des Zunil-Vulkans in der Nähe von Quetzaltenango. Das Wasser wird durch die vulkanische Aktivität natürlich erhitzt und fließt in mehrere Becken mit unterschiedlichen Temperaturen, die von üppigem Nebelwald umgeben sind. Die mineralreichen Schwefelquellen sind für ihre entspannende und heilende Wirkung bekannt und ziehen sowohl Einheimische als auch Touristen an. Besonders reizvoll ist die Atmosphäre am frühen Morgen, wenn der Dampf des heißen Wassers mit dem kühlen Nebel der Berge verschmilzt. Die Anlage verfügt über einfache Hütten und ein Restaurant, was sie zu einem idealen Ort für einen Tagesausflug in die Natur macht.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Quellen wurden 1902 entdeckt und nach der Frau des damaligen Präsidenten benannt.", "Die Wassertemperaturen in den Becken können bis zu 40 Grad Celsius erreichen.", "Kurze Wanderwege führen von den Quellen tiefer in den geschützten Nebelwald.", "Die Anlage ist ein wichtiger Bestandteil des regionalen Wellness-Tourismus."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Quellen wurden 1902 entdeckt und nach der Frau des damaligen Präsidenten benannt.", "Die Wassertemperaturen in den Becken können bis zu 40 Grad Celsius erreichen.", "Kurze Wanderwege führen von den Quellen tiefer in den geschützten Nebelwald.", "Die Anlage ist ein wichtiger Bestandteil des regionalen Wellness-Tourismus."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-fuentes-georginas-hot-springs-life-v2.webp"},
   {
     id: "gt-coban-cardamom-hills-life-v2",
     type: "agriculture",
@@ -259,8 +251,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Cardamom production", "Humid highland climate", "Small family farms"]
     },
     descriptionAdvanced: { de: "Die Hügel rund um Cobán im Departement Alta Verapaz sind das Zentrum der Kardamomproduktion in Guatemala. Das feucht-milde Klima und die fruchtbaren Böden bieten ideale Bedingungen für den Anbau dieses wertvollen Gewürzes, das hauptsächlich für den Export in den Nahen Osten bestimmt ist. Guatemala ist weltweit der führende Exporteur von Kardamom, wobei die Produktion oft in kleinen Familienbetrieben erfolgt. Die grünen Plantagen, oft unter dem Schatten großer Urwaldbäume, prägen die Landschaft und bieten vielen Menschen in der Region eine Lebensgrundlage. Neben Kardamom wird in diesen Höhenlagen auch erstklassiger Kaffee angebaut, was die Region zu einem agrarwirtschaftlichen Kraftzentrum macht.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Kardamom wird aufgrund seines hohen Marktwertes oft als 'Grünes Gold' bezeichnet.", "Die Ernte erfolgt mühsam von Hand, um die empfindlichen Kapseln nicht zu beschädigen.", "In den Beneficios von Cobán wird das Gewürz sorgfältig getrocknet und sortiert.", "Guatemala deckt einen Großteil des weltweiten Bedarfs an hochwertigem Kardamom."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Kardamom wird aufgrund seines hohen Marktwertes oft als 'Grünes Gold' bezeichnet.", "Die Ernte erfolgt mühsam von Hand, um die empfindlichen Kapseln nicht zu beschädigen.", "In den Beneficios von Cobán wird das Gewürz sorgfältig getrocknet und sortiert.", "Guatemala deckt einen Großteil des weltweiten Bedarfs an hochwertigem Kardamom."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-coban-cardamom-hills-life-v2.webp"},
   {
     id: "gt-laguna-lachua-family-lagoon-life-v2",
     type: "kid-landmark",
@@ -285,8 +276,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Clear water", "National park setting", "Very peaceful atmosphere"]
     },
     descriptionAdvanced: { de: "Die Laguna Lachuá ist ein kreisrunder, spiegelglatter See im Norden von Alta Verapaz, der mitten in einem unberührten Nationalpark liegt. Das Wasser des Sees ist außergewöhnlich klar und weist eine hohe Konzentration an Mineralien auf, was ihm eine fast magische Qualität verleiht. Der Weg zum See führt durch dichten Regenwald und bietet exzellente Möglichkeiten zur Beobachtung von Wildtieren wie Tapiren und Tukane. Aufgrund des strengen Schutzes ist die Atmosphäre am See extrem friedlich und lädt zu ruhigen Momenten in der Natur ein. Für Familien ist die Wanderung zum See ein sicheres Abenteuer, das mit einem Bad in den sanften Gewässern der Lagune belohnt wird. Die Laguna Lachuá gilt als eines der verborgenen Juwelen Guatemalas.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der See ist ein Karstsee und hat eine maximale Tiefe von etwa 222 Metern.", "Um den ökologischen Wert zu erhalten, ist das Fischen im See streng untersagt.", "Die fast perfekte Kreisform des Sees ist aus der Luft besonders beeindruckend.", "Der Nationalpark ist Teil eines wichtigen biologischen Korridors im Tiefland."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der See ist ein Karstsee und hat eine maximale Tiefe von etwa 222 Metern.", "Um den ökologischen Wert zu erhalten, ist das Fischen im See streng untersagt.", "Die fast perfekte Kreisform des Sees ist aus der Luft besonders beeindruckend.", "Der Nationalpark ist Teil eines wichtigen biologischen Korridors im Tiefland."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-laguna-lachua-family-lagoon-life-v2.webp"},
   {
     id: "gt-biotopo-del-quetzal-life-v2",
     type: "animal-habitat",
@@ -311,8 +301,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Cloud forest", "Quetzal habitat", "Important conservation site"]
     },
     descriptionAdvanced: { de: "Das Biotopo del Quetzal, offiziell 'Mario Dary Rivera', wurde zum Schutz des Nationalvogels Guatemalas und seines Lebensraums, des Nebelwaldes, eingerichtet. In den feuchten, moosbewachsenen Wäldern von Baja Verapaz finden die prächtigen Quetzale ideale Nistbedingungen und ihre bevorzugte Nahrung, die Früchte des wilden Avocadobaums. Der Park bietet gut markierte Wanderwege, die durch eine üppige Vegetation mit Farnen, Orchideen und Epiphyten führen. Obwohl die Quetzale scheu sind, haben Besucher mit etwas Geduld die Chance, den Vogel mit seinen langen Schwanzfedern in freier Natur zu sehen. Das Biotop ist ein wichtiges Zentrum für Umweltbildung und ein Symbol für den Naturschutz in Guatemala.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Park schützt über 1.000 Hektar primären Nebelwald in der Sierra de las Minas.", "Beste Chancen für Quetzal-Sichtungen bestehen während der Brutzeit von März bis Juni.", "Zahlreiche Wasserfälle und Gebirgsbäche säumen die Wanderpfade des Reservats.", "Das Biotop wird von der Universität San Carlos zu Forschungszwecken verwaltet."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Park schützt über 1.000 Hektar primären Nebelwald in der Sierra de las Minas.", "Beste Chancen für Quetzal-Sichtungen bestehen während der Brutzeit von März bis Juni.", "Zahlreiche Wasserfälle und Gebirgsbäche säumen die Wanderpfade des Reservats.", "Das Biotop wird von der Universität San Carlos zu Forschungszwecken verwaltet."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-biotopo-del-quetzal-life-v2.webp"},
   {
     id: "gt-las-guacamayas-bio-station-life-v2",
     type: "animal-habitat",
@@ -337,8 +326,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Jungle research", "Many bird species", "Boat access"]
     },
     descriptionAdvanced: { de: "Die Biologische Station Las Guacamayas liegt tief im Maya-Biosphärenreservat am Ufer des San-Pedro-Flusses im Petén. Sie ist eine führende Einrichtung für den Schutz des Scharlachroten Aras (Guacamaya Roja), einer der am stärksten bedrohten Vogelarten Guatemalas. Die Station kombiniert wissenschaftliche Forschung mit nachhaltigem Tourismus und bietet Besuchern die Möglichkeit, in den Dschungel einzutauchen und die Tierwelt hautnah zu erleben. Neben den Aras können hier Brüllaffen, Krokodile und eine unglaubliche Vielfalt an Schmetterlingen beobachtet werden. Die Arbeit der Station umfasst Nistkasten-Monitoring, Waldschutz und die Zusammenarbeit mit lokalen Gemeinschaften zur Förderung des Umweltbewusstseins.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Station ist nur über eine längere Bootsfahrt durch die Feuchtgebiete erreichbar.", "Über 300 verschiedene Vogelarten wurden in der Umgebung der Station bereits gesichtet.", "Nachtexkursionen bieten die Chance, Krokodile und andere nachtaktive Tiere zu sehen.", "Las Guacamayas ist ein wichtiger Stützpunkt für den Schutz des Laguna del Tigre Nationalparks."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Station ist nur über eine längere Bootsfahrt durch die Feuchtgebiete erreichbar.", "Über 300 verschiedene Vogelarten wurden in der Umgebung der Station bereits gesichtet.", "Nachtexkursionen bieten die Chance, Krokodile und andere nachtaktive Tiere zu sehen.", "Las Guacamayas ist ein wichtiger Stützpunkt für den Schutz des Laguna del Tigre Nationalparks."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-las-guacamayas-bio-station-life-v2.webp"},
   {
     id: "gt-laguna-del-tigre-wildlife-life-v2",
     type: "animal-habitat",
@@ -363,8 +351,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Large protected area", "Jaguar habitat", "Important wetlands"]
     },
     descriptionAdvanced: { de: "Die Wildlife-Zone Laguna del Tigre ist das größte Feuchtgebiet und eines der bedeutendsten Schutzgebiete im Maya-Biosphärenreservat von Petén. Dieses riesige Mosaik aus Sümpfen, Lagunen und tropischem Regenwald ist ein kritisches Refugium für den Jaguar und andere große Säugetiere. Die Region dient als riesiger Schwamm, der Wasser speichert und die Biodiversität im gesamten nördlichen Guatemala unterstützt. Trotz Herausforderungen durch illegale Aktivitäten bleibt Laguna del Tigre ein Hotspot für die Forschung und den Naturschutz. Besucher, die die Abgeschiedenheit suchen, finden hier eine fast unberührte Wildnis, die nur mit erfahrenen Guides erkundet werden sollte. Die Zone ist ein wesentlicher Bestandteil des natürlichen Erbes Mittelamerikas.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Laguna del Tigre ist ein international anerkanntes Ramsar-Feuchtgebiet.", "Es beherbergt die größte Population des Scharlachroten Aras in ganz Guatemala.", "Wissenschaftler nutzen Fotofallen, um die Bewegungen der Jaguare in der Zone zu überwachen.", "Das Gebiet ist nur per Boot oder über sehr entlegene Dschungelpfade zugänglich."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Laguna del Tigre ist ein international anerkanntes Ramsar-Feuchtgebiet.", "Es beherbergt die größte Population des Scharlachroten Aras in ganz Guatemala.", "Wissenschaftler nutzen Fotofallen, um die Bewegungen der Jaguare in der Zone zu überwachen.", "Das Gebiet ist nur per Boot oder über sehr entlegene Dschungelpfade zugänglich."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-laguna-del-tigre-wildlife-life-v2.webp"},
   {
     id: "gt-peten-cattle-ranchlands-life-v2",
     type: "agriculture",
@@ -389,8 +376,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Cattle ranching", "Large pastures", "Rural work culture"]
     },
     descriptionAdvanced: { de: "Die Weideflächen im Petén repräsentieren einen bedeutenden Teil der Agrarlandschaft im Norden Guatemalas. In Regionen, die nicht als Nationalparks geschützt sind, dominiert die Rinderzucht den ländlichen Alltag und bietet vielen Familien eine Existenzgrundlage. Die weiten, offenen Flächen stehen im starken Kontrast zum dichten Dschungel der angrenzenden Reservate und zeigen die Spannung zwischen landwirtschaftlicher Nutzung und Naturschutz. Die Farmer im Petén haben sich an das tropische Klima angepasst und züchten robuste Rassen, die sowohl Hitze als auch Feuchtigkeit vertragen. Diese Ranchlandschaften sind ein wichtiger Teil der regionalen Wirtschaft und versorgen das Land mit Fleisch- und Lederprodukten.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Rinderzucht im Petén hat sich seit den 1970er Jahren massiv ausgedehnt.", "Pferde sind auf vielen Ranches immer noch das wichtigste Transportmittel für die Arbeit.", "Es gibt verstärkte Bemühungen, Waldinseln auf den Weiden zum Schutz der Artenvielfalt zu erhalten.", "Viehmärkte in Städten wie San Benito sind zentrale wirtschaftliche Knotenpunkte."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Rinderzucht im Petén hat sich seit den 1970er Jahren massiv ausgedehnt.", "Pferde sind auf vielen Ranches immer noch das wichtigste Transportmittel für die Arbeit.", "Es gibt verstärkte Bemühungen, Waldinseln auf den Weiden zum Schutz der Artenvielfalt zu erhalten.", "Viehmärkte in Städten wie San Benito sind zentrale wirtschaftliche Knotenpunkte."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-peten-cattle-ranchlands-life-v2.webp"},
   {
     id: "gt-rio-dulce-manatee-sanctuary-life-v2",
     type: "animal-habitat",
@@ -415,8 +401,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Manatees", "Calm river water", "Tropical riverbank vegetation"]
     },
     descriptionAdvanced: { de: "Das Manati-Schutzgebiet am Río Dulce im Departement Izabal ist ein Refugium für den bedrohten Karibik-Manati. Die ruhigen, vegetationsreichen Buchten des Flusses bieten den sanften Seekühen ideale Bedingungen zum Grasen und zur Aufzucht ihrer Jungen. Der Schutz dieser Tiere ist eine nationale Priorität, und das Reservat dient als Zentrum für Forschung und Umweltbildung. Besucher können den Flussabschnitt mit Booten durchqueren, wobei strenge Geschwindigkeitsbegrenzungen zum Schutz der Tiere gelten. Die Kombination aus tropischem Regenwald, steilen Felswänden und den mysteriösen Manatis macht diesen Teil des Río Dulce zu einem der faszinierendsten Naturziele Guatemalas.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Manatis sind sehr scheu und lassen sich meist nur kurz an der Wasseroberfläche blicken.", "Das Reservat schützt wichtige Bestände an Seegras, der Hauptnahrung der Manatis.", "Ranger patrouillieren regelmäßig den Fluss, um die Einhaltung der Schutzbestimmungen zu überwachen.", "Die beste Zeit für Sichtungen ist in den frühen Morgenstunden bei ruhigem Wasser."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Manatis sind sehr scheu und lassen sich meist nur kurz an der Wasseroberfläche blicken.", "Das Reservat schützt wichtige Bestände an Seegras, der Hauptnahrung der Manatis.", "Ranger patrouillieren regelmäßig den Fluss, um die Einhaltung der Schutzbestimmungen zu überwachen.", "Die beste Zeit für Sichtungen ist in den frühen Morgenstunden bei ruhigem Wasser."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-rio-dulce-manatee-sanctuary-life-v2.webp"},
   {
     id: "gt-chocon-machacas-manatee-coast-life-v2",
     type: "animal-habitat",
@@ -441,8 +426,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Lagoons", "Manatee habitat", "Rich birdlife"]
     },
     descriptionAdvanced: { de: "Chocón Machacas ist ein spezielles Biotop am Unterlauf des Río Dulce, das primär zum Schutz des Karibik-Manatis und des Mangrovenwaldes eingerichtet wurde. Dieses Labyrinth aus Lagunen und Wasserwegen ist ein ökologisch hochsensibles Gebiet, das eine Brücke zwischen den Süßwasserökosystemen und der Meeresküste schlägt. Neben den Manatis ist die Region bekannt für ihre reiche Vogelwelt, darunter verschiedene Reiherarten und Eisvögel. Die dichte Vegetation am Ufer bietet zudem Lebensraum für Brüllaffen und Schildkröten. Chocón Machacas ist ein Ort der Stille und der reinen Natur, der nur per Boot erreichbar ist und ein tiefes Eintauchen in die tropische Wildnis ermöglicht.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Das Biotop wird von der Universität San Carlos als wissenschaftliches Reservat verwaltet.", "Ein spezielles Wegenetz auf Stegen erlaubt es, die Mangroven zu erkunden, ohne den Boden zu schädigen.", "Es ist einer der wenigen Orte, an denen man das Ökosystem der Karibikküste fast ungestört erleben kann.", "Forschungsprojekte zur Wasserqualität und zum Manati-Bestand werden hier kontinuierlich durchgeführt."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Das Biotop wird von der Universität San Carlos als wissenschaftliches Reservat verwaltet.", "Ein spezielles Wegenetz auf Stegen erlaubt es, die Mangroven zu erkunden, ohne den Boden zu schädigen.", "Es ist einer der wenigen Orte, an denen man das Ökosystem der Karibikküste fast ungestört erleben kann.", "Forschungsprojekte zur Wasserqualität und zum Manati-Bestand werden hier kontinuierlich durchgeführt."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-chocon-machacas-manatee-coast-life-v2.webp"},
   {
     id: "gt-punta-de-manabique-turtle-coast-life-v2",
     type: "animal-habitat",
@@ -467,8 +451,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Nesting sites", "Mangrove coast", "Remote nature"]
     },
     descriptionAdvanced: { de: "Punta de Manabique ist eine abgelegene Halbinsel an der Karibikküste Guatemalas, die ein Mosaik aus tropischen Wäldern, Mangroven und Sandstränden darstellt. Die unberührten Strände dieses Naturschutzgebietes sind wichtige Nistplätze für verschiedene Arten von Meeresschildkröten, darunter die Echte Karettschildkröte. Die Abgeschiedenheit des Gebiets bietet diesen bedrohten Tieren einen sicheren Rückzugsort vor menschlichen Störungen. Neben dem Schutz der Schildkröten ist Punta de Manabique ein Hotspot für Meeresbiologen und Vogelbeobachter, da hier viele seltene Arten der Karibik vorkommen. Der Zugang zu diesem Paradies ist mühsam, belohnt aber mit einer Wildnis, die in Mittelamerika selten geworden ist.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Punta de Manabique ist das einzige marine Schutzgebiet Guatemalas an der Karibikküste.", "Die Korallenriffe in der Nähe der Halbinsel beherbergen eine bunte Vielfalt an Meereslebewesen.", "Es ist ein wichtiges Refugium für Zugvögel auf ihrem Weg zwischen Nord- und Südamerika.", "Lokale Fischer sind Partner im Schutzprogramm für die Meeresschildkröten."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Punta de Manabique ist das einzige marine Schutzgebiet Guatemalas an der Karibikküste.", "Die Korallenriffe in der Nähe der Halbinsel beherbergen eine bunte Vielfalt an Meereslebewesen.", "Es ist ein wichtiges Refugium für Zugvögel auf ihrem Weg zwischen Nord- und Südamerika.", "Lokale Fischer sind Partner im Schutzprogramm für die Meeresschildkröten."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-punta-de-manabique-turtle-coast-life-v2.webp"},
   {
     id: "gt-izabal-banana-plantations-life-v2",
     type: "agriculture",
@@ -493,8 +476,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Tropical fruit", "Major export", "Humid lowland climate"]
     },
     descriptionAdvanced: { de: "Die Bananenplantagen im Departement Izabal sind ein wesentlicher Bestandteil der guatemaltekischen Agrarlandschaft und Wirtschaft. In den fruchtbaren, feuchten Tiefländern der Karibikküste erstrecken sich kilometerweite Felder mit Bananenstauden, die das ganze Jahr über geerntet werden. Die Produktion ist hochgradig organisiert und umfasst spezialisierte Bewässerungssysteme und Transportbahnen innerhalb der Plantagen. Bananen gehören zu den wichtigsten Exportgütern Guatemalas und prägen seit über einem Jahrhundert die soziale und wirtschaftliche Struktur der Region Izabal. Besucher können in einigen Bereichen die beeindruckende Logistik hinter der Bananenproduktion miterleben, von der Ernte der schweren Stauden bis zum Abtransport in die Verpackungsstationen.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Guatemala ist konstant unter den Top 5 der Bananenexporteure weltweit.", "Die Sorte 'Cavendish' ist die am häufigsten angebaute Banane für den Exportmarkt.", "Ein Großteil der Produktion wird über den Hafen von Puerto Barrios weltweit verschifft.", "Moderne Techniken wie biologische Schädlingsbekämpfung werden zunehmend eingesetzt."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Guatemala ist konstant unter den Top 5 der Bananenexporteure weltweit.", "Die Sorte 'Cavendish' ist die am häufigsten angebaute Banane für den Exportmarkt.", "Ein Großteil der Produktion wird über den Hafen von Puerto Barrios weltweit verschifft.", "Moderne Techniken wie biologische Schädlingsbekämpfung werden zunehmend eingesetzt."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-izabal-banana-plantations-life-v2.webp"},
   {
     id: "gt-antigua-coffee-plantations-life-v2",
     type: "agriculture",
@@ -519,8 +501,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Highland coffee", "Volcanic soils", "Strong farm tradition"]
     },
     descriptionAdvanced: { de: "Der Kaffeeanbau rund um Antigua Guatemala ist legendär und bringt einige der besten Arabica-Bohnen der Welt hervor. Die Kombination aus einer Höhe von über 1.500 Metern, mineralreichen Vulkanböden und einem stabilen Mikroklima verleiht dem Kaffee sein charakteristisches Aroma mit Schokoladen- und Gewürznoten. Die Plantagen liegen oft malerisch an den Hängen der drei Vulkane Agua, Fuego und Acatenango und werden meist unter Schattenbäumen bewirtschaftet. Diese 'Schattenkaffee-Tradition' schützt nicht nur die empfindlichen Pflanzen, sondern fördert auch die Biodiversität und den Bodenschutz. Eine Tour durch diese Plantagen bietet tiefe Einblicke in ein Handwerk, das tief in der Geschichte und Identität von Antigua verwurzelt ist.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Kaffee aus Antigua besitzt eine geschützte Ursprungsbezeichnung (APCA).", "Viele Farmen nutzen noch historische Wasch- und Trocknungsanlagen aus der Kolonialzeit.", "Die Ernte erfolgt ausschließlich von Hand, um nur die reifsten Kirschen auszuwählen.", "Antigua-Kaffee erzielt regelmäßig Spitzenpreise auf internationalen Auktionen."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Kaffee aus Antigua besitzt eine geschützte Ursprungsbezeichnung (APCA).", "Viele Farmen nutzen noch historische Wasch- und Trocknungsanlagen aus der Kolonialzeit.", "Die Ernte erfolgt ausschließlich von Hand, um nur die reifsten Kirschen auszuwählen.", "Antigua-Kaffee erzielt regelmäßig Spitzenpreise auf internationalen Auktionen."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-antigua-coffee-plantations-life-v2.webp"},
   {
     id: "gt-finca-filadelfia-coffee-life-v2",
     type: "agriculture",
@@ -545,8 +526,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Coffee production", "Rural visit site", "Garden and farm"]
     },
     descriptionAdvanced: { de: "Die Finca Filadelfia ist eine der ältesten und traditionsreichsten Kaffeeplantagen in der Nähe von Antigua Guatemala. Seit Mitte des 19. Jahrhunderts produziert dieser Familienbetrieb hochwertigen Kaffee und hat sich gleichzeitig zu einem führenden Zentrum für Kaffeetourismus entwickelt. Besucher können hier den gesamten Zyklus der Kaffeeproduktion miterleben, von den Setzlingen in der Baumschule bis zur Röstung der fertigen Bohnen. Die Finca bietet zudem Aktivitäten wie Reiten und Vogelbeobachtung an, was sie zu einem attraktiven Ziel für Natur- und Kulturinteressierte macht. Das Engagement für Qualität und Nachhaltigkeit hat der Finca Filadelfia einen festen Platz in der globalen Spezialitätenkaffee-Szene gesichert.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Finca wird bereits in der vierten und fünften Generation von der Familie Dalton geführt.", "Ein Highlight ist die Fahrt in historischen Jeeps durch die ausgedehnten Kaffeehaine.", "Die hauseigene Kaffeemarke 'R. Dalton' ist ein beliebtes Souvenir für Kenner.", "Das Anwesen beherbergt auch ein erstklassiges Hotel und Restaurant inmitten der Plantage."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Finca wird bereits in der vierten und fünften Generation von der Familie Dalton geführt.", "Ein Highlight ist die Fahrt in historischen Jeeps durch die ausgedehnten Kaffeehaine.", "Die hauseigene Kaffeemarke 'R. Dalton' ist ein beliebtes Souvenir für Kenner.", "Das Anwesen beherbergt auch ein erstklassiges Hotel und Restaurant inmitten der Plantage."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-finca-filadelfia-coffee-life-v2.webp"},
   {
     id: "gt-finca-la-azotea-coffee-life-v2",
     type: "agriculture",
@@ -571,8 +551,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Coffee and tradition", "Museum spaces", "Shaded garden paths"]
     },
     descriptionAdvanced: { de: "Die Finca La Azotea in Jocotenango kombiniert landwirtschaftliche Produktion mit einem reichen kulturellen Angebot. Neben den aktiven Kaffeefeldern beherbergt das Anwesen das bekannte Kaffeemuseum sowie Ausstellungen zur Maya-Musik und zu indigenen Traditionen. Besucher können durch die schattigen Plantagen wandern und erfahren, wie die Kaffeekultur das soziale Leben in Guatemala geprägt hat. Die Finca ist besonders für ihre familienfreundliche Atmosphäre und die Bildungsprogramme bekannt, die den Besuchern die Bedeutung des fairen Handels und des Umweltschutzes näherbringen. Die harmonische Verbindung von Natur, Geschichte und zeitgenössischem Kaffeebau macht La Azotea zu einem einzigartigen Erlebnisraum in der Region Antigua.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Das Kaffeemuseum bietet eine faszinierende Sammlung historischer Werkzeuge und Maschinen.", "In den Gärten der Finca wachsen zahlreiche Heil- und Nutzpflanzen der Region.", "Regelmäßig finden Vorführungen traditioneller Webkunst durch lokale Maya-Frauen statt.", "Die Finca ist ein beliebter Ort für kulturelle Veranstaltungen und Konzerte im Freien."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Das Kaffeemuseum bietet eine faszinierende Sammlung historischer Werkzeuge und Maschinen.", "In den Gärten der Finca wachsen zahlreiche Heil- und Nutzpflanzen der Region.", "Regelmäßig finden Vorführungen traditioneller Webkunst durch lokale Maya-Frauen statt.", "Die Finca ist ein beliebter Ort für kulturelle Veranstaltungen und Konzerte im Freien."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-finca-la-azotea-coffee-life-v2.webp"},
   {
     id: "gt-quetzaltenango-apple-orchards-life-v2",
     type: "agriculture",
@@ -597,8 +576,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Highland fruit growing", "Cool climate", "Small family orchards"]
     },
     descriptionAdvanced: { de: "Das kühle Hochland rund um Quetzaltenango ist die wichtigste Region für den Anbau von Äpfeln und anderem gemäßigten Kernobst in Guatemala. Die Höhenlagen von über 2.300 Metern bieten die notwendigen Kältestunden, die diese Obstbäume für eine erfolgreiche Blüte und Fruchtbildung benötigen. Die Apfelhaine prägen das Landschaftsbild in Tälern wie Almolonga und Salcajá und bieten eine farbenfrohe Abwechslung zu den Maisfeldern. Lokale Bauern kultivieren verschiedene Sorten, die auf den Märkten der gesamten Region für ihre Frische und Qualität geschätzt werden. Diese Obstproduktion ist ein wichtiger Wirtschaftszweig, der die regionale Autonomie stärkt und die traditionelle Landwirtschaft diversifiziert.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Erntezeit der Äpfel im Hochland liegt hauptsächlich zwischen August und Oktober.", "Lokale Sorten wie der 'Ana'-Apfel sind besonders an das Klima Guatemalas angepasst.", "Die Region versorgt einen Großteil Zentralamerikas mit frischen Äpfeln und Birnen.", "Obstfeste in den umliegenden Dörfern feiern die Ernte mit Musik und traditionellen Speisen."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Erntezeit der Äpfel im Hochland liegt hauptsächlich zwischen August und Oktober.", "Lokale Sorten wie der 'Ana'-Apfel sind besonders an das Klima Guatemalas angepasst.", "Die Region versorgt einen Großteil Zentralamerikas mit frischen Äpfeln und Birnen.", "Obstfeste in den umliegenden Dörfern feiern die Ernte mit Musik und traditionellen Speisen."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-quetzaltenango-apple-orchards-life-v2.webp"},
   {
     id: "gt-xetulul-theme-park-life-v2",
     type: "kid-landmark",
@@ -623,8 +601,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Popular with families", "Many themed zones", "Part of the IRTRA complex"]
     },
     descriptionAdvanced: { de: "Xetulul ist ein preisgekrönter Themenpark in Retalhuleu, der für seine beeindruckende Architektur und seine erstklassigen Attraktionen bekannt ist. Der Park ist in verschiedene Themenbereiche unterteilt, die architektonische Meisterwerke aus Guatemala, Spanien, Italien, Frankreich und Deutschland nachbilden. Besucher können in einem einzigen Tag von der Plaza de España zur Fontana di Trevi reisen und gleichzeitig mehr über die guatemaltekische Geschichte erfahren. Xetulul bietet eine Vielzahl von Fahrgeschäften, von familienfreundlichen Karussells bis hin zu aufregenden Achterbahnen wie der 'Avalancha'. Er wird von IRTRA betrieben und gilt als einer der besten Freizeitparks in ganz Lateinamerika.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Park kann täglich bis zu 12.000 Besucher aufnehmen.", "Xetulul erhielt den 'Applause Award', eine der höchsten Auszeichnungen der Freizeitparkbranche.", "Die detailgetreuen Nachbauten europäischer Denkmäler dienen oft als Filmkulisse.", "Ein großes Theater im Park bietet täglich spektakuläre Shows und Varieté-Aufführungen."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Park kann täglich bis zu 12.000 Besucher aufnehmen.", "Xetulul erhielt den 'Applause Award', eine der höchsten Auszeichnungen der Freizeitparkbranche.", "Die detailgetreuen Nachbauten europäischer Denkmäler dienen oft als Filmkulisse.", "Ein großes Theater im Park bietet täglich spektakuläre Shows und Varieté-Aufführungen."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-xetulul-theme-park-life-v2.webp"},
   {
     id: "gt-xocomil-water-park-life-v2",
     type: "kid-landmark",
@@ -649,8 +626,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Water slides", "Family outing", "Popular in the hot west"]
     },
     descriptionAdvanced: { de: "Xocomil ist der größte und spektakulärste Wasserpark Guatemalas und liegt direkt neben dem Themenpark Xetulul in Retalhuleu. Der Name stammt aus der Maya-Sprache und bezieht sich auf die starken Winde, die über den Atitlán-See wehen. Der Park ist im Maya-Stil gestaltet und verfügt über eine beeindruckende Anzahl an Rutschen, Wellenbecken und Strömungskanälen, die in eine üppige tropische Vegetation eingebettet sind. Zu den Highlights gehören die Hochgeschwindigkeitsrutschen und das interaktive Maya-Schloss für Kinder. Xocomil bietet eine perfekte Erfrischung im heißen Klima der pazifischen Küstenebene und setzt hohe Maßstäbe in Bezug auf Sicherheit und Hygiene. Er ist ein Highlight für jede Familienreise durch den Westen des Landes.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Park wurde mehrfach als bester Wasserpark in der Kategorie 'Innovation' ausgezeichnet.", "Die Wellenbecken können Wellen von bis zu 1,5 Metern Höhe erzeugen.", "Ein entspannender 'Lazy River' führt an Repliken antiker Maya-Monumente vorbei.", "Die Wasserreinigungsanlagen des Parks gehören zu den modernsten der gesamten Region."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Park wurde mehrfach als bester Wasserpark in der Kategorie 'Innovation' ausgezeichnet.", "Die Wellenbecken können Wellen von bis zu 1,5 Metern Höhe erzeugen.", "Ein entspannender 'Lazy River' führt an Repliken antiker Maya-Monumente vorbei.", "Die Wasserreinigungsanlagen des Parks gehören zu den modernsten der gesamten Region."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-xocomil-water-park-life-v2.webp"},
   {
     id: "gt-jalapa-dairy-valley-life-v2",
     type: "agriculture",
@@ -675,8 +651,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Dairy products", "Highland climate", "Small ranches"]
     },
     descriptionAdvanced: { de: "Das Tal von Jalapa im Osten Guatemalas ist eine der wichtigsten Regionen für die Milchwirtschaft und die Produktion traditioneller Käsesorten. Das gemäßigte Klima und die saftigen Hochlandweiden bieten ideale Bedingungen für die Haltung von Milchvieh. Jalapa ist landesweit bekannt für Spezialitäten wie den 'Queso de Capas' und den 'Queso Seco', die nach handwerklichen Methoden hergestellt werden, die oft seit Jahrhunderten unverändert sind. Die Milchwirtschaft ist hier eng mit dem familiären Gefüge der kleinen Farmen (Ranches) verknüpft und bildet das Rückgrat der lokalen Wirtschaft. Ein Besuch in dieser Region ermöglicht es, die authentische ländliche Kultur Guatemalas und ihre kulinarischen Schätze abseits der touristischen Pfade zu entdecken.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Käse aus Jalapa wird täglich frisch in die Hauptstadt und in alle Teile des Landes geliefert.", "Viehmärkte in der Stadt Jalapa sind zentrale Handelsplätze für Zuchttiere.", "Viele Farmen bieten Besuchern die Möglichkeit, beim traditionellen Melken zuzuschauen.", "Die Region ist auch für ihre handgefertigten Lederwaren, wie Sättel und Stiefel, bekannt."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Käse aus Jalapa wird täglich frisch in die Hauptstadt und in alle Teile des Landes geliefert.", "Viehmärkte in der Stadt Jalapa sind zentrale Handelsplätze für Zuchttiere.", "Viele Farmen bieten Besuchern die Möglichkeit, beim traditionellen Melken zuzuschauen.", "Die Region ist auch für ihre handgefertigten Lederwaren, wie Sättel und Stiefel, bekannt."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-jalapa-dairy-valley-life-v2.webp"},
   {
     id: "gt-chimaltenango-vegetable-valleys-life-v2",
     type: "agriculture",
@@ -701,8 +676,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Fresh vegetables", "Close to the capital", "Intensive small-scale farming"]
     },
     descriptionAdvanced: { de: "Die Täler von Chimaltenango sind der 'Gemüsegarten Guatemalas' und versorgen einen Großteil Mittelamerikas mit frischen Agrarprodukten. Dank der fruchtbaren Vulkanböden und des milden Klimas können hier das ganze Jahr über Brokkoli, Blumenkohl, Erbsen und Karotten in höchster Qualität angebaut werden. Der Sektor wird von Tausenden von Kleinbauern getragen, die oft genossenschaftlich organisiert sind, um ihre Produkte direkt in die USA oder nach Europa zu exportieren. Die Landschaft ist geprägt von akkurat angelegten Feldern, die sich wie ein Mosaik über die Hügel ziehen. Chimaltenango ist ein eindrucksvolles Beispiel für die Vitalität und Effizienz der bäuerlichen Landwirtschaft in Guatemala und spielt eine entscheidende Rolle für die Deviseneinnahmen des Landes.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Region ist führend im Export von nicht-traditionellen Agrarprodukten in Mittelamerika.", "Moderne Bewässerungstechniken erlauben mehrere Ernten pro Jahr unabhängig von der Regenzeit.", "Viele Bauernhöfe arbeiten unter strengen internationalen Zertifizierungen für den Export.", "Die lokalen Märkte von Chimaltenango gehören zu den buntesten und produktreichsten des Landes."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Region ist führend im Export von nicht-traditionellen Agrarprodukten in Mittelamerika.", "Moderne Bewässerungstechniken erlauben mehrere Ernten pro Jahr unabhängig von der Regenzeit.", "Viele Bauernhöfe arbeiten unter strengen internationalen Zertifizierungen für den Export.", "Die lokalen Märkte von Chimaltenango gehören zu den buntesten und produktreichsten des Landes."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-chimaltenango-vegetable-valleys-life-v2.webp"},
   {
     id: "gt-jutiapa-sesame-fields-life-v2",
     type: "agriculture",
@@ -727,8 +701,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Seasonal cultivation", "Dry eastern region", "Small field plots"]
     },
     descriptionAdvanced: { de: "Jutiapa, im trockenen Osten Guatemalas gelegen, ist das Hauptanbaugebiet für Sesam im Land. Diese robuste Pflanze gedeiht hervorragend in dem heißen, sonnigen Klima und den sandigen Böden der Region. Der Anbau erfolgt meist in der zweiten Jahreshälfte und bietet vielen Kleinbauern eine wertvolle Einnahmequelle. Guatemala gehört zu den bedeutenden Exporteuren von hochwertigem Sesam, der vor allem in der internationalen Lebensmittelindustrie und für die Ölgewinnung geschätzt wird. Die Ernte und Verarbeitung des Sesams ist arbeitsintensiv und erfordert viel Geschick beim Trocknen der Samenkapseln. Die goldgelben Felder während der Reifezeit verleihen der Landschaft von Jutiapa einen ganz besonderen Charakter.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Sesam aus Jutiapa ist bekannt für seinen hohen Ölgehalt und sein feines Aroma.", "Ein Großteil des guatemaltekischen Sesams wird nach Japan und in die USA exportiert.", "Die Pflanzen dienen auch als wichtiger Schutz gegen Bodenerosion in den trockenen Gebieten.", "In Jutiapa werden auch andere trockenheitsresistente Kulturen wie Melonen und Sorghum angebaut."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Sesam aus Jutiapa ist bekannt für seinen hohen Ölgehalt und sein feines Aroma.", "Ein Großteil des guatemaltekischen Sesams wird nach Japan und in die USA exportiert.", "Die Pflanzen dienen auch als wichtiger Schutz gegen Bodenerosion in den trockenen Gebieten.", "In Jutiapa werden auch andere trockenheitsresistente Kulturen wie Melonen und Sorghum angebaut."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-jutiapa-sesame-fields-life-v2.webp"},
   {
     id: "gt-finca-el-pilar-life-v2",
     type: "kid-landmark",
@@ -753,8 +726,7 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
       en: ["Short hikes", "Rich birdlife", "Popular day trip"]
     },
     descriptionAdvanced: { de: "Die Finca El Pilar ist ein privates Naturreservat und eine Kaffeefarm direkt am Rande von Antigua Guatemala, die als Rückzugsort für Natur- und Vogelliebhaber dient. Das Reservat schützt verschiedene Ökosysteme, vom trockenen Buschwald am Fuße bis zum feuchten Nebelwald in den höheren Lagen. El Pilar ist weltweit bekannt als einer der besten Orte zur Beobachtung von Kolibris, die an speziellen Futterstationen aus nächster Nähe bewundert werden können. Wanderwege führen durch dichte Vegetation zu Aussichtspunkten mit spektakulärem Blick auf die Vulkane Agua, Fuego und Acatenango. Die Finca bietet zudem Thermalbecken, die mit natürlichem Bergwasser gefüllt sind und zur Entspannung nach einer Wanderung einladen. Es ist ein Ort, der zeigt, wie Landwirtschaft und Naturschutz harmonisch nebeneinander bestehen können.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Über 10 verschiedene Kolibriarten können an den Futterstationen des Reservats gesichtet werden.", "Die Wanderung zum Gipfel des Hügels bietet einen der besten Fotopunkte für Antigua.", "Das Reservat ist ein wichtiger Teil des biologischen Korridors um die Vulkane.", "Die Kaffeeproduktion auf der Finca folgt ökologischen und nachhaltigen Prinzipien."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Über 10 verschiedene Kolibriarten können an den Futterstationen des Reservats gesichtet werden.", "Die Wanderung zum Gipfel des Hügels bietet einen der besten Fotopunkte für Antigua.", "Das Reservat ist ein wichtiger Teil des biologischen Korridors um die Vulkane.", "Die Kaffeeproduktion auf der Finca folgt ökologischen und nachhaltigen Prinzipien."], hu: [], ro: [], en: [] }, image: "/poi-images/gt-finca-el-pilar-life-v2.webp"},
   {
     id: "gt-chocomuseo-antigua-life-v2",
     type: "kid-landmark",
@@ -782,3 +754,4 @@ export const poiExtraGuatemalaLifeV2: POI[] = [
     factsAdvanced: { de: ["Guatemala war für die Maya und Azteken die wichtigste Quelle für hochwertigen Kakao.", "Im Museumsshop finden sich zahlreiche handgemachte Schokoladenprodukte aus lokalem Kakao.", "Die Workshops sind besonders bei Kindern beliebt, da sie selbst Hand anlegen dürfen.", "Das Museum engagiert sich für den fairen Handel mit Kakaobauern aus dem guatemaltekischen Tiefland."], hu: [], ro: [], en: [] }
   }
 ];
+

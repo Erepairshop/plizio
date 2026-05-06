@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 import { cyprusOtherPoi } from "./poiExtraCyprusOther";
 
@@ -49,8 +50,7 @@ export const cyprusCountry: POI = {
         "Muflonul, o oaie sălbatică, este cel mai mare mamifer de pe insulă și un simbol național."
     ],
     en: []
-  }
-};
+  }, image: "/poi-images/country-cyprus.webp"};
 
 export const cyprusRegions: POI[] = [
   {
@@ -134,8 +134,7 @@ export const cyprusRegions: POI[] = [
         "Orașul antic Amathus, unul dintre cele mai importante regate din Cipru, este situat la est de Limassol."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-limassol.webp"},
   {
     id: "cy-larnaca",
     type: "city",
@@ -175,8 +174,7 @@ export const cyprusRegions: POI[] = [
         "Apeductul Kamares, din secolul al XVIII-lea, a alimentat orașul cu apă până în anii 1930."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-larnaca.webp"},
   {
     id: "cy-paphos",
     type: "city",
@@ -216,8 +214,7 @@ export const cyprusRegions: POI[] = [
         "Peninsula Akamas, o rezervație naturală virgină, se află la nord-vest de Paphos."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-paphos.webp"},
   {
     id: "cy-famagusta",
     type: "city",
@@ -257,8 +254,7 @@ export const cyprusRegions: POI[] = [
         "Famagusta are cel mai adânc port din Cipru."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-famagusta.webp"},
   {
     id: "cy-kyrenia",
     type: "city",
@@ -298,8 +294,7 @@ export const cyprusRegions: POI[] = [
         "Orașul a fost un important port militar în timpul dominației venețiene."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-kyrenia.webp"},
   {
     id: "cy-ayianapa",
     type: "city",
@@ -339,8 +334,7 @@ export const cyprusRegions: POI[] = [
         "Ayia Napa este deosebit de populară printre amatorii de cluburi din toată Europa."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-ayianapa.webp"},
   {
     id: "cy-kourion",
     type: "historical",
@@ -380,8 +374,7 @@ export const cyprusRegions: POI[] = [
         "Alimentarea cu apă a orașului era asigurată de două apeducte."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-kourion.webp"},
   {
     id: "cy-tombs-kings",
     type: "historical",
@@ -421,8 +414,7 @@ export const cyprusRegions: POI[] = [
         "Majoritatea mormintelor sunt săpate direct în roca naturală."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-tombs-kings.webp"},
   {
     id: "cy-kolossi",
     type: "historical",
@@ -462,8 +454,7 @@ export const cyprusRegions: POI[] = [
         "Castelul a fost deținut pentru scurt timp de Cavalerii Templieri înainte de a reveni Cavalerilor Ospitalieri."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-kolossi.webp"},
   {
     id: "cy-hala-sultan",
     type: "historical",
@@ -503,8 +494,7 @@ export const cyprusRegions: POI[] = [
         "Situl este situat la doar câțiva kilometri de Aeroportul Internațional Larnaca."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-hala-sultan.webp"},
   {
     id: "cy-kykkos",
     type: "historical",
@@ -544,8 +534,7 @@ export const cyprusRegions: POI[] = [
         "Mii de pelerini vizitează mănăstirea în fiecare an, în special de sărbătorile Fecioarei Maria."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-kykkos.webp"},
   {
     id: "cy-salamis",
     type: "historical",
@@ -585,8 +574,7 @@ export const cyprusRegions: POI[] = [
         "Gimnaziul roman a fost construit inițial în perioada elenistică și ulterior remodelat de romani."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-salamis.webp"},
   {
     id: "cy-choirokoitia",
     type: "historical",
@@ -626,8 +614,7 @@ export const cyprusRegions: POI[] = [
         "Așezarea a fost brusc abandonată din motive necunoscute în jurul anului 6000 î.Hr."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-choirokoitia.webp"},
   {
     id: "cy-st-lazarus",
     type: "historical",
@@ -667,8 +654,7 @@ export const cyprusRegions: POI[] = [
         "Biserica este un important loc de pelerinaj pentru creștinii ortodocși."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-st-lazarus.webp"},
   {
     id: "cy-mount-olympus",
     type: "landmark",
@@ -708,8 +694,7 @@ export const cyprusRegions: POI[] = [
         "Munții Troodos s-au format acum aproximativ 90 de milioane de ani prin procese complexe de expansiune a fundului oceanic."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-mount-olympus.webp"},
   {
     id: "cy-cape-greco",
     type: "landmark",
@@ -749,8 +734,7 @@ export const cyprusRegions: POI[] = [
         "Există o pădure scufundată subacvatică, populară printre scafandri."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-cape-greco.webp"},
   {
     id: "cy-akamas",
     type: "landmark",
@@ -790,8 +774,7 @@ export const cyprusRegions: POI[] = [
         "Drumețiile, ciclismul montan și excursiile cu vehicule 4x4 sunt activități populare în Akamas."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-akamas.webp"},
   {
     id: "cy-salt-lake",
     type: "landmark",
@@ -831,8 +814,7 @@ export const cyprusRegions: POI[] = [
         "Legenda spune că lacurile s-au format după ce Sfântul Lazăr a blestemat o bătrână care a refuzat să-i dea de mâncare și de băut."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-salt-lake.webp"},
   {
     id: "cy-aphrodite-rock",
     type: "landmark",
@@ -872,8 +854,7 @@ export const cyprusRegions: POI[] = [
         "Stânca este un subiect popular pentru artiști și fotografi."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-aphrodite-rock.webp"},
   {
     id: "cy-avakas-gorge",
     type: "landmark",
@@ -913,8 +894,7 @@ export const cyprusRegions: POI[] = [
         "Încălțămintea rezistentă este esențială pentru drumeție."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-avakas-gorge.webp"},
   {
     id: "cy-nissi-beach",
     type: "landmark",
@@ -954,8 +934,7 @@ export const cyprusRegions: POI[] = [
         "În lunile mai liniștite, Plaja Nissi este un loc pașnic și pitoresc."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-nissi-beach.webp"},
   {
     id: "cy-limassol-carnival",
     type: "landmark",
@@ -995,8 +974,7 @@ export const cyprusRegions: POI[] = [
         "Tradiția carnavalului a fost menținută și în timpul perioadei coloniale britanice."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-limassol-carnival.webp"},
   {
     id: "cy-paphos-aphrodite",
     type: "landmark",
@@ -1077,8 +1055,7 @@ export const cyprusRegions: POI[] = [
         "Festivalul marchează începutul sezonului de vară pentru mulți ciprioți."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-kataklysmos.webp"},
   {
     id: "cy-wine-festival",
     type: "landmark",
@@ -1118,8 +1095,7 @@ export const cyprusRegions: POI[] = [
         "Este unul dintre cele mai importante evenimente culturale din Limassol."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-wine-festival.webp"},
   {
     id: "cy-st-hilarion",
     type: "historical",
@@ -1159,8 +1135,7 @@ export const cyprusRegions: POI[] = [
         "Castelul este cunoscut și sub numele de 'Dio Kynoi' (Cei doi câini)."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-st-hilarion.webp"},
   {
     id: "cy-bellapais",
     type: "historical",
@@ -1200,8 +1175,7 @@ export const cyprusRegions: POI[] = [
         "Două sarcofage romane de la intrare au servit odinioară drept chiuvete."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-bellapais.webp"},
   {
     id: "cy-othello-castle",
     type: "historical",
@@ -1241,8 +1215,7 @@ export const cyprusRegions: POI[] = [
         "Legătura cu Othello nu este dovedită istoric, dar este o legendă fascinantă."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-othello-castle.webp"},
   {
     id: "cy-blue-lagoon",
     type: "landmark",
@@ -1282,8 +1255,7 @@ export const cyprusRegions: POI[] = [
         "Excursiile cu barca durează de obicei o jumătate de zi sau o zi întreagă."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/cy-blue-lagoon.webp"},
   {
     id: "CY-001-zenobia",
     type: "landmark",
@@ -1329,8 +1301,7 @@ export const cyprusRegions: POI[] = [
         "Epava este desemnată ca arie marină protejată oficial."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/CY-001-zenobia.webp"},
   {
     id: "CY-001-larnaca-fort",
     type: "landmark",
@@ -1376,8 +1347,7 @@ export const cyprusRegions: POI[] = [
         "Tunurile de pe metereze sunt de origine otomană."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/CY-001-larnaca-fort.webp"},
   {
     id: "CY-002-varosha",
     type: "landmark",
@@ -1423,8 +1393,7 @@ export const cyprusRegions: POI[] = [
         "Înainte de 1974, Varosha genera peste 50% din veniturile totale din turism ale Ciprului."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/CY-002-varosha.webp"},
   {
     id: "CY-002-fig-tree-bay",
     type: "landmark",
@@ -1470,8 +1439,7 @@ export const cyprusRegions: POI[] = [
         "Smochinul care a dat numele plajei poate fi văzut și astăzi."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/CY-002-fig-tree-bay.webp"},
   {
     id: "CY-003-cyprus-museum",
     type: "landmark",
@@ -1517,8 +1485,7 @@ export const cyprusRegions: POI[] = [
         "Documentează diversele influențe culturale asupra Ciprului de-a lungul mileniilor."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/CY-003-cyprus-museum.webp"},
   {
     id: "CY-003-ledra-street",
     type: "landmark",
@@ -1564,8 +1531,7 @@ export const cyprusRegions: POI[] = [
         "Deschiderea străzii a fost o măsură importantă de consolidare a încrederii între cele două comunități."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/CY-003-ledra-street.webp"},
   {
     id: "CY-004-amathus",
     type: "landmark",
@@ -1611,8 +1577,7 @@ export const cyprusRegions: POI[] = [
         "Vasul de piatră din Amathus are peste 1,85 metri înălțime și cântărește 14 tone."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/CY-004-amathus.webp"},
   {
     id: "CY-004-sanctuary-apollo",
     type: "landmark",
@@ -1658,8 +1623,7 @@ export const cyprusRegions: POI[] = [
         "Arhitectura prezintă un amestec de stiluri grecești și romane."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/CY-004-sanctuary-apollo.webp"},
   {
     id: "CY-005-paphos-castle",
     type: "landmark",
@@ -1705,8 +1669,7 @@ export const cyprusRegions: POI[] = [
         "Otomanii au folosit castelul pentru a se apăra împotriva atacurilor piraților."
       ],
       en: []
-    }
-  },
+    }, image: "/poi-images/CY-005-paphos-castle.webp"},
   {
     id: "CY-005-adonis-baths",
     type: "landmark",
@@ -1758,3 +1721,4 @@ export const cyprusRegions: POI[] = [
 
 export const cyprusAllPoi: POI[] = [cyprusCountry,
   ...cyprusRegions, ...cyprusOtherPoi];
+

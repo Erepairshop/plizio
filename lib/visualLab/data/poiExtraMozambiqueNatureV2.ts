@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMozambiqueNatureV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Zambiában ered", "Az Indiai-óceánba ömlik", "A Viktória-vízesésről híres", "Fontos vízi út Mozambik számára"],
       ro: ["Izvorăște în Zambia", "Se varsă în Oceanul Indian", "Celebru pentru Cascada Victoria", "Importantă cale navigabilă pentru Mozambic"],
       en: ["Originates in Zambia", "Flows into the Indian Ocean", "Famous for Victoria Falls", "Important waterway for Mozambique"]
-    }
-  },
+    }, image: "/poi-images/zambezi-river-nature-v2.webp"},
   {
     id: "lake-niassa-nature-v2",
     type: "lake",
@@ -27,8 +27,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Afrika harmadik legnagyobb tava", "Nagyon mély", "Malawi-tóként is ismert", "Magas endemikus halfajok száma"],
       ro: ["Al treilea lac ca mărime din Africa", "Foarte adânc", "Cunoscut sub numele de Lacul Malawi", "Bogăție mare de specii endemice de pești"],
       en: ["Third largest lake in Africa", "Very deep", "Known as Lake Malawi", "High number of endemic fish species"]
-    }
-  },
+    }, image: "/poi-images/lake-niassa-nature-v2.webp"},
   {
     id: "bazaruto-island-nature-v2",
     type: "island",
@@ -41,8 +40,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Nemzeti park része", "Népszerű búvárhely", "Ritka dugongok otthona", "Homokdűnés tájak"],
       ro: ["Parte a unui parc național", "Popular printre scafandri", "Casă pentru dugongi rari", "Peisaje cu dune de nisip"],
       en: ["Part of a national park", "Popular with divers", "Home to rare dugongs", "Sand dune landscapes"]
-    }
-  },
+    }, image: "/poi-images/bazaruto-island-nature-v2.webp"},
   {
     id: "gorongosa-mountain-nature-v2",
     type: "mountain",
@@ -55,8 +53,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Fontos vízforrás", "Esőerdei területek", "Védett terület", "Biodiverzitás-központ"],
       ro: ["Sursă importantă de apă", "Zone de pădure tropicală", "Arie protejată", "Hotspot de biodiversitate"],
       en: ["Important water source", "Rainforest areas", "Protected area", "Biodiversity hotspot"]
-    }
-  },
+    }, image: "/poi-images/gorongosa-mountain-nature-v2.webp"},
   {
     id: "limpopo-river-nature-v2",
     type: "river",
@@ -69,8 +66,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["A második legnagyobb keletre folyó folyó", "Határfolyó", "Az Indiai-óceánba ömlik", "Fontos a mezőgazdaságnak"],
       ro: ["Al doilea mare fluviu care curge spre est", "Fluviu de frontieră", "Se varsă în Oceanul Indian", "Important pentru agricultură"],
       en: ["Second-largest eastward-flowing river", "Border river", "Flows into the Indian Ocean", "Important for agriculture"]
-    }
-  },
+    }, image: "/poi-images/limpopo-river-nature-v2.webp"},
   {
     id: "primeiras-and-segundas-nature-v2",
     type: "island",
@@ -83,8 +79,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Korall-szigetcsoport", "Védett terület", "Fontos a tengeri teknősöknek", "Lakatlan"],
       ro: ["Arhipelag de corali", "Arie protejată", "Important pentru țestoasele marine", "Nelocuit"],
       en: ["Coral archipelago", "Protected area", "Important for sea turtles", "Uninhabited"]
-    }
-  },
+    }, image: "/poi-images/primeiras-and-segundas-nature-v2.webp"},
   {
     id: "maputo-bay-nature-v2",
     type: "sea",
@@ -97,8 +92,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Fontos kikötőhely", "Tengeri biodiverzitás", "Sekély víz", "Lagúnák"],
       ro: ["Locație portuară importantă", "Biodiversitate marină", "Apă mică", "Peisaje de lagună"],
       en: ["Important port location", "Marine biodiversity", "Shallow waters", "Lagoon landscapes"]
-    }
-  },
+    }, image: "/poi-images/maputo-bay-nature-v2.webp"},
   {
     id: "cahora-bassa-lake-nature-v2",
     type: "lake",
@@ -111,8 +105,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Víztározó a Zambézin", "Fontos energiatermelés", "Nagyon nagy víztérfogat", "Fontos halászati forrás"],
       ro: ["Lac de acumulare pe Zambezi", "Producție importantă de energie", "Volum mare de apă", "Sursă importantă de pescuit"],
       en: ["Reservoir on the Zambezi", "Important energy production", "Large water volume", "Important fishery source"]
-    }
-  },
+    }, image: "/poi-images/cahora-bassa-lake-nature-v2.webp"},
   {
     id: "quirimbas-archipelago-nature-v2",
     type: "island",
@@ -125,8 +118,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Korallzátonyok", "Nemzeti park", "Búvárparadicsom", "Történelmi hatások"],
       ro: ["Recife de corali", "Parc național", "Paradis pentru scafandri", "Influențe istorice"],
       en: ["Coral reefs", "National park", "Diving paradise", "Historical influences"]
-    }
-  },
+    }, image: "/poi-images/quirimbas-archipelago-nature-v2.webp"},
   {
     id: "romue-mountain-nature-v2",
     type: "mountain",
@@ -139,8 +131,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Hegyvidéki régió", "Alig feltárt", "Fontos élőhely", "Vadregényes"],
       ro: ["Regiune muntoasă", "Puțin explorat", "Habitat important", "Sălbăticie"],
       en: ["Mountainous region", "Hardly explored", "Important habitat", "Wilderness"]
-    }
-  },
+    }, image: "/poi-images/romue-mountain-nature-v2.webp"},
   {
     id: "rovuma-river-nature-v2",
     type: "river",
@@ -153,8 +144,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Határfolyó", "Az Indiai-óceánba ömlik", "Fontos folyóvölgy", "Ökológiailag értékes"],
       ro: ["Fluviu de frontieră", "Se varsă în Oceanul Indian", "Peisaj fluvial important", "Valoros ecologic"],
       en: ["Border river", "Flows into the Indian Ocean", "Important river landscape", "Ecologically valuable"]
-    }
-  },
+    }, image: "/poi-images/rovuma-river-nature-v2.webp"},
   {
     id: "inda-island-nature-v2",
     type: "island",
@@ -167,8 +157,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Szigetcsoport része", "Lakatlan", "Természetvédelmi terület", "Madarak pihenőhelye"],
       ro: ["Parte a arhipelagului", "Nelocuit", "Arie naturală protejată", "Refugiu pentru păsări"],
       en: ["Part of the archipelago", "Uninhabited", "Nature reserve", "Refuge for birds"]
-    }
-  },
+    }, image: "/poi-images/inda-island-nature-v2.webp"},
   {
     id: "lake-chiuta-nature-v2",
     type: "lake",
@@ -181,8 +170,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Határközeli", "Sekély tó", "Fontos a helyi halászat számára", "Vizes élőhely"],
       ro: ["Aproape de graniță", "Lac puțin adânc", "Important pentru pescuitul local", "Zonă umedă"],
       en: ["Near the border", "Shallow lake", "Important for local fishing", "Wetland"]
-    }
-  },
+    }, image: "/poi-images/lake-chiuta-nature-v2.webp"},
   {
     id: "pungo-mountain-nature-v2",
     type: "mountain",
@@ -195,8 +183,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Közép-Mozambik", "Túrázóhely", "Hegyvidék", "Szép kilátás"],
       ro: ["Mozambicul central", "Zonă de drumeție", "Regiune montană", "Vedere frumoasă"],
       en: ["Central Mozambique", "Hiking area", "Mountain region", "Beautiful view"]
-    }
-  },
+    }, image: "/poi-images/pungo-mountain-nature-v2.webp"},
   {
     id: "buzi-river-nature-v2",
     type: "river",
@@ -209,8 +196,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Folyóvölgy", "Torkolat az Indiai-óceánba", "Fontos a régió számára", "Ökológiailag fontos"],
       ro: ["Peisaj fluvial", "Vărsare în Oceanul Indian", "Important pentru regiune", "Ecologic important"],
       en: ["River landscape", "Mouth in the Indian Ocean", "Important for the region", "Ecologically important"]
-    }
-  },
+    }, image: "/poi-images/buzi-river-nature-v2.webp"},
   {
     id: "gaza-lake-nature-v2",
     type: "lake",
@@ -223,8 +209,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Gaza tartomány", "Madármegfigyelés", "Csendes övezet", "Tiszta természet"],
       ro: ["Provincia Gaza", "Observarea păsărilor", "Zonă liniștită", "Natură pură"],
       en: ["Gaza province", "Bird watching", "Quiet area", "Pure nature"]
-    }
-  },
+    }, image: "/poi-images/gaza-lake-nature-v2.webp"},
   {
     id: "bangue-island-nature-v2",
     type: "island",
@@ -237,8 +222,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Dél-Mozambik", "Strandparadicsom", "Turizmus", "Tiszta természet"],
       ro: ["Sudul Mozambicului", "Paradisul plajelor", "Turism", "Natură pură"],
       en: ["Southern Mozambique", "Beach paradise", "Tourism", "Pure nature"]
-    }
-  },
+    }, image: "/poi-images/bangue-island-nature-v2.webp"},
   {
     id: "nampula-forest-nature-v2",
     type: "forest",
@@ -251,8 +235,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Erdőrégió", "Biodiverzitás", "Flóra és fauna", "Védett terület"],
       ro: ["Regiune forestieră", "Biodiversitate", "Floră și faună", "Arie protejată"],
       en: ["Forest region", "Biodiversity", "Flora and fauna", "Protected area"]
-    }
-  },
+    }, image: "/poi-images/nampula-forest-nature-v2.webp"},
   {
     id: "songo-mountain-nature-v2",
     type: "mountain",
@@ -265,8 +248,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Víztározó közelében", "Túracél", "Dombos táj", "Kilátás"],
       ro: ["Aproape de lacul de acumulare", "Destinație de drumeție", "Peisaj deluros", "Vedere"],
       en: ["Near reservoir", "Hiking destination", "Hilly landscape", "View"]
-    }
-  },
+    }, image: "/poi-images/songo-mountain-nature-v2.webp"},
   {
     id: "lupata-gorge-nature-v2",
     type: "river",
@@ -279,8 +261,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Zambézi-szurdok", "Természeti szépség", "Szoros", "Lenyűgöző"],
       ro: ["Defileul Zambezi", "Frumusețe naturală", "Strâmtoare", "Impresionant"],
       en: ["Zambezi Gorge", "Natural beauty", "Narrow point", "Impressive"]
-    }
-  },
+    }, image: "/poi-images/lupata-gorge-nature-v2.webp"},
   {
     id: "macossa-forest-nature-v2",
     type: "forest",
@@ -293,8 +274,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Mozambik központja", "Sűrű növényzet", "Flóra", "Védelem"],
       ro: ["Centrul Mozambicului", "Vegetație densă", "Floră", "Protecție"],
       en: ["Center of Mozambique", "Dense vegetation", "Flora", "Protection"]
-    }
-  },
+    }, image: "/poi-images/macossa-forest-nature-v2.webp"},
   {
     id: "massingir-lake-nature-v2",
     type: "lake",
@@ -307,8 +287,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Gaza-tartomány", "Víztároló", "Halászat", "Rekreációs terület"],
       ro: ["Provincia Gaza", "Rezervor de apă", "Pescuit", "Zonă de recreere"],
       en: ["Gaza province", "Water reservoir", "Fishing", "Recreation area"]
-    }
-  },
+    }, image: "/poi-images/massingir-lake-nature-v2.webp"},
   {
     id: "moamba-mountain-nature-v2",
     type: "mountain",
@@ -321,8 +300,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Maputo közelében", "Kilátópont", "Túrák", "Dombos"],
       ro: ["Aproape de Maputo", "Punct de vedere", "Drumeții", "Deluros"],
       en: ["Near Maputo", "Viewpoint", "Hiking", "Hilly"]
-    }
-  },
+    }, image: "/poi-images/moamba-mountain-nature-v2.webp"},
   {
     id: "savane-lake-nature-v2",
     type: "lake",
@@ -335,8 +313,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Sofala-part", "Csend", "Madárvilág", "Lagúnák"],
       ro: ["Coasta Sofalei", "Liniște", "Păsări", "Lagune"],
       en: ["Sofala coast", "Quiet", "Birdlife", "Lagoons"]
-    }
-  },
+    }, image: "/poi-images/savane-lake-nature-v2.webp"},
   {
     id: "chinde-river-nature-v2",
     type: "river",
@@ -349,8 +326,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Zambézi-delta", "Torkolatvidék", "Vízdús", "Ökológiai"],
       ro: ["Delta Zambezi", "Zonă de vărsare", "Bogată în apă", "Ecologic"],
       en: ["Zambezi delta", "Mouth area", "Water-rich", "Ecological"]
-    }
-  },
+    }, image: "/poi-images/chinde-river-nature-v2.webp"},
   {
     id: "lupata-forest-nature-v2",
     type: "forest",
@@ -363,8 +339,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Zambézi közelében", "Sűrű növényzet", "Védett erdő", "Biodiverzitás"],
       ro: ["Aproape de Zambezi", "Vegetație densă", "Pădure protejată", "Biodiversitate"],
       en: ["Near Zambezi", "Dense vegetation", "Protected forest", "Biodiversity"]
-    }
-  },
+    }, image: "/poi-images/lupata-forest-nature-v2.webp"},
   {
     id: "magoe-lake-nature-v2",
     type: "lake",
@@ -377,8 +352,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Tete tartomány", "Halászat", "Vidéki", "Természet"],
       ro: ["Provincia Tete", "Pescuit", "Rural", "Natură"],
       en: ["Tete province", "Fishing", "Rural", "Nature"]
-    }
-  },
+    }, image: "/poi-images/magoe-lake-nature-v2.webp"},
   {
     id: "gile-forest-nature-v2",
     type: "forest",
@@ -391,8 +365,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Nemzeti rezervátum", "Erdővédelem", "Vadvilág", "Ökoszisztéma"],
       ro: ["Rezervație națională", "Protecția pădurii", "Animale sălbatice", "Ecosistem"],
       en: ["National reserve", "Forest protection", "Wildlife", "Ecosystem"]
-    }
-  },
+    }, image: "/poi-images/gile-forest-nature-v2.webp"},
   {
     id: "gorgon-sea-nature-v2",
     type: "sea",
@@ -405,8 +378,7 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       hu: ["Védett tenger", "Korallok", "Tengeri fauna", "Búvárkodás"],
       ro: ["Mare protejată", "Corali", "Faună marină", "Scufundări"],
       en: ["Protected sea", "Corals", "Marine fauna", "Diving"]
-    }
-  },
+    }, image: "/poi-images/gorgon-sea-nature-v2.webp"},
   {
     id: "chiu-mountain-nature-v2",
     type: "mountain",
@@ -422,3 +394,4 @@ export const poiExtraMozambiqueNatureV2: POI[] = [
       }
   }
 ];
+

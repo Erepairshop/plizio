@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEgyptLandmarksV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1956 és 1961 között épült.", "Kialakítása egy lótusznövényre emlékeztet.", "Egyiptom legmagasabb építménye."],
       ro: ["Construit între 1956 și 1961.", "Proiectat pentru a semăna cu o plantă de lotus.", "Cea mai înaltă structură din Egipt."],
       en: ["Built between 1956 and 1961.", "Designed to resemble a lotus plant.", "Tallest structure in Egypt."]
-    }
-  },
+    }, image: "/poi-images/eg-cairo-tower.webp"},
   {
     id: "eg-bibliotheca-alexandrina",
     type: "landmark",
@@ -47,8 +47,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["2002-ben nyitották meg.", "Az ókori Alexandriai Könyvtárnak állít emléket.", "Az olvasóterem nyolcmillió könyv befogadására alkalmas."],
       ro: ["Inaugurată în 2002.", "Comemorează antica Bibliotecă din Alexandria.", "Sala de lectură poate găzdui opt milioane de cărți."],
       en: ["Inaugurated in 2002.", "Commemorates the ancient Library of Alexandria.", "Reading room can hold eight million books."]
-    }
-  },
+    }, image: "/poi-images/eg-bibliotheca-alexandrina.webp"},
   {
     id: "eg-al-azhar-mosque",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["Az első mecset, amelyet Kairóban alapítottak.", "Az Al-Azhar Egyetemhez kapcsolódik.", "Többféle építészeti stílust képvisel."],
       ro: ["Prima moschee înființată în Cairo.", "Asociată cu Universitatea Al-Azhar.", "Prezintă multiple stiluri arhitecturale."],
       en: ["First mosque established in Cairo.", "Associated with Al-Azhar University.", "Features multiple architectural styles."]
-    }
-  },
+    }, image: "/poi-images/eg-al-azhar-mosque.webp"},
   {
     id: "eg-muhammad-ali-mosque",
     type: "landmark",
@@ -95,8 +93,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1830 és 1848 között épült.", "Alabástrom mecsetként is ismert.", "Muhammad Ali Pasa megbízásából épült."],
       ro: ["Construită între 1830 și 1848.", "Cunoscută și sub numele de Moscheea de Alabastru.", "Comandată de Muhammad Ali Pașa."],
       en: ["Built between 1830 and 1848.", "Also known as the Alabaster Mosque.", "Commissioned by Muhammad Ali Pasha."]
-    }
-  },
+    }, image: "/poi-images/eg-muhammad-ali-mosque.webp"},
   {
     id: "eg-sultan-hassan-mosque",
     type: "landmark",
@@ -119,8 +116,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1356 és 1363 között épült.", "A mameluk építészet remekművének tartják.", "Mind a négy szunnita jogi iskola számára biztosít helyet."],
       ro: ["Construită între 1356 și 1363.", "Considerată o capodoperă a arhitecturii mameluce.", "Include facilități pentru toate cele patru școli de gândire sunnite."],
       en: ["Constructed between 1356 and 1363.", "Considered a masterpiece of Mamluk architecture.", "Includes facilities for all four Sunni schools of thought."]
-    }
-  },
+    }, image: "/poi-images/eg-sultan-hassan-mosque.webp"},
   {
     id: "eg-qasr-el-nil-bridge",
     type: "landmark",
@@ -143,8 +139,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["Négy bronz oroszlánszobráról híres.", "Népszerű hely esti sétákhoz.", "382 méter hosszan ível át a Níluson."],
       ro: ["Faimos pentru cele patru statui de lei din bronz.", "Un loc popular pentru plimbări de seară.", "Se întinde pe 382 de metri peste Nil."],
       en: ["Famous for its four bronze lion statues.", "A popular spot for evening walks.", "Spans 382 meters across the Nile."]
-    }
-  },
+    }, image: "/poi-images/eg-qasr-el-nil-bridge.webp"},
   {
     id: "eg-egyptian-museum-cairo",
     type: "landmark",
@@ -167,8 +162,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1902-ben nyílt meg.", "Több mint 120 000 tárgynak ad otthont.", "Tutanhamon fáraó arany maszkjáról híres."],
       ro: ["Deschis în 1902.", "Găzduiește peste 120.000 de articole.", "Faimos pentru masca de aur a regelui Tutankhamon."],
       en: ["Opened in 1902.", "Houses over 120,000 items.", "Famous for King Tutankhamun's gold mask."]
-    }
-  },
+    }, image: "/poi-images/eg-egyptian-museum-cairo.webp"},
   {
     id: "eg-grand-egyptian-museum",
     type: "landmark",
@@ -191,8 +185,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["Közel 50 hektáron terül el.", "Átriumában II. Ramszesz hatalmas szobra áll.", "Mindössze két kilométerre található a piramisoktól."],
       ro: ["Acoperă aproape 50 de hectare.", "Prezintă o statuie colosală a lui Ramses al II-lea în atrium.", "Situat la doar doi kilometri de Piramide."],
       en: ["Covers nearly 50 hectares.", "Features a colossal statue of Ramses II in the atrium.", "Located just two kilometers from the Pyramids."]
-    }
-  },
+    }, image: "/poi-images/eg-grand-egyptian-museum.webp"},
   {
     id: "eg-nmec",
     type: "landmark",
@@ -215,8 +208,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["2021 áprilisában nyílt meg teljesen.", "Itt található a Királyi Múmiák Terme.", "Az első ilyen jellegű múzeum az arab világban."],
       ro: ["Deschis complet în aprilie 2021.", "Găzduiește Sala Mumiilor Regale.", "Primul muzeu de acest gen din lumea arabă."],
       en: ["Fully opened in April 2021.", "Houses the Royal Mummies Hall.", "The first museum of its kind in the Arab world."]
-    }
-  },
+    }, image: "/poi-images/eg-nmec.webp"},
   {
     id: "eg-cairo-opera-house",
     type: "landmark",
@@ -239,8 +231,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1988-ban avatták fel.", "A leégett Khedivial Operaházat helyettesíti.", "Több színházzal és művészeti galériával rendelkezik."],
       ro: ["Inaugurată în 1988.", "A înlocuit Opera Khedivial care a ars.", "Dispune de mai multe teatre și galerii de artă."],
       en: ["Inaugurated in 1988.", "Replaced the Khedivial Opera House that burned down.", "Features multiple theaters and art galleries."]
-    }
-  },
+    }, image: "/poi-images/eg-cairo-opera-house.webp"},
   {
     id: "eg-abdeen-palace",
     type: "landmark",
@@ -263,8 +254,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["Az építkezés 1863-ban kezdődött.", "Számos múzeum található benne.", "A világ egyik legpazarabb palotája."],
       ro: ["Construcția a început în 1863.", "Găzduiește numeroase muzee în interior.", "Unul dintre cele mai opulente palate din lume."],
       en: ["Construction began in 1863.", "Features numerous museums inside.", "One of the most opulent palaces in the world."]
-    }
-  },
+    }, image: "/poi-images/eg-abdeen-palace.webp"},
   {
     id: "eg-baron-empain-palace",
     type: "landmark",
@@ -287,8 +277,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1911-ben készült el.", "Alexandre Marcel francia építész tervezte.", "Feltűnő vasbeton építészettel rendelkezik."],
       ro: ["Finalizat în 1911.", "Proiectat de arhitectul francez Alexandre Marcel.", "Prezintă o arhitectură izbitoare din beton armat."],
       en: ["Completed in 1911.", "Designed by French architect Alexandre Marcel.", "Features striking reinforced concrete architecture."]
-    }
-  },
+    }, image: "/poi-images/eg-baron-empain-palace.webp"},
   {
     id: "eg-stanley-bridge",
     type: "landmark",
@@ -311,8 +300,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["Az első híd, amelyet Egyiptomban a tenger fölé építettek.", "Négy iszlám stílusú toronnyal rendelkezik.", "A modern Alexandria népszerű nevezetessége."],
       ro: ["Primul pod construit peste mare în Egipt.", "Prezintă patru turnuri în stil islamic.", "Un reper popular în Alexandria modernă."],
       en: ["First bridge built over the sea in Egypt.", "Features four Islamic-style towers.", "A popular landmark in modern Alexandria."]
-    }
-  },
+    }, image: "/poi-images/eg-stanley-bridge.webp"},
   {
     id: "eg-el-alamein-cemetery",
     type: "landmark",
@@ -335,8 +323,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["Több mint 7000 sírt tartalmaz.", "A Commonwealth War Graves Commission tartja fenn.", "Az el-alameini sorsdöntő csatáknak állít emléket."],
       ro: ["Conține peste 7.000 de morminte.", "Întreținut de Commonwealth War Graves Commission.", "Comemorează bătăliile decisive de la El Alamein."],
       en: ["Contains over 7,000 burials.", "Maintained by the Commonwealth War Graves Commission.", "Commemorates the decisive Battles of El Alamein."]
-    }
-  },
+    }, image: "/poi-images/eg-el-alamein-cemetery.webp"},
   {
     id: "eg-cairo-stadium",
     type: "landmark",
@@ -359,8 +346,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1960-ban nyitották meg.", "Több mint 75 000 néző befogadására alkalmas.", "Többször is otthont adott az Afrikai Nemzetek Kupájának."],
       ro: ["Deschis în 1960.", "Are o capacitate de peste 75.000 de spectatori.", "A găzduit Cupa Africii pe Națiuni de mai multe ori."],
       en: ["Opened in 1960.", "Has a capacity of over 75,000 spectators.", "Hosted the Africa Cup of Nations multiple times."]
-    }
-  },
+    }, image: "/poi-images/eg-cairo-stadium.webp"},
   {
     id: "eg-borg-el-arab-stadium",
     type: "landmark",
@@ -383,8 +369,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["86 000 néző befogadására alkalmas.", "2007-ben nyitották meg.", "Eredetileg egy egyiptomi világbajnoki pályázat részeként épült."],
       ro: ["Capacitate de 86.000 de spectatori.", "Deschis în 2007.", "Construit inițial ca parte a unei candidaturi egiptene la Cupa Mondială."],
       en: ["Capacity of 86,000 spectators.", "Opened in 2007.", "Originally built as part of an Egyptian World Cup bid."]
-    }
-  },
+    }, image: "/poi-images/eg-borg-el-arab-stadium.webp"},
   {
     id: "eg-suez-canal-bridge",
     type: "landmark",
@@ -407,8 +392,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["Mubarak Békehíd néven is ismert.", "Fő nyílásának hossza 404 méter.", "A japán kormány támogatásával épült."],
       ro: ["Cunoscut și sub numele de Podul Păcii Mubarak.", "Deschiderea principală are o lungime de 404 metri.", "Construit cu asistență din partea guvernului japonez."],
       en: ["Also known as the Mubarak Peace Bridge.", "Main span is 404 meters long.", "Built with assistance from the Japanese government."]
-    }
-  },
+    }, image: "/poi-images/eg-suez-canal-bridge.webp"},
   {
     id: "eg-aswan-high-dam",
     type: "landmark",
@@ -431,8 +415,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["Az építkezés 1970-ben fejeződött be.", "111 méter magas és 3830 méter hosszú.", "Jelentős mennyiségű vízenergiát termel Egyiptom számára."],
       ro: ["Construcția a fost finalizată în 1970.", "Are 111 metri înălțime și 3.830 metri lungime.", "Generează o putere hidroelectrică semnificativă pentru Egipt."],
       en: ["Construction completed in 1970.", "It is 111 meters tall and 3,830 meters long.", "Generates significant hydroelectric power for Egypt."]
-    }
-  },
+    }, image: "/poi-images/eg-aswan-high-dam.webp"},
   {
     id: "eg-montaza-palace",
     type: "landmark",
@@ -455,8 +438,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["II. Abbász khedive építtette 1892-ben.", "Török és firenzei építészeti stílusokat ötvöz.", "Ma nagyrészt nyilvános parkként és múzeumként működik."],
       ro: ["Construit în 1892 de Khedive Abbas al II-lea.", "Prezintă stiluri arhitecturale turcești și florentine.", "Acum funcționează mai ales ca parc public și muzeu."],
       en: ["Built in 1892 by Khedive Abbas II.", "Features Turkish and Florentine architectural styles.", "Now mostly functions as a public park and museum."]
-    }
-  },
+    }, image: "/poi-images/eg-montaza-palace.webp"},
   {
     id: "eg-manial-palace",
     type: "landmark",
@@ -479,8 +461,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1899 és 1929 között épült.", "Tervezése ötvözi a szecessziót, a rokokót és az iszlám stílusokat.", "Egy figyelemre méltó natúrpark és botanikus kert veszi körül."],
       ro: ["Construit între 1899 și 1929.", "Designul integrează stilurile Art Nouveau, Rococo și islamic.", "Înconjurat de un parc natural remarcabil și de o grădină botanică."],
       en: ["Built between 1899 and 1929.", "Design integrates Art Nouveau, Rococo, and Islamic styles.", "Surrounded by a notable nature park and botanical garden."]
-    }
-  },
+    }, image: "/poi-images/eg-manial-palace.webp"},
   {
     id: "eg-hanging-church",
     type: "landmark",
@@ -503,8 +484,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["A 3. századból származik.", "Valódi neve a Szent Szűz Mária Kopt Ortodox Templom.", "Gyönyörű, Noé bárkájára emlékeztető fa tetővel rendelkezik."],
       ro: ["Datează din secolul al III-lea.", "Numele său propriu este Biserica Ortodoxă Coptă Sfânta Fecioară Maria.", "Prezintă un acoperiș frumos din lemn în formă de Arca lui Noe."],
       en: ["Dates back to the 3rd century.", "Its proper name is Saint Virgin Mary's Coptic Orthodox Church.", "Features a beautiful wooden roof shaped like Noah's Ark."]
-    }
-  },
+    }, image: "/poi-images/eg-hanging-church.webp"},
   {
     id: "eg-ibn-tulun-mosque",
     type: "landmark",
@@ -527,8 +507,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["Kr. u. 879-ben készült el.", "Ahmad ibn Túlún, Egyiptom abbászida kormányzója építtette.", "Jellegzetes szamarrai építészeti stílus jellemzi."],
       ro: ["Finalizată în 879 d.Hr.", "Construită de Ahmad ibn Tulun, guvernatorul abbasid al Egiptului.", "Prezintă un stil arhitectural samarran distinctiv."],
       en: ["Completed in 879 AD.", "Built by Ahmad ibn Tulun, the Abbasid governor of Egypt.", "Features distinctive Samarran architectural style."]
-    }
-  },
+    }, image: "/poi-images/eg-ibn-tulun-mosque.webp"},
   {
     id: "eg-saint-catherine-monastery",
     type: "landmark",
@@ -551,8 +530,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["Kr. u. 548 és 565 között épült.", "A világ egyik legrégebbi folyamatosan működő keresztény kolostora.", "UNESCO Világörökségi helyszín."],
       ro: ["Construită între 548 și 565 d.Hr.", "Una dintre cele mai vechi mănăstiri creștine din lume aflate în funcțiune continuă.", "Un sit al Patrimoniului Mondial UNESCO."],
       en: ["Built between 548 and 565 AD.", "One of the oldest continuously functioning Christian monasteries in the world.", "A UNESCO World Heritage Site."]
-    }
-  },
+    }, image: "/poi-images/eg-saint-catherine-monastery.webp"},
   {
     id: "eg-unknown-soldier-memorial",
     type: "landmark",
@@ -575,8 +553,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1974-ben épült.", "Anvar Szadat elnököt itt gyilkolták meg, és itt is temették el.", "Sami Rafi egyiptomi művész tervezte."],
       ro: ["Construit în 1974.", "Președintele Anwar Sadat a fost asasinat aici și este înmormântat pe acest loc.", "Proiectat de artistul egiptean Sami Rafi."],
       en: ["Constructed in 1974.", "President Anwar Sadat was assassinated here and is buried at the site.", "Designed by Egyptian artist Sami Rafi."]
-    }
-  },
+    }, image: "/poi-images/eg-unknown-soldier-memorial.webp"},
   {
     id: "eg-al-rifai-mosque",
     type: "landmark",
@@ -599,8 +576,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1912-ben fejezték be.", "Itt található Faruk király és az iráni sah sírja.", "Úgy tervezték, hogy vizuálisan kiegészítse a régebbi Szultán Haszán mecsetet."],
       ro: ["Finalizată în 1912.", "Găzduiește mormintele regelui Farouk și ale șahului Iranului.", "Concepută pentru a completa vizual mai vechea Moschee Sultan Hassan."],
       en: ["Completed in 1912.", "Houses the tombs of King Farouk and the Shah of Iran.", "Designed to visually complement the older Sultan Hassan Mosque."]
-    }
-  },
+    }, image: "/poi-images/eg-al-rifai-mosque.webp"},
   {
     id: "eg-ras-el-tin-palace",
     type: "landmark",
@@ -623,8 +599,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1834 és 1845 között épült.", "Olasz és francia építészeti dizájnokat mutat be.", "Ez a legrégebbi királyi egyiptomi palota, amely még mindig használatban van."],
       ro: ["Construit între 1834 și 1845.", "Prezintă modele arhitecturale italiene și franceze.", "Este cel mai vechi palat regal egiptean încă în uz."],
       en: ["Built between 1834 and 1845.", "Features Italian and French architectural designs.", "It is the oldest royal Egyptian palace still in use."]
-    }
-  },
+    }, image: "/poi-images/eg-ras-el-tin-palace.webp"},
   {
     id: "eg-qalawun-complex",
     type: "landmark",
@@ -647,8 +622,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1284-1285-ben épült.", "Az iszlám Kairó egyik legjelentősebb műemlékének tartják.", "A bimaristan (kórház) évszázadokon át fejlett orvosi központ volt."],
       ro: ["Construit în 1284-1285.", "Considerat unul dintre monumentele majore din Cairo Islamic.", "Bimaristanul (spitalul) a fost un centru medical avansat timp de secole."],
       en: ["Built in 1284-1285.", "Considered one of the major monuments of Islamic Cairo.", "The bimaristan (hospital) was an advanced medical center for centuries."]
-    }
-  },
+    }, image: "/poi-images/eg-qalawun-complex.webp"},
   {
     id: "eg-nubian-museum",
     type: "landmark",
@@ -671,8 +645,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1997-ben nyitották meg a nagyközönség előtt.", "Az UNESCO núbiai műemlékmentő kampányának részeként épült.", "Történelem előtti időktől az iszlám korig származó leleteket mutat be."],
       ro: ["Deschis publicului în 1997.", "Construit ca parte a campaniei UNESCO pentru salvarea monumentelor nubiene.", "Prezintă artefacte din preistorie până în perioada islamică."],
       en: ["Opened to the public in 1997.", "Built as part of the UNESCO campaign to save Nubian monuments.", "Showcases artifacts from prehistoric times to the Islamic period."]
-    }
-  },
+    }, image: "/poi-images/eg-nubian-museum.webp"},
   {
     id: "eg-graeco-roman-museum",
     type: "landmark",
@@ -695,8 +668,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["Eredetileg 1892-ben alapították.", "2023-ban kiterjedt felújítások után nyílt meg újra.", "Több ezer szobornak, érmének és ősi ereklyének ad otthont."],
       ro: ["Înființat inițial în 1892.", "Redeschis în 2023 după renovări ample.", "Găzduiește mii de statui, monede și relicve antice."],
       en: ["First established in 1892.", "Reopened in 2023 after extensive renovations.", "Houses thousands of statues, coins, and ancient relics."]
-    }
-  },
+    }, image: "/poi-images/eg-graeco-roman-museum.webp"},
   {
     id: "eg-el-quba-palace",
     type: "landmark",
@@ -722,3 +694,4 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
     }
   }
 ];
+

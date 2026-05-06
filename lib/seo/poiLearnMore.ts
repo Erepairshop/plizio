@@ -112,21 +112,21 @@ export function learnMoreCtaCopy(s: LearnMoreSuggestion, lang: Lang): LearnMoreC
   if (lang === "hu") {
     return {
       title: `Tanulj többet erről`,
-      body: `Fedezd fel részletesebben a(z) „${topic}" témát az ${sub} játékokban (K${s.grade}. osztály).`,
+      body: `Fedezd fel részletesebben a(z) "${topic}" témát az ${sub} játékokban (K${s.grade}. osztály).`,
       cta: `Ugrás az ${sub} K${s.grade}-re →`,
     };
   }
   if (lang === "ro") {
     return {
       title: `Învață mai multe`,
-      body: `Descoperă în detaliu subiectul „${topic}" în jocurile ${sub} (clasa K${s.grade}).`,
+      body: `Descoperă în detaliu subiectul "${topic}" în jocurile ${sub} (clasa K${s.grade}).`,
       cta: `Mergi la ${sub} K${s.grade} →`,
     };
   }
   if (lang === "de") {
     return {
       title: `Erfahre mehr`,
-      body: `Entdecke das Thema „${topic}" ausführlich in ${sub}-Spielen (Klasse K${s.grade}).`,
+      body: `Entdecke das Thema "${topic}" ausführlich in ${sub}-Spielen (Klasse K${s.grade}).`,
       cta: `Zu ${sub} K${s.grade} →`,
     };
   }

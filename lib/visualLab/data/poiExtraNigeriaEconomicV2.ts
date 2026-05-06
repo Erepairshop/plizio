@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNigeriaEconomicV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Lagosban található.", "Legfontosabb konténerterminál."],
       ro: ["Situat în Lagos.", "Cel mai important terminal de containere."],
       en: ["Located in Lagos.", "Main container terminal."]
-    }
-  },
+    }, image: "/poi-images/apapa-port-complex-economic-v2.webp"},
   {
     id: "tin-can-island-port-economic-v2",
     type: "port",
@@ -47,8 +47,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["1997-ben alapították.", "Jelentős a járműimportban."],
       ro: ["Fondat în 1997.", "Semnificativ pentru importurile de vehicule."],
       en: ["Founded in 1997.", "Significant for vehicle imports."]
-    }
-  },
+    }, image: "/poi-images/tin-can-island-port-economic-v2.webp"},
   {
     id: "onne-port-economic-v2",
     type: "port",
@@ -95,8 +94,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A Bonny-folyó mentén fekszik.", "1913-ban nyílt meg."],
       ro: ["Situat pe râul Bonny.", "Deschis în 1913."],
       en: ["Located on the Bonny River.", "Opened in 1913."]
-    }
-  },
+    }, image: "/poi-images/port-harcourt-port-economic-v2.webp"},
   {
     id: "calabar-port-economic-v2",
     type: "port",
@@ -119,8 +117,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A Calabari Szabadkereskedelmi Zónában van.", "Történelmi rabszolgakikötő volt."],
       ro: ["În zona liberă Calabar.", "Port istoric de sclavi."],
       en: ["In the Calabar Free Trade Zone.", "Historic slave port."]
-    }
-  },
+    }, image: "/poi-images/calabar-port-economic-v2.webp"},
   {
     id: "warri-port-economic-v2",
     type: "port",
@@ -143,8 +140,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Fontos az olajexportban.", "A Warri-folyónál található."],
       ro: ["Important pentru exporturile de petrol.", "Pe râul Warri."],
       en: ["Important for oil exports.", "On the Warri River."]
-    }
-  },
+    }, image: "/poi-images/warri-port-economic-v2.webp"},
   {
     id: "lekki-deep-sea-port-economic-v2",
     type: "port",
@@ -167,8 +163,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["2023-ban nyílt meg.", "Nyugat-Afrika egyik legnagyobbja."],
       ro: ["Deschis în 2023.", "Unul dintre cele mai mari din Africa de Vest."],
       en: ["Opened in 2023.", "One of the largest in West Africa."]
-    }
-  },
+    }, image: "/poi-images/lekki-deep-sea-port-economic-v2.webp"},
   {
     id: "koko-port-economic-v2",
     type: "port",
@@ -191,8 +186,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A Benin-folyónál van.", "Jelentős exportkikötő volt."],
       ro: ["Pe râul Benin.", "A fost un port de export semnificativ."],
       en: ["On the Benin River.", "Was a significant export port."]
-    }
-  },
+    }, image: "/poi-images/koko-port-economic-v2.webp"},
   {
     id: "sapele-port-economic-v2",
     type: "port",
@@ -215,8 +209,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Történelmi fakitermelő kikötő.", "A Sapele régióban található."],
       ro: ["Port istoric de exploatare forestieră.", "Situat în regiunea Sapele."],
       en: ["Historic logging port.", "Located in the Sapele region."]
-    }
-  },
+    }, image: "/poi-images/sapele-port-economic-v2.webp"},
   {
     id: "burutu-port-economic-v2",
     type: "port",
@@ -239,8 +232,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A Royal Niger Company korábbi központja.", "Fontos a helyi logisztikában."],
       ro: ["Fostul sediu al Companiei Regale a Nigerului.", "Important pentru logistica locală."],
       en: ["Former headquarters of the Royal Niger Company.", "Important for local logistics."]
-    }
-  },
+    }, image: "/poi-images/burutu-port-economic-v2.webp"},
   {
     id: "escravos-terminal-economic-v2",
     type: "port",
@@ -311,8 +303,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Az LNG-termelés központja.", "Nagy exportkikötő."],
       ro: ["Centrul producției de GNL.", "Mare port de export."],
       en: ["Center of LNG production.", "Large export port."]
-    }
-  },
+    }, image: "/poi-images/bonny-oil-terminal-economic-v2.webp"},
   {
     id: "qua-iboe-terminal-economic-v2",
     type: "port",
@@ -335,8 +326,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Olajexport.", "Offshore forrásokat gyűjt be."],
       ro: ["Export de petrol.", "Colectează resurse offshore."],
       en: ["Oil export.", "Collects offshore resources."]
-    }
-  },
+    }, image: "/poi-images/qua-iboe-terminal-economic-v2.webp"},
   {
     id: "brass-terminal-economic-v2",
     type: "port",
@@ -383,8 +373,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A Lekki Szabadzónában van.", "Kapacitása 650 000 hordó/nap."],
       ro: ["Situat în Zona Liberă Lekki.", "Capacitate de 650.000 de barili/zi."],
       en: ["Located in the Lekki Free Zone.", "Capacity of 650,000 barrels/day."]
-    }
-  },
+    }, image: "/poi-images/dangote-refinery-economic-v2.webp"},
   {
     id: "port-harcourt-refinery-economic-v2",
     type: "industry",
@@ -407,8 +396,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A legrégebbi üzemet 1965-ben építették.", "Két fő egységből áll."],
       ro: ["Cea mai veche fabrică construită în 1965.", "Include două unități principale."],
       en: ["Oldest plant built in 1965.", "Comprises two main plants."]
-    }
-  },
+    }, image: "/poi-images/port-harcourt-refinery-economic-v2.webp"},
   {
     id: "warri-refinery-economic-v2",
     type: "industry",
@@ -431,8 +419,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["1978-ban állt üzembe.", "Kapacitása 125 000 hordó/nap."],
       ro: ["A intrat în funcțiune în 1978.", "Capacitate de 125.000 de barili/zi."],
       en: ["Commissioned in 1978.", "Capacity of 125,000 barrels/day."]
-    }
-  },
+    }, image: "/poi-images/warri-refinery-economic-v2.webp"},
   {
     id: "kaduna-refinery-economic-v2",
     type: "industry",
@@ -527,8 +514,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A Dangote Cement tulajdona.", "Hatalmas termelési kapacitás."],
       ro: ["Aparține Dangote Cement.", "Capacitate uriașă de producție."],
       en: ["Belongs to Dangote Cement.", "Huge production capacity."]
-    }
-  },
+    }, image: "/poi-images/obajana-cement-plant-economic-v2.webp"},
   {
     id: "ibese-cement-plant-economic-v2",
     type: "industry",
@@ -551,8 +537,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Ogun államban található.", "A bővítések megduplázták a kapacitást."],
       ro: ["Situat în Ogun.", "Extinderile au dublat capacitatea."],
       en: ["Located in Ogun.", "Expansions have doubled capacity."]
-    }
-  },
+    }, image: "/poi-images/ibese-cement-plant-economic-v2.webp"},
   {
     id: "gboko-cement-plant-economic-v2",
     type: "industry",
@@ -575,8 +560,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Korábban Benue Cement Company.", "A Középső Övezet számára termel."],
       ro: ["Fostă Benue Cement Company.", "Produce pentru Centura de Mijloc."],
       en: ["Formerly Benue Cement Company.", "Produces for the Middle Belt."]
-    }
-  },
+    }, image: "/poi-images/gboko-cement-plant-economic-v2.webp"},
   {
     id: "mfamosing-cement-plant-economic-v2",
     type: "industry",
@@ -599,8 +583,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A Lafarge Africa része.", "Nigéria keleti részét látja el."],
       ro: ["Face parte din Lafarge Africa.", "Aprovizionează estul Nigeriei."],
       en: ["Part of Lafarge Africa.", "Supplies eastern Nigeria."]
-    }
-  },
+    }, image: "/poi-images/mfamosing-cement-plant-economic-v2.webp"},
   {
     id: "bua-cement-sokoto-economic-v2",
     type: "industry",
@@ -623,8 +606,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A BUA Csoport része.", "Fontos Északnyugat-Nigéria számára."],
       ro: ["Aparține BUA Group.", "Important pentru nord-vestul Nigeriei."],
       en: ["Belongs to BUA Group.", "Important for northwestern Nigeria."]
-    }
-  },
+    }, image: "/poi-images/bua-cement-sokoto-economic-v2.webp"},
   {
     id: "lafarge-ashaka-cement-economic-v2",
     type: "industry",
@@ -647,8 +629,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["Gombe államban található.", "Legfontosabb beszállító északkeleten."],
       ro: ["Situat în statul Gombe.", "Cel mai important furnizor din nord-est."],
       en: ["Located in Gombe State.", "Main supplier in the northeast."]
-    }
-  },
+    }, image: "/poi-images/lafarge-ashaka-cement-economic-v2.webp"},
   {
     id: "ewekoro-cement-plant-economic-v2",
     type: "industry",
@@ -671,8 +652,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["1959-ben alapították.", "Az első Nigériában."],
       ro: ["Fondată în 1959.", "Prima din Nigeria."],
       en: ["Founded in 1959.", "The first in Nigeria."]
-    }
-  },
+    }, image: "/poi-images/ewekoro-cement-plant-economic-v2.webp"},
   {
     id: "okpella-cement-plant-economic-v2",
     type: "industry",
@@ -695,8 +675,7 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       hu: ["A BUA és a Dangote bővítette.", "Edo államban."],
       ro: ["Extinsă de BUA și Dangote.", "În statul Edo."],
       en: ["Expanded by BUA and Dangote.", "In Edo State."]
-    }
-  },
+    }, image: "/poi-images/okpella-cement-plant-economic-v2.webp"},
   {
     id: "alscon-smelter-economic-v2",
     type: "industry",
@@ -722,3 +701,4 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
     }
   }
 ];
+

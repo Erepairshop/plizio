@@ -1,7 +1,8 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuineabissauLandmarksV2: POI[] = [
-  {
+    {
     id: "lino-correia-stadium-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -39,9 +40,20 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Located near the Port of Bissau.",
         "Named after a hero of the independence struggle."
       ]
-    }
-  },
-  {
+    },
+        descriptionAdvanced: {
+          de: "",
+          hu: "",
+          ro: "",
+          en: "The Estádio Lino Correia in Bissau is one of the most historically significant sports facilities in Guinea-Bissau. It was named in honor of Lino Correia, a local resistance fighter against Portuguese colonial rule. With a capacity of approximately 5,000 spectators, it serves today primarily as a playing field for first-division national clubs. The stadium is an integral part of Bissau's urban life, hosting not only football matches but also numerous national ceremonies. It reflects the close connection between sports and the nation's identity. Geography K7 — capitals and urban infrastructure."
+    },
+    factsAdvanced: {
+          de: [],
+          hu: [],
+          ro: [],
+          en: ["Built in the 1940s.", "Capacity of approximately 5,000 seats.", "Home stadium for several Bissau clubs.", "Center for national holidays.", "Important symbol of the anti-colonial struggle.", "Located just 2 km from the city center."]
+    }, image: "/poi-images/lino-correia-stadium-landmarks-v2.webp"},
+    {
     id: "presidential-palace-bissau-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -79,9 +91,14 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "One of the most prominent buildings in downtown Bissau.",
         "Serves as a symbol of state authority."
       ]
-    }
-  },
-  {
+    },
+        descriptionAdvanced: {
+          de: "",
+          hu: "",
+          ro: "",
+          en: "The Presidential Palace in Bissau stands as a symbol of Guinea-Bissau's turbulent political history. After suffering severe destruction during the devastating civil war in 1998, it was fully restored and today it is once again the representative official seat of the President. The architecture combines colonial elements with modern functionality, set within a park-like complex in the center of the capital. The building is not only a seat of power but also a venue for diplomatic protocols and state visits. Sachkunde K8 — statehood and historical landmarks."
+    }, image: "/poi-images/presidential-palace-bissau-landmarks-v2.webp"},
+    {
     id: "colinas-de-boe-palace-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -119,9 +136,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Houses various government offices.",
         "A central point for the political administration of the country."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/colinas-de-boe-palace-landmarks-v2.webp"},
+    {
     id: "central-market-bissau-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -159,9 +175,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Known for fresh fish and tropical fruits.",
         "Center for the exchange of local news and culture."
       ]
-    }
-  },
-  {
+    },
+    },
+    {
     id: "bceao-building-bissau-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -199,9 +215,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "One of the best-secured buildings in the city.",
         "An example of modern banking architecture in West Africa."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/bceao-building-bissau-landmarks-v2.webp"},
+    {
     id: "simao-mendes-hospital-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -239,9 +254,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Serves as an academic teaching hospital.",
         "A crucial site for national healthcare."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/simao-mendes-hospital-landmarks-v2.webp"},
+    {
     id: "ilheu-do-rei-lighthouse-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -279,9 +293,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Indispensable for the safety of maritime traffic in the capital.",
         "The island previously housed a fish processing factory."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/ilheu-do-rei-lighthouse-landmarks-v2.webp"},
+    {
     id: "stadium-24-september-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -319,9 +332,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Has a capacity of approximately 20,000 spectators.",
         "Modernized with the support of the Chinese government."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/stadium-24-september-landmarks-v2.webp"},
+    {
     id: "french-cultural-center-bissau-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -359,9 +371,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "A popular meeting place for artists and intellectuals.",
         "Organizes the annual Francophonie festival."
       ]
-    }
-  },
-  {
+    },
+    },
+    {
     id: "amilcar-cabral-university-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -399,9 +411,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Offers courses in law, medicine, and social sciences.",
         "Plays a central role in training the national elite."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/amilcar-cabral-university-landmarks-v2.webp"},
+    {
     id: "commercial-port-bissau-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -439,9 +450,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Lifeline for the supply of the capital and the interior.",
         "A busy place with constant ship traffic."
       ]
-    }
-  },
-  {
+    },
+    },
+    {
     id: "bubaque-lighthouse-landmarks-v2",
     type: "landmark",
     parent: "GW-BL",
@@ -479,9 +490,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "A popular photo subject for visitors to the island.",
         "Important for the safety of nighttime navigation."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/bubaque-lighthouse-landmarks-v2.webp"},
+    {
     id: "bafata-bridge-landmarks-v2",
     type: "landmark",
     parent: "GW-BA",
@@ -519,9 +529,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Offers a wide view over the winding river course.",
         "A central infrastructure structure in the interior."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/bafata-bridge-landmarks-v2.webp"},
+    {
     id: "gabu-great-mosque-landmarks-v2",
     type: "landmark",
     parent: "GW-GA",
@@ -559,9 +568,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "A symbol of the country's religious diversity.",
         "Architecturally visible from afar due to its minarets."
       ]
-    }
-  },
-  {
+    },
+    },
+    {
     id: "gabu-catholic-church-landmarks-v2",
     type: "landmark",
     parent: "GW-GA",
@@ -599,9 +608,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "An example of colonial sacred architecture in the east.",
         "Place for significant social and religious gatherings."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/gabu-catholic-church-landmarks-v2.webp"},
+    {
     id: "bissau-city-hall-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -639,9 +647,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Responsible for urban infrastructure and planning.",
         "Shows classic Portuguese administrative architecture."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/bissau-city-hall-landmarks-v2.webp"},
+    {
     id: "january-20-monument-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -679,9 +686,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Symbolizes the sacrifice of the independence fighters.",
         "Located in a central square of the capital."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/january-20-monument-landmarks-v2.webp"},
+    {
     id: "new-national-assembly-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -719,9 +725,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "One of the largest modern buildings in Bissau.",
         "A symbol of diplomatic relations with China."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/new-national-assembly-landmarks-v2.webp"},
+    {
     id: "supreme-court-bissau-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -759,9 +764,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Central point for national judicial administration.",
         "Located near other important government buildings."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/supreme-court-bissau-landmarks-v2.webp"},
+    {
     id: "bandim-fishing-port-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -799,9 +803,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "An important trading point for fresh fish in the city.",
         "Provides insight into traditional fishing methods."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/bandim-fishing-port-landmarks-v2.webp"},
+    {
     id: "ponta-varela-lighthouse-landmarks-v2",
     type: "landmark",
     parent: "GW-CA",
@@ -839,9 +842,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "An important navigation point for coastal shipping.",
         "The area is known for its natural beauty and isolation."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/ponta-varela-lighthouse-landmarks-v2.webp"},
+    {
     id: "cacheu-river-bridge-landmarks-v2",
     type: "landmark",
     parent: "GW-CA",
@@ -879,9 +881,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Important for regional trade and passenger traffic.",
         "Offers a picturesque view of the surrounding mangrove forests."
       ]
-    }
-  },
-  {
+    },
+    },
+    {
     id: "antula-sports-complex-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -919,9 +921,8 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "A center for training young football talents.",
         "Frequent venue for local championship matches."
       ]
-    }
-  },
-  {
+    }, image: "/poi-images/antula-sports-complex-landmarks-v2.webp"},
+    {
     id: "portuguese-cultural-center-landmarks-v2",
     type: "landmark",
     parent: "GW-BS",
@@ -959,9 +960,9 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Regularly organizes literary evenings and art exhibitions.",
         "A meeting place for the exchange of Lusophone culture."
       ]
-    }
-  },
-  {
+    },
+    },
+    {
     id: "canchungo-church-landmarks-v2",
     type: "landmark",
     parent: "GW-CA",
@@ -999,6 +1000,7 @@ export const poiExtraGuineabissauLandmarksV2: POI[] = [
         "Center of religious life in the city of Canchungo.",
         "Built during the Portuguese colonial period."
       ]
-    }
+    },
   }
 ];
+

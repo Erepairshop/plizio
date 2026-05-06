@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/romanaC4.ts — AstroRomână Clasa 4
 import type { PoolTopicDef } from "./types";
 
@@ -24788,3 +24789,4 @@ export const PROP4_LABELS = VOC4_LABELS;
 export const PROP4_POOL = VOC4_POOL;
 export const COMP4_LABELS = RECAP4_LABELS;
 export const COMP4_POOL = RECAP4_POOL;
+

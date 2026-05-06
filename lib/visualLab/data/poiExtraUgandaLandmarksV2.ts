@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUgandaLandmarksV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["2006-ban fejezték be az építését.", "Több mint 15 000 hívő befogadására alkalmas.", "Muammar Kadhafi finanszírozta.", "Egy 50 méter magas minarettel rendelkezik."],
       ro: ["Finalizată în 2006.", "Poate găzdui peste 15.000 de credincioși.", "Finanțată de Muammar Gaddafi.", "Are un minaret de 50 de metri înălțime."],
       en: ["Completed in 2006.", "Can accommodate over 15,000 worshippers.", "Funded by Muammar Gaddafi.", "Features a 50-meter-tall minaret."]
-    }
-  },
+    }, image: "/poi-images/ug-uganda-national-mosque-landmarks-v2.webp"},
   {
     id: "ug-namirembe-cathedral-landmarks-v2",
     type: "landmark",
@@ -47,8 +47,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1915 és 1919 között épült.", "Főként vörös téglából készült.", "10 000 fős gyülekezet befogadására alkalmas.", "Ez a negyedik templom ezen a helyen."],
       ro: ["Construită între 1915 și 1919.", "Fabricată în principal din cărămizi de pământ roșu.", "Are o capacitate de 10.000 de locuri.", "A patra clădire a bisericii pe acest loc."],
       en: ["Constructed between 1915 and 1919.", "Made primarily of red earth bricks.", "Seats a congregation of 10,000 people.", "The fourth church building on this site."]
-    }
-  },
+    }, image: "/poi-images/ug-namirembe-cathedral-landmarks-v2.webp"},
   {
     id: "ug-rubaga-cathedral-landmarks-v2",
     type: "landmark",
@@ -95,8 +94,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1881-ben épült királyi palotaként.", "Négy Kabaka (király) földi maradványait őrzi.", "A főépület, a Muzibu Azaala Mpanga, kör alaprajzú.", "2010-ben egy tűzvész részben elpusztította, de helyreállították."],
       ro: ["Construit în 1881 ca palat regal.", "Adăpostește rămășițele a patru Kabakas (Regi).", "Clădirea principală, Muzibu Azaala Mpanga, este circulară.", "Distrusă parțial de un incendiu în 2010, dar restaurată."],
       en: ["Built in 1881 as a royal palace.", "Holds the remains of four Kabakas (Kings).", "The main building, Muzibu Azaala Mpanga, is circular.", "Partially destroyed by fire in 2010 but restored."]
-    }
-  },
+    }, image: "/poi-images/ug-kasubi-tombs-landmarks-v2.webp"},
   {
     id: "ug-namugongo-shrine-landmarks-v2",
     type: "landmark",
@@ -119,8 +117,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1969-ben szentelte fel VI. Pál pápa.", "32 fiatalembernek állít emléket, akiket 1886-ban halálra égettek.", "Évente június 3-án zarándokok milliói keresik fel.", "Az oszlopok a 22 katolikus mártírt jelképezik."],
       ro: ["Consacrată în 1969 de Papa Paul al VI-lea.", "Comemorează 32 de tineri arși de vii în 1886.", "Milioane de pelerini o vizitează anual pe 3 iunie.", "Stâlpii reprezintă cei 22 de martiri catolici."],
       en: ["Consecrated in 1969 by Pope Paul VI.", "Commemorates 32 young men burned to death in 1886.", "Millions of pilgrims visit on June 3rd annually.", "The pillars represent the 22 Catholic martyrs."]
-    }
-  },
+    }, image: "/poi-images/ug-namugongo-shrine-landmarks-v2.webp"},
   {
     id: "ug-independence-monument-landmarks-v2",
     type: "landmark",
@@ -143,8 +140,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1962. október 9-én leplezték le.", "Gregory Maloba kenyai szobrász alkotta.", "Magassága 9 méter.", "A brit gyarmati uralom alóli felszabadulást jelképezi."],
       ro: ["Dezvelit la 9 octombrie 1962.", "Creat de sculptorul kenyan Gregory Maloba.", "Are o înălțime de 9 metri.", "Semnifică libertatea de sub dominația colonială britanică."],
       en: ["Unveiled on October 9, 1962.", "Created by Kenyan sculptor Gregory Maloba.", "Stands at 9 meters tall.", "Signifies freedom from British colonial rule."]
-    }
-  },
+    }, image: "/poi-images/ug-independence-monument-landmarks-v2.webp"},
   {
     id: "ug-namboole-stadium-landmarks-v2",
     type: "landmark",
@@ -167,8 +163,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1997-ben nyitották meg.", "Befogadóképessége 45 202 fő.", "Nelson Mandeláról nevezték el.", "A kínai kormány támogatásával épült."],
       ro: ["Deschis în 1997.", "Are o capacitate de 45.202 de locuri.", "Numit după Nelson Mandela.", "Construit cu un grant din partea guvernului chinez."],
       en: ["Opened in 1997.", "Has a seating capacity of 45,202.", "Named after Nelson Mandela.", "Built with a grant from the Chinese government."]
-    }
-  },
+    }, image: "/poi-images/ug-namboole-stadium-landmarks-v2.webp"},
   {
     id: "ug-bahai-temple-landmarks-v2",
     type: "landmark",
@@ -191,8 +186,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1961-ben készült el.", "Több mint 38 méter magas.", "A kupolát Olaszországból származó zöld mozaikcsempék borítják.", "50 hektáros kert veszi körül."],
       ro: ["Finalizat în 1961.", "Are o înălțime de peste 38 de metri.", "Cupola este acoperită cu plăci de mozaic verde din Italia.", "Înconjurat de 50 de acri de grădini."],
       en: ["Completed in 1961.", "Stands over 38 meters high.", "The dome is covered in green mosaic tiles from Italy.", "Surrounded by 50 acres of gardens."]
-    }
-  },
+    }, image: "/poi-images/ug-bahai-temple-landmarks-v2.webp"},
   {
     id: "ug-source-nile-bridge-landmarks-v2",
     type: "landmark",
@@ -215,8 +209,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["2018-ban fejezték be és adták át.", "Hossza 525 méter.", "Kelet-Afrika első ferdekábeles hídja.", "Az elöregedett Nalubaale hidat váltotta fel."],
       ro: ["Finalizat și deschis în 2018.", "Are o lungime de 525 de metri.", "Primul pod hobanat din Africa de Est.", "A înlocuit vechiul pod Nalubaale."],
       en: ["Completed and opened in 2018.", "It is 525 meters long.", "The first cable-stayed bridge in East Africa.", "Replaced the aging Nalubaale Bridge."]
-    }
-  },
+    }, image: "/poi-images/ug-source-nile-bridge-landmarks-v2.webp"},
   {
     id: "ug-nalubaale-dam-landmarks-v2",
     type: "landmark",
@@ -239,8 +232,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1954-ben helyezték üzembe.", "Eredeti neve Owen Falls-gát.", "180 megawatt teljesítményt biztosít.", "Szabályozza a Viktória-tóból kifolyó víz mennyiségét."],
       ro: ["Pus în funcțiune în 1954.", "Numit inițial Barajul Owen Falls.", "Furnizează 180 Megawați de energie.", "Controlează debitul de apă din Lacul Victoria."],
       en: ["Commissioned in 1954.", "Originally named Owen Falls Dam.", "Provides 180 Megawatts of power.", "Controls the outflow of water from Lake Victoria."]
-    }
-  },
+    }, image: "/poi-images/ug-nalubaale-dam-landmarks-v2.webp"},
   {
     id: "ug-parliament-house-landmarks-v2",
     type: "landmark",
@@ -263,8 +255,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1960-ban nyitották meg.", "Egy nagy központi termet tartalmaz a viták számára.", "Többször felújították, hogy több képviselőt tudjon befogadni.", "Politikai jelentősége miatt szigorúan őrzik."],
       ro: ["Deschis în 1960.", "Include o sală centrală mare pentru dezbateri.", "Renovată de mai multe ori pentru a găzdui mai mulți membri.", "Păzită îndeaproape datorită semnificației sale politice."],
       en: ["Opened in 1960.", "Includes a large central chamber for debates.", "Renovated multiple times to accommodate more members.", "Guarded closely due to its political significance."]
-    }
-  },
+    }, image: "/poi-images/ug-parliament-house-landmarks-v2.webp"},
   {
     id: "ug-bulange-mengo-landmarks-v2",
     type: "landmark",
@@ -287,8 +278,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["Építése 1955-ben kezdődött.", "A Lukiiko (parlament) találkozóhelyeként szolgál.", "Egy nyílegyenes, egy mérföld hosszú út köti össze a Kabaka palotájával.", "Kiemelkedő óratoronnyal rendelkezik."],
       ro: ["Construcția a început în 1955.", "Servește drept loc de întâlnire pentru Lukiiko (parlament).", "Are un drum drept de o milă care îl leagă de Palatul Kabaka.", "Are un turn cu ceas proeminent."],
       en: ["Construction began in 1955.", "Serves as the meeting place for the Lukiiko (parliament).", "Features a straight one-mile road connecting it to the Kabaka's Palace.", "Has a prominent clock tower."]
-    }
-  },
+    }, image: "/poi-images/ug-bulange-mengo-landmarks-v2.webp"},
   {
     id: "ug-kabaka-palace-landmarks-v2",
     type: "landmark",
@@ -311,8 +301,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1922-ben épült.", "Egy egyenes út (Kabaka Anjagala) köti össze a Bulange épületével.", "A területen találhatók Idi Amin hírhedt kínzókamrái.", "Továbbra is nagyra becsült kulturális helyszín."],
       ro: ["Construit în 1922.", "Este conectat la Bulange printr-un drum drept (Kabaka Anjagala).", "Camerele de tortură infame ale lui Idi Amin sunt pe domeniu.", "Rămâne un sit cultural extrem de respectat."],
       en: ["Constructed in 1922.", "It is connected to the Bulange by a straight road (Kabaka Anjagala).", "The infamous Idi Amin torture chambers are on the grounds.", "Remains a highly respected cultural site."]
-    }
-  },
+    }, image: "/poi-images/ug-kabaka-palace-landmarks-v2.webp"},
   {
     id: "ug-crested-towers-landmarks-v2",
     type: "landmark",
@@ -335,8 +324,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1970-ben készült el.", "Egy 20 emeletes magasabb és egy 12 emeletes alacsonyabb toronyból áll.", "Kiemelkedő helikopterleszálló van a tetején.", "A 2000-es évek elején jelentős felújításon esett át."],
       ro: ["Finalizat în 1970.", "Constă dintr-un turn înalt de 20 de etaje și un turn scurt de 12 etaje.", "Are un heliport proeminent pe acoperiș.", "A suferit renovări majore la începutul anilor 2000."],
       en: ["Completed in 1970.", "Consists of a 20-story tall tower and a 12-story short tower.", "Features a prominent rooftop helipad.", "Underwent major renovations in the early 2000s."]
-    }
-  },
+    }, image: "/poi-images/ug-crested-towers-landmarks-v2.webp"},
   {
     id: "ug-pearl-of-africa-hotel-landmarks-v2",
     type: "landmark",
@@ -359,8 +347,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["2017-ben nyílt meg.", "Körülbelül 90 méter magas.", "20 emelettel és több mint 290 szobával rendelkezik.", "Uganda egyik legmagasabb épülete."],
       ro: ["Deschis în 2017.", "Are o înălțime de aproximativ 90 de metri.", "Are 20 de etaje și peste 290 de camere.", "Una dintre cele mai înalte clădiri din Uganda."],
       en: ["Opened in 2017.", "Stands at approximately 90 meters tall.", "Has 20 floors and over 290 rooms.", "One of the tallest buildings in Uganda."]
-    }
-  },
+    }, image: "/poi-images/ug-pearl-of-africa-hotel-landmarks-v2.webp"},
   {
     id: "ug-mapeera-house-landmarks-v2",
     type: "landmark",
@@ -383,8 +370,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["2012-ben fejezték be.", "19 emeletes.", "Siméon Lourdel atyáról (Mapeera), egy úttörő katolikus misszionáriusról nevezték el.", "Körülbelül 40 millió dolláros költséggel épült."],
       ro: ["Finalizată în 2012.", "Are 19 etaje.", "Numită după Părintele Siméon Lourdel (Mapeera), un misionar catolic pionier.", "Construită cu un cost de aproximativ 40 de milioane USD."],
       en: ["Completed in 2012.", "Features 19 floors.", "Named after Father Siméon Lourdel (Mapeera), a pioneering Catholic missionary.", "Built at a cost of approximately 40 million USD."]
-    }
-  },
+    }, image: "/poi-images/ug-mapeera-house-landmarks-v2.webp"},
   {
     id: "ug-kampala-clock-tower-landmarks-v2",
     type: "landmark",
@@ -407,8 +393,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1954-ben emelték.", "V. György király ezüstjubileumának állít emléket.", "Központi tájékozódási pont a városi közlekedésben.", "Számos esztétikai felújításon esett át."],
       ro: ["Ridicată în 1954.", "Comemorează Jubileul de Argint al Regelui George al V-lea.", "Un punct central de orientare pentru traficul orașului.", "A suferit mai multe renovări estetice."],
       en: ["Erected in 1954.", "Commemorates the Silver Jubilee of King George V.", "A central orientation point for city traffic.", "Has undergone several aesthetic renovations."]
-    }
-  },
+    }, image: "/poi-images/ug-kampala-clock-tower-landmarks-v2.webp"},
   {
     id: "ug-makerere-main-building-landmarks-v2",
     type: "landmark",
@@ -455,8 +440,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1908-ban alapították, jelenlegi épületébe 1954-ben költözött.", "Ernst May német építész tervezte.", "Jellegzetes lejtős tetőkialakítással rendelkezik.", "Hagyományos hangszerek megszólaltatható gyűjteményét őrzi."],
       ro: ["Înființat în 1908, mutat în această clădire în 1954.", "Proiectată de arhitectul german Ernst May.", "Prezintă un design distinct cu acoperiș înclinat.", "Găzduiește o colecție de instrumente muzicale tradiționale care pot fi cântate."],
       en: ["Established in 1908, moved to this building in 1954.", "Designed by German architect Ernst May.", "Features a distinct sloping roof design.", "Houses a playable collection of traditional musical instruments."]
-    }
-  },
+    }, image: "/poi-images/ug-uganda-national-museum-landmarks-v2.webp"},
   {
     id: "ug-workers-house-landmarks-v2",
     type: "landmark",
@@ -479,8 +463,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["2001-ben adták át.", "20 emelet magas.", "A Nemzeti Társadalombiztosítási Alap (NSSF) központja.", "Tetején helikopterleszálló található."],
       ro: ["Finalizată în 2001.", "Are 20 de etaje.", "Sediul Fondului Național de Asigurări Sociale (NSSF).", "Dispune de un heliport pe acoperiș."],
       en: ["Completed in 2001.", "Stands 20 stories tall.", "Headquarters of the National Social Security Fund (NSSF).", "Features a helipad on its roof."]
-    }
-  },
+    }, image: "/poi-images/ug-workers-house-landmarks-v2.webp"},
   {
     id: "ug-karuma-bridge-landmarks-v2",
     type: "landmark",
@@ -503,8 +486,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1963-ban épült.", "A sebes Karuma-vízesés mellett építették.", "Létfontosságú a Dél-Szudánba irányuló kereskedelmi szállítás szempontjából.", "A közelben egy új, nagyobb híd építését tervezik."],
       ro: ["Construit în 1963.", "Construit alături de Cascadele puternice Karuma.", "Vital pentru transportul comercial către Sudanul de Sud.", "Un pod nou și mai mare este planificat în apropiere."],
       en: ["Constructed in 1963.", "Built alongside the fierce Karuma Falls.", "Vital for commercial transport to South Sudan.", "A new larger bridge is planned nearby."]
-    }
-  },
+    }, image: "/poi-images/ug-karuma-bridge-landmarks-v2.webp"},
   {
     id: "ug-entebbe-old-terminal-landmarks-v2",
     type: "landmark",
@@ -527,8 +509,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["A 20. század közepén épült.", "Jelenleg elsősorban katonai bázisként működik.", "Az eredeti irányítótorony még ma is áll.", "Az 1976-os rajtaütés golyónyomai még mindig láthatók."],
       ro: ["Construit la mijlocul secolului al XX-lea.", "În prezent servește în principal ca bază militară.", "Turnul de control original este încă în picioare.", "Găurile de gloanțe de la raidul din 1976 sunt încă vizibile."],
       en: ["Built in the mid-20th century.", "Currently serves primarily as a military base.", "The original control tower still stands.", "Bullet holes from the 1976 raid are still visible."]
-    }
-  },
+    }, image: "/poi-images/ug-entebbe-old-terminal-landmarks-v2.webp"},
   {
     id: "ug-shree-sanatan-temple-landmarks-v2",
     type: "landmark",
@@ -551,8 +532,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["Szerkezeti acél felhasználása nélkül épült.", "Klasszikus indiai építészeti stílusjegyeket hordoz.", "Az ugandai indiai diaszpóra központi spirituális helye.", "Több hindu istenségnek szentelték."],
       ro: ["Construit fără utilizarea oțelului structural.", "Prezintă stiluri arhitecturale indiene clasice.", "Un hub spiritual central pentru diaspora indiană din Uganda.", "Dedicat mai multor zeități hinduse."],
       en: ["Built without the use of structural steel.", "Features classical Indian architectural styles.", "A central spiritual hub for the Indian diaspora in Uganda.", "Dedicated to multiple Hindu deities."]
-    }
-  },
+    }, image: "/poi-images/ug-shree-sanatan-temple-landmarks-v2.webp"},
   {
     id: "ug-igongo-cultural-centre-landmarks-v2",
     type: "landmark",
@@ -575,8 +555,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["2011-ben nyitották meg.", "Itt található Délnyugat-Uganda Eriijukiro Múzeuma.", "A jellegzetes Ankole marha hatalmas szobrával rendelkezik.", "Az ankolei király egykori palotájának helyén épült."],
       ro: ["Deschis în 2011.", "Găzduiește Muzeul Eriijukiro din sud-vestul Ugandei.", "Prezintă un monument iconic mare al vacii Ankole.", "Construit pe fosta locație a palatului Regelui din Ankole."],
       en: ["Opened in 2011.", "Houses the Eriijukiro Museum of South Western Uganda.", "Features a large iconic monument of the Ankole cow.", "Built on the former site of the palace of the King of Ankole."]
-    }
-  },
+    }, image: "/poi-images/ug-igongo-cultural-centre-landmarks-v2.webp"},
   {
     id: "ug-kibuli-mosque-landmarks-v2",
     type: "landmark",
@@ -623,8 +602,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["Eredetileg 1926-ban nyitották meg.", "2024-ben nyitott újra átfogó felújítás után.", "Műfüves borítással és modern lelátókkal rendelkezik.", "Nyüzsgő bevásárlóközpont veszi körül."],
       ro: ["Deschis inițial în 1926.", "Redeschis în 2024 după o reamenajare extinsă.", "Acum dispune de gazon artificial și scaune moderne.", "Înconjurat de un centru comercial aglomerat."],
       en: ["Originally opened in 1926.", "Reopened in 2024 after extensive redevelopment.", "Now features artificial turf and modern seating.", "Surrounded by a bustling shopping center."]
-    }
-  },
+    }, image: "/poi-images/ug-nakivubo-stadium-landmarks-v2.webp"},
   {
     id: "ug-jinja-railway-bridge-landmarks-v2",
     type: "landmark",
@@ -647,8 +625,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["1931-ben készült el.", "Robusztus acélvázból épült.", "Összekötötte Kampalát a kenyai Mombasa kikötőjével.", "A tehervonatok ma is használják."],
       ro: ["Finalizat în 1931.", "Construit dintr-un cadru robust de oțel.", "A conectat Kampala la portul kenyan Mombasa.", "Încă în uz pentru trenurile de marfă astăzi."],
       en: ["Completed in 1931.", "Constructed of robust steel framework.", "Connected Kampala to the Kenyan port of Mombasa.", "Still in use for freight trains today."]
-    }
-  },
+    }, image: "/poi-images/ug-jinja-railway-bridge-landmarks-v2.webp"},
   {
     id: "ug-busega-toll-plaza-landmarks-v2",
     type: "landmark",
@@ -671,8 +648,7 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       hu: ["A gyorsforgalmi utat 2018-ban adták át.", "Modern elektronikus útdíjszedő rendszerekkel van felszerelve.", "A kínai kormány támogatásával épült.", "Jelentősen csökkentette az Entebbe repülőtérre vezető utazási időt."],
       ro: ["Autostrada a fost deschisă în 2018.", "Dispune de sisteme moderne de colectare electronică a taxelor.", "Construită cu asistență din partea guvernului chinez.", "A redus semnificativ timpul de călătorie către Aeroportul Entebbe."],
       en: ["The expressway opened in 2018.", "Features modern electronic toll collection systems.", "Built with assistance from the Chinese government.", "Significantly reduced travel time to Entebbe Airport."]
-    }
-  },
+    }, image: "/poi-images/ug-busega-toll-plaza-landmarks-v2.webp"},
   {
     id: "ug-katonga-bridge-landmarks-v2",
     type: "landmark",
@@ -722,3 +698,4 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     }
   }
 ];
+

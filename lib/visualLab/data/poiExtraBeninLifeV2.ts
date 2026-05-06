@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBeninLifeV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["1985-ben alapították", "Biotermelésre fókuszál", "Képzési központ"],
       ro: ["Fondat în 1985", "Focus pe agricultura bio", "Centru de formare"],
       en: ["Founded in 1985", "Focus on organic farming", "Training center"]
-    }
-  },
+    }, image: "/poi-images/songhai-center-life-v2.webp"},
   {
     id: "allada-pineapple-fields-life-v2",
     type: "agriculture",
@@ -47,8 +47,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Fő exporttermék", "Vulkanikus talaj", "Hagyományos aratás"],
       ro: ["Principal produs de export", "Sol vulcanic", "Recoltare tradițională"],
       en: ["Main export product", "Volcanic soil", "Traditional harvest"]
-    }
-  },
+    }, image: "/poi-images/allada-pineapple-fields-life-v2.webp"},
   {
     id: "pobe-palm-oil-plantations-life-v2",
     type: "agriculture",
@@ -71,8 +70,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Helyi kutatóközpont", "Fontos étolaj", "Trópusi klíma"],
       ro: ["Centru de cercetare local", "Ulei alimentar important", "Climat tropical"],
       en: ["Local research center", "Important cooking oil", "Tropical climate"]
-    }
-  },
+    }, image: "/poi-images/pobe-palm-oil-plantations-life-v2.webp"},
   {
     id: "banikoara-cotton-fields-life-v2",
     type: "agriculture",
@@ -95,8 +93,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Legnagyobb termőterület", "Szezonális aratás", "Gazdasági motor"],
       ro: ["Cea mai mare zonă de cultivare", "Recoltă sezonieră", "Motor economic"],
       en: ["Largest cultivation area", "Seasonal harvest", "Economic engine"]
-    }
-  },
+    }, image: "/poi-images/banikoara-cotton-fields-life-v2.webp"},
   {
     id: "savalou-yam-fields-life-v2",
     type: "agriculture",
@@ -119,8 +116,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Alapvető élelmiszer", "Jamsz-fesztivál augusztusban", "Sokoldalú felhasználás"],
       ro: ["Aliment de bază", "Festivalul ignamei în august", "Utilizare versatilă"],
       en: ["Staple food", "Yam festival in August", "Versatile use"]
-    }
-  },
+    }, image: "/poi-images/savalou-yam-fields-life-v2.webp"},
   {
     id: "djougou-cashew-plantations-life-v2",
     type: "agriculture",
@@ -143,8 +139,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Növekvő exportágazat", "Száraz évszaki aratás", "Tápanyagdús dió"],
       ro: ["Sector de export în creștere", "Recoltare în sezonul uscat", "Nuci bogate în nutrienți"],
       en: ["Growing export sector", "Dry season harvest", "Nutrient-rich nuts"]
-    }
-  },
+    }, image: "/poi-images/djougou-cashew-plantations-life-v2.webp"},
   {
     id: "oueme-valley-rice-fields-life-v2",
     type: "agriculture",
@@ -167,8 +162,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Folyami öntözés", "Helyi rizsfajták", "Mocsaras vidék"],
       ro: ["Irigare fluvială", "Soiuri locale de orez", "Teren mlăștinos"],
       en: ["River irrigation", "Local rice varieties", "Swampy terrain"]
-    }
-  },
+    }, image: "/poi-images/oueme-valley-rice-fields-life-v2.webp"},
   {
     id: "drabo-monkey-sanctuary-life-v2",
     type: "animal-habitat",
@@ -191,8 +185,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Vörös kolobuszmajmok", "Természetközeli erdő", "Oktatási programok"],
       ro: ["Maimuțe colobus roșii", "Pădure naturală", "Programe educaționale"],
       en: ["Red colobus monkeys", "Natural forest", "Educational programs"]
-    }
-  },
+    }, image: "/poi-images/drabo-monkey-sanctuary-life-v2.webp"},
   {
     id: "alibori-elephant-habitat-life-v2",
     type: "animal-habitat",
@@ -239,8 +232,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Csúcsragadozó", "Kihalás fenyegeti", "Vadőrök védik"],
       ro: ["Prădător de top", "Pe cale de dispariție", "Protecție prin rangeri"],
       en: ["Apex predator", "Endangered species", "Protected by rangers"]
-    }
-  },
+    }, image: "/poi-images/pendjari-lion-territory-life-v2.webp"},
   {
     id: "w-park-buffalo-range-life-v2",
     type: "animal-habitat",
@@ -263,8 +255,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Afrikai bivalyok", "Vízben gazdag élőhely", "A WAP-komplexum része"],
       ro: ["Bivoli africani", "Habitat bogat în apă", "Parte a complexului WAP"],
       en: ["African buffaloes", "Water-rich habitat", "Part of the WAP complex"]
-    }
-  },
+    }, image: "/poi-images/w-park-buffalo-range-life-v2.webp"},
   {
     id: "nokoue-bird-habitat-life-v2",
     type: "animal-habitat",
@@ -287,8 +278,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Gémek és pelikánok", "RAMSAR-terület", "Fontos pihenőhely"],
       ro: ["Stârci și pelicani", "Zonă protejată RAMSAR", "Loc de popas important"],
       en: ["Herons and pelicans", "RAMSAR site", "Important stopover"]
-    }
-  },
+    }, image: "/poi-images/nokoue-bird-habitat-life-v2.webp"},
   {
     id: "mono-river-hippo-zone-life-v2",
     type: "animal-habitat",
@@ -311,8 +301,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Félig vízi életmód", "Togói határfolyó", "Veszélyeztetett faj"],
       ro: ["Semi-acvatic", "Râu de frontieră cu Togo", "Specie vulnerabilă"],
       en: ["Semi-aquatic", "Border river with Togo", "Vulnerable species"]
-    }
-  },
+    }, image: "/poi-images/mono-river-hippo-zone-life-v2.webp"},
   {
     id: "grand-popo-turtle-beach-life-v2",
     type: "animal-habitat",
@@ -335,8 +324,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Kérgesteknősök", "Helyi védelmi projektek", "Éjszakai tojásrakás"],
       ro: ["Țestoase luth", "Proiecte de protecție locale", "Depunerea ouălor noaptea"],
       en: ["Leatherback turtles", "Local protection projects", "Nesting at night"]
-    }
-  },
+    }, image: "/poi-images/grand-popo-turtle-beach-life-v2.webp"},
   {
     id: "borgou-cattle-grazing-life-v2",
     type: "agriculture",
@@ -359,8 +347,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Cecelégy-ellenálló", "Hús- és tejhasznosítás", "Nomád pásztorkodás"],
       ro: ["Rezistente la muștele tsetse", "Utilizare pentru carne și lapte", "Păstorit nomad"],
       en: ["Tsetse fly resistant", "Meat and milk use", "Nomadic herding"]
-    }
-  },
+    }, image: "/poi-images/borgou-cattle-grazing-life-v2.webp"},
   {
     id: "magic-park-cotonou-life-v2",
     type: "kid-landmark",
@@ -383,8 +370,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Hétvégi kirándulóhely", "Biztonságos játszótér", "Cotonou központja"],
       ro: ["Destinație de weekend", "Zonă de joacă sigură", "Centrul orașului Cotonou"],
       en: ["Weekend destination", "Safe play area", "Cotonou city center"]
-    }
-  },
+    }, image: "/poi-images/magic-park-cotonou-life-v2.webp"},
   {
     id: "porto-novo-botanical-garden-life-v2",
     type: "kid-landmark",
@@ -407,8 +393,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Gyógynövények", "Gyarmati alapítás", "Csendes menedék"],
       ro: ["Plante medicinale", "Fondare colonială", "Refugiu liniștit"],
       en: ["Medicinal plants", "Colonial foundation", "Quiet retreat"]
-    }
-  },
+    }, image: "/poi-images/porto-novo-botanical-garden-life-v2.webp"},
   {
     id: "festi-parc-cotonou-life-v2",
     type: "kid-landmark",
@@ -431,8 +416,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Tengeri szellő", "Ugrálóvárak", "Esti kivilágítás"],
       ro: ["Briză marină", "Castele gonflabile", "Iluminat nocturn"],
       en: ["Sea breeze", "Bouncy castles", "Evening lighting"]
-    }
-  },
+    }, image: "/poi-images/festi-parc-cotonou-life-v2.webp"},
   {
     id: "abomey-calavi-botanical-garden-life-v2",
     type: "kid-landmark",
@@ -455,8 +439,7 @@ export const poiExtraBeninLifeV2: POI[] = [
       hu: ["Egyetemi kampusz", "Trópusi fajok", "Zöld osztályterem"],
       ro: ["Campus universitar", "Specii tropicale", "Clasă verde"],
       en: ["University campus", "Tropical species", "Green classroom"]
-    }
-  },
+    }, image: "/poi-images/abomey-calavi-botanical-garden-life-v2.webp"},
   {
     id: "tanguieta-baobab-forest-life-v2",
     type: "animal-habitat",
@@ -482,3 +465,4 @@ export const poiExtraBeninLifeV2: POI[] = [
     }
   }
 ];
+

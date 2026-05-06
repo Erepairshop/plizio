@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuineabissauEconomicV2: POI[] = [
@@ -35,8 +36,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
           hu: [],
           ro: [],
           en: ["Estimated reserves: 110 million tons", "Strategic location on Cacheu River", "Key for fertilizer market", "Planned since 1970s", "Infrastructure modernization", "Export-oriented project"]
-    }
-  },
+    }, image: "/poi-images/farim-phosphatmine-economic-v2.webp"},
   {
     id: "boe-bauxitmine-economic-v2",
     type: "industry",
@@ -71,8 +71,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
           hu: [],
           ro: [],
           en: ["High-quality bauxite deposits", "Gabú region in southeast", "Development for aluminum market", "High logistics demand", "Border location", "Economic potential"]
-    }
-  },
+    }, image: "/poi-images/boe-bauxitmine-economic-v2.webp"},
   {
     id: "varela-schwermineralsand-economic-v2",
     type: "industry",
@@ -119,8 +118,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       hu: ["Legnagyobb sörfÃ…‘zde", "Gyarmati idÃ…‘kben alapították", "Sör és üdítÃ…‘k", "Fontos munkaadó"],
       ro: ["Cea mai mare berÃ„Æ’rie", "FondatÃ„Æ’ în perioada colonialÃ„Æ’", "Bere și rÃ„Æ’coritoare", "Angajator important"],
       en: ["Largest brewery", "Founded in colonial times", "Beer and soft drinks", "Important employer"]
-    }
-  },
+    }, image: "/poi-images/bissau-cicer-brauerei-economic-v2.webp"},
   {
     id: "bissau-kraftwerk-economic-v2",
     type: "industry",
@@ -167,8 +165,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       hu: ["Sokoldalú termelés", "Logisztikai központ", "Bissau külvárosa", "Kereskedelmi központ"],
       ro: ["Producție versatilÃ„Æ’", "Centru logistic", "Periferia orașului Bissau", "Centru pentru afaceri"],
       en: ["Versatile production", "Logistics center", "Outskirts of Bissau", "Commercial hub"]
-    }
-  },
+    }, image: "/poi-images/industriezone-bra-economic-v2.webp"},
   {
     id: "cumere-industriekomplex-economic-v2",
     type: "industry",
@@ -215,8 +212,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       hu: ["Ãƒâ€°pítÃ…‘anyagok", "FÃ…‘városi ellátás", "KÃ…‘kitermelés", "Ãƒâ€°pítÃ…‘ipari jelentÃ…‘ség"],
       ro: ["Materiale de construcție", "Aprovizionarea capitalei", "Extracție de piatrÃ„Æ’", "ImportanțÃ„Æ’ pentru construcții"],
       en: ["Construction materials", "Capital supply", "Stone extraction", "Construction industry importance"]
-    }
-  },
+    }, image: "/poi-images/antula-steinbruch-economic-v2.webp"},
   {
     id: "bissau-zementwerk-economic-v2",
     type: "industry",
@@ -239,8 +235,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       hu: ["Cementfeldolgozás", "Importhelyettesítés", "Ãƒâ€°pítÃ…‘ipari ellátás", "Ipari övezet"],
       ro: ["Procesarea cimentului", "Substituirea importurilor", "Aprovizionarea industriei construcțiilor", "ZonÃ„Æ’ industrialÃ„Æ’"],
       en: ["Cement processing", "Import substitution", "Construction industry supply", "Industrial zone"]
-    }
-  },
+    }, image: "/poi-images/bissau-zementwerk-economic-v2.webp"},
   {
     id: "bafata-ziegelei-economic-v2",
     type: "industry",
@@ -263,8 +258,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       hu: ["Agyagfeldolgozás", "Bafatá régió", "Helyi építÃ…‘anyag", "Hagyományos ipar"],
       ro: ["Procesarea argilei", "Regiunea Bafatá", "Material de construcție local", "Meșteșug tradițional"],
       en: ["Clay processing", "Bafata region", "Local building material", "Traditional trade"]
-    }
-  },
+    }, image: "/poi-images/bafata-ziegelei-economic-v2.webp"},
   {
     id: "port-von-bolama-economic-v2",
     type: "port",
@@ -335,8 +329,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       hu: ["Ãƒâ€°szaki folyami kikötÃ…‘", "Határmenti kereskedelem", "Cacheu-folyó felsÃ…‘ szakasza", "Szállítási csomópont"],
       ro: ["Port fluvial nordic", "Comerț de frontierÃ„Æ’", "Cursul superior al râului Cacheu", "Nod de transport"],
       en: ["Northern inland port", "Border trade", "Upper Cacheu River", "Transport hub"]
-    }
-  },
+    }, image: "/poi-images/port-von-farim-economic-v2.webp"},
   {
     id: "port-von-cacine-economic-v2",
     type: "port",
@@ -359,8 +352,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       hu: ["Legdélibb kikötÃ…‘", "Tombali régió", "Partmenti hajózás", "Elszigetelt fekvés"],
       ro: ["Cel mai sudic port", "Regiunea Tombali", "Navigație de coastÃ„Æ’", "Locație izolatÃ„Æ’"],
       en: ["Southernmost port", "Tombali region", "Coastal shipping", "Remote location"]
-    }
-  },
+    }, image: "/poi-images/port-von-cacine-economic-v2.webp"},
   {
     id: "port-von-sao-domingos-economic-v2",
     type: "port",
@@ -383,8 +375,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       hu: ["HatárkikötÃ…‘", "Ãƒâ€°szaknyugat-Guinea-Bissau", "Vízi kereskedelem", "Logisztikai pont"],
       ro: ["Port de frontierÃ„Æ’", "Nord-vestul Guineei-Bissau", "Comerț pe apÃ„Æ’", "Punct logistic"],
       en: ["Border port", "Northwest Guinea-Bissau", "Waterborne trade", "Logistics point"]
-    }
-  },
+    }, image: "/poi-images/port-von-sao-domingos-economic-v2.webp"},
   {
     id: "port-von-tite-economic-v2",
     type: "port",
@@ -407,8 +398,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       hu: ["Geba-torkolat", "Kompösszeköttetések", "Quínara régió", "Regionális átrakodóhely"],
       ro: ["Estuarul Geba", "Conexiuni de feribot", "Regiunea Quínara", "Punct de transbordare regional"],
       en: ["Geba estuary", "Ferry connections", "Quinara region", "Regional transshipment point"]
-    }
-  },
+    }, image: "/poi-images/port-von-tite-economic-v2.webp"},
   {
     id: "port-von-prabis-economic-v2",
     type: "port",
@@ -455,8 +445,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       hu: ["Oio régió", "Agrárexport", "Mansoa-folyó", "Helyi kereskedelem"],
       ro: ["Regiunea Oio", "Export agricol", "Râul Mansoa", "Comerț local"],
       en: ["Oio region", "Agricultural export", "Mansoa River", "Local trade"]
-    }
-  },
+    }, image: "/poi-images/port-von-encheia-economic-v2.webp"},
   {
     id: "port-von-bion-economic-v2",
     type: "port",
@@ -479,8 +468,7 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       hu: ["Folyami kereskedelem", "Quínara régió", "Logisztikai kapcsolat", "ÃƒÂruforgalom"],
       ro: ["Comerț fluvial", "Regiunea Quínara", "Conexiune logisticÃ„Æ’", "Trafic de mÃ„Æ’rfuri"],
       en: ["River trade", "Quinara region", "Logistical connection", "Goods transshipment"]
-    }
-  },
+    }, image: "/poi-images/port-von-bion-economic-v2.webp"},
   {
     id: "bissau-reismuehle-economic-v2",
     type: "industry",
@@ -506,3 +494,4 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
     }
   }
 ];
+

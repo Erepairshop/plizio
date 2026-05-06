@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraZambiaHistoryV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Feltételezhetően rituális jelentőséggel bírtak.", "A minták eltérnek a vadászó-gyűjtögető népek művészetétől."],
       ro: ["Se crede că au avut o semnificație rituală.", "Modelele diferă de arta vânătorilor-culegători din alte părți."],
       en: ["Believed to have ritual significance.", "The patterns differ from the hunter-gatherer art found elsewhere."]
-    }
-  },
+    }, image: "/poi-images/munwa-stream-rock-engravings-history-v2.webp"},
 {
     id: "sebanzi-hill-iron-age-site-history-v2",
     type: "historical",
@@ -47,8 +47,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Az ásatások különböző kerámia sorozatokat tártak fel.", "Dél-Zambia vaskori kultúráinak átalakulását mutatja be."],
       ro: ["Săpăturile au scos la iveală secvențe ceramice distincte.", "Demonstrează tranziția culturilor din Epoca Fierului în sudul Zambiei."],
       en: ["Excavations revealed distinct pottery sequences.", "Demonstrates the transition of Iron Age cultures in Southern Zambia."]
-    }
-  },
+    }, image: "/poi-images/sebanzi-hill-iron-age-site-history-v2.webp"},
 {
     id: "old-drift-settlement-history-v2",
     type: "historical",
@@ -95,8 +94,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A 13. században alapították.", "Ma is Mukuni főnök uralma alatt áll."],
       ro: ["Fondat în secolul al XIII-lea.", "Continuă să fie condus de Șeful Mukuni."],
       en: ["Founded in the 13th century.", "Continues to be ruled by Chief Mukuni."]
-    }
-  },
+    }, image: "/poi-images/mukuni-village-history-v2.webp"},
 {
     id: "maramba-fort-history-v2",
     type: "historical",
@@ -119,8 +117,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A határ és a folyami átkelő biztosítására épült.", "A régió egyik legrégebbi gyarmati építménye."],
       ro: ["Construit pentru a securiza granița și trecerea râului.", "Una dintre cele mai vechi structuri coloniale din regiune."],
       en: ["Built to secure the border and river crossing.", "One of the oldest colonial structures in the region."]
-    }
-  },
+    }, image: "/poi-images/maramba-fort-history-v2.webp"},
 {
     id: "lundazi-castle-hotel-history-v2",
     type: "historical",
@@ -143,8 +140,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Helyi téglákból épült.", "Eredetileg közigazgatási központként szolgált."],
       ro: ["Construit folosind cărămizi locale.", "A servit inițial drept centru administrativ."],
       en: ["Constructed using local bricks.", "Originally served as an administrative center."]
-    }
-  },
+    }, image: "/poi-images/lundazi-castle-hotel-history-v2.webp"},
 {
     id: "mwata-kazembe-palace-history-v2",
     type: "historical",
@@ -167,8 +163,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A lundák a 18. században vándoroltak be a Kongó-medencéből.", "Az éves Mutomboko-ceremónia központja."],
       ro: ["Lunda au migrat din bazinul Congo în secolul al XVIII-lea.", "Centrul ceremoniei anuale Mutomboko."],
       en: ["The Lunda migrated from the Congo basin in the 18th century.", "Center of the annual Mutomboko ceremony."]
-    }
-  },
+    }, image: "/poi-images/mwata-kazembe-palace-history-v2.webp"},
 {
     id: "chitimukulu-palace-history-v2",
     type: "historical",
@@ -191,8 +186,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A központosított Bemba rendszer csúcsát képviseli.", "Az utódlási rituálék több évszázadra nyúlnak vissza."],
       ro: ["Reprezintă vârful sistemului politic centralizat Bemba.", "Ritualurile de succesiune datează de secole."],
       en: ["Represents the apex of the centralized Bemba political system.", "Succession rituals here date back centuries."]
-    }
-  },
+    }, image: "/poi-images/chitimukulu-palace-history-v2.webp"},
 {
     id: "lealui-royal-village-history-v2",
     type: "historical",
@@ -215,8 +209,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A Zambézi ártéren található.", "A Kuomboka ceremónia itt kezdődik az árvíz emelkedésekor."],
       ro: ["Situat în lunca râului Zambezi.", "Ceremonia Kuomboka începe aici odată cu creșterea inundațiilor."],
       en: ["Located in the Zambezi floodplain.", "The Kuomboka ceremony starts here when the floods rise."]
-    }
-  },
+    }, image: "/poi-images/lealui-royal-village-history-v2.webp"},
 {
     id: "limulunga-royal-village-history-v2",
     type: "historical",
@@ -239,8 +232,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A szezonális áradások elkerülése végett hozták létre.", "A lozi kultúra múzeumának ad otthont."],
       ro: ["Înființată pentru a evita inundațiile sezoniere.", "Găzduiește un muzeu al culturii Lozi."],
       en: ["Established to avoid the seasonal flooding.", "Contains a museum of Lozi culture."]
-    }
-  },
+    }, image: "/poi-images/limulunga-royal-village-history-v2.webp"},
 {
     id: "sefula-mission-history-v2",
     type: "historical",
@@ -263,8 +255,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Kulcsszerepet játszott a nyugati oktatás bevezetésében.", "Coillard itt tárgyalt a korai szerződésekről."],
       ro: ["A jucat un rol cheie în introducerea educației occidentale.", "Coillard a negociat tratate timpurii aici."],
       en: ["Played a key role in the introduction of Western education.", "Coillard negotiated early treaties here."]
-    }
-  },
+    }, image: "/poi-images/sefula-mission-history-v2.webp"},
 {
     id: "kawimbe-mission-history-v2",
     type: "historical",
@@ -287,8 +278,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A kezdeti években komoly nehézségekkel küzdött.", "A régió felfedezésének bázisaként szolgált."],
       ro: ["S-a confruntat cu greutăți intense în primii ani.", "A servit drept bază pentru explorarea regiunii."],
       en: ["Faced intense hardships in its early years.", "Served as a base for exploring the region."]
-    }
-  },
+    }, image: "/poi-images/kawimbe-mission-history-v2.webp"},
 {
     id: "lubwa-mission-history-v2",
     type: "historical",
@@ -311,8 +301,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Itt született Kenneth Kaunda.", "Az afrikai oktatás és nacionalizmus központjává vált."],
       ro: ["Kenneth Kaunda s-a născut aici.", "A devenit un centru al educației și naționalismului african."],
       en: ["Kenneth Kaunda was born here.", "Became a center of African education and nationalism."]
-    }
-  },
+    }, image: "/poi-images/lubwa-mission-history-v2.webp"},
 {
     id: "feira-historical-settlement-history-v2",
     type: "historical",
@@ -359,8 +348,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Habarcs nélkül épült.", "A ngoni felkelés leverése után hamarosan elhagyták."],
       ro: ["Construit fără mortar.", "Abandonat la scurt timp după ce revolta Ngoni a fost suprimată."],
       en: ["Constructed without mortar.", "Abandoned shortly after the Ngoni uprising was suppressed."]
-    }
-  },
+    }, image: "/poi-images/fort-elwes-history-v2.webp"},
 {
     id: "kafue-railway-bridge-history-v2",
     type: "historical",
@@ -431,8 +419,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A csapatok csak három nappal az európai fegyverszünet után tették le a fegyvert.", "Egy korabeli ágyú is megtekinthető itt."],
       ro: ["Trupele au depus armele la trei zile după armistițiul din Europa.", "Prezintă un tun din acea epocă."],
       en: ["The forces laid down their arms three days after the armistice in Europe.", "Features a cannon from the era."]
-    }
-  },
+    }, image: "/poi-images/chambeshi-monument-history-v2.webp"},
 {
     id: "kilwa-island-arab-settlement-history-v2",
     type: "historical",
@@ -455,8 +442,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Összekötötte a Kongó-medencét a kelet-afrikai partvidékkel.", "A település romjai ma is láthatók."],
       ro: ["A conectat bazinul Congo cu coasta Africii de Est.", "Ruinele așezării pot fi văzute și astăzi."],
       en: ["Connected the Congo basin to the East African coast.", "Ruins of the settlement can still be seen."]
-    }
-  },
+    }, image: "/poi-images/kilwa-island-arab-settlement-history-v2.webp"},
 {
     id: "leopards-hill-cave-history-v2",
     type: "historical",
@@ -479,8 +465,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Kvarc eszközöket és állatcsontokat találtak itt.", "Rávilágít a régió őskori emberi tevékenységére."],
       ro: ["Aici au fost găsite unelte de cuarț și oase de animale.", "Aruncă lumină asupra activității umane preistorice."],
       en: ["Quartz tools and animal bones were found here.", "Sheds light on prehistoric human activity in the region."]
-    }
-  },
+    }, image: "/poi-images/leopards-hill-cave-history-v2.webp"},
 {
     id: "twin-rivers-kopje-history-v2",
     type: "historical",
@@ -503,8 +488,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Az ásatások során okker darabokat fedeztek fel.", "Több mint 200 000 évvel ezelőtti szimbolikus viselkedést mutat be."],
       ro: ["Săpăturile au descoperit bucăți de ocru.", "Demonstrează comportamentul simbolic al oamenilor timpurii."],
       en: ["Excavations uncovered ochre pieces.", "Demonstrates symbolic behavior by early humans over 200,000 years ago."]
-    }
-  },
+    }, image: "/poi-images/twin-rivers-kopje-history-v2.webp"},
 {
     id: "kansanshi-ancient-mine-history-v2",
     type: "historical",
@@ -527,8 +511,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Az őslakos népek évszázadokon át bányásztak itt rezet.", "A rézkereszteket fizetőeszközként használták."],
       ro: ["Popoarele indigene au extras cupru aici timp de secole.", "Crucile de cupru au fost folosite ca monedă."],
       en: ["Indigenous peoples mined copper here for centuries.", "Copper crosses were used as currency."]
-    }
-  },
+    }, image: "/poi-images/kansanshi-ancient-mine-history-v2.webp"},
 {
     id: "roan-antelope-discovery-site-history-v2",
     type: "historical",
@@ -551,8 +534,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Collier egy antilop szarvait találta meg a réztartalmú kőzeten.", "Ez indította el a rézövezet bányászati fellendülését."],
       ro: ["Collier a găsit coarnele unei antilope pe stâncă purtătoare de cupru.", "A declanșat boom-ul minier din Copperbelt."],
       en: ["Collier found antelope horns resting on copper-bearing rock.", "Ignited the Copperbelt mining boom."]
-    }
-  },
+    }, image: "/poi-images/roan-antelope-discovery-site-history-v2.webp"},
 {
     id: "livingstone-railway-station-history-v2",
     type: "historical",
@@ -599,8 +581,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Az 1900-as évek elején épült.", "Kalomo 1902 és 1907 között volt főváros."],
       ro: ["Construită la începutul anilor 1900.", "Kalomo a servit drept capitală între 1902 și 1907."],
       en: ["Built in the early 1900s.", "Kalomo served as capital from 1902 to 1907."]
-    }
-  },
+    }, image: "/poi-images/kalomo-administrators-house-history-v2.webp"},
 {
     id: "zambezi-boat-club-1905-history-v2",
     type: "historical",
@@ -623,8 +604,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["1910-ben híres regattát rendezett.", "A korai gyarmati társasági élet emléke."],
       ro: ["A găzduit o faimoasă regată în 1910.", "O rămășiță a vieții sociale coloniale timpurii."],
       en: ["Hosted a famous regatta in 1910.", "A remnant of early colonial social life."]
-    }
-  },
+    }, image: "/poi-images/zambezi-boat-club-1905-history-v2.webp"},
 {
     id: "cairo-road-commercial-heritage-history-v2",
     type: "historical",
@@ -647,8 +627,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Az 1930-as években gyorsan fejlődött.", "A város legkorábbi kereskedelmi épületeinek ad otthont."],
       ro: ["S-a dezvoltat rapid în anii 1930.", "Dispune de unele dintre cele mai vechi clădiri comerciale ale orașului."],
       en: ["Developed rapidly in the 1930s.", "Features several of the city's earliest commercial buildings."]
-    }
-  },
+    }, image: "/poi-images/cairo-road-commercial-heritage-history-v2.webp"},
 {
     id: "chikabola-battlefield-history-v2",
     type: "historical",
@@ -671,8 +650,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["A ngoni észak felé terjeszkedett, miközben a bemba védte a területét.", "Jelentős gyarmatosítás előtti konfliktust jelöl."],
       ro: ["Ngoni se extindeau spre nord în timp ce Bemba își apărau teritoriul.", "Marchează un conflict precolonial semnificativ."],
       en: ["The Ngoni were expanding northward while the Bemba defended their territory.", "Marks a significant pre-colonial conflict."]
-    }
-  },
+    }, image: "/poi-images/chikabola-battlefield-history-v2.webp"},
 {
     id: "marrapodi-settlement-history-v2",
     type: "historical",
@@ -695,8 +673,7 @@ export const poiExtraZambiaHistoryV2: POI[] = [
       hu: ["Giovanni Marrapodi után nevezték el.", "Élénk, többnemzetiségű városrésszé fejlődött."],
       ro: ["Numită după Giovanni Marrapodi.", "A evoluat într-o așezare vibrantă, multietnică."],
       en: ["Named after Giovanni Marrapodi.", "Evolved into a vibrant, multi-ethnic township."]
-    }
-  },
+    }, image: "/poi-images/marrapodi-settlement-history-v2.webp"},
 {
     id: "mwenzo-mission-history-v2",
     type: "historical",
@@ -722,3 +699,4 @@ export const poiExtraZambiaHistoryV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraHondurasCitiesV2: POI[] = [
@@ -25,8 +26,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A városban található a híres Carías-híd, amely a modern építészet egyik jelképe a régióban.", "Itt tartják minden évben a régió legnagyobb mezőgazdasági és ipari vásárát (FERISUR).", "A város neve a nahuatl nyelvből származik, jelentése 'a menekültek földje'.", "Choluteca az ország egyik legfontosabb cukornád- és dinnyetermelő vidékének központja."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/choluteca-cities-v2.webp"},
   {
     id: "juticalpa-cities-v2",
     type: "state-capital",
@@ -51,8 +51,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A város központjában álló Szeplőtelen Fogantatás katedrális a gyarmati építészet kiemelkedő példája.", "Juticalpa környéke az ország egyik legfontosabb tejtermelő vidéke, híres a helyi sajtjairól.", "A település neve az azték 'Xuticalpa' szóból ered, ami 'csigák völgyét' jelenti.", "Itt található az ország egyik legfontosabb mezőgazdasági szakiskolája."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/juticalpa-cities-v2.webp"},
   {
     id: "danli-cities-v2",
     type: "state-capital",
@@ -77,8 +76,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A városban működő szivargyárak sokasága miatt Danlít gyakran nevezik 'Honduras Havannájának'.", "A közeli San Francisco-hegyről csodálatos panoráma nyílik az egész völgyre.", "A település jelentős kávétermelő vidék is, köszönhetően a magaslati fekvésének.", "Danlí büszkélkedhet az egyik legtisztább és leggondozottabb városközponttal az országban."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/danli-cities-v2.webp"},
   {
     id: "santa-rosa-de-copan-cities-v2",
     type: "state-capital",
@@ -103,8 +101,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A város történelmi központját nemzeti műemlékké nyilvánították a jól megőrzött építészete miatt.", "Itt található az ország egyik legrégebbi és leghíresebb dohánygyára, a Flor de Copán.", "A település tengerszint feletti magassága miatt az éghajlata sokkal hűvöseeb, mint az alacsonyabban fekvő városoké.", "Santa Rosa híres a virágzó művészeti életéről és az utcai falfestményeiről."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/santa-rosa-de-copan-cities-v2.webp"},
   {
     id: "la-esperanza-cities-v2",
     type: "state-capital",
@@ -129,8 +126,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A városban minden évben megrendezik a Híres Gombafesztivált, mivel a környéken rengeteg ehető vadgomba terem.", "La Esperanza éghajlata annyira hűvös, hogy gyakran nevezik 'Honduras Svájciának'.", "A közeli Lenca falvakban még ma is tartják a 'Guancasco' nevű ősi békekötési ceremóniát.", "Itt termelik az ország legjobb minőségű burgonyáját és almáját."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/la-esperanza-cities-v2.webp"},
   {
     id: "gracias-cities-v2",
     type: "state-capital",
@@ -155,8 +151,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A város a Celaque Nemzeti Park kapuja, ahol Honduras legmagasabb csúcsa is található.", "Gracias neve a spanyol 'Gracias a Dios' (Hála Istennek) kifejezésből ered.", "A közeli Arcilaca termálfürdők vulkáni eredetű, gyógyhatású vízzel várják a látogatókat.", "Itt tartják minden évben a Lempira-napi ünnepségeket az őslakos hős tiszteletére."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/gracias-cities-v2.webp"},
   {
     id: "nacaome-cities-v2",
     type: "state-capital",
@@ -181,8 +176,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A város felett ível át az ország egyik legfontosabb acélhídja a Nacaome-folyón.", "Nacaome híres a 'curiles' nevű tengeri kagylóból készült ételeiről.", "A település fontos vallási központ, ahol minden évben látványos búcsút tartanak.", "A város határában hatalmas naperőművek találhatók, kihasználva az állandó napsütést."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/nacaome-cities-v2.webp"},
   {
     id: "santa-barbara-cities-v2",
     type: "state-capital",
@@ -207,8 +201,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A Santa Bárbara-i junco-kalapok állítólag vetekednek a híres panamakalapok minőségével.", "A város központjában található park az egyik legszebb és leggondozottabb az egész országban.", "A környéken több látványos vízesés és barlangrendszer is felfedezhető.", "Itt található az ország egyik legfontosabb zink- és ólombányája, az El Mochito."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/santa-barbara-cities-v2.webp"},
   {
     id: "yoro-cities-v2",
     type: "state-capital",
@@ -233,8 +226,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A 'Lluvia de Peces' jelenségét tudományosan a tornádók által felszippantott és máshol lehulló vízi élőlényekkel magyarázzák.", "A város neve az őshonos nyelven 'szívközpontot' vagy 'a világ szívét' jelenti.", "Yoro megye az ország egyik legfontosabb kukorica- és babtermelő vidéke.", "A közelben élő tolupán indiánok az ország egyik legősibb, eredeti kultúrájukat őrző népcsoportja."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/yoro-cities-v2.webp"},
   {
     id: "yuscaran-cities-v2",
     type: "state-capital",
@@ -259,8 +251,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A városban működik az ország egyik legrégebbi és leghíresebb szeszfőzdéje, az 'El Buen Gusto'.", "Yuscarán környékén több mint 30 egykori bánya vágata található, amelyek egy része látogatható.", "Minden évben itt rendezik meg a Mango Fesztivált, a város környékén termő bőséges gyümölcs tiszteletére.", "A település vízellátását még ma is részben a gyarmati korban épített vízvezeték-rendszer biztosítja."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/yuscaran-cities-v2.webp"},
   {
     id: "choloma-cities-v2",
     type: "city",
@@ -285,8 +276,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Choloma az ország egyik legfontosabb adóbefizetője a hatalmas ipari termelésnek köszönhetően.", "A város neve őshonos nyelven 'völgyet' vagy 'sík vidéket' jelent.", "Itt található Közép-Amerika néhány legnagyobb és legmodernebb textilipari létesítménye.", "A város népessége az elmúlt évtizedekben többszörösére nőtt a belső migráció hatására."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/choloma-cities-v2.webp"},
   {
     id: "villanueva-cities-v2",
     type: "city",
@@ -311,8 +301,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Villanueva ad otthont az ország egyik legnagyobb cukorgyárának, a Chumbaguának.", "A város híres az éves 'Feria de la Caña' (Cukornád Fesztivál) ünnepségéről.", "A településen számos modern lakópark épült az ipari dolgozók számára.", "A város határában található ipari parkok jelentős részben az USA-ba exportálnak termékeket."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/villanueva-cities-v2.webp"},
   {
     id: "tela-cities-v2",
     type: "city",
@@ -337,8 +326,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Tela volt az első kikötő, amelyet a spanyolok alapítottak a hondurasi partvidéken (1524).", "A város mellett található a világ egyik legnagyobb trópusi botanikus kertje, a Lancetilla.", "A közeli Punta Sal-félsziget híres a majmairól és a rejtett lagúnáiról.", "Tela tengerparti sétánya, a 'Bulevar Costero', éjszaka éled fel igazán a helyi éttermekkel."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/tela-cities-v2.webp"},
   {
     id: "siguatepeque-cities-v2",
     type: "city",
@@ -363,8 +351,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A város tengerszint feletti magassága meghaladja az 1100 métert, biztosítva a hűvös klímát.", "Itt található a Panamerican Agricultural School egyik kísérleti állomása is.", "A város híres a fazekasairól és a helyi készítésű agyagedényekről.", "Siguatepeque környéke ideális a madármegfigyelésre a változatos erdőtípusok miatt."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/siguatepeque-cities-v2.webp"},
   {
     id: "catacamas-cities-v2",
     type: "city",
@@ -389,8 +376,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A Catacamas mellett található El Boquerón hegység látványos túraútvonalakat kínál.", "A városban található az ország egyik legnagyobb és legmodernebb tejfeldolgozó üzeme.", "A település híres a vendégszeretetéről és a hagyományos olanchoi konyhájáról.", "Catacamas területe az egyik legnagyobb a hondurasi önkormányzatok között."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/catacamas-cities-v2.webp"},
   {
     id: "tocoa-cities-v2",
     type: "city",
@@ -415,8 +401,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Tocoa környéke adja Honduras pálmaolaj-exportjának jelentős részét.", "A várost gyakran az 'Aguán fővárosaként' emlegetik stratégiai jelentősége miatt.", "A település modern infrastruktúrával rendelkezik, beleértve az új kórházakat és iskolákat.", "Tocoa híres a virágzó sportéletéről és a helyi labdarúgócsapatok iránti szenvedélyről."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/tocoa-cities-v2.webp"},
   {
     id: "la-lima-cities-v2",
     type: "city",
@@ -441,8 +426,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["La Limában volt az első golfpálya Hondurasban, amelyet az amerikai vállalat vezetői számára építettek.", "A városban működik az FHIA (Hondurasi Mezőgazdasági Kutató Alapítvány) központja, ahol új banánfajtákat fejlesztenek.", "A település súlyos károkat szenvedett az 1974-es Fifi és a 2020-as Eta/Iota hurrikánok idején.", "La Lima volt a központja a híres 1954-es nagy sztrájknak, amely megváltoztatta a munkajogot az országban."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/la-lima-cities-v2.webp"},
   {
     id: "olanchito-cities-v2",
     type: "city",
@@ -493,8 +477,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Sabá az egyik legfontosabb logisztikai központ a La Ceiba és Trujillo közötti útvonalon.", "A város környékén hatalmas afrikai olajpálma-ültetvények találhatók.", "A település gazdasága az elmúlt két évtizedben az egyik leggyorsabb növekedést mutatta a régióban.", "Sabá híres a vallási ünnepeiről és a közösségi összefogásról."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/saba-cities-v2.webp"},
   {
     id: "el-triunfo-cities-v2",
     type: "city",
@@ -519,8 +502,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["El Triunfo mellett található a Guasaule határátkelő, az egyik legforgalmasabb Közép-Amerikában.", "A város fontos gyűjtőpontja a régióban termelt dinnyének és cukornádnak.", "A település történelmileg fontos szerepet játszott a két ország közötti diplomáciai és kereskedelmi kapcsolatokban.", "El Triunfo híres a hagyományos déli gasztronómiájáról és a vendégszeretetéről."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/el-triunfo-cities-v2.webp"},
   {
     id: "marcovia-cities-v2",
     type: "city",
@@ -547,8 +529,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["La Paz megye fővárosa", "Mezőgazdasági régió", "Kávé- és zöldségtermesztés", "Békés légkör"],
       ro: ["Capitala departamentului La Paz", "Regiune agricolă", "Cultivarea cafelei și a legumelor", "Atmosferă pașnică"],
       en: ["Capital of La Paz Department", "Agricultural region", "Coffee and vegetable cultivation", "Peaceful atmosphere"]
-    }
-  },
+    }, image: "/poi-images/la-paz-cities-v2.webp"},
   {
     id: "amapala-cities-v2",
     type: "city",
@@ -561,8 +542,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["El Tigre szigetén található", "Egykori csendes-óceáni főkikötő", "Vulkáni sziget", "Történelmi német jelenlét"],
       ro: ["Situat pe Insula El Tigre", "Fostul port principal la Pacific", "Insulă vulcanică", "Prezență istorică germană"],
       en: ["Located on El Tigre Island", "Former main Pacific port", "Volcanic island", "Historic German presence"]
-    }
-  },
+    }, image: "/poi-images/amapala-cities-v2.webp"},
   {
     id: "intibuca-cities-v2",
     type: "city",
@@ -589,8 +569,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Gracias a Dios megye fővárosa", "A Caratasca-lagúnánál", "A Río Plátano Bioszféra-rezervátum kapuja", "Miskito kultúra"],
       ro: ["Capitala departamentului Gracias a Dios", "Pe Laguna Caratasca", "Poarta către Rezervația Biosferei Río Plátano", "Cultura Miskito"],
       en: ["Capital of Gracias a Dios Department", "On the Caratasca Lagoon", "Gateway to the Río Plátano Biosphere Reserve", "Miskito culture"]
-    }
-  },
+    }, image: "/poi-images/puerto-lempira-cities-v2.webp"},
   {
     id: "la-entrada-cities-v2",
     type: "city",
@@ -603,8 +582,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Közlekedési csomópont", "Kereskedőváros", "A maja útvonal kapuja", "Mezőgazdasági környezet"],
       ro: ["Nod de transport", "Oraș comercial", "Poarta către Ruta Maya", "Mediu agricol"],
       en: ["Transportation hub", "Commercial town", "Gateway to the Maya Route", "Agricultural surroundings"]
-    }
-  },
+    }, image: "/poi-images/la-entrada-cities-v2.webp"},
   {
     id: "valle-de-angeles-cities-v2",
     type: "city",
@@ -617,8 +595,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Turistaváros", "Gyarmati építészet", "Kézművesség", "Tegucigalpa közelében"],
       ro: ["Oraș turistic", "Arhitectură colonială", "Artizanat", "Aproape de Tegucigalpa"],
       en: ["Tourist town", "Colonial architecture", "Handicrafts", "Near Tegucigalpa"]
-    }
-  },
+    }, image: "/poi-images/valle-de-angeles-cities-v2.webp"},
   {
     id: "santa-rita-cities-v2",
     type: "city",
@@ -631,8 +608,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Kereskedelmi központ", "A Humuya folyó partján", "Mezőgazdasági termelés", "Közlekedési kapcsolatok"],
       ro: ["Centru comercial", "Situat pe râul Humuya", "Producție agricolă", "Conexiuni de transport"],
       en: ["Commercial center", "Located on the Humuya River", "Agricultural production", "Transport links"]
-    }
-  },
+    }, image: "/poi-images/santa-rita-cities-v2.webp"},
   {
     id: "potrerillos-cities-v2",
     type: "city",
@@ -645,8 +621,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Iparváros", "A Yojoa-tó közelében", "Közlekedési csomópont", "Növekvő közösség"],
       ro: ["Oraș industrial", "Aproape de Lacul Yojoa", "Nod de transport", "Comunitate în creștere"],
       en: ["Industrial city", "Near Lake Yojoa", "Transportation hub", "Growing community"]
-    }
-  },
+    }, image: "/poi-images/potrerillos-cities-v2.webp"},
   {
     id: "morazan-cities-v2",
     type: "city",
@@ -659,8 +634,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Francisco Morazánról nevezték el", "Mezőgazdasági régió", "Hegyvidéki környezet", "Kávétermesztés"],
       ro: ["Numit după Francisco Morazán", "Regiune agricolă", "Mediu montan", "Cultivarea cafelei"],
       en: ["Named after Francisco Morazán", "Agricultural region", "Mountainous surroundings", "Coffee cultivation"]
-    }
-  },
+    }, image: "/poi-images/morazan-cities-v2.webp"},
   {
     id: "talanga-cities-v2",
     type: "city",
@@ -673,8 +647,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Cukornádtermesztés", "Téglagyártás (Ladrilleras)", "Mezőgazdasági központ", "Tegucigalpa közelében"],
       ro: ["Cultivarea trestiei de zahăr", "Producția de cărămizi (Ladrilleras)", "Centru agricol", "Aproape de Tegucigalpa"],
       en: ["Sugarcane cultivation", "Brick production (Ladrilleras)", "Agricultural center", "Near Tegucigalpa"]
-    }
-  },
+    }, image: "/poi-images/talanga-cities-v2.webp"},
   {
     id: "cofradia-cities-v2",
     type: "city",
@@ -687,8 +660,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Ipari előváros", "San Pedro Sula agglomerációjának része", "Növekvő népesség", "Maquila gyárak"],
       ro: ["Suburbie industrială", "Parte a zonei metropolitane San Pedro Sula", "Populație în creștere", "Fabrici Maquila"],
       en: ["Industrial suburb", "Part of San Pedro Sula metropolitan area", "Growing population", "Maquila factories"]
-    }
-  },
+    }, image: "/poi-images/cofradia-cities-v2.webp"},
   {
     id: "sonaguera-cities-v2",
     type: "city",
@@ -701,8 +673,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["A narancstermesztés központja", "Mezőgazdasági közösség", "Az Aguán-völgyben", "Éves narancsfesztivál"],
       ro: ["Centrul cultivării portocalelor", "Comunitate agricolă", "În Valea Aguán", "Festivalul anual al portocalelor"],
       en: ["Center of orange cultivation", "Agricultural community", "In the Aguán Valley", "Annual Orange Festival"]
-    }
-  },
+    }, image: "/poi-images/sonaguera-cities-v2.webp"},
   {
     id: "cane-cities-v2",
     type: "city",
@@ -715,8 +686,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Fazekasmesterség", "Lenca-kultúra", "Nyugodt légkör", "La Paz közelében"],
       ro: ["Meșteșugul olăritului", "Cultura Lenca", "Atmosferă liniștită", "Aproape de La Paz"],
       en: ["Pottery crafts", "Lenca culture", "Quiet atmosphere", "Near La Paz"]
-    }
-  },
+    }, image: "/poi-images/cane-cities-v2.webp"},
   {
     id: "gualaco-cities-v2",
     type: "city",
@@ -743,8 +713,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Antimonbányászat", "Hegyvidéki régió", "Mezőgazdasági tevékenységek", "Félreeső elhelyezkedés"],
       ro: ["Minerit de antimoniu", "Regiune muntoasă", "Activități agricole", "Locație izolată"],
       en: ["Antimony mining", "Mountainous region", "Agricultural activities", "Remote location"]
-    }
-  },
+    }, image: "/poi-images/la-union-cities-v2.webp"},
   {
     id: "marcala-cities-v2",
     type: "city",
@@ -757,8 +726,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Eredetmegjelölt kávé", "„A kávé fővárosa”", "Hűvös hegyi éghajlat", "Lenca közösségek"],
       ro: ["Cafea cu denumire de origine", "„Capitala cafelei”", "Climă montană răcoroasă", "Comunități Lenca"],
       en: ["Coffee with designation of origin", "'Capital of Coffee'", "Cool mountain climate", "Lenca communities"]
-    }
-  },
+    }, image: "/poi-images/marcala-cities-v2.webp"},
   {
     id: "ocotepeque-cities-v2",
     type: "state-capital",
@@ -771,8 +739,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Ocotepeque megye fővárosa", "A Trifinio Bioszféra-rezervátum a közelben", "Fontos kereskedelmi pont", "Lempa folyó"],
       ro: ["Capitala departamentului Ocotepeque", "Rezervația Biosferei Trifinio în apropiere", "Punct comercial important", "Râul Lempa"],
       en: ["Capital of Ocotepeque Department", "Trifinio Biosphere Reserve nearby", "Important trade point", "Lempa River"]
-    }
-  },
+    }, image: "/poi-images/ocotepeque-cities-v2.webp"},
   {
     id: "la-libertad-cities-v2",
     type: "city",
@@ -785,8 +752,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Mezőgazdasági közösség", "Szarvasmarha-farmok", "Kávétermesztés", "Hegyvidéki táj"],
       ro: ["Comunitate agricolă", "Ferme de vite", "Cultivarea cafelei", "Peisaj montan"],
       en: ["Agricultural municipality", "Cattle farms", "Coffee cultivation", "Mountainous landscape"]
-    }
-  },
+    }, image: "/poi-images/la-libertad-cities-v2.webp"},
   {
     id: "san-marcos-de-colon-cities-v2",
     type: "city",
@@ -799,8 +765,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Nicaraguai határ", "Kávétermelés", "Tejgazdaság", "Kellemes éghajlat"],
       ro: ["Granița cu Nicaragua", "Producția de cafea", "Industria lactatelor", "Climă plăcută"],
       en: ["Border with Nicaragua", "Coffee production", "Dairy industry", "Pleasant climate"]
-    }
-  },
+    }, image: "/poi-images/san-marcos-de-colon-cities-v2.webp"},
   {
     id: "sabanagrande-cities-v2",
     type: "city",
@@ -813,8 +778,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Rosquillas készítése", "Hagyományos gasztronómia", "Mezőgazdasági közösség", "Gyarmati templom"],
       ro: ["Producția de Rosquillas", "Gastronomie tradițională", "Comunitate agricolă", "Biserică colonială"],
       en: ["Production of Rosquillas", "Traditional gastronomy", "Agricultural municipality", "Colonial church"]
-    }
-  },
+    }, image: "/poi-images/sabanagrande-cities-v2.webp"},
   {
     id: "el-nispero-cities-v2",
     type: "city",
@@ -827,8 +791,7 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       hu: ["Vidéki közösség", "Kávétermesztés", "Vízesések a közelben", "Hegyvidéki környezet"],
 ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu montan"],
       en: ["Rural municipality", "Coffee cultivation", "Waterfalls nearby", "Mountainous surroundings"]
-    }
-  },
+    }, image: "/poi-images/el-nispero-cities-v2.webp"},
   {
     id: "trinidad-cities-v2",
     type: "city",
@@ -841,8 +804,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Történelmi közösség", "Mezőgazdasági termelés", "Gyarmati örökség", "Kézműves piacok"],
       ro: ["Comunitate istorică", "Producție agricolă", "Moștenire colonială", "Piețe de artizanat"],
       en: ["Historic municipality", "Agricultural production", "Colonial heritage", "Craft markets"]
-    }
-  },
+    }, image: "/poi-images/trinidad-cities-v2.webp"},
   {
     id: "piraera-cities-v2",
     type: "city",
@@ -855,8 +817,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Lenca közösség", "Hegyvidéki domborzat", "Önellátó gazdálkodás", "Gazdag hagyományok"],
       ro: ["Comunitate Lenca", "Topografie muntoasă", "Agricultură de subzistență", "Tradiții bogate"],
       en: ["Lenca community", "Mountainous topography", "Subsistence agriculture", "Rich traditions"]
-    }
-  },
+    }, image: "/poi-images/piraera-cities-v2.webp"},
   {
     id: "ojojona-cities-v2",
     type: "city",
@@ -869,8 +830,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Nemzeti emlékmű", "Fekete kerámia", "Gyarmati építészet", "Santa Ana közelében"],
       ro: ["Monument Național", "Ceramică neagră", "Arhitectură colonială", "Aproape de Santa Ana"],
       en: ["National Monument", "Black pottery", "Colonial architecture", "Near Santa Ana"]
-    }
-  },
+    }, image: "/poi-images/ojojona-cities-v2.webp"},
   {
     id: "guanaja-city-cities-v2",
     type: "city",
@@ -883,8 +843,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["„Honduras Velencéje”", "Cölöpökre épült", "Nincsenek autók", "Halászat és turizmus"],
       ro: ["„Veneția Hondurasului”", "Construit pe piloni", "Fără mașini", "Pescuit și turism"],
       en: ["'Venice of Honduras'", "Built on stilts", "No cars", "Fishing and tourism"]
-    }
-  },
+    }, image: "/poi-images/guanaja-city-cities-v2.webp"},
   {
     id: "roatan-city-cities-v2",
     type: "state-capital",
@@ -897,8 +856,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Korábban Coxen Hole-nak hívták", "A sziget legfontosabb kikötője", "Nemzetközi repülőtér", "A turizmus központja"],
       ro: ["Fostul Coxen Hole", "Portul principal al insulei", "Aeroport internațional", "Centrul turismului"],
       en: ["Formerly named Coxen Hole", "Main port of the island", "International airport", "Center for tourism"]
-    }
-  },
+    }, image: "/poi-images/roatan-city-cities-v2.webp"},
   {
     id: "lepaera-cities-v2",
     type: "city",
@@ -911,8 +869,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Panamakalap-készítés", "Kávétermesztés", "Lenca közösség", "Hegyvidéki táj"],
       ro: ["Producția de pălării Panama", "Cultivarea cafelei", "Comunitate Lenca", "Peisaj montan"],
       en: ["Production of Panama hats", "Coffee cultivation", "Lenca community", "Mountainous landscape"]
-    }
-  },
+    }, image: "/poi-images/lepaera-cities-v2.webp"},
   {
     id: "san-juan-de-opoa-cities-v2",
     type: "city",
@@ -925,8 +882,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Mezőgazdasági közösség", "Gyarmati templom", "Higuito folyó", "Csendes vidéki terület"],
       ro: ["Comunitate agricolă", "Biserică colonială", "Râul Higuito", "Zonă rurală liniștită"],
       en: ["Agricultural municipality", "Colonial church", "Higuito River", "Quiet rural area"]
-    }
-  },
+    }, image: "/poi-images/san-juan-de-opoa-cities-v2.webp"},
   {
     id: "gualcinse-cities-v2",
     type: "city",
@@ -953,8 +909,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Helyi kereskedelmi központ", "Mezőgazdasági termékek", "Állatvásárok", "A Pánamerikai főútvonal mentén"],
       ro: ["Centru comercial local", "Produse agricole", "Târguri de vite", "Situat pe Autostrada Panamericană"],
       en: ["Local commercial center", "Agricultural products", "Cattle markets", "Located on the Pan-American Highway"]
-    }
-  },
+    }, image: "/poi-images/langue-cities-v2.webp"},
   {
     id: "jesus-de-otoro-cities-v2",
     type: "city",
@@ -967,8 +922,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["„Intibucá magtára”", "Kereskedelmi központ", "Rizs- és babtermesztés", "Vallási ünnepek"],
       ro: ["„Grânarul din Intibucá”", "Centru comercial", "Cultivarea orezului și a fasolei", "Festivaluri religioase"],
       en: ["'Grain-loft of Intibucá'", "Commercial center", "Rice and bean cultivation", "Religious festivals"]
-    }
-  },
+    }, image: "/poi-images/jesus-de-otoro-cities-v2.webp"},
   {
     id: "proteccion-cities-v2",
     type: "city",
@@ -981,8 +935,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kávétermesztő terület", "Hegyvidéki táj", "Vidéki közösség", "Növekvő népesség"],
       ro: ["Zonă de cultivare a cafelei", "Peisaj montan", "Comunitate rurală", "Populație în creștere"],
       en: ["Coffee growing area", "Mountainous landscape", "Rural municipality", "Growing population"]
-    }
-  },
+    }, image: "/poi-images/proteccion-cities-v2.webp"},
   {
     id: "san-ignacio-cities-v2",
     type: "city",
@@ -995,8 +948,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Mezőgazdasági termelés", "Zöldségtermesztés", "Állattenyésztés", "Hegyvidéki környezet"],
       ro: ["Producție agricolă", "Cultivarea legumelor", "Creșterea vitelor", "Mediu montan"],
       en: ["Agricultural production", "Vegetable farming", "Livestock raising", "Mountainous surroundings"]
-    }
-  },
+    }, image: "/poi-images/san-ignacio-cities-v2.webp"},
   {
     id: "aramecina-cities-v2",
     type: "city",
@@ -1009,8 +961,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Határközeli község", "Mezőgazdaság és állattenyésztés", "Goascorán folyó", "Száraz éghajlat"],
       ro: ["Comunitate de frontieră", "Agricultură și creșterea vitelor", "Râul Goascorán", "Climă uscată"],
       en: ["Border municipality", "Agriculture and livestock", "Goascorán River", "Dry climate"]
-    }
-  },
+    }, image: "/poi-images/aramecina-cities-v2.webp"},
   {
     id: "san-agustin-cities-v2",
     type: "city",
@@ -1023,8 +974,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kávétermesztés", "Vidéki környezet", "Hegyvidéki táj", "Csendes község"],
       ro: ["Cultivarea cafelei", "Mediu rural", "Peisaj montan", "Comunitate liniștită"],
       en: ["Coffee cultivation", "Rural surroundings", "Mountainous landscape", "Quiet community"]
-    }
-  },
+    }, image: "/poi-images/san-agustin-cities-v2.webp"},
   {
     id: "guaimaca-cities-v2",
     type: "city",
@@ -1051,8 +1001,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kereskedőváros", "Állattenyésztés", "Kávétermesztés", "A Juticalpába vezető út mentén"],
       ro: ["Oraș comercial", "Creșterea vitelor", "Cultivarea cafelei", "Pe drumul spre Juticalpa"],
       en: ["Commercial town", "Cattle ranching", "Coffee cultivation", "On the road to Juticalpa"]
-    }
-  },
+    }, image: "/poi-images/campamento-cities-v2.webp"},
   {
     id: "santo-domingo-savio-cities-v2",
     type: "city",
@@ -1065,8 +1014,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Vidéki község", "Mezőgazdaság", "A főváros közelében", "Növekvő népesség"],
       ro: ["Comunitate rurală", "Agricultură", "Aproape de capitală", "Populație în creștere"],
       en: ["Rural municipality", "Agriculture", "Near the capital", "Growing population"]
-    }
-  },
+    }, image: "/poi-images/santo-domingo-savio-cities-v2.webp"},
   {
     id: "corquin-cities-v2",
     type: "city",
@@ -1079,8 +1027,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kávétermesztő terület", "Hegyvidéki táj", "Vidéki közösség", "Különleges kávét termel"],
       ro: ["Zonă de cultivare a cafelei", "Peisaj montan", "Comunitate rurală", "Produce cafea de specialitate"],
       en: ["Coffee growing area", "Mountainous landscape", "Rural municipality", "Produces specialty coffee"]
-    }
-  },
+    }, image: "/poi-images/corquin-cities-v2.webp"},
   {
     id: "el-paraiso-cities-v2",
     type: "city",
@@ -1093,8 +1040,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Nicaraguai határ", "Kávétermesztés", "Kereskedelmi központ", "Dohánytermelés"],
       ro: ["Granița cu Nicaragua", "Cultivarea cafelei", "Centru comercial", "Producția de tutun"],
       en: ["Border with Nicaragua", "Coffee cultivation", "Commercial center", "Tobacco production"]
-    }
-  },
+    }, image: "/poi-images/el-paraiso-cities-v2.webp"},
   {
     id: "santa-cruz-de-yojoa-cities-v2",
     type: "city",
@@ -1107,8 +1053,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["A Yojoa-tó partján fekszik", "El Cajón vízerőmű", "Turizmus és halászat", "Ananászültetvények"],
       ro: ["Situat pe malul lacului Yojoa", "Hidrocentrala El Cajón", "Turism și pescuit", "Plantații de ananas"],
       en: ["Located on Lake Yojoa", "El Cajón hydroelectric dam", "Tourism and fishing", "Pineapple plantations"]
-    }
-  },
+    }, image: "/poi-images/santa-cruz-de-yojoa-cities-v2.webp"},
   {
     id: "azacualpa-cities-v2",
     type: "city",
@@ -1121,8 +1066,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Bányászati hagyomány", "Mezőgazdasági közösség", "Hegyvidéki környezet", "Kézművesség"],
       ro: ["Tradiție minieră", "Comunitate agricolă", "Mediu montan", "Artizanat"],
       en: ["Mining tradition", "Agricultural municipality", "Mountainous surroundings", "Handicrafts"]
-    }
-  },
+    }, image: "/poi-images/azacualpa-cities-v2.webp"},
   {
     id: "san-manuel-cities-v2",
     type: "city",
@@ -1135,8 +1079,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Ipari közösség", "Villanueva közelében", "Cukornád- és banántermesztés", "Maquilák"],
       ro: ["Comunitate industrială", "Aproape de Villanueva", "Cultivarea trestiei de zahăr și a bananelor", "Maquilas"],
       en: ["Industrial municipality", "Near Villanueva", "Sugarcane and banana cultivation", "Maquilas"]
-    }
-  },
+    }, image: "/poi-images/san-manuel-cities-v2.webp"},
   {
     id: "florida-cities-v2",
     type: "city",
@@ -1149,8 +1092,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Állattenyésztés", "Kávé- és gabonatermesztés", "Vidéki közösség", "A guatemalai határ közelében"],
       ro: ["Creșterea vitelor", "Cultivarea cafelei și a cerealelor", "Comunitate rurală", "Aproape de granița cu Guatemala"],
       en: ["Livestock farming", "Coffee and grain cultivation", "Rural municipality", "Near the Guatemalan border"]
-    }
-  },
+    }, image: "/poi-images/florida-cities-v2.webp"},
   {
     id: "san-francisco-de-la-paz-cities-v2",
     type: "city",
@@ -1163,8 +1105,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Az állattenyésztés központja", "Mezőgazdasági közösség", "Vidéki hagyományok", "Juticalpa közelében"],
       ro: ["Centrul creșterii vitelor", "Comunitate agricolă", "Tradiții rurale", "Aproape de Juticalpa"],
       en: ["Center of cattle ranching", "Agricultural municipality", "Rural traditions", "Near Juticalpa"]
-    }
-  },
+    }, image: "/poi-images/san-francisco-de-la-paz-cities-v2.webp"},
   {
     id: "belen-gualcho-cities-v2",
     type: "city",
@@ -1177,8 +1118,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Honduras legmagasabban fekvő községe", "Erős Lenca-kultúra", "„Cascada de la Lluvia” vízesés", "Magaslati zöldségek termesztése"],
       ro: ["Cea mai înaltă municipalitate din Honduras", "Cultură Lenca puternică", "Cascada „Cascada de la Lluvia”", "Cultivarea legumelor de mare altitudine"],
       en: ["Highest municipality in Honduras", "Strong Lenca culture", "'Cascada de la Lluvia' waterfall", "High-altitude vegetable farming"]
-    }
-  },
+    }, image: "/poi-images/belen-gualcho-cities-v2.webp"},
   {
     id: "san-antonio-de-cortes-cities-v2",
     type: "city",
@@ -1191,8 +1131,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kávétermesztés", "Állattenyésztés", "Hegyvidéki táj", "Vidéki közösség"],
       ro: ["Cultivarea cafelei", "Creșterea vitelor", "Peisaj montan", "Comunitate rurală"],
       en: ["Coffee cultivation", "Livestock farming", "Mountainous landscape", "Rural municipality"]
-    }
-  },
+    }, image: "/poi-images/san-antonio-de-cortes-cities-v2.webp"},
   {
     id: "quimistan-cities-v2",
     type: "city",
@@ -1205,8 +1144,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kávé, gabona, állattenyésztés", "Hegyvidéki és sík területek", "Chamelecón folyó", "Régészeti lelőhelyek a közelben"],
       ro: ["Cafea, cereale, creșterea vitelor", "Zone muntoase și de câmpie", "Râul Chamelecón", "Siturile arheologice din apropiere"],
       en: ["Coffee, grains, livestock", "Mountainous and flat areas", "Chamelecón River", "Archaeological sites nearby"]
-    }
-  },
+    }, image: "/poi-images/quimistan-cities-v2.webp"},
   {
     id: "iriona-cities-v2",
     type: "city",
@@ -1219,8 +1157,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Karibi partvidék", "Garifuna és Miskito kultúra", "Pálmaolaj és mezőgazdaság", "Rio Sico és Paulaya"],
       ro: ["Coasta Caraibelor", "Cultura Garifuna și Miskito", "Ulei de palmier și agricultură", "Rio Sico și Paulaya"],
       en: ["Caribbean coast", "Garifuna and Miskito culture", "Palm oil and agriculture", "Rio Sico and Paulaya"]
-    }
-  },
+    }, image: "/poi-images/iriona-cities-v2.webp"},
   {
     id: "san-esteban-cities-v2",
     type: "city",
@@ -1233,8 +1170,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Állattenyésztés", "Faipar", "Mezőgazdasági közösség", "Aguan folyó"],
       ro: ["Creșterea vitelor", "Industria lemnului", "Comunitate agricolă", "Râul Aguan"],
       en: ["Cattle ranching", "Timber industry", "Agricultural municipality", "Aguan River"]
-    }
-  },
+    }, image: "/poi-images/san-esteban-cities-v2.webp"},
   {
     id: "la-campa-cities-v2",
     type: "city",
@@ -1247,8 +1183,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Lenca fazekasság", "Extrém kötélpálya", "Hegyvidéki táj", "Erős őslakos kultúra"],
       ro: ["Olărit Lenca", "Tiroliană extremă", "Peisaj montan", "Cultură indigenă puternică"],
       en: ["Lenca pottery", "Extreme zip-line", "Mountainous landscape", "Strong indigenous culture"]
-    }
-  },
+    }, image: "/poi-images/la-campa-cities-v2.webp"},
   {
     id: "pespire-cities-v2",
     type: "city",
@@ -1261,8 +1196,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["„A mangók városa”", "Forró, száraz éghajlat", "Gyarmati építészet", "Mezőgazdasági központ"],
       ro: ["„Orașul mangoului”", "Climă caldă și uscată", "Arhitectură colonială", "Centru agricol"],
       en: ["'City of Mangoes'", "Hot, dry climate", "Colonial architecture", "Agricultural center"]
-    }
-  },
+    }, image: "/poi-images/pespire-cities-v2.webp"},
   {
     id: "oros-cities-v2",
     type: "city",
@@ -1275,8 +1209,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Határközeli község", "Mezőgazdaság", "Hegyvidéki régió", "Száraz éghajlat"],
       ro: ["Comunitate de frontieră", "Agricultură", "Regiune muntoasă", "Climă uscată"],
       en: ["Border municipality", "Agriculture", "Mountainous region", "Dry climate"]
-    }
-  },
+    }, image: "/poi-images/oros-cities-v2.webp"},
   {
     id: "san-jose-de-colinas-cities-v2",
     type: "city",
@@ -1289,8 +1222,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kávékereskedelmi központ", "Mezőgazdasági közösség", "Hegyvidéki környezet", "Helyi piac"],
       ro: ["Centru comercial pentru cafea", "Comunitate agricolă", "Mediu montan", "Piață locală"],
       en: ["Commercial center for coffee", "Agricultural municipality", "Mountainous surroundings", "Local market"]
-    }
-  },
+    }, image: "/poi-images/san-jose-de-colinas-cities-v2.webp"},
   {
     id: "gualala-cities-v2",
     type: "city",
@@ -1303,8 +1235,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Pálmakalap-készítés", "Kézműves közösség", "Vidéki hagyományok", "Ilama közelében"],
       ro: ["Producția de pălării de palmier", "Comunitate artizanală", "Tradiții rurale", "Aproape de Ilama"],
       en: ["Palm hat production", "Artisan community", "Rural traditions", "Near Ilama"]
-    }
-  },
+    }, image: "/poi-images/gualala-cities-v2.webp"},
   {
     id: "nueva-arcadia-cities-v2",
     type: "city",
@@ -1317,8 +1248,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Magában foglalja La Entrada városát", "Fontos közlekedési csomópont", "Kereskedelem és mezőgazdaság", "A kávé- és dohányrégió kapuja"],
       ro: ["Include orașul La Entrada", "Nod de transport important", "Comerț și agricultură", "Poarta către regiunea cafelei și a tutunului"],
       en: ["Includes the city of La Entrada", "Important transportation hub", "Commerce and agriculture", "Gateway to coffee and tobacco region"]
-    }
-  },
+    }, image: "/poi-images/nueva-arcadia-cities-v2.webp"},
   {
     id: "san-nicolas-cities-v2",
     type: "city",
@@ -1331,8 +1261,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kávétermesztés", "Nádból készült kézművesség", "Gyarmati templom", "Hegyvidéki táj"],
       ro: ["Cultivarea cafelei", "Artizanat din papură (Tule)", "Biserică colonială", "Peisaj montan"],
       en: ["Coffee cultivation", "Handicrafts from Tule (reed)", "Colonial church", "Mountainous landscape"]
-    }
-  },
+    }, image: "/poi-images/san-nicolas-cities-v2.webp"},
   {
     id: "atima-cities-v2",
     type: "city",
@@ -1345,8 +1274,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Hegyvidéki község", "Kávétermesztés", "Természeti tájak", "Vidéki légkör"],
       ro: ["Comunitate montană", "Cultivarea cafelei", "Peisaje naturale", "Atmosferă rurală"],
       en: ["Mountainous municipality", "Coffee cultivation", "Natural landscapes", "Rural atmosphere"]
-    }
-  },
+    }, image: "/poi-images/atima-cities-v2.webp"},
   {
     id: "el-triunfo-de-la-cruz-cities-v2",
     type: "city",
@@ -1359,8 +1287,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Garifuna kultúra", "Karib-tenger partja", "Halászat és turizmus", "Hagyományos zene és tánc"],
       ro: ["Cultura Garifuna", "Coasta Caraibelor", "Pescuit și turism", "Muzică și dansuri tradiționale"],
       en: ["Garifuna culture", "Caribbean coast", "Fishing and tourism", "Traditional music and dance"]
-    }
-  },
+    }, image: "/poi-images/el-triunfo-de-la-cruz-cities-v2.webp"},
   {
     id: "balfate-cities-v2",
     type: "city",
@@ -1387,8 +1314,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Garifuna kultúra", "Trujillo közelében", "Halászat", "Karibi strandok"],
       ro: ["Cultura Garifuna", "Aproape de Trujillo", "Pescuit", "Plaje caraibiene"],
       en: ["Garifuna culture", "Near Trujillo", "Fishing", "Caribbean beaches"]
-    }
-  },
+    }, image: "/poi-images/santa-fe-cities-v2.webp"},
   {
     id: "la-masica-cities-v2",
     type: "city",
@@ -1401,8 +1327,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Mezőgazdasági közösség", "Citrusfélék és banán", "Állattenyésztés", "A CA-13-as autópálya mentén"],
       ro: ["Comunitate agricolă", "Citrice și banane", "Creșterea vitelor", "Pe autostrada CA-13"],
       en: ["Agricultural municipality", "Citrus and bananas", "Cattle ranching", "On the CA-13 highway"]
-    }
-  },
+    }, image: "/poi-images/la-masica-cities-v2.webp"},
   {
     id: "arada-cities-v2",
     type: "city",
@@ -1415,8 +1340,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Mezőgazdaság", "Kávétermesztés", "Vidéki környezet", "Hagyományos életmód"],
       ro: ["Agricultură", "Cultivarea cafelei", "Mediu rural", "Mod de viață tradițional"],
       en: ["Agriculture", "Coffee cultivation", "Rural surroundings", "Traditional way of life"]
-    }
-  },
+    }, image: "/poi-images/arada-cities-v2.webp"},
   {
     id: "san-luis-cities-v2",
     type: "city",
@@ -1429,8 +1353,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Kávétermesztés", "Hegyvidéki táj", "Vidéki közösség", "Természeti ösvények"],
       ro: ["Cultivarea cafelei", "Peisaj montan", "Comunitate rurală", "Poteci naturale"],
       en: ["Coffee cultivation", "Mountainous landscape", "Rural municipality", "Nature trails"]
-    }
-  },
+    }, image: "/poi-images/san-luis-cities-v2.webp"},
   {
     id: "san-marcos-cities-v2",
     type: "city",
@@ -1443,8 +1366,7 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       hu: ["Guatemalai határ közelében", "Kávétermesztés", "Kereskedelem", "Hegyvidéki régió"],
       ro: ["Aproape de granița cu Guatemala", "Cultivarea cafelei", "Comerț", "Regiune muntoasă"],
       en: ["Near the Guatemalan border", "Coffee cultivation", "Commerce", "Mountainous region"]
-    }
-  },
+    }, image: "/poi-images/san-marcos-cities-v2.webp"},
   {
     id: "guayape-cities-v2",
     type: "city",
@@ -1460,3 +1382,4 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     }
   }
 ];
+

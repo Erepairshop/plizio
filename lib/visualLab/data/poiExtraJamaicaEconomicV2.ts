@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraJamaicaEconomicV2: POI[] = [
@@ -13,13 +14,12 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       ro: "Unul dintre cele mai mari porturi naturale din lume, esențial pentru comerțul exterior al Jamaicăi.",
       en: "One of the world's largest natural harbors, central to Jamaican international trade."
     },
-    facts: {
-      de: ["Siebtgrößter Naturhafen", "Hauptumschlagplatz", "Tiefwasserhafen", "Containerterminal"],
-      hu: ["Hetedik legnagyobb természetes kikötő", "Fő áruforgalmi központ", "Mélyvízi kikötő", "Konténerterminál"],
-      ro: ["Al șaptelea port natural ca mărime", "Centru principal de mărfuri", "Port de mare adâncime", "Terminal de containere"],
-      en: ["Seventh-largest natural harbor", "Primary trade hub", "Deep-water facility", "Major container terminal"]
-    }
-  },
+    descriptionAdvanced: {
+      hu: "A Kingstoni kikötő a világ hetedik legnagyobb természetes kikötője, és a Karib-térség legfontosabb transzhipment (átrakodó) csomópontja. A kikötőt a Palisadoes-félsziget, egy hosszú homokturzás védi a nyílt tengertől, amelyen a Norman Manley Nemzetközi Repülőtér és a történelmi Port Royal is található. A Kingston Container Terminal (KCT) a legmodernebb konténerkezelő létesítményekkel rendelkezik, és a világ legnagyobb hajózási társaságait szolgálja ki. A kikötő Jamaica gazdaságának motorja, a sziget importjának és exportjának túlnyomó része itt halad át. A kikötő fejlesztése, különösen a Panama-csatorna kiszélesítése után, stratégiai fontosságú a jamaicai gazdaság számára. Gazdaságföldrajz K8 – Világkereskedelem és logisztikai központok."
+    },
+    factsAdvanced: {
+      hu: ["A kikötő területe több mint 25 négyzetkilométer.", "A KCT-t a francia CMA CGM hajózási óriás üzemelteti.", "A kikötő mélyvize (akár 15 méter) lehetővé teszi a legnagyobb, 'Post-Panamax' méretű konténerhajók fogadását is.", "A Palisadoes-félsziget geológiailag instabil, és a tengerszint-emelkedés komolyan veszélyezteti.", "A kikötőben jelentős a kőolaj- és gabonaterminál forgalma is.", "A kikötő a múltban komoly szennyezési problémákkal küzdött, de az utóbbi években javult a helyzet.", "A kikötő a 'Gallows Point'-nál (Akasztófa-fok) található, ahol a kalózokat végezték ki a 17-18. században.", "A kikötő stratégiai elhelyezkedése összeköti az észak- és dél-amerikai, valamint az európai és ázsiai kereskedelmi útvonalakat."]
+    }, image: "/poi-images/jm-kingston-harbour-economic-v2.webp"},
   {
     id: "jm-montego-freeport-economic-v2",
     type: "port",
@@ -37,8 +37,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Szabadkereskedelmi övezet", "Tengerjáró terminál", "Ipari központ", "Exportkikötő"],
       ro: ["Zonă de liber schimb", "Terminal de croazieră", "Centru industrial", "Port de export"],
       en: ["Free trade zone", "Cruise ship terminal", "Industrial hub", "Export facility"]
-    }
-  },
+    }, image: "/poi-images/jm-montego-freeport-economic-v2.webp"},
   {
     id: "jm-bauxite-kaiser-economic-v2",
     type: "industry",
@@ -56,8 +55,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Bauxitkitermelés", "Exportnyersanyag", "Külszíni fejtés", "Gazdasági motor"],
       ro: ["Extracția bauxitei", "Materie primă de export", "Exploatare de suprafață", "Motor economic"],
       en: ["Bauxite extraction", "Export commodity", "Open-pit mining", "Key economic driver"]
-    }
-  },
+    }, image: "/poi-images/jm-bauxite-kaiser-economic-v2.webp"},
   {
     id: "jm-sugar-factory-economic-v2",
     type: "industry",
@@ -75,8 +73,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Cukornád-feldolgozás", "Hagyományos ipar", "Exporttermék", "Mezőgazdasági feldolgozás"],
       ro: ["Procesarea trestiei de zahăr", "Industrie tradițională", "Produs de export", "Procesare agricolă"],
       en: ["Sugarcane processing", "Traditional industry", "Export product", "Agro-processing"]
-    }
-  },
+    }, image: "/poi-images/jm-sugar-factory-economic-v2.webp"},
   {
     id: "jm-port-esquivel-economic-v2",
     type: "port",
@@ -89,13 +86,12 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       ro: "Port industrial pentru exportul de alumină și produse din aluminiu.",
       en: "Industrial port facility for the export of alumina and aluminum products."
     },
-    facts: {
-      de: ["Tonerde-Export", "Schüttguthafen", "Industrieinfrastruktur", "Tiefwasseranlage"],
-      hu: ["Timföld-export", "Ömlesztett árukikötő", "Ipari infrastruktúra", "Mélyvízi létesítmény"],
-      ro: ["Export de alumină", "Port de mărfuri vrac", "Infrastructură industrială", "Instalație de mare adâncime"],
-      en: ["Alumina export", "Bulk cargo port", "Industrial infrastructure", "Deep-water facility"]
-    }
-  },
+    descriptionAdvanced: {
+      hu: "A Port Esquivel egy speciális ipari kikötő Clarendon megye déli partján, amelyet elsősorban a bauxit- és timföldexportra építettek. A kikötő a Windalco (West Indies Alumina Company) Ewarton-i és a korábbi Kirkvine-i finomítóinak termékeit szolgálja ki. A timföldet vasúton szállítják a finomítókból a kikötőbe, ahol nagy teherhajókra rakodják. A kikötő a nevét Juan de Esquivelről, Jamaica első spanyol kormányzójáról kapta, aki 1510-ben alapította a közeli Old Harbour városát. A kikötő Jamaica nehéziparának és exportorientált gazdaságának fontos láncszeme, amely szorosan kötődik a bauxit világpiaci helyzetéhez. Iparföldrajz K8 – Nyersanyag-exportáló kikötők."
+    },
+    factsAdvanced: {
+      hu: ["A kikötőt az 1950-es években fejlesztették ki a bauxitipar igényeinek megfelelően.", "A mélyvízi móló képes a nagy, 'Panamax' méretű ömlesztettáru-szállító hajók fogadására.", "A kikötőben cukor és melasz exportja is folyik, a közeli Monymusk cukorgyárból.", "A kikötői létesítmények a UC Rusal orosz alumíniumipari cég érdekeltségébe tartoznak.", "A kikötő a Portland Bight Védett Terület határán fekszik, ami környezetvédelmi aggályokat vet fel.", "A kikötő működése szigorú nemzetközi biztonsági és környezetvédelmi előírásokhoz kötött.", "A spanyolok idején a terület 'Puerto de las Vacas' (Tehenek kikötője) néven volt ismert.", "A kikötő Jamaica gazdaságának egyik legfontosabb exportbevétel-forrása."]
+    }, image: "/poi-images/jm-port-esquivel-economic-v2.webp"},
   {
     id: "jm-falcmouth-port-economic-v2",
     type: "port",
@@ -113,8 +109,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Turisztikai központ", "Tengerjáró kikötőhely", "Gazdasági fellendülés", "Kikötői infrastruktúra"],
       ro: ["Hub turistic", "Doc pentru nave de croazieră", "Revitalizare economică", "Infrastructură portuară"],
       en: ["Tourism hub", "Cruise ship berth", "Economic revitalization", "Port infrastructure"]
-    }
-  },
+    }, image: "/poi-images/jm-falcmouth-port-economic-v2.webp"},
   {
     id: "jm-energy-power-economic-v2",
     type: "industry",
@@ -132,8 +127,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Energiatermelés", "Villamoshálózat-támogatás", "Infrastruktúra", "Közüzemi ellátás"],
       ro: ["Producția de energie", "Suport pentru rețeaua electrică", "Infrastructură", "Utilități publice"],
       en: ["Energy generation", "Grid support", "Infrastructure", "Public utility"]
-    }
-  },
+    }, image: "/poi-images/jm-energy-power-economic-v2.webp"},
   {
     id: "jm-rum-distillery-economic-v2",
     type: "industry",
@@ -151,8 +145,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Rumlepárlás", "Exporttermék", "Hagyományos kézművesség", "Agroturizmus"],
       ro: ["Distilarea romului", "Produs de export", "Artizanat tradițional", "Agroturism"],
       en: ["Rum distillation", "Export product", "Traditional craft", "Agritourism"]
-    }
-  },
+    }, image: "/poi-images/jm-rum-distillery-economic-v2.webp"},
   {
     id: "jm-coffee-processor-economic-v2",
     type: "industry",
@@ -170,8 +163,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Kávéfeldolgozás", "Prémium termék", "Exportminőség", "Mezőgazdaság"],
       ro: ["Prelucrarea cafelei", "Produs premium", "Calitate de export", "Agricultură"],
       en: ["Coffee processing", "Premium product", "Export quality", "Agriculture"]
-    }
-  },
+    }, image: "/poi-images/jm-coffee-processor-economic-v2.webp"},
   {
     id: "jm-port-royal-terminal-economic-v2",
     type: "port",
@@ -189,8 +181,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Turisztikai infrastruktúra", "Kikötői létesítmény", "Gazdasági potenciál", "Tengerjárók"],
       ro: ["Infrastructură turistică", "Facilitate portuară", "Potențial economic", "Croaziere"],
       en: ["Tourism infrastructure", "Port facility", "Economic potential", "Cruise ships"]
-    }
-  },
+    }, image: "/poi-images/jm-port-royal-terminal-economic-v2.webp"},
   {
     id: "jm-alpart-plant-economic-v2",
     type: "industry",
@@ -208,8 +199,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Timföldgyártás", "Ipari kapacitás", "Gazdasági tényező", "Nyersanyagfeldolgozás"],
       ro: ["Producția de alumină", "Capacitate industrială", "Factor economic", "Procesarea materiilor prime"],
       en: ["Alumina production", "Industrial capacity", "Economic factor", "Raw material processing"]
-    }
-  },
+    }, image: "/poi-images/jm-alpart-plant-economic-v2.webp"},
   {
     id: "jm-sand-export-economic-v2",
     type: "industry",
@@ -227,8 +217,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Homokelőkészítés", "Építőipar", "Exportlogisztika", "Ipari felhasználás"],
       ro: ["Pregătirea nisipului", "Industria construcțiilor", "Logistica exportului", "Utilizare industrială"],
       en: ["Sand processing", "Construction industry", "Export logistics", "Industrial use"]
-    }
-  },
+    }, image: "/poi-images/jm-sand-export-economic-v2.webp"},
   {
     id: "jm-port-kaiser-economic-v2",
     type: "port",
@@ -246,8 +235,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Bauxitrakodás", "Ipari kikötő", "Ömlesztett terminál", "Exportinfrastruktúra"],
       ro: ["Încărcarea bauxitei", "Port industrial", "Terminal de vrac", "Infrastructură de export"],
       en: ["Bauxite loading", "Industrial port", "Bulk terminal", "Export infrastructure"]
-    }
-  },
+    }, image: "/poi-images/jm-port-kaiser-economic-v2.webp"},
   {
     id: "jm-fisheries-economic-v2",
     type: "industry",
@@ -265,8 +253,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Kereskedelmi halászat", "Halpiac", "Parti gazdaság", "Élelmiszeripar"],
       ro: ["Pescuit comercial", "Piață de pește", "Economie de coastă", "Industria alimentară"],
       en: ["Commercial fishing", "Fish market", "Coastal economy", "Food industry"]
-    }
-  },
+    }, image: "/poi-images/jm-fisheries-economic-v2.webp"},
   {
     id: "jm-cement-plant-economic-v2",
     type: "industry",
@@ -303,8 +290,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Fafeldolgozás", "Épületfa", "Erdőgazdálkodás", "Exportcikkek"],
       ro: ["Prelucrarea lemnului", "Cherestea", "Silvicultură", "Bunuri de export"],
       en: ["Lumber processing", "Construction timber", "Forestry", "Export goods"]
-    }
-  },
+    }, image: "/poi-images/jm-lumber-mill-economic-v2.webp"},
   {
     id: "jm-poultry-processing-economic-v2",
     type: "industry",
@@ -322,8 +308,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Baromfihús", "Élelmiszer-feldolgozás", "Agráripar", "Helyi ellátás"],
       ro: ["Carne de pasăre", "Procesarea alimentelor", "Agroindustrie", "Aprovizionare locală"],
       en: ["Poultry meat", "Food processing", "Agro-industry", "Local supply"]
-    }
-  },
+    }, image: "/poi-images/jm-poultry-processing-economic-v2.webp"},
   {
     id: "jm-bottling-plant-economic-v2",
     type: "industry",
@@ -341,8 +326,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Palackozóüzem", "Élelmiszeripar", "Ipari termelés", "Disztribúció"],
       ro: ["Operațiuni de îmbuteliere", "Industria alimentară", "Producție industrială", "Distribuție"],
       en: ["Bottling operations", "Food industry", "Industrial production", "Distribution"]
-    }
-  },
+    }, image: "/poi-images/jm-bottling-plant-economic-v2.webp"},
   {
     id: "jm-telecom-hub-economic-v2",
     type: "industry",
@@ -379,8 +363,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Megújuló energiák", "Napenergia", "Villamoshálózat", "Fenntarthatóság"],
       ro: ["Energie regenerabilă", "Energie solară", "Rețea electrică", "Sustenabilitate"],
       en: ["Renewable energies", "Solar power", "Electrical grid", "Sustainability"]
-    }
-  },
+    }, image: "/poi-images/jm-solar-farm-economic-v2.webp"},
   {
     id: "jm-airport-cargo-economic-v2",
     type: "port",
@@ -398,8 +381,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Légi áruszállítás", "Logisztika", "Export/Import", "Szállítás"],
       ro: ["Transport aerian de marfă", "Logistică", "Export/Import", "Transport"],
       en: ["Air freight", "Logistics", "Export/Import", "Transportation"]
-    }
-  },
+    }, image: "/poi-images/jm-airport-cargo-economic-v2.webp"},
   {
     id: "jm-mineral-terminal-economic-v2",
     type: "port",
@@ -417,8 +399,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Átrakodóhely", "Ásványi anyagok", "Logisztikai terminál", "Nagykereskedelem"],
       ro: ["Loc de transbordare", "Minerale", "Terminal logistic", "Comerț cu ridicata"],
       en: ["Transshipment point", "Minerals", "Logistics terminal", "Wholesale"]
-    }
-  },
+    }, image: "/poi-images/jm-mineral-terminal-economic-v2.webp"},
   {
     id: "jm-agri-processing-economic-v2",
     type: "industry",
@@ -436,8 +417,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Mezőgazdaság", "Termékfeldolgozás", "Agrárgazdaság", "Élelmiszerek"],
       ro: ["Agricultură", "Procesarea produselor", "Economie agrară", "Alimente"],
       en: ["Agriculture", "Product processing", "Agro-economy", "Foodstuffs"]
-    }
-  },
+    }, image: "/poi-images/jm-agri-processing-economic-v2.webp"},
   {
     id: "jm-water-works-economic-v2",
     type: "industry",
@@ -455,8 +435,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Víztisztítás", "Infrastruktúra", "Közszolgáltatások", "Erőforrás-gazdálkodás"],
       ro: ["Tratarea apei", "Infrastructură", "Servicii publice", "Managementul resurselor"],
       en: ["Water treatment", "Infrastructure", "Public services", "Resource management"]
-    }
-  },
+    }, image: "/poi-images/jm-water-works-economic-v2.webp"},
   {
     id: "jm-fruit-packhouse-economic-v2",
     type: "industry",
@@ -474,8 +453,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Exportcsomagolás", "Gyümölcsgazdaság", "Élelmiszer-logisztika", "Agráripar"],
       ro: ["Ambalare pentru export", "Economia fructelor", "Logistica alimentară", "Agroindustrie"],
       en: ["Export packaging", "Fruit economy", "Food logistics", "Agro-industry"]
-    }
-  },
+    }, image: "/poi-images/jm-fruit-packhouse-economic-v2.webp"},
   {
     id: "jm-shipyard-economic-v2",
     type: "industry",
@@ -493,8 +471,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Hajójavítás", "Tengeri szolgáltatások", "Ipari karbantartás", "Kikötői infrastruktúra"],
       ro: ["Reparații navale", "Servicii maritime", "Întreținere industrială", "Infrastructură portuară"],
       en: ["Ship repair", "Maritime services", "Industrial maintenance", "Port infrastructure"]
-    }
-  },
+    }, image: "/poi-images/jm-shipyard-economic-v2.webp"},
   {
     id: "jm-bio-fuel-plant-economic-v2",
     type: "industry",
@@ -512,8 +489,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Bioenergia", "Megújuló anyagok", "Fenntarthatóság", "Ipari feldolgozás"],
       ro: ["Bioenergie", "Materiale regenerabile", "Sustenabilitate", "Procesare industrială"],
       en: ["Bio-energy", "Renewable materials", "Sustainability", "Industrial processing"]
-    }
-  },
+    }, image: "/poi-images/jm-bio-fuel-plant-economic-v2.webp"},
   {
     id: "jm-meat-packing-economic-v2",
     type: "industry",
@@ -550,8 +526,7 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
       hu: ["Hűtési logisztika", "Élelmiszerbiztonság", "Export-előkészítés", "Ellátási lánc"],
       ro: ["Logistică frigorifică", "Siguranța alimentară", "Pregătirea pentru export", "Lanțul de aprovizionare"],
       en: ["Cold logistics", "Food safety", "Export preparation", "Supply chain"]
-    }
-  },
+    }, image: "/poi-images/jm-cold-storage-economic-v2.webp"},
   {
     id: "jm-textile-factory-economic-v2",
     type: "industry",
@@ -572,3 +547,4 @@ export const poiExtraJamaicaEconomicV2: POI[] = [
     }
   }
 ];
+

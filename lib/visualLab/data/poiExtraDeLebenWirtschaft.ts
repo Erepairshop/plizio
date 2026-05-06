@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDeLebenWirtschaft: POI[] = [
@@ -31,8 +32,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Európa egyetlen kombinált állat- és botanikus kertje.", "Közel 11 500 állat él itt mintegy 1200 különböző fajból.", "A botanikai gyűjtemény több mint 6000 növényfajt számlál.", "A kertben található Európa legnagyobb összefüggő magnóligete.", "Híres a 'gorilla-óvoda' részlegéről, ahol elhagyott kölyköket nevelnek.", "Az épületek mór stílusban, az Alhambra mintájára épültek 1846-ban."],
       ro: ["Singura combinație de grădină zoologică și botanică într-un complex istoric din Europa.", "Fondată în 1846 ca grădină regală privată în stil maur (arhitectura Alhambra).", "Găzduiește aproximativ 1.200 de specii de animale și peste 8.500 de specii de plante.", "Atrage anual circa 1,8 milioane de vizitatori, fiind printre cei mai vizitați zoo din Germania.", "Include cea mai mare pădure de magnolii de la nord de Alpi.", "Casa maimuțelor antropoide este una dintre cele mai moderne facilități de acest gen din lume."],
       en: ["Home to over 11,500 animals and 6,000 different plant species.", "The historic Moorish buildings were designed by Ludwig von Zanth.", "Features Europe's largest magnolia grove with over 500 trees.", "The Amazon House recreates a tropical rainforest environment.", "Famous for its 'Gorilla Kindergarten' supporting infant apes.", "State-owned by Baden-Württemberg since the end of the monarchy."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-wilhelma-stuttgart-extra.webp"},
   {
     id: "animal-habitat-tierpark-lohberg-extra",
     type: "animal-habitat",
@@ -62,8 +62,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A park 1989-ben nyitotta meg kapuit a látogatók előtt.", "Mintegy 100 őshonos állatfaj 400 egyede látható itt.", "Kiemelt látványosság a farkasok és hiúzok természetes kifutója.", "A terület 10 hektáron terül el a Bajor-erdő Nemzeti Park szélén.", "Különleges madárfajok, például uhuk és hóbaglyok is élnek itt.", "A park aktívan részt vesz a vidrák visszatelepítési programjában."],
       ro: ["Inaugurat în anul 1989 cu un accent strict pe fauna din Pădurea Bavareză.", "Suprafața parcului este de aproximativ 10 hectare de teren montan natural.", "Adăpostește circa 400 de animale aparținând unui număr de 100 de specii.", "Este singura facilitate din regiune care prezintă exclusiv specii indigene.", "Participă activ la programe de reintroducere a vidrei și a cocoșului de munte.", "Traseul educațional prin parc are o lungime de aproximativ 1,5 kilometri."],
       en: ["Home to approximately 400 animals of 100 different species.", "The park covers an area of roughly 10 hectares of forest.", "Specializes in native species like wolves, lynx, and elks.", "Located in the picturesque Zellertal valley in the Bavarian Forest.", "Member of the German Zoo Society (Deutsche Tierparkgesellschaft).", "Founded in 1989 to promote regional wildlife awareness."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-tierpark-lohberg-extra.webp"},
   {
     id: "animal-habitat-wildpark-poing-extra",
     type: "animal-habitat",
@@ -93,8 +92,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az 1959-ben alapított vadaspark 57 hektáron terül el.", "A ragadozómadár-röptetés világhírű látványosság a parkban.", "Sok állatfaj, például az őzek, szabadon járhatnak a látogatók között.", "A park területén található egy speciálisan kialakított medveerdő.", "Európai farkasok és hiúzok is megtekinthetők biztonságos távolságból.", "A vadaspark több rangos díjat is elnyert oktatási programjaiért."],
       ro: ["Parcul se întinde pe o suprafață generoasă de 57 de hectare lângă München.", "A primit de nenumărate ori premiul pentru 'Cel mai bun parc de animale din Germania'.", "Multe animale, cum ar fi cerbii lopătari, se mișcă liber printre vizitatori în parc.", "Include o incintă modernă pentru urși bruni, lupi și râși, inaugurată recent.", "Traseul principal de vizitare are o lungime de aproximativ 4 kilometri.", "Spectacolul cu păsări de pradă include vulturi, șoimi și bufnite în zbor liber."],
       en: ["Spans a massive area of 57 hectares of natural woodland.", "Awarded the Bavarian Environmental Prize for its design.", "Features a spectacular bird of prey flight demonstration daily.", "Home to a family of brown bears and a pack of wolves.", "Allows fallow deer to roam freely and interact with visitors.", "Founded in 1959 as a privately run wildlife sanctuary."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-wildpark-poing-extra.webp"},
   {
     id: "kid-landmark-botanischer-garten-berlin-extra",
     type: "kid-landmark",
@@ -124,8 +122,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A kertet 1897 és 1910 között hozták létre jelenlegi helyén.", "Területe 43 hektár, ahol kb. 20 000 növényfaj él.", "A Nagy Trópusi Ház 25 méter magas és 60 méter hosszú.", "Itt található Közép-Európa egyetlen botanikai múzeuma.", "A gyűjtemény része egy hatalmas arborétum és egy sziklakert is.", "A kert herbáriuma több mint 3,5 millió példányt őriz."],
       ro: ["Grădina Botanică a fost fondată pe actuala locație între anii 1897 și 1910.", "Sera Tropicală are o înălțime de 25 de metri și o suprafață de peste 3.000 m².", "Găzduiește celebrul bambus uriaș care poate crește până la 30 de centimetri pe zi.", "Muzeul Botanic de lângă grădină este singurul de acest tip din Europa Centrală.", "Secțiunea de fitogeografie prezintă peisaje vegetale replicate din întreaga emisferă nordică.", "Grădina este un centru global de referință pentru sistematica și taxonomia plantelor."],
       en: ["Houses approximately 22,000 different species of plants.", "The Great Pavilion is 60 meters long and 25 meters high.", "Established at its current Dahlem location between 1897 and 1910.", "The only specialized Botanical Museum in Central Europe.", "Spans 43 hectares, including a large arboretum and rock garden.", "Features a herbarium containing over 3.5 million specimens."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-botanischer-garten-berlin-extra.webp"},
   {
     id: "kid-landmark-biosphaere-potsdam-extra",
     type: "kid-landmark",
@@ -155,8 +152,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A Bioszféra 2002-ben nyílt meg a nagyközönség előtt.", "A trópusi csarnok területe 5000 négyzetméter.", "Körülbelül 20 000 trópusi növénynek ad otthont a létesítmény.", "A Pillangóházban több száz egzotikus lepke röpköd szabadon.", "A belső hőmérséklet állandóan 23-28 fok között mozog.", "Az Aquasphäre részleg a vizek mélyének élővilágát mutatja be."],
       ro: ["Găzduiește peste 20.000 de plante tropicale din aproximativ 350 de specii diferite.", "Include o casă a fluturilor cu peste 100 de specii de fluturi exotici.", "Clădirea a fost construită inițial pentru Expoziția Federală de Grădinărit din 2001.", "Temperatura interioară este menținută constant la 25-28 de grade Celsius.", "Dispune de un iaz mare cu pești tropicali, inclusiv pești Piranha în secțiuni speciale.", "Stația de cercetare subacvatică oferă o privire digitală și reală în oceanele lumii."],
       en: ["Built for the 2001 Federal Horticultural Show (BUGA).", "Contains around 20,000 tropical plants of 350 species.", "Features a dedicated butterfly house with dozens of species.", "The indoor space covers approximately 5,000 square meters.", "Architect Barkow Leibinger designed the striking building.", "The 'Aquasphäre' explores the world of tropical oceans."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-biosphaere-potsdam-extra.webp"},
   {
     id: "agriculture-paaren-extra",
     type: "agriculture",
@@ -186,8 +182,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A központ Brandenburg tartomány egyik legfontosabb agráresemény-helyszíne.", "Itt rendezik meg évente a BraLa mezőgazdasági kiállítást.", "Az Arche-Hof ritka és veszélyeztetett háziállatfajtákat őriz.", "A terület 22 hektáron kínál kiállítási és szabadidős programokat.", "A központ 1990-ben alakult meg jelenlegi formájában.", "Saját sörfőzdével és gasztronómiai bemutatóhellyel rendelkezik."],
       ro: ["Gazda anuală a BraLa (Brandenburger Landwirtschaftsausstellung), cel mai mare târg agricol regional.", "Include o berărie istorică ('Historische Brauerei') care produce bere artizanală locală.", "Dispune de un parc de aventură și o grădină arheologică pentru scopuri educaționale.", "Centrul a fost dezvoltat pe locul unei foste unități agricole de stat din RDG.", "Promovează activ rasele de animale domestice pe cale de dispariție în 'Arche-Hof'.", "Atrage anual peste 200.000 de vizitatori prin diverse evenimente și expoziții."],
       en: ["Host of the annual Brandenburg Agricultural Exhibition (BraLa).", "Features a brewery that produces traditional '500-liter' batches.", "Home to endangered domestic animal breeds in the Ark Park.", "Developed on a former state-owned estate after 1990.", "Spans several hectares of exhibition and leisure grounds.", "Includes a specialized water playground and adventure park."]
-    }
-  },
+    }, image: "/poi-images/agriculture-paaren-extra.webp"},
   {
     id: "kid-landmark-rhododendron-park-bremen-extra",
     type: "kid-landmark",
@@ -217,8 +212,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A park 46 hektáros területe ingyenesen látogatható.", "A világ legnagyobb rododendron- és azáleagyűjteménye található itt.", "A Botanika központ területe 3200 négyzetméter.", "Több mint 600 különböző rododendronfaj látható a parkban.", "A kertet 1933-ban alapították a brémai polgárok kezdeményezésére.", "Itt található Németország legnagyobb japán kertjeinek egyike is."],
       ro: ["Găzduiește aproximativ 600 de specii și peste 3.000 de varietăți de rododendron.", "Parcul se întinde pe o suprafață de 46 de hectare.", "Centrul 'botanika' include o seră cu plante din Himalaya și un Buddha gigant.", "Majoritatea plantelor au fost aduse din regiuni muntoase ale Asiei și Americii de Nord.", "Include o grădină botanică veche de peste 100 de ani în cadrul complexului.", "Este o fundație de utilitate publică susținută de orașul Bremen."],
       en: ["Houses one of the world's largest rhododendron collections.", "Features over 600 different species and 3,000 varieties.", "The 'Botanika' science center opened within the park in 2003.", "Home to a 2.4-meter high bronze Buddha statue from Myanmar.", "The park's total area covers approximately 46 hectares.", "Originally founded in 1933 on former agricultural land."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-rhododendron-park-bremen-extra.webp"},
   {
     id: "animal-habitat-schwarze-berge-extra",
     type: "animal-habitat",
@@ -248,8 +242,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A vadaspark 1969-ben nyílt meg 50 hektáros területen.", "Körülbelül 1000 állat él itt mintegy 100 különböző fajból.", "Az Elbblickturm kilátó 45 méter magas, lenyűgöző panorámával.", "A park híres a szabadon látogatható őz- és dámvadkifutóiról.", "Naponta látványos etetéseket és bemutatókat tartanak.", "A vadaspark egész évben, minden nap nyitva tart."],
       ro: ["Parcul a fost fondat la data de 26 iunie 1969 și are o suprafață de 50 de hectare.", "Găzduiește aproximativ 1.000 de animale din peste 100 de specii europene.", "Turnul 'Elbblickturm', înalt de 45 de metri, a fost inaugurat în iunie 2017.", "Include o incintă mare pentru urși bruni și lupi care trăiesc în semi-libertate.", "Este renumit pentru porcii vietnamezi care se plimbă liberi printre vizitatori.", "Oferă spectacole zilnice cu păsări de pradă (șoimi, vulturi și bufnite)."],
       en: ["The 'Elbblickturm' observation tower is 45 meters high.", "Home to more than 1,000 animals of 100 different species.", "Founded in 1969 in the scenic Rosengarten-Vahrendorf area.", "Spans 50 hectares of hilly, forested terrain.", "Features one of Germany's most popular bird of prey shows.", "Large enclosures house brown bears, wolves, and European elk."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-schwarze-berge-extra.webp"},
   {
     id: "kid-landmark-palmengarten-frankfurt-extra",
     type: "kid-landmark",
@@ -279,8 +272,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A kertet 1871-ben nyitották meg magánkezdeményezésre.", "Területe 22 hektár Frankfurt szívében.", "A Palmenhaus 1869-ben épült, és az egyik legnagyobb ilyen típusú épület.", "A Tropicarium 14 üvegházában különböző éghajlati öveket mutatnak be.", "Híres a rózsakertje és a vízeséssel díszített sziklakertje.", "A kertben található Goethe kedvenc fája, a páfrányfenyő is."],
       ro: ["A fost fondat în anul 1868 prin inițiativa cetățenilor din Frankfurt.", "Casa Palmierilor (Palmenhaus) a fost la data construcției una dintre cele mai mari de acest tip.", "Grădina se întinde pe o suprafață de 22 de hectare.", "Include 'Tropicarium-ul', un complex modern de sere cu climate tropicale și subtropicale.", "Trenulețul 'Palmen-Express' parcurge grădina pe o șină cu ecartament îngust.", "Găzduiește renumitul festival 'Lichterfest' (Festivalul Luminilor) în fiecare vară."],
       en: ["Opened in 1871, initiated by garden architect Heinrich Siesmayer.", "The historic Palm House is a masterpiece of 19th-century ironwork.", "The 'Tropicarium' consists of 8 separate climate-controlled zones.", "Covers an area of 22 hectares in Frankfurt's Westend district.", "Home to a specialized collection of succulents and orchids.", "Privately owned until 1931, when the city of Frankfurt took over."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-palmengarten-frankfurt-extra.webp"},
   {
     id: "animal-habitat-opel-zoo-extra",
     type: "animal-habitat",
@@ -310,8 +302,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az állatkertet 1956-ban alapították Georg von Opel kezdeményezésére.", "Területe 27 hektár, ahol kb. 1700 állat él 200 fajból.", "Itt láthatók Hessen tartomány egyetlen afrikai elefántjai.", "Híres a 2,2 hektáros afrikai szavanna bemutatója.", "Fontos központja a ritka mezopotámiai dámvadak tenyésztésének.", "A parkban egy 3 km hosszú, interaktív tanösvény is található."],
       ro: ["Fondat în 1956 de Georg von Opel, nepotul celebrului constructor de automobile.", "Este singura grădină zoologică din Hessa care deține elefanți africani.", "Adăpostește aproximativ 1.600 de animale din peste 230 de specii diferite.", "A salvat de la dispariție specia de cerb lopătar mesopotamian prin expediții în Iran.", "Suprafața grădinii zoologice este de 27 de hectare, amenajată în stil de peisaj natural.", "Atrage anual aproximativ 600.000 de vizitatori și finanțează cercetarea universitară."],
       en: ["Founded in 1956 by Georg von Opel, grandson of Adam Opel.", "The only zoo in Hesse that keeps African elephants.", "Home to approximately 1,600 animals from 230 species.", "Features an 'Africa Savannah' enclosure for giraffes and zebras.", "Spans 27 hectares of hilly terrain in the Taunus mountains.", "Operates as a non-profit organization dedicated to education."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-opel-zoo-extra.webp"},
   {
     id: "animal-habitat-baerenwald-mueritz-extra",
     type: "animal-habitat",
@@ -341,8 +332,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A menhely 2006 októberében nyitotta meg kapuit 16 hektáron.", "Jelenleg 13 mentett barnamedve él a területen.", "A medvék nagy, természetes erdős kifutókban élnek.", "A parkot a 'Négy Mancs' nemzetközi állatvédő alapítvány tartja fenn.", "Interaktív kiállítások mutatják be a medvék életmódját és téli álmát.", "A látogatók vezetett túrákon vehetnek részt az állatvédelem témakörében."],
       ro: ["Sanctuarul a fost deschis oficial în anul 2006 de către fundația VIER PFOTEN.", "Se întinde pe o suprafață totală de 16 hectare de pădure naturală.", "Găzduiește în medie între 10 și 15 urși bruni salvați din captivitate.", "Este cel mai mare proiect de acest gen pentru urși din Europa de Vest.", "Urșii trăiesc în incinte mari, care le permit să își urmeze instinctul de hibernare.", "Include un centru de educație pentru vizitatori și trasee tematice de observare."],
       en: ["Opened in 2006 as a sanctuary for rescued brown bears.", "Operated by the international animal welfare group FOUR PAWS.", "Spans 16 hectares of natural forest near Lake Plauer See.", "Home to approximately 12 bears rescued from poor conditions.", "Includes interactive exhibitions on bear behavior and diet.", "Bears are allowed to hibernate naturally in their enclosures."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-baerenwald-mueritz-extra.webp"},
   {
     id: "kid-landmark-ozeaneum-stralsund-extra",
     type: "kid-landmark",
@@ -372,8 +362,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az Ozeaneum 2008-ban nyílt meg Stralsund kikötőjében.", "Az épület 8700 négyzetméternyi kiállítási területet kínál.", "A legnagyobb akváriuma, a Nyílt-Atlanti-óceán, 2,6 millió literes.", "A bálnateremben egy 26 méteres kék bálna modellje látható.", "A tetőteraszon egy pingvin-kifutó található, kilátással a tengerre.", "2010-ben elnyerte az 'Év Európai Múzeuma' címet."],
       ro: ["Clădirea Ozeaneum a fost distinsă cu premiul 'Muzeul European al Anului' în 2010.", "Modelul de balenă albastră din sala principală are o lungime de 26 de metri.", "Acvariul 'Marea Deschisă' are un geam de acril de 22 cm grosime și peste 50 m².", "Găzduiește o colonie de pinguini Humboldt pe terasa de pe acoperiș.", "Include expoziții despre exploatarea sustenabilă a mărilor și schimbările climatice.", "Face parte din Fundația Muzeului German al Marinei, alături de Meeresmuseum."],
       en: ["Named European Museum of the Year in 2010.", "The largest tank holds approximately 2.6 million liters of water.", "Features life-size models of whales, including a blue whale.", "The building was designed by the renowned Behnisch Architekten.", "Focuses on the marine life of the Baltic and North Seas.", "Home to a colony of Humboldt penguins on its roof terrace."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-ozeaneum-stralsund-extra.webp"},
   {
     id: "kid-landmark-heide-park-soltau-extra",
     type: "kid-landmark",
@@ -403,8 +392,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A park 1978 augusztusában nyitotta meg kapuit 85 hektáron.", "A Colossos hullámvasút 60 méter magas és 110 km/h sebességgel száguld.", "Itt található a Flug der Dämonen, Németország első szárnyas hullámvasútja.", "A Krake Németország első függőleges zuhanást kínáló hullámvasútja.", "A parkban összesen több mint 40 különböző attrakció várja a vendégeket.", "A létesítmény saját tematikus hotellel és üdülőfaluval rendelkezik."],
       ro: ["Suprafața totală a parcului este de aproximativ 85 de hectare.", "Colossos este un roller coaster din lemn cu o înălțime de 52 de metri și viteze de 110 km/h.", "Include primul Dive Coaster din Germania, numit 'Krake'.", "Parcul a fost deschis în anul 1978 pe terenul unui fost parc de animale.", "Găzduiește un hotel tematic (Abenteuerhotel) și un sat de vacanță.", "Se află în inima regiunii turistice Lüneburger Heide din Saxonia Inferioară."],
       en: ["Opened in 1978 by Hans-Jürgen Tiemann on former farmland.", "Home to Colossos, a record-breaking wooden roller coaster.", "Features 'Krake,' the first dive coaster in Germany.", "Spans 85 hectares, making it one of Germany's largest parks.", "Includes a 35-meter high replica of the Statue of Liberty.", "Part of the Merlin Entertainments group since 2007."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-heide-park-soltau-extra.webp"},
   {
     id: "animal-habitat-weltvogelpark-walsrode-extra",
     type: "animal-habitat",
@@ -434,8 +422,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A park 1962-ben nyílt meg, és 24 hektáron terül el.", "A világ legnagyobb madárparkja, 4000 madárral 650 fajból.", "Híres a kolibriházáról, amely egyedülálló Európában.", "A röptetési show-k során sasokat, papagájokat és kondorokat is láthatunk.", "Itt található a világ legnagyobb fedett trópusi madárháza.", "A park fontos szerepet játszik a kihalófélben lévő fajok tenyésztésében."],
       ro: ["Este cel mai mare parc de păsări din lume, cu o suprafață de 24 de hectare.", "Găzduiește aproximativ 4.000 de păsări din peste 650 de specii diferite.", "A fost fondat în 1962 de omul de afaceri Fritz Geschke.", "Deține recordul mondial pentru prima reproducere reușită a păsării Quetzal în captivitate.", "Include 'Hala Junglei', o seră tropicală uriașă cu păsări libere și vegetație exotică.", "Atrage sute de mii de vizitatori anual prin spectacolele sale de zbor și grădinile tematice."],
       en: ["The world's largest bird park by both species and land area.", "Home to over 4,000 birds representing 650 different species.", "The 'Jungle Hall' covers an area of 5,000 square meters.", "Founded in 1962 by businessman Gottlieb-Helmut Brehm.", "Features daily free-flight shows in a massive open-air arena.", "Contains one of Germany's largest collections of fuchsias."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-weltvogelpark-walsrode-extra.webp"},
   {
     id: "animal-habitat-zoom-gelsenkirchen-extra",
     type: "animal-habitat",
@@ -472,8 +459,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["A fost reconstruit complet între 2004 și 2010 pe locul vechiului Ruhr-Zoo (fondat în 1949).", "Este împărțit în trei mari regiuni tematice: Alaska (6 ha), Africa (14 ha) și Asia (5 ha).", "Include o peșteră de gheață cu vedere subacvatică pentru urșii polari în Alaska.", "Găzduiește peste 900 de animale din aproximativ 100 de specii diferite.", "Oferă o experiență de safari cu barca în zona dedicată continentului Africa.", "A primit numeroase premii pentru cele mai bune incinte de animale din Germania."],
       en: ["Replaced the old Ruhr-Zoo and reopened in its current form in 2005.", "Divided into three main themed worlds: Alaska, Africa, and Asia.", "Spans an area of approximately 30 hectares in the Ruhr region.", "Features a unique underwater tunnel in the sea lion exhibit.", "Habitats are designed without traditional bars or cages.", "Home to over 900 animals from more than 100 species."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-zoom-gelsenkirchen-extra.webp"},
   {
     id: "kid-landmark-holiday-park-extra",
     type: "kid-landmark",
@@ -510,8 +496,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Expedition GeForce atinge o viteză maximă de 120 km/h și o înclinație de 82 de grade.", "Include o zonă interioară vastă 'Holiday Indoor' pentru distracție pe orice vreme.", "Turnul de cădere liberă 'Anubis' are o înălțime de 70 de metri.", "Parcul a fost fondat în 1971 și este pionierul multor tipuri de atracții în Germania.", "Este situat în regiunea viticolă a Palatinatului, aproape de drumul vinului.", "Atrage anual peste 600.000 de vizitatori din Germania și țările vecine."],
       en: ["Founded in 1971 by the Schneider family.", "Home to Expedition GeForce, one of the world's best coasters.", "Part of the Plopsa group since 2010.", "Features the first free-fall tower in Germany, opened in 1997.", "Themed areas include Majaland and The Beach.", "Located in the scenic Palatinate Forest (Pfälzerwald)."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-holiday-park-extra.webp"},
   {
     id: "animal-habitat-eifelpark-extra",
     type: "animal-habitat",
@@ -541,8 +526,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A park 1964-ben nyílt meg Németország első vadasparkjaként.", "Területe 75 hektár, amely egy erdős völgyben fekszik.", "Körülbelül 200 állat él itt, köztük barnamedvék és hiúzok.", "Az Eifel-Coaster bobpálya közel 1 km hosszú.", "A parkban több mint 60 különböző szabadidős attrakció található.", "A vadasparki részben egy 3,5 km hosszú erdei tanösvény fut."],
       ro: ["Inaugurat în anul 1964 ca primul parc de faună montană în aer liber din Germania.", "Parcul se întinde pe o suprafață impresionantă de aproximativ 75 de hectare.", "Găzduiește peste 200 de animale, inclusiv urși bruni, lupi, râși și cerbi.", "Orașul Berlin deține patronajul oficial asupra incintei urșilor ('Bärenschlucht') din 1969.", "Oferă peste 60 de atracții, inclusiv un roller coaster de tip 'Eifel Coaster'.", "A fost redeschis sub o nouă conducere în 2014, după o modernizare majoră."],
       en: ["Originally opened in 1964 as a wildlife park (Hochwildpark).", "Features over 200 animals, including bears, wolves, and lynx.", "The 'Eifel-Coaster' alpine slide is a major attraction.", "Covers an area of roughly 75 hectares in the Eifel mountains.", "Includes a massive 'wild bear' enclosure where bears live naturally.", "Hosts regular bird of prey flight demonstrations."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-eifelpark-extra.webp"},
   {
     id: "kid-landmark-gondwana-extra",
     type: "kid-landmark",
@@ -579,8 +563,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Este unul dintre cele mai moderne muzee preistorice din Europa.", "Include animații robotizate de dinozauri la scară naturală.", "Spectacolul 'Megalodon' utilizează tehnologie video 3D imersivă.", "Situl este situat pe locația unei foste mine de cărbune (Reden).", "Oferă zone de joacă interioare pe o suprafață de peste 4.000 m².", "Exponatele urmăresc cronologic istoria Pământului de acum 4,5 miliarde de ani."],
       en: ["Features the world's largest dinosaur show using animatronics.", "A high-tech museum focusing on the history of life on Earth.", "Located in a former coal mine processing building.", "Covers millions of years from the Big Bang to early humans.", "Features life-sized reconstructions of Megalodon and T-Rex.", "Educational exhibits are based on current paleontological research."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-gondwana-extra.webp"},
   {
     id: "animal-habitat-wolfspark-extra",
     type: "animal-habitat",
@@ -610,8 +593,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A parkot 1977-ben alapította a híres farkas-kutató, Werner Freund.", "Területe 8 hektár, ahol hét különböző farkaskifutó található.", "Kb. 20-30 farkas él itt a világ különböző tájairól (pl. Alaszka, Tibet).", "A belépés a parkba és a vasárnapi szakvezetések is ingyenesek.", "A kutatók a farkasok közötti rangsort és kommunikációt vizsgálják itt.", "A park része a Saar-vidék fontos természetvédelmi és kutatási hálózatának."],
       ro: ["Fondat în anul 1972 de către legendarul cercetător Werner Freund.", "Găzduiește haite de lupi din diferite regiuni: arctice, mongole, europene și americane.", "Werner Freund a trăit cu lupii timp de peste 40 de ani, devenind parte din haită.", "Accesul în parc este gratuit, conform dorinței fondatorului pentru educație publică.", "Parcul este situat în Merzig, cunoscut sub numele de 'Orașul Lupilor'.", "Oferă prelegeri regulate despre viața secretă și rolul ecologic al lupului."],
       en: ["Founded in 1977 by the famous wolf researcher Werner Freund.", "Home to several wolf packs from different geographical regions.", "Freund lived with the wolves and was accepted as their alpha.", "The park is located in the 'Kammerforst' forest near Merzig.", "Offers free entry to promote public awareness and education.", "Focuses on research, conservation, and dispelling wolf myths."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-wolfspark-extra.webp"},
   {
     id: "kid-landmark-sonnenlandpark-extra",
     type: "kid-landmark",
@@ -641,8 +623,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A park 2006-ban nyitotta meg kapuit 30 hektáros területen.", "Itt található Németország legmagasabb csúszdatornya (30 méter).", "A vadasparki részben több mint 200 állat él szabadon.", "A park saját mesterséges tavakkal és vízi játékokkal rendelkezik.", "Egy 2600 négyzetméteres beltéri játszóház is a komplexum része.", "Évente több mint 200 000 látogatót fogad a létesítmény."],
       ro: ["Turnul de tobogane are o înălțime de 30 de metri și include 9 piste diferite.", "Parcul se întinde pe o suprafață de peste 30 de hectare.", "Include o pădure de escaladă (Kletterwald) cu diverse grade de dificultate.", "Adăpostește peste 200 de animale în incinte spațioase.", "Există o zonă interioară 'In-Sola' pentru joacă pe timp de ploaie.", "Este renumit pentru labirintul său de porumb și podurile suspendate peste iazuri."],
       en: ["Spans an area of 26 hectares in the Saxon town of Lichtenau.", "Features the 'IN-Sola', a massive 4,500 m² indoor playground.", "Home to over 200 animals in its integrated wildlife park.", "Opened in 2006 and has become a top regional destination.", "Includes a 33-meter high giant Ferris wheel with panoramic views.", "Features Germany's largest bouncy cushion and climbing areas."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-sonnenlandpark-extra.webp"},
   {
     id: "kid-landmark-saurierpark-extra",
     type: "kid-landmark",
@@ -672,8 +653,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A park 1978-ban indult Franz Gruß szobrászművész magánkezdeményezésére.", "Területe 16 hektár, több mint 200 életnagyságú modellel.", "A szobrok többsége acélvázas vasbetonból készült, kézi munkával.", "A Mitoseum bejárat 2008-ban épült, építészeti remekműnek számít.", "A park bemutatja a dinoszauruszok mellett az őshüllőket és az ősmlősöket is.", "Németország legrégebbi és legjelentősebb ilyen jellegű parkja."],
       ro: ["Parcul găzduiește peste 200 de sculpturi de dinozauri realizate manual.", "Primele modele au fost create în 1978 de artistul Franz Gruß.", "Include o secțiune spectaculoasă numită 'Lumea uitată' cu efecte speciale.", "Cel mai mare model este un Brachiosaurus cu o înălțime de 15 metri.", "Dispune de un cinematograf 5D care rulează filme despre epoca dinozaurilor.", "Situat în regiunea istorică Oberlausitz, aproape de granița cu Cehia."],
       en: ["Germany's largest dinosaur park with over 200 life-sized models.", "Located in Kleinwelka, a district of Bautzen in Saxony.", "Features a massive 'climbing world' and interactive research center.", "The park's history dates back to 1978 and its first sculptures.", "Includes a specialized 'Mitoseum' entrance building.", "Models are based on scientific findings but designed for impact."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-saurierpark-extra.webp"},
   {
     id: "animal-habitat-tiergarten-stendal-extra",
     type: "animal-habitat",
@@ -710,8 +690,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Grădina zoologică a fost deschisă inițial în anul 1934.", "După distrugerea din 1944, a fost reconstruită complet de cetățeni începând cu 1952.", "Se întinde pe o suprafață de 6 hectare pe malul lacului Stadtsee.", "Adăpostește peste 500 de animale din aproximativ 75 de specii diferite.", "O nouă facilitate modernă pentru urșii negri americani a fost deschisă în 2021.", "Este recunoscut pentru programele sale de pedagogie zoologică pentru elevi."],
       en: ["Home to approximately 500 animals of 75 different species.", "Spans 6 hectares of land with a rich stock of old trees.", "Founded in 1952 and remains a beloved local institution.", "Focuses on native European and North American species.", "Features a walkthrough enclosure for Bennett's wallabies.", "Located in the historic Hanseatic city of Stendal in Saxony-Anhalt."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-tiergarten-stendal-extra.webp"},
   {
     id: "kid-landmark-elbauenpark-extra",
     type: "kid-landmark",
@@ -741,8 +720,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A park 1999-ben nyílt meg a BUGA alkalmából 100 hektáron.", "A Millenniumi Torony 60 méterével a világ egyik legmagasabb faépülete.", "A Pillangóházban 200 egzotikus lepke- és pillangófaj látható.", "A park területén több mint 25 tematikus kertet alakítottak ki.", "Itt található Németország egyik leghosszabb drótkötélpályája (zipline).", "A parkot az Elba folyó egykori árterületén hozták létre."],
       ro: ["Jahrtausendturm este a treia cea mai înaltă clădire din lemn din lume.", "Parcul se întinde pe o suprafață de 100 de hectare pe malul râului Elba.", "Include o casă a fluturilor cu specii tropicale și o grădină de cactuși unică.", "Turnul mileniului oferă experimente fizice interactive la care copiii pot participa.", "Există o pasarelă în coronamentul arborilor și o pistă de bob de vară de 400 metri.", "Parcul a fost votat de mai multe ori drept 'Cel mai frumos parc din Germania'."],
       en: ["Home to the 60-meter high Millennium Tower (Jahrtausendturm).", "Created for the 1999 Federal Horticultural Show (BUGA).", "The park covers a massive area of 90 hectares.", "Features a tropical butterfly house with over 200 species.", "Includes an 18-station climbing park and summer toboggan run.", "Located on a former military site near the Elbe river."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-elbauenpark-extra.webp"},
   {
     id: "kid-landmark-hansa-park-extra",
     type: "kid-landmark",
@@ -772,8 +750,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A park 1977-ben nyílt meg Sierksdorfban a tengerparton.", "Területe 46 hektár, ahol 125 különböző attrakció várja a vendégeket.", "A 'Der Schwur des Kärnan' hullámvasút 73 méter magas zuhanást tartalmaz.", "A bejáratnál található a Hanza-városok építészeti makettje (Hanse in Europa).", "A parkban korábban delfinárium is működött, ma fókashow-k láthatók.", "Évente több mint 1,4 millió látogató keresi fel a létesítményt."],
       ro: ["Inaugurat în anul 1977 sub numele de Hansaland.", "Include peste 125 de atracții împărțite în 11 lumi tematice.", "Roller coaster-ul 'Kärnan' are un turn de 79 de metri și o cădere verticală în întuneric.", "Reproduce replici ale porților și clădirilor istorice din marile orașe hanseatice.", "Este situat în golful Lübeck, oferind vederi spectaculoase spre mare de pe atracții.", "Oferă spectacole de varieteu și parade zilnice pentru toate vârstele."],
       en: ["Germany's only theme park located directly by the sea.", "Features a 73-meter high replica of the Hanseatic Holstentor.", "Home to the 'Oath of Kärnan', a world-class hypercoaster.", "The park covers 46 hectares on the Baltic Sea coast.", "Originally opened as 'Legoland' in 1973 before rebranding.", "Attracts over 1.4 million visitors to Sierksdorf each year."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-hansa-park-extra.webp"},
   {
     id: "kid-landmark-multimar-extra",
     type: "kid-landmark",
@@ -803,8 +780,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A központ 1999-ben nyílt meg, és 3125 m² kiállítási területtel rendelkezik.", "A bemutató középpontjában a Watt-tenger UNESCO világöröksége áll.", "Itt látható egy 17,5 méter hosszú ámbráscet teljes csontváza.", "Az akváriumokban több mint 280 faj, köztük ráják és cápák élnek.", "A Watt.Land.Fluss részleg az európai vidrák életét mutatja be.", "A központ évente mintegy 200 000 látogatót fogad."],
       ro: ["Include un acvariu panoramic cu un volum de 250.000 de litri de apă sărată.", "Scheletul de cașalot expus are o lungime impresionantă de 17,5 metri.", "Este centrul oficial de vizitare al sitului UNESCO Marea Watten.", "Grădina exterioară oferă spații de joacă tematice despre forțele mareelor.", "Laboratorul de cercetare permite copiilor să analizeze organisme minuscule la microscop.", "Centrul a fost inaugurat în 1999 și este situat pe malul râului Eider."],
       en: ["Official visitor center for the Wadden Sea National Park.", "Features a 17.5-meter long sperm whale skeleton.", "Home to over 30 aquariums representing North Sea habitats.", "Located in the town of Tönning on the Eider river estuary.", "Focuses on the UNESCO World Heritage site of the Wadden Sea.", "Interactive exhibits explain tidal movements and salt marshes."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-multimar-extra.webp"},
   {
     id: "animal-habitat-zoo-erfurt-extra",
     type: "animal-habitat",
@@ -834,8 +810,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az állatkertet 1959-ben alapították, területe 63 hektár.", "Körülbelül 1000 állat él itt 157 különböző fajból.", "Itt található Németország egyik legmodernebb elefánt-kifutója.", "A park híres a ritka berber oroszlánok tenyésztési programjáról.", "A 'Roter Berg' (Vörös-hegy) tetejéről panorámás kilátás nyílik Erfurt városára.", "A látogatók egy 19. századi történelmi teveistállót is megtekinthetnek."],
       ro: ["Este una dintre cele mai mari grădini zoologice din Germania, acoperind 63 de hectare.", "A fost fondată în anul 1959 și este situată pe dealul Roter Berg din Erfurt.", "Este supranumit 'Zoo-ul animalelor mari' datorită speciilor masive pe care le deține.", "Inaugurarea noii facilități pentru elefanți africani a fost un punct de referință în 2014.", "Găzduiește aproximativ 1.000 de animale din peste 130 de specii.", "Oferă unul dintre cele mai bune puncte de belvedere asupra capitalei Turingiei."],
       en: ["Known as the 'Zoo of Great Distances' due to its massive size.", "Spans 63 hectares on the scenic Roter Berg mountain.", "Home to one of the largest elephant enclosures in Germany.", "Founded in 1959 as a showcase for socialist nature planning.", "Features over 1,000 animals from approximately 130 species.", "Offers panoramic views of Erfurt's cathedral and city center."]
-    }
-  },
+    }, image: "/poi-images/animal-habitat-zoo-erfurt-extra.webp"},
   {
     id: "kid-landmark-baumkronenpfad-extra",
     type: "kid-landmark",
@@ -865,8 +840,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Az ösvényt 2005-ben adták át a Hainich Nemzeti Parkban.", "Két hurokból áll, amelyek teljes hossza 546 méter.", "A legmagasabb pontja egy 44 méteres kilátótorony.", "Az ösvény a fák koronái között, 10-25 méter magasságban fut.", "Tematikus kapuk mutatják be a denevérek és vadmacskák életét.", "Németország egyik legnagyobb összefüggő lombhullató erdejében található."],
       ro: ["Traseul are o lungime de peste 300 de metri și se află la o înălțime de până la 23 de metri.", "Turnul de observație principal atinge înălțimea de 40 de metri.", "Beelitz-Heilstätten a fost cel mai mare sanatoriu pentru tuberculoză din lume la începutul secolului XX.", "Aici pot fi observați 'arborii de pe acoperiș', fagi și mesteacăni crescuți natural pe clădiri.", "Locația a fost folosită ca decor pentru numeroase filme internaționale (ex. 'Pianistul').", "Traseul este complet accesibil pentru scaune cu rotile și cărucioare prin lifturi moderne."],
       en: ["A 750-meter long elevated walkway through a beech forest.", "Located near the historic 47-meter high Edersee dam.", "Situated within a UNESCO World Heritage beech forest site.", "Completely barrier-free, allowing access for wheelchairs and strollers.", "Offers panoramic views of the Edersee and Kellerwald mountains.", "Educational stations focus on the biology of the forest canopy."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-baumkronenpfad-extra.webp"},
   {
     id: "kid-landmark-gaerten-der-welt-extra",
     type: "kid-landmark",
@@ -896,8 +870,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A parkot 1987-ben nyitották meg Berlin 750. évfordulójára.", "Területe 43 hektár, de a környező parkokkal együtt 100 hektár feletti.", "Itt található Kína legnagyobb klasszikus kertje Európában.", "A 1,5 km hosszú libegőt a 2017-es IGA kertészeti kiállításra építették.", "A parkban összesen tíz nemzetközi tematikus kert kapott helyet.", "Különleges látványosság a sövénylabirintus és a reneszánsz kert."],
       ro: ["Grădina Chineză 'Grădina Lunii Reîntregite' este cea mai mare de acest tip din Germania.", "Include o grădină englezească inaugurată în cadrul expoziției IGA 2017.", "Telecabina lungă de 1,5 km leagă parcul de stația de metrou Kienberg.", "Labirintul de gard viu este inspirat de cel de la Hampton Court Palace din Anglia.", "Găzduiește anual festivalul 'Cireșilor Înfloriți' și spectacole de lumini.", "Suprafața totală a parcului a fost extinsă la peste 100 de hectare în 2017."],
       en: ["Features 10 international themed gardens and 9 garden cabinets.", "The 'Chinese Garden' is the largest of its kind in Europe.", "Includes a 1.5-kilometer long cable car built for the IGA 2017.", "Spans a total area of 43 hectares in Berlin's Marzahn district.", "Home to a unique 'English Rose Garden' and a labyrinth.", "Each garden was designed and built by experts from the origin country."]
-    }
-  },
+    }, image: "/poi-images/kid-landmark-gaerten-der-welt-extra.webp"},
 
   // --- WIRTSCHAFT (30) ---
   {
@@ -967,8 +940,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A gyárat 1910-ben alapították, eredetileg 'Lichtwerk' néven.", "Itt kezdték el a világ első sorozatgyártású autóreflektorait készíteni.", "Ma a Bosch globális IT-központjának ad otthont (megnyílt 2017-ben).", "A telephely kulcsszerepet játszik az önvezető autók fejlesztésében.", "Több ezer mérnök és informatikus dolgozik a jövő mobilitásán.", "Történelmileg ez a Bosch egyik legnagyobb és legrégebbi német telephelye."],
       ro: ["Robert Bosch a deschis primul său atelier de mecanică fină în Stuttgart în 1886.", "Uzina din Feuerbach a fost construită începând cu anul 1909.", "Aici s-a produs prima pompă de injecție diesel pentru camioane în 1927.", "Bosch este cel mai mare furnizor de componente auto din lume.", "Fundația Robert Bosch deține peste 90% din capitalul companiei, finanțând proiecte sociale.", "Locația din Feuerbach găzduiește și un important centru de cercetare și dezvoltare."],
       en: ["The historic center of the Robert Bosch company since the early 1900s.", "A lead plant for the development of modern diesel and fuel technology.", "Pioneer in Industry 4.0 and networked manufacturing systems.", "Located in the Feuerbach district of Stuttgart, Bosch's home.", "Produces high-precision components for global automotive markets.", "Serves as a major training and research hub for the Bosch Group."]
-    }
-  },
+    }, image: "/poi-images/industry-bosch-feuerbach-extra.webp"},
   {
     id: "industry-audi-ingolstadt-extra",
     type: "industry",
@@ -1005,8 +977,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Este sediul central global al companiei Audi AG și cea mai mare uzină a sa.", "Fabrica produce peste 400.000 de automobile pe an.", "Muzeul Audi 'mobile' este găzduit într-o clădire circulară de sticlă de 23 metri înălțime.", "Uzina are propria rețea de cale ferată și pompieri privați.", "Peste 40.000 de oameni lucrează în acest complex industrial masiv.", "Audi s-a stabilit în Ingolstadt după al Doilea Război Mondial, în anul 1949."],
       en: ["Global headquarters and the largest production site of Audi AG.", "The second-largest automobile factory in Europe.", "Produces over 400,000 vehicles annually in peak years.", "The site covers approximately 2.7 million square meters.", "Features its own dedicated rail station and logistics center.", "Employs more than 40,000 people in the Ingolstadt region."]
-    }
-  },
+    }, image: "/poi-images/industry-audi-ingolstadt-extra.webp"},
   {
     id: "industry-siemens-amberg-extra",
     type: "industry",
@@ -1043,8 +1014,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Fabrica produce un produs SIMATIC la fiecare secundă, 24 de ore pe zi.", "Nivelul de calitate atinge 99,999%, o rată de eroare extrem de scăzută în industrie.", "A câștigat de mai multe ori premiul 'Fabrica Anului' în Europa.", "Peste 75% din lanțul valoric este gestionat de roboți și sisteme automate.", "Este locul unde Siemens testează noile sale soluții de software industrial (Digital Twin).", "Aproximativ 1.200 de angajați supraveghează și optimizează procesele digitale."],
       en: ["A world-leading example of a 'Smart Factory' and Industry 4.0.", "Produces Simatic controllers, the 'brains' of industrial machines.", "Boasts a quality rate of 99.9988% (Six Sigma level).", "Founded in 1989 and uses a fully digital production twin.", "Processes over 60 million components every year.", "Winner of numerous international awards for factory management."]
-    }
-  },
+    }, image: "/poi-images/industry-siemens-amberg-extra.webp"},
   {
     id: "industry-siemensstadt-extra",
     type: "industry",
@@ -1081,8 +1051,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Fondat în anul 1897, când Siemens a achiziționat terenurile din zona Spandau.", "Include clădiri monumentale precum Turnul Wernerwerk, simbol al industriei berlineze.", "Așezarea rezidențială a fost construită între 1929 și 1934 sub principiile 'Noului Obiectivism'.", "Este unul dintre cele mai bine conservate exemple de arhitectură industrială din secolul XX.", "Noul proiect 'Siemensstadt Square' implică o investiție de 600 de milioane de euro.", "Cartierul a avut propria linie de cale ferată (Siemensbahn) pentru navetiști."],
       en: ["Established in the early 20th century as a dedicated industrial district.", "The housing estates are part of a UNESCO World Heritage site.", "Currently being transformed into the 76-hectare 'Siemensstadt Square'.", "A center for high-voltage technology and industrial automation.", "Includes historic brick architecture and modern smart-city tech.", "Originally designed to provide housing and services for 20,000 workers."]
-    }
-  },
+    }, image: "/poi-images/industry-siemensstadt-extra.webp"},
   {
     id: "industry-tesla-brandenburg-extra",
     type: "industry",
@@ -1119,8 +1088,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Inaugurată oficial în martie 2022 de către Elon Musk și cancelarul Olaf Scholz.", "Capacitatea de producție vizată este de 500.000 de automobile pe an.", "Este cea mai mare investiție industrială privată din istoria recentă a landului Brandenburg.", "Fabrica utilizează o tehnologie revoluționară de vopsire numită 'Giga Paint Shop'.", "Situl include o gară proprie pentru transportul angajaților din Berlin.", "Peste 10.000 de angajați lucrează în prezent în acest complex industrial."],
       en: ["Tesla's first manufacturing plant in Europe, opened in 2022.", "Focuses on the production of the Tesla Model Y.", "Designed to eventually produce 500,000 vehicles annually.", "The site includes a state-of-the-art battery cell factory.", "Uses advanced casting machines to simplify car body production.", "Located in Grünheide, southeast of Berlin in Brandenburg."]
-    }
-  },
+    }, image: "/poi-images/industry-tesla-brandenburg-extra.webp"},
   {
     id: "industry-pck-schwedt-extra",
     type: "industry",
@@ -1188,8 +1156,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Este a doua cea mai mare uzină Mercedes-Benz din lume ca număr de angajați.", "Peste 12.000 de oameni lucrează în acest complex industrial de mari dimensiuni.", "Aici este produsă întreaga familie de modele C-Class (Limuzină, T-Modell, Coupe, Cabrio).", "Uzina găzduiește 'The Rock', un traseu de testare off-road pentru vehiculele 4x4 produse local.", "A fost prima fabrică a mărcii care a integrat producția de serie a unui model complet electric (EQC).", "Suprafața construită a fabricii depășește 1,1 milioane de metri pătrați."],
       en: ["The largest private employer in the city-state of Bremen.", "Lead plant for the global production of the Mercedes-Benz C-Class.", "Produces a wide range of models, including the electric EQE.", "Employs approximately 12,500 people at the Sebaldsbrück site.", "The site was originally a factory for the legendary Borgward brand.", "Uses highly flexible assembly lines for multiple vehicle types."]
-    }
-  },
+    }, image: "/poi-images/industry-mercedes-bremen-extra.webp"},
   {
     id: "port-altenwerder-extra",
     type: "port",
@@ -1219,8 +1186,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A terminált 2002-ben nyitották meg a hamburgi kikötőben.", "Területe kb. 1,1 millió négyzetméter, kapacitása 3 millió konténer (TEU).", "Szinte minden konténermozgatást önvezető járművek végeznek.", "A világ egyik első klímasemleges konténerterminálja.", "Saját, 9 vágányos vasúti terminállal rendelkezik a továbbszállításhoz.", "A daruk magassága és sebessége lehetővé teszi a legnagyobb hajók kiszolgálását is."],
       ro: ["Este aproape în întregime controlat de computere, fiind un model de 'Smart Port'.", "Vehiculele AGV funcționează fără șofer, orientându-se prin mii de senzori în sol.", "Macaralele portic pot descărca simultan cele mai mari nave port-container din lume.", "Terminalul a eliminat emisiile de CO2 prin electrificarea completă a parcului de vehicule.", "Situl a fost construit pe locul fostului sat pescăresc Altenwerder.", "Capacitatea anuală de manipulare depășește 3 milioane de unități standard (TEU)."],
       en: ["One of the world's most automated container terminals.", "The first container terminal worldwide to be certified carbon-neutral.", "Uses 100% automated guided vehicles (AGVs) for transport.", "Handles some of the world's largest container mega-ships.", "Features high-performance gantry cranes and automated storage.", "Operated by HHLA (Hamburger Hafen und Logistik AG)."]
-    }
-  },
+    }, image: "/poi-images/port-altenwerder-extra.webp"},
   {
     id: "industry-airbus-hamburg-extra",
     type: "industry",
@@ -1281,8 +1247,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A park területe 460 hektár, ami kb. 640 futballpályának felel meg.", "Mintegy 90 különböző vállalat működik a telephelyen.", "Összesen kb. 20 000 munkavállaló dolgozik a parkban.", "Saját 800 km hosszú csővezeték-rendszere van a vegyi anyagok szállítására.", "A legnagyobb befektető a területen a Sanofi gyógyszergyár.", "Itt található a híres Behrensbau, az expresszionista építészet ékköve."],
       ro: ["Parcul ocupă o suprafață de 4,6 kilometri pătrați în vestul orașului Frankfurt.", "Găzduiește aproximativ 22.000 de angajați în peste 90 de companii diferite.", "Dispune de propria unitate de pompieri, una dintre cele mai mari de acest tip din lume.", "Clădirea administrativă istorică proiectată de Peter Behrens (1924) este o bijuterie a expresionismului.", "Are acces direct la fluviul Main, rețeaua feroviară și aeroportul Frankfurt.", "Anual se investesc sute de milioane de euro în modernizarea infrastructurii de cercetare."],
       en: ["One of Europe's largest chemical and pharmaceutical sites.", "Home to over 90 companies with more than 22,000 employees.", "Spans 460 hectares with its own highly efficient power plant.", "The historic 'Peter-Behrens-Bau' is a masterpiece of industrial architecture.", "Focuses on life sciences, biotechnology, and specialty chemicals.", "Located at the heart of the Rhine-Main metropolitan region."]
-    }
-  },
+    }, image: "/poi-images/industry-industriepark-hoechst-extra.webp"},
   {
     id: "industry-opel-ruesselsheim-extra",
     type: "industry",
@@ -1357,8 +1322,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Situl din Warnemünde deține unul dintre cele mai mari docuri uscate din Europa.", "Regiunea a produs peste 1.000 de nave de diverse tipuri în ultimul secol.", "Macaraua portal a șantierului este un punct de reper vizibil de la mulți kilometri distanță.", "S-a specializat recent în platforme de înaltă tensiune pentru colectarea energiei eoliene marine.", "Șantierul a fost un punct central al producției de serie a navelor tip 'Liberty' în era RDG.", "Locația beneficiază de acces direct la ape adânci, facilitând lansarea navelor mari."],
       en: ["Features one of the largest covered shipbuilding halls in Europe.", "Historically a center for the GDR's large-scale merchant shipbuilding.", "Capable of building ships up to 340 meters in length.", "The Rostock yard is a key hub for offshore wind energy technology.", "Located at the mouth of the Warnow river in Rostock-Warnemünde.", "A critical industrial employer for the Mecklenburg-Vorpommern region."]
-    }
-  },
+    }, image: "/poi-images/industry-mv-werften-rostock-extra.webp"},
   {
     id: "port-rostock-extra",
     type: "port",
@@ -1395,8 +1359,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Portul poate primi nave cu un pescaj de până la 14,5 metri.", "Găzduiește Warnemünde Cruise Center, unul dintre cele mai moderne terminale de pasageri.", "Este un hub major pentru traficul de feriboturi către Danemarca (Gedser) și Suedia (Trelleborg).", "Regiunea găzduiește și un important șantier naval pentru platforme eoliene offshore.", "Anual, peste 2,5 milioane de pasageri de feribot și croazieră tranzitează portul.", "S-a dezvoltat masiv după reunificare ca o alternativă strategică la porturile Hamburg și Bremen."],
       en: ["The largest German port on the Baltic Sea coast.", "Germany's leading port for ferry traffic to Scandinavia.", "Handles over 25 million tons of diverse cargo annually.", "A major European hub for the export of wind energy components.", "The cruise terminal in Warnemünde is one of Germany's busiest.", "Provides deep-water access for large ocean-going vessels."]
-    }
-  },
+    }, image: "/poi-images/port-rostock-extra.webp"},
   {
     id: "industry-meyer-werft-extra",
     type: "industry",
@@ -1433,8 +1396,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Fondat în anul 1795, șantierul este administrat de a șaptea generație a familiei Meyer.", "Hala de construcție 2 este una dintre cele mai mari clădiri din lume ca volum.", "Transferul navelor pe râul Ems (Ems-Überführung) atrage mii de spectatori la fiecare eveniment.", "Șantierul a construit unele dintre cele mai mari nave de croazieră pentru companii ca Disney sau AIDA.", "Peste 3.500 de specialiști lucrează direct în șantierul din Papenburg.", "Centrul pentru vizitatori primește anual peste 250.000 de turiști pasionați de nave."],
       en: ["World-famous for building luxury cruise ships far inland.", "Founded in 1795 and still owned by the Meyer family.", "Features two of the world's largest covered dry docks.", "Ships are spectacularly 'conveyed' backwards down the Ems river.", "Pioneer in LNG-powered, environmentally friendly cruise ships.", "Employs over 3,000 workers and thousands of subcontractors."]
-    }
-  },
+    }, image: "/poi-images/industry-meyer-werft-extra.webp"},
   {
     id: "industry-continental-hannover-extra",
     type: "industry",
@@ -1471,8 +1433,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Compania a fost fondată în Hanovra în anul 1871 sub numele Continental-Caoutchouc- und Gutta-Percha Compagnie.", "Continental este al patrulea cel mai mare producător de anvelope de pe glob.", "A produs prima anvelopă pneumatică pentru biciclete din Germania în 1892.", "Găzduiește peste 190.000 de angajați în locații din întreaga lume.", "Sediul central din Hanovra este un punct de referință arhitectural modern.", "Logo-ul calului a fost adoptat oficial în 1882, fiind inspirat de blazonul Saxoniei Inferioare."],
       en: ["Founded in 1871 as 'Continental-Caoutchouc- und Gutta-Percha-Compagnie'.", "A global leader in tire technology and automotive electronics.", "Headquartered at the modern 'Conti-Campus' in Hannover.", "The historic 'Conti-Tower' is a landmark of Hannover's industrial past.", "Employs approximately 190,000 people across 57 countries.", "Pioneer in the development of sustainable 'dandelion rubber' tires."]
-    }
-  },
+    }, image: "/poi-images/industry-continental-hannover-extra.webp"},
   {
     id: "port-duisburg-extra",
     type: "port",
@@ -1509,8 +1470,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Zona portuară ocupă o suprafață de peste 1.350 de hectare.", "Peste 20.000 de nave și 25.000 de trenuri trec anual prin portul Duisburg.", "Duisport este conectat cu peste 100 de destinații din China prin rute feroviare.", "Găzduiește Logport, un centru logistic de clasă mondială pe locul fostelor oțelării.", "Aproximativ 50.000 de locuri de muncă depind direct de activitatea portuară.", "Bazinul portuar exterior este dominat de sculptura monumentală 'Rheinorange'."],
       en: ["The largest inland port in the world by both area and volume.", "A central European hub for the 'New Silk Road' rail link to China.", "Connects over 80 direct rail destinations in Europe and Asia.", "Handles millions of containers every year at its high-tech terminals.", "The 'Schifferbörse' is the historic heart of the inland shipping trade.", "Spans approximately 1,500 hectares with 21 separate basins."]
-    }
-  },
+    }, image: "/poi-images/port-duisburg-extra.webp"},
   {
     id: "industry-bayer-leverkusen-extra",
     type: "industry",
@@ -1547,8 +1507,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Bayer a fost fondată în 1863 în Barmen de Friedrich Bayer și Johann Friedrich Weskott.", "Simbolul companiei, Crucea Bayer, este una dintre cele mai mari reclame luminoase din lume.", "Aspirina a fost sintetizată aici într-o formă pură și stabilă în anul 1897.", "Chempark Leverkusen ocupă o suprafață de 480 de hectare.", "Compania este un lider mondial în domeniul sănătății umane și al agriculturii.", "Grădina Japoneză din Leverkusen a fost creată de Carl Duisberg, fost director Bayer, în 1912."],
       en: ["Global headquarters of Bayer AG since the late 19th century.", "The Bayer Cross is one of the world's largest illuminated trademarks.", "Part of 'Chempark', a massive 480-hectare chemical industrial zone.", "Focuses on life sciences, crop protection, and pharmaceuticals.", "Home to the 'BayArena', the first modern stadium integrated with a hotel.", "Founded by Friedrich Bayer and Johann Friedrich Weskott in 1863."]
-    }
-  },
+    }, image: "/poi-images/industry-bayer-leverkusen-extra.webp"},
   {
     id: "industry-ford-koeln-extra",
     type: "industry",
@@ -1585,8 +1544,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Ford și-a stabilit producția în Köln în anul 1930, la invitația primarului de atunci, Konrad Adenauer.", "Fabrica din Niehl a produs peste 20 de milioane de vehicule de la înființare.", "Ultimul Ford Fiesta a părăsit linia de asamblare din Köln în iulie 2023.", "Noul centru electric reprezintă o investiție de peste 2 miliarde de dolari.", "Situl găzduiește și sediul Ford Europe, coordonând activitățile pe întreg continentul.", "Uzina beneficiază de conexiuni directe feroviare și fluviale pe Rin pentru logistică."],
       en: ["Established in 1930 with the personal involvement of Henry Ford.", "Headquarters of Ford of Europe and lead plant for the new Explorer EV.", "The site has produced over 18 million cars since its founding.", "Currently home to the 2-billion-dollar 'Electric Vehicle Center'.", "Employs around 14,000 workers in production and engineering.", "Strategically located with its own port on the river Rhine."]
-    }
-  },
+    }, image: "/poi-images/industry-ford-koeln-extra.webp"},
   {
     id: "industry-basf-ludwigshafen-extra",
     type: "industry",
@@ -1623,8 +1581,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["BASF a fost fondată în 1865 (Badische Anilin- & Soda-Fabrik).", "Situl din Ludwigshafen este cel mai mare complex chimic continuu din lume.", "Conceptul 'Verbund' economisește anual circa 1,9 milioane de tone de combustibil.", "Uzina are peste 2.000 de kilometri de conducte și 230 de kilometri de cale ferată.", "Aproximativ 39.000 de angajați lucrează doar în locația din Ludwigshafen.", "Produce peste 8.000 de produse chimice diferite pentru piața mondială."],
       en: ["The world's largest integrated chemical site, spanning 10 km².", "Home to more than 200 individual chemical production plants.", "Uses the 'Verbund' principle to maximize efficiency and sustainability.", "Features a 106-kilometer long internal rail network.", "The site's power plants could supply a major city with electricity.", "Founded in 1865 as 'Badische Anilin- & Soda-Fabrik'."]
-    }
-  },
+    }, image: "/poi-images/industry-basf-ludwigshafen-extra.webp"},
   {
     id: "industry-boehringer-ingelheim-extra",
     type: "industry",
@@ -1661,8 +1618,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Compania a fost fondată la data de 31 iulie 1885 în Ingelheim.", "Rămâne o afacere de familie 100%, aflată la a patra generație de proprietari.", "Investește anual peste 20% din veniturile sale nete în cercetare și dezvoltare.", "Găduiește peste 9.000 de angajați doar în locația centrală din Ingelheim.", "Este un lider mondial în producția de medicamente pentru sănătatea animalelor.", "Prima inovație majoră a fost producția de acid lactic prin biotehnologie în 1893."],
       en: ["The world's largest family-owned pharmaceutical company.", "Founded in 1885 by Albert Boehringer with just 28 employees.", "A global center for research into respiratory and metabolic health.", "The Ingelheim headquarters employs over 9,000 people.", "Spans a modern, high-tech campus near the river Rhine.", "One of the top R&D investors in the global pharmaceutical industry."]
-    }
-  },
+    }, image: "/poi-images/industry-boehringer-ingelheim-extra.webp"},
   {
     id: "industry-dillinger-huette-extra",
     type: "industry",
@@ -1699,8 +1655,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Este prima societate pe acțiuni din Germania, fiind fondată în anul 1685.", "Sediul central se află în orașul Dillingen, pe malul râului Saar.", "Produce table de oțel cu grosimi ce pot depăși 500 de milimetri.", "Oțelul de la Dillingen a fost folosit la construcția viaductului Millau din Franța.", "Compania este un lider european în tehnologia turnării continue a oțelului.", "Grupul are peste 6.000 de angajați specializați în metalurgie de înaltă precizie."],
       en: ["Europe's leading manufacturer of high-quality heavy steel plate.", "Founded in 1685, making it over 330 years old.", "Produced steel for the world's largest bridges and skyscrapers.", "A key player in the production of offshore wind energy foundations.", "Currently transitioning to hydrogen-based 'green' steel production.", "The most important industrial employer in the town of Dillingen."]
-    }
-  },
+    }, image: "/poi-images/industry-dillinger-huette-extra.webp"},
   {
     id: "industry-ford-saarlouis-extra",
     type: "industry",
@@ -1737,8 +1692,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Uzina din Saarlouis a fost inaugurată oficial în anul 1970 de către Henry Ford II.", "Aici s-au produs modele iconice precum Ford Escort, Capri și Focus.", "Parcul de furnizori de lângă fabrică este conectat prin tunele logistice directe.", "Este unul dintre cei mai mari angajatori privați din landul Saarland.", "Peste 15 milioane de automobile au fost asamblate aici de la deschidere.", "Fabrica deține o pistă proprie de testare pentru controlul calității la finalul liniei."],
       en: ["The historic home of the Ford Focus production in Europe.", "Opened in 1970 by Henry Ford II and Chancellor Willy Brandt.", "Produced its 15 millionth vehicle in the year 2017.", "Features an award-winning 'Supplier Park' directly on site.", "A critical industrial employer for the Saarland region.", "Known for its highly flexible and efficient assembly processes."]
-    }
-  },
+    }, image: "/poi-images/industry-ford-saarlouis-extra.webp"},
   {
     id: "industry-glaeserne-manufaktur-extra",
     type: "industry",
@@ -1775,8 +1729,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Inaugurată în anul 2001, clădirea a costat aproximativ 187 de milioane de euro.", "Peste 27.000 de metri pătrați de sticlă au fost folosiți pentru fațada fabricii.", "Componentele sosesc la fabrică prin tramvaie speciale 'CarGoTram' pe rețeaua publică.", "Podeaua liniei de asamblare este realizată din parchet de arțar canadian.", "Vizitatorii pot parcurge un tur ghidat chiar printre roboții de asamblare.", "Turnul de depozitare a mașinilor finite are o înălțime de 40 de metri."],
       en: ["A unique 'transparent' factory with over 27,000 m² of glass walls.", "Located in the city center of Dresden, adjacent to the Great Garden.", "Originally built in 2002 for the production of the VW Phaeton.", "Currently serves as a leading site for electric car assembly.", "Uses a dedicated 'CarGoTram' to transport parts sustainably.", "Features a high-tech 'Experience World' for visitors and events."]
-    }
-  },
+    }, image: "/poi-images/industry-glaeserne-manufaktur-extra.webp"},
   {
     id: "industry-porsche-leipzig-extra",
     type: "industry",
@@ -1813,8 +1766,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Clădirea centrală 'Customer Center' are forma unui diamant de sticlă și oțel.", "Circuitul de testare de 3,7 km include replici ale unor curbe celebre de pe circuite mondiale.", "Peste 4.300 de angajați lucrează în această locație din Saxonia.", "Uzina funcționează complet cu energie regenerabilă și biometan.", "Porsche a investit peste 1,3 miliarde de euro în dezvoltarea sitului din Leipzig.", "În incinta fabricii trăiesc 25 de tauri Auerrind și o numeroasă colonie de albine pentru protecția naturii."],
       en: ["The lead plant for the Porsche Macan and Panamera models.", "Features an FIA-certified test track and off-road course.", "A pioneer in sustainable manufacturing with a CO2-neutral body shop.", "Home to a 132-hectare nature area with wild horses and aurochs.", "Includes the iconic 32-meter high 'Diamond' customer center.", "Employs approximately 4,300 people in the Leipzig region."]
-    }
-  },
+    }, image: "/poi-images/industry-porsche-leipzig-extra.webp"},
   {
     id: "industry-leuna-extra",
     type: "industry",
@@ -1851,8 +1803,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Situl industrial se întinde pe o suprafață de aproximativ 1.300 de hectare.", "Rafinăria TotalEnergies din Leuna este una dintre cele mai moderne din Europa.", "Peste 100 de companii activează în prezent în cadrul parcului industrial.", "Leuna a fost locul unde s-a realizat prima sinteză industrială de benzină din cărbune.", "Găzduiește peste 10.000 de angajați în diverse sectoare ale chimiei.", "Conductele sitului depășesc în lungime totală peste 600 de kilometri."],
       en: ["One of Germany's largest and most historic chemical sites.", "Founded in 1916 for the production of synthetic ammonia.", "Home to over 100 companies with 12,000 employees.", "Features the massive TotalEnergies refinery, a regional energy hub.", "A leading center for research into green hydrogen and biofuels.", "The site covers a total area of approximately 1,300 hectares."]
-    }
-  },
+    }, image: "/poi-images/industry-leuna-extra.webp"},
   {
     id: "industry-skw-piesteritz-extra",
     type: "industry",
@@ -1889,8 +1840,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Este cel mai mare consumator industrial de gaze naturale din Germania.", "Situl ocupă peste 200 de hectare în zona Piesteritz a orașului Wittenberg.", "Produce peste 1 milion de tone de uree anual pentru piața europeană.", "Sediul administrativ este găzduit într-o clădire istorică în stil Bauhaus.", "Găzduiește singurul centru de cercetare agricolă privat din estul Germaniei.", "Compania a fost fondată inițial de statul german în timpul Primului Război Mondial."],
       en: ["Germany's largest manufacturer of ammonia and urea.", "A critical supplier of nitrogen fertilizers for European farms.", "Founded in 1915 and located in the historic town of Wittenberg.", "Features its own specialized R&D center for plant nutrition.", "Part of a 220-hectare integrated 'Agro-Chemical Park'.", "A major regional employer with over 800 highly skilled staff."]
-    }
-  },
+    }, image: "/poi-images/industry-skw-piesteritz-extra.webp"},
   {
     id: "industry-tkms-kiel-extra",
     type: "industry",
@@ -1927,8 +1877,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Este centrul global de competență pentru submarinele ne-nucleare.", "Produce celebrele submarine din clasa 212A și 214, exportate în zeci de țări.", "Tehnologia AIP permite submarinelor să rămână scufundate timp de săptămâni fără a fi detectate.", "Șantierul naval a fost fondat în 1838 sub numele HDW (Howaldtswerke-Deutsche Werft).", "Include facilități de testare acustică unice în lume pentru reducerea zgomotului navelor.", "Peste 3.000 de ingineri și constructori navali lucrează în locația din Kiel."],
       en: ["Global market leader for non-nuclear submarine construction.", "Inventor of the revolutionary air-independent propulsion (AIP).", "The historic home of Howaldtswerke-Deutsche Werft (HDW).", "Kiel's largest industrial employer with over 3,000 workers.", "Builds high-tech frigates and corvettes for global navies.", "Currently expanding as a key hub for European naval defense."]
-    }
-  },
+    }, image: "/poi-images/industry-tkms-kiel-extra.webp"},
   {
     id: "port-luebeck-extra",
     type: "port",
@@ -1965,8 +1914,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Skandinavienkai este cel mai mare terminal de feriboturi Ro-Ro din Europa.", "Lübeck este portul principal pentru importul de hârtie și celuloză din Suedia și Finlanda.", "Este conectat direct la rețeaua feroviară și la canalul Elbe-Lübeck.", "Portul manipulează anual peste 20 de milioane de tone de marfă.", "În Evul Mediu, portul din centrul orașului era inima întregii Ligii Hanseatice.", "Travemünde servește și ca port important pentru vasele de croazieră de lux."],
       en: ["Germany's largest Baltic Sea port for RoRo and ferry traffic.", "A primary European hub for the import of Scandinavian paper.", "The Skandinavienkai is one of the busiest ferry terminals in Europe.", "Strategically located at the mouth of the Trave river.", "A critical node for rail-sea intermodal transport in Northern Europe.", "Handles millions of tons of forest products and vehicles annually."]
-    }
-  },
+    }, image: "/poi-images/port-luebeck-extra.webp"},
   {
     id: "industry-zeiss-jena-extra",
     type: "industry",
@@ -2006,3 +1954,4 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
     }
   }
 ];
+

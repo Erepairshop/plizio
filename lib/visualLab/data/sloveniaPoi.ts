@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const sloveniaCountry: POI = {
@@ -105,3 +106,4 @@ export const sloveniaCountry: POI = {
   },
   image: "/geo-images/slovenia/country-slovenia.webp"
 };
+

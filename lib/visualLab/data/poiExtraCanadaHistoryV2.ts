@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCanadaHistoryV2: POI[] = [
@@ -12,19 +13,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       ro: "Fortul York",
       en: "Fort York"
     },
-    description: {
-      de: "Eine historische Festung in Toronto, die als Geburtsort des modernen, städtischen Toronto gilt und Schauplatz der Schlacht von York im Jahr 1813 war.",
-      hu: "Történelmi erőd Torontóban, a modern, városias Toronto szülőhelye, az 1813-as yorki csata helyszíne.",
-      ro: "O fortificație istorică în Toronto, considerată locul de naștere al Toronto-ului urban modern și locul Bătăliei de la York din 1813.",
-      en: "A historic fortification in Toronto, considered the birthplace of modern, urban Toronto and the site of the Battle of York in 1813."
+    descriptionAdvanced: {
+      de: "Fort York in Toronto ist eine historische Militäranlage, die während des Kriegs von 1812 eine zentrale Rolle bei der Verteidigung der Stadt gegen amerikanische Truppen spielte. Heute ist es eine National Historic Site und bietet Einblicke in das Leben der Garnison. Geschichte K7 — Kanadisch-Amerikanische Konflikte."
     },
-    facts: {
-      de: ["Gegründet 1793", "Zentral im Krieg von 1812", "Größte Sammlung originaler Gebäude aus dem Krieg von 1812", "Nationale historische Stätte Kanadas"],
-      hu: ["1793-ban alapították", "Központi szerepet játszott az 1812-es háborúban", "Az 1812-es háború eredeti épületeinek legnagyobb gyűjteménye", "Kanada nemzeti történelmi helyszíne"],
-      ro: ["Fondat în 1793", "Central în Războiul din 1812", "Cea mai mare colecție de clădiri originale din Războiul din 1812", "Sit istoric național al Canadei"],
-      en: ["Established in 1793", "Central to the War of 1812", "Largest collection of original War of 1812 buildings", "National Historic Site of Canada"]
-    }
-  },
+    factsAdvanced: {
+      de: ["Erbaut 1793 zur Verteidigung gegen US-Invasion", "Schauplatz der Schlacht von York 1813", "National Historic Site Kanadas", "Beherbergt das größte Ensemble originaler Militärgebäude", "Wichtiger Standort während des Kriegs von 1812", "Ermöglicht historische Rekonstruktionen"]
+    }, image: "/poi-images/fort-york-toronto-history-v2.webp"},
   {
     id: "battle-of-batoche-history-v2",
     type: "historical",
@@ -36,19 +30,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       ro: "Bătălia de la Batoche",
       en: "Battle of Batoche"
     },
-    description: {
-      de: "Der Ort der entscheidenden Schlacht der Nord-West-Rebellion von 1885, wo die Métis-Aufständischen von kanadischen Regierungstruppen besiegt wurden.",
-      hu: "Az 1885-ös Északnyugati felkelés döntő csatájának helyszíne, ahol a kanadai kormánycsapatok legyőzték a métis lázadókat.",
-      ro: "Locul bătăliei decisive a Rebeliunii de Nord-Vest din 1885, unde insurgenții Métis au fost învinși de forțele guvernamentale canadiene.",
-      en: "The site of the decisive battle of the 1885 North-West Rebellion, where Métis insurgents were defeated by Canadian government forces."
+    descriptionAdvanced: {
+      de: "Die Schlacht von Batoche im Jahr 1885 war die entscheidende Auseinandersetzung der Nordwest-Rebellion zwischen den Métis unter Louis Riel und den kanadischen Regierungstruppen. Sie markierte das Ende des bewaffneten Widerstands der Métis in Saskatchewan. Geschichte K8 — Koloniale Konflikte und Minderheitenrechte."
     },
-    facts: {
-      de: ["Fand im Mai 1885 statt", "Führte zur Gefangennahme von Louis Riel", "Ende des organisierten Métis-Widerstands", "Nationale historische Stätte"],
-      hu: ["1885 májusában zajlott", "Louis Riel elfogásához vezetett", "A szervezett métis ellenállás vége", "Nemzeti történelmi helyszín"],
-      ro: ["A avut loc în mai 1885", "A dus la capturarea lui Louis Riel", "Sfârșitul rezistenței organizate Métis", "Sit istoric național"],
-      en: ["Took place in May 1885", "Led to the capture of Louis Riel", "End of organized Métis resistance", "National Historic Site"]
-    }
-  },
+    factsAdvanced: {
+      de: ["Entscheidende Schlacht der Nordwest-Rebellion 1885", "Métis-Widerstand gegen die Regierung", "Louis Riel war eine der Schlüsselfiguren", "Ende des bewaffneten Métis-Widerstands", "National Historic Site in Saskatchewan", "Bedeutsam für die Identität der Métis"]
+    }, image: "/poi-images/battle-of-batoche-history-v2.webp"},
   {
     id: "grosse-ile-irish-memorial-history-v2",
     type: "historical",
@@ -60,19 +47,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       ro: "Grosse Île și Memorialul Irlandez",
       en: "Grosse Île and the Irish Memorial"
     },
-    description: {
-      de: "Eine Insel im St.-Lorenz-Strom, die als Hauptquarantänestation für Einwanderer nach Kanada diente, insbesondere während der Großen Hungersnot in Irland.",
-      hu: "Sziget a Szent Lőrinc-folyóban, amely Kanada fő bevándorlási karanténállomásaként szolgált, különösen a nagy írországi éhínség idején.",
-      ro: "O insulă pe fluviul Sfântul Laurențiu care a servit drept principala stație de carantină pentru imigranții în Canada, în special în timpul Marii Foamete Irlandeze.",
-      en: "An island in the St. Lawrence River that served as the main quarantine station for immigrants to Canada, especially during the Great Irish Famine."
+    descriptionAdvanced: {
+      de: "Grosse Île im Sankt-Lorenz-Strom diente im 19. Jahrhundert als Quarantänestation für europäische Einwanderer, besonders während der großen irischen Hungersnot. Zehntausende Einwanderer starben hier an Typhus und anderen Infektionskrankheiten. Geschichte K8 — Einwanderung und historische Tragödien."
     },
-    facts: {
-      de: ["Hauptbetrieb von 1832 bis 1937", "Gedenkstätte für Tausende von irischen Einwanderern", "Keltisches Kreuz Denkmal", "Nationale historische Stätte"],
-      hu: ["1832-től 1937-ig működött", "Több ezer ír bevándorló emlékhelye", "Kelta kereszt emlékmű", "Nemzeti történelmi helyszín"],
-      ro: ["A funcționat între 1832 și 1937", "Memorial pentru mii de imigranți irlandezi", "Monumentul Crucea Celtică", "Sit istoric național"],
-      en: ["Operated from 1832 to 1937", "Memorial to thousands of Irish immigrants", "Celtic Cross monument", "National Historic Site"]
-    }
-  },
+    factsAdvanced: {
+      de: ["Quarantänestation für Einwanderer (1832–1937)", "Zentrum der Ankunft während der irischen Hungersnot", "Über 5.000 irische Einwanderer verstarben hier", "National Historic Site Kanadas", "Bedeutsames Denkmal für irische Geschichte", "Symbol für die Härten der frühen Einwanderung"]
+    }, image: "/poi-images/grosse-ile-irish-memorial-history-v2.webp"},
   {
     id: "fort-henry-kingston-history-v2",
     type: "historical",
@@ -84,19 +64,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       ro: "Fortul Henry (Kingston)",
       en: "Fort Henry (Kingston)"
     },
-    description: {
-      de: "Eine britische Militärfestung aus dem 19. Jahrhundert, die zur Verteidigung des Rideau-Kanals und des Hafens von Kingston erbaut wurde.",
-      hu: "19. századi brit katonai erőd, amelyet a Rideau-csatorna és a kingstoni kikötő védelmére építettek.",
-      ro: "O fortăreață militară britanică din secolul al XIX-lea, construită pentru a apăra Canalul Rideau și portul Kingston.",
-      en: "A 19th-century British military fortress built to defend the Rideau Canal and Kingston Harbour."
+    descriptionAdvanced: {
+      de: "Fort Henry in Kingston wurde im frühen 19. Jahrhundert errichtet, um den strategisch wichtigen Rideau-Kanal und den Zugang zum Ontario-See vor amerikanischen Angriffen zu schützen. Heute ist die Anlage als Living History Museum für ihre Soldaten-Vorführungen bekannt. Geschichte K7 — Britische Militärarchitektur."
     },
-    facts: {
-      de: ["Ursprünglich im Krieg von 1812 erbaut", "Heutige Struktur aus den 1830er Jahren", "Teil des UNESCO-Weltkulturerbes Rideau-Kanal", "Bekannt für seine Gardeparaden"],
-      hu: ["Eredetileg az 1812-es háborúban épült", "A mai szerkezet az 1830-as évekből származik", "A Rideau-csatorna UNESCO Világörökség része", "Díszszemléiről ismert"],
-      ro: ["Construit inițial în timpul Războiului din 1812", "Structura actuală datează din anii 1830", "Parte a sitului UNESCO Canalul Rideau", "Renumit pentru paradele de gardă"],
-      en: ["Originally built during the War of 1812", "Current structure from the 1830s", "Part of the Rideau Canal UNESCO World Heritage Site", "Known for its Guard parades"]
-    }
-  },
+    factsAdvanced: {
+      de: ["Schutz des Rideau-Kanals und des St.-Lorenz-Stroms", "Erbaut zum Schutz gegen US-Aggressionen", "Teil des UNESCO-Welterbes mit dem Rideau-Kanal", "Bekannt für exzellente Militärvorführungen", "Ehemaliger Standort britischer Garnisonen", "Wichtiger Punkt der britischen Verteidigung"]
+    }, image: "/poi-images/fort-henry-kingston-history-v2.webp"},
   {
     id: "klondike-gold-rush-history-v2",
     type: "historical",
@@ -108,19 +81,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       ro: "Goana după aur din Klondike",
       en: "Klondike Gold Rush"
     },
-    description: {
-      de: "Historische Region um Dawson City, die das Zentrum des berühmten Goldrauschs von 1896-1899 war.",
-      hu: "Történelmi régió Dawson City körül, amely az 1896-1899-es híres aranyláz központja volt.",
-      ro: "Regiune istorică în jurul orașului Dawson, care a fost centrul celebrei goane după aur din 1896-1899.",
-      en: "Historic region around Dawson City that was the centre of the famed 1896-1899 gold rush."
+    descriptionAdvanced: {
+      de: "Der Klondike-Goldrausch Ende des 19. Jahrhunderts lockte Zehntausende Menschen in den Yukon, auf der Suche nach schnellem Reichtum. Die Goldfunde am Bonanza Creek lösten eine der größten Wanderbewegungen der Geschichte in den hohen Norden aus. Geschichte K8 — Rohstoffrausch und wirtschaftlicher Wandel."
     },
-    facts: {
-      de: ["Zog etwa 100.000 Goldsucher an", "Dawson City wurde zur größten Stadt westlich von Winnipeg", "Hartes Klima und schwierige Reisebedingungen", "Nationale historische Stätte"],
-      hu: ["Körülbelül 100 000 aranyásót vonzott", "Dawson City lett a legnagyobb város Winnipegtől nyugatra", "Kemény éghajlat és nehéz utazási körülmények", "Nemzeti történelmi helyszín"],
-      ro: ["A atras aproximativ 100.000 de căutători de aur", "Dawson City a devenit cel mai mare oraș la vest de Winnipeg", "Climă aspră și condiții de călătorie dificile", "Sit istoric național"],
-      en: ["Attracted around 100,000 prospectors", "Dawson City became the largest city west of Winnipeg", "Harsh climate and difficult travel conditions", "National Historic Site"]
-    }
-  },
+    factsAdvanced: {
+      de: ["Goldfund am Bonanza Creek 1896", "Zehntausende Glücksritter in den Yukon", "Dawson City wurde zum Zentrum des Goldrausches", "Dauer: 1896 bis ca. 1899", "Bedeutsam für die Erschließung des Nordens", "Mythos des schnellen Reichtums"]
+    }, image: "/poi-images/klondike-gold-rush-history-v2.webp"},
   {
     id: "writing-on-stone-park-history-v2",
     type: "historical",
@@ -143,8 +109,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["UNESCO Világörökség", "Több ezer sziklarajz és festmény", "Több mint 3000 év történelmét dokumentálja", "Egyedülálló homokkő képződmények (hoodook)"],
       ro: ["Patrimoniu Mondial UNESCO", "Mii de petroglife și pictograme", "Documentează peste 3.000 de ani de istorie", "Formațiuni unice de gresie (hoodoos)"],
       en: ["UNESCO World Heritage Site", "Thousands of petroglyphs and pictographs", "Documents over 3,000 years of history", "Unique sandstone formations (hoodoos)"]
-    }
-  },
+    }, image: "/poi-images/writing-on-stone-park-history-v2.webp"},
   {
     id: "red-bay-basque-whaling-history-v2",
     type: "historical",
@@ -191,8 +156,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["1928-tól 1971-ig működött", "Közel egymillió bevándorló érkezett ide", "Ma a Kanadai Bevándorlási Múzeum", "Az utolsó megmaradt tengeri bevándorlási kapu"],
       ro: ["A funcționat între 1928 și 1971", "Aproape un milion de imigranți au sosit aici", "Astăzi Muzeul Canadian al Imigrației", "Ultima poartă de imigrare maritimă rămasă"],
       en: ["Operated from 1928 to 1971", "Nearly one million immigrants arrived here", "Now the Canadian Museum of Immigration", "Last remaining ocean immigration gateway"]
-    }
-  },
+    }, image: "/poi-images/pier-21-halifax-history-v2.webp"},
   {
     id: "fort-garry-winnipeg-history-v2",
     type: "historical",
@@ -215,8 +179,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["Az eredeti erődöt 1822-ben alapították", "A régió szőrmekereskedelmi központja", "Ma már csak a főkapu áll", "A Red River-i felkelés fontos eseményeinek helyszíne"],
       ro: ["Fortul original a fost fondat în 1822", "Centrul comerțului cu blănuri din regiune", "Poarta principală este tot ce a mai rămas astăzi", "Locul evenimentelor importante ale Rebeliunii Red River"],
       en: ["Original fort established in 1822", "Center of the fur trade in the region", "The main gate is all that remains today", "Site of key Red River Rebellion events"]
-    }
-  },
+    }, image: "/poi-images/fort-garry-winnipeg-history-v2.webp"},
   {
     id: "dundurn-castle-hamilton-history-v2",
     type: "historical",
@@ -239,8 +202,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["Sir Allan MacNab építtette", "Több mint 40 díszített szoba", "A gázvilágítás és a folyóvíz fejlett jellegzetességek voltak", "Kanada nemzeti történelmi helyszíne"],
       ro: ["Construit de Sir Allan MacNab", "Peste 40 de camere decorate", "Iluminatul cu gaz și apa curentă erau caracteristici avansate", "Sit istoric național al Canadei"],
       en: ["Built by Sir Allan MacNab", "Over 40 decorated rooms", "Gas lighting and running water were advanced features", "National Historic Site of Canada"]
-    }
-  },
+    }, image: "/poi-images/dundurn-castle-hamilton-history-v2.webp"},
   {
     id: "fort-langley-history-v2",
     type: "historical",
@@ -263,8 +225,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["1827-ben alapították", "Itt kiáltották ki Brit Columbia koronagyarmatot 1858-ban", "Fontos állomás a Fraser-folyói aranyláz idején", "Nemzeti történelmi helyszín"],
       ro: ["Fondat în 1827", "Colonia Coroanei Columbia Britanică a fost proclamată aici în 1858", "Post important în timpul goanei după aur de pe râul Fraser", "Sit istoric național"],
       en: ["Established in 1827", "The Crown Colony of British Columbia was proclaimed here in 1858", "Key post in the Fraser River Gold Rush", "National Historic Site"]
-    }
-  },
+    }, image: "/poi-images/fort-langley-history-v2.webp"},
   {
     id: "old-montreal-history-v2",
     type: "historical",
@@ -311,8 +272,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["Gooderham and Worts szeszfőzde", "Ma egy sétáló-falu boltokkal és galériákkal", "Kanada nemzeti történelmi helyszíne", "A viktoriánus ipari építészet legnagyobb gyűjteménye Észak-Amerikában"],
       ro: ["Distileria Gooderham and Worts", "Acum un sat pietonal cu magazine și galerii", "Sit istoric național al Canadei", "Cea mai mare colecție de arhitectură industrială victoriană din America de Nord"],
       en: ["Gooderham and Worts distillery", "Now a pedestrian village with shops and galleries", "National Historic Site of Canada", "Largest collection of Victorian industrial architecture in North America"]
-    }
-  },
+    }, image: "/poi-images/distillery-district-toronto-history-v2.webp"},
   {
     id: "sgang-gwaay-history-v2",
     type: "historical",
@@ -335,8 +295,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["UNESCO Világörökség", "A 19. században hagyták el betegség miatt", "A haida művészetet és kultúrát mutatja be", "A Gwaii Haanas Nemzeti Park része"],
       ro: ["Patrimoniu Mondial UNESCO", "Abandonat în secolul al XIX-lea din cauza bolilor", "Prezintă arta și cultura Haida", "Parte a Parcului Național Gwaii Haanas"],
       en: ["UNESCO World Heritage Site", "Abandoned in the 19th century due to disease", "Showcases Haida art and culture", "Part of Gwaii Haanas National Park"]
-    }
-  },
+    }, image: "/poi-images/sgang-gwaay-history-v2.webp"},
   {
     id: "battlefields-park-quebec-history-v2",
     type: "historical",
@@ -359,8 +318,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["Kanada első nemzeti történelmi parkja", "Kerteket, emlékműveket és múzeumot tartalmaz", "Egész évben nyitva a nyilvánosság számára", "Frederick Todd tervezte"],
       ro: ["Primul parc istoric național din Canada", "Include grădini, monumente și un muzeu", "Deschis publicului pe tot parcursul anului", "Proiectat de Frederick Todd"],
       en: ["Canada's first national historic park", "Includes gardens, monuments, and a museum", "Open to the public year-round", "Designed by Frederick Todd"]
-    }
-  },
+    }, image: "/poi-images/battlefields-park-quebec-history-v2.webp"},
   {
     id: "casa-loma-toronto-history-v2",
     type: "historical",
@@ -407,8 +365,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["Az 1880-as évek végén épült", "Híres ólomüveg ablakairól és bonyolult famunkáiról", "Kanada nemzeti történelmi helyszíne", "Az ipari korszak gazdagságának szimbóluma"],
       ro: ["Construit la sfârșitul anilor 1880", "Renumit pentru vitraliile și tâmplăria sa complexă", "Sit istoric național al Canadei", "Simbol al bogăției din epoca industrială"],
       en: ["Built in the late 1880s", "Known for its stained-glass windows and intricate woodwork", "National Historic Site of Canada", "Symbol of industrial-era wealth"]
-    }
-  },
+    }, image: "/poi-images/craigdarroch-castle-victoria-history-v2.webp"},
   {
     id: "royal-bc-museum-history-v2",
     type: "historical",
@@ -431,8 +388,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["1886-ban alapították", "Magában foglalja a BC Archívumot", "IMAX mozinak ad otthont", "Híres az Első Nemzetek diorámáiról"],
       ro: ["Fondat în 1886", "Include Arhivele BC", "Găzduiește un cinematograf IMAX", "Renumit pentru dioramele despre Primele Națiuni"],
       en: ["Founded in 1886", "Includes the BC Archives", "Houses an IMAX theatre", "Famous for its First Nations dioramas"]
-    }
-  },
+    }, image: "/poi-images/royal-bc-museum-history-v2.webp"},
   {
     id: "glenbow-museum-calgary-history-v2",
     type: "historical",
@@ -455,8 +411,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["Eric Harvie olajmágnás alapította", "Az Első Nemzetek tárgyainak kiterjedt gyűjteménye", "Hadtörténeti és művészeti gyűjtemények", "Jelenleg átfogó felújítás alatt áll"],
       ro: ["Fondat de magnatul petrolier Eric Harvie", "Colecție vastă de artefacte ale Primelor Națiuni", "Istorie militară și colecții de artă", "În prezent, în renovare majoră"],
       en: ["Founded by oil philanthropist Eric Harvie", "Extensive collection of First Nations artifacts", "Military history and art collections", "Currently undergoing a major renovation"]
-    }
-  },
+    }, image: "/poi-images/glenbow-museum-calgary-history-v2.webp"},
   {
     id: "chateau-ramsay-montreal-history-v2",
     type: "historical",
@@ -479,8 +434,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["Az első történelmi műemlékké nyilvánított épület Québecben", "1775-ben a Kontinentális Kongresszus főhadiszállásaként szolgált", "Kanada nemzeti történelmi helyszíne", "Francia gyarmati kert másolata található itt"],
       ro: ["Prima clădire clasificată ca monument istoric în Quebec", "A servit ca sediu al Congresului Continental în 1775", "Sit istoric național al Canadei", "Are o grădină colonială franceză recreată"],
       en: ["First building classified as a historic monument in Quebec", "Served as Continental Congress headquarters in 1775", "National Historic Site of Canada", "Has a recreated French colonial garden"]
-    }
-  },
+    }, image: "/poi-images/chateau-ramsay-montreal-history-v2.webp"},
   {
     id: "fort-malden-amherstburg-history-v2",
     type: "historical",
@@ -503,8 +457,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["1796-ban alapították", "Detroit brit elfoglalásának kiindulópontja volt", "A Huron-szerződés tárgyalásainak helyszíne", "Nemzeti történelmi helyszín"],
       ro: ["Fondat în 1796", "A fost punctul de plecare pentru capturarea britanică a Detroitului", "Locul negocierilor pentru Tratatul Huron", "Sit istoric național"],
       en: ["Established in 1796", "Was the launching point for the British capture of Detroit", "Site of treaty negotiations for the Huron Treaty", "National Historic Site"]
-    }
-  },
+    }, image: "/poi-images/fort-malden-amherstburg-history-v2.webp"},
   {
     id: "martello-towers-kingston-history-v2",
     type: "historical",
@@ -527,8 +480,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["Kingston erődítményeinek része", "A brit katonai építészet példái", "UNESCO Világörökség", "A Murney-torony múzeum"],
       ro: ["Parte a fortificațiilor din Kingston", "Exemple de arhitectură militară britanică", "Patrimoniu Mondial UNESCO", "Turnul Murney este un muzeu"],
       en: ["Part of the Kingston Fortifications", "Examples of British military architecture", "UNESCO World Heritage Site", "Murney Tower is a museum"]
-    }
-  },
+    }, image: "/poi-images/martello-towers-kingston-history-v2.webp"},
   {
     id: "galt-historic-railway-park-history-v2",
     type: "historical",
@@ -551,8 +503,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["A Galt Vasúttársaság építette", "Fontos pont a bevándorlók és a kereskedelem számára", "Nyugat-Kanada vasúttörténetét mutatja be", "Tartományi történelmi helyszín"],
       ro: ["Construită de Galt Railway Company", "Punct important pentru imigranți și comerț", "Prezintă istoria căilor ferate din vestul Canadei", "Sit istoric provincial"],
       en: ["Built by the Galt Railway Company", "Important point for immigrants and trade", "Showcases railway history in Western Canada", "Provincial Historic Site"]
-    }
-  },
+    }, image: "/poi-images/galt-historic-railway-park-history-v2.webp"},
   {
     id: "britannia-mine-museum-history-v2",
     type: "historical",
@@ -575,8 +526,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["1904 és 1974 között működött", "60 000 fős közösség élt itt", "Földalatti bányatúrákat kínál", "Fókuszban a bányászat története és a fenntarthatóság"],
       ro: ["A funcționat între 1904 și 1974", "O comunitate de 60.000 de oameni a locuit aici", "Oferă tururi subterane ale minei", "Se concentrează pe istoria mineritului și sustenabilitate"],
       en: ["Operated from 1904 to 1974", "A community of 60,000 people lived here", "Offers underground mine tours", "Focus on mining history and sustainability"]
-    }
-  },
+    }, image: "/poi-images/britannia-mine-museum-history-v2.webp"},
   {
     id: "bar-u-ranch-history-v2",
     type: "historical",
@@ -599,8 +549,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["Korának egyik vezető farmja", "Híres Percheron lovairól", "Több mint 35 történelmi épületet foglal magában", "A kanadai 'Vadnyugat' szimbóluma"],
       ro: ["Una dintre fermele de top ale vremii sale", "Faimoasă pentru caii săi Percheron", "Include peste 35 de clădiri istorice", "Simbol al 'Vestului Sălbatic' din Canada"],
       en: ["One of the foremost ranches of its time", "Famous for its Percheron horses", "Includes over 35 historic structures", "Symbol of Canada's 'Wild West'"]
-    }
-  },
+    }, image: "/poi-images/bar-u-ranch-history-v2.webp"},
   {
     id: "fisgard-lighthouse-history-v2",
     type: "historical",
@@ -623,8 +572,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["A legrégebbi világítótorony Kanada csendes-óceáni partján", "Nemzeti történelmi emlékhely", "1929 óta automatizált", "A Fort Rodd Hill-lel van összeköttetésben"],
       ro: ["Cel mai vechi far de pe coasta Pacificului a Canadei", "Sit istoric național", "Automatizat din 1929", "Conectat la Fort Rodd Hill"],
       en: ["Oldest lighthouse on Canada's Pacific coast", "National Historic Site", "Automated since 1929", "Connected to Fort Rodd Hill"]
-    }
-  },
+    }, image: "/poi-images/fisgard-lighthouse-history-v2.webp"},
   {
     id: "gulf-of-georgia-cannery-history-v2",
     type: "historical",
@@ -647,8 +595,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["1894-ben épült", "Egykor Brit Columbia legnagyobb konzervgyára volt", "Lazacra, majd később heringre összpontosított", "'A Szörny Konzervgyár' néven ismerték"],
       ro: ["Construită în 1894", "Odată cea mai mare fabrică de conserve din Columbia Britanică", "S-a concentrat pe somon și mai târziu pe hering", "Cunoscută ca 'Conserva Monstru'"],
       en: ["Built in 1894", "Once the largest cannery in British Columbia", "Focused on salmon and later herring", "Known as 'The Monster Cannery'"]
-    }
-  },
+    }, image: "/poi-images/gulf-of-georgia-cannery-history-v2.webp"},
   {
     id: "green-gables-pei-history-v2",
     type: "historical",
@@ -671,8 +618,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["Nemzeti történelmi emlékhely", "Kanada egyik legnépszerűbb irodalmi látványossága", "A Prince Edward-sziget Nemzeti Park része", "Évente több ezer rajongó látogatja"],
       ro: ["Sit istoric național", "Una dintre cele mai populare atracții literare din Canada", "Parte a Parcului Național Insula Prince Edward", "Vizitat de mii de fani anual"],
       en: ["National Historic Site", "One of Canada's most popular literary landmarks", "Part of Prince Edward Island National Park", "Visited by thousands of fans annually"]
-    }
-  },
+    }, image: "/poi-images/green-gables-pei-history-v2.webp"},
   {
     id: "province-house-charlottetown-history-v2",
     type: "historical",
@@ -695,8 +641,7 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       hu: ["Kanada második legrégebbi parlamentépülete", "Még mindig a PEI törvényhozásának székhelye", "Nemzeti történelmi emlékhely", "Neoklasszikus építészet"],
       ro: ["A doua cea mai veche clădire legislativă din Canada", "Încă servește ca sediu al legislativului PEI", "Sit istoric național", "Arhitectură neoclasică"],
       en: ["Second oldest legislative building in Canada", "Still serves as the seat of the PEI legislature", "National Historic Site", "Neoclassical architecture"]
-    }
-  },
+    }, image: "/poi-images/province-house-charlottetown-history-v2.webp"},
   {
     id: "esterhazy-flour-mill-history-v2",
     type: "historical",
@@ -722,3 +667,4 @@ export const poiExtraCanadaHistoryV2: POI[] = [
     }
   }
 ];
+

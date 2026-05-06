@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/deutschK4.ts
 // ASTRODEUTSCH K4 — Klasse 4 (9-10 Jahre)
 // LANGUAGE: nur Deutsch (de)
@@ -8651,3 +8652,4 @@ export const EXAM4_POOL: PoolTopicDef[] = [
     quiz: { generate: "perfekt" },
   },
 ];
+

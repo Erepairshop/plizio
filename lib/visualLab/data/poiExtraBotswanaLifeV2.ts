@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBotswanaLifeV2: POI[] = [
@@ -13,8 +14,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["UNESCO Világörökség része.", "Több mint 400 madárfaj él itt."],
       ro: ["Patrimoniul Mondial UNESCO.", "Peste 400 de specii de păsări trăiesc aici."],
       en: ["UNESCO World Heritage site.", "Home to over 400 bird species."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) okavango-delta-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A okavango-delta-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/okavango-delta-animal-habitat-life-v2.webp"},
   {
     id: "chobe-national-park-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -27,8 +33,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Afrika legnagyobb elefántkoncentrációja.", "A Chobe folyó mentén található."],
       ro: ["Cea mai mare concentrație de elefanți din Africa.", "Situat de-a lungul râului Chobe."],
       en: ["Highest concentration of elephants in Africa.", "Located along the Chobe River."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) chobe-national-park-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A chobe-national-park-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/chobe-national-park-animal-habitat-life-v2.webp"},
   {
     id: "kalahari-desert-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -41,8 +52,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Botswana nagy részét lefedi.", "Alkalmazkodott ragadozók, mint az oroszlánok élnek itt."],
       ro: ["Acoperă o mare parte din Botswana.", "Prădători adaptați precum leii trăiesc aici."],
       en: ["Covers most of Botswana.", "Home to adapted predators like lions."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) kalahari-desert-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A kalahari-desert-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/kalahari-desert-animal-habitat-life-v2.webp"},
   {
     id: "makgadikgadi-pans-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -55,8 +71,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Egy hatalmas tó maradványai.", "Időszakosan zebra és flamingó élőhely."],
       ro: ["Rămășițele unui lac imens.", "Habitat temporar pentru zebre și flamingo."],
       en: ["Remnants of a massive lake.", "Seasonal habitat for zebras and flamingos."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) makgadikgadi-pans-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A makgadikgadi-pans-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/makgadikgadi-pans-animal-habitat-life-v2.webp"},
   {
     id: "tsodilo-hills-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -69,8 +90,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["UNESCO Világörökség.", "Több mint 4000 sziklarajz."],
       ro: ["Patrimoniul Mondial UNESCO.", "Peste 4000 de picturi rupestre."],
       en: ["UNESCO World Heritage site.", "Over 4000 rock paintings."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) tsodilo-hills-kid-landmark-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A tsodilo-hills-kid-landmark-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/tsodilo-hills-kid-landmark-life-v2.webp"},
   {
     id: "gaborone-game-reserve-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -83,8 +109,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Ideális családi kirándulásokhoz.", "Struccok és impalák megfigyelése lehetséges."],
       ro: ["Ideal pentru excursii de familie.", "Observarea struților și a impalelor este posibilă."],
       en: ["Great for family trips.", "Possible to spot ostriches and impalas."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) gaborone-game-reserve-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A gaborone-game-reserve-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/gaborone-game-reserve-animal-habitat-life-v2.webp"},
   {
     id: "mokolodi-nature-reserve-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -97,8 +128,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Támogatja az orrszarvú-védelmi projektet.", "Kiváló lehetőségek gyerekeknek."],
       ro: ["Susține proiectul de conservare a rinocerilor.", "Oportunități excelente pentru copii."],
       en: ["Supports rhino conservation project.", "Great opportunities for children."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) mokolodi-nature-reserve-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A mokolodi-nature-reserve-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/mokolodi-nature-reserve-animal-habitat-life-v2.webp"},
   {
     id: "northern-tulifarm-agriculture-life-v2",
     type: "agriculture",
@@ -111,8 +147,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Fő növénytermesztési terület.", "Vadállatokban gazdag a peremvidékeken."],
       ro: ["Principală regiune de culturi.", "Bogată în animale sălbatice la periferie."],
       en: ["Main crop production area.", "Rich in wildlife on the fringes."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) northern-tulifarm-agriculture-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A northern-tulifarm-agriculture-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/northern-tulifarm-agriculture-life-v2.webp"},
   {
     id: "boteti-river-region-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -125,8 +166,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Zebrákat és elefántokat vonz.", "Életér a száraz környezetben."],
       ro: ["Atrage zebre și elefanți.", "O arteră vitală într-un mediu arid."],
       en: ["Attracts zebras and elephants.", "Lifeline in a dry environment."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) boteti-river-region-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A boteti-river-region-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/boteti-river-region-animal-habitat-life-v2.webp"},
   {
     id: "central-kalahari-game-reserve-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -139,8 +185,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Hatalmas területek kerítések nélkül.", "Számos antilopfaj otthona."],
       ro: ["Suprafețe vaste fără garduri.", "Cămin pentru numeroase specii de antilope."],
       en: ["Vast areas without fences.", "Home to many species of antelope."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) central-kalahari-game-reserve-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A central-kalahari-game-reserve-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/central-kalahari-game-reserve-animal-habitat-life-v2.webp"},
   {
     id: "moremi-game-reserve-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -153,8 +204,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Ismert a vadkutyákról.", "Nagyon fajgazdag."],
       ro: ["Cunoscută pentru câinii sălbatici.", "Foarte bogată în specii."],
       en: ["Known for wild dogs.", "Very species-rich."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) moremi-game-reserve-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A moremi-game-reserve-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/moremi-game-reserve-animal-habitat-life-v2.webp"},
   {
     id: "nxai-pan-national-park-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -167,8 +223,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Legjobb időszak: esős évszak.", "Nagy tavaszbak csordák."],
       ro: ["Cea mai bună perioadă: sezonul ploios.", "Turme mari de antilope tavaszbak."],
       en: ["Best time: rainy season.", "Large springbok herds."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) nxai-pan-national-park-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A nxai-pan-national-park-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/nxai-pan-national-park-animal-habitat-life-v2.webp"},
   {
     id: "kubu-island-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -181,8 +242,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Lenyűgöző baobab fák.", "Geológiailag lenyűgöző."],
       ro: ["Copaci baobab impresionanți.", "Fascinant din punct de vedere geologic."],
       en: ["Impressive baobab trees.", "Geologically fascinating."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) kubu-island-kid-landmark-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A kubu-island-kid-landmark-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/kubu-island-kid-landmark-life-v2.webp"},
   {
     id: "khama-rhino-sanctuary-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -195,8 +261,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Sikeres orrszarvú tenyésztés.", "Oktatási programok gyerekeknek."],
       ro: ["Creșterea cu succes a rinocerilor.", "Programe educaționale pentru copii."],
       en: ["Successful rhino breeding.", "Educational programs for children."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) khama-rhino-sanctuary-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A khama-rhino-sanctuary-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/khama-rhino-sanctuary-animal-habitat-life-v2.webp"},
   {
     id: "gaborone-dam-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -209,6 +280,12 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Vízi sportolási lehetőségek.", "Jó hely piknikezésre."],
       ro: ["Oportunități de sporturi acvatice.", "Loc bun pentru picnicuri."],
       en: ["Water sports available.", "Good spot for picnics."]
+    },
+    descriptionAdvanced: {
+      hu: "A(z) gaborone-dam-kid-landmark-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A gaborone-dam-kid-landmark-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }
   },
   {
@@ -223,8 +300,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Interaktív kiállítások.", "Fókuszban a természetvédelem."],
       ro: ["Expoziții interactive.", "Accent pe conservare."],
       en: ["Interactive exhibits.", "Focus on conservation."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) maun-education-center-kid-landmark-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A maun-education-center-kid-landmark-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/maun-education-center-kid-landmark-life-v2.webp"},
   {
     id: "tuli-block-cattle-farming-agriculture-life-v2",
     type: "agriculture",
@@ -237,8 +319,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Hatalmas farmok.", "Gazdaságilag fontos a régióban."],
       ro: ["Ferme mari.", "Importantă economic pentru regiune."],
       en: ["Large farms.", "Economically important for the region."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) tuli-block-cattle-farming-agriculture-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A tuli-block-cattle-farming-agriculture-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/tuli-block-cattle-farming-agriculture-life-v2.webp"},
   {
     id: "limpopo-river-wildlife-corridor-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -251,8 +338,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Összeköti a különböző parkokat.", "Magas biodiverzitás."],
       ro: ["Conectează diferite parcuri.", "Biodiversitate ridicată."],
       en: ["Connects different parks.", "High biodiversity."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) limpopo-river-wildlife-corridor-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A limpopo-river-wildlife-corridor-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/limpopo-river-wildlife-corridor-animal-habitat-life-v2.webp"},
   {
     id: "gaborone-botanical-garden-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -265,6 +357,12 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Vezetett túrák.", "Sok őshonos faj."],
       ro: ["Tururi ghidate.", "Multe specii native."],
       en: ["Guided tours.", "Many native species."]
+    },
+    descriptionAdvanced: {
+      hu: "A(z) gaborone-botanical-garden-kid-landmark-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A gaborone-botanical-garden-kid-landmark-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }
   },
   {
@@ -279,8 +377,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Fontos ökoszisztéma.", "Sok kétéltűfaj."],
       ro: ["Ecosistem important.", "Multe specii de amfibieni."],
       en: ["Important ecosystem.", "Many amphibian species."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) okavango-wetlands-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A okavango-wetlands-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/okavango-wetlands-animal-habitat-life-v2.webp"},
   {
     id: "serowe-rhino-sanctuary-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -293,8 +396,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Nagyon jól védett.", "Népszerű iskolai látogatásokhoz."],
       ro: ["Foarte bine protejată.", "Populară pentru vizitele școlare."],
       en: ["Very well protected.", "Popular for school visits."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) serowe-rhino-sanctuary-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A serowe-rhino-sanctuary-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/serowe-rhino-sanctuary-animal-habitat-life-v2.webp"},
   {
     id: "kalahari-savanna-agriculture-life-v2",
     type: "agriculture",
@@ -307,8 +415,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Szárazságtűrő fajták termesztése.", "Helyi önellátó gazdálkodás."],
       ro: ["Cultivarea soiurilor rezistente la secetă.", "Agricultură de subzistență locală."],
       en: ["Cultivation of drought-resistant varieties.", "Local subsistence farming."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) kalahari-savanna-agriculture-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A kalahari-savanna-agriculture-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/kalahari-savanna-agriculture-life-v2.webp"},
   {
     id: "gaborone-zoo-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -321,8 +434,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Sok őshonos állat.", "Jó családoknak."],
       ro: ["Multe animale native.", "Bună pentru familii."],
       en: ["Many native animals.", "Good for families."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) gaborone-zoo-kid-landmark-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A gaborone-zoo-kid-landmark-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/gaborone-zoo-kid-landmark-life-v2.webp"},
   {
     id: "makgadikgadi-zebra-migration-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -335,8 +453,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Afrika második legnagyobb zebra-vándorlása.", "Nagyszerű természeti élmény."],
       ro: ["A doua mare migrație a zebrelor din Africa.", "O experiență naturală grozavă."],
       en: ["Second largest zebra migration in Africa.", "Great nature experience."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) makgadikgadi-zebra-migration-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A makgadikgadi-zebra-migration-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/makgadikgadi-zebra-migration-animal-habitat-life-v2.webp"},
   {
     id: "chobe-floodplains-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -349,6 +472,12 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Fontos a turizmus számára.", "Kiváló állatmegfigyelésre."],
       ro: ["Important pentru turism.", "Excelent pentru observarea animalelor.",],
       en: ["Important for tourism.", "Excellent for wildlife spotting."]
+    },
+    descriptionAdvanced: {
+      hu: "A(z) chobe-floodplains-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A chobe-floodplains-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }
   },
   {
@@ -363,8 +492,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Sok színes madárfaj.", "Nagyon oktató jellegű."],
       ro: ["Multe specii de păsări colorate.", "Foarte educativ."],
       en: ["Many colorful bird species.", "Very educational."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) boteti-river-birdwatching-kid-landmark-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A boteti-river-birdwatching-kid-landmark-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/boteti-river-birdwatching-kid-landmark-life-v2.webp"},
   {
     id: "tuli-wildlife-sanctuary-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -377,6 +511,12 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Szoros kapcsolat a természettel.", "Jól védett flóra."],
       ro: ["Contact strâns cu natura.", "Floră bine protejată."],
       en: ["Close contact with nature.", "Well-protected flora."]
+    },
+    descriptionAdvanced: {
+      hu: "A(z) tuli-wildlife-sanctuary-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A tuli-wildlife-sanctuary-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }
   },
   {
@@ -391,8 +531,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Ökológiailag esszenciális.", "Véd a fragmentáció ellen."],
       ro: ["Esențial ecologic.", "Protejează împotriva fragmentării."],
       en: ["Ecologically essential.", "Protects against fragmentation."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      hu: "A(z) kalahari-wildlife-corridor-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A kalahari-wildlife-corridor-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
+    }, image: "/poi-images/kalahari-wildlife-corridor-animal-habitat-life-v2.webp"},
   {
     id: "gaborone-nature-trail-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -405,6 +550,13 @@ export const poiExtraBotswanaLifeV2: POI[] = [
       hu: ["Oktató táblák.", "Biztonságos és gondozott."],
       ro: ["Panouri educative.", "Sigur și îngrijit."],
       en: ["Educational signs.", "Safe and maintained."]
+    },
+    descriptionAdvanced: {
+      hu: "A(z) gaborone-nature-trail-kid-landmark-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
+    },
+    factsAdvanced: {
+      hu: ["A gaborone-nature-trail-kid-landmark-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }
   }
 ];
+

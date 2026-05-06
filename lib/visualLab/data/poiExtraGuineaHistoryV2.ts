@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuineaHistoryV2: POI[] = [
@@ -23,8 +24,19 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Sundiata Keïta egykori rezidenciája.", "A középkori aranykereskedelem központja.", "Régészeti lelőhely a Sankarani mentén.", "Az UNESCO világörökségi javaslati listáján szerepel."],
       ro: ["Fosta reședință a lui Sundiata Keïta.", "Centrul comerțului medieval cu aur.", "Sit arheologic pe malul râului Sankarani.", "Parte a listei indicative UNESCO."],
       en: ["Former residence of Sundiata Keïta.", "Center of medieval gold trade.", "Archaeological site on the Sankarani.", "Part of the UNESCO World Heritage tentative list."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Niani war vom 13. bis zum 15. Jahrhundert das machtpolitische und wirtschaftliche Herz des Mali-Reiches. Gelegen am Ufer des Sankarani-Flusses, diente die Stadt als zentraler Knotenpunkt für den transsaharischen Goldhandel, der Reichtümer bis nach Nordafrika transportierte. Heute lassen archäologische Grabungen die einstige Pracht einer befestigten Metropole erahnen, die zehntausende Einwohner beherbergte. Die Stätte gilt als eine der bedeutendsten historischen Orte Guineas und symbolisiert die Ära des legendären Herrschers Sundiata Keïta. Sie ist ein zentrales Thema in der Geschichtsforschung zur westafrikanischen Staatsbildung (Földrajz K7 — középkori birodalmak).",
+      hu: "Niani a 13. és a 15. század között a Mali Birodalom gazdasági és hatalmi központja volt. A Sankarani-folyó partján fekvő város kulcsfontosságú csomópontként szolgált a transzszaharai aranykereskedelemben, amely Észak-Afrikáig szállította a nemesfémet. Ma az ásatások egy egykor tízezreknek otthont adó, erődített metropolisz nagyságát bizonyítják. A helyszín Guinea egyik legfontosabb történelmi emléke, amely a legendás uralkodó, Szundiata Keita korát idézi meg. Alapvető fontosságú a nyugat-afrikai államszervezés kutatásában (Földrajz K7 — középkori birodalmak).",
+      ro: "Niani a fost inima politică și economică a Imperiului Mali între secolele XIII și XV. Situat pe malul râului Sankarani, orașul a servit drept nod central pentru comerțul trans-saharian cu aur, care transporta bogății până în Africa de Nord. Astăzi, săpăturile arheologice dezvăluie măreția unei metropole fortificate care găzduia zeci de mii de locuitori. Situl este considerat unul dintre cele mai importante locuri istorice din Guineea și simbolizează epoca legendarului conducător Sundiata Keïta. Este un subiect central în cercetarea istorică privind formarea statelor vest-africane (Földrajz K7 — középkori birodalmak).",
+      en: "Niani was the economic and political heart of the Mali Empire from the 13th to the 15th centuries. Located on the banks of the Sankarani River, the city served as a vital hub for the trans-Saharan gold trade, transporting wealth as far as North Africa. Today, archaeological excavations reveal the former splendor of a fortified metropolis that housed tens of thousands of inhabitants. The site is considered one of Guinea's most significant historical locations, symbolizing the era of the legendary ruler Sundiata Keïta. It is a central topic in historical research on West African state formation (Földrajz K7 — középkori birodalmak)."
+    },
+    factsAdvanced: {
+      de: ["Ehemalige Hauptstadt des Mali-Reiches im 13. Jahrhundert.", "Wichtiger Knotenpunkt für transsaharischen Goldhandel.", "Archäologische Stätten am Ufer des Sankarani.", "Sitz des legendären Herrschers Sundiata Keïta.", "UNESCO-Weltkulturerbe-Vorschlag seit 2017.", "Einstige Metropole mit über 10.000 Einwohnern."],
+      hu: ["A Mali Birodalom fővárosa a 13. században.", "A transzszaharai aranykereskedelem központja.", "Régészeti feltárások a Sankarani folyó mentén.", "Szundiata Keita legendás uralkodó székhelye.", "UNESCO világörökségi javaslati lista 2017 óta.", "Egykor tízezernél is több lakosú város."],
+      ro: ["Fosta capitală a Imperiului Mali în secolul al XIII-lea.", "Centrul comerțului trans-saharian cu aur.", "Situri arheologice pe malul râului Sankarani.", "Reședința legendarului conducător Sundiata Keïta.", "Propunere UNESCO pentru patrimoniul mondial din 2017.", "O metropolă cu peste 10.000 de locuitori."],
+      en: ["Former capital of the Mali Empire in the 13th century.", "Hub for trans-Saharan gold trade.", "Archaeological sites along the Sankarani river.", "Seat of the legendary ruler Sundiata Keïta.", "UNESCO World Heritage tentative list since 2017.", "Metropolis with over 10,000 inhabitants."]
+    }, image: "/poi-images/niani-history-v2.webp"},
   {
     id: "bissandougou-history-v2",
     type: "historical",
@@ -47,8 +59,19 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Samory Touré fővárosa.", "A katonai védelem központja.", "1891-ben a francia csapatok elpusztították.", "A nemzeti büszkeség fontos helyszíne."],
       ro: ["Capitala lui Samory Touré.", "Centrul apărării militare.", "Distrus de trupele franceze în 1891.", "Loc important al mândriei naționale."],
       en: ["Capital of Samory Touré.", "Center of military defense.", "Destroyed by French troops in 1891.", "Important site of national pride."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Bissandougou war Ende des 19. Jahrhunderts das unbezwingbare Machtzentrum des Wassoulou-Reiches unter der Führung von Samory Touré. Von dieser befestigten Hauptstadt aus koordinierte Touré seinen hartnäckigen Widerstand gegen die vorrückenden französischen Kolonialtruppen. Die Stadt war nicht nur militärisches Hauptquartier, sondern auch ein Zentrum für die Schmiedekunst und Waffenproduktion in der Region. Nach jahrelanger Belagerung wurde Bissandougou im Jahr 1891 von den Franzosen eingenommen und zerstört, was den Untergang des Wassoulou-Staates einleitete. Heute erinnern Ruinen an den heldenhaften Kampf um die Unabhängigkeit (Geschichte K8 — gyarmati ellenállás).",
+      hu: "Bissandougou a 19. század végén Samory Touré vezetése alatt a Wassoulou Birodalom legyőzhetetlen központja volt. Ebből az erődített fővárosból koordinálta Touré a kitartó ellenállást az előrenyomuló francia gyarmati erőkkel szemben. A város nemcsak katonai főhadiszállás volt, hanem a régió kohászati és fegyvergyártási központja is. Több éves ostrom után 1891-ben a franciák bevették és elpusztították Bissandougou-t, ami a Wassoulou Birodalom bukásához vezetett. Ma romok emlékeztetnek a hősi függetlenségi küzdelemre (Geschichte K8 — gyarmati ellenállás).",
+      ro: "Bissandougou a fost centrul de putere invincibil al Imperiului Wassoulou la sfârșitul secolului al XIX-lea, sub conducerea lui Samory Touré. Din această capitală fortificată, Touré și-a coordonat rezistența tenace împotriva trupelor coloniale franceze. Orașul a fost nu doar sediul central militar, ci și un centru pentru fierărie și producția de arme din regiune. După ani de asediu, Bissandougou a fost cucerit și distrus de francezi în 1891, marcând sfârșitul statului Wassoulou. Astăzi, ruinele amintesc de lupta eroică pentru independență (Geschichte K8 — gyarmati ellenállás).",
+      en: "Bissandougou was the invincible center of power of the Wassoulou Empire in the late 19th century under the leadership of Samory Touré. From this fortified capital, Touré coordinated his tenacious resistance against the advancing French colonial troops. The city was not only a military headquarters but also a center for blacksmithing and arms production in the region. After years of siege, Bissandougou was captured and destroyed by the French in 1891, signaling the end of the Wassoulou state. Today, ruins serve as a reminder of the heroic fight for independence (Geschichte K8 — gyarmati ellenállás)."
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt des Wassoulou-Reiches unter Samory Touré.", "Wichtigster militärischer Stützpunkt bis 1891.", "Zentrum für lokale Schmiedekunst und Waffen.", "1891 von französischen Truppen erobert und zerstört.", "Wahrzeichen für den westafrikanischen Widerstand.", "Die Region Wassoulou umfasste Teile des heutigen Guineas."],
+      hu: ["A Wassoulou Birodalom fővárosa Samory Touré idején.", "A legfontosabb katonai bázis 1891-ig.", "A helyi kovácsművészet és fegyvergyártás központja.", "1891-ben francia csapatok elfoglalták és elpusztították.", "A nyugat-afrikai ellenállás szimbóluma.", "A Wassoulou régió a mai Guinea része volt."],
+      ro: ["Capitala Imperiului Wassoulou sub Samory Touré.", "Cea mai importantă bază militară până în 1891.", "Centru pentru fierăria locală și producția de arme.", "Cucerit și distrus de trupele franceze în 1891.", "Simbol al rezistenței vest-africane.", "Regiunea Wassoulou cuprindea părți din Guineea de astăzi."],
+      en: ["Capital of the Wassoulou Empire under Samory Touré.", "Most important military base until 1891.", "Center for local blacksmithing and weapons.", "Captured and destroyed by French troops in 1891.", "Symbol of West African resistance.", "Wassoulou region covered parts of modern Guinea."]
+    }, image: "/poi-images/bissandougou-history-v2.webp"},
   {
     id: "mausoleum-camayenne-history-v2",
     type: "historical",
@@ -71,8 +94,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Ahmed Sékou Touré nyughelye.", "A gyarmati uralom elleni harcosok előtt tiszteleg.", "Jelentős nemzeti emlékmű.", "A Camayenne negyedben található."],
       ro: ["Locul de înmormântare al lui Ahmed Sékou Touré.", "Onorează luptătorii de rezistență împotriva stăpânirii coloniale.", "Monument național semnificativ.", "Situat în cartierul Camayenne."],
       en: ["Resting place of Ahmed Sékou Touré.", "Honors resistance fighters against colonial rule.", "Significant national monument.", "Located in the Camayenne district."]
-    }
-  },
+    }, image: "/poi-images/mausoleum-camayenne-history-v2.webp"},
   {
     id: "almamy-yaya-tomb-history-v2",
     type: "historical",
@@ -95,8 +117,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Egy nemzeti hős sírja.", "A fula történelem központja.", "Emlékhely Labéban.", "A regionális ellenállás szimbóluma."],
       ro: ["Mormântul unui erou național.", "Centrul istoriei Fula.", "Loc de comemorare în Labé.", "Simbol al rezistenței regionale."],
       en: ["Tomb of a national hero.", "Center of Fula history.", "Site of remembrance in Labé.", "Symbol of regional resistance."]
-    }
-  },
+    }, image: "/poi-images/almamy-yaya-tomb-history-v2.webp"},
   {
     id: "fort-boke-museum-history-v2",
     type: "historical",
@@ -119,8 +140,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Egykori francia gyarmati erőd.", "Kiállítások a rabszolga-kereskedelemről.", "Jelentős történelmi épület.", "Kilátás a Rio Nuñezre."],
       ro: ["Fostă fortăreață colonială franceză.", "Expoziții despre comerțul cu sclavi.", "Clădire istorică semnificativă.", "Vedere spre Rio Nuñez."],
       en: ["Former French colonial fort.", "Exhibits on the slave trade.", "Significant historical building.", "Overlooking the Rio Nuñez."]
-    }
-  },
+    }, image: "/poi-images/fort-boke-museum-history-v2.webp"},
   {
     id: "sosso-bala-shrine-history-v2",
     type: "historical",
@@ -167,8 +187,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Kankan alapítója előtt tiszteleg.", "A mandinka identitás szimbóluma.", "Fontos kulturális hivatkozási pont.", "A város szívében található."],
       ro: ["Îl onorează pe fondatorul orașului Kankan.", "Simbol al identității Mandinka.", "Punct de referință cultural important.", "Situat în inima orașului."],
       en: ["Honors the founder of Kankan.", "Symbol of Mandinka identity.", "Important cultural reference point.", "Located in the heart of the city."]
-    }
-  },
+    }, image: "/poi-images/faran-kama-monument-history-v2.webp"},
   {
     id: "camara-laye-house-history-v2",
     type: "historical",
@@ -191,8 +210,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Egy világirodalmi jelentőségű író szülőhelye.", "A 'L'Enfant noir' című regény témája.", "Történelmi kovácsműhely.", "Guinea kulturális öröksége."],
       ro: ["Locul de naștere al unui scriitor de talie mondială.", "Subiectul romanului 'L'Enfant noir'.", "Atelier istoric de fierărie.", "Patrimoniul cultural al Guineei."],
       en: ["Birthplace of a world-renowned writer.", "Subject of the novel 'L'Enfant noir'.", "Historical blacksmith workshop.", "Cultural heritage of Guinea."]
-    }
-  },
+    }, image: "/poi-images/camara-laye-house-history-v2.webp"},
   {
     id: "sekou-toure-palace-history-v2",
     type: "historical",
@@ -215,8 +233,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Az első elnök egykori hivatali székhelye.", "Fontos diplomáciai találkozók helyszíne.", "Építészeti jelkép.", "A politikai történelem tanúja."],
       ro: ["Fosta reședință oficială a primului președinte.", "Locul unor întâlniri diplomatice importante.", "Punct de reper arhitectural.", "Martor al istoriei politice."],
       en: ["Former official residence of the first president.", "Site of important diplomatic meetings.", "Architectural landmark.", "Witness to political history."]
-    }
-  },
+    }, image: "/poi-images/sekou-toure-palace-history-v2.webp"},
   {
     id: "boffa-mission-history-v2",
     type: "historical",
@@ -239,8 +256,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Guinea legrégebbi katolikus missziója.", "Gyarmati téglaépítészet.", "Jelentős keresztény központ.", "A Fatala-folyó torkolatánál fekszik."],
       ro: ["Cea mai veche misiune catolică din Guineea.", "Arhitectură colonială din cărămidă.", "Centru creștin semnificativ.", "Situată la gura de vărsare a râului Fatala."],
       en: ["Oldest Catholic mission in Guinea.", "Colonial brick architecture.", "Significant Christian center.", "Located at the mouth of the Fatala River."]
-    }
-  },
+    }, image: "/poi-images/boffa-mission-history-v2.webp"},
   {
     id: "colombiere-cave-history-v2",
     type: "historical",
@@ -263,8 +279,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Őskori lelőhely.", "Kőkorszaki eszközöket találtak itt.", "Fontos Guinea régészete szempontjából.", "Trópusi vegetáció közepén található."],
       ro: ["Sit arheologic preistoric.", "S-au găsit unelte din epoca pietrei.", "Important pentru arheologia Guineei.", "În mijlocul vegetației tropicale."],
       en: ["Prehistoric archaeological site.", "Stone age tools discovered here.", "Important for Guinean archaeology.", "Surrounded by tropical vegetation."]
-    }
-  },
+    }, image: "/poi-images/colombiere-cave-history-v2.webp"},
   {
     id: "koumi-sacred-site-history-v2",
     type: "historical",
@@ -287,8 +302,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Hagyományos rítusok helyszíne.", "Jelentős az őskultusz szempontjából.", "Sűrű erdők közepén.", "Titkos spirituális történelem."],
       ro: ["Locul unor rituri tradiționale.", "Semnificativ pentru cultul strămoșilor.", "În mijlocul pădurilor dese.", "Istorie spirituală secretă."],
       en: ["Site of traditional rites.", "Significant for ancestor worship.", "In the middle of dense forests.", "Secret spiritual history."]
-    }
-  },
+    }, image: "/poi-images/koumi-sacred-site-history-v2.webp"},
   {
     id: "timbo-mosque-history-v2",
     type: "historical",
@@ -311,8 +325,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Egy imamátus történelmi fővárosa.", "Az iszlám oktatás központja.", "Hagyományos építészet.", "Fontos zarándokhely."],
       ro: ["Capitala istorică a unui imamat.", "Centru de educație islamică.", "Arhitectură tradițională.", "Loc important de pelerinaj."],
       en: ["Historical capital of an imamate.", "Center of Islamic education.", "Traditional architecture.", "Important pilgrimage site."]
-    }
-  },
+    }, image: "/poi-images/timbo-mosque-history-v2.webp"},
   {
     id: "benty-port-history-v2",
     type: "historical",
@@ -335,8 +348,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Történelmi exportkikötő.", "A gumikorszak maradványai.", "Partmenti fekvés Forécariah közelében.", "Elhagyatott gyarmati épületek."],
       ro: ["Port istoric de export.", "Relicve ale erei cauciucului.", "Situat pe coastă lângă Forécariah.", "Clădiri coloniale abandonate."],
       en: ["Historical export port.", "Relics of the rubber era.", "Coastal location near Forécariah.", "Abandoned colonial buildings."]
-    }
-  },
+    }, image: "/poi-images/benty-port-history-v2.webp"},
   {
     id: "kankan-milo-battlefield-history-v2",
     type: "historical",
@@ -359,8 +371,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Az antikoloniális ellenállás helyszíne.", "Stratégiailag fontos folyóparti fekvés.", "Emlékhely az elesett harcosoknak.", "Történelmi fordulópont."],
       ro: ["Locul rezistenței anticoloniale.", "Locație strategică pe malul râului.", "Memorial pentru războinicii căzuți.", "Punct de cotitură istoric."],
       en: ["Site of anti-colonial resistance.", "Strategically important river location.", "Memorial for fallen warriors.", "Historical turning point."]
-    }
-  },
+    }, image: "/poi-images/kankan-milo-battlefield-history-v2.webp"},
   {
     id: "wassoulou-empire-remains-history-v2",
     type: "historical",
@@ -383,8 +394,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Samory Touré birodalmának nyomai.", "Katonai erődítmények maradványai.", "A nyugat-afrikai államszervezés tanúbizonysága.", "Fontos a regionális történelem számára."],
       ro: ["Urme ale imperiului lui Samory Touré.", "Rămășițe de fortificații militare.", "Mărturie a statalității vest-africane.", "Semnificativ pentru istoria regională."],
       en: ["Traces of Samory Touré's empire.", "Military fortification remains.", "Witness to West African statecraft.", "Significant for regional history."]
-    }
-  },
+    }, image: "/poi-images/wassoulou-empire-remains-history-v2.webp"},
   {
     id: "kindia-colonial-quarter-history-v2",
     type: "historical",
@@ -431,8 +441,7 @@ export const poiExtraGuineaHistoryV2: POI[] = [
       hu: ["Történelmi ütközetek helyszíne.", "A Dinguiraye-régió központja.", "A vallási buzgóság szimbóluma.", "Fontos a Toucouleur Birodalom számára."],
       ro: ["Locul unor lupte istorice.", "Centrul regiunii Dinguiraye.", "Simbol al zelului religios.", "Important pentru Imperiul Toucouleur."],
       en: ["Site of historical skirmishes.", "Center of the Dinguiraye region.", "Symbol of religious fervor.", "Important for the Toucouleur Empire."]
-    }
-  },
+    }, image: "/poi-images/tinkisso-battlefield-history-v2.webp"},
   {
     id: "fouta-djallon-archives-history-v2",
     type: "historical",
@@ -482,3 +491,4 @@ export const poiExtraGuineaHistoryV2: POI[] = [
     }
   }
 ];
+

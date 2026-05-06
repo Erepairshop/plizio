@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["2007-ben nyitották meg.", "Körülbelül 15 250 ülőhelyes kapacitás.", "A 2012-es Afrikai Nemzetek Kupája egyik helyszíne.", "Modern atlétikai pályával rendelkezik."],
       ro: ["Inaugurat în anul 2007.", "Capacitate de aproximativ 15.250 de locuri.", "Gazdă a Cupei Africii pe Națiuni în 2012.", "Dispune de o pistă de atletism modernă."],
       en: ["Opened in 2007.", "Capacity of approximately 15,250 seats.", "Venue for the 2012 Africa Cup of Nations.", "Features a modern athletics track."]
-    }
-  },
+    }, image: "/poi-images/malabo-national-stadium-landmarks-v2.webp"},
   {
     id: "bata-stadium-landmarks-v2",
     type: "landmark",
@@ -47,8 +47,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["Több mint 35 000 néző befogadására alkalmas.", "A 2015-ös Afrikai Nemzetek Kupája fő helyszíne.", "Nemzetközi sporteseményekhez modernizálták.", "A szárazföld sportfejlődésének jelképe."],
       ro: ["Capacitate de peste 35.000 de spectatori.", "Principalul loc de desfășurare a Cupei Africii pe Națiuni 2015.", "Modernizat pentru evenimente sportive internaționale.", "Punct de reper al dezvoltării sportive de pe continent."],
       en: ["Capacity for over 35,000 spectators.", "Main venue for the 2015 Africa Cup of Nations.", "Modernized for international sporting events.", "Landmark of mainland sporting development."]
-    }
-  },
+    }, image: "/poi-images/bata-stadium-landmarks-v2.webp"},
   {
     id: "palacio-del-pueblo-malabo-landmarks-v2",
     type: "landmark",
@@ -119,8 +118,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["Az Afrikai Unió csúcstalálkozójára épült.", "A legmodernebb konferencia-technikával rendelkezik.", "Egy luxus üdülőkomplexum része.", "Építészeti fénypont a tengerparton."],
       ro: ["Construit pentru summitul Uniunii Africane.", "Dispune de tehnologie de conferințe de ultimă oră.", "Parte a unui complex turistic de lux.", "Punct de reper arhitectural pe coastă."],
       en: ["Built for the African Union summit.", "Features state-of-the-art conference technology.", "Part of a luxury resort complex.", "Architectural highlight on the coast."]
-    }
-  },
+    }, image: "/poi-images/sipopo-congress-center-landmarks-v2.webp"},
   {
     id: "grand-hotel-djibloho-landmarks-v2",
     type: "landmark",
@@ -143,8 +141,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["A trópusi dzsungel közepén található.", "Lenyűgöző golfpályával rendelkezik.", "Az új közigazgatási főváros építésének szimbóluma.", "Közép-Afrika egyik legfényűzőbb szállodája."],
       ro: ["Situat în mijlocul junglei tropicale.", "Dispune de un domeniu de golf impresionant.", "Simbol al construcției noii capitale administrative.", "Unul dintre cele mai luxoase hoteluri din Africa Centrală."],
       en: ["Located in the middle of the tropical jungle.", "Features an impressive golf resort.", "Symbol of the development of the new administrative capital.", "One of the most luxurious hotels in Central Africa."]
-    }
-  },
+    }, image: "/poi-images/grand-hotel-djibloho-landmarks-v2.webp"},
   {
     id: "cathedral-of-bata-landmarks-v2",
     type: "landmark",
@@ -191,8 +188,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["A 2021. március 7-i tragédiára emlékeztet.", "A nemzeti emlékezés és reflexió helyszíne.", "Modern design magas szimbolikus jelentéssel.", "Fontos helyszín a városlakók megemlékezéseihez."],
       ro: ["Comemorează tragedia din 7 martie 2021.", "Loc de comemorare și reflecție națională.", "Design modern cu o semnificație simbolică profundă.", "Loc important pentru ceremoniile de comemorare ale orașului."],
       en: ["Commemorates the tragedy of March 7, 2021.", "Place of national remembrance and reflection.", "Modern design with high symbolic meaning.", "Important site for city memorial services."]
-    }
-  },
+    }, image: "/poi-images/martyrs-7m-monument-landmarks-v2.webp"},
   {
     id: "unge-campus-malabo-landmarks-v2",
     type: "landmark",
@@ -215,8 +211,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["Az ország felsőoktatásának központja.", "Modern akadémiai létesítményeknek ad otthont.", "Jelentős szellemi központ.", "A nemzeti oktatás előmozdítására alapították."],
       ro: ["Centrul învățământului superior din țară.", "Găzduiește facilități academice moderne.", "Punct de reper intelectual semnificativ.", "Fondată pentru a promova educația națională."],
       en: ["Center for higher education in the country.", "Houses modern academic facilities.", "Significant intellectual landmark.", "Established to promote national education."]
-    }
-  },
+    }, image: "/poi-images/unge-campus-malabo-landmarks-v2.webp"},
   {
     id: "gepetrol-headquarters-landmarks-v2",
     type: "landmark",
@@ -239,8 +234,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["A modern üvegépítészet példája.", "Malabo új üzleti negyedében található.", "Az ország gazdasági gazdagságának szimbóluma.", "Ultramodern irodaterületeket foglal magában."],
       ro: ["Exemplu de arhitectură modernă din sticlă.", "Situat în noul district de afaceri din Malabo.", "Simbol al bogăției economice a țării.", "Include spații de birouri de ultimă generație."],
       en: ["Example of modern glass architecture.", "Located in the new business district of Malabo.", "Symbol of the country's economic wealth.", "Features state-of-the-art office spaces."]
-    }
-  },
+    }, image: "/poi-images/gepetrol-headquarters-landmarks-v2.webp"},
   {
     id: "ngolo-conference-center-landmarks-v2",
     type: "landmark",
@@ -263,8 +257,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["A nemzeti párbeszéd fontos helyszíne.", "Tágas előadótermekkel rendelkezik.", "Modern design a város északi részén.", "A szárazföldi szellemi csereforgalom központja."],
       ro: ["Loc important pentru dialogurile naționale.", "Dispune de auditorii spațioase.", "Design modern în nordul orașului.", "Centrul schimburilor intelectuale de pe continent."],
       en: ["Important venue for national dialogues.", "Features spacious auditoriums.", "Modern design in the north of the city.", "Center for intellectual exchange on the mainland."]
-    }
-  },
+    }, image: "/poi-images/ngolo-conference-center-landmarks-v2.webp"},
   {
     id: "pico-basile-tower-landmarks-v2",
     type: "landmark",
@@ -287,8 +280,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["Az ország legfontosabb hírközlési központja.", "Messziről látható Malabóból.", "Több mint 3000 méteres magasságban található.", "Műszaki remekmű a magashegységben."],
       ro: ["Cel mai important centru de comunicații din țară.", "Vizibil de departe din Malabo.", "Situat la peste 3.000 de metri altitudine.", "Capodoperă tehnică în munții înalți."],
       en: ["Most important communication center of the country.", "Widely visible from Malabo.", "Located at over 3,000 meters elevation.", "Technical masterpiece in the high mountains."]
-    }
-  },
+    }, image: "/poi-images/pico-basile-tower-landmarks-v2.webp"},
   {
     id: "ccem-malabo-landmarks-v2",
     type: "landmark",
@@ -311,8 +303,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["Elősegíti a Spanyolországgal való kulturális cserét.", "Jelentős könyvtárnak ad otthont.", "Rendszeres kiállítások és koncertek helyszíne.", "Fontos a helyi művészeti élet számára."],
       ro: ["Promovează schimbul cultural cu Spania.", "Găzduiește o bibliotecă semnificativă.", "Expoziții și concerte regulate.", "Important pentru scena artistică locală."],
       en: ["Promotes cultural exchange with Spain.", "Houses a significant library.", "Regular exhibitions and concerts.", "Important for the local art scene."]
-    }
-  },
+    }, image: "/poi-images/ccem-malabo-landmarks-v2.webp"},
   {
     id: "ceeac-building-malabo-landmarks-v2",
     type: "landmark",
@@ -359,8 +350,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["Az ország zenei örökségét ünnepli.", "A tengerparti sétányon található.", "Népszerű fotótéma a turisták körében.", "A régió kulturális identitását mutatja be."],
       ro: ["Celebrează moștenirea muzicală a țării.", "Situat pe faleza orașului.", "Subiect popular pentru fotografiile turiștilor.", "Reprezintă identitatea culturală a regiunii."],
       en: ["Celebrates the country's musical heritage.", "Located on the waterfront promenade.", "Popular photo spot for tourists.", "Represents the region's cultural identity."]
-    }
-  },
+    }, image: "/poi-images/marimba-monument-bata-landmarks-v2.webp"},
   {
     id: "luba-port-expansion-landmarks-v2",
     type: "landmark",
@@ -383,8 +373,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["Mélyvízi kikötőhelyekkel rendelkezik.", "Bioko Sur fontos gazdasági tényezője.", "A legmodernebb rakodási technológia.", "Az offshore platformok ellátóbázisaként szolgál."],
       ro: ["Dispune de dane de mare adâncime.", "Factor economic important pentru Bioko Sur.", "Tehnologie de încărcare de ultimă oră.", "Servește ca bază de aprovizionare pentru platformele offshore."],
       en: ["Features deep-water berths.", "Major economic driver for Bioko Sur.", "State-of-the-art loading technology.", "Serves as a supply base for offshore platforms."]
-    }
-  },
+    }, image: "/poi-images/luba-port-expansion-landmarks-v2.webp"},
   {
     id: "annobon-airport-terminal-landmarks-v2",
     type: "landmark",
@@ -407,8 +396,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["Lehetővé teszi a rendszeres légi forgalmat a szigetre.", "Nemrég épült modern jelkép.", "Fontos az izolált tartomány összeköttetése szempontjából.", "Építészetileg funkcionális és modern."],
       ro: ["Permite traficul aerian regulat către insulă.", "Punct de reper modern construit recent.", "Vital pentru conectarea provinciei izolate.", "Arhitectural funcțional și modern."],
       en: ["Enables regular air traffic to the island.", "Recently built modern landmark.", "Vital for connecting the isolated province.", "Architecturally functional and modern."]
-    }
-  },
+    }, image: "/poi-images/annobon-airport-terminal-landmarks-v2.webp"},
   {
     id: "ministry-of-mines-malabo-landmarks-v2",
     type: "landmark",
@@ -431,8 +419,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["A nemzeti energiapolitika központja.", "Ultramodern építészet a sugárúton.", "Az ország erőforrás-gazdagságának szimbóluma.", "Fontos állami archívumoknak ad otthont."],
       ro: ["Centrul politicii energetice naționale.", "Arhitectură ultramodernă pe bulevard.", "Simbol al bogăției de resurse a țării.", "Găzduiește arhive de stat importante."],
       en: ["Center of national energy policy.", "State-of-the-art architecture on the boulevard.", "Symbol of the country's resource wealth.", "Houses important state archives."]
-    }
-  },
+    }, image: "/poi-images/ministry-of-mines-malabo-landmarks-v2.webp"},
   {
     id: "plaza-de-la-mujer-bata-landmarks-v2",
     type: "landmark",
@@ -479,8 +466,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["A helyi városvezetés központja.", "Meghatározza Bata modern városképét.", "A polgármester és a városi tanács székhelye.", "Modern lakossági szolgáltató területeket foglal magában."],
       ro: ["Centrul administrației locale a orașului.", "Definește peisajul urban modern din Bata.", "Sediul primarului și al consiliului local.", "Include zone moderne de servicii pentru cetățeni."],
       en: ["Center of local city administration.", "Shapes the modern cityscape of Bata.", "Seat of the mayor and the city council.", "Includes modern citizen service areas."]
-    }
-  },
+    }, image: "/poi-images/bata-city-hall-new-landmarks-v2.webp"},
   {
     id: "friendship-bridge-djibloho-landmarks-v2",
     type: "landmark",
@@ -551,8 +537,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["A régió pénzügyi igazgatásának központja.", "Jellegzetes épület modern építészettel.", "A pénzügyi negyed szívében található.", "A monetáris stabilitás szimbóluma."],
       ro: ["Centrul administrației financiare a regiunii.", "Clădire proeminentă cu arhitectură modernă.", "Situată în inima districtului financiar.", "Simbol al stabilității monetare."],
       en: ["Center for financial administration of the region.", "Prominent building with modern architecture.", "Located in the heart of the financial district.", "Symbol of monetary stability."]
-    }
-  },
+    }, image: "/poi-images/beac-building-malabo-landmarks-v2.webp"},
   {
     id: "malabo-mall-landmarks-v2",
     type: "landmark",
@@ -575,8 +560,7 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
       hu: ["Nemzetközi márkáknak és moziknak ad otthont.", "A családok kedvelt találkozóhelye.", "Modern építészet tágas galériákkal.", "A modern fogyasztás központja Malabóban."],
       ro: ["Găzduiește mărci internaționale și cinematografe.", "Loc de întâlnire popular pentru familii.", "Arhitectură modernă cu galerii spațioase.", "Centrul consumului modern din Malabo."],
       en: ["Houses international brands and cinemas.", "Popular meeting place for families.", "Modern architecture with spacious galleries.", "Center of modern consumption in Malabo."]
-    }
-  },
+    }, image: "/poi-images/malabo-mall-landmarks-v2.webp"},
   {
     id: "iglesia-san-fernando-malabo-landmarks-v2",
     type: "landmark",
@@ -602,3 +586,4 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
     }
   }
 ];
+

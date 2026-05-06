@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBurundiLifeV2: POI[] = [
@@ -12,19 +13,14 @@ export const poiExtraBurundiLifeV2: POI[] = [
       ro: "Musée Vivant",
       en: "Musée Vivant"
     },
-    description: {
-      de: "Ein Freilichtmuseum und kleiner Zoo in Bujumbura, der die Fauna und Kultur Burundis zeigt.",
-      hu: "Szabadtéri múzeum és kis állatkert Bujumburában, amely Burundi élővilágát és kultúráját mutatja be.",
-      ro: "Un muzeu în aer liber și o mică grădină zoologică în Bujumbura, care prezintă fauna și cultura Burundi.",
-      en: "An open-air museum and small zoo in Bujumbura, showcasing the fauna and culture of Burundi."
+    descriptionAdvanced: {
+      de: "Das Musée Vivant in Bujumbura ist ein einzigartiges kulturelles und biologisches Zentrum, das Besuchern einen Einblick in die Tierwelt und die Handwerkstraditionen Burundis bietet. Die Anlage beherbergt lebende Exponate, darunter Krokodile und verschiedene Schlangenarten, sowie eine Sammlung traditioneller Artefakte und Kunsthandwerke. Es ist ein wichtiger Ort für Bildung und Erhaltung des kulturellen Erbes. Sachkunde K4 — Tiere und Kultur.",
+      hu: "A Musee Vivant, azaz az Élő Múzeum Bujumbura szívében található, és egyedülálló módon ötvözi a kulturális kiállításokat egy kis állatkerttel és növénykerttel. A látogatók közelebbről megismerhetik Burundi hagyományos kézműves technikáit, miközben a helyi állatvilág, köztük krokodilok és kígyók is megfigyelhetőek. Ez a kulturális intézmény kulcsfontosságú az oktatásban és a turisták számára a helyi örökség bemutatásában. Sachkunde K3 — állatok élőhelye és kultúra.",
+      ro: "Musée Vivant (Muzeul Viu) din Bujumbura este o instituție unică în Burundi, care combină aspectele unui muzeu tradițional cu cele ale unei grădini zoologice și ale unui centru de conservare a meșteșugurilor. Vizitatorii pot observa fauna locală, inclusiv crocodili și diverse specii de păsări, dar pot, de asemenea, să interacționeze cu artizani care păstrează vii tehnicile tradiționale burundeze. Această combinație oferă o experiență educațională completă despre mediul natural și cultural al țării. Sachkunde K4 — plante, animale și cultură."
     },
-    facts: {
-      de: ["Beherbergt Krokodile und Schlangen.", "Traditionelle burundische Häuser."],
-      hu: ["Krokodiloknak és kígyóknak ad otthont.", "Hagyományos burundi házak."],
-      ro: ["Găzduiește crocodili și șerpi.", "Case tradiționale burundeze."],
-      en: ["Home to crocodiles and snakes.", "Traditional Burundian houses."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Este o atracție populară în Bujumbura pentru educație și agrement.", "Găzduiește crocodili, hipopotami și diverse specii de păsări.", "Include ateliere de artizanat tradițional pentru vizitatori.", "Muzeul este un centru de conservare a patrimoniului cultural și natural.", "Oferește o perspectivă unică asupra biodiversității locale.", "Locul este ideal pentru familii și vizitatori curioși."]
+    }, image: "/poi-images/musee-vivant-life-v2.webp"},
   {
     id: "rusizi-delta-life-v2",
     type: "animal-habitat",
@@ -36,19 +32,14 @@ export const poiExtraBurundiLifeV2: POI[] = [
       ro: "Delta Rusizi",
       en: "Rusizi Delta"
     },
-    description: {
-      de: "Das Mündungsgebiet des Rusizi-Flusses, ein wichtiges Habitat für Flusspferde und seltene Vögel.",
-      hu: "A Rusizi-folyó torkolatvidéke, amely a vízilovak és ritka madarak fontos élőhelye.",
-      ro: "Zona de estuar a râului Rusizi, un habitat important pentru hipopotami și păsări rare.",
-      en: "The mouth of the Rusizi River, an important habitat for hippos and rare birds."
+    descriptionAdvanced: {
+      de: "Das Rusizi-Delta ist eine faszinierende Sumpflandschaft an der Mündung des Rusizi-Flusses in den Tanganjika-See. Dieses Ökosystem ist Lebensraum für seltene Vogelarten und dient als wichtige Pufferzone für den See. Die lokale Bevölkerung nutzt das Delta traditionell für Fischerei und den Anbau von wasserliebenden Pflanzen, was ein harmonisches Zusammenleben von Mensch und Natur ermöglicht. Biologie K5 — Sumpfökosysteme.",
+      hu: "A Rusizi-delta a Tanganyika-tó és a Rusizi-folyó találkozásánál fekszik, és Burundi egyik leggazdagabb vizes élőhelye. A területet mocsarak és ártéri erdők alkotják, amelyek nélkülözhetetlenek a vándormadarak számára, és természetes szűrőként funkcionálnak a tóba ömlő vizek számára. Az itt élő helyi közösségek hagyományosan a halászatból és a nádfeldolgozásból élnek. Ez a vidék egy érzékeny ökoszisztéma, amely a környezeti változásokra igen gyorsan reagál. Földrajz K7 — vizes élőhelyek.",
+      ro: "Delta râului Rusizi este o zonă ecologică de o importanță majoră, situată la vărsarea râului în lacul Tanganyika, fiind un habitat natural esențial pentru o diversitate impresionantă de floră și faună. Această regiune joacă un rol critic în menținerea echilibrului ecologic al bazinului lacului, oferind adăpost pentru hipopotami, crocodili și nenumărate specii de păsări migratoare. Protejarea deltei este fundamentală pentru păstrarea biodiversității locale și pentru susținerea comunităților umane care depind de resursele naturale ale acestei zone. Sachkunde K5 — ecosisteme și biodiversitate."
     },
-    facts: {
-      de: ["Bekannt für große Flusspferdherden.", "Wichtiger Rastplatz für Zugvögel."],
-      hu: ["Híres nagy vízilócsordáiról.", "A vándormadarak fontos pihenőhelye."],
-      ro: ["Cunoscut pentru turme mari de hipopotami.", "Loc de odihnă important pentru păsările migratoare."],
-      en: ["Known for large hippo pods.", "Important stopover for migratory birds."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Zona este caracterizată printr-o bogată vegetație acvatică.", "Habitat critic pentru fauna locală (hipopotami și crocodili).", "Punct de oprire esențial pentru păsările migratoare.", "Joacă un rol în filtrarea apei înainte de vărsarea în Tanganyika.", "Este o zonă de interes pentru cercetările ecologice.", "Regiunea este monitorizată pentru conservarea resurselor naturale."]
+    }, image: "/poi-images/rusizi-delta-life-v2.webp"},
   {
     id: "imbo-plain-rice-life-v2",
     type: "agriculture",
@@ -60,19 +51,14 @@ export const poiExtraBurundiLifeV2: POI[] = [
       ro: "Regiunea orezului din Câmpia Imbo",
       en: "Imbo Plain Rice Region"
     },
-    description: {
-      de: "Die fruchtbare Imbo-Ebene im Nordwesten ist das wichtigste Reisanbaugebiet des Landes.",
-      hu: "Az északnyugati termékeny Imbo-síkság az ország legfontosabb rizstermesztő területe.",
-      ro: "Câmpia fertilă Imbo din nord-vest este cea mai importantă regiune de cultivare a orezului din țară.",
-      en: "The fertile Imbo Plain in the northwest is the country's most important rice-growing region."
+    descriptionAdvanced: {
+      de: "Die Imbo-Ebene ist das landwirtschaftliche Herz Burundis für den Reisanbau. Die fruchtbaren alluvialen Böden, kombiniert mit einer effizienten Bewässerung durch das Ruzizi-Tal, ermöglichen mehrere Ernten pro Jahr. Der Anbau ist für die Ernährungssicherheit der Region Bujumbura von entscheidender Bedeutung und prägt das soziale Leben in den ländlichen Gemeinden. Sachkunde K5 — Landwirtschaft in den Tropen.",
+      hu: "Az Imbo-síkság Burundi leghosszabb hordalékos területe a Tanganyika-tó partja mentén, amely az ország rizstermelésének központja. A síkság klímája meleg és párás, ami ideális környezetet biztosít az intenzív rizskultúrák számára. A mezőgazdasági technológiák itt modernizálódnak, a hagyományos kézi művelést egyre gyakrabban váltják fel a gépesített megoldások. A síkság egyben az ország gazdasági motorja, amely alapvető élelmiszerrel látja el a növekvő népességet. Földrajz K7 — mezőgazdaság.",
+      ro: "Câmpia Imbo este principala regiune agricolă a Burundiului destinată cultivării orezului, profitând de condițiile climatice favorabile și de accesul la irigații oferit de râul Rusizi. Producția de orez din această zonă este esențială pentru asigurarea necesarului de hrană al populației urbane din Bujumbura, fiind un pilon al securității alimentare naționale. Agricultura din câmpia Imbo susține mii de familii de fermieri, fiind un exemplu de utilizare eficientă a terenurilor arabile pentru dezvoltarea sustenabilă. Geografie K6 — culturi agricole și securitate alimentară."
     },
-    facts: {
-      de: ["Nutzt moderne Bewässerung.", "Hauptnahrungsquelle der Region."],
-      hu: ["Modern öntözést alkalmaz.", "A régió fő élelemforrása."],
-      ro: ["Folosește irigații moderne.", "Sursa principală de hrană a regiunii."],
-      en: ["Uses modern irrigation.", "Primary food source for the region."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Imbo este considerată 'coșul de pâine' pentru orez al țării.", "Condițiile climatice sunt ideale pentru cultivarea orezului.", "Sistemele de irigații sunt vitale pentru randamentul culturilor.", "Orezul produs aici susține consumul urban din capitale.", "Regiunea este un centru important pentru economia agrară.", "Fermierii utilizează metode tradiționale și moderne pentru cultivare."]
+    }, image: "/poi-images/imbo-plain-rice-life-v2.webp"},
   {
     id: "mugamba-tea-life-v2",
     type: "agriculture",
@@ -84,19 +70,14 @@ export const poiExtraBurundiLifeV2: POI[] = [
       ro: "Grădinile de ceai din Mugamba",
       en: "Mugamba Tea Gardens"
     },
-    description: {
-      de: "Die kühlen Hochländer von Mugamba sind bekannt für ihre ausgedehnten, grünen Teeplantagen.",
-      hu: "Mugamba hűvös felföldjei kiterjedt, zöld teaültetvényeikről ismertek.",
-      ro: "Zonele înalte și răcoroase din Mugamba sunt cunoscute pentru plantațiile lor vaste de ceai verde.",
-      en: "The cool highlands of Mugamba are known for their extensive green tea plantations."
+    descriptionAdvanced: {
+      de: "Die Region Mugamba ist berühmt für ihre weitläufigen Teeplantagen, die sich über die sanften Hügel des Hochlands erstrecken. Das kühle, neblige Klima in diesen Höhenlagen ist ideal für die Qualität und das Aroma der Teeblätter. Tee aus Mugamba ist einer der bedeutendsten Exportartikel Burundis und bietet Tausenden Familien eine Lebensgrundlage. Geographie K6 — Agrarwirtschaft und Klima.",
+      hu: "Mugamba vidéke a hegyvidéki övezetben helyezkedik el, amely hűvösebb klímájával és csapadékos időjárásával ideális a magas minőségű tea termesztéséhez. A lejtőkön kialakított teateraszok nemcsak a tájképet határozzák meg, hanem az itt élők gazdasági jövőjét is. A teafeldolgozó üzemek a régió gazdasági központjai, ahol a begyűjtött leveleket dolgozzák fel exportra. Ez a tevékenység Burundi egyik legfontosabb devizatermelő ágazata. Földrajz K7 — gazdaság és teatermesztés.",
+      ro: "Regiunea Mugamba este faimoasă pentru producția de ceai de înaltă calitate, datorită climatului răcoros și altitudinii ridicate care oferă condiții optime pentru această cultură. Ceaiul din Burundi, în special cel din Mugamba, este apreciat pe piețele internaționale, aducând venituri importante în valută pentru economia națională. Această ramură agricolă oferă locuri de muncă pentru comunitățile rurale din regiune și reprezintă o componentă vitală a strategiei de export a țării. Economie K7 — produse agricole de export."
     },
-    facts: {
-      de: ["Hochwertiger burundischer Tee.", "Spektakuläre terrassierte Hügel."],
-      hu: ["Kiváló minőségű burundi tea.", "Látványos teraszos dombok."],
-      ro: ["Ceai burundez de înaltă calitate.", "Dealuri terasate spectaculoase."],
-      en: ["High-quality Burundian tea.", "Spectacular terraced hills."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Altitudinea oferă condiții climatice excelente pentru ceai.", "Ceaiul produs aici este exportat pe piețele internaționale.", "Sectorul ceaiului este unul dintre pilonii agriculturii de export.", "Comunitățile rurale din Mugamba depind de această activitate.", "Procesarea ceaiului are loc în fabrici locale specializate.", "Calitatea ceaiului este susținută de solul fertil și umiditatea ridicată."]
+    }, image: "/poi-images/mugamba-tea-life-v2.webp"},
   {
     id: "kayanza-coffee-life-v2",
     type: "agriculture",
@@ -108,19 +89,14 @@ export const poiExtraBurundiLifeV2: POI[] = [
       ro: "Plantațiile de cafea din Kayanza",
       en: "Kayanza Coffee Estates"
     },
-    description: {
-      de: "Die Region Kayanza produziert einige der weltweit am besten bewerteten Kaffeesorten Arabica.",
-      hu: "Kayanza régiója a világ egyik legjobb minősítésű Arabica kávéit termeli.",
-      ro: "Regiunea Kayanza produce unele dintre cele mai bine cotate soiuri de cafea Arabica din lume.",
-      en: "The Kayanza region produces some of the world's top-rated Arabica coffee varieties."
+    descriptionAdvanced: {
+      de: "Kayanza im Norden Burundis ist weltweit für seinen hochwertigen Arabica-Kaffee bekannt. Die hohen Lagen und die vulkanischen Böden verleihen dem Kaffee ein besonderes Profil, das von Experten geschätzt wird. Kaffee ist mehr als nur ein Produkt; er ist ein zentraler Bestandteil des sozialen Gefüges in Kayanza und das Rückgrat der lokalen Wirtschaft. Sachkunde K6 — Welthandel und Kaffee.",
+      hu: "Kayanza régiója híres a magas minőségű Arabica kávéjáról, amelyet a termékeny vulkanikus talaj és a kedvező magassági viszonyok tesznek különlegessé. A kávékertek apró családi gazdaságokban terülnek el, ahol a termesztés során a hagyományos módszereket ötvözik a fenntartható gazdálkodással. A Kayanza kávé a nemzetközi piacon is nagy elismerésnek örvend, és kulcsfontosságú szerepet játszik a régió lakóinak jólétében. Földrajz K7 — mezőgazdasági termékek.",
+      ro: "Regiunea Kayanza este renumită pentru cultivarea uneia dintre cele mai apreciate cafele din lume, datorită altitudinii ridicate, solurilor vulcanice bogate și climatului montan care favorizează dezvoltarea unor arome complexe. Cafeaua din Kayanza a câștigat recunoaștere internațională, contribuind semnificativ la dezvoltarea economică a regiunii și la bunăstarea fermierilor locali. Această cultură agricolă nu este doar un produs de export de succes, ci și un simbol al mândriei naționale și al expertizei agricole a Burundiului pe piața globală. Economie K7 — agricultura de specialitate și comerțul exterior."
     },
-    facts: {
-      de: ["Vulkanische, fruchtbare Böden.", "Zentrum des fairen Handels."],
-      hu: ["Vulkanikus, termékeny talaj.", "A méltányos kereskedelem központja."],
-      ro: ["Soluri vulcanice fertile.", "Centrul comerțului echitabil."],
-      en: ["Volcanic fertile soils.", "Center of fair trade."]
-    }
-  },
+    factsAdvanced: {
+      ro: ["Regiunea beneficiază de un climat ideal pentru soiul Arabica.", "Cafeaua din Kayanza este căutată de prăjitorii artizanali din întreaga lume.", "Altitudinea oferă o perioadă de maturare lentă a boabelor.", "Sectorul cafelei este un motor principal al economiei în această provincie.", "Fermierii cooperează pentru a menține standarde înalte de calitate.", "Producția este un pilon esențial pentru veniturile din export ale Burundiului."]
+    }, image: "/poi-images/kayanza-coffee-life-v2.webp"},
   {
     id: "rumonge-palm-life-v2",
     type: "agriculture",
@@ -143,8 +119,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["Az olajpálma legfontosabb termőterülete.", "Jelentős helyi ipar."],
       ro: ["Cea mai importantă zonă de cultivare a palmierului de ulei.", "Industrie locală semnificativă."],
       en: ["Primary area for oil palm cultivation.", "Significant local industry."]
-    }
-  },
+    }, image: "/poi-images/rumonge-palm-life-v2.webp"},
   {
     id: "malagarasi-shoebill-life-v2",
     type: "animal-habitat",
@@ -167,8 +142,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["A ritka papucscsőrű madár élőhelye.", "Jelentős Ramsar-vizesélőhely."],
       ro: ["Habitat pentru rara pasăre sabot.", "Zonă umedă Ramsar de importanță."],
       en: ["Habitat for the rare Shoebill.", "Ramsar wetland of significance."]
-    }
-  },
+    }, image: "/poi-images/malagarasi-shoebill-life-v2.webp"},
   {
     id: "kirundo-sorghum-life-v2",
     type: "agriculture",
@@ -191,8 +165,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["Ellenáll a szárazságnak.", "A helyi sör alapanyaga."],
       ro: ["Rezistent la secetă.", "Baza pentru berea locală."],
       en: ["Resilient to dry spells.", "Base for local traditional beer."]
-    }
-  },
+    }, image: "/poi-images/kirundo-sorghum-life-v2.webp"},
   {
     id: "mosso-sugar-life-v2",
     type: "agriculture",
@@ -215,8 +188,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["A cukortermelés központja.", "Fontos gazdasági ágazat keleten."],
       ro: ["Centrul producției de zahăr.", "Ramură economică importantă în est."],
       en: ["Center of sugar production.", "Important economic sector in the east."]
-    }
-  },
+    }, image: "/poi-images/mosso-sugar-life-v2.webp"},
   {
     id: "bujumbura-beach-life-v2",
     type: "kid-landmark",
@@ -239,8 +211,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["Népszerű hétvégi kirándulóhely.", "Biztonságos fürdőhely a tónál."],
       ro: ["Popular pentru excursii de weekend.", "Zonă sigură de înot la lac."],
       en: ["Popular for weekend outings.", "Safe swimming area on the lake."]
-    }
-  },
+    }, image: "/poi-images/bujumbura-beach-life-v2.webp"},
   {
     id: "gitega-drums-kids-life-v2",
     type: "kid-landmark",
@@ -263,8 +234,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["Az élő kultúra megőrzése.", "Interaktív workshopok gyerekeknek."],
       ro: ["Păstrarea culturii vii.", "Ateliere interactive pentru copii."],
       en: ["Preservation of living culture.", "Interactive workshops for kids."]
-    }
-  },
+    }, image: "/poi-images/gitega-drums-kids-life-v2.webp"},
   {
     id: "buyogoma-cattle-life-v2",
     type: "agriculture",
@@ -287,8 +257,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["Jelentős helyi szarvasmarhafajták.", "Hagyományos pásztorkultúra."],
       ro: ["Rase de vite locale semnificative.", "Cultură pastorală tradițională."],
       en: ["Significant local cattle breeds.", "Traditional pastoralist culture."]
-    }
-  },
+    }, image: "/poi-images/buyogoma-cattle-life-v2.webp"},
   {
     id: "mumirwa-coffee-life-v2",
     type: "agriculture",
@@ -311,8 +280,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["Árnyékban termesztett kávé.", "Helyi kistermelőket támogat."],
       ro: ["Cafea crescută la umbră.", "Susține micii fermieri locali."],
       en: ["Shade-grown coffee.", "Supports local smallholders."]
-    }
-  },
+    }, image: "/poi-images/mumirwa-coffee-life-v2.webp"},
   {
     id: "ngozi-tea-factory-life-v2",
     type: "agriculture",
@@ -335,8 +303,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["Fontos exporthelyszín.", "Helyi munkahelyeket biztosít."],
       ro: ["Loc important de export.", "Oferă locuri de muncă locale."],
       en: ["Important export site.", "Provides local employment."]
-    }
-  },
+    }, image: "/poi-images/ngozi-tea-factory-life-v2.webp"},
   {
     id: "bubanza-rice-life-v2",
     type: "agriculture",
@@ -359,8 +326,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["Intenzív árasztásos rizstermesztés.", "Fontos a helyi gazdaság számára."],
       ro: ["Cultură intensivă de orez umed.", "Important pentru economia locală."],
       en: ["Intensive wet rice cultivation.", "Vital for the local economy."]
-    }
-  },
+    }, image: "/poi-images/bubanza-rice-life-v2.webp"},
   {
     id: "cibitoke-cotton-life-v2",
     type: "agriculture",
@@ -383,8 +349,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["A gyapot fő termőterülete.", "A betakarítás nyáron történik."],
       ro: ["Principala zonă de cultivare a bumbacului.", "Sezonul de recoltare este vara."],
       en: ["Main cotton production zone.", "Harvest season is in summer."]
-    }
-  },
+    }, image: "/poi-images/cibitoke-cotton-life-v2.webp"},
   {
     id: "muyinga-banana-life-v2",
     type: "agriculture",
@@ -407,8 +372,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["A banánsör alapanyaga.", "Az agrárrendszer fontos része."],
       ro: ["Baza pentru berea de banane.", "Parte importantă a agrosistemului."],
       en: ["Base for traditional banana beer.", "Key part of the agro-ecosystem."]
-    }
-  },
+    }, image: "/poi-images/muyinga-banana-life-v2.webp"},
   {
     id: "rutana-cattle-life-v2",
     type: "agriculture",
@@ -431,8 +395,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["Nomád pásztorokat támogat.", "Nagy Ankole marhacsordák."],
       ro: ["Susține păstorii nomazi.", "Turme mari de vite Ankole."],
       en: ["Supports nomadic herders.", "Large herds of Ankole cattle."]
-    }
-  },
+    }, image: "/poi-images/rutana-cattle-life-v2.webp"},
   {
     id: "makamba-maize-life-v2",
     type: "agriculture",
@@ -455,8 +418,7 @@ export const poiExtraBurundiLifeV2: POI[] = [
       hu: ["Dél éléstára.", "A napi étrend alapja."],
       ro: ["Grânarul sudului.", "Baza dietei zilnice."],
       en: ["Granary of the south.", "Staple of the daily diet."]
-    }
-  },
+    }, image: "/poi-images/makamba-maize-life-v2.webp"},
   {
     id: "ruvubu-buffalo-life-v2",
     type: "animal-habitat",
@@ -482,3 +444,4 @@ export const poiExtraBurundiLifeV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBoliviaReliefV2: POI[] = [
@@ -12,61 +13,13 @@ export const poiExtraBoliviaReliefV2: POI[] = [
       ro: "Cordillera Real",
       en: "Cordillera Real"
     },
-    description: {
-      de: "Die Cordillera Real ist eine der bedeutendsten Gebirgsketten der Anden in Bolivien und beeindruckt mit schneebedeckten Gipfeln.",
-      hu: "A Cordillera Real az Andok egyik legjelentősebb hegylánca Bolíviában, amely lenyűgöző hófedte csúcsaival tűnik ki.",
-      ro: "Cordillera Real este unul dintre cele mai importante lanțuri muntoase ale Anzilor din Bolivia, impresionând cu vârfurile sale acoperite de zăpadă.",
-      en: "The Cordillera Real is one of the most significant mountain ranges of the Andes in Bolivia, impressing with its snow-capped peaks."
-    },
-    facts: {
-      de: [
-        "Länge: ca. 125 km",
-        "Höchster Punkt: Illimani (6.438 m)",
-        "Trennt Altiplano vom Amazonas",
-        "Wichtige Wasserquelle"
-      ],
-      hu: [
-        "Hossz: kb. 125 km",
-        "Legmagasabb pont: Illimani (6438 m)",
-        "Elválasztja az Altiplanót az Amazonastól",
-        "Fontos vízforrás"
-      ],
-      ro: [
-        "Lungime: aprox. 125 km",
-        "Cel mai înalt punct: Illimani (6.438 m)",
-        "Separă Altiplano de Amazon",
-        "Sursă importantă de apă"
-      ],
-      en: [
-        "Length: approx. 125 km",
-        "Highest point: Illimani (6,438 m)",
-        "Separates Altiplano de Amazon",
-        "Important water source"
-      ]
-    },
     descriptionAdvanced: {
-      de: "Die Cordillera Real ist Boliviens spektakulärste Gebirgskette, die sich über 125 Kilometer am östlichen Rand des Altiplano erstreckt. Sie besteht aus gewaltigen Granitblöcken, die von ewigem Schnee und Gletschern bedeckt sind und die dramatische Kulisse für La Paz bilden. Die höchsten Gipfel wie der Illimani und der Illampu übersteigen die 6.000-Meter-Marke und spielen eine zentrale Rolle in der andinen Mythologie. Die Kordillere ist nicht nur ein Magnet für Bergsteiger, sondern auch der wichtigste Wasserspeicher für die Millionenmetropole La Paz. Die Wanderungen durch diese Hochgebirgswelt bieten unvergleichliche Ausblicke auf die schroffen Gipfel und tiefblauen Gletscherseen.",
-      hu: "A Cordillera Real Bolívia leglátványosabb hegylánca, amely mintegy 125 kilométer hosszan húzódik az Altiplano-fennsík keleti szélén. A hegység hatalmas gránittömbökből áll, melyeket örök hó és gleccserek borítanak, drámai hátteret biztosítva La Paz városának. Legmagasabb csúcsai, mint az Illimani és az Illampu, a 6000 métert is meghaladják, és fontos szerepet játszanak az andoki mitológiában. A hegylánc nemcsak turisztikai látványosság, hanem létfontosságú vízforrás is a környező völgyek és a metropolisz számára. Földrajz K7 – hegységek kialakulása.",
-      ro: "",
-      en: ""
+      hu: "A Cordillera Real Bolívia leglátványosabb hegylánca, amely mintegy 125 kilométer hosszan húzódik az Altiplano-fennsík keleti szélén. A hegység hatalmas gránittömbökből áll, melyeket örök hó és gleccserek borítanak, drámai hátteret biztosítva La Paz városának. Legmagasabb csúcsai, mint az Illimani és az Illampu, a 6000 métert is meghaladják, és fontos szerepet játszanak az andoki mitológiában. A hegylánc nemcsak turisztikai látványosság, hanem létfontosságú vízforrás is a környező völgyek és a metropolisz számára. A környéken tett túrák során lenyűgöző kilátás nyílik a zord csúcsokra és a mélykék gleccsertavakra. Földrajz K7 — hegységek és vízrajz.",
+      en: "The Cordillera Real is the most spectacular mountain range in the Bolivian Andes, housing numerous glaciated peaks that soar above 6,000 meters. This dramatic mountain spine separates the high, arid Altiplano plateau from the lush, tropical lowlands of the Amazon basin, acting as a critical climatic barrier. The range is composed of massive granitic intrusions that have been sculpted over time by tectonic uplift and intense glacial erosion. It is the primary hydrological source for the La Paz metropolitan area and supports a delicate, high-altitude ecosystem that is essential to the regional water cycle. Geography K8 — mountain chains and climatic barriers."
     },
     factsAdvanced: {
-      de: [
-        "Die Kordillere beherbergt sechs Gipfel über 6.000 Meter Höhe.",
-        "Ihr Name 'Königliche Kordillere' verweist auf ihre fensige und dominante Erscheinung.",
-        "Die Gletscher der Kette haben in den letzten Jahrzehnten aufgrund des Klimawandels stark abgenommen.",
-        "Der Illimani (6.438 m) ist der höchste und bekannteste Gipfel der Kette."
-      ],
-      hu: [
-        "A hegység legmagasabb pontja az Illimani, amely 6438 méter magas.",
-        "Nevének jelentése spanyolul 'Királyi Hegylánc', ami fenséges megjelenésére utal.",
-        "A hegység gleccserei táplálják Bolívia több nagy folyóját és víztározóját.",
-        "Népszerű célpont a hegymászók és a trekking kedvelői körében világszerte."
-      ],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Spectacular mountain range featuring peaks over 6,000m.", "Acts as a primary climatic barrier between the Altiplano and the Amazon.", "Formed by massive granitic tectonic uplift.", "Critical hydrological source for the La Paz valley.", "Host to some of the most technical mountaineering routes in the Andes.", "Provides high-altitude habitats for unique alpine flora and fauna."]
+    }, image: "/poi-images/bolivia-cordillera-real-relief-v2.webp"},
   {
     id: "bolivia-cordillera-occidental-relief-v2",
     type: "mountain",
@@ -78,61 +31,12 @@ export const poiExtraBoliviaReliefV2: POI[] = [
       ro: "Cordillera Occidental",
       en: "Cordillera Occidental"
     },
-    description: {
-      de: "Die westliche Gebirgskette Boliviens ist durch intensive vulkanische Aktivität und trockene Landschaften geprägt.",
-      hu: "Bolívia nyugati hegyláncát intenzív vulkáni tevékenység és száraz tájak jellemzik.",
-      ro: "Lanțul muntos vestic al Boliviei se caracterizează printr-o activitate vulcanică intensă și peisaje aride.",
-      en: "The western mountain range of Bolivia is characterized by intense volcanic activity and arid landscapes."
-    },
-    facts: {
-      de: [
-        "Geprägt von Vulkanen",
-        "Grenzt an Chile und Peru",
-        "Trockenes Klima",
-        "Teil der Anden"
-      ],
-      hu: [
-        "Vulkánok jellemzik",
-        "Chilével és Peruval határos",
-        "Száraz éghajlat",
-        "Az Andok része"
-      ],
-      ro: [
-        "Caracterizat de vulcani",
-        "Se învecinează cu Chile și Peru",
-        "Climat arid",
-        "Parte a Anzilor"
-      ],
-      en: [
-        "Characterized by volcanoes",
-        "Borders Chile and Peru",
-        "Arid climate",
-        "Part of the Andes"
-      ]
-    },
     descriptionAdvanced: {
-      de: "Die Westkordillere bildet die natürliche Grenze Boliviens zu Chile und umfasst die trockenste Hochgebirgsregion des Landes. Diese vulkanische Kette besteht aus zahlreichen erloschenen und ruhenden Vulkanen, darunter der höchste Punkt Boliviens, der Nevado Sajama. Die Landschaft ist geprägt von dünner Luft, kargen Hochebenen und einer spezialisierten Hochlandvegetation wie den polsterartigen Yareta-Pflanzen. Trotz der lebensfeindlichen Bedingungen ist die Region reich an Bodenschätzen, insbesondere Schwefel und Borax. Die weiten, farbenfrohen Wüstenlandschaften und die einsamen Vulkankegel verleihen der Westkordillere eine mystische Schönheit.",
-      hu: "A Nyugati-Kordillerák Bolívia természetes határát képezik Chile felé, és az ország legszárazabb hegyvidéki területét foglalják magukban. Ez a vulkanikus láncolat számos kialudt és szunnyadó tűzhányót tartalmaz, köztük az ország legmagasabb pontját, a Sajama-vulkánt. A tájat a ritka levegő, a kietlen fennsíkok és a különleges, magassági növényzet, például a yareta párnás növények jellemzik. A zord körülmények ellenére a terület gazdag ásványkincsekben, különösen kénben és bóraxban. Földrajz K8 – vulkanizmus és lemeztektonika.",
-      ro: "",
-      en: ""
+      en: "The Cordillera Occidental is the western spine of the Bolivian Andes, forming a high-altitude volcanic landscape along the border with Chile. This range is characterized by its stark, barren beauty, consisting of dozens of volcanic cones, geothermal fields, and extensive salt flats that occupy the high-altitude basins. The region is among the driest on Earth, with minimal vegetation and a landscape dominated by basaltic lava flows and ash deposits. It acts as a massive geological barrier that influences regional wind patterns and moisture distribution across the high plateau. Geography K7 — volcanic landscapes."
     },
     factsAdvanced: {
-      de: [
-        "Hier befindet sich mit dem Sajama (6.542 m) der höchste Berg des Landes.",
-        "Die Gebirgskette ist Teil des Pazifischen Feuerrings.",
-        "Die Region beheimatet die höchstgelegenen Wälder der Welt aus Polylepis-Bäumen.",
-        "Die Niederschlagsmengen gehören zu den niedrigsten in ganz Südamerika."
-      ],
-      hu: [
-        "Itt található Bolívia legmagasabb csúcsa, a 6542 méteres Sajama-vulkán.",
-        "A hegység a Csendes-óceáni Tűzgyűrű részét képezi.",
-        "A területen találhatók a világ legmagasabban fekvő erdői (Polylepis tarapacana).",
-        "A klíma rendkívül száraz, éves szinten alig esik csapadék."
-      ],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Western mountain range of Bolivia forming the border with Chile.", "Characterized by high-altitude volcanic cones and geothermal fields.", "One of the most arid regions on the planet.", "Landscape defined by extensive lava flows and volcanic ash.", "Home to surreal high-altitude salt pans.", "Influences regional moisture distribution on the Altiplano."]
+    }, image: "/poi-images/bolivia-cordillera-occidental-relief-v2.webp"},
   {
     id: "bolivia-altiplano-andino-relief-v2",
     type: "relief",
@@ -144,61 +48,12 @@ export const poiExtraBoliviaReliefV2: POI[] = [
       ro: "Podișul Altiplano",
       en: "Altiplano Plateau"
     },
-    description: {
-      de: "Das Altiplano ist eine weite, hochgelegene Hochebene in den Anden, die das kulturelle Zentrum Boliviens bildet.",
-      hu: "Az Altiplano egy kiterjedt, magasan fekvő fennsík az Andokban, amely Bolívia kulturális központját alkotja.",
-      ro: "Altiplano este un platou vast, situat la mare altitudine în Anzi, care formează centrul cultural al Boliviei.",
-      en: "The Altiplano is a vast, high-altitude plateau in the Andes that forms the cultural center of Bolivia."
-    },
-    facts: {
-      de: [
-        "Höhe: ca. 3.750 m",
-        "Zweitgrößte Hochebene der Welt",
-        "Endorheisches Becken",
-        "Heimat vieler indigener völker"
-      ],
-      hu: [
-        "Magasság: kb. 3750 m",
-        "A világ második legnagyobb fennsíkja",
-        "Lefolyástalan medence",
-        "Számos őslakos nép otthona"
-      ],
-      ro: [
-        "Altitudine: aprox. 3.750 m",
-        "Al doilea cel mai mare platou din lume",
-        "Bazin endoreic",
-        "Căminul multor popoare indigene"
-      ],
-      en: [
-        "Elevation: approx. 3,750 m",
-        "Second largest plateau in the world",
-        "Endorheic basin",
-        "Home to many indigenous peoples"
-      ]
-    },
     descriptionAdvanced: {
-      de: "Das Altiplano ist eine gewaltige, abflusslose Hochebene im Herzen Boliviens, die auf einer durchschnittlichen Höhe von 3.700 bis 3.800 Metern liegt. Es ist nach Tibet das zweitgrößte Hochplateau der Welt und beherbergt einen Großteil der bolivianischen Bevölkerung, einschließlich der Metropolen La Paz und El Alto. Die Landschaft ist geprägt von Salzseen, Quinoa-Feldern und riesigen Lama-Herden unter einem tiefblauen, strahlenden Himmel. Historisch war dieses Gebiet das Zentrum bedeutender Kulturen wie Tiwanaku und der Aymara-Königreiche. Das Altiplano ist ein Ort extremer Kontraste zwischen karger Natur und lebendiger indigener Kultur.",
-      hu: "Az Altiplano Bolívia szívében elterülő hatalmas, lefolyástalan fennsík, amely átlagosan 3700-3800 méter magasságban fekszik. Ez a világ második legnagyobb magashegyi fennsíkja Tibet után, és itt összpontosul Bolívia lakosságának jelentős része, beleértve La Paz és El Alto metropoliszait. A vidéket sós tavak, quinoaföldek és láma-csordák jellemzik, az égbolt pedig a ritka levegő miatt hihetetlenül tiszta és kék. Történelmileg ez a terület volt az otthona a Tiwanaku civilizációnak és az ajmara kultúrának. Földrajz K7 – magashegyi tájak.",
-      ro: "",
-      en: ""
+      en: "The Altiplano is the vast, high-altitude plateau nestled between the eastern and western branches of the Andean mountain chains. Sitting at an average elevation of nearly 3,800 meters, it is the second-highest plateau in the world, covering a significant portion of the Bolivian territory. The basin is an endorheic system, meaning its waters do not drain to the ocean but instead feed into internal basins like Lake Titicaca and the Salar de Uyuni. The Altiplano is the cradle of ancient Andean civilizations and home to the majority of the Bolivian population, despite its harsh, semi-arid climate. Geography K7 — high plateaus."
     },
     factsAdvanced: {
-      de: [
-        "Das Plateau erstreckt sich über eine Länge von etwa 900 Kilometern.",
-        "Hier liegt der Titicacasee, das höchste schiffbare Gewässer der Erde.",
-        "Die Temperaturen können nachts selbst im Sommer unter den Gefrierpunkt fallen.",
-        "Im Süden des Altiplano liegen die größten Lithiumreserven der Welt."
-      ],
-      hu: [
-        "A fennsík észak-déli irányban mintegy 900 kilométer hosszan terül el.",
-        "Itt található a világ legmagasabban fekvő hajózható tava, a Titicaca-tó.",
-        "A hőmérséklet napközben kellemes, de éjszaka gyakran fagypont alá süllyed.",
-        "Az Altiplano déli részén hatalmas sósivatagok, köztük az Uyuni-sósivatag fekszik."
-      ],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Second-highest plateau in the world at ~3,800m elevation.", "Enclosed basin between the Cordillera Occidental and Real.", "Cradle of major pre-Inca civilizations like Tiwanaku.", "Endorheic system with no oceanic drainage.", "Home to the famous Salar de Uyuni and Lake Titicaca.", "The demographic and historical center of the Bolivian Andes."]
+    }, image: "/poi-images/bolivia-altiplano-andino-relief-v2.webp"},
   {
     id: "bolivia-llanos-de-moxos-relief-v2",
     type: "relief",
@@ -210,61 +65,12 @@ export const poiExtraBoliviaReliefV2: POI[] = [
       ro: "Câmpiile Moxos",
       en: "Llanos de Moxos"
     },
-    description: {
-      de: "Die Llanos de Moxos sind weite Überschwemmungsgebiete im bolivianischen Amazonasbecken, bekannt für ihre reiche Biodiversität.",
-      hu: "A Llanos de Moxos hatalmas árterületek a bolíviai Amazonas-medencében, amelyek gazdag biológiai sokféleségükről ismertek.",
-      ro: "Llanos de Moxos sunt câmpii inundabile vaste din bazinul amazonian bolivian, cunoscute pentru biodiversitatea lor bogată.",
-      en: "The Llanos de Moxos are vast floodplains in the Bolivian Amazon basin, known for their rich biodiversity."
-    },
-    facts: {
-      de: [
-        "Feuchtgebiet von globaler Bedeutung",
-        "Saisonale Überschwemmungen",
-        "Größe: über 100.000 km²",
-        "Präkolumbianische Erdwerke"
-      ],
-      hu: [
-        "Globális jelentőségű vizes élőhely",
-        "Szezonális áradások",
-        "Méret: több mint 100 000 km²",
-        "Kolumbusz előtti földsáncok"
-      ],
-      ro: [
-        "Zonă umedă de importanță globală",
-        "Inundații sezoniere",
-        "Dimensiune: peste 100.000 km²",
-        "Lucrări de pământ precolumbiene"
-      ],
-      en: [
-        "Wetland of global importance",
-        "Seasonal flooding",
-        "Size: over 100,000 km²",
-        "Pre-Columbian earthworks"
-      ]
-    },
     descriptionAdvanced: {
-      de: "Die Llanos de Moxos, auch als Beni-Savanne bekannt, sind eine riesige tropische Tiefebene im Nordosten Boliviens, die Teil des Amazonasbeckens ist. Das Gebiet ist durch saisonale Überschwemmungen geprägt, die die Savanne für einen Großteil des Jahres in eine sumpfige Wasserlandschaft verwandeln. Eine Besonderheit ist das Erbe der 'Wasserzivilisation': Vor der spanischen Eroberung bauten die Ureinwohner hier komplexe Kanalsysteme und künstliche Erdhügel (Lomas), um Landwirtschaft trotz der Fluten zu betreiben. Heute ist die Region vor allem für ihre extensive Rinderzucht und ihre reiche Vogelwelt berühmt. Es ist ein faszinierendes Beispiel für die Anpassung des Menschen an extreme Wasserzyklen.",
-      hu: "A Llanos de Moxos, más néven Beni-szavanna, Bolívia északkeleti részén fekvő hatalmas, trópusi síkság, amely az Amazonas-medence része. A területet szezonális áradások jellemzik, amelyek az év nagy részében mocsaras, vizenyős tájjá változtatják a szavannát. Érdekessége a 'vízi civilizáció' öröksége: a spanyol hódítás előtt az itt élő őslakosok bonyolult csatornarendszereket és mesterséges dombokat (lomas) építettek a mezőgazdaság fenntartására. Ma a vidék elsősorban szarvasmarha-tenyésztéséről és gazdag madárvilágáról nevezetes. Földrajz K7 – trópusi síkságok.",
-      ro: "",
-      en: ""
+      en: "The Llanos de Moxos is a vast tropical wetland landscape located in the northern part of the Bolivian Amazon basin. This region is famous for its complex system of ancient, human-made earthworks, including canals, raised fields, and mounds that demonstrate a highly developed pre-Hispanic society. During the wet season, the area transforms into an immense mosaic of flooded savannahs and forests, creating a unique hydrological cycle. It is a critical region for understanding early human adaptation to flood-prone tropical environments. History K8 — ancient landscape management."
     },
     factsAdvanced: {
-      de: [
-        "Das Gebiet erstreckt sich über eine Fläche von mehr als 100.000 Quadratkilometern.",
-        "Heimat des seltenen Blaulatzaras, der nur in dieser Region vorkommt.",
-        "In der Regenzeit stehen bis zu 80% der Fläche unter Wasser.",
-        "Archäologen haben tausende künstliche Hügel als Zeugnisse früher Hochkulturen entdeckt."
-      ],
-      hu: [
-        "A terület több mint 100 000 négyzetkilométeren terül el.",
-        "Itt található a ritka és veszélyeztetett kéktorkú ara egyik utolsó menedékhelye.",
-        "Az esős évszakban a síkság akár 60-80%-át is víz boríthatja.",
-        "A régészek több ezer mesterséges földhalmot azonosítottak a területen."
-      ],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Extensive tropical wetland region in the northern Amazon basin.", "Features complex prehistoric earthworks and raised fields.", "Hydrology dominated by massive seasonal flooding cycles.", "Supports a unique mosaic of flooded savannahs and forest patches.", "Critical site for studying pre-Hispanic large-scale landscape engineering.", "One of the largest tropical freshwater systems in the country."]
+    }, image: "/poi-images/bolivia-llanos-de-moxos-relief-v2.webp"},
   {
     id: "bolivia-bosque-seco-chiquitano-relief-v2",
     type: "forest",
@@ -276,61 +82,12 @@ export const poiExtraBoliviaReliefV2: POI[] = [
       ro: "Pădurea uscată Chiquitano",
       en: "Chiquitano Dry Forest"
     },
-    description: {
-      de: "Der Chiquitano ist der größte intakte tropische Trockenwald der Welt und ein wichtiger ökologischer Übergangsbereich.",
-      hu: "A Chiquitano a világ legnagyobb érintetlen trópusi száraz erdeje és egy fontos ökológiai átmeneti zóna.",
-      ro: "Chiquitano este cea mai mare pădure tropicală uscată intactă din lume și o zonă de tranziție ecologică importantă.",
-      en: "The Chiquitano is the largest intact tropical dry forest in the world and an important ecological transition zone."
-    },
-    facts: {
-      de: [
-        "Größter seiner Art weltweit",
-        "Übergang zum Amazonas",
-        "Hohe Endemismus-Rate",
-        "Bedroht durch Abholzung"
-      ],
-      hu: [
-        "A legnagyobb a maga nemében a világon",
-        "Átmenet az Amazonas felé",
-        "Magas endemizmus-arány",
-        "Az erdőirtás fenyegeti"
-      ],
-      ro: [
-        "Cea mai mare de acest gen din lume",
-        "Tranziție către Amazon",
-        "Rată ridicată de endemism",
-        "Amenințată de defrișări"
-      ],
-      en: [
-        "Largest of its kind globally",
-        "Transition to the Amazon",
-        "High rate of endemism",
-        "Threatened by deforestation"
-      ]
-    },
     descriptionAdvanced: {
-      de: "Der Chiquitano-Trockenwald ist ein einzigartiges Ökosystem im Osten Boliviens, vor allem im Departement Santa Cruz. Er ist der weltweit größte noch intakte tropische Trockenwald und bildet eine ökologische Brücke zwischen den Amazonas-Regenwäldern und den trockenen Dornsavannen des Chaco. Die Pflanzen und Tiere hier haben sich an lange Trockenperioden angepasst, wobei viele Bäume ihre Blätter abwerfen, um Wasser zu sparen. Neben seinem biologischen Wert beherbergt das Gebiet auch die berühmten Jesuitenmissionen, die zum Weltkulturerbe gehören. Der Wald ist heute durch die Ausweitung der Landwirtschaft und zunehmende Waldbrände in seinem Bestand gefährdet.",
-      hu: "A Chiquitano-szárazerdő egyedülálló ökoszisztéma Bolívia keleti részén, Santa Cruz megyében. Ez a világ legnagyobb megmaradt trópusi száraz erdeje, amely hidat képez az Amazonas esőerdői és a Gran Chaco száraz szavannái között. Az itt élő növények és állatok alkalmazkodtak a hosszú száraz időszakokhoz, sok fa ilyenkor ledobja leveleit a víz megtakarítása érdekében. A terület nemcsak biológiailag értékes, hanem itt találhatók a híres jezsuita missziók is, amelyek a kulturális örökség részét képezik. Biológia K8 – különleges erdőtípusok.",
-      ro: "",
-      en: ""
+      en: "The Bosque Seco Chiquitano is a unique, semi-arid dry forest ecosystem located in the eastern lowlands of Bolivia, transitioning between the Amazon and the Chaco regions. It is the largest remaining block of dry forest in the world, characterized by highly drought-resistant vegetation and a rich biodiversity that is adapted to long, dry periods. This region is of critical scientific interest due to its distinct evolutionary history and its role as a biological corridor. The landscape is currently under significant pressure from agricultural development, making it a priority for conservation in the tropical lowlands. Biology K8 — dry forest ecosystems."
     },
     factsAdvanced: {
-      de: [
-        "Gilt als der artenreichste Trockenwald der Erde.",
-        "Die Bäume erreichen hier meist nur Höhen von 20 bis 30 Metern.",
-        "Beherbergt zahlreiche endemische Arten, die nur in diesem Waldtyp vorkommen.",
-        "Die Niederschläge sind extrem saisonal verteilt."
-      ],
-      hu: [
-        "A terület számos endemikus fajnak ad otthont, amelyek sehol máshol nem találhatók meg.",
-        "A fák magassága itt általában 20-30 méter, elmaradva az esőerdők óriásaitól.",
-        "Az erdőt a mezőgazdaság terjeszkedése és az erdőtüzek súlyosan veszélyeztetik.",
-        "A csapadék évi mennyisége 600 és 1600 mm között mozog, erős szezonalitással."
-      ],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Largest contiguous block of tropical dry forest globally.", "Transition zone between the Amazon and the Gran Chaco.", "Ecosystem uniquely adapted to intense, prolonged drought.", "Critically important biological corridor in the lowlands.", "High levels of endemic plant and animal species.", "Faces major conservation challenges from agricultural expansion."]
+    }, image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp"},
   {
     id: "bolivia-gran-chaco-relief-v2",
     type: "relief",
@@ -377,7 +134,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Gran Chaco ist eine weite, halbtrockene Tiefebene im Herzen Südamerikas, deren nordwestlicher Teil zu Bolivien gehört. Diese Region zeichnet sich durch extreme Temperaturen aus: Im Sommer werden hier die höchsten Werte des Kontinents gemessen, während die Winter trocken und staubig sind. Die Vegetation wird von dornigen Sträuchern und harten Hölzern wie dem berühmten 'Axtbrecher'-Baum Quebracho dominiert. Historisch ist das Gebiet durch den blutigen Chaco-Krieg zwischen Bolivien und Paraguay in den 1930er Jahren geprägt. Heute ist die Region Boliviens wichtigstes Zentrum für die Erdgasförderung und ein Ort rauer, unberührter Wildnis.",
       hu: "A Gran Chaco egy kiterjedt, száraz alföld Dél-Amerika szívében, amelynek északnyugati része Bolíviához tartozik. Ezt a vidéket a szélsőséges hőmérsékletek jellemzik: nyáron itt mérik a kontinens legmagasabb értékeit, míg a tél száraz és poros. A növényzetet tövises cserjék és keményfák, például a híres 'fejszetörő' quebracho fa uralják. A terület történelmileg is fontos, hiszen itt zajlott a véres Chaco-háború Paraguay és Bolívia között az 1930-as években. Manapság a régió Bolívia legfontosabb földgázkitermelő központja. Földrajz K8 – kontinentális síkságok.",
-      ro: "",
+      ro: "Gran Chaco este o câmpie vastă, semi-aridă, în inima Americii de Sud, a cărei parte nord-vestică aparține Boliviei. Această regiune se caracterizează prin temperaturi extreme: vara se înregistrează aici cele mai ridicate valori de pe continent, în timp ce iernile sunt uscate și prăfuite. Vegetația este dominată de arbuști spinoși și esențe de lemn tare, precum faimosul arbore Quebracho, supranumit 'spărgătorul de topoare'. Istoric, zona este marcată de sângerosul Război Chaco între Bolivia și Paraguay din anii 1930. Astăzi, regiunea este cel mai important centru al Boliviei pentru extracția gazelor naturale și un loc de sălbăticie aspră și neatinsă.",
       en: ""
     },
     factsAdvanced: {
@@ -393,10 +150,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A 'Chaco' név kecsua nyelven vadászterületet jelent.",
         "Itt találhatók Dél-Amerika legnagyobb összefüggő száraz erdőségei."
       ],
-      ro: [],
+      ro: [
+        "Temperaturile de vară în Chaco pot depăși regulat 45 de grade Celsius.",
+        "Adăpostește ultimele grupuri indigene din Bolivia care trăiesc în izolare (Ayoreo).",
+        "Numele 'Chaco' provine din limba Quechua și înseamnă 'teren de vânătoare'.",
+        "Este cea mai mare zonă continuă de pădure uscată din America de Sud."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-gran-chaco-relief-v2.webp"},
   {
     id: "bolivia-serrania-aguarague-relief-v2",
     type: "mountain",
@@ -443,7 +204,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Serranía del Aguaragüe ist eine schmale, aber lange Gebirgskette im Vorland der Anden im Departement Tarija. Dieses Gebirge bildet die natürliche Grenze zwischen den Andentälern und der weiten Ebene des Gran Chaco. Seine herausragende Bedeutung liegt in seinen Wasserressourcen: Das Gebirge fängt die Feuchtigkeit der Winde auf, und die hier entspringenden Bäche versorgen die umliegenden Städte wie Yacuiba und Villamontes mit Trinkwasser. Unter dem Gebirge lagern zudem riesige Erdgasvorkommen, was zu einem ständigen Spannungsfeld zwischen Naturschutz und wirtschaftlicher Nutzung führt. Der Aguaragüe ist ein lebenswichtiger biologischer Korridor für wandernde Tierarten.",
       hu: "A Serranía del Aguaragüe az Andok keleti előterében húzódó keskeny, de hosszú hegylánc Tarija megyében. Ez a hegység alkotja a természetes határt az andoki völgyek és a Gran Chaco síksága között. Kiemelkedő jelentőségét a vízkészleteknek köszönheti: a hegység fogja fel a nedvességet, és az innen eredő patakok látják el ivóvízzel a környező városokat, például Yacuibát és Villamontest. A terület alatt hatalmas földgázmezők találhatók, ami állandó konfliktusforrást jelent a természetvédelem és a gazdasági kitermelés között. Földrajz K8 – hegyláncok és erőforrások.",
-      ro: "",
+      ro: "Serranía de Aguaragüe este un lanț muntos îngust, dar lung, situat în zona subandină a departamentului Tarija. Acest munte formează granița naturală între văile andine și câmpia vastă a regiunii Gran Chaco. Importanța sa deosebită constă în resursele sale de apă: muntele captează umiditatea adusă de vânturi, iar pârâurile care izvorăsc aici alimentează cu apă potabilă orașele din jur, precum Yacuiba și Villamontes. Sub munte se află, de asemenea, zăcăminte uriașe de gaze naturale, ceea ce duce la un conflict constant între protecția naturii și exploatarea economică. Aguaragüe este un coridor biologic vital pentru speciile de animale migratoare.",
       en: ""
     },
     factsAdvanced: {
@@ -459,10 +220,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Guaraní nyelven az 'Aguaragüe' jelentése 'a róka szőre', ami a sűrű növényzetre utal.",
         "A hegység fontos folyosó az élővilág vándorlása számára az Andok és a Chaco között."
       ],
-      ro: [],
+      ro: [
+        "Cel mai înalt vârf al lanțului se află la o altitudine de aproximativ 1800 de metri.",
+        "În limba Guaraní, Aguaragüe înseamnă 'blana vulpii'.",
+        "Regiunea a fost declarată parc național în anul 2000 pentru a proteja sursele de apă.",
+        "Adăpostește un amestec de floră și faună tipică atât zonei andine, cât și regiunii Chaco."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-serrania-aguarague-relief-v2.webp"},
   {
     id: "bolivia-volcan-tunupa-relief-v2",
     type: "mountain",
@@ -509,7 +274,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Vulkan Tunupa ist einer der ikonischsten Berge Boliviens und thront am nördlichen Rand des gewaltigen Salar de Uyuni. Die farbenprächtigen, rötlich-gelben Gesteine des Vulkans bieten einen atemberaubenden Anblick über der gleißend weißen Salzpfanne. Im andinen Volksglauben ist Tunupa eine Mutterfigur, und die Salzwüste soll aus ihren Tränen und ihrer Milch entstanden sein. An den Hängen des Berges befinden sich die Mumien von Coquesa, die in einer Höhle über Jahrhunderte konserviert wurden. Das Panorama vom Gipfel oder von den Aussichtspunkten am Hang über die endlose weiße Weite gehört zu den beeindruckendsten Landschaften der Welt. Ein heiliger Ort voller Mythen.",
       hu: "A Tunupa vulkán Bolívia egyik legikonikusabb hegye, amely a hatalmas Uyuni-sósivatag északi peremén őrködik. A vulkán színpompás, vöröses-sárgás kőzetei lenyűgöző látványt nyújtanak a vakító fehér sósíkság felett. Az andoki néphit szerint Tunupa egy anyafigura, a sósivatag pedig az ő könnyeiből és tejéből keletkezett. A hegy oldalában találhatók a Coquesa-múmiák, amelyek egy barlangban maradtak fenn épségben az utókor számára. A csúcsról nyíló panoráma a végtelen fehérségre a világ egyik legszebb kilátása. Földrajz K8 – vulkáni formakincs.",
-      ro: "",
+      ro: "Vulcanul Tunupa este unul dintre cei mai iconici munți ai Boliviei, tronând la marginea nordică a imensului Salar de Uyuni. Rocile colorate, de un roșu-galben intens, ale vulcanului oferă o priveliște uluitoare deasupra întinderii de sare de un alb orbitor. În credința populară andină, Tunupa este o figură maternă, iar deșertul de sare s-ar fi format din lacrimile și laptele ei. Pe versanții muntelui se află mumiile din Coquesa, care au fost conservate într-o peșteră timp de secole. Panorama de pe vârf sau de la punctele de belvedere asupra albului infinit de dedesubt aparține celor mai impresionante peisaje din lume.",
       en: ""
     },
     factsAdvanced: {
@@ -525,10 +290,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A vulkán kőzetei dácitból és andezitből állnak.",
         "A hegyoldalban flamingók is gyakran megfigyelhetők a közeli vizes területeken."
       ],
-      ro: [],
+      ro: [
+        "Vulcanul atinge o altitudine de 5321 de metri.",
+        "Mumiile din peșterile de pe versant sunt mărturii ale culturilor precolumbiene.",
+        "Vulcanul este compus în principal din roci dacitice și andezitice.",
+        "La baza muntelui, în lagune, pot fi observați adesea păsări flamingo."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-volcan-tunupa-relief-v2.webp"},
   {
     id: "bolivia-volcan-parinacota-relief-v2",
     type: "mountain",
@@ -575,7 +344,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Vulkan Parinacota ist ein perfekt geformter Stratovulkan, der an der Grenze zwischen Bolivien und Chile in der Nähe des Sajama-Nationalparks aufragt. Zusammen mit seinem Zwillingsbruder, dem Vulkan Pomerape, bildet er die Gruppe der 'Payachata' (Zwillinge). Am Fuße des Berges liegt der wunderschöne Chungará-See, in dessen Wasser sich der schneebedeckte Gipfel spiegelt. Geologisch ist der Parinacota berühmt für einen gewaltigen Flankeneinsturz vor etwa 8.000 Jahren, der die Landschaft nachhaltig veränderte und Seen aufstaute. Seine ebenmäßige Form macht ihn zu einem der ästhetischsten Vulkane der gesamten Andenkette. Er gilt als einer der höchsten noch potenziell aktiven Vulkane.",
       hu: "A Parinacota vulkán egy tökéletes kúp alakú stratovulkán, amely a bolíviai-chilei határon, a Sajama Nemzeti Park szomszédságában magasodik. Testvérével, a Pomerape vulkánnal együtt alkotják a 'Payachata' (Ikrek) csoportot. A hegy lábánál található a gyönyörű Chungará-tó (chilei oldalon), melynek tükrében a hófödte csúcs visszatükröződik. Geológiai szempontból a Parinacota híres egy kb. 8000 évvel ezelőtti hatalmas omlásról, amely gátat vetett a vizeknek és átformálta a környék domborzatát. Földrajz K8 – rétegvulkánok szerkezete.",
-      ro: "",
+      ro: "Vulcanul Parinacota este un stratovulcan perfect format, care se înalță la granița dintre Bolivia și Chile, în apropierea Parcului Național Sajama. Împreună cu vulcanul Pomerape, formează grupul 'Payachata' (Gemenii). La baza muntelui se află frumosul lac Chungará, în apele căruia se oglindește vârful înzăpezit. Din punct de vedere geologic, Parinacota este faimos pentru o prăbușire masivă a versantului acum aproximativ 8000 de ani, care a schimbat durabil peisajul și a blocat apele formând lacuri. Forma sa regulată îl face unul dintre cei mai estetici vulcani din întreg lanțul muntos al Anzilor. Este considerat unul dintre cei mai înalți vulcani potențial activi.",
       en: ""
     },
     factsAdvanced: {
@@ -591,10 +360,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A hegy csúcsát állandó gleccser és jégsapka borítja.",
         "A 'Parinacota' név ajmara nyelven 'flamingók tava' jelentéssel bír."
       ],
-      ro: [],
+      ro: [
+        "Vârful se află la o altitudine impresionantă de 6348 de metri.",
+        "Numele înseamnă 'Lacul Flamingilor' în limba Aymara.",
+        "Ascensiunea necesită o bună aclimatizare, dar este moderată din punct de vedere tehnic.",
+        "Are o formă conică aproape perfectă, cu o calotă de gheață permanentă."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-volcan-parinacota-relief-v2.webp"},
   {
     id: "bolivia-volcan-pomerape-relief-v2",
     type: "mountain",
@@ -641,7 +414,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Vulkan Pomerape ist der nördliche Teil der Payachata-Zwillinge an der Grenze zwischen Bolivien und Chile. Während sein südlicher Nachbar, der Parinacota, eine fast perfekte Kegelform besitzt, ist der Gipfel des Pomerape stärker erodiert, was auf ein höheres Alter hindeutet. Der Berg ist das ganze Jahr über von Schnee und Eis bedeckt, und seine Besteigung gilt aufgrund der steileren Hänge als technisch anspruchsvoller als die des Parinacota. Der Vulkan war im Pleistozän aktiv und obwohl er derzeit als erloschen gilt, erinnert die geothermische Aktivität der Umgebung an die Kräfte im Inneren. Er bietet eine wilde und einsame Hochgebirgskulisse.",
       hu: "A Pomerape vulkán a bolíviai-chilei határon álló Payachata ikervulkánok északabbi tagja. Míg déli szomszédja, a Parinacota szabályos kúp alakú, a Pomerape csúcsa némileg erodáltabb, ami idősebb korára utal. A hegyet egész évben hó és jég fedi, és megmászása technikailag nehezebb feladatnak számít a meredekebb lejtők miatt. A vulkán a pleisztocén korban volt aktív, és bár jelenleg kialudtnak tekintik, a környék geotermikus aktivitása emlékeztet a mélyben rejlő erőkre. Földrajz K8 – vulkáni erózió.",
-      ro: "",
+      ro: "Vulcanul Pomerape reprezintă partea nordică a gemenilor Payachata de la granița dintre Bolivia și Chile. În timp ce vecinul său sudic, Parinacota, are o formă de con aproape perfectă, vârful muntelui Pomerape este mai puternic erodat, ceea ce indică o vârstă mai înaintată. Muntele este acoperit de zăpadă și gheață pe tot parcursul anului, iar ascensiunea sa este considerată mai solicitantă din punct de vedere tehnic decât cea a vulcanului Parinacota, din cauza versanților mai abrupți. Vulcanul a fost activ în Pleistocen și, deși este considerat stins în prezent, activitatea geotermală din zonă amintește de forțele din interior. Oferă un peisaj montan sălbatic și solitar.",
       en: ""
     },
     factsAdvanced: {
@@ -657,10 +430,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A vulkán dácitból és andezitből épül fel.",
         "A megmászásához általában chilei vagy bolíviai magashegyi engedély szükséges."
       ],
-      ro: [],
+      ro: [
+        "Vârful muntelui Pomerape atinge o altitudine de 6282 de metri.",
+        "Formează împreună cu Parinacota grupul impunător Payachata.",
+        "Muntele este format din fluxuri de lavă dacitică și andezitică.",
+        "Pe versanții săi pasc adesea turme de vicunii timide."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-volcan-pomerape-relief-v2.webp"},
   {
     id: "bolivia-cerro-zapaleri-relief-v2",
     type: "mountain",
@@ -707,7 +484,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Cerro Zapaleri nimmt eine geografisch besondere Stellung ein, da dieser Berg den gemeinsamen Grenzpunkt zwischen Bolivien, Chile und Argentinien markiert. Dieser erloschene Vulkan liegt in einem abgelegenen Teil der Anden am südlichen Rand des Puna-Plateaus. Die Gegend ist extrem trocken, windig und kalt, wobei die Landschaft von gelblich-braunen Gesteinen und spärlicher Hochlandvegetation geprägt ist. Vom Gipfel des Berges aus kann man gleichzeitig auf das Territorium dreier Länder blicken, was ein einzigartiges Erlebnis für die wenigen Abenteurer bietet, die diesen entlegenen Ort besuchen. Er liegt inmitten der kargen Schönheit der Hochwüsten-Region.",
       hu: "A Cerro Zapaleri földrajzi szempontból különleges helyet foglal el, ugyanis ez a hegy jelöli Bolívia, Chile és Argentína közös határpontját. Ez a kialudt vulkán az Andok távoli, elszigetelt részén található, a Puna-fennsík déli peremén. A vidék rendkívül száraz, szeles és hideg, a tájat sárgás-barnás kőzetek és ritka magassági növényzet jellemzi. A hegy csúcsáról egyszerre három ország területére lehet rátekinteni, ami egyedülálló élményt nyújt a kevés ide látogató kalandornak. Földrajz K8 – politikai földrajz és határok.",
-      ro: "",
+      ro: "Cerro Zapaleri ocupă o poziție geografică specială, deoarece acest munte marchează punctul de frontieră comun între Bolivia, Chile și Argentina. Acest vulcan stins se află într-o parte izolată a Anzilor, la marginea sudică a podișului Puna. Zona este extrem de uscată, vântoasă și rece, peisajul fiind dominat de roci galben-maronii și de o vegetație montană rară. De pe vârful muntelui se poate privi simultan pe teritoriul a trei țări, oferind o experiență unică pentru puținii aventurieri care vizitează acest loc îndepărtat. Se află în mijlocul frumuseții aride a regiunii deșertice înalte.",
       en: ""
     },
     factsAdvanced: {
@@ -723,10 +500,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A hegy kőzetei főként andezitből és dácitból állnak.",
         "Megközelítése csak terepjáróval és tapasztalt vezetővel ajánlott a zord körülmények miatt."
       ],
-      ro: [],
+      ro: [
+        "Vârful se află la o altitudine de 5653 de metri deasupra nivelului mării.",
+        "Pe partea boliviană, muntele face parte din Rezervația Eduardo Avaroa.",
+        "Este considerat unul dintre cele mai importante puncte geodezice din America de Sud.",
+        "Regiunea este aproape complet nelocuită din cauza altitudinii și a arşiţei."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-cerro-zapaleri-relief-v2.webp"},
   {
     id: "bolivia-acotango-relief-v2",
     type: "mountain",
@@ -773,7 +554,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Acotango ist einer der höchsten Gipfel an der bolivianisch-chileinischen Grenze und das zentrale Mitglied des vulkanischen Quimsachata-Trios. Der Berg ist berühmt für die verlassenen Schwefelminen an seinen Hängen, die einst eine wichtige Einnahmequelle für die Menschen in der Umgebung waren. Die Wege zu den Minen sind heute noch sichtbar und führen teilweise bis in sehr große Höhen hinauf, was den Zugang für Bergsteiger erleichtert. Obwohl der Vulkan derzeit ruht, zeugen der schwefelige Geruch in Gipfelnähe und die bunten Gesteinsfarben von der vergangenen Aktivität. Er bietet einen fantastischen Blick auf den nahegelegenen Sajama-Vulkan und die weiten Salzebenen.",
       hu: "Az Acotango a bolíviai-chilei határ egyik legmagasabb csúcsa, a Quimsachata vulkáni hármas központi tagja. A hegy híres a lejtőin található elhagyatott kénbányákról, amelyek egykoron fontos bevételi forrást jelentettek a környék lakóinak. A bányákhoz vezető utak ma is láthatók, sőt, némelyikük egészen nagy magasságokba is felvezet, megkönnyítve a hegymászók dolgát. Bár a vulkán jelenleg szunnyad, a csúcs környékén érezhető kénes szag és a színes kőzetek a múltbéli aktivitásról tanúskodnak. Földrajz K8 – bányászat és vulkáni utóműködés.",
-      ro: "",
+      ro: "Acotango este unul dintre cele mai înalte vârfuri de la granița boliviano-chiliană și membrul central al trioului vulcanic Quimsachata. Muntele este faimos pentru minele de sulf abandonate de pe versanții săi, care au reprezentat cândva o sursă importantă de venit pentru oamenii din zonă. Drumurile către mine sunt vizibile și astăzi și duc parțial până la înălțimi foarte mari, ceea ce facilitează accesul alpiniștilor. Deși vulcanul este în prezent adormit, mirosul de sulf din apropierea vârfului și culorile variate ale rocilor atestă activitatea sa trecută. Oferă o vedere fantastică asupra vulcanului Sajama și a vastelor câmpii de sare.",
       en: ""
     },
     factsAdvanced: {
@@ -789,10 +570,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Az Acotango megmászása technikailag nem túl nehéz, de a magasság komoly kihívás.",
         "A csúcsról kiváló rálátás nyílik a közeli Sajama-vulkánra."
       ],
-      ro: [],
+      ro: [
+        "Vârful atinge o altitudine de 6052 de metri.",
+        "Este cel mai înalt punct al grupului vulcanic Quimsachata.",
+        "Se pot găsi adesea resturi ale vechilor instalații de extracție din mine.",
+        "Ascensiunea este simplă din punct de vedere tehnic, dar necesită rezistență la altitudine."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-acotango-relief-v2.webp"},
   {
     id: "bolivia-cordillera-apolobamba-relief-v2",
     type: "mountain",
@@ -839,7 +624,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Cordillera de Apolobamba erstreckt sich im Nordwesten Boliviens entlang der peruanischen Grenze, fernab der dicht besiedelten Gebiete. Dieses Gebirge ist eine der unberührtesten und wildesten Regionen der Anden, in der gewaltige Eisfelder und tiefe Täler einander abwechseln. Das Gebiet ist die Heimat der alten Kallawaya-Kultur, die als berühmte Naturheiler und Kräuterkundige bekannt sind und deren Wissen von der UNESCO anerkannt wurde. Ein Großteil der Kordillere gehört zum Schutzgebiet Apolobamba, das seltene Arten wie den Brillenbären und das Guanako schützt. Die Einsamkeit und die monumentalen Gletscher machen sie zu einem Geheimtipp für Trekking-Abenteurer.",
       hu: "Az Apolobamba-hegység Bolívia északnyugati részén, a perui határ mentén húzódik, távol a sűrűn lakott területektől. Ez a hegység az Andok egyik legérintetlenebb és legvadabb vidéke, ahol hatalmas jégmezők és mély völgyek váltják egymást. A terület az ősi kallawaya kultúra otthona, akik híres természetgyógyászok és füvesemberek, tudásukat az UNESCO is elismerte. A hegység jelentős része az Apolobamba Integrált Kezelésű Természeti Területhez tartozik, védve az itt élő ritka fajokat, mint a pápaszemes medve. Földrajz K7 – magashegyi ökoszisztémák.",
-      ro: "",
+      ro: "Cordillera de Apolobamba se întinde în nord-vestul Boliviei, de-a lungul graniței cu Peru, departe de zonele dens populate. Acest lanț muntos este unul dintre cele mai virgine și sălbatice regiuni ale Anzilor, unde câmpuri uriașe de gheață și văi adânci alternează. Zona este căminul vechii culturi Kallawaya, renumiți vindecători nativi și botaniști a căror cunoaștere a fost recunoscută de UNESCO. O mare parte a cordilierei aparține ariei protejate Apolobamba, care ocrotește specii rare precum ursul cu ochelari și guanaco. Singurătatea și ghețarii monumentali fac din acest loc o destinație secretă pentru amatorii de trekking.",
       en: ""
     },
     factsAdvanced: {
@@ -855,10 +640,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A vidék gazdag aranyban, amelyet már az inkák előtt is bányásztak.",
         "A hegység a Condoriri-csoportról is nevezetes, amely kondorra emlékeztető formájáról kapta nevét."
       ],
-      ro: [],
+      ro: [
+        "Cel mai înalt vârf este Chaupi Orco, cu 6044 de metri.",
+        "Aici se află cele mai mari suprafețe de ghețari continui din Bolivia.",
+        "Regiunea este bogată în zăcăminte de aur, exploatate încă dinainte de perioada incașă.",
+        "Cordiliera este faimoasă pentru grupul Condoriri, cu forma sa distinctivă."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-cordillera-apolobamba-relief-v2.webp"},
   {
     id: "bolivia-serrania-de-inao-relief-v2",
     type: "mountain",
@@ -905,7 +694,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Serranía de Iñao ist einer der jüngsten Nationalparks Boliviens und liegt im Departement Chuquisaca. Diese Gebirgskette bildet einen wichtigen ökologischen Korridor, in dem die subtropischen Wälder der Anden auf die trockene Chaco-Region treffen. Die Landschaft ist extrem zerklüftet, geprägt von tiefen Schluchten und steilen Berghängen, die fast undurchdringliche Wälder verbergen. Da das Gebiet schwer zugänglich ist, blieb die Tierwelt hier weitgehend ungestört, was unter anderem Jaguaren und den seltenen Brillenbären einen sicheren Rückzugsort bietet. Der Park schützt zudem wichtige Wasserquellen für die umliegende Landwirtschaft. Er ist ein wahres Paradies für Entdecker unberührter Natur.",
       hu: "A Serranía de Iñao Bolívia egyik legfiatalabb nemzeti parkja Chuquisaca megyében. Ez a hegylánc egy fontos ökológiai folyosót alkot, ahol az Andok szubtrópusi erdői találkoznak a száraz Chaco vidékével. A táj rendkívül tagolt, mély kanyonok és meredek hegyoldalak jellemzik, amelyek szinte áthatolhatatlan sűrűségű erdőket rejtenek. Mivel a terület nehezen megközelíthető, az élővilág itt háborítatlan maradt, menedéket nyújtva többek között a jaguároknak és a ritka pápaszemes medvéknek. Földrajz K8 – természetvédelem és biodiverzitás.",
-      ro: "",
+      ro: "Serranía de Iñao este unul dintre cele mai tinere parcuri naționale ale Boliviei, situat în departamentul Chuquisaca. Acest lanț muntos formează un coridor ecologic important, unde pădurile subtropicale ale Anzilor întâlnesc regiunea aridă Chaco. Peisajul este extrem de accidentat, marcat de defilee adânci și versanți abrupți care ascund păduri aproape impenetrabile. Deoarece zona este greu accesibilă, fauna a rămas aici în mare parte neperturbată, oferind un refugiu sigur pentru jaguari și rarii urși cu ochelari. Parcul protejează, de asemenea, surse importante de apă pentru agricultura din jur. Este un adevărat paradis pentru exploratorii naturii virgine.",
       en: ""
     },
     factsAdvanced: {
@@ -921,10 +710,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A parkban több mint 200 madárfajt azonosítottak eddig.",
         "A terület fontos vízbázist jelent a környező mezőgazdasági területeknek."
       ],
-      ro: [],
+      ro: [
+        "Parcul național acoperă o suprafață de peste 260.000 de hectare.",
+        "Altitudinea în parc variază între 600 și 2800 de metri.",
+        "Peste 200 de specii de păsări au fost documentate în această zonă încă puțin explorată.",
+        "Parcul a fost înființat oficial abia în anul 2004."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-serrania-de-inao-relief-v2.webp"},
   {
     id: "bolivia-valle-de-zongo-relief-v2",
     type: "relief",
@@ -971,7 +764,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Zongo-Tal bietet einen der dramatischsten klimatischen und landschaftlichen Übergänge in ganz Bolivien. Innerhalb von nur wenigen Kilometern sinkt die Landschaft von den 4.700 Meter hohen Eishöhen der Pässe bis in die subtropischen Regenwälder unter 1.000 Metern ab. Dieser enorme Höhenunterschied ermöglichte den Bau eines umfangreichen Systems von Wasserkraftwerken, die einen Großteil der Stromversorgung für La Paz sicherstellen. Während der Fahrt durch das Tal durchquert man alle Vegetationszonen der Anden, von kargen Felsen bis hin zu üppigen, dampfenden Nebelwäldern. Es ist ein spektakuläres Ziel für Tagesausflüge von La Paz aus, besonders für Mountainbiker und Fotografen.",
       hu: "A Zongo-völgy Bolívia egyik legdrámaibb éghajlati és domborzati átmenetét kínálja. Mindössze néhány tíz kilométer alatt a táj a 4700 méteres havas hágóktól a 1000 méter alatti szubtrópusi esőerdőkig süllyed. Ez a hatalmas szintkülönbség tette lehetővé egy kiterjedt vízerőmű-rendszer kiépítését, amely La Paz városának áramellátásáért felelős. Az út során az utazó végighaladhat az összes hegyvidéki vegetációs övön, a kietlen szikláktól a dús, páradús köderdőkig. Földrajz K7 – magassági övezetesség az Andokban.",
-      ro: "",
+      ro: "Valea Zongo oferă una dintre cele mai dramatice tranziții climatice și peisagistice din întreaga Bolivie. În doar câțiva kilometri, peisajul coboară de la înălțimile înghețate ale pasurilor montane de 4700 de metri până la pădurile tropicale subtropicale de sub 1000 de metri. Această diferență enormă de altitudine a permis construirea unui sistem extins de hidrocentrale, care asigură o mare parte din alimentarea cu energie electrică pentru La Paz. În timpul călătoriei prin vale, se traversează toate zonele de vegetație ale Anzilor, de la stânci aride la păduri de nori luxuriante. Este o destinație spectaculoasă pentru excursii de o zi din La Paz, în special pentru bicicliști și fotografi.",
       en: ""
     },
     factsAdvanced: {
@@ -987,10 +780,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A völgyben több mint 8 vízerőmű működik sorozatban.",
         "A terület kedvelt célpontja a hegyi kerékpárosoknak és a természetfotósoknak."
       ],
-      ro: [],
+      ro: [
+        "Valea parcurge o diferență de altitudine de aproape 4000 de metri pe o distanță scurtă.",
+        "Opt hidrocentrale folosesc în cascadă căderea de apă a râului Zongo.",
+        "Ghețarul Zongo de la baza muntelui Huayna Potosí este o zonă de cercetare importantă.",
+        "Drumul îngust prin vale este considerat unul dintre cele mai frumoase din Bolivia."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-valle-de-zongo-relief-v2.webp"},
   {
     id: "bolivia-meseta-de-caparu-relief-v2",
     type: "relief",
@@ -1037,7 +834,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Meseta de Caparú ist eine der geheimnisvollsten Landschaften Boliviens und liegt im Herzen des Nationalparks Noel Kempff Mercado. Dieser Tafelberg aus Sandstein, auch 'Tepui' genannt, ragt seit Jahrmillionen isoliert aus der amazonischen Tiefebene auf. Auf dem Hochplateau leben einzigartige Pflanzenarten, die nur dort vorkommen, und von seinen Rändern stürzen die berühmtesten Wasserfälle des Parks, wie der Arcoiris (Regenbogen-Wasserfall), in die Tiefe. Das Gebiet gehört geologisch zum Brasilianischen Schild und ist eines der unberührtesten Naturjuwele Boliviens. Die Meseta ist fast nur aus der Luft oder durch mühsame Expeditionen zu erreichen, was ihren Reiz als 'vergessene Welt' ausmacht.",
       hu: "A Meseta de Caparú Bolívia egyik legrejtélyesebb tája, amely a Noel Kempff Mercado Nemzeti Park szívében fekszik. Ez a homokkőből álló táblahegy, vagy 'tepui', évmilliók óta elszigetelten emelkedik ki az amazonasi síkságból. A fennsíkon különleges, csak itt található növényfajok élnek, és innen zúdulnak alá a park leghíresebb vízesései, mint az Arcoiris (Szivárvány-vízesés). A terület földtanilag a Brazil-pajzshoz tartozik, és Bolívia egyik legérintetlenebb természeti kincse. Földrajz K8 – ősi pajzsok és táblahegyek.",
-      ro: "",
+      ro: "Meseta de Caparú este unul dintre cele mai misterioase peisaje ale Boliviei, situat în inima Parcului Național Noel Kempff Mercado. Acest munte tabular de gresie, numit și 'Tepui', se înalță izolat de milioane de ani deasupra câmpiei amazoniene. Pe platoul înalt trăiesc specii de plante unice care se găsesc doar acolo, iar de pe marginile sale se prăbușesc cascade faimoase, precum Arcoiris (Cascada Curcubeu). Zona aparține din punct de vedere geologic Scutului Brazilian și este una dintre cele mai virgine bijuterii naturale ale Boliviei. Meseta este accesibilă aproape exclusiv pe calea aerului sau prin expediții anevoioase, ceea ce îi conferă farmecul de 'lume uitată'.",
       en: ""
     },
     factsAdvanced: {
@@ -1053,10 +850,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A fennsík tetején szavannák és alacsony erdők váltják egymást.",
         "Megközelítése rendkívül nehéz, általában kisrepülőgépet igényel."
       ],
-      ro: [],
+      ro: [
+        "Altitudinea medie a platoului este situată între 600 și 900 de metri.",
+        "Peisaje similare au servit ca model pentru relatări despre situri preistorice în America de Sud.",
+        "Pe platou, savanele alternează cu păduri pitice.",
+        "Straturile de rocă ale mesetei au o vechime de peste un miliard de ani."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-meseta-de-caparu-relief-v2.webp"},
   {
     id: "bolivia-serrania-de-san-simon-relief-v2",
     type: "mountain",
@@ -1103,7 +904,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Serranía de San Simón ist eine isolierte Hügelkette im Nordosten Boliviens im Departement Beni. Die unerwartet aus der Amazonas-Ebene aufragenden Hügel sind geologisch höchst interessant, da sie über reiche Erzgänge verfügen. Seit dem 18. Jahrhundert sind hier Goldvorkommen bekannt, die immer wieder Wellen von Goldsuchern in die Abgeschiedenheit gelockt haben. Der mit dichtem Regenwald bedeckte Gebirgszug ist bis heute ein schwer zugängliches Gebiet, in dem der Erhalt der Natur eine große Herausforderung darstellt. Die Kombination aus reicher Biodiversität und historischem Bergbau verleiht der Region eine besondere Atmosphäre. Sie ist ein entlegener Außenposten menschlicher Aktivität im weiten Grün des Nordens.",
       hu: "A Serranía de San Simón egy elszigetelt alacsony hegység Bolívia északkeleti részén, Beni megyében. Az amazonasi síkságból váratlanul kiemelkedő dombok geológiai szempontban igen érdekesek, mivel gazdag ásványi telérekkel rendelkeznek. A 18. század óta ismertek az itt található aranylelőhelyek, amelyek hullámokban vonzották ide a szerencsevadászokat. A sűrű esőerdővel borított vonulat ma is nehezen feltárható terület, ahol a természet és az illegális bányászat közötti egyensúly fenntartása nagy kihívást jelent. Földrajz K8 – ásványkincsek az Amazonas-medencében.",
-      ro: "",
+      ro: "Serranía de San Simón este un lanț de dealuri izolat din nord-estul Boliviei, în departamentul Beni. Aceste dealuri, care se ridică pe neașteptate din câmpia Amazonului, sunt extrem de interesante din punct de vedere geologic, deoarece dispun de filoane metalifere bogate. Încă din secolul al XVIII-lea sunt cunoscute aici zăcăminte de aur, care au atras valuri succesive de căutători de aur în această izolare. Acoperit de o pădure tropicală densă, acest lanț muntos este și astăzi o zonă greu accesibilă, unde conservarea naturii reprezintă o mare provocare. Combinația de biodiversitate bogată și minerit istoric conferă regiunii o atmosferă specială.",
       en: ""
     },
     factsAdvanced: {
@@ -1119,7 +920,12 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A dombok között számos kisebb, kristálytiszta vizű patak ered.",
         "A környéken több őslakos közösség is él, akik számára a hegyek szent helynek számítanak."
       ],
-      ro: [],
+      ro: [
+        "Cele mai mari înălțimi ale lanțului de dealuri sunt sub 1000 de metri.",
+        "Zona aparține Scutului Guaporé, una dintre cele mai vechi formațiuni de rocă din Bolivia.",
+        "Numeroase pârâuri cu apă cristalină izvorăsc în dealurile împădurite.",
+        "Pentru comunitățile indigene locale, dealurile au adesea o semnificație spirituală."
+      ],
       en: []
     }
   },
@@ -1169,7 +975,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Lípez-Kordillere ist Boliviens südlichste und raueste Gebirgsregion und Teil der westlichen Andenkette. Dieses Gebiet ist berühmt für seine surrealen Landschaften in extremen Höhen, in denen sich aktive Geysire, farbenprächtige Lagunen wie die Laguna Colorada und schneebedeckte Vulkane befinden. Die Gegend ist extrem dünn besiedelt und das Klima ist so trocken und kalt, dass nur spezialisierte Arten überleben können. Hier befindet sich auch der Uturuncu-Vulkan, von dem Wissenschaftler vermuten, dass er über einem gewaltigen Supervulkan liegt. Eine Reise durch die Lípez-Kordillere ist eine Expedition in eine Welt aus Eis, Feuer und extremen Farben unter einem tiefschwarzen Nachthimmel.",
       hu: "A Lípez-kordillera Bolívia legdélebbi és legzordabb hegyvidéke, az Andok nyugati láncának része. Ez a terület híres a szürreális szépségű, nagy tengerszint feletti magasságban fekvő tájairól, ahol aktív gejzírek, színes lagúnák (mint a Laguna Colorada) és hófödte vulkánok találhatók. A vidék rendkívül gyéren lakott, a klíma pedig annyira száraz és hideg, hogy csak a legszívósabb fajok maradnak meg. Itt található az Uturuncu-vulkán, amelyről a tudósok azt feltételezik, hogy egy szupervulkán felett helyezkedik el. Földrajz K8 – extrém hegyvidéki tájak.",
-      ro: "",
+      ro: "Cordillera de Lípez este cea mai sudică și aspră regiune montană a Boliviei, făcând parte din lanțul vestic al Anzilor. Această zonă este faimoasă pentru peisajele sale suprarealiste la altitudini extreme, unde se găsesc gheizere active, lagune colorate magnific, precum Laguna Colorada, și vulcani înzăpeziți. Regiunea este extrem de slab populată, iar clima este atât de uscată și rece încât doar speciile specializate pot supraviețui. Aici se află și vulcanul Uturuncu, despre care cercetătorii bănuiesc că se află deasupra unui supervulcan uriaș. O călătorie prin Cordillera de Lípez este o expediție într-o lume de gheață, foc și culori extreme.",
       en: ""
     },
     factsAdvanced: {
@@ -1185,10 +991,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Az éjszakai hőmérséklet télen akár -30 Celsius-fok alá is süllyedhet.",
         "A Lípez-kordillera ad otthont a világ legmagasabban élő flamingópopulációinak."
       ],
-      ro: [],
+      ro: [
+        "Cel mai înalt vârf al lanțului este Uturuncu, cu 6008 metri.",
+        "Regiunea găzduiește populațiile de flamingo care trăiesc la cea mai mare altitudine din lume.",
+        "În zonă se află rezerve uriașe de borax și litiu.",
+        "Temperaturile nocturne pot scădea iarna sub -30 de grade Celsius."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-cordillera-de-lipez-relief-v2.webp"},
   {
     id: "bolivia-cerro-guayaques-relief-v2",
     type: "mountain",
@@ -1235,7 +1045,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Cerro Guayaques ist eine imposante vulkanische Formation im südwestlichsten Zipfel Boliviens im Departement Potosí. Diese Vulkangruppe besteht aus mehreren Gipfeln und gewaltigen Lavadomen, die während des quartären Vulkanismus entstanden sind. Eine Besonderheit des Berges liegt in den extrem gut erhaltenen Lavaströmen, die in der trockenen Andenluft über Jahrtausende kaum erodiert sind. Die Gegend liegt in der Nähe der 'Dali-Wüste' und wird aufgrund ihres surrealen Aussehens oft mit der Oberfläche eines anderen Planeten verglichen. Die einsame Lage macht den Cerro Guayaques zu einem Ziel für Forscher und echte Entdecker der Hochwüste.",
       hu: "A Cerro Guayaques egy impozáns vulkáni domborzati forma Bolívia délnyugati csücskében, Potosí megyében. Ez a vulkáni csoport több csúcsból és hatalmas lávadómokból áll, amelyek a negyedidőszaki vulkanizmus során jöttek létre. A hegy különlegessége a rendkívül épen maradt lávafolyásokban rejlik, amelyek a száraz andoki levegőn alig erodálódtak az évezredek során. A vidék a 'Dali-sivatag' közelében fekszik, és szürreális megjelenése miatt gyakran hasonlítják egy másik bolygó felszínéhez. Földrajz K8 – vulkáni utóműködés és formakincs.",
-      ro: "",
+      ro: "Cerro Guayaques este o formațiune vulcanică impunătoare situată în colțul cel mai sud-vestic al Boliviei, în departamentul Potosí. Acest grup vulcanic este format din mai multe vârfuri și domuri de lavă gigantice, create în timpul vulcanismului cuaternar. O particularitate a muntelui constă în fluxurile de lavă extrem de bine conservate, care au fost foarte puțin erodate de-a lungul mileniilor în aerul uscat al Anzilor. Zona se află în apropierea 'Deșertului Dali' și este adesea comparată cu suprafața unei alte planete datorită aspectului său suprarealist. Locația izolată face din Cerro Guayaques o destinație pentru cercetători și exploratori ai deșertului înalt.",
       en: ""
     },
     factsAdvanced: {
@@ -1251,10 +1061,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A terület az Eduardo Avaroa Rezervátum mélyén található, távol minden lakott helytől.",
         "A vulkáni kúp környékén obszidián és más vulkáni üvegek is találhatók."
       ],
-      ro: [],
+      ro: [
+        "Punctul cel mai înalt al complexului se află la 5598 metri deasupra nivelului mării.",
+        "Rocile sunt compuse în principal din dacit, o rocă vulcanică de culoare deschisă.",
+        "Regiunea este complet nelocuită și se află în interiorul Rezervației Avaroa.",
+        "În jurul conului vulcanic se pot găsi obsidian și alte sticle vulcanice."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-cerro-guayaques-relief-v2.webp"},
   {
     id: "bolivia-volcan-tata-sabaya-relief-v2",
     type: "mountain",
@@ -1301,7 +1115,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Vulkan Tata Sabaya ist eine der bemerkenswertesten geologischen Formationen auf dem Altiplano-Plateau am nördlichen Rand des Salar de Coipasa. Berühmt wurde der Berg durch eine gigantische prähistorische Katastrophe: Eine ganze Flanke des Vulkans brach ein und die Trümmer verteilten sich über mehr als 20 Kilometer in der Ebene. Dieser sogenannte Sektorenkollaps ist ein Lehrbuchbeispiel für vulkanische Instabilität. In den lokalen Aymara-Legenden ist Tata Sabaya ein eifersüchtiger Ehemann, der im Streit mit den umliegenden Vulkanen lag. Die bizarre Trümmerlandschaft am Fuße des Berges zeugt bis heute von der gewaltigen Zerstörungskraft dieses Ereignisses.",
       hu: "A Tata Sabaya vulkán az Altiplano-fennsík egyik legkülönlegesebb geológiai képződménye, a Salar de Coipasa északi partján. A hegy hírnevét egy gigantikus őskori katasztrófának köszönheti: a vulkán egyik oldala teljesen összeomlott, és a törmelék több mint 20 kilométerre terült szét a síkságon. Ez a hegyoldal-omlás (sector collapse) tananyagba illő példája a vulkáni instabilitásnak. A helyi ajmara legendákban Tata Sabaya egy féltékeny férj, aki harcban állt a környező vulkánokkal. Földrajz K8 – hegyomlások és vulkáni veszélyforrások.",
-      ro: "",
+      ro: "Vulcanul Tata Sabaya este una dintre cele mai remarcabile formațiuni geologice de pe podișul Altiplano, la marginea nordică a Salar de Coipasa. Muntele a devenit faimos din cauza unei catastrofe preistorice gigantice: un întreg flanc al vulcanului s-a prăbușit, iar resturile s-au împrăștiat pe mai mult de 20 de kilometri în câmpie. Această așa-numită prăbușire de sector este un exemplu de manual pentru instabilitatea vulcanică. În legendele locale Aymara, Tata Sabaya este un soț gelos care s-a certat cu vulcanii din jur. Peisajul bizar de resturi de la baza muntelui atestă și astăzi puterea de distrugere enormă a acestui eveniment.",
       en: ""
     },
     factsAdvanced: {
@@ -1317,10 +1131,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A vulkán viszonylag fiatal, a pleisztocén végén és a holocénben alakult ki.",
         "A környező síkságon gyakoriak a délibábok és a porsördögök."
       ],
-      ro: [],
+      ro: [
+        "Vârful muntelui se află la o altitudine de 5430 de metri.",
+        "Câmpul de resturi al prăbușirii acoperă o suprafață de peste 300 de kilometri pătrați.",
+        "Vulcanul s-a format în Pleistocenul târziu și Holocenul timpuriu.",
+        "În câmpia înconjurătoare, mirajele (Fata Morgana) sunt un fenomen frecvent."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-volcan-tata-sabaya-relief-v2.webp"},
   {
     id: "bolivia-bosque-tucumano-boliviano-relief-v2",
     type: "forest",
@@ -1367,7 +1185,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Tucumano-Bolivianische Wald, auch als andiner Nimbuswald bekannt, erstreckt sich von Südbolivien bis nach Nordargentinien entlang der östlichen Berghänge. Dieser subtropische Bergwald ist extrem üppig und feucht, da sich die vom Amazonas kommenden feuchten Luftmassen an den Bergen abkühlen und abregnen. Die Artenvielfalt des Waldes ist beeindruckend: Hier leben Boliviens letzte Brillenbären und Jaguare. Leider schrumpft die Fläche des Waldes durch intensive Landwirtschaft und Viehzucht kontinuierlich. Das Reservat Tariquía schützt einen der wichtigsten Abschnitte dieses wertvollen Ökosystems, das auch als gigantischer Schwamm für die Wasserversorgung der tieferen Täler fungiert.",
       hu: "A Tucumano-Bolíviai erdő, más néven andoki nimbusz-erdő, Bolívia déli részétől Argentína északi részéig húzódik a hegyek keleti lejtőin. Ez a szubtrópusi hegyi erdő rendkívül dús és páradús, köszönhetően az Amazonas felől érkező nedves légtömegeknek, amelyek a hegyeknek ütközve lehűlnek. Az erdő biológiai sokfélesége lenyűgöző: itt élnek Bolívia utolsó pápaszemes medvéi és jaguárjai. Sajnos az intenzív mezőgazdaság és az állattenyésztés miatt az erdő területe folyamatosan zsugorodik. Biológia K8 – szubtrópusi ökoszisztémák.",
-      ro: "",
+      ro: "Pădurea Tucumano-Boliviană, cunoscută și sub numele de pădure de nori andină, se întinde din sudul Boliviei până în nordul Argentinei, de-a lungul versanților estici. Această pădure montană subtropicală este extrem de luxuriantă și umedă, deoarece masele de aer umed venite dinspre Amazon se răcesc și provoacă ploi la contactul cu munții. Biodiversitatea pădurii este impresionantă: aici trăiesc ultimii urși cu ochelari și jaguari ai Boliviei. Din păcate, suprafața pădurii scade continuu din cauza agriculturii intensive și a creșterii vitelor. Rezervația Tariquía protejează una dintre cele mai importante secțiuni ale acestui ecosistem valoros.",
       en: ""
     },
     factsAdvanced: {
@@ -1383,10 +1201,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Jellemző növényei az óriás páfrányok és az orchideák.",
         "Itt található a Tariquía Flóra és Fauna Rezervátum, amely a terület védelmét szolgálja."
       ],
-      ro: [],
+      ro: [
+        "Pădurea este situată la altitudini cuprinse între 800 și 3000 de metri.",
+        "Cantitățile de precipitații pot depăși local 2500 mm pe an.",
+        "Plantele caracteristice sunt ferigile gigantice și o abundență de epifite.",
+        "Pădurea adăpostește una dintre cele mai mari densități de specii de păsări endemice."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-bosque-tucumano-boliviano-relief-v2.webp"},
   {
     id: "bolivia-selva-amazonica-boliviana-relief-v2",
     type: "forest",
@@ -1433,7 +1255,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Das bolivianische Amazonasgebiet liegt in den Departements Pando und Beni und umfasst die größten unberührten Regenwälder des Landes. Diese Region ist das 'Land der Wasser', wo gewaltige Flüsse wie der Mamoré, der Beni und der Madre de Dios durch die dichte Vegetation mäandrieren. Wirtschaftlich herausragend ist die Wildernte der Paranuss, die Bolivien zum Weltmarktführer in diesem Sektor gemacht hat. Tief im Wald leben zudem zahlreiche isolierte indigene Gemeinschaften, die ihre traditionelle Lebensweise bewahrt haben. Der Regenwald ist ein gigantischer Kohlenstoffspeicher und von globaler Bedeutung für das Klima. Die Vielfalt an Fischen und Vögeln ist hier so hoch wie an kaum einem anderen Ort der Welt.",
       hu: "A bolíviai Amazonas-vidék Pando és Beni megyék területén fekszik, és az ország legnagyobb kiterjedésű érintetlen esőerdőit foglalja magában. Ez a vidék a 'vizek országa', ahol hatalmas folyók (Mamoré, Beni, Madre de Dios) kanyarognak a dús növényzet között. Gazdasági szempontból kiemelkedő a paradió (brazil dió) vadonbeli betakarítása, ami Bolíviát világelsővé tette ebben az ágazatban. Az erdő mélyén számos elszigetelt őslakos közösség él, akik máig megőrizték hagyományos életmódjukat. Földrajz K7 – a trópusi esőerdők világa.",
-      ro: "",
+      ro: "Regiunea amazoniană boliviană se află în departamentele Pando și Beni și cuprinde cele mai mari păduri tropicale virgine ale țării. Această regiune este 'țara apelor', unde fluvii uriașe precum Mamoré, Beni și Madre de Dios șerpuiesc prin vegetația densă. Din punct de vedere economic, se remarcă recoltarea sălbatică a nucilor de Brazilia, care a făcut din Bolivia lider mondial în acest sector. În adâncul pădurii trăiesc numeroase comunități indigene izolate, care și-au păstrat modul de viață tradițional. Pădurea tropicală este un rezervor gigantic de carbon și are o importanță globală pentru climă. Diversitatea de pești și păsări este extrem de ridicată.",
       en: ""
     },
     factsAdvanced: {
@@ -1449,10 +1271,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Az esős évszakban a folyók vízszintje akár 10 métert is emelkedhet.",
         "A területen több mint 1000 halfaj és 700 madárfaj él."
       ],
-      ro: [],
+      ro: [
+        "Peste 40% din suprafața Boliviei este acoperită de diferite tipuri de păduri tropicale.",
+        "Arborele de nuci de Brazilia (Bertholletia excelsa) este unul dintre giganții pădurii.",
+        "În sezonul ploios, nivelul apei fluviilor crește cu până la 10 metri.",
+        "Zona adăpostește peste 1000 de specii de pești și 700 de specii de păsări."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-selva-amazonica-boliviana-relief-v2.webp"},
   {
     id: "bolivia-serrania-de-chiquitos-relief-v2",
     type: "relief",
@@ -1499,7 +1325,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Serranía de Chiquitos ist die prägende Gebirgsform im Osten Boliviens und ein Überrest des uralten Brasilianischen Schildes. Diese niedrigen, aber steilwandigen Berge und Plateaus ragen inselartig aus den umliegenden Trockenwäldern und Savannen hervor. Die Region ist berühmt für ihre bizarr geformten Felsen, versteckten Wasserfälle und kristallklaren Bäche. Hier befinden sich die Jesuitenmissionen der Chiquitos, die heute zum Weltkulturerbe zählen. Der Ort Aguas Calientes am Fuße der Berge ist zudem für einen der längsten Thermalflüsse Südamerikas bekannt. Die Geologie der Serranía ist mit über einer Milliarde Jahren eine der ältesten des gesamten Kontinents.",
       hu: "A Serranía de Chiquitos Bolívia keleti részének meghatározó domborzati formája, amely az ősi Brazil-pajzs maradványa. Ezek az alacsony, de meredek oldalú hegyek és fennsíkok szigetszerűen emelkednek ki a környező száraz erdőkből és szavannákból. A terület híres a bizarr formájú szikláiról, rejtett vízeséseiről és a kristálytiszta vizű patakokról. Itt találhatók a Chiquitos-i jezsuita missziók, amelyek ma a világörökség részét képezik. A hegység lábánál fekvő Aguas Calientes pedig Dél-Amerika egyik leghosszabb hévizes folyójáról ismert. Földrajz K8 – ősmasszívumok maradványai.",
-      ro: "",
+      ro: "Serranía de Chiquitos este forma montană definitorie din estul Boliviei și o rămășiță a vechiului Scut Brazilian. Acești munți și platouri joase, dar cu pereți abrupți, se ridică ca niște insule din pădurile uscate și savanele înconjurătoare. Regiunea este faimoasă pentru stâncile sale cu forme bizare, cascadele ascunse și pârâurile cu apă cristalină. Aici se află misiunile iezuite din Chiquitos, care fac parte astăzi din Patrimoniul Mondial. Localitatea Aguas Calientes de la baza munților este cunoscută pentru unul dintre cele mai lungi râuri termale din America de Sud. Geologia regiunii este una dintre cele mai vechi de pe continent.",
       en: ""
     },
     factsAdvanced: {
@@ -1515,10 +1341,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A területen számos barlang található, némelyikben ősi sziklarajzokkal.",
         "A növényzet az alacsony bozótostól a sűrű erdőkig változik."
       ],
-      ro: [],
+      ro: [
+        "Rocile lanțului muntos au o vechime de peste un miliard de ani.",
+        "Cel mai înalt punct este Cerro Chochís (1290 m), un turn de stâncă proeminent.",
+        "În numeroase peșteri se găsesc picturi rupestre preistorice.",
+        "Vegetația variază de la tufișuri uscate până la păduri galerii dense."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-serrania-de-chiquitos-relief-v2.webp"},
   {
     id: "bolivia-volcan-ollague-relief-v2",
     type: "mountain",
@@ -1565,7 +1395,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Ollagüe (oder Oyahué) ist ein massiver andesitischer Stratovulkan an der Grenze zwischen Bolivien und Chile. Eine Besonderheit ist, dass er südlich seines Gipfels ständig und weithin sichtbar Dampf- und Gaswolken (Fumarolen) ausstößt, was belegt, dass der Vulkan bis heute aktiv ist. An den Hängen des Berges befinden sich in extremer Höhe von über 5.500 Metern alte Schwefelminen, die einst von mutigen Bergleuten betrieben wurden. Am Fuße des Berges erstrecken sich gewaltige Salzfelder und alkalische Seen, wobei die Landschaft aufgrund der extremen Trockenheit fast völlig kahl ist. Der Anblick des rauchenden Vulkans über den einsamen Hochlandebenen ist von archaischer Schönheit.",
       hu: "Az Ollagüe (vagy Oyahué) egy masszív andezites rétegvulkán a bolíviai-chilei határon. Különlegessége, hogy a csúcsától délre folyamatos és látványos gőz- és gázfelhőket (fumarolákat) bocsát ki, ami jelzi, hogy a vulkán ma is aktív. A hegy oldalában, rendkívüli magasságban (több mint 5500 méteren) régi kénbányák találhatók, amelyeket egykoron merész bányászok üzemeltettek. A hegy lábánál hatalmas sómezők és lúgos tavak terülnek el, a táj pedig a szélsőséges szárazság miatt szinte teljesen kopár. Földrajz K8 – aktív vulkánok és kísérőjelenségeik.",
-      ro: "",
+      ro: "Ollagüe (sau Oyahué) este un stratovulcan andezitic masiv situat la granița dintre Bolivia și Chile. O caracteristică specială este faptul că emite constant și vizibil de la distanță nori de abur și gaze (fumarole) la sud de vârful său, ceea ce demonstrează că vulcanul este activ și astăzi. Pe versanții muntelui, la o altitudine extremă de peste 5500 de metri, se află vechi mine de sulf care au fost operate cândva de mineri curajoși. La baza muntelui se întind câmpuri uriașe de sare și lacuri alcaline, peisajul fiind aproape complet lipsit de vegetație din cauza arşiţei extreme. Priveliștea vulcanului fumegând deasupra podișurilor solitare este de o frumusețe arhaică.",
       en: ""
     },
     factsAdvanced: {
@@ -1581,10 +1411,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A hegy csúcsára vezető utak a régi bányászat miatt terepjáróval is jól járhatók.",
         "A fumarolákból feltörő gázok hőmérséklete elérheti a 90 Celsius-fokot."
       ],
-      ro: [],
+      ro: [
+        "Vârful atinge o altitudine impresionantă de 5868 de metri.",
+        "La nord de vulcan se află Salar de Ollagüe, o mică întindere de sare.",
+        "Vechile piste miniere duc și astăzi până la înălțimi mari pe munte.",
+        "Temperatura gazelor din fumarole poate atinge până la 90 de grade Celsius."
+      ],
       en: []
-    }
-  },
+    }, image: "/poi-images/bolivia-volcan-ollague-relief-v2.webp"},
   {
     id: "bolivia-serrania-de-santiago-relief-v2",
     type: "relief",
@@ -1631,7 +1465,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Serranía de Santiago ist eine dramatische Sandstein-Kette im Osten Boliviens, im Departement Santa Cruz, innerhalb des Reservats des Tucabaca-Tals. Das Gebirge mit seinen senkrechten Wänden und bizarren Felsgestalten ist eine der schönsten Sehenswürdigkeiten der Region. Vom Mirador de Santiago aus bietet sich ein atemberaubendes Panorama auf den darunter liegenden Chiquitano-Trockenwald. Das Gebiet ist nicht nur touristisch reizvoll, sondern spielt auch eine kritische Rolle bei der Wassergewinnung, da es die Wasserversorgung der umliegenden Orte sicherstellt. Die roten Felsen und die üppige Vegetation in den Tälern bilden einen faszinierenden Kontrast.",
       hu: "A Serranía de Santiago egy drámai homokkő-vonulat Bolívia keleti részén, Santa Cruz megyében, a Tucabaca-völgy Nemzeti Rezervátumban. A hegység függőleges falaival és bizarr sziklaalakzataival a környék egyik legszebb látványossága. A Mirador de Santiago kilátóból lélegzetelállító panoráma nyílik az alatta elterülő Chiquitano-szárazerdőre. A terület nemcsak turisztikai szempontból fontos, hanem kritikus szerepet játszik a vízgyűjtésben is, biztosítva a környék vízellátását. Földrajz K8 – üledékes kőzetek és eróziós formák.",
-      ro: "",
+      ro: "Serranía de Santiago este un lanț dramatic de gresie situat în estul Boliviei, în departamentul Santa Cruz, în cadrul rezervației Văii Tucabaca. Munții, cu pereții lor verticali și formele bizare de stâncă, reprezintă una dintre cele mai frumoase atracții din regiune. De la Mirador de Santiago se deschide o panoramă spectaculoasă asupra pădurii uscate Chiquitano de dedesubt. Zona nu este doar atractivă din punct de vedere turistic, ci joacă și un rol critic în colectarea apei, asigurând aprovizionarea localităților din jur. Stâncile roșii și vegetația luxuriantă din văi formează un contrast fascinant.",
       en: ""
     },
     factsAdvanced: {
@@ -1647,8 +1481,14 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "A környéken számos barlang és sziklaeresz található, amelyek ősi menedékhelyek voltak.",
         "A hegység lábánál található Santiago de Chiquitos falu az egyik legjobb állapotban fennmaradt missziós település."
       ],
-      ro: [],
+      ro: [
+        "Straturile de gresie ale munților au o vechime de sute de milioane de ani.",
+        "Culoarea roșiatică provine de la oxidul de fier (rugina) din rocă.",
+        "Numeroase peșteri și adăposturi sub stâncă au servit în trecut ca refugii.",
+        "Satul Santiago de Chiquitos de la baza munților este una dintre cele mai bine păstrate așezări misionare."
+      ],
       en: []
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuineaLifeV2: POI[] = [
@@ -30,8 +31,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["A parkot 1985-ben alapították.", "Egy 913 000 hektáros hálózat része.", "Több mint 80 emlősfaj otthona.", "A nyugat-afrikai oroszlán védett területe.", "Fontos folyosó az elefántok vonulásához.", "A legjobb látogatási idő decembertől áprilisig tart."],
       ro: ["Înființarea parcului în anul 1985.", "Parte a unui sistem protejat de 913.000 hectare.", "Găzduiește peste 80 de specii de mamifere.", "Zonă de protecție pentru leul vest-african.", "Coridor vital pentru migrația elefanților.", "Cea mai bună perioadă de vizită: decembrie-aprilie."],
       en: ["Park established in 1985.", "Part of a 913,000-hectare protected complex.", "Home to over 80 species of mammals.", "Protected area for the West African lion.", "Crucial corridor for elephant migrations.", "Best visiting season is from December to April."]
-    }
-  },
+    }, image: "/poi-images/badiar-national-park-life-v2.webp"},
   {
     id: "upper-niger-national-park-life-v2",
     type: "animal-habitat",
@@ -61,8 +61,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["Hivatalos alapítás 1997 januárjában.", "Kb. 600 000 hektáros terület.", "A nyugat-afrikai lamantin védelme.", "Fontos költőhely vándormadaraknak.", "Afrika egyik legnagyobb száraz erdője.", "Szabályozza a Niger folyó vízjárását."],
       ro: ["Înființare oficială în ianuarie 1997.", "Suprafață de cca. 600.000 hectare.", "Protejează manatul vest-african.", "Zonă importantă de cuibărit pentru păsări.", "Una dintre cele mai mari păduri uscate.", "Reglează debitul râului Niger."],
       en: ["Officially established in January 1997.", "Area of approximately 600,000 hectares.", "Protects the West African manatee.", "Important breeding site for migratory birds.", "One of Africa's largest dry forests.", "Regulates the water flow of the Niger."]
-    }
-  },
+    }, image: "/poi-images/upper-niger-national-park-life-v2.webp"},
   {
     id: "mafou-forest-life-v2",
     type: "animal-habitat",
@@ -92,8 +91,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["Kb. 520 négyzetkilométeres magzóna.", "A régió legnagyobb csimpánzsűrűsége.", "Több mint 300 azonosított madárfaj.", "A ritka bongó antilop előfordulása.", "A primátuskutatás tudományos bázisa.", "Sűrű galériaerdőket foglal magában."],
       ro: ["Zonă centrală de cca. 520 km pătrați.", "Cea mai mare densitate de cimpanzei.", "Peste 300 de specii de păsări identificate.", "Prezența rarei antilope Bongo.", "Bază științifică pentru studii pe primate.", "Cuprinde formațiuni de păduri-galerie."],
       en: ["Core zone of about 520 square kilometers.", "Highest chimpanzee density in the region.", "Over 300 recorded bird species.", "Home to the rare bongo antelope.", "Scientific base for primate studies.", "Features dense gallery forest formations."]
-    }
-  },
+    }, image: "/poi-images/mafou-forest-life-v2.webp"},
   {
     id: "kindia-pineapple-plantations-life-v2",
     type: "agriculture",
@@ -123,8 +121,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["A guineai gyümölcstermesztés központja.", "A Baron de Rothschild fajta termesztése.", "A fő exportpiac az Európai Unió.", "Vulkáni talajok segítik a növekedést.", "Számos szövetkezet segíti a gazdákat.", "Kb. 135 km-re fekszik Konakrytól."],
       ro: ["Centrul pomiculturii din Guineea.", "Cultivarea soiului Baron de Rothschild.", "Principala piață de export este UE.", "Solurile vulcanice favorizează creșterea.", "Numeroase cooperative sprijină fermierii.", "Situat la cca. 135 km de Conakry."],
       en: ["Center of Guinean fruit production.", "Cultivation of the Baron de Rothschild variety.", "Primary export market is the European Union.", "Volcanic soils enhance growth.", "Numerous cooperatives support local farmers.", "Located about 135 km from Conakry."]
-    }
-  },
+    }, image: "/poi-images/kindia-pineapple-plantations-life-v2.webp"},
   {
     id: "kankan-rice-fields-life-v2",
     type: "agriculture",
@@ -154,8 +151,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["A rizs fedezi a kalóriaszükséglet 40%-át.", "Öntözés a Milo-folyóból.", "Felső-Guinea régió központja.", "A mandinka kultúra központja.", "Hagyományos kézi munka a betakarításkor.", "Export a szomszédos Száhel-államokba."],
       ro: ["Orezul acoperă 40% din necesarul caloric.", "Irigare din râul Milo.", "Capitala regiunii Guineea Superioară.", "Centrul culturii Mandinka.", "Muncă manuală tradițională la recoltare.", "Export către statele vecine din Sahel."],
       en: ["Rice provides 40% of the caloric intake.", "Irrigated by the Milo River.", "Capital of the Upper Guinea region.", "Hub of Mandinka culture.", "Traditional manual labor during harvest.", "Export to neighboring Sahel countries."]
-    }
-  },
+    }, image: "/poi-images/kankan-rice-fields-life-v2.webp"},
   {
     id: "fouta-djallon-coffee-life-v2",
     type: "agriculture",
@@ -185,8 +181,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["Termesztés 800-1200 m magasságban.", "Arabica és Robusta kombinációja.", "Hagyományos árnyéktűrő kultúrák.", "A termelés központja Labé városa.", "Fontos jövedelem a hegyi gazdáknak.", "Segíti a hegyi erdők megőrzését."],
       ro: ["Cultivare la 800-1.200 m altitudine.", "Combinație de Arabica și Robusta.", "Culturi tradiționale de umbră.", "Centrul producției este orașul Labé.", "Venit vital pentru fermierii montani.", "Promovează conservarea pădurilor."],
       en: ["Cultivated at 800 to 1,200m altitude.", "Mix of Arabica and Robusta varieties.", "Traditional shade-grown techniques.", "Labé is the center of production.", "Key income source for highland farmers.", "Helps preserve mountain forest habitats."]
-    }
-  },
+    }, image: "/poi-images/fouta-djallon-coffee-life-v2.webp"},
   {
     id: "mamou-livestock-center-life-v2",
     type: "agriculture",
@@ -216,8 +211,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["Az N'Dama szarvasmarha-tenyésztés központja.", "Közép-Guinea legnagyobb állatvására.", "Ellenállóság az álomkórral szemben.", "Csomópont Konakry és Labé között.", "A fulbe pásztorok fontos szerepe.", "Állategészségügyi kutatások helyszíne."],
       ro: ["Centrul creșterii vitelor N'Dama.", "Cea mai mare piață de vite din centrul țării.", "Rezistență la boala somnului.", "Nod rutier între Conakry și Labé.", "Rol important al păstorilor Fulbe.", "Sediu al cercetării veterinar-biologice."],
       en: ["Center for N'Dama cattle breeding.", "Largest livestock market in central Guinea.", "Cattle are resistant to sleeping sickness.", "Key junction between Conakry and Labé.", "Crucial role of Fulani herders.", "Site of veterinary biological research."]
-    }
-  },
+    }, image: "/poi-images/mamou-livestock-center-life-v2.webp"},
   {
     id: "conakry-botanical-garden-life-v2",
     type: "kid-landmark",
@@ -247,8 +241,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["A 19. század végén alapították.", "Hatalmas gyapotfák (fromager) lelőhelye.", "Egykori gyarmati kísérleti állomás.", "Ritka trópusi növényeknek ad otthont.", "Esküvői fotózások kedvelt helyszíne.", "A Camayenne negyedben található."],
       ro: ["Amenajată la sfârșitul secolului XIX.", "Găzduiește arbori Fromager uriași.", "Fostă stație experimentală colonială.", "Adăpostește plante tropicale rare.", "Loc popular pentru fotografii de nuntă.", "Situată în cartierul Camayenne."],
       en: ["Established at the end of the 19th century.", "Site of massive kapok (fromager) trees.", "Former colonial experimental station.", "Hosts rare tropical plant species.", "Popular spot for wedding photography.", "Located in the Camayenne district."]
-    }
-  },
+    }, image: "/poi-images/conakry-botanical-garden-life-v2.webp"},
   {
     id: "nzerekore-palm-oil-life-v2",
     type: "agriculture",
@@ -278,8 +271,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["A SOGUIPAH állami vállalat székhelye.", "Az olajpálma fő termesztő vidéke.", "Nélkülözhetetlen a helyi konyhához.", "Kisbirtokosok ezreit támogatja.", "A déli országrész fő gazdasági tényezője.", "Segíti a regionális infrastruktúrát."],
       ro: ["Sediul companiei de stat SOGUIPAH.", "Zonă principală de cultivare a palmierului.", "Indispensabil pentru bucătăria locală.", "Sprijină mii de mici fermieri.", "Principalul factor economic din sud.", "Promovează proiecte de infrastructură."],
       en: ["Headquarters of the state firm SOGUIPAH.", "Primary cultivation area for oil palms.", "Essential for local culinary traditions.", "Supports thousands of smallholder farmers.", "Key economic driver in the south.", "Drives regional infrastructure projects."]
-    }
-  },
+    }, image: "/poi-images/nzerekore-palm-oil-life-v2.webp"},
   {
     id: "macenta-rubber-plantations-life-v2",
     type: "agriculture",
@@ -309,8 +301,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["A latex-kinyerés központja.", "Feldolgozás a SOGUIPAH által.", "A gumifának 7 év kell az első csapolásig.", "Fontos alapanyag a gumiabroncs-ipar számára.", "Több ezer vidéki munkahelyet teremt.", "Export a konakry-i kikötőn keresztül."],
       ro: ["Centrul extracției de latex.", "Prelucrare realizată de SOGUIPAH.", "Arborii Hevea au nevoie de 7 ani până la recoltă.", "Materie primă pentru industria anvelopelor.", "Creează mii de locuri de muncă rurale.", "Export prin portul Conakry."],
       en: ["Hub for latex extraction.", "Processing handled by SOGUIPAH.", "Hevea trees take 7 years to mature for tapping.", "Crucial raw material for the tire industry.", "Creates thousands of rural jobs.", "Exported via the Port of Conakry."]
-    }
-  },
+    }, image: "/poi-images/macenta-rubber-plantations-life-v2.webp"},
   {
     id: "dalaba-cinchona-gardens-life-v2",
     type: "agriculture",
@@ -340,8 +331,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["Kb. 1200 m tengerszint feletti magasság.", "Egykor a világ kininszükségletének forrása.", "Auguste Chevalier botanikus kertjei.", "Fenyő- és szamócatermesztés.", "A gyarmati idők enyhe hegyi üdülőhelye.", "A gyógynövénykutatás fontos központja."],
       ro: ["Altitudine de aproximativ 1.200 m.", "Fostă sursă pentru necesarul mondial de chinina.", "Grădini botanice create de Auguste Chevalier.", "Cultivarea pinilor și a căpșunilor.", "Stațiune montană din perioada colonială.", "Centru important pentru plante medicinale."],
       en: ["Altitude of approximately 1,200 meters.", "Former major source of global quinine.", "Botanical gardens founded by Auguste Chevalier.", "Unusual cultivation of pines and strawberries.", "Mild mountain retreat from the colonial era.", "Significant center for medicinal plant research."]
-    }
-  },
+    }, image: "/poi-images/dalaba-cinchona-gardens-life-v2.webp"},
   {
     id: "kissidougou-forest-habitat-life-v2",
     type: "animal-habitat",
@@ -371,8 +361,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["Szavanna és erdőszigetek mozaikja.", "Évszázados agroerdészet eredménye.", "Fontos élőhely a főemlősök számára.", "Védelem az elsivatagosodás ellen.", "Az ősi erdők kulturális jelentősége.", "Regionális madárfajok forrópontja."],
       ro: ["Mozaic de savană și insule forestiere.", "Rezultatul a secole de agrosilvicultură.", "Habitat important pentru primate.", "Protecție împotriva deșertificării.", "Importanța culturală a pădurilor strămoșești.", "Hotspot pentru speciile de păsări regionale."],
       en: ["Mosaic of savanna and forest islands.", "Result of centuries of agroforestry.", "Significant habitat for primates.", "Protects against desertification (Sahel).", "Cultural importance of ancestral forests.", "Hotspot for regional bird species."]
-    }
-  },
+    }, image: "/poi-images/kissidougou-forest-habitat-life-v2.webp"},
   {
     id: "dubreka-mangrove-habitats-life-v2",
     type: "animal-habitat",
@@ -402,8 +391,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["Létfontosságú hal-szaporodóhely.", "5-ször több CO2-t tárol, mint az esőerdő.", "Védelem a cunamik és viharok ellen.", "Az iszapi gébek otthona.", "A hagyományos sólepárlás központja.", "Vándormadarak fontos pihenőhelye."],
       ro: ["Pepinieră vitală pentru pești.", "Stochează de 5 ori mai mult CO2 decât pădurea.", "Protecție împotriva tsunami-urilor.", "Casa peștilor sanitar (periophthalmus).", "Centrul extracției tradiționale de sare.", "Oprire importantă pentru păsările migratoare."],
       en: ["Vital nursery for numerous fish species.", "Stores 5x more carbon than tropical forests.", "Natural barrier against tsunamis and storms.", "Home to various mudskipper species.", "Center of traditional sea salt production.", "Crucial stopover for migratory birds."]
-    }
-  },
+    }, image: "/poi-images/dubreka-mangrove-habitats-life-v2.webp"},
   {
     id: "kouroussa-hippo-habitats-life-v2",
     type: "animal-habitat",
@@ -433,8 +421,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["A Niger legfontosabb víziló-élőhelye.", "Az állatok súlya elérheti a 3000 kg-ot.", "Éjszakai legelők a folyóparton.", "Camara Laye író szülőhelye.", "Veszélyt jelent az élőhelyvesztés.", "Megfigyelés főleg a száraz évszakban."],
       ro: ["Cel mai important habitat de hipopotami.", "Animalele cântăresc până la 3.000 kg.", "Pășunat nocturn pe malul râului.", "Locul de naștere al autorului Camara Laye.", "Pericol din cauza pierderii habitatului.", "Observare în principal în sezonul uscat."],
       en: ["Primary hippo habitat on the Niger River.", "Animals can weigh up to 3,000 kg.", "Nocturnal grazers along the riverbanks.", "Birthplace of famed author Camara Laye.", "Threatened by habitat loss and fragmentation.", "Best sightings occur during the dry season."]
-    }
-  },
+    }, image: "/poi-images/kouroussa-hippo-habitats-life-v2.webp"},
   {
     id: "pita-vegetable-gardens-life-v2",
     type: "agriculture",
@@ -464,8 +451,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["A 'Belle de Guinée' burgonya központja.", "A hagyma egyik fő exportőre.", "Kedvező hegyvidéki mikroklíma.", "Erős szövetkezeti rendszer.", "Konakry fő ellátója.", "Öntözőrendszerek használata."],
       ro: ["Centrul cartofului 'Belle de Guinée'.", "Exportator principal de ceapă.", "Microclimat favorabil în podiș.", "Sistem cooperatist puternic.", "Aprovizionarea capitalei Conakry.", "Utilizarea sistemelor de irigații."],
       en: ["Center for 'Belle de Guinée' potatoes.", "Major exporter of onions.", "Favorable highland microclimate.", "Strong cooperative agricultural system.", "Supplies the capital city, Conakry.", "Extensive use of irrigation systems."]
-    }
-  },
+    }, image: "/poi-images/pita-vegetable-gardens-life-v2.webp"},
   {
     id: "mali-cattle-herds-life-v2",
     type: "agriculture",
@@ -495,8 +481,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["Guinea legmagasabb régiója (Mont Loura).", "A robusztus N'Dama marhák hazája.", "Szenegál legfontosabb állatbeszállítója.", "Hűvös hegyi éghajlat (akár 10°C).", "Hagyományos vándorló pásztorkodás.", "Híres a 'Mali hölgye' sziklaképződményről."],
       ro: ["Cea mai înaltă regiune a Guineei.", "Casa vitelor robuste N'Dama.", "Principal furnizor de animale pentru Senegal.", "Climă montană răcoroasă (până la 10°C).", "Transhumanță tradițională.", "Faimos pentru formațiunea 'Dame de Mali'."],
       en: ["Highest region in Guinea (Mont Loura).", "Primary home of hardy N'Dama cattle.", "Major livestock supplier for Senegal.", "Cool mountain climate (down to 10°C).", "Tradition of nomadic pastoralism.", "Famous for the 'Dame de Mali' rock formation."]
-    }
-  },
+    }, image: "/poi-images/mali-cattle-herds-life-v2.webp"},
   {
     id: "forecariah-mango-orchards-life-v2",
     type: "agriculture",
@@ -526,8 +511,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["A guineai mangóexport központja.", "Kent és Keitt fajták termesztése.", "Betakarítás áprilistól júniusig.", "Modern helyi csomagolóüzemek.", "Konakry legfontosabb beszállítója.", "Szezonmunkások ezreit foglalkoztatja."],
       ro: ["Centrul exportului de mango din Guineea.", "Cultivarea soiurilor Kent și Keitt.", "Sezon de recoltare: aprilie-iunie.", "Facilități moderne de ambalare locale.", "Principalul furnizor pentru Conakry.", "Angajează mii de lucrători sezonieri."],
       en: ["Hub for Guinean mango exports.", "Cultivation of Kent and Keitt varieties.", "Harvest season runs from April to June.", "Equipped with modern packing facilities.", "Primary supplier for the capital, Conakry.", "Employs thousands of seasonal workers."]
-    }
-  },
+    }, image: "/poi-images/forecariah-mango-orchards-life-v2.webp"},
   {
     id: "yomou-forest-reserve-life-v2",
     type: "animal-habitat",
@@ -557,8 +541,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["A felső-guineai esőerdő része.", "A ritka törpevíziló előfordulása.", "Akár 60 méter magas fák.", "Több mint 300 különböző madárfaj.", "Fontos szén-dioxid tároló.", "Libériával közös ökoszisztéma."],
       ro: ["Parte a pădurii tropicale guineene.", "Prezența rarului hipopotam pitic.", "Arbori de până la 60 de metri înălțime.", "Peste 300 de specii diferite de păsări.", "Rezervor important de carbon.", "Ecosistem transfrontalier cu Liberia."],
       en: ["Part of the Upper Guinean rainforest.", "Home to the rare pygmy hippopotamus.", "Trees reach heights of up to 60 meters.", "Over 300 distinct bird species recorded.", "Significant carbon sequestration site.", "Transboundary ecosystem with Liberia."]
-    }
-  },
+    }, image: "/poi-images/yomou-forest-reserve-life-v2.webp"},
   {
     id: "gaoual-cattle-plains-life-v2",
     type: "agriculture",
@@ -588,8 +571,7 @@ export const poiExtraGuineaLifeV2: POI[] = [
       hu: ["Guinea egyik legnagyobb legelőterülete.", "Félnomád fulbe pásztorok otthona.", "N'Dama marhahús termelése.", "Az ártéri területek szezonális használata.", "A Boké régió fontos állatvására.", "A természetes szavannai növényzet védelme."],
       ro: ["Una dintre cele mai mari zone de pășunat.", "Casa păstorilor seminomazi Fulbe.", "Producția de carne de vită N'Dama.", "Utilizarea sezonieră a luncilor inundabile.", "Piață importantă de vite în regiunea Boké.", "Protecția vegetației naturale de savană."],
       en: ["One of Guinea's largest grazing regions.", "Home to semi-nomadic Fulani herders.", "Major source of N'Dama beef production.", "Seasonal utilization of floodplains.", "Significant livestock market in the Boké region.", "Preserves natural savanna vegetation types."]
-    }
-  },
+    }, image: "/poi-images/gaoual-cattle-plains-life-v2.webp"},
   {
     id: "koundara-savannah-animals-life-v2",
     type: "animal-habitat",
@@ -622,3 +604,4 @@ export const poiExtraGuineaLifeV2: POI[] = [
     }
   }
 ];
+

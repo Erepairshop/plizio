@@ -1,0 +1,110 @@
+{
+  "lang": "hu",
+  "country": "brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBrazilHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "santos-port-economic-v2",
+      "descriptionAdvanced": "Santos kikötője Brazília és egész Latin-Amerika legnagyobb tengeri áruszállítási csomópontja, amely São Paulo államban található. A kikötőn keresztül zajlik az ország kávéexportjának jelentős része, valamint számos ipari termék szállítása a világ minden tájára. Fontos gazdasági motor, amely a globális kereskedelemhez kapcsolja a brazil iparvidéket. Földrajz K7 – globális kereskedelem és tengeri szállítás.",
+      "factsAdvanced": ["Dél-Amerika legforgalmasabb kikötője", "São Paulo állam tengerpartja", "Kávéexport központja", "Fő ipari és kereskedelmi kapu", "Jelentős logisztikai központ", "Globális kereskedelmi összeköttetés"]
+    },
+    {
+      "id": "paranagua-port-economic-v2",
+      "descriptionAdvanced": "Paranaguá kikötője Paraná állam fő tengeri kapuja, amely Brazília mezőgazdasági termékeinek, főként a szójabab és a gabonafélék exportjának egyik meghatározó állomása. A kikötő infrastruktúrája és stratégiai fekvése révén fontos szerepet játszik a déli régió gazdasági fejlődésében. A brazil mezőgazdasági export egyik kritikus eleme a világpiacon. Földrajz K6 – mezőgazdaság és export.",
+      "factsAdvanced": ["Paraná állam legnagyobb kikötője", "Mezőgazdasági export fő csomópontja", "Szójabab és gabona szállítása", "Déli régió gazdasági kapuja", "Jelentős tengeri áruszállítás", "Fontos infrastrukturális központ"]
+    },
+    {
+      "id": "rio-grande-port-economic-v2",
+      "descriptionAdvanced": "Rio Grande kikötője Rio Grande do Sul állam legfontosabb tengeri kijárata, amely az ország legdélebbi részén található. A kikötő elengedhetetlen a régió agráripari termékeinek tengeri szállításához és a nemzetközi kereskedelem fenntartásához. A régió ipari növekedése szorosan összefügg a kikötői infrastruktúra fejlesztésével és hatékonyságával. Földrajz K7 – gazdasági infrastruktúra.",
+      "factsAdvanced": ["Rio Grande do Sul állam legfőbb kikötője", "Agráripari export központja", "Déli régió kereskedelmi kapuja", "Tengeri áruszállítás fejlesztése", "Fontos logisztikai bázis", "Nemzetközi kereskedelmi csomópont"]
+    },
+    {
+      "id": "vitoria-port-economic-v2",
+      "descriptionAdvanced": "Vitória kikötője Espírito Santo állam gazdasági központja, amely kiemelkedő szerepet játszik a bányászati termékek, különösen a vasérc tengeri exportjában. A környék ipari övezetei és a fejlett kikötői létesítmények révén Vitória a brazil ipari stratégia egyik sarokköve. A kikötő összeköti a szárazföldi bányászati régiókat a nemzetközi piacokkal. Földrajz K7 – bányászat és export.",
+      "factsAdvanced": ["Espírito Santo állam fő kikötője", "Vasérc-export központja", "Bányászati régió tengeri kapuja", "Fejlett ipari infrastruktúra", "Nemzetközi kereskedelem", "Ipari stratégiai központ"]
+    },
+    {
+      "id": "itaqui-port-economic-v2",
+      "descriptionAdvanced": "Itaqui kikötője São Luís szigetén található, Maranhão államban, és mélyvízi kikötőként kulcsszerepet játszik az északkeleti és az északi régiók kereskedelmében. Fő profilja a bányászati termékek, a gabona és a kőolajszármazékok kezelése, összekötve a belső régiókat a világpiaccal. A kikötő a régió ipari és gazdasági fejlődésének egyik katalizátora. Földrajz K6 – logisztika.",
+      "factsAdvanced": ["Mélyvízi kikötő: São Luís", "Bányászati termékek kezelése", "Gabonafélék és olajtermékek exportja", "Északkeleti régió kereskedelmi kapuja", "Gazdasági katalizátor", "Nemzetközi logisztikai bázis"]
+    },
+    {
+      "id": "suape-port-economic-v2",
+      "descriptionAdvanced": "Suape kikötője Pernambuco államban egy hatalmas ipari és logisztikai komplexum központja, amely a régió gazdasági modernizációjának egyik zászlóshajója. A komplexum magában foglal egy olajfinomítót, hajógyárakat és számos ipari üzemegységet, amelyek új munkahelyeket és technológiát biztosítanak a térségben. Suape a modern brazil ipar egyik legfontosabb fejlesztési projektje. Földrajz K7 – ipari fejlesztések.",
+      "factsAdvanced": ["Pernambuco ipari központja", "Olajfinomító és hajógyárak", "Logisztikai komplexum", "Ipari modernizáció", "Technológiai fejlesztések", "Új ipari munkahelyek"]
+    },
+    {
+      "id": "pecem-port-economic-v2",
+      "descriptionAdvanced": "Pecém kikötője Ceará államban, Fortaleza közelében található, és egy gyorsan fejlődő ipari és kikötői övezet része. A kikötő stratégiai jelentőséggel bír a zöldhidrogén-projektek és a fenntartható ipari fejlődés szempontjából, ami Brazília jövőbeli energiapolitikájának egyik kulcsfontosságú eleme. Fontos nemzetközi kereskedelmi kapu az északkeleti régió számára. Földrajz K7 – zöldenergia.",
+      "factsAdvanced": ["Ceará állam ipari kikötője", "Zöldhidrogén-projektek", "Fenntartható ipari fejlődés", "Jövőbeli energiaközpont", "Nemzetközi kereskedelmi kapu", "Dinamikusan fejlődő övezet"]
+    },
+    {
+      "id": "rio-de-janeiro-port-economic-v2",
+      "descriptionAdvanced": "Rio de Janeiro kikötője történelmi és modern kereskedelmi szerepet is betölt Brazília egyik legfontosabb nagyvárosában. Bár a kikötő már nem az ország legnagyobbja, továbbra is fontos szereplő a konténerforgalomban és az utasforgalomban, kiszolgálva a nagyvárosi régió igényeit és a turisztikai szektort. A város tengeri kapuja, amely összeköti a metropoliszt a nemzetközi hálózatokkal. Földrajz K6 – városi kereskedelem.",
+      "factsAdvanced": ["Történelmi és modern kereskedelmi kapu", "Konténer- és utasforgalom", "Rio de Janeiro nagyvárosi régiója", "Tengeri turisztikai központ", "Nemzetközi hálózatok", "Metropolisz tengeri kijárata"]
+    },
+    {
+      "id": "itajai-port-economic-v2",
+      "descriptionAdvanced": "Itajaí kikötője Santa Catarina államban Brazília egyik legjelentősebb konténerterminálja, amely kiemelkedő szerepet játszik az ország export-import tevékenységében. A kikötő hatékony logisztikai rendszere miatt az egyik preferált állomás a nemzetközi hajózási társaságok számára. A dél-brazíliai ipari termékek egyik fő kilépési pontja a világpiacra. Földrajz K6 – logisztika.",
+      "factsAdvanced": ["Santa Catarina fő konténerkikötője", "Nemzetközi kereskedelmi központ", "Hatékony logisztikai rendszer", "Ipari export-import bázis", "Hajózási társaságok preferált pontja", "Déli iparvidék kijárata"]
+    },
+    {
+      "id": "sao-francisco-do-sul-port-economic-v2",
+      "descriptionAdvanced": "São Francisco do Sul kikötője Santa Catarina állam egyik legöregebb települése, amely mára fontos tengeri áruszállítási csomóponttá vált. A kikötő főleg a faipari termékek, a mezőgazdasági áruk és a vasérc exportjára specializálódott. Történelmi jelentősége és stratégiai fekvése miatt a régió gazdasági életének egyik meghatározó szereplője. Történelem K8 – kereskedelmi múlt.",
+      "factsAdvanced": ["Santa Catarina egyik legöregebb városa", "Faipari exportközpont", "Mezőgazdasági áruk kereskedelme", "Vasérc-szállítás", "Stratégiai fekvés", "Gazdasági csomópont"]
+    },
+    {
+      "id": "ouro-preto-history-v2",
+      "descriptionAdvanced": "Ouro Preto, Brazília egyik legfontosabb történelmi városa, a 18. századi aranyláz idején élte fénykorát, és az UNESCO világörökség része. A barokk építészet remekművei, a díszes templomok és a macskaköves utcák hűen tükrözik a gyarmati aranybányászat korszakát. Ma a város a brazil művészettörténet és az építészet felbecsülhetetlen értékű emléktára. Történelem K8 – aranyláz és barokk.",
+      "factsAdvanced": ["UNESCO világörökségi helyszín", "18. századi aranyláz központja", "Barokk építészet remekművei", "Díszes templomok", "Gyarmati aranybányászat emlékei", "Művészettörténeti központ"]
+    },
+    {
+      "id": "pelourinho-history-v2",
+      "descriptionAdvanced": "Pelourinho Salvador történelmi központja, amely az afrikai és portugál gyarmati kultúra találkozási pontja. A terület színes, jól megőrzött épületei, az egykori gyarmati közigazgatási és egyházi épületek az UNESCO védelem alatt állnak. Ma Pelourinho a brazil afro-kultúra, a zene és a hagyományok élő központja, amely turisztikai látványosságként is jelentős. Történelem K8 – gyarmati örökség.",
+      "factsAdvanced": ["Salvador történelmi központja", "Afro-portugál gyarmati kultúra", "UNESCO világörökség", "Színes gyarmati épületek", "Afro-brazil zenei központ", "Hagyományok őrzője"]
+    },
+    {
+      "id": "sao-miguel-missoes-history-v2",
+      "descriptionAdvanced": "São Miguel das Missões a dél-brazíliai jezsuita missziók egyik legjelentősebb fennmaradt romterülete, amely az UNESCO világörökség része. A 18. századi misszió a guaraní indiánok és a jezsuita szerzetesek kulturális találkozását mutatja be. A romok a jezsuita építészet és a térség vallási történelmének fontos emlékei. Történelem K8 – jezsuita missziók.",
+      "factsAdvanced": ["Jezsuita missziók romterülete", "UNESCO világörökség", "18. századi missziós épületek", "Guaraní-jezsuita találkozás", "Vallástörténeti emlék", "Dél-brazíliai történelem"]
+    },
+    {
+      "id": "tiradentes-history-v2",
+      "descriptionAdvanced": "Tiradentes Minas Gerais államban egy gyönyörűen megőrzött gyarmati város, amely a nevét a brazil függetlenségi mozgalom mártírjáról kapta. Az aranyláz korszakának építészete, a csendes utcák és a gazdag barokk templomok ideális hellyé teszik a történelmi barangolásra. A város a nyugalom és a múltidézés szimbóluma a mai Brazíliában. Történelem K8 – függetlenségi mozgalmak.",
+      "factsAdvanced": ["Minas Gerais gyarmati városa", "Függetlenségi hős (Tiradentes)", "Aranyláz-kori építészet", "Barokk templomok", "Múltidéző hangulat", "Történelmi jelentőségű település"]
+    },
+    {
+      "id": "congonhas-sanctuary-history-v2",
+      "descriptionAdvanced": "Congonhas szentélye, a Bom Jesus de Matosinhos, a barokk művészet és építészet csúcsteljesítménye, amelyet az UNESCO világörökségként tart számon. A szentély leghíresebb elemei Aleijadinho mesterművei, a tizenkét próféta életnagyságú szobra. A vallási központ Brazília egyik legfontosabb zarándokhelye és művészeti kincse. Történelem K8 – vallási művészet.",
+      "factsAdvanced": ["UNESCO világörökségi szentély", "Barokk építészet remekműve", "Aleijadinho próféta-szobrok", "Fontos zarándokhely", "Vallási művészeti központ", "Brazília történelmi kincse"]
+    },
+    {
+      "id": "diamantina-history-v2",
+      "descriptionAdvanced": "Diamantina Minas Gerais államban a gyarmati kori gyémántbányászat fontos központja volt, ami az UNESCO világörökségi listájára is felkerült. A város építészete, amely a durva köveket és a rendezett gyarmati szerkezeteket ötvözi, egyedülálló a régióban. A város a bányászati múlton túl gazdag kulturális hagyományairól, különösen a szerenádokról is híres. Történelem K8 – gyémántbányászat.",
+      "factsAdvanced": ["UNESCO világörökségi város", "Gyarmati gyémántbányászat központja", "Egyedülálló építészet", "Gazdag kulturális hagyományok", "Szerenádok városa", "Történelmi bányászati központ"]
+    },
+    {
+      "id": "paraty-history-v2",
+      "descriptionAdvanced": "Paraty egy bájos gyarmati város az Atlanti-óceán partján, Rio de Janeiro és São Paulo államok között, amely egykori aranykikötőként működött. Az UNESCO világörökség része, amely megőrizte eredeti gyarmati szerkezetét, fehér falú házait és kövezett utcáit. A város a történelmi örökség és a tengerparti szépség ritka találkozása. Történelem K8 – gyarmati kereskedelem.",
+      "factsAdvanced": ["UNESCO világörökségi város", "Egykori fontos aranykikötő", "Megőrzött gyarmati szerkezet", "Fehér falú épületek", "Kövezett utcák", "Történelmi és tengerparti szépség"]
+    },
+    {
+      "id": "alcantara-history-v2",
+      "descriptionAdvanced": "Alcântara Maranhão államban egy kisváros, amely egykor a gazdag földbirtokosok és a gyarmati nemesség központja volt, mára azonban sok épülete romokban áll, ami különös történelmi atmoszférát teremt. A város gyarmati múltja a cukornádültetvényekkel és az arisztokrata élettel fonódott össze. Ma a csendes városkép a múlt dicsőségét és elmúlását idézi. Történelem K8 – gyarmati élet.",
+      "factsAdvanced": ["Maranhão gyarmati városkép", "Egykori arisztokrata központ", "Cukornádültetvények múltja", "Történelmi romépületek", "Csendes történelmi atmoszféra", "Gyarmati arisztokrácia"]
+    },
+    {
+      "id": "sao-cristovao-history-v2",
+      "descriptionAdvanced": "São Cristóvão Sergipe állam korábbi székhelye, amely a negyedik legrégibb város Brazíliában, és az UNESCO világörökség része. A Szent Ferenc-tér a gyarmati városépítészet egyik legszebb példája, amelyet a portugál és spanyol uralom korszakában alakítottak ki. A város a régió történelmének és vallási életének fontos színtere. Történelem K8 – gyarmati városépítészet.",
+      "factsAdvanced": ["Negyedik legrégebbi város", "UNESCO világörökségi helyszín", "Szent Ferenc-tér", "Gyarmati városépítészet", "Sergipe korábbi székhelye", "Vallási és történelmi központ"]
+    },
+    {
+      "id": "goias-velho-history-v2",
+      "descriptionAdvanced": "Goiás Velho (Cidade de Goiás) az ország közepén fekvő egykori állami székhely, amely az UNESCO világörökség listáján is szerepel a jól megőrzött gyarmati stílusa miatt. A város a bányászati és kereskedelmi utak fontos állomása volt, ahol ma is érezhető az évszázadokkal ezelőtti életmód hatása. A város kulturális és történelmi értékei a brazil középnyugati régió identitását erősítik. Történelem K8 – gyarmati történelem.",
+      "factsAdvanced": ["UNESCO világörökségi város", "Egykori állami székhely", "Jól megőrzött gyarmati stílus", "Bányászati utak csomópontja", "Kulturális és történelmi identitás", "Középnyugati régió központja"]
+    }
+  ]
+}

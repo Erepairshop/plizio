@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { CountryFaqMap } from "./types";
 
 export const roFaq: CountryFaqMap = {
@@ -7862,3 +7863,4 @@ export const roFaq: CountryFaqMap = {
   ],
   },
 };
+

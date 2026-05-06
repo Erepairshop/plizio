@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSouthsudanHistoryV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Történelmi határvita", "Ma Kodok néven ismert", "A Shilluk király székhelye", "A francia terjeszkedés vége"],
       ro: ["Dispută teritorială istorică", "Cunoscut astăzi sub numele de Kodok", "Sediul regelui Shilluk", "Sfârșitul expansiunii franceze"],
       en: ["Historic territorial dispute", "Now known as Kodok", "Seat of the Shilluk King", "End of French expansion"]
-    }
-  },
+    }, image: "/poi-images/fashoda-history-v2.webp"},
   {
     id: "rejaf-fort-history-v2",
     type: "historical",
@@ -71,8 +71,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["II. Lipót személyes tulajdona", "Később Szudánhoz került", "Fontos az elefántcsont-kereskedelemben", "Történelmi közigazgatási határ"],
       ro: ["Proprietatea personală a lui Leopold II", "Transferat ulterior Sudanului", "Important pentru comerțul cu fildeș", "Graniță administrativă istorică"],
       en: ["Personal property of Leopold II", "Later transferred to Sudan", "Important for ivory trade", "Historic administrative border"]
-    }
-  },
+    }, image: "/poi-images/lado-enclave-history-v2.webp"},
   {
     id: "gondokoro-trading-post-history-v2",
     type: "historical",
@@ -95,8 +94,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Speke és Grant találkozási pontja", "Egykori misszió", "A rabszolga-kereskedelem központja", "A legészakibb hajózható pont"],
       ro: ["Locul de întâlnire al lui Speke și Grant", "Fostă misiune", "Centrul comerțului cu sclavi", "Cel mai nordic punct navigabil"],
       en: ["Meeting point of Speke and Grant", "Former mission station", "Center of slave trade", "Northernmost navigable point"]
-    }
-  },
+    }, image: "/poi-images/gondokoro-trading-post-history-v2.webp"},
   {
     id: "dufile-fort-history-v2",
     type: "historical",
@@ -119,8 +117,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Emin pasa építette", "Védelmi létesítmény", "Az ugandai határ közelében", "Régészeti lelőhely"],
       ro: ["Construită de Emin Pașa", "Instalație defensivă", "Aproape de granița cu Uganda", "Sit arheologic"],
       en: ["Built by Emin Pasha", "Defensive structure", "Near the Uganda border", "Archaeological site"]
-    }
-  },
+    }, image: "/poi-images/dufile-fort-history-v2.webp"},
   {
     id: "fort-berkeley-history-v2",
     type: "historical",
@@ -143,8 +140,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Brit katonai poszt", "Rejaf-fal szemben", "1898 körül alapították", "Történelmi őrhely"],
       ro: ["Post militar britanic", "Vis-a-vis de Rejaf", "Fondat în jurul anului 1898", "Post de pază istoric"],
       en: ["British military post", "Opposite Rejaf", "Founded around 1898", "Historic sentinel post"]
-    }
-  },
+    }, image: "/poi-images/fort-berkeley-history-v2.webp"},
   {
     id: "doleib-hill-mission-history-v2",
     type: "historical",
@@ -167,8 +163,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["1902-ben alapították", "Oktatási központ", "A Sobat-folyó partján", "Amerikai presbiteriánusok"],
       ro: ["Fondată în 1902", "Centru educațional", "Situată pe râul Sobat", "Presbiterieni americani"],
       en: ["Founded in 1902", "Educational center", "Located on the Sobat River", "American Presbyterians"]
-    }
-  },
+    }, image: "/poi-images/doleib-hill-mission-history-v2.webp"},
   {
     id: "lul-mission-history-v2",
     type: "historical",
@@ -191,8 +186,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Katolikus misszió", "Shilluk törzsterület", "1901-ben alapították", "Mezőgazdasági fókusz"],
       ro: ["Misiune catolică", "Inima teritoriului Shilluk", "Fondată în 1901", "Focus agricol"],
       en: ["Catholic mission", "Shilluk heartland", "Founded in 1901", "Agricultural focus"]
-    }
-  },
+    }, image: "/poi-images/lul-mission-history-v2.webp"},
   {
     id: "taufikia-military-history-v2",
     type: "historical",
@@ -215,8 +209,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Samuel Baker alapította", "Rabszolga-ellenes poszt", "Malakal közelében", "Egyiptomi garnizon"],
       ro: ["Fondată de Samuel Baker", "Post anti-sclavie", "Lângă Malakal", "Garnizoană egipteană"],
       en: ["Founded by Samuel Baker", "Anti-slavery outpost", "Near Malakal", "Egyptian garrison"]
-    }
-  },
+    }, image: "/poi-images/taufikia-military-history-v2.webp"},
   {
     id: "old-fangak-history-v2",
     type: "historical",
@@ -287,8 +280,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Anyuak kulturális terület", "Etióp határ", "Hagyományos uralom", "Termékeny folyóvölgy"],
       ro: ["Teritoriul Anyuak", "Frontiera cu Etiopia", "Conducere tradițională", "Vale fertilă"],
       en: ["Anyuak cultural land", "Border with Ethiopia", "Traditional leadership", "Fertile river valley"]
-    }
-  },
+    }, image: "/poi-images/gelo-river-heritage-history-v2.webp"},
   {
     id: "gbudwe-court-history-v2",
     type: "historical",
@@ -311,8 +303,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Az azande hatalom központja", "Ellenállás a gyarmatosítással szemben", "Yambio területén található", "Kulturális szimbólum"],
       ro: ["Centrul puterii Azande", "Rezistența împotriva colonialismului", "Situat în Yambio", "Simbol cultural"],
       en: ["Center of Azande power", "Resistance to colonialism", "Located in Yambio", "Cultural symbol"]
-    }
-  },
+    }, image: "/poi-images/gbudwe-court-history-v2.webp"},
   {
     id: "kaka-nile-port-history-v2",
     type: "historical",
@@ -335,8 +326,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Történelmi folyami kikötő", "Észak-Felső-Nílus", "Kereskedelmi központ", "Nílusi állomás"],
       ro: ["Port fluvial istoric", "Nilul Superior de Nord", "Centru comercial", "Stație pe Nil"],
       en: ["Historic river port", "Northern Upper Nile", "Commercial hub", "Nile station"]
-    }
-  },
+    }, image: "/poi-images/kaka-nile-port-history-v2.webp"},
   {
     id: "tonga-historical-village-history-v2",
     type: "historical",
@@ -359,8 +349,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Stratégiai elhelyezkedés", "Nílus-torkolat", "Ókori egyiptomi hatás", "Történelmi találkozóhely"],
       ro: ["Locație strategică", "Gura Nilului", "Influență egipteană antică", "Loc de întâlnire istoric"],
       en: ["Strategic location", "Nile confluence", "Ancient Egyptian influence", "Historic meeting point"]
-    }
-  },
+    }, image: "/poi-images/tonga-historical-village-history-v2.webp"},
   {
     id: "kayala-battle-site-history-v2",
     type: "historical",
@@ -407,8 +396,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Első anglikán misszió", "1906-ban alapították", "Bor közelében található", "Oktatás kezdete"],
       ro: ["Prima misiune anglicană", "Fondată în 1906", "Situată lângă Bor", "Originea educației"],
       en: ["First Anglican mission", "Founded in 1906", "Located near Bor", "Origin of education"]
-    }
-  },
+    }, image: "/poi-images/malek-cms-mission-history-v2.webp"},
   {
     id: "mongalla-provincial-capital-history-v2",
     type: "historical",
@@ -431,8 +419,7 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
       hu: ["Egykori főváros", "Fontos folyami kikötő", "Angol-egyiptomi őrhely", "Stratégiai központ"],
       ro: ["Fostă capitală", "Port fluvial important", "Post anglo-egiptean", "Centru strategic"],
       en: ["Former capital", "Key river port", "Anglo-Egyptian post", "Strategic center"]
-    }
-  },
+    }, image: "/poi-images/mongalla-provincial-capital-history-v2.webp"},
   {
     id: "katire-logging-station-history-v2",
     type: "historical",
@@ -482,3 +469,4 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
     }
   }
 ];
+

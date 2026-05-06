@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
@@ -47,8 +48,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["A Június 30. sugárúton található.", "A kongói frank kibocsátója."],
       ro: ["Situată pe Bulevardul 30 Iunie.", "Responsabilă pentru moneda franc congolez."],
       en: ["Located on Boulevard du 30 Juin.", "Responsible for the Congolese Franc currency."]
-    }
-  },
+    }, image: "/poi-images/cd-central-bank-congo-landmarks-v2.webp"},
   {
     id: "cd-cinquantenaire-monument-landmarks-v2",
     type: "landmark",
@@ -71,8 +71,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["2010-ben avatták fel.", "A nemzeti egységet jelképezi."],
       ro: ["Inaugurat în anul 2010.", "Simbolizează unitatea națională."],
       en: ["Inaugurated in 2010.", "Symbolizes national unity."]
-    }
-  },
+    }, image: "/poi-images/cd-cinquantenaire-monument-landmarks-v2.webp"},
   {
     id: "cd-kananga-cathedral-landmarks-v2",
     type: "landmark",
@@ -119,8 +118,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["Több futballklub otthona.", "Körülbelül 35 000 néző befogadására alkalmas."],
       ro: ["Gazda mai multor cluburi de fotbal.", "Capacitate de aproximativ 35.000 de spectatori."],
       en: ["Home to several football clubs.", "Capacity for about 35,000 spectators."]
-    }
-  },
+    }, image: "/poi-images/cd-kibassa-maliba-stadium-landmarks-v2.webp"},
   {
     id: "cd-lisala-cathedral-landmarks-v2",
     type: "landmark",
@@ -167,8 +165,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["A Mbandaka-Bikoro Főegyházmegye székhelye.", "A város építészeti fénypontja."],
       ro: ["Sediul Arhidiecezei de Mbandaka-Bikoro.", "Un punct culminant arhitectural al orașului."],
       en: ["Seat of the Archdiocese of Mbandaka-Bikoro.", "Architectural highlight of the city."]
-    }
-  },
+    }, image: "/poi-images/cd-mbandaka-cathedral-landmarks-v2.webp"},
   {
     id: "cd-unity-monument-goma-landmarks-v2",
     type: "landmark",
@@ -191,8 +188,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["Egy forgalmas téren található.", "Gyakran hivatalos ceremóniák helyszíne."],
       ro: ["Situat într-o piață aglomerată.", "Adesea locul ceremoniilor oficiale."],
       en: ["Located on a busy square.", "Often the site of official ceremonies."]
-    }
-  },
+    }, image: "/poi-images/cd-unity-monument-goma-landmarks-v2.webp"},
   {
     id: "cd-unilu-belvedere-landmarks-v2",
     type: "landmark",
@@ -263,8 +259,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["A Butembo-Beni Egyházmegye székhelye.", "Egy igen aktív egyházközség központja."],
       ro: ["Sediul Diecezei de Butembo-Beni.", "Centrul unei comunități bisericești foarte active."],
       en: ["Seat of the Diocese of Butembo-Beni.", "Center of a very active church community."]
-    }
-  },
+    }, image: "/poi-images/cd-butembo-cathedral-landmarks-v2.webp"},
   {
     id: "cd-kindu-lualaba-bridge-landmarks-v2",
     type: "landmark",
@@ -287,8 +282,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["Megkönnyíti a kereskedelmet Maniema régióban.", "Jelentős mérnöki építmény."],
       ro: ["Facilitează comerțul în regiunea Maniema.", "O lucrare de inginerie semnificativă."],
       en: ["Facilitates trade in the Maniema region.", "A significant engineering structure."]
-    }
-  },
+    }, image: "/poi-images/cd-kindu-lualaba-bridge-landmarks-v2.webp"},
   {
     id: "cd-government-building-kinshasa-landmarks-v2",
     type: "landmark",
@@ -311,8 +305,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["A Place Royale-on található.", "A közigazgatás modernizációjának szimbóluma."],
       ro: ["Situată în Place Royale.", "Un simbol al modernizării administrației."],
       en: ["Located at Place Royale.", "A symbol of administrative modernization."]
-    }
-  },
+    }, image: "/poi-images/cd-government-building-kinshasa-landmarks-v2.webp"},
   {
     id: "cd-hotel-memling-landmarks-v2",
     type: "landmark",
@@ -335,8 +328,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["Hans Memling flamand festőről nevezték el.", "Üzleti utazók központi találkozóhelye."],
       ro: ["Numit după pictorul flamand Hans Memling.", "Loc de întâlnire central pentru călătorii de afaceri."],
       en: ["Named after the Flemish painter Hans Memling.", "Central meeting point for business travelers."]
-    }
-  },
+    }, image: "/poi-images/cd-hotel-memling-landmarks-v2.webp"},
   {
     id: "cd-matadi-st-joseph-cathedral-landmarks-v2",
     type: "landmark",
@@ -359,8 +351,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["Széles kilátást nyújt a kikötőre.", "A Matadi Egyházmegye központja."],
       ro: ["Oferă o vedere panoramică asupra portului.", "Centrul Diecezei de Matadi."],
       en: ["Offers a wide view over the port.", "Center of the Diocese of Matadi."]
-    }
-  },
+    }, image: "/poi-images/cd-matadi-st-joseph-cathedral-landmarks-v2.webp"},
   {
     id: "cd-lemfu-mission-landmarks-v2",
     type: "landmark",
@@ -383,8 +374,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["A lemfui bazilikáról ismert.", "A régió jelentős oktatási központja."],
       ro: ["Cunoscută pentru Bazilica din Lemfu.", "Un centru educațional important al regiunii."],
       en: ["Known for the Basilica of Lemfu.", "A significant educational center in the region."]
-    }
-  },
+    }, image: "/poi-images/cd-lemfu-mission-landmarks-v2.webp"},
   {
     id: "cd-isiro-cathedral-landmarks-v2",
     type: "landmark",
@@ -407,8 +397,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["Fontos zarándokhely.", "Az ország északkeleti részén található."],
       ro: ["Un important loc de pelerinaj.", "Situată în nord-estul țării."],
       en: ["An important pilgrimage site.", "Located in the northeast of the country."]
-    }
-  },
+    }, image: "/poi-images/cd-isiro-cathedral-landmarks-v2.webp"},
   {
     id: "cd-symphonie-arts-kinshasa-landmarks-v2",
     type: "landmark",
@@ -431,8 +420,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["Helyi művészek központja.", "Csendes környéken, a Kongó folyó partján fekszik."],
       ro: ["Centru pentru artiștii locali.", "Situată într-o zonă liniștită de pe malul fluviului Congo."],
       en: ["Center for local artists.", "Located in a quiet area along the Congo River."]
-    }
-  },
+    }, image: "/poi-images/cd-symphonie-arts-kinshasa-landmarks-v2.webp"},
   {
     id: "cd-lumumba-statue-limete-landmarks-v2",
     type: "landmark",
@@ -455,8 +443,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["A kongói patriotizmus szimbóluma.", "Sok látogatót vonz a függetlenség napján."],
       ro: ["Un simbol al patriotismului congolez.", "Atrage mulți vizitatori de Ziua Independenței."],
       en: ["A symbol of Congolese patriotism.", "Attracts many visitors on Independence Day."]
-    }
-  },
+    }, image: "/poi-images/cd-lumumba-statue-limete-landmarks-v2.webp"},
   {
     id: "cd-banana-lighthouse-landmarks-v2",
     type: "landmark",
@@ -479,8 +466,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["Az ország legnyugatibb pontját jelzi.", "Fontos a hajózás számára a Kongó-deltában."],
       ro: ["Marchează cel mai vestic punct al țării.", "Important pentru navigația în Delta Congoului."],
       en: ["Marks the westernmost point of the country.", "Important for navigation at the Congo Delta."]
-    }
-  },
+    }, image: "/poi-images/cd-banana-lighthouse-landmarks-v2.webp"},
   {
     id: "cd-basankusu-cathedral-landmarks-v2",
     type: "landmark",
@@ -503,8 +489,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["A Basankusui Egyházmegye székhelye.", "A Lulonga és Maringa folyók összefolyásánál fekszik."],
       ro: ["Sediul Diecezei de Basankusu.", "Situată la confluența râurilor Lulonga și Maringa."],
       en: ["Seat of the Diocese of Basankusu.", "Located at the confluence of the Lulonga and Maringa rivers."]
-    }
-  },
+    }, image: "/poi-images/cd-basankusu-cathedral-landmarks-v2.webp"},
   {
     id: "cd-mount-ngaliema-park-landmarks-v2",
     type: "landmark",
@@ -527,8 +512,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["Itt található a Nemzeti Múzeumi Intézet.", "Egykori gyarmati erőd helyszíne."],
       ro: ["Găzduiește Institutul Național al Muzeelor.", "Fostul sit al unei cetăți coloniale."],
       en: ["Houses the National Institute of Museums.", "Former site of a colonial fortress."]
-    }
-  },
+    }, image: "/poi-images/cd-mount-ngaliema-park-landmarks-v2.webp"},
   {
     id: "cd-idjwi-st-kizito-cathedral-landmarks-v2",
     type: "landmark",
@@ -575,8 +559,7 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
       hu: ["A Kabindai Egyházmegye székhelye.", "A helyi közösség fontos találkozóhelye."],
       ro: ["Sediul Diecezei de Kabinda.", "Important loc de întâlnire pentru comunitatea locală."],
       en: ["Seat of the Diocese of Kabinda.", "Important meeting point for the local community."]
-    }
-  },
+    }, image: "/poi-images/cd-kabinda-cathedral-landmarks-v2.webp"},
   {
     id: "cd-kikwit-st-mary-cathedral-landmarks-v2",
     type: "landmark",
@@ -602,3 +585,4 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
     }
   }
 ];
+

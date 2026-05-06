@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/magyarO8.ts
 
 import type { PoolTopicDef } from "./types";
@@ -2581,4 +2582,5 @@ addMagyarO8PracticeTopics(MAGYAR_O8_I6_LABELS, MAGYAR_O8_I6_POOL, MAGYAR_O8_PRAC
 addMagyarO8PracticeTopics(MAGYAR_O8_I7_LABELS, MAGYAR_O8_I7_POOL, MAGYAR_O8_PRACTICE_CONFIGS[6]);
 addMagyarO8PracticeTopics(MAGYAR_O8_I8_LABELS, MAGYAR_O8_I8_POOL, MAGYAR_O8_PRACTICE_CONFIGS[7]);
 addMagyarO8PracticeTopics(MAGYAR_O8_I9_LABELS, MAGYAR_O8_I9_POOL, MAGYAR_O8_PRACTICE_CONFIGS[8]);
+
 

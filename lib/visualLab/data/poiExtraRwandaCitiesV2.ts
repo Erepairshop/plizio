@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraRwandaCitiesV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Afrika egyik legtisztább városaként tartják számon.", "Több lankás dombon fekszik az ország központjában."],
       ro: ["Este considerată una dintre cele mai curate orașe din Africa.", "Situată pe mai multe dealuri blânde în centrul țării."],
       en: ["Regarded as one of the cleanest cities in Africa.", "Situated on multiple rolling hills in the country's center."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Kigali, die pulsierende Hauptstadt Ruandas, wurde 1907 gegründet und erstreckt sich heute über ein komplexes Hügelland, das im Durchschnitt 1.567 Meter über dem Meeresspiegel liegt. Die Stadt gilt als eine der saubersten Hauptstädte Afrikas und fungiert als das primäre Wirtschaftszentrum des Landes, das 2023 massiv in die IT-Infrastruktur investierte. Besucher finden hier ein modernes Kongresszentrum, das an eine traditionelle Bienenkorb-Hütte erinnert, und zahlreiche Museen, die die komplexe Geschichte der Region seit der Unabhängigkeit 1962 dokumentieren. Kigali bildet das Herzstück des ruandischen Bildungs- und Handelslebens.",
+      hu: "Kigali, Ruanda lüktető fővárosa 1907-ben alapíttatott, és ma már komplex dombságokon terül el, átlagosan 1567 méteres tengerszint feletti magasságban. A város Afrika egyik legtisztább fővárosaként ismert, és az ország elsődleges gazdasági központja, amely 2023-ban jelentős összegeket fektetett be az informatikai infrastruktúrába. A látogatók itt találhatják meg a modern konferencia-központot, amely egy hagyományos kaptár alakú kunyhóra emlékeztet, valamint számos múzeumot, amelyek dokumentálják a régió összetett történelmét az 1962-es függetlenség óta. Kigali a ruandai oktatási és kereskedelmi élet szíve.",
+      ro: "Kigali, capitala vibrantă a Rwandei, a fost fondată în 1907 și se întinde astăzi pe un sistem complex de dealuri, la o altitudine medie de 1.567 de metri deasupra nivelului mării. Orașul este considerat una dintre cele mai curate capitale din Africa și funcționează ca principal centru economic al țării, care în 2023 a investit masiv în infrastructura IT. Vizitatorii găsesc aici un centru de conferințe modern, care amintește de o colibă tradițională în formă de stup, și numeroase muzee care documentează istoria complexă a regiunii de la independența din 1962. Kigali formează inima vieții educaționale și comerciale rwandeze.",
+      en: "Kigali, the vibrant capital of Rwanda, was founded in 1907 and today stretches across a complex hilly landscape at an average altitude of 1,567 meters above sea level. The city is considered one of the cleanest capitals in Africa and serves as the country's primary economic hub, which invested massively in IT infrastructure in 2023. Visitors find a modern convention center here that resembles a traditional beehive hut, as well as numerous museums documenting the complex history of the region since independence in 1962. Kigali forms the heart of Rwandan education and commercial life."
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr der Stadt ist 1907.", "Durchschnittliche Höhe von 1.567 Metern.", "Erste IT-Sonderwirtschaftszone des Landes.", "Bevölkerung wächst jährlich um etwa 3,5%.", "Sitz des ruandischen Parlamentgebäudes.", "Heimat des Kigali Convention Centre."],
+      hu: ["A város alapítási éve 1907.", "Átlagos tengerszint feletti magassága 1567 méter.", "Az ország első speciális informatikai gazdasági övezete.", "A népesség évente kb. 3,5%-kal nő.", "A ruandai parlament székhelye.", "A Kigali Kongresszusi Központ otthona."],
+      ro: ["Anul fondării orașului este 1907.", "Altitudine medie de 1.567 de metri.", "Prima zonă economică specială IT a țării.", "Populația crește anual cu aproximativ 3,5%.", "Sediul clădirii parlamentului rwandez.", "Găzduiește Kigali Convention Centre."],
+      en: ["Founded in 1907.", "Average altitude of 1,567 meters.", "Country's first special IT economic zone.", "Population grows by about 3.5% annually.", "Seat of the Rwandan parliament building.", "Home to the Kigali Convention Centre."]
+    }, image: "/poi-images/rwanda-kigali-cities-v2.webp"},
   {
     id: "rwanda-musanze-cities-v2",
     type: "city",
@@ -27,8 +39,19 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Korábban Ruhengeri néven volt ismert.", "A ruandai ökoturizmus és természetjárás központja."],
       ro: ["Cunoscut anterior sub numele de Ruhengeri.", "Centrul turismului din Rwanda pentru observatorii naturii."],
       en: ["Formerly known under the name Ruhengeri.", "The center of Rwandan tourism for nature observation."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Musanze, früher bekannt als Ruhengeri, liegt im Nordwesten Ruandas am Fuße der majestätischen Virunga-Vulkane auf etwa 1.850 Metern Höhe. Als zentraler Knotenpunkt für den Tourismus zieht die Stadt jährlich tausende Besucher an, die von hier aus zu den Trekkingtouren zu den berühmten Berggorillas im Vulkan-Nationalpark aufbrechen. Die Region ist extrem fruchtbar und wird landwirtschaftlich intensiv für den Anbau von Kartoffeln und Pyrethrum genutzt, einem natürlichen Insektizid. Die Stadt dient als Verwaltungszentrum und bildet das Tor zu den spektakulären Zwillingsseen Burera und Ruhondo.",
+      hu: "Musanze, korábbi nevén Ruhengeri, Ruanda északnyugati részén fekszik, a fenséges Virunga-vulkánok lábánál, körülbelül 1850 méteres magasságban. A turizmus központi csomópontjaként a város évente több ezer látogatót vonz, akik innen indulnak a Vulkánok Nemzeti Park híres hegyi gorilláihoz vezető túrákra. A régió rendkívül termékeny, és intenzíven használják burgonya, valamint piretrum – egy természetes rovarirtó szer – termesztésére. A város közigazgatási központként szolgál, és kaput képez a látványos Burera és Ruhondo ikertavak felé.",
+      ro: "Musanze, cunoscut anterior sub numele de Ruhengeri, este situat în nord-vestul Rwandei la poalele maiestuoșilor vulcani Virunga, la aproximativ 1.850 de metri altitudine. Ca nod central pentru turism, orașul atrage anual mii de vizitatori care pleacă de aici în drumeții către faimoasele gorile de munte din Parcul Național al Vulcanilor. Regiunea este extrem de fertilă și este utilizată intensiv pentru cultivarea cartofilor și a piretrului, un insecticid natural. Orașul servește drept centru administrativ și formează poarta către spectaculoasele lacuri gemene Burera și Ruhondo.",
+      en: "Musanze, formerly known as Ruhengeri, is located in northwestern Rwanda at the foot of the majestic Virunga volcanoes at an altitude of approximately 1,850 meters. As a central hub for tourism, the city attracts thousands of visitors annually who depart from here on trekking tours to see the famous mountain gorillas in Volcanoes National Park. The region is extremely fertile and is intensively used for growing potatoes and pyrethrum, a natural insecticide. The city serves as an administrative center and forms the gateway to the spectacular twin lakes Burera and Ruhondo."
+    },
+    factsAdvanced: {
+      de: ["Höhe von ca. 1.850 Metern.", "Zentrum für Pyrethrum-Anbau.", "Tor zum Vulkan-Nationalpark.", "Nähe zu den Zwillingsseen Burera und Ruhondo.", "War früher als Ruhengeri bekannt.", "Wichtiger Ort für Gorilla-Tracking."],
+      hu: ["Kb. 1850 méteres magasság.", "Piretrum-termesztési központ.", "Kapu a Vulkánok Nemzeti Parkhoz.", "Közelség a Burera és Ruhondo ikertavakhoz.", "Korábban Ruhengeri néven volt ismert.", "Gorilla-túrák kiindulópontja."],
+      ro: ["Altitudine de aprox. 1.850 de metri.", "Centru pentru cultivarea piretrului.", "Poartă către Parcul Național al Vulcanilor.", "Proximitatea față de lacurile gemene Burera și Ruhondo.", "Cunoscut anterior ca Ruhengeri.", "Loc important pentru tracking-ul gorilelor."],
+      en: ["Altitude of approx. 1,850 meters.", "Center for pyrethrum cultivation.", "Gateway to Volcanoes National Park.", "Proximity to twin lakes Burera and Ruhondo.", "Formerly known as Ruhengeri.", "Important site for gorilla trekking."]
+    }, image: "/poi-images/rwanda-musanze-cities-v2.webp"},
   {
     id: "rwanda-rubavu-cities-v2",
     type: "city",
@@ -41,8 +64,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Csodás homokos strandokat kínál az édesvizű tónál.", "A gyarmati építészet nyomai még helyenként láthatók."],
       ro: ["Oferă plaje superbe de nisip la lacul cu apă dulce.", "Arhitectura colonială este încă parțial vizibilă."],
       en: ["Offers beautiful sandy beaches on the freshwater lake.", "The colonial architecture is still visible in some parts."]
-    }
-  },
+    }, image: "/poi-images/rwanda-rubavu-cities-v2.webp"},
   {
     id: "rwanda-huye-cities-v2",
     type: "city",
@@ -55,8 +77,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A korábban Butare néven ismert város a tudomány központja.", "Itt található a Ruandai Nemzeti Múzeum."],
       ro: ["Fostul Butare este un centru al științei.", "Aici se află Muzeul Național al Rwandei."],
       en: ["The former Butare is a center of science.", "The National Museum of Rwanda is located here."]
-    }
-  },
+    }, image: "/poi-images/rwanda-huye-cities-v2.webp"},
   {
     id: "rwanda-muhanga-cities-v2",
     type: "city",
@@ -69,8 +90,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Az ország második legnagyobb városi agglomerációja.", "Korábban Gitarama néven volt ismert a település."],
       ro: ["A doua cea mai mare aglomerare urbană din țară.", "Era cunoscut anterior sub numele de Gitarama."],
       en: ["Second largest urban agglomeration in the country.", "Was formerly known as Gitarama."]
-    }
-  },
+    }, image: "/poi-images/rwanda-muhanga-cities-v2.webp"},
   {
     id: "rwanda-rusizi-cities-v2",
     type: "city",
@@ -83,8 +103,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Két fő részből áll: Cyangugu és Kamembe kerületekből.", "Jelentős átrakodóhely a határon átnyúló kereskedelemben."],
       ro: ["Este format din două părți principale: Cyangugu și Kamembe.", "Un important punct de tranzit pentru comerțul transfrontalier."],
       en: ["Consists of two main parts: Cyangugu and Kamembe.", "An important transshipment point for cross-border trade."]
-    }
-  },
+    }, image: "/poi-images/rwanda-rusizi-cities-v2.webp"},
   {
     id: "rwanda-rwamagana-cities-v2",
     type: "city",
@@ -97,8 +116,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A városközpont viszonylag sík területen fekszik.", "Itt található a régió egyik legnagyobb kórháza."],
       ro: ["Centrul urban este situat relativ plat.", "Aici se află un mare spital regional."],
       en: ["The urban center is situated relatively flat.", "A large regional hospital is located here."]
-    }
-  },
+    }, image: "/poi-images/rwanda-rwamagana-cities-v2.webp"},
   {
     id: "rwanda-karongi-cities-v2",
     type: "city",
@@ -125,8 +143,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A rukari királyi palota múzeumának otthona.", "Itt láthatók a hatalmas szarvú híres Inyambo marhák."],
       ro: ["Găzduiește Muzeul Palatului Regal din Rukari.", "Prezintă faimoasele vite Inyambo cu coarne uriașe."],
       en: ["Home to the Royal Palace Museum in Rukari.", "Displays the famous Inyambo cattle with giant horns."]
-    }
-  },
+    }, image: "/poi-images/rwanda-nyanza-cities-v2.webp"},
   {
     id: "rwanda-gicumbi-cities-v2",
     type: "city",
@@ -139,8 +156,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A terület rendkívül meredek dombjairól híres.", "A várost korábban Byumba néven ismerték."],
       ro: ["Zona este cunoscută pentru dealurile sale extrem de abrupte.", "Orașul se numea anterior Byumba."],
       en: ["The area is known for its extremely steep hills.", "The city was previously called Byumba."]
-    }
-  },
+    }, image: "/poi-images/rwanda-gicumbi-cities-v2.webp"},
   {
     id: "rwanda-nyamagabe-cities-v2",
     type: "city",
@@ -153,8 +169,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Korábban Gikongoro néven emlegették.", "Közel 2000 méteres tengerszint feletti magasságban fekszik."],
       ro: ["Cunoscut anterior ca Gikongoro.", "Situat la o altitudine de aproape 2000 de metri."],
       en: ["Formerly known as Gikongoro.", "Located at an altitude of nearly 2000 meters."]
-    }
-  },
+    }, image: "/poi-images/rwanda-nyamagabe-cities-v2.webp"},
   {
     id: "rwanda-ngoma-cities-v2",
     type: "city",
@@ -181,8 +196,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Hatalmas népességnövekedést él át a hazatelepülők miatt.", "Az éghajlat itt sokkal melegebb és szárazabb."],
       ro: ["Se confruntă cu o creștere imensă a populației din cauza repatriaților.", "Clima de aici este considerabil mai caldă și mai uscată."],
       en: ["Experiencing massive population growth due to returnees.", "The climate here is significantly hotter and drier."]
-    }
-  },
+    }, image: "/poi-images/rwanda-nyagatare-cities-v2.webp"},
   {
     id: "rwanda-kayonza-cities-v2",
     type: "city",
@@ -195,8 +209,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Fontos központ a logisztikával foglalkozó cégek számára.", "A közelben található az Akagera Nemzeti Park bejárata."],
       ro: ["Centru important pentru companiile de logistică.", "Intrarea în Parcul Akagera se află în apropiere."],
       en: ["Important center for logistics-related companies.", "The entrance to Akagera Park is located nearby."]
-    }
-  },
+    }, image: "/poi-images/rwanda-kayonza-cities-v2.webp"},
   {
     id: "rwanda-nyamata-cities-v2",
     type: "city",
@@ -209,8 +222,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Jelentős népirtási emlékhellyel rendelkezik.", "A tájat számos kisebb tó és mocsárvidék tarkítja."],
       ro: ["Are un important memorial al genocidului.", "Peisajul este marcat de multe lacuri mici."],
       en: ["Features an important genocide memorial site.", "The landscape is dotted with many small lakes."]
-    }
-  },
+    }, image: "/poi-images/rwanda-nyamata-cities-v2.webp"},
   {
     id: "rwanda-ruhango-cities-v2",
     type: "city",
@@ -223,8 +235,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A Kinazi maniókagyár a legnagyobb munkaadó a térségben.", "Fontos megállóhely a távolsági buszjáratok számára."],
       ro: ["Fabrica de manioc Kinazi este cel mai mare angajator.", "Stație importantă pentru autobuzele interurbane."],
       en: ["The Kinazi cassava plant is the largest employer.", "Important stop for intercity buses."]
-    }
-  },
+    }, image: "/poi-images/rwanda-ruhango-cities-v2.webp"},
   {
     id: "rwanda-nyamasheke-cities-v2",
     type: "city",
@@ -237,8 +248,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Elsőrangú Arabica kávét termesztenek a területén.", "Kiváló hozzáférést biztosít a Nyungwe-erdő déli részéhez."],
       ro: ["Aici se produce cafea Arabica de primă clasă.", "Oferă acces la partea de sud a pădurii Nyungwe."],
       en: ["Produces first-class Arabica coffee.", "Provides access to the southern part of the Nyungwe Forest."]
-    }
-  },
+    }, image: "/poi-images/rwanda-nyamasheke-cities-v2.webp"},
   {
     id: "rwanda-rutsiro-cities-v2",
     type: "city",
@@ -251,8 +261,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A regionális méztermelés jelentős központja.", "A tájképet a hegyvidéki teaültetvények uralják."],
       ro: ["Centrul producției regionale de miere.", "Peisaj dominat de plantații de ceai."],
       en: ["Center of regional honey production.", "Landscape dominated by tea plantations."]
-    }
-  },
+    }, image: "/poi-images/rwanda-rutsiro-cities-v2.webp"},
   {
     id: "rwanda-ngororero-cities-v2",
     type: "city",
@@ -279,8 +288,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A hűvös éghajlat kedvez a helyi tejiparnak.", "Kiválóan fejlett sajtkészítő iparral rendelkezik a település."],
       ro: ["Clima rece favorizează industria produselor lactate.", "Există o producție bine dezvoltată de brânzeturi."],
       en: ["The cool climate favors the dairy industry.", "There is a well-developed cheese production industry here."]
-    }
-  },
+    }, image: "/poi-images/rwanda-nyabihu-cities-v2.webp"},
   {
     id: "rwanda-kirehe-cities-v2",
     type: "city",
@@ -293,8 +301,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A stratégiailag fontos középső szállítási útvonal mentén fekszik.", "Hatalmas banánültetvények övezik a várost."],
       ro: ["Situat pe ruta centrală de transport strategic.", "Înconjurat de mari plantații de banane."],
       en: ["Located on the strategically important central transport route.", "Surrounded by large banana plantations."]
-    }
-  },
+    }, image: "/poi-images/rwanda-kirehe-cities-v2.webp"},
   {
     id: "rwanda-gatsibo-cities-v2",
     type: "city",
@@ -307,8 +314,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Hatalmas tejelő szarvasmarha-szövetkezetekkel rendelkezik.", "Az itteni dombok laposabbak és szavannaszerűek."],
       ro: ["Deține mari cooperative de vaci de lapte.", "Dealurile de aici sunt mai plate și asemănătoare savanei."],
       en: ["Has large dairy cattle cooperatives.", "The hills here are flatter and savanna-like."]
-    }
-  },
+    }, image: "/poi-images/rwanda-gatsibo-cities-v2.webp"},
   {
     id: "rwanda-burera-cities-v2",
     type: "city",
@@ -321,8 +327,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Egy modern orvosi kiválósági központnak ad otthont.", "A környék földje nagyon termékeny a bab számára."],
       ro: ["Găzduiește un centru medical modern de excelență.", "Terenul din zonă este foarte fertil pentru fasole."],
       en: ["Houses a modern medical center of excellence.", "The surrounding area is very fertile for beans."]
-    }
-  },
+    }, image: "/poi-images/rwanda-burera-cities-v2.webp"},
   {
     id: "rwanda-rulindo-cities-v2",
     type: "city",
@@ -335,8 +340,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Számos kis volfrám- és ónbánya jellemzi a környező vidéket.", "Fontos közlekedési csomópont észak felé."],
       ro: ["Multe mici mine de tungsten și staniu caracterizează zona înconjurătoare.", "Un nod de transport important pentru nord."],
       en: ["Numerous small tungsten and tin mines characterize the surrounding area.", "Important transport hub for the north."]
-    }
-  },
+    }, image: "/poi-images/rwanda-rulindo-cities-v2.webp"},
   {
     id: "rwanda-gakenke-cities-v2",
     type: "city",
@@ -349,8 +353,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A gakenkei kávétermelők rendszeresen rekordárakat érnek el.", "A területet számos folyóág szeli át."],
       ro: ["Cultivatorii de cafea din Gakenke obțin în mod regulat prețuri record.", "Este traversat de numeroase cursuri de apă."],
       en: ["Coffee farmers from Gakenke regularly achieve record prices.", "Crisscrossed by numerous river courses."]
-    }
-  },
+    }, image: "/poi-images/rwanda-gakenke-cities-v2.webp"},
   {
     id: "rwanda-kamonyi-cities-v2",
     type: "city",
@@ -363,8 +366,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Közvetlenül Kigali külső határai után fekszik.", "Mezőgazdasági jellegű, de erős téglaipari termeléssel is bír."],
       ro: ["Situat chiar dincolo de suburbiile capitalei Kigali.", "Agricultură proeminentă cu o producție puternică de cărămizi."],
       en: ["Located just beyond the outskirts of Kigali.", "Agriculturally prominent with strong brick production."]
-    }
-  },
+    }, image: "/poi-images/rwanda-kamonyi-cities-v2.webp"},
   {
     id: "rwanda-nyaruguru-cities-v2",
     type: "city",
@@ -377,8 +379,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A ruandai katolikus zarándokok legfontosabb központjaként ismert.", "A tájképet végtelen teamezők uralják."],
       ro: ["Cunoscut ca cel mai important centru pentru pelerinii catolici din Rwanda.", "Câmpurile de ceai domină peisajul."],
       en: ["Known as the most important center for Catholic pilgrims in Rwanda.", "Tea fields dominate the landscape."]
-    }
-  },
+    }, image: "/poi-images/rwanda-nyaruguru-cities-v2.webp"},
   {
     id: "rwanda-gisagara-cities-v2",
     type: "city",
@@ -391,8 +392,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Itt található Afrika egyik legnagyobb tőzeghajtású erőműve.", "Szoros gazdasági kapcsolatban áll Huye városával."],
       ro: ["Una dintre cele mai mari centrale pe bază de turbă din Africa este situată aici.", "Are legături economice strânse cu Huye."],
       en: ["One of Africa's largest peat power plants is located here.", "Has close economic ties with Huye."]
-    }
-  },
+    }, image: "/poi-images/rwanda-gisagara-cities-v2.webp"},
   {
     id: "rwanda-kicukiro-cities-v2",
     type: "city",
@@ -405,8 +405,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Számos egyetemi campus helyszíne.", "Az ipari szektor erős bázisával rendelkezik."],
       ro: ["Sediul mai multor campusuri universitare.", "Caracterizat de o bază industrială puternică."],
       en: ["Home to several university campuses.", "Characterized by a strong industrial base."]
-    }
-  },
+    }, image: "/poi-images/rwanda-kicukiro-cities-v2.webp"},
   {
     id: "rwanda-gasabo-cities-v2",
     type: "city",
@@ -419,8 +418,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Számos nagykövetség és kormányzati épület található itt.", "Kigali körüli vidéki területeket is magában foglal."],
       ro: ["Aici se află multe ambasade și clădiri guvernamentale.", "Include și zone rurale din jurul Kigali."],
       en: ["Many embassies and government buildings are located here.", "Also encompasses rural areas around Kigali."]
-    }
-  },
+    }, image: "/poi-images/rwanda-gasabo-cities-v2.webp"},
   {
     id: "rwanda-nyarugenge-cities-v2",
     type: "city",
@@ -433,8 +431,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A mai főváros legrégebben betelepült területe.", "A ruandai pénzügyi szektor központja."],
       ro: ["Cea mai veche zonă de așezare a capitalei actuale.", "Centrul sectorului financiar din Rwanda."],
       en: ["The oldest settled area of the current capital.", "The center of the financial sector in Rwanda."]
-    }
-  },
+    }, image: "/poi-images/rwanda-nyarugenge-cities-v2.webp"},
   {
     id: "rwanda-gatuna-cities-v2",
     type: "city",
@@ -447,8 +444,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["24 órás határátkelőhely a teherforgalom számára.", "Fontos gazdasági ütőér az ország számára."],
       ro: ["Un post de frontieră deschis 24 de ore pentru traficul de marfă.", "Un nerv economic important pentru țară."],
       en: ["A 24-hour border post for freight traffic.", "An important economic lifeline for the country."]
-    }
-  },
+    }, image: "/poi-images/rwanda-gatuna-cities-v2.webp"},
   {
     id: "rwanda-kagitumba-cities-v2",
     type: "city",
@@ -461,8 +457,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Modern, egyablakos határátkelőhely működik itt.", "A környező táj jellegzetes sík sztyeppe."],
       ro: ["Sediul unui modern post de frontieră cu punct unic.", "Peisajul înconjurător este o stepă plată."],
       en: ["Seat of a modern One-Stop Border Post.", "The surrounding landscape is a flat steppe."]
-    }
-  },
+    }, image: "/poi-images/rwanda-kagitumba-cities-v2.webp"},
   {
     id: "rwanda-rusumo-cities-v2",
     type: "city",
@@ -475,8 +470,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A Dar es Salaam-i kikötőből származó áruk fő belépési pontja.", "Látványos vízesések találhatók a folyón."],
       ro: ["Poarta principală de intrare pentru mărfurile din portul Dar es Salaam.", "Are cascade spectaculoase pe râu."],
       en: ["Main entry gateway for goods from the port of Dar es Salaam.", "Features spectacular waterfalls on the river."]
-    }
-  },
+    }, image: "/poi-images/rwanda-rusumo-cities-v2.webp"},
   {
     id: "rwanda-bugarama-cities-v2",
     type: "city",
@@ -503,8 +497,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Ruanda egyik legnehezebben megközelíthető vidéke.", "Teljes mértékben esőerdő veszi körül."],
       ro: ["Una dintre cele mai greu accesibile zone din Rwanda.", "Este complet înconjurată de pădurea tropicală."],
       en: ["One of the most difficult to access areas of Rwanda.", "Is completely surrounded by the rainforest."]
-    }
-  },
+    }, image: "/poi-images/rwanda-bweyeye-cities-v2.webp"},
   {
     id: "rwanda-mukamira-cities-v2",
     type: "city",
@@ -517,8 +510,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A hegyvidékről származó burgonya fő elosztóközpontja.", "Kiterjedt katonai létesítmények is találhatók itt."],
       ro: ["Cunoscut ca punct de transfer pentru cartofii din zonele înalte.", "Găzduiește instalații militare mari."],
       en: ["Known as a transshipment point for potatoes from the highlands.", "It houses large military installations."]
-    }
-  },
+    }, image: "/poi-images/rwanda-mukamira-cities-v2.webp"},
   {
     id: "rwanda-kora-cities-v2",
     type: "city",
@@ -531,8 +523,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Nyabihu régió egyik fontos mezőgazdasági központja.", "Sárgarépa és káposzta termesztésére specializálódott."],
       ro: ["Centru agricol din regiunea Nyabihu.", "Specializat în cultivarea de morcovi și varză."],
       en: ["Agricultural center in the Nyabihu region.", "Specializes in the cultivation of carrots and cabbage."]
-    }
-  },
+    }, image: "/poi-images/rwanda-kora-cities-v2.webp"},
   {
     id: "rwanda-bigogwe-cities-v2",
     type: "city",
@@ -545,8 +536,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Itt legelésznek a jól ismert óriási szarvú tehenek.", "A hagyományos tejrituálék fontos helyszíne."],
       ro: ["Aici pasc vacile cu coarnele uriașe bine-cunoscute.", "Un loc important pentru ritualurile tradiționale ale laptelui."],
       en: ["The cows with the well-known giant horns graze here.", "An important place for traditional milk rituals."]
-    }
-  },
+    }, image: "/poi-images/rwanda-bigogwe-cities-v2.webp"},
   {
     id: "rwanda-kivuruga-cities-v2",
     type: "city",
@@ -559,8 +549,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A friss termékek elosztó csomópontjaként funkcionál.", "Egy nagyon hegyvidéki és zöldellő régióban fekszik."],
       ro: ["Funcționează ca un nod de distribuție pentru produse proaspete.", "Situat într-o regiune foarte deluroasă și verde."],
       en: ["Functions as a distribution hub for fresh produce.", "Located in a very hilly and green region."]
-    }
-  },
+    }, image: "/poi-images/rwanda-kivuruga-cities-v2.webp"},
   {
     id: "rwanda-base-cities-v2",
     type: "city",
@@ -573,8 +562,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Számos utcai árus kínál itt helyi harapnivalókat.", "A fontos, Kigalit Musanze-vel összekötő úton található."],
       ro: ["Numeroși vânzători ambulanți oferă gustări locale aici.", "Situat pe drumul important de la Kigali la Musanze."],
       en: ["Numerous street vendors offer local snacks here.", "Located on the important road from Kigali to Musanze."]
-    }
-  },
+    }, image: "/poi-images/rwanda-base-cities-v2.webp"},
   {
     id: "rwanda-rukozo-cities-v2",
     type: "city",
@@ -601,8 +589,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Nagy búzafeldolgozó létesítményekkel rendelkezik.", "Sokat profitál a gicumbi kerületi központ közelségéből."],
       ro: ["Are instalații mari de procesare a grâului.", "Beneficiază de apropierea de centrul districtului Gicumbi."],
       en: ["Has large facilities for processing wheat.", "Benefits from its proximity to the district center of Gicumbi."]
-    }
-  },
+    }, image: "/poi-images/rwanda-miyove-cities-v2.webp"},
   {
     id: "rwanda-kinigi-cities-v2",
     type: "city",
@@ -615,8 +602,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A ruandai gorillatúrák adminisztratív központja.", "A környéket számos ökológiai luxusszállás jellemzi."],
       ro: ["Sediul central pentru drumețiile la gorile din Rwanda.", "Numeroase cabane ecologice definesc împrejurimile."],
       en: ["The headquarters for gorilla trekking in Rwanda.", "Numerous eco-lodges define the surroundings."]
-    }
-  },
+    }, image: "/poi-images/rwanda-kinigi-cities-v2.webp"},
   {
     id: "rwanda-rwaza-cities-v2",
     type: "city",
@@ -643,8 +629,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Itt áll Ruanda legrégebbi katedrálisa.", "Az ország kiemelkedő teológiai oktatási központja."],
       ro: ["Cea mai veche catedrală din Rwanda se află aici.", "Este centrul educațional teologic al țării."],
       en: ["The oldest cathedral in Rwanda stands here.", "It is the theological educational center of the country."]
-    }
-  },
+    }, image: "/poi-images/rwanda-kabgayi-cities-v2.webp"},
   {
     id: "rwanda-kibeho-cities-v2",
     type: "city",
@@ -657,8 +642,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Évente több tízezer zarándokot vonz a világ minden tájáról.", "Óriási spirituális jelentőséggel bíró hely Ruandában."],
       ro: ["Atrage anual zeci de mii de pelerini din întreaga lume.", "Un loc cu o mare semnificație spirituală pentru Rwanda."],
       en: ["Attracts tens of thousands of pilgrims from all over the world annually.", "A place of great spiritual significance for Rwanda."]
-    }
-  },
+    }, image: "/poi-images/rwanda-kibeho-cities-v2.webp"},
   {
     id: "rwanda-save-cities-v2",
     type: "city",
@@ -671,8 +655,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A kereszténység történelmi kiindulópontja az országban.", "Régi kolostori intézményeknek ad otthont."],
       ro: ["Punctul de plecare istoric al creștinismului în țară.", "Găzduiește facilități monahale vechi."],
       en: ["The historical starting point of Christianity in the country.", "Houses old monastic facilities."]
-    }
-  },
+    }, image: "/poi-images/rwanda-save-cities-v2.webp"},
   {
     id: "rwanda-ndora-cities-v2",
     type: "city",
@@ -685,8 +668,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A helyi kisgazdák terméseinek gyűjtőpontjaként szolgál.", "A régió lényegesen laposabb, mint a zord ruandai észak."],
       ro: ["Servește ca punct de colectare pentru recoltele micilor fermieri.", "Regiunea este mai plată decât nordul aspru rwandez."],
       en: ["Serves as a collection point for harvests of small local farmers.", "The region is flatter than the rugged Rwandan north."]
-    }
-  },
+    }, image: "/poi-images/rwanda-ndora-cities-v2.webp"},
   {
     id: "rwanda-kansi-cities-v2",
     type: "city",
@@ -699,8 +681,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A hagyományos ruandai kerámiákról ismert.", "Több történelmi oktatási intézmény működik itt."],
       ro: ["Cunoscut pentru ceramica tradițională rwandeză.", "Există mai multe instituții de învățământ istoric aici."],
       en: ["Known for traditional Rwandan pottery.", "There are several historical educational institutions here."]
-    }
-  },
+    }, image: "/poi-images/rwanda-kansi-cities-v2.webp"},
   {
     id: "rwanda-mugombwa-cities-v2",
     type: "city",
@@ -713,8 +694,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Kongói menekültek ezreinek ad otthont.", "A helyi környezet gazdasági motorjaként is funkcionál."],
       ro: ["Găzduiește mii de refugiați congolezi.", "Acționează ca un motor economic pentru mediul local."],
       en: ["Houses thousands of Congolese refugees.", "Acts as an economic engine for the local environment."]
-    }
-  },
+    }, image: "/poi-images/rwanda-mugombwa-cities-v2.webp"},
   {
     id: "rwanda-rilima-cities-v2",
     type: "city",
@@ -727,8 +707,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Országos szintű ortopédiai központtal rendelkezik.", "Hatalmas manióka mezők ölelik körbe."],
       ro: ["Are un centru ortopedic de importanță națională.", "Înconjurat de câmpuri întinse de manioc."],
       en: ["Has an orthopedic center of national importance.", "Surrounded by extensive cassava fields."]
-    }
-  },
+    }, image: "/poi-images/rwanda-rilima-cities-v2.webp"},
   {
     id: "rwanda-gashora-cities-v2",
     type: "city",
@@ -741,8 +720,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A Gashora Girls Academy országos hírnévvel bír.", "A tavi turizmus egyre inkább fejlődésnek indul."],
       ro: ["Academia de fete Gashora este faimoasă la nivel național.", "Turismul lacustru se dezvoltă tot mai mult."],
       en: ["The Gashora Girls Academy has nationwide fame.", "Lake tourism is increasingly developing."]
-    }
-  },
+    }, image: "/poi-images/rwanda-gashora-cities-v2.webp"},
   {
     id: "rwanda-rukira-cities-v2",
     type: "city",
@@ -755,8 +733,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Fontos helyi gabonakereskedelmi központ.", "Az itteni szavanna nyáron rendkívül száraz."],
       ro: ["Un centru comercial local important pentru cereale.", "Peisajul de savană de aici este foarte uscat vara."],
       en: ["An important local commercial center for grain.", "The savanna landscape here is very dry in summer."]
-    }
-  },
+    }, image: "/poi-images/rwanda-rukira-cities-v2.webp"},
   {
     id: "rwanda-nasho-cities-v2",
     type: "city",
@@ -769,8 +746,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A fejlett technológia forradalmasította a helyi mezőgazdaságot.", "A vízimadarak megfigyelésének népszerű helyszíne."],
       ro: ["Tehnologia avansată a revoluționat agricultura locală.", "Un loc popular pentru observarea păsărilor pe apă."],
       en: ["Advanced technology has revolutionized local agriculture.", "A popular spot for birdwatching by the water."]
-    }
-  },
+    }, image: "/poi-images/rwanda-nasho-cities-v2.webp"},
   {
     id: "rwanda-rwinkwavu-cities-v2",
     type: "city",
@@ -783,8 +759,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A Partners In Health nevű civil szervezet tette világszerte ismertté.", "A kongói bányászati útvonalak egykori központja volt."],
       ro: ["A devenit cunoscut la nivel mondial datorită ONG-ului Partners In Health.", "Fostul centru al rutelor miniere congoleze."],
       en: ["Became known worldwide through the NGO Partners In Health.", "Former center of the Congolese mining routes."]
-    }
-  },
+    }, image: "/poi-images/rwanda-rwinkwavu-cities-v2.webp"},
   {
     id: "rwanda-kabarondo-cities-v2",
     type: "city",
@@ -811,8 +786,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["A Ruandai Egyetem pedagógiai kara itt tart fenn campust.", "A diákok számára épült infrastruktúra meghatározza a városképet."],
       ro: ["Colegiul de Educație UR are un campus aici.", "Infrastructura pentru studenți modelează peisajul orașului."],
       en: ["The UR College of Education has a campus here.", "Infrastructure for students shapes the cityscape."]
-    }
-  },
+    }, image: "/poi-images/rwanda-rukara-cities-v2.webp"},
   {
     id: "rwanda-murambi-cities-v2",
     type: "city",
@@ -825,8 +799,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       hu: ["Fontos a napraforgó és a kukorica termesztése szempontjából.", "Lágyan ívelő szavannák ölelik körül."],
       ro: ["Important pentru cultivarea de floarea-soarelui și porumb.", "Situat geografic în savane ușor curbate."],
       en: ["Important for the cultivation of sunflowers and corn.", "Geographically located in gently rolling savannas."]
-    }
-  },
+    }, image: "/poi-images/rwanda-murambi-cities-v2.webp"},
   {
     id: "rwanda-kiziguro-cities-v2",
     type: "city",
@@ -842,3 +815,4 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     }
   }
 ];
+

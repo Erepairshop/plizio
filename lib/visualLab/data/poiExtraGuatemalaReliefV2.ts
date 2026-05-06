@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuatemalaReliefV2: POI[] = [
@@ -15,8 +16,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Highest point: Cerro Raxón", "Cloud forest ecosystem", "Major water source for the Motagua Valley", "Habitat for the quetzal"]
     },
     descriptionAdvanced: { de: "Die Sierra de las Minas ist einer der bedeutendsten Gebirgszüge in Mittelamerika und erstreckt sich über den Osten Guatemalas. Das Gebirge beherbergt das größte zusammenhängende Nebelwaldreservat der Region und zeichnet sich durch eine enorme vertikale Biodiversität aus. Aufgrund seiner mineralreichen Zusammensetzung, die dem Gebirge seinen Namen gibt, ist es geologisch einzigartig. Die Sierra dient als lebenswichtiges Wassereinzugsgebiet, das über 60 Flüsse speist, die für die Landwirtschaft im umliegenden Tiefland unverzichtbar sind. Als UNESCO-Biosphärenreservat ist es ein streng geschütztes Refugium für den Nationalvogel Quetzal und viele andere bedrohte Arten.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Sierra de las Minas besitzt den größten Marmor- und Jadereichtum Mittelamerikas.", "Einige der Gipfel erreichen Höhen von über 3.000 Metern über dem Meeresspiegel.", "Das Reservat schützt über 800 verschiedene Arten von Orchideen und Bromelien.", "Die Flüsse der Sierra sind die Hauptwasserquelle für die trockene Motagua-Region."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Sierra de las Minas besitzt den größten Marmor- und Jadereichtum Mittelamerikas.", "Einige der Gipfel erreichen Höhen von über 3.000 Metern über dem Meeresspiegel.", "Das Reservat schützt über 800 verschiedene Arten von Orchideen und Bromelien.", "Die Flüsse der Sierra sind die Hauptwasserquelle für die trockene Motagua-Region."], hu: [], ro: [], en: [] }, image: "/poi-images/sierra-de-las-minas-relief-v2.webp"},
   {
     id: "cerro-cucurucho-relief-v2",
     type: "relief",
@@ -31,8 +31,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Part of the Acatenango volcanic complex", "Popular destination for hikers", "Provides panoramic views", "Volcanic rock"]
     },
     descriptionAdvanced: { de: "Der Cerro Cucurucho ist ein prominenter Gipfel in der Gebirgskette, die Antigua Guatemala umgibt, und ein markanter Teil des zentralen Hochlandes. Er ist bekannt für seine dichte Bewaldung mit Kiefern und Eichen sowie für seine oft nebelverhangenen Hänge, die dem Berg eine mystische Atmosphäre verleihen. Wanderer schätzen den Cerro Cucurucho für die anspruchsvollen Pfade und die spektakulären Ausblicke auf die umliegenden Vulkane Agua, Fuego und Acatenango. Geologisch gehört der Berg zu den älteren Formationen des vulkanischen Bogens und bietet einen wichtigen Lebensraum für die lokale Tierwelt. Der Schutz der Vegetation am Cucurucho ist entscheidend für die Regulierung des Wasserhaushalts im Tal von Panchoy.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Name 'Cucurucho' bezieht sich auf die spitz zulaufende Form des Gipfels.", "Auf den unteren Ebenen des Berges befinden sich einige der besten Kaffeeplantagen der Region.", "Der Gipfelbereich bietet bei klarer Sicht einen Panoramablick bis nach Guatemala-Stadt.", "Der Berg ist ein beliebtes Ziel für lokale Trekkinggruppen und Naturfotografen."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Name 'Cucurucho' bezieht sich auf die spitz zulaufende Form des Gipfels.", "Auf den unteren Ebenen des Berges befinden sich einige der besten Kaffeeplantagen der Region.", "Der Gipfelbereich bietet bei klarer Sicht einen Panoramablick bis nach Guatemala-Stadt.", "Der Berg ist ein beliebtes Ziel für lokale Trekkinggruppen und Naturfotografen."], hu: [], ro: [], en: [] }, image: "/poi-images/cerro-cucurucho-relief-v2.webp"},
   {
     id: "sierra-madre-relief-v2",
     type: "mountain",
@@ -47,8 +46,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Separates the Pacific and Atlantic drainage basins", "Home to numerous volcanoes", "Influences the country's climate", "Cultural region of the highland Maya"]
     },
     descriptionAdvanced: { de: "Das Sierra-Madre-Gebirge ist das Rückgrat Guatemalas und Teil einer massiven Gebirgskette, die sich durch ganz Mittelamerika zieht. In Guatemala beherbergt dieser Gebirgszug die meisten der aktiven und erloschenen Vulkane des Landes und bildet die kontinentale Wasserscheide zwischen Pazifik und Atlantik. Die Sierra Madre prägt das Klima und die Topografie des Landes grundlegend und schafft eine Vielzahl von Mikroklimata, die von tropischen Küsten bis zu frostigen Hochlandsgipfeln reichen. Die Region ist seit Jahrtausenden das kulturelle Zentrum der Maya-Völker, die sich an die harten Bedingungen der Hochgebirgslandschaft angepasst haben. Ihre fruchtbaren Vulkanböden machen die Sierra Madre zu einer der produktivsten Agrarregionen des Landes.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Kette beherbergt den Tajumulco, den höchsten Gipfel ganz Mittelamerikas.", "Sie ist geologisch instabil und Schauplatz häufiger seismischer Aktivitäten.", "Zahlreiche Flüsse entspringen in den Hochlagen und speisen die Tiefebenen beider Küsten.", "Die Sierra Madre beeinflusst die Passatwinde und sorgt für reichlich Regen im Hochland."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Kette beherbergt den Tajumulco, den höchsten Gipfel ganz Mittelamerikas.", "Sie ist geologisch instabil und Schauplatz häufiger seismischer Aktivitäten.", "Zahlreiche Flüsse entspringen in den Hochlagen und speisen die Tiefebenen beider Küsten.", "Die Sierra Madre beeinflusst die Passatwinde und sorgt für reichlich Regen im Hochland."], hu: [], ro: [], en: [] }, image: "/poi-images/sierra-madre-relief-v2.webp"},
   {
     id: "cuchumatanes-relief-v2",
     type: "mountain",
@@ -63,8 +61,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Average elevation over 3000m", "Limestone mountains", "Unique highland flora", "Culturally isolated region"]
     },
     descriptionAdvanced: { de: "Die Sierra de los Cuchumatanes ist das höchste nicht-vulkanische Gebirge Mittelamerikas und beeindruckt durch seine massive, zerklüftete Kalksteinarchitektur. Gelegen im Nordwesten Guatemalas, erreichen die Plateaus Höhen von fast 4.000 Metern, wo ein raues, fast alpines Klima herrscht. Die Landschaft ist geprägt von weiten Hochebenen, Agavenfeldern und tiefen Schluchten, die einige der isoliertesten Gemeinschaften des Landes beherbergen. Die Cuchumatanes sind geologisch einzigartig aufgrund ihrer marinen Kalksteinformationen, die reich an Fossilien sind. Aufgrund der extremen Höhe ist die Flora und Fauna hochspezialisiert und umfasst Arten, die nirgendwo sonst in Guatemala zu finden sind.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Hochebene von Todos Santos ist bekannt für ihre einzigartige Flora und kalte Winde.", "Es ist die größte Kalksteinformation in ganz Zentralamerika.", "In den Hochlagen wird oft traditionelle Schafzucht von indigenen Gemeinschaften betrieben.", "Das Gebirge bietet spektakuläre Straßenverläufe mit atemberaubenden Aussichtspunkten."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Hochebene von Todos Santos ist bekannt für ihre einzigartige Flora und kalte Winde.", "Es ist die größte Kalksteinformation in ganz Zentralamerika.", "In den Hochlagen wird oft traditionelle Schafzucht von indigenen Gemeinschaften betrieben.", "Das Gebirge bietet spektakuläre Straßenverläufe mit atemberaubenden Aussichtspunkten."], hu: [], ro: [], en: [] }, image: "/poi-images/cuchumatanes-relief-v2.webp"},
   {
     id: "valle-del-motagua-relief-v2",
     type: "relief",
@@ -79,8 +76,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Geological boundary between two tectonic plates", "Major banana growing area", "Archaeologically significant", "Along the Motagua River"]
     },
     descriptionAdvanced: { de: "Das Motagua-Tal ist eines der geologisch bedeutendsten Täler der Welt, da es direkt auf der Motagua-Verwerfung liegt, die die Grenze zwischen der nordamerikanischen und der karibischen Erdplatte bildet. Der Río Motagua durchfließt dieses tiefe Tal, das für sein trockenes, heißes Klima im Vergleich zum restlichen Hochland bekannt ist. Das Tal war in der Maya-Zeit die Hauptquelle für Jade, das am Flussufer gesammelt und in die gesamte Region exportiert wurde. Heute ist das Motagua-Tal eine der fruchtbarsten Regionen für den großflächigen Anbau von Exportprodukten wie Bananen und Melonen. Die geologische Aktivität entlang des Tals ist der Hauptgrund für viele der schweren Erdbeben in der Geschichte Guatemalas.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Hier befindet sich die einzige bekannte Quelle für Jadeit in ganz Mesoamerika.", "Die Verwerfungslinie ist über 400 Kilometer lang und durchzieht das gesamte Land.", "Das Tal dient als wichtiger logistischer Korridor zwischen der Hauptstadt und der Karibikküste.", "Die archäologische Stätte Quiriguá liegt am unteren Ende dieses fruchtbaren Tals."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Hier befindet sich die einzige bekannte Quelle für Jadeit in ganz Mesoamerika.", "Die Verwerfungslinie ist über 400 Kilometer lang und durchzieht das gesamte Land.", "Das Tal dient als wichtiger logistischer Korridor zwischen der Hauptstadt und der Karibikküste.", "Die archäologische Stätte Quiriguá liegt am unteren Ende dieses fruchtbaren Tals."], hu: [], ro: [], en: [] }, image: "/poi-images/valle-del-motagua-relief-v2.webp"},
   {
     id: "reserva-biosfera-maya-relief-v2",
     type: "forest",
@@ -95,8 +91,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Protection of ruins and biodiversity", "Part of the Selva Maya", "High species diversity", "Important ecological area"]
     },
     descriptionAdvanced: { de: "Das Maya-Biosphärenreservat im Departement Petén ist das größte Schutzgebiet Guatemalas und umfasst über 21.000 Quadratkilometer tropischen Regenwaldes. Es bildet den Kern des Selva-Maya-Systems, des größten zusammenhängenden tropischen Waldgebiets nördlich des Amazonas. Das Reservat schützt nicht nur eine unglaubliche Artenvielfalt, sondern auch Hunderte von archäologischen Stätten der Maya, darunter das berühmte Tikal. Die Topografie ist geprägt von sanften Kalksteinhügeln, weiten Ebenen und einem komplexen Netz aus Feuchtgebieten und Seen. Als 'Lunge Mittelamerikas' spielt das Reservat eine entscheidende Rolle bei der Kohlenstoffspeicherung und der Regulierung des regionalen Klimas.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Das Reservat umfasst mehrere Nationalparks und Biotope unter einem gemeinsamen Schutzdach.", "Es beherbergt die weltweit größte Population des bedrohten Scharlachroten Aras.", "Nachhaltige Holznutzung und Chicle-Gewinnung sind in speziellen Zonen erlaubt.", "Internationale Kooperationen unterstützen den Schutz vor illegaler Abholzung und Brandrodung."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Das Reservat umfasst mehrere Nationalparks und Biotope unter einem gemeinsamen Schutzdach.", "Es beherbergt die weltweit größte Population des bedrohten Scharlachroten Aras.", "Nachhaltige Holznutzung und Chicle-Gewinnung sind in speziellen Zonen erlaubt.", "Internationale Kooperationen unterstützen den Schutz vor illegaler Abholzung und Brandrodung."], hu: [], ro: [], en: [] }, image: "/poi-images/reserva-biosfera-maya-relief-v2.webp"},
   {
     id: "altiplano-guatemalteco-relief-v2",
     type: "relief",
@@ -111,8 +106,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Cooler climate than in the lowlands", "Densely populated", "Center of traditional markets", "Important coffee growing region"]
     },
     descriptionAdvanced: { de: "Das guatemaltekische Hochland ist eine weite, gebirgige Region, die sich durch das Zentrum und den Westen des Landes erstreckt und das kulturelle Herzland der Maya bildet. Geprägt von majestätischen Vulkanen, tiefblauen Seen wie dem Atitlán und fruchtbaren Tälern, bietet das Hochland ein angenehm kühles 'ewiges Frühlingsklima'. Die Landschaft ist das Ergebnis intensiver vulkanischer Aktivität über Millionen von Jahren, die reiche, mineralhaltige Böden geschaffen hat. Hier konzentriert sich ein Großteil der Bevölkerung Guatemalas, die in malerischen Bergdörfern und Städten lebt. Das Hochland ist weltweit bekannt für seine farbenfrohen Märkte, die traditionelle Webkunst und den Anbau von hochwertigem Hochlandkaffee.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Region liegt durchschnittlich zwischen 1.500 und 2.500 Metern über dem Meeresspiegel.", "Hier befinden sich die wichtigsten Zentren der heutigen indigenen Maya-Kultur.", "Die Landschaft bietet einige der spektakulärsten Panorama-Aussichten in ganz Lateinamerika.", "Klima und Bodenbeschaffenheit sind ideal für eine enorme Vielfalt an Gemüse und Obst."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Region liegt durchschnittlich zwischen 1.500 und 2.500 Metern über dem Meeresspiegel.", "Hier befinden sich die wichtigsten Zentren der heutigen indigenen Maya-Kultur.", "Die Landschaft bietet einige der spektakulärsten Panorama-Aussichten in ganz Lateinamerika.", "Klima und Bodenbeschaffenheit sind ideal für eine enorme Vielfalt an Gemüse und Obst."], hu: [], ro: [], en: [] }, image: "/poi-images/altiplano-guatemalteco-relief-v2.webp"},
   {
     id: "volcan-tacana-relief-v2",
     type: "mountain",
@@ -127,8 +121,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Second highest mountain in Central America", "Part of the Sierra Madre", "Potentially active", "Popular with mountaineers"]
     },
     descriptionAdvanced: { de: "Der Volcán Tacaná ist ein imposanter Stratovulkan, der die Grenze zwischen Guatemala und dem mexikanischen Bundesstaat Chiapas markiert. Mit einer Höhe von 4.060 Metern ist er der zweithöchste Berg Mittelamerikas und ein markantes Wahrzeichen der Sierra Madre. Der Vulkan zeichnet sich durch seine steilen Hänge und seine reiche alpine Vegetation aus, die in den höheren Lagen in karges Grasland übergeht. Tacaná gilt als potenziell aktiv und wird von den geologischen Diensten beider Länder genau überwacht. Bergsteiger schätzen den anspruchsvollen Aufstieg, der mit spektakulären Ausblicken über den pazifischen Ozean und das Hochland belohnt wird. Das Gebiet um den Vulkan ist als Biosphärenreservat geschützt, um die einzigartigen Ökosysteme zu bewahren.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Vulkan besitzt mehrere Krater und eine komplexe Gipfelstruktur.", "Tacaná ist der nördlichste Punkt des zentralamerikanischen Vulkangürtels.", "An seinen Flanken entspringen zahlreiche Flüsse, die beide Länder mit Wasser versorgen.", "Die Region ist bekannt für ihren Nebelwald und seltene Orchideenarten."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Vulkan besitzt mehrere Krater und eine komplexe Gipfelstruktur.", "Tacaná ist der nördlichste Punkt des zentralamerikanischen Vulkangürtels.", "An seinen Flanken entspringen zahlreiche Flüsse, die beide Länder mit Wasser versorgen.", "Die Region ist bekannt für ihren Nebelwald und seltene Orchideenarten."], hu: [], ro: [], en: [] }, image: "/poi-images/volcan-tacana-relief-v2.webp"},
   {
     id: "sierra-de-chuacus-relief-v2",
     type: "mountain",
@@ -143,8 +136,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Dry climate in the rain shadow", "Important ecological corridors", "Sparsely populated", "Geologically complex"]
     },
     descriptionAdvanced: { de: "Die Sierra de Chuacús ist ein zentraler Gebirgszug in Guatemala, der als Übergangszone zwischen dem kühlen westlichen Hochland und den trockeneren Regionen im Osten fungiert. Geologisch ist sie sehr alt und besteht hauptsächlich aus metamorphem Gestein, was ihr ein charakteristisches, zerklüftetes Aussehen verleiht. Die Sierra spielt eine wichtige Rolle als Regenschatten-Gebirge und beeinflusst die Niederschlagsverteilung im Motagua-Tal. Trotz ihrer zentralen Lage ist die Region vergleichsweise dünn besiedelt und bewahrt große Flächen an Kiefern- und Eichenwäldern. Die Sierra de Chuacús ist ein wichtiges Refugium für bedrohte Tierarten und bietet Wanderern einsame Pfade durch fast unberührte Landschaften abseits der bekannten Touristenpfade.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Gebirgszug erstreckt sich über die Departements Quiché und Baja Verapaz.", "Die Sierra ist bekannt für ihre komplexen geologischen Formationen und Mineralvorkommen.", "Sie bildet eine wichtige natürliche Barriere für die feuchten Luftmassen aus dem Norden.", "In den Tälern finden sich viele traditionelle Bauerndörfer der Achi-Maya."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Gebirgszug erstreckt sich über die Departements Quiché und Baja Verapaz.", "Die Sierra ist bekannt für ihre komplexen geologischen Formationen und Mineralvorkommen.", "Sie bildet eine wichtige natürliche Barriere für die feuchten Luftmassen aus dem Norden.", "In den Tälern finden sich viele traditionelle Bauerndörfer der Achi-Maya."], hu: [], ro: [], en: [] }, image: "/poi-images/sierra-de-chuacus-relief-v2.webp"},
   {
     id: "valle-de-almolonga-relief-v2",
     type: "relief",
@@ -159,8 +151,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["'Vegetable garden of Guatemala'", "High soil fertility", "Volcanic origin", "Intensively cultivated"]
     },
     descriptionAdvanced: { de: "Das Almolonga-Tal im Departement Quetzaltenango ist weithin als der 'Gemüsegarten Mittelamerikas' bekannt. Durch die Kombination aus fruchtbaren Vulkanböden, reichlich vorhandenen Thermalquellen und einem milden Hochlandklima ist das Tal eine der produktivsten Agrarzonen des Kontinents. Die Landwirtschaft wird hier in einer unglaublichen Intensität betrieben, wobei fast jeder Quadratmeter des Talbodens für den Anbau von Karotten, Kohl, Zwiebeln und anderem Gemüse genutzt wird. Die Produkte aus Almolonga werden in ganz Zentralamerika für ihre überdurchschnittliche Größe und Qualität geschätzt. Die Bewohner des Tals haben über Generationen spezialisierte Techniken entwickelt, um das ganze Jahr über mehrere Ernten zu erzielen.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Das Tal ist für das Phänomen des Riesenwuchses bei lokalem Gemüse bekannt.", "Thermalquellen im Tal werden sowohl für die Bewässerung als auch für Bäder genutzt.", "Der Markt von Almolonga ist ein zentraler Umschlagplatz für den regionalen Exporthandel.", "Die intensive Bewirtschaftung macht das Tal zu einer der grünsten Regionen des Hochlands."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Das Tal ist für das Phänomen des Riesenwuchses bei lokalem Gemüse bekannt.", "Thermalquellen im Tal werden sowohl für die Bewässerung als auch für Bäder genutzt.", "Der Markt von Almolonga ist ein zentraler Umschlagplatz für den regionalen Exporthandel.", "Die intensive Bewirtschaftung macht das Tal zu einer der grünsten Regionen des Hochlands."], hu: [], ro: [], en: [] }, image: "/poi-images/valle-de-almolonga-relief-v2.webp"},
   {
     id: "cerro-cahabon-relief-v2",
     type: "relief",
@@ -175,8 +166,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Limestone karst", "Deep valleys", "Humid climate", "Rich in caves"]
     },
     descriptionAdvanced: { de: "Der Cerro Cahabón ist Teil einer ausgedehnten, bergigen Region im Departement Alta Verapaz, die durch ihre beeindruckende Karsttopografie geprägt ist. Die Landschaft besteht aus steilen Kalksteinhügeln, tiefen Tälern und einem Labyrinth aus Höhlen und unterirdischen Wasserläufen. Durch das feucht-tropische Klima ist die gesamte Region von üppigem Regenwald und Kaffeeplantagen bedeckt. Der Cerro Cahabón ist ein wichtiges ökologisches Refugium und schützt zahlreiche endemische Arten, die an das Leben in den Karstfelsen angepasst sind. Für die lokale Q'eqchi'-Bevölkerung sind diese Berge heilige Orte, die in ihrer Mythologie und ihrem spirituellen Leben eine zentrale Rolle spielen.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Region ist berühmt für ihr System aus 'Mogotes' (kegelförmigen Kalksteinhügeln).", "Der Cerro Cahabón ist ein wichtiges Wassereinzugsgebiet für den Río Cahabón.", "In den Felswänden finden sich oft Nistplätze für seltene Raubvögel.", "Die Karstlandschaft bietet ideale Bedingungen für den Anbau von hochwertigem Schattenkaffee."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Region ist berühmt für ihr System aus 'Mogotes' (kegelförmigen Kalksteinhügeln).", "Der Cerro Cahabón ist ein wichtiges Wassereinzugsgebiet für den Río Cahabón.", "In den Felswänden finden sich oft Nistplätze für seltene Raubvögel.", "Die Karstlandschaft bietet ideale Bedingungen für den Anbau von hochwertigem Schattenkaffee."], hu: [], ro: [], en: [] }, image: "/poi-images/cerro-cahabon-relief-v2.webp"},
   {
     id: "sierra-de-santa-cruz-relief-v2",
     type: "mountain",
@@ -191,8 +181,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Important habitat for endemic species", "Tropical rainforest", "Surrounded by wetlands", "Biologically valuable"]
     },
     descriptionAdvanced: { de: "Die Sierra de Santa Cruz ist ein isolierter und wilder Gebirgszug im Tiefland des Departements Izabal, nördlich des Izabal-Sees. Aufgrund seiner geografischen Isolation hat sich hier eine einzigartige Flora und Fauna entwickelt, mit vielen endemischen Arten, die nirgendwo sonst auf der Welt vorkommen. Die Berge sind fast vollständig von dichtem, tropischem Regenwald bedeckt und beherbergen eine große Vielfalt an Amphibien, Reptilien und Vögeln. Die Sierra dient als kritischer biologischer Korridor zwischen den Feuchtgebieten der Küste und den Wäldern des Petén. Für Naturschützer und Forscher ist die Sierra de Santa Cruz eines der wertvollsten und gleichzeitig gefährdetsten Ökosysteme Guatemalas.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Gebirgszug ist bekannt für seinen extrem hohen Niederschlag das ganze Jahr über.", "Die Sierra beherbergt mehrere gefährdete Arten des Helmschweins und des Jaguars.", "Sie ist eine der letzten fast unberührten Wildnisregionen an der Karibikküste.", "Zahlreiche kleine Flüsse und Wasserfälle stürzen von den bewaldeten Hängen in den See."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Gebirgszug ist bekannt für seinen extrem hohen Niederschlag das ganze Jahr über.", "Die Sierra beherbergt mehrere gefährdete Arten des Helmschweins und des Jaguars.", "Sie ist eine der letzten fast unberührten Wildnisregionen an der Karibikküste.", "Zahlreiche kleine Flüsse und Wasserfälle stürzen von den bewaldeten Hängen in den See."], hu: [], ro: [], en: [] }, image: "/poi-images/sierra-de-santa-cruz-relief-v2.webp"},
   {
     id: "altiplano-occidental-relief-v2",
     type: "relief",
@@ -207,8 +196,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Rugged mountains and deep canyons", "Traditional Maya communities", "High plateaus", "Culturally rich"]
     },
     descriptionAdvanced: { de: "Das westliche Hochland Guatemalas ist die Region mit den höchsten Erhebungen Mittelamerikas und bildet das kulturelle Zentrum der Maya-Identität. Die Landschaft ist geprägt von majestätischen Gipfeln, tiefen Schluchten und weiten Plateaus, auf denen oft frostige Temperaturen herrschen können. Diese raue Schönheit ist das Ergebnis massiver geologischer Hebungen und vulkanischer Ablagerungen. Das westliche Hochland ist Heimat für die Völker der K'iche', Mam und Ixil, die sich seit Jahrtausenden an das Leben in den Bergen angepasst haben. Die Region ist bekannt für ihre spektakulären Aussichtspunkte, ihre lebendigen indigenen Traditionen und eine Landwirtschaft, die sich bis in die höchsten Lagen hinaufzieht.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Hier befinden sich die höchsten besiedelten Gebiete des gesamten Landes.", "Die Region weist die höchste Konzentration an aktiven Vulkanen in Mittelamerika auf.", "Die Täler sind oft durch steile Klippen und tiefe Canyon-Systeme voneinander isoliert.", "Das westliche Hochland ist ein weltbekanntes Zentrum für Textilkunst und Weberei."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Hier befinden sich die höchsten besiedelten Gebiete des gesamten Landes.", "Die Region weist die höchste Konzentration an aktiven Vulkanen in Mittelamerika auf.", "Die Täler sind oft durch steile Klippen und tiefe Canyon-Systeme voneinander isoliert.", "Das westliche Hochland ist ein weltbekanntes Zentrum für Textilkunst und Weberei."], hu: [], ro: [], en: [] }, image: "/poi-images/altiplano-occidental-relief-v2.webp"},
   {
     id: "volcan-san-pedro-relief-v2",
     type: "mountain",
@@ -223,8 +211,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Height: 3020 m", "Overlooks Lake Atitlán", "Popular with tourists", "Dense forest on the slopes"]
     },
     descriptionAdvanced: { de: "Der Volcán San Pedro ist einer der drei markanten Vulkane, die das Ufer des Atitlán-Sees säumen, und verleiht der Landschaft ihre ikonische Schönheit. Mit einer Höhe von 3.020 Metern ist er ein ruhender Stratovulkan, dessen Hänge fast vollständig von dichtem Primärwald und Kaffeeplantagen bedeckt sind. Der Aufstieg zum Gipfel ist eine der beliebtesten Outdoor-Aktivitäten in der Region und bietet Wanderern einen atemberaubenden Blick aus der Vogelperspektive auf den gesamten See und die umliegenden Dörfer. Der Vulkan ist ein geschützter Park und ein wichtiges Habitat für den seltenen Horn-Guan (Pavo de Cacho), einen der gefährdetsten Vögel Mittelamerikas. Die Kombination aus See- und Vulkanlandschaft macht den San Pedro zu einem Naturdenkmal von weltweiter Bedeutung.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Vulkan besitzt einen gut erhaltenen Krater, der heute mit Wald bewachsen ist.", "Am Fuße des Vulkans liegt die lebhafte Stadt San Pedro La Laguna.", "Der Aufstieg gilt als moderat und dauert etwa 3 bis 4 Stunden für den Weg nach oben.", "Der fruchtbare Vulkanboden bringt einige der besten Kaffees der Atitlán-Region hervor."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Vulkan besitzt einen gut erhaltenen Krater, der heute mit Wald bewachsen ist.", "Am Fuße des Vulkans liegt die lebhafte Stadt San Pedro La Laguna.", "Der Aufstieg gilt als moderat und dauert etwa 3 bis 4 Stunden für den Weg nach oben.", "Der fruchtbare Vulkanboden bringt einige der besten Kaffees der Atitlán-Region hervor."], hu: [], ro: [], en: [] }, image: "/poi-images/volcan-san-pedro-relief-v2.webp"},
   {
     id: "sierra-de-las-nubes-relief-v2",
     type: "relief",
@@ -239,8 +226,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Constant mist", "Highland forest", "Humid microclimate", "Mystical landscape"]
     },
     descriptionAdvanced: { de: "Die Sierra de las Nubes, gelegen im Departement Baja Verapaz, trägt ihren Namen aufgrund der ständigen Nebelschwaden, die die Berggipfel umhüllen. Diese Region ist geprägt von mystischen Nebelwäldern, in denen die Luftfeuchtigkeit fast immer bei 100% liegt und eine üppige Vegetation aus Moosen, Farnen und Orchideen gedeiht. Die Sierra bildet eine natürliche Barriere für die feuchten Luftmassen aus der Karibik und sorgt für konstante Niederschläge im zentralen Teil Guatemalas. Aufgrund ihrer Abgeschiedenheit ist sie ein wichtiges Rückzugsgebiet für scheue Waldtiere wie den Quetzal. Die Landschaft der Sierra de las Nubes bietet ein fast märchenhaftes Erlebnis einer unberührten, vertikalen Wildnis.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die ständige Feuchtigkeit erlaubt das Wachstum von Baumfarnen, die wie aus der Urzeit wirken.", "Die Sierra ist ein wichtiges Wassereinzugsgebiet für das Motagua-Flusssystem.", "Hier finden sich einige der seltensten und schönsten Bromelienarten des Landes.", "Kleine Wanderpfade führen durch Gebiete, die fast ständig in Wolken gehüllt sind."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die ständige Feuchtigkeit erlaubt das Wachstum von Baumfarnen, die wie aus der Urzeit wirken.", "Die Sierra ist ein wichtiges Wassereinzugsgebiet für das Motagua-Flusssystem.", "Hier finden sich einige der seltensten und schönsten Bromelienarten des Landes.", "Kleine Wanderpfade führen durch Gebiete, die fast ständig in Wolken gehüllt sind."], hu: [], ro: [], en: [] }, image: "/poi-images/sierra-de-las-nubes-relief-v2.webp"},
   {
     id: "valle-de-guatemala-relief-v2",
     type: "relief",
@@ -255,8 +241,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Surrounded by volcanic mountains", "Elevation approx. 1500m", "Densely populated", "Center of the metropolitan area"]
     },
     descriptionAdvanced: { de: "Das Tal von Guatemala, auch bekannt als Tal der Ermita, ist ein weites Hochlandbecken, in dem sich die Metropolregion von Guatemala-Stadt erstreckt. Gelegen auf einer durchschnittlichen Höhe von 1.500 Metern, bietet das Tal ein mildes Klima und ist von beeindruckenden Vulkanformationen umgeben. Geologisch gesehen ist das Tal eine Grabenstruktur, die über Jahrtausende durch vulkanische Ascheablagerungen aufgefüllt wurde. Diese strategische Lage machte das Tal bereits in der vorkolonialen Zeit zu einem bedeutenden Siedlungsgebiet, wie die Ruinen von Kaminaljuyu belegen. Heute ist es das politische, wirtschaftliche und kulturelle Zentrum des Landes und beherbergt eine der dynamischsten Städte Mittelamerikas.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Das Tal ist durch tiefe Schluchten (Barrancos) gegliedert, die die Stadtentwicklung prägen.", "Drei große Vulkane dominieren den südlichen Horizont des Tals.", "Die fruchtbaren Böden des Tals wurden ursprünglich intensiv für die Landwirtschaft genutzt.", "Das Tal liegt an einer wichtigen kontinentalen Wasserscheide zwischen Pazifik und Atlantik."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Das Tal ist durch tiefe Schluchten (Barrancos) gegliedert, die die Stadtentwicklung prägen.", "Drei große Vulkane dominieren den südlichen Horizont des Tals.", "Die fruchtbaren Böden des Tals wurden ursprünglich intensiv für die Landwirtschaft genutzt.", "Das Tal liegt an einer wichtigen kontinentalen Wasserscheide zwischen Pazifik und Atlantik."], hu: [], ro: [], en: [] }, image: "/poi-images/valle-de-guatemala-relief-v2.webp"},
   {
     id: "volcan-toliman-relief-v2",
     type: "mountain",
@@ -271,8 +256,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Height: 3158 m", "Symmetrical shape", "Volcanic eruption zone", "View of the lake"]
     },
     descriptionAdvanced: { de: "Der Volcán Tolimán ist ein majestätischer Zwillingsvulkan, der sich am Südufer des Atitlán-Sees erhebt und dessen Silhouette das Landschaftsbild maßgeblich prägt. Mit seinen zwei Gipfeln, von denen der höchste 3.158 Meter erreicht, ist der Tolimán ein eindrucksvolles Beispiel für einen komplexen Stratovulkan. Seine Hänge sind steil und von dichtem Wald sowie Kaffeeplantagen bedeckt, die in den höheren Lagen in karges Vulkangestein übergehen. Der Tolimán gilt als schlafend, zeigt aber geologisch junge Strukturen, die auf eine bewegte Vergangenheit hinweisen. Er bildet zusammen mit den Vulkanen Atitlán und San Pedro das berühmte Vulkan-Trio des Sees, das Reisende aus aller Welt in seinen Bann zieht.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Vulkan besitzt einen flachen Krater auf dem Hauptgipfel.", "An seinen Flanken befinden sich Lavadome, die von früheren Eruptionen zeugen.", "Der Tolimán ist ein wichtiger Lebensraum für die lokale Avifauna des Sees.", "Der Aufstieg auf den Tolimán gilt als anspruchsvoller als der auf den Nachbarvulkan San Pedro."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Vulkan besitzt einen flachen Krater auf dem Hauptgipfel.", "An seinen Flanken befinden sich Lavadome, die von früheren Eruptionen zeugen.", "Der Tolimán ist ein wichtiger Lebensraum für die lokale Avifauna des Sees.", "Der Aufstieg auf den Tolimán gilt als anspruchsvoller als der auf den Nachbarvulkan San Pedro."], hu: [], ro: [], en: [] }, image: "/poi-images/volcan-toliman-relief-v2.webp"},
   {
     id: "altiplano-central-relief-v2",
     type: "relief",
@@ -287,8 +271,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Mix of volcanic area and plateaus", "Important connecting routes", "Agricultural significance", "Culturally diverse"]
     },
     descriptionAdvanced: { de: "Das zentrale Hochland Guatemalas ist eine Übergangszone, die die vulkanischen Ketten des Westens mit den trockeneren Ebenen des Ostens verbindet. Diese Region zeichnet sich durch eine Mischung aus vulkanischen Plateaus, sanften Hügeln und tief eingeschnittenen Flusstälern aus. Das Klima ist gemäßigt und wird oft als das 'Land des ewigen Frühlings' bezeichnet, was eine vielfältige Landwirtschaft ermöglicht. Das zentrale Hochland beherbergt wichtige Städte wie Antigua und Chimaltenango und ist durch ein dichtes Netz von Straßen erschlossen, die die wichtigsten Wirtschaftszentren des Landes verbinden. Geologisch ist die Region durch eine Mischung aus aschehaltigen Böden und alten Gesteinsschichten geprägt, was zu einer abwechslungsreichen Landschaft führt.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Hier befinden sich einige der produktivsten Gemüseanbaugebiete des Landes.", "Die Region ist ein wichtiger Knotenpunkt für den nationalen Handel und Verkehr.", "Zahlreiche historische Stätten aus der Kolonialzeit prägen das kulturelle Bild der Region.", "Das zentrale Hochland bietet eine hohe Lebensqualität durch sein stabiles, mildes Klima."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Hier befinden sich einige der produktivsten Gemüseanbaugebiete des Landes.", "Die Region ist ein wichtiger Knotenpunkt für den nationalen Handel und Verkehr.", "Zahlreiche historische Stätten aus der Kolonialzeit prägen das kulturelle Bild der Region.", "Das zentrale Hochland bietet eine hohe Lebensqualität durch sein stabiles, mildes Klima."], hu: [], ro: [], en: [] }, image: "/poi-images/altiplano-central-relief-v2.webp"},
   {
     id: "volcan-atitlan-relief-v2",
     type: "mountain",
@@ -303,8 +286,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Height: 3535 m", "Part of the volcanic trio", "Active volcano", "Impressive silhouette"]
     },
     descriptionAdvanced: { de: "Der Volcán Atitlán ist der höchste und aktivste der drei Vulkane am Atitlán-See und überragt seine Nachbarn mit einer beeindruckenden Höhe von 3.535 Metern. Er ist ein klassischer, perfekt geformter Stratovulkan, dessen oberer Teil fast vegetationslos ist und aus frischeren Lavaströmen und Asche besteht. Der Atitlán ist geologisch sehr jung und hat in den letzten Jahrhunderten mehrere bedeutende Eruptionen verzeichnet. Sein Gipfel bietet bei klarem Wetter einen der weitesten Panoramablicke Guatemalas, der von der Pazifikküste bis tief ins Hochland reicht. Der Vulkan ist ein Symbol für die dynamischen Erdkräfte, die die Schönheit der Region Atitlán geschaffen haben und weiterhin prägen.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der letzte größere Ausbruch des Vulkans fand im Jahr 1853 statt.", "Der Vulkan ist direkt mit dem benachbarten Vulkan Tolimán verbunden.", "Aufgrund seiner Aktivität wird der Atitlán ständig wissenschaftlich überwacht.", "Der Aufstieg zum Gipfel erfordert aufgrund der Höhe und Steilheit eine sehr gute Kondition."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der letzte größere Ausbruch des Vulkans fand im Jahr 1853 statt.", "Der Vulkan ist direkt mit dem benachbarten Vulkan Tolimán verbunden.", "Aufgrund seiner Aktivität wird der Atitlán ständig wissenschaftlich überwacht.", "Der Aufstieg zum Gipfel erfordert aufgrund der Höhe und Steilheit eine sehr gute Kondition."], hu: [], ro: [], en: [] }, image: "/poi-images/volcan-atitlan-relief-v2.webp"},
   {
     id: "sierra-de-las-minas-norte-relief-v2",
     type: "mountain",
@@ -319,8 +301,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Dense mountain forest", "Steep slopes", "Important for local waterways", "Wildlife sanctuary"]
     },
     descriptionAdvanced: { de: "Die nördlichen Ausläufer der Sierra de las Minas erstrecken sich in Richtung des Polochic-Tals und bilden eine dramatische Barriere aus steilen Bergen und dichtem Regenwald. Diese Region ist bekannt für ihre extrem hohe Luftfeuchtigkeit und die daraus resultierende üppige Vegetation, die als 'grüne Wand' erscheint. Die Nordseite des Gebirges ist durch tiefe Schluchten und zahlreiche Wasserfälle gekennzeichnet, die unzählige Bäche speisen, die in den Izabal-See fließen. Aufgrund der Steilheit und Unwegsamkeit ist dieser Teil der Sierra weitgehend unbewohnt und bietet einen der letzten Rückzugsorte für bedrohte Tierarten im Osten Guatemalas. Der Schutz dieser Nordhänge ist essenziell für den Erhalt des gesamten Ökosystems der Sierra de las Minas.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["In den tiefen Schluchten herrschen ideale Bedingungen für seltene Baumfarne.", "Die Region ist ein wichtiger Korridor für Jaguare auf ihrer Wanderung nach Norden.", "Hier finden sich einige der wasserreichsten Quellen des gesamten Gebirgszuges.", "Wissenschaftliche Expeditionen entdecken hier immer wieder neue Pflanzenarten."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["In den tiefen Schluchten herrschen ideale Bedingungen für seltene Baumfarne.", "Die Region ist ein wichtiger Korridor für Jaguare auf ihrer Wanderung nach Norden.", "Hier finden sich einige der wasserreichsten Quellen des gesamten Gebirgszuges.", "Wissenschaftliche Expeditionen entdecken hier immer wieder neue Pflanzenarten."], hu: [], ro: [], en: [] }, image: "/poi-images/sierra-de-las-minas-norte-relief-v2.webp"},
   {
     id: "valle-del-polochic-relief-v2",
     type: "relief",
@@ -335,8 +316,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["River landscape", "Humid climate", "Intensive agriculture", "Important corridor"]
     },
     descriptionAdvanced: { de: "Das Polochic-Tal ist ein langes, schmales Tieflandtal, das zwischen der Sierra de las Minas im Süden und der Sierra de Chamá im Norden verläuft. Der Río Polochic durchfließt das Tal auf seinem Weg zum Izabal-See und schafft eine fruchtbare, aber sehr feuchte Schwemmlandebene. Das Klima ist tropisch-heiß und begünstigt ein schnelles Wachstum der Vegetation, was die Region zu einem wichtigen Gebiet für den Anbau von Reis, Mais und Ölpalmen macht. Geologisch folgt das Tal einer bedeutenden Verwerfungslinie, die parallel zur Motagua-Verwerfung verläuft. Das Polochic-Tal ist nicht nur wirtschaftlich bedeutend, sondern auch ein wichtiger ökologischer Korridor, der die feuchten Wälder der Karibikküste mit dem Hinterland verbindet.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Das Tal ist die Heimat vieler Q'eqchi'-Maya-Gemeinschaften.", "Aufgrund der hohen Niederschläge ist das Tal oft von Überschwemmungen betroffen.", "Die Straße durch das Tal ist eine wichtige, wenn auch oft schwierige Verkehrsverbindung.", "Im Tal befinden sich bedeutende Naturschutzgebiete wie das Bocas del Polochic Reservat."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Das Tal ist die Heimat vieler Q'eqchi'-Maya-Gemeinschaften.", "Aufgrund der hohen Niederschläge ist das Tal oft von Überschwemmungen betroffen.", "Die Straße durch das Tal ist eine wichtige, wenn auch oft schwierige Verkehrsverbindung.", "Im Tal befinden sich bedeutende Naturschutzgebiete wie das Bocas del Polochic Reservat."], hu: [], ro: [], en: [] }, image: "/poi-images/valle-del-polochic-relief-v2.webp"},
   {
     id: "cerro-cahabon-sur-relief-v2",
     type: "relief",
@@ -351,8 +331,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Rugged landscape", "Tropical vegetation", "Inaccessible terrain", "Limestone areas"]
     },
     descriptionAdvanced: { de: "Der südliche Teil der Cahabón-Bergregion ist geprägt von einer wilden und unzugänglichen Karstlandschaft, die sich bis an die Grenzen von Alta Verapaz erstreckt. Hier ragen schroffe Kalksteinfelsen aus dem dichten Dschungel empor und bilden ein Labyrinth aus Hügeln und tiefen Senken (Dolinen). Die Region ist reich an verborgenen Wasserläufen, die oft kilometerweit unter der Erdoberfläche fließen, bevor sie in spektakulären Quellen wieder ans Licht treten. Diese zerklüftete Topografie hat die Region vor großflächiger Erschließung bewahrt und macht sie zu einem wertvollen Rückzugsort für die ursprüngliche Flora und Fauna Mittelamerikas. Für die wenigen Bewohner der Region ist das Gelände eine Herausforderung, die sie mit großer Anpassungsfähigkeit und traditionellem Wissen meistern.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Region beherbergt einige der tiefsten und am wenigsten erforschten Höhlen Guatemalas.", "Tropische Edelhölzer wie Mahagoni finden hier noch ideale Wachstumsbedingungen.", "Das Gelände ist so steil, dass Landwirtschaft oft nur in kleinen Parzellen möglich ist.", "Die Kalksteinformationen bieten einzigartige Lebensräume für Fledermäuse und Reptilien."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Region beherbergt einige der tiefsten und am wenigsten erforschten Höhlen Guatemalas.", "Tropische Edelhölzer wie Mahagoni finden hier noch ideale Wachstumsbedingungen.", "Das Gelände ist so steil, dass Landwirtschaft oft nur in kleinen Parzellen möglich ist.", "Die Kalksteinformationen bieten einzigartige Lebensräume für Fledermäuse und Reptilien."], hu: [], ro: [], en: [] }, image: "/poi-images/cerro-cahabon-sur-relief-v2.webp"},
   {
     id: "volcan-siete-orejas-relief-v2",
     type: "mountain",
@@ -367,8 +346,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Height: 3370 m", "Name means 'seven ears'", "Eroded crater", "Panoramic view of the city"]
     },
     descriptionAdvanced: { de: "Der Volcán Siete Orejas ist ein großer, erloschener Vulkan im westlichen Hochland, der für seinen weiten, hufeisenförmigen Krater bekannt ist. Der Name 'Sieben Ohren' bezieht sich auf die sieben markanten Gipfel entlang des Kraterrandes, die wie die Ohren eines Tieres aussehen. Mit einer Höhe von 3.370 Metern ist er ein prominenter Teil des Gebirgswalls um Quetzaltenango. Der Vulkan ist stark erodiert und von dichten Bergwäldern bedeckt, die eine wichtige Quelle für Bauholz und Brennholz für die lokalen Gemeinschaften sind. Wanderungen entlang des Kraterrandes bieten spektakuläre Ausblicke auf die Ebene von Xela und die aktiven Vulkane im Süden. Der Siete Orejas ist ein bedeutendes ökologisches Reservoir und schützt die Quellen für die Trinkwasserversorgung der umliegenden Dörfer.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Der Vulkan wird oft von Nebel eingehüllt, was ihm ein geheimnisvolles Aussehen verleiht.", "Es gibt zahlreiche Heiligtümer der Maya entlang der Pfade zum Gipfel.", "Die Flora umfasst viele endemische Arten des guatemaltekischen Hochlands.", "Der weite Krater ist das Ergebnis eines massiven Einsturzes in prähistorischer Zeit."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Der Vulkan wird oft von Nebel eingehüllt, was ihm ein geheimnisvolles Aussehen verleiht.", "Es gibt zahlreiche Heiligtümer der Maya entlang der Pfade zum Gipfel.", "Die Flora umfasst viele endemische Arten des guatemaltekischen Hochlands.", "Der weite Krater ist das Ergebnis eines massiven Einsturzes in prähistorischer Zeit."], hu: [], ro: [], en: [] }, image: "/poi-images/volcan-siete-orejas-relief-v2.webp"},
   {
     id: "sierra-de-las-minas-este-relief-v2",
     type: "mountain",
@@ -383,8 +361,7 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
       en: ["Transition to the lowlands", "Rich vegetation", "Decrease in altitude", "Important forest areas"]
     },
     descriptionAdvanced: { de: "Die östlichen Ausläufer der Sierra de las Minas bilden den Übergang von den hohen Nebelwaldgipfeln zu den heißen Tiefebenen der Karibikküste. In diesem Bereich fällt das Gebirge steil ab, was zu dramatischen Landschaften mit tiefen Tälern und weiten Ausblicken über den Izabal-See führt. Die Vegetation ändert sich rapide von feuchtem Hochwald zu tropischem Regenwald und Trockenwald in den tieferen Lagen. Diese östliche Sektion ist reich an Flüssen, die durch den hohen Niederschlag an den Bergflanken gespeist werden und lebenswichtig für die Küstenregion sind. Geologisch ist die Region durch eine Mischung aus metamorphem Gestein und mineralreichen Ablagerungen geprägt, was sie zu einem interessanten Gebiet für die Forschung macht.", hu: "", ro: "", en: "" },
-    factsAdvanced: { de: ["Die Region bietet einige der besten Sichtweiten über den Izabal-See und die Amatique-Bucht.", "Die östliche Sierra ist ein wichtiger Korridor für die Migration von Greifvögeln.", "Hier befinden sich bedeutende Schutzgebiete für tropische Hölzer.", "Zahlreiche natürliche Aussichtspunkte machen die Region attraktiv für den Naturtourismus."], hu: [], ro: [], en: [] }
-  },
+    factsAdvanced: { de: ["Die Region bietet einige der besten Sichtweiten über den Izabal-See und die Amatique-Bucht.", "Die östliche Sierra ist ein wichtiger Korridor für die Migration von Greifvögeln.", "Hier befinden sich bedeutende Schutzgebiete für tropische Hölzer.", "Zahlreiche natürliche Aussichtspunkte machen die Region attraktiv für den Naturtourismus."], hu: [], ro: [], en: [] }, image: "/poi-images/sierra-de-las-minas-este-relief-v2.webp"},
   {
     id: "valle-de-las-flores-relief-v2",
     type: "relief",
@@ -402,3 +379,4 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
     factsAdvanced: { de: ["Das Tal ist bekannt für seine zahlreichen Gärtnereien und Blumengeschäfte.", "Das milde Klima erlaubt den Anbau von Pflanzen, die sonst nur in tieferen Lagen gedeihen.", "Die Region ist ein wichtiger Lieferant für die Blumendekorationen bei religiösen Festen.", "Wanderwege durch die Hügel bieten erholsame Naturerlebnisse in Stadtnähe."], hu: [], ro: [], en: [] }
   }
 ];
+

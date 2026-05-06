@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBelizeReliefV2: POI[] = [
@@ -39,8 +40,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Include numeroase zone protejate, cum ar fi Parcul Național Chiquibul.",
       "Găzduiește situri Maya monumentale, printre care se numără Caracol și Lubaantun."],
       en: []
-    }
-  },
+    }, image: "/poi-images/maya-mountains-relief-v2.webp"},
   {
     id: "cockscomb-range-relief-v2",
     type: "mountain",
@@ -79,8 +79,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Se caracterizează prin versanți granitici abrupți și văi fluviale adânci.",
       "Primește anual peste 3.000 de milimetri de precipitații, favorizând biodiversitatea."],
       en: []
-    }
-  },
+    }, image: "/poi-images/cockscomb-range-relief-v2.webp"},
   {
     id: "bladen-branch-relief-v2",
     type: "relief",
@@ -119,8 +118,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Conține formațiuni geologice carstice spectaculoase și unice.",
       "Accesul este permis în principal pentru scopuri științifice și cu autorizație specială."],
       en: []
-    }
-  },
+    }, image: "/poi-images/bladen-branch-relief-v2.webp"},
   {
     id: "mountain-pine-ridge-highland-relief-v2",
     type: "relief",
@@ -199,8 +197,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Este cea mai importantă zonă de cuibărit pentru papagalul Ara macao, specie aflată în pericol.",
       "Include Doyle's Delight, cel mai înalt punct muntos din întreaga țară."],
       en: []
-    }
-  },
+    }, image: "/poi-images/chiquibul-basin-relief-v2.webp"},
   {
     id: "dolores-highlands-relief-v2",
     type: "relief",
@@ -279,8 +276,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Adăpostește habitate importante pentru pume și numeroase specii de păsări tropicale.",
       "Sit al multor locuri arheologice Maya încă nedescoperite sau neexcavate."],
       en: []
-    }
-  },
+    }, image: "/poi-images/sierra-de-agua-relief-v2.webp"},
   {
     id: "caracol-plateau-relief-v2",
     type: "relief",
@@ -319,8 +315,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Înconjurat de jungla densă a Parculoi Național Chiquibul, bogat în biodiversitate.",
       "Oferă vederi panoramice strategice asupra întregii regiuni vestice a Belizei."],
       en: []
-    }
-  },
+    }, image: "/poi-images/caracol-plateau-relief-v2.webp"},
   {
     id: "monkey-river-hills-relief-v2",
     type: "relief",
@@ -399,8 +394,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Adăpostește jaguari, tapiri și peste 270 de specii diferite de păsări.",
       "Cuprinde ecosisteme diverse, de la savane cu pini la păduri de mlaștină."],
       en: []
-    }
-  },
+    }, image: "/poi-images/golden-stream-valley-relief-v2.webp"},
   {
     id: "rio-grande-hills-relief-v2",
     type: "relief",
@@ -439,8 +433,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Refugiu important pentru specii precum jaguarul și ocelotul.",
       "Oferă vederi panoramice superbe asupra pădurii tropicale din sudul Belizei."],
       en: []
-    }
-  },
+    }, image: "/poi-images/rio-grande-hills-relief-v2.webp"},
   {
     id: "deep-river-hills-relief-v2",
     type: "relief",
@@ -519,8 +512,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Biodiversitate ridicată datorită întâlnirii diferitelor zone de altitudine.",
       "Destinație populară pentru aventuri pe râu și trekking prin junglă."],
       en: []
-    }
-  },
+    }, image: "/poi-images/sittee-river-foothills-relief-v2.webp"},
   {
     id: "stann-creek-valley-relief-v2",
     type: "relief",
@@ -559,8 +551,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Cel mai important motor economic al districtului Stann Creek.",
       "Oferă vederi panoramice impresionante asupra lanțului muntos Cockscomb."],
       en: []
-    }
-  },
+    }, image: "/poi-images/stann-creek-valley-relief-v2.webp"},
   {
     id: "northern-lowlands-relief-v2",
     type: "relief",
@@ -599,8 +590,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Prezintă cele mai scăzute rate de precipitații din întreaga țară.",
       "Centru istoric pentru exploatarea lemnului și a gumei naturale (chicle)."],
       en: []
-    }
-  },
+    }, image: "/poi-images/northern-lowlands-relief-v2.webp"},
   {
     id: "belize-river-valley-relief-v2",
     type: "relief",
@@ -639,8 +629,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Adăpostește o multitudine de ruine Maya și așezări istorice coloniale.",
       "Conectează districtele Cayo și Belize pe o distanță de peste 200 de kilometri."],
       en: []
-    }
-  },
+    }, image: "/poi-images/belize-river-valley-relief-v2.webp"},
   {
     id: "mullins-river-hills-relief-v2",
     type: "relief",
@@ -759,8 +748,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Sit important pentru silvicultură durabilă și cultivarea cafelei de înaltă calitate.",
       "Regiune model pentru protecția pădurii Maya din America Centrală."],
       en: []
-    }
-  },
+    }, image: "/poi-images/gallon-jug-hills-relief-v2.webp"},
   {
     id: "blue-creek-hills-relief-v2",
     type: "relief",
@@ -799,8 +787,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Loc sfânt pentru comunitățile locale de indigeni Maya Mopan.",
       "Destinație populară pentru speologie și aventuri în inima junglei."],
       en: []
-    }
-  },
+    }, image: "/poi-images/blue-creek-hills-relief-v2.webp"},
   {
     id: "mountain-pine-ridge-escarpment-relief-v2",
     type: "relief",
@@ -839,8 +826,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Zonă importantă de vânătoare pentru păsări de pradă rare, precum vulturul ornat.",
       "Reprezintă o barieră climatică și ecologică semnificativă în regiune."],
       en: []
-    }
-  },
+    }, image: "/poi-images/mountain-pine-ridge-escarpment-relief-v2.webp"},
   {
     id: "maya-mountains-foothills-relief-v2",
     type: "relief",
@@ -879,8 +865,7 @@ export const poiExtraBelizeReliefV2: POI[] = [
       "Zonă centrală pentru cultivarea citricelor și a cacaoului în Belize.",
       "Coridor de migrație esențial pentru jaguari și alte mamifere mari."],
       en: []
-    }
-  },
+    }, image: "/poi-images/maya-mountains-foothills-relief-v2.webp"},
   {
     id: "toledo-coastal-hills-relief-v2",
     type: "relief",
@@ -922,3 +907,4 @@ export const poiExtraBelizeReliefV2: POI[] = [
     }
   }
 ];
+

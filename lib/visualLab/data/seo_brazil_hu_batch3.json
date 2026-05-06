@@ -1,0 +1,110 @@
+{
+  "lang": "hu",
+  "country": "brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBrazilNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "br-rj-cristo-redentor-landmarks-v2",
+      "descriptionAdvanced": "A Megváltó Krisztus szobra Rio de Janeiro jelképe, amely a Corcovado-hegy tetején állva tekint le a városra. Az 1931-ben átadott, art déco stílusú szobor Brazília egyik legismertebb kulturális szimbóluma, és a világ hét új csodájának egyike. A szoborhoz vezető út és a kilátás a városra felejthetetlen élményt nyújt minden látogatónak. Történelem K8 – modern szimbólumok.",
+      "factsAdvanced": ["Art déco szobor", "1931-ben avatták", "Corcovado-hegy tetején", "30 méter magas szobor", "A világ hét új csodájának egyike", "Rio de Janeiro fő jelképe"]
+    },
+    {
+      "id": "br-rj-maracana-landmarks-v2",
+      "descriptionAdvanced": "A Maracanã Stadion Rio de Janeiro szívében Brazília focikultúrájának központja, amely számos történelmi jelentőségű mérkőzésnek és világbajnoki döntőnek adott otthont. Az 1950-es évektől a nemzeti büszkeség jelképe, ma modernizált arénaként fogadja a látogatókat és a rajongókat. Brazília sporttörténetének egyik legmeghatározóbb építménye. Sport K6 – stadionok.",
+      "factsAdvanced": ["Brazília legnagyobb stadionja", "Történelmi világbajnoki döntők", "Focikultúra központja", "Nemzeti büszkeség jelképe", "Többször felújítva", "Sporttörténeti jelentőség"]
+    },
+    {
+      "id": "br-df-catedral-brasilia-landmarks-v2",
+      "descriptionAdvanced": "A Brasília-i Székesegyház, Oscar Niemeyer építész egyik legkifejezőbb munkája, egy hiperboloid szerkezetű modernista építmény. A katedrális tizenhat betonpillére az ég felé törő kezeket jelképezi, miközben a belső teret színes üvegablakok teszik fényessé és spirituálissá. Az épület Brazília fővárosának vallási és építészeti központja. Művészet K8 – modern építészet.",
+      "factsAdvanced": ["Oscar Niemeyer alkotása", "Hiperboloid szerkezet", "Modernista építészet", "Tizenhat betonpillér", "Színes üvegablakok", "Főváros vallási központja"]
+    },
+    {
+      "id": "br-df-palacio-planalto-landmarks-v2",
+      "descriptionAdvanced": "A Palácio do Planalto a brazil köztársasági elnök hivatalos munkahelye, amely Brasília központjában, a Három Hatalom terén helyezkedik el. A modernista stílusú, letisztult épület az ország kormányzati központja, amely Oscar Niemeyer tervei alapján készült. A nemzeti politika színtere és a brazil demokrácia szimbóluma. Történelem K8 – kormányzati épületek.",
+      "factsAdvanced": ["Köztársasági elnök munkahelye", "Három Hatalom tere", "Modernista stílus", "Oscar Niemeyer alkotása", "Kormányzati központ", "Demokrácia jelképe"]
+    },
+    {
+      "id": "br-df-congresso-nacional-landmarks-v2",
+      "descriptionAdvanced": "A brazil Nemzeti Kongresszus épülete Brasília egyik leglátványosabb modernista alkotása, két kupolával, amelyek a képviselőházat és a szenátust jelképezik. A komplexum szintén Oscar Niemeyer terveit dicséri, és a Három Hatalom terének domináns eleme. A brazil politikai élet és törvényhozás központja, a főváros látképének elmaradhatatlan része. Történelem K8 – törvényhozás.",
+      "factsAdvanced": ["Nemzeti Kongresszus épülete", "Két kupola: képviselőház és szenátus", "Három Hatalom tere", "Oscar Niemeyer tervei", "Politikai központ", "Főváros látképének eleme"]
+    },
+    {
+      "id": "br-sp-ponte-estaiada-landmarks-v2",
+      "descriptionAdvanced": "A Ponte Estaiada (Octávio Frias de Oliveira híd) São Paulo modern közlekedési infrastruktúrájának ikonikus eleme, amely az 'X' alakú tornyával válik felismerhetővé. A híd az éjszakai kivilágításával a város egyik legnépszerűbb fotótémája és technológiai mérföldkő. Fontos összeköttetést biztosít São Paulo két nagy sugárútja között. Földrajz K7 – infrastruktúra.",
+      "factsAdvanced": ["Modern közlekedési híd", "'X' alakú torony", "São Paulo látképe", "Éjszakai kivilágítás", "Technológiai mérföldkő", "Városi összeköttetés"]
+    },
+    {
+      "id": "br-sp-masp-landmarks-v2",
+      "descriptionAdvanced": "A MASP (São Paulo-i Művészeti Múzeum) az Avenida Paulistán található, a világhírű múzeumépület négy hatalmas vörös oszlopon nyugszik, ami az építészet modern csodája. A múzeum gyűjteménye a legnagyobb ilyen jellegű gyűjtemény az egész déli féltekén. A város kulturális életének és művészeti oktatásának központja. Művészet K8 – múzeumok.",
+      "factsAdvanced": ["Avenida Paulista művészeti központja", "Modern építészeti csoda", "Négy hatalmas vörös oszlop", "Déli félteke legnagyobb gyűjteménye", "Művészeti múzeum", "Kulturális központ"]
+    },
+    {
+      "id": "br-ba-elevador-lacerda-landmarks-v2",
+      "descriptionAdvanced": "Az Elevador Lacerda Salvador történelmi központjában egy hatalmas lift, amely az Alsóvárost és a Felsővárost (Pelourinho) köti össze. Ez volt a világ első nyilvános liftje, amelyet városi közlekedési céllal építettek, és ma is Salvador egyik legfontosabb közlekedési eszköze. A liftből gyönyörű kilátás nyílik a Mindenszentek öblére. Történelem K8 – közlekedéstörténet.",
+      "factsAdvanced": ["Salvador közlekedési lift", "Világ első nyilvános liftje", "Alsó- és Felsőváros összekötője", "Történelmi mérföldkő", "Kilátás az öbölre", "Közlekedéstörténet"]
+    },
+    {
+      "id": "br-rs-catedral-pedra-landmarks-v2",
+      "descriptionAdvanced": "A Catedral de Pedra (Kőszékesegyház) Canela városában, Rio Grande do Sul államban, neogótikus stílusával és magas tornyával tűnik ki. Az épület a déli régió egyik legszebb vallási műemléke, különösen esténként, amikor színes fényekkel világítják meg. A turisták kedvelt célpontja a Gramado-Canela régióban. Földrajz K6 – déli régió műemlékei.",
+      "factsAdvanced": ["Canela neogótikus székesegyháza", "Rio Grande do Sul műemléke", "Magas, impozáns torony", "Színes esti kivilágítás", "Turisztikai célpont", "Déli vallási központ"]
+    },
+    {
+      "id": "br-rj-museu-amanha-landmarks-v2",
+      "descriptionAdvanced": "A Holnap Múzeuma (Museu do Amanhã) Rio de Janeiro kikötőjében egy futurisztikus épület, amely a tudományra és a fenntartható jövőre összpontosít. Santiago Calatrava spanyol építész tervei alapján készült, a múzeum interaktív kiállításaival vizsgálja a klímaváltozást és az emberiség jövőjét. A modern Rio egyik legfontosabb kulturális fejlesztése. Tudomány K7 – jövőkutatás.",
+      "factsAdvanced": ["Futurisztikus épület", "Santiago Calatrava alkotása", "Tudomány és fenntarthatóság", "Interaktív kiállítások", "Klímaváltozás vizsgálata", "Modern kulturális fejlesztés"]
+    },
+    {
+      "id": "br-amazon-river-nature-v2",
+      "descriptionAdvanced": "Az Amazonas a világ legnagyobb vízhozamú folyója, amely az esőerdők szívében kanyarog és táplálja a földkerekség legnagyobb biodiverzitását. A folyó rendszere Brazília és egész Dél-Amerika ökológiai egyensúlyának alapja. Az Amazonas mentén élő közösségek és az egyedülálló vízi élővilág a tudomány számára is folyamatos felfedeznivalót kínál. Földrajz K6 – folyórendszerek.",
+      "factsAdvanced": ["Világ legnagyobb vízhozamú folyója", "Esőerdők ökológiai alapja", "Biodiverzitás központja", "Dél-Amerika vízi élete", "Tudományos kutatási terület", "Globális környezeti jelentőség"]
+    },
+    {
+      "id": "br-sao-francisco-river-nature-v2",
+      "descriptionAdvanced": "A São Francisco folyó, amelyet a 'nemzeti egység folyójának' is neveznek, Brazília belsejében folyik, összekötve a száraz és a termékeny régiókat. Jelentős szerepet játszik az öntözésben, az energiaellátásban és a közlekedésben, így a brazil gazdaság egyik fontos ütőere. A folyó mentén található történelmi városok és vízierőművek tükrözik a jelentőségét. Földrajz K7 – folyók és energia.",
+      "factsAdvanced": ["'Nemzeti egység folyója'", "Brazília belsejében fut", "Jelentős az öntözésben", "Fontos energiaellátás", "Vízierőművek", "Gazdasági ütőér"]
+    },
+    {
+      "id": "br-parana-river-nature-v2",
+      "descriptionAdvanced": "A Paraná folyó Dél-Amerika második leghosszabb folyója, amely fontos szerepet játszik a vízenergia-termelésben, többek között az Itaipu-gát révén. A folyó a brazil iparvidékek energiellátását biztosítja, miközben természeti értékeivel is kiemelkedik. A régió mezőgazdasági és energetikai fejlődésének nélkülözhetetlen eleme. Földrajz K7 – vízenergia.",
+      "factsAdvanced": ["Dél-Amerika 2. leghosszabb folyója", "Itaipu-gát (energia)", "Brazília ipari energiaellátása", "Mezőgazdasági régiók fejlesztése", "Energetikai csomópont", "Természeti és gazdasági érték"]
+    },
+    {
+      "id": "br-tocantins-river-nature-v2",
+      "descriptionAdvanced": "A Tocantins folyó Brazília központi részén folyik, jelentős szerepet játszik a középnyugati és északi régiók kereskedelmében és közlekedésében. A folyó mentén található vízierőművek fontos energiaforrást biztosítanak az ország számára. A Tocantins-medence gazdag ökológiai diverzitása és a folyami közlekedés révén fontos gazdasági tényező. Földrajz K6 – folyórendszerek.",
+      "factsAdvanced": ["Brazília központi folyója", "Kereskedelmi és közlekedési szerep", "Fontos vízierőművek", "Energiatermelés", "Ökológiai diverzitás", "Folyami közlekedés"]
+    },
+    {
+      "id": "br-araguaia-river-nature-v2",
+      "descriptionAdvanced": "Az Araguaia folyó a természet szerelmeseinek paradicsoma, amely a közép-brazíliai szavannák (cerrado) között kanyarog, híres fehér homokos folyópartjairól és gazdag állatvilágáról. A horgászok és a természetjárók kedvelt célpontja, különösen az esős évszak utáni időszakban. A folyó mentén számos rezervátum található, amelyek a régió ökológiai értékeit védik. Földrajz K6 – szavannák élővilága.",
+      "factsAdvanced": ["Szavannák között kanyarog", "Fehér homokos partok", "Horgászat és természetjárás", "Cerrado élővilág", "Rezervátumok védelme", "Gazdag állatvilág"]
+    },
+    {
+      "id": "br-negro-river-nature-v2",
+      "descriptionAdvanced": "A Rio Negro (Fekete folyó) az Amazonas legnagyobb bal oldali mellékfolyója, nevét a sötét, huminsavakban gazdag vizéről kapta. A folyó összefolyása az Amazonassal, a 'vizek találkozása', az egyik leglátványosabb természeti jelenség Brazíliában. A folyó mentén elhelyezkedő erdőségek érintetlen természetet mutatnak be. Földrajz K6 – folyók.",
+      "factsAdvanced": ["Amazonas mellékfolyója", "Sötét, huminsavas víz", "'Vizek találkozása' jelenség", "Érintetlen erdőségek", "Természeti látványosság", "Fekete színű folyó"]
+    },
+    {
+      "id": "br-madeira-river-nature-v2",
+      "descriptionAdvanced": "A Madeira folyó az Amazonas-medence egyik fontos vízi útja, amely a mezőgazdasági termékek és az ásványi kincsek szállításában játszik kulcsszerepet. A folyó mentén megvalósult vízierőművek fontos szerepet töltenek be az északi régió energiaellátásában. A folyó gazdag élővilága és tájképe az amazóniai régió természeti kincsei közé tartozik. Földrajz K6 – logisztika.",
+      "factsAdvanced": ["Amazonas-medence vízi útja", "Mezőgazdasági szállítás", "Ásványi kincsek közlekedése", "Északi régió energiaellátása", "Vízierőművek", "Amazóniai élővilág"]
+    },
+    {
+      "id": "br-tapajos-river-nature-v2",
+      "descriptionAdvanced": "A Tapajós folyó a kristálytiszta vizéről és az Amazonas menti legszebb homokos folyópartjairól ismert, az Alter do Chão környéke népszerű trópusi üdülőhely. A folyó az amazóniai régió egyik legfontosabb közlekedési és ökológiai tengelye. A folyami utak és a különleges természeti adottságok miatt kiemelkedő szerepe van a régió idegenforgalmában. Földrajz K6 – üdülőhelyek.",
+      "factsAdvanced": ["Kristálytiszta folyóvíz", "Homokos folyópartok", "Alter do Chão (üdülőhely)", "Amazonasi közlekedési tengely", "Ökológiai szerep", "Turisztikai jelentőség"]
+    },
+    {
+      "id": "br-xingu-river-nature-v2",
+      "descriptionAdvanced": "A Xingu folyó az Amazonas-medence egyik különleges vízrendszere, amely az őslakosok területén és a Xingu Nemzeti Parkban halad át. A folyó és környéke védett természeti terület, amely fontos szerepet játszik a brazil őslakosok kultúrájának és az amazóniai biodiverzitásnak a megőrzésében. A nagy vízierőművek mellett is az amazóniai természet egyik fontos bástyája. Földrajz K6 – őslakosok.",
+      "factsAdvanced": ["Xingu Nemzeti Park", "Őslakosok védett területe", "Amazonasi biodiverzitás", "Kulturális megőrzés", "Természetvédelmi bástya", "Folyórendszer"]
+    },
+    {
+      "id": "br-iguazu-river-nature-v2",
+      "descriptionAdvanced": "Az Iguaçu folyó a világ egyik leglátványosabb természeti csodájának, az Iguaçu-vízesésnek a helyszíne, amely Brazília és Argentína határán található. A vízesésrendszer lenyűgöző természeti erő, amely az esőerdők szívében fekszik, az UNESCO világörökség része. A folyó és környéke Brazília egyik legfontosabb idegenforgalmi központja. Földrajz K6 – természeti csodák.",
+      "factsAdvanced": ["Iguaçu-vízesés helyszíne", "Brazília–Argentína határ", "UNESCO világörökségi helyszín", "Esőerdők szívében", "Természeti csoda", "Fontos idegenforgalmi központ"]
+    }
+  ]
+}

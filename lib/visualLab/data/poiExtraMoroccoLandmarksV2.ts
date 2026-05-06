@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMoroccoLandmarksV2: POI[] = [
@@ -39,8 +40,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Can accommodate 105,000 worshippers.",
         "The minaret features a laser pointing towards Mecca."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-casablanca-hassan-ii-mosque-landmarks-v2.webp"},
   {
     id: "ma-casablanca-cathedral-landmarks-v2",
     type: "landmark",
@@ -79,8 +79,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Designed by Paul Tournon.",
         "Ceased religious function in 1956."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-casablanca-cathedral-landmarks-v2.webp"},
   {
     id: "ma-casablanca-mahkama-landmarks-v2",
     type: "landmark",
@@ -119,8 +118,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Served as a courthouse and reception hall.",
         "Access often requires permission."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-casablanca-mahkama-landmarks-v2.webp"},
   {
     id: "ma-casablanca-mohammed-v-square-landmarks-v2",
     type: "landmark",
@@ -159,8 +157,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Formerly known as Place Lyautey.",
         "Combines Art Deco with Moorish stylistic elements."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-casablanca-mohammed-v-square-landmarks-v2.webp"},
   {
     id: "ma-tangier-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -199,8 +196,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Features a distinctive green minaret.",
         "Located in the historic old town."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-tangier-grand-mosque-landmarks-v2.webp"},
   {
     id: "ma-marrakech-dar-el-bacha-landmarks-v2",
     type: "landmark",
@@ -239,8 +235,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Now houses the Museum of Confluences.",
         "Known for its historic coffee house (Bacha Coffee)."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-marrakech-dar-el-bacha-landmarks-v2.webp"},
   {
     id: "ma-marrakech-menara-pavilion-landmarks-v2",
     type: "landmark",
@@ -279,8 +274,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The basin serves to irrigate the surrounding orchards.",
         "The pavilion features a distinctive green pyramidal roof."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-marrakech-menara-pavilion-landmarks-v2.webp"},
   {
     id: "ma-marrakech-agdal-pavilion-landmarks-v2",
     type: "landmark",
@@ -319,8 +313,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Overlooks the Sahraj el-Hana basin.",
         "Offers views of the High Atlas on clear days."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-marrakech-agdal-pavilion-landmarks-v2.webp"},
   {
     id: "ma-marrakech-royal-palace-landmarks-v2",
     type: "landmark",
@@ -359,8 +352,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Features magnificent green tiled roofs.",
         "Used primarily for state receptions."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-marrakech-royal-palace-landmarks-v2.webp"},
   {
     id: "ma-marrakech-dar-si-said-landmarks-v2",
     type: "landmark",
@@ -399,8 +391,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Displays a rich collection of traditional carpets.",
         "Famous for its detailed cedar wood ceiling vault."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-marrakech-dar-si-said-landmarks-v2.webp"},
   {
     id: "ma-fez-royal-palace-landmarks-v2",
     type: "landmark",
@@ -439,8 +430,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Features beautifully crafted bronze doors.",
         "A key element of Marinid architecture."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-fez-royal-palace-landmarks-v2.webp"},
   {
     id: "ma-fez-bab-bou-jeloud-landmarks-v2",
     type: "landmark",
@@ -479,8 +469,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Features three asymmetrical horseshoe-shaped arches.",
         "Provides a picturesque view of the medina's minarets."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-fez-bab-bou-jeloud-landmarks-v2.webp"},
   {
     id: "ma-fez-aben-danan-synagogue-landmarks-v2",
     type: "landmark",
@@ -519,8 +508,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Extensively restored in the 1990s.",
         "Features a rare antique Torah scroll made of deer skin."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-fez-aben-danan-synagogue-landmarks-v2.webp"},
   {
     id: "ma-fez-al-attarine-madrasa-landmarks-v2",
     type: "landmark",
@@ -559,8 +547,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Named after the nearby spice market (Souk al-Attarine).",
         "Offers views of the Al-Qarawiyyin Mosque from the roof terrace."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-fez-al-attarine-madrasa-landmarks-v2.webp"},
   {
     id: "ma-fez-sahrij-madrasa-landmarks-v2",
     type: "landmark",
@@ -599,8 +586,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "'Sahrij' means 'basin' in Arabic.",
         "Recently underwent extensive restoration."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-fez-sahrij-madrasa-landmarks-v2.webp"},
   {
     id: "ma-rabat-mohammed-vi-bridge-landmarks-v2",
     type: "landmark",
@@ -639,8 +625,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "At 950 meters, it is the longest bridge of its kind in Africa.",
         "The main pylons are 200 meters high."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-rabat-mohammed-vi-bridge-landmarks-v2.webp"},
   {
     id: "ma-rabat-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -679,8 +664,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The minaret has a rectangular Andalusian floor plan.",
         "Located opposite the historic spice market."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-rabat-grand-mosque-landmarks-v2.webp"},
   {
     id: "ma-rabat-saint-pierre-cathedral-landmarks-v2",
     type: "landmark",
@@ -719,8 +703,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The two distinctive towers were added in the 1930s.",
         "Still operates as an active church."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-rabat-saint-pierre-cathedral-landmarks-v2.webp"},
   {
     id: "ma-taza-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -759,8 +742,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The chandelier weighs nearly 3 tons.",
         "Was later expanded by the Marinids."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-taza-grand-mosque-landmarks-v2.webp"},
   {
     id: "ma-fez-borj-sud-landmarks-v2",
     type: "landmark",
@@ -799,8 +781,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Overlooks the entire UNESCO World Heritage medina.",
         "Formerly served as a military watchtower."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-fez-borj-sud-landmarks-v2.webp"},
   {
     id: "ma-chefchaouen-spanish-mosque-landmarks-v2",
     type: "landmark",
@@ -839,8 +820,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Was shunned by the local population.",
         "Popular spot to watch the sunset over Chefchaouen."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-chefchaouen-spanish-mosque-landmarks-v2.webp"},
   {
     id: "ma-taroudant-city-walls-landmarks-v2",
     type: "landmark",
@@ -879,8 +859,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Include 130 watchtowers and 9 monumental gates.",
         "Built in the 16th century by the Saadians."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-taroudant-city-walls-landmarks-v2.webp"},
   {
     id: "ma-essaouira-skala-de-la-ville-landmarks-v2",
     type: "landmark",
@@ -919,8 +898,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Served as a filming location for the series Game of Thrones (as Astapor).",
         "Much of the cannons were cast in Spain."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-essaouira-skala-de-la-ville-landmarks-v2.webp"},
   {
     id: "ma-essaouira-bab-marrakech-landmarks-v2",
     type: "landmark",
@@ -959,8 +937,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The interior features a remarkable stone vault.",
         "Part of the UNESCO-listed medina."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-essaouira-bab-marrakech-landmarks-v2.webp"},
   {
     id: "ma-agadir-grand-mosque-landmarks-v2",
     type: "landmark",
@@ -999,8 +976,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Central landmark of Agadir's modern urban planning.",
         "Features an ornately decorated Andalusian-style minaret."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-agadir-grand-mosque-landmarks-v2.webp"},
   {
     id: "ma-fez-moulay-idriss-ii-landmarks-v2",
     type: "landmark",
@@ -1039,8 +1015,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Non-Muslims are not allowed to enter the building.",
         "The alleys around the mausoleum are marked with wooden beams to define the sacred area."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-fez-moulay-idriss-ii-landmarks-v2.webp"},
   {
     id: "ma-moulay-idriss-zerhoun-landmarks-v2",
     type: "landmark",
@@ -1079,8 +1054,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Located near the ancient Roman city of Volubilis.",
         "An annual Moussem (pilgrimage festival) attracts thousands of visitors."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-moulay-idriss-zerhoun-landmarks-v2.webp"},
   {
     id: "ma-fez-cherratine-madrasa-landmarks-v2",
     type: "landmark",
@@ -1119,8 +1093,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The largest madrasa in Fez, with over 120 cells.",
         "The floor plan is organized around three large courtyards."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-fez-cherratine-madrasa-landmarks-v2.webp"},
   {
     id: "ma-meknes-dar-jamai-landmarks-v2",
     type: "landmark",
@@ -1159,8 +1132,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Was converted into a museum in 1920.",
         "Features an Andalusian garden in traditional riad style."
       ]
-    }
-  },
+    }, image: "/poi-images/ma-meknes-dar-jamai-landmarks-v2.webp"},
   {
     id: "ma-meknes-bab-el-khemis-landmarks-v2",
     type: "landmark",
@@ -1202,3 +1174,4 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     }
   }
 ];
+

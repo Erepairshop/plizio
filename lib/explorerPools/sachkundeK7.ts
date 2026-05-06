@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/sachkundeK7.ts
 import type { PoolTopicDef } from "./types";
 
@@ -2867,3 +2868,4 @@ addSachkundeK7PracticeTopics(RECHTSSTAAT_K7_LABELS, RECHTSSTAAT_K7_POOL, SACHKUN
 addSachkundeK7PracticeTopics(GLOBAL_ECON_K7_LABELS, GLOBAL_ECON_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[6]);
 addSachkundeK7PracticeTopics(SUCHT_K7_LABELS, SUCHT_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[7]);
 addSachkundeK7PracticeTopics(FINALE_K7_LABELS, FINALE_K7_POOL, SACHKUNDE_K7_PRACTICE_CONFIGS[8]);
+

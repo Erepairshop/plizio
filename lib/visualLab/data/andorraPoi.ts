@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 import { poiExtraAndorraCities } from "./poiExtraAndorraCities";
 import { poiExtraAndorraOther } from "./poiExtraAndorraOther";
@@ -24,6 +25,30 @@ export const andorraCountry: POI = {
     hu: "Az Andorrai Hercegség magasan a Pireneusokban fekszik, kiváló síterepekkel (Grandvalira, Vallnord) és lélegzetelállító hegyvidékkel csábítja a látogatókat. A turizmus mellett az ország adóparadicsomi státuszáról és bevásárlási lehetőségeiről is ismert. Politikailag egy társhercegség, melynek államfői az urgelli püspök és a francia köztársasági elnök.",
     ro: "Principatul Andorra este situat la mare altitudine în Pirinei și atrage turiști prin stațiunile sale de schi de primă clasă, precum Grandvalira și Vallnord, și peisajul montan uluitor. Pe lângă turism, țara este cunoscută pentru statutul său de paradis fiscal și numeroasele opțiuni de cumpărături. Politic, este un coprincipat condus de Episcopul de Urgell și de Președintele Franței.",
     en: "The Principality of Andorra is located high in the Pyrenees and attracts visitors with world-class ski resorts like Grandvalira and Vallnord, along with breathtaking mountain scenery. Besides tourism, the country is known for its status as a tax haven and its numerous shopping opportunities. Politically, it is a co-principality governed by the Bishop of Urgell and the French President."
+  },
+  factsAdvanced: {
+    de: [
+      "Höchstgelegener Staat Europas.",
+      "Einzigartiges politisches System des Ko-Fürstentums.",
+      "Mehr als 300 Sonnentage im Jahr.",
+      "Nur 8% des Landes sind bebaut, der Rest ist Natur.",
+      "Amtssprache ist Katalanisch."
+    ],
+    hu: [
+      "Európa legmagasabban fekvő állama.",
+      "Egyedülálló társhercegségi politikai rendszer.",
+      "Több mint 300 napsütéses nap évente.",
+      "Az ország csupán 8%-a beépített, a többi természetes terület.",
+      "Hivatalos nyelve a katalán."
+    ],
+    ro: [
+      "Este cel mai înalt stat din Europa.",
+      "Un sistem politic unic co-principal.",
+      "Peste 300 de zile însorite pe an.",
+      "Doar 8% din țară este construită, restul este natural.",
+      "Limba sa oficială este catalana."
+    ],
+    en: ["Highest country in Europe by average elevation.", "Unique political system of a co-principality.", "More than 300 sunny days a year.", "Only 8% of the country is built up, the rest is nature.", "Catalan is the official language."]
   },
   facts: {
     de: [
@@ -61,7 +86,7 @@ export const andorraCountry: POI = {
 export const andorraCities: POI[] = [
   {
     id: "city-andorra-la-vella",
-    type: "city",
+    type: "state-capital",
     parent: "country-andorra",
     coords: [1.5218, 42.5063],
     name: { de: "Andorra la Vella", hu: "Andorra la Vella", ro: "Andorra la Vella", en: "Andorra la Vella" },
@@ -72,13 +97,20 @@ export const andorraCities: POI[] = [
       en: "The highest capital city in Europe."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Andorra la Vella ist nicht nur ein Verwaltungszentrum, sondern das pulsierende, kosmopolitische Herz des Fürstentums auf 1.023 Metern Höhe. Die Stadt bietet eine einzigartige Mischung aus Moderne und Geschichte: Die glitzernde Avinguda Meritxell mit ihren Duty-Free-Geschäften ist nur wenige Gehminuten vom Barri Antic, der Altstadt mit ihren Kopfsteinpflasterstraßen und Steinhäusern, entfernt. Sie ist ein ausgezeichneter Ausgangspunkt, um die umliegenden Skigebiete und Wanderwege zu erkunden.",
       hu: "Andorra la Vella nem csupán egy adminisztratív központ, hanem a hercegség nyüzsgő, kozmopolita szíve, 1023 méteres magasságban. A város a Valira folyó völgyében terül el, meredek hegyek ölelésében. A modernitás és a történelem különleges egyvelegét kínálja: a vámmentes üzletekkel teli, csillogó Meritxell sugárút pár perces sétára van a Barri Antictól, az óváros macskaköves utcáitól és kőházaitól. Itt található a Casa de la Vall, az egykori parlament, és a Sant Esteve-templom. A város kiváló kiindulópont a környező síterepek és túraútvonalak felfedezéséhez, miközben gazdag gasztronómiai és kulturális kínálattal várja a látogatókat a nap végén.",
-      ro: "",
+      ro: "Andorra la Vella nu este doar un centru administrativ, ci și inima vibrantă și cosmopolită a principatului, la o altitudine de 1.023 de metri. Orașul oferă un amestec unic de modernitate și istorie: strălucitoarea Avinguda Meritxell, cu magazinele sale duty-free, se află la doar câteva minute de mers pe jos de Barri Antic, orașul vechi cu străzile sale pietruite și casele de piatră. Este un punct de plecare excelent pentru a explora stațiunile de schi și traseele de drumeție din jur.",
       en: "Andorra la Vella, the capital of the Principality of Andorra, is a bustling hub nestled high in the Pyrenees mountains. At an altitude of 1,023 meters, it holds the distinction of being Europe's highest capital city. The city is a major draw for tourists, not just for its stunning mountain scenery but also for its extensive duty-free shopping along Avinguda Meritxell. The historic quarter, or 'Barri Antic', offers a glimpse into the past with its stone-paved streets and the historic Casa de la Vall parliament building. It's a city where modernity and tradition converge, offering both vibrant urban life and easy access to nature. Geography K7 - Capital cities and their functions."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Mit 1.023 Metern über dem Meeresspiegel die höchstgelegene Hauptstadt Europas.",
+        "Der Name bedeutet 'das alte Andorra'.",
+        "Die berühmte Skulptur 'Die Noblesse der Zeit' von Salvador Dalí ist ein modernes Wahrzeichen.",
+        "Das größte Fest der Stadt, die Festa Major, findet jährlich im August statt.",
+        "Das historische Zentrum, das Barri Antic, bewahrt seine mittelalterliche Atmosphäre.",
+        "Duty-Free-Shopping ist eine Hauptattraktion für Touristen."
+        ],
       hu: [
         "1023 méteres tengerszint feletti magasságával Európa legmagasabban fekvő fővárosa.",
         "Nevének jelentése 'az öreg Andorra'.",
@@ -89,7 +121,14 @@ export const andorraCities: POI[] = [
         "A történelmi központ, a Barri Antic, a 21. században is megőrizte középkori hangulatát.",
         "Az adómentes vásárlás a város egyik fő vonzereje a turisták számára."
       ],
-      ro: [],
+      ro: [
+        "Cu o altitudine de 1.023 de metri, este cea mai înaltă capitală din Europa.",
+        "Numele său înseamnă 'Andorra cea veche'.",
+        "Sculptura faimoasă 'Nobilimea Timpului' de Salvador Dalí este un simbol modern.",
+        "Cea mai mare sărbătoare a orașului, Festa Major, are loc anual în august.",
+        "Centrul istoric, Barri Antic, își păstrează atmosfera medievală.",
+        "Cumpărăturile duty-free sunt o atracție principală pentru turiști."
+        ],
       en: [
         "The name 'Vella' does not mean 'old' but comes from the word 'vila', meaning 'town'.",
         "The city's population is around 23,000, but it swells significantly with tourists and shoppers daily.",
@@ -115,13 +154,20 @@ export const andorraCities: POI[] = [
       en: "Known for hot springs and the Caldea Spa."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Escaldes-Engordany ist die Stadt des Wassers und des Wohlbefindens, die eng mit der Hauptstadt verbunden ist. Ihr Name leitet sich von den heißen, schwefelhaltigen Thermalquellen ab. Dieser Naturschatz wird im Caldea genutzt, dem größten Berg-Thermalbadkomplex Europas, dessen futuristische Glaspyramide zum modernen Symbol der Stadt geworden ist. Neben Wellness ist die Stadt auch ein wichtiges Handelszentrum. Die Kultur wird durch das Carmen Thyssen Museum und das Parfummuseum repräsentiert.",
       hu: "Escaldes-Engordany a víz és a wellness városa, amely szorosan egybeépült a fővárossal. Nevét a területén feltörő, kénben és ásványi anyagokban gazdag forró vizekről kapta. Ezt a természeti kincset hasznosítja a Caldea, Európa legnagyobb hegyi termálfürdő-komplexuma, melynek futurisztikus üvegpiramisa a város modern szimbólumává vált. A wellness mellett a város fontos kereskedelmi központ is, az Avinguda Carlemany sétálóutca a fővárosi Meritxell sugárút folytatása. A kultúra iránt érdeklődők a Carmen Thyssen Múzeumot és a Parfüm Múzeumot is itt találják. Escaldes ad otthont a Madriu-Perafita-Claror völgy egy részének is, amely az UNESCO Világörökség része.",
-      ro: "",
+      ro: "Escaldes-Engordany este orașul apei și al bunăstării, strâns legat de capitală. Numele său provine de la izvoarele termale fierbinți, bogate în sulf și minerale. Această resursă naturală este utilizată la Caldea, cel mai mare complex balnear montan din Europa, a cărui piramidă de sticlă futuristă a devenit un simbol modern al orașului. Pe lângă wellness, orașul este și un important centru comercial. Cultura este reprezentată de Muzeul Carmen Thyssen și Muzeul Parfumului.",
       en: "Escaldes-Engordany is a parish renowned for its natural thermal waters, which are harnessed in the futuristic Caldea-INÚU spa complex, the largest of its kind in southern Europe. The name 'Escaldes' itself refers to the presence of these hot springs. The parish is a major commercial and tourist center, seamlessly connected to the capital, Andorra la Vella. Its main artery, Avinguda Carlemany, is a bustling pedestrianized shopping street. Beyond the commerce and wellness, the parish also holds a portion of the Madriu-Perafita-Claror Valley, a UNESCO World Heritage site, offering pristine landscapes for hiking. Urban Geography K8 - Urban development and functional zones."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der Name der Stadt leitet sich vom lateinischen Wort 'calidae' (heiße Wasser) ab.",
+        "Andorras jüngste Gemeinde, 1978 von Andorra la Vella getrennt.",
+        "Das Thermalwasser von Caldea tritt mit einer Temperatur von 68°C aus.",
+        "Der Zusammenfluss der Flüsse Valira d'Orient und Valira del Nord befindet sich hier.",
+        "Beherbergt das historische Pont d'Engordany.",
+        "Veranstaltet ein jährliches Jazzfestival."
+        ],
       hu: [
         "A város neve a latin 'calidae' (forró vizek) szóból ered.",
         "Andorra legfiatalabb közössége, 1978-ban vált külön Andorra la Vellától.",
@@ -132,7 +178,14 @@ export const andorraCities: POI[] = [
         "A város évente jazz fesztivált rendez.",
         "Az Engordany történelmi városrész megőrizte hagyományos pireneusi építészetét."
       ],
-      ro: [],
+      ro: [
+        "Numele orașului provine din latinescul 'calidae' (ape fierbinți).",
+        "Cea mai tânără parohie din Andorra, separată de Andorra la Vella în 1978.",
+        "Apa termală a complexului Caldea iese la suprafață la 68°C.",
+        "Aici se unesc râurile Valira d'Orient și Valira del Nord, formând Gran Valira.",
+        "Orașul găzduiește podul istoric Pont d'Engordany.",
+        "Organizează anual un festival de jazz."
+        ],
       en: [
         "It is the second most populated parish in Andorra.",
         "The parish was formed relatively recently, in 1978, by separating from Andorra la Vella.",
@@ -143,8 +196,7 @@ export const andorraCities: POI[] = [
         "An annual international jazz festival is a major cultural event.",
         "The Pont d'Engordany is a medieval bridge that is a testament to the area's history."
       ]
-    }
-  },
+    }, image: "/poi-images/city-escaldes-engordany.webp"},
   {
     id: "city-encamp",
     type: "city",
@@ -158,13 +210,20 @@ export const andorraCities: POI[] = [
       en: "Gateway to the Grandvalira ski resort via Funicamp."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Encamp, im Herzen von Andorra gelegen, ist eine dynamische Stadt, die Tradition und modernen Tourismus perfekt verbindet. Ihre Hauptattraktion ist der Funicamp, eine 6 Kilometer lange, moderne Seilbahn, die Besucher in nur 15 Minuten ins Herz des Skigebiets Grandvalira auf 2.500 Meter Höhe bringt. Die Stadt beherbergt auch das Nationale Automobilmuseum. Für Geschichtsinteressierte bietet der historische Komplex von Les Bons eine mittelalterliche Wachturm und eine romanische Kirche.",
       hu: "Encamp Andorra szívében fekszik, egy dinamikus város, amely tökéletesen ötvözi a hagyományokat a modern turizmussal. Legfőbb vonzereje a Funicamp, egy 6 kilométer hosszú, modern kabinos felvonó, amely 15 perc alatt repíti fel az utasokat a Grandvalira síparadicsom szívébe, 2500 méteres magasságba. A város azonban nem csak a síelésről szól; itt található a Nemzeti Autómúzeum, amely egy lenyűgöző gyűjteményt mutat be a járműipar történetéből. A történelem iránt érdeklődők a Les Bons történelmi komplexumot kereshetik fel, ahol egy középkori őrtorony és egy román stílusú templom is található. Encamp a kontrasztok városa, ahol a modern felvonók árnyékában megbújnak az ősi kőházak.",
-      ro: "",
+      ro: "Encamp, situat în inima Andorrei, este un oraș dinamic care îmbină perfect tradiția cu turismul modern. Principala sa atracție este Funicamp, o telecabină modernă de 6 kilometri lungime, care transportă pasagerii în inima stațiunii de schi Grandvalira, la 2.500 de metri altitudine, în doar 15 minute. Orașul găzduiește și Muzeul Național al Automobilului. Pentru iubitorii de istorie, complexul istoric Les Bons oferă un turn de veghe medieval și o biserică romanică.",
       en: "Encamp is a parish of contrasts, situated in the geographical heart of Andorra. It comprises two distinct main towns: Encamp, a lively urban center near the capital, and Pas de la Casa, a high-altitude ski resort on the French border known for its vibrant nightlife and shopping. The Funicamp, a 6-kilometer-long cable car, provides a direct link from Encamp town to the Grandvalira ski area's slopes. Culturally, Encamp offers the National Automobile Museum and the Electricity Museum. The historical complex of Les Bons provides a window into the region's medieval past. Technology and History K8 - Infrastructure's impact on mountain communities."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der Funicamp ist eine der längsten Seilbahnen Europas.",
+        "Pas de la Casa, an der französischen Grenze, gehört zur Gemeinde.",
+        "Der Glockenturm der Pfarrkirche Santa Eulàlia ist der höchste romanische Turm in Andorra.",
+        "Das Elektrizitätsmuseum erklärt die Geschichte der Energieversorgung des Landes.",
+        "Das UNESCO-anerkannte 'Fallas'-Fest wird zur Sommersonnenwende gefeiert.",
+        "Encamp ist die drittbevölkerungsreichste Gemeinde Andorras."
+        ],
       hu: [
         "A Funicamp az egyik leghosszabb felvonó Európában.",
         "A közösséghez tartozik Pas de la Casa is, amely a francia határon fekszik.",
@@ -175,7 +234,14 @@ export const andorraCities: POI[] = [
         "Az Engolasters-tó és a körülötte lévő túraútvonalak is a közösséghez tartoznak.",
         "Népessége alapján Andorra harmadik legnagyobb közössége."
       ],
-      ro: [],
+      ro: [
+        "Funicamp este una dintre cele mai lungi telecabine din Europa.",
+        "Pas de la Casa, la granița cu Franța, aparține parohiei.",
+        "Turnul clopotniță al bisericii parohiale Santa Eulàlia este cel mai înalt turn romanic din Andorra.",
+        "Muzeul Electricității explică istoria aprovizionării cu energie a țării.",
+        "Festivalul 'Fallas', recunoscut de UNESCO, este sărbătorit la solstițiul de vară.",
+        "Encamp este a treia cea mai populată parohie din Andorra."
+        ],
       en: [
         "Pas de la Casa is the only border crossing between Andorra and France.",
         "The Port d'Envalira, at 2,408 meters, is the highest paved pass in the Pyrenees.",
@@ -186,8 +252,7 @@ export const andorraCities: POI[] = [
         "The Pessons Lakes, a circle of glacial lakes, are located in the Grau Roig sector of Encamp.",
         "The Engolasters Lake and its hydroelectric power station are crucial for the country's energy supply."
       ]
-    }
-  },
+    }, image: "/poi-images/city-encamp.webp"},
   {
     id: "city-la-massana",
     type: "city",
@@ -201,13 +266,20 @@ export const andorraCities: POI[] = [
       en: "Base for the Vallnord ski resort."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "La Massana ist das Paradies für aktiven Urlaub und Outdoor-Sport in Andorra. Die Stadt beherbergt Andorras höchsten Gipfel, den Coma Pedrosa (2.942 m). Im Winter ist sie das Tor zum Skigebiet Pal-Arinsal und im Sommer zum weltberühmten Vallnord Bike Park. Eine Seilbahn vom Stadtzentrum aus bietet einfachen Zugang zu den Bergaktivitäten. Die Kultur wird durch das Eisenverarbeitungsmuseum Farga Rossell und das Comic-Museum repräsentiert.",
       hu: "La Massana az aktív pihenés és a szabadtéri sportok paradicsoma Andorrában. A város a Valira del Nord völgyében fekszik, és innen indul a kabinos felvonó a Pal-Arinsal síterepre, amely télen a síelők és snowboardosok, nyáron pedig a világhírű Vallnord Bike Park otthona. A közösség területén emelkedik Andorra legmagasabb csúcsa, a 2942 méteres Coma Pedrosa, amely népszerű célpont a hegymászók körében. La Massana azonban nemcsak a sportról szól; a városközpontban pezsgő az élet, tele éttermekkel és bárokkal. A kultúrát a Farga Rossell vaskohó-múzeum és a Képregény Múzeum képviseli. La Massana tökéletes választás azoknak, akik a természeti szépséget és az aktív kikapcsolódást keresik.",
-      ro: "",
+      ro: "La Massana este paradisul vacanțelor active și al sporturilor în aer liber din Andorra. Orașul găzduiește cel mai înalt vârf din Andorra, Coma Pedrosa (2.942 m). Iarna, este poarta de acces către stațiunea de schi Pal-Arinsal, iar vara, către faimosul parc de biciclete Vallnord. O telecabină din centrul orașului oferă acces facil la activitățile montane. Cultura este reprezentată de muzeul de prelucrare a fierului Farga Rossell și de Muzeul Benzilor Desenate.",
       en: "La Massana is celebrated as Andorra's 'most active' parish, a true paradise for outdoor sports enthusiasts. It is home to the country's highest peak, Coma Pedrosa (2,942 m), which is located within a protected nature park. In winter, the Pal-Arinsal ski resort (part of the larger Vallnord area) offers slopes for all abilities. In summer, the same mountains transform into the Vallnord Bike Park, one of Europe's most prestigious mountain biking destinations and a regular host for UCI World Cup events. A cable car from the town center provides easy access to the mountain activities. Economics K8 - Economic models based on sports tourism."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Gemeinde beherbergt den höchsten Berg Andorras, den Coma Pedrosa.",
+        "Der Vallnord Bike Park ist regelmäßiger Austragungsort von Mountainbike-Weltcup-Rennen.",
+        "Die Kirche Sant Climent de Pal hat einen einzigartigen Zwillingsfenster-Glockenturm.",
+        "Ein Teil der 'Eisenroute' (Ruta del Ferro) führt durch die Gemeinde.",
+        "Das Farga Rossell Museum zeigt die Eisenindustrie des 19. Jahrhunderts.",
+        "Die Gemeinde verfügt über mehrere 'Via Ferrata'-Routen."
+        ],
       hu: [
         "A közösség ad otthont Andorra legmagasabb hegycsúcsának, a Coma Pedrosának.",
         "A Vallnord Bike Park rendszeresen ad otthont mountain bike világkupa-versenyeknek.",
@@ -218,7 +290,14 @@ export const andorraCities: POI[] = [
         "A közösség több 'via ferrata' (vasalt út) útvonallal is rendelkezik.",
         "A Pal falu az egyik legjobb állapotban megőrzött példája a hagyományos pireneusi építészetnek."
       ],
-      ro: [],
+      ro: [
+        "Parohia găzduiește cel mai înalt vârf din Andorra, Coma Pedrosa.",
+        "Parcul de biciclete Vallnord găzduiește regulat curse de Cupa Mondială de mountain bike.",
+        "Biserica Sant Climent de Pal are un turn clopotniță unic, cu ferestre gemene.",
+        "O parte din 'Ruta del Ferro' (Ruta Fierului) traversează parohia.",
+        "Muzeul Farga Rossell prezintă industria fierului din secolul al XIX-lea.",
+        "Parohia are mai multe trasee de 'via ferrata'."
+        ],
       en: [
         "The parish is home to the villages of Pal and Arinsal, both major tourist centers.",
         "The village of Pal is a well-preserved example of traditional Pyrenean architecture.",
@@ -229,8 +308,7 @@ export const andorraCities: POI[] = [
         "The Comic Museum in the town center is a unique cultural attraction.",
         "The Farga Rossell Interpretation Centre showcases the region's history of iron production."
       ]
-    }
-  },
+    }, image: "/poi-images/city-la-massana.webp"},
   {
     id: "city-ordino",
     type: "city",
@@ -244,13 +322,20 @@ export const andorraCities: POI[] = [
       en: "Historic village in northern Andorra."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Ordino gilt als das kulturelle Herz Andorras. Im Nordwesten gelegen, ist es eine Gemeinde, die für ihre atemberaubende Naturlandschaft und ihre gut erhaltene traditionelle Architektur bekannt ist. Das gesamte Gemeindegebiet wurde zum UNESCO-Biosphärenreservat erklärt. Die Landschaft wird von hohen Gipfeln dominiert. Die Dörfer Ordino, La Cortinada und Ansalonga haben ihren historischen Charme bewahrt. Zu den wichtigsten kulturellen Stätten gehören das Areny-Plandolit-Museum und das Postmuseum.",
       hu: "Ordino Andorra leginkább érintetlen és kulturálisan leggazdagabb faluja, amely egy festői völgyben fekszik az ország északi részén. A teljes közösség területe UNESCO bioszféra-rezervátum, ami tanúskodik a természet megőrzése iránti elkötelezettségéről. A falu központja megőrizte hagyományos pireneusi karakterét a kőből épült házakkal, palatetőivel és kovácsoltvas erkélyeivel. Ordino ad otthont a Casa d'Areny-Plandolit múzeumnak, amely egykor egy befolyásos andorrai család otthona volt, valamint a Postamúzeumnak. A faluból könnyen elérhető a Sorteny-völgy Nemzeti Park és az Ordino-Arcalís síterep, amely a freeride síelés fellegvára. Ordino a nyugalom és a kultúra szigete a nyüzsgő Andorra szívében.",
-      ro: "",
+      ro: "Ordino este considerat inima culturală a Andorrei. Situată în nord-vest, este o parohie renumită pentru peisajele sale naturale uimitoare și arhitectura tradițională bine conservată. Întreaga parohie a fost desemnată Rezervație a Biosferei UNESCO. Peisajul este dominat de vârfuri înalte. Satele Ordino, La Cortinada și Ansalonga și-au păstrat farmecul istoric. Printre siturile culturale cheie se numără Muzeul Areny-Plandolit și Muzeul Poștal.",
       en: "Ordino is considered the cultural heart of Andorra. Located in the northwest, it is a parish renowned for its stunning natural landscapes and well-preserved traditional architecture. The entire parish has been designated a UNESCO Biosphere Reserve, highlighting its commitment to balancing human activity and nature conservation. The landscape is dominated by high peaks, including Pic de Tristaina. The villages of Ordino, La Cortinada, and Ansalonga have retained their historic charm with stone houses and slate roofs. Key cultural sites include the Areny-Plandolit Museum and the Postal Museum. Geography K8 - Biosphere reserves and sustainable development."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die gesamte Gemeinde ist ein UNESCO-Biosphärenreservat.",
+        "Ordino hat die niedrigste Bevölkerungsdichte in Andorra.",
+        "Das Skigebiet Ordino-Arcalís ist berühmt für sein Freeride-Gelände.",
+        "Das Nationale Auditorium von Andorra befindet sich in Ordino.",
+        "Der Naturpark Sorteny-Tal ist bekannt für seine botanische Vielfalt.",
+        "Die Gastronomie ist berühmt für traditionelle Berggerichte wie 'trinxat'."
+        ],
       hu: [
         "Az egész közösséget az UNESCO 2020-ban bioszféra-rezervátummá nyilvánította.",
         "Ordino rendelkezik a legalacsonyabb népsűrűséggel Andorrában.",
@@ -261,7 +346,14 @@ export const andorraCities: POI[] = [
         "A falu ad otthont Andorra Nemzeti Auditóriumának, a komolyzenei élet központjának.",
         "A helyi gasztronómia híres a gombás ételeiről és a 'trinxat'-ról."
       ],
-      ro: [],
+      ro: [
+        "Întreaga parohie este o Rezervație a Biosferei UNESCO.",
+        "Ordino are cea mai mică densitate a populației din Andorra.",
+        "Stațiunea de schi Ordino-Arcalís este renumită pentru terenul său de freeride.",
+        "Auditoriul Național al Andorrei se află în Ordino.",
+        "Parcul Natural Valea Sorteny este cunoscut pentru diversitatea sa botanică.",
+        "Gastronomia este renumită pentru mâncărurile tradiționale montane, cum ar fi 'trinxat'."
+        ],
       en: [
         "Ordino has the lowest population density in Andorra.",
         "The Ordino-Arcalís ski area is famous for its off-piste and freeride terrain.",
@@ -272,8 +364,7 @@ export const andorraCities: POI[] = [
         "Its gastronomy is famous for traditional mountain dishes like 'trinxat' (cabbage and potato cake).",
         "The parish was the last in Andorra to get a paved road."
       ]
-    }
-  },
+    }, image: "/poi-images/city-ordino.webp"},
   {
     id: "city-canillo",
     type: "city",
@@ -287,13 +378,20 @@ export const andorraCities: POI[] = [
       en: "The largest parish in Andorra."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Canillo ist flächenmäßig die größte Gemeinde Andorras und ein wichtiges religiöses und abenteuerliches Tourismuszentrum. Hier befindet sich das Heiligtum von Meritxell, der Schutzpatronin von Andorra, dessen moderne Basilika von Ricardo Bofill entworfen wurde. Moderne Attraktionen wie der Aussichtspunkt Roc del Quer und die Tibetische Brücke verbinden sich mit dem romanischen Erbe wie der Kirche Sant Joan de Caselles.",
       hu: "Canillo a vallási és kalandturizmus központja Andorrában. A falu ad otthont a Meritxell-szentélynek, az ország védőszentjének otthonának, amely egyben Andorra legfontosabb zarándokhelye. A modern építészet iránt érdeklődők számára a Ricardo Bofill által tervezett új bazilika lenyűgöző látványt nyújt. Canillo a Grandvalira sírégió része, a Soldeu és El Tarter pályái innen könnyen elérhetők. A kalandvágyók számára a Roc del Quer kilátó és a völgy felett átívelő, lélegzetelállító Tibeti függőhíd kínál felejthetetlen élményeket. A falu központjában található a Palau de Gel (Jégpalota), ahol korcsolyázni, úszni és gokartozni is lehet.",
-      ro: "",
+      ro: "Canillo este centrul turismului religios și de aventură din Andorra. Satul găzduiește Sanctuarul Meritxell, casa sfintei patroane a țării, care este și cel mai important loc de pelerinaj din Andorra. Pentru iubitorii de arhitectură modernă, noua bazilică proiectată de Ricardo Bofill oferă o priveliște impresionantă. Canillo face parte din regiunea de schi Grandvalira, cu pârtiile din Soldeu și El Tarter ușor accesibile. Pentru cei aventuroși, punctul de belvedere Roc del Quer și podul suspendat Tibetan, care traversează valea, oferă experiențe de neuitat.",
       en: "Canillo is the largest parish by area in Andorra and serves as a major religious and adventure tourism hub. It is home to the Sanctuary of Meritxell, the patron saint of Andorra, whose modern basilica was designed by renowned architect Ricardo Bofill. The parish is a key gateway to the vast Grandvalira ski area, with major access points in Soldeu and El Tarter. Modern attractions include the Roc del Quer viewpoint, with its skywalk platform, and the Tibetan Bridge, one of the longest pedestrian suspension bridges in the world. The parish skillfully blends these modern attractions with its Romanesque heritage, such as the church of Sant Joan de Caselles. Architecture K8 - Tradition and innovation in mountain architecture."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Das Dorf Soldeu ist ein regelmäßiger Austragungsort des alpinen Ski-Weltcups.",
+        "Die Tibetische Brücke ist 603 Meter lang.",
+        "Canillo ist die höchstgelegene Gemeinde des Landes.",
+        "Das Motorradmuseum zeigt eine beeindruckende Privatsammlung.",
+        "Der Nationalfeiertag Andorras, der 8. September, wird zu Ehren Unserer Lieben Frau von Meritxell gefeiert.",
+        "Das Val d'Incles ist ein beliebtes Wandergebiet im Sommer."
+        ],
       hu: [
         "Területét tekintve Canillo Andorra legnagyobb közössége.",
         "Itt található a Meritxell-szentély, Andorra nemzeti szentélye.",
@@ -304,7 +402,14 @@ export const andorraCities: POI[] = [
         "A Motorkerékpár Múzeum több mint 150 ritka járművet mutat be.",
         "A Val d'Incles völgy népszerű túrahelyszín nyáron."
       ],
-      ro: [],
+      ro: [
+        "După suprafață, Canillo este cea mai mare parohie din Andorra.",
+        "Aici se află Sanctuarul Meritxell, sanctuarul național al Andorrei.",
+        "Podul Tibetan de 603 metri este unul dintre cele mai lungi poduri suspendate pentru pietoni din lume.",
+        "Punctul de belvedere Roc del Quer oferă vederi panoramice ale văii.",
+        "Biserica Sant Joan de Caselles este unul dintre cele mai frumoase exemple de arhitectură romanică din țară.",
+        "Palatul de Gheață (Palau de Gel) este un centru sportiv și de agrement deschis pe tot parcursul anului."
+        ],
       en: [
         "The village of Soldeu is a regular host of the FIS Alpine Ski World Cup.",
         "The Tibetan Bridge is 603 meters long and is suspended 158 meters above the valley floor.",
@@ -315,8 +420,7 @@ export const andorraCities: POI[] = [
         "The Motorcycle Museum in Canillo displays an impressive private collection.",
         "The parish is made up of numerous small villages and hamlets."
       ]
-    }
-  },
+    }, image: "/poi-images/city-canillo.webp"},
   {
     id: "city-sant-julia",
     type: "city",
@@ -330,13 +434,20 @@ export const andorraCities: POI[] = [
       en: "The southernmost and lowest city."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Sant Julià de Lòria ist das südliche Tor zu Andorra mit dem mildesten Klima, das historisch den Tabakanbau begünstigte, wie das Tabakmuseum zeigt. Heute ist die Hauptattraktion Naturlandia, ein Abenteuerpark im Wald von La Rabassa, mit dem Tobotronc, der längsten Naturrodelbahn der Welt. Die Stadt ist auch ein Universitätszentrum, was ihr eine jugendliche Atmosphäre verleiht. Die mittelalterliche Brücke Pont de la Margineda ist ein wichtiges historisches Zeugnis.",
       hu: "Sant Julià de Lòria Andorra déli kapuja, a legenyhébb klímájú közösség, amely a spanyol határ mentén fekszik. Ez a földrajzi közelség mindig is meghatározta a város kereskedelmi és kulturális jellegét. Történelmileg a dohánytermesztés központja volt, amiről a Dohánymúzeum tanúskodik. Ma a város fő vonzereje a Naturlandia kalandpark, amely a La Rabassa erdőben található. Itt működik a Tobotronc, a világ leghosszabb alpesi szánkópályája, valamint egy állatpark, ahol a Pireneusok őshonos állatai láthatók. Sant Julià egyben egyetemi város is, az Andorrai Egyetem campusa élénk, fiatalos hangulatot kölcsönöz neki.",
-      ro: "",
+      ro: "Sant Julià de Lòria este poarta de sud a Andorrei, parohia cu cel mai blând climat, situată de-a lungul graniței cu Spania. Această proximitate geografică a definit întotdeauna caracterul comercial și cultural al orașului. Din punct de vedere istoric, a fost centrul cultivării tutunului, fapt atestat de Muzeul Tutunului. Astăzi, principala atracție a orașului este parcul de aventuri Naturlandia, situat în pădurea La Rabassa. Aici se află Tobotronc, cel mai lung tobogan alpin din lume, precum și un parc de animale unde pot fi văzute animalele native din Pirinei.",
       en: "Sant Julià de Lòria is the southernmost parish, acting as the main gateway to Andorra from Spain. Being the lowest-lying parish, it enjoys a milder, more Mediterranean climate than the rest of the country. Historically, the area was a center for tobacco cultivation, a past that is now elegantly showcased in the Tobacco Museum, housed in the former Reig factory. Today, its main draw is Naturlandia, a large adventure park set in the La Rabassa forest, famous for its animal park and the Tobotronc, the world's longest alpine coaster. The parish is also home to a university campus, lending it a vibrant, youthful atmosphere. Economic Geography K7 - Regional transformation from agriculture to services."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die am tiefsten gelegene Gemeinde Andorras (ca. 900 Meter).",
+        "Der Tobotronc ist eine 5,3 km lange Rodelbahn.",
+        "Das Tabakmuseum befindet sich in einer ehemaligen Tabakfabrik.",
+        "Die mittelalterliche Brücke Pont de la Margineda ist ein wichtiges Denkmal.",
+        "Die Kirche Sant Serni de Nagol aus dem 11. Jahrhundert ist auf einer Klippe erbaut.",
+        "Der Weinanbau wird in der Gemeinde wiederbelebt."
+        ],
       hu: [
         "Ez Andorra legalacsonyabban fekvő közössége (kb. 900 méter).",
         "A Tobotronc szánkópálya 5,3 km hosszú.",
@@ -347,7 +458,14 @@ export const andorraCities: POI[] = [
         "A Juberri kortárs szoborkert egy meglepő és érdekes látnivaló.",
         "Itt található Andorra egyetlen állandó határátkelője Spanyolország felé."
       ],
-      ro: [],
+      ro: [
+        "Este cea mai joasă parohie din Andorra (aprox. 900 de metri).",
+        "Toboganul Tobotronc are o lungime de 5,3 km.",
+        "Muzeul Tutunului se află într-o fostă fabrică de tutun.",
+        "Podul medieval Pont de la Margineda este un monument important al parohiei.",
+        "Biserica Sant Serni de Nagol din secolul al XI-lea este construită pe o stâncă.",
+        "Producția de vin a fost revitalizată în parohie."
+        ],
       en: [
         "The parish directly borders the Spanish region of Catalonia.",
         "The Tobotronc alpine coaster is 5.3 km long and has a vertical drop of 400 meters.",
@@ -358,8 +476,7 @@ export const andorraCities: POI[] = [
         "The parish's Festa Major (main festival) is one of the largest and most popular in Andorra.",
         "The Juberri Gardens, a contemporary sculpture park, is a surprising and delightful attraction."
       ]
-    }
-  },
+    }, image: "/poi-images/city-sant-julia.webp"},
   {
     id: "city-pas-de-la-casa",
     type: "city",
@@ -373,13 +490,20 @@ export const andorraCities: POI[] = [
       en: "Popular winter resort on the French border."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Pas de la Casa, 'das Haus am Pass', ist die höchstgelegene und östlichste Siedlung Andorras, direkt an der französischen Grenze. Die Höhe von über 2.100 Metern garantiert eine lange und schneesichere Skisaison und hat es zu einem der lebhaftesten Zentren des Skigebiets Grandvalira gemacht. Der Ort dreht sich hauptsächlich um Skifahren und ein pulsierendes Nachtleben mit vielen Bars, Restaurants und Duty-Free-Shops. Der Pass Port d'Envalira verbindet den Ort mit dem Rest von Andorra und ist der höchste asphaltierte Pass der Pyrenäen.",
       hu: "Pas de la Casa, a 'Ház a hágón', Andorra legmagasabban fekvő és legkeletibb települése, közvetlenül a francia határon. A 2100 méter feletti magasság garantálja a hosszú és hóbiztos síszezont, így nem meglepő, hogy a Grandvalira sírégió egyik legélénkebb és legnépszerűbb központjává vált. A település elsősorban a síelésről és a pezsgő éjszakai életről szól, tele bárokkal, éttermekkel és vámmentes üzletekkel. Pas de la Casa a legfiatalabb korosztály kedvelt célpontja. A Port d'Envalira hágó, amely összeköti a települést a többi andorrai várossal, a Pireneusok legmagasabb aszfaltozott hágója, amely télen is nyitva tart.",
-      ro: "",
+      ro: "Pas de la Casa, 'Casa de la Trecătoare', este cea mai înaltă și cea mai estică așezare din Andorra, situată chiar la granița cu Franța. Altitudinea de peste 2.100 de metri garantează un sezon de schi lung și cu zăpadă sigură, transformând-o într-unul dintre cele mai animate centre ale regiunii de schi Grandvalira. Așezarea se concentrează în principal pe schi și o viață de noapte vibrantă, plină de baruri, restaurante și magazine duty-free. Pasul Port d'Envalira leagă așezarea de restul Andorrei și este cel mai înalt pas asfaltat din Pirinei.",
       en: "Pas de la Casa is a high-altitude town and ski resort located in the parish of Encamp, right on the border with France. At an elevation of 2,100 meters, it is one of the highest resorts in the Pyrenees. It's a key part of the Grandvalira ski area, offering extensive slopes and a vibrant, youthful atmosphere. The town is famous for its lively après-ski scene and a wide array of duty-free shops, attracting many visitors from across the border. Its name translates to 'the pass of the house,' referring to a single shepherd's hut that existed there in the early 20th century. It serves as Andorra's only border crossing with France, via the Envalira Pass or tunnel. Tourism Geography K7 - Border towns and cross-border tourism."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Siedlung liegt auf über 2.100 Metern Höhe.",
+        "Es ist Andorras einziger Grenzübergang zu Frankreich.",
+        "Der Name bezieht sich auf eine einzige Hirtenhütte aus dem frühen 20. Jahrhundert.",
+        "Der Ort begann erst in den 1950er Jahren mit dem Bau der Skilifte zu wachsen.",
+        "Der Port d'Envalira-Pass ist 2.408 Meter hoch.",
+        "Beliebt bei jungen Leuten wegen des pulsierenden Nachtlebens."
+        ],
       hu: [
         "A település több mint 2100 méteres magasságban fekszik.",
         "Ez Andorra egyetlen határátkelője Franciaország felé.",
@@ -390,7 +514,14 @@ export const andorraCities: POI[] = [
         "A Port d'Envalira hágó 2408 méter magas.",
         "Pezsgő éjszakai élete miatt a bulizni vágyó fiatalok kedvelt helye."
       ],
-      ro: [],
+      ro: [
+        "Așezarea se află la peste 2.100 de metri altitudine.",
+        "Este singurul punct de trecere a frontierei Andorrei cu Franța.",
+        "Numele se referă la o singură colibă de păstor de la începutul secolului al XX-lea.",
+        "Dezvoltarea așezării a început abia în anii 1950, odată cu apariția teleschiurilor.",
+        "Pasul Port d'Envalira are o altitudine de 2.408 metri.",
+        "Este un loc popular pentru tineri datorită vieții de noapte vibrante."
+        ],
       en: [
         "It is the highest town in Andorra and one of the highest in Europe.",
         "The town's growth is directly linked to the development of the ski resort, which opened in 1957.",
@@ -401,8 +532,7 @@ export const andorraCities: POI[] = [
         "The Envalira Tunnel provides an alternative to the high mountain pass, especially in winter.",
         "The nightlife in Pas de la Casa is considered among the liveliest in the Pyrenees."
       ]
-    }
-  },
+    }, image: "/poi-images/city-pas-de-la-casa.webp"},
   {
     id: "city-soldeu",
     type: "city",
@@ -416,13 +546,20 @@ export const andorraCities: POI[] = [
       en: "Host of Ski World Cup races."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Soldeu, ein malerisches Bergdorf in der Gemeinde Canillo, hat sich zu einem der wichtigsten Zentren des Skigebiets Grandvalira entwickelt. Auf 1.800 Metern Höhe gelegen, ist es durch eine moderne Gondelbahn mit den Pisten verbunden. Soldeu hat sich weltweit einen Namen gemacht, indem es regelmäßig Rennen des Alpinen Ski-Weltcups ausrichtet. Das Dorf konzentriert sich auf hochwertige Dienstleistungen und eine familienfreundliche Atmosphäre. Im Sommer verwandelt sich das Gebiet in ein Paradies für Wanderer und Golfer, mit dem höchstgelegenen Golfplatz Europas.",
       hu: "Soldeu egy festői hegyi falu a Canillo közösségben, amely mára a Grandvalira sírégió egyik legfontosabb és legmodernebb központjává nőtte ki magát. A falu 1800 méteres magasságban fekszik, és egy modern kabinos felvonó köti össze a sípályákkal. Soldeu világhírnevét azzal alapozta meg, hogy rendszeresen ad otthont az Alpesi Sí Világkupa futamainak, köztük a híres Avet lesiklópályán. A falu a minőségi szolgáltatásokra és a családbarát légkörre összpontosít, számos magas színvonalú szállodával, étteremmel és síiskolával. Nyáron a sípályák zöld legelőkké változnak, és a falu a túrázók és a golf szerelmeseinek paradicsomává válik, köszönhetően Európa legmagasabban fekvő golfpályájának.",
-      ro: "",
+      ro: "Soldeu, un sat montan pitoresc din parohia Canillo, a devenit unul dintre cele mai importante centre ale regiunii de schi Grandvalira. Situat la 1.800 de metri altitudine, este conectat la pârtii printr-o telecabină modernă. Soldeu și-a câștigat renumele mondial găzduind regulat curse de Cupa Mondială de schi alpin. Satul se concentrează pe servicii de înaltă calitate și o atmosferă prietenoasă cu familiile. Vara, zona se transformă într-un paradis pentru drumeți și jucători de golf, cu cel mai înalt teren de golf din Europa.",
       en: "Soldeu is a village in the parish of Canillo, internationally renowned as a world-class ski destination. It is a central hub within the Grandvalira ski area, the largest in the Pyrenees. Soldeu is particularly famous for hosting major international ski competitions, including several FIS Alpine Ski World Cup events, on its iconic Avet slope. The village has a sophisticated yet relaxed atmosphere, with a wide range of high-quality hotels, restaurants, and spa facilities. In summer, the ski slopes transform into a lush golf course, the highest in Europe, and numerous hiking and mountain biking trails open up, making it a year-round mountain destination. Sports Science K8 - The impact of altitude on athletic performance and event hosting."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Soldeu ist regelmäßiger Austragungsort von FIS-Weltcuprennen im alpinen Skisport.",
+        "Die Avet-Piste ist eine der steilsten und technisch anspruchsvollsten Pisten der Welt.",
+        "Hier befindet sich der höchstgelegene 9-Loch-Golfplatz Europas.",
+        "Der Name des Dorfes könnte vom lateinischen Wort 'sol' (Sonne) stammen.",
+        "Viele Luxus- und Wellnesshotels befinden sich in der Ortschaft.",
+        "Im Sommer transportieren die Lifte Wanderer und Mountainbiker."
+        ],
       hu: [
         "Soldeu rendszeresen ad otthont FIS Alpesi Sí Világkupa futamoknak.",
         "Az Avet lesiklópálya a világ egyik legmeredekebb és legtechnikásabb pályája.",
@@ -433,7 +570,14 @@ export const andorraCities: POI[] = [
         "A szomszédos El Tarter faluval egy modern felvonórendszer köti össze.",
         "Nyáron a felvonók a túrázókat és a hegyi kerékpárosokat szállítják."
       ],
-      ro: [],
+      ro: [
+        "Soldeu găzduiește regulat curse de Cupa Mondială de schi alpin FIS.",
+        "Pârtia Avet este una dintre cele mai abrupte și tehnice pârtii din lume.",
+        "Aici se află cel mai înalt teren de golf cu 9 găuri din Europa.",
+        "Numele satului ar putea proveni de la cuvântul latin 'sol' (soare).",
+        "Numeroase hoteluri de lux și de wellness se află în localitate.",
+        "Vara, teleschiurile transportă drumeți și cicliști montani."
+        ],
       en: [
         "The Avet slope in Soldeu is a challenging black run used for World Cup slalom and giant slalom races.",
         "The Soldeu Golf Course is a 9-hole, par-33 course situated at an altitude of 2,250 meters.",
@@ -444,8 +588,7 @@ export const andorraCities: POI[] = [
         "Many of the hotels feature luxurious wellness centers and spas.",
         "The village offers a high-end experience compared to the more budget-focused Pas de la Casa."
       ]
-    }
-  },
+    }, image: "/poi-images/city-soldeu.webp"},
   {
     id: "city-arinsal",
     type: "city",
@@ -459,13 +602,20 @@ export const andorraCities: POI[] = [
       en: "Village in the Valira del Nord valley, known for skiing."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Arinsal ist ein charmantes Bergdorf in der Gemeinde La Massana und eines der Tore zum Skigebiet Pal-Arinsal. Das Dorf hat eine freundliche, familiäre Atmosphäre bewahrt und verfügt gleichzeitig über eine moderne touristische Infrastruktur. Eine moderne Gondelbahn führt vom Dorf zu den Skipisten, die durch eine Hochleistungsseilbahn mit dem benachbarten Sektor Pal verbunden sind. Arinsal ist besonders bei Anfängern, Fortgeschrittenen und Familien beliebt. Im Sommer ist das Dorf ein Paradies für Wanderer, mit Routen zum Gipfel des Coma Pedrosa.",
       hu: "Arinsal egy bájos hegyi falu La Massana közösségben, amely a Pal-Arinsal síterep egyik kapuja. A falu megőrizte barátságos, családias hangulatát, miközben modern turisztikai infrastruktúrával rendelkezik. A településről egy modern kabinos felvonó visz fel a sípályákhoz, amelyeket egy nagy kapacitású drótkötélpálya köt össze a szomszédos Pal szektorral. Arinsal különösen kedvelt a kezdő és középhaladó síelők, valamint a családok körében. Nyáron a falu a túrázók paradicsoma, innen indulnak a legnépszerűbb útvonalak a Coma Pedrosa csúcsára és a közeli tavakhoz. Élénk, angolszász pubokkal tarkított éjszakai élete miatt a fiatalabb korosztály körében is népszerű.",
-      ro: "",
+      ro: "Arinsal este un sat montan fermecător din parohia La Massana și una dintre porțile de acces către stațiunea de schi Pal-Arinsal. Satul și-a păstrat atmosfera prietenoasă, familială, având în același timp o infrastructură turistică modernă. O telecabină modernă duce de la sat la pârtiile de schi, care sunt conectate la sectorul vecin Pal printr-o telecabină de mare capacitate. Arinsal este deosebit de popular printre schiorii începători și intermediari, precum și printre familii. Vara, satul este un paradis pentru drumeți, cu trasee către vârful Coma Pedrosa.",
       en: "Arinsal is a village located in a narrow valley in the parish of La Massana in northwest Andorra. It is primarily known as a friendly, family-oriented ski resort that is part of the Vallnord-Pal-Arinsal ski area. The village sits at an altitude of around 1,550 meters and is linked by a cable car to the Pal sector, forming a combined ski area of over 60 km. Arinsal is particularly popular with beginners and intermediate skiers and snowboarders. During the summer, it's a base for hiking, especially for those looking to conquer Coma Pedrosa, Andorra's highest peak, which lies within the parish. The village has a relaxed, informal atmosphere with numerous pubs and restaurants catering to a diverse international crowd. Sociology K7 - Tourism's effect on small mountain communities."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Das Dorf liegt auf einer Höhe zwischen 1.550 und 1.950 Metern.",
+        "Im Sommer ist das Dorf der Haupteingang zum Coma Pedrosa Nationalpark.",
+        "Eine 50-Personen-Seilbahn verbindet Arinsal mit dem Pal-Sektor.",
+        "Arinsal ist bei britischen und irischen Touristen sehr beliebt.",
+        "Die Kirche Sant Andreu d'Arinsal stammt aus dem 17. Jahrhundert.",
+        "Im Sommer findet hier das Comapedrosa Skyrace statt."
+        ],
       hu: [
         "A falu 1550 és 1950 méter közötti magasságban fekszik.",
         "A Pal-Arinsal síterep összesen 63 km-nyi pályával rendelkezik.",
@@ -476,7 +626,14 @@ export const andorraCities: POI[] = [
         "A nyári hónapokban a falu ad otthont a Comapedrosa Skyrace hegyi futóversenynek.",
         "A falu felett található egy via ferrata útvonal is."
       ],
-      ro: [],
+      ro: [
+        "Satul se află la o altitudine între 1.550 și 1.950 de metri.",
+        "Vara, satul este intrarea principală în Parcul Național Coma Pedrosa.",
+        "O telecabină de 50 de persoane leagă Arinsal de sectorul Pal.",
+        "Arinsal este foarte popular printre turiștii britanici și irlandezi.",
+        "Biserica Sant Andreu d'Arinsal datează din secolul al XVII-lea.",
+        "Vara, aici are loc cursa de alergare montană Comapedrosa Skyrace."
+        ],
       en: [
         "Arinsal is connected to the Pal ski area by a 50-person cable car.",
         "The village is situated in the Valira del Nord valley.",
@@ -487,15 +644,14 @@ export const andorraCities: POI[] = [
         "In summer, the area becomes part of the Vallnord Bike Park.",
         "It has a reputation for a lively but family-friendly après-ski scene."
       ]
-    }
-  }
+    }, image: "/poi-images/city-arinsal.webp"}
 ];
 
 export const andorraLandmarks: POI[] = [
   {
     id: "landmark-casa-de-la-vall",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-andorra-la-vella",
     coords: [1.5206, 42.5065],
     name: { de: "Casa de la Vall", hu: "Casa de la Vall", ro: "Casa de la Vall", en: "Casa de la Vall" },
     description: {
@@ -505,13 +661,20 @@ export const andorraLandmarks: POI[] = [
       en: "Historical parliament building from the 16th century."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Casa de la Vall ist eines der symbolträchtigsten Gebäude in Andorra la Vella. Erbaut im Jahr 1580, diente es über drei Jahrhunderte als Sitz des andorranischen Parlaments und Gerichts. Heute ist es ein Museum, das die einzigartige politische Geschichte Andorras zeigt. Besucher können die alten Sitzungssäle und die historische Küche besichtigen. Im Garten befindet sich der Schrank der sieben Schlüssel, ein Symbol für die Einheit der sieben Gemeinden des Landes.",
       hu: "A Casa de la Vall, azaz 'A Völgy Háza', Andorra egyik legfontosabb történelmi és szimbolikus épülete. Az Andorra la Vella óvárosában álló, robusztus kőépület 1580-ban épült egy nemesi család számára, majd 1702-ben a Consell de la Terra (a mai andorrai parlament, a Consell General elődje) megvásárolta. Több mint három évszázadon át itt ülésezett a törvényhozás, és itt működött a bíróság is. Az épület ma múzeumként működik, bemutatva Andorra egyedülálló politikai történelmét. Látogathatók a régi üléstermek, a konyha és a bírósági terem. A ház melletti téren áll a 'Hét Kulcs Ládája', amely az ország hét közösségének egységét szimbolizálja.",
-      ro: "",
+      ro: "Casa de la Vall este una dintre cele mai emblematice clădiri din Andorra la Vella. Construită în 1580, a servit drept sediu al parlamentului și al justiției andorrane timp de peste trei secole. Astăzi, este un muzeu care prezintă istoria politică unică a Andorrei. Vizitatorii pot explora vechile săli de ședință și bucătăria istorică. În grădină se află Dulapul cu șapte chei, un simbol al unității celor șapte parohii ale țării.",
       en: "The Casa de la Vall is one of the most emblematic buildings in Andorra la Vella. Constructed in 1580 as a manor and defensive tower for the Busquets family, it was purchased in 1702 to serve as the headquarters of the Consell de la Terra, Andorra's historic parliament. It functioned as the seat of government and justice for over three centuries until the new parliament building was inaugurated in 2011. The building is a magnificent example of traditional Andorran architecture, with thick stone walls and a slate roof. Inside, visitors can explore the old courtroom, the kitchen, and the main chamber where the council met, which features original 16th-century murals and the historic 'Closet of the Seven Keys' where the state's most important documents were kept. History K8 - Systems of Government and Parliament."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Ursprünglich eine befestigte Adelsresidenz der Familie Busquets.",
+        "Das Parlament zog 2011 in das neue Gebäude um.",
+        "Der 'Schrank der sieben Schlüssel' bewahrte die wichtigsten Dokumente des Landes auf.",
+        "Das Motto Andorras, 'Virtus Unita Fortior', ist über dem Eingang eingraviert.",
+        "Die Mauern des alten Gerichtssaals sind mit Wandmalereien aus dem 16. Jahrhundert verziert.",
+        "Führungen bieten Einblicke in die einzigartige politische Geschichte Andorras."
+        ],
       hu: [
         "Az épület eredetileg a Busquets család erődített nemesi kúriája volt.",
         "A parlament 2011-ben költözött át az új, modern épületbe a Casa de la Vall mellé.",
@@ -522,7 +685,14 @@ export const andorraLandmarks: POI[] = [
         "Az épületet csak vezetett túrák keretében lehet látogatni.",
         "A ház kertjéből gyönyörű kilátás nyílik a völgyre."
       ],
-      ro: [],
+      ro: [
+        "Inițial, a fost o reședință nobiliară fortificată a familiei Busquets.",
+        "Parlamentul s-a mutat în noua clădire în 2011.",
+        "„Dulapul cu șapte chei” păstra cele mai importante documente ale țării.",
+        "Deviza Andorrei, 'Virtus Unita Fortior', este gravată deasupra intrării.",
+        "Pereții vechii săli de judecată sunt decorați cu picturi murale din secolul al XVI-lea.",
+        "Tururile ghidate oferă o perspectivă asupra istoriei politice unice a Andorrei."
+        ],
       en: [
         "The name translates to 'House of the Valley'.",
         "The Closet of the Seven Keys required a key from each of the seven parishes to be opened.",
@@ -538,7 +708,7 @@ export const andorraLandmarks: POI[] = [
   {
     id: "landmark-sant-joan-caselles",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-canillo",
     coords: [1.6080, 42.5714],
     name: { de: "Sant Joan de Caselles", hu: "Sant Joan de Caselles", ro: "Sant Joan de Caselles", en: "Sant Joan de Caselles" },
     description: {
@@ -548,13 +718,20 @@ export const andorraLandmarks: POI[] = [
       en: "A Romanesque church in Canillo."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kirche Sant Joan de Caselles in Canillo ist ein Juwel der andorranischen Romanik aus dem 11.-12. Jahrhundert. Sie zeichnet sich durch ihren hohen Glockenturm im lombardischen Stil und ein prächtiges gotisches Altarretabel aus dem 16. Jahrhundert aus. Im Inneren befinden sich auch Reste romanischer Fresken, darunter eine Darstellung der Kreuzigung. Die Kirche steht in perfekter Harmonie mit der umgebenden Alpenlandschaft und ist ein Muss für Liebhaber von Kunst und Geschichte.",
       hu: "A Canillo határában, a Valira d'Orient folyó partján álló Sant Joan de Caselles templom az andorrai román kori építészet egyik legszebb és legjobb állapotban megőrzött példája. A 11-12. században épült templom a lombard stílus jellegzetességeit viseli magán: magas, különálló harangtorony, félköríves apszis és egyszerű, téglalap alaprajz. Belül egy lenyűgöző, 16. századi gótikus-reneszánsz oltárkép található, amely Szent János életének jeleneteit ábrázolja. Az apszisban 12. századi román kori freskók maradványai is láthatók, melyek a 'Maiestas Domini'-t (Krisztus dicsőségben) ábrázolják. A templom tökéletes harmóniában áll a környező alpesi tájjal.",
-      ro: "",
+      ro: "Biserica Sant Joan de Caselles din Canillo este o bijuterie a arhitecturii romanice andorrane din secolele XI-XII. Se remarcă prin turnul său clopotniță înalt în stil lombard și un magnific retablu gotic din secolul al XVI-lea. În interior, se păstrează și resturi de fresce romanice, inclusiv o reprezentare a Răstignirii. Biserica se află în perfectă armonie cu peisajul alpin înconjurător și este o vizită obligatorie pentru iubitorii de artă și istorie.",
       en: "Sant Joan de Caselles is a prime example of Andorran Romanesque architecture, located just outside the town of Canillo. Dating back to the 11th-12th centuries, the church has a distinctive rectangular nave, a semi-circular apse, and a striking bell tower in the Lombard Romanesque style. Inside, it houses a magnificent stucco sculpture of Christ in Majesty surrounded by murals, and a well-preserved 16th-century altarpiece of exceptional quality, depicting scenes from the life of St. John the Evangelist. The church's setting, by a river and surrounded by mountains, adds to its charm. It is one of the best-preserved Romanesque churches in the Pyrenees. Art History K7 - Romanesque Art and Architecture."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der Glockenturm zeichnet sich durch seine doppelten, gewölbten Fenster aus.",
+        "Das gotische Altarretabel wird den Meistern Miquel de la Coromina und Guillem de la Borda zugeschrieben.",
+        "Der Friedhof um die Kirche enthält alte Grabsteine.",
+        "Das Gebäude steht neben einem Motorradmuseum, was einen interessanten Kontrast bildet.",
+        "Die Kirche ist auf der Liste des andorranischen Kulturerbes aufgeführt.",
+        "Der Eintritt ist in den Sommermonaten frei."
+        ],
       hu: [
         "A harangtorony különlegessége, hogy az utolsó szintjén kettős, boltíves ablakok (ikerablakok) vannak.",
         "A templom belsejében egy 12. századi, stukkóból készült 'Kálvária' szoborcsoport is található.",
@@ -565,7 +742,14 @@ export const andorraLandmarks: POI[] = [
         "A templom ingyenesen látogatható a nyári hónapokban.",
         "A templom szerepel Andorra kulturális örökségének listáján."
       ],
-      ro: [],
+      ro: [
+        "Turnul clopotniță se remarcă prin ferestrele sale duble, arcuite.",
+        "Retablul gotic este atribuit maeștrilor Miquel de la Coromina și Guillem de la Borda.",
+        "Cimitirul din jurul bisericii conține pietre funerare vechi.",
+        "Clădirea se află lângă un muzeu de motociclete, creând un contrast interesant.",
+        "Biserica este inclusă pe lista patrimoniului cultural andorran.",
+        "Intrarea este gratuită în lunile de vară."
+        ],
       en: [
         "The bell tower is three stories high with mullioned windows.",
         "The church has two porticoes, added in the 16th and 18th centuries.",
@@ -576,12 +760,11 @@ export const andorraLandmarks: POI[] = [
         "Its structure has remained largely unchanged for nearly a thousand years.",
         "The stucco Christ in Majesty is a unique piece in Andorra."
       ]
-    }
-  },
+    }, image: "/poi-images/landmark-sant-joan-caselles.webp"},
   {
     id: "landmark-santa-coloma",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-andorra-la-vella",
     coords: [1.4975, 42.4944],
     name: { de: "Església de Santa Coloma", hu: "Església de Santa Coloma", ro: "Església de Santa Coloma", en: "Església de Santa Coloma" },
     description: {
@@ -591,13 +774,20 @@ export const andorraLandmarks: POI[] = [
       en: "One of the oldest churches in the country."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kirche Santa Coloma d'Andorra ist eines der ältesten und einzigartigsten Sakralbauten des Landes. Sie wurde in der vorromanischen Zeit erbaut und im 12. Jahrhundert um einen einzigartigen, runden lombardischen Glockenturm ergänzt. Die berühmten romanischen Fresken der Apsis wurden in den 1930er Jahren verkauft, aber kürzlich zurückerworben. Heute können diese Malereien in einer innovativen virtuellen Ausstellung, dem Espai Columba, bewundert werden, wo sie auf die Apsiswände projiziert werden.",
       hu: "A Santa Coloma d'Andorra templom az ország egyik legrégebbi és legkülönlegesebb egyházi épülete. A preromán (a román kor előtti) időszakban, a 8-9. században épült templomot a 12. században egy egyedülálló, kör alaprajzú, négyemeletes lombard harangtoronnyal egészítették ki, amely ma az épület legjellegzetesebb része. Az apszist díszítő híres, 12. századi román kori freskókat az 1930-as években eladták és csak nemrég kerültek vissza Andorrába. Ma ezek a festmények egy innovatív, 'video mapping' technikával létrehozott virtuális kiállításon, az Espai Columban tekinthetők meg a templom mellett, ahol az eredeti freskókat vetítik vissza az apszis falára.",
-      ro: "",
+      ro: "Biserica Santa Coloma d'Andorra este una dintre cele mai vechi și mai unice clădiri ecleziastice din țară. Construită în perioada preromanică, a fost completată în secolul al XII-lea cu un turn clopotniță lombard unic, circular. Celebrele fresce romanice ale absidei au fost vândute în anii 1930, dar au fost recent recuperate. Astăzi, aceste picturi pot fi admirate într-o expoziție virtuală inovatoare, Espai Columba, unde sunt proiectate pe pereții absidei.",
       en: "The church of Santa Coloma is one of the oldest and most unusual pre-Romanesque buildings in Andorra, located in the village of Santa Coloma just south of the capital. Originating in the 8th-9th century, its most distinctive feature is the circular four-story bell tower, a rare shape in the Pyrenees, which was added in the 12th century. The church once housed a magnificent collection of 12th-century Romanesque frescoes, including the famous 'Agnus Dei'. While the originals were removed, an innovative video mapping projection now allows visitors to experience the frescoes in their original location. The church stands as a testament to Andorra's earliest Christian history. World History K6 - Early Medieval Europe."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der runde Glockenturm ist einzigartig in Andorra.",
+        "Die berühmten Fresken wurden vom 'Meister von Santa Coloma' geschaffen.",
+        "Die Fresken kehrten 2007 nach Andorra zurück.",
+        "Der Espai Columba ist ein moderner musealer Raum, der für die Präsentation der Fresken geschaffen wurde.",
+        "Die Kirche ist Teil der andorranischen Romanik-Route.",
+        "Das Dorf Santa Coloma gehört zur Gemeinde Andorra la Vella."
+        ],
       hu: [
         "A kör alaprajzú harangtorony egyedülálló Andorrában.",
         "A templom eredeti, preromán apszisa négyszögletes volt.",
@@ -608,7 +798,14 @@ export const andorraLandmarks: POI[] = [
         "A templom az andorrai román kori útvonal (Ruta del Romànic) része.",
         "Santa Coloma falu Andorra la Vella közösséghez tartozik."
       ],
-      ro: [],
+      ro: [
+        "Turnul clopotniță circular este unic în Andorra.",
+        "Celebrele fresce au fost create de 'Maestrul din Santa Coloma'.",
+        "Frescele au revenit în Andorra în 2007.",
+        "Espai Columba este un spațiu muzeal modern creat pentru prezentarea frescelor.",
+        "Biserica face parte din ruta romanică andorrană.",
+        "Satul Santa Coloma aparține parohiei Andorra la Vella."
+        ],
       en: [
         "It is the only church in Andorra with a circular Lombard-style bell tower.",
         "The main nave of the church is pre-Romanesque.",
@@ -619,12 +816,11 @@ export const andorraLandmarks: POI[] = [
         "The site has been excavated, revealing Visigothic and Roman era remains.",
         "It is part of the Andorran Romanesque route."
       ]
-    }
-  },
+    }, image: "/poi-images/landmark-santa-coloma.webp"},
   {
     id: "landmark-sant-climent",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-la-massana",
     coords: [1.4795, 42.5441],
     name: { de: "Sant Climent de Pal", hu: "Sant Climent de Pal", ro: "Sant Climent de Pal", en: "Sant Climent de Pal" },
     description: {
@@ -634,13 +830,20 @@ export const andorraLandmarks: POI[] = [
       en: "Romanesque church in La Massana."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kirche Sant Climent de Pal im malerischen Dorf Pal ist ein herausragendes Beispiel der andorranischen Romanik. Erbaut im 11.-12. Jahrhundert, ist ihr auffälligstes Merkmal der dreistöckige lombardische Glockenturm mit seinen einzigartigen Zwillingsfenstern. Im Inneren befinden sich ein barockes Altarretabel und eine romanische Holzstatue der 'Jungfrau von Pal' aus dem 12. Jahrhundert. Die Kirche fügt sich perfekt in das Bild des traditionellen Dorfes ein, das selbst ein geschütztes Baudenkmal ist.",
       hu: "A Sant Climent de Pal templom a La Massana közösséghez tartozó Pal festői falujában található, és az andorrai román kori építészet egyik legérdekesebb példája. A 11-12. században épült templom legfeltűnőbb jellegzetessége a háromszintes lombard harangtorony, amelyet a felső két szinten ikerablakok díszítenek – ez a megoldás egyedülálló Andorrában. A templom belseje egyszerű, de figyelemre méltó a 18. századi barokk oltárkép és egy 12. századi, a 'Pali Szűzanya' néven ismert román kori faszobor. A templomot egy fal veszi körül, amely egykor a temetőt zárta körbe. Az épület tökéletesen illeszkedik a hagyományos kőházakból és palatetőkből álló falu képébe.",
-      ro: "",
+      ro: "Biserica Sant Climent de Pal, situată în pitorescul sat Pal, este un exemplu remarcabil al arhitecturii romanice andorrane. Construită în secolele XI-XII, cea mai izbitoare caracteristică a sa este turnul clopotniță lombard cu trei etaje, cu ferestrele sale gemene unice. În interior se află un retablu baroc și o statuie romanică din lemn a 'Fecioarei din Pal' din secolul al XII-lea. Biserica se integrează perfect în imaginea satului tradițional, care este el însuși un monument istoric protejat.",
       en: "Located in the picturesque village of Pal within the parish of La Massana, Sant Climent de Pal is a quintessential example of Andorran rural Romanesque architecture. The church dates from the late 11th or early 12th century. Its most notable feature is its three-story bell tower, adorned with twin-mullioned windows, a characteristic of the Lombard Romanesque style. This style of bell tower is unique in Andorra, as the windows are not paired. The church also preserves two 18th-century Baroque altarpieces and a 12th-century wooden statue of Our Lady of the Remedies. The village of Pal itself is one of the best-preserved traditional villages in the country, making a visit to the church a trip back in time. Architecture K7 - Romanesque Period."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der Glockenturm ist der einzige in Andorra mit Zwillingsfenstern.",
+        "Das Dorf Pal ist ein geschütztes historisches Ensemble.",
+        "Die Kirche beherbergt eine romanische Marienstatue aus Holz.",
+        "Sie ist ein wichtiges Beispiel für die ländliche romanische Architektur der Pyrenäen.",
+        "Die Kirche steht auf der Liste des andorranischen Kulturerbes.",
+        "Sie ist noch immer für Gottesdienste in Gebrauch."
+        ],
       hu: [
         "A templom harangtornya az egyetlen Andorrában, amely ikerablakokkal rendelkezik.",
         "Az ablakok nemcsak díszítő, hanem akusztikai funkciót is elláttak, segítve a harangszó terjedését.",
@@ -651,7 +854,14 @@ export const andorraLandmarks: POI[] = [
         "A templomban található Szűz Mária szobor a román kori faszobrászat szép példája.",
         "A templom szerepel az andorrai kulturális örökség listáján."
       ],
-      ro: [],
+      ro: [
+        "Turnul clopotniță este singurul din Andorra cu ferestre gemene.",
+        "Satul Pal este un ansamblu istoric protejat.",
+        "Biserica adăpostește o statuie romanică din lemn a Fecioarei Maria.",
+        "Este un exemplu important al arhitecturii romanice rurale din Pirinei.",
+        "Biserica este inclusă pe lista patrimoniului cultural andorran.",
+        "Este încă folosită pentru slujbe."
+        ],
       en: [
         "The church's bell tower is one of the most photographed in Andorra.",
         "It is dedicated to Saint Clement of Rome.",
@@ -662,12 +872,11 @@ export const andorraLandmarks: POI[] = [
         "The church is built from local granite stone.",
         "The windows in the bell tower are progressively larger on each level, creating a sense of height."
       ]
-    }
-  },
+    }, image: "/poi-images/landmark-sant-climent.webp"},
   {
     id: "landmark-sant-marti",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-ordino",
     coords: [1.5186, 42.5766],
     name: { de: "Sant Martí de la Cortinada", hu: "Sant Martí de la Cortinada", ro: "Sant Martí de la Cortinada", en: "Sant Martí de la Cortinada" },
     description: {
@@ -677,13 +886,20 @@ export const andorraLandmarks: POI[] = [
       en: "Romanesque church with wall paintings."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Kirche Sant Martí in La Cortinada ist ein kunsthistorischer Schatz, der die Juwelen der andorranischen Romanik bewahrt. Die ursprünglich im 12. Jahrhundert erbaute Kirche wurde später erweitert und vereint romanische und barocke Stilelemente. Ihre Besonderheit sind die gut erhaltenen Wandmalereien aus dem späten 12. Jahrhundert, die das Leben des Heiligen Martin und fantastische Tierfiguren darstellen. Zur Kirche gehören auch schmiedeeiserne Gitter aus dem 17. und 18. Jahrhundert, ein Taubenschlag und eine alte Wassermühle.",
       hu: "A La Cortinada faluban található Sant Martí-templom egy igazi művészettörténeti kincs, amely az andorrai román kor ékességeit őrzi. Az eredetileg a 12. században épült templomot a 17. és 18. században jelentősen kibővítették, így a román kori és barokk stílusjegyek keverednek benne. A templom igazi különlegessége a 12. század végi, kiváló állapotban megmaradt falfestmény-együttes, amelyet a 'Cortinadai Mester' alkotott. A freskók Szent Márton életét, valamint fantasztikus állatfigurákat és a hónapokat ábrázolják. A templomhoz tartozik egy 17-18. századi kovácsoltvas rács, egy galambdúc és egy régi vízimalom is.",
-      ro: "",
+      ro: "Biserica Sant Martí din La Cortinada este un tezaur de istorie a artei care păstrează bijuteriile perioadei romanice andorrane. Construită inițial în secolul al XII-lea, biserica a fost extinsă ulterior, combinând elemente de stil romanic și baroc. Caracteristica sa specială este ansamblul de picturi murale bine conservate de la sfârșitul secolului al XII-lea, care înfățișează viața Sfântului Martin și figuri de animale fantastice. Biserica include, de asemenea, grilaje din fier forjat din secolele XVII-XVIII, un porumbar și o moară de apă veche.",
       en: "The church of Sant Martí de la Cortinada, located in the parish of Ordino, is a Romanesque gem that was extended in the 17th and 18th centuries. The original 12th-century church preserves a significant set of Romanesque mural paintings attributed to the 'Master of La Cortinada'. These frescoes depict fantastical animals, a bishop, and figures from the lives of saints. Later additions to the church include beautiful wrought-iron railings, typical of Andorran craftsmanship, and several Baroque altarpieces. The church is part of a larger historical site that includes a traditional water-powered sawmill and a manor house, offering a comprehensive look at life in rural Andorra through the centuries. Art History K7 - Narrative in Medieval Art."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Fresken wurden im 20. Jahrhundert hinter dem barocken Altar wiederentdeckt.",
+        "Das Bestiarium mit fantastischen Tieren ist einzigartig in der Pyrenäenregion.",
+        "Die schmiedeeisernen Gitter sind Meisterwerke der andorranischen Eisenkunst.",
+        "Die alte Mühle neben der Kirche ist heute noch funktionsfähig.",
+        "Die Kirche ist eine wichtige Station auf der andorranischen Romanik-Route.",
+        "Der Eintritt ist frei und ein Audioguide ist verfügbar."
+        ],
       hu: [
         "A templom eredetileg egyhajós volt, de a bővítések során oldalkápolnákkal egészítették ki.",
         "A freskókat a 20. században fedezték fel a barokk oltár mögött.",
@@ -694,7 +910,14 @@ export const andorraLandmarks: POI[] = [
         "Az épület az andorrai román kori útvonal egyik legfontosabb állomása.",
         "A templom ingyenesen látogatható, audioguide is rendelkezésre áll."
       ],
-      ro: [],
+      ro: [
+        "Frescele au fost redescoperite în spatele altarului baroc în secolul al XX-lea.",
+        "Bestiarul cu animale fantastice este unic în regiunea Pirineilor.",
+        "Grilele din fier forjat sunt capodopere ale meșteșugului andorran al fierului.",
+        "Moara veche de lângă biserică este încă funcțională.",
+        "Biserica este o oprire importantă pe ruta romanică andorrană.",
+        "Intrarea este gratuită și este disponibil un ghid audio."
+        ],
       en: [
         "The Romanesque frescoes were rediscovered during a restoration in 1968.",
         "The church has a separate bell tower that was part of the original structure.",
@@ -705,12 +928,11 @@ export const andorraLandmarks: POI[] = [
         "The village of La Cortinada is on the Iron Route tourist trail.",
         "The combination of Romanesque and Baroque elements is a key feature of the church."
       ]
-    }
-  },
+    }, image: "/poi-images/landmark-sant-marti.webp"},
   {
     id: "landmark-meritxell",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-canillo",
     coords: [1.5830, 42.5540],
     name: { de: "Santuari de Meritxell", hu: "Santuari de Meritxell", ro: "Santuari de Meritxell", en: "Santuari de Meritxell" },
     description: {
@@ -720,14 +942,21 @@ export const andorraLandmarks: POI[] = [
       en: "Basilica and most important pilgrimage site in Andorra."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Heiligtum von Meritxell ist das spirituelle Zentrum Andorras und die Heimat seiner Schutzpatronin, Unserer Lieben Frau von Meritxell. Nachdem die ursprüngliche romanische Kirche 1972 niederbrannte, entwarf der berühmte Architekt Ricardo Bofill eine neue, moderne Basilika. Das Gebäude verbindet romanische Elemente mit moderner Architektur und symbolisiert so die Kontinuität des Glaubens. Im Heiligtum wird eine Kopie der romanischen Holzstatue der Jungfrau von Meritxell aufbewahrt, da das Original im Feuer zerstört wurde. Der Ort ist ein Treffpunkt von Glaube, Kultur und Natur.",
       hu: "A Meritxell-szentély Andorra spirituális központja és nemzeti szentélye, a Meritxelli Szűzanya, az ország védőszentjének otthona. Az eredeti, 17. századi román kori templom 1972-ben egy tűzvészben szinte teljesen elpusztult. A romok mellett épült fel a híres katalán építész, Ricardo Bofill által tervezett új, modern bazilika, amelyet 1976-ban szenteltek fel. Az épület a román kori elemeket (mint a harangtorony) ötvözi a modern építészet formanyelvével, szimbolizálva a hit folytonosságát. A szentélyben őrzik a Meritxelli Szűzanya 12. századi, román kori faszobrának másolatát (az eredeti a tűzben megsemmisült). A szentély a hit, a kultúra és a természet találkozási pontja.",
-      ro: "",
+      ro: "Sanctuarul Meritxell este centrul spiritual al Andorrei și casa sfintei sale patroane, Maica Domnului de la Meritxell. După ce biserica romanică originală a ars în 1972, o nouă bazilică modernă a fost proiectată de celebrul arhitect Ricardo Bofill. Clădirea combină elemente romanice cu arhitectura modernă, simbolizând continuitatea credinței. Sanctuarul adăpostește o copie a statuii romanice din lemn a Fecioarei de la Meritxell, originalul fiind distrus în incendiu. Locul este un punct de întâlnire între credință, cultură și natură.",
       en: "The Sanctuary of Meritxell is the spiritual heart of Andorra and home to its patron saint, Our Lady of Meritxell. The original Romanesque chapel, dating from the 12th century, tragically burned down in a fire in 1972, destroying the original statue of the Virgin. A new, grand sanctuary was designed by the renowned Spanish architect Ricardo Bofill and inaugurated in 1976. Bofill's design is a bold and eclectic reinterpretation of Romanesque style, blending elements of architecture, sculpture, and landscape. The complex, which includes the remains of the old church and the new basilica, was declared a Minor Basilica by Pope Francis in 2014. It is part of the Marian Route, linking several major shrines. Architecture K8 - Modernism and Postmodernism."
     },
 
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Legende besagt, dass die Statue der Jungfrau im Winter neben einem blühenden Rosenstrauch gefunden wurde.",
+        "Der 8. September, der Tag der Muttergottes von Meritxell, ist der Nationalfeiertag Andorras.",
+        "Die neue Basilika ist Teil der 'Marianischen Route'.",
+        "Die Ruinen der alten Kirche wurden als Mahnmal erhalten.",
+        "Papst Franziskus verlieh der Basilika den Titel 'Basilica minor'.",
+        "Das Design von Ricardo Bofill integriert die vier natürlichen Elemente."
+        ],
       hu: [
         "A legenda szerint a Szűzanya szobrát egy virágzó vadrózsabokor mellett találták meg januárban, hóval borított tájon.",
         "Szeptember 8-a, a Meritxelli Szűzanya napja, Andorra nemzeti ünnepe.",
@@ -738,7 +967,14 @@ export const andorraLandmarks: POI[] = [
         "Ricardo Bofill terveiben a négy természeti elem - föld, víz, levegő, tűz - is megjelenik.",
         "A szentély Canillo közösségben található, és Andorra egyik leglátogatottabb helye."
       ],
-      ro: [],
+      ro: [
+        "Legenda spune că statuia Fecioarei a fost găsită iarna lângă un trandafir înflorit.",
+        "8 septembrie, ziua Maicii Domnului de la Meritxell, este sărbătoarea națională a Andorrei.",
+        "Noua bazilică face parte din 'Ruta Mariană'.",
+        "Ruinele vechii biserici au fost păstrate ca un memorial.",
+        "Papa Francisc a acordat bazilicii titlul de 'Basilica minor'.",
+        "Designul lui Ricardo Bofill integrează cele patru elemente naturale."
+        ],
       en: [
         "The original statue was a Romanesque wood carving of a seated Virgin and Child.",
         "A faithful replica of the original statue is now housed in the new sanctuary.",
@@ -749,12 +985,11 @@ export const andorraLandmarks: POI[] = [
         "The 'Meritxell Memory' exhibition inside explains the history of the site.",
         "It is the most important religious site in the Principality of Andorra."
       ]
-    }
-  },
+    }, image: "/poi-images/landmark-meritxell.webp"},
   {
     id: "landmark-engolasters-church",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-escaldes-engordany",
     coords: [1.5583, 42.5113],
     name: { de: "Sant Miquel d'Engolasters", hu: "Sant Miquel d'Engolasters", ro: "Sant Miquel d'Engolasters", en: "Sant Miquel d'Engolasters" },
     description: {
@@ -764,13 +999,20 @@ export const andorraLandmarks: POI[] = [
       en: "Church with a distinctive bell tower."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Sant Miquel d'Engolasters ist eine romanische Kirche aus dem 12. Jahrhundert, die auf einer Terrasse mit malerischem Blick über das Tal von Andorra la Vella liegt. Ihr markantestes Merkmal ist der 17 Meter hohe, proportionierte Glockenturm im lombardischen Stil. Im Inneren sind Kopien der berühmten romanischen Fresken zu sehen. Die Einfachheit der Kirche und die Schönheit der umliegenden Landschaft bilden eine perfekte Harmonie.",
       hu: "A Sant Miquel d'Engolasters egy 12. századi román kori templom, amely egy teraszon helyezkedik el, festői kilátással Andorra la Vella völgyére, közel az Engolasters-tóhoz. Az épület legjellegzetesebb része a 17 méter magas, arányos lombard stílusú harangtorony. A templom belsejében a híres román kori freskók másolatai láthatók (az eredetieket a barcelonai Katalán Nemzeti Múzeumban őrzik), amelyek a Maiestas Dominit és az arkangyalokat ábrázolják. A templom egyszerűsége és a környező táj szépsége tökéletes harmóniát alkot. A legenda szerint a közeli tó vizének mágikus ereje van, és az építkezéshez is felhasználták.",
-      ro: "",
+      ro: "Sant Miquel d'Engolasters este o biserică romanică din secolul al XII-lea, situată pe o terasă cu o vedere pitorească asupra văii Andorra la Vella. Cea mai distinctivă trăsătură a sa este turnul clopotniță înalt de 17 metri, proporționat, în stil lombard. În interior pot fi văzute copii ale celebrelor fresce romanice. Simplitatea bisericii și frumusețea peisajului înconjurător formează o armonie perfectă.",
       en: "Sant Miquel d'Engolasters is a Romanesque church from the 12th century, perched on a scenic terrace overlooking the Andorra la Vella valley. It is renowned for its elegant, slightly leaning Lombard-style bell tower and the fine Romanesque frescoes that once adorned its apse. The original paintings, attributed to the Master of Santa Coloma, are now displayed in the National Art Museum of Catalonia in Barcelona, but high-quality copies can be seen inside the church. The church has a simple rectangular nave and a semi-circular apse. Its location near Engolasters Lake makes it a popular stop for hikers and those seeking panoramic views. Its distinctive, slightly disproportionate bell tower is one of its most famous features. Art History K7 - Romanesque Fresco Painting."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der Glockenturm ist ein herausragendes Beispiel für den lombardischen Stil in Andorra.",
+        "Die Originalfresken wurden 1925 entfernt und verkauft.",
+        "Die Kirche ist nur in den Sommermonaten im Rahmen von Führungen von innen zu besichtigen.",
+        "In der Nähe befindet sich der See von Engolasters, ein beliebtes Ausflugsziel.",
+        "Die Kirche ist eine wichtige Station auf der andorranischen Romanik-Route.",
+        "Eine Legende besagt, dass der Turm mit Wasser aus dem See gebaut wurde."
+        ],
       hu: [
         "A harangtorony arányai rendkívül harmonikusak, és a lombard stílus egyik legszebb példája Andorrában.",
         "Az eredeti falfestményeket 1925-ben távolították el és adták el.",
@@ -781,7 +1023,14 @@ export const andorraLandmarks: POI[] = [
         "A templom az andorrai román kori útvonal fontos állomása.",
         "A legenda szerint a torony építéséhez az Engolasters-tó vizét használták habarcsként."
       ],
-      ro: [],
+      ro: [
+        "Turnul clopotniță este un exemplu remarcabil al stilului lombard în Andorra.",
+        "Frescele originale au fost îndepărtate și vândute în 1925.",
+        "Biserica poate fi vizitată în interior doar în lunile de vară, în cadrul tururilor ghidate.",
+        "În apropiere se află lacul Engolasters, o destinație populară pentru excursii.",
+        "Biserica este o oprire importantă pe ruta romanică andorrană.",
+        "O legendă spune că turnul a fost construit cu apă din lac."
+        ],
       en: [
         "The bell tower is almost as tall as the nave is long, giving it a unique proportion.",
         "The frescoes depict the Adoration of the Magi and the Archangel Michael fighting a dragon.",
@@ -792,12 +1041,11 @@ export const andorraLandmarks: POI[] = [
         "The porch was added at a later date.",
         "The church offers a perfect viewpoint over the capital city and Escaldes-Engordany."
       ]
-    }
-  },
+    }, image: "/poi-images/landmark-engolasters-church.webp"},
   {
     id: "landmark-pont-margineda",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-sant-julia",
     coords: [1.4920, 42.4830],
     name: { de: "Pont de la Margineda", hu: "Pont de la Margineda", ro: "Pont de la Margineda", en: "Pont de la Margineda" },
     description: {
@@ -807,13 +1055,20 @@ export const andorraLandmarks: POI[] = [
       en: "The largest preserved medieval bridge."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Pont de la Margineda ist die größte und beeindruckendste mittelalterliche Brücke Andorras, die sich über den Fluss Gran Valira spannt. Erbaut im 12.-13. Jahrhundert, ist diese Steinbrücke mit ihrem einzigen, eleganten Bogen ein beeindruckendes Beispiel romanischer Ingenieurskunst. Neben der Brücke steht eine moderne Skulptur, die einen Dialog zwischen Mittelalter und Gegenwart schafft. Die Brücke ist heute für Fußgänger zugänglich und ein geschütztes Denkmal des andorranischen Kulturerbes.",
       hu: "A Pont de la Margineda Andorra legnagyobb és legimpozánsabb középkori hídja, amely a Sant Julià de Lòria és Andorra la Vella közötti régi úton ível át a Gran Valira folyón. A 12-13. században épült, egyetlen, 33 méter fesztávolságú, elegáns ívvel rendelkező kőhíd a román kori mérnöki tudás lenyűgöző példája. A híd legmagasabb pontján egy kis fülke található, amely egykor egy szent szobrát őrizhette. A híd mellett egy modern szobor áll, amelyet a japán művész, Michio Fukazawa készített, emléket állítva az Első Andorrai Nemzetközi Földművészeti Biennálénak. A híd ma is használatban van a gyalogosok számára, és Andorra kulturális örökségének védett műemléke.",
-      ro: "",
+      ro: "Pont de la Margineda este cel mai mare și mai impresionant pod medieval din Andorra, care traversează râul Gran Valira. Construit în secolele XII-XIII, acest pod de piatră cu un singur arc elegant este un exemplu impresionant de inginerie romanică. Lângă pod se află o sculptură modernă, creând un dialog între medieval și contemporan. Podul este astăzi accesibil pietonilor și este un monument protejat al patrimoniului cultural andorran.",
       en: "The Pont de la Margineda is the largest and most slender medieval bridge in Andorra, located in the parish of Sant Julià de Lòria. Spanning the Gran Valira river, this Romanesque bridge dates back to the 12th-13th centuries and was part of the old royal road connecting Sant Julià to the capital. The bridge is notable for its large 33-meter single arch and its construction from local stone bound with lime mortar. A modern sculpture by the Valencian artist Andreu Alfaro stands near the bridge, creating a dialogue between the medieval and the contemporary. The bridge is a testament to the engineering skills of the period and remains a vital piece of Andorra's historical heritage. Engineering History K6 - Bridge Construction."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Brücke ist 33 Meter lang und 9,2 Meter hoch.",
+        "Sie wurde aus lokalem Granit und Kalkmörtel gebaut.",
+        "Sie war von strategischer Bedeutung als einzige Verbindung über das Tal.",
+        "Die Brücke wurde im 20. Jahrhundert mehrfach restauriert.",
+        "Sie ist ein beliebter Ort für Fotografen und Hochzeitsfotos.",
+        "Sie steht auf der Liste des andorranischen Kulturerbes."
+        ],
       hu: [
         "A híd 33 méter hosszú és 9,2 méter magas.",
         "A híd építéséhez a környéken bányászott gránitot és habarcsot használtak.",
@@ -824,7 +1079,14 @@ export const andorraLandmarks: POI[] = [
         "A híd szerepel Andorra postabélyegein is.",
         "A híd környéke kellemes sétákat kínál a folyóparton."
       ],
-      ro: [],
+      ro: [
+        "Podul are 33 de metri lungime și 9,2 metri înălțime.",
+        "A fost construit din granit local și mortar de var.",
+        "A avut o importanță strategică, fiind singura legătură peste vale.",
+        "Podul a fost restaurat de mai multe ori în secolul al XX-lea.",
+        "Este un loc popular pentru fotografi și ședințe foto de nuntă.",
+        "Este inclus pe lista patrimoniului cultural andorran."
+        ],
       en: [
         "The main arch has a span of 33 meters and a height of 9.2 meters.",
         "The bridge is built with stone and features a lighter, upper section made of pumice stone to reduce weight.",
@@ -835,12 +1097,11 @@ export const andorraLandmarks: POI[] = [
         "The contemporary sculpture nearby is called 'Arc, Punt, Trobada' (Arch, Point, Meeting).",
         "It is a popular spot for photographers and history enthusiasts."
       ]
-    }
-  },
+    }, image: "/poi-images/landmark-pont-margineda.webp"},
   {
     id: "landmark-auto-museum",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-encamp",
     coords: [1.5772, 42.5331],
     name: { de: "Museu Nacional de l'Automòbil", hu: "Museu Nacional de l'Automòbil", ro: "Muzeul Național al Automobilului", en: "National Automobile Museum" },
     description: {
@@ -850,13 +1111,20 @@ export const andorraLandmarks: POI[] = [
       en: "Museum dedicated to automobile history in Encamp."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Nationale Automobilmuseum in Encamp lädt zu einer faszinierenden Zeitreise durch die Welt der Vierräder ein. Die Sammlung ist eine der bedeutendsten in Europa und zeigt über 80 Autos, 60 Motorräder und hundert Fahrräder von den Dampfmaschinen von 1886 bis zu den Sportwagen der 1970er Jahre. Die Ausstellung veranschaulicht perfekt die technische und ästhetische Entwicklung der Fahrzeuge und beleuchtet, wie das Automobil die Gesellschaft des 20. Jahrhunderts verändert hat.",
       hu: "Az encampi Nemzeti Autómúzeum egy lenyűgöző időutazásra invitálja a látogatókat a négykerekűek világába. A gyűjtemény Európa egyik legjelentősebbje, több mint 80 autót, 60 motorkerékpárt és száz kerékpárt mutat be, az 1886-os gőzgépektől az 1970-es évek sportautóiig. A kiállítás tökéletesen szemlélteti a járművek technikai és esztétikai fejlődését. A látogatók megcsodálhatnak olyan legendás márkákat, mint a Rolls-Royce, a Hispano-Suiza vagy a Bugatti, és bepillantást nyerhetnek abba, hogyan változtatta meg az automobil a 20. század társadalmát. A múzeum nemcsak az autórajongók számára kötelező, hanem mindenkinek, aki érdeklődik a technikatörténet iránt.",
-      ro: "",
+      ro: "Muzeul Național al Automobilului din Encamp invită vizitatorii la o călătorie fascinantă în timp prin lumea celor patru roți. Colecția este una dintre cele mai importante din Europa, prezentând peste 80 de mașini, 60 de motociclete și o sută de biciclete, de la motoarele cu aburi din 1886 până la mașinile sport din anii 1970. Expoziția ilustrează perfect dezvoltarea tehnică și estetică a vehiculelor și arată cum automobilul a schimbat societatea secolului al XX-lea.",
       en: "The National Automobile Museum in Encamp offers a fascinating journey through the history of the automobile, from the earliest steam engines to modern classics. The museum showcases an extraordinary collection of over eighty cars, sixty motorcycles, and a hundred bicycles. The vehicles are arranged chronologically, allowing visitors to trace the evolution of mechanical engineering, design, and social customs. Highlights of the collection include a Pinette steam engine from 1886 and rare models from brands like Hispano-Suiza and Rolls-Royce. It is considered one of the most important automobile collections in Southern Europe. Technology History K8 - The Evolution of Personal Transportation."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Sammlung entstand aus der Zusammenlegung mehrerer Privatsammlungen.",
+        "Das älteste Ausstellungsstück ist eine Dampfmaschine von 1886.",
+        "Das Museum beleuchtet auch den Einfluss des Automobils auf Mode und Tourismus.",
+        "Alle ausgestellten Fahrzeuge sind fahrbereit.",
+        "Die Sammlung enthält viele seltene und einzigartige Stücke.",
+        "Neben den Autos sind auch zeitgenössische Plakate und Accessoires zu sehen."
+        ],
       hu: [
         "A gyűjtemény több magángyűjtemény összevonásából jött létre.",
         "A legrégebbi kiállított darab egy 1886-os gőzgép.",
@@ -867,7 +1135,14 @@ export const andorraLandmarks: POI[] = [
         "A gyűjteményben számos ritka és egyedi darab is található.",
         "Az autók mellett korabeli plakátok és kiegészítők is láthatók."
       ],
-      ro: [],
+      ro: [
+        "Colecția a fost formată prin unirea mai multor colecții private.",
+        "Cel mai vechi exponat este un motor cu aburi din 1886.",
+        "Muzeul arată și impactul automobilului asupra modei și turismului.",
+        "Toate vehiculele expuse sunt funcționale.",
+        "Colecția include multe piese rare și unice.",
+        "Pe lângă mașini, sunt expuse și afișe și accesorii de epocă."
+        ],
       en: [
         "The collection is the result of private acquisitions over many years.",
         "The museum covers the period from 1886 to the 1970s.",
@@ -878,12 +1153,11 @@ export const andorraLandmarks: POI[] = [
         "The collection illustrates the rapid technological advancements of the 20th century.",
         "Special exhibitions are sometimes held to focus on a particular brand or era."
       ]
-    }
-  },
+    }, image: "/poi-images/landmark-auto-museum.webp"},
   {
     id: "landmark-casa-rull",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-la-massana",
     coords: [1.5152, 42.5342],
     name: { de: "Museu Casa Rull", hu: "Museu Casa Rull", ro: "Muzeul Casa Rull", en: "Casa Rull Museum" },
     description: {
@@ -893,13 +1167,20 @@ export const andorraLandmarks: POI[] = [
       en: "Insights into traditional Andorran rural life."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Museum Casa Rull in Sispony bietet einen einzigartigen Einblick in das ländliche Leben in Andorra im 19. Jahrhundert. Das Gebäude war einst das Zuhause der wohlhabenden Familie Perich und rekonstruiert originalgetreu den damaligen Lebensstil. Besucher können die verschiedenen Teile des Hauses erkunden, von der Küche und Vorratskammer bis hin zu den Wirtschaftsgebäuden. Originalgetreue Möbel, Werkzeuge und Alltagsgegenstände lassen die Vergangenheit lebendig werden und vermitteln ein Bild davon, wie eine autarke Bergbauernfamilie vor dem Zeitalter des Tourismus lebte.",
       hu: "A Casa Rull Múzeum Sispony festői falujában, La Massana közösségben található, és egyedülálló bepillantást nyújt a 19. századi Andorra vidéki életébe. Az épület egykor a gazdag földbirtokos Perich család otthona volt, és a múzeum hűen rekonstruálja az egykori életmódot. A látogatók bejárhatják a ház különböző részeit, a konyhától és az éléskamrától kezdve a hálószobákon át egészen a gazdasági épületekig, ahol az állatokat tartották és a terményeket tárolták. A korhű bútorok, szerszámok és használati tárgyak segítségével megelevenedik a múlt, és képet kapunk arról, hogyan élt egy önellátó, hegyi gazdaságban élő andorrai család a turizmus kora előtt.",
-      ro: "",
+      ro: "Muzeul Casa Rull din Sispony oferă o perspectivă unică asupra vieții rurale din Andorra secolului al XIX-lea. Clădirea a fost odată casa bogatei familii Perich și reconstituie fidel stilul de viață de atunci. Vizitatorii pot explora diferitele părți ale casei, de la bucătărie și cămară până la clădirile anexe. Mobilierul de epocă, uneltele și obiectele de uz casnic aduc la viață trecutul și oferă o imagine a modului în care trăia o familie de fermieri montani autonomi înainte de era turismului.",
       en: "The Casa Rull Museum, located in the village of Sispony in La Massana, is a perfectly preserved example of a traditional 17th-century Andorran house belonging to a wealthy land-owning family. The house was inhabited until the 20th century, and it provides an authentic glimpse into the Pyrenean way of life, where a single building served as a home, barn, and workshop. Visitors can explore the kitchen with its large hearth, the bedrooms, the pantry where food was preserved, and the attic where grain was stored. The house demonstrates the self-sufficient lifestyle of Andorran families, whose wealth was based on agriculture and livestock. Social History K7 - Family and Society in Pre-Industrial Europe."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Casa Rull wurde im 17. Jahrhundert erbaut und im 19. Jahrhundert erheblich umgebaut.",
+        "Das Haus ist ein typisches Beispiel für die 'borda'-Architektur Andorras.",
+        "Die Familie Perich war eine der einflussreichsten Familien Andorras.",
+        "Das Museum zeigt die jährlichen Aktivitäten der Familie, von der Aussaat bis zur Schlachtung.",
+        "Führungen sind erforderlich, um das Museum zu besuchen.",
+        "Das Haus verfügt auch über einen kleinen Garten und einen Gemüsegarten."
+        ],
       hu: [
         "A Casa Rull a 17. században épült, de a 19. században jelentősen átalakították.",
         "A ház az andorrai 'borda' típusú építészet jellegzetes példája.",
@@ -910,7 +1191,14 @@ export const andorraLandmarks: POI[] = [
         "A Casa Rull az 'Andorrai Múzeumok Útvonalának' része.",
         "A házhoz egy kis kert és veteményes is tartozik."
       ],
-      ro: [],
+      ro: [
+        "Casa Rull a fost construită în secolul al XVII-lea și a fost modificată semnificativ în secolul al XIX-lea.",
+        "Casa este un exemplu tipic de arhitectură 'borda' andorrană.",
+        "Familia Perich a fost una dintre cele mai influente familii din Andorra.",
+        "Muzeul prezintă activitățile anuale ale familiei, de la semănat la tăierea porcului.",
+        "Muzeul poate fi vizitat doar în cadrul tururilor ghidate.",
+        "Casa are și o mică grădină și o grădină de legume."
+        ],
       en: [
         "The house belonged to the Perich family, prominent local landowners.",
         "The current structure dates mainly from the 17th and 18th centuries.",
@@ -921,14 +1209,13 @@ export const andorraLandmarks: POI[] = [
         "Guided tours explain the social hierarchy and daily routines of the time.",
         "Casa Rull is part of Andorra's network of rural habitat museums."
       ]
-    }
-  }
+    }, image: "/poi-images/landmark-casa-rull.webp"}
 ];
 
 export const andorraNature: POI[] = [
   {
     id: "nature-coma-pedrosa",
-    type: "landmark",
+    type: "mountain",
     parent: "country-andorra",
     coords: [1.4428, 42.5908],
     name: { de: "Coma Pedrosa", hu: "Coma Pedrosa", ro: "Coma Pedrosa", en: "Coma Pedrosa" },
@@ -939,13 +1226,20 @@ export const andorraNature: POI[] = [
       en: "The highest mountain in Andorra (2,942 m)."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Coma Pedrosa ist mit 2.942 Metern der höchste Gipfel Andorras und liegt im Nordwesten des Landes. Der Berg und das umliegende Tal gehören zum Naturpark Coma Pedrosa Valleys, der eine reiche alpine Flora und Fauna aufweist. Die Besteigung ist eine beliebte Herausforderung für erfahrene Wanderer. Vom Gipfel aus bietet sich bei klarem Wetter ein atemberaubender 360-Grad-Panoramablick auf die Pyrenäen. Am Fuße des Berges befindet sich die Berghütte Coma Pedrosa.",
       hu: "A Coma Pedrosa 2942 méteres magasságával Andorra legmagasabb csúcsa, amely a hercegség északnyugati részén, a spanyol és francia határ közelében emelkedik. A csúcs és a körülötte elterülő völgy a Coma Pedrosa Völgyeinek Természeti Parkjához tartozik, amely gazdag alpesi flórával és faunával rendelkezik. A hegy megmászása népszerű kihívás a tapasztalt túrázók körében; a csúcsra Arinsal faluból indul a leggyakoribb útvonal. A túra során a látogatók gleccsertavakat, például az Estanys de Baiau tavait is megcsodálhatják. A csúcsról tiszta időben lenyűgöző, 360 fokos panoráma nyílik a Pireneusok andorrai, spanyol és francia vonulataira. A hegy lábánál található a Coma Pedrosa menedékház, amely szállást és étkezést biztosít a túrázóknak.",
-      ro: "",
+      ro: "Coma Pedrosa, cu o altitudine de 2.942 de metri, este cel mai înalt vârf din Andorra, situat în nord-vestul țării. Muntele și valea înconjurătoare fac parte din Parcul Natural Văile Coma Pedrosa, care are o bogată floră și faună alpină. Ascensiunea este o provocare populară pentru drumeții experimentați. De pe vârf, pe vreme senină, se deschide o panoramă uluitoare de 360 de grade asupra Pirineilor. La poalele muntelui se află refugiul Coma Pedrosa.",
       en: "Coma Pedrosa is the highest summit in the Principality of Andorra, standing at an impressive 2,942 meters (9,652 ft) above sea level. Located in the parish of La Massana in the northwestern part of the country, the mountain is the centerpiece of the Coma Pedrosa Valleys National Park. The ascent is a challenging but popular hike, typically taking about 4-5 hours from the village of Arinsal. The route passes through diverse landscapes, including pine forests, high mountain meadows, and glacial lakes like the Estanys de Tristaina. From the summit, hikers are rewarded with breathtaking panoramic views across the Pyrenees of Andorra, France, and Spain. Geology K7 - Mountain Formation and Glacial Landscapes."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der Berg befindet sich in der Gemeinde La Massana.",
+        "Die Wanderung von Arinsal dauert ca. 4-5 Stunden.",
+        "Coma Pedrosa besteht aus Granit und Schiefer.",
+        "Auf dem Gipfel befinden sich ein kleines Metallkreuz und ein Gipfelbuch.",
+        "Der Name bedeutet 'steiniges Tal'.",
+        "Der Comapedrosa Skyrace ist ein beliebter Berglauf, der auch den Gipfel berührt."
+        ],
       hu: [
         "A csúcs a La Massana közösség területén található.",
         "A hegy megmászása kb. 4-5 órát vesz igénybe Arinsalból.",
@@ -956,7 +1250,14 @@ export const andorraNature: POI[] = [
         "A természeti park területe 15,4 km².",
         "A parkban zerge, mormota és számos ragadozómadár-faj is él."
       ],
-      ro: [],
+      ro: [
+        "Muntele se află în parohia La Massana.",
+        "Drumeția de la Arinsal durează aproximativ 4-5 ore.",
+        "Coma Pedrosa este compus din granit și șist.",
+        "Pe vârf se află o mică cruce metalică și o carte de vârf.",
+        "Numele înseamnă 'vale pietroasă'.",
+        "Comapedrosa Skyrace este o cursă montană populară care include și vârful."
+        ],
       en: [
         "The mountain is part of the Pyrenees mountain range.",
         "The name 'Coma Pedrosa' means 'stony cirque' in Catalan.",
@@ -971,7 +1272,7 @@ export const andorraNature: POI[] = [
   },
   {
     id: "nature-tristaina",
-    type: "landmark",
+    type: "lake",
     parent: "country-andorra",
     coords: [1.4883, 42.6373],
     name: { de: "Estanys de Tristaina", hu: "Estanys de Tristaina", ro: "Lacurile Tristaina", en: "Tristaina Lakes" },
@@ -982,13 +1283,20 @@ export const andorraNature: POI[] = [
       en: "Three picturesque high mountain lakes."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Die Estanys de Tristaina sind eine Gruppe von drei treppenförmig angeordneten, kristallklaren Gletscherseen in der Gemeinde Ordino, oberhalb des Skigebiets Ordino-Arcalís. Die Seen liegen in einem spektakulären, eiszeitlichen Zirkus, umgeben von hohen Gipfeln. Ein gut markierter Wanderweg verbindet die drei Seen und kann in einer angenehmen Rundwanderung von etwa anderthalb Stunden erkundet werden. Im Sommer sind die Seen und ihre Umgebung ein beliebtes Ziel für Wanderer, im Winter für Skitourengeher und Schneeschuhwanderer.",
       hu: "Az Estanys de Tristaina egy három, lépcsőzetesen elhelyezkedő, kristálytiszta vizű gleccsertóból álló együttes az Ordino közösségben, az Ordino-Arcalís síterep felett. A tavak egy látványos, jégkorszaki cirkuszvölgyben fekszenek, amelyet magas hegycsúcsok, köztük a Tristaina-csúcs (2878 m) ölelnek körül. A legalsó tó, az Estany Primer, a legkönnyebben megközelíthető, mindössze egy rövid sétára a sífelvonó végétől. Egy jól jelzett turistaútvonal köti össze a három tavat (Estany Primer, Estany del Mig, Estany de Més Amunt), és egy kellemes, kb. másfél órás körtúrával bejárható. A tavak és környékük nyáron a túrázók, télen pedig a sítúrázók és hótalpasok kedvelt célpontja.",
-      ro: "",
+      ro: "Estanys de Tristaina este un grup de trei lacuri glaciare cu apă cristalină, dispuse în trepte, în parohia Ordino, deasupra stațiunii de schi Ordino-Arcalís. Lacurile sunt situate într-un circ glaciar spectaculos, înconjurat de vârfuri înalte. Un traseu de drumeție bine marcat leagă cele trei lacuri și poate fi parcurs într-o plimbare plăcută de aproximativ o oră și jumătate. Vara, lacurile și împrejurimile lor sunt o destinație populară pentru drumeți, iar iarna pentru schiorii de tură și cei cu rachete de zăpadă.",
       en: "The Tristaina Lakes (Estanys de Tristaina) are a set of three beautiful glacial lakes located high in the parish of Ordino. Situated in a stunning mountain cirque near the Ordino-Arcalís ski resort, they are a popular destination for hikers in the summer. The lakes are located at different altitudes: Estany Primer (First Lake), Estany del Mig (Middle Lake), and Estany de Més Amunt (Furthest Lake). The trail connecting the lakes is a relatively easy and well-marked loop, making it accessible to families. The crystal-clear waters of the lakes reflect the surrounding peaks, including the impressive Tristaina Peak. Geography K7 - Glacial landforms and high-altitude lakes."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der höchstgelegene See, der Estany de Més Amunt, liegt auf über 2.300 Metern.",
+        "Am obersten See befindet sich eine moderne Sonnenuhr-Skulptur, der 'Solar Viewpoint'.",
+        "Angeln auf Forellen ist in den Seen erlaubt.",
+        "Im Sommer erleichtert der Skilift den Aufstieg zu den Seen.",
+        "Die Rundwanderung hat einen Höhenunterschied von etwa 200 Metern.",
+        "Das Wasser der Seen speist den Fluss Valira del Nord."
+        ],
       hu: [
         "A legmagasabban fekvő tó, az Estany de Més Amunt, 2300 méter felett található.",
         "A tavak vize nyáron is rendkívül hideg.",
@@ -999,7 +1307,14 @@ export const andorraNature: POI[] = [
         "A körtúra szintkülönbsége körülbelül 200 méter.",
         "A tavak vize a Valira del Nord folyót táplálja."
       ],
-      ro: [],
+      ro: [
+        "Cel mai înalt lac, Estany de Més Amunt, se află la peste 2.300 de metri.",
+        "La cel mai de sus lac se află o sculptură modernă de ceas solar, 'Solar Viewpoint'.",
+        "Pescuitul păstrăvului este permis în lacuri.",
+        "Vara, teleschiul facilitează accesul la lacuri.",
+        "Traseul circular are o diferență de nivel de aproximativ 200 de metri.",
+        "Apa lacurilor alimentează râul Valira del Nord."
+        ],
       en: [
         "The lakes are of glacial origin, formed by ancient ice sheets.",
         "The highest lake, Estany de Més Amunt, sits at an altitude of 2,320 meters.",
@@ -1010,11 +1325,10 @@ export const andorraNature: POI[] = [
         "The Tristaina Solar Viewpoint, a large sundial sculpture, is located near the viewpoint for the lakes.",
         "Fishing for trout is permitted in the lakes with a license."
       ]
-    }
-  },
+    }, image: "/poi-images/nature-tristaina.webp"},
   {
     id: "nature-madriu",
-    type: "landmark",
+    type: "valley",
     parent: "country-andorra",
     coords: [1.5833, 42.4833],
     name: { de: "Madriu-Perafita-Claror Tal", hu: "Madriu-Perafita-Claror völgy", ro: "Valea Madriu-Perafita-Claror", en: "Madriu-Perafita-Claror Valley" },
@@ -1025,13 +1339,20 @@ export const andorraNature: POI[] = [
       en: "Spectacular valley and UNESCO World Heritage site."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Das Madriu-Perafita-Claror-Tal ist Andorras einziges UNESCO-Weltkulturerbe und nimmt fast 10 % des Staatsgebiets ein. Dieses riesige, von eiszeitlichen Gletschern geformte Talsystem ist ein einzigartiges Beispiel dafür, wie der Mensch seit Jahrtausenden in Harmonie mit der Bergwelt lebt. Das Tal hat keine permanenten Straßen, wodurch seine natürlichen und kulturellen Werte unberührt geblieben sind. Das Tal kann nur zu Fuß auf Wanderwegen erkundet werden.",
       hu: "A Madriu-Perafita-Claror völgy Andorra egyetlen UNESCO Világörökségi helyszíne, amely az ország területének közel 10%-át foglalja el. Ez a hatalmas, jégkorszaki gleccserek által formált völgyrendszer egyedülálló példája annak, hogyan élt az ember évezredeken át harmóniában a hegyi környezettel. A völgyben nincsenek állandó utak, így természeti és kulturális értékei érintetlenül maradtak meg. Magashegyi legelők, sűrű erdők, kristálytiszta tavak és meredek sziklafalak váltakoznak. A tájban megbújnak régi pásztorkunyhók (bordes), teraszos földművelés nyomai és a vasolvasztás emlékei, amelyek mind az ember és a természet szoros kapcsolatáról tanúskodnak. A völgyet csak gyalogosan, túraútvonalakon lehet felfedezni.",
-      ro: "",
+      ro: "Valea Madriu-Perafita-Claror este singurul sit al Patrimoniului Mondial UNESCO din Andorra, acoperind aproape 10% din teritoriul țării. Acest vast sistem de văi, modelat de ghețarii din epoca glaciară, este un exemplu unic al modului în care omul a trăit în armonie cu mediul montan timp de milenii. Valea nu are drumuri permanente, astfel încât valorile sale naturale și culturale au rămas neatinse. Valea poate fi explorată doar pe jos, pe trasee de drumeție.",
       en: "The Madriu-Perafita-Claror Valley is a vast glacial valley and Andorra's only UNESCO World Heritage site, recognized for its cultural landscape. Covering about 9% of Andorra's total territory, the valley is a microcosm of the Pyrenees, showcasing how humans have lived in this mountainous environment for millennia. It features dramatic glacial landscapes, with steep pastures, rugged crags, and high-altitude lakes. The valley also contains evidence of its human history, including shepherds' huts ('bordes'), stone walls, and the remains of iron forges. It is a pristine, undeveloped area with no roads, accessible only by hiking trails, offering a unique sense of tranquility and a connection to the past. Human Geography K8 - Cultural Landscapes and Heritage."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Das Tal wurde 2004 in die UNESCO-Welterbeliste aufgenommen.",
+        "Es erstreckt sich über vier andorranische Gemeinden.",
+        "Der höchste Punkt des Tals ist der Pic de la Portelleta (2.905 m).",
+        "Die internationalen Wanderwege GR7, GR11 und GRP führen durch das Tal.",
+        "Mehrere Berghütten (Refugis) bieten Wanderern Unterkunft.",
+        "Das Gebiet ist reich an Biodiversität."
+        ],
       hu: [
         "A völgyet 2004-ben vették fel az UNESCO Világörökség listájára 'kultúrtáj' kategóriában.",
         "A terület négy andorrai közösség (Encamp, Andorra la Vella, Sant Julià de Lòria, Escaldes-Engordany) határain húzódik.",
@@ -1042,7 +1363,14 @@ export const andorraNature: POI[] = [
         "A terület rendkívül gazdag biodiverzitásban, számos ritka növény- és állatfaj otthona.",
         "A völgy a mai napig helyet ad a tradicionális legeltető állattartásnak."
       ],
-      ro: [],
+      ro: [
+        "Valea a fost inclusă pe lista Patrimoniului Mondial UNESCO în 2004.",
+        "Se întinde pe patru parohii andorrane.",
+        "Cel mai înalt punct al văii este Pic de la Portelleta (2.905 m).",
+        "Traseele internaționale de drumeție GR7, GR11 și GRP traversează valea.",
+        "Mai multe refugii montane (refugis) oferă cazare drumeților.",
+        "Zona este bogată în biodiversitate."
+        ],
       en: [
         "The valley was awarded UNESCO World Heritage status in 2004.",
         "It covers an area of 4,247 hectares.",
@@ -1053,12 +1381,11 @@ export const andorraNature: POI[] = [
         "The name 'Madriu' comes from the Latin for 'mother river'.",
         "The valley's protected status ensures it remains a haven for native flora and fauna."
       ]
-    }
-  },
+    }, image: "/poi-images/nature-madriu.webp"},
   {
     id: "nature-engolasters-lake",
-    type: "landmark",
-    parent: "country-andorra",
+    type: "lake",
+    parent: "city-escaldes-engordany",
     coords: [1.5711, 42.5204],
     name: { de: "Llac d'Engolasters", hu: "Llac d'Engolasters", ro: "Lacul Engolasters", en: "Engolasters Lake" },
     description: {
@@ -1068,13 +1395,20 @@ export const andorraNature: POI[] = [
       en: "An easily accessible lake near Andorra la Vella."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Engolasters-See ist ein künstlicher Stausee in der Gemeinde Encamp auf 1.616 Metern Höhe. Obwohl er in den 1930er Jahren zur Versorgung des Wasserkraftwerks von Escaldes angelegt wurde, hat er sich perfekt in die Landschaft eingefügt und ist heute eines der beliebtesten Familienausflugsziele Andorras. Ein flacher Spazierweg führt um den von Pinienwäldern umgebenen See, der auch für Kinderwagen und Rollstühle geeignet ist. In der Nähe befindet sich die romanische Kirche Sant Miquel d'Engolasters aus dem 12. Jahrhundert.",
       hu: "Az Engolasters-tó egy mesterséges víztározó Encamp közösségben, 1616 méteres magasságban. Bár a tavat az 1930-as években hozták létre az escaldesi vízerőmű ellátására, mára tökéletesen beilleszkedett a tájba, és Andorra egyik legnépszerűbb családi kirándulóhelyévé vált. A tavat fenyőerdő veszi körül, és egy könnyen járható, sík sétaút vezet körbe rajta, amely babakocsival és kerekesszékkel is megtehető. A környéken több piknikezőhely, játszótér és egy kalandpark is található. A tó partjáról indulnak túraútvonalak a környező hegyekbe. A tó közelében áll a Sant Miquel d'Engolasters 12. századi román kori templom.",
-      ro: "",
+      ro: "Lacul Engolasters este un lac de acumulare artificial din parohia Encamp, la o altitudine de 1.616 metri. Deși a fost creat în anii 1930 pentru a alimenta hidrocentrala din Escaldes, astăzi s-a integrat perfect în peisaj și a devenit una dintre cele mai populare destinații de familie din Andorra. Un traseu de plimbare plat înconjoară lacul, care este înconjurat de păduri de pini, accesibil și pentru cărucioare și scaune cu rotile. În apropiere se află biserica romanică din secolul al XII-lea, Sant Miquel d'Engolasters.",
       en: "Engolasters Lake is an artificial lake located at an altitude of 1,616 meters in the parish of Escaldes-Engordany. The lake was formed by a dam built in 1934 to create a reservoir for the country's first hydroelectric power plant. It is now a popular and easily accessible recreational area, surrounded by forests and offering flat walking trails around its perimeter. The lake is a favorite spot for families, picnics, and fishing. Nearby is the Romanesque church of Sant Miquel d'Engolasters. A local legend tells of a village that was once here, submerged by the lake's waters as a divine punishment for the villagers' lack of piety. Environmental Science K7 - Water Resources and Hydroelectric Power."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Das Wasser des Sees wird durch unterirdische Kanäle zum Wasserkraftwerk geleitet.",
+        "Baden ist im See verboten, aber Angeln ist erlaubt.",
+        "Der Weg um den See ist etwa 2 km lang.",
+        "Am Ufer des Sees gibt es mehrere Restaurants.",
+        "Im Winter friert der See zu und bietet einen herrlichen Anblick.",
+        "Der botanische Lehrpfad 'Camí de les Pardines' beginnt am See."
+        ],
       hu: [
         "A tó vizét egy föld alatti csatornarendszer vezeti le az escaldesi vízerőműbe.",
         "A tóban tilos a fürdés, de a horgászat engedélyezett.",
@@ -1085,7 +1419,14 @@ export const andorraNature: POI[] = [
         "A tóhoz autóval és busszal is könnyen el lehet jutni.",
         "A 'Camí de les Pardines' egy botanikai tanösvény, amely a tótól indul."
       ],
-      ro: [],
+      ro: [
+        "Apa lacului este condusă prin canale subterane la hidrocentrală.",
+        "Scăldatul în lac este interzis, dar pescuitul este permis.",
+        "Traseul din jurul lacului are o lungime de aproximativ 2 km.",
+        "Pe malul lacului există mai multe restaurante.",
+        "Iarna, lacul îngheață și oferă o priveliște magnifică.",
+        "Traseul botanic 'Camí de les Pardines' începe de la lac."
+        ],
       en: [
         "The lake is approximately 7 hectares in size.",
         "The water from the lake is channeled through underground pipes to the hydroelectric plant below.",
@@ -1096,12 +1437,11 @@ export const andorraNature: POI[] = [
         "The lake can be reached by a scenic, winding road from the capital.",
         "Despite being artificial, it has become a significant naturalized habitat."
       ]
-    }
-  },
+    }, image: "/poi-images/nature-engolasters-lake.webp"},
   {
     id: "nature-naturlandia",
-    type: "landmark",
-    parent: "country-andorra",
+    type: "kid-landmark",
+    parent: "city-sant-julia",
     coords: [1.5034, 42.4418],
     name: { de: "Naturlandia", hu: "Naturlandia", ro: "Naturlandia", en: "Naturlandia" },
     description: {
@@ -1111,13 +1451,20 @@ export const andorraNature: POI[] = [
       en: "Adventure park with the longest alpine coaster."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Naturlandia ist ein riesiger, ganzjährig geöffneter Abenteuer- und Tierpark in der Gemeinde Sant Julià de Lòria. Die berühmteste Attraktion des Parks ist der Tobotronc, mit 5,3 Kilometern die längste Naturrodelbahn der Welt. Darüber hinaus gibt es zahlreiche weitere Abenteuer wie Seilrutschen, Bogenschießen und einen Tierpark, in dem einheimische Tiere der Pyrenäen wie Braunbären, Wölfe und Luchse in ihrer natürlichen Umgebung beobachtet werden können. Naturlandia ist das perfekte Programm für die ganze Familie.",
       hu: "A Naturlandia egy hatalmas, egész évben nyitva tartó kaland- és állatpark Sant Julià de Lòria közösségben, a La Rabassa erdőben. A park két fő részből áll: egy 1600 méteres magasságban lévő családi zónából és egy 2000 méteres magasságban található extrém sport zónából. A park leghíresebb attrakciója a Tobotronc, amely 5,3 kilométeres hosszával a világ leghosszabb alpesi 'hullámvasútja'. Ezen kívül számos más kaland is várja a látogatókat, például drótkötélpályák, íjászat, quadozás és egy állatpark, ahol a Pireneusok őshonos állatait, mint a barna medvét, a farkast és a hiúzt lehet megfigyelni természetes környezetükben. A Naturlandia tökéletes program az egész család számára.",
-      ro: "",
+      ro: "Naturlandia este un parc imens de aventură și de animale, deschis pe tot parcursul anului, în parohia Sant Julià de Lòria. Cea mai faimoasă atracție a parcului este Tobotronc, cel mai lung tobogan natural din lume, cu o lungime de 5,3 kilometri. În plus, există numeroase alte aventuri, cum ar fi tiroliene, tir cu arcul și un parc de animale unde pot fi observate animale native din Pirinei, cum ar fi urșii bruni, lupii și râșii. Naturlandia este programul perfect pentru întreaga familie.",
       en: "Naturlandia is a large adventure and nature park located in the La Rabassa forest, in the parish of Sant Julià de Lòria. The park is split into two sections at different altitudes (1,600m and 2,000m), connected by a scenic road. Its most famous attraction is the Tobotronc, which at 5.3 kilometers is the longest alpine coaster in the world. The park also features an animal park where visitors can see species native to the Pyrenees, such as brown bears, wolves, and chamois, in semi-wild enclosures. Other activities include zip-lining, archery, buggy tours, and cross-country skiing in winter. It's a year-round destination focused on outdoor activities and environmental education. Tourism K8 - Management of Theme Parks and Natural Attractions."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der Tobotronc ist 5,3 km lang und überwindet 400 Höhenmeter.",
+        "Der Tierpark erstreckt sich über 15 Hektar.",
+        "Im Winter wird der Park zum Langlauf- und Schneeschuhwanderzentrum.",
+        "Es gibt Waldseilgärten (Airtrekk) mit unterschiedlichen Schwierigkeitsgraden.",
+        "Für die Kleinsten gibt es Ponyreiten und Spielplätze.",
+        "Der Park verfügt über Restaurants und Picknickplätze."
+        ],
       hu: [
         "A Tobotronc 5,3 km hosszú és 400 méter szintkülönbséget küzd le az erdőn keresztül.",
         "A park két zónája között ingyenes buszjárat közlekedik.",
@@ -1128,7 +1475,14 @@ export const andorraNature: POI[] = [
         "A legkisebbeket pónilovaglás és játszóterek várják.",
         "A parkban éttermek és piknikezőhelyek is rendelkezésre állnak."
       ],
-      ro: [],
+      ro: [
+        "Tobotronc are 5,3 km lungime și o diferență de nivel de 400 de metri.",
+        "Parcul de animale se întinde pe 15 hectare.",
+        "Iarna, parcul devine un centru pentru schi fond și drumeții cu rachete de zăpadă.",
+        "Există parcuri de aventură în copaci (Airtrekk) de diferite niveluri de dificultate.",
+        "Pentru cei mici, există plimbări cu ponei și locuri de joacă.",
+        "Parcul dispune de restaurante și zone de picnic."
+        ],
       en: [
         "The Tobotronc ride takes about 10 minutes to descend.",
         "The park covers a vast area of the La Rabassa forest.",
@@ -1139,12 +1493,11 @@ export const andorraNature: POI[] = [
         "The ride on the Tobotronc offers spectacular views of the surrounding forest.",
         "It is a popular destination for families visiting Andorra."
       ]
-    }
-  },
+    }, image: "/poi-images/nature-naturlandia.webp"},
   {
     id: "nature-vallnord",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-la-massana",
     coords: [1.4812, 42.5562],
     name: { de: "Vallnord", hu: "Vallnord", ro: "Vallnord", en: "Vallnord" },
     description: {
@@ -1154,13 +1507,20 @@ export const andorraNature: POI[] = [
       en: "Well-known ski resort in western Andorra."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Vallnord (jetzt offiziell Pal Arinsal und Ordino Arcalís) ist eine Skiregion im Westen Andorras, die aus zwei separaten Skigebieten besteht. Pal-Arinsal in La Massana ist ein familienfreundliches Gebiet mit über 60 km Pisten. Ordino Arcalís ist ein Paradies für Freerider, bekannt für seine ausgezeichnete Schneequalität. Im Sommer verwandelt sich Pal-Arinsal in den Vallnord Bike Park, einen der besten Mountainbike-Parks Europas.",
       hu: "A Vallnord (ma már hivatalosan Pal Arinsal és Ordino Arcalís) Andorra nyugati részén elterülő sírégió, amely két különálló, de egy síbérlettel használható síterepből áll. A La Massana közösségben található Pal-Arinsal egy családbarát síterep, amely több mint 60 km-nyi, főként kezdő és középhaladó pályával rendelkezik. A két szektort (Pal és Arinsal) egy nagy kabinos felvonó köti össze. Az Ordino közösségben fekvő Ordino Arcalís a freeride és a mélyhó síelés paradicsoma, híres a kiváló hóminőségéről és az érintetlen, vad tájairól. Nyáron Pal-Arinsal Európa egyik legjobb hegyikerékpár-parkjává, a Vallnord Bike Parkká alakul át, míg Arcalís a túrázók kedvelt célpontja.",
-      ro: "",
+      ro: "Vallnord (acum oficial Pal Arinsal și Ordino Arcalís) este o regiune de schi din vestul Andorrei, formată din două stațiuni de schi separate. Pal-Arinsal din La Massana este o stațiune de familie cu peste 60 km de pârtii. Ordino Arcalís este un paradis pentru freerideri, renumit pentru calitatea excelentă a zăpezii. Vara, Pal-Arinsal se transformă în Vallnord Bike Park, unul dintre cele mai bune parcuri de biciclete montane din Europa.",
       en: "Vallnord is a major ski and mountain destination located in the western valleys of Andorra, primarily in the parish of La Massana. It comprises two main sectors: Pal-Arinsal and Ordino-Arcalís. The Pal-Arinsal sector is a large, linked area known for its family-friendly slopes and excellent ski schools, connected by a cable car. In summer, it transforms into the renowned Vallnord Bike Park, a mecca for mountain bikers. The Ordino-Arcalís sector, though smaller and not directly linked, is famous for its exceptional snow quality and is considered one of the best freeride and off-piste destinations in the Pyrenees. Together, they offer a diverse range of mountain experiences year-round. Business Studies K8 - Branding and Marketing in the Tourism Industry."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Das Skigebiet Pal-Arinsal verfügt über ein 63 km langes Pistennetz.",
+        "Ordino Arcalís bietet 30 km Pisten und riesige Freeride-Gebiete.",
+        "Im Sommer finden im Vallnord Bike Park Mountainbike-Weltcup-Rennen statt.",
+        "Im Skigebiet Ordino Arcalís wurden Szenen für den James-Bond-Film 'Der Morgen stirbt nie' gedreht.",
+        "Die Pisten von Pal-Arinsal führen größtenteils durch Pinienwälder.",
+        "Ordino Arcalís ist das nördlichste Skigebiet Andorras."
+        ],
       hu: [
         "A Pal-Arinsal síterep 63 km-nyi pályarendszerrel rendelkezik.",
         "Az Ordino Arcalís 30 km-nyi pályát és hatalmas freeride területeket kínál.",
@@ -1171,7 +1531,14 @@ export const andorraNature: POI[] = [
         "A Pal-Arinsal pályái nagyrészt fenyőerdők között vezetnek.",
         "Az Ordino Arcalís a legészakibb fekvésű síterep Andorrában, ami garantálja a jó hóviszonyokat."
       ],
-      ro: [],
+      ro: [
+        "Stațiunea de schi Pal-Arinsal are o rețea de pârtii de 63 km.",
+        "Ordino Arcalís oferă 30 km de pârtii și zone vaste de freeride.",
+        "Vara, parcul de biciclete Vallnord găzduiește curse de Cupa Mondială de mountain bike.",
+        "Scene din filmul James Bond 'Mâine nu moare niciodată' au fost filmate în stațiunea de schi Ordino Arcalís.",
+        "Pârtiile din Pal-Arinsal trec în mare parte prin păduri de pini.",
+        "Ordino Arcalís este cea mai nordică stațiune de schi din Andorra."
+        ],
       en: [
         "Until 2018, 'Vallnord' was the brand name for all three resorts; now Ordino-Arcalís is part of Grandvalira Resorts.",
         "The Vallnord Bike Park has hosted multiple UCI Mountain Bike World Cup events.",
@@ -1182,11 +1549,10 @@ export const andorraNature: POI[] = [
         "The Freestyle ski school in Arinsal is highly regarded.",
         "The 'La Coma' restaurant in Arcalís is accessible only by ski or caterpillar track vehicle in winter."
       ]
-    }
-  },
+    }, image: "/poi-images/nature-vallnord.webp"},
   {
     id: "nature-grandvalira",
-    type: "landmark",
+    type: "mountain",
     parent: "country-andorra",
     coords: [1.6705, 42.5623],
     name: { de: "Grandvalira", hu: "Grandvalira", ro: "Grandvalira", en: "Grandvalira" },
@@ -1197,13 +1563,20 @@ export const andorraNature: POI[] = [
       en: "The largest ski resort in the Pyrenees."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Grandvalira ist das größte Skigebiet der Pyrenäen und Südeuropas und erstreckt sich über den Osten Andorras. Die riesige, zusammenhängende Skiregion verfügt über mehr als 210 Pistenkilometer, die über sechs verschiedene Sektoren zugänglich sind. Dank des modernen und schnellen Liftsystems ist das gesamte Gebiet leicht zu befahren. Grandvalira ist die perfekte Wahl für Skifahrer und Snowboarder aller Niveaus und bietet alles von Anfängerpisten bis hin zu schwarzen Weltcup-Abfahrten, sowie zahlreiche Snowparks und Freeride-Zonen.",
       hu: "A Grandvalira a Pireneusok és Dél-Európa legnagyobb síterepe, amely Andorra keleti részén terül el. A hatalmas, összefüggő sírégió több mint 210 kilométernyi pályarendszerrel rendelkezik, amely hat különböző szektoron (Encamp, Canillo, El Tarter, Soldeu, Grau Roig, Pas de la Casa) keresztül érhető el. A modern és gyors felvonórendszernek köszönhetően az egész terület könnyedén bejárható. A Grandvalira minden tudásszintű síelő és snowboardos számára tökéletes választás: a kezdők számára kijelölt tanulópályáktól a fekete, világkupa-futamoknak is otthont adó lejtőkig minden megtalálható itt. Emellett számos snowpark, freeride zóna, és egyéb szórakozási lehetőség, mint a kutyaszánozás vagy a hótalpas túrázás, teszi teljessé a téli élményt.",
-      ro: "",
+      ro: "Grandvalira este cea mai mare stațiune de schi din Pirinei și din sudul Europei, întinzându-se în estul Andorrei. Vasta regiune de schi interconectată are peste 210 de kilometri de pârtii, accesibile prin șase sectoare diferite. Datorită sistemului de teleschiuri modern și rapid, întreaga zonă este ușor de parcurs. Grandvalira este alegerea perfectă pentru schiorii și snowboarderii de toate nivelurile, oferind de la pârtii pentru începători la pârtii negre de Cupă Mondială, precum și numeroase snowpark-uri și zone de freeride.",
       en: "Grandvalira is the largest ski resort in the Pyrenees and one of the largest in Europe. It stretches across the eastern part of Andorra, linking the parishes of Encamp and Canillo. The resort is a vast, interconnected domain formed by the union of several smaller resorts, including Pas de la Casa, Grau Roig, Soldeu, El Tarter, Canillo, and Encamp. It offers over 210 kilometers of pistes, catering to all levels of skiers and snowboarders. The resort is known for its modern and efficient lift system, high-quality snowmaking, and a wide variety of services, including top-tier ski schools, freestyle parks, and gourmet mountain restaurants. It regularly hosts major international sporting events, such as the Alpine Ski World Cup. Economics K8 - Mergers and Economies of Scale."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Das Skigebiet verfügt über 210 km Pisten und 74 Lifte.",
+        "Der höchste Punkt liegt auf 2.640 Metern (Tossal de la Llosada).",
+        "Die Avet-Piste in Soldeu ist regelmäßiger Austragungsort von Weltcup-Rennen.",
+        "Das Skigebiet betreibt auch ein Iglu-Hotel.",
+        "Drei Snowparks stehen Freestyle-Skifahrern und Snowboardern zur Verfügung.",
+        "Der Funicamp-Lift bringt Skifahrer in 15 Minuten von Encamp ins Herz des Skigebiets."
+        ],
       hu: [
         "A síterep 210 km-nyi sípályával és 74 felvonóval rendelkezik.",
         "A legmagasabb pontja 2640 méter (Tossal de la Llosada).",
@@ -1214,7 +1587,14 @@ export const andorraNature: POI[] = [
         "A Peretol snowpark éjszakai világítással is rendelkezik.",
         "A síterep Igló Hotelt is üzemeltet, ahol a vendégek jégből készült szobákban alhatnak."
       ],
-      ro: [],
+      ro: [
+        "Stațiunea are 210 km de pârtii și 74 de teleschiuri.",
+        "Cel mai înalt punct este la 2.640 de metri (Tossal de la Llosada).",
+        "Pârtia Avet din Soldeu găzduiește regulat curse de Cupa Mondială.",
+        "Stațiunea operează și un Hotel Iglu.",
+        "Trei snowpark-uri sunt disponibile pentru schiorii și snowboarderii de freestyle.",
+        "Telecabina Funicamp transportă schiorii de la Encamp în inima stațiunii în 15 minute."
+        ],
       en: [
         "The resort was created in 2003 by the merger of the Pas de la Casa-Grau Roig and Soldeu-El Tarter ski areas.",
         "It has a capacity to transport over 100,000 skiers per hour.",
@@ -1225,11 +1605,10 @@ export const andorraNature: POI[] = [
         "In summer, a part of the resort becomes the highest golf course in Europe.",
         "The resort now also includes the Ordino-Arcalís sector under its 'Grandvalira Resorts' umbrella brand."
       ]
-    }
-  },
+    }, image: "/poi-images/nature-grandvalira.webp"},
   {
     id: "nature-casamanya",
-    type: "landmark",
+    type: "mountain",
     parent: "country-andorra",
     coords: [1.5647, 42.5852],
     name: { de: "Pic de Casamanya", hu: "Pic de Casamanya", ro: "Pic de Casamanya", en: "Pic de Casamanya" },
@@ -1240,13 +1619,20 @@ export const andorraNature: POI[] = [
       en: "Prominent mountain in the center of Andorra."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Pic de Casamanya ist ein 2.740 Meter hoher, markanter Berg im geografischen Zentrum von Andorra. Obwohl er nicht der höchste Gipfel ist, ist er aufgrund seiner zentralen Lage eines der beliebtesten Wanderziele. Der Gipfel bietet einen atemberaubenden 360-Grad-Panoramablick auf fast ganz Andorra. Der häufigste Aufstieg beginnt am Coll d'Ordino und erfordert keine technische Klettererfahrung, aber eine gute Kondition. Der Berg ist auch ein botanischer Hotspot, bekannt für seine Felder mit Alpenblumen.",
       hu: "A Pic de Casamanya egy 2740 méter magas, jellegzetes, piramis alakú hegy Andorra földrajzi középpontjában. Bár nem a legmagasabb csúcs, központi elhelyezkedése miatt az egyik legnépszerűbb és leglátványosabb túracélpont az országban. A hegy az Ordino és Canillo közösségeket elválasztó gerincen fekszik. A csúcsra az Ordino felőli Coll d'Ordino hágóból indul a leggyakoribb útvonal, amely nem igényel technikai hegymászótudást, de jó állóképességet igen. A csúcsról tiszta időben lélegzetelállító, 360 fokos panoráma nyílik szinte egész Andorrára, a völgyekre és a környező hegycsúcsokra. A hegy különlegessége, hogy három, egymáshoz közeli csúcsa van: a déli, a középső és az északi.",
-      ro: "",
+      ro: "Pic de Casamanya este un munte proeminent, de 2.740 de metri, în centrul geografic al Andorrei. Deși nu este cel mai înalt vârf, este una dintre cele mai populare destinații de drumeție datorită locației sale centrale. Vârful oferă o panoramă uluitoare de 360 de grade asupra aproape întregii Andorre. Cea mai frecventă ascensiune începe de la Coll d'Ordino și nu necesită experiență tehnică de alpinism, dar o bună condiție fizică. Muntele este, de asemenea, un punct fierbinte botanic, cunoscut pentru câmpurile sale de flori alpine.",
       en: "Pic de Casamanya is one of the most iconic and centrally located mountains in Andorra. Standing at 2,740 meters, it's a prominent peak that separates the parishes of Ordino and Canillo. The mountain is particularly noted for its relatively straightforward ascent from the Coll d'Ordino, making it one of the most popular hikes in the country. Its central location means that the summit offers an extraordinary 360-degree panoramic view of almost the entire country, allowing hikers to identify many of Andorra's other major peaks and valleys. The mountain has three distinct summits: the south (2,740m), the middle (2,725m), and the north (2,752m). It's a botanical hotspot in summer, known for its fields of alpine flowers. Physical Geography K7 - Topography and Cartography."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der Berg hat drei Gipfel: Süd, Mitte und Nord.",
+        "Die Wanderung vom Coll d'Ordino überwindet einen Höhenunterschied von ca. 760 Metern.",
+        "Der Bergrücken bildet eine natürliche Grenze zwischen Ordino und Canillo.",
+        "Der Name 'Casamanya' bedeutet wahrscheinlich 'großer Berg'.",
+        "Der Gipfel ist ein traditioneller Ort für die Feuer zur Johannisnacht.",
+        "Vom Gipfel aus kann man die Skigebiete Grandvalira und Vallnord sehen."
+        ],
       hu: [
         "A hegy három csúcsa a Casamanya Sud (2740 m), a Casamanya Mig (2725 m) és a Casamanya Nord (2695 m).",
         "A túra a Coll d'Ordino hágóról (1980 m) indul, a szintkülönbség kb. 760 méter.",
@@ -1257,7 +1643,14 @@ export const andorraNature: POI[] = [
         "A hegy geológiailag főként mészkőből és palából épül fel, ami gazdag növényvilágot eredményez.",
         "A csúcsról jól látható az egész Grandvalira és Vallnord sírégió is."
       ],
-      ro: [],
+      ro: [
+        "Muntele are trei vârfuri: Sud, Mijloc și Nord.",
+        "Drumeția de la Coll d'Ordino are o diferență de nivel de aproximativ 760 de metri.",
+        "Creasta montană formează o graniță naturală între Ordino și Canillo.",
+        "Numele 'Casamanya' înseamnă probabil 'munte mare'.",
+        "Vârful este un loc tradițional pentru focurile de Sfântul Ioan.",
+        "De pe vârf se pot vedea stațiunile de schi Grandvalira și Vallnord."
+        ],
       en: [
         "The name 'Casamanya' is thought to mean 'great mountain' in a pre-Roman language.",
         "The standard hike from Coll d'Ordino involves a vertical gain of about 750 meters.",
@@ -1268,14 +1661,13 @@ export const andorraNature: POI[] = [
         "It is considered the geographical center of Andorra.",
         "The hike is not technical but requires a good level of fitness due to the sustained ascent."
       ]
-    }
-  },
+    }, image: "/poi-images/nature-casamanya.webp"},
   {
     id: "nature-sorteny",
-    type: "landmark",
-    parent: "country-andorra",
+    type: "nature-reserve",
+    parent: "city-ordino",
     coords: [1.5630, 42.6251],
-    name: { de: "Parc Natural de Sorteny", hu: "Sorteny Nemzeti Park", ro: "Parcul Natural Sorteny", en: "Sorteny Nature Park" },
+    name: { de: "Parc Natural de Sorteny", hu: "Sorteny Természeti Park", ro: "Parcul Natural Sorteny", en: "Sorteny Nature Park" },
     description: {
       de: "Botanisches Paradies mit über 700 Pflanzenarten.",
       hu: "Botanikai paradicsom több mint 700 növényfajjal.",
@@ -1283,13 +1675,20 @@ export const andorraNature: POI[] = [
       en: "Botanical paradise with over 700 plant species."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Naturpark Sorteny-Tal in Ordino ist ein geschütztes Gebiet, das für seine außergewöhnliche Artenvielfalt, insbesondere seine Pflanzenwelt, bekannt ist. Der Park wird oft als 'botanischer Garten Andorras' bezeichnet und beherbergt über 700 Blumen- und Pflanzenarten. Es gibt mehrere gut markierte Themenwege, einen botanischen Garten und eine Berghütte. Der Park ist auch die Heimat von Tieren wie Pyrenäen-Gämsen, Murmeltieren und dem seltenen Pyrenäen-Gebirgsmolch. Er ist Teil des UNESCO-Biosphärenreservats Ordino.",
       hu: "A Sorteny-völgy Természeti Park egy 1080 hektáros védett terület Ordino közösségben, amely Andorra és a Pireneusok botanikai kincsesbányája. A parkban több mint 700 féle virágos növényfaj él, amelyek közül több mint 50 a Pireneusokban endemikus (csak itt található meg). A park bejáratánál egy botanikus kert és egy tanösvény segít a látogatóknak megismerni a helyi flórát. A völgyön keresztül folyik a Sorteny folyó, és több túraútvonal is behálózza, amelyek elvezetnek a Sorteny menedékházhoz, valamint a közeli Estany de l'Estanyó tóhoz és a Pic de l'Estanyó csúcsához (2915 m). A park nemcsak a növények, hanem az állatok, például a zerge, a mormota és a szakállas saskeselyű otthona is.",
-      ro: "",
+      ro: "Parcul Natural Valea Sorteny din Ordino este o arie protejată renumită pentru biodiversitatea sa excepțională, în special pentru flora sa. Adesea numit 'grădina botanică a Andorrei', parcul găzduiește peste 700 de specii de flori și plante. Există mai multe trasee tematice bine marcate, o grădină botanică și o cabană montană. Parcul este, de asemenea, casa unor animale precum capra neagră, marmotele și rara salamandră de pârâu din Pirinei. Face parte din Rezervația Biosferei UNESCO Ordino.",
       en: "The Sorteny Valley Nature Park, located in the parish of Ordino, is a protected natural area renowned for its exceptional biodiversity, particularly its plant life. Often called the 'botanical garden of Andorra', the park is home to over 700 species of flowers and plants, many of which are native to the Pyrenees. The park covers over 1,000 hectares and is a haven for hikers, nature lovers, and scientists. There are several well-marked themed trails, a botanical garden with an information center, and a mountain hut ('Refugi Borda de Sorteny'). The park is also home to fauna such as the Pyrenean chamois, marmots, and the rare Pyrenean brook salamander. It's part of the Ordino UNESCO Biosphere Reserve. Biology K8 - Ecosystems and Biodiversity."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der Park wurde 1999 als erster Naturpark Andorras gegründet.",
+        "Er ist Teil des Biosphärenreservats Ordino.",
+        "Der Name 'Sorteny' leitet sich vom Wort für 'Quelle' ab.",
+        "Das Refugi Borda de Sorteny bietet ganzjährig Unterkunft.",
+        "Im Sommer werden geführte botanische und geologische Touren angeboten.",
+        "Der höchste Gipfel im Park ist der Pic de l'Estanyó (2.915 m)."
+        ],
       hu: [
         "A parkot 1999-ben hozták létre Andorra első természeti parkjaként.",
         "A park az Ordinoi Bioszféra Rezervátum része.",
@@ -1300,7 +1699,14 @@ export const andorraNature: POI[] = [
         "Nyáron vezetett botanikai és geológiai túrákat is szerveznek.",
         "Télen a park a sítúrázók és a hótalpasok kedvelt célpontja."
       ],
-      ro: [],
+      ro: [
+        "Parcul a fost creat în 1999 ca primul parc natural din Andorra.",
+        "Face parte din Rezervația Biosferei Ordino.",
+        "Numele 'Sorteny' provine de la cuvântul care înseamnă 'izvor'.",
+        "Refugiul Borda de Sorteny oferă cazare pe tot parcursul anului.",
+        "Vara sunt disponibile tururi ghidate botanice și geologice.",
+        "Cel mai înalt vârf din parc este Pic de l'Estanyó (2.915 m)."
+        ],
       en: [
         "The park was created in 1999.",
         "It is crossed by the Sorteny river, a tributary of the Valira del Nord.",
@@ -1311,12 +1717,11 @@ export const andorraNature: POI[] = [
         "The highest peak within the park is the Pic de l'Estanyó (2,915 m).",
         "The park's logo features the 'Grandalla', Andorra's national flower."
       ]
-    }
-  },
+    }, image: "/poi-images/nature-sorteny.webp"},
   {
     id: "nature-roc-del-quer",
     type: "landmark",
-    parent: "country-andorra",
+    parent: "city-canillo",
     coords: [1.6000, 42.5600],
     name: { de: "Mirador Roc del Quer", hu: "Mirador Roc del Quer", ro: "Mirador Roc del Quer", en: "Roc del Quer viewpoint" },
     description: {
@@ -1326,13 +1731,20 @@ export const andorraNature: POI[] = [
       en: "Observation deck with breathtaking views."
     },
     descriptionAdvanced: {
-      de: "",
+      de: "Der Aussichtspunkt Roc del Quer ist eine spektakuläre Aussichtsplattform in der Gemeinde Canillo. Er verfügt über einen 20 Meter langen Steg, von dem 12 Meter über dem Abgrund schweben und ein aufregendes Erlebnis schaffen. Am Ende des Stegs befindet sich ein Glasboden und eine markante Skulptur eines nachdenklichen Mannes, 'Der Denker'. Der Aussichtspunkt bietet einen unvergleichlichen Panoramablick auf die Täler von Canillo und Encamp und ist leicht mit dem Auto oder einem Touristenbus erreichbar.",
       hu: "A Roc del Quer kilátó egy lenyűgöző mérnöki alkotás és turisztikai látványosság Canillo közösségben, a Coll d'Ordino hágóra vezető úton. A kilátó egy 20 méter hosszú palló, amely 12 méter hosszan kinyúlik a hegyoldalból, több száz méteres mélység felett lebegve. A palló végén áll 'A gondolkodó' szobra, egy emberalak, aki a lába alatt elterülő völgyet és a hegyeket szemléli. A kilátóról páratlan, 180 fokos panoráma nyílik Canillo és Encamp völgyeire, valamint a környező hegycsúcsokra. A palló egy része üvegből készült, ami tovább fokozza az adrenalin-élményt. A Roc del Quer a közeli Tibeti híddal együtt Andorra egyik legnépszerűbb modern kori attrakciójává vált.",
-      ro: "",
+      ro: "Punctul de belvedere Roc del Quer este o platformă de observare spectaculoasă din parohia Canillo. Dispune de o pasarelă lungă de 20 de metri, din care 12 metri sunt suspendați deasupra prăpastiei, creând o experiență palpitantă. La capătul pasarelei se află o podea de sticlă și o sculptură izbitoare a unui om gânditor, 'Gânditorul'. Punctul de belvedere oferă vederi panoramice de neegalat asupra văilor Canillo și Encamp și este ușor accesibil cu mașina sau cu un autobuz turistic.",
       en: "The Roc del Quer viewpoint is a spectacular observation deck located in the parish of Canillo, offering breathtaking panoramic views over the valleys of Montaup and Valira d'Orient. The viewpoint features a 20-meter-long walkway, 12 meters of which are suspended over thin air, creating a thrilling and immersive experience. The end of the walkway has a glass floor, allowing visitors to see the valley floor hundreds of meters below. At the very tip of the platform sits a striking sculpture of a pensive man, 'The Ponderer', by artist Miguel Ángel González. The viewpoint is easily accessible by car or by a tourist bus from Canillo and has become one of Andorra's most photographed modern attractions. Engineering & Design K7 - Structural Design and Materials."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Der Aussichtspunkt liegt auf 1.920 Metern Höhe.",
+        "Die Skulptur am Ende des Stegs ist von Miguel Ángel Gónzalez.",
+        "Der Eintritt zum Steg ist kostenpflichtig.",
+        "Die Struktur ist so konzipiert, dass sie starkem Schnee und Wind standhält.",
+        "Er wurde 2016 eingeweiht.",
+        "Der Ort ist besonders bei Sonnenuntergang spektakulär."
+        ],
       hu: [
         "A kilátó 1920 méteres tengerszint feletti magasságban található.",
         "A palló végén ülő szobor Miguel Ángel Gónzalez alkotása.",
@@ -1343,7 +1755,14 @@ export const andorraNature: POI[] = [
         "A kilátóhoz vezető út télen havas vagy jeges lehet, ezért óvatosság szükséges.",
         "A hely naplementekor különösen látványos."
       ],
-      ro: [],
+      ro: [
+        "Punctul de belvedere se află la o altitudine de 1.920 de metri.",
+        "Sculptura de la capătul pasarelei este realizată de Miguel Ángel Gónzalez.",
+        "Accesul pe pasarelă este contra cost.",
+        "Structura este proiectată pentru a rezista la zăpadă abundentă și vânturi puternice.",
+        "A fost inaugurat în 2016.",
+        "Locul este deosebit de spectaculos la apus."
+        ],
       en: [
         "The viewpoint is located on the Coll d'Ordino mountain road at an altitude of 1,913 meters.",
         "The walkway juts out from the rock face, providing an unobstructed 180-degree view.",
@@ -1354,263 +1773,69 @@ export const andorraNature: POI[] = [
         "The viewpoint is part of a scenic route that also includes the nearby Tibetan Bridge.",
         "It is a popular spot for watching sunsets."
       ]
-    }
-  }
+    }, image: "/poi-images/nature-roc-del-quer.webp"}
 ];
 
 export const andorraRegions: POI[] = [
   {
-    id: "AD-001",
+    id: "AD-07",
     type: "region",
     parent: "country-andorra",
-    coords: [1.5332, 42.5562],
-    name: { de: "Ordino", hu: "Ordino", ro: "Ordino", en: "Ordino" },
+    coords: [1.5218, 42.5063],
+    name: { de: "Andorra la Vella", hu: "Andorra la Vella", ro: "Andorra la Vella", en: "Andorra la Vella" },
     description: {
-      de: "Eine malerische Gemeinde im Norden, bekannt für ihre gut erhaltenen Steinhäuser und Natur.",
-      hu: "Festői közösség északon, amely jól megőrzött kőházairól és természeti szépségeiről ismert.",
-      ro: "O parohie pitorească în nord, cunoscută pentru casele de piatră bine conservate și natură.",
-      en: "A picturesque parish in the north, known for its well-preserved stone houses and nature."
+      de: "Die Hauptstadt und das pulsierende Herz des Fürstentums.",
+      hu: "A főváros és a hercegség lüktető szíve.",
+      ro: "Capitala și inima vibrantă a principatului.",
+      en: "The capital and the vibrant heart of the principality."
     },
     descriptionAdvanced: {
-      de: "Ordino ist die nordwestlichste Gemeinde Andorras und gilt als deren kulturelles Zentrum. Die gesamte Gemeinde wurde von der UNESCO zum Biosphärenreservat erklärt, was ihr Engagement für die Erhaltung des Gleichgewichts zwischen Mensch und Natur unterstreicht. Die Landschaft ist geprägt von hohen Gipfeln, darunter der Pic de Tristaina und der Pic de l'Estanyó. Das Skigebiet Ordino-Arcalís ist ein Paradies für Freerider. Die Dörfer wie Ordino, La Cortinada oder Ansalonga haben ihren traditionellen Charme mit Steinhäusern und Schieferdächern bewahrt. Kulturelle Highlights sind das Museum Casa d'Areny-Plandolit und die Eisenroute.",
-      hu: "Ordino, Andorra északnyugati, leginkább érintetlen közössége, melynek teljes területe UNESCO bioszféra-rezervátum. Ez a cím is jelzi a régió elkötelezettségét a természet és az emberi tevékenység harmonikus egyensúlyának megőrzése mellett. A tájat magas csúcsok uralják, mint a Pic de Tristaina és a Pic de l'Estanyó. A falvak, mint Ordino, La Cortinada vagy Ansalonga, megőrizték hagyományos pireneusi építészetüket kőházaikkal és palatetőikkel. A kulturális örökség és a természeti szépségek egyedülálló ötvözete ez, ahol a Vasút (Ruta del Ferro) az ipari múltat, a Sorteny-völgy pedig a botanikai gazdagságot tárja fel. Földrajz K8 - Bioszféra-rezervátumok és fenntartható fejlődés.",
-      ro: "",
-      en: "Ordino, located in the northwest, is Andorra's most preserved parish and its entire territory is a designated UNESCO Biosphere Reserve. This status highlights the region's commitment to maintaining a harmonious balance between nature and human activity. The landscape is dominated by high peaks like Pic de Tristaina and Pic de l'Estanyó. Villages such as Ordino, La Cortinada, and Ansalonga have retained their traditional Pyrenean architecture with stone houses and slate roofs. It is a unique blend of cultural heritage and natural beauty, where the Iron Route (Ruta del Ferro) explores industrial history and the Sorteny Valley reveals botanical richness. Geography K8 - Biosphere Reserves and Sustainable Development."
+      de: "Andorra la Vella ist die Hauptstadt und das politische, wirtschaftliche und kulturelle Zentrum des Fürstentums. Sie ist die höchstgelegene Hauptstadt Europas und ein Einkaufsparadies mit zollfreien Geschäften entlang der Avinguda Meritxell. Neben dem modernen Treiben bietet das historische Viertel 'Barri Antic' mit der Casa de la Vall, dem ehemaligen Parlamentssitz, einen Einblick in die Vergangenheit. Die Skulptur 'Die Noblesse der Zeit' von Salvador Dalí ist zu einem modernen Wahrzeichen geworden.",
+      hu: "Andorra la Vella, a hercegség fővárosa és lüktető szíve, Európa legmagasabban fekvő fővárosa. A város a politikai, gazdasági és kulturális élet központja. A bevásárlóturizmus fellegvára, melynek fő artériái a Meritxell és a Príncep Benlloch sugárutak, tele vámmentes üzletekkel. A modern forgatag mellett a 'Barri Antic' (Óváros) macskaköves utcái történelmi hangulatot árasztanak, itt áll a Casa de la Vall, a régi parlament épülete. A modern építészetet a parlament új épülete és a kormányzati negyed képviseli. Salvador Dalí 'Az idő nemessége' című szobra a város egyik legnépszerűbb fotópontja. Andorra la Vella egy kozmopolita város, ahol a hegyvidéki táj és a modern városi élet találkozik. Társadalomföldrajz K8 - Fővárosok szerepe egy ország életében.",
+      ro: "Andorra la Vella, capitala și inima vibrantă a principatului, este cea mai înaltă capitală din Europa. Orașul este centrul vieții politice, economice și culturale. Este un paradis al turismului de cumpărături, cu principalele sale artere, Avinguda Meritxell și Avinguda Príncep Benlloch, pline de magazine duty-free. Pe lângă agitația modernă, străzile pietruite din 'Barri Antic' (Orașul Vechi) emană o atmosferă istorică, găzduind Casa de la Vall, vechea clădire a parlamentului. Arhitectura modernă este reprezentată de noua clădire a parlamentului și de cartierul guvernamental.",
+      en: "Andorra la Vella, the capital and vibrant heart of the principality, is Europe's highest capital city. The city is the center of political, economic, and cultural life. It's a haven for shopping tourism, with its main arteries, Avinguda Meritxell and Avinguda Príncep Benlloch, filled with duty-free shops. Besides the modern hustle and bustle, the 'Barri Antic' (Old Town) with its cobblestone streets exudes a historical atmosphere, home to the Casa de la Vall, the old parliament building. Modern architecture is represented by the new parliament building and the government quarter. Salvador Dalí's sculpture 'The Nobility of Time' is one of the city's most popular photo spots. Andorra la Vella is a cosmopolitan city where mountain scenery meets modern urban life. Social Geography K8 - The Role of Capital Cities in a Country's Life."
     },
     factsAdvanced: {
       de: [
-        "Ordino hat die geringste Bevölkerungsdichte in Andorra.",
-        "Der Naturpark Sorteny ist für seinen botanischen Reichtum bekannt.",
-        "Das Nationale Auditorium von Andorra befindet sich in Ordino.",
-        "Die Eisenroute (Ruta del Ferro) folgt den Spuren der alten Eisenindustrie.",
-        "Das Dorf Ordino war der letzte Ort in Andorra, der eine asphaltierte Straße erhielt.",
-        "Die Gastronomie ist für ihre traditionellen Gerichte wie 'trinxat' oder Reis mit Pilzen bekannt."
-      ],
+        "Andorra la Vella ist die bevölkerungsreichste Gemeinde des Landes.",
+        "Die Gemeinde umfasst auch die Stadt Santa Coloma.",
+        "Die Kirche Sant Esteve hat eine romanische Apsis aus dem 12. Jahrhundert.",
+        "Der Parc Central ist die grüne Lunge der Stadt und ein beliebter Erholungsort.",
+        "Die Festa Major, das größte Fest der Stadt, findet jährlich Anfang August statt.",
+        "Von Westen her bietet die Stadt Zugang zum UNESCO-Welterbetal Madriu-Perafita-Claror."
+        ],
       hu: [
-        "Ordino rendelkezik a legalacsonyabb népsűrűséggel Andorrában.",
-        "Itt található az ország Nemzeti Auditóriuma, a komolyzenei élet központja.",
-        "A Postamúzeum bemutatja az andorrai postaszolgálat egyedülálló, spanyol-francia kettős rendszerét.",
-        "Az Ordino-Arcalís síterep a freeride síelés nemzetközileg elismert paradicsoma.",
-        "A helyi gasztronómia híres fogása a 'trinxat', egy káposztás-burgonyás étel.",
-        "A Miniatűr Múzeum Nicolai Siadristy lélegzetelállító mikroszkopikus alkotásait őrzi.",
-        "A közösség címerében a hegyek és a víz motívumai is megjelennek.",
-        "A régióban a dohánytermesztés helyett a turizmus vált a fő bevételi forrássá."
+        "Andorra la Vella a legnépesebb közösség az országban.",
+        "A közösséghez tartozik a főváros és Santa Coloma település is.",
+        "A Sant Esteve templom 12. századi román kori apszissal rendelkezik.",
+        "A Parc Central a város zöld tüdeje, népszerű pihenőhely.",
+        "A város nagy ünnepe, a Festa Major, minden év augusztus elején zajlik.",
+        "Nyugatról innen lehet belépni a Madriu-Perafita-Claror UNESCO világörökségi völgybe.",
+        "A város 1023 méteres tengerszint feletti magasságban fekszik.",
+        "A város címere egy zöld fát ábrázol kék háttér előtt, utalva a völgyre és a folyóra."
       ],
-      ro: [],
+      ro: [
+        "Andorra la Vella este cea mai populată parohie din țară.",
+        "Parohia include și orașul Santa Coloma.",
+        "Biserica Sant Esteve are o absidă romanică din secolul al XII-lea.",
+        "Parc Central este plămânul verde al orașului și un loc popular de recreere.",
+        "Festa Major, cea mai mare sărbătoare a orașului, are loc anual la începutul lunii august.",
+        "Din vest, orașul oferă acces la Valea Madriu-Perafita-Claror, sit al Patrimoniului Mondial UNESCO."
+        ],
       en: [
-        "Ordino has the lowest population density in Andorra.",
-        "It is home to the country's National Auditorium, the center of classical music life.",
-        "The Postal Museum explains Andorra's unique dual Spanish-French postal system.",
-        "The Ordino-Arcalís ski resort is an internationally acclaimed paradise for freeride skiing.",
-        "A famous local gastronomic dish is 'trinxat', made from cabbage and potatoes.",
-        "The Miniature Museum houses the breathtaking microscopic creations of Nicolai Siadristy.",
-        "The parish's coat of arms features motifs of mountains and water.",
-        "In this region, tourism has replaced tobacco cultivation as the main source of income."
+        "Andorra la Vella is the most populous parish in the country.",
+        "The parish also includes the town of Santa Coloma.",
+        "The Church of Sant Esteve has a 12th-century Romanesque apse.",
+        "Parc Central is the city's green lung and a popular recreational spot.",
+        "The city's major festival, the Festa Major, takes place annually in early August.",
+        "From the west, the city provides access to the Madriu-Perafita-Claror UNESCO World Heritage Valley.",
+        "The city is located at an altitude of 1,023 meters above sea level.",
+        "The city's coat of arms depicts a green tree on a blue background, referring to the valley and the river."
       ]
     }
   },
-  {
-    id: "AD-002",
-    type: "region",
-    parent: "country-andorra",
-    coords: [1.5976, 42.5671],
-    name: { de: "Canillo", hu: "Canillo", ro: "Canillo", en: "Canillo" },
-    description: {
-      de: "Die flächenmäßig größte Gemeinde Andorras und ein wichtiges religiöses Zentrum.",
-      hu: "Andorra legnagyobb területű közössége és fontos vallási központja.",
-      ro: "Cea mai mare parohie din punct de vedere al suprafeței și un important centru religios.",
-      en: "The largest parish in Andorra by area and an important religious center."
-    },
-    descriptionAdvanced: {
-      de: "Canillo ist die flächenmäßig größte der sieben Gemeinden Andorras und ein wichtiges touristisches und religiöses Zentrum. Hier befindet sich das Heiligtum von Meritxell, die Heimat der Schutzpatronin des Landes. Die Gemeinde ist ein Hauptzugangspunkt zum Skigebiet Grandvalira, mit Sektoren in Canillo, Soldeu und El Tarter. Zu den modernen Attraktionen gehören der Aussichtspunkt Roc del Quer und die Tibetische Brücke von Canillo. Trotz seiner Modernität bewahrt Canillo auch Schätze der romanischen Kunst, wie die Kirche Sant Joan de Caselles. Der Palau de Gel (Eispalast) in Canillo bietet das ganze Jahr über Freizeitaktivitäten.",
-      hu: "Canillo, Andorra legnagyobb területű közössége, a vallási és kalandturizmus központja. Itt emelkedik a Meritxell-szentély, az ország védőszentjének otthona, melynek modern bazilikáját Ricardo Bofill tervezte. A közösség a Grandvalira sírégió kulcsfontosságú része, a Soldeu-El Tarter és Canillo szektorokkal. A modern kor vonzerejét a Roc del Quer kilátó lebegő pallója és a világ egyik leghosszabb gyalogos függőhídja, a Tibeti híd képviseli. Canillo sikeresen ötvözi a modern fejlesztéseket a történelmi örökség megőrzésével, amire a Sant Joan de Caselles román kori templom a legjobb példa. Építészet K8 - Tradíció és innováció a hegyvidéki építészetben.",
-      ro: "",
-      en: "Canillo, Andorra's largest parish by area, is a hub for religious and adventure tourism. It is home to the Sanctuary of Meritxell, dedicated to the country's patron saint, with a modern basilica designed by Ricardo Bofill. The parish is a key part of the Grandvalira ski region, with the Soldeu-El Tarter and Canillo sectors. Modern attractions include the floating walkway of the Roc del Quer viewpoint and the Tibetan Bridge, one of the world's longest pedestrian suspension bridges. Canillo successfully combines modern development with the preservation of historical heritage, best exemplified by the Romanesque church of Sant Joan de Caselles. Architecture K8 - Tradition and Innovation in Mountain Architecture."
-    },
-    factsAdvanced: {
-      de: [
-        "Soldeu, ein Dorf in Canillo, ist regelmäßiger Austragungsort von alpinen Ski-Weltcup-Rennen.",
-        "Die Tibetische Brücke von Canillo ist 603 Meter lang.",
-        "Canillo ist die höchstgelegene Gemeinde des Landes.",
-        "Das Motorradmuseum in Canillo zeigt eine bedeutende Sammlung historischer Zweiräder.",
-        "Der Nationalfeiertag Andorras am 8. September wird zu Ehren der Muttergottes von Meritxell gefeiert.",
-        "Die Gemeinde besteht aus zahlreichen kleinen Dörfern und Weilern wie Incles, Prats oder Ransol."
-      ],
-      hu: [
-        "Soldeu településen rendszeresen rendeznek alpesi sí világkupa-futamokat.",
-        "A Tibeti híd 603 méter hosszú és 158 méter magasan ível át a völgy felett.",
-        "Canillo az ország legmagasabban fekvő közössége.",
-        "A Motorkerékpár-múzeum Európa egyik legjelentősebb magángyűjteményét mutatja be.",
-        "Szeptember 8-a, a Meritxelli Szűzanya napja, Andorra nemzeti ünnepe.",
-        "A Palau de Gel (Jégpalota) egész évben nyitva álló sportkomplexum.",
-        "A Val d'Incles egy L-alakú gleccservölgy, amely nyáron népszerű túrahelyszín.",
-        "A közösség több mint tíz kisebb faluból és településrészből áll."
-      ],
-      ro: [],
-      en: [
-        "The village of Soldeu regularly hosts Alpine Ski World Cup races.",
-        "The Tibetan Bridge is 603 meters long and spans the valley at a height of 158 meters.",
-        "Canillo is the highest parish in the country.",
-        "The Motorcycle Museum displays one of Europe's most significant private collections.",
-        "September 8th, the day of Our Lady of Meritxell, is Andorra's national holiday.",
-        "The Palau de Gel (Ice Palace) is a sports complex open year-round.",
-        "The Val d'Incles is a U-shaped glacial valley and a popular hiking spot in summer.",
-        "The parish consists of more than ten small villages and hamlets."
-      ]
-    }
-  },
-  {
-    id: "AD-003",
-    type: "region",
-    parent: "country-andorra",
-    coords: [1.5801, 42.5360],
-    name: { de: "Encamp", hu: "Encamp", ro: "Encamp", en: "Encamp" },
-    description: {
-      de: "Eine zentrale Gemeinde mit einer Mischung aus Tradition und modernem Skitourismus.",
-      hu: "Központi fekvésű közösség, ahol keveredik a hagyomány és a modern síturizmus.",
-      ro: "O parohie centrală cu un amestec de tradiție și turism de schi modern.",
-      en: "A central parish with a mix of tradition and modern ski tourism."
-    },
-    descriptionAdvanced: {
-      de: "Encamp liegt im Herzen von Andorra und ist eine Gemeinde der Kontraste. Sie besteht aus zwei sehr unterschiedlichen Hauptorten: Encamp, einem städtischen Zentrum nahe der Hauptstadt, und Pas de la Casa, einem hochgelegenen Skiort an der französischen Grenze. Der Funicamp, eine 6 km lange Seilbahn, verbindet Encamp direkt mit dem Herzen des Skigebiets Grandvalira. Kulturell bietet Encamp das Nationale Automobilmuseum und das Elektrizitätsmuseum. Das historische Ensemble von Les Bons, mit seiner romanischen Kirche und dem Verteidigungsturm, zeugt von der mittelalterlichen Vergangenheit der Region.",
-      hu: "Encamp, Andorra földrajzi középpontjában, a kontrasztok közössége. Magában foglalja a főváros közeli, nyüzsgő Encamp várost és a francia határon fekvő, magashegyi síparadicsomot, Pas de la Casát. A két településrészt a Pireneusok legmagasabb közúti hágója, a Port d'Envalira is összeköti. A Funicamp, egy 6 km hosszú kabinos felvonó, közvetlen összeköttetést biztosít Encampból a Grandvalira síterep szívébe. A technikai érdekességek iránt fogékonyak számára az Autómúzeum és az Elektromossági Múzeum kínál egyedülálló élményt, míg a Les Bons történelmi komplexum a középkori Andorra világába kalauzol. Technika és történelem K8 - Az infrastruktúra hatása a hegyvidéki közösségekre.",
-      ro: "",
-      en: "Encamp, in the geographical center of Andorra, is a parish of contrasts. It includes the bustling town of Encamp near the capital and the high-altitude ski paradise of Pas de la Casa on the French border. The two settlements are also connected by the Port d'Envalira, the highest road pass in the Pyrenees. The Funicamp, a 6 km long cable car, provides a direct link from Encamp to the heart of the Grandvalira ski area. For those interested in technology, the Automobile Museum and the Electricity Museum offer unique experiences, while the Les Bons historical complex transports visitors to medieval Andorra. Technology and History K8 - The Impact of Infrastructure on Mountain Communities."
-    },
-    factsAdvanced: {
-      de: [
-        "Pas de la Casa ist der einzige Grenzübergang nach Frankreich.",
-        "Der Port d'Envalira ist der höchste Straßenpass der Pyrenäen.",
-        "Die Pfarrkirche Santa Eulàlia in Encamp hat den höchsten romanischen Glockenturm in Andorra.",
-        "Das Fest von Sant Joan wird im Juni mit traditionellen Fallas (Fackeln) gefeiert.",
-        "Der Gletschersee-Kreis von Pessons befindet sich im Sektor Grau Roig.",
-        "Encamp ist die drittbevölkerungsreichste Gemeinde des Landes."
-      ],
-      hu: [
-        "Pas de la Casa az egyetlen közúti határátkelő Andorra és Franciaország között.",
-        "A Port d'Envalira hágó 2408 méter magas.",
-        "A Santa Eulàlia templom román stílusú harangtornya a legmagasabb az országban.",
-        "A 'falles' nevű nyári napfordulós fáklyás felvonulás az UNESCO szellemi kulturális örökség része.",
-        "A Pessons-tavak gleccsertó-együttese a Grau Roig szektorban található, amely a közösséghez tartozik.",
-        "Encamp Andorra harmadik legnépesebb közössége.",
-        "A rádiózás iránt érdeklődők számára a Radio Andorra egykori adóállomása is látogatható.",
-        "Az Engolasters-tó vízerőműve látja el az ország jelentős részét energiával."
-      ],
-      ro: [],
-      en: [
-        "Pas de la Casa is the only road border crossing between Andorra and France.",
-        "The Port d'Envalira pass is 2,408 meters high.",
-        "The Romanesque bell tower of the Santa Eulàlia church is the tallest in the country.",
-        "The 'falles', a summer solstice torchlight procession, is part of UNESCO's intangible cultural heritage.",
-        "The Pessons glacial lake complex is located in the Grau Roig sector, which belongs to the parish.",
-        "Encamp is the third most populous parish in Andorra.",
-        "For radio enthusiasts, the former transmitter station of Radio Andorra can be visited.",
-        "The Engolasters Lake hydroelectric power station supplies a significant part of the country with energy."
-      ]
-    }
-  },
-  {
-    id: "AD-004",
-    type: "region",
-    parent: "country-andorra",
-    coords: [1.5149, 42.5449],
-    name: { de: "La Massana", hu: "La Massana", ro: "La Massana", en: "La Massana" },
-    description: {
-      de: "Heimat des höchsten Berges des Landes und beliebtes Ziel für Outdoor-Sportarten.",
-      hu: "Az ország legmagasabb hegyének otthona és a szabadtéri sportok kedvelt célpontja.",
-      ro: "Găzduiește cel mai înalt munte din țară și este o destinație populară pentru sporturi în aer liber.",
-      en: "Home to the country's highest mountain and a popular destination for outdoor sports."
-    },
-    descriptionAdvanced: {
-      de: "La Massana ist als die 'aktivste' Gemeinde Andorras bekannt und ein Paradies für Outdoor-Enthusiasten. Hier befindet sich der höchste Berg des Landes, der Coma Pedrosa (2.942 m), dessen Umgebung als Naturpark geschützt ist. Das Skigebiet Pal-Arinsal (Teil von Vallnord) bietet im Winter Pisten für alle Niveaus. Im Sommer wird es zum Vallnord Bike Park, einem der renommiertesten Mountainbike-Ziele Europas, das regelmäßig Weltcup-Veranstaltungen ausrichtet. Neben dem Sport bietet La Massana auch Kultur, wie das Comic-Museum und das Interpretationszentrum Farga Rossell, das die Bedeutung der Eisenindustrie zeigt.",
-      hu: "La Massana, az 'aktív' közösség, a szabadtéri sportok andorrai fellegvára. Itt emelkedik az ország legmagasabb pontja, a 2942 méteres Coma Pedrosa, amely egyben egy védett természeti park központja is. Télen a Pal-Arinsal síterep, nyáron pedig a világhírű Vallnord Bike Park vonzza a sportok szerelmeseit. A közösség központjából induló kabinos felvonó gyors és kényelmes hozzáférést biztosít a hegyekhez. La Massana azonban nemcsak a sportról szól; a Farga Rossell vaskohó-múzeum az ipari örökséget, a Képregénymúzeum pedig a modern művészeteket képviseli, bemutatva a közösség sokszínűségét. Földrajz és gazdaság K8 - A sportturizmusra épülő gazdasági modellek.",
-      ro: "",
-      en: "La Massana, the 'active' parish, is Andorra's stronghold for outdoor sports. It is home to the country's highest point, the 2,942-meter Coma Pedrosa, which is also the center of a protected nature park. In winter, the Pal-Arinsal ski resort attracts sports lovers, while in summer, it's the world-famous Vallnord Bike Park. A cable car from the parish center provides quick and convenient access to the mountains. However, La Massana is not just about sports; the Farga Rossell ironworks museum represents industrial heritage, and the Comic Museum showcases modern arts, demonstrating the parish's diversity. Geography and Economics K8 - Economic Models Based on Sports Tourism."
-    },
-    factsAdvanced: {
-      de: [
-        "Die Dörfer Pal und Arinsal sind wichtige Touristenzentren innerhalb der Gemeinde.",
-        "Die Seilbahn von La Massana bietet direkten Zugang zum Sektor Pal.",
-        "Das Dorf Pal ist ein gut erhaltenes Beispiel für traditionelle Pyrenäen-Architektur.",
-        "La Massana ist bekannt für seine lebhafte Atmosphäre mit vielen Restaurants und Bars.",
-        "Der Wochenmarkt findet jeden Donnerstagmorgen statt.",
-        "Die Kirche Sant Climent de Pal ist ein herausragendes Beispiel der romanischen Kunst."
-      ],
-      hu: [
-        "A Pal és Arinsal falvak a közösség két legfontosabb turisztikai központja.",
-        "A Vallnord Bike Park rendszeresen ad otthont mountain bike világkupa-futamoknak.",
-        "A Pal falu az egyik legjobb állapotban megőrzött példája a hagyományos pireneusi építészetnek.",
-        "A közösség híres a nyüzsgő, barátságos hangulatáról, számos étteremmel és bárral.",
-        "A Sant Climent de Pal templom ikerablakos harangtornya egyedülálló Andorrában.",
-        "A 'Ruta del Ferro' (Vas út) egy része áthalad a közösség területén.",
-        "Nyáron a sífelvonókat a túrázók és a hegyi kerékpárosok szállítására használják.",
-        "A közösségben több via ferrata (vasalt út) is található a sziklamászás kedvelőinek."
-      ],
-      ro: [],
-      en: [
-        "The villages of Pal and Arinsal are the two most important tourist centers in the parish.",
-        "The Vallnord Bike Park regularly hosts mountain bike World Cup races.",
-        "The village of Pal is one of the best-preserved examples of traditional Pyrenean architecture.",
-        "The parish is famous for its lively, friendly atmosphere with numerous restaurants and bars.",
-        "The twin-windowed bell tower of the Sant Climent de Pal church is unique in Andorra.",
-        "Part of the 'Ruta del Ferro' (Iron Route) passes through the parish.",
-        "In summer, ski lifts are used to transport hikers and mountain bikers.",
-        "There are several via ferrata routes in the parish for climbing enthusiasts."
-      ]
-    }
-  },
-  {
-    id: "AD-005",
-    type: "region",
-    parent: "country-andorra",
-    coords: [1.4913, 42.4637],
-    name: { de: "Sant Julià de Lòria", hu: "Sant Julià de Lòria", ro: "Sant Julià de Lòria", en: "Sant Julià de Lòria" },
-    description: {
-      de: "Die südlichste Gemeinde, bekannt für ihr mildes Klima und die Tabaktradition.",
-      hu: "A legdélibb közösség, amely enyhe éghajlatáról és dohánytermesztési hagyományairól ismert.",
-      ro: "Cea mai sudică parohie, cunoscută pentru climatul blând și tradiția tutunului.",
-      en: "The southernmost parish, known for its mild climate and tobacco tradition."
-    },
-    descriptionAdvanced: {
-      de: "Sant Julià de Lòria ist das Tor zu Andorra von Spanien aus. Als südlichste und tiefstgelegene Gemeinde genießt sie ein milderes, mediterraneres Klima als der Rest des Landes. Historisch war die Region ein Zentrum des Tabakanbaus, wie das Tabakmuseum in der ehemaligen Reig-Fabrik eindrucksvoll dokumentiert. Die Hauptattraktion heute ist Naturlandia, ein riesiger Abenteuerpark in den Wäldern von La Rabassa, bekannt für seine Tiergehege und die alpine Rodelbahn Tobotronc. Die Gemeinde beherbergt auch einen Teil des Universitätscampus und hat ein lebendiges kulturelles Leben. Die Pont de la Margineda, eine mittelalterliche Brücke, ist ein wichtiges historisches Wahrzeichen.",
-      hu: "Sant Julià de Lòria, Andorra déli kapuja, ahol az ország a szomszédos Spanyolországgal találkozik. Legalacsonyabb fekvésének köszönhetően klímája enyhébb, ami történelmileg a dohánytermesztés központjává tette. Ezt a múltat a Dohánymúzeum őrzi. Ma a közösség fő vonzereje a Naturlandia kalandpark, amely a La Rabassa erdőben helyezkedik el, és olyan egyedülálló attrakciókkal büszkélkedhet, mint a Tobotronc, a világ leghosszabb természetes szánkópályája. Sant Julià de Lòria emellett egyetemi város is, az Andorrai Egyetem campusa élénk, fiatalos hangulatot kölcsönöz neki. A középkori Pont de la Margineda híd a történelmi örökség fontos tanúja. Gazdaságföldrajz K7 - Mezőgazdaságtól a szolgáltatásokig: egy régió átalakulása.",
-      ro: "",
-      en: "Sant Julià de Lòria, Andorra's southern gateway, is where the country meets neighboring Spain. Due to its lower altitude, its climate is milder, which historically made it the center of tobacco cultivation. This past is preserved in the Tobacco Museum. Today, the parish's main attraction is the Naturlandia adventure park, located in the La Rabassa forest, boasting unique attractions like the Tobotronc, the world's longest natural toboggan run. Sant Julià de Lòria is also a university town, with the University of Andorra campus giving it a lively, youthful atmosphere. The medieval Pont de la Margineda bridge is an important witness to its historical heritage. Economic Geography K7 - From Agriculture to Services: The Transformation of a Region."
-    },
-    factsAdvanced: {
-      de: [
-        "Die Gemeinde grenzt an die spanische Region Katalonien.",
-        "Der Tobotronc ist mit 5,3 km die längste alpine Rodelbahn der Welt.",
-        "Die Kirche Sant Serni de Nagol aus dem 11. Jahrhundert ist ein Juwel der Romanik.",
-        "In Sant Julià de Lòria gibt es zahlreiche Weingüter, die die Weinbautradition wiederbeleben.",
-        "Die Festa Major von Sant Julià ist eine der größten in Andorra.",
-        "Der Grenzübergang ist rund um die Uhr geöffnet."
-      ],
-      hu: [
-        "A közösség közvetlenül határos a spanyolországi Katalóniával.",
-        "A Tobotronc 5,3 km hosszú és 400 méter szintkülönbséget küzd le.",
-        "A 11. századi Sant Serni de Nagol templom egy sziklaszirtre épült.",
-        "A közösségben újjáéled a bortermelés, több magaslati borászat is működik itt.",
-        "Itt található Andorra egyetlen állandó határátkelője Spanyolország felé.",
-        "A Naturlandia állatparkjában a Pireneusok őshonos állatai láthatók természetes környezetükben.",
-        "A közösség Festa Major ünnepe az egyik legnagyobb és legnépszerűbb az országban.",
-        "A Juberri kortárs szoborkert egy meglepő és érdekes látnivaló."
-      ],
-      ro: [],
-      en: [
-        "The parish directly borders the Spanish region of Catalonia.",
-        "The Tobotronc is 5.3 km long and descends 400 meters in altitude.",
-        "The 11th-century church of Sant Serni de Nagol is built on a cliff.",
-        "Wine production is being revived in the parish, with several high-altitude wineries operating here.",
-        "Andorra's only permanent border crossing with Spain is located here.",
-        "Native Pyrenean animals can be seen in their natural environment at the Naturlandia animal park.",
-        "The parish's Festa Major celebration is one of the largest and most popular in the country.",
-        "The Juberri contemporary sculpture garden is a surprising and interesting sight."
-      ]
-    }
-  },
-  {
-    id: "AD-006",
+    {
+    id: "AD-08",
     type: "region",
     parent: "country-andorra",
     coords: [1.5341, 42.5083],
@@ -1624,7 +1849,7 @@ export const andorraRegions: POI[] = [
     descriptionAdvanced: {
       de: "Escaldes-Engordany ist die jüngste Gemeinde Andorras, die 1978 durch die Abspaltung von Andorra la Vella entstand. Sie ist bekannt für ihr reichlich vorhandenes Thermalwasser, das im spektakulären Thermalzentrum Caldea-INÚU genutzt wird. Die Gemeinde ist ein wichtiges Handels- und Geschäftszentrum, dessen Hauptschlagader, die Avinguda Carlemany, eine Fußgängerzone ist, die zum Einkaufen einlädt. Ein Teil des UNESCO-Weltkulturerbes Madriu-Perafita-Claror-Tal liegt auf dem Gebiet der Gemeinde. Kulturell ist Escaldes-Engordany mit dem Carmen Thyssen Museum, dem Museum für Parfüm und dem Zentrum für Kunst (CAEE) sehr gut aufgestellt.",
       hu: "Escaldes-Engordany, Andorra legfiatalabb, 1978-ban alapított közössége, amely a termálvíz és a modern kereskedelem köré épült. Itt található a Caldea-INÚU, Európa legnagyobb hegyi termálfürdő-komplexuma, amelynek futurisztikus üvegépülete a város szimbólumává vált. A közösség gyakorlatilag egybeépült a fővárossal, a gyalogosított Avinguda Carlemany sugárút Andorra egyik legfontosabb bevásárlóutcája. A kereskedelem mellett a kultúra is fontos szerepet játszik: a Carmen Thyssen Múzeum, a Parfümmúzeum és a Művészeti Központ (CAEE) is itt kapott helyet. A közösség területére nyúlik be a Madriu-Perafita-Claror völgy, amely az UNESCO világörökség része. Városföldrajz K8 - Városfejlődés, funkcionális zónák.",
-      ro: "",
+      ro: "Escaldes-Engordany, cea mai tânără parohie a Andorrei, fondată în 1978, este construită în jurul apei termale și a comerțului modern. Aici se află Caldea-INÚU, cel mai mare complex balnear montan din Europa, a cărui clădire futuristă din sticlă a devenit un simbol al orașului. Parohia este practic unită cu capitala, iar bulevardul pietonal Avinguda Carlemany este una dintre cele mai importante străzi comerciale din Andorra. Pe lângă comerț, cultura joacă, de asemenea, un rol important: Muzeul Carmen Thyssen, Muzeul Parfumului și Centrul de Artă (CAEE) sunt toate situate aici. Parohia include, de asemenea, o parte din Valea Madriu-Perafita-Claror, un sit al Patrimoniului Mondial UNESCO.",
       en: "Escaldes-Engordany, Andorra's youngest parish founded in 1978, is built around thermal water and modern commerce. It is home to Caldea-INÚU, Europe's largest mountain thermal spa complex, whose futuristic glass building has become a symbol of the town. The parish is practically merged with the capital, and the pedestrianized Avinguda Carlemany is one of Andorra's most important shopping streets. Besides commerce, culture also plays a significant role: the Carmen Thyssen Museum, the Perfume Museum, and the Art Center (CAEE) are all located here. The parish also includes a part of the Madriu-Perafita-Claror Valley, a UNESCO World Heritage site. Urban Geography K8 - Urban Development, Functional Zones."
     },
     factsAdvanced: {
@@ -1635,7 +1860,7 @@ export const andorraRegions: POI[] = [
         "Das jährliche Jazzfestival ist eine wichtige kulturelle Veranstaltung.",
         "Der historische Kern von Engordany hat seine traditionelle Architektur bewahrt.",
         "Die Kirche Sant Pere Màrtir ist ein Beispiel für die Neo-Romanik."
-      ],
+        ],
       hu: [
         "Escaldes-Engordany Andorra második legnépesebb közössége.",
         "A 'caldes' szó forró vizet jelent, utalva a termálforrásokra.",
@@ -1646,7 +1871,14 @@ export const andorraRegions: POI[] = [
         "A közösség ad otthont Andorra központi kórházának is.",
         "A Valira d'Orient és a Valira del Nord folyók itt egyesülnek, létrehozva a Gran Valira folyót."
       ],
-      ro: [],
+      ro: [
+        "Escaldes-Engordany este a doua cea mai populată parohie din Andorra.",
+        "Cuvântul 'caldes' înseamnă apă fierbinte, referindu-se la izvoarele termale.",
+        "Centrul spa Caldea a fost proiectat de celebrul arhitect francez Jean-Michel Ruols.",
+        "Festivalul anual de jazz este un eveniment cultural important.",
+        "Centrul istoric al Engordany și-a păstrat arhitectura tradițională pirenaică.",
+        "Biserica Sant Pere Màrtir este un exemplu de stil neoromanic."
+        ],
       en: [
         "Escaldes-Engordany is the second most populous parish in Andorra.",
         "The word 'caldes' means hot water, referring to the thermal springs.",
@@ -1659,750 +1891,300 @@ export const andorraRegions: POI[] = [
       ]
     }
   },
-  {
-    id: "AD-007",
+    {
+    id: "AD-02",
     type: "region",
     parent: "country-andorra",
-    coords: [1.5218, 42.5063],
-    name: { de: "Andorra la Vella", hu: "Andorra la Vella", ro: "Andorra la Vella", en: "Andorra la Vella" },
+    coords: [1.5976, 42.5671],
+    name: { de: "Canillo", hu: "Canillo", ro: "Canillo", en: "Canillo" },
     description: {
-      de: "Die Hauptstadt und das pulsierende Herz des Fürstentums.",
-      hu: "A főváros és a hercegség lüktető szíve.",
-      ro: "Capitala și inima vibrantă a principatului.",
-      en: "The capital and the vibrant heart of the principality."
+      de: "Die flächenmäßig größte Gemeinde Andorras und ein wichtiges religiöses Zentrum.",
+      hu: "Andorra legnagyobb területű közössége és fontos vallási központja.",
+      ro: "Cea mai mare parohie din punct de vedere al suprafeței și un important centru religios.",
+      en: "The largest parish in Andorra by area and an important religious center."
     },
     descriptionAdvanced: {
-      de: "Andorra la Vella ist die Hauptstadt und das politische, wirtschaftliche und kulturelle Zentrum des Fürstentums. Sie ist die höchstgelegene Hauptstadt Europas und ein Einkaufsparadies mit zollfreien Geschäften entlang der Avinguda Meritxell und der Avinguda Príncep Benlloch. Neben dem modernen Treiben bietet das historische Viertel 'Barri Antic' mit seinen Kopfsteinpflasterstraßen und der Casa de la Vall, dem ehemaligen Parlamentssitz, einen Einblick in die Vergangenheit. Die Skulptur 'Die Noblesse der Zeit' von Salvador Dalí ist zu einem modernen Wahrzeichen der Stadt geworden.",
-      hu: "Andorra la Vella, a hercegség fővárosa és lüktető szíve, Európa legmagasabban fekvő fővárosa. A város a politikai, gazdasági és kulturális élet központja. A bevásárlóturizmus fellegvára, melynek fő artériái a Meritxell és a Príncep Benlloch sugárutak, tele vámmentes üzletekkel. A modern forgatag mellett a 'Barri Antic' (Óváros) macskaköves utcái történelmi hangulatot árasztanak, itt áll a Casa de la Vall, a régi parlament épülete. A modern építészetet a parlament új épülete és a kormányzati negyed képviseli. Salvador Dalí 'Az idő nemessége' című szobra a város egyik legnépszerűbb fotópontja. Andorra la Vella egy kozmopolita város, ahol a hegyvidéki táj és a modern városi élet találkozik. Társadalomföldrajz K8 - Fővárosok szerepe egy ország életében.",
-      ro: "",
-      en: "Andorra la Vella, the capital and vibrant heart of the principality, is Europe's highest capital city. The city is the center of political, economic, and cultural life. It's a haven for shopping tourism, with its main arteries, Avinguda Meritxell and Avinguda Príncep Benlloch, filled with duty-free shops. Besides the modern hustle and bustle, the 'Barri Antic' (Old Town) with its cobblestone streets exudes a historical atmosphere, home to the Casa de la Vall, the old parliament building. Modern architecture is represented by the new parliament building and the government quarter. Salvador Dalí's sculpture 'The Nobility of Time' is one of the city's most popular photo spots. Andorra la Vella is a cosmopolitan city where mountain scenery meets modern urban life. Social Geography K8 - The Role of Capital Cities in a Country's Life."
+      de: "Canillo ist flächenmäßig die größte der sieben Gemeinden Andorras und ein wichtiges touristisches und religiöses Zentrum. Hier befindet sich das Heiligtum von Meritxell, die Heimat der Schutzpatronin des Landes. Die Gemeinde ist ein Hauptzugangspunkt zum Skigebiet Grandvalira, mit Sektoren in Canillo, Soldeu und El Tarter. Zu den modernen Attraktionen gehören der Aussichtspunkt Roc del Quer und die Tibetische Brücke von Canillo. Trotz seiner Modernität bewahrt Canillo auch Schätze der romanischen Kunst, wie die Kirche Sant Joan de Caselles. Der Palau de Gel (Eispalast) in Canillo bietet das ganze Jahr über Freizeitaktivitäten.",
+      hu: "Canillo, Andorra legnagyobb területű közössége, a vallási és kalandturizmus központja. Itt emelkedik a Meritxell-szentély, az ország védőszentjének otthona, melynek modern bazilikáját Ricardo Bofill tervezte. A közösség a Grandvalira sírégió kulcsfontosságú része, a Soldeu-El Tarter és Canillo szektorokkal. A modern kor vonzerejét a Roc del Quer kilátó lebegő pallója és a világ egyik leghosszabb gyalogos függőhídja, a Tibeti híd képviseli. Canillo sikeresen ötvözi a modern fejlesztéseket a történelmi örökség megőrzésével, amire a Sant Joan de Caselles román kori templom a legjobb példa. Építészet K8 - Tradíció és innováció a hegyvidéki építészetben.",
+      ro: "Canillo, cea mai mare parohie din Andorra ca suprafață, este un centru al turismului religios și de aventură. Aici se află Sanctuarul Meritxell, casa sfintei patroane a țării, a cărui bazilică modernă a fost proiectată de Ricardo Bofill. Parohia este o parte cheie a regiunii de schi Grandvalira, cu sectoarele Soldeu-El Tarter și Canillo. Atracțiile moderne includ pasarela plutitoare a punctului de belvedere Roc del Quer și Podul Tibetan, unul dintre cele mai lungi poduri suspendate pentru pietoni din lume. Canillo combină cu succes dezvoltarea modernă cu conservarea patrimoniului istoric, cel mai bun exemplu fiind biserica romanică Sant Joan de Caselles.",
+      en: "Canillo, Andorra's largest parish by area, is a hub for religious and adventure tourism. It is home to the Sanctuary of Meritxell, dedicated to the country's patron saint, with a modern basilica designed by Ricardo Bofill. The parish is a key part of the Grandvalira ski region, with the Soldeu-El Tarter and Canillo sectors. Modern attractions include the floating walkway of the Roc del Quer viewpoint and the Tibetan Bridge, one of the world's longest pedestrian suspension bridges. Canillo successfully combines modern development with the preservation of historical heritage, best exemplified by the Romanesque church of Sant Joan de Caselles. Architecture K8 - Tradition and Innovation in Mountain Architecture."
     },
     factsAdvanced: {
       de: [
-        "Andorra la Vella ist die bevölkerungsreichste Gemeinde des Landes.",
-        "Die Gemeinde umfasst auch die Stadt Santa Coloma.",
-        "Die Kirche Sant Esteve hat eine romanische Apsis aus dem 12. Jahrhundert.",
-        "Der Parc Central ist die grüne Lunge der Stadt und ein beliebter Erholungsort.",
-        "Die Festa Major, das größte Fest der Stadt, findet jährlich Anfang August statt.",
-        "Von Westen her bietet die Stadt Zugang zum UNESCO-Welterbetal Madriu-Perafita-Claror."
-      ],
+        "Soldeu, ein Dorf in Canillo, ist regelmäßiger Austragungsort von alpinen Ski-Weltcup-Rennen.",
+        "Die Tibetische Brücke von Canillo ist 603 Meter lang.",
+        "Canillo ist die höchstgelegene Gemeinde des Landes.",
+        "Das Motorradmuseum in Canillo zeigt eine bedeutende Sammlung historischer Zweiräder.",
+        "Der Nationalfeiertag Andorras am 8. September wird zu Ehren der Muttergottes von Meritxell gefeiert.",
+        "Die Gemeinde besteht aus zahlreichen kleinen Dörfern und Weilern wie Incles, Prats oder Ransol."
+        ],
       hu: [
-        "Andorra la Vella a legnépesebb közösség az országban.",
-        "A közösséghez tartozik a főváros és Santa Coloma település is.",
-        "A Sant Esteve templom 12. századi román kori apszissal rendelkezik.",
-        "A Parc Central a város zöld tüdeje, népszerű pihenőhely.",
-        "A város nagy ünnepe, a Festa Major, minden év augusztus elején zajlik.",
-        "Nyugatról innen lehet belépni a Madriu-Perafita-Claror UNESCO világörökségi völgybe.",
-        "A város 1023 méteres tengerszint feletti magasságban fekszik.",
-        "A város címere egy zöld fát ábrázol kék háttér előtt, utalva a völgyre és a folyóra."
+        "Soldeu településen rendszeresen rendeznek alpesi sí világkupa-futamokat.",
+        "A Tibeti híd 603 méter hosszú és 158 méter magasan ível át a völgy felett.",
+        "Canillo az ország legmagasabban fekvő közössége.",
+        "A Motorkerékpár-múzeum Európa egyik legjelentősebb magángyűjteményét mutatja be.",
+        "Szeptember 8-a, a Meritxelli Szűzanya napja, Andorra nemzeti ünnepe.",
+        "A Palau de Gel (Jégpalota) egész évben nyitva álló sportkomplexum.",
+        "A Val d'Incles egy L-alakú gleccservölgy, amely nyáron népszerű túrahelyszín.",
+        "A közösség több mint tíz kisebb faluból és településrészből áll."
       ],
-      ro: [],
+      ro: [
+        "Satul Soldeu găzduiește regulat curse de Cupa Mondială de schi alpin.",
+        "Podul Tibetan are 603 metri lungime și se întinde la o înălțime de 158 de metri deasupra văii.",
+        "Canillo este cea mai înaltă parohie din țară.",
+        "Muzeul Motocicletelor prezintă una dintre cele mai importante colecții private din Europa.",
+        "8 septembrie, ziua Maicii Domnului de la Meritxell, este sărbătoarea națională a Andorrei.",
+        "Palatul de Gheață (Palau de Gel) este un complex sportiv deschis pe tot parcursul anului."
+        ],
       en: [
-        "Andorra la Vella is the most populous parish in the country.",
-        "The parish also includes the town of Santa Coloma.",
-        "The Church of Sant Esteve has a 12th-century Romanesque apse.",
-        "Parc Central is the city's green lung and a popular recreational spot.",
-        "The city's major festival, the Festa Major, takes place annually in early August.",
-        "From the west, the city provides access to the Madriu-Perafita-Claror UNESCO World Heritage Valley.",
-        "The city is located at an altitude of 1,023 meters above sea level.",
-        "The city's coat of arms depicts a green tree on a blue background, referring to the valley and the river."
+        "The village of Soldeu is a regular host of the FIS Alpine Ski World Cup.",
+        "The Tibetan Bridge is 603 meters long and is suspended 158 meters above the valley floor.",
+        "Canillo is the highest parish in the country.",
+        "The Palau de Gel (Ice Palace) in Canillo offers year-round activities like ice skating and karting.",
+        "Andorra's national day, September 8th, is celebrated in honor of Our Lady of Meritxell.",
+        "The Val d'Incles is a picturesque U-shaped valley, popular for hiking in the summer.",
+        "The Motorcycle Museum in Canillo displays an impressive private collection.",
+        "The parish is made up of numerous small villages and hamlets."
+      ]
+    }
+  },
+  {
+    id: "AD-03",
+    type: "region",
+    parent: "country-andorra",
+    coords: [1.5801, 42.5360],
+    name: { de: "Encamp", hu: "Encamp", ro: "Encamp", en: "Encamp" },
+    description: {
+      de: "Eine zentrale Gemeinde mit einer Mischung aus Tradition und modernem Skitourismus.",
+      hu: "Központi fekvésű közösség, ahol keveredik a hagyomány és a modern síturizmus.",
+      ro: "O parohie centrală cu un amestec de tradiție și turism de schi modern.",
+      en: "A central parish with a mix of tradition and modern ski tourism."
+    },
+    descriptionAdvanced: {
+      de: "Encamp liegt im Herzen von Andorra und ist eine Gemeinde der Kontraste. Sie besteht aus zwei sehr unterschiedlichen Hauptorten: Encamp, einem städtischen Zentrum nahe der Hauptstadt, und Pas de la Casa, einem hochgelegenen Skiort an der französischen Grenze. Der Funicamp, eine 6 km lange Seilbahn, verbindet Encamp direkt mit dem Herzen des Skigebiets Grandvalira. Kulturell bietet Encamp das Nationale Automobilmuseum und das Elektrizitätsmuseum. Das historische Ensemble von Les Bons, mit seiner romanischen Kirche und dem Verteidigungsturm, zeugt von der mittelalterlichen Vergangenheit der Region.",
+      hu: "Encamp, Andorra földrajzi középpontjában, a kontrasztok közössége. Magában foglalja a főváros közeli, nyüzsgő Encamp várost és a francia határon fekvő, magashegyi síparadicsomot, Pas de la Casát. A két településrészt a Pireneusok legmagasabb közúti hágója, a Port d'Envalira is összeköti. A Funicamp, egy 6 km hosszú kabinos felvonó, közvetlen összeköttetést biztosít Encampból a Grandvalira síterep szívébe. A technikai érdekességek iránt fogékonyak számára az Autómúzeum és az Elektromossági Múzeum kínál egyedülálló élményt, míg a Les Bons történelmi komplexum a középkori Andorra világába kalauzol. Technika és történelem K8 - Az infrastruktúra hatása a hegyvidéki közösségekre.",
+      ro: "Encamp, în centrul geografic al Andorrei, este o parohie a contrastelor. Include orașul aglomerat Encamp, aproape de capitală, și paradisul de schi de mare altitudine Pas de la Casa, la granița cu Franța. Cele două așezări sunt, de asemenea, conectate prin Port d'Envalira, cel mai înalt pas rutier din Pirinei. Funicamp, o telecabină de 6 km lungime, oferă o legătură directă de la Encamp la inima stațiunii de schi Grandvalira. Pentru cei interesați de tehnologie, Muzeul Automobilului și Muzeul Electricității oferă experiențe unice, în timp ce complexul istoric Les Bons transportă vizitatorii în Andorra medievală.",
+      en: "Encamp, in the geographical center of Andorra, is a parish of contrasts. It includes the bustling town of Encamp near the capital and the high-altitude ski paradise of Pas de la Casa on the French border. The two settlements are also connected by the Port d'Envalira, the highest road pass in the Pyrenees. The Funicamp, a 6 km long cable car, provides a direct link from Encamp to the heart of the Grandvalira ski area. For those interested in technology, the Automobile Museum and the Electricity Museum offer unique experiences, while the Les Bons historical complex transports visitors to medieval Andorra. Technology and History K8 - The Impact of Infrastructure on Mountain Communities."
+    },
+    factsAdvanced: {
+      de: [
+        "Pas de la Casa ist der einzige Grenzübergang nach Frankreich.",
+        "Der Port d'Envalira ist der höchste Straßenpass der Pyrenäen.",
+        "Die Pfarrkirche Santa Eulàlia in Encamp hat den höchsten romanischen Glockenturm in Andorra.",
+        "Das Fest von Sant Joan wird im Juni mit traditionellen Fallas (Fackeln) gefeiert.",
+        "Der Gletschersee-Kreis von Pessons befindet sich im Sektor Grau Roig.",
+        "Encamp ist die drittbevölkerungsreichste Gemeinde des Landes."
+        ],
+      hu: [
+        "Pas de la Casa az egyetlen közúti határátkelő Andorra és Franciaország között.",
+        "A Port d'Envalira hágó 2408 méter magas.",
+        "A Santa Eulàlia templom román stílusú harangtornya a legmagasabb az országban.",
+        "A 'falles' nevű nyári napfordulós fáklyás felvonulás az UNESCO szellemi kulturális örökség része.",
+        "A Pessons-tavak gleccsertó-együttese a Grau Roig szektorban található, amely a közösséghez tartozik.",
+        "Encamp Andorra harmadik legnépesebb közössége.",
+        "A rádiózás iránt érdeklődők számára a Radio Andorra egykori adóállomása is látogatható.",
+        "Az Engolasters-tó vízerőműve látja el az ország jelentős részét energiával."
+      ],
+      ro: [
+        "Pas de la Casa este singurul punct de trecere a frontierei rutiere între Andorra și Franța.",
+        "Pasul Port d'Envalira are o altitudine de 2.408 metri.",
+        "Turnul clopotniță romanic al bisericii Santa Eulàlia este cel mai înalt din țară.",
+        "Procesiunea cu torțe 'falles' de la solstițiul de vară face parte din patrimoniul cultural imaterial al UNESCO.",
+        "Complexul lacurilor glaciare Pessons se află în sectorul Grau Roig, care aparține parohiei.",
+        "Encamp este a treia cea mai populată parohie din Andorra."
+        ],
+      en: [
+        "Pas de la Casa is the only road border crossing between Andorra and France.",
+        "The Port d'Envalira pass is 2,408 meters high.",
+        "The Romanesque bell tower of the Santa Eulàlia church is the tallest in the country.",
+        "The 'falles', a summer solstice torchlight procession, is part of UNESCO's intangible cultural heritage.",
+        "The Pessons glacial lake complex is located in the Grau Roig sector, which belongs to the parish.",
+        "Encamp is the third most populous parish in Andorra.",
+        "For radio enthusiasts, the former transmitter station of Radio Andorra can be visited.",
+        "The Engolasters Lake hydroelectric power station supplies a significant part of the country with energy."
+      ]
+    }
+  },
+    {
+    id: "AD-04",
+    type: "region",
+    parent: "country-andorra",
+    coords: [1.5149, 42.5449],
+    name: { de: "La Massana", hu: "La Massana", ro: "La Massana", en: "La Massana" },
+    description: {
+      de: "Heimat des höchsten Berges des Landes und beliebtes Ziel für Outdoor-Sportarten.",
+      hu: "Az ország legmagasabb hegyének otthona és a szabadtéri sportok kedvelt célpontja.",
+      ro: "Găzduiește cel mai înalt munte din țară și este o destinație populară pentru sporturi în aer liber.",
+      en: "Home to the country's highest mountain and a popular destination for outdoor sports."
+    },
+    descriptionAdvanced: {
+      de: "La Massana ist als die 'aktivste' Gemeinde Andorras bekannt und ein Paradies für Outdoor-Enthusiasten. Hier befindet sich der höchste Berg des Landes, der Coma Pedrosa (2.942 m), dessen Umgebung als Naturpark geschützt ist. Das Skigebiet Pal-Arinsal (Teil von Vallnord) bietet im Winter Pisten für alle Niveaus. Im Sommer wird es zum Vallnord Bike Park, einem der renommiertesten Mountainbike-Ziele Europas, das regelmäßig Weltcup-Veranstaltungen ausrichtet. Neben dem Sport bietet La Massana auch Kultur, wie das Comic-Museum und das Interpretationszentrum Farga Rossell, das die Bedeutung der Eisenindustrie zeigt.",
+      hu: "La Massana, az 'aktív' közösség, a szabadtéri sportok andorrai fellegvára. Itt emelkedik az ország legmagasabb pontja, a 2942 méteres Coma Pedrosa, amely egyben egy védett természeti park központja is. Télen a Pal-Arinsal síterep, nyáron pedig a világhírű Vallnord Bike Park vonzza a sportok szerelmeseit. A közösség központjából induló kabinos felvonó gyors és kényelmes hozzáférést biztosít a hegyekhez. La Massana azonban nemcsak a sportról szól; a Farga Rossell vaskohó-múzeum az ipari örökséget, a Képregénymúzeum pedig a modern művészeteket képviseli, bemutatva a közösség sokszínűségét. Földrajz és gazdaság K8 - A sportturizmusra épülő gazdasági modellek.",
+      ro: "La Massana, parohia 'activă', este fortăreața Andorrei pentru sporturile în aer liber. Aici se află cel mai înalt punct al țării, Coma Pedrosa de 2.942 de metri, care este și centrul unui parc natural protejat. Iarna, stațiunea de schi Pal-Arinsal atrage iubitorii de sport, în timp ce vara, faimosul parc de biciclete Vallnord face același lucru. O telecabină din centrul parohiei oferă acces rapid și convenabil la munți. Cu toate acestea, La Massana nu este doar despre sport; muzeul de fierărie Farga Rossell reprezintă patrimoniul industrial, iar Muzeul Benzilor Desenate prezintă artele moderne, demonstrând diversitatea parohiei.",
+      en: "La Massana, the 'active' parish, is Andorra's stronghold for outdoor sports. It is home to the country's highest point, the 2,942-meter Coma Pedrosa, which is also the center of a protected nature park. In winter, the Pal-Arinsal ski resort attracts sports lovers, while in summer, it's the world-famous Vallnord Bike Park. A cable car from the parish center provides quick and convenient access to the mountains. However, La Massana is not just about sports; the Farga Rossell ironworks museum represents industrial heritage, and the Comic Museum showcases modern arts, demonstrating the parish's diversity. Geography and Economics K8 - Economic Models Based on Sports Tourism."
+    },
+    factsAdvanced: {
+      de: [
+        "Die Dörfer Pal und Arinsal sind wichtige Touristenzentren innerhalb der Gemeinde.",
+        "Die Seilbahn von La Massana bietet direkten Zugang zum Sektor Pal.",
+        "Das Dorf Pal ist ein gut erhaltenes Beispiel für traditionelle Pyrenäen-Architektur.",
+        "La Massana ist bekannt für seine lebhafte Atmosphäre mit vielen Restaurants und Bars.",
+        "Der Wochenmarkt findet jeden Donnerstagmorgen statt.",
+        "Die Kirche Sant Climent de Pal ist ein herausragendes Beispiel der romanischen Kunst."
+        ],
+      hu: [
+        "A Pal és Arinsal falvak a közösség két legfontosabb turisztikai központja.",
+        "A Vallnord Bike Park rendszeresen ad otthont mountain bike világkupa-futamoknak.",
+        "A Pal falu az egyik legjobb állapotban megőrzött példája a hagyományos pireneusi építészetnek.",
+        "A közösség híres a nyüzsgő, barátságos hangulatáról, számos étteremmel és bárral.",
+        "A Sant Climent de Pal templom ikerablakos harangtornya egyedülálló Andorrában.",
+        "A 'Ruta del Ferro' (Vas út) egy része áthalad a közösség területén.",
+        "Nyáron a sífelvonókat a túrázók és a hegyi kerékpárosok szállítására használják.",
+        "A közösségben több via ferrata (vasalt út) is található a sziklamászás kedvelőinek."
+      ],
+      ro: [
+        "Satele Pal și Arinsal sunt cele mai importante două centre turistice din parohie.",
+        "Parcul de biciclete Vallnord găzduiește regulat curse de Cupa Mondială de mountain bike.",
+        "Satul Pal este unul dintre cele mai bine conservate exemple de arhitectură tradițională pirenaică.",
+        "Parohia este renumită pentru atmosfera sa vibrantă și prietenoasă, cu numeroase restaurante și baruri.",
+        "Turnul clopotniță cu ferestre gemene al bisericii Sant Climent de Pal este unic în Andorra.",
+        "O parte din 'Ruta del Ferro' (Ruta Fierului) traversează parohia."
+        ],
+      en: [
+        "The villages of Pal and Arinsal are the two most important tourist centers in the parish.",
+        "The Vallnord Bike Park regularly hosts mountain bike World Cup races.",
+        "The village of Pal is one of the best-preserved examples of traditional Pyrenean architecture.",
+        "The parish is famous for its lively, friendly atmosphere with numerous restaurants and bars.",
+        "The twin-windowed bell tower of the Sant Climent de Pal church is unique in Andorra.",
+        "Part of the 'Ruta del Ferro' (Iron Route) passes through the parish.",
+        "In summer, ski lifts are used to transport hikers and mountain bikers.",
+        "There are several via ferrata routes in the parish for climbing enthusiasts."
+      ]
+    }
+  },
+  {
+    id: "AD-05",
+    type: "region",
+    parent: "country-andorra",
+    coords: [1.5332, 42.5562],
+    name: { de: "Ordino", hu: "Ordino", ro: "Ordino", en: "Ordino" },
+    description: {
+      de: "Eine malerische Gemeinde im Norden, bekannt für ihre gut erhaltenen Steinhäuser und Natur.",
+      hu: "Festői közösség északon, amely jól megőrzött kőházairól és természeti szépségeiről ismert.",
+      ro: "O parohie pitorească în nord, cunoscută pentru casele de piatră bine conservate și natură.",
+      en: "A picturesque parish in the north, known for its well-preserved stone houses and nature."
+    },
+    descriptionAdvanced: {
+      de: "Ordino ist die nordwestlichste Gemeinde Andorras und gilt als deren kulturelles Zentrum. Die gesamte Gemeinde wurde von der UNESCO zum Biosphärenreservat erklärt, was ihr Engagement für die Erhaltung des Gleichgewichts zwischen Mensch und Natur unterstreicht. Die Landschaft ist geprägt von hohen Gipfeln, darunter der Pic de Tristaina und der Pic de l'Estanyó. Das Skigebiet Ordino-Arcalís ist ein Paradies für Freerider. Die Dörfer wie Ordino, La Cortinada oder Ansalonga haben ihren traditionellen Charme mit Steinhäusern und Schieferdächern bewahrt. Kulturelle Highlights sind das Museum Casa d'Areny-Plandolit und die Eisenroute.",
+      hu: "Ordino, Andorra északnyugati, leginkább érintetlen közössége, melynek teljes területe UNESCO bioszféra-rezervátum. Ez a cím is jelzi a régió elkötelezettségét a természet és az emberi tevékenység harmonikus egyensúlyának megőrzése mellett. A tájat magas csúcsok uralják, mint a Pic de Tristaina és a Pic de l'Estanyó. A falvak, mint Ordino, La Cortinada vagy Ansalonga, megőrizték hagyományos pireneusi építészetüket kőházaikkal és palatetőikkel. A kulturális örökség és a természeti szépségek egyedülálló ötvözete ez, ahol a Vasút (Ruta del Ferro) az ipari múltat, a Sorteny-völgy pedig a botanikai gazdagságot tárja fel. Földrajz K8 - Bioszféra-rezervátumok és fenntartható fejlődés.",
+      ro: "Ordino, cea mai nord-vestică și mai bine conservată parohie a Andorrei, este în întregime o rezervație a biosferei UNESCO. Acest titlu indică angajamentul regiunii pentru menținerea unui echilibru armonios între natură și activitatea umană. Peisajul este dominat de vârfuri înalte precum Pic de Tristaina și Pic de l'Estanyó. Satele, cum ar fi Ordino, La Cortinada sau Ansalonga, și-au păstrat arhitectura tradițională pirenaică cu case de piatră și acoperișuri de ardezie. Este un amestec unic de patrimoniu cultural și frumusețe naturală, unde Ruta Fierului (Ruta del Ferro) explorează trecutul industrial, iar Valea Sorteny dezvăluie bogăția botanică.",
+      en: "Ordino, located in the northwest, is Andorra's most preserved parish and its entire territory is a designated UNESCO Biosphere Reserve. This status highlights the region's commitment to maintaining a harmonious balance between nature and human activity. The landscape is dominated by high peaks like Pic de Tristaina and Pic de l'Estanyó. Villages such as Ordino, La Cortinada, and Ansalonga have retained their traditional Pyrenean architecture with stone houses and slate roofs. It is a unique blend of cultural heritage and natural beauty, where the Iron Route (Ruta del Ferro) explores industrial history and the Sorteny Valley reveals botanical richness. Geography K8 - Biosphere Reserves and Sustainable Development."
+    },
+    factsAdvanced: {
+      de: [
+        "Ordino hat die geringste Bevölkerungsdichte in Andorra.",
+        "Der Naturpark Sorteny ist für seinen botanischen Reichtum bekannt.",
+        "Das Nationale Auditorium von Andorra befindet sich in Ordino.",
+        "Die Eisenroute (Ruta del Ferro) folgt den Spuren der alten Eisenindustrie.",
+        "Das Dorf Ordino war der letzte Ort in Andorra, der eine asphaltierte Straße erhielt.",
+        "Die Gastronomie ist für ihre traditionellen Gerichte wie 'trinxat' oder Reis mit Pilzen bekannt."
+        ],
+      hu: [
+        "Ordino rendelkezik a legalacsonyabb népsűrűséggel Andorrában.",
+        "Itt található az ország Nemzeti Auditóriuma, a komolyzenei élet központja.",
+        "A Postamúzeum bemutatja az andorrai postaszolgálat egyedülálló, spanyol-francia kettős rendszerét.",
+        "Az Ordino-Arcalís síterep a freeride síelés nemzetközileg elismert paradicsoma.",
+        "A helyi gasztronómia híres fogása a 'trinxat', egy káposztás-burgonyás étel.",
+        "A Miniatűr Múzeum Nicolai Siadristy lélegzetelállító mikroszkopikus alkotásait őrzi.",
+        "A közösség címerében a hegyek és a víz motívumai is megjelennek.",
+        "A régióban a dohánytermesztés helyett a turizmus vált a fő bevételi forrássá."
+      ],
+      ro: [
+        "Ordino are cea mai mică densitate a populației din Andorra.",
+        "Aici se află Auditoriul Național al țării, centrul vieții muzicii clasice.",
+        "Muzeul Poștal prezintă sistemul poștal dual unic, spaniol-francez, al Andorrei.",
+        "Stațiunea de schi Ordino-Arcalís este un paradis recunoscut internațional pentru schiul freeride.",
+        "Un fel de mâncare renumit al gastronomiei locale este 'trinxat', un preparat din varză și cartofi.",
+        "Muzeul Miniaturilor găzduiește creațiile microscopice uluitoare ale lui Nicolai Siadristy."
+        ],
+      en: [
+        "Ordino has the lowest population density in Andorra.",
+        "It is home to the country's National Auditorium, the center of classical music life.",
+        "The Postal Museum explains Andorra's unique dual Spanish-French postal system.",
+        "The Ordino-Arcalís ski resort is an internationally acclaimed paradise for freeride skiing.",
+        "A famous local gastronomic dish is 'trinxat', a cabbage and potato dish.",
+        "The Miniature Museum houses the breathtaking microscopic creations of Nicolai Siadristy.",
+        "The parish's coat of arms features motifs of mountains and water.",
+        "In the region, tourism has replaced tobacco cultivation as the main source of income."
+      ]
+    }
+  },
+  {
+    id: "AD-06",
+    type: "region",
+    parent: "country-andorra",
+    coords: [1.4913, 42.4637],
+    name: { de: "Sant Julià de Lòria", hu: "Sant Julià de Lòria", ro: "Sant Julià de Lòria", en: "Sant Julià de Lòria" },
+    description: {
+      de: "Die südlichste Gemeinde, bekannt für ihr mildes Klima und die Tabaktradition.",
+      hu: "A legdélibb közösség, amely enyhe éghajlatáról és dohánytermesztési hagyományairól ismert.",
+      ro: "Cea mai sudică parohie, cunoscută pentru climatul blând și tradiția tutunului.",
+      en: "The southernmost parish, known for its mild climate and tobacco tradition."
+    },
+    descriptionAdvanced: {
+      de: "Sant Julià de Lòria ist das Tor zu Andorra von Spanien aus. Als südlichste und tiefstgelegene Gemeinde genießt sie ein milderes, mediterraneres Klima als der Rest des Landes. Historisch war die Region ein Zentrum des Tabakanbaus, wie das Tabakmuseum in der ehemaligen Reig-Fabrik eindrucksvoll dokumentiert. Die Hauptattraktion heute ist Naturlandia, ein riesiger Abenteuerpark in den Wäldern von La Rabassa, bekannt für seine Tiergehege und die alpine Rodelbahn Tobotronc. Die Gemeinde beherbergt auch einen Teil des Universitätscampus und hat ein lebendiges kulturelles Leben. Die Pont de la Margineda, eine mittelalterliche Brücke, ist ein wichtiges historisches Wahrzeichen.",
+      hu: "Sant Julià de Lòria, Andorra déli kapuja, ahol az ország a szomszédos Spanyolországgal találkozik. Legalacsonyabb fekvésének köszönhetően klímája enyhébb, ami történelmileg a dohánytermesztés központjává tette. Ezt a múltat a Dohánymúzeum őrzi. Ma a közösség fő vonzereje a Naturlandia kalandpark, amely a La Rabassa erdőben helyezkedik el, és olyan egyedülálló attrakciókkal büszkélkedhet, mint a Tobotronc, a világ leghosszabb természetes szánkópályája. Sant Julià de Lòria emellett egyetemi város is, az Andorrai Egyetem campusa élénk, fiatalos hangulatot kölcsönöz neki. A középkori Pont de la Margineda híd a történelmi örökség fontos tanúja. Gazdaságföldrajz K7 - Mezőgazdaságtól a szolgáltatásokig: egy régió átalakulása.",
+      ro: "Sant Julià de Lòria, poarta de sud a Andorrei, este locul unde țara se întâlnește cu Spania vecină. Datorită altitudinii sale mai joase, clima sa este mai blândă, ceea ce a făcut-o istoric centrul cultivării tutunului. Acest trecut este păstrat de Muzeul Tutunului. Astăzi, principala atracție a parohiei este parcul de aventuri Naturlandia, situat în pădurea La Rabassa, care se mândrește cu atracții unice precum Tobotronc, cel mai lung tobogan natural din lume. Sant Julià de Lòria este, de asemenea, un oraș universitar, campusul Universității din Andorra conferindu-i o atmosferă vibrantă și tânără. Podul medieval Pont de la Margineda este o mărturie importantă a patrimoniului său istoric.",
+      en: "Sant Julià de Lòria, Andorra's southern gateway, is where the country meets neighboring Spain. Due to its lower altitude, its climate is milder, which historically made it the center of tobacco cultivation. This past is preserved in the Tobacco Museum. Today, the parish's main attraction is the Naturlandia adventure park, located in the La Rabassa forest, which boasts unique attractions like the Tobotronc, the world's longest natural toboggan run. Sant Julià de Lòria is also a university town, with the University of Andorra campus giving it a lively, youthful atmosphere. The medieval Pont de la Margineda bridge is an important witness to its historical heritage. Economic Geography K7 - From Agriculture to Services: The Transformation of a Region."
+    },
+    factsAdvanced: {
+      de: [
+        "Die Gemeinde grenzt an die spanische Region Katalonien.",
+        "Der Tobotronc ist mit 5,3 km die längste alpine Rodelbahn der Welt.",
+        "Die Kirche Sant Serni de Nagol aus dem 11. Jahrhundert ist ein Juwel der Romanik.",
+        "In Sant Julià de Lòria gibt es zahlreiche Weingüter, die die Weinbautradition wiederbeleben.",
+        "Die Festa Major von Sant Julià ist eine der größten in Andorra.",
+        "Der Grenzübergang ist rund um die Uhr geöffnet."
+        ],
+      hu: [
+        "A közösség közvetlenül határos a spanyolországi Katalóniával.",
+        "A Tobotronc 5,3 km hosszú és 400 méter szintkülönbséget küzd le.",
+        "A 11. századi Sant Serni de Nagol templom egy sziklaszirtre épült.",
+        "A közösségben újjáéled a bortermelés, több magaslati borászat is működik itt.",
+        "Itt található Andorra egyetlen állandó határátkelője Spanyolország felé.",
+        "A Naturlandia állatparkjában a Pireneusok őshonos állatai láthatók természetes környezetükben.",
+        "A közösség Festa Major ünnepe az egyik legnagyobb és legnépszerűbb az országban.",
+        "A Juberri kortárs szoborkert egy meglepő és érdekes látnivaló."
+      ],
+      ro: [
+        "Parohia se învecinează direct cu regiunea spaniolă Catalonia.",
+        "Tobotronc are o lungime de 5,3 km și o diferență de nivel de 400 de metri.",
+        "Biserica Sant Serni de Nagol din secolul al XI-lea este construită pe o stâncă.",
+        "În parohie se reînvie producția de vin, cu mai multe crame de mare altitudine.",
+        "Aici se află singurul punct permanent de trecere a frontierei Andorrei cu Spania.",
+        "În parcul de animale Naturlandia pot fi văzute animale native din Pirinei."
+        ],
+      en: [
+        "The parish directly borders the Spanish region of Catalonia.",
+        "The Tobotronc has a length of 5.3 km and a vertical drop of 400 meters.",
+        "The 11th-century church of Sant Serni de Nagol is built on a cliff.",
+        "Wine production is being revived in the parish, with several high-altitude wineries operating here.",
+        "Andorra's only permanent border crossing with Spain is located here.",
+        "Native Pyrenean animals can be seen in their natural environment at the Naturlandia animal park.",
+        "The parish's Festa Major celebration is one of the largest and most popular in the country.",
+        "The Juberri contemporary sculpture garden is a surprising and interesting sight."
       ]
     }
   }
 ];
 
-export const andorraRegionPois: POI[] = [
-  {
-    id: "landmark-ad-001-postal-museum",
-    type: "landmark",
-    parent: "AD-001",
-    coords: [1.5331, 42.5564],
-    name: { de: "Postmuseum von Andorra", hu: "Andorrai Postamúzeum", ro: "Muzeul Poștei din Andorra", en: "Postal Museum of Andorra" },
-    description: {
-      de: "Ein Museum, das die Geschichte des Postwesens in Andorra dokumentiert.",
-      hu: "Andorra postatörténetét bemutató múzeum.",
-      ro: "Un muzeu care documentează istoria serviciilor poștale din Andorra.",
-      en: "A museum documenting the history of the postal service in Andorra."
-    },
-    facts: {
-      de: ["Befindet sich in der Borda del Ransol.", "Zeigt Briefmarkensammlungen seit 1928.", "Erklärt den Transport von Post über die Pyrenäen."],
-      hu: ["A Borda del Ransol épületében található.", "Bélyeggyűjteményeket mutat be 1928-tól.", "Bemutatja a hegyi postaszállítást a Pireneusokon keresztül."],
-      ro: ["Situat în clădirea Borda del Ransol.", "Expune colecții de timbre din 1928.", "Explică transportul poștei peste Pirinei."],
-      en: ["Located in the Borda del Ransol building.", "Displays stamp collections from 1928 onwards.", "Explains postal transportation across the Pyrenees."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az Ordinóban, egy régi gabonatárolóban (borda) berendezett Postamúzeum lenyűgöző bepillantást nyújt Andorra egyedülálló kommunikációs történelmébe. A kiállítás bemutatja, hogyan működött az ország kettős, spanyol és francia postarendszere, és hogyan juttatták el a leveleket gyalog, a hegyeken keresztül a motorizáció elterjedése előtt. A múzeum büszkesége a teljes andorrai bélyeggyűjtemény, az 1928-as első kiadástól napjainkig. Interaktív elemek és audiovizuális bemutatók segítségével a látogatók megismerhetik a bélyegkészítés folyamatát és a postások kalandos munkáját. Ez a múzeum nemcsak a filatélia iránt érdeklődőknek, hanem a történelem és a technika fejlődése iránt fogékonyaknak is izgalmas élményt nyújt. Technikatörténet K7 - Kommunikációs eszközök fejlődése.",
-      ro: "",
-      en: "Housed in a former barn (borda) in Ordino, the Postal Museum offers a fascinating insight into Andorra's unique communication history. The exhibition shows how the country's dual Spanish and French postal system worked and how mail was delivered on foot over the mountains before motorization. The museum's pride is the complete Andorran stamp collection, from the first issue in 1928 to the present day. Interactive elements and audiovisual displays allow visitors to learn about the stamp-making process and the adventurous work of postmen. This museum is an exciting experience not only for philatelists but also for those interested in the history and development of technology. History of Technology K7 - Development of Communication Devices."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Andorra ma is két postaszolgálatot működtet: a spanyol Correos-t és a francia La Poste-ot.",
-        "A múzeum egy gyönyörűen felújított, hagyományos andorrai kőépületben található.",
-        "A kiállítás bemutatja a postások régi egyenruháit és felszereléseit.",
-        "Egy korhű postahivatal enteriőrje is megtekinthető.",
-        "A múzeum az ordinói 'Vas útja' és 'Habitat útvonal' része.",
-        "A bélyegek nemcsak postai díjak lerovására szolgáltak, hanem az ország imázsának formálására is.",
-        "A múzeumban külön foglalkoznak a légi posta bevezetésének történetével.",
-        "Különleges kiállítási darab egy régi posta-motorkerékpár."
-      ],
-      ro: [],
-      en: [
-        "Andorra still operates two postal services: the Spanish Correos and the French La Poste.",
-        "The museum is housed in a beautifully restored traditional Andorran stone building.",
-        "The exhibition displays old postmen's uniforms and equipment.",
-        "A period-correct post office interior can also be viewed.",
-        "The museum is part of Ordino's 'Iron Route' and 'Habitat Route'.",
-        "Stamps were used not only to pay postal fees but also to shape the country's image.",
-        "A special section in the museum deals with the history of the introduction of airmail.",
-        "A special exhibit is an old postal motorcycle."
-      ]
-    }
-  },
-  {
-    id: "nature-ad-001-iron-route",
-    type: "landmark",
-    parent: "AD-001",
-    coords: [1.5288, 42.5938],
-    name: { de: "Eisenroute", hu: "Vas útja", ro: "Ruta Fierului", en: "Iron Route" },
-    description: {
-      de: "Ein Kulturweg, der an die Bergbauvergangenheit von Ordino erinnert.",
-      hu: "Kulturális útvonal, amely Ordino bányászati múltjának állít emléket.",
-      ro: "Un traseu cultural care amintește de trecutul minier al parohiei Ordino.",
-      en: "A cultural route commemorating the mining past of Ordino."
-    },
-    facts: {
-      de: ["Lehrpfad über die Eisenindustrie.", "Verfügt über zeitgenössische Skulpturen.", "Führt durch die Llorts-Mine."],
-      hu: ["Tanösvény a vasiparról.", "Kortárs szobrok találhatók az út mentén.", "Áthalad a Llorts-bányán."],
-      ro: ["Traseu educațional despre industria fierului.", "Prezintă sculpturi contemporane.", "Trece prin mina Llorts."],
-      en: ["Educational trail about the iron industry.", "Features contemporary sculptures.", "Passes through the Llorts mine."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az ordinói Vasút (Ruta del Ferro) egy könnyen bejárható kulturális túraútvonal, amely Andorra 17. és 19. század közötti vaskohászati múltjának állít emléket. Az ösvény a llortsi bányától, ahol egykor a vasércet fejtették, egészen a La Massanában található Farga Rossell kovácsműhelyig vezet. Útközben információs táblák és kortárs művészek (pl. Rachid Khimoune, Jordi Casamajor) által készített, a témához kapcsolódó szobrok teszik még érdekesebbé a sétát. A túra a Valira del Nord folyó mentén halad, összekapcsolva a természetet, az ipari örökséget és a modern művészetet. Különösen ajánlott családoknak és azoknak, akik szeretnék megérteni, hogyan formálta a vas az andorrai tájat és társadalmat. Ipartörténet K8 - A természeti erőforrások hasznosítása.",
-      ro: "",
-      en: "The Iron Route (Ruta del Ferro) in Ordino is an easy-to-follow cultural hiking trail that commemorates Andorra's iron and steel past between the 17th and 19th centuries. The path leads from the Llorts mine, where iron ore was once extracted, to the Farga Rossell forge in La Massana. Along the way, information boards and topic-related sculptures by contemporary artists (e.g., Rachid Khimoune, Jordi Casamajor) make the walk even more interesting. The tour runs along the Valira del Nord river, combining nature, industrial heritage, and modern art. It is especially recommended for families and for those who want to understand how iron shaped the Andorran landscape and society. Industrial History K8 - The Utilization of Natural Resources."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A teljes útvonal körülbelül 4 kilométer hosszú.",
-        "Nyáron vezetett túrák indulnak a llortsi bányába, ahol a látogatók sisakot kapnak.",
-        "A szobrok a 'Művészet és Természet' elnevezésű projekt keretében kerültek ide.",
-        "Az útvonal része egy határokon átnyúló projektnek, amely a Pireneusok vaskohászati örökségét mutatja be.",
-        "A Farga Rossell ma egy interaktív múzeum, ahol bemutatják a vízi kalapács működését.",
-        "Az ösvény mentén több pihenőhely és forrás is található.",
-        "A llortsi bányából származó vasérc rendkívül jó minőségű volt.",
-        "Az út mentén láthatók a szénégetéshez használt egykori boksák maradványai is."
-      ],
-      ro: [],
-      en: [
-        "The entire route is about 4 kilometers long.",
-        "In summer, guided tours are available to the Llorts mine, where visitors are given helmets.",
-        "The sculptures were placed here as part of a project called 'Art and Nature'.",
-        "The route is part of a cross-border project showcasing the iron heritage of the Pyrenees.",
-        "Farga Rossell is now an interactive museum demonstrating the operation of the water-powered hammer.",
-        "There are several rest areas and springs along the trail.",
-        "The iron ore from the Llorts mine was of extremely high quality.",
-        "Remains of former charcoal burning clamps can also be seen along the route."
-      ]
-    }
-  },
-  {
-    id: "landmark-ad-002-motorcycle-museum",
-    type: "landmark",
-    parent: "AD-002",
-    coords: [1.5947, 42.5658],
-    name: { de: "Motorradmuseum", hu: "Motorkerékpár-múzeum", ro: "Muzeul de Motociclete", en: "Motorcycle Museum" },
-    description: {
-      de: "Eine beeindruckende Sammlung historischer Motorräder.",
-      hu: "Történelmi motorkerékpárok lenyűgöző gyűjteménye.",
-      ro: "O colecție impresionantă de motociclete istorice.",
-      en: "An impressive collection of historical motorcycles."
-    },
-    facts: {
-      de: ["Beherbergt über 100 seltene Motorräder.", "Das älteste Modell stammt aus dem Jahr 1896.", "Befindet sich im Palau de Gel Komplex."],
-      hu: ["Több mint 100 ritka motorkerékpárnak ad otthont.", "A legrégebbi modell 1896-ból származik.", "A Palau de Gel komplexumban található."],
-      ro: ["Găzduiește peste 100 de motociclete rare.", "Cel mai vechi model datează din 1896.", "Situat în complexul Palau de Gel."],
-      en: ["Houses over 100 rare motorcycles.", "The oldest model dates back to 1896.", "Located in the Palau de Gel complex."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A canillói Motorkerékpár-múzeum a kétkerekűek szerelmeseinek paradicsoma. A Palau de Gel (Jégpalota) épületében található tárlat Pere Augé magángyűjteményét mutatja be, amely több mint 150 egyedi és ritka darabból áll, illusztrálva a motorkerékpározás történetét a kezdetektől napjainkig. A kronologikusan rendezett kiállítás lehetővé teszi a technológiai és dizájnbeli fejlődés nyomon követését. Legendás márkák, mint a Harley-Davidson, a BMW és a Ducati mellett igazi ritkaságok is megcsodálhatók. A múzeum nemcsak a gépekről szól, hanem azokról a társadalmi változásokról is, amelyeket a motorok elterjedése hozott, a szabadság és a lázadás szimbólumaként. Technikatörténet K8 - A belső égésű motorok fejlődése.",
-      ro: "",
-      en: "The Motorcycle Museum in Canillo is a paradise for lovers of two-wheelers. Located in the Palau de Gel (Ice Palace) building, the exhibition showcases Pere Augé's private collection of more than 150 unique and rare pieces, illustrating the history of motorcycling from its beginnings to the present day. The chronologically arranged exhibition allows for tracking the development of technology and design. Alongside legendary brands like Harley-Davidson, BMW, and Ducati, true rarities can also be admired. The museum is not just about the machines, but also about the social changes that the spread of motorcycles brought, as a symbol of freedom and rebellion. History of Technology K8 - The Development of Internal Combustion Engines."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A gyűjteményt Európa egyik legfontosabb magángyűjteményeként tartják számon.",
-        "A legrégebbi kiállított modell egy 1896-os Hildebrand & Wolfmüller.",
-        "A múzeum interaktív elemekkel és audiovizuális bemutatókkal teszi élvezetesebbé a látogatást.",
-        "A gyűjtemény folyamatosan bővül újabb és újabb darabokkal.",
-        "Időszakos kiállításokat is rendeznek egy-egy téma vagy márka köré.",
-        "A múzeum bemutatja a motorkerékpárok szerepét a háborúkban és a filmekben is.",
-        "Külön részleg foglalkozik az oldalkocsis motorkerékpárokkal.",
-        "A belépőjegy megvásárolható kombinálva a Jégpalota szolgáltatásaival."
-      ],
-      ro: [],
-      en: [
-        "The collection is considered one of the most important private collections in Europe.",
-        "The oldest model on display is an 1896 Hildebrand & Wolfmüller.",
-        "The museum makes the visit more enjoyable with interactive elements and audiovisual displays.",
-        "The collection is constantly expanding with new pieces.",
-        "Temporary exhibitions are also organized around a particular theme or brand.",
-        "The museum also shows the role of motorcycles in wars and films.",
-        "A separate section deals with sidecar motorcycles.",
-        "Admission tickets can be purchased in combination with the services of the Ice Palace."
-      ]
-    }
-  },
-  {
-    id: "landmark-ad-002-tibetan-bridge",
-    type: "landmark",
-    parent: "AD-002",
-    coords: [1.5898, 42.5714],
-    name: { de: "Tibetische Brücke", hu: "Tibeti híd", ro: "Podul Tibetan", en: "Tibetan Bridge" },
-    description: {
-      de: "Eine der längsten Fußgänger-Hängebrücken der Welt.",
-      hu: "A világ egyik leghosszabb gyalogos függőhídja.",
-      ro: "Unul dintre cele mai lungi poduri suspendate pentru pietoni din lume.",
-      en: "One of the longest pedestrian suspension bridges in the world."
-    },
-    facts: {
-      de: ["Ist 603 Meter lang.", "Hängt 158 Meter über dem Boden.", "Bietet Panoramablick auf das Mereig-Tal."],
-      hu: ["603 méter hosszú.", "158 méterrel a föld felett függ.", "Panorámás kilátást nyújt a Mereig-völgyre."],
-      ro: ["Are o lungime de 603 metri.", "Suspendat la 158 de metri deasupra solului.", "Oferă vederi panoramice asupra văii Mereig."],
-      en: ["It is 603 meters long.", "Hangs 158 meters above the ground.", "Offers panoramic views of the Mereig valley."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A 2022-ben átadott canillói Tibeti híd egy lenyűgöző modern mérnöki alkotás és turisztikai attrakció. A 603 méteres hosszával a világ egyik leghosszabb gyalogos függőhídja, amely a Vall del Riu völgy felett ível át, helyenként 158 méteres magasságban. A hídon való átsétálás garantáltan adrenalinnal teli élmény, miközben páratlan, 360 fokos panoráma nyílik a környező hegyekre. Az egy méter széles hídra egyszerre maximum 600 ember léphet. Megközelítése csak gyalogosan, egy kijelölt turistaúton, vagy a Canillo faluból induló hivatalos buszjárattal lehetséges, ami segít megőrizni a környék természeti nyugalmát. A híd a közeli Roc del Quer kilátóval együtt teszi Canillót a hegyi kalandturizmus egyik legvonzóbb célpontjává. Fizika és építészet K8 - Hídszerkezetek, terhelés és egyensúly.",
-      ro: "",
-      en: "The Canillo Tibetan Bridge, opened in 2022, is a stunning modern engineering feat and tourist attraction. At 603 meters long, it is one of the longest pedestrian suspension bridges in the world, spanning the Vall del Riu valley at a height of 158 meters in places. Walking across the bridge is a guaranteed adrenaline-fueled experience, offering unparalleled 360-degree panoramic views of the surrounding mountains. A maximum of 600 people can be on the one-meter-wide bridge at any one time. It can only be reached on foot via a designated tourist path or by the official bus service from the village of Canillo, which helps to preserve the natural tranquility of the area. Together with the nearby Roc del Quer viewpoint, the bridge makes Canillo one of the most attractive destinations for mountain adventure tourism. Physics and Architecture K8 - Bridge Structures, Load and Balance."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A híd mindössze egy méter széles, ami fokozza a magasságérzetet.",
-        "A belépés díjköteles, és a jegyeket érdemes előre lefoglalni online.",
-        "A szerkezetet úgy tervezték, hogy minimális hatást gyakoroljon a környezetre.",
-        "A 'tibeti' elnevezés a Himalájában található hasonló építésű hidakra utal.",
-        "Az építkezés körülbelül 18 hónapig tartott, nehéz hegyi körülmények között.",
-        "A híd átadása óta Andorra egyik legnépszerűbb látványossága lett.",
-        "A hídhoz vezető buszút is látványos, meredek szerpentineken vezet felfelé.",
-        "A híd a téli szezonban és rossz időjárási körülmények között zárva tart."
-      ],
-      ro: [],
-      en: [
-        "The bridge is only one meter wide, which enhances the feeling of height.",
-        "Admission is charged, and it is advisable to book tickets online in advance.",
-        "The structure is designed to have a minimal impact on the environment.",
-        "The name 'Tibetan' refers to similarly constructed bridges in the Himalayas.",
-        "Construction took about 18 months under difficult mountain conditions.",
-        "Since its opening, the bridge has become one of Andorra's most popular attractions.",
-        "The bus ride to the bridge is also spectacular, with steep serpentines leading up.",
-        "The bridge is closed during the winter season and in bad weather conditions."
-      ]
-    }
-  },
-  {
-    id: "landmark-ad-003-electricity-museum",
-    type: "landmark",
-    parent: "AD-003",
-    coords: [1.5492, 42.5186],
-    name: { de: "Elektrizitätsmuseum", hu: "Elektromossági Múzeum", ro: "Muzeul Electricității", en: "Electricity Museum" },
-    description: {
-      de: "Ein Museum zur Geschichte der Elektrifizierung Andorras.",
-      hu: "Andorra villamosításának történetét bemutató múzeum.",
-      ro: "Un muzeu dedicat istoriei electrificării Andorrei.",
-      en: "A museum dedicated to the history of the electrification of Andorra."
-    },
-    facts: {
-      de: ["Befindet sich im FEDA-Wasserkraftwerk.", "Erklärt die Energieerzeugung des Landes.", "Bietet interaktive Experimente."],
-      hu: ["A FEDA vízerőműben található.", "Elmagyarázza az ország energiatermelését.", "Interaktív kísérleteket kínál."],
-      ro: ["Situat în hidrocentrala FEDA.", "Explică producția de energie a țării.", "Oferă experimente interactive."],
-      en: ["Located in the FEDA hydroelectric plant.", "Explains the country's energy production.", "Offers interactive experiments."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az encampi Elektromossági Múzeum (MW Museu de l'Electricitat) az andorrai vízerőmű épületében kapott helyet, és egyedülálló utazást kínál az ország villamosításának történetébe. A látogatók megismerhetik, hogyan alakítják át a víz erejét elektromos árammá 1934 óta, és betekintést nyerhetnek a működő erőmű gépházába. A kiállítás rendkívül informatív és interaktív, számos kísérlettel, amelyek szemléletesen magyarázzák el az elektromosság alapelveit. A múzeum nemcsak a technikai részletekre, hanem azokra a mélyreható társadalmi és gazdasági változásokra is rávilágít, amelyeket az elektromosság elterjedése hozott a pireneusi törpeállam életébe. Technikatörténet és fizika K8 - Energiaátalakítás, megújuló energiaforrások.",
-      ro: "",
-      en: "The Electricity Museum (MW Museu de l'Electricitat) in Encamp is located in the Andorran hydroelectric power station and offers a unique journey into the history of the country's electrification. Visitors can learn how the power of water has been converted into electricity since 1934 and get a glimpse into the engine room of the working power station. The exhibition is extremely informative and interactive, with numerous experiments that visually explain the basic principles of electricity. The museum focuses not only on the technical details but also on the profound social and economic changes that the spread of electricity brought to the life of the Pyrenean microstate. History of Technology and Physics K8 - Energy Conversion, Renewable Energy Sources."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "Az erőművet a Forces Hidroelèctriques d'Andorra (FHASA) vállalat építette.",
-        "A múzeumot 2000-ben nyitották meg, hogy bemutassák az ipari örökséget.",
-        "Vezetett túrák során a látogatók végigkövethetik a teljes áramtermelési folyamatot.",
-        "A múzeum tagja az Európai Ipari Örökség Útvonalának (ERIH).",
-        "Külön terem foglalkozik a megújuló energiákkal és a fenntarthatósággal.",
-        "Oktatási programokat és workshopokat kínálnak iskolás csoportok számára.",
-        "A múzeum bemutatja, hogyan változott meg a háztartások élete az elektromosság megjelenésével.",
-        "Az Engolasters-tó vize egy föld alatti csatornarendszeren keresztül jut el az erőmű turbináihoz."
-      ],
-      ro: [],
-      en: [
-        "The power plant was built by the Forces Hidroelèctriques d'Andorra (FHASA) company.",
-        "The museum was opened in 2000 to showcase the industrial heritage.",
-        "During guided tours, visitors can follow the entire electricity generation process.",
-        "The museum is a member of the European Route of Industrial Heritage (ERIH).",
-        "A separate room is dedicated to renewable energies and sustainability.",
-        "They offer educational programs and workshops for school groups.",
-        "The museum shows how the lives of households changed with the arrival of electricity.",
-        "The water from Engolasters Lake reaches the power plant's turbines through a system of underground channels."
-      ]
-    }
-  },
-  {
-    id: "nature-ad-003-pessons-lakes",
-    type: "landmark",
-    parent: "AD-003",
-    coords: [1.6888, 42.5258],
-    name: { de: "Pessons-Seen", hu: "Pessons-tavak", ro: "Lacurile Pessons", en: "Pessons Lakes" },
-    description: {
-      de: "Ein wunderschöner Kreis aus Gletscherseen.",
-      hu: "Gleccsereredetű tavak gyönyörű köre.",
-      ro: "Un cerc superb de lacuri glaciare.",
-      en: "A beautiful circle of glacial lakes."
-    },
-    facts: {
-      de: ["Größter Granit-Gletscherkessel in Andorra.", "Beliebt für Wanderungen und Angeln.", "Vom Skigebiet Grau Roig aus erreichbar."],
-      hu: ["Andorra legnagyobb gránit gleccserkatlana.", "Kedvelt hely túrázásra és horgászatra.", "A Grau Roig síterületről érhető el."],
-      ro: ["Cel mai mare circ glaciar de granit din Andorra.", "Popular pentru drumeții și pescuit.", "Accesibil din zona de schi Grau Roig."],
-      en: ["The largest granite glacial cirque in Andorra.", "Popular for hiking and fishing.", "Accessible from the Grau Roig ski area."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Pessons-tavak gleccserkatlana (Circ de Pessons) Andorra legnagyobb és leglátványosabb tórendszere. Az Encamp közösséghez tartozó Grau Roig síterületről megközelíthető, több mint 15 tóból álló láncolat egy hatalmas, gránitsziklák által körülvett cirkuszvölgyben helyezkedik el. A GR7-es túraútvonal végigvezet a tavak mentén, lehetővé téve a túrázóknak, hogy felfedezzék ezt a lenyűgöző tájat. Az első és legkönnyebben elérhető tónál (Estany Primer) egy hegyi étterem is található, de a magasabban fekvő tavak felé haladva a táj egyre vadabbá és érintetlenebbé válik. A terület a horgászok és a természetfotósok paradicsoma, és a Pireneusok alpesi élővilágának gazdag tárháza. Földrajz K7 - A jég felszínformáló munkája, gleccsertavak.",
-      ro: "",
-      en: "The Pessons glacial cirque (Circ de Pessons) is Andorra's largest and most spectacular lake system. Accessible from the Grau Roig ski area in the parish of Encamp, the chain of more than 15 lakes is located in a huge cirque valley surrounded by granite cliffs. The GR7 hiking trail runs along the lakes, allowing hikers to discover this stunning landscape. The first and most easily accessible lake (Estany Primer) has a mountain restaurant, but as you move towards the higher lakes, the landscape becomes wilder and more untouched. The area is a paradise for anglers and nature photographers, and a rich repository of Pyrenean alpine wildlife. Geography K7 - The Surface-forming Work of Ice, Glacial Lakes."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A 'Circ de Pessons' a Pireneusok legnagyobb gránit gleccserkatlana.",
-        "A legmagasabban fekvő tó több mint 2600 méteres magasságban található.",
-        "A teljes tórendszert bejáró túra több órát is igénybe vehet és jó állóképességet igényel.",
-        "A terület gazdag alpesi flórában, nyáron virágszőnyeg borítja a tájat.",
-        "Télen a terület a Grandvalira sírégió része, és a freeride síelők kedvelt célpontja.",
-        "A 'pessons' szó a 'pinsó' (pinty) madár nevéből eredhet.",
-        "A tavakban és környékükön alpesi gőte és más kétéltűek is élnek.",
-        "A Grau Roig-i parkolóból nyáron egy terepjáró busz is felviszi a látogatókat az első tóhoz."
-      ],
-      ro: [],
-      en: [
-        "The 'Circ de Pessons' is the largest granite glacial cirque in the Pyrenees.",
-        "The highest lake is located at an altitude of more than 2,600 meters.",
-        "The tour covering the entire lake system can take several hours and requires good stamina.",
-        "The area is rich in alpine flora, with a carpet of flowers covering the landscape in summer.",
-        "In winter, the area is part of the Grandvalira ski region and a popular destination for freeride skiers.",
-        "The word 'pessons' may derive from the name of the 'pinsó' (finch) bird.",
-        "Alpine newts and other amphibians live in and around the lakes.",
-        "In summer, an all-terrain bus takes visitors from the Grau Roig car park to the first lake."
-      ]
-    }
-  },
-  {
-    id: "landmark-ad-004-comic-museum",
-    type: "landmark",
-    parent: "AD-004",
-    coords: [1.5147, 42.5461],
-    name: { de: "Comic-Museum", hu: "Képregénymúzeum", ro: "Muzeul Benzilor Desenate", en: "Comic Museum" },
-    description: {
-      de: "Ein Raum, der der Welt der Grafikromane und Illustrationen gewidmet ist.",
-      hu: "A grafikus regények és illusztrációk világának szentelt hely.",
-      ro: "Un spațiu dedicat lumii romanelor grafice și ilustrațiilor.",
-      en: "A space dedicated to the world of graphic novels and illustrations."
-    },
-    facts: {
-      de: ["Veranstaltet Workshops und Wechselausstellungen.", "Befindet sich an der Plaça de les Fontetes.", "Besitzt eine umfangreiche Sammlung von Comics."],
-      hu: ["Workshopokat és időszaki kiállításokat tart.", "A Plaça de les Fontetes téren található.", "Hatalmas képregénygyűjteménnyel rendelkezik."],
-      ro: ["Găzduiește ateliere și expoziții temporare.", "Situat în Plaça de les Fontetes.", "Deține o colecție vastă de benzi desenate."],
-      en: ["Hosts workshops and temporary exhibitions.", "Located in Plaça de les Fontetes.", "Possesses an extensive collection of comics."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A La Massana központjában, a Plaça de les Fontetes téren található Képregénymúzeum egyedülálló kulturális intézmény Andorrában, amely a 'kilencedik művészetnek' szenteli figyelmét. A múzeum nem állandó gyűjteménnyel rendelkezik, hanem időszakos kiállítások keretében mutat be különböző szerzőket, karaktereket vagy témákat a képregény világából. A tárlatok gyakran interaktívak és minden korosztály számára élvezetesek, a fanatikus rajongóktól a laikus érdeklődőkig. A múzeum rendszeresen szervez workshopokat, előadásokat és közönségtalálkozókat neves alkotókkal, így élénk központja az andorrai képregény-kultúrának. A minden évben megrendezett 'La Massana Còmic' fesztivál a múzeum legfontosabb eseménye. Vizuális kultúra K8 - A képregény mint művészeti forma.",
-      ro: "",
-      en: "Located in the center of La Massana, in Plaça de les Fontetes, the Comic Museum is a unique cultural institution in Andorra dedicated to the 'ninth art'. The museum does not have a permanent collection but presents various authors, characters, or themes from the world of comics through temporary exhibitions. The exhibitions are often interactive and enjoyable for all ages, from avid fans to casual observers. The museum regularly organizes workshops, lectures, and meet-and-greets with renowned creators, making it a vibrant center of Andorran comic culture. The annual 'La Massana Còmic' festival is the museum's most important event. Visual Culture K8 - The Comic as an Art Form."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A múzeumot 2001-ben alapították.",
-        "A kiállítások általában néhány havonta cserélődnek.",
-        "A belépés a legtöbb kiállításra ingyenes.",
-        "A múzeum már bemutatott olyan ikonikus karaktereket, mint Tintin vagy Corto Maltese.",
-        "Az intézmény fontos szerepet játszik a helyi és a spanyol/francia képregény-alkotók népszerűsítésében.",
-        "A múzeum épülete egy modern, üvegfalú komplexum része.",
-        "A kiállítások gyakran eredeti rajzokat és vázlatokat is bemutatnak.",
-        "A múzeumnak saját könyvtára és olvasósarka is van."
-      ],
-      ro: [],
-      en: [
-        "The museum was founded in 2001.",
-        "Exhibitions usually change every few months.",
-        "Admission to most exhibitions is free.",
-        "The museum has already featured iconic characters like Tintin and Corto Maltese.",
-        "The institution plays an important role in promoting local and Spanish/French comic creators.",
-        "The museum building is part of a modern, glass-walled complex.",
-        "Exhibitions often feature original drawings and sketches.",
-        "The museum has its own library and reading corner."
-      ]
-    }
-  },
-  {
-    id: "landmark-ad-004-farga-rossell",
-    type: "landmark",
-    parent: "AD-004",
-    coords: [1.5195, 42.5428],
-    name: { de: "Farga Rossell Schmiede", hu: "Farga Rossell kovácsműhely", ro: "Forja Farga Rossell", en: "Farga Rossell Forge" },
-    description: {
-      de: "Ein Interpretationszentrum in einer ehemaligen Eisenschmiede.",
-      hu: "Egy korábbi vaskovácsműhelyben kialakított bemutatóközpont.",
-      ro: "Un centru de interpretare situat într-o fostă forjă de fier.",
-      en: "An interpretation center located in a former iron forge."
-    },
-    facts: {
-      de: ["Zeigt die Funktionsweise eines Wasserhammers.", "Repräsentiert die industrielle Vergangenheit Andorras.", "Erbaut im 19. Jahrhundert."],
-      hu: ["Bemutatja a vízi kalapács működését.", "Andorra ipari múltját reprezentálja.", "A 19. században épült."],
-      ro: ["Arată funcționarea unui ciocan hidraulic.", "Reprezintă trecutul industrial al Andorrei.", "Construită în secolul al XIX-lea."],
-      en: ["Demonstrates the operation of a water hammer.", "Represents Andorra's industrial past.", "Built in the 19th century."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A La Massanában található Farga Rossell kovácsműhely-múzeum a Pireneusok egyik legjobb állapotban megőrzött ipari műemléke. Az 1842 és 1876 között működő vaskohó ma interaktív bemutatóközpontként működik, ahol a látogatók megismerhetik a vasérc átalakításának teljes folyamatát. A vezetett túrák csúcspontja a hatalmas, vízzel hajtott kalapács (martinell) beindítása, amelynek dübörgése az egész épületet megremegteti. Egy audiovizuális bemutató segítségével a látogatók beleélhetik magukat a kovácsok kemény, zajos és forró világába. A Farga Rossell az andorrai 'Vas út' (Ruta del Ferro) központi eleme, és élő tanúbizonysága az ország turizmus előtti, ipari korszakának. Ipartörténet és technika K7 - A fémfeldolgozás története.",
-      ro: "",
-      en: "The Farga Rossell forge-museum in La Massana is one of the best-preserved industrial monuments in the Pyrenees. Operating from 1842 to 1876, the ironworks now functions as an interactive visitor center where visitors can learn about the entire process of transforming iron ore. The highlight of the guided tours is the start-up of the huge, water-powered hammer (martinell), the roar of which shakes the whole building. An audiovisual presentation allows visitors to immerse themselves in the hard, noisy, and hot world of the blacksmiths. Farga Rossell is a central element of the Andorran 'Iron Route' (Ruta del Ferro) and a living testament to the country's pre-tourism, industrial era. History of Industry and Technology K7 - The History of Metalworking."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A műhely a katalán típusú kovácsműhelyek jellegzetességeit mutatja.",
-        "A működéshez szükséges vizet a Valira del Nord folyóból nyerték.",
-        "A vas olvasztásához hatalmas mennyiségű faszénre volt szükség, ami jelentős erdőirtáshoz vezetett.",
-        "A múzeum bemutatja azokat a szerszámokat és eszközöket, amelyeket a kovácsok használtak.",
-        "A Farga Rossellt az ordinói Rossell család üzemeltette, az egyik legbefolyásosabb família volt.",
-        "A múzeum különleges programokat kínál családok és iskolai csoportok számára.",
-        "Az itt előállított vasrudakat főként a katalán piacra szállították.",
-        "A kovácsok nehéz és veszélyes munkája ellenére megbecsült tagjai voltak a közösségnek."
-      ],
-      ro: [],
-      en: [
-        "The workshop exhibits the characteristics of Catalan-style forges.",
-        "The water needed for operation was drawn from the Valira del Nord river.",
-        "A huge amount of charcoal was needed to smelt the iron, which led to significant deforestation.",
-        "The museum displays the tools and equipment used by the blacksmiths.",
-        "Farga Rossell was run by the Rossell family of Ordino, one of the most influential families.",
-        "The museum offers special programs for families and school groups.",
-        "The iron bars produced here were mainly supplied to the Catalan market.",
-        "Despite their hard and dangerous work, blacksmiths were respected members of the community."
-      ]
-    }
-  },
-  {
-    id: "landmark-ad-005-tobacco-museum",
-    type: "landmark",
-    parent: "AD-005",
-    coords: [1.4925, 42.4658],
-    name: { de: "Tabakmuseum", hu: "Dohánymúzeum", ro: "Muzeul Tutunului", en: "Tobacco Museum" },
-    description: {
-      de: "Museum in einer alten Fabrik über die Tabakindustrie.",
-      hu: "Múzeum egy régi gyárban a dohányiparról.",
-      ro: "Muzeu într-o fostă fabrică despre industria tutunului.",
-      en: "Museum in a former factory about the tobacco industry."
-    },
-    facts: {
-      de: ["In der ehemaligen Reig-Fabrik untergebracht.", "Erklärt den Prozess der Zigarrenherstellung.", "Zeigt die Bedeutung des Tabaks für die Wirtschaft."],
-      hu: ["Az egykori Reig-gyárban kapott helyet.", "Elmagyarázza a szivarkészítés folyamatát.", "Bemutatja a dohány fontosságát a gazdaságban."],
-      ro: ["Găzduit în fosta fabrică Reig.", "Explică procesul de fabricare a țigărilor de foi.", "Arată importanța tutunului pentru economie."],
-      en: ["Housed in the former Reig factory.", "Explains the cigar-making process.", "Shows the importance of tobacco for the economy."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Sant Julià de Lòriában, az egykori Reig dohánygyár épületében található Dohánymúzeum egyedülálló bepillantást enged Andorra 20. századi gazdasági és társadalmi életébe. A kiállítás végigvezeti a látogatót a dohány útján a magtól a késztermékig: a termesztéstől a betakarításon és szárításon át a cigaretták és szivarok kézi és gépi előállításáig. Eredeti gépek, szerszámok és egy multimédiás bemutató segítségével a múzeum megidézi a gyár egykori hangulatát, és rávilágít arra, hogy a dohányipar milyen meghatározó szerepet játszott az ország modernizációjában a turizmus megjelenése előtt. A múzeum a csempészet kalandos történetét is bemutatja, ami elválaszthatatlan volt a dohánykereskedelemtől. Gazdaságtörténet K8 - Ipari ágazatok felemelkedése és hanyatlása.",
-      ro: "",
-      en: "The Tobacco Museum, located in Sant Julià de Lòria in the former Reig tobacco factory building, offers a unique insight into the economic and social life of 20th-century Andorra. The exhibition takes the visitor on a journey of tobacco from seed to finished product: from cultivation, harvesting, and drying to the manual and machine production of cigarettes and cigars. With original machinery, tools, and a multimedia presentation, the museum evokes the former atmosphere of the factory and highlights the decisive role the tobacco industry played in the country's modernization before the advent of tourism. The museum also presents the adventurous history of smuggling, which was inseparable from the tobacco trade. Economic History K8 - The Rise and Fall of Industrial Sectors."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A Reig gyár 1909 és 1957 között működött.",
-        "A múzeumot audioguide segítségével lehet bejárni, amely a munkások történeteit is elmeséli.",
-        "A kiállítás bemutatja a különböző dohányfajtákat és aromákat.",
-        "Külön részleg foglalkozik a dohányreklámok és csomagolások változásával.",
-        "A Reig család Andorra egyik legbefolyásosabb családja volt, politikai szerepet is vállaltak.",
-        "Az épület maga is az ipari építészet szép példája.",
-        "A múzeum rávilágít a női munkaerő fontos szerepére a dohánygyárakban.",
-        "A tárlat objektíven mutatja be a dohányzás egészségügyi hatásait is."
-      ],
-      ro: [],
-      en: [
-        "The Reig factory operated from 1909 to 1957.",
-        "The museum can be explored with an audio guide that also tells the stories of the workers.",
-        "The exhibition presents different types of tobacco and aromas.",
-        "A separate section deals with the evolution of tobacco advertising and packaging.",
-        "The Reig family was one of the most influential families in Andorra and also took on a political role.",
-        "The building itself is a fine example of industrial architecture.",
-        "The museum highlights the important role of female labor in the tobacco factories.",
-        "The exhibition also objectively presents the health effects of smoking."
-      ]
-    }
-  },
-  {
-    id: "landmark-ad-005-nagol-church",
-    type: "landmark",
-    parent: "AD-005",
-    coords: [1.4983, 42.4692],
-    name: { de: "Kirche Sant Serni de Nagol", hu: "Sant Serni de Nagol-templom", ro: "Biserica Sant Serni de Nagol", en: "Church of Sant Serni de Nagol" },
-    description: {
-      de: "Eine kleine romanische Kirche mit spektakulärer Aussicht.",
-      hu: "Kicsi román stílusú templom látványos kilátással.",
-      ro: "O mică biserică romanică cu vederi spectaculoase.",
-      en: "A small Romanesque church with spectacular views."
-    },
-    facts: {
-      de: ["Erbaut im Jahr 1054.", "Steht auf einer Klippe über dem Tal.", "Enthält originale Wandmalereien aus dem 11. Jahrhundert."],
-      hu: ["1054-ben épült.", "Egy sziklán áll a völgy felett.", "11. századi eredeti falfestményeket tartalmaz."],
-      ro: ["Construită în anul 1054.", "Situată pe o stâncă deasupra văii.", "Conține picturi murale originale din secolul al XI-lea."],
-      en: ["Built in the year 1054.", "Perched on a cliff overlooking the valley.", "Contains original 11th-century mural paintings."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Sant Serni de Nagol templom egy apró román kori ékszerdoboz, amely drámai módon egy sziklaszirtre épült, kilátással Sant Julià de Lòria völgyére. Egy felirat tanúsága szerint 1054-ben szentelték fel, ami az egyik legkorábbi datált templommá teszi Andorrában. Az egyszerű, négyszögletes alaprajzú és félköríves apszisú épület belsejében a 11. századi, eredeti román kori falfestmények másolatai láthatók (az eredetiek Barcelonában vannak). Ezek az apokaliptikus jeleneteket és a Háromkirályok imádását ábrázoljó freskók az andorrai román festészet legkorábbi emlékei közé tartoznak. A templom elhelyezkedése és történelmi jelentősége miatt az ország egyik legfontosabb műemléke. Művészettörténet K7 - A román kori festészet kezdetei.",
-      ro: "",
-      en: "The church of Sant Serni de Nagol is a tiny Romanesque jewel box dramatically built on a cliff overlooking the valley of Sant Julià de Lòria. An inscription testifies that it was consecrated in 1054, making it one of the earliest dated churches in Andorra. Inside the simple, rectangular building with a semi-circular apse are copies of the original 11th-century Romanesque wall paintings (the originals are in Barcelona). These frescoes, depicting apocalyptic scenes and the Adoration of the Magi, are among the earliest examples of Andorran Romanesque painting. Due to its location and historical significance, the church is one of the country's most important monuments. Art History K7 - The Beginnings of Romanesque Painting."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A templom az egyik kevés andorrai egyházi épület, amelynek pontos felszentelési dátuma ismert.",
-        "A freskókat a 'Nagoli Mester' néven ismert, ismeretlen művésznek tulajdonítják.",
-        "A templomhoz egy rövid, de meredek gyalogösvény vezet fel.",
-        "A harangtorony egyszerű, kétszintes, lőrésszerű ablakokkal.",
-        "Az épület a korai lombard román stílus jegyeit viseli magán.",
-        "A freskók stílusa erős bizánci hatást mutat.",
-        "A templom kulcsát a falu turisztikai irodájában lehet elkérni a látogatáshoz.",
-        "A szikla, amelyre épült, természetes védelmet nyújtott a templomnak."
-      ],
-      ro: [],
-      en: [
-        "The church is one of the few ecclesiastical buildings in Andorra with a precisely known consecration date.",
-        "The frescoes are attributed to an unknown artist known as the 'Master of Nagol'.",
-        "A short but steep footpath leads up to the church.",
-        "The bell tower is simple, two-storey, with slit-like windows.",
-        "The building bears the marks of the early Lombard Romanesque style.",
-        "The style of the frescoes shows a strong Byzantine influence.",
-        "The key to the church can be requested from the village tourist office for a visit.",
-        "The rock on which it was built provided natural protection for the church."
-      ]
-    }
-  },
-  {
-    id: "landmark-ad-006-thyssen-museum",
-    type: "landmark",
-    parent: "AD-006",
-    coords: [1.5378, 42.5089],
-    name: { de: "Carmen Thyssen Museum", hu: "Carmen Thyssen Múzeum", ro: "Muzeul Carmen Thyssen", en: "Carmen Thyssen Museum" },
-    description: {
-      de: "Eine bedeutende Kunstgalerie mit Werken der Thyssen-Bornemisza-Sammlung.",
-      hu: "Jelentős művészeti galéria a Thyssen-Bornemisza gyűjtemény műveivel.",
-      ro: "O galerie de artă importantă cu lucrări din colecția Thyssen-Bornemisza.",
-      en: "A major art gallery featuring works from the Thyssen-Bornemisza collection."
-    },
-    facts: {
-      de: ["Befindet sich im ehemaligen Hotel Valira.", "Konzentriert sich auf Malerei des 19. und 20. Jahrhunderts.", "Bietet jährlich wechselnde Ausstellungen."],
-      hu: ["Az egykori Valira Hotelben található.", "A 19. és 20. századi festészetre összpontosít.", "Évente változó kiállításokat kínál."],
-      ro: ["Situat în fostul Hotel Valira.", "Se concentrează pe pictura din secolele XIX și XX.", "Oferă expoziții anuale temporare."],
-      en: ["Located in the former Valira Hotel.", "Focuses on 19th and 20th-century painting.", "Offers annually changing exhibitions."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az Escaldes-Engordanyban, a történelmi Hostal Valira földszintjén található Carmen Thyssen Múzeum a híres Thyssen-Bornemisza gyűjtemény első nemzetközi fiókintézménye. A múzeum a 19. és 20. századi festészetre specializálódott, évente változó tematikus kiállításokon mutatva be a gyűjtemény remekműveit. A látogatók olyan mesterek alkotásaiban gyönyörködhetnek, mint Monet, Gauguin, Matisse és számos spanyol festő. A viszonylag kis, intim tér lehetővé teszi a műalkotások közeli tanulmányozását. A múzeum a legmodernebb technológiát alkalmazza, interaktív képernyők segítségével a látogatók elmélyedhetnek a festmények részleteiben, megismerve azok történetét és a művészek technikáját. Modern művészet K8 - Impresszionizmus, posztimpresszionizmus és a 20. század irányzatai.",
-      ro: "",
-      en: "Located in Escaldes-Engordany, on the ground floor of the historic Hostal Valira, the Carmen Thyssen Museum is the first international branch of the famous Thyssen-Bornemisza collection. The museum specializes in 19th and 20th-century painting, showcasing masterpieces from the collection in annually changing thematic exhibitions. Visitors can admire works by masters such as Monet, Gauguin, Matisse, and numerous Spanish painters. The relatively small, intimate space allows for close study of the artworks. The museum employs the latest technology, with interactive screens that allow visitors to delve into the details of the paintings, learning their history and the artists' techniques. Modern Art K8 - Impressionism, Post-Impressionism, and 20th-century movements."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A múzeumot 2017-ben nyitották meg.",
-        "A kiállított művek Carmen Thyssen-Bornemisza bárónő magángyűjteményéből származnak.",
-        "A gránitból épült Hostal Valira épülete maga is műemlékvédelem alatt áll.",
-        "A kiállítások témái változatosak, például 'Női ábrázolás', 'Tájak' vagy 'Portrék'.",
-        "A múzeum rendszeresen szervez tárlatvezetéseket, workshopokat és családi programokat.",
-        "A technológia segítségével a látássérültek számára is élvezhetővé teszik a kiállítást.",
-        "A múzeum Andorra kulturális életének fontos központjává vált.",
-        "A kiállított képek között gyakran szerepelnek a spanyol festészet aranykorának alkotásai is."
-      ],
-      ro: [],
-      en: [
-        "The museum was opened in 2017.",
-        "The exhibited works come from the private collection of Baroness Carmen Thyssen-Bornemisza.",
-        "The Hostal Valira building, built of granite, is itself a protected monument.",
-        "The exhibition themes are varied, such as 'Female Representation', 'Landscapes', or 'Portraits'.",
-        "The museum regularly organizes guided tours, workshops, and family programs.",
-        "Technology makes the exhibition enjoyable for the visually impaired as well.",
-        "The museum has become an important center of Andorra's cultural life.",
-        "The exhibited paintings often include works from the golden age of Spanish painting."
-      ]
-    }
-  },
-  {
-    id: "landmark-ad-006-perfume-museum",
-    type: "landmark",
-    parent: "AD-006",
-    coords: [1.5367, 42.5097],
-    name: { de: "Parfümmuseum", hu: "Parfümmúzeum", ro: "Muzeul Parfumului", en: "Perfume Museum" },
-    description: {
-      de: "Ein interaktives Museum, das der Welt der Düfte gewidmet ist.",
-      hu: "Az illatok világának szentelt interaktív múzeum.",
-      ro: "Un muzeu interactiv dedicat lumii mirosurilor.",
-      en: "An interactive museum dedicated to the world of scents."
-    },
-    facts: {
-      de: ["Besitzt eine große Sammlung von Parfümflakons.", "Bietet ein sensorisches Erlebnis für Besucher.", "Erklärt die Geschichte der Parfümherstellung."],
-      hu: ["Hatalmas parfümösüveg-gyűjteménnyel rendelkezik.", "Szenzoros élményt nyújt a látogatóknak.", "Elmagyarázza a parfümkészítés történetét."],
-      ro: ["Deține o colecție mare de flacoane de parfum.", "Oferă o experiență senzorială vizitatorilor.", "Explică istoria fabricării parfumurilor."],
-      en: ["Possesses a large collection of perfume bottles.", "Offers a sensory experience for visitors.", "Explains the history of perfume making."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az escaldes-engordanyi Parfümmúzeum egy illatos utazásra invitálja a látogatókat a parfümkészítés történetébe és művészetébe. A Centre Júlia parfüméria első emeletén található interaktív kiállítás bemutatja a parfümök történetét az ókortól napjainkig. A látogatók megismerkedhetnek a különböző illatcsaládokkal, a parfümkészítés folyamatával és a híres 'orrok', azaz a parfümőrök munkájával. A kiállítás leglátványosabb része a több ezer darabból álló parfümösüveg-gyűjtemény, amely a dizájn fejlődését is illusztrálja. A túra végén a látogatóknak lehetőségük van egy kvíz segítségével meghatározni saját illat-preferenciájukat, sőt, akár saját parfümöt is készíthetnek. Kémia és dizájn K8 - Illatanyagok, desztilláció, formatervezés.",
-      ro: "",
-      en: "The Perfume Museum in Escaldes-Engordany invites visitors on a fragrant journey into the history and art of perfume making. Located on the first floor of the Centre Júlia perfumery, the interactive exhibition presents the history of perfumes from antiquity to the present day. Visitors can learn about the different fragrance families, the process of perfume making, and the work of famous 'noses' or perfumers. The most spectacular part of the exhibition is the collection of several thousand perfume bottles, which also illustrates the evolution of design. At the end of the tour, visitors have the opportunity to determine their own fragrance preferences with the help of a quiz, and can even create their own perfume. Chemistry and Design K8 - Fragrances, Distillation, Product Design."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A múzeum bemutatja a parfümgyártás alapanyagait, a virágoktól az állati eredetű pézsmáig.",
-        "A gyűjteményben olyan híres márkák üvegei is megtalálhatók, mint a Guerlain, a Dior vagy a Lalique.",
-        "A 'szagló orgona' segítségével a látogatók tesztelhetik szaglásukat.",
-        "A múzeum része az 'Andorrai Kézműves Útvonalnak'.",
-        "Külön workshopokat szerveznek, ahol a résztvevők megtanulhatják a parfümkészítés alapjait.",
-        "A kiállítás a parfümök és a divat kapcsolatát is bemutatja.",
-        "A múzeum elmagyarázza a természetes és szintetikus illatanyagok közötti különbséget.",
-        "A Centre Júlia, ahol a múzeum található, Andorra egyik legrégebbi és leghíresebb parfümériája."
-      ],
-      ro: [],
-      en: [
-        "The museum presents the raw materials of perfume production, from flowers to animal-derived musk.",
-        "The collection includes bottles from famous brands such as Guerlain, Dior, and Lalique.",
-        "Visitors can test their sense of smell with the help of a 'scent organ'.",
-        "The museum is part of the 'Andorran Craft Route'.",
-        "Special workshops are organized where participants can learn the basics of perfume making.",
-        "The exhibition also presents the relationship between perfumes and fashion.",
-        "The museum explains the difference between natural and synthetic fragrances.",
-        "The Centre Júlia, where the museum is located, is one of Andorra's oldest and most famous perfumeries."
-      ]
-    }
-  },
-  {
-    id: "landmark-ad-007-dali-sculpture",
-    type: "landmark",
-    parent: "AD-007",
-    coords: [1.5303, 42.5072],
-    name: { de: "Noblesse der Zeit", hu: "Az idő nemessége", ro: "Noblețea timpului", en: "The Nobility of Time" },
-    description: {
-      de: "Eine monumentale Bronzeskulptur von Salvador Dalí.",
-      hu: "Salvador Dalí monumentális bronzszobra.",
-      ro: "O sculptură monumentală din bronz de Salvador Dalí.",
-      en: "A monumental bronze sculpture by Salvador Dalí."
-    },
-    facts: {
-      de: ["Stellt eine schmelzende Uhr an einem Baumstamm dar.", "Symbolisiert das Vergehen der Zeit.", "Befindet sich an der Rotonda-Brücke."],
-      hu: ["Egy fatörzsön olvadó órát ábrázol.", "Az idő múlását jelképezi.", "A Rotonda-hídnál található."],
-      ro: ["Reprezintă un ceas care se topește pe un trunchi de copac.", "Simbolizează trecerea timpului.", "Situată lângă podul Rotonda."],
-      en: ["Depicts a melting clock on a tree trunk.", "Symbolizes the passage of time.", "Located by the Rotonda bridge."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "'Az idő nemessége' (Noblesse du Temps) Salvador Dalí szürrealista mester egyik legismertebb szobrának monumentális bronz változata, amely Andorra la Vella szívében, a Plaça de la Rotonda téren áll. A közel öt méter magas alkotás a művész egyik visszatérő motívumát, egy fatörzsön elfolyó, lágy órát ábrázol, melyet egy angyal koronáz meg. A szobor az idő múlását, annak az emberiség feletti hatalmát és a dolgok mulandóságát szimbolizálja. Az alkotást Enric Sabater, Dalí egykori ügynöke és bizalmasa adta kölcsön a városnak. Gyorsan a főváros egyik leggyakrabban fotózott látványosságává és modern jelképévé vált, egy csipetnyi szürrealizmust csempészve a nyüzsgő bevásárlóutcák világába. Művészettörténet K8 - A szürrealizmus és Salvador Dalí művészete.",
-      ro: "",
-      en: "'The Nobility of Time' (Noblesse du Temps) is a monumental bronze version of one of surrealist master Salvador Dalí's most famous sculptures, located in the heart of Andorra la Vella, in the Plaça de la Rotonda. The nearly five-meter-high work depicts one of the artist's recurring motifs, a soft, melting clock on a tree trunk, crowned by an angel. The sculpture symbolizes the passage of time, its power over humanity, and the transience of things. The work was loaned to the city by Enric Sabater, Dalí's former agent and confidant. It quickly became one of the capital's most photographed sights and a modern symbol, adding a touch of surrealism to the world of bustling shopping streets. Art History K8 - Surrealism and the Art of Salvador Dalí."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A szobor súlya 1400 kilogramm.",
-        "1999-ben állították fel Andorra la Vellában, de a végleges helyét 2010-ben kapta meg.",
-        "Ez a mű a 'Lágy órák' sorozat egyik darabja, amely 'Az emlékezet állandósága' című festményen alapul.",
-        "Dalí az eredeti tervet 1977-ben készítette.",
-        "A szobor a Valira folyó partján, a Pont de la Rotonda híd mellett található.",
-        "A világon több nagyvárosban is található hasonló Dalí-szobor ebből a sorozatból.",
-        "A szobor tökéletes kontrasztot alkot a háttérben magasodó hegyekkel.",
-        "Az alkotás a város elkötelezettségét szimbolizálja a köztéri művészet iránt."
-      ],
-      ro: [],
-      en: [
-        "The sculpture weighs 1,400 kilograms.",
-        "It was erected in Andorra la Vella in 1999, but its final location was established in 2010.",
-        "This work is part of the 'Soft Clocks' series, based on the painting 'The Persistence of Memory'.",
-        "Dalí created the original design in 1977.",
-        "The sculpture is located on the banks of the Valira river, next to the Pont de la Rotonda bridge.",
-        "Several other major cities in the world have similar Dalí sculptures from this series.",
-        "The sculpture forms a perfect contrast with the mountains towering in the background.",
-        "The work symbolizes the city's commitment to public art."
-      ]
-    }
-  },
-  {
-    id: "landmark-ad-007-sant-esteve",
-    type: "landmark",
-    parent: "AD-007",
-    coords: [1.5222, 42.5068],
-    name: { de: "Kirche Sant Esteve", hu: "Sant Esteve-templom", ro: "Biserica Sant Esteve", en: "Church of Sant Esteve" },
-    description: {
-      de: "Eine Kirche im historischen Zentrum von Andorra la Vella.",
-      hu: "Templom Andorra la Vella történelmi központjában.",
-      ro: "O biserică în centrul istoric din Andorra la Vella.",
-      en: "A church in the historic center of Andorra la Vella."
-    },
-    facts: {
-      de: ["Besitzt eine romanische Apsis aus dem 12. Jahrhundert.", "Wurde vom Architekten Josep Puig i Cadafalch renoviert.", "Enthält barocke Altarbilder."],
-      hu: ["12. századi román stílusú apszissal rendelkezik.", "Josep Puig i Cadafalch építész újította fel.", "Barokk oltárképeket tartalmaz."],
-      ro: ["Are o absidă romanică din secolul al XII-lea.", "A fost renovată de arhitectul Josep Puig i Cadafalch.", "Conține retabluri baroce."],
-      en: ["Features a Romanesque apse from the 12th century.", "Was renovated by architect Josep Puig i Cadafalch.", "Contains Baroque altarpieces."]
-    },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Sant Esteve templom Andorra la Vella plébániatemploma, amely a történelmi óváros (Barri Antic) szélén, a Plaça Príncep Benlloch téren áll. Bár az évszázadok során többször átépítették, legértékesebb része a 12. századból származó, félköríves, lombard díszítésű román kori apszis (szentély). A templom belsejében egykor a 'Santa Coloma-i Mester' híres oltárképe állt, ma azonban barokk oltárok díszítik. A 20. században a híres modernista építész, Josep Puig i Cadafalch tervei alapján újították fel, ekkor kapta mai bejáratát és harangtornyát. A Sant Esteve templom egy olyan épület, amelyben több építészeti stílus rétegződik egymásra, tanúskodva a város folyamatos fejlődéséről. Építészettörténet K7 - Stílusok keveredése egy épületen.",
-      ro: "",
-      en: "The Church of Sant Esteve is the parish church of Andorra la Vella, located on the edge of the historic old town (Barri Antic), in Plaça Príncep Benlloch. Although it has been rebuilt several times over the centuries, its most valuable part is the 12th-century semi-circular Romanesque apse with Lombard decoration. The interior of the church once housed the famous altarpiece by the 'Master of Santa Coloma', but is now decorated with Baroque altars. In the 20th century, it was renovated according to the plans of the famous modernist architect Josep Puig i Cadafalch, at which time it received its current entrance and bell tower. The Church of Sant Esteve is a building in which several architectural styles are layered on top of each other, testifying to the continuous development of the city. History of Architecture K7 - The Mixing of Styles in a Building."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [
-        "A templomot Szent István vértanúnak szentelték.",
-        "Az apszis az egyetlen, szinte teljes egészében megmaradt része az eredeti román kori épületnek.",
-        "A templomban található barokk oltárképek a 17. és 18. századból származnak.",
-        "Az üvegablakok modernek, a 20. században készültek.",
-        "A templom közvetlenül a Casa de la Vall, a régi parlament épülete mellett található.",
-        "Ma is a főváros legfontosabb katolikus temploma, ahol rendszeres istentiszteleteket tartanak.",
-        "Az apszis külső falán látható kőfaragások tipikus román kori motívumokat ábrázolnak.",
-        "A templom előtti tér népszerű találkozóhely és a városi ünnepségek egyik helyszíne."
-      ],
-      ro: [],
-      en: [
-        "The church is dedicated to Saint Stephen the Martyr.",
-        "The apse is the only almost completely preserved part of the original Romanesque building.",
-        "The Baroque altarpieces in the church date from the 17th and 18th centuries.",
-        "The stained glass windows are modern, made in the 20th century.",
-        "The church is located right next to the Casa de la Vall, the old parliament building.",
-        "It is still the most important Catholic church in the capital, where regular services are held.",
-        "The stone carvings on the outer wall of the apse depict typical Romanesque motifs.",
-        "The square in front of the church is a popular meeting place and a venue for city festivities."
-      ]
-    }
-  }
-];
-
-export const andorraAllPoi: POI[] = [andorraCountry,
-  ...andorraRegions,
+export const andorraAllPoi: POI[] = [
+  andorraCountry,
   ...andorraCities,
   ...andorraLandmarks,
   ...andorraNature,
-  ...andorraRegionPois, ...poiExtraAndorraCities, ...poiExtraAndorraOther];
+  ...andorraRegions,
+  ...poiExtraAndorraCities,
+  ...poiExtraAndorraOther
+];
+

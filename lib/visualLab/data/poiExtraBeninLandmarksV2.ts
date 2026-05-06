@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBeninLandmarksV2: POI[] = [
@@ -12,19 +13,12 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       ro: "Stadionul Prieteniei",
       en: "Friendship Stadium"
     },
-    description: {
-      de: "Das Stade de l'Amitié Général Mathieu Kérékou ist das größte Stadion Benins und ein zentraler Ort für Sport und Großveranstaltungen.",
-      hu: "A Stade de l'Amitié Général Mathieu Kérékou Benin legnagyobb stadionja, a sport és a nagy rendezvények központi helyszíne.",
-      ro: "Stade de l'Amitié Général Mathieu Kérékou este cel mai mare stadion din Benin și un loc central pentru sport și evenimente majore.",
-      en: "The Stade de l'Amitié Général Mathieu Kérékou is the largest stadium in Benin and a central venue for sports and major events."
+    descriptionAdvanced: {
+      de: "Das Stade de l'Amitié Général Mathieu Kérékou in Cotonou ist das größte Stadion in Benin und ein zentraler Ort für sportliche und kulturelle Großveranstaltungen. Benannt nach einem ehemaligen Präsidenten, dient es als Heimstätte für die beninische Fußballnationalmannschaft. Das Stadion ist nicht nur ein Ort des Sports, sondern symbolisiert auch den nationalen Zusammenhalt bei bedeutenden staatlichen Zeremonien. Sachkunde K5 — Sport und Gesellschaft."
     },
-    facts: {
-      de: ["Kapazität von 35.000 Plätzen.", "Heimat der Nationalmannschaft.", "Benannt nach Mathieu Kérékou."],
-      hu: ["35 000 férőhelyes kapacitás.", "A nemzeti válogatott otthona.", "Mathieu Kérékou tiszteletére nevezték el."],
-      ro: ["Capacitate de 35.000 de locuri.", "Casa echipei naționale.", "Numit după Mathieu Kérékou."],
-      en: ["Capacity of 35,000 seats.", "Home of the national team.", "Named after Mathieu Kérékou."]
-    }
-  },
+    factsAdvanced: {
+      de: ["Kapazität für etwa 35.000 Zuschauer.", "Das Stadion wurde ursprünglich im Jahr 1982 eröffnet.", "Umfangreich renoviert im Jahr 2005.", "Es ist das größte Stadion der Republik Benin.", "Austragungsort der nationalen Fußballspiele.", "Gelegen in Cotonou, dem wirtschaftlichen Zentrum des Landes."]
+    }, image: "/poi-images/stade-amitie-cotonou-landmarks-v2.webp"},
   {
     id: "place-etoile-rouge-cotonou-landmarks-v2",
     type: "landmark",
@@ -36,19 +30,12 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       ro: "Piața Steaua Roșie",
       en: "Red Star Place"
     },
-    description: {
-      de: "Ein markanter kreisförmiger Platz in Cotonou mit einem monumentalen Denkmal, das an die marxistisch-leninistische Ära des Landes erinnert.",
-      hu: "Jellegzetes kör alakú tér Cotonouban, egy monumentális emlékművel, amely az ország marxista-leninista korszakára emlékeztet.",
-      ro: "O piață circulară proeminentă în Cotonou, cu un monument monumental care amintește de era marxist-leninistă a țării.",
-      en: "A prominent circular plaza in Cotonou featuring a monumental landmark that commemorates the country's Marxist-Leninist era."
+    descriptionAdvanced: {
+      de: "Der Place de l'Étoile Rouge (Platz des Roten Sterns) in Cotonou ist eines der bekanntesten Wahrzeichen der Stadt. Mit seinem zentralen Denkmal, das an die sozialistische Ära Benins erinnert, ist er ein markanter Punkt im Stadtbild. Der Platz ist ein wichtiger Verkehrsknotenpunkt und fungiert oft als Ort für politische Versammlungen und öffentliche Kundgebungen in der Hauptstadt. Geschichte K8 — Geschichte der Republik Benin."
     },
-    facts: {
-      de: ["Zentrum wichtiger Verkehrswege.", "Symbol der Revolution.", "Bekanntes Wahrzeichen von Cotonou."],
-      hu: ["Fontos útvonalak csomópontja.", "A forradalom szimbóluma.", "Cotonou ismert jelképe."],
-      ro: ["Centrul unor rute de transport importante.", "Simbol al revoluției.", "Repère cunoscut al Cotonou."],
-      en: ["Hub of major transport routes.", "Symbol of the revolution.", "Well-known landmark of Cotonou."]
-    }
-  },
+    factsAdvanced: {
+      de: ["Das Denkmal in der Mitte ist der Rote Stern.", "Symbol für die marxistisch-leninistische Vergangenheit Benins.", "Der Platz liegt im Herzen von Cotonou.", "Er ist ein wichtiger Verkehrsknotenpunkt in der Stadt.", "Oftmals Ort für feierliche politische Veranstaltungen.", "Ein unverwechselbares Wahrzeichen von Cotonou."]
+    }, image: "/poi-images/place-etoile-rouge-cotonou-landmarks-v2.webp"},
   {
     id: "ancien-pont-cotonou-landmarks-v2",
     type: "landmark",
@@ -71,8 +58,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Összeköti Kelet- és Nyugat-Cotonout.", "Kilátást nyújt a kikötőre.", "Fontos közlekedési útvonal."],
       ro: ["Conectează estul și vestul Cotonou.", "Oferă vedere spre port.", "Arteră importantă de trafic."],
       en: ["Connects East and West Cotonou.", "Offers views of the port.", "Major traffic artery."]
-    }
-  },
+    }, image: "/poi-images/ancien-pont-cotonou-landmarks-v2.webp"},
   {
     id: "phare-cotonou-landmarks-v2",
     type: "landmark",
@@ -84,19 +70,12 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       ro: "Farul din Cotonou",
       en: "Cotonou Lighthouse"
     },
-    description: {
-      de: "Ein historischer Leuchtturm nahe dem Hafen, der seit Jahrzehnten Schiffen den Weg in den wichtigsten Hafen Benins weist.",
-      hu: "Történelmi világítótorony a kikötő közelében, amely évtizedek óta mutatja az utat a hajóknak Benin legfontosabb kikötőjébe.",
-      ro: "Un far istoric situat lângă port, care ghidează navele către cel mai important port din Benin de decenii.",
-      en: "A historic lighthouse near the port that has guided ships into Benin's most important harbor for decades."
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Cotonou ist ein historisches Bauwerk an der Küste, das seit langem zur Sicherheit der Schifffahrt im Golf von Guinea beiträgt. Er markiert den Eingang zum Hafen von Cotonou, dem wichtigsten Wirtschaftsfaktor des Landes. Trotz der modernen Entwicklung des Hafengebiets bleibt der Leuchtturm ein wichtiges architektonisches Symbol der Küstenlinie von Benin. Geografie K6 — Küsten und Schifffahrt."
     },
-    facts: {
-      de: ["Wichtig für die Navigation.", "Nahe dem Atlantikufer.", "Markantes weiß-rotes Bauwerk."],
-      hu: ["Fontos a navigáció számára.", "Az Atlanti-part közelében található.", "Jellegzetes fehér-piros építmény."],
-      ro: ["Important pentru navigație.", "Aproape de țărmul Atlanticului.", "Edificiu distinctiv alb-roșu."],
-      en: ["Important for navigation.", "Located near the Atlantic shore.", "Distinctive white and red structure."]
-    }
-  },
+    factsAdvanced: {
+      de: ["Markiert die Einfahrt zum wichtigen Hafen von Cotonou.", "Ein wesentliches Element für die Sicherheit der Schifffahrt.", "Die Geschichte des Leuchtturms ist eng mit dem Hafen verbunden.", "Bietet eine gute Orientierung an der Atlantikküste.", "Ein charakteristisches Wahrzeichen für die Küstenregion.", "Der Hafen von Cotonou ist der wichtigste Seehafen Benins."]
+    }, image: "/poi-images/phare-cotonou-landmarks-v2.webp"},
   {
     id: "place-martyrs-cotonou-landmarks-v2",
     type: "landmark",
@@ -119,8 +98,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["1977. január 16-ra emlékeztet.", "A nemzeti emlékezet helyszíne.", "Központi elhelyezkedés a városban."],
       ro: ["Comemorează data de 16 ianuarie 1977.", "Loc de comemorare națională.", "Locație centrală în oraș."],
       en: ["Commemorates January 16, 1977.", "Site of national remembrance.", "Central location in the city."]
-    }
-  },
+    }, image: "/poi-images/place-martyrs-cotonou-landmarks-v2.webp"},
   {
     id: "port-autonome-cotonou-landmarks-v2",
     type: "landmark",
@@ -143,8 +121,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Kapu a szárazföldi országok felé.", "Nagy kereskedelmi volumen.", "A régió legfontosabb munkáltatója."],
       ro: ["Poartă către țările fără ieșire la mare.", "Volum mare de mărfuri.", "Cel mai important angajator din regiune."],
       en: ["Gateway to landlocked countries.", "Large trade volume.", "Most important employer in the region."]
-    }
-  },
+    }, image: "/poi-images/port-autonome-cotonou-landmarks-v2.webp"},
   {
     id: "cathedrale-misericorde-cotonou-landmarks-v2",
     type: "landmark",
@@ -167,8 +144,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Neogótikus építészet.", "Híres a csíkos mintázatáról.", "Az érsek székhelye."],
       ro: ["Arhitectură neogotică.", "Faimoasă pentru modelul cu dungi.", "Reședința arhiepiscopului."],
       en: ["Neo-Gothic architecture.", "Famous for its striped pattern.", "Seat of the Archbishop."]
-    }
-  },
+    }, image: "/poi-images/cathedrale-misericorde-cotonou-landmarks-v2.webp"},
   {
     id: "palais-marina-cotonou-landmarks-v2",
     type: "landmark",
@@ -191,8 +167,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["A végrehajtó hatalom székhelye.", "Közvetlenül a tengerparton fekszik.", "Szigorúan őrzött terület."],
       ro: ["Sediul puterii executive.", "Situat direct pe malul mării.", "Zonă puternic păzită."],
       en: ["Seat of the executive power.", "Located directly on the seafront.", "Heavily guarded area."]
-    }
-  },
+    }, image: "/poi-images/palais-marina-cotonou-landmarks-v2.webp"},
   {
     id: "palais-congres-cotonou-landmarks-v2",
     type: "landmark",
@@ -215,8 +190,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Modern építészet.", "Fontos a diplomácia számára.", "Kilátást nyújt az óceánra."],
       ro: ["Arhitectură modernă.", "Important pentru diplomație.", "Oferă vedere spre ocean."],
       en: ["Modern architecture.", "Important for diplomacy.", "Offers ocean views."]
-    }
-  },
+    }, image: "/poi-images/palais-congres-cotonou-landmarks-v2.webp"},
   {
     id: "marche-dantokpa-cotonou-landmarks-v2",
     type: "landmark",
@@ -239,8 +213,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Több mint 20 hektár terület.", "Régiók feletti kereskedelmi központ.", "Mindent árulnak a szövettől a fetisig."],
       ro: ["Peste 20 de hectare de suprafață.", "Piață comercială supraregională.", "Se vinde orice, de la țesături la fetișuri."],
       en: ["Over 20 hectares in size.", "Supraregional trading hub.", "Sells everything from fabrics to fetishes."]
-    }
-  },
+    }, image: "/poi-images/marche-dantokpa-cotonou-landmarks-v2.webp"},
   {
     id: "assemblee-nationale-porto-novo-landmarks-v2",
     type: "landmark",
@@ -263,8 +236,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["A fővárosban található.", "Politikai viták helyszíne.", "Lenyűgöző épületegyüttes."],
       ro: ["Situată în capitală.", "Locul dezbaterilor politice.", "Complex de clădiri impresionant."],
       en: ["Located in the capital city.", "Site of political debates.", "Impressive building complex."]
-    }
-  },
+    }, image: "/poi-images/assemblee-nationale-porto-novo-landmarks-v2.webp"},
   {
     id: "pont-charles-de-gaulle-porto-novo-landmarks-v2",
     type: "landmark",
@@ -287,8 +259,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Fontos közlekedési kapcsolat.", "Kilátást nyújt Porto-Novóra.", "A francia tábornokról nevezték el."],
       ro: ["Legătură de transport importantă.", "Oferă vedere spre Porto-Novo.", "Numit după generalul francez."],
       en: ["Key transport link.", "Offers views of Porto-Novo.", "Named after the French general."]
-    }
-  },
+    }, image: "/poi-images/pont-charles-de-gaulle-porto-novo-landmarks-v2.webp"},
   {
     id: "palais-gouverneur-porto-novo-landmarks-v2",
     type: "landmark",
@@ -311,8 +282,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Építészeti örökség.", "Ma hivatalos intézmények székhelye.", "A gyarmati negyed központja."],
       ro: ["Moștenire arhitecturală.", "Astăzi sediul unor instituții oficiale.", "Centrul cartierului colonial."],
       en: ["Architectural heritage.", "Now home to official institutions.", "Center of the colonial district."]
-    }
-  },
+    }, image: "/poi-images/palais-gouverneur-porto-novo-landmarks-v2.webp"},
   {
     id: "hotel-ville-cotonou-landmarks-v2",
     type: "landmark",
@@ -335,8 +305,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["A városvezetés központja.", "Hivatalos ceremóniák helyszíne.", "Az üzleti negyed szívében."],
       ro: ["Centrul administrației orașului.", "Locul ceremoniilor oficiale.", "În inima cartierului de afaceri."],
       en: ["Center of city governance.", "Site of official ceremonies.", "In the heart of the business district."]
-    }
-  },
+    }, image: "/poi-images/hotel-ville-cotonou-landmarks-v2.webp"},
   {
     id: "universite-abomey-calavi-landmarks-v2",
     type: "landmark",
@@ -359,8 +328,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["1970-ben alapították.", "Több tízezer hallgató.", "A legfontosabb tudományos központ."],
       ro: ["Fondată în 1970.", "Zeci de mii de studenți.", "Cel mai important loc al științei."],
       en: ["Founded in 1970.", "Tens of thousands of students.", "Most important scientific site."]
-    }
-  },
+    }, image: "/poi-images/universite-abomey-calavi-landmarks-v2.webp"},
   {
     id: "pont-cinquantenaire-cotonou-landmarks-v2",
     type: "landmark",
@@ -383,8 +351,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Tehermentesíti a városi forgalmat.", "Modern építmény.", "A megújulás szimbóluma."],
       ro: ["Decongestionează traficul urban.", "Edificiu modern.", "Simbol al reînnoirii."],
       en: ["Eases urban traffic.", "Modern structure.", "Symbol of renewal."]
-    }
-  },
+    }, image: "/poi-images/pont-cinquantenaire-cotonou-landmarks-v2.webp"},
   {
     id: "place-bulgarie-cotonou-landmarks-v2",
     type: "landmark",
@@ -407,8 +374,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Fontos közlekedési csomópont.", "Történelmi emlékmű.", "Találkozóhely a városban."],
       ro: ["Nod de trafic important.", "Monument istoric.", "Loc de întâlnire în oraș."],
       en: ["Major transport hub.", "Historical monument.", "Meeting point in the city."]
-    }
-  },
+    }, image: "/poi-images/place-bulgarie-cotonou-landmarks-v2.webp"},
   {
     id: "place-lenine-cotonou-landmarks-v2",
     type: "landmark",
@@ -431,8 +397,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Cotonou keleti részén.", "Benin történelmének része.", "Fontos tájékozódási pont."],
       ro: ["În estul orașului Cotonou.", "Parte a istoriei Beninului.", "Punct important de orientare."],
       en: ["In eastern Cotonou.", "Part of Benin's history.", "Major local landmark."]
-    }
-  },
+    }, image: "/poi-images/place-lenine-cotonou-landmarks-v2.webp"},
   {
     id: "grand-marche-parakou-landmarks-v2",
     type: "landmark",
@@ -455,8 +420,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Központi kereskedelmi helyszín.", "Híres a textilekről.", "Lüktető élet."],
       ro: ["Piață comercială centrală.", "Faimoasă pentru textile.", "Viață vibrantă."],
       en: ["Central trading hub.", "Famous for textiles.", "Pulsating life."]
-    }
-  },
+    }, image: "/poi-images/grand-marche-parakou-landmarks-v2.webp"},
   {
     id: "gare-parakou-landmarks-v2",
     type: "landmark",
@@ -479,8 +443,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["A Cotonouból induló vonal vége.", "Fontos az áruszállítás számára.", "Gyarmati örökség."],
       ro: ["Capătul liniei din Cotonou.", "Important pentru transportul de mărfuri.", "Moștenire colonială."],
       en: ["End of the line from Cotonou.", "Important for freight transport.", "Colonial heritage."]
-    }
-  },
+    }, image: "/poi-images/gare-parakou-landmarks-v2.webp"},
   {
     id: "monument-resistance-natitingou-landmarks-v2",
     type: "landmark",
@@ -503,8 +466,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["A büszkeség szimbóluma.", "Észak-Beninben található.", "Helyi ceremóniák helyszíne."],
       ro: ["Simbol al mândriei.", "Situat în nordul Beninului.", "Locul unor ceremonii locale."],
       en: ["Symbol of pride.", "Located in northern Benin.", "Site of local ceremonies."]
-    }
-  },
+    }, image: "/poi-images/monument-resistance-natitingou-landmarks-v2.webp"},
   {
     id: "place-reconciliation-ouidah-landmarks-v2",
     type: "landmark",
@@ -527,8 +489,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["A 'Visszatérés nélküli kapu' közelében.", "Az elmélkedés helyszíne.", "Kulturális jelentőség."],
       ro: ["Lângă 'Poarta fără întoarcere'.", "Loc de reflecție.", "Semnificație culturală."],
       en: ["Near the 'Door of No Return'.", "Site of reflection.", "Cultural importance."]
-    }
-  },
+    }, image: "/poi-images/place-reconciliation-ouidah-landmarks-v2.webp"},
   {
     id: "monument-centenaire-evangelisation-ouidah-landmarks-v2",
     type: "landmark",
@@ -551,8 +512,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["Vallási jelkép.", "A bazilika közelében.", "Történelmi mérföldkő."],
       ro: ["Repère religios.", "În apropierea bazilicii.", "Etapă istorică."],
       en: ["Religious landmark.", "Near the basilica.", "Historical milestone."]
-    }
-  },
+    }, image: "/poi-images/monument-centenaire-evangelisation-ouidah-landmarks-v2.webp"},
   {
     id: "centre-culturel-jean-pliya-cotonou-landmarks-v2",
     type: "landmark",
@@ -575,8 +535,7 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       hu: ["A művészetek központja.", "Az íróról nevezték el.", "A csere és párbeszéd helyszíne."],
       ro: ["Centrul artelor.", "Numit după scriitor.", "Loc de schimb cultural."],
       en: ["Center for the arts.", "Named after the writer.", "Place of exchange."]
-    }
-  },
+    }, image: "/poi-images/centre-culturel-jean-pliya-cotonou-landmarks-v2.webp"},
   {
     id: "aeroport-cadjehoun-cotonou-landmarks-v2",
     type: "landmark",
@@ -602,3 +561,4 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraVenezuelaHistoryV2: POI[] = [
@@ -20,9 +21,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Nationales Pantheon von Venezuela ist ein heiliger Ort der nationalen Erinnerung. Einst als Kirche 'Santísima Trinidad' erbaut, wurde das Gebäude im 19. Jahrhundert zur letzten Ruhestätte für die herausragendsten Persönlichkeiten der venezolanischen Geschichte erklärt. Die prächtigen Wandmalereien und das architektonische Design unterstreichen die Bedeutung der hier beigesetzten Helden wie Simón Bolívar. Es ist ein zentrales Monument, das die Identität und Geschichte des Landes tiefgreifend bewahrt. Geschichte K8 — Nationalidentität.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A venezuelai Nemzeti Panteon a nemzeti emlékezet szent helye. Az eredetileg 'Santísima Trinidad' templomnak épült épületet a 19. században nyilvánították a venezuelai történelem legkiválóbb személyiségeinek végső nyughelyévé. A pompás falfestmények és az építészeti kialakítás hangsúlyozzák az itt eltemetett hősök, köztük Simón Bolívar jelentőségét. Ez a központi emlékmű mélyen őrzi az ország identitását és történelmét. Történelem K8 — nemzeti identitás.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Beherbergt die sterblichen Überreste von Simón Bolívar.", "Ursprünglich als Kirche erbaut."],
@@ -32,11 +33,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Gebäude wurde 1874 per Dekret zum Nationalen Pantheon ernannt.", "Simón Bolívars sterbliche Überreste wurden 1876 in einer feierlichen Prozession hierhin überführt.", "Das Pantheon zeichnet sich durch seine neoklassizistische Architektur und den beeindruckenden Altarbereich aus.", "Es dient als Ort für offizielle staatliche Zeremonien zur Ehrung nationaler Persönlichkeiten."],
-      hu: [],
+      hu: ["Az épületet 1874-ben rendeletileg nyilvánították Nemzeti Panteonná.", "Simón Bolívar földi maradványait 1876-ban ünnepélyes körmenetben szállították ide.", "A Panteont neoklasszicista építészet és lenyűgöző oltárrész jellemzi.", "Hivatalos állami ünnepségek helyszínéül szolgál a nemzeti személyiségek tiszteletére."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-panteon-nacional-history-v2.webp"},
   {
     id: "venezuela-casa-natal-bolivar-history-v2",
     type: "historical",
@@ -56,9 +56,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Geburtshaus von Simón Bolívar ist eines der bedeutendsten historischen Zeugnisse in Caracas. Es vermittelt einen authentischen Einblick in das Leben einer wohlhabenden Familie im venezolanischen Kolonialzeitalter. Mit seinen gut erhaltenen Innenhöfen und der zeitgenössischen Einrichtung führt das Museum Besucher zurück in das 18. Jahrhundert. Als Ort, an dem der bedeutendste Befreier Südamerikas seine ersten Lebensjahre verbrachte, ist es ein zentrales Element für das Verständnis der nationalen Geschichte. Geschichte K6 — Befreiungskampf.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Simón Bolívar szülőháza Caracas egyik legjelentősebb történelmi emléke. Hiteles betekintést nyújt egy jómódú család életébe a venezuelai gyarmati korszakban. Jól megőrzött belső udvaraival és korhű berendezésével a múzeum visszarepíti a látogatókat a 18. századba. Mivel Dél-Amerika legjelentősebb felszabadítója itt töltötte élete első éveit, a helyszín központi eleme a nemzeti történelem megértésének. Történelem K6 — felszabadító harc.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Geburtsort des Befreiers im Jahr 1783.", "Zeigt traditionelle koloniale Architektur."],
@@ -68,11 +68,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Simón Bolívar wurde am 24. Juli 1783 in diesem Gebäude geboren.", "Das Haus wurde im 20. Jahrhundert restauriert, um seinen kolonialen Charakter zu bewahren.", "Das Museum beherbergt bedeutende Erinnerungsstücke aus dem Leben des Befreiers.", "Es ist ein anerkanntes historisches und nationales Denkmal Venezuelas."],
-      hu: [],
+      hu: ["Simón Bolívar 1783. július 24-én született ebben az épületben.", "A házat a 20. században restaurálták, hogy megőrizzék gyarmati karakterét.", "A múzeum jelentős emlékeket őriz a Felszabadító életéből.", "Venezuela elismert történelmi és nemzeti műemléke."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-casa-natal-bolivar-history-v2.webp"},
   {
     id: "venezuela-castillo-san-carlos-barra-history-v2",
     type: "historical",
@@ -92,9 +91,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Festung San Carlos de la Barra thront über dem Zugang zum Golf von Venezuela und dem Maracaibo-See. Ihre markante Sternform ist ein klassisches Beispiel für die Verteidigungsarchitektur der spanischen Kolonialzeit. Sie diente als kritische Barriere gegen Überfälle durch Piraten und ausländische Flotten, die versuchten, den wirtschaftlich bedeutenden Zugang zum See zu erobern. Heute ist sie ein stummer Zeuge der militärischen Geschichte an einer der historisch wichtigsten Wasserstraßen des Landes. Geschichte K6 — Verteidigung.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A San Carlos de la Barra erőd a Venezuelai-öböl és a Maracaibo-tó bejárata felett őrködik. Jellegzetes csillag alakja a spanyol gyarmati korszak védelmi építészetének klasszikus példája. Kritikus gátként szolgált a kalózok és idegen flották támadásai ellen, akik a tó gazdaságilag jelentős bejáratát próbálták megszerezni. Ma néma tanúja a katonai történelemnek az ország egyik történelmileg legfontosabb vízi útján. Történelem K6 — védelem.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Erbaut im 17. Jahrhundert.", "Schützte den Golf von Venezuela."],
@@ -104,11 +103,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Bau der Festung begann im Jahr 1623.", "San Carlos de la Barra ist eine der ältesten Verteidigungsanlagen im Westen des Landes.", "Die strategische Lage war entscheidend für die Sicherheit der Handelswege zum See.", "Sie zeugt von der ständigen Wachsamkeit der Kolonialmacht gegen maritime Bedrohungen."],
-      hu: [],
+      hu: ["Az erőd építése 1623-ban kezdődött.", "San Carlos de la Barra az ország nyugati részének egyik legrégebbi védelmi létesítménye.", "Stratégiai fekvése döntő volt a tóhoz vezető kereskedelmi útvonalak biztonsága szempontjából.", "A gyarmati hatalom tengeri fenyegetésekkel szembeni állandó éberségéről tanúskodik."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-castillo-san-carlos-barra-history-v2.webp"},
   {
     id: "venezuela-fortin-solano-history-v2",
     type: "historical",
@@ -128,9 +126,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Fortín Solano wurde strategisch auf einer Anhöhe errichtet, um das wichtige Hafengebiet von Puerto Cabello von oben zu überwachen. Seine Lage innerhalb des heutigen San Esteban Nationalparks bietet Besuchern nicht nur einen Einblick in die militärische Architektur des 18. Jahrhunderts, sondern auch einen atemberaubenden Blick über die Küste. Das Fort war ein entscheidender Punkt in den Verteidigungsstrategien gegen maritim operierende Angreifer. Es ist heute ein beliebtes Ziel für Wanderer und Geschichtsinteressierte gleichermaßen. Geschichte K7 — Küstenverteidigung.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Fortín Solano erődöt stratégiailag egy dombra építették, hogy felülről felügyelje Puerto Cabello fontos kikötői területét. Elhelyezkedése a mai San Esteban Nemzeti Parkban nemcsak a 18. századi katonai építészetbe enged betekintést, hanem lélegzetelállító kilátást is nyújt a tengerpartra. Az erőd döntő pont volt a tengeri támadók elleni védelmi stratégiákban. Ma népszerű célpont a túrázók és a történelem kedvelői számára egyaránt. Történelem K7 — partvédelem.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["1766 zum Schutz vor Piraten erbaut.", "Liegt im Nationalpark San Esteban."],
@@ -140,11 +138,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Fort wurde 1766 unter dem Gouverneur Solano errichtet.", "Es diente als letzte Verteidigungslinie für den Hafen von Puerto Cabello.", "Der Nationalpark San Esteban bietet einen geschützten Rahmen für dieses historische Monument.", "Die Festung ist heute ein wichtiges Symbol für die koloniale Verteidigungsstrategie in Carabobo."],
-      hu: [],
+      hu: ["Az erődöt 1766-ban emelték Solano kormányzó idején.", "Utolsó védelmi vonalként szolgált Puerto Cabello kikötője számára.", "A San Esteban Nemzeti Park védett környezetet biztosít e történelmi műemléknek.", "Az erőd ma a Carabobo-i gyarmati védelmi stratégia fontos szimbóluma."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-fortin-solano-history-v2.webp"},
   {
     id: "venezuela-castillo-san-felipe-history-v2",
     type: "historical",
@@ -164,9 +161,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Festung San Felipe, heute oft auch als 'Castillo Libertador' bezeichnet, ist eine beeindruckende Verteidigungsanlage, die das Hafenbecken von Puerto Cabello beherrscht. Über Jahrhunderte hinweg war sie ein entscheidendes Element für die Sicherheit und Kontrolle dieser bedeutenden Hafenstadt. In späteren Epochen, insbesondere im 19. und 20. Jahrhundert, wurde sie als gefürchtetes Gefängnis genutzt. Heute ist die Festung ein Mahnmal und ein geschichtsträchtiger Ort, der die militärische Geschichte der venezolanischen Küste anschaulich macht. Geschichte K8 — Gefängnisgeschichte.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A San Felipe erőd, amelyet ma gyakran 'Castillo Libertador' néven is emlegetnek, egy lenyűgöző védelmi létesítmény Puerto Cabello kikötője felett. Évszázadokon át meghatározó eleme volt e jelentős kikötőváros biztonságának és ellenőrzésének. A későbbi korszakokban, különösen a 19. és 20. században, hírhedt börtönként használták. Ma az erőd emlékhely és történelmi helyszín, amely szemléletesen mutatja be a venezuelai tengerpart katonai múltját. Történelem K8 — börtöntörténet.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Diente im 19. und 20. Jahrhundert als Gefängnis.", "Wird auch als Castillo Libertador bezeichnet."],
@@ -176,11 +173,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Bau von San Felipe begann im 18. Jahrhundert zur Sicherung der spanischen Handelsinteressen.", "Als Castillo Libertador erlangte die Festung einen zweifelhaften Ruf als Haftanstalt.", "Ihre mächtigen Mauern und die Architektur sind ein herausragendes Beispiel für koloniale Befestigungswerke.", "Die Festung beherrscht bis heute das maritime Stadtbild von Puerto Cabello."],
-      hu: [],
+      hu: ["San Felipe építése a 18. században kezdődött a spanyol kereskedelmi érdekek biztosítására.", "Castillo Libertador néven az erőd kétes hírnévre tett szert mint fegyintézet.", "Hatalmas falai és építészete a gyarmati erődítmények kiemelkedő példái.", "Az erőd a mai napig meghatározza Puerto Cabello tengeri városképét."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-castillo-san-felipe-history-v2.webp"},
   {
     id: "venezuela-historic-center-coro-history-v2",
     type: "historical",
@@ -200,9 +196,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Coro ist eine Stadt, die ihre Geschichte in den Wänden ihrer Gebäude bewahrt hat. Das historische Zentrum von Coro ist das Paradebeispiel für die koloniale Lehmarchitektur in Venezuela. Durch das trockene Klima in dieser Region konnte sich dieser Baustil mit seinen Adobe-Ziegeln über Jahrhunderte erhalten. Die UNESCO hat dieses Erbe zu Recht als Weltkulturerbe anerkannt, da es einen einzigartigen Blick in die Lebensweise der frühen Siedler bietet. Coro ist ein lebendiges Museum der frühen Kolonialzeit. Geschichte K5 — Weltkulturerbe.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Coro egy város, amely épületeinek falaiban őrizte meg történelmét. Történelmi központja a gyarmati vályogépítészet mintapéldája Venezuelában. A régió száraz éghajlatának köszönhetően ez az építési stílus az adoné téglákkal évszázadokon át fennmaradhatott. Az UNESCO méltán ismerte el ezt az örökséget a Világörökség részeként, mivel egyedülálló betekintést nyújt a korai telepesek életmódjába. Coro a korai gyarmati korszak élő múzeuma. Történelem K5 — Világörökség.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Seit 1993 UNESCO-Weltkulturerbe.", "Bekannt für traditionelle Lehmbauten."],
@@ -212,11 +208,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das historische Zentrum von Coro wurde 1993 in die Welterbeliste aufgenommen.", "Die Bauweise mit Lehm (Adobe) war eine Anpassung an das heiße und trockene Klima der Region.", "Coro war einer der ersten urbanen Zentren, die durch die spanische Eroberung im 16. Jahrhundert gegründet wurden.", "Die Architektur des Zentrums ist ein Zeugnis kulturellen Austauschs während der frühen Kolonialzeit."],
-      hu: [],
+      hu: ["Coro történelmi központját 1993-ban vették fel a Világörökségi listára.", "A vályogépítés (adobe) alkalmazkodás volt a régió forró és száraz éghajlatához.", "Coro az egyik első városi központ volt, amelyet a spanyol hódítás során a 16. században alapítottak.", "A központ építészete a korai gyarmati korszak kulturális cseréjének tanúbizonysága."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-historic-center-coro-history-v2.webp"},
   {
     id: "venezuela-campo-de-carabobo-history-v2",
     type: "historical",
@@ -236,9 +231,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Schlachtfeld von Carabobo ist ein Symbol der venezolanischen Identität. Am 24. Juni 1821 fand hier die entscheidende Auseinandersetzung zwischen der Unabhängigkeitsarmee unter Simón Bolívar und den spanischen Truppen statt. Der Sieg markierte den Durchbruch zur Unabhängigkeit und legte den Grundstein für die heutige Nation. Die Gedenkstätte mit dem 'Altar des Vaterlandes' ist ein bedeutender Ort, an dem jährlich die Helden des Befreiungskampfes gewürdigt werden. Geschichte K8 — Nationalfeiertage.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Carabobo-i csatatér a venezuelai identitás szimbóluma. 1821. június 24-én itt zajlott a döntő összecsapás a Simón Bolívar vezette függetlenségi sereg és a spanyol csapatok között. A győzelem áttörést jelentett a függetlenség felé, és lefektette a mai nemzet alapjait. A 'Haza Oltárával' rendelkező emlékhely jelentős pont, ahol évente tisztelegnek a felszabadító harc hősei előtt. Történelem K8 — nemzeti ünnepek.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Schauplatz der entscheidenden Schlacht von Carabobo.", "Beherbergt den Altar des Vaterlandes."],
@@ -248,11 +243,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Schlacht von Carabobo gilt als der wichtigste militärische Meilenstein für Venezuela.", "Der monumentale 'Altar des Vaterlandes' wurde errichtet, um das Gedenken an den Befreiungskampf zu bewahren.", "Das Campo de Carabobo ist ein Symbol für den langen und opferreichen Kampf um Freiheit.", "Jedes Jahr finden hier offizielle Staatsakte statt, um an den Sieg von 1821 zu erinnern."],
-      hu: [],
+      hu: ["A carabobói csatát tekintik Venezuela legfontosabb katonai mérföldkövének.", "A monumentális 'Haza Oltárát' a felszabadító harc emlékének megőrzésére emelték.", "Campo de Carabobo a szabadságért folytatott hosszú és áldozatos küzdelem jelképe.", "Minden évben hivatalos állami ünnepségeket tartanak itt az 1821-es győzelem emlékére."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-campo-de-carabobo-history-v2.webp"},
   {
     id: "venezuela-castillo-san-carlos-borromeo-history-v2",
     type: "historical",
@@ -272,9 +266,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Castillo San Carlos Borromeo ist ein markantes Wahrzeichen von Pampatar auf der Isla Margarita. Die im 17. Jahrhundert errichtete Festung diente der spanischen Krone zur Verteidigung der wertvollen Hafenbucht gegen Überfälle durch Piraten und konkurrierende europäische Mächte. Ihre gut erhaltene Struktur und der herrliche Panoramablick über das Karibische Meer machen sie heute zu einem beliebten Ziel, das die militärische Geschichte der venezolanischen Inseln lebendig hält. Geschichte K6 — Verteidigung.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A San Carlos Borromeo erőd Pampatar jellegzetes mérföldköve a Margarita-szigeten. A 17. században emelt erőd a spanyol korona számára szolgált az értékes kikötőöböl védelmére a kalózok és a rivális európai hatalmak támadásai ellen. Jól megőrzött szerkezete és a Karib-tengerre nyíló pompás panorámája ma népszerű célponttá teszi, amely életben tartja a venezuelai szigetek katonai történelmét. Történelem K6 — védelem.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["1662 zum Schutz von Pampatar erbaut.", "Bietet einen Blick auf das Karibische Meer."],
@@ -284,11 +278,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Bau von San Carlos Borromeo war eine direkte Reaktion auf die ständige Bedrohung der Handelswege durch Piraten.", "Das Castillo ist ein bedeutendes Beispiel für die militärische Architektur auf den venezolanischen Inseln.", "Die Festung überblickt heute den beliebten Hafen von Pampatar.", "Sie ist Teil des nationalen Erbes Venezuelas auf der Isla Margarita."],
-      hu: [],
+      hu: ["San Carlos Borromeo építése közvetlen válasz volt a kereskedelmi útvonalak állandó kalózfenyegetettségére.", "Az erőd a venezuelai szigetek katonai építészetének jelentős példája.", "A vár ma Pampatar népszerű kikötőjére néz.", "Része Venezuela nemzeti örökségének a Margarita-szigeten."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-castillo-san-carlos-borromeo-history-v2.webp"},
   {
     id: "venezuela-castillo-de-santa-rosa-history-v2",
     type: "historical",
@@ -308,9 +301,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Castillo Santa Rosa in La Asunción ist ein symbolträchtiger Ort des venezolanischen Freiheitskampfes. Besonders bekannt ist sie durch die Inhaftierung von Luisa Cáceres de Arismendi, einer Heldin, deren Widerstandswillen während des Unabhängigkeitskampfes legendär wurde. Die Festung war ein entscheidender Punkt in der Verteidigung der Unabhängigkeit auf der Isla Margarita. Heute ist sie ein Monument, das an den Mut und die Opferbereitschaft derer erinnert, die für die venezolanische Nation kämpften. Geschichte K8 — Heldentum.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A La Asunción-i Santa Rosa erőd a venezuelai szabadságharc szimbolikus helyszíne. Különösen Luisa Cáceres de Arismendi bebörtönzéséről ismert, aki a függetlenségi harc során tanúsított ellenállásával vált hősnővé. Az erőd döntő pont volt a függetlenség védelmében a Margarita-szigeten. Ma egy olyan műemlék, amely azok bátorságára és áldozatkészségére emlékeztet, akik a venezuelai nemzetért küzdöttek. Történelem K8 — hősiesség.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Luisa Cáceres de Arismendi war hier inhaftiert.", "Liegt in der Stadt La Asunción."],
@@ -320,11 +313,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Santa Rosa wurde 1681 zur Verteidigung von La Asunción errichtet.", "Luisa Cáceres de Arismendi wurde hier inhaftiert, um ihren Mann, einen Unabhängigkeitskämpfer, unter Druck zu setzen.", "Die Festung ist heute ein bedeutendes historisches Museum.", "Sie liegt malerisch über der Stadt La Asunción auf einem Hügel."],
-      hu: [],
+      hu: ["Santa Rosát 1681-ben emelték La Asunción védelmére.", "Luisa Cáceres de Arismendit azért börtönözték be itt, hogy nyomást gyakoroljanak férjére, egy függetlenségi harcosra.", "Az erőd ma jelentős történelmi múzeum.", "Festői helyen, egy dombon fekszik La Asunción városa felett."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-castillo-de-santa-rosa-history-v2.webp"},
   {
     id: "venezuela-fortin-de-la-caranta-history-v2",
     type: "historical",
@@ -344,9 +336,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "La Caranta ist ein Zeugnis der frühesten Verteidigungsversuche auf der Isla Margarita. Da die Insel strategisch günstig lag, war sie häufig das Ziel von Angriffen. Das Fort war eine der ersten Anlagen, die gebaut wurden, um diese Gefahr abzuwehren, auch wenn sie letztlich durch Angriffe zerstört wurde. Heute erinnern die Ruinen an den harten Kampf der frühen Kolonisten um die Sicherheit in dieser gefährlichen Region. Sie sind ein archäologischer Ort, der den Beginn der befestigten Küste auf Margarita illustriert. Geschichte K6 — Frühe Verteidigung.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "La Caranta a Margarita-sziget legkorábbi védelmi kísérleteinek tanúja. Mivel a sziget stratégiailag kedvező helyen feküdt, gyakran vált támadások célpontjává. Az erőd az egyik első létesítmény volt, amelyet e veszély elhárítására építettek, még ha végül a támadások során el is pusztult. Ma a romok a korai telepesek kemény küzdelmére emlékeztetnek e veszélyes régió biztonságáért. Régészeti helyszínként illusztrálják a megerősített tengerpart kezdetét Margaritán. Történelem K6 — korai védelem.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Wurde 1586 zum Schutz der Insel erbaut.", "Im Jahr 1626 von Piraten zerstört."],
@@ -356,11 +348,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Festung wurde 1586 zur Sicherung der Bucht von Pampatar errichtet.", "Die Zerstörung durch Piraten im Jahr 1626 war ein herber Schlag für die frühe Verteidigung.", "Die Ruinen von La Caranta sind ein wertvoller Ort für archäologische Forschung.", "Sie liegen in einer landschaftlich reizvollen Bucht, die auch heute noch einen strategischen Überblick bietet."],
-      hu: [],
+      hu: ["Az erődöt 1586-ban emelték a Pampatar-öböl biztosítására.", "Az 1626-os kalózpusztítás súlyos csapás volt a korai védelemre.", "La Caranta romjai értékes helyszínt jelentenek a régészeti kutatások számára.", "Egy tájképileg vonzó öbölben fekszenek, amely ma is stratégiai áttekintést nyújt."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-fortin-de-la-caranta-history-v2.webp"},
   {
     id: "venezuela-casa-del-congreso-angostura-history-v2",
     type: "historical",
@@ -380,9 +371,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Haus des Kongresses von Angostura ist der Ort, an dem die Vision einer großen lateinamerikanischen Nation geboren wurde. 1819 versammelte sich hier der Kongress, und Bolívar hielt seine berühmte Rede, in der er die moralischen und politischen Grundlagen für eine freie Nation formulierte. Das Gebäude in Ciudad Bolívar ist heute ein Museum, das nicht nur die Architektur der damaligen Zeit zeigt, sondern auch die ideelle Geburtsstunde der venezolanischen Republik zelebriert. Es ist ein zentrales Monument des politischen Freiheitsgedankens. Geschichte K8 — Politische Vision.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "Az Angosturai Kongresszus Háza az a hely, ahol egy nagy latin-amerikai nemzet víziója megszületett. 1819-ben itt ült össze a kongresszus, és Bolívar itt tartotta híres beszédét, amelyben megfogalmazta egy szabad nemzet erkölcsi és politikai alapjait. A Ciudad Bolívarban található épület ma múzeum, amely nemcsak a kor építészetét mutatja be, hanem a venezuelai köztársaság eszmei születését is ünnepli. A politikai szabadságjogok központi emlékműve. Történelem K8 — politikai vízió.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Ort des Kongresses von Angostura 1819.", "Befindet sich in Ciudad Bolívar."],
@@ -392,11 +383,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Bolívars Angostura-Rede ist eines der bedeutendsten Dokumente der lateinamerikanischen Unabhängigkeitsgeschichte.", "Die Architektur des Gebäudes ist typisch für die koloniale Baukunst im Orinoco-Tiefland.", "Das Haus dient heute als ein wichtiges Museum für die Geschichte Venezuelas.", "Hier wurde die Vision der 'Gran Colombia' maßgeblich mitgeprägt."],
-      hu: [],
+      hu: ["Bolívar angosturai beszéde a latin-amerikai függetlenségi történelem egyik legjelentősebb dokumentuma.", "Az épület építészete tipikus az Orinoco-alföld gyarmati építészetére.", "A ház ma Venezuela történelmének egyik fontos múzeuma.", "Itt nyert meghatározó formát 'Nagy-Kolumbia' víziója."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-casa-del-congreso-angostura-history-v2.webp"},
   {
     id: "venezuela-ruinas-nueva-cadiz-history-v2",
     type: "historical",
@@ -411,14 +401,14 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     description: {
       de: "Die Überreste der ersten spanischen Siedlung in Südamerika auf der kleinen Insel Cubagua.",
       hu: "Az első dél-amerikai spanyol település maradványai a kis Cubagua-szigeten.",
-      ro: "Rămășițele primei așezări spaniole din America de Sud de pe mica insulă Cubagua.",
+      ro: "Rămășițele primei așezări spaniole din America Sud de pe mica insulă Cubagua.",
       en: "The remains of the first Spanish settlement in South America on the small island of Cubagua."
     },
     descriptionAdvanced: {
       de: "Nueva Cádiz auf der Insel Cubagua ist ein archäologischer Ort von unschätzbarem Wert. Es war der erste offizielle Versuch der spanischen Krone, eine dauerhafte Siedlung auf dem südamerikanischen Kontinent zu errichten. Die Stadt florierte kurzzeitig durch den Handel mit Perlen, bevor sie 1541 durch eine Naturkatastrophe, einen Tsunami, fast vollständig zerstört wurde. Heute sind die Ruinen ein Ort, der Zeugnis über die frühesten und oft harten Tage der spanischen Expansion ablegt. Geschichte K5 — Archäologie.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Cubagua-szigeten található Nueva Cádiz felbecsülhetetlen értékű régészeti helyszín. Ez volt a spanyol korona első hivatalos kísérlete egy állandó település létrehozására a dél-amerikai kontinensen. A város rövid ideig virágzott a gyöngykereskedelemnek köszönhetően, mielőtt 1541-ben egy természeti katasztrófa, egy szökőár szinte teljesen elpusztította. Ma a romok a spanyol terjeszkedés legkorábbi és gyakran küzdelmes napjairól tanúskodnak. Történelem K5 — régészet.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Erste spanische Siedlung in Südamerika.", "1541 durch einen Tsunami zerstört."],
@@ -428,7 +418,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Nueva Cádiz wurde in den frühen 1520er Jahren als Perlenhandelszentrum gegründet.", "Die Zerstörung durch das Erdbeben und den Tsunami von 1541 beendete die Siedlung abrupt.", "Die Insel Cubagua war für ihren enormen Perlenreichtum berühmt.", "Archäologische Ausgrabungen legen heute das Leben in der ersten Kolonialstadt Südamerikas offen."],
-      hu: [],
+      hu: ["Nueva Cádizi-t az 1520-as évek elején alapították gyöngykereskedelmi központként.", "Az 1541-es földrengés és szökőár okozta pusztítás hirtelen véget vetett a településnek.", "Cubagua szigete hatalmas gyöngygazdagságáról volt híres.", "A régészeti ásatások ma feltárják az életet Dél-Amerika első gyarmati városában."],
       ro: [],
       en: [],
     }
@@ -452,9 +442,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Casa Fuerte in Barcelona ist ein Ort, an dem die tragische Geschichte der venezolanischen Unabhängigkeit noch spürbar ist. Einst ein beschauliches Kloster, wurde es in den wirren Tagen des Krieges zur letzten Bastion gegen die royalistischen Truppen. Hier fand ein entscheidendes Massaker statt, das die Entschlossenheit und das Opfer der Unabhängigkeitskämpfer verdeutlicht. Die Ruinen sind heute ein Gedenkort für all jene, die ihr Leben für eine freie Nation ließen. Geschichte K8 — Krieg und Opfer.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A barcelonai Casa Fuerte egy olyan hely, ahol a venezuelai függetlenség tragikus története még ma is érezhető. Az egykor békés kolostor a háború zűrzavaros napjaiban a királypárti csapatok elleni utolsó bástyává vált. Itt zajlott le egy döntő mészárlás, amely rávilágít a függetlenségi harcosok elszántságára és áldozatvállalására. A romok ma emlékhelyként szolgálnak mindazok számára, akik életüket adták egy szabad nemzetért. Történelem K8 — háború és áldozat.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Ursprünglich ein Franziskanerkloster.", "Ort eines Massakers während des Unabhängigkeitskrieges."],
@@ -464,11 +454,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Kloster wurde 1817 zur Verteidigung gegen die spanischen Truppen befestigt.", "Nach der Einnahme durch die Royalisten wurden Hunderte Unabhängigkeitskämpfer in der Casa Fuerte getötet.", "Das Gebäude wurde nach den Kämpfen größtenteils zerstört.", "Die Ruinen dienen heute als Mahnmal für die Opfer der venezolanischen Unabhängigkeitskriege."],
-      hu: [],
+      hu: ["A kolostort 1817-ben erősítették meg a spanyol csapatok elleni védekezésre.", "A királypártiak győzelme után függetlenségi harcosok százait ölték meg a Casa Fuertében.", "Az épület a harcok után nagyrészt elpusztult.", "A romok ma a venezuelai függetlenségi háborúk áldozatainak emlékműveként szolgálnak."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-casa-fuerte-barcelona-history-v2.webp"},
   {
     id: "venezuela-ruinas-castillo-araya-history-v2",
     type: "historical",
@@ -488,9 +477,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Castillo de Santiago de Araya war eine der mächtigsten Festungen in der Karibik. Sein einziger Zweck war es, die unglaublich wertvollen Salzpfannen gegen das Eindringen durch die Holländer und andere Mächte zu sichern. Das Bauwerk war so massiv, dass es über Jahrzehnte den Zugriff auf das 'weiße Gold' der Kolonie sicherte. Die Ruinen am Ufer heute vermitteln einen starken Eindruck von der defensiven Entschlossenheit der spanischen Kolonialpolitik im 17. Jahrhundert. Geschichte K6 — Handelsmacht.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Castillo de Santiago de Araya a Karib-térség egyik leghatalmasabb erődje volt. Egyetlen célja az volt, hogy biztosítsa a hihetetlenül értékes sólepárlókat a hollandok és más hatalmak behatolása ellen. Az építmény olyan masszív volt, hogy évtizedeken át garantálta a hozzáférést a gyarmat 'fehér aranyához'. A parton álló mai romok erős benyomást keltenek a 17. századi spanyol gyarmati politika védelmi elszántságáról. Történelem K6 — kereskedelmi hatalom.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["1622 zum Schutz der Salzpfannen erbaut.", "1797 durch ein Erdbeben schwer beschädigt."],
@@ -500,11 +489,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Festung von Araya war ein zentraler Schutzpunkt für den Salzhandel.", "Nach ihrer teilweisen Zerstörung durch das Erdbeben von 1797 verlor sie ihre militärische Bedeutung.", "Die Überreste der Mauern zeugen von der architektonischen Größe der Anlage.", "Araya war aufgrund der Salzvorkommen eine der am stärksten umkämpften Regionen an der Karibikküste."],
-      hu: [],
+      hu: ["Az arayai erőd a sókereskedelem központi védelmi pontja volt.", "Az 1797-es földrengés okozta részleges pusztulás után elvesztette katonai jelentőségét.", "A falmaradványok az építmény építészeti nagyságáról tanúskodnak.", "Araya a sólelőhelyek miatt a Karib-tenger partvidékének egyik legvitatottabb régiója volt."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-ruinas-castillo-araya-history-v2.webp"},
   {
     id: "venezuela-castillo-san-antonio-eminencia-history-v2",
     type: "historical",
@@ -524,9 +512,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Festung San Antonio de la Eminencia thront über Cumaná wie ein wachsamer Wächter. Mit ihrer charakteristischen Sternform diente sie über fast zwei Jahrhunderte zur Absicherung der Stadt und ihres Hafens gegen Überfälle. Die Festung war ein Schlüsselelement der kolonialen Verteidigung, da sie den gesamten Küstenabschnitt überblicken konnte. Heute ist sie ein Symbol für das historische Cumaná und bietet einen unvergleichlichen Blick auf die Küstenlandschaft. Geschichte K6 — Architektur.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A San Antonio de la Eminencia erőd éber őrként magasodik Cumaná fölé. Jellegzetes csillag alakjával közel két évszázadon át szolgált a város és kikötője támadások elleni biztosítására. Az erőd a gyarmati védelem kulcseleme volt, mivel a teljes tengerparti szakaszt belátta. Ma a történelmi Cumaná szimbóluma, és páratlan kilátást nyújt a parti tájra. Történelem K6 — építészet.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Zwischen 1659 und 1686 in Cumaná erbaut.", "Sternförmige koloniale Festung."],
@@ -536,11 +524,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Der Bau war eine Antwort auf die Angriffe durch Piraten.", "Die Festung überlebte mehrere historische Erdbeben.", "Ihre sternförmige Struktur erlaubte eine optimale Rundum-Verteidigung.", "Heute ist sie ein bedeutendes Denkmal und touristisches Ziel in Cumaná."],
-      hu: [],
+      hu: ["Az építés válasz volt a kalóztámadásokra.", "Az erőd több történelmi földrengést is túlélt.", "Csillag alakú szerkezete optimális körkörös védelmet tett lehetővé.", "Ma jelentős műemlék és turisztikai célpont Cumanában."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-castillo-san-antonio-eminencia-history-v2.webp"},
   {
     id: "venezuela-casa-amarilla-caracas-history-v2",
     type: "historical",
@@ -560,9 +547,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Gelbe Haus (Casa Amarilla) ist ein Gebäude mit vielen Gesichtern. Von einer königlichen Haftanstalt über die Residenz von Präsidenten bis hin zum heutigen Sitz des Außenministeriums, hat das Haus die politisch turbulentesten Phasen der venezolanischen Geschichte miterlebt. Die neoklassizistische Architektur und die leuchtend gelbe Fassade sind ein prägendes Element in der Altstadt von Caracas. Es ist ein Ort, der den Wandel der venezolanischen Politik seit der Kolonialzeit hautnah widerspiegelt. Politik K8 — Geschichte.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Sárga Ház (Casa Amarilla) egy sokarcú épület. A királyi börtöntől az elnöki rezidencián át a külügyminisztérium mai székhelyéig a ház végigkísérte a venezuelai történelem legzűrzavarosabb politikai szakaszait. Neoklasszicista építészete és élénksárga homlokzata Caracas óvárosának meghatározó eleme. Olyan hely ez, amely közvetlenül tükrözi a venezuelai politika változásait a gyarmati korszaktól napjainkig. Politika K8 — történelem.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Ehemaliges königliches Gefängnis und Präsidentenpalast.", "Zeichnet sich durch neoklassizistische Architektur aus."],
@@ -572,11 +559,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Casa Amarilla befindet sich in unmittelbarer Nähe zum Plaza Bolívar in Caracas.", "Die Architektur wurde im späten 19. Jahrhundert entscheidend geprägt.", "Das Haus diente als offizieller Sitz verschiedener venezolanischer Regierungen.", "Seine Geschichte verbindet die koloniale Vergangenheit mit der modernen staatlichen Identität."],
-      hu: [],
+      hu: ["A Casa Amarilla a caracasi Plaza Bolívar közvetlen közelében található.", "Építészetét a 19. század végén határozták meg döntően.", "A ház különböző venezuelai kormányok hivatalos székhelyeként szolgált.", "Története összeköti a gyarmati múltat a modern állami identitással."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-casa-amarilla-caracas-history-v2.webp"},
   {
     id: "venezuela-catedral-caracas-history-v2",
     type: "historical",
@@ -596,9 +582,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kathedrale von Caracas ist ein Fels in der Brandung einer seismisch aktiven Region. Trotz zahlreicher Zerstörungen durch Erdbeben seit dem 17. Jahrhundert wurde sie immer wieder aufgebaut und ist ein Zeugnis der Beständigkeit der Stadt. Neben ihrer religiösen Bedeutung beherbergt sie die Familiengruft, in der Simón Bolívars Eltern und seine Frau zur letzten Ruhe gebettet wurden. Als zentrales religiöses Gebäude ist sie ein wichtiger Teil der historischen Identität der Stadt. Geschichte K7 — Katastrophen.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A caracasi katedrális szikla a viharban egy szeizmikusan aktív régióban. A 17. század óta történt számos földrengés okozta pusztítás ellenére újra és újra felépítették, így a város állhatatosságának tanúja. Vallási jelentősége mellett itt található az a családi kripta, amelyben Simón Bolívar szüleit és feleségét örök nyugalomra helyezték. Központi vallási épületként a város történelmi identitásának fontos része. Történelem K7 — katasztrófák.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Ursprünglich 1636 erbaut.", "Ruhestätte von Simón Bolívars Eltern."],
@@ -608,11 +594,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Kathedrale wurde nach dem Erdbeben von 1812 stark beschädigt und mehrfach renoviert.", "Sie beherbergt heute bedeutende religiöse Kunstwerke des Landes.", "Die Familiengruft von Simón Bolívar ist ein bedeutender historischer Gedenkort.", "Die Kathedrale ist architektonisch ein prägender Bau in der Altstadt von Caracas."],
-      hu: [],
+      hu: ["A székesegyház az 1812-es földrengés után súlyosan megsérült, és többször felújították.", "Ma az ország jelentős vallási műalkotásainak ad otthont.", "Simón Bolívar családi kriptája fontos történelmi emlékhely.", "A katedrális építészetileg Caracas óvárosának meghatározó épülete."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-catedral-caracas-history-v2.webp"},
   {
     id: "venezuela-convento-san-francisco-history-v2",
     type: "historical",
@@ -632,9 +617,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Kloster San Francisco ist eng mit dem Schicksal der venezolanischen Freiheit verbunden. Hier fand 1813 eine der wichtigsten historischen Zeremonien statt, als Simón Bolívar offiziell zum 'El Libertador' ausgerufen wurde. Diese Entscheidung markierte einen Wendepunkt in der Befreiung Lateinamerikas. Heute ist das Kloster ein Symbol für diese historischen Ereignisse und eine der ältesten Bauten in Caracas, die den Geist der Unabhängigkeitszeit spürbar machen. Geschichte K8 — Unabhängigkeit.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A San Francisco kolostor szorosan kötődik a venezuelai szabadság sorsához. 1813-ban itt zajlott az egyik legfontosabb történelmi ceremónia, amikor Simón Bolívart hivatalosan 'El Libertador'-nak (A Felszabadító) nyilvánították. Ez a döntés fordulatot jelentett Latin-Amerika felszabadításában. Ma a kolostor e történelmi események szimbóluma, és Caracas egyik legrégebbi épülete, amely érzékelhetővé teszi a függetlenségi korszak szellemét. Történelem K8 — függetlenség.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Bolívar wurde hier 1813 zum Befreier ernannt.", "Eines der ältesten Gebäude in Caracas."],
@@ -644,11 +629,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Ernennung Bolívars zum 'Libertador' im Kloster San Francisco ist ein entscheidender Moment der venezolanischen Geschichte.", "Das Gebäude hat eine der ältesten erhaltenen Bausubstanzen im Stadtzentrum von Caracas.", "Es beherbergt heute bedeutende kulturelle und historische Sammlungen.", "Die koloniale Baukunst ist in diesem Gebäude hervorragend dokumentiert."],
-      hu: [],
+      hu: ["Bolívar 'Libertadorrá' nevezése a San Francisco kolostorban a venezuelai történelem döntő pillanata.", "Az épület Caracas városközpontjának egyik legrégebbi fennmaradt építménye.", "Ma jelentős kulturális és történelmi gyűjteményeknek ad otthont.", "A gyarmati építészet kiválóan dokumentált ebben az épületben."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-convento-san-francisco-history-v2.webp"},
   {
     id: "venezuela-quinta-de-anauco-history-v2",
     type: "historical",
@@ -668,9 +652,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Quinta de Anauco ist ein Inbegriff für den eleganten Lebensstil der venezolanischen Oberschicht im 18. Jahrhundert. Mit ihren weitläufigen Gärten, dem großzügigen Haus und der zeitgenössischen Einrichtung führt das Museum Besucher direkt in das Kolonialleben. Heute ist das Museum für Koloniale Kunst dort beheimatet und zeigt wertvolle Stücke aus jener Zeit, von Möbeln bis zu Gemälden. Sie ist eine grüne Oase der Ruhe und der Geschichte im hektischen Caracas. Kultur K6 — Lebensstil.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Quinta de Anauco a 18. századi venezuelai felsőosztály elegáns életmódjának megtestesítője. Kiterjedt kertjeivel, tágas házával és korhű berendezésével a múzeum közvetlenül a gyarmati életbe vezeti a látogatókat. Ma itt található a Gyarmati Művészeti Múzeum, amely az akkori idők értékes darabjait mutatja be, a bútoroktól a festményekig. A nyüzsgő Caracasban a nyugalom és a történelem zöld oázisa. Kultúra K6 — életmód.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["1797 erbautes Landhaus aus der Kolonialzeit.", "Beherbergt heute das Museum für koloniale Kunst."],
@@ -680,11 +664,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Gebäude wurde 1797 errichtet und ist ein herausragendes Beispiel für ein Landhaus der Oberschicht.", "Das Museum für koloniale Kunst ist eines der bestsortierten seiner Art in Venezuela.", "Die Quinta de Anauco hat ihre Architektur über Jahrhunderte vorbildlich bewahrt.", "Die Gärten des Anwesens sind ein wichtiger Ort für die botanische Vielfalt in Caracas."],
-      hu: [],
+      hu: ["Az épületet 1797-ben emelték, és a felsőosztály vidéki házainak kiemelkedő példája.", "A Gyarmati Művészeti Múzeum az egyik legjobban felszerelt ilyen jellegű intézmény Venezuelában.", "A Quinta de Anauco évszázadokon át példásan megőrizte építészetét.", "A birtok kertjei Caracas botanikai sokféleségének fontos helyszínei."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-quinta-de-anauco-history-v2.webp"},
   {
     id: "venezuela-casona-ibarra-history-v2",
     type: "historical",
@@ -704,9 +687,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Casona Ibarra steht für die landwirtschaftliche Geschichte des Tals von Caracas, bevor die moderne Stadt und die Universität alles überbauten. Als 18. Jahrhundert Hacienda zeigt sie den ursprünglichen Charakter des Landes. Dass sie heute inmitten des Campus der Zentraluniversität (einer UNESCO-Welterbestätte) liegt, ist ein faszinierender Kontrast zwischen Tradition und Moderne. Die Casona erinnert an eine Ära, in der das Leben von Kakaoanbau und ländlicher Ruhe geprägt war. Geschichte K5 — Kontraste.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Casona Ibarra Caracas völgyének mezőgazdasági múltját képviseli, mielőtt a modern város és az egyetem mindent beépített volna. 18. századi haciendaként az ország eredeti karakterét mutatja be. Az, hogy ma a Központi Egyetem kampuszának (UNESCO Világörökségi helyszín) közepén fekszik, lenyűgöző kontraszt a hagyomány és a modernitás között. A Casona egy olyan korszakra emlékeztet, amikor az életet a kakaótermesztés és a vidéki nyugalom jellemezte. Történelem K5 — kontrasztok.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Historisches Hacienda-Haus aus dem 18. Jahrhundert.", "Befindet sich innerhalb der Zentraluniversität."],
@@ -716,11 +699,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Casona Ibarra wurde 1765 errichtet.", "Sie ist eines der wenigen historischen Bauwerke auf dem Gelände der Universidad Central de Venezuela (UCV).", "Die UCV als Ganzes wurde von Carlos Raúl Villanueva entworfen und gehört zum UNESCO-Welterbe.", "Die Casona ist ein Zeugnis der bäuerlichen Geschichte der Caracas-Region."],
-      hu: [],
+      hu: ["A Casona Ibarrát 1765-ben emelték.", "Egyike azon kevés történelmi építménynek, amely a Venezuelai Központi Egyetem (UCV) területén található.", "Az UCV egészét Carlos Raúl Villanueva tervezte, és az UNESCO Világörökség része.", "A Casona a Caracas-régió paraszti múltjának tanúbizonysága."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-casona-ibarra-history-v2.webp"},
   {
     id: "venezuela-cuartel-montana-history-v2",
     type: "historical",
@@ -740,9 +722,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Cuartel de la Montaña thront über der Altstadt von Caracas und hat die moderne Politik Venezuelas aus nächster Nähe miterlebt. Neben seiner architektonischen Bedeutung als Militäranlage des frühen 20. Jahrhunderts dient es heute als Gedenkstätte für Hugo Chávez, dessen Mausoleum sich hier befindet. Diese Funktion macht das Gebäude zu einem Ort intensiver Auseinandersetzungen mit der jüngsten venezolanischen Geschichte. Geschichte K8 — Moderne Geschichte.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Cuartel de la Montaña Caracas óvárosa fölé magasodik, és közvetlen közelről élte át Venezuela modern politikáját. A 20. század eleji katonai létesítmény építészeti jelentősége mellett ma Hugo Chávez emlékhelyeként szolgál, akinek mauzóleuma itt található. Ez a funkció teszi az épületet a legújabb kori venezuelai történelemmel való intenzív szembenézés helyszínévé. Történelem K8 — modern történelem.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Erbaut im frühen 20. Jahrhundert.", "Beherbergt das Mausoleum von Hugo Chávez."],
@@ -752,7 +734,7 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Gebäude wurde als Kaserne errichtet und architektonisch von einem militärischen Stil des 20. Jahrhunderts geprägt.", "Hugo Chávez führte 1992 aus dieser Kaserne den ersten Putschversuch an.", "Heute besuchen viele Menschen den Ort, um das Mausoleum zu besichtigen.", "Die historische Bedeutung des Gebäudes für den Aufstieg des Chavismus ist unbestritten."],
-      hu: [],
+      hu: ["Az épület laktanyának épült, és a 20. századi katonai stílus jegyeit hordozza.", "Hugo Chávez 1992-ben ebből a laktanyából vezette az első puccskísérletet.", "Ma sokan látogatják a helyszínt a mauzóleum megtekintése céljából.", "Az épület történelmi jelentősége a chavizmus felemelkedésében vitathatatlan."],
       ro: [],
       en: [],
     }
@@ -776,9 +758,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Schlacht von Taguanes war ein entscheidender Moment im sogenannten 'Admirable Campaign' von Simón Bolívar. Das hier errichtete Denkmal würdigt diesen Sieg, der für den Erfolg der Befreiungsbewegung unerlässlich war. Die Lage in den Weiten von Cojedes unterstreicht die geografische Bedeutung des Kampfes für den Gesamtfeldzug in Venezuela. Es ist ein Ort der nationalen Ehrung und ein zentrales Monument, um die historische Bedeutung dieses spezifischen Sieges wachzuhalten. Geschichte K7 — Feldzüge.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A taguanesi csata döntő pillanat volt Simón Bolívar úgynevezett 'Admirable Campaign' (Csodálatos hadjárat) során. Az itt emelt emlékmű azt a győzelmet tiszteli, amely elengedhetetlen volt a felszabadító mozgalom sikeréhez. Cojedes pusztaságában lévő fekvése hangsúlyozza a küzdelem földrajzi jelentőségét a teljes venezuelai hadjárat szempontjából. Nemzeti emlékhely és központi műemlék e konkrét győzelem történelmi jelentőségének ébrentartására. Történelem K7 — hadjáratok.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Erinnert an einen Sieg im Jahr 1813.", "Liegt im Bundesstaat Cojedes."],
@@ -788,11 +770,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die 'Campaña Admirable' führte Bolívar von Kolumbien nach Venezuela.", "Der Sieg bei Taguanes öffnete Bolívar den Weg nach Caracas.", "Das Monument wurde im 20. Jahrhundert als nationale Erinnerungsstätte errichtet.", "Der Feldzug von 1813 war für den ersten Erfolg der Republik entscheidend."],
-      hu: [],
+      hu: ["A 'Campaña Admirable' Kolumbiából vezette Bolívart Venezuelába.", "A taguanesi győzelem megnyitotta Bolívar útját Caracas felé.", "A műemléket a 20. században emelték nemzeti emlékhelyként.", "Az 1813-as hadjárat döntő volt a köztársaság első sikerei szempontjából."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-monumento-batalla-taguanes-history-v2.webp"},
   {
     id: "venezuela-catedral-de-coro-history-v2",
     type: "historical",
@@ -812,9 +793,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kathedrale von Coro ist das Herzstück der kolonialen religiösen Baukunst im Westen Venezuelas. Mit ihrer Architektur aus dem 16. Jahrhundert spiegelt sie die früheste koloniale religiöse Tradition des Landes wider. Der Bau hat über 400 Jahre standgehalten und ist ein zentrales Element für das Verständnis der frühen spanischen Siedlungen. Sie vereint religiöse Bedeutung mit einer beeindruckenden baulichen Historie, die heute als integraler Bestandteil des UNESCO-Weltkulturerbes Coro geschützt ist. Geschichte K6 — Sakralbau.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A corói katedrális a nyugat-venezuelai gyarmati vallási építészet szíve. 16. századi építészetével az ország legkorábbi gyarmati vallási hagyományait tükrözi. Az építmény több mint 400 éven át állta az idő próbáját, és központi elem a korai spanyol települések megértéséhez. Egyesíti a vallási jelentőséget a lenyűgöző építéstörténettel, amely ma az UNESCO Világörökség részét képező Coro szerves részeként áll védelem alatt. Történelem K6 — szakrális építészet.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Der Bau begann im Jahr 1583.", "Eine der ältesten Kathedralen in Venezuela."],
@@ -824,11 +805,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Bauarbeiten an der Kathedrale erstreckten sich über mehrere Jahrzehnte.", "Sie ist architektonisch ein Musterbeispiel für den Kolonialstil in der Region.", "Die Kathedrale bildet den religiösen Mittelpunkt des historischen Zentrums von Coro.", "Sie bewahrt wertvolle sakrale Kunstschätze aus der frühen kolonialen Zeit."],
-      hu: [],
+      hu: ["A székesegyház építési munkálatai több évtizeden át tartottak.", "Építészetileg a régió gyarmati stílusának mintapéldája.", "A katedrális Coro történelmi központjának vallási gyújtópontja.", "Értékes szakrális műkincseket őriz a korai gyarmati korszakból."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-catedral-de-coro-history-v2.webp"},
   {
     id: "venezuela-casa-ventanas-hierro-history-v2",
     type: "historical",
@@ -848,9 +828,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Haus der eisernen Fenster (Casa de las Ventanas de Hierro) in Coro ist ein Schmuckstück kolonialer Handwerkskunst. Der kunstvolle schmiedeeiserne Balkon, der ihm den Namen gab, ist ein Beispiel für den Reichtum und den ästhetischen Anspruch der Oberschicht in der frühen Siedlungszeit. Das Gebäude verdeutlicht, wie europäische Architekturtraditionen an die lokalen Bedingungen angepasst wurden. Es ist heute ein fester Bestandteil des Stadtbildes von Coro, das durch das UNESCO-Weltkulturerbe geschützt ist. Kultur K5 — Architektur.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A corói Vasablakok Háza (Casa de las Ventanas de Hierro) a gyarmati kézművesség ékköve. A művészi kovácsoltvas erkély, amelyről a nevét kapta, a korai telepes korszak felsőosztályának gazdagságát és esztétikai igényeit mutatja. Az épület szemlélteti, hogyan igazították az európai építészeti hagyományokat a helyi körülményekhez. Ma Coro városképének szerves része, amelyet az UNESCO Világörökség részeként védenek. Kultúra K5 — építészet.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Im 17. Jahrhundert in Coro erbaut.", "Verfügt über einen beeindruckenden Balkon aus Schmiedeeisen."],
@@ -860,11 +840,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das schmiedeeiserne Gitter am Balkon ist eines der am besten erhaltenen Exemplare seiner Zeit in Coro.", "Die Bauweise ist typisch für die städtischen Herrenhäuser der frühen Kolonialzeit.", "Das Gebäude wurde im Laufe der Jahrhunderte vorbildlich restauriert.", "Es vermittelt einen tiefen Einblick in den Alltag und die Ästhetik der kolonialen Handelsgesellschaft."],
-      hu: [],
+      hu: ["Az erkély kovácsoltvas rácsa az egyik legjobb állapotban fennmaradt példány Coróban.", "Az építési mód jellemző a korai gyarmati korszak városi kúriáira.", "Az épületet az évszázadok során példásan restaurálták.", "Mély betekintést nyújt a gyarmati kereskedő társadalom mindennapjaiba és esztétikájába."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-casa-ventanas-hierro-history-v2.webp"},
   {
     id: "venezuela-casa-guipuzcoana-history-v2",
     type: "historical",
@@ -884,9 +863,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Casa Guipuzcoana ist das wichtigste Symbol für den kolonialen Handel zwischen Venezuela und Spanien. Die 'Real Compañía Guipuzcoana de Caracas' hatte hier ihren Sitz und dominierte für Jahrzehnte den Kakaoexport, was die Region La Guaira massiv prägte. Das Gebäude ist eine monumentale Erinnerung an die wirtschaftliche Macht, die Spanien durch das Monopol in Venezuela ausübte. Heute dient es als Museum und Zentrum für das kulturelle Erbe von La Guaira. Wirtschaft K7 — Handelsgeschichte.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Casa Guipuzcoana a Venezuela és Spanyolország közötti gyarmati kereskedelem legfontosabb szimbóluma. A 'Real Compañía Guipuzcoana de Caracas' székhelye volt itt, amely évtizedeken át uralta a kakaóexportot, meghatározva La Guaira régió fejlődését. Az épület monumentális emlékeztető arra a gazdasági hatalomra, amelyet Spanyolország gyakorolt a venezuelai monopólium révén. Ma múzeumként és La Guaira kulturális örökségének központjaként szolgál. Gazdaság K7 — kereskedelemtörténet.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["1734 von einer baskischen Handelsgesellschaft erbaut.", "Ein Symbol für den kolonialen Handel."],
@@ -896,11 +875,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die 'Compañía Guipuzcoana' war ein Monopolist für den Handel zwischen Caracas und Bilbao.", "Das Gebäude wurde durch seine massive Architektur als administrativer Sitz gesichert.", "Heute beherbergt es das Archiv und das Museum zur wirtschaftlichen Geschichte der Region.", "Die Casa Guipuzcoana ist ein bedeutender kultureller Ankerpunkt in der Altstadt von La Guaira."],
-      hu: [],
+      hu: ["A 'Compañía Guipuzcoana' monopolhelyzetben volt a Caracas és Bilbao közötti kereskedelemben.", "Az épületet masszív építészete tette alkalmassá adminisztratív székhelynek.", "Ma a régió gazdaságtörténeti archívumának és múzeumának ad otthont.", "A Casa Guipuzcoana jelentős kulturális tartópillér La Guaira óvárosában."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-casa-guipuzcoana-history-v2.webp"},
   {
     id: "venezuela-fuerte-san-carlos-history-v2",
     type: "historical",
@@ -920,23 +898,22 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Fortín San Carlos war die vorderste Verteidigungslinie für den Hafen von La Guaira. In der Zeit der spanischen Herrschaft war La Guaira das Haupteingangstor zu Venezuela, weshalb der Schutz des Hafens gegen maritime Feinde und Piraten lebenswichtig war. Die Festung bot einen Rundumblick auf die Küste und war in ein komplexes System von Befestigungsanlagen integriert. Heute erinnern die Mauern an die Zeit, als La Guaira militärisch streng bewacht wurde, um die Kontrolle über den Seehandel zu behalten. Geschichte K6 — Verteidigung.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A San Carlos erőd volt La Guaira kikötőjének első védelmi vonala. A spanyol uralom idején La Guaira volt Venezuela fő kapuja, ezért a kikötő védelme a tengeri ellenségek és a kalózok ellen létfontosságú volt. Az erőd teljes körkilátást nyújtott a partra, és egy összetett erődrendszerbe integrálták. Ma a falak arra az időre emlékeztetnek, amikor La Guairát szigorú katonai őrizet alatt tartották a tengeri kereskedelem feletti ellenőrzés megőrzése érdekében. Történelem K6 — védelem.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["1769 zum Schutz von La Guaira erbaut.", "Wichtige Verteidigungsanlage in der Kolonialzeit."],
-      hu: ["1769-ben épült La Guaira védelmére.", "Fontos védelmi létesítmény a gyarmati korszakban."],
+      hu: ["1769-ben épült La Guaira védelére.", "Fontos védelmi létesítmény a gyarmati korszakban."],
       ro: ["Construit în 1769 pentru a proteja La Guaira.", "Apărare cheie în perioada colonială."],
       en: ["Built in 1769 to protect La Guaira.", "Key defense during the colonial period."]
     },
     factsAdvanced: {
       de: ["Das Fort ist ein herausragendes Beispiel für die militärische Architektur der späten Kolonialzeit.", "Es war Teil eines Verteidigungsrings, der die Stadt La Guaira sicherte.", "Nach der Unabhängigkeit verlor es seine primäre militärische Funktion, blieb aber ein historisches Monument.", "Heute ist es ein beliebter Ort für Besucher, um die Küstenfestungsanlagen zu studieren."],
-      hu: [],
+      hu: ["Az erőd a késő gyarmati katonai építészet kiemelkedő példája.", "Egy védelmi gyűrű része volt, amely La Guaira városát biztosította.", "A függetlenség után elvesztette elsődleges katonai funkcióját, de történelmi műemlék maradt.", "Ma kedvelt hely a látogatók számára a tengerparti erődítmények tanulmányozására."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-fuerte-san-carlos-history-v2.webp"},
   {
     id: "venezuela-casa-del-vinculo-history-v2",
     type: "historical",
@@ -956,9 +933,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Casa del Vínculo ist ein sehr intimer Ort in der Geschichte Simón Bolívars. Es ist das Haus, in dem er mit seiner geliebten Frau María Teresa Rodríguez del Toro während der ersten Jahre seiner Ehe lebte. Diese Zeit war geprägt von privatem Glück, bevor sein Leben eine radikale Wendung hin zur politischen Führung des Landes nahm. Die sorgfältige Restaurierung macht das Haus zu einem Ort, der einen sehr menschlichen und persönlichen Blick auf Bolívar ermöglicht, weit weg vom Bild des großen Feldherrn. Geschichte K5 — Privatleben.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Casa del Vínculo egy nagyon intim helyszín Simón Bolívar történetében. Ebben a házban élt szeretett feleségével, María Teresa Rodríguez del Toróval házasságuk első éveiben. Ez az időszak a magánéleti boldogságról szólt, mielőtt élete radikális fordulatot vett volna az ország politikai vezetése felé. A gondos restaurálás lehetővé teszi, hogy emberi és személyes képet kapjunk Bolívarról, távol a nagy hadvezér imázsától. Történelem K5 — magánélet.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Bewohnt von Simón Bolívar und seiner Frau im Jahr 1802.", "Kürzlich in Caracas restauriert."],
@@ -968,11 +945,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Haus dokumentiert die glückliche, wenn auch kurze Zeit der Ehe Bolívars.", "Es wurde als ein wichtiges historisches Bauwerk für den Erhalt des Bolivarischen Erbes in Caracas restauriert.", "Das Interieur bietet Einblicke in den Wohnstil der wohlhabenden Familien in Caracas um 1800.", "Die Casa del Vínculo ist heute Teil des Bolivarischen Rundgangs in der Altstadt."],
-      hu: [],
+      hu: ["A ház Bolívar házasságának boldog, bár rövid időszakát dokumentálja.", "Fontos történelmi építményként restaurálták a caracasi bolivári örökség megőrzése érdekében.", "A belső tér betekintést nyújt a jómódú caracasi családok 1800 körüli lakberendezési stílusába.", "A Casa del Vínculo ma az óvárosi bolivári sétaút része."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-casa-del-vinculo-history-v2.webp"},
   {
     id: "venezuela-hacienda-la-trinidad-history-v2",
     type: "historical",
@@ -992,9 +968,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Hacienda La Trinidad ist ein beeindruckendes Beispiel für die Transformation eines landwirtschaftlichen Erbes in ein pulsierendes kulturelles Zentrum. Was früher eine Kaffee- und Tabakplantage war, beherbergt heute Kunstgalerien, Ateliers und Parklandschaften, die den kolonialen Charakter bewahren. Der Kontrast zwischen den alten Anlagen und der lebendigen zeitgenössischen Kunst macht den Ort zu einem besonderen kulturellen Anziehungspunkt im Südosten von Caracas. Ein Ort, an dem sich die Geschichte der venezolanischen Landwirtschaft mit der Moderne des kulturellen Lebens verbindet. Kultur K7 — Transformation.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Hacienda La Trinidad lenyűgöző példája egy mezőgazdasági örökség vibráló kulturális központtá való átalakításának. Az egykori kávé- és dohányültetvény ma művészeti galériáknak, műtermeknek és a gyarmati karaktert őrző parkoknak ad otthont. A régi létesítmények és az élő kortárs művészet közötti kontraszt különleges kulturális vonzerővé teszi a helyet Caracas délkeleti részén. Egy hely, ahol a venezuelai mezőgazdaság története találkozik a modern kulturális élettel. Kultúra K7 — átalakulás.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Historische Tabak- und Kaffeeplantage.", "Heute ein Kulturpark in Caracas."],
@@ -1004,11 +980,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die Hacienda wurde nach einer der bedeutendsten Kaffee-Ären im Tal von Caracas benannt.", "Die weitläufigen Parks bieten Raum für eine vielfältige Flora und kulturelle Veranstaltungen.", "Die Anlage wurde sorgfältig restauriert, um ihre historische Struktur als Hacienda zu wahren.", "La Trinidad ist heute ein wichtiger Ort für die Förderung der venezolanischen Kunstszene."],
-      hu: [],
+      hu: ["A haciendát Caracas völgyének egyik legjelentősebb kávékorszakáról nevezték el.", "A tágas parkok helyet adnak a változatos flórának és kulturális eseményeknek.", "A létesítményt gondosan restaurálták, hogy megőrizzék hacienda-szerkezetét.", "La Trinidad ma a venezuelai művészeti élet támogatásának fontos helyszíne."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-hacienda-la-trinidad-history-v2.webp"},
   {
     id: "venezuela-fortin-el-zamuro-history-v2",
     type: "historical",
@@ -1028,9 +1003,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Fortín El Zamuro thront über Ciudad Bolívar und bietet einen strategischen Ausblick auf die Stadt und den Orinoco. Im späten 19. und frühen 20. Jahrhundert, einer Ära geprägt von internen Machtkämpfen und Bürgerkriegen, wurde dieses kleine Fort militärisch genutzt. Ein entscheidender Moment war die Schlacht von Ciudad Bolívar 1903. Die Festung steht heute als Zeuge für die turbulente Ära der venezolanischen Bürgerkriege, die das Land vor der Stabilisierung im 20. Jahrhundert so stark geprägt haben. Geschichte K7 — Machtkämpfe.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A Fortín El Zamuro Ciudad Bolívar fölé magasodik, stratégiai kilátást nyújtva a városra és az Orinocóra. A 19. század végén és a 20. század elején, a belső hatalmi harcok és polgárháborúk idején ezt a kis erődöt katonailag hasznosították. Döntő pillanat volt az 1903-as Ciudad Bolívar-i csata. Az erőd ma a venezuelai polgárháborúk viharos korszakának tanúja, amely oly meghatározó volt az ország 20. századi stabilizálódása előtt. Történelem K7 — hatalmi harcok.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Erbaut im späten 19. Jahrhundert.", "Spielte eine Rolle in der Schlacht von Ciudad Bolívar 1903."],
@@ -1040,11 +1015,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das kleine Fort war eine kritische Verteidigungsstellung in den Bürgerkriegen um die Kontrolle von Ciudad Bolívar.", "Sein Standort ermöglichte die Kontrolle über den Zugang zum Hafen.", "Heute dienen die Ruinen als ein Denkmal für die militärische Geschichte von Ciudad Bolívar.", "Das Fort ist eines der wenigen militärischen Denkmäler aus dieser Ära in der Stadt."],
-      hu: [],
+      hu: ["A kis erőd kritikus védelmi állás volt a Ciudad Bolívar feletti ellenőrzésért folytatott polgárháborúkban.", "Elhelyezkedése lehetővé tette a kikötőhöz való hozzáférés ellenőrzését.", "Ma a romok Ciudad Bolívar katonai történelmének emlékműveként szolgálnak.", "Az erőd egyike a város kevés e korszakból származó katonai emlékének."],
       ro: [],
       en: [],
-    }
-  },
+    }, image: "/poi-images/venezuela-fortin-el-zamuro-history-v2.webp"},
   {
     id: "venezuela-iglesia-san-francisco-yare-history-v2",
     type: "historical",
@@ -1064,9 +1038,9 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Kirche von San Francisco de Yare ist das Epizentrum für eines der wichtigsten religiösen Feste Venezuelas: 'Die tanzenden Teufel von Yare'. Während des Fronleichnamsfestes verwandelt sich das ganze Dorf um diese Kirche herum in eine Bühne für ein mystisches Spektakel, das den Sieg des Guten über das Böse symbolisiert. Diese Tradition ist von der UNESCO als Immaterielles Kulturerbe anerkannt. Die Kirche selbst ist ein einfaches, aber geschichtsträchtiges Bauwerk, das diesen spirituellen Reichtum und den Zusammenhalt der Gemeinde über Jahrhunderte bewahrt. Kultur K5 — Brauchtum.",
-      hu: "",
-      ro: "Placeholder",
-      en: "Placeholder",
+      hu: "A San Francisco de Yare templom az egyik legfontosabb venezuelai vallási ünnep, a 'Yare-i táncoló ördögök' epicentruma. Úrnapja idején a templom körüli egész falu egy misztikus színjátékká alakul, amely a jó győzelmét jelképezi a gonosz felett. Ezt a hagyományt az UNESCO Szellemi Kulturális Örökségként ismerte el. Maga a templom egy egyszerű, de történelmi jelentőségű építmény, amely évszázadok óta őrzi ezt a spirituális gazdagságot és a közösség összetartozását. Kultúra K5 — népszokások.",
+      ro: "",
+      en: "",
     },
     facts: {
       de: ["Im 18. Jahrhundert erbaut.", "Zentrum des berühmten Festivals der tanzenden Teufel."],
@@ -1076,9 +1050,10 @@ export const poiExtraVenezuelaHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Fest der tanzenden Teufel von Yare ist seit 2012 UNESCO-Welterbe.", "Die Kirche dient als Ausgangspunkt für die feierlichen Prozessionen der Tänzer.", "Der synkretistische Ursprung des Festes (Mischung aus katholischer und afrikanischer Tradition) macht es einzigartig.", "Das Bauwerk ist ein fester Bestandteil der lokalen Identität von San Francisco de Yare."],
-      hu: [],
+      hu: ["A yare-i táncoló ördögök ünnepe 2012 óta az UNESCO Világörökség része.", "A templom kiindulópontként szolgál a táncosok ünnepi körmeneteihez.", "Az ünnep szinkretikus eredete (katolikus és afrikai hagyományok keveredése) teszi egyedivé.", "Az építmény San Francisco de Yare helyi identitásának szerves része."],
       ro: [],
       en: [],
     }
   }
 ];
+

@@ -24,8 +24,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Nagy-Abaco jelentős részét borítja.", "Az Abaco Nemzeti Park védi.", "Fontos madármegfigyelő hely."],
       ro: ["Acoperă o mare parte din Great Abaco.", "Protejat de Parcul Național Abaco.", "Loc important pentru observarea păsărilor."],
       en: ["Covers a large portion of Great Abaco.", "Protected by the Abaco National Park.", "Important birdwatching site."]
-    }
-  },
+    }, image: "/poi-images/great-abaco-pine-forests-relief-v2.webp"},
   {
     id: "andros-mangrove-forests-relief-v2",
     type: "forest",
@@ -48,8 +47,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Több ezer kilométeres partvonalat foglal magában.", "Védi a szigetet a viharkároktól.", "Kritikus élőhely a bonefish számára."],
       ro: ["Acoperă mii de kilometri de coastă.", "Protejează insula de daunele provocate de furtuni.", "Habitat critic pentru bonefish."],
       en: ["Covers thousands of kilometers of coastline.", "Protects the island from storm damage.", "Critical habitat for bonefish."]
-    }
-  },
+    }, image: "/poi-images/andros-mangrove-forests-relief-v2.webp"},
   {
     id: "eleuthera-rolling-hills-relief-v2",
     type: "relief",
@@ -72,8 +70,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Legmagasabb pontja kb. 58 méter.", "Termékeny talajokat foglal magában a mezőgazdaság számára.", "A Glass Window híd kiemelkedő pontja."],
       ro: ["Cel mai înalt punct la aproximativ 58 de metri.", "Include soluri fertile pentru agricultură.", "Podul Glass Window este un punct culminant."],
       en: ["Highest point is around 190 feet.", "Includes fertile soils for farming.", "The Glass Window Bridge is a key feature."]
-    }
-  },
+    }, image: "/poi-images/eleuthera-rolling-hills-relief-v2.webp"},
   {
     id: "cat-island-central-ridge-relief-v2",
     type: "mountain",
@@ -96,8 +93,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Itt található a Bahamák legmagasabb pontja.", "Megkövesedett korallzátonyokból áll.", "Számos barlang és víznyelő található itt."],
       ro: ["Prezintă cea mai mare altitudine din Bahamas.", "Compusă din recife de corali pietrificate.", "Numeroase peșteri și doline."],
       en: ["Features the highest elevation in The Bahamas.", "Composed of petrified coral reefs.", "Numerous caves and sinkholes."]
-    }
-  },
+    }, image: "/poi-images/cat-island-central-ridge-relief-v2.webp"},
   {
     id: "new-providence-coppice-forests-relief-v2",
     type: "forest",
@@ -120,8 +116,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Fontos élőhely a Bahama-papagáj számára.", "Magában foglalja a Primeval Forest Nemzeti Parkot.", "Számos őshonos növényfaj."],
       ro: ["Habitat important pentru papagalul bahamian.", "Include Parcul Național Pădurea Primordială.", "Multe specii de plante native."],
       en: ["Important habitat for the Bahama Woodstar.", "Includes the Primeval Forest National Park.", "Many native plant species."]
-    }
-  },
+    }, image: "/poi-images/new-providence-coppice-forests-relief-v2.webp"},
   {
     id: "exuma-cays-karst-topography-relief-v2",
     type: "relief",
@@ -168,8 +163,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Látványos kilátást nyújtanak.", "A hullámerózió alakította őket.", "A Cape Santa Maria egy ismert hely."],
       ro: ["Oferă vederi spectaculoase.", "Formate de eroziunea valurilor.", "Cape Santa Maria este o locație notabilă."],
       en: ["Offer spectacular views.", "Formed by wave erosion.", "Cape Santa Maria is a notable location."]
-    }
-  },
+    }, image: "/poi-images/long-island-atlantic-cliffs-relief-v2.webp"},
   {
     id: "san-salvador-inland-lakes-relief-v2",
     type: "relief",
@@ -240,8 +234,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Rendkívül sík terület.", "Fontos bonefishing paradicsom.", "Kis szigetek és csatornák labirintusa."],
       ro: ["Zonă extrem de joasă.", "Paradis important pentru bonefishing.", "Un labirint de insulițe și canale."],
       en: ["Extremely shallow area.", "Major bonefishing paradise.", "A maze of cays and channels."]
-    }
-  },
+    }, image: "/poi-images/acklins-bight-lowlands-relief-v2.webp"},
   {
     id: "mayaguana-reef-system-relief-v2",
     type: "relief",
@@ -288,8 +281,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Fontos élőhely az endemikus madárfajok számára.", "A Lucayan Nemzeti Park része.", "Az erdőirtás és a fejlesztések fenyegetik."],
       ro: ["Habitat important pentru specii de păsări endemice.", "Parte a Parcului Național Lucayan.", "Amenințat de exploatarea forestieră și dezvoltare."],
       en: ["Important habitat for endemic bird species.", "Part of the Lucayan National Park.", "Threatened by logging and development."]
-    }
-  },
+    }, image: "/poi-images/grand-bahama-pine-barrens-relief-v2.webp"},
   {
     id: "berry-islands-sand-flats-relief-v2",
     type: "relief",
@@ -312,8 +304,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Világszínvonalú bonefishing terület.", "Nagyon sekély, tiszta víz.", "Több tucat kis szigetet foglal magában."],
       ro: ["Zonă de clasă mondială pentru bonefishing.", "Apă foarte puțin adâncă și limpede.", "Cuprinde zeci de insulițe."],
       en: ["World-class bonefishing grounds.", "Very shallow, clear water.", "Comprises dozens of cays."]
-    }
-  },
+    }, image: "/poi-images/berry-islands-sand-flats-relief-v2.webp"},
   {
     id: "bimini-mangrove-nurseries-relief-v2",
     type: "forest",
@@ -360,8 +351,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["A Morton Salt Company fő telephelye.", "Egyedülálló élőhelyet teremtenek.", "A rózsaszín szín algáktól és garnéláktól származik."],
       ro: ["Locația principală a Morton Salt Company.", "Creează un habitat unic.", "Culoarea roz provine de la alge și creveți."],
       en: ["Main site of the Morton Salt Company.", "Create a unique habitat.", "The pink color comes from algae and brine shrimp."]
-    }
-  },
+    }, image: "/poi-images/inagua-salt-pans-relief-v2.webp"},
   {
     id: "ragged-island-range-relief-v2",
     type: "relief",
@@ -384,8 +374,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Nagyon gyéren lakott.", "Elszigeteltségéről ismert.", "Kiváló horgászterületek."],
       ro: ["Populație foarte rară.", "Cunoscut pentru izolarea sa.", "Terenuri de pescuit excelente."],
       en: ["Very sparsely populated.", "Known for its remoteness.", "Excellent fishing grounds."]
-    }
-  },
+    }, image: "/poi-images/ragged-island-range-relief-v2.webp"},
   {
     id: "conception-island-wall-relief-v2",
     type: "relief",
@@ -408,8 +397,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Viszonylag sekély mélységben kezdődik.", "Hatalmas szivacsokkal és korallokkal borítva.", "Gyakori cápa- és rájaészlelések."],
       ro: ["Începe la adâncimi relativ mici.", "Acoperit cu bureți și corali uriași.", "Observări frecvente de rechini și raze."],
       en: ["Starts at relatively shallow depths.", "Covered in giant sponges and corals.", "Frequent shark and ray sightings."]
-    }
-  },
+    }, image: "/poi-images/conception-island-wall-relief-v2.webp"},
   {
     id: "goulding-cay-forest-relief-v2",
     type: "forest",
@@ -432,8 +420,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Védett terület.", "Fontos élőhely a tengeri madarak számára.", "Megmutatja, hogyan nézett ki egykor New Providence."],
       ro: ["Zonă protejată.", "Habitat important pentru păsările marine.", "Arată cum era odată New Providence."],
       en: ["Protected area.", "Important habitat for seabirds.", "Shows what New Providence once looked like."]
-    }
-  },
+    }, image: "/poi-images/goulding-cay-forest-relief-v2.webp"},
   {
     id: "samana-cay-karst-plain-relief-v2",
     type: "relief",
@@ -480,8 +467,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Rendkívül távoli és nehezen megközelíthető.", "Nagy bonefish-rajok élőhelye.", "Gyakorlatilag érintetlen az emberi fejlesztéstől."],
       ro: ["Extrem de îndepărtat și greu de accesat.", "Habitat pentru bancuri mari de bonefish.", "Practic neatins de dezvoltarea umană."],
       en: ["Extremely remote and difficult to access.", "Habitat for large schools of bonefish.", "Virtually untouched by human development."]
-    }
-  },
+    }, image: "/poi-images/andros-west-coast-flats-relief-v2.webp"},
   {
     id: "coakley-cay-relief-v2",
     type: "relief",
@@ -504,8 +490,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Mangroveerdők és sekély víz veszi körül.", "Egy hatalmas patakrendszer része.", "Folyamatosan változik az árapály miatt."],
       ro: ["Înconjurat de mangrove și ape puțin adânci.", "Parte a unui sistem vast de pâraie.", "În continuă schimbare cu mareele."],
       en: ["Surrounded by mangroves and shallow water.", "Part of a vast creek system.", "Constantly changing with the tides."]
-    }
-  },
+    }, image: "/poi-images/coakley-cay-relief-v2.webp"},
   {
     id: "high-cay-acklins-relief-v2",
     type: "relief",
@@ -528,8 +513,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["Jó kilátópontot biztosít.", "Fontos fészkelőhely a tengeri madarak számára.", "Sziklás partvonal."],
       ro: ["Oferă un punct de observație bun.", "Loc de cuibărit important pentru păsările marine.", "Coastă stâncoasă."],
       en: ["Provides a good vantage point.", "Important nesting site for seabirds.", "Rocky shoreline."]
-    }
-  },
+    }, image: "/poi-images/high-cay-acklins-relief-v2.webp"},
   {
     id: "plana-cays-forest-relief-v2",
     type: "forest",
@@ -552,8 +536,7 @@ export const poiExtraBahamasReliefV2: POI[] = [
       hu: ["A Bahama-hutia utolsó természetes élőhelye.", "Védett terület.", "Nincs emberi lakosság."],
       ro: ["Ultimul habitat natural al hutiei bahamiene.", "Zonă protejată.", "Fără populație umană."],
       en: ["Last natural habitat of the Bahamian Hutia.", "Protected area.", "No human population."]
-    }
-  },
+    }, image: "/poi-images/plana-cays-forest-relief-v2.webp"},
   {
     id: "fish-cays-exuma-relief-v2",
     type: "relief",

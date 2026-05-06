@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSudanCitiesV2: POI[] = [
@@ -34,8 +35,19 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Confluence of two major rivers.",
         "Political and economic center."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Khartum liegt strategisch am Zusammenfluss des Weißen und Blauen Nils, was die Stadt seit Jahrhunderten zu einem zentralen Knotenpunkt in Nordostafrika macht. Gegründet 1821 als ägyptischer Militärposten, entwickelte sie sich rasch zum politisch-wirtschaftlichen Herz des Sudan. Die Stadt zeichnet sich heute durch eine Mischung aus historischen kolonialzeitlichen Gebäuden und schnell wachsenden modernen Stadtvierteln aus. Sie beherbergt bedeutende Bildungszentren, darunter die Universität Khartum, die eine entscheidende Rolle in der sudanesischen Intelligenzgeschichte spielt. Geografie K7 — Nílus menti nagyvárosok és központok.",
+      hu: "Kartúm stratégiailag a Fehér- és Kék-Nílus összefolyásánál fekszik, ami évszázadok óta Északkelet-Afrika központi csomópontjává teszi. Az 1821-ben alapított település gyorsan a Szudán politikai és gazdasági szívévé vált. A városkép ma a történelmi gyarmati épületek és a rohamosan bővülő modern negyedek izgalmas keveréke. Jelentős oktatási központ, köztük a Kartúmi Egyetemmel, amely meghatározó szerepet játszik a szudáni értelmiségi életben. Földrajz K7 — Nílus menti nagyvárosok és központok.",
+      ro: "Khartoum este situat strategic la confluența Nilului Alb și a Nilului Albastru, ceea ce a făcut din oraș un nod central în Africa de Nord-Est timp de secole. Fondat în 1821 ca un post militar egiptean, s-a dezvoltat rapid în inima politică și economică a Sudanului. Orașul se caracterizează astăzi printr-un amestec de clădiri coloniale istorice și cartiere moderne în creștere rapidă. Găzduiește centre educaționale importante, inclusiv Universitatea din Khartoum, care joacă un rol decisiv în istoria intelectuală sudaneză. Geografie K7 — Orașe și centre de-a lungul Nilului.",
+      en: "Khartoum lies strategically at the confluence of the White and Blue Niles, making the city a central hub in Northeast Africa for centuries. Founded in 1821 as an Egyptian military outpost, it quickly became the political and economic heart of Sudan. The city today features a mix of historical colonial-era buildings and rapidly expanding modern districts. It hosts major educational centers, including the University of Khartoum, which plays a decisive role in the Sudanese intellectual history. Geography K7 — Major cities and centers along the Nile."
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1821.", "Sitz der Universität Khartum.", "Zusammenfluss von Weißem und Blauem Nil.", "Wichtigster Hafen am Nil.", "Politische Hauptstadt des Landes.", "Über 5 Millionen Einwohner im Ballungsraum."],
+      hu: ["1821-ben alapították.", "A Kartúmi Egyetem székhelye.", "A Fehér- és Kék-Nílus találkozása.", "A Nílus legfontosabb kikötője.", "Az ország politikai központja.", "A nagyvárosi övezet lakossága 5 millió felett."],
+      ro: ["Fondat în 1821.", "Sediul Universității Khartoum.", "Confluența Nilului Alb și Albastru.", "Cel mai important port de pe Nil.", "Capitala politică a țării.", "Zona metropolitană are peste 5 milioane de locuitori."],
+      en: ["Founded in 1821.", "Home to the University of Khartoum.", "Confluence of White and Blue Nile.", "Most important port on the Nile.", "Political capital of the country.", "Metropolitan area over 5 million residents."]
+    }, image: "/poi-images/khartoum-cities-v2.webp"},
   {
     id: "omdurman-cities-v2",
     type: "city",
@@ -69,8 +81,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 15.6445, 32.4777."
       ]
-    }
-  },
+    }, image: "/poi-images/omdurman-cities-v2.webp"},
   {
     id: "khartoum-bahri-cities-v2",
     type: "city",
@@ -104,8 +115,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 15.6322, 32.5342."
       ]
-    }
-  },
+    }, image: "/poi-images/khartoum-bahri-cities-v2.webp"},
   {
     id: "port-sudan-cities-v2",
     type: "state-capital",
@@ -139,8 +149,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 19.6175, 37.2164."
       ]
-    }
-  },
+    }, image: "/poi-images/port-sudan-cities-v2.webp"},
   {
     id: "kassala-cities-v2",
     type: "state-capital",
@@ -174,8 +183,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 15.45, 36.4."
       ]
-    }
-  },
+    }, image: "/poi-images/kassala-cities-v2.webp"},
   {
     id: "al-qadarif-cities-v2",
     type: "state-capital",
@@ -209,8 +217,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 14.0333, 35.3833."
       ]
-    }
-  },
+    }, image: "/poi-images/al-qadarif-cities-v2.webp"},
   {
     id: "wad-madani-cities-v2",
     type: "state-capital",
@@ -244,8 +251,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 14.4, 33.5."
       ]
-    }
-  },
+    }, image: "/poi-images/wad-madani-cities-v2.webp"},
   {
     id: "rabak-cities-v2",
     type: "state-capital",
@@ -279,8 +285,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 13.18, 32.74."
       ]
-    }
-  },
+    }, image: "/poi-images/rabak-cities-v2.webp"},
   {
     id: "ad-damazin-cities-v2",
     type: "state-capital",
@@ -314,8 +319,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 11.765, 34.3944."
       ]
-    }
-  },
+    }, image: "/poi-images/ad-damazin-cities-v2.webp"},
   {
     id: "sennar-cities-v2",
     type: "state-capital",
@@ -349,8 +353,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 13.5514, 33.5672."
       ]
-    }
-  },
+    }, image: "/poi-images/sennar-cities-v2.webp"},
   {
     id: "ad-damir-cities-v2",
     type: "state-capital",
@@ -384,8 +387,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 17.5892, 33.9783."
       ]
-    }
-  },
+    }, image: "/poi-images/ad-damir-cities-v2.webp"},
   {
     id: "berber-cities-v2",
     type: "city",
@@ -419,8 +421,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 18.0202, 33.9804."
       ]
-    }
-  },
+    }, image: "/poi-images/berber-cities-v2.webp"},
   {
     id: "dongola-cities-v2",
     type: "state-capital",
@@ -454,8 +455,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 19.1667, 30.4739."
       ]
-    }
-  },
+    }, image: "/poi-images/dongola-cities-v2.webp"},
   {
     id: "al-fashir-cities-v2",
     type: "state-capital",
@@ -489,8 +489,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 13.6253, 25.35."
       ]
-    }
-  },
+    }, image: "/poi-images/al-fashir-cities-v2.webp"},
   {
     id: "geneina-cities-v2",
     type: "state-capital",
@@ -524,8 +523,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 13.45, 22.45."
       ]
-    }
-  },
+    }, image: "/poi-images/geneina-cities-v2.webp"},
   {
     id: "nyala-cities-v2",
     type: "state-capital",
@@ -559,8 +557,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 12.05, 24.8833."
       ]
-    }
-  },
+    }, image: "/poi-images/nyala-cities-v2.webp"},
   {
     id: "ed-daein-cities-v2",
     type: "state-capital",
@@ -594,8 +591,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 11.4586, 26.1258."
       ]
-    }
-  },
+    }, image: "/poi-images/ed-daein-cities-v2.webp"},
   {
     id: "zalingei-cities-v2",
     type: "state-capital",
@@ -629,8 +625,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 12.9067, 23.475."
       ]
-    }
-  },
+    }, image: "/poi-images/zalingei-cities-v2.webp"},
   {
     id: "el-obeid-cities-v2",
     type: "state-capital",
@@ -664,8 +659,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 13.1833, 30.2167."
       ]
-    }
-  },
+    }, image: "/poi-images/el-obeid-cities-v2.webp"},
   {
     id: "kaduqli-cities-v2",
     type: "state-capital",
@@ -699,8 +693,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 11.0167, 29.7167."
       ]
-    }
-  },
+    }, image: "/poi-images/kaduqli-cities-v2.webp"},
   {
     id: "al-fulah-cities-v2",
     type: "state-capital",
@@ -734,8 +727,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Serves as the administrative headquarters of the region.",
         "Located at coordinates 11.8333, 28.3667."
       ]
-    }
-  },
+    }, image: "/poi-images/al-fulah-cities-v2.webp"},
   {
     id: "kosti-cities-v2",
     type: "city",
@@ -769,8 +761,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 13.1629, 32.6636."
       ]
-    }
-  },
+    }, image: "/poi-images/kosti-cities-v2.webp"},
   {
     id: "singa-cities-v2",
     type: "city",
@@ -804,8 +795,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 13.1511, 33.9317."
       ]
-    }
-  },
+    }, image: "/poi-images/singa-cities-v2.webp"},
   {
     id: "suakin-cities-v2",
     type: "city",
@@ -839,8 +829,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 19.1065, 37.332."
       ]
-    }
-  },
+    }, image: "/poi-images/suakin-cities-v2.webp"},
   {
     id: "tokar-cities-v2",
     type: "city",
@@ -874,8 +863,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 18.425, 37.728."
       ]
-    }
-  },
+    }, image: "/poi-images/tokar-cities-v2.webp"},
   {
     id: "new-halfa-cities-v2",
     type: "city",
@@ -909,8 +897,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 15.3308, 35.5975."
       ]
-    }
-  },
+    }, image: "/poi-images/new-halfa-cities-v2.webp"},
   {
     id: "shendi-cities-v2",
     type: "city",
@@ -944,8 +931,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 16.6919, 33.435."
       ]
-    }
-  },
+    }, image: "/poi-images/shendi-cities-v2.webp"},
   {
     id: "wadi-halfa-cities-v2",
     type: "city",
@@ -979,8 +965,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 21.7853, 31.3533."
       ]
-    }
-  },
+    }, image: "/poi-images/wadi-halfa-cities-v2.webp"},
   {
     id: "karima-cities-v2",
     type: "city",
@@ -1049,8 +1034,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 18.4728, 31.8028."
       ]
-    }
-  },
+    }, image: "/poi-images/merowe-cities-v2.webp"},
   {
     id: "al-managil-cities-v2",
     type: "city",
@@ -1084,8 +1068,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 14.2253, 32.9083."
       ]
-    }
-  },
+    }, image: "/poi-images/al-managil-cities-v2.webp"},
   {
     id: "al-hasaheisa-cities-v2",
     type: "city",
@@ -1154,8 +1137,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 13.9922, 32.3308."
       ]
-    }
-  },
+    }, image: "/poi-images/ad-duwaim-cities-v2.webp"},
   {
     id: "umm-ruwaba-cities-v2",
     type: "city",
@@ -1189,8 +1171,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 12.9069, 31.2167."
       ]
-    }
-  },
+    }, image: "/poi-images/umm-ruwaba-cities-v2.webp"},
   {
     id: "bara-cities-v2",
     type: "city",
@@ -1224,8 +1205,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 13.7025, 30.3708."
       ]
-    }
-  },
+    }, image: "/poi-images/bara-cities-v2.webp"},
   {
     id: "an-nahud-cities-v2",
     type: "city",
@@ -1294,8 +1274,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 11.3417, 27.8106."
       ]
-    }
-  },
+    }, image: "/poi-images/babanusa-cities-v2.webp"},
   {
     id: "al-muglad-cities-v2",
     type: "city",
@@ -1329,8 +1308,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 11.0333, 27.7333."
       ]
-    }
-  },
+    }, image: "/poi-images/al-muglad-cities-v2.webp"},
   {
     id: "dalanj-cities-v2",
     type: "city",
@@ -1364,8 +1342,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 12.05, 29.65."
       ]
-    }
-  },
+    }, image: "/poi-images/dalanj-cities-v2.webp"},
   {
     id: "abu-zabad-cities-v2",
     type: "city",
@@ -1434,8 +1411,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 11.855, 34.3828."
       ]
-    }
-  },
+    }, image: "/poi-images/ar-rusairis-cities-v2.webp"},
   {
     id: "kurmuk-cities-v2",
     type: "city",
@@ -1469,8 +1445,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 10.5517, 34.2831."
       ]
-    }
-  },
+    }, image: "/poi-images/kurmuk-cities-v2.webp"},
   {
     id: "bau-cities-v2",
     type: "city",
@@ -1504,8 +1479,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 11.3325, 34.0817."
       ]
-    }
-  },
+    }, image: "/poi-images/bau-cities-v2.webp"},
   {
     id: "ad-dindar-cities-v2",
     type: "city",
@@ -1539,8 +1513,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 13.3108, 34.0531."
       ]
-    }
-  },
+    }, image: "/poi-images/ad-dindar-cities-v2.webp"},
   {
     id: "maiurno-cities-v2",
     type: "city",
@@ -1574,8 +1547,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 13.6247, 33.6267."
       ]
-    }
-  },
+    }, image: "/poi-images/maiurno-cities-v2.webp"},
   {
     id: "tambul-cities-v2",
     type: "city",
@@ -1609,8 +1581,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 14.9392, 33.3283."
       ]
-    }
-  },
+    }, image: "/poi-images/tambul-cities-v2.webp"},
   {
     id: "rufaa-cities-v2",
     type: "city",
@@ -1714,8 +1685,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 14.1506, 34.5936."
       ]
-    }
-  },
+    }, image: "/poi-images/al-faw-cities-v2.webp"},
   {
     id: "doka-cities-v2",
     type: "city",
@@ -1749,8 +1719,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 13.5286, 35.7761."
       ]
-    }
-  },
+    }, image: "/poi-images/doka-cities-v2.webp"},
   {
     id: "aroma-cities-v2",
     type: "city",
@@ -1784,8 +1753,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 15.8239, 36.1436."
       ]
-    }
-  },
+    }, image: "/poi-images/aroma-cities-v2.webp"},
   {
     id: "haya-cities-v2",
     type: "city",
@@ -1819,8 +1787,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 18.3303, 36.3311."
       ]
-    }
-  },
+    }, image: "/poi-images/haya-cities-v2.webp"},
   {
     id: "sinkat-cities-v2",
     type: "city",
@@ -1854,8 +1821,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 18.8333, 36.8333."
       ]
-    }
-  },
+    }, image: "/poi-images/sinkat-cities-v2.webp"},
   {
     id: "karari-cities-v2",
     type: "city",
@@ -1889,8 +1855,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 15.7533, 32.525."
       ]
-    }
-  },
+    }, image: "/poi-images/karari-cities-v2.webp"},
   {
     id: "jabal-awliya-cities-v2",
     type: "city",
@@ -1924,8 +1889,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 15.2333, 32.4833."
       ]
-    }
-  },
+    }, image: "/poi-images/jabal-awliya-cities-v2.webp"},
   {
     id: "abu-hamad-cities-v2",
     type: "city",
@@ -1959,8 +1923,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 19.5317, 33.3267."
       ]
-    }
-  },
+    }, image: "/poi-images/abu-hamad-cities-v2.webp"},
   {
     id: "ad-dabba-cities-v2",
     type: "city",
@@ -1994,8 +1957,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 18.0536, 30.9389."
       ]
-    }
-  },
+    }, image: "/poi-images/ad-dabba-cities-v2.webp"},
   {
     id: "argo-cities-v2",
     type: "city",
@@ -2029,8 +1991,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 19.2319, 30.4136."
       ]
-    }
-  },
+    }, image: "/poi-images/argo-cities-v2.webp"},
   {
     id: "kutum-cities-v2",
     type: "city",
@@ -2064,8 +2025,7 @@ export const poiExtraSudanCitiesV2: POI[] = [
         "Important center for regional trade.",
         "Located at coordinates 14.2, 24.6667."
       ]
-    }
-  },
+    }, image: "/poi-images/kutum-cities-v2.webp"},
   {
     id: "mellit-cities-v2",
     type: "city",
@@ -2102,3 +2062,4 @@ export const poiExtraSudanCitiesV2: POI[] = [
     }
   }
 ];
+

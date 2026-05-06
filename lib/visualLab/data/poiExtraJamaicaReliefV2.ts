@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraJamaicaReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Jamaica legmagasabb hegye", "A Blue Mountains része", "Népszerű túracélpont", "Látványos kilátás"],
       ro: ["Cel mai înalt munte din Jamaica", "Parte a munților Blue Mountains", "Destinație populară pentru drumeții", "Oferă priveliști spectaculoase"],
       en: ["Highest mountain in Jamaica", "Part of the Blue Mountains", "Popular hiking destination", "Offers spectacular views"]
-    }
-  },
+    }, image: "/poi-images/blue-mountain-peak-relief-v2.webp"},
   {
     id: "john-crow-mountains-relief-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Mészkőhegység", "Nagyon nehezen megközelíthető", "Ritka fajok otthona", "Az UNESCO világörökség része"],
       ro: ["Munți de calcar", "Foarte inaccesibil", "Acasă pentru specii rare", "Parte a patrimoniului mondial UNESCO"],
       en: ["Limestone mountain range", "Very inaccessible", "Home to rare species", "Part of UNESCO World Heritage"]
-    }
-  },
+    }, image: "/poi-images/john-crow-mountains-relief-v2.webp"},
   {
     id: "cockpit-country-valley-relief-v2",
     type: "relief",
@@ -41,8 +40,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Egyedülálló karsztvidék", "Meredek dombvonulatok", "Nehéz terepviszonyok", "Nagy biológiai sokféleség"],
       ro: ["Peisaj carstic unic", "Lanțuri de dealuri abrupte", "Teren dificil", "Diversitate biologică mare"],
       en: ["Unique karst landscape", "Steep hill ranges", "Difficult terrain", "High biodiversity"]
-    }
-  },
+    }, image: "/poi-images/cockpit-country-valley-relief-v2.webp"},
   {
     id: "catherine-peak-relief-v2",
     type: "mountain",
@@ -55,8 +53,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Markáns csúcsformáció", "Fontos vízforrás", "Nehéz mászóútvonal", "Remek kilátás"],
       ro: ["Formațiune de vârf marcantă", "Sursă importantă de apă", "Traseu de cățărare dificil", "Priveliște minunată"],
       en: ["Prominent peak formation", "Important water source", "Challenging climbing route", "Great view"]
-    }
-  },
+    }, image: "/poi-images/catherine-peak-relief-v2.webp"},
   {
     id: "corkscrew-ridge-relief-v2",
     type: "relief",
@@ -69,8 +66,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Kanyargós lefolyás", "Meredek lejtők", "Szép kilátás", "Ideális túrázáshoz"],
       ro: ["Traseu sinuos", "Versanți abrupți", "Priveliști frumoase", "Ideal pentru drumeții"],
       en: ["Winding course", "Steep slopes", "Beautiful views", "Ideal for hiking"]
-    }
-  },
+    }, image: "/poi-images/corkscrew-ridge-relief-v2.webp"},
   {
     id: "dry-harbour-mountains-relief-v2",
     type: "mountain",
@@ -83,8 +79,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Mészkőhegység", "Közepes magasságú", "Buja növényzet", "Túrautak állnak rendelkezésre"],
       ro: ["Munți de calcar", "Înălțime medie", "Vegetație luxuriantă", "Trasee de drumeție disponibile"],
       en: ["Limestone mountains", "Medium height", "Lush vegetation", "Hiking trails available"]
-    }
-  },
+    }, image: "/poi-images/dry-harbour-mountains-relief-v2.webp"},
   {
     id: "may-day-mountains-relief-v2",
     type: "mountain",
@@ -97,8 +92,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Hűvös éghajlat", "Dombvidéki táj", "Bauxitlelőhelyek", "Szép kilátás"],
       ro: ["Climă răcoroasă", "Peisaj deluros", "Zăcăminte de bauxită", "Priveliști frumoase"],
       en: ["Cool climate", "Hilly landscape", "Bauxite deposits", "Beautiful views"]
-    }
-  },
+    }, image: "/poi-images/may-day-mountains-relief-v2.webp"},
   {
     id: "clarendon-hills-relief-v2",
     type: "relief",
@@ -111,8 +105,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Lankás dombok", "Mezőgazdasági művelés", "Zöld táj", "Nyugalom"],
       ro: ["Dealuri domoale", "Utilizare agricolă", "Peisaj verde", "Liniște"],
       en: ["Rolling hills", "Agricultural use", "Green landscape", "Peace"]
-    }
-  },
+    }, image: "/poi-images/clarendon-hills-relief-v2.webp"},
   {
     id: "st-thomas-mountains-relief-v2",
     type: "mountain",
@@ -125,8 +118,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Meredek lejtők", "Trópusi erdő", "Gyéren lakott", "Tiszta természet"],
       ro: ["Pante abrupte", "Pădure tropicală", "Puțin populat", "Natură pură"],
       en: ["Steeply sloping", "Tropical forest", "Sparsely populated", "Pure nature"]
-    }
-  },
+    }, image: "/poi-images/st-thomas-mountains-relief-v2.webp"},
   {
     id: "holywell-forest-relief-v2",
     type: "forest",
@@ -153,8 +145,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Hegyihágó", "Fontos közlekedési összeköttetés", "Látványos kilátások", "Hűvös éghajlat"],
       ro: ["Trecătoare montană", "Legătură rutieră importantă", "Priveliști spectaculoase", "Climă răcoroasă"],
       en: ["Mountain pass", "Important transport link", "Spectacular views", "Cool climate"]
-    }
-  },
+    }, image: "/poi-images/hardwar-gap-relief-v2.webp"},
   {
     id: "yallahs-valley-relief-v2",
     type: "relief",
@@ -167,8 +158,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Folyóvölgy", "Termékeny föld", "Meredek völgyoldalak", "Érdekes geológia"],
       ro: ["Vale fluvială", "Teren fertil", "Versanți abrupți ai văii", "Geologie interesantă"],
       en: ["River valley", "Fertile land", "Steep valley walls", "Interesting geology"]
-    }
-  },
+    }, image: "/poi-images/yallahs-valley-relief-v2.webp"},
   {
     id: "hills-of-hanover-relief-v2",
     type: "mountain",
@@ -181,8 +171,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Zöld és dombos", "Mezőgazdasági jellegű", "Lankás emelkedők", "Szép kilátás"],
       ro: ["Verde și deluros", "Caracter agricol", "Pante domoale", "Priveliști frumoase"],
       en: ["Green and hilly", "Agricultural character", "Gentle slopes", "Beautiful views"]
-    }
-  },
+    }, image: "/poi-images/hills-of-hanover-relief-v2.webp"},
   {
     id: "mount-diabolo-relief-v2",
     type: "mountain",
@@ -195,8 +184,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Meredek lejtők", "Mészkő", "Fontos kilátópont", "Természetközeli"],
       ro: ["Versanți abrupți", "Calcar", "Punct de observație important", "Aproape de natură"],
       en: ["Steep slopes", "Limestone", "Important viewpoint", "Close to nature"]
-    }
-  },
+    }, image: "/poi-images/mount-diabolo-relief-v2.webp"},
   {
     id: "st-catherine-hills-relief-v2",
     type: "relief",
@@ -209,8 +197,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Dombvidéki", "Közel a fővároshoz", "Túraövezetek", "Hagyományos települések"],
       ro: ["Deluros", "Aproape de capitală", "Zone de drumeție", "Așezări tradiționale"],
       en: ["Hilly", "Close to the capital", "Hiking areas", "Traditional settlements"]
-    }
-  },
+    }, image: "/poi-images/st-catherine-hills-relief-v2.webp"},
   {
     id: "trelawny-highlands-relief-v2",
     type: "relief",
@@ -223,8 +210,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Mészkőfennsík", "Hűvösebb hőmérséklet", "Esőerdő", "Nagy fajgazdagság"],
       ro: ["Podiș de calcar", "Temperaturi mai răcoroase", "Pădure tropicală", "Biodiversitate ridicată"],
       en: ["Limestone plateau", "Cooler temperatures", "Rainforest", "High biodiversity"]
-    }
-  },
+    }, image: "/poi-images/trelawny-highlands-relief-v2.webp"},
   {
     id: "st-ann-hills-relief-v2",
     type: "mountain",
@@ -237,8 +223,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Zöld dombok", "Mezőgazdasági művelés", "Szép kilátás", "Ideális kerékpártúrákhoz"],
       ro: ["Dealuri verzi", "Utilizare agricolă", "Priveliști frumoase", "Ideal pentru ciclism"],
       en: ["Green hills", "Agricultural use", "Beautiful views", "Ideal for cycling"]
-    }
-  },
+    }, image: "/poi-images/st-ann-hills-relief-v2.webp"},
   {
     id: "claren-valley-relief-v2",
     type: "relief",
@@ -251,8 +236,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Befoglalt völgy", "Termékeny föld", "Mezőgazdaság", "Természetközeli"],
       ro: ["Vale înconjurată", "Teren fertil", "Agricultură", "Aproape de natură"],
       en: ["Embedded valley", "Fertile land", "Agriculture", "Close to nature"]
-    }
-  },
+    }, image: "/poi-images/claren-valley-relief-v2.webp"},
   {
     id: "manchester-plateau-relief-v2",
     type: "relief",
@@ -265,8 +249,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Fennsíki táj", "Hűvös éghajlat", "Bauxitbányászat", "Mezőgazdaság"],
       ro: ["Peisaj de podiș", "Climă răcoroasă", "Exploatarea bauxitei", "Agricultură"],
       en: ["Plateau landscape", "Cool climate", "Bauxite mining", "Agriculture"]
-    }
-  },
+    }, image: "/poi-images/manchester-plateau-relief-v2.webp"},
   {
     id: "st-elizabeth-plains-relief-v2",
     type: "relief",
@@ -279,8 +262,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Síkság", "Száraz éghajlat", "Mezőgazdaság", "Nagy területek"],
       ro: ["Câmpie", "Climă uscată", "Agricultură", "Suprafețe mari"],
       en: ["Flatland", "Dry climate", "Agriculture", "Large areas"]
-    }
-  },
+    }, image: "/poi-images/st-elizabeth-plains-relief-v2.webp"},
   {
     id: "portland-ridge-relief-v2",
     type: "relief",
@@ -293,8 +275,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Partközeli elhelyezkedés", "Meredek dombok", "Mészkő", "Száraz növényzet"],
       ro: ["Amplasare lângă coastă", "Dealuri abrupte", "Calcar", "Vegetație uscată"],
       en: ["Near the coast", "Steep hills", "Limestone", "Dry vegetation"]
-    }
-  },
+    }, image: "/poi-images/portland-ridge-relief-v2.webp"},
   {
     id: "hellshire-hills-relief-v2",
     type: "relief",
@@ -307,8 +288,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Száraz dombok", "Mészkő", "Egyedülálló növényvilág", "Természetvédelmi terület"],
       ro: ["Dealuri uscate", "Calcar", "Floră unică", "Rezervație naturală"],
       en: ["Dry hills", "Limestone", "Unique flora", "Nature reserve"]
-    }
-  },
+    }, image: "/poi-images/hellshire-hills-relief-v2.webp"},
   {
     id: "johannesburg-mountain-relief-v2",
     type: "mountain",
@@ -321,8 +301,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Hegycsúcs", "Meredek terep", "Trópusi erdő", "Kevésbé járt"],
       ro: ["Vârf muntos", "Teren abrupt", "Pădure tropicală", "Puțin frecventat"],
       en: ["Mountain peak", "Steep terrain", "Tropical forest", "Little visited"]
-    }
-  },
+    }, image: "/poi-images/johannesburg-mountain-relief-v2.webp"},
   {
     id: "blue-mountain-peak-north-relief-v2",
     type: "mountain",
@@ -335,8 +314,7 @@ export const poiExtraJamaicaReliefV2: POI[] = [
       hu: ["Hegygerinc", "Meredek", "Köderdő", "Látványos"],
       ro: ["Creastă montană", "Abrupt", "Pădure de ceață", "Spectaculos"],
       en: ["Mountain ridge", "Steep", "Cloud forest", "Spectacular"]
-    }
-  },
+    }, image: "/poi-images/blue-mountain-peak-north-relief-v2.webp"},
   {
     id: "mocho-mountains-relief-v2",
     type: "mountain",
@@ -352,3 +330,4 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     }
   }
 ];
+

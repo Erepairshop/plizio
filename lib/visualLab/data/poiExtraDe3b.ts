@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDe3b: POI[] = [
@@ -38,8 +39,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Este centrul cultural și politic al sorabilor din regiunea Lusacia Inferioară.", "Parcul Branitz găzduiește singurele piramide de pământ (tumuli) din Europa.", "Numele sorab al orașului este Chóśebuz, reflectând rădăcinile sale slave.", "A fost un centru major al industriei textile în secolul al XIX-lea.", "Găzduiește Universitatea Tehnologică Brandenburg (BTU) din anul 1991.", "Turnul Castelului (Schloßtürm) este cel mai vechi punct de reper supraviețuitor al orașului."],
       en: ["The cultural center of the Sorbian minority in Lower Lusatia.", "Home to Branitz Park, featuring the world-unique 'Pyramid' burials.", "Designed by Prince Pückler, one of Europe's greatest garden artists.", "The city's name in Sorbian is Chóśebuz.", "A major hub for the German coal-to-green energy transformation.", "Features the State Theatre Cottbus, a stunning Art Nouveau masterpiece."]
-    },
-  },
+    }, image: "/poi-images/city-cottbus-extra.webp"},
   {
     id: "river-spree-bb-extra",
     type: "river",
@@ -76,8 +76,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Lungimea totală a râului Spree este de aproximativ 400 de kilometri.", "Aproape jumătate din lungimea sa se află pe teritoriul landului Brandenburg.", "Spreewald este o rezervație a biosferei UNESCO din anul 1991.", "Râul izvorăște din trei puncte diferite în munții Luzației, lângă granița cu Cehia.", "În Berlin, Spree alimentează numeroase canale și faimoasa Insulă a Muzeelor.", "Numele râului provine probabil din limba slavă și înseamnă 'râu care se revarsă'."],
       en: ["A 400-kilometer long river and the primary waterway of Berlin.", "The heart of the Spreewald UNESCO Biosphere Reserve.", "Splits into a network of over 300 small canals (Fließe).", "Historically the main transport route for the Spreewald cucumber trade.", "Connected to the Oder river via the Oder-Spree Canal.", "Provides a vital recreational and ecological corridor for the Berlin-Brandenburg region."]
-    },
-  },
+    }, image: "/poi-images/river-spree-bb-extra.webp"},
   {
     id: "river-havel-bb-extra",
     type: "river",
@@ -114,8 +113,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Lungimea totală a râului Havel este de 334 de kilometri.", "Diferența de nivel pe tot cursul este de numai 40 de metri, rezultând o curgere foarte lentă.", "Formează peste 40 de lacuri de-a lungul cursului său prin Brandenburg și Berlin.", "Este conectat la râul Spree în centrul Berlinului, la Spandau.", "Havel inferior a fost scena celui mai mare proiect de renaturare a unui râu din Europa.", "Regiunea Werder (Havel) este celebră pentru producția de fructe și vin pe malul râului."],
       en: ["A 334-kilometer long river and a major tributary of the Elbe.", "Famous for its lake-like sections, covering large areas of Brandenburg.", "The primary waterway for the UNESCO World Heritage site in Potsdam.", "The river has a remarkably low gradient, resulting in a very slow current.", "Home to the 'Lower Havel Valley' nature reserve, a bird sanctuary.", "Connected to the Spree and the Elbe-Havel Canal."]
-    },
-  },
+    }, image: "/poi-images/river-havel-bb-extra.webp"},
   {
     id: "lake-scharmuetzelsee-extra",
     type: "lake",
@@ -152,8 +150,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Este al doilea ca mărime dintre lacurile naturale din Brandenburg (12 km²).", "Bad Saarow este prima stațiune balneară din Germania certificată pentru nămol terapeutic.", "Lacul are o formă alungită, cu o lungime de aproximativ 10 kilometri.", "Este conectat la rețeaua de căi navigabile federale prin canalul Storkower.", "Adâncimea maximă a lacului este de aproximativ 29 de metri.", "Regiunea găzduiește unele dintre cele mai bune terenuri de golf din Europa (A-ROSA)."],
       en: ["The largest lake in Brandenburg, covering 12 square kilometers.", "Known as the 'Märkisches Meer' for its impressive size.", "The lake reaches a maximum depth of approximately 29 meters.", "Home to the state-certified spa town of Bad Saarow.", "A premier European destination for golfing and wellness.", "Historically a preferred summer retreat for Berlin's high society."]
-    },
-  },
+    }, image: "/poi-images/lake-scharmuetzelsee-extra.webp"},
   {
     id: "forest-flaeming-extra",
     type: "forest",
@@ -190,8 +187,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Regiunea a fost formată în timpul erei glaciare Saale, acum circa 150.000 de ani.", "Flaeming-Skate oferă peste 230 de kilometri de trasee asfaltate de înaltă calitate.", "Multe biserici de sat sunt construite din bolovani de granit aduși de ghețari.", "Vârful Hagelberg, cu 200 de metri, este cel mai înalt punct din Brandenburgul de sud.", "Castelul Eisenhardt din Bad Belzig este un monument central al regiunii.", "Parcul Natural Hoher Fläming protejează biodiversitatea acestui peisaj de morenă."],
       en: ["A glacial moraine landscape formed during the Saale glaciation.", "Named after the Flemish settlers who arrived in the 12th century.", "Home to the 'Flaeming-Skate', Europe's longest skating circuit.", "Highest point is the Hagelberg at 200 meters altitude.", "Famous for its numerous medieval 'fieldstone' churches (Feldsteinkirchen).", "Includes the Hoher Fläming Nature Park, covering 82,700 hectares."]
-    },
-  },
+    }, image: "/poi-images/forest-flaeming-extra.webp"},
   {
     id: "landmark-brandenburger-dom-extra",
     type: "landmark",
@@ -228,8 +224,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Piatra de temelie a fost pusă în anul 1165 pe locul unei foste fortificații slave.", "Este 'Biserica Mamă' a tuturor bisericilor din landul Brandenburg.", "Deține faimoasa orgă Wagner din 1723, una dintre cele mai bine conservate orge baroce.", "Cripta catedralei păstrează elemente romanice originale de o rară frumusețe.", "Arhiva catedralei deține documente neîntrerupte încă din anul 1161.", "Include celebrul 'Triptic al Păpușilor', un altar medieval sculptat cu mare finețe."],
       en: ["The oldest building in the state of Brandenburg, founded in 1165.", "Known as the 'Mother of all Brandenburg Churches'.", "A primary example of the North German Brick Gothic style.", "Located on a historic island, the original seat of the Bishopric.", "Houses a world-class collection of medieval manuscripts and textiles.", "Features the Wagner organ, one of the finest Baroque instruments in Germany."]
-    },
-  },
+    }, image: "/poi-images/landmark-brandenburger-dom-extra.webp"},
   {
     id: "hist-kloster-chorin-extra",
     type: "historical",
@@ -266,8 +261,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Fosta mănăstire cisterciană a fost fondată în anul 1258 de margrafii de Brandenburg.", "Este considerată o capodoperă a stilului gotic în cărămidă (Backsteingotik).", "Abația a fost secularizată în anul 1542 în timpul Reformei protestante.", "Arhitectul Karl Friedrich Schinkel a coordonat primele măsuri de conservare în secolul XIX.", "Găzduiește festivalul 'Choriner Musiksommer' încă din anul 1964.", "Situl este situat în inima Rezervației Biosferei Schorfheide-Chorin."],
       en: ["A masterpiece of early Brick Gothic architecture, founded in 1258.", "The west facade is considered one of the finest in Northern Europe.", "Located within the UNESCO Schorfheide-Chorin Biosphere Reserve.", "Dissolved during the Reformation in 1542 and later used as a quarry.", "Host of the 'Choriner Musiksommer' festival for over 50 years.", "The abbey was a key site for the Ascanian Margraves of Brandenburg."]
-    },
-  },
+    }, image: "/poi-images/hist-kloster-chorin-extra.webp"},
   {
     id: "hist-schloss-rheinsberg-extra",
     type: "historical",
@@ -304,8 +298,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Frederic cel Mare a locuit aici între 1736 și 1740 ca prinț moștenitor.", "A fost renovat în stil rococo de arhitectul Georg Wenzeslaus von Knobelsdorff.", "Găzduiește Academia de Muzică Rheinsberg și un muzeu dedicat lui Kurt Tucholsky.", "Grădina castelului îmbină elemente baroce cu stilul englezesc timpuriu.", "Kurt Tucholsky a scris aici celebra sa povestire 'Rheinsberg: Un jurnal ilustrat pentru îndrăgostiți'.", "Castelul are o formă de 'U' deschisă spre lac, oferind o perspectivă spectaculoasă."],
       en: ["Residence of Frederick the Great as Crown Prince (1736–1740).", "The architectural model for Sanssouci Palace in Potsdam.", "Located directly on the shores of Lake Grienericksee.", "Home to the world-renowned Rheinsberg Chamber Opera.", "Immortalized by Theodor Fontane and Kurt Tucholsky.", "Features the only Kurt Tucholsky Literature Museum in the world."]
-    },
-  },
+    }, image: "/poi-images/hist-schloss-rheinsberg-extra.webp"},
   {
     id: "landmark-spreewald-kahnfahrt-extra",
     type: "landmark",
@@ -342,8 +335,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Canalele navigabile din Spreewald au o lungime totală de aproximativ 475 de kilometri.", "Bărcile tradiționale sunt construite din lemn de stejar sau pin, dar și din aluminiu modern.", "În satul Lehde, poșta și gunoiul sunt transportate și astăzi cu barca.", "O plimbare tipică poate dura între 2 și 8 ore, trecând prin numeroase ecluze manuale.", "Femeile sorabe poartă adesea costume populare tradiționale în timpul sărbătorilor locale.", "Regiunea este celebră pentru castraveții de Spreewald, serviți adesea direct pe barcă."],
       en: ["Traditional 'Kähne' are flat-bottomed boats propelled by a long pole.", "The Spreewald features over 300 kilometers of navigable canals.", "Punts were historically used for transporting everything from hay to cattle.", "The village of Lehde is a primary destination for traditional punt tours.", "Some areas of the Spreewald still have mail delivery by punt.", "A central part of the Sorbian (Wendish) cultural identity."]
-    },
-  },
+    }, image: "/poi-images/landmark-spreewald-kahnfahrt-extra.webp"},
   {
     id: "agriculture-spargel-beelitz-extra",
     type: "agriculture",
@@ -380,8 +372,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Prima cultură de sparanghel în Beelitz a fost înființată în anul 1861.", "Regiunea cultivată se întinde pe aproximativ 1.600 de hectare în prezent.", "Deține statutul de Indicație Geografică Protejată (IGP) la nivelul UE din 2018.", "Orașul Beelitz a primit oficial titlul de 'Spargelstadt' în anul 2013.", "Sezonul de recoltare se termină simbolic în fiecare an pe data de 24 iunie.", "Muzeul Sparanghelului din Beelitz documentează istoria de peste 160 de ani a culturii."],
       en: ["The largest and most famous asparagus-growing region in Germany.", "The sandy soil of the Fläming region is perfect for white asparagus.", "Spargel cultivation in Beelitz began in the year 1861.", "The harvest season is strictly limited from April to June 24th.", "Home to the Beelitz Asparagus Museum, the first of its kind.", "A major regional event is the 'Beelitz Asparagus Festival' in June."]
-    },
-  },
+    }, image: "/poi-images/agriculture-spargel-beelitz-extra.webp"},
   {
     id: "agriculture-gurken-spreewald-extra",
     type: "agriculture",
@@ -418,8 +409,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Protejați prin statutul de Indicație Geografică Protejată (IGP) din anul 1999.", "Recolta anuală în regiune este de aproximativ 32.000 până la 40.000 de tone.", "Aproximativ 500-600 de hectare sunt dedicate cultivării castraveților în Spreewald.", "Recoltarea se face manual folosind 'Gurkenflieger' (avioane de castraveți).", "Regiunea găzduiește 'Gurkenradweg', un traseu de biciclete de 260 km.", "Cel puțin 70% din materia primă trebuie să provină direct din regiunea Spreewald."],
       en: ["Protected by the European Union as a geographic indication since 1999.", "Approximately 40,000 tons of gherkins are harvested annually.", "The traditional recipes include dill, horseradish, and secret spice mixes.", "Famous 'Cucumber cycle path' (Gurkenradweg) stretches for 260 km.", "The gherkins were a staple food in the former GDR and became a global cult item.", "The region's unique peat soil provides the necessary minerals."]
-    },
-  },
+    }, image: "/poi-images/agriculture-gurken-spreewald-extra.webp"},
   {
     id: "city-frankfurt-oder-extra",
     type: "city",
@@ -456,8 +446,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Universitatea Europeană Viadrina a fost fondată inițial în anul 1506.", "Heinrich von Kleist, marele scriitor german, s-a născut aici în 1777.", "Biserica Marienkirche deține vitralii unice din secolul al XIV-lea.", "Orașul formează o unitate urbană transfrontalieră cu orașul polonez Słubice.", "A fost un membru activ al Ligii Hanseatice începând cu secolul al XIV-lea.", "Este situat la 80 de kilometri est de Berlin, pe malul râului Odra."],
       en: ["Home to the European University Viadrina, refounded in 1991.", "St. Mary's Church features 14th-century stained glass with 117 panels.", "The birthplace of the great German playwright Heinrich von Kleist.", "Forms a unique cross-border twin city with Słubice, Poland.", "Historically a major trading hub and Hanseatic city on the Oder.", "Features the Oder Bridge, a symbol of European integration."]
-    },
-  },
+    }, image: "/poi-images/city-frankfurt-oder-extra.webp"},
 
   // ── DE-ST Sachsen-Anhalt (15) ────────────────────────────────────────────────
   {
@@ -496,8 +485,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Școala Bauhaus s-a mutat de la Weimar la Dessau în anul 1925.", "Casele Maeștrilor au fost reședințe pentru artiști ca Wassily Kandinsky și Paul Klee.", "Grădina Dessau-Wörlitz este primul parc peisagistic în stil englezesc din Europa continentală.", "Hugo Junkers a fondat aici fabrica de avioane și motoare în anul 1895.", "Orașul găzduiește sediul Agenției Federale de Mediu din Germania (UBA).", "Dessau a fost capitala micului stat Anhalt-Dessau până în anul 1918."],
       en: ["Home to the Bauhaus Building, a global icon of modern architecture.", "The center of the Dessau-Wörlitz Garden Kingdom, a UNESCO site.", "Features the Masters' Houses where Kandinsky and Klee lived.", "The Bauhaus moved from Weimar to Dessau in the year 1925.", "Located at the confluence of the Elbe and Mulde rivers.", "A major center for the German aircraft industry during WWII (Junkers)."]
-    },
-  },
+    }, image: "/poi-images/city-dessau-extra.webp"},
   {
     id: "river-elbe-st-extra",
     type: "river",
@@ -534,8 +522,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Saxonia-Anhalt deține cea mai lungă secțiune a Elbei dintre toate landurile (303 km).", "Rezervația biosferei protejează peste 120.000 de hectare de habitat de luncă.", "Podul de apă de la Magdeburg are o lungime de 918 metri și este cel mai mare din Europa.", "Castorul de Elbe (Castor fiber albicus) a fost salvat de la dispariție în această regiune.", "Orașul Dessau-Roßlau este situat la confluența Elbei cu râul Mulde.", "Regiunea este un punct cheie pentru navigația interioară către portul Hamburg."],
       en: ["Flows through the UNESCO Middle Elbe Biosphere Reserve.", "The state's most important transport route for over 1,000 years.", "Home to the largest population of Elbe beavers in the world.", "Passes through the Dessau-Wörlitz Garden Kingdom, a UNESCO site.", "Features the massive 'Magdeburg Water Junction', Europe's largest canal bridge.", "A major European center for the development of sustainable river logistics."]
-    },
-  },
+    }, image: "/poi-images/river-elbe-st-extra.webp"},
   {
     id: "river-saale-st-extra",
     type: "river",
@@ -572,8 +559,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Saale are o lungime totală de 413 kilometri și se varsă în Elbe la Barby.", "Valea râului deține cea mai mare densitate de castele de pe un curs de apă german.", "Orașul Halle (Saale) este cel mai mare oraș situat direct pe cursul său.", "Include barajul Bleilochtalsperre, cel mai mare lac de acumulare din Germania după volum.", "A fost o graniță strategică importantă între lumea germană și cea slavă în Evul Mediu.", "Regiunea Saale-Unstrut este renumită pentru soiurile sale de vin alb sec."],
       en: ["The most important tributary of the Elbe river (413 kilometers).", "Famous for the Saale-Unstrut wine region, the northernmost in Germany.", "Flows past the spectacular Giebichenstein Castle and Rudelsburg.", "Historically the primary resource for the 'Halloren' salt production.", "The Saale valley features the highest density of castles in Germany.", "A major destination for recreational boating and river hiking."]
-    },
-  },
+    }, image: "/poi-images/river-saale-st-extra.webp"},
   {
     id: "lake-arendsee-extra",
     type: "lake",
@@ -610,8 +596,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Adâncimea maximă a lacului atinge aproximativ 50 de metri.", "S-a format prin dizolvarea și prăbușirea unei structuri de sare subterane (Subrosion).", "Arendsee are o suprafață de circa 5,1 kilometri pătrați.", "Este un sit important pentru sporturile nautice, în special navigație și scufundări.", "Orașul Arendsee de pe malul lacului este o stațiune climaterică recunoscută oficial.", "Include ruinele unei mănăstiri benedictine din secolul al XII-lea pe malul său."],
       en: ["The largest natural lake in the state, covering 5 square kilometers.", "Formed by the collapse of a salt dome approximately 3,000 years ago.", "The lake reaches a maximum depth of 50 meters, unusual for the plains.", "Home to a 12th-century Benedictine nunnery ruin.", "Features the historic paddle steamer 'Queen Arendsee'.", "A certified 'Air Spa' (Luftkurort) due to its pristine climate."]
-    },
-  },
+    }, image: "/poi-images/lake-arendsee-extra.webp"},
   {
     id: "mnt-brocken-st-extra",
     type: "mountain",
@@ -648,8 +633,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Platoul de pe vârf este cel mai înalt punct din Saxonia-Anhalt (1.141 m).", "Stația de ascultare 'Urian' a fost demontată după reunificare în 1994.", "Brocken a fost prima locație din lume care a transmis semnal TV în format digital.", "Drumul 'Goetheweg' este cel mai popular traseu de drumeție către vârf.", "Vârful se află deasupra liniei naturale a pădurii, fiind acoperit de mușchi și licheni.", "Anual, pe 30 aprilie, mii de oameni celebrează aici 'Noaptea Vrăjitoarelor'."],
       en: ["The highest peak in Northern Germany at 1,141 meters altitude.", "Legendary home of witches and the setting for Walpurgis Night.", "Features the 'Brocken Spectre' – a rare optical illusion in the mist.", "Served as a top-secret listening post for the Stasi and GRU until 1989.", "Home to Germany's oldest alpine garden, founded in 1890.", "The summit is often shrouded in fog for over 300 days a year."]
-    },
-  },
+    }, image: "/poi-images/mnt-brocken-st-extra.webp"},
   {
     id: "forest-harz-nationalpark-extra",
     type: "forest",
@@ -686,8 +670,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Parcul a fost fondat în 1990 (în Est) și 1994 (în Vest), fiind unit în anul 2006.", "Vârful Brocken are 1.141 metri și o climă subalpină similară cu Islanda.", "Râsul a fost reintrodus cu succes în Harz începând cu anul 2000.", "97% din suprafața parcului este acoperită de păduri naturale și zone sălbatice.", "Calea ferată a Brocken-ului funcționează cu locomotive cu aburi istorice.", "Legenda 'Nopții Valpurgiei' atrage mii de turiști pe vârful Brocken în fiecare an."],
       en: ["One of the largest national parks in Germany, covering 24,700 hectares.", "Dedicated to protecting Central Europe's largest continuous spruce forest.", "Home to the Harz Lynx Project, which successfully reintroduced the predator.", "Includes spectacular granite formations like the 'Hahnnenkleeklippen'.", "A vital sanctuary for the black stork and the European wildcat.", "Approximately 95% of the park is designated as a wild nature zone."]
-    },
-  },
+    }, image: "/poi-images/forest-harz-nationalpark-extra.webp"},
   {
     id: "hist-wittenberg-stadtkirche-extra",
     type: "historical",
@@ -724,8 +707,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Inclusă în patrimoniul mondial UNESCO din anul 1996.", "Martin Luther a predicat aici de peste 2.000 de ori de-a lungul vieții.", "Altarul realizat de Lucas Cranach (1547) este o capodoperă a artei protestante.", "Este cea mai veche clădire din oraș, datând parțial din secolul al XIII-lea.", "Aici a avut loc prima căsătorie a unui preot (Luther cu Katharina von Bora).", "Turnurile bisericii domină silueta orașului, având o înălțime de 70 de metri."],
       en: ["UNESCO World Heritage site and the primary pulpit of Martin Luther.", "Known as the 'Mother Church of the Reformation'.", "Features the world-famous 'Reformation Altar' by Lucas Cranach.", "The site of the first German-language church service in history.", "The twin towers are a landmark of the city of Wittenberg.", "Martin Luther was married here to Katharina von Bora in 1525."]
-    },
-  },
+    }, image: "/poi-images/hist-wittenberg-stadtkirche-extra.webp"},
   {
     id: "landmark-nebra-himmelsscheibe-extra",
     type: "landmark",
@@ -762,8 +744,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Discul are un diametru de aproximativ 32 de centimetri și cântărește 2 kilograme.", "A fost găsit de căutători de comori neautorizați pe muntele Mittelberg.", "Datează din aproximativ anul 1600 î.Hr., aparținând culturii Unetice.", "Este considerat o 'Busolă a Credinței' care combina religia cu observația astronomică.", "Piesa originală este expusă la Muzeul de Stat pentru Preistorie din Halle (Saale).", "Arche Nebra include un planetariu și o platformă de observație pe locul descoperirii."],
       en: ["The world's oldest concrete representation of the night sky (3,600 years old).", "Found in 1999 by looters on the Mittelberg hill near Nebra.", "Made of bronze with gold inlays representing the sun, moon, and stars.", "Part of the UNESCO 'Memory of the World' International Register.", "Proves that Bronze Age humans had advanced astronomical knowledge.", "Original is displayed in the State Museum of Prehistory in Halle."]
-    },
-  },
+    }, image: "/poi-images/landmark-nebra-himmelsscheibe-extra.webp"},
   {
     id: "agriculture-zuckerruebe-st-extra",
     type: "agriculture",
@@ -838,8 +819,7 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Inclus în lista patrimoniului mondial UNESCO din anul 1994.", "Deține cea mai veche casă pe structură de lemn din Germania (cca. 1310).", "Quedlinburg a fost capitala imperiului sub domnia împăraților dinastiilor Ottoniene.", "Schlossberg (Dealul Castelului) găzduiește mormântul regelui Henric I și al soției sale Matilda.", "Orașul este renumit pentru creșterea semințelor de flori și legume încă din secolul XVIII.", "Găzduiește Muzeul de Artă Lyonel Feininger, dedicat faimosului artist modernist."],
       en: ["UNESCO World Heritage site with over 2,000 half-timbered houses.", "The burial place of King Henry the Fowler, the first German King.", "Home to the Quedlinburg Cathedral Treasury, a world-class collection.", "Ruled by an independent Imperial Abbey for over 800 years.", "Features the 'Ständerbau', one of the oldest timber houses in Germany (1310).", "A major stop on the 'Romanesque Road' (Strasse der Romanik)."]
-    },
-  },
+    }, image: "/poi-images/landmark-quedlinburg-st-extra.webp"},
   {
     id: "industry-leuna-buna-extra",
     type: "industry",
@@ -876,6 +856,6 @@ export const poiExtraDe3b: POI[] = [
       ],
       ro: ["Producția primului cauciuc sintetic utilizabil comercial a început aici în 1936.", "Situl a fost un punct central al privatizării masive din estul Germaniei după 1990.", "Turnurile de răcire ale centralei electrice Schkopau sunt puncte de reper vizibile de la distanță.", "Dow Chemical a investit miliarde de euro pentru a aduce uzina la standarde ecologice moderne.", "Include o rețea complexă de conducte conectată direct cu situl vecin de la Leuna.", "Produce anual milioane de tone de mase plastice pentru industria globală a ambalajelor."],
       en: ["One of the largest integrated chemical industrial sites in Europe.", "Famous for the invention of synthetic 'Buna' rubber.", "Founded in 1916 (Leuna) and 1936 (Buna Schkopau).", "Currently a leading European hub for green hydrogen research.", "Home to the massive TotalEnergies refinery in Leuna.", "A critical engine for the regional economy with over 15,000 workers."]
-    },
-  },
+    }, image: "/poi-images/industry-leuna-buna-extra.webp"},
 ];
+

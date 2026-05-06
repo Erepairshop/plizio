@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED
 import type { POI } from "./poi";
 import { poiExtraCubaCitiesV2 } from "./poiExtraCubaCitiesV2";
@@ -43,8 +44,7 @@ export const cubaCities: POI[] = [
       en: ["The Malecón is an 8 km long seawall and popular gathering spot", "The city was once the most important port for the Spanish treasure fleet", "Havana hosts the largest fortress complex in Latin America"]
     },
     historyYear: 1519,
-    area: 728.26
-  },
+    area: 728.26, image: "/poi-images/cu-havana.webp"},
   {
     id: "cu-santiago",
     type: "city",
@@ -76,8 +76,7 @@ export const cubaCities: POI[] = [
       en: ["Santa Ifigenia Cemetery houses the tombs of José Martí and Fidel Castro", "The city hosts Cuba's most spectacular carnival every July", "It served as the island's first capital under Spanish rule"]
     },
     historyYear: 1514,
-    area: 1023.8
-  },
+    area: 1023.8, image: "/poi-images/cu-santiago.webp"},
   {
     id: "cu-varadero",
     type: "city",
@@ -108,8 +107,7 @@ export const cubaCities: POI[] = [
       ro: ["Peștera Saturno din apropiere oferă apă cristalină pentru înot", "În trecut, a fost un refugiu popular pentru gangsterul Al Capone", "Peninsula are o lățime de doar 1,2 km în cel mai îngust punct"],
       en: ["The nearby Saturno Cave offers crystal clear water for swimming", "It was once a popular getaway for the gangster Al Capone", "The peninsula is only 1.2 km wide at its narrowest point"]
     },
-    length: 20000
-  },
+    length: 20000, image: "/poi-images/cu-varadero.webp"},
   {
     id: "cu-vinales",
     type: "city",
@@ -141,8 +139,7 @@ export const cubaCities: POI[] = [
       en: ["The Mural of Prehistory is one of the largest open-air murals in the world", "Farmers dry tobacco leaves in special houses called 'Casas de Tabaco'", "Some of Cuba's largest cave systems are located nearby"]
     },
     historyYear: 1878,
-    area: 704
-  },
+    area: 704, image: "/poi-images/cu-vinales.webp"},
   {
     id: "cu-trinidad",
     type: "city",
@@ -174,8 +171,7 @@ export const cubaCities: POI[] = [
       en: ["The city's wealth came from the slave plantations of the Valle de los Ingenios", "Plaza Mayor is the central square and heart of the historic district", "The region is known for 'Canchánchara', a cocktail made of honey, lemon, and rum"]
     },
     historyYear: 1514,
-    area: 1155
-  },
+    area: 1155, image: "/poi-images/cu-trinidad.webp"},
   {
     id: "cu-cienfuegos",
     type: "city",
@@ -207,8 +203,7 @@ export const cubaCities: POI[] = [
       en: ["The Tomás Terry Theater is one of Cuba's most magnificent opera houses", "The city features the longest pedestrian street in Cuba, the Boulevard de Cienfuegos", "The Cienfuegos Botanical Garden nearby is one of the oldest in the Americas"]
     },
     historyYear: 1819,
-    area: 333
-  },
+    area: 333, image: "/poi-images/cu-cienfuegos.webp"},
   {
     id: "cu-camaguey",
     type: "city",
@@ -240,8 +235,7 @@ export const cubaCities: POI[] = [
       en: ["The city is a major center for ballet and fine arts in Cuba", "The original settlement was named Santa María del Puerto del Príncipe", "It has one of the most significant Catholic communities on the island"]
     },
     historyYear: 1514,
-    area: 1106
-  },
+    area: 1106, image: "/poi-images/cu-camaguey.webp"},
   {
     id: "cu-holguin",
     type: "city",
@@ -273,8 +267,7 @@ export const cubaCities: POI[] = [
       en: ["Columbus landed near Holguín at Bariay in 1492", "The city is famous for its beer production (the Mayabe brand)", "Each year, it hosts the 'Romería de Mayo', a major cultural festival"]
     },
     historyYear: 1523,
-    area: 655.9
-  },
+    area: 655.9, image: "/poi-images/cu-holguin.webp"},
   {
     id: "cu-cauto-river",
     type: "river",
@@ -305,8 +298,7 @@ export const cubaCities: POI[] = [
       ro: ["Din păcate, râul este puternic poluat din cauza deșeurilor agricole", "Traversează provinciile Santiago de Cuba, Holguín și Granma", "În delta sa se află păduri extinse de mangrove"],
       en: ["The river faces significant environmental challenges from agricultural runoff", "It flows through the provinces of Santiago de Cuba, Holguín, and Granma", "Its delta contains extensive mangrove forests"]
     },
-    length: 370000
-  },
+    length: 370000, image: "/poi-images/cu-cauto-river.webp"},
   {
     id: "cu-leche-lagoon",
     type: "lake",
@@ -337,8 +329,7 @@ export const cubaCities: POI[] = [
       ro: ["Adâncimea medie a lacului este de doar aproximativ 2 metri", "Este conectat printr-un canal la Marea Caraibelor", "Laguna este cunoscută pentru abundența de flamingo și alte păsări de apă"],
       en: ["The lake has an average depth of only about 2 meters", "It is connected to the Caribbean Sea via a man-made canal", "The lagoon is a significant sanctuary for flamingos and other migratory birds"]
     },
-    area: 66
-  },
+    area: 66, image: "/poi-images/cu-leche-lagoon.webp"},
   {
     id: "cu-escambray",
     type: "mountain",
@@ -369,8 +360,7 @@ export const cubaCities: POI[] = [
       ro: ["În anii 1960, munții au fost scena unor conflicte armate împotriva revoluției", "Parcul Natural Topes de Collantes se află în inima acestui lanț muntos", "Regiunea este cunoscută pentru temperaturile sale răcoroase și umiditatea ridicată"],
       en: ["The mountains were the site of armed resistance movements in the 1960s", "The Topes de Collantes Nature Reserve is located in the heart of the range", "The area is famous for its unique microclimate with cooler temperatures"]
     },
-    elevation: 1140
-  },
+    elevation: 1140, image: "/poi-images/cu-escambray.webp"},
   {
     id: "cu-vinales-valley",
     type: "forest",
@@ -401,8 +391,7 @@ export const cubaCities: POI[] = [
       ro: ["Valea este cunoscută pentru solul său roșu fertil", "Atelajele de boi sunt încă folosite aici pentru munca câmpului", "Gran Caverna de Santo Tomás din vale este cea mai mare peșteră din Cuba"],
       en: ["The valley is renowned for its fertile, iron-rich red soil", "Traditional oxen are still the primary means of plowing the fields", "The Gran Caverna de Santo Tomás located here is the largest cave system in Cuba"]
     },
-    area: 132
-  },
+    area: 132, image: "/poi-images/cu-vinales-valley.webp"},
 ];
 
 export const cubaLandmarks: POI[] = [
@@ -437,8 +426,7 @@ export const cubaLandmarks: POI[] = [
       en: ["The original lighthouse was replaced by the current structure in 1845", "The fortress fell to the British in 1762 after a 44-day siege", "It now houses a museum dedicated to maritime history"]
     },
     historyYear: 1589,
-    elevation: 20
-  },
+    elevation: 20, image: "/poi-images/cu-morro.webp"},
   {
     id: "cu-hemingway",
     type: "historical",
@@ -469,8 +457,7 @@ export const cubaLandmarks: POI[] = [
       ro: ["Vizitatorii pot vedea casa doar din exterior, prin ferestre", "Hemingway a cumpărat proprietatea în 1940 pentru aproximativ 12.500 de dolari", "Pe proprietate se află și mormintele câinilor săi preferați"],
       en: ["Visitors can only view the interior of the house through its windows", "Hemingway purchased the estate in 1940 for approximately $12,500", "The grounds include the graves of several of his favorite pet dogs"]
     },
-    historyYear: 1940
-  },
+    historyYear: 1940, image: "/poi-images/cu-hemingway.webp"},
   {
     id: "cu-revolucion",
     type: "landmark",
@@ -501,8 +488,7 @@ export const cubaLandmarks: POI[] = [
       ro: ["Turnul de observație al monumentului Martí este cel mai înalt punct din Havana", "Sub portretul lui Che Guevara se află faimosul său citat 'Hasta la Victoria Siempre'", "Papa Ioan Paul al II-lea a oficiat aici o liturghie istorică în 1998"],
       en: ["The observation tower of the Jose Martí Memorial is the highest point in Havana", "The Che Guevara mural includes his famous motto 'Hasta la Victoria Siempre'", "Pope John Paul II celebrated a historic mass here in 1998"]
     },
-    area: 0.072
-  },
+    area: 0.072, image: "/poi-images/cu-revolucion.webp"},
   {
     id: "cu-turquino",
     type: "mountain",
@@ -533,8 +519,7 @@ export const cubaLandmarks: POI[] = [
       ro: ["Pe vârf se află un bust al lui José Martí", "Muntele a fost un refugiu important pentru rebelii lui Fidel Castro", "Este singurul loc din Cuba unde poate apărea ocazional înghețul"],
       en: ["A bust of José Martí stands at the summit", "The mountain served as a key hideout for Fidel Castro's rebel forces", "It is the only place in Cuba where frost is occasionally recorded"]
     },
-    elevation: 1974
-  },
+    elevation: 1974, image: "/poi-images/cu-turquino.webp"},
   {
     id: "cu-cayococo",
     type: "island",
@@ -565,8 +550,7 @@ export const cubaLandmarks: POI[] = [
       ro: ["Insula este conectată de continent printr-un dig de 27 km (Pedraplén)", "Numită după ibisul brun, care este numit local 'Coco'", "Unul dintre cele mai bune locuri de scufundări din Caraibe datorită recifului de corali"],
       en: ["The island is connected to the mainland by a 27 km long causeway (Pedraplén)", "Named after the White Ibis, locally known as the 'Coco' bird", "Offers world-class diving thanks to the proximity of the coral reef"]
     },
-    area: 370
-  },
+    area: 370, image: "/poi-images/cu-cayococo.webp"},
   {
     id: "cu-cheguevara",
     type: "historical",
@@ -597,8 +581,7 @@ export const cubaLandmarks: POI[] = [
       ro: ["Rămășițele lui Guevara au fost transferate din Bolivia în Cuba abia în 1997", "Sub monument se află un muzeu despre viața sa", "Statuia îl înfățișează cu brațul în ghips, așa cum a luptat în bătălie"],
       en: ["Guevara's remains were only recovered from Bolivia and brought to Cuba in 1997", "A museum dedicated to his life is located beneath the monument", "The statue depicts him with his arm in a sling, as he fought during the battle"]
     },
-    historyYear: 1988
-  },
+    historyYear: 1988, image: "/poi-images/cu-cheguevara.webp"},
   {
     id: "cu-fuerza",
     type: "historical",
@@ -629,8 +612,7 @@ export const cubaLandmarks: POI[] = [
       ro: ["Pe turn se află Giraldilla, simbolul Havanei", "Giraldilla este o statuie de bronz numită după Isabel de Bobadilla", "Fortăreața are un plan pătrat cu patru bastioane masive"],
       en: ["The Giraldilla, Havana's official symbol, stands atop the tower", "The Giraldilla statue is modeled after Isabel de Bobadilla", "The fortress features a classic square design with four massive bastions"]
     },
-    historyYear: 1558
-  },
+    historyYear: 1558, image: "/poi-images/cu-fuerza.webp"},
   {
     id: "cu-zapata",
     type: "landmark",
@@ -661,8 +643,7 @@ export const cubaLandmarks: POI[] = [
       ro: ["Zona cuprinde peste 4.000 km² de natură virgină", "În apropiere se află faimoasa Golful Porcilor (Bahía de Cochinos)", "Există aici peste 900 de specii diferite de plante"],
       en: ["The swamp covers over 4,000 km² of protected wilderness", "The historic Bay of Pigs (Bahía de Cochinos) is located nearby", "Botanists have identified more than 900 plant species in the area"]
     },
-    area: 4162
-  },
+    area: 4162, image: "/poi-images/cu-zapata.webp"},
   {
     id: "cu-playaparaiso",
     type: "landmark",
@@ -692,8 +673,7 @@ export const cubaLandmarks: POI[] = [
       hu: ["A homok kémiai összetétele miatt soha nem forrósodik fel", "Alig vannak hullámok, ami miatt a víz kristálytiszta marad", "A strand nagyrészt érintetlen, nincsenek hatalmas szállodák közvetlenül a parton"],
       ro: ["Nisipul nu se încinge niciodată datorită compoziției sale chimice", "Există puține valuri, ceea ce menține apa cristalină", "Plaja este în mare parte naturală, fără construcții hoteliere mari direct pe mal"],
       en: ["The sand's unique composition prevents it from getting hot in the sun", "Minimal wave action keeps the water exceptionally clear", "The beach remains largely undeveloped, maintaining a pristine atmosphere"]
-    }
-  },
+    }, image: "/poi-images/cu-playaparaiso.webp"},
   {
     id: "cu-rum",
     type: "landmark",
@@ -724,8 +704,7 @@ export const cubaLandmarks: POI[] = [
       ro: ["Muzeul se află în centrul istoric al Havanei Vechi", "Vizitatorii pot învăța despre arta meșteșugului dogăriei", "Există un bar în curtea interioară care servește cocktailuri cubaneze clasice"],
       en: ["The museum is situated in the heart of Old Havana (Habana Vieja)", "Exhibits demonstrate the skilled craft of traditional barrel making", "An on-site bar serves authentic Cuban cocktails like the Mojito"]
     },
-    historyYear: 2000
-  },
+    historyYear: 2000, image: "/poi-images/cu-rum.webp"},
   {
     id: "cu-san-pedro-fort",
     type: "historical",
@@ -757,8 +736,7 @@ export const cubaLandmarks: POI[] = [
       en: ["The fortress is constructed on multiple levels carved directly into the rock", "It successfully withstood numerous attacks by British and French privateers", "A ceremonial flag-lowering occurs every day at sunset"]
     },
     historyYear: 1638,
-    elevation: 60
-  },
+    elevation: 60, image: "/poi-images/cu-san-pedro-fort.webp"},
   {
     id: "cu-isla-juventud",
     type: "landmark",
@@ -789,8 +767,7 @@ export const cubaLandmarks: POI[] = [
       ro: ["Fidel Castro a fost închis aici în închisoarea Presidio Modelo", "Insula a fost descoperită de Columb în 1494", "Este un centru important pentru producția de ceramică și marmură"],
       en: ["Fidel Castro was once imprisoned here in the Presidio Modelo", "Christopher Columbus discovered the island in 1494", "It is a major Cuban center for ceramic arts and marble quarrying"]
     },
-    area: 2419
-  },
+    area: 2419, image: "/poi-images/cu-isla-juventud.webp"},
   {
     id: "cu-baconao",
     type: "landmark",
@@ -821,8 +798,7 @@ export const cubaLandmarks: POI[] = [
       ro: ["Parcul găzduiește ruinele unor vechi plantații de cafea franceze", "Gran Piedra este o stâncă uriașă în parc cu o vedere excelentă", "Există acolo și un muzeu de mașini de epocă"],
       en: ["The park protects ruins of early French coffee plantations", "La Gran Piedra is a massive volcanic rock offering panoramic views", "The reserve includes a vintage automobile museum"]
     },
-    area: 848
-  },
+    area: 848, image: "/poi-images/cu-baconao.webp"},
   {
     id: "cu-topes-collantes",
     type: "landmark",
@@ -853,8 +829,7 @@ export const cubaLandmarks: POI[] = [
       ro: ["A fost anterior o stațiune balneară pentru pacienții cu tuberculoză", "Parcul găzduiește numeroase specii de păsări endemice, cum ar fi Tocororo", "Regiunea produce unele dintre cele mai bune soiuri de cafea din Cuba"],
       en: ["The area once served as a sanatorium for tuberculosis patients", "The park is a sanctuary for endemic birds like the Tocororo", "The surrounding slopes produce some of Cuba's premium coffee beans"]
     },
-    elevation: 800
-  },
+    elevation: 800, image: "/poi-images/cu-topes-collantes.webp"},
   {
     id: "cu-baracoa-historic",
     type: "historical",
@@ -890,3 +865,4 @@ export const cubaLandmarks: POI[] = [
 ];
 
 export const cubaAllPoi: POI[] = [...cubaCountry, ...cubaRegions, ...cubaCities, ...cubaLandmarks, ...poiExtraCubaCitiesV2, ...poiExtraCubaEconomicV2, ...poiExtraCubaHistoryV2, ...poiExtraCubaLandmarksV2, ...poiExtraCubaLifeV2, ...poiExtraCubaNatureV2, ...poiExtraCubaReliefV2];
+

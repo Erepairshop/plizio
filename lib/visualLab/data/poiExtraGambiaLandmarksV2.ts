@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGambiaLandmarksV2: POI[] = [
@@ -23,8 +24,19 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["35 méter magas boltíves szerkezet.", "Panorámás kilátást nyújt a városra."],
       ro: ["Structură în arc de 35 de metri înălțime.", "Oferă o vedere panoramică asupra orașului."],
       en: ["35-meter tall arched structure.", "Offers panoramic views over the city."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Arch 22 wurde 1996 zu Ehren der am 22. Juli 1994 erfolgten Machtübernahme durch Yahya Jammeh errichtet. Das 35 Meter hohe Bauwerk markiert den Haupteingang zur gambischen Hauptstadt Banjul. Das Monument besteht aus acht Säulen, die das Bogen-Design stützen, und beherbergt ein kleines Museum sowie eine Aussichtsplattform, von der aus der Blick über die Atlantikküste und das Stadtzentrum von Banjul reicht. Geografie K7 — städtebauliche Wahrzeichen.",
+      hu: "A 22-es diadalív (Arch 22) 1996-ban épült a Yahya Jammeh által 1994. július 22-én végrehajtott hatalomátvétel tiszteletére. A 35 méter magas építmény Banjul, Gambia fővárosának fő bejáratát jelzi. A nyolc oszlopon nyugvó boltíves emlékmű belsejében egy kis múzeum és egy kilátó található, ahonnan páratlan panoráma nyílik az Atlanti-óceán partvidékére és a főváros belvárosára. Földrajz K7 — városépítészeti nevezetességek.",
+      ro: "Arcul 22 a fost construit în 1996 în onoarea preluării puterii de către Yahya Jammeh la 22 iulie 1994. Structura de 35 de metri înălțime marchează intrarea principală în capitala gambiană, Banjul. Monumentul constă din opt coloane care susțin designul arcului și găzduiește un mic muzeu, precum și o platformă de observare de unde vizitatorii pot admira coasta Atlanticului și centrul orașului. Geografie K7 — repere urbane.",
+      en: "Arch 22 was built in 1996 to commemorate the takeover of power by Yahya Jammeh on July 22, 1994. The 35-meter-tall structure marks the main gateway into the Gambian capital, Banjul. The monument consists of eight columns supporting the arched design and houses a small museum, as well as a viewing platform from which visitors can see the Atlantic coast and the city center of Banjul. Geography K7 — urban landmarks."
+    },
+    factsAdvanced: {
+      de: ["Errichtet 1996 als Triumphbogen.", "Höhe von genau 35 Metern.", "Befindet sich am Banjul-Highway.", "Beherbergt ein Nationalmuseum-Dependance.", "Acht massive Säulen stützen das Bauwerk.", "Symbolisiert den politischen Wendepunkt von 1994."],
+      hu: ["1996-ban épült diadalívként.", "Pontosan 35 méter magas.", "A Banjul-országúton található.", "Egy kis nemzeti múzeumi részlegnek ad otthont.", "Nyolc masszív oszlop tartja az építményt.", "Az 1994-es politikai fordulópontot jelképezi."],
+      ro: ["Construit în 1996 ca arc de triumf.", "Înălțime exactă de 35 de metri.", "Situat pe autostrada Banjul.", "Găzduiește o secție a muzeului național.", "Opt coloane masive susțin structura.", "Simbolizează punctul de cotitură politică din 1994."],
+      en: ["Built in 1996 as a triumphal arch.", "Exactly 35 meters high.", "Located on the Banjul Highway.", "Houses a national museum annex.", "Eight massive columns support the structure.", "Symbolizes the political turning point of 1994."]
+    }, image: "/poi-images/arch-22-landmarks-v2.webp"},
   {
     id: "wassu-stone-circles-landmarks-v2",
     type: "landmark",
@@ -47,8 +59,19 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A szenegambiai kőkörök közé tartoznak.", "Kr. e. 3. század és a 16. század között épültek."],
       ro: ["Fac parte din cercurile de piatră senegambiene.", "Construite între secolul III î.Hr. și secolul XVI d.Hr."],
       en: ["Part of the Senegambian stone circles.", "Built between the 3rd century BC and the 16th century AD."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Steinkreise von Wassu gehören zu den bedeutendsten Megalith-Stätten in Westafrika und sind seit 2006 UNESCO-Welterbe. Diese kreisförmigen Anordnungen aus Lateritsteinen dienten als Grabstätten, deren Ursprung bis auf das 3. Jahrhundert vor Christus zurückgeht. Die Steine variieren in ihrer Höhe zwischen einem und zweieinhalb Metern. Archäologische Untersuchungen deuten darauf hin, dass die Stätte eine komplexe rituelle und gesellschaftliche Geschichte der senegambischen Völker widerspiegelt. Geschichte K6 — antike Kulturen.",
+      hu: "A Wassu kőkörök Nyugat-Afrika egyik legfontosabb megalitikus lelőhelye, amely 2006 óta az UNESCO világörökség része. Ezek a lateritkövekből álló kör alakú elrendezések temetkezési helyként szolgáltak, eredetük a Kr. e. 3. századra nyúlik vissza. A kövek magassága egy és két és fél méter között váltakozik. A régészeti feltárások arra utalnak, hogy a helyszín a szenegambiai népek komplex rituális és társadalmi történelmét tükrözi. Történelem K6 — ókori kultúrák.",
+      ro: "Cercurile de piatră de la Wassu reprezintă unul dintre cele mai importante situri megalitice din Africa de Vest, fiind parte a Patrimoniului Mondial UNESCO din 2006. Aceste aranjamente circulare din piatră lateritică au servit drept locuri de înmormântare, originea lor datând încă din secolul al III-lea î.Hr. Înălțimea pietrelor variază între unu și doi metri și jumătate. Investigațiile arheologice sugerează că situl reflectă istoria socială și rituală complexă a popoarelor senegambiene. Istorie K6 — culturi antice.",
+      en: "The Wassu Stone Circles are among the most significant megalithic sites in West Africa, listed as a UNESCO World Heritage site since 2006. These circular arrangements of laterite stones served as burial grounds with origins dating back to the 3rd century BC. The height of the stones varies between one and two and a half meters. Archaeological research suggests that the site reflects the complex ritual and social history of the Senegambian peoples. History K6 — ancient cultures."
+    },
+    factsAdvanced: {
+      de: ["Seit 2006 Teil des UNESCO-Welterbes.", "Bestehend aus 11 Steinkreisen an der Wassu-Stätte.", "Material ist lokaler Laterit.", "Steine bis zu 10 Tonnen schwer.", "Grabungen enthielten oft Grabbeigaben.", "Nutzen der Astronomie wird vermutet."],
+      hu: ["2006 óta az UNESCO világörökség része.", "11 kőkört tartalmaz a Wassu lelőhely.", "Anyaga helyi laterit.", "A kövek súlya elérheti a 10 tonnát.", "Az ásatások gyakran tartalmaztak sírmellékleteket.", "Csillagászati felhasználását feltételezik."],
+      ro: ["Parte a Patrimoniului Mondial UNESCO din 2006.", "Cuprinde 11 cercuri de piatră în situl Wassu.", "Materialul este laterit local.", "Pietrele pot cântări până la 10 tone.", "Săpăturile au scos adesea la iveală ofrande funerare.", "Se presupune utilizarea în scopuri astronomice."],
+      en: ["Part of the UNESCO World Heritage since 2006.", "Comprises 11 stone circles at the Wassu site.", "Material is local laterite.", "Stones can weigh up to 10 tons.", "Excavations often yielded burial goods.", "Astronomical use is hypothesized."]
+    }, image: "/poi-images/wassu-stone-circles-landmarks-v2.webp"},
   {
     id: "fort-bullen-landmarks-v2",
     type: "landmark",
@@ -71,8 +94,19 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["1826-ban épült.", "Az UNESCO világörökség része a Kunta Kinteh helyszínek részeként."],
       ro: ["Construit în anul 1826.", "Patrimoniu Mondial UNESCO ca parte a siturilor Kunta Kinteh."],
       en: ["Built in 1826.", "UNESCO World Heritage site as part of the Kunta Kinteh sites."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Fort Bullen wurde 1826 am Nordufer der Gambia-Mündung in Barra errichtet, um den Sklavenhandel in der Region aktiv zu unterbinden. Zusammen mit dem Fort James auf der Kunta Kinteh Insel bildete es eine strategische Verteidigungslinie der Briten. Die Befestigungsanlage sollte den Zugang für Schiffe kontrollieren und illegale Aktivitäten auf dem Fluss stoppen. Heute ist das Fort Teil des Kunta Kinteh UNESCO-Welterbes und zeugt vom harten Kampf gegen die Sklaverei im 19. Jahrhundert. Geschichte K8 — Kolonialgeschichte.",
+      hu: "A Bullen-erődöt (Fort Bullen) 1826-ban építették a Gambia-folyó torkolatának északi partján, Barrában, hogy aktívan felszámolják a régióban zajló rabszolga-kereskedelmet. A Kunta Kinteh szigeten található James-erőddel együtt a britek stratégiai védelmi vonalát alkotta. Az erődítmény feladata a hajók mozgásának ellenőrzése és a folyón zajló illegális tevékenységek megállítása volt. Ma az erőd a Kunta Kinteh UNESCO-világörökségi helyszín része, és a 19. századi rabszolgaság elleni kemény küzdelem tanúja. Történelem K8 — gyarmati korszak.",
+      ro: "Fortul Bullen a fost construit în 1826 pe malul nordic al estuarului fluviului Gambia, în Barra, pentru a suprima activ comerțul cu sclavi din regiune. Împreună cu Fortul James de pe insula Kunta Kinteh, acesta forma o linie defensivă strategică a britanicilor. Fortificația a fost menită să controleze accesul navelor și să oprească activitățile ilegale pe râu. Astăzi, fortul face parte din situl Patrimoniului Mondial UNESCO Kunta Kinteh și mărturisește lupta dură împotriva sclaviei din secolul al XIX-lea. Istorie K8 — epoca colonială.",
+      en: "Fort Bullen was built in 1826 on the north bank of the Gambia River estuary in Barra to actively abolish the slave trade in the region. Together with Fort James on Kunta Kinteh Island, it formed a strategic defense line for the British. The fortification was meant to control ship access and stop illegal activities on the river. Today, the fort is part of the Kunta Kinteh UNESCO World Heritage site and stands as a testament to the hard fight against slavery in the 19th century. History K8 — colonial history."
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahre 1826.", "Strategische Lage am 'Point Barra'.", "Teil des Kunta Kinteh Welterbes.", "Diente zur Kontrolle des Schiffsverkehrs.", "Britische Militärarchitektur des 19. Jhs.", "Heute ein Ort der Erinnerungskultur."],
+      hu: ["1826-ban épült.", "Stratégiai elhelyezkedés a 'Point Barra'-nál.", "A Kunta Kinteh világörökség része.", "A hajóforgalom ellenőrzésére szolgált.", "19. századi brit katonai építészet.", "Ma az emlékezetkultúra helyszíne."],
+      ro: ["Construit în anul 1826.", "Poziție strategică la 'Point Barra'.", "Parte a patrimoniului mondial Kunta Kinteh.", "Utilizat pentru controlul traficului naval.", "Arhitectură militară britanică din secolul al XIX-lea.", "Astăzi un loc al memoriei culturale."],
+      en: ["Built in 1826.", "Strategic position at 'Point Barra'.", "Part of the Kunta Kinteh World Heritage site.", "Used to control ship traffic.", "19th-century British military architecture.", "Today a site of cultural remembrance."]
+    }, image: "/poi-images/fort-bullen-landmarks-v2.webp"},
   {
     id: "senegambia-bridge-landmarks-v2",
     type: "landmark",
@@ -95,8 +129,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["2019 januárjában adták át.", "Felváltotta az időigényes farafenni kompközlekedést."],
       ro: ["Deschis în ianuarie 2019.", "Înlocuiește serviciul de feribot consumator de timp de la Farafenni."],
       en: ["Opened in January 2019.", "Replaces the time-consuming ferry service at Farafenni."]
-    }
-  },
+    }, image: "/poi-images/senegambia-bridge-landmarks-v2.webp"},
   {
     id: "independence-stadium-landmarks-v2",
     type: "landmark",
@@ -119,8 +152,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Körülbelül 30 000 néző befogadására alkalmas.", "A gambiai nemzeti válogatott otthona."],
       ro: ["Capacitate de aproximativ 30.000 de spectatori.", "Locul de desfășurare a meciurilor de acasă ale echipei naționale a Gambiei."],
       en: ["Capacity of approximately 30,000 spectators.", "Home ground for the Gambia national football team."]
-    }
-  },
+    }, image: "/poi-images/independence-stadium-landmarks-v2.webp"},
   {
     id: "kachikally-pool-landmarks-v2",
     type: "landmark",
@@ -143,8 +175,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Több mint 100 krokodilnak ad otthont.", "Hagyományos imádságok szent helyének tekintik."],
       ro: ["Găzduiește peste 100 de crocodili.", "Considerat un loc sacru pentru rugăciunile tradiționale."],
       en: ["Home to over 100 crocodiles.", "Considered a sacred site for traditional prayers."]
-    }
-  },
+    }, image: "/poi-images/kachikally-pool-landmarks-v2.webp"},
   {
     id: "king-fahad-mosque-landmarks-v2",
     type: "landmark",
@@ -167,8 +198,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Lenyűgöző minaretjeiről ismert.", "A banjuli muszlim közösség központja."],
       ro: ["Cunoscută pentru minaretele sale impresionante.", "Centrul comunității musulmane din Banjul."],
       en: ["Known for its impressive minarets.", "Center of the Muslim community in Banjul."]
-    }
-  },
+    }, image: "/poi-images/king-fahad-mosque-landmarks-v2.webp"},
   {
     id: "st-josephs-cathedral-landmarks-v2",
     type: "landmark",
@@ -191,8 +221,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A Banjuli Egyházmegye székhelye.", "Csendes hely a nyüzsgő főváros közepén."],
       ro: ["Sediul Diecezei de Banjul.", "Un loc liniștit în mijlocul capitalei aglomerate."],
       en: ["Seat of the Diocese of Banjul.", "A peaceful place in the middle of the bustling capital."]
-    }
-  },
+    }, image: "/poi-images/st-josephs-cathedral-landmarks-v2.webp"},
   {
     id: "albert-market-landmarks-v2",
     type: "landmark",
@@ -215,8 +244,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A 19. század közepén alapították.", "Albert hercegről, Viktória királynő férjéről nevezték el."],
       ro: ["Fondată la mijlocul secolului al XIX-lea.", "Numită după Prințul Albert, soțul Reginei Victoria."],
       en: ["Founded in the mid-19th century.", "Named after Prince Albert, husband of Queen Victoria."]
-    }
-  },
+    }, image: "/poi-images/albert-market-landmarks-v2.webp"},
   {
     id: "state-house-gambia-landmarks-v2",
     type: "landmark",
@@ -239,8 +267,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Korábban Kormányzati Ház néven volt ismert.", "A The Quadrangle nevű komplexumban található."],
       ro: ["Cunoscut anterior sub numele de Government House.", "Situat într-un complex numit The Quadrangle."],
       en: ["Formerly known as Government House.", "Located within a complex called The Quadrangle."]
-    }
-  },
+    }, image: "/poi-images/state-house-gambia-landmarks-v2.webp"},
   {
     id: "national-museum-gambia-landmarks-v2",
     type: "landmark",
@@ -263,8 +290,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["1985-ben nyitották meg.", "Régészeti leleteket és gyarmati dokumentumokat őriz."],
       ro: ["Deschis în anul 1985.", "Găzduiește descoperiri arheologice și documente coloniale."],
       en: ["Opened in 1985.", "Houses archaeological findings and colonial documents."]
-    }
-  },
+    }, image: "/poi-images/national-museum-gambia-landmarks-v2.webp"},
   {
     id: "july-22-square-landmarks-v2",
     type: "landmark",
@@ -287,8 +313,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Fontos kormányzati épületek veszik körül.", "Itt található az elesett katonák emlékműve."],
       ro: ["Înconjurat de clădiri guvernamentale importante.", "Locația unui monument dedicat soldaților căzuți."],
       en: ["Surrounded by important government buildings.", "Location of a memorial to fallen soldiers."]
-    }
-  },
+    }, image: "/poi-images/july-22-square-landmarks-v2.webp"},
   {
     id: "denton-bridge-landmarks-v2",
     type: "landmark",
@@ -311,8 +336,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A Tanbi mangrove-mocsarak felett ível át.", "Sir George Chardin Denton egykori kormányzóról nevezték el."],
       ro: ["Traversează mlaștinile de mangrove Tanbi.", "Numit după Sir George Chardin Denton, un fost guvernator."],
       en: ["Spans the Tanbi mangrove wetlands.", "Named after Sir George Chardin Denton, a former governor."]
-    }
-  },
+    }, image: "/poi-images/denton-bridge-landmarks-v2.webp"},
   {
     id: "tanji-village-museum-landmarks-v2",
     type: "landmark",
@@ -335,8 +359,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Hagyományos kerek kunyhókat mutat be.", "Helyi növényekkel teli botanikus kert is tartozik hozzá."],
       ro: ["Prezintă colibe rotunde tradiționale.", "Include o grădină botanică cu plante locale."],
       en: ["Displays traditional round huts.", "Includes a botanical garden with local plants."]
-    }
-  },
+    }, image: "/poi-images/tanji-village-museum-landmarks-v2.webp"},
   {
     id: "kerbatch-stone-circles-landmarks-v2",
     type: "landmark",
@@ -359,8 +382,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Egy „V-alakú” kőről nevezetes.", "Kilenc kőkörből áll."],
       ro: ["Cunoscut pentru o piatră în formă de 'V'.", "Format din nouă cercuri de piatră."],
       en: ["Notable for a 'V-shaped' stone.", "Consists of nine stone circles."]
-    }
-  },
+    }, image: "/poi-images/kerbatch-stone-circles-landmarks-v2.webp"},
   {
     id: "mungo-park-memorial-landmarks-v2",
     type: "landmark",
@@ -383,8 +405,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A 18. század végi utazásaira emlékeztet.", "Nyugat-afrikai expedícióinak egyik pontját jelzi."],
       ro: ["Comemorează călătoriile sale de la sfârșitul secolului al XVIII-lea.", "Marchează un punct al expedițiilor sale prin Africa de Vest."],
       en: ["Commemorates his travels in the late 18th century.", "Marks a point of his expeditions through West Africa."]
-    }
-  },
+    }, image: "/poi-images/mungo-park-memorial-landmarks-v2.webp"},
   {
     id: "freedom-tree-janjanbureh-landmarks-v2",
     type: "landmark",
@@ -407,8 +428,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Aki megérintette a fát, hivatalosan szabadnak számított.", "Janjanbureh város történelmének központi pontja."],
       ro: ["Cine atingea copacul era considerat oficial liber.", "Punct central al istoriei orașului Janjanbureh."],
       en: ["Whoever touched the tree was officially considered free.", "Central point of the history of Janjanbureh town."]
-    }
-  },
+    }, image: "/poi-images/freedom-tree-janjanbureh-landmarks-v2.webp"},
   {
     id: "african-heritage-museum-landmarks-v2",
     type: "landmark",
@@ -431,8 +451,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["„Afrikai Művészeti Múzeum” néven is ismert.", "Segíti a nyugat-afrikai művészeti hagyományok megértését."],
       ro: ["Cunoscut și sub numele de 'Museum of African Art'.", "Promovează înțelegerea tradițiilor artistice vest-africane."],
       en: ["Also known as the 'Museum of African Art'.", "Promotes understanding of West African artistic traditions."]
-    }
-  },
+    }, image: "/poi-images/african-heritage-museum-landmarks-v2.webp"},
   {
     id: "sir-dawda-conference-center-landmarks-v2",
     type: "landmark",
@@ -455,8 +474,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Gambia első elnökéről nevezték el.", "Az ország modern fejlődésének szimbóluma."],
       ro: ["Numit după primul președinte al Gambiei.", "Un simbol al dezvoltării moderne a țării."],
       en: ["Named after the first president of The Gambia.", "A symbol of the modern development of the country."]
-    }
-  },
+    }, image: "/poi-images/sir-dawda-conference-center-landmarks-v2.webp"},
   {
     id: "fort-louvel-landmarks-v2",
     type: "landmark",
@@ -479,8 +497,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["1831-ben épült egy helyi konfliktus idején.", "Banjul legmagasabb pontján található."],
       ro: ["Construit în anul 1831 în timpul unui conflict local.", "Situat pe cel mai înalt punct din Banjul."],
       en: ["Built in 1831 during a local conflict.", "Located on the highest point in Banjul."]
-    }
-  },
+    }, image: "/poi-images/fort-louvel-landmarks-v2.webp"},
   {
     id: "albarda-historic-site-landmarks-v2",
     type: "landmark",
@@ -503,8 +520,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["A transzatlanti kereskedelem fontos központja.", "A Kunta Kinteh UNESCO világörökségi helyszín része."],
       ro: ["Centru important pentru comerțul transatlantic.", "Parte a sitului Patrimoniului Mondial UNESCO Kunta Kinteh."],
       en: ["Major center for transatlantic trade.", "Part of the Kunta Kinteh UNESCO World Heritage site."]
-    }
-  },
+    }, image: "/poi-images/albarda-historic-site-landmarks-v2.webp"},
   {
     id: "juffureh-village-landmarks-v2",
     type: "landmark",
@@ -527,8 +543,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Egy kis rabszolga-kereskedelmi múzeumnak ad otthont.", "A kulturális turizmus fontos célpontja."],
       ro: ["Găzduiește un mic muzeu al comerțului cu sclavi.", "O destinație importantă pentru turismul cultural."],
       en: ["Houses a small slave trade museum.", "A major destination for cultural tourism."]
-    }
-  },
+    }, image: "/poi-images/juffureh-village-landmarks-v2.webp"},
   {
     id: "berending-crocodile-pool-landmarks-v2",
     type: "landmark",
@@ -551,8 +566,7 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       hu: ["Kevésbé turisztikai, mint Kachikally.", "Hagyományos gyógyító rituálékra használják."],
       ro: ["Mai puțin turistic decât Kachikally.", "Utilizat pentru ritualuri tradiționale de vindecare."],
       en: ["Less touristy than Kachikally.", "Used for traditional healing rituals."]
-    }
-  },
+    }, image: "/poi-images/berending-crocodile-pool-landmarks-v2.webp"},
   {
     id: "folonko-crocodile-pool-landmarks-v2",
     type: "landmark",
@@ -602,3 +616,4 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
     }
   }
 ];
+

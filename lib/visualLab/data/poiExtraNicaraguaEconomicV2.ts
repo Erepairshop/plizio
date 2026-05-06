@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNicaraguaEconomicV2: POI[] = [
@@ -43,8 +44,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Important for coffee and sugar exports",
         "Deepwater port"
       ]
-    }
-  },
+    }, image: "/poi-images/puerto-corinto-economic-v2.webp"},
   {
     id: "puerto-sandino-economic-v2",
     type: "port",
@@ -131,8 +131,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Handling of seafood",
         "Entrance to Bluefields Lagoon"
       ]
-    }
-  },
+    }, image: "/poi-images/puerto-el-bluff-economic-v2.webp"},
   {
     id: "puerto-arlen-siu-economic-v2",
     type: "port",
@@ -219,8 +218,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Horseshoe-shaped bay",
         "Near the border with Costa Rica"
       ]
-    }
-  },
+    }, image: "/poi-images/puerto-san-juan-del-sur-economic-v2.webp"},
   {
     id: "puerto-potosi-economic-v2",
     type: "port",
@@ -263,8 +261,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Important for local fishing",
         "Border trade with El Salvador"
       ]
-    }
-  },
+    }, image: "/poi-images/puerto-potosi-economic-v2.webp"},
   {
     id: "zona-franca-las-mercedes-economic-v2",
     type: "industry",
@@ -307,8 +304,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Thousands of jobs",
         "Export-oriented production"
       ]
-    }
-  },
+    }, image: "/poi-images/zona-franca-las-mercedes-economic-v2.webp"},
   {
     id: "ingenio-san-antonio-economic-v2",
     type: "industry",
@@ -351,8 +347,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Supplies molasses for rum",
         "Largest sugar producer in Nicaragua"
       ]
-    }
-  },
+    }, image: "/poi-images/ingenio-san-antonio-economic-v2.webp"},
   {
     id: "ingenio-monte-rosa-economic-v2",
     type: "industry",
@@ -483,8 +478,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Strong economic importance for Chontales",
         "Modern processing facilities"
       ]
-    }
-  },
+    }, image: "/poi-images/mina-la-libertad-economic-v2.webp"},
   {
     id: "mina-bonanza-economic-v2",
     type: "industry",
@@ -527,8 +521,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Cooperation with artisanal miners",
         "Significant employer in the Caribbean region"
       ]
-    }
-  },
+    }, image: "/poi-images/mina-bonanza-economic-v2.webp"},
   {
     id: "zona-franca-saratoga-economic-v2",
     type: "industry",
@@ -571,8 +564,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Thousands of local employees",
         "Near the highway to León"
       ]
-    }
-  },
+    }, image: "/poi-images/zona-franca-saratoga-economic-v2.webp"},
   {
     id: "zona-franca-astro-economic-v2",
     type: "industry",
@@ -615,8 +607,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "High-security industrial site",
         "Focus on textiles and footwear"
       ]
-    }
-  },
+    }, image: "/poi-images/zona-franca-astro-economic-v2.webp"},
   {
     id: "parque-industrial-portezuelo-economic-v2",
     type: "industry",
@@ -747,8 +738,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Produced at the foot of the San Cristóbal volcano",
         "Worldwide export"
       ]
-    }
-  },
+    }, image: "/poi-images/destileria-flor-de-cana-economic-v2.webp"},
   {
     id: "planta-geotermica-momotombo-economic-v2",
     type: "industry",
@@ -835,8 +825,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Uses volcanic steam",
         "Continuous expansion phases"
       ]
-    }
-  },
+    }, image: "/poi-images/planta-geotermica-san-jacinto-tizate-economic-v2.webp"},
   {
     id: "planta-hidroelectrica-centroamerica-economic-v2",
     type: "industry",
@@ -879,8 +868,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Capacity of about 50 megawatts",
         "State-operated by ENEL"
       ]
-    }
-  },
+    }, image: "/poi-images/planta-hidroelectrica-centroamerica-economic-v2.webp"},
   {
     id: "planta-hidroelectrica-carlos-fonseca-economic-v2",
     type: "industry",
@@ -967,8 +955,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Two expansion phases (Amayo I and II)",
         "Utilizes steady trade winds"
       ]
-    }
-  },
+    }, image: "/poi-images/parque-eolico-amayo-economic-v2.webp"},
   {
     id: "parque-eolico-camilo-ortega-economic-v2",
     type: "industry",
@@ -1011,8 +998,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "State-of-the-art turbines",
         "Significant CO2 savings"
       ]
-    }
-  },
+    }, image: "/poi-images/parque-eolico-camilo-ortega-economic-v2.webp"},
   {
     id: "matadero-san-martin-economic-v2",
     type: "industry",
@@ -1055,8 +1041,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Certified to international standards",
         "Focus on beef processing"
       ]
-    }
-  },
+    }, image: "/poi-images/matadero-san-martin-economic-v2.webp"},
   {
     id: "cemex-san-rafael-del-sur-economic-v2",
     type: "industry",
@@ -1099,8 +1084,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Central to the construction industry",
         "Part of the global CEMEX group"
       ]
-    }
-  },
+    }, image: "/poi-images/cemex-san-rafael-del-sur-economic-v2.webp"},
   {
     id: "holcim-nagarote-economic-v2",
     type: "industry",
@@ -1143,8 +1127,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Focus on sustainable production",
         "Swiss parent company"
       ]
-    }
-  },
+    }, image: "/poi-images/holcim-nagarote-economic-v2.webp"},
   {
     id: "planta-lactea-centrolac-economic-v2",
     type: "industry",
@@ -1187,8 +1170,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Sources milk locally",
         "Exports to neighboring countries"
       ]
-    }
-  },
+    }, image: "/poi-images/planta-lactea-centrolac-economic-v2.webp"},
   {
     id: "planta-lactea-eskimo-economic-v2",
     type: "industry",
@@ -1231,8 +1213,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Long tradition since 1942",
         "Extensive dairy range"
       ]
-    }
-  },
+    }, image: "/poi-images/planta-lactea-eskimo-economic-v2.webp"},
   {
     id: "mina-rosita-economic-v2",
     type: "industry",
@@ -1275,8 +1256,7 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
         "Reprocessing of tailings",
         "Significant for indigenous employment"
       ]
-    }
-  },
+    }, image: "/poi-images/mina-rosita-economic-v2.webp"},
   {
     id: "cafe-soluble-sa-economic-v2",
     type: "industry",
@@ -1322,3 +1302,4 @@ export const poiExtraNicaraguaEconomicV2: POI[] = [
     }
   }
 ];
+

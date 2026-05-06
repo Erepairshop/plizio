@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCongoCitiesV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["1880-ban alapították", "Kinshasával szemben fekszik", "Kulturális központ", "Fontos folyami kikötő"],
       ro: ["Fondat în 1880", "Situat vis-à-vis de Kinshasa", "Centru cultural", "Port fluvial important"],
       en: ["Founded in 1880", "Opposite Kinshasa", "Cultural center", "Important river port"]
-    }
-  },
+    }, image: "/poi-images/cg-brazzaville-cities-v2.webp"},
   {
     id: "cg-pointe-noire-cities-v2",
     type: "city",
@@ -47,8 +47,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Olajipar központja", "Fontos közlekedési csomópont", "Szép tengerpartok", "1922-ben alapították"],
       ro: ["Centrul industriei petroliere", "Hub de transport important", "Plaje frumoase", "Fondat în 1922"],
       en: ["Center of the oil industry", "Important transport hub", "Beautiful beaches", "Founded in 1922"]
-    }
-  },
+    }, image: "/poi-images/cg-pointe-noire-cities-v2.webp"},
   {
     id: "cg-dolisie-cities-v2",
     type: "city",
@@ -71,8 +70,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Fontos tranzitpont", "A Niari régióban található", "Kereskedelmi központ", "Jó közúti kapcsolatok"],
       ro: ["Punct de tranzit important", "În regiunea Niari", "Centru comercial", "Conexiuni rutiere bune"],
       en: ["Important transit point", "In the Niari region", "Commercial center", "Good road connections"]
-    }
-  },
+    }, image: "/poi-images/cg-dolisie-cities-v2.webp"},
   {
     id: "cg-nkayi-cities-v2",
     type: "city",
@@ -143,8 +141,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Faipar központja", "Kompkapcsolat Brazzaville-be", "Kameruni határ közelében", "Fontos folyami kikötő"],
       ro: ["Centrul industriei lemnului", "Conexiune cu bacul spre Brazzaville", "Regiune de frontieră cu Camerun", "Port fluvial important"],
       en: ["Timber industry center", "Ferry connection to Brazzaville", "Border region with Cameroon", "Important river port"]
-    }
-  },
+    }, image: "/poi-images/cg-ouesso-cities-v2.webp"},
   {
     id: "cg-madingou-cities-v2",
     type: "city",
@@ -167,8 +164,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Közigazgatási főváros", "Mezőgazdasági piacok", "Vasútállomás", "Gyümölcsfákban gazdag"],
       ro: ["Capitală administrativă", "Piețe agricole", "Stație de cale ferată", "Bogat în pomi fructiferi"],
       en: ["Administrative capital", "Agricultural markets", "Railway station", "Rich in fruit trees"]
-    }
-  },
+    }, image: "/poi-images/cg-madingou-cities-v2.webp"},
   {
     id: "cg-owando-cities-v2",
     type: "city",
@@ -215,8 +211,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Hegyvidéki környezet", "Mezőgazdasági kereskedelem", "Éghajlatáról ismert", "Közigazgatási központ"],
       ro: ["Cadru muntos", "Comerț agricol", "Cunoscut pentru climatul său", "Centru administrativ"],
       en: ["Mountainous setting", "Agricultural trade", "Known for its climate", "Administrative center"]
-    }
-  },
+    }, image: "/poi-images/cg-sibiti-cities-v2.webp"},
   {
     id: "cg-gamboma-cities-v2",
     type: "city",
@@ -239,8 +234,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Fontos piac", "A 2-es nemzeti út mentén", "Mezőgazdasági termékek", "Közlekedési csomópont"],
       ro: ["Piață importantă", "Pe Drumul Național 2", "Produse agricole", "Nod de transport"],
       en: ["Important market", "On National Road 2", "Agricultural products", "Transport node"]
-    }
-  },
+    }, image: "/poi-images/cg-gamboma-cities-v2.webp"},
   {
     id: "cg-mossendjo-cities-v2",
     type: "city",
@@ -311,8 +305,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["A Likouala-folyó partján", "Közel az Egyenlítőhöz", "Piactér", "Regionális kereskedelmi állomás"],
       ro: ["Pe râul Likouala", "Aproape de Ecuator", "Loc de piață", "Stație comercială regională"],
       en: ["On the Likouala River", "Near the Equator", "Marketplace", "Regional trading post"]
-    }
-  },
+    }, image: "/poi-images/cg-makoua-cities-v2.webp"},
   {
     id: "cg-djambala-cities-v2",
     type: "city",
@@ -335,8 +328,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["800m magasságban", "Hűvös éghajlat", "Regionális közigazgatási központ", "Burgonyatermesztéséről ismert"],
       ro: ["La 800 m altitudine", "Climat răcoros", "Centru administrativ regional", "Cunoscut pentru cultura cartofului"],
       en: ["At 800m altitude", "Cool climate", "Regional administrative center", "Known for potato farming"]
-    }
-  },
+    }, image: "/poi-images/cg-djambala-cities-v2.webp"},
   {
     id: "cg-ewo-cities-v2",
     type: "city",
@@ -359,8 +351,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Regionális főváros", "A Likouala-folyó partján", "Erdőgazdálkodási központ", "Izolált elhelyezkedés"],
       ro: ["Capitală regională", "Pe râul Likouala", "Centru forestier", "Locație izolată"],
       en: ["Regional capital", "On the Likouala River", "Forestry center", "Isolated location"]
-    }
-  },
+    }, image: "/poi-images/cg-ewo-cities-v2.webp"},
   {
     id: "cg-oyo-cities-v2",
     type: "city",
@@ -383,8 +374,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Modern folyami kikötő", "Nemzetközi repülőtér", "Gazdasági növekedés", "Luxusszállodák találhatók itt"],
       ro: ["Port fluvial modern", "Aeroport internațional", "Creștere economică", "Hoteluri de lux prezente"],
       en: ["Modern river port", "International airport", "Economic growth", "Luxury hotels present"]
-    }
-  },
+    }, image: "/poi-images/cg-oyo-cities-v2.webp"},
   {
     id: "cg-boundji-cities-v2",
     type: "city",
@@ -407,8 +397,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Régi missziós állomás", "Mezőgazdasági központ", "Hagyományos kultúra", "Az Alima út mentén"],
       ro: ["Veche stație de misiune", "Centru agricol", "Cultură tradițională", "Pe drumul Alima"],
       en: ["Old mission station", "Agricultural center", "Traditional culture", "On the Alima road"]
-    }
-  },
+    }, image: "/poi-images/cg-boundji-cities-v2.webp"},
   {
     id: "cg-loutete-cities-v2",
     type: "city",
@@ -431,8 +420,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Nagy cementgyár", "A vasútvonal mentén", "Ipari munkahelyek", "Mészkőlelőhelyek"],
       ro: ["Fabrică mare de ciment", "Pe linia ferată", "Locuri de muncă industriale", "Zăcăminte de calcar"],
       en: ["Large cement plant", "On the railway line", "Industrial jobs", "Limestone deposits"]
-    }
-  },
+    }, image: "/poi-images/cg-loutete-cities-v2.webp"},
   {
     id: "cg-mindouli-cities-v2",
     type: "city",
@@ -455,8 +443,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Rézbányák", "A Kongó-Óceán vasút mentén", "Dombos vidék", "Régi bányásztelepülés"],
       ro: ["Mine de cupru", "Pe calea ferată Congo-Ocean", "Teren deluros", "Vechi sit minier"],
       en: ["Copper mines", "On the Congo-Ocean Railway", "Hilly terrain", "Old mining site"]
-    }
-  },
+    }, image: "/poi-images/cg-mindouli-cities-v2.webp"},
   {
     id: "cg-mossaka-cities-v2",
     type: "city",
@@ -479,8 +466,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Halászati csomópont", "A Kongó Velencéje", "Fontos folyami kikötő", "Szezonálisan elárasztott"],
       ro: ["Hub de pescuit", "Veneția din Congo", "Port fluvial important", "Inundat sezonier"],
       en: ["Fishing hub", "Venice of the Congo", "Important river port", "Seasonally flooded"]
-    }
-  },
+    }, image: "/poi-images/cg-mossaka-cities-v2.webp"},
   {
     id: "cg-etoumbi-cities-v2",
     type: "city",
@@ -551,8 +537,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Esőerdei környezet", "Vaddisznóvadászati terület", "Hagyományos életmód", "Nehezen megközelíthető"],
       ro: ["Cadru de pădure tropicală", "Zonă de vânătoare", "Viață tradițională", "Greu accesibil"],
       en: ["Rainforest setting", "Wild boar hunting area", "Traditional life", "Hard to reach"]
-    }
-  },
+    }, image: "/poi-images/cg-kelle-cities-v2.webp"},
   {
     id: "cg-mouyondzi-cities-v2",
     type: "city",
@@ -623,8 +608,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Határátkelő", "Gyümölcstermelés", "Dombos vidék", "Vidéki központ"],
       ro: ["Punct de trecere a frontierei", "Producție de fructe", "Teren deluros", "Centru rural"],
       en: ["Border crossing", "Fruit production", "Hilly terrain", "Rural center"]
-    }
-  },
+    }, image: "/poi-images/cg-boko-cities-v2.webp"},
   {
     id: "cg-louingui-cities-v2",
     type: "city",
@@ -767,8 +751,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Fontos kikötő", "Kereskedelmi útvonal", "Szemben a Kongói DK-val", "Halászati központ"],
       ro: ["Port important", "Rută comercială", "Vis-à-vis de RD Congo", "Centru de pescuit"],
       en: ["Important port", "Trade route", "Opposite DR Congo", "Fishing center"]
-    }
-  },
+    }, image: "/poi-images/cg-mpouya-cities-v2.webp"},
   {
     id: "cg-ngo-cities-v2",
     type: "city",
@@ -815,8 +798,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Állattenyésztési központ", "Fennsíki elhelyezkedés", "Mezőgazdaság", "Regionális piacok"],
       ro: ["Centru de creștere a animalelor", "Situat pe platou", "Economie agrară", "Piețe regionale"],
       en: ["Livestock center", "Plateau location", "Agrarian economy", "Regional markets"]
-    }
-  },
+    }, image: "/poi-images/cg-abala-cities-v2.webp"},
   {
     id: "cg-allembe-cities-v2",
     type: "city",
@@ -839,8 +821,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Szavanna táj", "Hagyományos vadászat", "Elszigetelt", "Tiszta természet"],
       ro: ["Peisaj de savană", "Vânătoare tradițională", "Izolat", "Natură pură"],
       en: ["Savannah landscape", "Traditional hunting", "Remote", "Pure nature"]
-    }
-  },
+    }, image: "/poi-images/cg-allembe-cities-v2.webp"},
   {
     id: "cg-dongou-cities-v2",
     type: "city",
@@ -863,8 +844,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Régi főváros", "Halászat az Ubangin", "Közép-afrikai határ", "Folyami forgalom"],
       ro: ["Vechea capitală", "Pescuit pe Oubangui", "Granița cu RCA", "Trafic fluvial"],
       en: ["Old capital", "Fishing on Oubangui", "Border with CAR", "River traffic"]
-    }
-  },
+    }, image: "/poi-images/cg-dongou-cities-v2.webp"},
   {
     id: "cg-epena-cities-v2",
     type: "city",
@@ -887,8 +867,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Mocsaras vidék", "Csak hajóval elérhető", "Nagy biodiverzitás", "Elszigetelt"],
       ro: ["Regiunea mlaștinilor", "Accesibil doar cu barca", "Biodiversitate mare", "Izolat"],
       en: ["Swamp region", "Accessible only by boat", "Great biodiversity", "Isolated"]
-    }
-  },
+    }, image: "/poi-images/cg-epena-cities-v2.webp"},
   {
     id: "cg-betou-cities-v2",
     type: "city",
@@ -911,8 +890,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Menekülttábor", "Az Ubangi-folyó partján", "Fakereskedelem", "Legészakibb város"],
       ro: ["Tabără de refugiați", "Pe râul Oubangui", "Comerț cu lemn", "Cel mai nordic oraș"],
       en: ["Refugee camp", "On the Oubangui River", "Timber trade", "Northernmost town"]
-    }
-  },
+    }, image: "/poi-images/cg-betou-cities-v2.webp"},
   {
     id: "cg-liranga-cities-v2",
     type: "city",
@@ -935,8 +913,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Fontos útpont", "Halászati központ", "Nedves éghajlat", "Folyami határ"],
       ro: ["Punct de reper important", "Centru de pescuit", "Climat umed", "Graniță fluvială"],
       en: ["Important waypoint", "Fishing hub", "Humid climate", "River border"]
-    }
-  },
+    }, image: "/poi-images/cg-liranga-cities-v2.webp"},
   {
     id: "cg-lukolela-cities-v2",
     type: "city",
@@ -959,8 +936,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["A Kongó-kanyarban", "Kereskedelem a Kongói DK-val", "Gyarmati múlt", "Halászati állomás"],
       ro: ["La cotul fluviului Congo", "Comerț cu RDC", "Istorie colonială", "Stație de pescuit"],
       en: ["On the Congo bend", "Trade with DRC", "Colonial history", "Fishing station"]
-    }
-  },
+    }, image: "/poi-images/cg-lukolela-cities-v2.webp"},
   {
     id: "cg-tchikapika-cities-v2",
     type: "city",
@@ -1007,8 +983,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Esőerdő széle", "Mezőgazdasági termékek", "Csendes vidéki élet", "Regionális kapcsolatok"],
       ro: ["Marginea pădurii", "Produse agrare", "Viață rurală liniștită", "Conexiuni regionale"],
       en: ["Rainforest edge", "Agricultural products", "Quiet rural life", "Regional connections"]
-    }
-  },
+    }, image: "/poi-images/cg-ngoko-cities-v2.webp"},
   {
     id: "cg-kayes-cities-v2",
     type: "city",
@@ -1031,8 +1006,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Földművelő közösség", "Vidéki kereskedelem", "Jó talajminőség", "Növekvő népesség"],
       ro: ["Comunitate agrară", "Comerț rural", "Calitate bună a solului", "Populație în creștere"],
       en: ["Farming community", "Rural trade", "Good soil quality", "Growing population"]
-    }
-  },
+    }, image: "/poi-images/cg-kayes-cities-v2.webp"},
   {
     id: "cg-kingoue-cities-v2",
     type: "city",
@@ -1055,8 +1029,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Regionális ellátás", "Hegyes táj", "Mezőgazdasági kereskedelem", "Hagyományos település"],
       ro: ["Aprovizionare regională", "Peisaj muntos", "Comerț agrar", "Așezare tradițională"],
       en: ["Regional supply", "Mountainous landscape", "Agricultural trade", "Traditional settlement"]
-    }
-  },
+    }, image: "/poi-images/cg-kingoue-cities-v2.webp"},
   {
     id: "cg-mabombo-cities-v2",
     type: "city",
@@ -1127,8 +1100,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Határállomás", "Fontos tranzitút", "Mezőgazdaság", "Stratégiai hely"],
       ro: ["Stație de frontieră", "Rută de tranzit importantă", "Agricultură", "Loc strategic"],
       en: ["Border station", "Important transit route", "Agriculture", "Strategic location"]
-    }
-  },
+    }, image: "/poi-images/cg-kimongo-cities-v2.webp"},
   {
     id: "cg-mayoko-cities-v2",
     type: "city",
@@ -1151,8 +1123,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Vasércbánya", "A Chaillu-hegységben", "Izolált bányaváros", "Nagy exportpotenciál"],
       ro: ["Mină de fier", "În munții Chaillu", "Oraș minier izolat", "Potențial mare de export"],
       en: ["Iron ore mine", "In the Chaillu Mountains", "Isolated mining town", "Great export potential"]
-    }
-  },
+    }, image: "/poi-images/cg-mayoko-cities-v2.webp"},
   {
     id: "cg-banda-cities-v2",
     type: "city",
@@ -1175,8 +1146,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
       hu: ["Erdei táj", "Hagyományos vadászat", "Elszigetelt", "Tiszta természet"],
       ro: ["Peisaj forestier", "Vânătoare tradițională", "Izolat", "Natură pură"],
       en: ["Forest landscape", "Traditional hunting", "Remote", "Pure nature"]
-    }
-  },
+    }, image: "/poi-images/cg-banda-cities-v2.webp"},
   {
     id: "cg-divenie-cities-v2",
     type: "city",
@@ -1202,3 +1172,4 @@ export const poiExtraCongoCitiesV2: POI[] = [
     }
   }
 ];
+

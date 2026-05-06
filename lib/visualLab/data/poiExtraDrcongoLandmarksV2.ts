@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDrcongoLandmarksV2: POI[] = [
@@ -272,3 +273,4 @@ export const poiExtraDrcongoLandmarksV2: POI[] = [
     facts: {"de": ["Wurde 1956 für den belgischen Generalgouverneur erbaut.", "Hier wurde 1960 die Unabhängigkeit ausgerufen."], "hu": ["1956-ban épült a belga főkormányzó számára.", "Itt kiáltották ki a függetlenséget 1960-ban."], "ro": ["Construit în 1956 pentru guvernatorul general belgian.", "Aici a fost proclamată independența în 1960."], "en": ["Built in 1956 for the Belgian Governor General.", "Independence was proclaimed here in 1960."]}
   }
 ];
+

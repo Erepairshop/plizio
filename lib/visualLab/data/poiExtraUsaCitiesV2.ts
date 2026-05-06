@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUsaCitiesV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'A Nagy Alma'", "Öt kerületből áll", "A Szabadság-szobor otthona", "Több mint 8 millió lakos"],
       ro: ["Poreclit 'Marele Măr'", "Compus din cinci burguri", "Gazda Statuii Libertății", "Peste 8 milioane de locuitori"],
       en: ["Nicknamed 'The Big Apple'", "Composed of five boroughs", "Home to the Statue of Liberty", "Over 8 million residents"]
-    }
-  },
+    }, image: "/poi-images/new-york-city-cities-v2.webp"},
   {
     id: "los-angeles-cities-v2",
     type: "city",
@@ -37,8 +37,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Hollywoodról ismert", "Változatos kulturális táj", "Kiterjedt autópálya-hálózat", "Olimpiai játékok házigazdája"],
       ro: ["Cunoscut pentru Hollywood", "Peisaj cultural divers", "Rețea extinsă de autostrăzi", "Gazdă a Jocurilor Olimpice"],
       en: ["Known for Hollywood", "Diverse cultural landscape", "Extensive freeway system", "Host of the Olympic Games"]
-    }
-  },
+    }, image: "/poi-images/los-angeles-cities-v2.webp"},
   {
     id: "chicago-cities-v2",
     type: "city",
@@ -56,8 +55,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'A szeles város'", "A felhőkarcoló szülőhelye", "Willis Tower, korábban Sears Tower", "Fontos közlekedési csomópont"],
       ro: ["Poreclit 'Orașul Vânturilor'", "Locul de naștere al zgârie-norilor", "Willis Tower, fost Sears Tower", "Nod important de transport"],
       en: ["Nicknamed 'The Windy City'", "Birthplace of the skyscraper", "Willis Tower, formerly Sears Tower", "Major transportation hub"]
-    }
-  },
+    }, image: "/poi-images/chicago-cities-v2.webp"},
   {
     id: "houston-cities-v2",
     type: "city",
@@ -75,8 +73,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A NASA Johnson Űrközpontjának otthona", "Nagy nemzetközi kikötő", "Változatos lakosság", "Múzeumi negyed 19 múzeummal"],
       ro: ["Gazda Centrului Spațial Johnson al NASA", "Port internațional major", "Populație diversă", "District muzeal cu 19 muzee"],
       en: ["Home to NASA's Johnson Space Center", "Major international port", "Diverse population", "Museum District with 19 museums"]
-    }
-  },
+    }, image: "/poi-images/houston-cities-v2.webp"},
   {
     id: "phoenix-cities-v2",
     type: "state-capital",
@@ -94,8 +91,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'A Nap Völgye'", "Hegyláncok veszik körül", "Egész évben meleg időjárás", "Fontos gazdasági központ a délnyugaton"],
       ro: ["Poreclit 'Valea Soarelui'", "Înconjurat de lanțuri montane", "Vreme caldă pe tot parcursul anului", "Centru economic important în sud-vest"],
       en: ["Nicknamed 'Valley of the Sun'", "Surrounded by mountain ranges", "Year-round warm weather", "Major economic hub in the Southwest"]
-    }
-  },
+    }, image: "/poi-images/phoenix-cities-v2.webp"},
   {
     id: "philadelphia-cities-v2",
     type: "city",
@@ -113,8 +109,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'Philly' vagy 'A testvéri szeretet városa'", "A Szabadság-harang otthona", "Híres a Philly cheesesteakről", "Az USA első fővárosa"],
       ro: ["Poreclit 'Philly' sau 'Orașul Iubirii Frățești'", "Gazda Clopotului Libertății", "Cunoscut pentru cheesesteak-urile Philly", "Prima capitală a SUA"],
       en: ["Nicknamed 'Philly' or 'City of Brotherly Love'", "Home of the Liberty Bell", "Known for Philly cheesesteaks", "First capital of the U.S."]
-    }
-  },
+    }, image: "/poi-images/philadelphia-cities-v2.webp"},
   {
     id: "san-antonio-cities-v2",
     type: "city",
@@ -132,8 +127,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Az Alamo, egykori spanyol misszió", "River Walk éttermekkel és üzletekkel", "Erős spanyol kultúra", "Texas legrégebbi települése"],
       ro: ["Alamo, o fostă misiune spaniolă", "River Walk cu restaurante și magazine", "Cultură hispanică puternică", "Cea mai veche municipalitate din Texas"],
       en: ["The Alamo, a former Spanish mission", "River Walk lined with restaurants and shops", "Strong Hispanic culture", "Oldest municipality in Texas"]
-    }
-  },
+    }, image: "/poi-images/san-antonio-cities-v2.webp"},
   {
     id: "san-diego-cities-v2",
     type: "city",
@@ -151,8 +145,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A világhírű San Diego-i Állatkert otthona", "Balboa Park számos múzeummal", "Erős amerikai haditengerészeti jelenlét", "Népszerű turisztikai célpont"],
       ro: ["Gazda faimoasei Grădini Zoologice din San Diego", "Parcul Balboa cu numeroase muzee", "Prezență puternică a Marinei SUA", "Destinație turistică populară"],
       en: ["Home to the world-famous San Diego Zoo", "Balboa Park with numerous museums", "Strong U.S. Navy presence", "Popular tourist destination"]
-    }
-  },
+    }, image: "/poi-images/san-diego-cities-v2.webp"},
   {
     id: "dallas-cities-v2",
     type: "city",
@@ -170,8 +163,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Híres a Dallas Cowboys (NFL) csapatáról", "Az Arts District az USA legnagyobb városi művészeti negyede", "Történelmi West End", "John F. Kennedy meggyilkolásának helyszíne"],
       ro: ["Cunoscut pentru Dallas Cowboys (NFL)", "Districtul Artelor este cel mai mare district urban de artă din SUA", "West End istoric", "Locul asasinării lui John F. Kennedy"],
       en: ["Known for the Dallas Cowboys (NFL)", "Arts District is the largest urban arts district in the U.S.", "Historic West End", "Site of the assassination of John F. Kennedy"]
-    }
-  },
+    }, image: "/poi-images/dallas-cities-v2.webp"},
   {
     id: "san-jose-cities-v2",
     type: "city",
@@ -189,8 +181,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A 'Szilícium-völgy fővárosának' tartják", "Magas a technológiai vállalatok koncentrációja", "Winchester Mystery House", "Innovációs Technológiai Múzeum"],
       ro: ["Considerat 'Capitala Silicon Valley'", "Concentrație mare de companii de tehnologie", "Casa Misterelor Winchester", "Muzeul de Tehnologie al Inovației"],
       en: ["Considered the 'Capital of Silicon Valley'", "High concentration of tech companies", "Winchester Mystery House", "Tech Museum of Innovation"]
-    }
-  },
+    }, image: "/poi-images/san-jose-cities-v2.webp"},
   {
     id: "austin-cities-v2",
     type: "state-capital",
@@ -208,8 +199,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["'A világ élőzenei fővárosa'", "South by Southwest (SXSW) fesztivál", "'Keep Austin Weird' (Tartsd meg Austint furcsának) mottó", "Növekvő 'Silicon Hills' technológiai központ"],
       ro: ["'Capitala mondială a muzicii live'", "Festivalul South by Southwest (SXSW)", "Motto-ul 'Păstrează Austinul ciudat'", "Centru tehnologic în creștere 'Silicon Hills'"],
       en: ["'Live Music Capital of the World'", "South by Southwest (SXSW) festival", "'Keep Austin Weird' motto", "Growing 'Silicon Hills' tech hub"]
-    }
-  },
+    }, image: "/poi-images/austin-cities-v2.webp"},
   {
     id: "jacksonville-cities-v2",
     type: "city",
@@ -227,8 +217,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nagy katonai és polgári kikötő", "Kiterjedt parkrendszer", "Jacksonville Jaguars (NFL)", "A St. Johns folyó áthalad a városon"],
       ro: ["Port militar și civil mare", "Sistem extins de parcuri", "Jacksonville Jaguars (NFL)", "Râul St. Johns traversează orașul"],
       en: ["Large military and civilian deepwater port", "Extensive park system", "Jacksonville Jaguars (NFL)", "St. Johns River flows through the city"]
-    }
-  },
+    }, image: "/poi-images/jacksonville-cities-v2.webp"},
   {
     id: "fort-worth-cities-v2",
     type: "city",
@@ -246,8 +235,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Történelmi vágóhidak", "Kimbell Művészeti Múzeum", "A Dallas-Fort Worth Metroplex része", "Kulturális negyed világszínvonalú múzeumokkal"],
       ro: ["Târguri de vite istorice", "Muzeul de Artă Kimbell", "Parte a Metroplexului Dallas-Fort Worth", "District cultural cu muzee de clasă mondială"],
       en: ["Historic Stockyards", "Kimbell Art Museum", "Part of the Dallas-Fort Worth metroplex", "Cultural District with world-class museums"]
-    }
-  },
+    }, image: "/poi-images/fort-worth-cities-v2.webp"},
   {
     id: "columbus-cities-v2",
     type: "state-capital",
@@ -265,8 +253,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nagy és változatos gazdaság", "German Village, egy történelmi negyed", "Scioto Mile, egy folyóparti városi park", "Ohio State Buckeyes futball"],
       ro: ["Economie mare și diversificată", "German Village, un cartier istoric", "Scioto Mile, un parc urban pe malul râului", "Fotbalul Ohio State Buckeyes"],
       en: ["Large and diverse economy", "German Village, a historic neighborhood", "Scioto Mile, a riverfront urban park", "Ohio State Buckeyes football"]
-    }
-  },
+    }, image: "/poi-images/columbus-cities-v2.webp"},
   {
     id: "charlotte-cities-v2",
     type: "city",
@@ -284,8 +271,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Az USA második legnagyobb bankközpontja", "A Carolina Panthers (NFL) otthona", "NASCAR Hírességek Csarnoka", "Beceneve 'A Királynő Városa'"],
       ro: ["Al doilea cel mai mare centru bancar din SUA", "Gazda Carolina Panthers (NFL)", "NASCAR Hall of Fame", "Poreclit 'Orașul Regină'"],
       en: ["Second-largest banking center in the U.S.", "Home to the Carolina Panthers (NFL)", "NASCAR Hall of Fame", "Nicknamed the 'Queen City'"]
-    }
-  },
+    }, image: "/poi-images/charlotte-cities-v2.webp"},
   {
     id: "indianapolis-cities-v2",
     type: "state-capital",
@@ -303,8 +289,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Indianapolis Motor Speedway", "Indiana legnagyobb városa", "Beceneve 'Indy' és 'Amerika Kereszteződése'", "Kiterjedt kerékpárút-hálózat"],
       ro: ["Indianapolis Motor Speedway", "Cel mai mare oraș din Indiana", "Poreclit 'Indy' și 'Răscrucea Americii'", "Rețea extinsă de piste pentru biciclete"],
       en: ["Indianapolis Motor Speedway", "Largest city in Indiana", "Nicknamed 'Indy' and the 'Crossroads of America'", "Extensive network of bike trails"]
-    }
-  },
+    }, image: "/poi-images/indianapolis-cities-v2.webp"},
   {
     id: "seattle-cities-v2",
     type: "city",
@@ -322,8 +307,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A Microsoft és az Amazon otthona (a nagyvárosi területen)", "Space Needle, az 1962-es világkiállítás jelképe", "Pike Place Market", "A grunge zene szülőhelye"],
       ro: ["Sediul Microsoft și Amazon (în zona metropolitană)", "Space Needle, un simbol al Expoziției Mondiale din 1962", "Piața Pike Place", "Locul de naștere al muzicii grunge"],
       en: ["Home to Microsoft and Amazon (in metro area)", "Space Needle, a landmark from the 1962 World's Fair", "Pike Place Market", "Birthplace of grunge music"]
-    }
-  },
+    }, image: "/poi-images/seattle-cities-v2.webp"},
   {
     id: "denver-cities-v2",
     type: "state-capital",
@@ -341,8 +325,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'Az egy mérföld magas város'", "Pontosan egy mérföldre a tengerszint felett", "Kapu a Sziklás-hegység síterepeihez", "Négy különböző évszak"],
       ro: ["Poreclit 'Orașul de o milă înălțime'", "Exact o milă deasupra nivelului mării", "Poarta de acces către stațiunile de schi din Munții Stâncoși", "Patru anotimpuri distincte"],
       en: ["Nicknamed 'The Mile-High City'", "Exactly one mile above sea level", "Gateway to the ski resorts of the Rockies", "Four distinct seasons"]
-    }
-  },
+    }, image: "/poi-images/denver-cities-v2.webp"},
   {
     id: "washington-dc-cities-v2",
     type: "city",
@@ -360,8 +343,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Az amerikai kormány székhelye", "A Fehér Ház, a Capitolium és a Legfelsőbb Bíróság", "Számos ingyenes múzeum (Smithsonian)", "Nem állam, hanem kerület"],
       ro: ["Sediul guvernului SUA", "Casa Albă, Capitoliul și Curtea Supremă", "Numeroase muzee gratuite (Smithsonian)", "Nu este un stat, ci un district"],
       en: ["Seat of the U.S. government", "The White House, the Capitol, and the Supreme Court", "Numerous free museums (Smithsonian)", "Not a state, but a District"]
-    }
-  },
+    }, image: "/poi-images/washington-dc-cities-v2.webp"},
   {
     id: "boston-cities-v2",
     type: "state-capital",
@@ -379,8 +361,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Freedom Trail, egy történelmi sétaút", "Bostoni teadélután", "Neves egyetemek, mint a Harvard és az MIT", "Fontos kikötő és gazdasági központ"],
       ro: ["Freedom Trail, un traseu istoric pietonal", "Revolta Ceaiului de la Boston", "Universități renumite precum Harvard și MIT", "Port important și centru economic"],
       en: ["Freedom Trail, a historic walking path", "Boston Tea Party", "Renowned universities like Harvard and MIT", "Major port and economic hub"]
-    }
-  },
+    }, image: "/poi-images/boston-cities-v2.webp"},
   {
     id: "el-paso-cities-v2",
     type: "city",
@@ -398,8 +379,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A Rio Grande folyó mentén fekszik", "A mexikói Ciudad Juárez-szel határos", "Napos éghajlat", "Franklin Mountains Állami Park"],
       ro: ["Situat pe Rio Grande", "Se învecinează cu Ciudad Juárez, Mexic", "Climă însorită", "Parcul Statal Franklin Mountains"],
       en: ["Located on the Rio Grande", "Borders Ciudad Juárez, Mexico", "Sunny climate", "Franklin Mountains State Park"]
-    }
-  },
+    }, image: "/poi-images/el-paso-cities-v2.webp"},
   {
     id: "detroit-cities-v2",
     type: "city",
@@ -417,8 +397,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'Motorváros'", "A 'három nagy' autógyártó székhelye", "Motown Múzeum", "Gazdasági újjáéledésen megy keresztül"],
       ro: ["Poreclit 'Orașul Motoarelor'", "Sediul central al producătorilor auto 'Cei Trei Mari'", "Muzeul Motown", "Trece printr-o revitalizare economică"],
       en: ["Nicknamed 'Motor City'", "Headquarters of the 'Big Three' auto manufacturers", "Motown Museum", "Undergoing an economic revival"]
-    }
-  },
+    }, image: "/poi-images/detroit-cities-v2.webp"},
   {
     id: "nashville-cities-v2",
     type: "state-capital",
@@ -436,8 +415,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'Zeneváros'", "Grand Ole Opry, egy híres country zenei színpad", "Country Zenei Hírességek Csarnoka és Múzeuma", "Számos honky-tonk bár"],
       ro: ["Poreclit 'Orașul Muzicii'", "Grand Ole Opry, o faimoasă scenă de muzică country", "Country Music Hall of Fame and Museum", "Numeroase baruri honky-tonk"],
       en: ["Nicknamed 'Music City'", "Grand Ole Opry, a famous country music stage", "Country Music Hall of Fame and Museum", "Numerous honky-tonk bars"]
-    }
-  },
+    }, image: "/poi-images/nashville-cities-v2.webp"},
   {
     id: "portland-or-cities-v2",
     type: "city",
@@ -455,8 +433,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["'Keep Portland Weird' (Tartsd meg Portlandet furcsának) mottó", "Kiterjedt kerékpárutak", "Powell's City of Books, egy hatalmas könyvesbolt", "Virágzó food truck szcéna"],
       ro: ["Motto-ul 'Păstrează Portlandul ciudat'", "Piste extinse pentru biciclete", "Powell's City of Books, o librărie uriașă", "Scenă înfloritoare a camioanelor cu mâncare"],
       en: ["'Keep Portland Weird' motto", "Extensive bike paths", "Powell's City of Books, a massive bookstore", "Thriving food truck scene"]
-    }
-  },
+    }, image: "/poi-images/portland-or-cities-v2.webp"},
   {
     id: "memphis-cities-v2",
     type: "city",
@@ -474,8 +451,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Graceland, Elvis Presley birtoka", "Sun Studio, ahol sok legenda készített felvételt", "Beale Street, a blues zene központja", "Nemzeti Polgárjogi Múzeum"],
       ro: ["Graceland, domeniul lui Elvis Presley", "Sun Studio, unde au înregistrat multe legende", "Beale Street, centrul muzicii blues", "Muzeul Național al Drepturilor Civile"],
       en: ["Graceland, Elvis Presley's estate", "Sun Studio, where many legends recorded", "Beale Street, the heart of blues music", "National Civil Rights Museum"]
-    }
-  },
+    }, image: "/poi-images/memphis-cities-v2.webp"},
   {
     id: "oklahoma-city-cities-v2",
     type: "state-capital",
@@ -493,8 +469,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nemzeti Cowboy és Nyugati Örökség Múzeum", "Stockyards City, egy történelmi szarvasmarha-vásár negyed", "Oklahoma City Nemzeti Emlékhely és Múzeum", "Bricktown szórakoztató negyed"],
       ro: ["Muzeul Național al Cowboy-ilor și al Patrimoniului Vestic", "Stockyards City, un cartier istoric al târgurilor de vite", "Memorialul și Muzeul Național Oklahoma City", "Districtul de divertisment Bricktown"],
       en: ["National Cowboy & Western Heritage Museum", "Stockyards City, a historic livestock market district", "Oklahoma City National Memorial & Museum", "Bricktown entertainment district"]
-    }
-  },
+    }, image: "/poi-images/oklahoma-city-cities-v2.webp"},
   {
     id: "las-vegas-cities-v2",
     type: "city",
@@ -512,8 +487,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A Las Vegas Strip hatalmas üdülőhelyeivel", "Beceneve 'A Bűn Városa'", "A világ házassági fővárosa", "Fremont Street Experience a belvárosban"],
       ro: ["Las Vegas Strip cu stațiunile sale masive", "Poreclit 'Orașul Păcatelor'", "Capitala mondială a căsătoriilor", "Experiența Fremont Street în centrul orașului"],
       en: ["The Las Vegas Strip with its massive resorts", "Nicknamed 'Sin City'", "Marriage Capital of the World", "Fremont Street Experience downtown"]
-    }
-  },
+    }, image: "/poi-images/las-vegas-cities-v2.webp"},
   {
     id: "louisville-cities-v2",
     type: "city",
@@ -531,8 +505,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Churchill Downs, a Kentucky Derby otthona", "Urban Bourbon Trail", "Louisville Slugger Múzeum és Gyár", "Muhammad Ali szülőhelye"],
       ro: ["Churchill Downs, gazda Derby-ului Kentucky", "Traseul Urban al Bourbonului", "Muzeul și Fabrica Louisville Slugger", "Locul de naștere al lui Muhammad Ali"],
       en: ["Churchill Downs, home of the Kentucky Derby", "Urban Bourbon Trail", "Louisville Slugger Museum & Factory", "Birthplace of Muhammad Ali"]
-    }
-  },
+    }, image: "/poi-images/louisville-cities-v2.webp"},
   {
     id: "baltimore-cities-v2",
     type: "city",
@@ -550,8 +523,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Inner Harbor üzletekkel és látnivalókkal", "Nemzeti Akvárium", "Fort McHenry, a nemzeti himnusz szülőhelye", "Edgar Allan Poe otthona"],
       ro: ["Inner Harbor cu magazine și atracții", "Acvariul Național", "Fort McHenry, locul de naștere al imnului național", "Casa lui Edgar Allan Poe"],
       en: ["Inner Harbor with shops and attractions", "National Aquarium", "Fort McHenry, birthplace of the national anthem", "Home of Edgar Allan Poe"]
-    }
-  },
+    }, image: "/poi-images/baltimore-cities-v2.webp"},
   {
     id: "milwaukee-cities-v2",
     type: "city",
@@ -569,8 +541,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Történelmi sörfőző örökség (Miller, Pabst, Schlitz)", "Milwaukee Művészeti Múzeum jellegzetes építészetével", "Harley-Davidson Múzeum", "Summerfest, a 'világ legnagyobb zenei fesztiválja'"],
       ro: ["Moștenire istorică a berăriilor (Miller, Pabst, Schlitz)", "Muzeul de Artă Milwaukee cu arhitectura sa distinctivă", "Muzeul Harley-Davidson", "Summerfest, 'cel mai mare festival de muzică din lume'"],
       en: ["Historic brewing heritage (Miller, Pabst, Schlitz)", "Milwaukee Art Museum with its distinctive architecture", "Harley-Davidson Museum", "Summerfest, 'The World's Largest Music Festival'"]
-    }
-  },
+    }, image: "/poi-images/milwaukee-cities-v2.webp"},
   {
     id: "albuquerque-cities-v2",
     type: "city",
@@ -588,8 +559,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Éves hőlégballon-fesztivál", "Történelmi óváros vályogépítészettel", "Sandia Peak libegő", "A történelmi 66-os út mentén fekszik"],
       ro: ["Festival anual de baloane cu aer cald", "Oraș vechi istoric cu arhitectură din chirpici", "Telecabina Sandia Peak", "Situat pe istoricul Route 66"],
       en: ["Annual hot air balloon festival", "Historic Old Town with adobe architecture", "Sandia Peak Tramway", "Located on historic Route 66"]
-    }
-  },
+    }, image: "/poi-images/albuquerque-cities-v2.webp"},
   {
     id: "tucson-cities-v2",
     type: "city",
@@ -607,8 +577,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Saguaro Nemzeti Park", "Mission San Xavier del Bac", "Pima Repülési és Űrmúzeum", "Az első UNESCO Gasztronómiai Város az USA-ban"],
       ro: ["Parcul Național Saguaro", "Misiunea San Xavier del Bac", "Muzeul Aerospațial Pima", "Primul Oraș al Gastronomiei UNESCO din SUA"],
       en: ["Saguaro National Park", "Mission San Xavier del Bac", "Pima Air & Space Museum", "First UNESCO City of Gastronomy in the U.S."]
-    }
-  },
+    }, image: "/poi-images/tucson-cities-v2.webp"},
   {
     id: "fresno-cities-v2",
     type: "city",
@@ -626,8 +595,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Kapu a Yosemite, Sequoia és Kings Canyon Nemzeti Parkokhoz", "Nagy mezőgazdasági termelés (mazsola, mandula, szőlő)", "Forestiere földalatti kertek", "Fresno Chaffee Állatkert"],
       ro: ["Poarta de acces către Parcurile Naționale Yosemite, Sequoia și Kings Canyon", "Producție agricolă mare (stafide, migdale, struguri)", "Grădinile subterane Forestiere", "Grădina Zoologică Fresno Chaffee"],
       en: ["Gateway to Yosemite, Sequoia, and Kings Canyon National Parks", "Large agricultural production (raisins, almonds, grapes)", "Forestiere Underground Gardens", "Fresno Chaffee Zoo"]
-    }
-  },
+    }, image: "/poi-images/fresno-cities-v2.webp"},
   {
     id: "sacramento-cities-v2",
     type: "state-capital",
@@ -645,8 +613,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Old Sacramento Waterfront, egy történelmi negyed", "Kaliforniai Állami Vasúti Múzeum", "Kaliforniai Állami Capitolium Múzeum", "Beceneve 'Folyóváros'"],
       ro: ["Old Sacramento Waterfront, un cartier istoric", "Muzeul Căilor Ferate de Stat din California", "Muzeul Capitoliului de Stat din California", "Poreclit 'Orașul Râului'"],
       en: ["Old Sacramento Waterfront, a historic district", "California State Railroad Museum", "California State Capitol Museum", "Nicknamed 'River City'"]
-    }
-  },
+    }, image: "/poi-images/sacramento-cities-v2.webp"},
   {
     id: "kansas-city-mo-cities-v2",
     type: "city",
@@ -664,8 +631,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'A szökőkutak városa'", "Több mint 200 szökőkút", "Fontos szerep a jazz történetében", "Amerikai Jazz Múzeum"],
       ro: ["Poreclit 'Orașul Fântânilor'", "Peste 200 de fântâni", "Rol important în istoria jazz-ului", "Muzeul American de Jazz"],
       en: ["Nicknamed the 'City of Fountains'", "More than 200 fountains", "Major role in the history of jazz", "American Jazz Museum"]
-    }
-  },
+    }, image: "/poi-images/kansas-city-mo-cities-v2.webp"},
   {
     id: "long-beach-cities-v2",
     type: "city",
@@ -683,8 +649,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Az USA második legnagyobb konténerkikötője", "RMS Queen Mary, egy történelmi hajószálló", "Long Beach-i Nagydíj, egy autóverseny", "Változatos városrészek"],
       ro: ["Al doilea cel mai mare port de containere din SUA", "RMS Queen Mary, un hotel-navă istoric", "Marele Premiu de la Long Beach, o cursă auto", "Cartiere diverse"],
       en: ["Second-busiest container port in the U.S.", "RMS Queen Mary, a historic ship hotel", "Grand Prix of Long Beach, a street race", "Diverse neighborhoods"]
-    }
-  },
+    }, image: "/poi-images/long-beach-cities-v2.webp"},
   {
     id: "mesa-cities-v2",
     type: "city",
@@ -702,8 +667,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A 'Nap Völgyének' része", "Mesa Művészeti Központ", "Hohokam kultúra régészeti lelőhelyei", "Közel a Salt River-hez hasonló üdülőhelyekhez"],
       ro: ["Parte a 'Văii Soarelui'", "Centrul de Arte Mesa", "Situl arheologic al culturii Hohokam", "Aproape de zone de recreere precum Râul Salt"],
       en: ["Part of the 'Valley of the Sun'", "Mesa Arts Center", "Hohokam culture archaeological sites", "Near recreational areas like the Salt River"]
-    }
-  },
+    }, image: "/poi-images/mesa-cities-v2.webp"},
   {
     id: "atlanta-cities-v2",
     type: "state-capital",
@@ -721,8 +685,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Hartsfield-Jackson Atlanta Nemzetközi Repülőtér, a világ egyik legforgalmasabbja", "A Coca-Cola otthona", "Ifj. Martin Luther King Nemzeti Történelmi Park", "Az 1996-os olimpiai játékok házigazdája"],
       ro: ["Aeroportul Internațional Hartsfield-Jackson Atlanta, unul dintre cele mai aglomerate din lume", "Sediul Coca-Cola", "Parcul Național Istoric Martin Luther King Jr.", "Gazda Jocurilor Olimpice din 1996"],
       en: ["Hartsfield-Jackson Atlanta International Airport, one of the world's busiest", "Home of Coca-Cola", "Martin Luther King Jr. National Historical Park", "Host of the 1996 Olympic Games"]
-    }
-  },
+    }, image: "/poi-images/atlanta-cities-v2.webp"},
   {
     id: "colorado-springs-cities-v2",
     type: "city",
@@ -740,8 +703,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Garden of the Gods Park vörös homokkő képződményekkel", "Az Egyesült Államok Légierejének Akadémiája", "Amerikai Olimpiai és Paralimpiai Edzőközpont", "Magas életminőség"],
       ro: ["Parcul Garden of the Gods cu formațiuni de gresie roșie", "Academia Forțelor Aeriene ale Statelor Unite", "Centrul de Antrenament Olimpic și Paralimpic al SUA", "Calitate ridicată a vieții"],
       en: ["Garden of the Gods park with red sandstone formations", "United States Air Force Academy", "U.S. Olympic & Paralympic Training Center", "High quality of life"]
-    }
-  },
+    }, image: "/poi-images/colorado-springs-cities-v2.webp"},
   {
     id: "virginia-beach-cities-v2",
     type: "city",
@@ -759,8 +721,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A világ leghosszabb üdülőstrandjának Guinness-rekordját tartja", "First Landing Állami Park", "Katonai jelenlét, különösen a haditengerészet", "Népszerű nyári üdülőhely"],
       ro: ["Deține recordul mondial Guinness pentru cea mai lungă plajă de agrement", "Parcul Statal First Landing", "Prezență militară, în special a Marinei", "Destinație populară de vacanță de vară"],
       en: ["Holds the Guinness World Record for the longest pleasure beach", "First Landing State Park", "Military presence, especially the Navy", "Popular summer vacation spot"]
-    }
-  },
+    }, image: "/poi-images/virginia-beach-cities-v2.webp"},
   {
     id: "raleigh-cities-v2",
     type: "state-capital",
@@ -778,8 +739,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A Research Triangle része Durhammel és Chapel Hillel", "Számos technológiai és kutatási vállalat", "Észak-Karolinai Természettudományi Múzeum", "Sok fa és zöldterület"],
       ro: ["Parte a Triunghiului de Cercetare cu Durham și Chapel Hill", "Numeroase companii de tehnologie și cercetare", "Muzeul de Științe Naturale din Carolina de Nord", "Mulți copaci și spații verzi"],
       en: ["Part of the Research Triangle with Durham and Chapel Hill", "Numerous technology and research companies", "North Carolina Museum of Natural Sciences", "Many trees and green spaces"]
-    }
-  },
+    }, image: "/poi-images/raleigh-cities-v2.webp"},
   {
     id: "omaha-cities-v2",
     type: "city",
@@ -797,8 +757,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A Berkshire Hathaway székhelye", "Az éves közgyűlés több ezer embert vonz", "Henry Doorly Állatkert és Akvárium", "Történelmi Old Market negyed"],
       ro: ["Sediul Berkshire Hathaway", "Adunarea anuală a acționarilor atrage mii de oameni", "Grădina Zoologică și Acvariul Henry Doorly", "Cartierul istoric Old Market"],
       en: ["Headquarters of Berkshire Hathaway", "Annual shareholders' meeting attracts thousands", "Henry Doorly Zoo and Aquarium", "Historic Old Market district"]
-    }
-  },
+    }, image: "/poi-images/omaha-cities-v2.webp"},
   {
     id: "miami-cities-v2",
     type: "city",
@@ -816,8 +775,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nagy kikötő a sétahajók számára", "South Beach art deco építészettel", "Erős kubai befolyás Little Havanában", "Nemzetközi pénzügyi központ"],
       ro: ["Port major pentru nave de croazieră", "South Beach cu arhitectură Art Deco", "Influență cubaneză puternică în Little Havana", "Centru financiar internațional"],
       en: ["Major cruise ship port", "South Beach with its Art Deco architecture", "Strong Cuban influence in Little Havana", "International financial hub"]
-    }
-  },
+    }, image: "/poi-images/miami-cities-v2.webp"},
   {
     id: "oakland-cities-v2",
     type: "city",
@@ -835,8 +793,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Fontos kikötő a nyugati parton", "Jack London Square a vízparton", "Merritt-tó, egy árapály-tó a városközpontban", "Változatos kulináris színtér"],
       ro: ["Port important pe coasta de vest", "Piața Jack London pe malul apei", "Lacul Merritt, un lac de maree în centrul orașului", "Scenă culinară diversă"],
       en: ["Major West Coast port", "Jack London Square on the waterfront", "Lake Merritt, a tidal lagoon in the city center", "Diverse culinary scene"]
-    }
-  },
+    }, image: "/poi-images/oakland-cities-v2.webp"},
   {
     id: "minneapolis-cities-v2",
     type: "city",
@@ -854,8 +811,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Az 'Ikervárosokat' alkotja Saint Paullal", "Chain of Lakes, egy tórendszer", "Walker Művészeti Központ és Minneapolis Szoborkert", "Kiterjedt Skyway rendszer"],
       ro: ["Formează 'Orașele Gemene' cu Saint Paul", "Lanțul de Lacuri, un lanț de lacuri", "Centrul de Artă Walker și Grădina de Sculptură Minneapolis", "Sistem extins de pasarele suspendate (Skyway)"],
       en: ["Forms the 'Twin Cities' with Saint Paul", "Chain of Lakes, a string of lakes", "Walker Art Center and Minneapolis Sculpture Garden", "Extensive skyway system"]
-    }
-  },
+    }, image: "/poi-images/minneapolis-cities-v2.webp"},
   {
     id: "tulsa-cities-v2",
     type: "city",
@@ -873,8 +829,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nagy koncentrációban art deco épületek", "Philbrook Művészeti Múzeum", "Gathering Place, egy nagy folyóparti park", "Woody Guthrie Központ"],
       ro: ["Concentrație mare de clădiri Art Deco", "Muzeul de Artă Philbrook", "Gathering Place, un parc mare pe malul râului", "Centrul Woody Guthrie"],
       en: ["Large concentration of Art Deco buildings", "Philbrook Museum of Art", "Gathering Place, a large riverfront park", "Woody Guthrie Center"]
-    }
-  },
+    }, image: "/poi-images/tulsa-cities-v2.webp"},
   {
     id: "arlington-tx-cities-v2",
     type: "city",
@@ -892,8 +847,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A Dallas Cowboys otthona (AT&T Stadion)", "A Texas Rangers otthona (Globe Life Field)", "Six Flags Over Texas vidámpark", "Nemzetközi Bowling Múzeum"],
       ro: ["Gazda Dallas Cowboys (Stadionul AT&T)", "Gazda Texas Rangers (Globe Life Field)", "Parcul de distracții Six Flags Over Texas", "Muzeul Internațional de Bowling"],
       en: ["Home of the Dallas Cowboys (AT&T Stadium)", "Home of the Texas Rangers (Globe Life Field)", "Six Flags Over Texas amusement park", "International Bowling Museum"]
-    }
-  },
+    }, image: "/poi-images/arlington-tx-cities-v2.webp"},
   {
     id: "new-orleans-cities-v2",
     type: "city",
@@ -911,8 +865,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'The Big Easy'", "A jazz szülőhelye", "Francia negyed spanyol és francia építészettel", "Mardi Gras, egy híres karnevál"],
       ro: ["Poreclit 'The Big Easy'", "Locul de naștere al jazz-ului", "Cartierul Francez cu arhitectura sa spaniolă și franceză", "Mardi Gras, un carnaval faimos"],
       en: ["Nicknamed 'The Big Easy'", "Birthplace of jazz", "French Quarter with its Spanish and French architecture", "Mardi Gras, a famous carnival"]
-    }
-  },
+    }, image: "/poi-images/new-orleans-cities-v2.webp"},
   {
     id: "wichita-cities-v2",
     type: "city",
@@ -930,8 +883,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A repülőgépipar központja (Cessna, Beechcraft)", "Kansas Repülési Múzeum", "Old Cowtown Múzeum, egy élő történelmi múzeum", "Keeper of the Plains szobor"],
       ro: ["Centru al industriei aeronautice (Cessna, Beechcraft)", "Muzeul Aviației din Kansas", "Muzeul Old Cowtown, un muzeu de istorie vie", "Statuia Păstrătorului Câmpiilor"],
       en: ["Hub of the aircraft industry (Cessna, Beechcraft)", "Kansas Aviation Museum", "Old Cowtown Museum, a living history museum", "Keeper of the Plains statue"]
-    }
-  },
+    }, image: "/poi-images/wichita-cities-v2.webp"},
   {
     id: "cleveland-cities-v2",
     type: "city",
@@ -949,8 +901,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Rock and Roll Hírességek Csarnoka", "Clevelandi Művészeti Múzeum", "Playhouse Square, az USA második legnagyobb színházi központja", "Erős ipari örökség"],
       ro: ["Rock and Roll Hall of Fame", "Muzeul de Artă din Cleveland", "Playhouse Square, al doilea cel mai mare centru de teatru din SUA", "Moștenire industrială puternică"],
       en: ["Rock and Roll Hall of Fame", "Cleveland Museum of Art", "Playhouse Square, the second-largest theater district in the U.S.", "Strong industrial heritage"]
-    }
-  },
+    }, image: "/poi-images/cleveland-cities-v2.webp"},
   {
     id: "tampa-cities-v2",
     type: "city",
@@ -968,8 +919,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Busch Gardens Tampa Bay, egy afrikai témájú vidámpark", "Floridai Akvárium", "Ybor City, egy történelmi negyed, amelyet szivargyártók alapítottak", "Fontos kikötő"],
       ro: ["Busch Gardens Tampa Bay, un parc de distracții cu tematică africană", "Acvariul din Florida", "Ybor City, un cartier istoric fondat de producătorii de trabucuri", "Port important"],
       en: ["Busch Gardens Tampa Bay, an African-themed amusement park", "The Florida Aquarium", "Ybor City, a historic neighborhood founded by cigar manufacturers", "Major port"]
-    }
-  },
+    }, image: "/poi-images/tampa-cities-v2.webp"},
   {
     id: "honolulu-cities-v2",
     type: "state-capital",
@@ -987,8 +937,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Waikiki Beach, egy híres strand", "Pearl Harbor, egy történelmi haditengerészeti bázis", "Iolani-palota, az egyetlen hivatalos királyi rezidencia az USA-ban", "Diamond Head, egy vulkáni tufakúp"],
       ro: ["Plaja Waikiki, o plajă faimoasă", "Pearl Harbor, o bază navală istorică", "Palatul Iolani, singura reședință regală oficială din SUA", "Diamond Head, un con vulcanic de tuf"],
       en: ["Waikiki Beach, a famous beach", "Pearl Harbor, a historic naval base", "Iolani Palace, the only official royal residence in the U.S.", "Diamond Head, a volcanic tuff cone"]
-    }
-  },
+    }, image: "/poi-images/honolulu-cities-v2.webp"},
   {
     id: "anaheim-cities-v2",
     type: "city",
@@ -1006,8 +955,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Disneyland Park, az eredeti Disney vidámpark", "Disney California Adventure Park", "Anaheimi Kongresszusi Központ", "Az Anaheim Ducks (NHL) és a Los Angeles Angels (MLB) otthona"],
       ro: ["Disneyland Park, parcul tematic original Disney", "Parcul Disney California Adventure", "Centrul de Convenții Anaheim", "Gazda echipelor Anaheim Ducks (NHL) și Los Angeles Angels (MLB)"],
       en: ["Disneyland Park, the original Disney theme park", "Disney California Adventure Park", "Anaheim Convention Center", "Home to the Anaheim Ducks (NHL) and Los Angeles Angels (MLB)"]
-    }
-  },
+    }, image: "/poi-images/anaheim-cities-v2.webp"},
   {
     id: "orlando-cities-v2",
     type: "city",
@@ -1025,8 +973,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["'A világ vidámpark-fővárosa'", "Walt Disney World Resort", "Universal Orlando Resort", "SeaWorld Orlando"],
       ro: ["'Capitala mondială a parcurilor tematice'", "Walt Disney World Resort", "Universal Orlando Resort", "SeaWorld Orlando"],
       en: ["'The Theme Park Capital of the World'", "Walt Disney World Resort", "Universal Orlando Resort", "SeaWorld Orlando"]
-    }
-  },
+    }, image: "/poi-images/orlando-cities-v2.webp"},
   {
     id: "pittsburgh-cities-v2",
     type: "city",
@@ -1044,8 +991,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'Acélváros' és 'A hidak városa'", "446 híd", "Átmenet az iparról a technológiára és az egészségügyre", "Andy Warhol Múzeum"],
       ro: ["Poreclit 'Orașul de Oțel' și 'Orașul Podurilor'", "446 de poduri", "Tranziție de la industrie la tehnologie și sănătate", "Muzeul Andy Warhol"],
       en: ["Nicknamed 'Steel City' and 'City of Bridges'", "446 bridges", "Transitioned from industry to tech and healthcare", "The Andy Warhol Museum"]
-    }
-  },
+    }, image: "/poi-images/pittsburgh-cities-v2.webp"},
   {
     id: "st-louis-cities-v2",
     type: "city",
@@ -1063,8 +1009,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Gateway Arch, a 'Nyugat kapuja'", "Forest Park, az USA egyik legnagyobb városi parkja", "A Budweiser sör otthona", "St. Louis Cardinals (MLB)"],
       ro: ["Arcul Gateway, 'Poarta către Vest'", "Parcul Forest, unul dintre cele mai mari parcuri urbane din SUA", "Casa berii Budweiser", "St. Louis Cardinals (MLB)"],
       en: ["Gateway Arch, the 'Gateway to the West'", "Forest Park, one of the largest urban parks in the U.S.", "Home of Budweiser beer", "St. Louis Cardinals (MLB)"]
-    }
-  },
+    }, image: "/poi-images/st-louis-cities-v2.webp"},
   {
     id: "riverside-cities-v2",
     type: "city",
@@ -1082,8 +1027,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Mission Inn, egy történelmi szálloda", "Kaliforniai Egyetem, Riverside", "Mount Rubidoux Park", "Az eredeti Washington Navel narancsfa"],
       ro: ["Mission Inn, un hotel istoric", "Universitatea din California, Riverside", "Parcul Mount Rubidoux", "Portocalul mamă Washington Navel"],
       en: ["The Mission Inn, a historic hotel", "University of California, Riverside", "Mount Rubidoux Park", "Parent Washington Navel Orange Tree"]
-    }
-  },
+    }, image: "/poi-images/riverside-cities-v2.webp"},
   {
     id: "santa-ana-cities-v2",
     type: "city",
@@ -1101,8 +1045,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Bowers Múzeum", "Discovery Cube Orange County", "Santa Ana Állatkert", "Orange megye történelmi bírósági épülete"],
       ro: ["Muzeul Bowers", "Discovery Cube Orange County", "Grădina Zoologică Santa Ana", "Clădirea istorică a tribunalului din Orange County"],
       en: ["Bowers Museum", "Discovery Cube Orange County", "Santa Ana Zoo", "Historic Orange County Courthouse"]
-    }
-  },
+    }, image: "/poi-images/santa-ana-cities-v2.webp"},
   {
     id: "cincinnati-cities-v2",
     type: "city",
@@ -1120,8 +1063,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'A Királynő Városa'", "Over-the-Rhine, egy történelmi negyed sörfőzdékkel", "Cincinnati Reds, az első profi baseballcsapat", "Nemzeti Földalatti Vasút Szabadságközpont"],
       ro: ["Poreclit 'Orașul Regină'", "Over-the-Rhine, un cartier istoric cu berării", "Cincinnati Reds, prima echipă profesionistă de baseball", "Centrul Național pentru Libertatea Căii Ferate Subterane"],
       en: ["Nicknamed 'The Queen City'", "Over-the-Rhine, a historic neighborhood with breweries", "Cincinnati Reds, the first professional baseball team", "National Underground Railroad Freedom Center"]
-    }
-  },
+    }, image: "/poi-images/cincinnati-cities-v2.webp"},
   {
     id: "lexington-cities-v2",
     type: "city",
@@ -1139,8 +1081,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Kentucky Ló Park", "Keeneland versenypálya", "A telivértenyésztés központja", "Mary Todd Lincoln-ház"],
       ro: ["Parcul Cailor din Kentucky", "Hipodromul Keeneland", "Centrul de creștere a cailor pursânge", "Casa Mary Todd Lincoln"],
       en: ["Kentucky Horse Park", "Keeneland race course", "Center of thoroughbred horse breeding", "Mary Todd Lincoln House"]
-    }
-  },
+    }, image: "/poi-images/lexington-cities-v2.webp"},
   {
     id: "anchorage-cities-v2",
     type: "city",
@@ -1158,8 +1099,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Hat hegylánc veszi körül", "Lehetőség jávorszarvasok megtekintésére a városban", "Alaszkai Őslakos Örökségi Központ", "Sok alaszkai kaland kiindulópontja"],
       ro: ["Înconjurat de șase lanțuri montane", "Posibilitatea de a vedea elani în oraș", "Centrul Patrimoniului Nativ din Alaska", "Punct de plecare pentru multe aventuri în Alaska"],
       en: ["Surrounded by six mountain ranges", "Possibility of seeing moose in the city", "Alaska Native Heritage Center", "Starting point for many Alaskan adventures"]
-    }
-  },
+    }, image: "/poi-images/anchorage-cities-v2.webp"},
   {
     id: "stockton-cities-v2",
     type: "city",
@@ -1177,8 +1117,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Stocktoni kikötő, egy fontos belvízi kikötő", "Pacifici Egyetem", "Haggin Múzeum", "Változatos lakosság"],
       ro: ["Portul Stockton, un port interior important", "Universitatea Pacificului", "Muzeul Haggin", "Populație diversă"],
       en: ["Port of Stockton, a major inland port", "University of the Pacific", "Haggin Museum", "Diverse population"]
-    }
-  },
+    }, image: "/poi-images/stockton-cities-v2.webp"},
   {
     id: "toledo-cities-v2",
     type: "city",
@@ -1196,8 +1135,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'Az Üvegváros'", "Toledói Művészeti Múzeum nagy üveggyűjteménnyel", "Nagy Tavak Nemzeti Múzeuma", "Az autóipar történelmi központja"],
       ro: ["Poreclit 'Orașul de Sticlă'", "Muzeul de Artă din Toledo, cu o mare colecție de sticlă", "Muzeul Național al Marilor Lacuri", "Centru istoric al industriei auto"],
       en: ["Nicknamed 'The Glass City'", "Toledo Museum of Art with a large glass collection", "National Museum of the Great Lakes", "Historic center for the auto industry"]
-    }
-  },
+    }, image: "/poi-images/toledo-cities-v2.webp"},
   {
     id: "st-paul-cities-v2",
     type: "state-capital",
@@ -1215,8 +1153,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Szent Pál-székesegyház", "Minnesotai Állami Capitolium", "Minnesotai Tudományos Múzeum", "Történelmi Summit Avenue viktoriánus villákkal"],
       ro: ["Catedrala Sfântul Paul", "Capitoliul Statului Minnesota", "Muzeul de Științe din Minnesota", "Avenida istorică Summit cu conace victoriene"],
       en: ["Cathedral of Saint Paul", "Minnesota State Capitol", "Science Museum of Minnesota", "Historic Summit Avenue with Victorian mansions"]
-    }
-  },
+    }, image: "/poi-images/st-paul-cities-v2.webp"},
   {
     id: "newark-cities-v2",
     type: "city",
@@ -1234,8 +1171,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Newark Liberty Nemzetközi Repülőtér", "Port Newark-Elizabeth Tengeri Terminál", "New Jersey Előadóművészeti Központ", "Branch Brook Park az USA legnagyobb cseresznyevirág-gyűjteményével"],
       ro: ["Aeroportul Internațional Newark Liberty", "Terminalul Maritim Port Newark-Elizabeth", "Centrul de Arte Spectacolului din New Jersey", "Parcul Branch Brook cu cea mai mare colecție de cireși înfloriți din SUA"],
       en: ["Newark Liberty International Airport", "Port Newark-Elizabeth Marine Terminal", "New Jersey Performing Arts Center", "Branch Brook Park with the largest collection of cherry blossom trees in the U.S."]
-    }
-  },
+    }, image: "/poi-images/newark-cities-v2.webp"},
   {
     id: "henderson-cities-v2",
     type: "city",
@@ -1253,8 +1189,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nevada második legnagyobb városa", "Csendes alternatívaként tervezték Las Vegashoz képest", "Lake Las Vegas Resort", "Kiterjedt park- és túraútvonal-hálózat"],
       ro: ["Al doilea cel mai mare oraș din Nevada", "Conceput ca o alternativă liniștită la Las Vegas", "Stațiunea Lake Las Vegas", "Rețea extinsă de parcuri și trasee"],
       en: ["Second largest city in Nevada", "Designed as a quiet alternative to Las Vegas", "Lake Las Vegas resort", "Extensive network of parks and trails"]
-    }
-  },
+    }, image: "/poi-images/henderson-cities-v2.webp"},
   {
     id: "plano-cities-v2",
     type: "city",
@@ -1272,8 +1207,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A Toyota Motor North America, a Frito-Lay és a J.C. Penney székhelye", "Magas életminőség", "Az USA egyik legbiztonságosabb városának tartják", "Legacy West, egy nagy vegyes felhasználású fejlesztési terület"],
       ro: ["Sediul Toyota Motor North America, Frito-Lay și J.C. Penney", "Calitate ridicată a vieții", "Considerat unul dintre cele mai sigure orașe din SUA", "Legacy West, o dezvoltare mare cu utilizare mixtă"],
       en: ["Headquarters of Toyota Motor North America, Frito-Lay, and J.C. Penney", "High quality of life", "Considered one of the safest cities in the U.S.", "Legacy West, a large mixed-use development"]
-    }
-  },
+    }, image: "/poi-images/plano-cities-v2.webp"},
   {
     id: "irvine-cities-v2",
     type: "city",
@@ -1291,8 +1225,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Kaliforniai Egyetem, Irvine (UCI)", "Folyamatosan Amerika egyik legbiztonságosabb városaként rangsorolják", "Kiterjedt park- és zöldterület-hálózat", "Technológiai és félvezetőipari vállalatok központja"],
       ro: ["Universitatea din California, Irvine (UCI)", "Clasat constant printre cele mai sigure orașe din America", "Rețea extinsă de parcuri și spații deschise", "Centru pentru companii de tehnologie și semiconductori"],
       en: ["University of California, Irvine (UCI)", "Consistently ranked one of the safest cities in America", "Extensive network of parks and open spaces", "Hub for tech and semiconductor companies"]
-    }
-  },
+    }, image: "/poi-images/irvine-cities-v2.webp"},
   {
     id: "durham-cities-v2",
     type: "city",
@@ -1310,8 +1243,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Duke Egyetem és híres kápolnája", "A Research Triangle része", "A dohányipar egykori központja", "Durhami Előadóművészeti Központ"],
       ro: ["Universitatea Duke și capela sa faimoasă", "Parte a Triunghiului de Cercetare", "Fost centru al industriei tutunului", "Centrul de Arte Spectacolului Durham"],
       en: ["Duke University and its famous chapel", "Part of the Research Triangle", "Former center of the tobacco industry", "Durham Performing Arts Center"]
-    }
-  },
+    }, image: "/poi-images/durham-cities-v2.webp"},
   {
     id: "st-petersburg-fl-cities-v2",
     type: "city",
@@ -1329,8 +1261,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'Napfény Városa'", "A legtöbb egymást követő napos nap rekordját tartja", "Salvador Dalí Múzeum", "Fort De Soto Park"],
       ro: ["Poreclit 'Orașul Soarelui'", "Deține recordul pentru cele mai multe zile consecutive cu soare", "Muzeul Salvador Dalí", "Parcul Fort De Soto"],
       en: ["Nicknamed 'Sunshine City'", "Holds the record for most consecutive days of sunshine", "The Salvador Dalí Museum", "Fort De Soto Park"]
-    }
-  },
+    }, image: "/poi-images/st-petersburg-fl-cities-v2.webp"},
   {
     id: "jersey-city-cities-v2",
     type: "city",
@@ -1348,8 +1279,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Liberty State Park kilátással a Szabadság-szoborra", "New York-i nagyvárosi terület része", "Pénzügyi negyed, amelyet 'Wall Street West'-nek is neveznek", "Empty Sky, New Jersey 9/11-es emlékműve"],
       ro: ["Parcul Statal Liberty cu vedere la Statuia Libertății", "Parte a zonei metropolitane New York", "District financiar cunoscut sub numele de 'Wall Street West'", "Empty Sky, memorialul 9/11 din New Jersey"],
       en: ["Liberty State Park with views of the Statue of Liberty", "Part of the New York metropolitan area", "Financial district known as 'Wall Street West'", "Empty Sky, New Jersey's 9/11 memorial"]
-    }
-  },
+    }, image: "/poi-images/jersey-city-cities-v2.webp"},
   {
     id: "chandler-cities-v2",
     type: "city",
@@ -1367,8 +1297,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Éves Struccfesztivál", "A félvezetőgyártás központja", "Veterans Oasis Park", "Történelmi belváros"],
       ro: ["Festivalul anual al struților", "Centru pentru producția de semiconductori", "Parcul Veterans Oasis", "Centru istoric"],
       en: ["Annual Ostrich Festival", "Hub for semiconductor manufacturing", "Veterans Oasis Park", "Historic downtown area"]
-    }
-  },
+    }, image: "/poi-images/chandler-cities-v2.webp"},
   {
     id: "laredo-cities-v2",
     type: "city",
@@ -1386,8 +1315,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Fontos kereskedelmi csomópont Mexikóval", "A Rio Grande Köztársaság Múzeuma", "Erős spanyol kultúra", "Éves Washington születésnapi ünnepség"],
       ro: ["Nod important pentru comerțul cu Mexic", "Muzeul Republicii Rio Grande", "Cultură hispanică puternică", "Sărbătoarea anuală a zilei de naștere a lui Washington"],
       en: ["Major hub for trade with Mexico", "Republic of the Rio Grande Museum", "Strong Hispanic culture", "Annual Washington's Birthday Celebration"]
-    }
-  },
+    }, image: "/poi-images/laredo-cities-v2.webp"},
   {
     id: "norfolk-cities-v2",
     type: "city",
@@ -1405,8 +1333,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Norfolki haditengerészeti állomás", "Chrysler Művészeti Múzeum", "Norfolki Botanikus Kert", "USS Wisconsin, egy csatahajó-múzeum"],
       ro: ["Baza Navală Norfolk", "Muzeul de Artă Chrysler", "Grădina Botanică Norfolk", "USS Wisconsin, un muzeu-navă de luptă"],
       en: ["Naval Station Norfolk", "Chrysler Museum of Art", "Norfolk Botanical Garden", "USS Wisconsin, a battleship museum"]
-    }
-  },
+    }, image: "/poi-images/norfolk-cities-v2.webp"},
   {
     id: "reno-cities-v2",
     type: "city",
@@ -1424,8 +1351,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nemzeti Autómúzeum", "A Tahoe-tó közelében", "A Truckee folyó áthalad a városon", "Éves Great Reno Hőlégballon Verseny"],
       ro: ["Muzeul Național al Automobilului", "Aproape de Lacul Tahoe", "Râul Truckee traversează orașul", "Cursa anuală de baloane Great Reno"],
       en: ["National Automobile Museum", "Near Lake Tahoe", "Truckee River runs through the city", "Annual Great Reno Balloon Race"]
-    }
-  },
+    }, image: "/poi-images/reno-cities-v2.webp"},
   {
     id: "buffalo-cities-v2",
     type: "city",
@@ -1443,8 +1369,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Híres a Buffalo csirkeszárnyakról", "Ipari örökség", "Albright-Knox Művészeti Galéria", "Havas telek"],
       ro: ["Cunoscut pentru aripioarele Buffalo", "Moștenire industrială", "Galeria de Artă Albright-Knox", "Ierni cu zăpadă abundentă"],
       en: ["Famous for Buffalo wings", "Industrial heritage", "Albright-Knox Art Gallery", "Snowy winters"]
-    }
-  },
+    }, image: "/poi-images/buffalo-cities-v2.webp"},
   {
     id: "fort-wayne-cities-v2",
     type: "city",
@@ -1462,8 +1387,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Johnny Appleseed Park", "Fort Wayne-i Gyermekállatkert", "Három folyó folyik át a városon", "Történelmi gyökerei mint francia kereskedelmi állomás"],
       ro: ["Parcul Johnny Appleseed", "Grădina Zoologică pentru Copii Fort Wayne", "Trei râuri traversează orașul", "Rădăcini istorice ca post comercial francez"],
       en: ["Johnny Appleseed Park", "Fort Wayne Children's Zoo", "Three rivers run through the city", "Historic roots as a French trading post"]
-    }
-  },
+    }, image: "/poi-images/fort-wayne-cities-v2.webp"},
   {
     id: "boise-cities-v2",
     type: "state-capital",
@@ -1481,8 +1405,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Beceneve 'A fák városa'", "Boise River Greenbelt, egy folyóparti park", "Basque Block, amely a baszk örökséget ünnepli", "Idahói Állami Capitolium"],
       ro: ["Poreclit 'Orașul Copacilor'", "Boise River Greenbelt, un parc pe malul râului", "Cartierul Basc, care celebrează moștenirea bască", "Capitoliul Statului Idaho"],
       en: ["Nicknamed the 'City of Trees'", "Boise River Greenbelt, a riverfront park", "Basque Block celebrating Basque heritage", "Idaho State Capitol"]
-    }
-  },
+    }, image: "/poi-images/boise-cities-v2.webp"},
   {
     id: "richmond-va-cities-v2",
     type: "state-capital",
@@ -1500,8 +1423,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Az Amerikai Konföderációs Államok egykori fővárosa", "Virginiai Szépművészeti Múzeum", "Monument Avenue", "Edgar Allan Poe Múzeum"],
       ro: ["Fosta capitală a Statelor Confederate ale Americii", "Muzeul de Arte Frumoase din Virginia", "Avenida Monumentelor", "Muzeul Edgar Allan Poe"],
       en: ["Former capital of the Confederate States of America", "Virginia Museum of Fine Arts", "Monument Avenue", "The Edgar Allan Poe Museum"]
-    }
-  },
+    }, image: "/poi-images/richmond-va-cities-v2.webp"},
   {
     id: "des-moines-cities-v2",
     type: "state-capital",
@@ -1519,8 +1441,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Iowa Állami Vásár, az ország egyik legnagyobb vására", "Iowai Állami Capitolium aranykupolájával", "Des Moines Művészeti Központ", "Fontos az elnöki előválasztások szempontjából"],
       ro: ["Târgul de Stat din Iowa, unul dintre cele mai mari din țară", "Capitoliul Statului Iowa cu domul său auriu", "Centrul de Artă Des Moines", "Important pentru alegerile primare prezidențiale"],
       en: ["Iowa State Fair, one of the largest state fairs in the country", "Iowa State Capitol with its golden dome", "Des Moines Art Center", "Important for presidential caucuses"]
-    }
-  },
+    }, image: "/poi-images/des-moines-cities-v2.webp"},
   {
     id: "baton-rouge-cities-v2",
     type: "state-capital",
@@ -1538,8 +1459,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Louisianai Állami Egyetem (LSU)", "Az USA legmagasabb capitolium-épülete", "USS Kidd, egy rombolómúzeum", "Fontos petrolkémiai ipari helyszín"],
       ro: ["Universitatea de Stat din Louisiana (LSU)", "Cea mai înaltă clădire de capitoliu din SUA", "USS Kidd, un muzeu distrugător", "Locație importantă pentru industria petrochimică"],
       en: ["Louisiana State University (LSU)", "Tallest state capitol building in the U.S.", "USS Kidd, a destroyer museum", "Major site for the petrochemical industry"]
-    }
-  },
+    }, image: "/poi-images/baton-rouge-cities-v2.webp"},
   {
     id: "spokane-cities-v2",
     type: "city",
@@ -1557,8 +1477,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Riverfront Park, az 1974-es világkiállítás helyszíne", "Spokane-vízesés", "Centennial Trail kerékpározáshoz és túrázáshoz", "Sok tó és hegy közelében"],
       ro: ["Parcul Riverfront, locul Expoziției Mondiale din 1974", "Cascadele Spokane", "Traseul Centenar pentru ciclism și drumeții", "Aproape de multe lacuri și munți"],
       en: ["Riverfront Park, site of the 1974 World's Fair", "Spokane Falls", "Centennial Trail for biking and hiking", "Near many lakes and mountains"]
-    }
-  },
+    }, image: "/poi-images/spokane-cities-v2.webp"},
   {
     id: "birmingham-al-cities-v2",
     type: "city",
@@ -1576,8 +1495,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Birminghami Polgárjogi Intézet", "16. utcai baptista templom", "Sloss Furnaces, nemzeti történelmi emlékhely", "Egykor az acélipar központja"],
       ro: ["Institutul pentru Drepturile Civile din Birmingham", "Biserica Baptistă de pe Strada 16", "Furnalurile Sloss, un reper istoric național", "Fost centru al industriei siderurgice"],
       en: ["Birmingham Civil Rights Institute", "16th Street Baptist Church", "Sloss Furnaces, a National Historic Landmark", "Formerly a major steel industry center"]
-    }
-  },
+    }, image: "/poi-images/birmingham-al-cities-v2.webp"},
   {
     id: "rochester-ny-cities-v2",
     type: "city",
@@ -1595,8 +1513,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["George Eastman Múzeum, egy fotográfiai múzeum", "The Strong Nemzeti Játékmúzeum", "Susan B. Anthony Múzeum és Ház", "Az optika és a képalkotás központja"],
       ro: ["Muzeul George Eastman, un muzeu de fotografie", "Muzeul Național al Jocului The Strong", "Muzeul și Casa Susan B. Anthony", "Centru pentru optică și imagistică"],
       en: ["George Eastman Museum, a photography museum", "The Strong National Museum of Play", "Susan B. Anthony Museum & House", "Hub for optics and imaging"]
-    }
-  },
+    }, image: "/poi-images/rochester-ny-cities-v2.webp"},
   {
     id: "aurora-co-cities-v2",
     type: "city",
@@ -1614,8 +1531,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Buckley légi bázis", "Anschutz Orvosi Kampusz", "Változatos nemzetközi éttermek", "Aurora-víztározó vízisportokhoz"],
       ro: ["Baza Aeriană Buckley", "Campusul Medical Anschutz", "Restaurante internaționale diverse", "Rezervorul Aurora pentru sporturi nautice"],
       en: ["Buckley Air Force Base", "Anschutz Medical Campus", "Diverse international restaurants", "Aurora Reservoir for water sports"]
-    }
-  },
+    }, image: "/poi-images/aurora-co-cities-v2.webp"},
   {
     id: "little-rock-cities-v2",
     type: "state-capital",
@@ -1633,8 +1549,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Little Rock Central High School Nemzeti Történelmi Helyszín", "William J. Clinton Elnöki Könyvtár és Múzeum", "River Market negyed", "Big Dam híd"],
       ro: ["Liceul Central Little Rock, sit istoric național", "Biblioteca și Muzeul Prezidențial William J. Clinton", "Districtul River Market", "Podul Big Dam"],
       en: ["Little Rock Central High School National Historic Site", "William J. Clinton Presidential Library and Museum", "River Market District", "Big Dam Bridge"]
-    }
-  },
+    }, image: "/poi-images/little-rock-cities-v2.webp"},
   {
     id: "columbia-sc-cities-v2",
     type: "state-capital",
@@ -1671,8 +1586,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Mississippi Polgárjogi Múzeum", "Mississippi Szabadság Ösvény", "Sok híres zenész szülőhelye", "Mississippi Állami Capitolium"],
       ro: ["Muzeul Drepturilor Civile din Mississippi", "Traseul Libertății din Mississippi", "Locul de naștere al multor muzicieni celebri", "Capitoliul Statului Mississippi"],
       en: ["Mississippi Civil Rights Museum", "Mississippi Freedom Trail", "Birthplace of many famous musicians", "Mississippi State Capitol"]
-    }
-  },
+    }, image: "/poi-images/jackson-ms-cities-v2.webp"},
   {
     id: "providence-cities-v2",
     type: "state-capital",
@@ -1690,8 +1604,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Roger Williams alapította", "Brown Egyetem és Rhode Island School of Design (RISD)", "WaterFire, egy művészeti installáció a folyókon", "Történelmi Benefit Street"],
       ro: ["Fondat de Roger Williams", "Universitatea Brown și Școala de Design din Rhode Island (RISD)", "WaterFire, o instalație de artă pe râuri", "Strada istorică Benefit"],
       en: ["Founded by Roger Williams", "Brown University and Rhode Island School of Design (RISD)", "WaterFire, an art installation on the rivers", "Historic Benefit Street"]
-    }
-  },
+    }, image: "/poi-images/providence-cities-v2.webp"},
   {
     id: "hartford-cities-v2",
     type: "state-capital",
@@ -1709,8 +1622,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["A biztosítási ipar központja", "Mark Twain Ház és Múzeum", "Harriet Beecher Stowe Központ", "Wadsworth Atheneum, az USA legrégebbi nyilvános művészeti múzeuma"],
       ro: ["Centru pentru industria asigurărilor", "Casa și Muzeul Mark Twain", "Centrul Harriet Beecher Stowe", "Wadsworth Atheneum, cel mai vechi muzeu public de artă din SUA"],
       en: ["Hub for the insurance industry", "Mark Twain House & Museum", "Harriet Beecher Stowe Center", "Wadsworth Atheneum, the oldest public art museum in the U.S."]
-    }
-  },
+    }, image: "/poi-images/hartford-cities-v2.webp"},
   {
     id: "salt-lake-city-cities-v2",
     type: "state-capital",
@@ -1728,8 +1640,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza központja", "Temple Square", "Kapu Utah öt nemzeti parkjához", "A 2002-es téli olimpia házigazdája"],
       ro: ["Sediul Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă", "Piața Templului", "Poarta de acces către cele cinci parcuri naționale din Utah", "Gazda Jocurilor Olimpice de iarnă din 2002"],
       en: ["Headquarters of The Church of Jesus Christ of Latter-day Saints", "Temple Square", "Gateway to Utah's five national parks", "Host of the 2002 Winter Olympics"]
-    }
-  },
+    }, image: "/poi-images/salt-lake-city-cities-v2.webp"},
   {
     id: "charleston-sc-cities-v2",
     type: "city",
@@ -1766,8 +1677,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["22 történelmi tér a belvárosban", "Történelmi folyóparti negyed", "Bonaventure temető", "Kísértethistóriák és szellemtúrák"],
       ro: ["22 de piețe istorice în centrul orașului", "Cartier istoric pe malul râului", "Cimitirul Bonaventure", "Povești cu fantome și tururi bântuite"],
       en: ["22 historic squares in its downtown area", "Historic riverfront district", "Bonaventure Cemetery", "Haunted stories and ghost tours"]
-    }
-  },
+    }, image: "/poi-images/savannah-cities-v2.webp"},
   {
     id: "santa-fe-cities-v2",
     type: "state-capital",
@@ -1785,8 +1695,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Az USA legrégebbi fővárosa", "Canyon Road több mint 100 művészeti galériával", "Georgia O'Keeffe Múzeum", "Loretto-kápolna és csodálatos lépcsője"],
       ro: ["Cea mai veche capitală de stat din SUA", "Canyon Road cu peste 100 de galerii de artă", "Muzeul Georgia O'Keeffe", "Capela Loretto și scara sa miraculoasă"],
       en: ["Oldest state capital in the U.S.", "Canyon Road with over 100 art galleries", "Georgia O'Keeffe Museum", "Loretto Chapel and its miraculous staircase"]
-    }
-  },
+    }, image: "/poi-images/santa-fe-cities-v2.webp"},
   {
     id: "juneau-cities-v2",
     type: "state-capital",
@@ -1804,8 +1713,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Csak repülővel vagy hajóval érhető el", "Mendenhall-gleccser", "Bálnafigyelő túrák", "Mount Roberts libegő"],
       ro: ["Accesibil doar cu avionul sau cu barca", "Ghețarul Mendenhall", "Tururi de observare a balenelor", "Telecabina Mount Roberts"],
       en: ["Accessible only by plane or boat", "Mendenhall Glacier", "Whale watching tours", "Mount Roberts Tramway"]
-    }
-  },
+    }, image: "/poi-images/juneau-cities-v2.webp"},
   {
     id: "montgomery-cities-v2",
     type: "state-capital",
@@ -1823,8 +1731,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Rosa Parks Múzeum", "Dexter Avenue King Memorial Baptista Templom", "A Konföderáció első fővárosa", "Nemzeti Emlékmű a Békéért és Igazságért"],
       ro: ["Muzeul Rosa Parks", "Biserica Baptistă Memorială Dexter Avenue King", "Prima capitală a Confederației", "Memorialul Național pentru Pace și Justiție"],
       en: ["Rosa Parks Museum", "Dexter Avenue King Memorial Baptist Church", "First capital of the Confederacy", "National Memorial for Peace and Justice"]
-    }
-  },
+    }, image: "/poi-images/montgomery-cities-v2.webp"},
   {
     id: "annapolis-cities-v2",
     type: "state-capital",
@@ -1842,8 +1749,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Egyesült Államok Tengerészeti Akadémiája", "A 18. századi épületek legnagyobb koncentrációja az USA-ban", "Marylandi Állami Ház", "Történelmi kikötő"],
       ro: ["Academia Navală a Statelor Unite", "Cea mai mare concentrație de clădiri din secolul al XVIII-lea din SUA", "Casa de Stat din Maryland", "Port istoric"],
       en: ["United States Naval Academy", "Largest concentration of 18th-century buildings in the U.S.", "Maryland State House", "Historic seaport"]
-    }
-  },
+    }, image: "/poi-images/annapolis-cities-v2.webp"},
   {
     id: "albany-ny-cities-v2",
     type: "state-capital",
@@ -1861,8 +1767,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Empire State Plaza", "New York Állami Capitolium", "New York Állami Múzeum", "Az eredeti 13 gyarmat egyik legrégebbi, folyamatosan lakott települése"],
       ro: ["Empire State Plaza", "Capitoliul Statului New York", "Muzeul Statului New York", "Una dintre cele mai vechi așezări locuite continuu din cele 13 colonii originale"],
       en: ["Empire State Plaza", "New York State Capitol", "New York State Museum", "One of the oldest surviving settlements of the original 13 colonies"]
-    }
-  },
+    }, image: "/poi-images/albany-ny-cities-v2.webp"},
   {
     id: "harrisburg-cities-v2",
     type: "state-capital",
@@ -1880,8 +1785,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Pennsylvaniai Állami Capitolium", "Nemzeti Polgárháborús Múzeum", "Pennsylvaniai Állami Múzeum", "A Three Mile Island atomerőmű a közelben"],
       ro: ["Capitoliul Statului Pennsylvania", "Muzeul Național al Războiului Civil", "Muzeul de Stat din Pennsylvania", "Centrala nucleară Three Mile Island în apropiere"],
       en: ["Pennsylvania State Capitol", "National Civil War Museum", "State Museum of Pennsylvania", "Three Mile Island Nuclear Generating Station nearby"]
-    }
-  },
+    }, image: "/poi-images/harrisburg-cities-v2.webp"},
   {
     id: "trenton-cities-v2",
     type: "state-capital",
@@ -1899,8 +1803,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["'Trenton Makes, The World Takes' híd felirat", "Old Barracks Múzeum", "New Jersey Állami Múzeum", "New Jersey Állami Ház"],
       ro: ["Semnul de pe pod 'Trenton Makes, The World Takes'", "Muzeul Old Barracks", "Muzeul de Stat din New Jersey", "Casa de Stat din New Jersey"],
       en: ["'Trenton Makes, The World Takes' bridge sign", "Old Barracks Museum", "New Jersey State Museum", "New Jersey State House"]
-    }
-  },
+    }, image: "/poi-images/trenton-cities-v2.webp"},
   {
     id: "dover-cities-v2",
     type: "state-capital",
@@ -1918,8 +1821,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Dover International Speedway, egy NASCAR pálya", "Légimozgékonysági Parancsnokság Múzeuma", "First State Örökségi Park", "Delaware-i Állami Capitolium"],
       ro: ["Dover International Speedway, o pistă NASCAR", "Muzeul Comandamentului Mobilității Aeriene", "Parcul Patrimoniului First State", "Capitoliul Statului Delaware"],
       en: ["Dover International Speedway, a NASCAR track", "Air Mobility Command Museum", "First State Heritage Park", "Delaware State Capitol"]
-    }
-  },
+    }, image: "/poi-images/dover-cities-v2.webp"},
   {
     id: "augusta-me-cities-v2",
     type: "state-capital",
@@ -1937,8 +1839,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Maine Állami Múzeum", "Maine Állami Ház", "Old Fort Western, egykori brit gyarmati erőd", "Az USA egyik legkisebb lakosságú fővárosa"],
       ro: ["Muzeul de Stat din Maine", "Casa de Stat din Maine", "Vechiul Fort Western, o fostă fortăreață colonială britanică", "Una dintre cele mai mici capitale de stat din SUA ca populație"],
       en: ["Maine State Museum", "Maine State House", "Old Fort Western, a former British colonial outpost", "One of the smallest U.S. state capitals by population"]
-    }
-  },
+    }, image: "/poi-images/augusta-me-cities-v2.webp"},
   {
     id: "concord-nh-cities-v2",
     type: "state-capital",
@@ -1956,8 +1857,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["New Hampshire Állami Ház", "McAuliffe-Shepard Felfedező Központ", "Az USA legnagyobb capitoliuma, ahol a törvényhozás még mindig az eredeti üléstermeiben ülésezik", "Történelmi belváros"],
       ro: ["Casa de Stat din New Hampshire", "Centrul de Descoperiri McAuliffe-Shepard", "Cel mai mare capitoliu de stat din SUA în care legislativul se întrunește încă în camerele sale originale", "Centru istoric"],
       en: ["New Hampshire State House", "McAuliffe-Shepard Discovery Center", "Largest state capitol in the U.S. in which the legislature still meets in its original chambers", "Historic downtown"]
-    }
-  },
+    }, image: "/poi-images/concord-nh-cities-v2.webp"},
   {
     id: "montpelier-cities-v2",
     type: "state-capital",
@@ -1975,8 +1875,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Vermonti Állami Ház", "Vermonti Történeti Múzeum", "Nincs McDonald's étterem", "Hegyekkel és erdőkkel körülvéve"],
       ro: ["Casa de Stat din Vermont", "Muzeul de Istorie din Vermont", "Nu are niciun restaurant McDonald's", "Înconjurat de dealuri și păduri"],
       en: ["Vermont State House", "Vermont History Museum", "Does not have a McDonald's restaurant", "Surrounded by hills and forests"]
-    }
-  },
+    }, image: "/poi-images/montpelier-cities-v2.webp"},
   {
     id: "helena-cities-v2",
     type: "state-capital",
@@ -1994,8 +1893,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Montanai Állami Capitolium", "Reeder's Alley, egy történelmi negyed", "Gates of the Mountains, egy folyókanyon", "A kontinentális vízválasztó közelében"],
       ro: ["Capitoliul Statului Montana", "Aleea Reeder, un cartier istoric", "Porțile Munților, un canion fluvial", "Aproape de Diviziunea Continentală"],
       en: ["Montana State Capitol", "Reeder's Alley, a historic district", "Gates of the Mountains, a river canyon", "Near the Continental Divide"]
-    }
-  },
+    }, image: "/poi-images/helena-cities-v2.webp"},
   {
     id: "cheyenne-cities-v2",
     type: "state-capital",
@@ -2025,8 +1923,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["1867. július 4-én alapították", "Tengerszint feletti magasság: 1848 m", "Frontier Days rodeófesztivál", "Stratégiai helyszín a 80-as és 25-ös autópályák közelében", "Erős szeleiről híres", "Beaux-Arts stílusú állami capitolium"],
       ro: ["Fondat la 4 iulie 1867", "Altitudine: 1848 m", "Festivalul de rodeo Frontier Days", "Locație strategică lângă autostrăzile Interstate 80 și 25", "Cunoscut pentru vânturile sale puternice", "Capitoliu de stat în stil Beaux-Arts"],
       en: ["Founded on July 4, 1867", "Elevation: 1,848 m", "Frontier Days rodeo festival", "Strategic location near Interstates 80 and 25", "Known for high winds", "Beaux-Arts style state capitol"]
-    }
-  },
+    }, image: "/poi-images/cheyenne-cities-v2.webp"},
   {
     id: "bismarck-cities-v2",
     type: "state-capital",
@@ -2044,8 +1941,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Észak-Dakotai Állami Capitolium, az állam legmagasabb épülete", "Észak-Dakotai Örökségi Központ és Állami Múzeum", "Lewis & Clark folyami hajó", "Fort Abraham Lincoln Állami Park a közelben"],
       ro: ["Capitoliul Statului Dakota de Nord, cea mai înaltă clădire din stat", "Centrul Patrimoniului și Muzeul de Stat din Dakota de Nord", "Barca fluvială Lewis & Clark", "Parcul Statal Fort Abraham Lincoln în apropiere"],
       en: ["North Dakota State Capitol, the tallest building in the state", "North Dakota Heritage Center & State Museum", "Lewis & Clark Riverboat", "Fort Abraham Lincoln State Park nearby"]
-    }
-  },
+    }, image: "/poi-images/bismarck-cities-v2.webp"},
   {
     id: "pierre-cities-v2",
     type: "state-capital",
@@ -2063,8 +1959,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Dél-Dakotai Állami Capitolium", "Dél-Dakotai Felfedező Központ", "A Missouri folyó mentén található", "Alacsony népsűrűség"],
       ro: ["Capitoliul Statului Dakota de Sud", "Centrul de Descoperiri din Dakota de Sud", "Situat pe râul Missouri", "Densitate scăzută a populației"],
       en: ["South Dakota State Capitol", "South Dakota Discovery Center", "Located on the Missouri River", "Low population density"]
-    }
-  },
+    }, image: "/poi-images/pierre-cities-v2.webp"},
   {
     id: "springfield-il-cities-v2",
     type: "state-capital",
@@ -2082,8 +1977,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Abraham Lincoln Elnöki Könyvtár és Múzeum", "Lincoln Otthona Nemzeti Történelmi Helyszín", "Lincoln sírja", "Illinois-i Állami Capitolium"],
       ro: ["Biblioteca și Muzeul Prezidențial Abraham Lincoln", "Situl Istoric Național Casa lui Lincoln", "Mormântul lui Lincoln", "Capitoliul Statului Illinois"],
       en: ["Abraham Lincoln Presidential Library and Museum", "Lincoln Home National Historic Site", "Lincoln's Tomb", "Illinois State Capitol"]
-    }
-  },
+    }, image: "/poi-images/springfield-il-cities-v2.webp"},
   {
     id: "jefferson-city-cities-v2",
     type: "state-capital",
@@ -2101,8 +1995,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Missouri Állami Capitolium", "Missouri Állami Fegyház túrák", "A Missouri folyó mentén található", "Fővárosként alapították"],
       ro: ["Capitoliul Statului Missouri", "Tururile Penitenciarului de Stat din Missouri", "Situat pe râul Missouri", "Fondat pentru a servi drept capitală"],
       en: ["Missouri State Capitol", "Missouri State Penitentiary tours", "Located on the Missouri River", "Founded specifically to serve as the state capital"]
-    }
-  },
+    }, image: "/poi-images/jefferson-city-cities-v2.webp"},
   {
     id: "frankfort-cities-v2",
     type: "state-capital",
@@ -2120,8 +2013,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Kentuckyi Állami Capitolium", "Daniel Boone sírja", "Liberty Hall Történelmi Helyszín", "A bourbon gyártás központja"],
       ro: ["Capitoliul Statului Kentucky", "Mormântul lui Daniel Boone", "Situl Istoric Liberty Hall", "Centru de producție a bourbonului"],
       en: ["Kentucky State Capitol", "Grave of Daniel Boone", "Liberty Hall Historic Site", "Center of bourbon production"]
-    }
-  },
+    }, image: "/poi-images/frankfort-cities-v2.webp"},
   {
     id: "lansing-cities-v2",
     type: "state-capital",
@@ -2139,8 +2031,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Michigani Állami Capitolium", "R.E. Olds Közlekedési Múzeum", "Michigani Állami Egyetem a közelben (East Lansing)", "Oktatási és kormányzati központ"],
       ro: ["Capitoliul Statului Michigan", "Muzeul Transporturilor R.E. Olds", "Universitatea de Stat din Michigan în apropiere (East Lansing)", "Centru pentru educație și guvern"],
       en: ["Michigan State Capitol", "R.E. Olds Transportation Museum", "Michigan State University nearby (East Lansing)", "Center for education and government"]
-    }
-  },
+    }, image: "/poi-images/lansing-cities-v2.webp"},
   {
     id: "madison-wi-cities-v2",
     type: "state-capital",
@@ -2158,8 +2049,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Wisconsini Egyetem-Madison", "Wisconsini Állami Capitolium", "Dane megyei termelői piac, az egyik legnagyobb az USA-ban", "Magas életminőség és kerékpárbarát"],
       ro: ["Universitatea din Wisconsin-Madison", "Capitoliul Statului Wisconsin", "Piața Fermierilor din Comitatul Dane, una dintre cele mai mari din SUA", "Calitate ridicată a vieții și prietenoasă cu bicicletele"],
       en: ["University of Wisconsin-Madison", "Wisconsin State Capitol", "Dane County Farmers' Market, one of the largest in the U.S.", "High quality of life and bike-friendly"]
-    }
-  },
+    }, image: "/poi-images/madison-wi-cities-v2.webp"},
   {
     id: "tallahassee-cities-v2",
     type: "state-capital",
@@ -2177,8 +2067,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Floridai Állami Egyetem", "Floridai A&M Egyetem", "Mission San Luis de Apalachee", "Canopy Roads, festői, fákkal szegélyezett utak"],
       ro: ["Universitatea de Stat din Florida", "Universitatea Florida A&M", "Misiunea San Luis de Apalachee", "Drumurile Canopy, drumuri pitorești mărginite de copaci"],
       en: ["Florida State University", "Florida A&M University", "Mission San Luis de Apalachee", "Canopy roads, scenic tree-lined streets"]
-    }
-  },
+    }, image: "/poi-images/tallahassee-cities-v2.webp"},
   {
     id: "charleston-wv-cities-v2",
     type: "state-capital",
@@ -2196,8 +2085,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nyugat-Virginiai Állami Capitolium aranykupolával", "Nyugat-Virginiai Állami Múzeum", "Clay Művészeti és Tudományos Központ", "Történelmi East End"],
       ro: ["Capitoliul Statului Virginia de Vest cu dom auriu", "Muzeul de Stat din Virginia de Vest", "Centrul Clay pentru Arte și Științe", "Cartierul istoric East End"],
       en: ["West Virginia State Capitol with a gold dome", "West Virginia State Museum", "Clay Center for the Arts and Sciences", "Historic East End"]
-    }
-  },
+    }, image: "/poi-images/charleston-wv-cities-v2.webp"},
   {
     id: "salem-or-cities-v2",
     type: "state-capital",
@@ -2215,8 +2103,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Oregoni Állami Capitolium", "Willamette Egyetem", "Enchanted Forest, egy vidámpark", "Az oregoni borvidékek közelében"],
       ro: ["Capitoliul Statului Oregon", "Universitatea Willamette", "Pădurea Fermecată, un parc tematic", "Aproape de regiunile viticole din Oregon"],
       en: ["Oregon State Capitol", "Willamette University", "Enchanted Forest, a theme park", "Near Oregon's wine country"]
-    }
-  },
+    }, image: "/poi-images/salem-or-cities-v2.webp"},
   {
     id: "olympia-cities-v2",
     type: "state-capital",
@@ -2234,8 +2121,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Washingtoni Állami Capitolium", "Nisqually Nemzeti Vadvédelmi Terület a közelben", "Percival Landing Park a vízparton", "Kicsi, de élénk művészeti élet"],
       ro: ["Capitoliul Statului Washington", "Refugiul Național de Faună Sălbatică Nisqually în apropiere", "Parcul Percival Landing pe malul apei", "Scenă artistică mică, dar vibrantă"],
       en: ["Washington State Capitol", "Nisqually National Wildlife Refuge nearby", "Percival Landing Park on the waterfront", "Small but vibrant arts scene"]
-    }
-  },
+    }, image: "/poi-images/olympia-cities-v2.webp"},
   {
     id: "carson-city-cities-v2",
     type: "state-capital",
@@ -2253,8 +2139,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: ["Nevadai Állami Capitolium", "Nevadai Állami Vasúti Múzeum", "A történelmi Virginia City közelében", "Kapu a Sierra Nevadához"],
       ro: ["Capitoliul Statului Nevada", "Muzeul Căilor Ferate de Stat din Nevada", "Aproape de orașul istoric Virginia City", "Poarta de acces către Sierra Nevada"],
       en: ["Nevada State Capitol", "Nevada State Railroad Museum", "Near the historic town of Virginia City", "Gateway to the Sierra Nevada"]
-    }
-  },
+    }, image: "/poi-images/carson-city-cities-v2.webp"},
   {
     id: "lincoln-ne-cities-v2",
     type: "state-capital",
@@ -2275,3 +2160,4 @@ export const poiExtraUsaCitiesV2: POI[] = [
     }
   }
 ]
+

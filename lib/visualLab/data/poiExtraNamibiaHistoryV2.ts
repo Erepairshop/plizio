@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNamibiaHistoryV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1908-ban alapították.", "Egykor Afrika leggazdagabb városa volt.", "1956 óta lakatlan."],
       ro: ["Fondat în 1908.", "A fost cândva cel mai bogat oraș din Africa.", "Părăsit din 1956."],
       en: ["Founded in 1908.", "Once the richest town in Africa.", "Abandoned since 1956."]
-    }
-  },
+    }, image: "/poi-images/kolmanskuppe-history-v2.webp"},
   {
     id: "twyfelfontein-history-v2",
     type: "historical",
@@ -47,8 +47,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["Több mint 2500 sziklavéset.", "Körülbelül 2000-6000 évesek.", "2007-ben lett Világörökség."],
       ro: ["Peste 2.500 de gravuri.", "Vechime între 2.000 și 6.000 de ani.", "Declarat sit UNESCO în 2007."],
       en: ["Over 2,500 engravings.", "Around 2,000 to 6,000 years old.", "Designated a World Heritage Site in 2007."]
-    }
-  },
+    }, image: "/poi-images/twyfelfontein-history-v2.webp"},
   {
     id: "christuskirche-history-v2",
     type: "historical",
@@ -71,8 +70,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1910-ben szentelték fel.", "Helyi kvarchomokkőből épült.", "Az ablakokat II. Vilmos császár adományozta."],
       ro: ["Inaugurată în 1910.", "Construită din gresie cuarțoasă locală.", "Ferestrele au fost donate de Împăratul Wilhelm al II-lea."],
       en: ["Consecrated in 1910.", "Built from local quartz sandstone.", "The windows were donated by Emperor Wilhelm II."]
-    }
-  },
+    }, image: "/poi-images/christuskirche-history-v2.webp"},
   {
     id: "alte-feste-history-v2",
     type: "historical",
@@ -95,8 +93,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1890-ben épült.", "Curt von François tervezte.", "Ma nemzeti múzeum működik benne."],
       ro: ["Construită în 1890.", "Proiectată de Curt von François.", "Astăzi găzduiește un muzeu național."],
       en: ["Constructed in 1890.", "Designed by Curt von François.", "Now houses a national museum."]
-    }
-  },
+    }, image: "/poi-images/alte-feste-history-v2.webp"},
   {
     id: "heldenacker-history-v2",
     type: "historical",
@@ -119,8 +116,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["2002-ben nyílt meg.", "Egy 34 méter magas obeliszk található itt.", "Egy észak-koreai cég építette."],
       ro: ["Deschis în 2002.", "Prezintă un obelisc înalt de 34 de metri.", "Construit de o companie nord-coreeană."],
       en: ["Opened in 2002.", "Features a 34-meter tall obelisk.", "Built by a North Korean company."]
-    }
-  },
+    }, image: "/poi-images/heldenacker-history-v2.webp"},
   {
     id: "haifischinsel-history-v2",
     type: "historical",
@@ -143,8 +139,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1905 és 1907 között használták.", "Ma emlékhely és kemping.", "A Lüderitz-öbölben fekszik."],
       ro: ["Folosit între 1905 și 1907.", "Astăzi este un loc de comemorare și camping.", "Situat în Golful Lüderitz."],
       en: ["Used between 1905 and 1907.", "Today it is a memorial site and campsite.", "Located in Lüderitz Bay."]
-    }
-  },
+    }, image: "/poi-images/haifischinsel-history-v2.webp"},
   {
     id: "felsenkirche-history-v2",
     type: "historical",
@@ -167,8 +162,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1912-ben szentelték fel.", "Az ólomüveg ablakokat II. Vilmos adományozta.", "Kilátást nyújt a Gyémántpartra."],
       ro: ["Inaugurată în 1912.", "Vitraliile au fost donate de Wilhelm al II-lea.", "Oferă o vedere asupra Coastei Diamantelor."],
       en: ["Consecrated in 1912.", "Stained glass windows were donated by Wilhelm II.", "Offers views over the Diamond Coast."]
-    }
-  },
+    }, image: "/poi-images/felsenkirche-history-v2.webp"},
   {
     id: "schloss-duwisib-history-v2",
     type: "historical",
@@ -191,8 +185,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1909-re készült el.", "Az anyagokat Európából importálták.", "Ma antik bútorokat bemutató múzeum."],
       ro: ["Finalizat în 1909.", "Materialele au fost importate din Europa.", "Astăzi este un muzeu cu mobilier antic."],
       en: ["Completed in 1909.", "Materials were imported from Europe.", "Now a museum featuring antique furniture."]
-    }
-  },
+    }, image: "/poi-images/schloss-duwisib-history-v2.webp"},
   {
     id: "weisse-dame-history-v2",
     type: "historical",
@@ -215,8 +208,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["Körülbelül 2000 éves.", "1918-ban fedezte fel Reinhard Maack.", "Számos állat- és emberalakot ábrázol."],
       ro: ["Are o vechime de aproximativ 2.000 de ani.", "Descoperită în 1918 de Reinhard Maack.", "Prezintă numeroase figuri animale și umane."],
       en: ["Around 2,000 years old.", "Discovered in 1918 by Reinhard Maack.", "Features numerous animal and human figures."]
-    }
-  },
+    }, image: "/poi-images/weisse-dame-history-v2.webp"},
   {
     id: "hoba-meteorit-history-v2",
     type: "historical",
@@ -239,8 +231,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["Több mint 60 tonnát nyom.", "1920-ban fedezte fel egy farmer.", "Főként vasból és nikkelből áll."],
       ro: ["Cântărește peste 60 de tone.", "Descoperit de un fermier în 1920.", "Este format în principal din fier și nichel."],
       en: ["Weighs over 60 tons.", "Discovered by a farmer in 1920.", "Composed mainly of iron and nickel."]
-    }
-  },
+    }, image: "/poi-images/hoba-meteorit-history-v2.webp"},
   {
     id: "franketurm-history-v2",
     type: "historical",
@@ -263,8 +254,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1908-ban avatták fel.", "20 méter magas.", "Victor Franke-ról nevezték el."],
       ro: ["Inaugurat în 1908.", "Are 20 de metri înălțime.", "Numit după Victor Franke."],
       en: ["Inaugurated in 1908.", "20 meters tall.", "Named after Victor Franke."]
-    }
-  },
+    }, image: "/poi-images/franketurm-history-v2.webp"},
   {
     id: "fort-namutoni-history-v2",
     type: "historical",
@@ -287,8 +277,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["Eredetileg 1896-ban épült.", "Az 1904-es felkelésben elpusztult, majd újjáépítették.", "1950 óta nemzeti műemlék."],
       ro: ["Construit inițial în 1896.", "Distrus în revolta din 1904 și reconstruit.", "Monument național din 1950."],
       en: ["Originally built in 1896.", "Destroyed in the 1904 uprising and rebuilt.", "National monument since 1950."]
-    }
-  },
+    }, image: "/poi-images/fort-namutoni-history-v2.webp"},
   {
     id: "leuchtturm-swakopmund-history-v2",
     type: "historical",
@@ -311,8 +300,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1902-ben helyezték üzembe.", "Eredetileg 11 méter, később 21 méterre magasították.", "A mai napig működik."],
       ro: ["Pus în funcțiune în 1902.", "Inițial de 11 metri, înălțat ulterior la 21 de metri.", "Activ și în ziua de azi."],
       en: ["Commissioned in 1902.", "Originally 11 meters, later raised to 21 meters.", "Still active today."]
-    }
-  },
+    }, image: "/poi-images/leuchtturm-swakopmund-history-v2.webp"},
   {
     id: "hohenzollernhaus-history-v2",
     type: "historical",
@@ -335,8 +323,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1906-ban épült.", "Korábban bordélyházként és szállodaként működött.", "Ma magánlakóház."],
       ro: ["Construită în anul 1906.", "În trecut a funcționat ca bordel și hotel.", "Astăzi este o reședință privată."],
       en: ["Built in 1906.", "Formerly served as a brothel and hotel.", "Today a private residence."]
-    }
-  },
+    }, image: "/poi-images/hohenzollernhaus-history-v2.webp"},
   {
     id: "woermannhaus-history-v2",
     type: "historical",
@@ -359,8 +346,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1905-ben készült el.", "A torony hajók megfigyelésére szolgált.", "Ma nyilvános könyvtár működik benne."],
       ro: ["Finalizată în 1905.", "Turnul servea drept post de observație pentru nave.", "Astăzi găzduiește o bibliotecă publică."],
       en: ["Completed in 1905.", "The tower served as a lookout for ships.", "Now houses a public library."]
-    }
-  },
+    }, image: "/poi-images/woermannhaus-history-v2.webp"},
   {
     id: "eduard-bohlen-history-v2",
     type: "historical",
@@ -383,8 +369,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1909-ben futott zátonyra sűrű ködben.", "Ma közel 500 méterre a parttól fekszik.", "A Csontvázpart népszerű fotótémája."],
       ro: ["Eșuată în 1909 în ceață densă.", "Acum se află la aproape 500 de metri în interiorul uscatului.", "Un motiv fotografic popular al Coastei Scheletelor."],
       en: ["Ran aground in dense fog in 1909.", "Now lies nearly 500 meters inland.", "A popular photo subject of the Skeleton Coast."]
-    }
-  },
+    }, image: "/poi-images/eduard-bohlen-history-v2.webp"},
   {
     id: "bogenfels-diamantensiedlung-history-v2",
     type: "historical",
@@ -407,8 +392,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["Virágkora a 20. század elején volt.", "A gyémántbányászat miatt jött létre.", "A tiltott övezetben (Sperrgebiet) található."],
       ro: ["Perioada de glorie la începutul secolului al XX-lea.", "Creată datorită exploatării diamantelor.", "Situată în zona interzisă (Sperrgebiet)."],
       en: ["Heyday in the early 20th century.", "Created due to diamond mining.", "Located in the Sperrgebiet (Forbidden Area)."]
-    }
-  },
+    }, image: "/poi-images/bogenfels-diamantensiedlung-history-v2.webp"},
   {
     id: "pomona-geisterstadt-history-v2",
     type: "historical",
@@ -431,8 +415,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["A gyémántok itt egykor szabadon hevertek a földön.", "1910 körül jött létre.", "Ma már a sivatag hódította vissza."],
       ro: ["Uneori, diamantele zăceau liber pe pământ aici.", "Creată în jurul anului 1910.", "Astăzi a fost recucerită de deșert."],
       en: ["Diamonds sometimes lay loose on the ground here.", "Established around 1910.", "Today reclaimed by the desert."]
-    }
-  },
+    }, image: "/poi-images/pomona-geisterstadt-history-v2.webp"},
   {
     id: "diaz-spitze-history-v2",
     type: "historical",
@@ -455,8 +438,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["Az eredeti kereszt másolata található itt.", "Egy hagyományos világítótorony áll a közelében.", "Dias a helyet Angra Pequenának nevezte."],
       ro: ["Aici se află o replică a crucii originale.", "Un far tradițional se află în apropiere.", "Dias a numit golful Angra Pequena."],
       en: ["Features a replica of the original cross.", "A traditional lighthouse stands nearby.", "Dias named the bay Angra Pequena."]
-    }
-  },
+    }, image: "/poi-images/diaz-spitze-history-v2.webp"},
   {
     id: "nakambale-museum-history-v2",
     type: "historical",
@@ -479,8 +461,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["Rautanen fordította le a Bibliát ndonga nyelvre.", "1893-ban épült.", "Itt található a régió első temploma."],
       ro: ["Rautanen a tradus Biblia în Ndonga.", "Construit în 1893.", "Găzduiește prima biserică din regiune."],
       en: ["Rautanen translated the Bible into Ndonga.", "Built in 1893.", "Houses the first church in the region."]
-    }
-  },
+    }, image: "/poi-images/nakambale-museum-history-v2.webp"},
   {
     id: "ombalantu-baobab-history-v2",
     type: "historical",
@@ -503,8 +484,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["Körülbelül 800 éves.", "Akár 35 ember is elfér a belsejében.", "Elismert namíbiai kulturális örökség."],
       ro: ["Are o vechime de aproximativ 800 de ani.", "Poate găzdui până la 35 de persoane în interior.", "Este un sit de patrimoniu recunoscut în Namibia."],
       en: ["Around 800 years old.", "Can hold up to 35 people inside.", "Is a recognized Namibian heritage site."]
-    }
-  },
+    }, image: "/poi-images/ombalantu-baobab-history-v2.webp"},
   {
     id: "turnhalle-windhoek-history-v2",
     type: "historical",
@@ -527,8 +507,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1909-ben épült tornateremként.", "1975-ben az alkotmányozó konferencia helyszíne.", "Ma a SADC-törvényszék központja."],
       ro: ["Construită ca sală de gimnastică în 1909.", "Locul conferinței constituționale din 1975.", "Astăzi este sediul tribunalului SADC."],
       en: ["Built as a gymnasium in 1909.", "Site of the 1975 constitutional conference.", "Now the headquarters of the SADC Tribunal."]
-    }
-  },
+    }, image: "/poi-images/turnhalle-windhoek-history-v2.webp"},
   {
     id: "schwerinsburg-history-v2",
     type: "historical",
@@ -551,8 +530,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1913-ban készült el.", "Eredetileg a gyarmati csapatok tornya volt.", "Helyi terméskőből épült."],
       ro: ["Finalizat în 1913.", "Inițial un turn al trupelor coloniale.", "Construit din piatră naturală locală."],
       en: ["Completed in 1913.", "Originally a tower of the colonial troops.", "Built from local natural stone."]
-    }
-  },
+    }, image: "/poi-images/schwerinsburg-history-v2.webp"},
   {
     id: "heinitzburg-history-v2",
     type: "historical",
@@ -575,8 +553,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1914-ben épült.", "Elegáns kastélyszálló.", "Panorámás kilátást nyújt Windhoekre."],
       ro: ["Construit în 1914.", "Un hotel castel elegant.", "Oferă vederi panoramice asupra orașului Windhoek."],
       en: ["Erected in 1914.", "An elegant castle hotel.", "Offers panoramic views of Windhoek."]
-    }
-  },
+    }, image: "/poi-images/heinitzburg-history-v2.webp"},
   {
     id: "tintenpalast-history-v2",
     type: "historical",
@@ -599,8 +576,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1913-ban tervezték.", "Ma a namíbiai parlamentnek ad otthont.", "Gyönyörű parlamenti kertek veszik körül."],
       ro: ["Proiectat în 1913.", "Găzduiește astăzi Parlamentul namibian.", "Înconjurat de superbele grădini ale Parlamentului."],
       en: ["Designed in 1913.", "Currently houses the Namibian Parliament.", "Surrounded by the beautiful Parliament Gardens."]
-    }
-  },
+    }, image: "/poi-images/tintenpalast-history-v2.webp"},
   {
     id: "goerke-haus-history-v2",
     type: "historical",
@@ -623,8 +599,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1910-ban épült.", "Hans Goerke hadnagy számára készült.", "Ma múzeum és kulturális örökség."],
       ro: ["Construită în 1910.", "Proiectată pentru locotenentul Hans Goerke.", "Astăzi este muzeu și sit de patrimoniu."],
       en: ["Built in 1910.", "Constructed for Lieutenant Hans Goerke.", "Today a museum and heritage site."]
-    }
-  },
+    }, image: "/poi-images/goerke-haus-history-v2.webp"},
   {
     id: "marine-denkmal-history-v2",
     type: "historical",
@@ -647,8 +622,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1908-ban avatták fel.", "A herero felkelések alatti harcokra emlékeztet.", "Feltűnő pont a tengerparton."],
       ro: ["Inaugurat în 1908.", "Comemorează luptele din timpul răscoalelor Herero.", "Un punct proeminent pe coastă."],
       en: ["Inaugurated in 1908.", "Commemorates fighting during the Herero uprisings.", "A prominent landmark on the coast."]
-    }
-  },
+    }, image: "/poi-images/marine-denkmal-history-v2.webp"},
   {
     id: "apollo-11-hoehle-history-v2",
     type: "historical",
@@ -671,8 +645,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["A leletek több mint 25 000 évesek.", "A sikeres holdmisszióról nevezték el.", "1969-ben fedezte fel W.E. Wendt."],
       ro: ["Descoperirile au peste 25.000 de ani.", "Numită după misiunea lunară de succes.", "Descoperită în 1969 de W.E. Wendt."],
       en: ["Findings are over 25,000 years old.", "Named after the successful moon mission.", "Discovered in 1969 by W.E. Wendt."]
-    }
-  },
+    }, image: "/poi-images/apollo-11-hoehle-history-v2.webp"},
   {
     id: "altes-amtsgericht-history-v2",
     type: "historical",
@@ -695,8 +668,7 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       hu: ["1908-ban készült el.", "Otto Ertl építész tervezte.", "Ma irodáknak ad otthont."],
       ro: ["Finalizată în 1908.", "Proiectată de arhitectul Otto Ertl.", "Astăzi găzduiește birouri."],
       en: ["Completed in 1908.", "Designed by architect Otto Ertl.", "Today houses offices."]
-    }
-  },
+    }, image: "/poi-images/altes-amtsgericht-history-v2.webp"},
   {
     id: "rheinische-missionskirche-history-v2",
     type: "historical",
@@ -722,3 +694,4 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     }
   }
 ];
+

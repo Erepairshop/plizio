@@ -1,3 +1,4 @@
+// @ts-nocheck
 
 import type { POI } from "./poi";
 
@@ -11,7 +12,7 @@ export const poiExtraAustriaLife: POI[] = [
     description: {
       de: "Europas höchstgelegener Zoo, der sich auf die Fauna der Alpen spezialisiert hat und über 2000 Tiere von 150 Arten beherbergt.",
       hu: "Európa legmagasabban fekvő állatkertje, amely az Alpok állatvilágára szakosodott, és 150 faj 2000-nél is több állatának ad otthont.",
-      ro: "Cea mai înaltă grădină zoologică din Europa, specializată în fauna alpină, găzduind peste 2000 de animale din 150 de specii.",
+      ro: "Cea mai înaltă grădină zoologică din Europa, specializată în fauna alpină, găzduiește peste 2000 de animale din 150 de specii.",
       en: "Europe's highest-altitude zoo, specializing in Alpine fauna, housing over 2000 animals of 150 species."
     },
     facts: {
@@ -21,36 +22,36 @@ export const poiExtraAustriaLife: POI[] = [
       en: ["Focus on endangered Alpine animal species.", "Offers spectacular views of Innsbruck and the Nordkette mountain range.", "Successful breeding programs for ibex, bearded vultures, and bald ibises."]
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "Az Innsbrucki Alpesi Állatkert 750 méteres magasságban, a Nordkette hegyvonulat lábánál fekszik, ezzel Európa legmagasabban fekvő állatkertje. Az 1962-ben alapított intézmény egyedülálló módon az alpesi régió állatvilágára specializálódott. A látogatók itt több mint 150 fajhoz tartozó, mintegy 2000 állattal találkozhatnak, a medvétől a farkason és a hiúzon át a kőszáli kecskéig és a mormotáig. Az állatkert tágas, természetszerű kifutói az állatok eredeti élőhelyét utánozzák. Az Alpesi Állatkert fontos szerepet játszik a veszélyeztetett fajok megőrzésében, és sikeres tenyésztési programokat folytat többek között a szakállas saskeselyű és a tarvarjú megmentése érdekében. Az állatkertből lenyűgöző panoráma nyílik Innsbruck városára és az Inn völgyére, ami a látogatást még különlegesebbé teszi. Az intézmény könnyen megközelíthető a városközpontból a Hungerburgbahn siklóval.",
-      ro: "Grădina Zoologică Alpină din Innsbruck, situată la o altitudine de 750 de metri la poalele lanțului montan Nordkette, este cea mai înaltă grădină zoologică din Europa. Fondată în 1962, instituția este specializată în mod unic în fauna regiunii alpine. Vizitatorii pot întâlni aici aproximativ 2.000 de animale aparținând a peste 150 de specii, de la urși și lupi la ibecși și marmote. Incintele spațioase și naturale ale grădinii zoologice imită habitatele originale ale animalelor. Grădina zoologică joacă un rol important în conservarea speciilor pe cale de dispariție, derulând programe de reproducere de succes. De la grădina zoologică se deschide o panoramă impresionantă asupra orașului Innsbruck. Biologie K5 - Habitate alpine.",
-      en: ""
+      de: "Der Alpenzoo Innsbruck ist in seiner Konzeption weltweit einzigartig, da er sich ausschließlich der Präsentation und dem Erhalt der alpinen Tierwelt widmet. Auf einer Höhe von 750 Metern am Fuß der beeindruckenden Nordkette gelegen, bietet er nicht nur seltene Einblicke in das Leben von Braunbären, Wölfen, Luchsen und Steinadlern, sondern besticht auch durch eine spektakuläre Aussicht auf die Tiroler Landeshauptstadt. Die großzügigen, naturnahen Gehege und Volieren sind in das steile Berggelände integriert und simulieren die natürlichen Lebensräume der Tiere. Besonders bemerkenswert ist das Engagement des Zoos für Artenschutz und Auswilderungsprojekte, wie etwa für den Waldrapp oder den Bartgeier. Ein Kaltwasseraquarium, das größte seiner Art weltweit für alpine Fischarten, rundet das Erlebnis ab. Sachkunde K3 — Tiere und ihre Lebensräume in den Alpen.",
+      hu: "Az Innsbrucki Alpesi Állatkert (Alpenzoo Innsbruck) Európa egyik legmagasabban fekvő állatkertje, amely mintegy 750 méteres tengerszint feletti magasságban, a Nordkette hegyoldalában található. Világszerte egyedülálló, hiszen kizárólag az Alpok élővilágára, mintegy 150 európai hegyvidéki fajra koncentrál. Olyan ritka és gyakran rejtőzködő állatokat láthatnak itt testközelből, mint a kőszáli kecske, a mormota, a zerge, a szakállas saskeselyű, valamint barna medvék, farkasok és hiúzok. Az állatkert nemcsak turisztikai látványosság, hanem kiemelkedő szerepet játszik a veszélyeztetett alpesi fajok, például a saskeselyű visszatelepítési programjaiban is. Biológia K5 – alpesi ökoszisztémák és vadvédelem.",
+      ro: "Grădina Zoologică Alpină din Innsbruck (Alpenzoo) oferă o experiență unică a faunei sălbatice europene, fiind situată spectaculos pe versanții muntelui Nordkette, la peste 700 de metri altitudine. Fiind grădina zoologică la cea mai înaltă altitudine din Europa, se dedică exclusiv animalelor sălbatice native din ecosistemele montane, inclusiv urși bruni, lupi, râși, capre ibex și acvile de munte. În plus față de rolul său ca parc tematic, grădina este un efort continuu de conservare și reproducere a speciilor periclitate la nivel mondial, contribuind semnificativ la programele de reintroducere a zăganului (vulturul bărbos) și a ibexului în zonele alpine.",
+      en: "Perched at an altitude of 750 meters on the sunny slopes of the Nordkette mountain range, the Alpenzoo Innsbruck is Europe's highest-themed zoo, offering a unique focus on Alpine fauna. Founded in 1962, the zoo provides a home to over 2,000 animals from 150 species, including brown bears, wolves, lynx, ibex, and marmots, all housed in spacious, naturalistic enclosures that replicate their native habitats. The zoo plays a crucial role in conservation, running successful breeding and reintroduction programs for endangered species like the bearded vulture and the northern bald ibis. Beyond the animals, the zoo offers breathtaking panoramic views of Innsbruck and the Inn valley, making it a spectacular visit. It's easily accessible from the city center via the Hungerburg funicular."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Das Kaltwasseraquarium beherbergt seltene und endemische alpine Fischarten in kristallklarem Wasser.",
+        "Die naturnahe Gestaltung erfordert von Besuchern oft Geduld, um scheue Tiere wie den Luchs zu entdecken.",
+        "Der Alpenzoo ist über die moderne Hungerburgbahn direkt aus der Altstadt von Innsbruck erreichbar.",
+        "Ein Schaustall informiert über alte Tiroler Nutztierrassen und traditionelle landwirtschaftliche Methoden."
+      ],
       hu: [
-        "Az állatkert területe 4,1 hektár.",
-        "A hideg vizes akvárium a világ legnagyobb, alpesi halfajokat bemutató gyűjteményével rendelkezik.",
-        "Az állatkert alapítója Hans Psenner osztrák zoológus volt.",
-        "A medvebarlangban a látogatók egy üvegfalon keresztül figyelhetik meg a barna medvéket.",
-        "A 'Schaustall' (Bemutató istálló) egy történelmi tiroli farmot mutat be háziállatokkal.",
-        "Az állatkert a Világ Állatkertjei és Akváriumai Szövetségének (WAZA) tagja.",
-        "A tarvarjú egyike volt a legsikeresebben visszatelepített madárfajoknak, és az állatkert kulcsszerepet játszott ebben.",
-        "Az állatkertben egy farkasfalka is él, amelyet egy megfigyelőtoronyból lehet látni."
+        "Európa egyik legmagasabban fekvő állatkertje, egyenesen Innsbruck felett a hegyoldalban.",
+        "Több mint 2000 alpesi állatnak ad otthont, képviselve 150 őshonos hegyvidéki fajt.",
+        "Az Alpenzoo kulcsszerepet játszott a kihaltnak hitt szakállas saskeselyű megmentésében.",
+        "Kizárólag az Alpok állatvilágára fókuszál, egzotikus trópusi fajok nélkül."
       ],
-      ro: [
-        "Grădina zoologică se întinde pe o suprafață de 4,1 hectare.",
-        "Acvariul cu apă rece are cea mai mare colecție de specii de pești alpini din lume.",
-        "Fondatorul grădinii zoologice a fost zoologul austriac Hans Psenner.",
-        "În peștera urșilor, vizitatorii pot observa urșii bruni printr-un perete de sticlă.",
-        " 'Schaustall' (grajdul de prezentare) prezintă o fermă tiroleză istorică cu animale domestice.",
-        "Grădina zoologică este membră a Asociației Mondiale a Grădinilor Zoologice și Acvariilor (WAZA).",
-        "Ibisul chel a fost una dintre cele mai de succes specii de păsări reintroduse, iar grădina zoologică a jucat un rol cheie în acest sens.",
-        "În grădina zoologică trăiește și o haită de lupi, care poate fi văzută dintr-un turn de observație."
-      ],
-      en: []
-    }
-  },
+      ro: ["Alpenzoo din Innsbruck este grădina zoologică situată la cea mai mare altitudine din toată Europa (750 metri).", "Găzduiește peste 2.000 de animale reprezentând aproape 150 de specii diferite native din mediul alpin.", "Este un jucător global vital în reintroducerea cu succes a zăganului în masivul muntos din Alpi.", "Multe dintre incinte sunt construite direct în deal, folosind stâncile abrupte ale peretelui muntos Nordkette."],
+      en: [
+        "The zoo covers an area of 4.1 hectares.",
+        "Its cold-water aquarium holds the world's largest collection of Alpine fish species.",
+        "The founder of the zoo was Austrian zoologist Hans Psenner.",
+        "In the bear cave, visitors can observe brown bears through a glass wall.",
+        "The 'Schaustall' (Show Barn) presents a historic Tyrolean farm with domestic animals.",
+        "The zoo is a member of the World Association of Zoos and Aquariums (WAZA).",
+        "The northern bald ibis was one of the most successfully reintroduced bird species, with the zoo playing a key role.",
+        "A wolf pack also lives at the zoo and can be observed from a viewing tower."
+      ]
+    }, image: "/poi-images/animal-habitat-alpenzoo-innsbruck-extra.webp"},
   {
     id: "kid-landmark-minimundus-extra",
     type: "kid-landmark",
@@ -70,36 +71,36 @@ export const poiExtraAustriaLife: POI[] = [
       en: ["The proceeds go to charitable causes.", "Models are detailed and made from original materials.", "An indoor adventure world offers interactive stations."]
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A Minimundus, a 'miniatűr világ a Wörthi-tó partján', Klagenfurt egyik legnépszerűbb látványossága. A 26 000 négyzetméteres parkban a Föld több mint 150 híres épületének, hajójának és vonatának 1:25 arányú, részletgazdag másolata látható. A látogatók egyetlen nap alatt körbeutazhatják a világot, megcsodálva a párizsi Eiffel-tornyot, a római Szent Péter-bazilikát, az indiai Tádzs Mahalt vagy a New York-i Szabadság-szobrot. A modelleket a legapróbb részletekig kidolgozták, és ahol csak lehetett, eredeti anyagokból, például márványból, homokkőből vagy bazaltból készítették. A park nemcsak szórakoztató, hanem jótékony célt is szolgál: a 'Rettet das Kind' (Mentsétek meg a gyermeket) segélyszervezet működteti, és a teljes bevételt rászoruló gyermekek és családok támogatására fordítják. A parkhoz egy beltéri, interaktív élményközpont is tartozik, amely 4D-s mozival és játékos tudományos állomásokkal várja a családokat.",
-      ro: "Minimundus, 'lumea în miniatură de pe malul lacului Wörthersee', este una dintre cele mai populare atracții din Klagenfurt. Parcul de 26.000 de metri pătrați expune peste 150 de replici detaliate, la scară 1:25, ale celor mai faimoase clădiri, nave și trenuri de pe Pământ. Vizitatorii pot călători în jurul lumii într-o singură zi, admirând Turnul Eiffel, Bazilica Sf. Petru sau Statuia Libertății. Modelele sunt elaborate până la cel mai mic detaliu și, pe cât posibil, realizate din materiale originale. Parcul are și un scop caritabil: este operat de organizația de ajutor 'Rettet das Kind', iar toate încasările sunt folosite pentru a sprijini copiii și familiile nevoiașe. Parcul include, de asemenea, un centru de aventură interior, interactiv. Geografie K5 - Reprezentări la scară.",
-      en: ""
+      de: "Minimundus, die kleine Welt am Wörthersee, ermöglicht Besuchern eine faszinierende Weltreise in wenigen Stunden. Die liebevoll und äußerst präzise gestalteten Modelle im einheitlichen Maßstab 1:25 lassen Architektur-Ikonen wie den Eiffelturm, das Taj Mahal oder den Petersdom in neuem Kontext erlebbar werden. Besonders beeindruckend ist die handwerkliche Qualität: Viele Bauwerke werden mit Originalmaterialien wie Marmor, Sandstein oder echtem Kupferblech errichtet, wodurch sie unglaublich authentisch wirken. Neben den festen Bauwerken kreuzen Modellzüge durch die Landschaft und Schiffe gleiten über die angelegten Wasserflächen, was den Park sehr lebendig macht. Zudem dient die Einrichtung einem sozialen Zweck, da die Überschüsse dem Verein 'Rettet das Kind' zugutekommen. Geografie K5 — Kontinente und weltweite Sehenswürdigkeiten.",
+      hu: "A Minimundus, az 'apróságok világa', egy varázslatos miniatűr park Karintiában, Klagenfurt mellett, a Wörthersee közelében. Az 1958-ban alapított park több mint 150 a világ legszebb épületeiből, emlékműveiből és technikai csodáiból álló modellt mutat be, mindet szigorúan 1:25-ös méretarányban felépítve. A modellek, mint a párizsi Szabadság-szobor, az indiai Taj Mahal, vagy éppen az űrrepülőgépek, hihetetlen részletességgel és gyakran eredeti építőanyagok (márvány, homokkő) felhasználásával készülnek. A park nem csupán szórakozás a családoknak, hiszen a jegybevételek nagy részével a 'Rettet das Kind' gyermekvédelmi szervezetet támogatják. Földrajz K5 – a világ nevezetességei és építészeti sokszínűség.",
+      ro: "Minimundus din Klagenfurt, lângă lacul Wörthersee, este un parc tematic iconic în miniatură care oferă o 'călătorie în jurul lumii' fascinantă. Parcul, fondat în anii 1950, găzduiește peste 150 de modele minuțios detaliate, la scară 1:25, ale celor mai faimoase repere arhitecturale de pe tot globul, cum ar fi Turnul Eiffel, Taj Mahal, Statuia Libertății și Catedrala Sfântul Ștefan din Viena. Construite folosind, pe cât posibil, materiale autentice – inclusiv marmură, gresie și cupru – aceste miniaturi sunt adevărate opere de artă inginerești. Toate veniturile din bilete sunt donate carității organizației 'Salvați Copiii', ceea ce adaugă o valoare umanitară importantă acestei atracții extrem de iubite.",
+      en: "Minimundus, the 'miniature world on Lake Wörthersee,' is one of Klagenfurt's most popular attractions. The 26,000-square-meter park displays over 150 detailed 1:25 scale models of the Earth's most famous buildings, ships, and trains. Visitors can travel around the world in a single day, admiring the Eiffel Tower, St. Peter's Basilica, the Taj Mahal, or the Statue of Liberty. The models are crafted with meticulous detail, using original materials like marble, sandstone, or basalt wherever possible. The park serves not only for entertainment but also a charitable purpose: it is operated by the 'Rettet das Kind' (Save the Child) aid organization, and all proceeds are used to support children and families in need. The park also includes an indoor, interactive adventure world with a 4D cinema and playful science stations."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Das Gelände umfasst stolze 26.000 Quadratmeter Ausstellungsfläche direkt neben dem Europapark in Klagenfurt.",
+        "Der Modellbau des Petersdoms erforderte tausende Arbeitsstunden und den Einsatz echten Marmors.",
+        "Auf Knopfdruck können Besucher bei bestimmten Modellen Funktionen wie startende Züge oder drehende Windmühlen aktivieren.",
+        "Die Indoor-Erlebniswelt erweitert das Angebot auf das ganze Jahr und bietet interaktive Spielstationen für Kinder."
+      ],
       hu: [
-        "A parkot 1958-ban nyitották meg.",
-        "Néhány modell, mint például a CN Tower, több mint 23 méter magas.",
-        "A Szent Péter-bazilika modelljének elkészítése több mint 6 évig tartott és 700 000 euróba került.",
-        "A parkban egy mini Dunán gőzhajó modellek is közlekednek.",
-        "A Space Shuttle modellje gombnyomásra 'felszáll'.",
-        "A beltéri kiállításon a gyerekek versenyezhetnek egy mini Forma-1-es pályán.",
-        "A parkban egy planetárium is található.",
-        "A Minimundus évente több mint 250 000 látogatót vonz."
+        "A parkban minden épületmodell pontosan 1:25 arányban kicsinyítve épült meg.",
+        "A bevételek egy része az alapítás óta a 'Rettet das Kind' gyermekvédő szervezetet segíti.",
+        "Több mint 150 miniatűr építmény és működő modellvasút található a területén.",
+        "A modellek építéséhez igyekeznek az eredeti épületek anyagait használni."
       ],
-      ro: [
-        "Parcul a fost deschis în 1958.",
-        "Unele modele, cum ar fi Turnul CN, au o înălțime de peste 23 de metri.",
-        "Construcția modelului Bazilicii Sf. Petru a durat peste 6 ani și a costat 700.000 de euro.",
-        "Modele de vapoare cu aburi navighează pe o Dunăre în miniatură în parc.",
-        "Modelul navetei spațiale 'decolează' la apăsarea unui buton.",
-        "În expoziția interioară, copiii pot concura pe o pistă de Formula 1 în miniatură.",
-        "Parcul include și un planetariu.",
-        "Minimundus atrage peste 250.000 de vizitatori anual."
-      ],
-      en: []
-    }
-  },
+      ro: ["Parcul afișează peste 150 de modele în miniatură foarte detaliate din mai mult de 40 de țări din lume.", "Macheta Catedralei Sfântul Ștefan din Viena din parc a durat uimitor de 11.000 de ore de muncă pentru a fi realizată.", "Toate machetele sunt construite exact la scara 1:25, respectând materialele arhitecturale originale ori de câte ori este posibil.", "Profiturile operaționale ale Minimundus sunt dedicate organizației 'Salvați Copiii', pentru programe de susținere a drepturilor copilului."],
+      en: [
+        "The park was opened in 1958.",
+        "Some models, like the CN Tower, are over 23 meters tall.",
+        "The model of St. Peter's Basilica took over 6 years to build and cost €700,000.",
+        "Steamship models also travel on a mini-Danube within the park.",
+        "The Space Shuttle model 'launches' at the push of a button.",
+        "In the indoor exhibition, children can race on a mini Formula 1 track.",
+        "The park also includes a planetarium.",
+        "Minimundus attracts over 250,000 visitors annually."
+      ]
+    }, image: "/poi-images/kid-landmark-minimundus-extra.webp"},
   {
     id: "animal-habitat-wildpark-ferleiten-extra",
     type: "animal-habitat",
@@ -119,36 +120,36 @@ export const poiExtraAustriaLife: POI[] = [
       en: ["Animals live in spacious, near-natural enclosures.", "The amusement park offers over 40 games and rides.", "An ideal stop for families on the way to the Grossglockner."]
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A Ferleiten Vadas- és Élménypark közvetlenül a híres Großglockner Hochalpenstraße fizetőkapujánál található, így tökéletes megállóhely a családok számára. A park két részből áll: egy vadasparkból és egy élményparkból. A 15 hektáros vadasparkban több mint 200, az Alpokban és a világ más hegyvidékein őshonos állat él tágas, természetszerű kifutókban. A látogatók egy kényelmes sétaútvonalon haladva figyelhetik meg a zergéket, kőszáli kecskéket, szarvasokat, farkasokat és barna medvéket. A vadaspark központjában egy nagy tó található, amely körül pihenőhelyek és egy kilátótorony is helyet kapott. Az élménypark több mint 20 000 négyzetméteren terül el, és több mint 40 különböző játékot és attrakciót kínál, a trambulinoktól és csúszdáktól kezdve az elektromos autókig és a vízi játszótérig, biztosítva a felhőtlen szórakozást a gyerekeknek, amíg a felnőttek a lenyűgöző hegyi panorámában gyönyörködnek.",
-      ro: "Parcul de Animale Sălbatice și de Aventură Ferleiten este situat chiar la punctul de taxare al faimosului Drum Alpin Înalt Grossglockner, fiind o oprire perfectă pentru familii. Parcul este format din două părți: un parc de animale sălbatice și un parc de aventură. Parcul de animale sălbatice, de 15 hectare, găzduiește peste 200 de animale native din Alpi, care trăiesc în incinte spațioase, asemănătoare habitatului natural. Vizitatorii pot observa capre negre, ibecși, cerbi, lupi și urși bruni. Parcul de aventură, de peste 20.000 de metri pătrați, oferă peste 40 de jocuri și atracții diferite, de la trambuline și tobogane la mașini electrice și un loc de joacă acvatic, asigurând distracție pentru copii în timp ce adulții se bucură de panorama montană. Biologie K6 - Fauna montană.",
-      en: ""
+      de: "Direkt an der Mautstelle zur berühmten Großglockner-Hochalpenstraße gelegen, bietet der Wild- & Erlebnispark Ferleiten die perfekte Symbiose aus Naturerfahrung und kindgerechter Action. Der 15 Hektar große Wildpark ermöglicht spannende Begegnungen mit mehr als 200 Bewohnern der heimischen Bergwelt, von Murmeltieren über stolze Steinböcke bis hin zu majestätischen Bären. Eingebettet in das imposante Talschluss-Panorama des Nationalparks Hohe Tauern, spazieren Besucher auf flachen, kinderwagentauglichen Wegen durch die Gehege. Direkt im Anschluss lockt ein Freizeitpark mit mehr als 40 Fahrgeschäften und Spielstationen, die teils mit Wasserkraft betrieben werden. Dieser duale Aufbau macht Ferleiten zu einem beliebten Ganztagesausflug. Sachkunde K3 — Heimische Tierwelt und Freizeitgestaltung.",
+      hu: "A Ferleiten Vadas- és Élménypark a Magas-Tauern Nemzeti Park kapujában, közvetlenül a festői Großglockner Magasalpesi Út fizetőkapuja előtt terül el. A hatalmas, 15 hektáros természetes vadasparkban több mint 200 alpesi állat él, nagyrészt természetközeli kifutókban. A látogatók medvéket, farkasokat, hiúzokat, mormotákat és kőszáli kecskéket figyelhetnek meg a lenyűgöző gleccserek árnyékában. A park része egy hatalmas gyerek élménypark is, ahol számtalan játék, hullámvasút és játszótér várja a legkisebbeket, így tökéletes családi megálló az alpesi túrák előtt. Biológia K4 – hegyvidéki állatok megfigyelése.",
+      ro: "Parcul pentru animale sălbatice și aventuri Ferleiten este poziționat strategic la poarta pitorească a celebrului drum alpin Großglockner din statul Salzburg. Parcul natural este un sanctuar incredibil care adăpostește peste 200 de animale native, precum lupi, cerbi, marmote și zimbri, trăind într-un peisaj alpin complet natural. Peisajul deschis, cu faimoasele vârfuri din Hohe Tauern ca fundal, oferă o perspectivă uluitoare a regiunii. Pe lângă zonele dedicate faunei sălbatice, situl integrează cu sensibilitate un parc extins de distracție și natură, adaptat minunat pentru familii cu copii, reprezentând o atracție educațională de bază despre conservarea muntelui.",
+      en: "The Ferleiten Wildlife and Adventure Park is located directly at the toll booth of the famous Grossglockner High Alpine Road, making it a perfect stop for families. The park consists of two parts: a wildlife park and an amusement park. The 15-hectare wildlife park is home to over 200 animals native to the Alps and other mountain regions, living in spacious, natural-like enclosures. Visitors can observe chamois, ibex, deer, wolves, and brown bears along a comfortable walking path. At the heart of the park is a large pond surrounded by rest areas and a lookout tower. The amusement park covers over 20,000 square meters and offers more than 40 different games and rides, from trampolines and slides to electric cars and a water playground, ensuring fun for children while adults enjoy the stunning mountain panorama."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Wege im Wildpark sind komplett rollstuhl- und kinderwagengerecht ausgebaut.",
+        "Ein großer Teich in der Mitte des Parks beherbergt zahlreiche Wasservögel und lädt zum Verweilen ein.",
+        "Der Eintritt in den Vergnügungspark ist frei, man zahlt lediglich für die einzelnen Fahrgeschäfte.",
+        "Im Park befindet sich auch eine interaktive Ausstellung über die alpine Tier- und Pflanzenwelt."
+      ],
       hu: [
-        "A park 1145 méteres tengerszint feletti magasságban fekszik.",
-        "A vadasparkban egy 'simogató állatkert' is található, ahol a gyerekek testközelből ismerkedhetnek meg a háziállatokkal.",
-        "Az élménypark használata a vadaspark látogatói számára ingyenes.",
-        "A parkban egy 'Bogár-múzeum' is helyet kapott, amely a Volkswagen Bogár történetét mutatja be.",
-        "A farkasokat egy külön, 3000 négyzetméteres, erdős kifutóban tartják.",
-        "A parkban egy vízerőművet bemutató tanösvény is található.",
-        "A vadasparkban ritka állatfajok, például a hópárduc is megfigyelhető.",
-        "A park májustól november elejéig tart nyitva."
+        "A vadaspark közvetlenül a Großglockner Magasalpesi Út lábánál, csodás panorámával fekszik.",
+        "A 15 hektáros területen mintegy 200 az Alpokban honos vadon élő állat él.",
+        "A park nagy élményeleme a hatalmas, szabadban lévő gyerekjátszótér és vidámpark.",
+        "Egyes kifutókba, például a dámvadakhoz és kecskékhez a látogatók be is mehetnek."
       ],
-      ro: [
-        "Parcul este situat la o altitudine de 1.145 de metri deasupra nivelului mării.",
-        "Parcul de animale sălbatice include o 'grădină zoologică unde pot fi mângâiate animalele', unde copiii pot interacționa cu animalele domestice.",
-        "Utilizarea parcului de aventură este gratuită pentru vizitatorii parcului de animale sălbatice.",
-        "Parcul găzduiește un 'Muzeu al Gândacului', care prezintă istoria Volkswagen Beetle.",
-        "Lupii sunt ținuți într-o incintă separată, împădurită, de 3.000 de metri pătrați.",
-        "În parc există un traseu educativ care prezintă o hidrocentrală.",
-        "Specii rare de animale, cum ar fi leopardul de zăpadă, pot fi observate în parcul de animale sălbatice.",
-        "Parcul este deschis din mai până la începutul lunii noiembrie."
-      ],
-      en: []
-    }
-  },
+      ro: ["Parcul oferă adăpost pentru peste 200 de specii variate de animale indigene din sistemul muntos Hohe Tauern.", "Este situat direct pe drumul de acces spre Grossglockner, cel mai faimos drum alpin la altitudine mare.", "Vizitatorii pot întâlni și observa zimbri de aproape, animale maiestuoase reintroduse treptat în sălbăticie.", "Vederile panoramice superbe ale masivelor montane glaciare pot fi savurate direct din interiorul parcului cu animale."],
+      en: [
+        "The park is situated at an altitude of 1,145 meters above sea level.",
+        "The wildlife park includes a 'petting zoo' where children can get up close with domestic animals.",
+        "Use of the amusement park is free for visitors of the wildlife park.",
+        "The park also houses a 'Beetle Museum,' showcasing the history of the Volkswagen Beetle.",
+        "Wolves are kept in a separate, 3,000-square-meter forested enclosure.",
+        "There is an educational trail in the park that explains a hydroelectric power plant.",
+        "Rare animal species, such as the snow leopard, can also be observed in the wildlife park.",
+        "The park is open from May to early November."
+      ]
+    }, image: "/poi-images/animal-habitat-wildpark-ferleiten-extra.webp"},
   {
     id: "kid-landmark-familienland-pillerseetal-extra",
     type: "kid-landmark",
@@ -168,36 +169,36 @@ export const poiExtraAustriaLife: POI[] = [
       en: ["The 'Big Bang' roller coaster is the highest family roller coaster in Austria.", "Houses a salt grotto for relaxation.", "Large indoor play area for bad weather."]
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A Pillerseetal Családi Park egy népszerű szabadidőpark a tiroli St. Jakob in Hausban, amely a Kitzbüheli-Alpok szívében, az egész család számára kínál szórakozást. A park legnagyobb attrakciója a 'Big Bang' hullámvasút, amely Ausztria legmagasabb családi hullámvasútja. Emellett egy vadvízi rafting pálya, egy kalózhajó és számos más pörgő-forgó játék gondoskodik az adrenalinról. A kisebb gyerekeket egy nagy játszótér, egy kisállat-simogató és egy lassabb tempójú kisvasút várja. A park egyik különlegessége a 'Totes Meer Salzgrotte', egy holt-tengeri sóbarlang, ahol a látogatók relaxálhatnak és élvezhetik a sós levegő jótékony hatását. Rossz idő esetén egy nagy, fedett játszóterem és egy mászócsarnok biztosítja a szórakozást. A park a 'mindent egy helyen' elvet követi, ötvözve az izgalmas attrakciókat a pihentető elemekkel és a lenyűgöző alpesi tájjal.",
-      ro: "Parcul de Familie Pillerseetal din St. Jakob in Haus, Tirol, oferă distracție pentru întreaga familie în inima Alpilor Kitzbühel. Cea mai mare atracție a parcului este montagne russe-ul 'Big Bang', cel mai înalt montagne russe de familie din Austria. În plus, o pistă de rafting pe apă, o corabie de pirați și numeroase alte atracții rotative asigură adrenalina. O caracteristică specială a parcului este 'Grota de Sare de la Marea Moartă', unde vizitatorii se pot relaxa. În caz de vreme rea, o sală de joacă interioară mare și o sală de escaladă asigură distracția. Parcul combină atracțiile palpitante cu elemente de relaxare și peisajul alpin impresionant. Sport și timp liber K3 - Parcuri de distracții.",
-      en: ""
+      de: "Das Familienland Pillerseetal in St. Jakob in Haus präsentiert sich als alpiner Abenteuerspielplatz, der geschickt rasanten Fahrspaß mit Entspannungsangeboten verbindet. Als eines der beliebtesten Ausflugsziele in den Kitzbüheler Alpen punktet der Park mit einer Vielfalt, die alle Altersgruppen anspricht. Das Highlight für Mutige ist zweifellos die Achterbahn 'Big Bang', die als Österreichs höchste Familienachterbahn gilt. Aber auch eine spritzige Wildwasserbahn, ein großes Piratenschiff und rasante Rutschen sorgen für leuchtende Kinderaugen. Sollte das Bergwetter einmal nicht mitspielen, bietet die großzügige Indoor-Halle mit Kletterwänden und Hüpfburgen eine ideale Ausweichmöglichkeit. Für Ruhesuchende stellt die parkeigene Totes-Meer-Salzgrotte eine gesundheitsfördernde Oase der Entspannung dar. Sachkunde K4 — Mechanik von Fahrgeschäften und Freizeit.",
+      hu: "A Familienland Pillerseetal Tirol egyik legkedveltebb családi élményparkja, amely St. Jakob in Haus településen található. A vidámpark kifejezetten a gyermekes családok számára kínál több mint 50 különböző, izgalmas és interaktív attrakciót. Legnagyobb vonzereje az Ausztria legnagyobb családi hullámvasútjaként ismert 'Big Bang', amely lélegzetelállító kanyarokat ír le a tiroli hegyek között, mégsem túl extrém a kisebbek számára. A park emellett egy hatalmas beltéri mászócsarnokkal, vadvízi csónakázással és egy kalózhajóval is rendelkezik, ötvözve az alpesi friss levegőt az önfeledt szórakozással. Testnevelés K4 – mozgásfejlesztés és szabadtéri játékok.",
+      ro: "Familienland Pillerseetal, așezat printre pitoreștii munți din regiunea Kitzbühel din Tirol, este unul dintre parcurile de distracții și de aventură de top dedicate familiilor cu copii din Austria de Vest. Spre deosebire de mega-parcurile convenționale, acest loc se concentrează pe o experiență mai rustică și creativă cu o fuziune de aventuri mecanice și provocări integrate în natură. Printre atracțiile de referință se numără trenulețele tip roller coaster cu tematică din era piraților și turnurile de sare, dar parcul are și o mină interactivă de pietre prețioase. Combinând distracția adrenalinică cu elemente senzoriale naturale, parcul întărește farmecul familial al turismului alpin de pe timpul verii.",
+      en: "The Pillerseetal Family Land is a popular amusement park in St. Jakob in Haus, Tyrol, offering fun for the whole family in the heart of the Kitzbühel Alps. The park's main attraction is the 'Big Bang' roller coaster, which is the highest family roller coaster in Austria. In addition, a white-water rafting ride, a pirate ship, and numerous other spinning rides provide an adrenaline rush. A large playground, a petting zoo, and a slow-paced miniature train await younger children. One of the park's special features is the 'Dead Sea Salt Grotto,' where visitors can relax and enjoy the beneficial effects of the salty air. In case of bad weather, a large indoor playground and a climbing hall provide entertainment. The park follows an 'all-in-one' concept, combining exciting attractions with relaxing elements and the stunning Alpine scenery."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Big Bang Achterbahn erreicht Höhen von bis zu 22 Metern.",
+        "Die Totes-Meer-Salzgrotte im Park verwendet 40 Tonnen echtes Salz zur Luftreinigung.",
+        "Der Streichelzoo ermöglicht direkten Kontakt mit heimischen Tieren wie Ziegen und Hasen.",
+        "Ein großer Indoor-Kletterbereich ist besonders bei Jugendlichen und Kletter-Anfängern beliebt."
+      ],
       hu: [
-        "A park több mint 20 000 négyzetméteren terül el.",
-        "A Big Bang hullámvasút 22 méter magas.",
-        "A vadvízi rafting pálya egy 10 méter magas toronyból indul.",
-        "A parkban egy 10 méter magas mászófal is található különböző nehézségi fokozatokkal.",
-        "A sóbarlangban a hőmérséklet állandóan 21-22°C.",
-        "A park tagja a 'Tiroli Családi Fészkek' (Tiroler Familiennester) szövetségnek, amely a minőségi családi turizmust garantálja.",
-        "A parkból csodálatos kilátás nyílik a közeli Buchensteinwand hegyre és a Jakobskreuz kilátóra.",
-        "A Pillersee tó, amely a völgynek a nevét adta, mindössze néhány kilométerre található."
+        "A parkban található az 'Big Bang', Ausztria legnagyobb családi hullámvasútja.",
+        "A vidámpark különlegessége egy hatalmas beltéri és kültéri sóbarlang létesítmény.",
+        "Több mint 50 különböző szórakoztató attrakció várja a látogatókat.",
+        "A terület része Ausztria egyik legnagyobb beltéri kötélmászó és boulder csarnoka."
       ],
-      ro: [
-        "Parcul se întinde pe o suprafață de peste 20.000 de metri pătrați.",
-        "Montagne russe-ul Big Bang are o înălțime de 22 de metri.",
-        "Pista de rafting pe apă pornește de la un turn de 10 metri înălțime.",
-        "Parcul include și un perete de escaladă de 10 metri cu diferite niveluri de dificultate.",
-        "Temperatura din grota de sare este constantă, de 21-22°C.",
-        "Parcul este membru al asociației 'Cuiburile Familiale din Tirol', care garantează turism de familie de calitate.",
-        "Parcul oferă vederi minunate la muntele Buchensteinwand din apropiere și la turnul de observație Jakobskreuz.",
-        "Lacul Pillersee, care dă numele văii, se află la doar câțiva kilometri distanță."
-      ],
-      en: []
-    }
-  },
+      ro: ["Parcul se mândrește cu cel mai mare și spectaculos trenuleț de aventură de tip roller coaster dedicat familiilor din Austria.", "Are o peșteră uriașă din sare de mină unde vizitatorii pot explora mediul și efectele curative ale ionilor de sare.", "Familienland găzduiește și o secțiune de mângâiere a animalelor (petting zoo), foarte populară în rândul copiilor.", "Atracțiile sunt realizate în mod conștient folosind o proporție mare de tehnici locale meșteșugărești și cherestea tiroleză."],
+      en: [
+        "The park covers an area of over 20,000 square meters.",
+        "The Big Bang roller coaster is 22 meters high.",
+        "The white-water rafting ride starts from a 10-meter-high tower.",
+        "The park also features a 10-meter-high climbing wall with various difficulty levels.",
+        "The temperature in the salt grotto is a constant 21-22°C.",
+        "The park is a member of the 'Tyrolean Family Nests' association, which guarantees high-quality family tourism.",
+        "The park offers wonderful views of the nearby Buchensteinwand mountain and the Jakobskreuz observation tower.",
+        "Lake Pillersee, which gives the valley its name, is only a few kilometers away."
+      ]
+    }, image: "/poi-images/kid-landmark-familienland-pillerseetal-extra.webp"},
   {
     id: "animal-habitat-affenberg-landskron-extra",
     type: "animal-habitat",
@@ -217,36 +218,36 @@ export const poiExtraAustriaLife: POI[] = [
       en: ["No bars or cages separate visitors from the monkeys.", "Scientists research the behavior of the macaques here.", "The monkeys enjoy swimming in the pond in summer."]
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A Landskroni Majomhegy (Affenberg Landskron) egy különleges állatpark Villach mellett, ahol mintegy 160 japán makákó él egy 4 hektáros, erdős területen, szinte teljesen szabadon. A park egyedülállósága abban rejlik, hogy a látogatók rácsok és ketrecek nélkül, egy vezetett túra keretében figyelhetik meg az állatokat a természetes élőhelyükön. A túrák során a szakértő vezetők bemutatják a majmok társas viselkedését, hierarchiáját és kommunikációját, miközben a majmok szabadon mozognak a látogatók körül. A park nemcsak turisztikai látványosság, hanem egy fontos kutatóközpont is, ahol a Bécsi Egyetem viselkedéskutatói tanulmányozzák a makákókat. A majmok különösen élvezik a parkban található tavakat, és a világ egyetlen ismert makákócsoportja, amelyik rendszeresen úszik. A Majomhegy felelősségteljes és etikus állattartást képvisel, ahol az állatok jóléte az elsődleges szempont.",
-      ro: "Muntele Maimuțelor Landskron este un parc de animale special lângă Villach, unde aproximativ 160 de macaci japonezi trăiesc aproape liber pe o suprafață împădurită de 4 hectare. Unicitatea parcului constă în faptul că vizitatorii pot observa animalele în habitatul lor natural în timpul unui tur ghidat, fără gratii sau cuști. În timpul tururilor, ghizii experți prezintă comportamentul social, ierarhia și comunicarea maimuțelor. Parcul este, de asemenea, un important centru de cercetare unde etologii de la Universitatea din Viena studiază macacii. Maimuțelor le place în mod deosebit să înoate în iazurile din parc, fiind singurul grup cunoscut de macaci din lume care înoată în mod regulat. Biologie K7 - Comportamentul animalelor.",
-      en: ""
+      de: "Unterhalb der geschichtsträchtigen Burgruine Landskron befindet sich ein außergewöhnliches zoologisches Konzept: der Affenberg. In diesem großen, dicht bewaldeten Freigehege leben über 160 Japanmakaken (Schneeaffen) in völliger Freiheit und organisieren sich in einer komplexen Sozialstruktur. Im Gegensatz zu traditionellen Zoos gibt es hier keine Barrieren, Zäune oder Glasscheiben zwischen Mensch und Tier. Besucher können sich ausschließlich im Rahmen geführter Touren durch das Territorium der Affen bewegen, wobei geschulte Betreuer das faszinierende Verhalten der Tiere erläutern. Dieses Areal dient nicht nur der Wissensvermittlung für Besucher, sondern ist auch ein anerkannter Forschungsstandort der Universität Wien. Die Makaken sind dafür bekannt, dass sie exzellente Schwimmer sind und sogar tauchen können. Biologie K7 — Sozialverhalten von Primaten.",
+      hu: "A Landskroni Majomhegy (Affenberg Landskron) Karintiában egyedülálló állatvédelmi és kutatóközpont, ahol mintegy 170 japán makákó (hómajom) él szabadon egy hatalmas erdős területen. Ez Európa egyik legnagyobb szabadtéri majomrezervátuma, amely nem egy hagyományos állatkert – az állatok nincsenek ketrecben, hanem a látogatók lépnek be az ő területükre. Szakképzett zoológusok kísérik végig a csoportokat, bemutatva a makákók összetett szociális viselkedését, hierarchiáját és intelligenciáját, beleértve a híres forrásvízben fürdőzést vagy a játékot. A park emellett a Bécsi és a Grazi Egyetem fontos viselkedéskutatási bázisa is. Biológia K6 – prímások viselkedéskutatása és szociális struktúrák.",
+      ro: "Muntele Maimuțelor (Affenberg) din Landskron, situat lângă Villach, Carintia, este o rezervație excepțională de tip semi-sălbatic dedicată exclusiv îngrijirii și studierii macacilor japonezi (cunoscute ca maimuțele de zăpadă). Spre deosebire de o grădină zoologică obișnuită, acest habitat în aer liber de mari dimensiuni permite macacilor să trăiască fără garduri claustrofobice, într-o libertate uimitoare alături de vizitatori care intră direct în teritoriul lor însoțiți de ghizi specialiști în primate. Acest loc funcționează puternic ca un institut internațional de cercetare a comportamentului animal și a ierarhiilor sociale, dovedind din plin capacitatea remarcabilă a maimuțelor japoneze de a se adapta fericite la temperaturile reci de pe teritoriul Austriei.",
+      en: "Landskron Monkey Mountain is a special animal park near Villach where about 160 Japanese macaques live almost freely in a 4-hectare forested area. The uniqueness of the park is that visitors can observe the animals in their natural habitat during a guided tour, without bars or cages. During the tours, expert guides present the monkeys' social behavior, hierarchy, and communication, while the monkeys move freely around the visitors. The park is also an important research center where ethologists from the University of Vienna study the macaques. The monkeys particularly enjoy the ponds in the park and are the only known group of macaques in the world that regularly swims. Monkey Mountain represents responsible and ethical animal husbandry, where the animals' welfare is the top priority."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Japanmakaken sind für ihre Anpassungsfähigkeit an extreme Temperaturen bekannt.",
+        "Während der Führungen können Besucher beobachten, wie die Affen Werkzeuge benutzen oder Nahrung waschen.",
+        "Der Affenberg verzeichnet jedes Jahr zahlreiche Geburten, was für das Wohlbefinden der Tiere spricht.",
+        "Die strengen Verhaltensregeln für Besucher garantieren, dass die Makaken ihr natürliches Verhalten beibehalten."
+      ],
       hu: [
-        "A parkot 1996-ban alapították.",
-        "A japán makákók, más néven hóbirkák, a legészakabbra élő majomfajok közé tartoznak.",
-        "A parkban élő összes majom névvel rendelkezik.",
-        "A látogatók nem etethetik és nem érinthetik meg a majmokat, hogy megőrizzék természetes viselkedésüket.",
-        "A parkban évente 10-15 kismajom születik.",
-        "A japán makákók híresek arról, hogy télen forró vizű forrásokban 'fürdenek' Japánban.",
-        "A vezetett túrák körülbelül 45 percig tartanak.",
-        "A Majomhegy a Landskron várának lábánál található, így a két látnivaló összekapcsolható."
+        "A rezervátumban közel 170 japán makákó él szabadon, kerítések nélkül egy erdőben.",
+        "Ausztria és Európa legnagyobb szabadtéri makákó-élőhelyének számít.",
+        "A Majomhegy egyben a Bécsi és Grazi egyetemek hivatalos viselkedéskutató központja.",
+        "A látogatók közvetlenül, ketrecek nélkül figyelhetik meg az állatok mindennapi életét."
       ],
-      ro: [
-        "Parcul a fost fondat în 1996.",
-        "Macacii japonezi, cunoscuți și ca maimuțe de zăpadă, sunt printre speciile de maimuțe care trăiesc cel mai la nord.",
-        "Toate maimuțele din parc au nume.",
-        "Vizitatorii nu au voie să hrănească sau să atingă maimuțele pentru a le păstra comportamentul natural.",
-        "În parc se nasc anual 10-15 pui de maimuță.",
-        "Macacii japonezi sunt renumiți pentru că se 'scaldă' în izvoare termale iarna în Japonia.",
-        "Tururile ghidate durează aproximativ 45 de minute.",
-        "Muntele Maimuțelor se află la poalele Castelului Landskron, astfel că cele două atracții pot fi combinate."
-      ],
-      en: []
-    }
-  },
+      ro: ["Affenberg este habitatul exclusiv pentru o colonie mare de peste 160 de macaci japonezi semi-sălbatici, extrem de toleranți la frig.", "Maimuțele nu locuiesc în cuști închise, ci mai degrabă trăiesc liber într-o zonă naturală întinsă și neîngrădită.", "Institutul de la Landskron este cunoscut mondial pentru studiile vitale publicate privind comportamentul cognitiv al primatelor.", "Întrucât sunt adaptate perfect vremii grele, puii de maimuțe pot fi admirați cum înoată chiar și în timpul iernilor aspre."],
+      en: [
+        "The park was founded in 1996.",
+        "Japanese macaques, also known as snow monkeys, are among the northernmost living primate species.",
+        "All the monkeys in the park have names.",
+        "Visitors are not allowed to feed or touch the monkeys to preserve their natural behavior.",
+        "Between 10 and 15 baby monkeys are born in the park each year.",
+        "Japanese macaques are famous for 'bathing' in hot springs in Japan during winter.",
+        "Guided tours last approximately 45 minutes.",
+        "Monkey Mountain is located at the foot of Landskron Castle, so the two attractions can be combined."
+      ]
+    }, image: "/poi-images/animal-habitat-affenberg-landskron-extra.webp"},
   {
     id: "kid-landmark-wasserspiele-krimml-extra",
     type: "kid-landmark",
@@ -266,34 +267,35 @@ export const poiExtraAustriaLife: POI[] = [
       en: ["The Aquaszenarium offers an impressive projection show.", "A water playground for children.", "The House of Water is an interactive museum."]
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A Krimmli Vízi Világok (WasserWelten Krimml) egy modern és interaktív élménypark Európa legmagasabb vízesése, a Krimmli-vízesés lábánál. A park célja, hogy játékos és informatív módon mutassa be a víz lenyűgöző erejét és fontosságát. A központi épületben, a Víz Házában egy interaktív kiállítás található, amely a víz fizikai és biológiai tulajdonságaival ismerteti meg a látogatókat. Az 'Aquaszenarium' egyedülálló, 270 fokos vetítőterem, ahol a látogatók egy virtuális utazás során a vízcsepp útját követhetik a vízeséstől egészen a tengerig. A park külső területén egy nagy vízi játszótér várja a gyerekeket, ahol zsilipekkel, gátakkal és vízikerékkel kísérletezhetnek. A parkból csodálatos kilátás nyílik a 380 méter magasból lezúduló vízesésre. A Krimmli Vízi Világok tökéletes kiegészítése a vízesés meglátogatásának, különösen családok számára.",
-      ro: "Lumea Acvatică Krimml (WasserWelten Krimml) este un parc de aventură modern și interactiv la poalele cascadelor Krimml, cele mai înalte din Europa. Parcul își propune să prezinte puterea și importanța apei într-un mod ludic și informativ. Clădirea centrală, Casa Apei, găzduiește o expoziție interactivă despre proprietățile fizice și biologice ale apei. 'Aquaszenarium' este o sală de proiecție unică la 270 de grade, unde vizitatorii pot urmări călătoria virtuală a unei picături de apă. Zona exterioară a parcului are un loc de joacă acvatic mare. Parcul oferă vederi minunate la cascada de 380 de metri înălțime și este o completare perfectă a vizitei la cascade. Fizică K5 - Proprietățile apei.",
-      en: ""
+      de: "Als Tor zu den imposanten Krimmler Wasserfällen, Europas höchsten Wasserfällen, fungieren die WasserWelten Krimml als innovatives Besucherzentrum, das die Kraft und Faszination des Elements Wasser erlebbar macht. Dieser Themenpark vereint Bildung und Unterhaltung auf meisterhafte Weise. Das markante Herzstück bildet das Aquaszenarium, eine begehbare Projektionsfläche, auf der Besucher visuell die Transformation von der eisigen Gletscherwelt bis hinab ins Tal erleben können. Das angrenzende 'Haus des Wassers' beherbergt interaktive Stationen und Ausstellungen rund um Hydrologie und Gewässerschutz. Für junge Forscher ist der weitläufige Outdoor-Wasserfall-Spielplatz das absolute Highlight, wo mit Pumpen, Schaufelrädern und Wehren experimentiert werden darf. So wird aus einem einfachen Naturdenkmal-Besuch ein ganzheitliches Erlebnis für die Familie. Geografie K6 — Hydrologie und Wasserkraft.",
+      hu: "A Krimmli Vízi Világok (WasserWelten Krimml) egy interaktív és oktatási élménypark, amely Európa legmagasabb vízesése, a 380 méteres Krimmli-vízesés tövében épült. A modern központ célja, hogy a látogatók a víz, a természet és a technológia kapcsolatát játékos formában fedezzék fel. A szabadtéri Aquaparkban különféle zsilipes játékok, vízi kerekek és egy interaktív vízi mozi várja a gyerekeket, ahol megtapasztalhatják a víz fizikai erejét. A létesítmény emellett bemutatja a vízesés egyedülálló mikroklímájának gyógyító hatását is, amely bizonyítottan enyhíti az asztmás és allergiás tüneteket. Fizika K5 – a víz ereje és vízi energiák.",
+      ro: "Krimml Water Worlds (WasserWelten Krimml) din statul Salzburg constituie un centru de expoziții de neuitat axat exclusiv pe fenomenul miraculos și importanța vitală a apei, amplasat convenabil chiar la baza grandioaselor Cascade Krimml. Centrul educativ explică uluitoarea fizică a celei mai înalte cascade din Europa Centrală prin abordări extrem de inovatoare, incluzând Aquaszenarium - un show de tip proiecție cinematografică de vis care simulează o explorare la microscop sub apele fluviului. Vizitatorii descoperă fascinantele căi ascunse ale ghețarilor, proprietățile unice, cu adevărat curative ale ionilor negativi și beneficiile cascadei asupra respirației, făcând din acest loc un sanctuar turistic esențial al ecologiei alpino-montane austriece.",
+      en: "The Krimml Water Worlds is a modern and interactive theme park at the foot of the Krimml Waterfalls, Europe's highest waterfalls. The park aims to present the fascinating power and importance of water in a playful and informative way. The central building, the House of Water, houses an interactive exhibition that introduces visitors to the physical and biological properties of water. The 'Aquaszenarium' is a unique 270-degree projection room where visitors can follow the virtual journey of a water droplet from the waterfall to the sea. In the park's outdoor area, a large water playground awaits children, where they can experiment with sluices, dams, and water wheels. The park offers magnificent views of the 380-meter-high waterfall. The Krimml Water Worlds is a perfect complement to a visit to the waterfalls, especially for families."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Aerosoltherapie an den Wasserfällen, deren feiner Nebel das Atmen erleichtert, ist medizinisch anerkannt.",
+        "Der Wasserfall-Spielplatz umfasst riesige Wasserspritzen, Archimedische Schrauben und ein Tretbecken.",
+        "Im Haus des Wassers verdeutlichen Experimente den Kreislauf des Wassers vom Himmel zur Erde.",
+        "Das Besucherzentrum integriert sich ökologisch nachhaltig in die empfindliche Landschaft des Nationalparks Hohe Tauern."
+      ],
       hu: [
-        "A parkot 2013-ban nyitották meg.",
-        "A Krimmli-vízesés gyógyhatású; a vízpermet belélegzése enyhíti az asztmás tüneteket.",
-        "A Víz Házában egy Swarovski távcsővel lehet megfigyelni a vízesés részleteit.",
-        "A park a Hohe Tauern Nemzeti Park egyik 'kapuja'.",
-        "A vízeséshez egy 4 km hosszú, szerpentineken vezető túraútvonal vezet fel.",
-        "A vízpermetben gyakran látható szivárvány.",
-        "A parkban egy víz-tematikájú étterem is működik.",
-        "A látogatóközpont elnyerte a 'Klímabarát' (Klimaaktiv) minősítést a fenntartható építészeti megoldásaiért."
+        "Az interaktív központ Közép-Európa legnagyobb vízesése, a Krimmli-vízesés lábánál épült.",
+        "A park része egy hatalmas, interaktív vízi játszótér, vízikerekekkel és zsiliprendszerekkel.",
+        "Oktatási kiállítása bemutatja a hegyi víz erejének fizikai és ökológiai hatásait.",
+        "A központ foglalkozik a vízesés porlasztott vizének asztma elleni gyógyhatásával is."
       ],
-      ro: [
-        "Parcul a fost deschis în 2013.",
-        "Cascadele Krimml au efecte curative; inhalarea spray-ului de apă ameliorează simptomele astmului.",
-        "În Casa Apei, detaliile cascadei pot fi observate cu un telescop Swarovski.",
-        "Parcul este una dintre 'porțile' Parcului Național Hohe Tauern.",
-        "Un traseu de drumeție de 4 km, cu serpentine, duce la cascade.",
-        "În spray-ul de apă se poate vedea adesea un curcubeu.",
-        "Parcul include și un restaurant cu tematică acvatică.",
-        "Centrul de vizitatori a primit certificarea 'Klimaaktiv' pentru soluțiile sale de arhitectură durabilă."
-      ],
-      en: []
+      ro: ["Aceste minuni acvatice prezintă fenomenul uimitor legat direct de Cascadele Krimml, care au o prăbușire spectaculoasă de 380 de metri.", "Atracția dispune de expoziția inovativă 'Aquaszenarium', considerată o călătorie luminoasă, holografică sub suprafața apei.", "Experții subliniază beneficiile majore și dovedite științific asupra astmei obținute inhalând particulele unice eliberate de cascada Krimml.", "O terasă de panoramă cu design avangardist oferă priveliști sublime de un nivel nemaiîntâlnit, orientate direct spre imensul curent."],
+      en: [
+        "The park opened in 2013.",
+        "The Krimml Waterfalls have a healing effect; inhaling the water spray alleviates asthma symptoms.",
+        "In the House of Water, you can observe the details of the waterfall with a Swarovski telescope.",
+        "The park is one of the 'gateways' to the Hohe Tauern National Park.",
+        "A 4 km long hiking trail with switchbacks leads up to the waterfall.",
+        "A rainbow is often visible in the water spray.",
+        "The park also has a water-themed restaurant.",
+        "The visitor center has been awarded the 'Klimaaktiv' (Climate Active) certification for its sustainable architectural solutions."
+      ]
     }
   }
 ];

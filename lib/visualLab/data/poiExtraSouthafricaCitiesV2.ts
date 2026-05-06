@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSouthafricaCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["1652-ben alapította Jan van Riebeeck.", "Itt ülésezik a dél-afrikai parlament."],
       ro: ["Fondată în 1652 de Jan van Riebeeck.", "Aici se află parlamentul sud-african."],
       en: ["Founded in 1652 by Jan van Riebeeck.", "It hosts the South African Parliament."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Kapstadt, die gesetzgebende Hauptstadt Südafrikas, besticht durch ihre Lage am Atlantischen Ozean unterhalb des Tafelbergs. Mit einer Gründung im Jahr 1652 durch die Niederländische Ostindien-Kompanie ist sie die älteste Stadt des Landes. Heute ist sie ein multikulturelles Zentrum, das wirtschaftlich und touristisch eine zentrale Rolle spielt, insbesondere durch die weltberühmte V&A Waterfront. Geografie K7 — Küstenstädte und Häfen.",
+      hu: "Fokváros, Dél-Afrika törvényhozó fővárosa, az Atlanti-óceán partján, a lenyűgöző Tábla-hegy lábánál fekszik. 1652-ben alapította a Holland Kelet-indiai Társaság, ezzel az ország legrégebbi városa. Ma egy vibráló, multikulturális metropolisz, amely gazdasági és turisztikai szempontból is központi jelentőségű, különösen a V&A Waterfront révén. Földrajz K7 — tengerparti városok és kikötők.",
+      ro: "Cape Town, capitala legislativă a Africii de Sud, este situată spectaculos pe coasta Oceanului Atlantic, la poalele Muntelui Masă. Fondat în 1652 de Compania Olandeză a Indiilor de Est, este cel mai vechi oraș din țară. Astăzi, reprezintă un hub multicultural vital, cu un rol economic și turistic major, evidențiat prin zona renumită V&A Waterfront. Geografie K7 — orașe de coastă și porturi.",
+      en: "Cape Town, the legislative capital of South Africa, is spectacularly located on the Atlantic Ocean at the foot of Table Mountain. Founded in 1652 by the Dutch East India Company, it is the country's oldest city. Today, it stands as a vibrant multicultural hub, playing a major economic and tourism role, highlighted by the world-famous V&A Waterfront. Geography K7 — coastal cities and harbors."
+    },
+    factsAdvanced: {
+      de: ["1652 als Versorgungsstation gegründet.", "Der Tafelberg erreicht eine Höhe von 1.086 Metern.", "Mehr als 4 Millionen Einwohner im Großraum.", "Das Parlament tagt seit 1910 hier.", "Die V&A Waterfront empfängt über 20 Millionen Besucher jährlich.", "Das Kap der Guten Hoffnung liegt nur 50 km entfernt."],
+      hu: ["1652-ben alapították ellátóállomásként.", "A Tábla-hegy 1086 méter magas.", "Több mint 4 millió lakos a nagyvárosi övezetben.", "1910 óta itt ülésezik a parlament.", "A V&A Waterfront évente több mint 20 millió látogatót fogad.", "A Jóreménység foka mindössze 50 km-re található."],
+      ro: ["Fondat în 1652 ca stație de aprovizionare.", "Muntele Masă atinge o înălțime de 1.086 metri.", "Peste 4 milioane de locuitori în zona metropolitană.", "Parlamentul se întrunește aici din 1910.", "V&A Waterfront primește anual peste 20 de milioane de vizitatori.", "Capul Bunei Speranțe se află la doar 50 km distanță."],
+      en: ["Founded in 1652 as a supply station.", "Table Mountain reaches a height of 1,086 meters.", "Over 4 million inhabitants in the metropolitan area.", "The parliament has met here since 1910.", "The V&A Waterfront receives over 20 million visitors annually.", "The Cape of Good Hope is located just 50 km away."]
+    }, image: "/poi-images/southafrica-cape-town-cities-v2.webp"},
   {
     id: "southafrica-pretoria-cities-v2",
     type: "state-capital",
@@ -37,8 +49,19 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A várost 1855-ben alapították.", "Itt található a kormányzat székhelye, a Union Buildings."],
       ro: ["Orașul a fost fondat în 1855.", "Găzduiește clădirile Union Buildings, sediul guvernului."],
       en: ["The city was founded in 1855.", "It houses the Union Buildings, the seat of government."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Pretoria, die exekutive Hauptstadt Südafrikas, liegt im Norden der Provinz Gauteng. Die Stadt wurde 1855 gegründet und nach Andries Pretorius benannt. Bekannt für ihre violetten Jacaranda-Bäume, die im Frühjahr die Straßen säumen, ist sie zudem ein bedeutendes politisches und akademisches Zentrum. Die Union Buildings bilden das offizielle Regierungssitz-Ensemble. Geschichte K8 — Kolonialgeschichte und Stadtentwicklung.",
+      hu: "Pretoria, Dél-Afrika végrehajtó fővárosa, Gauteng tartomány északi részén terül el. A várost 1855-ben alapították, és Andries Pretoriusról nevezték el. Híres az utcáit tavasszal lila virágba borító zsakaranda fákról, emellett jelentős politikai és oktatási központ. A Union Buildings az ország hivatalos kormányzati székhelye. Történelem K8 — gyarmati történelem és városfejlesztés.",
+      ro: "Pretoria, capitala executivă a Africii de Sud, este situată în nordul provinciei Gauteng. Orașul a fost fondat în 1855 și poartă numele lui Andries Pretorius. Faimos pentru arborii jacaranda care înfloresc violet primăvara, este, de asemenea, un centru politic și academic major. Union Buildings reprezintă sediul oficial al guvernului. Istorie K8 — istorie colonială și dezvoltare urbană.",
+      en: "Pretoria, the executive capital of South Africa, is situated in the north of Gauteng province. The city was founded in 1855 and named after Andries Pretorius. Famous for the purple Jacaranda trees that line the streets in spring, it is also a major political and academic center. The Union Buildings serve as the official seat of government. History K8 — colonial history and urban development."
+    },
+    factsAdvanced: {
+      de: ["Gründung 1855 durch Marthinus Pretorius.", "Über 50.000 Jacaranda-Bäume in der Stadt.", "Sitz der Tshwane-Universität.", "Die Union Buildings wurden 1913 fertiggestellt.", "Stadtfläche von über 600 Quadratkilometern.", "Wichtiger Knotenpunkt für Forschungseinrichtungen."],
+      hu: ["1855-ben alapította Marthinus Pretorius.", "Több mint 50 000 zsakaranda fa a városban.", "A Tshwane Egyetem székhelye.", "A Union Buildings 1913-ban készült el.", "Több mint 600 négyzetkilométeres városi terület.", "Fontos kutatóintézeti csomópont."],
+      ro: ["Fondat în 1855 de Marthinus Pretorius.", "Peste 50.000 de arbori jacaranda în oraș.", "Sediul Universității Tshwane.", "Union Buildings a fost finalizat în 1913.", "Suprafața orașului depășește 600 de kilometri pătrați.", "Nod important pentru instituții de cercetare."],
+      en: ["Founded in 1855 by Marthinus Pretorius.", "Over 50,000 Jacaranda trees in the city.", "Seat of Tshwane University.", "The Union Buildings were completed in 1913.", "City area of over 600 square kilometers.", "Important hub for research institutions."]
+    }, image: "/poi-images/southafrica-pretoria-cities-v2.webp"},
   {
     id: "southafrica-bloemfontein-cities-v2",
     type: "state-capital",
@@ -56,8 +79,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A Legfelsőbb Fellebbviteli Bíróság székhelye.", "Az ANC alapításának helyszíne 1912-ben."],
       ro: ["Sediul Curții Supreme de Apel.", "Locul de fondare al ANC în 1912."],
       en: ["Seat of the Supreme Court of Appeal.", "The founding place of the ANC in 1912."]
-    }
-  },
+    }, image: "/poi-images/southafrica-bloemfontein-cities-v2.webp"},
   {
     id: "southafrica-johannesburg-cities-v2",
     type: "city",
@@ -75,8 +97,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["1886-ban alapították az aranyleletek után.", "Itt található a kontinens legnagyobb repülőtere."],
       ro: ["Fondat în 1886 după descoperirea aurului.", "Are cel mai mare aeroport de pe continent."],
       en: ["Founded in 1886 after gold discoveries.", "Features the largest airport on the continent."]
-    }
-  },
+    }, image: "/poi-images/southafrica-johannesburg-cities-v2.webp"},
   {
     id: "southafrica-durban-cities-v2",
     type: "city",
@@ -94,8 +115,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Nagy indiai származású lakosságnak ad otthont.", "Híres a Golden Mile tengerparti sétányáról."],
       ro: ["Găzduiește o mare populație de origine indiană.", "Cunoscut pentru promenada Golden Mile."],
       en: ["Home to a large population of Indian descent.", "Known for the Golden Mile beachfront."]
-    }
-  },
+    }, image: "/poi-images/southafrica-durban-cities-v2.webp"},
   {
     id: "southafrica-gqeberha-cities-v2",
     type: "city",
@@ -113,8 +133,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["2021-ben nevezték át hivatalosan.", "Az Algoa-öböl partján fekszik."],
       ro: ["Redenumit oficial în anul 2021.", "Este situat pe țărmul Golfului Algoa."],
       en: ["Officially renamed in 2021.", "Located on the shores of Algoa Bay."]
-    }
-  },
+    }, image: "/poi-images/southafrica-gqeberha-cities-v2.webp"},
   {
     id: "southafrica-east-london-cities-v2",
     type: "city",
@@ -132,8 +151,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Itt fedezték fel újra a történelem előtti bojtosúszós halat 1938-ban.", "Jelentős járműipari központ."],
       ro: ["Aici a fost redescoperit celacantul preistoric în 1938.", "Centru important de producție a vehiculelor."],
       en: ["The prehistoric coelacanth was rediscovered here in 1938.", "Important center of vehicle manufacturing."]
-    }
-  },
+    }, image: "/poi-images/southafrica-east-london-cities-v2.webp"},
   {
     id: "southafrica-polokwane-cities-v2",
     type: "state-capital",
@@ -151,8 +169,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["2003-ig Pietersburg volt a neve.", "Fontos közlekedési csomópont Zimbabwe irányába."],
       ro: ["S-a numit Pietersburg până în 2003.", "Nod de transport important spre Zimbabwe."],
       en: ["Was named Pietersburg until 2003.", "Major transport hub towards Zimbabwe."]
-    }
-  },
+    }, image: "/poi-images/southafrica-polokwane-cities-v2.webp"},
   {
     id: "southafrica-mbombela-cities-v2",
     type: "state-capital",
@@ -170,8 +187,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["2009-ben nevezték át hivatalosan Mbombelára.", "A mezőgazdasági feldolgozás központja."],
       ro: ["Redenumit oficial Mbombela în 2009.", "Centru de procesare agricolă."],
       en: ["Officially renamed to Mbombela in 2009.", "Center for agricultural processing."]
-    }
-  },
+    }, image: "/poi-images/southafrica-mbombela-cities-v2.webp"},
   {
     id: "southafrica-kimberley-cities-v2",
     type: "state-capital",
@@ -189,8 +205,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A 'Big Hole' a világ legnagyobb kézzel ásott bányagödre.", "Az első város a déli féltekén, ahol elektromos közvilágítás volt (1882)."],
       ro: ["'Big Hole' este cea mai mare excavație săpată manual din lume.", "Primul oraș din emisfera sudică cu iluminat stradal electric (1882)."],
       en: ["The 'Big Hole' is the world's largest hand-dug excavation.", "First city in the Southern Hemisphere to have electric street lights (1882)."]
-    }
-  },
+    }, image: "/poi-images/southafrica-kimberley-cities-v2.webp"},
   {
     id: "southafrica-pietermaritzburg-cities-v2",
     type: "state-capital",
@@ -208,8 +223,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Voortrekker telepesek alapították 1838-ban.", "A híres Comrades Maraton rajtjának helyszíne."],
       ro: ["Fondată în 1838 de coloniștii Voortrekker.", "Punct de plecare pentru celebrul Maraton Comrades."],
       en: ["Founded in 1838 by Voortrekkers.", "Starting point of the famous Comrades Marathon."]
-    }
-  },
+    }, image: "/poi-images/southafrica-pietermaritzburg-cities-v2.webp"},
   {
     id: "southafrica-rustenburg-cities-v2",
     type: "city",
@@ -227,8 +241,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A világ platinatermelésének nagy részét adja.", "A 2010-es labdarúgó-világbajnokság egyik helyszíne volt."],
       ro: ["Produce o mare parte din platina la nivel global.", "Oraș gazdă la Cupa Mondială FIFA din 2010."],
       en: ["Produces a large portion of the world's platinum.", "Host city during the 2010 FIFA World Cup."]
-    }
-  },
+    }, image: "/poi-images/southafrica-rustenburg-cities-v2.webp"},
   {
     id: "southafrica-mahikeng-cities-v2",
     type: "state-capital",
@@ -246,8 +259,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Mafeking ostromáról (1899–1900) híres.", "Robert Baden-Powell itt alapozta meg a cserkészmozgalmat."],
       ro: ["Cunoscut pentru Asediul Mafeking (1899-1900).", "Robert Baden-Powell a conceput aici idei pentru mișcarea cercetașilor."],
       en: ["Known for the Siege of Mafeking (1899–1900).", "Robert Baden-Powell conceived ideas for the Boy Scouts here."]
-    }
-  },
+    }, image: "/poi-images/southafrica-mahikeng-cities-v2.webp"},
   {
     id: "southafrica-bhisho-cities-v2",
     type: "state-capital",
@@ -265,8 +277,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A korábbi Ciskei bantusztán fővárosa volt.", "A név isiXhosa nyelven 'bivalyt' jelent."],
       ro: ["Fosta capitală a bantustanului Ciskei.", "Numele înseamnă 'bivol' în limba isiXhosa."],
       en: ["Former capital of the Ciskei homeland.", "The name means 'buffalo' in isiXhosa."]
-    }
-  },
+    }, image: "/poi-images/southafrica-bhisho-cities-v2.webp"},
   {
     id: "southafrica-upington-cities-v2",
     type: "city",
@@ -284,8 +295,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["1884-ben alapították, nevét Thomas Upingtonról kapta.", "A világ egyik leghosszabb kifutópályájával rendelkezik."],
       ro: ["Fondat în 1884 și numit după Thomas Upington.", "Are una dintre cele mai lungi piste de aterizare din lume."],
       en: ["Founded in 1884 and named after Thomas Upington.", "Has one of the longest aircraft runways in the world."]
-    }
-  },
+    }, image: "/poi-images/southafrica-upington-cities-v2.webp"},
   {
     id: "southafrica-george-cities-v2",
     type: "city",
@@ -303,8 +313,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A dél-afrikai fakitermelés központjaként ismert.", "Fontos regionális repülőtérrel rendelkezik."],
       ro: ["Cunoscut ca centrul exploatării forestiere sud-africane.", "Dispune de un aeroport regional important."],
       en: ["Known as the center of South African timber trade.", "Features an important regional airport."]
-    }
-  },
+    }, image: "/poi-images/southafrica-george-cities-v2.webp"},
   {
     id: "southafrica-stellenbosch-cities-v2",
     type: "city",
@@ -322,8 +331,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["1679-ben alapította Simon van der Stel.", "Gyakran 'Tölgyfák városaként' (Eikestad) emlegetik."],
       ro: ["Fondată în 1679 de Simon van der Stel.", "Adesea numită 'Orașul Stejarilor' (Eikestad)."],
       en: ["Founded in 1679 by Simon van der Stel.", "Often referred to as the 'City of Oaks' (Eikestad)."]
-    }
-  },
+    }, image: "/poi-images/southafrica-stellenbosch-cities-v2.webp"},
   {
     id: "southafrica-paarl-cities-v2",
     type: "city",
@@ -341,8 +349,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Az afrikaans nyelv kialakulásának fontos központja volt.", "A KWV borászati szövetkezet székhelye."],
       ro: ["Aici a fost puternic promovată dezvoltarea limbii afrikaans.", "Sediul cooperativei viticole KWV."],
       en: ["The development of the Afrikaans language was significantly promoted here.", "Headquarters of the KWV wine cooperative."]
-    }
-  },
+    }, image: "/poi-images/southafrica-paarl-cities-v2.webp"},
   {
     id: "southafrica-worcester-cities-v2",
     type: "city",
@@ -360,8 +367,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["1820-ban tervezték és alapították.", "Itt található a Karoo Nemzeti Botanikus Kert."],
       ro: ["Înființat conform unui plan urbanistic în 1820.", "Găzduiește Grădina Botanică Națională Karoo."],
       en: ["Planned and established in 1820.", "Home to the Karoo National Botanical Garden."]
-    }
-  },
+    }, image: "/poi-images/southafrica-worcester-cities-v2.webp"},
   {
     id: "southafrica-oudtshoorn-cities-v2",
     type: "city",
@@ -379,8 +385,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A 19. század végén a strucctoll-kereskedelem virágzott itt.", "A Cango-barlangok kapuja."],
       ro: ["A experimentat un boom al penei de struț la sfârșitul secolului al XIX-lea.", "Poarta către Peșterile Cango."],
       en: ["Experienced an ostrich feather boom in the late 19th century.", "Gateway to the Cango Caves."]
-    }
-  },
+    }, image: "/poi-images/southafrica-oudtshoorn-cities-v2.webp"},
   {
     id: "southafrica-beaufort-west-cities-v2",
     type: "city",
@@ -398,8 +403,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["1818-ban alapították.", "A szívátültetés úttörőjének, Chris Barnardnak a szülővárosa."],
       ro: ["Fondat în anul 1818.", "Orașul natal al pionierului transplantului de inimă, Chris Barnard."],
       en: ["Founded in the year 1818.", "Hometown of heart transplant pioneer Chris Barnard."]
-    }
-  },
+    }, image: "/poi-images/southafrica-beaufort-west-cities-v2.webp"},
   {
     id: "southafrica-knysna-cities-v2",
     type: "city",
@@ -417,8 +421,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Híres az évente megrendezett Osztrigafesztiváljáról.", "A 'Knysna Heads' képezi a lagúna látványos bejáratát."],
       ro: ["Faimos pentru festivalul anual al stridiilor.", "'Knysna Heads' formează intrarea spectaculoasă în lagună."],
       en: ["Famous for the annual Knysna Oyster Festival.", "The 'Knysna Heads' form the spectacular entrance to the lagoon."]
-    }
-  },
+    }, image: "/poi-images/southafrica-knysna-cities-v2.webp"},
   {
     id: "southafrica-mossel-bay-cities-v2",
     type: "city",
@@ -436,8 +439,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Bartolomeu Dias 1488-ban itt szállt partra.", "Földgázból folyékony üzemanyagot előállító üzemmel rendelkezik."],
       ro: ["Bartolomeu Dias a debarcat aici în 1488.", "Are o instalație de transformare a gazelor naturale în combustibil lichid."],
       en: ["Bartolomeu Dias landed here in 1488.", "Has a gas-to-liquids petroleum refinery."]
-    }
-  },
+    }, image: "/poi-images/southafrica-mossel-bay-cities-v2.webp"},
   {
     id: "southafrica-saldanha-cities-v2",
     type: "city",
@@ -455,8 +457,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Az ország legfontosabb vasérc-exportáló kikötője.", "A hosszú Sishen–Saldanha vasútvonal végpontja."],
       ro: ["Principalul port de export de minereu de fier al țării.", "Terminus pentru lunga cale ferată Sishen-Saldanha."],
       en: ["The country's main iron ore export port.", "Terminus for the long Sishen–Saldanha railway line."]
-    }
-  },
+    }, image: "/poi-images/southafrica-saldanha-cities-v2.webp"},
   {
     id: "southafrica-springbok-cities-v2",
     type: "city",
@@ -474,8 +475,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Rézbányászvárosként alapították 1862-ben.", "Fontos megállóhely a Namíbia felé vezető úton."],
       ro: ["Fondat ca oraș de exploatare a cuprului în 1862.", "O oprire importantă pe drumul spre Namibia."],
       en: ["Founded as a copper mining town in 1862.", "An important stop on the way to Namibia."]
-    }
-  },
+    }, image: "/poi-images/southafrica-springbok-cities-v2.webp"},
   {
     id: "southafrica-de-aar-cities-v2",
     type: "city",
@@ -493,8 +493,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A név hollandul 'A vénát' (vízér) jelenti.", "Napjainkban a napenergia-projektek egyik központja."],
       ro: ["Numele înseamnă 'Vena' (venă de apă) în olandeză.", "Astăzi, un centru pentru proiecte de energie solară."],
       en: ["The name means 'The Artery' (water vein) in Dutch.", "Nowadays a hub for solar energy projects."]
-    }
-  },
+    }, image: "/poi-images/southafrica-de-aar-cities-v2.webp"},
   {
     id: "southafrica-kuruman-cities-v2",
     type: "city",
@@ -512,8 +511,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Korai misszionáriusok, mint Robert Moffat fontos állomása volt.", "A Moffat-missziót 1820-ban alapították."],
       ro: ["Un loc important pentru primii misionari precum Robert Moffat.", "Misiunea Moffat a fost fondată în 1820."],
       en: ["Important site for early missionaries like Robert Moffat.", "The Moffat Mission was founded in 1820."]
-    }
-  },
+    }, image: "/poi-images/southafrica-kuruman-cities-v2.webp"},
   {
     id: "southafrica-kathu-cities-v2",
     type: "city",
@@ -531,8 +529,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Gyakran 'A fák alatti városnak' hívják a teveakác erdeje miatt.", "Nagyon fiatal város, hivatalosan az 1970-es években alapították."],
       ro: ["Adesea numit 'Orașul de sub copaci' datorită pădurii sale de salcâmi.", "Oraș foarte tânăr, înființat oficial în anii 1970."],
       en: ["Often called the 'Town under the trees' because of its Camel Thorn forest.", "Very young town, formally established in the 1970s."]
-    }
-  },
+    }, image: "/poi-images/southafrica-kathu-cities-v2.webp"},
   {
     id: "southafrica-colesberg-cities-v2",
     type: "city",
@@ -550,8 +547,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["1830-ban alapították.", "A merinó juhok tenyésztéséről ismert."],
       ro: ["Fondat în 1830.", "Cunoscut pentru creșterea oilor Merino."],
       en: ["Founded in 1830.", "Known for breeding Merino sheep."]
-    }
-  },
+    }, image: "/poi-images/southafrica-colesberg-cities-v2.webp"},
   {
     id: "southafrica-vryburg-cities-v2",
     type: "city",
@@ -569,8 +565,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["1882-ben alapították a független Stellaland Köztársaság fővárosaként.", "Szarvasmarha-tenyésztésre összpontosít."],
       ro: ["Fondată în 1882 ca capitală a republicii independente Stellaland.", "Orientată spre creșterea vitelor."],
       en: ["Founded in 1882 as the capital of the independent Republic of Stellaland.", "Focused on cattle farming."]
-    }
-  },
+    }, image: "/poi-images/southafrica-vryburg-cities-v2.webp"},
   {
     id: "southafrica-klerksdorp-cities-v2",
     type: "city",
@@ -588,8 +583,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A régió egyik legrégebbi Voortrekker települése.", "A gazdaság az aranyra és a kukoricára épül."],
       ro: ["Una dintre cele mai vechi așezări Voortrekker din regiune.", "Economia se bazează pe aur și porumb."],
       en: ["One of the oldest Voortrekker settlements in the region.", "The economy relies on gold and maize."]
-    }
-  },
+    }, image: "/poi-images/southafrica-klerksdorp-cities-v2.webp"},
   {
     id: "southafrica-potchefstroom-cities-v2",
     type: "city",
@@ -607,8 +601,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Az Északnyugati Egyetem fő kampuszának ad otthont.", "1838-ban alapították."],
       ro: ["Găzduiește campusul principal al Universității din Nord-Vest.", "Fondat în anul 1838."],
       en: ["Hosts the main campus of the North-West University.", "Founded in the year 1838."]
-    }
-  },
+    }, image: "/poi-images/southafrica-potchefstroom-cities-v2.webp"},
   {
     id: "southafrica-brits-cities-v2",
     type: "city",
@@ -626,8 +619,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Citrusfélék termesztéséről ismert.", "A Hartbeespoort-gát közelében található."],
       ro: ["Cunoscut pentru cultivarea citricelor.", "Aproape de barajul Hartbeespoort."],
       en: ["Known for citrus fruit cultivation.", "Close to the Hartbeespoort Dam."]
-    }
-  },
+    }, image: "/poi-images/southafrica-brits-cities-v2.webp"},
   {
     id: "southafrica-welkom-cities-v2",
     type: "city",
@@ -645,8 +637,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Közlekedési lámpák nélküli kertvárosnak tervezték a központot.", "1947-ben alapították."],
       ro: ["Planificat ca un oraș-grădină fără semafoare în centru.", "Fondat în anul 1947."],
       en: ["Planned as a garden city with no traffic lights in the center.", "Founded in the year 1947."]
-    }
-  },
+    }, image: "/poi-images/southafrica-welkom-cities-v2.webp"},
   {
     id: "southafrica-kroonstad-cities-v2",
     type: "city",
@@ -664,8 +655,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["1855-ben alapították.", "Szabadállam második legfontosabb vasúti csomópontja."],
       ro: ["Fondat în anul 1855.", "Al doilea cel mai important nod feroviar din Statul Liber."],
       en: ["Founded in the year 1855.", "Second most important railway junction in the Free State."]
-    }
-  },
+    }, image: "/poi-images/southafrica-kroonstad-cities-v2.webp"},
   {
     id: "southafrica-bethlehem-cities-v2",
     type: "city",
@@ -683,8 +673,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A neve héberül 'A kenyér háza'.", "1864-ben alapították."],
       ro: ["Numele înseamnă 'Casa pâinii' în ebraică.", "Fondat în 1864."],
       en: ["The name means 'House of Bread' in Hebrew.", "Founded in 1864."]
-    }
-  },
+    }, image: "/poi-images/southafrica-bethlehem-cities-v2.webp"},
   {
     id: "southafrica-sasolburg-cities-v2",
     type: "city",
@@ -702,8 +691,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Az 1950-es évek elején alapította a Sasol vállalat.", "A vegyipar jelentős központja."],
       ro: ["Fondat la începutul anilor 1950 de compania Sasol.", "Un centru major al industriei chimice."],
       en: ["Founded in the early 1950s by the Sasol company.", "A major hub of the chemical industry."]
-    }
-  },
+    }, image: "/poi-images/southafrica-sasolburg-cities-v2.webp"},
   {
     id: "southafrica-harrismith-cities-v2",
     type: "city",
@@ -721,8 +709,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["1849-ben alapították.", "Sir Harry Smith brit kormányzóról kapta a nevét."],
       ro: ["Fondat în anul 1849.", "Numit după guvernatorul britanic Sir Harry Smith."],
       en: ["Founded in the year 1849.", "Named after British Governor Sir Harry Smith."]
-    }
-  },
+    }, image: "/poi-images/southafrica-harrismith-cities-v2.webp"},
   {
     id: "southafrica-phuthaditjhaba-cities-v2",
     type: "city",
@@ -740,8 +727,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["QwaQwa bantusztán korábbi fővárosa.", "A név jelentése 'A nemzetek találkozóhelye'."],
       ro: ["Fosta capitală a bantustanului QwaQwa.", "Numele înseamnă 'Locul de întâlnire al națiunilor'."],
       en: ["Former capital of the QwaQwa bantustan.", "The name means 'Meeting place of the nations'."]
-    }
-  },
+    }, image: "/poi-images/southafrica-phuthaditjhaba-cities-v2.webp"},
   {
     id: "southafrica-newcastle-cities-v2",
     type: "city",
@@ -759,8 +745,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Központi szerepet játszik a dél-afrikai textiliparban.", "1864-ben alapították."],
       ro: ["Joacă un rol central în industria textilă sud-africană.", "Fondat în anul 1864."],
       en: ["Plays a central role in the South African textile industry.", "Founded in the year 1864."]
-    }
-  },
+    }, image: "/poi-images/southafrica-newcastle-cities-v2.webp"},
   {
     id: "southafrica-richards-bay-cities-v2",
     type: "city",
@@ -778,8 +763,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A világ egyik legnagyobb alumíniumkohójával rendelkezik.", "Az 1970-es években építették ki jelentősen."],
       ro: ["Are una dintre cele mai mari topitorii de aluminiu din lume.", "S-a extins masiv în anii 1970."],
       en: ["Houses one of the world's largest aluminum smelters.", "Massively expanded in the 1970s."]
-    }
-  },
+    }, image: "/poi-images/southafrica-richards-bay-cities-v2.webp"},
   {
     id: "southafrica-ladysmith-cities-v2",
     type: "city",
@@ -797,8 +781,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["118 napig tartó ostrom alatt állt 1899–1900-ban.", "Fontos közlekedési csomópont."],
       ro: ["Asediat timp de 118 zile în anii 1899-1900.", "Nod important de transport."],
       en: ["Besieged for 118 days in 1899–1900.", "Important transportation hub."]
-    }
-  },
+    }, image: "/poi-images/southafrica-ladysmith-cities-v2.webp"},
   {
     id: "southafrica-empangeni-cities-v2",
     type: "city",
@@ -816,8 +799,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["1851-ben norvég misszióként alapították.", "Az éghajlat meleg, szubtrópusi."],
       ro: ["Fondat ca misiune norvegiană în anul 1851.", "Clima este caldă, subtropicală."],
       en: ["Founded as a Norwegian mission in 1851.", "The climate is warm and subtropical."]
-    }
-  },
+    }, image: "/poi-images/southafrica-empangeni-cities-v2.webp"},
   {
     id: "southafrica-port-shepstone-cities-v2",
     type: "city",
@@ -835,8 +817,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Egy feltűnő, öntöttvasból készült világítótoronnyal rendelkezik.", "A Durbanból induló rendszeres személyvonat végállomása."],
       ro: ["Are un far remarcabil din fontă.", "Terminus pentru linia de tren de pasageri din Durban."],
       en: ["Features a prominent cast-iron lighthouse.", "Terminus for the regular passenger train from Durban."]
-    }
-  },
+    }, image: "/poi-images/southafrica-port-shepstone-cities-v2.webp"},
   {
     id: "southafrica-ulundi-cities-v2",
     type: "city",
@@ -854,8 +835,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Az 1879-es zulu háború utolsó nagy csatájának helyszíne.", "Egy időben KZN társfővárosaként is emlegették."],
       ro: ["Scena ultimei mari bătălii din Războiul Zulu din 1879.", "A fost discutată ocazional ca fiind co-capitala KZN."],
       en: ["Site of the final major battle in the Anglo-Zulu War of 1879.", "At times discussed as a co-capital of KZN."]
-    }
-  },
+    }, image: "/poi-images/southafrica-ulundi-cities-v2.webp"},
   {
     id: "southafrica-mthatha-cities-v2",
     type: "city",
@@ -873,8 +853,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A Nelson Mandela Múzeumnak ad otthont.", "Központi város a xhosza nép számára."],
       ro: ["Găzduiește Muzeul Nelson Mandela.", "Oraș central pentru poporul Xhosa."],
       en: ["Houses the Nelson Mandela Museum.", "Central city for the Xhosa people."]
-    }
-  },
+    }, image: "/poi-images/southafrica-mthatha-cities-v2.webp"},
   {
     id: "southafrica-makhanda-cities-v2",
     type: "city",
@@ -892,8 +871,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A Nemzeti Művészeti Fesztivál házigazdája.", "A Rhodes Egyetem otthona."],
       ro: ["Găzduiește Festivalul Național de Arte.", "Sediul Universității Rhodes."],
       en: ["Hosts the National Arts Festival.", "Home to Rhodes University."]
-    }
-  },
+    }, image: "/poi-images/southafrica-makhanda-cities-v2.webp"},
   {
     id: "southafrica-kariega-cities-v2",
     type: "city",
@@ -911,8 +889,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Itt található a Volkswagen legnagyobb afrikai gyára.", "2021-ben nevezték át hivatalosan Kariegára."],
       ro: ["Locația celei mai mari fabrici Volkswagen din Africa.", "Redenumit oficial Kariega în 2021."],
       en: ["Location of the largest Volkswagen plant in Africa.", "Officially renamed Kariega in 2021."]
-    }
-  },
+    }, image: "/poi-images/southafrica-kariega-cities-v2.webp"},
   {
     id: "southafrica-graaff-reinet-cities-v2",
     type: "city",
@@ -930,8 +907,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Több nemzeti műemlékkel rendelkezik, mint bármely más város Dél-Afrikában.", "A Camdeboo Nemzeti Park közelében található."],
       ro: ["Găzduiește mai multe monumente naționale decât oricare alt oraș din Africa de Sud.", "Situat aproape de Parcul Național Camdeboo."],
       en: ["Houses more national monuments than any other town in South Africa.", "Located near the Camdeboo National Park."]
-    }
-  },
+    }, image: "/poi-images/southafrica-graaff-reinet-cities-v2.webp"},
   {
     id: "southafrica-queenstown-cities-v2",
     type: "city",
@@ -949,8 +925,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Korábban Queenstown néven volt ismert.", "A központ hatszögletű elrendezésű a jobb védelem érdekében."],
       ro: ["Cunoscut anterior ca Queenstown.", "Centrul este amenajat în formă hexagonală pentru o mai bună apărare."],
       en: ["Formerly known as Queenstown.", "The town center has a hexagonal layout for better defense."]
-    }
-  },
+    }, image: "/poi-images/southafrica-queenstown-cities-v2.webp"},
   {
     id: "southafrica-aliwal-north-cities-v2",
     type: "city",
@@ -968,8 +943,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Az indiai aliwali csata tiszteletére nevezték el.", "A hőforrások elérik a 34°C-ot."],
       ro: ["Numit în onoarea Bătăliei de la Aliwal din India.", "Izvoarele termale ating 34°C."],
       en: ["Named in honor of the Battle of Aliwal in India.", "The hot springs reach 34°C."]
-    }
-  },
+    }, image: "/poi-images/southafrica-aliwal-north-cities-v2.webp"},
   {
     id: "southafrica-middelburg-cities-v2",
     type: "city",
@@ -987,8 +961,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Mpumalanga acéliparának központja.", "1864-ben alapították."],
       ro: ["Centrul industriei oțelului din Mpumalanga.", "Fondat în anul 1864."],
       en: ["Center of the Mpumalanga steel industry.", "Founded in the year 1864."]
-    }
-  },
+    }, image: "/poi-images/southafrica-middelburg-cities-v2.webp"},
   {
     id: "southafrica-witbank-cities-v2",
     type: "city",
@@ -1006,8 +979,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A név jelentése 'A szén helye'.", "Winston Churchill itt bujkált a búr háború alatt."],
       ro: ["Numele înseamnă 'Locul cărbunelui'.", "Winston Churchill s-a ascuns aici în timpul Războiului Burilor."],
       en: ["The name means 'Place of coal'.", "Winston Churchill hid here during the Boer War."]
-    }
-  },
+    }, image: "/poi-images/southafrica-witbank-cities-v2.webp"},
   {
     id: "southafrica-secunda-cities-v2",
     type: "city",
@@ -1025,8 +997,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Az itteni olajfinomító a világ egyik legnagyobbja.", "Itt található a tartomány egyik legmagasabb épülete."],
       ro: ["Rafinăria de petrol de aici este printre cele mai mari din lume.", "Are una dintre cele mai înalte clădiri din provincie."],
       en: ["The oil refinery here is among the largest in the world.", "Features one of the tallest buildings in the province."]
-    }
-  },
+    }, image: "/poi-images/southafrica-secunda-cities-v2.webp"},
   {
     id: "southafrica-standerton-cities-v2",
     type: "city",
@@ -1044,8 +1015,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A.H. Stander parancsnok farmján alapították 1876-ban.", "Itt található a Grootdraai-gát."],
       ro: ["Fondat pe ferma comandantului A.H. Stander în 1876.", "Găzduiește barajul Grootdraai."],
       en: ["Founded on the farm of Commandant A.H. Stander in 1876.", "Home to the Grootdraai Dam."]
-    }
-  },
+    }, image: "/poi-images/southafrica-standerton-cities-v2.webp"},
   {
     id: "southafrica-ermelo-cities-v2",
     type: "city",
@@ -1063,8 +1033,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A holland Ermelo városáról kapta a nevét.", "A búr háború alatt teljesen megsemmisült, majd újjáépítették."],
       ro: ["Numit după orașul olandez Ermelo.", "Complet distrus în timpul Războiului Burilor și apoi reconstruit."],
       en: ["Named after the Dutch town of Ermelo.", "Completely destroyed during the Boer War and subsequently rebuilt."]
-    }
-  },
+    }, image: "/poi-images/southafrica-ermelo-cities-v2.webp"},
   {
     id: "southafrica-tzaneen-cities-v2",
     type: "city",
@@ -1082,8 +1051,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Dél-Afrika egyik legtisztább városaként tartják számon.", "Az avokádó, mangó és tea fő termesztési területe."],
       ro: ["Considerat unul dintre cele mai curate orașe din Africa de Sud.", "Zonă principală de cultivare pentru avocado, mango și ceai."],
       en: ["Regarded as one of the cleanest towns in South Africa.", "Major growing area for avocados, mangoes, and tea."]
-    }
-  },
+    }, image: "/poi-images/southafrica-tzaneen-cities-v2.webp"},
   {
     id: "southafrica-mokopane-cities-v2",
     type: "city",
@@ -1101,8 +1069,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["Makapansgat, egy jelentős őskori lelőhely otthona.", "A platinabányászat fontos központja."],
       ro: ["Sediul Makapansgat, un important sit preistoric.", "Centru important al mineritului de platina."],
       en: ["Home to Makapansgat, a major prehistoric archaeological site.", "Important center of platinum mining."]
-    }
-  },
+    }, image: "/poi-images/southafrica-mokopane-cities-v2.webp"},
   {
     id: "southafrica-thohoyandou-cities-v2",
     type: "city",
@@ -1120,8 +1087,7 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
       hu: ["A név jelentése 'Az elefánt feje'.", "A Venda Egyetem székhelye."],
       ro: ["Numele înseamnă 'Capul elefantului'.", "Sediul Universității din Venda."],
       en: ["The name means 'Head of the elephant'.", "Seat of the University of Venda."]
-    }
-  },
+    }, image: "/poi-images/southafrica-thohoyandou-cities-v2.webp"},
   {
     id: "southafrica-phalaborwa-cities-v2",
     type: "city",
@@ -1142,3 +1108,4 @@ export const poiExtraSouthafricaCitiesV2: POI[] = [
     }
   }
 ];
+

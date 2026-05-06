@@ -1,424 +1,511 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCubaHistoryV2: POI[] = [
   {
-    id: "cu-moncada-barracks-history-v2",
+    id: "batalla-santa-clara-history-v2",
     type: "historical",
-    parent: "CU-13",
-    coords: [-75.8174, 20.0267],
-    name: { de: "Moncada-Kaserne", hu: "Moncada laktanya", ro: "Cazarma Moncada", en: "Moncada Barracks" },
-    description: { de: "Eine ehemalige Kaserne in Santiago de Cuba, deren Angriff 1953 den Beginn der Kubanischen Revolution markierte.", hu: "Egykori laktanya Santiago de Cubában, amelynek 1953-as megtámadása a kubai forradalom kezdetét jelentette.", ro: "Fostă cazarmă în Santiago de Cuba, al cărei atac din 1953 a marcat începutul Revoluției Cubaneze.", en: "A former barracks in Santiago de Cuba whose attack in 1953 marked the beginning of the Cuban Revolution." },
+    parent: "CU-VC",
+    coords: [-79.9555, 22.4075],
+    name: { de: "Schlacht von Santa Clara", hu: "Santa Clara-i csata", ro: "Bătălia de la Santa Clara", en: "Battle of Santa Clara" },
+    description: {
+      de: "Entscheidende Schlacht der kubanischen Revolution im Jahr 1958.",
+      hu: "A kubai forradalom döntő csatája 1958-ban.",
+      ro: "Bătălia decisivă a revoluției cubaneze din 1958.",
+      en: "Decisive battle of the Cuban Revolution in 1958."
+    },
     facts: {
-      de: ["Ort des Angriffs vom 26. Juli 1953", "Heute eine Schule und ein Museum"],
-      hu: ["Az 1953. július 26-i támadás helyszíne", "Ma iskola és múzeum"],
-      ro: ["Locul atacului din 26 iulie 1953", "Astăzi școală și muzeu"],
-      en: ["Site of the July 26, 1953 attack", "Now a school and museum"]
-    }
-  },
+      de: ["Geführt von Che Guevara", "Endete mit dem Sturz Batistas", "Zentrale Rolle der Eisenbahn", "Symbol des Sieges"],
+      hu: ["Che Guevara vezette", "Batista bukásához vezetett", "A vasút központi szerepe", "A győzelem szimbóluma"],
+      ro: ["Condusă de Che Guevara", "A dus la căderea lui Batista", "Rolul central al căii ferate", "Simbolul victoriei"],
+      en: ["Led by Che Guevara", "Led to the fall of Batista", "Central role of the train derailment", "Symbol of revolutionary victory"]
+    }, image: "/poi-images/batalla-santa-clara-history-v2.webp"},
   {
-    id: "cu-ingenio-alejandria-history-v2",
+    id: "fortaleza-cabana-history-v2",
     type: "historical",
-    parent: "CU-15",
-    coords: [-82.9333, 22.8167],
-    name: { de: "Ruinen der Zuckerfabrik Alejandría", hu: "Alejandría cukormalom romjai", ro: "Ruinele fabricii de zahăr Alejandría", en: "Alejandría Sugar Mill Ruins" },
-    description: { de: "Die Überreste einer bedeutenden kolonialen Zuckerfabrik aus dem 18. Jahrhundert in der Provinz Artemisa.", hu: "Egy jelentős 18. századi gyarmati cukorgyár maradványai Artemisa tartományban.", ro: "Rămășițele unei importante fabrici coloniale de zahăr din secolul al XVIII-lea în provincia Artemisa.", en: "The remains of a significant 18th-century colonial sugar mill in Artemisa province." },
+    parent: "CU-03",
+    coords: [-82.3486, 23.1467],
+    name: { de: "Fortaleza de la Cabaña", hu: "Fortaleza de la Cabaña erőd", ro: "Fortaleza de la Cabaña", en: "Fortaleza de la Cabaña" },
+    description: {
+      de: "Große Festung aus dem 18. Jahrhundert östlich der Hafeneinfahrt.",
+      hu: "Nagy 18. századi erődítmény a kikötő bejáratától keletre.",
+      ro: "Fortăreață mare din secolul al XVIII-lea la est de intrarea în port.",
+      en: "Large 18th-century fortress east of the harbor entrance."
+    },
     facts: {
-      de: ["Zeugnis der kolonialen Zuckerindustrie", "Erbaut im 18. Jahrhundert"],
-      hu: ["A gyarmati cukoripar tanúja", "A 18. században épült"],
-      ro: ["Mărturie a industriei coloniale a zahărului", "Construit în secolul al XVIII-lea"],
-      en: ["Witness to the colonial sugar industry", "Built in the 18th century"]
-    }
-  },
+      de: ["Erbaut ab 1763", "Diente als Gefängnis", "Teil des militärischen Verteidigungssystems", "Tägliche Zeremonien"],
+      hu: ["1763-tól épült", "Börtönként szolgált", "A védelmi rendszer része", "Napi szertartások"],
+      ro: ["Construită din 1763", "A servit drept închisoare", "Parte a sistemului de apărare", "Ceremonii zilnice"],
+      en: ["Construction started in 1763", "Used as a prison after the revolution", "Part of the city's colonial defense system", "Hosts evening cannon ceremonies"]
+    }, image: "/poi-images/fortaleza-cabana-history-v2.webp"},
   {
-    id: "cu-comandancia-plata-history-v2",
+    id: "museo-giron-history-v2",
     type: "historical",
-    parent: "CU-12",
-    coords: [-76.8878, 19.9678],
-    name: { de: "Comandancia de la Plata", hu: "Comandancia de la Plata", ro: "Comandancia de la Plata", en: "Comandancia de la Plata" },
-    description: { de: "Das versteckte Hauptquartier von Fidel Castros Rebellenarmee tief im Gebirge der Sierra Maestra.", hu: "Fidel Castro lázadó hadseregének rejtett főhadiszállása mélyen a Sierra Maestra hegységben.", ro: "Cartierul general ascuns al armatei rebele a lui Fidel Castro, adânc în munții Sierra Maestra.", en: "The hidden headquarters of Fidel Castro's rebel army deep in the Sierra Maestra mountains." },
+    parent: "CU-09",
+    coords: [-81.0333, 22.2167],
+    name: { de: "Museo de Playa Girón", hu: "Playa Girón Múzeum", ro: "Muzeul Playa Girón", en: "Playa Girón Museum" },
+    description: {
+      de: "Museum über die Invasion in der Schweinebucht im Jahr 1961.",
+      hu: "Múzeum a Disznó-öbölbeli invázióról 1961-ből.",
+      ro: "Muzeul invaziei din Golful Porcilor din 1961.",
+      en: "Museum dedicated to the 1961 Bay of Pigs invasion."
+    },
     facts: {
-      de: ["Gegründet im Jahr 1958", "Erreichbar nur zu Fuß über Bergpfade"],
-      hu: ["1958-ban alapították", "Csak gyalog, hegyi ösvényeken érhető el"],
-      ro: ["Înființat în anul 1958", "Accesibil doar pe jos pe poteci de munte"],
-      en: ["Established in 1958", "Accessible only on foot via mountain trails"]
-    }
-  },
+      de: ["Dokumentiert die Invasion 1961", "Zeigt militärisches Gerät", "Erinnerung an den Sieg Kubas", "Gelegen in der Schweinebucht"],
+      hu: ["Dokumentálja az 1961-es inváziót", "Katonai eszközöket mutat be", "Kuba győzelmének emlékhelye", "A Disznó-öbölben található"],
+      ro: ["Documentează invazia din 1961", "Exhibă echipamente militare", "Memorial al victoriei Cubei", "Situat în Golful Porcilor"],
+      en: ["Documents the 1961 invasion", "Exhibits captured military equipment", "Commemorates the Cuban victory", "Located in the Bay of Pigs"]
+    }, image: "/poi-images/museo-giron-history-v2.webp"},
   {
-    id: "cu-san-juan-hill-history-v2",
-    type: "historical",
-    parent: "CU-13",
-    coords: [-75.7958, 20.0211],
-    name: { de: "San-Juan-Hügel", hu: "San Juan-hegy", ro: "Dealul San Juan", en: "San Juan Hill" },
-    description: { de: "Der Ort der entscheidenden Schlacht im Spanisch-Amerikanischen Krieg von 1898 in der Nähe von Santiago de Cuba.", hu: "Az 1898-as spanyol-amerikai háború döntő csatájának helyszíne Santiago de Cuba közelében.", ro: "Locul bătăliei decisive din Războiul Hispano-American din 1898 lângă Santiago de Cuba.", en: "The site of the decisive battle in the Spanish-American War of 1898 near Santiago de Cuba." },
-    facts: {
-      de: ["Schlachtort der Rough Riders", "Historischer Wendepunkt 1898"],
-      hu: ["A Rough Riders csataterülete", "Történelmi fordulópont 1898-ban"],
-      ro: ["Locul bătăliei Rough Riders", "Punct de cotitură istoric în 1898"],
-      en: ["Battle site of the Rough Riders", "Historical turning point in 1898"]
-    }
-  },
-  {
-    id: "cu-che-guevara-mausoleum-history-v2",
-    type: "historical",
-    parent: "CU-05",
-    coords: [-79.9793, 22.4042],
-    name: { de: "Che Guevara Mausoleum", hu: "Che Guevara Mauzóleum", ro: "Mausoleul lui Che Guevara", en: "Che Guevara Mausoleum" },
-    description: { de: "Eine monumentale Gedenkstätte in Santa Clara, die die sterblichen Überreste von Ernesto 'Che' Guevara beherbergt.", hu: "Monumentális emlékhely Santa Clarában, ahol Ernesto 'Che' Guevara földi maradványai nyugszanak.", ro: "Un memorial monumental din Santa Clara care adăpostește rămășițele pământești ale lui Ernesto 'Che' Guevara.", en: "A monumental memorial in Santa Clara housing the remains of Ernesto 'Che' Guevara." },
-    facts: {
-      de: ["Beherbergt ein großes Bronzestandbild", "Überreste wurden 1997 hierher gebracht"],
-      hu: ["Hatalmas bronz szobrot foglal magába", "A maradványokat 1997-ben hozták ide"],
-      ro: ["Găzduiește o mare statuie de bronz", "Rămășițele au fost aduse aici în 1997"],
-      en: ["Features a large bronze statue", "Remains were brought here in 1997"]
-    }
-  },
-  {
-    id: "cu-tren-blindado-history-v2",
-    type: "historical",
-    parent: "CU-05",
-    coords: [-79.9572, 22.4081],
-    name: { de: "Denkmal des gepanzerten Zuges", hu: "Páncélvonat-emlékmű", ro: "Monumentul Trenului Blindat", en: "Armored Train Monument" },
-    description: { de: "Ein Museum in Santa Clara, das an den Ort erinnert, an dem Rebellen 1958 einen gepanzerten Regierungszug entgleisten.", hu: "Múzeum Santa Clarában, amely annak a helynek állít emléket, ahol a lázadók 1958-ban kisiklattak egy kormányzati páncélvonatot.", ro: "Un muzeu în Santa Clara care comemorează locul în care rebelii au deraiat un tren guvernamental blindat în 1958.", en: "A museum in Santa Clara commemorating the site where rebels derailed an armored government train in 1958." },
-    facts: {
-      de: ["Schlüsselsieg von Che Guevara", "Echte Waggons als Ausstellungsstücke"],
-      hu: ["Che Guevara kulcsfontosságú győzelme", "Eredeti vagonok, mint kiállítási tárgyak"],
-      ro: ["Victorie cheie a lui Che Guevara", "Vagoane reale ca piese de expoziție"],
-      en: ["Key victory for Che Guevara", "Original wagons used as exhibits"]
-    }
-  },
-  {
-    id: "cu-la-isabelica-history-v2",
-    type: "historical",
-    parent: "CU-13",
-    coords: [-75.6178, 20.0089],
-    name: { de: "Kaffeeplantage La Isabelica", hu: "La Isabelica kávéültetvény", ro: "Plantația de cafea La Isabelica", en: "La Isabelica Coffee Plantation" },
-    description: { de: "Die Ruinen einer von französischen Einwanderern im frühen 19. Jahrhundert gegründeten Kaffeeplantage.", hu: "Egy kora 19. századi, francia bevándorlók által alapított kávéültetvény romjai.", ro: "Ruinele unei plantații de cafea fondate de imigranții francezi la începutul secolului al XIX-lea.", en: "The ruins of a coffee plantation founded by French immigrants in the early 19th century." },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe", "Zeigt alte Kaffeetrocknungsanlagen"],
-      hu: ["UNESCO Világörökség része", "Régi kávészárító berendezéseket mutat be"],
-      ro: ["Patrimoniul Mondial UNESCO", "Prezintă vechi instalații de uscare a cafelei"],
-      en: ["UNESCO World Heritage Site", "Features old coffee drying facilities"]
-    }
-  },
-  {
-    id: "cu-bateria-reina-history-v2",
-    type: "historical",
-    parent: "CU-13",
-    coords: [-75.8361, 19.9725],
-    name: { de: "Batería de la Reina", hu: "Batería de la Reina", ro: "Batería de la Reina", en: "Batería de la Reina" },
-    description: { de: "Eine spanische Küstenbatterie, die zur Verteidigung der Bucht von Santiago de Cuba errichtet wurde.", hu: "Spanyol partvédő üteg, amelyet a Santiago de Cuba-i öböl védelmére építettek.", ro: "O baterie de coastă spaniolă construită pentru a apăra golful Santiago de Cuba.", en: "A Spanish coastal battery built to defend the bay of Santiago de Cuba." },
-    facts: {
-      de: ["Teil der kolonialen Verteidigung", "Erbaut im späten 18. Jahrhundert"],
-      hu: ["A gyarmati védelem része", "A 18. század végén épült"],
-      ro: ["Parte a apărării coloniale", "Construită la sfârșitul secolului al XVIII-lea"],
-      en: ["Part of the colonial defenses", "Built in the late 18th century"]
-    }
-  },
-  {
-    id: "cu-casa-natal-cespedes-history-v2",
+    id: "ruinas-cafetal-history-v2",
     type: "historical",
     parent: "CU-12",
-    coords: [-76.6439, 20.3758],
-    name: { de: "Geburtshaus von Carlos Manuel de Céspedes", hu: "Carlos Manuel de Céspedes szülőháza", ro: "Casa natală a lui Carlos Manuel de Céspedes", en: "Birthplace of Carlos Manuel de Céspedes" },
-    description: { de: "Das koloniale Wohnhaus in Bayamo, in dem der Vater der kubanischen Unabhängigkeit 1819 geboren wurde.", hu: "Gyarmati lakóház Bayamóban, ahol a kubai függetlenség atyja 1819-ben született.", ro: "Casa colonială din Bayamo unde s-a născut părintele independenței Cubei în 1819.", en: "The colonial house in Bayamo where the father of Cuban independence was born in 1819." },
+    coords: [-75.8, 19.95],
+    name: { de: "Ruinen französischer Kaffeeplantagen", hu: "Francia kávéültetvények romjai", ro: "Ruinele plantațiilor franceze de cafea", en: "Ruins of French Coffee Plantations" },
+    description: {
+      de: "Überreste alter Kaffeefarmen aus dem 19. Jahrhundert im Escambray.",
+      hu: "19. századi régi kávéfarmok maradványai az Escambray-ben.",
+      ro: "Rămășițe ale vechilor ferme de cafea din secolul al XIX-lea în Escambray.",
+      en: "Remains of 19th-century coffee farms in the Escambray region."
+    },
     facts: {
-      de: ["Céspedes befreite seine Sklaven 1868", "Heute ein Museum über sein Leben"],
-      hu: ["Céspedes 1868-ban szabadította fel rabszolgáit", "Ma az életét bemutató múzeum"],
-      ro: ["Céspedes și-a eliberat sclavii în 1868", "Astăzi un muzeu despre viața sa"],
-      en: ["Céspedes freed his slaves in 1868", "Now a museum about his life"]
-    }
-  },
+      de: ["UNESCO-Welterbe-Region", "Gegründet durch französische Flüchtlinge", "Architektonische Zeugnisse", "Einfluss auf die Wirtschaft"],
+      hu: ["UNESCO Világörökségi régió", "Francia menekültek alapították", "Építészeti tanúbizonyságok", "Gazdasági hatás"],
+      ro: ["Regiune în Patrimoniul Mondial UNESCO", "Fondate de refugiați francezi", "Mărturii arhitecturale", "Impact economic"],
+      en: ["UNESCO World Heritage region", "Founded by French refugees", "Architectural remnants of 19th-century farming", "Historical impact on the local economy"]
+    }, image: "/poi-images/ruinas-cafetal-history-v2.webp"},
   {
-    id: "cu-manaca-iznaga-tower-history-v2",
-    type: "historical",
-    parent: "CU-07",
-    coords: [-79.8822, 21.8344],
-    name: { de: "Sklavenwachturm Manaca Iznaga", hu: "Manaca Iznaga rabszolga-megfigyelőtorony", ro: "Turnul de veghe pentru sclavi Manaca Iznaga", en: "Manaca Iznaga Slave Watchtower" },
-    description: { de: "Ein 45 Meter hoher Turm im Valle de los Ingenios, der früher zur Überwachung der Sklaven auf den Zuckerrohrfeldern diente.", hu: "Egy 45 méter magas torony a Valle de los Ingenios-ban, amely korábban a cukornádültetvényeken dolgozó rabszolgák megfigyelésére szolgált.", ro: "Un turn înalt de 45 de metri în Valle de los Ingenios, folosit anterior pentru a supraveghea sclavii de pe plantațiile de trestie de zahăr.", en: "A 45-meter-high tower in the Valle de los Ingenios, formerly used to watch over slaves in the sugarcane fields." },
-    facts: {
-      de: ["Erbaut um 1816", "Der Turm hat sieben Ebenen"],
-      hu: ["1816 körül épült", "A toronynak hét szintje van"],
-      ro: ["Construit în jurul anului 1816", "Turnul are șapte niveluri"],
-      en: ["Built around 1816", "The tower has seven levels"]
-    }
-  },
-  {
-    id: "cu-chorro-de-maita-history-v2",
-    type: "historical",
-    parent: "CU-11",
-    coords: [-75.8778, 21.0964],
-    name: { de: "Archäologische Stätte Chorro de Maíta", hu: "Chorro de Maíta régészeti lelőhely", ro: "Situl arheologic Chorro de Maíta", en: "Chorro de Maíta Archaeological Site" },
-    description: { de: "Eine der wichtigsten Ausgrabungsstätten Kubas, die ein indigenes Friedhofsgelände mit über 100 Bestattungen zeigt.", hu: "Kuba egyik legfontosabb ásatási helyszíne, amely egy őslakos temetőt mutat be több mint 100 sírral.", ro: "Unul dintre cele mai importante situri de excavare din Cuba, care prezintă un cimitir indigen cu peste 100 de înmormântări.", en: "One of Cuba's most important excavation sites, revealing an indigenous cemetery with over 100 burials." },
-    facts: {
-      de: ["Entdeckt im Jahr 1986", "Zeigt Spuren des Kontakts mit Europäern"],
-      hu: ["1986-ban fedezték fel", "Az európaiakkal való kapcsolat nyomait mutatja"],
-      ro: ["Descoperit în anul 1986", "Prezintă urme ale contactului cu europenii"],
-      en: ["Discovered in 1986", "Shows traces of contact with Europeans"]
-    }
-  },
-  {
-    id: "cu-fuerte-matachin-history-v2",
+    id: "fuerte-matachin-history-v2",
     type: "historical",
     parent: "CU-14",
-    coords: [-74.4925, 20.3458],
-    name: { de: "Fort Matachín", hu: "Matachín-erőd", ro: "Fortul Matachín", en: "Matachín Fort" },
-    description: { de: "Eine historische Festung in Baracoa, die gebaut wurde, um die Stadt vor Piratenangriffen zu schützen.", hu: "Történelmi erőd Baracoában, amelyet azért építettek, hogy megvédje a várost a kalóztámadásoktól.", ro: "O fortăreață istorică din Baracoa construită pentru a proteja orașul de atacurile piraților.", en: "A historical fortress in Baracoa built to protect the city from pirate attacks." },
+    coords: [-74.502, 20.352],
+    name: { de: "Fuerte Matachín", hu: "Fuerte Matachín erőd", ro: "Fuerte Matachín", en: "Fuerte Matachín" },
+    description: {
+      de: "Historische Festung in Baracoa, beherbergt das Stadtmuseum.",
+      hu: "Történelmi erőd Baracoában, a városi múzeumnak ad otthont.",
+      ro: "Fortăreață istorică în Baracoa, găzduiește muzeul orașului.",
+      en: "Historic fortress in Baracoa, home to the municipal museum."
+    },
     facts: {
-      de: ["Errichtet im Jahr 1802", "Dient heute als Stadtmuseum"],
-      hu: ["1802-ben épült", "Ma városi múzeumként működik"],
-      ro: ["Construit în anul 1802", "Astăzi servește drept muzeu al orașului"],
-      en: ["Built in 1802", "Today serves as a city museum"]
-    }
-  },
+      de: ["Erbaut im 18. Jahrhundert", "Teil des Verteidigungssystems", "Heute Stadtmuseum", "Koloniale Architektur"],
+      hu: ["A 18. században épült", "A védelmi rendszer része", "Ma városi múzeum", "Gyarmati építészet"],
+      ro: ["Construit în secolul al XVIII-lea", "Parte a sistemului de apărare", "Astăzi muzeu municipal", "Arhitectură colonială"],
+      en: ["Built in the 18th century", "Part of Baracoa's colonial defenses", "Now serves as the municipal museum", "Well-preserved colonial design"]
+    }, image: "/poi-images/fuerte-matachin-history-v2.webp"},
   {
-    id: "cu-bateria-pezuela-history-v2",
-    type: "historical",
-    parent: "CU-11",
-    coords: [-76.1264, 21.1119],
-    name: { de: "Batería de Pezuela", hu: "Batería de Pezuela", ro: "Batería de Pezuela", en: "Batería de Pezuela" },
-    description: { de: "Eine alte spanische Artilleriebatterie an der Küste von Gibara, erbaut während des Unabhängigkeitskrieges.", hu: "Régi spanyol tüzérségi üteg Gibara partjainál, a függetlenségi háború alatt épült.", ro: "O veche baterie de artilerie spaniolă pe coasta Gibarei, construită în timpul Războiului de Independență.", en: "An old Spanish artillery battery on the coast of Gibara, built during the War of Independence." },
-    facts: {
-      de: ["Wichtige Küstenverteidigung", "Bietet einen Blick auf den Atlantik"],
-      hu: ["Fontos partvédelem", "Kilátást nyújt az Atlanti-óceánra"],
-      ro: ["Apărare importantă a coastei", "Oferă o vedere la Oceanul Atlantic"],
-      en: ["Important coastal defense", "Offers a view of the Atlantic Ocean"]
-    }
-  },
-  {
-    id: "cu-cuartel-cespedes-history-v2",
+    id: "casa-diego-velazquez-history-v2",
     type: "historical",
     parent: "CU-12",
-    coords: [-76.6417, 20.3742],
-    name: { de: "Kaserne Carlos Manuel de Céspedes", hu: "Carlos Manuel de Céspedes laktanya", ro: "Cazarma Carlos Manuel de Céspedes", en: "Carlos Manuel de Céspedes Barracks" },
-    description: { de: "Eine Kaserne in Bayamo, die gleichzeitig mit der Moncada-Kaserne im Jahr 1953 von Rebellen angegriffen wurde.", hu: "Laktanya Bayamóban, amelyet a Moncada laktanyával egy időben támadtak meg a lázadók 1953-ban.", ro: "O cazarmă în Bayamo care a fost atacată de rebeli în același timp cu Cazarma Moncada în 1953.", en: "A barracks in Bayamo that was attacked by rebels simultaneously with the Moncada Barracks in 1953." },
+    coords: [-75.828, 20.021],
+    name: { de: "Haus von Diego Velázquez", hu: "Diego Velázquez háza", ro: "Casa lui Diego Velázquez", en: "Diego Velázquez House" },
+    description: {
+      de: "Das älteste Haus Kubas in Santiago, einst Wohnsitz des Gouverneurs.",
+      hu: "Kuba legrégebbi háza Santiago de Cubában, a kormányzó egykori otthona.",
+      ro: "Cea mai veche casă din Cuba în Santiago, fosta reședință a guvernatorului.",
+      en: "The oldest house in Cuba, located in Santiago de Cuba."
+    },
     facts: {
-      de: ["Teil der revolutionären Angriffe", "Ehemalige Garnison der Batista-Armee"],
-      hu: ["A forradalmi támadások része", "A Batista-hadsereg egykori helyőrsége"],
-      ro: ["Parte a atacurilor revoluționare", "Fostă garnizoană a armatei lui Batista"],
-      en: ["Part of the revolutionary attacks", "Former garrison of Batista's army"]
-    }
-  },
+      de: ["Gegründet um 1515", "Älteste koloniale Residenz", "Heute Museum", "Mudejar-Stil"],
+      hu: ["1515 körül alapították", "A legrégebbi gyarmati rezidencia", "Ma múzeum", "Mudejar stílus"],
+      ro: ["Fondată în jurul anului 1515", "Cea mai veche reședință colonială", "Astăzi muzeu", "Stil Mudejar"],
+      en: ["Built around 1515", "The oldest colonial residence in Cuba", "Now a museum", "Unique Mudejar architectural style"]
+    }, image: "/poi-images/casa-diego-velazquez-history-v2.webp"},
   {
-    id: "cu-fuerte-san-jose-history-v2",
-    type: "historical",
-    parent: "CU-04",
-    coords: [-81.5644, 23.0489],
-    name: { de: "Fort San José", hu: "San José-erőd", ro: "Fortul San José", en: "San José Fort" },
-    description: { de: "Eine historische Verteidigungsanlage, die im 19. Jahrhundert zum Schutz der Bucht von Matanzas errichtet wurde.", hu: "Történelmi védelmi létesítmény, amelyet a 19. században építettek a Matanzasi-öböl védelmére.", ro: "O facilitate istorică de apărare construită în secolul al XIX-lea pentru a proteja Golful Matanzas.", en: "A historical defensive structure built in the 19th century to protect the Bay of Matanzas." },
-    facts: {
-      de: ["Militärische Architektur", "Zeugnis der strategischen Bedeutung von Matanzas"],
-      hu: ["Katonai építészet", "Matanzas stratégiai jelentőségének tanúja"],
-      ro: ["Arhitectură militară", "Mărturie a importanței strategice a orașului Matanzas"],
-      en: ["Military architecture", "Witness to the strategic importance of Matanzas"]
-    }
-  },
-  {
-    id: "cu-castillo-san-severino-history-v2",
-    type: "historical",
-    parent: "CU-04",
-    coords: [-81.5511, 23.0583],
-    name: { de: "Burg San Severino", hu: "San Severino-kastély", ro: "Castelul San Severino", en: "San Severino Castle" },
-    description: { de: "Eine massive Steinfestung in Matanzas, die einst zur Verteidigung diente und heute das Museum der Sklavenroute beherbergt.", hu: "Egy masszív kőerőd Matanzasban, amely egykor védelmi célokat szolgált, ma pedig a Rabszolgaút Múzeumának ad otthont.", ro: "O cetate masivă de piatră din Matanzas care a servit cândva la apărare și găzduiește acum Muzeul Rutei Sclavilor.", en: "A massive stone fortress in Matanzas that once served for defense and now houses the Museum of the Slave Route." },
-    facts: {
-      de: ["Erbaut ab 1693", "Italienische Renaissance-Architektur"],
-      hu: ["1693-tól épült", "Olasz reneszánsz építészet"],
-      ro: ["Construit începând cu 1693", "Arhitectură renascentistă italiană"],
-      en: ["Built starting in 1693", "Italian Renaissance architecture"]
-    }
-  },
-  {
-    id: "cu-el-templete-history-v2",
-    type: "historical",
-    parent: "CU-03",
-    coords: [-82.3486, 23.1403],
-    name: { de: "El Templete", hu: "El Templete", ro: "El Templete", en: "El Templete" },
-    description: { de: "Ein kleiner neoklassizistischer Tempel auf der Plaza de Armas in Havanna, der an die Gründung der Stadt im Jahr 1519 erinnert.", hu: "Egy kis neoklasszikus templom a havannai Plaza de Armas-on, amely a város 1519-es alapításának állít emléket.", ro: "Un mic templu neoclasic din Plaza de Armas din Havana, care comemorează fondarea orașului în 1519.", en: "A small neoclassical temple on the Plaza de Armas in Havana, commemorating the city's founding in 1519." },
-    facts: {
-      de: ["Errichtet 1828", "Beherbergt einen Ceiba-Baum"],
-      hu: ["1828-ban épült", "Egy ceiba fa található benne"],
-      ro: ["Construit în 1828", "Adăpostește un copac ceiba"],
-      en: ["Erected in 1828", "Houses a ceiba tree"]
-    }
-  },
-  {
-    id: "cu-convento-santa-clara-history-v2",
-    type: "historical",
-    parent: "CU-03",
-    coords: [-82.3503, 23.1347],
-    name: { de: "Kloster Santa Clara", hu: "Santa Clara kolostor", ro: "Mănăstirea Santa Clara", en: "Santa Clara Convent" },
-    description: { de: "Das erste und größte Kloster in Havanna, das im 17. Jahrhundert erbaut wurde und einen ganzen Straßenblock einnimmt.", hu: "Havanna első és legnagyobb kolostora, amely a 17. században épült, és egy egész háztömböt elfoglal.", ro: "Prima și cea mai mare mănăstire din Havana, construită în secolul al XVII-lea, ocupând un întreg bloc.", en: "The first and largest convent in Havana, built in the 17th century and occupying an entire city block." },
-    facts: {
-      de: ["Gegründet im Jahr 1644", "Enthält die ersten öffentlichen Bäder"],
-      hu: ["1644-ben alapították", "Itt találhatók az első nyilvános fürdők"],
-      ro: ["Înființat în 1644", "Conține primele băi publice"],
-      en: ["Founded in 1644", "Contains the first public baths"]
-    }
-  },
-  {
-    id: "cu-palacio-capitanes-generales-history-v2",
-    type: "historical",
-    parent: "CU-03",
-    coords: [-82.3494, 23.1394],
-    name: { de: "Palast der Generalkapitäne", hu: "Főkapitányok palotája", ro: "Palatul Căpitanilor Generali", en: "Palace of the Captains General" },
-    description: { de: "Ein prächtiges Gebäude in der Altstadt von Havanna, das früher die Residenz der spanischen Gouverneure war.", hu: "Pompás épület Havanna óvárosában, amely korábban a spanyol kormányzók rezidenciája volt.", ro: "O clădire magnifică în centrul vechi al Havanei, care a fost anterior reședința guvernatorilor spanioli.", en: "A magnificent building in Old Havana that was formerly the residence of the Spanish governors." },
-    facts: {
-      de: ["Meisterwerk des kubanischen Barock", "Heute das Stadtmuseum"],
-      hu: ["A kubai barokk remekműve", "Ma a Városi Múzeum"],
-      ro: ["Capodoperă a barocului cubanez", "Astăzi Muzeul Orașului"],
-      en: ["Masterpiece of Cuban Baroque", "Today the City Museum"]
-    }
-  },
-  {
-    id: "cu-cueva-portales-history-v2",
-    type: "historical",
-    parent: "CU-01",
-    coords: [-83.4864, 22.6842],
-    name: { de: "Höhle der Portale", hu: "Portálok barlangja", ro: "Peștera Portalelor", en: "Cave of the Portals" },
-    description: { de: "Ein großes Höhlensystem, das während der Kubakrise 1962 als geheimer Kommandoposten von Che Guevara diente.", hu: "Nagy barlangrendszer, amely az 1962-es kubai rakétaválság idején Che Guevara titkos parancsnoki posztjaként szolgált.", ro: "Un sistem mare de peșteri care a servit drept post de comandă secret al lui Che Guevara în timpul crizei rachetelos din 1962.", en: "A large cave system that served as Che Guevara's secret command post during the 1962 Cuban Missile Crisis." },
-    facts: {
-      de: ["Befindet sich in der Provinz Pinar del Río", "Nationales Monument seit 1980"],
-      hu: ["Pinar del Río tartományban található", "1980 óta nemzeti műemlék"],
-      ro: ["Situat în provincia Pinar del Río", "Monument național din 1980"],
-      en: ["Located in Pinar del Río province", "National monument since 1980"]
-    }
-  },
-  {
-    id: "cu-combate-guasimas-history-v2",
-    type: "historical",
-    parent: "CU-13",
-    coords: [-75.6422, 19.9575],
-    name: { de: "Schlachtfeld von Las Guásimas", hu: "Las Guásimas-i csatatér", ro: "Câmpul de luptă de la Las Guásimas", en: "Las Guásimas Battlefield" },
-    description: { de: "Der Ort des ersten großen Landgefechts im Spanisch-Amerikanischen Krieg 1898 in der Nähe von Sevilla, Kuba.", hu: "Az 1898-as spanyol-amerikai háború első nagy szárazföldi ütközetének helyszíne a kubai Sevilla közelében.", ro: "Locul primului mare angajament terestru din Războiul Hispano-American din 1898, lângă Sevilla, Cuba.", en: "The site of the first major land engagement in the Spanish-American War in 1898 near Sevilla, Cuba." },
-    facts: {
-      de: ["Kämpfe fanden im Juni 1898 statt", "Wichtiger Schritt in Richtung Santiago"],
-      hu: ["A harcok 1898 júniusában zajlottak", "Fontos lépés Santiago felé"],
-      ro: ["Luptele au avut loc în iunie 1898", "Pas important spre Santiago"],
-      en: ["Fighting took place in June 1898", "Important step towards Santiago"]
-    }
-  },
-  {
-    id: "cu-festung-el-viso-history-v2",
-    type: "historical",
-    parent: "CU-13",
-    coords: [-75.7661, 20.0453],
-    name: { de: "Festung El Viso", hu: "El Viso erőd", ro: "Fortăreața El Viso", en: "El Viso Fortress" },
-    description: { de: "Eine kleine spanische Festung bei El Caney, die während des Spanisch-Amerikanischen Krieges von großer strategischer Bedeutung war.", hu: "Kis spanyol erőd El Caney közelében, amely a spanyol-amerikai háború során nagy stratégiai jelentőséggel bírt.", ro: "O mică fortăreață spaniolă lângă El Caney, care a fost de mare importanță strategică în timpul Războiului Hispano-American.", en: "A small Spanish fortress near El Caney that was of great strategic importance during the Spanish-American War." },
-    facts: {
-      de: ["Verteidigt von General Vara del Rey", "Ort schwerer Kämpfe im Jahr 1898"],
-      hu: ["Vara del Rey tábornok védte", "Heves harcok helyszíne 1898-ban"],
-      ro: ["Apărată de generalul Vara del Rey", "Locul unor lupte grele în 1898"],
-      en: ["Defended by General Vara del Rey", "Site of heavy fighting in 1898"]
-    }
-  },
-  {
-    id: "cu-museo-intervencion-history-v2",
-    type: "historical",
-    parent: "CU-04",
-    coords: [-81.0264, 22.0658],
-    name: { de: "Interventionsmuseum", hu: "Intervenciós Múzeum", ro: "Muzeul Intervenției", en: "Museum of Intervention" },
-    description: { de: "Ein Museum in Playa Girón, das der gescheiterten Invasion in der Schweinebucht im Jahr 1961 gewidmet ist.", hu: "Múzeum Playa Girónban, amelyet az 1961-es sikertelen Disznó-öbölbeli inváziónak szenteltek.", ro: "Un muzeu în Playa Girón dedicat invaziei eșuate din Golful Porcilor în 1961.", en: "A museum in Playa Girón dedicated to the failed Bay of Pigs invasion in 1961." },
-    facts: {
-      de: ["Zeigt Waffen und Flugzeuge", "Gedenkt dem kubanischen Sieg"],
-      hu: ["Fegyvereket és repülőgépeket mutat be", "A kubai győzelemnek állít emléket"],
-      ro: ["Prezintă arme și avioane", "Comemorează victoria cubaneză"],
-      en: ["Displays weapons and aircraft", "Commemorates the Cuban victory"]
-    }
-  },
-  {
-    id: "cu-aldea-taina-guama-history-v2",
-    type: "historical",
-    parent: "CU-04",
-    coords: [-81.1117, 22.3164],
-    name: { de: "Taíno-Dorf Guamá", hu: "Guamá Taíno falu", ro: "Satul Taíno Guamá", en: "Guamá Taíno Village" },
-    description: { de: "Ein rekonstruiertes indigenes Dorf auf der Laguna del Tesoro, das das Leben der Taíno vor der Kolonialisierung darstellt.", hu: "Rekonstruált őslakos falu a Laguna del Tesoro-n, amely a taínók gyarmatosítás előtti életét mutatja be.", ro: "Un sat indigen reconstruit pe Laguna del Tesoro, care descrie viața taíno înainte de colonizare.", en: "A reconstructed indigenous village on Laguna del Tesoro depicting Taíno life before colonization." },
-    facts: {
-      de: ["Enthält lebensgroße Skulpturen", "Erreichbar nur per Boot"],
-      hu: ["Életnagyságú szobrokat tartalmaz", "Csak hajóval érhető el"],
-      ro: ["Conține sculpturi în mărime naturală", "Accesibil doar cu barca"],
-      en: ["Features life-size sculptures", "Accessible only by boat"]
-    }
-  },
-  {
-    id: "cu-monumento-hatuey-history-v2",
+    id: "moncada-barracks-history-v2",
     type: "historical",
     parent: "CU-12",
-    coords: [-76.9469, 20.2742],
-    name: { de: "Denkmal des Häuptlings Hatuey", hu: "Hatuey főnök emlékműve", ro: "Monumentul Căpeteniei Hatuey", en: "Monument of Chief Hatuey" },
-    description: { de: "Ein Denkmal in Yara, das an Hatuey erinnert, den Taíno-Häuptling, der als Kubas erster Nationalheld gilt und 1512 verbrannt wurde.", hu: "Emlékmű Yarában, amely Hatueyre, a taíno főnökre emlékeztet, akit Kuba első nemzeti hősének tartanak, és 1512-ben megégettek.", ro: "Un monument în Yara care îl comemorează pe Hatuey, căpetenia taíno considerat primul erou național al Cubei și ars pe rug în 1512.", en: "A monument in Yara commemorating Hatuey, the Taíno chief considered Cuba's first national hero, who was burned at the stake in 1512." },
+    coords: [-75.811, 20.025],
+    name: { de: "Moncada-Kaserne", hu: "Moncada-laktanya", ro: "Cazarma Moncada", en: "Moncada Barracks" },
+    description: {
+      de: "Ort des Angriffs von 1953, der die Revolution auslöste.",
+      hu: "Az 1953-as támadás helyszíne, amely elindította a forradalmat.",
+      ro: "Locul atacului din 1953 care a declanșat revoluția.",
+      en: "Site of the 1953 attack that triggered the Cuban Revolution."
+    },
     facts: {
-      de: ["Symbol des indigenen Widerstands", "Hatuey kam aus Hispaniola"],
-      hu: ["Az őslakosok ellenállásának szimbóluma", "Hatuey Hispaniolából származott"],
-      ro: ["Simbol al rezistenței indigene", "Hatuey venea din Hispaniola"],
-      en: ["Symbol of indigenous resistance", "Hatuey originated from Hispaniola"]
-    }
-  },
+      de: ["Angriff 1953 durch Castro", "Heute Schule und Museum", "Symbolischer Ort", "Historische Einschusslöcher"],
+      hu: ["Castro támadása 1953-ban", "Ma iskola és múzeum", "Szimbolikus hely", "Történelmi golyónyomok"],
+      ro: ["Atacul lui Castro din 1953", "Astăzi școală și muzeu", "Loc simbolic", "Urme istorice de gloanțe"],
+      en: ["Castro's 1953 attack occurred here", "Currently functions as a school and museum", "Symbolic site of the revolution", "Historical bullet holes still visible"]
+    }, image: "/poi-images/moncada-barracks-history-v2.webp"},
   {
-    id: "cu-fuerte-cojimar-history-v2",
+    id: "faro-morro-santiago-history-v2",
+    type: "historical",
+    parent: "CU-12",
+    coords: [-75.84, 19.97],
+    name: { de: "Leuchtturm von Santiago", hu: "Santiago-i világítótorony", ro: "Farul din Santiago", en: "Santiago Lighthouse" },
+    description: {
+      de: "Historischer Leuchtturm an der Festung Castillo de San Pedro.",
+      hu: "Történelmi világítótorony a Castillo de San Pedro erődnél.",
+      ro: "Far istoric la fortăreața Castillo de San Pedro.",
+      en: "Historic lighthouse at Castillo de San Pedro fortress."
+    },
+    facts: {
+      de: ["Teil des Festungskomplexes", "Navigationshilfe", "Koloniale Ära", "UNESCO-geschützt"],
+      hu: ["Az erődrendszer része", "Navigációs segédeszköz", "Gyarmati korszak", "UNESCO-védelem"],
+      ro: ["Parte a complexului fortificat", "Ajutor de navigație", "Epoca colonială", "Protejat UNESCO"],
+      en: ["Part of the fortification complex", "Historic navigation aid", "Colonial era structure", "UNESCO-protected"]
+    }, image: "/poi-images/faro-morro-santiago-history-v2.webp"},
+  {
+    id: "museo-revolucion-history-v2",
     type: "historical",
     parent: "CU-03",
-    coords: [-82.2961, 23.1653],
-    name: { de: "Fort Cojímar", hu: "Cojímar-erőd", ro: "Fortul Cojímar", en: "Cojímar Fort" },
-    description: { de: "Ein altes spanisches Fort aus dem Jahr 1649 im Fischerdorf Cojímar, das Teil des Verteidigungssystems von Havanna war.", hu: "Régi spanyol erőd 1649-ből Cojímar halászfaluban, amely a havannai védelmi rendszer része volt.", ro: "Un vechi fort spaniol din 1649 în satul de pescari Cojímar, care făcea parte din sistemul de apărare al Havanei.", en: "An old Spanish fort from 1649 in the fishing village of Cojímar, which was part of Havana's defense system." },
+    coords: [-82.3575, 23.1388],
+    name: { de: "Museum der Revolution", hu: "Forradalmi Múzeum", ro: "Muzeul Revoluției", en: "Museum of the Revolution" },
+    description: {
+      de: "Ehemals der Präsidentenpalast, jetzt Museum der Revolution.",
+      hu: "Korábban az elnöki palota, ma a forradalom múzeuma.",
+      ro: "Fostul palat prezidențial, acum Muzeul Revoluției.",
+      en: "Former presidential palace, now the Museum of the Revolution."
+    },
     facts: {
-      de: ["Errichtet unter spanischer Herrschaft", "1762 von den Briten angegriffen"],
-      hu: ["Spanyol uralom alatt épült", "1762-ben a britek megtámadták"],
-      ro: ["Construit sub stăpânire spaniolă", "Atacat de britanici în 1762"],
-      en: ["Erected under Spanish rule", "Attacked by the British in 1762"]
-    }
-  },
+      de: ["Ehemaliger Präsidentenpalast", "Ausstellung zum Widerstand", "Granma-Jacht ausgestellt", "Neoklassizistisches Gebäude"],
+      hu: ["Korábbi elnöki palota", "Ellenállási kiállítás", "Granma jacht kiállítva", "Neoklasszicista épület"],
+      ro: ["Fost palat prezidențial", "Expoziție despre rezistență", "Iahtul Granma expus", "Clădire neoclasică"],
+      en: ["Former Presidential Palace", "Exhibits on revolutionary struggle", "Granma yacht on display", "Stunning Neoclassical design"]
+    }, image: "/poi-images/museo-revolucion-history-v2.webp"},
   {
-    id: "cu-castillo-seboruco-history-v2",
+    id: "cemetery-santa-ifigenia-history-v2",
     type: "historical",
-    parent: "CU-14",
-    coords: [-74.4983, 20.3475],
-    name: { de: "Burg Seboruco", hu: "Seboruco-kastély", ro: "Castelul Seboruco", en: "Seboruco Castle" },
-    description: { de: "Eine Festung hoch über Baracoa, die im 18. Jahrhundert zum Schutz der ersten spanischen Siedlung in Kuba erbaut wurde.", hu: "Erődítmény Baracoa felett, amelyet a 18. században építettek Kuba első spanyol településének védelmére.", ro: "O fortăreață aflată deasupra orașului Baracoa, construită în secolul al XVIII-lea pentru a proteja prima așezare spaniolă din Cuba.", en: "A fortress high above Baracoa, built in the 18th century to protect the first Spanish settlement in Cuba." },
+    parent: "CU-12",
+    coords: [-75.823, 20.032],
+    name: { de: "Friedhof Santa Ifigenia", hu: "Santa Ifigenia temető", ro: "Cimitirul Santa Ifigenia", en: "Santa Ifigenia Cemetery" },
+    description: {
+      de: "Historischer Friedhof in Santiago, Grab von Jose Marti und Fidel Castro.",
+      hu: "Történelmi temető Santiago de Cubában, Jose Marti és Fidel Castro sírja.",
+      ro: "Cimitir istoric în Santiago, mormântul lui Jose Marti și Fidel Castro.",
+      en: "Historic cemetery in Santiago, burial site of Jose Marti and Fidel Castro."
+    },
     facts: {
-      de: ["Heute ein Hotel", "Bietet Panoramablick auf die Stadt"],
-      hu: ["Ma szállodaként működik", "Panorámás kilátást nyújt a városra"],
-      ro: ["Astăzi un hotel", "Oferă vederi panoramice ale orașului"],
-      en: ["Now a hotel", "Offers panoramic views of the city"]
-    }
-  },
+      de: ["Grab von José Martí", "Grab von Fidel Castro", "Nationaldenkmal", "Aufwendige Architektur"],
+      hu: ["José Martí sírja", "Fidel Castro sírja", "Nemzeti emlékhely", "Igényes építészet"],
+      ro: ["Mormântul lui José Martí", "Mormântul lui Fidel Castro", "Monument național", "Arhitectură elaborată"],
+      en: ["Burial site of José Martí", "Final resting place of Fidel Castro", "National Monument", "Elaborate funerary architecture"]
+    }, image: "/poi-images/cemetery-santa-ifigenia-history-v2.webp"},
   {
-    id: "cu-san-isidro-destiladeros-history-v2",
+    id: "fuerte-cojimar-history-v2",
+    type: "historical",
+    parent: "CU-03",
+    coords: [-82.28, 23.15],
+    name: { de: "Festung von Cojímar", hu: "Cojímar erődje", ro: "Fortăreața din Cojímar", en: "Fortress of Cojímar" },
+    description: {
+      de: "Kleine Festung in der Nähe von Havanna, oft mit Hemingway verbunden.",
+      hu: "Kis erőd Havanna közelében, gyakran kötik Hemingway-hez.",
+      ro: "Mică fortăreață lângă Havana, des asociată cu Hemingway.",
+      en: "Small fortress near Havana, often associated with Ernest Hemingway."
+    },
+    facts: {
+      de: ["Küstenverteidigung", "Verbindung zu 'Der alte Mann und das Meer'", "Koloniale Architektur", "Historischer Standort"],
+      hu: ["Parti védelem", "Kapcsolat 'Az öreg halász és a tenger'-hez", "Gyarmati építészet", "Történelmi helyszín"],
+      ro: ["Apărarea coastei", "Legătură cu 'Bătrânul și marea'", "Arhitectură colonială", "Locație istorică"],
+      en: ["Coastal defense structure", "Connected to Hemingway's 'Old Man and the Sea'", "Colonial era design", "Historic coastal location"]
+    }, image: "/poi-images/fuerte-cojimar-history-v2.webp"},
+  {
+    id: "casa-natal-marti-history-v2",
+    type: "historical",
+    parent: "CU-03",
+    coords: [-82.35, 23.13],
+    name: { de: "Geburtshaus von José Martí", hu: "José Martí szülőháza", ro: "Casa natală a lui José Martí", en: "José Martí Birthplace" },
+    description: {
+      de: "Geburtshaus des Nationalhelden Kubas in Havanna.",
+      hu: "Kuba nemzeti hősének szülőháza Havannában.",
+      ro: "Casa natală a eroului național al Cubei în Havana.",
+      en: "Birthplace of Cuba's national hero in Havana."
+    },
+    facts: {
+      de: ["Museum für Martí", "19. Jahrhundert Architektur", "Nationaldenkmal", "Besuchsort"],
+      hu: ["Múzeum Martí számára", "19. századi építészet", "Nemzeti emlékhely", "Látogatott hely"],
+      ro: ["Muzeu pentru Martí", "Arhitectură din secolul al XIX-lea", "Monument național", "Loc vizitat"],
+      en: ["Museum dedicated to Martí", "19th-century architecture", "National Monument", "Popular historical site"]
+    }, image: "/poi-images/casa-natal-marti-history-v2.webp"},
+  {
+    id: "museo-farmacia-history-v2",
+    type: "historical",
+    parent: "CU-04",
+    coords: [-81.57, 23.04],
+    name: { de: "Museo Farmacéutico", hu: "Gyógyszerészeti Múzeum", ro: "Muzeul Farmaceutic", en: "Pharmaceutical Museum" },
+    description: {
+      de: "Historische Apotheke in Matanzas, eine der ältesten in Lateinamerika.",
+      hu: "Történelmi gyógyszertár Matanzasban, az egyik legrégebbi Latin-Amerikában.",
+      ro: "Farmacie istorică în Matanzas, una dintre cele mai vechi din America Latină.",
+      en: "Historic pharmacy in Matanzas, one of the oldest in Latin America."
+    },
+    facts: {
+      de: ["Gegründet 1882", "Umfangreiche Sammlung", "Historische Einrichtung", "Einzigartiges Erbe"],
+      hu: ["1882-ben alapították", "Kiterjedt gyűjtemény", "Történelmi berendezés", "Egyedülálló örökség"],
+      ro: ["Fondată în 1882", "Colecție vastă", "Mobilier istoric", "Moștenire unică"],
+      en: ["Founded in 1882", "Extensive collection of jars", "Original historic furniture", "Unique heritage site"]
+    }, image: "/poi-images/museo-farmacia-history-v2.webp"},
+  {
+    id: "fuerte-remedios-history-v2",
+    type: "historical",
+    parent: "CU-05",
+    coords: [-79.55, 22.48],
+    name: { de: "Historisches Remedios", hu: "Történelmi Remedios", ro: "Remedios istoric", en: "Historic Remedios" },
+    description: {
+      de: "Eine der ältesten Städte Kubas mit gut erhaltenem Zentrum.",
+      hu: "Kuba egyik legrégebbi városa, jól megőrzött központtal.",
+      ro: "Unul dintre cele mai vechi orașe din Cuba, cu un centru bine conservat.",
+      en: "One of Cuba's oldest towns with a well-preserved historic center."
+    },
+    facts: {
+      de: ["Gegründet 1513", "Koloniale Architektur", "Traditionelle Feste", "Historischer Ort"],
+      hu: ["1513-ban alapították", "Gyarmati építészet", "Hagyományos ünnepségek", "Történelmi hely"],
+      ro: ["Fondat în 1513", "Arhitectură colonială", "Sărbători tradiționale", "Loc istoric"],
+      en: ["Founded in 1513", "Colonial era architecture", "Famous for Las Parrandas festival", "Important historic town"]
+    }, image: "/poi-images/fuerte-remedios-history-v2.webp"},
+  {
+    id: "museo-caibarien-history-v2",
+    type: "historical",
+    parent: "CU-05",
+    coords: [-79.46, 22.51],
+    name: { de: "Museo de Caibarién", hu: "Caibariéni Múzeum", ro: "Muzeul din Caibarién", en: "Caibarién Museum" },
+    description: {
+      de: "Museum in der Küstenstadt Caibarién mit lokaler Geschichte.",
+      hu: "Múzeum Caibarién tengerparti városában, helytörténeti gyűjteménnyel.",
+      ro: "Muzeu în orașul de coastă Caibarién cu istorie locală.",
+      en: "Museum in the coastal town of Caibarién featuring local history."
+    },
+    facts: {
+      de: ["Küstengeschichte", "Lokales Erbe", "Fischerei-Tradition", "Kulturelles Zentrum"],
+      hu: ["Partmenti történelem", "Helyi örökség", "Halászati hagyomány", "Kulturális központ"],
+      ro: ["Istoria coastei", "Moștenire locală", "Tradiție pescărească", "Centru cultural"],
+      en: ["Coastal history", "Local heritage", "Fishing tradition focus", "Cultural center"]
+    }, image: "/poi-images/museo-caibarien-history-v2.webp"},
+  {
+    id: "casa-camaguey-history-v2",
     type: "historical",
     parent: "CU-07",
-    coords: [-79.8889, 21.8211],
-    name: { de: "Zuckermühle San Isidro de los Destiladeros", hu: "San Isidro de los Destiladeros cukormalom", ro: "Fabrica de zahăr San Isidro de los Destiladeros", en: "San Isidro de los Destiladeros Sugar Mill" },
-    description: { de: "Ein archäologisches Reservat, das die Überreste einer der traditionellsten Zuckerfabriken im Valle de los Ingenios bewahrt.", hu: "Régészeti rezervátum, amely a Valle de los Ingenios egyik leghagyományosabb cukorgyárának maradványait őrzi.", ro: "O rezervație arheologică care păstrează rămășițele uneia dintre cele mai tradiționale fabrici de zahăr din Valle de los Ingenios.", en: "An archaeological reserve that preserves the remains of one of the most traditional sugar mills in the Valle de los Ingenios." },
+    coords: [-77.91, 21.38],
+    name: { de: "Casa del Patrimonio", hu: "Örökség Háza (Camagüey)", ro: "Casa Patrimoniului (Camagüey)", en: "Heritage House (Camagüey)" },
+    description: {
+      de: "Museum in Camagüey zur Bewahrung des städtischen Erbes.",
+      hu: "Múzeum Camagüeyben a városi örökség megőrzésére.",
+      ro: "Muzeu în Camagüey pentru păstrarea moștenirii urbane.",
+      en: "Museum in Camagüey dedicated to preserving urban heritage."
+    },
     facts: {
-      de: ["Zeigt das Haus des Eigentümers und einen Turm", "Wichtiges Zeugnis der Sklaverei"],
-      hu: ["Bemutatja a tulajdonos házát és egy tornyot", "A rabszolgaság fontos tanúja"],
-      ro: ["Prezintă casa proprietarului și un turn", "Mărturie importantă a sclaviei"],
-      en: ["Features the owner's house and a tower", "Important witness to slavery"]
-    }
-  },
+      de: ["Stadtgeschichte", "Denkmalschutz", "Architektonisches Erbe", "Kulturelles Wissen"],
+      hu: ["Várostörténet", "Műemlékvédelem", "Építészeti örökség", "Kulturális tudás"],
+      ro: ["Istoria orașului", "Conservarea monumentelor", "Moștenire arhitecturală", "Cunoștințe culturale"],
+      en: ["City history", "Monuments protection", "Architectural heritage", "Cultural insight"]
+    }, image: "/poi-images/casa-camaguey-history-v2.webp"},
   {
-    id: "cu-castillo-jagua-history-v2",
+    id: "ruinas-ingenios-history-v2",
     type: "historical",
     parent: "CU-06",
-    coords: [-80.4572, 22.0617],
-    name: { de: "Burg Jagua", hu: "Jagua-kastély", ro: "Castelul Jagua", en: "Jagua Castle" },
-    description: { de: "Eine beeindruckende spanische Festung aus dem Jahr 1745, die am Eingang der Bucht von Cienfuegos thront.", hu: "Lenyűgöző spanyol erődítmény 1745-ből, amely a Cienfuegos-i öböl bejáratánál magasodik.", ro: "O impresionantă fortăreață spaniolă din 1745, așezată la intrarea în Golful Cienfuegos.", en: "An impressive Spanish fortress dating back to 1745, perched at the entrance to the Bay of Cienfuegos." },
+    coords: [-79.9, 21.8],
+    name: { de: "Valle de los Ingenios", hu: "Cukormalmok völgye", ro: "Valea Morilor de Zahăr", en: "Valley of the Sugar Mills" },
+    description: {
+      de: "UNESCO-Welterbe-Region mit Ruinen alter Zuckermühlen.",
+      hu: "UNESCO Világörökségi régió, régi cukormalmok romjaival.",
+      ro: "Regiune în Patrimoniul Mondial UNESCO, cu ruine ale vechilor mori de zahăr.",
+      en: "UNESCO World Heritage region featuring ruins of old sugar mills."
+    },
     facts: {
-      de: ["Erbaut als Schutz vor Piraten", "Drittwichtigste Festung in Kuba"],
-      hu: ["Kalózok elleni védelemként épült", "Kuba harmadik legfontosabb erődítménye"],
-      ro: ["Construită ca protecție împotriva piraților", "A treia fortăreață ca importanță din Cuba"],
-      en: ["Built as protection against pirates", "Third most important fortress in Cuba"]
-    }
-  },
+      de: ["Zucker-Geschichte", "Sklavenarbeit-Erinnerung", "Turm von Manaca Iznaga", "Landwirtschaftliches Erbe"],
+      hu: ["Cukor-történelem", "Rabszolgamunka emlékezete", "Manaca Iznaga torony", "Mezőgazdasági örökség"],
+      ro: ["Istoria zahărului", "Memoria muncii sclavilor", "Turnul Manaca Iznaga", "Moștenire agricolă"],
+      en: ["Sugar history", "Slavery memory", "Manaca Iznaga tower", "Agricultural heritage"]
+    }, image: "/poi-images/ruinas-ingenios-history-v2.webp"},
   {
-    id: "cu-castillo-atares-history-v2",
+    id: "castillo-severo-history-v2",
+    type: "historical",
+    parent: "CU-04",
+    coords: [-81.57, 23.05],
+    name: { de: "Castillo de San Severino", hu: "San Severino-vár", ro: "Castelul San Severino", en: "Castillo de San Severino" },
+    description: {
+      de: "Festung in Matanzas zum Schutz vor Angriffen.",
+      hu: "Erődítmény Matanzasban, támadások elleni védelemre.",
+      ro: "Fortăreață în Matanzas pentru protecția împotriva atacurilor.",
+      en: "Fortress in Matanzas built for coastal defense."
+    },
+    facts: {
+      de: ["Erbaut im 18. Jahrhundert", "Koloniale Verteidigung", "Museum", "Historisches Mauerwerk"],
+      hu: ["A 18. században épült", "Gyarmati védelem", "Múzeum", "Történelmi falazat"],
+      ro: ["Construit în secolul al XVIII-lea", "Apărare colonială", "Muzeu", "Zidărie istorică"],
+      en: ["Built in the 18th century", "Colonial defense", "Museum", "Historic stone masonry"]
+    }, image: "/poi-images/castillo-severo-history-v2.webp"},
+  {
+    id: "iglesia-mayor-history-v2",
+    type: "historical",
+    parent: "CU-08",
+    coords: [-77.06, 20.38],
+    name: { de: "Iglesia Mayor de Bayamo", hu: "Bayamo főtemploma", ro: "Biserica Mare din Bayamo", en: "Major Church of Bayamo" },
+    description: {
+      de: "Historische Kirche in Bayamo, der zweitältesten Stadt Kubas.",
+      hu: "Történelmi templom Bayamóban, Kuba második legrégebbi városában.",
+      ro: "Biserică istorică în Bayamo, al doilea cel mai vechi oraș din Cuba.",
+      en: "Historic church in Bayamo, Cuba's second oldest city."
+    },
+    facts: {
+      de: ["Historischer Ort", "Koloniale Ära", "Religiöses Zentrum", "Architektonisches Symbol"],
+      hu: ["Történelmi hely", "Gyarmati korszak", "Vallási központ", "Építészeti jelkép"],
+      ro: ["Loc istoric", "Epoca colonială", "Centru religios", "Simbol arhitectural"],
+      en: ["Historic site", "Colonial era", "Religious center", "Architectural icon"]
+    }, image: "/poi-images/iglesia-mayor-history-v2.webp"},
+  {
+    id: "museo-bata-history-v2",
+    type: "historical",
+    parent: "CU-09",
+    coords: [-81.0, 22.2],
+    name: { de: "Museo de la Comandancia", hu: "Parancsnoksági Múzeum", ro: "Muzeul Comandamentului", en: "Command Museum" },
+    description: {
+      de: "Museum an der Schweinebucht über den historischen Kommandopunkt.",
+      hu: "Múzeum a Disznó-öbölnél a történelmi parancsnoki pontról.",
+      ro: "Muzeu la Golful Porcilor despre punctul istoric de comandă.",
+      en: "Museum at the Bay of Pigs regarding the historic command point."
+    },
+    facts: {
+      de: ["Historischer Kommandopunkt", "Invasions-Geschichte", "Militär-Museum", "Wichtiger Ort"],
+      hu: ["Történelmi parancsnoki pont", "Invázió története", "Hadtörténeti múzeum", "Fontos hely"],
+      ro: ["Punct istoric de comandă", "Istoria invaziei", "Muzeu militar", "Loc important"],
+      en: ["Historic command point", "Invasion history", "Military museum", "Crucial location"]
+    }, image: "/poi-images/museo-bata-history-v2.webp"},
+  {
+    id: "cueva-indio-history-v2",
+    type: "historical",
+    parent: "CU-10",
+    coords: [-83.7, 22.6],
+    name: { de: "Cueva del Indio", hu: "Indiai-barlang", ro: "Peștera Indianului", en: "Cave of the Indian" },
+    description: {
+      de: "Höhle in Viñales, einst von Ureinwohnern genutzt.",
+      hu: "Barlang Viñalesben, egykor őslakosok használták.",
+      ro: "Peșteră în Viñales, folosită cândva de indigeni.",
+      en: "Cave in Viñales once used by indigenous people."
+    },
+    facts: {
+      de: ["Ureinwohner-Geschichte", "Natürliche Höhle", "Unterirdischer Fluss", "Archäologischer Ort"],
+      hu: ["Őslakos történelem", "Természetes barlang", "Föld alatti folyó", "Régészeti hely"],
+      ro: ["Istoria indigenilor", "Peșteră naturală", "Râu subteran", "Loc arheologic"],
+      en: ["Indigenous history", "Natural cave", "Underground river boat trip", "Archaeological site"]
+    }, image: "/poi-images/cueva-indio-history-v2.webp"},
+  {
+    id: "teatro-tomas-terry-history-v2",
+    type: "historical",
+    parent: "CU-05",
+    coords: [-80.45, 22.14],
+    name: { de: "Teatro Tomás Terry", hu: "Teatro Tomás Terry", ro: "Teatrul Tomás Terry", en: "Tomás Terry Theater" },
+    description: {
+      de: "Prächtiges historisches Opernhaus in Cienfuegos.",
+      hu: "Pompás történelmi operaház Cienfuegosban.",
+      ro: "Splendid teatru de operă istoric în Cienfuegos.",
+      en: "Magnificent historic opera house in Cienfuegos."
+    },
+    facts: {
+      de: ["Erbaut 1890", "Prächtiges Design", "Kulturelles Erbe", "Historische Bühne"],
+      hu: ["1890-ben épült", "Pompás formatervezés", "Kulturális örökség", "Történelmi színpad"],
+      ro: ["Construit în 1890", "Design splendid", "Moștenire culturală", "Scenă istorică"],
+      en: ["Built in 1890", "Magnificent design", "Cultural heritage", "Historic performance stage"]
+    }, image: "/poi-images/teatro-tomas-terry-history-v2.webp"},
+  {
+    id: "faro-roncador-history-v2",
+    type: "historical",
+    parent: "CU-07",
+    coords: [-77.5, 20.9],
+    name: { de: "Faro Roncador", hu: "Faro Roncador világítótorony", ro: "Farul Roncador", en: "Roncador Lighthouse" },
+    description: {
+      de: "Historischer Leuchtturm entlang der Küste.",
+      hu: "Történelmi világítótorony a part mentén.",
+      ro: "Far istoric de-a lungul coastei.",
+      en: "Historic lighthouse along the coastline."
+    },
+    facts: {
+      de: ["Navigationspunkt", "Kolonialer Bau", "Küsten-Erbe", "Historisches Denkmal"],
+      hu: ["Navigációs pont", "Gyarmati építmény", "Part menti örökség", "Történelmi emlék"],
+      ro: ["Punct de navigație", "Construcție colonială", "Moștenirea coastei", "Monument istoric"],
+      en: ["Navigation point", "Colonial construction", "Coastal heritage", "Historic monument"]
+    }, image: "/poi-images/faro-roncador-history-v2.webp"},
+  {
+    id: "cementerio-cristobal-colon-history-v2",
     type: "historical",
     parent: "CU-03",
-    coords: [-82.3583, 23.1114],
-    name: { de: "Burg Atarés", hu: "Atarés-kastély", ro: "Castelul Atarés", en: "Atarés Castle" },
-    description: { de: "Eine sternförmige Festung, die 1767 auf dem Hügel Loma de Soto in Havanna erbaut wurde, um die städtischen Verteidigungsanlagen zu stärken.", hu: "Csillag alakú erőd, amely 1767-ben épült a havannai Loma de Soto dombon, a városi védelmi rendszerek megerősítése érdekében.", ro: "O fortăreață în formă de stea construită în 1767 pe dealul Loma de Soto din Havana, pentru a consolida apărările urbane.", en: "A star-shaped fortress built in 1767 on Loma de Soto hill in Havana to strengthen urban defenses." },
+    coords: [-82.38, 23.12],
+    name: { de: "Cementerio de Colón", hu: "Kolumbusz temető", ro: "Cimitirul Colon", en: "Colon Cemetery" },
+    description: {
+      de: "Einer der historisch bedeutendsten Friedhöfe der Welt in Havanna.",
+      hu: "A világ egyik történelmileg legjelentősebb temetője Havannában.",
+      ro: "Unul dintre cele mai importante cimitire din punct de vedere istoric din lume, în Havana.",
+      en: "One of the most historically significant cemeteries in the world, in Havana."
+    },
     facts: {
-      de: ["Kein Schuss wurde jemals abgefeuert", "Einzigartige hexagonale Form"],
-      hu: ["Soha egyetlen lövést sem adtak le belőle", "Egyedi hatszögletű forma"],
-      ro: ["Niciun foc nu a fost tras vreodată", "Formă hexagonală unică"],
-      en: ["No shot was ever fired from it", "Unique hexagonal shape"]
+      de: ["Gründung 1876", "Prächtige Grabmale", "Nationaldenkmal", "Kulturelle Stätte"],
+      hu: ["Alapítás 1876", "Pompás síremlékek", "Nemzeti emlékhely", "Kulturális helyszín"],
+      ro: ["Fondat în 1876", "Monumente funerare splendide", "Monument național", "Sit cultural"],
+      en: ["Founded in 1876", "Stunning funerary monuments", "National Monument", "Cultural heritage site"]
+    }, image: "/poi-images/cementerio-cristobal-colon-history-v2.webp"},
+  {
+    id: "fortin-loma-cruz-history-v2",
+    type: "historical",
+    parent: "CU-12",
+    coords: [-76.26, 20.88],
+    name: { de: "Fortín de la Loma de la Cruz", hu: "Loma de la Cruz erődítmény", ro: "Fortăreața Loma de la Cruz", en: "Fortress of Loma de la Cruz" },
+    description: {
+      de: "Historische Anlage auf dem Hügel in Holguín.",
+      hu: "Történelmi erődítmény a dombon Holguínban.",
+      ro: "Complex istoric pe dealul din Holguín.",
+      en: "Historic site on the hill in Holguin."
+    },
+    facts: {
+      de: ["Historischer Aussichtspunkt", "Religiöse Bedeutung", "Stadt-Wahrzeichen", "Kolonialer Ursprung"],
+      hu: ["Történelmi kilátó", "Vallási jelentőség", "Városi jelkép", "Gyarmati eredet"],
+      ro: ["Punct de belvedere istoric", "Semnificație religioasă", "Simbol al orașului", "Origine colonială"],
+      en: ["Historic lookout point", "Religious significance", "City landmark", "Colonial origins"]
+    }, image: "/poi-images/fortin-loma-cruz-history-v2.webp"},
+  {
+    id: "parque-martires-history-v2",
+    type: "historical",
+    parent: "CU-12",
+    coords: [-75.8, 20.02],
+    name: { de: "Parque de los Mártires", hu: "Mártírok Parkja", ro: "Parcul Martirilor", en: "Martyrs Park" },
+    description: {
+      de: "Gedenkstätte für die Gefallenen der Revolution.",
+      hu: "Emlékhely a forradalom elesettjeiért.",
+      ro: "Memorial pentru cei căzuți în revoluție.",
+      en: "Memorial site for those fallen in the revolution."
+    },
+    facts: {
+      de: ["Revolutionäres Erbe", "Gedenkstätte", "Historischer Standort", "Kulturelles Zentrum"],
+      hu: ["Forradalmi örökség", "Emlékhely", "Történelmi helyszín", "Kulturális központ"],
+      ro: ["Moștenire revoluționară", "Memorial", "Locație istorică", "Centru cultural"],
+      en: ["Revolutionary legacy", "Memorial site", "Historic location", "Cultural center"]
+    }, image: "/poi-images/parque-martires-history-v2.webp"},
+  {
+    id: "fortaleza-jagua-history-v2",
+    type: "historical",
+    parent: "CU-05",
+    coords: [-80.4, 22.0],
+    name: { de: "Castillo de Jagua", hu: "Jagua-vár", ro: "Castelul Jagua", en: "Castillo de Jagua" },
+    description: {
+      de: "Festung am Eingang der Bucht von Cienfuegos.",
+      hu: "Erődítmény a Cienfuegos-öböl bejáratánál.",
+      ro: "Fortăreață la intrarea în Golful Cienfuegos.",
+      en: "Fortress guarding the entrance to the Bay of Cienfuegos."
+    },
+    facts: {
+      de: ["Gegründet 1745", "Schutz gegen Piraten", "Koloniale Architektur", "Historische Anlage"],
+      hu: ["1745-ben alapították", "Kalózok elleni védelem", "Gyarmati építészet", "Történelmi létesítmény"],
+      ro: ["Fondat în 1745", "Protecție împotriva piraților", "Arhitectură colonială", "Complex istoric"],
+      en: ["Founded in 1745", "Protection against pirates", "Colonial architecture", "Historic site"]
+    }, image: "/poi-images/fortaleza-jagua-history-v2.webp"},
+  {
+    id: "antiguo-ayuntamiento-history-v2",
+    type: "historical",
+    parent: "CU-12",
+    coords: [-75.82, 20.02],
+    name: { de: "Antiguo Ayuntamiento", hu: "Antiguo Ayuntamiento", ro: "Antiguo Ayuntamiento", en: "Antiguo Ayuntamiento" },
+    description: {
+      de: "Ehemaliges Rathaus in Santiago, historischer Regierungsort.",
+      hu: "Korábbi városháza Santiago de Cubában, történelmi kormányzati helyszín.",
+      ro: "Fosta primărie din Santiago, loc istoric de guvernare.",
+      en: "Former City Hall in Santiago, historic site of governance."
+    },
+    facts: {
+      de: ["Regierungssitz", "Kolonialzeit", "Historisches Gebäude", "Stadtverwaltung"],
+      hu: ["Kormányzati központ", "Gyarmati időszak", "Történelmi épület", "Városvezetés"],
+      ro: ["Sediu guvernamental", "Perioada colonială", "Clădire istorică", "Administrație urbană"],
+      en: ["Seat of government", "Colonial period", "Historic building", "City administration"]
     }
   }
 ];
+

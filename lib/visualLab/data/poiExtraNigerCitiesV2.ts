@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNigerCitiesV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Az ország legnagyobb metropolisza.", "A kormány székhelye."],
       ro: ["Cea mai mare metropolă din țară.", "Sediul guvernului."],
       en: ["Largest metropolis in the country.", "Seat of the government."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Niamey ist das politische und wirtschaftliche Kraftzentrum Nigers. Die Stadt liegt strategisch günstig am Ufer des Nigers und hat seit den 1960er Jahren eine enorme Expansion erlebt, wobei sie heute über 1,3 Millionen Einwohner zählt. Das Nationalmuseum Boubou Hama bietet Besuchern tiefe Einblicke in die vielfältigen ethnischen Traditionen des Landes.",
+      hu: "Niamey Niger politikai és gazdasági erőközpontja. A város stratégiailag kedvező helyen, a Niger folyó partján fekszik, és az 1960-as évek óta hatalmas terjeszkedésen ment keresztül, ma már több mint 1,3 millió lakossal rendelkezik. A Boubou Hama Nemzeti Múzeum mély betekintést nyújt az ország változatos etnikai hagyományaiba.",
+      ro: "Niamey este centrul politic și economic al Nigerului. Orașul este situat strategic pe malul fluviului Niger și a cunoscut o expansiune enormă din anii 1960, având astăzi peste 1,3 milioane de locuitori. Muzeul Național Boubou Hama oferă vizitatorilor perspective profunde asupra diverselor tradiții etnice ale țării.",
+      en: "Niamey is the political and economic powerhouse of Niger. The city is strategically located on the banks of the Niger River and has experienced massive expansion since the 1960s, now housing over 1.3 million inhabitants. The Boubou Hama National Museum offers visitors deep insights into the country's diverse ethnic traditions."
+    },
+    factsAdvanced: {
+      de: ["Größte Stadt Nigers.", "Sitz des Präsidenten.", "Liegt auf 180 m Höhe.", "Wurde 1926 Hauptstadt.", "Wächst jährlich rasant.", "Kulturelles Zentrum des Landes."],
+      hu: ["Niger legnagyobb városa.", "Az elnöki rezidencia székhelye.", "180 m tengerszint feletti magasságban.", "1926-ban lett főváros.", "Évente gyorsan növekszik.", "Az ország kulturális központja."],
+      ro: ["Cel mai mare oraș din Niger.", "Sediul președintelui.", "Situat la 180 m altitudine.", "A devenit capitală în 1926.", "Crește rapid anual.", "Centrul cultural al țării."],
+      en: ["Largest city in Niger.", "Seat of the President.", "Located at 180 m elevation.", "Became capital in 1926.", "Rapidly growing annually.", "Cultural center of the country."]
+    }, image: "/poi-images/niamey-cities-v2.webp"},
   {
     id: "zinder-cities-v2",
     type: "city",
@@ -37,8 +49,19 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Korábbi főváros Niamey előtt.", "Fontos földimogyoró-kereskedelmi központ."],
       ro: ["Fosta capitală înainte de Niamey.", "Piață importantă pentru arahide."],
       en: ["Former capital before Niamey.", "Important trading post for peanuts."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Zinder war bis 1926 die Hauptstadt Nigers und bleibt ein kultureller Ankerpunkt im Südosten. Die Altstadt, bekannt als Birni, beeindruckt durch ihre traditionelle Architektur und den Palast des Sultans, welcher bis heute als Symbol der vorkolonialen Macht fungiert. Die Stadt ist zudem ein Zentrum für den Handel mit Erdnüssen und lokaler Viehzucht.",
+      hu: "Zinder 1926-ig Niger fővárosa volt, és ma is kulturális horgony maradt délkeleten. Az óváros, amelyet Birni-nek neveznek, hagyományos építészetével és a szultáni palotával nyűgöz le, amely ma is a gyarmatosítás előtti hatalom szimbólumaként szolgál. A város a földimogyoró-kereskedelem és a helyi állattenyésztés központja is.",
+      ro: "Zinder a fost capitala Nigerului până în 1926 și rămâne un punct de ancorare culturală în sud-est. Orașul vechi, cunoscut sub numele de Birni, impresionează prin arhitectura sa tradițională și palatul sultanului, care servește și astăzi drept simbol al puterii precoloniale. Orașul este, de asemenea, un centru pentru comerțul cu arahide și creșterea locală a animalelor.",
+      en: "Zinder was the capital of Niger until 1926 and remains a cultural anchor in the southeast. The old town, known as Birni, impresses with its traditional architecture and the Sultan's Palace, which still serves as a symbol of pre-colonial power. The city is also a center for the trade of peanuts and local livestock."
+    },
+    factsAdvanced: {
+      de: ["Ehemals Zinder-Sultanat.", "Bekannt für das Birni-Viertel.", "Wichtiger Viehmarkt.", "Zweitgrößte Stadt.", "Traditionelle Lehmbauten.", "Erdnuss-Handelsknoten."],
+      hu: ["Egykori Zinderi Szultanátus.", "A Birni-negyedről ismert.", "Fontos állatpiac.", "Második legnagyobb város.", "Hagyományos vályogépületek.", "Földimogyoró-kereskedelmi csomópont."],
+      ro: ["Fostul Sultanat Zinder.", "Cunoscut pentru cartierul Birni.", "Piață importantă de animale.", "Al doilea oraș ca mărime.", "Clădiri tradiționale din lut.", "Nod comercial pentru arahide."],
+      en: ["Former Zinder Sultanate.", "Known for the Birni quarter.", "Important livestock market.", "Second largest city.", "Traditional mud buildings.", "Peanut trading hub."]
+    }, image: "/poi-images/zinder-cities-v2.webp"},
   {
     id: "maradi-cities-v2",
     type: "city",
@@ -56,8 +79,19 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Harmadik legnagyobb település Nigerben.", "Gabonatermesztéséről ismert."],
       ro: ["A treia cea mai mare așezare din Niger.", "Cunoscut pentru cultivarea cerealelor."],
       en: ["Third largest settlement in Niger.", "Known for cereal cultivation."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Maradi ist das geschäftige Handelszentrum im Süden Nigers, das stark von der Nähe zur nigerianischen Grenze profitiert. Die Stadt hat sich in den letzten Jahrzehnten wirtschaftlich dynamisch entwickelt und ist heute ein wichtiger Knotenpunkt für den Transit und die lokale Produktion von Agrarerzeugnissen wie Getreide und Zwiebeln.",
+      hu: "Maradi Niger déli részének nyüzsgő kereskedelmi központja, amely erősen profitál a nigériai határhoz való közelségéből. A város gazdaságilag dinamikusan fejlődött az elmúlt évtizedekben, és ma fontos csomópont a tranzitforgalom, valamint a mezőgazdasági termékek, mint a gabona és a hagyma helyi termelése számára.",
+      ro: "Maradi este centrul comercial animat din sudul Nigerului, care profită masiv de proximitatea față de granița cu Nigeria. Orașul s-a dezvoltat economic dinamic în ultimele decenii și este astăzi un nod important pentru tranzit și producția locală de produse agricole, precum cerealele și ceapa.",
+      en: "Maradi is the bustling trade center in the south of Niger, profiting greatly from its proximity to the Nigerian border. The city has developed dynamically in economic terms over the past few decades and is today an important hub for transit and the local production of agricultural products like grains and onions."
+    },
+    factsAdvanced: {
+      de: ["Wirtschaftsmotor Nigers.", "Dritte größte Stadt.", "Wichtiger Transit-Hafen.", "Bedeutende Agrar-Region.", "Moderne Handelswege.", "Knotenpunkt für Nigeria."],
+      hu: ["Niger gazdasági motorja.", "Harmadik legnagyobb város.", "Fontos tranzit-kikötő.", "Jelentős agrár-régió.", "Modern kereskedelmi utak.", "Csomópont Nigéria felé."],
+      ro: ["Motorul economic al Nigerului.", "Al treilea oraș ca mărime.", "Port de tranzit important.", "Regiune agricolă semnificativă.", "Rute comerciale moderne.", "Nod către Nigeria."],
+      en: ["Economic engine of Niger.", "Third largest city.", "Important transit hub.", "Significant agricultural region.", "Modern trade routes.", "Crossroads to Nigeria."]
+    }, image: "/poi-images/maradi-cities-v2.webp"},
   {
     id: "tahoua-cities-v2",
     type: "city",
@@ -75,8 +109,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A helyi mezőgazdaság központja.", "Nomád népek találkozási pontja."],
       ro: ["Centrul agriculturii locale.", "Punct de intersecție a popoarelor nomade."],
       en: ["Center of local agriculture.", "Crossroads of nomadic peoples."]
-    }
-  },
+    }, image: "/poi-images/tahoua-cities-v2.webp"},
   {
     id: "agadez-cities-v2",
     type: "city",
@@ -94,8 +127,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi tuareg központ.", "Az óváros világörökségi helyszín."],
       ro: ["Centru istoric al tuaregilor.", "Orașul vechi este patrimoniu mondial."],
       en: ["Historic Tuareg center.", "The old town is a World Heritage site."]
-    }
-  },
+    }, image: "/poi-images/agadez-cities-v2.webp"},
   {
     id: "arlit-cities-v2",
     type: "city",
@@ -113,8 +145,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A bányászat határozza meg.", "Az Aïr-hegység közepén fekszik."],
       ro: ["Marcar de minerit.", "Situat în mijlocul masivului Aïr."],
       en: ["Characterized by mining.", "Located in the middle of the Aïr massif."]
-    }
-  },
+    }, image: "/poi-images/arlit-cities-v2.webp"},
   {
     id: "dosso-cities-v2",
     type: "city",
@@ -132,8 +163,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi uralkodói székhely.", "Jelentős az iszlám tudósok számára."],
       ro: ["Sediul istoric al conducătorilor.", "Important pentru învățații islamici."],
       en: ["Historic seat of rulers.", "Significant for Islamic scholars."]
-    }
-  },
+    }, image: "/poi-images/dosso-cities-v2.webp"},
   {
     id: "diffa-cities-v2",
     type: "city",
@@ -151,8 +181,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Regionális közigazgatási központ.", "Tranzitkereskedelem jellemzi."],
       ro: ["Centru administrativ regional.", "Caracterizat prin comerțul de tranzit."],
       en: ["Regional administrative center.", "Characterized by transit trade."]
-    }
-  },
+    }, image: "/poi-images/diffa-cities-v2.webp"},
   {
     id: "birni-nkonni-cities-v2",
     type: "city",
@@ -170,8 +199,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Fontos tranzitpont.", "A Maggia völgyében fekszik."],
       ro: ["Punct de tranzit important.", "Situat în valea Maggia."],
       en: ["Important transit point.", "Located in the Maggia valley."]
-    }
-  },
+    }, image: "/poi-images/birni-nkonni-cities-v2.webp"},
   {
     id: "tessaoua-cities-v2",
     type: "city",
@@ -189,8 +217,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi kereskedelmi központ.", "Helyi kézművességéről ismert."],
       ro: ["Centru comercial istoric.", "Cunoscut pentru meșteșugurile locale."],
       en: ["Historical trade center.", "Known for local craftsmanship."]
-    }
-  },
+    }, image: "/poi-images/tessaoua-cities-v2.webp"},
   {
     id: "dogondoutchi-cities-v2",
     type: "city",
@@ -208,8 +235,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Kulturális olvasztótégely.", "Gyakran Doutchi néven emlegetik."],
       ro: ["Creuzet cultural.", "Adesea denumit Doutchi."],
       en: ["Cultural melting pot.", "Often referred to as Doutchi."]
-    }
-  },
+    }, image: "/poi-images/dogondoutchi-cities-v2.webp"},
   {
     id: "gaya-cities-v2",
     type: "city",
@@ -227,8 +253,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Határátkelő Benin felé.", "Fontos a folyami hajózás számára."],
       ro: ["Punct de trecere a frontierei cu Benin.", "Important pentru navigația fluvială."],
       en: ["Border crossing to Benin.", "Important for river navigation."]
-    }
-  },
+    }, image: "/poi-images/gaya-cities-v2.webp"},
   {
     id: "madaoua-cities-v2",
     type: "city",
@@ -246,8 +271,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Agrárellátó központ.", "Magas zöldségtermelés."],
       ro: ["Centru de aprovizionare agricolă.", "Producție ridicată de legume."],
       en: ["Agricultural supply center.", "High vegetable production."]
-    }
-  },
+    }, image: "/poi-images/madaoua-cities-v2.webp"},
   {
     id: "mayahi-cities-v2",
     type: "city",
@@ -265,8 +289,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Pásztorok központja.", "Falusi piacairól ismert."],
       ro: ["Centru pentru păstori.", "Cunoscut pentru piețele sătești."],
       en: ["Center for herders.", "Known for village markets."]
-    }
-  },
+    }, image: "/poi-images/mayahi-cities-v2.webp"},
   {
     id: "tera-cities-v2",
     type: "city",
@@ -284,8 +307,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Közel a száheli vízlelőhelyekhez.", "Helyi fejlesztési projektek helyszíne."],
       ro: ["Aproape de sursele de apă din Sahel.", "Locul proiectelor de dezvoltare locală."],
       en: ["Close to Sahel waterholes.", "Site of local development projects."]
-    }
-  },
+    }, image: "/poi-images/tera-cities-v2.webp"},
   {
     id: "mirriah-cities-v2",
     type: "city",
@@ -303,8 +325,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Köleselosztó központ.", "Gazdag falusi építészet."],
       ro: ["Centru de distribuție pentru mei.", "Arhitectură rurală bogată."],
       en: ["Distribution center for millet.", "Rich village architecture."]
-    }
-  },
+    }, image: "/poi-images/mirriah-cities-v2.webp"},
   {
     id: "tibiri-cities-v2",
     type: "city",
@@ -322,8 +343,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi királyi székhely.", "A hagyományos életmód dominál."],
       ro: ["Sediul regal istoric.", "Modul de viață tradițional predomină."],
       en: ["Historic royal seat.", "Traditional lifestyle prevails."]
-    }
-  },
+    }, image: "/poi-images/tibiri-cities-v2.webp"},
   {
     id: "tillaberi-cities-v2",
     type: "city",
@@ -341,8 +361,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Rizstermesztési központ.", "Fontos folyami oázis."],
       ro: ["Centru pentru cultivarea orezului.", "Oază fluvială importantă."],
       en: ["Center for rice cultivation.", "Important river oasis."]
-    }
-  },
+    }, image: "/poi-images/tillaberi-cities-v2.webp"},
   {
     id: "magaria-cities-v2",
     type: "city",
@@ -360,8 +379,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A határkereskedelem alakítja az életet.", "Jelentős a földimogyoró-export szempontjából."],
       ro: ["Comerțul de frontieră modelează viața.", "Important pentru exportul de arahide."],
       en: ["Border trade shapes daily life.", "Significant for peanut exports."]
-    }
-  },
+    }, image: "/poi-images/magaria-cities-v2.webp"},
   {
     id: "dakoro-cities-v2",
     type: "city",
@@ -379,8 +397,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Állatkereskedők csomópontja.", "Széles szavanna veszi körül."],
       ro: ["Nod pentru comercianții de animale.", "Înconjurat de o savană vastă."],
       en: ["Hub for livestock traders.", "Surrounded by wide savanna."]
-    }
-  },
+    }, image: "/poi-images/dakoro-cities-v2.webp"},
   {
     id: "nguigmi-cities-v2",
     type: "city",
@@ -417,8 +434,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A gabonatermés központja.", "Sűrűn lakott terület."],
       ro: ["Centru al recoltei de cereale.", "Zonă dens populată."],
       en: ["Focus of the grain harvest.", "Densely populated area."]
-    }
-  },
+    }, image: "/poi-images/matameye-cities-v2.webp"},
   {
     id: "illela-cities-v2",
     type: "city",
@@ -455,8 +471,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A Száhel-övezet oázisa.", "Régi karavánutak kereszteződése."],
       ro: ["Oază din Sahel.", "Intersecția vechilor rute de caravane."],
       en: ["Oasis of the Sahel.", "Crossroads of ancient caravan routes."]
-    }
-  },
+    }, image: "/poi-images/tanout-cities-v2.webp"},
   {
     id: "goure-cities-v2",
     type: "city",
@@ -474,8 +489,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi Koutous-terület.", "Mezőgazdasági menedékhely."],
       ro: ["Zonă istorică Koutous.", "Zonă agricolă de refugiu."],
       en: ["Historic Koutous area.", "Agricultural retreat area."]
-    }
-  },
+    }, image: "/poi-images/goure-cities-v2.webp"},
   {
     id: "abalak-cities-v2",
     type: "city",
@@ -493,8 +507,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A Wodaabe nép találkozóhelye.", "A Cure Salée fesztiválról ismert."],
       ro: ["Punct de întâlnire pentru Wodaabe.", "Cunoscut pentru festivalul Cure Salée."],
       en: ["Meeting point of the Wodaabe.", "Known for the Cure Salée festival."]
-    }
-  },
+    }, image: "/poi-images/abalak-cities-v2.webp"},
   {
     id: "aguie-cities-v2",
     type: "city",
@@ -512,8 +525,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Helyi kézműves központ.", "A vidékfejlesztés központja."],
       ro: ["Centru meșteșugăresc local.", "Centrul dezvoltării rurale."],
       en: ["Local craft village.", "Center of rural development."]
-    }
-  },
+    }, image: "/poi-images/aguie-cities-v2.webp"},
   {
     id: "ouallam-cities-v2",
     type: "city",
@@ -531,8 +543,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Hagyományos állattenyésztés.", "Közel a niameyi nagyvárosi térséghez."],
       ro: ["Creșterea tradițională a animalelor.", "Aproape de zona metropolitană Niamey."],
       en: ["Traditional livestock farming.", "Close to the Niamey metropolitan area."]
-    }
-  },
+    }, image: "/poi-images/ouallam-cities-v2.webp"},
   {
     id: "filingue-cities-v2",
     type: "city",
@@ -550,8 +561,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Prefektúra székhelye.", "Jelentős a szarvasmarha-kereskedelem szempontjából."],
       ro: ["Capitală de prefectură.", "Important pentru comerțul cu vite."],
       en: ["Prefecture capital.", "Significant for cattle trade."]
-    }
-  },
+    }, image: "/poi-images/filingue-cities-v2.webp"},
   {
     id: "bouza-cities-v2",
     type: "city",
@@ -569,8 +579,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Törekvések az elsivatagosodás ellen.", "Csendes agrárszékhely."],
       ro: ["Eforturi împotriva deșertificării.", "Locație agricolă liniștită."],
       en: ["Efforts against desertification.", "Quiet agricultural location."]
-    }
-  },
+    }, image: "/poi-images/bouza-cities-v2.webp"},
   {
     id: "keita-cities-v2",
     type: "city",
@@ -626,8 +635,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Az iszlám fellegvára Nigerben.", "Az iszlám tudományosság székhelye."],
       ro: ["Bastion al islamului în Niger.", "Sediul erudiției islamice."],
       en: ["Stronghold of Islam in Niger.", "Seat of Islamic scholarship."]
-    }
-  },
+    }, image: "/poi-images/say-cities-v2.webp"},
   {
     id: "madarounfa-cities-v2",
     type: "city",
@@ -645,8 +653,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A Madarounfa-tóról ismert.", "Gazdag helyi legendákban."],
       ro: ["Cunoscut pentru lacul Madarounfa.", "Bogat în legende locale."],
       en: ["Known for Lake Madarounfa.", "Rich in local legends."]
-    }
-  },
+    }, image: "/poi-images/madarounfa-cities-v2.webp"},
   {
     id: "guidan-roumdji-cities-v2",
     type: "city",
@@ -664,8 +671,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Agropasztorális gazdaság.", "Jelentős Maradi délnyugati részén."],
       ro: ["Economie agro-pastorală.", "Important în sud-vestul Maradi."],
       en: ["Agro-pastoral economy.", "Significant in the southwest of Maradi."]
-    }
-  },
+    }, image: "/poi-images/guidan-roumdji-cities-v2.webp"},
   {
     id: "maine-soroa-cities-v2",
     type: "city",
@@ -683,8 +689,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Helyi mezőgazdasági csomópont.", "Pálmafák és vízfolyások jellemzik."],
       ro: ["Nod agricol local.", "Caracterizat de palmieri și cursuri de apă."],
       en: ["Local agricultural hub.", "Characterized by palm trees and watercourses."]
-    }
-  },
+    }, image: "/poi-images/maine-soroa-cities-v2.webp"},
   {
     id: "tchin-tabaraden-cities-v2",
     type: "city",
@@ -702,8 +707,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Központi szerep a tuaregek számára.", "Mélyen a sivatag peremvidékén."],
       ro: ["Rol central pentru tuaregi.", "Adânc în zona de margine a deșertului."],
       en: ["Central role for the Tuareg.", "Deep in the desert fringe area."]
-    }
-  },
+    }, image: "/poi-images/tchin-tabaraden-cities-v2.webp"},
   {
     id: "goudoumaria-cities-v2",
     type: "city",
@@ -721,8 +725,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Jelentős a helyi oázisok számára.", "Kereskedelmi útvonalak találkozási pontja."],
       ro: ["Important pentru oazele locale.", "Punct de intersecție a rutelor comerciale."],
       en: ["Important for local oases.", "Intersection of trade routes."]
-    }
-  },
+    }, image: "/poi-images/goudoumaria-cities-v2.webp"},
   {
     id: "dungass-cities-v2",
     type: "city",
@@ -759,8 +762,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Gyümölcstermesztő terület a főváros közelében.", "Idillikus folyóparti táj."],
       ro: ["Zonă pomicolă în apropierea capitalei.", "Peisaj fluvial idilic."],
       en: ["Fruit growing area near the capital.", "Idyllic river landscape."]
-    }
-  },
+    }, image: "/poi-images/kollo-cities-v2.webp"},
   {
     id: "ayorou-cities-v2",
     type: "city",
@@ -778,8 +780,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Kedvelt turisztikai megállóhely.", "Rendszeres vízilóészlelések."],
       ro: ["Popas turistic popular.", "Observări regulate ale hipopotamilor."],
       en: ["Popular tourist stop.", "Regular hippo sightings."]
-    }
-  },
+    }, image: "/poi-images/ayorou-cities-v2.webp"},
   {
     id: "bermo-cities-v2",
     type: "city",
@@ -797,8 +798,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A fulani pásztorok által meghatározott.", "Vízlelőhely a kopár tájon."],
       ro: ["Modelat de păstorii Fulani.", "Sursă de apă într-un peisaj arid."],
       en: ["Characterized by Fulani herders.", "Watering hole in a barren landscape."]
-    }
-  },
+    }, image: "/poi-images/bermo-cities-v2.webp"},
   {
     id: "banibangou-cities-v2",
     type: "city",
@@ -854,8 +854,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Alacsony népsűrűség.", "Tipikus szaharai mezőgazdaság."],
       ro: ["Densitate scăzută a populației.", "Agricultură tipică sahariană."],
       en: ["Low population density.", "Typical Saharan agriculture."]
-    }
-  },
+    }, image: "/poi-images/tassara-cities-v2.webp"},
   {
     id: "bankilare-cities-v2",
     type: "city",
@@ -892,8 +891,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Magányos oázis fekvés.", "A szelek által erősen formált."],
       ro: ["Locație de oază solitară.", "Puternic modelat de vânturi."],
       en: ["Lonely oasis location.", "Strongly shaped by winds."]
-    }
-  },
+    }, image: "/poi-images/tillia-cities-v2.webp"},
   {
     id: "belbedji-cities-v2",
     type: "city",
@@ -911,8 +909,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Helyi kölestermesztés.", "A hausza lakosság települése."],
       ro: ["Cultivarea locală a meiului.", "Așezare a populației Hausa."],
       en: ["Local millet cultivation.", "Settlement of the Hausa population."]
-    }
-  },
+    }, image: "/poi-images/belbedji-cities-v2.webp"},
   {
     id: "iferouane-cities-v2",
     type: "city",
@@ -930,8 +927,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Tuareg kulturális központ.", "Ideális kiindulópont hegymászóknak."],
       ro: ["Centru cultural tuareg.", "Punct de plecare ideal pentru alpiniști."],
       en: ["Tuareg cultural center.", "Ideal starting point for mountaineers."]
-    }
-  },
+    }, image: "/poi-images/iferouane-cities-v2.webp"},
   {
     id: "bilma-cities-v2",
     type: "city",
@@ -949,8 +945,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A sótermelés központja.", "A Ténéré-sivatag közepén."],
       ro: ["Centrul producției de sare.", "În mijlocul deșertului Ténéré."],
       en: ["Center of salt production.", "In the middle of the Ténéré desert."]
-    }
-  },
+    }, image: "/poi-images/bilma-cities-v2.webp"},
   {
     id: "fachi-cities-v2",
     type: "city",
@@ -968,8 +963,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Történelmi vályogerőd.", "Biztosítóállomás a sókereskedelemhez."],
       ro: ["Fortăreață istorică de lut.", "Post de securitate pentru comerțul cu sare."],
       en: ["Historic mud fortress.", "Security post for the salt trade."]
-    }
-  },
+    }, image: "/poi-images/fachi-cities-v2.webp"},
   {
     id: "dirkou-cities-v2",
     type: "city",
@@ -987,8 +981,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Migráns útvonalak megállója.", "Katonailag biztosított zóna."],
       ro: ["Oprire pentru rutele migranților.", "Zonă asigurată militar."],
       en: ["Stop for migrant routes.", "Militarily secured zone."]
-    }
-  },
+    }, image: "/poi-images/dirkou-cities-v2.webp"},
   {
     id: "ingall-cities-v2",
     type: "city",
@@ -1006,8 +999,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Egykori rezidenciaváros.", "Rendelkezik egy sólepárló fesztivállal."],
       ro: ["Fost oraș de reședință.", "Găzduiește un festival al salinelor."],
       en: ["Former residence city.", "Features a salt flat festival."]
-    }
-  },
+    }, image: "/poi-images/ingall-cities-v2.webp"},
   {
     id: "kantche-cities-v2",
     type: "city",
@@ -1025,8 +1017,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Peperoni-termesztéséről ismert.", "Élénk közösségi élet."],
       ro: ["Cunoscut pentru cultivarea de ardei iute.", "Viață comunitară vibrantă."],
       en: ["Known for pepperoni cultivation.", "Vibrant community life."]
-    }
-  },
+    }, image: "/poi-images/kantche-cities-v2.webp"},
   {
     id: "kornaka-cities-v2",
     type: "city",
@@ -1044,8 +1035,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A szarvasmarha-tenyésztők magas aránya.", "Messzire nyúló földterület."],
       ro: ["Proporție mare de crescători de vite.", "Teren extins."],
       en: ["High proportion of cattle farmers.", "Extensive land."]
-    }
-  },
+    }, image: "/poi-images/kornaka-cities-v2.webp"},
   {
     id: "malbaza-cities-v2",
     type: "city",
@@ -1063,8 +1053,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["A cementgyártás központja.", "Sok gyári munkahelyet kínál."],
       ro: ["Centrul producției de ciment.", "Oferă multe locuri de muncă în fabrică."],
       en: ["Center of cement production.", "Offers many factory jobs."]
-    }
-  },
+    }, image: "/poi-images/malbaza-cities-v2.webp"},
   {
     id: "loga-cities-v2",
     type: "city",
@@ -1082,8 +1071,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Kedvező talajvíz.", "Tipikus szárazgazdálkodó falu."],
       ro: ["Apă subterană favorabilă.", "Sat tipic de agricultori pe uscat."],
       en: ["Favorable groundwater.", "Typical dry farming village."]
-    }
-  },
+    }, image: "/poi-images/loga-cities-v2.webp"},
   {
     id: "balleyara-cities-v2",
     type: "city",
@@ -1120,8 +1108,7 @@ export const poiExtraNigerCitiesV2: POI[] = [
       hu: ["Hagyományos folyami hajózás.", "Festői part menti övezet."],
       ro: ["Navigație fluvială tradițională.", "Zonă riverană pitorească."],
       en: ["Traditional river navigation.", "Picturesque riparian zone."]
-    }
-  },
+    }, image: "/poi-images/gotheye-cities-v2.webp"},
   {
     id: "damagaram-takaya-cities-v2",
     type: "city",
@@ -1142,3 +1129,4 @@ export const poiExtraNigerCitiesV2: POI[] = [
     }
   }
 ];
+

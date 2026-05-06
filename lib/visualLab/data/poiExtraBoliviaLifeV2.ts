@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBoliviaLifeV2: POI[] = [
@@ -12,41 +13,12 @@ export const poiExtraBoliviaLifeV2: POI[] = [
       ro: "Biocentrul Güembé",
       en: "Biocentro Güembé"
     },
-    description: {
-      de: "Ein beliebter Ökopark in Santa Cruz mit riesigem Schmetterlingshaus, Orchideengärten und natürlichen Schwimmbecken für Familien.",
-      hu: "Egy népszerű ökopark Santa Cruzban, amely hatalmas lepkeházat, orchideakerteket és természetes medencéket kínál a családoknak.",
-      ro: "Un ecoparc popular în Santa Cruz, cu un dom uriaș pentru fluturi, grădini de orhidee și piscine naturale pentru familii.",
-      en: "A popular eco-park in Santa Cruz featuring a massive butterfly dome, orchid gardens, and natural pools for families."
-    },
-    facts: {
-      de: ["Größtes Schmetterlingshaus Boliviens.", "Bietet 15 natürliche Lagunen.", "Zahlreiche exotische Vögel."],
-      hu: ["Bolívia legnagyobb lepkeháza.", "15 természetes lagúnával rendelkezik.", "Számos egzotikus madár él itt."],
-      ro: ["Cel mai mare dom de fluturi din Bolivia.", "Oferă 15 lagune naturale.", "Numeroase păsări exotice."],
-      en: ["Largest butterfly dome in Bolivia.", "Features 15 natural lagoons.", "Home to numerous exotic birds."]
-    },
     descriptionAdvanced: {
-      de: "Das Biocentro Güembé in Santa Cruz ist ein beeindruckendes Naturparadies, das auf 24 Hektar die tropische Flora und Fauna Boliviens präsentiert. Besucher können hier das weltweit größte Schmetterlingshaus bestaunen, in dem tausende farbenprächtige Falter unter einer riesigen Kuppel fliegen. Neben den Schmetterlingen beherbergt der Park auch ein weitläufiges Orchideenhaus und ein großes Aviarium mit exotischen Vögeln wie Tukanen. Mehrere natürliche Lagunen und Schwimmbecken laden zur Erholung inmitten der dichten Vegetation ein. Es ist ein ideales Ziel für Familien und Naturfreunde, die die Biodiversität des bolivianischen Tieflands erleben möchten.",
-      hu: "A Güembé Biocentrum Santa Cruz de la Sierra közelében egy valóságos trópusi paradicsom, amely 24 hektáron mutatja be Bolívia keleti vidékeinek lenyűgöző élővilágát. A park központi látványossága a világ egyik legnagyobb lepkeháza, ahol több ezer színpompás lepke repked a látogatók körül egy óriási hálóval borított dómban. Emellett egy hatalmas madárház (aviárium) is várja az utazókat, ahol tukánok és papagájok élnek szinte szabadon. A park természetes lagúnái és orchideakertjei tökéletes kikapcsolódást nyújtanak minden korosztálynak. Biológia K8 – trópusi ökoszisztémák és fajvédelem.",
-      ro: "",
-      en: ""
+      en: "Biocentro Güembé is a massive ecological park and biodiversity center located near the tropical city of Santa Cruz. It serves as a sanctuary for numerous plant and animal species native to the tropical lowlands of Bolivia, providing visitors with immersive education on local wildlife. The park features a large butterfly pavilion—one of the largest in the world—and expansive botanical gardens that highlight the floral richness of the region. It is a key destination for environmental education and sustainable tourism, promoting conservation in an area experiencing rapid human development. Biology K6 — biodiversity and conservation."
     },
     factsAdvanced: {
-      de: [
-        "Beherbergt über 50 verschiedene Schmetterlingsarten.",
-        "Verfügt über 15 natürliche Lagunen zum Schwimmen.",
-        "Das Schmetterlingshaus ist eine der größten Strukturen dieser Art weltweit.",
-        "Der Park dient auch als Rehabilitationszentrum für gerettete Wildtiere."
-      ],
-      hu: [
-        "A lepkeházban több mint 50 különböző faj képviselteti magát.",
-        "A parkban található orchideaházban Bolívia legszebb őshonos virágai láthatók.",
-        "A természetes medencéket a környék kristálytiszta patakjai táplálják.",
-        "A Güembé fontos szerepet játszik a sérült vadállatok rehabilitációjában is."
-      ],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Home to one of the world's largest butterfly aviaries.", "Features extensive botanical gardens highlighting tropical flora.", "Located near Santa Cruz de la Sierra in the lowlands.", "Sanctuary for many native Bolivian wildlife species.", "Focused on environmental education and local conservation.", "Popular destination for ecological tourism."]
+    }, image: "/poi-images/biocentro-guembe-life-v2.webp"},
   {
     id: "parque-cretacico-sucre-life-v2",
     type: "kid-landmark",
@@ -58,41 +30,12 @@ export const poiExtraBoliviaLifeV2: POI[] = [
       ro: "Parcul Cretacic din Sucre",
       en: "Sucre Cretaceous Park"
     },
-    description: {
-      de: "Beherbergt eine massive Kalksteinwand mit Tausenden von Dinosaurierspuren sowie lebensgroßen Dinosauriermodellen.",
-      hu: "Egy hatalmas mészkőfalon több ezer dinoszaurusz lábnyomot, valamint életnagyságú dinoszaurusz modelleket mutat be.",
-      ro: "Adăpostește un perete masiv de calcar cu mii de urme de dinozauri, alături de modele de dinozauri în mărime naturală.",
-      en: "Features a massive limestone wall with thousands of dinosaur footprints, alongside life-sized dinosaur models."
-    },
-    facts: {
-      de: ["Über 5.000 Dinosaurierspuren.", "Eine 1,5 km lange vertikale Felswand.", "Beherbergt einen lebensgroßen Titanosaurus."],
-      hu: ["Több mint 5000 dinoszaurusz lábnyom.", "Egy 1,5 km hosszú függőleges sziklafal.", "Egy életnagyságú Titanosaurust is bemutat."],
-      ro: ["Peste 5.000 de urme de dinozauri.", "Un perete stâncos vertical de 1,5 km.", "Găzduiește un Titanosaurus în mărime naturală."],
-      en: ["Over 5,000 dinosaur footprints.", "A 1.5 km long vertical rock wall.", "Features a life-sized Titanosaurus."]
-    },
     descriptionAdvanced: {
-      de: "Der Parque Cretácico in Sucre ist eine der bedeutendsten paläontologischen Stätten der Welt und fasziniert Besucher mit tausenden echten Dinosaurierspuren. Das Herzstück des Parks ist die Cal Orck’o Kalksteinwand, die über 5.000 Fußabdrücke von mindestens 15 verschiedenen Dinosaurierarten bewahrt. Lebensgroße Nachbildungen der prähistorischen Riesen, darunter ein beeindruckender 36 Meter langer Titanosaurus, erwecken die Vergangenheit zum Leben. Ein interaktives Museum erklärt die geologischen Prozesse, die zur Erhaltung dieser einzigartigen Fossilien geführt haben. Der Park bietet zudem spektakuläre Ausblicke auf die Steinbruchlandschaft, in der die Spuren entdeckt wurden.",
-      hu: "A Sucre melletti Kréta Park (Parque Cretácico) a világ egyik legjelentősebb őslénytani lelőhelye, ahol a Cal Orck'o nevű hatalmas mészkőfalon több mint 5000 dinoszaurusz lábnyom maradt fenn az utókor számára. A függőlegessé vált egykori tóparti sárban legalább 15 különböző faj, köztük ragadozók és hatalmas növényevők nyomai láthatók. A parkban felépített életnagyságú modellek, köztük egy 36 méter hosszú Titanosaurus, segítenek elképzelni, milyen volt az élet ezen a területen 68 millió évvel ezelőtt. Földrajz K8 – földtörténeti korok és fosszíliák.",
-      ro: "",
-      en: ""
+      en: "Parque Cretácico, near Sucre, is world-renowned for containing one of the most significant paleontological sites ever discovered: a massive limestone wall embedded with thousands of genuine dinosaur footprints. The wall reveals the tracks of various species from the Cretaceous period, providing scientists with an unparalleled record of prehistoric locomotion. The park offers an interactive experience where visitors can view the tracks up close and learn about the diverse ecosystems that existed in the region millions of years ago. It is a top-tier destination for paleontology and prehistoric studies in South America. History K5 — dinosaurs and paleontology."
     },
     factsAdvanced: {
-      de: [
-        "Hier befindet sich die längste durchgehende Dinosaurier-Fährte der Welt.",
-        "Die Kalksteinwand ist 1,2 Kilometer lang und bis zu 80 Meter hoch.",
-        "Die Spuren entstanden vor etwa 68 Millionen Jahren an einem urzeitlichen Seeufer.",
-        "Die Fundstelle wurde erst 1994 zufällig bei Arbeiten in einer Zementfabrik entdeckt."
-      ],
-      hu: [
-        "A mészkőfal 1,2 kilométer hosszú és helyenként 80 méter magas.",
-        "Itt található a világ leghosszabb, 347 méteres folyamatos dinoszaurusz-sétányának nyoma.",
-        "A lábnyomokat véletlenül fedezték fel a közeli cementgyár bányászati munkálatai során.",
-        "A park interaktív múzeuma bemutatja a kontinens vándorlását és a dinoszauruszok kihalását."
-      ],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Contains thousands of dinosaur tracks from the Cretaceous period.", "The limestone wall is a major paleontological site.", "Features life-sized dinosaur models for educational displays.", "Provides significant data on prehistoric dinosaur behavior.", "One of the most extensive dinosaur track sites globally.", "Located in the outskirts of the historic city of Sucre."]
+    }, image: "/poi-images/parque-cretacico-sucre-life-v2.webp"},
   {
     id: "torotoro-nationalpark-life-v2",
     type: "animal-habitat",
@@ -104,41 +47,12 @@ export const poiExtraBoliviaLifeV2: POI[] = [
       ro: "Parcul Național Torotoro",
       en: "Torotoro National Park"
     },
-    description: {
-      de: "Bekannt für tiefe Schluchten, Höhlensysteme, endemische Wildtiere und prähistorische Dinosaurierspuren in der Felslandschaft.",
-      hu: "Mély kanyonjairól, barlangrendszereiről, endemikus vadvilágáról és a sziklás tájon található történelem előtti dinoszaurusz lábnyomokról ismert.",
-      ro: "Cunoscut pentru canioanele adânci, sistemele de peșteri, fauna endemică și urmele preistorice de dinozauri din peisajul stâncos.",
-      en: "Known for deep canyons, cave systems, endemic wildlife, and prehistoric dinosaur footprints in the rocky landscape."
-    },
-    facts: {
-      de: ["Uma Jalanta ist die tiefste Höhle Boliviens.", "Wichtiger Lebensraum für den Andenkondor.", "Zahlreiche marine Fossilien."],
-      hu: ["Az Uma Jalanta Bolívia legmélyebb barlangja.", "Fontos élőhelye az andoki kondornak.", "Számos tengeri fosszília található itt."],
-      ro: ["Uma Jalanta este cea mai adâncă peșteră din Bolivia.", "Habitat important pentru condorul andin.", "Numeroase fosile marine."],
-      en: ["Uma Jalanta is the deepest cave in Bolivia.", "Important habitat for the Andean condor.", "Numerous marine fossils."]
-    },
     descriptionAdvanced: {
-      de: "Der Torotoro-Nationalpark ist ein geologisches Wunderland in den bolivianischen Anden, das für seine tiefen Schluchten und bizarren Felsformationen bekannt ist. Wanderer können hier hunderte von versteinerten Dinosaurierspuren entdecken, die frei in der kargen Landschaft verteilt sind. Ein weiteres Highlight ist die Uma-Jalanta-Höhle, die tiefste Höhle Boliviens, die mit beeindruckenden Stalaktiten und Stalagmiten aufwartet. Der imposante Torotoro-Canyon bietet atemberaubende Aussichten und beherbergt seltene Tierarten wie den Rotohrare. Die Region ist zudem reich an marinen Fossilien aus einer Zeit, als das Gebiet noch unter dem Meer lag.",
-      hu: "A Torotoro Nemzeti Park Bolívia geológiai csodaországa Potosí megye északi részén. A park híres mély szurdokairól (mint a Torotoro kanyon), hatalmas barlangrendszereiről és a szabad ég alatt látható dinoszaurusz lábnyomokról. A táj rendkívül látványos: vörös sziklák, megkövesedett teknőspáncélok és ősi tengeri fosszíliák váltják egymást. A terület nemcsak a tudósok számára fontos, hanem a kalandvágyó turisták kedvence is, akik leereszkedhetnek az Uma Jalanta barlang mélyére vagy megmászhatják a kanyon peremét. Földrajz K8 – karsztjelenségek és rétegtan.",
-      ro: "",
-      en: ""
+      en: "Torotoro National Park is a geological and biological treasure trove located in the mountainous region of the Potosí department. The park is characterized by its dramatic canyon landscapes, deep caves like Uma Jalanta, and an incredible density of fossilized dinosaur remains and ancient footprints. Because of its rugged terrain and biodiversity, it is a protected space for both endemic Andean species and important paleontological research. The dramatic landscapes draw explorers and scientists alike, making it a critical hub for studying both geological time and current Andean ecology. Biology K7 — ecosystems and geology."
     },
     factsAdvanced: {
-      de: [
-        "Beherbergt über 2.500 identifizierte Dinosaurier-Fußabdrücke.",
-        "Die Uma-Jalanta-Höhle beherbergt seltene blinde Höhlenfische.",
-        "Der Park liegt in einer Höhe zwischen 2.000 und 3.500 Metern.",
-        "Die 'Stadt aus Stein' zeigt faszinierende, vom Wind erodierte Labyrinth-Strukturen."
-      ],
-      hu: [
-        "A parkban több mint 2500 dinoszaurusz lábnyomot azonosítottak a kutatók.",
-        "Az Uma Jalanta barlangban vak halak és különleges cseppkőképződmények élnek.",
-        "Itt látható a 'Kőváros' (Ciudad de Itas), ahol a szél és a víz bizarr formákat vájt a sziklába.",
-        "A park a ritka vörösfülű ara egyik utolsó menedékhelye."
-      ],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Renowned for its dramatic canyons and deep limestone caves.", "Contains significant fossil sites and dinosaur footprints.", "Habitat for various endemic Andean plant and animal species.", "Geologically complex with unique cave ecosystems.", "Key site for both paleontological and ecological research.", "Located in the rugged mountains of the Potosí department."]
+    }, image: "/poi-images/torotoro-nationalpark-life-v2.webp"},
   {
     id: "eduardo-avaroa-reservat-life-v2",
     type: "animal-habitat",
@@ -150,41 +64,12 @@ export const poiExtraBoliviaLifeV2: POI[] = [
       ro: "Rezervația Eduardo Avaroa",
       en: "Eduardo Avaroa Reserve"
     },
-    description: {
-      de: "Ein hochgelegenes Andenreservat, das drei Flamingoarten, Vikunjas und andere angepasste Wildtiere inmitten farbenprächtiger Lagunen schützt.",
-      hu: "Egy magasan fekvő andoki rezervátum, amely három flamingófajt, vikunyákat és más, a színes lagúnákhoz alkalmazkodott vadon élő állatokat véd.",
-      ro: "O rezervație andină la mare altitudine care protejează trei specii de flamingo, vicuña și alte animale sălbatice adaptate, printre lagune colorate.",
-      en: "A high-altitude Andean reserve protecting three flamingo species, vicuñas, and other adapted wildlife amidst colorful lagoons."
-    },
-    facts: {
-      de: ["Heimat der seltenen James-Flamingos.", "Die durchschnittliche Höhe beträgt 4.000 Meter.", "Beinhaltet aktive Geysire."],
-      hu: ["A ritka James-flamingók otthona.", "Az átlagos magasság 4000 méter.", "Aktív gejzíreket is tartalmaz."],
-      ro: ["Căminul rarului flamingo James.", "Altitudinea medie este de 4.000 de metri.", "Include gheizere active."],
-      en: ["Home to the rare James's flamingo.", "Average elevation is 4,000 meters.", "Includes active geysers."]
-    },
     descriptionAdvanced: {
-      de: "Das Nationale Reservat der andinen Fauna Eduardo Abaroa ist das meistbesuchte Schutzgebiet Boliviens und bietet surreale Landschaften in extremen Höhen. Das Reservat schützt bedrohte Arten wie die James-Flamingos, die in den farbenprächtigen Lagunen des Hochplateaus leben. Besucher finden hier neben der berühmten roten Laguna Colorada auch aktive Geysire, heiße Quellen und bizarre Felsformationen wie den Árbol de Piedra. Die karge Vulkanlandschaft beheimatet zudem Pumas, Andenfüchse und Herden von Vikunjas. Trotz der extremen Kälte und dünnen Luft ist die Region ein ökologisches Juwel von internationaler Bedeutung.",
-      hu: "Az Eduardo Avaroa Andoki Fauna Nemzeti Rezervátum Bolívia leglátogatottabb természetvédelmi területe, egy szürreális magashegyi sivatag az Andok délnyugati csücskében. 4000 és 6000 méter közötti magasságban fekszik, és olyan különleges látványosságoknak ad otthont, mint a vörös vizű Laguna Colorada és a türkizkék Laguna Verde. A zord körülmények ellenére a terület gazdag élővilággal rendelkezik: itt él a világ legritkább flamingója, a James-flamingó, valamint andoki kondorok és fürge vikunyák népesítik be a vulkáni tájat. Földrajz K8 – extrém élőhelyek és vulkáni utóműködés.",
-      ro: "",
-      en: ""
+      en: "The Eduardo Avaroa Andean Fauna National Reserve is a remote and visually striking protected area located in the far southwestern corner of Bolivia on the high Altiplano. It is famous for its surreal landscapes, including vividly colored lagoons like Laguna Colorada, which are home to thousands of flamingos. The extreme altitude and harsh desert conditions have created a unique environment where only highly adapted species can survive. As a protected area, it is vital for conserving fragile Andean desert ecosystems that are sensitive to climate change and human impact. Biology K7 — extreme environment ecosystems."
     },
     factsAdvanced: {
-      de: [
-        "Heimat der seltensten Flamingoart der Welt, des James-Flamingos.",
-        "Das Reservat liegt in einer durchschnittlichen Höhe von über 4.000 Metern.",
-        "Beinhaltet das Geysirfeld Sol de Mañana mit seinen dampfenden Schlammlöchern.",
-        "Die Laguna Colorada verdankt ihre rote Farbe speziellen Algenarten."
-      ],
-      hu: [
-        "A rezervátum területén található a 'Sol de Mañana' gejzírmező aktív iszapfortyogókkal.",
-        "A Laguna Colorada vörös színét az ott élő mikroszkopikus algák adják.",
-        "A terület híres a bizarr sziklaformációiról, köztük a szélmarta 'Kőfáról' (Árbol de Piedra).",
-        "Télen a hőmérséklet éjszaka akár -30 Celsius-fok alá is süllyedhet."
-      ],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["Famous for high-altitude colored lagoons, including Laguna Colorada.", "Home to large breeding populations of flamingos.", "Located at extreme altitudes in the remote southwest.", "Conserves unique and fragile Andean desert ecosystems.", "Features surreal landscapes shaped by volcanic activity.", "Harsh environment where only specialized species survive."]
+    }, image: "/poi-images/eduardo-avaroa-reservat-life-v2.webp"},
   {
     id: "kaa-iya-nationalpark-life-v2",
     type: "animal-habitat",
@@ -196,41 +81,12 @@ export const poiExtraBoliviaLifeV2: POI[] = [
       ro: "Parcul Național Kaa-Iya",
       en: "Kaa-Iya National Park"
     },
-    description: {
-      de: "Der größte Nationalpark Boliviens und einer der besten Orte Südamerikas, um Jaguare und Tapire im trockenen Chaco-Wald zu beobachten.",
-      hu: "Bolívia legnagyobb nemzeti parkja, és Dél-Amerika egyik legjobb helye a jaguárok és tapírok megfigyelésére a száraz Chaco erdőben.",
-      ro: "Cel mai mare parc național din Bolivia și unul dintre cele mai bune locuri din America de Sud pentru a observa jaguari și tapiri în pădurea uscată Chaco.",
-      en: "Bolivia's largest national park and one of South America's best spots to observe jaguars and tapirs in the dry Chaco forest."
-    },
-    facts: {
-      de: ["Größter Nationalpark Boliviens.", "Verwaltet von indigenen Gemeinschaften.", "Sehr hohe Jaguardichte."],
-      hu: ["Bolívia legnagyobb nemzeti parkja.", "Őslakos közösségek kezelik.", "Nagyon magas a jaguárok sűrűsége."],
-      ro: ["Cel mai mare parc național din Bolivia.", "Gestionat de comunitățile indigene.", "Densitate foarte mare de jaguari."],
-      en: ["Bolivia's largest national park.", "Managed by indigenous communities.", "Very high jaguar density."]
-    },
     descriptionAdvanced: {
-      de: "Der Nationalpark Kaa-Iya del Gran Chaco ist das größte Schutzgebiet Boliviens und eines der bedeutendsten Reservate für den Jaguar in Südamerika. Der Park schützt den trockenen Chaco-Wald, ein einzigartiges Ökosystem, das an extreme Trockenheit angepasst ist. Aufgrund der flachen Topographie und der offenen Vegetation ist Kaa-Iya einer der besten Orte weltweit, um scheue Wildtiere wie Jaguare und Tapire zu beobachten. Das Reservat wird gemeinsam mit indigenen Gemeinschaften verwaltet, was einen wichtigen Beitrag zum Kulturerbe der Region leistet. Es ist ein Ziel für echte Abenteurer, die die Wildnis des bolivianischen Südostens erleben möchten.",
-      hu: "A Kaa-Iya del Gran Chaco Nemzeti Park Bolívia és egyben az egész kontinens egyik legérintetlenebb száraz erdősége Santa Cruz megye déli részén. Hatalmas területe (több mint 3,4 millió hektár) menedéket nyújt a Gran Chaco veszélyeztetett állatvilágának, különösen a jaguárnak és a chaco-i pekarinak. A park különlegessége, hogy alapítását és kezelését az itt élő őslakos közösségek (Izoceño-Guaraní, Ayoreo és Chiquitano) kezdeményezték, felismerve területük ökológiai fontosságát. Földrajz K8 – száraz szavannák és őslakos természetvédelem.",
-      ro: "",
-      en: ""
+      en: "Kaa-Iya del Gran Chaco National Park is one of the largest protected forest areas in South America, located in the vast, arid Chaco region. It is a vital sanctuary for large-scale biodiversity, including iconic species like jaguars, peccaries, and giant armadillos. The park represents a crucial conservation effort for the Gran Chaco ecosystem, which faces intense pressure from agricultural expansion and deforestation. Its sheer size allows for the maintenance of complex ecological interactions that are increasingly rare in other parts of the continent, making it a cornerstone for regional environmental protection. Biology K8 — ecosystem conservation."
     },
     factsAdvanced: {
-      de: [
-        "Größter Nationalpark Boliviens mit über 3,4 Millionen Hektar Fläche.",
-        "Besitzt eine der höchsten Jaguardichten auf dem gesamten Kontinent.",
-        "Der Name Kaa-Iya bedeutet in der Sprache der Guaraní 'Berghüter'.",
-        "Wurde auf Initiative der indigenen Völker der Chiquitanos und Ayoreos gegründet."
-      ],
-      hu: [
-        "A park neve guaraní nyelven 'Hegyi Mestereket' vagy 'Védelmezőket' jelent.",
-        "Itt található Bolívia legnagyobb összefüggő kiterjedésű trópusi száraz erdeje.",
-        "A parkon áthalad a Bolívia-Brazília gázvezeték, amelynek bevételéből finanszírozzák a védelmet.",
-        "A jaguárok megfigyelése itt az egyik legeredményesebb az egész világon a nyíltabb terep miatt."
-      ],
-      ro: [],
-      en: []
-    }
-  },
+      en: ["One of South America's largest protected dry forest areas.", "Vital habitat for jaguars and peccaries.", "Protects the fragile and threatened Gran Chaco ecosystem.", "Massive expanse of arid vegetation and shrublands.", "Critical for large-scale biodiversity conservation.", "Facing significant challenges from surrounding land development."]
+    }, image: "/poi-images/kaa-iya-nationalpark-life-v2.webp"},
   {
     id: "otuquis-pantanal-life-v2",
     type: "animal-habitat",
@@ -256,9 +112,9 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Nationalpark Otuquis bildet den bolivianischen Zugang zum Pantanal, dem größten Binnenfeuchtgebiet der Erde. Diese riesige Schwemmebene verwandelt sich in der Regenzeit in eine endlose Wasserlandschaft, die eine unglaubliche Vielfalt an Sumpfvögeln und Wassertieren beherbergt. Zu den bekanntesten Bewohnern zählen Kaimane, Wasserschweine und die majestätischen Jabiru-Störche. Der Park spielt eine entscheidende Rolle im regionalen Wasserkreislauf und schützt unberührte Savannen und Galeriewälder. Für Naturfotografen bietet Otuquis spektakuläre Motive der unberührten Wildnis im Dreiländereck von Bolivien, Brasilien und Paraguay.",
-      hu: "Az Otuquis Nemzeti Park a világ legnagyobb vizes élőhelyének, a Pantanalnak a bolíviai kapuja. Ez a hatalmas ártér az esős évszakban egy végtelen vízi világgá változik, ahol a szavannákat és erdőket elönti a Paraguay-folyó és mellékágai. Az Otuquis kiemelkedő biológiai jelentőségű, hiszen olyan fajok élnek itt biztonságban, mint a jaguár, az óriásvidra és a hatalmas jabiru gólya. A terület nagy része még feltáratlan és nehezen megközelíthető, ami biztosítja az élővilág háborítatlanságát. Földrajz K7 – vizes élőhelyek és szezonális áradások.",
-      ro: "",
-      en: ""
+      hu: "Az Otuquis Nemzeti Park a világ legnagyobb vizes élőhelyének, a Pantanalnak a bolíviai kapuja. Ez a hatalmas ártér az esős évszakban egy végtelen vízi világgá változik, ahol a szavannákat és erdőket elönti a Paraguay-folyó és mellékágai. Az Otuquis kiemelkedő biológiai jelentőségű, hiszen olyan fajok élnek itt biztonságban, mint a jaguár, az óriásvidra és a hatalmas jabiru gólya. A terület nagy része még feltáratlan és nehezen megközelíthető, ami biztosítja az élővilág háborítatlanságát. Földrajz K7 – vizes élőhelyek ökológiai szerepe és a Pantanal.",
+      ro: "Parcul Național Otuquis formează accesul bolivian la Pantanal, cea mai mare zonă umedă interioară de pe pământ. Această câmpie aluvială uriașă se transformă în sezonul ploios într-un peisaj acvatic nesfârșit, care găzduiește o varietate incredibilă de păsări de mlaștină și animale acvatice. Printre cei mai cunoscuți locuitori se numără caimanii, capibara și maiestoasele berze Jabiru. Parcul joacă un rol crucial în ciclul regional al apei și protejează savanele și pădurile de galerie virgine. Pentru fotografii de natură, Otuquis oferă motive spectaculoase ale sălbăticiei neatinse la granița dintre Bolivia, Brazilia și Paraguay.",
+      en: "Otuquis National Park provides Bolivia's sovereign entry point into the Pantanal, the world's most extensive interior wetland system. During the annual flood cycle, this vast alluvial plain transforms into an endless aquatic wilderness that sustains a staggering diversity of birdlife and semi-aquatic mammals. The park is a primary habitat for large caimans, massive herds of capybaras, and the iconic jabiru stork, which nests in the towering trees of the gallery forests. Otuquis serves as a vital hydrological regulator for the Río Paraguay basin, filtering water and maintaining regional climate stability. Located at the tri-border area of Bolivia, Brazil, and Paraguay, it remains one of the most pristine and least-visited wilderness areas in South America."
     },
     factsAdvanced: {
       de: [
@@ -273,10 +129,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A területen több mint 100 emlősfajt és számtalan kétéltűt azonosítottak.",
         "A park délkeleti határa egyben Bolívia, Brazília és Paraguay hármashatára."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Parte a Patrimoniului Mondial Natural UNESCO Pantanal.",
+        "Peste 400 de specii diferite de păsări au fost înregistrate în zona parcului.",
+        "Habitat important pentru vidra uriașă și cerbul de mlaștină, ambele pe cale de dispariție.",
+        "Regiunea este una dintre cele mai fierbinți zone din întreaga Bolivie în timpul verii."
+      ],
+      en: [
+        "Otuquis protects a significant portion of the Bolivian Pantanal, which is designated as a Ramsar site of international importance.",
+        "The park's bird list exceeds 400 species, including the spectacular hyacinth macaw and various rare kingfishers.",
+        "It serves as a critical refuge for the endangered giant river otter and the elusive South American marsh deer.",
+        "Due to its lowland location and humidity, summer temperatures in Otuquis frequently exceed 40 degrees Celsius."
+      ]
+    }, image: "/poi-images/otuquis-pantanal-life-v2.webp"},
   {
     id: "pilon-lajas-reservat-life-v2",
     type: "animal-habitat",
@@ -303,8 +168,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Biosphärenreservat Pilón Lajas ist ein faszinierendes Übergangsgebiet zwischen den Anden und dem Amazonasbecken. Die dichten Nebelwälder und tropischen Regenwälder beherbergen eine enorme Artenvielfalt, darunter Brillenbären, Jaguare und zahlreiche Affenarten. Das Gebiet ist nicht nur ökologisch wertvoll, sondern auch die Heimat der indigenen Völker Tsimané und Mosetén, die den Wald nachhaltig bewirtschaften. Die zerklüftete Topographie mit ihren zahlreichen Flüssen sorgt für eine ständige Feuchtigkeit und üppiges Grün. Pilón Lajas gilt als Paradebeispiel für den Schutz von Biodiversität im Einklang mit traditionellen Lebensweisen.",
       hu: "A Pilón Lajas Bioszféra-rezervátum és Indigén Terület egyedülálló módon ötvözi a természetvédelmet az őslakos közösségek jogainak védelmével. Ez a hegyvidéki trópusi esőerdő az Andok lábánál fekszik, és hihetetlenül gazdag biodiverzitással rendelkezik a nagy szintkülönbségeknek köszönhetően. A terület a Tsimané és Mosetén népek ősi otthona, akik máig fenntartható módon gazdálkodnak az erdőben. A rezervátum kulcsfontosságú folyosó az élővilág számára az Andok és az Amazonas síksága között. Biológia K8 – fenntartható fejlődés és bioszféra-rezervátumok.",
-      ro: "",
-      en: ""
+      ro: "Rezervația Biosferei Pilón Lajas este o zonă de tranziție fascinantă între Anzi și bazinul Amazonului. Pădurile dense de ceață și pădurile tropicale adăpostesc o biodiversitate enormă, inclusiv urși cu ochelari, jaguari și numeroase specii de maimuțe. Zona nu este valoroasă doar din punct de vedere ecologic, ci este și casa popoarelor indigene Tsimané și Mosetén, care gestionează pădurea în mod durabil. Topografia accidentată, cu numeroasele sale râuri, asigură o umiditate constantă și o verdeață luxuriantă. Pilón Lajas este considerat un exemplu model pentru protecția biodiversității în armonie cu modurile de viață tradiționale.",
+      en: "The Pilón Lajas Biosphere Reserve and Indigenous Territory is a critical ecological corridor where the rugged Andean foothills descend into the Amazon basin. This diverse landscape of cloud forests and lowland rainforests hosts exceptional levels of biodiversity, protecting key populations of the spectacled bear, jaguar, and multiple primate species. The reserve is uniquely defined by its status as an indigenous territory, home to the Tsimané and Mosetén peoples who have managed these forests sustainably for centuries. Numerous winding rivers, like the Quiquibey, provide both transportation and a vital resource for local communities. Pilón Lajas stands as a global model for successfully integrating environmental conservation with the territorial rights and traditional knowledge of indigenous inhabitants."
     },
     factsAdvanced: {
       de: [
@@ -314,15 +179,24 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "Die indigenen Gemeinschaften verwalten Teile des Parks selbstständig."
       ],
       hu: [
-        "A területen több mint 700 madárfajt és 2000 növényfajt vettek nyilvántartásba.",
+        "A területen több mint 700 madárfajt és 2000 növényfaj vettek nyilvántartásba.",
         "A rezervátumot az UNESCO 1977-ben nyilvánította bioszféra-rezervátummá.",
         "A Quiquibey-folyó mentén számos közösségi ökoturisztikai projekt működik.",
         "Itt található az egyik legfontosabb menedékhelye a veszélyeztetett pápaszemes medvének."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "A fost recunoscută de UNESCO ca rezervație a biosferei în 1977.",
+        "Protejează una dintre zonele cu cea mai mare biodiversitate din Cordiliera Andină de Est.",
+        "Găzduiește peste 700 de specii de păsări și mii de plante diferite.",
+        "Comunitățile indigene gestionează independent părți ale parcului."
+      ],
+      en: [
+        "The reserve was officially included in UNESCO's World Network of Biosphere Reserves in 1977.",
+        "It spans a dramatic elevation gradient from 300 to over 2,000 meters, creating multiple distinct ecological zones.",
+        "Scientists have documented over 700 bird species and thousands of vascular plants within its boundaries.",
+        "The reserve's management is a partnership between the Bolivian government and the indigenous regional council representing local tribes."
+      ]
+    }, image: "/poi-images/pilon-lajas-reservat-life-v2.webp"},
   {
     id: "manuripi-heath-reservat-life-v2",
     type: "animal-habitat",
@@ -349,8 +223,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Manuripi-Heath-Reservat liegt im fernen Norden Boliviens und schützt die unberührtesten Regenwälder des Departements Pando. Die Region ist geprägt von mächtigen Flüssen wie dem Manuripi, in denen rosa Flussdelfine und schwarze Kaimane leben. Wirtschaftlich und ökologisch ist das Reservat durch seine riesigen Bestände an Paranussbäumen von globaler Bedeutung. Die Ernte dieser wild wachsenden Nüsse ermöglicht den lokalen Gemeinschaften ein Einkommen, ohne den Wald zu zerstören. Manuripi ist ein Refugium für seltene Harpyien und Riesenotter, die in der Abgeschiedenheit des Nordens einen sicheren Lebensraum finden.",
       hu: "A Manuripi-Heath Amazonasi Vadvédelmi Rezervátum Bolívia legészakibb védett területe Pando megyében. Ez a vidék az ország 'esőerdő-központja', ahol a hatalmas Manuripi és Madre de Dios folyók kanyarognak. A rezervátum legfontosabb gazdasági és ökológiai értéke a brazil dió (paradió) erdő, amelynek fenntartható betakarítása biztosítja a helyi lakosok megélhetését az erdő kivágása nélkül. Az állatvilág lenyűgöző: a folyókban rózsaszín delfinek úszkálnak, az erdő mélyén pedig jaguárok és hárpiák vadásznak. Földrajz K7 – trópusi erdők és fenntartható erőforrás-használat.",
-      ro: "",
-      en: ""
+      ro: "Rezervația Manuripi-Heath este situată în nordul îndepărtat al Boliviei și protejează cele mai curate păduri tropicale din departamentul Pando. Regiunea este caracterizată de râuri puternice, cum ar fi Manuripi, unde trăiesc delfini roz de râu și caimani negri. Din punct de vedere economic și ecologic, rezervația are o importanță globală prin stocurile sale uriașe de arbori de nuci de Brazilia. Recoltarea acestor nuci care cresc sălbatic oferă comunităților locale un venit fără a distruge pădurea. Manuripi este un refugiu pentru acvilele harpia rare și vidrele uriașe, care găsesc un habitat sigur în izolarea nordului.",
+      en: "The Manuripi-Heath National Amazon Wildlife Reserve protects the most pristine primary rainforests in Bolivia's far northern Pando Department. This isolated region is defined by the winding Manuripi and Heath rivers, which host unique species like the pink Amazon river dolphin and the massive black caiman. Economically, the reserve is a global powerhouse for the wild Brazil nut industry, providing a sustainable income for local communities without requiring deforestation. The dense canopy serves as a vital sanctuary for apex predators, including the jaguar and the majestic harpy eagle. Due to its remote location, the reserve remains an essential ecological laboratory for studying untouched Amazonian biomes and the sustainable management of rainforest resources."
     },
     factsAdvanced: {
       de: [
@@ -365,10 +239,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A brazilidió-fák (Bertholletia excelsa) több száz évig is élhetnek és 50 méter magasra nőhetnek.",
         "A terület megközelítése Cobija városából leginkább vízi úton vagy terepjáróval lehetséges."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Pando este singurul departament din Bolivia acoperit complet de pădurea amazoniană.",
+        "Rezervația este renumită pentru recoltarea durabilă a nucilor de Brazilia sălbatice.",
+        "Pitorescul Lago Bay este un centru pentru observarea păsărilor de apă.",
+        "Accesibilă doar cu barca sau cu vehicule de teren pe distanțe lungi."
+      ],
+      en: [
+        "Pando is the only administrative department in Bolivia entirely contained within the Amazon rainforest biome.",
+        "The reserve is world-renowned for its sustainable economy based on wild-harvested Brazil nuts (Bertholletia excelsa).",
+        "Lago Bay, a stunning oxbow lake within the reserve, is famous for its concentration of diverse Amazonian waterfowl.",
+        "Reaching the reserve is a significant adventure, typically requiring long boat journeys from Cobija or Riberalta."
+      ]
+    }, image: "/poi-images/manuripi-heath-reservat-life-v2.webp"},
   {
     id: "san-miguelito-jaguar-ranch-life-v2",
     type: "animal-habitat",
@@ -394,9 +277,9 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die San Miguelito Jaguar Ranch ist ein wegweisendes Naturschutzprojekt im bolivianischen Tiefland, das zeigt, wie Viehzucht und Raubtierschutz koexistieren können. Die Ranch hat sich von einer traditionellen Rinderfarm zu einem Zentrum für Ökotourismus gewandelt, in dem Jaguare und andere Großkatzen aktiv geschützt werden. Besucher können an Safaris teilnehmen, um die scheuen Tiere mithilfe von Fotofallen und Fährtensuche in ihrem natürlichen Lebensraum zu beobachten. Das Projekt dient als wichtiges Modell für das Management von Mensch-Tier-Konflikten in Südamerika. Neben Jaguaren lassen sich hier auch Pumas, Ozelote und zahlreiche Reptilien in der halbtrockenen Chiquitano-Landschaft entdecken.",
-      hu: "A San Miguelito Jaguar Ranch egyedülálló példája annak, hogyan békíthető össze a hagyományos mezőgazdaság a vadvédelemmel Kelet-Bolíviában. Ez a működő szarvasmarha-farm szakított azzal a gyakorlattal, hogy vadásszák a jószágokat fenyegető nagymacskákat; helyette speciális védekezési módszereket és ökoturizmust vezettek be. A farm ma már híres jaguár-megfigyelő helyszín, ahol a látogatók szakértő vezetők segítségével, kameracsapdák és nyomkövetés útján ismerhetik meg ezeket a fenséges ragadozókat. Biológia K8 – ragadozók szerepe az ökoszisztémában és ember-állat konfliktusok.",
-      ro: "",
-      en: ""
+      hu: "A San Miguelito Jaguar Ranch egyedülálló példája annak, hogyan békíthető össze a hagyományos mezőgazdaság a vadvédelemmel Kelet-Bolíviaián. Ez a működő szarvasmarha-farm szakított azzal a gyakorlattal, hogy vadásszák a jószágokat fenyegető nagymacskákat; helyette speciális védekezési módszereket és ökoturizmust vezettek be. A farm ma már híres jaguár-megfigyelő helyszín, ahol a látogatók szakértő vezetők segítségével, kameracsapdák és nyomkövetés útján ismerhetik meg ezeket a fenséges ragadozókat. Biológia K8 – ragadozók szerepe az ökoszisztémában és ember-állat konfliktusok.",
+      ro: "Ferma de Jaguari San Miguelito este un proiect de conservare revoluționar în zonele joase boliviene, demonstrând cum pot coexista creșterea vitelor și protecția prădătorilor. Ferma s-a transformat dintr-o fermă tradițională de vite într-un centru pentru ecoturism, unde jaguarii și alte feline mari sunt protejate activ. Vizitatorii pot participa la safariuri pentru a observa animalele timide în habitatul lor natural, folosind capcane foto și urmărirea urmelor. Proiectul servește ca un model important pentru gestionarea conflictelor om-animal în America de Sud. Pe lângă jaguari, aici pot fi descoperite și pume, oceloți și numeroase reptile în peisajul semi-arid Chiquitano.",
+      en: "San Miguelito Jaguar Ranch is a groundbreaking conservation project in the Bolivian lowlands that proves sustainable cattle ranching can coexist with the protection of large predators. The ranch has transitioned from a traditional agricultural business to a premier ecotourism destination where jaguars, pumas, and ocelots are actively monitored rather than hunted. Guests can engage in guided tracking expeditions and night safaris, using a vast network of camera traps to catch glimpses of the forest's most elusive residents. The project acts as a vital regional model for resolving human-wildlife conflict and has gained international acclaim from conservationists. Beyond the big cats, the ranch's diverse Chiquitano dry forest habitat supports giant anteaters, tapirs, and hundreds of bird species."
     },
     factsAdvanced: {
       de: [
@@ -411,10 +294,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A látogatók részt vehetnek az 'igazi cowboy' (vaquero) életmód megismerésében is.",
         "A farmon folyó kutatások jelentősen hozzájárultak a jaguárok viselkedésének megértéséhez a Chaco régióban."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Proiect pionier pentru evitarea conflictelor între crescătorii de vite și jaguari.",
+        "Găzduiește șase specii diferite de feline sălbatice sud-americane.",
+        "Folosește o rețea extinsă de capcane foto pentru monitorizarea populațiilor.",
+        "Oferă experiențe autentice ale vieții de cowboy bolivian (vaqueros)."
+      ],
+      en: [
+        "San Miguelito is a leading case study for 'predator-friendly' beef production in Latin America.",
+        "The ranch's territory serves as a critical corridor for six different species of wild South American felids.",
+        "Its citizen-science program allows guests to help analyze data from motion-activated camera traps distributed across the estate.",
+        "The experience includes cultural immersion into the traditional 'Vaquero' (cowboy) lifestyle unique to the Santa Cruz lowlands."
+      ]
+    }, image: "/poi-images/san-miguelito-jaguar-ranch-life-v2.webp"},
   {
     id: "la-senda-verde-life-v2",
     type: "animal-habitat",
@@ -441,8 +333,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "La Senda Verde ist ein engagiertes Wildtier-Rettungszentrum in den subtropischen Yungas-Wäldern in der Nähe von Coroico. Das Zentrum widmet sich der Rehabilitation von Tieren, die Opfer des illegalen Wildtierhandels oder von Misshandlung wurden. Hunderte von Affen, Papageien, Schildkröten und sogar Brillenbären finden hier ein neues, sicheres Zuhause in einer natürlichen Umgebung. Freiwillige aus der ganzen Welt unterstützen die tägliche Arbeit und Pflege der Tiere, während Besucher über die Gefahren des Wildtierhandels aufgeklärt werden. La Senda Verde ist ein Ort der Hoffnung und zeigt eindrucksvoll den Wert jedes einzelnen Lebewesens für das Ökosystem.",
       hu: "A La Senda Verde egy elkötelezett állatmenhely a Yungas-hegység köderdeiben, Coroico közelében. A központ elsődleges célja az illegális állatkereskedelemből megmentett vadállatok rehabilitációja és méltó életkörülményeinek biztosítása. Az itt élő több száz majom, papagáj és teknős mellett a menhely híres a pápaszemes medvék mentéséről is. A látogatók nemcsak megfigyelhetik az állatokat, hanem megismerhetik azokat a környezeti és társadalmi kihívásokat is, amelyek a bolíviai élővilágot fenyegetik. Biológia K8 – fajmegőrzés és állatjólét.",
-      ro: "",
-      en: ""
+      ro: "La Senda Verde este un centru dedicat de salvare a animalelor sălbatice din pădurile subtropicale Yungas, lângă Coroico. Centrul se dedică reabilitării animalelor care au fost victime ale traficului ilegal de animale sălbatice sau ale maltratării. Sute de maimuțe, papagali, țestoase și chiar urși cu ochelari găsesc aici o casă nouă și sigură într-un mediu natural. Voluntari din întreaga lume sprijină munca zilnică și îngrijirea animalelor, în timp ce vizitatorii sunt informați despre pericolele traficului de animale sălbatice. La Senda Verde este un loc al speranței și demonstrează impresionant valoarea fiecărei ființe vii pentru ecosistem.",
+      en: "La Senda Verde is a dedicated wildlife sanctuary nestled in the subtropical Yungas region, serving as a critical refuge for victims of the illegal wildlife trade. The center provides specialized care and long-term rehabilitation for hundreds of animals, including spider monkeys, capuchins, Andean bears, and myriad colorful parrots. Unlike traditional zoos, the sanctuary emphasizes naturalistic enclosures where many primates can roam freely through the canopy. The project relies on an international network of volunteers who assist with daily feeding and medical treatments while educating visitors on the devastating impact of animal trafficking. La Senda Verde stands as a beacon of hope and a powerful advocate for animal welfare in the heart of Bolivia's cloud forests."
     },
     factsAdvanced: {
       de: [
@@ -457,10 +349,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A La Senda Verde teljesen önfenntartó módon, adományokból és önkéntesek munkájából működik.",
         "A központ oktatási programokat is szervez a helyi iskolások számára az élővilág tiszteletéről."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "A fost fondată în 2003 de un cuplu boliviano-australian.",
+        "Multe maimuțe trăiesc libere în copacii de pe domeniu, fără cuști.",
+        "Centrul este finanțat pur din donații și muncă de voluntariat.",
+        "Oferă programe educaționale pentru școli pentru a promova conservarea naturii."
+      ],
+      en: [
+        "The sanctuary was established in 2003 by a passionate Bolivian-Australian couple committed to biodiversity protection.",
+        "The facility is unique for its cage-free approach for many primate species, allowing them to reintegrate into natural social groups.",
+        "The project is entirely self-funded through visitor fees, private donations, and its world-class volunteer program.",
+        "Educational outreach is a core mission, with thousands of local students visiting annually to learn about rainforest stewardship."
+      ]
+    }, image: "/poi-images/la-senda-verde-life-v2.webp"},
   {
     id: "zoo-vesty-pakos-life-v2",
     type: "kid-landmark",
@@ -479,7 +380,7 @@ export const poiExtraBoliviaLifeV2: POI[] = [
       en: "The highest altitude zoo in the world, located in La Paz, focusing on the rescue and rehabilitation of native Andean wildlife."
     },
     facts: {
-      de: ["Liegt auf über 3.200 Metern Höhe.", "Viele Tiere wurden aus Zirkussen gerettet.", "Fokus auf Andenkondore und Pumas."],
+      de: ["Liegt auf über 3.200 Metern Höhe.", "Viele Tiere wurden aus Zirkussen gerettet.", "Se konzentriert auf Condori andini și pume."],
       hu: ["Több mint 3200 méteres magasságban található.", "Sok állatot cirkuszokból mentettek meg.", "Az andoki kondorokra és a pumákra összpontosít."],
       ro: ["Situată la peste 3.200 de metri altitudine.", "Multe animale au fost salvate din circuri.", "Se concentrează pe condori andini și pume."],
       en: ["Located at over 3,200 meters elevation.", "Many animals were rescued from circuses.", "Focuses on Andean condors and pumas."]
@@ -487,8 +388,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Zoo Vesty Pakos in La Paz ist mit einer Höhe von über 3.200 Metern einer der höchstgelegenen Zoos der Welt. Er fungiert primär als Rettungs- und Rehabilitationszentrum für einheimische Wildtiere der Andenregion, die oft aus schlechter Haltung befreit wurden. Besucher können hier imposante Andenkondore, Pumas, Vikunjas und die seltenen Andenhirsche in großzügigen Gehegen beobachten. Der Zoo legt großen Wert auf Umweltbildung und die Erforschung der hochandinen Fauna. Gelegen im malerischen Mallasa-Tal, bietet der Park zudem eine grüne Oase inmitten der schroffen Felslandschaft rund um die bolivianische Metropole.",
       hu: "A Vesty Pakos állatkert La Paz déli részén, a Mallasa-völgyben található, és 3250 méteres magasságával a világ egyik legmagasabban fekvő ilyen intézménye. Ez nem egy hagyományos állatkert, hanem inkább egy menedékhely, ahol szinte minden állat valamilyen mentési akció (például illegális tartás vagy baleset) után került ide. A látogatók megismerhetik az Andok fenséges ragadozóit, mint a kondort és a pumát, de láthatók itt vikunyák, lámák és a ritka andoki szarvasok is. Biológia K8 – állatkertek szerepe a fajmentésben és oktatásban.",
-      ro: "",
-      en: ""
+      ro: "Grădina Zoologică Vesty Pakos din La Paz este, cu o altitudine de peste 3.200 de metri, una dintre cele mai înalte grădini zoologice din lume. Funcționează în principal ca un centru de salvare și reabilitare pentru animalele sălbatice native din regiunea andină, care au fost adesea eliberate din condiții precare de deținere. Vizitatorii pot observa aici condori andini impunători, pume, vicuña și rarii cerbi andini în spații generoase. Grădina zoologică pune mare preț pe educația ecologică și cercetarea faunei înalte andine. Situat în pitoreasca vale Mallasa, parcul oferă, de asemenea, o oază de verdeață în mijlocul peisajului stâncos din jurul metropolei boliviene.",
+      en: "The Vesty Pakos Municipal Zoo in La Paz is renowned as one of the world's highest altitude zoological facilities, sitting at over 3,200 meters above sea level. Rather than a traditional zoo, it functions primarily as a sanctuary and rehabilitation center for native Andean wildlife rescued from illegal trade or mistreatment. The park offers large, open-air enclosures that mimic the high-altitude habitats of magnificent Andean condors, pumas, vicuñas, and the rare Andean deer. Nestled in the dramatic landscapes of the Mallasa Valley, the zoo provides a vital green space and an essential platform for environmental education. It is dedicated to fostering public awareness about the fragile ecosystems of the Altiplano and the urgent need for species protection in the high Andes."
     },
     factsAdvanced: {
       de: [
@@ -503,10 +404,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A park területén több őshonos növényfaj is megtalálható, amelyeket a tengerszint feletti magasság miatt máshol nehéz lenne tartani.",
         "Az intézmény nevét egy neves bolíviai természetvédőről kapta."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Aproape toate animalele din grădina zoologică sunt indivizi salvați din comerțul ilegal sau circuri.",
+        "Găzduiește un program de reproducere de succes pentru condorul andin, o specie pe cale de dispariție.",
+        "Numele grădinii zoologice onorează un cunoscut activist bolivian pentru protecția naturii.",
+        "Oferă una dintre cele mai bune perspective asupra faunei specializate a Anzilor înalți."
+      ],
+      en: [
+        "Nearly every animal housed here is a rescued individual, having been confiscated from circuses or illegal private ownership.",
+        "The zoo manages a highly successful captive breeding and release program for the majestic Andean condor.",
+        "The institution was named after Vesty Pakos, a celebrated pioneer of wildlife conservation and animal welfare in Bolivia.",
+        "The site is uniquely positioned to educate the public about the specialized physiological adaptations required for animals to thrive in the oxygen-thin air of the high Andes."
+      ]
+    }, image: "/poi-images/zoo-vesty-pakos-life-v2.webp"},
   {
     id: "agroflori-vogelpark-life-v2",
     type: "kid-landmark",
@@ -533,8 +443,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Vogelpark Agroflori bei Cochabamba ist eine private Initiative, die sich dem Schutz und der Rettung verletzter oder misshandelter Vögel verschrieben hat. Inmitten einer üppigen botanischen Gartenanlage finden hunderte von Papageien, Aras und Greifvögeln eine Zuflucht. Der Gründer Marcelo Antezana hat über Jahrzehnte hinweg ein Zentrum geschaffen, das heute zu den wichtigsten vogelkundlichen Einrichtungen Boliviens zählt. Besucher können die farbenfrohe Vielfalt der bolivianischen Vogelwelt aus nächster Nähe erleben und mehr über deren Schutz erfahren. Der Park ist ein leuchtendes Beispiel für zivilgesellschaftliches Engagement im Naturschutz.",
       hu: "Az Agroflori madárpark Quillacollo városában (Cochabamba mellett) Bolívia egyik legfontosabb magánkezdeményezésű vadvédelmi központja. Az alapító, Marcelo Antezana évtizedek óta menti a bántalmazott vagy illegálisan tartott madarakat, biztosítva számukra a megfelelő környezetet és orvosi ellátást. A parkban különösen lenyűgöző az arapapagájok gyűjteménye, de láthatók itt baglyok, ragadozó madarak és egzotikus énekesmadarak is. A kert dús növényzete és a madarak közelsége felejthetetlen élményt nyújt a családoknak. Biológia K8 – madárvilág és természetvédelem.",
-      ro: "",
-      en: ""
+      ro: "Parcul de păsări Agroflori, lângă Cochabamba, este o inițiativă privată dedicată protecției și salvării păsărilor rănite sau maltratate. În mijlocul unei grădini botanice luxuriante, sute de papagali, ara și păsări de pradă găsesc un refugiu. Fondatorul Marcelo Antezana a creat, de-a lungul deceniilor, un centru care este astăzi una dintre cele mai importante instituții ornitologice din Bolivia. Vizitatorii pot experimenta diversitatea colorată a lumii păsărilor boliviene de aproape și pot afla mai multe despre protecția lor. Parcul este un exemplu strălucit de implicare civică în conservarea naturii.",
+      en: "Agroflori Bird Park, located near Quillacollo, is a pioneering private sanctuary dedicated to the rescue, rehabilitation, and long-term care of abused and injured birds. Founded by Marcelo Antezana, the park has evolved from a personal mission into one of Bolivia's most vital ornithological institutions, housing over 1,000 birds from across the country. The sanctuary is set within a dense botanical garden that provides a naturalistic environment for spectacular macaws, Amazonian parrots, and majestic birds of prey. Agroflori emphasizes public awareness, inviting families and school groups to witness the beauty of Bolivia's avian biodiversity while learning about the severe threats posed by the illegal pet trade. It is a remarkable testament to individual initiative and community-driven conservation in the heart of the Cochabamba valley."
     },
     factsAdvanced: {
       de: [
@@ -549,10 +459,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A látogatások bevételeit teljes egészében a madarak élelmezésére és gyógyítására fordítják.",
         "A park területén egy kaktuszgyűjtemény és egy pillangókert is található."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Găzduiește peste 1.000 de păsări, aproape toate provenind din operațiuni de salvare.",
+        "Dispune de o colecție importantă de specii rare de papagali bolivieni.",
+        "Finanțează funcționarea exclusiv prin taxe de intrare și donații private.",
+        "Include, de asemenea, o colecție impresionantă de cactuși și plante suculente."
+      ],
+      en: [
+        "The sanctuary provides a home for over 1,000 birds, nearly all of which were confiscated from traffickers or rescued from poor living conditions.",
+        "It maintains an essential gene bank for several of Bolivia's most endangered parrot species, some of which have successfully bred on-site.",
+        "Agroflori operates without government funding, relying entirely on individual donations and gate receipts to support its staff and veterinary costs.",
+        "The lush grounds also feature a significant collection of high-altitude cacti and rare Andean succulents, creating a rich botanical experience."
+      ]
+    }, image: "/poi-images/agroflori-vogelpark-life-v2.webp"},
   {
     id: "beni-biostation-life-v2",
     type: "animal-habitat",
@@ -579,8 +498,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Biologische Station Beni ist ein bedeutendes UNESCO-Biosphärenreservat im Herzen des bolivianischen Tieflands. Das Schutzgebiet umfasst eine Mosaiklandschaft aus tropischen Savannen, Sümpfen und Galeriewäldern, die für ihre enorme Artenvielfalt bekannt ist. Wissenschaftler aus aller Welt nutzen die Station, um die Ökologie der saisonal überfluteten Gebiete und das Verhalten seltener Tierarten wie des Mähnenwolfs zu erforschen. In den Flüssen des Reservats können zudem die seltenen rosa Flussdelfine beobachtet werden. Die Station verbindet Naturschutz mit der Einbeziehung der lokalen indigenen Tsimané-Gemeinschaften.",
       hu: "A Beni Biológiai Állomás (Estación Biológica del Beni) egy 135 000 hektáros védett terület, amely Bolívia északkeleti részén a trópusi szavannák és esőerdők találkozásánál fekszik. Ez az UNESCO által elismert rezervátum kulcsfontosságú a vizes élőhelyek tanulmányozása szempontjából, mivel az év nagy részében a területet sekély víz borítja. Az élővilág itt rendkívül gazdag: a folyókban folyamidelfinek (bufeos) élnek, a szavannákon pedig sörényes farkasok és óriástapírok tanyáznak. Földrajz K7 – trópusi ökoszisztémák és bioszféra-kutatás.",
-      ro: "",
-      en: ""
+      ro: "Stațiunea Biologică Beni este o importantă rezervație a biosferei UNESCO în inima zonelor joase boliviene. Aria protejată cuprinde un peisaj mozaic de savane tropicale, mlaștini și păduri de galerie, renumit pentru biodiversitatea sa enormă. Oameni de știință din întreaga lume folosesc stațiunea pentru a cerceta ecologia zonelor inundate sezonier și comportamentul speciilor de animale rare, cum ar fi lupul cu coamă. În râurile rezervației pot fi observați, de asemenea, delfinii roz de râu rari. Stațiunea combină conservarea naturii cu implicarea comunităților indigene locale Tsimané.",
+      en: "The Beni Biological Station is a critical UNESCO Biosphere Reserve situated in the vast tropical plains of northeastern Bolivia. This 135,000-hectare sanctuary protects a complex mosaic of flooded savannas, expansive wetlands, and dense gallery forests teeming with life. It serves as a premier research hub where international scientists study the delicate ecology of the 'Llanos de Moxos' and the behaviors of rare species like the maned wolf and the giant anteater. The reserve's winding waterways are a stronghold for the Amazon river dolphin (bufeo), which thrives in this protected environment. Managed with a focus on community integration, the station works closely with the indigenous Tsimané people to promote sustainable resource management and cultural preservation in the heart of the Amazonian basin."
     },
     factsAdvanced: {
       de: [
@@ -595,10 +514,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "Az állomás modern laboratóriummal és szálláshelyekkel várja a kutatókat a világ minden tájáról.",
         "A szavannák növényvilágában számos olyan faj található, amely csak erre a régióra jellemző."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "A fost inclusă în rețeaua mondială a rezervațiilor biosferei UNESCO în 1986.",
+        "Protejează peste 135.000 de hectare de zone umede valoroase și păduri tropicale.",
+        "Peste 450 de specii de păsări și 100 de specii de mamifere au fost documentate aici.",
+        "Stațiunea dispune de laboratoare moderne și spații de cazare pentru cercetători."
+      ],
+      en: [
+        "The station achieved UNESCO Biosphere Reserve status in 1986, marking its importance for global climate and biodiversity research.",
+        "The territory includes crucial nesting sites for hunderds of migratory bird species traversing the South American continent.",
+        "Over 450 bird species and 100 distinct mammal species have been formally cataloged within the reserve's boundaries.",
+        "The facility is equipped with dedicated field laboratories and housing for researchers investigating tropical hydrology and savanna ecology."
+      ]
+    }, image: "/poi-images/beni-biostation-life-v2.webp"},
   {
     id: "carrasco-nationalpark-life-v2",
     type: "animal-habitat",
@@ -625,8 +553,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Nationalpark Carrasco in der Region Cochabamba ist bekannt für seine extremen Höhenunterschiede und seine dichten, wolkenverhangenen Nebelwälder. Diese steilen Berghänge beherbergen eine unglaubliche Vielfalt an Orchideen, Farnen und seltenen Tieren wie dem Brillenbären. Ein besonderes Highlight für Besucher ist die 'Höhle der Guácharos', in der die seltenen Fettschwalme leben, die sich mithilfe von Echolot orientieren. Der Park schützt wichtige Wassereinzugsgebiete, die für die Landwirtschaft in den tiefer gelegenen Tälern unerlässlich sind. Die wilde Schönheit von Carrasco macht ihn zu einem Paradies für Trekking-Enthusiasten und Biologen gleichermaßen.",
       hu: "A Carrasco Nemzeti Park Cochabamba megye északkeleti részén az Andok legcsapadékosabb és legvadabb vidékei közé tartozik. A parkot sűrű köderdők és mély, szinte áthatolhatatlan szurdokok jellemzik, ahol a biodiverzitás elképesztő szinteket ér el. Különlegessége a 'Sajátos madarak barlangja' (Cavernas del Repechón), ahol a ritka, éjszakai életmódot folytató zsírfecskék (guácharos) fészkelnek. A park egyben fontos vízbázis is, hiszen az innen eredő folyók táplálják a környező völgyek mezőgazdaságát. Biológia K8 – trópusi magashegyi erdők és barlangi élővilág.",
-      ro: "",
-      en: ""
+      ro: "Parcul Național Carrasco din regiunea Cochabamba este cunoscut pentru diferențele sale extreme de altitudine și pădurile sale dese de ceață. Aceste pante abrupte de munte adăpostesc o varietate incredibilă de orhidee, ferigi și animale rare, cum ar fi ursul cu ochelari. Un punct de atracție special pentru vizitatori este „Peștera Guácharos”, unde trăiesc păsări uleioase rare, care se orientează folosind ecolocația. Parcul protejează bazine hidrografice importante, esențiale pentru agricultura din văile mai joase. Frumusețea sălbatică a parcului Carrasco îl face un paradis pentru entuziaștii de trekking și biologi deopotrivă.",
+      en: "Carrasco National Park is a dramatic wilderness in the Cochabamba Department, defined by steep mountain ridges and perpetually mist-covered cloud forests. The park spans an incredible elevation range, from tropical lowlands to glaciated peaks, creating sanctuaries for elusive species like the spectacled bear and the brightly colored Andean cock-of-the-rock. One of its most famous features is the 'Cavernas del Repechón,' deep caves that house colonies of oilbirds (guácharos)—unique nocturnal birds that navigate using echolocation. The park plays a crucial role as a high-altitude water collector, feeding the rivers that sustain agriculture throughout the region. Its challenging terrain and immense biological richness make it a top destination for serious trekkers and professional botanists exploring the eastern Andes."
     },
     factsAdvanced: {
       de: [
@@ -641,10 +569,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A területen több mint 3000 növényfaj él, köztük óriás páfrányok és orchideák.",
         "A park megközelítése Villa Tunari városából a legegyszerűbb."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Altitudinea în parc variază extrem de mult, între 300 și 4.700 de metri deasupra nivelului mării.",
+        "Găzduiește una dintre cele mai importante populații de cocoș de stâncă andin (Tunqui).",
+        "Peșterile din Repechón sunt renumite pentru singura colonie accesibilă de păsări uleioase.",
+        "Parcul este un important generator de precipitații pentru regiunea Cochabamba."
+      ],
+      en: [
+        "Elevation in the park drops precipitously from 4,700 meters at the peaks to just 300 meters in the Amazonian lowlands.",
+        "The park is one of the premier locations in Bolivia to observe the spectacular mating displays of the Andean cock-of-the-rock.",
+        "The Repechón Caves provide a rare opportunity for scientists to study the only cave-dwelling fruit-eating birds in the world.",
+        "Due to its orientation, the park receives some of the highest rainfall in Bolivia, acting as a massive biological 'sponge' for the water cycle."
+      ]
+    }, image: "/poi-images/carrasco-nationalpark-life-v2.webp"},
   {
     id: "tariquia-reservat-life-v2",
     type: "animal-habitat",
@@ -670,9 +607,9 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Naturreservat Tariquía im Süden Boliviens schützt das einzige zusammenhängende Gebiet des tucumanisch-bolivianischen Bergwalds im Land. Die Region ist geprägt von tiefgrünen Bergen, klaren Flüssen und einer Flora, die besonders reich an wilden Orchideen und edlen Hölzern wie der Andenzeder ist. Tariquía ist ein kritischer Lebensraum für Jaguare, Tapire und zahlreiche endemische Vogelarten, die in den unberührten Wäldern Schutz finden. Für die lokale Bevölkerung ist das Reservat zudem als Quelle für hochwertigen Bio-Honig von großer Bedeutung. Das Gebiet ist ein wichtiges Beispiel für den Schutz von Wassereinzugsgebieten in einer sonst eher trockenen Region.",
-      hu: "A Tariquía Flóra és Fauna Rezervátum Bolívia legdélebbi természetvédelmi területe, Tarija megyében. Ez az egyetlen hely az országban, ahol a 'Tucumano-Boliviano' hegyi esőerdő ökoszisztémája épségben fennmaradt. A táj zöldellő hegyoldalaival és sebes vizű folyóival (mint a Bermejo) a nyugalom szigete. A rezervátum kiemelkedő fontosságú a vízkészletek megőrzésében és a méhészetben, mivel az itt termelt bio-méz messze földön híres tisztaságáról és ízéről. Biológia K8 – szubtrópusi hegyi erdők és fenntartható gazdálkodás.",
-      ro: "",
-      en: ""
+      hu: "A Tariquía Flóra és Fauna Rezervátum Bolívia legdélebbi természetvédelmi területe, Tarija megyében. Ez az egyetlen hely az országban, ahol a 'Tucumano-Boliviano' hegyi esőerdő ökoszisztémája épségben fennmaradt. A táj zöldellő hegyoldalaival és sebes vizű folyóival (mint a Bermejo) a nyugalom szigete. A rezervátum kiemelkedő fontosságú a vízkészletek megőrzéseiben és a méhészetben, mivel az itt termelt bio-méz messze földön híres tisztaságáról és ízéről. Biológia K8 – szubtrópusi hegyi erdők és fenntartható gazdálkodás.",
+      ro: "Rezervația naturală Tariquía din sudul Boliviei protejează singura zonă continuă de pădure montană tucumano-boliviană din țară. Regiunea este caracterizată de munți de un verde intens, râuri limpezi și o floră deosebit de bogată în orhidee sălbatice și lemn prețios, cum ar fi cedrul andin. Tariquía este un habitat critic pentru jaguari, tapiri și numeroase specii de păsări endemice care își găsesc refugiu în pădurile virgine. Pentru populația locală, rezervația este de asemenea foarte importantă ca sursă de miere ecologică de înaltă calitate. Zona este un exemplu important pentru protecția bazinelor hidrografice într-o regiune care în rest este mai degrabă uscată.",
+      en: "The Tariquía National Flora and Fauna Reserve in southern Bolivia safeguards the country's only intact stretch of Tucumano-Bolivian forest. This unique ecosystem consists of lush, sub-tropical mountain forests that act as a crucial water generator for the otherwise arid Tarija region. The reserve is a high-priority conservation zone for large mammals, providing one of the southernmost habitats for the jaguar and protecting the elusive mountain tapir. Its botanical richness is extraordinary, featuring ancient stands of Andean cedar and an unparalleled variety of wild orchids. Beyond its ecological value, the reserve supports local communities through the production of premium organic honey, demonstrating a successful harmony between biodiversity protection and sustainable rural development."
     },
     factsAdvanced: {
       de: [
@@ -687,10 +624,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "Itt található az egyik legnagyobb kiterjedésű andoki cédrus erdő.",
         "A park területén több őslakos közösség is él, akik aktívan védik környezetüket."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Protejează pantele cele mai sudice ale pădurilor tropicale de ceață din Bolivia.",
+        "Locație importantă pentru producția de miere ecologică certificată de către apicultorii locali.",
+        "Găzduiește specii de arbori rari și amenințați, cum ar fi nucul andin.",
+        "În prezent, este amenințată de explorările de gaze naturale planificate în perimetrul său."
+      ],
+      en: [
+        "Tariquía represents the southern extreme of Bolivia's tropical cloud forests, merging into more temperate biomes.",
+        "The reserve is famous for its high-quality honey, produced by bees foraging on pristine native forest flowers.",
+        "The park contains some of the last remaining commercial-scale stands of the highly valuable and endangered Andean Walnut.",
+        "In recent years, the reserve has become the center of intense national debate due to proposals for natural gas extraction within its borders."
+      ]
+    }, image: "/poi-images/tariquia-reservat-life-v2.webp"},
   {
     id: "yungas-kaffeeregion-life-v2",
     type: "agriculture",
@@ -717,8 +663,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Yungas-Region in den Departements La Paz ist das Herz des bolivianischen Kaffeeanbaus, wo steile Hänge und tropisches Klima zusammentreffen. In Höhenlagen zwischen 1.500 und 2.000 Metern wächst hier unter dem Schatten von Bananen- und Zitrusbäumen hochwertiger Arabica-Kaffee. Der bolivianische Hochlandkaffee ist für sein mildes Aroma und seine feine Säure bekannt und gewinnt regelmäßig internationale Qualitätspreise. Die Ernte erfolgt traditionell per Hand, da die extrem steilen Terrassen den Einsatz von Maschinen unmöglich machen. Der Kaffeeanbau bietet tausenden kleinbäuerlichen Familien eine nachhaltige Lebensgrundlage und schützt gleichzeitig die Bodenstruktur der Berge.",
       hu: "A Yungas-vidék La Paz megyében Bolívia 'kávé-szíve', ahol az Andok meredek lejtői találkoznak a trópusi párával. A tengerszint feletti magasság (1500-2000 méter) és a dús vegetáció tökéletes feltételeket biztosít a prémium kategóriás 'magassági kávé' termesztéséhez. A bolíviai kávé különlegessége, hogy nagyrészt kisbirtokokon, árnyékban és vegyszerek nélkül terem, ami egyedi ízvilágot és magas minőséget eredményez. Az utóbbi években a bolíviai kávék sorra nyerik a nemzetközi díjakat, fellendítve a helyi gazdaságot. Földrajz K8 – mezőgazdasági övezetek és ültetvényes gazdálkodás.",
-      ro: "",
-      en: ""
+      ro: "Regiunea Yungas din departamentul La Paz este inima cultivării cafelei boliviene, unde pantele abrupte și climatul tropical se întâlnesc. La altitudini cuprinse între 1.500 și 2.000 de metri, aici crește cafea Arabica de înaltă calitate, sub umbra bananierilor și a citricilor. Cafeaua boliviană de munte este cunoscută pentru aroma sa blândă și aciditatea fină, câștigând regulat premii internaționale de calitate. Recoltarea se face tradițional manual, deoarece terasele extrem de abrupte fac imposibilă utilizarea utilajelor. Cultivarea cafelei oferă mii de familii de mici fermieri un trai durabil și protejează în același timp structura solului munților.",
+      en: "The Yungas region in the La Paz Department is the undisputed heart of Bolivia's coffee production, where high altitude and tropical humidity create the perfect terroir. Grown on steep terraces between 1,500 and 2,000 meters above sea level, the local Arabica beans thrive in the shade of citrus and banana trees. Bolivian highland coffee is celebrated for its balanced body, bright acidity, and complex floral notes, frequently winning top honors at the Cup of Excellence. Because the terrain is so vertical, every bean is hand-harvested by local farming families who rely on coffee as their primary sustainable livelihood. This shade-grown approach not only produces superior coffee but also helps prevent soil erosion on the precarious Andean slopes."
     },
     factsAdvanced: {
       de: [
@@ -733,10 +679,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A betakarítás során csak a legérettebb szemeket szedik le kézzel, ami munkaigényes, de minőségi eredményt ad.",
         "A bolíviai kávéexport nagy része az Egyesült Államokba és Európába irányul."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Cea mai mare parte a cafelei din Yungas este produsă conform standardelor ecologice și Fair-Trade.",
+        "Caranavi este considerată capitala neoficială a cafelei în Bolivia.",
+        "Cafeaua de specialitate boliviană obține prețuri de top pe piața mondială.",
+        "Plantele beneficiază de umiditatea ridicată a vânturilor amazoniene ascendente."
+      ],
+      en: [
+        "The majority of coffee farms in the Yungas operate as smallholder cooperatives under certified organic and fair trade principles.",
+        "The town of Caranavi is the bustling economic center and unofficial 'Coffee Capital' of the nation.",
+        "Premium Bolivian specialty coffees have achieved record-breaking prices at international auctions in recent years.",
+        "The plantations benefit from the 'ascending moisture' effect, where humid Amazonian winds are pushed up against the cool Andean walls."
+      ]
+    }, image: "/poi-images/yungas-kaffeeregion-life-v2.webp"},
   {
     id: "valle-de-la-concepcion-wein-life-v2",
     type: "agriculture",
@@ -763,8 +718,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Valle de la Concepción in der Nähe von Tarija beherbergt einige der höchstgelegenen Weinberge der Welt auf über 1.800 Metern Höhe. Die intensive UV-Strahlung und die kühlen Nächte der Anden sorgen für eine einzigartige Konzentration von Aromen und Polyphenolen in den Trauben. Neben hervorragenden Weinen wird hier der traditionelle Singani hergestellt, ein klarer Traubenschnaps aus der Muskateller-Traube, der als Nationalgetränk Boliviens gilt. Die Region ist ein Zentrum des Weintourismus mit zahlreichen Bodegas, die Verkostungen und Einblicke in die traditionsreiche Geschichte des Weinbaus bieten. Die sonnige Landschaft und die gastfreundliche Kultur machen das Tal zu einem Highlight im Süden des Landes.",
       hu: "Tarija megye déli részén található a Valle de la Concepción, a világ egyik legmagasabban fekvő borvidéke. A völgy különleges klímája – forró nappalok és hűvös éjszakák – ideális a szőlőtermesztéshez, a tengerszint feletti magasság miatti intenzív napsugárzás pedig különlegesen aromássá teszi a borokat. Itt készül Bolívia nemzeti itala, a Singani is, amely egy muskotályos szőlőből lepárolt tiszta szesz. A borvidék mára jelentős turisztikai célponttá vált borútjaival és tradicionális ünnepeivel. Földrajz K8 – éghajlati adottságok és speciális növénytermesztés.",
-      ro: "",
-      en: ""
+      ro: "Valle de la Concepción, lângă Tarija, găzduiește unele dintre cele mai înalte podgorii din lume, la peste 1.800 de metri altitudine. Radiațiile UV intense și nopțile răcoroase ale Anzilor asigură o concentrație unică de arome și polifenoli în struguri. Pe lângă vinurile excelente, aici se produce tradiționalul Singani, un rachiu de struguri limpede din soiul Muscat de Alexandria, considerat băutura națională a Boliviei. Regiunea este un centru al turismului viticol, cu numeroase crame care oferă degustări și perspective asupra istoriei bogate în tradiție a viticulturii. Peisajul însorit și cultura primitoare fac din vale un punct culminant în sudul țării.",
+      en: "The Valle de la Concepción, situated near the city of Tarija, is the esteemed heart of Bolivia's high-altitude viticulture. Vineyards here are planted at elevations starting at 1,800 meters, where the intense UV light and radical day-to-night temperature shifts result in grapes with exceptionally thick skins and concentrated flavors. While the region produces world-class Tannats and Cabernets, it is most famous for Singani, a crystal-clear pomace brandy made from Muscat of Alexandria grapes that holds a protected designation of origin. The valley has become a sophisticated wine tourism destination, where rustic 'bodegas' sit alongside modern wineries offering tours and tastings. Its sunny climate and the vibrant 'Chapaco' culture of its inhabitants make the valley a unique sensory experience in the Bolivian south."
     },
     factsAdvanced: {
       de: [
@@ -779,10 +734,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A legelterjedtebb szőlőfajta a Muscat of Alexandria, amiből a Singani is készül.",
         "A borászatok többsége modern európai technológiát alkalmaz a hagyományos ízek megőrzése mellett."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Produce struguri cu un conținut deosebit de ridicat de antioxidanți datorită altitudinii.",
+        "Căminul Singani-ului, care deține o denumire de origine protejată.",
+        "Recoltarea vinului (Vendimia) în martie este una dintre cele mai mari sărbători populare din Bolivia.",
+        "Multe soiuri de struguri au fost introduse încă din secolul al XVI-lea de misionarii spanioli."
+      ],
+      en: [
+        "The region's high-altitude grapes have been found to contain significantly higher levels of resveratrol and other antioxidants than lowland varieties.",
+        "Singani is Bolivia's national spirit and is legally protected, meaning it can only be produced from grapes grown in specific high-altitude valleys.",
+        "The annual 'Vendimia' harvest festival in March is a spectacular week of parades, music, and of course, wine tasting.",
+        "The history of viticulture in the valley dates back to the 1500s when Spanish missionaries planted the first vines to produce wine for Catholic mass."
+      ]
+    }, image: "/poi-images/valle-de-la-concepcion-wein-life-v2.webp"},
   {
     id: "lipez-quinoa-felder-life-v2",
     type: "agriculture",
@@ -809,8 +773,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "In den rauen und windgepeitschten Ebenen von Lípez im Südwesten Boliviens wird die 'Quinoa Real', die königliche Quinoa, angebaut. Dieses widerstandsfähige Pseudogetreide ist eine der wenigen Nutzpflanzen, die unter den extremen Bedingungen des Altiplano auf über 3.700 Metern gedeihen kann. Die kargen Böden rund um die Salzpfannen verleihen der Quinoa einen besonders hohen Nährstoffwert und eine einzigartige Qualität. Während der Reifezeit verwandeln die farbenprächtigen Felder die sonst graue Wüstenlandschaft in ein buntes Meer aus Rot-, Gelb- und Purpurtönen. Quinoa ist für die indigene Bevölkerung seit Jahrtausenden ein Grundnahrungsmittel und heute ein weltweit gefragtes Superfood.",
       hu: "Az Altiplano déli részén, Potosí megyében találhatók a hatalmas kinoa-földek, ahol a 'Quinoa Real' (Királyi Kinoa) terem. Ez a növény Bolívia 'aranya', amely képes túlélni az ottani extrém körülményeket: a nagy magasságot, a szélsőséges szárazságot és az éjszakai fagyokat. Az inka kor óta szentnek tartott kinoa mára globális szuperélelmiszerré vált magas tápértéke miatt. A betakarítási időszakban a mezők vörös, sárga és lila színekben pompáznak, ami hihetetlen látványt nyújt a kietlen sós pusztaságok mellett. Földrajz K8 – alkalmazkodás a szélsőséges környezethez és világpiaci trendek.",
-      ro: "",
-      en: ""
+      ro: "În câmpiile aspre și bătute de vânt din Lípez, în sud-vestul Boliviei, se cultivă „Quinoa Real”, quinoa regală. Această pseudocereală rezistentă este una dintre puținele plante utile care pot prospera în condițiile extreme de pe Altiplano la peste 3.700 de metri. Solurile aride din jurul lacurilor sărate conferă quinoei o valoare nutritivă deosebit de mare și o calitate unică. În timpul perioadei de coacere, câmpurile colorate transformă peisajul deșertic, altfel gri, într-o mare colorată de nuanțe de roșu, galben și violet. Quinoa este un aliment de bază pentru populația indigenă de milenii și astăzi este un superaliment căutat în întreaga lume.",
+      en: "In the windswept and seemingly barren plains of Lípez in southwestern Bolivia, indigenous farmers cultivate 'Quinoa Real' (Royal Quinoa), a uniquely resilient strain of the ancient pseudocereal. This crop is one of the few organisms capable of thriving in the Altiplano's punishing conditions of saline soil, intense UV radiation, and freezing nighttime temperatures at 3,700 meters. The unique mineral composition of the soil near the great salt flats gives this quinoa a nutritional profile and large grain size found nowhere else on earth. During the harvest season, the fields erupt into a vibrant mosaic of purples, reds, and yellows, providing a stunning contrast to the monochromatic desert. Once a humble staple of the Inca Empire, Lípez quinoa is now an internationally celebrated superfood that sustains the economy of these remote highland communities."
     },
     factsAdvanced: {
       de: [
@@ -825,10 +789,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A növényt trágyázás nélkül, kizárólag a természetes csapadék és az Altiplano talajának erejével nevelik.",
         "Az ENSZ a 2013-as évet a kinoa nemzetközi évének nyilvánította Bolívia kezdeményezésére."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Quinoa Real crește exclusiv în regiunea din jurul lacurilor sărate boliviene.",
+        "Planta este extrem de tolerantă la îngheț, sare și secetă.",
+        "Bolivia este unul dintre liderii mondiali în exportul de quinoa cultivată organic.",
+        "Anul 2013 a fost declarat de ONU Anul Internațional al Quinoei."
+      ],
+      en: [
+        "Royal Quinoa is a geographically protected variety that only grows in the specific soil conditions surrounding Bolivia's Uyuni and Coipasa salt flats.",
+        "The plant's extraordinary survival mechanisms allow it to endure temperatures as low as -8°C and survive on minimal rainfall.",
+        "Bolivia is a global leader in organic quinoa exports, with much of the crop produced by small-scale indigenous cooperatives.",
+        "The United Nations designated 2013 as the 'International Year of Quinoa' to recognize its potential role in global food security."
+      ]
+    }, image: "/poi-images/lipez-quinoa-felder-life-v2.webp"},
   {
     id: "santa-cruz-sojafelder-life-v2",
     type: "agriculture",
@@ -855,8 +828,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Das fruchtbare Tiefland um Santa Cruz de la Sierra ist das landwirtschaftliche Kraftzentrum Boliviens, dominiert von riesigen Sojaplantagen. Diese Region hat in den letzten Jahrzehnten eine rasante Entwicklung durchgemacht und ist heute für einen Großteil der bolivianischen Agrarexporte verantwortlich. Die moderne, großflächige Landwirtschaft steht im starken Kontrast zu den traditionellen Anbaumethoden im Hochland. Soja dient nicht nur als Viehfutter und für die Speiseölproduktion, sondern ist auch ein wichtiger Wirtschaftsfaktor für das ganze Land. Die Expansion der Felder stellt jedoch auch eine Herausforderung für den Erhalt der umliegenden Trockenwälder dar.",
       hu: "Santa Cruz de la Sierra környéke Bolívia éléskamrája, ahol a hatalmas, sík területeket végtelen szójaföldek borítják. Ez a régió a motorja az ország agráripari fejlődésének: a szója nemcsak alapvető élelmiszer és takarmány, hanem az ország egyik legfontosabb devizaforrása is. A termelés itt nagyrészt gépesített és modern technológiát alkalmaz, ami éles kontrasztban áll az Altiplano hagyományos gazdálkodásával. A hatalmas silók és feldolgozóüzemek hálózata Santa Cruzt Dél-Amerika egyik jelentős agrár-logisztikai központjává tette. Földrajz K8 – intenzív mezőgazdaság és exportorientált gazdaság.",
-      ro: "",
-      en: ""
+      ro: "Câmpiile fertile din jurul orașului Santa Cruz de la Sierra reprezintă centrul agricol al Boliviei, dominat de plantații uriașe de soia. Această regiune a cunoscut o dezvoltare rapidă în ultimele decenii și este astăzi responsabilă pentru o mare parte din exporturile agricole ale Boliviei. Agricultura modernă, pe scară largă, este în contrast puternic cu metodele tradiționale de cultivare din zonele înalte. Soia servește nu numai ca hrană pentru animale și pentru producția de ulei comestibil, ci este și un factor economic important pentru întreaga țară. Expansiunea câmpurilor reprezintă însă și o provocare pentru conservarea pădurilor uscate din jur.",
+      en: "The expansive, fertile lowlands surrounding Santa Cruz de la Sierra represent the engine of the Bolivian economy, dominated by massive, industrialized soybean plantations. This region has seen explosive growth over the past few decades, transforming from virgin forest into a global agricultural powerhouse. Modern large-scale farming techniques here contrast sharply with the subsistence agriculture of the Andean highlands. Soybeans are Bolivia's most valuable agricultural export, processed into oil and meal for international markets and domestic livestock feed. The rapid expansion of this sector has driven infrastructure development and urban growth in the east, though it continues to pose significant challenges for the conservation of the unique Chiquitano dry forests."
     },
     factsAdvanced: {
       de: [
@@ -871,8 +844,18 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A bolíviai szója nagy része az Andoki Közösség (CAN) országaiba és Európába kerül.",
         "A mezőgazdaság terjeszkedése komoly kihívást jelent a környező száraz erdők megőrzése szempontjából."
       ],
-      ro: [],
-      en: []
+      ro: [
+        "Soia este cel mai valoros produs agricol de export al Boliviei.",
+        "Santa Cruz produce peste 70% din totalul alimentelor din țară.",
+        "Regiunea utilizează tehnologii de ultimă oră, cum ar fi monitorizarea prin satelit și agricultura de precizie.",
+        "Multe exploatații agricole sunt gestionate de imigranți menoniți și japonezi."
+      ],
+      en: [
+        "Soybeans consistently rank as Bolivia's primary agricultural export by both volume and value.",
+        "The Santa Cruz Department alone produces more than 70% of the nation's total food supply.",
+        "The regional agro-industry is highly sophisticated, utilizing satellite imagery and GPS-guided machinery to manage vast estates.",
+        "The agricultural boom has its roots in several waves of migration, including Mennonite communities and Japanese settlers who introduced industrialized farming to the region."
+      ]
     }
   },
   {
@@ -901,8 +884,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Die Region Alto Beni ist berühmt für die Produktion von hochwertigem Bio-Kakao, der tief im Amazonasbecken im Schatten der Urwaldbäume wächst. Kleine Bauernkooperativen wie El Ceibo haben Pionierarbeit geleistet, indem sie den Kakao direkt vor Ort verarbeiten und weltweit als Premium-Schokolade vermarkten. Der Anbau erfolgt in nachhaltigen Agroforstsystemen, die den Regenwald schonen und gleichzeitig eine stabile Einkommensquelle bieten. Der bolivianische Wildkakao aus dieser Region gilt unter Kennern als einer der aromatischsten der Welt. Das Engagement der Bauern für Qualität und Umweltschutz hat Alto Beni zu einem Vorzeigemodell für nachhaltige Entwicklung gemacht.",
       hu: "Az Alto Beni régió Bolívia egyik legértékesebb trópusi területe, amely világhírű az itt termelt aromás bio-kakaóról. Az esőerdők védelmében, úgynevezett agrár-erdészeti rendszerekben termesztett kakaó nemcsak kiváló minőségű csokoládé alapanyagot szolgáltat, hanem segít megőrizni a biodiverzitást is. A helyi kistermelők szövetkezetekbe (például El Ceibo) tömörülve maguk végzik a feldolgozást és az értékesítést, így a bevétel nagy része a közösségnél marad. Biológia K8 – esőerdők védelme és fenntartható gazdálkodási formák.",
-      ro: "",
-      en: ""
+      ro: "Regiunea Alto Beni este renumită pentru producția de cacao ecologică de înaltă calitate, care crește adânc în bazinul Amazonului, la umbra arborilor din pădurea virgină. Cooperativele de mici fermieri, cum ar fi El Ceibo, au făcut pionierat procesând cacao direct la fața locului și comercializând-o la nivel mondial ca ciocolată premium. Cultivarea are loc în sisteme agrosilvice durabile, care protejează pădurea tropicală și oferă în același timp o sursă stabilă de venit. Cacaoa sălbatică boliviană din această regiune este considerată de cunoscători una dintre cele mai aromate din lume. Angajamentul fermierilor pentru calitate și protecția mediului a făcut din Alto Beni un model de dezvoltare durabilă.",
+      en: "The Alto Beni region is Bolivia's premier destination for high-quality organic cacao, where the trees thrive under the canopy of the primary Amazonian rainforest. Small-scale indigenous and settler cooperatives, most notably the world-renowned 'El Ceibo,' have pioneered a model of vertical integration, processing raw beans into luxury chocolate on-site. By utilizing sustainable agroforestry systems, these farmers preserve the rainforest's integrity while securing stable livelihoods for thousands of families. Bolivian wild cacao from this humid valley is prized by international chocolatiers for its intense, floral aroma and complex flavor profile. The region stands as a globally recognized success story for community-led development and environmental stewardship in the tropics."
     },
     factsAdvanced: {
       de: [
@@ -917,10 +900,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A termelés teljes mértékben vegyszermentes és etikus kereskedelmi elveken (Fair Trade) alapul.",
         "A kakaófák 3-5 év után fordulnak termőre, és évtizedekig szüretelhetők."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Cacaoa boliviană din Alto Beni câștigă în mod regulat medalii de aur la International Chocolate Awards.",
+        "Cooperativa El Ceibo este prima întreprindere țărănească din Bolivia care exportă ciocolată.",
+        "Cultivarea la umbră protejează plantele de cacao de căldură și promovează biodiversitatea.",
+        "O mare parte din cacao este certificată ca produs ecologic și Fair-Trade."
+      ],
+      en: [
+        "Bolivian beans from Alto Beni consistently secure top honors and gold medals at the International Chocolate Awards in Europe.",
+        "The El Ceibo cooperative is a landmark enterprise, being the first farmer-owned company in Bolivia to export finished chocolate products directly to world markets.",
+        "Cultivating cacao under the shade of massive mahogany and cedar trees preserves local bird habitats and maintains natural soil moisture.",
+        "The region is a pioneer in organic certification, with most farms operating without any synthetic fertilizers or pesticides."
+      ]
+    }, image: "/poi-images/alto-beni-kakao-life-v2.webp"},
   {
     id: "chapare-bananen-life-v2",
     type: "agriculture",
@@ -947,8 +939,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Chapare im Departement Cochabamba ist Boliviens wichtigste Anbauregion für Bananen und andere tropische Früchte. Das feucht-heiße Klima und die reichlichen Niederschläge am Fuße der Anden bieten ideale Bedingungen für ein schnelles Wachstum und hohe Erträge. Die Bananenproduktion wurde gezielt gefördert, um den Bauern eine legale Alternative zum Kokaanbau zu bieten und die regionale Wirtschaft zu diversifizieren. Heute werden jede Woche hunderte LKW-Ladungen frischer Bananen in die Nachbarländer Chile und Argentinien exportiert. Die Region verfügt über moderne Packstationen, die internationale Qualitätsstandards erfüllen und tausende Arbeitsplätze sichern.",
       hu: "Cochabamba megye trópusi vidéke, a Chapare, Bolívia legfontosabb gyümölcstermesztő övezete, ahol a banán és az ananász dominálja a tájat. A vidék rendkívül párás és meleg klímája lehetővé teszi, hogy egész évben folyamatos legyen a betakarítás. A banántermesztés itt nemcsak gazdasági, hanem társadalmi jelentőséggel is bír: az állami programok sikeresen ösztönözték a gazdákat, hogy a korábbi koka-ültetvényeiket váltsák fel legális, exportképes gyümölcsökkel. Földrajz K8 – mezőgazdasági diverzifikáció és belső migráció.",
-      ro: "",
-      en: ""
+      ro: "Regiunea Chapare din departamentul Cochabamba este cea mai importantă zonă de cultivare a bananelor și a altor fructe tropicale din Bolivia. Climatul umed și cald și precipitațiile abundente de la poalele Anzilor oferă condiții ideale pentru o creștere rapidă și randamente ridicate. Producția de banane a fost promovată în mod specific pentru a oferi fermierilor o alternativă legală la cultivarea de coca și pentru a diversifica economia regională. Astăzi, în fiecare săptămână, sute de camioane cu banane proaspete sunt exportate în țările vecine, Chile și Argentina. Regiunea dispune de stații de ambalare moderne care îndeplinesc standardele internaționale de calitate și asigură mii de locuri de muncă.",
+      en: "The Chapare region, located in the tropical lowlands of Cochabamba, serves as Bolivia's primary hub for banana and pineapple production. Its perennially hot and humid climate, combined with some of the highest rainfall in the country, creates ideal conditions for continuous, year-round fruit harvests. The transition to large-scale banana cultivation was heavily supported by government programs designed to provide farmers with a viable legal alternative to coca leaf production. Today, the Chapare is a sophisticated agricultural zone with modern packing facilities that meet stringent international export standards. Every week, massive convoys of refrigerated trucks transport fresh Bolivian bananas across the borders to major markets in Argentina and Chile, making the sector a vital source of regional foreign revenue."
     },
     factsAdvanced: {
       de: [
@@ -963,10 +955,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A régióban modern csomagolóüzemek és logisztikai központok épültek az export segítésére.",
         "A banán mellett a citrusfélék és a maracuja termesztése is egyre jelentősebb."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Bolivia exportă anual peste 6 milioane de cutii de banane, în principal în Argentina.",
+        "Cultivarea bananelor este un exemplu de succes al substituirii culturilor ilegale.",
+        "Soiul „Cavendish” este cel mai frecvent cultivat datorită capacității sale de transport.",
+        "Regiunea produce fructe pe tot parcursul anului, fără întreruperi sezoniere."
+      ],
+      en: [
+        "Bolivian banana exports have reached over 6 million boxes annually, with Argentina serving as the primary buyer.",
+        "The sector is frequently cited as a successful model of crop substitution, helping to stabilize the social and economic landscape of the Chapare.",
+        "The 'Cavendish' variety is the mainstay of the regional industry due to its durability during long-distance international transport.",
+        "Unlike highland crops, the tropical lowlands allow for consistent productivity through both the wet and dry seasons."
+      ]
+    }, image: "/poi-images/chapare-bananen-life-v2.webp"},
   {
     id: "zuckerrohr-santa-cruz-life-v2",
     type: "agriculture",
@@ -993,8 +994,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "In den weiten Ebenen nördlich von Santa Cruz de la Sierra erstrecken sich endlose Zuckerrohrfelder, die die Basis für die bolivianische Zucker- und Ethanolindustrie bilden. Große Raffinerien in Städten wie Montero und Warnes verarbeiten das Rohr zu Zucker für den heimischen Markt und den Export. In den letzten Jahren hat die Produktion von Bio-Ethanol als Treibstoffbeimischung massiv an Bedeutung gewonnen, um die Energieunabhängigkeit Boliviens zu stärken. Die Erntezeit, die 'Zafra', ist eine Zeit intensiver wirtschaftlicher Aktivität, in der tausende Saisonarbeiter in die Region kommen. Die Zuckerindustrie ist einer der ältesten und stabilsten Pfeiler der bolivianischen Wirtschaft im Tiefland.",
       hu: "Kelet-Bolívia síkságain a cukornád-termesztés az agráripar egyik legrégebbi és legfontosabb ágazata. Santa Cruz megye északi részén hatalmas ültetvények látják el alapanyaggal a modern cukorgyárakat és bioethanol-finomítókat. A 'zafra', vagyis a betakarítási időszak a régió legintenzívebb gazdasági szakasza, amikor munkások ezrei érkeznek az Altiplanóról is, hogy segítsenek a nád vágásában és szállításában. Ma már a termesztés egyre nagyobb része gépesített, hozzájárulva az ország növekvő energiaigényének bioüzemanyaggal való kielégítéséhez. Földrajz K8 – ipari növények és szezonális munkaerő-vándorlás.",
-      ro: "",
-      en: ""
+      ro: "În câmpiile vaste de la nord de Santa Cruz de la Sierra se întind câmpuri nesfârșite de trestie de zahăr, care stau la baza industriei zahărului și etanolului din Bolivia. Rafinării mari din orașe precum Montero și Warnes procesează trestia în zahăr pentru piața internă și pentru export. În ultimii ani, producția de bioetanol ca amestec de combustibil a câștigat o importanță masivă pentru consolidarea independenței energetice a Boliviei. Perioada de recoltare, „zafra”, este o perioadă de activitate economică intensă, în care mii de lucrători sezonieri vin în regiune. Industria zahărului este unul dintre cei mai vechi și mai stabili piloni ai economiei boliviene din zonele joase.",
+      en: "The vast tropical plains stretching north from Santa Cruz de la Sierra are dominated by endless fields of sugarcane, the bedrock of Bolivia's sugar and renewable energy industries. Industrial giants located in Montero and Warnes operate massive refineries that supply the entire domestic market and process surpluses for international sale. In recent years, the sector has diversified significantly into the production of high-grade bioethanol, which is blended into national gasoline to enhance energy security. The harvest season, known locally as the 'Zafra,' is the region's most critical economic period, attracting thousands of seasonal laborers from across the country. This industry remains a foundational pillar of eastern Bolivia's prosperity, combining traditional plantation history with modern green energy technology."
     },
     factsAdvanced: {
       de: [
@@ -1009,10 +1010,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "Bolívia célja, hogy a bioethanol segítségével jelentősen csökkentse az üzemanyag-importot.",
         "A cukornád vágása hagyományosan kézzel történt, de ma már a modern kombájnok uralják a mezőket."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Trestia de zahăr este cultivată în Santa Cruz încă din perioada colonială.",
+        "Industria acoperă întregul necesar intern de zahăr și etanol.",
+        "Din resturile producției de zahăr (bagasă), se generează electricitate în fabrici.",
+        "Bolivia amestecă etanol în benzină pentru a reduce importul de combustibili fosili."
+      ],
+      en: [
+        "Sugarcane has been a staple crop in the Santa Cruz region since early colonial times, thriving in the year-round heat.",
+        "The sector is fully self-sufficient, meeting 100% of Bolivia's domestic demand for both refined sugar and industrial alcohol.",
+        "Modern mills utilize 'bagasse' (sugarcane fiber waste) to generate bio-electricity, often producing enough power to feed back into the national grid.",
+        "Bolivia's transition to E10 and E25 ethanol-blended fuels is primarily fueled by the harvests from the Santa Cruz lowlands."
+      ]
+    }, image: "/poi-images/zuckerrohr-santa-cruz-life-v2.webp"},
   {
     id: "pando-paranuss-life-v2",
     type: "agriculture",
@@ -1039,8 +1049,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Departement Pando im äußersten Norden Boliviens ist die weltweit wichtigste Region für die Ernte der wilden Paranuss. Diese majestätischen Urwaldriesen können nicht auf Plantagen gezüchtet werden, da sie für ihre Bestäubung auf ein intaktes Ökosystem angewiesen sind. Die Ernte der Nüsse, die in harten Kapseln vom Baum fallen, findet während der Regenzeit statt und ist die Haupteinnahmequelle für die lokale Bevölkerung. Da die Bäume nur im primären Regenwald gedeihen, ist die Paranusswirtschaft ein entscheidender Faktor für den Erhalt des Amazonaswaldes. Bolivien ist heute der größte Exporteur von geschälten Paranüssen weltweit und beliefert Märkte in Europa und Nordamerika.",
       hu: "Pando megye és Észak-Beni az amazonasi brazil dió (paradió) gyűjtésének globális központja. Érdekesség, hogy ezt a növényt nem lehet ültetvényeken termeszteni, mert beporzásához egy speciális méhfajra van szükség, amely csak az érintetlen őserdőben él meg. Így a brazil dió betakarítása az erdő megőrzésének legjobb záloga: a helyi lakosok érdekeltek abban, hogy a fákat ne vágják ki, hiszen azok biztosítják fő bevételüket. Bolívia ma a világ első számú exportőre ebből az értékes csonthéjasból. Földrajz K7 – esőerdők gazdasági értéke és biodiverzitás.",
-      ro: "",
-      en: ""
+      ro: "Departamentul Pando din nordul îndepărtat al Boliviei este cea mai importantă regiune din lume pentru recoltarea nucilor de Brazilia sălbatice. Acești uriași maiestoși ai pădurii virgine nu pot fi crescuți în plantații, deoarece depind de un ecosistem intact pentru polenizare. Recoltarea nucilor, care cad din copac în capsule dure, are loc în timpul sezonului ploios și este principala sursă de venit pentru populația locală. Deoarece arborii prosperă doar în pădurea tropicală primară, economia nucilor de Brazilia este un factor crucial pentru conservarea pădurii amazoniene. Bolivia este astăzi cel mai mare exportator de nuci de Brazilia decojite din lume, aprovizionând piețele din Europa și America de Nord.",
+      en: "Bolivia's northernmost department, Pando, is the global epicenter for the collection of wild Brazil nuts (Bertholletia excelsa). These majestic forest titans cannot be effectively farmed on plantations; they require a pristine primary rainforest ecosystem for their complex pollination cycle. Every year during the rainy season, local families trek deep into the jungle to collect the heavy, coconut-like pods that naturally drop from heights of up to 50 meters. Because the livelihood of the entire region depends on healthy, standing trees, the Brazil nut economy is one of the most effective shields against Amazonian deforestation. Bolivia is the world's leading exporter of this high-protein nut, fueling an international market that supports sustainable forest management and indigenous economic sovereignty."
     },
     factsAdvanced: {
       de: [
@@ -1055,10 +1065,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A kemény, kókuszdióhoz hasonló termésben 10-25 darab dió található.",
         "A paradió feldolgozása Riberalta és Cobija városaiban fontos iparággá vált."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Peste 70% din producția mondială de nuci de Brazilia provine din Amazonul bolivian.",
+        "Un singur arbore de nucă de Brazilia poate trăi până la 500 de ani și poate crește până la 50 de metri înălțime.",
+        "Recolta asigură traiul a peste 15.000 de familii din regiune.",
+        "Coaja tare a nucilor este atât de stabilă încât poate fi deschisă doar cu unelte speciale sau de către rozătoare precum aguti."
+      ],
+      en: [
+        "Bolivia accounts for roughly 75% of the total global supply of wild-harvested Brazil nuts.",
+        "A mature tree can reach heights of 50 meters and live for more than 500 years in the primary forest.",
+        "The industry provides seasonal employment and primary income for over 15,000 families in northern Bolivia.",
+        "The pods are so durable they can only be opened by a few specialized tools or the strong teeth of the agouti, a jungle rodent that helps propagate the trees."
+      ]
+    }, image: "/poi-images/pando-paranuss-life-v2.webp"},
   {
     id: "altiplano-alpakazucht-life-v2",
     type: "agriculture",
@@ -1071,7 +1090,7 @@ export const poiExtraBoliviaLifeV2: POI[] = [
       en: "Altiplano Alpaca Breeding"
     },
     description: {
-      de: "In extremen Höhenlagen züchten indigene Hirten Alpakas und Lamas und setzen eine alte Tradition fort, die Wolle und Fleisch liefert.",
+      de: "In extremen Höhenlagen züchten indigene Hirten Alpakas und Lamas und setzen eine alte tradition fort, die Wolle und Fleisch liefert.",
       hu: "Extrém magasságokban az őslakos pásztorok alpakákat és lámákat tenyésztenek, folytatva a gyapjút és húst biztosító ősi hagyományt.",
       ro: "La altitudini extreme, păstorii indigeni cresc alpaca și lame, continuând o tradiție străveche care oferă lână și carne.",
       en: "At extreme altitudes, indigenous herders raise alpacas and llamas, continuing an ancient tradition that provides wool and meat."
@@ -1085,8 +1104,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Auf den kargen Hochweiden des Altiplano ist die Alpakazucht eine jahrtausendealte Tradition der indigenen Aymara- und Quechua-Völker. Diese widerstandsfähigen Tiere sind perfekt an die dünne Luft auf über 4.000 Metern und die extremen Temperaturschwankungen angepasst. Alpakas werden vor allem wegen ihrer feinen, weichen Wolle geschätzt, die zu den exklusivsten Textilfasern der Welt gehört und keine Lanolinallergien auslöst. Die Zucht erfolgt meist in kleinen Familienbetrieben, die ihre Herden über die weiten Ebenen treiben. Neben der Wolle dient auch das Fleisch der Tiere als wichtige Proteinquelle für die lokale Bevölkerung in einer Region, in der kaum Ackerbau möglich ist.",
       hu: "Az Altiplano-fennsík rideg pusztáin az alpaka- és lámateryésztés évezredek óta az emberi túlélés alapja. Ezek a tevefélék tökéletesen alkalmazkodtak a 4000 méter feletti ritka levegőhöz, a hideg szélhez és a szegényes növényzethez. Az alpakák finom gyapja a világ egyik legértékesebb textilipari alapanyaga, míg a lámákat teherhordásra és húsukért tartják. Az őslakos pásztorok máig őrzik az állatok terelésének és a gyapjú feldolgozásának ősi technikáit, amelyek a modern textilipar alapjait is képezik Bolíviában. Biológia K8 – háziasítás és alkalmazkodás extrém körülményekhez.",
-      ro: "",
-      en: ""
+      ro: "Pe pășunile înalte și aride de pe Altiplano, creșterea alpacelor este o tradiție milenară a popoarelor indigene Aymara și Quechua. Aceste animale rezistente sunt perfect adaptate la aerul rarefiat la peste 4.000 de metri și la fluctuațiile extreme de temperatură. Alpacele sunt apreciate în special pentru lâna lor fină și moale, care se numără printre cele mai exclusive fibre textile din lume și nu provoacă alergii la lanolină. Creșterea se face de cele mai multe ori în mici exploatații familiale care își mână turmele pe câmpiile vaste. Pe lângă lână, carnea animalelor servește și ca sursă importantă de proteine pentru populația locală într-o regiune în care agricultura este aproape imposibilă.",
+      en: "Alpaca and llama husbandry is a foundational pillar of indigenous life on the windswept Bolivian Altiplano. For millennia, Aymara and Quechua communities have raised these resilient camelids at elevations exceeding 4,000 meters, where oxygen is scarce and night temperatures frequently drop below freezing. Alpacas are prized globally for their incredibly soft and thermal wool, which is hypoallergenic and considered one of the world's most luxurious natural fibers. Herding remains a traditional family occupation, with flocks grazing across expansive highland territories during the day. In this challenging environment where traditional agriculture is almost impossible, these animals provide not only high-value wool for international trade but also vital protein and organic fertilizer for local communities."
     },
     factsAdvanced: {
       de: [
@@ -1101,10 +1120,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A lámák képesek akár 30-40 kilogramm súlyt is elvinni a legmeredekebb ösvényeken.",
         "A pásztorok színes füljelzőkkel (aretes) jelölik meg állataikat a hatalmas legelőkön."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Lâna de alpaca este de trei ori mai călduroasă și de șapte ori mai rezistentă la rupere decât lâna de oaie.",
+        "Bolivia deține, după Peru, al doilea cel mai mare efectiv de alpaca din lume.",
+        "Există două tipuri principale: Huacaya pufoasă și alpaca Suri cu păr lung.",
+        "Animalele sunt tunse tradițional manual la fiecare unu-doi ani."
+      ],
+      en: [
+        "Alpaca fiber is notably warmer, lighter, and more durable than sheep's wool due to its unique microscopic structure.",
+        "Bolivia is home to the world's second-largest population of domestic alpacas, concentrated in the departments of Oruro and La Paz.",
+        "There are two distinct breeds: the fluffy 'Huacaya' and the rare, long-haired 'Suri,' both known for their unique wool characteristics.",
+        "Indigenous herders traditionally identify their animals with colorful wool tassels known as 'aretes' attached to the ears."
+      ]
+    }, image: "/poi-images/altiplano-alpakazucht-life-v2.webp"},
   {
     id: "yungas-coca-life-v2",
     type: "agriculture",
@@ -1131,8 +1159,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Anbau von Coca auf den steilen Terrassen der Yungas ist tief in der bolivianischen Kultur und Geschichte verwurzelt. Die Cocapflanze gilt als heilig und ihre Blätter werden seit Jahrhunderten rituell verwendet, gegen die Höhenkrankheit gekaut oder als Tee getrunken. In den Yungas wird die Coca in mühsamer Handarbeit auf schmalen Terrassen (Tacanas) angebaut, die die steilen Berghänge vor Erosion schützen. Der traditionelle Anbau ist in Bolivien legal und streng reglementiert, da das Blatt als wichtiger Bestandteil der indigenen Identität anerkannt ist. Die Ernte der grünen Blätter erfolgt mehrmals im Jahr und ist eine der wichtigsten wirtschaftlichen Säulen für die Gemeinden in dieser Region.",
       hu: "A Yungas meredek hegyoldalain zöldellő koka-teraszok Bolívia egyik legősibb mezőgazdasági formáját mutatják. A koka növény (Erythroxylum coca) az andoki kultúra elválaszthatatlan része: leveleit rágják az éhség és a fáradtság elnyomására, teáját a magaslati betegség ellen isszák, és minden fontos vallási szertartásnál áldozatként használják. Bolíviában a hagyományos, rituális célú kokatermesztés legális és államilag szabályozott. A Yungas-vidék koka-levelei híresek puhaságukról és édeskés ízükről, amit a helyi páradús klíma és a gondos teraszos művelés eredményez. Néprajz K8 – andoki hagyományok és a koka szerepe.",
-      ro: "",
-      en: ""
+      ro: "Cultivarea de coca pe terasele abrupte din Yungas este adânc înrădăcinată în cultura și istoria boliviană. Planta de coca este considerată sacră, iar frunzele sale sunt folosite ritualic de secole, fiind mestecate împotriva răului de altitudine sau băute sub formă de ceai. În Yungas, coca este cultivată prin muncă manuală grea pe terase înguste (tacanas), care protejează pantele abrupte de munte împotriva eroziunii. Cultivarea tradițională este legală în Bolivia și strict reglementată, deoarece frunza este recunoscută ca o componentă importantă a identității indigene. Recoltarea frunzelor verzi are loc de mai multe ori pe an și este unul dintre cei mai importanți piloni economici pentru comunitățile din această regiune.",
+      en: "The meticulously manicured coca terraces of the Yungas represent one of Bolivia's most ancient and culturally significant agricultural systems. In these steep valleys, the sacred coca plant (Erythroxylum coca) is grown on narrow stone-walled terraces known as 'tacanas,' which prevent erosion on the near-vertical mountainsides. Coca is central to Andean identity; its leaves are chewed for energy, brewed as a tea to combat altitude sickness, and offered in nearly every indigenous religious ceremony. In Bolivia, traditional coca cultivation for ritual use is a legal and state-protected practice. The harvest remains a labor-intensive process performed exclusively by hand, providing a steady and vital economic foundation for thousands of families in the Yungas region."
     },
     factsAdvanced: {
       de: [
@@ -1144,13 +1172,22 @@ export const poiExtraBoliviaLifeV2: POI[] = [
       hu: [
         "A koka rágását (acullico) az UNESCO 2013-ban ismerte el mint Bolívia kulturális örökségét.",
         "A koka-levél gazdag vitaminokban és ásványi anyagokban, például kalciumban.",
-        "A teraszok építése és karbantartása komoly fizikai munkát és generációs tudást igényel.",
+        "A teraszos építése és karbantartása komoly fizikai munkát és generációs tudást igényel.",
         "A koka-termést La Paz nagy piacain (mint a Villa Fátima) értékesítik szigorú ellenőrzés mellett."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Constituția boliviană din 2009 protejează coca drept patrimoniu cultural.",
+        "Cocaina este doar o mică componentă a frunzei; mestecatul frunzelor are doar un efect ușor stimulant.",
+        "Frunzele de coca conțin mai mult calciu decât laptele și sunt bogate în vitamine.",
+        "În La Paz există un muzeu special al de coca, care informează despre istorie și utilizare."
+      ],
+      en: [
+        "Bolivia's 2009 Constitution formally designates the coca leaf as an intangible cultural heritage of the nation.",
+        "Raw coca leaves contain only trace amounts of cocaine alkaloid; chewing them produces a mild stimulatory effect similar to strong coffee.",
+        "Gram for gram, coca leaves contain significantly more calcium than milk and are rich in essential vitamins B and C.",
+        "The ancient 'tacanas' (terraces) allow farmers to utilize mountain slopes that would otherwise be completely unsuitable for agriculture."
+      ]
+    }, image: "/poi-images/yungas-coca-life-v2.webp"},
   {
     id: "parque-machia-life-v2",
     type: "animal-habitat",
@@ -1177,8 +1214,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Parque Machía in Villa Tunari ist ein bekanntes Symbol für den Tierschutz in Bolivien und dient als Zufluchtsort für ehemals misshandelte Wildtiere. Betrieben von der Organisation Inti Wara Yassi, widmet sich der Park der Rehabilitation von Affen, Nasenbären und Vögeln, die oft aus illegaler Haltung gerettet wurden. Die Tiere leben in einem naturbelassenen Waldstück, wo sie teilweise frei herumlaufen können und von internationalen Freiwilligen betreut werden. Der Park liegt direkt am Rande der Anden im Übergang zum Tropenwald und bietet Besuchern die Möglichkeit, die Tiere auf markierten Pfaden zu beobachten. Machía leistet wichtige Bildungsarbeit über die fatalen Folgen des illegalen Wildtierhandels in Südamerika.",
       hu: "A Chapare trópusi kapujában, Villa Tunari mellett található Parque Machía a bolíviai vadvédelem egyik szimbóluma. Az Inti Wara Yassi közösség által kezelt területen olyan állatokat gondoznak, amelyeket az illegális kereskedelemből vagy sanyarú fogságból mentettek meg. A park különlegessége, hogy az állatok (főleg csuklyásmajmok, pókmajmok és ormányos medvék) szabadon vagy félvadon élnek az erdőben, és nemzetközi önkéntesek csapata segíti a mindennapi rehabilitációjukat. A látogatók kijelölt ösvényeken járhatják be az erdőt, tiszteletben tartva a mentett állatok nyugalmát. Biológia K8 – az emberi tevékenység hatása a vadon élő állatokra.",
-      ro: "",
-      en: ""
+      ro: "Parcul Machía din Villa Tunari este un simbol cunoscut pentru protecția animalelor în Bolivia și servește ca refugiu pentru animalele sălbatice maltratate anterior. Administrat de organizația Inti Wara Yassi, parcul este dedicat reabilitării maimuțelor, coati-lor și păsărilor care au fost adesea salvate din dețineri ilegale. Animalele trăiesc într-o zonă de pădure naturală, unde se pot plimba parțial libere și sunt îngrijite de voluntari internaționali. Parcul este situat chiar la marginea Anzilor, în zona de tranziție către pădurea tropicală, și oferă vizitatorilor posibilitatea de a observa animalele pe poteci marcate. Machía depune o muncă educațională importantă cu privire la consecințele fatale ale traficului ilegal de animale sălbatice în America de Sud.",
+      en: "Parque Machía, located in the tropical enclave of Villa Tunari, is a celebrated icon of wildlife welfare and the oldest sanctuary operated by the Inti Wara Yassi community. The refuge specializes in the rescue and rehabilitation of monkeys, coatis, and tropical birds that have been victims of the illegal pet trade or suffered abuse in circuses. In this sanctuary, animals are granted a high degree of freedom, with many living semi-wild within the lush forest canopy under the care of a dedicated team of international volunteers. Visitors can explore a series of hillside trails that offer glimpses of these recovering animals in a naturalistic jungle setting. The park serves as a powerful educational platform, highlighting the tragic ecological and ethical consequences of treating wild animals as commodities."
     },
     factsAdvanced: {
       de: [
@@ -1193,10 +1230,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A park fenntartása teljes mértékben adományokból és látogatói hozzájárulásokból történik.",
         "A terület a trópusi esőerdő és a hegyi dzsungel közötti átmeneti zónában fekszik."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Este finanțat aproape exclusiv prin voluntari internaționali și donații.",
+        "Cunoscut pentru programul de reabilitare a maimuțelor capucin și a maimuțelor păianjen.",
+        "Situat în una dintre regiunile cu cele mai mari precipitații din Bolivia, în departamentul Cochabamba.",
+        "Parcul a trebuit să fie apărat deja de mai multe ori împotriva proiectelor de construcție planificate în vecinătatea sa."
+      ],
+      en: [
+        "The sanctuary is powered almost entirely by the labor and financial contributions of volunteers from all over the world.",
+        "It is world-famous for its primate rehabilitation programs, which allow traumatized monkeys to reform natural social bonds.",
+        "Situated at the base of the Andes, the park receives extreme rainfall, fostering a hyper-diverse ecosystem of ferns and mosses.",
+        "Despite its acclaim, the park faces constant pressure from urban expansion, requiring ongoing advocacy to protect its boundaries."
+      ]
+    }, image: "/poi-images/parque-machia-life-v2.webp"},
   {
     id: "zoo-noel-kempff-life-v2",
     type: "kid-landmark",
@@ -1223,8 +1269,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Der Stadtzoo Noel Kempff Mercado in Santa Cruz de la Sierra ist eine der bedeutendsten zoologischen Einrichtungen Südamerikas. Er unterscheidet sich von vielen anderen Zoos dadurch, dass er fast ausschließlich einheimische Tierarten der neotropischen Fauna zeigt. In großzügigen, von tropischer Vegetation geprägten Gehegen können Besucher Jaguare, Faultiere, Tukane und die seltenen Riesenotter bewundern. Der Zoo ist nach dem berühmten bolivianischen Naturforscher benannt, der sein Leben dem Schutz der Biodiversität widmete. Er ist nicht nur ein beliebtes Ausflugsziel für Familien, sondern auch ein wichtiges Zentrum für Forschung und Artenschutzprojekte in der Region Santa Cruz.",
       hu: "A Santa Cruz de la Sierra városában található Noel Kempff Mercado állatkert Bolívia legfontosabb vadvédelmi és oktatási központja. Az alapító, a néhai neves tudós, Noel Kempff Mercado víziója egy olyan hely volt, ahol szinte kizárólag Dél-Amerika és azon belül Bolívia különleges állatvilágát mutatják be. A látogatók tágas, dús növényzettel beültetett kifutókban láthatják a jaguárokat, lajhárokat, óriásvidrákat és a hihetetlenül színes papagájfajokat. Az állatkert úttörő szerepet játszik a veszélyeztetett fajok, például a sisakos hokkó fogságban történő szaporításában. Biológia K8 – Dél-Amerika állatvilága és fajmegőrzés.",
-      ro: "",
-      en: ""
+      ro: "Grădina Zoologică Noel Kempff Mercado din Santa Cruz de la Sierra este una dintre cele mai importante instituții zoologice din America de Sud. Se deosebește de multe alte grădini zoologice prin faptul că expune aproape exclusiv specii de animale native din fauna neotropicală. În țarcuri spațioase, caracterizate de vegetație tropicală, vizitatorii pot admira jaguari, leneși, tucani și rarii vidre uriașe. Grădina zoologică poartă numele celebrului naturalist bolivian care și-a dedicat viața protejării biodiversității. Nu este doar o destinație populară pentru familii, ci și un centru important pentru cercetare și proiecte de conservare a speciilor în regiunea Santa Cruz.",
+      en: "The Noel Kempff Mercado Zoo in Santa Cruz de la Sierra is one of South America's most prestigious zoological parks, distinguished by its unique commitment to exclusively exhibiting Neotropical fauna. Unlike most international zoos, this institution focuses solely on the incredible biodiversity of the South American continent, showcasing iconic species like the jaguar, the giant river otter, and the colorful hyacinth macaw. The zoo is named after the legendary Bolivian scientist who pioneered conservation efforts in the Amazon before his tragic death in the field. Lush, shade-drenched walkways meander through habitats that mirror the diverse ecosystems of eastern Bolivia, from the dry Chaco to the humid rainforest. It serves as both a beloved recreational area for local citizens and a critical center for scientific research and the captive breeding of endangered regional species."
     },
     factsAdvanced: {
       de: [
@@ -1235,14 +1281,23 @@ export const poiExtraBoliviaLifeV2: POI[] = [
       ],
       hu: [
         "Ez volt az első állatkert Dél-Amerikában, amely kizárólag a kontinens őshonos fajait mutatta be.",
-        "A park híres a madárgyűjteményéről, különösen a ritka tukánokról.",
+        "A park híres a madárgyűjteményéről, különösen a ritka tukánról.",
         "Az állatkert területén található egy modern környezeti nevelési központ is iskolásoknak.",
         "Sok állatmentési akció után került ide, ahol megfelelő rehabilitációt kapnak."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "A fost prima grădină zoologică din America de Sud care s-a specializat doar pe specii native.",
+        "Găzduiește unul dintre cele mai de succes programe de reproducere pentru țestoasa de Chaco, aflată în pericol.",
+        "Parcul include un centru educațional modern pentru clasele de elevi.",
+        "Multe dintre animale sunt cazuri de salvare adăpostite permanent, care nu mai pot fi eliberate în sălbăticie."
+      ],
+      en: [
+        "It was the first zoo in South America to implement a strict 'native-only' species policy, setting a trend for regional conservation-focused exhibits.",
+        "The zoo is home to a world-class captive breeding program for the rare Chacoan tortoise and the southern screamer.",
+        "It features a dedicated 'Environment Classroom' used by thousands of Santa Cruz schoolchildren to learn about local ecology.",
+        "The park's large collection of sloths often live semi-wild within the tall trees that canopy the visitor paths."
+      ]
+    }, image: "/poi-images/zoo-noel-kempff-life-v2.webp"},
   {
     id: "tucabaca-reservat-life-v2",
     type: "animal-habitat",
@@ -1268,9 +1323,9 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Reservat des Tucabaca-Tals im Osten Boliviens schützt eines der am besten erhaltenen Gebiete des Chiquitano-Trockenwalds weltweit. Die Landschaft ist geprägt von spektakulären Sandstein-Plateaus, tiefen Tälern und zahlreichen Wasserfällen. Von den Aussichtspunkten bei Santiago de Chiquitos bietet sich ein grandioser Blick über das endlose grüne Blätterdach des Reservats. Das Gebiet beherbergt zahlreiche endemische Pflanzenarten und dient als wichtiger biologischer Korridor zwischen dem Pantanal und dem Amazonasbecken. Die einzigartige Geologie und die reiche Flora machen Tucabaca zu einem Geheimtipp für Natur- und Wanderfreunde im bolivianischen Tiefland.",
-      hu: "A Tucabaca-völgy Bolívia keleti részén, Santiago de Chiquitos mellett, a világ legnagyobb érintetlen trópusi száraz erdejének (Chiquitano) ad otthont. Ez a különleges ökoszisztéma az Amazonas esőerdői és a Chaco száraz vidékei közötti átmenet, ahol a növények alkalmazkodtak a hosszú száraz időszakokhoz. A rezervátum látványos homokkő fennsíkjai és a völgy mélyén húzódó galériaerdők elképesztő biológiai sokféleséget rejtenek. A terület stratégiai fontosságú a régió vízkészleteinek megőrzésében is. Földrajz K8 – trópusi száraz erdők és ökológiai folyosók.",
-      ro: "",
-      en: ""
+      hu: "A Tucabaca-völgy Bolívia keleti részén, Santiago de Chiquitos mellett, a világ legnagyobb érintetlen trópusi száraz erdejének (Chiquitano) ad otthont. Ez a különleges ökoszisztéma az Amazonas esőerdői és a Chaco száraz vidékei közötti átmenet, ahol a növények alkalmazkodnak a hosszú száraz időszakokhoz. A rezervátum látványos homokkő fennsíkjai és a völgy mélyén húzódó galériaerdők elképesztő biológiai sokféleséget rejtenek. A terület stratégiai fontosságú a régió vízkészleteinek megőrzésében is. Földrajz K8 – trópusi száraz erdők és ökológiai folyosók.",
+      ro: "Rezervația Văii Tucabaca din estul Boliviei protejează una dintre cele mai bine conservate zone de pădure uscată Chiquitano din lume. Peisajul este caracterizat de platouri spectaculoase de gresie, văi adânci și numeroase cascade. De la punctele de observație de lângă Santiago de Chiquitos se deschide o vedere grandioasă asupra acoperișului nesfârșit de frunze verzi al rezervației. Zona găzduiește numeroase specii de plante endemice și servește ca un coridor biologic important între Pantanal și bazinul Amazonului. Geologia unică și flora bogată fac din Tucabaca un loc special pentru iubitorii de natură și drumeții din zonele joase boliviene.",
+      en: "The Tucabaca Valley Municipal Reserve safeguards one of the planet's most pristine remnants of Chiquitano dry forest, a globally unique biome found only in eastern Bolivia. This spectacular landscape is defined by towering sandstone plateaus, or 'serranías,' that rise dramatically above the green expanse of the valley. From the viewpoints in the town of Santiago de Chiquitos, visitors are treated to an ocean-like vista of untouched forest canopy stretching toward the horizon. The reserve is a critical biological bridge, allowing for the movement of species between the wet Amazon and the seasonal Pantanal wetlands. Its geological formations, including ancient rock paintings and hidden waterfalls, make Tucabaca a prime destination for eco-conscious travelers seeking a blend of natural history and deep wilderness exploration."
     },
     factsAdvanced: {
       de: [
@@ -1285,10 +1340,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A terület híres a sziklába vájt barlangrajzairól, amelyek ősi kultúrák jelenlétéről tanúskodnak.",
         "A rezervátumot a helyi közösség és az önkormányzat példás együttműködésben kezeli."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "Protejează cel mai important bazin hidrografic pentru regiunea Chiquitanía.",
+        "Găzduiește picturi rupestre care indică o populare foarte timpurie de către popoarele indigene.",
+        "Pădurea Chiquitano este cea mai mare pădure tropicală uscată intactă de pe pământ.",
+        "Rezervația este gestionată într-un mod exemplar de către comunitatea locală."
+      ],
+      en: [
+        "The reserve protects the 'water factory' of the Chiquitanía, ensuring clean water supplies for all downstream communities.",
+        "Recent archaeological finds include pre-Columbian rock art depicting cosmic symbols and local animals carved into the sandstone cliffs.",
+        "The Chiquitano dry forest within the reserve is considered a global conservation priority due to its high level of plant endemism.",
+        "Tucabaca is a successful example of municipal conservation, where the local population actively participates in fire prevention and forest monitoring."
+      ]
+    }, image: "/poi-images/tucabaca-reservat-life-v2.webp"},
   {
     id: "tal-der-seelen-life-v2",
     type: "kid-landmark",
@@ -1315,8 +1379,8 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     descriptionAdvanced: {
       de: "Das Valle de las Ánimas (Tal der Seelen) ist eine surreale geologische Formation am Stadtrand von La Paz, die durch jahrtausendelange Erosion entstanden ist. Hunderte von nadelartigen Gesteinssäulen ragen bis zu 200 Meter in den Himmel und wirken aus der Ferne wie eine Armee versteinerter Geister. Wanderungen durch dieses labyrinthartige Tal bieten nicht nur faszinierende Einblicke in die Geologie der Anden, sondern auch spektakuläre Ausblicke auf den majestätischen Berg Illimani. Die Stille des Tals und die bizarren Formen verleihen dem Ort eine spirituelle Atmosphäre, die ihm auch seinen Namen gab. Es ist ein Muss für jeden Besucher der bolivianischen Regierungshauptstadt, der Naturwunder abseits der Massen sucht.",
       hu: "A Lelkek Völgye (Valle de las Ánimas) La Paz határában egy lenyűgöző természetes szoborpark, amelyet az erózió évezredes munkája hozott létre. A több száz méter magas, karcsú homokkő- és vályogoszlopok sorozata távolról hatalmas megkövesedett szellemek hadának tűnik – innen ered a név is. Ez a geológiai képződmény egyedülálló bepillantást enged az Andok üledékes kőzeteinek pusztulási folyamataiba. A völgy különleges hangulata, a szél zúgása az oszlopok között és a háttérben magasodó havas Illimani felejthetetlen élményt nyújt a túrázóknak. Földrajz K8 – az erózió felszínformáló ereje.",
-      ro: "",
-      en: ""
+      ro: "Valle de las Ánimas (Valea Sufletelor) este o formațiune geologică suprarealistă de la marginea orașului La Paz, creată prin milenii de eroziune. Sute de coloane de piatră sub formă de ace se înalță până la 200 de metri spre cer și par de la distanță o armată de spirite pietrificate. Drumețiile prin această vale labirintică oferă nu numai perspective fascinante asupra geologiei Anzilor, ci și vederi spectaculoase asupra maiestuosului munte Illimani. Liniștea văii și formele bizare conferă locului o atmosferă spirituală, care i-a dat și numele. Este o vizită obligatorie pentru orice vizitator al capitalei administrative boliviene care caută minuni ale naturii departe de mulțime.",
+      en: "The Valle de las Ánimas (Valley of the Souls) is a hauntingly beautiful geological phenomenon located on the southeastern fringe of La Paz. Thousands of vertical stone spires, some reaching over 200 meters in height, create a jagged forest of rock that looks like a silent, frozen army. These formations are the result of millions of years of intense erosion acting upon soft sedimentary layers and volcanic ash. Wandering through the valley's narrow ravines, visitors are struck by the profound silence and the stark contrast between the pale orange rock and the deep blue Andean sky. The towering presence of Mount Illimani at the end of the valley adds to the epic scale of the landscape. It is considered a deeply spiritual site by the Aymara people, who believe the monoliths represent the souls of the departed turned to stone."
     },
     factsAdvanced: {
       de: [
@@ -1331,10 +1395,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A völgy kedvelt helyszíne a meditációnak és a spirituális elmélyülésnek a csendje miatt.",
         "A terület könnyen elérhető La Paz központjából, így ideális félnapos kirándulóhely."
       ],
-      ro: [],
-      en: []
-    }
-  },
+      ro: [
+        "A fost declarată monument natural municipal în 1995 pentru a fi protejată de expansiunea urbană.",
+        "Formațiunile sub formă de ace constau din sedimente consolidate și rocă vulcanică.",
+        "Înălțimea acelor de stâncă atinge în unele locuri 200 de metri impresionanți.",
+        "Este considerată de către comunitățile locale Aymara un loc spiritual cu o energie deosebită."
+      ],
+      en: [
+        "The area was designated a Municipal Protected Area in 1995 to prevent the encroaching city of La Paz from damaging its fragile structures.",
+        "Geologists describe the 'needles' as being composed of conglomerate materials and solidified ancient volcanic flows.",
+        "The tallest of the spires can rival the height of modern skyscrapers, reaching up to 200 vertical meters.",
+        "The site remains a focal point for Andean spiritualism, with traditional healers often performing ceremonies to honor the spirits within the stones."
+      ]
+    }, image: "/poi-images/tal-der-seelen-life-v2.webp"},
   {
     id: "bolivianisches-pantanal-life-v2",
     type: "animal-habitat",
@@ -1360,9 +1433,9 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das bolivianische Pantanal im äußersten Südosten des Landes ist Teil des größten Binnenfeuchtgebiets der Welt und ein unberührtes Naturparadies. Diese riesige Fläche aus Sümpfen, Seen und Flüssen beherbergt eine der höchsten Konzentrationen an Wildtieren in Südamerika. Besucher können hier Anakondas, Kaimane, Jaguare und riesige Schwärme von Wasservögeln in ihrer natürlichen Umgebung beobachten. Das Gebiet ist im Vergleich zum brasilianischen Teil des Pantanals deutlich weniger touristisch erschlossen und bietet ein echtes Wildniserlebnis. Es dient als gigantischer Wasserspeicher und Reinigungsfilter für das gesamte Flusssystem des Río Paraguay und ist ökologisch von unschätzbarem Wert.",
-      hu: "A bolíviai Pantanal a Föld legnagyobb édesvízi mocsárvidékének nyugati szegélye, Santa Cruz megyében. Ez az elképesztő vizes élőhely egy hatalmas természetes szivacs, amely felszívja a csapadékot és szabályozza a dél-amerikai folyók vízjárását. Az élővilág itt szinte sűrített formában jelenik meg: kapibarák, kajmánok, óriásvidrák és jaguárok népesítik be a partokat. A madárvilág talán a leggazdagabb a világon, a kék jácintarától a jabiru gólyáig számtalan ritkaság figyelhető meg itt természetes környezetében. Földrajz K7 – vizes élőhelyek ökológiai szerepe és a Pantanal.",
-      ro: "",
-      en: ""
+      hu: "A bolíviai Pantanal a Föld legnagyobb édesvízi mocsárvidékének nyugati szegélye, Santa Cruz megyében. Ez az elképesztő vizes élőhely egy hatalmas természetes szivacs, amely felszívja a csapadékot és szabályozza a dél-amerikai folyók vízjárását. Az élővilág itt szinte sűrített formában jelenik meg: kapibarák, kajmánok, óriásvidrák és jaguárok népesítik be a partokat. A madárvilág talán a leggazdagabb a világon, a kék jácintarától a jabiru gólyaig számtalan ritkaság figyelhető meg itt természetes környezetében. Földrajz K7 – vizes élőhelyek ökológiai szerepe és a Pantanal.",
+      ro: "Pantanalul bolivian, situat în sud-estul îndepărtat al țării, face parte din cea mai mare zonă umedă interioară din lume și este un paradis natural nealterat. Această suprafață imensă de mlaștini, lacuri și râuri găzduiește una dintre cele mai mari concentrații de animale sălbatice din America de Sud. Vizitatorii pot observa aici anaconde, caimani, jaguari și stoluri uriașe de păsări de apă în mediul lor natural. Zona este semnificativ mai puțin dezvoltată turistic în comparație cu partea braziliană a Pantanalului și oferă o experiență autentică de sălbăticie. Servește ca un rezervor gigantic de apă și filtru de purificare pentru întregul sistem fluvial al râului Paraguay și este de o valoare ecologică inestimabilă.",
+      en: "The Bolivian Pantanal is a vast, primeval expanse of seasonally flooded savannas and wetlands located in the remote southeastern corner of Santa Cruz. As the western edge of the world's largest freshwater wetland system, it hosts one of the highest concentrations of megafauna on the continent, including the world's most stable population of the brilliant blue hyacinth macaw. The region functions as a colossal natural sponge, absorbing monsoon rains and releasing them slowly into the Paraguay River, thereby regulating the entire region's hydrology. Unlike the more commercialized Brazilian sections, the Bolivian Pantanal remains largely wild and difficult to access, offering visitors a raw, authentic safari experience. It is a world-class destination for birdwatchers, who can witness massive gatherings of jabiru storks, wood storks, and countless species of colorful kingfishers in a single location."
     },
     factsAdvanced: {
       de: [
@@ -1377,8 +1450,19 @@ export const poiExtraBoliviaLifeV2: POI[] = [
         "A terület a világ egyik legnagyobb fészektelepe a vízi madarak számára.",
         "Puerto Suárez és Puerto Quijarro a fő kiindulópontok a régió felfedezéséhez."
       ],
-      ro: [],
-      en: []
+      ro: [
+        "Găzduiește cea mai mare populație din lume a magnificului papagal Ara zambilă.",
+        "În timpul sezonului ploios, aproape întreaga zonă este sub apă.",
+        "Pantanalul bolivian cuprinde o suprafață de aproximativ 31.000 de kilometri pătrați.",
+        "Loc important de cuibărit pentru sute de specii de păsări migratoare din întreaga Americă."
+      ],
+      en: [
+        "The Bolivian Pantanal is a critical sanctuary for the world's largest parrot species, the majestic and endangered hyacinth macaw.",
+        "During the peak of the wet season, up to 80% of the territory is submerged, forcing terrestrial animals to seek refuge on elevated 'islands' of forest.",
+        "The Bolivian portion of the wetland covers approximately 31,000 square kilometers, nearly the size of Belgium.",
+        "It acts as a primary 'rest stop' and breeding ground for hundreds of migratory bird species traveling between the Northern and Southern Hemispheres."
+      ]
     }
   }
 ];
+

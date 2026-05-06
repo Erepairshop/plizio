@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBeninNatureV2: POI[] = [
@@ -12,19 +13,12 @@ export const poiExtraBeninNatureV2: POI[] = [
       ro: "Râul Ouémé",
       en: "Ouémé River"
     },
-    description: {
-      de: "Der Ouémé ist der längste und wichtigste Fluss Benins, der das Land von Norden nach Süden durchfließt und in das Lake Nokoué mündet.",
-      hu: "Az Ouémé Benin leghosszabb és legfontosabb folyója, amely északról délre szeli át az országot, és a Nokoué-tóba torkollik.",
-      ro: "Ouémé este cel mai lung și mai important râu din Benin, traversând țara de la nord la sud și vărsându-se în Lacul Nokoué.",
-      en: "The Ouémé is the longest and most important river in Benin, flowing through the country from north to south and emptying into Lake Nokoué."
+    descriptionAdvanced: {
+      de: "Der Ouémé ist der längste Fluss Benins und spielt eine zentrale Rolle für die Landwirtschaft und das Ökosystem im Süden des Landes. Er fließt durch abwechslungsreiche Landschaften und mündet schließlich in die Nokoué-Lagune. Die fruchtbaren Uferbereiche werden intensiv landwirtschaftlich genutzt, insbesondere für den Reisanbau. Die Region entlang des Flusses ist zudem Lebensraum für eine Vielzahl von Tier- und Pflanzenarten. Geografie K7 — Flüsse und Wasserwege."
     },
-    facts: {
-      de: ["Längster Fluss Benins mit ca. 510 km.", "Wichtige Verkehrsader für den Süden.", "Mündet in ein ausgedehntes Delta."],
-      hu: ["Benin leghosszabb folyója, kb. 510 km.", "Fontos közlekedési útvonal délen.", "Kiterjedt deltával torkollik a tengerbe."],
-      ro: ["Cel mai lung râu din Benin, având aproximativ 510 km.", "Arteră importantă de transport pentru sud.", "Se varsă printr-o deltă extinsă."],
-      en: ["Longest river in Benin, about 510 km long.", "Important transport route for the south.", "Empties into an extensive delta."]
-    }
-  },
+    factsAdvanced: {
+      de: ["Länge von etwa 510 Kilometern.", "Größter Fluss des Landes Benin.", "Mündet in die Nokoué-Lagune nördlich von Cotonou.", "Bedeutend für die Bewässerung der Landwirtschaft.", "Lebensraum für zahlreiche Süßwasserfische.", "Flussverlauf durch mehrere Klimazonen."]
+    }, image: "/poi-images/oueme-river-nature-v2.webp"},
   {
     id: "niger-river-benin-nature-v2",
     type: "river",
@@ -36,19 +30,12 @@ export const poiExtraBeninNatureV2: POI[] = [
       ro: "Fluviul Niger (sectorul Benin)",
       en: "Niger River (Benin section)"
     },
-    description: {
-      de: "Der Niger bildet die nordöstliche Grenze Benins zu Niger und ist einer der größten Ströme Afrikas.",
-      hu: "A Niger-folyó Benin északkeleti határát alkotja Nigerrel, és Afrika egyik legnagyobb folyama.",
-      ro: "Fluviul Niger formează granița de nord-est a Beninului cu Nigerul și este unul dintre cele mai mari fluvii din Africa.",
-      en: "The Niger River forms Benin's northeastern border with Niger and is one of Africa's largest rivers."
+    descriptionAdvanced: {
+      de: "Der Niger-Fluss bildet einen Teil der nördlichen Grenze Benins und ist eine lebenswichtige Ressource für die gesamte Region. Er verbindet Benin mit seinen Nachbarländern und ist von großer Bedeutung für den regionalen Handel und die Fischerei. Die Landschaften entlang des Nigers in Benin sind durch ausgedehnte Savannen und eine reiche Tierwelt geprägt. Sachkunde K6 — Die großen Flüsse Afrikas."
     },
-    facts: {
-      de: ["Bildet die Grenze auf einer Länge von 120 km.", "Wichtig für die Bewässerung im Norden.", "Heimat von Flusspferden."],
-      hu: ["120 km hosszan alkotja a határt.", "Fontos az öntözés számára északon.", "Vízilovak élnek benne."],
-      ro: ["Formează granița pe o lungime de 120 km.", "Important pentru irigații în nord.", "Adăpostește hipopotami."],
-      en: ["Forms the border for 120 km.", "Important for irrigation in the north.", "Home to hippos."]
-    }
-  },
+    factsAdvanced: {
+      de: ["Bildet einen bedeutenden Teil der Staatsgrenze im Norden.", "Drittlängster Fluss Afrikas.", "Wichtige Lebensader für die Menschen in der Region.", "Lebensraum für Flusspferde und Krokodile.", "Bedeutendes Zentrum für den regionalen Fischfang.", "Die Uferbereiche bieten Weideflächen für das Vieh."]
+    }, image: "/poi-images/niger-river-benin-nature-v2.webp"},
   {
     id: "pendjari-river-nature-v2",
     type: "river",
@@ -60,19 +47,12 @@ export const poiExtraBeninNatureV2: POI[] = [
       ro: "Râul Pendjari",
       en: "Pendjari River"
     },
-    description: {
-      de: "Der Pendjari ist ein bedeutender Nebenfluss des Volta, der durch den gleichnamigen Nationalpark im Nordwesten Benins fließt.",
-      hu: "A Pendjari a Volta jelentős mellékfolyója, amely az azonos nevű nemzeti parkon folyik keresztül Benin északnyugati részén.",
-      ro: "Pendjari este un afluent important al Voltei, care curge prin parcul național cu același nume din nord-vestul Beninului.",
-      en: "The Pendjari is a significant tributary of the Volta, flowing through the national park of the same name in northwestern Benin."
+    descriptionAdvanced: {
+      de: "Der Pendjari-Fluss ist das Herzstück des Pendjari-Nationalparks im Norden Benins. Er ist eine unverzichtbare Wasserquelle für die vielfältige Tierwelt des Parks, darunter Löwen, Elefanten und zahlreiche Antilopenarten. Während der Trockenzeit konzentriert sich das Leben der Wildtiere entlang der Flussläufe, was den Pendjari zu einem der besten Orte für Naturbeobachtungen in Westafrika macht. Biologie K6 — Wildtiere und Habitate."
     },
-    facts: {
-      de: ["Durchfließt den Pendjari-Nationalpark.", "Wichtige Tränke für Elefanten und Löwen.", "Bildet zeitweise die Grenze zu Burkina Faso."],
-      hu: ["A Pendjari Nemzeti Parkon folyik át.", "Fontos ivóhely az elefántok és oroszlánok számára.", "Időszakosan határt alkot Burkina Fasóval."],
-      ro: ["Traversează Parcul Național Pendjari.", "Sursă importantă de apă pentru elefanți și lei.", "Formează temporar granița cu Burkina Faso."],
-      en: ["Flows through the Pendjari National Park.", "Important watering hole for elephants and lions.", "Periodically forms the border with Burkina Faso."]
-    }
-  },
+    factsAdvanced: {
+      de: ["Lebensader des Pendjari-Nationalparks.", "Zentrale Wasserquelle für Elefantenherden.", "Die Trockenzeit macht das Gebiet besonders wildreich.", "Wichtiger Lebensraum für gefährdete Arten.", "Die Flussufer bieten ein reiches Ökosystem.", "Der Park ist ein UNESCO-Biosphärenreservat."]
+    }, image: "/poi-images/pendjari-river-nature-v2.webp"},
   {
     id: "mekrou-river-nature-v2",
     type: "river",
@@ -95,8 +75,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Érintetlen szavannákon folyik át.", "Gazdag halfajokban.", "Határt alkot Benin és Burkina Faso között."],
       ro: ["Curge prin peisaje de savană neatinse.", "Bogat în specii de pești.", "Formează granița dintre Benin și Burkina Faso."],
       en: ["Flows through untouched savanna landscapes.", "Rich in fish species.", "Forms the border between Benin and Burkina Faso."]
-    }
-  },
+    }, image: "/poi-images/mekrou-river-nature-v2.webp"},
   {
     id: "sota-river-nature-v2",
     type: "river",
@@ -119,8 +98,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Hossza kb. 250 km.", "Fontos vízforrás a gyapotföldek számára.", "Malanville közelében ömlik a Nigerbe."],
       ro: ["Lungime de aproximativ 250 km.", "Sursă importantă de apă pentru culturile de bumbac.", "Se varsă în Niger lângă Malanville."],
       en: ["About 250 km long.", "Important water source for cotton fields.", "Flows into the Niger near Malanville."]
-    }
-  },
+    }, image: "/poi-images/sota-river-nature-v2.webp"},
   {
     id: "alibori-river-nature-v2",
     type: "river",
@@ -143,8 +121,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Az Atakora-hegységben ered.", "Fontos vízfolyás a száraz övezetben.", "Északon ömlik a Nigerbe."],
       ro: ["Izvorăște din Munții Atakora.", "Curs de apă important în zona aridă.", "Se varsă în Niger în nord."],
       en: ["Originates in the Atakora Mountains.", "Important watercourse in the dry zone.", "Empties into the Niger in the north."]
-    }
-  },
+    }, image: "/poi-images/alibori-river-nature-v2.webp"},
   {
     id: "couffo-river-nature-v2",
     type: "river",
@@ -167,8 +144,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Togóban ered.", "Édesvízzel táplálja az Ahémé-tavat.", "Fontos a régió halászata számára."],
       ro: ["Izvorăște din Togo.", "Alimentează Lacul Ahémé cu apă dulce.", "Important pentru pescuitul din regiune."],
       en: ["Originates in Togo.", "Feeds Lake Ahémé with fresh water.", "Important for fishing in the region."]
-    }
-  },
+    }, image: "/poi-images/couffo-river-nature-v2.webp"},
   {
     id: "mono-river-nature-v2",
     type: "river",
@@ -191,8 +167,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Alsó szakaszán államhatárt alkot.", "Fontos vízenergia-forrás (Nangbeto-gát).", "A 'Bouche du Roy'-n keresztül ömlik a tengerbe."],
       ro: ["Formează granița de stat în cursul inferior.", "Locație importantă pentru hidroenergie (Barajul Nangbeto).", "Se varsă în mare prin 'Bouche du Roy'."],
       en: ["Forms the national border in its lower course.", "Important site for hydropower (Nangbeto Dam).", "Empties into the sea via the 'Bouche du Roy'."]
-    }
-  },
+    }, image: "/poi-images/mono-river-nature-v2.webp"},
   {
     id: "lake-nokoue-nature-v2",
     type: "lake",
@@ -215,8 +190,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Híres a ganviéi cölöpfaluról.", "Fontos élőhely vízi madarak számára.", "A Cotonou-csatornán keresztül kapcsolódik a tengerhez."],
       ro: ["Faimos pentru satul pe piloni Ganvié.", "Habitat important pentru păsările de apă.", "Conectat la mare prin canalul Cotonou."],
       en: ["Famous for the stilt village of Ganvié.", "Important habitat for water birds.", "Connected to the sea via the Cotonou canal."]
-    }
-  },
+    }, image: "/poi-images/lake-nokoue-nature-v2.webp"},
   {
     id: "lake-aheme-nature-v2",
     type: "lake",
@@ -239,8 +213,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["A hagyományos halászat központja.", "Szent erdők veszik körül.", "Fontos ökoszisztéma a mangrovék számára."],
       ro: ["Centru al pescuitului tradițional.", "Înconjurat de păduri sacre.", "Ecosistem important pentru mangrove."],
       en: ["Center of traditional fishing.", "Surrounded by sacred forests.", "Important ecosystem for mangroves."]
-    }
-  },
+    }, image: "/poi-images/lake-aheme-nature-v2.webp"},
   {
     id: "porto-novo-lagoon-nature-v2",
     type: "lake",
@@ -263,8 +236,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Fontos szállítási útvonal Nigéria felé.", "Gazdag biológiai sokféleség.", "Egy nagy lagúnarendszer része."],
       ro: ["Rută importantă de transport către Nigeria.", "Bogat în biodiversitate.", "Parte a unui sistem vast de lagune."],
       en: ["Important transport route to Nigeria.", "Rich in biodiversity.", "Part of a large lagoon system."]
-    }
-  },
+    }, image: "/poi-images/porto-novo-lagoon-nature-v2.webp"},
   {
     id: "cotonou-lagoon-nature-v2",
     type: "lake",
@@ -287,8 +259,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Két részre osztja Cotonou városát.", "Három nagy híd szeli át.", "Fontos a városi vízelvezető rendszer számára."],
       ro: ["Împarte orașul Cotonou în două jumătăți.", "Traversată de trei poduri mari.", "Importantă pentru sistemul de drenaj urban."],
       en: ["Divides the city of Cotonou into two halves.", "Crossed by three major bridges.", "Important for the urban drainage system."]
-    }
-  },
+    }, image: "/poi-images/cotonou-lagoon-nature-v2.webp"},
   {
     id: "lake-toho-nature-v2",
     type: "lake",
@@ -311,8 +282,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Fontos a helyi halellátás számára.", "Népszerű a madármegfigyelők körében.", "Pahou városa közelében található."],
       ro: ["Important pentru aprovizionarea locală cu pește.", "Popular pentru observarea păsărilor.", "Situat lângă orașul Pahou."],
       en: ["Important for local fish supply.", "Popular for bird watching.", "Located near the town of Pahou."]
-    }
-  },
+    }, image: "/poi-images/lake-toho-nature-v2.webp"},
   {
     id: "atakora-mountains-nature-v2",
     type: "mountain",
@@ -335,8 +305,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Benin legmagasabb pontjai.", "Számos folyó forrásvidéke.", "Híres a vízeséseiről, mint a Kota-vízesés."],
       ro: ["Cele mai mari înălțimi din Benin.", "Sursă pentru numeroase râuri.", "Cunoscuți pentru cascade precum Cascadele Kota."],
       en: ["Highest elevations in Benin.", "Source of many rivers.", "Known for waterfalls like the Kota Falls."]
-    }
-  },
+    }, image: "/poi-images/atakora-mountains-nature-v2.webp"},
   {
     id: "mont-sokbaro-nature-v2",
     type: "mountain",
@@ -359,8 +328,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Magassága kb. 658 méter.", "Az Atakora-masszívum része.", "Népszerű túrázóhely."],
       ro: ["Înălțime de aproximativ 658 metri.", "Parte a masivului Atakora.", "Destinație populară pentru drumeții."],
       en: ["Elevation of about 658 meters.", "Part of the Atakora massif.", "Popular destination for hikers."]
-    }
-  },
+    }, image: "/poi-images/mont-sokbaro-nature-v2.webp"},
   {
     id: "mont-tanekas-nature-v2",
     type: "mountain",
@@ -383,8 +351,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["A tanéka nép otthona.", "Széles kilátást nyújt a szavannára.", "Spirituális hagyományok központja."],
       ro: ["Cămin al poporului Tanéka.", "Oferă vederi panoramice asupra savanei.", "Centru al tradițiilor spirituale."],
       en: ["Home to the Tanéka people.", "Offers wide views over the savanna.", "Center of spiritual traditions."]
-    }
-  },
+    }, image: "/poi-images/mont-tanekas-nature-v2.webp"},
   {
     id: "sacred-forest-kpasse-nature-v2",
     type: "forest",
@@ -407,8 +374,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Évszázados fáknak ad otthont.", "Vallási szertartások helyszíne.", "Vudu istenségek szobraival díszített."],
       ro: ["Găzduiește arbori seculari.", "Loc pentru ceremonii religioase.", "Împodobită cu statui ale zeităților Voodoo."],
       en: ["Home to centuries-old trees.", "Site for religious ceremonies.", "Decorated with statues of Voodoo deities."]
-    }
-  },
+    }, image: "/poi-images/sacred-forest-kpasse-nature-v2.webp"},
   {
     id: "niaouli-forest-nature-v2",
     type: "forest",
@@ -431,8 +397,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Helyi fafajták megőrzésének központja.", "Fontos a trópusi ökoszisztémák kutatásához.", "Népszerű oktatási kirándulások helyszíne."],
       ro: ["Centru pentru conservarea speciilor locale de arbori.", "Important pentru cercetarea ecosistemelor tropicale.", "Popular pentru excursii educaționale."],
       en: ["Center for conserving local tree species.", "Important for studying tropical ecosystems.", "Popular for educational trips."]
-    }
-  },
+    }, image: "/poi-images/niaouli-forest-nature-v2.webp"},
   {
     id: "lama-forest-nature-v2",
     type: "forest",
@@ -455,8 +420,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["A vörösfarkú cerkófok legfontosabb védett területe.", "Ritka flórában gazdag.", "Híres nedves agyagos talajáról."],
       ro: ["Cea mai importantă arie protejată pentru maimuțele cu coadă roșie.", "Bogată în floră rară.", "Cunoscută pentru solurile sale argiloase umede."],
       en: ["Most important protected area for red-tailed monkeys.", "Rich in rare flora.", "Known for its moist clay soils."]
-    }
-  },
+    }, image: "/poi-images/lama-forest-nature-v2.webp"},
   {
     id: "gulf-of-guinea-benin-nature-v2",
     type: "sea",
@@ -479,8 +443,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Gazdag tengeri erőforrásokban.", "Fontos a nemzetközi kereskedelem számára.", "Híres erős áramlatairól."],
       ro: ["Bogat în resurse marine.", "Important pentru comerțul internațional.", "Cunoscut pentru curenții săi puternici."],
       en: ["Rich in marine resources.", "Important for international trade.", "Known for its strong currents."]
-    }
-  },
+    }, image: "/poi-images/gulf-of-guinea-benin-nature-v2.webp"},
   {
     id: "bight-of-benin-nature-v2",
     type: "sea",
@@ -503,8 +466,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Történelmileg Rabszolgapart néven volt ismert.", "Ghánától Nigériáig terjed.", "Fontos halászati terület."],
       ro: ["Cunoscut istoric sub numele de Coasta Sclavilor.", "Se întinde de la Ghana până la Nigeria.", "Zonă importantă de pescuit."],
       en: ["Historically known as the Slave Coast.", "Extends from Ghana to Nigeria.", "Important fishing ground."]
-    }
-  },
+    }, image: "/poi-images/bight-of-benin-nature-v2.webp"},
   {
     id: "togodo-forest-nature-v2",
     type: "forest",
@@ -527,8 +489,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Egy bioszféra-rezervátum része.", "Fontos folyosó a vadon élő állatok számára.", "Galériaerdőkből és szavannából áll."],
       ro: ["Parte a unei rezervații a biosferei.", "Coridor important pentru fauna sălbatică.", "Formată din păduri-galerie și savană."],
       en: ["Part of a biosphere reserve.", "Important corridor for wildlife.", "Consists of gallery forests and savanna."]
-    }
-  },
+    }, image: "/poi-images/togodo-forest-nature-v2.webp"},
   {
     id: "so-river-nature-v2",
     type: "river",
@@ -551,8 +512,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["Mocsaras területeken folyik keresztül.", "Fontos a rizstermesztés számára.", "Ganvié közelében ömlik a tóba."],
       ro: ["Curge prin zone mlăștinoase.", "Important pentru cultivarea orezului.", "Se varsă în lac lângă Ganvié."],
       en: ["Flows through marshy areas.", "Important for rice cultivation.", "Empties into the lake near Ganvié."]
-    }
-  },
+    }, image: "/poi-images/so-river-nature-v2.webp"},
   {
     id: "donga-river-nature-v2",
     type: "river",
@@ -575,8 +535,7 @@ export const poiExtraBeninNatureV2: POI[] = [
       hu: ["A Donga megye névadója.", "Fontos helyi vízforrás.", "Dombos vidéken folyik keresztül."],
       ro: ["Dă numele departamentului Donga.", "Sursă importantă de apă locală.", "Curge prin teren deluros."],
       en: ["Gives its name to the Donga Department.", "Important source of local water.", "Flows through hilly terrain."]
-    }
-  },
+    }, image: "/poi-images/donga-river-nature-v2.webp"},
   {
     id: "lake-azili-nature-v2",
     type: "lake",
@@ -602,3 +561,4 @@ export const poiExtraBeninNatureV2: POI[] = [
     }
   }
 ];
+

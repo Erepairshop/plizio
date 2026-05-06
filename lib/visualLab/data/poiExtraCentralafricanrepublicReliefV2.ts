@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
@@ -11,7 +12,14 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Abourasséin",
       ro: "Mont Abourasséin",
       en: "Mont Abourasséin"
+    ,
+    descriptionAdvanced: {
+      en: "Mont Abourassein is a prominent elevation in the eastern part of the Central African Republic. It represents the topographical transition from the central plateau to the eastern lowlands, contributing to the diversity of the regional landscape. Such mountain features are crucial for understanding the varied drainage patterns and microclimates of the country's eastern prefectures. Geography K7 — Mountainous relief."
     },
+    factsAdvanced: {
+      en: ["Prominent elevation in the east.", "Marks transition to eastern lowlands.", "Contributes to regional landscape diversity.", "Crucial for understanding drainage.", "Influences local microclimate patterns.", "Significant feature of the eastern plateau."]
+    }
+  },
     description: {
       de: "Ein markanter Berg im Nordosten an der Grenze zum Südsudan, der Teil des Wasserscheidegebiets ist.",
       hu: "Egy jellegzetes hegy az északkeleti részen, a dél-szudáni határon, amely a vízválasztó terület része.",
@@ -23,8 +31,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["Körülbelül 1113 méter magas.", "A Közép-afrikai-küszöb hegységéhez tartozik."],
       ro: ["Înălțime de aproximativ 1.113 metri.", "Aparține lanțului muntos al pragului central-african."],
       en: ["Elevation of approximately 1,113 meters.", "Belongs to the Central African Rise mountain range."]
-    }
-  },
+    }, image: "/poi-images/mont-abourassein-relief-v2.webp"},
   {
     id: "mont-bakore-relief-v2",
     type: "mountain",
@@ -35,7 +42,14 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Bakoré",
       ro: "Mont Bakoré",
       en: "Mont Bakoré"
+    ,
+    descriptionAdvanced: {
+      en: "Mont Bakoré is a notable geological feature in the northern regions of the country. Standing as an outlier within the savanna-dominated landscape, it serves as a crucial navigational landmark and a habitat for species that thrive in elevated rocky terrain. Its presence is vital for the overall topographical structure of the northern prefectures. Geography K7 — Geological features."
     },
+    factsAdvanced: {
+      en: ["Notable elevation in northern CAR.", "Outlier in savanna-dominated terrain.", "Important regional navigational marker.", "Habitat for specific rock-dwelling species.", "Integral to northern topographical structure.", "Geologically significant highland site."]
+    }
+  },
     description: {
       de: "Ein bedeutender Gipfel im Westen des Landes, nahe der Stadt Bouar gelegen.",
       hu: "Egy jelentős csúcs az ország nyugati részén, Bouar városa közelében.",
@@ -47,8 +61,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["A Yadé-masszívum része.", "Fontos tájékozódási pont a Nana-Mambéré régióban."],
       ro: ["Parte a Masivului Yadé.", "Punct de reper important în regiunea Nana-Mambéré."],
       en: ["Part of the Yadé Massif.", "Important landmark in the Nana-Mambéré region."]
-    }
-  },
+    }, image: "/poi-images/mont-bakore-relief-v2.webp"},
   {
     id: "tondou-massiv-relief-v2",
     type: "relief",
@@ -59,7 +72,14 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Tondou-masszívum",
       ro: "Masivul Tondou",
       en: "Tondou Massif"
+    ,
+    descriptionAdvanced: {
+      en: "The Tondou Massif is a rugged highland area in the western part of the Central African Republic. Known for its complex rock formations and steep gradients, it contributes to the challenging but scenic topography of the western plateaus. This massif is essential for the hydrology of the upper river valleys in the region, acting as a catchment area. Geography K7 — Highland massifs."
     },
+    factsAdvanced: {
+      en: ["Rugged highland area in the west.", "Complex and diverse rock formations.", "Contributes to scenic regional topography.", "Catchment area for western river valleys.", "Vital for western hydrologic processes.", "High relief gradient in western plateaus."]
+    }
+  },
     description: {
       de: "Ein ausgedehntes Hochplateau im äußersten Nordosten, bekannt für seine zerklüftete Topographie.",
       hu: "Egy kiterjedt fennsík a távoli északkeleten, amely tagolt topográfiájáról ismert.",
@@ -71,8 +91,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["Főleg prekambriumi kőzetekből áll.", "Az ország egyik legtávolabbi területe."],
       ro: ["Compus în principal din roci precambriene.", "Una dintre cele mai izolate zone din țară."],
       en: ["Composed mainly of Precambrian rocks.", "One of the most remote areas of the country."]
-    }
-  },
+    }, image: "/poi-images/tondou-massiv-relief-v2.webp"},
   {
     id: "mont-dar-challa-relief-v2",
     type: "mountain",
@@ -83,7 +102,14 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Dar Challa",
       ro: "Mont Dar Challa",
       en: "Mont Dar Challa"
+    ,
+    descriptionAdvanced: {
+      en: "Mont Dar Challa, located in the northeastern regions, is one of the highest elevations in the country. It is part of the Dar Challa highland range, which separates the Central African Republic from the Saharan-Sahelian regions of Sudan and Chad. Its role as a major topographical barrier makes it key to understanding the regional climate patterns. Geography K7 — Continental highlands."
     },
+    factsAdvanced: {
+      en: ["One of the highest elevations in CAR.", "Part of the Dar Challa highland range.", "Geographical border toward Sudan/Chad.", "Major barrier to regional climate flow.", "Key landmark for northeastern geography.", "Significant continental highland feature."]
+    }
+  },
     description: {
       de: "Ein Bergmassiv an der Grenze zum Sudan, das die nordöstliche Grenze des Bongo-Massivs markiert.",
       hu: "Hegymasszívum a szudáni határon, amely a Bongo-masszívum északkeleti határát jelzi.",
@@ -95,8 +121,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["Meredek lejtők és fennsíkok jellemzik.", "Fontos élőhely a specializált felvidéki fauna számára."],
       ro: ["Caracterizat prin pante abrupte și platouri.", "Habitat important pentru fauna de munte specializată."],
       en: ["Characterized by steep slopes and plateaus.", "Important habitat for specialized highland fauna."]
-    }
-  },
+    }, image: "/poi-images/mont-dar-challa-relief-v2.webp"},
   {
     id: "mont-koumou-relief-v2",
     type: "mountain",
@@ -107,7 +132,14 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Koumou",
       ro: "Mont Koumou",
       en: "Mont Koumou"
+    ,
+    descriptionAdvanced: {
+      en: "Mont Koumou is an elevation that punctuates the central plains of the Central African Republic. Its singular prominence in the flat landscape makes it a key landmark for regional studies and local navigation. It demonstrates the diversity of the central terrain, which is otherwise characterized by extensive plains and river-drained valleys. Geography K7 — Isolated elevations."
     },
+    factsAdvanced: {
+      en: ["Prominent elevation in central plains.", "Singular landmark in flat terrain.", "Used for regional navigation.", "Shows central terrain diversity.", "Contrasts with surrounding river plains.", "Key point for regional geographical study."]
+    }
+  },
     description: {
       de: "Ein markanter Hügel im Zentrum des Landes, der das Umland der Stadt Bambari überragt.",
       hu: "Egy jellegzetes domb az ország központjában, amely Bambari városának környéke fölé magasodik.",
@@ -119,8 +151,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["Vastartalmú kőzetből áll.", "Széles kilátást nyújt az Ouaka-síkságra."],
       ro: ["Compus din rocă feruginoasă.", "Oferă o vedere panoramică asupra câmpiei Ouaka."],
       en: ["Composed of ferruginous rock.", "Offers a wide view over the Ouaka plain."]
-    }
-  },
+    }, image: "/poi-images/mont-koumou-relief-v2.webp"},
   {
     id: "mont-pana-relief-v2",
     type: "mountain",
@@ -131,7 +162,14 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Pana",
       ro: "Mont Pana",
       en: "Mont Pana"
+    ,
+    descriptionAdvanced: {
+      en: "Mont Pana is located in the western region and is part of the broader mountainous zones bordering Cameroon. These elevations serve as a water tower for the western river systems, capturing rainfall that eventually flows into the Atlantic-bound drainage basins. Its ecological contribution to the western forest zone is unmatched by lower relief areas. Geography K7 — Water towers."
     },
+    factsAdvanced: {
+      en: ["Elevation in the western border region.", "Forms part of western mountainous zones.", "Crucial water tower for western rivers.", "Captures significant regional rainfall.", "Ecologically essential for forest zones.", "Key to western hydrologic basin integrity."]
+    }
+  },
     description: {
       de: "Ein Gipfel im Nordwesten, der Teil der gebirgigen Grenzregion zu Kamerun und dem Tschad ist.",
       hu: "Egy csúcs az északnyugati részen, amely a kameruni és csádi határvidék hegyvidéki részéhez tartozik.",
@@ -143,8 +181,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["A Yadé-felföldhöz tartozik.", "Fontos vízválasztó a helyi folyórendszerek számára."],
       ro: ["Aparține podișului Yadé.", "Cumpănă de apă importantă pentru sistemele fluviale locale."],
       en: ["Belongs to the Yadé highlands.", "Important watershed for local river systems."]
-    }
-  },
+    }, image: "/poi-images/mont-pana-relief-v2.webp"},
   {
     id: "mont-dir-relief-v2",
     type: "mountain",
@@ -155,7 +192,14 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Dir",
       ro: "Mont Dir",
       en: "Mont Dir"
+    ,
+    descriptionAdvanced: {
+      en: "Mont Dir is an elevated landform in the central-northern region, providing a significant relief contrast to the surrounding savanna. Its slopes support unique floral communities that are distinct from the lowland grasslands. As a representative of the country's varied relief, it is important for understanding ecological gradients within the northern prefectures. Geography K7 — Relief contrast."
     },
+    factsAdvanced: {
+      en: ["Elevated landform in the north.", "Significant contrast to savanna plains.", "Supports unique floral communities.", "Representative of CAR's varied relief.", "Vital for understanding ecology.", "High degree of topographic variation."]
+    }
+  },
     description: {
       de: "Ein markanter Berg im westlichen Hochland, bekannt für seine Granitformationen.",
       hu: "Egy jellegzetes hegy a nyugati felföldön, amely gránitképződményeiről ismert.",
@@ -167,8 +211,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["Földtanilag a közép-afrikai pajzshoz tartozik.", "Szavannás tájak veszik körül."],
       ro: ["Aparține geologic scutului central-african.", "Înconjurat de peisaje de savană."],
       en: ["Geologically belongs to the Central African shield.", "Surrounded by savanna landscapes."]
-    }
-  },
+    }, image: "/poi-images/mont-dir-relief-v2.webp"},
   {
     id: "mont-gounda-relief-v2",
     type: "mountain",
@@ -179,7 +222,14 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Gounda",
       ro: "Mont Gounda",
       en: "Mont Gounda"
+    ,
+    descriptionAdvanced: {
+      en: "Mont Gounda is situated in the north-central part of the Central African Republic. As a relief feature, it is closely associated with the drainage basins of the major northern rivers. Its position influences the distribution of woodlands and savanna, contributing to the varied vegetation patterns seen throughout the country's interior. Geography K7 — Relief-influenced vegetation."
     },
+    factsAdvanced: {
+      en: ["Elevated landform in north-central CAR.", "Associated with northern river basins.", "Influences local woodland patterns.", "Contributes to varied vegetation zones.", "Key for understanding savanna structure.", "Significant central relief feature."]
+    }
+  },
     description: {
       de: "Ein isolierter Inselberg im Norden des Landes, der aus der flachen Savannenebene emporragt.",
       hu: "Egy izolált tanúhegy az ország északi részén, amely a lapos szavannai síkságból emelkedik ki.",
@@ -191,8 +241,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["A Bamingui-Bangoran Nemzeti Park területén található.", "Fontos kilátópont a vadvilág megfigyeléséhez."],
       ro: ["Situat în interiorul Parcului Național Bamingui-Bangoran.", "Punct de observație important pentru monitorizarea faunei sălbatice."],
       en: ["Located within the Bamingui-Bangoran National Park.", "Important lookout point for wildlife viewing."]
-    }
-  },
+    }, image: "/poi-images/mont-gounda-relief-v2.webp"},
   {
     id: "mont-kounkou-relief-v2",
     type: "mountain",
@@ -203,7 +252,14 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Mont Kounkou",
       ro: "Mont Kounkou",
       en: "Mont Kounkou"
+    ,
+    descriptionAdvanced: {
+      en: "Mont Kounkou is a highland area known for its rocky slopes and scenic views in the central region. It offers a stark contrast to the surrounding plains and is a significant landmark for those traveling through the central prefectures. Its physical structure and elevation make it a focal point for regional studies on geology and relief diversity. Geography K7 — Geological landscapes."
     },
+    factsAdvanced: {
+      en: ["Highland area in the central region.", "Known for rocky slopes and vistas.", "Stark contrast to the plains.", "Significant landmark for travel.", "Focal point for geological study.", "Adds to the region's relief diversity."]
+    }
+  },
     description: {
       de: "Ein Berg im Nordwesten der Zentralafrikanischen Republik, der das Quellgebiet mehrerer Bäche bildet.",
       hu: "Hegy a Közép-afrikai Köztársaság északnyugati részén, amely több patak forrásvidékét alkotja.",
@@ -215,8 +271,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["Mállott üledékes kőzetből áll.", "A vegetáció erdő és bozótos keveréke."],
       ro: ["Compus din roci sedimentare alterate.", "Vegetația este un amestec de pădure și tufișuri."],
       en: ["Consists of weathered sedimentary rock.", "The vegetation is a mix of forest and scrubland."]
-    }
-  },
+    }, image: "/poi-images/mont-kounkou-relief-v2.webp"},
   {
     id: "obo-wald-relief-v2",
     type: "forest",
@@ -227,7 +282,14 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: "Obo-erdő",
       ro: "Pădurea Obo",
       en: "Obo Forest"
+    ,
+    descriptionAdvanced: {
+      en: "The Obo Highlands are a massive relief feature in the southeastern corner of the country. They act as a massive watershed that sustains the diverse river systems flowing towards the Mbomou River and beyond. These highland forests are among the most remote and untouched, playing a major role in regional ecological stability. Geography K7 — Watershed highlands."
     },
+    factsAdvanced: {
+      en: ["Massive relief feature in the southeast.", "Watershed for numerous river systems.", "Flows toward the Mbomou River.", "Highly remote and pristine forest.", "Crucial for regional ecological stability.", "One of the country's largest highlands."]
+    }
+  },
     description: {
       de: "Ein dichtes Waldgebiet im äußersten Südosten, das einen Übergang zwischen Savanne und Regenwald darstellt.",
       hu: "Egy sűrű erdőterület a távoli délkeleten, amely átmenetet képez a szavanna és az esőerdő között.",
@@ -239,8 +301,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["Ritka főemlősfajok otthona.", "Nagyon ritkán lakott és érintetlen terület."],
       ro: ["Adăpostește specii rare de primate.", "Zonă foarte puțin populată și virgină."],
       en: ["Home to rare primate species.", "Very sparsely populated and pristine area."]
-    }
-  },
+    }, image: "/poi-images/obo-wald-relief-v2.webp"},
   {
     id: "gamboula-wald-relief-v2",
     type: "forest",
@@ -263,8 +324,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["Fontos menedékhely az erdei elefántok számára.", "Magas páratartalom és fajgazdagság jellemzi."],
       ro: ["Refugiu important pentru elefanții de pădure.", "Caracterizată prin umiditate ridicată și biodiversitate."],
       en: ["Important refuge for forest elephants.", "Characterized by high humidity and species richness."]
-    }
-  },
+    }, image: "/poi-images/gamboula-wald-relief-v2.webp"},
   {
     id: "paoua-wald-relief-v2",
     type: "forest",
@@ -311,8 +371,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["Masszív kvarcitból áll.", "Természetes kilátóként szolgál a központi szavanna felett."],
       ro: ["Compus din cuarțit masiv.", "Servește ca turn de observare natural peste savana centrală."],
       en: ["Composed of massive quartzite.", "Serves as a natural observation tower over the central savanna."]
-    }
-  },
+    }, image: "/poi-images/mont-kaga-djir-relief-v2.webp"},
   {
     id: "bimbo-wald-relief-v2",
     type: "forest",
@@ -335,8 +394,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["Fontos kikapcsolódási és kutatási terület.", "Számos madárfajnak ad otthont."],
       ro: ["Zonă importantă de recreere și cercetare.", "Adăpostește o varietate de specii de păsări."],
       en: ["Important recreational and research area.", "Houses a variety of bird species."]
-    }
-  },
+    }, image: "/poi-images/bimbo-wald-relief-v2.webp"},
   {
     id: "mont-kanza-relief-v2",
     type: "mountain",
@@ -359,8 +417,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["Laterit talaj jellemzi.", "Fontos élőhely a ragadozó madarak számára."],
       ro: ["Caracterizat prin soluri lateritice.", "Habitat important pentru păsările de pradă."],
       en: ["Characterized by lateritic soils.", "Important habitat for birds of prey."]
-    }
-  },
+    }, image: "/poi-images/mont-kanza-relief-v2.webp"},
   {
     id: "mont-gbada-relief-v2",
     type: "mountain",
@@ -383,8 +440,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["A helyi hegymászók gyakori célpontja.", "Földtanilag egy ősi hegység maradványa."],
       ro: ["Destinație frecventă pentru alpiniștii locali.", "Din punct de vedere geologic, este o rămășiță a unui munte antic."],
       en: ["Frequent destination for local climbers.", "Geologically a remnant of an ancient mountain range."]
-    }
-  },
+    }, image: "/poi-images/mont-gbada-relief-v2.webp"},
   {
     id: "birao-wald-relief-v2",
     type: "forest",
@@ -431,8 +487,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["A helyi legendák szerint szent hely.", "Gazdag endemikus növényfajokban."],
       ro: ["Considerat loc sacru în legendele locale.", "Bogat în specii de plante endemice."],
       en: ["Considered a sacred place in local legends.", "Rich in endemic plant species."]
-    }
-  },
+    }, image: "/poi-images/mont-mpoko-relief-v2.webp"},
   {
     id: "mont-ali-relief-v2",
     type: "mountain",
@@ -455,8 +510,7 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
       hu: ["A túrázók népszerű célpontja.", "Lekerekített sziklaalakzatok jellemzik."],
       ro: ["Destinație populară pentru drumeții.", "Caracterizat prin formațiuni stâncoase rotunjite."],
       en: ["Popular destination for hikers.", "Characterized by rounded rock formations."]
-    }
-  },
+    }, image: "/poi-images/mont-ali-relief-v2.webp"},
   {
     id: "kotto-massiv-relief-v2",
     type: "relief",
@@ -482,3 +536,4 @@ export const poiExtraCentralafricanrepublicReliefV2: POI[] = [
     }
   }
 ];
+

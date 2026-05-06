@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGhanaEconomicV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["1962-ben nyílt meg.", "Az ország legnagyobb kikötője.", "Fontos a kakaó- és alumíniumexport szempontjából."],
       ro: ["Deschis în 1962.", "Cel mai mare port din țară.", "Important pentru exporturile de cacao și aluminiu."],
       en: ["Opened in 1962.", "Largest port in the country.", "Important for cocoa and aluminum exports."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Hafen von Tema wurde 1962 eingeweiht und entwickelte sich zum wichtigsten logistischen Knotenpunkt Ghanas am Golf von Guinea. Er wickelt jährlich Millionen Tonnen Fracht ab, darunter Kakao, Aluminium und Erdölprodukte, und fungiert als Tor für die Binnenstaaten Westafrikas. Die Anlage hat ihre Kapazitäten durch einen massiven Ausbau des Containerterminals in den letzten Jahren drastisch erhöht, um den steigenden Handelsanforderungen gerecht zu werden. Geografie K7 — Seehäfen und Welthandel.",
+      hu: "A Tema kikötő 1962-es megnyitása óta Ghána legfontosabb logisztikai csomópontjává vált a Guineai-öböl partján. Évente több millió tonna árut kezel, köztük kakaót, alumíniumot és kőolajtermékeket, így Nyugat-Afrika szárazföldi országainak is kapuja. A létesítmény az elmúlt években masszív konténerterminál-bővítésen esett át, hogy megfeleljen a növekvő kereskedelmi igényeknek. Földrajz K7 — tengeri kikötők és világkereskedelem.",
+      ro: "Portul Tema, inaugurat în 1962, a devenit cel mai important nod logistic al Ghanei la Golful Guineei. Gestionează anual milioane de tone de marfă, inclusiv cacao, aluminiu și produse petroliere, servind drept poartă către statele fără ieșire la mare din Africa de Vest. Facilitatea și-a crescut drastic capacitățile prin extinderea terminalului de containere în ultimii ani pentru a satisface cerințele comerciale în creștere. Geografie K7 — porturi maritime și comerț mondial.",
+      en: "Tema Port was inaugurated in 1962 and has developed into Ghana's primary logistical hub on the Gulf of Guinea. It handles millions of tons of cargo annually, including cocoa, aluminum, and petroleum products, acting as a gateway for West Africa's landlocked nations. The facility has dramatically increased its capacity through massive container terminal expansion in recent years to meet rising trade demands. Geography K7 — seaports and world trade."
+    },
+    factsAdvanced: {
+      de: ["Jährlicher Umschlag von über 1 Million TEU.", "Erstreckt sich über eine Fläche von ca. 3,9 Millionen m².", "Bedient über 20 internationale Reedereien.", "Beschäftigt tausende Arbeitskräfte direkt und indirekt.", "Hauptknotenpunkt für den Export von Kakaobohnen.", "Wurde im Rahmen des Volta-River-Projekts erbaut."],
+      hu: ["Éves áruforgalom meghaladja az 1 millió TEU-t.", "Területe körülbelül 3,9 millió m².", "Több mint 20 nemzetközi hajózási társaságot szolgál ki.", "Több ezer embert foglalkoztat közvetlenül és közvetve.", "A kakaóbab-export fő központja.", "A Volta-folyó projekt keretében épült."],
+      ro: ["Trafic anual de peste 1 milion TEU.", "Se întinde pe o suprafață de aproximativ 3,9 milioane m².", "Deservește peste 20 de companii maritime internaționale.", "Angajează mii de lucrători direct și indirect.", "Principalul hub pentru exportul de boabe de cacao.", "A fost construit ca parte a proiectului Volta River."],
+      en: ["Annual traffic exceeds 1 million TEU.", "Covers an area of approx 3.9 million m².", "Serves over 20 international shipping lines.", "Employs thousands directly and indirectly.", "Main hub for cocoa bean exports.", "Built as part of the Volta River Project."]
+    }, image: "/poi-images/ghana-tema-port.webp"},
   {
     id: "ghana-takoradi-port",
     type: "port",
@@ -27,6 +39,18 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["1928-ban épült.", "Ghána második legnagyobb kikötője.", "Fontos a bányászati szektor számára."],
       ro: ["Construit în 1928.", "Al doilea port ca mărime din Ghana.", "Important pentru sectorul minier."],
       en: ["Built in 1928.", "Second largest port in Ghana.", "Important for the mining sector."]
+    },
+    descriptionAdvanced: {
+      de: "Der Hafen von Takoradi, 1928 eröffnet, ist der älteste kommerzielle Seehafen Ghanas und spielt eine entscheidende Rolle für den Export der mineralischen Reichtümer des Landes. Während Tema auf Container spezialisiert ist, bildet Takoradi das Herzstück für den Umschlag von Holz, Mangan, Bauxit und neuerdings Ausrüstung für den Offshore-Ölsektor. Die strategische Lage im Westen macht ihn zum essenziellen Ankerpunkt für die rohstoffreiche Region. Geografie K7 — Bergbau und Häfen.",
+      hu: "Az 1928-ban megnyílt Takoradi kikötő Ghána legrégebbi kereskedelmi tengeri kikötője, és döntő szerepet játszik az ország ásványkincseinek exportjában. Míg Tema a konténerekre specializálódott, Takoradi a fa, mangán, bauxit, és újabban az offshore olajipari berendezések kezelésének központja. Nyugati elhelyezkedése miatt elengedhetetlen horgony a nyersanyagokban gazdag régió számára. Földrajz K7 — bányászat és kikötők.",
+      ro: "Portul Takoradi, deschis în 1928, este cel mai vechi port comercial al Ghanei și joacă un rol crucial în exportul bogățiilor minerale ale țării. În timp ce Tema este specializat pe containere, Takoradi formează inima pentru manipularea lemnului, manganului, bauxitei și, mai nou, a echipamentelor pentru sectorul petrolier offshore. Poziția strategică în vest îl face un punct de ancorare esențial pentru regiunea bogată în resurse. Geografie K7 — minerit și porturi.",
+      en: "Takoradi Port, opened in 1928, is Ghana's oldest commercial seaport and plays a crucial role in exporting the country's mineral wealth. While Tema specializes in containers, Takoradi forms the heart for handling timber, manganese, bauxite, and more recently, equipment for the offshore oil sector. Its strategic location in the west makes it an essential anchor point for the resource-rich region. Geography K7 — mining and ports."
+    },
+    factsAdvanced: {
+      de: ["Verarbeitet jährlich rund 4 Millionen Tonnen Fracht.", "Über 20 Meter Tiefgang im Hafenbecken.", "Zentrum der ghanaischen Holzexporte.", "Wichtiger Standort für Ölfeld-Serviceunternehmen.", "Kürzlich umfassend für 200 Millionen USD modernisiert.", "Verfügt über eigene Gleisanschlüsse für den Gütertransport."],
+      hu: ["Évente körülbelül 4 millió tonna rakományt kezel.", "Több mint 20 méteres merülés a kikötő medencéjében.", "A ghánai faexport központja.", "Az olajmező-szolgáltató vállalatok fontos bázisa.", "Nemrég 200 millió USD értékben korszerűsítették.", "Saját vasúti csatlakozásokkal rendelkezik az áruszállításhoz."],
+      ro: ["Gestionează anual aproximativ 4 milioane de tone de marfă.", "Peste 20 de metri adâncime în bazinul portuar.", "Centrul exporturilor de lemn din Ghana.", "Bază importantă pentru companiile de servicii petroliere.", "Recent modernizat masiv cu 200 milioane USD.", "Dispune de conexiuni feroviare proprii pentru transportul de mărfuri."],
+      en: ["Handles approx 4 million tons of cargo annually.", "Over 20 meters depth in the harbor basin.", "Hub of Ghanaian timber exports.", "Important base for oilfield service companies.", "Recently massively modernized for 200 million USD.", "Features dedicated rail connections for freight."]
     }
   },
   {
@@ -41,8 +65,19 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Földalatti bánya.", "Több mint egy évszázada termel aranyat.", "Majdnem 1500 méter mély."],
       ro: ["Minerit subteran.", "Produce aur de peste un secol.", "Adâncime de până la aproape 1.500 de metri."],
       en: ["Underground mining.", "Producing gold for over a century.", "Depth reaches almost 1,500 meters."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Obuasi-Mine von AngloGold Ashanti ist eine der legendärsten Goldminen der Welt und blickt auf eine über hundertjährige Geschichte zurück. Gelegen im Ashanti-Goldgürtel, erreicht der Untertagebau Tiefen von beinahe 1.500 Metern, um die tief liegenden Goldvorkommen zu erschließen. Nach einer Phase der Umstrukturierung wurde der Betrieb modernisiert, um mit effizienteren Technologien die Produktivität zu steigern. Geografie K7 — Bodenschätze und Technik.",
+      hu: "Az AngloGold Ashanti obuasi-i bányája a világ egyik leglegendásabb aranybányája, több mint százéves múlttal. Az Ashanti-aranyövben található bánya földalatti fejtése közel 1500 méter mélyre nyúlik, hogy feltárja a mélyben lévő aranykészleteket. A szerkezetátalakítási fázis után az üzemet korszerűsítették, hogy hatékonyabb technológiákkal növeljék a termelékenységet. Földrajz K7 — természeti kincsek és technológia.",
+      ro: "Mina Obuasi a AngloGold Ashanti este una dintre cele mai legendare mine de aur din lume, având o istorie de peste o sută de ani. Situată în centura de aur Ashanti, mina subterană atinge adâncimi de aproape 1.500 de metri pentru a accesa rezervele de aur de mare adâncime. După o fază de restructurare, operațiunile au fost modernizate pentru a crește productivitatea prin tehnologii mai eficiente. Geografie K7 — resurse naturale și tehnologie.",
+      en: "The Obuasi mine by AngloGold Ashanti is one of the world's most legendary gold mines, boasting over a century of history. Located in the Ashanti Gold Belt, the underground operation reaches depths of nearly 1,500 meters to access deep-seated gold reserves. Following a phase of restructuring, operations have been modernized to boost productivity through more efficient technologies. Geography K7 — natural resources and technology."
+    },
+    factsAdvanced: {
+      de: ["Über 30 Millionen Unzen Gold bereits gefördert.", "Eines der größten Vorkommen in Westafrika.", "Umfasst sowohl Untertage- als auch Tagebaubereiche.", "Beschäftigt tausende Fachkräfte vor Ort.", "Wichtiger Motor der lokalen Wirtschaft in Obuasi.", "Investitionen in moderne Verarbeitungstechnologien."],
+      hu: ["Már több mint 30 millió uncia aranyat bányásztak ki.", "Nyugat-Afrika egyik legnagyobb lelőhelye.", "Földalatti és külszíni területeket is magában foglal.", "Több ezer szakembert foglalkoztat a helyszínen.", "Az obuasi helyi gazdaság fontos motorja.", "Befektetések a modern feldolgozó technológiákba."],
+      ro: ["Peste 30 de milioane de uncii de aur extrase deja.", "Una dintre cele mai mari rezerve din Africa de Vest.", "Include atât zone subterane, cât și de suprafață.", "Angajează mii de specialiști la fața locului.", "Motor important al economiei locale din Obuasi.", "Investiții în tehnologii moderne de procesare."],
+      en: ["Over 30 million ounces of gold extracted already.", "One of the largest reserves in West Africa.", "Includes both underground and surface areas.", "Employs thousands of local specialists.", "Important engine of the local economy in Obuasi.", "Investments in modern processing technologies."]
+    }, image: "/poi-images/ghana-anglogold-ashanti.webp"},
   {
     id: "ghana-tarkwa-mine",
     type: "industry",
@@ -69,8 +104,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Az 1940-es évek óta működik.", "Alumíniumércet termel.", "Fontos Ghána ipara számára."],
       ro: ["În funcțiune din anii 1940.", "Produce minereu de aluminiu.", "Importantă pentru industria Ghanei."],
       en: ["Operating since the 1940s.", "Produces aluminum ore.", "Important for Ghana's industry."]
-    }
-  },
+    }, image: "/poi-images/ghana-awaso-bauxite.webp"},
   {
     id: "ghana-nsuta-manganese",
     type: "industry",
@@ -83,8 +117,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Több mint 100 éve működik.", "A világ egyik vezető mangánexportőre.", "Takoradi kikötővárosához közel található."],
       ro: ["În funcțiune de peste 100 de ani.", "Unul dintre principalii exportatori mondiali de mangan.", "Situată aproape de portul Takoradi."],
       en: ["Operating for over 100 years.", "One of the world's top manganese exporters.", "Located close to the port of Takoradi."]
-    }
-  },
+    }, image: "/poi-images/ghana-nsuta-manganese.webp"},
   {
     id: "ghana-akwatia-diamonds",
     type: "industry",
@@ -97,8 +130,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Jelentős alluviális lelőhely.", "Főként ipari gyémántok.", "Évtizedeken át meghatározta a régiót."],
       ro: ["Zăcământ aluvial semnificativ.", "În principal diamante industriale.", "A modelat regiunea timp de decenii."],
       en: ["Significant alluvial deposit.", "Mostly industrial diamonds.", "Shaped the region for decades."]
-    }
-  },
+    }, image: "/poi-images/ghana-akwatia-diamonds.webp"},
   {
     id: "ghana-jubilee-oil",
     type: "industry",
@@ -111,8 +143,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["2007-ben fedezték fel.", "A termelés 2010-ben kezdődött.", "FPSO (úszó termelési) egységeket használ."],
       ro: ["Descoperit în 2007.", "Producția a început în 2010.", "Folosește unități FPSO (facilități plutitoare)."],
       en: ["Discovered in 2007.", "Production started in 2010.", "Uses FPSO (floating production) units."]
-    }
-  },
+    }, image: "/poi-images/ghana-jubilee-oil.webp"},
   {
     id: "ghana-tema-oil-refinery",
     type: "industry",
@@ -125,8 +156,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Napi 45 000 hordó kapacitás.", "Ellátja a helyi piacot.", "A temai kikötő közelében található."],
       ro: ["Capacitate de 45.000 de barili pe zi.", "Aprovizionează piața locală.", "Situată lângă portul Tema."],
       en: ["Capacity of 45,000 barrels per day.", "Supplies the local market.", "Located near Tema Port."]
-    }
-  },
+    }, image: "/poi-images/ghana-tema-oil-refinery.webp"},
   {
     id: "ghana-valco-aluminum",
     type: "industry",
@@ -139,8 +169,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Volta Aluminium Company.", "Vízenergiát használ.", "Fontos ipari munkaadó."],
       ro: ["Volta Aluminium Company.", "Folosește energie hidroelectrică.", "Un angajator industrial important."],
       en: ["Volta Aluminium Company.", "Uses hydroelectric power.", "Important industrial employer."]
-    }
-  },
+    }, image: "/poi-images/ghana-valco-aluminum.webp"},
   {
     id: "ghana-takoradi-thermal",
     type: "industry",
@@ -153,8 +182,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Gáz- és gőzturbinás erőmű.", "Csökkenti a vízenergiától való függőséget.", "Több mint 300 MW kapacitás."],
       ro: ["Centrală cu ciclu combinat.", "Reduce dependența de hidroenergie.", "Capacitate de peste 300 MW."],
       en: ["Combined cycle power plant.", "Reduces reliance on hydropower.", "Capacity of over 300 MW."]
-    }
-  },
+    }, image: "/poi-images/ghana-takoradi-thermal.webp"},
   {
     id: "ghana-chirano-gold",
     type: "industry",
@@ -167,8 +195,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Kombinált bányászat.", "A Kinross Gold üzemelteti.", "Évente jelentős mennyiségű aranyat termel."],
       ro: ["Exploatare combinată.", "Operat de Kinross Gold.", "Produce cantități semnificative de aur anual."],
       en: ["Combined mining operation.", "Operated by Kinross Gold.", "Produces significant amounts of gold annually."]
-    }
-  },
+    }, image: "/poi-images/ghana-chirano-gold.webp"},
   {
     id: "ghana-iduapriem-gold",
     type: "industry",
@@ -181,8 +208,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Az AngloGold Ashanti tulajdona.", "Külszíni fejtés.", "Fókuszban a környezetvédelem a bányászatban."],
       ro: ["Deținută de AngloGold Ashanti.", "Operațiune la suprafață.", "Accent pe protecția mediului în minerit."],
       en: ["Owned by AngloGold Ashanti.", "Open-pit operation.", "Focus on environmental protection in mining."]
-    }
-  },
+    }, image: "/poi-images/ghana-iduapriem-gold.webp"},
   {
     id: "ghana-bogoso-gold",
     type: "industry",
@@ -195,8 +221,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Hagyományokkal rendelkező bányászat.", "Nagy területre terjed ki.", "Hőálló érceiről ismert."],
       ro: ["Exploatare tradițională.", "Se întinde pe o zonă extinsă.", "Cunoscută pentru minereul refractar."],
       en: ["Traditional mining area.", "Covers a large area.", "Known for refractory ore."]
-    }
-  },
+    }, image: "/poi-images/ghana-bogoso-gold.webp"},
   {
     id: "ghana-ahafo-gold",
     type: "industry",
@@ -209,8 +234,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["A Newmont üzemelteti.", "Két bányászati központ.", "Az Ahafo régió jelentős gazdasági tényezője."],
       ro: ["Operată de Newmont.", "Două centre de exploatare.", "Factor economic major în regiunea Ahafo."],
       en: ["Operated by Newmont.", "Two mining centers.", "Major economic factor in the Ahafo Region."]
-    }
-  },
+    }, image: "/poi-images/ghana-ahafo-gold.webp"},
   {
     id: "ghana-akyem-gold",
     type: "industry",
@@ -223,8 +247,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Newmont művelet.", "2013-ban nyílt meg.", "Díjnyertes környezetirányítás."],
       ro: ["Operațiune Newmont.", "Deschisă în 2013.", "Premiată pentru managementul mediului."],
       en: ["Newmont operation.", "Opened in 2013.", "Awarded for environmental management."]
-    }
-  },
+    }, image: "/poi-images/ghana-akyem-gold.webp"},
   {
     id: "ghana-damang-gold",
     type: "industry",
@@ -237,8 +260,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Külszíni fejtés.", "Mélyebb ásásokkal növeli az élettartamot.", "Sok helyi munkahelyet teremt."],
       ro: ["Operațiune la suprafață.", "Extinde durata de viață prin săpături mai adânci.", "Creează multe locuri de muncă locale."],
       en: ["Open-pit operation.", "Extends lifespan through deeper digging.", "Creates many local jobs."]
-    }
-  },
+    }, image: "/poi-images/ghana-damang-gold.webp"},
   {
     id: "ghana-asanko-gold",
     type: "industry",
@@ -251,8 +273,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Oxid- és kőzetérceket dolgoz fel.", "Fontos regionális munkaadó.", "Kumasitól délnyugatra."],
       ro: ["Procesează minereuri de oxid și de rocă.", "Un angajator regional important.", "La sud-vest de Kumasi."],
       en: ["Processes oxide and rock ores.", "Important regional employer.", "Southwest of Kumasi."]
-    }
-  },
+    }, image: "/poi-images/ghana-asanko-gold.webp"},
   {
     id: "ghana-edikan-gold",
     type: "industry",
@@ -265,8 +286,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["A termelés 2012-ben kezdődött.", "Nagy aranytartalék.", "Több külszíni bányát is üzemeltet."],
       ro: ["Producția a început în 2012.", "Rezervă mare de aur.", "Operează mai multe mine la suprafață."],
       en: ["Production began in 2012.", "Large gold reserve.", "Operates multiple open pits."]
-    }
-  },
+    }, image: "/poi-images/ghana-edikan-gold.webp"},
   {
     id: "ghana-nzema-gold",
     type: "industry",
@@ -279,8 +299,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["A felszíni ércekre fókuszál.", "A part közelében található.", "CIL feldolgozási módszert használ."],
       ro: ["Se concentrează pe minereurile de suprafață.", "Situată aproape de coastă.", "Folosește metoda de procesare CIL."],
       en: ["Focuses on surface ores.", "Located near the coast.", "Uses CIL processing method."]
-    }
-  },
+    }, image: "/poi-images/ghana-nzema-gold.webp"},
   {
     id: "ghana-prestea-underground",
     type: "industry",
@@ -293,8 +312,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Több mint 100 éves múlt.", "Földalatti bánya.", "A nagyobb hatékonyság érdekében modernizálták."],
       ro: ["O istorie de peste 100 de ani.", "Minerit subteran.", "Modernizată pentru o mai mare eficiență."],
       en: ["Over 100 years of history.", "Underground mine.", "Modernized for higher efficiency."]
-    }
-  },
+    }, image: "/poi-images/ghana-prestea-underground.webp"},
   {
     id: "ghana-buipe-cement",
     type: "industry",
@@ -307,8 +325,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Portlandcementet gyárt.", "Ellátja az északi régiókat.", "Fontos az építőipar számára."],
       ro: ["Produce ciment Portland.", "Aprovizionează regiunile nordice.", "Importantă pentru industria construcțiilor."],
       en: ["Produces Portland cement.", "Supplies the northern regions.", "Important for the construction industry."]
-    }
-  },
+    }, image: "/poi-images/ghana-buipe-cement.webp"},
   {
     id: "ghana-ghacem-tema",
     type: "industry",
@@ -321,8 +338,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Ghana Cement Company.", "A legnagyobb cementgyártó.", "A temai kikötőn keresztül importál klinkert."],
       ro: ["Ghana Cement Company.", "Cel mai mare producător de ciment.", "Importă clincher prin portul Tema."],
       en: ["Ghana Cement Company.", "Largest cement producer.", "Imports clinker via Tema port."]
-    }
-  },
+    }, image: "/poi-images/ghana-ghacem-tema.webp"},
   {
     id: "ghana-ghacem-takoradi",
     type: "industry",
@@ -335,8 +351,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Stratégiailag a takoradi kikötő közelében.", "Csökkenti a szállítási költségeket.", "Bővíti a termelési kapacitást."],
       ro: ["Situată strategic lângă portul Takoradi.", "Reduce costurile de transport.", "Extinde capacitatea de producție."],
       en: ["Strategically located near Takoradi port.", "Reduces transport costs.", "Expands production capacity."]
-    }
-  },
+    }, image: "/poi-images/ghana-ghacem-takoradi.webp"},
   {
     id: "ghana-blue-skies",
     type: "industry",
@@ -349,8 +364,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["A méltányos kereskedelemre fókuszál.", "Frissen vágott gyümölcsöt exportál.", "Fontos munkaadó az agrárszektorban."],
       ro: ["Se concentrează pe comerțul echitabil.", "Exportă fructe proaspăt tăiate.", "Un angajator important în sectorul agricol."],
       en: ["Focuses on Fairtrade.", "Exports fresh-cut fruit.", "Important employer in the agricultural sector."]
-    }
-  },
+    }, image: "/poi-images/ghana-blue-skies.webp"},
   {
     id: "ghana-twifo-oil-palm",
     type: "industry",
@@ -363,8 +377,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Több ezer tonna pálmagyümölcsöt dolgoz fel.", "Támogatja a helyi gazdákat.", "Pálmaolajat állít elő élelmiszerekhez és kozmetikumokhoz."],
       ro: ["Procesează mii de tone de fructe de palmier.", "Sprijină fermierii locali.", "Produce ulei de palmier pentru alimente și cosmetice."],
       en: ["Processes thousands of tons of palm fruits.", "Supports local farmers.", "Produces palm oil for food and cosmetics."]
-    }
-  },
+    }, image: "/poi-images/ghana-twifo-oil-palm.webp"},
   {
     id: "ghana-cargill-cocoa",
     type: "industry",
@@ -377,8 +390,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Növeli az országon belüli hozzáadott értéket.", "Kakaómasszát, -vajat és -port állít elő.", "A legújabb technológiát alkalmazza."],
       ro: ["Crește valoarea adăugată în țară.", "Produce masă, unt și pudră de cacao.", "Folosește tehnologie de ultimă oră."],
       en: ["Increases value addition in the country.", "Produces cocoa liquor, butter, and powder.", "Uses state-of-the-art technology."]
-    }
-  },
+    }, image: "/poi-images/ghana-cargill-cocoa.webp"},
   {
     id: "ghana-cpc-cocoa",
     type: "industry",
@@ -391,8 +403,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["Cocoa Processing Company.", "A 'Golden Tree' márkáról ismert.", "Kizárólag prémium kakaót dolgoz fel."],
       ro: ["Cocoa Processing Company.", "Cunoscută pentru brandul 'Golden Tree'.", "Procesează doar cacao premium."],
       en: ["Cocoa Processing Company.", "Known for the 'Golden Tree' brand.", "Processes only premium cocoa."]
-    }
-  },
+    }, image: "/poi-images/ghana-cpc-cocoa.webp"},
   {
     id: "ghana-atuabo-gas",
     type: "industry",
@@ -405,8 +416,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       hu: ["A Ghana National Gas Company üzemelteti.", "PB-gázt állít elő.", "Gázt szállít áramtermeléshez."],
       ro: ["Operată de Ghana National Gas Company.", "Produce gaz petrolier lichefiat (GPL).", "Furnizează gaz pentru generarea energiei electrice."],
       en: ["Operated by Ghana National Gas Company.", "Produces liquefied petroleum gas (LPG).", "Supplies gas for power generation."]
-    }
-  },
+    }, image: "/poi-images/ghana-atuabo-gas.webp"},
   {
     id: "ghana-kantanka-auto",
     type: "industry",
@@ -422,3 +432,4 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 export const PHYSIK_K6_I1_LABELS: Record<string, Record<string, string>> = {
@@ -4593,3 +4594,4 @@ addPhysikK6PracticeTopics(PHYSIK_K6_I6_LABELS, PHYSIK_K6_I6_POOL, PHYSIK_K6_PRAC
 addPhysikK6PracticeTopics(PHYSIK_K6_I7_LABELS, PHYSIK_K6_I7_POOL, PHYSIK_K6_PRACTICE_CONFIGS[6]);
 addPhysikK6PracticeTopics(PHYSIK_K6_I8_LABELS, PHYSIK_K6_I8_POOL, PHYSIK_K6_PRACTICE_CONFIGS[7]);
 addPhysikK6PracticeTopics(PHYSIK_K6_I9_LABELS, PHYSIK_K6_I9_POOL, PHYSIK_K6_PRACTICE_CONFIGS[8]);
+

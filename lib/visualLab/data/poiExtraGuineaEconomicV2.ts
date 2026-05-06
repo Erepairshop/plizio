@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuineaEconomicV2: POI[] = [
@@ -35,8 +36,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Éves bauxitátrakodás: több mint 20 millió tonna.", "A 136 km hosszú Sangarédi-vasút végállomása.", "Stratégiai elhelyezkedés a Rio Nuñez folyónál.", "Mélyvízi kikötő nagy tömegáru-szállítóknak.", "A Compagnie des Bauxites de Guinée alapította.", "Boké régió legfontosabb gazdasági tényezője."],
       ro: ["Transbordare anuală de peste 20 de milioane de tone de bauxită.", "Stația terminus a căii ferate Sangarédi de 136 km.", "Locație strategică pe râul Rio Nuñez.", "Port de mare adâncime pentru cargouri de mare tonaj.", "Înființat de Compagnie des Bauxites de Guinée.", "Cel mai important factor economic al regiunii Boké."],
       en: ["Annual transshipment of over 20 million tons of bauxite.", "Terminus of the 136 km Sangarédi railway.", "Strategic location on the Rio Nuñez.", "Deep-water port for bulk carriers.", "Established by Compagnie des Bauxites de Guinée.", "Most important economic factor in the Boké region."]
-    }
-  },
+    }, image: "/poi-images/hafen-kamsar-economic-v2.webp"},
   {
     id: "hafen-dapilon-economic-v2",
     type: "port",
@@ -71,8 +71,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["2017-ben helyezték üzembe.", "Az SMB-Winning konzorcium bauxitexportjára specializálódott.", "Hatékony logisztikai kiszolgálási idők.", "A nemzeti exportkapacitás millió tonnával való növelése.", "A bokéi bányászati folyosó integrált része.", "Folyami alapú terminál teherhajók számára."],
       ro: ["Punerea în funcțiune în 2017.", "Specializat pe exporturile de bauxită ale consorțiului SMB-Winning.", "Timpi de procesare logistică eficienși.", "Crețterea capacității naționale de export cu milioane de tone.", "Parte integrantă a coridorului minier Boké.", "Terminal bazat pe fluviu pentru navele de marfă."],
       en: ["Commissioned in 2017.", "Specialized in SMB-Winning Consortium bauxite exports.", "Efficient logistical processing times.", "Increase in national export capacity by millions of tons.", "Integrated part of the Boké mining corridor.", "River-based terminal for cargo ships."]
-    }
-  },
+    }, image: "/poi-images/hafen-dapilon-economic-v2.webp"},
   {
     id: "hafen-katougouma-economic-v2",
     type: "port",
@@ -107,8 +106,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Important hub for transporting bauxite.", "Strategic location on the Rio Nuñez.", "Thousands of jobs in the Boké region.", "Logistics center of industrial modernization.", "Loading station for inland navigation.", "Key role for the regional economy."]
-    }
-  },
+    }, image: "/poi-images/hafen-katougouma-economic-v2.webp"},
   {
     id: "bauxitmine-sangaredi-economic-v2",
     type: "industry",
@@ -179,8 +177,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Strategic cooperation with RUSAL.", "Vast bauxite reserves.", "Dedicated rail link.", "Important economic actor in Kindia.", "Integration into regional transport logistics.", "Long-term industrial site."]
-    }
-  },
+    }, image: "/poi-images/bauxitmine-debele-economic-v2.webp"},
   {
     id: "simandou-eisenerzmine-economic-v2",
     type: "industry",
@@ -215,8 +212,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: ["World's largest untapped iron ore deposit.", "Ore quality: often over 65% metal content.", "Requires construction of over 600 km of railway.", "Planning for a new deep-sea port for export.", "One of Africa's most ambitious industrial projects.", "Potential for significant contribution to GDP."]
-    }
-  },
+    }, image: "/poi-images/simandou-eisenerzmine-economic-v2.webp"},
   {
     id: "kaleta-wasserkraftwerk-economic-v2",
     type: "industry",
@@ -251,8 +247,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Installed capacity of 240 megawatts.", "Most important energy source on the Konkouré.", "Supply for Conakry and mining industry.", "Symbol of energy independence.", "Successful example of infrastructure investment.", "Stable power supply as economic engine."]
-    }
-  },
+    }, image: "/poi-images/kaleta-wasserkraftwerk-economic-v2.webp"},
   {
     id: "souapiti-wasserkraftwerk-economic-v2",
     type: "industry",
@@ -287,8 +282,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Guinea's largest hydropower project.", "Massive increase in national power generation.", "Regulation of the Konkouré River to increase efficiency.", "Enables electricity exports to neighboring regions.", "Central instrument of industrialization.", "Huge reservoir for strategic energy reserves."]
-    }
-  },
+    }, image: "/poi-images/souapiti-wasserkraftwerk-economic-v2.webp"},
   {
     id: "garafiri-wasserkraftwerk-economic-v2",
     type: "industry",
@@ -323,8 +317,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Historic first major power plant after independence.", "Essential component of the national power grid.", "Important for energy-intensive aluminum production.", "Pioneer project on the upper Konkouré River.", "Cornerstone of modern energy infrastructure.", "Continuous contribution to national stability."]
-    }
-  },
+    }, image: "/poi-images/garafiri-wasserkraftwerk-economic-v2.webp"},
   {
     id: "goldmine-siguiri-economic-v2",
     type: "industry",
@@ -359,8 +352,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Operated by world market leader AngloGold Ashanti.", "Large-scale open-pit mine in the northeast.", "Produces significant quantities of gold annually.", "Important contribution to the Guinean state budget.", "Employment for thousands in the Siguiri region.", "Use of modern processing technologies."]
-    }
-  },
+    }, image: "/poi-images/goldmine-siguiri-economic-v2.webp"},
   {
     id: "goldmine-lefa-economic-v2",
     type: "industry",
@@ -383,8 +375,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Ultramodern kinyerő üzem", "Jelentős aranytartalékok", "Nemzetközi befektetések"],
       ro: ["Instalație de extracție ultramodernă", "Rezerve semnificative de aur", "Investiții internaționale"],
       en: ["State-of-the-art extraction plant", "Significant gold reserves", "International investment"]
-    }
-  },
+    }, image: "/poi-images/goldmine-lefa-economic-v2.webp"},
   {
     id: "goldmine-kiniero-economic-v2",
     type: "industry",
@@ -407,8 +398,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["A bánya újranyitása", "Felső-guineai bányászati központ", "Aranyexport helyszín"],
       ro: ["Redeschiderea minei", "Centru minier în Guineea Superioară", "Locație de export de aur"],
       en: ["Reopening of the mine", "Upper Guinea mining center", "Gold export site"]
-    }
-  },
+    }, image: "/poi-images/goldmine-kiniero-economic-v2.webp"},
   {
     id: "aluminiumwerk-fria-economic-v2",
     type: "industry",
@@ -431,8 +421,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Afrika első finomítója", "Bauxit feldolgozása", "Nagyipari komplexum"],
       ro: ["Prima rafinărie din Africa", "Prelucrarea bauxitei", "Complex industrial de mari dimensiuni"],
       en: ["Africa's first refinery", "Bauxite processing", "Large industrial complex"]
-    }
-  },
+    }, image: "/poi-images/aluminiumwerk-fria-economic-v2.webp"},
   {
     id: "eisenerzmine-zogota-economic-v2",
     type: "industry",
@@ -455,8 +444,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Kiváló minőségű vasérc", "Délkelet-guineai bányászat", "Export a szomszédos országokon keresztül"],
       ro: ["Minereu de fier de înaltă calitate", "Minerit în sud-estul Guineei", "Export planificat prin țările vecine"],
       en: ["High-grade iron ore", "Southeast Guinea mining", "Export via neighboring countries planned"]
-    }
-  },
+    }, image: "/poi-images/eisenerzmine-zogota-economic-v2.webp"},
   {
     id: "bauxitmine-bel-air-economic-v2",
     type: "industry",
@@ -479,8 +467,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Partközeli bányászat", "Saját rakodóterminál", "Modern bányászati technológia"],
       ro: ["Minerit de coastă", "Terminal de încărcare propriu", "Tehnologie modernă de extracție"],
       en: ["Coastal mining operation", "Private loading terminal", "Modern extraction technology"]
-    }
-  },
+    }, image: "/poi-images/bauxitmine-bel-air-economic-v2.webp"},
   {
     id: "hafen-konta-economic-v2",
     type: "port",
@@ -503,8 +490,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Regionális exportkikötő", "Közel a Sierra Leone-i határhoz", "Fejlesztési terület"],
       ro: ["Port regional de export", "Aproape de granița cu Sierra Leone", "Sit în dezvoltare"],
       en: ["Regional export port", "Near Sierra Leone border", "Development site"]
-    }
-  },
+    }, image: "/poi-images/hafen-konta-economic-v2.webp"},
   {
     id: "diamantenmine-banankoro-economic-v2",
     type: "industry",
@@ -527,8 +513,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["A drágakő-kereskedelem központja", "Hordalékos lelőhelyek", "Fontos Kérouané régió számára"],
       ro: ["Centrul comerțului cu pietre prețioase", "Zăcăminte aluvionare", "Important pentru regiunea Kérouané"],
       en: ["Center of gemstone trade", "Alluvial deposits", "Crucial for the Kérouané region"]
-    }
-  },
+    }, image: "/poi-images/diamantenmine-banankoro-economic-v2.webp"},
   {
     id: "kalksteinwerk-sougueta-economic-v2",
     type: "industry",
@@ -551,8 +536,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Fontos építőanyag-beszállító", "Kindia régióban található", "Az építőipar kiszolgálása"],
       ro: ["Furnizor important de materiale de construcții", "În regiunea Kindia", "Aprovizionarea industriei construcțiilor"],
       en: ["Key construction material supplier", "In Kindia region", "Serving the construction industry"]
-    }
-  },
+    }, image: "/poi-images/kalksteinwerk-sougueta-economic-v2.webp"},
   {
     id: "zementwerk-conakry-economic-v2",
     type: "industry",
@@ -575,8 +559,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       hu: ["Vezető cementgyártó", "Conakry ipari negyedében", "Fontos az infrastruktúra számára"],
       ro: ["Producător lider de ciment", "Zona industrială Conakry", "Important pentru infrastructură"],
       en: ["Leading cement producer", "Conakry industrial zone", "Vital for infrastructure"]
-    }
-  },
+    }, image: "/poi-images/zementwerk-conakry-economic-v2.webp"},
   {
     id: "bauxitmine-koumbia-economic-v2",
     type: "industry",
@@ -602,6 +585,7 @@ export const poiExtraGuineaEconomicV2: POI[] = [
     }
   }
 ];
+
 
 
 

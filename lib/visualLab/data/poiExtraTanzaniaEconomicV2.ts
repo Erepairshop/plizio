@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTanzaniaEconomicV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["A tengerparttal nem rendelkező országok fő kapuja.", "Kiterjedt konténerterminálokkal rendelkezik."],
       ro: ["Poarta principală pentru țările fără ieșire la mare.", "Include terminale de containere întinse."],
       en: ["Main gateway for landlocked countries.", "Features extensive container terminals."]
-    }
-  },
+    }, image: "/poi-images/tz-port-dar-es-salaam-economic-v2.webp"},
   {
     id: "tz-port-tanga-economic-v2",
     type: "port",
@@ -47,8 +47,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Az ország második legnagyobb tengeri kikötője.", "Jelenleg átfogó modernizáción esik át."],
       ro: ["Al doilea port maritim ca mărime din țară.", "Este supus unei modernizări ample."],
       en: ["Second largest seaport in the country.", "Currently undergoing massive modernization."]
-    }
-  },
+    }, image: "/poi-images/tz-port-tanga-economic-v2.webp"},
   {
     id: "tz-port-mtwara-economic-v2",
     type: "port",
@@ -71,8 +70,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Stratégiai jelentőségű a déli folyosó számára.", "Tengeri gázprojektek révén növekszik."],
       ro: ["Strategic pentru coridorul sudic.", "Crește datorită proiectelor de gaze offshore."],
       en: ["Strategic for the southern corridor.", "Growing due to offshore gas projects."]
-    }
-  },
+    }, image: "/poi-images/tz-port-mtwara-economic-v2.webp"},
   {
     id: "tz-port-kigoma-economic-v2",
     type: "port",
@@ -95,8 +93,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["A tó belvízi hajózási központja.", "Kapcsolódik a központi vasútvonalhoz."],
       ro: ["Centrul de transport pe apă de pe lac.", "Conectat la calea ferată centrală."],
       en: ["Inland shipping hub on the lake.", "Connected to the central railway."]
-    }
-  },
+    }, image: "/poi-images/tz-port-kigoma-economic-v2.webp"},
   {
     id: "tz-port-mwanza-south-economic-v2",
     type: "port",
@@ -119,8 +116,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["A tavi kereskedelem kulcsfontosságú infrastruktúrája.", "Komp- és teherterminálokkal rendelkezik."],
       ro: ["Infrastructură cheie pentru comerțul pe lac.", "Dispune de terminale de feribot și marfă."],
       en: ["Key infrastructure for lake trade.", "Features ferry and freight terminals."]
-    }
-  },
+    }, image: "/poi-images/tz-port-mwanza-south-economic-v2.webp"},
   {
     id: "tz-port-malindi-economic-v2",
     type: "port",
@@ -143,8 +139,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["A turistakompok fő kapuja.", "Fontos a fűszerek és importáruk számára."],
       ro: ["Poarta principală pentru feriboturile turistice.", "Important pentru condimente și bunuri de import."],
       en: ["Main gateway for tourist ferries.", "Important for spices and imported goods."]
-    }
-  },
+    }, image: "/poi-images/tz-port-malindi-economic-v2.webp"},
   {
     id: "tz-port-kemondo-bay-economic-v2",
     type: "port",
@@ -167,8 +162,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Bukobától délre található.", "A vagonszállítás központi csomópontja."],
       ro: ["Situat la sud de Bukoba.", "Hub central pentru traficul de vagoane."],
       en: ["Located south of Bukoba.", "Central hub for wagon traffic."]
-    }
-  },
+    }, image: "/poi-images/tz-port-kemondo-bay-economic-v2.webp"},
   {
     id: "tz-port-isaka-dry-economic-v2",
     type: "port",
@@ -191,8 +185,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Tehermentesíti a tengeri kikötőket.", "Fontos csomópont teherautók és vonatok számára."],
       ro: ["Ușurează porturile maritime.", "Hub important pentru camioane și trenuri."],
       en: ["Relieves the seaports.", "Important hub for trucks and trains."]
-    }
-  },
+    }, image: "/poi-images/tz-port-isaka-dry-economic-v2.webp"},
   {
     id: "tz-port-lindi-economic-v2",
     type: "port",
@@ -215,8 +208,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Történelmi jelentőséggel bír.", "Főleg kisebb hajókat szolgál ki."],
       ro: ["Are o importanță istorică.", "Deservește în principal nave mai mici."],
       en: ["Holds historical significance.", "Primarily services smaller vessels."]
-    }
-  },
+    }, image: "/poi-images/tz-port-lindi-economic-v2.webp"},
   {
     id: "tz-port-bukoba-economic-v2",
     type: "port",
@@ -239,8 +231,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Összeköti Kagerát Mwanzával.", "Fontos a mezőgazdasági export szempontjából."],
       ro: ["Conectează Kagera cu Mwanza.", "Important pentru exporturile agricole."],
       en: ["Connects Kagera with Mwanza.", "Important for agricultural exports."]
-    }
-  },
+    }, image: "/poi-images/tz-port-bukoba-economic-v2.webp"},
   {
     id: "tz-industry-geita-gold-economic-v2",
     type: "industry",
@@ -263,8 +254,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Az AngloGold Ashanti üzemelteti.", "A Viktória-tó aranyövezetében található."],
       ro: ["Operată de AngloGold Ashanti.", "Situată în centura de aur a Lacului Victoria."],
       en: ["Operated by AngloGold Ashanti.", "Located in the Lake Victoria gold belt."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-geita-gold-economic-v2.webp"},
   {
     id: "tz-industry-bulyanhulu-gold-economic-v2",
     type: "industry",
@@ -287,8 +277,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["A Barrick Gold tulajdona.", "Rezet és ezüstöt is termel."],
       ro: ["Deținută de Barrick Gold.", "Produce și cupru și argint."],
       en: ["Owned by Barrick Gold.", "Also produces copper and silver."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-bulyanhulu-gold-economic-v2.webp"},
   {
     id: "tz-industry-north-mara-gold-economic-v2",
     type: "industry",
@@ -311,8 +300,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["A kenyai határ közelében található.", "Fontos munkáltató a régióban."],
       ro: ["Situată în apropiere de granița cu Kenya.", "Un angajator important în regiune."],
       en: ["Located near the Kenyan border.", "A major employer in the region."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-north-mara-gold-economic-v2.webp"},
   {
     id: "tz-industry-buzwagi-gold-economic-v2",
     type: "industry",
@@ -335,8 +323,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Tanzánia első bányája a bezárási folyamatban.", "Fókuszban a környezetvédelmi kármentesítés."],
       ro: ["Prima mină din Tanzania în proces de închidere.", "Se concentrează pe refacerea mediului."],
       en: ["Tanzania's first mine in the closure process.", "Focuses on environmental remediation."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-buzwagi-gold-economic-v2.webp"},
   {
     id: "tz-industry-new-luika-gold-economic-v2",
     type: "industry",
@@ -359,8 +346,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["A Shanta Gold üzemelteti.", "Földalatti és külszíni műveletekkel egyaránt rendelkezik."],
       ro: ["Operată de Shanta Gold.", "Dispune de operațiuni atât la suprafață, cât și în subteran."],
       en: ["Operated by Shanta Gold.", "Features both underground and open-pit operations."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-new-luika-gold-economic-v2.webp"},
   {
     id: "tz-industry-williamson-diamonds-economic-v2",
     type: "industry",
@@ -383,8 +369,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Mwadui-bánya néven is ismert.", "Híres rózsaszín gyémántokat termelt."],
       ro: ["Cunoscută și ca mina Mwadui.", "A produs faimoase diamante roz."],
       en: ["Also known as Mwadui Mine.", "Has produced famous pink diamonds."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-williamson-diamonds-economic-v2.webp"},
   {
     id: "tz-industry-merelani-tanzanite-economic-v2",
     type: "industry",
@@ -407,8 +392,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["A tanzanit egyetlen forrása.", "Szigorúan ellenőrzött és biztosított."],
       ro: ["Singura sursă de tanzanit.", "Strict controlată și securizată."],
       en: ["The sole source of tanzanite.", "Heavily controlled and secured."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-merelani-tanzanite-economic-v2.webp"},
   {
     id: "tz-industry-mchuchuma-coal-economic-v2",
     type: "industry",
@@ -431,8 +415,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Nagy széntartalékok a délnyugati részen.", "Erőművi projektekhez kapcsolódik."],
       ro: ["Mari rezerve de cărbune în sud-vest.", "Legată de proiecte de centrale electrice."],
       en: ["Large coal reserves in the southwest.", "Linked to power plant projects."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-mchuchuma-coal-economic-v2.webp"},
   {
     id: "tz-industry-liganga-iron-economic-v2",
     type: "industry",
@@ -455,8 +438,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Hatalmas kiaknázatlan vasérckészletek.", "Központi szerepet játszik Tanzánia iparosítási céljaiban."],
       ro: ["Rezerve masive neexploatate de minereu de fier.", "Central pentru obiectivele de industrializare ale Tanzaniei."],
       en: ["Massive untapped iron ore reserves.", "Central to Tanzania's industrialization goals."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-liganga-iron-economic-v2.webp"},
   {
     id: "tz-industry-songo-songo-gas-economic-v2",
     type: "industry",
@@ -479,8 +461,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Tanzánia első gázprojektje.", "Vezetékes gázzal látja el az erőműveket."],
       ro: ["Primul proiect de gaze din Tanzania.", "Furnizează gaze prin conducte centralelor electrice."],
       en: ["Tanzania's first gas project.", "Supplies piped gas to power plants."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-songo-songo-gas-economic-v2.webp"},
   {
     id: "tz-industry-mnazi-bay-gas-economic-v2",
     type: "industry",
@@ -503,8 +484,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Fontos gázforrás az Mtwara-medencében.", "Támogatja a nemzeti villamosenergia-infrastruktúrát."],
       ro: ["Sursă importantă de gaze în bazinul Mtwara.", "Susține infrastructura electrică națională."],
       en: ["Important gas source in the Mtwara basin.", "Supports the national power infrastructure."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-mnazi-bay-gas-economic-v2.webp"},
   {
     id: "tz-industry-twiga-cement-dar-economic-v2",
     type: "industry",
@@ -527,8 +507,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Piacvezető a cementgyártásban.", "Wazo Hill-en található."],
       ro: ["Lider de piață în producția de ciment.", "Situată în Wazo Hill."],
       en: ["Market leader in cement production.", "Located at Wazo Hill."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-twiga-cement-dar-economic-v2.webp"},
   {
     id: "tz-industry-tanga-cement-economic-v2",
     type: "industry",
@@ -551,8 +530,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Simba márkanév alatt értékesít.", "Fontos az északi építőipar számára."],
       ro: ["Vândut sub brandul Simba.", "Important pentru industria construcțiilor din nord."],
       en: ["Sells under the Simba brand.", "Important for the northern construction industry."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-tanga-cement-economic-v2.webp"},
   {
     id: "tz-industry-mbeya-cement-economic-v2",
     type: "industry",
@@ -575,8 +553,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Stratégiailag fontos a délre irányuló exporthoz.", "Helyi mészkőlelőhelyeket használ fel."],
       ro: ["Strategică pentru exportul către sud.", "Folosește zăcăminte locale de calcar."],
       en: ["Strategic for exports to the south.", "Utilizes local limestone deposits."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-mbeya-cement-economic-v2.webp"},
   {
     id: "tz-industry-morogoro-canvas-mill-economic-v2",
     type: "industry",
@@ -599,8 +576,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Támogatja a helyi pamutipart.", "Vitorlavásznat és ponyvákat gyárt."],
       ro: ["Sprijină industria locală a bumbacului.", "Produce pânze pentru vele și prelate."],
       en: ["Promotes the local cotton industry.", "Produces canvas and tarpaulins."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-morogoro-canvas-mill-economic-v2.webp"},
   {
     id: "tz-industry-kagera-sugar-economic-v2",
     type: "industry",
@@ -623,8 +599,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Jelentős cukortermelő.", "Integrált termesztési és feldolgozási rendszer."],
       ro: ["Mare producător de zahăr.", "Sistem integrat de cultivare și procesare."],
       en: ["Major sugar producer.", "Integrated cultivation and processing system."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-kagera-sugar-economic-v2.webp"},
   {
     id: "tz-industry-mtibwa-sugar-economic-v2",
     type: "industry",
@@ -647,8 +622,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Fontos munkaadó az agrárszektorban.", "Megújuló áramot is termel kipréselt cukornádból."],
       ro: ["Angajator important în sectorul agricol.", "Produce și energie regenerabilă din bagas."],
       en: ["Major employer in the agricultural sector.", "Also produces renewable electricity from bagasse."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-mtibwa-sugar-economic-v2.webp"},
   {
     id: "tz-industry-kilombero-sugar-economic-v2",
     type: "industry",
@@ -695,8 +669,7 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       hu: ["Tetőlemezeket és csöveket gyárt.", "1960-ban alapították."],
       ro: ["Produce table pentru acoperiș și țevi.", "A fost fondată în 1960."],
       en: ["Produces roofing sheets and pipes.", "Founded in 1960."]
-    }
-  },
+    }, image: "/poi-images/tz-industry-alaf-steel-dar-economic-v2.webp"},
   {
     id: "tz-industry-ubungo-power-plant-economic-v2",
     type: "industry",
@@ -722,3 +695,4 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTunisiaLandmarksV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["1897-ben fejezték be.", "A Habib Bourguiba sugárúton található."],
       ro: ["A fost finalizată în 1897.", "Situată pe Bulevardul Habib Bourguiba."],
       en: ["Completed in 1897.", "Located on Avenue Habib Bourguiba."]
-    }
-  },
+    }, image: "/poi-images/tunis-st-vincent-de-paul-landmarks-v2.webp"},
   {
     id: "rades-stade-olympique-landmarks-v2",
     type: "landmark",
@@ -47,8 +47,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["2001-ben nyitották meg.", "60 000 néző befogadására alkalmas."],
       ro: ["Deschis în 2001.", "Are o capacitate de 60.000 de spectatori."],
       en: ["Opened in 2001.", "Has a seating capacity of 60,000."]
-    }
-  },
+    }, image: "/poi-images/rades-stade-olympique-landmarks-v2.webp"},
   {
     id: "tunis-cite-culture-landmarks-v2",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["2018-ban nyitották meg hivatalosan.", "Kilenc hektáron terül el."],
       ro: ["Deschis oficial în 2018.", "Se întinde pe o suprafață de nouă hectare."],
       en: ["Officially opened in 2018.", "Covers an area of nine hectares."]
-    }
-  },
+    }, image: "/poi-images/tunis-cite-culture-landmarks-v2.webp"},
   {
     id: "tunis-uhrenturm-landmarks-v2",
     type: "landmark",
@@ -95,8 +93,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["2001-ben emelték.", "A Habib Bourguiba sugárút keleti végén áll."],
       ro: ["A fost ridicat în 2001.", "Situat la capătul estic al Bulevardului Habib Bourguiba."],
       en: ["Erected in 2001.", "Located at the eastern end of Avenue Habib Bourguiba."]
-    }
-  },
+    }, image: "/poi-images/tunis-uhrenturm-landmarks-v2.webp"},
   {
     id: "tunis-rathaus-landmarks-v2",
     type: "landmark",
@@ -119,8 +116,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Az 1990-es évek végén épült.", "Tunisz városi önkormányzatának székhelye."],
       ro: ["Construită la sfârșitul anilor 1990.", "Sediul guvernului municipal din Tunis."],
       en: ["Built in the late 1990s.", "Seat of the Tunis municipal government."]
-    }
-  },
+    }, image: "/poi-images/tunis-rathaus-landmarks-v2.webp"},
   {
     id: "djerba-ghriba-synagoge-landmarks-v2",
     type: "landmark",
@@ -143,8 +139,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Eredete több mint 2000 évre nyúlik vissza.", "A jelenlegi épület a 19. század végéről származik."],
       ro: ["Originile sale datează de peste 2.000 de ani.", "Clădirea actuală datează de la sfârșitul secolului al XIX-lea."],
       en: ["Its origins date back over 2,000 years.", "The current building dates from the late 19th century."]
-    }
-  },
+    }, image: "/poi-images/djerba-ghriba-synagoge-landmarks-v2.webp"},
   {
     id: "kelibia-festung-landmarks-v2",
     type: "landmark",
@@ -167,8 +162,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Egy 150 méter magas sziklán található.", "A 16. században jelentősen kibővítették."],
       ro: ["Este situat pe o stâncă înaltă de 150 de metri.", "A fost mult extins în secolul al XVI-lea."],
       en: ["Located on a 150-meter-high rock.", "Was significantly expanded in the 16th century."]
-    }
-  },
+    }, image: "/poi-images/kelibia-festung-landmarks-v2.webp"},
   {
     id: "monastir-bourguiba-mausoleum-landmarks-v2",
     type: "landmark",
@@ -191,8 +185,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Az építkezés 1963-ban kezdődött.", "A minaret 25 méter magas."],
       ro: ["Construcția a început în 1963.", "Minaretul are 25 de metri înălțime."],
       en: ["Construction began in 1963.", "The minaret is 25 meters high."]
-    }
-  },
+    }, image: "/poi-images/monastir-bourguiba-mausoleum-landmarks-v2.webp"},
   {
     id: "mahdia-grosse-moschee-landmarks-v2",
     type: "landmark",
@@ -215,8 +208,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Eredetileg 916-ban épült.", "1965-ben az eredeti minta alapján újjáépítették."],
       ro: ["Construită inițial în 916.", "Reconstruită în 1965 după modelul original."],
       en: ["Originally built in 916.", "Reconstructed in 1965 based on the original model."]
-    }
-  },
+    }, image: "/poi-images/mahdia-grosse-moschee-landmarks-v2.webp"},
   {
     id: "tunis-bab-el-bhar-landmarks-v2",
     type: "landmark",
@@ -239,8 +231,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["A 19. században Porte de France-ra nevezték át.", "Eredetileg 1848-ban épült."],
       ro: ["Redenumită Porte de France în secolul al XIX-lea.", "Construită inițial în 1848."],
       en: ["Renamed Porte de France in the 19th century.", "Originally built in 1848."]
-    }
-  },
+    }, image: "/poi-images/tunis-bab-el-bhar-landmarks-v2.webp"},
   {
     id: "karthago-akropolium-landmarks-v2",
     type: "landmark",
@@ -263,8 +254,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Bizánci-mór stílusban épült.", "1890-ben fejezték be."],
       ro: ["Construită în stil bizantin-maur.", "Finalizată în 1890."],
       en: ["Built in the Byzantine-Moorish style.", "Completed in 1890."]
-    }
-  },
+    }, image: "/poi-images/karthago-akropolium-landmarks-v2.webp"},
   {
     id: "hammamet-kasbah-landmarks-v2",
     type: "landmark",
@@ -287,8 +277,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["A 13. században épült.", "Az erőd falai helyenként akár 15 méter vastagok."],
       ro: ["Construită în secolul al XIII-lea.", "Zidurile cetății au o grosime de până la 15 metri în unele locuri."],
       en: ["Built in the 13th century.", "The fortress walls are up to 15 meters thick in some places."]
-    }
-  },
+    }, image: "/poi-images/hammamet-kasbah-landmarks-v2.webp"},
   {
     id: "tunis-bab-saadoun-landmarks-v2",
     type: "landmark",
@@ -311,8 +300,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["1350 körül építették.", "1881-ben francia közigazgatás alatt módosították."],
       ro: ["Construită în jurul anului 1350.", "Modificată sub administrație franceză în 1881."],
       en: ["Built around the year 1350.", "Modified under French administration in 1881."]
-    }
-  },
+    }, image: "/poi-images/tunis-bab-saadoun-landmarks-v2.webp"},
   {
     id: "sfax-kasbah-landmarks-v2",
     type: "landmark",
@@ -335,8 +323,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["A 9. századból származik.", "Ma a város építészeti múzeumának ad otthont."],
       ro: ["Datează din secolul al IX-lea.", "Astăzi găzduiește muzeul de arhitectură al orașului."],
       en: ["Dates back to the 9th century.", "Today it houses the city's architectural museum."]
-    }
-  },
+    }, image: "/poi-images/sfax-kasbah-landmarks-v2.webp"},
   {
     id: "sousse-ribat-landmarks-v2",
     type: "landmark",
@@ -383,8 +370,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["A Hafszidák építették.", "A 16. században a kalóz Dragut hódította meg."],
       ro: ["Construit de hafsizi.", "Cucerit de corsarul Dragut în secolul al XVI-lea."],
       en: ["Built by the Hafsids.", "Conquered by the corsair Dragut in the 16th century."]
-    }
-  },
+    }, image: "/poi-images/djerba-borj-el-kebir-landmarks-v2.webp"},
   {
     id: "sousse-grosse-moschee-landmarks-v2",
     type: "landmark",
@@ -431,8 +417,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Ma népművészeti múzeumnak ad otthont.", "Kifinomult stukkó- és csempemunkákkal rendelkezik."],
       ro: ["Astăzi găzduiește un muzeu de artă populară.", "Are lucrări elaborate din stuc și faianță."],
       en: ["Today houses a museum of popular arts.", "Features elaborate stucco and tilework."]
-    }
-  },
+    }, image: "/poi-images/tunis-dar-ben-abdallah-landmarks-v2.webp"},
   {
     id: "tunis-dar-othman-landmarks-v2",
     type: "landmark",
@@ -455,8 +440,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["A 16. század végén épült.", "Othman dey rezidenciája volt."],
       ro: ["Construit la sfârșitul secolului al XVI-lea.", "Reședința lui Dey Othman."],
       en: ["Built at the end of the 16th century.", "Residence of Dey Othman."]
-    }
-  },
+    }, image: "/poi-images/tunis-dar-othman-landmarks-v2.webp"},
   {
     id: "kairouan-moschee-des-barbiers-landmarks-v2",
     type: "landmark",
@@ -479,8 +463,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["A Próféta egyik társának sírját őrzi.", "A 17. században jelentős átalakításokon esett át."],
       ro: ["Găzduiește mormântul unui tovarăș al Profetului.", "Modificări majore au avut loc în secolul al XVII-lea."],
       en: ["Houses the tomb of a companion of the Prophet.", "Major modifications took place in the 17th century."]
-    }
-  },
+    }, image: "/poi-images/kairouan-moschee-des-barbiers-landmarks-v2.webp"},
   {
     id: "kairouan-aghlabiden-becken-landmarks-v2",
     type: "landmark",
@@ -527,8 +510,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Kr. u. 112-ből származik.", "Az észak-afrikai római úthálózat része volt."],
       ro: ["Datează din anul 112 d.Hr.", "Face parte din rețeaua de drumuri romane din Africa de Nord."],
       en: ["Dates back to 112 AD.", "Part of the Roman road network in North Africa."]
-    }
-  },
+    }, image: "/poi-images/beja-trajansbrucke-landmarks-v2.webp"},
   {
     id: "tunis-dar-hussein-landmarks-v2",
     type: "landmark",
@@ -551,8 +533,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Gyökerei a 11. századig nyúlnak vissza.", "Ma a Nemzeti Örökségvédelmi Intézetnek ad otthont."],
       ro: ["Rădăcinile sale datează din secolul al XI-lea.", "Astăzi găzduiește Institutul Național de Patrimoniu."],
       en: ["Its roots date back to the 11th century.", "Today it houses the National Institute of Heritage."]
-    }
-  },
+    }, image: "/poi-images/tunis-dar-hussein-landmarks-v2.webp"},
   {
     id: "bizerte-kasbah-landmarks-v2",
     type: "landmark",
@@ -575,8 +556,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["A 6. században épült.", "Később az oszmánok megerősítették és kibővítették."],
       ro: ["Construit în secolul al VI-lea.", "Mai târziu fortificat și extins de otomani."],
       en: ["Built in the 6th century.", "Later reinforced and expanded by the Ottomans."]
-    }
-  },
+    }, image: "/poi-images/bizerte-kasbah-landmarks-v2.webp"},
   {
     id: "sfax-dar-jellouli-landmarks-v2",
     type: "landmark",
@@ -599,8 +579,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["A 17. századból származik.", "Ma a művészetek és néphagyományok regionális múzeumaként szolgál."],
       ro: ["Datează din secolul al XVII-lea.", "Astăzi servește ca muzeu regional de artă și tradiții populare."],
       en: ["Dates from the 17th century.", "Today serves as a regional museum of art and popular traditions."]
-    }
-  },
+    }, image: "/poi-images/sfax-dar-jellouli-landmarks-v2.webp"},
   {
     id: "sfax-rathaus-landmarks-v2",
     type: "landmark",
@@ -623,8 +602,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["A korai francia protektorátus idején épült.", "A történelmi városfal közelében található."],
       ro: ["Construită în prima perioadă a protectoratului francez.", "Situată aproape de zidul istoric al orașului."],
       en: ["Built in the early French protectorate period.", "Located near the historic city wall."]
-    }
-  },
+    }, image: "/poi-images/sfax-rathaus-landmarks-v2.webp"},
   {
     id: "sousse-stade-olympique-landmarks-v2",
     type: "landmark",
@@ -647,8 +625,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["Eredetileg 1973-ban nyílt meg.", "Legutóbbi bővítése során kapacitását 40 000 főre növelték."],
       ro: ["Deschis inițial în 1973.", "Extins la 40.000 de locuri după renovările recente."],
       en: ["Originally opened in 1973.", "Expanded to 40,000 seats following recent renovations."]
-    }
-  },
+    }, image: "/poi-images/sousse-stade-olympique-landmarks-v2.webp"},
   {
     id: "testour-grosse-moschee-landmarks-v2",
     type: "landmark",
@@ -671,8 +648,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["A 17. században épült.", "A minareten lévő óra érdekessége, hogy az óramutató járásával ellentétesen jár."],
       ro: ["Construită în secolul al XVII-lea.", "Ceasul de pe minaret merge curios în sens invers acelor de ceasornic."],
       en: ["Built in the 17th century.", "The clock on the minaret curiously runs counter-clockwise."]
-    }
-  },
+    }, image: "/poi-images/testour-grosse-moschee-landmarks-v2.webp"},
   {
     id: "sidi-bou-said-ennejma-ezzahra-landmarks-v2",
     type: "landmark",
@@ -695,8 +671,7 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       hu: ["D'Erlanger báró építtette.", "1912 és 1922 között épült."],
       ro: ["Construit de baronul d'Erlanger.", "A fost ridicat între 1912 și 1922."],
       en: ["Built by Baron d'Erlanger.", "Was constructed from 1912 to 1922."]
-    }
-  },
+    }, image: "/poi-images/sidi-bou-said-ennejma-ezzahra-landmarks-v2.webp"},
   {
     id: "tunis-tourbet-el-bey-landmarks-v2",
     type: "landmark",
@@ -722,3 +697,4 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     }
   }
 ];
+

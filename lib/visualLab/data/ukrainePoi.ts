@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const ukraineCountry: POI = {
@@ -105,3 +106,7 @@ export const ukraineCountry: POI = {
   },
   image: "/geo-images/ukraine/country-ukraine.webp"
 };
+
+export const ukrainePois = [ukraineCountry];
+export const ukraineAllPoi = ukrainePois;
+

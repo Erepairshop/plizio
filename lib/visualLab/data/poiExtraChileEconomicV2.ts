@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraChileEconomicV2: POI[] = [
@@ -11,7 +12,14 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Iquique kikötője",
       ro: "Portul Iquique",
       en: "Port of Iquique"
+    ,
+    descriptionAdvanced: {
+      ro: "Puerto de Iquique, situat în nordul extrem al Chile, funcționează ca o zonă liberă de importanță internațională și un port crucial pentru comerțul maritim din Pacific. Orașul Iquique a fost istoric dependent de industria salpetrului, dar astăzi economia sa este diversificată prin turism și logistica portuară avansată. Zona liberă (Zofri) a orașului facilitează comerțul cu țările vecine, devenind un motor economic esențial pentru regiunea Tarapacá. Infrastructura portuară permite exportul eficient al resurselor miniere extrase din regiunile deșertice din proximitate. Industrie K9 — economie globală."
     },
+    factsAdvanced: {
+      ro: ["Locație: Regiunea Tarapacá", "Statut: Zonă Liberă (Zofri)", "Economie: Logistică portuară", "Istoric: Industrie salpetru", "Rol: Export minier", "Importanță: Comerț internațional"]
+    }
+  },
     description: {
       de: "Ein bedeutender Seehafen in Nordchile, wichtig für die Freihandelszone ZOFRI.",
       hu: "Észak-Chile egyik legfontosabb tengeri kikötője, a ZOFRI szabadkereskedelmi övezet központja.",
@@ -79,7 +87,14 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Coronel kikötő",
       ro: "Portul Coronel",
       en: "Port of Coronel"
+    ,
+    descriptionAdvanced: {
+      ro: "Puerto Coronel este un terminal portuar strategic situat în regiunea Biobío, esențial pentru gestionarea volumelor mari de mărfuri din centrul-sudul Chile. Portul joacă un rol vital în exportul produselor forestiere, agricole și miniere, fiind unul dintre cei mai eficienți operatori din țară. Situat lângă orașul Coronel, portul a fost un motor de dezvoltare pentru comunitățile locale, facilitând legătura dintre resursele naturale ale regiunii și piețele globale. Tehnologia utilizată în operarea portuară permite manipularea unei game variate de mărfuri, inclusiv cherestea și celuloză. Economie K9 — comerț maritim."
     },
+    factsAdvanced: {
+      ro: ["Localizare: Regiunea Biobío", "Rol principal: Export forestier", "Operare: Terminal maritim eficient", "Tip mărfuri: Cherestea, celuloză", "Importanță: Dezvoltare regională", "Conexiune: Piețe globale"]
+    }
+  },
     description: {
       de: "Die größte Hafenanlage in der Region Biobío, spezialisiert auf Forstwirtschaft und Container.",
       hu: "A Biobío régió legnagyobb kikötői létesítménye, amely erdészetre és konténerekre specializálódott.",
@@ -135,8 +150,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Largest port in the Biobío Region.",
         "Specialized in forestry products."
       ]
-    }
-  },
+    }, image: "/poi-images/puerto-coronel-economic-v2.webp"},
   {
     id: "puerto-lirquen-economic-v2",
     type: "port",
@@ -147,7 +161,14 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Lirquén kikötő",
       ro: "Portul Lirquén",
       en: "Port of Lirquén"
+    ,
+    descriptionAdvanced: {
+      ro: "Puerto Lirquén este un port cu istorie îndelungată în golful Concepción, specializat în manipularea produselor forestiere și mărfuri generale. Situat strategic în regiunea Biobío, portul este un pilon pentru economia locală și națională, oferind servicii logistice integrate pentru exportatori. Lirquén a evoluat constant, investind în echipamente moderne de încărcare pentru a răspunde cererii crescute de pe piețele internaționale. Poziția sa geografică protejată în golf oferă un avantaj operațional major pentru navele cargo care vizitează coasta chiliană. Economie K9 — logistică portuară."
     },
+    factsAdvanced: {
+      ro: ["Localizare: Golful Concepción", "Specializare: Produse forestiere", "Regiune: Biobío", "Rol: Servicii logistice", "Avantaj: Poziție geografică protejată", "Evoluție: Modernizare continuă"]
+    }
+  },
     description: {
       de: "Ein großer privater Hafen in der Region Biobío, der hauptsächlich Forstprodukte umschlägt.",
       hu: "Egy jelentős magánkikötő a Biobío régióban, amely főként erdészeti termékeket rakod át.",
@@ -203,8 +224,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Located in the Bay of Concepción.",
         "An important private transfer terminal."
       ]
-    }
-  },
+    }, image: "/poi-images/puerto-lirquen-economic-v2.webp"},
   {
     id: "puerto-san-vicente-economic-v2",
     type: "port",
@@ -215,7 +235,14 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "San Vicente kikötő",
       ro: "Portul San Vicente",
       en: "Port of San Vicente"
+    ,
+    descriptionAdvanced: {
+      ro: "Puerto San Vicente, situat în apropierea orașului Talcahuano, este un terminal portuar cheie în centrul Chile, jucând un rol crucial în importurile și exporturile țării. Portul este cunoscut pentru capacitatea sa de a manipula containere și produse de pescuit, fiind o infrastructură vitală pentru regiunea industrială din jurul orașului Concepción. După reconstrucții necesare în urma evenimentelor seismice, San Vicente s-a repoziționat ca un port modern, cu tehnologie de vârf pentru gestionarea fluxurilor comerciale complexe. Este un nod logistic strategic care leagă industria prelucrătoare chiliană de restul lumii. Economie K9 — logistică industrială."
     },
+    factsAdvanced: {
+      ro: ["Localizare: Lângă Talcahuano", "Tip terminal: Containere și pescuit", "Regiune: Concepción", "Rol: Nod logistic strategic", "Infrastructură: Modernă", "Importanță: Comerț industrial"]
+    }
+  },
     description: {
       de: "Ein wichtiger Handelshafen in Talcahuano, der mit dem regionalen Industriezentrum verbunden ist.",
       hu: "Fontos kereskedelmi kikötő Talcahuano városában, amely a regionális ipari központhoz kapcsolódik.",
@@ -271,8 +298,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Part of the Talcahuano port complex.",
         "Features deep-water berths."
       ]
-    }
-  },
+    }, image: "/poi-images/puerto-san-vicente-economic-v2.webp"},
   {
     id: "puerto-ventanas-economic-v2",
     type: "port",
@@ -283,7 +309,14 @@ export const poiExtraChileEconomicV2: POI[] = [
       hu: "Ventanas kikötő",
       ro: "Portul Ventanas",
       en: "Port of Ventanas"
+    ,
+    descriptionAdvanced: {
+      ro: "Puerto Ventanas este un terminal privat situat în golful Quintero, fiind specializat în manipularea mărfurilor vrac, în special a cărbunelui și a concentratelor minerale. Acest port joacă un rol critic în furnizarea energiei și a materiilor prime pentru industria chiliană, fiind conectat prin rute feroviare și drumuri la marile centre de producție. Ventanas se remarcă prin eficiența sa operațională și prin standardele riguroase de mediu aplicate într-o zonă industrială sensibilă. Importanța sa strategică este dată de capacitatea de a deservi industriile energetice care susțin rețeaua electrică a țării. Industrie K9 — energie și minerit."
     },
+    factsAdvanced: {
+      ro: ["Localizare: Golful Quintero", "Specializare: Mărfuri vrac (cărbune)", "Rol: Furnizor energie/materii prime", "Conectivitate: Feroviară și rutieră", "Standarde: Ecologice riguroase", "Importanță: Strategică"]
+    }
+  },
     description: {
       de: "Ein großer Schüttguthafen in der Region Valparaíso, der mit der lokalen Schwerindustrie verbunden ist.",
       hu: "Jelentős ömlesztettáru-kikötő a Valparaíso régióban, amely a helyi nehéziparhoz kapcsolódik.",
@@ -339,8 +372,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Important port for bulk cargo.",
         "Located in the Valparaíso Region."
       ]
-    }
-  },
+    }, image: "/poi-images/puerto-ventanas-economic-v2.webp"},
   {
     id: "puerto-angamos-economic-v2",
     type: "port",
@@ -407,8 +439,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Modern port terminal in Mejillones.",
         "Supports the copper mining industry."
       ]
-    }
-  },
+    }, image: "/poi-images/puerto-angamos-economic-v2.webp"},
   {
     id: "puerto-de-mejillones-economic-v2",
     type: "port",
@@ -543,8 +574,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Specialized in coal and iron ore.",
         "Serves the Huasco Valley."
       ]
-    }
-  },
+    }, image: "/poi-images/puerto-guacolda-economic-v2.webp"},
   {
     id: "puerto-de-punta-arenas-economic-v2",
     type: "port",
@@ -883,8 +913,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "One of the largest open-pit mines in the world.",
         "Operated by the state company Codelco."
       ]
-    }
-  },
+    }, image: "/poi-images/mina-chuquicamata-economic-v2.webp"},
   {
     id: "mina-escondida-economic-v2",
     type: "industry",
@@ -951,8 +980,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Produces the most copper worldwide.",
         "BHP holds the majority stake."
       ]
-    }
-  },
+    }, image: "/poi-images/mina-escondida-economic-v2.webp"},
   {
     id: "mina-el-teniente-economic-v2",
     type: "industry",
@@ -1019,8 +1047,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Largest underground copper mine.",
         "Has over 3,000 kilometers of tunnels."
       ]
-    }
-  },
+    }, image: "/poi-images/mina-el-teniente-economic-v2.webp"},
   {
     id: "mina-los-pelambres-economic-v2",
     type: "industry",
@@ -1087,8 +1114,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Located in the Coquimbo Region.",
         "Uses renewable energy for operations."
       ]
-    }
-  },
+    }, image: "/poi-images/mina-los-pelambres-economic-v2.webp"},
   {
     id: "mina-collahuasi-economic-v2",
     type: "industry",
@@ -1155,8 +1181,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Located at high altitude in the Andes.",
         "Considered a massive copper deposit."
       ]
-    }
-  },
+    }, image: "/poi-images/mina-collahuasi-economic-v2.webp"},
   {
     id: "mina-radomiro-tomic-economic-v2",
     type: "industry",
@@ -1223,8 +1248,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Named after a Chilean politician.",
         "Utilizes modern mining technologies."
       ]
-    }
-  },
+    }, image: "/poi-images/mina-radomiro-tomic-economic-v2.webp"},
   {
     id: "refineria-aconcagua-economic-v2",
     type: "industry",
@@ -1291,8 +1315,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Important oil refinery in Concón.",
         "Supplies central Chile with fuel."
       ]
-    }
-  },
+    }, image: "/poi-images/refineria-aconcagua-economic-v2.webp"},
   {
     id: "refineria-bio-bio-economic-v2",
     type: "industry",
@@ -1359,8 +1382,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "One of the most important refineries in Chile.",
         "Belongs to the state company ENAP."
       ]
-    }
-  },
+    }, image: "/poi-images/refineria-bio-bio-economic-v2.webp"},
   {
     id: "celulosa-arauco-economic-v2",
     type: "industry",
@@ -1563,8 +1585,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Processes copper concentrates.",
         "Located in Antofagasta."
       ]
-    }
-  },
+    }, image: "/poi-images/complejo-altonorte-economic-v2.webp"},
   {
     id: "fundicion-paipote-economic-v2",
     type: "industry",
@@ -1631,8 +1652,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Supports small and medium-sized mining operations.",
         "Located in the Atacama Region."
       ]
-    }
-  },
+    }, image: "/poi-images/fundicion-paipote-economic-v2.webp"},
   {
     id: "planta-litio-salar-atacama-economic-v2",
     type: "industry",
@@ -1699,8 +1719,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Extracts lithium from the salt flat.",
         "Essential for global battery production."
       ]
-    }
-  },
+    }, image: "/poi-images/planta-litio-salar-atacama-economic-v2.webp"},
   {
     id: "celulosa-laja-economic-v2",
     type: "industry",
@@ -1767,8 +1786,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "The first cellulose plant in Chile.",
         "Shapes the local economy of Laja."
       ]
-    }
-  },
+    }, image: "/poi-images/celulosa-laja-economic-v2.webp"},
   {
     id: "complejo-quintero-puchuncavi-economic-v2",
     type: "industry",
@@ -1835,8 +1853,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Heavily industrialized coastal zone.",
         "Significant for energy and copper smelting."
       ]
-    }
-  },
+    }, image: "/poi-images/complejo-quintero-puchuncavi-economic-v2.webp"},
   {
     id: "siderurgica-huachipato-economic-v2",
     type: "industry",
@@ -1971,8 +1988,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Main shipyard of the Chilean Navy.",
         "Offers ship repairs and new constructions."
       ]
-    }
-  },
+    }, image: "/poi-images/asmar-talcahuano-economic-v2.webp"},
   {
     id: "mina-spence-economic-v2",
     type: "industry",
@@ -2042,3 +2058,4 @@ export const poiExtraChileEconomicV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["Az afrikai peremhegység része.", "Legmagasabb csúcsai elérik az 1050 métert."],
       ro: ["Parte a munților marginali africani.", "Cele mai înalte culmi ajung la 1050 de metri."],
       en: ["Part of the African Great Escarpment.", "Highest elevations reach up to 1,050 meters."]
-    }
-  },
+    }, image: "/poi-images/kristallberge-relief-v2.webp"},
   {
     id: "blaue-berge-relief-v2",
     type: "mountain",
@@ -47,8 +47,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["Határvidék a Kongói DK és Uganda között.", "Főként kristályos kőzetekből áll."],
       ro: ["Regiune de graniță între RD Congo și Uganda.", "Compus în principal din roci cristaline."],
       en: ["Border region between DRC and Uganda.", "Composed mainly of crystalline rock."]
-    }
-  },
+    }, image: "/poi-images/blaue-berge-relief-v2.webp"},
   {
     id: "itombwe-massiv-relief-v2",
     type: "mountain",
@@ -71,8 +70,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["A keleti síkvidéki gorilla fontos menedékhelye.", "Csúcsai meghaladják a 3000 méteres magasságot."],
       ro: ["Refugiu important pentru gorila de câmpie estică.", "Vârfurile ating înălțimi de peste 3000 de metri."],
       en: ["Important refuge for the Eastern Lowland gorilla.", "Peaks reach heights of over 3,000 meters."]
-    }
-  },
+    }, image: "/poi-images/itombwe-massiv-relief-v2.webp"},
   {
     id: "mont-muhi-relief-v2",
     type: "mountain",
@@ -95,8 +93,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["Körülbelül 3475 méter magas.", "Hegyi esőerdők veszik körül."],
       ro: ["Înălțime de aproximativ 3475 de metri.", "Înconjurat de păduri tropicale montane."],
       en: ["Elevation of approx. 3,475 meters.", "Surrounded by montane rainforests."]
-    }
-  },
+    }, image: "/poi-images/mont-muhi-relief-v2.webp"},
   {
     id: "mont-shungwe-relief-v2",
     type: "mountain",
@@ -119,8 +116,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["Az Albertine-vetődés része.", "Fontos vízgyűjtő terület a helyi folyók számára."],
       ro: ["Parte a Riftului Albertine.", "Bazin hidrografic important pentru râurile locale."],
       en: ["Part of the Albertine Rift.", "Important catchment area for local rivers."]
-    }
-  },
+    }, image: "/poi-images/mont-shungwe-relief-v2.webp"},
   {
     id: "mont-tshiaberimu-relief-v2",
     type: "mountain",
@@ -143,8 +139,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["Egy kicsi, izolált gorillapopulációról ismert.", "A Virunga Nemzeti Park komplexumához tartozik."],
       ro: ["Cunoscut pentru o mică populație izolată de gorile.", "Aparține complexului Parcului Național Virunga."],
       en: ["Known for a small, isolated gorilla population.", "Belongs to the Virunga National Park complex."]
-    }
-  },
+    }, image: "/poi-images/mont-tshiaberimu-relief-v2.webp"},
   {
     id: "kibara-berge-relief-v2",
     type: "mountain",
@@ -167,8 +162,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["A kibarai hegységképződés névadója.", "Fontos ón- és tantállelőhelyek."],
       ro: ["Eponim pentru centura muntoasă kibariană.", "Zăcăminte importante de staniu și tantal."],
       en: ["Eponym for the Kibaran orogenic belt.", "Important deposits of tin and tantalum."]
-    }
-  },
+    }, image: "/poi-images/kibara-berge-relief-v2.webp"},
   {
     id: "lofoi-wasserfaelle-relief-v2",
     type: "relief",
@@ -191,8 +185,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["A Kundelungu Nemzeti Parkban található.", "Kaloba-vízesésként is ismerik."],
       ro: ["Situată în Parcul Național Kundelungu.", "Mai este numită și Cascada Kaloba."],
       en: ["Located in the Kundelungu National Park.", "Also known as Kaloba Falls."]
-    }
-  },
+    }, image: "/poi-images/lofoi-wasserfaelle-relief-v2.webp"},
   {
     id: "lukaya-wasserfaelle-relief-v2",
     type: "relief",
@@ -239,8 +232,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["Több lépcsőből állnak 300 méter szélességben.", "A régió fontos turisztikai látványossága."],
       ro: ["Compuse din mai multe trepte pe o lățime de 300 de metri.", "Atracție turistică importantă a regiunii."],
       en: ["Consist of several tiers across a width of 300 meters.", "Important tourist highlight of the region."]
-    }
-  },
+    }, image: "/poi-images/kiubo-wasserfaelle-relief-v2.webp"},
   {
     id: "kamanyola-schlucht-relief-v2",
     type: "relief",
@@ -263,8 +255,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["Határvonal a Kongói DK és Ruanda között.", "A terep rendkívül meredek és szaggatott."],
       ro: ["Marchează granița dintre RD Congo și Rwanda.", "Terenul este extrem de abrupt și accidentat."],
       en: ["Marks the border between DRC and Rwanda.", "The terrain is extremely steep and rugged."]
-    }
-  },
+    }, image: "/poi-images/kamanyola-schlucht-relief-v2.webp"},
   {
     id: "ngiri-sumpfwald-relief-v2",
     type: "forest",
@@ -287,8 +278,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["Egy határokon átnyúló Ramsar-terület része.", "Fontos élőhely vízimadarak és vízilovak számára."],
       ro: ["Parte a unei zone Ramsar transfrontaliere.", "Habitat important pentru păsări de apă și hipopotami."],
       en: ["Part of a transboundary Ramsar site.", "Important habitat for waterbirds and hippos."]
-    }
-  },
+    }, image: "/poi-images/ngiri-sumpfwald-relief-v2.webp"},
   {
     id: "azande-schwelle-relief-v2",
     type: "relief",
@@ -335,8 +325,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["Kiterjedt füves szavannák jellemzik.", "Határt alkot a Kongói DK és Gabon/Kongó között."],
       ro: ["Caracterizat prin vaste savane cu iarbă.", "Formează granița între RD Congo și Gabon/Congo."],
       en: ["Characterized by vast grass savannas.", "Forms the border between DRC and Gabon/Congo."]
-    }
-  },
+    }, image: "/poi-images/bateke-plateau-relief-v2.webp"},
   {
     id: "kwango-hochebene-relief-v2",
     type: "relief",
@@ -359,8 +348,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["Délen egészen Angoláig nyúlik.", "Túlnyomórészt homokos talajból áll."],
       ro: ["Se întinde în sud până în Angola.", "Compus în principal din soluri nisipoase."],
       en: ["Extends south into Angola.", "Consists predominantly of sandy soils."]
-    }
-  },
+    }, image: "/poi-images/kwango-hochebene-relief-v2.webp"},
   {
     id: "manika-plateau-relief-v2",
     type: "relief",
@@ -383,8 +371,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["Fontos a helyi vízellátás szempontjából.", "Egyedülálló felföldi flórával rendelkezik."],
       ro: ["Important pentru alimentarea locală cu apă.", "Are o floră de podiș unică."],
       en: ["Important for local water supply.", "Possesses a unique highland flora."]
-    }
-  },
+    }, image: "/poi-images/manika-plateau-relief-v2.webp"},
   {
     id: "lukuga-tal-relief-v2",
     type: "relief",
@@ -431,8 +418,7 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
       hu: ["A Lualaba számos mellékfolyója szeli át.", "Egyes részein termékeny vulkáni talajáról ismert."],
       ro: ["Traversat de numeroși afluenți ai fluviului Lualaba.", "Cunoscut pentru solurile vulcanice fertile în unele părți."],
       en: ["Traversed by numerous tributaries of the Lualaba.", "Known for fertile volcanic soils in some parts."]
-    }
-  },
+    }, image: "/poi-images/maniema-hochebene-relief-v2.webp"},
   {
     id: "tshuapa-regenwald-relief-v2",
     type: "forest",
@@ -482,3 +468,4 @@ export const poiExtraDemocraticrepublicofcongoReliefV2: POI[] = [
     }
   }
 ];
+

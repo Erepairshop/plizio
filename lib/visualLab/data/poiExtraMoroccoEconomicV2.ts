@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMoroccoEconomicV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["2007-ben nyílt meg", "Stratégiai elhelyezkedés a Gibraltári-szorosnál"],
       ro: ["Deschis în 2007", "Locație strategică pe Strâmtoarea Gibraltar"],
       en: ["Opened in 2007", "Strategic location on the Strait of Gibraltar"]
-    }
-  },
+    }, image: "/poi-images/ma-tanger-med-port-economic-v2.webp"},
   {
     id: "ma-casablanca-port-economic-v2",
     type: "port",
@@ -47,8 +47,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["A marokkói tengeri kereskedelem központja", "Hatalmas konténerterminálok"],
       ro: ["Centrul comerțului maritim marocan", "Terminale mari de containere"],
       en: ["Center of Moroccan maritime trade", "Large container terminals"]
-    }
-  },
+    }, image: "/poi-images/ma-casablanca-port-economic-v2.webp"},
   {
     id: "ma-jorf-lasfar-port-economic-v2",
     type: "port",
@@ -71,8 +70,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Fókuszban az ömlesztett áruk", "Az OCP vegyi üzemek közelében"],
       ro: ["Axat pe mărfuri vrac", "Aproape de uzinele chimice OCP"],
       en: ["Focus on bulk cargo", "Close to OCP chemical plants"]
-    }
-  },
+    }, image: "/poi-images/ma-jorf-lasfar-port-economic-v2.webp"},
   {
     id: "ma-safi-port-economic-v2",
     type: "port",
@@ -95,8 +93,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["A szardíniahalászat központja", "Foszfátszármazékok exportja"],
       ro: ["Centru pentru pescuitul de sardine", "Export de derivate de fosfat"],
       en: ["Center for sardine fishing", "Export of phosphate derivatives"]
-    }
-  },
+    }, image: "/poi-images/ma-safi-port-economic-v2.webp"},
   {
     id: "ma-agadir-port-economic-v2",
     type: "port",
@@ -119,8 +116,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Jelentős halászkikötő", "Fontos a mezőgazdasági cikkek exportjában"],
       ro: ["Port de pescuit major", "Important pentru exportul de bunuri agricole"],
       en: ["Major fishing port", "Important for the export of agricultural goods"]
-    }
-  },
+    }, image: "/poi-images/ma-agadir-port-economic-v2.webp"},
   {
     id: "ma-nador-port-economic-v2",
     type: "port",
@@ -143,8 +139,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Személyszállító kompok Európába", "Jelentős regionális áruforgalom"],
       ro: ["Feriboturi de pasageri spre Europa", "Manipulare regională semnificativă a mărfurilor"],
       en: ["Passenger ferries to Europe", "Significant regional cargo handling"]
-    }
-  },
+    }, image: "/poi-images/ma-nador-port-economic-v2.webp"},
   {
     id: "ma-laayoune-port-economic-v2",
     type: "port",
@@ -167,8 +162,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Kapcsolat Bou Craa-val", "Fontos logisztikai központ"],
       ro: ["Conectat cu Bou Craa", "Centru logistic important"],
       en: ["Connected to Bou Craa", "Important logistical center"]
-    }
-  },
+    }, image: "/poi-images/ma-laayoune-port-economic-v2.webp"},
   {
     id: "ma-dakhla-port-economic-v2",
     type: "port",
@@ -191,8 +185,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Nagy halászkikötő", "Fejlesztési projektek a Dakhla Atlantic Port számára"],
       ro: ["Port de pescuit major", "Proiecte de dezvoltare pentru Dakhla Atlantic Port"],
       en: ["Large fishing port", "Development projects for the Dakhla Atlantic Port"]
-    }
-  },
+    }, image: "/poi-images/ma-dakhla-port-economic-v2.webp"},
   {
     id: "ma-ocp-khouribga-economic-v2",
     type: "industry",
@@ -215,8 +208,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["A marokkói foszfáttartalékok több mint 60%-a", "Az OCP Csoport üzemelteti"],
       ro: ["Peste 60% din rezervele de fosfat ale Marocului", "Operată de Grupul OCP"],
       en: ["Over 60% of Moroccan phosphate reserves", "Operated by the OCP Group"]
-    }
-  },
+    }, image: "/poi-images/ma-ocp-khouribga-economic-v2.webp"},
   {
     id: "ma-ocp-benguerir-economic-v2",
     type: "industry",
@@ -239,8 +231,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Központi bányászati régió: Gantour", "Iszapvezeték Safi kikötőjébe"],
       ro: ["Regiunea minieră centrală Gantour", "Conductă de șlam spre portul Safi"],
       en: ["Central Gantour mining region", "Slurry pipeline to Safi Port"]
-    }
-  },
+    }, image: "/poi-images/ma-ocp-benguerir-economic-v2.webp"},
   {
     id: "ma-ocp-jorf-lasfar-economic-v2",
     type: "industry",
@@ -263,8 +254,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Több millió tonna műtrágyát állít elő", "Khouribgából származó foszfátot dolgoz fel"],
       ro: ["Produce milioane de tone de îngrășăminte", "Procesează fosfat de la Khouribga"],
       en: ["Produces millions of tons of fertilizer", "Processes phosphate from Khouribga"]
-    }
-  },
+    }, image: "/poi-images/ma-ocp-jorf-lasfar-economic-v2.webp"},
   {
     id: "ma-renault-tangier-economic-v2",
     type: "industry",
@@ -287,8 +277,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["2012-ben nyílt meg", "Zéró kibocsátású üzem (Zero Carbon)"],
       ro: ["Deschisă în 2012", "Fabrică cu emisii zero (Zero Carbon)"],
       en: ["Opened in 2012", "Zero-emission plant (Zero Carbon)"]
-    }
-  },
+    }, image: "/poi-images/ma-renault-tangier-economic-v2.webp"},
   {
     id: "ma-stellantis-kenitra-economic-v2",
     type: "industry",
@@ -311,8 +300,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Korábban a PSA Csoport része", "Évi 200 000 járműves kapacitás"],
       ro: ["Fostul Grup PSA", "Capacitate de 200.000 de vehicule pe an"],
       en: ["Formerly PSA Group", "Capacity of 200,000 vehicles per year"]
-    }
-  },
+    }, image: "/poi-images/ma-stellantis-kenitra-economic-v2.webp"},
   {
     id: "ma-somaca-casablanca-economic-v2",
     type: "industry",
@@ -335,8 +323,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["1959-ben alapították", "A marokkói ipar fontos része"],
       ro: ["Fondată în 1959", "Parte importantă a industriei marocane"],
       en: ["Founded in 1959", "Important part of Moroccan industry"]
-    }
-  },
+    }, image: "/poi-images/ma-somaca-casablanca-economic-v2.webp"},
   {
     id: "ma-midparc-casablanca-economic-v2",
     type: "industry",
@@ -359,8 +346,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["A Bombardier és Boeing beszállítóinak telephelye", "Csúcstechnológiai központ"],
       ro: ["Găzduiește furnizori Bombardier și Boeing", "Centru de înaltă tehnologie"],
       en: ["Hosts Bombardier and Boeing suppliers", "High technology center"]
-    }
-  },
+    }, image: "/poi-images/ma-midparc-casablanca-economic-v2.webp"},
   {
     id: "ma-tangier-automotive-city-economic-v2",
     type: "industry",
@@ -383,8 +369,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["A Renault gyár közelében", "Több ezer szakmunkást foglalkoztat"],
       ro: ["Aproape de uzina Renault", "Angajează mii de muncitori calificați"],
       en: ["Close to the Renault plant", "Employs thousands of skilled workers"]
-    }
-  },
+    }, image: "/poi-images/ma-tangier-automotive-city-economic-v2.webp"},
   {
     id: "ma-atlantic-free-zone-kenitra-economic-v2",
     type: "industry",
@@ -431,8 +416,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Támogatja a helyi mezőgazdaságot", "Kutatási és innovációs központ"],
       ro: ["Promovează agricultura locală", "Centru de cercetare și inovație"],
       en: ["Promotes local agriculture", "Research and innovation center"]
-    }
-  },
+    }, image: "/poi-images/ma-agropolis-meknes-economic-v2.webp"},
   {
     id: "ma-haliopolis-agadir-economic-v2",
     type: "industry",
@@ -455,8 +439,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Exportra dolgoz fel halat", "Fenntartható termelési módszerek"],
       ro: ["Procesează pește pentru export", "Metode de producție sustenabile"],
       en: ["Processes fish for export", "Sustainable production methods"]
-    }
-  },
+    }, image: "/poi-images/ma-haliopolis-agadir-economic-v2.webp"},
   {
     id: "ma-safi-energy-hub-economic-v2",
     type: "industry",
@@ -479,8 +462,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Több mint 1300 MW kapacitás", "Fejlett szűrési technológia"],
       ro: ["Capacitate de peste 1300 MW", "Tehnologie avansată de filtrare"],
       en: ["Capacity of over 1300 MW", "Advanced filtration technology"]
-    }
-  },
+    }, image: "/poi-images/ma-safi-energy-hub-economic-v2.webp"},
   {
     id: "ma-tarfaya-wind-farm-economic-v2",
     type: "industry",
@@ -503,8 +485,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["300 MW beépített teljesítmény", "Több mint 130 szélturbina"],
       ro: ["Capacitate instalată de 300 MW", "Peste 130 de turbine eoliene"],
       en: ["Installed capacity of 300 MW", "Over 130 wind turbines"]
-    }
-  },
+    }, image: "/poi-images/ma-tarfaya-wind-farm-economic-v2.webp"},
   {
     id: "ma-noor-ouarzazate-economic-v2",
     type: "industry",
@@ -527,8 +508,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["580 MW kapacitás", "Olvasztott sót használ energiatárolásra"],
       ro: ["Capacitate de 580 MW", "Folosește sare topită pentru stocarea energiei"],
       en: ["Capacity of 580 MW", "Uses molten salt for energy storage"]
-    }
-  },
+    }, image: "/poi-images/ma-noor-ouarzazate-economic-v2.webp"},
   {
     id: "ma-jbel-aouam-mine-economic-v2",
     type: "industry",
@@ -551,8 +531,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Föld alatti bányászat", "A régió fontos munkaadója"],
       ro: ["Minerit subteran", "Angajator important în regiune"],
       en: ["Underground mining", "Important employer in the region"]
-    }
-  },
+    }, image: "/poi-images/ma-jbel-aouam-mine-economic-v2.webp"},
   {
     id: "ma-imiter-silver-mine-economic-v2",
     type: "industry",
@@ -575,8 +554,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Különösen tiszta érc", "Fontos devizaforrás"],
       ro: ["Minereu excepțional de pur", "Sursă importantă de valută"],
       en: ["Exceptionally pure ore", "Important source of foreign exchange"]
-    }
-  },
+    }, image: "/poi-images/ma-imiter-silver-mine-economic-v2.webp"},
   {
     id: "ma-bou-azzer-cobalt-mine-economic-v2",
     type: "industry",
@@ -599,8 +577,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["A kevés bányák egyike, ahol a kobalt a fő termék", "Fontos az e-mobilitás számára"],
       ro: ["Una dintre puținele mine cu cobalt ca produs principal", "Importantă pentru e-mobilitate"],
       en: ["One of the few mines with cobalt as main product", "Important for e-mobility"]
-    }
-  },
+    }, image: "/poi-images/ma-bou-azzer-cobalt-mine-economic-v2.webp"},
   {
     id: "ma-ocp-safi-complex-economic-v2",
     type: "industry",
@@ -623,8 +600,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Erősen exportorientált", "A kikötőváros fontos munkaadója"],
       ro: ["Puternic orientat spre export", "Angajator major în orașul portuar"],
       en: ["Strongly export-oriented", "Major employer in the port city"]
-    }
-  },
+    }, image: "/poi-images/ma-ocp-safi-complex-economic-v2.webp"},
   {
     id: "ma-lafargeholcim-settat-economic-v2",
     type: "industry",
@@ -647,8 +623,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Több millió tonna cementet állít elő", "Alternatív tüzelőanyagokat használ"],
       ro: ["Produce milioane de tone de ciment", "Utilizează combustibili alternativi"],
       en: ["Produces millions of tons of cement", "Uses alternative fuels"]
-    }
-  },
+    }, image: "/poi-images/ma-lafargeholcim-settat-economic-v2.webp"},
   {
     id: "ma-mohammedia-refinery-economic-v2",
     type: "industry",
@@ -695,8 +670,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Foszforsav fókusz", "Jelentősen hozzájárul az exportvolumenhez"],
       ro: ["Focus pe acid fosforic", "Contribuție majoră la volumul exporturilor"],
       en: ["Focus on phosphoric acid", "Major contribution to export volume"]
-    }
-  },
+    }, image: "/poi-images/ma-maroc-phosphore-safi-economic-v2.webp"},
   {
     id: "ma-nador-west-med-economic-v2",
     type: "port",

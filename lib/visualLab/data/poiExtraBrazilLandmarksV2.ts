@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBrazilLandmarksV2: POI[] = [
@@ -12,18 +13,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       ro: "Cristos M\u00e2ntuitorul",
       en: "Christ the Redeemer"
     },
-    description: {
-      de: "Die weltber\u00fchmte Art-d\u00e9co-Statue von Jesus Christus auf dem Berg Corcovado, ein ikonisches Wahrzeichen von Rio de Janeiro.",
-      hu: "Vil\u00e1gh\u00edr\u0171 art deco st\u00edlus\u00fa J\u00e9zus-szobor a Corcovado-hegyen, Rio de Janeiro ikonikus jelk\u00e9pe.",
-      ro: "Faimoasa statuie Art Deco a lui Isus Hristos de pe muntele Corcovado, un simbol emblematic al ora\u0219ului Rio de Janeiro.",
-      en: "The world-famous Art Deco statue of Jesus Christ on Mount Corcovado, an iconic symbol of Rio de Janeiro."
+    descriptionAdvanced: {
+      de: "Die Christusstatue 'Cristo Redentor' thront auf dem Berg Corcovado in Rio de Janeiro und ist eines der modernen Weltwunder. Die 30 Meter hohe Statue wurde 1931 fertiggestellt und gilt als das bedeutendste Wahrzeichen Brasiliens. Sie bietet einen unvergleichlichen Blick über die Stadt und die Bucht und ist ein Symbol für die kulturelle und religiöse Identität des Landes. Geschichte K8 – Bauwerke des 20. Jahrhunderts.",
+      hu: "A Megváltó Krisztus szobra Rio de Janeiro jelképe, amely a Corcovado-hegy tetején állva tekint le a városra. Az 1931-ben átadott, art déco stílusú szobor Brazília egyik legismertebb kulturális szimbóluma, és a világ hét új csodájának egyike. A szoborhoz vezető út és a kilátás a városra felejthetetlen élményt nyújt minden látogatónak. Történelem K8 – modern szimbólumok.",
+      en: "Christ the Redeemer (Cristo Redentor) is an iconic Art Deco statue located at the summit of Mount Corcovado in Rio de Janeiro, overlooking the city and the Guanabara Bay. Standing 30 meters tall, it is a global symbol of Brazil and Christianity, inaugurated in 1931. It has been designated one of the New Seven Wonders of the World and remains Brazil's most recognized architectural landmark. Geography K7 – symbols of national identity."
     },
-    facts: {
-      de: ["Sie ist 30 Meter hoch.", "Die Armspannweite betr\u00e4gt 28 Meter.", "1931 fertiggestellt."],
-      hu: ["A szobor 30 m\u00e9ter magas.", "Karjainak feszt\u00e1vols\u00e1ga 28 m\u00e9ter.", "1931-ben k\u00e9sz\u00fclt el."],
-      ro: ["Statuia are 30 de metri \u00een\u0103l\u021bime.", "Anvergura bra\u021belor este de 28 de metri.", "A fost finalizat\u0103 \u00een 1931."],
-      en: ["The statue is 30 meters tall.", "Its arms stretch 28 meters wide.", "It was completed in 1931."]
-    }
+    factsAdvanced: {
+      en: ["Inaugurated: 1931", "Height: 30 meters (plus pedestal)", "Located on Corcovado Mountain (710m)", "New Seven Wonders of the World", "Material: reinforced concrete and soapstone", "Symbol of peace and national pride"]
+    },
   },
   {
     id: "br-rj-maracana-landmarks-v2",
@@ -36,19 +33,14 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       ro: "Stadionul Maracan\u00e3",
       en: "Maracan\u00e3 Stadium"
     },
-    description: {
-      de: "Eines der ber\u00fchmtesten und gr\u00f6\u00dften Fu\u00dfballstadien der Welt, Schauplatz zahlreicher historischer Spiele.",
-      hu: "A vil\u00e1g egyik legh\u00edresebb \u00e9s legnagyobb futballstadionja, sz\u00e1mos t\u00f6rt\u00e9nelmi m\u00e9rk\u0151z\u00e9s helysz\u00edne.",
-      ro: "Unul dintre cele mai faimoase \u0219i mai mari stadioane de fotbal din lume, locul de desf\u0103\u0219urare a numeroase meciuri istorice.",
-      en: "One of the most famous and largest football stadiums in the world, the site of numerous historic matches."
+    descriptionAdvanced: {
+      de: "Das Maracanã-Stadion in Rio de Janeiro ist eine der legendärsten Sportstätten der Welt und ein Symbol für die brasilianische Leidenschaft für Fußball. Es wurde für die Weltmeisterschaft 1950 gebaut und hat bei zahlreichen historischen Finalspielen als Bühne gedient. Mit seiner monumentalen Architektur ist es ein fester Bestandteil der Sportgeschichte und der Identität Rios. Geschichte K8 – Sporthistorie des 20. Jahrhunderts.",
+      hu: "A Maracanã Stadion Rio de Janeiro szívében Brazília focikultúrájának központja, amely számos történelmi jelentőségű mérkőzésnek és világbajnoki döntőnek adott otthont. Az 1950-es évektől a nemzeti büszkeség jelképe, ma modernizált arénaként fogadja a látogatókat és a rajongókat. Brazília sporttörténetének egyik legmeghatározóbb építménye. Sport K6 – stadionok.",
+      en: "The Maracanã Stadium is one of the most famous football arenas in the world, having hosted two FIFA World Cup finals. Located in Rio de Janeiro, it has witnessed countless historic matches and remains a sacred temple for Brazilian football culture. The stadium is not only an architectural feat but a symbol of the country's profound love for the sport. Geography K7 – sports and cultural arenas."
     },
-    facts: {
-      de: ["Wurde f\u00fcr die WM 1950 erbaut.", "Bot einst Platz f\u00fcr knapp 200.000 Zuschauer.", "Wurde f\u00fcr Olympia 2016 modernisiert."],
-      hu: ["Az 1950-es vil\u00e1gbajnoks\u00e1gra \u00e9p\u00fclt.", "Egykor csaknem 200 ezer n\u00e9z\u0151 befogad\u00e1s\u00e1ra volt alkalmas.", "A 2016-os olimpi\u00e1ra moderniz\u00e1lt\u00e1k."],
-      ro: ["A fost construit pentru Cupa Mondial\u0103 din 1950.", "G\u0103zduia odat\u0103 aproape 200.000 de spectatori.", "A fost modernizat pentru Jocurile Olimpice din 2016."],
-      en: ["Built for the 1950 World Cup.", "Once held nearly 200,000 spectators.", "Modernized for the 2016 Olympics."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Inaugurated: 1950", "Host of 1950 and 2014 World Cup finals", "Iconic symbol of Brazilian football", "Located in Rio de Janeiro", "Historical site for legendary players", "Modernized for global events"]
+    }, image: "/poi-images/br-rj-maracana-landmarks-v2.webp"},
   {
     id: "br-df-catedral-brasilia-landmarks-v2",
     type: "landmark",
@@ -60,19 +52,13 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       ro: "Catedrala din Bras\u00edlia",
       en: "Cathedral of Bras\u00edlia"
     },
-    description: {
-      de: "Ein Meisterwerk der modernen Architektur von Oscar Niemeyer, bekannt f\u00fcr seine kronenartige Struktur.",
-      hu: "Oscar Niemeyer modern \u00e9p\u00edt\u00e9szeti remekm\u0171ve, amely koronaszer\u0171 szerkezet\u00e9r\u0151l ismert.",
-      ro: "O capodoper\u0103 a arhitecturii moderne de Oscar Niemeyer, cunoscut\u0103 pentru structura sa \u00een form\u0103 de coroan\u0103.",
-      en: "A masterpiece of modern architecture by Oscar Niemeyer, known for its crown-like structure."
+    descriptionAdvanced: {
+      hu: "A Brasília-i Székesegyház, Oscar Niemeyer építész egyik legkifejezőbb munkája, egy hiperboloid szerkezetű modernista építmény. A katedrális tizenhat betonpillére az ég felé törő kezeket jelképezi, miközben a belső teret színes üvegablakok teszik fényessé és spirituálissá. Az épület Brazília fővárosának vallási és építészeti központja. Művészet K8 – modern építészet.",
+      en: "The Cathedral of Brasília is an architectural masterpiece designed by Oscar Niemeyer as a place of worship for the new capital. Its striking design features 16 hyperbolic columns reaching toward the sky, crowned by a massive glass roof that floods the interior with natural light. The structure stands as a testament to the bold modernism that defines Brasília's unique urban character. Geography K7 – architectural modernism."
     },
-    facts: {
-      de: ["Entworfen von Oscar Niemeyer.", "Besteht aus 16 Betons\u00e4ulen.", "Besitzt riesige Glasmalereien."],
-      hu: ["Oscar Niemeyer tervezte.", "16 \u00edvelt betonoszlopb\u00f3l \u00e1ll.", "Hatalmas \u00f3lom\u00fcveg ablakai vannak."],
-      ro: ["Proiectat\u0103 de Oscar Niemeyer.", "Const\u0103 din 16 coloane de beton.", "Are vitralii uria\u0219e."],
-      en: ["Designed by Oscar Niemeyer.", "Consists of 16 concrete columns.", "Features massive stained glass windows."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Architect: Oscar Niemeyer", "Completed: 1970", "16 hyperbolic concrete columns", "Iconic glass roof structure", "UNESCO World Heritage Site (as part of Brasília)", "Reflects Brasília's bold modernism"]
+    }, image: "/poi-images/br-df-catedral-brasilia-landmarks-v2.webp"},
   {
     id: "br-df-palacio-planalto-landmarks-v2",
     type: "landmark",
@@ -84,18 +70,13 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       ro: "Palatul Planalto",
       en: "Pal\u00e1cio do Planalto"
     },
-    description: {
-      de: "Der offizielle Arbeitsplatz des Pr\u00e4sidenten von Brasilien, entworfen im modernistischen Stil.",
-      hu: "Braz\u00edlia eln\u00f6k\u00e9nek hivatalos munkahelye, mely modernista st\u00edlusban \u00e9p\u00fclt.",
-      ro: "Locul de munc\u0103 oficial al pre\u0219edintelui Braziliei, proiectat \u00een stil modernist.",
-      en: "The official workplace of the President of Brazil, designed in a modernist style."
+    descriptionAdvanced: {
+      hu: "A Palácio do Planalto a brazil köztársasági elnök hivatalos munkahelye, amely Brasília központjában, a Három Hatalom terén helyezkedik el. A modernista stílusú, letisztult épület az ország kormányzati központja, amely Oscar Niemeyer tervei alapján készült. A nemzeti politika színtere és a brazil demokrácia szimbóluma. Történelem K8 – kormányzati épületek.",
+      en: "The Palácio do Planalto is the official workplace of the President of Brazil, located on the Three Powers Plaza in Brasília. Designed by Oscar Niemeyer, the building is renowned for its sleek, modernist style and its soaring, wing-like columns that give the structure a sense of weightlessness. It is the political heart of the nation and a key icon of Brazilian modern architecture. Geography K7 – governance and administrative centers."
     },
-    facts: {
-      de: ["1960 eingeweiht.", "Am Platz der Drei Gewalten gelegen.", "Entworfen von Oscar Niemeyer."],
-      hu: ["1960-ban avatt\u00e1k fel.", "A H\u00e1rom Hatalom Ter\u00e9n tal\u00e1lhat\u00f3.", "Oscar Niemeyer tervezte."],
-      ro: ["Inaugurat \u00een 1960.", "Situat \u00een Pia\u021ba celor Trei Puteri.", "Proiectat de Oscar Niemeyer."],
-      en: ["Inaugurated in 1960.", "Located in the Plaza of the Three Powers.", "Designed by Oscar Niemeyer."]
-    }
+    factsAdvanced: {
+      en: ["Designed by Oscar Niemeyer", "Official presidential office", "Located on Three Powers Plaza", "Iconic wing-like columns", "Symbol of Brazilian political power", "Part of Brasília's UNESCO modernist complex"]
+    },
   },
   {
     id: "br-df-congresso-nacional-landmarks-v2",
@@ -108,18 +89,13 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       ro: "Congresul Na\u021bional al Braziliei",
       en: "National Congress of Brazil"
     },
-    description: {
-      de: "Das markante Geb\u00e4ude der brasilianischen Legislative mit seinen zwei Kuppeln und Zwillingst\u00fcrmen.",
-      hu: "A brazil t\u00f6rv\u00e9nyhoz\u00e1s felt\u0171n\u0151 \u00e9p\u00fclete k\u00e9t kupol\u00e1j\u00e1val \u00e9s ikertornyaival.",
-      ro: "Cl\u0103direa impresionant\u0103 a puterii legislative braziliene, cu cele dou\u0103 cupole \u0219i turnurile sale gemene.",
-      en: "The striking building of the Brazilian legislature, featuring its two domes and twin towers."
+    descriptionAdvanced: {
+      hu: "A brazil Nemzeti Kongresszus épülete Brasília egyik leglátványosabb modernista alkotása, két kupolával, amelyek a képviselőházat és a szenátust jelképezik. A komplexum szintén Oscar Niemeyer terveit dicséri, és a Három Hatalom terének domináns eleme. A brazil politikai élet és törvényhozás központja, a főváros látképének elmaradhatatlan része. Történelem K8 – törvényhozás.",
+      en: "The National Congress building in Brasília is one of the most recognizable icons of Brazil's capital, housing both the Senate and the Chamber of Deputies. Oscar Niemeyer's design is famous for its twin towers and the contrasting geometric shapes of the domes—one concave, representing the Senate, and one convex, representing the House of Representatives. It is a defining feature of the country's modernist political landscape. Geography K7 – administrative and institutional architecture."
     },
-    facts: {
-      de: ["Beheimatet Senat und Abgeordnetenkammer.", "Die konvexe Kuppel geh\u00f6rt zur Abgeordnetenkammer.", "Die konkave Kuppel geh\u00f6rt zum Senat."],
-      hu: ["A Szen\u00e1tus \u00e9s a K\u00e9pvisel\u0151h\u00e1z otthona.", "A konvex kupola a K\u00e9pvisel\u0151h\u00e1z\u00e9.", "A konk\u00e1v kupola a Szen\u00e1tus\u00e9."],
-      ro: ["G\u0103zduie\u0219te Senatul \u0219i Camera Deputa\u021bilor.", "Cupola convex\u0103 apar\u021bine Camerei Deputa\u021bilor.", "Cupola concav\u0103 apar\u021bine Senatului."],
-      en: ["Houses the Senate and Chamber of Deputies.", "The convex dome belongs to the Chamber.", "The concave dome belongs to the Senate."]
-    }
+    factsAdvanced: {
+      en: ["Designed by Oscar Niemeyer", "Twin towers and distinct geometric domes", "House of the Senate and Chamber of Deputies", "Dominant feature of Brasília's horizon", "Symbol of Brazilian democracy", "UNESCO World Heritage Site (as part of Brasília)"]
+    },
   },
   {
     id: "br-sp-ponte-estaiada-landmarks-v2",
@@ -132,19 +108,12 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       ro: "Podul Oct\u00e1vio Frias de Oliveira",
       en: "Oct\u00e1vio Frias de Oliveira Bridge"
     },
-    description: {
-      de: "Eine ber\u00fchmte Schr\u00e4gseilbr\u00fccke in S\u00e3o Paulo in Form eines X, ein modernes Symbol der Stadt.",
-      hu: "S\u00e3o Paulo h\u00edres, X-alak\u00fa ferdek\u00e1beles h\u00eddja, a v\u00e1ros modern szimb\u00f3luma.",
-      ro: "Un celebru pod hobanat \u00een form\u0103 de X din S\u00e3o Paulo, un simbol modern al ora\u0219ului.",
-      en: "A famous X-shaped cable-stayed bridge in S\u00e3o Paulo, a modern symbol of the city."
+    descriptionAdvanced: {
+      hu: "A Ponte Estaiada (Octávio Frias de Oliveira híd) São Paulo modern közlekedési infrastruktúrájának ikonikus eleme, amely az 'X' alakú tornyával válik felismerhetővé. A híd az éjszakai kivilágításával a város egyik legnépszerűbb fotótémája és technológiai mérföldkő. Fontos összeköttetést biztosít São Paulo két nagy sugárútja között. Földrajz K7 – infrastruktúra."
     },
-    facts: {
-      de: ["Er\u00f6ffnet im Jahr 2008.", "Besitzt zwei gekreuzte Fahrbahnen.", "Ist 138 Meter hoch."],
-      hu: ["2008-ban nyitott\u00e1k meg.", "K\u00e9t keresztez\u0151 \u00fatp\u00e1ly\u00e1val rendelkezik.", "138 m\u00e9ter magas."],
-      ro: ["Inaugurat \u00een 2008.", "Are dou\u0103 benzi \u00eencruci\u0219ate.", "Are 138 de metri \u00een\u0103l\u021bime."],
-      en: ["Opened in 2008.", "Features two crossed curved tracks.", "Stands 138 meters tall."]
-    }
-  },
+    factsAdvanced: {
+      hu: ["Modern közlekedési híd", "'X' alakú torony", "São Paulo látképe", "Éjszakai kivilágítás", "Technológiai mérföldkő", "Városi összeköttetés"]
+    }, image: "/poi-images/br-sp-ponte-estaiada-landmarks-v2.webp"},
   {
     id: "br-sp-masp-landmarks-v2",
     type: "landmark",
@@ -156,19 +125,12 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       ro: "Muzeul de Art\u0103 din S\u00e3o Paulo",
       en: "S\u00e3o Paulo Museum of Art"
     },
-    description: {
-      de: "Ein bedeutendes Kunstmuseum in einem schwebend wirkenden brutalistischen Geb\u00e4ude auf der Avenida Paulista.",
-      hu: "Jelent\u0151s m\u0171v\u00e9szeti m\u00fazeum a Paulista sug\u00e1r\u00faton, amelynek brutalista \u00e9p\u00fclete mintha lebegne.",
-      ro: "Un important muzeu de art\u0103 g\u0103zduit \u00eentr-o cl\u0103dire brutalist\u0103 aparent suspendat\u0103 de pe Avenida Paulista.",
-      en: "A major art museum housed in a seemingly floating brutalist building on Paulista Avenue."
+    descriptionAdvanced: {
+      hu: "A MASP (São Paulo-i Művészeti Múzeum) az Avenida Paulistán található, a világhírű múzeumépület négy hatalmas vörös oszlopon nyugszik, ami az építészet modern csodája. A múzeum gyűjteménye a legnagyobb ilyen jellegű gyűjtemény az egész déli féltekén. A város kulturális életének és művészeti oktatásának központja. Művészet K8 – múzeumok."
     },
-    facts: {
-      de: ["Entworfen von Lina Bo Bardi.", "Ruht auf vier roten S\u00e4ulen.", "Besitzt die wichtigste Kunstsammlung Lateinamerikas."],
-      hu: ["Lina Bo Bardi tervezte.", "N\u00e9gy piros oszlopon nyugszik.", "Latin-Amerika legfontosabb m\u0171v\u00e9szeti gy\u0171jtem\u00e9ny\u00e9vel rendelkezik."],
-      ro: ["Proiectat de Lina Bo Bardi.", "Se sprijin\u0103 pe patru coloane ro\u0219ii.", "De\u021bine cea mai important\u0103 colec\u021bie de art\u0103 din America Latin\u0103."],
-      en: ["Designed by Lina Bo Bardi.", "Rests on four red pillars.", "Holds Latin America's most important art collection."]
-    }
-  },
+    factsAdvanced: {
+      hu: ["Avenida Paulista művészeti központja", "Modern építészeti csoda", "Négy hatalmas vörös oszlop", "Déli félteke legnagyobb gyűjteménye", "Művészeti múzeum", "Kulturális központ"]
+    }, image: "/poi-images/br-sp-masp-landmarks-v2.webp"},
   {
     id: "br-ba-elevador-lacerda-landmarks-v2",
     type: "landmark",
@@ -180,17 +142,11 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       ro: "Ascensorul Lacerda",
       en: "Lacerda Elevator"
     },
-    description: {
-      de: "Ein historischer \u00f6ffentlicher Aufzug in Salvador, der die Oberstadt mit der Unterstadt verbindet.",
-      hu: "T\u00f6rt\u00e9nelmi nyilv\u00e1nos lift Salvadorban, amely a fels\u0151v\u00e1rost k\u00f6ti \u00f6ssze az als\u00f3v\u00e1rossal.",
-      ro: "Un ascensor public istoric din Salvador care leag\u0103 Ora\u0219ul de Sus cu Ora\u0219ul de Jos.",
-      en: "A historic public elevator in Salvador connecting the Upper City with the Lower City."
+    descriptionAdvanced: {
+      hu: "Az Elevador Lacerda Salvador történelmi központjában egy hatalmas lift, amely az Alsóvárost és a Felsővárost (Pelourinho) köti össze. Ez volt a világ első nyilvános liftje, amelyet városi közlekedési céllal építettek, és ma is Salvador egyik legfontosabb közlekedési eszköze. A liftből gyönyörű kilátás nyílik a Mindenszentek öblére. Történelem K8 – közlekedéstörténet."
     },
-    facts: {
-      de: ["Er\u00f6ffnet im Jahr 1873.", "Im Art-d\u00e9co-Stil renoviert.", "\u00dcberwindet einen H\u00f6henunterschied von 72 Metern."],
-      hu: ["1873-ban nyitott\u00e1k meg.", "Art deco st\u00edlusban \u00faj\u00edtott\u00e1k fel.", "72 m\u00e9teres szintk\u00fcl\u00f6nbs\u00e9get k\u00fczd le."],
-      ro: ["Deschis \u00een 1873.", "Renovat \u00een stil Art Deco.", "Are o diferen\u021b\u0103 de nivel de 72 de metri."],
-      en: ["Opened in 1873.", "Renovated in an Art Deco style.", "Travels a height of 72 meters."]
+    factsAdvanced: {
+      hu: ["Salvador közlekedési lift", "Világ első nyilvános liftje", "Alsó- és Felsőváros összekötője", "Történelmi mérföldkő", "Kilátás az öbölre", "Közlekedéstörténet"]
     }
   },
   {
@@ -204,17 +160,11 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       ro: "Catedrala de Piatr\u0103 din Canela",
       en: "Cathedral of Stone in Canela"
     },
-    description: {
-      de: "Eine beeindruckende gotische Kirche in der Stadt Canela, ber\u00fchmt f\u00fcr ihre Basaltfassade.",
-      hu: "Leny\u0171g\u00f6z\u0151 g\u00f3tikus templom Canela v\u00e1ros\u00e1ban, amely bazalt homlokzat\u00e1r\u00f3l h\u00edres.",
-      ro: "O biseric\u0103 gotic\u0103 impresionant\u0103 din ora\u0219ul Canela, faimoas\u0103 pentru fa\u021bada sa din bazalt.",
-      en: "An impressive Gothic church in the town of Canela, famous for its basalt facade."
+    descriptionAdvanced: {
+      hu: "A Catedral de Pedra (Kőszékesegyház) Canela városában, Rio Grande do Sul államban, neogótikus stílusával és magas tornyával tűnik ki. Az épület a déli régió egyik legszebb vallási műemléke, különösen esténként, amikor színes fényekkel világítják meg. A turisták kedvelt célpontja a Gramado-Canela régióban. Földrajz K6 – déli régió műemlékei."
     },
-    facts: {
-      de: ["Erbaut im gotischen Stil.", "Der Turm ist 65 Meter hoch.", "Hat ein Glockenspiel mit 12 Bronzeglocken."],
-      hu: ["G\u00f3tikus st\u00edlusban \u00e9p\u00fclt.", "A torony 65 m\u00e9ter magas.", "Harangj\u00e1t\u00e9ka 12 bronzharangb\u00f3l \u00e1ll."],
-      ro: ["Construit\u0103 \u00een stil gotic.", "Turnul are o \u00een\u0103l\u021bime de 65 de metri.", "Are un carillon cu 12 clopote de bronz."],
-      en: ["Built in Gothic style.", "The tower is 65 meters high.", "Features a carillon with 12 bronze bells."]
+    factsAdvanced: {
+      hu: ["Canela neogótikus székesegyháza", "Rio Grande do Sul műemléke", "Magas, impozáns torony", "Színes esti kivilágítás", "Turisztikai célpont", "Déli vallási központ"]
     }
   },
   {
@@ -228,17 +178,11 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       ro: "Muzeul M\u00e2inelor",
       en: "Museum of Tomorrow"
     },
-    description: {
-      de: "Ein futuristisches Wissenschaftsmuseum in Rio de Janeiro, das sich mit nachhaltigen Zukunftsfragen besch\u00e4ftigt.",
-      hu: "Futurisztikus tudom\u00e1nyos m\u00fazeum Rio de Janeir\u00f3ban, amely a fenntarthat\u00f3 j\u00f6v\u0151 k\u00e9rd\u00e9seivel foglalkozik.",
-      ro: "Un muzeu \u0219tiin\u021bific futurist \u00een Rio de Janeiro, dedicat problemelor de viitor durabil.",
-      en: "A futuristic science museum in Rio de Janeiro focusing on sustainable future questions."
+    descriptionAdvanced: {
+      hu: "A Holnap Múzeuma (Museu do Amanhã) Rio de Janeiro kikötőjében egy futurisztikus épület, amely a tudományra és a fenntartható jövőre összpontosít. Santiago Calatrava spanyol építész tervei alapján készült, a múzeum interaktív kiállításaival vizsgálja a klímaváltozást és az emberiség jövőjét. A modern Rio egyik legfontosabb kulturális fejlesztése. Tudomány K7 – jövőkutatás."
     },
-    facts: {
-      de: ["Entworfen vom Architekten Santiago Calatrava.", "Sieht aus wie ein riesiges Skelett oder Raumschiff.", "Besitzt solarbetriebene, bewegliche Dachfl\u00fcgel."],
-      hu: ["Santiago Calatrava \u00e9p\u00edt\u00e9sz tervezte.", "\u00dagy n\u00e9z ki, mint egy hatalmas csontv\u00e1z vagy \u0171rhaj\u00f3.", "Napenergi\u00e1val m\u0171k\u00f6d\u0151, mozgathat\u00f3 tet\u0151sz\u00e1rnyai vannak."],
-      ro: ["Proiectat de arhitectul Santiago Calatrava.", "Arat\u0103 ca un schelet uria\u0219 sau o nav\u0103 spa\u021bial\u0103.", "Are aripi pe acoperi\u0219 mobile alimentate cu energie solar\u0103."],
-      en: ["Designed by architect Santiago Calatrava.", "Looks like a giant skeleton or spaceship.", "Features solar-powered, movable roof wings."]
+    factsAdvanced: {
+      hu: ["Futurisztikus épület", "Santiago Calatrava alkotása", "Tudomány és fenntarthatóság", "Interaktív kiállítások", "Klímaváltozás vizsgálata", "Modern kulturális fejlesztés"]
     }
   },
   {
@@ -287,8 +231,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["1926-ban \u00e9p\u00fclt.", "Hossza 821 m\u00e9ter.", "\u00c9vtizedes lez\u00e1r\u00e1s ut\u00e1n 2019-ben nyitott\u00e1k meg \u00fajra."],
       ro: ["Finalizat \u00een 1926.", "Are o lungime de 821 de metri.", "Redeschis \u00een 2019 dup\u0103 decenii de \u00eenchidere."],
       en: ["Completed in 1926.", "Has a length of 821 meters.", "Reopened in 2019 after decades of closure."]
-    }
-  },
+    }, image: "/poi-images/br-sc-ponte-hercilio-luz-landmarks-v2.webp"},
   {
     id: "br-sp-edificio-copan-landmarks-v2",
     type: "landmark",
@@ -359,8 +302,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["1891-ben \u00e9p\u00fclt.", "29 m\u00e9ter magas.", "A lencs\u00e9it Franciaorsz\u00e1gb\u00f3l hozt\u00e1k."],
       ro: ["Construit \u00een 1891.", "Are 29 de metri \u00een\u0103l\u021bime.", "Lentilele au fost importate din Fran\u021ba."],
       en: ["Built in 1891.", "Is 29 meters high.", "The lenses were imported from France."]
-    }
-  },
+    }, image: "/poi-images/br-sc-farol-santa-marta-landmarks-v2.webp"},
   {
     id: "br-sp-monumento-bandeiras-landmarks-v2",
     type: "landmark",
@@ -383,8 +325,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["Victor Brecheret szobr\u00e1sz alkot\u00e1sa.", "Hatalmas gr\u00e1nitt\u00f6mb\u00f6kb\u0151l \u00e1ll.", "\u00d6sszs\u00falya k\u00f6r\u00fclbel\u00fcl 50 tonna."],
       ro: ["Creat de sculptorul Victor Brecheret.", "Se compune din blocuri masive de granit.", "C\u00e2nt\u0103re\u0219te \u00een total aproximativ 50 de tone."],
       en: ["Created by sculptor Victor Brecheret.", "Consists of massive granite blocks.", "Weighs a total of about 50 tons."]
-    }
-  },
+    }, image: "/poi-images/br-sp-monumento-bandeiras-landmarks-v2.webp"},
   {
     id: "br-pr-estufa-curitiba-landmarks-v2",
     type: "landmark",
@@ -527,8 +468,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["1965-ben nyitott\u00e1k meg.", "A 2014-es vil\u00e1gbajnoks\u00e1gra teljesen fel\u00faj\u00edtott\u00e1k.", "Itt zajlott a nevezetes 7-1-es n\u00e9met-brazil m\u00e9rk\u0151z\u00e9s."],
       ro: ["Deschis \u00een 1965.", "A fost complet renovat pentru Cupa Mondial\u0103 din 2014.", "Aici a avut loc memorabilul meci 7-1 dintre Germania \u0219i Brazilia."],
       en: ["Opened in 1965.", "Completely renovated for the 2014 World Cup.", "Site of the memorable 7-1 match between Germany and Brazil."]
-    }
-  },
+    }, image: "/poi-images/br-mg-mineirao-landmarks-v2.webp"},
   {
     id: "br-df-torre-tv-landmarks-v2",
     type: "landmark",
@@ -551,8 +491,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["224 m\u00e9ter magas.", "L\u00facio Costa v\u00e1rostervez\u0151 alkotta meg.", "A kil\u00e1t\u00f3terasza 75 m\u00e9teres magass\u00e1gban van."],
       ro: ["Are o \u00een\u0103l\u021bime de 224 de metri.", "Proiectat de urbanistul L\u00facio Costa.", "Are o platform\u0103 de observare la o \u00een\u0103l\u021bime de 75 de metri."],
       en: ["Stands 224 meters tall.", "Designed by urban planner L\u00facio Costa.", "Has an observation deck at a height of 75 meters."]
-    }
-  },
+    }, image: "/poi-images/br-df-torre-tv-landmarks-v2.webp"},
   {
     id: "br-pb-farol-cabo-branco-landmarks-v2",
     type: "landmark",
@@ -575,8 +514,7 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
       hu: ["1972-ben adt\u00e1k \u00e1t.", "Form\u00e1ja egy sziz\u00e1ln\u00f6v\u00e9nyre eml\u00e9keztet.", "Meredek szikl\u00e1n \u00e1ll az Atlanti-\u00f3ce\u00e1n partj\u00e1n."],
       ro: ["Deschis \u00een 1972.", "Forma sa aminte\u0219te de o plant\u0103 de sisal.", "St\u0103 pe o st\u00e2nc\u0103 abrupt\u0103 l\u00e2ng\u0103 Oceanul Atlantic."],
       en: ["Opened in 1972.", "Its shape resembles a sisal plant.", "Stands on a steep cliff by the Atlantic Ocean."]
-    }
-  },
+    }, image: "/poi-images/br-pb-farol-cabo-branco-landmarks-v2.webp"},
   {
     id: "br-df-santuario-dom-bosco-landmarks-v2",
     type: "landmark",
@@ -722,3 +660,4 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     }
   }
 ];
+

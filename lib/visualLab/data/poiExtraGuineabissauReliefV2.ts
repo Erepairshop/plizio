@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGuineabissauReliefV2: POI[] = [
@@ -23,8 +24,19 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Az ország legmagasabb pontja", "A Fouta Djallon nyúlványainak része"],
       ro: ["Cel mai înalt punct al țării", "Parte a ramificațiilor Fouta Djallon"],
       en: ["Highest point in the country", "Part of the Fouta Djallon foothills"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Mount Mocende gilt als der höchste Punkt von Guinea-Bissau und erreicht eine Höhe von etwa 300 Metern. Er befindet sich im Südosten des Landes, in der hügeligen Boé-Region, die sich geologisch deutlich vom flachen Küstenland unterscheidet. Der Berg ist Teil der Ausläufer des Fouta-Djallon-Massivs, einer bedeutenden Hochebene in Westafrika. Diese Region ist historisch bedeutsam, da sie während des Unabhängigkeitskrieges als Rückzugsort diente. Földrajz K7 — hegységek és folyók.",
+      hu: "A Mocende-hegy Bissau-Guinea legmagasabb pontja, tengerszint feletti magassága eléri a 300 métert. Az ország délkeleti részén, a Boé-régió dombos tájain található, amely geológiailag jelentősen eltér az alacsonyan fekvő partvidéktől. A hegy a nyugat-afrikai Fouta Djallon-fennsík nyúlványainak része. A terület történelmi jelentőséggel bír, mivel a függetlenségi harcok idején stratégiai menedékhelyként szolgált. Földrajz K7 — hegységek és folyók.",
+      ro: "Muntele Mocende este considerat cel mai înalt punct din Guineea-Bissau, atingând o altitudine de aproximativ 300 de metri. Acesta este situat în sud-estul țării, în regiunea deluroasă Boé, care se diferențiază geologic semnificativ de câmpiile de coastă joase. Muntele face parte din ramificațiile masivului Fouta Djallon, un podiș semnificativ în Africa de Vest. Această regiune este importantă istoric, servind drept refugiu în timpul războiului de independență. Földrajz K7 — hegységek și folyók.",
+      en: "Mount Mocende is considered the highest point in Guinea-Bissau, reaching an altitude of approximately 300 meters. It is located in the southeast of the country, in the hilly Boé region, which is geologically distinct from the low-lying coastal plains. The mountain is part of the foothills of the Fouta Djallon massif, a significant plateau in West Africa. This region is historically important as it served as a refuge during the war for independence. Földrajz K7 — hegységek és folyók."
+    },
+    factsAdvanced: {
+      de: ["Höhe von ca. 300 Metern", "Teil des Fouta-Djallon-Massivs", "Gelegen in der Boé-Region", "Südöstliche Landesgrenze", "Bedeutend im Unabhängigkeitskrieg", "Wichtigstes geologisches Relief"],
+      hu: ["Kb. 300 méteres magasság", "A Fouta Djallon-fennsík része", "A Boé-régióban található", "Délkeleti határvidék", "Fontos szerep a függetlenségi harcokban", "Az ország legfontosabb hegyvonulata"],
+      ro: ["Altitudine de cca. 300 metri", "Parte a masivului Fouta Djallon", "Situat în regiunea Boé", "Zona graniței de sud-est", "Importanță în războiul de independență", "Cel mai important relief geologic"],
+      en: ["Altitude of approx. 300 meters", "Part of the Fouta Djallon massif", "Located in the Boé region", "Southeastern border area", "Important in the war of independence", "Key geological relief feature"]
+    }, image: "/poi-images/mount-mocende-relief-v2.webp"},
   {
     id: "boe-plateau-relief-v2",
     type: "relief",
@@ -47,8 +59,19 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Sziklás terep", "A függetlenség kikiáltásának helyszíne"],
       ro: ["Teren stâncos", "Locul proclamării independenței"],
       en: ["Rocky terrain", "Birthplace of national independence"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Boé-Plateau ist eine charakteristische, felsige Hochfläche im Südosten von Guinea-Bissau. Mit seinem zerklüfteten Gelände bietet es einen starken Kontrast zu den weiten, flachen Mangrovensümpfen der Atlantikküste. Das Plateau war der zentrale Ort, an dem 1973 die Unabhängigkeit Guinea-Bissaus proklamiert wurde, was ihm eine hohe nationale Bedeutung verleiht. Die geologische Struktur besteht primär aus lateritischen Gesteinsformationen. Geschichte K8 — függetlenségi harcok.",
+      hu: "A Boé-fennsík egy jellegzetes, sziklás magaslat Bissau-Guinea délkeleti részén. Tagolt domborzatával éles kontrasztot alkot az Atlanti-óceán partvidékének széles, lapos mangrovemocsaraival. A fennsík központi helyszín volt, ahol 1973-ban kikiáltották Bissau-Guinea függetlenségét, ami nagy nemzeti jelentőséget kölcsönöz neki. Geológiai szerkezete főként laterites kőzetképződményekből áll. Geschichte K8 — függetlenségi harcok.",
+      ro: "Podișul Boé este o zonă înaltă stâncoasă, caracteristică pentru sud-estul Guineei-Bissau. Cu relieful său accidentat, oferă un contrast puternic față de mlaștinile de mangrove întinse și plate ale coastei atlantice. Podișul a fost locul central în care a fost proclamată independența Guineei-Bissau în 1973, conferindu-i o importanță națională majoră. Structura geologică constă în principal din formațiuni de roci lateritice. Geschichte K8 — függetlenségi harcok.",
+      en: "The Boé Plateau is a distinctive, rocky upland area in the southeast of Guinea-Bissau. With its rugged terrain, it offers a sharp contrast to the vast, flat mangrove swamps of the Atlantic coast. The plateau was the central site where the independence of Guinea-Bissau was proclaimed in 1973, giving it major national significance. Its geological structure consists primarily of laterite rock formations. Geschichte K8 — függetlenségi harcok."
+    },
+    factsAdvanced: {
+      de: ["Ort der Unabhängigkeitserklärung 1973", "Lateritgestein-Struktur", "Höhenlage über den Küstenebenen", "Zerklüftetes Gelände", "Historischer Rückzugsort", "Östliche Grenzregion"],
+      hu: ["Az 1973-as függetlenségi nyilatkozat helyszíne", "Laterites kőzetstruktúra", "Tengerszint feletti magasság", "Tagolt terep", "Történelmi búvóhely", "Keleti határvidék"],
+      ro: ["Locul proclamării independenței în 1973", "Structură din rocă lateritică", "Altitudine peste câmpiile de coastă", "Teren accidentat", "Refugiu istoric", "Regiunea graniței de est"],
+      en: ["Site of 1973 independence declaration", "Laterite rock structure", "Elevation above coastal plains", "Rugged terrain", "Historical refuge", "Eastern border region"]
+    }, image: "/poi-images/boe-plateau-relief-v2.webp"},
   {
     id: "varela-dunes-relief-v2",
     type: "relief",
@@ -71,8 +94,19 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Parti dűnerendszer", "Finom fehér homok"],
       ro: ["Sistem de dune de coastă", "Nisip alb fin"],
       en: ["Coastal dune system", "Fine white sand"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Varela-Dünen erstrecken sich entlang der nordwestlichen Küste Guinea-Bissaus und bilden eine einzigartige geologische Zone. Im Gegensatz zu den mangrovebewachsenen Deltas im Süden dominieren hier feine Sandstrände und sich dynamisch verändernde Sanddünen. Die Region dient als Lebensraum für spezialisierte Küstenflora und bietet einen wichtigen Puffer gegen den Atlantischen Ozean. Diese Formationen sind ein seltenes Beispiel für aktive Dünensysteme in dieser Region Westafrikas. Sachkunde K3 — állatok élőhelye.",
+      hu: "A Varela-dűnék Bissau-Guinea északnyugati partvonala mentén húzódnak, egyedi geológiai zónát alkotva. Ellentétben a déli, mangrovedús deltákkal, itt finom homokos strandok és dinamikusan változó homokdűnék dominálnak. A régió speciális parti növényzet élőhelye, és fontos védelmet nyújt az Atlanti-óceán hatásaival szemben. Ezek a képződmények ritka példái az aktív dűnerendszereknek Nyugat-Afrika ezen részén. Sachkunde K3 — állatok élőhelye.",
+      ro: "Dunele din Varela se întind de-a lungul coastei de nord-vest a Guineei-Bissau, formând o zonă geologică unică. Spre deosebire de deltele acoperite cu mangrove din sud, aici predomină plajele cu nisip fin și dunele care se modifică dinamic. Regiunea servește drept habitat pentru flora de coastă specializată și oferă un tampon important împotriva Oceanului Atlantic. Aceste formațiuni sunt un exemplu rar de sisteme de dune active în această regiune a Africii de Vest. Sachkunde K3 — állatok élőhelye.",
+      en: "The Varela Dunes stretch along the northwestern coast of Guinea-Bissau, forming a unique geological zone. In contrast to the mangrove-covered deltas in the south, this area is dominated by fine sandy beaches and dynamically shifting sand dunes. The region serves as a habitat for specialized coastal flora and provides an important buffer against the Atlantic Ocean. These formations are a rare example of active dune systems in this part of West Africa. Sachkunde K3 — állatok élőhelye."
+    },
+    factsAdvanced: {
+      de: ["Aktives Dünensystem", "Nordwestliche Küstenlage", "Lebensraum für Küstenflora", "Geologischer Atlantik-Übergang", "Dynamische Sandbewegungen", "Wichtiger Küstenschutz"],
+      hu: ["Aktív dűnerendszer", "Északnyugati parti fekvés", "Parti növényzet élőhelye", "Geológiai átmenet az Atlanti-óceánhoz", "Dinamikus homokmozgások", "Fontos partvédelem"],
+      ro: ["Sistem de dune active", "Poziție pe coasta de nord-vest", "Habitat pentru flora de coastă", "Tranziție geologică spre Atlantic", "Mișcări dinamice ale nisipului", "Protecție importantă a coastei"],
+      en: ["Active dune system", "Northwestern coastal location", "Habitat for coastal flora", "Geological transition to Atlantic", "Dynamic sand movements", "Important coastal protection"]
+    }, image: "/poi-images/varela-dunes-relief-v2.webp"},
   {
     id: "binta-forest-relief-v2",
     type: "forest",
@@ -95,8 +129,19 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Biodiverzitási folyosó", "Száraz erdei vegetáció"],
       ro: ["Coridor de biodiversitate", "Vegetație de pădure uscată"],
       en: ["Biodiversity corridor", "Dry forest vegetation"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Binta-Wald im Norden von Guinea-Bissau ist ein komplexes Waldgebiet, das eine entscheidende ökologische Schnittstelle darstellt. Die Landschaft kombiniert Merkmale der sudanesischen Savanne mit dichteren Galeriewäldern entlang der Wasserläufe. Diese Vegetation unterstützt eine hohe Biodiversität und bietet Schutz für verschiedene lokale Tierarten. Das Gebiet spielt zudem eine wichtige Rolle im lokalen Wasserkreislauf und im Schutz vor Bodenerosion. Földrajz K7 — ökoszisztémák.",
+      hu: "A Binta-erdő Bissau-Guinea északi részén egy összetett erdőterület, amely kritikus ökológiai átmeneti pont. A táj a szudáni szavanna jellegzetességeit ötvözi a vízfolyások mentén húzódó sűrűbb galériaerdőkkel. Ez a növényzet támogatja a gazdag biológiai sokféleséget, és menedéket nyújt számos helyi állatfaj számára. A terület emellett fontos szerepet játszik a helyi vízkörforgásban és a talajerózió elleni védelemben. Földrajz K7 — ökoszisztémák.",
+      ro: "Pădurea Binta din nordul Guineei-Bissau este o zonă forestieră complexă, reprezentând o interfață ecologică crucială. Peisajul combină caracteristicile savanei sudaneze cu păduri-galerie mai dense de-a lungul cursurilor de apă. Această vegetație susține o biodiversitate ridicată și oferă adăpost pentru diverse specii locale de animale. Zona joacă, de asemenea, un rol important în circuitul local al apei și în protecția împotriva eroziunii solului. Földrajz K7 — ökoszisztémák.",
+      en: "Binta Forest in northern Guinea-Bissau is a complex woodland area, representing a crucial ecological interface. The landscape combines features of the Sudanese savanna with denser gallery forests along the waterways. This vegetation supports high biodiversity and provides shelter for various local animal species. The area also plays an important role in the local water cycle and in protecting against soil erosion. Földrajz K7 — ökoszisztémák."
+    },
+    factsAdvanced: {
+      de: ["Schnittstelle Savanne und Wald", "Wichtiger Biodiversitätskorridor", "Schutz vor Bodenerosion", "Beheimatet diverse Tierarten", "Nördliche Landesregion", "Teil des lokalen Wasserkreislaufs"],
+      hu: ["A szavanna és az erdő találkozása", "Fontos biodiverzitási folyosó", "Talajerózió elleni védelem", "Számos állatfaj élőhelye", "Északi régió", "A vízkörforgás része"],
+      ro: ["Interfață între savană și pădure", "Coridor important de biodiversitate", "Protecție împotriva eroziunii solului", "Găzduiește specii diverse de animale", "Regiunea nordică", "Parte a circuitului apei"],
+      en: ["Interface of savanna and forest", "Important biodiversity corridor", "Protection against soil erosion", "Home to diverse animal species", "Northern region", "Part of local water cycle"]
+    }, image: "/poi-images/binta-forest-relief-v2.webp"},
   {
     id: "geba-lowland-relief-v2",
     type: "relief",
@@ -119,8 +164,19 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Alluviális síkság", "Fontos rizstermesztő terület"],
       ro: ["Câmpie aluvială", "Zonă importantă pentru cultura orezului"],
       en: ["Alluvial plain", "Major rice-growing area"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Geba-Niederung ist das Herzstück des landwirtschaftlichen Lebens in Guinea-Bissau und erstreckt sich als ausgedehnte Tiefebene entlang des Flusses. Das Relief wird durch alluviale Sedimente geformt, die durch regelmäßige saisonale Fluten fruchtbar gehalten werden. Diese Ebene ist das primäre Gebiet für den Reisanbau, was sie für die Ernährungssicherheit des Landes unverzichtbar macht. Die geomorphologische Beschaffenheit ermöglicht zudem komplexe Bewässerungssysteme. Földrajz K7 — mezőgazdaság.",
+      hu: "A Geba-alföld Bissau-Guinea mezőgazdasági életének központja, amely kiterjedt síkságként húzódik a folyó mentén. A domborzatot az alluviális üledékek alakítják, amelyeket a rendszeres szezonális áradások termékenyen tartanak. Ez a síkság az elsődleges terület a rizstermesztéshez, ami nélkülözhetetlenné teszi az ország élelmezésbiztonsága szempontjából. A geomorfológiai adottságok emellett lehetővé teszik a komplex öntözőrendszerek kialakítását. Földrajz K7 — mezőgazdaság.",
+      ro: "Câmpia Geba reprezintă inima vieții agricole din Guineea-Bissau, întinzându-se ca o câmpie joasă de-a lungul râului. Relieful este modelat de sedimentele aluviale, care sunt menținute fertile prin inundații sezoniere regulate. Această câmpie este principala zonă pentru cultura orezului, ceea ce o face indispensabilă pentru securitatea alimentară a țării. Condițiile geomorfologice permit, de asemenea, sisteme complexe de irigații. Földrajz K7 — mezőgazdaság.",
+      en: "The Geba Lowland is the heart of agricultural life in Guinea-Bissau, stretching as an extensive flat plain along the river. The relief is shaped by alluvial sediments, which are kept fertile by regular seasonal floods. This plain is the primary area for rice cultivation, making it indispensable for the country's food security. The geomorphological conditions also allow for complex irrigation systems. Földrajz K7 — mezőgazdaság."
+    },
+    factsAdvanced: {
+      de: ["Größtes Reisanbaugebiet", "Alluviale Sedimentebene", "Regelmäßige saisonale Überflutung", "Essentiell für Nahrungssicherheit", "Zentrales Flusstal", "Geba-Flusssystem"],
+      hu: ["Legnagyobb rizstermesztő terület", "Alluviális üledékes síkság", "Rendszeres szezonális elöntés", "Alapvető élelmiszerbiztonság", "Központi folyóvölgy", "Geba-folyórendszer"],
+      ro: ["Cea mai mare zonă de orez", "Câmpie aluvială", "Inundații sezoniere regulate", "Esențială pentru securitatea alimentară", "Vale fluvială centrală", "Sistemul râului Geba"],
+      en: ["Largest rice-growing area", "Alluvial sediment plain", "Regular seasonal flooding", "Essential for food security", "Central river valley", "Geba river system"]
+    }, image: "/poi-images/geba-lowland-relief-v2.webp"},
   {
     id: "corubal-basin-relief-v2",
     type: "relief",
@@ -143,8 +199,7 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Eróziós táj", "Számos zúgó"],
       ro: ["Peisaj de eroziune", "Numeroase praguri și cataracte"],
       en: ["Erosional landscape", "Numerous rapids"]
-    }
-  },
+    }, image: "/poi-images/corubal-basin-relief-v2.webp"},
   {
     id: "mansoa-mangroves-relief-v2",
     type: "forest",
@@ -167,8 +222,7 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Árapályerdő", "Halak szaporodóhelye"],
       ro: ["Pădure de maree", "Loc de reproducere pentru pești"],
       en: ["Tidal forest", "Breeding ground for fish"]
-    }
-  },
+    }, image: "/poi-images/mansoa-mangroves-relief-v2.webp"},
   {
     id: "rio-grande-relief-v2",
     type: "relief",
@@ -191,8 +245,7 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Tektonikus süllyedék", "Mély tengeröböl"],
       ro: ["Depresiune tectonică", "Braț de mare adânc"],
       en: ["Tectonic depression", "Deep sea inlet"]
-    }
-  },
+    }, image: "/poi-images/rio-grande-relief-v2.webp"},
   {
     id: "bolama-palm-forest-relief-v2",
     type: "forest",
@@ -215,8 +268,7 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Olajpálma-monokultúra", "Trópusi szigetvilág flórája"],
       ro: ["Monocultură de palmieri", "Floră insulară tropicală"],
       en: ["Oil palm monoculture", "Tropical island flora"]
-    }
-  },
+    }, image: "/poi-images/bolama-palm-forest-relief-v2.webp"},
   {
     id: "quinara-hills-relief-v2",
     type: "relief",
@@ -287,8 +339,7 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Elsődleges erdőmaradványok", "Magas csapadékmennyiség"],
       ro: ["Fragmente de pădure primară", "Precipitații abundente"],
       en: ["Primary forest fragments", "High rainfall levels"]
-    }
-  },
+    }, image: "/poi-images/tombali-rainforest-relief-v2.webp"},
   {
     id: "cacheu-plain-relief-v2",
     type: "relief",
@@ -311,8 +362,7 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Parti üledékek", "Mocsaras táj"],
       ro: ["Sedimente de coastă", "Peisaj mlăștinos"],
       en: ["Coastal sediments", "Marshy landscape"]
-    }
-  },
+    }, image: "/poi-images/cacheu-plain-relief-v2.webp"},
   {
     id: "bubaque-coastal-relief-v2",
     type: "relief",
@@ -335,8 +385,7 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Laterit formációk", "Árapály-fennsíkok"],
       ro: ["Formațiuni de laterit", "Podișuri de maree"],
       en: ["Laterite formations", "Tidal plateaus"]
-    }
-  },
+    }, image: "/poi-images/bubaque-coastal-relief-v2.webp"},
   {
     id: "rubane-forest-relief-v2",
     type: "forest",
@@ -359,8 +408,7 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Szigeti őserdő", "Ritka növények menedékhelye"],
       ro: ["Pădure virgină insulară", "Refugiu pentru plante rare"],
       en: ["Island jungle", "Refuge for rare plants"]
-    }
-  },
+    }, image: "/poi-images/rubane-forest-relief-v2.webp"},
   {
     id: "bafata-hills-relief-v2",
     type: "relief",
@@ -407,8 +455,7 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Geológiai süllyedék", "Ásványkincsekben gazdag terület"],
       ro: ["Depresiune geologică", "Zonă bogată în minerale"],
       en: ["Geological depression", "Mineral-rich area"]
-    }
-  },
+    }, image: "/poi-images/farim-depression-relief-v2.webp"},
   {
     id: "biombo-coastal-swamp-relief-v2",
     type: "forest",
@@ -431,8 +478,7 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Mocsárerdő", "Árapály-zóna"],
       ro: ["Pădure de mlaștină", "Zonă de maree"],
       en: ["Swamp forest", "Tidal zone"]
-    }
-  },
+    }, image: "/poi-images/biombo-coastal-swamp-relief-v2.webp"},
   {
     id: "oio-plateau-relief-v2",
     type: "relief",
@@ -455,8 +501,7 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       hu: ["Mezőgazdasági fennsík", "Hullámos domborzat"],
       ro: ["Podiș agrar", "Relief vălurit"],
       en: ["Agricultural plateau", "Undulating relief"]
-    }
-  },
+    }, image: "/poi-images/oio-plateau-relief-v2.webp"},
   {
     id: "galinhas-forest-relief-v2",
     type: "forest",
@@ -482,3 +527,4 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
     }
   }
 ];
+

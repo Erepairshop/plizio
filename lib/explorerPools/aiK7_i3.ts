@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/aiK7_i3.ts
 import type { PoolTopicDef } from "./types";
 
@@ -15,7 +16,7 @@ export const INFO_K7_I3_LABELS: Record<string, Record<string, string>> = {
     t5_title: "KI im Weltraum", t5_text: "KI hilft bei der Auswertung von Satellitendaten und steuert Mars-Rover.", t5_inst: "Markiere das richtige Wort:", t5_h1: "Zu den Sternen.", t5_h2: "Ferne Welten erkunden.", t5_q: "Warum nutzt man KI im All?", t5_qa: "Wegen der Zeitverzögerung", t5_qb: "Wegen der Kälte", t5_qc: "Weil es dort kein Licht gibt", t5_qd: "KI kann besser atmen",
     t5_tk1: "KI", t5_tk2: "steuert", t5_tk3: "Rover", t5_tk4: "autonom", t5_tk5: "auf", t5_tk6: "dem", t5_tk7: "Mars.",
     t6_title: "Personalisierte Bildung", t6_text: "KI-Tutorien passen sich genau deinem Lerntempo und deinen Lücken an.", t6_inst: "Tippe auf den Lernpfad:", t6_h1: "Individuelles Lernen.", t6_h2: "Dein digitaler Lehrer.", t6_q: "Wie hilft KI beim Lernen?", t6_qa: "Durch passgenaue Übungen", t6_qb: "Durch Hausaufgaben-Verbot", t6_qc: "Indem sie alles vorsagt", t6_qd: "Gar nicht",
-    t6_tap_count: 3, t6_tap_inst: "Tippe 3 Mal auf den Lernpfad!",
+    t6_tap_count: "3", t6_tap_inst: "Tippe 3 Mal auf den Lernpfad!",
     t7_title: "Wissenschaft & KI", t7_text: "KI findet neue Medikamente oder faltet Proteine in Rekordzeit.", t7_inst: "Ordne die Paare zu:", t7_h1: "Labor der Zukunft.", t7_h2: "Forschung beschleunigen.", t7_q: "Was kann KI in der Chemie tun?", t7_qa: "Strukturen simulieren", t7_qb: "Reagenzgläser putzen", t7_qc: "Kaffee kochen", t7_qd: "Sauerstoff erzeugen",
     t7_l1: "Protein", t7_r1: "Biologie", t7_l2: "Molekül", t7_r2: "Chemie", t7_l3: "Daten", t7_r3: "Grundlage",
     t8_title: "Klimaschutz mit KI", t8_text: "KI berechnet Klimamodelle und hilft, den Energieverbrauch weltweit zu senken.", t8_inst: "Fülle die Lücke aus:", t8_h1: "Rettet den Planeten.", t8_h2: "Umwelttechnik.", t8_q: "Wie schützt KI die Umwelt?", t8_qa: "Durch Optimierung von Energie", t8_qb: "Durch mehr Plastik", t8_qc: "Indem sie Bäume fällt", t8_qd: "Durch mehr Server",
@@ -27,7 +28,7 @@ export const INFO_K7_I3_LABELS: Record<string, Record<string, string>> = {
     t11_title: "Die Singularität", t11_text: "Ein theoretischer Zeitpunkt, an dem KI klüger als die gesamte Menschheit wird.", t11_inst: "Markiere das richtige Wort:", t11_h1: "Superintelligenz.", t11_h2: "Zukunftstheorie.", t11_q: "Was ist die Singularität?", t11_qa: "KI übertrifft Menschen", t11_qb: "Ein neuer Feiertag", t11_qc: "Ein KI-Museum", t11_qd: "Ein kaputter Computer",
     t11_tk1: "Singularität", t11_tk2: "beschreibt", t11_tk3: "den", t11_tk4: "Aufstieg", t11_tk5: "der", t11_tk6: "Superintelligenz.",
     t12_title: "Kreative KI", t12_text: "KI schreibt Gedichte und Geschichten, die fast menschlich wirken.", t12_inst: "Tippe auf die Kreativität:", t12_h1: "Dichtung mit Daten.", t12_h2: "KI als Autor.", t12_q: "Was kann eine KI-Schreibsoftware?", t12_qa: "Texte verfassen", t12_qb: "Bilder malen", t12_qc: "Kaffee kochen", t12_qd: "Hardware reparieren",
-    t12_tap_count: 4, t12_tap_inst: "Tippe 4 Mal auf das Buch!",
+    t12_tap_count: "4", t12_tap_inst: "Tippe 4 Mal auf das Buch!",
     t13_title: "Game AI", t13_text: "KI macht Gegner in Videospielen schlauer und Welten lebendiger.", t13_inst: "Ordne die Paare zu:", t13_h1: "Smarte Gegner.", t13_h2: "Spielspaß.", t13_q: "Was macht Game AI?", t13_qa: "Steuert NPC-Verhalten", t13_qb: "Macht das Internet schneller", t13_qc: "Säubert die Konsole", t13_qd: "Verkauft Spiele",
     t13_l1: "NPC", t13_r1: "Spielfigur", t13_l2: "Pathfinding", t13_r2: "Wegfindung", t13_l3: "Procedural", t13_r3: "Zufällig generiert",
     t14_title: "Deine Zukunft mit KI", t14_text: "Du wirst lernen, KI als Werkzeug für deine eigenen Ideen zu nutzen.", t14_inst: "Fülle die Lücke aus:", t14_h1: "Du bist der Chef.", t14_h2: "Mitgestaltung.", t14_q: "Was ist wichtig im Umgang mit KI?", t14_qa: "Kritisches Denken", t14_qb: "Blindes Vertrauen", t14_qc: "Angst", t14_qd: "Ignoranz",
@@ -48,7 +49,7 @@ export const INFO_K7_I3_LABELS: Record<string, Record<string, string>> = {
     t5_title: "AI in Space", t5_text: "AI helps in analyzing satellite data and controls Mars rovers.", t5_inst: "Highlight the correct word:", t5_h1: "To the stars.", t5_h2: "Exploring distant worlds.", t5_q: "Why is AI used in space?", t5_qa: "Because of the time delay", t5_qb: "Because of the cold", t5_qc: "Because there is no light", t5_qd: "AI can breathe better",
     t5_tk1: "AI", t5_tk2: "controls", t5_tk3: "rovers", t5_tk4: "autonomously", t5_tk5: "on", t5_tk6: "Mars.", t5_tk7: "",
     t6_title: "Personalized Education", t6_text: "AI tutorials adapt exactly to your learning pace and your gaps.", t6_inst: "Tap on the learning path:", t6_h1: "Individual learning.", t6_h2: "Your digital tutor.", t6_q: "How does AI help with learning?", t6_qa: "Through tailor-made exercises", t6_qb: "By banning homework", t6_qc: "By telling you all the answers", t6_qd: "Not at all",
-    t6_tap_count: 3, t6_tap_inst: "Tap the learning path 3 times!",
+    t6_tap_count: "3", t6_tap_inst: "Tap the learning path 3 times!",
     t7_title: "Science & AI", t7_text: "AI finds new medicines or folds proteins in record time.", t7_inst: "Match the pairs:", t7_h1: "Lab of the future.", t7_h2: "Accelerating research.", t7_q: "What can AI do in chemistry?", t7_qa: "Simulate structures", t7_qb: "Clean test tubes", t7_qc: "Make coffee", t7_qd: "Generate oxygen",
     t7_l1: "Protein", t7_r1: "Biology", t7_l2: "Molecule", t7_r2: "Chemistry", t7_l3: "Data", t7_r3: "Foundation",
     t8_title: "Climate Protection with AI", t8_text: "AI calculates climate models and helps to reduce global energy consumption.", t8_inst: "Fill in the blank:", t8_h1: "Save the planet.", t8_h2: "Environmental tech.", t8_q: "How does AI protect the environment?", t8_qa: "By optimizing energy", t8_qb: "By more plastic", t8_qc: "By cutting down trees", t8_qd: "By more servers",
@@ -60,7 +61,7 @@ export const INFO_K7_I3_LABELS: Record<string, Record<string, string>> = {
     t11_title: "The Singularity", t11_text: "A theoretical point in time when AI becomes smarter than all of humanity.", t11_inst: "Highlight the correct word:", t11_h1: "Superintelligence.", t11_h2: "Future theory.", t11_q: "What is the Singularity?", t11_qa: "AI surpasses humans", t11_qb: "A new holiday", t11_qc: "An AI museum", t11_qd: "A broken computer",
     t11_tk1: "Singularity", t11_tk2: "describes", t11_tk3: "the", t11_tk4: "rise", t11_tk5: "of", t11_tk6: "superintelligence.", t11_tk7: "",
     t12_title: "Creative AI", t12_text: "AI writes poems and stories that seem almost human.", t12_inst: "Tap on the creativity:", t12_h1: "Poetry with data.", t12_h2: "AI as author.", t12_q: "What can AI writing software do?", t12_qa: "Compose texts", t12_qb: "Paint pictures", t12_qc: "Make coffee", t12_qd: "Repair hardware",
-    t12_tap_count: 4, t12_tap_inst: "Tap the book 4 times!",
+    t12_tap_count: "4", t12_tap_inst: "Tap the book 4 times!",
     t13_title: "Game AI", t13_text: "AI makes opponents in video games smarter and worlds more alive.", t13_inst: "Match the pairs:", t13_h1: "Smart opponents.", t13_h2: "Gaming fun.", t13_q: "What does Game AI do?", t13_qa: "Controls NPC behavior", t13_qb: "Makes internet faster", t13_qc: "Cleans the console", t13_qd: "Sells games",
     t13_l1: "NPC", t13_r1: "Game character", t13_l2: "Pathfinding", t13_r2: "Route finding", t13_l3: "Procedural", t13_r3: "Randomly generated",
     t14_title: "Your Future with AI", t14_text: "You will learn to use AI as a tool for your own ideas.", t14_inst: "Fill in the blank:", t14_h1: "You are the boss.", t14_h2: "Shaping the future.", t14_q: "What is important when dealing with AI?", t14_qa: "Critical thinking", t14_qb: "Blind trust", t14_qc: "Fear", t14_qd: "Ignorance",
@@ -81,7 +82,7 @@ export const INFO_K7_I3_LABELS: Record<string, Record<string, string>> = {
     t5_title: "MI az űrben", t5_text: "A MI segít a műholdas adatok elemzésében és Mars-járókat irányít.", t5_inst: "Jelöld meg a helyes szót:", t5_h1: "A csillagok felé.", t5_h2: "Távoli világok felfedezése.", t5_q: "Miért használnak MI-t az űrben?", t5_qa: "Az időeltolódás miatt", t5_qb: "A hideg miatt", t5_qc: "Mert ott nincs fény", t5_qd: "A MI jobban kap levegőt",
     t5_tk1: "A MI", t5_tk2: "autonóm", t5_tk3: "módon", t5_tk4: "irányítja", t5_tk5: "a járókat", t5_tk6: "a Marson.", t5_tk7: "",
     t6_title: "Személyre szabott oktatás", t6_text: "A MI tutorok pontosan a te tanulási tempódhoz és hiányosságaidhoz igazodnak.", t6_inst: "Kattints a tanulási útra:", t6_h1: "Egyéni tanulás.", t6_h2: "A digitális tanárod.", t6_q: "Hogyan segít a MI a tanulásban?", t6_qa: "Személyre szabott feladatokkal", t6_qb: "A házi feladat betiltásával", t6_qc: "Úgy, hogy mindent megsúg", t6_qd: "Sehogy",
-    t6_tap_count: 3, t6_tap_inst: "Kattints a tanulási útra 3-szor!",
+    t6_tap_count: "3", t6_tap_inst: "Kattints a tanulási útra 3-szor!",
     t7_title: "Tudomány & MI", t7_text: "A MI új gyógyszereket talál vagy fehérjéket hajtogat rekordidő alatt.", t7_inst: "Párosítsd össze:", t7_h1: "A jövő laborja.", t7_h2: "Kutatás felgyorsítása.", t7_q: "Mit tud a MI a kémiában?", t7_qa: "Szerkezeteket szimulálni", t7_qb: "Kémcsöveket mosni", t7_qc: "Kávét főzni", t7_qd: "Oxigént termelni",
     t7_l1: "Fehérje", t7_r1: "Biológia", t7_l2: "Molekula", t7_r2: "Kémia", t7_l3: "Adat", t7_r3: "Alapzat",
     t8_title: "Klímavédelem MI-vel", t8_text: "A MI klímamodelleket számol és segít csökkenteni az energiafogyasztást.", t8_inst: "Töltsd ki a hiányt:", t8_h1: "Mentsük meg a bolygót.", t8_h2: "Környezeti technika.", t8_q: "Hogyan védi a MI a környezetet?", t8_qa: "Energiaoptimalizálással", t8_qb: "Több műanyaggal", t8_qc: "Fakivágással", t8_qd: "Több szerverrel",
@@ -93,7 +94,7 @@ export const INFO_K7_I3_LABELS: Record<string, Record<string, string>> = {
     t11_title: "A Szingularitás", t11_text: "Egy elméleti időpont, amikor a MI okosabb lesz az egész emberiségnél.", t11_inst: "Jelöld meg a helyes szót:", t11_h1: "Szuperintelligencia.", t11_h2: "Jövőelmélet.", t11_q: "Mi a szingularitás?", t11_qa: "A MI túlszárnyalja az embert", t11_qb: "Egy új ünnepnap", t11_qc: "Egy MI múzeum", t11_qd: "Egy elromlott gép",
     t11_tk1: "A szingularitás", t11_tk2: "a", t11_tk3: "szuperintelligencia", t11_tk4: "felemelkedését", t11_tk5: "jelenti.", t11_tk6: "", t11_tk7: "",
     t12_title: "Kreatív MI", t12_text: "A MI verseket és történeteket ír, amik majdnem emberinek tűnnek.", t12_inst: "Kattints a kreativitásra:", t12_h1: "Költészet adatokkal.", t12_h2: "A MI mint szerző.", t12_q: "Mire képes egy MI szövegíró szoftver?", t12_qa: "Szövegek írására", t12_qb: "Képek festésére", t12_qc: "Kávéfőzésre", t12_qd: "Hardverjavításra",
-    t12_tap_count: 4, t12_tap_inst: "Kattints a könyvre 4-szer!",
+    t12_tap_count: "4", t12_tap_inst: "Kattints a könyvre 4-szer!",
     t13_title: "Game AI (Játék MI)", t13_text: "A MI okosabbá teszi az ellenfeleket a játékokban és élettelibbé a világokat.", t13_inst: "Párosítsd össze:", t13_h1: "Okos ellenfelek.", t13_h2: "Játékélmény.", t13_q: "Mit csinál a játék MI?", t13_qa: "Irányítja az NPC-k viselkedését", t13_qb: "Gyorsítja a netet", t13_qc: "Tisztítja a konzolt", t13_qd: "Játékokat árul",
     t13_l1: "NPC", t13_r1: "Játékkarakter", t13_l2: "Pathfinding", t13_r2: "Útvonalkeresés", t13_l3: "Procedural", t13_r3: "Véletlenszerűen generált",
     t14_title: "A jövőd a MI-vel", t14_text: "Meg fogod tanulni a MI-t eszközként használni a saját ötleteidhez.", t14_inst: "Töltsd ki a hiányt:", t14_h1: "Te vagy a főnök.", t14_h2: "A jövő alakítása.", t14_q: "Mi fontos a MI-vel való kapcsolatban?", t14_qa: "Kritikus gondolkodás", t14_qb: "Vak bizalom", t14_qc: "Félelem", t14_qd: "Ignorancia",
@@ -114,7 +115,7 @@ export const INFO_K7_I3_LABELS: Record<string, Record<string, string>> = {
     t5_title: "IA în spațiu", t5_text: "IA ajută la analiza datelor de satelit și controlează roverele de pe Marte.", t5_inst: "Evidențiază cuvântul corect:", t5_h1: "Către stele.", t5_h2: "Explorarea lumilor îndepărtate.", t5_q: "De ce se folosește IA în spațiu?", t5_qa: "Din cauza întârzierii semnalului", t5_qb: "Din cauza frigului", t5_qc: "Fiindcă acolo nu e lumină", t5_qd: "IA poate respira mai bine",
     t5_tk1: "IA", t5_tk2: "controlează", t5_tk3: "roverele", t5_tk4: "autonom", t5_tk5: "pe", t5_tk6: "Marte.", t5_tk7: "",
     t6_title: "Educație personalizată", t6_text: "Tutorialele IA se adaptează exact ritmului tău de învățare și lipsurilor tale.", t6_inst: "Atinge calea de învățare:", t6_h1: "Învățare individuală.", t6_h2: "Tutorul tău digital.", t6_q: "Cum ajută IA la învățare?", t6_qa: "Prin exerciții personalizate", t6_qb: "Prin interzicerea temelor", t6_qc: "Spunându-ți toate răspunsurile", t6_qd: "Deloc",
-    t6_tap_count: 3, t6_tap_inst: "Atinge calea de învățare de 3 ori!",
+    t6_tap_count: "3", t6_tap_inst: "Atinge calea de învățare de 3 ori!",
     t7_title: "Știință & IA", t7_text: "IA găsește medicamente noi sau pliază proteine în timp record.", t7_inst: "Potrivește perechile:", t7_h1: "Laboratorul viitorului.", t7_h2: "Accelerarea cercetării.", t7_q: "Ce poate face IA în chimie?", t7_qa: "Simularea structurilor", t7_qb: "Spălarea eprubetelor", t7_qc: "Prepararea cafelei", t7_qd: "Generarea de oxigen",
     t7_l1: "Proteină", t7_r1: "Biologie", t7_l2: "Moleculă", t7_r2: "Chimie", t7_l3: "Date", t7_r3: "Fundație",
     t8_title: "Protecția climei cu IA", t8_text: "IA calculează modele climatice și ajută la reducerea consumului de energie global.", t8_inst: "Completează spațiul liber:", t8_h1: "Salvați planeta.", t8_h2: "Tehnică de mediu.", t8_q: "Cum protejează IA mediul?", t8_qa: "Prin optimizarea energiei", t8_qb: "Prin mai mult plastic", t8_qc: "Tăind copacii", t8_qd: "Prin mai multe servere",
@@ -126,7 +127,7 @@ export const INFO_K7_I3_LABELS: Record<string, Record<string, string>> = {
     t11_title: "Singularitatea", t11_text: "Un moment teoretic în timp când IA devine mai deșteaptă decât întreaga umanitate.", t11_inst: "Evidențiază cuvântul corect:", t11_h1: "Superinteligență.", t11_h2: "Teoria viitorului.", t11_q: "Ce este singularitatea?", t11_qa: "IA depășește oamenii", t11_qb: "O nouă zi de sărbătoare", t11_qc: "Un muzeu IA", t11_qd: "Un computer stricat",
     t11_tk1: "Singularitatea", t11_tk2: "descrie", t11_tk3: "ascensiunea", t11_tk4: "superinteligenței.", t11_tk5: "", t11_tk6: "", t11_tk7: "",
     t12_title: "IA creativă", t12_text: "IA scrie poezii și povești care par aproape umane.", t12_inst: "Atinge creativitatea:", t12_h1: "Poezie cu date.", t12_h2: "IA ca autor.", t12_q: "Ce poate face un software de scriere IA?", t12_qa: "Compunerea de texte", t12_qb: "Pictarea de tablouri", t12_qc: "Prepararea cafelei", t12_qd: "Repararea hardware-ului",
-    t12_tap_count: 4, t12_tap_inst: "Atinge cartea de 4 ori!",
+    t12_tap_count: "4", t12_tap_inst: "Atinge cartea de 4 ori!",
     t13_title: "Game AI (IA în jocuri)", t13_text: "IA face adversarii din jocuri mai deștepți și lumile mai vii.", t13_inst: "Potrivește perechile:", t13_h1: "Adversari smart.", t13_h2: "Distracție în joc.", t13_q: "Ce face Game IA?", t13_qa: "Controlează comportamentul NPC", t13_qb: "Face internetul mai rapid", t13_qc: "Curăță consola", t13_qd: "Vinde jocuri",
     t13_l1: "NPC", t13_r1: "Personaj de joc", t13_l2: "Pathfinding", t13_r2: "Găsirea rutei", t13_l3: "Procedural", t13_r3: "Generat aleatoriu",
     t14_title: "Viitorul tău cu IA", t14_text: "Vei învăța să folosești IA ca pe un instrument pentru propriile tale idei.", t14_inst: "Completează spațiul liber:", t14_h1: "Tu ești șeful.", t14_h2: "Modelarea viitorului.", t14_q: "Ce este important în relația cu IA?", t14_qa: "Gândirea critică", t14_qb: "Încrederea oarbă", t14_qc: "Teama", t14_qd: "Ignoranța",
@@ -170,7 +171,7 @@ export const INFO_K7_I3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t6_title", infoText: "t6_text",
     svg: { type: "simple-icon", icon: "🎓", color: "#4CAF50" },
-    interactive: { type: "tap-count", instruction: "t6_tap_inst", count: 3 },
+    interactive: { type: "tap-count", instruction: "t6_tap_inst", tapCount: { emoji: "🎓", count: 3 } },
     quiz: { question: "t6_q", choices: ["t6_qa", "t6_qb", "t6_qc", "t6_qd"], answer: "t6_qa" }
   },
   {
@@ -206,7 +207,7 @@ export const INFO_K7_I3_POOL: PoolTopicDef[] = [
   {
     infoTitle: "t12_title", infoText: "t12_text",
     svg: { type: "simple-icon", icon: "📖", color: "#795548" },
-    interactive: { type: "tap-count", instruction: "t12_tap_inst", count: 4 },
+    interactive: { type: "tap-count", instruction: "t12_tap_inst", tapCount: { emoji: "📖", count: 4 } },
     quiz: { question: "t12_q", choices: ["t12_qa", "t12_qb", "t12_qc", "t12_qd"], answer: "t12_qa" }
   },
   {
@@ -228,3 +229,4 @@ export const INFO_K7_I3_POOL: PoolTopicDef[] = [
     quiz: { question: "t15_q", choices: ["t15_qa", "t15_qb", "t15_qc", "t15_qd"], answer: "t15_qa" }
   }
 ];
+

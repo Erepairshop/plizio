@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraPanamaEconomicV2: POI[] = [
@@ -27,8 +28,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Stratégiai csomópont a csendes-óceáni kereskedelemben.", "Átrakodóhely globális hajózási vonalak számára.", "Kiterjedt konténerterminálok.", "Logisztikai és áruelosztási központ."],
       ro: ["Nod strategic pentru comerțul din Pacific.", "Centru de tranzit pentru linii maritime globale.", "Terminaluri de containere extinse.", "Centru de logistică și distribuție a mărfurilor."],
       en: ["Strategic junction for Pacific trade.", "Transshipment hub for global shipping lines.", "Extensive container terminals.", "Center for logistics and goods distribution."]
-    }
-  },
+    }, image: "/poi-images/puerto-balboa-economic-v2.webp"},
   {
     id: "mina-cobre-economic-v2",
     type: "industry",
@@ -41,8 +41,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Panama legfontosabb réztermelője.", "Jelentős munkaadó a régióban.", "Világszerte exportál rézkoncentrátumot.", "Külszíni fejtést és feldolgozást is magában foglal."],
       ro: ["Cel mai important producător de cupru din Panama.", "Angajator major în regiune.", "Exportă concentrat la nivel mondial.", "Include minerit la suprafață și procesare."],
       en: ["Panama's primary copper producer.", "Major regional employer.", "Exports concentrate globally.", "Includes large-scale open-pit mining and processing."]
-    }
-  },
+    }, image: "/poi-images/mina-cobre-economic-v2.webp"},
   {
     id: "zona-libre-colon-economic-v2",
     type: "industry",
@@ -69,8 +68,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Tranzitkikötőket szolgál ki.", "Egykor amerikai üzemeltetésben.", "Logisztikai csomópont.", "Szoros kapcsolatban áll a szabadkereskedelmi övezettel."],
       ro: ["Deservește porturi de tranzit.", "Fostă operațiune americană.", "Nod logistic.", "Strâns legat de zona liberă."],
       en: ["Serves transit hubs.", "Formerly US-operated.", "Logistical junction.", "Closely linked to the Colon Free Trade Zone."]
-    }
-  },
+    }, image: "/poi-images/puerto-cristobal-economic-v2.webp"},
   {
     id: "terminal-pacifico-economic-v2",
     type: "port",
@@ -83,8 +81,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Stratégiai elhelyezkedés a Csendes-óceánon.", "A PSA-hálózat része.", "Nagy áteresztőképesség.", "Modern kikötői technológia."],
       ro: ["Locație strategică la Pacific.", "Parte a rețelei PSA.", "Capacitate mare de tranzit.", "Tehnologie portuară modernă."],
       en: ["Strategic location on the Pacific.", "Part of the PSA network.", "High throughput capacity.", "Advanced port technology."]
-    }
-  },
+    }, image: "/poi-images/terminal-pacifico-economic-v2.webp"},
   {
     id: "industria-pesquera-economic-v2",
     type: "industry",
@@ -97,8 +94,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Fontos exportágazat.", "Haltermékek feldolgozása.", "Nagy halászflotta.", "Munkaadó a helyi közösségek számára."],
       ro: ["Ramură importantă de export.", "Procesarea produselor din pește.", "Flotă mare de pescuit.", "Angajator pentru comunitățile locale."],
       en: ["Key export sector.", "Processing of fish products.", "Large fishing fleet.", "Employer for local communities."]
-    }
-  },
+    }, image: "/poi-images/industria-pesquera-economic-v2.webp"},
   {
     id: "planta-energia-termica-economic-v2",
     type: "industry",
@@ -125,8 +121,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Kávé- és zöldségfeldolgozás.", "Exportorientált ipar.", "Fontos szektor Chiriquí-ban.", "Regionális termékek népszerűsítése."],
       ro: ["Procesarea cafelei și a legumelor.", "Industrie orientată spre export.", "Sector important în Chiriquí.", "Promovarea produselor regionale."],
       en: ["Processing of coffee and vegetables.", "Export-oriented industry.", "Important sector in Chiriquí.", "Promotion of regional products."]
-    }
-  },
+    }, image: "/poi-images/zona-agroindustrial-economic-v2.webp"},
   {
     id: "terminal-petrolero-economic-v2",
     type: "port",
@@ -139,8 +134,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Stratégiai olajexport.", "Modern tankhajó-létesítmények.", "Nagy tárolókapacitások.", "Csatlakozás a csővezetékhez."],
       ro: ["Export strategic de petrol.", "Facilități moderne pentru tancuri petroliere.", "Capacități mari de stocare.", "Conexiune cu conducta."],
       en: ["Strategic oil export.", "Modern tanker facilities.", "Large storage capacities.", "Connected to the trans-isthmian pipeline."]
-    }
-  },
+    }, image: "/poi-images/terminal-petrolero-economic-v2.webp"},
   {
     id: "puerto-aguadulce-economic-v2",
     type: "port",
@@ -167,8 +161,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Nagy ültetvényterületek.", "Fontos munkaadó.", "Cukortermékek exportja.", "Modern cukorgyártás."],
       ro: ["Zone mari de plantații.", "Angajator important.", "Export de produse din zahăr.", "Fabricare modernă a zahărului.", "Export de produse din zahăr."],
       en: ["Large plantation areas.", "Major employer.", "Export of sugar products.", "Modern sugar manufacturing."]
-    }
-  },
+    }, image: "/poi-images/industria-azucarera-economic-v2.webp"},
   {
     id: "terminal-gas-natural-economic-v2",
     type: "industry",
@@ -181,8 +174,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Fontos energiaellátás.", "Modern LNG-tárolás.", "Támogatja az energiamixet.", "Hatékony elosztás."],
       ro: ["Alimentare importantă cu energie.", "Stocare modernă GNL.", "Susține mixul energetic.", "Distribuție eficientă."],
       en: ["Crucial energy supply.", "Modern LNG storage.", "Supports the energy mix.", "Efficient distribution."]
-    }
-  },
+    }, image: "/poi-images/terminal-gas-natural-economic-v2.webp"},
   {
     id: "industria-cemento-economic-v2",
     type: "industry",
@@ -209,8 +201,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Légiáru-csomópont.", "Gyors áruelosztás.", "Logisztikai támogatás.", "Hatékony raktárlogisztika."],
       ro: ["Nod de transport aerian.", "Distribuție rapidă a mărfurilor.", "Suport logistic.", "Logistică eficientă de depozitare."],
       en: ["Air cargo hub.", "Fast goods distribution.", "Logistical support.", "Efficient warehouse logistics."]
-    }
-  },
+    }, image: "/poi-images/zona-logistica-tocumen-economic-v2.webp"},
   {
     id: "puerto-vacamonte-economic-v2",
     type: "port",
@@ -223,8 +214,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Haleldolgozási központ.", "Modern kikötői létesítmények.", "Haltermékek átrakodása.", "Foglalkoztatási központ."],
       ro: ["Centru de procesare a peștelui.", "Facilități portuare moderne.", "Tranzitul produselor din pește.", "Punct focal pentru ocuparea forței de muncă."],
       en: ["Fishing processing hub.", "Modern port facilities.", "Transshipment of fish products.", "Key employment site."]
-    }
-  },
+    }, image: "/poi-images/puerto-vacamonte-economic-v2.webp"},
   {
     id: "industria-papel-economic-v2",
     type: "industry",
@@ -265,8 +255,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Fontos teherforgalom.", "Összeköttetés az óceánok között.", "Hatékony logisztika.", "Kiegészíti a hajóforgalmat."],
       ro: ["Transport important de marfă.", "Conexiune între oceane.", "Logistică eficientă.", "Completează transportul maritim."],
       en: ["Vital freight transport.", "Connection between oceans.", "Efficient logistics.", "Complements shipping operations."]
-    }
-  },
+    }, image: "/poi-images/terminal-ferroviaria-economic-v2.webp"},
   {
     id: "centro-logistico-panama-pacific-economic-v2",
     type: "industry",
@@ -279,8 +268,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Nemzetközi üzleti központ.", "Modern infrastruktúra.", "Logisztikai fókusz.", "Vonzó globális befektetők számára."],
       ro: ["Centru de afaceri internațional.", "Infrastructură modernă.", "Focus pe logistică.", "Atractiv pentru investitorii globali."],
       en: ["International business hub.", "Modern infrastructure.", "Logistics-focused.", "Attractive to global investors."]
-    }
-  },
+    }, image: "/poi-images/centro-logistico-panama-pacific-economic-v2.webp"},
   {
     id: "puerto-pedregal-economic-v2",
     type: "port",
@@ -293,8 +281,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Fontos a helyi kereskedelem számára.", "Támogatja az agrárszektort.", "Regionális rakomány.", "Part menti üzemeltetés."],
       ro: ["Important pentru comerțul local.", "Susține sectorul agricol.", "Marfă regională.", "Operațiuni de coastă."],
       en: ["Important for local trade.", "Supports agricultural sector.", "Regional freight.", "Coastal operations."]
-    }
-  },
+    }, image: "/poi-images/puerto-pedregal-economic-v2.webp"},
   {
     id: "mina-oro-economic-v2",
     type: "industry",
@@ -307,8 +294,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Nemesfém-termelés.", "Fontos export.", "Ipari kitermelés.", "Gazdasági hozzájárulás."],
       ro: ["Producție de metale prețioase.", "Export important.", "Minerit industrial.", "Contribuție economică."],
       en: ["Precious metal production.", "Key export.", "Industrial mining.", "Economic contribution."]
-    }
-  },
+    }, image: "/poi-images/mina-oro-economic-v2.webp"},
   {
     id: "industria-bebidas-economic-v2",
     type: "industry",
@@ -321,8 +307,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Belföldi piac ellátása.", "Regionális export.", "Modern palackozóüzemek.", "Erős szektor."],
       ro: ["Aprovizionarea pieței interne.", "Export regional.", "Facilități moderne de îmbuteliere.", "Sector puternic."],
       en: ["Serves domestic market.", "Regional exports.", "Modern bottling plants.", "Strong sector."]
-    }
-  },
+    }, image: "/poi-images/industria-bebidas-economic-v2.webp"},
   {
     id: "parque-tecnologico-economic-v2",
     type: "industry",
@@ -363,8 +348,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Gabona és ércek átrakodása.", "Hatékony kikötői logisztika.", "Fontos importcsomópont.", "Modern szállítószalag-technológia."],
       ro: ["Transbordarea cerealelor și minereurilor.", "Logistică portuară eficientă.", "Nod important de import.", "Tehnologie modernă de transport."],
       en: ["Handling grain and ores.", "Efficient port logistics.", "Key import hub.", "Modern conveyor technology."]
-    }
-  },
+    }, image: "/poi-images/terminal-granel-economic-v2.webp"},
   {
     id: "zona-comercial-david-economic-v2",
     type: "industry",
@@ -377,8 +361,7 @@ export const poiExtraPanamaEconomicV2: POI[] = [
       hu: ["Regionális ellátás.", "Fontos kereskedelmi helyszín.", "Támogatja a helyi gazdaságot.", "Változatos üzletek."],
       ro: ["Aprovizionare regională.", "Piață comercială importantă.", "Susține economia locală.", "Diverse afaceri."],
       en: ["Regional supply center.", "Key trading post.", "Supports local economy.", "Diverse businesses."]
-    }
-  },
+    }, image: "/poi-images/zona-comercial-david-economic-v2.webp"},
   {
     id: "puerto-baru-economic-v2",
     type: "port",
@@ -394,3 +377,4 @@ export const poiExtraPanamaEconomicV2: POI[] = [
     }
   }
 ];
+

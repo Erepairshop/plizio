@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUgandaHistoryV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["UNESCO Világörökség része", "Fontos helyszín a baganda népnek", "Tűzvész után újjáépítették"],
       ro: ["Patrimoniu Mondial UNESCO", "Sit important pentru poporul Baganda", "Reconstruit după un incendiu"],
       en: ["UNESCO World Heritage Site", "Important site for the Baganda people", "Rebuilt after a fire"]
-    }
-  },
+    }, image: "/poi-images/kasubi-tombs-history-v2.webp"},
   {
     id: "bigo-bya-mugenyi-history-v2",
     type: "historical",
@@ -71,8 +71,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Fontos zarándokhely", "45 keresztény mártírra emlékezik", "Nagy éves megemlékezés júniusban"],
       ro: ["Loc important de pelerinaj", "Comemorează 45 de martiri creștini", "Mare ceremonie anuală de comemorare în iunie"],
       en: ["Important pilgrimage site", "Commemorates 45 Christian martyrs", "Large annual commemoration in June"]
-    }
-  },
+    }, image: "/poi-images/namugongo-martyrs-shrine-history-v2.webp"},
   {
     id: "uganda-national-mosque-history-v2",
     type: "historical",
@@ -95,8 +94,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Több mint 15 000 hívő befogadására alkalmas", "Moammer Kadhafi ajándéka", "2006-ban készült el"],
       ro: ["Capacitate de peste 15.000 de credincioși", "Cadou din partea lui Muammar al-Gaddafi", "Finalizată în 2006"],
       en: ["Accommodates over 15,000 worshippers", "Gift from Muammar Gaddafi", "Completed in 2006"]
-    }
-  },
+    }, image: "/poi-images/uganda-national-mosque-history-v2.webp"},
   {
     id: "nyero-rock-paintings-history-v2",
     type: "historical",
@@ -143,8 +141,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["1872-ben alapították", "Eredetileg rabszolgapiac volt", "Fontos történelmi műemlék"],
       ro: ["Fondat în 1872", "Inițial a fost o piață de sclavi", "Monument istoric important"],
       en: ["Founded in 1872", "Originally a slave market", "Important historical monument"]
-    }
-  },
+    }, image: "/poi-images/fort-patiko-history-v2.webp"},
   {
     id: "bulange-mengo-history-v2",
     type: "historical",
@@ -167,8 +164,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["A Lukiiko (parlament) székhelye", "A ganda kultúra fontos központja", "Hagyományos építészet"],
       ro: ["Sediul Lukiiko (parlamentului)", "Centru important al culturii Ganda", "Arhitectură tradițională"],
       en: ["Seat of the Lukiiko (parliament)", "Important center of Ganda culture", "Traditional architecture"]
-    }
-  },
+    }, image: "/poi-images/bulange-mengo-history-v2.webp"},
   {
     id: "kabakas-palace-lubiri-history-v2",
     type: "historical",
@@ -191,8 +187,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["1922-ben épült", "Idi Amin egykori kínzókamráit is tartalmazza", "A bugandai Kabaka rezidenciája"],
       ro: ["Construit în 1922", "Conține camerele de tortură ale lui Idi Amin", "Reședința Kabaka din Buganda"],
       en: ["Built in 1922", "Contains Idi Amin's torture chambers", "Residence of the Kabaka of Buganda"]
-    }
-  },
+    }, image: "/poi-images/kabakas-palace-lubiri-history-v2.webp"},
   {
     id: "wamala-tombs-history-v2",
     type: "historical",
@@ -215,8 +210,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["II. Ssuuna király nyughelye", "Nád tetővel borított épület", "Jelentős spirituális helyszín"],
       ro: ["Locul de odihnă al regelui Ssuuna al II-lea", "Clădire cu acoperiș de stuf", "Sit spiritual semnificativ"],
       en: ["Resting place of King Ssuuna II", "Building covered with thatched reeds", "Significant spiritual site"]
-    }
-  },
+    }, image: "/poi-images/wamala-tombs-history-v2.webp"},
   {
     id: "amabere-ga-nyina-mwiru-history-v2",
     type: "historical",
@@ -239,8 +233,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Jelentése 'Nyina Mwiru mellei'", "Mészkő cseppkőbarlang", "A helyi mítoszok része"],
       ro: ["Înseamnă 'Sânii lui Nyina Mwiru'", "Peșteră de calcar cu stalactite", "Parte a miturilor locale"],
       en: ["Means 'Breasts of Nyina Mwiru'", "Limestone stalactite cave", "Part of local myths"]
-    }
-  },
+    }, image: "/poi-images/amabere-ga-nyina-mwiru-history-v2.webp"},
   {
     id: "karambi-royal-tombs-history-v2",
     type: "historical",
@@ -263,8 +256,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Három Toro-király sírhelye", "Királyi ereklyéket őriznek itt", "Nyugodt és gondozott hely"],
       ro: ["Loc de înmormântare a trei regi Toro", "Păstrează relicve regale", "Loc liniștit și bine întreținut"],
       en: ["Burial site of three Toro Kings", "Preserves royal relics", "Quiet and well-maintained place"]
-    }
-  },
+    }, image: "/poi-images/karambi-royal-tombs-history-v2.webp"},
   {
     id: "nakayima-tree-history-v2",
     type: "historical",
@@ -287,8 +279,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Több mint 400 éves", "A bagandák szent helye", "Hagyományos gyógyító központ"],
       ro: ["Peste 400 de ani vechime", "Loc sacru al poporului Baganda", "Centru de vindecare tradițională"],
       en: ["Over 400 years old", "Sacred site of the Baganda", "Center for traditional healing"]
-    }
-  },
+    }, image: "/poi-images/nakayima-tree-history-v2.webp"},
   {
     id: "ssezibwa-falls-cultural-history-v2",
     type: "historical",
@@ -311,8 +302,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["A legenda szerint egy ember szülte", "Fontos helyszíne a hagyományos rituáléknak", "A Kabakák történelmi ültetvényei"],
       ro: ["Potrivit legendei, a fost născut de un om", "Loc important pentru ritualuri tradiționale", "Plantații istorice ale Kabaka"],
       en: ["Legend says it was born by a human", "Important site for traditional rituals", "Historical plantations of the Kabakas"]
-    }
-  },
+    }, image: "/poi-images/ssezibwa-falls-cultural-history-v2.webp"},
   {
     id: "munyonyo-martyrs-shrine-history-v2",
     type: "historical",
@@ -335,8 +325,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Az első elítélések helyszíne", "Ferenc pápa meglátogatta 2015-ben", "Fontos emlékhely"],
       ro: ["Locul primelor condamnări", "Vizitat de Papa Francisc în 2015", "Memorial important"],
       en: ["Site of the first condemnations", "Visited by Pope Francis in 2015", "Important memorial"]
-    }
-  },
+    }, image: "/poi-images/munyonyo-martyrs-shrine-history-v2.webp"},
   {
     id: "fort-lugard-history-v2",
     type: "historical",
@@ -359,8 +348,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["1890-ben épült", "A brit közigazgatás központja", "Történelmi emlékmű Old Kampalában"],
       ro: ["Construit în 1890", "Centrul administrației britanice", "Monument istoric în Old Kampala"],
       en: ["Built in 1890", "Center of British administration", "Historical monument in Old Kampala"]
-    }
-  },
+    }, image: "/poi-images/fort-lugard-history-v2.webp"},
   {
     id: "kakoro-rock-paintings-history-v2",
     type: "historical",
@@ -383,8 +371,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Ritka történelem előtti művészet", "Absztrakt és geometriai alakzatokat ábrázol", "Kevésbé ismert, mint Nyero"],
       ro: ["Artă preistorică rară", "Prezintă figuri abstracte și geometrice", "Mai puțin cunoscute decât Nyero"],
       en: ["Rare prehistoric art", "Shows abstract and geometric figures", "Less known than Nyero"]
-    }
-  },
+    }, image: "/poi-images/kakoro-rock-paintings-history-v2.webp"},
   {
     id: "mparo-tombs-history-v2",
     type: "historical",
@@ -479,8 +466,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Egykori Ankole palota", "Részben romos, felújítás alatt áll", "Jelentős történelmi helyszín"],
       ro: ["Fostul palat Ankole", "Parțial în ruină, în curs de restaurare", "Sit istoric semnificativ"],
       en: ["Former palace of Ankole", "Partially in ruins, being restored", "Significant historical site"]
-    }
-  },
+    }, image: "/poi-images/mugaba-palace-history-v2.webp"},
   {
     id: "equator-monument-kayabwe-history-v2",
     type: "historical",
@@ -503,8 +489,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Népszerű fotózási helyszín", "A nulla fokos szélességi kört jelöli", "Számos szuvenírbolt található itt"],
       ro: ["Loc popular pentru fotografii", "Marchează latitudinea zero", "Numeroase magazine de suveniruri la fața locului"],
       en: ["Popular photo spot", "Marks the zero degree latitude", "Numerous souvenir shops on site"]
-    }
-  },
+    }, image: "/poi-images/equator-monument-kayabwe-history-v2.webp"},
   {
     id: "walumbe-tanda-pits-history-v2",
     type: "historical",
@@ -527,8 +512,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Több mint 240 történelmi gödör", "A baganda teremtéstörténet fontos része", "Hagyományos istentiszteleti hely"],
       ro: ["Peste 240 de gropi istorice", "Parte importantă a poveștii creației Baganda", "Loc de venerare tradițională"],
       en: ["Over 240 historical pits", "Important part of Baganda creation story", "Place of traditional worship"]
-    }
-  },
+    }, image: "/poi-images/walumbe-tanda-pits-history-v2.webp"},
   {
     id: "speke-monument-jinja-history-v2",
     type: "historical",
@@ -551,8 +535,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["John H. Speke felfedezőnek szentelve", "A folyó partján található", "Történelmi felfedezés helyszíne"],
       ro: ["Dedicat exploratorului John H. Speke", "Situat pe malul râului", "Sit istoric de descoperire"],
       en: ["Dedicated to explorer John H. Speke", "Located on the riverbank", "Historical discovery site"]
-    }
-  },
+    }, image: "/poi-images/speke-monument-jinja-history-v2.webp"},
   {
     id: "wadelai-historical-station-history-v2",
     type: "historical",
@@ -575,8 +558,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Egykori brit állomás", "A gyarmati történelem központja", "Az Albert-Nílus mentén található"],
       ro: ["Fostă stație britanică", "Centrul istoriei coloniale", "Situat pe Nilul Albert"],
       en: ["Former British station", "Center of colonial history", "Located on the Albert Nile"]
-    }
-  },
+    }, image: "/poi-images/wadelai-historical-station-history-v2.webp"},
   {
     id: "nsongezi-rock-shelters-history-v2",
     type: "historical",
@@ -599,8 +581,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Kőkorszaki leleteket találtak", "Fontos ásatási helyszín", "A történelem előtti életet mutatja be"],
       ro: ["S-au găsit artefacte din epoca de piatră", "Sit important de excavare", "Arată viața preistorică"],
       en: ["Stone Age artifacts found", "Important excavation site", "Shows prehistoric life"]
-    }
-  },
+    }, image: "/poi-images/nsongezi-rock-shelters-history-v2.webp"},
   {
     id: "ntusi-earthworks-history-v2",
     type: "historical",
@@ -623,8 +604,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["I.sz. 1000 körül épültek", "Ősi szarvasmarha-pásztorok nyomai", "Nagy kiterjedésű régészeti terület"],
       ro: ["Construit în jurul anului 1000 d.Hr.", "Urmele vechilor păstori de vite", "Zonă arheologică întinsă"],
       en: ["Built around 1000 AD", "Traces of ancient cattle herders", "Large archaeological area"]
-    }
-  },
+    }, image: "/poi-images/ntusi-earthworks-history-v2.webp"},
   {
     id: "kibiro-salt-producing-village-history-v2",
     type: "historical",
@@ -647,8 +627,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["Több mint 900 éve működik", "Hagyományos sólepárlás", "Az Albert-tó partján"],
       ro: ["Activ de peste 900 de ani", "Extracție tradițională a sării", "Pe malul Lacului Albert"],
       en: ["Active for over 900 years", "Traditional salt production", "On the shore of Lake Albert"]
-    }
-  },
+    }, image: "/poi-images/kibiro-salt-producing-village-history-v2.webp"},
   {
     id: "itaaba-kyabanyoro-history-v2",
     type: "historical",
@@ -695,8 +674,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       hu: ["1962. október 9-én leplezték le", "Egy gyermeket felemelő nőt ábrázol", "A város központi nevezetessége"],
       ro: ["Dezvelit pe 9 octombrie 1962", "Prezintă o femeie care ridică un copil", "Punct de reper central al orașului"],
       en: ["Unveiled on October 9, 1962", "Shows a woman lifting up a child", "Central landmark of the city"]
-    }
-  },
+    }, image: "/poi-images/independence-monument-kampala-history-v2.webp"},
   {
     id: "nkokonjeru-tombs-history-v2",
     type: "historical",

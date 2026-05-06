@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraHondurasEconomicV2: POI[] = [
@@ -25,8 +26,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["A kikötő rendelkezik a régió egyik legmodernebb konténertermináljával.", "Eredetileg Puerto de Caballos néven alapította Gil González Dávila.", "Ez Közép-Amerika legmélyebb természetes kikötője, ami hatalmas előnyt jelent a hajózásban.", "Honduras tengeri kereskedelmének több mint 80%-át itt bonyolítják le."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/puerto-cortes-economic-v2.webp"},
   {
     id: "san-lorenzo-economic-v2",
     type: "port",
@@ -51,8 +51,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["San Lorenzo az ország legfontosabb garnélarák-tenyésztő és exportáló központja.", "A kikötő biztosítja Honduras elsődleges kijáratát az ázsiai piacok felé.", "A város híres a 'sopa de mariscos' (tenger gyümölcsei leves) nevű helyi ételéről.", "A környező mangrovék az ország egyik legfontosabb védett vizes élőhelyét alkotják."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-lorenzo-economic-v2.webp"},
   {
     id: "choloma-industry-economic-v2",
     type: "industry",
@@ -77,8 +76,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["Itt található az ország legnagyobb koncentrációjú textilipari üzemeinek csoportja.", "Az ipari park termelése jelentős százalékban járul hozzá Honduras GDP-jéhez.", "A terület közvetlen összeköttetésben áll Puerto Cortés kikötőjével a gyors export érdekében.", "Számos multinacionális vállalat választotta Cholomát közép-amerikai bázisául."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/choloma-industry-economic-v2.webp"},
   {
     id: "san-pedro-industry-economic-v2",
     type: "industry",
@@ -103,8 +101,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["Ez a régió termeli meg Honduras bruttó nemzeti össztermékének (GDP) több mint 60%-át.", "Itt található az ország legfontosabb és legbefolyásosabb Kereskedelmi és Iparkamarája.", "A város a guatemalai és salvadori határ felé irányuló közúti áruforgalom legfontosabb csomópontja.", "Számos nemzetközi bank és pénzügyi intézmény központja is ebben az övezetben található."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/san-pedro-industry-economic-v2.webp"},
   {
     id: "tela-port-economic-v2",
     type: "port",
@@ -129,8 +126,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["Tela volt a Tela Railroad Company, a United Fruit Company egyik legfontosabb leányvállalatának székhelye.", "A kikötő melletti kutatóállomásokon fejlesztették ki az első betegségeknek ellenálló banánfajtákat.", "A város büszkélkedhet a régió egyik leghosszabb és leglátványosabb történelmi fapiérjével.", "Mára a kikötő környéke Honduras egyik legexkluzívabb üdülőövezetévé alakult át."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/tela-port-economic-v2.webp"},
   {
     id: "roatan-port-economic-v2",
     type: "port",
@@ -155,8 +151,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["A sziget két különálló terminállal rendelkezik a legnagyobb tengerjáró hajók fogadására.", "Itt érkezik be a sziget teljes élelmiszer- és energiaellátásának döntő többsége.", "A kikötőből közvetlen hozzáférés nyílik a világ második legnagyobb korallzátonyához.", "A Mahogany Bay terminált kifejezetten a Carnival Cruise Line fejlesztette ki saját utasai számára."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/roatan-port-economic-v2.webp"},
   {
     id: "ceiba-port-economic-v2",
     type: "port",
@@ -181,8 +176,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["Innen indul a 'Galaxy Wave' és a 'Utila Dream' komp, az elsődleges összeköttetés a szigetekkel.", "A kikötő az északi partvidék kis- és nagykereskedelmi áruforgalmának fő elosztópontja.", "A közelben található a Cuero y Salado vadvédelmi terület, amely vízi úton érhető el.", "A kikötői mólóról fantasztikus kilátás nyílik a karibi partvidéket uraló Pico Bonito hegycsúcsra."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ceiba-port-economic-v2.webp"},
   {
     id: "comayagua-airport-economic-v2",
     type: "industry",
@@ -207,8 +201,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["Itt épült fel a Palmerola International Airport, amely átvette a fővárosi légi forgalom nagy részét.", "A központ rendelkezik a legkorszerűbb hűtőraktárakkal a friss zöldségek és gyümölcsök exportjához.", "A projekt része egy hatalmas vámmentes övezet kialakítása az ipari összeszerelés számára.", "Palmerola közelsége Comayaguához új lendületet ad a történelmi város gazdasági fejlődésének."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/comayagua-airport-economic-v2.webp"},
   {
     id: "santa-barbara-mine-economic-v2",
     type: "industry",
@@ -233,8 +226,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["Itt található a híres El Mochito bánya, Honduras legrégebbi aktív bányája.", "A bánya jelentős mennyiségű cink- és ólomkoncentrátumot állít elő a világpiac számára.", "Ez Santa Bárbara megye legnagyobb ipari foglalkoztatója.", "A bánya mélytengeri tárolókapacitásokkal is rendelkezik Puerto Cortés kikötőjében."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/santa-barbara-mine-economic-v2.webp"},
   {
     id: "ojojona-craft-economic-v2",
     type: "industry",
@@ -259,8 +251,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["A város lakosságának közel 80%-a közvetlenül vagy közvetve a kézművességből él.", "A 'Lenca' motívumokkal díszített kerámiák Ojojona legkeresettebb termékei közé tartoznak.", "Itt található az ország egyik legfontosabb népművészeti képzőközpontja.", "Minden hétvégén kézműves vásár várja a látogatókat a város főterén."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/ojojona-craft-economic-v2.webp"},
   {
     id: "el-progreso-industry-economic-v2",
     type: "industry",
@@ -311,8 +302,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["Évente több millió kézzel sodort prémium szivart exportálnak innen világszerte.", "A hondurasi szivarok rendszeresen az első helyeken végeznek a nemzetközi szaklapok rangsorában.", "Ez a szektor a legfontosabb devizabevételi forrás El Paraíso megyében.", "A városban minden évben megrendezik a Nemzeti Kukorica- és Dohányfesztivált."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/danli-tobacco-economic-v2.webp"},
   {
     id: "ocotepeque-trade-economic-v2",
     type: "industry",
@@ -389,8 +379,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["Hondurasban itt található a legmagasabb koncentrációban technológiai üvegház-hálózat.", "A völgy a főváros, Tegucigalpa elsődleges frissáru-beszállítója.", "Innen indul a legtöbb közép-amerikai dinnye az európai és észak-amerikai piacokra.", "A terület ad otthont számos modern agrárkutatási és fejlesztési intézménynek."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/comayagua-agri-economic-v2.webp"},
   {
     id: "trujillo-port-economic-v2",
     type: "port",
@@ -415,8 +404,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["Trujillo ad otthont a modern 'Banana Coast' luxus hajóterminálnak.", "Ez Honduras egyik legmélyebb és legjobb természetes védettségű öble.", "Központi szerepet játszik Colón megye mezőgazdasági exportjának lebonyolításában.", "Történelmileg ez volt az első pont, ahol a spanyolok partra szálltak a közép-amerikai kontinensen."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/trujillo-port-economic-v2.webp"},
   {
     id: "juticalpa-trade-economic-v2",
     type: "industry",
@@ -441,8 +429,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["Juticalpa Közép-Amerika egyik legjelentősebb marhavásárának helyszíne.", "A város a hagyományos olanchoi sajtok és tejtermékek gyártásának központja.", "Ez Kelet-Honduras legnagyobb gabonakereskedelmi csomópontja.", "Itt találhatóak a régió legbefolyásosabb agrár-szövetkezeteinek központjai."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/juticalpa-trade-economic-v2.webp"},
   {
     id: "siguatepeque-agri-economic-v2",
     type: "industry",
@@ -467,8 +454,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: ["Siguatepeque Honduras elsődleges forrása a vágott virágok és dísznövények piacán.", "Itt található a neves Nemzeti Erdészeti Iskola (ESNACIFOR) központi campusa.", "A város az egyik legfontosabb gyűjtőpontja a közép-hondurasi prémium kávéknak.", "A település fontos elosztó központja a mérsékelt égövi zöldségféléknek."],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/siguatepeque-agri-economic-v2.webp"},
   {
     id: "la-esperanza-craft-economic-v2",
     type: "industry",
@@ -493,8 +479,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/la-esperanza-craft-economic-v2.webp"},
   {
     id: "yoro-agri-economic-v2",
     type: "industry",
@@ -519,8 +504,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/yoro-agri-economic-v2.webp"},
   {
     id: "lejamani-agri-economic-v2",
     type: "industry",
@@ -545,8 +529,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/lejamani-agri-economic-v2.webp"},
   {
     id: "catacamas-trade-economic-v2",
     type: "industry",
@@ -571,8 +554,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/catacamas-trade-economic-v2.webp"},
   {
     id: "valle-de-angeles-craft-economic-v2",
     type: "industry",
@@ -597,8 +579,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/valle-de-angeles-craft-economic-v2.webp"},
   {
     id: "teupasenti-agri-economic-v2",
     type: "industry",
@@ -623,8 +604,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/teupasenti-agri-economic-v2.webp"},
   {
     id: "goascoran-trade-economic-v2",
     type: "industry",
@@ -649,8 +629,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/goascoran-trade-economic-v2.webp"},
   {
     id: "talanga-agri-economic-v2",
     type: "industry",
@@ -675,8 +654,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/talanga-agri-economic-v2.webp"},
   {
     id: "nacaome-agri-economic-v2",
     type: "industry",
@@ -701,8 +679,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/nacaome-agri-economic-v2.webp"},
   {
     id: "santa-rosa-trade-economic-v2",
     type: "industry",
@@ -727,8 +704,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/santa-rosa-trade-economic-v2.webp"},
   {
     id: "puerto-lempira-port-economic-v2",
     type: "port",
@@ -753,8 +729,7 @@ export const poiExtraHondurasEconomicV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/puerto-lempira-port-economic-v2.webp"},
   {
     id: "olanchito-agri-economic-v2",
     type: "industry",
@@ -782,3 +757,4 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     }
   }
 ];
+

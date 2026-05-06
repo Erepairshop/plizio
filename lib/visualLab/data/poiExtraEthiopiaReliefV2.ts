@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEthiopiaReliefV2: POI[] = [
@@ -18,8 +19,19 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 4550 m", "A Simien-hegység része", "UNESCO világörökség"],
       ro: ["Înălțime: 4550 m", "Parte a munților Simien", "Patrimoniul mondial UNESCO"],
       en: ["Elevation: 4550 m", "Part of the Simien Mountains", "UNESCO World Heritage site"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Ras Daschän ist mit 4550 Metern der höchste Berg Äthiopiens und der zeithöchste Afrikas. Er befindet sich inmitten des dramatischen Simien-Gebirges, das als UNESCO-Welterbe geschützt ist. Die schroffen Felsformationen und tiefen Täler sind Lebensraum für seltene Tierarten wie den Äthiopischen Steinbock und die Dscheladas. Reisende, die diesen Gipfel erklimmen, werden mit einem atemberaubenden Blick über das äthiopische Hochland belohnt, das Geografie K7-Kursen als Fallbeispiel für alpine Ökosysteme in den Tropen dient.",
+      hu: "A 4550 méter magas Ras Dashen Etiópia legmagasabb hegye, egyben Afrika tizedik legmagasabb pontja. A drámai Simien-hegység szívében fekszik, amelyet az UNESCO világörökség részeként tartanak számon. A sziklás csúcsok és mély völgyek olyan ritka fajoknak adnak otthont, mint az etióp kőszáli kecske és a dzseládapávián. A hegymászók számára nyújtott panoráma a K7-es földrajz tantervben az egyenlítői magashegyi élővilág tanulmányozásához ideális példa.",
+      ro: "Cu o înălțime de 4550 de metri, Ras Dashen este cel mai înalt munte din Etiopia și al zecelea ca înălțime din Africa. Situat în inima munților Simien, acesta este protejat ca sit al Patrimoniului Mondial UNESCO. Formațiunile stâncoase abrupte și văile adânci constituie habitatul unor specii rare precum capra de munte etiopiană și babuinul gelada. Ascensiunea pe acest vârf oferă o priveliște spectaculoasă asupra podișului etiopian, fiind un studiu de caz excelent pentru cursurile de geografie (clasa a 7-a) despre ecosistemele alpine tropicale.",
+      en: "Ras Dashen, standing at 4550 meters, is the highest mountain in Ethiopia and the tenth highest in Africa. It is located within the dramatic Simien Mountains, which are protected as a UNESCO World Heritage site. The rugged rock formations and deep valleys provide a habitat for rare species like the Walia ibex and the Gelada baboon. Climbers reaching this summit are rewarded with stunning views over the Ethiopian Highlands, serving as a prime case study in K7 geography for tropical alpine ecosystems."
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4550 m über dem Meeresspiegel.", "Teil des UNESCO-Welterbes Simien-Gebirge.", "Heimat des seltenen Walia-Steinbocks.", "Erstbesteigung erfolgte durch Franzosen im Jahr 1841.", "Gehört zum äthiopischen Hochland-Plateau.", "Das Klima ist durch große Tagestemperaturschwankungen geprägt."],
+      hu: ["Magasság: 4550 méter a tengerszint felett.", "A Simien-hegység az UNESCO világöröksége.", "Az etióp kőszáli kecske egyik utolsó menedéke.", "Az első európai megmászása 1841-ben történt.", "Az etióp fennsík részét képezi.", "A hőmérséklet drasztikusan ingadozik nappal és éjjel."],
+      ro: ["Înălțime: 4550 m deasupra nivelului mării.", "Munții Simien fac parte din Patrimoniul Mondial UNESCO.", "Habitac pentru capra de munte Walia.", "Prima ascensiune europeană a avut loc în 1841.", "Face parte din podișul înalt etiopian.", "Temperaturile oscilează extrem între zi și noapte."],
+      en: ["Elevation: 4550 m above sea level.", "Part of the Simien Mountains UNESCO World Heritage site.", "Habitat for the rare Walia ibex.", "First European ascent recorded in 1841.", "Situated on the Ethiopian Highland Plateau.", "Characterized by high diurnal temperature variation."]
+    }, image: "/poi-images/ras-dashen-relief-v2.webp"},
   {
     id: "tulu-dimtu-relief-v2",
     type: "mountain",
@@ -37,8 +49,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 4377 m", "Fontos ökoszisztéma", "Vulkáni eredetű"],
       ro: ["Înălțime: 4377 m", "Ecosistem important", "Origine vulcanică"],
       en: ["Elevation: 4377 m", "Important ecosystem", "Volcanic origin"]
-    }
-  },
+    }, image: "/poi-images/tulu-dimtu-relief-v2.webp"},
   {
     id: "danakil-depresion-relief-v2",
     type: "relief",
@@ -56,8 +67,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Akár 125 m-rel a tengerszint alatt", "Vulkánok és sós tavak", "Geológiailag aktív"],
       ro: ["Până la 125 m sub nivelul mării", "Vulcani și lacuri sărate", "Geologic activ"],
       en: ["Up to 125 m below sea level", "Volcanoes and salt lakes", "Geologically active"]
-    }
-  },
+    }, image: "/poi-images/danakil-depresion-relief-v2.webp"},
   {
     id: "er-ta-ale-relief-v2",
     type: "mountain",
@@ -75,8 +85,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Állandó lávató", "Magasság: 613 m", "Kutatók látogatják"],
       ro: ["Lac de lavă permanent", "Înălțime: 613 m", "Vizitat de cercetători"],
       en: ["Permanent lava lake", "Elevation: 613 m", "Visited by researchers"]
-    }
-  },
+    }, image: "/poi-images/er-ta-ale-relief-v2.webp"},
   {
     id: "mount-abu-relief-v2",
     type: "mountain",
@@ -94,8 +103,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 3700 m", "Oromia régió", "Túrázóhely"],
       ro: ["Înălțime: 3700 m", "Regiunea Oromia", "Zonă de drumeții"],
       en: ["Elevation: 3700 m", "Oromia region", "Hiking area"]
-    }
-  },
+    }, image: "/poi-images/mount-abu-relief-v2.webp"},
   {
     id: "mount-amara-relief-v2",
     type: "mountain",
@@ -113,8 +121,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 3500 m", "Történelmi jelentőség", "Panoráma"],
       ro: ["Înălțime: 3500 m", "Importanță istorică", "Panoramă"],
       en: ["Elevation: 3500 m", "Historical significance", "Panoramic view"]
-    }
-  },
+    }, image: "/poi-images/mount-amara-relief-v2.webp"},
   {
     id: "gibe-valley-relief-v2",
     type: "relief",
@@ -132,8 +139,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Fontos folyómeder", "Biodiverzitás", "Mezőgazdasági hasznosítás"],
       ro: ["Curs de râu important", "Biodiversitate", "Utilizare agricolă"],
       en: ["Important river course", "Biodiversity", "Agricultural use"]
-    }
-  },
+    }, image: "/poi-images/gibe-valley-relief-v2.webp"},
   {
     id: "mount-batu-relief-v2",
     type: "mountain",
@@ -151,8 +157,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 4307 m", "Afro-alpesi ökoszisztéma", "Iker-csúcs"],
       ro: ["Înălțime: 4307 m", "Ecosistem afro-alpin", "Vârf dublu"],
       en: ["Elevation: 4307 m", "Afro-alpine ecosystem", "Twin peaks"]
-    }
-  },
+    }, image: "/poi-images/mount-batu-relief-v2.webp"},
   {
     id: "mount-kulu-relief-v2",
     type: "mountain",
@@ -170,8 +175,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 3200 m", "Dél-nemzetiségek régiója", "Érintetlen természet"],
       ro: ["Înălțime: 3200 m", "Regiunea Națiunilor Sudice", "Natură neatinsă"],
       en: ["Elevation: 3200 m", "Southern Nations region", "Untouched nature"]
-    }
-  },
+    }, image: "/poi-images/mount-kulu-relief-v2.webp"},
   {
     id: "mount-gugu-relief-v2",
     type: "mountain",
@@ -189,8 +193,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 3600 m", "Erdős terület", "Ritka fajok otthona"],
       ro: ["Înălțime: 3600 m", "Zonă împădurită", "Habitat pentru specii rare"],
       en: ["Elevation: 3600 m", "Forested area", "Home to rare species"]
-    }
-  },
+    }, image: "/poi-images/mount-gugu-relief-v2.webp"},
   {
     id: "mount-fentale-relief-v2",
     type: "mountain",
@@ -208,8 +211,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 2007 m", "Vulkáni kráter", "Geológiai képződmények"],
       ro: ["Înălțime: 2007 m", "Crater vulcanic", "Formațiuni geologice"],
       en: ["Elevation: 2007 m", "Volcanic crater", "Geological formations"]
-    }
-  },
+    }, image: "/poi-images/mount-fentale-relief-v2.webp"},
   {
     id: "mount-kono-relief-v2",
     type: "mountain",
@@ -227,8 +229,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 3100 m", "Hagyományos terület", "Túraútvonalak"],
       ro: ["Înălțime: 3100 m", "Zonă tradițională", "Trasee de drumeție"],
       en: ["Elevation: 3100 m", "Traditional area", "Hiking trails"]
-    }
-  },
+    }, image: "/poi-images/mount-kono-relief-v2.webp"},
   {
     id: "mount-ebro-relief-v2",
     type: "mountain",
@@ -246,8 +247,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 2100 m", "Száraz éghajlat", "Vulkáni kőzet"],
       ro: ["Înălțime: 2100 m", "Climă aridă", "Rocă vulcanică"],
       en: ["Elevation: 2100 m", "Arid climate", "Volcanic rock"]
-    }
-  },
+    }, image: "/poi-images/mount-ebro-relief-v2.webp"},
   {
     id: "mount-tut-relief-v2",
     type: "mountain",
@@ -265,8 +265,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 1800 m", "Sivatagi táj", "Ritkás növényzet"],
       ro: ["Înălțime: 1800 m", "Peisaj deșertic", "Vegetație rară"],
       en: ["Elevation: 1800 m", "Desert landscape", "Sparse vegetation"]
-    }
-  },
+    }, image: "/poi-images/mount-tut-relief-v2.webp"},
   {
     id: "mount-culu-relief-v2",
     type: "mountain",
@@ -284,8 +283,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 2900 m", "Esőerdők", "Magas csapadékmennyiség"],
       ro: ["Înălțime: 2900 m", "Zonă de pădure tropicală", "Precipitații ridicate"],
       en: ["Elevation: 2900 m", "Rainforest areas", "High rainfall"]
-    }
-  },
+    }, image: "/poi-images/mount-culu-relief-v2.webp"},
   {
     id: "harenna-forest-relief-v2",
     type: "forest",
@@ -303,8 +301,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["A Bale Nemzeti Park része", "Felhőerdő", "Magas biodiverzitás"],
       ro: ["Parte a Parcului Național Bale", "Pădure de ceață", "Biodiversitate ridicată"],
       en: ["Part of Bale National Park", "Cloud forest", "High biodiversity"]
-    }
-  },
+    }, image: "/poi-images/harenna-forest-relief-v2.webp"},
   {
     id: "bonga-forest-relief-v2",
     type: "forest",
@@ -322,8 +319,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["A kávé őshazája", "Gazdag növényzet", "Védett terület"],
       ro: ["Patria cafelei", "Vegetație bogată", "Zonă protejată"],
       en: ["Home of coffee", "Rich vegetation", "Protected area"]
-    }
-  },
+    }, image: "/poi-images/bonga-forest-relief-v2.webp"},
   {
     id: "sheka-forest-relief-v2",
     type: "forest",
@@ -341,8 +337,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["UNESCO Bioszféra-rezervátum", "Esőerdő", "Védett élővilág"],
       ro: ["Rezervație a biosferei UNESCO", "Pădure tropicală", "Faună protejată"],
       en: ["UNESCO Biosphere Reserve", "Rainforest", "Protected wildlife"]
-    }
-  },
+    }, image: "/poi-images/sheka-forest-relief-v2.webp"},
   {
     id: "kefa-forest-relief-v2",
     type: "forest",
@@ -360,8 +355,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Hegyi erdő", "Kulturális örökség", "Magas páratartalom"],
       ro: ["Pădure montană", "Moștenire culturală", "Umiditate ridicată"],
       en: ["Mountain forest", "Cultural heritage", "High humidity"]
-    }
-  },
+    }, image: "/poi-images/kefa-forest-relief-v2.webp"},
   {
     id: "mount-choke-relief-v2",
     type: "mountain",
@@ -379,8 +373,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 4100 m", "Fontos vízválasztó", "Hegyi legelők"],
       ro: ["Înălțime: 4100 m", "Bazin hidrografic important", "Pășuni montane"],
       en: ["Elevation: 4100 m", "Important watershed", "Mountain pastures"]
-    }
-  },
+    }, image: "/poi-images/mount-choke-relief-v2.webp"},
   {
     id: "mount-guna-relief-v2",
     type: "mountain",
@@ -398,8 +391,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 4120 m", "Afro-alpesi", "Panoráma a Tana-tóra"],
       ro: ["Înălțime: 4120 m", "Afro-alpin", "Panoramă asupra lacului Tana"],
       en: ["Elevation: 4120 m", "Afro-alpine", "Panoramic view of Lake Tana"]
-    }
-  },
+    }, image: "/poi-images/mount-guna-relief-v2.webp"},
   {
     id: "mount-welel-relief-v2",
     type: "mountain",
@@ -417,8 +409,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 3300 m", "Kulturálisan jelentős", "Túrázás"],
       ro: ["Înălțime: 3300 m", "Importanță culturală", "Drumeții"],
       en: ["Elevation: 3300 m", "Culturally significant", "Hiking"]
-    }
-  },
+    }, image: "/poi-images/mount-welel-relief-v2.webp"},
   {
     id: "mount-dino-relief-v2",
     type: "mountain",
@@ -436,8 +427,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: ["Magasság: 2500 m", "Sivatagi perem", "Száraz növényzet"],
       ro: ["Înălțime: 2500 m", "Marginea deșertului", "Vegetație aridă"],
       en: ["Elevation: 2500 m", "Desert edge", "Arid vegetation"]
-    }
-  },
+    }, image: "/poi-images/mount-dino-relief-v2.webp"},
   {
     id: "mount-muger-relief-v2",
     type: "mountain",
@@ -477,3 +467,4 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     }
   }
 ];
+

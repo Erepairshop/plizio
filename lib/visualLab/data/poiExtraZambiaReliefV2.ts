@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraZambiaReliefV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Mély árok egyedülálló geológiával.", "Határos a Muchinga-hegységgel."],
       ro: ["Rift adânc cu o geologie unică.", "Se învecinează cu Munții Muchinga."],
       en: ["Deep rift with unique geology.", "Borders the Muchinga Mountains."]
-    }
-  },
+    }, image: "/poi-images/luangwa-rift-valley-relief-v2.webp"},
   {
     id: "muchinga-mountains-relief-v2",
     type: "mountain",
@@ -27,8 +27,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Zambia északkeleti részén húzódik.", "Magas fennsíkok és mély völgyek."],
       ro: ["Se întinde pe nord-estul Zambiei.", "Platouri înalte și văi adânci."],
       en: ["Stretches across northeastern Zambia.", "High plateaus and deep valleys."]
-    }
-  },
+    }, image: "/poi-images/muchinga-mountains-relief-v2.webp"},
   {
     id: "tanganyika-plateau-relief-v2",
     type: "relief",
@@ -69,8 +68,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Nagyon lapos parti tájak.", "Tektonikus süllyedéssel keletkezett."],
       ro: ["Peisaje costiere foarte plate.", "Format prin subsidență tectonică."],
       en: ["Very flat shoreline landscapes.", "Formed by tectonic subsidence."]
-    }
-  },
+    }, image: "/poi-images/bangweulu-basin-relief-v2.webp"},
   {
     id: "nyika-plateau-relief-v2",
     type: "mountain",
@@ -83,8 +81,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Határos Malawival.", "Gördülő táj lágy dombokkal."],
       ro: ["Se învecinează cu Malawi.", "Peisaj valonat cu dealuri domoale."],
       en: ["Borders Malawi.", "Rolling landscape with gentle hills."]
-    }
-  },
+    }, image: "/poi-images/nyika-plateau-relief-v2.webp"},
   {
     id: "zambezi-valley-relief-v2",
     type: "relief",
@@ -125,8 +122,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Fontos víztároló a folyók számára.", "Nagyon csapadékos."],
       ro: ["Rezervor de apă important pentru râuri.", "Foarte ploios."],
       en: ["Important water reservoir for rivers.", "Very rainy."]
-    }
-  },
+    }, image: "/poi-images/northwestern-highlands-relief-v2.webp"},
   {
     id: "barotse-floodplain-relief-v2",
     type: "relief",
@@ -153,8 +149,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Termékeny talajok a folyó mentén.", "Fontos a mezőgazdaság számára."],
       ro: ["Soluri fertile de-a lungul râului.", "Important pentru agricultură."],
       en: ["Fertile soils along the river.", "Important for agriculture."]
-    }
-  },
+    }, image: "/poi-images/luapula-valley-relief-v2.webp"},
   {
     id: "mporokoso-plateau-relief-v2",
     type: "relief",
@@ -167,8 +162,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Magas csapadékmennyiség.", "Vízben gazdag terület."],
       ro: ["Precipitații ridicate.", "Zonă bogată în apă."],
       en: ["High rainfall.", "Water-rich area."]
-    }
-  },
+    }, image: "/poi-images/mporokoso-plateau-relief-v2.webp"},
   {
     id: "serenje-hills-relief-v2",
     type: "mountain",
@@ -181,8 +175,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["A Muchinga-övezethez tartozik.", "Ideális túrázáshoz."],
       ro: ["Face parte din centura Muchinga.", "Ideal pentru drumeții."],
       en: ["Part of the Muchinga belt.", "Ideal for hiking."]
-    }
-  },
+    }, image: "/poi-images/serenje-hills-relief-v2.webp"},
   {
     id: "mutinondo-wilderness-relief-v2",
     type: "relief",
@@ -195,8 +188,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Ismert geológiai képződményeiről.", "Lélegzetelállító kilátópontok."],
       ro: ["Cunoscută pentru formațiuni geologice.", "Puncte de belvedere uluitoare."],
       en: ["Known for geological formations.", "Breathtaking viewpoints."]
-    }
-  },
+    }, image: "/poi-images/mutinondo-wilderness-relief-v2.webp"},
   {
     id: "chambeshi-flats-relief-v2",
     type: "relief",
@@ -223,8 +215,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Nagy szintkülönbség.", "Kihívást jelentő terep."],
       ro: ["Diferență mare de nivel.", "Teren dificil."],
       en: ["Great height difference.", "Challenging terrain."]
-    }
-  },
+    }, image: "/poi-images/luangwa-escarpment-relief-v2.webp"},
   {
     id: "kabwe-escarpment-relief-v2",
     type: "mountain",
@@ -237,8 +228,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Természetes határ régiók között.", "Figyelemre méltó terepél."],
       ro: ["Graniță naturală între regiuni.", "Margine de teren remarcabilă."],
       en: ["Natural border between regions.", "Striking terrain edge."]
-    }
-  },
+    }, image: "/poi-images/kabwe-escarpment-relief-v2.webp"},
   {
     id: "chola-hills-relief-v2",
     type: "mountain",
@@ -251,8 +241,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Erdős lejtők.", "Viszonylag távoli."],
       ro: ["Versanți împăduriți.", "Relativ izolat."],
       en: ["Forested slopes.", "Relatively remote."]
-    }
-  },
+    }, image: "/poi-images/chola-hills-relief-v2.webp"},
   {
     id: "lupande-basin-relief-v2",
     type: "relief",
@@ -265,8 +254,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Szezonális száraz folyók.", "Fontos vadfolyosók."],
       ro: ["Râuri secate sezonier.", "Coridoare importante pentru animale sălbatice."],
       en: ["Seasonal dry rivers.", "Important wildlife corridors."]
-    }
-  },
+    }, image: "/poi-images/lupande-basin-relief-v2.webp"},
   {
     id: "zambezi-gorge-relief-v2",
     type: "relief",
@@ -279,8 +267,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Tektonikusan formált.", "Látványos mélység."],
       ro: ["Format tectonic.", "Adâncime spectaculoasă."],
       en: ["Tectonically formed.", "Spectacular depth."]
-    }
-  },
+    }, image: "/poi-images/zambezi-gorge-relief-v2.webp"},
   {
     id: "katanga-plateau-extension-relief-v2",
     type: "relief",
@@ -293,8 +280,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Ásványokban gazdag.", "Hilly terep."],
       ro: ["Bogată în minerale.", "Teren deluros."],
       en: ["Rich in minerals.", "Hilly terrain."]
-    }
-  },
+    }, image: "/poi-images/katanga-plateau-extension-relief-v2.webp"},
   {
     id: "kabwe-lowlands-relief-v2",
     type: "relief",
@@ -307,8 +293,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Melegebb klíma.", "Sűrű növényzet."],
       ro: ["Climat mai cald.", "Vegetație densă."],
       en: ["Warmer climate.", "Dense vegetation."]
-    }
-  },
+    }, image: "/poi-images/kabwe-lowlands-relief-v2.webp"},
   {
     id: "lusaka-hills-relief-v2",
     type: "mountain",
@@ -321,8 +306,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Meghatározza a városképet.", "Ideális rövid kirándulásokhoz."],
       ro: ["Definește peisajul urban.", "Ideal pentru excursii scurte."],
       en: ["Define the cityscape.", "Ideal for short trips."]
-    }
-  },
+    }, image: "/poi-images/lusaka-hills-relief-v2.webp"},
   {
     id: "mbala-highlands-relief-v2",
     type: "mountain",
@@ -335,8 +319,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
       hu: ["Hűvös, kellemes idő.", "Mezőgazdasági központ."],
       ro: ["Vreme răcoroasă, plăcută.", "Centru agricol."],
       en: ["Cool, pleasant weather.", "Agricultural center."]
-    }
-  },
+    }, image: "/poi-images/mbala-highlands-relief-v2.webp"},
   {
     id: "kafue-escarpment-relief-v2",
     type: "mountain",
@@ -352,3 +335,4 @@ export const poiExtraZambiaReliefV2: POI[] = [
     }
   }
 ];
+

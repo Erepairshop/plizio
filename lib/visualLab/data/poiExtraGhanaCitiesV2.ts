@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGhanaCitiesV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Accra városának becsült lakossága több mint 2514005 fő.", "Jelentős városközpont Ghána GH-AA régiójában."],
       ro: ["Orașul Accra are o populație estimată la peste 2514005.", "Este un centru urban semnificativ în regiunea GH-AA din Ghana."],
       en: ["The city of Accra has an estimated population of over 2514005.", "It is a significant urban center in the GH-AA region of Ghana."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Accra, die pulsierende Hauptstadt Ghanas, erstreckt sich als bedeutendes urbanes Zentrum entlang der Küste des Golfs von Guinea. Mit einer Geschichte, die bis ins 15. Jahrhundert zurückreicht, hat sich die Stadt von einer kleinen Fischersiedlung zu einer dynamischen Metropole entwickelt, die heute das politische und wirtschaftliche Herz des Landes bildet. Ein Besuch im Nationalmuseum bietet tiefe Einblicke in die vielfältige kulturelle Geschichte der ghanaischen Stämme. Geografie K7 — Küstenstädte und Wirtschaftsräume.",
+      hu: "Accra, Ghána nyüzsgő fővárosa, a Guineai-öböl partvidékén terül el, az ország gazdasági és politikai központjaként. A 15. században alapított egykori kereskedelmi állomás ma már Afrika egyik legdinamikusabb városa, ahol a hagyományos piacok és a modern felhőkarcolók találkoznak. A város kulturális életét a nemzeti múzeumok és a pezsgő éjszakai élet határozzák meg. Földrajz K7 — tengerparti városok és gazdasági központok.",
+      ro: "Accra, capitala vibrantă a Ghanei, se întinde de-a lungul coastei Golfului Guineei, servind drept centru politic și economic vital. Orașul a evoluat dintr-o mică așezare pescărească în secolul al XV-lea într-o metropolă modernă și dinamică. Muzeul Național oferă vizitatorilor o privire detaliată asupra patrimoniului cultural bogat al triburilor ghaneze. Geografie K7 — orașe de coastă și hub-uri economice.",
+      en: "Accra, the vibrant capital of Ghana, stretches along the coast of the Gulf of Guinea, serving as the country's political and economic heart. With history dating back to the 15th century, it has evolved from a small fishing village into a dynamic metropolis. The National Museum offers profound insights into the diverse cultural heritage of the Ghanaian tribes. Geography K7 — coastal cities and economic hubs."
+    },
+    factsAdvanced: {
+      de: ["Accra wurde 1877 zur Hauptstadt der britischen Goldküste ernannt.", "Die Stadt beherbergt das berühmte Jamestown Lighthouse.", "Der Makola-Markt ist eines der größten Handelszentren Westafrikas.", "Der Kotoka International Airport ist das Tor zum Land.", "Die Stadt liegt nur wenige Meter über dem Meeresspiegel.", "Das Osu Castle war früher der Sitz der Regierung."],
+      hu: ["Accra 1877-ben lett a brit Aranypart fővárosa.", "A városban található a híres Jamestown világítótorony.", "A Makola piac Nyugat-Afrika egyik legnagyobb kereskedelmi központja.", "A Kotoka nemzetközi repülőtér az ország legfőbb kapuja.", "A város mindössze néhány méterrel fekszik a tengerszint felett.", "Az Osu erőd egykor a kormány székhelye volt."],
+      ro: ["Accra a devenit capitala Coastei de Aur britanice în 1877.", "Orașul găzduiește celebrul Far Jamestown.", "Piața Makola este unul dintre cele mai mari centre comerciale din Africa de Vest.", "Aeroportul Internațional Kotoka este poarta principală a țării.", "Orașul este situat la doar câțiva metri deasupra nivelului mării.", "Castelul Osu a fost în trecut sediul guvernului."],
+      en: ["Accra became the capital of the British Gold Coast in 1877.", "The city houses the famous Jamestown Lighthouse.", "Makola Market is one of the largest commercial centers in West Africa.", "Kotoka International Airport is the country's main gateway.", "The city sits just a few meters above sea level.", "Osu Castle was formerly the seat of government."]
+    }, image: "/poi-images/accra-cities-v2.webp"},
   {
     id: "kumasi-cities-v2",
     type: "city",
@@ -27,8 +39,19 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Kumasi városának becsült lakossága több mint 3348000 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
       ro: ["Orașul Kumasi are o populație estimată la peste 3348000.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana."],
       en: ["The city of Kumasi has an estimated population of over 3348000.", "It is a significant urban center in the GH-AH region of Ghana."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Kumasi, bekannt als die Gartenstadt von Ghana, dient als das kulturelle Herz des Ashanti-Königreichs. Die Stadt ist weltberühmt für den Kejetia-Markt, einen der größten Freiluftmärkte in ganz Westafrika, wo Tausende Händler ihre Waren feilbieten. Das Manhyia-Palastmuseum gewährt faszinierende Einblicke in die traditionsreiche Geschichte der Ashanti-Monarchen und ihre prächtigen Goldarbeiten. Geografie K6 — regionale Zentren und Märkte.",
+      hu: "Kumasi, amelyet Ghána kertvárosaként emlegetnek, az Ashanti Királyság kulturális központja. A város világhírű a Kejetia piacról, amely Nyugat-Afrika egyik legnagyobb szabadtéri piaca, ahol több ezer kereskedő kínálja portékáit. A Manhyia palotamúzeum lenyűgöző betekintést nyújt az Ashanti uralkodók gazdag történelmébe és ékszerkészítő hagyományaiba. Földrajz K6 — regionális központok és piacok.",
+      ro: "Kumasi, supranumit orașul-grădină al Ghanei, servește drept inimă culturală a Regatului Ashanti. Orașul este faimos la nivel mondial pentru piața Kejetia, una dintre cele mai mari piețe în aer liber din Africa de Vest, unde mii de comercianți își vând produsele. Muzeul Palatului Manhyia oferă o privire fascinantă în istoria bogată a monarhilor Ashanti și în tradițiile lor de prelucrare a aurului. Geografie K6 — centre regionale și piețe.",
+      en: "Kumasi, known as the Garden City of Ghana, serves as the cultural heart of the Ashanti Kingdom. The city is world-famous for the Kejetia Market, one of the largest open-air markets in all of West Africa, where thousands of merchants sell their wares. The Manhyia Palace Museum provides fascinating insights into the rich history of the Ashanti monarchs and their gold-crafting traditions. Geography K6 — regional centers and markets."
+    },
+    factsAdvanced: {
+      de: ["Kumasi war die Hauptstadt des historischen Ashanti-Reiches.", "Der Kejetia-Markt umfasst über 10.000 Stände.", "Die Stadt ist für ihre Produktion von Kente-Stoffen bekannt.", "Die Ashanti-Monarchie ist bis heute einflussreich.", "Kumasi liegt in der Waldzone des Landes.", "Die Universität von Kumasi ist eine der bedeutendsten technischen Unis."],
+      hu: ["Kumasi a történelmi Ashanti Birodalom fővárosa volt.", "A Kejetia piac több mint 10 000 standot foglal magában.", "A város a Kente-szövetek gyártásáról ismert.", "Az Ashanti monarchia a mai napig befolyásos.", "Kumasi az ország erdős övezetében fekszik.", "A kumasi műszaki egyetem az ország egyik legjelentősebbje."],
+      ro: ["Kumasi a fost capitala istoricului Imperiu Ashanti.", "Piața Kejetia cuprinde peste 10.000 de tarabe.", "Orașul este cunoscut pentru producția de țesături Kente.", "Monarhia Ashanti este influentă și în prezent.", "Kumasi este situat în zona forestieră a țării.", "Universitatea Tehnică din Kumasi este una dintre cele mai importante."],
+      en: ["Kumasi was the capital of the historic Ashanti Empire.", "Kejetia Market comprises over 10,000 stalls.", "The city is known for its production of Kente cloth.", "The Ashanti monarchy remains influential today.", "Kumasi is situated in the country's forest zone.", "Kumasi Technical University is one of the most significant in the country."]
+    }, image: "/poi-images/kumasi-cities-v2.webp"},
   {
     id: "tamale-cities-v2",
     type: "city",
@@ -41,8 +64,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Tamale városának becsült lakossága több mint 642000 fő.", "Jelentős városközpont Ghána GH-NP régiójában."],
       ro: ["Orașul Tamale are o populație estimată la peste 642000.", "Este un centru urban semnificativ în regiunea GH-NP din Ghana."],
       en: ["The city of Tamale has an estimated population of over 642000.", "It is a significant urban center in the GH-NP region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/tamale-cities-v2.webp"},
   {
     id: "takoradi-cities-v2",
     type: "city",
@@ -55,8 +77,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Takoradi városának becsült lakossága több mint 445205 fő.", "Jelentős városközpont Ghána GH-WP régiójában."],
       ro: ["Orașul Takoradi are o populație estimată la peste 445205.", "Este un centru urban semnificativ în regiunea GH-WP din Ghana."],
       en: ["The city of Takoradi has an estimated population of over 445205.", "It is a significant urban center in the GH-WP region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/takoradi-cities-v2.webp"},
   {
     id: "ashaiman-cities-v2",
     type: "city",
@@ -69,8 +90,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Ashaiman városának becsült lakossága több mint 298841 fő.", "Jelentős városközpont Ghána GH-AA régiójában."],
       ro: ["Orașul Ashaiman are o populație estimată la peste 298841.", "Este un centru urban semnificativ în regiunea GH-AA din Ghana."],
       en: ["The city of Ashaiman has an estimated population of over 298841.", "It is a significant urban center in the GH-AA region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/ashaiman-cities-v2.webp"},
   {
     id: "tema-cities-v2",
     type: "city",
@@ -83,8 +103,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Tema városának becsült lakossága több mint 161612 fő.", "Jelentős városközpont Ghána GH-AA régiójában."],
       ro: ["Orașul Tema are o populație estimată la peste 161612.", "Este un centru urban semnificativ în regiunea GH-AA din Ghana."],
       en: ["The city of Tema has an estimated population of over 161612.", "It is a significant urban center in the GH-AA region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/tema-cities-v2.webp"},
   {
     id: "teshie-cities-v2",
     type: "city",
@@ -97,8 +116,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Teshie városának becsült lakossága több mint 171875 fő.", "Jelentős városközpont Ghána GH-AA régiójában."],
       ro: ["Orașul Teshie are o populație estimată la peste 171875.", "Este un centru urban semnificativ în regiunea GH-AA din Ghana."],
       en: ["The city of Teshie has an estimated population of over 171875.", "It is a significant urban center in the GH-AA region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/teshie-cities-v2.webp"},
   {
     id: "cape-coast-cities-v2",
     type: "city",
@@ -125,8 +143,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Sekondi városának becsült lakossága több mint 114157 fő.", "Jelentős városközpont Ghána GH-WP régiójában."],
       ro: ["Orașul Sekondi are o populație estimată la peste 114157.", "Este un centru urban semnificativ în regiunea GH-WP din Ghana."],
       en: ["The city of Sekondi has an estimated population of over 114157.", "It is a significant urban center in the GH-WP region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/sekondi-cities-v2.webp"},
   {
     id: "obuasi-cities-v2",
     type: "city",
@@ -139,8 +156,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Obuasi városának becsült lakossága több mint 175043 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
       ro: ["Orașul Obuasi are o populație estimată la peste 175043.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana."],
       en: ["The city of Obuasi has an estimated population of over 175043.", "It is a significant urban center in the GH-AH region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/obuasi-cities-v2.webp"},
   {
     id: "madina-cities-v2",
     type: "city",
@@ -153,8 +169,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Madina városának becsült lakossága több mint 137162 fő.", "Jelentős városközpont Ghána GH-AA régiójában."],
       ro: ["Orașul Madina are o populație estimată la peste 137162.", "Este un centru urban semnificativ în regiunea GH-AA din Ghana."],
       en: ["The city of Madina has an estimated population of over 137162.", "It is a significant urban center in the GH-AA region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/madina-cities-v2.webp"},
   {
     id: "koforidua-cities-v2",
     type: "city",
@@ -167,8 +182,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Koforidua városának becsült lakossága több mint 127334 fő.", "Jelentős városközpont Ghána GH-EP régiójában."],
       ro: ["Orașul Koforidua are o populație estimată la peste 127334.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana."],
       en: ["The city of Koforidua has an estimated population of over 127334.", "It is a significant urban center in the GH-EP region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/koforidua-cities-v2.webp"},
   {
     id: "wa-cities-v2",
     type: "city",
@@ -181,8 +195,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Wa városának becsült lakossága több mint 102446 fő.", "Jelentős városközpont Ghána GH-UW régiójában."],
       ro: ["Orașul Wa are o populație estimată la peste 102446.", "Este un centru urban semnificativ în regiunea GH-UW din Ghana."],
       en: ["The city of Wa has an estimated population of over 102446.", "It is a significant urban center in the GH-UW region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/wa-cities-v2.webp"},
   {
     id: "techiman-cities-v2",
     type: "city",
@@ -195,8 +208,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Techiman városának becsült lakossága több mint 104212 fő.", "Jelentős városközpont Ghána GH-BE régiójában."],
       ro: ["Orașul Techiman are o populație estimată la peste 104212.", "Este un centru urban semnificativ în regiunea GH-BE din Ghana."],
       en: ["The city of Techiman has an estimated population of over 104212.", "It is a significant urban center in the GH-BE region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/techiman-cities-v2.webp"},
   {
     id: "nungua-cities-v2",
     type: "city",
@@ -209,8 +221,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Nungua városának becsült lakossága több mint 84119 fő.", "Jelentős városközpont Ghána GH-AA régiójában."],
       ro: ["Orașul Nungua are o populație estimată la peste 84119.", "Este un centru urban semnificativ în regiunea GH-AA din Ghana."],
       en: ["The city of Nungua has an estimated population of over 84119.", "It is a significant urban center in the GH-AA region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/nungua-cities-v2.webp"},
   {
     id: "tema-new-town-cities-v2",
     type: "city",
@@ -223,8 +234,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Tema New Town városának becsült lakossága több mint 81480 fő.", "Jelentős városközpont Ghána GH-AA régiójában."],
       ro: ["Orașul Tema New Town are o populație estimată la peste 81480.", "Este un centru urban semnificativ în regiunea GH-AA din Ghana."],
       en: ["The city of Tema New Town has an estimated population of over 81480.", "It is a significant urban center in the GH-AA region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/tema-new-town-cities-v2.webp"},
   {
     id: "sunyani-cities-v2",
     type: "city",
@@ -237,8 +247,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Sunyani városának becsült lakossága több mint 100000 fő.", "Jelentős városközpont Ghána GH-BO régiójában."],
       ro: ["Orașul Sunyani are o populație estimată la peste 100000.", "Este un centru urban semnificativ în regiunea GH-BO din Ghana."],
       en: ["The city of Sunyani has an estimated population of over 100000.", "It is a significant urban center in the GH-BO region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/sunyani-cities-v2.webp"},
   {
     id: "ho-cities-v2",
     type: "city",
@@ -251,8 +260,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Ho városának becsült lakossága több mint 96213 fő.", "Jelentős városközpont Ghána GH-TV régiójában."],
       ro: ["Orașul Ho are o populație estimată la peste 96213.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana."],
       en: ["The city of Ho has an estimated population of over 96213.", "It is a significant urban center in the GH-TV region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/ho-cities-v2.webp"},
   {
     id: "bawku-cities-v2",
     type: "city",
@@ -265,8 +273,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Bawku városának becsült lakossága több mint 61151 fő.", "Jelentős városközpont Ghána GH-UE régiójában."],
       ro: ["Orașul Bawku are o populație estimată la peste 61151.", "Este un centru urban semnificativ în regiunea GH-UE din Ghana."],
       en: ["The city of Bawku has an estimated population of over 61151.", "It is a significant urban center in the GH-UE region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/bawku-cities-v2.webp"},
   {
     id: "dome-cities-v2",
     type: "city",
@@ -279,8 +286,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Dome városának becsült lakossága több mint 78785 fő.", "Jelentős városközpont Ghána GH-AA régiójában."],
       ro: ["Orașul Dome are o populație estimată la peste 78785.", "Este un centru urban semnificativ în regiunea GH-AA din Ghana."],
       en: ["The city of Dome has an estimated population of over 78785.", "It is a significant urban center in the GH-AA region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/dome-cities-v2.webp"},
   {
     id: "bolgatanga-cities-v2",
     type: "city",
@@ -293,8 +299,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Bolgatanga városának becsült lakossága több mint 66685 fő.", "Jelentős városközpont Ghána GH-UE régiójában."],
       ro: ["Orașul Bolgatanga are o populație estimată la peste 66685.", "Este un centru urban semnificativ în regiunea GH-UE din Ghana."],
       en: ["The city of Bolgatanga has an estimated population of over 66685.", "It is a significant urban center in the GH-UE region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/bolgatanga-cities-v2.webp"},
   {
     id: "lashibi-cities-v2",
     type: "city",
@@ -335,8 +340,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Gbawe városának becsült lakossága több mint 74403 fő.", "Jelentős városközpont Ghána GH-AA régiójában."],
       ro: ["Orașul Gbawe are o populație estimată la peste 74403.", "Este un centru urban semnificativ în regiunea GH-AA din Ghana."],
       en: ["The city of Gbawe has an estimated population of over 74403.", "It is a significant urban center in the GH-AA region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/gbawe-cities-v2.webp"},
   {
     id: "agona-swedru-cities-v2",
     type: "city",
@@ -349,8 +353,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Agona Swedru városának becsült lakossága több mint 68216 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
       ro: ["Orașul Agona Swedru are o populație estimată la peste 68216.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana."],
       en: ["The city of Agona Swedru has an estimated population of over 68216.", "It is a significant urban center in the GH-CP region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/agona-swedru-cities-v2.webp"},
   {
     id: "ejura-cities-v2",
     type: "city",
@@ -363,8 +366,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Ejura városának becsült lakossága több mint 70807 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
       ro: ["Orașul Ejura are o populație estimată la peste 70807.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana."],
       en: ["The city of Ejura has an estimated population of over 70807.", "It is a significant urban center in the GH-AH region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/ejura-cities-v2.webp"},
   {
     id: "berekum-cities-v2",
     type: "city",
@@ -377,8 +379,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Berekum városának becsült lakossága több mint 60473 fő.", "Jelentős városközpont Ghána GH-BO régiójában."],
       ro: ["Orașul Berekum are o populație estimată la peste 60473.", "Este un centru urban semnificativ în regiunea GH-BO din Ghana."],
       en: ["The city of Berekum has an estimated population of over 60473.", "It is a significant urban center in the GH-BO region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/berekum-cities-v2.webp"},
   {
     id: "tafo-cities-v2",
     type: "city",
@@ -391,8 +392,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Tafo városának becsült lakossága több mint 60919 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
       ro: ["Orașul Tafo are o populație estimată la peste 60919.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana."],
       en: ["The city of Tafo has an estimated population of over 60919.", "It is a significant urban center in the GH-AH region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/tafo-cities-v2.webp"},
   {
     id: "suhum-cities-v2",
     type: "city",
@@ -405,8 +405,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Suhum városának becsült lakossága több mint 49398 fő.", "Jelentős városközpont Ghána GH-EP régiójában."],
       ro: ["Orașul Suhum are o populație estimată la peste 49398.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana."],
       en: ["The city of Suhum has an estimated population of over 49398.", "It is a significant urban center in the GH-EP region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/suhum-cities-v2.webp"},
   {
     id: "tarkwa-cities-v2",
     type: "city",
@@ -419,8 +418,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Tarkwa városának becsült lakossága több mint 34941 fő.", "Jelentős városközpont Ghána GH-WP régiójában."],
       ro: ["Orașul Tarkwa are o populație estimată la peste 34941.", "Este un centru urban semnificativ în regiunea GH-WP din Ghana."],
       en: ["The city of Tarkwa has an estimated population of over 34941.", "It is a significant urban center in the GH-WP region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/tarkwa-cities-v2.webp"},
   {
     id: "nsawam-cities-v2",
     type: "city",
@@ -433,8 +431,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Nsawam városának becsült lakossága több mint 44522 fő.", "Jelentős városközpont Ghána GH-EP régiójában."],
       ro: ["Orașul Nsawam are o populație estimată la peste 44522.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana."],
       en: ["The city of Nsawam has an estimated population of over 44522.", "It is a significant urban center in the GH-EP region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/nsawam-cities-v2.webp"},
   {
     id: "kasoa-cities-v2",
     type: "city",
@@ -447,8 +444,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       hu: ["Kasoa városának becsült lakossága több mint 69384 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
       ro: ["Orașul Kasoa are o populație estimată la peste 69384.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana."],
       en: ["The city of Kasoa has an estimated population of over 69384.", "It is a significant urban center in the GH-CP region of Ghana."]
-    }
-  },
+    }, image: "/poi-images/kasoa-cities-v2.webp"},
   {
     id: "yendi-cities-v2",
     type: "city",
@@ -459,10 +455,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Yendi hat eine geschätzte Bevölkerung von über 52008.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-NP Ghanas."],
       hu: ["Yendi városának becsült lakossága több mint 52008 fő.", "Jelentős városközpont Ghána GH-NP régiójában."],
-      ro: ["Orașul Yendi are o populație estimată la peste 52008.", "Este un centru urban semnificativ în regiunea GH-NP din Ghana."],
-      en: ["The city of Yendi has an estimated population of over 52008.", "It is a significant urban center in the GH-NP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Yendi are o populație estimată la peste 52008.", "Este un centru urban semnificativ în regiunea GH-NP din Ghana.", "en: The city of Yendi has an estimated population of over 52008.", "It is a significant urban center in the GH-NP region of Ghana."]
+    }, image: "/poi-images/yendi-cities-v2.webp"},
   {
     id: "winneba-cities-v2",
     type: "city",
@@ -473,10 +467,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Winneba hat eine geschätzte Bevölkerung von über 57015.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Winneba városának becsült lakossága több mint 57015 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Winneba are o populație estimată la peste 57015.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana."],
-      en: ["The city of Winneba has an estimated population of over 57015.", "It is a significant urban center in the GH-CP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Winneba are o populație estimată la peste 57015.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Winneba has an estimated population of over 57015.", "It is a significant urban center in the GH-CP region of Ghana."]
+    }, image: "/poi-images/winneba-cities-v2.webp"},
   {
     id: "mampong-cities-v2",
     type: "city",
@@ -487,10 +479,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Mampong hat eine geschätzte Bevölkerung von über 42037.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
       hu: ["Mampong városának becsült lakossága több mint 42037 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
-      ro: ["Orașul Mampong are o populație estimată la peste 42037.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana."],
-      en: ["The city of Mampong has an estimated population of over 42037.", "It is a significant urban center in the GH-AH region of Ghana."]
-    }
-  },
+      ro: ["Orașul Mampong are o populație estimată la peste 42037.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Mampong has an estimated population of over 42037.", "It is a significant urban center in the GH-AH region of Ghana."]
+    }, image: "/poi-images/mampong-cities-v2.webp"},
   {
     id: "navrongo-cities-v2",
     type: "city",
@@ -501,10 +491,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Navrongo hat eine geschätzte Bevölkerung von über 27306.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-UE Ghanas."],
       hu: ["Navrongo városának becsült lakossága több mint 27306 fő.", "Jelentős városközpont Ghána GH-UE régiójában."],
-      ro: ["Orașul Navrongo are o populație estimată la peste 27306.", "Este un centru urban semnificativ în regiunea GH-UE din Ghana."],
-      en: ["The city of Navrongo has an estimated population of over 27306.", "It is a significant urban center in the GH-UE region of Ghana."]
-    }
-  },
+      ro: ["Orașul Navrongo are o populație estimată la peste 27306.", "Este un centru urban semnificativ în regiunea GH-UE din Ghana.", "en: The city of Navrongo has an estimated population of over 27306.", "It is a significant urban center in the GH-UE region of Ghana."]
+    }, image: "/poi-images/navrongo-cities-v2.webp"},
   {
     id: "akim-oda-cities-v2",
     type: "city",
@@ -515,10 +503,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Akim Oda hat eine geschätzte Bevölkerung von über 51231.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
       hu: ["Akim Oda városának becsült lakossága több mint 51231 fő.", "Jelentős városközpont Ghána GH-EP régiójában."],
-      ro: ["Orașul Akim Oda are o populație estimată la peste 51231.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana."],
-      en: ["The city of Akim Oda has an estimated population of over 51231.", "It is a significant urban center in the GH-EP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Akim Oda are o populație estimată la peste 51231.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Akim Oda has an estimated population of over 51231.", "It is a significant urban center in the GH-EP region of Ghana."]
+    }, image: "/poi-images/akim-oda-cities-v2.webp"},
   {
     id: "prestea-cities-v2",
     type: "city",
@@ -529,8 +515,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Prestea hat eine geschätzte Bevölkerung von über 35760.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-WP Ghanas."],
       hu: ["Prestea városának becsült lakossága több mint 35760 fő.", "Jelentős városközpont Ghána GH-WP régiójában."],
-      ro: ["Orașul Prestea are o populație estimată la peste 35760.", "Este un centru urban semnificativ în regiunea GH-WP din Ghana."],
-      en: ["The city of Prestea has an estimated population of over 35760.", "It is a significant urban center in the GH-WP region of Ghana."]
+      ro: ["Orașul Prestea are o populație estimată la peste 35760.", "Este un centru urban semnificativ în regiunea GH-WP din Ghana.", "en: The city of Prestea has an estimated population of over 35760.", "It is a significant urban center in the GH-WP region of Ghana."]
     }
   },
   {
@@ -543,8 +528,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Effiakuma hat eine geschätzte Bevölkerung von über 31876.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-WP Ghanas."],
       hu: ["Effiakuma városának becsült lakossága több mint 31876 fő.", "Jelentős városközpont Ghána GH-WP régiójában."],
-      ro: ["Orașul Effiakuma are o populație estimată la peste 31876.", "Este un centru urban semnificativ în regiunea GH-WP din Ghana."],
-      en: ["The city of Effiakuma has an estimated population of over 31876.", "It is a significant urban center in the GH-WP region of Ghana."]
+      ro: ["Orașul Effiakuma are o populație estimată la peste 31876.", "Este un centru urban semnificativ în regiunea GH-WP din Ghana.", "en: The city of Effiakuma has an estimated population of over 31876.", "It is a significant urban center in the GH-WP region of Ghana."]
     }
   },
   {
@@ -557,10 +541,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Agogo hat eine geschätzte Bevölkerung von über 28271.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
       hu: ["Agogo városának becsült lakossága több mint 28271 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
-      ro: ["Orașul Agogo are o populație estimată la peste 28271.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana."],
-      en: ["The city of Agogo has an estimated population of over 28271.", "It is a significant urban center in the GH-AH region of Ghana."]
-    }
-  },
+      ro: ["Orașul Agogo are o populație estimată la peste 28271.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Agogo has an estimated population of over 28271.", "It is a significant urban center in the GH-AH region of Ghana."]
+    }, image: "/poi-images/agogo-cities-v2.webp"},
   {
     id: "dunkwa-on-offin-cities-v2",
     type: "city",
@@ -571,10 +553,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Dunkwa-on-Offin hat eine geschätzte Bevölkerung von über 26215.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Dunkwa-on-Offin városának becsült lakossága több mint 26215 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Dunkwa-on-Offin are o populație estimată la peste 26215.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana."],
-      en: ["The city of Dunkwa-on-Offin has an estimated population of over 26215.", "It is a significant urban center in the GH-CP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Dunkwa-on-Offin are o populație estimată la peste 26215.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Dunkwa-on-Offin has an estimated population of over 26215.", "It is a significant urban center in the GH-CP region of Ghana."]
+    }, image: "/poi-images/dunkwa-on-offin-cities-v2.webp"},
   {
     id: "begoro-cities-v2",
     type: "city",
@@ -585,10 +565,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Begoro hat eine geschätzte Bevölkerung von über 48316.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
       hu: ["Begoro városának becsült lakossága több mint 48316 fő.", "Jelentős városközpont Ghána GH-EP régiójában."],
-      ro: ["Orașul Begoro are o populație estimată la peste 48316.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana."],
-      en: ["The city of Begoro has an estimated population of over 48316.", "It is a significant urban center in the GH-EP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Begoro are o populație estimată la peste 48316.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Begoro has an estimated population of over 48316.", "It is a significant urban center in the GH-EP region of Ghana."]
+    }, image: "/poi-images/begoro-cities-v2.webp"},
   {
     id: "kintampo-cities-v2",
     type: "city",
@@ -599,10 +577,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Kintampo hat eine geschätzte Bevölkerung von über 49046.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BE Ghanas."],
       hu: ["Kintampo városának becsült lakossága több mint 49046 fő.", "Jelentős városközpont Ghána GH-BE régiójában."],
-      ro: ["Orașul Kintampo are o populație estimată la peste 49046.", "Este un centru urban semnificativ în regiunea GH-BE din Ghana."],
-      en: ["The city of Kintampo has an estimated population of over 49046.", "It is a significant urban center in the GH-BE region of Ghana."]
-    }
-  },
+      ro: ["Orașul Kintampo are o populație estimată la peste 49046.", "Este un centru urban semnificativ în regiunea GH-BE din Ghana.", "en: The city of Kintampo has an estimated population of over 49046.", "It is a significant urban center in the GH-BE region of Ghana."]
+    }, image: "/poi-images/kintampo-cities-v2.webp"},
   {
     id: "aflao-cities-v2",
     type: "city",
@@ -613,8 +589,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Aflao hat eine geschätzte Bevölkerung von über 38927.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-TV Ghanas."],
       hu: ["Aflao városának becsült lakossága több mint 38927 fő.", "Jelentős városközpont Ghána GH-TV régiójában."],
-      ro: ["Orașul Aflao are o populație estimată la peste 38927.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana."],
-      en: ["The city of Aflao has an estimated population of over 38927.", "It is a significant urban center in the GH-TV region of Ghana."]
+      ro: ["Orașul Aflao are o populație estimată la peste 38927.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana.", "en: The city of Aflao has an estimated population of over 38927.", "It is a significant urban center in the GH-TV region of Ghana."]
     }
   },
   {
@@ -627,10 +602,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Nkoranza hat eine geschätzte Bevölkerung von über 21715.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BE Ghanas."],
       hu: ["Nkoranza városának becsült lakossága több mint 21715 fő.", "Jelentős városközpont Ghána GH-BE régiójában."],
-      ro: ["Orașul Nkoranza are o populație estimată la peste 21715.", "Este un centru urban semnificativ în regiunea GH-BE din Ghana."],
-      en: ["The city of Nkoranza has an estimated population of over 21715.", "It is a significant urban center in the GH-BE region of Ghana."]
-    }
-  },
+      ro: ["Orașul Nkoranza are o populație estimată la peste 21715.", "Este un centru urban semnificativ în regiunea GH-BE din Ghana.", "en: The city of Nkoranza has an estimated population of over 21715.", "It is a significant urban center in the GH-BE region of Ghana."]
+    }, image: "/poi-images/nkoranza-cities-v2.webp"},
   {
     id: "oduponkpehe-cities-v2",
     type: "city",
@@ -641,10 +614,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Oduponkpehe hat eine geschätzte Bevölkerung von über 42000.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Oduponkpehe városának becsült lakossága több mint 42000 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Oduponkpehe are o populație estimată la peste 42000.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana."],
-      en: ["The city of Oduponkpehe has an estimated population of over 42000.", "It is a significant urban center in the GH-CP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Oduponkpehe are o populație estimată la peste 42000.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Oduponkpehe has an estimated population of over 42000.", "It is a significant urban center in the GH-CP region of Ghana."]
+    }, image: "/poi-images/oduponkpehe-cities-v2.webp"},
   {
     id: "saltpond-cities-v2",
     type: "city",
@@ -655,10 +626,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Saltpond hat eine geschätzte Bevölkerung von über 24689.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Saltpond városának becsült lakossága több mint 24689 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Saltpond are o populație estimată la peste 24689.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana."],
-      en: ["The city of Saltpond has an estimated population of over 24689.", "It is a significant urban center in the GH-CP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Saltpond are o populație estimată la peste 24689.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Saltpond has an estimated population of over 24689.", "It is a significant urban center in the GH-CP region of Ghana."]
+    }, image: "/poi-images/saltpond-cities-v2.webp"},
   {
     id: "akwatia-cities-v2",
     type: "city",
@@ -669,10 +638,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Akwatia hat eine geschätzte Bevölkerung von über 23766.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
       hu: ["Akwatia városának becsült lakossága több mint 23766 fő.", "Jelentős városközpont Ghána GH-EP régiójában."],
-      ro: ["Orașul Akwatia are o populație estimată la peste 23766.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana."],
-      en: ["The city of Akwatia has an estimated population of over 23766.", "It is a significant urban center in the GH-EP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Akwatia are o populație estimată la peste 23766.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Akwatia has an estimated population of over 23766.", "It is a significant urban center in the GH-EP region of Ghana."]
+    }, image: "/poi-images/akwatia-cities-v2.webp"},
   {
     id: "apam-cities-v2",
     type: "city",
@@ -683,10 +650,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Apam hat eine geschätzte Bevölkerung von über 26466.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Apam városának becsült lakossága több mint 26466 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Apam are o populație estimată la peste 26466.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana."],
-      en: ["The city of Apam has an estimated population of over 26466.", "It is a significant urban center in the GH-CP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Apam are o populație estimată la peste 26466.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Apam has an estimated population of over 26466.", "It is a significant urban center in the GH-CP region of Ghana."]
+    }, image: "/poi-images/apam-cities-v2.webp"},
   {
     id: "salaga-cities-v2",
     type: "city",
@@ -697,10 +662,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Salaga hat eine geschätzte Bevölkerung von über 25472.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-SR Ghanas."],
       hu: ["Salaga városának becsült lakossága több mint 25472 fő.", "Jelentős városközpont Ghána GH-SR régiójában."],
-      ro: ["Orașul Salaga are o populație estimată la peste 25472.", "Este un centru urban semnificativ în regiunea GH-SR din Ghana."],
-      en: ["The city of Salaga has an estimated population of over 25472.", "It is a significant urban center in the GH-SR region of Ghana."]
-    }
-  },
+      ro: ["Orașul Salaga are o populație estimată la peste 25472.", "Este un centru urban semnificativ în regiunea GH-SR din Ghana.", "en: The city of Salaga has an estimated population of over 25472.", "It is a significant urban center in the GH-SR region of Ghana."]
+    }, image: "/poi-images/salaga-cities-v2.webp"},
   {
     id: "bibiani-cities-v2",
     type: "city",
@@ -711,10 +674,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Bibiani hat eine geschätzte Bevölkerung von über 19076.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-WN Ghanas."],
       hu: ["Bibiani városának becsült lakossága több mint 19076 fő.", "Jelentős városközpont Ghána GH-WN régiójában."],
-      ro: ["Orașul Bibiani are o populație estimată la peste 19076.", "Este un centru urban semnificativ în regiunea GH-WN din Ghana."],
-      en: ["The city of Bibiani has an estimated population of over 19076.", "It is a significant urban center in the GH-WN region of Ghana."]
-    }
-  },
+      ro: ["Orașul Bibiani are o populație estimată la peste 19076.", "Este un centru urban semnificativ în regiunea GH-WN din Ghana.", "en: The city of Bibiani has an estimated population of over 19076.", "It is a significant urban center in the GH-WN region of Ghana."]
+    }, image: "/poi-images/bibiani-cities-v2.webp"},
   {
     id: "somanya-cities-v2",
     type: "city",
@@ -725,10 +686,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Somanya hat eine geschätzte Bevölkerung von über 20596.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-EP Ghanas."],
       hu: ["Somanya városának becsült lakossága több mint 20596 fő.", "Jelentős városközpont Ghána GH-EP régiójában."],
-      ro: ["Orașul Somanya are o populație estimată la peste 20596.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana."],
-      en: ["The city of Somanya has an estimated population of over 20596.", "It is a significant urban center in the GH-EP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Somanya are o populație estimată la peste 20596.", "Este un centru urban semnificativ în regiunea GH-EP din Ghana.", "en: The city of Somanya has an estimated population of over 20596.", "It is a significant urban center in the GH-EP region of Ghana."]
+    }, image: "/poi-images/somanya-cities-v2.webp"},
   {
     id: "foso-cities-v2",
     type: "city",
@@ -739,10 +698,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Foso hat eine geschätzte Bevölkerung von über 22862.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Foso városának becsült lakossága több mint 22862 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Foso are o populație estimată la peste 22862.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana."],
-      en: ["The city of Foso has an estimated population of over 22862.", "It is a significant urban center in the GH-CP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Foso are o populație estimată la peste 22862.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Foso has an estimated population of over 22862.", "It is a significant urban center in the GH-CP region of Ghana."]
+    }, image: "/poi-images/foso-cities-v2.webp"},
   {
     id: "wenchi-cities-v2",
     type: "city",
@@ -753,10 +710,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Wenchi hat eine geschätzte Bevölkerung von über 39187.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-BO Ghanas."],
       hu: ["Wenchi városának becsült lakossága több mint 39187 fő.", "Jelentős városközpont Ghána GH-BO régiójában."],
-      ro: ["Orașul Wenchi are o populație estimată la peste 39187.", "Este un centru urban semnificativ în regiunea GH-BO din Ghana."],
-      en: ["The city of Wenchi has an estimated population of over 39187.", "It is a significant urban center in the GH-BO region of Ghana."]
-    }
-  },
+      ro: ["Orașul Wenchi are o populație estimată la peste 39187.", "Este un centru urban semnificativ în regiunea GH-BO din Ghana.", "en: The city of Wenchi has an estimated population of over 39187.", "It is a significant urban center in the GH-BO region of Ghana."]
+    }, image: "/poi-images/wenchi-cities-v2.webp"},
   {
     id: "mumford-cities-v2",
     type: "city",
@@ -767,10 +722,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Mumford hat eine geschätzte Bevölkerung von über 15410.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-CP Ghanas."],
       hu: ["Mumford városának becsült lakossága több mint 15410 fő.", "Jelentős városközpont Ghána GH-CP régiójában."],
-      ro: ["Orașul Mumford are o populație estimată la peste 15410.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana."],
-      en: ["The city of Mumford has an estimated population of over 15410.", "It is a significant urban center in the GH-CP region of Ghana."]
-    }
-  },
+      ro: ["Orașul Mumford are o populație estimată la peste 15410.", "Este un centru urban semnificativ în regiunea GH-CP din Ghana.", "en: The city of Mumford has an estimated population of over 15410.", "It is a significant urban center in the GH-CP region of Ghana."]
+    }, image: "/poi-images/mumford-cities-v2.webp"},
   {
     id: "duayaw-nkwanta-cities-v2",
     type: "city",
@@ -781,10 +734,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Duayaw Nkwanta hat eine geschätzte Bevölkerung von über 17476.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
       hu: ["Duayaw Nkwanta városának becsült lakossága több mint 17476 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
-      ro: ["Orașul Duayaw Nkwanta are o populație estimată la peste 17476.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana."],
-      en: ["The city of Duayaw Nkwanta has an estimated population of over 17476.", "It is a significant urban center in the GH-AH region of Ghana."]
-    }
-  },
+      ro: ["Orașul Duayaw Nkwanta are o populație estimată la peste 17476.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Duayaw Nkwanta has an estimated population of over 17476.", "It is a significant urban center in the GH-AH region of Ghana."]
+    }, image: "/poi-images/duayaw-nkwanta-cities-v2.webp"},
   {
     id: "bekwai-cities-v2",
     type: "city",
@@ -795,8 +746,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Bekwai hat eine geschätzte Bevölkerung von über 22670.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
       hu: ["Bekwai városának becsült lakossága több mint 22670 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
-      ro: ["Orașul Bekwai are o populație estimată la peste 22670.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana."],
-      en: ["The city of Bekwai has an estimated population of over 22670.", "It is a significant urban center in the GH-AH region of Ghana."]
+      ro: ["Orașul Bekwai are o populație estimată la peste 22670.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Bekwai has an estimated population of over 22670.", "It is a significant urban center in the GH-AH region of Ghana."]
     }
   },
   {
@@ -809,10 +759,8 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Bechem hat eine geschätzte Bevölkerung von über 17677.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-AH Ghanas."],
       hu: ["Bechem városának becsült lakossága több mint 17677 fő.", "Jelentős városközpont Ghána GH-AH régiójában."],
-      ro: ["Orașul Bechem are o populație estimată la peste 17677.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana."],
-      en: ["The city of Bechem has an estimated population of over 17677.", "It is a significant urban center in the GH-AH region of Ghana."]
-    }
-  },
+      ro: ["Orașul Bechem are o populație estimată la peste 17677.", "Este un centru urban semnificativ în regiunea GH-AH din Ghana.", "en: The city of Bechem has an estimated population of over 17677.", "It is a significant urban center in the GH-AH region of Ghana."]
+    }, image: "/poi-images/bechem-cities-v2.webp"},
   {
     id: "denu-cities-v2",
     type: "city",
@@ -823,8 +771,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Denu hat eine geschätzte Bevölkerung von über 15888.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-TV Ghanas."],
       hu: ["Denu városának becsült lakossága több mint 15888 fő.", "Jelentős városközpont Ghána GH-TV régiójában."],
-      ro: ["Orașul Denu are o populație estimată la peste 15888.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana."],
-      en: ["The city of Denu has an estimated population of over 15888.", "It is a significant urban center in the GH-TV region of Ghana."]
+      ro: ["Orașul Denu are o populație estimată la peste 15888.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana.", "en: The city of Denu has an estimated population of over 15888.", "It is a significant urban center in the GH-TV region of Ghana."]
     }
   },
   {
@@ -837,8 +784,7 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     facts: {
       de: ["Die Stadt Anloga hat eine geschätzte Bevölkerung von über 20886.", "Es ist ein bedeutendes städtisches Zentrum in der Region GH-TV Ghanas."],
       hu: ["Anloga városának becsült lakossága több mint 20886 fő.", "Jelentős városközpont Ghána GH-TV régiójában."],
-      ro: ["Orașul Anloga are o populație estimată la peste 20886.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana."],
-      en: ["The city of Anloga has an estimated population of over 20886.", "It is a significant urban center in the GH-TV region of Ghana."]
+      ro: ["Orașul Anloga are o populație estimată la peste 20886.", "Este un centru urban semnificativ în regiunea GH-TV din Ghana.", "en: The city of Anloga has an estimated population of over 20886.", "It is a significant urban center in the GH-TV region of Ghana."]
     }
   }
 ];

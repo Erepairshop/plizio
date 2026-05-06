@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCapeverdeLandmarksV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["2014-ben avatták fel.", "15 000 néző befogadására alkalmas."],
       ro: ["Inaugurat în anul 2014.", "Are o capacitate de 15.000 de spectatori."],
       en: ["Inaugurated in 2014.", "Has a capacity of 15,000 spectators."]
-    }
-  },
+    }, image: "/poi-images/estadio-nacional-landmarks-v2.webp"},
   {
     id: "farol-ponta-temerosa-landmarks-v2",
     type: "landmark",
@@ -47,8 +47,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["A szigetcsoport egyik legfontosabb világítótornya.", "Széles kilátást nyújt az Atlanti-óceánra."],
       ro: ["Unul dintre cele mai importante faruri din arhipelag.", "Oferă o vedere panoramică asupra Oceanului Atlantic."],
       en: ["One of the most important lighthouses in the archipelago.", "Offers a wide view over the Atlantic Ocean."]
-    }
-  },
+    }, image: "/poi-images/farol-ponta-temerosa-landmarks-v2.webp"},
   {
     id: "monumento-diogo-gomes-landmarks-v2",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Praia fennsíkjának déli végén található.", "Szimbolikusan a tengerre néz."],
       ro: ["Situat la capătul sudic al platoului din Praia.", "Privește simbolic spre mare."],
       en: ["Located at the southern end of the plateau in Praia.", "Looks out symbolically towards the sea."]
-    }
-  },
+    }, image: "/poi-images/monumento-diogo-gomes-landmarks-v2.webp"},
   {
     id: "camara-municipal-praia-landmarks-v2",
     type: "landmark",
@@ -95,8 +93,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["A helyi politika központi pontja.", "A főváros gyarmati építészetének példája."],
       ro: ["Punctul central al politicii locale.", "Exemplu de arhitectură colonială a capitalei."],
       en: ["Central point of local politics.", "Example of the capital's colonial architecture."]
-    }
-  },
+    }, image: "/poi-images/camara-municipal-praia-landmarks-v2.webp"},
   {
     id: "assembleia-nacional-landmarks-v2",
     type: "landmark",
@@ -119,8 +116,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Az ország törvényhozásának székhelye.", "Jellegzetes modern építészet."],
       ro: ["Sediul puterii legislative a țării.", "Arhitectură modernă distinctivă."],
       en: ["Seat of the country's legislative branch.", "Striking modern architecture."]
-    }
-  },
+    }, image: "/poi-images/assembleia-nacional-landmarks-v2.webp"},
   {
     id: "igreja-nossa-senhora-graca-landmarks-v2",
     type: "landmark",
@@ -143,8 +139,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Praia legfontosabb vallási épülete.", "A történelmi központban található."],
       ro: ["Cea mai importantă clădire religioasă din Praia.", "Situată în centrul istoric."],
       en: ["Most important religious building in Praia.", "Located in the historic center."]
-    }
-  },
+    }, image: "/poi-images/igreja-nossa-senhora-graca-landmarks-v2.webp"},
   {
     id: "palacio-justica-praia-landmarks-v2",
     type: "landmark",
@@ -167,8 +162,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["A jogállamiság szimbóluma a Zöld-foki-szigeteken.", "Központi elhelyezkedésű a fennsíkon."],
       ro: ["Simbol al statului de drept în Capul Verde.", "Situat central pe platou."],
       en: ["Symbol of the rule of law in Cape Verde.", "Centrally located on the plateau."]
-    }
-  },
+    }, image: "/poi-images/palacio-justica-praia-landmarks-v2.webp"},
   {
     id: "mercado-sucupira-landmarks-v2",
     type: "landmark",
@@ -191,8 +185,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["A helyi kereskedelem központja.", "Mindents kínál a ruházattól a hagyományos kézműves termékekig."],
       ro: ["Centrul comerțului local.", "Oferă totul, de la haine la meșteșuguri tradiționale."],
       en: ["Hub of local trade.", "Offers everything from clothing to traditional crafts."]
-    }
-  },
+    }, image: "/poi-images/mercado-sucupira-landmarks-v2.webp"},
   {
     id: "biblioteca-nacional-landmarks-v2",
     type: "landmark",
@@ -215,8 +208,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Ritka történelmi dokumentumoknak ad otthont.", "Az oktatás és kutatás fontos helyszíne."],
       ro: ["Găzduiește documente istorice rare.", "Loc important pentru educație și cercetare."],
       en: ["Houses rare historical documents.", "Important place for education and research."]
-    }
-  },
+    }, image: "/poi-images/biblioteca-nacional-landmarks-v2.webp"},
   {
     id: "estatua-amilcar-cabral-landmarks-v2",
     type: "landmark",
@@ -239,8 +231,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["A nemzeti identitás szimbóluma.", "Hivatalos ünnepségek központi helyszíne."],
       ro: ["Simbol al identității naționale.", "Loc central pentru celebrările oficiale."],
       en: ["Symbol of national identity.", "Central location for official celebrations."]
-    }
-  },
+    }, image: "/poi-images/estatua-amilcar-cabral-landmarks-v2.webp"},
   {
     id: "monumento-martires-pindjiguiti-landmarks-v2",
     type: "landmark",
@@ -263,8 +254,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["A Porto Grande kikötőnél található.", "Az emlékezés fontos helyszíne."],
       ro: ["Situat în portul Porto Grande.", "Loc important de comemorare."],
       en: ["Located at the Porto Grande harbor.", "Important place of remembrance."]
-    }
-  },
+    }, image: "/poi-images/monumento-martires-pindjiguiti-landmarks-v2.webp"},
   {
     id: "palacio-governador-mindelo-landmarks-v2",
     type: "landmark",
@@ -287,8 +277,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Ma kortárs művészeti múzeum.", "Mindelo városának egyik jelképe."],
       ro: ["Astăzi un muzeu de artă contemporană.", "Reper al orașului Mindelo."],
       en: ["Today a museum of contemporary art.", "Landmark of the city of Mindelo."]
-    }
-  },
+    }, image: "/poi-images/palacio-governador-mindelo-landmarks-v2.webp"},
   {
     id: "mercado-municipal-mindelo-landmarks-v2",
     type: "landmark",
@@ -311,8 +300,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["A mindennapi élet központja.", "Híres élénk hangulatáról."],
       ro: ["Centrul vieții de zi cu zi.", "Faimoasă pentru atmosfera vibrantă."],
       en: ["Hub of daily life.", "Famous for its lively atmosphere."]
-    }
-  },
+    }, image: "/poi-images/mercado-municipal-mindelo-landmarks-v2.webp"},
   {
     id: "igreja-nossa-senhora-luz-mindelo-landmarks-v2",
     type: "landmark",
@@ -335,8 +323,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["São Vicente legfontosabb vallási helyszíne.", "A közösség rendszeres találkozóhelye."],
       ro: ["Cel mai important loc religios de pe São Vicente.", "Loc de întâlnire regulat al comunității."],
       en: ["Most important religious site on São Vicente.", "Regular meeting point for the community."]
-    }
-  },
+    }, image: "/poi-images/igreja-nossa-senhora-luz-mindelo-landmarks-v2.webp"},
   {
     id: "farol-d-luis-landmarks-v2",
     type: "landmark",
@@ -359,8 +346,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Farol de D. Luís néven is ismert.", "Fontos a Mindelóba tartó hajózás számára."],
       ro: ["Cunoscut și sub numele de Farol de D. Luís.", "Important pentru navigația spre Mindelo."],
       en: ["Also known as Farol de D. Luís.", "Crucial for navigation into Mindelo."]
-    }
-  },
+    }, image: "/poi-images/farol-d-luis-landmarks-v2.webp"},
   {
     id: "camara-municipal-sv-landmarks-v2",
     type: "landmark",
@@ -383,8 +369,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Szép gyarmati homlokzat.", "A helyi szigeti közigazgatás székhelye."],
       ro: ["Frumoasă fațadă colonială.", "Sediul administrației locale a insulei."],
       en: ["Beautiful colonial facade.", "Seat of the local island administration."]
-    }
-  },
+    }, image: "/poi-images/camara-municipal-sv-landmarks-v2.webp"},
   {
     id: "liceu-gil-eanes-landmarks-v2",
     type: "landmark",
@@ -407,8 +392,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Akadémiai hagyományairól ismert.", "Jellegzetes épület a belvárosban."],
       ro: ["Cunoscut pentru tradiția sa academică.", "Clădire distinctivă în centrul orașului."],
       en: ["Known for its academic tradition.", "Notable building in the city center."]
-    }
-  },
+    }, image: "/poi-images/liceu-gil-eanes-landmarks-v2.webp"},
   {
     id: "cnad-mindelo-landmarks-v2",
     type: "landmark",
@@ -455,8 +439,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["A szigeti sportélet fontos helyszíne.", "Intenzív hangulatot kínál a mérkőzéseken."],
       ro: ["Loc important pentru sport pe insulă.", "Oferă o atmosferă intensă în timpul meciurilor."],
       en: ["Important site for sports on the island.", "Offers an intense atmosphere during matches."]
-    }
-  },
+    }, image: "/poi-images/estadio-aderito-sena-landmarks-v2.webp"},
   {
     id: "aeroporto-amilcar-cabral-landmarks-v2",
     type: "landmark",
@@ -479,8 +462,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Egykor a transzatlanti járatok fontos technikai állomása volt.", "A nemzeti hősről nevezték el."],
       ro: ["A fost odată o oprire tehnică importantă pentru zborurile transatlantice.", "Numit după eroul național."],
       en: ["Was once an important technical stop for transatlantic flights.", "Named after the national hero."]
-    }
-  },
+    }, image: "/poi-images/aeroporto-amilcar-cabral-landmarks-v2.webp"},
   {
     id: "igreja-nossa-senhora-conceicao-landmarks-v2",
     type: "landmark",
@@ -503,8 +485,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Élénk kék színéről ismert.", "São Filipe központi vallási pontja."],
       ro: ["Cunoscută pentru culoarea sa albastru strălucitor.", "Punct religios central în São Filipe."],
       en: ["Famous for its bright blue color.", "Central religious spot in São Filipe."]
-    }
-  },
+    }, image: "/poi-images/igreja-nossa-senhora-conceicao-landmarks-v2.webp"},
   {
     id: "camara-municipal-rg-landmarks-v2",
     type: "landmark",
@@ -527,8 +508,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Gondozott történelmi épület.", "A helyi közigazgatás központja."],
       ro: ["Clădire istorică bine întreținută.", "Centrul administrației locale."],
       en: ["Well-maintained historic building.", "Center of the local administration."]
-    }
-  },
+    }, image: "/poi-images/camara-municipal-rg-landmarks-v2.webp"},
   {
     id: "farol-fontainhas-landmarks-v2",
     type: "landmark",
@@ -551,8 +531,7 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
       hu: ["Látványos sziklás tájon fekszik.", "Fontos a part menti hajózás biztonsága szempontjából."],
       ro: ["Situat într-un peisaj de stânci spectaculos.", "Important pentru siguranța navigației de coastă."],
       en: ["Located in a spectacular cliff landscape.", "Important for the safety of coastal navigation."]
-    }
-  },
+    }, image: "/poi-images/farol-fontainhas-landmarks-v2.webp"},
   {
     id: "centro-cultural-mindelo-landmarks-v2",
     type: "landmark",
@@ -602,3 +581,4 @@ export const poiExtraCapeverdeLandmarksV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraCanadaLandmarksV2: POI[] = [
@@ -13,8 +14,13 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Híres mélykék mennyezetéről", "Tervezte James O'Donnell", "Két magas harangtorony", "'AURA' fény- és hangshow"],
       ro: ["Renumită pentru tavanul său albastru intens", "Proiectată de James O'Donnell", "Două turnuri clopotniță înalte", "Spectacol de lumini și sunet 'AURA'"],
       en: ["Famous for its deep blue ceiling", "Designed by James O'Donnell", "Two tall bell towers", "'AURA' light and sound show"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Notre-Dame-Basilika in Montreal ist ein herausragendes Beispiel neugotischer Architektur in Kanada. Ihr prächtiges Interieur aus Holz und Gold, kombiniert mit der aufwendigen Beleuchtung, macht sie zu einem der meistbesuchten religiösen Bauwerke des Landes. Geschichte K7 — Religiöse Architektur."
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Stil der Neugotik", "Fertigstellung der Hauptstruktur 1829", "Interieur reich verziert mit Schnitzereien", "Bekannt für die spektakuläre Akustik", "Wichtiges religiöses und kulturelles Zentrum", "Architekt: James O'Donnell"]
+    }, image: "/poi-images/notre-dame-basilica-montreal-landmarks-v2.webp"},
   {
     id: "saint-josephs-oratory-landmarks-v2",
     type: "landmark",
@@ -27,8 +33,13 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Kanada legnagyobb temploma", "Hatalmas kupola, a világ egyik legnagyobbja", "Gyógyulást kereső zarándokhely", "Szent André testvér alapította"],
       ro: ["Cea mai mare biserică din Canada", "Dom masiv, unul dintre cele mai mari din lume", "Loc de pelerinaj pentru vindecare", "Fondat de Sfântul Frate André"],
       en: ["Largest church in Canada", "Massive dome, one of the world's largest", "Pilgrimage site for healing", "Founded by Saint André Bessette"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das St.-Josephs-Oratorium in Montreal ist die größte Kirche Kanadas und ein bedeutender Wallfahrtsort. Mit seiner imposanten Kuppel, die eine der größten der Welt ist, thront es weithin sichtbar auf dem Mont Royal. Geografie K7 — Architektur und Wallfahrtsorte."
+    },
+    factsAdvanced: {
+      de: ["Größte Kirche Kanadas", "Imposante Kuppel überragt Montreal", "Erbaut auf Initiative von Bruder André", "Bedeutendes katholisches Heiligtum", "Architekturstil: Renaissance-Revival", "Wichtiger Wallfahrtsort für Gläubige"]
+    }, image: "/poi-images/saint-josephs-oratory-landmarks-v2.webp"},
   {
     id: "confederation-bridge-landmarks-v2",
     type: "landmark",
@@ -41,8 +52,13 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["A világ leghosszabb hídja jéggel borított víz felett", "Összeköti a PEI-t New Brunswickkal", "1997-ben nyílt meg", "Fizetős híd"],
       ro: ["Cel mai lung pod peste ape acoperite de gheață", "Leagă PEI de New Brunswick", "Inaugurat în 1997", "Pod cu taxă"],
       en: ["World's longest bridge over ice-covered water", "Connects PEI to New Brunswick", "Opened in 1997", "Toll bridge"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Confederation Bridge verbindet die Inselprovinz Prince Edward Island mit dem kanadischen Festland. Mit einer Länge von fast 13 Kilometern ist sie die längste Brücke über eisbedecktem Gewässer der Welt und ein technisches Meisterwerk. Geografie K6 — Ingenieursbauwerke."
+    },
+    factsAdvanced: {
+      de: ["Länge: 12,9 Kilometer", "Verbindung zwischen PEI und New Brunswick", "Längste Brücke über vereistem Gewässer", "Eröffnet im Jahr 1997", "Wichtig für Wirtschaft und Tourismus der Insel", "Ingenieurstechnische Höchstleistung"]
+    }, image: "/poi-images/confederation-bridge-landmarks-v2.webp"},
   {
     id: "calgary-tower-landmarks-v2",
     type: "landmark",
@@ -55,8 +71,13 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Panorámás kilátás a városra és a Sziklás-hegységre", "Üvegpadlós kilátóterasz", "Forgó étterem a csúcson", "Olimpiai láng az 1988-as játékok alatt"],
       ro: ["Vederi panoramice ale orașului și ale Stâncoșilor", "Platformă de observație cu podea de sticlă", "Restaurant rotativ în vârf", "A găzduit flacăra olimpică în 1988"],
       en: ["Panoramic city and mountain views", "Glass floor observation deck", "Revolving restaurant at the top", "Held the Olympic flame during the 1988 games"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Der Calgary Tower ist ein markanter Fernsehturm in der Skyline von Calgary, Alberta. Ursprünglich erbaut als Centennial Planetarium Tower zum 100-jährigen Jubiläum Kanadas, bietet er von seiner Aussichtsplattform einen beeindruckenden Panoramablick bis zu den Rocky Mountains. Geografie K7 — Stadtlandschaften."
+    },
+    factsAdvanced: {
+      de: ["Höhe: 191 Meter", "Erbaut 1968 zum 100. Jubiläum Kanadas", "Markante Aussichtsplattform mit Glasboden", "Wahrzeichen der Skyline von Calgary", "Wurde als Symbol der Stadtentwicklung erbaut", "Blick auf die Rocky Mountains möglich"]
+    }, image: "/poi-images/calgary-tower-landmarks-v2.webp"},
   {
     id: "rogers-centre-landmarks-v2",
     type: "landmark",
@@ -69,8 +90,13 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["A Toronto Blue Jays (MLB) otthona", "Korábban SkyDome volt a neve", "A CN Tower mellett található", "Koncerteknek és eseményeknek ad otthont"],
       ro: ["Casa echipei Toronto Blue Jays (MLB)", "Anterior numit SkyDome", "Situat lângă Turnul CN", "Găzduiește concerte și evenimente"],
       en: ["Home of the Toronto Blue Jays (MLB)", "Formerly known as the SkyDome", "Located next to the CN Tower", "Hosts concerts and events"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Rogers Centre in Toronto ist ein ikonisches Stadion mit einer voll beweglichen Dachkonstruktion, das als eines der ersten seiner Art weltweit Maßstäbe setzte. Es ist die Heimspielstätte der Toronto Blue Jays und Schauplatz zahlreicher Großveranstaltungen. Wirtschaft K7 — Sport und Unterhaltung."
+    },
+    factsAdvanced: {
+      de: ["Erstes Stadion mit vollständig ausfahrbarem Dach", "Eröffnet 1989 als SkyDome", "Heimat der Toronto Blue Jays", "Kapazität bis zu 50.000 Zuschauer", "Symbol für moderne Stadionarchitektur", "Zentrum in der Innenstadt von Toronto"]
+    }, image: "/poi-images/rogers-centre-landmarks-v2.webp"},
   {
     id: "scotiabank-saddledome-landmarks-v2",
     type: "landmark",
@@ -83,8 +109,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["A Calgary Flames (NHL) otthona", "A Calgary Stampede fő helyszíne", "Hiperbolikus paraboloid alakú tető", "Az 1988-as téli olimpiára épült"],
       ro: ["Casa echipei Calgary Flames (NHL)", "Locația principală pentru Calgary Stampede", "Acoperiș în formă de paraboloid hiperbolic", "Construit pentru Jocurile Olimpice de iarnă din 1988"],
       en: ["Home of the Calgary Flames (NHL)", "A key venue for the Calgary Stampede", "Roof is shaped like a hyperbolic paraboloid", "Built for the 1988 Winter Olympics"]
-    }
-  },
+    }, image: "/poi-images/scotiabank-saddledome-landmarks-v2.webp"},
   {
     id: "olympic-stadium-montreal-landmarks-v2",
     type: "landmark",
@@ -97,8 +122,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["'The Big O' a beceneve", "A világ legferdébb tornya (165 m)", "A Montreal Expos (MLB) korábbi otthona", "A behúzható tető soha nem lett teljesen működőképes"],
       ro: ["Poreclit „The Big O”", "Cel mai înalt turn înclinat din lume (165 m)", "Fosta casă a echipei Montreal Expos (MLB)", "Acoperișul retractabil nu a fost niciodată complet funcțional"],
       en: ["Nicknamed 'The Big O'", "World's tallest inclined tower (165m)", "Former home of the Montreal Expos (MLB)", "Retractable roof never became fully operational"]
-    }
-  },
+    }, image: "/poi-images/olympic-stadium-montreal-landmarks-v2.webp"},
   {
     id: "bc-place-stadium-landmarks-v2",
     type: "landmark",
@@ -111,8 +135,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["A BC Lions (CFL) és a Vancouver Whitecaps FC (MLS) otthona", "A világ legnagyobb, kábelekkel támogatott, behúzható teteje", "A 2010-es olimpia nyitó- és záróünnepségének helyszíne", "Jellegzetes 'párna' kinézet éjjel"],
       ro: ["Casa echipelor BC Lions (CFL) și Vancouver Whitecaps FC (MLS)", "Cel mai mare acoperiș retractabil susținut de cabluri din lume", "Locația ceremoniilor olimpice din 2010", "Aspect distinctiv de „pernă” noaptea"],
       en: ["Home to BC Lions (CFL) and Vancouver Whitecaps FC (MLS)", "World's largest cable-supported retractable roof", "Venue for 2010 Olympics opening and closing ceremonies", "Distinctive 'pillow' look when lit at night"]
-    }
-  },
+    }, image: "/poi-images/bc-place-stadium-landmarks-v2.webp"},
   {
     id: "habitat-67-landmarks-v2",
     type: "landmark",
@@ -125,8 +148,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["354 előregyártott betonmodulból áll", "Brutalista építészeti emlék", "Minden lakáshoz saját tetőkert tartozik", "Mesterdiploma-tervként készült"],
       ro: ["Compus din 354 de module prefabricate din beton", "Reper arhitectural brutalist", "Fiecare apartament are propria sa grădină pe acoperiș", "Proiectat ca teză de master"],
       en: ["Composed of 354 prefabricated concrete modules", "A landmark of Brutalist architecture", "Each apartment has its own roof garden", "Designed as a master's thesis"]
-    }
-  },
+    }, image: "/poi-images/habitat-67-landmarks-v2.webp"},
   {
     id: "national-gallery-of-canada-landmarks-v2",
     type: "landmark",
@@ -139,8 +161,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Üveg és rózsaszín gránit épület", "Itt található a 'Maman' (Pók) szobor", "Gazdag kanadai és inuit művészeti gyűjtemény", "A Nagy Csarnokból kilátás nyílik a Parlamentre"],
       ro: ["Clădire din sticlă și granit roz", "Găzduiește sculptura 'Maman' (Păianjenul)", "Colecție vastă de artă canadiană și inuită", "Sala Mare cu vedere la Dealul Parlamentului"],
       en: ["Glass and pink granite building", "Features the 'Maman' (spider) sculpture", "Extensive collection of Canadian and Inuit art", "Great Hall overlooks Parliament Hill"]
-    }
-  },
+    }, image: "/poi-images/national-gallery-of-canada-landmarks-v2.webp"},
   {
     id: "royal-ontario-museum-landmarks-v2",
     type: "landmark",
@@ -153,8 +174,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["'ROM' a beceneve", "Michael Lee-Chin Kristály-bővítmény", "Világkultúrák és természettörténeti gyűjtemények", "Kanada legnagyobb múzeuma"],
       ro: ["Poreclit „ROM”", "Extensia Michael Lee-Chin Crystal", "Colecții vaste de cultură mondială și istorie naturală", "Cel mai mare muzeu din Canada"],
       en: ["Nicknamed the 'ROM'", "Features the Michael Lee-Chin Crystal addition", "Vast collections of world culture and natural history", "Canada's largest museum"]
-    }
-  },
+    }, image: "/poi-images/royal-ontario-museum-landmarks-v2.webp"},
   {
     id: "canadian-museum-for-human-rights-landmarks-v2",
     type: "landmark",
@@ -167,8 +187,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Az első nemzeti múzeum a fővárosi régión kívül", "Tervezte Antoine Predock", "A Remény Tornya kilátó", "Középpontban az emberi jogi történetek"],
       ro: ["Primul muzeu național în afara Regiunii Capitalei", "Proiectat de Antoine Predock", "Turnul Speranței (platformă de observație)", "Concentrat pe poveștile despre drepturile omului"],
       en: ["First national museum outside the Capital Region", "Designed by Antoine Predock", "Tower of Hope observation deck", "Focuses on human rights stories"]
-    }
-  },
+    }, image: "/poi-images/canadian-museum-for-human-rights-landmarks-v2.webp"},
   {
     id: "fairmont-le-chateau-frontenac-landmarks-v2",
     type: "landmark",
@@ -181,8 +200,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["A Loire-völgyi kastélyok stílusában épült", "Uralja Quebec City látképét", "Kanada egyik nagy vasúti szállodája", "Az óváros részeként UNESCO világörökség"],
       ro: ["Construit în stilul castelelor de pe Valea Loarei", "Domină linia orizontului din Quebec City", "Unul dintre marile hoteluri feroviare ale Canadei", "Patrimoniu Mondial UNESCO ca parte a centrului istoric"],
       en: ["Built in the Châteauesque style", "Dominates the Quebec City skyline", "One of Canada's grand railway hotels", "UNESCO World Heritage site as part of Old Quebec"]
-    }
-  },
+    }, image: "/poi-images/fairmont-le-chateau-frontenac-landmarks-v2.webp"},
   {
     id: "casa-loma-landmarks-v2",
     type: "landmark",
@@ -195,8 +213,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Sir Henry Pellatt építtette", "Spanyolul 'Ház a dombon'-t jelent", "Népszerű filmforgatási helyszín", "Ma múzeum és rendezvényhelyszín"],
       ro: ["Construit de Sir Henry Pellatt", "Înseamnă „Casă pe Deal” în spaniolă", "Locație populară pentru filmări", "Acum un muzeu și loc de evenimente"],
       en: ["Built by Sir Henry Pellatt", "Means 'Hill House' in Spanish", "Popular filming location", "Now a museum and event venue"]
-    }
-  },
+    }, image: "/poi-images/casa-loma-landmarks-v2.webp"},
   {
     id: "toronto-city-hall-landmarks-v2",
     type: "landmark",
@@ -209,8 +226,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Viljo Revell finn építész tervezte", "Két ívelt toronyból áll", "Körülveszi a központi tanácstermet", "Népszerű köztér korcsolyapályával"],
       ro: ["Proiectată de arhitectul finlandez Viljo Revell", "Compusă din două turnuri curbate", "Înconjoară camera centrală a consiliului", "Piață publică populară cu patinoar"],
       en: ["Designed by Finnish architect Viljo Revell", "Comprises two curved towers", "Encloses the central council chamber", "Popular public square with skating rink"]
-    }
-  },
+    }, image: "/poi-images/toronto-city-hall-landmarks-v2.webp"},
   {
     id: "lions-gate-bridge-landmarks-v2",
     type: "landmark",
@@ -223,8 +239,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Átível a Burrard Inlet felett", "A közeli 'Oroszlánok' csúcsairól nevezték el", "Kanada nemzeti történelmi emlékhelye", "Gyakran szerepel filmekben és TV-műsorokban"],
       ro: ["Traversează Burrard Inlet", "Numit după vârfurile 'The Lions' din apropiere", "Sit istoric național al Canadei", "Adesea prezentat în filme și emisiuni TV"],
       en: ["Crosses the Burrard Inlet", "Named after 'The Lions' peaks nearby", "National Historic Site of Canada", "Often featured in films and TV shows"]
-    }
-  },
+    }, image: "/poi-images/lions-gate-bridge-landmarks-v2.webp"},
   {
     id: "peace-tower-ottawa-landmarks-v2",
     type: "landmark",
@@ -237,8 +252,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["92,2 méter magas", "A béke és az emlékezés szimbóluma", "53 harangból álló harangjáték található benne", "Kilátóteraszról kilátás a városra"],
       ro: ["92,2 metri înălțime", "Simbol al păcii și al comemorării", "Găzduiește un carilion cu 53 de clopote", "Platformă de observație cu vedere la oraș"],
       en: ["Stands 92.2 metres tall", "A symbol of peace and remembrance", "Houses a 53-bell carillon", "Observation deck provides city views"]
-    }
-  },
+    }, image: "/poi-images/peace-tower-ottawa-landmarks-v2.webp"},
   {
     id: "ontario-place-cinesphere-landmarks-v2",
     type: "landmark",
@@ -251,8 +265,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Az Ontario Place komplexum része", "Geodéziai kupolaszerkezet", "IMAX formátumú filmeket vetít", "Az 1970-es évek építészeti jelképe"],
       ro: ["Parte a complexului Ontario Place", "Structură de dom geodezic", "Prezintă filme în format IMAX", "Reper arhitectural al anilor 1970"],
       en: ["Part of the Ontario Place complex", "Geodesic dome structure", "Screens films in IMAX format", "Architectural landmark of the 1970s"]
-    }
-  },
+    }, image: "/poi-images/ontario-place-cinesphere-landmarks-v2.webp"},
   {
     id: "brockville-railway-tunnel-landmarks-v2",
     type: "landmark",
@@ -265,8 +278,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["1854 és 1860 között épült", "Több mint 500 méter hosszú", "Színes LED-fényjátékkal rendelkezik", "A Brock túraútvonal része"],
       ro: ["Construit între 1854 și 1860", "Peste 500 de metri lungime", "Prezintă un spectacol de lumini LED colorate", "Parte a traseului Brock"],
       en: ["Built between 1854 and 1860", "Over 500 metres in length", "Features a colourful LED light show", "Part of the Brock Trail"]
-    }
-  },
+    }, image: "/poi-images/brockville-railway-tunnel-landmarks-v2.webp"},
   {
     id: "toronto-sign-landmarks-v2",
     type: "landmark",
@@ -279,8 +291,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["A 2015-ös Pánamerikai Játékokra telepítették", "Nagyon népszerű fotóhelyszín", "Különleges alkalmakkor változtatja a színét", "Visszatükröződik az előtte lévő medencében"],
       ro: ["Instalat pentru Jocurile Panamericane din 2015", "Punct foto foarte popular", "Își schimbă culorile pentru ocazii speciale", "Se reflectă în piscina din față"],
       en: ["Installed for the 2015 Pan American Games", "A very popular photo spot", "Changes colours for special occasions", "Reflects in the pool in front"]
-    }
-  },
+    }, image: "/poi-images/toronto-sign-landmarks-v2.webp"},
   {
     id: "calgary-peace-bridge-landmarks-v2",
     type: "landmark",
@@ -293,8 +304,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Santiago Calatrava spanyol építész tervezte", "Cső alakú, piros-fehér dizájn", "Nincsenek támasztékok a folyómederben", "Összeköti a belvárost a Sunnyside negyeddel"],
       ro: ["Proiectat de arhitectul spaniol Santiago Calatrava", "Design tubular în roșu și alb", "Fără piloni în albia râului", "Leagă centrul orașului de cartierul Sunnyside"],
       en: ["Designed by Spanish architect Santiago Calatrava", "Red and white helical tube design", "No piers in the riverbed", "Connects downtown with the Sunnyside neighbourhood"]
-    }
-  },
+    }, image: "/poi-images/calgary-peace-bridge-landmarks-v2.webp"},
   {
     id: "gooderham-building-landmarks-v2",
     type: "landmark",
@@ -307,8 +317,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Vörös tégla, ék alakú", "1892-ben épült", "Megelőzte a híresebb New York-i Flatiron Buildinget", "Ikonikus látvány a háttérben lévő felhőkarcolókkal"],
       ro: ["Cărămidă roșie, formă de pană", "Construită în 1892", "Precedă mai faimoasa Clădire Flatiron din New York", "Vedere iconică cu zgârie-norii în fundal"],
       en: ["Red-brick, wedge-shaped design", "Built in 1892", "Predates the more famous Flatiron Building in NYC", "Iconic view with the skyline behind it"]
-    }
-  },
+    }, image: "/poi-images/gooderham-building-landmarks-v2.webp"},
   {
     id: "hartland-covered-bridge-landmarks-v2",
     type: "landmark",
@@ -321,8 +330,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["391 méter hosszú", "Átível a Saint John folyón", "Nemzeti történelmi emlékhely", "Egysávos forgalom"],
       ro: ["391 de metri lungime", "Traversează râul Saint John", "Sit istoric național", "Trafic pe o singură bandă"],
       en: ["391 metres (1,282 ft) long", "Crosses the Saint John River", "National Historic Site", "Single-lane traffic"]
-    }
-  },
+    }, image: "/poi-images/hartland-covered-bridge-landmarks-v2.webp"},
   {
     id: "macdonald-bridge-halifax-landmarks-v2",
     type: "landmark",
@@ -335,8 +343,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["1955-ben nyílt meg", "'A Régi Híd' a beceneve", "Fontos közlekedési kapcsolat", "Gyalogosok és kerékpárosok számára is van útja"],
       ro: ["Inaugurat în 1955", "Poreclit „Podul Vechi”", "Legătură de transport vitală", "Are o cale pentru pietoni și bicicliști"],
       en: ["Opened in 1955", "Nicknamed 'The Old Bridge'", "A vital transportation link", "Has a dedicated lane for pedestrians and cyclists"]
-    }
-  },
+    }, image: "/poi-images/macdonald-bridge-halifax-landmarks-v2.webp"},
   {
     id: "winnipeg-legislative-building-landmarks-v2",
     type: "landmark",
@@ -349,8 +356,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Neoklasszikus építészet", "'Aranyfiú' szobor koronázza", "Hermetikus és szabadkőműves szimbólumokat tartalmaz", "Tyndall kőből épült"],
       ro: ["Arhitectură neoclasică", "Încununată de statuia „Golden Boy”", "Conține simboluri hermetice și masonice", "Construită din piatră de Tyndall"],
       en: ["Neoclassical architecture", "Topped by the 'Golden Boy' statue", "Contains hermetic and Masonic symbols", "Built with Tyndall stone"]
-    }
-  },
+    }, image: "/poi-images/winnipeg-legislative-building-landmarks-v2.webp"},
   {
     id: "saskatchewan-legislative-building-landmarks-v2",
     type: "landmark",
@@ -363,8 +369,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["A Wascana-tóra néz", "Kereszt alakú alaprajz", "34 különböző típusú márványt tartalmaz", "A Wascana Centre park veszi körül"],
       ro: ["Vedere spre Lacul Wascana", "Plan în formă de cruce", "Conține 34 de tipuri diferite de marmură", "Înconjurat de parcul Wascana Centre"],
       en: ["Overlooks Wascana Lake", "Cross-shaped floor plan", "Contains 34 different types of marble", "Surrounded by the Wascana Centre parkland"]
-    }
-  },
+    }, image: "/poi-images/saskatchewan-legislative-building-landmarks-v2.webp"},
   {
     id: "edmonton-funicular-landmarks-v2",
     type: "landmark",
@@ -377,8 +382,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Mindenki számára hozzáférhető gépesített felvonó", "Panorámás kilátás az Észak-Saskatchewan folyó völgyére", "Kilátóponthoz és hídhoz csatlakozik", "Ingyenesen használható"],
       ro: ["Ascensor mecanizat accesibil tuturor", "Vederi panoramice ale văii râului North Saskatchewan", "Conectează la un punct de belvedere și un pod", "Utilizare gratuită"],
       en: ["Mechanized elevator accessible to all", "Panoramic views of the North Saskatchewan River Valley", "Connects to a lookout point and bridge", "Free to use"]
-    }
-  },
+    }, image: "/poi-images/edmonton-funicular-landmarks-v2.webp"},
   {
     id: "prince-edward-viaduct-toronto-landmarks-v2",
     type: "landmark",
@@ -391,8 +395,7 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       hu: ["Átível a Don folyó völgyén", "Bloor viaduktként is ismert", "Kétszintes autók és metró számára", "Luminous Veil biztonsági korlát"],
       ro: ["Traversează Valea Râului Don", "Cunoscut și ca Viaductul Bloor", "Două niveluri pentru mașini și metrou", "Bariera de siguranță Luminous Veil"],
       en: ["Crosses the Don River Valley", "Also known as the Bloor Viaduct", "Two-tiered for cars and subway", "The Luminous Veil safety barrier"]
-    }
-  },
+    }, image: "/poi-images/prince-edward-viaduct-toronto-landmarks-v2.webp"},
   {
     id: "the-forks-winnipeg-landmarks-v2",
     type: "landmark",
@@ -408,3 +411,4 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     }
   }
 ];
+

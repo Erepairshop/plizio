@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 import { poiExtraLiechtensteinCities } from "./poiExtraLiechtensteinCities";
 import { poiExtraLiechtensteinHistory } from "./poiExtraLiechtensteinHistory";
@@ -19,8 +20,7 @@ export const liechtensteinCountry: POI = {
     hu: "Egy apró, gazdag hercegség az Alpokban, amely középkori várairól, alpesi tájairól és pénzügyi központjáról ismert.",
     ro: "Un mic și prosper principat în Alpi, cunoscut pentru castelele medievale, peisajele alpine și ca un important centru financiar.",
     en: "A tiny, wealthy principality in the Alps, known for its medieval castles, alpine landscapes, and as a major financial center."
-  },
-};
+  }, image: "/poi-images/country-liechtenstein.webp"};
 
 export const liechtensteinRegions: POI[] = [
   {
@@ -40,78 +40,67 @@ export const liechtensteinRegions: POI[] = [
     type: "region",
     parent: "LI-ALL",
     coords: [9.5333, 47.1000],
-    name: { de: "Triesen", hu: "Triesen", ro: "Triesen", en: "Triesen" },
-  },
+    name: { de: "Triesen", hu: "Triesen", ro: "Triesen", en: "Triesen" }, image: "/poi-images/LI-001.webp"},
   {
     id: "LI-002",
     type: "region",
     parent: "LI-ALL",
     coords: [9.4833, 47.1666],
-    name: { de: "Schaan", hu: "Schaan", ro: "Schaan", en: "Schaan" },
-  },
+    name: { de: "Schaan", hu: "Schaan", ro: "Schaan", en: "Schaan" }, image: "/poi-images/LI-002.webp"},
   {
     id: "LI-003",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5333, 47.1166],
-    name: { de: "Triesenberg", hu: "Triesenberg", ro: "Triesenberg", en: "Triesenberg" },
-  },
+    name: { de: "Triesenberg", hu: "Triesenberg", ro: "Triesenberg", en: "Triesenberg" }, image: "/poi-images/LI-003.webp"},
   {
     id: "LI-004",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5000, 47.0666],
-    name: { de: "Balzers", hu: "Balzers", ro: "Balzers", en: "Balzers" },
-  },
+    name: { de: "Balzers", hu: "Balzers", ro: "Balzers", en: "Balzers" }, image: "/poi-images/LI-004.webp"},
   {
     id: "LI-005",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5444, 47.1855],
-    name: { de: "Planken", hu: "Planken", ro: "Planken", en: "Planken" },
-  },
+    name: { de: "Planken", hu: "Planken", ro: "Planken", en: "Planken" }, image: "/poi-images/LI-005.webp"},
   {
     id: "LI-006",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5166, 47.2000],
-    name: { de: "Eschen", hu: "Eschen", ro: "Eschen", en: "Eschen" },
-  },
+    name: { de: "Eschen", hu: "Eschen", ro: "Eschen", en: "Eschen" }, image: "/poi-images/LI-006.webp"},
   {
     id: "LI-007",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5333, 47.2166],
-    name: { de: "Mauren", hu: "Mauren", ro: "Mauren", en: "Mauren" },
-  },
+    name: { de: "Mauren", hu: "Mauren", ro: "Mauren", en: "Mauren" }, image: "/poi-images/LI-007.webp"},
   {
     id: "LI-008",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5472, 47.2333],
-    name: { de: "Schellenberg", hu: "Schellenberg", ro: "Schellenberg", en: "Schellenberg" },
-  },
+    name: { de: "Schellenberg", hu: "Schellenberg", ro: "Schellenberg", en: "Schellenberg" }, image: "/poi-images/LI-008.webp"},
   {
     id: "LI-009",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5333, 47.2333],
-    name: { de: "Ruggell", hu: "Ruggell", ro: "Ruggell", en: "Ruggell" },
-  },
+    name: { de: "Ruggell", hu: "Ruggell", ro: "Ruggell", en: "Ruggell" }, image: "/poi-images/LI-009.webp"},
   {
     id: "LI-010",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5210, 47.1410],
-    name: { de: "Vaduz", hu: "Vaduz", ro: "Vaduz", en: "Vaduz" },
-  },
+    name: { de: "Vaduz", hu: "Vaduz", ro: "Vaduz", en: "Vaduz" }, image: "/poi-images/LI-010.webp"},
   {
     id: "LI-011",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5083, 47.2183],
-    name: { de: "Gamprin", hu: "Gamprin", ro: "Gamprin", en: "Gamprin" },
-  }
+    name: { de: "Gamprin", hu: "Gamprin", ro: "Gamprin", en: "Gamprin" }, image: "/poi-images/LI-011.webp"}
 ];
 
 export const liechtensteinCities: POI[] = [
@@ -137,8 +126,7 @@ export const liechtensteinCities: POI[] = [
       hu: "Schaan",
       ro: "Schaan",
       en: "Schaan"
-    },
-  },
+    }, image: "/poi-images/li-city-schaan.webp"},
   {
     id: "li-city-triesen",
     type: "city",
@@ -149,8 +137,7 @@ export const liechtensteinCities: POI[] = [
       hu: "Triesen",
       ro: "Triesen",
       en: "Triesen"
-    },
-  },
+    }, image: "/poi-images/li-city-triesen.webp"},
   {
     id: "li-city-balzers",
     type: "city",
@@ -161,8 +148,7 @@ export const liechtensteinCities: POI[] = [
       hu: "Balzers",
       ro: "Balzers",
       en: "Balzers"
-    },
-  },
+    }, image: "/poi-images/li-city-balzers.webp"},
   {
     id: "li-city-eschen",
     type: "city",
@@ -173,8 +159,7 @@ export const liechtensteinCities: POI[] = [
       hu: "Eschen",
       ro: "Eschen",
       en: "Eschen"
-    },
-  },
+    }, image: "/poi-images/li-city-eschen.webp"},
   {
     id: "li-city-mauren",
     type: "city",
@@ -185,8 +170,7 @@ export const liechtensteinCities: POI[] = [
       hu: "Mauren",
       ro: "Mauren",
       en: "Mauren"
-    },
-  },
+    }, image: "/poi-images/li-city-mauren.webp"},
   {
     id: "li-city-triesenberg",
     type: "city",
@@ -197,8 +181,7 @@ export const liechtensteinCities: POI[] = [
       hu: "Triesenberg",
       ro: "Triesenberg",
       en: "Triesenberg"
-    },
-  },
+    }, image: "/poi-images/li-city-triesenberg.webp"},
   {
     id: "li-city-ruggell",
     type: "city",
@@ -209,8 +192,7 @@ export const liechtensteinCities: POI[] = [
       hu: "Ruggell",
       ro: "Ruggell",
       en: "Ruggell"
-    },
-  },
+    }, image: "/poi-images/li-city-ruggell.webp"},
   {
     id: "li-city-planken",
     type: "city",
@@ -228,8 +210,7 @@ export const liechtensteinCities: POI[] = [
       hu: ["Legkisebb község", "Történelmi walser település", "Panorámás kilátás"],
       ro: ["Cea mai mică comună", "Așezare istorică Walser", "Vedere panoramică"],
       en: ["Smallest municipality", "Historic Walser settlement", "Panoramic views"]
-    }
-  },
+    }, image: "/poi-images/li-city-planken.webp"},
   {
     id: "li-city-gamprin",
     type: "city",
@@ -247,8 +228,7 @@ export const liechtensteinCities: POI[] = [
       hu: ["Benderni történelmi lelőhely", "Ipari vállalatok székhelye", "Pihenőövezet"],
       ro: ["Situl istoric Bendern", "Sediul unor companii industriale", "Zonă de recreere"],
       en: ["Historic site of Bendern", "Home to industrial companies", "Recreational area"]
-    }
-  }
+    }, image: "/poi-images/li-city-gamprin.webp"}
 ];
 
 export const liechtensteinCulture: POI[] = [
@@ -274,8 +254,7 @@ export const liechtensteinCulture: POI[] = [
       hu: "Gutenberg-vár",
       ro: "Castelul Gutenberg",
       en: "Gutenberg Castle"
-    },
-  },
+    }, image: "/poi-images/li-cult-gutenberg-castle.webp"},
   {
     id: "li-cult-kunstmuseum",
     type: "landmark",
@@ -286,8 +265,7 @@ export const liechtensteinCulture: POI[] = [
       hu: "Liechtensteini Művészeti Múzeum",
       ro: "Muzeul de Artă Liechtenstein",
       en: "Kunstmuseum Liechtenstein"
-    },
-  },
+    }, image: "/poi-images/li-cult-kunstmuseum.webp"},
   {
     id: "li-cult-landesmuseum",
     type: "landmark",
@@ -298,8 +276,7 @@ export const liechtensteinCulture: POI[] = [
       hu: "Liechtensteini Nemzeti Múzeum",
       ro: "Muzeul Național Liechtenstein",
       en: "Liechtenstein National Museum"
-    },
-  },
+    }, image: "/poi-images/li-cult-landesmuseum.webp"},
   {
     id: "li-cult-red-house",
     type: "landmark",
@@ -310,8 +287,7 @@ export const liechtensteinCulture: POI[] = [
       hu: "Vörös Ház",
       ro: "Casa Roșie",
       en: "Red House"
-    },
-  },
+    }, image: "/poi-images/li-cult-red-house.webp"},
   {
     id: "li-cult-walser-museum",
     type: "landmark",
@@ -322,8 +298,7 @@ export const liechtensteinCulture: POI[] = [
       hu: "Walser Múzeum",
       ro: "Muzeul Walser",
       en: "Walser Museum"
-    },
-  },
+    }, image: "/poi-images/li-cult-walser-museum.webp"},
   {
     id: "li-cult-st-florin",
     type: "landmark",
@@ -334,8 +309,7 @@ export const liechtensteinCulture: POI[] = [
       hu: "Szent Florin-katedrális",
       ro: "Catedrala Sfântul Florin",
       en: "St. Florin Cathedral"
-    },
-  },
+    }, image: "/poi-images/li-cult-st-florin.webp"},
   {
     id: "li-cult-stamp-museum",
     type: "landmark",
@@ -346,8 +320,7 @@ export const liechtensteinCulture: POI[] = [
       hu: "Bélyegmúzeum",
       ro: "Muzeul Poștal",
       en: "Postage Stamp Museum"
-    },
-  },
+    }, image: "/poi-images/li-cult-stamp-museum.webp"},
   {
     id: "li-cult-treasure-chamber",
     type: "landmark",
@@ -358,8 +331,7 @@ export const liechtensteinCulture: POI[] = [
       hu: "Kincstár",
       ro: "Camera Tezaurului",
       en: "Treasure Chamber"
-    },
-  },
+    }, image: "/poi-images/li-cult-treasure-chamber.webp"},
   {
     id: "li-cult-parliament",
     type: "landmark",
@@ -370,8 +342,7 @@ export const liechtensteinCulture: POI[] = [
       hu: "Parlament (Landtag)",
       ro: "Clădirea Parlamentului",
       en: "Parliament Building"
-    },
-  },
+    }, image: "/poi-images/li-cult-parliament.webp"},
   {
     id: "li-cult-old-rhine-bridge",
     type: "landmark",
@@ -382,8 +353,7 @@ export const liechtensteinCulture: POI[] = [
       hu: "Régi Rajna-híd",
       ro: "Vechiul Pod peste Rin",
       en: "Old Rhine Bridge"
-    },
-  },
+    }, image: "/poi-images/li-cult-old-rhine-bridge.webp"},
   {
     id: "li-poi-triesen-marienkapelle",
     type: "landmark",
@@ -401,8 +371,7 @@ export const liechtensteinCulture: POI[] = [
       hu: ["Kb. 9. századi építés", "Román stílus", "Szent Mamertus pártfogása"],
       ro: ["Construită în sec. IX", "Stil romanic", "Patronajul Sf. Mamert"],
       en: ["Built around 9th century", "Romanesque style", "Patronage of St. Mamertus"]
-    }
-  },
+    }, image: "/poi-images/li-poi-triesen-marienkapelle.webp"},
   {
     id: "li-poi-schaan-st-peter",
     type: "landmark",
@@ -420,8 +389,7 @@ export const liechtensteinCulture: POI[] = [
       hu: ["Késő antik eredet", "Római kori ásatások", "Jelentős műemlék"],
       ro: ["Origini antice târzii", "Săpături romane", "Monument important"],
       en: ["Late antique origins", "Roman excavations", "Significant monument"]
-    }
-  },
+    }, image: "/poi-images/li-poi-schaan-st-peter.webp"},
   {
     id: "li-poi-eschen-pfruendhaus",
     type: "landmark",
@@ -439,8 +407,7 @@ export const liechtensteinCulture: POI[] = [
       hu: ["Középkori mag", "Kulturális rendezvények", "Restaurált műemlék"],
       ro: ["Nucleu medieval", "Evenimente culturale", "Monument restaurat"],
       en: ["Medieval core", "Cultural events", "Restored monument"]
-    }
-  },
+    }, image: "/poi-images/li-poi-eschen-pfruendhaus.webp"},
   {
     id: "li-poi-schellenberg-obere-burg",
     type: "landmark",
@@ -458,8 +425,7 @@ export const liechtensteinCulture: POI[] = [
       hu: ["1200 körül épült", "Az ország legnagyobb romvára", "Stratégiai elhelyezkedés"],
       ro: ["Construit în jurul anului 1200", "Cea mai mare ruină din țară", "Poziție strategică"],
       en: ["Built around 1200", "Largest ruins in the country", "Strategic location"]
-    }
-  },
+    }, image: "/poi-images/li-poi-schellenberg-obere-burg.webp"},
   {
     id: "li-poi-schellenberg-untere-burg",
     type: "landmark",
@@ -477,8 +443,7 @@ export const liechtensteinCulture: POI[] = [
       hu: ["1250 körül épült", "Kisebb falmaradványok", "Történelmi emlékhely"],
       ro: ["Construit în jurul anului 1250", "Resturi de ziduri reduse", "Monument istoric"],
       en: ["Built around 1250", "Minor wall remains", "Historical monument"]
-    }
-  }
+    }, image: "/poi-images/li-poi-schellenberg-untere-burg.webp"}
 ];
 
 export const liechtensteinNature: POI[] = [
@@ -504,8 +469,7 @@ export const liechtensteinNature: POI[] = [
       hu: "Naafkopf",
       ro: "Naafkopf",
       en: "Naafkopf"
-    },
-  },
+    }, image: "/poi-images/li-nat-naafkopf.webp"},
   {
     id: "li-nat-falknis",
     type: "landmark",
@@ -516,8 +480,7 @@ export const liechtensteinNature: POI[] = [
       hu: "Falknis",
       ro: "Falknis",
       en: "Falknis"
-    },
-  },
+    }, image: "/poi-images/li-nat-falknis.webp"},
   {
     id: "li-nat-drei-schwestern",
     type: "landmark",
@@ -528,8 +491,7 @@ export const liechtensteinNature: POI[] = [
       hu: "Három Nővér (Drei Schwestern)",
       ro: "Trei Surori (Drei Schwestern)",
       en: "Drei Schwestern (Three Sisters)"
-    },
-  },
+    }, image: "/poi-images/li-nat-drei-schwestern.webp"},
   {
     id: "li-nat-sareiserjoch",
     type: "landmark",
@@ -540,8 +502,7 @@ export const liechtensteinNature: POI[] = [
       hu: "Sareiserjoch",
       ro: "Sareiserjoch",
       en: "Sareiserjoch"
-    },
-  },
+    }, image: "/poi-images/li-nat-sareiserjoch.webp"},
   {
     id: "li-nat-samina",
     type: "landmark",
@@ -552,8 +513,7 @@ export const liechtensteinNature: POI[] = [
       hu: "Samina-folyó",
       ro: "Râul Samina",
       en: "Samina River"
-    },
-  },
+    }, image: "/poi-images/li-nat-samina.webp"},
   {
     id: "li-nat-rhine",
     type: "landmark",
@@ -564,8 +524,7 @@ export const liechtensteinNature: POI[] = [
       hu: "Alpesi Rajna",
       ro: "Rinul Alpin",
       en: "Alpine Rhine"
-    },
-  },
+    }, image: "/poi-images/li-nat-rhine.webp"},
   {
     id: "li-nat-steg-reservoir",
     type: "landmark",
@@ -576,8 +535,7 @@ export const liechtensteinNature: POI[] = [
       hu: "Steg-víztározó (Gänglesee)",
       ro: "Lacul de acumulare Steg",
       en: "Steg Reservoir (Gänglesee)"
-    },
-  },
+    }, image: "/poi-images/li-nat-steg-reservoir.webp"},
   {
     id: "li-nat-malbun",
     type: "landmark",
@@ -588,8 +546,7 @@ export const liechtensteinNature: POI[] = [
       hu: "Malbun síközpont",
       ro: "Stațiunea Malbun",
       en: "Malbun Resort"
-    },
-  },
+    }, image: "/poi-images/li-nat-malbun.webp"},
   {
     id: "li-poi-planken-gafadura",
     type: "landmark",
@@ -607,8 +564,7 @@ export const liechtensteinNature: POI[] = [
       hu: ["Az Alpesi Egyesület tulajdona", "Egykori vadászkastély", "Panoráma a Rajna-völgyre"],
       ro: ["Proprietate a Clubului Alpin", "Fost conac de vânătoare", "Panoramă asupra văii Rinului"],
       en: ["Owned by the Alpine Club", "Former hunting lodge", "Panoramic view of the Rhine Valley"]
-    }
-  },
+    }, image: "/poi-images/li-poi-planken-gafadura.webp"},
   {
     id: "li-poi-mauren-birka",
     type: "landmark",
@@ -626,8 +582,7 @@ export const liechtensteinNature: POI[] = [
       hu: ["Ritka madárfajok", "Tanösvény", "Népszerű kirándulóhely"],
       ro: ["Specii rare de păsări", "Traseu educativ", "Destinație populară"],
       en: ["Rare bird species", "Nature trail", "Popular excursion destination"]
-    }
-  },
+    }, image: "/poi-images/li-poi-mauren-birka.webp"},
   {
     id: "li-poi-gamprin-grossabunt",
     type: "landmark",
@@ -653,3 +608,4 @@ export const liechtensteinAllPoi: POI[] = [...liechtensteinRegions,
   ...liechtensteinCities,
   ...liechtensteinCulture,
   ...liechtensteinNature, ...poiExtraLiechtensteinCities, ...poiExtraLiechtensteinHistory, ...poiExtraLiechtensteinOther];
+

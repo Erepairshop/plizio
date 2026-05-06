@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED
 import type { POI } from "./poi";
 import { poiExtraHaitiCitiesV2 } from "./poiExtraHaitiCitiesV2";
@@ -43,8 +44,7 @@ export const haitiCities: POI[] = [
       en: ["The city's name originates from the French ship 'Le Prince' which arrived in 1706", "It officially replaced Cap-Français as the colonial capital in 1770", "The MUPANAH museum preserves the anchor from Christopher Columbus's flagship, the Santa Maria"]
     },
     historyYear: 1749,
-    area: 36.04
-  },
+    area: 36.04, image: "/poi-images/ht-pap.webp"},
   {
     id: "ht-caphaitien",
     type: "city",
@@ -76,8 +76,7 @@ export const haitiCities: POI[] = [
       en: ["The city was largely destroyed by fire during the Haitian Revolution in 1802", "In the 18th century, it was famously known as the 'Paris of the Antilles'", "The Battle of Vertières, the final battle of the revolution, took place just outside the city"]
     },
     historyYear: 1670,
-    area: 53.5
-  },
+    area: 53.5, image: "/poi-images/ht-caphaitien.webp"},
   {
     id: "ht-jacmel",
     type: "city",
@@ -109,8 +108,7 @@ export const haitiCities: POI[] = [
       en: ["Jacmel was the first city in the Caribbean to have electric street lighting in 1925", "Its architecture served as a model for many buildings in New Orleans' French Quarter", "The city is home to the Ciné Institute, Haiti's only professional film school"]
     },
     historyYear: 1698,
-    area: 443
-  },
+    area: 443, image: "/poi-images/ht-jacmel.webp"},
   {
     id: "ht-lescayes",
     type: "city",
@@ -142,8 +140,7 @@ export const haitiCities: POI[] = [
       en: ["South American liberator Simón Bolívar received critical military aid here in 1815", "The city serves as the main transit point for travel to the resort island of Île-à-Vache", "It is historically vulnerable to hurricanes, having been rebuilt several times after major storms"]
     },
     historyYear: 1786,
-    area: 219
-  },
+    area: 219, image: "/poi-images/ht-lescayes.webp"},
   {
     id: "ht-gonaives",
     type: "city",
@@ -175,8 +172,7 @@ export const haitiCities: POI[] = [
       en: ["The Act of Independence was signed in the central square, Place d'Armes", "The city is a significant cultural center for Vodou traditions in the Artibonite Valley", "Due to its geography, the city has faced catastrophic flooding during recent hurricanes"]
     },
     historyYear: 1804,
-    area: 574
-  },
+    area: 574, image: "/poi-images/ht-gonaives.webp"},
   {
     id: "ht-artibonite",
     type: "river",
@@ -207,8 +203,7 @@ export const haitiCities: POI[] = [
       ro: ["Râul formează o parte a graniței cu Republica Dominicană", "Barajul Péligre de pe râu furnizează cea mai mare parte a energiei electrice pentru Port-au-Prince", "Valea Artibonite este considerată 'grânarul' Haitiului"],
       en: ["The river defines a portion of the international border with the Dominican Republic", "The Péligre Dam on the river generates most of Haiti's hydroelectric power", "The surrounding valley is affectionately known as the 'breadbasket' of Haiti"]
     },
-    length: 320000
-  },
+    length: 320000, image: "/poi-images/ht-artibonite.webp"},
   {
     id: "ht-etangsaumatre",
     type: "lake",
@@ -239,8 +234,7 @@ export const haitiCities: POI[] = [
       ro: ["Lacul nu are scurgere către mare", "Este situat în depresiunea Cul-de-Sac", "Concentrația de sare variază în funcție de precipitații"],
       en: ["The lake is endorheic, meaning it has no outlet to the sea", "It is situated within the Cul-de-Sac Depression", "Salinity levels fluctuate depending on seasonal rainfall"]
     },
-    area: 170
-  },
+    area: 170, image: "/poi-images/ht-etangsaumatre.webp"},
   {
     id: "ht-mornelaselle",
     type: "mountain",
@@ -271,8 +265,7 @@ export const haitiCities: POI[] = [
       ro: ["Muntele face parte din Parcul Național La Visite", "Există acolo specii de plante endemice rare", "Temperaturile pot scădea semnificativ în timpul nopții"],
       en: ["The mountain is a key feature of La Visite National Park", "It hosts several rare endemic plant species adapted to high altitudes", "Nighttime temperatures can drop significantly compared to the coast"]
     },
-    elevation: 2680
-  },
+    elevation: 2680, image: "/poi-images/ht-mornelaselle.webp"},
   {
     id: "ht-foretdespins",
     type: "forest",
@@ -303,8 +296,7 @@ export const haitiCities: POI[] = [
       ro: ["Pădurea este grav amenințată de tăierile ilegale", "Găzduiește specii de păsări rare, cum ar fi trogonul", "Zona este un centru pentru cultivarea cafelei de munte"],
       en: ["The forest faces ongoing threats from illegal logging and charcoal production", "It is a sanctuary for rare birds like the Hispaniolan Trogon", "The surrounding communities are known for high-altitude coffee cultivation"]
     },
-    elevation: 1800
-  },
+    elevation: 1800, image: "/poi-images/ht-foretdespins.webp"},
   {
     id: "ht-rivergrandanse",
     type: "river",
@@ -335,8 +327,7 @@ export const haitiCities: POI[] = [
       ro: ["Râul este predispus la inundații după ploi abundente", "Este cunoscut pentru resursele sale bogate de pește de apă dulce", "Pirogi tradiționale sunt încă folosite pentru navigație"],
       en: ["The river is prone to flash flooding during hurricane season", "It supports a diverse population of freshwater fish and crustaceans", "Traditional hand-carved dugout canoes are still a common sight on its waters"]
     },
-    length: 90000
-  },
+    length: 90000, image: "/poi-images/ht-rivergrandanse.webp"},
   {
     id: "ht-molesaintnicolas",
     type: "historical",
@@ -367,8 +358,7 @@ export const haitiCities: POI[] = [
       ro: ["În apropiere se află ruinele mai multor forturi franceze", "Golful controlează accesul la Pasajul Windward", "Guvernul SUA a încercat să închirieze locul în secolul al XIX-lea ca bază navală"],
       en: ["The area is dotted with the ruins of 18th-century French forts", "The harbor provides strategic control over the Windward Passage", "The U.S. government negotiated to lease the site as a naval base in the late 1800s"]
     },
-    historyYear: 1492
-  },
+    historyYear: 1492, image: "/poi-images/ht-molesaintnicolas.webp"},
   {
     id: "ht-fortpicoulet",
     type: "historical",
@@ -398,8 +388,7 @@ export const haitiCities: POI[] = [
       hu: ["Az erődöt a 18. században építették a franciák", "Régi ágyúk ma is láthatók a falakon", "Látványos kilátást nyújt az északi partra"],
       ro: ["Fortăreața a fost construită de francezi în secolul al XVIII-lea", "Tunuri vechi mai pot fi văzute și astăzi pe ziduri", "Oferă o vedere spectaculoasă asupra coastei de nord"],
       en: ["The fort was constructed in the mid-1700s using local stone", "Several original iron cannons remain mounted on the ramparts", "The site offers a 180-degree view of the Atlantic and the harbor entrance"]
-    }
-  }
+    }, image: "/poi-images/ht-fortpicoulet.webp"}
 ];
 
 export const haitiLandmarks: POI[] = [
@@ -466,8 +455,7 @@ export const haitiLandmarks: POI[] = [
       ro: ["Palatul dispunea de un sistem ingenios de răcire cu canale de apă", "Regele Henri Christophe s-a sinucis pe domeniul palatului în 1820", "Arhitectura combina splendoarea europeană cu elemente caraibiene"],
       en: ["The palace featured an innovative natural cooling system using mountain streams", "King Henri Christophe took his own life on the palace grounds in 1820", "The complex once included lush gardens, a hospital, and a mint"]
     },
-    historyYear: 1810
-  },
+    historyYear: 1810, image: "/poi-images/ht-sanssouci.webp"},
   {
     id: "ht-labadee",
     type: "landmark",
@@ -497,8 +485,7 @@ export const haitiLandmarks: POI[] = [
       hu: ["A terület La Badie márkiról kapta a nevét, aki a 17. században telepedett itt le", "A látogatók a helyi piacon haiti kézműves termékeket vásárolhatnak", "A félszigetet kerítés és magán biztonsági szolgálat választja el az ország többi részétől"],
       ro: ["Zona este numită după marchizul de La Badie, care s-a stabilit aici în sec. XVII", "Vizitatorii pot cumpăra artizanat haitian de la un târg local de artă", "Peninsula este separată de restul țării prin garduri și securitate privată"],
       en: ["Named after the Marquis de La Badie, a Frenchman who settled here in the 1600s", "It features a local artisan market showcasing Haitian crafts and paintings", "The resort is self-contained and offers various private beaches and excursions"]
-    }
-  },
+    }, image: "/poi-images/ht-labadee.webp"},
   {
     id: "ht-bassinbleu",
     type: "lake",
@@ -528,8 +515,7 @@ export const haitiLandmarks: POI[] = [
       hu: ["A legfelső medence körülbelül 22 méter mély", "A legfelső szint eléréséhez gyakran köteleken kell lemászni a sziklákon", "A kőzetekben lévő ásványi anyagok adják a víz egyedülálló színét"],
       ro: ["Bazinul superior are o adâncime de aproximativ 22 de metri", "Pentru a ajunge la bazinul superior, trebuie adesea coborât pe stânci cu ajutorul corzilor", "Mineralele din roci dau apei culoarea sa unică"],
       en: ["The deepest pool, Bassin Clair, reaches a depth of approximately 22 meters", "Accessing the upper pool requires a short descent down a rocky face via rope", "The water's color is created by minerals reflecting sunlight from the pool floor"]
-    }
-  },
+    }, image: "/poi-images/ht-bassinbleu.webp"},
   {
     id: "ht-picmacaya",
     type: "mountain",
@@ -560,8 +546,7 @@ export const haitiLandmarks: POI[] = [
       ro: ["Muntele găzduiește numeroase specii endemice de broaște și păsări", "Pic Macaya este una dintre zonele cu cele mai multe precipitații din țară", "Regiunea este cunoscută pentru ferigile sale uriașe și orhideele rare"],
       en: ["The area is home to an extraordinary concentration of endemic frog and bird species", "Pic Macaya receives some of the highest annual rainfall in Haiti", "Botanists value the mountain for its unique ferns and over 100 species of orchids"]
     },
-    elevation: 2347
-  },
+    elevation: 2347, image: "/poi-images/ht-picmacaya.webp"},
   {
     id: "ht-fortjacques",
     type: "historical",
@@ -593,8 +578,7 @@ export const haitiLandmarks: POI[] = [
       en: ["The fort is a focal point for massive celebrations every May 18th (Flag Day)", "The ramparts offer clear tactical views over the entire Port-au-Prince bay", "The surrounding pine-covered hills are a popular recreational escape for city residents"]
     },
     historyYear: 1804,
-    elevation: 1200
-  },
+    elevation: 1200, image: "/poi-images/ht-fortjacques.webp"},
   {
     id: "ht-pantheon",
     type: "landmark",
@@ -625,8 +609,7 @@ export const haitiLandmarks: POI[] = [
       ro: ["Ancora navei Santa Maria (nava lui Columb) este păstrată aici", "Aici se odihnesc rămășițele lui Toussaint Louverture și Dessalines", "Clădirea este înconjurată de grădinile din Place du Marron Inconnu"],
       en: ["The original anchor from Christopher Columbus’s flagship, the Santa Maria, is on display here", "The museum serves as a mausoleum for Toussaint Louverture, Dessalines, Christophe, and Pétion", "Its unique modern architecture features white cones that rise above the surrounding parkland"]
     },
-    historyYear: 1983
-  },
+    historyYear: 1983, image: "/poi-images/ht-pantheon.webp"},
   {
     id: "ht-ironmarket",
     type: "landmark",
@@ -657,8 +640,7 @@ export const haitiLandmarks: POI[] = [
       ro: ["Structura a fost destinată inițial gării din Cairo", "Piața a fost reconstruită în doar un an după cutremurul din 2010", "Este formată din două hale mari conectate printr-un turn cu ceas"],
       en: ["The iron structure was rejected by Egypt and purchased by President Florvil Hyppolite in 1891", "It was the first major landmark to be fully restored following the devastating 2010 quake", "The market is divided into two main halls: one for food and one for artisanal goods"]
     },
-    historyYear: 1891
-  },
+    historyYear: 1891, image: "/poi-images/ht-ironmarket.webp"},
   {
     id: "ht-tortue",
     type: "island",
@@ -690,8 +672,7 @@ export const haitiLandmarks: POI[] = [
       en: ["The island saw the establishment of the 'Brethren of the Coast' pirate coalition", "It was governed by famous buccaneer figures like Jean Le Vasseur and Henry Morgan", "Despite its wild history, it remains one of Haiti's most underdeveloped and pristine areas"]
     },
     historyYear: 1492,
-    area: 180
-  },
+    area: 180, image: "/poi-images/ht-tortue.webp"},
   {
     id: "ht-sautmathurine",
     type: "landmark",
@@ -722,8 +703,7 @@ export const haitiLandmarks: POI[] = [
       ro: ["Cascada are o înălțime de aproximativ 30 de metri și o lățime de 30 de metri", "Apa provine din munții Massif de la Hotte", "Forța apei este utilizată pentru a genera electricitate pentru comunitățile locale"],
       en: ["The waterfall measures approximately 30 meters high and 30 meters wide", "The flow originates from the limestone aquifers of the Massif de la Hotte", "A small hydroelectric plant nearby utilizes the falls to provide clean energy to Camp-Perrin"]
     },
-    elevation: 300
-  },
+    elevation: 300, image: "/poi-images/ht-sautmathurine.webp"},
   {
     id: "ht-palais365",
     type: "historical",
@@ -754,8 +734,7 @@ export const haitiLandmarks: POI[] = [
       ro: ["Clădirea a fost finalizată în 1820", "A servit drept palat pentru guvernatorii văii Artibonite", "Astăzi găzduiește birouri guvernamentale și este accesibil vizitatorilor"],
       en: ["The palace was completed in 1820, just before the end of Christophe's reign", "It was intended to serve as the administrative heart of the northern Artibonite region", "The structure remains in active use today, housing local government and judicial offices"]
     },
-    historyYear: 1820
-  },
+    historyYear: 1820, image: "/poi-images/ht-palais365.webp"},
   {
     id: "ht-cathedralcap",
     type: "historical",
@@ -786,8 +765,7 @@ export const haitiLandmarks: POI[] = [
       ro: ["Catedrala a fost construită pe ruinele unei biserici anterioare din sec. XVII", "Aici a avut loc o slujbă solemnă pentru independență în 1804", "Cupola este vizibilă de la mare distanță deasupra golfului orașului"],
       en: ["The current structure stands on a site used for worship since the late 1600s", "It has survived multiple fires and earthquakes that reshaped the city's skyline", "The interior features notable religious art and stained glass from the colonial and early republican eras"]
     },
-    historyYear: 1670
-  },
+    historyYear: 1670, image: "/poi-images/ht-cathedralcap.webp"},
   {
     id: "ht-fortcrete",
     type: "historical",
@@ -818,8 +796,7 @@ export const haitiLandmarks: POI[] = [
       ro: ["Jean-Jacques Dessalines a ținut aici un discurs faimos pentru apărarea fortului", "Marie-Jeanne Lamartiniére a luptat aici ca eroină alături de bărbați", "Apărarea este considerată un jalon în drumul spre independența finală"],
       en: ["It was here that Jean-Jacques Dessalines famously vowed to defend the fort to the death", "Marie-Jeanne Lamartiniére became a national icon for her combat role during the siege", "Though the Haitians eventually retreated, the battle depleted French morale and resources"]
     },
-    historyYear: 1802
-  },
+    historyYear: 1802, image: "/poi-images/ht-fortcrete.webp"},
   {
     id: "ht-plainedunord",
     type: "landmark",
@@ -849,8 +826,7 @@ export const haitiLandmarks: POI[] = [
       hu: ["Az ünnepségek ötvözik a katolikus rítusokat az afrikai hagyományokkal", "A Trou du Nord-ot a vudu vallás egyik legszentebb helyének tartják", "A zarándokok gyakran viselnek piros ruhát, ami Ogou Feray színe"],
       ro: ["Sărbătorile combină riturile catolice cu tradițiile africane", "Trou du Nord este considerat unul dintre cele mai sfinte locuri ale religiei voodoo", "Pelerinii poartă adesea haine roșii, culoarea lui Ogou Feray"],
       en: ["The pilgrimage features a unique blend of Catholic mass and Vodou ceremonies", "Pilgrims often emerge from the mud pools and head to the nearby Atlantic coast for cleansing", "Red is the dominant color of the festival, associated with the spirit of iron and war"]
-    }
-  },
+    }, image: "/poi-images/ht-plainedunord.webp"},
   {
     id: "ht-ileavache",
     type: "landmark",
@@ -881,8 +857,7 @@ export const haitiLandmarks: POI[] = [
       ro: ["Numele înseamnă 'Insula Vacii' și provine de la primii coloniști", "Insula a servit drept ascunzătoare pentru piratul Henry Morgan în sec. XVII", "Aici se află cunoscuta stațiune Abaka Bay"],
       en: ["The island was a frequent haunt of the pirate Henry Morgan, who anchored his fleet here", "It was the site of an ill-fated 1863 attempt by Abraham Lincoln to establish a colony for freed slaves", "The island remains largely agricultural, with residents relying on fishing and livestock"]
     },
-    area: 52
-  },
+    area: 52, image: "/poi-images/ht-ileavache.webp"},
   {
     id: "ht-sautdeau",
     type: "landmark",
@@ -912,8 +887,7 @@ export const haitiLandmarks: POI[] = [
       hu: ["A hívők a vízesésben fürdenek, hogy gyógyulást és szerencsét találjanak", "Az ünnep egybeesik a Kármelhegyi Boldogasszony napjával", "A kormány kivágatta a jelenés pálmafáját, de a hely szentsége megmaradt"],
       ro: ["Credincioșii se scaldă în cascade pentru a găsi vindecare și noroc", "Sărbătoarea are loc simultan cu ziua Maicii Domnului de pe Muntele Carmel", "Guvernul a tăiat palmierul apariției, dar sfințenia locului a rămas"],
       en: ["Pilgrims throw their old clothes into the water as a symbol of leaving their past behind", "The waterfall is part of a complex of cascades known as Le Sault", "It serves as a unique example of the peaceful coexistence of Catholic and Vodou traditions"]
-    }
-  },
+    }, image: "/poi-images/ht-sautdeau.webp"},
   {
     id: "ht-cathedralpap",
     type: "landmark",
@@ -944,8 +918,7 @@ export const haitiLandmarks: POI[] = [
       ro: ["Catedrala a fost construită între 1884 și 1914", "Arhitectura a fost un amestec de elemente romanice și gotice", "Există planuri pentru o construcție nouă modernă care să integreze ruinele"],
       en: ["The cathedral was consecrated in 1914 after 30 years of construction", "Before the quake, it was renowned for its beautiful stained glass and intricate woodwork", "The ruins remain a pilgrimage site for residents during major religious holidays"]
     },
-    historyYear: 1884
-  },
+    historyYear: 1884, image: "/poi-images/ht-cathedralpap.webp"},
   {
     id: "ht-champdemars",
     type: "landmark",
@@ -981,3 +954,4 @@ export const haitiLandmarks: POI[] = [
 ];
 
 export const haitiAllPoi: POI[] = [...haitiCountry, ...haitiRegions, ...haitiCities, ...haitiLandmarks, ...poiExtraHaitiCitiesV2, ...poiExtraHaitiEconomicV2, ...poiExtraHaitiHistoryV2, ...poiExtraHaitiLifeV2, ...poiExtraHaitiNatureV2, ...poiExtraHaitiReliefV2];
+

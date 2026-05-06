@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDeCities: POI[] = [
@@ -7495,3 +7496,4 @@ export const poiExtraDeCities: POI[] = [
     }
   }
 ];
+

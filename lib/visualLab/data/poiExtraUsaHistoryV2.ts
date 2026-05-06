@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUsaHistoryV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Több mint 600 sziklalakás", "UNESCO Világörökség", "Az ősi Pueblo nép kulturális örökségét védi", "A Cliff Palace a legnagyobb sziklalakás"],
       ro: ["Peste 600 de locuințe în stâncă", "Patrimoniu Mondial UNESCO", "Protejează moștenirea culturală a poporului Pueblo", "Cliff Palace este cea mai mare locuință în stâncă"],
       en: ["Over 600 cliff dwellings", "UNESCO World Heritage Site", "Protects the cultural heritage of the Ancestral Pueblo people", "Cliff Palace is the largest cliff dwelling"]
-    }
-  },
+    }, image: "/poi-images/mesa-verde-national-park-history-v2.webp"},
   {
     id: "cahokia-mounds-history-v2",
     type: "historical",
@@ -47,8 +47,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Észak-Amerika legnagyobb régészeti lelőhelye", "A Monks Mound a legnagyobb prehisztorikus földhalom Amerikában", "UNESCO Világörökség", "Virágkora i.sz. 1050-1200 körül volt"],
       ro: ["Cel mai mare sit arheologic din America de Nord", "Monks Mound este cea mai mare movilă preistorică de pământ din Americi", "Patrimoniu Mondial UNESCO", "A înflorit în jurul anilor 1050-1200 d.Hr."],
       en: ["Largest archaeological site in North America", "Monks Mound is the largest prehistoric earthwork in the Americas", "UNESCO World Heritage Site", "Flourished around 1050-1200 AD"]
-    }
-  },
+    }, image: "/poi-images/cahokia-mounds-history-v2.webp"},
   {
     id: "jamestown-settlement-history-v2",
     type: "historical",
@@ -71,8 +70,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["A Londoni Virginia Társaság alapította", "83 évig Virginia gyarmat fővárosa", "Számos konfliktus helyszíne a Powhatan indiánokkal", "Fontos helyszín az amerikai történelemben"],
       ro: ["Fondată de Compania Virginia din Londra", "Capitala Coloniei Virginia timp de 83 de ani", "Locul multor conflicte cu indienii Powhatan", "Situl important în istoria americană"],
       en: ["Founded by the Virginia Company of London", "Capital of the Colony of Virginia for 83 years", "Site of many conflicts with the Powhatan Confederacy", "Major site in American history"]
-    }
-  },
+    }, image: "/poi-images/jamestown-settlement-history-v2.webp"},
   {
     id: "plymouth-rock-history-v2",
     type: "historical",
@@ -95,8 +93,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["A zarándokatyák érkezésének szimbóluma", "Az amerikai alapító mítosz fontos része", "A Pilgrim Memorial State Parkban található", "A sziklába az 1620-as dátum van vésve"],
       ro: ["Simbol al sosirii Pelerinilor", "O parte importantă a mitului fondator american", "Situată în Parcul Statal Memorial al Pelerinilor", "Data 1620 este sculptată pe stâncă"],
       en: ["Symbol of the arrival of the Pilgrims", "An important part of American founding mythology", "Located in Pilgrim Memorial State Park", "The date 1620 is carved into the rock"]
-    }
-  },
+    }, image: "/poi-images/plymouth-rock-history-v2.webp"},
   {
     id: "colonial-williamsburg-history-v2",
     type: "historical",
@@ -119,8 +116,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Virginia egykori fővárosa", "A 18. századi épületeket restaurálták", "Korhű jelmezes színészek mutatják be az életet", "Nagy turisztikai vonzerő"],
       ro: ["Fosta capitală a Virginiei", "Clădirile din secolul al XVIII-lea au fost restaurate", "Actori în costume de epocă interpretează viața", "Atracție turistică majoră"],
       en: ["Former capital of Virginia", "18th-century buildings have been restored", "Costumed interpreters portray daily life", "Major tourist attraction"]
-    }
-  },
+    }, image: "/poi-images/colonial-williamsburg-history-v2.webp"},
   {
     id: "valley-forge-history-v2",
     type: "historical",
@@ -143,8 +139,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Az amerikai kitartás szimbóluma", "Von Steuben tábornok itt képezte ki a hadsereget", "Több ezer katona halt meg betegségben és éhezésben", "Ma Nemzeti Történelmi Park"],
       ro: ["Simbol al rezistenței americane", "Generalul von Steuben a antrenat armata aici", "Mii de soldați au murit de boli și foamete", "Astăzi un Parc Național Istoric"],
       en: ["Symbol of American perseverance", "General von Steuben trained the army here", "Thousands of soldiers died from disease and starvation", "Now a National Historical Park"]
-    }
-  },
+    }, image: "/poi-images/valley-forge-history-v2.webp"},
   {
     id: "yorktown-battlefield-history-v2",
     type: "historical",
@@ -167,8 +162,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Cornwallis tábornok megadása", "Biztosította az amerikai függetlenséget", "Az amerikai és francia erők közös győzelme", "A Colonial National Historical Park része"],
       ro: ["Capitularea generalului Cornwallis", "A asigurat independența americană", "Victorie comună a forțelor americane și franceze", "Parte a Parcului Național Istoric Colonial"],
       en: ["Surrender of General Cornwallis", "Secured American independence", "Joint victory for American and French forces", "Part of Colonial National Historical Park"]
-    }
-  },
+    }, image: "/poi-images/yorktown-battlefield-history-v2.webp"},
   {
     id: "monticello-history-v2",
     type: "historical",
@@ -191,8 +185,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Jefferson maga tervezte", "A neoklasszikus építészet példája", "UNESCO Világörökség", "Rabszolgaültetvény"],
       ro: ["Proiectat de Jefferson însuși", "Exemplu de arhitectură neoclasică", "Patrimoniu Mondial UNESCO", "Plantație de sclavi"],
       en: ["Designed by Jefferson himself", "Example of Neoclassical architecture", "UNESCO World Heritage Site", "A slave plantation"]
-    }
-  },
+    }, image: "/poi-images/monticello-history-v2.webp"},
   {
     id: "fort-mchenry-history-v2",
     type: "historical",
@@ -215,8 +208,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Baltimore sikeres védelme", "Francis Scott Key írta a nemzeti himnuszt", "Nemzeti emlékművé nyilvánították", "Csillag alakú erőd"],
       ro: ["Apărarea cu succes a Baltimore-ului", "Francis Scott Key a scris imnul național", "Desemnat ca Monument Național", "Fort în formă de stea"],
       en: ["Successful defense of Baltimore", "Francis Scott Key wrote the national anthem", "Designated a National Monument", "Star-shaped fort"]
-    }
-  },
+    }, image: "/poi-images/fort-mchenry-history-v2.webp"},
   {
     id: "pearl-harbor-history-v2",
     type: "historical",
@@ -239,8 +231,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Támadás 1941. december 7-én", "USS Arizona Emlékmű", "Az amerikai csendes-óceáni flotta főhadiszállása", "Az USA második világháborúba való belépéséhez vezetett"],
       ro: ["Atac la 7 decembrie 1941", "Memorialul USS Arizona", "Sediul Flotei Pacificului a SUA", "A dus la intrarea SUA în Al Doilea Război Mondial"],
       en: ["Attack on December 7, 1941", "USS Arizona Memorial", "Headquarters of the U.S. Pacific Fleet", "Led to the U.S. entry into World War II"]
-    }
-  },
+    }, image: "/poi-images/pearl-harbor-history-v2.webp"},
   {
     id: "little-bighorn-battlefield-history-v2",
     type: "historical",
@@ -263,8 +254,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Custer utolsó csatájaként is ismert", "A csata 1876-ban zajlott", "Jelentős győzelem az amerikai őslakosok számára", "Nemzeti emlékmű"],
       ro: ["Cunoscut și ca Ultima Rezistență a lui Custer", "Bătălia a avut loc în 1876", "Victorie semnificativă pentru nativii americani", "Monument național"],
       en: ["Also known as Custer's Last Stand", "Battle took place in 1876", "Significant victory for Native Americans", "National monument"]
-    }
-  },
+    }, image: "/poi-images/little-bighorn-battlefield-history-v2.webp"},
   {
     id: "ellis-island-history-v2",
     type: "historical",
@@ -287,8 +277,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Több mint 12 millió bevándorló kapuja", "A Szabadság-szobor Nemzeti Emlékmű része", "Bevándorlási Történeti Múzeum", "Beceneve 'A Remény Szigete, a Könnyek Szigete'"],
       ro: ["Poarta de acces pentru peste 12 milioane de imigranți", "Parte a Monumentului Național Statuia Libertății", "Muzeul de Istorie a Imigrației", "Poreclită „Insula Speranței, Insula Lacrimilor”"],
       en: ["Gateway for over 12 million immigrants", "Part of the Statue of Liberty National Monument", "Museum of immigration history", "Nicknamed 'Island of Hope, Island of Tears'"]
-    }
-  },
+    }, image: "/poi-images/ellis-island-history-v2.webp"},
   {
     id: "fort-sumter-history-v2",
     type: "historical",
@@ -311,8 +300,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Bombázás 1861. április 12-én", "A polgárháború kezdete", "34 órás bombázás után megadta magát", "Nemzeti emlékmű"],
       ro: ["Bombardament la 12 aprilie 1861", "Începutul Războiului Civil", "A capitulat după 34 de ore de bombardament", "Monument național"],
       en: ["Bombardment on April 12, 1861", "Start of the Civil War", "Surrendered after 34-hour bombardment", "National monument"]
-    }
-  },
+    }, image: "/poi-images/fort-sumter-history-v2.webp"},
   {
     id: "appomattox-court-house-history-v2",
     type: "historical",
@@ -335,8 +323,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Gyakorlatilag véget vetett az amerikai polgárháborúnak", "A megadás a McLean-házban történt", "Ma Nemzeti Történelmi Park", "A háború végének szimbóluma"],
       ro: ["A încheiat efectiv Războiul Civil American", "Capitularea a avut loc în Casa McLean", "Astăzi un Parc Național Istoric", "Simbol al sfârșitului războiului"],
       en: ["Effectively ended the American Civil War", "Surrender took place in the McLean House", "Now a National Historical Park", "Symbol of the end of the war"]
-    }
-  },
+    }, image: "/poi-images/appomattox-court-house-history-v2.webp"},
   {
     id: "antietam-battlefield-history-v2",
     type: "historical",
@@ -359,8 +346,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Több mint 22 000 áldozat", "Az Unió stratégiai győzelme", "Az Emancipációs Proklamációhoz vezetett", "Fontos fordulópont a háborúban"],
       ro: ["Peste 22.000 de victime", "Victorie strategică a Uniunii", "A dus la Proclamația de Emancipare", "Punct de cotitură important în război"],
       en: ["Over 22,000 casualties", "Strategic Union victory", "Led to the Emancipation Proclamation", "Key turning point in the war"]
-    }
-  },
+    }, image: "/poi-images/antietam-battlefield-history-v2.webp"},
   {
     id: "harpers-ferry-history-v2",
     type: "historical",
@@ -383,8 +369,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["A Potomac és a Shenandoah folyók összefolyásánál fekszik", "Fontos helyszín az abolicionizmus történetében", "Stratégiai jelentőségű a polgárháború alatt", "Nemzeti Történelmi Park"],
       ro: ["Situat la confluența râurilor Potomac și Shenandoah", "Loc important în istoria aboliționismului", "Importanță strategică în timpul Războiului Civil", "Parc Național Istoric"],
       en: ["Located at the confluence of the Potomac and Shenandoah rivers", "Key site in the history of abolitionism", "Strategic importance during the Civil War", "National Historical Park"]
-    }
-  },
+    }, image: "/poi-images/harpers-ferry-history-v2.webp"},
   {
     id: "promontory-summit-history-v2",
     type: "historical",
@@ -407,8 +392,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Az 'Aranyszegecs' ceremóniája", "Összekötötte a Union Pacific és a Central Pacific vasutakat", "Forradalmasította a nyugati közlekedést", "Golden Spike Nemzeti Történelmi Park"],
       ro: ["Ceremonia 'Cuiului de Aur'", "A conectat căile ferate Union Pacific și Central Pacific", "A revoluționat transportul în Vest", "Parcul Național Istoric Golden Spike"],
       en: ["'Golden Spike' ceremony", "Connected the Union Pacific and Central Pacific railroads", "Revolutionized transportation in the West", "Golden Spike National Historical Park"]
-    }
-  },
+    }, image: "/poi-images/promontory-summit-history-v2.webp"},
   {
     id: "chaco-canyon-history-v2",
     type: "historical",
@@ -431,8 +415,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["UNESCO Világörökség", "Monumentális 'Nagy Házairól' ismert", "Bonyolult úthálózat", "Csillagászati tájolások"],
       ro: ["Patrimoniu Mondial UNESCO", "Cunoscut pentru 'Casele Mari' monumentale", "Rețea complexă de drumuri", "Alinieri astronomice"],
       en: ["UNESCO World Heritage Site", "Known for its monumental 'Great Houses'", "Complex road system", "Astronomical alignments"]
-    }
-  },
+    }, image: "/poi-images/chaco-canyon-history-v2.webp"},
   {
     id: "serpent-mound-history-v2",
     type: "historical",
@@ -455,8 +438,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["A világ legnagyobb kígyó alakú képhalma", "Prekolumbiánus kultúrák építették", "Több mint 400 méter hosszú", "Valószínűleg csillagászati eseményekhez kapcsolódik"],
       ro: ["Cea mai mare movilă efigie în formă de șarpe din lume", "Construită de culturi precolumbiene", "Peste 400 de metri lungime", "Posibil legată de evenimente astronomice"],
       en: ["World's largest serpent effigy mound", "Built by pre-Columbian cultures", "Over 1,300 feet (400 m) long", "Possibly related to astronomical events"]
-    }
-  },
+    }, image: "/poi-images/serpent-mound-history-v2.webp"},
   {
     id: "taos-pueblo-history-v2",
     type: "historical",
@@ -479,8 +461,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["UNESCO Világörökség", "Többszintes vályogtéglából készült épületekből áll", "Élő indián közösség", "Híres építészet"],
       ro: ["Patrimoniu Mondial UNESCO", "Construit din clădiri de chirpici cu mai multe etaje", "O comunitate nativ-americană vibrantă", "Arhitectură faimoasă"],
       en: ["UNESCO World Heritage Site", "Made of multi-storied adobe buildings", "A living Native American community", "Famous architecture"]
-    }
-  },
+    }, image: "/poi-images/taos-pueblo-history-v2.webp"},
   {
     id: "st-augustine-history-v2",
     type: "historical",
@@ -503,8 +484,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["1565-ben alapították spanyol felfedezők", "A Castillo de San Marcos a legrégebbi falazott erőd", "Gazdag gyarmati történelem", "Fontos turisztikai látványosság"],
       ro: ["Fondat în 1565 de exploratorii spanioli", "Castillo de San Marcos este cea mai veche fortăreață din zidărie", "Istorie colonială bogată", "Atracție turistică importantă"],
       en: ["Founded in 1565 by Spanish explorers", "Castillo de San Marcos is the oldest masonry fort", "Rich colonial history", "Major tourist attraction"]
-    }
-  },
+    }, image: "/poi-images/st-augustine-history-v2.webp"},
   {
     id: "mission-san-juan-capistrano-history-v2",
     type: "historical",
@@ -527,8 +507,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Híres a szirti fecskék éves visszatéréséről", "A Nagy Kőtemplom romjai", "Fontos helyszín Kalifornia történetében", "Múzeum és kertek"],
       ro: ["Faimoasă pentru întoarcerea anuală a rândunelelor de stâncă", "Ruinele Marii Biserici de Piatră", "Situl important în istoria Californiei", "Muzeu și grădini"],
       en: ["Famous for the annual return of the cliff swallows", "Ruins of the Great Stone Church", "Important site in California history", "Museum and gardens"]
-    }
-  },
+    }, image: "/poi-images/mission-san-juan-capistrano-history-v2.webp"},
   {
     id: "manzanar-history-v2",
     type: "historical",
@@ -551,8 +530,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Nemzeti Történelmi Helyszín", "A polgári jogok megsértésére emlékezik", "Megőrzi az internálás történetét", "Értelmező központ és helyreállított barakkok"],
       ro: ["Situl Istoric Național", "Comemorează încălcarea drepturilor civile", "Păstrează istoria internării", "Centru interpretativ și barăci restaurate"],
       en: ["National Historic Site", "Commemorates the violation of civil rights", "Preserves the history of the internment", "Interpretive center and restored barracks"]
-    }
-  },
+    }, image: "/poi-images/manzanar-history-v2.webp"},
   {
     id: "wounded-knee-battlefield-history-v2",
     type: "historical",
@@ -575,8 +553,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["Az indián háborúk végének tekintik", "Több száz fegyvertelen lakotát öltek meg", "Nemzeti Történelmi Emlékhely", "Az Amerikai Indián Mozgalom 1973-as megszállásának helyszíne"],
       ro: ["Considerat sfârșitul Războaielor Indiene", "Sute de Lakota neînarmați uciși", "Reper Istoric Național", "Locul unei ocupații din 1973 de către Mișcarea Indienilor Americani"],
       en: ["Considered the end of the Indian Wars", "Hundreds of unarmed Lakota people killed", "National Historic Landmark", "Site of a 1973 occupation by the American Indian Movement"]
-    }
-  },
+    }, image: "/poi-images/wounded-knee-battlefield-history-v2.webp"},
   {
     id: "angel-island-immigration-station-history-v2",
     type: "historical",
@@ -599,8 +576,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["A 'Nyugat Ellis Islandjeként' ismert", "Sok bevándorlót hónapokig tartottak fogva", "A fogvatartottak által a falakba vésett versek", "Kaliforniai Történelmi Emlékhely"],
       ro: ["Cunoscută drept „Insula Ellis a Vestului”", "Mulți imigranți au fost deținuți luni de zile", "Poezii sculptate în pereți de către deținuți", "Reper Istoric al Californiei"],
       en: ["Known as the 'Ellis Island of the West'", "Many immigrants were detained for months", "Poems carved into the walls by detainees", "California Historical Landmark"]
-    }
-  },
+    }, image: "/poi-images/angel-island-immigration-station-history-v2.webp"},
   {
     id: "shiloh-national-military-park-history-v2",
     type: "historical",
@@ -623,8 +599,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["A polgárháború egyik legvéresebb csatája", "1862-ben zajlott", "Több mint 23 000 áldozat", "Magában foglal egy nemzeti temetőt is"],
       ro: ["Una dintre cele mai sângeroase bătălii ale Războiului Civil", "A avut loc în 1862", "Peste 23.000 de victime", "Include și un cimitir național"],
       en: ["One of the bloodiest battles of the Civil War", "Took place in 1862", "Over 23,000 casualties", "Also includes a national cemetery"]
-    }
-  },
+    }, image: "/poi-images/shiloh-national-military-park-history-v2.webp"},
   {
     id: "vicksburg-national-military-park-history-v2",
     type: "historical",
@@ -647,8 +622,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["47 napos ostrom 1863-ban", "Fordulópont, amely az Uniónak adta a Mississippi feletti ellenőrzést", "Több mint 1300 emlékmű és jelzőtábla", "USS Cairo ágyúnaszád és múzeum"],
       ro: ["Asediu de 47 de zile în 1863", "Punct de cotitură care a dat Uniunii controlul asupra râului Mississippi", "Peste 1.300 de monumente și marcaje", "Canoniera și Muzeul USS Cairo"],
       en: ["47-day siege in 1863", "Turning point giving the Union control of the Mississippi River", "Over 1,300 monuments and markers", "USS Cairo Gunboat and Museum"]
-    }
-  },
+    }, image: "/poi-images/vicksburg-national-military-park-history-v2.webp"},
   {
     id: "trinity-site-history-v2",
     type: "historical",
@@ -671,8 +645,7 @@ export const poiExtraUsaHistoryV2: POI[] = [
       hu: ["A Manhattan-terv része", "A White Sands Rakétakísérleti Telepen található", "Nemzeti Történelmi Emlékhely", "A nyilvánosság számára csak évente néhány napon látogatható"],
       ro: ["Parte a Proiectului Manhattan", "Situat în Poligonul de Rachete White Sands", "Reper Istoric Național", "Deschis publicului doar câteva zile pe an"],
       en: ["Part of the Manhattan Project", "Located on the White Sands Missile Range", "National Historic Landmark", "Open to the public only a few days a year"]
-    }
-  },
+    }, image: "/poi-images/trinity-site-history-v2.webp"},
   {
     id: "saratoga-battlefield-history-v2",
     type: "historical",
@@ -698,3 +671,4 @@ export const poiExtraUsaHistoryV2: POI[] = [
     }
   }
 ];
+

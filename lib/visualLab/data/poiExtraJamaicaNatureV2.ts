@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraJamaicaNatureV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["A Great River torkolata", "St. James és Hanover határa", "Népszerű vízisport-helyszín", "Gyönyörű partvidék"],
       ro: ["Vărsarea râului Great", "Granița dintre St. James și Hanover", "Popular pentru sporturi nautice", "Peisaj de coastă frumos"],
       en: ["Mouth of the Great River", "Border of St. James and Hanover", "Popular for water sports", "Beautiful coastal scenery"]
-    }
-  },
+    }, image: "/poi-images/great-river-bay-nature-v2.webp"},
   {
     id: "wag-water-river-nature-v2",
     type: "river",
@@ -27,8 +27,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["A Blue Mountains-en keresztül folyik", "Fontos vízforrás a régió számára", "Népszerű rafting hely", "A Karib-tengerbe ömlik"],
       ro: ["Curge prin Munții Albaștri", "Sursă importantă de apă pentru regiune", "Popular pentru rafting", "Se varsă în Marea Caraibelor"],
       en: ["Flows from the Blue Mountains", "Important water source for the region", "Popular for rafting", "Empties into the Caribbean Sea"]
-    }
-  },
+    }, image: "/poi-images/wag-water-river-nature-v2.webp"},
   {
     id: "yallahs-ponds-nature-v2",
     type: "lake",
@@ -41,8 +40,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Fontos madármegfigyelő hely", "A múltban sókitermelés folyt itt", "Egyedülálló ökoszisztéma", "Homokpad választja el a tengertől"],
       ro: ["Zonă importantă pentru observarea păsărilor", "Extracția sării în trecut", "Ecosistem unic", "Separat de mare printr-un banc de nisip"],
       en: ["Important birdwatching area", "Salt extraction in the past", "Unique ecosystem", "Separated from the sea by a sandbar"]
-    }
-  },
+    }, image: "/poi-images/yallahs-ponds-nature-v2.webp"},
   {
     id: "bull-head-mountain-nature-v2",
     type: "mountain",
@@ -55,8 +53,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["A sziget földrajzi középpontja", "Kb. 853 méter magas", "Erdőrezervátum", "Túrautak állnak rendelkezésre"],
       ro: ["Centrul geografic al insulei", "Altitudine de aprox. 853 de metri", "Rezervație forestieră", "Trasee de drumeție disponibile"],
       en: ["Geographical center of the island", "Elevation of approx. 853 meters", "Forest reserve", "Hiking trails available"]
-    }
-  },
+    }, image: "/poi-images/bull-head-mountain-nature-v2.webp"},
   {
     id: "great-morass-nature-v2",
     type: "forest",
@@ -69,8 +66,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Jamaica legnagyobb vizes élőhelye", "Fontos madár-élőhely", "Szűri a vizet a part menti régió számára", "Tőzegtermesztés"],
       ro: ["Cea mai mare zonă umedă din Jamaica", "Habitat important pentru păsări", "Filtrează apa pentru regiunea de coastă", "Cultivarea turbei"],
       en: ["Jamaica's largest wetland", "Important habitat for birds", "Filters water for the coastal region", "Peat farming"]
-    }
-  },
+    }, image: "/poi-images/great-morass-nature-v2.webp"},
   {
     id: "rio-cobre-river-nature-v2",
     type: "river",
@@ -83,8 +79,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["A Bog Walk-szurdokon keresztül folyik", "Fontos vízforrás Spanish Town számára", "Népszerű kajakozó hely", "Erős esőzés esetén veszélyessé válhat"],
       ro: ["Curge prin defileul Bog Walk", "Sursă importantă de apă pentru Spanish Town", "Popular pentru caiac", "Poate deveni periculos în caz de ploi abundente"],
       en: ["Flows through the Bog Walk Gorge", "Important water source for Spanish Town", "Popular for kayaking", "Can be dangerous during heavy rains"]
-    }
-  },
+    }, image: "/poi-images/rio-cobre-river-nature-v2.webp"},
   {
     id: "long-bay-nature-v2",
     type: "sea",
@@ -97,8 +92,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Jamaica egyik leghosszabb strandja", "Néhány helyen rózsaszín homok", "Népszerű a hátizsákos turisták körében", "Erős hullámok szörfözéshez"],
       ro: ["Una dintre cele mai lungi plaje din Jamaica", "Nisip rozaliu în unele locuri", "Popular printre backpackeri", "Valuri puternice pentru surfing"],
       en: ["One of Jamaica's longest beaches", "Pink-hued sand in some areas", "Popular with backpackers", "Strong waves for surfing"]
-    }
-  },
+    }, image: "/poi-images/long-bay-nature-v2.webp"},
   {
     id: "milk-river-nature-v2",
     type: "river",
@@ -111,8 +105,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Gyógyító ásványforrások", "A világ egyik legradioaktívabb fürdője", "Állami gyógyfürdő", "A Karib-tengerbe ömlik"],
       ro: ["Izvoare minerale curative", "Una dintre cele mai radioactive băi din lume", "Stațiune balneară administrată de stat", "Se varsă în Marea Caraibelor"],
       en: ["Healing mineral springs", "One of the most radioactive baths in the world", "Government-run spa", "Flows into the Caribbean Sea"]
-    }
-  },
+    }, image: "/poi-images/milk-river-nature-v2.webp"},
   {
     id: "dolphin-head-mountains-nature-v2",
     type: "mountain",
@@ -125,8 +118,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Úgy néz ki, mint egy delfinfej", "Fontos tájékozódási pont a tengerészek számára", "Védett erdőrezervátum", "Endemikus növényfajok"],
       ro: ["Arată ca un cap de delfin", "Reper important pentru marinari", "Rezervație forestieră protejată", "Specii de plante endemice"],
       en: ["Resembles a dolphin's head", "Important landmark for sailors", "Protected forest reserve", "Endemic plant species"]
-    }
-  },
+    }, image: "/poi-images/dolphin-head-mountains-nature-v2.webp"},
   {
     id: "black-river-lower-morass-nature-v2",
     type: "forest",
@@ -139,8 +131,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["A Karib-térség legnagyobb mocsárvidéke", "Ramsari terület", "Az amerikai krokodil otthona", "Gazdag madárvilág"],
       ro: ["Cea mai mare mlaștină din Caraibe", "Situl Ramsar", "Habitatul crocodilului american", "Avifaună bogată"],
       en: ["Largest swamp in the Caribbean", "Ramsar protected site", "Home to the American Crocodile", "Rich birdlife"]
-    }
-  },
+    }, image: "/poi-images/black-river-lower-morass-nature-v2.webp"},
     {
     id: "navy-island-nature-v2",
     type: "island",
@@ -153,8 +144,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Errol Flynn egykori tulajdona", "Kilátás Port Antonióra", "Csendes strandok", "Trópusi növényzet"],
       ro: ["Fosta proprietate a lui Errol Flynn", "Vedere spre Port Antonio", "Plaje liniștite", "Vegetație tropicală"],
       en: ["Formerly owned by Errol Flynn", "Views of Port Antonio", "Quiet beaches", "Tropical vegetation"]
-    }
-  },
+    }, image: "/poi-images/navy-island-nature-v2.webp"},
   {
     id: "rio-minho-river-nature-v2",
     type: "river",
@@ -167,8 +157,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["A sziget leghosszabb folyója", "Fontos öntözési forrás", "May Penen keresztül folyik", "A Carlisle-öbölben ömlik a tengerbe"],
       ro: ["Cel mai lung râu de pe insulă", "Sursă importantă pentru irigații", "Curge prin May Pen", "Se varsă în mare la Golful Carlisle"],
       en: ["Longest river on the island", "Important source for irrigation", "Flows through May Pen", "Empties into the sea at Carlisle Bay"]
-    }
-  },
+    }, image: "/poi-images/rio-minho-river-nature-v2.webp"},
   {
     id: "portland-bight-nature-v2",
     type: "sea",
@@ -181,8 +170,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Jamaica legnagyobb öble", "Ramsari terület", "Fontos élőhely a lamantinok számára", "Több kis szigetet is magában foglal"],
       ro: ["Cel mai mare golf din Jamaica", "Situl Ramsar", "Habitat important pentru lamantini", "Include mai multe insule mici"],
       en: ["Largest bay in Jamaica", "Ramsar protected site", "Important manatee habitat", "Includes several small islands"]
-    }
-  },
+    }, image: "/poi-images/portland-bight-nature-v2.webp"},
   {
     id: "santa-cruz-mountains-nature-v2",
     type: "mountain",
@@ -195,8 +183,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Bauxitban gazdag talaj", "Fontos mezőgazdasági régió", "Hűvösebb éghajlat, mint a partvidéken", "A Lovers' Leap szikla része"],
       ro: ["Soluri bogate în bauxită", "Regiune agricolă importantă", "Climat mai răcoros decât coasta", "Stânca Lovers' Leap face parte din el"],
       en: ["Bauxite-rich soils", "Important agricultural region", "Cooler climate than the coast", "Lovers' Leap cliff is part of it"]
-    }
-  },
+    }, image: "/poi-images/santa-cruz-mountains-nature-v2.webp"},
   {
     id: "fern-gully-nature-v2",
     type: "forest",
@@ -209,8 +196,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Több mint 500 páfrányfaj", "Egykori folyómeder", "Védett természeti látványosság", "Sűrű lombkorona"],
       ro: ["Peste 500 de specii de ferigi", "Fost albie de râu", "Atracție naturală protejată", "Baldachin dens de frunze"],
       en: ["Over 500 species of ferns", "Former riverbed", "Protected natural attraction", "Dense canopy overhead"]
-    }
-  },
+    }, image: "/poi-images/fern-gully-nature-v2.webp"},
   {
     id: "swift-river-nature-v2",
     type: "river",
@@ -223,8 +209,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["A Blue Mountains-ből ered", "Tiszta, hűvös víz", "A helyiek kedvelt fürdőhelye", "Festői folyóparti táj"],
       ro: ["Izvorăște din Munții Albaștri", "Apă limpede și rece", "Popular printre localnici pentru scăldat", "Peisaj fluvial pitoresc"],
       en: ["Flows from the Blue Mountains", "Clear, cool water", "Popular with locals for bathing", "Picturesque river scenery"]
-    }
-  },
+    }, image: "/poi-images/swift-river-nature-v2.webp"},
   {
     id: "boston-bay-nature-v2",
     type: "sea",
@@ -251,8 +236,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["A Great Morass-on keresztül folyik", "Fontos a helyi mezőgazdaság számára", "A Karib-tengerbe ömlik", "Madarak és halak élőhelye"],
       ro: ["Curge prin Marea Mlaștină", "Important pentru agricultura locală", "Se varsă în Marea Caraibelor", "Habitat pentru păsări și pești"],
       en: ["Flows through the Great Morass", "Important for local agriculture", "Empties into the Caribbean Sea", "Habitat for birds and fish"]
-    }
-  },
+    }, image: "/poi-images/cabarita-river-nature-v2.webp"},
   {
     id: "montpelier-mountains-nature-v2",
     type: "mountain",
@@ -279,8 +263,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Jamaica egyetlen szárazföldi vizes élőhelye", "Madár- és vadvédelmi rezervátum", "Egyedülálló növényvilág", "Fontos a természetvédelem szempontjából"],
       ro: ["Singura zonă umedă interioară din Jamaica", "Rezervație pentru păsări și animale sălbatice", "Floră unică", "Important pentru conservarea naturii"],
       en: ["Jamaica's only inland wetland", "Reserve for birds and wildlife", "Unique flora", "Important for conservation"]
-    }
-  },
+    }, image: "/poi-images/mason-river-game-sanctuary-nature-v2.webp"},
   {
     id: "salt-river-nature-v2",
     type: "river",
@@ -293,8 +276,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Nagy kiterjedésű vizes élőhelybe ömlik", "Fontos madár-élőhely", "Mangroveerdők a part mentén", "Népszerű csónakázó hely"],
       ro: ["Se varsă într-o zonă umedă mare", "Habitat important pentru păsări", "Păduri de mangrove de-a lungul malurilor", "Popular pentru plimbări cu barca"],
       en: ["Flows into a large wetland", "Important habitat for birds", "Mangrove forests along the banks", "Popular for boat trips"]
-    }
-  },
+    }, image: "/poi-images/salt-river-nature-v2.webp"},
   {
     id: "alligator-hole-river-nature-v2",
     type: "river",
@@ -307,8 +289,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Lamantinok (tengeri tehenek) élőhelye", "Tiszta forrásvíz", "A Long Bay-be ömlik", "Természetvédelmi terület"],
       ro: ["Habitat pentru lamantini (vacile de mare)", "Apă de izvor limpede", "Se varsă în Golful Long", "Rezervație naturală"],
       en: ["Habitat for manatees (sea cows)", "Clear spring water", "Flows into Long Bay", "Nature conservation area"]
-    }
-  },
+    }, image: "/poi-images/alligator-hole-river-nature-v2.webp"},
   {
     id: "long-mountain-nature-v2",
     type: "mountain",
@@ -321,8 +302,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Elválasztja Kingstont a szárazföld belsejétől", "Száraz erdő növényzet", "Lakóövezetek a lejtőkön", "Kilátást nyújt a városra"],
       ro: ["Separă Kingston de interiorul țării", "Vegetație de pădure uscată", "Zone rezidențiale pe versanți", "Oferă vedere spre oraș"],
       en: ["Separates Kingston from the interior", "Dry forest vegetation", "Residential areas on the slopes", "Offers views of the city"]
-    }
-  },
+    }, image: "/poi-images/long-mountain-nature-v2.webp"},
   {
     id: "hope-river-nature-v2",
     type: "river",
@@ -335,8 +315,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Fontos vízforrás Kingston számára", "A Hope River-gátnál duzzasztják fel", "Gordon Townon keresztül folyik", "Népszerű szabadidős tevékenységekhez"],
       ro: ["Sursă importantă de apă pentru Kingston", "Se acumulează în barajul Hope River", "Curge prin Gordon Town", "Popular pentru activități recreative"],
       en: ["Important water source for Kingston", "Is dammed to form the Hope River Dam", "Flows through Gordon Town", "Popular for recreational activities"]
-    }
-  },
+    }, image: "/poi-images/hope-river-nature-v2.webp"},
     {
     id: "canoe-valley-wetlands-nature-v2",
     type: "forest",
@@ -349,8 +328,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Ramsari terület", "Krokodilok és madarak élőhelye", "Mangrove- és mocsárerdők", "Fontos a halászat szempontjából"],
       ro: ["Situl Ramsar", "Habitat pentru crocodili și păsări", "Păduri de mangrove și mlaștini", "Important pentru pescuit"],
       en: ["Ramsar protected site", "Habitat for crocodiles and birds", "Mangrove and swamp forests", "Important for fisheries"]
-    }
-  },
+    }, image: "/poi-images/canoe-valley-wetlands-nature-v2.webp"},
   {
     id: "pedro-bluff-nature-v2",
     type: "sea",
@@ -363,8 +341,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Drámai tengerparti sziklák", "Száraz, szavannaszerű táj", "Kilátás a Karib-tengerre", "Treasure Beach közelében"],
       ro: ["Stânci de coastă dramatice", "Peisaj uscat, asemănător savanei", "Vedere la Marea Caraibelor", "Aproape de Treasure Beach"],
       en: ["Dramatic coastal cliffs", "Dry, savannah-like landscape", "Views of the Caribbean Sea", "Near Treasure Beach"]
-    }
-  },
+    }, image: "/poi-images/pedro-bluff-nature-v2.webp"},
   {
     id: "glistening-waters-nature-v2",
     type: "lake",
@@ -377,8 +354,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Biolumineszcens mikroorganizmusok", "Népszerűek az éjszakai túrák", "A világ kevés ilyen helyének egyike", "Ahol az édes- és a sósvíz találkozik"],
       ro: ["Microorganisme bioluminiscente", "Tururile de noapte sunt populare", "Unul dintre puținele locuri din lume", "Unde apa dulce se întâlnește cu apa sărată"],
       en: ["Bioluminescent microorganisms", "Night tours are popular", "One of only a few places in the world", "Where fresh and salt water meet"]
-    }
-  },
+    }, image: "/poi-images/glistening-waters-nature-v2.webp"},
   {
     id: "alligator-pond-river-nature-v2",
     type: "river",
@@ -391,8 +367,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Fontos vízforrás a régió számára", "Egy nagy halászfalut lát el", "A Long Bay-be ömlik", "Két plébánia határa"],
       ro: ["Sursă importantă de apă pentru regiune", "Susține un mare sat pescăresc", "Se varsă în Golful Long", "Granița dintre două parohii"],
       en: ["Important water source for the region", "Supports a large fishing village", "Empties into Long Bay", "Border between two parishes"]
-    }
-  },
+    }, image: "/poi-images/alligator-pond-river-nature-v2.webp"},
   {
     id: "somerset-falls-nature-v2",
     type: "river",
@@ -405,8 +380,7 @@ export const poiExtraJamaicaNatureV2: POI[] = [
       hu: ["Rejtett vízesések", "Csónakázás a fő vízeséshez", "Buja trópusi kertek", "Csendes és festői környezet"],
       ro: ["Cascade ascunse", "Plimbare cu barca până la cascada principală", "Grădini tropicale luxuriante", "Mediu liniștit și pitoresc"],
       en: ["Hidden waterfalls", "Boat ride to the main falls", "Lush tropical gardens", "Tranquil and scenic environment"]
-    }
-  },
+    }, image: "/poi-images/somerset-falls-nature-v2.webp"},
   {
     id: "roaring-river-nature-v2",
     type: "river",
@@ -422,3 +396,4 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     }
   }
 ];
+

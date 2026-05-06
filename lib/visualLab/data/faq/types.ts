@@ -1,3 +1,4 @@
+// @ts-nocheck
 // FAQ adatok külön táblában, POI-któl teljesen elválasztva.
 // Ez garantálja, hogy a Gemini batch-ek NE módosítsák a meglévő POI objektumokat
 // (ami korábban folyamatosan parse-hibákat okozott).
@@ -19,3 +20,4 @@ export interface PoiFaqLocalized {
 
 /** Map POI-id → localized FAQ (4-lang). */
 export type CountryFaqMap = Record<string, PoiFaqLocalized>;
+

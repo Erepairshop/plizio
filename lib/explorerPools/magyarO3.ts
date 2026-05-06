@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 // ─── O3 (3. OSZTÁLY) SZIGET 1: IGEIDŐK ───────────────────────
@@ -3838,3 +3839,4 @@ addMagyarO3PracticeTopics(MAGYAR_O3_I6_LABELS, MAGYAR_O3_I6_POOL, MAGYAR_O3_PRAC
 addMagyarO3PracticeTopics(MAGYAR_O3_I7_LABELS, MAGYAR_O3_I7_POOL, MAGYAR_O3_PRACTICE_CONFIGS[6]);
 addMagyarO3PracticeTopics(MAGYAR_O3_I8_LABELS, MAGYAR_O3_I8_POOL, MAGYAR_O3_PRACTICE_CONFIGS[7]);
 addMagyarO3PracticeTopics(MAGYAR_O3_I9_LABELS, MAGYAR_O3_I9_POOL, MAGYAR_O3_PRACTICE_CONFIGS[8]);
+

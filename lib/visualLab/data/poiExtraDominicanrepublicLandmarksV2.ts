@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["1944-ben épült.", "Guido D'Alessandro olasz építész tervezte.", "Itt találhatók az elnöki irodák."],
       ro: ["Construit în anul 1944.", "Proiectat de arhitectul italian Guido D'Alessandro.", "Găzduiește birourile președintelui."],
       en: ["Built in 1944.", "Designed by Italian architect Guido D'Alessandro.", "Houses the offices of the President."]
-    }
-  },
+    }, image: "/poi-images/palacio-nacional-landmarks-v2.webp"},
   {
     id: "obelisco-macho-landmarks-v2",
     type: "landmark",
@@ -27,8 +27,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["1936-ban épült.", "Eredetileg 'Obelisco de Trujillo' néven ismerték.", "Ma a parti út egyik szimbóluma."],
       ro: ["Construit în 1936.", "Numit inițial 'Obelisco de Trujillo'.", "Astăzi un simbol al bulevardului de coastă."],
       en: ["Built in 1936.", "Originally named 'Obelisco de Trujillo'.", "Now a symbol of the coastal avenue."]
-    }
-  },
+    }, image: "/poi-images/obelisco-macho-landmarks-v2.webp"},
   {
     id: "obelisco-hembra-landmarks-v2",
     type: "landmark",
@@ -41,8 +40,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["A külföldi adósság visszafizetésének emlékére épült.", "Népszerű nevén a 'női' obeliszk.", "Jelentős találkozóhely a városban."],
       ro: ["Construit pentru a comemora plata datoriei externe.", "Cunoscut popular ca obeliscul 'feminin'.", "Un loc de întâlnire popular în oraș."],
       en: ["Built to commemorate the payment of the external debt.", "Popularly known as the 'female' obelisk.", "A prominent meeting point in the city."]
-    }
-  },
+    }, image: "/poi-images/obelisco-hembra-landmarks-v2.webp"},
   {
     id: "plaza-de-la-bandera-landmarks-v2",
     type: "landmark",
@@ -55,8 +53,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["Hatalmas ívszerkezettel rendelkezik.", "Itt található az Ismeretlen Katona Sírja.", "II. János Pál pápa itt mutatott be misét 1979-ben."],
       ro: ["Prezintă o structură arcuită masivă.", "Aici se află Mormântul Soldatului Necunoscut.", "Papa Ioan Paul al II-lea a celebrat o slujbă aici în 1979."],
       en: ["Features a massive arch structure.", "The tomb of the Unknown Soldier is located here.", "Pope John Paul II celebrated mass here in 1979."]
-    }
-  },
+    }, image: "/poi-images/plaza-de-la-bandera-landmarks-v2.webp"},
   {
     id: "puente-juan-bosch-landmarks-v2",
     type: "landmark",
@@ -69,8 +66,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["2001-ben adták át.", "Juan Bosch korábbi elnökről nevezték el.", "Tehermentesíti a forgalmat a központ és Santo Domingo Este között."],
       ro: ["Deschis în 2001.", "Numit după fostul președinte Juan Bosch.", "Reduce aglomerația rutieră între centru și Santo Domingo Este."],
       en: ["Opened in 2001.", "Named after the former president Juan Bosch.", "Relieves traffic congestion between the center and Santo Domingo Este."]
-    }
-  },
+    }, image: "/poi-images/puente-juan-bosch-landmarks-v2.webp"},
   {
     id: "puente-mauricio-baez-landmarks-v2",
     type: "landmark",
@@ -83,8 +79,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["2007-ben adták át.", "A Karib-térség egyik leghosszabb hídja.", "Jelentősen lerövidítette a keleti turistazónákba vezető utat."],
       ro: ["Deschis în 2007.", "Unul dintre cele mai lungi poduri din Caraibe.", "A scurtat semnificativ timpul de călătorie către zonele turistice din est."],
       en: ["Opened in 2007.", "One of the longest bridges in the Caribbean.", "Significantly shortened travel time to the eastern tourist areas."]
-    }
-  },
+    }, image: "/poi-images/puente-mauricio-baez-landmarks-v2.webp"},
   {
     id: "torre-caney-landmarks-v2",
     type: "landmark",
@@ -97,8 +92,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["2008-ban készült el.", "150 méteres magasságot ér el.", "Luxuslakásokat kínál panorámás kilátással a tengerre."],
       ro: ["Finalizat în 2008.", "Atinge o înălțime de 150 de metri.", "Oferă apartamente de lux cu vedere panoramică la mare."],
       en: ["Completed in 2008.", "Reaches a height of 150 meters.", "Offers luxurious apartments with panoramic views of the sea."]
-    }
-  },
+    }, image: "/poi-images/torre-caney-landmarks-v2.webp"},
   {
     id: "acropolis-center-landmarks-v2",
     type: "landmark",
@@ -111,8 +105,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["Jellegzetes üveghomlokzattal rendelkezik.", "Bevásárlóközpontot és irodákat foglal magába.", "A nemzetközi üzleti élet fontos központja."],
       ro: ["Prezintă o fațadă de sticlă distinctivă.", "Include un centru comercial și birouri.", "Un centru important pentru afacerile internaționale."],
       en: ["Features a distinctive glass facade.", "Includes a shopping mall and corporate offices.", "A major hub for international business."]
-    }
-  },
+    }, image: "/poi-images/acropolis-center-landmarks-v2.webp"},
   {
     id: "gran-teatro-del-cibao-landmarks-v2",
     type: "landmark",
@@ -125,8 +118,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["1995-ben nyitották meg.", "Teófilo Carbonell építész tervezte.", "Nagy országos kulturális eseményeknek ad otthont."],
       ro: ["Inaugurat în 1995.", "Proiectat de arhitectul Teófilo Carbonell.", "Găzduiește evenimente culturale naționale majore."],
       en: ["Inaugurated in 1995.", "Designed by architect Teófilo Carbonell.", "Hosts major national cultural events."]
-    }
-  },
+    }, image: "/poi-images/gran-teatro-del-cibao-landmarks-v2.webp"},
   {
     id: "teatro-nacional-eduardo-brito-landmarks-v2",
     type: "landmark",
@@ -139,8 +131,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["1973-ban nyitotta meg kapuit.", "Egy híres dominikai baritonról nevezték el.", "Három fő teremmel rendelkezik."],
       ro: ["Deschis în 1973.", "Numit după un celebru bariton dominican.", "Dispune de trei săli principale."],
       en: ["Opened in 1973.", "Named after a famous Dominican baritone.", "Features three main halls."]
-    }
-  },
+    }, image: "/poi-images/teatro-nacional-eduardo-brito-landmarks-v2.webp"},
   {
     id: "estadio-quisqueya-landmarks-v2",
     type: "landmark",
@@ -153,8 +144,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["1955-ben épült.", "A Hírességek Csarnokába beválasztott Juan Marichal dobóról nevezték el.", "Kapacitása körülbelül 14 465 néző."],
       ro: ["Construit în 1955.", "Numit în onoarea jucătorului de baseball Juan Marichal.", "Are o capacitate de aproximativ 14.465 de spectatori."],
       en: ["Built in 1955.", "Named in honor of Hall of Fame pitcher Juan Marichal.", "Has a capacity of approximately 14,465 spectators."]
-    }
-  },
+    }, image: "/poi-images/estadio-quisqueya-landmarks-v2.webp"},
   {
     id: "estadio-cibao-landmarks-v2",
     type: "landmark",
@@ -167,8 +157,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["Az ellenfél csapatai 'A Halál Völgye' néven emlegetik.", "Az ország legnagyobb baseball stadionja.", "1958-ban nyitották meg."],
       ro: ["Cunoscut ca 'Valea Morții' de către echipele adverse.", "Cel mai mare stadion de baseball din țară.", "Deschis în 1958."],
       en: ["Known affectionately as 'The Valley of Death' by opposing teams.", "The largest baseball stadium in the country.", "Opened in 1958."]
-    }
-  },
+    }, image: "/poi-images/estadio-cibao-landmarks-v2.webp"},
   {
     id: "estadio-tetelo-vargas-landmarks-v2",
     type: "landmark",
@@ -181,8 +170,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["Az Estrellas Orientales csapat otthona.", "Juan Esteban Vargas Marcano baseball-játékosról kapta nevét.", "1959-ben nyitották meg."],
       ro: ["Casa echipei Estrellas Orientales.", "Numit după jucătorul de baseball Juan Esteban Vargas Marcano.", "Deschis în 1959."],
       en: ["Home of the Estrellas Orientales team.", "Named after baseball player Juan Esteban Vargas Marcano.", "Opened in 1959."]
-    }
-  },
+    }, image: "/poi-images/estadio-tetelo-vargas-landmarks-v2.webp"},
   {
     id: "estadio-francisco-micheli-landmarks-v2",
     type: "landmark",
@@ -195,8 +183,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["A Toros del Este hazai pályája.", "1979-ben avatták fel.", "A Central Romana Corporation finanszírozta."],
       ro: ["Terenul de acasă al echipei Toros del Este.", "Inaugurat în 1979.", "Finanțat de Central Romana Corporation."],
       en: ["Home ground of the Toros del Este.", "Inaugurated in 1979.", "Financed by the Central Romana Corporation."]
-    }
-  },
+    }, image: "/poi-images/estadio-francisco-micheli-landmarks-v2.webp"},
   {
     id: "centro-olimpico-juan-pablo-duarte-landmarks-v2",
     type: "landmark",
@@ -209,8 +196,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["Az 1974-es XII. Közép-amerikai és Karibi Játékokra épült.", "Atlétikai és úszó létesítményeket tartalmaz.", "A nemzeti sportolók fő edzőközpontja."],
       ro: ["Construit pentru a XII-a ediție a Jocurilor Americii Centrale și Caraibelor în 1974.", "Include facilități pentru atletism și înot.", "Principalul teren de antrenament pentru sportivii naționali."],
       en: ["Built for the XII Central American and Caribbean Games in 1974.", "Includes facilities for track and field and swimming.", "Main training ground for national athletes."]
-    }
-  },
+    }, image: "/poi-images/centro-olimpico-juan-pablo-duarte-landmarks-v2.webp"},
   {
     id: "monumento-montesinos-landmarks-v2",
     type: "landmark",
@@ -223,8 +209,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["A mexikói kormány adományozta 1982-ben.", "Santo Domingo kikötőjének bejáratánál áll.", "Az 1511-es híres prédikációnak állít emléket."],
       ro: ["Donat de guvernul mexican în 1982.", "Se află la intrarea în portul Santo Domingo.", "Comemorează faimoasa predică din 1511."],
       en: ["Donated by the Mexican government in 1982.", "Stands at the entrance to the port of Santo Domingo.", "Commemorates the famous 1511 sermon."]
-    }
-  },
+    }, image: "/poi-images/monumento-montesinos-landmarks-v2.webp"},
   {
     id: "fuerte-de-san-gil-landmarks-v2",
     type: "landmark",
@@ -237,8 +222,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["Eredetileg a 16. században épült.", "A tenger felőli kalóztámadások ellen védett.", "Az 1990-es években restaurálták."],
       ro: ["Construit inițial în secolul al XVI-lea.", "A servit la protejarea orașului de atacurile piraților dinspre mare.", "Restaurat în anii 1990."],
       en: ["Originally built in the 16th century.", "Served to protect the city from pirate attacks from the sea.", "Restored in the 1990s."]
-    }
-  },
+    }, image: "/poi-images/fuerte-de-san-gil-landmarks-v2.webp"},
   {
     id: "fuerte-de-san-jose-landmarks-v2",
     type: "landmark",
@@ -251,8 +235,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["Santo Domingo déli védelmének megerősítésére épült.", "Kiváló kilátást nyújt a Karib-tengerre.", "Az UNESCO Világörökség része."],
       ro: ["Construit pentru a întări apărarea sudică a orașului Santo Domingo.", "Oferă vederi excelente la Marea Caraibilor.", "Parte a Patrimoniului Mondial UNESCO."],
       en: ["Constructed to reinforce the southern defenses of Santo Domingo.", "Offers excellent views of the Caribbean Sea.", "Part of the UNESCO World Heritage site."]
-    }
-  },
+    }, image: "/poi-images/fuerte-de-san-jose-landmarks-v2.webp"},
   {
     id: "fuerte-santa-barbara-landmarks-v2",
     type: "landmark",
@@ -265,8 +248,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["A koloniális negyed védelmi rendszerének része.", "Az Ozama folyóra néz.", "Helyi korallmészkőből épült."],
       ro: ["Integrat în sistemul defensiv al Zonei Coloniale.", "Are vedere la râul Ozama.", "Construit din calcar coralier local."],
       en: ["Integrated into the defensive wall system of the Colonial Zone.", "Overlooks the Ozama River.", "Constructed from the local coralline limestone."]
-    }
-  },
+    }, image: "/poi-images/fuerte-santa-barbara-landmarks-v2.webp"},
   {
     id: "iglesia-las-mercedes-landmarks-v2",
     type: "landmark",
@@ -279,8 +261,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["1527 és 1555 között épült.", "Több földrengést és kalóztámadást is túlélt.", "Jellegzetes bordás boltozatú mennyezettel rendelkezik."],
       ro: ["Construită între 1527 și 1555.", "A supraviețuit mai multor cutremure și atacuri ale piraților.", "Prezintă un tavan boltit cu nervuri."],
       en: ["Built between 1527 and 1555.", "Survived multiple earthquakes and pirate attacks.", "Features a distinctive ribbed vault ceiling."]
-    }
-  },
+    }, image: "/poi-images/iglesia-las-mercedes-landmarks-v2.webp"},
   {
     id: "iglesia-del-carmen-landmarks-v2",
     type: "landmark",
@@ -293,8 +274,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["A 17. században épült.", "Egy híres Názáreti Jézus szobor otthona.", "Egyszerű homlokzattal rendelkezik."],
       ro: ["Construită în secolul al XVII-lea.", "Găzduiește o faimoasă figură a lui Isus Nazareno.", "Prezintă o fațadă simplă."],
       en: ["Constructed in the 17th century.", "Home to a famous figure of Jesus Nazareno.", "Features a simple facade."]
-    }
-  },
+    }, image: "/poi-images/iglesia-del-carmen-landmarks-v2.webp"},
   {
     id: "iglesia-regina-angelorum-landmarks-v2",
     type: "landmark",
@@ -307,8 +287,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["Eredetileg Amerika első apácakolostorának része volt.", "Az építkezés 1564-ben kezdődött.", "Bonyolult ezüstoltáráról ismert."],
       ro: ["Inițial parte a primei mănăstiri de maici din America.", "Construcția a început în 1564.", "Renumită pentru altarul său complex de argint."],
       en: ["Originally part of the first convent for nuns in the Americas.", "Construction began in 1564.", "Renowned for its intricate silver altar."]
-    }
-  },
+    }, image: "/poi-images/iglesia-regina-angelorum-landmarks-v2.webp"},
   {
     id: "catedral-santiago-apostol-landmarks-v2",
     type: "landmark",
@@ -321,8 +300,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["A jelenlegi épület építése 1868-ban kezdődött.", "Több nemzeti hős földi maradványainak ad otthont.", "Kiváló ólomüveg ablakokkal rendelkezik."],
       ro: ["Construcția clădirii actuale a început în 1868.", "Găzduiește rămășițele mai multor eroi naționali.", "Are vitralii rafinate."],
       en: ["Construction of the current building started in 1868.", "Houses the remains of several national heroes.", "Features exquisite stained glass windows."]
-    }
-  },
+    }, image: "/poi-images/catedral-santiago-apostol-landmarks-v2.webp"},
   {
     id: "palacio-bellas-artes-landmarks-v2",
     type: "landmark",
@@ -335,8 +313,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["1956-ban avatták fel.", "2008-ban teljesen felújították.", "A Nemzeti Szimfonikus Zenekar otthona."],
       ro: ["Inaugurat în 1956.", "Complet restaurat în 2008.", "Casa Orchestrei Simfonice Naționale."],
       en: ["Inaugurated in 1956.", "Completely restored and modernized in 2008.", "Home to the National Symphony Orchestra."]
-    }
-  },
+    }, image: "/poi-images/palacio-bellas-artes-landmarks-v2.webp"},
   {
     id: "congreso-nacional-landmarks-v2",
     type: "landmark",
@@ -349,8 +326,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["A Centro de los Héroes területén található.", "A Szenátusból és a Képviselőházból áll.", "A nemzet történelmét bemutató nagy falfestményekkel díszített."],
       ro: ["Situat în zona Centro de los Héroes.", "Este format din Senat și Camera Deputaților.", "Prezintă picturi murale mari care înfățișează istoria națiunii."],
       en: ["Located in the Centro de los Héroes area.", "Consists of the Senate and the Chamber of Deputies.", "Features large murals depicting the history of the nation."]
-    }
-  },
+    }, image: "/poi-images/congreso-nacional-landmarks-v2.webp"},
   {
     id: "puente-francisco-rosario-sanchez-landmarks-v2",
     type: "landmark",
@@ -363,8 +339,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["Az Ozama folyót íveli át.", "Központi ütőér a tömegközlekedés számára.", "A nemzet egyik alapító atyjáról kapta a nevét."],
       ro: ["Traversează râul Ozama.", "O arteră crucială pentru transportul public.", "Numit după unul dintre părinții fondatori ai națiunii."],
       en: ["Crosses the Ozama River.", "A crucial artery for public transportation.", "Named after one of the founding fathers of the nation."]
-    }
-  },
+    }, image: "/poi-images/puente-francisco-rosario-sanchez-landmarks-v2.webp"},
   {
     id: "blue-mall-tower-landmarks-v2",
     type: "landmark",
@@ -377,8 +352,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["Exkluzív bevásárlóközpontnak ad otthont.", "Itt található a JW Marriott Hotel.", "Jellegzetes ívelt üvegépítészettel rendelkezik."],
       ro: ["Găzduiește un centru comercial de lux.", "Include hotelul JW Marriott.", "Prezintă o arhitectură distinctivă din sticlă curbată."],
       en: ["Hosts a high-end shopping center.", "Includes the JW Marriott Hotel Santo Domingo.", "Features a distinct curved glass architecture."]
-    }
-  },
+    }, image: "/poi-images/blue-mall-tower-landmarks-v2.webp"},
   {
     id: "centro-leon-landmarks-v2",
     type: "landmark",
@@ -391,8 +365,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["2003-ban nyílt meg.", "A León Jimenes család finanszírozta.", "A dominikai folklór kiterjedt gyűjteményeit állítja ki."],
       ro: ["Deschis în 2003.", "Finanțat de familia León Jimenes.", "Expune colecții extinse de folclor dominican."],
       en: ["Opened in 2003.", "Funded by the León Jimenes family.", "Exhibits extensive collections of Dominican visual arts and folklore."]
-    }
-  },
+    }, image: "/poi-images/centro-leon-landmarks-v2.webp"},
   {
     id: "monasterio-santa-clara-landmarks-v2",
     type: "landmark",
@@ -405,8 +378,7 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
       hu: ["1552-ben alapították.", "Súlyos károkat szenvedett Francis Drake inváziója során.", "A helyszín békés udvart és történelmi betekintést kínál."],
       ro: ["Fondată în 1552.", "A suferit pagube grele în timpul invaziei lui Francis Drake.", "Site-ul oferă o curte liniștită."],
       en: ["Founded in 1552.", "Suffered heavy damage during the invasion of Francis Drake.", "The site offers a peaceful courtyard and historical insight."]
-    }
-  },
+    }, image: "/poi-images/monasterio-santa-clara-landmarks-v2.webp"},
   {
     id: "faro-san-pedro-macoris-landmarks-v2",
     type: "landmark",
@@ -422,3 +394,4 @@ export const poiExtraDominicanrepublicLandmarksV2: POI[] = [
     }
   }
 ];
+

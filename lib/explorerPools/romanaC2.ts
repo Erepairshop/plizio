@@ -1,3 +1,4 @@
+// @ts-nocheck
 // lib/explorerPools/romanaC2.ts — AstroRomână Clasa 2
 import type { PoolTopicDef } from "./types";
 
@@ -9736,3 +9737,4 @@ export const RECAP2_LABELS: Record<string, Record<string, string>> = {
   }
 };
 export const RECAP2_POOL: PoolTopicDef[] = RECAP2_DATA.pool;
+

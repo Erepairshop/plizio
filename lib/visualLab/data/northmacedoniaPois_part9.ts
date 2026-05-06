@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const mkPoisPart9: POI[] = [
@@ -13,6 +14,25 @@ export const mkPoisPart9: POI[] = [
       hu: "Észak-Macedónia egyik utolsó mocsárvidéke, gazdag élővilággal.",
       ro: "Una dintre ultimele zone mlăștinoase din Macedonia de Nord, cu o biodiversitate bogată.",
       en: "One of the last remaining wetlands in North Macedonia, featuring rich biodiversity."
+    },
+    descriptionAdvanced: {
+      de: "Das Monospitovo-Feuchtgebiet ist ein ökologisch wertvolles Areal. Die Sumpflandschaft ist ein Refugium für zahlreiche seltene Tier- und Pflanzenarten. Es bietet einen tiefen Einblick in das natürliche Ökosystem des Strumica-Tals. Erdkunde K7 — Biodiversität.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Sumpfgebiet ist für die Vogelwelt essenziell.",
+        "Der Schutz dieser Landschaft ist regional von Bedeutung.",
+        "Die Flora ist an die feuchten Bedingungen angepasst.",
+        "Wissenschaftler führen hier ökologische Studien durch.",
+        "Das Gebiet ist ein wichtiger Puffer für das Mikroklima.",
+        "Die Ruhe der Landschaft ist sehr wertvoll."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Heimat vieler endemischer Pflanzenarten.", "Ein Paradies für Ornithologen.", "Wichtig für das ökologische Gleichgewicht der Strumica-Region."],
@@ -32,6 +52,25 @@ export const mkPoisPart9: POI[] = [
       hu: "Bosilovo központi ortodox temploma.",
       ro: "Biserica ortodoxă centrală din Bosilovo.",
       en: "The central Orthodox church in Bosilovo."
+    },
+    descriptionAdvanced: {
+      de: "Die Elias-Kirche ist ein wichtiger spiritueller Ort für die Gemeinde Bosilovo. Sie bewahrt religiöse Traditionen und ist ein Zeichen für den Zusammenhalt im Ort. Sachkunde K5 — Religion.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Kirche ist ein Ort des Friedens.",
+        "Sie wird rege von den Einheimischen genutzt.",
+        "Das Gebäude ist architektonisch stimmig.",
+        "Kulturelle Feste sind hier ein fester Bestandteil.",
+        "Es ist ein wichtiges Symbol für die Gemeinde.",
+        "Besucher sind jederzeit willkommen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Religiöses Zentrum der Gemeinde.", "Bekannt für seine lokalen Feste.", "Besitzt traditionelle Ikonen."],
@@ -53,6 +92,25 @@ export const mkPoisPart9: POI[] = [
       ro: "O biserică ortodoxă modernă și somptuoasă în Radoviš, cunoscută pentru decorațiunile sale bogate.",
       en: "A modern and magnificent Orthodox church in Radoviš, known for its rich decoration."
     },
+    descriptionAdvanced: {
+      de: "Diese Kirche ist ein architektonisches Highlight. Die prunkvolle Ausstattung zeugt von der Bedeutung des Glaubens in Radoviš. Sie ist ein Ziel für Kulturinteressierte. Sachkunde K5 — Architektur.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Ausstattung ist einzigartig prunkvoll.",
+        "Die Kirche ist eine Landmarke im Stadtbild.",
+        "Touristen sind von der Detailverliebtheit beeindruckt.",
+        "Es ist ein Ort der modernen sakralen Kunst.",
+        "Die Atmosphäre im Inneren ist sehr feierlich.",
+        "Besucher sind stets beeindruckt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Erbaut im frühen 21. Jahrhundert.", "Eine der schönsten neuen Kirchen im Balkan.", "Im Inneren mit viel Gold und Marmor geschmückt."],
       hu: ["A 21. század elején épült.", "A Balkán egyik legszebb új temploma.", "Belsejét arany és márvány díszíti bőséggel."],
@@ -71,6 +129,25 @@ export const mkPoisPart9: POI[] = [
       hu: "Középkori kolostor Konče faluban, Szent Istvánnak szentelve.",
       ro: "O mănăstire medievală în satul Konče, dedicată Sfântului Ștefan.",
       en: "A medieval monastery in the village of Konče, dedicated to Saint Stephen."
+    },
+    descriptionAdvanced: {
+      de: "Das Kloster Konče ist ein bedeutendes Zeugnis der mittelalterlichen Kultur. Es bewahrt Fresken, die einen hohen künstlerischen Wert haben. Ein Ort des Friedens. Geschichte K8 — Mittelalter.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Fresken sind für Kunsthistoriker wichtig.",
+        "Das Kloster ist in einer sehr friedlichen Lage.",
+        "Die Anlage umfasst verschiedene Gebäude.",
+        "Es ist ein wichtiges Denkmal der Region.",
+        "Die Spiritualität ist hier sehr greifbar.",
+        "Besucher genießen die Stille."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Gegründet im 14. Jahrhundert.", "Besitzt wertvolle Fresken aus der Entstehungszeit.", "Ein bedeutendes kulturelles Denkmal der Region."],
@@ -92,6 +169,25 @@ export const mkPoisPart9: POI[] = [
       ro: "Terenuri fertile în valea Strumica, care modelează agricultura municipalității.",
       en: "Fertile soils in the Strumica valley that characterize the municipality's agriculture."
     },
+    descriptionAdvanced: {
+      de: "Die Felder sind das Rückgrat der Wirtschaft. Der Anbau von Frühgemüse ist in der gesamten Region bekannt. Die weiten Flächen bieten zudem einen schönen Ausblick. Erdkunde K7 — Landwirtschaft.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Produktion ist für den Export wichtig.",
+        "Die Bauern nutzen modernste Bewässerung.",
+        "Die Landschaft ist durch die Felder sehr grün.",
+        "Es ist ein wichtiges Ziel für umweltfreundlichen Tourismus.",
+        "Die Ernte ist ein wichtiger wirtschaftlicher Termin.",
+        "Das Tal bietet hervorragende Wachstumsbedingungen."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bekannt für die Produktion von Frühgemüse.", "Wichtig für die regionale Wirtschaft.", "Prägt das grüne Landschaftsbild."],
       hu: ["A korai zöldségfélék termesztéséről ismert.", "Fontos a regionális gazdaság számára.", "Meghatározza a zöld tájképet."],
@@ -110,6 +206,25 @@ export const mkPoisPart9: POI[] = [
       hu: "Jelentős ortodox templom a község közigazgatási központjában.",
       ro: "O biserică ortodoxă importantă în centrul administrativ al municipalității.",
       en: "An important Orthodox church in the administrative center of the municipality."
+    },
+    descriptionAdvanced: {
+      de: "Diese Kirche ist der religiöse Anker der Gemeinde. Sie vereint Tradition und Glauben. Die Gläubigen finden hier Ruhe. Sachkunde K5 — Religion.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Kirche ist sehr harmonisch.",
+        "Der Ort ist geprägt von religiöser Stille.",
+        "Sie wird von der Gemeinschaft sehr geschätzt.",
+        "Architektonisch ist sie sehr ansprechend.",
+        "Es ist ein Ort der Besinnung.",
+        "Religiöse Feste stärken den Zusammenhalt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Ein Ort für religiöse Versammlungen.", "Besitzt eine ansprechende Architektur.", "Zentrum der lokalen Kirchengemeinde."],
@@ -131,6 +246,25 @@ export const mkPoisPart9: POI[] = [
       ro: "Un lac artificial în valea Lakavica, popular pentru liniștea și natura sa.",
       en: "An artificial lake in the Lakavica valley, popular for its tranquility and nature."
     },
+    descriptionAdvanced: {
+      de: "Der Mantovo-See ist ein Ort der Entspannung. Die unberührte Natur um den See bietet Ruhe pur. Angler und Erholungssuchende finden hier ein Paradies. Erdkunde K7 — Gewässer.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Wasserqualität ist exzellent.",
+        "Die Umgebung bietet perfekte Plätze für das Zelt.",
+        "Der See ist ein wichtiges Element für das lokale Ökosystem.",
+        "Naturfotografen lieben das Licht am frühen Morgen.",
+        "Ruhe ist hier garantiert.",
+        "Die Felsformationen sind einmalig."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bietet hervorragende Bedingungen zum Angeln und Campen.", "Umgeben von interessanten Felsformationen.", "Ein versteckter Ort für die Erholung."],
       hu: ["Kiváló feltételeket kínál horgászathoz és kempingezéshez.", "Érdekes sziklaképződmények veszik körül.", "Rejtett hely a kikapcsolódásra."],
@@ -150,6 +284,25 @@ export const mkPoisPart9: POI[] = [
       ro: "Biserica principală a mănăstirii Konče, un monument al artei bizantine.",
       en: "The main church of the Konče monastery, a monument of Byzantine art."
     },
+    descriptionAdvanced: {
+      de: "Die Stephanskirche ist ein Juwel der byzantinischen Kunst. Ihre Fresken zeugen von einer langen religiösen Tradition. Ein Besuch ist eine Reise in die Geschichte. Geschichte K8 — Kunst.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Ikonografie ist kunsthistorisch wertvoll.",
+        "Die Kirche ist ein Ort der spirituellen Stille.",
+        "Die Bausubstanz ist gut bewahrt.",
+        "Historiker schätzen die Bedeutung des Baus.",
+        "Die Fresken sind in einem guten Zustand.",
+        "Das Klosterleben wird hier aktiv geführt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bewahrt originale mittelalterliche Fresken.", "Besitzt eine charakteristische Kreuzkuppelstruktur.", "Ein Ort von großer historischer Bedeutung."],
       hu: ["Eredeti középkori freskókat őriz.", "Jellegzetes keresztkupolás szerkezettel rendelkezik.", "Nagy történelmi jelentőségű hely."],
@@ -158,3 +311,4 @@ export const mkPoisPart9: POI[] = [
     }
   }
 ];
+

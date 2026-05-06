@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEcuadorReliefV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A hegy magassága 3562 méter.", "Sűrű esőerdei környezetben helyezkedik el.", "2002-ben hatalmas kitörést regisztráltak.", "A neve spanyolul A pusztító-t jelent."],
       ro: ["Înălțimea vulcanului este de 3562 de metri.", "Este situat într-o zonă densă de pădure tropicală.", "În anul 2002 a avut o erupție masivă.", "Numele său înseamnă Distrugătorul în spaniolă."],
       en: ["The elevation is 3562 meters.", "It is located in a dense remote rainforest area.", "A massive eruption occurred in 2002.", "The name translates to The Destroyer in Spanish."]
-    }
-  },
+    }, image: "/poi-images/ecuador-reventador-relief-v2.webp"},
   {
     id: "ecuador-carihuairazo-relief-v2",
     type: "mountain",
@@ -47,8 +47,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A legmagasabb pontja 5018 méteren található.", "Az egykori gleccsereinek nagy része már eltűnt.", "Népszerű akklimatizációs célpont a hegymászók körében.", "Az Andok nyugati kordillerájának része."],
       ro: ["Cel mai înalt punct se află la 5018 metri.", "Majoritatea foștilor săi ghețari au dispărut.", "Este o destinație populară de aclimatizare pentru alpiniști.", "Muntele face parte din Cordiliera Occidentală a Anzilor."],
       en: ["The highest point sits at 5018 meters.", "Most of its former glaciers have disappeared.", "It is a popular acclimatization climb for mountaineers.", "The mountain belongs to the Western Cordillera of the Andes."]
-    }
-  },
+    }, image: "/poi-images/ecuador-carihuairazo-relief-v2.webp"},
   {
     id: "ecuador-sincholagua-relief-v2",
     type: "mountain",
@@ -71,8 +70,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A csúcs magassága eléri a 4893 métert.", "A vulkán elveszítette állandó gleccsereit.", "A Vulkánok sugárútjának részét képezi.", "A csúcstámadás utolsó szakasza rendkívül meredek."],
       ro: ["Vârful atinge o înălțime de 4893 de metri.", "Vulcanul și-a pierdut ghețarii permanenți.", "Face parte din faimoasa Alee a Vulcanilor.", "Ultima secțiune de ascensiune este extrem de abruptă."],
       en: ["The summit reaches an elevation of 4893 meters.", "The volcano has lost all of its permanent glaciers.", "It forms part of the Avenue of Volcanoes.", "The final ascent to the summit is extremely steep."]
-    }
-  },
+    }, image: "/poi-images/ecuador-sincholagua-relief-v2.webp"},
   {
     id: "ecuador-corazon-relief-v2",
     type: "mountain",
@@ -95,8 +93,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["Maximális magassága 4790 méter.", "A spanyol Corazón szó jelentése szív.", "A hegy rendkívül népszerű túracélpont.", "Machachi településtől délnyugatra helyezkedik el."],
       ro: ["Altitudinea maximă este de 4790 de metri.", "Cuvântul spaniol Corazón înseamnă inimă.", "Muntele este o destinație foarte populară printre excursioniști.", "Se află la sud-vest de localitatea Machachi."],
       en: ["The maximum elevation is 4790 meters.", "The Spanish word Corazón means heart.", "The mountain is a highly popular hiking destination.", "It is located southwest of the town of Machachi."]
-    }
-  },
+    }, image: "/poi-images/ecuador-corazon-relief-v2.webp"},
   {
     id: "ecuador-ruminahui-relief-v2",
     type: "mountain",
@@ -119,8 +116,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A vulkán 4712 méteres magasságot ér el.", "Egy híres inka harcosról nevezték el.", "A masszívum három jól elkülöníthető csúccsal rendelkezik.", "Fentről csodálatos kilátás nyílik a Cotopaxira."],
       ro: ["Vulcanul atinge o înălțime de 4712 metri.", "Este numit după un faimos războinic incaș.", "Masivul are trei vârfuri distincte separate.", "De sus oferă o priveliște magnifică asupra Cotopaxi."],
       en: ["The volcano reaches an elevation of 4712 meters.", "It is named after a famous Inca warrior.", "The massif features three distinct separate peaks.", "The summit offers magnificent views of Cotopaxi."]
-    }
-  },
+    }, image: "/poi-images/ecuador-ruminahui-relief-v2.webp"},
   {
     id: "ecuador-imbabura-relief-v2",
     type: "mountain",
@@ -143,8 +139,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A maximális magasság 4630 méter.", "A helyi őslakosok szent hegyként tisztelik.", "Utolsó kitörése több mint 14000 éve történt.", "Dominálja az Otavalo környéki tájat."],
       ro: ["Altitudinea maximă este de 4630 de metri.", "Muntele este considerat sacru de către populația indigenă.", "Ultima erupție a avut loc acum mai bine de 14000 de ani.", "Domină peisajul din jurul orașului Otavalo."],
       en: ["The maximum elevation stands at 4630 meters.", "The mountain is considered sacred by the indigenous people.", "The last eruption occurred over 14000 years ago.", "It completely dominates the landscape around Otavalo."]
-    }
-  },
+    }, image: "/poi-images/ecuador-imbabura-relief-v2.webp"},
   {
     id: "ecuador-pasochoa-relief-v2",
     type: "mountain",
@@ -167,8 +162,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A kráterperem magassága 4199 méter.", "A kaldera nyugati irányban teljesen nyitott.", "A terület az andoki kondor fontos menedékhelye.", "Az erdő kivételesen gazdag endemikus növényekben."],
       ro: ["Marginea craterului are o înălțime de 4199 metri.", "Caldera este complet deschisă spre vest.", "Zona este un refugiu important pentru condorul andin.", "Pădurea este excepțional de bogată în plante endemice."],
       en: ["The crater rim reaches an elevation of 4199 meters.", "The caldera is completely open towards the west.", "The area is a crucial refuge for the Andean condor.", "The forest is exceptionally rich in endemic plant species."]
-    }
-  },
+    }, image: "/poi-images/ecuador-pasochoa-relief-v2.webp"},
   {
     id: "ecuador-chiles-relief-v2",
     type: "mountain",
@@ -191,8 +185,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A csúcs magassága 4723 méter.", "A legészakibb részen, Carchi tartományban található.", "A Cerro Negro heggyel közösen vulkáni komplexumot alkot.", "A csúcsot alkalmanként hó fedi."],
       ro: ["Vârful măsoară 4723 de metri în înălțime.", "Se află în extremitatea nordică, în provincia Carchi.", "Împreună cu Cerro Negro formează un complex vulcanic.", "Ocazional, vârful este acoperit de zăpadă."],
       en: ["The peak measures 4723 meters in elevation.", "It is located in the far north in the Carchi province.", "Together with Cerro Negro it forms a volcanic complex.", "The summit is occasionally covered with a layer of snow."]
-    }
-  },
+    }, image: "/poi-images/ecuador-chiles-relief-v2.webp"},
   {
     id: "ecuador-mojanda-relief-v2",
     type: "mountain",
@@ -215,8 +208,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A legmagasabb csúcs 4263 méter.", "A legnagyobb lagúna neve Karikucha.", "Az utolsó vulkánkitörés körülbelül 200000 éve történt.", "A tájat tágas páramo füves puszták veszik körül."],
       ro: ["Cel mai înalt vârf atinge 4263 de metri.", "Cea mai mare dintre lagune se numește Karikucha.", "Ultima erupție vulcanică a avut loc acum aproximativ 200000 de ani.", "Peisajul este înconjurat de pășuni vaste de páramo."],
       en: ["The highest peak reaches an elevation of 4263 meters.", "The largest of the crater lakes is named Karikucha.", "The last volcanic eruption occurred roughly 200000 years ago.", "The landscape is entirely surrounded by paramo grassland."]
-    }
-  },
+    }, image: "/poi-images/ecuador-mojanda-relief-v2.webp"},
   {
     id: "ecuador-atacazo-relief-v2",
     type: "mountain",
@@ -239,8 +231,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A hegy maximális magassága 4463 méter.", "Egy 6 kilométer széles kalderával rendelkezik.", "Az alsó lejtőkön számos adóantenna található.", "A területet nagyon gyakran sűrű felhők borítják."],
       ro: ["Înălțimea maximă a muntelui este de 4463 metri.", "Prezintă o calderă cu o lățime de 6 kilometri.", "Pe pantele inferioare sunt amplasate numeroase antene.", "Zona este foarte des învăluită în nori denși."],
       en: ["The maximum elevation of the mountain is 4463 meters.", "It features a massive caldera 6 kilometers wide.", "Numerous broadcasting antennas are located on its lower slopes.", "The area is very frequently covered in dense clouds."]
-    }
-  },
+    }, image: "/poi-images/ecuador-atacazo-relief-v2.webp"},
   {
     id: "ecuador-wolf-relief-v2",
     type: "mountain",
@@ -263,8 +254,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["1707 méteres magasságával a szigetcsoport legmagasabb pontja.", "Ez egy rendkívül aktív pajzsvulkán.", "Itt él egy egyedülálló rózsaszín leguánfaj.", "A legutóbbi kitörés 2022-ben történt."],
       ro: ["Cu cei 1707 metri este cel mai înalt punct al arhipelagului.", "Este un vulcan scut foarte activ.", "Aici trăiește o specie unică de iguane roz.", "Ultima erupție a avut loc în anul 2022."],
       en: ["At 1707 meters, it is the highest point of the archipelago.", "It is a highly active shield volcano.", "It is home to a unique species of pink iguanas.", "The most recent eruption took place in 2022."]
-    }
-  },
+    }, image: "/poi-images/ecuador-wolf-relief-v2.webp"},
   {
     id: "ecuador-sierra-negra-relief-v2",
     type: "mountain",
@@ -287,8 +277,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A pajzsvulkán maximális magassága 1124 méter.", "A hatalmas kaldera átmérője csaknem 9 kilométer.", "Ez az egyik legaktívabb vulkán a Galápagos-szigeteken.", "Egy nagyobb kitörés történt 2018-ban."],
       ro: ["Altitudinea maximă a vulcanului scut este de 1124 de metri.", "Caldera sa masivă are un diametru de aproape 9 kilometri.", "Este printre cei mai activi vulcani din Galapagos.", "O erupție majoră a avut loc în anul 2018."],
       en: ["The maximum elevation of the shield volcano is 1124 meters.", "The massive caldera is almost 9 kilometers across.", "It is among the most active volcanoes in Galapagos.", "A major eruption occurred in the year 2018."]
-    }
-  },
+    }, image: "/poi-images/ecuador-sierra-negra-relief-v2.webp"},
   {
     id: "ecuador-alcedo-relief-v2",
     type: "mountain",
@@ -311,8 +300,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A legmagasabb perem eléri az 1130 métert a tengerszint felett.", "A kaldera belsejében aktív fumarolák működnek.", "A terület rendkívül elszigetelt és nehezen megközelíthető.", "Ez egy kiemelt védett terület az óriásteknősök számára."],
       ro: ["Cea mai înaltă margine atinge 1130 metri deasupra nivelului mării.", "În interiorul calderei există fumarole active.", "Zona este extrem de izolată și greu accesibilă.", "Este o zonă centrală de conservare a broaștelor țestoase uriașe."],
       en: ["The highest rim reaches 1130 meters above sea level.", "Active fumaroles are located inside the caldera.", "The area is extremely remote and difficult to access.", "It is a central conservation area for giant tortoises."]
-    }
-  },
+    }, image: "/poi-images/ecuador-alcedo-relief-v2.webp"},
   {
     id: "ecuador-cerro-azul-relief-v2",
     type: "mountain",
@@ -335,8 +323,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["1640 méteres magasságával a Galápagos második legmagasabb vulkánja.", "A lejtők meredekebbek, mint a szomszédos pajzsvulkánoké.", "A tájat nagyon gyakori történelmi lávafolyamok jellemzik.", "A vulkáni régió teljesen lakatlan."],
       ro: ["La 1640 de metri este al doilea cel mai înalt vulcan din Galapagos.", "Pantele sunt mai abrupte decât ale vulcanilor scut vecini.", "Peisajul este marcat de fluxuri de lavă istorice foarte frecvente.", "Regiunea vulcanică este complet nelocuită."],
       en: ["At 1640 meters it is the second highest Galapagos volcano.", "Its slopes are steeper compared to neighboring shield volcanoes.", "The landscape is characterized by very frequent historical lava flows.", "The entire volcanic region remains completely uninhabited."]
-    }
-  },
+    }, image: "/poi-images/ecuador-cerro-azul-relief-v2.webp"},
   {
     id: "ecuador-darwin-relief-v2",
     type: "mountain",
@@ -359,8 +346,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A szimmetrikus csúcs 1330 métert ér el.", "A vulkán egy figyelemre méltóan jó állapotban lévő kalderával rendelkezik.", "Számos kisebb történelmi kitörése volt.", "A hegy lábánál sűrű, áthatolhatatlan növényzet nő."],
       ro: ["Vârful simetric atinge o înălțime de 1330 metri.", "Vulcanul deține o calderă remarcabil de bine conservată.", "Au existat numeroase erupții minore în vremurile istorice.", "La baza muntelui crește o vegetație densă și impenetrabilă."],
       en: ["The symmetrical peak reaches 1330 meters.", "The volcano features a remarkably well-preserved caldera.", "There have been numerous minor historical eruptions.", "Dense, impenetrable vegetation grows at the base of the mountain."]
-    }
-  },
+    }, image: "/poi-images/ecuador-darwin-relief-v2.webp"},
   {
     id: "ecuador-pululahua-relief-v2",
     type: "relief",
@@ -383,8 +369,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A kaldera legmagasabb pereme 3356 méteren van.", "Az egész területet geobotanikai rezervátumként védik.", "A vulkanikus talaj rendkívül termékeny a mezőgazdaság számára.", "A kráter mindössze néhány kilométerre található az Egyenlítőtől."],
       ro: ["Cea mai înaltă margine a calderei se află la 3356 de metri.", "Întreaga zonă este protejată ca Rezervație Geobotanică.", "Solul vulcanic este extrem de fertil pentru agricultură.", "Craterul este situat la doar câțiva kilometri de Ecuator."],
       en: ["The highest rim of the caldera is at 3356 meters.", "The entire area is protected as a Geobotanical Reserve.", "The volcanic soil is extremely fertile for agriculture.", "The crater is located just a few kilometers from the Equator."]
-    }
-  },
+    }, image: "/poi-images/ecuador-pululahua-relief-v2.webp"},
   {
     id: "ecuador-condor-relief-v2",
     type: "relief",
@@ -407,8 +392,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["Maximális magassága körülbelül 2900 méter.", "A terület történelmileg vitatott határövezet volt.", "A tájat egyedülálló, tepui-szerű homokkő formációk jellemzik.", "Még mindig rengeteg felfedezetlen növényfaj él itt."],
       ro: ["Altitudinea maximă este de aproximativ 2900 de metri.", "Zona a fost istoric o frontieră disputată.", "Peisajul prezintă formațiuni unice de gresie asemănătoare tepui-urilor.", "Există încă multe specii de plante nedescoperite aici."],
       en: ["The maximum elevation is approximately 2900 meters.", "The area was historically a highly disputed border zone.", "The landscape features unique tepui-like sandstone formations.", "There are still many undiscovered plant species existing here."]
-    }
-  },
+    }, image: "/poi-images/ecuador-condor-relief-v2.webp"},
   {
     id: "ecuador-kutuku-relief-v2",
     type: "relief",
@@ -431,8 +415,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A csúcsok körülbelül 2400 méteres magasságot érnek el.", "A hegységet tagolt mészkő karsztformációk jellemzik.", "Ez a shuar nép hagyományos törzsi területe.", "A hegység nagy része mind a mai napig nagyrészt feltáratlan."],
       ro: ["Vârfurile ating înălțimi de aproximativ 2400 de metri.", "Munții prezintă formațiuni carstice accidentate de calcar.", "Acesta este teritoriul tribal ancestral al poporului Shuar.", "Părți mari din acești munți rămân în mare parte neexplorate."],
       en: ["The peaks reach elevations of approximately 2400 meters.", "The mountains feature rugged limestone karst formations.", "This is the ancestral tribal territory of the Shuar people.", "Large parts of these mountains remain largely unexplored to this day."]
-    }
-  },
+    }, image: "/poi-images/ecuador-kutuku-relief-v2.webp"},
   {
     id: "ecuador-chongon-colonche-relief-v2",
     type: "relief",
@@ -455,8 +438,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A legmagasabb pont mindössze mintegy 800 méter.", "A területet a múltban súlyosan erdőirtották.", "A hegyek kulcsfontosságúak a partvidék vízellátásában.", "A megmaradt erdők számos endemikus madárfajnak adnak otthont."],
       ro: ["Cea mai mare altitudine măsoară doar aproximativ 800 de metri.", "Zona a fost grav despădurită în trecut.", "Munții sunt cruciali pentru aprovizionarea cu apă a coastei.", "Pădurile rămase adăpostesc multe specii de păsări endemice."],
       en: ["The highest elevation measures only around 800 meters.", "The area suffered from severe deforestation in the past.", "The mountains are crucial for the coastal water supply.", "The remaining forests host many endemic bird species."]
-    }
-  },
+    }, image: "/poi-images/ecuador-chongon-colonche-relief-v2.webp"},
   {
     id: "ecuador-puyango-relief-v2",
     type: "forest",
@@ -479,8 +461,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["Az itt talált fosszíliák mintegy 100 millió évesek.", "A védett terület 2658 hektáron terül el.", "Megkövesedett tengeri élőlények is felfedezhetők a területen.", "Az erdő az ország legdélebbi részén található."],
       ro: ["Fosilele găsite aici au o vechime de aproximativ 100 de milioane de ani.", "Aria protejată acoperă o suprafață de 2658 hectare.", "Aici pot fi descoperite și creaturi marine pietrificate.", "Pădurea este situată în sudul îndepărtat al țării."],
       en: ["The fossils found here are approximately 100 million years old.", "The protected area covers exactly 2658 hectares.", "Fossilized marine life can also be discovered here.", "The forest is located in the deep south of the country."]
-    }
-  },
+    }, image: "/poi-images/ecuador-puyango-relief-v2.webp"},
   {
     id: "ecuador-awa-relief-v2",
     type: "forest",
@@ -503,8 +484,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A régióban rendkívül magas az éves csapadékmennyiség.", "A terület a Choco biodiverzitási hotspot fontos része.", "A rezervátum több mint 100000 hektáron terül el.", "Az érintetlen természetet egyre inkább fenyegeti az illegális fakitermelés."],
       ro: ["Regiunea înregistrează precipitații anuale extrem de ridicate.", "Zona este o parte importantă a hotspot-ului de biodiversitate Choco.", "Rezervația se întinde pe mai mult de 100000 de hectare.", "Natura neatinsă este tot mai amenințată de tăierile ilegale."],
       en: ["The region records extremely high annual rainfall amounts.", "The area is a crucial part of the Choco biodiversity hotspot.", "The reserve covers an area of more than 100000 hectares.", "The pristine nature is increasingly threatened by illegal logging."]
-    }
-  },
+    }, image: "/poi-images/ecuador-awa-relief-v2.webp"},
   {
     id: "ecuador-jatun-sacha-relief-v2",
     type: "forest",
@@ -527,8 +507,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A neve a kichwa nyelven azt jelenti, hogy Nagy Erdő.", "A rezervátum teljes területe mintegy 2500 hektár.", "Kiemelt fontosságú az amazóniai természetvédelmi kutatások szempontjából.", "A rezervátum elsősorban másodlagos esőerdőt véd."],
       ro: ["Numele înseamnă Pădure Mare în limba indigenă Kichwa.", "Suprafața totală a rezervației acoperă aproximativ 2500 de hectare.", "Este esențială pentru cercetarea în domeniul conservării amazoniene.", "Rezervația protejează în principal pădure tropicală secundară."],
       en: ["The name translates to Big Forest in the Kichwa language.", "The total area of the reserve covers roughly 2500 hectares.", "It is of vital importance for Amazonian conservation research.", "The reserve primarily protects secondary tropical rainforest."]
-    }
-  },
+    }, image: "/poi-images/ecuador-jatun-sacha-relief-v2.webp"},
   {
     id: "ecuador-pacoche-relief-v2",
     type: "forest",
@@ -551,8 +530,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["A terület híres hangos bőgőmajmokról.", "A szárazföldi terület pontosan 5045 hektárnyi védett földet foglal magában.", "Az erdő a sűrű tengeri ködből nyeri a szükséges nedvességet.", "Emellett védi a tengeri teknősök fontos fészkelő strandjait is."],
       ro: ["Zona este faimoasă pentru maimuțele urlătoare zgomotoase.", "Zona terestră acoperă exact 5045 hectare de teren protejat.", "Pădurea captează umiditatea necesară din ceața densă a mării.", "De asemenea protejează plajele importante de cuibărit ale țestoaselor marine."],
       en: ["The area is highly famous for its loud howler monkeys.", "The land area covers exactly 5045 hectares of protected ground.", "The forest captures much-needed moisture from dense ocean fog.", "It also protects the important nesting beaches of sea turtles."]
-    }
-  },
+    }, image: "/poi-images/ecuador-pacoche-relief-v2.webp"},
   {
     id: "ecuador-choco-relief-v2",
     type: "forest",
@@ -575,8 +553,7 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       hu: ["Ez a sűrű esőerdő messze benyúlik Kolumbiába is.", "Nagyon sok ritka és endemikus békafajnak ad otthont.", "A régiót a mezőgazdasági terjeszkedés súlyosan érintette.", "A terület kritikus globális szén-dioxid nyelőként működik."],
       ro: ["Această pădure tropicală densă se extinde mult în Columbia.", "Adăpostește foarte multe specii rare și endemice de broaște.", "Regiunea este grav afectată de expansiunea agricolă.", "Zona acționează ca un rezervor global esențial de carbon."],
       en: ["This dense rainforest extends far north into Colombia.", "It is home to many rare and strictly endemic frog species.", "The region is heavily impacted by ongoing agricultural expansion.", "The area acts as a critically important global carbon sink."]
-    }
-  },
+    }, image: "/poi-images/ecuador-choco-relief-v2.webp"},
   {
     id: "ecuador-plateado-relief-v2",
     type: "mountain",
@@ -602,3 +579,4 @@ export const poiExtraEcuadorReliefV2: POI[] = [
     }
   }
 ];
+

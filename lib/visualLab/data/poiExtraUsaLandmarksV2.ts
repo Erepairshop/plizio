@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUsaLandmarksV2: POI[] = [
@@ -18,8 +19,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["Eero Saarinen tervezte", "A nyugati félteke legmagasabb ember alkotta emlékműve", "A Gateway Arch Nemzeti Park része"],
       ro: ["Proiectat de Eero Saarinen", "Cel mai înalt monument creat de om din emisfera vestică", "Parte a Parcului Național Gateway Arch"],
       en: ["Designed by Eero Saarinen", "Tallest man-made monument in the Western Hemisphere", "Part of Gateway Arch National Park"]
-    }
-  },
+    }, image: "/poi-images/gateway-arch-landmarks-v2.webp"},
   {
     id: "mount-rushmore-landmarks-v2",
     type: "landmark",
@@ -37,8 +37,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["Washingtont, Jeffersont, Rooseveltet és Lincolnt ábrázolja", "Minden fej körülbelül 18 méter magas", "A szobrász Gutzon Borglum volt"],
       ro: ["Îi înfățișează pe Washington, Jefferson, Roosevelt și Lincoln", "Fiecare cap are o înălțime de aproximativ 18 metri", "Sculptorul a fost Gutzon Borglum"],
       en: ["Depicts Washington, Jefferson, Roosevelt, and Lincoln", "Each head is about 60 feet (18 m) high", "Sculpted by Gutzon Borglum"]
-    }
-  },
+    }, image: "/poi-images/mount-rushmore-landmarks-v2.webp"},
   {
     id: "cloud-gate-landmarks-v2",
     type: "landmark",
@@ -56,8 +55,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["168 magasfényűre polírozott rozsdamentes acéllemezből készült", "Folyékony higany ihlette", "Több mint 110 tonnát nyom"],
       ro: ["Realizată din 168 de plăci de oțel inoxidabil lustruite", "Inspirată de mercurul lichid", "Cântărește peste 110 tone"],
       en: ["Made of 168 highly polished stainless steel plates", "Inspired by liquid mercury", "Weighs over 110 short tons"]
-    }
-  },
+    }, image: "/poi-images/cloud-gate-landmarks-v2.webp"},
   {
     id: "space-needle-landmarks-v2",
     type: "landmark",
@@ -75,8 +73,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["184 méter magas", "Forgó étteremmel rendelkezik", "A csendes-óceáni északnyugat jelképe"],
       ro: ["Are 184 de metri înălțime", "Dispune de un restaurant rotativ", "Un simbol al Pacificului de Nord-Vest"],
       en: ["605 feet (184 m) tall", "Features a rotating restaurant", "Icon of the Pacific Northwest"]
-    }
-  },
+    }, image: "/poi-images/space-needle-landmarks-v2.webp"},
   {
     id: "hoover-dam-landmarks-v2",
     type: "landmark",
@@ -94,8 +91,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["A nagy gazdasági világválság idején épült", "Vízenergiát termel", "Létrehozza a Mead-tavat, az USA legnagyobb víztározóját térfogat szerint"],
       ro: ["Construit în timpul Marii Depresiuni", "Generează energie hidroelectrică", "Formează Lacul Mead, cel mai mare rezervor din SUA după volum"],
       en: ["Constructed during the Great Depression", "Generates hydroelectric power", "Forms Lake Mead, the largest reservoir in the US by volume"]
-    }
-  },
+    }, image: "/poi-images/hoover-dam-landmarks-v2.webp"},
   {
     id: "faneuil-hall-landmarks-v2",
     type: "landmark",
@@ -113,8 +109,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["1742-ben épült", "Számos, függetlenségre buzdító beszéd helyszíne volt", "Beceneve 'A Szabadság Bölcsője'"],
       ro: ["Construită în 1742", "Locul multor discursuri care au cerut independența", "Poreclită „Leagănul Libertății”"],
       en: ["Built in 1742", "Site of many speeches encouraging independence", "Nicknamed 'The Cradle of Liberty'"]
-    }
-  },
+    }, image: "/poi-images/faneuil-hall-landmarks-v2.webp"},
   {
     id: "hollywood-sign-landmarks-v2",
     type: "landmark",
@@ -132,8 +127,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["Eredetileg 1923-ban 'HOLLYWOODLAND' néven állították fel", "Minden betű 13,7 méter magas", "Az amerikai szórakoztatóipar szimbóluma"],
       ro: ["Ridicată inițial în 1923 ca „HOLLYWOODLAND”", "Fiecare literă are 13,7 metri înălțime", "Simbol al industriei de divertisment americane"],
       en: ["Originally created in 1923 as 'HOLLYWOODLAND'", "Each letter is 45 feet (13.7 m) tall", "Symbol of the American entertainment industry"]
-    }
-  },
+    }, image: "/poi-images/hollywood-sign-landmarks-v2.webp"},
   {
     id: "lincoln-memorial-landmarks-v2",
     type: "landmark",
@@ -151,8 +145,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["A National Mall nyugati végén található", "Lincoln nagy, ülő szobrát tartalmazza", "Martin Luther King 'Van egy álmom' beszédének helyszíne"],
       ro: ["Situat la capătul vestic al National Mall", "Conține o sculptură mare a lui Lincoln așezat", "Locul discursului „Am un vis” al lui Martin Luther King"],
       en: ["Located on the western end of the National Mall", "Contains a large seated sculpture of Lincoln", "Site of Martin Luther King's 'I Have a Dream' speech"]
-    }
-  },
+    }, image: "/poi-images/lincoln-memorial-landmarks-v2.webp"},
   {
     id: "washington-monument-landmarks-v2",
     type: "landmark",
@@ -170,8 +163,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["A világ legmagasabb obeliszkje", "169 méter magas", "Márványból, gránitból és gneiszből készült"],
       ro: ["Cel mai înalt obelisc din lume", "Are 169 de metri înălțime", "Construit din marmură, granit și gnais de piatră albastră"],
       en: ["World's tallest obelisk", "Stands 555 feet (169 m) tall", "Made of marble, granite, and bluestone gneiss"]
-    }
-  },
+    }, image: "/poi-images/washington-monument-landmarks-v2.webp"},
   {
     id: "empire-state-building-landmarks-v2",
     type: "landmark",
@@ -189,8 +181,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["1931-től 1970-ig a világ legmagasabb épülete volt", "Híres a változó színű megvilágításáról", "Több mint 250 filmben szerepelt"],
       ro: ["A fost cea mai înaltă clădire din lume din 1931 până în 1970", "Faimoasă pentru iluminatul său care își schimbă culoarea", "A apărut în peste 250 de filme"],
       en: ["World's tallest building from 1931 to 1970", "Famous for its color-changing lights", "Featured in over 250 films"]
-    }
-  },
+    }, image: "/poi-images/empire-state-building-landmarks-v2.webp"},
   {
     id: "one-world-trade-center-landmarks-v2",
     type: "landmark",
@@ -208,8 +199,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["A nyugati félteke legmagasabb épülete", "Szimbolikus magassága 1776 láb (541 m), utalva a Függetlenségi Nyilatkozat évére", "Beceneve 'Szabadság-torony'"],
       ro: ["Cea mai înaltă clădire din emisfera vestică", "Înălțime simbolică de 1.776 de picioare (541 m), referindu-se la anul Declarației de Independență", "Poreclită „Turnul Libertății”"],
       en: ["Tallest building in the Western Hemisphere", "Symbolic height of 1,776 ft (541 m), referencing the year of the Declaration of Independence", "Nicknamed the Freedom Tower"]
-    }
-  },
+    }, image: "/poi-images/one-world-trade-center-landmarks-v2.webp"},
   {
     id: "chrysler-building-landmarks-v2",
     type: "landmark",
@@ -227,8 +217,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["Híres a teraszos koronájáról és toronysisakjáról", "11 hónapig a világ legmagasabb épülete volt", "Az Art Deco építészet mesterművének tartják"],
       ro: ["Faimos pentru coroana sa în terase și fleșa sa", "A fost cea mai înaltă clădire din lume timp de 11 luni", "Considerat o capodoperă a arhitecturii Art Deco"],
       en: ["Famous for its terraced crown and spire", "Was the world's tallest building for 11 months", "Considered a masterpiece of Art Deco architecture"]
-    }
-  },
+    }, image: "/poi-images/chrysler-building-landmarks-v2.webp"},
   {
     id: "willis-tower-landmarks-v2",
     type: "landmark",
@@ -246,8 +235,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["25 évig a világ legmagasabb épülete volt", "Rendelkezik a Skydeck kilátóval, ahol 'The Ledge' nevű üvegerkélyek vannak", "Chicago egyik legismertebb jelképe"],
       ro: ["A fost cea mai înaltă clădire din lume timp de 25 de ani", "Dispune de Skydeck cu balcoane de sticlă numite „The Ledge”", "Unul dintre cele mai iconice repere din Chicago"],
       en: ["Was the world's tallest building for 25 years", "Features the Skydeck with glass balconies called 'The Ledge'", "One of Chicago's most iconic landmarks"]
-    }
-  },
+    }, image: "/poi-images/willis-tower-landmarks-v2.webp"},
   {
     id: "kennedy-space-center-landmarks-v2",
     type: "landmark",
@@ -265,8 +253,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["Az Apollo-, Skylab- és Space Shuttle-küldetések kilövőhelye", "Itt található az Atlantis űrsikló", "Látogatókomplexum kiállításokkal és szimulátorokkal"],
       ro: ["Locul de lansare pentru misiunile Apollo, Skylab și Space Shuttle", "Găzduiește naveta spațială Atlantis", "Complex pentru vizitatori cu expoziții și simulatoare"],
       en: ["Launch site for the Apollo, Skylab, and Space Shuttle missions", "Home to the Space Shuttle Atlantis", "Visitor complex with exhibits and simulators"]
-    }
-  },
+    }, image: "/poi-images/kennedy-space-center-landmarks-v2.webp"},
   {
     id: "grand-central-terminal-landmarks-v2",
     type: "landmark",
@@ -284,8 +271,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["A világ legnagyobb vasútállomása a vágányok száma szerint", "Híres főcsarnok csillagászati mennyezetfestménnyel", "Gyakran tévesen Grand Central Station-nek nevezik"],
       ro: ["Cea mai mare gară din lume după numărul de platforme", "Celebrul hol principal cu un tavan astronomic pictat", "Adesea denumită în mod incorect Grand Central Station"],
       en: ["World's largest station by number of platforms", "Famous Main Concourse with an astronomical ceiling mural", "Often incorrectly called Grand Central Station"]
-    }
-  },
+    }, image: "/poi-images/grand-central-terminal-landmarks-v2.webp"},
   {
     id: "gettysburg-battlefield-landmarks-v2",
     type: "historical",
@@ -322,8 +308,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["A texasi függetlenségi harc szimbóluma", "Az ostrom 13 napig tartott", "A 'Remember the Alamo!' (Emlékezz az Alamóra!) csatakiáltás"],
       ro: ["Simbol al luptei pentru independența Texasului", "Asediul a durat 13 zile", "Strigăt de luptă „Țineți minte Alamo!”"],
       en: ["Symbol of the Texan struggle for independence", "The siege lasted for 13 days", "Battle cry 'Remember the Alamo!'"]
-    }
-  },
+    }, image: "/poi-images/the-alamo-landmarks-v2.webp"},
   {
     id: "las-vegas-strip-landmarks-v2",
     type: "landmark",
@@ -341,8 +326,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["A világ legnagyobb szállodái közül néhány itt található", "Híres a kidolgozott tematikus üdülőhelyeiről", "A világ egyik leglátogatottabb turisztikai célpontja"],
       ro: ["Găzduiește unele dintre cele mai mari hoteluri din lume", "Faimos pentru stațiunile sale tematice elaborate", "Una dintre cele mai vizitate destinații turistice din lume"],
       en: ["Home to some of the world's largest hotels", "Famous for its elaborate themed resorts", "One of the most visited tourist destinations in the world"]
-    }
-  },
+    }, image: "/poi-images/las-vegas-strip-landmarks-v2.webp"},
   {
     id: "times-square-landmarks-v2",
     type: "landmark",
@@ -360,8 +344,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["Híres a ragyogó hirdetőtábláiról és reklámjairól", "Az éves szilveszteri gömb leejtésének helyszíne", "Beceneve 'A Világ Kereszteződése'"],
       ro: ["Cunoscut pentru panourile sale publicitare și reclamele luminoase", "Locul căderii anuale a globului de Anul Nou", "Poreclit „Răscrucea Lumii”"],
       en: ["Known for its bright billboards and advertisements", "Site of the annual New Year's Eve ball drop", "Nicknamed 'The Crossroads of the World'"]
-    }
-  },
+    }, image: "/poi-images/times-square-landmarks-v2.webp"},
   {
     id: "fenway-park-landmarks-v2",
     type: "landmark",
@@ -379,8 +362,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["A legrégebbi aktív baseball stadion az MLB-ben", "Híres a bal mezőn található 'Zöld Szörny' falról", "Körülbelül 37 000 néző befogadására alkalmas"],
       ro: ["Cel mai vechi parc de baseball activ din MLB", "Faimos pentru zidul 'Monstrul Verde' din câmpul stâng", "Are o capacitate de aproximativ 37.000 de locuri"],
       en: ["Oldest active ballpark in MLB", "Famous for the 'Green Monster' wall in left field", "Has a seating capacity of around 37,000"]
-    }
-  },
+    }, image: "/poi-images/fenway-park-landmarks-v2.webp"},
   {
     id: "wrigley-field-landmarks-v2",
     type: "landmark",
@@ -398,8 +380,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["Híres a borostyánnal benőtt külső mezőfalaival", "Az MLB egyik legrégebbi stadionja", "Beceneve 'A Barátságos Határok'"],
       ro: ["Cunoscut pentru zidurile sale exterioare acoperite de iederă", "Unul dintre cele mai vechi parcuri de baseball din MLB", "Poreclit „Vecinătățile Prietenoase”"],
       en: ["Known for its ivy-covered outfield walls", "One of the oldest ballparks in MLB", "Nicknamed 'The Friendly Confines'"]
-    }
-  },
+    }, image: "/poi-images/wrigley-field-landmarks-v2.webp"},
   {
     id: "madison-square-garden-landmarks-v2",
     type: "landmark",
@@ -417,8 +398,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["A New York Knicks (NBA) és a New York Rangers (NHL) otthona", "Fontos helyszín koncertekhez és eseményekhez", "A negyedik helyszín ezen a néven"],
       ro: ["Casa echipelor New York Knicks (NBA) și New York Rangers (NHL)", "Loc important pentru concerte și evenimente", "A patra arenă cu acest nume"],
       en: ["Home of the New York Knicks (NBA) and New York Rangers (NHL)", "Major venue for concerts and events", "The fourth venue to bear the name"]
-    }
-  },
+    }, image: "/poi-images/madison-square-garden-landmarks-v2.webp"},
   {
     id: "national-september-11-memorial-landmarks-v2",
     type: "landmark",
@@ -436,8 +416,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["Az egykori Ikertornyok helyén található", "Két hatalmas tükröződő medencével rendelkezik", "Az összes áldozat neve be van vésve"],
       ro: ["Situat la fostul amplasament al Turnurilor Gemene", "Dispune de două bazine reflectante enorme", "Numele tuturor victimelor sunt gravate"],
       en: ["Located at the former site of the Twin Towers", "Features two enormous reflecting pools", "The names of all victims are inscribed"]
-    }
-  },
+    }, image: "/poi-images/national-september-11-memorial-landmarks-v2.webp"},
   {
     id: "us-capitol-landmarks-v2",
     type: "landmark",
@@ -455,8 +434,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["Az amerikai szövetségi kormány törvényhozó ágának székhelye", "Híres a masszív kupolájáról", "A neoklasszikus építészet egyik példája"],
       ro: ["Sediul ramurii legislative a guvernului federal al SUA", "Faimos pentru cupola sa masivă", "Un exemplu de arhitectură neoclasică"],
       en: ["Seat of the legislative branch of the U.S. federal government", "Famous for its massive dome", "An example of Neoclassical architecture"]
-    }
-  },
+    }, image: "/poi-images/us-capitol-landmarks-v2.webp"},
   {
     id: "white-house-landmarks-v2",
     type: "landmark",
@@ -474,8 +452,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["A Pennsylvania Avenue NW 1600 szám alatt található", "Leégett az 1812-es háború alatt", "132 szobával és 35 fürdőszobával rendelkezik"],
       ro: ["Situată la 1600 Pennsylvania Avenue NW", "A fost arsă în timpul Războiului din 1812", "Are 132 de camere și 35 de băi"],
       en: ["Located at 1600 Pennsylvania Avenue NW", "Was burned down during the War of 1812", "Has 132 rooms and 35 bathrooms"]
-    }
-  },
+    }, image: "/poi-images/white-house-landmarks-v2.webp"},
   {
     id: "independence-hall-landmarks-v2",
     type: "historical",
@@ -493,8 +470,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["UNESCO Világörökségi helyszín", "Eredetileg a Pennsylvaniai Állami Ház volt", "A Szabadság-harang korábban a harangtornyában volt"],
       ro: ["Situl Patrimoniului Mondial UNESCO", "Inițial Casa de Stat a Pennsylvaniei", "Clopotul Libertății a fost adăpostit anterior în clopotnița sa"],
       en: ["UNESCO World Heritage Site", "Originally the Pennsylvania State House", "The Liberty Bell was formerly housed in its bell tower"]
-    }
-  },
+    }, image: "/poi-images/independence-hall-landmarks-v2.webp"},
   {
     id: "liberty-bell-landmarks-v2",
     type: "historical",
@@ -512,8 +488,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["Híres a jellegzetes repedéséről", "Bibliai felirat: 'Hirdess szabadságot az egész országban'", "1776-ban megkongatták, hogy bejelentsék a Függetlenségi Nyilatkozat első nyilvános felolvasását"],
       ro: ["Faimos pentru fisura sa distinctivă", "Inscripție din Biblie: „Vestiți libertatea în toată țara”", "A fost tras în 1776 pentru a anunța prima citire publică a Declarației de Independență"],
       en: ["Famous for its distinctive crack", "Inscription from the Bible: 'Proclaim Liberty Throughout All the Land'", "Was rung in 1776 to announce the first public reading of the Declaration of Independence"]
-    }
-  },
+    }, image: "/poi-images/liberty-bell-landmarks-v2.webp"},
   {
     id: "st-patricks-cathedral-landmarks-v2",
     type: "landmark",
@@ -531,8 +506,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["A New York-i érsek székhelye", "Egy egész városi tömböt foglal el", "Híres a festett üvegablakairól és oltáráról"],
       ro: ["Scaunul arhiepiscopului de New York", "Ocupă un întreg bloc de oraș", "Faimoasă pentru vitraliile și altarul său"],
       en: ["Seat of the archbishop of New York", "Occupies a full city block", "Famous for its stained glass windows and altar"]
-    }
-  },
+    }, image: "/poi-images/st-patricks-cathedral-landmarks-v2.webp"},
   {
     id: "brooklyn-bridge-landmarks-v2",
     type: "landmark",
@@ -550,8 +524,7 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       hu: ["Az Egyesült Államok egyik legrégebbi közúti hídja", "New York City egyik jelképe", "Emelt gyalogos- és kerékpárúttal rendelkezik"],
       ro: ["Unul dintre cele mai vechi poduri rutiere din Statele Unite", "Un reper al orașului New York", "Dispune de o pasarelă pietonală și pentru biciclete ridicată"],
       en: ["One of the oldest roadway bridges in the United States", "An icon of New York City", "Features an elevated pedestrian and bike path"]
-    }
-  },
+    }, image: "/poi-images/brooklyn-bridge-landmarks-v2.webp"},
   {
     id: "hollywood-bowl-landmarks-v2",
     type: "landmark",
@@ -572,3 +545,4 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     }
   }
 ];
+

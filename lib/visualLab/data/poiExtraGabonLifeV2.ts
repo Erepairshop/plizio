@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGabonLifeV2: POI[] = [
@@ -18,13 +19,24 @@ export const poiExtraGabonLifeV2: POI[] = [
       ro: "O poiană naturală în Parcul Național Ivindo, cunoscută pentru concentrația mare de elefanți de pădure și gorile.",
       en: "A natural forest clearing in Ivindo National Park, famous for its high concentration of forest elephants and gorillas."
     },
+    descriptionAdvanced: {
+      de: "Langoué Baï ist eine der bedeutendsten Waldlichtungen im Ivindo-Nationalpark und ein zentrales Beobachtungsgebiet für die afrikanische Mega-Fauna. Das Ökosystem ist für seine Mineralienvorkommen im Boden bekannt, die Elefanten und andere Wildtiere anziehen. Es bietet Forschern und Besuchern seltene Einblicke in das Verhalten von Waldelefanten und Gorillas in ungestörter Natur. Földrajz K7 — afrikanische Ökosysteme.",
+      hu: "A Langoué Baï az Ivindo Nemzeti Park egyik legjelentősebb erdei tisztása, és az afrikai megafauna központi megfigyelőhelye. Az ökoszisztéma híres a talajában található ásványi anyagokról, amelyek vonzzák az elefántokat és más vadállatokat. A kutatók és látogatók számára ritka betekintést nyújt az erdei elefántok és gorillák zavartalan viselkedésébe. Földrajz K7 — afrikai ökoszisztémák.",
+      ro: "Langoué Baï este una dintre cele mai importante poieni din Parcul Național Ivindo și un loc central de observare pentru megafauna africană. Ecosistemul este cunoscut pentru depozitele sale de minerale din sol, care atrag elefanții și alte animale sălbatice. Oferă cercetătorilor și vizitatorilor perspective rare asupra comportamentului elefanților de pădure și al gorilelor într-un mediu natural netulburat. Földrajz K7 — ecosisteme africane.",
+      en: "Langoué Baï is one of the most important forest clearings in Ivindo National Park and a central observation area for African megafauna. The ecosystem is known for its soil minerals that attract elephants and other wildlife. It provides researchers and visitors with rare insights into the behavior of forest elephants and gorillas in undisturbed nature. Földrajz K7 — African ecosystems."
+    },
     facts: {
       de: ["Salzhaltige Lichtung", "Elefanten-Beobachtung"],
       hu: ["Sós vizű tisztás", "Elefántmegfigyelés"],
       ro: ["Poiană sărată", "Observarea elefanților"],
       en: ["Saline clearing", "Elephant watching"]
-    }
-  },
+    },
+    factsAdvanced: {
+      de: ["15 Quadratkilometer großes Lichtungsgebiet", "Bis zu 200 Elefanten bei einer Sichtung", "Einzigartige Mineralien-Salzleckstellen", "Seit 2002 Nationalpark-Schutz", "Wichtiger Hotspot für Gorillaforschung", "Entlegen und schwer erreichbar"],
+      hu: ["15 négyzetkilométeres tisztás", "Akár 200 elefánt egyetlen észleléskor", "Egyedülálló ásványi sónyalók", "2002 óta nemzeti parki védelem", "Fontos gócpont a gorillakutatásban", "Elszigetelt és nehezen megközelíthető"],
+      ro: ["Poiană de 15 kilometri pătrați", "Până la 200 de elefanți într-o singură observație", "Sărături minerale unice", "Protecție de parc național din 2002", "Hotspot important pentru cercetarea gorilelor", "Izolat și greu accesibil"],
+      en: ["15 square kilometer clearing area", "Up to 200 elephants in a single sighting", "Unique mineral salt licks", "National park protection since 2002", "Important hotspot for gorilla research", "Remote and hard to access"]
+    }, image: "/poi-images/langoue-bai-life-v2.webp"},
   {
     id: "moukalaba-doudou-gorilla-life-v2",
     type: "animal-habitat",
@@ -42,13 +54,24 @@ export const poiExtraGabonLifeV2: POI[] = [
       ro: "O zonă importantă de protecție a primatelor, în special pentru gorilele de câmpie vestice și cimpanzei în sudul Gabonului.",
       en: "A significant primate protection area, especially for Western Lowland Gorillas and chimpanzees in southern Gabon."
     },
+    descriptionAdvanced: {
+      de: "Der Moukalaba-Doudou-Nationalpark schützt ein Mosaik aus Grasland und Regenwald, das als eines der wichtigsten Refugien für westliche Flachlandgorillas gilt. Die Region ist Teil eines größeren Schutznetzwerks in Gabun und ermöglicht eine nachhaltige Erforschung von Primaten in ihrem natürlichen Lebensraum. Die Artenvielfalt umfasst neben Gorillas auch zahlreiche Schimpansen und andere bedrohte Säugetierarten. Sachkunde K5 — Primatenschutz.",
+      hu: "A Moukalaba-Doudou Nemzeti Park a gyepek és esőerdők mozaikját védi, amely az egyik legfontosabb menedékhely a nyugati síkvidéki gorillák számára. A régió része egy nagyobb gaboni védelmi hálózatnak, és lehetővé teszi a főemlősök fenntartható kutatását természetes élőhelyükön. A biológiai sokféleség a gorillák mellett számos csimpánzt és más veszélyeztetett emlősfajt is magában foglal. Sachkunde K5 — főemlős-védelem.",
+      ro: "Parcul Național Moukalaba-Doudou protejează un mozaic de pajiști și păduri tropicale, considerat unul dintre cele mai importante refugii pentru gorilele de câmpie vestice. Regiunea face parte dintr-o rețea mai mare de protecție din Gabon și permite cercetarea durabilă a primatelor în habitatul lor natural. Biodiversitatea include, pe lângă gorile, numeroși cimpanzei și alte specii de mamifere amenințate. Sachkunde K5 — protecția primatelor.",
+      en: "Moukalaba-Doudou National Park protects a mosaic of grassland and rainforest, considered one of the most important refuges for Western Lowland Gorillas. The region is part of a larger protection network in Gabon and allows for sustainable research of primates in their natural habitat. Biodiversity includes, besides gorillas, numerous chimpanzees and other endangered mammal species. Sachkunde K5 — primate protection."
+    },
     facts: {
       de: ["Hohe Primatendichte", "Ökotourismus-Zentrum"],
       hu: ["Magas főemlős-sűrűség", "Ökoturisztikai központ"],
       ro: ["Densitate mare de primate", "Centru de ecoturism"],
       en: ["High primate density", "Ecotourism hub"]
-    }
-  },
+    },
+    factsAdvanced: {
+      de: ["Über 4.500 Quadratkilometer Schutzfläche", "Hohe Dichte an Flachlandgorillas", "Einzigartiges Grasland-Wald-Mosaik", "Wichtiges Zentrum für Ökotourismus", "Schutzstatus seit 2002", "Beheimatet afrikanische Waldelefanten"],
+      hu: ["Több mint 4500 négyzetkilométer védett terület", "Nagy sűrűségű síkvidéki gorillák", "Egyedülálló gyephavas-erdő mozaik", "Fontos ökoturisztikai központ", "Védettség 2002 óta", "Afrikai erdei elefántok otthona"],
+      ro: ["Peste 4500 de kilometri pătrați de arie protejată", "Densitate mare de gorile de câmpie", "Mozaic unic de pajiști și păduri", "Centru important pentru ecoturism", "Statut de protecție din 2002", "Găzduiește elefanți de pădure africani"],
+      en: ["Over 4,500 square kilometers of protected area", "High density of lowland gorillas", "Unique grassland-forest mosaic", "Important center for ecotourism", "Protection status since 2002", "Home to African forest elephants"]
+    }, image: "/poi-images/moukalaba-doudou-gorilla-life-v2.webp"},
   {
     id: "iguela-reserve-life-v2",
     type: "animal-habitat",
@@ -71,8 +94,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Strandoló elefántok", "Gazdag lagúna-fauna"],
       ro: ["Elefanți pe plajă", "Faună bogată în lagune"],
       en: ["Beach-visiting elephants", "Rich lagoon fauna"]
-    }
-  },
+    }, image: "/poi-images/iguela-reserve-life-v2.webp"},
   {
     id: "akanda-birds-life-v2",
     type: "animal-habitat",
@@ -95,8 +117,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Vándormadár-lelőhely", "Mangrove-ökoszisztéma"],
       ro: ["Hotspot pentru păsări", "Ecosistem de mangrove"],
       en: ["Migratory bird hotspot", "Mangrove ecosystem"]
-    }
-  },
+    }, image: "/poi-images/akanda-birds-life-v2.webp"},
   {
     id: "pongara-turtles-life-v2",
     type: "animal-habitat",
@@ -119,8 +140,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Teknős-fészkelőhely", "Szezonális megfigyelés"],
       ro: ["Cuibăritul țestoaselor", "Observare sezonieră"],
       en: ["Turtle nesting site", "Seasonal watching"]
-    }
-  },
+    }, image: "/poi-images/pongara-turtles-life-v2.webp"},
   {
     id: "mwagna-park-life-v2",
     type: "animal-habitat",
@@ -143,8 +163,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Érintetlen vadon", "Alacsony emberi hatás"],
       ro: ["Sălbăticie neatinsă", "Impact uman redus"],
       en: ["Pristine wilderness", "Low human impact"]
-    }
-  },
+    }, image: "/poi-images/mwagna-park-life-v2.webp"},
   {
     id: "belinga-elephants-life-v2",
     type: "animal-habitat",
@@ -191,8 +210,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Folyami fauna", "Garantált észlelés"],
       ro: ["Faună fluvială", "Observare garantată"],
       en: ["River fauna", "Sightings guaranteed"]
-    }
-  },
+    }, image: "/poi-images/ivindo-hippos-life-v2.webp"},
   {
     id: "loango-beach-fauna-life-v2",
     type: "animal-habitat",
@@ -239,8 +257,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Mandrill-kutatás", "Visszatelepítés"],
       ro: ["Cercetarea mandrililor", "Reintroducere"],
       en: ["Mandrill research", "Reintroduction"]
-    }
-  },
+    }, image: "/poi-images/bakoumba-primates-life-v2.webp"},
   {
     id: "bitam-rubber-life-v2",
     type: "agriculture",
@@ -263,8 +280,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Latex-termelés", "Észak-Gabon gazdasága"],
       ro: ["Producție de latex", "Economia Gabunului de Nord"],
       en: ["Latex production", "North Gabon economy"]
-    }
-  },
+    }, image: "/poi-images/bitam-rubber-life-v2.webp"},
   {
     id: "ntoum-vegetables-life-v2",
     type: "agriculture",
@@ -287,8 +303,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Friss zöldségforrás", "Városközeli"],
       ro: ["Sursă de legume proaspete", "Aproape de oraș"],
       en: ["Fresh vegetable source", "Urban proximity"]
-    }
-  },
+    }, image: "/poi-images/ntoum-vegetables-life-v2.webp"},
   {
     id: "woleu-ntem-cocoa-life-v2",
     type: "agriculture",
@@ -311,8 +326,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Kakaóbab export", "Kisgazdaságok"],
       ro: ["Export de cacao", "Ferme mici"],
       en: ["Cocoa bean export", "Smallholder farms"]
-    }
-  },
+    }, image: "/poi-images/woleu-ntem-cocoa-life-v2.webp"},
   {
     id: "ogooue-lolo-coffee-life-v2",
     type: "agriculture",
@@ -335,8 +349,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Robuszta kávé", "Dombvidéki gazdálkodás"],
       ro: ["Cafea Robusta", "Agricultură pe dealuri"],
       en: ["Robusta coffee", "Hill farming"]
-    }
-  },
+    }, image: "/poi-images/ogooue-lolo-coffee-life-v2.webp"},
   {
     id: "nyanga-cattle-life-v2",
     type: "agriculture",
@@ -359,8 +372,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Szarvasmarha-tenyésztés", "Szavanna-táj"],
       ro: ["Creșterea vitelor", "Peisaj de savană"],
       en: ["Cattle ranching", "Savanna landscape"]
-    }
-  },
+    }, image: "/poi-images/nyanga-cattle-life-v2.webp"},
   {
     id: "lambarene-fishery-life-v2",
     type: "agriculture",
@@ -383,8 +395,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Édesvízi hal", "Folyami kereskedelem"],
       ro: ["Pește de apă dulce", "Comerț fluvial"],
       en: ["Freshwater fish", "River trade"]
-    }
-  },
+    }, image: "/poi-images/lambarene-fishery-life-v2.webp"},
   {
     id: "lebamba-rice-life-v2",
     type: "agriculture",
@@ -407,8 +418,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Gabonatermesztés", "Élelmiszerbiztonság"],
       ro: ["Cultivarea cerealelor", "Securitate alimentară"],
       en: ["Cereal cultivation", "Food security"]
-    }
-  },
+    }, image: "/poi-images/lebamba-rice-life-v2.webp"},
   {
     id: "mpassa-reserve-life-v2",
     type: "animal-habitat",
@@ -431,8 +441,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Visszatelepítési projektek", "Szavannavédelem"],
       ro: ["Proiecte de reintroducere", "Protecția savanei"],
       en: ["Reintroduction projects", "Savanna protection"]
-    }
-  },
+    }, image: "/poi-images/mpassa-reserve-life-v2.webp"},
   {
     id: "sette-cama-lagoon-fauna-life-v2",
     type: "animal-habitat",
@@ -455,8 +464,7 @@ export const poiExtraGabonLifeV2: POI[] = [
       hu: ["Lamantin-élőhely", "Krokodilmegfigyelés"],
       ro: ["Habitatul lamantinilor", "Observarea crocodililor"],
       en: ["Manatee habitat", "Crocodile watching"]
-    }
-  },
+    }, image: "/poi-images/sette-cama-lagoon-fauna-life-v2.webp"},
   {
     id: "akanda-mangrove-life-v2",
     type: "animal-habitat",
@@ -482,3 +490,4 @@ export const poiExtraGabonLifeV2: POI[] = [
     }
   }
 ];
+

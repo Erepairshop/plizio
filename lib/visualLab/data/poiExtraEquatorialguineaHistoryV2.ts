@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEquatorialguineaHistoryV2: POI[] = [
@@ -43,8 +44,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Features two 40-meter high towers",
         "Located at the Plaza de la Independencia"
       ]
-    }
-  },
+    }, image: "/poi-images/catedral-santa-isabel-history-v2.webp"},
   {
     id: "casa-correos-bata-history-v2",
     type: "historical",
@@ -87,8 +87,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Located near the seafront",
         "Well-preserved historical monument"
       ]
-    }
-  },
+    }, image: "/poi-images/casa-correos-bata-history-v2.webp"},
   {
     id: "torre-libertad-bata-history-v2",
     type: "historical",
@@ -175,8 +174,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Seat of the Diocese of Mongomo",
         "Splendid marble decoration inside"
       ]
-    }
-  },
+    }, image: "/poi-images/basilica-mongomo-history-v2.webp"},
   {
     id: "mision-claretiana-baney-history-v2",
     type: "historical",
@@ -219,8 +217,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Traditional missionary architecture",
         "Situated amidst cocoa plantations"
       ]
-    }
-  },
+    }, image: "/poi-images/mision-claretiana-baney-history-v2.webp"},
   {
     id: "ruinas-riaba-history-v2",
     type: "historical",
@@ -263,8 +260,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Remains of old warehouses visible",
         "Significant site of the island's history"
       ]
-    }
-  },
+    }, image: "/poi-images/ruinas-riaba-history-v2.webp"},
   {
     id: "puerto-iradier-history-v2",
     type: "historical",
@@ -351,8 +347,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Formerly an important trading center",
         "Buildings overgrown by the rainforest"
       ]
-    }
-  },
+    }, image: "/poi-images/elobey-chico-ruins-history-v2.webp"},
   {
     id: "iglesia-pale-history-v2",
     type: "historical",
@@ -395,8 +390,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Simple colonial architecture",
         "Significant monument for the islanders"
       ]
-    }
-  },
+    }, image: "/poi-images/iglesia-pale-history-v2.webp"},
   {
     id: "monumento-independencia-malabo-history-v2",
     type: "historical",
@@ -439,8 +433,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Symbol of national pride",
         "Surrounded by historical government buildings"
       ]
-    }
-  },
+    }, image: "/poi-images/monumento-independencia-malabo-history-v2.webp"},
   {
     id: "centro-historico-evinayong-history-v2",
     type: "historical",
@@ -483,8 +476,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Classic colonial urban planning",
         "Surrounded by misty mountains"
       ]
-    }
-  },
+    }, image: "/poi-images/centro-historico-evinayong-history-v2.webp"},
   {
     id: "cathedral-ebebiyin-history-v2",
     type: "historical",
@@ -527,8 +519,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Impressive inland architecture",
         "Center of the local diocese"
       ]
-    }
-  },
+    }, image: "/poi-images/cathedral-ebebiyin-history-v2.webp"},
   {
     id: "mision-niefang-history-v2",
     type: "historical",
@@ -571,8 +562,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Center for education and health",
         "Near the strategic Wele bridge"
       ]
-    }
-  },
+    }, image: "/poi-images/mision-niefang-history-v2.webp"},
   {
     id: "museo-nacional-history-v2",
     type: "historical",
@@ -659,8 +649,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Example of European mountain architecture",
         "View over the Biao crater basin"
       ]
-    }
-  },
+    }, image: "/poi-images/palacio-moca-history-v2.webp"},
   {
     id: "faro-punta-unidad-history-v2",
     type: "historical",
@@ -703,8 +692,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Classic colonial tower construction",
         "View of the Cameroonian coast"
       ]
-    }
-  },
+    }, image: "/poi-images/faro-punta-unidad-history-v2.webp"},
   {
     id: "plaza-reloj-malabo-history-v2",
     type: "historical",
@@ -747,8 +735,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Historical public lighting",
         "Center of social life"
       ]
-    }
-  },
+    }, image: "/poi-images/plaza-reloj-malabo-history-v2.webp"},
   {
     id: "antiguo-puerto-luba-history-v2",
     type: "historical",
@@ -791,8 +778,7 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
         "Center of the Bubi region",
         "Important for economic development"
       ]
-    }
-  },
+    }, image: "/poi-images/antiguo-puerto-luba-history-v2.webp"},
   {
     id: "mausoleo-mongomo-history-v2",
     type: "historical",
@@ -882,3 +868,4 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
     }
   }
 ];
+

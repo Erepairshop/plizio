@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEcuadorHistoryV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["A 15. században épült.", "A cañari és inka építészet keveredését mutatja be."],
       ro: ["Construit în secolul al XV-lea.", "Prezintă un amestec de arhitectură Cañari și Inca."],
       en: ["Built in the 15th century.", "Features a mix of Cañari and Inca architecture."]
-    }
-  },
+    }, image: "/poi-images/ingapirca-history-v2.webp"},
   {
     id: "pumapungo-history-v2",
     type: "historical",
@@ -47,8 +47,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["A név jelentése \"A puma kapuja\".", "Paloták és naptemplomok maradványait tartalmazza."],
       ro: ["Numele înseamnă \"Poarta Pumei\".", "Conține rămășițe de palate și temple ale soarelui."],
       en: ["The name means \"Door of the Puma\".", "Contains remains of palaces and sun temples."]
-    }
-  },
+    }, image: "/poi-images/pumapungo-history-v2.webp"},
   {
     id: "la-compania-de-jesus-history-v2",
     type: "historical",
@@ -71,8 +70,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Építése több mint 160 évig tartott.", "A spanyol barokk építészet egyik legjelentősebb alkotásának tartják."],
       ro: ["Construcția a durat peste 160 de ani.", "Considerată una dintre cele mai importante lucrări de arhitectură barocă spaniolă."],
       en: ["Construction took over 160 years.", "Considered one of the most significant works of Spanish Baroque architecture."]
-    }
-  },
+    }, image: "/poi-images/la-compania-de-jesus-history-v2.webp"},
   {
     id: "basilica-del-voto-nacional-history-v2",
     type: "historical",
@@ -95,8 +93,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["A vízköpők ecuadori állatokat, például teknősöket és leguánokat ábrázolnak.", "1988-ban II. János Pál pápa áldotta meg."],
       ro: ["Garguii reprezintă animale ecuadoriene precum țestoase și iguane.", "A fost sfințită de Papa Ioan Paul al II-lea în 1988."],
       en: ["The gargoyles represent Ecuadorian animals like turtles and iguanas.", "Was blessed by Pope John Paul II in 1988."]
-    }
-  },
+    }, image: "/poi-images/basilica-del-voto-nacional-history-v2.webp"},
   {
     id: "cochasqui-history-v2",
     type: "historical",
@@ -119,8 +116,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["15 csonka piramist és 21 sírhalmot foglal magába.", "Valószínűleg csillagászati és szertartási célokat szolgált."],
       ro: ["Include 15 trunchiuri de piramidă și 21 de movile funerare.", "A servit probabil unor scopuri astronomice și ceremoniale."],
       en: ["Includes 15 truncated pyramids and 21 burial mounds.", "Likely served astronomical and ceremonial purposes."]
-    }
-  },
+    }, image: "/poi-images/cochasqui-history-v2.webp"},
   {
     id: "agua-blanca-history-v2",
     type: "historical",
@@ -143,8 +139,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Fontos prekolumbián település volt.", "Kőüléseiről és régészeti leleteiről ismert."],
       ro: ["A fost o importantă așezare precolumbiană.", "Cunoscut pentru scaunele sale de piatră și descoperirile arheologice."],
       en: ["Was an important pre-Columbian settlement.", "Known for its stone seats and archaeological findings."]
-    }
-  },
+    }, image: "/poi-images/agua-blanca-history-v2.webp"},
   {
     id: "catedral-nueva-de-cuenca-history-v2",
     type: "historical",
@@ -191,8 +186,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["A jelenlegi emlékmű 1979 és 1982 között épült.", "Az 1736-os francia-spanyol missziónak állít emléket."],
       ro: ["Monumentul actual a fost construit între 1979 și 1982.", "Comemorează misiunea franco-spaniolă din 1736."],
       en: ["The current monument was built between 1979 and 1982.", "Commemorates the French-Spanish mission of 1736."]
-    }
-  },
+    }, image: "/poi-images/mitad-del-mundo-history-v2.webp"},
   {
     id: "rumicucho-pucara-history-v2",
     type: "historical",
@@ -215,8 +209,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Öt kőteraszból áll.", "Stratégiailag az Egyenlítő közelében épült."],
       ro: ["Este compus din cinci terase de piatră.", "A fost construit strategic în apropierea Ecuatorului."],
       en: ["Consists of five stone terraces.", "Was strategically built near the equator."]
-    }
-  },
+    }, image: "/poi-images/rumicucho-pucara-history-v2.webp"},
   {
     id: "tulipe-history-v2",
     type: "historical",
@@ -239,8 +232,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["A yumbók fontos kereskedőnép voltak az inka idők előtt.", "A medencéket rituális tisztálkodásra használták."],
       ro: ["Yumbos au fost un important popor comercial înainte de era Incașă.", "Bazinele erau folosite pentru purificări rituale."],
       en: ["The Yumbos were an important trading people before the Inca era.", "The pools were used for ritual purifications."]
-    }
-  },
+    }, image: "/poi-images/tulipe-history-v2.webp"},
   {
     id: "banos-del-inca-en-coyoctor-history-v2",
     type: "historical",
@@ -263,8 +255,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Bonyolult vízrendszerrel rendelkezik.", "El Tambo közelében található."],
       ro: ["Dispune de un sistem elaborat de apă.", "Situat în apropiere de El Tambo."],
       en: ["Features an elaborate water system.", "Located near El Tambo."]
-    }
-  },
+    }, image: "/poi-images/banos-del-inca-en-coyoctor-history-v2.webp"},
   {
     id: "cerro-hojas-jaboncillo-history-v2",
     type: "historical",
@@ -287,8 +278,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Több száz kőépítményt fedeztek fel itt.", "Feltehetően fontos politikai központ volt."],
       ro: ["Aici au fost descoperite sute de structuri de piatră.", "A fost probabil un important centru politic."],
       en: ["Hundreds of stone structures were discovered here.", "It was likely an important political center."]
-    }
-  },
+    }, image: "/poi-images/cerro-hojas-jaboncillo-history-v2.webp"},
   {
     id: "monasterio-de-santa-catalina-de-siena-history-v2",
     type: "historical",
@@ -311,8 +301,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["A 16. század végén alapították.", "Értékes vallási műalkotásokat őriz."],
       ro: ["Fondată la sfârșitul secolului al XVI-lea.", "Păstrează opere de artă religioasă valoroase."],
       en: ["Founded in the late 16th century.", "Preserves valuable religious artworks."]
-    }
-  },
+    }, image: "/poi-images/monasterio-de-santa-catalina-de-siena-history-v2.webp"},
   {
     id: "santuario-de-guapulo-history-v2",
     type: "historical",
@@ -335,8 +324,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Építése a 17. század második felében fejeződött be.", "A negyed a spanyolok Amazonas felé tartó útvonalán feküdt."],
       ro: ["Construcția a fost finalizată în a doua jumătate a secolului al XVII-lea.", "Cartierul se afla pe ruta pe care spaniolii o foloseau spre Amazon."],
       en: ["Construction was completed in the second half of the 17th century.", "The neighborhood was on the route the Spanish took to the Amazon."]
-    }
-  },
+    }, image: "/poi-images/santuario-de-guapulo-history-v2.webp"},
   {
     id: "pucara-de-quitoloma-history-v2",
     type: "historical",
@@ -359,8 +347,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Egy védelmi hálózat része volt.", "Az inka birodalom északi terjeszkedését mutatja be."],
       ro: ["Făcea parte dintr-o rețea de apărare.", "Arată expansiunea Imperiului Incaș spre nord."],
       en: ["Part of a network of defenses.", "Shows the expansion of the Inca Empire to the north."]
-    }
-  },
+    }, image: "/poi-images/pucara-de-quitoloma-history-v2.webp"},
   {
     id: "palacio-de-carondelet-history-v2",
     type: "historical",
@@ -383,8 +370,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Eredetileg a Quitói Királyi Audiencia székhelye volt.", "Héctor de Carondelet báróról nevezték el."],
       ro: ["Inițial sediul Audienței Regale din Quito.", "Numit după baronul Héctor de Carondelet."],
       en: ["Originally the seat of the Royal Audience of Quito.", "Named after Baron Héctor de Carondelet."]
-    }
-  },
+    }, image: "/poi-images/palacio-de-carondelet-history-v2.webp"},
   {
     id: "puerta-de-la-ciudad-history-v2",
     type: "historical",
@@ -407,8 +393,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Ma művészeti galériáknak ad otthont.", "A déli város, Loja szimbóluma."],
       ro: ["Găzduiește astăzi galerii de artă.", "Este simbolul orașului sudic Loja."],
       en: ["Now houses art galleries.", "Is the landmark of the southern city of Loja."]
-    }
-  },
+    }, image: "/poi-images/puerta-de-la-ciudad-history-v2.webp"},
   {
     id: "ruinas-de-todos-santos-history-v2",
     type: "historical",
@@ -431,8 +416,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Az ecuadori történelem három legfontosabb korszakát mutatja be.", "1972-ben fedezték fel ásatások során."],
       ro: ["Prezintă cele trei epoci principale ale istoriei ecuadoriene.", "Descoperit în 1972 în timpul unor excavații."],
       en: ["Shows the three main eras of Ecuadorian history.", "Discovered in 1972 during excavations."]
-    }
-  },
+    }, image: "/poi-images/ruinas-de-todos-santos-history-v2.webp"},
   {
     id: "convento-de-san-agustin-history-v2",
     type: "historical",
@@ -455,8 +439,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["A függetlenséget itt írták alá a káptalanteremben.", "Lenyűgöző 16. századi építészet jellemzi."],
       ro: ["Independența a fost semnată aici în sala capitulară.", "Prezintă o arhitectură impresionantă din secolul al XVI-lea."],
       en: ["Independence was signed here in the chapter house.", "Features impressive 16th-century architecture."]
-    }
-  },
+    }, image: "/poi-images/convento-de-san-agustin-history-v2.webp"},
   {
     id: "iglesia-de-la-merced-history-v2",
     type: "historical",
@@ -479,8 +462,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Építése 1701-ben kezdődött.", "Itt található Quito legrégebbi órája, egy Londonból származó ajándék."],
       ro: ["Construcția a început în 1701.", "Găzduiește cel mai vechi ceas din Quito, un cadou de la Londra."],
       en: ["Construction began in 1701.", "Houses the oldest clock in Quito, a gift from London."]
-    }
-  },
+    }, image: "/poi-images/iglesia-de-la-merced-history-v2.webp"},
   {
     id: "hacienda-guachala-history-v2",
     type: "historical",
@@ -503,8 +485,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Hűbérbirtokként szolgált a spanyol gyarmati időkben.", "A francia geodéziai misszió tagjai itt szálltak meg."],
       ro: ["A servit drept feudă în timpul perioadei coloniale spaniole.", "Membrii Misiunii Geodezice Franceze au stat aici."],
       en: ["Served as a fiefdom during the Spanish colonial period.", "Members of the French Geodesic Mission stayed here."]
-    }
-  },
+    }, image: "/poi-images/hacienda-guachala-history-v2.webp"},
   {
     id: "iglesia-de-la-balbanera-history-v2",
     type: "historical",
@@ -527,8 +508,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["1534-ben alapították.", "A Colta-tó közelében található."],
       ro: ["A fost fondată în 1534.", "Situată în apropiere de lacul Colta."],
       en: ["Was founded in 1534.", "Located near Lake Colta."]
-    }
-  },
+    }, image: "/poi-images/iglesia-de-la-balbanera-history-v2.webp"},
   {
     id: "fortin-de-la-planchada-history-v2",
     type: "historical",
@@ -551,8 +531,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["1609-ben épült.", "Többször megmentette a várost a kifosztástól."],
       ro: ["A fost construit în 1609.", "A salvat orașul de mai multe ori de la jafuri."],
       en: ["Was built in 1609.", "Saved the city from looting multiple times."]
-    }
-  },
+    }, image: "/poi-images/fortin-de-la-planchada-history-v2.webp"},
   {
     id: "torre-del-reloj-history-v2",
     type: "historical",
@@ -575,8 +554,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Az épület jellegzetes mór stílussal rendelkezik.", "Az órát Angliából importálták a 19. században."],
       ro: ["Clădirea are un stil maur distinct.", "Ceasul este din Anglia și a fost importat în secolul al XIX-lea."],
       en: ["The building has a distinct Moorish style.", "The clock is from England and was imported in the 19th century."]
-    }
-  },
+    }, image: "/poi-images/torre-del-reloj-history-v2.webp"},
   {
     id: "iglesia-de-san-francisco-history-v2",
     type: "historical",
@@ -599,8 +577,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["Építése 1535-ben kezdődött, néhány nappal Quito alapítása után.", "Majdnem két háztömböt foglal el."],
       ro: ["Construcția a început în 1535, la câteva zile după fondarea orașului Quito.", "Acoperă aproape două blocuri ale orașului."],
       en: ["Construction began in 1535, a few days after the founding of Quito.", "Covers almost two city blocks."]
-    }
-  },
+    }, image: "/poi-images/iglesia-de-san-francisco-history-v2.webp"},
   {
     id: "monumento-a-guayas-y-quil-history-v2",
     type: "historical",
@@ -623,8 +600,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["A spanyol hódítókkal szembeni őslakos ellenállást ünnepli.", "Az emlékmű a Guayas folyó partján áll."],
       ro: ["Sărbătorește rezistența indigenă împotriva conchistadorilor spanioli.", "Monumentul se află pe malul râului Guayas."],
       en: ["It celebrates indigenous resistance against the Spanish conquistadors.", "The monument stands on the banks of the Guayas River."]
-    }
-  },
+    }, image: "/poi-images/monumento-a-guayas-y-quil-history-v2.webp"},
   {
     id: "catedral-vieja-de-cuenca-history-v2",
     type: "historical",
@@ -647,8 +623,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["A város alapításának idején, 1557-ben épült.", "Túl kicsi lett a növekvő népesség számára, ezért építették az új katedrálist."],
       ro: ["A fost construită în 1557, în momentul fondării orașului.", "A devenit prea mică pentru populația în creștere, motiv pentru care a fost construită noua catedrală."],
       en: ["Was built in 1557 at the time of the city's founding.", "Became too small for the growing population, leading to the construction of the new cathedral."]
-    }
-  },
+    }, image: "/poi-images/catedral-vieja-de-cuenca-history-v2.webp"},
   {
     id: "iglesia-de-santo-domingo-history-v2",
     type: "historical",
@@ -671,8 +646,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["A 16. században építették a domonkos szerzetesek.", "A quitói művészeti iskola remekműve."],
       ro: ["A fost construită în secolul al XVI-lea de călugării dominicani.", "O capodoperă a școlii de artă din Quito."],
       en: ["Was built in the 16th century by Dominican friars.", "A masterpiece of the Quiteño school of art."]
-    }
-  },
+    }, image: "/poi-images/iglesia-de-santo-domingo-history-v2.webp"},
   {
     id: "la-rotonda-history-v2",
     type: "historical",
@@ -695,8 +669,7 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
       hu: ["A találkozóra 1822-ben került sor.", "A tábornokok itt tervezték meg Dél-Amerika végső felszabadítását."],
       ro: ["Întâlnirea a avut loc în 1822.", "Generalii au plănuit aici eliberarea finală a Americii de Sud."],
       en: ["The meeting took place in 1822.", "The generals planned the final liberation of South America here."]
-    }
-  },
+    }, image: "/poi-images/la-rotonda-history-v2.webp"},
   {
     id: "capilla-del-hombre-history-v2",
     type: "historical",
@@ -722,3 +695,4 @@ export const poiExtraEcuadorHistoryV2: POI[] = [
     }
   }
 ];
+

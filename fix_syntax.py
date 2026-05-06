@@ -1,22 +1,13 @@
 import re
-import os
+with open('/mnt/c/Users/User/plizio-repo/lib/visualLab/data/poiExtraEritreaCitiesV2.ts', 'r', encoding='utf-8') as f:
+    content = f.read()
 
-files = [
-    "lib/visualLab/data/poiExtraParaguayCitiesV2.ts",
-    "lib/visualLab/data/poiExtraParaguayEconomicV2.ts",
-    "lib/visualLab/data/poiExtraParaguayHistoryV2.ts",
-    "lib/visualLab/data/poiExtraParaguayLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraParaguayLifeV2.ts",
-    "lib/visualLab/data/poiExtraParaguayNatureV2.ts",
-    "lib/visualLab/data/poiExtraParaguayReliefV2.ts"
-]
+# Fix Asmara structure
+content = re.sub(r'\},[\s]*descriptionAdvanced: \{', ', descriptionAdvanced: {', content)
+# Fix Massawa structure (there's an extra bracket in between)
+content = re.sub(r'\},[\s]*descriptionAdvanced: \{', ', descriptionAdvanced: {', content)
+# Remove the weird extra brackets I created
+content = re.sub(r'\},\n\s*\{', '},\n  {', content)
 
-for file_path in files:
-    with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Fix the extra '  },'
-    content = content.replace('\n  },\n    descriptionAdvanced', ',\n    descriptionAdvanced')
-    
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write(content)
+with open('/mnt/c/Users/User/plizio-repo/lib/visualLab/data/poiExtraEritreaCitiesV2.ts', 'w', encoding='utf-8') as f:
+    f.write(content)

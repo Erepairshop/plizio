@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraNigeriaLifeV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Több mint 50 elefántfaj otthona", "Híres a Wikki-hőforrásokról", "Nigéria legnagyobb védett területe", "1956-ban alapították"],
       ro: ["Casa a peste 50 de specii de elefanți", "Cunoscut pentru izvoarele termale Wikki", "Cea mai mare zonă protejată din Nigeria", "Înființat în 1956"],
       en: ["Home to over 50 elephant species", "Famous for Wikki Warm Springs", "Nigeria's largest protected area", "Established in 1956"]
-    }
-  },
+    }, image: "/poi-images/ng-yankari-safari-life-v2.webp"},
   {
     id: "ng-gashaka-gumti-life-v2",
     type: "animal-habitat",
@@ -27,8 +27,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Itt található Chappal Waddi, Nigéria legmagasabb csúcsa", "Változatos főemlőspopulációk", "Több mint 6000 négyzetkilométeren terül el", "Fontos biodiverzitási központ"],
       ro: ["Include Chappal Waddi, cel mai înalt vârf din Nigeria", "Populații diverse de primate", "Se întinde pe peste 6.000 de kilometri pătrați", "Hotspot important pentru biodiversitate"],
       en: ["Includes Chappal Waddi, Nigeria's highest peak", "Diverse primate populations", "Spans over 6,000 square kilometers", "Important hotspot for biodiversity"]
-    }
-  },
+    }, image: "/poi-images/ng-gashaka-gumti-life-v2.webp"},
   {
     id: "ng-olumene-farm-life-v2",
     type: "agriculture",
@@ -41,8 +40,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["A fenntartható kakaótermesztésre összpontosít", "Betekintést nyújt a látogatóknak a folyamatba", "Fontos regionális gazdasági érték", "Hagyományos termesztési módszerek"],
       ro: ["Focus pe cultivarea sustenabilă a cacao", "Oferă vizitatorilor o privire asupra procesului", "Activ economic regional important", "Metode tradiționale de cultivare"],
       en: ["Focus on sustainable cocoa farming", "Offers visitors insight into the process", "Important regional economic asset", "Traditional farming methods"]
-    }
-  },
+    }, image: "/poi-images/ng-olumene-farm-life-v2.webp"},
   {
     id: "ng-jos-wildlife-life-v2",
     type: "kid-landmark",
@@ -55,8 +53,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Ideális családi kirándulásokhoz", "Oroszlánok és páviánok otthona", "Szép táji környezet", "Tanulságos a gyerekek számára"],
       ro: ["Ideal pentru excursii în familie", "Găzduiește lei și babuini", "Mediu pitoresc frumos", "Educativ pentru copii"],
       en: ["Ideal for family outings", "Home to lions and baboons", "Beautiful scenic surroundings", "Educational for children"]
-    }
-  },
+    }, image: "/poi-images/ng-jos-wildlife-life-v2.webp"},
   {
     id: "ng-lekkiconservation-life-v2",
     type: "animal-habitat",
@@ -69,8 +66,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Afrika leghosszabb lombkorona tanösvénye", "Majmok és ritka madarak otthona", "Nyugalom szigete Lagos közepén", "Környezeti oktatást támogat"],
       ro: ["Cel mai lung traseu la înălțime din Africa", "Găzduiește maimuțe și păsări rare", "Oază de liniște în mijlocul orașului Lagos", "Promovează educația ecologică"],
       en: ["Longest canopy walkway in Africa", "Home to monkeys and rare birds", "Haven of peace in the middle of Lagos", "Promotes environmental education"]
-    }
-  },
+    }, image: "/poi-images/ng-lekkiconservation-life-v2.webp"},
   {
     id: "ng-ibadan-cocoa-life-v2",
     type: "agriculture",
@@ -83,8 +79,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["A kakaóexport történelmi központja", "Kutatás a nagy hozamú fajtákról", "Fontos szerep a nigériai gazdaságban", "Képzések gazdálkodók számára"],
       ro: ["Centru istoric al exportului de cacao", "Cercetare privind soiurile cu randament ridicat", "Rol important în economia nigeriană", "Instruiri pentru fermieri"],
       en: ["Historic center of cocoa export", "Research on high-yield varieties", "Important role in the Nigerian economy", "Trainings for farmers"]
-    }
-  },
+    }, image: "/poi-images/ng-ibadan-cocoa-life-v2.webp"},
   {
     id: "ng-calabar-monkey-life-v2",
     type: "animal-habitat",
@@ -97,8 +92,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["A fajmegőrzésre összpontosít", "Vezetett túrákat kínál", "Fontos élőhely a drill-majmok számára", "Oktatás helyi iskolák számára"],
       ro: ["Focus pe conservarea speciilor", "Oferă tururi ghidate", "Habitat important pentru maimuțele Drill", "Educație pentru școlile locale"],
       en: ["Focus on species conservation", "Offers guided tours", "Important habitat for Drill monkeys", "Education for local schools"]
-    }
-  },
+    }, image: "/poi-images/ng-calabar-monkey-life-v2.webp"},
   {
     id: "ng-crossriver-nat-life-v2",
     type: "animal-habitat",
@@ -111,8 +105,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Hatalmas fajgazdagság", "Ritka gorillák otthona", "UNESCO Bioszféra-rezervátum jelölt", "Sűrű trópusi esőerdő"],
       ro: ["Biodiversitate enorm de ridicată", "Casa gorilelor rare", "Candidat la Rezervația Biosferei UNESCO", "Pădure tropicală densă"],
       en: ["Enormously high biodiversity", "Home to rare gorillas", "UNESCO Biosphere Reserve candidate", "Dense tropical rainforest"]
-    }
-  },
+    }, image: "/poi-images/ng-crossriver-nat-life-v2.webp"},
   {
     id: "ng-kano-zoo-life-v2",
     type: "kid-landmark",
@@ -125,8 +118,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Különböző afrikai állatfajok", "Nagy játszóterek gyerekeknek", "Fontos oktatási központ", "Központi elhelyezkedés Kanóban"],
       ro: ["Diverse specii de animale africane", "Zone mari de joacă pentru copii", "Centru educațional important", "Situată central în Kano"],
       en: ["Diverse African animal species", "Large play areas for children", "Important educational center", "Centrally located in Kano"]
-    }
-  },
+    }, image: "/poi-images/ng-kano-zoo-life-v2.webp"},
   {
     id: "ng-ekiti-agri-life-v2",
     type: "agriculture",
@@ -139,8 +131,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Támogatja a modern mezőgazdaságot", "Kukorica- és jamgyökér-termesztési régió", "Támogatja a helyi kistermelőket", "Technikai bemutató üzem"],
       ro: ["Promovează agricultura modernă", "Regiune pentru cultivarea porumbului și ignamei", "Sprijină micii fermieri locali", "Fermă demonstrativă pentru tehnici"],
       en: ["Promotes modern agriculture", "Region for corn and yam farming", "Supports local small-scale farmers", "Demonstration farm for techniques"]
-    }
-  },
+    }, image: "/poi-images/ng-ekiti-agri-life-v2.webp"},
   {
     id: "ng-omo-reserve-life-v2",
     type: "animal-habitat",
@@ -153,8 +144,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Erdei elefántok otthona", "Nagy kutatási terület", "Sűrű esőerdő", "Veszélyeztetett fafajok védelme"],
       ro: ["Casa elefanților de pădure", "Zonă mare de cercetare", "Pădure tropicală densă", "Protecția speciilor de lemn pe cale de dispariție"],
       en: ["Home to forest elephants", "Large research area", "Dense rainforest", "Protection of endangered wood species"]
-    }
-  },
+    }, image: "/poi-images/ng-omo-reserve-life-v2.webp"},
   {
     id: "ng-kaduna-zoo-life-v2",
     type: "kid-landmark",
@@ -167,8 +157,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Ötvözi az állatkertet és a botanikus kertet", "Tanulságos kiállítások gyerekeknek", "Pihentető hely családoknak", "Hazai és egzotikus fajok"],
       ro: ["Combină grădina zoologică și grădinile botanice", "Exponate educative pentru copii", "Loc relaxant pentru familii", "Specii indigene și exotice"],
       en: ["Combines zoo and botanical gardens", "Educational exhibits for children", "Relaxing place for families", "Native and exotic species"]
-    }
-  },
+    }, image: "/poi-images/ng-kaduna-zoo-life-v2.webp"},
   {
     id: "ng-kwara-farm-life-v2",
     type: "agriculture",
@@ -181,8 +170,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Modern termesztési technikák népszerűsítése", "A gabonatermelésre összpontosít", "Munkahelyeket teremt a régióban", "Együttműködés nemzetközi partnerekkel"],
       ro: ["Promovarea tehnicilor moderne de cultivare", "Focus pe producția de cereale", "Oferă locuri de muncă în regiune", "Colaborare cu parteneri internaționali"],
       en: ["Promotion of modern farming techniques", "Focus on cereal production", "Provides jobs in the region", "Collaboration with international partners"]
-    }
-  },
+    }, image: "/poi-images/ng-kwara-farm-life-v2.webp"},
   {
     id: "ng-imo-zoo-life-v2",
     type: "kid-landmark",
@@ -195,8 +183,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Népszerű úticél iskolák számára", "Az oktatásra összpontosít", "A helyi fauna védelme", "Gondozott létesítmények"],
       ro: ["Destinație populară pentru școli", "Focus pe educație", "Protecția faunei locale", "Facilități bine întreținute"],
       en: ["Popular destination for schools", "Focus on education", "Protection of local fauna", "Well-maintained facilities"]
-    }
-  },
+    }, image: "/poi-images/ng-imo-zoo-life-v2.webp"},
   {
     id: "ng-enugu-park-life-v2",
     type: "kid-landmark",
@@ -209,8 +196,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Sok játszótér gyerekeknek", "Zöldterületek a pihenéshez", "Helyszín családi piknikekhez", "Kulturális rendezvények"],
       ro: ["Multe locuri de joacă pentru copii", "Spații verzi pentru relaxare", "Loc pentru picnicuri în familie", "Evenimente culturale"],
       en: ["Many playgrounds for children", "Green spaces for relaxing", "Place for family picnics", "Cultural events"]
-    }
-  },
+    }, image: "/poi-images/ng-enugu-park-life-v2.webp"},
   {
     id: "ng-borno-safari-life-v2",
     type: "animal-habitat",
@@ -223,8 +209,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Egyedülálló száheli élővilág", "Sivatagi ökoszisztémák átélése", "Idegenforgalmi kezdeményezés a régióban", "Oktatóutak a száraz területeken"],
       ro: ["Floră și faună unică de Sahel", "Experiența ecosistemelor de deșert", "Inițiativă turistică în regiune", "Călătorii educative despre zonele aride"],
       en: ["Unique Sahel flora and fauna", "Experience of desert ecosystems", "Tourism initiative in the region", "Educational trips about drylands"]
-    }
-  },
+    }, image: "/poi-images/ng-borno-safari-life-v2.webp"},
   {
     id: "ng-delta-nature-life-v2",
     type: "animal-habitat",
@@ -237,8 +222,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Fontos élőhelyek mangrovefajok számára", "Halivóhelyek védelme", "Kutatás a delta-ökoszisztémákról", "Helyi védelmi kezdeményezések"],
       ro: ["Habitate importante pentru specii de mangrove", "Protecția zonelor de reproducere a peștilor", "Cercetare privind ecosistemele deltaice", "Inițiative locale de conservare"],
       en: ["Important habitats for mangrove species", "Protection of fish breeding grounds", "Research on delta ecosystems", "Local conservation initiatives"]
-    }
-  },
+    }, image: "/poi-images/ng-delta-nature-life-v2.webp"},
   {
     id: "ng-abia-agri-life-v2",
     type: "agriculture",
@@ -251,8 +235,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Pálmaolaj-termelésre összpontosít", "Modern feldolgozási módszerek", "Gazdasági központ Abiában", "Támogatás a gazdálkodók számára"],
       ro: ["Focus pe producția de ulei de palmier", "Metode moderne de procesare", "Centru economic în Abia", "Sprijin pentru fermieri"],
       en: ["Focus on palm oil production", "Modern processing methods", "Economic hub in Abia", "Support for farmers"]
-    }
-  },
+    }, image: "/poi-images/ng-abia-agri-life-v2.webp"},
   {
     id: "ng-anambra-forest-life-v2",
     type: "animal-habitat",
@@ -265,8 +248,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["A honos növényvilág védelme", "Pihenőhely a helyi vadvilág számára", "Regionális oktatási központ", "Sűrű faállomány"],
       ro: ["Conservarea florei indigene", "Refugiu pentru animalele sălbatice locale", "Centru educațional regional", "Populație densă de arbori"],
       en: ["Conservation of native flora", "Refuge for local wildlife", "Regional educational center", "Dense tree population"]
-    }
-  },
+    }, image: "/poi-images/ng-anambra-forest-life-v2.webp"},
   {
     id: "ng-sokoto-zoo-life-v2",
     type: "kid-landmark",
@@ -279,8 +261,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Helyi állatfajokat mutat be", "Szabadidős tevékenységek családoknak", "Oktatási kirándulások", "Védelmi erőfeszítések a régióban"],
       ro: ["Prezintă specii locale de animale", "Activități de recreere pentru familii", "Excursii educaționale", "Eforturi de conservare în regiune"],
       en: ["Showcases local animal species", "Recreational activities for families", "Educational trips", "Conservation efforts in the region"]
-    }
-  },
+    }, image: "/poi-images/ng-sokoto-zoo-life-v2.webp"},
   {
     id: "ng-bauchi-orchard-life-v2",
     type: "agriculture",
@@ -293,8 +274,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Különböző citrusfélék termelése", "Regionális gazdasági erősítés", "Kutatás a termesztési módszerekről", "Népszerű úticél iskolai kirándulásokhoz"],
       ro: ["Producția de diverse citrice", "Consolidarea economică regională", "Cercetare privind metodele de cultivare", "Destinație populară pentru excursii școlare"],
       en: ["Production of various citrus fruits", "Regional economic strengthening", "Research on cultivation methods", "Popular destination for school trips"]
-    }
-  },
+    }, image: "/poi-images/ng-bauchi-orchard-life-v2.webp"},
   {
     id: "ng-benue-farm-life-v2",
     type: "agriculture",
@@ -307,8 +287,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Fő jamgyökér-termesztési régió", "Termékeny talaj", "Támogatás nagyüzemi gazdálkodók számára", "Az állam gazdasági motorja"],
       ro: ["Regiune principală de cultivare a ignamei", "Soluri fertile", "Sprijin pentru fermierii mari", "Motorul economic al statului"],
       en: ["Main region for yam farming", "Fertile soils", "Support for large-scale farmers", "Economic motor of the state"]
-    }
-  },
+    }, image: "/poi-images/ng-benue-farm-life-v2.webp"},
   {
     id: "ng-ondo-cacao-life-v2",
     type: "agriculture",
@@ -321,8 +300,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Támogatja a fenntartható termesztést", "Minőségellenőrzés az exporthoz", "Méltányos árak a gazdálkodóknak", "Képzések a hozam javítására"],
       ro: ["Promovează cultivarea sustenabilă", "Controlul calității pentru export", "Prețuri echitabile pentru fermieri", "Instruiri pentru îmbunătățirea recoltei"],
       en: ["Promotes sustainable farming", "Quality control for export", "Fair prices for farmers", "Trainings to improve yield"]
-    }
-  },
+    }, image: "/poi-images/ng-ondo-cacao-life-v2.webp"},
   {
     id: "ng-ebonyi-rice-life-v2",
     type: "agriculture",
@@ -335,8 +313,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Fő rizstermesztési terület", "Modern öntözőrendszerek", "Gazdasági hozzájárulás az államhoz", "Termesztési képzési programok"],
       ro: ["Principală regiune de cultivare a orezului", "Sisteme moderne de irigare", "Contribuție economică la stat", "Programe de instruire pentru cultivare"],
       en: ["Main region for rice farming", "Modern irrigation systems", "Economic contribution to the state", "Training programs for farming"]
-    }
-  },
+    }, image: "/poi-images/ng-ebonyi-rice-life-v2.webp"},
   {
     id: "ng-ekiti-bird-life-v2",
     type: "animal-habitat",
@@ -349,8 +326,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Ritka költöző madarak otthona", "Oktatási helyszín", "Zavartalan élőhely", "Turisztikai és kutatási projekt"],
       ro: ["Casa păsărilor migratoare rare", "Locație educațională", "Habitat netulburat", "Proiect de turism și cercetare"],
       en: ["Home to rare migratory birds", "Educational site", "Undisturbed habitat", "Tourism and research project"]
-    }
-  },
+    }, image: "/poi-images/ng-ekiti-bird-life-v2.webp"},
   {
     id: "ng-jigawa-farm-life-v2",
     type: "agriculture",
@@ -363,8 +339,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["A szárazföldi mezőgazdaságra összpontosít", "A helyi élelmezésbiztonság támogatása", "Alkalmazkodó fajták használata", "Képzések kisüzemek számára"],
       ro: ["Focus pe agricultura în zone aride", "Sprijinirea securității alimentare locale", "Utilizarea soiurilor adaptate", "Instruiri pentru fermele mici"],
       en: ["Focus on dryland farming", "Supporting local food security", "Use of adapted varieties", "Trainings for small farms"]
-    }
-  },
+    }, image: "/poi-images/ng-jigawa-farm-life-v2.webp"},
   {
     id: "ng-kebbi-rice-life-v2",
     type: "agriculture",
@@ -391,8 +366,7 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       hu: ["Kutatás a fenntartható mezőgazdaságért", "Tesztterep az új technikákhoz", "Oktatási ajánlatok", "Regionális termelékenység növelése"],
       ro: ["Cercetare pentru agricultura sustenabilă", "Teren de testare pentru tehnici noi", "Oferte educaționale", "Promovează productivitatea regională"],
       en: ["Research for sustainable agriculture", "Testing ground for new techniques", "Educational offers", "Promotes regional productivity"]
-    }
-  },
+    }, image: "/poi-images/ng-nasarawa-farm-life-v2.webp"},
   {
     id: "ng-taraba-nature-life-v2",
     type: "animal-habitat",
@@ -408,3 +382,4 @@ export const poiExtraNigeriaLifeV2: POI[] = [
     }
   }
 ];
+

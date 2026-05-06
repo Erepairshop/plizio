@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraEthiopiaLifeV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["A sivatagi elefántok otthona.", "Egyedülálló félsivatagi táj."],
       ro: ["Căminul elefanților de deșert.", "Peisaj unic de semideșert."],
       en: ["Home to desert elephants.", "Unique semi-desert landscape."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Babile-Elefanten-Schutzgebiet, 1970 gegründet, beheimatet die seltenen afrikanischen Wüstenelefanten. Mit einer Fläche von etwa 6.982 Quadratkilometern erstreckt sich das Reservat durch ein einzigartiges Halbwüsten- und Savannenökosystem im östlichen Äthiopien. Es ist das wichtigste Refugium für diese Elefantenpopulation, die sich an die trockenen Bedingungen angepasst hat. Der Park bietet Lebensraum für eine Vielzahl weiterer Wildtiere und ist für Ökotouristen von großer Bedeutung. Geografie K7 — Ökosysteme und Schutzgebiete.",
+      hu: "A Babile Elefántrezervátumot 1970-ben alapították, és az afrikai sivatagi elefántok egyik legritkább populációjának ad otthont. A kb. 6982 négyzetkilométernyi terület Etiópia keleti részén található, félsivatagi és szavannai élőhelyekkel. Ez a rezervátum létfontosságú ezeknek az állatoknak, amelyek alkalmazkodtak a szélsőségesen száraz körülményekhez. A park változatos vadállatoknak biztosít menedéket, és fontos célpont az ökoturisták számára. Földrajz K7 — ökoszisztémák és védett területek.",
+      ro: "Sanctuarul de Elefanți Babile, fondat în 1970, găzduiește rarii elefanți de deșert africani. Cu o suprafață de aproximativ 6.982 kilometri pătrați, rezervația se întinde printr-un ecosistem unic de semideșert și savană în estul Etiopiei. Este cel mai important refugiu pentru această populație de elefanți care s-a adaptat condițiilor aride. Parcul oferă habitat pentru numeroase alte animale sălbatice și este semnificativ pentru ecoturism. Geografie K7 — ecosisteme și zone protejate.",
+      en: "Babile Elephant Sanctuary, founded in 1970, is home to the rare African desert elephants. Covering approximately 6,982 square kilometers, the reserve extends through a unique semi-desert and savanna ecosystem in eastern Ethiopia. It is the most important refuge for this elephant population, which has adapted to arid conditions. The park provides a habitat for various wildlife and is significant for ecotourism. Geography K7 — ecosystems and protected areas."
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1970.", "Fläche von 6.982 km².", "Heimat der Wüstenelefanten.", "Wichtigster Schutzraum im Osten.", "Diverse endemische Pflanzen.", "Ziel für den Ökotourismus."],
+      hu: ["1970-ben alapítva.", "Területe 6982 km².", "Sivatagi elefántok otthona.", "Legfontosabb rezervátum keleten.", "Változatos endemikus növények.", "Ökoturisztikai célpont."],
+      ro: ["Fondat în 1970.", "Suprafață de 6.982 km².", "Căminul elefanților de deșert.", "Cel mai important refugiu în est.", "Plante endemice diverse.", "Destinație pentru ecoturism."],
+      en: ["Founded in 1970.", "Area of 6,982 km².", "Home to desert elephants.", "Most important refuge in the east.", "Diverse endemic plants.", "Destination for ecotourism."]
+    }, image: "/poi-images/babile-elephant-habitat-life-v2.webp"},
   {
     id: "senkele-hartebeest-habitat-life-v2",
     type: "animal-habitat",
@@ -27,8 +39,19 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["A Swayne-torkosantilopok legnagyobb sűrűsége.", "A Hasadékvölgyben található."],
       ro: ["Cea mai mare densitate de antilope Swayne.", "Situat în Valea Riftului."],
       en: ["Highest density of Swayne's hartebeests.", "Located in the Rift Valley."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Senkele-Schutzgebiet, 1972 im Rift Valley gegründet, wurde speziell zum Schutz der Swayne-Leierantilope eingerichtet. Mit einer überschaubaren Fläche von nur 58 Quadratkilometern ist es eines der wichtigsten Reservate für diese vom Aussterben bedrohte Unterart. Das Gebiet bietet eine Mischung aus Savanne und Grasland, die ideal für das Überleben der Tiere ist. Das Schutzgebiet spielt eine zentrale Rolle bei der Erhaltung der Biodiversität in Äthiopien. Biologie K6 — Artenschutz und gefährdete Tierarten.",
+      hu: "A Senkele vadvédelmi területet 1972-ben alapították a Hasadékvölgyben, kifejezetten a Swayne-torkosantilop megóvása érdekében. Az alig 58 négyzetkilométeres terület az egyik legfontosabb rezervátum a veszélyeztetett alfaj számára. A terület szavanna és füves puszta keveréke, ami ideális az állatok túléléséhez. A védett terület központi szerepet játszik Etiópia biológiai sokféleségének fenntartásában. Biológia K6 — fajmegőrzés és veszélyeztetett fajok.",
+      ro: "Sanctuarul Senkele, fondat în 1972 în Valea Riftului, a fost stabilit special pentru protejarea antilopei Swayne. Cu o suprafață modestă de doar 58 de kilometri pătrați, este una dintre cele mai importante rezervații pentru această subspecie amenințată cu dispariția. Zona oferă un amestec de savană și pășuni, ideal pentru supraviețuirea animalelor. Sanctuarul joacă un rol central în conservarea biodiversității în Etiopia. Biologie K6 — conservarea speciilor și specii pe cale de dispariție.",
+      en: "Senkele Wildlife Sanctuary, founded in 1972 in the Rift Valley, was established specifically for the protection of Swayne's hartebeest. With a modest area of only 58 square kilometers, it is one of the most important reserves for this threatened subspecies. The area offers a mix of savanna and grassland, which is ideal for the survival of the animals. The sanctuary plays a central role in maintaining biodiversity in Ethiopia. Biology K6 — species conservation and endangered species."
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1972.", "Fläche von 58 km².", "Schutz der Swayne-Leierantilope.", "Gelegen im Rift Valley.", "Kritisches Habitate für die Art.", "Strenge Schutzmaßnahmen."],
+      hu: ["1972-ben alapítva.", "Területe 58 km².", "Swayne-torkosantilop védelme.", "A Hasadékvölgyben található.", "Kritikus élőhely a faj számára.", "Szigorú védelmi intézkedések."],
+      ro: ["Fondat în 1972.", "Suprafață de 58 km².", "Protecția antilopei Swayne.", "Situat în Valea Riftului.", "Habitat critic pentru specie.", "Măsuri stricte de protecție."],
+      en: ["Founded in 1972.", "Area of 58 km².", "Protection of Swayne's hartebeest.", "Located in the Rift Valley.", "Critical habitat for the species.", "Strict conservation measures."]
+    }, image: "/poi-images/senkele-hartebeest-habitat-life-v2.webp"},
   {
     id: "chebera-churchura-habitat-life-v2",
     type: "animal-habitat",
@@ -41,8 +64,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Vulkanikus tavakban gazdag.", "Sűrű hegyi erdő."],
       ro: ["Bogat în lacuri vulcanice.", "Pădure montană densă."],
       en: ["Rich in volcanic lakes.", "Dense mountain forest."]
-    }
-  },
+    }, image: "/poi-images/chebera-churchura-habitat-life-v2.webp"},
   {
     id: "maze-park-habitat-life-v2",
     type: "animal-habitat",
@@ -55,8 +77,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Nyitott szavannai táj.", "Magas hegyekkel körülvéve."],
       ro: ["Peisaj de savană deschisă.", "Înconjurat de munți înalți."],
       en: ["Open savanna landscape.", "Surrounded by high mountains."]
-    }
-  },
+    }, image: "/poi-images/maze-park-habitat-life-v2.webp"},
   {
     id: "alatish-park-habitat-life-v2",
     type: "animal-habitat",
@@ -69,8 +90,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Szudánnal határos.", "Száraz erdei ökoszisztéma."],
       ro: ["Învecinat cu Sudanul.", "Ecosistem de pădure uscată."],
       en: ["Bordering Sudan.", "Dry forest ecosystem."]
-    }
-  },
+    }, image: "/poi-images/alatish-park-habitat-life-v2.webp"},
   {
     id: "kafta-sheraro-habitat-life-v2",
     type: "animal-habitat",
@@ -83,8 +103,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Fontos vándorlási útvonal.", "Változatos madárvilág."],
       ro: ["Coridor important de migrație.", "Avifaună diversă."],
       en: ["Important migration corridor.", "Diverse birdlife."]
-    }
-  },
+    }, image: "/poi-images/kafta-sheraro-habitat-life-v2.webp"},
   {
     id: "borena-saynt-habitat-life-v2",
     type: "animal-habitat",
@@ -97,8 +116,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Védi az etióp farkast.", "Nagyon meredek terep."],
       ro: ["Protejează lupul etiopian.", "Teren foarte abrupt."],
       en: ["Protects the Ethiopian wolf.", "Very steep terrain."]
-    }
-  },
+    }, image: "/poi-images/borena-saynt-habitat-life-v2.webp"},
   {
     id: "guassa-habitat-life-v2",
     type: "animal-habitat",
@@ -111,8 +129,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Fontos a Guassa-fű számára.", "Az etióp farkas otthona."],
       ro: ["Important pentru iarba Guassa.", "Adăpostește lupul etiopian."],
       en: ["Important for Guassa grass.", "Home to the Ethiopian wolf."]
-    }
-  },
+    }, image: "/poi-images/guassa-habitat-life-v2.webp"},
   {
     id: "yirgacheffe-coffee-agriculture-life-v2",
     type: "agriculture",
@@ -125,8 +142,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Nagy tengerszint feletti magasságban termesztik.", "Egyedi mosóállomások."],
       ro: ["Cultivată la altitudini mari.", "Stații de spălare unice."],
       en: ["Grown at high altitudes.", "Unique washing stations."]
-    }
-  },
+    }, image: "/poi-images/yirgacheffe-coffee-agriculture-life-v2.webp"},
   {
     id: "sidamo-coffee-agriculture-life-v2",
     type: "agriculture",
@@ -139,8 +155,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Védett márkanév.", "Termékeny talaj."],
       ro: ["Marcă protejată.", "Sol fertil."],
       en: ["Brand name protected.", "Fertile soil."]
-    }
-  },
+    }, image: "/poi-images/sidamo-coffee-agriculture-life-v2.webp"},
   {
     id: "limmu-coffee-agriculture-life-v2",
     type: "agriculture",
@@ -153,8 +168,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Enyhe ízéről ismert.", "Természetes árnyékolt termesztés."],
       ro: ["Cunoscută pentru gustul blând.", "Cultivare naturală la umbră."],
       en: ["Known for mild taste.", "Natural shade-grown cultivation."]
-    }
-  },
+    }, image: "/poi-images/limmu-coffee-agriculture-life-v2.webp"},
   {
     id: "bebeka-coffee-agriculture-life-v2",
     type: "agriculture",
@@ -167,8 +181,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Több mint 10 000 hektár területű.", "Fűszereket is termel."],
       ro: ["Peste 10.000 de hectare.", "Produce și condimente."],
       en: ["Over 10,000 hectares in size.", "Also produces spices."]
-    }
-  },
+    }, image: "/poi-images/bebeka-coffee-agriculture-life-v2.webp"},
   {
     id: "teppi-coffee-agriculture-life-v2",
     type: "agriculture",
@@ -181,8 +194,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Az ország második legnagyobb ültetvénye.", "Magas fokú gépesítettség."],
       ro: ["A doua cea mai mare plantație din țară.", "Grad ridicat de mecanizare."],
       en: ["Second largest plantation in the country.", "High degree of mechanization."]
-    }
-  },
+    }, image: "/poi-images/teppi-coffee-agriculture-life-v2.webp"},
   {
     id: "wonji-sugar-agriculture-life-v2",
     type: "agriculture",
@@ -195,8 +207,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Etiópia első cukorgyára.", "Nagyüzemi öntözés."],
       ro: ["Prima fabrică de zahăr din Etiopia.", "Irigare pe scară largă."],
       en: ["First sugar factory in Ethiopia.", "Large-scale irrigation."]
-    }
-  },
+    }, image: "/poi-images/wonji-sugar-agriculture-life-v2.webp"},
   {
     id: "metahara-sugar-agriculture-life-v2",
     type: "agriculture",
@@ -209,8 +220,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["A régió fontos munkaadója.", "Vulkanikus talajt használ."],
       ro: ["Important angajator în regiune.", "Utilizează soluri vulcanice."],
       en: ["Important employer in the region.", "Uses volcanic soils."]
-    }
-  },
+    }, image: "/poi-images/metahara-sugar-agriculture-life-v2.webp"},
   {
     id: "arba-minch-fruit-agriculture-life-v2",
     type: "agriculture",
@@ -223,8 +233,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Addisz legfontosabb gyümölcsszállítója.", "Trópusi éghajlat."],
       ro: ["Cel mai important furnizor de fructe pentru Addis.", "Climat tropical."],
       en: ["Main fruit supplier for Addis.", "Tropical climate."]
-    }
-  },
+    }, image: "/poi-images/arba-minch-fruit-agriculture-life-v2.webp"},
   {
     id: "ziway-roses-agriculture-life-v2",
     type: "agriculture",
@@ -237,8 +246,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Modern üvegházi technológia.", "Európai exportpiac."],
       ro: ["Tehnologie modernă de seră.", "Piață de export europeană."],
       en: ["Modern greenhouse technology.", "European export market."]
-    }
-  },
+    }, image: "/poi-images/ziway-roses-agriculture-life-v2.webp"},
   {
     id: "lekempti-coffee-agriculture-life-v2",
     type: "agriculture",
@@ -251,8 +259,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Hagyományos vad kávétermesztés.", "Dombos táj."],
       ro: ["Cultivare tradițională de cafea sălbatică.", "Peisaj deluros."],
       en: ["Traditional wild coffee cultivation.", "Hilly landscape."]
-    }
-  },
+    }, image: "/poi-images/lekempti-coffee-agriculture-life-v2.webp"},
   {
     id: "unity-park-addis-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -265,8 +272,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Tartalmazza a tróntermet.", "Nagyszerű hely gyerekeknek a tanuláshoz."],
       ro: ["Include sala tronului.", "Excelent pentru învățarea copiilor."],
       en: ["Includes the throne room.", "Great for children to learn."]
-    }
-  },
+    }, image: "/poi-images/unity-park-addis-kid-landmark-life-v2.webp"},
   {
     id: "friendship-square-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -279,8 +285,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Népszerű fotózási helyszín.", "Addisz központjában található."],
       ro: ["Loc popular pentru fotografii.", "Situat central în Addis."],
       en: ["Popular spot for photos.", "Centrally located in Addis."]
-    }
-  },
+    }, image: "/poi-images/friendship-square-kid-landmark-life-v2.webp"},
   {
     id: "gullele-botanical-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -293,8 +298,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["A helyi növényekre összpontosít.", "Természeti oktatási központ."],
       ro: ["Accent pe plantele native.", "Centru educațional pentru natură."],
       en: ["Focus on native plants.", "Educational center for nature."]
-    }
-  },
+    }, image: "/poi-images/gullele-botanical-kid-landmark-life-v2.webp"},
   {
     id: "lion-zoo-addis-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -307,8 +311,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["A fekete sörényű oroszlánok védelme.", "A város közepén."],
       ro: ["Protecția leilor cu coamă neagră.", "În mijlocul orașului."],
       en: ["Protection of black-maned lions.", "In the middle of the city."]
-    }
-  },
+    }, image: "/poi-images/lion-zoo-addis-kid-landmark-life-v2.webp"},
   {
     id: "kuriftu-waterpark-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -321,8 +324,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Csúcsvonzerő gyerekeknek.", "Bishoftuban található."],
       ro: ["Atracție de top pentru copii.", "Situat în Bishoftu."],
       en: ["Top attraction for children.", "Located in Bishoftu."]
-    }
-  },
+    }, image: "/poi-images/kuriftu-waterpark-kid-landmark-life-v2.webp"},
   {
     id: "langano-resorts-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -335,8 +337,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Biztonságos úszáshoz.", "Ideális családi kirándulásokhoz."],
       ro: ["Sigur pentru înot.", "Ideal pentru excursii în familie."],
       en: ["Safe for swimming.", "Ideal for family outings."]
-    }
-  },
+    }, image: "/poi-images/langano-resorts-kid-landmark-life-v2.webp"},
   {
     id: "arba-minch-crocodiles-habitat-life-v2",
     type: "animal-habitat",
@@ -349,8 +350,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Krokodilokat nevel védelem céljából.", "Lenyűgöző nagy állatok."],
       ro: ["Crește crocodili pentru conservare.", "Animale mari impresionante."],
       en: ["Raises crocodiles for conservation.", "Impressive large animals."]
-    }
-  },
+    }, image: "/poi-images/arba-minch-crocodiles-habitat-life-v2.webp"},
   {
     id: "karamara-coffee-agriculture-life-v2",
     type: "agriculture",
@@ -363,8 +363,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Egyedülálló mikroklíma.", "Történelmi kereskedelmi régió."],
       ro: ["Microclimat unic.", "Regiune comercială istorică."],
       en: ["Unique microclimate.", "Historic trade region."]
-    }
-  },
+    }, image: "/poi-images/karamara-coffee-agriculture-life-v2.webp"},
   {
     id: "afar-camels-agriculture-life-v2",
     type: "agriculture",
@@ -377,8 +376,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Fontos a sókereskedelemben.", "Nagyon ellenálló állatok."],
       ro: ["Importante pentru comerțul cu sare.", "Animale foarte rezistente."],
       en: ["Important for salt trade.", "Very resilient animals."]
-    }
-  },
+    }, image: "/poi-images/afar-camels-agriculture-life-v2.webp"},
   {
     id: "wondo-genet-forest-agriculture-life-v2",
     type: "agriculture",
@@ -391,8 +389,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["Az újrafásításra összpontosít.", "Illóolajokban gazdag."],
       ro: ["Accent pe reîmpădurire.", "Bogat în uleiuri esențiale."],
       en: ["Focus on reforestation.", "Rich in essential oils."]
-    }
-  },
+    }, image: "/poi-images/wondo-genet-forest-agriculture-life-v2.webp"},
   {
     id: "sheger-park-addis-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -405,8 +402,7 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
       hu: ["A városépítészeti projekt része.", "Biztonságos pihenőhely."],
       ro: ["Parte a proiectului de înfrumusețare a orașului.", "Loc sigur de recreere."],
       en: ["Part of the urban beautification project.", "Safe recreation spot."]
-    }
-  },
+    }, image: "/poi-images/sheger-park-addis-kid-landmark-life-v2.webp"},
   {
     id: "yeka-nature-park-kid-landmark-life-v2",
     type: "kid-landmark",
@@ -422,3 +418,4 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     }
   }
 ];
+

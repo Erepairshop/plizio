@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMaliLifeV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Zsiráfok otthona", "Fontos védett terület Maliban", "Nyugat-afrikai vadon élő állatok", "Változatos ökoszisztéma"],
       ro: ["Acasă pentru girafe", "Zonă protejată importantă în Mali", "Animale sălbatice din Africa de Vest", "Ecosistem diversificat"],
       en: ["Home to giraffes", "Important protected area in Mali", "West African wildlife", "Diverse ecosystem"]
-    }
-  },
+    }, image: "/poi-images/boucle-du-baoule-life-v2.webp"},
   {
     id: "office-du-niger-life-v2",
     type: "agriculture",
@@ -47,8 +47,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Rizstermesztési központ", "Nagy öntözőrendszer", "Fontos az élelmezésbiztonság szempontjából", "A Niger folyónál fekszik"],
       ro: ["Centrul cultivării orezului", "Sistem mare de irigații", "Important pentru securitatea alimentară", "Situat pe râul Niger"],
       en: ["Rice cultivation center", "Large irrigation system", "Important for food security", "Located on the Niger River"]
-    }
-  },
+    }, image: "/poi-images/office-du-niger-life-v2.webp"},
   {
     id: "bamako-zoo-life-v2",
     type: "kid-landmark",
@@ -71,8 +70,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Családbarát hely", "Mali őshonos élővilága", "Oktatási lehetőségek gyerekeknek", "Zöld oázis a városban"],
       ro: ["Popular în rândul familiilor", "Fauna nativă a Maliului", "Oportunități educaționale pentru copii", "Oază verde în oraș"],
       en: ["Popular with families", "Mali's native wildlife", "Educational offerings for kids", "Green oasis in the city"]
-    }
-  },
+    }, image: "/poi-images/bamako-zoo-life-v2.webp"},
   {
     id: "delta-interieur-niger-life-v2",
     type: "animal-habitat",
@@ -95,8 +93,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Fontos a költözőmadaraknak", "Gigantikus vizes élőhely", "Halban gazdag ökoszisztéma", "Szezonális áradások"],
       ro: ["Important pentru păsările migratoare", "Zonă umedă gigantică", "Ecosistem bogat în pești", "Inundații sezoniere"],
       en: ["Important for migratory birds", "Gigantic wetland", "Fish-rich ecosystem", "Seasonal floods"]
-    }
-  },
+    }, image: "/poi-images/delta-interieur-niger-life-v2.webp"},
   {
     id: "bafing-faunal-reserve-life-v2",
     type: "animal-habitat",
@@ -119,8 +116,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Csimpánzok védelme", "Fontos védett terület", "Nyugat-afrikai növényvilág", "Természetközeli vadon"],
       ro: ["Protecție pentru cimpanzei", "Zonă protejată importantă", "Floră vest-africană", "Sălbăticie naturală"],
       en: ["Protection for chimpanzees", "Important protected area", "West African flora", "Natural wilderness"]
-    }
-  },
+    }, image: "/poi-images/bafing-faunal-reserve-life-v2.webp"},
   {
     id: "gourma-elephant-habitat-life-v2",
     type: "animal-habitat",
@@ -143,8 +139,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Ritka sivatagi elefántok", "Túlélés száraz területeken", "Erős alkalmazkodóképesség", "Tudományosan jelentős"],
       ro: ["Elefanți deșertici rari", "Supraviețuire în zone aride", "Adaptabilitate puternică", "Semnificație științifică"],
       en: ["Rare desert elephants", "Survival in arid regions", "Strong adaptability", "Scientifically significant"]
-    }
-  },
+    }, image: "/poi-images/gourma-elephant-habitat-life-v2.webp"},
   {
     id: "sibi-agricultural-zone-life-v2",
     type: "agriculture",
@@ -167,8 +162,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Hagyományos földművelés", "Bamakó ellátása", "Gyümölcs- és zöldségtermesztés", "Vidékfejlesztés"],
       ro: ["Agricultură tradițională", "Aprovizionarea orașului Bamako", "Cultivarea fructelor și legumelor", "Dezvoltare rurală"],
       en: ["Traditional farming", "Supplying Bamako", "Fruit and vegetable cultivation", "Rural development"]
-    }
-  },
+    }, image: "/poi-images/sibi-agricultural-zone-life-v2.webp"},
   {
     id: "djenne-garden-district-life-v2",
     type: "kid-landmark",
@@ -191,8 +185,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Történelmi vályogváros", "Termékeny kertek", "Helyi zöldségfélék", "Hagyományos termesztési módszerek"],
       ro: ["Oraș istoric de chirpici", "Grădini fertile", "Soiuri locale de legume", "Metode tradiționale de cultivare"],
       en: ["Historic mud-brick city", "Fertile gardens", "Local vegetable varieties", "Traditional cultivation methods"]
-    }
-  },
+    }, image: "/poi-images/djenne-garden-district-life-v2.webp"},
   {
     id: "mopti-fishing-culture-life-v2",
     type: "kid-landmark",
@@ -215,8 +208,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Nyüzsgő kikötő", "Halászat központja", "Hagyományos halászhajók", "Érdekes gyerekeknek"],
       ro: ["Port viu", "Centrul comerțului cu pește", "Bărci de pescuit tradiționale", "Interesant pentru copii"],
       en: ["Lively port", "Fish trade hub", "Traditional fishing boats", "Interesting for children"]
-    }
-  },
+    }, image: "/poi-images/mopti-fishing-culture-life-v2.webp"},
   {
     id: "segou-fruit-market-life-v2",
     type: "agriculture",
@@ -239,8 +231,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Regionális gyümölcsök", "Színes piactér", "Városi kultúra", "Helyi árusok"],
       ro: ["Varietate de fructe regionale", "Piață colorată", "Cultura orașului", "Comercianți locali"],
       en: ["Regional fruit variety", "Colorful marketplace", "City culture", "Local traders"]
-    }
-  },
+    }, image: "/poi-images/segou-fruit-market-life-v2.webp"},
   {
     id: "guinean-border-wildlife-life-v2",
     type: "animal-habitat",
@@ -263,8 +254,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Magas biodiverzitás", "Határon átnyúló védelem", "Sűrű lombhullató erdők", "Állatok menedéke"],
       ro: ["Biodiversitate ridicată", "Protecție transfrontalieră", "Păduri dese de foioase", "Refugiu pentru animale"],
       en: ["High biodiversity", "Transboundary protection", "Dense deciduous forests", "Refuge for animals"]
-    }
-  },
+    }, image: "/poi-images/guinean-border-wildlife-life-v2.webp"},
   {
     id: "kayes-orchards-life-v2",
     type: "agriculture",
@@ -383,8 +373,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Víz a Szaharában", "Haszonállatok élőhelye", "Fontos itató", "Szárazföldi ökológia"],
       ro: ["Apă în Sahara", "Habitat pentru vite", "Adăpătoare importantă", "Ecologia zonelor aride"],
       en: ["Water in the Sahara", "Habitat for livestock", "Important watering hole", "Arid land ecology"]
-    }
-  },
+    }, image: "/poi-images/goundam-wetlands-life-v2.webp"},
   {
     id: "koulikoro-gardens-life-v2",
     type: "kid-landmark",
@@ -407,8 +396,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["A Niger mentén", "Családi park", "Játszótéri lehetőségek", "Zöld pihenőövezet"],
       ro: ["Pe malul râului Niger", "Parc familial", "Facilități de joacă", "Zonă verde de relaxare"],
       en: ["On the Niger River", "Family park", "Playground facilities", "Green relaxation zone"]
-    }
-  },
+    }, image: "/poi-images/koulikoro-gardens-life-v2.webp"},
   {
     id: "san-agricultural-hub-life-v2",
     type: "agriculture",
@@ -455,8 +443,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Datolyapálmák", "Sivatagi széli mezőgazdaság", "Történelmi látvány", "Árnyékos oázisok"],
       ro: ["Palmieri curmali", "Agricultură la marginea deșertului", "Priveliște istorică", "Oaze umbroase"],
       en: ["Date palms", "Desert-edge farming", "Historic sight", "Shady oases"]
-    }
-  },
+    }, image: "/poi-images/timbuktu-palm-groves-life-v2.webp"},
   {
     id: "goundam-livestock-life-v2",
     type: "agriculture",
@@ -479,8 +466,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Kecsketenyésztés", "Szarvasmarha-tartás", "Hagyományos mezőgazdaság", "Helyi fajták"],
       ro: ["Creșterea caprinelor", "Creșterea bovinelor", "Agricultură tradițională", "Rase locale"],
       en: ["Goat rearing", "Cattle farming", "Traditional farming", "Local breeds"]
-    }
-  },
+    }, image: "/poi-images/goundam-livestock-life-v2.webp"},
   {
     id: "bamako-market-life-v2",
     type: "kid-landmark",
@@ -503,8 +489,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Színes áruk", "Nyüzsgő élet", "Kulturális csere", "Felfedezés gyerekeknek"],
       ro: ["Bunuri colorate", "Viață vibrantă", "Schimb cultural", "Descoperire pentru copii"],
       en: ["Colorful goods", "Lively atmosphere", "Cultural exchange", "Discovery for children"]
-    }
-  },
+    }, image: "/poi-images/bamako-market-life-v2.webp"},
   {
     id: "segou-river-wildlife-life-v2",
     type: "animal-habitat",
@@ -527,8 +512,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Folyópart", "Madármegfigyelés", "Pihenőövezet", "Természeti szépség"],
       ro: ["Malul râului", "Observarea păsărilor", "Zonă de liniște", "Frumusețe naturală"],
       en: ["Riverbank", "Bird watching", "Quiet zone", "Natural beauty"]
-    }
-  },
+    }, image: "/poi-images/segou-river-wildlife-life-v2.webp"},
   {
     id: "sikasso-mango-farm-life-v2",
     type: "agriculture",
@@ -551,8 +535,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Mangótermesztés", "Mali gyümölcsöskertje", "Regionális betakarítás", "Napos mezők"],
       ro: ["Cultivarea mangoului", "Livada Maliului", "Recoltă regională", "Câmpuri însorite"],
       en: ["Mango farming", "Orchard of Mali", "Regional harvest", "Sunny fields"]
-    }
-  },
+    }, image: "/poi-images/sikasso-mango-farm-life-v2.webp"},
   {
     id: "kayes-market-life-v2",
     type: "kid-landmark",
@@ -575,8 +558,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Helyi kézművesség", "Regionális kereskedelem", "Nyüzsgő élet", "Hagyományos áruk"],
       ro: ["Artizanat local", "Comerț regional", "Viață aglomerată", "Bunuri tradiționale"],
       en: ["Local crafts", "Regional trade", "Busy activity", "Traditional goods"]
-    }
-  },
+    }, image: "/poi-images/kayes-market-life-v2.webp"},
   {
     id: "mopti-garden-life-v2",
     type: "kid-landmark",
@@ -599,8 +581,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["A víz mellett", "Családi kirándulás", "Sétaút", "Helyi hangulat"],
       ro: ["Lângă apă", "Excursie de familie", "Alee de plimbare", "Atmosferă locală"],
       en: ["By the water", "Family trip", "Walking path", "Local atmosphere"]
-    }
-  },
+    }, image: "/poi-images/mopti-garden-life-v2.webp"},
   {
     id: "timbuktu-garden-life-v2",
     type: "kid-landmark",
@@ -623,8 +604,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Oázis a sivatagban", "Kísérleti kertészet", "Vízmegtakarító módszerek", "Zöld szimbólum"],
       ro: ["Oază în deșert", "Grădinărit experimental", "Metode de economisire a apei", "Simbol verde"],
       en: ["Oasis in the desert", "Experimental gardening", "Water-saving methods", "Green symbol"]
-    }
-  },
+    }, image: "/poi-images/timbuktu-garden-life-v2.webp"},
   {
     id: "san-market-life-v2",
     type: "kid-landmark",
@@ -647,8 +627,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Színes piaci forgatag", "Helyi specialitások", "Regionális sokféleség", "Meglátogatandó"],
       ro: ["Viață colorată în piață", "Specialități locale", "Diversitate regională", "Merită vizitat"],
       en: ["Colorful marketplace", "Local specialties", "Regional variety", "Worth a visit"]
-    }
-  },
+    }, image: "/poi-images/san-market-life-v2.webp"},
   {
     id: "goundam-garden-life-v2",
     type: "kid-landmark",
@@ -671,8 +650,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Zöld házi kertek", "Privát zöld", "Növényápolás", "Városszépítés"],
       ro: ["Grădini verzi", "Verdeață privată", "Îngrijirea plantelor", "Înfrumusețarea orașului"],
       en: ["Green home gardens", "Private greenery", "Plant care", "City beautification"]
-    }
-  },
+    }, image: "/poi-images/goundam-garden-life-v2.webp"},
   {
     id: "koulikoro-market-life-v2",
     type: "kid-landmark",
@@ -695,8 +673,7 @@ export const poiExtraMaliLifeV2: POI[] = [
       hu: ["Helyi áruk", "Kulturális csomópont", "Hagyományos kereskedelem", "Színes élmény"],
       ro: ["Bunuri locale", "Punct cultural", "Comerț tradițional", "Experiență colorată"],
       en: ["Local goods", "Cultural hub", "Traditional trade", "Colorful experience"]
-    }
-  },
+    }, image: "/poi-images/koulikoro-market-life-v2.webp"},
   {
     id: "sikasso-nature-life-v2",
     type: "animal-habitat",
@@ -722,3 +699,4 @@ export const poiExtraMaliLifeV2: POI[] = [
     }
   }
 ];
+

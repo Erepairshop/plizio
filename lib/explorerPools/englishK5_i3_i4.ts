@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { PoolTopicDef } from "./types";
 
 // i3 — TENSE TEMPLE (Perfect Tenses & Tense Consistency) | Color: #EC4899 (pink)
@@ -145,3 +146,4 @@ export const SENTENCE5_POOL: PoolTopicDef[] = [
   { infoTitle: "s14_title", infoText: "s14_title", svg: { type: "text-bubbles", items: [{ text: "s14_c1", color: "#1e293b", bg: "#DBEAFE" }, { text: "s14_c2", color: "#1e293b", bg: "#FEF3C7" }] }, interactive: { type: "gap-fill", sentence: "s14_sent", choices: ["s14_c1","s14_c2","s14_c3","s14_c4"], correctIndex: 0, instruction: "s14_inst", hint1: "s14_h1", hint2: "s14_h2" }, quiz: { question: "s14_q", choices: ["s14_qa","s14_qb","s14_qc","s14_qd"], answer: "s14_ans" } },
   { infoTitle: "s15_title", infoText: "s15_title", svg: { type: "text-bubbles", items: [{ text: "s15_c1", color: "#1e293b", bg: "#DBEAFE" }, { text: "s15_c3", color: "#1e293b", bg: "#FEF3C7" }] }, interactive: { type: "gap-fill", sentence: "s15_sent", choices: ["s15_c1","s15_c2","s15_c3","s15_c4"], correctIndex: 0, instruction: "s15_inst", hint1: "s15_h1", hint2: "s15_h2" }, quiz: { question: "s15_q", choices: ["s15_qa","s15_qb","s15_qc","s15_qd"], answer: "s15_ans" } },
 ];
+

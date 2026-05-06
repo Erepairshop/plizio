@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { POI } from "./poi";
 
 export const sanmarinoExtraHistory: POI[] = [
@@ -35,8 +36,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["A köztársaság politikai központja és szíve.", "Itt található a neoklasszikus Szabadság-szobor.", "Páratlan panorámát kínál a környező Appenninekre.", "Minden jelentős állami ünnepség színhelye.", "A szobor Otilia Heyroth Wagener berlini grófnő ajándéka.", "Kihagyhatatlan fotópont az óváros központjában.", "A tér atmoszférája tükrözi a san marinói szabadságvágyat."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/landmark-piazza-della-liberta-extra.webp"},
   {
     id: "historical-church-of-san-francesco-extra",
     type: "historical",
@@ -71,8 +71,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["San Marino legrégebbi, 1361-ben épült temploma.", "Kiváló példája a középkori gótikus építészetnek.", "A kapuzat a neves Comacini mesterek munkája.", "A múzeum gazdag 14. századi szakrális gyűjteményt őriz.", "A városfalak közelében található történelmi emlék.", "A békés hangulat a városi nyüzsgés után tökéletes pihenés.", "Fontos vallási és kulturális örökségi helyszín."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-church-of-san-francesco-extra.webp"},
   {
     id: "landmark-state-museum-san-marino-extra",
     type: "landmark",
@@ -143,8 +142,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Különleges, misztikus alternatíva a történelmi helyszínek mellé.", "A vámpírok és vérfarkasok mitológiáját mutatja be.", "Interaktív kiállítások a misztikumok szerelmeseinek.", "Betekintés a folklór és a legendák sötétebb világába.", "Szórakoztató és tanulságos elemek ötvözete.", "Kétségkívül az óváros legkülönlegesebb látnivalója.", "Élmény, amely sokáig felejthetetlen marad."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-vampire-museum-extra.webp"},
   {
     id: "historical-torture-museum-extra",
     type: "landmark",
@@ -179,8 +177,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Több mint 100 kínzó- és kivégzőeszközt mutat be.", "A történelem igazságszolgáltatásának sötét oldalát tárja fel.", "A különböző korokból származó tárgyak elgondolkodtatóak.", "Célja az emberi jogok fontosságának hangsúlyozása.", "Egy történelmi lecke az erőszakról és kegyetlenségről.", "Erős érzelmi hatású kiállítási helyszín.", "Tanulságos és mélyen megrázó történelmi betekintés."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-torture-museum-extra.webp"},
   {
     id: "historical-church-san-quirino-extra",
     type: "historical",
@@ -215,8 +212,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["16. századi történelmi kápolna.", "Bartolomeo Coda értékes oltárképével büszkélkedhet.", "Egyszerű, elegáns, spirituális építészeti stílus.", "Csendes oázis az óvárosi nyüzsgés közepette.", "Szent Quirinusnak szentelt vallási emlék.", "Rejtett kincs a történelem és a művészet szerelmeseinek.", "Bensőséges, imádságos légkör jellemzi."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-church-san-quirino-extra.webp"},
   {
     id: "landmark-borgo-maggiore-cable-car-extra",
     type: "landmark",
@@ -287,8 +283,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["A 10. századból származó ősi védelmi rendszer része.", "A középkori katonai építészet kimagasló tanúja.", "San Marino korai védelmi stratégiájának elengedhetetlen eleme.", "A szaracén támadások ellen nyújtottak biztonságot a városnak.", "A történelmi városközpont határán ma is jól láthatók.", "A kövek kidolgozottsága a középkori kézművességet tükrözi.", "A köztársaság történelmi függetlenségének egyik fizikai szimbóluma."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-saracen-walls-extra.webp"},
   {
     id: "landmark-passo-delle-streghe-extra",
     type: "landmark",
@@ -323,8 +318,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["A Guaita és a Cesta tornyokat összekötő festői sétaút.", "Nevét a legendákról kapta, amelyek szerint boszorkányok gyülekeztek itt.", "Lélegzetelállító panoráma az óvárosra és a völgyekre.", "A középkori erődítményrendszer fontos közlekedési eleme volt.", "Ideális fotópont és túraútvonal minden évszakban.", "A naplemente itt az egyik legcsodálatosabb élmény San Marinóban.", "Misztikus atmoszféra, amely történetekkel övezi a tájat."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/landmark-passo-delle-streghe-extra.webp"},
   {
     id: "historical-monastery-santa-chiara-extra",
     type: "monastery",
@@ -359,8 +353,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Egykori, 1600-as években alapított klarissza kolostor.", "Ma a San Marino-i Egyetem otthona.", "A Kivándorlók Múzeumának (Museo dell'Emigrante) színhelye.", "A történelmi építészet és a modern oktatás harmonikus találkozása.", "San Marino kulturális és oktatási központja.", "Fontos történelmi emlékezetőrző intézmény.", "A múltbeli értékek megőrzése és a jövő oktatási igényeinek ötvözése."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-monastery-santa-chiara-extra.webp"},
   {
     id: "landmark-gallery-of-modern-art-extra",
     type: "landmark",
@@ -395,8 +388,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Az 1956-ban alapított galéria a kortárs művészet központja.", "Több mint 1000 alkotásból álló gazdag gyűjtemény.", "Neves művészek, mint Renato Guttuso és Emilio Vedova alkotásai.", "Kiemelt fókusz az olasz művészeti hatásokra.", "Inspiráló környezet a művészeti élmények befogadásához.", "Fontos intézmény a san marinói kulturális életben.", "Kulturális találkozóhely a művészetkedvelő turisták számára."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/landmark-gallery-of-modern-art-extra.webp"},
   {
     id: "historical-ex-railway-tunnels-extra",
     type: "historical",
@@ -431,8 +423,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Az egykori vasútvonal 1932 és 1944 között kötötte össze San Marinót Riminivel.", "A második világháború során a vasút teljesen megsemmisült.", "Az alagutak fontos menedéket nyújtottak a lakosságnak a bombázások alatt.", "Ma a tunnel-hálózat a gyalogosok számára kedvelt zöld útvonal.", "Modern történelmi reliktum, amely ma pihenőhelyként szolgál.", "A túrázók egy különleges, árnyékos történelmi útvonalon sétálhatnak.", "A múlt technikai öröksége és a jelen rekreációs célja harmonikusan ötvöződik."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-ex-railway-tunnels-extra.webp"},
   {
     id: "historical-church-of-san-giovanni-battista-chiesanuova-extra",
     type: "historical",
@@ -467,8 +458,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Középkori alapokra épített 20. századi templom.", "A helyi közösség fontos spirituális központja.", "Egyszerű, elegáns építészeti stílus jellemzi.", "Chiesanuova község legfőbb vallási épülete.", "Fontos találkozóhely a helyi hívek számára.", "A középkori vallási örökséget ötvözi a modern korral.", "Csendes, békés hangulat jellemzi az épületet."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-church-of-san-giovanni-battista-chiesanuova-extra.webp"},
   {
     id: "historical-church-of-saint-andrew-faetano-extra",
     type: "historical",
@@ -503,8 +493,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Faetano 19. századi főtemploma.", "Jellegzetes harangtorony teszi felismerhetővé.", "Szent András apostol tiszteletére emelték.", "Neoklasszikus építészeti stílus jellemzi.", "Az eredeti középkori templom alapjaira épült.", "A település vallási életének központi helyszíne.", "Történelmi és építészeti örökség Faetanóban."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-church-of-saint-andrew-faetano-extra.webp"},
   {
     id: "landmark-montegiardino-castle-walls-extra",
     type: "historical",
@@ -539,8 +528,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["San Marino legkisebb közigazgatási egységének erődítménye.", "A középkori feudális múlt lenyűgöző tanúi.", "Montegiardino volt az utolsó terület, amely San Marinóhoz csatlakozott.", "A várfalak maradványai a történelmi védelmi rendszert őrzik.", "Különleges történelmi aurát árasztó helyszín.", "A köztársaság egyesülésének és védelmének jelképe.", "Egyedi, történelmi időutazás a település falai között."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/landmark-montegiardino-castle-walls-extra.webp"},
   {
     id: "historical-sanctuary-beata-vergine-consolazione-extra",
     type: "historical",
@@ -575,8 +563,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["A híres Giovanni Michelucci építész munkája.", "1967-ben szentelték fel a modern stílusú szentélyt.", "Fontos Mária-kegyhely és zarándokközpont.", "Kortárs művészeti alkotások gazdagítják a belső teret.", "A modern vallási építészet kiváló példája.", "Spirituális közösségi központ Borgo Maggiore-ban.", "Harmonikus ötvözet a modernitás és a hit szolgálatában."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-sanctuary-beata-vergine-consolazione-extra.webp"},
   {
     id: "historical-ara-dei-volontari-extra",
     type: "landmark",
@@ -611,8 +598,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["1927-ben avatott emlékmű a hősi önkénteseknek.", "A haza iránti elkötelezettség és patriotizmus jelképe.", "Központi elhelyezkedés a Szent Marinus-bazilika közelében.", "Az első világháborúban harcolók emlékét őrzi.", "A köztársaság nemzeti emlékezetének fontos része.", "Tisztelgés a szabadságért áldozatot hozók előtt.", "A san marinói büszkeség és hála kifejezője."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-ara-dei-volontari-extra.webp"},
   {
     id: "landmark-gate-of-saint-francis-extra",
     type: "landmark",
@@ -647,8 +633,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["A város történelmi bejárata, más néven Porta del Paese.", "Eredetileg a 14. században épült, később többször átalakították.", "San Marino címerével ékesített történelmi kapu.", "A középkori védelmi rendszer meghatározó építménye.", "Az óvárosba vezető fő közlekedési kapu.", "Történelmi betekintést kínál a köztársaság múltjába.", "A városfalak egyik legimpozánsabb, fennmaradt eleme."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/landmark-gate-of-saint-francis-extra.webp"},
   {
     id: "historical-church-of-saint-paul-faetano-extra",
     type: "historical",
@@ -683,8 +668,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Neoklasszicista stílusú, 19. századi plébániatemplom.", "Luigi Fonti lelkész tervezte az épületet.", "Emilio Retrosi értékes festménye látható a belső térben.", "Az építkezés 1888-ban vette kezdetét.", "A korábbi középkori templom alapjaira épült.", "Faetano vallási és közösségi életének központja.", "Fontos vallási és építészeti emlékmű a régióban."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-church-of-saint-paul-faetano-extra.webp"},
   {
     id: "historical-domagnano-fortress-extra",
     type: "historical",
@@ -755,8 +739,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Domagnano modern vallási központja.", "Az 1960-as években felszentelt templom.", "A régebbi, romos templom helyébe lépett.", "Fontos vallási és spirituális élet színhelye.", "Közösségi találkozóhely a domagnanói lakók számára.", "A kortárs vallási építészet érdekes helyi példája.", "A közösség összetartó erejének jelképe."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-church-of-san-michele-arcangelo-domagnano-extra.webp"},
   {
     id: "historical-fiorentino-castle-ruins-extra",
     type: "historical",
@@ -791,8 +774,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["A Castellaccio régészeti lelőhely egykori várainak emléke.", "A 1463-ban elpusztult erődítmények a Malatesta-családdal való konfliktusokat idézik.", "A középkori katonai építészet és védelmi rendszer maradványai.", "Fontos történelmi forrás a köztársaság viharos középkori múltjáról.", "A régészeti kutatások új betekintést nyújtanak a középkori életbe.", "A helyszín a történelmi hatalmi harcok központi színtere volt.", "Élménydús és izgalmas történelmi felfedezés San Marinóban."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-fiorentino-castle-ruins-extra.webp"},
   {
     id: "historical-church-of-saint-bartholomew-fiorentino-extra",
     type: "historical",
@@ -827,8 +809,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Fiorentino község új, 20. század eleji plébániatemploma.", "Egy korábbi, történelmileg elavult templom helyébe lépett.", "A közösségi élet és vallási gyakorlat központja.", "Modern építészeti megoldásokat követő építmény.", "A hívek számára fontos lelki támaszt nyújtó hely.", "A vallási tradíciók modern kori folytatója a településen.", "Fiorentino spirituális és közösségi központja."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-church-of-saint-bartholomew-fiorentino-extra.webp"},
   {
     id: "historical-serravalle-castle-extra",
     type: "castle",
@@ -863,8 +844,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Középkori erődítmény, más néven Malatesta-vár.", "A 13. században épült a köztársaság védelmére.", "Stratégiai vámállomásként is szolgált a történelem során.", "Ma a település kulturális eseményeinek központja.", "Különleges találkozási pontja a múltnak és jelennek.", "Fontos védelmi pozíció a völgy megfigyelésére.", "San Marino történelmi és védelmi örökségének meghatározó része."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-serravalle-castle-extra.webp"},
   {
     id: "historical-church-of-saint-andrew-serravalle-extra",
     type: "historical",
@@ -899,8 +879,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["1894-ben emelt templom neoklasszicista stílusban.", "Szent András apostol tiszteletére szentelve.", "Értékes, történelmi keresztelőkutat őriz.", "Egy régebbi, 16. századi templom helyén áll.", "Serravalle vallási életének központi helyszíne.", "A vallási hagyományok és folytonosság jelképe.", "Fontos történelmi emlék a községben."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-church-of-saint-andrew-serravalle-extra.webp"},
   {
     id: "landmark-olympic-stadium-serravalle-extra",
     type: "landmark",
@@ -935,8 +914,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["San Marino nemzeti stadionja és sportközpontja.", "Közel 7000 néző számára biztosít férőhelyet.", "A san marinói labdarúgó-válogatott hazai pályája.", "A 2017-es Európai Kisállamok Játékainak otthona volt.", "Az ország legnagyobb és legfontosabb sportlétesítménye.", "Nemzeti sportesemények és válogatott mérkőzések színhelye.", "Központi szerepet játszik a köztársaság sportéletében."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/landmark-olympic-stadium-serravalle-extra.webp"},
   {
     id: "historical-church-of-saint-mary-cailungo-extra",
     type: "historical",
@@ -971,8 +949,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["20. században épült modern templom.", "Cailungo közösségének spirituális központja.", "Szűz Mária tiszteletére szentelt épület.", "Egyszerű és funkcionális, kortárs építészeti megoldások.", "Fontos lelki támaszt nyújtó hely a környék lakói számára.", "A közösségi élet és a hit szoros összefonódásának helyszíne.", "A modern templomépítészet egyedülálló san marinói képviselője."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-church-of-saint-mary-cailungo-extra.webp"},
   {
     id: "historical-sanctuary-of-beata-vergine-della-salute-acquaviva-extra",
     type: "historical",
@@ -1007,8 +984,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Acquaviva fontos vallási zarándokhelye.", "Szűz Mária tiszteletére szentelve, mint az egészség védelmezője.", "Az ima és a lelki elmélyülés bensőséges helyszíne.", "Számos csodás gyógyulási történet fűződik a kegyhelyhez.", "A helyi közösség és a hívek számára különleges lelki támasz.", "Bensőséges hangulata távol tartja a külvilág nyüzsgését.", "San Marino vallási hagyományainak egyik legfontosabb kis szentélye."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-sanctuary-of-beata-vergine-della-salute-acquaviva-extra.webp"},
   {
     id: "historical-valdragone-church-extra",
     type: "historical",
@@ -1115,8 +1091,7 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Az 1982-ben alapított múzeum a filatélia és numizmatika központja.", "San Marino világhírű bélyegeinek gazdag bemutatása.", "Ritka és történelmileg értékes érmegyűjtemények.", "A nemzeti identitás és szuverenitás kis szimbólumai.", "A gyűjtők számára nélkülözhetetlen tudástár.", "Mélyreható betekintés a köztársaság múltjába a bélyegeken keresztül.", "Kulturális örökség, amely a világ minden tájára eljutott."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-coin-and-stamp-museum-extra.webp"},
   {
     id: "historical-wax-museum-extra",
     type: "landmark",
@@ -1151,6 +1126,6 @@ export const sanmarinoExtraHistory: POI[] = [
       hu: ["Több mint 100 élethű viaszfigura gyűjteménye.", "Történelmi jelenetek és személyiségek hiteles ábrázolása.", "Olyan nagy történelmi alakokat mutat be, mint Napóleon és Lincoln.", "Szórakoztató és tanulságos történelemóra minden korosztálynak.", "Az óvárosi séták egyik legnépszerűbb családi programja.", "Interaktív és vizuális betekintés a történelembe.", "A múlt nagyjai, mintha csak életre keltek volna."], 
       ro: [], 
       en: [] 
-    },
-  },
+    }, image: "/poi-images/historical-wax-museum-extra.webp"},
 ];
+

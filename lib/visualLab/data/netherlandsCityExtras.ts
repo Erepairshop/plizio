@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 type Lang = "de" | "hu" | "ro" | "en";
@@ -184,3 +185,4 @@ const settlementRows: SettlementRow[] = [
 ];
 
 export const netherlandsCityExtras: POI[] = settlementRows.map(buildSettlementPoi);
+

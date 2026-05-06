@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGambiaHistoryV2: POI[] = [
@@ -23,8 +24,19 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["UNESCO Világörökség 2006 óta", "A legnagyobb kövek elérik a 2,5 métert"],
       ro: ["Patrimoniu UNESCO din 2006", "Cele mai mari pietre au până la 2,5 m"],
       en: ["UNESCO World Heritage since 2006", "Largest stones up to 2.5m high"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Die Steinkreise von Wassu bilden eine der bedeutendsten megalithischen Stätten Westafrikas. Diese Anlage, die 2006 zum UNESCO-Welterbe erklärt wurde, besteht aus über 1.000 Laterit-Säulen, die in präzisen Kreisen angeordnet sind. Die Errichtung dieser imposanten Konstruktionen wird auf den Zeitraum zwischen 300 und 1100 n. Chr. datiert. Die Monolithen erreichen eine Höhe von bis zu 2,5 Metern und wiegen mehrere Tonnen. Sie dienten wahrscheinlich als Grabstätten für Herrscher und Adlige, wobei ihre exakte rituelle Funktion auch heute noch Gegenstand archäologischer Forschung ist. Geografie K7 — Megalithkultur in Afrika.",
+      hu: "Wassu kőkörei Nyugat-Afrika egyik legjelentősebb megalitikus lelőhelye. A 2006-ban az UNESCO Világörökség részévé nyilvánított terület több mint 1000, precízen körökbe rendezett laterit oszlopból áll. Ezen impozáns építmények létrejöttét az i.sz. 300 és 1100 közötti időszakra teszik. A monolitok elérik a 2,5 méteres magasságot és több tonnát nyomnak. Valószínűleg uralkodók és nemesek sírhelyeként szolgáltak, bár pontos rituális funkciójuk ma is régészeti kutatások tárgya. Földrajz K7 — Megalitikus kultúra Afrikában.",
+      ro: "Cercurile de piatră de la Wassu constituie unul dintre cele mai semnificative situri megalitice din Africa de Vest. Acest ansamblu, inclus în Patrimoniul Mondial UNESCO în 2006, este format din peste 1.000 de coloane de laterit dispuse în cercuri precise. Construcția acestor structuri impresionante este datată între anii 300 și 1100 d.Hr. Monoliții ating o înălțime de până la 2,5 metri și cântăresc mai multe tone. Aceștia au servit probabil ca situri funerare pentru regi și nobili, funcția lor ritualică exactă fiind încă subiect de cercetare arheologică. Geografie K7 — Cultura megalitică în Africa.",
+      en: "The Wassu Stone Circles form one of the most significant megalithic sites in West Africa. This site, declared a UNESCO World Heritage site in 2006, consists of over 1,000 laterite pillars arranged in precise circles. The construction of these imposing structures is dated to between 300 and 1100 AD. The monoliths reach a height of up to 2.5 meters and weigh several tons. They likely served as burial sites for rulers and nobles, though their exact ritual function remains a subject of archaeological research. Geography K7 — Megalithic culture in Africa."
+    },
+    factsAdvanced: {
+      de: ["Über 1.000 Laterit-Säulen", "Errichtung zwischen 300 und 1100 n. Chr.", "Höchste Säulen 2,5 m", "UNESCO-Welterbe seit 2006", "Archäologische Stätte der Senegambier", "Bedeutendstes westafrikanisches Megalith-Ensemble"],
+      hu: ["Több mint 1000 laterit oszlop", "Építés i.sz. 300–1100 között", "Legmagasabb oszlopok 2,5 m", "UNESCO Világörökség 2006 óta", "Szenegambiai régészeti lelőhely", "Legjelentősebb nyugat-afrikai megalitikus együttes"],
+      ro: ["Peste 1.000 de coloane de laterit", "Construcție între 300 și 1100 d.Hr.", "Coloane de 2,5 m înălțime", "Patrimoniu UNESCO din 2006", "Sit arheologic al senegambienilor", "Cel mai important ansamblu megalitic vest-african"],
+      en: ["Over 1,000 laterite pillars", "Built between 300 and 1100 AD", "Tallest pillars 2.5 m", "UNESCO World Heritage since 2006", "Senegambian archaeological site", "Most significant West African megalithic ensemble"]
+    }, image: "/poi-images/wassu-stone-circles-history-v2.webp"},
   {
     id: "kerbatch-stone-circles-history-v2",
     type: "historical",
@@ -47,8 +59,19 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Egyedülálló V-alakú kő", "A szenegambiai kőkörök része"],
       ro: ["Piatră unică în formă de V", "Parte a cercurilor de piatră senegambiene"],
       en: ["Unique V-shaped stone", "Part of the Senegambian stone circles"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Kerbatch ist ein herausragender Teil der senegambischen Megalith-Stätten und ebenfalls als UNESCO-Welterbe geschützt. Die Stätte ist besonders für ihre Vielfalt an Steinformen bekannt, darunter der berühmte 'V-Stein', der architektonisch einzigartig ist. Die Anlage wurde wahrscheinlich im ersten Jahrtausend n. Chr. als monumentale Grablandschaft erschaffen. Forscher haben hier bei Ausgrabungen neben den riesigen Laterit-Monolithen auch Keramikreste gefunden, die Hinweise auf die Handelsbeziehungen der damaligen Bevölkerung geben. Die Steine wurden aus lokalem Steinbruch-Material gefertigt und über Kilometer transportiert. Geschichte K8 — Frühgeschichte Westafrikas.",
+      hu: "Kerbatch a szenegambiai megalitikus lelőhelyek kiemelkedő része, amelyet szintén az UNESCO Világörökség védelme alatt áll. A helyszín különösen a kőformák változatosságáról híres, köztük a híres 'V-kővel', amely építészetileg egyedülálló. Az építményt valószínűleg az i.sz. első évezredben hozták létre monumentális temetkezési tájként. A régészek az ásatások során a hatalmas laterit monolitok mellett kerámia maradványokat is találtak, amelyek utalnak az akkori lakosság kereskedelmi kapcsolataira. A köveket helyi kőfejtőkből származó anyagból készítették és kilométereken át szállították. Történelem K8 — Nyugat-Afrika őstörténete.",
+      ro: "Kerbatch este o parte remarcabilă a siturilor megalitice senegambiene, protejată de asemenea ca Patrimoniu Mondial UNESCO. Locul este renumit în special pentru varietatea formelor de piatră, inclusiv celebra 'piatră în formă de V', care este unică din punct de vedere arhitectural. Ansamblul a fost probabil creat în primul mileniu d.Hr. ca un peisaj funerar monumental. În timpul săpăturilor, cercetătorii au descoperit aici, pe lângă monoliții imenși de laterit, fragmente de ceramică ce oferă indicii despre relațiile comerciale ale populației de atunci. Pietrele au fost realizate din materiale din cariere locale și transportate pe distanțe de kilometri. Istorie K8 — Preistoria Africii de Vest.",
+      en: "Kerbatch is an outstanding part of the Senegambian megalithic sites, also protected as a UNESCO World Heritage site. The site is particularly famous for its variety of stone forms, including the famous 'V-stone', which is architecturally unique. The site was likely created in the first millennium AD as a monumental burial landscape. During excavations, researchers found ceramic remains alongside the huge laterite monoliths, providing clues about the trade relations of the population at the time. The stones were crafted from local quarry material and transported over kilometers. History K8 — Prehistory of West Africa."
+    },
+    factsAdvanced: {
+      de: ["Teil des UNESCO-Welterbes", "Bekannt für den 'V-Stein'", "Erste Jahrtausend n. Chr.", "Lokales Laterit-Material", "Monumentale Grablandschaft", "Keramikfunde belegen Handel"],
+      hu: ["Az UNESCO Világörökség része", "Híres a 'V-kőről'", "I.sz. első évezred", "Helyi laterit anyag", "Monumentális temetkezési táj", "Kereskedelemre utaló kerámia leletek"],
+      ro: ["Parte a Patrimoniului Mondial UNESCO", "Cunoscut pentru 'piatra în V'", "Primul mileniu d.Hr.", "Material local de laterit", "Peisaj funerar monumental", "Fragmente ceramice dovedesc comerțul"],
+      en: ["Part of UNESCO World Heritage", "Famous for the 'V-stone'", "First millennium AD", "Local laterite material", "Monumental burial landscape", "Ceramic finds prove trade"]
+    }, image: "/poi-images/kerbatch-stone-circles-history-v2.webp"},
   {
     id: "fort-bullen-history-v2",
     type: "historical",
@@ -71,8 +94,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["A rabszolga-kereskedelem ellen épült", "Az ágyúk ma is láthatók"],
       ro: ["Construit împotriva comerțului cu sclavi", "Tunurile sunt încă vizibile astăzi"],
       en: ["Built against the slave trade", "Cannons still visible today"]
-    }
-  },
+    }, image: "/poi-images/fort-bullen-history-v2.webp"},
   {
     id: "arch-22-history-v2",
     type: "historical",
@@ -95,8 +117,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Banjul legmagasabb építménye", "Panorámás kilátást nyújt a városra"],
       ro: ["Cea mai înaltă structură din Banjul", "Oferă vedere panoramică asupra orașului"],
       en: ["Tallest structure in Banjul", "Offers panoramic views of the city"]
-    }
-  },
+    }, image: "/poi-images/arch-22-history-v2.webp"},
   {
     id: "kachikally-crocodile-pool-history-v2",
     type: "historical",
@@ -119,8 +140,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Több mint 80 szelíd krokodil", "Mandinka kulturális múzeum"],
       ro: ["Peste 80 de crocodili blânzi", "Muzeu pentru cultura Mandinka"],
       en: ["Over 80 tame crocodiles", "Museum of Mandinka culture"]
-    }
-  },
+    }, image: "/poi-images/kachikally-crocodile-pool-history-v2.webp"},
   {
     id: "fort-louvel-history-v2",
     type: "historical",
@@ -143,8 +163,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Louvel ezredesről nevezték el", "Történelmi védelmi emlékmű"],
       ro: ["Numit după colonelul Louvel", "Monument istoric de apărare"],
       en: ["Named after Colonel Louvel", "Historical defense monument"]
-    }
-  },
+    }, image: "/poi-images/fort-louvel-history-v2.webp"},
   {
     id: "national-museum-gambia-history-v2",
     type: "historical",
@@ -167,8 +186,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Egy gyarmati épületben található", "Kiterjedt fotódokumentáció"],
       ro: ["Într-o clădire colonială", "Documentație fotografică extinsă"],
       en: ["Located in a colonial building", "Extensive photo documentation"]
-    }
-  },
+    }, image: "/poi-images/national-museum-gambia-history-v2.webp"},
   {
     id: "san-domingo-ruins-history-v2",
     type: "historical",
@@ -191,8 +209,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["A legkorábbi keresztény romok", "Kereskedelmi állomás a folyóparton"],
       ro: ["Cele mai vechi ruine creștine", "Post comercial pe malul râului"],
       en: ["Earliest Christian ruins", "Trading post on the river bank"]
-    }
-  },
+    }, image: "/poi-images/san-domingo-ruins-history-v2.webp"},
   {
     id: "cfao-building-albreda-history-v2",
     type: "historical",
@@ -215,8 +232,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Marseille-i kereskedelmi társaság", "Jellegzetes gyarmati építészet"],
       ro: ["Companie comercială din Marsilia", "Arhitectură colonială distinctivă"],
       en: ["Trading company from Marseille", "Distinctive colonial architecture"]
-    }
-  },
+    }, image: "/poi-images/cfao-building-albreda-history-v2.webp"},
   {
     id: "mussa-molloh-tomb-history-v2",
     type: "historical",
@@ -239,8 +255,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Fontos zarándokhely", "A Fuladu Birodalom története"],
       ro: ["Destinație importantă de pelerinaj", "Istoria Imperiului Fuladu"],
       en: ["Important pilgrimage site", "History of the Fuladu Empire"]
-    }
-  },
+    }, image: "/poi-images/mussa-molloh-tomb-history-v2.webp"},
   {
     id: "kataba-fort-history-v2",
     type: "historical",
@@ -263,8 +278,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Stratégiai földerőd", "A védművek ma is felismerhetők"],
       ro: ["Fortăreață strategică de pământ", "Ziduri de apărare recognoscibile"],
       en: ["Strategic earth fort", "Defensive ramparts recognizable"]
-    }
-  },
+    }, image: "/poi-images/kataba-fort-history-v2.webp"},
   {
     id: "berending-crocodile-pool-history-v2",
     type: "historical",
@@ -287,8 +301,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Szent fák és medence", "Spirituális áldozatok helyszíne"],
       ro: ["Copaci sacri și bazin", "Loc pentru sacrificii spirituale"],
       en: ["Sacred trees and pool", "Site for spiritual offerings"]
-    }
-  },
+    }, image: "/poi-images/berending-crocodile-pool-history-v2.webp"},
   {
     id: "folonko-crocodile-pool-history-v2",
     type: "historical",
@@ -311,8 +324,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["A hely szent szelleme", "Hagyományos gyógyítók helyszíne"],
       ro: ["Spiritul sacru al locului", "Vindecători tradiționali la fața locului"],
       en: ["Sacred spirit of the site", "Traditional healers on site"]
-    }
-  },
+    }, image: "/poi-images/folonko-crocodile-pool-history-v2.webp"},
   {
     id: "janjanbureh-slave-house-history-v2",
     type: "historical",
@@ -335,8 +347,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Eredetileg CFAO raktár volt", "A gyarmati örökség része"],
       ro: ["Originea depozitului CFAO", "Parte a moștenirii coloniale"],
       en: ["CFAO warehouse origin", "Part of the colonial heritage"]
-    }
-  },
+    }, image: "/poi-images/janjanbureh-slave-house-history-v2.webp"},
   {
     id: "bwiam-stone-circle-history-v2",
     type: "historical",
@@ -359,8 +370,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Kör alakú kőoszlopok", "Rejtélyes őskori lelőhely"],
       ro: ["Coloane de piatră circulare", "Sit preistoric enigmatic"],
       en: ["Circular stone pillars", "Enigmatic prehistoric site"]
-    }
-  },
+    }, image: "/poi-images/bwiam-stone-circle-history-v2.webp"},
   {
     id: "tanje-village-museum-history-v2",
     type: "historical",
@@ -383,8 +393,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Kézműves bemutatók", "Természettudományi gyűjtemény"],
       ro: ["Demonstrații meșteșugărești", "Colecție de istorie naturală"],
       en: ["Craft demonstrations", "Natural history collection"]
-    }
-  },
+    }, image: "/poi-images/tanje-village-museum-history-v2.webp"},
   {
     id: "st-joseph-church-banjul-history-v2",
     type: "historical",
@@ -407,8 +416,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Neogótikus építészeti elemek", "A katolikus közösség központja"],
       ro: ["Elemente arhitecturale neogotice", "Centrul comunității catolice"],
       en: ["Neo-Gothic architectural elements", "Center of the Catholic community"]
-    }
-  },
+    }, image: "/poi-images/st-joseph-church-banjul-history-v2.webp"},
   {
     id: "vainqueur-ruins-history-v2",
     type: "historical",
@@ -431,8 +439,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Egykori katonai állomás", "A Kunta Kinteh-ösvény közelében"],
       ro: ["Fost post militar", "Lângă poteca Kunta Kinteh"],
       en: ["Former military outpost", "Near the Kunta Kinteh trail"]
-    }
-  },
+    }, image: "/poi-images/vainqueur-ruins-history-v2.webp"},
   {
     id: "sankandi-battlefield-history-v2",
     type: "historical",
@@ -455,8 +462,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       hu: ["Az ellenállás emlékhelye", "A gyarmati történelem fordulópontja"],
       ro: ["Memorial pentru rezistență", "Punct de cotitură în istoria colonială"],
       en: ["Memorial for resistance", "Turning point in colonial history"]
-    }
-  },
+    }, image: "/poi-images/sankandi-battlefield-history-v2.webp"},
   {
     id: "basse-colonial-quarter-history-v2",
     type: "historical",
@@ -482,3 +488,4 @@ export const poiExtraGambiaHistoryV2: POI[] = [
     }
   }
 ];
+

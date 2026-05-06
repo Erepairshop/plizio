@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const swedenCountry: POI = {
@@ -51,11 +52,22 @@ export const swedenRegions: POI[] = [
       hu: "Stockholm Svédország fővárosa, egy elegáns város 14 szigeten, amely jól megőrzött óvárosáról (Gamla Stan), világszínvonalú múzeumairól és rengeteg vizéről ismert.",
       ro: "Stockholm este capitala Suediei, un oraș elegant construit pe 14 insule, cunoscut pentru orașul său vechi bine conservat Gamla Stan, muzeele de talie mondială și abundența apei.",
       en: "Stockholm is the capital of Sweden, an elegant city built on 14 islands, known for its well-preserved old town Gamla Stan, world-class museums, and abundant water."
+    ,
+    descriptionAdvanced: {
+      de: "Stockholm, die Hauptstadt Schwedens, ist auf 14 Inseln erbaut, die durch über 50 Brücken verbunden sind. Bekannt als 'Venedig des Nordens', ist es eine Stadt mit beeindruckender Architektur, sauberem Wasser und zahlreichen Grünflächen. Die historische Altstadt Gamla Stan besticht durch Kopfsteinpflasterstraßen und bunte Gebäude, während die Stadt auch erstklassige Museen wie das Vasa-Museum und das ABBA-Museum beherbergt. Stockholm ist ein globales Zentrum für Technologie, Design und Mode. Geografie K8.",
+      hu: "Stockholm, Svédország fővárosa, 14 szigeten épült, melyeket több mint 50 híd köt össze. A „Észak Velencéje” néven is ismert város lenyűgöző építészetével, tiszta vizeivel és számos zöldterületével vonzza a látogatókat. A történelmi Gamla Stan óvárosa a szűk, macskaköves utcáival és színes épületeivel a középkori hangulatot idézi, míg a város modern arculata a technológia, a dizájn és a fenntartható életmód ötvözetét tükrözi. A város világszínvonalú múzeumoknak, mint a Vasa Múzeum, otthona. Földrajz K8."
     },
+    factsAdvanced: {
+      hu: ["A stockholmi metróhálózat több mint 110 kilométer hosszú, és 90 díszített állomásával a világ leghosszabb művészeti galériájának számít.", "A város 14 szigeten terül el, amelyeket 57 híd köt össze egy komplex rendszerben.", "A stockholmi Királyi Palota több mint 600 szobával rendelkezik, és a világ egyik legnagyobb működő királyi palotája.", "A Vasa Múzeum a 17. századi, 1961-ben kiemelt Vasa hadihajónak ad otthont, amely 333 évet töltött a víz alatt.", "A város területének egyharmadát zöldterületek teszik ki, Stockholm az egyik legzöldebb főváros."]
+    },
+    factsAdvanced: {
+      de: ["Die Stockholmer U-Bahn erstreckt sich über 110 Kilometer und ist mit über 90 gestalteten Stationen die längste Kunstgalerie der Welt.", "Stockholm verteilt sich auf 14 Inseln, die durch ein komplexes Netzwerk von 57 Brücken verbunden sind.", "Der Stockholmer Königspalast verfügt über mehr als 600 Zimmer und ist einer der größten aktiven königlichen Paläste weltweit.", "Das Vasa-Museum beherbergt das einzige nahezu intakte Schiff des 17. Jahrhunderts, das 1961 nach 333 Jahren Unterwasserzeit geborgen wurde.", "Die Stadt ist für ihren hohen Anteil an öffentlichen Grünflächen bekannt, die etwa ein Drittel der gesamten Stadtfläche ausmachen."]
+    }
+  },
     descriptionAdvanced: {
       de: "Stockholm, die Hauptstadt Schwedens, ist auf 14 Inseln erbaut, die durch über 50 Brücken verbunden sind. Bekannt als 'Venedig des Nordens', ist es eine Stadt mit beeindruckender Architektur, sauberem Wasser und zahlreichen Grünflächen. Die historische Altstadt Gamla Stan besticht durch Kopfsteinpflasterstraßen und bunte Gebäude, während die Stadt auch erstklassige Museen wie das Vasa-Museum und das ABBA-Museum beherbergt. Stockholm ist ein globales Zentrum für Technologie, Design und Mode. Geografie K8.",
       hu: "",
-      ro: "Capitala Suediei, Stockholm, este adesea supranumită „Veneția Nordului” datorită celor 14 insule pe care este construit, conectate prin peste 50 de poduri. Orașul îmbină armonios arhitectura istorică, cu străzile pietruite din Gamla Stan, cu modernitatea unui centru global de inovație și design. Vizitatorii pot explora muzee de talie mondială, precum Muzeul Vasa sau Muzeul ABBA, și se pot bucura de o calitate excepțională a vieții și de spații verzi generoase. Este o metropolă care pulsează de viață, fiind un amestec fascinant de tradiție regală și spirit urban contemporan. Geografie K8.",
+      ro: "Stockholm, capitala Suediei, este o metropolă vibrantă construită pe 14 insule conectate prin peste 50 de poduri, fiind adesea numită „Veneția Nordului”. Orașul vechi, Gamla Stan, este un labirint de străzi pietruite și clădiri colorate, unde se află Palatul Regal și Catedrala din Stockholm. Stockholm este un centru global pentru tehnologie, design și modă, găzduind muzee de talie mondială precum Muzeul Vasa, care expune o navă de război din secolul al XVII-lea aproape intactă, și Muzeul ABBA. Orașul îmbină perfect istoria bogată cu un stil de viață modern și un angajament puternic față de sustenabilitate. Geografie K8.",
       en: "Stockholm, the capital of Sweden, is built on 14 islands connected by over 50 bridges. Known as the 'Venice of the North', it is a city of impressive architecture, clean water, and numerous green spaces. The historic old town, Gamla Stan, features narrow cobblestone streets and colorful buildings, while the city also hosts world-class museums such as the Vasa Museum and the ABBA Museum. Stockholm is a global center for technology, design, and fashion, consistently ranking high for its urban quality of life. Geography K8."
     },
     facts: {
@@ -64,7 +76,7 @@ export const swedenRegions: POI[] = [
     factsAdvanced: {
       de: ["Die Stockholmer U-Bahn erstreckt sich über 110 Kilometer und ist mit über 90 gestalteten Stationen die längste Kunstgalerie der Welt.", "Stockholm verteilt sich auf 14 Inseln, die durch ein komplexes Netzwerk von 57 Brücken verbunden sind.", "Der Stockholmer Königspalast verfügt über mehr als 600 Zimmer und ist einer der größten aktiven königlichen Paläste weltweit.", "Das Vasa-Museum beherbergt das einzige nahezu intakte Schiff des 17. Jahrhunderts, das 1961 nach 333 Jahren Unterwasserzeit geborgen wurde."],
       hu: [],
-      ro: ["Metroul din Stockholm, cu peste 90 de stații decorate artistic, este considerat „cea mai lungă galerie de artă din lume”.", "Orașul este distribuit pe 14 insule, conectate printr-o rețea complexă de 57 de poduri.", "Palatul Regal din Stockholm are peste 600 de camere, fiind unul dintre cele mai mari palate regale active din lume.", "Muzeul Vasa găzduiește singura navă din secolul al XVII-lea aproape intactă, recuperată în 1961 după 333 de ani pe fundul mării."],
+      ro: ["Metroul din Stockholm este considerat cea mai lungă galerie de artă din lume, cu peste 90 de stații decorate de artiști.","Palatul Regal din Stockholm este reședința oficială a monarhului suedez și are peste 600 de camere.","Ericsson Globe (Avicii Arena) este cea mai mare clădire sferică din lume și găzduiește evenimente sportive și concerte majore.","Stockholm a fost primul oraș care a primit titlul de Capitală Verde Europeană în 2010.","Parcul Național Regal Urban este primul parc național urban din lume, acoperind o mare parte din oraș.","Apa din oraș este atât de curată încât se poate pescui și chiar înota în centrul său.","Premiile Nobel sunt decernate anual în Stockholm la 10 decembrie, cu excepția Premiului Nobel pentru Pace."],
       en: [
         "The Stockholm Metro spans over 110 kilometers and, with over 90 artistically designed stations, is the longest art gallery in the world.",
         "Stockholm is spread across 14 islands, connected by a complex network of 57 bridges.",
@@ -85,11 +97,26 @@ export const swedenRegions: POI[] = [
       hu: "Göteborg Svédország második legnagyobb városa, egy bájos kikötőváros a nyugati parton, amely csatornáiról, kiváló tengeri ételeiről és a Liseberg vidámparkról ismert.",
       ro: "Göteborg este al doilea oraș ca mărime din Suedia, un oraș portuar fermecător pe coasta de vest, cunoscut pentru canalele sale, fructele de mare de primă clasă și parcul de distracții Liseberg.",
       en: "Gothenburg is the second-largest city in Sweden, a charming port city on the west coast known for its canals, world-class seafood, and the Liseberg amusement park."
+    ,
+    descriptionAdvanced: {
+      de: "Göteborg an der Westküste Schwedens ist die zweitgrößte Stadt des Landes und sein wichtigster Hafen. Sie ist bekannt für ihre freundliche Atmosphäre, ihre schönen Kanäle und ihre lebendige kulinarische Szene, insbesondere für frische Meeresfrüchte. Die Stadt beherbergt Liseberg, den größten Vergnügungspark Skandinaviens, und das Wissenschaftszentrum Universeum. Göteborg bietet eine Mischung aus städtischer Kultur und einfachem Zugang zum beeindruckenden südlichen Schärengarten. Geografie K7.",
+      en: "Gothenburg, located on Sweden's west coast, is the country's second-largest city and home to its busiest port. Known for its charming 17th-century canals, lush green parks, and lively culinary scene, it is particularly celebrated for its fresh seafood. The city is a major hub for automotive industry innovation, being the birthplace of Volvo. Gothenburg is home to Liseberg, Scandinavia's largest amusement park, which attracts millions of visitors annually. It also provides easy access to the stunning southern archipelago, where small islands are reachable by ferry. Geography K7.",
+      hu: "Göteborg, Svédország nyugati partján fekvő második legnagyobb városa, egyben az ország legforgalmasabb kikötője. A holland stílusú csatornákról, buja parkjairól és élénk kulináris kínálatáról ismert, különösen híres friss tengeri ételeiről. A város a Volvo autógyár otthonaként fontos ipari és innovációs központ. A Liseberg vidámpark, Skandinávia legnagyobbja, évente turisták millióit vonzza. A közeli szigetvilág hajóval könnyen elérhető, ideális kirándulóhely. Földrajz K7."
     },
+    factsAdvanced: {
+      hu: ["Göteborg városát 1621-ben alapították királyi oklevéllel, stratégiai kereskedelmi központként.", "A Volvo vállalatot 1627-ben Göteborgban alapították, és központja ma is itt található.", "A Gothia Kupa, a világ legnagyobb ifjúsági labdarúgótornája, minden évben itt kerül megrendezésre.", "Liseberg 1923-ban nyílt meg, azóta Skandinávia leglátogatottabb vidámparkja.", "A Feskekörka (Haltemplom) egy különleges piac, amelynek épülete egy gótikus templomra emlékeztet."]
+    },
+    factsAdvanced: {
+      en: ["Gothenburg was founded in 1621 by King Gustavus Adolphus as a trade center.", "The city's canal system was inspired by Dutch urban planning due to the city's terrain.", "Volvo was founded in Gothenburg in 1927 and continues to be a central part of the city's industrial identity.", "Liseberg, opened in 1923, is one of the most visited amusement parks in Scandinavia.", "The Gothenburg Archipelago features over 20 islands, each with unique landscapes and accessible by public ferry.", "The Universeum is the largest science center in Scandinavia, covering seven floors of interactive exhibits.", "Gothenburg is considered a global leader in sustainable public transport, with a comprehensive tram network."]
+    },
+    factsAdvanced: {
+      de: ["Die Stadt Göteborg wurde im Jahr 1621 mit einem königlichen Freibrief gegründet, um als strategisch wichtiger Handelsposten zu fungieren.", "Das Unternehmen Volvo wurde 1927 in Göteborg gegründet und hat dort noch immer einen seiner wichtigsten Hauptsitze.", "Der Gothia Cup in Göteborg gilt als das größte Jugendfußballturnier der Welt und begrüßt jährlich zehntausende Spieler aus über 80 Nationen.", "Liseberg ist der am meisten besuchte Vergnügungspark in Skandinavien und wurde 1923 eröffnet.", "Das Göteborg Naturhistoriska Museum beherbergt eine der weltweit größten Wal-Ausstellungen."]
+    }
+  },
     descriptionAdvanced: {
       de: "Göteborg an der Westküste Schwedens ist die zweitgrößte Stadt des Landes und sein wichtigster Hafen. Sie ist bekannt für ihre freundliche Atmosphäre, ihre schönen Kanäle und ihre lebendige kulinarische Szene, insbesondere für frische Meeresfrüchte. Die Stadt beherbergt Liseberg, den größten Vergnügungspark Skandinaviens, und das Wissenschaftszentrum Universeum. Göteborg bietet eine Mischung aus städtischer Kultur und einfachem Zugang zum beeindruckenden südlichen Schärengarten. Geografie K7.",
       hu: "",
-      ro: "Situat pe coasta de vest, Göteborg este al doilea oraș ca mărime din Suedia și cel mai important port al țării. Orașul este celebru pentru atmosfera sa primitoare, canalele pitorești și o scenă culinară vibrantă, fiind recunoscut pentru fructele de mare proaspete. Aici se află Liseberg, cel mai mare parc de distracții din Scandinavia, precum și centrul științific Universeum. Göteborg oferă un echilibru perfect între cultura urbană și accesul facil către arhipelagul sudic uimitor, fiind o destinație plină de viață. Geografie K7.",
+      ro: "Göteborg, al doilea oraș ca mărime din Suedia, este un port important pe coasta de vest, renumit pentru atmosfera sa prietenoasă și canalele pitorești de inspirație olandeză. Orașul este un centru cultural vibrant, găzduind numeroase evenimente, inclusiv Festivalul de Film de la Göteborg, cel mai mare din Scandinavia. Parcul de distracții Liseberg este o atracție majoră pentru familii, în timp ce cartierul Haga este faimos pentru casele sale din lemn și cafenelele primitoare. Göteborg este, de asemenea, un lider în sustenabilitate și inovație, cu un arhipelag impresionant la mică distanță. Geografie K7.",
       en: "Gothenburg, on the west coast of Sweden, is the country's second-largest city and its most important port. Known for its friendly atmosphere, beautiful canals, and vibrant culinary scene—particularly its fresh seafood—Gothenburg is a destination of contrasts. It houses Liseberg, the largest amusement park in Scandinavia, and the Universeum science center. The city offers a unique mix of urban culture and easy access to the stunning southern archipelago, making it a lively and welcoming hub. Geography K7."
     },
     facts: {
@@ -98,7 +125,7 @@ export const swedenRegions: POI[] = [
     factsAdvanced: {
       de: ["Die Stadt Göteborg wurde im Jahr 1621 mit einem königlichen Freibrief gegründet, um als strategisch wichtiger Handelsposten zu fungieren.", "Das Unternehmen Volvo wurde 1927 in Göteborg gegründet und hat dort noch immer einen seiner wichtigsten Hauptsitze.", "Der Gothia Cup in Göteborg gilt als das größte Jugendfußballturnier der Welt und begrüßt jährlich zehntausende Spieler aus über 80 Nationen.", "Liseberg ist der am meisten besuchte Vergnügungspark in Skandinavien und wurde 1923 eröffnet."],
       hu: [],
-      ro: ["Orașul Göteborg a fost fondat în 1621 printr-un decret regal, servind drept post comercial strategic.", "Compania Volvo a fost fondată aici în 1927 și își menține unul dintre sediile principale în oraș.", "Gothia Cup din Göteborg este considerat cel mai mare turneu de fotbal pentru tineret din lume, atrăgând zeci de mii de jucători.", "Liseberg este cel mai vizitat parc de distracții din Scandinavia, fiind deschis pentru public în 1923."],
+      ro: ["Compania Volvo a fost fondată în Göteborg în 1927 și își menține aici sediul central.","Arhipelagul Göteborg este format din peste 20 de insule, ușor accesibile cu feribotul din oraș.","Feskekörka, sau „biserica peștelui”, este o piață de pește interioară renumită, a cărei clădire seamănă cu o biserică gotică.","Grădina Botanică din Göteborg este una dintre cele mai mari din Europa și are o colecție impresionantă de orhidee.","Gothia Cup, cel mai mare turneu de fotbal pentru tineret din lume, are loc anual în Göteborg.","Centrul de Știință Universeum include o pădure tropicală interioară și acvarii uriașe.","Bulevardul principal, Kungsportsavenyn, cunoscut ca Avenyn, este plin de magazine, restaurante și teatre."],
       en: [
         "The city of Gothenburg was founded in 1621 with a royal charter to serve as a strategically important trading post.",
         "The company Volvo was founded in Gothenburg in 1927 and still maintains one of its main headquarters there.",
@@ -119,11 +146,22 @@ export const swedenRegions: POI[] = [
       hu: "Malmö Svédország harmadik legnagyobb városa, egy multikulturális metropolisz délen, amely a Turning Torso felhőkarcolóról, az Öresund hídról és innovatív fenntarthatóságáról ismert.",
       ro: "Malmö este al treilea oraș ca mărime din Suedia, o metropolă multiculturală în sud, cunoscută pentru zgârie-norul Turning Torso, Podul Øresund și sustenabilitatea sa inovatoare.",
       en: "Malmö is the third-largest city in Sweden, a multicultural metropolis in the south known for the Turning Torso, the Øresund Bridge, and its innovative sustainability."
+    ,
+    descriptionAdvanced: {
+      de: "Malmö ist die drittgrößte Stadt Schwedens und liegt in der südlichsten Provinz Schonen. Es ist eine vielfältige und multikulturelle Stadt, die durch die ikonische Öresundbrücke mit Kopenhagen verbunden ist. Malmö ist bekannt für seine innovative Architektur, wie den Wolkenkratzer Turning Torso, und sein Engagement für Nachhaltigkeit. Die Stadt bietet schöne Parks, ein lebendiges Uferviertel namens Västra Hamnen und ein reiches Kulturleben mit vielen Festivals und Veranstaltungen. Sachkunde K5.",
+      hu: "Malmö Svédország harmadik legnagyobb városa, Skåne tartományban fekszik. A város multikulturális metropolisszá vált, melyet az Öresund híd közvetlenül kapcsol össze Koppenhágával. Az innovatív építészet egyik kiemelkedő példája a Turning Torso felhőkarcoló, amely a város modernkori fejlődését jelképezi. Malmö sikeresen alakult át ipari központból fenntartható, modern lakónegyeddé, mint amilyen a Västra Hamnen. A város gazdag kulturális élettel, fesztiválokkal és kiterjedt kerékpárút-hálózattal várja a látogatókat. Sachkunde K5."
     },
+    factsAdvanced: {
+      hu: ["Az Öresund híd 7,8 kilométeres hosszával köti össze Svédországot Dániával.", "A Turning Torso felhőkarcoló 190 méter magas, és 90 fokos csavarodással épült az alapjától a csúcsáig.", "Malmö lakosai több mint 170 nemzetből érkeztek, ezzel az egyik legváltozatosabb svéd város.", "A Malmöhus kastély a legrégebbi reneszánsz erőd Skandináviában, amely ma több múzeumnak is otthont ad.", "A városban több mint 500 kilométernyi kerékpárút található, ami a világ egyik legbarátságosabb kerékpáros városává teszi."]
+    },
+    factsAdvanced: {
+      de: ["Die Öresundbrücke verbindet Schweden mit Dänemark und ist insgesamt 7,8 Kilometer lang.", "Der Wolkenkratzer 'Turning Torso' ist 190 Meter hoch und weist eine Verdrehung von 90 Grad von der Basis bis zur Spitze auf.", "Malmö wandelt sich durch das Projekt 'Västra Hamnen' von einer Industriegemeinde zu einem nachhaltigen, modernen Wohnviertel.", "Mit Bewohnern aus über 170 Nationen gilt Malmö als eine der diversesten Städte Schwedens.", "Das Malmöhus-Schloss ist die älteste erhaltene Renaissance-Festung Skandinaviens."]
+    }
+  },
     descriptionAdvanced: {
       de: "Malmö ist die drittgrößte Stadt Schwedens und liegt in der südlichsten Provinz Schonen. Es ist eine vielfältige und multikulturelle Stadt, die durch die ikonische Öresundbrücke mit Kopenhagen verbunden ist. Malmö ist bekannt für seine innovative Architektur, wie den Wolkenkratzer Turning Torso, und sein Engagement für Nachhaltigkeit. Die Stadt bietet schöne Parks, ein lebendiges Uferviertel namens Västra Hamnen und ein reiches Kulturleben mit vielen Festivals und Veranstaltungen. Sachkunde K5.",
       hu: "",
-      ro: "Malmö, al treilea oraș ca mărime din Suedia, este situat în cea mai sudică provincie, Skåne. Este o metropolă diversă și multiculturală, conectată direct de Copenhaga prin iconicul Pod Øresund. Malmö este renumit pentru arhitectura sa inovatoare, precum zgârie-norul Turning Torso, și pentru angajamentul său ferm față de sustenabilitate. Vizitatorii pot explora parcurile sale frumoase, cartierul litoral vibrant Västra Hamnen și o viață culturală bogată, marcată de numeroase festivaluri. Sachkunde K5.",
+      ro: "Malmö, situat în sudul Suediei, este un oraș dinamic și multicultural, conectat de Copenhaga prin impresionantul Pod Øresund. Simbolul modern al orașului este zgârie-norul Turning Torso, proiectat de Santiago Calatrava, care este cea mai înaltă clădire din Scandinavia. Malmö a trecut printr-o transformare remarcabilă, de la un oraș industrial la un centru de tehnologie și sustenabilitate. Cartierul Västra Hamnen (Portul de Vest) este un exemplu de dezvoltare urbană durabilă, alimentat 100% cu energie regenerabilă. Orașul oferă parcuri frumoase, plaje și o scenă artistică și culinară înfloritoare. Sachkunde K5.",
       en: "Malmö is Sweden's third-largest city, located in the southernmost province of Skåne. It is a diverse and multicultural metropolis, directly connected to Copenhagen by the iconic Øresund Bridge. Malmö is famous for its innovative architecture, such as the Turning Torso skyscraper, and its firm commitment to sustainability. Visitors can explore beautiful parks, the vibrant Västra Hamnen waterfront district, and a rich cultural scene marked by numerous festivals. Sachkunde K5."
     },
     facts: {
@@ -132,7 +170,7 @@ export const swedenRegions: POI[] = [
     factsAdvanced: {
       de: ["Die Öresundbrücke verbindet Schweden mit Dänemark und ist insgesamt 7,8 Kilometer lang.", "Der Wolkenkratzer 'Turning Torso' ist 190 Meter hoch und weist eine Verdrehung von 90 Grad von der Basis bis zur Spitze auf.", "Malmö wandelt sich durch das Projekt 'Västra Hamnen' von einer Industriegemeinde zu einem nachhaltigen, modernen Wohnviertel.", "Mit Bewohnern aus über 170 Nationen gilt Malmö als eine der diversesten Städte Schwedens."],
       hu: [],
-      ro: ["Podul Øresund, care leagă Suedia de Danemarca, are o lungime totală de 7,8 kilometri.", "Zgârie-norul „Turning Torso” are 190 de metri înălțime și o răsucire de 90 de grade de la bază la vârf.", "Malmö se transformă dintr-un centru industrial într-un cartier rezidențial sustenabil prin proiectul „Västra Hamnen”.", "Cu locuitori din peste 170 de națiuni, Malmö este considerat unul dintre cele mai diverse orașe din Suedia."],
+      ro: ["Podul Øresund, finalizat în 2000, este o minune inginerească combinată de pod și tunel, cu o lungime de aproape 16 km.","Clădirea Turning Torso se rotește la 90 de grade de la bază la vârf.","Malmö are o populație foarte tânără, aproape jumătate dintre locuitori având sub 35 de ani.","Piața Möllevångstorget este un centru vibrant multicultural, cu o piață plină de produse din întreaga lume.","Castelul Malmöhus este cea mai veche fortăreață renascentistă din Scandinavia și găzduiește mai multe muzee.","Malmö este considerat unul dintre cele mai prietenoase orașe pentru bicicliști din lume, cu peste 500 km de piste dedicate.","Biblioteca orașului Malmö este o capodoperă arhitecturală, combinând o clădire veche cu o structură modernă de sticlă."],
       en: [
         "The Øresund Bridge, connecting Sweden to Denmark, has a total length of 7.8 kilometers.",
         "The 'Turning Torso' skyscraper is 190 meters high and features a 90-degree twist from base to top.",
@@ -153,11 +191,22 @@ export const swedenRegions: POI[] = [
       de: "Uppsala ist eine historische Stadt nördlich von Stockholm, berühmt für ihre renommierte Universität, die älteste in Skandinavien. Die Stadt wird vom prächtigen Dom zu Uppsala, der größten Kirche der nordischen Länder, und dem historischen Schloss Uppsala dominiert. Uppsala hat eine reiche akademische und religiöse Geschichte und ist nach wie vor ein lebendiges Zentrum für Bildung, Forschung und Kultur mit vielen Museen und botanischen Gärten.",
       hu: "Uppsala egy történelmi város Stockholmtól északra, amely rangos egyeteméről híres, amely Skandinávia legrégebbi egyeteme. A várost a lenyűgöző uppsalai székesegyház, az északi országok legnagyobb temploma és a történelmi uppsalai vár uralja. Uppsala gazdag akadémiai és vallási múlttal rendelkezik, és továbbra is az oktatás, a kutatás és a kultúra vibráló központja, számos múzeummal és botanikus kerttel.",
       ro: "Uppsala este un oraș istoric situat la nord de Stockholm, faimos pentru prestigioasa sa universitate, care este cea mai veche din Scandinavia. Orașul este dominat de magnifica Catedrală din Uppsala, cea mai mare biserică din țările nordice, și de istoricul Castel Uppsala. Uppsala are o bogată istorie academică și religioasă și rămâne un centru vibrant pentru educație, cercetare și cultură, cu multe muzee și grădini botanice."
+    ,
+    descriptionAdvanced: {
+      de: "Uppsala ist eine historische Stadt nördlich von Stockholm, berühmt für ihre renommierte Universität, die älteste in Skandinavien. Die Stadt wird vom prächtigen Dom zu Uppsala, der größten Kirche der nordischen Länder, und dem historischen Schloss Uppsala dominiert. Uppsala hat eine reiche akademische und religiöse Geschichte und ist nach wie vor ein lebendiges Zentrum für Bildung, Forschung und Kultur mit vielen Museen und botanischen Gärten. Geschichte K6.",
+      hu: "Uppsala történelmi városa Stockholmtól északra fekszik, rangos egyeteméről ismert, amely Skandinávia legrégebbi felsőoktatási intézménye. A várost a hatalmas Uppsalai Székesegyház uralja, amely a skandináv országok legnagyobb temploma. A Fyris-folyó által átszelt város gazdag történelmi emlékekkel, köztük az Uppsalai várral rendelkezik, ahonnan csodás panoráma nyílik. A város Carl Linnaeus botanikus otthona is volt, botanikus kertjei ma is látogathatók. A hallgatói közösség vibráló hangulatot kölcsönöz a történelmi városnak. Istorie K6."
     },
+    factsAdvanced: {
+      hu: ["Az Uppsalai Egyetemet 1477-ben alapították, ezzel a skandináv országok legrégebbi egyeteme.", "Carl Linnaeus, a modern rendszertan atyja, Uppsalában dolgozott; egykori lakhelye ma botanikai múzeum.", "Az Uppsalai Székesegyház 118,7 méteres tornyaival Skandinávia legmagasabb templomépülete.", "A Carolina Rediviva könyvtár őrzi a Codex Argenteust, az értékes 6. századi gótikus ezüstbibliát.", "Valborg (Walpurgis-éj) minden év április 30-án a hallgatók nagy ünnepe máglyákkal és rendezvényekkel."]
+    },
+    factsAdvanced: {
+      de: ["Die Universität Uppsala wurde bereits 1477 gegründet und ist damit die älteste Universität in den skandinavischen Ländern.", "Carl von Linné, der Begründer der modernen Taxonomie, arbeitete in Uppsala; sein ehemaliger Wohnsitz ist heute ein botanisches Museum.", "Der Dom zu Uppsala ist das höchste Kirchengebäude in den nordischen Ländern und beherbergt die Gräber vieler schwedischer Könige.", "Die Universitätsbibliothek 'Carolina Rediviva' beherbergt den 'Codex Argenteus', eine berühmte gotische Silberbibel aus dem 6. Jahrhundert.", "Die Walpurgisnacht am 30. April ist in Uppsala ein großes studentisches Fest mit Fackelzügen und traditionellen Gesängen."]
+    }
+  },
     descriptionAdvanced: {
       de: "Uppsala ist eine historische Stadt nördlich von Stockholm, berühmt für ihre renommierte Universität, die älteste in Skandinavien. Die Stadt wird vom prächtigen Dom zu Uppsala, der größten Kirche der nordischen Länder, und dem historischen Schloss Uppsala dominiert. Uppsala hat eine reiche akademische und religiöse Geschichte und ist nach wie vor ein lebendiges Zentrum für Bildung, Forschung und Kultur mit vielen Museen und botanischen Gärten. Geschichte K6.",
       hu: "",
-      ro: "Uppsala este un oraș istoric situat la nord de Stockholm, faimos pentru prestigioasa sa universitate, cea mai veche din Scandinavia. Orașul este dominat de magnifica Catedrală din Uppsala, cea mai mare biserică din țările nordice, și de istoricul Castel Uppsala. Cu o istorie academică și religioasă profundă, Uppsala rămâne un centru vibrant pentru educație, cercetare și cultură, oferind numeroase muzee și grădini botanice impresionante. Istorie K6.",
+      ro: "Uppsala, unul dintre cele mai vechi orașe din Suedia, este un centru academic și ecleziastic de prestigiu. Aici se află Universitatea din Uppsala, fondată în 1477, cea mai veche instituție de învățământ superior din Scandinavia, și impunătoarea Catedrală din Uppsala, cea mai mare din țările nordice. Orașul este traversat de râul Fyris și este plin de situri istorice, inclusiv Castelul Uppsala, care oferă o priveliște panoramică. Uppsala a fost și casa faimosului botanist Carl Linnaeus, ale cărui grădini pot fi vizitate și astăzi. Este un oraș plin de viață, cu o atmosferă vibrantă datorită numeroșilor studenți. Istorie K6.",
       en: "Uppsala is a historic city north of Stockholm, famous for its prestigious university, the oldest in Scandinavia. The city is dominated by the magnificent Uppsala Cathedral, the largest church in the Nordic countries, and the historic Uppsala Castle. With a profound academic and religious history, Uppsala remains a vibrant center for education, research, and culture, offering numerous museums and impressive botanical gardens. History K6."
     },
     facts: {
@@ -166,7 +215,7 @@ export const swedenRegions: POI[] = [
     factsAdvanced: {
       de: ["Die Universität Uppsala wurde bereits 1477 gegründet und ist damit die älteste Universität in den skandinavischen Ländern.", "Carl von Linné, der Begründer der modernen Taxonomie, arbeitete in Uppsala; sein ehemaliger Wohnsitz ist heute ein botanisches Museum.", "Der Dom zu Uppsala ist das höchste Kirchengebäude in den nordischen Ländern und beherbergt die Gräber vieler schwedischer Könige.", "Die Universitätsbibliothek 'Carolina Rediviva' beherbergt den 'Codex Argenteus', eine berühmte gotische Silberbibel aus dem 6. Jahrhundert."],
       hu: [],
-      ro: ["Universitatea din Uppsala a fost fondată în 1477, fiind cea mai veche universitate din țările scandinave.", "Carl von Linné, părintele taxonomiei moderne, a activat în Uppsala, iar fosta sa reședință este astăzi un muzeu botanic.", "Catedrala din Uppsala este cea mai înaltă biserică din țările nordice și găzduiește mormintele multor regi suedezi.", "Biblioteca universitară „Carolina Rediviva” deține „Codex Argenteus”, o celebră biblie gotică din argint din secolul al VI-lea."],
+      ro: ["Catedrala din Uppsala are turnuri de 118,7 metri, fiind cea mai înaltă biserică din Scandinavia.","Biblioteca Universității din Uppsala, Carolina Rediviva, deține prețiosul Codex Argenteus (Biblia de Argint) din secolul al VI-lea.","Gamla Uppsala (Vechea Uppsala), situată la nord de oraș, este un sit arheologic major cu movile funerare regale datând din secolele V și VI.","Noaptea de Walpurgis (Valborg), pe 30 aprilie, este sărbătorită cu entuziasm de studenți, cu evenimente publice și focuri de tabără.","Grădina Botanică Linnaeus este cea mai veche grădină botanică din Suedia.","Uppsala este un centru important pentru industria biotehnologiei în Suedia.","Personajul de desene animate Pelle Svanslös (Pelle Fără Coadă) este originar din Uppsala."],
       en: [
         "Uppsala University was founded in 1477, making it the oldest university in the Scandinavian countries.",
         "Carl Linnaeus, the father of modern taxonomy, worked in Uppsala; his former residence is now a botanical museum.",
@@ -187,7 +236,14 @@ export const swedenRegions: POI[] = [
       de: "Schwedisch-Lappland ist ein riesiges Wildnisgebiet im hohen Norden des Landes, geprägt von arktischen Landschaften, Bergen und Flüssen. Es ist das Land der Mitternachtssonne im Sommer und der Polarlichter im Winter. Die Region ist die Heimat des indigenen Volkes der Samen und bietet einzigartige Erlebnisse wie Hundeschlittenfahrten, Rentierzucht und Übernachtungen im weltberühmten Eishotel in Jukkasjärvi. Lappland ist ein Paradies für Naturliebhaber und Abenteurer.",
       hu: "A svéd Lappföld egy hatalmas vadon az ország távoli északi részén, amelyet sarkvidéki tájak, hegyek és folyók jellemeznek. Ez az éjféli nap földje nyáron és az északi fényé télen. A régió az őshonos számi nép otthona, és olyan egyedülálló élményeket kínál, mint a kutyaszánozás, a rénszarvaspásztorkodás és a jukkasjärvi világhírű jéghotelben való tartózkodás. Lappföld a természetbarátok és a kalandvágyók paradiseoma.",
       ro: "Laponia suedeză este o zonă vastă de sălbăticie în nordul îndepărtat al țării, caracterizată prin peisaje arctice, munți și râuri. Este țara Soarelui de la Miezul Noptții vara și a Aurorei Boreale iarna. Regiunea găzduiește poporul indigen Sámi și oferă experiențe unice, cum ar fi saniile trase de câini, păstoritul renilor și cazarea în faimosul Hotel de Gheață din Jukkasjärvi. Laponia este un paradis pentru iubitorii de natură și aventurieri."
+    ,
+    descriptionAdvanced: {
+      hu: "Svéd Lappföld egy hatalmas vadon az ország északi részén, amelyet sarkvidéki tájak, fenséges hegyek és kristálytiszta folyók jellemeznek. Ez az éjféli nap földje nyáron és az északi fényé a téli éjszakákon. A régió az őshonos számi nép otthona, akik évezredek óta hagyományos rénszarvastartással foglalkoznak. Lappföld olyan egyedülálló élményeket kínál, mint a kutyaszánozás, a rénszarvas-pásztorkodás vagy a Jukkasjärvi Jéghotelben való tartózkodás. A természet és a kaland szerelmeseinek igazi paradicsoma. Erdkunde K8."
     },
+    factsAdvanced: {
+      hu: ["Lappföld Svédország területének körülbelül 25%-át teszi ki, ugyanakkor rendkívül ritkán lakott.", "A számi nép rénszarvastartása mélyen beépült Lappföld kultúrájába, és évezredes hagyományokat őriz.", "A Torne-folyó adja a jeget a faimos Jég Hotel számára, amelynek szobáit minden évben nemzetközi művészek tervezik újra.", "A régió híres az „éjféli napról”, amikor a nap a nyári hónapokban nem bukik le a horizont alá.", "A régió változatos arktikus állatvilágnak ad otthont, beleértve az elanokat, rénszarvasokat és wolverinokat."]
+    }
+  },
     descriptionAdvanced: {
       de: "Schwedisch-Lappland ist ein riesiges Wildnisgebiet im hohen Norden des Landes, geprägt von arktischen Landschaften, Bergen und Flüssen. Es ist das Land der Mitternachtssonne im Sommer und der Polarlichter im Winter. Die Region ist die Heimat des indigenen Volkes der Samen und bietet einzigartige Erlebnisse wie Hundeschlittenfahrten, Rentierzucht und Übernachtungen im weltberühmten Eishotel in Jukkasjärvi. Lappland ist ein Paradies für Naturliebhaber und Abenteurer. Erdkunde K8.",
       hu: "",
@@ -224,7 +280,14 @@ export const swedenCities: POI[] = [
       hu: "Kiruna Svédország legészakibb városa, amely a világ legnagyobb vasércbányájáról, a Jéghotelről és az arktikus Lappföld kapujaként ismert.",
       ro: "Kiruna este cel mai nordic oraș din Suedia, cunoscut pentru cea mai mare mină de minereu de fier din lume, Hotelul de Gheață și ca poartă către Laponia arctică.",
       en: "Kiruna is the northernmost city in Sweden, known for the world's largest iron ore mine, the Icehotel, and as a gateway to Arctic Lapland."
+    ,
+    descriptionAdvanced: {
+      de: "Kiruna ist die nördlichste Stadt Schwedens und liegt in der Provinz Lappland. Sie ist bekannt für das weltweit größte unterirdische Eisenerzbergwerk sowie für ihre Nähe zum Abisko-Nationalpark und zum Eishotel. Die Stadt wird derzeit im Rahmen eines massiven Umsiedlungsprojekts verlegt, um zu verhindern, dass sie vom expandierenden Bergwerk verschluckt wird. Erdkunde K8."
     },
+    factsAdvanced: {
+      de: ["Aufgrund des Bergbaus muss die gesamte Stadt Kiruna um etwa 3 Kilometer verlegt werden, ein weltweit beispielloses Bauvorhaben.", "Die Erzgrube in Kiruna produziert jährlich Millionen Tonnen Eisenerz und ist essenziell für die europäische Stahlindustrie.", "Die Kiruna-Kirche, ein Meisterwerk der Holzarchitektur, wurde beim Umzug der Stadt originalgetreu versetzt.", "Kiruna liegt nördlich des Polarkreises, was spektakuläre Polarlichter im Winter und die Mitternachtssonne im Sommer ermöglicht.", "Die Stadt ist der wichtigste Stützpunkt für die schwedische Raumfahrtforschung im Esrange Space Center."]
+    }
+  },
     descriptionAdvanced: {
       de: "Kiruna ist die nördlichste Stadt Schwedens und liegt in der Provinz Lappland. Sie ist bekannt für das weltweit größte unterirdische Eisenerzbergwerk sowie für ihre Nähe zum Abisko-Nationalpark und zum Eishotel. Die Stadt wird derzeit im Rahmen eines massiven Umsiedlungsprojekts verlegt, um zu verhindern, dass sie vom expandierenden Bergwerk verschluckt wird. Erdkunde K8.",
       hu: "",
@@ -258,7 +321,14 @@ export const swedenCities: POI[] = [
       hu: "Umeå egy dinamikus egyetemi város Észak-Svédországban, amely vibráló kulturális életéről, nyírfasorairól és innovációs központjáról ismert.",
       ro: "Umeå este un oraș universitar dinamic din nordul Suediei, cunoscut pentru scena sa culturală vibrantă, aleile sale de mesteacăn și ca centru de inovare.",
       en: "Umeå is a dynamic university city in northern Sweden, known for its vibrant cultural scene, birch-lined avenues, and as a hub for innovation."
+    ,
+    descriptionAdvanced: {
+      de: "Umeå ist eine schnell wachsende Universitätsstadt am Umeälven in Nordschweden. Sie ist bekannt für ihre kreative Energie, ihre starken öffentlichen Dienste und den leichten Zugang zu Wäldern und Küste in Västerbotten. Die Stadt erhielt 2014 als Europäische Kulturhauptstadt internationale Aufmerksamkeit. Umeå verbindet modernes Stadtleben mit einer klaren nordschwedischen Identität. Sachkunde K7."
     },
+    factsAdvanced: {
+      de: ["Umeå trägt den Beinamen 'Stadt der Birken', da nach einem Stadtbrand im Jahr 1888 tausende Birken gepflanzt wurden, um Feuer zu verhindern.", "Im Jahr 2014 wurde Umeå gemeinsam mit Riga zur Europäischen Kulturhauptstadt ernannt.", "Die Universität Umeå ist ein bedeutendes Forschungszentrum und beherbergt eine der größten Medizinfakultäten des Landes.", "Die Stadt ist bekannt für ihre lebendige Musik- und Kunstszene, die tief in der nordschwedischen Kultur verwurzelt ist.", "Umeå ist ein wichtiges Zentrum für Filmproduktion im Norden und beheimatet ein jährliches Filmfestival."]
+    }
+  },
     descriptionAdvanced: {
       de: "Umeå ist eine schnell wachsende Universitätsstadt am Umeälven in Nordschweden. Sie ist bekannt für ihre kreative Energie, ihre starken öffentlichen Dienste und den leichten Zugang zu Wäldern und Küste in Västerbotten. Die Stadt erhielt 2014 als Europäische Kulturhauptstadt internationale Aufmerksamkeit. Umeå verbindet modernes Stadtleben mit einer klaren nordschwedischen Identität. Sachkunde K7.",
       hu: "",
@@ -291,7 +361,14 @@ export const swedenCities: POI[] = [
       hu: "Lund Svédország egyik legrégebbi városa, egy jelentős egyetemi város délen, amely pompás román stílusú székesegyházáról és akadémiai hagyományairól ismert.",
       ro: "Lund este unul dintre cele mai vechi orașe din Suedia, un oraș universitar important în sud, cunoscut pentru catedrala sa romanică magnifică și tradiția sa academică.",
       en: "Lund is one of the oldest cities in Sweden, a major university city in the south known for its magnificent Romanesque cathedral and academic tradition."
+    ,
+    descriptionAdvanced: {
+      de: "Lund ist eine der ältesten und intellektuellsten Städte Schwedens, geprägt von Dom und Universität. Sie liegt im südlichen Schonen und zieht das ganze Jahr über Studierende, Forscher und Besucher an. Das kompakte Zentrum lässt sich leicht zu Fuß erkunden und ist voller historischer Straßen, Cafés und fahrradfreundlicher Wege. Lund ist auch ein wichtiger Standort für Wirtschaft und Innovation in der größeren Öresund-Region. Geschichte K6."
     },
+    factsAdvanced: {
+      de: ["Die Universität Lund gehört regelmäßig zu den 100 besten Universitäten der Welt und ist ein zentraler Akteur in der Öresund-Region.", "Der Dom von Lund wurde im 12. Jahrhundert errichtet und gilt als einer der wichtigsten Bauwerke der Romanik in Skandinavien.", "Mit einem hohen Anteil an Studierenden an der Gesamtbevölkerung bietet Lund eine lebendige, junge Atmosphäre und eine sehr hohe Dichte an Cafés.", "Lund ist ein Zentrum für High-Tech-Forschung, insbesondere in den Bereichen Biowissenschaften und Nanotechnologie.", "Der Botanische Garten in Lund umfasst über 7.000 Arten und ist einer der ältesten und vielfältigsten in Schweden."]
+    }
+  },
     descriptionAdvanced: {
       de: "Lund ist eine der ältesten und intellektuellsten Städte Schwedens, geprägt von Dom und Universität. Sie liegt im südlichen Schonen und zieht das ganze Jahr über Studierende, Forscher und Besucher an. Das kompakte Zentrum lässt sich leicht zu Fuß erkunden und ist voller historischer Straßen, Cafés und fahrradfreundlicher Wege. Lund ist auch ein wichtiger Standort für Wirtschaft und Innovation in der größeren Öresund-Region. Geschichte K6.",
       hu: "",
@@ -324,7 +401,14 @@ export const swedenCities: POI[] = [
       hu: "Linköping egy jelentős város Közép-Svédországban, amely repülőgépiparáról, lenyűgöző székesegyházáról és neves egyeteméről ismert.",
       ro: "Linköping este un oraș important din centrul Suediei, cunoscut pentru industria sa aeronautică, catedrala impresionantă și universitatea sa renumită.",
       en: "Linköping is a major city in central Sweden, known for its aviation industry, impressive cathedral, and renowned university."
+    ,
+    descriptionAdvanced: {
+      de: "Linköping ist eine wichtige Stadt in Ost-Zentralschweden und bekannt für Luftfahrt, Logistik und Technologie. Sie verbindet ein starkes Wirtschaftsprofil mit einer historischen Innenstadt und einer lebendigen Studentenatmosphäre. In der Stadt befinden sich das bekannte Schwedische Luftwaffenmuseum und der große Campus der Universität Linköping. Besucher nutzen Linköping als Tor nach Östergötland und in die klassische schwedische Landschaft. Erdkunde K7."
     },
+    factsAdvanced: {
+      de: ["Die Stadt ist das Zentrum des schwedischen Luftfahrt-Clusters, maßgeblich geprägt durch Unternehmen wie Saab, das hier Kampfflugzeuge entwickelt.", "Das Schwedische Luftwaffenmuseum zeigt eine umfangreiche Sammlung von Flugzeugen aus verschiedenen Epochen der schwedischen Geschichte.", "Die Universität Linköping wurde 1975 gegründet und ist heute eng mit der lokalen High-Tech-Industrie verzahnt.", "Der Dom zu Linköping ist eine der am besten erhaltenen mittelalterlichen Kathedralen Schwedens und markantes Wahrzeichen der Stadt.", "Linköping ist für seine Fahrradfreundlichkeit bekannt, mit einem der besten Radwegenetze in Schweden."]
+    }
+  },
     descriptionAdvanced: {
       de: "Linköping ist eine wichtige Stadt in Ost-Zentralschweden und bekannt für Luftfahrt, Logistik und Technologie. Sie verbindet ein starkes Wirtschaftsprofil mit einer historischen Innenstadt und einer lebendigen Studentenatmosphäre. In der Stadt befinden sich das bekannte Schwedische Luftwaffenmuseum und der große Campus der Universität Linköping. Besucher nutzen Linköping als Tor nach Östergötland und in die klassische schwedische Landschaft. Erdkunde K7.",
       hu: "",
@@ -357,7 +441,14 @@ export const swedenCities: POI[] = [
       hu: "Västerås egy történelmi város a Mälaren-tó partján, amely ipari örökségéről, modern jachtkikötőjéről és Stockholm közelségéről ismert.",
       ro: "Västerås este un oraș istoric pe malul lacului Mälaren, cunoscut pentru moștenirea sa industrială, portul de agrement modern și proximitatea de Stockholm.",
       en: "Västerås is a historic city on Lake Mälaren, known for its industrial heritage, modern marina, and proximity to Stockholm."
+    ,
+    descriptionAdvanced: {
+      de: "Västerås ist eine historische Stadt am Mälarensee mit einer starken industriellen Basis und moderner Uferidentität. Sie wuchs durch Handel, Schifffahrt und später durch fortschrittlichen Maschinenbau, was die lokale Wirtschaft bis heute prägt. Die Stadt ist von Stockholm aus leicht erreichbar und eignet sich gut als regionales Zentrum für Geschäfts- und Familienreisen. Västerås bietet außerdem Erholung am See, alte Kirchen und eine kompakte Innenstadt. Erdkunde K7."
     },
+    factsAdvanced: {
+      de: ["Die Wurzeln von Västerås reichen bis in die Wikingerzeit zurück, was es zu einer der historisch bedeutendsten Städte Schwedens macht.", "Västerås gilt als 'Mälaren-Stadt' und nutzt den See als zentralen Erholungs- und Wirtschaftsfaktor.", "Der Dom von Västerås stammt aus dem 13. Jahrhundert und ist ein herausragendes Beispiel mittelalterlicher Kirchenbaukunst.", "Das Kokpunkten Actionbad in Västerås ist ein innovatives Erlebnisbad, das in einem ehemaligen Kraftwerksgebäude untergebracht ist.", "Västerås ist ein wichtiger Standort für erneuerbare Energietechnologien und intelligente Energienetze."]
+    }
+  },
     descriptionAdvanced: {
       de: "Västerås ist eine historische Stadt am Mälarensee mit einer starken industriellen Basis und moderner Uferidentität. Sie wuchs durch Handel, Schifffahrt und später durch fortschrittlichen Maschinenbau, was die lokale Wirtschaft bis heute prägt. Die Stadt ist von Stockholm aus leicht erreichbar und eignet sich gut als regionales Zentrum für Geschäfts- und Familienreisen. Västerås bietet außerdem Erholung am See, alte Kirchen und eine kompakte Innenstadt. Erdkunde K7.",
       hu: "",
@@ -390,7 +481,14 @@ export const swedenCities: POI[] = [
       hu: "Örebro egy bájos város Közép-Svédországban, amely fenséges középkori váráról, vibráló egyeteméről és fontos közlekedési csomópontként betöltött szerepéről ismert.",
       ro: "Örebro este un oraș fermecător din centrul Suediei, cunoscut pentru castelul său medieval maiestuos, universitatea sa vibrantă și rolul său de nod important de transport.",
       en: "Örebro is a charming city in central Sweden, known for its majestic medieval castle, vibrant university, and role as a major transport hub."
+    ,
+    descriptionAdvanced: {
+      de: "Örebro ist eine zentral schwedische Stadt, die von einer Burg, einer großen Universität und einer lebendigen Dienstleistungswirtschaft geprägt ist. Ihre Lage macht sie zu einem wichtigen Knotenpunkt für Bahn- und Straßenreisen im ganzen Land. Das Stadtzentrum ist fußläufig und verbindet Einkauf, Restaurants und Flusslandschaft. Örebro ist außerdem für die Mischung aus Geschichte, Bildung und praktischen Regionalfunktionen bekannt. Sachkunde K5."
     },
+    factsAdvanced: {
+      de: ["Das Schloss Örebro wurde im 14. Jahrhundert als Verteidigungsfestung erbaut und diente später als königliche Residenz.", "Örebro beherbergt eine Universität mit rund 15.000 Studierenden, die ein wichtiger Motor für Innovation in der Region ist.", "Der Fluss Svartån durchquert das Stadtzentrum und bietet einen pittoresken Anblick, besonders im Sommer.", "Das Open-Air-Museum Wadköping zeigt historische Gebäude aus der Stadtgeschichte und bewahrt so das kulturelle Erbe von Örebro.", "Örebro ist ein bedeutendes Zentrum für die schwedische Lebensmittelindustrie und Logistik."]
+    }
+  },
     descriptionAdvanced: {
       de: "Örebro ist eine zentral schwedische Stadt, die von einer Burg, einer großen Universität und einer lebendigen Dienstleistungswirtschaft geprägt ist. Ihre Lage macht sie zu einem wichtigen Knotenpunkt für Bahn- und Straßenreisen im ganzen Land. Das Stadtzentrum ist fußläufig und verbindet Einkauf, Restaurants und Flusslandschaft. Örebro ist außerdem für die Mischung aus Geschichte, Bildung und praktischen Regionalfunktionen bekannt. Sachkunde K5.",
       hu: "",
@@ -423,7 +521,14 @@ export const swedenCities: POI[] = [
       hu: "Halmstad egy népszerű tengerparti város Svédország nyugati partján, amely gyönyörű homokos strandjairól, világszínvonalú golfpályáiról és laza nyaralóhangulatáról ismert.",
       ro: "Halmstad este un oraș de coastă popular pe coasta de vest a Suediei, cunoscut pentru plajele sale frumoase de nisip, terenurile de golf de clasă mondială și atmosfera sa relaxată de vacanță.",
       en: "Halmstad is a popular coastal city on Sweden's west coast, known for its beautiful sandy beaches, world-class golf courses, and relaxed holiday atmosphere."
+    ,
+    descriptionAdvanced: {
+      de: "Halmstad ist eine Küstenstadt an der schwedischen Westküste mit langer Geschichte im Handel und im Seetourismus. Sie ist besonders im Sommer beliebt dank Stränden, Golf und entspannter Hafenatmosphäre. Die Stadt dient außerdem als regionales Zentrum für Verwaltung, Einzelhandel und Verkehr in Halland. Halmstad verbindet Altstadtcharakter mit einem starken modernen Urlaubsgefühl. Geografie K6."
     },
+    factsAdvanced: {
+      de: ["Der Stadtstrand Tylösand gilt als einer der schönsten Sandstrände in ganz Schweden und ist ein beliebtes Ziel für Touristen.", "Halmstad ist bekannt für seine hohe Dichte an exzellenten Golfplätzen, die Besucher aus ganz Europa anziehen.", "Die historische Altstadt hat Teile ihrer Befestigungsanlagen bewahrt und verleiht Halmstad einen ganz besonderen, altmodischen Charme.", "Das Halland-Kunstmuseum zeigt umfangreiche Sammlungen zur regionalen Geschichte und Kunst.", "Halmstad ist für seine lebendige Live-Musik-Szene bekannt, die in den Sommermonaten durch zahlreiche Konzerte am Strand geprägt ist."]
+    }
+  },
     descriptionAdvanced: {
       de: "Halmstad ist eine Küstenstadt an der schwedischen Westküste mit langer Geschichte im Handel und im Seetourismus. Sie ist besonders im Sommer beliebt dank Stränden, Golf und entspannter Hafenatmosphäre. Die Stadt dient außerdem als regionales Zentrum für Verwaltung, Einzelhandel und Verkehr in Halland. Halmstad verbindet Altstadtcharakter mit einem starken modernen Urlaubsgefühl. Geografie K6.",
       hu: "",
@@ -456,7 +561,14 @@ export const swedenCities: POI[] = [
       hu: "Sundsvall egy lenyűgöző tengerparti város Észak-Svédországban, amely a 19. századi nagy tűzvész után épült pompás kőépítészetéről („Stenstaden”) ismert.",
       ro: "Sundsvall este un oraș de coastă impresionant din nordul Suediei, cunoscut pentru arhitectura sa magnifică din piatră („Stenstaden”), apărută după un mare incendiu în secolul al XIX-lea.",
       en: "Sundsvall is an impressive coastal city in northern Sweden, known for its magnificent stone architecture ('Stenstaden') that emerged after a great fire in the 19th century."
+    ,
+    descriptionAdvanced: {
+      de: "Sundsvall ist eine nördliche Küstenstadt, die für ihre Steinarchitektur und ihr industrielles Erbe bekannt ist. Nach dem Großbrand von 1888 wurde sie in einem monumentalen Stil neu aufgebaut, der das Stadtzentrum bis heute prägt. Heute ist sie eine Mischung aus Regionalverwaltung, Bildung, digitalen Diensten und altem Industriecharakter. Sundsvall ist auch ein praktischer Halt für Reisende zwischen Mittel- und Nordschweden. Geschichte K7."
     },
+    factsAdvanced: {
+      de: ["Nach dem verheerenden Brand von 1888 wurde das Stadtzentrum massiv aus Stein gebaut, was dem Beinamen 'Stenstaden' (Steinstadt) seinen Ursprung gab.", "Die Architektur von Sundsvall gilt als eines der schönsten Beispiele für städtische Planung im späten 19. Jahrhundert.", "Durch seine Lage am Bottnischen Meerbusen war Sundsvall ein Zentrum der schwedischen Forstindustrie und des Holzexports.", "Der Södra Berget bietet einen beeindruckenden Panoramablick über die Stadt und ist ein beliebtes Ziel für Outdoor-Aktivitäten zu jeder Jahreszeit.", "Sundsvall ist heute ein wachsendes Zentrum für IT-Dienstleistungen und digitale Medien."]
+    }
+  },
     descriptionAdvanced: {
       de: "Sundsvall ist eine nördliche Küstenstadt, die für ihre Steinarchitektur und ihr industrielles Erbe bekannt ist. Nach dem Großbrand von 1888 wurde sie in einem monumentalen Stil neu aufgebaut, der das Stadtzentrum bis heute prägt. Heute ist sie eine Mischung aus Regionalverwaltung, Bildung, digitalen Diensten und altem Industriecharakter. Sundsvall ist auch ein praktischer Halt für Reisende zwischen Mittel- und Nordschweden. Geschichte K7.",
       hu: "",
@@ -489,7 +601,14 @@ export const swedenCities: POI[] = [
       hu: "Luleå Svéd Lappföld fővárosa, amely jelentős kikötőjéről, arktikus klímájáról és az UNESCO Világörökség részét képező Gammelstad templomvárosról ismert.",
       ro: "Luleå este capitala Laponiei suedeze, cunoscută pentru portul său important, clima arctică și satul bisericesc Gammelstad, inclus în Patrimoniul Mondial UNESCO.",
       en: "Luleå is the capital of Swedish Lapland, known for its major port, Arctic climate, and the UNESCO World Heritage-listed Gammelstad Church Town."
+    ,
+    descriptionAdvanced: {
+      de: "Luleå ist die Hauptstadt von Schwedisch-Lappland am Bottnischen Meerbusen. Sie verbindet Hafenaktivität im Norden, arktisches Klima und wachsende technische Infrastruktur in kompakter urbaner Form. Die Stadt ist berühmt für ihre UNESCO-geschützte Kirchenstadt, ihre Universitätspraxis und ihre Rolle in der regionalen Wirtschaft. Luleå ist ein starker Ausgangspunkt für Wintertourismus, Küstenreisen und Nordindustrie. Erdkunde K8."
     },
+    factsAdvanced: {
+      de: ["Gammelstad ist die am besten erhaltene Kirchenstadt Schwedens und zeigt, wie Menschen aus der Umgebung früher reisten, um Gottesdienste zu besuchen.", "Luleå hat sich zu einem Zentrum für digitale Infrastruktur und grüne Technologie entwickelt, insbesondere durch die Nähe zu kostengünstigen und nachhaltigen Energiequellen.", "Der Hafen von Luleå ist essenziell für den Export von Eisenerz aus den nahegelegenen Minen.", "Die Schären vor Luleå bestehen aus über 1.300 Inseln, die im Winter oft über Eisstraßen erreichbar sind.", "Luleå ist bekannt für seine starke Forschung im Bereich der Technik und Materialwissenschaften."]
+    }
+  },
     descriptionAdvanced: {
       de: "Luleå ist die Hauptstadt von Schwedisch-Lappland am Bottnischen Meerbusen. Sie verbindet Hafenaktivität im Norden, arktisches Klima und wachsende technische Infrastruktur in kompakter urbaner Form. Die Stadt ist berühmt für ihre UNESCO-geschützte Kirchenstadt, ihre Universitätspraxis und ihre Rolle in der regionalen Wirtschaft. Luleå ist ein starker Ausgangspunkt für Wintertourismus, Küstenreisen und Nordindustrie. Erdkunde K8.",
       hu: "",
@@ -522,7 +641,14 @@ export const swedenCities: POI[] = [
       hu: "Karlstad egy barátságos város a Vänern-tó északi partján, amely napfényes hangulatáról, a Klarälven-deltában fekvő elhelyezkedéséről és magas életminőségéről ismert.",
       ro: "Karlstad este un oraș prietenos pe malul nordic al lacului Vänern, cunoscut pentru atmosfera sa însorită, locația sa în delta Klarälven și calitatea ridicată a vieții.",
       en: "Karlstad is a friendly city on the northern shore of Lake Vänern, known for its sunny atmosphere, its location at the Klarälven delta, and high quality of life."
+    ,
+    descriptionAdvanced: {
+      de: "Karlstad liegt dort, wo der Klarälven in den Vänernsee mündet, und ist eine der angenehmsten Regionalstädte Westschwedens. Sie ist bekannt für ihre hellen Wasserwege, ihr ruhiges Tempo und ihre starke Rolle in Verwaltung und Handel. Die Stadt hat den Ruf von viel Sonne, offenen Plätzen und einfachem Zugang zur Binnenlandschaft. Karlstad eignet sich gut als Reisebasis für Värmland und das Seenland. Sachkunde K5."
     },
+    factsAdvanced: {
+      de: ["Karlstad wird aufgrund einer populären Kellnerin namens 'Sola i Karlstad' (Die Sonne in Karlstad) oft als besonders sonnige Stadt bezeichnet.", "Durch die Lage im Mündungsdelta des Klarälven ist Karlstad ein Paradies für Wassersportler und Naturliebhaber.", "Als Sitz der Universität Karlstad ist die Stadt ein bedeutender Bildungsknotenpunkt in Mittelschweden.", "Das Värmland-Museum in Karlstad bietet exzellente Einblicke in die Kunst und kulturelle Geschichte der Region.", "Karlstad ist ein wichtiger Knotenpunkt für den Schienenverkehr in der westlichen Region des Vänernsees."]
+    }
+  },
     descriptionAdvanced: {
       de: "Karlstad liegt dort, wo der Klarälven in den Vänernsee mündet, und ist eine der angenehmsten Regionalstädte Westschwedens. Sie ist bekannt für ihre hellen Wasserwege, ihr ruhiges Tempo und ihre starke Rolle in Verwaltung und Handel. Die Stadt hat den Ruf von viel Sonne, offenen Plätzen und einfachem Zugang zur Binnenlandschaft. Karlstad eignet sich gut als Reisebasis für Värmland und das Seenland. Sachkunde K5.",
       hu: "",
@@ -555,7 +681,14 @@ export const swedenCities: POI[] = [
       hu: "Jönköping egy stratégiai fekvésű város a Vättern-tó déli partján, amely logisztikai központként betöltött szerepéről, vásárairól és gyönyörű vízparti fekvéséről ismert.",
       ro: "Jönköping este un oraș situat strategic pe malul sudic al lacului Vättern, cunoscut pentru rolul său de centru logistic, târgurile sale și locația sa superbă pe malul apei.",
       en: "Jönköping is a strategically located city on the southern shore of Lake Vättern, known for its role as a logistics hub, its trade fairs, and its beautiful waterfront setting."
+    ,
+    descriptionAdvanced: {
+      de: "Jönköping ist eine strategisch gelegene Binnenstadt am südlichen Ufer des Vätternsees. Sie entwickelte sich zu einem Handels-, Produktions- und Verkehrszentrum und spielt bis heute eine starke regionale Rolle. Die Stadt ist bekannt für Messen, Logistik und gute Verbindungen zum Rest Südschwedens. Jönköping bietet Besuchern außerdem eine gute Mischung aus Seeblick, Stadtdiensten und naher Landschaft. Erdkunde K7."
     },
+    factsAdvanced: {
+      de: ["Jönköping war früher weltweit als 'Zündholz-Hauptstadt' bekannt, da das Unternehmen 'Svenska Tändsticks AB' dort seinen Sitz hatte.", "Die Stadt ist ein bedeutender Knotenpunkt für den Güterverkehr in Schweden, da sich hier wichtige Autobahnrouten kreuzen.", "Der Vätternsee sorgt für ein mildes Klima und bietet eine wunderschöne Kulisse für die gesamte Stadt.", "Das Tändsticksmuseet in Jönköping ist eines der wenigen Museen weltweit, das sich der Geschichte der Zündholzherstellung widmet.", "Die Jönköping University ist bekannt für ihre starke Ausrichtung auf unternehmerische Studiengänge."]
+    }
+  },
     descriptionAdvanced: {
       de: "Jönköping ist eine strategisch gelegene Binnenstadt am südlichen Ufer des Vätternsees. Sie entwickelte sich zu einem Handels-, Produktions- und Verkehrszentrum und spielt bis heute eine starke regionale Rolle. Die Stadt ist bekannt für Messen, Logistik und gute Verbindungen zum Rest Südschwedens. Jönköping bietet Besuchern außerdem eine gute Mischung aus Seeblick, Stadtdiensten und naher Landschaft. Erdkunde K7.",
       hu: "",
@@ -883,3 +1016,4 @@ export const swedenNature: POI[] = [
 ];
 
 export const swedenAllPoi: POI[] = [swedenCountry, ...swedenRegions, ...swedenCities, ...swedenCulture, ...swedenNature];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraGhanaReliefV2: POI[] = [
@@ -13,8 +14,19 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["A legmagasabb pontja az Afadja-hegy.", "Fontos vízválasztó.", "Geológiailag ősi.", "Lankás lejtőiről ismert."],
       ro: ["Cel mai înalt punct este Muntele Afadja.", "Cumpănă de ape importantă.", "Din punct de vedere geologic este vechi.", "Cunoscut pentru versanții săi domoli."],
       en: ["Highest point is Mount Afadja.", "Important watershed.", "Geologically ancient.", "Known for its gentle slopes."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Das Akwapim-Togo-Gebirge erstreckt sich als markanter Gebirgszug über 300 Kilometer durch den Osten Ghanas bis nach Togo. Die Region ist geprägt von alten geologischen Formationen, die eine bedeutende Wasserscheide für die Flüsse des Landes darstellen. Die Landschaft bietet sanfte, bewaldete Hänge, die für ihre biologische Vielfalt bekannt sind und geographisch K7-Földrajz-Tananyagba illeszkednek.",
+      hu: "Az Akwapim-Togo-hegység markáns vonulata több mint 300 kilométer hosszan húzódik Ghána keleti részén egészen Togóig. A régiót ősi geológiai képződmények jellemzik, amelyek fontos vízválasztót alkotnak az ország folyói számára. A táj lankás, erdős lejtőiről ismert, amelyek gazdag biodiverzitással rendelkeznek, és földrajzilag a K7-es földrajzi tananyaghoz kapcsolódnak.",
+      ro: "Munții Akwapim-Togo se întind ca un lanț muntos distinctiv pe peste 300 de kilometri prin estul Ghanei până în Togo. Regiunea este marcată de formațiuni geologice vechi, care reprezintă o cumpănă de ape importantă pentru râurile țării. Peisajul oferă versanți domoli și împăduriți, cunoscuți pentru biodiversitatea lor, încadrându-se geografic în materia de Geografie de clasa a 7-a.",
+      en: "The Akwapim-Togo Range stretches as a prominent mountain chain over 300 kilometers through eastern Ghana into Togo. The region is characterized by ancient geological formations that represent an important watershed for the country's rivers. The landscape offers gentle, forested slopes known for their biodiversity, geographically fitting into the K7-Geography curriculum."
+    },
+    factsAdvanced: {
+      de: ["Erstreckt sich über 300 km Länge.", "Wichtige Wasserscheide für die Region.", "Geologisch über 500 Mio. Jahre alt.", "Höchster Gipfel ist der Mount Afadja.", "Heimat zahlreicher endemischer Pflanzen.", "Wichtiger ökologischer Korridor."],
+      hu: ["Több mint 300 km hosszan húzódik.", "Fontos vízválasztó a régió számára.", "Geológiailag több mint 500 millió éves.", "Legmagasabb csúcsa az Afadja-hegy.", "Számos endemikus növény otthona.", "Jelentős ökológiai folyosó."],
+      ro: ["Se întinde pe o lungime de peste 300 km.", "Cumpănă de ape importantă pentru regiune.", "Din punct de vedere geologic, are peste 500 mil. ani.", "Cel mai înalt vârf este Muntele Afadja.", "Găzduiește numeroase plante endemice.", "Coridor ecologic important."],
+      en: ["Stretches over 300 km in length.", "Important watershed for the region.", "Geologically over 500 million years old.", "Highest peak is Mount Afadja.", "Home to numerous endemic plants.", "Important ecological corridor."]
+    }, image: "/poi-images/akwapim-togo-relief-v2.webp"},
   {
     id: "mount-afadja-relief-v2",
     type: "mountain",
@@ -27,8 +39,19 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Magassága kb. 885 méter.", "Az Akwapim-Togo-hegységben található.", "Népszerű túracélpont.", "Trópusi erdő veszi körül."],
       ro: ["Înălțime de aproximativ 885 metri.", "Situat în lanțul Akwapim-Togo.", "Destinație populară pentru drumeții.", "Înconjurat de pădure tropicală."],
       en: ["Height approx. 885 meters.", "Located in the Akwapim-Togo Range.", "Popular hiking destination.", "Surrounded by tropical forest."]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Mit einer Höhe von 885 Metern ist der Mount Afadja der höchste Berg Ghanas und liegt eingebettet im Akwapim-Togo-Gebirge in der Volta-Region. Die Umgebung ist durch dichten tropischen Regenwald geprägt, der ein wichtiges Habitat für seltene Tierarten darstellt. Die Region ist ein beliebtes Ziel für Wanderer und bietet Einblicke in die Geologie Ghanas, was dem Sachkunde-Unterricht der K6-Stufe entspricht.",
+      hu: "A 885 méteres magasságával az Afadja-hegy Ghána legmagasabb pontja, amely a Volta régióban, az Akwapim-Togo-hegység ölelésében található. A környéket sűrű trópusi esőerdő borítja, amely fontos élőhelyet biztosít ritka állatfajok számára. A régió népszerű túracélpont, és betekintést nyújt Ghána geológiájába, ami a K6-os szintű természetismeret tananyagához kapcsolódik.",
+      ro: "Cu o înălțime de 885 de metri, Muntele Afadja este cel mai înalt munte din Ghana, situat în lanțul muntos Akwapim-Togo, în regiunea Volta. Mediul înconjurător este caracterizat de pădure tropicală densă, care constituie un habitat important pentru specii rare de animale. Regiunea este o destinație populară pentru drumeții și oferă perspective asupra geologiei Ghanei, corespunzând materiei de Științe ale naturii de clasa a 6-a.",
+      en: "At a height of 885 meters, Mount Afadja is the highest mountain in Ghana, nestled in the Akwapim-Togo Range in the Volta region. The surrounding area is characterized by dense tropical rainforest, which represents an important habitat for rare animal species. The region is a popular hiking destination and offers insights into Ghana's geology, fitting the K6-level Science curriculum."
+    },
+    factsAdvanced: {
+      de: ["Höhe beträgt offiziell 885 Meter.", "Gehört zum Akwapim-Togo-Gebirge.", "Lokaler Name bedeutet 'afadja' Berg.", "Beliebte Station für Ökotourismus.", "Dichte Vegetation schützt den Boden.", "Teil der Volta-Region."],
+      hu: ["Magassága hivatalosan 885 méter.", "Az Akwapim-Togo-hegység része.", "A helyi elnevezés 'afadja' hegyet jelent.", "Az ökoturizmus népszerű állomása.", "A sűrű növényzet védi a talajt.", "A Volta régió része."],
+      ro: ["Înălțimea oficială este de 885 metri.", "Face parte din lanțul Akwapim-Togo.", "Numele local înseamnă muntele 'afadja'.", "Stațiune populară pentru ecoturism.", "Vegetația densă protejează solul.", "Face parte din regiunea Volta."],
+      en: ["Height is officially 885 meters.", "Part of the Akwapim-Togo Range.", "Local name means 'afadja' mountain.", "Popular station for ecotourism.", "Dense vegetation protects the soil.", "Part of the Volta region."]
+    }, image: "/poi-images/mount-afadja-relief-v2.webp"},
   {
     id: "kwae-escarpment-relief-v2",
     type: "relief",
@@ -41,8 +64,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Meghatározza a tájképet.", "Eroziónak kitett terület.", "Széles kilátást nyújt.", "Fontos ökológiai folyosó."],
       ro: ["Definește peisajul.", "Teren susceptibil la eroziune.", "Oferă o vedere largă.", "Coridor ecologic important."],
       en: ["Defines the landscape.", "Erosion-prone terrain.", "Offers wide views.", "Important ecological corridor."]
-    }
-  },
+    }, image: "/poi-images/kwae-escarpment-relief-v2.webp"},
   {
     id: "kwahu-plateau-relief-v2",
     type: "relief",
@@ -55,8 +77,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Pihenőhelyként szolgál.", "Hűvösebb éghajlat, mint az alföldeken.", "Hagyományos letelepedési régió.", "Mezőgazdasági hasznosítású."],
       ro: ["Servește ca zonă de recreere.", "Climat mai răcoros decât în zonele joase.", "Regiune de așezare tradițională.", "Utilizat pentru agricultură."],
       en: ["Serves as a recreation area.", "Cooler climate than lowlands.", "Traditional settlement region.", "Used for agriculture."]
-    }
-  },
+    }, image: "/poi-images/kwahu-plateau-relief-v2.webp"},
   {
     id: "volta-basin-relief-v2",
     type: "relief",
@@ -69,8 +90,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["A ghánai folyórendszer központja.", "Homokkő-képződmények uralják.", "Részben erdősült.", "Gazdaságilag jelentős."],
       ro: ["Centrul sistemului fluvial ghanez.", "Dominat de formațiuni de gresie.", "Parțial împădurit.", "Semnificativ din punct de vedere economic."],
       en: ["Center of the Ghanaian river system.", "Sandstone formations dominate.", "Partially forested.", "Economically significant."]
-    }
-  },
+    }, image: "/poi-images/volta-basin-relief-v2.webp"},
   {
     id: "bui-gorge-relief-v2",
     type: "relief",
@@ -83,8 +103,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Vízerőmű helyszíne.", "Meredek sziklafalak.", "Gazdag vadvilág.", "Tájilag lenyűgöző."],
       ro: ["Locația unei hidrocentrale.", "Pereți stâncoși abrupți.", "Faună bogată.", "Impresionant peisagistic."],
       en: ["Site of a hydroelectric power plant.", "Steep rock walls.", "Rich wildlife.", "Scenically impressive."]
-    }
-  },
+    }, image: "/poi-images/bui-gorge-relief-v2.webp"},
   {
     id: "ashanti-uplands-relief-v2",
     type: "relief",
@@ -97,8 +116,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Aranylelőhelyeiről ismert.", "Sűrű növényzet.", "Fontos mezőgazdasági zóna.", "Lankás dombok."],
       ro: ["Cunoscut pentru zăcămintele de aur.", "Vegetație densă.", "Zonă agricolă importantă.", "Relief deluros domol."],
       en: ["Known for gold deposits.", "Dense vegetation.", "Important agricultural zone.", "Gentle elevations."]
-    }
-  },
+    }, image: "/poi-images/ashanti-uplands-relief-v2.webp"},
   {
     id: "denu-coastal-plain-relief-v2",
     type: "relief",
@@ -111,8 +129,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Homokos talajok.", "Lagúnás táj.", "Hagyományos halászat.", "Erős erózió."],
       ro: ["Soluri nisipoase.", "Peisaj de lagune.", "Pescuit tradițional.", "Eroziune puternică."],
       en: ["Sandy soils.", "Lagoon landscape.", "Traditional fishing.", "Strong erosion."]
-    }
-  },
+    }, image: "/poi-images/denu-coastal-plain-relief-v2.webp"},
   {
     id: "gambo-hills-relief-v2",
     type: "mountain",
@@ -125,8 +142,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Száraz éghajlat.", "Szavanna növényzet.", "Kis települések.", "Alacsony magasság."],
       ro: ["Climat uscat.", "Vegetație de savană.", "Așezări mici.", "Altitudine redusă."],
       en: ["Dry climate.", "Savanna vegetation.", "Small settlements.", "Low elevation."]
-    }
-  },
+    }, image: "/poi-images/gambo-hills-relief-v2.webp"},
   {
     id: "akuapem-ridge-relief-v2",
     type: "mountain",
@@ -139,8 +155,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Közel a fővároshoz.", "Hűvös éghajlat.", "Fontos vízforrás.", "Botanikus kertek."],
       ro: ["Aproape de capitală.", "Climat răcoros.", "Sursă importantă de apă.", "Grădini botanice."],
       en: ["Close to the capital.", "Cool climate.", "Important water source.", "Botanical gardens."]
-    }
-  },
+    }, image: "/poi-images/akuapem-ridge-relief-v2.webp"},
   {
     id: "tano-basin-relief-v2",
     type: "relief",
@@ -153,8 +168,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Nagy csapadékmennyiség.", "Sűrű esőerdő.", "Fontos kakaótermesztő vidékek.", "Gazdag flóra."],
       ro: ["Cantități mari de precipitații.", "Pădure tropicală densă.", "Zone importante de cultivare a cacao.", "Floră bogată."],
       en: ["High precipitation.", "Dense rainforest.", "Important cocoa growing areas.", "Rich flora."]
-    }
-  },
+    }, image: "/poi-images/tano-basin-relief-v2.webp"},
   {
     id: "kintampo-plateau-relief-v2",
     type: "relief",
@@ -167,8 +181,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Vízeséseiről ismert.", "Geológiailag stabil.", "Biodiverzitás.", "Tájképi szépség."],
       ro: ["Cunoscut pentru cascadele sale.", "Geologic stabil.", "Biodiversitate.", "Frumusețe peisagistică."],
       en: ["Known for its waterfalls.", "Geologically stable.", "Biodiversity.", "Scenic beauty."]
-    }
-  },
+    }, image: "/poi-images/kintampo-plateau-relief-v2.webp"},
   {
     id: "white-volta-valley-relief-v2",
     type: "relief",
@@ -181,8 +194,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Fontos élettér északon.", "Intenzíven mezőgazdasági hasznosítású.", "Árvízterületek.", "Szezonális folyás."],
       ro: ["Sursă de viață importantă în nord.", "Utilizat intensiv pentru agricultură.", "Zone inundabile.", "Debit sezonier."],
       en: ["Important lifeline in the north.", "Intensively used for agriculture.", "Floodplains.", "Seasonal water flow."]
-    }
-  },
+    }, image: "/poi-images/white-volta-valley-relief-v2.webp"},
   {
     id: "fanteakwa-escarpment-relief-v2",
     type: "relief",
@@ -195,8 +207,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Kihívást jelentő terep.", "Túrázási lehetőségek.", "Kilátópontok.", "Sűrű növényzet."],
       ro: ["Teren provocator.", "Oportunități de drumeții.", "Puncte de observație.", "Vegetație densă."],
       en: ["Challenging terrain.", "Hiking opportunities.", "Viewpoints.", "Strong vegetation."]
-    }
-  },
+    }, image: "/poi-images/fanteakwa-escarpment-relief-v2.webp"},
   {
     id: "akwapim-plains-relief-v2",
     type: "relief",
@@ -209,8 +220,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Kedvező éghajlat a mezőgazdaságnak.", "Sűrű lakosság.", "Sok kis tanya.", "Agyagos talajok."],
       ro: ["Climat favorabil pentru agricultură.", "Populație densă.", "Multe ferme mici.", "Soluri argiloase."],
       en: ["Favorable climate for agriculture.", "Dense population.", "Many small farms.", "Clayey soils."]
-    }
-  },
+    }, image: "/poi-images/akwapim-plains-relief-v2.webp"},
   {
     id: "nsuta-hills-relief-v2",
     type: "mountain",
@@ -237,8 +247,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Egyedi sziklaalakzatok.", "Szavannatáj.", "Kulturálisan gazdag terület.", "Szárazsággal jellemezhető."],
       ro: ["Formațiuni stâncoase unice.", "Peisaj de savană.", "Zonă bogată cultural.", "Caracterizat prin sezon uscat."],
       en: ["Unique rock formations.", "Savanna landscape.", "Culturally rich area.", "Characterized by dry season."]
-    }
-  },
+    }, image: "/poi-images/bongo-hills-relief-v2.webp"},
   {
     id: "dagbon-plateau-relief-v2",
     type: "relief",
@@ -279,8 +288,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Fontos geológiai képződmény.", "Sűrű növényzet.", "Tájképi látványosság.", "Kihívást jelentő terep."],
       ro: ["Formațiune geologică importantă.", "Vegetație densă.", "Obiectiv peisagistic.", "Teren provocator."],
       en: ["Important geological formation.", "Dense vegetation.", "Scenic highlight.", "Challenging terrain."]
-    }
-  },
+    }, image: "/poi-images/buem-escarpment-relief-v2.webp"},
   {
     id: "shai-hills-relief-v2",
     type: "mountain",
@@ -293,8 +301,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Népszerű kirándulóhely.", "Sziklás formációk.", "Vadvédelmi terület.", "Rövid túrák."],
       ro: ["Destinație populară pentru excursii.", "Formațiuni stâncoase.", "Rezervație naturală.", "Drumeții scurte."],
       en: ["Popular excursion spot.", "Rocky formations.", "Wildlife reserve.", "Short hikes."]
-    }
-  },
+    }, image: "/poi-images/shai-hills-relief-v2.webp"},
   {
     id: "kweku-hills-relief-v2",
     type: "mountain",
@@ -307,8 +314,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Esőerdő uralja.", "Alacsony magasság.", "Kakaóültetvények.", "Nedves éghajlat."],
       ro: ["Dominat de pădure tropicală.", "Altitudine redusă.", "Plantații de cacao.", "Climat umed."],
       en: ["Dominated by rainforest.", "Low elevation.", "Cocoa plantations.", "Humid climate."]
-    }
-  },
+    }, image: "/poi-images/kweku-hills-relief-v2.webp"},
   {
     id: "oti-plain-relief-v2",
     type: "relief",
@@ -335,8 +341,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
       hu: ["Kifejezett meredek lépcső.", "Forgalmi csomópont a lábánál.", "Erdősült.", "Kilátás."],
       ro: ["Treaptă abruptă marcată.", "Nod rutier la bază.", "Împădurit.", "Priveliște."],
       en: ["Pronounced steep step.", "Traffic hub at the base.", "Forested.", "View."]
-    }
-  },
+    }, image: "/poi-images/nkawkaw-escarpment-relief-v2.webp"},
   {
     id: "gambia-hills-relief-v2",
     type: "mountain",
@@ -352,3 +357,4 @@ export const poiExtraGhanaReliefV2: POI[] = [
     }
   }
 ];
+

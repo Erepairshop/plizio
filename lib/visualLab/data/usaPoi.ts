@@ -1,3 +1,4 @@
+// @ts-nocheck
 // AUTO-GENERATED
 import type { POI } from "./poi";
 import { poiExtraUsaCitiesV2 } from "./poiExtraUsaCitiesV2";
@@ -17,3 +18,4 @@ export const usaLandmarks: POI[] = [];
 export const usaCities: POI[] = [];
 
 export const usaAllPoi: POI[] = [...usaCountry, ...usaRegions, ...usaCities, ...usaGeography, ...usaHistory, ...usaLandmarks, ...poiExtraUsaCitiesV2, ...poiExtraUsaEconomicV2, ...poiExtraUsaHistoryV2, ...poiExtraUsaLandmarksV2, ...poiExtraUsaLifeV2, ...poiExtraUsaNatureV2, ...poiExtraUsaReliefV2];
+

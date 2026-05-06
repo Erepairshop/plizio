@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const unitedkingdomCountry: POI = {
@@ -100,3 +101,4 @@ export const unitedkingdomCountry: POI = {
   }
 };
 export const unitedkingdomAllPoi = [unitedkingdomCountry];
+

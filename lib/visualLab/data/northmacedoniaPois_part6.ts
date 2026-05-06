@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const mkPoisPart6: POI[] = [
@@ -13,6 +14,25 @@ export const mkPoisPart6: POI[] = [
       hu: "A Jakupica-masszívum legmagasabb csúcsa, látványos kilátásáról ismert.",
       ro: "Cel mai înalt vârf din masivul Jakupica, cunoscut pentru vederea sa spectaculoasă.",
       en: "The highest peak of the Jakupica massif, known for its spectacular views."
+    },
+    descriptionAdvanced: {
+      de: "Die Solunska Glava ist der markante Endpunkt des Jakupica-Gebirges. Von hier bietet sich ein Panorama, das bei gutem Wetter bis weit über die Grenzen des Landes reicht. Es ist ein Ziel für anspruchsvolle Bergsteiger, die die raue Schönheit des Gebirges schätzen. Erdkunde K7 — Alpinismus.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Massiv ist bekannt für seine kalkhaltigen Felswände.",
+        "Die Wetterbedingungen können extrem wechseln.",
+        "Der Gipfel bietet eine einzigartige Orientierung in der Region.",
+        "Die Flora in den Höhenlagen ist extrem spezialisiert.",
+        "Alpinisten schätzen die Herausforderungen der Routen.",
+        "Das Gebirge ist ein bedeutendes Ökosystem."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Höhe von 2.540 Metern.", "An klaren Tagen kann man angeblich bis Thessaloniki sehen.", "Ein beliebtes Ziel für erfahrene Alpinisten."],
@@ -32,6 +52,25 @@ export const mkPoisPart6: POI[] = [
       hu: "A Babuna folyó forrása a Jakupica-hegység lábánál.",
       ro: "Izvorul râului Babuna la poalele munților Jakupica.",
       en: "The source of the Babuna river at the foot of the Jakupica mountains."
+    },
+    descriptionAdvanced: {
+      de: "Die Babuna-Quelle entspringt in einer rauen Gebirgswelt. Sie ist der Ausgangspunkt eines Flusses, der das umliegende Tal mit lebenswichtigem Wasser speist. Die Gegend besticht durch ihre Unberührtheit und geologische Vielfalt. Erdkunde K6 — Hydrologie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Wasser ist von exzellenter Güte.",
+        "Die umgebende Felslandschaft ist beeindruckend.",
+        "Höhlenforscher finden hier spannende Objekte.",
+        "Die Quelle ist ein Symbol für das reine Bergwasser.",
+        "Die Ruhe in diesem Teil des Jakupica ist besonders tief.",
+        "Wanderer nutzen die Quelle oft zur Rast."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Bekannt für seine natürliche Schönheit.", "In der Nähe gibt es beeindruckende Höhlen.", "Das Wasser ist eiskalt und klar."],
@@ -53,6 +92,25 @@ export const mkPoisPart6: POI[] = [
       ro: "Cel mai important sit arheologic din Macedonia de Nord, un oraș antic la intersecția unor rute comerciale importante.",
       en: "The most significant archaeological site in North Macedonia, an ancient city at the crossroads of important trade routes."
     },
+    descriptionAdvanced: {
+      de: "Stobi war eine prosperierende antike Metropole. Die archäologischen Funde wie Mosaike und die Struktur der Stadt belegen den hohen kulturellen und wirtschaftlichen Standard. Es ist eines der wertvollsten historischen Denkmäler der gesamten Balkanregion. Geschichte K8 — Antike.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Mosaik-Ausstellungen sind international bekannt.",
+        "Stobi war ein bedeutendes christliches Zentrum.",
+        "Das Amphitheater zeugt von der Unterhaltungskultur.",
+        "Ausgrabungen finden bis heute statt.",
+        "Die Stadtlage am Zusammenfluss war strategisch optimal.",
+        "Besucher erhalten tiefgehende Einblicke in römische Lebensweise."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Hauptstadt der römischen Provinz Macedonia Salutaris.", "Bekannt für seine gut erhaltenen Mosaike und das Amphitheater.", "Liegt am Zusammenfluss von Erigon und Axius (Crna und Vardar)."],
       hu: ["Macedonia Salutaris római provincia fővárosa volt.", "Jól megőrzött mozaikjairól és amfiteátrumáról ismert.", "Az Erigon és Axius (Crna és Vardar) folyók találkozásánál fekszik."],
@@ -71,6 +129,25 @@ export const mkPoisPart6: POI[] = [
       hu: "Az ország őszibarack- és sárgabarack-termelésének szíve.",
       ro: "Inima producției de piersici și caise a țării.",
       en: "The heart of the country's peach and apricot production."
+    },
+    descriptionAdvanced: {
+      de: "Rosoman ist berühmt für seine weiten Obstplantagen. Besonders zur Blütezeit ist die Gegend ein visuelles Highlight. Der Obstanbau ist der zentrale wirtschaftliche Motor dieser Gemeinde und prägt maßgeblich ihre Identität. Erdkunde K6 — Agrarwirtschaft.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Qualität der Pfirsiche ist landesweit geschätzt.",
+        "Viele Familien leben hier vom Obstbau.",
+        "Die Erntezeit ist ein großes Gemeinschaftsereignis.",
+        "Die Plantagen erstrecken sich über weite Flächen.",
+        "Moderner Obstanbau wird hier groß geschrieben.",
+        "Die Region profitiert von ihrem besonderen Klima."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Bekannt für die hohe Qualität der Früchte.", "Prägt das Landschaftsbild durch weite Plantagen.", "Wichtiger Wirtschaftsfaktor für die Gemeinde."],
@@ -92,6 +169,25 @@ export const mkPoisPart6: POI[] = [
       ro: "O structură istorică în centrul orașului Negotino, construită la începutul secolului al XIX-lea.",
       en: "A historic structure in the center of Negotino, built in the early 19th century."
     },
+    descriptionAdvanced: {
+      de: "Der Uhrturm ist das Wahrzeichen von Negotino. Er spiegelt die osmanische Bautradition wider und ist ein Zeuge der städtischen Entwicklung. Heute ist er ein beliebtes Fotomotiv und Orientierungspunkt. Sachkunde K5 — Ortsgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Turm wurde sorgfältig restauriert.",
+        "Die Geschichte des Baus reicht weit zurück.",
+        "Er fügt sich gut in das moderne Zentrum ein.",
+        "Der Turm ist für jeden Besucher leicht zu finden.",
+        "Die Uhrwerk-Tradition hat hier ihren Platz.",
+        "Das Bauwerk wird von den Einwohnern stolz bewahrt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Das bekannteste Wahrzeichen der Stadt.", "Diente ursprünglich als Wachturm.", "Wurde nach einem Brand restauriert."],
       hu: ["A város legismertebb jelképe.", "Eredetileg őrtoronyként szolgált.", "Egy tűzvész után restaurálták."],
@@ -110,6 +206,25 @@ export const mkPoisPart6: POI[] = [
       hu: "Egy ókori macedón város romjai, II. Antigonosz Gonatasz alapította.",
       ro: "Ruinele unui oraș antic macedonean, fondat de Antigonos Gonatas.",
       en: "The ruins of an ancient Macedonian city founded by Antigonos Gonatas."
+    },
+    descriptionAdvanced: {
+      de: "Antigoneia ist ein wichtiger Ort für die Forschung zur makedonischen Antike. Die strategische Lage zwischen den Handelsrouten machte sie zu einem bedeutenden Zentrum. Die Ruinen laden heute zur historischen Spurensuche ein. Geschichte K8 — Antike.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Ausgrabungsarbeiten liefern ständig neue Erkenntnisse.",
+        "Die Stadt hatte eine bedeutende Verteidigungsfunktion.",
+        "Man erhält einen guten Einblick in den antiken Städtebau.",
+        "Der Ort ist für Geschichtsinteressierte sehr lohnenswert.",
+        "Antigoneia war ein Zentrum für Austausch und Handel.",
+        "Die Ruinen liegen in einer sehr schönen Naturlandschaft."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["War eine wichtige Festung an der Straße zum Süden.", "Archäologische Funde belegen eine reiche Geschichte.", "Liegt in der Nähe des modernen Negotino."],
@@ -131,6 +246,25 @@ export const mkPoisPart6: POI[] = [
       ro: "O mănăstire importantă lângă Kičevo, cunoscută pentru aura sa spirituală.",
       en: "A significant monastery near Kičevo, known for its spiritual atmosphere."
     },
+    descriptionAdvanced: {
+      de: "Das Kloster ist ein tief verwurzeltes spirituelles Zentrum. Trotz schwieriger Zeiten in seiner Geschichte hat es seine Bedeutung für Gläubige bewahrt. Die wundertätige Ikone ist das Herzstück des klösterlichen Lebens. Sachkunde K5 — Religion.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Klosterleben ist sehr aktiv.",
+        "Die Ikonografie im Inneren ist sehr wertvoll.",
+        "Die Umgebung bietet viel Platz zur Andacht.",
+        "Es ist ein wichtiges Ziel für Pilger.",
+        "Der Wiederaufbau war ein Kraftakt der Gemeinde.",
+        "Das Kloster ist von einer beeindruckenden Natur umgeben."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Wurde mehrfach zerstört und wieder aufgebaut.", "Beherbergt eine wundertätige Ikone.", "Ein Zentrum für religiöse Versammlungen."],
       hu: ["Többször elpusztult és újjáépült.", "Egy csodatevő ikont őriznek itt.", "Vallási gyülekezetek központja."],
@@ -149,6 +283,25 @@ export const mkPoisPart6: POI[] = [
       hu: "A Treszka-folyó festői szakasza, amely sziklás terepen folyik keresztül.",
       ro: "O secțiune pitorească a râului Treska, care traversează un teren stâncos.",
       en: "A scenic section of the Treska river flowing through rocky terrain."
+    },
+    descriptionAdvanced: {
+      de: "Diese Schlucht der Treska ist ein beeindruckendes Beispiel für die Kraft des Wassers. Das felsige Gelände bietet eine dramatische Kulisse für Naturfotografen. Die Schlucht ist ein Rückzugsort für Ruhesuchende. Erdkunde K6 — Geografie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Felsformationen sind sehr markant.",
+        "Der Wasserlauf ist ein wichtiges Element.",
+        "Wanderungen in der Schlucht sind sehr inspirierend.",
+        "Die Flora ist an die felsigen Bedingungen angepasst.",
+        "Der Ort bietet ideale Bedingungen zum Nachdenken.",
+        "Die Natur ist hier weitgehend unberührt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Beliebt für Naturfotografie.", "Bietet ruhige Plätze zum Nachdenken.", "Reich an lokaler Flora."],
@@ -170,6 +323,25 @@ export const mkPoisPart6: POI[] = [
       ro: "Unul dintre cele mai mari parcuri forestiere din Skopje, 'plămânul' părții de est a orașului.",
       en: "One of the largest forest parks in Skopje, the 'lungs' of the city's eastern part."
     },
+    descriptionAdvanced: {
+      de: "Der Waldpark Gazi Baba ist eine essenzielle Grünfläche für die Bewohner der Stadt. Er trägt maßgeblich zur Verbesserung der Luftqualität bei und bietet einen großen Raum für körperliche Betätigung und Erholung mitten im urbanen Umfeld. Erdkunde K6 — Umwelt.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Wege werden von vielen Läufern genutzt.",
+        "Der Park ist ein wichtiger Lebensraum in der Stadt.",
+        "Die Pflege der Bäume ist kontinuierlich.",
+        "Er bietet Raum für vielfältige Erholungsangebote.",
+        "Der Lärm der Stadt bleibt hier außen vor.",
+        "Der Park trägt zum ökologischen Gleichgewicht bei."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Ein beliebtes Ziel für Jogger und Radfahrer.", "Bietet einen Rückzugsort vom städtischen Lärm.", "Wichtig für die Luftqualität in Skopje."],
       hu: ["Kocogók és kerékpárosok kedvelt célpontja.", "Menedéket nyújt a városi zaj elől.", "Fontos Szkopje levegőminősége szempontjából."],
@@ -188,6 +360,25 @@ export const mkPoisPart6: POI[] = [
       hu: "Jelentős kiállítási és vásárközpont a fővárosban.",
       ro: "Un centru important pentru expoziții și târguri din capitală.",
       en: "A significant center for exhibitions and fairs in the capital."
+    },
+    descriptionAdvanced: {
+      de: "Die Messe Skopje ist ein wichtiger Motor für das wirtschaftliche und kulturelle Leben. Hier kommen nationale und internationale Aussteller zusammen, um Ideen und Produkte zu präsentieren. Es ist ein Ort der Begegnung für Geschäft und Innovation. Sachkunde K6 — Wirtschaft.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Messen decken ein breites Spektrum ab.",
+        "Die Hallen bieten Platz für Großveranstaltungen.",
+        "Es ist ein Ort, an dem sich die Stadt der Welt öffnet.",
+        "Der Standort ist sehr gut in das städtische Netz eingebunden.",
+        "Regelmäßige Veranstaltungen prägen den Kalender.",
+        "Sie trägt zum wirtschaftlichen Wachstum bei."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Ort zahlreicher internationaler Veranstaltungen.", "Wichtiger Treffpunkt für Geschäftsleute.", "Trägt zur wirtschaftlichen Entwicklung bei."],
@@ -209,6 +400,25 @@ export const mkPoisPart6: POI[] = [
       ro: "Un monument monumental care comemorează răscoala de Ilinden, simbolul orașului Kruševo.",
       en: "A monumental memorial commemorating the Ilinden Uprising, the landmark of Kruševo."
     },
+    descriptionAdvanced: {
+      de: "Das Makedonium ist eine architektonische Ikone. Es erinnert nicht nur an den Ilinden-Aufstand, sondern steht für den Traum von Freiheit. Die Formensprache ist weltweit als Meisterwerk bekannt. Geschichte K8 — Nationalgeschichte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Bauwerk wird oft als Symbol für den Freiheitsgeist bezeichnet.",
+        "Kruševo ist die höchstgelegene Stadt des Landes.",
+        "Die architektonische Gestaltung ist einzigartig in der Region.",
+        "Es wird von Touristen weltweit bestaunt.",
+        "Die Umgebung des Denkmals ist weitläufig gestaltet.",
+        "Es ist das absolute Wahrzeichen der Stadt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Seine futuristische Architektur ist weltweit bekannt.", "Dem mazedonischen Kampf für die Freiheit gewidmet.", "Bietet einen Blick auf die höchstgelegene Stadt des Balkans."],
       hu: ["Futurisztikus építészete világszerte ismert.", "A macedón szabadságharcnak szentelve.", "Kilátást nyújt a Balkán legmagasabban fekvő városára."],
@@ -227,6 +437,25 @@ export const mkPoisPart6: POI[] = [
       hu: "Macedónia leghíresebb énekese, Toše Proeski tiszteletére létrehozott múzeum a szülővárosában.",
       ro: "Un muzeu în onoarea celui mai faimos cântăreț macedonean, Toše Proeski, în orașul său natal.",
       en: "A museum dedicated to Macedonia's most famous singer, Toše Proeski, in his hometown."
+    },
+    descriptionAdvanced: {
+      de: "Toše Proeski war ein musikalisches Ausnahmetalent. Das Museum in seinem Geburtsort bewahrt das Andenken an ihn und sein Wirken. Er war und ist ein Idol für viele Menschen über die Grenzen Mazedoniens hinaus. Sachkunde K5 — Musik.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Sammlung umfasst sehr persönliche Objekte.",
+        "Fans kommen aus dem ganzen Balkan.",
+        "Das Museum ist architektonisch sehr ansprechend.",
+        "Das Andenken an Toše ist sehr lebendig.",
+        "Es ist ein Ort der Musik und der Erinnerung.",
+        "Das Gebäude ist von großer emotionaler Bedeutung."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Toše Proeski galt als 'Elvis des Balkans'.", "Die Gedenkstätte zieht Fans aus der ganzen Region an.", "Beherbergt persönliche Gegenstände und Auszeichnungen."],
@@ -248,6 +477,25 @@ export const mkPoisPart6: POI[] = [
       ro: "Una dintre cele mai mari și mai importante mănăstiri medievale din regiune.",
       en: "One of the largest and historically most significant medieval monasteries in the region."
     },
+    descriptionAdvanced: {
+      de: "Das Kloster Slepče ist eine historisch bedeutende Stätte der mazedonischen Kultur. Die literarische Schule, die hier im Mittelalter wirkte, ist von unschätzbarem Wert für die Sprache und Literatur. Das Kloster ist ein Zeuge der geistigen Kraft der Region. Geschichte K8 — Literatur.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die mittelalterliche Schule hinterließ viele Dokumente.",
+        "Die Anlage ist sehr geschichtsträchtig.",
+        "Die spirituelle Atmosphäre bleibt bewahrt.",
+        "Es ist ein wichtiges Ziel für Historiker.",
+        "Besucher genießen die Stille der Klosteranlage.",
+        "Das Erbe wird sorgfältig gepflegt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bekannt für seine literarische Schule im Mittelalter.", "Wichtiges Zentrum für die Bewahrung der mazedonischen Kultur.", "Bietet Ruhe und geistliche Erneuerung."],
       hu: ["Középkori irodalmi iskolájáról ismert.", "A macedón kultúra megőrzésének fontos központja.", "Nyugalmat és lelki felfrissülést kínál."],
@@ -266,6 +514,25 @@ export const mkPoisPart6: POI[] = [
       hu: "Régi kolostor Zseleznici festői környezetében.",
       ro: "O mănăstire veche în zona pitorească Železnec.",
       en: "An old monastery located in the scenic area of Železnec."
+    },
+    descriptionAdvanced: {
+      de: "Das Kloster Železnec liegt eingebettet in eine beeindruckende Naturlandschaft. Es bietet eine tiefe spirituelle Stille und zeigt die religiöse Geschichte des Gebiets Demir Hisar. Die Umgebung ist ein Ort für Naturgenuss. Erdkunde K6 — Geografie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Stille ist ein Markenzeichen des Ortes.",
+        "Die Natur rundherum ist besonders rein.",
+        "Das Kloster bewahrt wichtige Traditionen.",
+        "Wanderer schätzen die idyllische Lage.",
+        "Es ist ein Ort, an dem Geschichte lebendig bleibt.",
+        "Das Klostergelände ist sehr gepflegt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Liegt in der Nähe der Quelle des Flusses Crna.", "Umgeben von unberührter Natur.", "Ein Ort mit reicher Geschichte."],
@@ -287,6 +554,25 @@ export const mkPoisPart6: POI[] = [
       ro: "O sală de sport polivalentă modernă, casa clubului de handbal Vardar.",
       en: "A modern multi-purpose sports hall, home to the Vardar handball club."
     },
+    descriptionAdvanced: {
+      de: "Die Arena ist ein Zentrum für den Spitzensport. Der Handballclub Vardar zieht tausende Fans an, die hier eine elektrisierende Stimmung schaffen. Sie ist ein wichtiger Ort für nationale und internationale sportliche Ereignisse. Sachkunde K5 — Sport.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Atmosphäre bei Spielen ist einmalig.",
+        "Die technische Ausstattung ist auf neuestem Stand.",
+        "Die Arena wird auch für Konzerte genutzt.",
+        "Sie stärkt die sportliche Identität von Skopje.",
+        "Fans kommen aus dem ganzen Land.",
+        "Die Infrastruktur ist sehr gut geplant."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Austragungsort vieler internationaler Handballspiele.", "Zentrum des Sports in der Gemeinde Aerodrom.", "Bietet exzellente Einrichtungen für Athleten."],
       hu: ["Számos nemzetközi kézilabda-mérkőzés helyszíne.", "Aerodrom község sportéletének központja.", "Kiváló létesítményeket kínál a sportolók számára."],
@@ -305,6 +591,25 @@ export const mkPoisPart6: POI[] = [
       hu: "Jellegzetes park Aerodromban, ahol egy régi repülőgép van kiállítva.",
       ro: "Un parc distinctiv în Aerodrom, cu un avion vechi expus.",
       en: "A prominent park in Aerodrom featuring an old airplane on display."
+    },
+    descriptionAdvanced: {
+      de: "Dieser Park ist ein Symbol für die Geschichte der Gemeinde Aerodrom. Das Flugzeug erinnert an die Namensgebung und macht den Park zu einem einzigartigen Treffpunkt für Kinder und Erwachsene. Erdkunde K5 — Orte.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Das Flugzeug ist ein beliebtes Fotomotiv.",
+        "Die Parkanlage ist ideal für Familien.",
+        "Die Geschichte der Luftfahrt wird hier symbolisch präsent.",
+        "Es ist ein Ort der Begegnung im Viertel.",
+        "Das Flugzeug ist eine technische Rarität vor Ort.",
+        "Der Park ist sehr gepflegt."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Ein beliebter Treffpunkt für Anwohner.", "Symbolisiert den Namen der Gemeinde (Aerodrom = Flugplatz).", "Bietet grüne Flächen zur Entspannung."],
@@ -326,6 +631,25 @@ export const mkPoisPart6: POI[] = [
       ro: "Peisajul colinar deasupra centrului administrativ al municipalității.",
       en: "The hilly landscape above the administrative center of the municipality."
     },
+    descriptionAdvanced: {
+      de: "Die hügelige Landschaft prägt das Leben der Menschen in Studeničani. Sie bietet Raum für die Landwirtschaft und kleine Wanderungen. Die Natur ist hier eine wichtige Quelle der Identität. Erdkunde K6 — Geografie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Wanderpfade sind oft genutzt.",
+        "Man hat einen wunderbaren Blick auf den Ort.",
+        "Die Natur ist hier weitgehend in ihrem ursprünglichen Zustand.",
+        "Die Hügel sind wichtig für die lokale Wasserversorgung.",
+        "Es ist ein Ort für ruhige Momente.",
+        "Die Landschaft spiegelt die Ruhe der Region wider."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bietet einen Blick auf das Flusstal.", "Ideal für kurze Spaziergänge in der Natur.", "Prägt den Charakter des Ortes."],
       hu: ["Kilátást nyújt a folyóvölgyre.", "Ideális rövid természetjáró sétákhoz.", "Meghatározza a település karakterét."],
@@ -344,6 +668,25 @@ export const mkPoisPart6: POI[] = [
       hu: "Festői folyóvölgy, amely érintetlen természetéről ismert.",
       ro: "O vale pitorească a râului, cunoscută pentru natura sa virgină.",
       en: "A scenic river valley known for its untouched nature."
+    },
+    descriptionAdvanced: {
+      de: "Das Kadina-Tal ist ein Ort der absoluten Ruhe. Die unberührte Natur macht es zu einem besonderen Ziel für Naturbeobachtungen. Hier kann man die Kraft des Flusses in seiner ursprünglichen Form erleben. Erdkunde K7 — Ökologie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Artenvielfalt ist erstaunlich.",
+        "Das Tal bietet tolle Rückzugsorte.",
+        "Die Luft ist besonders frisch.",
+        "Die Wasserqualität des Flusses ist beispielhaft.",
+        "Naturfotografen lieben das Licht im Tal.",
+        "Das Tal ist ein wertvolles Naturschutzgebiet."
+      ],
+      hu: [],
+      ro: [],
+      en: []
     },
     facts: {
       de: ["Beliebt bei Anglern und Campern.", "Bietet klares Wasser und frische Luft.", "Ein Ort der Ruhe abseits der Stadt."],
@@ -365,6 +708,25 @@ export const mkPoisPart6: POI[] = [
       ro: "Izvorul natural care a dat numele municipalității (Kisela Voda = apă acidulată).",
       en: "The natural spring that gave the municipality its name (Kisela Voda = sour water)."
     },
+    descriptionAdvanced: {
+      de: "Diese Mineralquelle ist der Namensgeber des gesamten Bezirks. Das Wasser mit seinem besonderen Gehalt wurde schon früh für heilende Zwecke geschätzt. Die Quelle ist ein Symbol für die Identität des gesamten Stadtteils. Sachkunde K5 — Geologie.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Der Geschmack des Wassers ist sehr spezifisch.",
+        "Der Ursprung der Quelle ist geologisch spannend.",
+        "Die Quelle ist sehr gut in den Bezirk integriert.",
+        "Viele Bewohner besuchen sie regelmäßig.",
+        "Die heilende Wirkung wird oft zitiert.",
+        "Die Quelle ist ein Stück Ortsgeschichte."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bekannt für den hohen Mineralgehalt des Wassers.", "Wird seit langem von der lokalen Bevölkerung genutzt.", "Ein Wahrzeichen des Viertels."],
       hu: ["A víz magas ásványianyag-tartalmáról ismert.", "A helyi lakosság régóta használja.", "A negyed egyik jelképe."],
@@ -384,6 +746,25 @@ export const mkPoisPart6: POI[] = [
       ro: "O mică mănăstire la marginea cartierului Kisela Voda, un loc de rugăciune.",
       en: "A small monastery on the outskirts of Kisela Voda, a place for prayer."
     },
+    descriptionAdvanced: {
+      de: "Das Kloster ist ein Rückzugsort am Rande der Stadt. Es dient den Gläubigen als Ort der Einkehr und ist ein wichtiges Stück kirchlicher Kultur in der Gemeinde. Sachkunde K5 — Religion.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: [
+        "Die Stille dort ist sehr wohltuend.",
+        "Es ist ein Ort der spirituellen Gemeinschaft.",
+        "Das Kloster wird sehr liebevoll gepflegt.",
+        "Besucher schätzen die Einfachheit.",
+        "Es ist ein wichtiger spiritueller Anker für das Viertel.",
+        "Die Gottesdienste sind sehr traditionell."
+      ],
+      hu: [],
+      ro: [],
+      en: []
+    },
     facts: {
       de: ["Bietet einen Ort der Besinnung für die Gemeinde.", "Bekannt für seine ruhige Atmosphäre.", "Ort traditioneller religiöser Feiern."],
       hu: ["Az elmélkedés helyszíne a közösség számára.", "Nyugodt légköréről ismert.", "Hagyományos vallási ünnepek helyszíne."],
@@ -392,3 +773,4 @@ export const mkPoisPart6: POI[] = [
     }
   }
 ];
+

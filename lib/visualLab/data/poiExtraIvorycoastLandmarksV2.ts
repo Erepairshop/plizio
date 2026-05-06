@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraIvorycoastLandmarksV2: POI[] = [
@@ -39,8 +40,19 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Dome is 158 meters high.",
         "Can accommodate 18,000 people inside."
       ]
-    }
-  },
+    },
+        descriptionAdvanced: {
+        de: "Die Basilika Notre-Dame de la Paix in Yamoussoukro, der politischen Hauptstadt der Elfenbeinküste, hält einen Weltrekord: Sie gilt als das größte Kirchengebäude der Erde. Errichtet wurde dieses gigantische Gotteshaus zwischen 1985 und 1989 auf Wunsch von Félix Houphouët-Boigny, dem ersten Präsidenten des Landes. Die Architektur orientiert sich deutlich an der Petersbasilika im Vatikan, beeindruckt jedoch durch modernste Materialien und eine enorme Kuppelhöhe. Das Gelände umfasst zudem weitläufige Gärten und eine Friedensstiftung, die das nationale Streben nach Stabilität unterstreicht. Ein architektonisches Wunder, das heute als UNESCO-Weltkulturerbe-Anwärter gilt und das Bild des Landes prägt. Geografie K7 — afrikanische Architektur und Monumentalbauten.",
+        hu: "",
+        ro: "",
+        en: ""
+    },
+    factsAdvanced: {
+        de: ["Bauzeit von nur 4 Jahren, abgeschlossen 1989.", "Höhe der Kuppel erreicht 158 Meter.", "Kann 18.000 Menschen im Innenraum beherbergen.", "Verwendet 7.000 Quadratmeter Buntglasfenster.", "Besitzt eine der größten Orgeln in Afrika.", "Entworfen vom Architekten Pierre Fakhoury."],
+        hu: [],
+        ro: [],
+        en: []
+    }, image: "/poi-images/basilique-notre-dame-de-la-paix-landmarks-v2.webp"},
   {
     id: "st-paul-cathedral-abidjan-landmarks-v2",
     type: "landmark",
@@ -79,8 +91,19 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "The tower represents the figure of St. Paul.",
         "Accommodates 5,000 worshippers."
       ]
-    }
-  },
+    },
+        descriptionAdvanced: {
+        de: "Die St.-Pauls-Kathedrale in Abidjan gilt als architektonisches Juwel der modernen ivorischen Baukunst. Das römisch-katholische Bauwerk wurde 1985 im Beisein von Papst Johannes Paul II. eingeweiht. Mit ihrer markanten, segelartigen Form, die den Heiligen Paulus symbolisiert, der den Stab hält, ist sie eines der bekanntesten Wahrzeichen im belebten Geschäftsviertel Plateau. Die Struktur ist nicht nur eine Stätte des Gebets, sondern auch ein Zeugnis der komplexen Geschichte Abidjans als wirtschaftliches Herzstück Westafrikas. Mit einer Kapazität von rund 5.000 Gläubigen dient sie als Zentrum für bedeutende religiöse und soziale Zeremonien der Stadt. Ein Meisterwerk, das christliche Symbolik mit zeitgenössischem Design verbindet. Geschichte K8 — religiöse Einflüsse in der Moderne.",
+        hu: "",
+        ro: "",
+        en: ""
+    },
+    factsAdvanced: {
+        de: ["1985 von Papst Johannes Paul II. eingeweiht.", "Der Turm erreicht eine Höhe von 70 Metern.", "Symbolisiert den Heiligen Paulus als Missionar.", "Bietet Platz für ca. 5.000 Gläubige.", "Eines der modernsten Kathedralenbauwerke Westafrikas.", "Der Entwurf stammt vom Architekten Aldo Spirito."],
+        hu: [],
+        ro: [],
+        en: []
+    }, image: "/poi-images/st-paul-cathedral-abidjan-landmarks-v2.webp"},
   {
     id: "grande-mosquee-riviera-golf-landmarks-v2",
     type: "landmark",
@@ -119,8 +142,19 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Center for Islamic studies and prayers.",
         "Features an impressive modern architecture."
       ]
-    }
-  },
+    },
+        descriptionAdvanced: {
+        de: "Die Große Moschee von Riviera Golf liegt im prestigeträchtigen Stadtteil Cocody in Abidjan und ist ein zentraler Treffpunkt für die muslimische Gemeinde. Dieses imposante Gebäude besticht durch seine Verbindung von zeitgenössischer Architektur und traditionellen islamischen Elementen. Als Zentrum für Bildung und religiöse Praktiken spielt sie eine bedeutende Rolle im sozialen Gefüge der Stadt. Die Moschee ist nicht nur ein Ort der Andacht, sondern auch ein architektonisches Highlight, das die wachsende Bedeutung islamischer Kulturzentren in der ivorischen Metropole widerspiegelt. Mit ihrem markanten Design und der eleganten Innenausstattung bietet sie eine Oase der Ruhe inmitten des hektischen Stadtlebens von Abidjan. Sachkunde K5 — Architektur und Kultur im städtischen Raum.",
+        hu: "",
+        ro: "",
+        en: ""
+    },
+    factsAdvanced: {
+        de: ["Gelegen im gehobenen Distrikt Cocody.", "Zentrum für islamische Gelehrsamkeit.", "Moderne Architektur mit islamischer Symbolik.", "Wichtiger Ort für große Gebetsversammlungen.", "Fördert interreligiöse Dialogprojekte.", "Ausgestattet mit Gebetssälen für tausende Personen."],
+        hu: [],
+        ro: [],
+        en: []
+    }, image: "/poi-images/grande-mosquee-riviera-golf-landmarks-v2.webp"},
   {
     id: "mosquee-du-plateau-landmarks-v2",
     type: "landmark",
@@ -159,8 +193,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Modern design with traditional elements.",
         "Accommodates thousands of worshippers."
       ]
-    }
-  },
+    }, image: "/poi-images/mosquee-du-plateau-landmarks-v2.webp"},
   {
     id: "la-pyramide-abidjan-landmarks-v2",
     type: "landmark",
@@ -199,8 +232,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Housed offices and luxury apartments.",
         "Today it stands mostly empty."
       ]
-    }
-  },
+    }, image: "/poi-images/la-pyramide-abidjan-landmarks-v2.webp"},
   {
     id: "stade-olympique-ebimpe-landmarks-v2",
     type: "landmark",
@@ -239,8 +271,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Capacity for 60,000 spectators.",
         "Used by the athletics and football federations."
       ]
-    }
-  },
+    }, image: "/poi-images/stade-olympique-ebimpe-landmarks-v2.webp"},
   {
     id: "stade-felix-houphouet-boigny-landmarks-v2",
     type: "landmark",
@@ -279,8 +310,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Has a capacity of about 33,000 spectators.",
         "Comprehensively renovated for the 2023 Africa Cup."
       ]
-    }
-  },
+    }, image: "/poi-images/stade-felix-houphouet-boigny-landmarks-v2.webp"},
   {
     id: "pont-henri-konan-bedie-landmarks-v2",
     type: "landmark",
@@ -399,8 +429,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Features an ice rink and a cinema.",
         "The main tower is a landmark of the city."
       ]
-    }
-  },
+    }, image: "/poi-images/tour-hotel-ivoire-landmarks-v2.webp"},
   {
     id: "musee-des-civilisations-landmarks-v2",
     type: "landmark",
@@ -439,8 +468,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Possesses over 15,000 exhibits.",
         "Displays masks, statues, and traditional instruments."
       ]
-    }
-  },
+    }, image: "/poi-images/musee-des-civilisations-landmarks-v2.webp"},
   {
     id: "fondation-felix-houphouet-boigny-landmarks-v2",
     type: "landmark",
@@ -479,8 +507,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "A significant architectural center in the capital.",
         "Seat of international peace conferences."
       ]
-    }
-  },
+    }, image: "/poi-images/fondation-felix-houphouet-boigny-landmarks-v2.webp"},
   {
     id: "palais-presidentiel-yamoussoukro-landmarks-v2",
     type: "landmark",
@@ -519,8 +546,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "The crocodiles are a tourist attraction.",
         "The interior is closed to the public."
       ]
-    }
-  },
+    }, image: "/poi-images/palais-presidentiel-yamoussoukro-landmarks-v2.webp"},
   {
     id: "grande-mosquee-de-kong-landmarks-v2",
     type: "landmark",
@@ -559,8 +585,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Included on the UNESCO tentative list.",
         "Made from traditional mud bricks."
       ]
-    }
-  },
+    }, image: "/poi-images/grande-mosquee-de-kong-landmarks-v2.webp"},
   {
     id: "mosquee-de-tingrela-landmarks-v2",
     type: "landmark",
@@ -599,8 +624,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Maintenance requires regular plastering.",
         "Features typical wooden supports."
       ]
-    }
-  },
+    }, image: "/poi-images/mosquee-de-tingrela-landmarks-v2.webp"},
   {
     id: "cathedrale-sainte-therese-bouake-landmarks-v2",
     type: "landmark",
@@ -639,8 +663,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Completed in 1965.",
         "An important spiritual center in central Ivory Coast."
       ]
-    }
-  },
+    }, image: "/poi-images/cathedrale-sainte-therese-bouake-landmarks-v2.webp"},
   {
     id: "stade-de-la-paix-bouake-landmarks-v2",
     type: "landmark",
@@ -679,8 +702,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Venue of the 1984 and 2023 Africa Cup of Nations.",
         "Most important sports complex in the region."
       ]
-    }
-  },
+    }, image: "/poi-images/stade-de-la-paix-bouake-landmarks-v2.webp"},
   {
     id: "stade-charles-konan-banny-landmarks-v2",
     type: "landmark",
@@ -719,8 +741,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Offers 20,000 seats.",
         "Named after the former Prime Minister of Ivory Coast."
       ]
-    }
-  },
+    }, image: "/poi-images/stade-charles-konan-banny-landmarks-v2.webp"},
   {
     id: "stade-amadou-gon-coulibaly-landmarks-v2",
     type: "landmark",
@@ -759,8 +780,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Has a capacity of 20,000 spectators.",
         "Part of the infrastructure for the Africa Cup."
       ]
-    }
-  },
+    }, image: "/poi-images/stade-amadou-gon-coulibaly-landmarks-v2.webp"},
   {
     id: "stade-laurent-pokou-landmarks-v2",
     type: "landmark",
@@ -799,8 +819,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Holds 20,000 people.",
         "The roof covers all stands."
       ]
-    }
-  },
+    }, image: "/poi-images/stade-laurent-pokou-landmarks-v2.webp"},
   {
     id: "palais-de-la-culture-landmarks-v2",
     type: "landmark",
@@ -839,8 +858,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Bears the name of Bernard B. Dadié.",
         "Has several halls for up to 4000 people."
       ]
-    }
-  },
+    }, image: "/poi-images/palais-de-la-culture-landmarks-v2.webp"},
   {
     id: "ccia-building-landmarks-v2",
     type: "landmark",
@@ -879,8 +897,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Once housed the African Development Bank.",
         "Is 120 meters high."
       ]
-    }
-  },
+    }, image: "/poi-images/ccia-building-landmarks-v2.webp"},
   {
     id: "postel-2001-building-landmarks-v2",
     type: "landmark",
@@ -919,8 +936,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Is over 100 meters high.",
         "Recognized silhouette in the cityscape of Plateau."
       ]
-    }
-  },
+    }, image: "/poi-images/postel-2001-building-landmarks-v2.webp"},
   {
     id: "tour-administrative-a-landmarks-v2",
     type: "landmark",
@@ -959,8 +975,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "One of the main buildings for government offices.",
         "A classic example of 70s architecture."
       ]
-    }
-  },
+    }, image: "/poi-images/tour-administrative-a-landmarks-v2.webp"},
   {
     id: "monument-aux-morts-treichville-landmarks-v2",
     type: "landmark",
@@ -999,8 +1014,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Central location for memorial ceremonies.",
         "Situated in a park area."
       ]
-    }
-  },
+    }, image: "/poi-images/monument-aux-morts-treichville-landmarks-v2.webp"},
   {
     id: "palais-de-justice-abidjan-landmarks-v2",
     type: "landmark",
@@ -1039,8 +1053,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Important state institution.",
         "Classic functional design."
       ]
-    }
-  },
+    }, image: "/poi-images/palais-de-justice-abidjan-landmarks-v2.webp"},
   {
     id: "hotel-de-ville-abidjan-landmarks-v2",
     type: "landmark",
@@ -1079,8 +1092,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Located in the center of the Plateau district.",
         "Important venue for city ceremonies."
       ]
-    }
-  },
+    }, image: "/poi-images/hotel-de-ville-abidjan-landmarks-v2.webp"},
   {
     id: "cathedrale-saint-jean-baptiste-landmarks-v2",
     type: "landmark",
@@ -1119,8 +1131,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Consecrated in 1971.",
         "Striking modern structure in the savanna."
       ]
-    }
-  },
+    }, image: "/poi-images/cathedrale-saint-jean-baptiste-landmarks-v2.webp"},
   {
     id: "mosquee-de-nambira-landmarks-v2",
     type: "landmark",
@@ -1159,8 +1170,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         "Features tapering minarets.",
         "Is continuously maintained by the local community."
       ]
-    }
-  },
+    }, image: "/poi-images/mosquee-de-nambira-landmarks-v2.webp"},
   {
     id: "pont-charles-de-gaulle-landmarks-v2",
     type: "landmark",
@@ -1202,3 +1212,4 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     }
   }
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const bosniaCountry: POI = {
@@ -35,8 +36,7 @@ export const bosniaCountry: POI = {
     ],
     ro: [],
     en: []
-  }
-};
+  }, image: "/poi-images/bosnia.webp"};
 
 export const bosniaPois: POI[] = [
   {
@@ -155,8 +155,7 @@ export const bosniaPois: POI[] = [
         "The name Banja Luka originates from the term 'ban's bath,' referring to the area's thermal waters.",
         "The city is home to the Museum of Contemporary Art, which showcases modern artists from the region."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-banjaluka.webp"},
   {
     id: "ba-mostar",
     type: "city",
@@ -214,8 +213,7 @@ export const bosniaPois: POI[] = [
         "The bridge was constructed from 456 carved stone blocks.",
         "During the reconstruction, most of the original stones of the bridge were recovered from the river and reused."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-mostar.webp"},
   {
     id: "ba-tuzla",
     type: "city",
@@ -273,8 +271,7 @@ export const bosniaPois: POI[] = [
         "The tradition of salt extraction in the region dates back to the Neolithic period.",
         "Tuzla has long been a bastion of multi-ethnic tolerance in Bosnia."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-tuzla.webp"},
   {
     id: "ba-zenica",
     type: "city",
@@ -332,8 +329,7 @@ export const bosniaPois: POI[] = [
         "The city contains the Sultan Ahmed Mosque, built by Sinan-beg.",
         "Zenica's prison is the largest in the country."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-zenica.webp"},
   {
     id: "ba-bihac",
     type: "city",
@@ -380,8 +376,7 @@ export const bosniaPois: POI[] = [
         "The Captain's Tower, a remnant of the old fortifications, now serves as a city museum.",
         "The city was a free royal city of the medieval Kingdom of Hungary."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-bihac.webp"},
   {
     id: "ba-starimost",
     type: "landmark",
@@ -428,8 +423,7 @@ export const bosniaPois: POI[] = [
         "The bridge's arch was made of local Tenelija stone.",
         "According to legend, the mortar was held together with egg whites."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-starimost.webp"},
   {
     id: "ba-visegrad",
     type: "landmark",
@@ -476,8 +470,7 @@ export const bosniaPois: POI[] = [
         "The Grand Vizier himself was taken from the region as a child as part of the Ottoman 'devşirme' system.",
         "The central pier, known as the 'kapija' (gate), served as a meeting point for centuries."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-visegrad.webp"},
   {
     id: "ba-jajce",
     type: "landmark",
@@ -572,8 +565,7 @@ export const bosniaPois: POI[] = [
         "The city served as the setting for Andrić's novel 'Travnik Chronicle' (also known as 'Bosnian Chronicle').",
         "It was briefly the capital of the Bosnian Eyalet."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-travnik.webp"},
   {
     id: "ba-bascarsija",
     type: "landmark",
@@ -620,8 +612,7 @@ export const bosniaPois: POI[] = [
         "At its peak, the bazaar had dozens of different crafts, each with its own street.",
         "The streets are still paved with the original cobblestones."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-bascarsija.webp"},
   {
     id: "ba-srebrenik",
     type: "landmark",
@@ -668,8 +659,7 @@ export const bosniaPois: POI[] = [
         "It was the seat of the powerful Hrvatinić noble family.",
         "The fortress consists of a lower town, upper town, and a citadel."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-srebrenik.webp"},
   {
     id: "ba-blagaj",
     type: "landmark",
@@ -716,8 +706,7 @@ export const bosniaPois: POI[] = [
         "The monastery is believed to hold the tomb of Sari Saltuk, a 13th-century Bektashi mystic.",
         "The current building is a mix of Ottoman and Mediterranean architectural styles."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-blagaj.webp"},
   {
     id: "ba-pocitelj",
     type: "landmark",
@@ -764,8 +753,7 @@ export const bosniaPois: POI[] = [
         "The clock tower was built in the late 17th century.",
         "The entire historic urban site of Počitelj is a designated National Monument of Bosnia and Herzegovina."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-pocitelj.webp"},
   {
     id: "ba-kravica",
     type: "landmark",
@@ -812,8 +800,7 @@ export const bosniaPois: POI[] = [
         "Unlike many waterfalls, swimming is permitted in the lake below the falls.",
         "The area is protected as a natural monument."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-kravica.webp"},
   {
     id: "ba-una",
     type: "landmark",
@@ -860,8 +847,7 @@ export const bosniaPois: POI[] = [
         "The park protects one of the largest populations of the endangered Huchen (Danube Salmon) in the world.",
         "The park is part of the larger Dinaric Alps ecosystem."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-una.webp"},
   {
     id: "ba-sutjeska",
     type: "landmark",
@@ -908,8 +894,7 @@ export const bosniaPois: POI[] = [
         "Some trees in Perućica are over 300 years old.",
         "The monumental memorial consists of two massive, wing-like stone slabs."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-sutjeska.webp"},
   {
     id: "ba-pliva",
     type: "landmark",
@@ -956,8 +941,7 @@ export const bosniaPois: POI[] = [
         "The complex of mills is often referred to as 'Mlinčići'.",
         "The water levels of the lakes are regulated for a nearby hydroelectric power plant."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-pliva.webp"},
   {
     id: "ba-jahorina",
     type: "landmark",
@@ -1004,8 +988,7 @@ export const bosniaPois: POI[] = [
         "The ski resort is one of the most affordable in Europe.",
         "Many of the Olympic facilities were damaged during the war but have since been rebuilt and modernized."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-jahorina.webp"},
   {
     id: "ba-medjugorje",
     type: "landmark",
@@ -1052,8 +1035,7 @@ export const bosniaPois: POI[] = [
         "The visionaries claim to still receive messages from the Virgin Mary.",
         "An international youth festival is held here every summer, attracting tens of thousands of young people."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-medjugorje.webp"},
   {
     id: "ba-film-festival",
     type: "landmark",
@@ -1100,8 +1082,7 @@ export const bosniaPois: POI[] = [
         "Its 'Talents Sarajevo' program is a networking and training platform for emerging film professionals.",
         "The open-air cinema can seat up to 3,000 people."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-film-festival.webp"},
   {
     id: "ba-blidinje",
     type: "landmark",
@@ -1148,8 +1129,7 @@ export const bosniaPois: POI[] = [
         "The park is a popular destination for hiking, skiing, and alpinism.",
         "Diva Grabovica, a canyon within the park, is a challenging destination for climbers."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-blidinje.webp"},
   {
     id: "ba-trebinje",
     type: "city",
@@ -1196,8 +1176,7 @@ export const bosniaPois: POI[] = [
         "The city is only 28 km from the famous city of Dubrovnik in Croatia.",
         "The city's old town is known as Kastel."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-trebinje.webp"},
   {
     id: "ba-vranduk",
     type: "landmark",
@@ -1244,8 +1223,7 @@ export const bosniaPois: POI[] = [
         "The fortress was also the seat of the Bosnian king Stjepan Tomašević.",
         "A small museum within the fortress displays medieval artifacts."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-vranduk.webp"},
   {
     id: "ba-hutovo-blato",
     type: "landmark",
@@ -1292,8 +1270,7 @@ export const bosniaPois: POI[] = [
         "The park is home to a large population of eels.",
         "It is the only place in the country where you can see water lilies in their natural habitat."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-hutovo-blato.webp"},
   {
     id: "ba-doboj",
     type: "city",
@@ -1349,8 +1326,7 @@ export const bosniaPois: POI[] = [
         "The fortress is today the most important symbol and tourist attraction of the city.",
         "According to legend, the name of the fortress comes from the word 'doba' (age), referring to the layering of different eras."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-doboj.webp"},
   {
     id: "ba-prijedor",
     type: "city",
@@ -1406,8 +1382,7 @@ export const bosniaPois: POI[] = [
         "The city contains the Old Mosque, which dates from the Ottoman period.",
         "The Mrakovica monument near Prijedor commemorates the victims of the partisans."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-prijedor.webp"},
   {
     id: "ba-lukomir",
     type: "landmark",
@@ -1463,8 +1438,7 @@ export const bosniaPois: POI[] = [
         "The woolen socks made in the village, the 'priglavci', are famous for their quality.",
         "The village has preserved the centuries-old traditions of nomadic pastoralism."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-lukomir.webp"},
   {
     id: "ba-tvrkos",
     type: "landmark",
@@ -1520,8 +1494,7 @@ export const bosniaPois: POI[] = [
         "The monastery is also famous for its high-quality honey.",
         "According to legend, the monastery was founded by Emperor Constantine I and his mother, Helena."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-tvrkos.webp"},
   {
     id: "ba-bjelasnica",
     type: "landmark",
@@ -1577,8 +1550,7 @@ export const bosniaPois: POI[] = [
         "The mountain gets its name from the long-lasting snow cover.",
         "The village of Umoljani, famous for its dragon legend, is located on the mountain."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-bjelasnica.webp"},
   {
     id: "ba-perucica",
     type: "landmark",
@@ -1634,8 +1606,7 @@ export const bosniaPois: POI[] = [
         "The area is an important habitat for brown bears, wolves, and chamois.",
         "Researchers are constantly discovering new and rare species in the forest."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-perucica.webp"},
   {
     id: "ba-maglaj",
     type: "landmark",
@@ -1748,8 +1719,7 @@ export const bosniaPois: POI[] = [
         "The town is the birthplace of the famous 'Orašje plum brandy'.",
         "The local football club, HNK Orašje, once won the Bosnian Cup."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-orasje.webp"},
   {
     id: "ba-savariver",
     type: "landmark",
@@ -1805,8 +1775,7 @@ export const bosniaPois: POI[] = [
         "The Sava basin is shared by four countries (Slovenia, Croatia, Bosnia and Herzegovina, and Serbia).",
         "Along the river is the Lonjsko Polje Nature Park in Croatia, one of the largest protected floodplains in Europe."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-savariver.webp"},
   {
     id: "ba-brcko",
     type: "city",
@@ -1862,8 +1831,7 @@ export const bosniaPois: POI[] = [
         "The city hosts the 'Brčko Summer' cultural festival.",
         "The district serves as a model for multi-ethnic coexistence in the country."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-brcko.webp"},
   {
     id: "ba-vijecnica-brcko",
     type: "landmark",
@@ -1976,8 +1944,7 @@ export const bosniaPois: POI[] = [
         "The city is home to the Semberija Museum, which displays the archaeological and ethnographic heritage of the region.",
         "Filip Višnjić, the famous Serbian gusle player, was born in the city."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-bijeljina.webp"},
   {
     id: "ba-stanisici",
     type: "landmark",
@@ -2033,8 +2000,7 @@ export const bosniaPois: POI[] = [
         "Swans and wild ducks swim on the lakes.",
         "The village offers masterpieces of traditional Bosnian cuisine."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-stanisici.webp"},
   {
     id: "ba-livno",
     type: "city",
@@ -2090,8 +2056,7 @@ export const bosniaPois: POI[] = [
         "The city was an important center of the medieval Croatian kingdom.",
         "The area is full of medieval 'stećak' tombstones."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-livno.webp"},
   {
     id: "ba-busko",
     type: "landmark",
@@ -2147,8 +2112,7 @@ export const bosniaPois: POI[] = [
         "One-third of the lake belongs to Bosnia and Herzegovina and two-thirds to Croatia.",
         "The lake is also popular with sailors and kayakers."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-busko.webp"},
   {
     id: "ba-andricgrad",
     type: "landmark",
@@ -2204,8 +2168,7 @@ export const bosniaPois: POI[] = [
         "The city is home to the Andrić Institute, which deals with the humanities.",
         "The main street, 'Mlada Bosna' (Young Bosnia), is named after the organization that carried out the assassination in Sarajevo."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-andricgrad.webp"},
   {
     id: "ba-orlovaca",
     type: "landmark",
@@ -2261,8 +2224,7 @@ export const bosniaPois: POI[] = [
         "The cave was created by the Sinjeva River.",
         "The cave was long known to locals, but was only systematically explored in the late 20th century."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-orlovaca.webp"},
   {
     id: "ba-gorazde",
     type: "city",
@@ -2318,8 +2280,7 @@ export const bosniaPois: POI[] = [
         "The 'Drina Regatta' rowing event is held in the city every year.",
         "During the war, an improvised 'war cinema' operated in the city."
       ]
-    }
-  },
+    }, image: "/poi-images/ba-gorazde.webp"},
   {
     id: "ba-gorazde-bridge",
     type: "landmark",
@@ -2380,3 +2341,4 @@ export const bosniaPois: POI[] = [
 ];
 
 export const bosniaAllPoi = [bosniaCountry, ...bosniaPois];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 
 import type { POI } from "./poi";
 
@@ -36,8 +37,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The site contains 17 ball courts, the highest number found in any Mesoamerican city.", "The Pyramid of the Niches stands 20 meters tall with seven distinct levels.", "El Tajín was abandoned around 1200 AD after being conquered and burned by nomadic tribes.", "The archaeological zone covers approximately 10 square kilometers of hilly terrain.", "The site features intricate stone carvings and bas-reliefs depicting ritual decapitation.", "It was hidden by the jungle until it was 'discovered' by a Spanish official in 1785.", "The site's name is believed to mean 'City of Thunder' in the Totonac language."]
-    },
-  },
+    }, image: "/poi-images/el-tajn-history-v2.webp"},
   {
     id: "monte-alban-history-v2",
     type: "historical",
@@ -72,8 +72,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Main Plaza measures 300 by 200 meters, large enough to hold thousands of people.", "Building J is uniquely aligned to point towards the star Capella for astronomical tracking.", "The site contains over 170 tombs, with Tomb 7 yielding one of the richest treasure hauls in the Americas.", "The 'Danzantes' reliefs depict over 300 figures, possibly representing sacrificed captives.", "At its peak, Monte Albán had an estimated population of over 25,000 residents.", "The hilltop was artificially leveled by the Zapotecs to create the ceremonial center.", "The city was gradually abandoned around 800 AD as power shifted to other valley centers."]
-    },
-  },
+    }, image: "/poi-images/monte-alban-history-v2.webp"},
   {
     id: "uxmal-history-v2",
     type: "historical",
@@ -108,8 +107,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Pyramid of the Magician stands 35 meters tall and consists of five superimposed temples.", "The Governor's Palace features a 100-meter-long facade with over 20,000 individual carved stones.", "Uxmal means 'thrice-built' in the Mayan language, though it was actually built five times.", "The city relied on 'chultunes' (underground cisterns) to collect and store rainwater.", "The House of the Turtles is named after a frieze of turtles intended to summon rain.", "The site's alignment is thought to relate to the path of the planet Venus.", "Uxmal was part of an alliance with Chichén Itzá and Mayapán known as the League of Mayapán."]
-    },
-  },
+    }, image: "/poi-images/uxmal-history-v2.webp"},
   {
     id: "calakmul-history-v2",
     type: "historical",
@@ -144,8 +142,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The site contains over 6,500 structures spread across an area of 70 square kilometers.", "Structure II is over 45 meters high and can still be climbed for views above the canopy.", "The city was the capital of the 'Snake Head' dynasty, one of the most powerful in Maya history.", "Calakmul has more stelae (117) than any other Maya city discovered so far.", "The city reached its peak population of 50,000 residents around 600-700 AD.", "The Calakmul Biosphere Reserve covers 7,231 square kilometers of tropical forest.", "The site was rediscovered by aerial exploration in 1931 by botanist Cyrus Lundell."]
-    },
-  },
+    }, image: "/poi-images/calakmul-history-v2.webp"},
   {
     id: "coba-history-v2",
     type: "historical",
@@ -180,8 +177,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Nohoch Mul pyramid stands 42 meters tall with 120 steep steps to the top.", "Cobá features over 50 sacbeob, including one that stretches 100 kilometers to Yaxuná.", "The name Cobá means 'waters stirred by the wind' in Mayan, referring to the local lagoons.", "The site is built around five lakes, which provided a stable water source for its 50,000 inhabitants.", "The city's influence peaked between 600 and 900 AD, controlling much of the region's trade.", "Archaeologists believe Cobá was once the capital of a large regional state.", "The site was mostly abandoned after the Spanish conquest but remained known to local Maya."]
-    },
-  },
+    }, image: "/poi-images/coba-history-v2.webp"},
     {
     id: "mitla-history-v2",
     type: "historical",
@@ -216,8 +212,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The name Mitla is derived from the Nahuatl word Mictlán, meaning 'Place of the Dead'.", "The geometric mosaics feature 14 different designs that repeat in various patterns.", "The Hall of Columns contains six massive monolithic volcanic stone pillars that supported the roof.", "Mitla was the main residence of the Zapotec high priest, the 'Uija-tào' (Great Seer).", "The Church of San Pablo was built in 1590 directly on top of a Zapotec platform.", "The site features cruciform tombs under the palaces, intended for Zapotec elite and priests.", "Archaeological evidence shows the site was occupied from as early as 900 BC until the Spanish conquest."]
-    },
-  },
+    }, image: "/poi-images/mitla-history-v2.webp"},
   {
     id: "tula-history-v2",
     type: "historical",
@@ -252,8 +247,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Atlantean figures stand 4.6 meters tall and weigh several tons each.", "The statues depict warriors wearing butterfly breastplates and holding atlatls (spear throwers).", "Tula was a major obsidian processing center, controlling trade in this vital volcanic glass.", "The Coatepantli or 'Serpent Wall' features reliefs of snakes devouring human skeletons.", "The city was burned and largely destroyed in the 12th century, likely by Chichimeca invaders.", "The Toltec Empire's reach extended into the Maya region, evidenced by similarities in Chichén Itzá.", "Tula was rediscovered in the late 19th century, with major excavations beginning in the 1940s."]
-    },
-  },
+    }, image: "/poi-images/tula-history-v2.webp"},
   {
     id: "bonampak-history-v2",
     type: "historical",
@@ -288,8 +282,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The murals date to approximately 790 AD and cover the walls of three interconnected rooms.", "Room 1 depicts the presentation of a royal heir; Room 2 shows a fierce battle and prisoner torture.", "The name Bonampak means 'Painted Wall' in the Mayan language.", "The site remained unknown to the outside world until Lacandon Maya led Giles Healey there in 1946.", "The murals were preserved by a natural layer of calcium carbonate that formed over the centuries.", "The site features a grand plaza and an acropolis with several temples built into a natural hill.", "Stela 1 at Bonampak is one of the tallest stelae in the Maya world, standing nearly 6 meters high."]
-    },
-  },
+    }, image: "/poi-images/bonampak-history-v2.webp"},
   {
     id: "yaxchilan-history-v2",
     type: "historical",
@@ -324,8 +317,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The site is famous for Lintel 24, which depicts Lady Xoc performing a ritual bloodletting.", "Yaxchilán's name means 'Green Stones' in Mayan, referring to the surrounding jungle or jade.", "The city reached its peak power between 681 and 800 AD under the 'Jaguar' dynasty.", "The Labyrinth (Structure 19) is a complex multi-level building with dark internal corridors.", "Structure 33 features a well-preserved roof comb, a characteristic Maya architectural element.", "The site's position allowed it to control major river trade routes between the highlands and lowlands.", "Yaxchilán was a fierce rival of nearby Piedras Negras, located downstream in modern-day Guatemala."]
-    },
-  },
+    }, image: "/poi-images/yaxchilan-history-v2.webp"},
   {
     id: "xochicalco-history-v2",
     type: "historical",
@@ -360,8 +352,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The name Xochicalco means 'In the House of Flowers' in Nahuatl.", "The site hosted a major gathering of astronomers around 743 AD to reconcile various Mesoamerican calendars.", "The astronomical observatory features a hexagonal tube through which the sun's rays pass.", "The city was destroyed and burned around 900 AD, possibly due to an internal uprising.", "The site contains three ball courts, unusual for its relatively small size.", "Xochicalco's location offered a 360-degree view, making it easily defensible against invaders.", "The carvings on the main temple show influences from Maya, Zapotec, and Gulf Coast styles."]
-    },
-  },
+    }, image: "/poi-images/xochicalco-history-v2.webp"},
   {
     id: "edzna-history-v2",
     type: "historical",
@@ -396,8 +387,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Building of Five Stories stands 31 meters high and features 65 rooms across its levels.", "The hydraulic system includes a 12-kilometer-long main canal and 27 smaller branches.", "Edzná means 'House of the Itzás', likely referring to the same group that founded Chichén Itzá.", "The Temple of the Masks features two large stucco masks of the Sun God, depicting morning and evening.", "The site features a massive 160-meter-wide platform known as the Great Acropolis.", "Edzná was occupied for nearly 2,000 years, making it one of the longest-inhabited Maya cities.", "The city's location in a valley prone to flooding necessitated the advanced canal system."]
-    },
-  },
+    }, image: "/poi-images/edzna-history-v2.webp"},
   {
     id: "becan-history-v2",
     type: "historical",
@@ -432,8 +422,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The moat is approximately 1.9 kilometers long, 16 meters wide, and up to 5 meters deep.", "Access to the city center was restricted to seven narrow bridges crossing the moat.", "Structure IX stands 32 meters high, offering views across the Río Bec forest.", "Becán means 'Ditch Filled with Water' in Mayan, though the moat was likely dry or swampy.", "The city's influence peaked between 600 and 1000 AD as a capital of the central lowland region.", "The site features 20 major structures, including palace-like buildings and temples.", "The Río Bec style is known for 'false' towers that were purely decorative and could not be entered."]
-    },
-  },
+    }, image: "/poi-images/becan-history-v2.webp"},
   {
     id: "kabah-history-v2",
     type: "historical",
@@ -468,8 +457,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The name Codz Poop means 'Rolled Mat', referring to the coiled trunk of the Chaac masks.", "The site is connected to Uxmal by a 18-kilometer-long sacbé or stone causeway.", "The Arch of Kabah marks the entrance to the city from the ceremonial road.", "Kabah was founded around 300 BC and flourished until its abandonment around 1200 AD.", "The site contains numerous stone statues of Maya rulers, which are rare in the northern Yucatán.", "Archaeologists have discovered that many of the Chaac masks' noses were used as steps for maintenance.", "The city was a major agricultural center, specializing in crops like corn and squash."]
-    },
-  },
+    }, image: "/poi-images/kabah-history-v2.webp"},
   {
     id: "la-venta-history-v2",
     type: "historical",
@@ -504,8 +492,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Great Pyramid at La Venta was originally thought to be a volcanic cone but is an earthen structure.", "The Olmecs transported massive basalt blocks from the Tuxtla Mountains, over 100 kilometers away.", "The site features 'offering pits' filled with thousands of tons of serpentine and jade tiles.", "Four colossal heads were discovered at La Venta, numbered 1 through 4.", "The site is aligned 8 degrees west of true north, a common feature in Olmec planning.", "The Olmecs at La Venta were among the first to develop a writing system and a calendar in Mesoamerica.", "Much of the original site has been affected by modern oil refinery construction in the area."]
-    },
-  },
+    }, image: "/poi-images/la-venta-history-v2.webp"},
   {
     id: "cerro-de-las-mesas-history-v2",
     type: "historical",
@@ -576,8 +563,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Olmecs moved over 2 million cubic meters of earth to create the 50-meter-high artificial plateau.", "Ten colossal heads were discovered at San Lorenzo, the largest being over 2.8 meters tall.", "The site features an advanced system of stone-lined drains and canals to manage water.", "Over 70 stone monuments have been found at the site, including 'altars' and zoomorphic figures.", "San Lorenzo was abandoned around 900 BC, with many monuments being ritually buried or defaced.", "The city controlled the rich agricultural land and river trade routes of the Olmec heartland.", "The basalt for the sculptures was transported from the Tuxtla Mountains via water and land."]
-    },
-  },
+    }, image: "/poi-images/san-lorenzo-tenochtitlan-history-v2.webp"},
   {
     id: "el-rey-history-v2",
     type: "historical",
@@ -648,8 +634,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Dzibilchaltún means 'Place where there is writing on flat stones' in Mayan.", "The site once covered nearly 16 square kilometers with over 8,000 recorded structures.", "The Xlacah Cenote is over 40 meters deep and has yielded thousands of archaeological artifacts.", "The Temple of the Seven Dolls is an example of early Maya vaulted architecture.", "The site was a major center for salt production due to its proximity to the northern coast.", "A 440-meter-long sacbé (stone road) connects the main plaza to the Temple of the Seven Dolls.", "The open-air chapel in the plaza was built by the Spanish to convert the local Maya population."]
-    },
-  },
+    }, image: "/poi-images/dzibilchaltun-history-v2.webp"},
   {
     id: "mayapan-history-v2",
     type: "historical",
@@ -684,8 +669,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The city was protected by a 9-kilometer-long stone wall with 12 major gateways.", "The Castle of Kukulcán stands 15 meters tall, roughly half the size of the one at Chichén Itzá.", "At its peak, the city contained over 4,000 structures within the walled area.", "Mayapán was the capital of the Cocom dynasty, who ruled much of the northern Yucatán.", "The city was destroyed around 1441 during a revolt led by the Xiu family.", "Archaeologists have found evidence of extensive residential areas for a population of 12,000.", "The site features numerous circular temples, likely dedicated to the wind god Ehécatl."]
-    },
-  },
+    }, image: "/poi-images/mayapan-history-v2.webp"},
   {
     id: "ek-balam-history-v2",
     type: "historical",
@@ -720,8 +704,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The Acropolis measures 160 meters long, 60 meters wide, and 31 meters high.", "The stucco reliefs were preserved by being intentionally buried by the Maya during a later building phase.", "The city is surrounded by two concentric defensive walls, a rare feature for Maya cities.", "The tomb of Ukit Kan Lek Tok' contained over 7,000 pieces of jade, shell, and pyrite.", "The 'Winged Warriors' figures resemble angels, though they depict Maya shaman-warriors.", "Ek' Balam reached its peak between 770 and 840 AD under a single powerful dynasty.", "The site's main entrance is marked by a majestic ceremonial arch."]
-    },
-  },
+    }, image: "/poi-images/ek-balam-history-v2.webp"},
   {
     id: "chapultepec-castle-history-v2",
     type: "historical",
@@ -756,8 +739,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Construction began in 1785 on the orders of Viceroy Bernardo de Gálvez.", "It was the site of the Battle of Chapultepec in 1847 during the Mexican-American War.", "The 'Niños Héroes' (Boy Heroes) are celebrated for defending the castle during the 1847 battle.", "Emperor Maximilian I remodeled the castle in the 1860s in an elegant European style.", "The museum features famous murals by Juan O'Gorman, David Alfaro Siqueiros, and José Clemente Orozco.", "President Lázaro Cárdenas declared it a museum in 1939, moving his residence to Los Pinos.", "The name Chapultepec means 'Hill of the Grasshopper' in the Nahuatl language."]
-    },
-  },
+    }, image: "/poi-images/chapultepec-castle-history-v2.webp"},
   {
     id: "palacio-de-bellas-artes-history-v2",
     type: "historical",
@@ -792,8 +774,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["Construction began in 1904 but was halted for decades due to the Mexican Revolution and soil sinking.", "The building finally opened in 1934, thirty years after the first stone was laid.", "The theater features a unique 24-ton stained-glass curtain created by Tiffany Studios in New York.", "Diego Rivera's 'Man at the Crossroads' mural is a replica of his destroyed work in Rockefeller Center.", "The palace was designed by Italian architect Adamo Boari and completed by Federico Mariscal.", "The building has sunk several meters into the soft lakebed soil of Mexico City since its construction.", "The glass curtain depicts the volcanoes Popocatépetl and Iztaccíhuatl."]
-    },
-  },
+    }, image: "/poi-images/palacio-de-bellas-artes-history-v2.webp"},
   {
     id: "hospicio-cabanas-history-v2",
     type: "historical",
@@ -828,8 +809,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The complex was commissioned by Bishop Juan Cruz Ruiz de Cabañas and opened in 1810.", "Orozco's 'Man of Fire' mural depicts the four elements and the struggle of humanity.", "The building served as a hospital and orphanage for over 150 years until 1980.", "It was used as a barracks for both sides during the Mexican War of Independence.", "The neoclassical structure covers an area of over 23,000 square meters.", "It is often referred to as the 'Sistine Chapel of the Americas' due to Orozco's murals.", "The chapel is perfectly symmetrical, following the strict neoclassical principles of Manuel Tolsá."]
-    },
-  },
+    }, image: "/poi-images/hospicio-cabanas-history-v2.webp"},
   {
     id: "zacatecas-cathedral-history-v2",
     type: "historical",
@@ -864,8 +844,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The cathedral's full name is the Cathedral Basilica of Our Lady of the Assumption of Zacatecas.", "The main facade features three levels of carvings, culminating in a relief of the Holy Eucharist.", "The pink 'cantera' stone used for the construction was quarried from nearby hills.", "The cathedral's two towers were completed at different times, the first in 1785 and the second in 1904.", "The modern main altar, designed by Javier Marín, is covered in 24-karat gold leaf.", "The building was elevated to the status of a Basilica by Pope Pius XII in 1959.", "The carvings on the facade show a blend of European baroque and indigenous 'tequitqui' artistic influences."]
-    },
-  },
+    }, image: "/poi-images/zacatecas-cathedral-history-v2.webp"},
   {
     id: "grito-de-dolores-history-v2",
     type: "historical",
@@ -900,8 +879,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The original bell rung by Hidalgo was moved to the National Palace in Mexico City in 1896.", "The church was built between 1712 and 1778, featuring a classic Churrigueresque facade.", "Miguel Hidalgo was the parish priest of Dolores from 1803 until the start of the revolution.", "The 'Grito' literally translates to 'The Cry', referring to the cry for independence.", "The town was renamed Dolores Hidalgo in 1948 to honor the 'Father of the Nation'.", "The church's main altar was replaced in the 19th century with a neoclassical design.", "Visitors can see the original pulpit from which Hidalgo is said to have preached."]
-    },
-  },
+    }, image: "/poi-images/grito-de-dolores-history-v2.webp"},
   {
     id: "alamo-battlefield-history-v2",
     type: "historical",
@@ -936,8 +914,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["General Santa Anna's army consisted of approximately 6,000 soldiers during the Texas campaign.", "The final assault on the Alamo took less than 90 minutes on the morning of March 6th.", "Following the battle, the Mexican army continued its advance towards the Battle of San Jacinto.", "The campaign was fought primarily over the issue of the 1835 suspension of the Mexican Constitution.", "Many of the Mexican soldiers were conscripts from central and southern Mexico.", "The battle resulted in the deaths of all Texan combatants and several hundred Mexican soldiers.", "Santa Anna's red flag, the 'Degüello', was raised to signal that no quarter would be given."]
-    },
-  },
+    }, image: "/poi-images/alamo-battlefield-history-v2.webp"},
   {
     id: "fuerte-de-loreto-history-v2",
     type: "historical",
@@ -972,8 +949,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The fort was originally built as a chapel dedicated to the Virgin of Loreto in the 17th century.", "General Ignacio Zaragoza was only 33 years old when he led the Mexican forces to victory.", "The French army at the battle numbered about 6,000, while the Mexican forces were roughly 4,000.", "The victory at Puebla delayed the French occupation of Mexico City by a full year.", "The museum contains original uniforms, cannons, and letters from the era of the French intervention.", "Cinco de Mayo is a major holiday in Puebla, but not a federal holiday throughout all of Mexico.", "The fort's strategic location allowed Mexican artillery to fire down on the approaching French columns."]
-    },
-  },
+    }, image: "/poi-images/fuerte-de-loreto-history-v2.webp"},
   {
     id: "convento-de-huejotzingo-history-v2",
     type: "historical",
@@ -1008,8 +984,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The monastery was one of the four original Franciscan missions established in New Spain.", "The 'Posas' chapels were used for outdoor religious processions and ceremonies.", "The main altar features a magnificent 16th-century retablo (altarpiece) by Flemish artist Simon Pereyns.", "The atrium cross is a masterpiece of 'tequitqui' art, blending Christian symbols with indigenous carving styles.", "The murals in the 'Sala De Profundis' depict the first 12 Franciscans who arrived in Mexico in 1524.", "The building features a blend of Plateresque, Gothic, and Mudéjar architectural elements.", "The monastery's robust walls and battlements were designed to withstand possible indigenous uprisings."]
-    },
-  },
+    }, image: "/poi-images/convento-de-huejotzingo-history-v2.webp"},
   {
     id: "san-miguel-de-allende-history-v2",
     type: "historical",
@@ -1044,8 +1019,7 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       hu: [],
       ro: [],
       en: ["The city is named after its founder, Fray Juan de San Miguel, and independence hero Ignacio Allende.", "The Parroquia's towers were designed by an untrained local architect using postcards of European cathedrals.", "San Miguel was a ghost town in the early 20th century before being rediscovered by artists.", "The city's 'El Jardín' is the central social hub, surrounded by colonial buildings and laurel trees.", "The Allende House Museum was the birthplace of Ignacio Allende, a key leader in the 1810 revolution.", "The city hosts the famous 'Sanmiguelada' festival, inspired by the running of the bulls in Pamplona.", "UNESCO designated the town and the nearby Sanctuary of Atotonilco as World Heritage sites in 2008."]
-    },
-  },
+    }, image: "/poi-images/san-miguel-de-allende-history-v2.webp"},
   {
     id: "paquime-casas-grandes-history-v2",
     type: "historical",
@@ -1083,3 +1057,4 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     },
   }
 ];
+

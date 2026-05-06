@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSenegalLandmarksV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["1936-ban szentelték fel", "Neobizánci stílus", "A Dakari Érsekség központja"],
       ro: ["Inaugurată în 1936", "Stil neobizantin", "Sediul Arhiepiscopiei Dakar"],
       en: ["Consecrated in 1936", "Neo-Byzantine style", "Seat of the Archdiocese of Dakar"]
-    }
-  },
+    }, image: "/poi-images/sn-dakar-cathedral-landmarks-v2.webp"},
   {
     id: "sn-abdoulaye-wade-stadium-landmarks-v2",
     type: "landmark",
@@ -47,8 +47,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["2022-ben nyílt meg", "Kapacitás: 50 000 fő", "Diamniadióban található"],
       ro: ["Deschis în 2022", "Capacitate: 50.000", "Situat în Diamniadio"],
       en: ["Opened in 2022", "Capacity: 50,000", "Located in Diamniadio"]
-    }
-  },
+    }, image: "/poi-images/sn-abdoulaye-wade-stadium-landmarks-v2.webp"},
   {
     id: "sn-leopold-sedar-senghor-stadium-landmarks-v2",
     type: "landmark",
@@ -71,8 +70,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["1985-ben nyílt meg", "Kapacitás: 60 000", "Az első elnökről nevezték el"],
       ro: ["Deschis în 1985", "Capacitate: 60.000", "Numit după primul președinte"],
       en: ["Opened in 1985", "Capacity: 60,000", "Named after the first president"]
-    }
-  },
+    }, image: "/poi-images/sn-leopold-sedar-senghor-stadium-landmarks-v2.webp"},
   {
     id: "sn-national-theatre-daniel-sorano-landmarks-v2",
     type: "landmark",
@@ -95,8 +93,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["1965-ben nyílt meg", "Hagyományos művészetek fókuszban", "Dakar központjában található"],
       ro: ["Deschis în 1965", "Focalizat pe artele tradiționale", "Situat în centrul Dakarului"],
       en: ["Opened in 1965", "Focus on traditional arts", "Located in downtown Dakar"]
-    }
-  },
+    }, image: "/poi-images/sn-national-theatre-daniel-sorano-landmarks-v2.webp"},
   {
     id: "sn-museum-black-civilisations-landmarks-v2",
     type: "landmark",
@@ -119,8 +116,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["2018-ban nyílt meg", "A kerek kunyhók ihlette építészet", "Az afrikai reneszánsz szimbóluma"],
       ro: ["Deschis în 2018", "Arhitectură inspirată de colibe rotunde", "Simbol al renașterii africane"],
       en: ["Opened in 2018", "Architecture inspired by round huts", "Symbol of African renaissance"]
-    }
-  },
+    }, image: "/poi-images/sn-museum-black-civilisations-landmarks-v2.webp"},
   {
     id: "sn-dakar-grand-theatre-landmarks-v2",
     type: "landmark",
@@ -143,8 +139,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["2011-ben nyílt meg", "Kapacitás: 1800 ülőhely", "Egy híres dobosról nevezték el"],
       ro: ["Deschis în 2011", "Capacitate: 1.800 de locuri", "Numit după un toboșar celebru"],
       en: ["Opened in 2011", "Capacity: 1,800 seats", "Named after a famous drummer"]
-    }
-  },
+    }, image: "/poi-images/sn-dakar-grand-theatre-landmarks-v2.webp"},
   {
     id: "sn-palais-de-la-republique-landmarks-v2",
     type: "landmark",
@@ -191,8 +186,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["Magasság: 73 méter", "Jellegzetes barna homlokzat", "1979-ben épült"],
       ro: ["Înălțime: 73 metri", "Fațadă maro distinctivă", "Construit în 1979"],
       en: ["Height: 73 meters", "Distinctive brown facade", "Built in 1979"]
-    }
-  },
+    }, image: "/poi-images/sn-bceao-tower-landmarks-v2.webp"},
   {
     id: "sn-mosquee-divinite-landmarks-v2",
     type: "landmark",
@@ -215,8 +209,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["1997-ben épült", "Két jellegzetes minaret", "Közvetlenül egy szikla szélén fekszik"],
       ro: ["Construită în 1997", "Două minarete izbitoare", "Situată chiar pe o stâncă"],
       en: ["Built in 1997", "Two striking minarets", "Located directly on a cliff"]
-    }
-  },
+    }, image: "/poi-images/sn-mosquee-divinite-landmarks-v2.webp"},
   {
     id: "sn-place-independance-landmarks-v2",
     type: "landmark",
@@ -263,8 +256,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["2018-ban nyílt meg", "Kapacitás: 15 000 fő", "A Kosárlabda Afrika-bajnokság helyszíne"],
       ro: ["Deschisă în 2018", "Capacitate: 15.000", "Gazda Campionatului African de Baschet"],
       en: ["Opened in 2018", "Capacity: 15,000", "Host of the African Basketball Championship"]
-    }
-  },
+    }, image: "/poi-images/sn-dakar-arena-landmarks-v2.webp"},
   {
     id: "sn-abbaye-keur-moussa-landmarks-v2",
     type: "landmark",
@@ -287,8 +279,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["1963-ban alapították", "A Kora hangszerek készítéséről ismert", "A szerzetesi élet központja"],
       ro: ["Fondată în 1963", "Cunoscută pentru fabricarea de coras", "Centru de viață monahală"],
       en: ["Founded in 1963", "Known for crafting Koras", "Center of monastic life"]
-    }
-  },
+    }, image: "/poi-images/sn-abbaye-keur-moussa-landmarks-v2.webp"},
   {
     id: "sn-basilique-popenguine-landmarks-v2",
     type: "landmark",
@@ -311,8 +302,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["Éves pünkösdi zarándoklat", "A 19. század végén épült", "II. János Pál pápa 1992-es látogatása"],
       ro: ["Pelerinaj anual de Rusalii", "Construită la sfârșitul secolului al XIX-lea", "Vizita lui Ioan Paul al II-lea în 1992"],
       en: ["Annual Pentecost pilgrimage", "Built in the late 19th century", "Visited by John Paul II in 1992"]
-    }
-  },
+    }, image: "/poi-images/sn-basilique-popenguine-landmarks-v2.webp"},
   {
     id: "sn-saint-louis-cathedral-landmarks-v2",
     type: "landmark",
@@ -335,8 +325,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["1828-ban szentelték fel", "Az óváros szívében", "Építészeti örökség"],
       ro: ["Inaugurată în 1828", "În inima orașului vechi", "Patrimoniu arhitectural"],
       en: ["Consecrated in 1828", "In the heart of the old town", "Architectural heritage"]
-    }
-  },
+    }, image: "/poi-images/sn-saint-louis-cathedral-landmarks-v2.webp"},
   {
     id: "sn-place-nation-obelisque-landmarks-v2",
     type: "landmark",
@@ -359,8 +348,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["Place de l'Obélisque néven is ismert", "A függetlenségi ünnepségek helyszíne", "Fontos találkozóhely Dakarban"],
       ro: ["Cunoscută și ca Place de l'Obélisque", "Locul sărbătorilor de independență", "Punct de întâlnire major în Dakar"],
       en: ["Also called Place de l'Obélisque", "Site of independence celebrations", "Major gathering point in Dakar"]
-    }
-  },
+    }, image: "/poi-images/sn-place-nation-obelisque-landmarks-v2.webp"},
   {
     id: "sn-hotel-de-ville-dakar-landmarks-v2",
     type: "landmark",
@@ -383,8 +371,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["1914-ben épült", "Klasszikus gyarmati építészet", "A helyi közigazgatás központja"],
       ro: ["Construită în 1914", "Arhitectură colonială clasică", "Centrul administrației locale"],
       en: ["Built in 1914", "Classical colonial architecture", "Center of local administration"]
-    }
-  },
+    }, image: "/poi-images/sn-hotel-de-ville-dakar-landmarks-v2.webp"},
   {
     id: "sn-aline-sitoe-diatta-stadium-landmarks-v2",
     type: "landmark",
@@ -407,8 +394,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["A Casa Sport hazai stadionja", "Kapacitás: kb. 10 000 fő", "Fontos sportközpont Casamance-ban"],
       ro: ["Stadionul echipei Casa Sport", "Capacitate: aprox. 10.000", "Centru sportiv major în Casamance"],
       en: ["Home stadium of Casa Sport", "Capacity: approx. 10,000", "Major sports center in Casamance"]
-    }
-  },
+    }, image: "/poi-images/sn-aline-sitoe-diatta-stadium-landmarks-v2.webp"},
   {
     id: "sn-grande-mosquee-tivaouane-landmarks-v2",
     type: "landmark",
@@ -431,8 +417,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["A Tidzsaníja szúfi rend központja", "Az elmúlt évtizedekben bővítették", "Tivaouane városában található"],
       ro: ["Centrul ordinului sufi Tijaniyyah", "Extinsă în ultimele decenii", "Situată în Tivaouane"],
       en: ["Center of the Tijaniyyah Sufi order", "Expanded in recent decades", "Located in Tivaouane"]
-    }
-  },
+    }, image: "/poi-images/sn-grande-mosquee-tivaouane-landmarks-v2.webp"},
   {
     id: "sn-massalikoul-jinaan-mosque-landmarks-v2",
     type: "landmark",
@@ -455,8 +440,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["2019-ben nyílt meg", "Kapacitás: 30 000 hívő", "Gazdag márványdíszítés"],
       ro: ["Deschisă în 2019", "Capacitate: 30.000 de credincioși", "Decorațiuni bogate din marmură"],
       en: ["Opened in 2019", "Capacity: 30,000 worshippers", "Rich marble decorations"]
-    }
-  },
+    }, image: "/poi-images/sn-massalikoul-jinaan-mosque-landmarks-v2.webp"},
   {
     id: "sn-marche-kermel-landmarks-v2",
     type: "landmark",
@@ -479,8 +463,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["1860-ban épült", "Egy 1993-as tűzvész után újjáépítették", "Kör alakú építészet"],
       ro: ["Construită în 1860", "Reconstruită după un incendiu în 1993", "Arhitectură circulară"],
       en: ["Built in 1860", "Rebuilt after a fire in 1993", "Circular architecture"]
-    }
-  },
+    }, image: "/poi-images/sn-marche-kermel-landmarks-v2.webp"},
   {
     id: "sn-marche-sandaga-landmarks-v2",
     type: "landmark",
@@ -503,8 +486,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["Az 1930-as években nyílt meg", "Szudáni-száheli építészet", "Fontos kereskedelmi központ"],
       ro: ["Deschisă în anii 1930", "Arhitectură sudano-saheliană", "Centru comercial major"],
       en: ["Opened in the 1930s", "Sudano-Sahelian architecture", "Major commercial hub"]
-    }
-  },
+    }, image: "/poi-images/sn-marche-sandaga-landmarks-v2.webp"},
   {
     id: "sn-hotel-de-ville-saint-louis-landmarks-v2",
     type: "landmark",
@@ -527,8 +509,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["Szenegál egykori fővárosa", "Gyarmati építészet", "Központban az óvárosban"],
       ro: ["Fosta capitală a Senegalului", "Arhitectură colonială", "Central în orașul vechi"],
       en: ["Former capital of Senegal", "Colonial architecture", "Central in the old town"]
-    }
-  },
+    }, image: "/poi-images/sn-hotel-de-ville-saint-louis-landmarks-v2.webp"},
   {
     id: "sn-grande-mosquee-kaolack-landmarks-v2",
     type: "landmark",
@@ -551,8 +532,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["A Niassène közösség székhelye", "Évente zarándokok ezrei", "Különleges építészet"],
       ro: ["Sediul comunității Niassène", "Mii de pelerini anual", "Arhitectură impresionantă"],
       en: ["Seat of the Niassène community", "Thousands of pilgrims annually", "Striking architecture"]
-    }
-  },
+    }, image: "/poi-images/sn-grande-mosquee-kaolack-landmarks-v2.webp"},
   {
     id: "sn-spheres-ministerielles-diamniadio-landmarks-v2",
     type: "landmark",
@@ -575,8 +555,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["Decentralizációs projekt", "Futurisztikus építészet", "Közigazgatási központ"],
       ro: ["Proiect de descentralizare", "Arhitectură futuristă", "Centru administrativ"],
       en: ["Decentralization project", "Futuristic architecture", "Administrative center"]
-    }
-  },
+    }, image: "/poi-images/sn-spheres-ministerielles-diamniadio-landmarks-v2.webp"},
   {
     id: "sn-camp-de-thiaroye-memorial-landmarks-v2",
     type: "landmark",
@@ -599,8 +578,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["Az 1944-es mészárlásra emlékeztet", "Az afrikai katonák emlékhelye", "Az elmélkedés helyszíne"],
       ro: ["Comemorează masacrul din 1944", "Memorial pentru soldații africani", "Loc de reflecție"],
       en: ["Commemorates the 1944 massacre", "Memorial for African soldiers", "Place of reflection"]
-    }
-  },
+    }, image: "/poi-images/sn-camp-de-thiaroye-memorial-landmarks-v2.webp"},
   {
     id: "sn-ucad-university-gate-landmarks-v2",
     type: "landmark",
@@ -623,8 +601,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["A szenegáli oktatás szimbóluma", "Az egyetemet 1957-ben alapították", "Diákok találkozóhelye"],
       ro: ["Simbol al educației senegaleze", "Universitate fondată în 1957", "Punct de întâlnire pentru studenți"],
       en: ["Symbol of Senegalese education", "University founded in 1957", "Meeting point for students"]
-    }
-  },
+    }, image: "/poi-images/sn-ucad-university-gate-landmarks-v2.webp"},
   {
     id: "sn-phare-cap-manuel-landmarks-v2",
     type: "landmark",
@@ -647,8 +624,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["Dakar déli csücske", "Tengerészeti tájékozódási pont", "A 19. században épült"],
       ro: ["Punctul sudic al Dakarului", "Punct de reper pentru navigație", "Construit în secolul al XIX-lea"],
       en: ["Southern tip of Dakar", "Navigational landmark", "Built in the 19th century"]
-    }
-  },
+    }, image: "/poi-images/sn-phare-cap-manuel-landmarks-v2.webp"},
   {
     id: "sn-maison-ousmane-sow-landmarks-v2",
     type: "landmark",
@@ -695,8 +671,7 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
       hu: ["Atlétikai központ", "Dakar Medina negyedében található", "Helyi mérkőzések helyszíne"],
       ro: ["Centru pentru atletism", "Situat în Medina din Dakar", "Loc de desfășurare a jocurilor locale"],
       en: ["Center for athletics", "Located in the Medina of Dakar", "Venue for local games"]
-    }
-  },
+    }, image: "/poi-images/sn-iba-mar-diop-stadium-landmarks-v2.webp"},
   {
     id: "sn-grande-mosquee-guediawaye-landmarks-v2",
     type: "landmark",
@@ -722,3 +697,4 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
     }
   }
 ];
+

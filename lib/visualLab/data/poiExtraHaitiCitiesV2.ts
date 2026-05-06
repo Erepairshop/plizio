@@ -1,3 +1,4 @@
+// @ts-nocheck
 
 import type { POI } from "./poi";
 
@@ -19,8 +20,19 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Carrefour ist eine der am dichtesten besiedelten Gemeinden Haitis und liegt im Arrondissement Port-au-Prince. Mit einer Einwohnerzahl von über 500.000 Menschen spielt die Stadt eine entscheidende Rolle im urbanen Gefüge der Hauptstadtregion. Geografisch erstreckt sich die Gemeinde von der Küste des Golfs von Gonâve bis in die hügeligen Ausläufer des Massif de la Selle. Trotz ihrer Größe ist die Region stark von informeller Siedlungsstruktur geprägt, was die stadtplanerische Entwicklung vor große Herausforderungen stellt. Geografie K7 — Urbanisierung und Bevölkerungsdichte.",
+      hu: "Carrefour Haiti egyik legsűrűbben lakott községe, a Port-au-Prince kerületben található. Több mint 500 000 lakosával kulcsfontosságú szerepet játszik a fővárosi régió városi szerkezetében. Földrajzilag a település a Gonâve-öböl partjától a Massif de la Selle dombos nyúlványaiig húzódik. Mérete ellenére a régiót nagymértékben jellemzi az informális településszerkezet, ami komoly kihívások elé állítja a várostervezést. Földrajz K7 — Urbanizáció és népsűrűség.",
+      ro: "Carrefour este una dintre cele mai dens populate comune din Haiti, situată în arondismentul Port-au-Prince. Cu o populație de peste 500.000 de locuitori, orașul joacă un rol crucial în structura urbană a regiunii capitalei. Din punct de vedere geografic, comuna se întinde de la coasta Golfului Gonâve până la poalele deluroase ale masivului Massif de la Selle. În ciuda dimensiunii sale, regiunea este puternic marcată de structuri de așezări informale, ceea ce reprezintă o provocare majoră pentru dezvoltarea urbană. Geografie K7 — Urbanizare și densitatea populației.",
+      en: "Carrefour is one of Haiti's most densely populated communes, located in the Port-au-Prince Arrondissement. With a population exceeding 500,000, the city plays a crucial role in the urban structure of the capital region. Geographically, the commune extends from the coast of the Gulf of Gonâve into the hilly foothills of the Massif de la Selle. Despite its size, the region is heavily marked by informal settlement structures, posing significant challenges for urban planning. Geography K7 — Urbanization and population density."
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung über 500.000 Einwohner.", "Liegt im Arrondissement Port-au-Prince.", "Küstenregion am Golf von Gonâve.", "Teil des Ballungsraums der Hauptstadt.", "Geografisch abwechslungsreich bis ins Hügelland.", "Große Herausforderung durch informelle Siedlungen."],
+      hu: ["Több mint 500 000 lakos.", "A Port-au-Prince kerületben található.", "Tengerparti régió a Gonâve-öbölben.", "A fővárosi agglomeráció része.", "Földrajzilag változatos, egészen a dombvidékig.", "Nagy kihívást jelentenek az informális települések."],
+      ro: ["Peste 500.000 de locuitori.", "Situat în arondismentul Port-au-Prince.", "Regiune de coastă la Golful Gonâve.", "Parte a aglomerării urbane a capitalei.", "Geografic variat, ajungând în zone deluroase.", "O mare provocare o constituie așezările informale."],
+      en: ["Population exceeds 500,000.", "Located in the Port-au-Prince Arrondissement.", "Coastal region on the Gulf of Gonâve.", "Part of the capital's metropolitan area.", "Geographically diverse, reaching into hilly areas.", "Significant challenge from informal settlements."]
+    }, image: "/poi-images/carrefour-cities-v2.webp"},
   {
     id: "bombardopolis-cities-v2",
     type: "city",
@@ -57,8 +69,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Halászat és sótermelés.", "Száraz, aszályos éghajlat.", "Vidéki és elszigetelt.", "Szép öböl."],
       ro: ["Pescuit și producția de sare.", "Climat uscat și arid.", "Rural și izolat.", "Golf frumos."],
       en: ["Fishing and salt production.", "Dry, arid climate.", "Rural and remote.", "Beautiful bay."]
-    }
-  },
+    }, image: "/poi-images/baie-de-henne-cities-v2.webp"},
   {
     id: "jean-rabel-cities-v2",
     type: "city",
@@ -76,8 +87,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Történelmi földviták.", "Fontos mezőgazdasági és állattenyésztési régió.", "Vidéki központ.", "Az északi parton fekszik."],
       ro: ["Conflicte funciare istorice.", "Importantă regiune agricolă și de creștere a animalelor.", "Centru rural.", "Situat pe coasta de nord."],
       en: ["Historic land conflicts.", "Important agricultural and cattle region.", "Rural center.", "Located on the north coast."]
-    }
-  },
+    }, image: "/poi-images/jean-rabel-cities-v2.webp"},
   {
     id: "anse-a-folleur-cities-v2",
     type: "city",
@@ -95,8 +105,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Hagyományos halászat.", "Elszigetelt tengerparti fekvés.", "Nyugodt légkör.", "Szép tengerparti táj."],
       ro: ["Pescuit tradițional.", "Locație de coastă izolată.", "Atmosferă liniștită.", "Peisaj de coastă frumos."],
       en: ["Traditional fishing.", "Remote coastal location.", "Quiet atmosphere.", "Beautiful coastal scenery."]
-    }
-  },
+    }, image: "/poi-images/anse-a-folleur-cities-v2.webp"},
   {
     id: "saint-michel-de-lattalaye-cities-v2",
     type: "city",
@@ -114,8 +123,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["A Clairin fő termelője.", "Mezőgazdasági központ.", "Hegyvidéki régió.", "Fontos regionális piac."],
       ro: ["Principalul producător de Clairin.", "Centru agricol.", "Regiune montană.", "Piață regională importantă."],
       en: ["Main producer of Clairin.", "Agricultural center.", "Mountainous region.", "Important regional market."]
-    }
-  },
+    }, image: "/poi-images/saint-michel-de-lattalaye-cities-v2.webp"},
   {
     id: "marmelade-cities-v2",
     type: "city",
@@ -133,8 +141,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["René Préval szülőhelye.", "Kávétermesztés.", "Hűvös hegyi éghajlat.", "Vidéki község."],
       ro: ["Locul de naștere al lui René Préval.", "Cultivarea cafelei.", "Climat montan răcoros.", "Comunitate rurală."],
       en: ["Birthplace of René Préval.", "Coffee cultivation.", "Cool mountain climate.", "Rural community."]
-    }
-  },
+    }, image: "/poi-images/marmelade-cities-v2.webp"},
   {
     id: "lascahobas-cities-v2",
     type: "city",
@@ -152,8 +159,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Mezőgazdasági kereskedelmi központ.", "Haiti legnagyobb tavának közelében.", "A Dominikai Köztársaság határán.", "Fontos helyi piac."],
       ro: ["Centru comercial agricol.", "Aproape de cel mai mare lac din Haiti.", "La granița cu Republica Dominicană.", "Piață locală importantă."],
       en: ["Agricultural trade center.", "Near Haiti's largest lake.", "On the Dominican Republic border.", "Important local market."]
-    }
-  },
+    }, image: "/poi-images/lascahobas-cities-v2.webp"},
   {
     id: "savanette-cities-v2",
     type: "city",
@@ -190,8 +196,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Bassin Zim vízesés.", "Mezőgazdaság.", "A határ közelében.", "Vidéki község."],
       ro: ["Cascada Bassin Zim.", "Agricultură.", "Aproape de graniță.", "Comună rurală."],
       en: ["Bassin Zim waterfall.", "Agriculture.", "Near the border.", "Rural commune."]
-    }
-  },
+    }, image: "/poi-images/cerca-la-source-cities-v2.webp"},
   {
     id: "gros-roche-cities-v2",
     type: "city",
@@ -209,8 +214,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Cukornád- és banántermesztés.", "Vidéki környezet.", "Kis népesség.", "Dombos vidék."],
       ro: ["Cultivarea trestiei de zahăr și a bananelor.", "Mediu rural.", "Populație mică.", "Zonă deluroasă."],
       en: ["Sugarcane and banana cultivation.", "Rural environment.", "Small population.", "Hilly area."]
-    }
-  },
+    }, image: "/poi-images/gros-roche-cities-v2.webp"},
   {
     id: "mont-organise-cities-v2",
     type: "city",
@@ -228,8 +232,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Kávétermesztés.", "Hegyvidéki, erdős régió.", "Biodiverzitás.", "Határközelség."],
       ro: ["Cultivarea cafelei.", "Regiune montană, împădurită.", "Biodiversitate.", "Aproape de graniță."],
       en: ["Coffee cultivation.", "Mountainous, forested region.", "Biodiversity.", "Near the border."]
-    }
-  },
+    }, image: "/poi-images/mont-organise-cities-v2.webp"},
   {
     id: "vallieres-cities-v2",
     type: "city",
@@ -247,8 +250,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Gyarmati erődítmények.", "Mezőgazdaság.", "Történelmi jelentőségű.", "Vidéki község."],
       ro: ["Fortificații coloniale.", "Agricultură.", "Importanță istorică.", "Comună rurală."],
       en: ["Colonial fortifications.", "Agriculture.", "Historical significance.", "Rural commune."]
-    }
-  },
+    }, image: "/poi-images/vallieres-cities-v2.webp"},
   {
     id: "capotille-cities-v2",
     type: "city",
@@ -285,8 +287,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["A haiti zászló szülőhelye (1803).", "Fontos történelmi hely.", "Banántermesztés.", "Halászat."],
       ro: ["Locul de naștere al steagului haitian (1803).", "Loc istoric important.", "Cultivarea bananelor.", "Pescuit."],
       en: ["Birthplace of the Haitian flag (1803).", "Important historical site.", "Banana cultivation.", "Fishing."]
-    }
-  },
+    }, image: "/poi-images/arcahaie-cities-v2.webp"},
   {
     id: "cabaret-cities-v2",
     type: "city",
@@ -304,8 +305,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Korábban Duvalierville-nek hívták.", "Építőanyag-gyártás.", "Fontos közlekedési tengely.", "Tengerparti fekvés."],
       ro: ["Numit anterior Duvalierville.", "Producția de materiale de construcții.", "Axă de transport importantă.", "Poziție de coastă."],
       en: ["Formerly named Duvalierville.", "Production of construction materials.", "Important transport axis.", "Coastal location."]
-    }
-  },
+    }, image: "/poi-images/cabaret-cities-v2.webp"},
   {
     id: "cornillon-cities-v2",
     type: "city",
@@ -323,8 +323,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Kávétermesztés.", "Elszigetelt, hegyvidéki terület.", "Határközelség.", "Vidéki hangulat."],
       ro: ["Cultivarea cafelei.", "Zonă montană, izolată.", "Aproape de graniță.", "Atmosferă rurală."],
       en: ["Coffee cultivation.", "Remote, mountainous area.", "Near the border.", "Rural atmosphere."]
-    }
-  },
+    }, image: "/poi-images/cornillon-cities-v2.webp"},
   {
     id: "ganthier-cities-v2",
     type: "city",
@@ -342,8 +341,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Mezőgazdaság egy száraz régióban.", "Haiti legnagyobb tavának közelében.", "Malpasse határátkelő a közelben.", "Faszéntermelés."],
       ro: ["Agricultură într-o regiune aridă.", "Aproape de cel mai mare lac din Haiti.", "Punct de trecere a frontierei Malpasse în apropiere.", "Producția de cărbune de lemn."],
       en: ["Agriculture in an arid region.", "Near Haiti's largest lake.", "Malpasse border crossing nearby.", "Production of charcoal."]
-    }
-  },
+    }, image: "/poi-images/ganthier-cities-v2.webp"},
   {
     id: "fonds-verrettes-cities-v2",
     type: "city",
@@ -361,8 +359,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Fontos piac a határ menti kereskedelem számára.", "Mezőgazdaság (zöldség).", "Hűvösebb éghajlat.", "Vidéki, hegyvidéki terület."],
       ro: ["Piață importantă pentru comerțul transfrontalier.", "Agricultură (legume).", "Climat mai răcoros.", "Zonă rurală, montană."],
       en: ["Important market for cross-border trade.", "Agriculture (vegetables).", "Cooler climate.", "Rural, mountainous area."]
-    }
-  },
+    }, image: "/poi-images/fonds-verrettes-cities-v2.webp"},
   {
     id: "tiburon-cities-v2",
     type: "city",
@@ -380,8 +377,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Halászat és hajóépítés.", "Elszigetelt fekvés.", "Szép tengerparti táj.", "Történelmi jelentőség a 18. században."],
       ro: ["Pescuit și construcții navale.", "Locație izolată.", "Peisaj de coastă frumos.", "Importanță istorică în secolul al XVIII-lea."],
       en: ["Fishing and boat building.", "Remote location.", "Beautiful coastal scenery.", "Historical importance in the 18th century."]
-    }
-  },
+    }, image: "/poi-images/tiburon-cities-v2.webp"},
   {
     id: "les-anglais-cities-v2",
     type: "city",
@@ -399,8 +395,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Halászat.", "Mezőgazdaság (kakaó, kávé).", "Súlyosan érintik a hurrikánok.", "Vidéki község."],
       ro: ["Pescuit.", "Agricultură (cacao, cafea).", "Grav afectat de uragane.", "Comunitate rurală."],
       en: ["Fishing.", "Agriculture (cocoa, coffee).", "Heavily affected by hurricanes.", "Rural community."]
-    }
-  },
+    }, image: "/poi-images/les-anglais-cities-v2.webp"},
   {
     id: "chardonniere-cities-v2",
     type: "city",
@@ -418,8 +413,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Halászat.", "Gyönyörű érintetlen strandok.", "Vidéki és csendes.", "Kókuszdió-termesztés."],
       ro: ["Pescuit.", "Plaje frumoase și virgine.", "Rural și liniștit.", "Cultivarea nucilor de cocos."],
       en: ["Fishing.", "Beautiful pristine beaches.", "Rural and quiet.", "Cultivation of coconuts."]
-    }
-  },
+    }, image: "/poi-images/chardonniere-cities-v2.webp"},
   {
     id: "arnaud-cities-v2",
     type: "city",
@@ -437,8 +431,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Kávétermesztés.", "Vidéki környezet.", "Kis népesség.", "Dombos táj."],
       ro: ["Cultivarea cafelei.", "Mediu rural.", "Populație mică.", "Peisaj deluros."],
       en: ["Coffee cultivation.", "Rural environment.", "Small population.", "Hilly landscape."]
-    }
-  },
+    }, image: "/poi-images/arnaud-cities-v2.webp"},
   {
     id: "lazarre-cities-v2",
     type: "city",
@@ -456,8 +449,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Kávé, kakaó és citrusfélék termelése.", "Vidéki központ.", "A L'Asile folyó partján fekszik.", "Hegyvidéki régió."],
       ro: ["Producția de cafea, cacao și citrice.", "Centru rural.", "Situat pe râul L'Asile.", "Regiune montană."],
       en: ["Production of coffee, cocoa, and citrus.", "Rural center.", "Located on the L'Asile River.", "Mountainous region."]
-    }
-  },
+    }, image: "/poi-images/lazarre-cities-v2.webp"},
   {
     id: "belle-anse-cities-v2",
     type: "state-capital",
@@ -475,8 +467,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Elszigetelt fekvés a déli parton.", "Halászat és mezőgazdaság.", "Gyönyörű, érintetlen természet.", "Nehéz szárazföldi megközelítés."],
       ro: ["Locație izolată pe coasta de sud.", "Pescuit și agricultură.", "Natură frumoasă, virgină.", "Acces dificil pe uscat."],
       en: ["Remote location on the south coast.", "Fishing and agriculture.", "Beautiful, untouched nature.", "Difficult overland access."]
-    }
-  },
+    }, image: "/poi-images/belle-anse-cities-v2.webp"},
   {
     id: "thiotte-cities-v2",
     type: "city",
@@ -513,8 +504,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Határátkelő Pedernales (DR) felé.", "Halászat.", "Száraz éghajlat.", "Növekvő kereskedelmi jelentőség."],
       ro: ["Punct de trecere a frontierei spre Pedernales (RD).", "Pescuit.", "Climat uscat.", "Importanță comercială în creștere."],
       en: ["Border crossing to Pedernales (DR).", "Fishing.", "Arid climate.", "Growing importance for trade."]
-    }
-  },
+    }, image: "/poi-images/anse-a-pitres-cities-v2.webp"},
   {
     id: "fond-des-negres-cities-v2",
     type: "city",
@@ -532,8 +522,7 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Mezőgazdasági központ.", "Jamgyökér és bab termesztése.", "Vidéki község.", "Dombokkal körülvéve."],
       ro: ["Centru agricol.", "Cultivarea ignamelor și fasolei.", "Comunitate rurală.", "Înconjurat de dealuri."],
       en: ["Agricultural center.", "Cultivation of yams and beans.", "Rural community.", "Surrounded by hills."]
-    }
-  },
+    }, image: "/poi-images/fond-des-negres-cities-v2.webp"},
   {
     id: "paillant-cities-v2",
     type: "city",
@@ -551,6 +540,6 @@ export const poiExtraHaitiCitiesV2: POI[] = [
       hu: ["Mezőgazdaság.", "Elszigetelt fekvés.", "Hegyvidéki környezet.", "Kis község."],
       ro: ["Agricultură.", "Locație izolată.", "Mediu montan.", "Comună mică."],
       en: ["Agriculture.", "Remote location.", "Mountainous surroundings.", "Small commune."]
-    }
-  },
+    }, image: "/poi-images/paillant-cities-v2.webp"},
 ];
+

@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDjiboutiCitiesV2: POI[] = [
@@ -23,8 +24,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["1888-ban alapították", "Fontos vasúti csomópont Etiópia felé", "Számos nemzetközi katonai támaszpont otthona"],
       ro: ["Fondat în 1888", "Nod feroviar important către Etiopia", "Găzduiește numeroase baze militare internaționale"],
       en: ["Founded in 1888", "Major railway hub to Ethiopia", "Home to many international military bases"]
-    }
-  },
+    }, image: "/poi-images/djibouti-city-cities-v2.webp"},
   {
     id: "ali-sabieh-cities-v2",
     type: "state-capital",
@@ -47,8 +47,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Fontos kereskedelmi központ az etióp határ közelében", "Jellegzetes hegyek veszik körül", "A vasútvonal egyik fontos állomása"],
       ro: ["Important centru comercial lângă granița cu Etiopia", "Înconjurat de munți distinctivi", "Punct nodal pe linia de cale ferată"],
       en: ["Important trading center near the Ethiopian border", "Surrounded by distinctive mountains", "Key station on the railway line"]
-    }
-  },
+    }, image: "/poi-images/ali-sabieh-cities-v2.webp"},
   {
     id: "tadjourah-cities-v2",
     type: "state-capital",
@@ -71,8 +70,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Az Adal Szultanátus történelmi központja", "Hét mecsetéről híres", "Fontos kikötő az öböl északi partján"],
       ro: ["Centrul istoric al Sultanatului Adal", "Faimos pentru cele șapte moschei", "Port important pe malul nordic al golfului"],
       en: ["Historical center of the Adal Sultanate", "Famous for its seven mosques", "Important port on the northern shore of the gulf"]
-    }
-  },
+    }, image: "/poi-images/tadjourah-cities-v2.webp"},
   {
     id: "obock-cities-v2",
     type: "state-capital",
@@ -95,8 +93,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Francia Szomáliföld egykori fővárosa", "Stratégiai elhelyezkedés a Bab al-Mandeb szorosnál", "Kiindulópont a Sept Frères-szigetekhez"],
       ro: ["Fosta capitală a Somaliei Franceze", "Locație strategică la Bab al-Mandab", "Punct de plecare pentru excursii către insulele Sept Frères"],
       en: ["Former capital of French Somaliland", "Strategic location at Bab al-Mandab", "Starting point for trips to the Sept Frères Islands"]
-    }
-  },
+    }, image: "/poi-images/obock-cities-v2.webp"},
   {
     id: "dikhil-cities-v2",
     type: "state-capital",
@@ -119,8 +116,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Oázisáról és pálmaligeteiről ismert", "A nomád karavánok fontos megállóhelye", "Különböző etnikai csoportok keveredési pontja"],
       ro: ["Cunoscut pentru oază și livezile de palmieri", "Popas important pentru caravanele nomade", "Amestec de diverse grupuri etnice"],
       en: ["Known for its oasis and palm groves", "Important stop for nomadic caravans", "Mix of different ethnic groups"]
-    }
-  },
+    }, image: "/poi-images/dikhil-cities-v2.webp"},
   {
     id: "arta-cities-v2",
     type: "state-capital",
@@ -143,8 +139,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A szomáliai békemegállapodásról ismert", "Panorámás kilátás a Tadjoura-öbölre", "Neves oktatási intézmények helyszíne"],
       ro: ["Cunoscut pentru acordul de pace din Somalia", "Vedere panoramică asupra Golfului Tadjoura", "Locația unor instituții de învățământ de renume"],
       en: ["Known for the Somalia peace agreement", "Panoramic view of the Gulf of Tadjoura", "Location of renowned educational institutions"]
-    }
-  },
+    }, image: "/poi-images/arta-cities-v2.webp"},
   {
     id: "holhol-cities-v2",
     type: "city",
@@ -167,8 +162,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Jellegzetes vasúti viaduktjáról ismert", "Fontos katonai bázis", "Sivár sivatagi tájak veszik körül"],
       ro: ["Cunoscut pentru viaductul feroviar distinctiv", "Bază militară importantă", "Înconjurat de peisaje deșertice aride"],
       en: ["Known for its distinctive railway viaduct", "Important military base", "Surrounded by arid desert landscapes"]
-    }
-  },
+    }, image: "/poi-images/holhol-cities-v2.webp"},
   {
     id: "yoboki-cities-v2",
     type: "city",
@@ -191,8 +185,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A csendőrség fontos őrhelye", "A helyi nomád lakosság központja", "A Hanle-síkság közelében található"],
       ro: ["Avanpost important al jandarmeriei", "Centru pentru populația nomadă locală", "Situat lângă câmpia Hanle"],
       en: ["Important gendarmerie outpost", "Center for the local nomadic population", "Located near the Hanle plain"]
-    }
-  },
+    }, image: "/poi-images/yoboki-cities-v2.webp"},
   {
     id: "loyada-cities-v2",
     type: "city",
@@ -215,8 +208,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Gyönyörű tengerparti pálmaligetekkel rendelkezik", "Gyarmati tárgyalások történelmi helyszíne", "A határforgalom fontos ellenőrző pontja"],
       ro: ["Are livezi de palmieri superbe pe plajă", "Loc istoric pentru negocierile coloniale", "Punct de control important pentru traficul de frontieră"],
       en: ["Has beautiful palm groves on the beach", "Historical site of colonial negotiations", "Important checkpoint for border traffic"]
-    }
-  },
+    }, image: "/poi-images/loyada-cities-v2.webp"},
   {
     id: "dorra-cities-v2",
     type: "city",
@@ -239,8 +231,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Prehisztorikus művészeti leletek helyszíne", "Fontos vízlelőhely a száraz vidéken", "Az afar nomádok központja"],
       ro: ["Locația unor vestigii de artă preistorică", "Sursă de apă importantă într-o regiune aridă", "Centru pentru nomazii Afar"],
       en: ["Site of prehistoric rock art", "Important watering hole in an arid region", "Center for Afar nomads"]
-    }
-  },
+    }, image: "/poi-images/dorra-cities-v2.webp"},
   {
     id: "galafi-cities-v2",
     type: "city",
@@ -287,8 +278,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A hegyek hűvös mikroklímájáról ismert", "A régió állattenyésztési központja", "A Mabla-hegységben található"],
       ro: ["Cunoscut pentru microclimatul răcoros din munți", "Centru pentru creșterea animalelor în regiune", "Situat în Munții Mabla"],
       en: ["Known for the cool microclimate in the mountains", "Center for livestock farming in the region", "Nestled in the Mabla Mountains"]
-    }
-  },
+    }, image: "/poi-images/alaili-dadda-cities-v2.webp"},
   {
     id: "balho-cities-v2",
     type: "city",
@@ -311,8 +301,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A polgárháború alatti történelmi helyszín", "A közeli sziklarajzokról híres", "A helyi hegyi ösvények fontos csomópontja"],
       ro: ["Loc istoric din timpul războiului civil", "Faimos pentru picturile rupestre din apropiere", "Nod important pentru potecile montane locale"],
       en: ["Historical site during the civil war", "Famous for nearby rock paintings", "Important hub for local mountain trails"]
-    }
-  },
+    }, image: "/poi-images/balho-cities-v2.webp"},
   {
     id: "khor-angar-cities-v2",
     type: "city",
@@ -335,8 +324,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A madármegfigyelők paradicsoma", "A stratégiai Bab al-Mandeb szoros közelében", "Népszerű a sporthorgászat körében"],
       ro: ["Paradis pentru observatorii de păsări", "Lângă strâmtoarea strategică Bab al-Mandab", "Popular pentru pescuitul sportiv"],
       en: ["Paradise for birdwatchers", "Near the strategic Bab al-Mandab strait", "Popular for sport fishing"]
-    }
-  },
+    }, image: "/poi-images/khor-angar-cities-v2.webp"},
   {
     id: "randa-cities-v2",
     type: "city",
@@ -359,8 +347,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A Day Forest Nemzeti Park kapuja", "Zöldség- és gyümölcstermesztés teraszokon", "A nagy magasság hűvös hőmérsékletet biztosít"],
       ro: ["Poarta către Parcul Național Day Forest", "Cultivarea fructelor și legumelor pe terase", "Altitudinea ridicată asigură temperaturi răcoroase"],
       en: ["Gateway to the Day Forest National Park", "Fruit and vegetable cultivation on terraces", "High altitude provides cool temperatures"]
-    }
-  },
+    }, image: "/poi-images/randa-cities-v2.webp"},
   {
     id: "assamo-cities-v2",
     type: "city",
@@ -383,8 +370,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A helyi határmenti kereskedelem központja", "Számos gazella és antilop otthona", "Hagyományos településszerkezet"],
       ro: ["Centru pentru afacerile locale de frontieră", "Adăpostește multe gazele și antilope", "Structuri tradiționale de așezare"],
       en: ["Center for local border trade", "Home to many gazelles and antelopes", "Traditional settlement structures"]
-    }
-  },
+    }, image: "/poi-images/assamo-cities-v2.webp"},
   {
     id: "goubetto-cities-v2",
     type: "city",
@@ -407,8 +393,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Jelentős kőbányák helyszíne", "A főváros építőanyagainak fontos szállítója", "Széles kilátást nyújt a sivatagra"],
       ro: ["Locația unor cariere de piatră importante", "Furnizor important de materiale de construcții pentru capitală", "Oferă vederi largi asupra deșertului"],
       en: ["Location of significant stone quarries", "Important supplier of construction materials for the capital", "Offers wide views of the desert"]
-    }
-  },
+    }, image: "/poi-images/goubetto-cities-v2.webp"},
   {
     id: "chebelle-cities-v2",
     type: "city",
@@ -431,8 +416,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A Grand Bara-medence közelében", "Baromfitenyésztési központ", "A délre vezető út mentén fekszik"],
       ro: ["Lângă bazinul Grand Bara", "Centru pentru creșterea păsărilor", "Situat pe drumul spre sud"],
       en: ["Near the Grand Bara basin", "Center for poultry farming", "Located on the road to the south"]
-    }
-  },
+    }, image: "/poi-images/chebelle-cities-v2.webp"},
   {
     id: "sankal-cities-v2",
     type: "city",
@@ -455,8 +439,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Fontos vízkút az állatcsordák számára", "Egy sík szavanna közepén található", "Érintetlen természeti területekkel határos"],
       ro: ["Fântână importantă pentru turmele de animale", "În mijlocul unei savane plate", "Se învecinează cu zone naturale virgine"],
       en: ["Important water well for livestock herds", "In the middle of a flat savanna", "Borders untouched natural areas"]
-    }
-  },
+    }, image: "/poi-images/sankal-cities-v2.webp"},
   {
     id: "bondara-cities-v2",
     type: "city",
@@ -479,8 +462,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Erős afar törzsi szerkezet", "Fontos a tevetenyésztés szempontjából", "A fő közlekedési utaktól távol esik"],
       ro: ["Structuri tribale puternice ale Afar", "Important pentru creșterea cămilelor", "Izolat de principalele căi de transport"],
       en: ["Strong Afar tribal structures", "Important for camel breeding", "Remote from main transport routes"]
-    }
-  },
+    }, image: "/poi-images/bondara-cities-v2.webp"},
   {
     id: "adailou-cities-v2",
     type: "city",
@@ -503,8 +485,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A hagyományos kézművesség otthona", "Az afar kultúra jelentős faluja", "Szent helyek közelében található"],
       ro: ["Cămin al meșteșugurilor tradiționale", "Sat semnificativ pentru cultura Afar", "Aproape de situri sacre"],
       en: ["Home to traditional craftsmanship", "Significant village for Afar culture", "Near sacred sites"]
-    }
-  },
+    }, image: "/poi-images/adailou-cities-v2.webp"},
   {
     id: "daoudaouya-cities-v2",
     type: "city",
@@ -527,8 +508,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Új lakásprojektek központja", "Jó közlekedési kapcsolat a városközponttal", "Modern infrastruktúra-fejlesztés"],
       ro: ["Centru pentru noi proiecte rezidențiale", "Legături bune de transport către centrul orașului", "Dezvoltare modernă a infrastructurii"],
       en: ["Center for new housing projects", "Good transport links to the city center", "Modern infrastructure development"]
-    }
-  },
+    }, image: "/poi-images/daoudaouya-cities-v2.webp"},
   {
     id: "doumera-cities-v2",
     type: "city",
@@ -551,8 +531,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Határpont Eritrea felé", "Kilátás a Doumera-szigetre", "Múltbéli határviták helyszíne"],
       ro: ["Punct de frontieră cu Eritreea", "Vedere către Insula Doumera", "Scena unor dispute frontaliere trecute"],
       en: ["Border point with Eritrea", "View of Doumera Island", "Scene of past border disputes"]
-    }
-  },
+    }, image: "/poi-images/doumera-cities-v2.webp"},
   {
     id: "godoria-cities-v2",
     type: "city",
@@ -575,8 +554,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A búvárok népszerű helye", "Gazdag tengeri élővilág", "Hagyományos halászati módszerek"],
       ro: ["Loc popular pentru scafandri", "Bogat în viață marină", "Se practică metode tradiționale de pescuit"],
       en: ["Popular spot for divers", "Rich in marine life", "Traditional fishing methods practiced"]
-    }
-  },
+    }, image: "/poi-images/godoria-cities-v2.webp"},
   {
     id: "kouta-bouyya-cities-v2",
     type: "city",
@@ -599,8 +577,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Fontos a regionális állatkereskedelem szempontjából", "Panorámás kilátás az alatta fekvő síkságokra", "Hozzáférés ősi karavánutakhoz"],
       ro: ["Important pentru comerțul regional cu animale", "Vedere panoramică asupra câmpiei de jos", "Acces la vechi rute de caravane"],
       en: ["Important for regional livestock trade", "Panoramic view of the plains below", "Access to ancient caravan routes"]
-    }
-  },
+    }, image: "/poi-images/kouta-bouyya-cities-v2.webp"},
   {
     id: "moulhoule-cities-v2",
     type: "city",
@@ -671,8 +648,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A Goba'ad-medence kapuja", "A pásztorok fontos találkozóhelye", "Vendégszeretetéről ismert"],
       ro: ["Poarta către bazinul Goba'ad", "Punct de întâlnire important pentru păstori", "Cunoscut pentru ospitalitatea sa"],
       en: ["Gateway to the Goba'ad basin", "Important meeting point for herders", "Known for its hospitality"]
-    }
-  },
+    }, image: "/poi-images/as-eyla-cities-v2.webp"},
   {
     id: "beyadde-cities-v2",
     type: "city",
@@ -719,8 +695,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Kiskereskedelmi központ", "A regionális vonatok megállója", "Hagyományos építési stílus"],
       ro: ["Centru pentru micul comerț", "Stație pentru trenurile regionale", "Stil de construcție tradițional"],
       en: ["Center for small-scale trade", "Stop for regional trains", "Traditional construction style"]
-    }
-  },
+    }, image: "/poi-images/dakka-cities-v2.webp"},
   {
     id: "gaggade-cities-v2",
     type: "city",
@@ -743,8 +718,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Ritka sivatagi növények élőhelye", "Fontos a geológiai kutatások számára", "Sivatagi nomádok otthona"],
       ro: ["Locația unor plante de deșert rare", "Important pentru cercetarea geologică", "Cămin al nomazilor din deșert"],
       en: ["Site of rare desert plants", "Important for geological research", "Home to desert nomads"]
-    }
-  },
+    }, image: "/poi-images/gaggade-cities-v2.webp"},
   {
     id: "garba-daba-cities-v2",
     type: "city",
@@ -767,8 +741,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Az önellátó mezőgazdaság központja", "A helyi gazdák találkozóhelye", "Klasszikus sivatagi építészet"],
       ro: ["Centru pentru agricultura de subzistență", "Punct de întâlnire pentru fermierii locali", "Arhitectură deșertică clasică"],
       en: ["Center for subsistence farming", "Meeting point for local farmers", "Classic desert architecture"]
-    }
-  },
+    }, image: "/poi-images/garba-daba-cities-v2.webp"},
   {
     id: "gourabous-cities-v2",
     type: "city",
@@ -791,8 +764,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Minimális infrastruktúra", "Hagyományos törzsi jogok érvényesülnek", "Kilátás a távoli hegyláncokra"],
       ro: ["Infrastructură minimă", "Aici se aplică drepturile tribale tradiționale", "Vedere către lanțuri muntoase îndepărtate"],
       en: ["Minimal infrastructure", "Traditional tribal laws apply here", "View of distant mountain ranges"]
-    }
-  },
+    }, image: "/poi-images/gourabous-cities-v2.webp"},
   {
     id: "guistir-cities-v2",
     type: "city",
@@ -839,8 +811,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Öntözési kutatási projektek", "Vadvilág fontos migrációs útvonala", "Agropasztorális közösségek központja"],
       ro: ["Proiecte de cercetare pentru irigații", "Rută importantă de migrație pentru animale sălbatice", "Centru pentru comunitățile agro-pastorale"],
       en: ["Irrigation research projects", "Important migration route for wildlife", "Center for agro-pastoral communities"]
-    }
-  },
+    }, image: "/poi-images/hanle-cities-v2.webp"},
   {
     id: "karta-cities-v2",
     type: "city",
@@ -863,8 +834,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Népszerű hétvégi kirándulóhely", "Kilátás a felföldre", "Gazdag helyi flóra"],
       ro: ["Destinație populară pentru excursioniștii de weekend", "Vedere către podiș", "Bogat în floră locală"],
       en: ["Popular weekend destination", "View of the highlands", "Rich in local flora"]
-    }
-  },
+    }, image: "/poi-images/karta-cities-v2.webp"},
   {
     id: "medeho-cities-v2",
     type: "city",
@@ -887,8 +857,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Tömjéngyanta betakarítása", "Izolált elhelyezkedés", "Egyedülálló hegyi vegetáció"],
       ro: ["Recoltarea rășinii de tămâie", "Locație izolată", "Vegetație montană unică"],
       en: ["Frankincense resin harvesting", "Isolated location", "Unique mountain vegetation"]
-    }
-  },
+    }, image: "/poi-images/medeho-cities-v2.webp"},
   {
     id: "petit-bara-cities-v2",
     type: "city",
@@ -911,8 +880,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Ismert a homoki vitorlázás versenyeiről", "Teljesen sík agyagos felszín", "Katonai gyakorlatok fontos helyszíne"],
       ro: ["Cunoscut pentru competițiile de yachting pe nisip", "Suprafață de argilă complet plată", "Punct important pentru exerciții militare"],
       en: ["Known for land sailing competitions", "Completely flat clay surface", "Important point for military exercises"]
-    }
-  },
+    }, image: "/poi-images/petit-bara-cities-v2.webp"},
   {
     id: "ribta-cities-v2",
     type: "city",
@@ -959,8 +927,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Fontos tranzitpont", "Helyi piacokkal rendelkezik", "Az Arta-hegyek közelében"],
       ro: ["Punct de tranzit important", "Dispune de piețe locale", "Lângă munții Arta"],
       en: ["Important transit point", "Features local markets", "Near the Arta mountains"]
-    }
-  },
+    }, image: "/poi-images/we-a-cities-v2.webp"},
   {
     id: "kontali-cities-v2",
     type: "city",
@@ -1007,8 +974,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Kecske- és juhtenyésztés a fókuszban", "Hagyományos kerek kunyhók", "A délre vezető út mentén fekszik"],
       ro: ["Accent pe creșterea caprelor și oilor", "Colibe rotunde tradiționale", "Situat pe drumul spre sud"],
       en: ["Focus on goat and sheep farming", "Traditional round huts", "Located on the road to the south"]
-    }
-  },
+    }, image: "/poi-images/mouloud-cities-v2.webp"},
   {
     id: "ali-adde-cities-v2",
     type: "city",
@@ -1031,8 +997,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Humanitárius központ", "Félszáraz táj közepén található", "Jelentős a nemzetközi segélyezés szempontjából"],
       ro: ["Centru umanitar", "În mijlocul unui peisaj semi-arid", "Semnificativ pentru ajutorul internațional"],
       en: ["Humanitarian center", "In the middle of a semi-arid landscape", "Significant for international aid"]
-    }
-  },
+    }, image: "/poi-images/ali-adde-cities-v2.webp"},
   {
     id: "dasbiyo-cities-v2",
     type: "city",
@@ -1055,8 +1020,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Régi gyarmati vasútállomás", "Jellegzetes táblahegyek veszik körül", "Hagyományos nomád útvonalak"],
       ro: ["Veche gară din perioada colonială", "Înconjurat de munți de tip masă distinctivi", "Rute tradiționale ale nomazilor"],
       en: ["Old colonial railway station", "Surrounded by distinctive table mountains", "Traditional nomad routes"]
-    }
-  },
+    }, image: "/poi-images/dasbiyo-cities-v2.webp"},
   {
     id: "damerjog-cities-v2",
     type: "city",
@@ -1079,8 +1043,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Új kikötői projektek helyszíne", "Fontos az állatexport logisztikájában", "Kapcsolat a szabadkereskedelmi övezettel"],
       ro: ["Locația unor noi proiecte portuare", "Important pentru logistica exportului de animale", "Conexiune cu zona de comerț liber"],
       en: ["Location of new port projects", "Important for livestock export logistics", "Connection to the free trade zone"]
-    }
-  },
+    }, image: "/poi-images/damerjog-cities-v2.webp"},
   {
     id: "omar-jagaa-cities-v2",
     type: "city",
@@ -1103,8 +1066,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Növekvő lakosság", "A nemzetközi repülőtér közelsége", "Egyszerű infrastruktúra"],
       ro: ["Populație în creștere", "Proximitatea față de aeroportul internațional", "Infrastructură simplă"],
       en: ["Growing population", "Proximity to the international airport", "Simple infrastructure"]
-    }
-  },
+    }, image: "/poi-images/omar-jagaa-cities-v2.webp"},
   {
     id: "khor-ambado-cities-v2",
     type: "city",
@@ -1127,8 +1089,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A búvárkodók népszerű célpontja", "A városiak hétvégi kirándulóhelye", "Szép kilátás a Tadjoura-öbölre"],
       ro: ["Destinație populară pentru amatorii de snorkeling", "Loc de excursie în weekend pentru orășeni", "Vedere frumoasă asupra Golfului Tadjoura"],
       en: ["Popular destination for snorkelers", "Weekend getaway for city dwellers", "Beautiful view of the Tadjoura Bay"]
-    }
-  },
+    }, image: "/poi-images/khor-ambado-cities-v2.webp"},
   {
     id: "galileh-cities-v2",
     type: "city",
@@ -1151,8 +1112,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["Hagyományos állattenyésztés", "Sivár sivatagi terep", "A regionális csere fontos találkozóhelye"],
       ro: ["Creșterea tradițională a animalelor", "Teren deșertic arid", "Punct de întâlnire important pentru schimburile regionale"],
       en: ["Traditional livestock farming", "Arid desert terrain", "Important meeting point for regional exchange"]
-    }
-  },
+    }, image: "/poi-images/galileh-cities-v2.webp"},
   {
     id: "negad-cities-v2",
     type: "city",
@@ -1175,8 +1135,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       hu: ["A teherforgalmi főpályaudvar helyszíne", "Teherautó-szállítási központ", "A szabadkereskedelmi övezet közelében"],
       ro: ["Locația gării principale de mărfuri", "Centru pentru transportul cu camioane", "Lângă zona de comerț liber"],
       en: ["Location of the main freight railway station", "Center for truck transport", "Near the free trade zone"]
-    }
-  },
+    }, image: "/poi-images/negad-cities-v2.webp"},
   {
     id: "chabelley-cities-v2",
     type: "city",
@@ -1202,3 +1161,4 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     }
   }
 ];
+

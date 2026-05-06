@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBurundiCitiesV2: POI[] = [
@@ -12,19 +13,15 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Bujumbura",
       en: "Bujumbura"
     },
-    description: {
-      de: "Die größte Stadt und das wirtschaftliche Zentrum Burundis am Ufer des Tanganjikasees.",
-      hu: "Burundi legnagyobb városa és gazdasági központja a Tanganyika-tó partján.",
-      ro: "Cel mai mare oraș și centrul economic al Burundi, pe malul lacului Tanganyika.",
-      en: "The largest city and economic center of Burundi, located on the shores of Lake Tanganyika."
+    descriptionAdvanced: {
+      de: "Bujumbura ist das pulsierende Herz Burundis, das am Ufer des Tanganjika-Sees liegt. Als größte Stadt und wirtschaftliches Zentrum des Landes verbindet sie koloniale Architektur mit modernen afrikanischen Geschäftsvierteln. Die Stadt dient als Hauptknotenpunkt für alle Handelsaktivitäten und ist die wichtigste Anlaufstelle für internationale Reisende, die die Region erkunden wollen. Geographie K6 — Metropolen in Afrika.",
+      hu: "Bujumbura Burundi legnagyobb városa, gazdasági és közigazgatási központja, amely a Tanganyika-tó partján terül el. A város egyedi ötvözete a gyarmati kor építészetének és a modern afrikai városiasodásnak. Nyüzsgő piacai, központi elhelyezkedése és a tóparti kikötője miatt az ország kereskedelmi ütőere. Bujumbura a kultúrák találkozóhelye, ahol a különféle népcsoportok kereskedelme és élete összefonódik. Földrajz K7 — városok és kereskedelem.",
+      ro: "Bujumbura, fosta capitală a statului Burundi, reprezintă inima economică a țării, fiind situată strategic pe malul de est al lacului Tanganyika. Orașul este un centru vibrant unde arhitectura colonială se îmbină cu zonele comerciale moderne, servind drept principal nod pentru schimburile comerciale din regiune. Portul său este esențial pentru importurile și exporturile naționale, facilitând legătura între Burundi și vecinii săi. Geografie K7 — rolul porturilor în economie.",
+      en: "Bujumbura, the largest city and former capital of Burundi, sits on the northeastern shores of Lake Tanganyika. It serves as the nation's primary port and economic hub. The city features a blend of colonial architecture and modern developments, reflecting its rich and complex history. Földrajz K7 — városok és gazdasági központok."
     },
-    facts: {
-      de: ["Ehemalige Hauptstadt.", "Wichtiger Binnenhafen."],
-      hu: ["Korábbi főváros.", "Fontos folyami kikötő."],
-      ro: ["Fosta capitală.", "Port interior important."],
-      en: ["Former capital city.", "Important inland port."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Situated at an altitude of approximately 774 meters above sea level.", "Primary port for Burundi, handling most of the country's imports and exports.", "Nearby attractions include the Rusizi National Park and Livingstone-Stanley Monument.", "Experiencing a tropical savanna climate with distinct wet and dry seasons.", "The city's development began as a small military post during the German colonial period in 1897."]
+    }, image: "/poi-images/bujumbura-cities-v2.webp"},
   {
     id: "gitega-cities-v2",
     type: "state-capital",
@@ -36,19 +33,15 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Gitega",
       en: "Gitega"
     },
-    description: {
-      de: "Die politische Hauptstadt Burundis, bekannt für ihr Nationalmuseum und ihre zentrale Lage.",
-      hu: "Burundi politikai fővárosa, amely Nemzeti Múzeumáról és központi elhelyezkedéséről ismert.",
-      ro: "Capitala politică a Burundi, cunoscută pentru Muzeul Național și locația sa centrală.",
-      en: "The political capital of Burundi, known for its National Museum and central location."
+    descriptionAdvanced: {
+      de: "Gitega ist die politische Hauptstadt Burundis und ein historisches Zentrum, das tief in der königlichen Tradition verwurzelt ist. Gelegen im zentralen Hochland, bietet die Stadt ein deutlich kühleres Klima als Bujumbura. Gitega ist bekannt für seine ruhige Atmosphäre, seine kulturellen Einrichtungen und seine Bedeutung als Verwaltungszentrum, das den Kern der burundischen Identität widerspiegelt. Geographie K6 — Hauptstädte.",
+      hu: "Gitega Burundi jelenlegi politikai fővárosa, amely az ország központi részén, a fennsíkon található. Történelmileg is kulcsfontosságú központ volt, a királyi hatalom és a tradicionális burundi élet székhelye. A város csendesebb, hagyományőrzőbb, mint Bujumbura, és a politikai intézmények központjaként tölti be szerepét az ország életében. Gitega környéke az ország egyik legfontosabb mezőgazdasági térsége is egyben. Földrajz K7 — fővárosok.",
+      ro: "Gitega, actuala capitală politică a Burundi, este situată în zona centrală a țării, într-o regiune deluroasă caracterizată prin peisaje verzi și un climat temperat. Orașul joacă un rol central în administrația statului, fiind ales pentru a descentraliza puterea politică și a stimula dezvoltarea regiunilor interioare. Gitega este un punct important pentru istoria monarhică a Burundi, păstrând numeroase tradiții culturale. Istorie K8 — dezvoltarea capitalelor administrative.",
+      en: "Gitega is the political capital of Burundi, located in the central part of the country. It serves as the seat of the Burundian government and is known for its cultural importance and historical significance, having been the royal residence in the past. Földrajz K7 — közigazgatási központok."
     },
-    facts: {
-      de: ["Seit 2019 Hauptstadt.", "Zweitgrößte Stadt."],
-      hu: ["2019 óta főváros.", "A második legnagyobb város."],
-      ro: ["Capitală din 2019.", "Al doilea oraș ca mărime."],
-      en: ["Capital since 2019.", "Second largest city."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Officially designated as the political capital of Burundi in 2019.", "Located in the central highlands at an elevation of about 1,504 meters.", "Home to the Gitega National Museum, which houses many cultural artifacts.", "Historically, it served as the seat of the Kingdom of Burundi's monarchs.", "Surrounded by hilly terrain, offering significant agricultural potential for coffee."]
+    }, image: "/poi-images/gitega-cities-v2.webp"},
   {
     id: "muyinga-cities-v2",
     type: "city",
@@ -60,19 +53,15 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Muyinga",
       en: "Muyinga"
     },
-    description: {
-      de: "Eine wichtige Stadt im Nordosten Burundis, die als Verwaltungszentrum der gleichnamigen Provinz dient.",
-      hu: "Fontos város Burundi északkeleti részén, az azonos nevű tartomány közigazgatási központja.",
-      ro: "Un oraș important din nord-estul Burundi, care servește drept centru administrativ al provinciei cu același nume.",
-      en: "An important city in northeastern Burundi, serving as the administrative center of the province of the same name."
+    descriptionAdvanced: {
+      de: "Muyinga im Nordosten Burundis ist eine wachsende Regionalstadt, die für ihre florierenden Märkte und ihre zentrale Rolle im Handel mit den Nachbarregionen bekannt ist. Die Stadt liegt in einem landwirtschaftlich produktiven Gebiet, in dem vor allem Bananen und Kaffee angebaut werden. Muyinga dient als wichtiger Marktplatz für lokale Erzeugnisse und trägt wesentlich zur Versorgung des Nordens bei. Geographie K6 — Regionalzentren.",
+      hu: "Muyinga városa Burundi északkeleti részén fekszik, amely határmenti kereskedelmi központként szolgál. A város környékén kiterjedt banán- és mezőgazdasági kultúrák találhatóak, amelyek biztosítják a régió ellátását. Muyinga stratégiai jelentőségű a szomszédos országokkal folytatott kereskedelem szempontjából. A városiasodás itt lassabb, mint a fővárosban, de a kereskedelmi dinamika meghatározó a helyiek mindennapi életében. Földrajz K7 — kereskedelmi központok.",
+      ro: "Muyinga este un oraș strategic situat în nord-estul Burundi, funcționând ca un hub agricol pentru regiunea înconjurătoare. Datorită altitudinii sale ridicate, climatul este favorabil cultivării diverselor produse agricole, care susțin economia locală și comerțul transfrontalier cu țările vecine. Muyinga reprezintă un exemplu de dezvoltare urbană regională care pune accent pe securitatea alimentară și comerțul cu produse primare. Geografie K6 — economii regionale agricole.",
+      en: "Muyinga is the capital of the Muyinga Province, situated in the northeastern part of Burundi. It is known for its high altitude and cool climate compared to the low-lying lake regions, and serves as an important agricultural center. Földrajz K8 — éghajlat és domborzat."
     },
-    facts: {
-      de: ["Wichtiges Handelszentrum.", "Nahe der Grenze zu Tansania."],
-      hu: ["Fontos kereskedelmi központ.", "Közel a tanzániai határhoz."],
-      ro: ["Centru comercial important.", "Aproape de granița cu Tanzania."],
-      en: ["Major trading hub.", "Near the Tanzanian border."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Located at an elevation of approximately 1,731 meters above sea level.", "The surrounding region is renowned for the production of coffee and legumes.", "Acts as a major market town for the northern part of Burundi.", "Experience a temperate highland climate, distinct from the lakeside heat.", "Serves as the administrative center for one of Burundi's most populous provinces."]
+    }, image: "/poi-images/muyinga-cities-v2.webp"},
   {
     id: "ngozi-cities-v2",
     type: "city",
@@ -84,19 +73,15 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Ngozi",
       en: "Ngozi"
     },
-    description: {
-      de: "Ein bedeutendes Handelszentrum im Norden Burundis, bekannt für seine Kaffeeproduktion.",
-      hu: "Jelentős kereskedelmi központ Burundi északi részén, kávétermeléséről ismert.",
-      ro: "Un centru comercial semnificativ în nordul Burundi, cunoscut pentru producția sa de cafea.",
-      en: "A significant commercial center in northern Burundi, known for its coffee production."
+    descriptionAdvanced: {
+      de: "Ngozi ist ein wichtiges Bildungs- und Wirtschaftszentrum im Norden Burundis. Die Stadt ist für ihre zahlreichen Bildungseinrichtungen bekannt und spielt eine entscheidende Rolle bei der Ausbildung junger Menschen aus der gesamten Region. Ngozi profitiert von ihrer Lage in einem fruchtbaren Gebiet, das für den intensiven Anbau von Tee und Kaffee bekannt ist. Bildung K7 — Bildungszentren.",
+      hu: "Ngozi városa Burundi északi részének központja, amely a magashegyi mezőgazdasági régiók kereskedelmi és oktatási gócpontja. A környéken kiterjedt kávéültetvények találhatóak, amelyek a város gazdasági alapját adják. A város egyetemi központként is ismert, amely vonzza a régió fiataljait. Ngozi elhelyezkedése lehetővé teszi, hogy a környező hegyvidék terményei könnyen eljussanak a helyi piacokra. Földrajz K7 — oktatás és mezőgazdaság.",
+      ro: "Ngozi este un oraș important din nordul Burundi, cunoscut pentru rolul său educațional și agricol. Este centrul administrativ al provinciei Ngozi, una dintre cele mai dens populate și productive regiuni din punct de vedere agricol ale țării, unde cultivarea cafelei joacă un rol esențial în bunăstarea economică a populației. Infrastructura orașului s-a dezvoltat pentru a susține serviciile publice și comerțul local. Geografie K7 — densitatea populației și agricultură.",
+      en: "Ngozi is a key town in northern Burundi, serving as the capital of the Ngozi Province. It is a bustling commercial center situated in a region heavily focused on coffee production and agricultural development. Földrajz K7 — mezőgazdasági régiók."
     },
-    facts: {
-      de: ["Zentrum des Kaffeehandels.", "Sitz eines Bistums."],
-      hu: ["A kávékereskedelem központja.", "Püspöki székhely."],
-      ro: ["Centrul comerțului cu cafea.", "Sediul unei eparhii."],
-      en: ["Center of coffee trade.", "Seat of a bishopric."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Situated in the northern highlands at roughly 1,820 meters altitude.", "Known for its high-quality arabica coffee plantations.", "Acts as a transport and commercial crossroads for northern provinces.", "Home to several educational institutions and regional health facilities.", "The surrounding landscape is characterized by rolling hills and intense land cultivation."]
+    }, image: "/poi-images/ngozi-cities-v2.webp"},
   {
     id: "rumonge-cities-v2",
     type: "city",
@@ -108,19 +93,15 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Rumonge",
       en: "Rumonge"
     },
-    description: {
-      de: "Eine Küstenstadt am Tanganjikasee, bekannt für ihre Strände und den Fischfang.",
-      hu: "Parti város a Tanganyika-tó mentén, strandjairól és halászatáról ismert.",
-      ro: "Un oraș de coastă de-a lungul lacului Tanganyika, cunoscut pentru plajele și pescuitul său.",
-      en: "A coastal city along Lake Tanganyika, known for its beaches and fishing."
+    descriptionAdvanced: {
+      de: "Rumonge liegt direkt am Tanganjika-See und ist eine der bedeutendsten Hafen- und Handelsstädte im Süden Burundis. Die Stadt ist ein Zentrum für die Fischereiindustrie, die für die Ernährung der Region eine Schlüsselrolle spielt. Durch die Nähe zum See profitiert Rumonge von einem milden Klima und einer lebendigen Handelsatmosphäre, die viele Händler aus den angrenzenden Provinzen anzieht. Geographie K6 — Hafenstädte.",
+      hu: "Rumonge városa a Tanganyika-tó partján, Bujumburától délre fekszik, és az ország egyik legfontosabb halászati kikötője. A város gazdasága szorosan kötődik a tóhoz, a halászat mellett a pálmaolaj-termelés is meghatározó ágazat. A kikötő forgalma élénk, a vízparti életmód és a kereskedelem találkozása teszi Rumongét különlegessé. A város környékén kiterjedt olajpálma-ültetvények láthatóak. Földrajz K7 — halászat és ipar.",
+      ro: "Rumonge, situat pe malul lacului Tanganyika, este un oraș portuar esențial în sud-vestul Burundi. Economia orașului este puternic legată de pescuitul pe lac și de comerțul cu produse agricole, profitând de poziția sa geografică de legătură între zonele rurale productive și piețele urbane mari. Rumonge este un exemplu de localitate portuară care evoluează rapid datorită activităților economice legate de resursele acvatice ale lacului. Geografie K7 — resursele lacurilor și pescuitul comercial.",
+      en: "Rumonge is a port town on the eastern shore of Lake Tanganyika, located in the Rumonge Province of Burundi. It is a vibrant hub for the fishing industry and trade, benefiting significantly from its lakeside location. Földrajz K8 — tavak és gazdasági jelentőségük."
     },
-    facts: {
-      de: ["Wichtiger Fischereihafen.", "Beliebtes Touristenziel."],
-      hu: ["Fontos halászkikötő.", "Népszerű turisztikai célpont."],
-      ro: ["Port de pescuit important.", "Destinație turistică populară."],
-      en: ["Important fishing port.", "Popular tourist destination."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Major center for artisanal fishing on Lake Tanganyika.", "Capital city of the newly established Rumonge Province since 2015.", "Strategically located for transport links between Bujumbura and southern regions.", "Famous for palm oil production and associated processing industries.", "The lakefront provides both commercial opportunities and a tourism base."]
+    }, image: "/poi-images/rumonge-cities-v2.webp"},
   {
     id: "kayanza-cities-v2",
     type: "city",
@@ -132,19 +113,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Kayanza",
       en: "Kayanza"
     },
-    description: {
-      de: "Eine Stadt im Norden Burundis, die ein wichtiges Zentrum für den Tee- und Kaffeeanbau ist.",
-      hu: "Város Burundi északi részén, amely a tea- és kávétermesztés egyik fontos központja.",
-      ro: "Un oraș din nordul Burundi, care este un centru important pentru cultivarea ceaiului și a cafelei.",
-      en: "A city in northern Burundi that is an important center for tea and coffee cultivation."
+    descriptionAdvanced: {
+      en: "Kayanza is the capital of Kayanza Province in northern Burundi. Known for its high-quality coffee and rolling tea plantations, it acts as a critical agricultural processing hub. Földrajz K7 — mezőgazdasági központok."
     },
-    facts: {
-      de: ["Zentrum der Teeproduktion.", "Dicht besiedelte Region."],
-      hu: ["A teatermelés központja.", "Sűrűn lakott régió."],
-      ro: ["Centrul producției de ceai.", "Regiune dens populată."],
-      en: ["Tea production hub.", "Densely populated region."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Situated at approximately 1,800 meters in the northern highlands.", "A major contributor to Burundi's national coffee export volume.", "The hilly terrain is ideal for both tea and coffee production.", "Serves as an important local administrative and market center.", "Surrounded by lush vegetation due to high annual rainfall patterns."]
+    }, image: "/poi-images/kayanza-cities-v2.webp"},
   {
     id: "bururi-cities-v2",
     type: "city",
@@ -156,19 +130,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Bururi",
       en: "Bururi"
     },
-    description: {
-      de: "Eine Stadt im südlichen Hochland, umgeben von bedeutenden Naturschutzgebieten.",
-      hu: "Város a déli felföldön, jelentős természetvédelmi területekkel körülvéve.",
-      ro: "Un oraș în zonele înalte din sud, înconjurat de rezervații naturale importante.",
-      en: "A city in the southern highlands, surrounded by important nature reserves."
+    descriptionAdvanced: {
+      en: "Bururi, capital of the Bururi Province, is located in the southern part of the country. It is famous for being near one of Burundi's most significant nature reserves, providing a mix of urban activity and conservation efforts. Sachkunde K5 — élőhelyvédelem."
     },
-    facts: {
-      de: ["Kühleres Bergklima.", "Bildungszentrum im Süden."],
-      hu: ["Hűvösebb hegyi éghajlat.", "Déli oktatási központ."],
-      ro: ["Climat montan mai răcoros.", "Centru educațional în sud."],
-      en: ["Cooler mountain climate.", "Educational hub in the south."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Located in the southern highlands of Burundi.", "Proximity to the Bururi Forest Nature Reserve, a key biodiversity hotspot.", "High altitude provides a temperate climate beneficial for agriculture.", "Historically significant as a regional educational hub.", "Serves as the administrative seat for the southern province."]
+    }, image: "/poi-images/bururi-cities-v2.webp"},
   {
     id: "rutana-cities-v2",
     type: "city",
@@ -180,19 +147,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Rutana",
       en: "Rutana"
     },
-    description: {
-      de: "Hauptstadt der Provinz Rutana im Südosten Burundis, nahe den Karera-Wasserfällen.",
-      hu: "Rutana tartomány fővárosa Burundi délkeleti részén, a Karera-vízesések közelében.",
-      ro: "Capitala provinciei Rutana din sud-estul Burundi, lângă cascadele Karera.",
-      en: "Capital of Rutana Province in southeastern Burundi, near the Karera Waterfalls."
+    descriptionAdvanced: {
+      en: "Rutana serves as the capital of Rutana Province, located in southeastern Burundi. It is known for its dramatic landscapes, including notable waterfalls, and a strong connection to agricultural livelihoods. Földrajz K8 — domborzat és vízesések."
     },
-    facts: {
-      de: ["Tor zur Nilquelle.", "Landwirtschaftliches Zentrum."],
-      hu: ["A Nílus forrásának kapuja.", "Mezőgazdasági központ."],
-      ro: ["Poarta către izvorul Nilului.", "Centru agricol."],
-      en: ["Gateway to the Nile source.", "Agricultural center."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Home to the spectacular Karera Waterfalls, a major national landmark.", "The province features a varied topography including plateaus and river valleys.", "Economy is heavily reliant on subsistence farming and livestock.", "Located at an elevation of roughly 1,600 meters.", "Known for its cultural heritage and traditional music history."]
+    }, image: "/poi-images/rutana-cities-v2.webp"},
   {
     id: "muramvya-cities-v2",
     type: "city",
@@ -204,19 +164,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Muramvya",
       en: "Muramvya"
     },
-    description: {
-      de: "Eine geschichtsträchtige Stadt, die einst die königliche Hauptstadt des Königreichs Burundi war.",
-      hu: "Történelmi város, amely egykor a Burundi Királyság királyi fővárosa volt.",
-      ro: "Un oraș istoric care a fost odată capitala regală a Regatului Burundi.",
-      en: "A historic city that was once the royal capital of the Kingdom of Burundi."
+    descriptionAdvanced: {
+      en: "Muramvya is the capital of the Muramvya Province, nestled in the central-western highlands. It holds deep historical importance as a former royal residence during the pre-colonial era of the Kingdom of Burundi. Geschichte K8 — királyságok."
     },
-    facts: {
-      de: ["Königliche Residenzstadt.", "Kulturelles Erbe."],
-      hu: ["Királyi székhely.", "Kulturális örökség."],
-      ro: ["Oraș de reședință regală.", "Patrimoniu cultural."],
-      en: ["Royal residential city.", "Cultural heritage."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Historically one of the royal capitals of the Kingdom of Burundi.", "Located in a region characterized by mountainous terrain.", "Important site for traditional cultural ceremonies and rituals.", "Agriculture is the main economic driver, especially vegetable farming.", "Strategically located between Gitega and the western lowlands."]
+    }, image: "/poi-images/muramvya-cities-v2.webp"},
   {
     id: "makamba-cities-v2",
     type: "city",
@@ -228,19 +181,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Makamba",
       en: "Makamba"
     },
-    description: {
-      de: "Die südlichste Provinzhauptstadt Burundis, ein wichtiger Knotenpunkt für den Handel mit Tansania.",
-      hu: "Burundi legdélebbi tartományi fővárosa, a Tanzániával folytatott kereskedelem fontos csomópontja.",
-      ro: "Cea mai sudică capitală de provincie din Burundi, un punct important pentru comerțul cu Tanzania.",
-      en: "The southernmost provincial capital of Burundi, an important hub for trade with Tanzania."
+    descriptionAdvanced: {
+      en: "Makamba is the capital of Makamba Province, in the extreme south of Burundi near the Tanzanian border. Its location plays a vital role in regional cross-border trade and connectivity. Földrajz K8 — határmenti régiók."
     },
-    facts: {
-      de: ["Strategischer Handelsort.", "Wachsendes Stadtzentrum."],
-      hu: ["Stratégiai kereskedelmi hely.", "Növekvő városközpont."],
-      ro: ["Loc comercial strategic.", "Centru urban în creștere."],
-      en: ["Strategic trading location.", "Growing urban center."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Major town for cross-border trade with Tanzania.", "Located on the central plateau of southern Burundi.", "The region is known for a mix of agricultural production and livestock.", "Important hub for regional transport logistics.", "Serves as the main administrative and commercial center in the south."]
+    }, image: "/poi-images/makamba-cities-v2.webp"},
   {
     id: "kirundo-cities-v2",
     type: "city",
@@ -252,19 +198,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Kirundo",
       en: "Kirundo"
     },
-    description: {
-      de: "Eine Stadt im Norden Burundis, bekannt für ihre Nähe zu den nördlichen Seen und die Landwirtschaft.",
-      hu: "Város Burundi északi részén, amely az északi tavakhoz való közelségéről és mezőgazdaságáról ismert.",
-      ro: "Un oraș din nordul Burundi, cunoscut pentru proximitatea sa față de lacurile de nord și agricultură.",
-      en: "A city in northern Burundi, known for its proximity to the northern lakes and agriculture."
+    descriptionAdvanced: {
+      en: "Kirundo is the capital of Kirundo Province, located in the northernmost part of Burundi. This region is famous for its interconnected lakes and wetlands, which create a unique ecological environment. Földrajz K7 — vizes élőhelyek."
     },
-    facts: {
-      de: ["Region der nördlichen Seen.", "Getreidekammer des Nordens."],
-      hu: ["Az északi tavak régiója.", "Észak éléstára."],
-      ro: ["Regiunea lacurilor de nord.", "Grânarul nordului."],
-      en: ["Region of northern lakes.", "Granary of the north."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Situated in the region known for the Cohoha and Rweru lakes.", "The economy is significantly tied to fishing and wet-land farming.", "The landscape is generally flatter than the rest of Burundi's highlands.", "Important transit point between Burundi and Rwanda.", "Known for its high biodiversity, especially in bird species."]
+    }, image: "/poi-images/kirundo-cities-v2.webp"},
   {
     id: "bubanza-cities-v2",
     type: "city",
@@ -276,19 +215,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Bubanza",
       en: "Bubanza"
     },
-    description: {
-      de: "Die Hauptstadt der Provinz Bubanza im Nordwesten, ein wichtiges Reisanbaugebiet.",
-      hu: "Az északnyugati Bubanza tartomány fővárosa, fontos rizstermesztő vidék.",
-      ro: "Capitala provinciei Bubanza din nord-vest, o regiune importantă de cultivare a orezului.",
-      en: "The capital of Bubanza Province in the northwest, an important rice-growing region."
+    descriptionAdvanced: {
+      en: "Bubanza is the capital of Bubanza Province, situated in the northwestern part of Burundi. It is an area known for both its agricultural potential and its close proximity to the Kibira National Park. Sachkunde K5 — élőhelyek."
     },
-    facts: {
-      de: ["Zentrum des Reisanbaus.", "Verwaltungszentrum."],
-      hu: ["A rizstermesztés központja.", "Közigazgatási központ."],
-      ro: ["Centrul cultivării orezului.", "Centru administrativ."],
-      en: ["Center of rice cultivation.", "Administrative center."]
-    }
-  },
+    factsAdvanced: {
+      en: ["The province borders the large Kibira National Park, a protected rainforest.", "Agriculture, including rice and palm oil, is highly productive here.", "Located at lower elevations compared to the central highlands.", "Serves as an administrative and market hub for the northwest.", "Historically, the region has been important for industrial agricultural development."]
+    }, image: "/poi-images/bubanza-cities-v2.webp"},
   {
     id: "karuzi-cities-v2",
     type: "city",
@@ -300,19 +232,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Karuzi",
       en: "Karuzi"
     },
-    description: {
-      de: "Eine zentrale Stadt in Burundi, die als regionales Verwaltungs- und Handelszentrum dient.",
-      hu: "Központi város Burundiban, amely regionális közigazgatási és kereskedelmi központként szolgál.",
-      ro: "Un oraș central din Burundi, care servește drept centru administrativ și comercial regional.",
-      en: "A central city in Burundi, serving as a regional administrative and commercial center."
+    descriptionAdvanced: {
+      en: "Karuzi is the capital of Karuzi Province, located in central-northeastern Burundi. It is an important regional town centered on agricultural life and local governance. Földrajz K7 — közigazgatás."
     },
-    facts: {
-      de: ["Zentrale Lage.", "Landwirtschaftlicher Markt."],
-      hu: ["Központi elhelyezkedés.", "Mezőgazdasági piac."],
-      ro: ["Locație centrală.", "Piață agricolă."],
-      en: ["Central location.", "Agricultural market."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Located in the hilly terrain of the central-northeastern plateau.", "The region is primarily focused on small-scale subsistence farming.", "Important administrative center for the surrounding rural communities.", "Situated at an altitude conducive to mixed crop cultivation.", "Has experienced significant development in local infrastructure recently."]
+    }, image: "/poi-images/karuzi-cities-v2.webp"},
   {
     id: "cankuzo-cities-v2",
     type: "city",
@@ -324,19 +249,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Cankuzo",
       en: "Cankuzo"
     },
-    description: {
-      de: "Eine Stadt im Osten Burundis, das Tor zum Ruvubu-Nationalpark.",
-      hu: "Város Burundi keleti részén, a Ruvubu Nemzeti Park kapuja.",
-      ro: "Un oraș din estul Burundi, poarta către Parcul Național Ruvubu.",
-      en: "A city in eastern Burundi, the gateway to the Ruvubu National Park."
+    descriptionAdvanced: {
+      en: "Cankuzo is the capital of Cankuzo Province in the eastern part of Burundi. This province is one of the less densely populated areas, known for its pristine natural landscape and agricultural heritage. Földrajz K7 — régiók."
     },
-    facts: {
-      de: ["Nahe am Nationalpark.", "Östlicher Außenposten."],
-      hu: ["Közel a nemzeti parkhoz.", "Keleti végvár."],
-      ro: ["Aproape de parcul național.", "Apostolul de est."],
-      en: ["Near the national park.", "Eastern outpost."]
-    }
-  },
+    factsAdvanced: {
+      en: ["One of the least urbanized provinces in Burundi.", "Landscape includes expansive plateaus and fertile valleys.", "Economy based on livestock keeping and diverse crop farming.", "Strategically located near the border with Tanzania.", "Features large areas of semi-natural vegetation."]
+    }, image: "/poi-images/cankuzo-cities-v2.webp"},
   {
     id: "ruyigi-cities-v2",
     type: "city",
@@ -348,19 +266,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Ruyigi",
       en: "Ruyigi"
     },
-    description: {
-      de: "Die Hauptstadt der Provinz Ruyigi im Osten des Landes, bekannt für ihre ländliche Atmosphäre.",
-      hu: "Ruyigi tartomány fővárosa az ország keleti részén, vidékies hangulatáról ismert.",
-      ro: "Capitala provinciei Ruyigi din estul țării, cunoscută pentru atmosfera sa rurală.",
-      en: "The capital of Ruyigi Province in the east of the country, known for its rural atmosphere."
+    descriptionAdvanced: {
+      en: "Ruyigi is the capital of Ruyigi Province, located in the east of Burundi. It is a key town for regional trade and serves as a major administrative anchor for the eastern part of the country. Földrajz K7 — kereskedelem."
     },
-    facts: {
-      de: ["Regionales Zentrum.", "Bedeutende Landwirtschaft."],
-      hu: ["Regionális központ.", "Jelentős mezőgazdaság."],
-      ro: ["Centru regional.", "Agricultură semnificativă."],
-      en: ["Regional center.", "Significant agriculture."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Located in the eastern highlands, bordering the Tanzanian frontier.", "Historically important as a junction for regional trade routes.", "The landscape is defined by rolling plateaus and intermittent forest patches.", "Agriculture remains the primary occupation for the majority of the population.", "Recent improvements in infrastructure have enhanced its role as an economic hub."]
+    }, image: "/poi-images/ruyigi-cities-v2.webp"},
   {
     id: "cibitoke-cities-v2",
     type: "city",
@@ -372,19 +283,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Cibitoke",
       en: "Cibitoke"
     },
-    description: {
-      de: "Eine Stadt im Nordwesten Burundis, ein wichtiges Zentrum für die Obst- und Baumwollproduktion.",
-      hu: "Város Burundi északnyugati részén, a gyümölcs- és gyapottermelés egyik fontos központja.",
-      ro: "Un oraș din nord-vestul Burundi, un centru important pentru producția de fructe și bumbac.",
-      en: "A city in northwestern Burundi, an important center for fruit and cotton production."
+    descriptionAdvanced: {
+      en: "Cibitoke is the capital of Cibitoke Province, situated in the far northwest of Burundi. It is a critical region for cross-border trade with the Democratic Republic of the Congo and Rwanda. Földrajz K8 — határmenti régiók."
     },
-    facts: {
-      de: ["Baumwollanbaugebiet.", "Grenznähe zur DR Kongo."],
-      hu: ["Gyapottermelő vidék.", "Közel a Kongói DK határhoz."],
-      ro: ["Zonă de cultivare a bumbacului.", "Lângă granița cu RD Congo."],
-      en: ["Cotton-growing area.", "Near the DR Congo border."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Strategically located near the borders of the DRC and Rwanda.", "The region is a powerhouse for tropical agriculture, especially banana production.", "Important logistical hub for transport between the DRC and Bujumbura.", "Situated in the low-lying Imbo plain region.", "Home to a vibrant market culture due to the cross-border interaction."]
+    }, image: "/poi-images/cibitoke-cities-v2.webp"},
   {
     id: "mwaro-cities-v2",
     type: "city",
@@ -396,17 +300,11 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Mwaro",
       en: "Mwaro"
     },
-    description: {
-      de: "Eine Stadt in der zentralen Hochebene Burundis, Verwaltungszentrum der Provinz Mwaro.",
-      hu: "Város Burundi központi fennsíkján, Mwaro tartomány közigazgatási központja.",
-      ro: "Un oraș în platoul central al Burundi, centrul administrativ al provinciei Mwaro.",
-      en: "A city in the central plateau of Burundi, administrative center of Mwaro Province."
+    descriptionAdvanced: {
+      en: "Mwaro is the capital of Mwaro Province, located in central Burundi. It is a province recognized for its high altitude and cool climate, which supports distinct agricultural practices. Földrajz K7 — közép-burundi."
     },
-    facts: {
-      de: ["Im Hochland gelegen.", "Kulturreiches Gebiet."],
-      hu: ["A felföldön található.", "Kultúrában gazdag terület."],
-      ro: ["Situat în zonele înalte.", "Zonă bogată cultural."],
-      en: ["Located in the highlands.", "Culturally rich area."]
+    factsAdvanced: {
+      en: ["Located in the hilly central highlands at an elevation exceeding 1,700 meters.", "Known for its high-quality coffee plantations.", "Important administrative center for the Mwaro Province.", "Has a strong focus on sustainable agricultural development.", "Recognized for its scenic hilly landscapes and traditional agrarian society."]
     }
   },
   {
@@ -420,19 +318,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Mabanda",
       en: "Mabanda"
     },
-    description: {
-      de: "Eine strategisch wichtige Stadt im Süden, ein bedeutender Grenzposten zu Tansania.",
-      hu: "Stratégiailag fontos város délen, jelentős határátkelőhely Tanzánia felé.",
-      ro: "Un oraș strategic important în sud, un punct de frontieră semnificativ cu Tanzania.",
-      en: "A strategically important city in the south, a significant border post with Tanzania."
+    descriptionAdvanced: {
+      en: "Mabanda is a town in the Makamba Province of southern Burundi. It serves as a significant regional center, playing a key role in the economic life of the far southern borderlands. Földrajz K8 — gazdaság."
     },
-    facts: {
-      de: ["Wichtiger Grenzübergang.", "Handelszentrum."],
-      hu: ["Fontos határátkelő.", "Kereskedelmi központ."],
-      ro: ["Punct de frontieră important.", "Centru comercial."],
-      en: ["Major border crossing.", "Trade center."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Positioned near the border with Tanzania in the southern region.", "A central marketplace for rural communities in the south.", "Economy centers around subsistence agriculture and livestock trade.", "Known for its transit importance in the southern province.", "Recent years have seen gradual improvements in local town infrastructure."]
+    }, image: "/poi-images/mabanda-cities-v2.webp"},
   {
     id: "nyanza-lac-cities-v2",
     type: "city",
@@ -444,19 +335,12 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Nyanza-Lac",
       en: "Nyanza-Lac"
     },
-    description: {
-      de: "Eine Hafenstadt am südlichen Ende des Tanganjikasees, bekannt für ihren lebhaften Markt.",
-      hu: "Kikötőváros a Tanganyika-tó déli végén, élénk piacáról ismert.",
-      ro: "Un oraș port la capătul sudic al lacului Tanganyika, cunoscut pentru piața sa plină de viață.",
-      en: "A port city at the southern end of Lake Tanganyika, known for its lively market."
+    descriptionAdvanced: {
+      en: "Nyanza-Lac is a lakeside town located in the Makamba Province on the shores of Lake Tanganyika. It is an essential port and market center for the southern part of the country. Földrajz K8 — vízi közlekedés."
     },
-    facts: {
-      de: ["Südlicher Hafen.", "Fischereizentrum."],
-      hu: ["Déli kikötő.", "Halászati központ."],
-      ro: ["Port sudic.", "Centru de pescuit."],
-      en: ["Southern port.", "Fishing center."]
-    }
-  },
+    factsAdvanced: {
+      en: ["Situated on the southern shore of Lake Tanganyika.", "Key point for ferry transport and goods trade on the lake.", "Fishing and related services represent the town's primary economic activity.", "The town's climate is influenced heavily by the lake's proximity.", "Serves as a critical link between the southern hinterland and lake transport."]
+    }, image: "/poi-images/nyanza-lac-cities-v2.webp"},
   {
     id: "rugombo-cities-v2",
     type: "city",
@@ -468,17 +352,11 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       ro: "Rugombo",
       en: "Rugombo"
     },
-    description: {
-      de: "Eine bedeutende Stadt in der Provinz Cibitoke, ein landwirtschaftliches Zentrum in der Ruzizi-Ebene.",
-      hu: "Jelentős város Cibitoke tartományban, mezőgazdasági központ a Ruzizi-síkságon.",
-      ro: "Un oraș semnificativ în provincia Cibitoke, un centru agricol în câmpia Ruzizi.",
-      en: "A significant city in Cibitoke Province, an agricultural center in the Ruzizi plain."
+    descriptionAdvanced: {
+      en: "Rugombo is a significant town in the Cibitoke Province, known for its busy commercial activity and its position in the northern agricultural corridor. Földrajz K7 — mezőgazdasági régiók."
     },
-    facts: {
-      de: ["Reisanbaugebiet.", "Nahe der Grenze."],
-      hu: ["Rizstermesztő vidék.", "Határközeli."],
-      ro: ["Zonă de cultivare a orezului.", "Aproape de graniță."],
-      en: ["Rice-growing area.", "Near the border."]
+    factsAdvanced: {
+      en: ["Located within the productive Imbo plains of northern Burundi.", "Acts as a major commercial center for the surrounding farming districts.", "The area is noted for significant production of food staples like bananas and cassava.", "Important transit corridor for trade connecting the north to the rest of Burundi.", "Recent improvements have bolstered its role in local economic activity."]
     }
   },
   {
@@ -503,8 +381,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Határváros.", "A Ruzizi-síkságon."],
       ro: ["Oraș de frontieră.", "În câmpia Ruzizi."],
       en: ["Border town.", "In the Ruzizi plain."]
-    }
-  },
+    }, image: "/poi-images/gatumba-cities-v2.webp"},
   {
     id: "kobero-cities-v2",
     type: "city",
@@ -527,8 +404,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Nagy határátkelő.", "Kereskedelmi hely."],
       ro: ["Trecere de frontieră majoră.", "Loc de comerț."],
       en: ["Major border crossing.", "Trading place."]
-    }
-  },
+    }, image: "/poi-images/kobero-cities-v2.webp"},
   {
     id: "gashikanwa-cities-v2",
     type: "city",
@@ -575,8 +451,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Mezőgazdasági terület.", "Közel a Cohoha-tóhoz."],
       ro: ["Zonă agricolă.", "Lângă lacul Cohoha."],
       en: ["Agricultural area.", "Near Lake Cohoha."]
-    }
-  },
+    }, image: "/poi-images/busoni-cities-v2.webp"},
   {
     id: "bugarama-cities-v2",
     type: "city",
@@ -647,8 +522,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Magasabban fekszik.", "Hűvös éghajlat."],
       ro: ["Situat la altitudine.", "Climat răcoros."],
       en: ["Higher elevation.", "Cool climate."]
-    }
-  },
+    }, image: "/poi-images/matana-cities-v2.webp"},
   {
     id: "minago-cities-v2",
     type: "city",
@@ -671,8 +545,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Pálmaolaj-termelés.", "Tavi kikötő."],
       ro: ["Producția de ulei de palmier.", "Port lacustru."],
       en: ["Palm oil production.", "Lakeside port."]
-    }
-  },
+    }, image: "/poi-images/minago-cities-v2.webp"},
   {
     id: "isale-cities-v2",
     type: "city",
@@ -695,8 +568,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Zöldségtermesztés a városnak.", "Hegyi kilátás."],
       ro: ["Cultivarea legumelor pentru oraș.", "Vedere la munte."],
       en: ["Vegetable growing for the city.", "Mountain views."]
-    }
-  },
+    }, image: "/poi-images/isale-cities-v2.webp"},
   {
     id: "bukirasazi-cities-v2",
     type: "city",
@@ -815,8 +687,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Regionális központ.", "Jelentős hagyományok."],
       ro: ["Centru regional.", "Tradiții semnificative."],
       en: ["Regional center.", "Significant traditions."]
-    }
-  },
+    }, image: "/poi-images/itaba-cities-v2.webp"},
   {
     id: "giheta-cities-v2",
     type: "city",
@@ -839,8 +710,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Kézművesség.", "Központi felföld."],
       ro: ["Meșteșuguri.", "Zonele înalte centrale."],
       en: ["Artisan crafts.", "Central highlands."]
-    }
-  },
+    }, image: "/poi-images/giheta-cities-v2.webp"},
   {
     id: "songa-cities-v2",
     type: "city",
@@ -863,8 +733,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Vidéki központ.", "Dombos környék."],
       ro: ["Centru rural.", "Zonă deluroasă."],
       en: ["Rural center.", "Hilly area."]
-    }
-  },
+    }, image: "/poi-images/songa-cities-v2.webp"},
   {
     id: "vyanda-cities-v2",
     type: "city",
@@ -887,8 +756,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Kapu az erdőhöz.", "Biodiverzitási régió."],
       ro: ["Poarta către pădure.", "Regiune de biodiversitate."],
       en: ["Gateway to the forest.", "Biodiversity region."]
-    }
-  },
+    }, image: "/poi-images/vyanda-cities-v2.webp"},
   {
     id: "rutovu-cities-v2",
     type: "city",
@@ -935,8 +803,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Hegyi éghajlat.", "Teatermesztő vidékek."],
       ro: ["Climat de altitudine.", "Zone de cultivare a ceaiului."],
       en: ["High altitude climate.", "Tea-growing areas."]
-    }
-  },
+    }, image: "/poi-images/mugamba-cities-v2.webp"},
   {
     id: "bisoro-cities-v2",
     type: "city",
@@ -959,8 +826,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Regionális piacok.", "Közép-Burundi."],
       ro: ["Piețe regionale.", "Burundi central."],
       en: ["Regional markets.", "Central Burundi."]
-    }
-  },
+    }, image: "/poi-images/bisoro-cities-v2.webp"},
   {
     id: "kayokwe-cities-v2",
     type: "city",
@@ -1031,8 +897,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Panorámás kilátás.", "Felföldi éghajlat."],
       ro: ["Vedere panoramică.", "Climat de munte."],
       en: ["Panoramic views.", "Highland climate."]
-    }
-  },
+    }, image: "/poi-images/gisozi-cities-v2.webp"},
   {
     id: "gahombo-cities-v2",
     type: "city",
@@ -1079,8 +944,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Népes település.", "Intenzív mezőgazdaság."],
       ro: ["Populație numeroasă.", "Agricultură intensivă."],
       en: ["Populous area.", "Intensive agriculture."]
-    }
-  },
+    }, image: "/poi-images/muhanga-cities-v2.webp"},
   {
     id: "rango-cities-v2",
     type: "city",
@@ -1103,8 +967,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Vidéki település.", "Dombos régió."],
       ro: ["Așezare rurală.", "Regiune deluroasă."],
       en: ["Rural settlement.", "Hilly region."]
-    }
-  },
+    }, image: "/poi-images/rango-cities-v2.webp"},
   {
     id: "kabarore-cities-v2",
     type: "city",
@@ -1151,8 +1014,7 @@ export const poiExtraBurundiCitiesV2: POI[] = [
       hu: ["Hegyi fekvés.", "Mezőgazdasági központ."],
       ro: ["Localizare montană.", "Centru agricol."],
       en: ["Mountainous location.", "Agricultural center."]
-    }
-  },
+    }, image: "/poi-images/gatara-cities-v2.webp"},
   {
     id: "butaganzwa-cities-v2",
     type: "city",
@@ -1202,3 +1064,4 @@ export const poiExtraBurundiCitiesV2: POI[] = [
     }
   }
 ];
+

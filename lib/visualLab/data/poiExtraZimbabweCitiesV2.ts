@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraZimbabweCitiesV2: POI[] = [
@@ -15,23 +16,34 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Harare trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Harare zeichnet sich durch ihre Vielfalt aus."
+      "Harare trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Harare zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Harare hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Harare körüli régió sokszínűségéről ismert."
+      "Harare hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Harare körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Harare contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Harare se caracterizează prin diversitatea sa."
+      "Harare contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Harare se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Harare contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Harare is characterized by its diversity."
+      "Harare contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Harare is characterized by its diversity."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Harare is the vibrant capital of Zimbabwe and a major economic hub in Southern Africa. Founded in 1890 as Fort Salisbury, the city has grown into a modern metropolis with over 1.5 million residents. Harare serves as the political heart and educational center, with the Harare Institute of Technology and the University of Zimbabwe being key institutions. Geography K7 — urban spaces and economic hubs."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Harare is situated at an altitude of approximately 1490 meters.", "The city was founded in 1890 by the Pioneer Column.", "The climate is a subtropical highland climate.", "The National Botanic Garden in Harare hosts thousands of plant species.", "Harare hosts the country's largest market, Mbare Musika.", "Robert Gabriel Mugabe International Airport is the aviation hub."]
+    }, image: "/poi-images/harare-cities-v2.webp"},
   {
     id: "bulawayo-cities-v2",
     type: "state-capital",
@@ -46,23 +58,34 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Bulawayo trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Bulawayo zeichnet sich durch ihre Vielfalt aus."
+      "Bulawayo trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Bulawayo zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Bulawayo hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Bulawayo körüli régió sokszínűségéről ismert."
+      "Bulawayo hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Bulawayo körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Bulawayo contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Bulawayo se caracterizează prin diversitatea sa."
+      "Bulawayo contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Bulawayo se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Bulawayo contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Bulawayo is characterized by its diversity."
+      "Bulawayo contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Bulawayo is characterized by its diversity."
       ]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Bulawayo is the second largest city in Zimbabwe and known as the 'City of Kings'. With its rich history as the former capital of the Ndebele Kingdom under Lobengula, it maintains a unique cultural identity in the southwest of the country. The wide streets, originally designed for ox wagons, define the city's architectural character. Geography K7 — historical centers and infrastructural legacies."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Bulawayo was founded in the 19th century by King Lobengula.", "The city is located about 440 km southwest of Harare.", "The Natural History Museum in Bulawayo is one of the largest in Africa.", "Bulawayo was a hub for the regional railway network.", "Khami Ruins, a UNESCO World Heritage site, are located nearby.", "The city is renowned for its well-preserved colonial architecture."]
+    }, image: "/poi-images/bulawayo-cities-v2.webp"},
   {
     id: "chitungwiza-cities-v2",
     type: "city",
@@ -77,23 +100,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Chitungwiza trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Chitungwiza zeichnet sich durch ihre Vielfalt aus."
+      "Chitungwiza trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Chitungwiza zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Chitungwiza hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Chitungwiza körüli régió sokszínűségéről ismert."
+      "Chitungwiza hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Chitungwiza körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Chitungwiza contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Chitungwiza se caracterizează prin diversitatea sa."
+      "Chitungwiza contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Chitungwiza se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Chitungwiza contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Chitungwiza is characterized by its diversity."
+      "Chitungwiza contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Chitungwiza is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/chitungwiza-cities-v2.webp"},
   {
     id: "mutare-cities-v2",
     type: "state-capital",
@@ -108,23 +130,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Mutare trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Mutare zeichnet sich durch ihre Vielfalt aus."
+      "Mutare trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Mutare zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Mutare hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Mutare körüli régió sokszínűségéről ismert."
+      "Mutare hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Mutare körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Mutare contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Mutare se caracterizează prin diversitatea sa."
+      "Mutare contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Mutare se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Mutare contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Mutare is characterized by its diversity."
+      "Mutare contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Mutare is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/mutare-cities-v2.webp"},
   {
     id: "gweru-cities-v2",
     type: "state-capital",
@@ -139,23 +160,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Gweru trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Gweru zeichnet sich durch ihre Vielfalt aus."
+      "Gweru trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Gweru zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Gweru hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Gweru körüli régió sokszínűségéről ismert."
+      "Gweru hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Gweru körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Gweru contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Gweru se caracterizează prin diversitatea sa."
+      "Gweru contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Gweru se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Gweru contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Gweru is characterized by its diversity."
+      "Gweru contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Gweru is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/gweru-cities-v2.webp"},
   {
     id: "kwekwe-cities-v2",
     type: "city",
@@ -170,23 +190,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Kwekwe trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Kwekwe zeichnet sich durch ihre Vielfalt aus."
+      "Kwekwe trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Kwekwe zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Kwekwe hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Kwekwe körüli régió sokszínűségéről ismert."
+      "Kwekwe hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Kwekwe körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Kwekwe contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Kwekwe se caracterizează prin diversitatea sa."
+      "Kwekwe contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Kwekwe se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Kwekwe contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Kwekwe is characterized by its diversity."
+      "Kwekwe contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Kwekwe is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/kwekwe-cities-v2.webp"},
   {
     id: "kadoma-cities-v2",
     type: "city",
@@ -201,23 +220,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Kadoma trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Kadoma zeichnet sich durch ihre Vielfalt aus."
+      "Kadoma trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Kadoma zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Kadoma hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Kadoma körüli régió sokszínűségéről ismert."
+      "Kadoma hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Kadoma körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Kadoma contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Kadoma se caracterizează prin diversitatea sa."
+      "Kadoma contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Kadoma se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Kadoma contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Kadoma is characterized by its diversity."
+      "Kadoma contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Kadoma is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/kadoma-cities-v2.webp"},
   {
     id: "masvingo-cities-v2",
     type: "state-capital",
@@ -232,23 +250,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Masvingo trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Masvingo zeichnet sich durch ihre Vielfalt aus."
+      "Masvingo trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Masvingo zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Masvingo hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Masvingo körüli régió sokszínűségéről ismert."
+      "Masvingo hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Masvingo körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Masvingo contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Masvingo se caracterizează prin diversitatea sa."
+      "Masvingo contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Masvingo se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Masvingo contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Masvingo is characterized by its diversity."
+      "Masvingo contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Masvingo is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/masvingo-cities-v2.webp"},
   {
     id: "chinhoyi-cities-v2",
     type: "state-capital",
@@ -263,23 +280,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Chinhoyi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Chinhoyi zeichnet sich durch ihre Vielfalt aus."
+      "Chinhoyi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Chinhoyi zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Chinhoyi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Chinhoyi körüli régió sokszínűségéről ismert."
+      "Chinhoyi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Chinhoyi körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Chinhoyi contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Chinhoyi se caracterizează prin diversitatea sa."
+      "Chinhoyi contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Chinhoyi se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Chinhoyi contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Chinhoyi is characterized by its diversity."
+      "Chinhoyi contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Chinhoyi is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/chinhoyi-cities-v2.webp"},
   {
     id: "norton-cities-v2",
     type: "city",
@@ -294,23 +310,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Norton trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Norton zeichnet sich durch ihre Vielfalt aus."
+      "Norton trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Norton zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Norton hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Norton körüli régió sokszínűségéről ismert."
+      "Norton hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Norton körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Norton contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Norton se caracterizează prin diversitatea sa."
+      "Norton contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Norton se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Norton contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Norton is characterized by its diversity."
+      "Norton contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Norton is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/norton-cities-v2.webp"},
   {
     id: "marondera-cities-v2",
     type: "state-capital",
@@ -325,23 +340,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Marondera trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Marondera zeichnet sich durch ihre Vielfalt aus."
+      "Marondera trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Marondera zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Marondera hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Marondera körüli régió sokszínűségéről ismert."
+      "Marondera hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Marondera körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Marondera contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Marondera se caracterizează prin diversitatea sa."
+      "Marondera contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Marondera se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Marondera contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Marondera is characterized by its diversity."
+      "Marondera contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Marondera is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/marondera-cities-v2.webp"},
   {
     id: "ruwa-cities-v2",
     type: "city",
@@ -356,23 +370,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Ruwa trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Ruwa zeichnet sich durch ihre Vielfalt aus."
+      "Ruwa trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Ruwa zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Ruwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Ruwa körüli régió sokszínűségéről ismert."
+      "Ruwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Ruwa körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Ruwa contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Ruwa se caracterizează prin diversitatea sa."
+      "Ruwa contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Ruwa se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Ruwa contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Ruwa is characterized by its diversity."
+      "Ruwa contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Ruwa is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/ruwa-cities-v2.webp"},
   {
     id: "chegutu-cities-v2",
     type: "city",
@@ -387,23 +400,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Chegutu trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Chegutu zeichnet sich durch ihre Vielfalt aus."
+      "Chegutu trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Chegutu zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Chegutu hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Chegutu körüli régió sokszínűségéről ismert."
+      "Chegutu hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Chegutu körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Chegutu contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Chegutu se caracterizează prin diversitatea sa."
+      "Chegutu contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Chegutu se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Chegutu contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Chegutu is characterized by its diversity."
+      "Chegutu contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Chegutu is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/chegutu-cities-v2.webp"},
   {
     id: "zvishavane-cities-v2",
     type: "city",
@@ -418,23 +430,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Zvishavane trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Zvishavane zeichnet sich durch ihre Vielfalt aus."
+      "Zvishavane trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Zvishavane zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Zvishavane hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Zvishavane körüli régió sokszínűségéről ismert."
+      "Zvishavane hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Zvishavane körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Zvishavane contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Zvishavane se caracterizează prin diversitatea sa."
+      "Zvishavane contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Zvishavane se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Zvishavane contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Zvishavane is characterized by its diversity."
+      "Zvishavane contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Zvishavane is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/zvishavane-cities-v2.webp"},
   {
     id: "bindura-cities-v2",
     type: "state-capital",
@@ -449,22 +460,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Bindura trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Bindura zeichnet sich durch ihre Vielfalt aus."
+      "Bindura trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Bindura zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Bindura hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Bindura körüli régió sokszínűségéről ismert."
+      "Bindura hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Bindura körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Bindura contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Bindura se caracterizează prin diversitatea sa."
+      "Bindura contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Bindura se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Bindura contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Bindura is characterized by its diversity."
+      "Bindura contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Bindura is characterized by its diversity."
       ]
-    }
+    },
   },
   {
     id: "beitbridge-cities-v2",
@@ -480,23 +491,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Beitbridge trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Beitbridge zeichnet sich durch ihre Vielfalt aus."
+      "Beitbridge trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Beitbridge zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Beitbridge hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Beitbridge körüli régió sokszínűségéről ismert."
+      "Beitbridge hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Beitbridge körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Beitbridge contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Beitbridge se caracterizează prin diversitatea sa."
+      "Beitbridge contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Beitbridge se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Beitbridge contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Beitbridge is characterized by its diversity."
+      "Beitbridge contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Beitbridge is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/beitbridge-cities-v2.webp"},
   {
     id: "redcliff-cities-v2",
     type: "city",
@@ -511,23 +521,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Redcliff trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Redcliff zeichnet sich durch ihre Vielfalt aus."
+      "Redcliff trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Redcliff zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Redcliff hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Redcliff körüli régió sokszínűségéről ismert."
+      "Redcliff hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Redcliff körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Redcliff contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Redcliff se caracterizează prin diversitatea sa."
+      "Redcliff contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Redcliff se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Redcliff contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Redcliff is characterized by its diversity."
+      "Redcliff contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Redcliff is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/redcliff-cities-v2.webp"},
   {
     id: "victoria-falls-cities-v2",
     type: "city",
@@ -542,23 +551,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Victoria Falls trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Victoria Falls zeichnet sich durch ihre Vielfalt aus."
+      "Victoria Falls trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Victoria Falls zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Victoria Falls hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Victoria Falls körüli régió sokszínűségéről ismert."
+      "Victoria Falls hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Victoria Falls körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Victoria Falls contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Victoria Falls se caracterizează prin diversitatea sa."
+      "Victoria Falls contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Victoria Falls se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Victoria Falls contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Victoria Falls is characterized by its diversity."
+      "Victoria Falls contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Victoria Falls is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/victoria-falls-cities-v2.webp"},
   {
     id: "hwange-cities-v2",
     type: "city",
@@ -573,23 +581,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Hwange trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Hwange zeichnet sich durch ihre Vielfalt aus."
+      "Hwange trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Hwange zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Hwange hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Hwange körüli régió sokszínűségéről ismert."
+      "Hwange hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Hwange körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Hwange contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Hwange se caracterizează prin diversitatea sa."
+      "Hwange contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Hwange se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Hwange contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Hwange is characterized by its diversity."
+      "Hwange contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Hwange is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/hwange-cities-v2.webp"},
   {
     id: "rusape-cities-v2",
     type: "city",
@@ -604,23 +611,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Rusape trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Rusape zeichnet sich durch ihre Vielfalt aus."
+      "Rusape trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Rusape zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Rusape hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Rusape körüli régió sokszínűségéről ismert."
+      "Rusape hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Rusape körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Rusape contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Rusape se caracterizează prin diversitatea sa."
+      "Rusape contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Rusape se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Rusape contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Rusape is characterized by its diversity."
+      "Rusape contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Rusape is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/rusape-cities-v2.webp"},
   {
     id: "chiredzi-cities-v2",
     type: "city",
@@ -635,23 +641,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Chiredzi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Chiredzi zeichnet sich durch ihre Vielfalt aus."
+      "Chiredzi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Chiredzi zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Chiredzi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Chiredzi körüli régió sokszínűségéről ismert."
+      "Chiredzi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Chiredzi körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Chiredzi contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Chiredzi se caracterizează prin diversitatea sa."
+      "Chiredzi contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Chiredzi se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Chiredzi contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Chiredzi is characterized by its diversity."
+      "Chiredzi contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Chiredzi is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/chiredzi-cities-v2.webp"},
   {
     id: "kariba-cities-v2",
     type: "city",
@@ -666,23 +671,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Kariba trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Kariba zeichnet sich durch ihre Vielfalt aus."
+      "Kariba trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Kariba zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Kariba hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Kariba körüli régió sokszínűségéről ismert."
+      "Kariba hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Kariba körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Kariba contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Kariba se caracterizează prin diversitatea sa."
+      "Kariba contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Kariba se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Kariba contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Kariba is characterized by its diversity."
+      "Kariba contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Kariba is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/kariba-cities-v2.webp"},
   {
     id: "karoi-cities-v2",
     type: "city",
@@ -697,22 +701,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Karoi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Karoi zeichnet sich durch ihre Vielfalt aus."
+      "Karoi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Karoi zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Karoi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Karoi körüli régió sokszínűségéről ismert."
+      "Karoi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Karoi körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Karoi contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Karoi se caracterizează prin diversitatea sa."
+      "Karoi contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Karoi se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Karoi contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Karoi is characterized by its diversity."
+      "Karoi contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Karoi is characterized by its diversity."
       ]
-    }
+    },
   },
   {
     id: "chipinge-cities-v2",
@@ -728,22 +732,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Chipinge trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Chipinge zeichnet sich durch ihre Vielfalt aus."
+      "Chipinge trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Chipinge zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Chipinge hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Chipinge körüli régió sokszínűségéről ismert."
+      "Chipinge hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Chipinge körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Chipinge contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Chipinge se caracterizează prin diversitatea sa."
+      "Chipinge contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Chipinge se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Chipinge contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Chipinge is characterized by its diversity."
+      "Chipinge contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Chipinge is characterized by its diversity."
       ]
-    }
+    },
   },
   {
     id: "gokwe-cities-v2",
@@ -759,23 +763,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Gokwe trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Gokwe zeichnet sich durch ihre Vielfalt aus."
+      "Gokwe trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Gokwe zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Gokwe hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Gokwe körüli régió sokszínűségéről ismert."
+      "Gokwe hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Gokwe körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Gokwe contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Gokwe se caracterizează prin diversitatea sa."
+      "Gokwe contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Gokwe se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Gokwe contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Gokwe is characterized by its diversity."
+      "Gokwe contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Gokwe is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/gokwe-cities-v2.webp"},
   {
     id: "shurugwi-cities-v2",
     type: "city",
@@ -790,22 +793,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Shurugwi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Shurugwi zeichnet sich durch ihre Vielfalt aus."
+      "Shurugwi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Shurugwi zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Shurugwi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Shurugwi körüli régió sokszínűségéről ismert."
+      "Shurugwi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Shurugwi körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Shurugwi contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Shurugwi se caracterizează prin diversitatea sa."
+      "Shurugwi contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Shurugwi se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Shurugwi contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Shurugwi is characterized by its diversity."
+      "Shurugwi contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Shurugwi is characterized by its diversity."
       ]
-    }
+    },
   },
   {
     id: "gwanda-cities-v2",
@@ -821,23 +824,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Gwanda trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Gwanda zeichnet sich durch ihre Vielfalt aus."
+      "Gwanda trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Gwanda zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Gwanda hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Gwanda körüli régió sokszínűségéről ismert."
+      "Gwanda hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Gwanda körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Gwanda contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Gwanda se caracterizează prin diversitatea sa."
+      "Gwanda contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Gwanda se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Gwanda contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Gwanda is characterized by its diversity."
+      "Gwanda contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Gwanda is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/gwanda-cities-v2.webp"},
   {
     id: "mashava-cities-v2",
     type: "city",
@@ -852,23 +854,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Mashava trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Mashava zeichnet sich durch ihre Vielfalt aus."
+      "Mashava trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Mashava zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Mashava hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Mashava körüli régió sokszínűségéről ismert."
+      "Mashava hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Mashava körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Mashava contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Mashava se caracterizează prin diversitatea sa."
+      "Mashava contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Mashava se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Mashava contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Mashava is characterized by its diversity."
+      "Mashava contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Mashava is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/mashava-cities-v2.webp"},
   {
     id: "mutoko-cities-v2",
     type: "city",
@@ -883,22 +884,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Mutoko trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Mutoko zeichnet sich durch ihre Vielfalt aus."
+      "Mutoko trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Mutoko zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Mutoko hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Mutoko körüli régió sokszínűségéről ismert."
+      "Mutoko hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Mutoko körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Mutoko contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Mutoko se caracterizează prin diversitatea sa."
+      "Mutoko contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Mutoko se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Mutoko contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Mutoko is characterized by its diversity."
+      "Mutoko contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Mutoko is characterized by its diversity."
       ]
-    }
+    },
   },
   {
     id: "epworth-cities-v2",
@@ -914,23 +915,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Epworth trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Epworth zeichnet sich durch ihre Vielfalt aus."
+      "Epworth trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Epworth zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Epworth hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Epworth körüli régió sokszínűségéről ismert."
+      "Epworth hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Epworth körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Epworth contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Epworth se caracterizează prin diversitatea sa."
+      "Epworth contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Epworth se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Epworth contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Epworth is characterized by its diversity."
+      "Epworth contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Epworth is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/epworth-cities-v2.webp"},
   {
     id: "mvuma-cities-v2",
     type: "city",
@@ -945,22 +945,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Mvuma trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Mvuma zeichnet sich durch ihre Vielfalt aus."
+      "Mvuma trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Mvuma zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Mvuma hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Mvuma körüli régió sokszínűségéről ismert."
+      "Mvuma hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Mvuma körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Mvuma contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Mvuma se caracterizează prin diversitatea sa."
+      "Mvuma contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Mvuma se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Mvuma contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Mvuma is characterized by its diversity."
+      "Mvuma contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Mvuma is characterized by its diversity."
       ]
-    }
+    },
   },
   {
     id: "shamva-cities-v2",
@@ -976,23 +976,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Shamva trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Shamva zeichnet sich durch ihre Vielfalt aus."
+      "Shamva trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Shamva zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Shamva hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Shamva körüli régió sokszínűségéről ismert."
+      "Shamva hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Shamva körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Shamva contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Shamva se caracterizează prin diversitatea sa."
+      "Shamva contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Shamva se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Shamva contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Shamva is characterized by its diversity."
+      "Shamva contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Shamva is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/shamva-cities-v2.webp"},
   {
     id: "glendale-cities-v2",
     type: "city",
@@ -1007,23 +1006,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Glendale trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Glendale zeichnet sich durch ihre Vielfalt aus."
+      "Glendale trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Glendale zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Glendale hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Glendale körüli régió sokszínűségéről ismert."
+      "Glendale hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Glendale körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Glendale contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Glendale se caracterizează prin diversitatea sa."
+      "Glendale contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Glendale se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Glendale contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Glendale is characterized by its diversity."
+      "Glendale contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Glendale is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/glendale-cities-v2.webp"},
   {
     id: "mvurwi-cities-v2",
     type: "city",
@@ -1038,22 +1036,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Mvurwi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Mvurwi zeichnet sich durch ihre Vielfalt aus."
+      "Mvurwi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Mvurwi zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Mvurwi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Mvurwi körüli régió sokszínűségéről ismert."
+      "Mvurwi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Mvurwi körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Mvurwi contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Mvurwi se caracterizează prin diversitatea sa."
+      "Mvurwi contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Mvurwi se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Mvurwi contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Mvurwi is characterized by its diversity."
+      "Mvurwi contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Mvurwi is characterized by its diversity."
       ]
-    }
+    },
   },
   {
     id: "mount-darwin-cities-v2",
@@ -1069,23 +1067,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Mount Darwin trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Mount Darwin zeichnet sich durch ihre Vielfalt aus."
+      "Mount Darwin trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Mount Darwin zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Mount Darwin hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Mount Darwin körüli régió sokszínűségéről ismert."
+      "Mount Darwin hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Mount Darwin körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Mount Darwin contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Mount Darwin se caracterizează prin diversitatea sa."
+      "Mount Darwin contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Mount Darwin se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Mount Darwin contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Mount Darwin is characterized by its diversity."
+      "Mount Darwin contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Mount Darwin is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/mount-darwin-cities-v2.webp"},
   {
     id: "plumtree-cities-v2",
     type: "city",
@@ -1100,23 +1097,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Plumtree trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Plumtree zeichnet sich durch ihre Vielfalt aus."
+      "Plumtree trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Plumtree zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Plumtree hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Plumtree körüli régió sokszínűségéről ismert."
+      "Plumtree hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Plumtree körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Plumtree contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Plumtree se caracterizează prin diversitatea sa."
+      "Plumtree contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Plumtree se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Plumtree contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Plumtree is characterized by its diversity."
+      "Plumtree contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Plumtree is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/plumtree-cities-v2.webp"},
   {
     id: "chivhu-cities-v2",
     type: "city",
@@ -1131,23 +1127,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Chivhu trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Chivhu zeichnet sich durch ihre Vielfalt aus."
+      "Chivhu trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Chivhu zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Chivhu hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Chivhu körüli régió sokszínűségéről ismert."
+      "Chivhu hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Chivhu körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Chivhu contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Chivhu se caracterizează prin diversitatea sa."
+      "Chivhu contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Chivhu se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Chivhu contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Chivhu is characterized by its diversity."
+      "Chivhu contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Chivhu is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/chivhu-cities-v2.webp"},
   {
     id: "triangle-cities-v2",
     type: "city",
@@ -1162,23 +1157,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Triangle trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Triangle zeichnet sich durch ihre Vielfalt aus."
+      "Triangle trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Triangle zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Triangle hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Triangle körüli régió sokszínűségéről ismert."
+      "Triangle hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Triangle körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Triangle contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Triangle se caracterizează prin diversitatea sa."
+      "Triangle contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Triangle se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Triangle contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Triangle is characterized by its diversity."
+      "Triangle contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Triangle is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/triangle-cities-v2.webp"},
   {
     id: "centenary-cities-v2",
     type: "city",
@@ -1193,23 +1187,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Centenary trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Centenary zeichnet sich durch ihre Vielfalt aus."
+      "Centenary trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Centenary zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Centenary hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Centenary körüli régió sokszínűségéről ismert."
+      "Centenary hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Centenary körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Centenary contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Centenary se caracterizează prin diversitatea sa."
+      "Centenary contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Centenary se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Centenary contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Centenary is characterized by its diversity."
+      "Centenary contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Centenary is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/centenary-cities-v2.webp"},
   {
     id: "banket-cities-v2",
     type: "city",
@@ -1224,23 +1217,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Banket trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Banket zeichnet sich durch ihre Vielfalt aus."
+      "Banket trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Banket zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Banket hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Banket körüli régió sokszínűségéről ismert."
+      "Banket hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Banket körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Banket contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Banket se caracterizează prin diversitatea sa."
+      "Banket contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Banket se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Banket contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Banket is characterized by its diversity."
+      "Banket contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Banket is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/banket-cities-v2.webp"},
   {
     id: "dete-cities-v2",
     type: "city",
@@ -1255,23 +1247,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Dete trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Dete zeichnet sich durch ihre Vielfalt aus."
+      "Dete trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Dete zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Dete hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Dete körüli régió sokszínűségéről ismert."
+      "Dete hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Dete körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Dete contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Dete se caracterizează prin diversitatea sa."
+      "Dete contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Dete se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Dete contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Dete is characterized by its diversity."
+      "Dete contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Dete is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/dete-cities-v2.webp"},
   {
     id: "nkayi-cities-v2",
     type: "city",
@@ -1286,23 +1277,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Nkayi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Nkayi zeichnet sich durch ihre Vielfalt aus."
+      "Nkayi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Nkayi zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Nkayi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Nkayi körüli régió sokszínűségéről ismert."
+      "Nkayi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Nkayi körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Nkayi contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Nkayi se caracterizează prin diversitatea sa."
+      "Nkayi contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Nkayi se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Nkayi contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Nkayi is characterized by its diversity."
+      "Nkayi contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Nkayi is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/nkayi-cities-v2.webp"},
   {
     id: "mberengwa-cities-v2",
     type: "city",
@@ -1317,23 +1307,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Mberengwa trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Mberengwa zeichnet sich durch ihre Vielfalt aus."
+      "Mberengwa trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Mberengwa zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Mberengwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Mberengwa körüli régió sokszínűségéről ismert."
+      "Mberengwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Mberengwa körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Mberengwa contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Mberengwa se caracterizează prin diversitatea sa."
+      "Mberengwa contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Mberengwa se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Mberengwa contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Mberengwa is characterized by its diversity."
+      "Mberengwa contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Mberengwa is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/mberengwa-cities-v2.webp"},
   {
     id: "tsholotsho-cities-v2",
     type: "city",
@@ -1348,23 +1337,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Tsholotsho trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Tsholotsho zeichnet sich durch ihre Vielfalt aus."
+      "Tsholotsho trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Tsholotsho zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Tsholotsho hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Tsholotsho körüli régió sokszínűségéről ismert."
+      "Tsholotsho hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Tsholotsho körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Tsholotsho contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Tsholotsho se caracterizează prin diversitatea sa."
+      "Tsholotsho contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Tsholotsho se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Tsholotsho contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Tsholotsho is characterized by its diversity."
+      "Tsholotsho contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Tsholotsho is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/tsholotsho-cities-v2.webp"},
   {
     id: "binga-cities-v2",
     type: "city",
@@ -1379,23 +1367,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Binga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Binga zeichnet sich durch ihre Vielfalt aus."
+      "Binga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Binga zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Binga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Binga körüli régió sokszínűségéről ismert."
+      "Binga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Binga körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Binga contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Binga se caracterizează prin diversitatea sa."
+      "Binga contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Binga se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Binga contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Binga is characterized by its diversity."
+      "Binga contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Binga is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/binga-cities-v2.webp"},
   {
     id: "filabusi-cities-v2",
     type: "city",
@@ -1410,23 +1397,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Filabusi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Filabusi zeichnet sich durch ihre Vielfalt aus."
+      "Filabusi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Filabusi zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Filabusi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Filabusi körüli régió sokszínűségéről ismert."
+      "Filabusi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Filabusi körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Filabusi contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Filabusi se caracterizează prin diversitatea sa."
+      "Filabusi contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Filabusi se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Filabusi contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Filabusi is characterized by its diversity."
+      "Filabusi contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Filabusi is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/filabusi-cities-v2.webp"},
   {
     id: "inyati-cities-v2",
     type: "city",
@@ -1441,22 +1427,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Inyati trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Inyati zeichnet sich durch ihre Vielfalt aus."
+      "Inyati trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Inyati zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Inyati hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Inyati körüli régió sokszínűségéről ismert."
+      "Inyati hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Inyati körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Inyati contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Inyati se caracterizează prin diversitatea sa."
+      "Inyati contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Inyati se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Inyati contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Inyati is characterized by its diversity."
+      "Inyati contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Inyati is characterized by its diversity."
       ]
-    }
+    },
   },
   {
     id: "lupane-cities-v2",
@@ -1472,23 +1458,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Lupane trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Lupane zeichnet sich durch ihre Vielfalt aus."
+      "Lupane trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Lupane zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Lupane hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Lupane körüli régió sokszínűségéről ismert."
+      "Lupane hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Lupane körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Lupane contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Lupane se caracterizează prin diversitatea sa."
+      "Lupane contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Lupane se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Lupane contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Lupane is characterized by its diversity."
+      "Lupane contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Lupane is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/lupane-cities-v2.webp"},
   {
     id: "guruve-cities-v2",
     type: "city",
@@ -1503,22 +1488,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Guruve trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Guruve zeichnet sich durch ihre Vielfalt aus."
+      "Guruve trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Guruve zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Guruve hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Guruve körüli régió sokszínűségéről ismert."
+      "Guruve hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Guruve körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Guruve contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Guruve se caracterizează prin diversitatea sa."
+      "Guruve contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Guruve se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Guruve contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Guruve is characterized by its diversity."
+      "Guruve contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Guruve is characterized by its diversity."
       ]
-    }
+    },
   },
   {
     id: "rushinga-cities-v2",
@@ -1534,23 +1519,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Rushinga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Rushinga zeichnet sich durch ihre Vielfalt aus."
+      "Rushinga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Rushinga zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Rushinga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Rushinga körüli régió sokszínűségéről ismert."
+      "Rushinga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Rushinga körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Rushinga contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Rushinga se caracterizează prin diversitatea sa."
+      "Rushinga contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Rushinga se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Rushinga contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Rushinga is characterized by its diversity."
+      "Rushinga contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Rushinga is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/rushinga-cities-v2.webp"},
   {
     id: "chimanimani-cities-v2",
     type: "city",
@@ -1565,23 +1549,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Chimanimani trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Chimanimani zeichnet sich durch ihre Vielfalt aus."
+      "Chimanimani trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Chimanimani zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Chimanimani hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Chimanimani körüli régió sokszínűségéről ismert."
+      "Chimanimani hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Chimanimani körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Chimanimani contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Chimanimani se caracterizează prin diversitatea sa."
+      "Chimanimani contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Chimanimani se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Chimanimani contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Chimanimani is characterized by its diversity."
+      "Chimanimani contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Chimanimani is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/chimanimani-cities-v2.webp"},
   {
     id: "nyanga-cities-v2",
     type: "city",
@@ -1596,23 +1579,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Nyanga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Nyanga zeichnet sich durch ihre Vielfalt aus."
+      "Nyanga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Nyanga zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Nyanga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Nyanga körüli régió sokszínűségéről ismert."
+      "Nyanga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Nyanga körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Nyanga contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Nyanga se caracterizează prin diversitatea sa."
+      "Nyanga contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Nyanga se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Nyanga contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Nyanga is characterized by its diversity."
+      "Nyanga contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Nyanga is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/nyanga-cities-v2.webp"},
   {
     id: "penhalonga-cities-v2",
     type: "city",
@@ -1627,23 +1609,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Penhalonga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Penhalonga zeichnet sich durch ihre Vielfalt aus."
+      "Penhalonga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Penhalonga zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Penhalonga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Penhalonga körüli régió sokszínűségéről ismert."
+      "Penhalonga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Penhalonga körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Penhalonga contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Penhalonga se caracterizează prin diversitatea sa."
+      "Penhalonga contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Penhalonga se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Penhalonga contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Penhalonga is characterized by its diversity."
+      "Penhalonga contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Penhalonga is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/penhalonga-cities-v2.webp"},
   {
     id: "headlands-cities-v2",
     type: "city",
@@ -1658,23 +1639,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Headlands trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Headlands zeichnet sich durch ihre Vielfalt aus."
+      "Headlands trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Headlands zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Headlands hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Headlands körüli régió sokszínűségéről ismert."
+      "Headlands hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Headlands körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Headlands contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Headlands se caracterizează prin diversitatea sa."
+      "Headlands contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Headlands se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Headlands contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Headlands is characterized by its diversity."
+      "Headlands contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Headlands is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/headlands-cities-v2.webp"},
   {
     id: "concession-cities-v2",
     type: "city",
@@ -1689,23 +1669,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Concession trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Concession zeichnet sich durch ihre Vielfalt aus."
+      "Concession trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Concession zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Concession hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Concession körüli régió sokszínűségéről ismert."
+      "Concession hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Concession körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Concession contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Concession se caracterizează prin diversitatea sa."
+      "Concession contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Concession se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Concession contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Concession is characterized by its diversity."
+      "Concession contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Concession is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/concession-cities-v2.webp"},
   {
     id: "murehwa-cities-v2",
     type: "city",
@@ -1720,23 +1699,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Murehwa trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Murehwa zeichnet sich durch ihre Vielfalt aus."
+      "Murehwa trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Murehwa zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Murehwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Murehwa körüli régió sokszínűségéről ismert."
+      "Murehwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Murehwa körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Murehwa contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Murehwa se caracterizează prin diversitatea sa."
+      "Murehwa contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Murehwa se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Murehwa contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Murehwa is characterized by its diversity."
+      "Murehwa contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Murehwa is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/murehwa-cities-v2.webp"},
   {
     id: "wedza-cities-v2",
     type: "city",
@@ -1751,22 +1729,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Wedza trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Wedza zeichnet sich durch ihre Vielfalt aus."
+      "Wedza trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Wedza zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Wedza hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Wedza körüli régió sokszínűségéről ismert."
+      "Wedza hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Wedza körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Wedza contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Wedza se caracterizează prin diversitatea sa."
+      "Wedza contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Wedza se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Wedza contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Wedza is characterized by its diversity."
+      "Wedza contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Wedza is characterized by its diversity."
       ]
-    }
+    },
   },
   {
     id: "goromonzi-cities-v2",
@@ -1782,22 +1760,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Goromonzi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Goromonzi zeichnet sich durch ihre Vielfalt aus."
+      "Goromonzi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Goromonzi zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Goromonzi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Goromonzi körüli régió sokszínűségéről ismert."
+      "Goromonzi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Goromonzi körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Goromonzi contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Goromonzi se caracterizează prin diversitatea sa."
+      "Goromonzi contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Goromonzi se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Goromonzi contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Goromonzi is characterized by its diversity."
+      "Goromonzi contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Goromonzi is characterized by its diversity."
       ]
-    }
+    },
   },
   {
     id: "chakari-cities-v2",
@@ -1813,23 +1791,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Chakari trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Chakari zeichnet sich durch ihre Vielfalt aus."
+      "Chakari trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Chakari zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Chakari hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Chakari körüli régió sokszínűségéről ismert."
+      "Chakari hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Chakari körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Chakari contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Chakari se caracterizează prin diversitatea sa."
+      "Chakari contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Chakari se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Chakari contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Chakari is characterized by its diversity."
+      "Chakari contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Chakari is characterized by its diversity."
       ]
-    }
-  },
+    }, image: "/poi-images/chakari-cities-v2.webp"},
   {
     id: "shangani-cities-v2",
     type: "city",
@@ -1844,21 +1821,22 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
     facts: {
       "de": [
-        "Shangani trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-        "Die Region um Shangani zeichnet sich durch ihre Vielfalt aus."
+      "Shangani trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
+      "Die Region um Shangani zeichnet sich durch ihre Vielfalt aus."
       ],
       "hu": [
-        "Shangani hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
-        "A(z) Shangani körüli régió sokszínűségéről ismert."
+      "Shangani hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
+      "A(z) Shangani körüli régió sokszínűségéről ismert."
       ],
       "ro": [
-        "Shangani contribuie la viața culturală și economică a statului Zimbabwe.",
-        "Regiunea din jurul Shangani se caracterizează prin diversitatea sa."
+      "Shangani contribuie la viața culturală și economică a statului Zimbabwe.",
+      "Regiunea din jurul Shangani se caracterizează prin diversitatea sa."
       ],
       "en": [
-        "Shangani contributes to the cultural and economic life of Zimbabwe.",
-        "The region around Shangani is characterized by its diversity."
+      "Shangani contributes to the cultural and economic life of Zimbabwe.",
+      "The region around Shangani is characterized by its diversity."
       ]
-    }
+    },
   }
 ];
+

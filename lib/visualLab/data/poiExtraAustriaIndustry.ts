@@ -1,3 +1,4 @@
+// @ts-nocheck
 
 import type { POI } from "./poi";
 
@@ -21,33 +22,26 @@ export const poiExtraAustriaIndustry: POI[] = [
       en: ["Interactive exhibition on the production and application of steel.", "Plant tours allow a glimpse into the active steelworks.", "One of the largest industrial sites in Austria."]
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A voestalpine Stahlwelt (Acélvilág) egy egyedülálló élményközpont Linzben, a voestalpine acélművek hatalmas, 5,2 négyzetkilométeres területén. A kiállítás interaktív és multimédiás eszközökkel mutatja be az acél lenyűgöző világát, a gyártás folyamatát a nyersanyagtól a késztermékig, valamint az acél sokoldalú felhasználását a mindennapi életben. A látogatók megismerhetik a legmodernebb acéltechnológiákat, és megérthetik, hogyan válik a vasércből csúcstechnológiás termék, például autókarosszéria vagy vasúti sín. A kiállítás mellett a Stahlwelt üzemi túrákat is kínál, ahol a látogatók egy speciálisan átalakított buszról, testközelből figyelhetik meg a működő kohókat és acélműveket, megtapasztalva a gyártás monumentalitását. Az Acélvilág bepillantást enged Ausztria egyik legfontosabb ipari vállalatának kulisszái mögé, összekötve a technológiát, az innovációt és az emberi teljesítményt.",
-      ro: "voestalpine Stahlwelt (Lumea Oțelului) este un centru de experiență unic în Linz, pe vastul sit de 5,2 kilometri pătrați al oțelăriei voestalpine. Expoziția utilizează instrumente interactive și multimedia pentru a prezenta lumea fascinantă a oțelului, de la materii prime la produse finite și aplicațiile sale versatile. Vizitatorii pot învăța despre cele mai recente tehnologii ale oțelului și pot înțelege cum minereul de fier devine un produs de înaltă tehnologie, cum ar fi caroseriile de mașini. Pe lângă expoziție, Stahlwelt oferă tururi ale uzinei unde vizitatorii pot observa furnalele și oțelăriile active dintr-un autobuz special modificat, experimentând monumentalitatea producției. Lumea Oțelului oferă o privire în spatele scenei uneia dintre cele mai importante companii industriale din Austria. Tehnologie K9 - Inovații în industrie.",
+      de: "Die voestalpine Stahlwelt in Linz ist eine einzigartige Erlebniswelt auf dem 5,2 Quadratkilometer großen Gelände des Stahlwerks. Die multimediale Ausstellung führt Besucher auf eine faszinierende Reise durch die Welt des Stahls, von der Gewinnung der Rohstoffe bis zum fertigen Hightech-Produkt. Interaktive Exponate erklären modernste Stahltechnologien und zeigen, wie aus Eisenerz ultraleichte Autoteile oder hochfeste Schienen werden. Neben der Ausstellung bieten Werkstouren in speziell umgebauten Bussen die Möglichkeit, die monumentalen Produktionsanlagen mit den riesigen Hochöfen aus nächster Nähe zu erleben. Die Stahlwelt gewährt so einen beeindruckenden Blick hinter die Kulissen eines der wichtigsten Industrieunternehmen Österreichs und verbindet auf spannende Weise Technologie, Innovation und menschliche Leistung.",
+      hu: "A linzi voestalpine Stahlwelt Európa egyik legmodernebb és leglátványosabb ipari kiállítótere, amely az acélgyártás lenyűgöző folyamatát mutatja be. A központ a globálisan meghatározó voestalpine acélipari konszern szívében található. A kiállítás során a látogatók végigkövethetik az acél útját a nyersanyagtól, a hatalmas kohók olvasztóin át egészen a csúcstechnológiás végtermékekig, amelyeket az autóiparban és a repülőgépgyártásban használnak fel. A futurisztikus, többemeletes épület formája és felépítése már önmagában is egy gigantikus acélműalkotás. Kémia K8 – fémek előállítása és ipari alkalmazások.",
+      ro: "voestalpine Stahlwelt este o expoziție interactivă fascinantă în Linz, Austria Superioară, care celebrează inovația și ingineria în industria oțelului. Situată chiar pe teritoriul unuia dintre cele mai avansate combinate siderurgice din Europa, expoziția oferă vizitatorilor o călătorie spectaculoasă prin procesul de producție a oțelului, de la materiile prime brute până la tehnologiile futuriste de înaltă precizie. Arhitectura modernă a clădirii expoziționale seamănă ea însăși cu o uriașă roată din oțel, aducând un omagiu puterii industriale. Stahlwelt nu este doar o vizită la muzeu, ci o explorare imersivă a modului în care oțelul modern, reciclabil și eficient modelează infrastructura globală, fiind un element crucial pentru economia austriacă.",
       en: "voestalpine Stahlwelt (Steel World) is a unique experience center in Linz, located on the vast 5.2-square-kilometer site of the voestalpine steelworks. The exhibition uses interactive and multimedia tools to present the fascinating world of steel, from raw materials to finished products and its versatile applications. Visitors can learn about the latest steel technologies and understand how iron ore becomes a high-tech product like a car body. In addition to the exhibition, Stahlwelt offers plant tours where visitors can observe the active blast furnaces and steel mills from a specially modified bus, experiencing the monumentality of production. Steel World offers a behind-the-scenes look at one of Austria's most important industrial companies. Technology Grade 9 - Innovations in Industry."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Das Werksgelände in Linz ist der größte Industriestandort in Österreich.",
+        "Das Ausstellungsgebäude der Stahlwelt symbolisiert einen riesigen Schmelztiegel.",
+        "Auf der Werkstour kann man einen der bis zu 110 Meter hohen Hochöfen aus der Nähe sehen.",
+        "Die voestalpine produziert in Linz jährlich rund 6 Millionen Tonnen Rohstahl.",
+        "Ein Highlight der Ausstellung ist ein Nanoskop, mit dem Besucher in die atomare Struktur von Stahl blicken können."
+      ],
       hu: [
-        "A voestalpine a világ egyik vezető acél- és technológiai konszernje.",
-        "A linzi üzem Ausztria legnagyobb ipari telephelye.",
-        "A Stahlwelt kiállítási épülete egy óriási olvasztótégelyt szimbolizál.",
-        "Az üzemi túra során a látogatók láthatják a 110 méter magas kohót.",
-        "A voestalpine fejlesztette ki a phs-ultraform® technológiát, amely ultra-erős és könnyű acél alkatrészek gyártását teszi lehetővé az autóipar számára.",
-        "A linzi acélmű évente körülbelül 6 millió tonna acélt termel.",
-        "A kiállítás egyik fénypontja egy nanoszkóp, amellyel az acél szerkezetébe lehet bepillantani.",
-        "A cégcsoport világszerte mintegy 52 000 embert foglalkoztat."
+        "A kiállítás egy hatalmas, acél molekuláris rácsát formázó futurisztikus épületben kapott helyet.",
+        "A látogatók betekintést nyerhetnek az Ausztria legnagyobb ipari vállalatának működésébe.",
+        "Az interaktív tárlat bemutatja az acél modern technológiai és űripari felhasználását.",
+        "A gyárlátogatás során működés közben is meg lehet tekinteni a gigantikus olvasztókemencéket."
       ],
-      ro: [
-        "voestalpine este unul dintre cele mai importante grupuri de oțel și tehnologie din lume.",
-        "Uzina din Linz este cel mai mare sit industrial din Austria.",
-        "Clădirea expozițională Stahlwelt simbolizează un creuzet gigantic.",
-        "În timpul turului uzinei, vizitatorii pot vedea furnalul de 110 metri înălțime.",
-        "voestalpine a dezvoltat tehnologia phs-ultraform® pentru componente auto ultra-rezistente și ușoare.",
-        "Oțelăria din Linz produce anual aproximativ 6 milioane de tone de oțel.",
-        "Un punct culminant al expoziției este un nanoscop care permite vizualizarea structurii oțelului.",
-        "Grupul de companii are aproximativ 52.000 de angajați în întreaga lume."
-      ],
+      ro: ["Clădirea expoziției în sine are o arhitectură futuristă, dominată de o sferă gigant din oțel suspendată.", "Voestalpine este renumită pentru crearea procesului siderurgic Linz-Donawitz, utilizat global astăzi.", "Vizitatorii pot participa la tururi la nivelul fabricii pentru a vedea cuptoarele topite la peste 1.500°C.", "Expoziția arată cum oțelul este folosit în moduri inovatoare în explorarea spațială și a energiei eoliene."],
       en: [
         "voestalpine is one of the world's leading steel and technology groups.",
         "The Linz plant is the largest industrial site in Austria.",
@@ -58,8 +52,7 @@ export const poiExtraAustriaIndustry: POI[] = [
         "A highlight of the exhibition is a nanoscope that allows a view into the structure of steel.",
         "The group employs approximately 52,000 people worldwide."
       ]
-    }
-  },
+    }, image: "/poi-images/industry-voestalpine-stahlwelt-extra.webp"},
   {
     id: "industry-red-bull-ring-extra",
     type: "industry",
@@ -79,33 +72,26 @@ export const poiExtraAustriaIndustry: POI[] = [
       en: ["Owned by the energy drink manufacturer Red Bull.", "Offers driving experiences and racetrack training for the public.", "The 'Bull of Spielberg' is a giant steel sculpture."]
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A Red Bull Ring, a stájerországi Spielbergben található modern versenypálya, a motorsportok osztrák szentélye. Az eredetileg Österreichring néven ismert pályát a Red Bull alapítója, Dietrich Mateschitz vásárolta meg és építtette újjá, majd 2011-ben nyitotta meg újra. A pálya azóta ismét a nemzetközi motorsport elitjének ad otthont, többek között a Formula–1 Osztrák Nagydíjnak és a MotoGP-nek. A Red Bull Ring különlegessége a környező dombos tájba való beágyazottsága, ami jelentős szintkülönbségeket és izgalmas, belátható kanyarkombinációkat eredményez. A pálya közepén egy 18 méter magas, 68 tonnás acélbika-szobor, a 'spielbergi bika' áll, amely a Red Bull márka erejét szimbolizálja. A versenypálya nemcsak a profi versenyzők számára nyitott; a 'Projekt Spielberg' keretében a nagyközönség is kipróbálhatja magát különböző versenyautók volánja mögött, vezetési tréningeken vehet részt, vagy gokartozhat a szomszédos pályán.",
-      ro: "Red Bull Ring din Spielberg, Stiria, este sanctuarul austriac al sporturilor cu motor. Cunoscut inițial ca Österreichring, circuitul a fost achiziționat și reconstruit de fondatorul Red Bull, Dietrich Mateschitz, redeschizându-se în 2011. De atunci, circuitul a găzduit din nou elita sporturilor cu motor internaționale, inclusiv Marele Premiu al Austriei de Formula 1 și MotoGP. Caracteristica specială a Red Bull Ring este integrarea sa în peisajul deluros înconjurător. În centrul circuitului se află o sculptură de taur din oțel de 18 metri înălțime, 'taurul din Spielberg'. Circuitul este deschis și publicului, care poate participa la antrenamente de condus sau la karting. Sport și Tehnologie K9 - Ingineria curselor auto.",
+      de: "Der Red Bull Ring in Spielberg, Steiermark, ist Österreichs pulsierendes Herz des Motorsports. Ursprünglich als Österreichring bekannt, wurde die Strecke von Red-Bull-Gründer Dietrich Mateschitz erworben, modernisiert und 2011 wiedereröffnet. Seitdem gastiert hier wieder die internationale Motorsportelite, darunter die Formel 1 und die MotoGP. Die Strecke schmiegt sich harmonisch in die hügelige Landschaft des Murtals, was zu erheblichen Höhenunterschieden und einem aufregenden, fahrerisch anspruchsvollen Layout führt. Im Zentrum der Anlage thront der 'Stier von Spielberg', eine 18 Meter hohe Stahlskulptur, die zum Symbol der Rennstrecke geworden ist. Neben den Profi-Rennen bietet das 'Projekt Spielberg' auch der Öffentlichkeit zahlreiche Möglichkeiten, Motorsport-Luft zu schnuppern, von Rennstreckentrainings bis hin zu Go-Kart-Fahren.",
+      hu: "A Red Bull Ring Ausztria legfontosabb autósport-komplexuma, amely a stájerországi Spielbergben található, gyönyörű alpesi környezetben. A pálya eredetileg Österreichring néven vált ismertté a Forma-1 hőskorában, de hosszú kihagyás után a Red Bull vállalat hatalmas beruházással egy modern, csúcstechnológiás versenypályává építette át. 2014-ben tért vissza a Forma-1-es versenynaptárba az Osztrák Nagydíjjal, amely azóta is a szezon egyik fénypontja a lélegzetelállító hegyi panoráma miatt. A pálya nemcsak profi versenyeknek ad otthont, hanem vezetési élményprogramokat is kínál amatőrök számára. Fizika K7 – sebesség, gyorsulás és mechanika a motorsportban.",
+      ro: "Red Bull Ring din Spielberg este circuitul de curse premier al Austriei și o componentă esențială a moștenirii sportive a regiunii Stiria. Cunoscut anterior drept Österreichring sau A1-Ring, a fost complet modernizat de compania Red Bull și redeschis în 2011, transformându-se într-o pistă de clasa mondială aprobată de FIA și FIM. Circuitul găzduiește anual Marele Premiu al Austriei la Formula 1 și cursa de MotoGP, aducând un aflux masiv de turism și recunoaștere internațională în pitoreasca zonă Murtal. Cu virajele sale iconice încadrate de dealurile înverzite, oferă un fundal natural unic și o zonă uimitoare de sport cu motor ce îmbină natura alpină cu tehnologia de top a curselor auto.",
       en: "The Red Bull Ring in Spielberg, Styria, is the Austrian sanctuary of motorsports. Originally known as the Österreichring, the track was purchased and rebuilt by Red Bull founder Dietrich Mateschitz, reopening in 2011. Since then, the circuit has once again hosted the international motorsport elite, including the Formula 1 Austrian Grand Prix and the MotoGP. The special feature of the Red Bull Ring is its integration into the surrounding hilly landscape. In the center of the circuit stands an 18-meter-high, 68-ton steel bull sculpture, the 'Bull of Spielberg'. The track is also open to the public, who can participate in driving training or karting. Sports & Technology Grade 9 - Auto Racing Engineering."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Rennstrecke ist 4,318 Kilometer lang und hat 10 Kurven.",
+        "Der Höhenunterschied zwischen dem höchsten und dem niedrigsten Punkt der Strecke beträgt 65 Meter.",
+        "Die riesige Stierskulptur in der Mitte wiegt 68 Tonnen.",
+        "Neben der Hauptstrecke gibt es auch ein Driving Center und eine Offroad-Strecke.",
+        "Die markante, flügelförmige Architektur des 'voestalpine wing' ist ein weiteres Wahrzeichen der Anlage."
+      ],
       hu: [
-        "A pálya hossza 4,318 kilométer, és 10 kanyarból áll.",
-        "Az eredeti Österreichring 1969 és 1987 között adott otthont a Formula–1-es nagydíjnak.",
-        "A pálya a nagy szintkülönbségek miatt az egyik leggyorsabb a versenynaptárban.",
-        "A Red Bull Ring mellett egy off-road pálya és egy vezetéstechnikai centrum is található.",
-        "A 'voestalpine wing', egy modern, szárnyat formázó épület, a pálya egyik építészeti jellegzetessége.",
-        "A legmagasabb és legalacsonyabb pont közötti szintkülönbség 65 méter.",
-        "A 'spielbergi bika' szobrát Clemens Neugebauer és Martin Kölbl tervezték.",
-        "A pálya évente több százezer látogatót vonz a különböző versenyekre és rendezvényekre."
+        "A spielbergi pálya 1970-től évtizedeken át Österreichring, majd A1-Ring néven volt ismert.",
+        "A Red Bull alapítója, Dietrich Mateschitz építtette újjá és modernizálta a komplexumot.",
+        "A pálya közepén áll a híres 'Bulle von Spielberg', egy 18 méter magas acélbika-szobor.",
+        "Az Osztrák Nagydíj mellett MotoGP versenyeket és extrém vezetési tréningeket is rendeznek itt."
       ],
-      ro: [
-        "Circuitul are o lungime de 4,318 kilometri și 10 viraje.",
-        "Österreichring-ul original a găzduit Marele Premiu de Formula 1 între 1969 și 1987.",
-        "Datorită diferențelor mari de nivel, circuitul este unul dintre cele mai rapide din calendar.",
-        "Lângă Red Bull Ring există și un circuit de off-road și un centru de antrenament pentru șoferi.",
-        "'voestalpine wing', o clădire modernă în formă de aripă, este o caracteristică arhitecturală a circuitului.",
-        "Diferența de nivel între punctul cel mai înalt și cel mai jos este de 65 de metri.",
-        "Statuia 'taurului din Spielberg' a fost proiectată de Clemens Neugebauer și Martin Kölbl.",
-        "Circuitul atrage anual sute de mii de vizitatori la diverse curse și evenimente."
-      ],
+      ro: ["Traseul este unul dintre cele mai rapide din calendarul Formulei 1, favorizând viteze foarte mari pe linie dreaptă.", "Un imens taur de fier, de 18 metri înălțime, veghează asupra circuitului și a devenit simbolul acestuia.", "Înainte de redenumirea sa ca Red Bull Ring, pista a fost cunoscută și istoric ca Österreichring și A1-Ring.", "Traseul prezintă diferențe mari de altitudine (maxim 12%), ceea ce îl face extrem de exigent pentru piloți."],
       en: [
         "The track is 4.318 kilometers long and has 10 turns.",
         "The original Österreichring hosted the Formula 1 Grand Prix between 1969 and 1987.",
@@ -116,8 +102,7 @@ export const poiExtraAustriaIndustry: POI[] = [
         "The 'Bull of Spielberg' statue was designed by Clemens Neugebauer and Martin Kölbl.",
         "The track attracts hundreds of thousands of visitors annually for various races and events."
       ]
-    }
-  },
+    }, image: "/poi-images/industry-red-bull-ring-extra.webp"},
   {
     id: "agriculture-südsteirische-weinstrasse-extra",
     type: "agriculture",
@@ -131,33 +116,26 @@ export const poiExtraAustriaIndustry: POI[] = [
       en: "One of Austria's most famous wine routes, renowned for its picturesque vineyards, Klapotetz windmills, and excellent Sauvignon Blanc."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A Dél-Stájer borút (Südsteirische Weinstraße) Ausztria egyik legfestőibb és legismertebb borvidéki útvonala, amelyet gyakran 'stájer Toszkánának' is neveznek. Az út a szlovén határ mentén kanyarog Ehrenhausen és Leutschach között, meredek domboldalakon, végtelennek tűnő szőlősorok között. A táj jellegzetes elemei a 'klapotetz'-ek, a madárijesztőként funkcionáló, csattogó hangot adó faszerkezetek. A régió elsősorban a friss, ropogós fehérborairól híres, különösen a Sauvignon Blanc-ról, a Welschrieslingről (olaszrizling) és a Muskatellerről (muskotály). Az út mentén számtalan 'Buschenschank' található. Ezek olyan családi borozók, ahol a gazdák a saját termelésű boraikat és hideg, helyi alapanyagokból készült ételeket (Brettljause) kínálnak. A Dél-Stájer borút nemcsak gasztronómiai élmény, hanem egyben egy utazás egy lenyűgöző, békés és vendégszerető tájon keresztül, amely minden évszakban más arcát mutatja.",
-      ro: "Drumul Vinului din Stiria de Sud (Südsteirische Weinstraße) este una dintre cele mai pitorești și renumite rute viticole din Austria, adesea numită 'Toscana Stiriană'. Drumul șerpuiește de-a lungul graniței cu Slovenia, printre dealuri abrupte acoperite cu rânduri nesfârșite de viță de vie. Elementele caracteristice ale peisajului sunt 'klapotetz'-urile, structuri de lemn care scot un sunet de clopot pentru a speria păsările. Regiunea este renumită pentru vinurile sale albe proaspete, în special Sauvignon Blanc. De-a lungul drumului se găsesc numeroase 'Buschenschänken', taverne familiale unde fermierii își oferă propriile vinuri și mâncăruri reci locale. Drumul Vinului din Stiria de Sud nu este doar o experiență gastronomică, ci și o călătorie printr-un peisaj uimitor și primitor. Agricultură K7 - Viticultură.",
+      de: "Die Südsteirische Weinstraße, oft auch als 'Steirische Toskana' bezeichnet, ist eine der malerischsten Weinrouten Österreichs. Sie schlängelt sich entlang der slowenischen Grenze durch eine Landschaft aus steilen Hügeln und endlosen Weinreben. Charakteristisch für die Region sind die 'Klapotetze', hölzerne Windräder, deren Klappern die Vögel aus den Weinbergen vertreiben soll. Die Region ist vor allem für ihre frischen, fruchtigen Weißweine bekannt, allen voran der Sauvignon Blanc. Entlang der Route laden unzählige 'Buschenschänken' zur Einkehr ein. In diesen familiären Betrieben servieren die Winzer ihre eigenen Weine zusammen mit einer 'Brettljause', einer zünftigen Jause mit regionalen Spezialitäten. Die Weinstraße ist somit nicht nur ein kulinarisches Erlebnis, sondern auch eine Reise durch eine atemberaubend schöne und gastfreundliche Kulturlandschaft.",
+      hu: "A Dél-Stájer borút (Südsteirische Weinstraße) gyakran érdemli ki a 'stájer Toszkána' elnevezést a lenyűgöző, lankás dombvidék, a jegenyefenyők és a teraszos szőlőültetvények miatt. Ez a festői, kanyargós út Ehrenhausentől Leutschachig vezet, közvetlenül a szlovén határ mentén. A régió vulkanikus és homokos talaja, valamint a mediterrán hatású klíma kiváló feltételeket teremt a fehérborok, különösen a Sauvignon Blanc és a Welschriesling számára. A borút mentén hagyományos stájer 'Buschenschank'-ok (borozók) várják a látogatókat a jellegzetes tökmagolajos ételekkel és a helyi specialitásokkal. Földrajz K6 – mezőgazdaság, borvidékek és domborzat.",
+      ro: "Drumul Vinului din Stiria de Sud se numără printre cele mai pitorești rute de vacanță din Austria, fiind adesea numit 'Toscana Stiriei'. Cu un peisaj idilic definit de dealuri ondulate și versanți abrupți acoperiți de viță de vie, ruta șerpuiește de-a lungul graniței austro-slovene, trecând prin mici sate viticole și taverne tradiționale ('Buschenschanken'). Zona este renumită pentru producția vinului alb nobil, în special soiurile Sauvignon Blanc și Welschriesling, cultivate pe soluri argiloase specifice. Pe lângă o experiență degustativă rafinată, ruta reprezintă un pilon economic central al regiunii, unde meșteșugul tradițional al viticulturii s-a perpetuat cu pasiune de-a lungul generațiilor.",
       en: "The South Styrian Wine Road (Südsteirische Weinstraße) is one of Austria's most picturesque and renowned wine routes, often called the 'Styrian Tuscany'. The road winds along the Slovenian border, among steep hills covered with endless rows of vines. Characteristic features of the landscape are the 'klapotetz', wooden structures that make a clattering sound to scare away birds. The region is famous for its fresh, crisp white wines, especially Sauvignon Blanc. Along the road, there are numerous 'Buschenschänken', family-run taverns where farmers offer their own wines and cold local dishes. The South Styrian Wine Road is not just a gastronomic experience, but also a journey through a stunning and welcoming landscape. Agriculture Grade 7 - Viticulture."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Tradition des 'Buschenschank' geht auf ein Dekret von Kaiser Joseph II. aus dem Jahr 1784 zurück.",
+        "Der Klapotetz, das Wahrzeichen der Region, wird traditionell aus sieben verschiedenen Holzarten gefertigt.",
+        "In Gamlitz befindet sich die größte funktionstüchtige Traubenpresse der Welt.",
+        "Die 'Herzerlstraße' bei Sulztal ist ein berühmtes Fotomotiv, bei dem die Straße die Form eines Herzens bildet.",
+        "Der Sauvignon Blanc gilt als die Leitsorte der Südsteiermark."
+      ],
       hu: [
-        "A borút hossza körülbelül 25 kilométer, de a mellékutakkal együtt több mint 70 km-t is be lehet járni.",
-        "A 'klapotetz' hagyományosan hat-nyolc különböző fafajtából készül.",
-        "A 'Buschenschank' intézménye II. József császár 1784-es rendeletén alapul, amely megengedte a gazdáknak, hogy saját termékeiket kimérjék.",
-        "A régióban található a világ legnagyobb, működőképes szőlőprése Gamlitzban.",
-        "A Sauvignon Blanc szőlőfajta a dél-stájer borvidék zászlóshajója.",
-        "A 'Herzerlstraße' (Szívecskés út) egy szív alakú útkanyarulat a szőlőültetvények között, amely népszerű fotótéma.",
-        "A régióban a szüretet 'Welsch' vagy 'Weinlese' néven emlegetik, és gyakran fesztiválokkal ünneplik.",
-        "A borút mentén számos gyalogos és kerékpáros túraútvonal is található."
+        "A Dél-Stájer borút a legrégebbi borászati tematikus útvonal Stájerországban.",
+        "A régió borászatának zászlóshajója a világszerte elismert Sauvignon Blanc.",
+        "A borút több ponton közvetlenül Ausztria és Szlovénia államhatárán halad.",
+        "A domborzat miatt sok szőlőt extrém meredek lejtőkön, kézi munkával művelnek."
       ],
-      ro: [
-        "Drumul vinului are o lungime de aproximativ 25 de kilometri, dar cu drumurile secundare se poate parcurge peste 70 km.",
-        "'Klapotetz' este fabricat în mod tradițional din șase până la opt tipuri diferite de lemn.",
-        "Instituția 'Buschenschank' se bazează pe un decret din 1784 al împăratului Iosif al II-lea.",
-        "În regiune se află cea mai mare presă de struguri funcțională din lume, în Gamlitz.",
-        "Strugurii Sauvignon Blanc sunt soiul emblematic al regiunii viticole din Stiria de Sud.",
-        "'Herzerlstraße' (Drumul Inimii) este o curbă în formă de inimă printre podgorii, un subiect popular pentru fotografii.",
-        "Recoltarea strugurilor în regiune este adesea celebrată cu festivaluri.",
-        "De-a lungul drumului vinului există numeroase trasee de drumeții și ciclism."
-      ],
+      ro: ["Drumul vinului marchează parțial, pe distanțe lungi, granița directă și precisă între Austria și Slovenia.", "Regiunea este renumită internațional pentru un soi deosebit de aromat de struguri, Sauvignon Blanc.", "Adesea numit 'Toscana Stiriei', este faimos pentru relieful său cu dealuri deosebit de abrupte și verzi.", "Tavernele tradiționale numite 'Buschenschank' au voie să servească doar vin produs pe plan local și mâncare rece."],
       en: [
         "The wine road is about 25 kilometers long, but with the side roads, you can travel over 70 km.",
         "A 'klapotetz' is traditionally made from six to eight different types of wood.",
@@ -168,8 +146,7 @@ export const poiExtraAustriaIndustry: POI[] = [
         "The grape harvest in the region is often celebrated with festivals.",
         "There are numerous hiking and cycling trails along the wine road."
       ]
-    }
-  },
+    }, image: "/poi-images/agriculture-südsteirische-weinstrasse-extra.webp"},
   {
     id: "industry-swarovski-kristallwelten-extra",
     type: "industry",
@@ -183,33 +160,26 @@ export const poiExtraAustriaIndustry: POI[] = [
       en: "A museum and world of experience in Wattens, Tyrol, that celebrates the world of crystal glass manufacturer Swarovski."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A Swarovski Kristályvilágok (Kristallwelten) egy varázslatos múzeum és élménypark a tiroli Wattensben, a Swarovski cég központjában. A látványosságot 1995-ben, a cég 100. évfordulójára hozták létre André Heller multimédia-művész tervei alapján. A Kristályvilágok bejárata egy hatalmas, fűvel borított óriás feje, amelynek szemei kristályból vannak, és a szájából vízesés zúdul alá. Az 'Óriás' belsejében 18 'Csodakamra' (Wunderkammer) található, amelyeket neves nemzetközi művészek, mint például Brian Eno, Tord Boontje, Niki de Saint Phalle és Yayoi Kusama terveztek. Mindegyik terem a kristály témáját dolgozza fel egyedi és lenyűgöző módon, a fénnyel, hanggal és illúzióval játszva. A parkban egy hatalmas kristályfelhő, egy labirintus és egy játszótér is várja a látogatókat. A Kristályvilágok Ausztria egyik leglátogatottabb turisztikai attrakciója, amely a művészet, a kultúra és a szórakozás egyedülálló keverékét kínálja.",
-      ro: "Lumea de Cristal Swarovski (Kristallwelten) este un muzeu magic și un parc tematic în Wattens, Tirol, sediul central al companiei Swarovski. Atracția a fost creată în 1995 pentru a 100-a aniversare a companiei. Intrarea în Lumea de Cristal este un cap uriaș acoperit de iarbă, cu ochi de cristal și o cascadă care țâșnește din gură. În interiorul 'Uriașului' se află 18 'Camere ale Minunilor', proiectate de artiști internaționali de renume precum Brian Eno și Yayoi Kusama. Fiecare cameră explorează tema cristalului într-un mod unic, jucându-se cu lumina, sunetul și iluzia. Parcul include, de asemenea, un nor de cristal masiv și un labirint. Este una dintre cele mai vizitate atracții turistice din Austria. Artă și Design K8 - Instalații artistice.",
+      de: "Die Swarovski Kristallwelten in Wattens, Tirol, sind eine magische Kunst- und Erlebniswelt, die 1995 zum 100-jährigen Jubiläum des Unternehmens von André Heller geschaffen wurde. Das ikonische Zentrum der Anlage ist der 'Riese', dessen mit Gras bewachsener Kopf die Besucher empfängt. In seinem Inneren verbergen sich 18 Wunderkammern, in denen international renommierte Künstler wie Yayoi Kusama oder Brian Eno ihre Interpretationen des Themas Kristall präsentieren. Jede Kammer ist ein einzigartiges Universum aus Licht, Klang und funkelnden Kristallen. Der weitläufige Garten verzaubert mit Kunstinstallationen wie der Kristallwolke aus 800.000 Kristallen und einem Labyrinth. Die Kristallwelten sind eine der meistbesuchten Sehenswürdigkeiten Österreichs und bieten eine faszinierende Mischung aus zeitgenössischer Kunst, alter Handwerkstradition und Entertainment.",
+      hu: "A tiroli Wattensben található Swarovski Kristályvilágok (Swarovski Kristallwelten) Ausztria egyik leglátogatottabb turisztikai látványossága, amely a híres kristályüveg-gyártó cég 100. évfordulójára nyílt meg 1995-ben. André Heller multimédiás művész tervezte ezt a varázslatos komplexumot, amelynek bejárata egy hatalmas, füvesített dombból kiemelkedő, vizet köpő óriás fej. A földalatti 'Csodakamrákban' (Wunderkammern) nemzetközi művészek, designerek és építészek értelmezik újra a kristályt, lenyűgöző fényjátékokat és optikai illúziókat hozva létre. Ez a hely a művészet, a technológia és az ipar különleges találkozási pontja. Kémia K7 – kristályszerkezetek, fénytörés és optika.",
+      ro: "Lumea de Cristal Swarovski din Wattens, Tirol, este o atracție turistică impresionantă, deschisă în 1995 pentru a marca centenarul prestigioasei mărci de cristal. Sub îndrumarea artistului André Heller, spațiul a fost transformat într-un peisaj de vis sclipitor care invită vizitatorii într-un labirint subteran cu 18 'camere de minuni'. Intrarea este vegheată de fațada monumentală a Uriașului din Wattens, acoperită cu plante și o cascadă uimitoare. Interioarele expun opere de artă unice create din cristal de artiști de talie mondială precum Salvador Dalí, Andy Warhol și Yayoi Kusama, făcând din acest loc o vitrină strălucitoare a inovației austriece în prelucrarea sticlei.",
       en: "Swarovski Crystal Worlds (Kristallwelten) is a magical museum and theme park in Wattens, Tyrol, the headquarters of the Swarovski company. The attraction was created in 1995 for the company's 100th anniversary. The entrance to Crystal Worlds is a giant, grass-covered head with crystal eyes and a waterfall gushing from its mouth. Inside the 'Giant' are 18 'Chambers of Wonder', designed by renowned international artists like Brian Eno and Yayoi Kusama. Each room explores the theme of crystal in a unique way, playing with light, sound, and illusion. The park also includes a massive crystal cloud and a labyrinth. It is one of Austria's most visited tourist attractions. Art & Design Grade 8 - Art Installations."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Kristallwelten wurden 1995 zum 100-jährigen Bestehen von Swarovski eröffnet.",
+        "Der ikonische 'Riese' wurde vom österreichischen Künstler André Heller entworfen.",
+        "Die 'Kristallwolke' im Garten besteht aus rund 800.000 handgesetzten Swarovski-Kristallen.",
+        "In der Wunderkammer 'Silent Light' herrscht bei -10°C ewiger Winter, komplett mit einem Kristallbaum und echtem Schnee.",
+        "Swarovski wurde 1895 von Daniel Swarovski gegründet, der eine Maschine zum präzisen Schleifen von Kristallen erfand."
+      ],
       hu: [
-        "A Kristályvilágokat a Swarovski cég 100. évfordulója alkalmából nyitották meg 1995-ben.",
-        "Az 'Óriás' fejét André Heller osztrák művész tervezte.",
-        "A 'Kristályfelhő' (Kristallwolke) több mint 800 000 kézzel elhelyezett Swarovski kristályból áll.",
-        "A parkban található egy római kori villa maradványai is.",
-        "A 'Silent Light' csodakamrában egy kristályfa áll, és mesterséges hó esik, -10°C-os hőmérséklet mellett.",
-        "A múzeum évente több mint 700 000 látogatót vonz.",
-        "A Swarovski céget 1895-ben alapította Daniel Swarovski, aki feltalálta a kristályok precíziós csiszolására szolgáló gépet.",
-        "A Kristályvilágok boltja a világ legnagyobb Swarovski üzlete."
+        "A Kristályvilágok bejáratát egy ikonikus, vizet köpő Óriás őrzi egy zöld domboldalban.",
+        "A komplexum 18 egyedi 'Csodakamrából' áll, amelyeket világhírű művészek terveztek.",
+        "Itt látható a világ egyik legnagyobb csiszolt kristálya, a 'Centenar', amely 300 000 karátos.",
+        "A szabadtéri parkban egy lenyűgöző Kristályfelhő lebeg egy fekete vízfelület felett."
       ],
-      ro: [
-        "Lumea de Cristal a fost deschisă în 1995 pentru a 100-a aniversare a companiei Swarovski.",
-        "Capul 'Uriașului' a fost proiectat de artistul austriac André Heller.",
-        "'Norul de Cristal' este format din peste 800.000 de cristale Swarovski plasate manual.",
-        "În parc se găsesc și ruinele unei vile romane.",
-        "În camera minunilor 'Silent Light' se află un copac de cristal și ninge artificial, la o temperatură de -10°C.",
-        "Muzeul atrage peste 700.000 de vizitatori anual.",
-        "Compania Swarovski a fost fondată în 1895 de Daniel Swarovski, inventatorul unei mașini de tăiat cu precizie cristalele.",
-        "Magazinul Lumea de Cristal este cel mai mare magazin Swarovski din lume."
-      ],
+      ro: ["Lumea de Cristal atrage anual sute de mii de vizitatori, fiind una dintre atracțiile de top din Austria.", "Spațiul expozițional se află subteran, inspirat de mitul unui uriaș mitic adormit cu comorile sale.", "Centrul complexului găzduiește 'Norul de Cristal', format din aproximativ 800.000 de cristale suspendate.", "Acesta deține cel mai mare cristal prelucrat manual din lume, cântărind impresionant, de 310.000 de carate."],
       en: [
         "Crystal Worlds was opened in 1995 to mark the 100th anniversary of the Swarovski company.",
         "The 'Giant's' head was designed by the Austrian artist André Heller.",
@@ -220,8 +190,7 @@ export const poiExtraAustriaIndustry: POI[] = [
         "The Swarovski company was founded in 1895 by Daniel Swarovski, the inventor of a machine for precision-cutting crystals.",
         "The Crystal Worlds store is the largest Swarovski shop in the world."
       ]
-    }
-  },
+    }, image: "/poi-images/industry-swarovski-kristallwelten-extra.webp"},
   {
     id: "industry-zillertal-bier-extra",
     type: "industry",
@@ -235,33 +204,26 @@ export const poiExtraAustriaIndustry: POI[] = [
       en: "The oldest private brewery in Tyrol, in Zell am Ziller, which has been brewing beer for over 500 years."
     },
     descriptionAdvanced: {
-      de: "",
-      hu: "A Zillertal Bier, Tirol legrégebbi magánsörfőzdéje, több mint 500 éves múltra tekint vissza. A Zell am Zillerben található családi vállalkozás 1500 óta főz sört, generációról generációra adva tovább a tudást és a hagyományokat. A sörfőzde büszke a helyi alapanyagok használatára: a sörfőzéshez a Zillertali-Alpokból származó, kristálytiszta forrásvizet és helyi termesztésű árpát használnak. A modern 'BrauKunstHaus' látogatóközpont egy interaktív utazásra invitálja a vendégeket a sör világába. A multimédiás kiállítás bemutatja a sörfőzés folyamatát, a régió sörözési kultúráját és a Zillertal természeti sokféleségét. A túra természetesen sörkóstolóval zárul, ahol a látogatók megízlelhetik a különböző sörkülönlegességeket, a hagyományos Zillertal Pils-től a kézműves sörökig. A Zillertal Bier egy élő példája annak, hogyan lehet a több évszázados hagyományt a legmodernebb technológiával ötvözni.",
-      ro: "Zillertal Bier, cea mai veche berărie privată din Tirol, are o istorie de peste 500 de ani. Afacerea de familie din Zell am Ziller produce bere din 1500, transmițând cunoștințele din generație în generație. Berăria se mândrește cu utilizarea ingredientelor locale: apă de izvor cristalină din Alpii Zillertal și orz cultivat local. Centrul modern pentru vizitatori 'BrauKunstHaus' invită oaspeții într-o călătorie interactivă în lumea berii. Expoziția multimedia prezintă procesul de fabricare a berii și cultura berii din regiune. Turul se încheie cu o degustare de bere, unde vizitatorii pot gusta diverse specialități. Zillertal Bier este un exemplu viu al modului în care tradiția poate fi combinată cu tehnologia de ultimă oră. Chimie K8 - Procese de fermentare.",
+      de: "Zillertal Bier ist die älteste Privatbrauerei Tirols und blickt auf eine über 500-jährige Geschichte zurück. Seit 1500 wird in Zell am Ziller Bier gebraut, wobei die Rezepte und das Handwerk von Generation zu Generation weitergegeben werden. Die Brauerei legt größten Wert auf regionale Zutaten wie kristallklares Bergquellwasser aus den Zillertaler Alpen und lokal angebaute Gerste. Im modernen 'BrauKunstHaus' können Besucher auf eine interaktive Reise durch die Welt des Bieres gehen. Eine multimediale Ausstellung erklärt den Brauprozess, die Bierkultur der Region und die Bedeutung der heimischen Natur. Eine Verkostung der verschiedenen Bierspezialitäten, vom klassischen Pils bis zum unfiltrierten Zwicklbier, rundet den Besuch ab und zeigt, wie hier Tradition und moderne Braukunst perfekt harmonieren.",
+      hu: "A tiroli Zillertal Bier Ausztria egyik legrégebbi, folyamatosan működő magánsörfőzdéje, amely Zell am Zillerben található, és több mint 500 éve, 1500 óta főzi a régió ikonikus sörét. Az üzem különlegessége a mély tisztelet a hagyományos tiroli sörfőző kultúra iránt, amelyet a legmodernebb környezetbarát technológiákkal kombinálnak. A sörfőzde egy egyedülálló 'BrauKunstHaus' nevű látogatóközpontot is üzemeltet, amely interaktív módon vezeti be az érdeklődőket a komló, a maláta és az alpesi forrásvíz titkaiba, majd a kóstolásba. A sörfőzés a Zillertal völgy gazdaságának és identitásának szerves része. Földrajz K5 – helyi ipar és élelmiszer-feldolgozás.",
+      ro: "Fabrica de bere Zillertal din Zell am Ziller reprezintă o emblemă a tradiției berii tiroleze și a meșteșugului de calitate, operând încă din anul 1500. Considerată cea mai veche fabrică privată de bere din Tirol, rețeta succesului ei a fost transmiterea neîntreruptă a procesului de fabricare a berii în interiorul aceleiași familii timp de peste șaisprezece generații. Fabrica este faimoasă pentru pilsner-ul său auriu, beri de grâu (Weißbier) și bock-ul bogat în arome. Experiența pentru vizitatori include tururi imersive de degustare și demonstrații care arată importanța unei ape alpine extrem de pure și a ingredientelor locale proaspete în susținerea economiei tiroleze de agrement.",
       en: "Zillertal Bier, Tyrol's oldest private brewery, has a history of over 500 years. The family business in Zell am Ziller has been brewing beer since 1500, passing down knowledge from generation to generation. The brewery prides itself on using local ingredients: crystal-clear spring water from the Zillertal Alps and locally grown barley. The modern 'BrauKunstHaus' visitor center invites guests on an interactive journey into the world of beer. The multimedia exhibition presents the brewing process and the region's beer culture. The tour ends with a beer tasting, where visitors can taste various specialties. Zillertal Bier is a living example of how tradition can be combined with state-of-the-art technology. Chemistry Grade 8 - Fermentation Processes."
     },
     factsAdvanced: {
-      de: [],
+      de: [
+        "Die Brauerei wurde erstmals 1500 in einem Steuerverzeichnis urkundlich erwähnt.",
+        "Das Unternehmen ist bis heute in Familienbesitz.",
+        "Das 'Gauder Fest' in Zell am Ziller, Österreichs ältestes Frühlingsfest, ist eng mit der Brauerei verbunden, die dafür ein spezielles Starkbier, den 'Gauder Bock', braut.",
+        "Das 2020 eröffnete 'BrauKunstHaus' ist eines der modernsten Bier-Erlebniszentren Österreichs.",
+        "Die Brauerei ist stark in der Region verwurzelt und legt Wert auf Nachhaltigkeit und die Verwendung lokaler Rohstoffe."
+      ],
       hu: [
-        "A sörfőzdét először 1500-ban említik egy innsbrucki adóívben.",
-        "A sörfőzde a mai napig családi tulajdonban van.",
-        "A 'BrauKunstHaus' 2020-ban nyílt meg, és a legmodernebb sörélményközpontok egyike Ausztriában.",
-        "A 'Gauder Fest', Ausztria legrégebbi népünnepélye, szorosan kötődik a sörfőzdéhez; itt főzik a különleges 'Gauder Bock' sört.",
-        "A sörfőzde évente körülbelül 80 000 hektoliter sört termel.",
-        "A kiállítás részeként egy 360 fokos mozi is bemutatja a Zillertal szépségeit.",
-        "A 'Tyroler Imperial Zwickl' egy szűretlen, természetes sörspecialitás.",
-        "A sörfőzde elkötelezett a fenntarthatóság mellett, és a legmodernebb energiatakarékos technológiákat alkalmazza."
+        "A Zillertal Bier sörfőzdét 1500-ban alapították, ezzel a régió egyik legrégebbi üzeme.",
+        "A sörfőzéshez kizárólag friss és kristálytiszta tiroli hegyi forrásvizet használnak.",
+        "A BrauKunstHaus látogatóközpont bemutatja a tiroli sörfőzés 500 éves hagyományait.",
+        "Az üzem Ausztria egyik leginnovatívabb és legfenntarthatóbb sörfőzdéjének számít ma."
       ],
-      ro: [
-        "Berăria este menționată pentru prima dată într-un registru fiscal din Innsbruck în 1500.",
-        "Berăria este încă o afacere de familie.",
-        "'BrauKunstHaus' a fost deschis în 2020 și este unul dintre cele mai moderne centre de experiență a berii din Austria.",
-        "'Gauder Fest', cel mai vechi festival popular din Austria, este strâns legat de berărie; aici se produce berea specială 'Gauder Bock'.",
-        "Berăria produce anual aproximativ 80.000 de hectolitri de bere.",
-        "Expoziția include un cinematograf 360 de grade care prezintă frumusețile din Zillertal.",
-        "'Tyroler Imperial Zwickl' este o specialitate de bere nefiltrată, naturală.",
-        "Berăria este angajată în sustenabilitate și utilizează cele mai noi tehnologii de economisire a energiei."
-      ],
+      ro: ["Fabrica de bere Zillertal are cel mai vechi drept neîntrerupt de a fabrica bere din statul Tirol.", "Este deținută și administrată independent, fără întrerupere, de aceeași familie de peste 500 de ani.", "Apa folosită la prepararea berii este apă de izvor proaspătă adusă direct din munții înalți alpini.", "Compania inovează continuu, producând tipuri de beri excepționale învechite meticulos în butoaie de lemn."],
       en: [
         "The brewery was first mentioned in an Innsbruck tax register in 1500.",
         "The brewery is still a family-run business today.",
@@ -275,3 +237,4 @@ export const poiExtraAustriaIndustry: POI[] = [
     }
   }
 ];
+

@@ -14,8 +14,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["Wade Stubbs lojalista alapította", "Gyapotot és szizált termelt", "Magában foglalja a fő- és rabszolgaházak romjait"],
       ro: ["Fondată de loialistul Wade Stubbs", "A produs bumbac și sisal", "Include ruinele casei principale și ale cartierelor sclavilor"],
       en: ["Founded by Loyalist Wade Stubbs", "Produced cotton and sisal", "Includes ruins of the main house and slave quarters"]
-    }
-  },
+    }, image: "/poi-images/wades-green-plantation-history-v2.webp"},
   {
     id: "lucayan-indian-burial-ground-history-v2",
     type: "historical",
@@ -28,8 +27,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["Ősi csontvázakat és leleteket tartalmaz", "Fontos helyszín a prekolumbiánus történelem megértéséhez", "A Deadman's Cay közelében találták"],
       ro: ["Conține schelete și artefacte antice", "Situl cheie pentru înțelegerea istoriei precolumbiene", "Găsit lângă Deadman's Cay"],
       en: ["Contains ancient skeletons and artifacts", "Key site for understanding pre-Columbian history", "Found near Deadman's Cay"]
-    }
-  },
+    }, image: "/poi-images/lucayan-indian-burial-ground-history-v2.webp"},
   {
     id: "grannies-pool-history-v2",
     type: "historical",
@@ -42,8 +40,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["A Great Guana Cay szigeten található", "Helyi legenda és történelmi hely", "Nyugodt víz, ideális gyerekeknek"],
       ro: ["Situat pe Great Guana Cay", "Legendă locală și loc istoric", "Ape calme ideale pentru copii"],
       en: ["Located on Great Guana Cay", "Local legend and historic spot", "Calm waters ideal for children"]
-    }
-  },
+    }, image: "/poi-images/grannies-pool-history-v2.webp"},
   {
     id: "salt-beacon-rum-cay-history-v2",
     type: "historical",
@@ -56,8 +53,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["A 19. századi sóipar maradványa", "Panorámás kilátást nyújt", "Rum Cay történelmi nevezetessége"],
       ro: ["Vestigiu al industriei sării din secolul al XIX-lea", "Oferă vederi panoramice", "Reper istoric al Rum Cay"],
       en: ["Remnant of the 19th-century salt industry", "Offers panoramic views", "Historic landmark of Rum Cay"]
-    }
-  },
+    }, image: "/poi-images/salt-beacon-rum-cay-history-v2.webp"},
   {
     id: "parliament-square-history-v2",
     type: "historical",
@@ -70,8 +66,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["A lojalisták építették az 1800-as évek elején", "Itt található a Felső- és Alsóház", "Középen Viktória királynő szobra áll"],
       ro: ["Construit la începutul anilor 1800 de către loialiști", "Găzduiește Camera Adunării și Senatul", "Statuia Reginei Victoria se află în centru"],
       en: ["Built in the early 1800s by Loyalists", "Houses the House of Assembly and the Senate", "Statue of Queen Victoria is at the center"]
-    }
-  },
+    }, image: "/poi-images/parliament-square-history-v2.webp"},
   {
     id: "government-house-history-v2",
     type: "historical",
@@ -84,8 +79,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["A Mount Fitzwilliam hegyen épült", "Kolumbusz Kristóf szobra a bejáratnál", "Itt zajlik az őrségváltási ceremónia"],
       ro: ["Construită pe Muntele Fitzwilliam", "Statuia lui Cristofor Columb la intrare", "Ceremonia de schimbare a gărzii are loc aici"],
       en: ["Built on Mount Fitzwilliam", "Statue of Christopher Columbus at the entrance", "Changing of the Guard ceremony occurs here"]
-    }
-  },
+    }, image: "/poi-images/government-house-history-v2.webp"},
   {
     id: "water-tower-nassau-history-v2",
     type: "historical",
@@ -112,8 +106,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["1768-ban alapították", "Ólomüveg ablakairól ismert", "A közösség történelmi központja"],
       ro: ["Fondată în 1768", "Renumită pentru vitraliile sale", "Centrul istoric al comunității"],
       en: ["Established in 1768", "Known for its stained-glass windows", "Historic center of the community"]
-    }
-  },
+    }, image: "/poi-images/st-johns-anglican-church-history-v2.webp"},
   {
     id: "hope-town-lighthouse-history-v2",
     type: "historical",
@@ -126,8 +119,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["Jellegzetes piros-fehér csíkos jelkép", "Az 1860-as években épült", "Lenyűgöző kilátást nyújt az Elbow Cayre"],
       ro: ["Reper distinctiv cu dungi roșii și albe", "Construit în anii 1860", "Oferă vederi uimitoare ale Elbow Cay"],
       en: ["Iconic red-and-white striped landmark", "Built in the 1860s", "Offers stunning views of Elbow Cay"]
-    }
-  },
+    }, image: "/poi-images/hope-town-lighthouse-history-v2.webp"},
   {
     id: "columbus-monument-long-island-history-v2",
     type: "historical",
@@ -140,8 +132,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["Egy sziklán található, kilátással a tengerre", "Az európaiak érkezésének szimbóluma", "Vitatott történelmi személyiség"],
       ro: ["Situat pe o stâncă cu vedere la mare", "Simbol al sosirii europenilor", "Figură istorică controversată"],
       en: ["Located on a cliff overlooking the sea", "Symbol of European arrival", "Controversial historical figure"]
-    }
-  },
+    }, image: "/poi-images/columbus-monument-long-island-history-v2.webp"},
   {
     id: "farquharson-plantation-ruins-history-v2",
     type: "historical",
@@ -154,8 +145,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["Tévesen a kalózokhoz kötik", "Magában foglalja egy főépület maradványait", "Az ültetvényes gazdálkodás tanúbizonysága"],
       ro: ["Asociat în mod eronat cu pirații", "Include rămășițele unei case principale", "Mărturie a economiei de plantație"],
       en: ["Erroneously associated with pirates", "Includes the remains of a great house", "Testament to the plantation economy"]
-    }
-  },
+    }, image: "/poi-images/farquharson-plantation-ruins-history-v2.webp"},
   {
     id: "three-queens-statue-history-v2",
     type: "historical",
@@ -168,8 +158,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["Viktória királynőt, II. Erzsébet királynőt és Anna királynőt ábrázolja", "A Nagy-Britanniával fennálló régi kapcsolat szimbóluma", "A Parlament tér közelében található"],
       ro: ["Reprezintă Regina Victoria, Regina Elisabeta a II-a și Regina Ana", "Simbol al legăturii îndelungate cu Marea Britanie", "Situată lângă Piața Parlamentului"],
       en: ["Depicts Queen Victoria, Queen Elizabeth II, and Queen Anne", "Symbol of the long-standing link to Britain", "Located near Parliament Square"]
-    }
-  },
+    }, image: "/poi-images/three-queens-statue-history-v2.webp"},
   {
     id: "old-fort-of-nassau-site-history-v2",
     type: "historical",
@@ -196,8 +185,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["A Bimini körüli veszélyes vizek tanúbizonysága", "Népszerű búvárhely", "A 18. és 19. századból származik"],
       ro: ["Mărturie a apelor periculoase din jurul Bimini", "Loc popular de scufundări", "Datează din secolele al XVIII-lea și al XIX-lea"],
       en: ["Testament to the dangerous waters around Bimini", "Popular dive site", "Dates back to the 18th and 19th centuries"]
-    }
-  },
+    }, image: "/poi-images/wrecker-s-wall-bimini-history-v2.webp"},
   {
     id: "hermann-gruber-s-house-history-v2",
     type: "historical",
@@ -210,8 +198,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["'Delfinházként' is ismert", "A népművészet alkotása", "Évtizedeken keresztül épült"],
       ro: ["Cunoscută și sub numele de 'Casa Delfinului'", "O operă de artă populară", "Construită de-a lungul deceniilor"],
       en: ["Also known as the 'Dolphin House'", "A work of folk art", "Built over several decades"]
-    }
-  },
+    }, image: "/poi-images/hermann-gruber-s-house-history-v2.webp"},
   {
     id: "st-augustines-monastery-history-v2",
     type: "historical",
@@ -224,8 +211,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["1947-ben alapították", "A Szent Ágoston Főiskolát működteti", "Építészetileg figyelemre méltó terület"],
       ro: ["Fondată în 1947", "Operează Colegiul Sf. Augustin", "Teren remarcabil din punct de vedere arhitectural"],
       en: ["Founded in 1947", "Operates St. Augustine's College", "Architecturally noteworthy grounds"]
-    }
-  },
+    }, image: "/poi-images/st-augustines-monastery-history-v2.webp"},
   {
     id: "addersley-castle-history-v2",
     type: "historical",
@@ -252,8 +238,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["A 20. század közepén épült", "A mezőgazdaság felemelkedésének és bukásának szimbóluma", "Jellegzetes, bár romos nevezetesség"],
       ro: ["Construite la mijlocul secolului al XX-lea", "Simbol al ascensiunii și declinului agricol", "Reper distinctiv, deși în paragină"],
       en: ["Built in the mid-20th century", "Symbol of agricultural boom and bust", "Distinctive, though decaying, landmark"]
-    }
-  },
+    }, image: "/poi-images/hatchet-bay-silos-history-v2.webp"},
   {
     id: "old-british-fort-barratarre-history-v2",
     type: "historical",
@@ -266,8 +251,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["A 18. századból származik", "Stratégiailag egy vízi út mellett helyezkedik el", "Csak az alapfalak és ágyúk maradtak meg"],
       ro: ["Datează din secolul al XVIII-lea", "Situat strategic pe o cale navigabilă", "Rămân doar fundațiile și tunurile"],
       en: ["Dates to the 18th century", "Strategically located on a waterway", "Only foundations and cannons remain"]
-    }
-  },
+    }, image: "/poi-images/old-british-fort-barratarre-history-v2.webp"},
   {
     id: "cotton-gin-mill-ruin-history-v2",
     type: "historical",
@@ -280,8 +264,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["A lojalista gyapotipar fontos része", "Az elveszett agrár-történelem tanúbizonysága", "Ma már a természet visszahódította"],
       ro: ["Parte importantă a industriei bumbacului loialiste", "Mărturie a istoriei agricole pierdute", "Acum recuperat de natură"],
       en: ["Important part of the Loyalist cotton industry", "Testament to lost agricultural history", "Now being reclaimed by nature"]
-    }
-  },
+    }, image: "/poi-images/cotton-gin-mill-ruin-history-v2.webp"},
   {
     id: "great-lighthouse-gun-cay-history-v2",
     type: "historical",
@@ -294,8 +277,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["A Bahamák egyik legrégebbi világítótornya", "Irányította a hajóforgalmat a Golf-áramlatban", "Ma már inaktív és romos"],
       ro: ["Unul dintre cele mai vechi faruri din Bahamas", "A ghidat traficul maritim în Curentul Golfului", "Acum inactiv și în paragină"],
       en: ["One of the oldest lighthouses in The Bahamas", "Guided shipping in the Gulf Stream", "Now inactive and in ruins"]
-    }
-  },
+    }, image: "/poi-images/great-lighthouse-gun-cay-history-v2.webp"},
   {
     id: "slave-graveyard-carmichael-history-v2",
     type: "historical",
@@ -308,8 +290,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["Az afrikai örökség fontos helyszíne", "A közösség tartja karban", "Fájdalmas múltra emlékeztet"],
       ro: ["Situl important al moștenirii africane", "Întreținut de comunitate", "O amintire a unui trecut dureros"],
       en: ["Important site of African heritage", "Maintained by the community", "A reminder of a painful past"]
-    }
-  },
+    }, image: "/poi-images/slave-graveyard-carmichael-history-v2.webp"},
   {
     id: "pirates-lair-ruins-history-v2",
     type: "historical",
@@ -336,8 +317,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["Stratégiai kilátást nyújt a tengerre", "Valószínűleg az ültetvényes vagy kalózkorszakból származik", "A sziget stratégiai fontosságának tanúbizonysága"],
       ro: ["Oferă o vedere strategică a mării", "Posibil datând din epoca plantațiilor sau a piraților", "Mărturie a importanței strategice a insulei"],
       en: ["Provides a strategic view of the sea", "Potentially dates to the plantation or pirate era", "Testament to the island's strategic importance"]
-    }
-  },
+    }, image: "/poi-images/lookout-tower-cat-island-history-v2.webp"},
   {
     id: "griffin-bunker-ruin-history-v2",
     type: "historical",
@@ -350,8 +330,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["A helyi folklór egyedi darabja", "Eleutherán található", "A korábbi lakosok önellátását mutatja"],
       ro: ["Piesă unică de folclor local", "Situat pe Eleuthera", "Demonstrează autosuficiența locuitorilor timpurii"],
       en: ["Unique piece of local folklore", "Located on Eleuthera", "Demonstrates the self-reliance of early inhabitants"]
-    }
-  },
+    }, image: "/poi-images/griffin-bunker-ruin-history-v2.webp"},
   {
     id: "hope-town-post-office-history-v2",
     type: "historical",
@@ -378,8 +357,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["Bepillantást engednek a 18. századi Nassauba", "A modern Bay Street mögött rejtőznek", "Hangulatos történelmi hely"],
       ro: ["Oferă o privire asupra Nassau-ului din secolul al XVIII-lea", "Ascuns în spatele străzii moderne Bay", "Loc istoric atmosferic"],
       en: ["Provide a glimpse into 18th-century Nassau", "Tucked away behind modern Bay Street", "Atmospheric historic spot"]
-    }
-  },
+    }, image: "/poi-images/chancery-lane-ruins-history-v2.webp"},
   {
     id: "cabbage-beach-fort-ruin-history-v2",
     type: "historical",
@@ -406,8 +384,7 @@ export const poiExtraBahamasHistoryV2: POI[] = [
       hu: ["18. és 19. századi sírkövek", "Fontos hely a genealógusok számára", "Tükrözi a település történetét"],
       ro: ["Lápide din secolele al XVIII-lea și al XIX-lea", "Situl cheie pentru genealogi", "Reflectă istoria așezării"],
       en: ["Gravestones date back to the 18th and 19th centuries", "Key site for genealogists", "Reflects the history of the settlement"]
-    }
-  },
+    }, image: "/poi-images/loyalist-cemetery-green-turtle-cay-history-v2.webp"},
   {
     id: "salt-house-ruins-crooked-island-history-v2",
     type: "historical",

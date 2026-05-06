@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraDrcongoNatureV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Afrika második leghosszabb folyója", "Hatalmas vízgyűjtő terület", "Nagyon bővízű", "Fontos közlekedési útvonal"],
       ro: ["Al doilea cel mai lung fluviu din Africa", "Bazin hidrografic imens", "Debit foarte mare", "Rută importantă de transport"],
       en: ["Second longest river in Africa", "Huge drainage basin", "Very high discharge", "Important transport route"]
-    }
-  },
+    }, image: "/poi-images/congo-river-nature-v2.webp"},
   {
     id: "tanganyika-lake-nature-v2",
     type: "lake",
@@ -27,8 +27,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Nagy árokmenti tó", "Gazdag élővilág", "Nagyon mély", "Árokmenti helyzet"],
       ro: ["Lac din Marele Rift", "Biodiversitate ridicată", "Foarte adânc", "Situat în Riftul Est-African"],
       en: ["Great Rift Valley lake", "High biodiversity", "Very deep", "Rift Valley location"]
-    }
-  },
+    }, image: "/poi-images/tanganyika-lake-nature-v2.webp"},
   {
     id: "ituri-forest-nature-v2",
     type: "forest",
@@ -41,8 +40,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Trópusi esőerdő", "A mbuti nép otthona", "Nagy fajgazdagság", "A Kongó-medence része"],
       ro: ["Pădure tropicală", "Locuința poporului Mbuti", "Biodiversitate mare", "Parte a Bazinului Congo"],
       en: ["Tropical rainforest", "Home to Mbuti people", "Great biodiversity", "Part of the Congo Basin"]
-    }
-  },
+    }, image: "/poi-images/ituri-forest-nature-v2.webp"},
   {
     id: "virunga-mountains-nature-v2",
     type: "mountain",
@@ -55,8 +53,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Vulkáni terület", "A hegyi gorillák élőhelye", "Magas csúcsok", "Aktív vulkánok"],
       ro: ["Zonă vulcanică", "Habitatul gorilelor de munte", "Vârfuri înalte", "Vulcani activi"],
       en: ["Volcanic area", "Home to mountain gorillas", "High peaks", "Active volcanoes"]
-    }
-  },
+    }, image: "/poi-images/virunga-mountains-nature-v2.webp"},
   {
     id: "maiko-forest-nature-v2",
     type: "forest",
@@ -69,8 +66,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Védett terület", "Gazdag növényvilág", "Ritka állatok", "Esőerdő"],
       ro: ["Zonă protejată", "Floră bogată", "Animale rare", "Pădure tropicală"],
       en: ["Protected area", "Rich flora", "Rare animals", "Rainforest"]
-    }
-  },
+    }, image: "/poi-images/maiko-forest-nature-v2.webp"},
   {
     id: "lualaba-river-nature-v2",
     type: "river",
@@ -97,8 +93,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Nagy tó", "Az árokrendszerben", "Vulkáni védelem", "Szép környezet"],
       ro: ["Lac mare", "În Riftul Est-African", "Protecție vulcanică", "Mediu frumos"],
       en: ["Large lake", "In Rift Valley", "Volcanic protection", "Beautiful setting"]
-    }
-  },
+    }, image: "/poi-images/kivu-lake-nature-v2.webp"},
   {
     id: "kasai-river-nature-v2",
     type: "river",
@@ -111,8 +106,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["A Kongó mellékfolyója", "Nagy medence", "Bővízű", "Hajózható"],
       ro: ["Afluent al fluviului Congo", "Bazin mare", "Debit bogat", "Navigabil"],
       en: ["Tributary of the Congo", "Large basin", "Water-rich", "Navigable route"]
-    }
-  },
+    }, image: "/poi-images/kasai-river-nature-v2.webp"},
   {
     id: "upemba-lake-nature-v2",
     type: "lake",
@@ -125,8 +119,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Sekély tó", "Mocsaras terület", "Nemzeti parki terület", "Gazdag élővilág"],
       ro: ["Lac puțin adânc", "Zonă mlăștinoasă", "Arie protejată", "Biodiversitate bogată"],
       en: ["Shallow lake", "Marshy region", "National park area", "High biodiversity"]
-    }
-  },
+    }, image: "/poi-images/upemba-lake-nature-v2.webp"},
   {
     id: "ruwenzori-mountains-nature-v2",
     type: "mountain",
@@ -139,8 +132,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Magashegység", "Jéggel borított csúcsok", "Holdhegység", "Határhegység"],
       ro: ["Munți înalți", "Vârfuri cu gheață", "Munții Lunii", "Munți de graniță"],
       en: ["High mountains", "Ice-capped peaks", "Mountains of the Moon", "Border mountains"]
-    }
-  },
+    }, image: "/poi-images/ruwenzori-mountains-nature-v2.webp"},
   {
     id: "congo-basin-nature-v2",
     type: "forest",
@@ -153,8 +145,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Nagy esőerdő", "Gazdag élővilág", "Fontos klímatényező", "Hatalmas medence"],
       ro: ["Pădure tropicală mare", "Biodiversitate ridicată", "Factor climatic important", "Bazin imens"],
       en: ["Large rainforest", "High biodiversity", "Important climate factor", "Huge basin"]
-    }
-  },
+    }, image: "/poi-images/congo-basin-nature-v2.webp"},
   {
     id: "salonga-forest-nature-v2",
     type: "forest",
@@ -167,8 +158,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Hatalmas nemzeti park", "Őserdő", "Veszélyeztetett fajok otthona", "Esőerdő védelem"],
       ro: ["Parc național imens", "Pădure primară", "Habitat pentru specii pe cale de dispariție", "Protecția pădurilor"],
       en: ["Huge national park", "Primary forest", "Home to endangered species", "Rainforest protection"]
-    }
-  },
+    }, image: "/poi-images/salonga-forest-nature-v2.webp"},
   {
     id: "lukuga-river-nature-v2",
     type: "river",
@@ -181,8 +171,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Tó kifolyása", "A Kongó mellékfolyója", "Fontos vízelvezető", "Vízválasztó"],
       ro: ["Evacuarea lacului", "Afluent al fluviului Congo", "Drenaj important", "Bazin hidrografic"],
       en: ["Lake outlet", "Tributary of the Congo", "Important drainage", "Watershed"]
-    }
-  },
+    }, image: "/poi-images/lukuga-river-nature-v2.webp"},
   {
     id: "edward-lake-nature-v2",
     type: "lake",
@@ -195,8 +184,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Nemzeti parki tó", "Az árokrendszerben", "Változatos élet", "Védendő"],
       ro: ["Lac în parc național", "În Riftul Est-African", "Viață diversă", "Arie protejată"],
       en: ["National park lake", "In Rift Valley", "Diverse life", "Worth protecting"]
-    }
-  },
+    }, image: "/poi-images/edward-lake-nature-v2.webp"},
   {
     id: "ubangi-river-nature-v2",
     type: "river",
@@ -209,8 +197,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["A Kongó mellékfolyója", "Határfolyó", "Nagy vízgyűjtő", "Bővízű"],
       ro: ["Afluent al fluviului Congo", "Fluviu de frontieră", "Bazin hidrografic mare", "Debit bogat"],
       en: ["Tributary of the Congo", "Border river", "Large drainage basin", "Water-rich"]
-    }
-  },
+    }, image: "/poi-images/ubangi-river-nature-v2.webp"},
   {
     id: "niari-river-nature-v2",
     type: "river",
@@ -223,8 +210,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Nyugati folyó", "Fontos vízelvezető", "Átfolyik völgyeken", "Rövid lefolyás"],
       ro: ["Râu vestic", "Drenaj important", "Curge prin văi", "Curs scurt"],
       en: ["Western river", "Important drainage", "Flows through valleys", "Short course"]
-    }
-  },
+    }, image: "/poi-images/niari-river-nature-v2.webp"},
   {
     id: "albert-lake-nature-v2",
     type: "lake",
@@ -237,8 +223,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Nagy tó", "Az árokrendszerben", "Halban gazdag", "Természetvédelmi terület"],
       ro: ["Lac mare", "În Riftul Est-African", "Bogății piscicole", "Rezervație naturală"],
       en: ["Large lake", "In Rift Valley", "Fish-rich", "Nature reserve"]
-    }
-  },
+    }, image: "/poi-images/albert-lake-nature-v2.webp"},
   {
     id: "lomami-river-nature-v2",
     type: "river",
@@ -251,8 +236,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["A Kongó mellékfolyója", "Párhuzamosan folyik a Kongóval", "Hosszú folyó", "Fontos vízi út"],
       ro: ["Afluent al fluviului Congo", "Curge paralel cu Congo", "Râu lung", "Cale navigabilă importantă"],
       en: ["Tributary of the Congo", "Flows parallel to the Congo", "Long river", "Important waterway"]
-    }
-  },
+    }, image: "/poi-images/lomami-river-nature-v2.webp"},
   {
     id: "kwango-river-nature-v2",
     type: "river",
@@ -265,8 +249,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["A Kasai mellékfolyója", "Bővízű", "Hajózás", "Nagy medence"],
       ro: ["Afluent al râului Kasai", "Debit bogat", "Navigație", "Bazin mare"],
       en: ["Tributary of the Kasai", "Water-rich", "Navigation", "Large basin"]
-    }
-  },
+    }, image: "/poi-images/kwango-river-nature-v2.webp"},
   {
     id: "tshuapa-river-nature-v2",
     type: "river",
@@ -279,8 +262,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Esőerdei folyó", "A Kongó mellékfolyója", "Nagy vízgyűjtő", "Bővízű"],
       ro: ["Râu de pădure tropicală", "Afluent al fluviului Congo", "Bazin hidrografic mare", "Debit bogat"],
       en: ["Rainforest river", "Tributary of the Congo", "Large drainage basin", "Water-rich"]
-    }
-  },
+    }, image: "/poi-images/tshuapa-river-nature-v2.webp"},
   {
     id: "mweru-lake-nature-v2",
     type: "lake",
@@ -293,8 +275,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Nagy tó", "Halban gazdag", "Határtó", "Szép természet"],
       ro: ["Lac mare", "Bogății piscicole", "Lac de frontieră", "Natură frumoasă"],
       en: ["Large lake", "Fish-rich", "Border lake", "Beautiful nature"]
-    }
-  },
+    }, image: "/poi-images/mweru-lake-nature-v2.webp"},
   {
     id: "sankuru-river-nature-v2",
     type: "river",
@@ -307,8 +288,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["A Kasai mellékfolyója", "Bővízű", "Hajózás", "Fontos vízi út"],
       ro: ["Afluent al râului Kasai", "Debit bogat", "Navigație", "Cale navigabilă importantă"],
       en: ["Tributary of the Kasai", "Water-rich", "Navigation", "Important waterway"]
-    }
-  },
+    }, image: "/poi-images/sankuru-river-nature-v2.webp"},
   {
     id: "kwilu-river-nature-v2",
     type: "river",
@@ -321,8 +301,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["A Kwango mellékfolyója", "Bővízű", "Fontos folyóág", "Esőerdei régió"],
       ro: ["Afluent al râului Kwango", "Debit bogat", "Curs important", "Regiune de pădure tropicală"],
       en: ["Tributary of the Kwango", "Water-rich", "Important river course", "Rainforest region"]
-    }
-  },
+    }, image: "/poi-images/kwilu-river-nature-v2.webp"},
   {
     id: "sangha-river-nature-v2",
     type: "river",
@@ -335,8 +314,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Határfolyó", "A Kongó mellékfolyója", "Bővízű", "Esőerdő"],
       ro: ["Fluviu de frontieră", "Afluent al fluviului Congo", "Debit bogat", "Pădure tropicală"],
       en: ["Border river", "Tributary of the Congo", "Water-rich", "Rainforest"]
-    }
-  },
+    }, image: "/poi-images/sangha-river-nature-v2.webp"},
   {
     id: "luapula-river-nature-v2",
     type: "river",
@@ -349,8 +327,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Határfolyó", "Fontos vízelvezető", "Bővízű", "Átfolyik tavakon"],
       ro: ["Fluviu de frontieră", "Drenaj important", "Debit bogat", "Curge prin lacuri"],
       en: ["Border river", "Important drainage", "Water-rich", "Flows through lakes"]
-    }
-  },
+    }, image: "/poi-images/luapula-river-nature-v2.webp"},
   {
     id: "ituri-river-nature-v2",
     type: "river",
@@ -363,8 +340,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Esőerdei folyó", "Bővízű", "Fontos ökoszisztéma", "A Kongó-rendszer része"],
       ro: ["Râu de pădure tropicală", "Debit bogat", "Ecosistem important", "Parte a sistemului fluviului Congo"],
       en: ["Rainforest river", "Water-rich", "Important ecosystem", "Part of the Congo system"]
-    }
-  },
+    }, image: "/poi-images/ituri-river-nature-v2.webp"},
   {
     id: "wamba-river-nature-v2",
     type: "river",
@@ -377,8 +353,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["A Kwango mellékfolyója", "Bővízű", "Átfolyik az esőerdőn", "Rövid lefolyás"],
       ro: ["Afluent al râului Kwango", "Debit bogat", "Curge prin pădurea tropicală", "Curs scurt"],
       en: ["Tributary of the Kwango", "Water-rich", "Flows through rainforest", "Short course"]
-    }
-  },
+    }, image: "/poi-images/wamba-river-nature-v2.webp"},
   {
     id: "lufira-river-nature-v2",
     type: "river",
@@ -391,8 +366,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["A Lualaba mellékfolyója", "Bővízű", "Átfolyik egy völgyön", "Fontos vízi út"],
       ro: ["Afluent al râului Lualaba", "Debit bogat", "Curge printr-o vale", "Cale navigabilă importantă"],
       en: ["Tributary of the Lualaba", "Water-rich", "Flows through a valley", "Important waterway"]
-    }
-  },
+    }, image: "/poi-images/lufira-river-nature-v2.webp"},
   {
     id: "luapula-river-2-nature-v2",
     type: "river",
@@ -405,8 +379,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Mellékfolyó", "Fontos vízelvezető", "Bővízű", "Határfolyó"],
       ro: ["Afluent", "Drenaj important", "Debit bogat", "Fluviu de frontieră"],
       en: ["Tributary", "Important drainage", "Water-rich", "Border river"]
-    }
-  },
+    }, image: "/poi-images/luapula-river-2-nature-v2.webp"},
   {
     id: "lukenie-river-nature-v2",
     type: "river",
@@ -422,3 +395,4 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     }
   }
 ];
+

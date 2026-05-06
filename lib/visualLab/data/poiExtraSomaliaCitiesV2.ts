@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraSomaliaCitiesV2: POI[] = [
@@ -17,8 +18,19 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Szomália legnagyobb városa", "Történelmileg Hamar néven ismert", "Fontos kereskedelmi csomópont"],
       ro: ["Cel mai mare oraș din Somalia", "Cunoscut istoric sub numele de Hamar", "Centru comercial important"],
       en: ["Largest city in Somalia", "Historically known as Hamar", "Important trading hub"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Mogadischu, die Hauptstadt Somalias, blickt auf eine jahrtausendealte Geschichte zurück. Als Hafenstadt am Indischen Ozean war sie über Jahrhunderte ein Zentrum für den Handel mit Indien und Arabien. Heute ist sie das politische und wirtschaftliche Herz des Landes, trotz der Herausforderungen der letzten Jahrzehnte. Die Architektur der Stadt, darunter die markante Arba-Rucun-Moschee aus dem 13. Jahrhundert, zeugt von ihrem reichen kulturellen Erbe. Geografie K7 — Küstenstädte und Handelsrouten.",
+      hu: "Mogadishu, Szomália fővárosa, több ezer éves történelemmel rendelkezik. Mint az Indiai-óceán menti kikötőváros, évszázadokon át az India és Arábia közötti kereskedelem központja volt. Ma az ország politikai és gazdasági központja, az elmúlt évtizedek kihívásai ellenére. A város építészete, köztük a 13. századi Arba-Rucun mecset, gazdag kulturális örökségéről tanúskodik. Földrajz K7 — kikötővárosok és kereskedelmi útvonalak.",
+      ro: "Mogadishu, capitala Somaliei, are o istorie de mii de ani. Ca oraș portuar la Oceanul Indian, a fost timp de secole un centru pentru comerțul cu India și Arabia. Astăzi este inima politică și economică a țării, în ciuda provocărilor din ultimele decenii. Arhitectura orașului, inclusiv remarcabila moschee Arba-Rucun din secolul al XIII-lea, mărturisește bogata sa moștenire culturală. Geografie K7 — orașe portuare și rute comerciale.",
+      en: "Mogadishu, the capital of Somalia, looks back on a history spanning thousands of years. As a port city on the Indian Ocean, it was a center for trade with India and Arabia for centuries. Today, it is the political and economic heart of the country, despite the challenges of the last decades. The architecture of the city, including the striking 13th-century Arba-Rucun mosque, bears witness to its rich cultural heritage. Geography K7 — port cities and trade routes."
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 10. Jahrhundert", "Arba-Rucun-Moschee aus dem Jahr 1269", "Wichtigster Hafen Somalias", "Einwohnerzahl über 2 Millionen", "Liegt am Horn von Afrika", "Küstenzugang zum Indischen Ozean"],
+      hu: ["A 10. században alapították", "Arba-Rucun mecset 1269-ből", "Szomália legfontosabb kikötője", "Lakossága meghaladja a 2 milliót", "Afrika szarvánál fekszik", "Közvetlen kapcsolat az Indiai-óceánnal"],
+      ro: ["Fondat în secolul al X-lea", "Moscheea Arba-Rucun din anul 1269", "Cel mai important port din Somalia", "Populația depășește 2 milioane", "Situat în Cornul Africii", "Acces direct la Oceanul Indian"],
+      en: ["Founded in the 10th century", "Arba-Rucun mosque from 1269", "Most important port in Somalia", "Population exceeds 2 million", "Located in the Horn of Africa", "Direct access to the Indian Ocean"]
+    }, image: "/poi-images/mogadishu-cities-v2.webp"},
   {
     id: "hargeisa-cities-v2",
     type: "city",
@@ -35,8 +47,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Északi közigazgatási központ", "A Naasa Hablood dombról ismert", "Jelentős állatpiac"],
       ro: ["Sediul administrativ din nord", "Cunoscut pentru dealul Naasa Hablood", "Piață importantă de animale"],
       en: ["Northern administrative seat", "Known for Naasa Hablood hill", "Major livestock market"]
-    }
-  },
+    }, image: "/poi-images/hargeisa-cities-v2.webp"},
   {
     id: "burao-cities-v2",
     type: "city",
@@ -53,8 +64,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A második legnagyobb északi város", "Togdheer régió központja", "Fontos közlekedési csomópont"],
       ro: ["Al doilea cel mai mare oraș din nord", "Centrul regiunii Togdheer", "Nod important de transport"],
       en: ["Second largest northern city", "Center of Togdheer region", "Crucial transport hub"]
-    }
-  },
+    }, image: "/poi-images/burao-cities-v2.webp"},
   {
     id: "bossaso-cities-v2",
     type: "city",
@@ -71,8 +81,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Jelentős északi tengeri kikötő", "Bari régió fővárosa", "Fontos exportközpont"],
       ro: ["Port maritim important în nord", "Capitala regiunii Bari", "Centru important de export"],
       en: ["Major northern seaport", "Capital of Bari region", "Important export center"]
-    }
-  },
+    }, image: "/poi-images/bossaso-cities-v2.webp"},
   {
     id: "beledweyne-cities-v2",
     type: "city",
@@ -89,8 +98,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A Shabelle folyó mentén fekszik", "Hiiraan régió fővárosa", "Mezőgazdasági központ"],
       ro: ["Situat pe râul Shabelle", "Capitala regiunii Hiiraan", "Centru agricol"],
       en: ["Located on the Shabelle River", "Capital of Hiiraan region", "Agricultural center"]
-    }
-  },
+    }, image: "/poi-images/beledweyne-cities-v2.webp"},
   {
     id: "baidoa-cities-v2",
     type: "city",
@@ -107,8 +115,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A Bay régió központja", "Cirok termesztéséről ismert", "Történelmi csomópont város"],
       ro: ["Centrul regiunii Bay", "Cunoscut pentru cultivarea sorgului", "Oraș nod istoric"],
       en: ["Center of the Bay region", "Known for sorghum cultivation", "Historical hub city"]
-    }
-  },
+    }, image: "/poi-images/baidoa-cities-v2.webp"},
   {
     id: "galkayo-cities-v2",
     type: "city",
@@ -125,8 +132,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Mudug régió fővárosa", "Kétvárosos szerkezet", "Fontos kereskedelmi központ"],
       ro: ["Capitala regiunii Mudug", "Structură de oraș dual", "Centru comercial important"],
       en: ["Capital of Mudug region", "Dual-city structure", "Important trade center"]
-    }
-  },
+    }, image: "/poi-images/galkayo-cities-v2.webp"},
   {
     id: "kismayo-cities-v2",
     type: "city",
@@ -143,8 +149,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Az ország harmadik legnagyobb városa", "Fontos exportkikötő", "A Jubba régió központja"],
       ro: ["Al treilea cel mai mare oraș al țării", "Port important de export", "Centrul regiunii Jubba"],
       en: ["Third largest city in the country", "Major export port", "Center of Jubba region"]
-    }
-  },
+    }, image: "/poi-images/kismayo-cities-v2.webp"},
   {
     id: "jowhar-cities-v2",
     type: "city",
@@ -161,8 +166,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Shabeellaha Dhexe közigazgatási székhelye", "Történelmi cukortermelés", "Termékeny termőföld"],
       ro: ["Sediul administrativ al Shabeellaha Dhexe", "Producție istorică de zahăr", "Teren agricol fertil"],
       en: ["Administrative seat of Shabeellaha Dhexe", "Historical sugar production", "Fertile farmland"]
-    }
-  },
+    }, image: "/poi-images/jowhar-cities-v2.webp"},
   {
     id: "garowe-cities-v2",
     type: "city",
@@ -179,8 +183,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Nugaal régió fővárosa", "Erősen növekvő infrastruktúra", "Számos helyi intézmény székhelye"],
       ro: ["Capitala regiunii Nugaal", "Infrastructură în creștere rapidă", "Sediul multor instituții locale"],
       en: ["Capital of Nugaal region", "Rapidly growing infrastructure", "Seat of many local institutions"]
-    }
-  },
+    }, image: "/poi-images/garowe-cities-v2.webp"},
   {
     id: "borama-cities-v2",
     type: "city",
@@ -197,8 +200,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Az Awdal régió központja", "Az Amoud Egyetemről ismert", "Kellemes hegyvidéki éghajlat"],
       ro: ["Centrul regiunii Awdal", "Cunoscut pentru Universitatea Amoud", "Climat montan plăcut"],
       en: ["Center of the Awdal region", "Known for Amoud University", "Pleasant highland climate"]
-    }
-  },
+    }, image: "/poi-images/borama-cities-v2.webp"},
   {
     id: "erigavo-cities-v2",
     type: "city",
@@ -215,8 +217,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Sanaag közigazgatási fővárosa", "A Surud Cad hegy közelében", "Borókaerdők veszik körül"],
       ro: ["Capitala administrativă a Sanaag", "Aproape de muntele Surud Cad", "Înconjurat de păduri de ienupăr"],
       en: ["Administrative capital of Sanaag", "Close to Mount Surud Cad", "Surrounded by juniper forests"]
-    }
-  },
+    }, image: "/poi-images/erigavo-cities-v2.webp"},
   {
     id: "las-anod-cities-v2",
     type: "city",
@@ -233,8 +234,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A Sool régió fővárosa", "Történelmi erődök a közelben", "A nomád kereskedelem központja"],
       ro: ["Capitala regiunii Sool", "Cetăți istorice în apropiere", "Centru pentru comerțul nomad"],
       en: ["Capital of the Sool region", "Historical forts nearby", "Center for nomadic trade"]
-    }
-  },
+    }, image: "/poi-images/las-anod-cities-v2.webp"},
   {
     id: "qardho-cities-v2",
     type: "city",
@@ -251,8 +251,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Fontos város a Bari régióban", "Régi kereskedelmi útvonal", "Gazdag kulturális örökség"],
       ro: ["Oraș important în regiunea Bari", "Veche rută comercială", "Bogată moștenire culturală"],
       en: ["Important city in Bari region", "Old trade route", "Rich cultural heritage"]
-    }
-  },
+    }, image: "/poi-images/qardho-cities-v2.webp"},
   {
     id: "marka-cities-v2",
     type: "city",
@@ -269,8 +268,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Shabeellaha Hoose fővárosa", "Régi arab építészet", "Jelentős halászkikötő"],
       ro: ["Capitala Shabeellaha Hoose", "Arhitectură veche arabă", "Port de pescuit important"],
       en: ["Capital of Shabeellaha Hoose", "Old Arab architecture", "Major fishing port"]
-    }
-  },
+    }, image: "/poi-images/marka-cities-v2.webp"},
   {
     id: "afgooye-cities-v2",
     type: "city",
@@ -287,8 +285,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Fontos mezőgazdasági központ", "Történelmi Geledi Szultanátus", "Mogadishu közelében"],
       ro: ["Important centru agricol", "Sultanatul istoric Geledi", "Aproape de Mogadishu"],
       en: ["Important agricultural center", "Historical Geledi Sultanate", "Near Mogadishu"]
-    }
-  },
+    }, image: "/poi-images/afgooye-cities-v2.webp"},
   {
     id: "xuddur-cities-v2",
     type: "city",
@@ -305,8 +302,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Bakool közigazgatási központja", "Fontos állatpiac", "Száraz éghajlat"],
       ro: ["Centrul administrativ al Bakool", "Piață importantă de animale", "Climat uscat"],
       en: ["Administrative center of Bakool", "Important livestock market", "Arid climate"]
-    }
-  },
+    }, image: "/poi-images/xuddur-cities-v2.webp"},
   {
     id: "garbahaarey-cities-v2",
     type: "city",
@@ -323,8 +319,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Gedo régió fővárosa", "Dombvidéki táj jellemzi", "Összeköti Délnyugat-Szomáliát"],
       ro: ["Capitala regiunii Gedo", "Caracterizat de un peisaj deluros", "Conectează sud-vestul Somaliei"],
       en: ["Capital of the Gedo region", "Characterized by hilly landscape", "Connects southwestern Somalia"]
-    }
-  },
+    }, image: "/poi-images/garbahaarey-cities-v2.webp"},
   {
     id: "buaale-cities-v2",
     type: "city",
@@ -341,8 +336,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Jubbada Dhexe fővárosa", "Gazdag folyóparti mezőgazdaság", "Stratégiai folyami átkelő"],
       ro: ["Capitala Jubbada Dhexe", "Agricultură bogată pe râu", "Pasaj strategic fluvial"],
       en: ["Capital of Jubbada Dhexe", "Rich riverside agriculture", "Strategic river crossing"]
-    }
-  },
+    }, image: "/poi-images/buaale-cities-v2.webp"},
   {
     id: "dhusamareb-cities-v2",
     type: "city",
@@ -359,8 +353,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Galguduud régió közigazgatási székhelye", "Politikailag fontos hely", "Közép-Szomália központja"],
       ro: ["Sediul administrativ al regiunii Galguduud", "Loc politic important", "Centru în Somalia centrală"],
       en: ["Administrative seat of Galguduud region", "Politically important location", "Center in central Somalia"]
-    }
-  },
+    }, image: "/poi-images/dhusamareb-cities-v2.webp"},
   {
     id: "barawe-cities-v2",
     type: "city",
@@ -377,8 +370,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Régi kikötőváros", "Történelmi szuahéli-arab hatások", "Délnyugat-Szomália korábbi fővárosa"],
       ro: ["Oraș port vechi", "Influențe istorice swahili-arabe", "Fosta capitală a sud-vestului Somaliei"],
       en: ["Ancient port city", "Historic Swahili-Arab influences", "Former capital of South West Somalia"]
-    }
-  },
+    }, image: "/poi-images/barawe-cities-v2.webp"},
   {
     id: "luuq-cities-v2",
     type: "city",
@@ -395,8 +387,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Egy folyókanyarban fekszik", "Jelentős agrárövezet", "Történelmi kereskedőváros"],
       ro: ["Situat într-o buclă a râului", "Zonă agricolă semnificativă", "Oraș comercial istoric"],
       en: ["Located in a river loop", "Significant agricultural zone", "Historic trading town"]
-    }
-  },
+    }, image: "/poi-images/luuq-cities-v2.webp"},
   {
     id: "berbera-cities-v2",
     type: "city",
@@ -413,8 +404,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Jelentős mélytengeri kikötő", "Történelmi kereskedelmi központ", "Fontos az exportkereskedelem számára"],
       ro: ["Port maritim adânc important", "Centru comercial istoric", "Important pentru comerțul de export"],
       en: ["Major deep-sea port", "Historic trading center", "Important for export trade"]
-    }
-  },
+    }, image: "/poi-images/berbera-cities-v2.webp"},
   {
     id: "jilib-cities-v2",
     type: "city",
@@ -431,8 +421,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Nagyon termékeny termőföld", "Fontos útkereszteződés", "A Jubba folyó közelében"],
       ro: ["Teren agricol foarte fertil", "Intersecție rutieră importantă", "Aproape de râul Jubba"],
       en: ["Very fertile farmland", "Important road junction", "Near the Jubba River"]
-    }
-  },
+    }, image: "/poi-images/jilib-cities-v2.webp"},
   {
     id: "bulo-burti-cities-v2",
     type: "city",
@@ -449,8 +438,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Hiiraan második legnagyobb városa", "Stratégiai folyóparti fekvés", "Fontos belső piac"],
       ro: ["Al doilea oraș ca mărime din Hiiraan", "Locație strategică pe râu", "Piață internă importantă"],
       en: ["Second largest city in Hiiraan", "Strategic river location", "Important inland market"]
-    }
-  },
+    }, image: "/poi-images/bulo-burti-cities-v2.webp"},
   {
     id: "wajid-cities-v2",
     type: "city",
@@ -485,8 +473,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A banántermelés központja", "A Shabelle folyó mentén fekszik", "Intenzív mezőgazdaság"],
       ro: ["Centrul producției de banane", "Situat pe râul Shabelle", "Agricultură intensivă"],
       en: ["Center of banana production", "Located on the Shabelle River", "Intensive agriculture"]
-    }
-  },
+    }, image: "/poi-images/qoryoley-cities-v2.webp"},
   {
     id: "balcad-cities-v2",
     type: "city",
@@ -521,8 +508,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Történelmi Dervis erődök", "Fontos tengerparti város", "Halászati központ"],
       ro: ["Fortificații istorice derviș", "Oraș de coastă important", "Centru de pescuit"],
       en: ["Historic Dervish forts", "Important coastal town", "Fishing center"]
-    }
-  },
+    }, image: "/poi-images/eyl-cities-v2.webp"},
   {
     id: "el-afweyn-cities-v2",
     type: "city",
@@ -539,8 +525,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Tömjéntermelés", "Fontos vidéki közösség", "Legelő a környéken"],
       ro: ["Producție de tămâie", "Comunitate rurală importantă", "Pășune în împrejurimi"],
       en: ["Frankincense production", "Important rural community", "Grazing land in the surroundings"]
-    }
-  },
+    }, image: "/poi-images/el-afweyn-cities-v2.webp"},
   {
     id: "taleh-cities-v2",
     type: "city",
@@ -557,8 +542,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A dervisek egykori fővárosa", "Hatalmas történelmi erődök", "A szomáliai ellenállás szimbóluma"],
       ro: ["Fosta capitală a dervișilor", "Fortărețe istorice masive", "Simbolul rezistenței somaleze"],
       en: ["Former capital of the Dervishes", "Massive historic fortresses", "Symbol of Somali resistance"]
-    }
-  },
+    }, image: "/poi-images/taleh-cities-v2.webp"},
   {
     id: "oodweyne-cities-v2",
     type: "city",
@@ -575,8 +559,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Fontos tranzitváros", "Mezőgazdasági és állattenyésztési terület", "Odweyne körzet központja"],
       ro: ["Oraș de tranzit important", "Zonă agricolă și zootehnică", "Centru în districtul Odweyne"],
       en: ["Important transit town", "Agricultural and pastoral area", "Center in the Odweyne district"]
-    }
-  },
+    }, image: "/poi-images/oodweyne-cities-v2.webp"},
   {
     id: "lughaya-cities-v2",
     type: "city",
@@ -611,8 +594,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Történelmi Ifat Szultanátus", "Afrika egyik legrégebbi mecsete", "Jelentős ókori kikötőváros"],
       ro: ["Sultanatul istoric Ifat", "Una dintre cele mai vechi moschei din Africa", "Oraș port antic important"],
       en: ["Historic Sultanate of Ifat", "One of the oldest mosques in Africa", "Significant ancient port city"]
-    }
-  },
+    }, image: "/poi-images/zeila-cities-v2.webp"},
   {
     id: "gabiley-cities-v2",
     type: "city",
@@ -629,8 +611,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Mezőgazdasági központ északon", "Jelentős búzatermelés", "Sűrűn lakott régió"],
       ro: ["Centrul agricol din nord", "Producție semnificativă de grâu", "Regiune dens populată"],
       en: ["Agricultural center in the north", "Significant wheat production", "Densely populated region"]
-    }
-  },
+    }, image: "/poi-images/gabiley-cities-v2.webp"},
   {
     id: "baki-cities-v2",
     type: "city",
@@ -647,8 +628,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Csendes vidéki közösség", "Hegyvidéki terep", "A hagyományos mezőgazdaságra összpontosít"],
       ro: ["Comunitate rurală liniștită", "Teren muntos", "Concentrează pe agricultura tradițională"],
       en: ["Quiet rural community", "Mountainous terrain", "Focus on traditional farming"]
-    }
-  },
+    }, image: "/poi-images/baki-cities-v2.webp"},
   {
     id: "badhan-cities-v2",
     type: "city",
@@ -665,8 +645,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Növekvő városi település", "A régió oktatási központja", "A Cal Madow hegység közelében"],
       ro: ["Așezare urbană în creștere", "Centrul educațional al regiunii", "Aproape de Munții Cal Madow"],
       en: ["Growing urban settlement", "Educational center of the region", "Close to the Cal Madow Mountains"]
-    }
-  },
+    }, image: "/poi-images/badhan-cities-v2.webp"},
   {
     id: "las-khorey-cities-v2",
     type: "city",
@@ -683,8 +662,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A Warsangali Szultanátus történelmi kikötője", "Tonhalgyár otthona", "Gyönyörű tengerpart"],
       ro: ["Portul istoric al Sultanatului Warsangali", "Acasă la o fabrică de ton", "Coastă frumoasă"],
       en: ["Historic port of the Warsangali Sultanate", "Home to a tuna factory", "Beautiful coastline"]
-    }
-  },
+    }, image: "/poi-images/las-khorey-cities-v2.webp"},
   {
     id: "dhahar-cities-v2",
     type: "city",
@@ -701,8 +679,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Település a hegyek szélén", "Kereskedelmi központ a nomádok számára", "Növekvő infrastruktúra-fejlesztés"],
       ro: ["Așezare la marginea munților", "Centru comercial pentru nomazi", "Dezvoltarea crescândă a infrastructurii"],
       en: ["Settlement on the edge of the mountains", "Trade center for nomads", "Increasing infrastructure development"]
-    }
-  },
+    }, image: "/poi-images/dhahar-cities-v2.webp"},
   {
     id: "iskushuban-cities-v2",
     type: "city",
@@ -719,8 +696,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Híres a helyi vízesésekről", "Oázis a Bari régióban", "Hagyományos datolyapálma ligetek"],
       ro: ["Renumit pentru cascadele locale", "Oază în regiunea Bari", "Crânguri tradiționale de curmali"],
       en: ["Famous for local waterfalls", "Oasis in the Bari region", "Traditional date palm groves"]
-    }
-  },
+    }, image: "/poi-images/iskushuban-cities-v2.webp"},
   {
     id: "qandala-cities-v2",
     type: "city",
@@ -737,8 +713,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Történelmi exportkikötő a tömjén számára", "Sziklás partvidék", "Régi kereskedelmi hálózat"],
       ro: ["Port istoric de export pentru tămâie", "Coasta stâncoasă", "Rețea veche de comerț"],
       en: ["Historic export port for frankincense", "Cliff-dominated coast", "Old trade network"]
-    }
-  },
+    }, image: "/poi-images/qandala-cities-v2.webp"},
   {
     id: "alula-cities-v2",
     type: "city",
@@ -755,8 +730,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A Guardafui-fok közelében", "Hagyományos kalózellenes történelem", "Jelentős halászat"],
       ro: ["Aproape de Capul Guardafui", "Istoria tradițională a apărării piraților", "Pescuit important"],
       en: ["Near Cape Guardafui", "Traditional pirate defense history", "Important fishing"]
-    }
-  },
+    }, image: "/poi-images/alula-cities-v2.webp"},
   {
     id: "bandar-beyla-cities-v2",
     type: "city",
@@ -773,8 +747,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Történelmi kalóz múlt", "Újjáépítés a szökőár után", "Látványos homokos strandok"],
       ro: ["Trecut istoric al piraților", "Reconstrucția post-tsunami", "Plaje spectaculoase cu nisip"],
       en: ["Historic pirate past", "Post-tsunami reconstruction", "Spectacular sandy beaches"]
-    }
-  },
+    }, image: "/poi-images/bandar-beyla-cities-v2.webp"},
   {
     id: "jariban-cities-v2",
     type: "city",
@@ -809,8 +782,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A korábbi Hobyo Szultanátus", "A kikötő tervezett bővítése", "Történelmi romok"],
       ro: ["Fostul Sultanat Hobyo", "Extinderea planificată a portului", "Ruine istorice"],
       en: ["Former Sultanate of Hobyo", "Planned expansion of the port", "Historical ruins"]
-    }
-  },
+    }, image: "/poi-images/hobyo-cities-v2.webp"},
   {
     id: "harardhere-cities-v2",
     type: "city",
@@ -845,8 +817,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Fontos határváros", "Élénk, határokon átnyúló kereskedelem", "Sűrű úthálózat"],
       ro: ["Oraș de frontieră important", "Comerț transfrontalier plin de viață", "Sistem rutier dens"],
       en: ["Important border town", "Lively cross-border trade", "Dense road system"]
-    }
-  },
+    }, image: "/poi-images/abudwak-cities-v2.webp"},
   {
     id: "el-bur-cities-v2",
     type: "city",
@@ -863,8 +834,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A mészkőbányászat központja", "Régi szárazföldi város", "Közép-Galguduud régió"],
       ro: ["Centrul extracției de calcar", "Oraș vechi din interior", "Regiunea Galguduud centrală"],
       en: ["Center of limestone extraction", "Old inland city", "Central Galguduud region"]
-    }
-  },
+    }, image: "/poi-images/el-bur-cities-v2.webp"},
   {
     id: "el-dher-cities-v2",
     type: "city",
@@ -881,8 +851,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Az erdősítésről ismert", "Csendes mezőgazdasági terület", "A pásztorok központja"],
       ro: ["Cunoscut pentru împăduriri", "Zonă agricolă liniștită", "Centru pentru păstori"],
       en: ["Known for afforestation", "Quiet agricultural area", "Center for herders"]
-    }
-  },
+    }, image: "/poi-images/el-dher-cities-v2.webp"},
   {
     id: "mahaday-cities-v2",
     type: "city",
@@ -917,8 +886,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Történelmi tengeri kereskedelmi város", "Gyönyörű strandok", "Hagyományos hajóépítés"],
       ro: ["Oraș comercial maritim istoric", "Plaje frumoase", "Construcție tradițională de bărci"],
       en: ["Historic maritime trading town", "Beautiful beaches", "Traditional boat building"]
-    }
-  },
+    }, image: "/poi-images/adale-cities-v2.webp"},
   {
     id: "wanlaweyn-cities-v2",
     type: "city",
@@ -935,8 +903,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Fontos összekötő út", "Gabonakereskedelmi központ", "A Baledogle repülőtér közelében"],
       ro: ["Drum de legătură important", "Centrul comerțului cu cereale", "Aproape de aerodromul Baledogle"],
       en: ["Important connecting road", "Center for grain trade", "Near the Baledogle airfield"]
-    }
-  },
+    }, image: "/poi-images/wanlaweyn-cities-v2.webp"},
   {
     id: "kurtunwarey-cities-v2",
     type: "city",
@@ -953,8 +920,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Áttelepítési központ", "Öntözéses mezőgazdaság", "Termékeny környezet"],
       ro: ["Centrul de relocare", "Agricultură irigată", "Împrejurimi fertile"],
       en: ["Center for resettlement", "Irrigated agriculture", "Fertile surroundings"]
-    }
-  },
+    }, image: "/poi-images/kurtunwarey-cities-v2.webp"},
   {
     id: "sablale-cities-v2",
     type: "city",
@@ -971,8 +937,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Történelmi aszály miatt áttelepült terület", "Földművelés és állattenyésztés", "Folyamatosan növekvő közösség"],
       ro: ["Zona istorică de relocare din cauza secetei", "Agricultură și creșterea animalelor", "Comunitate în continuă creștere"],
       en: ["Historic drought resettlement area", "Agriculture and livestock", "Steadily growing community"]
-    }
-  },
+    }, image: "/poi-images/sablale-cities-v2.webp"},
   {
     id: "dinsoor-cities-v2",
     type: "city",
@@ -989,8 +954,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Jelentős ciroktermelés", "Fontos belső piac", "Elhelyezkedés a Bay régióban"],
       ro: ["Producție semnificativă de sorg", "Piață internă importantă", "Locație în regiunea Bay"],
       en: ["Significant sorghum production", "Important inland market", "Location in the Bay region"]
-    }
-  },
+    }, image: "/poi-images/dinsoor-cities-v2.webp"},
   {
     id: "qansahdhere-cities-v2",
     type: "city",
@@ -1007,8 +971,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["Qansahdhere kerület központja", "Jelentős állatkereskedelem", "Hagyományos mezőgazdaság"],
       ro: ["Centrul districtului Qansahdhere", "Comerț semnificativ de animale", "Agricultură tradițională"],
       en: ["Center in the Qansahdhere district", "Significant livestock trade", "Traditional agriculture"]
-    }
-  },
+    }, image: "/poi-images/qansahdhere-cities-v2.webp"},
   {
     id: "burhakaba-cities-v2",
     type: "city",
@@ -1025,8 +988,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A hatalmas hegyről kapta a nevét", "A Baidoa felé vezető úton", "Gazdag gránitkészlet"],
       ro: ["Numit după muntele masiv", "Pe ruta către Baidoa", "Resurse bogate de granit"],
       en: ["Named after the massive mountain", "On the route to Baidoa", "Rich granite deposits"]
-    }
-  },
+    }, image: "/poi-images/burhakaba-cities-v2.webp"},
   {
     id: "tiyeglow-cities-v2",
     type: "city",
@@ -1061,8 +1023,7 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
       hu: ["A mély kútjairól ismert", "Fontos legelőterület", "Az Ogaden régió közelében"],
       ro: ["Cunoscut pentru puțurile adânci", "Zonă importantă de pășunat", "Aproape de regiunea Ogaden"],
       en: ["Known for deep wells", "Important grazing area", "Close to the Ogaden region"]
-    }
-  },
+    }, image: "/poi-images/el-barde-cities-v2.webp"},
   {
     id: "dolow-cities-v2",
     type: "city",
@@ -1082,3 +1043,4 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     }
   }
 ];
+

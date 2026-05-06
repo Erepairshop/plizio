@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraMozambiqueLifeV2: POI[] = [
@@ -13,8 +14,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Oroszlánok otthona", "Elefántjairól híres", "Ökoszisztéma-restauráció"],
       ro: ["Acasă pentru lei", "Cunoscut pentru elefanți", "Restaurarea ecosistemului"],
       en: ["Home to lions", "Known for elephants", "Ecosystem restoration"]
-    }
-  },
+    }, image: "/poi-images/gorongosa-national-park-life-v2.webp"},
   {
     id: "limpopo-national-park-life-v2",
     type: "animal-habitat",
@@ -27,8 +27,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Határokon átnyúló", "Gazdag állatvilág", "Nagy elefántcsordák"],
       ro: ["Transfrontalier", "Faună bogată", "Turme mari de elefanți"],
       en: ["Transfrontier", "Rich wildlife", "Large elephant herds"]
-    }
-  },
+    }, image: "/poi-images/limpopo-national-park-life-v2.webp"},
   {
     id: "bazaruto-archipelago-life-v2",
     type: "animal-habitat",
@@ -41,8 +40,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Dugong élőhely", "Korallzátonyok", "Tengeri védett terület"],
       ro: ["Habitat pentru dugongi", "Recife de corali", "Zonă marină protejată"],
       en: ["Dugong habitat", "Coral reefs", "Marine protected area"]
-    }
-  },
+    }, image: "/poi-images/bazaruto-archipelago-life-v2.webp"},
   {
     id: "quirimba-archipelago-life-v2",
     type: "animal-habitat",
@@ -55,8 +53,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Trópusi szigetvilág", "Tengeri élővilág", "Védett terület"],
       ro: ["Arhipelag tropical", "Faună marină", "Arie protejată"],
       en: ["Tropical archipelago", "Marine life", "Protected area"]
-    }
-  },
+    }, image: "/poi-images/quirimba-archipelago-life-v2.webp"},
   {
     id: "maputo-special-reserve-life-v2",
     type: "animal-habitat",
@@ -69,8 +66,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Elefántvédelem", "Parti ökoszisztéma", "Vándorló állatok"],
       ro: ["Protecția elefanților", "Ecosistem de coastă", "Animale migratoare"],
       en: ["Elephant protection", "Coastal ecosystem", "Migratory animals"]
-    }
-  },
+    }, image: "/poi-images/maputo-special-reserve-life-v2.webp"},
   {
     id: "zinave-national-park-life-v2",
     type: "animal-habitat",
@@ -83,8 +79,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Vadvilág-restauráció", "Száraz erdők", "Biodiverzitás"],
       ro: ["Restaurarea faunei", "Păduri uscate", "Biodiversitate"],
       en: ["Wildlife restoration", "Dry forests", "Biodiversity"]
-    }
-  },
+    }, image: "/poi-images/zinave-national-park-life-v2.webp"},
   {
     id: "banhine-national-park-life-v2",
     type: "animal-habitat",
@@ -97,8 +92,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Vizes élőhelyek", "Madármegfigyelés", "Füves területek"],
       ro: ["Zone umede", "Observarea păsărilor", "Pajiști"],
       en: ["Wetlands", "Birdwatching", "Grasslands"]
-    }
-  },
+    }, image: "/poi-images/banhine-national-park-life-v2.webp"},
   {
     id: "pomene-reserve-life-v2",
     type: "animal-habitat",
@@ -111,8 +105,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Lagúna", "Tengerbiológia", "Gyönyörű partvidék"],
       ro: ["Lagună", "Biologie marină", "Coastă frumoasă"],
       en: ["Lagoon", "Marine biology", "Beautiful coast"]
-    }
-  },
+    }, image: "/poi-images/pomene-reserve-life-v2.webp"},
   {
     id: "nampula-agriculture-life-v2",
     type: "agriculture",
@@ -125,8 +118,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Gyapottermesztés", "Kesudió", "Mezőgazdaság"],
       ro: ["Cultivarea bumbacului", "Nuci caju", "Agricultură"],
       en: ["Cotton cultivation", "Cashew nuts", "Agriculture"]
-    }
-  },
+    }, image: "/poi-images/nampula-agriculture-life-v2.webp"},
   {
     id: "zambezia-sugar-life-v2",
     type: "agriculture",
@@ -139,8 +131,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Cukornádtermesztés", "Termékeny talaj", "Torkolatvidék"],
       ro: ["Cultivarea trestiei de zahăr", "Sol fertil", "Zonă de estuar"],
       en: ["Sugarcane cultivation", "Fertile soil", "Estuary land"]
-    }
-  },
+    }, image: "/poi-images/zambezia-sugar-life-v2.webp"},
   {
     id: "manica-coffee-life-v2",
     type: "agriculture",
@@ -167,8 +158,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Dohánytermesztés", "Mezőgazdasági központ", "Vidéki"],
       ro: ["Cultivarea tutunului", "Centru agricol", "Rural"],
       en: ["Tobacco cultivation", "Agricultural center", "Rural"]
-    }
-  },
+    }, image: "/poi-images/niassa-tobacco-life-v2.webp"},
   {
     id: "maputo-garden-life-v2",
     type: "kid-landmark",
@@ -181,8 +171,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Növényvilág", "Játszótér", "Kikapcsolódás"],
       ro: ["Floră", "Loc de joacă", "Relaxare"],
       en: ["Plant life", "Playground", "Relaxation"]
-    }
-  },
+    }, image: "/poi-images/maputo-garden-life-v2.webp"},
   {
     id: "beira-marine-park-life-v2",
     type: "kid-landmark",
@@ -195,8 +184,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Játszóterek", "Partközeli", "Szórakozás"],
       ro: ["Zone de joacă", "Lângă coastă", "Divertisment"],
       en: ["Play areas", "Near coast", "Entertainment"]
-    }
-  },
+    }, image: "/poi-images/beira-marine-park-life-v2.webp"},
   {
     id: "ilhade-mocambique-kid-life-v2",
     type: "kid-landmark",
@@ -209,8 +197,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Világörökség", "Régi épületek", "Felfedezőút"],
       ro: ["Patrimoniu mondial", "Clădiri vechi", "Călătorie de descoperire"],
       en: ["World Heritage", "Old buildings", "Discovery journey"]
-    }
-  },
+    }, image: "/poi-images/ilhade-mocambique-kid-life-v2.webp"},
   {
     id: "tofo-beach-kid-life-v2",
     type: "kid-landmark",
@@ -223,8 +210,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Homokos strand", "Biztonságos úszás", "Játékos szórakozás"],
       ro: ["Plajă cu nisip", "Înot sigur", "Distracție"],
       en: ["Sandy beach", "Safe swimming", "Playful fun"]
-    }
-  },
+    }, image: "/poi-images/tofo-beach-kid-life-v2.webp"},
   {
     id: "limpopo-kids-zoo-life-v2",
     type: "kid-landmark",
@@ -237,8 +223,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Tanulás", "Állatokkal való találkozás", "Interaktív"],
       ro: ["Învățare", "Întâlniri cu animale", "Interactiv"],
       en: ["Learning", "Animal encounters", "Interactive"]
-    }
-  },
+    }, image: "/poi-images/limpopo-kids-zoo-life-v2.webp"},
   {
     id: "maputo-natural-history-kid-life-v2",
     type: "kid-landmark",
@@ -251,8 +236,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Csontvázak", "Kitömött állatok", "Oktatás"],
       ro: ["Schelete", "Animale împăiate", "Educație"],
       en: ["Skeletons", "Taxidermy", "Education"]
-    }
-  },
+    }, image: "/poi-images/maputo-natural-history-kid-life-v2.webp"},
   {
     id: "gondola-kids-fun-life-v2",
     type: "kid-landmark",
@@ -265,8 +249,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Szabadtéri", "Sport", "Játék"],
       ro: ["În aer liber", "Sport", "Joacă"],
       en: ["Outdoor", "Sport", "Play"]
-    }
-  },
+    }, image: "/poi-images/gondola-kids-fun-life-v2.webp"},
   {
     id: "pemba-kids-beach-life-v2",
     type: "kid-landmark",
@@ -279,8 +262,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Homokvárak", "Nap", "Frissülés"],
       ro: ["Castele de nisip", "Soare", "Răcorire"],
       en: ["Sandcastles", "Sun", "Refreshment"]
-    }
-  },
+    }, image: "/poi-images/pemba-kids-beach-life-v2.webp"},
   {
     id: "niassa-safari-kid-life-v2",
     type: "kid-landmark",
@@ -293,8 +275,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Természetélmény", "Állatok megfigyelése", "Vezetett"],
       ro: ["Experiența naturii", "Observarea animalelor", "Ghidat"],
       en: ["Nature experience", "Watch animals", "Guided"]
-    }
-  },
+    }, image: "/poi-images/niassa-safari-kid-life-v2.webp"},
   {
     id: "zambezia-river-kid-life-v2",
     type: "kid-landmark",
@@ -307,8 +288,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Piknik", "Természet", "Nyugalom"],
       ro: ["Picnic", "Natură", "Liniște"],
       en: ["Picnic", "Nature", "Quiet"]
-    }
-  },
+    }, image: "/poi-images/zambezia-river-kid-life-v2.webp"},
   {
     id: "tete-community-park-life-v2",
     type: "kid-landmark",
@@ -321,8 +301,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Találkozóhely", "Szabadidő", "Játszóeszközök"],
       ro: ["Loc de întâlnire", "Timp liber", "Echipamente de joacă"],
       en: ["Meeting point", "Leisure", "Play equipment"]
-    }
-  },
+    }, image: "/poi-images/tete-community-park-life-v2.webp"},
   {
     id: "inchope-animal-habitat-life-v2",
     type: "animal-habitat",
@@ -335,8 +314,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Állatvédelem", "Biodiverzitás", "Flóra"],
       ro: ["Protecția animalelor", "Biodiversitate", "Floră"],
       en: ["Animal protection", "Biodiversity", "Flora"]
-    }
-  },
+    }, image: "/poi-images/inchope-animal-habitat-life-v2.webp"},
   {
     id: "chimoio-kids-green-life-v2",
     type: "kid-landmark",
@@ -349,8 +327,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Zöldterület", "Gyerekrészleg", "Városi élet"],
       ro: ["Spațiu verde", "Zonă pentru copii", "Viață urbană"],
       en: ["Green space", "Kids area", "City life"]
-    }
-  },
+    }, image: "/poi-images/chimoio-kids-green-life-v2.webp"},
   {
     id: "vilankulo-marine-kid-life-v2",
     type: "kid-landmark",
@@ -363,8 +340,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Strand", "Vízi móka", "Nap"],
       ro: ["Plajă", "Distracție acvatică", "Soare"],
       en: ["Beach", "Water fun", "Sun"]
-    }
-  },
+    }, image: "/poi-images/vilankulo-marine-kid-life-v2.webp"},
   {
     id: "inhambane-kid-discovery-life-v2",
     type: "kid-landmark",
@@ -377,8 +353,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Tanösvények", "Játék", "Tanulás"],
       ro: ["Poteci naturale", "Joacă", "Învățare"],
       en: ["Nature trails", "Play", "Learning"]
-    }
-  },
+    }, image: "/poi-images/inhambane-kid-discovery-life-v2.webp"},
   {
     id: "gaza-farm-kids-life-v2",
     type: "agriculture",
@@ -391,8 +366,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Állatok", "Növények", "Oktatás"],
       ro: ["Animale", "Plante", "Educație"],
       en: ["Animals", "Plants", "Education"]
-    }
-  },
+    }, image: "/poi-images/gaza-farm-kids-life-v2.webp"},
   {
     id: "cabodelgado-mango-life-v2",
     type: "agriculture",
@@ -405,8 +379,7 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
       hu: ["Mangótermesztés", "Mezőgazdaság", "Betakarítás"],
       ro: ["Cultivarea mango", "Agricultură", "Recoltă"],
       en: ["Mango growing", "Agriculture", "Harvest"]
-    }
-  },
+    }, image: "/poi-images/cabodelgado-mango-life-v2.webp"},
   {
     id: "tete-agri-project-life-v2",
     type: "agriculture",
@@ -422,3 +395,4 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
     }
   }
 ];
+

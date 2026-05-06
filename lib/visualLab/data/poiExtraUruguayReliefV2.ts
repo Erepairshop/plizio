@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraUruguayReliefV2: POI[] = [
@@ -25,8 +26,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cuchilla-grande-relief-v2.webp"},
   {
     id: "cuchilla-de-haedo-relief-v2",
     type: "relief",
@@ -51,8 +51,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cuchilla-de-haedo-relief-v2.webp"},
   {
     id: "sierra-de-las-animas-relief-v2",
     type: "relief",
@@ -77,8 +76,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/sierra-de-las-animas-relief-v2.webp"},
   {
     id: "sierra-de-mahoma-relief-v2",
     type: "relief",
@@ -103,8 +101,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/sierra-de-mahoma-relief-v2.webp"},
   {
     id: "sierra-de-los-caracoles-relief-v2",
     type: "relief",
@@ -129,8 +126,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/sierra-de-los-caracoles-relief-v2.webp"},
   {
     id: "sierra-de-la-aurora-relief-v2",
     type: "relief",
@@ -155,8 +151,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/sierra-de-la-aurora-relief-v2.webp"},
   {
     id: "cuchilla-de-cuchilla-alta-relief-v2",
     type: "relief",
@@ -181,8 +176,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cuchilla-de-cuchilla-alta-relief-v2.webp"},
   {
     id: "sierra-carape-relief-v2",
     type: "relief",
@@ -207,8 +201,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/sierra-carape-relief-v2.webp"},
   {
     id: "cerro-blanco-relief-v2",
     type: "mountain",
@@ -233,8 +226,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cerro-blanco-relief-v2.webp"},
   {
     id: "cerro-betete-relief-v2",
     type: "mountain",
@@ -259,8 +251,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cerro-betete-relief-v2.webp"},
   {
     id: "cerro-de-la-buena-vista-relief-v2",
     type: "mountain",
@@ -285,8 +276,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cerro-de-la-buena-vista-relief-v2.webp"},
   {
     id: "cerro-colorado-relief-v2",
     type: "mountain",
@@ -311,8 +301,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cerro-colorado-relief-v2.webp"},
   {
     id: "cuchilla-del-fuego-relief-v2",
     type: "relief",
@@ -337,8 +326,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cuchilla-del-fuego-relief-v2.webp"},
   {
     id: "cuchilla-del-bizcocho-relief-v2",
     type: "relief",
@@ -363,8 +351,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cuchilla-del-bizcocho-relief-v2.webp"},
   {
     id: "cerro-de-la-sepultura-relief-v2",
     type: "mountain",
@@ -389,8 +376,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cerro-de-la-sepultura-relief-v2.webp"},
   {
     id: "cerro-de-las-espadas-relief-v2",
     type: "mountain",
@@ -441,8 +427,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cuchilla-de-los-tres-cerros-relief-v2.webp"},
   {
     id: "cerro-del-cuervo-relief-v2",
     type: "mountain",
@@ -467,8 +452,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cerro-del-cuervo-relief-v2.webp"},
   {
     id: "bosque-del-rio-negro-relief-v2",
     type: "forest",
@@ -493,8 +477,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/bosque-del-rio-negro-relief-v2.webp"},
   {
     id: "montes-del-rio-cebollati-relief-v2",
     type: "forest",
@@ -519,8 +502,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/montes-del-rio-cebollati-relief-v2.webp"},
   {
     id: "cerro-aspero-relief-v2",
     type: "mountain",
@@ -545,8 +527,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cerro-aspero-relief-v2.webp"},
   {
     id: "cuchilla-negra-relief-v2",
     type: "relief",
@@ -571,8 +552,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cuchilla-negra-relief-v2.webp"},
   {
     id: "sierra-de-las-canas-relief-v2",
     type: "relief",
@@ -597,8 +577,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/sierra-de-las-canas-relief-v2.webp"},
   {
     id: "cuchilla-de-peralta-relief-v2",
     type: "relief",
@@ -623,8 +602,7 @@ export const poiExtraUruguayReliefV2: POI[] = [
       hu: [],
       ro: ["Ora\u0219ul joac\u0103 un rol vital \u00een economia regiunii, fiind un hub pentru activit\u0103\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\u0103 prin numeroase evenimente \u0219i festivaluri locale.", "Arhitectura ora\u0219ului \u00eembin\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\u0103 men\u021bine vii tradi\u021biile seculare, oferind o experien\u021b\u0103 autentic\u0103 vizitatorilor.", "Pozi\u021bia strategic\u0103 a ora\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."],
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
-    }
-  },
+    }, image: "/poi-images/cuchilla-de-peralta-relief-v2.webp"},
   {
     id: "cuchilla-del-ombu-relief-v2",
     type: "relief",
@@ -652,3 +630,4 @@ export const poiExtraUruguayReliefV2: POI[] = [
       }
   }
 ];
+

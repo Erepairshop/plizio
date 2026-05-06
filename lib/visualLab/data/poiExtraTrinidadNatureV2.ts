@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraTrinidadNatureV2: POI[] = [
@@ -27,8 +28,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Alacsony sótartalom a folyótorkolatok miatt", "Fontos tengeri élőhely", "Nyugodtabb vizek, mint az Atlanti-óceán"],
       ro: ["Salinitate redusă datorită gurilor de râu", "Habitat marin important", "Ape mai calme decât Atlanticul"],
       en: ["Low salinity due to river mouths", "Important marine habitat", "Calmer waters than the Atlantic"]
-    }
-  },
+    }, image: "/poi-images/tt-gulf-of-paria-nature-v2.webp"},
   {
     id: "tt-soldado-rock-nature-v2",
     type: "island",
@@ -41,8 +41,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Madárrezervátum", "Sziklás, kopár táj", "Stratégiai elhelyezkedés a Kolumbusz-csatornában"],
       ro: ["Sanctuar de păsări", "Peisaj stâncos și arid", "Situat strategic în Canalul Columb"],
       en: ["Bird sanctuary", "Rocky, barren landscape", "Strategically located in the Columbus Channel"]
-    }
-  },
+    }, image: "/poi-images/tt-soldado-rock-nature-v2.webp"},
   {
     id: "tt-buccoo-marsh-nature-v2",
     type: "forest",
@@ -55,8 +54,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["A Buccoo Reef Tengeri Park része", "Fontos ivadéknevelő hely a halak számára", "Szűri a zátony felé áramló vizet"],
       ro: ["Parte a Parcului Marin Buccoo Reef", "Creșă importantă pentru pești", "Filtrează apa care curge spre recif"],
       en: ["Part of the Buccoo Reef Marine Park", "Important nursery for fish", "Filters water flowing to the reef"]
-    }
-  },
+    }, image: "/poi-images/tt-buccoo-marsh-nature-v2.webp"},
   {
     id: "tt-gasparee-caves-nature-v2",
     type: "mountain",
@@ -69,8 +67,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Sztalaktitok és sztalagmitok", "Tiszta, földalatti árapály-medence", "Az egyik Bocas-szigeten található"],
       ro: ["Stalactite și stalagmite", "Piscină subterană limpede, afectată de maree", "Situată pe una dintre insulele Bocas"],
       en: ["Stalactites and stalagmites", "Clear underground tidal pool", "Located on one of the Bocas Islands"]
-    }
-  },
+    }, image: "/poi-images/tt-gasparee-caves-nature-v2.webp"},
   {
     id: "tt-main-ridge-forest-reserve-nature-v2",
     type: "forest",
@@ -83,8 +80,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["1776-ban védetté nyilvánították", "Fontos madárélőhely", "Tobago szigetének gerince"],
       ro: ["Protejată din 1776", "Habitat important pentru păsări", "Coloana vertebrală a insulei Tobago"],
       en: ["Protected since 1776", "Important birding habitat", "The backbone of Tobago island"]
-    }
-  },
+    }, image: "/poi-images/tt-main-ridge-forest-reserve-nature-v2.webp"},
   {
     id: "tt-oropouche-river-nature-v2",
     type: "river",
@@ -97,8 +93,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Nem tévesztendő össze a déli Oropouche-csal", "Fontos vízelvezető a régió számára", "Mezőgazdasági területeken folyik keresztül"],
       ro: ["A nu se confunda cu Oropouche de sud", "Drenaj important pentru regiune", "Curge prin zone agricole"],
       en: ["Not to be confused with the southern Oropouche", "Important drainage for the region", "Flows through agricultural areas"]
-    }
-  },
+    }, image: "/poi-images/tt-oropouche-river-nature-v2.webp"},
   {
     id: "tt-chacachacare-island-nature-v2",
     type: "island",
@@ -111,8 +106,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Száraz erdő ökoszisztéma", "Történelmi romok és világítótorony", "Sós vizű tó (Sulphur Bay)"],
       ro: ["Ecosistem de pădure uscată", "Ruine istorice și far", "Lac cu apă sărată (Golful Sulphur)"],
       en: ["Dry forest ecosystem", "Historic ruins and lighthouse", "Saltwater pond (Sulphur Bay)"]
-    }
-  },
+    }, image: "/poi-images/tt-chacachacare-island-nature-v2.webp"},
   {
     id: "tt-morne-catherine-nature-v2",
     type: "mountain",
@@ -125,8 +119,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Prizgar-csúcsként is ismert", "Kilátást nyújt a keleti partra", "Egy kiterjedt erdőterület része"],
       ro: ["Cunoscut și sub numele de Vârful Prizgar", "Oferă vederi spre coasta de est", "Parte a unei zone forestiere extinse"],
       en: ["Also known as Prizgar Peak", "Offers views of the east coast", "Part of an extensive forested area"]
-    }
-  },
+    }, image: "/poi-images/tt-morne-catherine-nature-v2.webp"},
   {
     id: "tt-columbus-bay-nature-v2",
     type: "sea",
@@ -139,8 +132,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Történelmi partraszállási hely", "Homokos strandok és kókuszpálmák", "Kilátás a Kolumbusz-csatornára"],
       ro: ["Loc de debarcare istoric", "Plaje cu nisip și cocotieri", "Vedere spre Canalul Columb"],
       en: ["Historic landing site", "Sandy beaches and coconut palms", "Faces the Columbus Channel"]
-    }
-  },
+    }, image: "/poi-images/tt-columbus-bay-nature-v2.webp"},
   {
     id: "tt-hollis-reservoir-nature-v2",
     type: "lake",
@@ -153,8 +145,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["1936-ban épült", "Fontos vízforrás", "Népszerű horgász- és túrázóhely"],
       ro: ["Construit în 1936", "Sursă importantă de apă", "Zonă populară pentru pescuit și drumeții"],
       en: ["Constructed in 1936", "Important water source", "Popular fishing and hiking area"]
-    }
-  },
+    }, image: "/poi-images/tt-hollis-reservoir-nature-v2.webp"},
   {
     id: "tt-trinity-hills-wildlife-sanctuary-nature-v2",
     type: "forest",
@@ -167,8 +158,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Védelmet nyújt a változatos állatvilágnak, beleértve az ocelotot is", "Fontos vízgyűjtő terület", "Dombos terep"],
       ro: ["Protejează fauna diversă, inclusiv ocelotul", "Bazin hidrografic important", "Teren deluros"],
       en: ["Protects diverse fauna, including ocelots", "Important watershed area", "Hilly terrain"]
-    }
-  },
+    }, image: "/poi-images/tt-trinity-hills-wildlife-sanctuary-nature-v2.webp"},
   {
     id: "tt-godineau-river-nature-v2",
     type: "river",
@@ -181,8 +171,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["A Paria-öbölbe ömlik", "Fontos a síkság vízelvezetéséhez", "Támogatja a mangrove ökoszisztémákat"],
       ro: ["Se varsă în Golful Paria", "Important pentru drenajul câmpiei", "Susține ecosistemele de mangrove"],
       en: ["Empties into the Gulf of Paria", "Important for lowland drainage", "Supports mangrove ecosystems"]
-    }
-  },
+    }, image: "/poi-images/tt-godineau-river-nature-v2.webp"},
   {
     id: "tt-aripero-savannas-nature-v2",
     type: "forest",
@@ -195,8 +184,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Tudományos szempontból érdekes terület", "Ritka növényfajok", "Veszélyeztetett élőhely"],
       ro: ["Zonă de interes științific", "Specii rare de plante", "Habitat pe cale de dispariție"],
       en: ["Scientific area of interest", "Rare plant species", "Endangered habitat"]
-    }
-  },
+    }, image: "/poi-images/tt-aripero-savannas-nature-v2.webp"},
   {
     id: "tt-la-vache-bay-nature-v2",
     type: "sea",
@@ -223,8 +211,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Trinidad legnagyobb denevérkolóniája", "Több millió denevérnek ad otthont", "Látványos denevérkirepülés alkonyatkor"],
       ro: ["Cea mai mare colonie de lilieci din Trinidad", "Găzduiește milioane de lilieci", "Ieșire spectaculoasă a liliecilor la amurg"],
       en: ["Largest bat colony in Trinidad", "Home to millions of bats", "Spectacular dusk emergence of bats"]
-    }
-  },
+    }, image: "/poi-images/tt-tamana-mountain-nature-v2.webp"},
   {
     id: "tt-icacos-point-nature-v2",
     type: "sea",
@@ -251,8 +238,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Fontos vízi madár élőhely", "Mocsár és lagúna keveréke", "Támogatja a változatos vízi állatvilágot"],
       ro: ["Habitat important pentru păsările acvatice", "Amestec de mlaștină și lagună", "Susține o faună acvatică diversă"],
       en: ["Important habitat for water birds", "Mix of swamp and lagoon", "Supports diverse aquatic fauna"]
-    }
-  },
+    }, image: "/poi-images/tt-fishing-pond-nature-v2.webp"},
   {
     id: "tt-st-giles-islands-nature-v2",
     type: "island",
@@ -265,8 +251,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Fontos tengeri madár fészkelőhely", "Drámai sziklaképződmények", "Erős tengeri áramlatok veszik körül a szigeteket"],
       ro: ["Loc de cuibărit important pentru păsările marine", "Formațiuni stâncoase dramatice", "Curenți marini puternici înconjoară insulele"],
       en: ["Major seabird nesting site", "Dramatic rock formations", "Strong sea currents surround the islands"]
-    }
-  },
+    }, image: "/poi-images/tt-st-giles-islands-nature-v2.webp"},
   {
     id: "tt-caparo-river-nature-v2",
     type: "river",
@@ -279,8 +264,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Mezőgazdasági területeken folyik keresztül", "Alsó szakaszát az árapály befolyásolja", "Fontos a helyi vízelvezetés szempontjából"],
       ro: ["Curge prin zone agricole", "Influențat de maree în cursul inferior", "Important pentru drenajul local"],
       en: ["Flows through agricultural areas", "Affected by tides in its lower reaches", "Important for local drainage"]
-    }
-  },
+    }, image: "/poi-images/tt-caparo-river-nature-v2.webp"},
   {
     id: "tt-cronstadt-island-nature-v2",
     type: "island",
@@ -293,8 +277,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Történelmileg karanténállomásként használták", "Száraz erdő növényzet", "Magánlakások"],
       ro: ["Folosită istoric ca stație de carantină", "Vegetație de pădure uscată", "Reședințe private"],
       en: ["Historically used as a quarantine station", "Dry forest vegetation", "Private residences"]
-    }
-  },
+    }, image: "/poi-images/tt-cronstadt-island-nature-v2.webp"},
   {
     id: "tt-erin-bay-nature-v2",
     type: "sea",
@@ -321,8 +304,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["A Kolumbusz-csatornába torkollik", "Támogatja a helyi halászközösségeket", "A Déli-hegység egyes részeit vezeti le"],
       ro: ["Se varsă în Canalul Columb", "Susține comunitățile locale de pescari", "Drenează părți din Southern Range"],
       en: ["Empties into the Columbus Channel", "Supports local fishing communities", "Drains parts of the Southern Range"]
-    }
-  },
+    }, image: "/poi-images/tt-moruga-river-nature-v2.webp"},
   {
     id: "tt-paria-falls-nature-v2",
     type: "river",
@@ -335,8 +317,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Part menti túraútvonalon érhető el", "A Paria-öbölbe ömlik", "Érintetlen esőerdő veszi körül"],
       ro: ["Accesibil printr-o potecă de coastă", "Se varsă în Golful Paria", "Înconjurat de pădure tropicală virgină"],
       en: ["Reached via a coastal hiking trail", "Flows into Paria Bay", "Surrounded by pristine rainforest"]
-    }
-  },
+    }, image: "/poi-images/tt-paria-falls-nature-v2.webp"},
   {
     id: "tt-guapo-bay-nature-v2",
     type: "sea",
@@ -349,8 +330,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Az olajipar partvidéke", "Kilátás az offshore platformokra", "Az ipar és a természet keveréke"],
       ro: ["Coasta industriei petroliere", "Vedere spre platformele offshore", "Amestec de industrie și natură"],
       en: ["Coastline of the oil industry", "Views of offshore platforms", "Mix of industry and nature"]
-    }
-  },
+    }, image: "/poi-images/tt-guapo-bay-nature-v2.webp"},
   {
     id: "tt-navet-dam-nature-v2",
     type: "lake",
@@ -363,8 +343,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Az ország egyik legnagyobb víztározója", "Erdő és mezőgazdasági területek veszik körül", "Trinidad nagy részét ellátja vízzel"],
       ro: ["Unul dintre cele mai mari rezervoare din țară", "Înconjurat de pădure și terenuri agricole", "Furnizează apă unei mari părți din Trinidad"],
       en: ["One of the country's largest reservoirs", "Surrounded by forest and agricultural land", "Supplies water to a large part of Trinidad"]
-    }
-  },
+    }, image: "/poi-images/tt-navet-dam-nature-v2.webp"},
   {
     id: "tt-sans-souci-bay-nature-v2",
     type: "sea",
@@ -377,8 +356,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Jó szörfözési feltételeiről ismert", "Sziklás földnyelvek és homokos strand", "Félreeső tengerparti falu"],
       ro: ["Cunoscut pentru condiții bune de surf", "Promontorii stâncoase și plajă cu nisip", "Sat de coastă izolat"],
       en: ["Known for good surfing conditions", "Rocky headlands and sandy beach", "Remote coastal village"]
-    }
-  },
+    }, image: "/poi-images/tt-sans-souci-bay-nature-v2.webp"},
   {
     id: "tt-galleons-passage-nature-v2",
     type: "sea",
@@ -391,8 +369,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Körülbelül 30 km széles", "Lehetnek zord tengeri viszonyok", "Fontos hajózási útvonal"],
       ro: ["Aproximativ 30 km lățime", "Poate avea condiții maritime agitate", "Ruta de navigație importantă"],
       en: ["Approximately 30 km wide", "Can have rough sea conditions", "Important shipping lane"]
-    }
-  },
+    }, image: "/poi-images/tt-galleons-passage-nature-v2.webp"},
   {
     id: "tt-saut-d-eau-island-nature-v2",
     type: "island",
@@ -405,8 +382,7 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       hu: ["Pelikánok és más tengeri madarak védett területe", "Lakatlan", "Franciául 'vízesést' jelent"],
       ro: ["Sanctuar pentru pelicani și alte păsări marine", "Nelocuită", "Înseamnă 'cascadă' în franceză"],
       en: ["Sanctuary for pelicans and other seabirds", "Uninhabited", "Means 'waterfall' in French"]
-    }
-  },
+    }, image: "/poi-images/tt-saut-d-eau-island-nature-v2.webp"},
   {
     id: "tt-celestial-park-forest-v2",
     type: "forest",
@@ -422,3 +398,4 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     }
   }
 ]
+

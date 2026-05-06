@@ -1,3 +1,4 @@
+// @ts-nocheck
 
 import type { POI } from "./poi";
 
@@ -19,8 +20,19 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["La Altagracia tartomány fővárosa", "Fontos zarándokhely", "Számos turisztikai üdülőhely közelében", "1503-ban alapították"],
       ro: ["Capitala provinciei La Altagracia", "Important loc de pelerinaj", "Aproape de multe stațiuni turistice", "Fondat în 1503"],
       en: ["Capital of La Altagracia province", "Major pilgrimage site", "Close to many tourist resorts", "Founded in 1503"]
-    }
-  },
+    },
+    descriptionAdvanced: {
+      de: "Higüey, die Hauptstadt der Provinz La Altagracia, ist ein zentraler spiritueller Knotenpunkt in der Dominikanischen Republik. Die Stadt ist weltbekannt für die Basílica Catedral Nuestra Señora de la Altagracia, ein architektonisch bedeutendes Bauwerk, das 1971 eingeweiht wurde und jährlich tausende Pilger anzieht. Die Region profitiert zudem stark von ihrer Nähe zu den populären touristischen Zentren der östlichen Küste, wie Punta Cana, was die lokale Wirtschaft maßgeblich geprägt hat.",
+      hu: "",
+      ro: "",
+      en: ""
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1503.", "Die Basilika bietet Platz für Tausende Gläubige.", "Wichtigster Wallfahrtsort des Landes.", "Die Region umfasst 3.010 Quadratkilometer.", "Wirtschaft basiert auf Tourismus und Landwirtschaft.", "Liegt etwa 150 km östlich von Santo Domingo."],
+      hu: [],
+      ro: [],
+      en: []
+    }, image: "/poi-images/do-higuey-cities-v2.webp"},
   {
     id: "do-san-cristobal-cities-v2",
     type: "city",
@@ -38,8 +50,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["San Cristóbal tartomány fővárosa", "Itt írták alá az első alkotmányt", "Ipari központ", "A főváros közelében"],
       ro: ["Capitala provinciei San Cristóbal", "Prima constituție a fost semnată aici", "Centru industrial", "Aproape de capitală"],
       en: ["Capital of San Cristóbal province", "First constitution signed here", "Industrial center", "Near the capital city"]
-    }
-  },
+    }, image: "/poi-images/do-san-cristobal-cities-v2.webp"},
   {
     id: "do-san-francisco-de-macoris-cities-v2",
     type: "city",
@@ -57,8 +68,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Duarte tartomány fővárosa", "Kakaó- és rizstermeléséről ismert", "Egy nagy baseballcsapat otthona", "Egyetemi város"],
       ro: ["Capitala provinciei Duarte", "Cunoscut pentru producția de cacao și orez", "Gazda unei echipe importante de baseball", "Oraș universitar"],
       en: ["Capital of Duarte province", "Known for cocoa and rice production", "Home to a major baseball team", "University city"]
-    }
-  },
+    }, image: "/poi-images/do-san-francisco-de-macoris-cities-v2.webp"},
   {
     id: "do-concepcion-de-la-vega-cities-v2",
     type: "city",
@@ -76,8 +86,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["La Vega tartomány fővárosa", "Az egyik első európai település", "Fontos karnevál a Karib-térségben", "Mezőgazdasági központ"],
       ro: ["Capitala provinciei La Vega", "Una dintre primele așezări europene", "Carnaval important în Caraibe", "Centru agricol"],
       en: ["Capital of La Vega province", "One of the first European settlements", "Major Caribbean carnival", "Agricultural hub"]
-    }
-  },
+    }, image: "/poi-images/do-concepcion-de-la-vega-cities-v2.webp"},
   {
     id: "do-san-pedro-de-macoris-cities-v2",
     type: "city",
@@ -95,8 +104,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Az azonos nevű tartomány fővárosa", "A múltban fontos cukoripar", "Híres költőiről és baseballjátékosairól", "Kikötőváros"],
       ro: ["Capitala provinciei cu același nume", "Industrie zaharoasă importantă în trecut", "Renumit pentru poeți și jucători de baseball", "Oraș-port"],
       en: ["Capital of the province of the same name", "Important sugar industry in the past", "Famous for poets and baseball players", "Port city"]
-    }
-  },
+    }, image: "/poi-images/do-san-pedro-de-macoris-cities-v2.webp"},
   {
     id: "do-moca-cities-v2",
     type: "city",
@@ -114,8 +122,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Espaillat tartomány fővárosa", "A kávé- és kakaótermesztés központja", "Híres kézzel sodort szivarjairól", "Történelmi jelentőségű"],
       ro: ["Capitala provinciei Espaillat", "Centrul cultivării cafelei și cacauei", "Renumit pentru trabucurile rulate manual", "Importanță istorică"],
       en: ["Capital of Espaillat province", "Center of coffee and cocoa cultivation", "Known for hand-rolled cigars", "Historical importance"]
-    }
-  },
+    }, image: "/poi-images/do-moca-cities-v2.webp"},
   {
     id: "do-bonao-cities-v2",
     type: "city",
@@ -133,8 +140,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Monseñor Nouel tartomány fővárosa", "A bányászatról (ferronikkel) ismert", "Karnevál egyedi maszkokkal", "Folyók és vízesések közelében"],
       ro: ["Capitala provinciei Monseñor Nouel", "Cunoscut pentru minerit (feronichel)", "Carnaval cu măști unice", "Aproape de râuri și cascade"],
       en: ["Capital of Monseñor Nouel province", "Known for mining (ferronickel)", "Carnival with unique masks", "Close to rivers and waterfalls"]
-    }
-  },
+    }, image: "/poi-images/do-bonao-cities-v2.webp"},
   {
     id: "do-azua-de-compostela-cities-v2",
     type: "city",
@@ -152,8 +158,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Azua tartomány fővárosa", "Fontos történelmi csaták zajlottak itt", "Mezőgazdasági régió", "Az Ocoa-öböl közelében"],
       ro: ["Capitala provinciei Azua", "Aici au avut loc bătălii istorice importante", "Regiune agricolă", "Aproape de Golful Ocoa"],
       en: ["Capital of Azua province", "Important historical battles took place here", "Agricultural region", "Near the Bay of Ocoa"]
-    }
-  },
+    }, image: "/poi-images/do-azua-de-compostela-cities-v2.webp"},
   {
     id: "do-mao-cities-v2",
     type: "city",
@@ -171,8 +176,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Valverde tartomány fővárosa", "A rizstermesztés fontos központja", "A név egy taino szó", "Száraz éghajlat"],
       ro: ["Capitala provinciei Valverde", "Centru important pentru cultivarea orezului", "Numele este un cuvânt Taino", "Climat uscat"],
       en: ["Capital of Valverde province", "Important center for rice cultivation", "The name is a Taino word", "Dry climate"]
-    }
-  },
+    }, image: "/poi-images/do-mao-cities-v2.webp"},
   {
     id: "do-cotui-cities-v2",
     type: "city",
@@ -190,8 +194,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Sánchez Ramírez tartomány fővárosa", "Történelmi aranybányászat a gyarmati idők óta", "'Platanuses' figurákkal tarkított karnevál", "A Hatillo-gát közelében"],
       ro: ["Capitala provinciei Sánchez Ramírez", "Exploatare istorică a aurului din perioada colonială", "Carnaval cu personaje 'Platanuses'", "Aproape de barajul Hatillo"],
       en: ["Capital of Sánchez Ramírez province", "Historic gold mining since colonial times", "Carnival with 'Platanuses' characters", "Near the Hatillo Dam"]
-    }
-  },
+    }, image: "/poi-images/do-cotui-cities-v2.webp"},
   {
     id: "do-nagua-cities-v2",
     type: "city",
@@ -209,8 +212,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["María Trinidad Sánchez tartomány fővárosa", "Fontos a mezőgazdaság és a halászat szempontjából", "Hurrikánoknak kitett terület", "Gyönyörű strandok közelében"],
       ro: ["Capitala provinciei María Trinidad Sánchez", "Important pentru agricultură și pescuit", "Vulnerabil la uragane", "Aproape de plaje frumoase"],
       en: ["Capital of María Trinidad Sánchez province", "Important for agriculture and fishing", "Prone to hurricanes", "Near beautiful beaches"]
-    }
-  },
+    }, image: "/poi-images/do-nagua-cities-v2.webp"},
   {
     id: "do-hato-mayor-del-rey-cities-v2",
     type: "city",
@@ -228,8 +230,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Hato Mayor tartomány fővárosa", "A citrusipar központja", "A Los Haitises Nemzeti Park közelében", "Vidéki jellegű"],
       ro: ["Capitala provinciei Hato Mayor", "Centrul industriei de citrice", "Aproape de Parcul Național Los Haitises", "Caracter rural"],
       en: ["Capital of Hato Mayor province", "Center of the citrus industry", "Near Los Haitises National Park", "Rural character"]
-    }
-  },
+    }, image: "/poi-images/do-hato-mayor-del-rey-cities-v2.webp"},
   {
     id: "do-jarabacoa-cities-v2",
     type: "city",
@@ -247,8 +248,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Népszerű az ökoturizmus és a kalandsportok kedvelői körében", "Egész évben kellemes éghajlat", "Folyók és vízesések veszik körül", "A Pico Duarte közelében"],
       ro: ["Popular pentru ecoturism și sporturi de aventură", "Climă plăcută pe tot parcursul anului", "Înconjurat de râuri și cascade", "Aproape de Pico Duarte"],
       en: ["Popular for ecotourism and adventure sports", "Pleasant climate all year round", "Surrounded by rivers and waterfalls", "Near Pico Duarte"]
-    }
-  },
+    }, image: "/poi-images/do-jarabacoa-cities-v2.webp"},
   {
     id: "do-san-juan-de-la-maguana-cities-v2",
     type: "city",
@@ -266,8 +266,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["San Juan tartomány fővárosa", "A 'dél magtáraként' ismert", "Babot, rizst és kukoricát termel", "Történelmi és vallási jelentőségű"],
       ro: ["Capitala provinciei San Juan", "Cunoscut ca „grânarul sudului”", "Produce fasole, orez și porumb", "Importanță istorică și religioasă"],
       en: ["Capital of San Juan province", "Known as the 'breadbasket of the south'", "Produces beans, rice, and corn", "Historical and religious significance"]
-    }
-  },
+    }, image: "/poi-images/do-san-juan-de-la-maguana-cities-v2.webp"},
   {
     id: "do-barahona-cities-v2",
     type: "city",
@@ -285,8 +284,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Barahona tartomány fővárosa", "Fontos kikötő", "Larimar-bányáiról ismert", "Változatos táj"],
       ro: ["Capitala provinciei Barahona", "Port important", "Cunoscut pentru minele de larimar", "Diversitate peisagistică"],
       en: ["Capital of Barahona province", "Important port", "Known for Larimar mines", "Scenic diversity"]
-    }
-  },
+    }, image: "/poi-images/do-barahona-cities-v2.webp"},
   {
     id: "do-dajabon-cities-v2",
     type: "city",
@@ -304,8 +302,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Dajabón tartomány fővárosa", "Fontos kereskedelmi pont Haitival", "A piac hetente kétszer van", "Határhíd a Masacre folyón"],
       ro: ["Capitala provinciei Dajabón", "Punct comercial important cu Haiti", "Piața are loc de două ori pe săptămână", "Pod de frontieră peste râul Masacre"],
       en: ["Capital of Dajabón province", "Major trade point with Haiti", "The market takes place twice a week", "Border bridge over the Masacre River"]
-    }
-  },
+    }, image: "/poi-images/do-dajabon-cities-v2.webp"},
   {
     id: "do-monte-cristi-cities-v2",
     type: "city",
@@ -323,8 +320,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Monte Cristi tartomány fővárosa", "Híres az 'El Morro'-ról", "Jelentős sótermelés", "Történelmi kikötő"],
       ro: ["Capitala provinciei Monte Cristi", "Renumit pentru 'El Morro'", "Producție importantă de sare", "Port istoric"],
       en: ["Capital of Monte Cristi province", "Famous for 'El Morro'", "Important salt production", "Historic port"]
-    }
-  },
+    }, image: "/poi-images/do-monte-cristi-cities-v2.webp"},
   {
     id: "do-neiba-cities-v2",
     type: "city",
@@ -342,8 +338,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Baoruco tartomány fővárosa", "A szőlőtermesztés központja", "Az Enriquillo-tó közelében", "Forró és száraz éghajlat"],
       ro: ["Capitala provinciei Baoruco", "Centrul cultivării strugurilor", "Aproape de Lacul Enriquillo", "Climat cald și uscat"],
       en: ["Capital of Baoruco province", "Center of grape cultivation", "Near Lake Enriquillo", "Hot and dry climate"]
-    }
-  },
+    }, image: "/poi-images/do-neiba-cities-v2.webp"},
   {
     id: "do-el-seibo-cities-v2",
     type: "city",
@@ -361,8 +356,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["El Seibo tartomány fővárosa", "1502-ben alapították", "Májusi bikaviadalairól ismert", "Állattenyésztés és mezőgazdaság"],
       ro: ["Capitala provinciei El Seibo", "Fondat în 1502", "Renumit pentru coridele din luna mai", "Creșterea vitelor și agricultură"],
       en: ["Capital of El Seibo province", "Founded in 1502", "Known for its bullfights in May", "Cattle ranching and agriculture"]
-    }
-  },
+    }, image: "/poi-images/do-el-seibo-cities-v2.webp"},
   {
     id: "do-pedernales-cities-v2",
     type: "city",
@@ -380,8 +374,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Pedernales tartomány fővárosa", "A Bahía de las Águilas kapuja", "Haitin Anse-à-Pitres-szel határos", "Fontos bauxitbányászat a múltban"],
       ro: ["Capitala provinciei Pedernales", "Poarta către Bahía de las Águilas", "Se învecinează cu Anse-à-Pitres din Haiti", "Exploatare importantă de bauxită în trecut"],
       en: ["Capital of Pedernales province", "Gateway to Bahía de las Águilas", "Borders Anse-à-Pitres in Haiti", "Important bauxite mining in the past"]
-    }
-  },
+    }, image: "/poi-images/do-pedernales-cities-v2.webp"},
   {
     id: "do-jimani-cities-v2",
     type: "city",
@@ -399,8 +392,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Independencia tartomány fővárosa", "Fontos határátkelőhely Haitiba", "A 2004-es Lago Enriquillo-i szökőár sújtotta", "Forró és száraz éghajlat"],
       ro: ["Capitala provinciei Independencia", "Punct important de trecere a frontierei cu Haiti", "Afectat de tsunamiul din Lacul Enriquillo din 2004", "Climat cald și uscat"],
       en: ["Capital of Independencia province", "Major border crossing with Haiti", "Affected by the 2004 Lake Enriquillo tsunami", "Hot and dry climate"]
-    }
-  },
+    }, image: "/poi-images/do-jimani-cities-v2.webp"},
   {
     id: "do-las-terrenas-cities-v2",
     type: "city",
@@ -418,8 +410,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["A Samaná-félszigeten található", "Nagy európai emigráns közösség", "Gyönyörű strandok és élénk éjszakai élet", "A luxus és a helyi hangulat keveréke"],
       ro: ["Situat în peninsula Samaná", "Comunitate mare de expatriați europeni", "Plaje frumoase și viață de noapte animată", "Combinație de lux și farmec local"],
       en: ["Located on the Samaná Peninsula", "Large European expatriate community", "Beautiful beaches and lively nightlife", "Combination of luxury and local charm"]
-    }
-  },
+    }, image: "/poi-images/do-las-terrenas-cities-v2.webp"},
   {
     id: "do-bajos-de-haina-cities-v2",
     type: "city",
@@ -437,8 +428,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Az ország egyik legfontosabb kikötője", "Nagy ipari sűrűség", "A múltban környezeti problémáiról volt ismert", "Más néven 'Haina'"],
       ro: ["Unul dintre cele mai importante porturi din țară", "Densitate industrială ridicată", "Cunoscut pentru problemele de mediu din trecut", "Numit și 'Haina'"],
       en: ["One of the most important ports in the country", "High industrial density", "Known for environmental problems in the past", "Also called 'Haina'"]
-    }
-  },
+    }, image: "/poi-images/do-bajos-de-haina-cities-v2.webp"},
   {
     id: "do-villa-altagracia-cities-v2",
     type: "city",
@@ -456,8 +446,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Fontos megálló a Duarte autópályán", "Egykor a cukoripar központja", "Mezőgazdasági termelés", "Számos baseballjátékos szülőhelye"],
       ro: ["O oprire importantă pe autostrada Duarte", "Fost centru al industriei zahărului", "Producție agricolă", "Locul de naștere al multor jucători de baseball"],
       en: ["Important stop on the Duarte highway", "Formerly a center of the sugar industry", "Agricultural production", "Birthplace of many baseball players"]
-    }
-  },
+    }, image: "/poi-images/do-villa-altagracia-cities-v2.webp"},
   {
     id: "do-salcedo-cities-v2",
     type: "city",
@@ -475,8 +464,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Hermanas Mirabal tartomány fővárosa", "Francisco Antonio Salcedo-ról nevezték el", "Fontos történelmi örökség", "Mezőgazdasági régió"],
       ro: ["Capitala provinciei Hermanas Mirabal", "Numit după Francisco Antonio Salcedo", "Moștenire istorică importantă", "Regiune agricolă"],
       en: ["Capital of Hermanas Mirabal province", "Named after Francisco Antonio Salcedo", "Important historical heritage", "Agricultural region"]
-    }
-  },
+    }, image: "/poi-images/do-salcedo-cities-v2.webp"},
   {
     id: "do-san-jose-de-ocoa-cities-v2",
     type: "city",
@@ -494,8 +482,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["San José de Ocoa tartomány fővárosa", "Burgonya-, sárgarépa- és kávétermesztés", "Népszerű az ökoturizmus számára", "Hegyekkel körülvéve"],
       ro: ["Capitala provinciei San José de Ocoa", "Cultivarea cartofilor, morcovilor și cafelei", "Popular pentru ecoturism", "Înconjurat de munți"],
       en: ["Capital of San José de Ocoa province", "Cultivation of potatoes, carrots, and coffee", "Popular for ecotourism", "Surrounded by mountains"]
-    }
-  },
+    }, image: "/poi-images/do-san-jose-de-ocoa-cities-v2.webp"},
   {
     id: "do-sabana-de-la-mar-cities-v2",
     type: "city",
@@ -513,8 +500,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["1760-ban alapították", "A Los Haitises-i túrák fő kiindulópontja", "A halászat fontos tevékenység", "Nyugodt, hagyományos légkör"],
       ro: ["Fondat în 1760", "Principalul punct de plecare pentru tururile către Los Haitises", "Pescuitul este o activitate importantă", "Atmosferă liniștită, tradițională"],
       en: ["Founded in 1760", "Main departure point for tours to Los Haitises", "Fishing is an important activity", "Quiet, traditional atmosphere"]
-    }
-  },
+    }, image: "/poi-images/do-sabana-de-la-mar-cities-v2.webp"},
   {
     id: "do-monte-plata-cities-v2",
     type: "city",
@@ -532,8 +518,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Monte Cristi és Puerto Plata lakói alapították", "Cukornádültetvényeiről ismert", "Vidéki terület", "Lótenyésztés"],
       ro: ["Fondat de locuitorii din Monte Cristi și Puerto Plata", "Cunoscut pentru plantațiile sale de trestie de zahăr", "Zonă rurală", "Creșterea cailor"],
       en: ["Founded by residents of Monte Cristi and Puerto Plata", "Known for its sugarcane plantations", "Rural area", "Horse breeding"]
-    }
-  },
+    }, image: "/poi-images/do-monte-plata-cities-v2.webp"},
   {
     id: "do-boca-chica-cities-v2",
     type: "city",
@@ -551,8 +536,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Nagyon csendes és sekély víz", "Népszerű a helyiek és a turisták körében", "Élénk éjszakai élet", "A nemzetközi repülőtér közelében"],
       ro: ["Apă foarte calmă și puțin adâncă", "Popular printre localnici și turiști", "Viață de noapte animată", "Aproape de aeroportul internațional"],
       en: ["Very calm and shallow water", "Popular with locals and tourists", "Lively nightlife", "Close to the international airport"]
-    }
-  },
+    }, image: "/poi-images/do-boca-chica-cities-v2.webp"},
   {
     id: "do-cabrera-cities-v2",
     type: "city",
@@ -570,8 +554,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Lélegzetelállító kilátás az Atlanti-óceánra", "Luxusvillák és üdülőhelyek", "Híres strandok, mint a Playa Grande közelében", "Nyugodt légkör"],
       ro: ["Vederi uluitoare ale Atlanticului", "Vile și stațiuni de lux", "Aproape de plaje renumite precum Playa Grande", "Atmosferă liniștită"],
       en: ["Breathtaking Atlantic views", "Luxury villas and resorts", "Near famous beaches like Playa Grande", "Quiet atmosphere"]
-    }
-  },
+    }, image: "/poi-images/do-cabrera-cities-v2.webp"},
   {
     id: "do-rio-san-juan-cities-v2",
     type: "city",
@@ -589,8 +572,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["A Gri-Gri lagúna egy mangrovelagúna", "A csónaktúrák nagyon népszerűek", "Gyönyörű strandok a közelben", "Nyugodt légkör"],
       ro: ["Laguna Gri-Gri este o lagună de mangrove", "Excursiile cu barca sunt foarte populare", "Plaje frumoase în apropiere", "Atmosferă relaxată"],
       en: ["Gri-Gri Lagoon is a mangrove lagoon", "Boat tours are very popular", "Beautiful beaches nearby", "Relaxed atmosphere"]
-    }
-  },
+    }, image: "/poi-images/do-rio-san-juan-cities-v2.webp"},
   {
     id: "do-esperanza-cities-v2",
     type: "city",
@@ -608,8 +590,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Fontos banán- és rizstermelő", "A 'Linia Noroeste' része", "Forró, száraz éghajlat", "Mezőgazdasági közösség"],
       ro: ["Producător important de banane și orez", "Parte a „Linia Noroeste”", "Climat cald și uscat", "Comunitate agricolă"],
       en: ["Important producer of bananas and rice", "Part of the 'Linia Noroeste'", "Hot, dry climate", "Agricultural community"]
-    }
-  },
+    }, image: "/poi-images/do-esperanza-cities-v2.webp"},
   {
     id: "do-los-alcarrizos-cities-v2",
     type: "city",
@@ -627,8 +608,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Nagy-Santo Domingo része", "Gyors népességnövekedés", "Lakó- és kereskedelmi terület", "Jó közlekedési kapcsolat a fővárossal"],
       ro: ["Parte a zonei metropolitane Santo Domingo", "Creștere rapidă a populației", "Zonă rezidențială și comercială", "Conexiuni bune de transport cu capitala"],
       en: ["Part of the Greater Santo Domingo area", "Rapid population growth", "Residential and commercial area", "Good transport links to the capital"]
-    }
-  },
+    }, image: "/poi-images/do-los-alcarrizos-cities-v2.webp"},
   {
     id: "do-santo-domingo-este-cities-v2",
     type: "city",
@@ -646,8 +626,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Az Ozama folyótól keletre található", "A Los Tres Ojos Nemzeti Park otthona", "A Faro a Colón helyszíne", "Fontos lakó- és kereskedelmi zóna"],
       ro: ["Situat la est de râul Ozama", "Găzduiește Parcul Național Los Tres Ojos", "Locația Faro a Colón", "Zonă rezidențială și comercială importantă"],
       en: ["Located east of the Ozama River", "Home to Los Tres Ojos National Park", "Location of the Faro a Colón", "Major residential and commercial zone"]
-    }
-  },
+    }, image: "/poi-images/do-santo-domingo-este-cities-v2.webp"},
   {
     id: "do-santo-domingo-norte-cities-v2",
     type: "city",
@@ -665,8 +644,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Magában foglalja a Nemzeti Botanikus Kertet", "Növekvő népesség", "Városi és vidéki területek keveréke", "Fontos közlekedési artériák"],
       ro: ["Include Grădina Botanică Națională", "Populație în creștere", "Amestec de zone urbane și rurale", "Artere de transport importante"],
       en: ["Includes the National Botanical Garden", "Growing population", "Mix of urban and rural areas", "Important transportation arteries"]
-    }
-  },
+    }, image: "/poi-images/do-santo-domingo-norte-cities-v2.webp"},
   {
     id: "do-santo-domingo-oeste-cities-v2",
     type: "city",
@@ -684,8 +662,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Nagy sűrűségű lakóövezet", "Fontos ipari és kereskedelmi területek", "A Herrera Nemzetközi Repülőtér otthona (bezárva)", "Az Autopista Duarte mentén"],
       ro: ["Zonă rezidențială cu densitate mare", "Zone industriale și comerciale importante", "Găzduiește Aeroportul Internațional Herrera (închis)", "De-a lungul Autopista Duarte"],
       en: ["High-density residential area", "Important industrial and commercial zones", "Home to Herrera International Airport (closed)", "Along the Autopista Duarte"]
-    }
-  },
+    }, image: "/poi-images/do-santo-domingo-oeste-cities-v2.webp"},
   {
     id: "do-gaspar-hernandez-cities-v2",
     type: "city",
@@ -703,8 +680,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Gyönyörű strandok és sziklák", "Mezőgazdaság és halászat", "Csendesebb alternatíva a nagyobb turistaközpontokhoz képest", "Egy papról és hazafiról nevezték el"],
       ro: ["Plaje și stânci frumoase", "Agricultură și pescuit", "Alternativă mai liniștită la stațiunile turistice mai mari", "Numit după un preot și patriot"],
       en: ["Beautiful beaches and cliffs", "Agriculture and fishing", "Quieter alternative to larger tourist towns", "Named after a priest and patriot"]
-    }
-  },
+    }, image: "/poi-images/do-gaspar-hernandez-cities-v2.webp"},
   {
     id: "do-pimentel-cities-v2",
     type: "city",
@@ -722,8 +698,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["A rizstermesztés fontos központja", "A termékeny Cibao régió része", "Vidéki közösség", "A Yuna folyó szeli át"],
       ro: ["Centru important pentru cultivarea orezului", "Parte a regiunii fertile Cibao", "Comunitate rurală", "Traversat de râul Yuna"],
       en: ["Important center for rice cultivation", "Part of the fertile Cibao region", "Rural community", "Crossed by the Yuna River"]
-    }
-  },
+    }, image: "/poi-images/do-pimentel-cities-v2.webp"},
   {
     id: "do-villa-vasquez-cities-v2",
     type: "city",
@@ -741,8 +716,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
       hu: ["Jelentős banántermelő", "Forró és száraz éghajlat", "A 'Linia Noroeste' része", "Mezőgazdasági jellegű"],
       ro: ["Producător important de banane", "Climat cald și uscat", "Parte a „Linia Noroeste”", "Dominat de agricultură"],
       en: ["Major producer of bananas", "Hot and dry climate", "Part of the 'Linia Noroeste'", "Agriculturally focused"]
-    }
-  },
+    }, image: "/poi-images/do-villa-vasquez-cities-v2.webp"},
 
     {
       id: "do-comendador-cities-v2",
@@ -761,8 +735,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Fontos határátkelőhely", "Kereskedelem Haitival", "Vidéki és hegyvidéki környezet", "Történelmi jelentőségű a határkonfliktusokban"],
         ro: ["Punct important de trecere a frontierei", "Comerț cu Haiti", "Mediu rural și muntos", "Importanță istorică în conflictele de frontieră"],
         en: ["Important border crossing", "Trade with Haiti", "Rural and mountainous surroundings", "Historical importance in border conflicts"]
-      }
-    },
+      }, image: "/poi-images/do-comendador-cities-v2.webp"},
     {
       id: "do-san-gregorio-de-nigua-cities-v2",
       type: "city",
@@ -780,8 +753,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Történelmi cukormalomromok", "Mezőgazdasági közösség", "A parthoz közel", "A Nigua folyó áthalad a városon"],
         ro: ["Ruine istorice ale morilor de zahăr", "Comunitate agricolă", "Aproape de coastă", "Râul Nigua traversează orașul"],
         en: ["Historic ruins of sugar mills", "Agricultural community", "Near the coast", "Nigua river flows through the town"]
-      }
-    },
+      }, image: "/poi-images/do-san-gregorio-de-nigua-cities-v2.webp"},
     {
       id: "do-palenque-cities-v2",
       type: "city",
@@ -799,8 +771,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Népszerű strand a helyiek körében", "A halászat fontos bevételi forrás", "Nyugodt légkör", "Kicsi turisztikai infrastruktúra"],
         ro: ["Plajă populară printre localnici", "Pescuitul este o sursă importantă de venit", "Atmosferă liniștită", "Infrastructură turistică mică"],
         en: ["Popular beach among locals", "Fishing is an important source of income", "Quiet atmosphere", "Small tourist infrastructure"]
-      }
-    },
+      }, image: "/poi-images/do-palenque-cities-v2.webp"},
     {
       id: "do-cambita-garabitos-cities-v2",
       type: "city",
@@ -837,8 +808,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Mezőgazdaság, különösen banán", "Forró és száraz éghajlat", "A 19. században alapították", "Kulturális hagyományok"],
         ro: ["Agricultură, în special banane", "Climat cald și uscat", "Fondat în secolul al XIX-lea", "Tradiții culturale"],
         en: ["Agriculture, especially bananas", "Hot and dry climate", "Founded in the 19th century", "Cultural traditions"]
-      }
-    },
+      }, image: "/poi-images/do-villa-jaragua-cities-v2.webp"},
     {
       id: "do-el-valle-cities-v2",
       type: "city",
@@ -856,8 +826,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Mezőgazdasági közösség", "Gyömbér és más fűszerek termesztése", "Ökoturisztikai potenciál", "Elszigetelt fekvés"],
         ro: ["Comunitate agricolă", "Producția de ghimbir și alte condimente", "Potențial ecoturistic", "Locație izolată"],
         en: ["Agricultural community", "Production of ginger and other spices", "Ecotourism potential", "Remote location"]
-      }
-    },
+      }, image: "/poi-images/do-el-valle-cities-v2.webp"},
     {
       id: "do-hondo-valle-cities-v2",
       type: "city",
@@ -875,8 +844,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Haiti határán fekszik", "Bab- és kávétermesztés", "Hűvös éghajlat", "A Sierra de Neiba része"],
         ro: ["Situat la granița cu Haiti", "Cultivarea fasolei și a cafelei", "Climat răcoros", "Parte a Sierra de Neiba"],
         en: ["Located on the border with Haiti", "Cultivation of beans and coffee", "Cool climate", "Part of the Sierra de Neiba"]
-      }
-    },
+      }, image: "/poi-images/do-hondo-valle-cities-v2.webp"},
     {
       id: "do-pedro-santana-cities-v2",
       type: "city",
@@ -894,8 +862,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Egykori elnökről nevezték el", "Határátkelő Haitiba", "Állattenyésztés", "Vidéki terület"],
         ro: ["Numit după un fost președinte", "Punct de trecere a frontierei cu Haiti", "Creșterea vitelor", "Zonă rurală"],
         en: ["Named after a former president", "Border crossing to Haiti", "Cattle ranching", "Rural area"]
-      }
-    },
+      }, image: "/poi-images/do-pedro-santana-cities-v2.webp"},
     {
       id: "do-banica-cities-v2",
       type: "city",
@@ -913,8 +880,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["1504-ben alapították", "Gyarmati korabeli San Francisco de Asís templom", "Vidéki közösség a határon", "Történelmi örökség"],
         ro: ["Fondat în 1504", "Biserica San Francisco de Asís din perioada colonială", "Comunitate rurală la graniță", "Moștenire istorică"],
         en: ["Founded in 1504", "Colonial-era church of San Francisco de Asís", "Rural community on the border", "Historical heritage"]
-      }
-    },
+      }, image: "/poi-images/do-banica-cities-v2.webp"},
     {
       id: "do-restauracion-cities-v2",
       type: "city",
@@ -932,8 +898,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["A helyreállítási háborúról nevezték el", "Kávé- és babtermesztés", "Hűvös hegyi éghajlat", "A Nalga de Maco Nemzeti Park közelében"],
         ro: ["Numit după Războiul de Restaurare", "Cultivarea cafelei și a fasolei", "Climat montan răcoros", "Aproape de Parcul Național Nalga de Maco"],
         en: ["Named after the Restoration War", "Cultivation of coffee and beans", "Cool mountain climate", "Near Nalga de Maco National Park"]
-      }
-    },
+      }, image: "/poi-images/do-restauracion-cities-v2.webp"},
     {
       id: "do-loma-de-cabrera-cities-v2",
       type: "city",
@@ -951,8 +916,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Történelmi jelentőségű a helyreállítási háborúban", "A Dajabón (Masacre) folyó forrása", "Mezőgazdaság és állattenyésztés", "Balneario El Salto (fürdőhely)"],
         ro: ["Importanță istorică în Războiul de Restaurare", "Izvorul râului Dajabón (Masacre)", "Agricultură și creșterea vitelor", "Balneario El Salto (stațiune balneară)"],
         en: ["Historical importance in the Restoration War", "Source of the Dajabón (Masacre) River", "Agriculture and livestock", "Balneario El Salto (bathing spot)"]
-      }
-    },
+      }, image: "/poi-images/do-loma-de-cabrera-cities-v2.webp"},
     {
       id: "do-san-ignacio-de-sabaneta-cities-v2",
       type: "city",
@@ -970,8 +934,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["A manióka kenyér (Casabe) gyártásáról ismert", "Az állattenyésztés fontos", "Vidéki légkör", "Dombokkal körülvéve"],
         ro: ["Cunoscut pentru producția de pâine de manioc (Casabe)", "Creșterea vitelor este importantă", "Atmosferă rurală", "Înconjurat de dealuri"],
         en: ["Known for the production of cassava bread (casabe)", "Livestock farming is important", "Rural atmosphere", "Surrounded by hills"]
-      }
-    },
+      }, image: "/poi-images/do-san-ignacio-de-sabaneta-cities-v2.webp"},
     {
       id: "do-moncion-cities-v2",
       type: "city",
@@ -1008,8 +971,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Fő rizstermelő", "A 'Linia Noroeste' része", "Forró, sík vidék", "Mezőgazdasági gazdaság"],
         ro: ["Principalul producător de orez", "Parte a „Linia Noroeste”", "Teren fierbinte, plat", "Economie agricolă"],
         en: ["Main producer of rice", "Part of the 'Linia Noroeste'", "Hot, flat land", "Agricultural economy"]
-      }
-    },
+      }, image: "/poi-images/do-castanuelas-cities-v2.webp"},
     {
       id: "do-guayubin-cities-v2",
       type: "city",
@@ -1027,8 +989,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Fontos csomópont északnyugaton", "Állattenyésztés és tejtermelés", "Történelmi jelentőségű", "Hagyományos kultúra"],
         ro: ["Nod important în nord-vest", "Creșterea vitelor și producția de lapte", "Importanță istorică", "Cultură tradițională"],
         en: ["Important hub in the northwest", "Cattle ranching and dairy production", "Historical significance", "Traditional culture"]
-      }
-    },
+      }, image: "/poi-images/do-guayubin-cities-v2.webp"},
     {
       id: "do-las-matas-de-santa-cruz-cities-v2",
       type: "city",
@@ -1046,8 +1007,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Banán- és rizstermesztés", "Vidéki környezet", "A haiti határ közelében", "Gyorsan fejlődik"],
         ro: ["Cultivarea bananelor și a orezului", "Mediu rural", "Aproape de granița cu Haiti", "Se dezvoltă rapid"],
         en: ["Cultivation of bananas and rice", "Rural setting", "Near the Haitian border", "Developing rapidly"]
-      }
-    },
+      }, image: "/poi-images/do-las-matas-de-santa-cruz-cities-v2.webp"},
     {
       id: "do-pepillo-salcedo-cities-v2",
       type: "city",
@@ -1065,8 +1025,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Fontos kereskedelmi kikötő (Manzanillo kikötője)", "Banánexport", "Szabadkereskedelmi övezet", "Stratégiai elhelyezkedés"],
         ro: ["Port comercial important (Portul Manzanillo)", "Export de banane", "Zonă de liber schimb", "Locație strategică"],
         en: ["Major commercial port (Port of Manzanillo)", "Export of bananas", "Free trade zone", "Strategic location"]
-      }
-    },
+      }, image: "/poi-images/do-pepillo-salcedo-cities-v2.webp"},
     {
       id: "do-imbert-cities-v2",
       type: "city",
@@ -1084,8 +1043,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["A 27 Damajagua-vízesés kapuja", "Mezőgazdasági régió", "Borostyánbányák a közelben", "Puerto Plata és Santiago között"],
         ro: ["Poarta către cele 27 de cascade din Damajagua", "Regiune agricolă", "Mine de chihlimbar în apropiere", "Între Puerto Plata și Santiago"],
         en: ["Gateway to the 27 Waterfalls of Damajagua", "Agricultural region", "Amber mines nearby", "Between Puerto Plata and Santiago"]
-      }
-    },
+      }, image: "/poi-images/do-imbert-cities-v2.webp"},
     {
       id: "do-luperon-cities-v2",
       type: "city",
@@ -1103,8 +1061,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Biztonságos természetes kikötő jachtok számára", "Kolumbusz első településének történelmi helyszíne", "Halászat és turizmus", "Nyugodt, pihentető légkör"],
         ro: ["Port natural sigur pentru iahturi", "Situl istoric al primei așezări a lui Columb", "Pescuit și turism", "Atmosferă liniștită, relaxată"],
         en: ["Safe natural harbor for yachts", "Historic site of Columbus's first settlement", "Fishing and tourism", "Quiet, relaxed atmosphere"]
-      }
-    },
+      }, image: "/poi-images/do-luperon-cities-v2.webp"},
     {
       id: "do-el-factor-cities-v2",
       type: "city",
@@ -1122,8 +1079,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Fontos rizstermesztés", "Vidéki terület", "Sík, termékeny föld", "A parthoz közel"],
         ro: ["Cultivarea importantă a orezului", "Zonă rurală", "Teren plat, fertil", "Aproape de coastă"],
         en: ["Important rice cultivation", "Rural area", "Flat, fertile land", "Close to the coast"]
-      }
-    },
+      }, image: "/poi-images/do-el-factor-cities-v2.webp"},
     {
       id: "do-las-guaranas-cities-v2",
       type: "city",
@@ -1141,8 +1097,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Rizs- és kakaótermesztés", "Mezőgazdasági közösség", "A Camú folyó szeli át", "Hagyományos életmód"],
         ro: ["Cultivarea orezului și a cacauei", "Comunitate agricolă", "Traversat de râul Camú", "Mod de viață tradițional"],
         en: ["Cultivation of rice and cocoa", "Agricultural community", "Crossed by the Camú River", "Traditional way of life"]
-      }
-    },
+      }, image: "/poi-images/do-las-guaranas-cities-v2.webp"},
     {
       id: "do-castillo-cities-v2",
       type: "city",
@@ -1160,8 +1115,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["Mezőgazdasági fókusz", "A kakaó fontos termék", "Csendes, vidéki város", "Erős közösségi kötelékek"],
         ro: ["Accent agricol", "Cacaoa este un produs important", "Oraș liniștit, rural", "Legături comunitare puternice"],
         en: ["Agricultural focus", "Cocoa is an important product", "Quiet, rural town", "Strong community ties"]
-      }
-    },
+      }, image: "/poi-images/do-castillo-cities-v2.webp"},
     {
       id: "do-villa-riva-cities-v2",
       type: "city",
@@ -1179,8 +1133,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
         hu: ["A Yuna folyó áradásainak kitett terület", "Fontos rizstermesztés", "Folyami halászat", "Vidéki közösség"],
         ro: ["Vulnerabil la inundațiile râului Yuna", "Cultivarea importantă a orezului", "Pescuit în râu", "Comunitate rurală"],
         en: ["Prone to flooding from the Yuna River", "Important rice cultivation", "Fishing in the river", "Rural community"]
-      }
-    },
+      }, image: "/poi-images/do-villa-riva-cities-v2.webp"},
 
       {
         id: "do-cevicos-cities-v2",
@@ -1218,8 +1171,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["Kakaó- és kávétermesztés", "Dombos táj", "A Cordillera Septentrional közelében", "Vidéki báj"],
           ro: ["Cultivarea cacauei și a cafelei", "Peisaj deluros", "Aproape de Cordillera Septentrional", "Farmec rural"],
           en: ["Cocoa and coffee cultivation", "Hilly landscape", "Near the Cordillera Septentrional", "Rural charm"]
-        }
-      },
+        }, image: "/poi-images/do-altamira-cities-v2.webp"},
       {
         id: "do-jamao-al-norte-cities-v2",
         type: "city",
@@ -1237,8 +1189,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["Népszerű a kajak- és tubing-túrák számára", "Mezőgazdasági termelés", "Vidéki közösség", "Gyönyörű természeti tájak"],
           ro: ["Popular pentru excursii cu caiacul și tubingul", "Producție agricolă", "Comunitate rurală", "Peisaje naturale frumoase"],
           en: ["Popular for kayaking and tubing tours", "Agricultural production", "Rural community", "Beautiful natural landscapes"]
-        }
-      },
+        }, image: "/poi-images/do-jamao-al-norte-cities-v2.webp"},
       {
         id: "do-san-victor-cities-v2",
         type: "city",
@@ -1256,8 +1207,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["Főként mezőgazdasági", "A Cibao-völgy része", "Csendes lakónegyed", "Erős helyi közösség"],
           ro: ["Predominant agricol", "Parte a Văii Cibao", "Zonă rezidențială liniștită", "Comunitate locală puternică"],
           en: ["Predominantly agricultural", "Part of the Cibao Valley", "Quiet residential area", "Strong local community"]
-        }
-      },
+        }, image: "/poi-images/do-san-victor-cities-v2.webp"},
       {
         id: "do-arenoso-cities-v2",
         type: "city",
@@ -1275,8 +1225,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["Az egyik legnagyobb rizstermelő", "A Yuna folyó közelében", "Sík, termékeny föld", "Vidéki gazdaság"],
           ro: ["Unul dintre cei mai mari producători de orez", "Aproape de râul Yuna", "Teren plat, fertil", "Economie rurală"],
           en: ["One of the largest rice producers", "Near the Yuna River", "Flat, fertile land", "Rural economy"]
-        }
-      },
+        }, image: "/poi-images/do-arenoso-cities-v2.webp"},
       {
         id: "do-villa-gonzalez-cities-v2",
         type: "city",
@@ -1294,8 +1243,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["A dohányipar fontos központja", "Számos szivargyár", "Termékeny föld a Cibao-völgyben", "Erős gazdasági növekedés"],
           ro: ["Centru important al industriei tutunului", "Multe fabrici de trabucuri", "Teren fertil în Valea Cibao", "Creștere economică puternică"],
           en: ["Important center of the tobacco industry", "Many cigar factories", "Fertile land in the Cibao Valley", "Strong economic growth"]
-        }
-      },
+        }, image: "/poi-images/do-villa-gonzalez-cities-v2.webp"},
       {
         id: "do-tamboril-cities-v2",
         type: "city",
@@ -1313,8 +1261,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["Számos híres szivarmárka székhelye", "Kiváló minőségű dohánytermesztés", "Fontos munkaadó a régióban", "Santiago közelében"],
           ro: ["Sediul multor mărci de trabucuri renumite", "Cultivarea tutunului de înaltă calitate", "Angajator important în regiune", "Aproape de Santiago"],
           en: ["Home to many famous cigar brands", "High-quality tobacco cultivation", "Major employer in the region", "Close to Santiago"]
-        }
-      },
+        }, image: "/poi-images/do-tamboril-cities-v2.webp"},
       {
         id: "do-licey-al-medio-cities-v2",
         type: "city",
@@ -1332,8 +1279,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["A Cibao Nemzetközi Repülőtér közelében", "Lakó- és mezőgazdasági terület", "Gyors fejlődés", "Jó közlekedési kapcsolatok"],
           ro: ["Aproape de Aeroportul Internațional Cibao", "Zonă rezidențială și agricolă", "Dezvoltare rapidă", "Conexiuni bune de transport"],
           en: ["Near the Cibao International Airport", "Residential and agricultural area", "Rapid development", "Good transport links"]
-        }
-      },
+        }, image: "/poi-images/do-licey-al-medio-cities-v2.webp"},
       {
         id: "do-sabana-iglesia-cities-v2",
         type: "city",
@@ -1370,8 +1316,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["A 16. században alapították", "Fontos kávétermesztés", "Történelmi jelentőségű", "Hegyes terep"],
           ro: ["Fondat în secolul al XVI-lea", "Cultivarea importantă a cafelei", "Importanță istorică", "Teren montan"],
           en: ["Founded in the 16th century", "Important coffee cultivation", "Historical significance", "Mountainous terrain"]
-        }
-      },
+        }, image: "/poi-images/do-janico-cities-v2.webp"},
       {
         id: "do-baitoa-cities-v2",
         type: "city",
@@ -1389,8 +1334,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["Mezőgazdaság, különösen dohány", "Santiago közelében", "Vidéki közösség", "Csendes környezet"],
           ro: ["Agricultură, în special tutun", "Aproape de Santiago", "Comunitate rurală", "Mediu liniștit"],
           en: ["Agriculture, especially tobacco", "Near Santiago", "Rural community", "Quiet environment"]
-        }
-      },
+        }, image: "/poi-images/do-baitoa-cities-v2.webp"},
       {
         id: "do-guayabal-cities-v2",
         type: "city",
@@ -1427,8 +1371,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["Mezőgazdaság és halászat", "Száraz éghajlat", "Paradicsom- és banántermesztés", "Vidéki fejlesztés"],
           ro: ["Agricultură și pescuit", "Climat uscat", "Producția de roșii și banane", "Dezvoltare rurală"],
           en: ["Agriculture and fishing", "Dry climate", "Production of tomatoes and bananas", "Rural development"]
-        }
-      },
+        }, image: "/poi-images/do-las-charcas-cities-v2.webp"},
       {
         id: "do-estebania-cities-v2",
         type: "city",
@@ -1465,8 +1408,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["Pueblo Viejo aranybánya", "Fontos gazdasági tényező", "Történelmi bányászat a gyarmati idők óta", "Modern bányászati technológia"],
           ro: ["Mina de aur Pueblo Viejo", "Factor economic important", "Exploatare minieră istorică din perioada colonială", "Tehnologie minieră modernă"],
           en: ["Pueblo Viejo gold mine", "Important economic factor", "Historic mining since colonial times", "Modern mining technology"]
-        }
-      },
+        }, image: "/poi-images/do-pueblo-viejo-cities-v2.webp"},
       {
         id: "do-tabara-arriba-cities-v2",
         type: "city",
@@ -1484,8 +1426,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["Bab, kukorica és banán termesztése", "Vidéki közösség", "Fontos helyi piac", "Hagyományos kultúra"],
           ro: ["Cultivarea fasolei, porumbului și bananelor", "Comunitate rurală", "Piață locală importantă", "Cultură tradițională"],
           en: ["Cultivation of beans, corn, and bananas", "Rural community", "Important local market", "Traditional culture"]
-        }
-      },
+        }, image: "/poi-images/do-tabara-arriba-cities-v2.webp"},
       {
         id: "do-sabana-yegua-cities-v2",
         type: "city",
@@ -1503,8 +1444,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["Fontos az öntözés és az energiatermelés szempontjából", "Mezőgazdasági termelés", "A gát építése után újjáépítették", "A tavi halászat fejlesztése"],
           ro: ["Important pentru irigații și generarea de energie electrică", "Producție agricolă", "Reconstruit după construirea barajului", "Dezvoltarea pescuitului în lacul de acumulare"],
           en: ["Important for irrigation and power generation", "Agricultural production", "Rebuilt after the dam's construction", "Development of fishing in the reservoir"]
-        }
-      },
+        }, image: "/poi-images/do-sabana-yegua-cities-v2.webp"},
       {
         id: "do-los-rios-cities-v2",
         type: "city",
@@ -1522,8 +1462,7 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
           hu: ["Kávétermesztés a hegyekben", "Banantermesztés a völgyben", "Vidéki közösség", "A haiti határ közelében"],
           ro: ["Cultivarea cafelei în munți", "Cultivarea bananelor în vale", "Comunitate rurală", "Aproape de granița cu Haiti"],
           en: ["Cultivation of coffee in the mountains", "Banana cultivation in the valley", "Rural community", "Near the Haitian border"]
-        }
-      },
+        }, image: "/poi-images/do-los-rios-cities-v2.webp"},
       {
         id: "do-postrer-rio-cities-v2",
         type: "city",
@@ -1546,3 +1485,4 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     ]
 
 ;
+

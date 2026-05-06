@@ -14,8 +14,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Az Abaco-szigetek fő szigete", "Fontos élőhely az Abaco-papagáj számára", "A hajóépítés történelmi központja"],
       ro: ["Insula principală a Abacos", "Habitat important pentru papagalul Abaco", "Centru istoric al construcției de bărci"],
       en: ["Main island of the Abacos", "Important habitat for the Abaco Parrot", "Historic hub of boat building"]
-    }
-  },
+    }, image: "/poi-images/great-abaco-island-nature-v2.webp"},
   {
     id: "andros-island-nature-v2",
     type: "island",
@@ -28,8 +27,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["A Bahama-szigetek legnagyobb szigete", "A világ harmadik legnagyobb korallzátonyának otthona", "Kék lyukairól ismert"],
       ro: ["Cea mai mare insulă din Bahamas", "Adăpostește a treia cea mai mare barieră de corali din lume", "Cunoscută pentru găurile sale albastre"],
       en: ["Largest island of The Bahamas", "Home to the world's third-largest barrier reef", "Known for its blue holes"]
-    }
-  },
+    }, image: "/poi-images/andros-island-nature-v2.webp"},
   {
     id: "eleuthera-island-nature-v2",
     type: "island",
@@ -42,8 +40,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Görögül 'szabadságot' jelent", "Az Atlanti-óceán és a Karib-tenger kontrasztja", "A Bahamák ananász-fővárosa"],
       ro: ["Înseamnă 'libertate' în greacă", "Contrast între Atlantic și Caraibe", "Capitala ananasului din Bahamas"],
       en: ["Means 'freedom' in Greek", "Contrast between Atlantic and Caribbean waters", "Pineapple capital of The Bahamas"]
-    }
-  },
+    }, image: "/poi-images/eleuthera-island-nature-v2.webp"},
   {
     id: "cat-island-nature-v2",
     type: "island",
@@ -56,8 +53,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Érintetlen strandok", "Dombos terep", "Gazdag Obeah folklór"],
       ro: ["Plaje virgine", "Teren deluros", "Folclor bogat Obeah"],
       en: ["Unspoiled beaches", "Hilly terrain", "Rich Obeah folklore"]
-    }
-  },
+    }, image: "/poi-images/cat-island-nature-v2.webp"},
   {
     id: "long-island-bahamas-nature-v2",
     type: "island",
@@ -70,8 +66,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["A Ráktérítő szeli át", "A világ legmélyebb kék lyukának otthona", "Kontrasztos partvonalak"],
       ro: ["Traversată de Tropicul Racului", "Adăpostește cea mai adâncă gaură albastră din lume", "Litoraluri contrastante"],
       en: ["Divided by the Tropic of Cancer", "Home to the world's second-deepest blue hole", "Contrasting coastlines"]
-    }
-  },
+    }, image: "/poi-images/long-island-bahamas-nature-v2.webp"},
   {
     id: "great-inagua-island-nature-v2",
     type: "island",
@@ -84,8 +79,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Több mint 80 000 flamingó otthona", "Jelentős sókitermelő ipar", "Fontos madárvédelmi terület"],
       ro: ["Adăpostește peste 80.000 de flamingo", "Industrie majoră de extracție a sării", "Zonă importantă pentru păsări"],
       en: ["Home to over 80,000 flamingos", "Major salt harvesting industry", "Important Bird Area"]
-    }
-  },
+    }, image: "/poi-images/great-inagua-island-nature-v2.webp"},
   {
     id: "rum-cay-island-nature-v2",
     type: "island",
@@ -98,8 +92,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Kolumbusz Kristóf horgonyzóhelye", "Egykor a sókitermelés központja volt", "Szörfösök paradicsoma"],
       ro: ["Punct de ancorare pentru Cristofor Columb", "Odinioară un centru de extracție a sării", "Paradis pentru surferi"],
       en: ["Anchorage for Christopher Columbus", "Once a salt-raking center", "A surfer's paradise"]
-    }
-  },
+    }, image: "/poi-images/rum-cay-island-nature-v2.webp"},
   {
     id: "lake-rosa-inagua-nature-v2",
     type: "lake",
@@ -112,8 +105,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Windsor-tóként is ismert", "A flamingó-élőhely központi része", "Fontos költőhely"],
       ro: ["Cunoscut și ca Lacul Windsor", "Parte centrală a habitatului flamingo", "Teren important de reproducere"],
       en: ["Also known as Lake Windsor", "Central part of the flamingo habitat", "Important breeding ground"]
-    }
-  },
+    }, image: "/poi-images/lake-rosa-inagua-nature-v2.webp"},
   {
     id: "goose-river-andros-nature-v2",
     type: "river",
@@ -126,8 +118,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Fontos bonefishing terület", "Számos halfaj és rák élőhelye", "Az Andros kiterjedt patakrendszerének része"],
       ro: ["Zonă importantă pentru pescuitul la bonefish", "Habitat pentru multe specii de pești și crabi", "Parte a sistemului extins de pâraie din Andros"],
       en: ["Important bonefishing area", "Habitat for many fish and crab species", "Part of Andros's extensive creek system"]
-    }
-  },
+    }, image: "/poi-images/goose-river-andros-nature-v2.webp"},
   {
     id: "abaco-national-park-forest-nature-v2",
     type: "forest",
@@ -140,8 +131,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["A Bahama-papagáj védett területe", "Fontos fészkelőhely", "Nagy területeket foglal magában a karibi fenyőből"],
       ro: ["Sanctuar pentru papagalul Bahama", "Teren de cuibărit crucial", "Include zone vaste de pin caraibian"],
       en: ["Sanctuary for the Bahama Parrot", "Crucial nesting ground", "Includes vast areas of Caribbean pine"]
-    }
-  },
+    }, image: "/poi-images/abaco-national-park-forest-nature-v2.webp"},
   {
     id: "saddleback-cay-nature-v2",
     type: "island",
@@ -154,8 +144,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Az Exuma Cays része", "Népszerű horgonyzóhely jachtok számára", "Tiszta, türkizkék vizek"],
       ro: ["Parte a Exuma Cays", "Ancoraj popular pentru iahturi", "Ape limpezi, turcoaz"],
       en: ["Part of the Exuma Cays", "Popular anchorage for yachts", "Clear, turquoise waters"]
-    }
-  },
+    }, image: "/poi-images/saddleback-cay-nature-v2.webp"},
   {
     id: "conception-island-nature-v2",
     type: "island",
@@ -168,8 +157,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Zöld tengeri teknősök fészkelőhelye", "Fontos fészkelőhely tengeri madarak számára", "Látványos korallzátonyok"],
       ro: ["Loc de cuibărit pentru broaștele țestoase verzi", "Teren de reproducere important pentru păsările marine", "Recife de corali spectaculoase"],
       en: ["Nesting site for Green Sea Turtles", "Important seabird rookery", "Spectacular coral reefs"]
-    }
-  },
+    }, image: "/poi-images/conception-island-nature-v2.webp"},
   {
     id: "great-bahama-bank-sea-nature-v2",
     type: "sea",
@@ -182,8 +170,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["A világ egyik legnagyobb karbonátplatformja", "Átlagos mélysége kevesebb mint 10 méter", "Gazdag tengeri élővilág"],
       ro: ["Una dintre cele mai mari platforme de carbonat din lume", "Adâncime medie mai mică de 10 metri", "Bogat în viață marină"],
       en: ["One of the largest carbonate platforms in the world", "Average depth of less than 10 meters", "Rich in marine life"]
-    }
-  },
+    }, image: "/poi-images/great-bahama-bank-sea-nature-v2.webp"},
   {
     id: "little-bahama-bank-sea-nature-v2",
     type: "sea",
@@ -196,8 +183,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Elválasztva a Nagy Bahama-padtól", "Fontos halászati terület", "Tengeri teknősök és delfinek élőhelye"],
       ro: ["Separat de Marele Banc Bahamian", "Zonă importantă de pescuit", "Habitat pentru broaște țestoase marine și delfini"],
       en: ["Separated from the Great Bahama Bank", "Important fishing ground", "Habitat for sea turtles and dolphins"]
-    }
-  },
+    }, image: "/poi-images/little-bahama-bank-sea-nature-v2.webp"},
   {
     id: "bimini-bay-sea-nature-v2",
     type: "sea",
@@ -224,8 +210,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Védett, meleg víz", "Kiváló feltételek a bonefish számára", "Homokpadok és csatornák útvesztője"],
       ro: ["Ape protejate și calde", "Condiții excelente pentru bonefish", "Labirint de bancuri de nisip și canale"],
       en: ["Protected, warm waters", "Excellent conditions for bonefish", "Labyrinth of flats and channels"]
-    }
-  },
+    }, image: "/poi-images/acklins-bight-sea-nature-v2.webp"},
   {
     id: "exuma-sound-sea-nature-v2",
     type: "sea",
@@ -238,8 +223,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Gazdag nyílt tengeri halfajokban", "Fontos a mélytengeri sporthorgászathoz", "Kapcsolódik az Atlanti-óceánhoz"],
       ro: ["Bogat în specii de pești pelagici", "Important pentru pescuitul sportiv de mare adâncime", "Conectează la Oceanul Atlantic"],
       en: ["Rich in pelagic fish species", "Important for deep-sea sport fishing", "Connects to the Atlantic Ocean"]
-    }
-  },
+    }, image: "/poi-images/exuma-sound-sea-nature-v2.webp"},
   {
     id: "primeval-forest-np-nature-v2",
     type: "forest",
@@ -266,8 +250,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Fontos fészkelőhely a fehérfarkú trópusimadár számára", "Dűnék, parti bozótos és sziklás partvonal", "A Bahamas National Trust kezeli"],
       ro: ["Teren de reproducere vital pentru păsările tropicane cu coadă albă", "Dune, tufișuri de coastă și litoral stâncos", "Administrat de Bahamas National Trust"],
       en: ["Vital breeding ground for White-tailed Tropicbirds", "Dunes, coastal coppice, and rocky shoreline", "Managed by the Bahamas National Trust"]
-    }
-  },
+    }, image: "/poi-images/tilloo-cay-reserve-nature-v2.webp"},
   {
     id: "pelican-cays-land-sea-park-nature-v2",
     type: "sea",
@@ -280,8 +263,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Lenyűgöző korallzátony-ökoszisztéma", "Népszerű a könnyű- és mélybúvárkodáshoz", "Számos tengeri élőlény védelme"],
       ro: ["Ecosistem de recif de corali uimitor", "Popular pentru snorkeling și scufundări", "Protejează o varietate de vieți marine"],
       en: ["Stunning coral reef ecosystem", "Popular for snorkeling and diving", "Protects a variety of marine life"]
-    }
-  },
+    }, image: "/poi-images/pelican-cays-land-sea-park-nature-v2.webp"},
   {
     id: "walker-s-cay-national-park-nature-v2",
     type: "island",
@@ -294,8 +276,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Mélytengeri halászatáról ismert", "Fontos korallzátonyok", "Magában foglalja a környező tengeri területeket"],
       ro: ["Renumit pentru pescuitul de mare adâncime", "Recife de corali vitale", "Include zonele marine înconjurătoare"],
       en: ["Renowned for deep-sea fishing", "Vital coral reefs", "Includes surrounding marine areas"]
-    }
-  },
+    }, image: "/poi-images/walker-s-cay-national-park-nature-v2.webp"},
   {
     id: "samana-cay-island-nature-v2",
     type: "island",
@@ -308,8 +289,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Hosszú, érintetlen strandok", "Nincs állandó lakosság", "Történelmileg vitatott"],
       ro: ["Plaje lungi și virgine", "Fără populație permanentă", "Controversat din punct de vedere istoric"],
       en: ["Long, pristine beaches", "No permanent population", "Historically disputed"]
-    }
-  },
+    }, image: "/poi-images/samana-cay-island-nature-v2.webp"},
   {
     id: "mount-cauldwell-nature-v2",
     type: "mountain",
@@ -322,8 +302,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Körülbelül 34 méter magas", "Jó kilátópont", "A sziget központi dombvonulatának része"],
       ro: ["Altitudine de aproximativ 34 de metri", "Punct de observație bun", "Parte a crestei centrale deluroase a insulei"],
       en: ["Elevation of approximately 112 feet", "Good vantage point", "Part of the island's central hilly spine"]
-    }
-  },
+    }, image: "/poi-images/mount-cauldwell-nature-v2.webp"},
   {
     id: "fresh-creek-andros-nature-v2",
     type: "river",
@@ -336,8 +315,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Andros Town közelében ömlik a tengerbe", "Tarpon és bonefish élőhelye", "Összeköti a tengert a belső kék lyukakkal"],
       ro: ["Se varsă lângă Andros Town", "Habitat pentru tarpon și bonefish", "Conectează marea la găurile albastre interioare"],
       en: ["Opens near Andros Town", "Habitat for tarpon and bonefish", "Connects the sea to inland blue holes"]
-    }
-  },
+    }, image: "/poi-images/fresh-creek-andros-nature-v2.webp"},
   {
     id: "harrold-and-wilson-ponds-np-nature-v2",
     type: "lake",
@@ -350,8 +328,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Fontos madárvédelmi terület New Providence-en", "Több mint 100 madárfaj védelme", "Édesvízi és sósvízi tavak"],
       ro: ["Zonă importantă pentru păsări pe New Providence", "Sanctuar pentru peste 100 de specii de păsări", "Iazuri cu apă dulce și sărată"],
       en: ["Important Bird Area on New Providence", "Sanctuary for over 100 bird species", "Freshwater and brackish ponds"]
-    }
-  },
+    }, image: "/poi-images/harrold-and-wilson-ponds-np-nature-v2.webp"},
   {
     id: "bonefish-pond-national-park-nature-v2",
     type: "lake",
@@ -364,8 +341,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Fontos bölcsőde a tengeri élőlények számára", "Kiterjedt mangrove állományok", "Védi a partot az eróziótól"],
       ro: ["Pepiniere crucială pentru viața marină", "Standuri extinse de mangrove", "Protejează coasta de eroziune"],
       en: ["Crucial nursery for marine life", "Extensive mangrove stands", "Protects the coastline from erosion"]
-    }
-  },
+    }, image: "/poi-images/bonefish-pond-national-park-nature-v2.webp"},
   {
     id: "fowlers-cay-reserve-nature-v2",
     type: "island",
@@ -378,8 +354,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Népszerű célpont a könnyűbúvárok számára", "Védi a korallzátonyokat és a tengerifű-meőket", "Man-O-War és Scotland Cay között helyezkedik el"],
       ro: ["Destinație populară pentru snorkeling", "Protejează recifele de corali și pajiștile marine", "Situat între Man-O-War și Scotland Cay"],
       en: ["Popular destination for snorkelers", "Protects coral reefs and seagrass beds", "Located between Man-O-War and Scotland Cay"]
-    }
-  },
+    }, image: "/poi-images/fowlers-cay-reserve-nature-v2.webp"},
   {
     id: "san-salvador-west-coast-sea-nature-v2",
     type: "sea",
@@ -392,8 +367,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       hu: ["Meredek víz alatti falak", "Kiváló látási viszonyok", "Korallok és szivacsok gazdag változatossága"],
       ro: ["Pereți subacvatici abrupți", "Vizibilitate excelentă", "Diversitate bogată de corali și bureți"],
       en: ["Sheer underwater walls", "Excellent visibility", "Rich diversity of corals and sponges"]
-    }
-  },
+    }, image: "/poi-images/san-salvador-west-coast-sea-nature-v2.webp"},
   {
     id: "pigeon-creek-san-salvador-nature-v2",
     type: "river",
