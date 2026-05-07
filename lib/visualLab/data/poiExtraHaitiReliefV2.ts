@@ -13,8 +13,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Jelentős hegylánc Nyugat-Haitin, amely a Gonâve-öböl partjával párhuzamosan húzódik.",
       ro: "Un lanț muntos important din vestul Haitiului, care se întinde paralel cu coasta Golfului Gonâve.",
       en: "A significant mountain range in western Haiti, running parallel to the coast of the Gulf of Gonâve."
+    },,
+    descriptionAdvanced: {
+      hu: "A Chaîne des Matheux a Haiti középső-nyugati részén húzódó, meredek mészkőhegység, amely természetes falként tornyosul az Artibonite-síkság és a Port-au-Prince környéki (Cul-de-Sac) síkság között. Legmagasabb pontjai elérik az 1500 métert. A hegység nevét vélhetően a gyarmati időkben itt élő családokról (Matheux) kapta. Geológiailag a karsztos formák, víznyelők és barlangok uralják. Bár a múltban dús kávéültetvények és keményfás erdők borították, az évszázados fakitermelés és a faszénégetés miatt a lejtők mára ijesztően kopárak lettek, így az esőzések alkalmával a víz akadálytalanul zúdul le a hegyről, pusztító sárlavinákat okozva a tengerparti Arcahaie és Montrouis városokban. A hegység gerincén átvezető szűk ösvények a mai napig fontos, bár veszélyes kereskedelmi utak a helyi parasztok (Madam Sara-k) számára. Földrajz K8 — mészkőhegységek és katasztrofális deforesztáció."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["Nyugat-Haiti központi, karsztos (mészkőből álló) hegyvonulata.", "Természetes választóvonal az Artibonite és az Ouest megyék (Cul-de-Sac) között.", "A rendkívüli erdőirtás miatt hegyoldalai sziklásak, fehéres-szürkék a kilátszó mészkőtől.", "Esőzéskor a fátlan lejtőkön lezúduló víz pusztító villámárvizeket okoz a parti városokban.", "A hegy belsejében számos barlang és felszín alatti vízfolyás található.", "A meredek ösvényeken a teherhordást nagyrészt öszvérekkel oldják meg a helyiek."]
+    }
+  }    facts: {
       de: ["Erreicht Höhen von über 1.500 Metern.", "Bildet eine natürliche Barriere nördlich von Port-au-Prince.", "Wichtige Quelle für Wasser und Holz."],
       hu: ["Több mint 1500 méteres magasságot ér el.", "Természetes gátat képez Port-au-Prince-től északra.", "Fontos víz- és faforrás."],
       ro: ["Atinge altitudini de peste 1.500 de metri.", "Formează o barieră naturală la nord de Port-au-Prince.", "Sursă importantă de apă și lemn."],
@@ -43,8 +49,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Mélyföld Port-au-Prince-től keletre, amely a Dominikai Köztársaság határáig terjed.",
       ro: "O câmpie joasă la est de Port-au-Prince, care se întinde până la granița cu Republica Dominicană.",
       en: "A low-lying plain to the east of Port-au-Prince, extending to the Dominican Republic border."
+    },,
+    descriptionAdvanced: {
+      hu: "A Plaine du Cul-de-Sac Haiti egyik legjelentősebb és legsűrűbben lakott geológiai süllyedéke (grábenje), amely Port-au-Prince-től a dominikai határig húzódik kelet felé. Ez a hatalmas, lapos tektonikus árok valaha a tengert kötötte össze a kontinens belsejével (ezt bizonyítja a mélyföldön fekvő sós vizű Etang Saumâtre is). Északról a Chaîne des Matheux, délről a Massif de la Selle határolja. Földrajzilag rendkívül termékeny, történelmileg a leggazdagabb francia cukornádültetvények (sucreries) otthona volt. Napjainkra azonban a síkság nyugati része teljesen urbanizálódott; Port-au-Prince nyomornegyedei (pl. Cité Soleil, Croix-des-Bouquets) elnyelték az egykori termőföldeket. Mivel a síkságot aktív törésvonalak szelik át (az Enriquillo-Plantain Garden törésvonal), a terület rendkívül szeizmikusan aktív, amit a 2010-es pusztító földrengés is bizonyított, amelynek epicentruma ezen a zónán futott végig. Földrajz K8 — tektonikus árkok (gráben) és szeizmikus veszélyeztetettség."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["Hatalmas tektonikus süllyedék (gráben) Port-au-Prince és a dominikai határ között.", "Északon és délen magas hegyvonulatok (Matheux és Selle) határolják.", "Történelmileg az ország legfontosabb és leggazdagabb cukornádtermő vidéke volt.", "Nyugati fele mára teljesen beépült a fővárosi metropolisz terjeszkedése miatt.", "Keleti részén található Haiti legnagyobb tava, a sós vizű Etang Saumâtre.", "Keresztülszeli az Enriquillo törésvonal, így a földrengéskockázat itt a legmagasabb."]
+    }
+  }    facts: {
       de: ["Sehr fruchtbar, aber trocken.", "Beherbergt den Étang Saumâtre.", "Liegt in einem Grabenbruch."],
       hu: ["Nagyon termékeny, de száraz.", "Itt található az Étang Saumâtre.", "Egy árokban fekszik."],
       ro: ["Foarte fertilă, dar aridă.", "Găzduiește Étang Saumâtre.", "Situată într-un graben."],
@@ -73,8 +85,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Hegy a Massif de la Hotte-ban, amely fontos szerepet játszik a helyi biodiverzitásban.",
       ro: "Un munte în Masivul de la Hotte, care joacă un rol important în biodiversitatea locală.",
       en: "A mountain in the Massif de la Hotte, playing an important role for local biodiversity."
+    },,
+    descriptionAdvanced: {
+      hu: "A Morne Baptiste egy a dominikai határ közelében (feltehetően a Centre megyében, Belladère térségében) magasodó hegytömb, amely része a Hispaniolát középen átszelő belső hegyrendszernek. A hegy domborzata lankásabb a déli karsztokénál, és vastagabb, vöröses agyagtalaj borítja. Ez a talajtípus és a hűvösebb hegyi klíma tette történelmileg a kávétermesztés egyik fellegvárává. A Morne Baptiste lejtőin élők – az infrastruktúra hiánya miatt – erős határon átnyúló (binacionális) kapcsolatokat ápolnak; az itt megtermelt kávét és babot gyakran öszvérháton szállítják át a dominikai piacokra értékesíteni. A hegycsúcsot sűrűbb, fás-cserjés vegetáció borítja, ami segít megkötni az esővizet, táplálva a hegy lábánál futó kisebb patakokat. A terület viszonylagos nyugalma éles ellentétben áll a Port-au-Prince körüli túlzsúfolt hegyekkel. Földrajz K7 — határhegységek és rurális agrárium."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["A központi határvidéken (Centre megye) elhelyezkedő domináns hegytömb.", "Talaja agyagosabb, ami kiválóan alkalmas a hagyományos haiti kávétermesztésre.", "A helyi gazdaság szorosan összefonódik a szomszédos dominikai piacokkal.", "Az állattartás (főként szarvasmarha és kecske) jelentős a hegyi legelőkön.", "Megőrizte fás-cserjés vegetációjának egy részét, így kevésbé erodált.", "A hegyi ösvények (pistes) jelentik az egyetlen közlekedési hálózatot a falvak között."]
+    }
+  }    facts: {
       de: ["Höhe von etwa 1.500 Metern.", "Teil eines UNESCO-Biosphärenreservats.", "Wichtiger Lebensraum für endemische Arten."],
       hu: ["Körülbelül 1500 méter magas.", "Az UNESCO Bioszféra-rezervátum része.", "Fontos élőhely az endemikus fajok számára."],
       ro: ["Altitudine de aproximativ 1.500 de metri.", "Parte a unei rezervații a biosferei UNESCO.", "Habitat important pentru specii endemice."],
@@ -103,8 +121,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Kiterjedt fenyőerdő La Selle hegyvidéki régiójában, amely döntő fontosságú az ország vízháztartása szempontjából.",
       ro: "O pădure extinsă de pini în regiunea montană La Selle, crucială pentru echilibrul hidric al țării.",
       en: "An extensive pine forest in the La Selle mountain region, crucial for the country's water balance."
+    },,
+    descriptionAdvanced: {
+      hu: "A Forêt Nationale des Pins (Nemzeti Fenyőerdő) domborzata a Chaîne de la Selle vonulat 2000 métert is meghaladó, éles gerincekkel és mély, sötét szakadékokkal szabdalt magasföldje. A reljef (domborzat) itt igazi alpesi jelleget mutat a trópusok közepén. A meredek, sziklás lejtőkön megkapaszkodó hispaniolai fenyők (Pinus occidentalis) gyökerei létfontosságúak a vékony hegyi termőréteg megkötésében. A fennsíkokat töbörök (dolinák) pettyezik, ahol az esővíz azonnal a karsztos mélybe szivárog. Ez a drámai magasságkülönbség és az állandó passzátszelek olyan mikroklímát hoznak létre, ahol éjszaka gyakori a dér, sőt fagy is előfordul. Amikor az erdőt kiirtják (faszénnek), a fedetlen mészkősziklák szinte azonnal kimosódnak, holdbéli, kietlen karsztsivatagot hagyva hátra. A reljef megóvása egyet jelent a sziget déli felének vízbiztonságával. Földrajz K8 — alpesi karsztok és a gyökérzet talajmegtartó ereje."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["A Chaîne de la Selle hegység 2000 méter feletti, gerinces-szakadékos fennsíkja.", "A domborzatot töbörök (dolinák) és meredek karsztos lejtők uralják.", "Az éjszakai fagyok és a sűrű köd alpesi mikroklímát teremtenek a karibi térségben.", "A fenyőfák gyökérzete az egyetlen védelem a vékony hegyi talaj kimosódása ellen.", "A fakitermelés nyomán a lecsupaszított mészkősziklák holdbéli tájat alkotnak.", "A terület lejtőin lefolyó víz táplálja a déli és a nyugati folyókat (pl. Rivière Grise)."]
+    }
+  }    facts: {
       de: ["Bedeutendster Wald Haitis.", "Lebensraum der Hispaniola-Kiefer.", "Wird durch Abholzung bedroht."],
       hu: ["Haiti legjelentősebb erdeje.", "A hispaniolai fenyő élőhelye.", "Az erdőirtás fenyegeti."],
       ro: ["Cea mai importantă pădure din Haiti.", "Habitat pentru pinul de Hispaniola.", "Amenințată de despăduriri."],
@@ -133,8 +157,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Termékeny tengerparti síkság Port-au-Prince-től nyugatra, a cukornádtermesztés központja.",
       ro: "O câmpie de coastă fertilă la vest de Port-au-Prince, un centru al cultivării trestiei de zahăr.",
       en: "A fertile coastal plain west of Port-au-Prince, a center for sugarcane cultivation."
+    },,
+    descriptionAdvanced: {
+      hu: "A Plaine de Léogâne egy lapos, rendkívül termékeny hordaléksíkság az Ouest megyében, Port-au-Prince-től délnyugatra, a Gonâve-öböl partján. Ezt a reljefet a déli hegyekből (Massif de la Selle) évezredek alatt lezúduló folyók, elsősorban a Rivière Momance és a Rivière de Rouyonne hordaléka töltötte fel. Sík, tengerszinthez közeli fekvése miatt a gyarmati idők óta a haiti cukornádtermesztés abszolút központja. Földrajzi adottságai azonban hatalmas kockázatot is jelentenek: a terület az Enriquillo-törésvonal felett fekszik, és a síkság laza, vízzel telített, homokos-iszapos üledéke a 2010-es földrengés során úgynevezett 'talajfolyósodást' (likvefakciót) szenvedett el. Ez okozta Léogâne városában az országos viszonylatban is a legnagyobb pusztítást, ahol az épületek 90%-a a földdel vált egyenlővé. Földrajz K8 — hordaléksíkságok és szeizmikus talajfolyósodás."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["Port-au-Prince-től délnyugatra fekvő, alacsony (0-20m) hordaléksíkság.", "A déli hegyekből lezúduló folyók (pl. Rivière Momance) termékeny iszapja építette fel.", "Sík domborzata miatt ideális a nagytáblás cukornád-ültetvények számára.", "Közvetlenül a veszélyes Enriquillo-Plantain Garden törésvonal felett húzódik.", "A laza hordaléktalaj miatt a 2010-es földrengés itt okozta a legnagyobb arányú rombolást (likvefakció).", "A tengerparti síkságot gyakran fenyegetik a folyók villámárvizei is."]
+    }
+  }    facts: {
       de: ["Historisch wichtig für die Kolonialwirtschaft.", "Stark vom Erdbeben 2010 betroffen.", "Wird von mehreren Flüssen bewässert."],
       hu: ["Történelmileg fontos a gyarmati gazdaság számára.", "Súlyosan érintette a 2010-es földrengés.", "Több folyó öntözi."],
       ro: ["Important din punct de vedere istoric pentru economia colonială.", "Grav afectată de cutremurul din 2010.", "Irigată de mai multe râuri."],
@@ -163,8 +193,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Hegymasszívum a Chaîne de la Selle hegységben, amely hűvös éghajlatáról és mezőgazdasági hasznosításáról ismert.",
       ro: "Un masiv muntos în lanțul La Selle, cunoscut pentru climatul său răcoros și utilizarea agricolă.",
       en: "A mountain massif in the Chaîne de la Selle, known for its cool climate and agricultural use."
+    },,
+    descriptionAdvanced: {
+      hu: "A Morne des Commissaires egy hatalmas kiterjedésű, viszonylag lapos tetejű hegyi fennsík (plateau) a Sud-Est megye és a dominikai határ (Pedernales felé) találkozásánál. A Chaîne de la Selle vonulatának ez a része domborzatilag kevésbé szabdalt, mint a nyugatabbra fekvő csúcsok, így a gyarmati és a posztkoloniális korban a kávé- és zöldségtermesztés mellett hegyi legelőként is használták. A név ('Biztosok Hegye') a történelmi, határkijelölő bizottságokra utalhat, amelyek bejárták ezt a vitatott határvidéket a 19. században és a 20. század elején. A fennsíkon a hőmérséklet jóval elmarad a karibi átlagtól, télen a 10 fok körüli hajnalok is gyakoriak. A vörösföldes, bauxitos agyagtalaj és a fenyvesek ritkás maradványai egyedi arculatot adnak a tájnak, amely ma már nagyrészt bab- és burgonyafölddé alakult a helyi migráció miatt. Földrajz K7 — magaslati fennsíkok és agrár-betekepülés."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["Egy magasan (1500m felett) fekvő hegyi fennsík a Sud-Est megye keleti határánál.", "Domborzata laposabb, plató-szerű, ami lehetővé teszi a kiterjedtebb mezőgazdaságot.", "A név valószínűleg a haiti-dominikai határt megállapító történelmi bizottságokra utal.", "A hideg mikroklíma kedvez a mérsékelt övi növényeknek (burgonya, káposzta, bab).", "A talaj jellemzően vöröses agyag (laterit), amely a kiirtott fenyvesek helyén maradt.", "Fontos tranzit- és csempészútvonal a magashegyi dominikai falvak (pl. Los Arroyos) felé."]
+    }
+  }    facts: {
       de: ["Anbau von Gemüse und Blumen.", "Höhen über 1.800 Meter.", "Teil des La Visite Nationalparks."],
       hu: ["Zöldség- és virágtermesztés.", "1800 méter feletti magasság.", "A La Visite Nemzeti Park része."],
       ro: ["Cultivarea legumelor și florilor.", "Altitudini de peste 1.800 de metri.", "Parte a Parcului Național La Visite."],
@@ -194,8 +230,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Egy völgy, amely Jacmel városát veszi körül, és amelyet a Karib-tengerbe ömlő folyók szelnek át.",
       ro: "O vale care înconjoară orașul Jacmel și este traversată de râuri care se varsă în Marea Caraibelor.",
       en: "A valley surrounding the city of Jacmel, crossed by rivers that flow into the Caribbean Sea."
+    },,
+    descriptionAdvanced: {
+      hu: "A Vallée de Jacmel (Jacmel-völgy) egy tágas, V-alakú folyóvölgy a Sud-Est megyében, amelyet a Rivière de la Gosseline és a Rivière Gauche vize vájt ki a Massif de la Selle déli lejtőiből. A domborzat itt lépcsőzetesen ereszkedik a hegyekből a tengerparti Jacmel városa felé. A völgy meredek oldalfalain a gyarmati idők óta intenzív kávétermesztés folyik (ez tette Jacmelt a 19. században az ország leggazdagabb exportkikötőjévé). A völgytalp laposabb részein ma trópusi gyümölcsök, banán és kakaó terem. A domborzat 'tölcsér' formája miatt az esős évszakban a völgy összegyűjti a hegyekből lezúduló vizeket, ami lenyűgöző vízeséseket (mint a közeli Bassin Bleu) táplál, ugyanakkor pusztító árvizekkel fenyegeti a torkolatnál lévő településeket. A táj zöldellő, buja és meredek kontrasztja a szárazabb nyugati partoknak. Földrajz K7 — folyóvölgyek domborzata és a kávé-export."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["A Massif de la Selle déli lejtőin kialakult, Jacmel városába torkolló V-alakú völgy.", "A Rivière de la Gosseline és mellékfolyói által mélyített termékeny árok.", "A meredek völgyoldalak a 19. századi haiti kávétermelés központjai voltak.", "Tölcsér alakja miatt az esőzések villámárvizek formájában koncentrálódnak a völgytalpon.", "Buja, trópusi növényzet borítja (pálmák, mangó, kakaó, kávécserjék).", "Híres a domborzat által formált festői vízeséseiről és karsztmedencéiről (Bassin Bleu)."]
+    }
+  }    facts: {
       de: ["Bekannt für die Wasserfälle von Bassin-Bleu.", "Fruchtbares Gebiet für den Anbau von Früchten.", "Wichtige Region für den Tourismus."],
       hu: ["A Bassin-Bleu vízeséseiről ismert.", "Termékeny terület gyümölcstermesztésre.", "Fontos turisztikai régió."],
       ro: ["Cunoscută pentru cascadele de la Bassin-Bleu.", "Zonă fertilă pentru cultivarea fructelor.", "Regiune importantă pentru turism."],
@@ -224,8 +266,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Haiti legszárazabb és legelzártabb régiója, tagolt partvonallal.",
       ro: "Cea mai aridă și mai izolată regiune din Haiti, cu o coastă accidentată.",
       en: "The driest and most isolated region of Haiti, with a rugged coastline."
+    },,
+    descriptionAdvanced: {
+      hu: "A Péninsule du Nord-Ouest (Északnyugati Félsziget) domborzata Haiti egyik legmostohább, legszárazabb karsztvidéke. A félsziget egy nagy, kiemelkedő mészkőplató, amelynek partjait az Atlanti-óceán felől érkező erőszakos passzátszelek és hullámok meredek sziklafalakká (falaises) koptatták. A belső területeken (Bombardopolis és Jean-Rabel fennsíkjai) a karsztosodás miatt a csapadék azonnal a mélybe tűnik, így a felszíni folyók szinte teljesen hiányoznak. A talaj rendkívül vékony és köves, emiatt a mezőgazdaság szinte lehetetlen; a tájat kaktuszok és tüskés bozót (guajak) uralják. Ez a kietlen, félsivatagos reljef az oka a régió történelmi elszigeteltségének és mélyszegénységének. Ugyanakkor a félsziget szélfútta domborzata kiváló potenciált jelent a megújuló energia (szélerőművek) kiaknázására a jövőben. Földrajz K8 — arid karsztplatók és szélabrázió."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["Masszív, aszályos mészkőfennsík Haiti északnyugati csücskében.", "Partvonalát az óceáni abrázió magas, függőleges sziklafalakká alakította.", "Felszíni folyóhálózata a porózus mészkő miatt szinte teljesen hiányzik.", "A vékony, köves termőrétegen csak sivatagi növényzet (kaktuszok) él meg.", "A zord domborzat és vízhiány miatt az ország legszegényebb és legelszigeteltebb régiója.", "Az állandó passzátszelek miatt a fák a szélirányba görbülve (zászlósfák) nőnek."]
+    }
+  }    facts: {
       de: ["Beinhaltet die Stadt Môle-Saint-Nicolas.", "Geringe Bevölkerungsdichte.", "Wichtige Gebiete für die Salzgewinnung."],
       hu: ["Magában foglalja Môle-Saint-Nicolas városát.", "Alacsony népsűrűség.", "Fontos területek a sókitermeléshez."],
       ro: ["Include orașul Môle-Saint-Nicolas.", "Densitate redusă a populației.", "Zone importante pentru extracția sării."],
@@ -254,8 +302,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Maradvány nedves erdő a dominikai határ közelében, ritka fajok otthona.",
       ro: "O pădure umedă relictă aproape de granița dominicană, adăpost pentru specii rare.",
       en: "A remnant humid forest near the Dominican border, home to rare species."
+    },,
+    descriptionAdvanced: {
+      hu: "A Forêt des Grands Bois ('Nagy Fák Erdeje' vagy Grand-Bois régió) domborzata a Centre (Középső) és Ouest megyék határvidékén, a Cornillon-Grand-Bois járásban található. Ez a terület egy izolált, magaslati (1000-1200 méteres) hegycsoport, amelyet mély szakadékok és meredek vízmosások (ravines) választanak el a környező síkságoktól. A név megtévesztő: bár a történelem során gigantikus trópusi keményfák (mahagóni, tölgy) borították, a könyörtelen fakitermelés mára lecsupaszította a reljefet. A domborzat ma drámai, sziklás 'csontvázként' mutatkozik meg, ahol az erózió U- és V-alakú árkok százait vágta a hegyoldalakba. A magaslati fekvés ellenére a talajvesztés miatt a mezőgazdaság marginális, a helyi utak pedig a szabdalt domborzat miatt gyakran járhatatlanok az esős évszakban. Földrajz K7 — magaslati fakitermelés és eróziós árkok."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["Izolált, magaslati (1000m+) hegyvidék a Centre és Ouest megyék határán.", "Történelmi neve a valaha itt álló hatalmas trópusi keményfa-erdőkre utal.", "A fátlanítás miatt a domborzatot ma mély vízmosások és sziklás lejtők uralják.", "A talajerózió következtében a hegy 'csontváza' (az alapkőzet) került a felszínre.", "A szabdalt reljef miatt a régió (pl. Cornillon) Haiti egyik legelszigeteltebb része.", "A meredek hegyoldalakon az önellátó gazdálkodás extrém fizikai kihívást jelent."]
+    }
+  }    facts: {
       de: ["Kürzlich als Nationalpark ausgewiesen.", "Wichtiger Korridor für Wildtiere.", "Bedroht durch landwirtschaftliche Expansion."],
       hu: ["Nemrégiben nemzeti parkká nyilvánították.", "Fontos folyosó a vadon élő állatok számára.", "A mezőgazdasági terjeszkedés veszélyezteti."],
       ro: ["Declarată recent parc național.", "Coridor important pentru fauna sălbatică.", "Amenințată de expansiunea agricolă."],
@@ -284,8 +338,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Hegylánc, amely elválasztja a Cul-de-Sac-síkságot a központi fennsíktól.",
       ro: "Un lanț muntos care separă Câmpia Cul-de-Sac de platoul central.",
       en: "A mountain range that separates the Cul-de-Sac Plain from the central plateau."
+    },,
+    descriptionAdvanced: {
+      hu: "A Montagnes Trou d'Eau (Vízlyuk Hegység) a Chaîne des Matheux vonulatának délkeleti, karsztos nyúlványa, amely elválasztja a Plateau Centralt a Plaine du Cul-de-Sac-tól (Thomazeau felett). Ahogy a neve is utal rá ('Vízlyuk'), a hegység domborzatának legfőbb ismérve az extrém karsztosodás: a felszín tele van víznyelőkkel (ponorok, dolinák), ahová a csapadékvíz azonnal eltűnik, hatalmas földalatti barlangrendszereket és viztározókat alakítva ki. Ennek eredményeképpen a felszín kopár és aszályos, míg a hegy lábánál (az Etang Saumâtre és a Cul-de-Sac mentén) bővizű karsztforrások törnek a felszínre. A hegység éles gerincei és fátlan, köves lejtői miatt az átkelés nehézkes. A domborzat itt nemcsak fizikai akadály, hanem egy hatalmas 'szivacs', amely a régió hidrogeológiai egyensúlyát szabályozza. Földrajz K8 — víznyelők, dolinák és a karszt-hidrológia."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["A Matheux-hegység délkeleti nyúlványa a Plateau Central és a Cul-de-Sac síkság között.", "A név ('Vízlyuk') a felszíni víznyelőkre és dolinákra utal.", "Extrém karsztos domborzat: a víz a felszín alatt, barlangrendszerekben áramlik.", "Felszíne száraz és sziklás, míg a hegy lábánál bővizű karsztforrások fakadnak.", "A fátlan, köves hegygerincek miatt a terület szinte teljesen alkalmatlan földművelésre.", "A hegy belsejében lévő vízraktárak létfontosságúak a környező síkságok számára."]
+    }
+  }    facts: {
       de: ["Trockene, karge Landschaft.", "Wichtige Wasserscheide.", "Gering besiedelt."],
       hu: ["Száraz, kopár táj.", "Fontos vízválasztó.", "Ritkán lakott."],
       ro: ["Peisaj arid, sterp.", "Bazin hidrografic important.", "Puțin populat."],
@@ -314,8 +374,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Termékeny tengerparti síkság Haiti déli részén, fontos a mezőgazdaság szempontjából.",
       ro: "O câmpie de coastă fertilă în sudul Haitiului, importantă pentru agricultură.",
       en: "A fertile coastal plain in southern Haiti, important for agriculture."
+    },,
+    descriptionAdvanced: {
+      hu: "A Plaine des Cayes a Sud (Déli) megye legfontosabb domborzati formája, egy széles, alacsonyan fekvő partmenti hordaléksíkság, amely a Massif de la Hotte hegység lábánál terül el és a Karib-tengerbe simul. Ez a reljef rendkívül lapos, átlagos tengerszint feletti magassága ritkán haladja meg a 10-20 métert, ami miatt a folyók (mint a Rivière de la Ravine du Sud) lassan kanyarogva (meanderezve) szelik át, mielőtt a tengerbe érnek. A síkság vastag, fekete termőtalaja történelmileg Haiti egyik legjövedelmezőbb cukor- és vetiver-termő vidékévé tette. A lapos domborzat hátulütője a rendkívüli sebezhetőség a hurrikánok okozta vihardagályokkal (storm surge) és az áradásokkal szemben. A 2016-os Matthew hurrikán során a tenger betört a síkságra, hetekre sós mocsárrá változtatva az ország egyik legfontosabb éléskamráját. Földrajz K7 — parti hordaléksíkságok és a vihardagályok veszélyei."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["Széles, lapos parti hordaléksíkság Haiti délnyugati partján (Sud megye).", "A Massif de la Hotte-ból lezúduló folyók iszapja építette fel évezredek alatt.", "Kiváló minőségű talaja miatt a haiti vetiver- és cukornádtermesztés központja.", "Lapos (0-20m) domborzata miatt a folyók lassan, meanderezve folynak rajta.", "Rendkívül sebezhető a tengeri vihardagályokkal (Matthew hurrikán, 2016) szemben.", "A sík terep megkönnyíti az infrastruktúra kiépítését, de az árvízvédelem hiányos."]
+    }
+  }    facts: {
       de: ["Zentrum des Vetiver-Anbaus.", "Wird vom Fluss Cavaillon bewässert.", "Dicht besiedelt."],
       hu: ["A vetivertermesztés központja.", "A Cavaillon folyó öntözi.", "Sűrűn lakott."],
       ro: ["Centrul cultivării vetiverului.", "Irigată de râul Cavaillon.", "Dens populată."],
@@ -344,8 +410,14 @@ export const poiExtraHaitiReliefV2: POI[] = [
       hu: "Hegy a Massif de la Hotte hegységben, amely gazdag növény- és állatvilágáról ismert.",
       ro: "Un munte în Masivul de la Hotte, cunoscut pentru flora și fauna sa bogată.",
       en: "A mountain in the Massif de la Hotte, known for its rich flora and fauna."
+    },,
+    descriptionAdvanced: {
+      hu: "A Pic de Bonhomme (Bonhomme-csúcs) egy kiemelkedő orográfiai pont a nyugat-haiti hegyvidékeken (gyakran a Chaîne des Matheux vagy a Montagnes Noires vonulatában azonosítják). Bár nem tartozik az ország legmagasabb csúcsai közé, a környező lankásabb fennsíkokból való hirtelen kiemelkedése miatt fontos navigációs tájékozódási pont (landmark) a helyi lakosság számára. A 'Bonhomme' (Ember/Úriember) név valószínűleg a csúcs egyedi, emberi sziluettre vagy kalapra emlékeztető sziklaformációjára utal. A domborzat itt klasszikus karszt-torony (mogote) jelleget is mutathat: meredek, szinte függőleges sziklafalak, amelyek a kőzet eltérő lepusztulása nyomán maradtak meg. A csúcs oldalában gyakoriak a sekély barlangok, amelyeket a forradalom idején menedékhelyként (marronage), ma pedig a vudu ceremóniák szakrális tereként használnak a hegyi közösségek. Földrajz K6 — karszt-tornyok és kulturális tájékozódási pontok."
     },
-    facts: {
+    factsAdvanced: {
+      hu: ["Markánsan kiemelkedő hegycsúcs a közép-nyugati karsztvidékeken.", "Hirtelen emelkedik ki a környezetéből, egyfajta karszt-toronyként (mogote).", "A helyiek számára hagyományos vizuális tájékozódási pontként szolgál.", "Nevét ('Úriember-csúcs') valószínűleg ember alakú sziklaformációjáról kapta.", "A meredek mészkőfalakban sekély barlangok és beugrók találhatók.", "Kulturálisan és történelmileg (marronage, vudu) jelentős, szakrális helyszín."]
+    }
+  }    facts: {
       de: ["Höhe ca. 1.300 Meter.", "Wichtiger Teil des Macaya-Nationalparks.", "Lebensraum für seltene Orchideen."],
       hu: ["Magassága kb. 1300 méter.", "A Macaya Nemzeti Park fontos része.", "Ritka orchideák élőhelye."],
       ro: ["Altitudine de aprox. 1.300 de metri.", "Parte importantă a Parcului Național Macaya.", "Habitat pentru orhidee rare."],
