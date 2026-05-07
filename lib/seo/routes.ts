@@ -10,6 +10,7 @@ import {
   findRegionByStateSlug,
   getCountryId,
   getStateForPoi,
+  stateSlugFor,
   localizedStateName,
   pois,
   regions,
@@ -295,12 +296,21 @@ export function getPoiByRouteParams(lang: Lang, country: string, state: string, 
   }
   if (!countryId) return null;
 
-  const region = findRegionByStateSlug(lang, state);
-  if (!region || getCountryId(region.id) !== countryId) return null;
-
   const poi = findPoiBySlug(lang, poiSlugValue);
-  // POI parent egyezhet region.id-vel (legacy slug pl "budapest") VAGY region.parent-tel (HU-BU ISO kod)
-  if (!poi || (poi.parent !== region.id && poi.parent !== region.parent)) return null;
+  if (!poi || !poi.parent) return null;
+
+  const expectedStateSlug = stateSlugFor(poi.parent, lang);
+  if (state !== expectedStateSlug && state !== poi.parent.toLowerCase()) return null;
+
+  if (getCountryId(poi.parent) !== countryId) return null;
+
+  const region = getStateForPoi(poi) ?? {
+    id: poi.parent,
+    type: "region",
+    parent: countryId,
+    name: { de: poi.parent, hu: poi.parent, ro: poi.parent, en: poi.parent },
+  } as POI;
+
   return { poi, region };
 }
 
@@ -315,7 +325,19 @@ export function getStateByRouteParams(lang: Lang, country: string, state: string
   }
   if (!countryId) return null;
 
-  const region = findRegionByStateSlug(lang, state);
+  let region = findRegionByStateSlug(lang, state);
+  if (!region) {
+    const poiInState = pois.find((p) => p.parent && (stateSlugFor(p.parent, lang) === state || p.parent.toLowerCase() === state));
+    if (poiInState) {
+      region = {
+        id: poiInState.parent,
+        type: "region",
+        parent: countryId,
+        name: { de: poiInState.parent, hu: poiInState.parent, ro: poiInState.parent, en: poiInState.parent },
+      } as POI;
+    }
+  }
+
   if (!region || getCountryId(region.id) !== countryId) return null;
   return region;
 }

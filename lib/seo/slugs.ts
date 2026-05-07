@@ -21,7 +21,16 @@ for (const p of [...dePois, ...ALL_DE_EXTRA_POIS, ...romaniaAllPois, ...hungaryA
   if (p && p.id && !_poiById.has(p.id)) _poiById.set(p.id, p);
 }
 export const pois = Array.from(_poiById.values());
-export const regions = [...deRegions, ...romaniaRegions, ...hungaryRegions];
+const _regionById = new Map<string, POI>();
+for (const r of [...deRegions, ...romaniaRegions, ...hungaryRegions]) {
+  if (r && r.id && !_regionById.has(r.id)) _regionById.set(r.id, r);
+}
+for (const p of pois) {
+  if (p && (p.type === "region" || p.type === "country") && !_regionById.has(p.id)) {
+    _regionById.set(p.id, p);
+  }
+}
+export const regions = Array.from(_regionById.values());
 
 export const COUNTRY_SLUGS: Record<string, Record<Lang, string>> = {
   germany: {
@@ -237,7 +246,7 @@ export function poiSlug(poi: POI, lang: Lang) {
 }
 
 export function findRegionByStateSlug(lang: Lang, stateSlug: string) {
-  return regions.find((region): region is POI => isDefinedPoi(region) && STATE_SLUGS[region.id]?.[lang] === stateSlug) ?? null;
+  return regions.find((region): region is POI => isDefinedPoi(region) && stateSlugFor(region.id, lang) === stateSlug) ?? null;
 }
 
 export function findPoiBySlug(lang: Lang, poiSlugValue: string) {
@@ -267,7 +276,7 @@ export function getCountryId(id: string) {
   // HU regions: legacy slug ("budapest", "fejer") VAGY uj parent="HU-XX" -> hungary
   const huMatch = regions.some(r => r.id === id && (r.parent === "HU" || r.parent?.startsWith("HU-")));
   if (huMatch) return "hungary";
-  if (id === "country-vatican") return "vatican";
+  if (id.startsWith("country-")) return id.replace("country-", "");
   // Strip "XX-YY" prefix to get ISO2
   const iso2 = id.includes("-") ? id.split("-")[0].toUpperCase() : id.toUpperCase();
   return ISO2_TO_COUNTRY[iso2] ?? "germany";
