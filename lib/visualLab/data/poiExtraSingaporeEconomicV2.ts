@@ -25,7 +25,20 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       hu: ["Több mint 100 globális vegyipari vállalatnak ad otthont.", "Hét kisebb sziget összevonásával jött létre.", "Jelentősen hozzájárul Szingapúr GDP-jéhez."],
       ro: ["Găzduiește peste 100 de companii chimice globale.", "A fost creat prin fuzionarea a șapte insule mici.", "O contribuție majoră la PIB-ul Singaporelui."],
       en: ["Houses over 100 global chemical companies.", "Was created by amalgamating seven smaller islands.", "A major contributor to Singapore's GDP."]
-    }, image: "/poi-images/jurong-island-petrochemical-hub-economic-v2.webp"},
+    }, image: "/poi-images/jurong-island-petrochemical-hub-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Jurong Island is a man-made island located off the southwestern coast of Singapore, serving as the cornerstone of the country's energy and chemicals industry. Formed by the amalgamation of seven smaller islands through extensive land reclamation, it is now one of the world's leading integrated petrochemical hubs. The island hosts over 100 global companies, including oil majors and chemical giants like ExxonMobil, Shell, and BASF. Its integrated infrastructure allows companies to exchange products and services efficiently, reducing costs and environmental impact. Key facilities include refineries, cracker plants, and the Jurong Rock Caverns, Southeast Asia's first underground liquid hydrocarbons storage facility. Jurong Island is a restricted area and a critical asset for Singapore's economy, contributing significantly to its manufacturing output and status as a global energy hub."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Formed by reclaiming and joining seven smaller offshore islands.", "Land reclamation began in 1995 and was completed in 2009.", "Hosts over 100 global energy and chemical companies.", "Features the Jurong Rock Caverns, located 150 meters underground.", "Home to one of the world's largest integrated petrochemical complexes.", "Connected to mainland Singapore via the Jurong Island Highway.", "The island has a total land area of approximately 32 square kilometers.", "Critical pillar of Singapore's manufacturing sector."]
+    }
+  },
   {
     id: "port-of-singapore-economic-v2",
     type: "port",
@@ -48,7 +61,20 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       hu: ["Több mint 600 kikötővel áll összeköttetésben 123 országban.", "A világ második legnagyobb konténerkikötője a forgalom alapján.", "Fontos hajó-üzemanyag-feltöltő állomás."],
       ro: ["Conectat cu peste 600 de porturi din 123 de țări.", "Al doilea cel mai mare port de containere din lume după tonaj.", "Locație majoră pentru buncheraj (alimentarea navelor)."],
       en: ["Connected to over 600 ports in 123 countries.", "World's second-busiest container port by tonnage.", "Major location for ship bunkering."]
-    }, image: "/poi-images/port-of-singapore-economic-v2.webp"},
+    }, image: "/poi-images/port-of-singapore-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Port of Singapore is one of the busiest and most efficient maritime hubs in the world, playing a crucial role in international trade and Singapore's economy. Strategically located at the crossroads of major shipping routes between the East and West, it serves as a premier transshipment hub, connecting over 600 ports in more than 120 countries. The port is managed by PSA Singapore and Jurong Port, featuring advanced container terminals like Pasir Panjang, Keppel, and Tanjong Pagar. It handles millions of shipping containers (TEUs) annually and is a leader in maritime technology and sustainability. The massive Tuas Port project is currently underway, aiming to consolidate all container operations into a single, fully automated mega-port that will double the current capacity, ensuring Singapore remains at the forefront of the global maritime industry for decades to come."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Consistently ranked as the world's busiest transshipment hub.", "Connected to over 600 ports in more than 120 countries.", "Handled over 37 million TEUs of containers in 2023.", "Strategic location at the southern entrance to the Strait of Malacca.", "Includes the massive Pasir Panjang Terminal with deep-water berths.", "Currently developing Tuas Port, which will be the world's largest automated port.", "A major global center for bunkering (fueling ships).", "Contributes about 7% to Singapore's Gross Domestic Product (GDP)."]
+    }
+  },
   {
     id: "marina-bay-financial-centre-economic-v2",
     type: "trade-hub",
@@ -71,7 +97,20 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       hu: ["Három irodatoronyból és két lakótoronyból áll.", "Szingapúr 'új' pénzügyi központjának tekintik.", "Közvetlenül a vízparton található."],
       ro: ["Constă din trei turnuri de birouri și două turnuri rezidențiale.", "Considerat 'noul' centru financiar al Singaporelui.", "Situat direct pe malul apei."],
       en: ["Consists of three office towers and two residential towers.", "Considered the 'new' downtown of Singapore.", "Located directly on the waterfront."]
-    }, image: "/poi-images/marina-bay-financial-centre-economic-v2.webp"},
+    }, image: "/poi-images/marina-bay-financial-centre-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Marina Bay Financial Centre (MBFC) is a landmark mixed-use development that defines Singapore's modern skyline and its status as a leading global financial hub. Located in the Downtown Core, MBFC consists of three Grade-A office towers, two luxury residential towers (Marina Bay Suites and Marina Bay Residences), and the Marina Bay Link Mall. It provides over 3 million square feet of prime office space, hosting major multinational corporations and financial institutions such as Standard Chartered Bank, DBS Bank, and BHP. The development is integrated with a comprehensive transport network, including several MRT stations, and offers breathtaking views of Marina Bay. MBFC represents the extension of Singapore's Central Business District into the new Marina Bay area, embodying a 'live-work-play' concept that integrates corporate business with high-end living and retail in a spectacular waterfront setting."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Premier financial hub located in the new Downtown at Marina Bay.", "Developed on a 3.55-hectare site of reclaimed land.", "Consists of three office towers and two luxury residential blocks.", "Hosts major global banks like Standard Chartered and DBS.", "Features the Marina Bay Link Mall, an underground retail space.", "Integrated with the Raffles Place and Downtown MRT stations.", "Completed in phases between 2010 and 2012.", "Provides breathtaking views of the Marina Bay waterfront."]
+    }
+  },
   {
     id: "tuas-biomedical-park-economic-v2",
     type: "industry",
@@ -94,7 +133,20 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       hu: ["Része Szingapúr stratégiájának, hogy vezető orvosbiológiai központtá váljon.", "Korszerű infrastruktúra a kutatáshoz és termeléshez.", "Állami beruházásokkal támogatott."],
       ro: ["Parte a strategiei Singaporelui de a deveni un centru biomedical de top.", "Infrastructură modernă pentru cercetare și producție.", "Susținut de investiții guvernamentale."],
       en: ["Part of Singapore's strategy to become a leading biomedical hub.", "State-of-the-art infrastructure for research and production.", "Supported by government investment."]
-    }, image: "/poi-images/tuas-biomedical-park-economic-v2.webp"},
+    }, image: "/poi-images/tuas-biomedical-park-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Tuas Biomedical Park is a world-class manufacturing hub dedicated to the life sciences and biotechnology industries, located in the West Region of Singapore. Spanning hundreds of hectares, it provides a specialized environment with the necessary infrastructure for large-scale production of pharmaceuticals and medical devices. The park is home to numerous multinational pharmaceutical companies, including GlaxoSmithKline, Pfizer, Novartis, and AbbVie. These companies operate state-of-the-art manufacturing plants that produce active pharmaceutical ingredients, biologics, and nutritional products for global markets. Singapore's strong regulatory framework, intellectual property protection, and skilled workforce have made Tuas Biomedical Park a preferred location for these high-value industries. The park's success has significantly boosted Singapore's manufacturing sector and established the country as a leading global center for biomedical sciences manufacturing."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Specialized 360-hectare park for the biomedical sciences industry.", "Hosts manufacturing plants of global giants like GSK, Pfizer, and Novartis.", "Singapore's first dedicated biomedical manufacturing cluster.", "Produces a significant portion of the world's active pharmaceutical ingredients.", "Strategically located in the Tuas industrial area with sea access.", "Features specialized infrastructure for high-purity water and steam.", "Critical to Singapore's Biopolis-Tuas integrated biomedical strategy.", "A major contributor to Singapore's manufacturing GDP."]
+    }
+  },
   {
     id: "sembcorp-marine-tuas-boulevard-yard-economic-v2",
     type: "industry",
@@ -117,7 +169,20 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       hu: ["Délkelet-Ázsia egyik legnagyobb hajógyára.", "Fúrótornyokra és FPSO-egységekre szakosodott.", "A világ legnagyobb szárazdokkjai közül néhánnyal rendelkezik."],
       ro: ["Unul dintre cele mai mari șantiere navale din Asia de Sud-Est.", "Specializat în platforme de foraj și unități FPSO.", "Dispune de unele dintre cele mai mari docuri uscate din lume."],
       en: ["One of the largest shipyards in Southeast Asia.", "Specializes in jack-up rigs and FPSO units.", "Features some of the largest dry docks in the world."]
-    }, image: "/poi-images/sembcorp-marine-tuas-boulevard-yard-economic-v2.webp"},
+    }, image: "/poi-images/sembcorp-marine-tuas-boulevard-yard-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Sembcorp Marine Tuas Boulevard Yard is one of the largest and most advanced integrated shipyards in the world, located in the Tuas industrial district of Singapore. This state-of-the-art facility is designed to meet the growing demand for complex offshore and marine engineering projects. The yard features several large dry docks, including one capable of accommodating the world's largest cruise ships and container vessels. It is equipped with advanced automation and robotics to improve efficiency and safety in shipbuilding, repair, and conversion. The Tuas Boulevard Yard serves as a hub for the construction of high-specification offshore rigs, floating production storage and offloading (FPSO) units, and specialized vessels. Its development represents a significant step in the modernization of Singapore's maritime industry, consolidating multiple smaller yards into a single, high-efficiency complex to maintain the country's global leadership in the sector."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["One of the world's largest and most advanced integrated shipyards.", "Features a massive 206,000-square-meter hull shop.", "Dry Dock 1 is capable of handling the largest vessels in the world.", "Incorporates advanced automation and green technologies in its operations.", "Consolidated Sembcorp Marine's operations into a single mega-yard.", "Specializes in offshore rig construction and FPSO conversions.", "Phase 1 of the yard began operations in 2013.", "Strategic asset for Singapore's marine and offshore engineering industry."]
+    }
+  },
   {
     id: "changi-business-park-economic-v2",
     type: "trade-hub",
@@ -140,7 +205,20 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       hu: ["A Changi repülőtér közelében található.", "Ismert az IT- és logisztikai vállalatok magas koncentrációjáról.", "Kiskereskedelmi és vendéglátó-ipari létesítményekkel is rendelkezik."],
       ro: ["Situat în apropierea Aeroportului Changi.", "Cunoscut pentru concentrația sa ridicată de companii IT și de logistică.", "Dispune de facilități de retail și restaurante."],
       en: ["Located near Changi Airport.", "Known for its high concentration of IT and logistics companies.", "Features retail and dining amenities."]
-    }, image: "/poi-images/changi-business-park-economic-v2.webp"},
+    }, image: "/poi-images/changi-business-park-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Changi Business Park (CBP) is a leading regional business hub located in the East Region of Singapore, near Changi Airport. Launched in 1997, it is designed for companies in high-technology, research and development, and data-intensive industries. CBP is particularly known as a center for financial technology (fintech) and back-office operations for major international banks such as Citibank, DBS, and Credit Suisse. The park features a vibrant campus-like environment with modern office buildings, retail spaces at City Square mall, and hotels. It is home to the Singapore University of Technology and Design (SUTD), fostering collaboration between academia and industry. CBP's strategic location and excellent connectivity via the Changi City Point and Expo MRT stations make it a highly desirable location for multinational corporations looking to establish a regional presence in Southeast Asia."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Launched in 1997 as a hub for high-tech and financial services.", "Home to the Singapore University of Technology and Design (SUTD).", "Hosts back-office operations for major banks like Citi and DBS.", "Located adjacent to the Expo MRT station and near Changi Airport.", "Features Changi City Point, a major shopping and dining destination.", "Designed with a green, campus-style environment.", "Houses numerous multinational R&D and data centers.", "Part of the Changi region's transformation into an innovation district."]
+    }
+  },
   {
     id: "singapore-exchange-sgx-economic-v2",
     type: "trade-hub",
@@ -163,7 +241,20 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       hu: ["1999-ben alapították két tőzsde egyesülésével.", "Hozzáférés biztosít a legfontosabb ázsiai gazdaságokhoz.", "A devizakereskedelem fontos csomópontja."],
       ro: ["Fondată în 1999 prin fuziunea a două burse.", "Oferă acces la principalele economii asiatice.", "Un centru important pentru tranzacționarea valutară."],
       en: ["Formed in 1999 by the merger of two exchanges.", "Offers access to key Asian economies.", "A major hub for foreign exchange trading."]
-    }, image: "/poi-images/singapore-exchange-sgx-economic-v2.webp"},
+    }, image: "/poi-images/singapore-exchange-sgx-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "The Singapore Exchange (SGX) is the country's primary stock exchange and a leading international multi-asset exchange in Asia. Located in the Central Business District, SGX provides a platform for trading a wide range of securities, including stocks, bonds, and derivatives. It is renowned for its strong regulatory framework, transparency, and high-quality listing standards, attracting companies from around the world. SGX is also a pioneer in sustainability and green finance, being the first exchange in Asia to require sustainability reporting for listed companies. As a critical infrastructure for Singapore's financial system, SGX plays a vital role in capital raising and wealth management. It serves as a gateway for international investors seeking exposure to Asian markets, offering a diverse range of products and services that cater to the needs of both institutional and retail participants."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["Asia's most international multi-asset stock and derivatives exchange.", "Formed in 1999 through the merger of SES and SIMEX.", "Home to the Straits Times Index (STI), the benchmark index for Singapore.", "A global leader in REITs (Real Estate Investment Trusts) listings.", "Pioneer in sustainability reporting for listed companies in Asia.", "Operates a high-speed electronic trading platform.", "Critical component of Singapore's status as a global financial center.", "Provides a gateway for global capital into the Asian markets."]
+    }
+  },
   {
     id: "tuas-power-station-economic-v2",
     type: "energy",
@@ -186,7 +277,20 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       hu: ["Főként földgázt használ tüzelőanyagként.", "Kombinált ciklusú erőmű a nagyobb hatékonyság érdekében.", "Folyamatosan modernizálják a károsanyag-kibocsátás csökkentése érdekében."],
       ro: ["Utilizează în principal gaz natural drept combustibil.", "Centrală cu ciclu combinat pentru o eficiență sporită.", "Modernizată continuu pentru a reduce emisiile."],
       en: ["Primarily uses natural gas as fuel.", "Combined-cycle power plant for higher efficiency.", "Continuously upgraded to reduce emissions."]
-    }, image: "/poi-images/tuas-power-station-economic-v2.webp"},
+    }, image: "/poi-images/tuas-power-station-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Tuas Power Station is one of Singapore's largest and most efficient power generation facilities, located in the Tuas industrial district. Operated by Tuas Power, the station plays a critical role in ensuring the country's energy security and supporting its industrial development. The facility utilizes advanced combined-cycle gas turbine (CCGT) technology, which burns natural gas to generate electricity with high efficiency and lower carbon emissions compared to traditional fossil fuel plants. Tuas Power Station has a significant generation capacity, providing a substantial portion of Singapore's total electricity demand. In addition to electricity generation, the station is involved in the supply of utilities like steam and industrial water to the surrounding industrial customers. Its continuous investment in modern technology and sustainable practices reflects Singapore's commitment to a reliable and environmentally responsible energy sector."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["One of Singapore's primary and most efficient power plants.", "Utilizes advanced Combined-Cycle Gas Turbine (CCGT) technology.", "Primarily fueled by natural gas imported via pipelines and LNG.", "Provides approximately 20% of Singapore's total electricity needs.", "The station has a total generation capacity exceeding 2,600 MW.", "Owned and operated by Tuas Power, a major utility company.", "Features state-of-the-art environmental control and monitoring systems.", "Critical infrastructure for Singapore's industrial and residential energy supply."]
+    }
+  },
   {
     id: "keppel-shipyard-economic-v2",
     type: "industry",
@@ -209,6 +313,18 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       hu: ["A Keppel Corporation, egy szingapúri konglomerátum része.", "FPSO és FSRU átalakításokra szakosodott.", "Sokféle hajótípust szolgál ki."],
       ro: ["Parte a Keppel Corporation, un conglomerat din Singapore.", "Specializat în conversii FPSO și FSRU.", "Deservește o gamă largă de tipuri de nave."],
       en: ["Part of Keppel Corporation, a Singaporean conglomerate.", "Specializes in FPSO and FSRU conversions.", "Services a wide range of vessel types."]
+    },
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "Keppel Shipyard is a world leader in the repair, conversion, and construction of specialized vessels and offshore rigs, with a history that spans over a century in Singapore. As part of the Keppel Offshore & Marine group, it has built a global reputation for its technical expertise and high-quality execution. The shipyard is renowned for its pioneering work in the conversion of oil tankers into floating production storage and offloading (FPSO) units, as well as the fabrication of advanced jack-up and semi-submersible rigs. Keppel Shipyard operates several facilities across Singapore, equipped with extensive dry docks and specialized workshops. Its commitment to innovation and safety has made it a preferred partner for global oil and gas companies. The shipyard's success is a cornerstone of Singapore's maritime industry, contributing to the country's status as a premier global offshore and marine engineering hub."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["A world leader in FPSO (Floating Production Storage and Offloading) conversions.", "Boasts over 150 years of maritime heritage in Singapore.", "Renowned for technical excellence in offshore rig construction.", "Operates major facilities in Tuas, Benoi, and Gul.", "Part of the Keppel Group, a leading Singaporean conglomerate.", "Has successfully completed hundreds of complex marine projects.", "A pioneer in sustainable solutions for the offshore and marine industry.", "Crucial contributor to Singapore's status as a global maritime capital."]
     }
   },
   {
@@ -233,7 +349,20 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       hu: ["Tematikus klaszterekre oszlik, mint például a Biopolis és a Fusionopolis.", "'Munka-élet-játék-tanulás' környezet megteremtésére tervezték.", "Számos startupnak és kutatóintézetnek ad otthont."],
       ro: ["Împărțit în clustere tematice precum Biopolis și Fusionopolis.", "Conceput pentru a crea un mediu 'muncă-viață-joc-învățare'.", "Găzduiește multe start-up-uri și institute de cercetare."],
       en: ["Divided into thematic clusters like Biopolis and Fusionopolis.", "Designed to create a 'work-live-play-learn' environment.", "Home to many startups and research institutes."]
-    }, image: "/poi-images/one-north-business-park-economic-v2.webp"},
+    }, image: "/poi-images/one-north-business-park-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "",
+      hu: "",
+      ro: "",
+      en: "one-north is a vibrant 200-hectare research and business park in Singapore, designed to foster innovation and entrepreneurship in key growth sectors. Developed by JTC Corporation, it is divided into specialized hubs such as Biopolis (for biomedical sciences), Fusionopolis (for physical sciences and engineering), and Mediapolis (for digital media). one-north features a unique 'work-live-play-learn' environment, integrating research facilities with residential spaces, parks, and retail amenities. It is home to world-class research institutes, multinational corporations, and a thriving startup ecosystem centered at LaunchPad @ one-north. The park's architecture is characterized by its modern and iconic buildings, designed by renowned architects like Zaha Hadid. By bringing together academia, industry, and talent, one-north has become a global icon for Singapore's knowledge-based economy and a leading center for cutting-edge R&D in Asia."
+    },
+    factsAdvanced: {
+      de: [],
+      hu: [],
+      ro: [],
+      en: ["200-hectare innovation district developed by JTC Corporation.", "Home to Biopolis, Fusionopolis, and Mediapolis research hubs.", "Features the LaunchPad @ one-north, a vibrant startup cluster.", "Master-planned by the late world-renowned architect Zaha Hadid.", "Integrates research, residential, and recreational spaces.", "Host to A*STAR (Agency for Science, Technology and Research) institutes.", "Strategically located near the National University of Singapore.", "A global showcase for Singapore's knowledge-based economic strategy."]
+    }
+  },
   {
     id: "singapore-freeport-economic-v2",
     type: "port",

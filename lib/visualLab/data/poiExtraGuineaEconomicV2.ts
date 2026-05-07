@@ -99,13 +99,13 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "",
       hu: "",
       ro: "",
-      en: "Katougouma acts as a crucial inland port on the Rio Nuñez, bridging the logistical gap between the inland bauxite mines and coastal loading stations. Through its strategic position, it enables efficient coordination of the bulk goods logistics chain, which is vital for the Guinean economy. The port supports thousands of jobs in the Boké region and is a classic example of the modernization of industrial infrastructure in Guinea. Geography K7  —  Logistics chains."
+      en: "The Port of Katougouma is a specialized, modern river port located on the Nuñez River in the Boké region, developed specifically to handle the massive export of Guinean bauxite. Constructed and operated by the SMB-Winning Consortium, the port represents a major shift in Guinea's mining infrastructure, utilizing a complex system of barges to transport ore down the river to deep-water transshipment points in the Atlantic Ocean. Opened in 2015, the facility dramatically increased the country's export capacity, turning Guinea into the world's leading exporter of bauxite. The port features extensive stockpiling yards, conveyor systems, and loading terminals, operating 24 hours a day. While it is a marvel of modern logistics, the intense industrial activity has raised significant concerns regarding river water quality, dust pollution, and the disruption of local artisanal fishing communities. Geography K8 — riverine bulk ports and global mineral logistics."
     },
     factsAdvanced: {
       de: [],
       hu: [],
       ro: [],
-      en: ["Important hub for transporting bauxite.", "Strategic location on the Rio Nuñez.", "Thousands of jobs in the Boké region.", "Logistics center of industrial modernization.", "Loading station for inland navigation.", "Key role for the regional economy."]
+      en: ["A major specialized bauxite export port on the Nuñez River.", "Developed and operated by the massive SMB-Winning Consortium.", "Utilizes a massive fleet of barges for river-to-ocean transshipment.", "Began operations in 2015, revolutionizing Guinean bauxite exports.", "Capable of handling tens of millions of tons of ore annually.", "Has significantly impacted the local riverine environment and fishing."]
     }, image: "/poi-images/hafen-katougouma-economic-v2.webp"},
   {
     id: "bauxitmine-sangaredi-economic-v2",
@@ -134,13 +134,13 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "",
       hu: "",
       ro: "",
-      en: "The Sangarédi bauxite mine is considered one of the world's most significant mining projects and the backbone of the Guinean economy. With ore grades that are among the highest in the world, it provides the raw material for aluminum, which is needed globally in industries ranging from aviation to packaging. The operation is managed by the Compagnie des Bauxites de Guinée (CBG) and has been the country's most stable source of foreign exchange for decades. Geography K8  —  Resource extraction."
+      en: "The Sangarédi Bauxite Mine is one of the largest and highest-grade bauxite mining complexes in the world, located in the Boké region of northwestern Guinea. Operated by the Compagnie des Bauxites de Guinée (CBG) since 1973, the mine targets a massive lateritic plateau where the aluminum ore sits just below the surface, allowing for extensive open-pit extraction. The scale of the operation is staggering, utilizing massive draglines, excavators, and a dedicated 135-kilometer heavy-haul railway to transport the crushed ore directly to the Atlantic port of Kamsar. For decades, the Sangarédi mine has been the primary engine of the Guinean economy, generating a massive portion of the nation's export revenue. However, the sprawling open pits have resulted in severe deforestation, habitat destruction, and the displacement of local communities, highlighting the complex trade-offs of mega-mining projects. Geography K8 — open-pit mega-mines and national economic drivers."
     },
     factsAdvanced: {
       de: [],
       hu: [],
       ro: [],
-      en: ["One of the world's highest bauxite ore grades.", "Operated by Compagnie des Bauxites de Guinée (CBG).", "Guinea's most stable source of foreign exchange for decades.", "Important supplier for the global aluminum industry.", "Large-scale open-pit mining.", "Integration into a national railway infrastructure."]
+      en: ["One of the largest and richest bauxite mining operations globally.", "Operated by the Compagnie des Bauxites de Guinée (CBG) since 1973.", "Features massive open-pit extraction across a lateritic plateau.", "Connects to the port of Kamsar via a dedicated 135 km railway.", "Historically the single largest contributor to Guinea's export revenue.", "Faces significant scrutiny over deforestation and habitat destruction."]
     }
   },
   {
@@ -170,13 +170,13 @@ export const poiExtraGuineaEconomicV2: POI[] = [
       de: "",
       hu: "",
       ro: "",
-      en: "The Debele bauxite mine near the town of Kindia is a central element in Guinea's strategic partnership with international mining companies, particularly the Russian RUSAL group. The site is characterized by vast reserves and a direct rail link, which enables efficient transport of the ore to the coast. The mine is an essential player in local economic development and employment in the Kindia region. Geography K7  —  International industrial cooperation."
+      en: "The Debele Bauxite Mine is a critical mining operation located in the Kindia Prefecture, operated primarily by the Compagnie des Bauxites de Kindia (CBK), a subsidiary of the Russian giant Rusal. The mine has been operational since the early 2000s, extracting high-quality bauxite from the rolling hills surrounding the city of Kindia. Unlike the massive plateau mines of Boké, Debele's operations are spread across numerous smaller pits, utilizing a dedicated railway line to transport the raw ore directly to the port facilities in Conakry for global export. The mine is a major employer in the Kindia region, driving significant local economic activity and infrastructure development. However, its close proximity to agricultural lands and population centers has led to ongoing friction regarding land use, water contamination, and the pervasive red dust that blankets nearby communities. Geography K8 — regional mining networks and land use conflicts."
     },
     factsAdvanced: {
       de: [],
       hu: [],
       ro: [],
-      en: ["Strategic cooperation with RUSAL.", "Vast bauxite reserves.", "Dedicated rail link.", "Important economic actor in Kindia.", "Integration into regional transport logistics.", "Long-term industrial site."]
+      en: ["A major bauxite mining operation located in the Kindia Prefecture.", "Operated by the Compagnie des Bauxites de Kindia (CBK/Rusal).", "Extracts ore from numerous pits across the regional hills.", "Connects directly to the port of Conakry via a dedicated railway.", "A primary employer and economic driver for the Kindia region.", "Often experiences friction with local communities over dust and land use."]
     }, image: "/poi-images/bauxitmine-debele-economic-v2.webp"},
   {
     id: "simandou-eisenerzmine-economic-v2",
